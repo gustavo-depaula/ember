@@ -1,3022 +1,1905 @@
 {
-  "version": "0.5",
-  "description": "Master data file for the 90-session catechetical formation track. Each session is one day's reading. Pius X Q ranges are inclusive on both ends. Aquinas and Trent chapter IDs reference catechetical-instructions and catechism-of-trent in the same library. teacher = 'aquinas' means the Aquinas chapter is the primary pastoral exposition; teacher = 'trent' means Trent fills that role (Aquinas has no parallel sermon).",
-  "sessions": [
+  "version": "1.0",
+  "description": "Day-by-day mapping for the catechetical formation track. Each day has a plate reference (to book/catechism-in-pictures) and/or a list of Compendium of the Catechism citation ranges. plate=null means a Compendium-only day. compendium is a list of {start, end, label} entries; end is inclusive. The build script reads plate text/images from the sister book and renders Compendium ranges as citation list items. The program walks through the Compendium's 598 questions in order, anchored by the 68 plates of the Catechism in Pictures wherever the topics align; Compendium-only days fill the gaps the 1908 plates leave open.",
+  "days": [
     {
-      "id": "session-001",
+      "id": "day-01",
       "order": 1,
-      "group": "preliminary",
+      "phase": "prologue",
       "title": {
-        "en-US": "Who Made Us, Who God Is",
-        "pt-BR": "Quem nos criou, quem é Deus"
+        "en-US": "Man's Capacity for God",
+        "pt-BR": "A capacidade humana para Deus"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "lezione-preliminare",
-          "from": 1,
-          "to": 13
+          "start": 1,
+          "end": 5,
+          "label": {
+            "en-US": "Man's desire for God; knowledge of God by reason; how we speak of Him",
+            "pt-BR": "O desejo de Deus no homem; o conhecimento de Deus pela razão; como falamos d'Ele"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-00-what-is-faith"
-      ],
-      "trent": null,
-      "image_topic": "God the Creator separating light from darkness; or Genesis creation scene",
-      "scripture_ref": "Genesis 1:1"
+      ]
     },
     {
-      "id": "session-002",
+      "id": "day-02",
       "order": 2,
-      "group": "preliminary",
+      "phase": "prologue",
       "title": {
-        "en-US": "Heaven, Hell, and Why We Are Here",
-        "pt-BR": "O Céu, o inferno, e por que estamos aqui"
+        "en-US": "God Comes to Meet Man — Revelation",
+        "pt-BR": "Deus vem ao encontro do homem — A Revelação"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "lezione-preliminare",
-          "from": 14,
-          "to": 27
+          "start": 6,
+          "end": 10,
+          "label": {
+            "en-US": "God's self-revelation; the stages from Adam to Christ; private revelations",
+            "pt-BR": "A autorrevelação de Deus; as etapas de Adão a Cristo; as revelações privadas"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Christ the Teacher with disciples, or the Last Judgment showing heaven and hell",
-      "scripture_ref": "John 17:3"
+      ]
     },
     {
-      "id": "session-003",
+      "id": "day-03",
       "order": 3,
-      "group": "creed",
+      "phase": "prologue",
       "title": {
-        "en-US": "What God Has Revealed",
-        "pt-BR": "O que Deus revelou"
+        "en-US": "How Revelation Is Handed On — Tradition, Scripture, Magisterium",
+        "pt-BR": "Como a Revelação se transmite — Tradição, Escritura, Magistério"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "credo-misteri-principali",
-          "from": 28,
-          "to": 31
+          "start": 11,
+          "end": 17,
+          "label": {
+            "en-US": "Apostolic Tradition; the relationship of Scripture and Tradition; the deposit of faith; the Magisterium",
+            "pt-BR": "A Tradição apostólica; relação entre Escritura e Tradição; o depósito da fé; o Magistério"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": "creed-intro",
-      "image_topic": "Apostle (St. Peter or St. Paul) writing or preaching the Gospel; or Pentecost",
-      "scripture_ref": "Hebrews 11:1"
+      ]
     },
     {
-      "id": "session-004",
+      "id": "day-04",
       "order": 4,
-      "group": "creed",
+      "phase": "prologue",
       "title": {
-        "en-US": "The Sign of the Cross",
-        "pt-BR": "O Sinal da Cruz"
+        "en-US": "Sacred Scripture",
+        "pt-BR": "A Sagrada Escritura"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "credo-misteri-principali",
-          "from": 32,
-          "to": 36
+          "start": 18,
+          "end": 24,
+          "label": {
+            "en-US": "Inspiration and inerrancy; the canon; how to interpret; the Old and New Testaments; Scripture in the life of the Church",
+            "pt-BR": "Inspiração e inerrância; o cânon; modos de interpretação; Antigo e Novo Testamento; a Escritura na vida da Igreja"
+          }
         }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Crucifixion (simple iconic form, e.g. Cimabue, El Greco, or a Russian icon of the Crucifixion)",
-      "scripture_ref": "Galatians 6:14"
+      ]
     },
     {
-      "id": "session-005",
+      "id": "day-05",
       "order": 5,
-      "group": "creed",
+      "phase": "prologue",
       "title": {
-        "en-US": "There Is One God",
-        "pt-BR": "Há um só Deus"
+        "en-US": "Man's Response to God — \"I Believe\"",
+        "pt-BR": "A resposta do homem — \"Eu creio\""
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "credo-unita-trinita",
-          "from": 37,
-          "to": 40
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-01a-i-believe-in-one-god"
-      ],
-      "trent": {
-        "chapter": "creed-01",
-        "sections": [
-          {
-            "en": "Meaning Of This Article",
-            "pt": "Sinopse do Artigo"
-          },
-          {
-            "en": "I Believe",
-            "pt": "Crer"
-          },
-          {
-            "en": "In God",
-            "pt": "[Creio] em Deus"
+          "start": 25,
+          "end": 29,
+          "label": {
+            "en-US": "The obedience of faith; Abraham and Mary as witnesses; the characteristics of faith; faith and science",
+            "pt-BR": "A obediência da fé; Abraão e Maria como testemunhas; as características da fé; fé e ciência"
           }
-        ]
-      },
-      "image_topic": "Moses and the Burning Bush (the 'I AM' moment, e.g. Chagall or a Greek icon)",
-      "scripture_ref": "Deuteronomy 6:4"
+        }
+      ]
     },
     {
-      "id": "session-006",
+      "id": "day-06",
       "order": 6,
-      "group": "creed",
+      "phase": "prologue",
       "title": {
-        "en-US": "Father, Son, and Holy Spirit",
-        "pt-BR": "Pai, Filho e Espírito Santo"
+        "en-US": "The Catechism in Pictures — Introduction and the Creeds",
+        "pt-BR": "O Catecismo em Imagens — Introdução e os Símbolos"
       },
-      "pius_x": [
+      "plate": "plate-01",
+      "compendium": [
         {
-          "chapter": "credo-unita-trinita",
-          "from": 41,
-          "to": 46
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-08-holy-ghost",
-          "sections": [
-            "@opening",
-            {
-              "en": "Teaching of the Nicene Creed",
-              "pt": "Doutrina do Símbolo Niceno"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-08",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of This Article",
-            "pt": "I. Importância do Artigo"
-          },
-          {
-            "en": "Holy Ghost",
-            "pt": "II. A Pessoa do Espírito Santo"
-          },
-          {
-            "en": "I Believe in the Holy Ghost",
-            "pt": "III. Efeitos do Espírito Santo"
+          "start": 30,
+          "end": 35,
+          "label": {
+            "en-US": "The ecclesial nature of faith; the Apostles' and Nicene-Constantinopolitan Creeds",
+            "pt-BR": "A natureza eclesial da fé; o Símbolo dos Apóstolos e o Niceno-Constantinopolitano"
           }
-        ]
-      },
-      "image_topic": "The Holy Trinity — Andrei Rublev's Trinity icon (Three Angels at Mamre); or Masaccio's Trinity",
-      "scripture_ref": "Matthew 28:19"
+        }
+      ]
     },
     {
-      "id": "session-007",
+      "id": "day-07",
       "order": 7,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "Three Persons, One God, Equal and Eternal",
-        "pt-BR": "Três Pessoas, um só Deus, iguais e eternos"
+        "en-US": "I Believe in God — Trinity",
+        "pt-BR": "Creio em Deus — A Trindade"
       },
-      "pius_x": [
+      "plate": "plate-02",
+      "compendium": [
         {
-          "chapter": "credo-unita-trinita",
-          "from": 47,
-          "to": 50
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-08-holy-ghost",
-          "sections": [
-            {
-              "en": "Benefits from the Holy Ghost",
-              "pt": "Benefícios provenientes do Espírito Santo"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-08",
-        "sections": [
-          {
-            "en": "Certain Divine Works are Appropriated to the Holy Ghost",
-            "pt": "III. Efeitos do Espírito Santo"
+          "start": 36,
+          "end": 43,
+          "label": {
+            "en-US": "I believe in God; the Name and nature of God",
+            "pt-BR": "Creio em Deus; o nome e a natureza de Deus"
           }
-        ]
-      },
-      "image_topic": "Coronation of the Virgin showing the Trinity (e.g. Velázquez's Coronation, or Fra Angelico)",
-      "scripture_ref": "John 1:1"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "label": {
+            "en-US": "The Most Holy Trinity",
+            "pt-BR": "A Santíssima Trindade"
+          }
+        }
+      ]
     },
     {
-      "id": "session-008",
+      "id": "day-08",
       "order": 8,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "Creator of Heaven and Earth",
-        "pt-BR": "Criador do Céu e da Terra"
+        "en-US": "Creation, Providence, Angels",
+        "pt-BR": "A Criação, a Providência, os anjos"
       },
-      "pius_x": [
+      "plate": "plate-03",
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 51,
-          "to": 52
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-01b-father-almighty-creator"
-      ],
-      "trent": {
-        "chapter": "creed-01",
-        "sections": [
-          {
-            "en": "The Father",
-            "pt": "Padre"
-          },
-          {
-            "en": "Almighty",
-            "pt": "Todo-Poderoso"
-          },
-          {
-            "en": "Creator",
-            "pt": "Criador do céu e da terra"
-          },
-          {
-            "en": "Of Heaven and Earth",
-            "pt": "Criador do céu e da terra"
+          "start": 50,
+          "end": 58,
+          "label": {
+            "en-US": "The Almighty Creator; Providence; the problem of evil",
+            "pt-BR": "O Criador onipotente; a Providência; o problema do mal"
           }
-        ]
-      },
-      "image_topic": "Creation of the world (Michelangelo's Sistine Creation panels, or William Blake)",
-      "scripture_ref": "Psalm 19:1"
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "label": {
+            "en-US": "Heaven and earth; the angels; man as the summit of visible creation",
+            "pt-BR": "O céu e a terra; os anjos; o homem como cume da criação visível"
+          }
+        }
+      ]
     },
     {
-      "id": "session-009",
+      "id": "day-09",
       "order": 9,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The Angels and the Demons",
-        "pt-BR": "Os anjos e os demônios"
+        "en-US": "Man — Image of God, Soul and Body",
+        "pt-BR": "O homem — Imagem de Deus, alma e corpo"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 53,
-          "to": 59
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": {
-        "chapter": "creed-01",
-        "sections": [
-          {
-            "en": "Of all Things Visible and Invisible",
-            "pt": "Criador do céu e da terra"
+          "start": 66,
+          "end": 72,
+          "label": {
+            "en-US": "The image of God; unity of soul and body; man and woman; original condition",
+            "pt-BR": "A imagem de Deus; unidade de alma e corpo; homem e mulher; condição original"
           }
-        ]
-      },
-      "image_topic": "St. Michael casting down the devil (Reni, Raphael, or a medieval icon); or the Guardian Angel (Pietro da Cortona)",
-      "scripture_ref": "Psalm 91:11"
+        }
+      ]
     },
     {
-      "id": "session-010",
+      "id": "day-10",
       "order": 10,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "What Man Is — Soul and Freedom",
-        "pt-BR": "O que é o homem — alma e liberdade"
+        "en-US": "The Incarnation — Names of Christ, Word Made Flesh",
+        "pt-BR": "A Encarnação — Nomes de Cristo, o Verbo encarnado"
       },
-      "pius_x": [
+      "plate": "plate-04-0",
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 60,
-          "to": 65
+          "start": 79,
+          "end": 84,
+          "label": {
+            "en-US": "Jesus; Christ; Only-Begotten Son of God; Lord",
+            "pt-BR": "Jesus; Cristo; Filho Unigênito de Deus; Senhor"
+          }
+        },
+        {
+          "start": 85,
+          "end": 93,
+          "label": {
+            "en-US": "Why God became man; true God and true man; one Person in two natures",
+            "pt-BR": "Por que Deus se fez homem; verdadeiro Deus e verdadeiro homem; uma só Pessoa em duas naturezas"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Michelangelo's Creation of Adam (Sistine Chapel)",
-      "scripture_ref": "Genesis 1:27"
+      ]
     },
     {
-      "id": "session-011",
+      "id": "day-11",
       "order": 11,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The First Parents in Eden",
-        "pt-BR": "Os primeiros pais no Éden"
+        "en-US": "The Annunciation — Conceived by the Holy Spirit, Born of Mary",
+        "pt-BR": "A Anunciação — Concebido pelo Espírito Santo, nascido de Maria"
       },
-      "pius_x": [
+      "plate": "plate-04-1",
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 66,
-          "to": 69
+          "start": 94,
+          "end": 100,
+          "label": {
+            "en-US": "Conceived by the Holy Spirit; Mary as Mother of God, Immaculate, ever-Virgin, spiritual Mother",
+            "pt-BR": "Concebido pelo Espírito Santo; Maria, Mãe de Deus, Imaculada, sempre Virgem, Mãe espiritual"
+          }
+        },
+        {
+          "start": 180,
+          "end": 181,
+          "label": {
+            "en-US": "Mary's role; the Assumption; eschatological icon of the Church",
+            "pt-BR": "O papel de Maria; a Assunção; ícone escatológico da Igreja"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Adam and Eve in the Garden (Cranach the Elder, Jan Brueghel, or Dürer)",
-      "scripture_ref": "Genesis 2:7"
+      ]
     },
     {
-      "id": "session-012",
+      "id": "day-12",
       "order": 12,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The Fall and Original Sin",
-        "pt-BR": "A queda e o pecado original"
+        "en-US": "The Nativity, Hidden Life, and the Public Ministry Begins",
+        "pt-BR": "A Natividade, a vida oculta e o início da vida pública"
       },
-      "pius_x": [
+      "plate": "plate-04-2",
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 70,
-          "to": 74
+          "start": 101,
+          "end": 104,
+          "label": {
+            "en-US": "Christ as Revelation; the birth, infancy, and hidden life",
+            "pt-BR": "Cristo como revelação; o nascimento, a infância e a vida oculta"
+          }
+        },
+        {
+          "start": 105,
+          "end": 107,
+          "label": {
+            "en-US": "Christ's baptism, the temptations in the desert, the inauguration of the Kingdom",
+            "pt-BR": "O batismo de Cristo, as tentações no deserto, a inauguração do Reino"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Expulsion from Paradise (Masaccio, or Michelangelo's Sistine Expulsion)",
-      "scripture_ref": "Romans 5:12"
+      ]
     },
     {
-      "id": "session-013",
+      "id": "day-13",
       "order": 13,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The Redeemer Promised and Sent",
-        "pt-BR": "O Redentor prometido e enviado"
+        "en-US": "The Public Life and the Passion — From Signs to the Cross",
+        "pt-BR": "A vida pública e a Paixão — Dos sinais à Cruz"
       },
-      "pius_x": [
+      "plate": "plate-05",
+      "compendium": [
         {
-          "chapter": "credo-creazione",
-          "from": 75,
-          "to": 77
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-02-jesus-christ",
-          "sections": [
-            "@opening",
-            {
-              "en": "Errors Relating to the Second Article",
-              "pt": "Erros relativos ao Segundo Artigo"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-02",
-        "sections": [
-          "@opening",
-          {
-            "en": "Advantages Of Faith In This Article",
-            "pt": "A importância deste Artigo"
-          },
-          {
-            "en": "Necessity Of Faith In This Article",
-            "pt": "A importância deste Artigo"
-          },
-          {
-            "en": "Jesus",
-            "pt": "O nome de Jesus"
-          },
-          {
-            "en": "Christ",
-            "pt": "Cristo"
+          "start": 108,
+          "end": 111,
+          "label": {
+            "en-US": "Miracles and signs; the apostles and their authority; the Transfiguration; the messianic entry into Jerusalem",
+            "pt-BR": "Milagres e sinais; os apóstolos e sua autoridade; a Transfiguração; a entrada messiânica em Jerusalém"
           }
-        ]
-      },
-      "image_topic": "The Annunciation (Fra Angelico, Leonardo da Vinci, or a Russian icon of the Annunciation)",
-      "scripture_ref": "Luke 1:35"
+        },
+        {
+          "start": 112,
+          "end": 119,
+          "label": {
+            "en-US": "The Paschal Mystery; Christ's trial; responsibility for His death; the Father's plan",
+            "pt-BR": "O Mistério Pascal; o processo de Cristo; responsabilidade pela sua morte; o desígnio do Pai"
+          }
+        },
+        {
+          "start": 120,
+          "end": 124,
+          "label": {
+            "en-US": "The Last Supper; Gethsemane; the fruits of Christ's sacrifice; the burial",
+            "pt-BR": "A Última Ceia; o Getsêmani; os frutos do sacrifício de Cristo; o sepultamento"
+          }
+        }
+      ]
     },
     {
-      "id": "session-014",
+      "id": "day-14",
       "order": 14,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "True God and True Man",
-        "pt-BR": "Verdadeiro Deus e verdadeiro homem"
+        "en-US": "The Descent into Hell",
+        "pt-BR": "A Descida aos infernos"
       },
-      "pius_x": [
+      "plate": "plate-06",
+      "compendium": [
         {
-          "chapter": "credo-incarnazione",
-          "from": 78,
-          "to": 81
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-02-jesus-christ",
-          "sections": [
-            {
-              "en": "The Divine Generation",
-              "pt": "A Geração Divina"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-02",
-        "sections": [
-          {
-            "en": "His Only Son",
-            "pt": "Um só Seu Filho"
-          },
-          {
-            "en": "Our Lord",
-            "pt": "Nosso Senhor"
-          },
-          {
-            "en": "Duties Owed To Christ Our Lord",
-            "pt": "Nosso Senhor"
+          "start": 125,
+          "end": 125,
+          "label": {
+            "en-US": "He descended into hell",
+            "pt-BR": "Desceu aos infernos"
           }
-        ]
-      },
-      "image_topic": "The Baptism of Christ (Verrocchio, Piero della Francesca, or Andrei Rublev)",
-      "scripture_ref": "Matthew 3:17"
+        }
+      ]
     },
     {
-      "id": "session-015",
+      "id": "day-15",
       "order": 15,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "Born of the Virgin Mary at Bethlehem",
-        "pt-BR": "Nascido da Virgem Maria em Belém"
+        "en-US": "The Resurrection",
+        "pt-BR": "A Ressurreição"
       },
-      "pius_x": [
+      "plate": "plate-07",
+      "compendium": [
         {
-          "chapter": "credo-incarnazione",
-          "from": 82,
-          "to": 85
+          "start": 126,
+          "end": 131,
+          "label": {
+            "en-US": "The centrality of the Resurrection; the evidence; the risen body; the Trinity at work; the saving meaning",
+            "pt-BR": "Centralidade da Ressurreição; os testemunhos; o corpo ressuscitado; a Trindade em ação; o sentido salvífico"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-03-conceived-by-holy-ghost"
-      ],
-      "trent": "creed-03",
-      "image_topic": "The Nativity (Botticelli's Mystic Nativity, Caravaggio, or Giotto's Adoration of the Magi)",
-      "scripture_ref": "Luke 2:7"
+      ]
     },
     {
-      "id": "session-016",
+      "id": "day-16",
       "order": 16,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The Public Life and Miracles of Christ",
-        "pt-BR": "A vida pública e os milagres de Cristo"
+        "en-US": "The Ascension",
+        "pt-BR": "A Ascensão"
       },
-      "pius_x": [
+      "plate": "plate-08",
+      "compendium": [
         {
-          "chapter": "credo-incarnazione",
-          "from": 86,
-          "to": 88
+          "start": 132,
+          "end": 132,
+          "label": {
+            "en-US": "Ascended into heaven",
+            "pt-BR": "Subiu aos céus"
+          }
         }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "The Sermon on the Mount (Bloch, Tissot, or Fra Angelico); or Christ healing the blind",
-      "scripture_ref": "John 14:11"
+      ]
     },
     {
-      "id": "session-017",
+      "id": "day-17",
       "order": 17,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "His Death and the Three Days in the Tomb",
-        "pt-BR": "Sua morte e os três dias no sepulcro"
+        "en-US": "Seated at the Right Hand of the Father",
+        "pt-BR": "Sentado à direita do Pai"
       },
-      "pius_x": [
+      "plate": "plate-09",
+      "compendium": [
         {
-          "chapter": "credo-incarnazione",
-          "from": 89,
-          "to": 91
+          "start": 132,
+          "end": 133,
+          "label": {
+            "en-US": "The reign of Christ now; \"He will come again in glory\"",
+            "pt-BR": "O reinado atual de Cristo; \"Há de voltar com glória\""
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-04-suffered-under-pontius-pilate",
-        "creed-05a-descended-into-hell"
-      ],
-      "trent": "creed-04",
-      "image_topic": "The Crucifixion (Velázquez's Christ Crucified, or Grünewald's Isenheim, or a Romanesque icon)",
-      "scripture_ref": "1 Peter 3:18"
+      ]
     },
     {
-      "id": "session-018",
+      "id": "day-18",
       "order": 18,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "He Rose Again from the Dead",
-        "pt-BR": "Ressuscitou dos mortos"
+        "en-US": "The Last Judgment",
+        "pt-BR": "O Juízo final"
       },
-      "pius_x": [
+      "plate": "plate-10",
+      "compendium": [
         {
-          "chapter": "credo-venuta",
-          "from": 92,
-          "to": 93
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-05b-resurrection"
-      ],
-      "trent": {
-        "chapter": "creed-05",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of This Article",
-            "pt": "Importância do Artigo"
-          },
-          {
-            "en": "Second Part of this Article",
-            "pt": "Ressuscitou ao terceiro dia"
-          },
-          {
-            "en": "Three Useful Considerations",
-            "pt": "Importância fundamental da Ressurreição"
+          "start": 134,
+          "end": 135,
+          "label": {
+            "en-US": "The judgment of the living and the dead",
+            "pt-BR": "O juízo dos vivos e dos mortos"
           }
-        ]
-      },
-      "image_topic": "The Resurrection (Piero della Francesca's Resurrection at Sansepolcro, or Fra Angelico)",
-      "scripture_ref": "1 Corinthians 15:20"
+        }
+      ]
     },
     {
-      "id": "session-019",
+      "id": "day-19",
       "order": 19,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "He Ascended into Heaven",
-        "pt-BR": "Subiu aos Céus"
+        "en-US": "Pentecost — The Holy Spirit",
+        "pt-BR": "Pentecostes — O Espírito Santo"
       },
-      "pius_x": [
+      "plate": "plate-11",
+      "compendium": [
         {
-          "chapter": "credo-venuta",
-          "from": 94,
-          "to": 94
+          "start": 136,
+          "end": 140,
+          "label": {
+            "en-US": "Confessing the Holy Spirit; His names; His symbols",
+            "pt-BR": "Confessar o Espírito Santo; seus nomes; seus símbolos"
+          }
+        },
+        {
+          "start": 141,
+          "end": 146,
+          "label": {
+            "en-US": "The Spirit in salvation history; Pentecost; the Spirit's mission in the Church",
+            "pt-BR": "O Espírito na história da salvação; Pentecostes; a missão do Espírito na Igreja"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-06-ascended-into-heaven"
-      ],
-      "trent": "creed-06",
-      "image_topic": "The Ascension (Giotto in Padua, or Russian icon, or Mantegna)",
-      "scripture_ref": "Acts 1:11"
+      ]
     },
     {
-      "id": "session-020",
+      "id": "day-20",
       "order": 20,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "He Will Come to Judge the Living and the Dead",
-        "pt-BR": "Voltará para julgar os vivos e os mortos"
+        "en-US": "The Church — Mystery and People of God",
+        "pt-BR": "A Igreja — Mistério e Povo de Deus"
       },
-      "pius_x": [
+      "plate": "plate-12",
+      "compendium": [
         {
-          "chapter": "credo-venuta",
-          "from": 95,
-          "to": 97
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-07-shall-come-to-judge",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Form of the Judgement",
-              "pt": "A forma do juízo"
-            },
-            {
-              "en": "Who Are to Be Judged?",
-              "pt": "Quem serão julgados?"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-07",
-        "sections": [
-          "@opening",
-          {
-            "en": "Meaning Of This Article",
-            "pt": "I. Importância do Artigo"
-          },
-          {
-            "en": "From Thence He Shall Come",
-            "pt": "II. Explicação"
-          },
-          {
-            "en": "To Judge the Living and the Dead",
-            "pt": "III. Motivos para o juízo universal"
+          "start": 147,
+          "end": 152,
+          "label": {
+            "en-US": "The Church in God's plan; biblical images; sacrament of salvation",
+            "pt-BR": "A Igreja no desígnio de Deus; imagens bíblicas; sacramento da salvação"
           }
-        ]
-      },
-      "image_topic": "The Last Judgment (Fra Angelico, Memling, or Michelangelo's Sistine Last Judgment)",
-      "scripture_ref": "Matthew 25:31"
+        },
+        {
+          "start": 153,
+          "end": 160,
+          "label": {
+            "en-US": "People of God, Body of Christ, Temple of the Spirit",
+            "pt-BR": "Povo de Deus, Corpo de Cristo, Templo do Espírito"
+          }
+        }
+      ]
     },
     {
-      "id": "session-021",
+      "id": "day-21",
       "order": 21,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "The Particular and Universal Judgment",
-        "pt-BR": "O juízo particular e o universal"
+        "en-US": "The Marks of the Church — One, Holy, Catholic, Apostolic",
+        "pt-BR": "As notas da Igreja — Una, santa, católica, apostólica"
       },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "credo-venuta",
-          "from": 98,
-          "to": 100
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-07-shall-come-to-judge",
-          "sections": [
-            {
-              "en": "The Fear of the Judgment",
-              "pt": "O temor do juízo"
-            },
-            {
-              "en": "Our Preparation for the Judgment",
-              "pt": "Nossa preparação para o juízo"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-07",
-        "sections": [
-          {
-            "en": "Circumstances of the Judgment",
-            "pt": "IV. O Juiz"
-          },
-          {
-            "en": "Importance of Instruction on this Article",
-            "pt": "V. Sinais que precedem o Juízo"
+          "start": 161,
+          "end": 165,
+          "label": {
+            "en-US": "Oneness, ecumenism, holiness",
+            "pt-BR": "Unidade, ecumenismo, santidade"
           }
-        ]
-      },
-      "image_topic": "Death of the just and the wicked (e.g., Caravaggio's Death of the Virgin, or a Memento Mori panel)",
-      "scripture_ref": "Hebrews 9:27"
+        },
+        {
+          "start": 166,
+          "end": 172,
+          "label": {
+            "en-US": "Catholicity; particular Churches; the Church and other religions; \"outside the Church no salvation\"",
+            "pt-BR": "Catolicidade; Igrejas particulares; a Igreja e as demais religiões; \"fora da Igreja não há salvação\""
+          }
+        },
+        {
+          "start": 173,
+          "end": 176,
+          "label": {
+            "en-US": "Apostolicity; the Pope and bishops; infallibility",
+            "pt-BR": "Apostolicidade; o Papa e os bispos; a infalibilidade"
+          }
+        }
+      ]
     },
     {
-      "id": "session-022",
+      "id": "day-22",
       "order": 22,
-      "group": "creed",
+      "phase": "creed",
       "title": {
-        "en-US": "Purgatory and the Souls We Help",
-        "pt-BR": "O purgatório e as almas que ajudamos"
+        "en-US": "The Communion of Saints",
+        "pt-BR": "A Comunhão dos santos"
       },
-      "pius_x": [
+      "plate": "plate-13",
+      "compendium": [
         {
-          "chapter": "credo-venuta",
-          "from": 101,
-          "to": 102
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "creed-05",
-        "sections": [
-          {
-            "en": "First Part of this Article",
-            "pt": "Sentido da palavra \"infernos\""
+          "start": 177,
+          "end": 179,
+          "label": {
+            "en-US": "The communion of the faithful, of holy things, of the saints in heaven",
+            "pt-BR": "A comunhão dos fiéis, das coisas santas, dos santos do céu"
           }
-        ]
-      },
-      "image_topic": "Souls in Purgatory (Daniel Crespi, or a Spanish Baroque painting of souls being lifted to heaven by angels)",
-      "scripture_ref": "2 Maccabees 12:46"
+        }
+      ]
     },
     {
-      "id": "session-023",
+      "id": "day-23",
       "order": 23,
-      "group": "creed",
-      "title": {
-        "en-US": "Heaven and Hell, Both Eternal",
-        "pt-BR": "Céu e inferno, ambos eternos"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-venuta",
-          "from": 103,
-          "to": 104
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-12-life-everlasting",
-          "sections": [
-            {
-              "en": "What Is Everlasting Life?",
-              "pt": "Que é a vida eterna?"
-            },
-            {
-              "en": "What Is Everlasting Death?",
-              "pt": "Que é a morte eterna?"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-12",
-        "sections": [
-          {
-            "en": "Negative and Positive Elements of Eternal Life",
-            "pt": "III. Explicação real"
-          },
-          {
-            "en": "Essential Happiness",
-            "pt": "IV. Necessidade de mais"
-          },
-          {
-            "en": "Accessory Happiness",
-            "pt": "IV. Necessidade de mais"
-          }
-        ]
-      },
-      "image_topic": "Beatific vision (Dante's Paradise illustrated by Doré or Botticelli; or Fra Angelico's Christ Glorified in the Court of Heaven)",
-      "scripture_ref": "Matthew 25:46"
-    },
-    {
-      "id": "session-024",
-      "order": 24,
-      "group": "creed",
-      "title": {
-        "en-US": "The Church, the Society of Christ",
-        "pt-BR": "A Igreja, sociedade de Cristo"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-chiesa",
-          "from": 105,
-          "to": 108
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-09-holy-catholic-church",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Unity of the Church",
-              "pt": "A unidade da Igreja"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-09",
-        "sections": [
-          "@opening",
-          {
-            "en": "The Importance Of This Article",
-            "pt": "Importância do Artigo"
-          }
-        ]
-      },
-      "image_topic": "Christ giving the keys to St. Peter (Perugino, or Raphael's tapestry cartoon)",
-      "scripture_ref": "Matthew 16:18"
-    },
-    {
-      "id": "session-025",
-      "order": 25,
-      "group": "creed",
-      "title": {
-        "en-US": "One, Holy, Catholic, Apostolic",
-        "pt-BR": "Una, Santa, Católica, Apostólica"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-chiesa",
-          "from": 109,
-          "to": 111
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-09-holy-catholic-church",
-          "sections": [
-            {
-              "en": "The Holiness of the Church",
-              "pt": "A santidade da Igreja"
-            },
-            {
-              "en": "The Catholicity or Universality of the Church",
-              "pt": "A catolicidade ou universalidade da Igreja"
-            },
-            {
-              "en": "The Apostolicity of the Church",
-              "pt": "A apostolicidade da Igreja"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-09",
-        "sections": [
-          {
-            "en": "First Part Of This Article",
-            "pt": "Relação com o Artigo anterior"
-          }
-        ]
-      },
-      "image_topic": "The Pentecost (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
-      "scripture_ref": "Ephesians 4:5"
-    },
-    {
-      "id": "session-026",
-      "order": 26,
-      "group": "creed",
-      "title": {
-        "en-US": "The Pope, the Bishops, and Infallibility",
-        "pt-BR": "O Papa, os Bispos e a infalibilidade"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-chiesa",
-          "from": 112,
-          "to": 117
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "St. Peter enthroned (Arnolfo di Cambio's bronze in St. Peter's Basilica, or any Pope iconography)",
-      "scripture_ref": "Luke 22:32"
-    },
-    {
-      "id": "session-027",
-      "order": 27,
-      "group": "creed",
-      "title": {
-        "en-US": "The Means of Holiness and the Communion of Saints",
-        "pt-BR": "Os meios de santidade e a comunhão dos santos"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-chiesa",
-          "from": 118,
-          "to": 122
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-10-communion-of-saints",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Seven Sacraments: a Review",
-              "pt": "Os Sete Sacramentos: uma síntese"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-09",
-        "sections": [
-          {
-            "en": "Second Part of this Article",
-            "pt": "A Comunhão dos Santos"
-          }
-        ]
-      },
-      "image_topic": "All Saints (Fra Angelico's Forerunners of Christ, or a Mexican retablo of all saints; or Dürer's Adoration of the Trinity with all the saints)",
-      "scripture_ref": "1 Corinthians 12:27"
-    },
-    {
-      "id": "session-028",
-      "order": 28,
-      "group": "creed",
-      "title": {
-        "en-US": "The Saints, Living and Departed",
-        "pt-BR": "Os santos, vivos e falecidos"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-chiesa",
-          "from": 123,
-          "to": 127
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-10-communion-of-saints",
-          "sections": [
-            {
-              "en": "The Communion of Saints",
-              "pt": "A Comunhão dos Santos"
-            }
-          ]
-        }
-      ],
-      "trent": null,
-      "image_topic": "Souls in heaven interceding (Bartolomé Esteban Murillo, Marian or Litany of saints panel)",
-      "scripture_ref": "Hebrews 12:1"
-    },
-    {
-      "id": "session-029",
-      "order": 29,
-      "group": "creed",
-      "title": {
-        "en-US": "Outside the Church",
-        "pt-BR": "Fora da Igreja"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-remissione-peccati",
-          "from": 128,
-          "to": 132
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "The Good Shepherd (early Christian fresco, or Bernhard Plockhorst, or a Russian icon)",
-      "scripture_ref": "John 10:16"
-    },
-    {
-      "id": "session-030",
-      "order": 30,
-      "group": "creed",
+      "phase": "creed",
       "title": {
         "en-US": "The Forgiveness of Sins",
         "pt-BR": "A remissão dos pecados"
       },
-      "pius_x": [
+      "plate": "plate-14",
+      "compendium": [
         {
-          "chapter": "credo-remissione-peccati",
-          "from": 133,
-          "to": 141
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-10-communion-of-saints",
-          "sections": [
-            {
-              "en": "The Forgiveness of Sins",
-              "pt": "A Remissão dos Pecados"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-10",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of This Article",
-            "pt": "Importância do Artigo"
-          },
-          {
-            "en": "The Church Has the Power of Forgiving Sins",
-            "pt": "I. A Igreja tem poder de perdoar os pecados"
+          "start": 200,
+          "end": 201,
+          "label": {
+            "en-US": "Forgiveness through the sacraments of Baptism and Penance",
+            "pt-BR": "A remissão pelos sacramentos do Batismo e da Penitência"
           }
-        ]
-      },
-      "image_topic": "The Prodigal Son (Rembrandt's Return of the Prodigal Son, or Murillo)",
-      "scripture_ref": "Luke 15:20"
+        }
+      ]
     },
     {
-      "id": "session-031",
-      "order": 31,
-      "group": "creed",
-      "title": {
-        "en-US": "Mortal Sin and the Recovery of Grace",
-        "pt-BR": "Pecado mortal e a recuperação da graça"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-remissione-peccati",
-          "from": 142,
-          "to": 148
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "creed-10",
-        "sections": [
-          {
-            "en": "Extent of this Power",
-            "pt": "II. Na penitência, poder ilimitado"
-          },
-          {
-            "en": "Limitation of this Power",
-            "pt": "III. Sublimidade deste poder"
-          },
-          {
-            "en": "Greatness of this Power",
-            "pt": "IV. Os pecados expiados pelo Sangue de Cristo"
-          }
-        ]
-      },
-      "image_topic": "The Penitent Magdalene (Caravaggio, La Tour, or Titian)",
-      "scripture_ref": "Luke 7:47"
-    },
-    {
-      "id": "session-032",
-      "order": 32,
-      "group": "creed",
-      "title": {
-        "en-US": "Venial Sin and the Sins Against the Holy Spirit",
-        "pt-BR": "Pecado venial e os pecados contra o Espírito Santo"
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-remissione-peccati",
-          "from": 149,
-          "to": 155
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "creed-10",
-        "sections": [
-          {
-            "en": "Exhortation",
-            "pt": "V. Exortação"
-          }
-        ]
-      },
-      "image_topic": "The Last Things — death, judgment, hell, heaven (a 17th-century Memento Mori, or Bosch's Four Last Things)",
-      "scripture_ref": "Matthew 12:31"
-    },
-    {
-      "id": "session-033",
-      "order": 33,
-      "group": "creed",
+      "id": "day-24",
+      "order": 24,
+      "phase": "creed",
       "title": {
         "en-US": "The Resurrection of the Body",
-        "pt-BR": "A ressurreição da carne"
+        "pt-BR": "A Ressurreição da carne"
       },
-      "pius_x": [
+      "plate": "plate-15",
+      "compendium": [
         {
-          "chapter": "credo-risurrezione",
-          "from": 156,
-          "to": 158
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "creed-11-resurrection-of-body"
-      ],
-      "trent": "creed-11",
-      "image_topic": "The Resurrection of the Dead (Signorelli's frescoes at Orvieto; or Rogier van der Weyden's Last Judgment)",
-      "scripture_ref": "John 11:25"
-    },
-    {
-      "id": "session-034",
-      "order": 34,
-      "group": "creed",
-      "title": {
-        "en-US": "Life Everlasting. Amen.",
-        "pt-BR": "A vida eterna. Amém."
-      },
-      "pius_x": [
-        {
-          "chapter": "credo-risurrezione",
-          "from": 159,
-          "to": 160
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "creed-12-life-everlasting",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Fullness of Desires",
-              "pt": "A plenitude dos desejos"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "creed-12",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of This Article",
-            "pt": "I. Importância do Artigo"
-          },
-          {
-            "en": "Life Everlasting",
-            "pt": "II. Explicação verbal"
-          },
-          {
-            "en": "How to Arrive at the Enjoyment",
-            "pt": "IV. Necessidade de mais"
+          "start": 202,
+          "end": 205,
+          "label": {
+            "en-US": "The bodily resurrection of the dead",
+            "pt-BR": "A ressurreição corpórea dos mortos"
           }
-        ]
-      },
-      "image_topic": "The Heavenly Jerusalem (Fra Angelico, or van Eyck's Adoration of the Lamb in the Ghent altarpiece)",
-      "scripture_ref": "Revelation 21:4"
+        }
+      ]
     },
     {
-      "id": "session-035",
-      "order": 35,
-      "group": "decalogue",
+      "id": "day-25",
+      "order": 25,
+      "phase": "creed",
       "title": {
-        "en-US": "The Decalogue and the Two Great Commandments",
-        "pt-BR": "O Decálogo e os dois grandes mandamentos"
+        "en-US": "Heaven",
+        "pt-BR": "O Paraíso"
       },
-      "pius_x": [
+      "plate": "plate-16",
+      "compendium": [
         {
-          "chapter": "legge-comandamenti",
-          "from": 161,
-          "to": 165
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-00-introduction"
-      ],
-      "trent": {
-        "chapter": "decalogue-intro",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On The Commandments",
-            "pt": "I. Importância do Decálogo"
-          },
-          {
-            "en": "The Promulgation of the Law",
-            "pt": "III. A particularidade da promulgação aos Hebreus"
+          "start": 207,
+          "end": 209,
+          "label": {
+            "en-US": "The particular judgment; heaven and the Beatific Vision",
+            "pt-BR": "O juízo particular; o céu e a visão beatífica"
           }
-        ]
-      },
-      "image_topic": "Moses receiving the Tables of the Law on Sinai (Rembrandt, or a Russian icon)",
-      "scripture_ref": "Matthew 22:37-39"
+        }
+      ]
     },
     {
-      "id": "session-036",
-      "order": 36,
-      "group": "decalogue",
+      "id": "day-26",
+      "order": 26,
+      "phase": "creed",
       "title": {
-        "en-US": "Why We Are Bound to Keep the Commandments",
-        "pt-BR": "Por que somos obrigados a guardar os mandamentos"
+        "en-US": "Hell and Purgatory",
+        "pt-BR": "Inferno e Purgatório"
       },
-      "pius_x": [
+      "plate": "plate-17",
+      "compendium": [
         {
-          "chapter": "legge-comandamenti",
-          "from": 166,
-          "to": 168
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": {
-        "chapter": "decalogue-intro",
-        "sections": [
-          {
-            "en": "Motives for Observing the Commandments",
-            "pt": "II. Motivos para sua observância"
+          "start": 210,
+          "end": 213,
+          "label": {
+            "en-US": "Purgatory; hell; the final purification",
+            "pt-BR": "Purgatório; inferno; a purificação final"
           }
-        ]
-      },
-      "image_topic": "Christ teaching the Beatitudes (Bloch's Sermon on the Mount, or Carl Bloch)",
-      "scripture_ref": "John 14:15"
-    },
-    {
-      "id": "session-037",
-      "order": 37,
-      "group": "decalogue",
-      "title": {
-        "en-US": "First Commandment — Adoring God Alone",
-        "pt-BR": "Primeiro mandamento — adorar só a Deus"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 169,
-          "to": 172
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-01-strange-gods"
-      ],
-      "trent": {
-        "chapter": "commandment-01",
-        "sections": [
-          {
-            "en": "I am the Lord thy God",
-            "pt": "III. Conteúdo do 1º Mandamento"
-          },
-          {
-            "en": "Who Brought Thee Out of the Land of Egypt",
-            "pt": "II. Divisão dos Mandamentos em duas Tábuas"
-          },
-          {
-            "en": "Thou Shalt Not Have Strange Gods Before Me",
-            "pt": "III. Conteúdo do 1º Mandamento"
-          }
-        ]
-      },
-      "image_topic": "Abraham's sacrifice (Rembrandt, Caravaggio); or the Adoration of the Magi as model adorers",
-      "scripture_ref": "Exodus 20:3"
-    },
-    {
-      "id": "session-038",
-      "order": 38,
-      "group": "decalogue",
-      "title": {
-        "en-US": "First Commandment — Veneration of the Saints and the Mother of God",
-        "pt-BR": "Primeiro mandamento — veneração dos santos e da Mãe de Deus"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 173,
-          "to": 176
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": {
-        "chapter": "commandment-01",
-        "sections": [
-          {
-            "en": "I Am the Lord Thy God, Mighty, Jealous",
-            "pt": "V. Motivação deste Preceito e de todos os Mandamentos"
-          }
-        ]
-      },
-      "image_topic": "Madonna and Child enthroned with saints (Fra Angelico's San Marco altarpiece, or a Marian icon with saints)",
-      "scripture_ref": "Luke 1:48"
-    },
-    {
-      "id": "session-039",
-      "order": 39,
-      "group": "decalogue",
-      "title": {
-        "en-US": "First Commandment — Sacred Images and Relics",
-        "pt-BR": "Primeiro mandamento — imagens sagradas e relíquias"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 177,
-          "to": 178
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": {
-        "chapter": "commandment-01",
-        "sections": [
-          "Thou shalt not make to thyself a graven thing"
-        ]
-      },
-      "image_topic": "Veneration of the True Cross or sacred images (e.g. Russian icon of the Veneration of the Cross, or Fra Angelico's Procession of the True Cross)",
-      "scripture_ref": "Acts 19:12"
-    },
-    {
-      "id": "session-040",
-      "order": 40,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Second Commandment — The Holy Name and Oaths",
-        "pt-BR": "Segundo mandamento — o santo Nome e os juramentos"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 179,
-          "to": 181
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-02-name-of-the-lord",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Meaning of in Vain",
-              "pt": "O significado de «em vão»"
-            },
-            {
-              "en": "Conditions of a Lawful Oath",
-              "pt": "Condições de um juramento lícito"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-02",
-        "sections": [
-          {
-            "en": "Importance Of Instruction On This Commandment",
-            "pt": "I. Importância deste Mandamento"
-          },
-          {
-            "en": "Various Ways Of Honouring God's Name",
-            "pt": "III. Cláusula proibitiva"
-          },
-          {
-            "en": "Various Ways In Which God's Name Is Dishonoured",
-            "pt": "IV. As sanções de Deus"
-          }
-        ]
-      },
-      "image_topic": "The Name of Jesus (IHS monogram, e.g. by Sienese Bernardino, or in a Jesuit emblem book)",
-      "scripture_ref": "Philippians 2:10"
-    },
-    {
-      "id": "session-041",
-      "order": 41,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Second Commandment — Vows and Promises to God",
-        "pt-BR": "Segundo mandamento — votos e promessas a Deus"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 182,
-          "to": 183
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-02-name-of-the-lord",
-          "sections": [
-            {
-              "en": "Taking God's Name Justly",
-              "pt": "Tomar justamente o nome de Deus"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-02",
-        "sections": [
-          "@opening",
-          "Why This Commandment Is Distinct From The First"
-        ]
-      },
-      "image_topic": "Hannah praying at Shiloh (her vow to give Samuel to God); or a religious profession (Fra Angelico's Profession of St. Dominic)",
-      "scripture_ref": "Ecclesiastes 5:4"
-    },
-    {
-      "id": "session-042",
-      "order": 42,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Third Commandment — Keeping the Lord's Day",
-        "pt-BR": "Terceiro mandamento — santificar o dia do Senhor"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 184,
-          "to": 186
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-03-sabbath",
-          "sections": [
-            "@opening",
-            {
-              "en": "Reasons for This Commandment",
-              "pt": "Razões deste Mandamento"
-            },
-            {
-              "en": "With What the Sabbath and Feasts Should Be Occupied",
-              "pt": "Em que se deve ocupar o sábado e as festas"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-03",
-        "sections": [
-          "@opening",
-          {
-            "en": "Reasons For This Commandment",
-            "pt": "I. Importância deste Mandamento"
-          },
-          {
-            "en": "Importance Of Instruction On This Commandment",
-            "pt": "II. Nexo com os outros Mandamentos"
-          },
-          {
-            "en": "How The Third Differs From The Other Commandments",
-            "pt": "III. Primeira Cláusula"
-          },
-          {
-            "en": "How The Third Is Like The Other Commandments",
-            "pt": "IV. Segunda cláusula"
-          },
-          {
-            "en": "The Jewish Sabbath Changed To Sunday By The Apostles",
-            "pt": "V. Terceira cláusula"
-          }
-        ]
-      },
-      "image_topic": "The Mass (Raphael's Mass at Bolsena, or a depiction of the Elevation of the Host)",
-      "scripture_ref": "Exodus 20:8"
-    },
-    {
-      "id": "session-043",
-      "order": 43,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Third Commandment — Sunday Rest",
-        "pt-BR": "Terceiro mandamento — o repouso do domingo"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 187,
-          "to": 189
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-03-sabbath",
-          "sections": [
-            {
-              "en": "From What We Should Abstain on the Sabbath",
-              "pt": "Daquilo de que devemos abster-nos no sábado"
-            },
-            {
-              "en": "With What the Sabbath and Feasts",
-              "pt": "Em que se deve ocupar o sábado e as festas"
-            },
-            {
-              "en": "The Spiritual Sabbath",
-              "pt": "O Sábado espiritual"
-            },
-            {
-              "en": "The Heavenly Sabbath",
-              "pt": "O Sábado celeste[^62]"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-03",
-        "sections": [
-          "Four Parts Of This Commandment",
-          "The Observance Of This Commandment Brings Many Blessings",
-          "Neglect Of This Commandment A Great Crime"
-        ]
-      },
-      "image_topic": "A Dutch Sabbath scene of family reading the Bible; or Millet's Angelus (peasants pausing in prayer)",
-      "scripture_ref": "Mark 2:27"
-    },
-    {
-      "id": "session-044",
-      "order": 44,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Fourth Commandment — Father, Mother, and Authority",
-        "pt-BR": "Quarto mandamento — pai, mãe e autoridade"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 190,
-          "to": 192
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-04-honour-father-and-mother"
-      ],
-      "trent": "commandment-04",
-      "image_topic": "The Holy Family (Murillo's Holy Family with Bird, or Raphael's Madonna del Cardellino, or El Greco's Holy Family)",
-      "scripture_ref": "Ephesians 6:2"
-    },
-    {
-      "id": "session-045",
-      "order": 45,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Fifth Commandment — Reverence for Life",
-        "pt-BR": "Quinto mandamento — reverência pela vida"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 193,
-          "to": 194
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-05-not-kill",
-          "sections": [
-            "@opening",
-            {
-              "en": "The Sin of Killing",
-              "pt": "O pecado de matar"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-05",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On This Commandment",
-            "pt": "I. Importância do Preceito: Meio de pacificação"
-          },
-          {
-            "en": "Two Parts Of This Commandment",
-            "pt": "II. Cláusula proibitiva"
-          }
-        ]
-      },
-      "image_topic": "The Good Samaritan (van Gogh after Delacroix, or Rembrandt)",
-      "scripture_ref": "Genesis 9:6"
-    },
-    {
-      "id": "session-046",
-      "order": 46,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Fifth Commandment — Suicide and Dueling",
-        "pt-BR": "Quinto mandamento — suicídio e duelo"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 195,
-          "to": 197
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Christ in the Garden of Gethsemane in agony (Bellini, El Greco, or Caravaggio) — a counter-image to despair",
-      "scripture_ref": "Romans 12:19"
-    },
-    {
-      "id": "session-047",
-      "order": 47,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Fifth Commandment — Scandal and Love of Enemies",
-        "pt-BR": "Quinto mandamento — escândalo e amor aos inimigos"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 198,
-          "to": 200
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        {
-          "chapter": "commandments-05-not-kill",
-          "sections": [
-            {
-              "en": "The Sin of Anger",
-              "pt": "O pecado da ira"
-            }
-          ]
-        }
-      ],
-      "trent": {
-        "chapter": "commandment-05",
-        "sections": [
-          {
-            "en": "Love Of Neighbour Inculcated",
-            "pt": "III. Cláusula Preceptiva"
-          },
-          {
-            "en": "How to Persuade Men to Forgive Injuries",
-            "pt": "V. Remédios contra estes pecados"
-          },
-          {
-            "en": "Remedies Against Hatred",
-            "pt": "V. Remédios contra estes pecados"
-          }
-        ]
-      },
-      "image_topic": "Christ forgiving from the Cross — 'Father, forgive them' (Velázquez, Reni, or Bouguereau's Compassion)",
-      "scripture_ref": "Matthew 5:44"
-    },
-    {
-      "id": "session-048",
-      "order": 48,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Sixth Commandment — Holy in Body",
-        "pt-BR": "Sexto mandamento — santos no corpo"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 201,
-          "to": 202
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-06-not-commit-adultery"
-      ],
-      "trent": "commandment-06",
-      "image_topic": "St. Joseph the Chaste (Murillo's St. Joseph and Child, or El Greco's St. Joseph)",
-      "scripture_ref": "1 Corinthians 6:19"
-    },
-    {
-      "id": "session-049",
-      "order": 49,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Seventh Commandment — Justice and Restitution",
-        "pt-BR": "Sétimo mandamento — justiça e restituição"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 203,
-          "to": 205
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-07-not-steal"
-      ],
-      "trent": "commandment-07",
-      "image_topic": "Zacchaeus restoring fourfold (after Christ's visit) — a tax collector turned almsgiver, e.g., illustration from a 19th-century Bible; or Rembrandt's Hundred-Guilder Print",
-      "scripture_ref": "Luke 19:8"
-    },
-    {
-      "id": "session-050",
-      "order": 50,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Eighth Commandment — Truth and the Reputation of Others",
-        "pt-BR": "Oitavo mandamento — a verdade e a fama do próximo"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 206,
-          "to": 208
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-08-not-bear-false-witness"
-      ],
-      "trent": "commandment-08",
-      "image_topic": "Susanna and the Elders (Artemisia Gentileschi, or Rembrandt) — false witness exposed; OR Pilate hearing 'What is truth?' (Tissot, Bouguereau)",
-      "scripture_ref": "Proverbs 22:1"
-    },
-    {
-      "id": "session-051",
-      "order": 51,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Ninth Commandment — Pure Thoughts and Desires",
-        "pt-BR": "Nono mandamento — pureza de pensamentos e desejos"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 209,
-          "to": 210
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-10-not-covet-wife"
-      ],
-      "trent": {
-        "chapter": "commandment-09-10",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On These Two Commandments",
-            "pt": "Importância e oportunidade de ambos"
-          },
-          {
-            "en": "Why These Two Commandments Are Explained Here Together",
-            "pt": "Nexo entre os dois Mandamentos"
-          },
-          {
-            "en": "Necessity Of Promulgating These Two Commandments",
-            "pt": "Necessidade dos Preceitos"
-          },
-          {
-            "en": "These Two Commandments Teach God's Love For Us And Our Need Of Him",
-            "pt": "Utilidade dos Preceitos"
-          }
-        ]
-      },
-      "image_topic": "Joseph fleeing from Potiphar's wife (Carlo Cignani, Orazio Gentileschi); or the Annunciation as model purity of heart",
-      "scripture_ref": "Matthew 5:28"
-    },
-    {
-      "id": "session-052",
-      "order": 52,
-      "group": "decalogue",
-      "title": {
-        "en-US": "Tenth Commandment — Detachment from Goods",
-        "pt-BR": "Décimo mandamento — desapego dos bens"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-comandamenti",
-          "from": 211,
-          "to": 212
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "commandments-09-not-covet-goods",
-        "commandments-summary"
-      ],
-      "trent": {
-        "chapter": "commandment-09-10",
-        "sections": [
-          {
-            "en": "Two Parts Of These Commandments",
-            "pt": "Cláusula proibitiva"
-          },
-          {
-            "en": "Negative Part",
-            "pt": "Explicação verbal"
-          }
-        ]
-      },
-      "image_topic": "St. Francis renouncing his goods before the bishop (Giotto's Bardi Chapel; or Sassetta)",
-      "scripture_ref": "1 Timothy 6:7"
-    },
-    {
-      "id": "session-053",
-      "order": 53,
-      "group": "precepts",
-      "title": {
-        "en-US": "The Precepts of the Church — Mass and Friday",
-        "pt-BR": "Os preceitos da Igreja — Missa e sexta-feira"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-precetti",
-          "from": 213,
-          "to": 218
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "A village procession or congregation entering church for Sunday Mass (e.g., a Flemish or Spanish 17th-century painting)",
-      "scripture_ref": "Hebrews 10:25"
-    },
-    {
-      "id": "session-054",
-      "order": 54,
-      "group": "precepts",
-      "title": {
-        "en-US": "Fast, Confession, Communion, Offerings",
-        "pt-BR": "Jejum, confissão, comunhão, ofertas"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-precetti",
-          "from": 219,
-          "to": 226
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Ash Wednesday or Lenten penance (a Spanish or Italian Baroque image of penitents); or the widow's mite (Tissot)",
-      "scripture_ref": "Joel 2:12"
-    },
-    {
-      "id": "session-055",
-      "order": 55,
-      "group": "virtues",
-      "title": {
-        "en-US": "What Virtue Is — and the Virtues of God",
-        "pt-BR": "O que é a virtude — e as virtudes de Deus"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-virtu",
-          "from": 227,
-          "to": 237
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "Allegory of the three theological virtues (Bouguereau's Charity, or Raphael's Faith/Hope/Charity in the Vatican Stanze)",
-      "scripture_ref": "1 Corinthians 13:13"
-    },
-    {
-      "id": "session-056",
-      "order": 56,
-      "group": "virtues",
-      "title": {
-        "en-US": "Hope and Charity — Loving God and Neighbor",
-        "pt-BR": "Esperança e caridade — amando a Deus e ao próximo"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-virtu",
-          "from": 238,
-          "to": 249
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "The Good Samaritan tending the wounded man (Rembrandt, van Gogh, Hogarth) — charity in action",
-      "scripture_ref": "1 John 4:20"
-    },
-    {
-      "id": "session-057",
-      "order": 57,
-      "group": "virtues",
-      "title": {
-        "en-US": "The Counsels and the Cardinal Virtues",
-        "pt-BR": "Os conselhos e as virtudes cardeais"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-virtu",
-          "from": 250,
-          "to": 258
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "The Four Cardinal Virtues (Raphael's Stanze, or Allegory by Veronese); or St. Benedict (founder of monastic counsels)",
-      "scripture_ref": "Wisdom 8:7"
-    },
-    {
-      "id": "session-058",
-      "order": 58,
-      "group": "virtues",
-      "title": {
-        "en-US": "The Capital Sins, the Passions, the Beatitudes",
-        "pt-BR": "Os pecados capitais, as paixões e as Bem-aventuranças"
-      },
-      "pius_x": [
-        {
-          "chapter": "legge-virtu",
-          "from": 259,
-          "to": 266
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": null,
-      "image_topic": "The Sermon on the Mount / the Beatitudes (Bloch, James Tissot's series, or Fra Angelico's Sermon)",
-      "scripture_ref": "Matthew 5:3"
-    },
-    {
-      "id": "session-059",
-      "order": 59,
-      "group": "sacraments",
-      "title": {
-        "en-US": "What a Sacrament Is",
-        "pt-BR": "O que é um sacramento"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramenti-in-generale",
-          "from": 267,
-          "to": 275
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacraments-intro",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On The Sacraments",
-            "pt": "Importância dos Sacramentos"
-          },
-          {
-            "en": "The Word",
-            "pt": "A. Explicação verbal"
-          },
-          {
-            "en": "Definition of a Sacrament",
-            "pt": "B. Explicação real e didática dos Sacramentos"
-          },
-          {
-            "en": "Constituent Parts of the Sacraments",
-            "pt": "Os componentes essenciais dos Sacramentos"
-          }
-        ]
-      },
-      "image_topic": "The seven sacraments (a 17th-century allegorical engraving; or Roger van der Weyden's Seven Sacraments altarpiece)",
-      "scripture_ref": "John 6:53"
-    },
-    {
-      "id": "session-060",
-      "order": 60,
-      "group": "sacraments",
-      "title": {
-        "en-US": "How the Sacraments Give Grace",
-        "pt-BR": "Como os sacramentos dão a graça"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramenti-in-generale",
-          "from": 276,
-          "to": 282
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacraments-intro",
-        "sections": [
-          {
-            "en": "Why the Sacraments were Instituted",
-            "pt": "Motivos para se instituírem os Sacramentos"
-          },
-          {
-            "en": "The Number Of The Sacraments",
-            "pt": "Número dos Sacramentos"
-          },
-          {
-            "en": "Comparisons among the Sacraments",
-            "pt": "Diferença dos Sacramentos"
-          },
-          {
-            "en": "Effects of the Sacraments",
-            "pt": "Efeitos dos Sacramentos"
-          }
-        ]
-      },
-      "image_topic": "The Pierced Side of Christ — the source of the sacraments (a Counter-Reformation devotional image; or Fra Angelico)",
-      "scripture_ref": "John 19:34"
-    },
-    {
-      "id": "session-061",
-      "order": 61,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Receiving the Sacraments Worthily",
-        "pt-BR": "Receber dignamente os sacramentos"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramenti-in-generale",
-          "from": 283,
-          "to": 289
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacraments-intro",
-        "sections": [
-          {
-            "en": "Other Sacred Things Signified By The Sacraments",
-            "pt": "Motivos para se instituírem os Sacramentos"
-          },
-          {
-            "en": "Ceremonies Used in the Administration of the Sacraments",
-            "pt": "Efeitos dos Sacramentos"
-          },
-          {
-            "en": "The Author of the Sacraments",
-            "pt": "2. O caráter indelével"
-          },
-          {
-            "en": "The Ministers of the Sacraments",
-            "pt": "Ministro dos Sacramentos"
-          },
-          {
-            "en": "How to Make Instruction on the Sacraments Profitable",
-            "pt": "Escopo da catequese sobre os Sacramentos"
-          }
-        ]
-      },
-      "image_topic": "The Last Supper (Leonardo, or Tintoretto, or a Russian icon)",
-      "scripture_ref": "1 Corinthians 11:28"
-    },
-    {
-      "id": "session-062",
-      "order": 62,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Baptism — The First Grace",
-        "pt-BR": "Batismo — a primeira graça"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-battesimo",
-          "from": 290,
-          "to": 296
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-baptism",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On Baptism",
-            "pt": "Importância do Sacramento"
-          },
-          {
-            "en": "Names of this Sacrament",
-            "pt": "Significação do termo \"Batismo\""
-          },
-          {
-            "en": "Definition Of Baptism",
-            "pt": "Definição do Batismo"
-          },
-          {
-            "en": "Constituent Elements Of Baptism",
-            "pt": "Matéria do Batismo: a água"
-          },
-          {
-            "en": "Matter of Baptism",
-            "pt": "Forma do Batismo"
-          },
-          {
-            "en": "Form of Baptism",
-            "pt": "Instituição do Batismo"
-          },
-          {
-            "en": "Institution Of Baptism",
-            "pt": "Padrinhos"
-          },
-          {
-            "en": "Necessity of Baptism",
-            "pt": "Efeitos do Batismo"
-          },
-          {
-            "en": "Effects of Baptism",
-            "pt": "Cerimônias do Batismo"
-          }
-        ]
-      },
-      "image_topic": "The Baptism of Christ in the Jordan (Verrocchio with Leonardo, Piero della Francesca, or Andrei Rublev's icon)",
-      "scripture_ref": "Mark 16:16"
-    },
-    {
-      "id": "session-063",
-      "order": 63,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Baptism — Minister, Names, and Children",
-        "pt-BR": "Batismo — ministro, nomes e crianças"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-battesimo",
-          "from": 297,
-          "to": 303
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-baptism",
-        "sections": [
-          {
-            "en": "Administration of Baptism",
-            "pt": "Ministros do Batismo"
-          },
-          {
-            "en": "The Ministers of Baptism",
-            "pt": "Necessidade do Batismo"
-          },
-          {
-            "en": "The Sponsors at Baptism",
-            "pt": "Disposições do batizando"
-          },
-          {
-            "en": "Dispositions for Baptism",
-            "pt": "Caráter batismal"
-          },
-          {
-            "en": "Ceremonies of Baptism",
-            "pt": "Escolha do nome"
-          },
-          {
-            "en": "Recapitulation",
-            "pt": "Conclusão"
-          }
-        ]
-      },
-      "image_topic": "Christ blessing the children — 'Let the little children come to me' (Bloch, Plockhorst, or 19th-century French illustration)",
-      "scripture_ref": "Matthew 19:14"
-    },
-    {
-      "id": "session-064",
-      "order": 64,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Confirmation — The Soldier of Christ",
-        "pt-BR": "Confirmação — o soldado de Cristo"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-cresima",
-          "from": 304,
-          "to": 309
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-confirmation",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On Confirmation",
-            "pt": "Necessidade desta instrução"
-          },
-          {
-            "en": "Name of this Sacrament",
-            "pt": "Explicação etimológica"
-          },
-          {
-            "en": "Confirmation is a Sacrament",
-            "pt": "A Crisma verdadeiro Sacramento"
-          },
-          {
-            "en": "Confirmation is Distinct from Baptism",
-            "pt": "Sacramento diverso do Batismo"
-          },
-          {
-            "en": "Institution of Confirmation",
-            "pt": "Instituição por Cristo"
-          },
-          {
-            "en": "Component Parts of Confirmation",
-            "pt": "A matéria"
-          },
-          {
-            "en": "The Effects of Confirmation",
-            "pt": "Sujeito da Crisma"
-          }
-        ]
-      },
-      "image_topic": "Pentecost — tongues of fire (El Greco, Titian, or Russian icon of the Descent of the Holy Spirit)",
-      "scripture_ref": "Acts 8:17"
-    },
-    {
-      "id": "session-065",
-      "order": 65,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Confirmation — Preparing the Soul",
-        "pt-BR": "Confirmação — preparar a alma"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-cresima",
-          "from": 310,
-          "to": 315
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-confirmation",
-        "sections": [
-          {
-            "en": "Minister of Confirmation",
-            "pt": "A forma"
-          },
-          {
-            "en": "Sponsors at Confirmation",
-            "pt": "O ministro"
-          },
-          {
-            "en": "The Subject of Confirmation",
-            "pt": "Padrinho de Crisma"
-          },
-          {
-            "en": "Ceremonies Of Confirmation",
-            "pt": "Efeitos"
-          },
-          {
-            "en": "Admonition",
-            "pt": "Ritos e cerimônias"
-          }
-        ]
-      },
-      "image_topic": "A bishop confirming (a 16th- or 17th-century painting, or a stained-glass window from a French cathedral)",
-      "scripture_ref": "2 Timothy 1:7"
-    },
-    {
-      "id": "session-066",
-      "order": 66,
-      "group": "sacraments",
-      "title": {
-        "en-US": "What the Eucharist Is — and Its Institution",
-        "pt-BR": "O que é a Eucaristia — e a sua instituição"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 316,
-          "to": 321
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          {
-            "en": "Institution of the Eucharist",
-            "pt": "A Instituição da Eucaristia"
-          },
-          {
-            "en": "Meaning of the Word",
-            "pt": "Os Nomes do Sacramento"
-          },
-          {
-            "en": "Other Names Of This Sacrament",
-            "pt": "A Eucaristia é Verdadeiro Sacramento"
-          },
-          {
-            "en": "Constituent Parts of the Eucharist",
-            "pt": "A Matéria: Pão e Vinho"
-          }
-        ]
-      },
-      "image_topic": "The Last Supper — Institution of the Eucharist (Leonardo, Tintoretto, or Stanley Spencer)",
-      "scripture_ref": "1 Corinthians 11:24"
-    },
-    {
-      "id": "session-067",
-      "order": 67,
-      "group": "sacraments",
-      "title": {
-        "en-US": "The Real Presence and Transubstantiation",
-        "pt-BR": "A Presença Real e a transubstanciação"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 322,
-          "to": 327
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On The Eucharist",
-            "pt": "A Instituição da Eucaristia"
-          },
-          "The Eucharist Is a Sacrament Properly So Called",
-          {
-            "en": "Three Mysteries Of The Eucharist",
-            "pt": "Simbolismo da Matéria"
-          }
-        ]
-      },
-      "image_topic": "The Disputation of the Sacrament (Raphael, Vatican Stanze) — heaven and earth gathered around the Host; or the Mass at Bolsena",
-      "scripture_ref": "John 6:56"
-    },
-    {
-      "id": "session-068",
-      "order": 68,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Receiving the Eucharist Worthily",
-        "pt-BR": "Receber dignamente a Eucaristia"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 328,
-          "to": 333
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          {
-            "en": "Threefold Manner Of Communicating",
-            "pt": "Disposições para a Comunhão"
-          },
-          {
-            "en": "Necessity Of Previous Preparation For Communion",
-            "pt": "Disposições para a Comunhão"
-          }
-        ]
-      },
-      "image_topic": "First Communion (Picasso's First Communion, or a 19th-century French Romantic painting of a girl in white veil)",
-      "scripture_ref": "1 Corinthians 11:29"
-    },
-    {
-      "id": "session-069",
-      "order": 69,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Frequent and Daily Communion",
-        "pt-BR": "Comunhão frequente e diária"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 334,
-          "to": 339
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          {
-            "en": "The Obligation of Communion",
-            "pt": "Frequência da Comunhão"
-          }
-        ]
-      },
-      "image_topic": "St. Thérèse of Lisieux (or any saint known for daily Communion); or a Eucharistic procession (Corpus Christi)",
-      "scripture_ref": "John 6:54"
-    },
-    {
-      "id": "session-070",
-      "order": 70,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Eucharistic Adoration",
-        "pt-BR": "Adoração eucarística"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 340,
-          "to": 345
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          {
-            "en": "The Effects of the Eucharist",
-            "pt": "Os Frutos da Eucaristia"
-          },
-          {
-            "en": "The Rite of Administering Communion",
-            "pt": "Comunhão Sob uma só Espécie"
-          },
-          {
-            "en": "The Minister of the Eucharist",
-            "pt": "Os Ministros"
-          }
-        ]
-      },
-      "image_topic": "Adoration of the Blessed Sacrament (a Baroque monstrance scene; or St. Pascual Baylón, patron of Eucharistic congresses)",
-      "scripture_ref": "Psalm 27:4"
-    },
-    {
-      "id": "session-071",
-      "order": 71,
-      "group": "sacraments",
-      "title": {
-        "en-US": "The Mass as Sacrifice",
-        "pt-BR": "A Missa como sacrifício"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-eucaristia",
-          "from": 346,
-          "to": 354
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-eucharist",
-        "sections": [
-          {
-            "en": "The Eucharist as a Sacrifice",
-            "pt": "A Eucaristia como Sacrifício"
-          }
-        ]
-      },
-      "image_topic": "The Mass of St. Gregory (a medieval depiction of Christ appearing on the altar), or the Elevation of the Host",
-      "scripture_ref": "Hebrews 13:10"
-    },
-    {
-      "id": "session-072",
-      "order": 72,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Penance — The Tribunal of Mercy",
-        "pt-BR": "Penitência — o tribunal da misericórdia"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-penitenza",
-          "from": 355,
-          "to": 360
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-penance",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On This Sacrament",
-            "pt": "Necessidade do Sacramento"
-          },
-          {
-            "en": "The Virtue of Penance",
-            "pt": "A Penitência como Virtude"
-          },
-          {
-            "en": "Why Christ Instituted This Sacrament",
-            "pt": "A Penitência como Sacramento"
-          },
-          {
-            "en": "Penance Is a Sacrament",
-            "pt": "A Penitência como Sacramento"
-          },
-          {
-            "en": "This Sacrament May Be Repeated",
-            "pt": "A Penitência como Sacramento"
-          }
-        ]
-      },
-      "image_topic": "Christ giving the keys / power to forgive sins (Rubens, or El Greco's Christ giving keys to Peter)",
-      "scripture_ref": "John 20:23"
-    },
-    {
-      "id": "session-073",
-      "order": 73,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Penance — Confession and Examination",
-        "pt-BR": "Penitência — confissão e exame"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-penitenza",
-          "from": 361,
-          "to": 366
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-penance",
-        "sections": [
-          {
-            "en": "The Constituent Parts of Penance",
-            "pt": "As Três Partes da Penitência"
-          },
-          "The Rites Observed",
-          {
-            "en": "The Second Part of Penance",
-            "pt": "A Confissão"
-          }
-        ]
-      },
-      "image_topic": "A confession scene (Goya's Confession; or the parable of the Pharisee and the Publican)",
-      "scripture_ref": "1 John 1:9"
-    },
-    {
-      "id": "session-074",
-      "order": 74,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Penance — Contrition",
-        "pt-BR": "Penitência — contrição"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-penitenza",
-          "from": 367,
-          "to": 374
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-penance",
-        "sections": [
-          {
-            "en": "The First Part of Penance",
-            "pt": "A Contrição"
-          }
-        ]
-      },
-      "image_topic": "The Penitent Peter weeping (Reni, El Greco, or Goya); or the Penitent Magdalene",
-      "scripture_ref": "Psalm 51:17"
-    },
-    {
-      "id": "session-075",
-      "order": 75,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Penance — Purpose of Amendment and Satisfaction",
-        "pt-BR": "Penitência — propósito de emenda e satisfação"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-penitenza",
-          "from": 375,
-          "to": 381
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-penance",
-        "sections": [
-          {
-            "en": "The Three Integral Parts of Penance",
-            "pt": "A Contrição"
-          }
-        ]
-      },
-      "image_topic": "St. Mary of Egypt as model penitent in the desert; or any depiction of doing penance after confession",
-      "scripture_ref": "Luke 3:8"
-    },
-    {
-      "id": "session-076",
-      "order": 76,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Penance — Satisfaction and Indulgences",
-        "pt-BR": "Penitência — satisfação e indulgências"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-penitenza",
-          "from": 382,
-          "to": 391
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-penance",
-        "sections": [
-          {
-            "en": "The Third Part of Penance",
-            "pt": "A Satisfação"
-          },
-          {
-            "en": "Admonition",
-            "pt": "Imposição da Penitência"
-          }
-        ]
-      },
-      "image_topic": "Christ embracing the Prodigal Son (Rembrandt's Return); or the Lamb of God absolving (a Counter-Reformation devotional)",
-      "scripture_ref": "Luke 15:24"
-    },
-    {
-      "id": "session-077",
-      "order": 77,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Extreme Unction — The Anointing of the Sick",
-        "pt-BR": "Extrema-unção — a unção dos enfermos"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-estrema-unzione",
-          "from": 392,
-          "to": 396
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": "sacrament-extreme-unction",
-      "image_topic": "The Anointing of the Sick (Rogier van der Weyden's Seven Sacraments altarpiece, the dying-room panel; or Goya's Last Communion of St. Joseph of Calasanz)",
-      "scripture_ref": "James 5:14"
-    },
-    {
-      "id": "session-078",
-      "order": 78,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Holy Orders — The Priesthood of Christ",
-        "pt-BR": "Ordem — o sacerdócio de Cristo"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-ordine",
-          "from": 397,
-          "to": 405
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": "sacrament-holy-orders",
-      "image_topic": "Ordination of a priest (a Spanish or Italian Baroque painting, or a depiction of St. John Vianney saying Mass)",
-      "scripture_ref": "Hebrews 5:1"
-    },
-    {
-      "id": "session-079",
-      "order": 79,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Matrimony — A Covenant in Christ",
-        "pt-BR": "Matrimônio — uma aliança em Cristo"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-matrimonio",
-          "from": 406,
-          "to": 410
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-matrimony",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On This Sacrament",
-            "pt": "Importância da catequese"
-          },
-          {
-            "en": "Nature and Meaning of Marriage",
-            "pt": "Noção do Matrimônio"
-          },
-          {
-            "en": "Twofold Consideration of Marriage",
-            "pt": "O Matrimônio como instituição jurídica"
-          },
-          {
-            "en": "Marriage before Christ",
-            "pt": "O Matrimônio como instituição natural"
-          },
-          {
-            "en": "Christ Restored to Marriage its Primitive Qualities",
-            "pt": "O Matrimônio como Sacramento"
-          },
-          {
-            "en": "The Three Blessings of Marriage",
-            "pt": "Os bens do Matrimônio"
-          },
-          {
-            "en": "The Recipient of Matrimony",
-            "pt": "Uso do Matrimônio"
-          }
-        ]
-      },
-      "image_topic": "The Marriage at Cana (Veronese, Giotto, or Murillo); OR the Holy Family in Joseph's workshop",
-      "scripture_ref": "Ephesians 5:32"
-    },
-    {
-      "id": "session-080",
-      "order": 80,
-      "group": "sacraments",
-      "title": {
-        "en-US": "Matrimony — Duties of the Spouses",
-        "pt-BR": "Matrimônio — deveres dos esposos"
-      },
-      "pius_x": [
-        {
-          "chapter": "sacramento-matrimonio",
-          "from": 411,
-          "to": 413
-        }
-      ],
-      "teacher": "trent",
-      "aquinas": [],
-      "trent": {
-        "chapter": "sacrament-matrimony",
-        "sections": [
-          {
-            "en": "The Duties of Married People",
-            "pt": "Deveres dos cônjuges"
-          },
-          {
-            "en": "The Rite To Be Observed",
-            "pt": "Legislação Matrimonial"
-          },
-          {
-            "en": "The Impediments Of Marriage",
-            "pt": "Preparação para o Matrimônio"
-          },
-          {
-            "en": "The Use Of Marriage",
-            "pt": "Uso do Matrimônio"
-          }
-        ]
-      },
-      "image_topic": "The Holy Family (Murillo's Holy Family with a Bird, or Reni's Holy Family) — model of married love",
-      "scripture_ref": "Genesis 2:24"
-    },
-    {
-      "id": "session-081",
-      "order": 81,
-      "group": "prayer",
-      "title": {
-        "en-US": "What Prayer Is",
-        "pt-BR": "O que é a oração"
-      },
-      "pius_x": [
-        {
-          "chapter": "orazione",
-          "from": 414,
-          "to": 419
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-00-five-qualities"
-      ],
-      "trent": {
-        "chapter": "prayer-intro",
-        "sections": [
-          "@opening",
-          {
-            "en": "Importance Of Instruction On Prayer",
-            "pt": "Capítulo I — Da Oração e sua necessidade"
-          },
-          {
-            "en": "Necessity of Prayer",
-            "pt": "Capítulo I — Da Oração e sua necessidade"
-          },
-          {
-            "en": "The Fruits of Prayer",
-            "pt": "Capítulo II — Da utilidade da Oração"
-          },
-          {
-            "en": "The Parts Of Prayer",
-            "pt": "Capítulo III — Espécies e graus da Oração"
-          },
-          {
-            "en": "What We Should Pray For",
-            "pt": "Capítulo IV — Objeto da Oração"
-          }
-        ]
-      },
-      "image_topic": "Christ in the Garden of Gethsemane praying (Bellini, Mantegna, or El Greco) — the model of prayer",
-      "scripture_ref": "1 Thessalonians 5:17"
-    },
-    {
-      "id": "session-082",
-      "order": 82,
-      "group": "prayer",
-      "title": {
-        "en-US": "Why God Hears Us",
-        "pt-BR": "Por que Deus nos ouve"
-      },
-      "pius_x": [
-        {
-          "chapter": "orazione",
-          "from": 420,
-          "to": 425
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [],
-      "trent": {
-        "chapter": "prayer-intro",
-        "sections": [
-          {
-            "en": "For Whom We Ought to Pray",
-            "pt": "Capítulo V — Por quem devemos orar"
-          },
-          {
-            "en": "To Whom We Should Pray",
-            "pt": "Capítulo VI — A quem devemos orar"
-          },
-          {
-            "en": "Preparation for Prayer",
-            "pt": "Capítulo VII — Da preparação para rezar"
-          },
-          {
-            "en": "How to Pray Well",
-            "pt": "Capítulo VIII — Da maneira de rezar"
-          }
-        ]
-      },
-      "image_topic": "Christ knocking at the door (Holman Hunt's Light of the World) or the persistent widow (Tissot)",
-      "scripture_ref": "Matthew 7:7"
-    },
-    {
-      "id": "session-083",
-      "order": 83,
-      "group": "prayer",
-      "title": {
-        "en-US": "\"Our Father, who art in Heaven\"",
-        "pt-BR": "\"Pai Nosso, que estais nos céus\""
-      },
-      "pius_x": [
-        {
-          "chapter": "orazione",
-          "from": 426,
-          "to": 426
         },
         {
-          "chapter": "orazione",
-          "from": 428,
-          "to": 428
+          "start": 214,
+          "end": 217,
+          "label": {
+            "en-US": "The final judgment; the renewal of all things; \"Amen\"",
+            "pt-BR": "O juízo final; a renovação de todas as coisas; o \"Amém\""
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-01-opening-words"
-      ],
-      "trent": "prayer-our-father",
-      "image_topic": "Christ teaching the Our Father to His disciples (a 19th-century illustration; or James Tissot's Christ teaching)",
-      "scripture_ref": "Matthew 6:9"
+      ]
     },
     {
-      "id": "session-084",
-      "order": 84,
-      "group": "prayer",
+      "id": "day-27",
+      "order": 27,
+      "phase": "sacraments",
       "title": {
-        "en-US": "First Petition — \"Hallowed be Thy Name\"",
-        "pt-BR": "Primeira petição — \"Santificado seja o Vosso Nome\""
+        "en-US": "The Liturgy — Work of the Trinity and Sacramental Celebration",
+        "pt-BR": "A Liturgia — Obra da Trindade e celebração sacramental"
       },
-      "pius_x": [],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-02-hallowed-be-thy-name"
-      ],
-      "trent": "petition-01",
-      "image_topic": "The Burning Bush (Moses) where God's Name was first revealed; OR the Holy Name of Jesus (IHS in glory, Caravaggio or Bernini's St. Peter's window)",
-      "scripture_ref": "Psalm 113:3"
-    },
-    {
-      "id": "session-085",
-      "order": 85,
-      "group": "prayer",
-      "title": {
-        "en-US": "Second Petition — \"Thy Kingdom Come\"",
-        "pt-BR": "Segunda petição — \"Venha a nós o Vosso Reino\""
-      },
-      "pius_x": [],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-03-thy-kingdom-come"
-      ],
-      "trent": "petition-02",
-      "image_topic": "Christ the King enthroned (Russian icon of the Pantocrator; or Velázquez's Coronation of the Virgin)",
-      "scripture_ref": "Luke 17:21"
-    },
-    {
-      "id": "session-086",
-      "order": 86,
-      "group": "prayer",
-      "title": {
-        "en-US": "Third Petition — \"Thy Will Be Done\"",
-        "pt-BR": "Terceira petição — \"Seja feita a Vossa vontade\""
-      },
-      "pius_x": [],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-04-thy-will-be-done"
-      ],
-      "trent": "petition-03",
-      "image_topic": "The Annunciation — Mary's 'Fiat' (Fra Angelico, Botticelli, or Henry Ossawa Tanner's modern Annunciation)",
-      "scripture_ref": "Luke 22:42"
-    },
-    {
-      "id": "session-087",
-      "order": 87,
-      "group": "prayer",
-      "title": {
-        "en-US": "Fourth Petition — \"Give Us This Day Our Daily Bread\"",
-        "pt-BR": "Quarta petição — \"O pão nosso de cada dia nos dai hoje\""
-      },
-      "pius_x": [
+      "plate": null,
+      "compendium": [
         {
-          "chapter": "orazione",
-          "from": 427,
-          "to": 427
-        }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-05-daily-bread"
-      ],
-      "trent": "petition-04",
-      "image_topic": "The Multiplication of the Loaves (Murillo, Tintoretto, or Marco Pino); OR a Eucharistic image with a wheat sheaf",
-      "scripture_ref": "Matthew 6:11"
-    },
-    {
-      "id": "session-088",
-      "order": 88,
-      "group": "prayer",
-      "title": {
-        "en-US": "Fifth Petition — \"Forgive Us Our Trespasses\"",
-        "pt-BR": "Quinta petição — \"Perdoai-nos as nossas dívidas\""
-      },
-      "pius_x": [],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-06-forgive-us"
-      ],
-      "trent": "petition-05",
-      "image_topic": "The Unmerciful Servant being reproached by the king (a 19th-century Bible illustration); OR the Prodigal Son receiving the embrace",
-      "scripture_ref": "Matthew 6:14"
-    },
-    {
-      "id": "session-089",
-      "order": 89,
-      "group": "prayer",
-      "title": {
-        "en-US": "Sixth and Seventh Petitions and the Amen — Temptation, Deliverance, Confirmation",
-        "pt-BR": "Sexta e Sétima Petições e o Amém — tentação, libertação, confirmação"
-      },
-      "pius_x": [],
-      "teacher": "aquinas",
-      "aquinas": [
-        "lords-prayer-07-lead-us-not",
-        "lords-prayer-08-deliver-us-from-evil",
-        "lords-prayer-short-explanation"
-      ],
-      "trent": [
-        "petition-06",
-        "petition-07",
-        "amen"
-      ],
-      "image_topic": "Christ's temptation in the desert (Tissot, Botticelli, or Ivan Kramskoi's Christ in the Wilderness); OR St. Michael casting out the devil",
-      "scripture_ref": "1 Corinthians 10:13"
-    },
-    {
-      "id": "session-090",
-      "order": 90,
-      "group": "marian",
-      "title": {
-        "en-US": "The Hail Mary and the Communion of Saints",
-        "pt-BR": "A Ave-Maria e a comunhão dos santos"
-      },
-      "pius_x": [
+          "start": 218,
+          "end": 223,
+          "label": {
+            "en-US": "The Paschal Mystery in the age of the Church; the liturgy as work of the Trinity",
+            "pt-BR": "O Mistério Pascal no tempo da Igreja; a liturgia como obra da Trindade"
+          }
+        },
         {
-          "chapter": "orazione",
-          "from": 429,
-          "to": 433
+          "start": 224,
+          "end": 232,
+          "label": {
+            "en-US": "The Father, Christ, and the Spirit in the liturgy; the seven sacraments",
+            "pt-BR": "O Pai, Cristo e o Espírito na liturgia; os sete sacramentos"
+          }
+        },
+        {
+          "start": 233,
+          "end": 240,
+          "label": {
+            "en-US": "Who celebrates? Signs, words, music, images",
+            "pt-BR": "Quem celebra? Sinais, palavras, música, imagens"
+          }
+        },
+        {
+          "start": 241,
+          "end": 249,
+          "label": {
+            "en-US": "When and where the liturgy is celebrated; the liturgical year; the Lord's Day",
+            "pt-BR": "Quando e onde a liturgia é celebrada; o ano litúrgico; o Dia do Senhor"
+          }
         }
-      ],
-      "teacher": "aquinas",
-      "aquinas": [
-        "hail-mary"
-      ],
-      "trent": null,
-      "image_topic": "The Annunciation 'Ave gratia plena' (Fra Angelico's San Marco fresco; or Simone Martini); OR the Virgin of Tenderness icon",
-      "scripture_ref": "Luke 1:28"
+      ]
+    },
+    {
+      "id": "day-28",
+      "order": 28,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Grace",
+        "pt-BR": "A Graça"
+      },
+      "plate": "plate-18",
+      "compendium": [
+        {
+          "start": 422,
+          "end": 428,
+          "label": {
+            "en-US": "Justification, grace, merit, the call to holiness",
+            "pt-BR": "A justificação, a graça, o mérito, o chamado à santidade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-29",
+      "order": 29,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Baptism",
+        "pt-BR": "O Batismo"
+      },
+      "plate": "plate-19",
+      "compendium": [
+        {
+          "start": 250,
+          "end": 256,
+          "label": {
+            "en-US": "Names, signs, prefigurations, institution by Christ, the rite",
+            "pt-BR": "Nomes, sinais, prefigurações, instituição por Cristo, o rito"
+          }
+        },
+        {
+          "start": 257,
+          "end": 264,
+          "label": {
+            "en-US": "Who can baptize; necessity; effects; infant baptism; the unbaptized",
+            "pt-BR": "Quem pode batizar; necessidade; efeitos; batismo das crianças; os não batizados"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-30",
+      "order": 30,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Confirmation",
+        "pt-BR": "A Confirmação"
+      },
+      "plate": "plate-21",
+      "compendium": [
+        {
+          "start": 265,
+          "end": 270,
+          "label": {
+            "en-US": "Institution, signs, effects, minister, recipient",
+            "pt-BR": "Instituição, sinais, efeitos, ministro, receptor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-31",
+      "order": 31,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "The Eucharist — Sacrament and the Celebration of the Mass",
+        "pt-BR": "A Eucaristia — Sacramento e a celebração da Missa"
+      },
+      "plate": "plate-20",
+      "compendium": [
+        {
+          "start": 271,
+          "end": 275,
+          "label": {
+            "en-US": "What the Eucharist is; the names; the prefigurations; the institution",
+            "pt-BR": "O que é a Eucaristia; os nomes; as prefigurações; a instituição"
+          }
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "label": {
+            "en-US": "The sacrifice; the Real Presence; transubstantiation",
+            "pt-BR": "O sacrifício; a Presença Real; a transubstanciação"
+          }
+        },
+        {
+          "start": 283,
+          "end": 289,
+          "label": {
+            "en-US": "The structure of the Mass; the minister; necessary disposition",
+            "pt-BR": "A estrutura da Missa; o ministro; a disposição necessária"
+          }
+        },
+        {
+          "start": 290,
+          "end": 294,
+          "label": {
+            "en-US": "Frequency, fruits, when one may not communicate; viaticum and the day-of-resurrection link",
+            "pt-BR": "Frequência, frutos, quando não se pode comungar; o viático e a Páscoa eterna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-32",
+      "order": 32,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Penance and Reconciliation",
+        "pt-BR": "Penitência e Reconciliação"
+      },
+      "plate": "plate-22",
+      "compendium": [
+        {
+          "start": 295,
+          "end": 302,
+          "label": {
+            "en-US": "Names; institution by Christ; conversion of the baptized; the acts of the penitent",
+            "pt-BR": "Nomes; instituição por Cristo; conversão do batizado; os atos do penitente"
+          }
+        },
+        {
+          "start": 303,
+          "end": 312,
+          "label": {
+            "en-US": "Confession of sins; satisfaction; minister; effects; indulgences",
+            "pt-BR": "Confissão dos pecados; satisfação; ministro; efeitos; indulgências"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-33",
+      "order": 33,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Anointing of the Sick",
+        "pt-BR": "A Unção dos Enfermos"
+      },
+      "plate": "plate-23",
+      "compendium": [
+        {
+          "start": 313,
+          "end": 320,
+          "label": {
+            "en-US": "The sacrament of healing; minister; recipient; effects; viaticum",
+            "pt-BR": "O sacramento da cura; ministro; receptor; efeitos; viático"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-34",
+      "order": 34,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Holy Orders",
+        "pt-BR": "A Ordem"
+      },
+      "plate": "plate-24",
+      "compendium": [
+        {
+          "start": 321,
+          "end": 329,
+          "label": {
+            "en-US": "Apostolic succession; the three degrees of orders; bishop; priest; deacon",
+            "pt-BR": "A sucessão apostólica; os três graus da Ordem; bispo; sacerdote; diácono"
+          }
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "label": {
+            "en-US": "Effects; minister; recipient; celibacy",
+            "pt-BR": "Efeitos; ministro; receptor; celibato"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-35",
+      "order": 35,
+      "phase": "sacraments",
+      "title": {
+        "en-US": "Matrimony, Sacramentals, and Christian Funerals",
+        "pt-BR": "Matrimônio, sacramentais e exéquias cristãs"
+      },
+      "plate": "plate-25",
+      "compendium": [
+        {
+          "start": 337,
+          "end": 344,
+          "label": {
+            "en-US": "Marriage in the order of creation and the new covenant; the rite; impediments",
+            "pt-BR": "O matrimônio na ordem da criação e na nova aliança; o rito; impedimentos"
+          }
+        },
+        {
+          "start": 345,
+          "end": 350,
+          "label": {
+            "en-US": "Effects; love and fruitfulness; mixed marriage; divorce; the domestic Church",
+            "pt-BR": "Efeitos; amor e fecundidade; matrimônio misto; divórcio; a Igreja doméstica"
+          }
+        },
+        {
+          "start": 351,
+          "end": 353,
+          "label": {
+            "en-US": "Sacramentals and forms of popular piety",
+            "pt-BR": "Sacramentais e formas de piedade popular"
+          }
+        },
+        {
+          "start": 354,
+          "end": 356,
+          "label": {
+            "en-US": "Christian funerals",
+            "pt-BR": "As exéquias cristãs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-36",
+      "order": 36,
+      "phase": "foundations",
+      "title": {
+        "en-US": "The Dignity of the Person — Freedom and the Passions",
+        "pt-BR": "A dignidade da pessoa — Liberdade e paixões"
+      },
+      "plate": null,
+      "compendium": [
+        {
+          "start": 358,
+          "end": 362,
+          "label": {
+            "en-US": "Image of God; vocation to beatitude; the Beatitudes",
+            "pt-BR": "Imagem de Deus; vocação à bem-aventurança; as Bem-aventuranças"
+          }
+        },
+        {
+          "start": 363,
+          "end": 366,
+          "label": {
+            "en-US": "Human freedom; responsibility; salvation as freedom restored",
+            "pt-BR": "A liberdade humana; a responsabilidade; a salvação como liberdade restaurada"
+          }
+        },
+        {
+          "start": 367,
+          "end": 371,
+          "label": {
+            "en-US": "The morality of the passions",
+            "pt-BR": "A moralidade das paixões"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-37",
+      "order": 37,
+      "phase": "foundations",
+      "title": {
+        "en-US": "Conscience and the Morality of Human Acts",
+        "pt-BR": "A consciência e a moralidade dos atos humanos"
+      },
+      "plate": null,
+      "compendium": [
+        {
+          "start": 372,
+          "end": 376,
+          "label": {
+            "en-US": "The moral conscience; its formation; erroneous judgment",
+            "pt-BR": "A consciência moral; sua formação; o juízo errôneo"
+          }
+        },
+        {
+          "start": 377,
+          "end": 378,
+          "label": {
+            "en-US": "Object, intention, circumstances of moral acts",
+            "pt-BR": "Objeto, intenção, circunstâncias dos atos morais"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-38",
+      "order": 38,
+      "phase": "foundations",
+      "title": {
+        "en-US": "Person, Society, and the Moral Law",
+        "pt-BR": "Pessoa, sociedade e a lei moral"
+      },
+      "plate": null,
+      "compendium": [
+        {
+          "start": 401,
+          "end": 407,
+          "label": {
+            "en-US": "The person and society; the family; the common good; subsidiarity",
+            "pt-BR": "Pessoa e sociedade; a família; o bem comum; a subsidiariedade"
+          }
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "label": {
+            "en-US": "Participation in social life; social justice; equality and solidarity",
+            "pt-BR": "Participação na vida social; justiça social; igualdade e solidariedade"
+          }
+        },
+        {
+          "start": 415,
+          "end": 421,
+          "label": {
+            "en-US": "Natural law; the Old Law; the New Law of the Gospel",
+            "pt-BR": "A lei natural; a Lei antiga; a Lei nova do Evangelho"
+          }
+        },
+        {
+          "start": 429,
+          "end": 433,
+          "label": {
+            "en-US": "The Church as mother and teacher; the precepts of the Church",
+            "pt-BR": "A Igreja Mãe e Mestra; os preceitos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-39",
+      "order": 39,
+      "phase": "commandments",
+      "title": {
+        "en-US": "The Decalogue — The Commandments of God",
+        "pt-BR": "O Decálogo — Os Mandamentos de Deus"
+      },
+      "plate": "plate-26",
+      "compendium": [
+        {
+          "start": 434,
+          "end": 441,
+          "label": {
+            "en-US": "The Ten Commandments — origin, unity, obligation",
+            "pt-BR": "Os Dez Mandamentos — origem, unidade, obrigatoriedade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-40",
+      "order": 40,
+      "phase": "commandments",
+      "title": {
+        "en-US": "First Commandment — Adoration, Faith, Hope, Charity",
+        "pt-BR": "1º Mandamento — Adoração, fé, esperança, caridade"
+      },
+      "plate": "plate-27",
+      "compendium": [
+        {
+          "start": 442,
+          "end": 444,
+          "label": {
+            "en-US": "I am the Lord your God; adoration; the right to worship God in truth and in freedom",
+            "pt-BR": "Eu sou o Senhor teu Deus; a adoração; o direito de adorar a Deus na verdade e na liberdade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-41",
+      "order": 41,
+      "phase": "commandments",
+      "title": {
+        "en-US": "First Commandment — Veneration of Saints, Sacred Images, Sins Against",
+        "pt-BR": "1º Mandamento — Veneração dos santos, imagens, pecados"
+      },
+      "plate": "plate-28",
+      "compendium": [
+        {
+          "start": 445,
+          "end": 446,
+          "label": {
+            "en-US": "Sins against the first commandment — polytheism, idolatry, superstition; the Christian cult of sacred images",
+            "pt-BR": "Pecados contra o primeiro mandamento — politeísmo, idolatria, superstição; o culto cristão das imagens sagradas"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-42",
+      "order": 42,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Second Commandment — Reverence for the Name",
+        "pt-BR": "2º Mandamento — Reverência ao Nome"
+      },
+      "plate": "plate-29",
+      "compendium": [
+        {
+          "start": 447,
+          "end": 447,
+          "label": {
+            "en-US": "Respecting the holiness of the Name of God; blasphemy",
+            "pt-BR": "Respeitar a santidade do Nome de Deus; a blasfêmia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-43",
+      "order": 43,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Second Commandment — Oaths and Vows",
+        "pt-BR": "2º Mandamento — Juramentos e votos"
+      },
+      "plate": "plate-30",
+      "compendium": [
+        {
+          "start": 448,
+          "end": 448,
+          "label": {
+            "en-US": "Why a false oath is forbidden",
+            "pt-BR": "Por que o falso juramento é proibido"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-44",
+      "order": 44,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Second Commandment — Oaths, Perjury, Vows",
+        "pt-BR": "2º Mandamento — Juramentos, perjúrio, votos"
+      },
+      "plate": "plate-31",
+      "compendium": [
+        {
+          "start": 449,
+          "end": 449,
+          "label": {
+            "en-US": "Perjury — breaking a promise made under oath",
+            "pt-BR": "O perjúrio — violar uma promessa feita sob juramento"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-45",
+      "order": 45,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Third Commandment — The Lord's Day",
+        "pt-BR": "3º Mandamento — O dia do Senhor"
+      },
+      "plate": "plate-32",
+      "compendium": [
+        {
+          "start": 450,
+          "end": 452,
+          "label": {
+            "en-US": "The Sabbath, Christ and the Sabbath, and why Sunday is the Christian Lord's Day",
+            "pt-BR": "O sábado, Cristo e o sábado, e por que o domingo é o Dia do Senhor para os cristãos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-46",
+      "order": 46,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Third Commandment — Sunday Observance",
+        "pt-BR": "3º Mandamento — A observância dominical"
+      },
+      "plate": "plate-33",
+      "compendium": [
+        {
+          "start": 453,
+          "end": 454,
+          "label": {
+            "en-US": "How to keep Sunday holy; the civil recognition of Sunday as a day of rest",
+            "pt-BR": "Como santificar o domingo; o reconhecimento civil do domingo como dia de descanso"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-47",
+      "order": 47,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fourth Commandment — Honor of Parents",
+        "pt-BR": "4º Mandamento — Honra aos pais"
+      },
+      "plate": "plate-34",
+      "compendium": [
+        {
+          "start": 455,
+          "end": 458,
+          "label": {
+            "en-US": "The family in God's plan; duties of children",
+            "pt-BR": "A família no plano de Deus; deveres dos filhos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-48",
+      "order": 48,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fourth Commandment — Duties of Children and Parents",
+        "pt-BR": "4º Mandamento — Deveres de filhos e pais"
+      },
+      "plate": "plate-35",
+      "compendium": [
+        {
+          "start": 459,
+          "end": 462,
+          "label": {
+            "en-US": "Duties of parents; the Christian family",
+            "pt-BR": "Deveres dos pais; a família cristã"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-49",
+      "order": 49,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fourth Commandment — Civil Authority",
+        "pt-BR": "4º Mandamento — Autoridade civil"
+      },
+      "plate": "plate-36",
+      "compendium": [
+        {
+          "start": 463,
+          "end": 464,
+          "label": {
+            "en-US": "Civil authority and the duties of citizens",
+            "pt-BR": "Autoridade civil e deveres dos cidadãos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-50",
+      "order": 50,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fourth Commandment — Pastoral and Domestic Authority",
+        "pt-BR": "4º Mandamento — Autoridade pastoral e doméstica"
+      },
+      "plate": "plate-37",
+      "compendium": [
+        {
+          "start": 465,
+          "end": 465,
+          "label": {
+            "en-US": "Limits of obedience to civil authority",
+            "pt-BR": "Limites da obediência à autoridade civil"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-51",
+      "order": 51,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fifth Commandment — Murder and Suicide",
+        "pt-BR": "5º Mandamento — Homicídio e suicídio"
+      },
+      "plate": "plate-38",
+      "compendium": [
+        {
+          "start": 466,
+          "end": 470,
+          "label": {
+            "en-US": "Respect for human life; murder, abortion, euthanasia, suicide",
+            "pt-BR": "Respeito à vida humana; homicídio, aborto, eutanásia, suicídio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-52",
+      "order": 52,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fifth Commandment — Scandal and the Spiritual Wound",
+        "pt-BR": "5º Mandamento — Escândalo e a ferida espiritual"
+      },
+      "plate": "plate-39",
+      "compendium": [
+        {
+          "start": 471,
+          "end": 478,
+          "label": {
+            "en-US": "Bodily and spiritual health; scandal",
+            "pt-BR": "Saúde corporal e espiritual; escândalo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-53",
+      "order": 53,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Fifth Commandment — Peace, Just War, Self-Defense",
+        "pt-BR": "5º Mandamento — Paz, guerra justa, legítima defesa"
+      },
+      "plate": "plate-40",
+      "compendium": [
+        {
+          "start": 479,
+          "end": 486,
+          "label": {
+            "en-US": "Peace and just war; legitimate defense; the death penalty",
+            "pt-BR": "Paz e guerra justa; legítima defesa; pena de morte"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-54",
+      "order": 54,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Sixth and Ninth Commandments — Chastity",
+        "pt-BR": "6º e 9º Mandamentos — Castidade"
+      },
+      "plate": "plate-41",
+      "compendium": [
+        {
+          "start": 487,
+          "end": 494,
+          "label": {
+            "en-US": "Chastity, modesty, the meaning of sexuality",
+            "pt-BR": "Castidade, pudor, sentido da sexualidade"
+          }
+        },
+        {
+          "start": 495,
+          "end": 502,
+          "label": {
+            "en-US": "Conjugal love; offenses against chastity; offenses against the dignity of marriage",
+            "pt-BR": "Amor conjugal; ofensas contra a castidade; ofensas contra a dignidade do matrimônio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-55",
+      "order": 55,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Seventh Commandment — Property and Justice",
+        "pt-BR": "7º Mandamento — Propriedade e justiça"
+      },
+      "plate": "plate-42",
+      "compendium": [
+        {
+          "start": 503,
+          "end": 510,
+          "label": {
+            "en-US": "Universal destination and private property; theft and restitution; commutative justice",
+            "pt-BR": "Destinação universal e propriedade privada; furto e restituição; justiça comutativa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-56",
+      "order": 56,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Seventh Commandment — Work, the Economy, the Poor",
+        "pt-BR": "7º Mandamento — Trabalho, economia, os pobres"
+      },
+      "plate": "plate-43",
+      "compendium": [
+        {
+          "start": 511,
+          "end": 520,
+          "label": {
+            "en-US": "Work; the economic order; the just wage; international justice; the love of the poor",
+            "pt-BR": "O trabalho; a ordem econômica; o salário justo; justiça internacional; o amor pelos pobres"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-57",
+      "order": 57,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Truth and False Witness",
+        "pt-BR": "8º Mandamento — Verdade e falso testemunho"
+      },
+      "plate": "plate-44",
+      "compendium": [
+        {
+          "start": 521,
+          "end": 522,
+          "label": {
+            "en-US": "Truth, witness, martyrdom",
+            "pt-BR": "Verdade, testemunho, martírio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-58",
+      "order": 58,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Lying",
+        "pt-BR": "8º Mandamento — A mentira"
+      },
+      "plate": "plate-45",
+      "compendium": [
+        {
+          "start": 523,
+          "end": 523,
+          "label": {
+            "en-US": "Offenses against truth",
+            "pt-BR": "Pecados contra a verdade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-59",
+      "order": 59,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Detraction, Calumny, Mass Media",
+        "pt-BR": "8º Mandamento — Detração, calúnia, meios de comunicação"
+      },
+      "plate": "plate-46",
+      "compendium": [
+        {
+          "start": 524,
+          "end": 526,
+          "label": {
+            "en-US": "Reputation; the seal of confession; truth and the media; truth, beauty, and sacred art",
+            "pt-BR": "Reputação; sigilo sacramental; verdade e meios de comunicação; verdade, beleza e arte sagrada"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-60",
+      "order": 60,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Ninth Commandment — Custody of the Heart",
+        "pt-BR": "9º Mandamento — Guarda do coração"
+      },
+      "plate": "plate-47",
+      "compendium": [
+        {
+          "start": 527,
+          "end": 530,
+          "label": {
+            "en-US": "What the ninth commandment requires and forbids; purity of heart; modesty",
+            "pt-BR": "O que o nono mandamento exige e proíbe; pureza do coração; pudor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-61",
+      "order": 61,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Tenth Commandment — Detachment from Goods",
+        "pt-BR": "10º Mandamento — Desprendimento dos bens"
+      },
+      "plate": "plate-48",
+      "compendium": [
+        {
+          "start": 531,
+          "end": 533,
+          "label": {
+            "en-US": "Coveting; detachment; \"desire for happiness\"",
+            "pt-BR": "A cobiça; o desprendimento; o \"desejo da felicidade\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-62",
+      "order": 62,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Precepts of the Church — Sunday Mass and Feast Days",
+        "pt-BR": "Preceitos da Igreja — Missa dominical e festas"
+      },
+      "plate": "plate-49",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The first two precepts of the Church",
+            "pt-BR": "Os dois primeiros preceitos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-63",
+      "order": 63,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Precepts of the Church — Annual Confession and Easter Communion",
+        "pt-BR": "Preceitos da Igreja — Confissão anual e comunhão pascal"
+      },
+      "plate": "plate-50",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The third precept of the Church",
+            "pt-BR": "O terceiro preceito da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-64",
+      "order": 64,
+      "phase": "commandments",
+      "title": {
+        "en-US": "The Precepts of the Church — Fast, Abstinence, and Support of the Church",
+        "pt-BR": "Os preceitos da Igreja — Jejum, abstinência e sustento da Igreja"
+      },
+      "plate": "plate-51",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The fourth and fifth precepts of the Church",
+            "pt-BR": "O quarto e o quinto preceitos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-65",
+      "order": 65,
+      "phase": "last-things",
+      "title": {
+        "en-US": "Vanity — The Emptiness of the World",
+        "pt-BR": "A Vaidade — O vazio do mundo"
+      },
+      "plate": "plate-55",
+      "compendium": []
+    },
+    {
+      "id": "day-66",
+      "order": 66,
+      "phase": "last-things",
+      "title": {
+        "en-US": "Death — The Christian End",
+        "pt-BR": "A Morte — O fim cristão"
+      },
+      "plate": "plate-56",
+      "compendium": [
+        {
+          "start": 206,
+          "end": 206,
+          "label": {
+            "en-US": "Dying in Christ Jesus",
+            "pt-BR": "Morrer em Cristo Jesus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-67",
+      "order": 67,
+      "phase": "last-things",
+      "title": {
+        "en-US": "The Particular Judgment",
+        "pt-BR": "O Juízo particular"
+      },
+      "plate": "plate-57",
+      "compendium": [
+        {
+          "start": 208,
+          "end": 208,
+          "label": {
+            "en-US": "The particular judgment",
+            "pt-BR": "O juízo particular"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-68",
+      "order": 68,
+      "phase": "last-things",
+      "title": {
+        "en-US": "Original Sin — The Fall, the Wound, and the Remedy",
+        "pt-BR": "O Pecado original — A Queda, a ferida e o remédio"
+      },
+      "plate": "plate-58",
+      "compendium": [
+        {
+          "start": 73,
+          "end": 78,
+          "label": {
+            "en-US": "The reality of sin; the fall of the angels; the first sin; original sin and its consequences; the promise of a Redeemer",
+            "pt-BR": "A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências; a promessa de um Redentor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-69",
+      "order": 69,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "Capital Sins — Pride, Avarice, Lust (with the doctrine of sin)",
+        "pt-BR": "Pecados capitais — Soberba, avareza, luxúria (com a doutrina do pecado)"
+      },
+      "plate": "plate-59",
+      "compendium": [
+        {
+          "start": 391,
+          "end": 400,
+          "label": {
+            "en-US": "Mortal and venial sin; the capital vices; complicity; structures of sin",
+            "pt-BR": "Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-70",
+      "order": 70,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "Capital Sins — Gluttony and Envy",
+        "pt-BR": "Pecados capitais — Gula e inveja"
+      },
+      "plate": "plate-60",
+      "compendium": [
+        {
+          "start": 398,
+          "end": 398,
+          "label": {
+            "en-US": "The capital sins (continued)",
+            "pt-BR": "Os pecados capitais (continuação)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-71",
+      "order": 71,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "Capital Sins — Wrath and Sloth",
+        "pt-BR": "Pecados capitais — Ira e preguiça"
+      },
+      "plate": "plate-61",
+      "compendium": [
+        {
+          "start": 398,
+          "end": 398,
+          "label": {
+            "en-US": "The capital sins (continued)",
+            "pt-BR": "Os pecados capitais (continuação)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-72",
+      "order": 72,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "The Theological Virtues — Faith, Hope, Charity",
+        "pt-BR": "As Virtudes teologais — Fé, esperança, caridade"
+      },
+      "plate": "plate-62",
+      "compendium": [
+        {
+          "start": 384,
+          "end": 388,
+          "label": {
+            "en-US": "The theological virtues",
+            "pt-BR": "As virtudes teologais"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-73",
+      "order": 73,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance",
+        "pt-BR": "As Virtudes cardeais — Prudência, justiça, fortaleza, temperança"
+      },
+      "plate": "plate-63",
+      "compendium": [
+        {
+          "start": 379,
+          "end": 383,
+          "label": {
+            "en-US": "Human virtues and the four cardinal virtues",
+            "pt-BR": "Virtudes humanas e as quatro virtudes cardeais"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-74",
+      "order": 74,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "The Evangelical Counsels — Poverty, Chastity, Obedience",
+        "pt-BR": "Os Conselhos evangélicos — Pobreza, castidade, obediência"
+      },
+      "plate": "plate-64",
+      "compendium": [
+        {
+          "start": 389,
+          "end": 391,
+          "label": {
+            "en-US": "The evangelical counsels and consecrated life",
+            "pt-BR": "Os conselhos evangélicos e a vida consagrada"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-75",
+      "order": 75,
+      "phase": "works-of-mercy",
+      "title": {
+        "en-US": "The Corporal Works of Mercy",
+        "pt-BR": "As Obras corporais de misericórdia"
+      },
+      "plate": "plate-65",
+      "compendium": [
+        {
+          "start": 420,
+          "end": 421,
+          "label": {
+            "en-US": "The works of mercy and acts of love of neighbor",
+            "pt-BR": "As obras de misericórdia e os atos de amor ao próximo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-76",
+      "order": 76,
+      "phase": "works-of-mercy",
+      "title": {
+        "en-US": "The Spiritual Works of Mercy",
+        "pt-BR": "As Obras espirituais de misericórdia"
+      },
+      "plate": "plate-66",
+      "compendium": [
+        {
+          "start": 420,
+          "end": 421,
+          "label": {
+            "en-US": "The works of mercy (continued)",
+            "pt-BR": "As obras de misericórdia (continuação)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-77",
+      "order": 77,
+      "phase": "prayer",
+      "title": {
+        "en-US": "What Prayer Is — The Universal Call, Christ, the Church, the Wellsprings",
+        "pt-BR": "O que é a Oração — Chamada universal, Cristo, a Igreja, as fontes"
+      },
+      "plate": "plate-52",
+      "compendium": [
+        {
+          "start": 534,
+          "end": 540,
+          "label": {
+            "en-US": "Prayer revealed; the gift; the patriarchs; Moses and David; the psalms",
+            "pt-BR": "A oração revelada; o dom; os patriarcas; Moisés e Davi; os salmos"
+          }
+        },
+        {
+          "start": 541,
+          "end": 547,
+          "label": {
+            "en-US": "Christ at prayer; the Our Father; prayer of Mary; prayer in the apostolic age",
+            "pt-BR": "Cristo em oração; o Pai-Nosso; a oração de Maria; a oração na era apostólica"
+          }
+        },
+        {
+          "start": 548,
+          "end": 555,
+          "label": {
+            "en-US": "Wellsprings (Word, liturgy, virtues, providence); to whom we pray; guides and saints",
+            "pt-BR": "As fontes (Palavra, liturgia, virtudes, providência); a quem rezamos; guias e santos"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-78",
+      "order": 78,
+      "phase": "prayer",
+      "title": {
+        "en-US": "The Expressions and Battle of Prayer",
+        "pt-BR": "As expressões e o combate da oração"
+      },
+      "plate": null,
+      "compendium": [
+        {
+          "start": 556,
+          "end": 568,
+          "label": {
+            "en-US": "Vocal prayer, meditation, contemplation; family and ecclesial prayer; places and times of prayer; prayer at the canonical hours",
+            "pt-BR": "Oração vocal, meditação, contemplação; oração em família e na Igreja; lugares e tempos da oração; oração nas horas canônicas"
+          }
+        },
+        {
+          "start": 569,
+          "end": 577,
+          "label": {
+            "en-US": "Vocal prayer, meditation, contemplation; the battle of prayer — objections, distractions, dryness, filial trust; praying always; the prayer of the Hour of Jesus",
+            "pt-BR": "Oração vocal, meditação, contemplação; o combate da oração — objeções, distrações, secura, confiança filial; rezar sem cessar; a oração da Hora de Jesus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-79",
+      "order": 79,
+      "phase": "prayer",
+      "title": {
+        "en-US": "The Our Father — \"The Summary of the Whole Gospel\" (with the First Petitions)",
+        "pt-BR": "O Pai-Nosso — \"Síntese de todo o Evangelho\" (com os primeiros pedidos)"
+      },
+      "plate": "plate-53",
+      "compendium": [
+        {
+          "start": 578,
+          "end": 583,
+          "label": {
+            "en-US": "The Lord's Prayer as a whole; \"Our Father\"; \"who art in heaven\"",
+            "pt-BR": "A oração do Senhor como um todo; \"Pai nosso\"; \"que estais nos céus\""
+          }
+        },
+        {
+          "start": 584,
+          "end": 587,
+          "label": {
+            "en-US": "Hallowed be Thy Name; Thy Kingdom come; Thy will be done",
+            "pt-BR": "Santificado seja o vosso Nome; venha a nós o vosso Reino; seja feita a vossa vontade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-80",
+      "order": 80,
+      "phase": "prayer",
+      "title": {
+        "en-US": "The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance",
+        "pt-BR": "Os quatro últimos pedidos — Pão, perdão, tentação, libertação"
+      },
+      "plate": null,
+      "compendium": [
+        {
+          "start": 588,
+          "end": 597,
+          "label": {
+            "en-US": "Daily bread; forgive us; lead us not into temptation; deliver us from evil",
+            "pt-BR": "Pão de cada dia; perdoai-nos; não nos deixeis cair em tentação; livrai-nos do mal"
+          }
+        },
+        {
+          "start": 598,
+          "end": 598,
+          "label": {
+            "en-US": "Amen",
+            "pt-BR": "Amém"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-81",
+      "order": 81,
+      "phase": "prayer",
+      "title": {
+        "en-US": "The Hail Mary and Marian Prayer",
+        "pt-BR": "A Ave-Maria e a oração mariana"
+      },
+      "plate": "plate-54",
+      "compendium": [
+        {
+          "start": 562,
+          "end": 562,
+          "label": {
+            "en-US": "Marian prayer in the Christian life",
+            "pt-BR": "A oração mariana na vida cristã"
+          }
+        }
+      ]
     }
   ]
 }

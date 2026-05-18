@@ -410,7 +410,31 @@ export async function loadBookChapterText(
   if (!item) return undefined
   const ref = item.chapters[chapterId]?.[lang]
   if (!ref) return undefined
-  return getText(ref.hash)
+  const raw = await getText(ref.hash)
+  return rewriteBookImagePaths(raw, item.images)
+}
+
+// Chapter markdown references plate illustrations via relative paths like
+// `../images/plate-01.jpg`. The corpus serves them as hash-addressed blobs.
+// Translate the markdown so downstream rendering (ProseBlock → ImageBlock →
+// useResolvedImageUri) can pick the right blob — same scheme used elsewhere
+// (`corpus://<hash>.<ext>`).
+function rewriteBookImagePaths(
+  markdown: string,
+  images: { rel: string; hash: string; mime: string }[] | undefined,
+): string {
+  if (!images?.length) return markdown
+  const refs = new Map<string, string>()
+  for (const img of images) {
+    const ext = (img.mime?.split('/')[1] ?? 'jpg').replace('jpeg', 'jpg')
+    const uri = `corpus://${img.hash}.${ext}`
+    refs.set(`../images/${img.rel}`, uri)
+    refs.set(`images/${img.rel}`, uri)
+  }
+  return markdown.replace(/(!\[[^\]]*\]\()([^)\s]+)(\))/g, (full, open, src, close) => {
+    const replaced = refs.get(src)
+    return replaced ? `${open}${replaced}${close}` : full
+  })
 }
 
 /**

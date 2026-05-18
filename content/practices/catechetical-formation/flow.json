@@ -1,4 +1,5 @@
 {
+	"flowVersion": "1",
 	"sections": [
 		{
 			"type": "cycle",
@@ -7,9 +8,16 @@
 			"sections": [
 				{
 					"type": "prose",
-					"book": "catechetical-formation",
-					"chapter": "{{chapterId}}",
+					"book": "catechism-in-pictures",
+					"chapter": "{{plateId}}",
 					"langPolicy": "active-language"
+				},
+				{
+					"type": "rubric",
+					"text": {
+						"en-US": "{{compendiumEn}}",
+						"pt-BR": "{{compendiumPt}}"
+					}
 				}
 			]
 		}
