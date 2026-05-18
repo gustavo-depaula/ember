@@ -1,1 +1,1 @@
-# Day 65 — Eighth Commandment — Truth and Witness
+# Day 65 — Fifth Commandment — Scandal and the Spiritual Wound

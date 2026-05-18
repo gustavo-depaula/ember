@@ -1,1 +1,1 @@
-# Day 69 — The Precepts of the Church
+# Day 69 — Seventh Commandment — Work, the Economy, the Poor

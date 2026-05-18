@@ -1,1 +1,1 @@
-# Dia 57 — 3º Mandamento — O dia do Senhor
+# Dia 57 — 2º Mandamento — Juramentos, perjúrio, votos

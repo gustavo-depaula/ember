@@ -1,1 +1,1 @@
-# Dia 70 — A Vaidade — O vazio do mundo
+# Dia 70 — 8º Mandamento — Verdade e falso testemunho

@@ -1,1 +1,1 @@
-# Dia 80 — As Obras espirituais de misericórdia
+# Dia 80 — O Juízo particular

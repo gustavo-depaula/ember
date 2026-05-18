@@ -1,1 +1,1 @@
-# Day 66 — Eighth Commandment — Detraction, Calumny, Mass Media
+# Day 66 — Fifth Commandment — Peace, Just War, Self-Defense

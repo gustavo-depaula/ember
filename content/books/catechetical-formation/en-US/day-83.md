@@ -1,1 +1,1 @@
-# Day 83 — The Wellsprings and the Way of Prayer
+# Day 83 — Capital Sins — Gluttony and Envy

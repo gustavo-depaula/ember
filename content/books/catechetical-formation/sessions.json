@@ -12,7 +12,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 1, "end": 5, "label": { "en-US": "Man's desire for God; knowledge of God by reason; how we speak of Him", "pt-BR": "O desejo de Deus no homem; o conhecimento de Deus pela razão; como falamos d'Ele" } }
+        {
+          "start": 1,
+          "end": 5,
+          "label": {
+            "en-US": "Man's desire for God; knowledge of God by reason; how we speak of Him",
+            "pt-BR": "O desejo de Deus no homem; o conhecimento de Deus pela razão; como falamos d'Ele"
+          }
+        }
       ]
     },
     {
@@ -25,7 +32,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 6, "end": 10, "label": { "en-US": "God's self-revelation; the stages from Adam to Christ; private revelations", "pt-BR": "A autorrevelação de Deus; as etapas de Adão a Cristo; as revelações privadas" } }
+        {
+          "start": 6,
+          "end": 10,
+          "label": {
+            "en-US": "God's self-revelation; the stages from Adam to Christ; private revelations",
+            "pt-BR": "A autorrevelação de Deus; as etapas de Adão a Cristo; as revelações privadas"
+          }
+        }
       ]
     },
     {
@@ -38,7 +52,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 11, "end": 17, "label": { "en-US": "Apostolic Tradition; the relationship of Scripture and Tradition; the deposit of faith; the Magisterium", "pt-BR": "A Tradição apostólica; relação entre Escritura e Tradição; o depósito da fé; o Magistério" } }
+        {
+          "start": 11,
+          "end": 17,
+          "label": {
+            "en-US": "Apostolic Tradition; the relationship of Scripture and Tradition; the deposit of faith; the Magisterium",
+            "pt-BR": "A Tradição apostólica; relação entre Escritura e Tradição; o depósito da fé; o Magistério"
+          }
+        }
       ]
     },
     {
@@ -51,7 +72,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 18, "end": 24, "label": { "en-US": "Inspiration and inerrancy; the canon; how to interpret; the Old and New Testaments; Scripture in the life of the Church", "pt-BR": "Inspiração e inerrância; o cânon; modos de interpretação; Antigo e Novo Testamento; a Escritura na vida da Igreja" } }
+        {
+          "start": 18,
+          "end": 24,
+          "label": {
+            "en-US": "Inspiration and inerrancy; the canon; how to interpret; the Old and New Testaments; Scripture in the life of the Church",
+            "pt-BR": "Inspiração e inerrância; o cânon; modos de interpretação; Antigo e Novo Testamento; a Escritura na vida da Igreja"
+          }
+        }
       ]
     },
     {
@@ -64,7 +92,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 25, "end": 29, "label": { "en-US": "The obedience of faith; Abraham and Mary as witnesses; the characteristics of faith; faith and science", "pt-BR": "A obediência da fé; Abraão e Maria como testemunhas; as características da fé; fé e ciência" } }
+        {
+          "start": 25,
+          "end": 29,
+          "label": {
+            "en-US": "The obedience of faith; Abraham and Mary as witnesses; the characteristics of faith; faith and science",
+            "pt-BR": "A obediência da fé; Abraão e Maria como testemunhas; as características da fé; fé e ciência"
+          }
+        }
       ]
     },
     {
@@ -77,7 +112,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 30, "end": 35, "label": { "en-US": "The ecclesial nature of faith; the Apostles' and Nicene-Constantinopolitan Creeds", "pt-BR": "A natureza eclesial da fé; o Símbolo dos Apóstolos e o Niceno-Constantinopolitano" } }
+        {
+          "start": 30,
+          "end": 35,
+          "label": {
+            "en-US": "The ecclesial nature of faith; the Apostles' and Nicene-Constantinopolitan Creeds",
+            "pt-BR": "A natureza eclesial da fé; o Símbolo dos Apóstolos e o Niceno-Constantinopolitano"
+          }
+        }
       ]
     },
     {
@@ -101,8 +143,22 @@
       },
       "plate": "plate-02",
       "compendium": [
-        { "start": 36, "end": 43, "label": { "en-US": "I believe in God; the Name and nature of God", "pt-BR": "Creio em Deus; o nome e a natureza de Deus" } },
-        { "start": 44, "end": 49, "label": { "en-US": "The Most Holy Trinity", "pt-BR": "A Santíssima Trindade" } }
+        {
+          "start": 36,
+          "end": 43,
+          "label": {
+            "en-US": "I believe in God; the Name and nature of God",
+            "pt-BR": "Creio em Deus; o nome e a natureza de Deus"
+          }
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "label": {
+            "en-US": "The Most Holy Trinity",
+            "pt-BR": "A Santíssima Trindade"
+          }
+        }
       ]
     },
     {
@@ -115,8 +171,22 @@
       },
       "plate": "plate-03",
       "compendium": [
-        { "start": 50, "end": 58, "label": { "en-US": "The Almighty Creator; Providence; the problem of evil", "pt-BR": "O Criador onipotente; a Providência; o problema do mal" } },
-        { "start": 59, "end": 65, "label": { "en-US": "Heaven and earth; the angels; man as the summit of visible creation", "pt-BR": "O céu e a terra; os anjos; o homem como cume da criação visível" } }
+        {
+          "start": 50,
+          "end": 58,
+          "label": {
+            "en-US": "The Almighty Creator; Providence; the problem of evil",
+            "pt-BR": "O Criador onipotente; a Providência; o problema do mal"
+          }
+        },
+        {
+          "start": 59,
+          "end": 65,
+          "label": {
+            "en-US": "Heaven and earth; the angels; man as the summit of visible creation",
+            "pt-BR": "O céu e a terra; os anjos; o homem como cume da criação visível"
+          }
+        }
       ]
     },
     {
@@ -129,7 +199,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 66, "end": 72, "label": { "en-US": "The image of God; unity of soul and body; man and woman; original condition", "pt-BR": "A imagem de Deus; unidade de alma e corpo; homem e mulher; condição original" } }
+        {
+          "start": 66,
+          "end": 72,
+          "label": {
+            "en-US": "The image of God; unity of soul and body; man and woman; original condition",
+            "pt-BR": "A imagem de Deus; unidade de alma e corpo; homem e mulher; condição original"
+          }
+        }
       ]
     },
     {
@@ -142,7 +219,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 73, "end": 78, "label": { "en-US": "The reality of sin; the fall of the angels; the first sin; original sin and its consequences", "pt-BR": "A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências" } }
+        {
+          "start": 73,
+          "end": 78,
+          "label": {
+            "en-US": "The reality of sin; the fall of the angels; the first sin; original sin and its consequences",
+            "pt-BR": "A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências"
+          }
+        }
       ]
     },
     {
@@ -155,7 +239,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 79, "end": 84, "label": { "en-US": "Jesus; Christ; Only-Begotten Son of God; Lord", "pt-BR": "Jesus; Cristo; Filho Unigênito de Deus; Senhor" } }
+        {
+          "start": 79,
+          "end": 84,
+          "label": {
+            "en-US": "Jesus; Christ; Only-Begotten Son of God; Lord",
+            "pt-BR": "Jesus; Cristo; Filho Unigênito de Deus; Senhor"
+          }
+        }
       ]
     },
     {
@@ -168,7 +259,14 @@
       },
       "plate": "plate-04-0",
       "compendium": [
-        { "start": 85, "end": 93, "label": { "en-US": "Why God became man; true God and true man; one Person in two natures", "pt-BR": "Por que Deus se fez homem; verdadeiro Deus e verdadeiro homem; uma só Pessoa em duas naturezas" } }
+        {
+          "start": 85,
+          "end": 93,
+          "label": {
+            "en-US": "Why God became man; true God and true man; one Person in two natures",
+            "pt-BR": "Por que Deus se fez homem; verdadeiro Deus e verdadeiro homem; uma só Pessoa em duas naturezas"
+          }
+        }
       ]
     },
     {
@@ -181,7 +279,14 @@
       },
       "plate": "plate-04-1",
       "compendium": [
-        { "start": 94, "end": 100, "label": { "en-US": "Conceived by the Holy Spirit; Mary as Mother of God, Immaculate, ever-Virgin, spiritual Mother", "pt-BR": "Concebido pelo Espírito Santo; Maria, Mãe de Deus, Imaculada, sempre Virgem, Mãe espiritual" } }
+        {
+          "start": 94,
+          "end": 100,
+          "label": {
+            "en-US": "Conceived by the Holy Spirit; Mary as Mother of God, Immaculate, ever-Virgin, spiritual Mother",
+            "pt-BR": "Concebido pelo Espírito Santo; Maria, Mãe de Deus, Imaculada, sempre Virgem, Mãe espiritual"
+          }
+        }
       ]
     },
     {
@@ -194,7 +299,14 @@
       },
       "plate": "plate-04-2",
       "compendium": [
-        { "start": 101, "end": 104, "label": { "en-US": "Christ as Revelation; the birth, infancy, and hidden life", "pt-BR": "Cristo como revelação; o nascimento, a infância e a vida oculta" } }
+        {
+          "start": 101,
+          "end": 104,
+          "label": {
+            "en-US": "Christ as Revelation; the birth, infancy, and hidden life",
+            "pt-BR": "Cristo como revelação; o nascimento, a infância e a vida oculta"
+          }
+        }
       ]
     },
     {
@@ -207,7 +319,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 105, "end": 107, "label": { "en-US": "Christ's baptism, the temptations in the desert, the inauguration of the Kingdom", "pt-BR": "O batismo de Cristo, as tentações no deserto, a inauguração do Reino" } }
+        {
+          "start": 105,
+          "end": 107,
+          "label": {
+            "en-US": "Christ's baptism, the temptations in the desert, the inauguration of the Kingdom",
+            "pt-BR": "O batismo de Cristo, as tentações no deserto, a inauguração do Reino"
+          }
+        }
       ]
     },
     {
@@ -220,7 +339,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 108, "end": 111, "label": { "en-US": "Miracles and signs; the apostles and their authority; the Transfiguration; the messianic entry into Jerusalem", "pt-BR": "Milagres e sinais; os apóstolos e sua autoridade; a Transfiguração; a entrada messiânica em Jerusalém" } }
+        {
+          "start": 108,
+          "end": 111,
+          "label": {
+            "en-US": "Miracles and signs; the apostles and their authority; the Transfiguration; the messianic entry into Jerusalem",
+            "pt-BR": "Milagres e sinais; os apóstolos e sua autoridade; a Transfiguração; a entrada messiânica em Jerusalém"
+          }
+        }
       ]
     },
     {
@@ -233,8 +359,22 @@
       },
       "plate": "plate-05",
       "compendium": [
-        { "start": 112, "end": 119, "label": { "en-US": "The Paschal Mystery; Christ's trial; responsibility for His death; the Father's plan", "pt-BR": "O Mistério Pascal; o processo de Cristo; responsabilidade pela sua morte; o desígnio do Pai" } },
-        { "start": 120, "end": 124, "label": { "en-US": "The Last Supper; Gethsemane; the fruits of Christ's sacrifice; the burial", "pt-BR": "A Última Ceia; o Getsêmani; os frutos do sacrifício de Cristo; o sepultamento" } }
+        {
+          "start": 112,
+          "end": 119,
+          "label": {
+            "en-US": "The Paschal Mystery; Christ's trial; responsibility for His death; the Father's plan",
+            "pt-BR": "O Mistério Pascal; o processo de Cristo; responsabilidade pela sua morte; o desígnio do Pai"
+          }
+        },
+        {
+          "start": 120,
+          "end": 124,
+          "label": {
+            "en-US": "The Last Supper; Gethsemane; the fruits of Christ's sacrifice; the burial",
+            "pt-BR": "A Última Ceia; o Getsêmani; os frutos do sacrifício de Cristo; o sepultamento"
+          }
+        }
       ]
     },
     {
@@ -247,7 +387,14 @@
       },
       "plate": "plate-06",
       "compendium": [
-        { "start": 125, "end": 125, "label": { "en-US": "He descended into hell", "pt-BR": "Desceu aos infernos" } }
+        {
+          "start": 125,
+          "end": 125,
+          "label": {
+            "en-US": "He descended into hell",
+            "pt-BR": "Desceu aos infernos"
+          }
+        }
       ]
     },
     {
@@ -260,7 +407,14 @@
       },
       "plate": "plate-07",
       "compendium": [
-        { "start": 126, "end": 131, "label": { "en-US": "The centrality of the Resurrection; the evidence; the risen body; the Trinity at work; the saving meaning", "pt-BR": "Centralidade da Ressurreição; os testemunhos; o corpo ressuscitado; a Trindade em ação; o sentido salvífico" } }
+        {
+          "start": 126,
+          "end": 131,
+          "label": {
+            "en-US": "The centrality of the Resurrection; the evidence; the risen body; the Trinity at work; the saving meaning",
+            "pt-BR": "Centralidade da Ressurreição; os testemunhos; o corpo ressuscitado; a Trindade em ação; o sentido salvífico"
+          }
+        }
       ]
     },
     {
@@ -273,7 +427,14 @@
       },
       "plate": "plate-08",
       "compendium": [
-        { "start": 132, "end": 132, "label": { "en-US": "Ascended into heaven", "pt-BR": "Subiu aos céus" } }
+        {
+          "start": 132,
+          "end": 132,
+          "label": {
+            "en-US": "Ascended into heaven",
+            "pt-BR": "Subiu aos céus"
+          }
+        }
       ]
     },
     {
@@ -286,7 +447,14 @@
       },
       "plate": "plate-09",
       "compendium": [
-        { "start": 132, "end": 133, "label": { "en-US": "The reign of Christ now; \"He will come again in glory\"", "pt-BR": "O reinado atual de Cristo; \"Há de voltar com glória\"" } }
+        {
+          "start": 132,
+          "end": 133,
+          "label": {
+            "en-US": "The reign of Christ now; \"He will come again in glory\"",
+            "pt-BR": "O reinado atual de Cristo; \"Há de voltar com glória\""
+          }
+        }
       ]
     },
     {
@@ -299,7 +467,14 @@
       },
       "plate": "plate-10",
       "compendium": [
-        { "start": 134, "end": 135, "label": { "en-US": "The judgment of the living and the dead", "pt-BR": "O juízo dos vivos e dos mortos" } }
+        {
+          "start": 134,
+          "end": 135,
+          "label": {
+            "en-US": "The judgment of the living and the dead",
+            "pt-BR": "O juízo dos vivos e dos mortos"
+          }
+        }
       ]
     },
     {
@@ -312,8 +487,22 @@
       },
       "plate": "plate-11",
       "compendium": [
-        { "start": 136, "end": 140, "label": { "en-US": "Confessing the Holy Spirit; His names; His symbols", "pt-BR": "Confessar o Espírito Santo; seus nomes; seus símbolos" } },
-        { "start": 141, "end": 146, "label": { "en-US": "The Spirit in salvation history; Pentecost; the Spirit's mission in the Church", "pt-BR": "O Espírito na história da salvação; Pentecostes; a missão do Espírito na Igreja" } }
+        {
+          "start": 136,
+          "end": 140,
+          "label": {
+            "en-US": "Confessing the Holy Spirit; His names; His symbols",
+            "pt-BR": "Confessar o Espírito Santo; seus nomes; seus símbolos"
+          }
+        },
+        {
+          "start": 141,
+          "end": 146,
+          "label": {
+            "en-US": "The Spirit in salvation history; Pentecost; the Spirit's mission in the Church",
+            "pt-BR": "O Espírito na história da salvação; Pentecostes; a missão do Espírito na Igreja"
+          }
+        }
       ]
     },
     {
@@ -326,8 +515,22 @@
       },
       "plate": "plate-12",
       "compendium": [
-        { "start": 147, "end": 152, "label": { "en-US": "The Church in God's plan; biblical images; sacrament of salvation", "pt-BR": "A Igreja no desígnio de Deus; imagens bíblicas; sacramento da salvação" } },
-        { "start": 153, "end": 160, "label": { "en-US": "People of God, Body of Christ, Temple of the Spirit", "pt-BR": "Povo de Deus, Corpo de Cristo, Templo do Espírito" } }
+        {
+          "start": 147,
+          "end": 152,
+          "label": {
+            "en-US": "The Church in God's plan; biblical images; sacrament of salvation",
+            "pt-BR": "A Igreja no desígnio de Deus; imagens bíblicas; sacramento da salvação"
+          }
+        },
+        {
+          "start": 153,
+          "end": 160,
+          "label": {
+            "en-US": "People of God, Body of Christ, Temple of the Spirit",
+            "pt-BR": "Povo de Deus, Corpo de Cristo, Templo do Espírito"
+          }
+        }
       ]
     },
     {
@@ -340,9 +543,30 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 161, "end": 165, "label": { "en-US": "Oneness, ecumenism, holiness", "pt-BR": "Unidade, ecumenismo, santidade" } },
-        { "start": 166, "end": 172, "label": { "en-US": "Catholicity; particular Churches; the Church and other religions; \"outside the Church no salvation\"", "pt-BR": "Catolicidade; Igrejas particulares; a Igreja e as demais religiões; \"fora da Igreja não há salvação\"" } },
-        { "start": 173, "end": 176, "label": { "en-US": "Apostolicity; the Pope and bishops; infallibility", "pt-BR": "Apostolicidade; o Papa e os bispos; a infalibilidade" } }
+        {
+          "start": 161,
+          "end": 165,
+          "label": {
+            "en-US": "Oneness, ecumenism, holiness",
+            "pt-BR": "Unidade, ecumenismo, santidade"
+          }
+        },
+        {
+          "start": 166,
+          "end": 172,
+          "label": {
+            "en-US": "Catholicity; particular Churches; the Church and other religions; \"outside the Church no salvation\"",
+            "pt-BR": "Catolicidade; Igrejas particulares; a Igreja e as demais religiões; \"fora da Igreja não há salvação\""
+          }
+        },
+        {
+          "start": 173,
+          "end": 176,
+          "label": {
+            "en-US": "Apostolicity; the Pope and bishops; infallibility",
+            "pt-BR": "Apostolicidade; o Papa e os bispos; a infalibilidade"
+          }
+        }
       ]
     },
     {
@@ -355,7 +579,14 @@
       },
       "plate": "plate-13",
       "compendium": [
-        { "start": 177, "end": 179, "label": { "en-US": "The communion of the faithful, of holy things, of the saints in heaven", "pt-BR": "A comunhão dos fiéis, das coisas santas, dos santos do céu" } }
+        {
+          "start": 177,
+          "end": 179,
+          "label": {
+            "en-US": "The communion of the faithful, of holy things, of the saints in heaven",
+            "pt-BR": "A comunhão dos fiéis, das coisas santas, dos santos do céu"
+          }
+        }
       ]
     },
     {
@@ -368,7 +599,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 180, "end": 181, "label": { "en-US": "Mary's role; the Assumption; eschatological icon of the Church", "pt-BR": "O papel de Maria; a Assunção; ícone escatológico da Igreja" } }
+        {
+          "start": 180,
+          "end": 181,
+          "label": {
+            "en-US": "Mary's role; the Assumption; eschatological icon of the Church",
+            "pt-BR": "O papel de Maria; a Assunção; ícone escatológico da Igreja"
+          }
+        }
       ]
     },
     {
@@ -381,7 +619,14 @@
       },
       "plate": "plate-14",
       "compendium": [
-        { "start": 200, "end": 201, "label": { "en-US": "Forgiveness through the sacraments of Baptism and Penance", "pt-BR": "A remissão pelos sacramentos do Batismo e da Penitência" } }
+        {
+          "start": 200,
+          "end": 201,
+          "label": {
+            "en-US": "Forgiveness through the sacraments of Baptism and Penance",
+            "pt-BR": "A remissão pelos sacramentos do Batismo e da Penitência"
+          }
+        }
       ]
     },
     {
@@ -394,7 +639,14 @@
       },
       "plate": "plate-15",
       "compendium": [
-        { "start": 202, "end": 205, "label": { "en-US": "The bodily resurrection of the dead", "pt-BR": "A ressurreição corpórea dos mortos" } }
+        {
+          "start": 202,
+          "end": 205,
+          "label": {
+            "en-US": "The bodily resurrection of the dead",
+            "pt-BR": "A ressurreição corpórea dos mortos"
+          }
+        }
       ]
     },
     {
@@ -407,7 +659,14 @@
       },
       "plate": "plate-16",
       "compendium": [
-        { "start": 207, "end": 209, "label": { "en-US": "The particular judgment; heaven and the Beatific Vision", "pt-BR": "O juízo particular; o céu e a visão beatífica" } }
+        {
+          "start": 207,
+          "end": 209,
+          "label": {
+            "en-US": "The particular judgment; heaven and the Beatific Vision",
+            "pt-BR": "O juízo particular; o céu e a visão beatífica"
+          }
+        }
       ]
     },
     {
@@ -420,8 +679,22 @@
       },
       "plate": "plate-17",
       "compendium": [
-        { "start": 210, "end": 213, "label": { "en-US": "Purgatory; hell; the final purification", "pt-BR": "Purgatório; inferno; a purificação final" } },
-        { "start": 214, "end": 217, "label": { "en-US": "The final judgment; the renewal of all things; \"Amen\"", "pt-BR": "O juízo final; a renovação de todas as coisas; o \"Amém\"" } }
+        {
+          "start": 210,
+          "end": 213,
+          "label": {
+            "en-US": "Purgatory; hell; the final purification",
+            "pt-BR": "Purgatório; inferno; a purificação final"
+          }
+        },
+        {
+          "start": 214,
+          "end": 217,
+          "label": {
+            "en-US": "The final judgment; the renewal of all things; \"Amen\"",
+            "pt-BR": "O juízo final; a renovação de todas as coisas; o \"Amém\""
+          }
+        }
       ]
     },
     {
@@ -434,8 +707,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 218, "end": 223, "label": { "en-US": "The Paschal Mystery in the age of the Church; the liturgy as work of the Trinity", "pt-BR": "O Mistério Pascal no tempo da Igreja; a liturgia como obra da Trindade" } },
-        { "start": 224, "end": 232, "label": { "en-US": "The Father, Christ, and the Spirit in the liturgy; the seven sacraments", "pt-BR": "O Pai, Cristo e o Espírito na liturgia; os sete sacramentos" } }
+        {
+          "start": 218,
+          "end": 223,
+          "label": {
+            "en-US": "The Paschal Mystery in the age of the Church; the liturgy as work of the Trinity",
+            "pt-BR": "O Mistério Pascal no tempo da Igreja; a liturgia como obra da Trindade"
+          }
+        },
+        {
+          "start": 224,
+          "end": 232,
+          "label": {
+            "en-US": "The Father, Christ, and the Spirit in the liturgy; the seven sacraments",
+            "pt-BR": "O Pai, Cristo e o Espírito na liturgia; os sete sacramentos"
+          }
+        }
       ]
     },
     {
@@ -448,8 +735,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 233, "end": 240, "label": { "en-US": "Who celebrates? Signs, words, music, images", "pt-BR": "Quem celebra? Sinais, palavras, música, imagens" } },
-        { "start": 241, "end": 249, "label": { "en-US": "When and where the liturgy is celebrated; the liturgical year; the Lord's Day", "pt-BR": "Quando e onde a liturgia é celebrada; o ano litúrgico; o Dia do Senhor" } }
+        {
+          "start": 233,
+          "end": 240,
+          "label": {
+            "en-US": "Who celebrates? Signs, words, music, images",
+            "pt-BR": "Quem celebra? Sinais, palavras, música, imagens"
+          }
+        },
+        {
+          "start": 241,
+          "end": 249,
+          "label": {
+            "en-US": "When and where the liturgy is celebrated; the liturgical year; the Lord's Day",
+            "pt-BR": "Quando e onde a liturgia é celebrada; o ano litúrgico; o Dia do Senhor"
+          }
+        }
       ]
     },
     {
@@ -462,7 +763,14 @@
       },
       "plate": "plate-18",
       "compendium": [
-        { "start": 422, "end": 428, "label": { "en-US": "Justification, grace, merit, the call to holiness", "pt-BR": "A justificação, a graça, o mérito, o chamado à santidade" } }
+        {
+          "start": 422,
+          "end": 428,
+          "label": {
+            "en-US": "Justification, grace, merit, the call to holiness",
+            "pt-BR": "A justificação, a graça, o mérito, o chamado à santidade"
+          }
+        }
       ]
     },
     {
@@ -475,8 +783,22 @@
       },
       "plate": "plate-19",
       "compendium": [
-        { "start": 250, "end": 256, "label": { "en-US": "Names, signs, prefigurations, institution by Christ, the rite", "pt-BR": "Nomes, sinais, prefigurações, instituição por Cristo, o rito" } },
-        { "start": 257, "end": 264, "label": { "en-US": "Who can baptize; necessity; effects; infant baptism; the unbaptized", "pt-BR": "Quem pode batizar; necessidade; efeitos; batismo das crianças; os não batizados" } }
+        {
+          "start": 250,
+          "end": 256,
+          "label": {
+            "en-US": "Names, signs, prefigurations, institution by Christ, the rite",
+            "pt-BR": "Nomes, sinais, prefigurações, instituição por Cristo, o rito"
+          }
+        },
+        {
+          "start": 257,
+          "end": 264,
+          "label": {
+            "en-US": "Who can baptize; necessity; effects; infant baptism; the unbaptized",
+            "pt-BR": "Quem pode batizar; necessidade; efeitos; batismo das crianças; os não batizados"
+          }
+        }
       ]
     },
     {
@@ -489,7 +811,14 @@
       },
       "plate": "plate-21",
       "compendium": [
-        { "start": 265, "end": 270, "label": { "en-US": "Institution, signs, effects, minister, recipient", "pt-BR": "Instituição, sinais, efeitos, ministro, receptor" } }
+        {
+          "start": 265,
+          "end": 270,
+          "label": {
+            "en-US": "Institution, signs, effects, minister, recipient",
+            "pt-BR": "Instituição, sinais, efeitos, ministro, receptor"
+          }
+        }
       ]
     },
     {
@@ -502,8 +831,22 @@
       },
       "plate": "plate-20",
       "compendium": [
-        { "start": 271, "end": 275, "label": { "en-US": "What the Eucharist is; the names; the prefigurations; the institution", "pt-BR": "O que é a Eucaristia; os nomes; as prefigurações; a instituição" } },
-        { "start": 276, "end": 282, "label": { "en-US": "The sacrifice; the Real Presence; transubstantiation", "pt-BR": "O sacrifício; a Presença Real; a transubstanciação" } }
+        {
+          "start": 271,
+          "end": 275,
+          "label": {
+            "en-US": "What the Eucharist is; the names; the prefigurations; the institution",
+            "pt-BR": "O que é a Eucaristia; os nomes; as prefigurações; a instituição"
+          }
+        },
+        {
+          "start": 276,
+          "end": 282,
+          "label": {
+            "en-US": "The sacrifice; the Real Presence; transubstantiation",
+            "pt-BR": "O sacrifício; a Presença Real; a transubstanciação"
+          }
+        }
       ]
     },
     {
@@ -516,8 +859,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 283, "end": 289, "label": { "en-US": "The structure of the Mass; the minister; necessary disposition", "pt-BR": "A estrutura da Missa; o ministro; a disposição necessária" } },
-        { "start": 290, "end": 294, "label": { "en-US": "Frequency, fruits, when one may not communicate; viaticum and the day-of-resurrection link", "pt-BR": "Frequência, frutos, quando não se pode comungar; o viático e a Páscoa eterna" } }
+        {
+          "start": 283,
+          "end": 289,
+          "label": {
+            "en-US": "The structure of the Mass; the minister; necessary disposition",
+            "pt-BR": "A estrutura da Missa; o ministro; a disposição necessária"
+          }
+        },
+        {
+          "start": 290,
+          "end": 294,
+          "label": {
+            "en-US": "Frequency, fruits, when one may not communicate; viaticum and the day-of-resurrection link",
+            "pt-BR": "Frequência, frutos, quando não se pode comungar; o viático e a Páscoa eterna"
+          }
+        }
       ]
     },
     {
@@ -530,8 +887,22 @@
       },
       "plate": "plate-22",
       "compendium": [
-        { "start": 295, "end": 302, "label": { "en-US": "Names; institution by Christ; conversion of the baptized; the acts of the penitent", "pt-BR": "Nomes; instituição por Cristo; conversão do batizado; os atos do penitente" } },
-        { "start": 303, "end": 312, "label": { "en-US": "Confession of sins; satisfaction; minister; effects; indulgences", "pt-BR": "Confissão dos pecados; satisfação; ministro; efeitos; indulgências" } }
+        {
+          "start": 295,
+          "end": 302,
+          "label": {
+            "en-US": "Names; institution by Christ; conversion of the baptized; the acts of the penitent",
+            "pt-BR": "Nomes; instituição por Cristo; conversão do batizado; os atos do penitente"
+          }
+        },
+        {
+          "start": 303,
+          "end": 312,
+          "label": {
+            "en-US": "Confession of sins; satisfaction; minister; effects; indulgences",
+            "pt-BR": "Confissão dos pecados; satisfação; ministro; efeitos; indulgências"
+          }
+        }
       ]
     },
     {
@@ -544,7 +915,14 @@
       },
       "plate": "plate-23",
       "compendium": [
-        { "start": 313, "end": 320, "label": { "en-US": "The sacrament of healing; minister; recipient; effects; viaticum", "pt-BR": "O sacramento da cura; ministro; receptor; efeitos; viático" } }
+        {
+          "start": 313,
+          "end": 320,
+          "label": {
+            "en-US": "The sacrament of healing; minister; recipient; effects; viaticum",
+            "pt-BR": "O sacramento da cura; ministro; receptor; efeitos; viático"
+          }
+        }
       ]
     },
     {
@@ -557,8 +935,22 @@
       },
       "plate": "plate-24",
       "compendium": [
-        { "start": 321, "end": 329, "label": { "en-US": "Apostolic succession; the three degrees of orders; bishop; priest; deacon", "pt-BR": "A sucessão apostólica; os três graus da Ordem; bispo; sacerdote; diácono" } },
-        { "start": 330, "end": 336, "label": { "en-US": "Effects; minister; recipient; celibacy", "pt-BR": "Efeitos; ministro; receptor; celibato" } }
+        {
+          "start": 321,
+          "end": 329,
+          "label": {
+            "en-US": "Apostolic succession; the three degrees of orders; bishop; priest; deacon",
+            "pt-BR": "A sucessão apostólica; os três graus da Ordem; bispo; sacerdote; diácono"
+          }
+        },
+        {
+          "start": 330,
+          "end": 336,
+          "label": {
+            "en-US": "Effects; minister; recipient; celibacy",
+            "pt-BR": "Efeitos; ministro; receptor; celibato"
+          }
+        }
       ]
     },
     {
@@ -571,8 +963,22 @@
       },
       "plate": "plate-25",
       "compendium": [
-        { "start": 337, "end": 344, "label": { "en-US": "Marriage in the order of creation and the new covenant; the rite; impediments", "pt-BR": "O matrimônio na ordem da criação e na nova aliança; o rito; impedimentos" } },
-        { "start": 345, "end": 350, "label": { "en-US": "Effects; love and fruitfulness; mixed marriage; divorce; the domestic Church", "pt-BR": "Efeitos; amor e fecundidade; matrimônio misto; divórcio; a Igreja doméstica" } }
+        {
+          "start": 337,
+          "end": 344,
+          "label": {
+            "en-US": "Marriage in the order of creation and the new covenant; the rite; impediments",
+            "pt-BR": "O matrimônio na ordem da criação e na nova aliança; o rito; impedimentos"
+          }
+        },
+        {
+          "start": 345,
+          "end": 350,
+          "label": {
+            "en-US": "Effects; love and fruitfulness; mixed marriage; divorce; the domestic Church",
+            "pt-BR": "Efeitos; amor e fecundidade; matrimônio misto; divórcio; a Igreja doméstica"
+          }
+        }
       ]
     },
     {
@@ -585,8 +991,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 351, "end": 353, "label": { "en-US": "Sacramentals and forms of popular piety", "pt-BR": "Sacramentais e formas de piedade popular" } },
-        { "start": 354, "end": 356, "label": { "en-US": "Christian funerals", "pt-BR": "As exéquias cristãs" } }
+        {
+          "start": 351,
+          "end": 353,
+          "label": {
+            "en-US": "Sacramentals and forms of popular piety",
+            "pt-BR": "Sacramentais e formas de piedade popular"
+          }
+        },
+        {
+          "start": 354,
+          "end": 356,
+          "label": {
+            "en-US": "Christian funerals",
+            "pt-BR": "As exéquias cristãs"
+          }
+        }
       ]
     },
     {
@@ -599,7 +1019,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 358, "end": 362, "label": { "en-US": "Image of God; vocation to beatitude; the Beatitudes", "pt-BR": "Imagem de Deus; vocação à bem-aventurança; as Bem-aventuranças" } }
+        {
+          "start": 358,
+          "end": 362,
+          "label": {
+            "en-US": "Image of God; vocation to beatitude; the Beatitudes",
+            "pt-BR": "Imagem de Deus; vocação à bem-aventurança; as Bem-aventuranças"
+          }
+        }
       ]
     },
     {
@@ -612,8 +1039,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 363, "end": 366, "label": { "en-US": "Human freedom; responsibility; salvation as freedom restored", "pt-BR": "A liberdade humana; a responsabilidade; a salvação como liberdade restaurada" } },
-        { "start": 367, "end": 371, "label": { "en-US": "The morality of the passions", "pt-BR": "A moralidade das paixões" } }
+        {
+          "start": 363,
+          "end": 366,
+          "label": {
+            "en-US": "Human freedom; responsibility; salvation as freedom restored",
+            "pt-BR": "A liberdade humana; a responsabilidade; a salvação como liberdade restaurada"
+          }
+        },
+        {
+          "start": 367,
+          "end": 371,
+          "label": {
+            "en-US": "The morality of the passions",
+            "pt-BR": "A moralidade das paixões"
+          }
+        }
       ]
     },
     {
@@ -626,8 +1067,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 372, "end": 376, "label": { "en-US": "The moral conscience; its formation; erroneous judgment", "pt-BR": "A consciência moral; sua formação; o juízo errôneo" } },
-        { "start": 377, "end": 378, "label": { "en-US": "Object, intention, circumstances of moral acts", "pt-BR": "Objeto, intenção, circunstâncias dos atos morais" } }
+        {
+          "start": 372,
+          "end": 376,
+          "label": {
+            "en-US": "The moral conscience; its formation; erroneous judgment",
+            "pt-BR": "A consciência moral; sua formação; o juízo errôneo"
+          }
+        },
+        {
+          "start": 377,
+          "end": 378,
+          "label": {
+            "en-US": "Object, intention, circumstances of moral acts",
+            "pt-BR": "Objeto, intenção, circunstâncias dos atos morais"
+          }
+        }
       ]
     },
     {
@@ -640,8 +1095,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 377, "end": 383, "label": { "en-US": "Human virtues; the four cardinal virtues", "pt-BR": "Virtudes humanas; as quatro virtudes cardeais" } },
-        { "start": 384, "end": 390, "label": { "en-US": "Theological virtues; gifts and fruits of the Spirit", "pt-BR": "Virtudes teologais; dons e frutos do Espírito" } }
+        {
+          "start": 377,
+          "end": 383,
+          "label": {
+            "en-US": "Human virtues; the four cardinal virtues",
+            "pt-BR": "Virtudes humanas; as quatro virtudes cardeais"
+          }
+        },
+        {
+          "start": 384,
+          "end": 390,
+          "label": {
+            "en-US": "Theological virtues; gifts and fruits of the Spirit",
+            "pt-BR": "Virtudes teologais; dons e frutos do Espírito"
+          }
+        }
       ]
     },
     {
@@ -654,7 +1123,14 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 391, "end": 400, "label": { "en-US": "Mortal and venial sin; the capital vices; complicity; structures of sin", "pt-BR": "Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado" } }
+        {
+          "start": 391,
+          "end": 400,
+          "label": {
+            "en-US": "Mortal and venial sin; the capital vices; complicity; structures of sin",
+            "pt-BR": "Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado"
+          }
+        }
       ]
     },
     {
@@ -667,8 +1143,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 401, "end": 407, "label": { "en-US": "The person and society; the family; the common good; subsidiarity", "pt-BR": "Pessoa e sociedade; a família; o bem comum; a subsidiariedade" } },
-        { "start": 408, "end": 414, "label": { "en-US": "Participation in social life; social justice; equality and solidarity", "pt-BR": "Participação na vida social; justiça social; igualdade e solidariedade" } }
+        {
+          "start": 401,
+          "end": 407,
+          "label": {
+            "en-US": "The person and society; the family; the common good; subsidiarity",
+            "pt-BR": "Pessoa e sociedade; a família; o bem comum; a subsidiariedade"
+          }
+        },
+        {
+          "start": 408,
+          "end": 414,
+          "label": {
+            "en-US": "Participation in social life; social justice; equality and solidarity",
+            "pt-BR": "Participação na vida social; justiça social; igualdade e solidariedade"
+          }
+        }
       ]
     },
     {
@@ -681,8 +1171,22 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 415, "end": 421, "label": { "en-US": "Natural law; the Old Law; the New Law of the Gospel", "pt-BR": "A lei natural; a Lei antiga; a Lei nova do Evangelho" } },
-        { "start": 429, "end": 433, "label": { "en-US": "The Church as mother and teacher; the precepts of the Church", "pt-BR": "A Igreja Mãe e Mestra; os preceitos da Igreja" } }
+        {
+          "start": 415,
+          "end": 421,
+          "label": {
+            "en-US": "Natural law; the Old Law; the New Law of the Gospel",
+            "pt-BR": "A lei natural; a Lei antiga; a Lei nova do Evangelho"
+          }
+        },
+        {
+          "start": 429,
+          "end": 433,
+          "label": {
+            "en-US": "The Church as mother and teacher; the precepts of the Church",
+            "pt-BR": "A Igreja Mãe e Mestra; os preceitos da Igreja"
+          }
+        }
       ]
     },
     {
@@ -695,7 +1199,14 @@
       },
       "plate": "plate-26",
       "compendium": [
-        { "start": 434, "end": 441, "label": { "en-US": "The Ten Commandments — origin, unity, obligation", "pt-BR": "Os Dez Mandamentos — origem, unidade, obrigatoriedade" } }
+        {
+          "start": 434,
+          "end": 441,
+          "label": {
+            "en-US": "The Ten Commandments — origin, unity, obligation",
+            "pt-BR": "Os Dez Mandamentos — origem, unidade, obrigatoriedade"
+          }
+        }
       ]
     },
     {
@@ -708,7 +1219,14 @@
       },
       "plate": "plate-27",
       "compendium": [
-        { "start": 442, "end": 446, "label": { "en-US": "I am the Lord your God; theological virtues; religious worship", "pt-BR": "Eu sou o Senhor teu Deus; virtudes teologais; culto religioso" } }
+        {
+          "start": 442,
+          "end": 446,
+          "label": {
+            "en-US": "I am the Lord your God; theological virtues; religious worship",
+            "pt-BR": "Eu sou o Senhor teu Deus; virtudes teologais; culto religioso"
+          }
+        }
       ]
     },
     {
@@ -721,7 +1239,14 @@
       },
       "plate": "plate-28",
       "compendium": [
-        { "start": 447, "end": 449, "label": { "en-US": "Veneration of relics, saints, images; sins against the first commandment", "pt-BR": "Veneração de relíquias, santos, imagens; pecados contra o primeiro mandamento" } }
+        {
+          "start": 447,
+          "end": 449,
+          "label": {
+            "en-US": "Veneration of relics, saints, images; sins against the first commandment",
+            "pt-BR": "Veneração de relíquias, santos, imagens; pecados contra o primeiro mandamento"
+          }
+        }
       ]
     },
     {
@@ -729,12 +1254,19 @@
       "order": 55,
       "phase": "commandments",
       "title": {
-        "en-US": "Second Commandment — The Name of God",
-        "pt-BR": "2º Mandamento — O nome de Deus"
+        "en-US": "Second Commandment — Reverence for the Name",
+        "pt-BR": "2º Mandamento — Reverência ao Nome"
       },
-      "plates": ["plate-29", "plate-30"],
+      "plate": "plate-29",
       "compendium": [
-        { "start": 450, "end": 452, "label": { "en-US": "Reverence for the Name of God; blasphemy", "pt-BR": "Reverência ao nome de Deus; blasfêmia" } }
+        {
+          "start": 450,
+          "end": 451,
+          "label": {
+            "en-US": "Reverence for the Name; blasphemy",
+            "pt-BR": "Reverência ao Nome; blasfêmia"
+          }
+        }
       ]
     },
     {
@@ -742,12 +1274,19 @@
       "order": 56,
       "phase": "commandments",
       "title": {
-        "en-US": "Second Commandment — Oaths, Perjury, Vows",
-        "pt-BR": "2º Mandamento — Juramentos, perjúrio, votos"
+        "en-US": "Second Commandment — Oaths and Vows",
+        "pt-BR": "2º Mandamento — Juramentos e votos"
       },
-      "plate": "plate-31",
+      "plate": "plate-30",
       "compendium": [
-        { "start": 453, "end": 454, "label": { "en-US": "Oaths and perjury", "pt-BR": "Juramentos e perjúrio" } }
+        {
+          "start": 452,
+          "end": 452,
+          "label": {
+            "en-US": "Oaths and the use of God's name",
+            "pt-BR": "Juramentos e uso do nome de Deus"
+          }
+        }
       ]
     },
     {
@@ -755,12 +1294,19 @@
       "order": 57,
       "phase": "commandments",
       "title": {
-        "en-US": "Third Commandment — The Lord's Day",
-        "pt-BR": "3º Mandamento — O dia do Senhor"
+        "en-US": "Second Commandment — Oaths, Perjury, Vows",
+        "pt-BR": "2º Mandamento — Juramentos, perjúrio, votos"
       },
-      "plates": ["plate-32", "plate-33"],
+      "plate": "plate-31",
       "compendium": [
-        { "start": 450, "end": 454, "label": { "en-US": "The Sabbath and the Lord's Day; Sunday Mass; rest and acts of mercy", "pt-BR": "O sábado e o dia do Senhor; missa dominical; descanso e obras de misericórdia" } }
+        {
+          "start": 453,
+          "end": 454,
+          "label": {
+            "en-US": "Oaths and perjury",
+            "pt-BR": "Juramentos e perjúrio"
+          }
+        }
       ]
     },
     {
@@ -768,12 +1314,19 @@
       "order": 58,
       "phase": "commandments",
       "title": {
-        "en-US": "Fourth Commandment — Honor of Parents",
-        "pt-BR": "4º Mandamento — A honra aos pais"
+        "en-US": "Third Commandment — The Lord's Day",
+        "pt-BR": "3º Mandamento — O dia do Senhor"
       },
-      "plates": ["plate-34", "plate-35"],
+      "plate": "plate-32",
       "compendium": [
-        { "start": 455, "end": 462, "label": { "en-US": "The family in God's plan; duties of children and parents", "pt-BR": "A família no plano de Deus; deveres dos filhos e dos pais" } }
+        {
+          "start": 450,
+          "end": 452,
+          "label": {
+            "en-US": "The Sabbath and the Lord's Day",
+            "pt-BR": "O sábado e o dia do Senhor"
+          }
+        }
       ]
     },
     {
@@ -781,12 +1334,19 @@
       "order": 59,
       "phase": "commandments",
       "title": {
-        "en-US": "Fourth Commandment — Civil Authority and the Common Good",
-        "pt-BR": "4º Mandamento — Autoridade civil e bem comum"
+        "en-US": "Third Commandment — Sunday Observance",
+        "pt-BR": "3º Mandamento — A observância dominical"
       },
-      "plates": ["plate-36", "plate-37"],
+      "plate": "plate-33",
       "compendium": [
-        { "start": 463, "end": 465, "label": { "en-US": "Civil authorities; the citizen's duties and rights", "pt-BR": "As autoridades civis; deveres e direitos do cidadão" } }
+        {
+          "start": 453,
+          "end": 454,
+          "label": {
+            "en-US": "Sunday Mass; rest and acts of mercy",
+            "pt-BR": "Missa dominical; descanso e obras de misericórdia"
+          }
+        }
       ]
     },
     {
@@ -794,13 +1354,19 @@
       "order": 60,
       "phase": "commandments",
       "title": {
-        "en-US": "Fifth Commandment — The Sanctity of Life",
-        "pt-BR": "5º Mandamento — A santidade da vida"
+        "en-US": "Fourth Commandment — Honor of Parents",
+        "pt-BR": "4º Mandamento — Honra aos pais"
       },
-      "plates": ["plate-38", "plate-39"],
+      "plate": "plate-34",
       "compendium": [
-        { "start": 466, "end": 472, "label": { "en-US": "Respect for life; murder; abortion; euthanasia; suicide", "pt-BR": "Respeito à vida; homicídio; aborto; eutanásia; suicídio" } },
-        { "start": 473, "end": 478, "label": { "en-US": "Respect for the dignity of persons; scandal; bodily and spiritual health", "pt-BR": "Respeito à dignidade das pessoas; escândalo; saúde corporal e espiritual" } }
+        {
+          "start": 455,
+          "end": 458,
+          "label": {
+            "en-US": "The family in God's plan; duties of children",
+            "pt-BR": "A família no plano de Deus; deveres dos filhos"
+          }
+        }
       ]
     },
     {
@@ -808,12 +1374,19 @@
       "order": 61,
       "phase": "commandments",
       "title": {
-        "en-US": "Fifth Commandment — Peace, Just War, Self-Defense",
-        "pt-BR": "5º Mandamento — Paz, guerra justa, legítima defesa"
+        "en-US": "Fourth Commandment — Duties of Children and Parents",
+        "pt-BR": "4º Mandamento — Deveres de filhos e pais"
       },
-      "plate": "plate-40",
+      "plate": "plate-35",
       "compendium": [
-        { "start": 479, "end": 486, "label": { "en-US": "Peace and just war; legitimate defense; the death penalty", "pt-BR": "Paz e guerra justa; legítima defesa; pena de morte" } }
+        {
+          "start": 459,
+          "end": 462,
+          "label": {
+            "en-US": "Duties of parents; the Christian family",
+            "pt-BR": "Deveres dos pais; a família cristã"
+          }
+        }
       ]
     },
     {
@@ -821,14 +1394,19 @@
       "order": 62,
       "phase": "commandments",
       "title": {
-        "en-US": "Sixth and Ninth Commandments — Chastity",
-        "pt-BR": "6º e 9º Mandamentos — Castidade"
+        "en-US": "Fourth Commandment — Civil Authority",
+        "pt-BR": "4º Mandamento — Autoridade civil"
       },
-      "plate": "plate-41",
+      "plate": "plate-36",
       "compendium": [
-        { "start": 487, "end": 494, "label": { "en-US": "Chastity, modesty, the meaning of sexuality", "pt-BR": "Castidade, pudor, sentido da sexualidade" } },
-        { "start": 495, "end": 502, "label": { "en-US": "Conjugal love; offenses against chastity; offenses against the dignity of marriage", "pt-BR": "Amor conjugal; ofensas contra a castidade; ofensas contra a dignidade do matrimônio" } },
-        { "start": 528, "end": 530, "label": { "en-US": "Ninth commandment — purity of heart", "pt-BR": "Nono mandamento — pureza do coração" } }
+        {
+          "start": 463,
+          "end": 464,
+          "label": {
+            "en-US": "Civil authority and the duties of citizens",
+            "pt-BR": "Autoridade civil e deveres dos cidadãos"
+          }
+        }
       ]
     },
     {
@@ -836,12 +1414,19 @@
       "order": 63,
       "phase": "commandments",
       "title": {
-        "en-US": "Seventh Commandment — Property and Justice",
-        "pt-BR": "7º Mandamento — Propriedade e justiça"
+        "en-US": "Fourth Commandment — Pastoral and Domestic Authority",
+        "pt-BR": "4º Mandamento — Autoridade pastoral e doméstica"
       },
-      "plate": "plate-42",
+      "plate": "plate-37",
       "compendium": [
-        { "start": 503, "end": 510, "label": { "en-US": "Universal destination and private property; theft and restitution; commutative justice", "pt-BR": "Destinação universal e propriedade privada; furto e restituição; justiça comutativa" } }
+        {
+          "start": 465,
+          "end": 465,
+          "label": {
+            "en-US": "Limits of obedience to civil authority",
+            "pt-BR": "Limites da obediência à autoridade civil"
+          }
+        }
       ]
     },
     {
@@ -849,12 +1434,19 @@
       "order": 64,
       "phase": "commandments",
       "title": {
-        "en-US": "Seventh Commandment — Work, the Economy, the Poor",
-        "pt-BR": "7º Mandamento — Trabalho, economia, os pobres"
+        "en-US": "Fifth Commandment — Murder and Suicide",
+        "pt-BR": "5º Mandamento — Homicídio e suicídio"
       },
-      "plate": "plate-43",
+      "plate": "plate-38",
       "compendium": [
-        { "start": 511, "end": 520, "label": { "en-US": "Work; the economic order; the just wage; international justice; the love of the poor", "pt-BR": "O trabalho; a ordem econômica; o salário justo; justiça internacional; o amor pelos pobres" } }
+        {
+          "start": 466,
+          "end": 470,
+          "label": {
+            "en-US": "Respect for human life; murder, abortion, euthanasia, suicide",
+            "pt-BR": "Respeito à vida humana; homicídio, aborto, eutanásia, suicídio"
+          }
+        }
       ]
     },
     {
@@ -862,12 +1454,19 @@
       "order": 65,
       "phase": "commandments",
       "title": {
-        "en-US": "Eighth Commandment — Truth and Witness",
-        "pt-BR": "8º Mandamento — Verdade e testemunho"
+        "en-US": "Fifth Commandment — Scandal and the Spiritual Wound",
+        "pt-BR": "5º Mandamento — Escândalo e a ferida espiritual"
       },
-      "plates": ["plate-44", "plate-45"],
+      "plate": "plate-39",
       "compendium": [
-        { "start": 521, "end": 523, "label": { "en-US": "Truth and witness; the martyr; offenses against truth", "pt-BR": "Verdade e testemunho; o mártir; pecados contra a verdade" } }
+        {
+          "start": 471,
+          "end": 478,
+          "label": {
+            "en-US": "Bodily and spiritual health; scandal",
+            "pt-BR": "Saúde corporal e espiritual; escândalo"
+          }
+        }
       ]
     },
     {
@@ -875,12 +1474,19 @@
       "order": 66,
       "phase": "commandments",
       "title": {
-        "en-US": "Eighth Commandment — Detraction, Calumny, Mass Media",
-        "pt-BR": "8º Mandamento — Detração, calúnia, meios de comunicação"
+        "en-US": "Fifth Commandment — Peace, Just War, Self-Defense",
+        "pt-BR": "5º Mandamento — Paz, guerra justa, legítima defesa"
       },
-      "plate": "plate-46",
+      "plate": "plate-40",
       "compendium": [
-        { "start": 524, "end": 525, "label": { "en-US": "Reputation; the seal of confession; truth and the media", "pt-BR": "Reputação; sigilo sacramental; verdade e meios de comunicação" } }
+        {
+          "start": 479,
+          "end": 486,
+          "label": {
+            "en-US": "Peace and just war; legitimate defense; the death penalty",
+            "pt-BR": "Paz e guerra justa; legítima defesa; pena de morte"
+          }
+        }
       ]
     },
     {
@@ -888,12 +1494,35 @@
       "order": 67,
       "phase": "commandments",
       "title": {
-        "en-US": "Sacred Art and the Truth of Beauty",
-        "pt-BR": "Arte sagrada e a verdade da beleza"
+        "en-US": "Sixth and Ninth Commandments — Chastity",
+        "pt-BR": "6º e 9º Mandamentos — Castidade"
       },
-      "plate": "plate-47",
+      "plate": "plate-41",
       "compendium": [
-        { "start": 526, "end": 527, "label": { "en-US": "Truth, beauty, sacred art", "pt-BR": "Verdade, beleza, arte sagrada" } }
+        {
+          "start": 487,
+          "end": 494,
+          "label": {
+            "en-US": "Chastity, modesty, the meaning of sexuality",
+            "pt-BR": "Castidade, pudor, sentido da sexualidade"
+          }
+        },
+        {
+          "start": 495,
+          "end": 502,
+          "label": {
+            "en-US": "Conjugal love; offenses against chastity; offenses against the dignity of marriage",
+            "pt-BR": "Amor conjugal; ofensas contra a castidade; ofensas contra a dignidade do matrimônio"
+          }
+        },
+        {
+          "start": 528,
+          "end": 530,
+          "label": {
+            "en-US": "Ninth commandment — purity of heart",
+            "pt-BR": "Nono mandamento — pureza do coração"
+          }
+        }
       ]
     },
     {
@@ -901,12 +1530,19 @@
       "order": 68,
       "phase": "commandments",
       "title": {
-        "en-US": "Tenth Commandment — Detachment from Goods",
-        "pt-BR": "10º Mandamento — Desprendimento dos bens"
+        "en-US": "Seventh Commandment — Property and Justice",
+        "pt-BR": "7º Mandamento — Propriedade e justiça"
       },
-      "plate": "plate-48",
+      "plate": "plate-42",
       "compendium": [
-        { "start": 531, "end": 533, "label": { "en-US": "Coveting; detachment; \"desire for happiness\"", "pt-BR": "A cobiça; o desprendimento; o \"desejo da felicidade\"" } }
+        {
+          "start": 503,
+          "end": 510,
+          "label": {
+            "en-US": "Universal destination and private property; theft and restitution; commutative justice",
+            "pt-BR": "Destinação universal e propriedade privada; furto e restituição; justiça comutativa"
+          }
+        }
       ]
     },
     {
@@ -914,17 +1550,184 @@
       "order": 69,
       "phase": "commandments",
       "title": {
-        "en-US": "The Precepts of the Church",
-        "pt-BR": "Os preceitos da Igreja"
+        "en-US": "Seventh Commandment — Work, the Economy, the Poor",
+        "pt-BR": "7º Mandamento — Trabalho, economia, os pobres"
       },
-      "plates": ["plate-49", "plate-50", "plate-51"],
+      "plate": "plate-43",
       "compendium": [
-        { "start": 432, "end": 432, "label": { "en-US": "The five precepts of the Church", "pt-BR": "Os cinco preceitos da Igreja" } }
+        {
+          "start": 511,
+          "end": 520,
+          "label": {
+            "en-US": "Work; the economic order; the just wage; international justice; the love of the poor",
+            "pt-BR": "O trabalho; a ordem econômica; o salário justo; justiça internacional; o amor pelos pobres"
+          }
+        }
       ]
     },
     {
       "id": "day-70",
       "order": 70,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Truth and False Witness",
+        "pt-BR": "8º Mandamento — Verdade e falso testemunho"
+      },
+      "plate": "plate-44",
+      "compendium": [
+        {
+          "start": 521,
+          "end": 522,
+          "label": {
+            "en-US": "Truth, witness, martyrdom",
+            "pt-BR": "Verdade, testemunho, martírio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-71",
+      "order": 71,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Lying",
+        "pt-BR": "8º Mandamento — A mentira"
+      },
+      "plate": "plate-45",
+      "compendium": [
+        {
+          "start": 523,
+          "end": 523,
+          "label": {
+            "en-US": "Offenses against truth",
+            "pt-BR": "Pecados contra a verdade"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-72",
+      "order": 72,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Eighth Commandment — Detraction, Calumny, Mass Media",
+        "pt-BR": "8º Mandamento — Detração, calúnia, meios de comunicação"
+      },
+      "plate": "plate-46",
+      "compendium": [
+        {
+          "start": 524,
+          "end": 525,
+          "label": {
+            "en-US": "Reputation; the seal of confession; truth and the media",
+            "pt-BR": "Reputação; sigilo sacramental; verdade e meios de comunicação"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-73",
+      "order": 73,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Sacred Art and the Truth of Beauty",
+        "pt-BR": "Arte sagrada e a verdade da beleza"
+      },
+      "plate": "plate-47",
+      "compendium": [
+        {
+          "start": 526,
+          "end": 527,
+          "label": {
+            "en-US": "Truth, beauty, sacred art",
+            "pt-BR": "Verdade, beleza, arte sagrada"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-74",
+      "order": 74,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Tenth Commandment — Detachment from Goods",
+        "pt-BR": "10º Mandamento — Desprendimento dos bens"
+      },
+      "plate": "plate-48",
+      "compendium": [
+        {
+          "start": 531,
+          "end": 533,
+          "label": {
+            "en-US": "Coveting; detachment; \"desire for happiness\"",
+            "pt-BR": "A cobiça; o desprendimento; o \"desejo da felicidade\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-75",
+      "order": 75,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Precepts of the Church — Sunday Mass and Feast Days",
+        "pt-BR": "Preceitos da Igreja — Missa dominical e festas"
+      },
+      "plate": "plate-49",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The first two precepts of the Church",
+            "pt-BR": "Os dois primeiros preceitos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-76",
+      "order": 76,
+      "phase": "commandments",
+      "title": {
+        "en-US": "Precepts of the Church — Annual Confession and Easter Communion",
+        "pt-BR": "Preceitos da Igreja — Confissão anual e comunhão pascal"
+      },
+      "plate": "plate-50",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The third precept of the Church",
+            "pt-BR": "O terceiro preceito da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-77",
+      "order": 77,
+      "phase": "commandments",
+      "title": {
+        "en-US": "The Precepts of the Church — Fast, Abstinence, and Support of the Church",
+        "pt-BR": "Os preceitos da Igreja — Jejum, abstinência e sustento da Igreja"
+      },
+      "plate": "plate-51",
+      "compendium": [
+        {
+          "start": 432,
+          "end": 432,
+          "label": {
+            "en-US": "The fourth and fifth precepts of the Church",
+            "pt-BR": "O quarto e o quinto preceitos da Igreja"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-78",
+      "order": 78,
       "phase": "last-things",
       "title": {
         "en-US": "Vanity — The Emptiness of the World",
@@ -934,8 +1737,8 @@
       "compendium": []
     },
     {
-      "id": "day-71",
-      "order": 71,
+      "id": "day-79",
+      "order": 79,
       "phase": "last-things",
       "title": {
         "en-US": "Death — The Christian End",
@@ -943,12 +1746,19 @@
       },
       "plate": "plate-56",
       "compendium": [
-        { "start": 206, "end": 207, "label": { "en-US": "Death and Christian hope", "pt-BR": "A morte e a esperança cristã" } }
+        {
+          "start": 206,
+          "end": 207,
+          "label": {
+            "en-US": "Death and Christian hope",
+            "pt-BR": "A morte e a esperança cristã"
+          }
+        }
       ]
     },
     {
-      "id": "day-72",
-      "order": 72,
+      "id": "day-80",
+      "order": 80,
       "phase": "last-things",
       "title": {
         "en-US": "The Particular Judgment",
@@ -956,12 +1766,19 @@
       },
       "plate": "plate-57",
       "compendium": [
-        { "start": 208, "end": 208, "label": { "en-US": "The particular judgment", "pt-BR": "O juízo particular" } }
+        {
+          "start": 208,
+          "end": 208,
+          "label": {
+            "en-US": "The particular judgment",
+            "pt-BR": "O juízo particular"
+          }
+        }
       ]
     },
     {
-      "id": "day-73",
-      "order": 73,
+      "id": "day-81",
+      "order": 81,
       "phase": "last-things",
       "title": {
         "en-US": "Original Sin Revisited — The Wound and the Remedy",
@@ -969,12 +1786,19 @@
       },
       "plate": "plate-58",
       "compendium": [
-        { "start": 76, "end": 78, "label": { "en-US": "The consequences of original sin in daily life; the promise of a Redeemer", "pt-BR": "Consequências do pecado original na vida cotidiana; a promessa de um Redentor" } }
+        {
+          "start": 76,
+          "end": 78,
+          "label": {
+            "en-US": "The consequences of original sin in daily life; the promise of a Redeemer",
+            "pt-BR": "Consequências do pecado original na vida cotidiana; a promessa de um Redentor"
+          }
+        }
       ]
     },
     {
-      "id": "day-74",
-      "order": 74,
+      "id": "day-82",
+      "order": 82,
       "phase": "virtues-vices",
       "title": {
         "en-US": "Capital Sins — Pride, Avarice, Lust",
@@ -982,25 +1806,59 @@
       },
       "plate": "plate-59",
       "compendium": [
-        { "start": 398, "end": 398, "label": { "en-US": "The capital sins", "pt-BR": "Os pecados capitais" } }
+        {
+          "start": 398,
+          "end": 398,
+          "label": {
+            "en-US": "The capital sins",
+            "pt-BR": "Os pecados capitais"
+          }
+        }
       ]
     },
     {
-      "id": "day-75",
-      "order": 75,
+      "id": "day-83",
+      "order": 83,
       "phase": "virtues-vices",
       "title": {
-        "en-US": "Capital Sins — Gluttony, Envy, Wrath, Sloth",
-        "pt-BR": "Pecados capitais — Gula, inveja, ira, preguiça"
+        "en-US": "Capital Sins — Gluttony and Envy",
+        "pt-BR": "Pecados capitais — Gula e inveja"
       },
-      "plates": ["plate-60", "plate-61"],
+      "plate": "plate-60",
       "compendium": [
-        { "start": 398, "end": 398, "label": { "en-US": "The capital sins (continued)", "pt-BR": "Os pecados capitais (continuação)" } }
+        {
+          "start": 398,
+          "end": 398,
+          "label": {
+            "en-US": "The capital sins (continued)",
+            "pt-BR": "Os pecados capitais (continuação)"
+          }
+        }
       ]
     },
     {
-      "id": "day-76",
-      "order": 76,
+      "id": "day-84",
+      "order": 84,
+      "phase": "virtues-vices",
+      "title": {
+        "en-US": "Capital Sins — Wrath and Sloth",
+        "pt-BR": "Pecados capitais — Ira e preguiça"
+      },
+      "plate": "plate-61",
+      "compendium": [
+        {
+          "start": 398,
+          "end": 398,
+          "label": {
+            "en-US": "The capital sins (continued)",
+            "pt-BR": "Os pecados capitais (continuação)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "day-85",
+      "order": 85,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Theological Virtues — Faith, Hope, Charity",
@@ -1008,12 +1866,19 @@
       },
       "plate": "plate-62",
       "compendium": [
-        { "start": 384, "end": 388, "label": { "en-US": "The theological virtues", "pt-BR": "As virtudes teologais" } }
+        {
+          "start": 384,
+          "end": 388,
+          "label": {
+            "en-US": "The theological virtues",
+            "pt-BR": "As virtudes teologais"
+          }
+        }
       ]
     },
     {
-      "id": "day-77",
-      "order": 77,
+      "id": "day-86",
+      "order": 86,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance",
@@ -1021,12 +1886,19 @@
       },
       "plate": "plate-63",
       "compendium": [
-        { "start": 379, "end": 383, "label": { "en-US": "Human virtues and the four cardinal virtues", "pt-BR": "Virtudes humanas e as quatro virtudes cardeais" } }
+        {
+          "start": 379,
+          "end": 383,
+          "label": {
+            "en-US": "Human virtues and the four cardinal virtues",
+            "pt-BR": "Virtudes humanas e as quatro virtudes cardeais"
+          }
+        }
       ]
     },
     {
-      "id": "day-78",
-      "order": 78,
+      "id": "day-87",
+      "order": 87,
       "phase": "virtues-vices",
       "title": {
         "en-US": "The Evangelical Counsels — Poverty, Chastity, Obedience",
@@ -1034,12 +1906,19 @@
       },
       "plate": "plate-64",
       "compendium": [
-        { "start": 389, "end": 391, "label": { "en-US": "The evangelical counsels and consecrated life", "pt-BR": "Os conselhos evangélicos e a vida consagrada" } }
+        {
+          "start": 389,
+          "end": 391,
+          "label": {
+            "en-US": "The evangelical counsels and consecrated life",
+            "pt-BR": "Os conselhos evangélicos e a vida consagrada"
+          }
+        }
       ]
     },
     {
-      "id": "day-79",
-      "order": 79,
+      "id": "day-88",
+      "order": 88,
       "phase": "works-of-mercy",
       "title": {
         "en-US": "The Corporal Works of Mercy",
@@ -1047,12 +1926,19 @@
       },
       "plate": "plate-65",
       "compendium": [
-        { "start": 420, "end": 421, "label": { "en-US": "The works of mercy and acts of love of neighbor", "pt-BR": "As obras de misericórdia e os atos de amor ao próximo" } }
+        {
+          "start": 420,
+          "end": 421,
+          "label": {
+            "en-US": "The works of mercy and acts of love of neighbor",
+            "pt-BR": "As obras de misericórdia e os atos de amor ao próximo"
+          }
+        }
       ]
     },
     {
-      "id": "day-80",
-      "order": 80,
+      "id": "day-89",
+      "order": 89,
       "phase": "works-of-mercy",
       "title": {
         "en-US": "The Spiritual Works of Mercy",
@@ -1060,12 +1946,19 @@
       },
       "plate": "plate-66",
       "compendium": [
-        { "start": 420, "end": 421, "label": { "en-US": "The works of mercy (continued)", "pt-BR": "As obras de misericórdia (continuação)" } }
+        {
+          "start": 420,
+          "end": 421,
+          "label": {
+            "en-US": "The works of mercy (continued)",
+            "pt-BR": "As obras de misericórdia (continuação)"
+          }
+        }
       ]
     },
     {
-      "id": "day-81",
-      "order": 81,
+      "id": "day-90",
+      "order": 90,
       "phase": "prayer",
       "title": {
         "en-US": "What Prayer Is — The Universal Call",
@@ -1073,12 +1966,19 @@
       },
       "plate": "plate-52",
       "compendium": [
-        { "start": 534, "end": 540, "label": { "en-US": "Prayer revealed; the gift; the patriarchs; Moses and David; the psalms", "pt-BR": "A oração revelada; o dom; os patriarcas; Moisés e Davi; os salmos" } }
+        {
+          "start": 534,
+          "end": 540,
+          "label": {
+            "en-US": "Prayer revealed; the gift; the patriarchs; Moses and David; the psalms",
+            "pt-BR": "A oração revelada; o dom; os patriarcas; Moisés e Davi; os salmos"
+          }
+        }
       ]
     },
     {
-      "id": "day-82",
-      "order": 82,
+      "id": "day-91",
+      "order": 91,
       "phase": "prayer",
       "title": {
         "en-US": "Prayer in Christ and in the Age of the Church",
@@ -1086,12 +1986,19 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 541, "end": 547, "label": { "en-US": "Christ at prayer; the Our Father; prayer of Mary; prayer in the apostolic age", "pt-BR": "Cristo em oração; o Pai-Nosso; a oração de Maria; a oração na era apostólica" } }
+        {
+          "start": 541,
+          "end": 547,
+          "label": {
+            "en-US": "Christ at prayer; the Our Father; prayer of Mary; prayer in the apostolic age",
+            "pt-BR": "Cristo em oração; o Pai-Nosso; a oração de Maria; a oração na era apostólica"
+          }
+        }
       ]
     },
     {
-      "id": "day-83",
-      "order": 83,
+      "id": "day-92",
+      "order": 92,
       "phase": "prayer",
       "title": {
         "en-US": "The Wellsprings and the Way of Prayer",
@@ -1099,12 +2006,19 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 548, "end": 555, "label": { "en-US": "Wellsprings (Word, liturgy, virtues, providence); to whom we pray; guides and saints", "pt-BR": "As fontes (Palavra, liturgia, virtudes, providência); a quem rezamos; guias e santos" } }
+        {
+          "start": 548,
+          "end": 555,
+          "label": {
+            "en-US": "Wellsprings (Word, liturgy, virtues, providence); to whom we pray; guides and saints",
+            "pt-BR": "As fontes (Palavra, liturgia, virtudes, providência); a quem rezamos; guias e santos"
+          }
+        }
       ]
     },
     {
-      "id": "day-84",
-      "order": 84,
+      "id": "day-93",
+      "order": 93,
       "phase": "prayer",
       "title": {
         "en-US": "The Expressions of Prayer",
@@ -1112,12 +2026,19 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 556, "end": 565, "label": { "en-US": "Vocal prayer, meditation, contemplation; family and ecclesial prayer; prayer at the canonical hours", "pt-BR": "Oração vocal, meditação, contemplação; oração em família e na Igreja; oração nas horas canônicas" } }
+        {
+          "start": 556,
+          "end": 565,
+          "label": {
+            "en-US": "Vocal prayer, meditation, contemplation; family and ecclesial prayer; prayer at the canonical hours",
+            "pt-BR": "Oração vocal, meditação, contemplação; oração em família e na Igreja; oração nas horas canônicas"
+          }
+        }
       ]
     },
     {
-      "id": "day-85",
-      "order": 85,
+      "id": "day-94",
+      "order": 94,
       "phase": "prayer",
       "title": {
         "en-US": "The Battle of Prayer",
@@ -1125,12 +2046,19 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 566, "end": 572, "label": { "en-US": "Distractions, dryness, discouragement; persevering in love; the hour of Jesus", "pt-BR": "Distrações, secura, desânimo; perseverança no amor; a hora de Jesus" } }
+        {
+          "start": 566,
+          "end": 572,
+          "label": {
+            "en-US": "Distractions, dryness, discouragement; persevering in love; the hour of Jesus",
+            "pt-BR": "Distrações, secura, desânimo; perseverança no amor; a hora de Jesus"
+          }
+        }
       ]
     },
     {
-      "id": "day-86",
-      "order": 86,
+      "id": "day-95",
+      "order": 95,
       "phase": "prayer",
       "title": {
         "en-US": "The Our Father — \"The Summary of the Whole Gospel\"",
@@ -1138,12 +2066,19 @@
       },
       "plate": "plate-53",
       "compendium": [
-        { "start": 578, "end": 583, "label": { "en-US": "The Lord's Prayer as a whole; \"Our Father\"; \"who art in heaven\"", "pt-BR": "A oração do Senhor como um todo; \"Pai nosso\"; \"que estais nos céus\"" } }
+        {
+          "start": 578,
+          "end": 583,
+          "label": {
+            "en-US": "The Lord's Prayer as a whole; \"Our Father\"; \"who art in heaven\"",
+            "pt-BR": "A oração do Senhor como um todo; \"Pai nosso\"; \"que estais nos céus\""
+          }
+        }
       ]
     },
     {
-      "id": "day-87",
-      "order": 87,
+      "id": "day-96",
+      "order": 96,
       "phase": "prayer",
       "title": {
         "en-US": "The First Three Petitions — Hallowed, Kingdom, Will",
@@ -1151,12 +2086,19 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 584, "end": 587, "label": { "en-US": "Hallowed be Thy Name; Thy Kingdom come; Thy will be done", "pt-BR": "Santificado seja o vosso Nome; venha a nós o vosso Reino; seja feita a vossa vontade" } }
+        {
+          "start": 584,
+          "end": 587,
+          "label": {
+            "en-US": "Hallowed be Thy Name; Thy Kingdom come; Thy will be done",
+            "pt-BR": "Santificado seja o vosso Nome; venha a nós o vosso Reino; seja feita a vossa vontade"
+          }
+        }
       ]
     },
     {
-      "id": "day-88",
-      "order": 88,
+      "id": "day-97",
+      "order": 97,
       "phase": "prayer",
       "title": {
         "en-US": "The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance",
@@ -1164,13 +2106,27 @@
       },
       "plate": null,
       "compendium": [
-        { "start": 588, "end": 597, "label": { "en-US": "Daily bread; forgive us; lead us not into temptation; deliver us from evil", "pt-BR": "Pão de cada dia; perdoai-nos; não nos deixeis cair em tentação; livrai-nos do mal" } },
-        { "start": 598, "end": 598, "label": { "en-US": "Amen", "pt-BR": "Amém" } }
+        {
+          "start": 588,
+          "end": 597,
+          "label": {
+            "en-US": "Daily bread; forgive us; lead us not into temptation; deliver us from evil",
+            "pt-BR": "Pão de cada dia; perdoai-nos; não nos deixeis cair em tentação; livrai-nos do mal"
+          }
+        },
+        {
+          "start": 598,
+          "end": 598,
+          "label": {
+            "en-US": "Amen",
+            "pt-BR": "Amém"
+          }
+        }
       ]
     },
     {
-      "id": "day-89",
-      "order": 89,
+      "id": "day-98",
+      "order": 98,
       "phase": "prayer",
       "title": {
         "en-US": "The Hail Mary and Marian Prayer",
@@ -1178,7 +2134,14 @@
       },
       "plate": "plate-54",
       "compendium": [
-        { "start": 562, "end": 562, "label": { "en-US": "Marian prayer in the Christian life", "pt-BR": "A oração mariana na vida cristã" } }
+        {
+          "start": 562,
+          "end": 562,
+          "label": {
+            "en-US": "Marian prayer in the Christian life",
+            "pt-BR": "A oração mariana na vida cristã"
+          }
+        }
       ]
     }
   ]

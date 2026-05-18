@@ -1,1 +1,1 @@
-# Dia 84 — As expressões da oração
+# Dia 84 — Pecados capitais — Ira e preguiça

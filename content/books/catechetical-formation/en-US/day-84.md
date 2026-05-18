@@ -1,1 +1,1 @@
-# Day 84 — The Expressions of Prayer
+# Day 84 — Capital Sins — Wrath and Sloth

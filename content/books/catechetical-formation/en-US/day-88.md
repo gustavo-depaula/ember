@@ -1,1 +1,1 @@
-# Day 88 — The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance
+# Day 88 — The Corporal Works of Mercy

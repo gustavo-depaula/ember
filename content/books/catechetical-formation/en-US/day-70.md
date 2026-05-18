@@ -1,1 +1,1 @@
-# Day 70 — Vanity — The Emptiness of the World
+# Day 70 — Eighth Commandment — Truth and False Witness

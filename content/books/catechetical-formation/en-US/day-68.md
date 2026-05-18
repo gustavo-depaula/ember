@@ -1,1 +1,1 @@
-# Day 68 — Tenth Commandment — Detachment from Goods
+# Day 68 — Seventh Commandment — Property and Justice

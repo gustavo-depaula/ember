@@ -1,1 +1,1 @@
-# Day 75 — Capital Sins — Gluttony, Envy, Wrath, Sloth
+# Day 75 — Precepts of the Church — Sunday Mass and Feast Days

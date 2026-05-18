@@ -1,1 +1,1 @@
-# Dia 67 — Arte sagrada e a verdade da beleza
+# Dia 67 — 6º e 9º Mandamentos — Castidade

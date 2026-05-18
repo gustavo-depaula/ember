@@ -1,1 +1,1 @@
-# Day 77 — The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance
+# Day 77 — The Precepts of the Church — Fast, Abstinence, and Support of the Church

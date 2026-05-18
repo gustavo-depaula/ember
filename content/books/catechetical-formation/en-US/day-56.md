@@ -1,1 +1,1 @@
-# Day 56 — Second Commandment — Oaths, Perjury, Vows
+# Day 56 — Second Commandment — Oaths and Vows

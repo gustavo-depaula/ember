@@ -1,1 +1,1 @@
-# Dia 87 — Os três primeiros pedidos — Santificado, Reino, Vontade
+# Dia 87 — Os Conselhos evangélicos — Pobreza, castidade, obediência

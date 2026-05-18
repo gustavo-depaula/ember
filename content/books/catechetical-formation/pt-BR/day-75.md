@@ -1,1 +1,1 @@
-# Dia 75 — Pecados capitais — Gula, inveja, ira, preguiça
+# Dia 75 — Preceitos da Igreja — Missa dominical e festas

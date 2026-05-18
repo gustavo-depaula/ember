@@ -1,1 +1,1 @@
-# Dia 64 — 7º Mandamento — Trabalho, economia, os pobres
+# Dia 64 — 5º Mandamento — Homicídio e suicídio

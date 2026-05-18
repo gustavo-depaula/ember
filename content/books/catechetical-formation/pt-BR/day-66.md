@@ -1,1 +1,1 @@
-# Dia 66 — 8º Mandamento — Detração, calúnia, meios de comunicação
+# Dia 66 — 5º Mandamento — Paz, guerra justa, legítima defesa

@@ -1,1 +1,1 @@
-# Dia 68 — 10º Mandamento — Desprendimento dos bens
+# Dia 68 — 7º Mandamento — Propriedade e justiça

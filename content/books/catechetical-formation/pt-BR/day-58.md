@@ -1,1 +1,1 @@
-# Dia 58 — 4º Mandamento — A honra aos pais
+# Dia 58 — 3º Mandamento — O dia do Senhor

@@ -1,1 +1,1 @@
-# Day 82 — Prayer in Christ and in the Age of the Church
+# Day 82 — Capital Sins — Pride, Avarice, Lust

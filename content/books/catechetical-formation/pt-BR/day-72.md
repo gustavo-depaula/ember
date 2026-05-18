@@ -1,1 +1,1 @@
-# Dia 72 — O Juízo particular
+# Dia 72 — 8º Mandamento — Detração, calúnia, meios de comunicação

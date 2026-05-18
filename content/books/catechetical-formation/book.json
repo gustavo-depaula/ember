@@ -9,8 +9,8 @@
     "pt-BR": "Maison de la Bonne Presse · João Paulo II · Bento XVI"
   },
   "description": {
-    "en-US": "An 89-day catechetical formation track. Each day takes no more than 15 minutes and pairs a single plate from the 1908 *Catechism in Pictures* with a short citation list of the relevant paragraphs of the 2005 *Compendium of the Catechism of the Catholic Church*. Thirty Compendium-only days cover topics the 1908 plates leave thin: faith, Revelation, Tradition and Scripture, the mysteries of Christ's public life, the marks of the Church, the Marian dogmas, the liturgy and the rite of the Mass, the moral foundations (image of God, conscience, virtues, sin, social doctrine), the wellsprings and battle of prayer, and the petitions of the Our Father. The formation book does not duplicate the underlying texts; it points at them. Open the plate in *book/catechism-in-pictures* and the cited paragraphs in *book/compendium-ccc*.",
-    "pt-BR": "Uma trilha de formação catequética de 89 dias. Cada dia leva no máximo 15 minutos e pareia uma única gravura do *Catecismo em Imagens* (1908) com uma breve lista de citações dos parágrafos relevantes do *Compêndio do Catecismo da Igreja Católica* (2005). Trinta dias apenas do Compêndio cobrem temas em que o catecismo de 1908 é sucinto: a fé, a Revelação, a Tradição e a Escritura, os mistérios da vida pública de Cristo, as notas da Igreja, os dogmas marianos, a liturgia e o rito da Missa, os fundamentos morais (imagem de Deus, consciência, virtudes, pecado, doutrina social), as fontes e o combate da oração, e os pedidos do Pai-Nosso. O livro de formação não duplica os textos subjacentes; aponta para eles. Abra a gravura em *book/catechism-in-pictures* e os parágrafos citados em *book/compendium-ccc*."
+    "en-US": "A 98-day catechetical formation track. Each day takes no more than 15 minutes and pairs a single plate from the 1908 *Catechism in Pictures* with a short citation list of the relevant paragraphs of the 2005 *Compendium of the Catechism of the Catholic Church*. Thirty Compendium-only days cover topics the 1908 plates leave thin: faith, Revelation, Tradition and Scripture, the mysteries of Christ's public life, the marks of the Church, the Marian dogmas, the liturgy and the rite of the Mass, the moral foundations (image of God, conscience, virtues, sin, social doctrine), the wellsprings and battle of prayer, and the petitions of the Our Father. The formation book does not duplicate the underlying texts; it points at them. Open the plate in *book/catechism-in-pictures* and the cited paragraphs in *book/compendium-ccc*.",
+    "pt-BR": "Uma trilha de formação catequética de 98 dias. Cada dia leva no máximo 15 minutos e pareia uma única gravura do *Catecismo em Imagens* (1908) com uma breve lista de citações dos parágrafos relevantes do *Compêndio do Catecismo da Igreja Católica* (2005). Trinta dias apenas do Compêndio cobrem temas em que o catecismo de 1908 é sucinto: a fé, a Revelação, a Tradição e a Escritura, os mistérios da vida pública de Cristo, as notas da Igreja, os dogmas marianos, a liturgia e o rito da Missa, os fundamentos morais (imagem de Deus, consciência, virtudes, pecado, doutrina social), as fontes e o combate da oração, e os pedidos do Pai-Nosso. O livro de formação não duplica os textos subjacentes; aponta para eles. Abra a gravura em *book/catechism-in-pictures* e os parágrafos citados em *book/compendium-ccc*."
   },
   "composed": "1908–2005",
   "languages": [
@@ -445,106 +445,162 @@
         {
           "id": "day-55",
           "title": {
-            "en-US": "Day 55 — Second Commandment — The Name of God",
-            "pt-BR": "Dia 55 — 2º Mandamento — O nome de Deus"
+            "en-US": "Day 55 — Second Commandment — Reverence for the Name",
+            "pt-BR": "Dia 55 — 2º Mandamento — Reverência ao Nome"
           }
         },
         {
           "id": "day-56",
           "title": {
-            "en-US": "Day 56 — Second Commandment — Oaths, Perjury, Vows",
-            "pt-BR": "Dia 56 — 2º Mandamento — Juramentos, perjúrio, votos"
+            "en-US": "Day 56 — Second Commandment — Oaths and Vows",
+            "pt-BR": "Dia 56 — 2º Mandamento — Juramentos e votos"
           }
         },
         {
           "id": "day-57",
           "title": {
-            "en-US": "Day 57 — Third Commandment — The Lord's Day",
-            "pt-BR": "Dia 57 — 3º Mandamento — O dia do Senhor"
+            "en-US": "Day 57 — Second Commandment — Oaths, Perjury, Vows",
+            "pt-BR": "Dia 57 — 2º Mandamento — Juramentos, perjúrio, votos"
           }
         },
         {
           "id": "day-58",
           "title": {
-            "en-US": "Day 58 — Fourth Commandment — Honor of Parents",
-            "pt-BR": "Dia 58 — 4º Mandamento — A honra aos pais"
+            "en-US": "Day 58 — Third Commandment — The Lord's Day",
+            "pt-BR": "Dia 58 — 3º Mandamento — O dia do Senhor"
           }
         },
         {
           "id": "day-59",
           "title": {
-            "en-US": "Day 59 — Fourth Commandment — Civil Authority and the Common Good",
-            "pt-BR": "Dia 59 — 4º Mandamento — Autoridade civil e bem comum"
+            "en-US": "Day 59 — Third Commandment — Sunday Observance",
+            "pt-BR": "Dia 59 — 3º Mandamento — A observância dominical"
           }
         },
         {
           "id": "day-60",
           "title": {
-            "en-US": "Day 60 — Fifth Commandment — The Sanctity of Life",
-            "pt-BR": "Dia 60 — 5º Mandamento — A santidade da vida"
+            "en-US": "Day 60 — Fourth Commandment — Honor of Parents",
+            "pt-BR": "Dia 60 — 4º Mandamento — Honra aos pais"
           }
         },
         {
           "id": "day-61",
           "title": {
-            "en-US": "Day 61 — Fifth Commandment — Peace, Just War, Self-Defense",
-            "pt-BR": "Dia 61 — 5º Mandamento — Paz, guerra justa, legítima defesa"
+            "en-US": "Day 61 — Fourth Commandment — Duties of Children and Parents",
+            "pt-BR": "Dia 61 — 4º Mandamento — Deveres de filhos e pais"
           }
         },
         {
           "id": "day-62",
           "title": {
-            "en-US": "Day 62 — Sixth and Ninth Commandments — Chastity",
-            "pt-BR": "Dia 62 — 6º e 9º Mandamentos — Castidade"
+            "en-US": "Day 62 — Fourth Commandment — Civil Authority",
+            "pt-BR": "Dia 62 — 4º Mandamento — Autoridade civil"
           }
         },
         {
           "id": "day-63",
           "title": {
-            "en-US": "Day 63 — Seventh Commandment — Property and Justice",
-            "pt-BR": "Dia 63 — 7º Mandamento — Propriedade e justiça"
+            "en-US": "Day 63 — Fourth Commandment — Pastoral and Domestic Authority",
+            "pt-BR": "Dia 63 — 4º Mandamento — Autoridade pastoral e doméstica"
           }
         },
         {
           "id": "day-64",
           "title": {
-            "en-US": "Day 64 — Seventh Commandment — Work, the Economy, the Poor",
-            "pt-BR": "Dia 64 — 7º Mandamento — Trabalho, economia, os pobres"
+            "en-US": "Day 64 — Fifth Commandment — Murder and Suicide",
+            "pt-BR": "Dia 64 — 5º Mandamento — Homicídio e suicídio"
           }
         },
         {
           "id": "day-65",
           "title": {
-            "en-US": "Day 65 — Eighth Commandment — Truth and Witness",
-            "pt-BR": "Dia 65 — 8º Mandamento — Verdade e testemunho"
+            "en-US": "Day 65 — Fifth Commandment — Scandal and the Spiritual Wound",
+            "pt-BR": "Dia 65 — 5º Mandamento — Escândalo e a ferida espiritual"
           }
         },
         {
           "id": "day-66",
           "title": {
-            "en-US": "Day 66 — Eighth Commandment — Detraction, Calumny, Mass Media",
-            "pt-BR": "Dia 66 — 8º Mandamento — Detração, calúnia, meios de comunicação"
+            "en-US": "Day 66 — Fifth Commandment — Peace, Just War, Self-Defense",
+            "pt-BR": "Dia 66 — 5º Mandamento — Paz, guerra justa, legítima defesa"
           }
         },
         {
           "id": "day-67",
           "title": {
-            "en-US": "Day 67 — Sacred Art and the Truth of Beauty",
-            "pt-BR": "Dia 67 — Arte sagrada e a verdade da beleza"
+            "en-US": "Day 67 — Sixth and Ninth Commandments — Chastity",
+            "pt-BR": "Dia 67 — 6º e 9º Mandamentos — Castidade"
           }
         },
         {
           "id": "day-68",
           "title": {
-            "en-US": "Day 68 — Tenth Commandment — Detachment from Goods",
-            "pt-BR": "Dia 68 — 10º Mandamento — Desprendimento dos bens"
+            "en-US": "Day 68 — Seventh Commandment — Property and Justice",
+            "pt-BR": "Dia 68 — 7º Mandamento — Propriedade e justiça"
           }
         },
         {
           "id": "day-69",
           "title": {
-            "en-US": "Day 69 — The Precepts of the Church",
-            "pt-BR": "Dia 69 — Os preceitos da Igreja"
+            "en-US": "Day 69 — Seventh Commandment — Work, the Economy, the Poor",
+            "pt-BR": "Dia 69 — 7º Mandamento — Trabalho, economia, os pobres"
+          }
+        },
+        {
+          "id": "day-70",
+          "title": {
+            "en-US": "Day 70 — Eighth Commandment — Truth and False Witness",
+            "pt-BR": "Dia 70 — 8º Mandamento — Verdade e falso testemunho"
+          }
+        },
+        {
+          "id": "day-71",
+          "title": {
+            "en-US": "Day 71 — Eighth Commandment — Lying",
+            "pt-BR": "Dia 71 — 8º Mandamento — A mentira"
+          }
+        },
+        {
+          "id": "day-72",
+          "title": {
+            "en-US": "Day 72 — Eighth Commandment — Detraction, Calumny, Mass Media",
+            "pt-BR": "Dia 72 — 8º Mandamento — Detração, calúnia, meios de comunicação"
+          }
+        },
+        {
+          "id": "day-73",
+          "title": {
+            "en-US": "Day 73 — Sacred Art and the Truth of Beauty",
+            "pt-BR": "Dia 73 — Arte sagrada e a verdade da beleza"
+          }
+        },
+        {
+          "id": "day-74",
+          "title": {
+            "en-US": "Day 74 — Tenth Commandment — Detachment from Goods",
+            "pt-BR": "Dia 74 — 10º Mandamento — Desprendimento dos bens"
+          }
+        },
+        {
+          "id": "day-75",
+          "title": {
+            "en-US": "Day 75 — Precepts of the Church — Sunday Mass and Feast Days",
+            "pt-BR": "Dia 75 — Preceitos da Igreja — Missa dominical e festas"
+          }
+        },
+        {
+          "id": "day-76",
+          "title": {
+            "en-US": "Day 76 — Precepts of the Church — Annual Confession and Easter Communion",
+            "pt-BR": "Dia 76 — Preceitos da Igreja — Confissão anual e comunhão pascal"
+          }
+        },
+        {
+          "id": "day-77",
+          "title": {
+            "en-US": "Day 77 — The Precepts of the Church — Fast, Abstinence, and Support of the Church",
+            "pt-BR": "Dia 77 — Os preceitos da Igreja — Jejum, abstinência e sustento da Igreja"
           }
         }
       ]
@@ -557,31 +613,31 @@
       },
       "children": [
         {
-          "id": "day-70",
+          "id": "day-78",
           "title": {
-            "en-US": "Day 70 — Vanity — The Emptiness of the World",
-            "pt-BR": "Dia 70 — A Vaidade — O vazio do mundo"
+            "en-US": "Day 78 — Vanity — The Emptiness of the World",
+            "pt-BR": "Dia 78 — A Vaidade — O vazio do mundo"
           }
         },
         {
-          "id": "day-71",
+          "id": "day-79",
           "title": {
-            "en-US": "Day 71 — Death — The Christian End",
-            "pt-BR": "Dia 71 — A Morte — O fim cristão"
+            "en-US": "Day 79 — Death — The Christian End",
+            "pt-BR": "Dia 79 — A Morte — O fim cristão"
           }
         },
         {
-          "id": "day-72",
+          "id": "day-80",
           "title": {
-            "en-US": "Day 72 — The Particular Judgment",
-            "pt-BR": "Dia 72 — O Juízo particular"
+            "en-US": "Day 80 — The Particular Judgment",
+            "pt-BR": "Dia 80 — O Juízo particular"
           }
         },
         {
-          "id": "day-73",
+          "id": "day-81",
           "title": {
-            "en-US": "Day 73 — Original Sin Revisited — The Wound and the Remedy",
-            "pt-BR": "Dia 73 — O Pecado original revisitado — A ferida e o remédio"
+            "en-US": "Day 81 — Original Sin Revisited — The Wound and the Remedy",
+            "pt-BR": "Dia 81 — O Pecado original revisitado — A ferida e o remédio"
           }
         }
       ]
@@ -594,38 +650,45 @@
       },
       "children": [
         {
-          "id": "day-74",
+          "id": "day-82",
           "title": {
-            "en-US": "Day 74 — Capital Sins — Pride, Avarice, Lust",
-            "pt-BR": "Dia 74 — Pecados capitais — Soberba, avareza, luxúria"
+            "en-US": "Day 82 — Capital Sins — Pride, Avarice, Lust",
+            "pt-BR": "Dia 82 — Pecados capitais — Soberba, avareza, luxúria"
           }
         },
         {
-          "id": "day-75",
+          "id": "day-83",
           "title": {
-            "en-US": "Day 75 — Capital Sins — Gluttony, Envy, Wrath, Sloth",
-            "pt-BR": "Dia 75 — Pecados capitais — Gula, inveja, ira, preguiça"
+            "en-US": "Day 83 — Capital Sins — Gluttony and Envy",
+            "pt-BR": "Dia 83 — Pecados capitais — Gula e inveja"
           }
         },
         {
-          "id": "day-76",
+          "id": "day-84",
           "title": {
-            "en-US": "Day 76 — The Theological Virtues — Faith, Hope, Charity",
-            "pt-BR": "Dia 76 — As Virtudes teologais — Fé, esperança, caridade"
+            "en-US": "Day 84 — Capital Sins — Wrath and Sloth",
+            "pt-BR": "Dia 84 — Pecados capitais — Ira e preguiça"
           }
         },
         {
-          "id": "day-77",
+          "id": "day-85",
           "title": {
-            "en-US": "Day 77 — The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance",
-            "pt-BR": "Dia 77 — As Virtudes cardeais — Prudência, justiça, fortaleza, temperança"
+            "en-US": "Day 85 — The Theological Virtues — Faith, Hope, Charity",
+            "pt-BR": "Dia 85 — As Virtudes teologais — Fé, esperança, caridade"
           }
         },
         {
-          "id": "day-78",
+          "id": "day-86",
           "title": {
-            "en-US": "Day 78 — The Evangelical Counsels — Poverty, Chastity, Obedience",
-            "pt-BR": "Dia 78 — Os Conselhos evangélicos — Pobreza, castidade, obediência"
+            "en-US": "Day 86 — The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance",
+            "pt-BR": "Dia 86 — As Virtudes cardeais — Prudência, justiça, fortaleza, temperança"
+          }
+        },
+        {
+          "id": "day-87",
+          "title": {
+            "en-US": "Day 87 — The Evangelical Counsels — Poverty, Chastity, Obedience",
+            "pt-BR": "Dia 87 — Os Conselhos evangélicos — Pobreza, castidade, obediência"
           }
         }
       ]
@@ -638,17 +701,17 @@
       },
       "children": [
         {
-          "id": "day-79",
+          "id": "day-88",
           "title": {
-            "en-US": "Day 79 — The Corporal Works of Mercy",
-            "pt-BR": "Dia 79 — As Obras corporais de misericórdia"
+            "en-US": "Day 88 — The Corporal Works of Mercy",
+            "pt-BR": "Dia 88 — As Obras corporais de misericórdia"
           }
         },
         {
-          "id": "day-80",
+          "id": "day-89",
           "title": {
-            "en-US": "Day 80 — The Spiritual Works of Mercy",
-            "pt-BR": "Dia 80 — As Obras espirituais de misericórdia"
+            "en-US": "Day 89 — The Spiritual Works of Mercy",
+            "pt-BR": "Dia 89 — As Obras espirituais de misericórdia"
           }
         }
       ]
@@ -661,66 +724,66 @@
       },
       "children": [
         {
-          "id": "day-81",
+          "id": "day-90",
           "title": {
-            "en-US": "Day 81 — What Prayer Is — The Universal Call",
-            "pt-BR": "Dia 81 — O que é a Oração — Chamada universal"
+            "en-US": "Day 90 — What Prayer Is — The Universal Call",
+            "pt-BR": "Dia 90 — O que é a Oração — Chamada universal"
           }
         },
         {
-          "id": "day-82",
+          "id": "day-91",
           "title": {
-            "en-US": "Day 82 — Prayer in Christ and in the Age of the Church",
-            "pt-BR": "Dia 82 — A oração em Cristo e no tempo da Igreja"
+            "en-US": "Day 91 — Prayer in Christ and in the Age of the Church",
+            "pt-BR": "Dia 91 — A oração em Cristo e no tempo da Igreja"
           }
         },
         {
-          "id": "day-83",
+          "id": "day-92",
           "title": {
-            "en-US": "Day 83 — The Wellsprings and the Way of Prayer",
-            "pt-BR": "Dia 83 — As fontes e o caminho da oração"
+            "en-US": "Day 92 — The Wellsprings and the Way of Prayer",
+            "pt-BR": "Dia 92 — As fontes e o caminho da oração"
           }
         },
         {
-          "id": "day-84",
+          "id": "day-93",
           "title": {
-            "en-US": "Day 84 — The Expressions of Prayer",
-            "pt-BR": "Dia 84 — As expressões da oração"
+            "en-US": "Day 93 — The Expressions of Prayer",
+            "pt-BR": "Dia 93 — As expressões da oração"
           }
         },
         {
-          "id": "day-85",
+          "id": "day-94",
           "title": {
-            "en-US": "Day 85 — The Battle of Prayer",
-            "pt-BR": "Dia 85 — O combate da oração"
+            "en-US": "Day 94 — The Battle of Prayer",
+            "pt-BR": "Dia 94 — O combate da oração"
           }
         },
         {
-          "id": "day-86",
+          "id": "day-95",
           "title": {
-            "en-US": "Day 86 — The Our Father — \"The Summary of the Whole Gospel\"",
-            "pt-BR": "Dia 86 — O Pai-Nosso — \"Síntese de todo o Evangelho\""
+            "en-US": "Day 95 — The Our Father — \"The Summary of the Whole Gospel\"",
+            "pt-BR": "Dia 95 — O Pai-Nosso — \"Síntese de todo o Evangelho\""
           }
         },
         {
-          "id": "day-87",
+          "id": "day-96",
           "title": {
-            "en-US": "Day 87 — The First Three Petitions — Hallowed, Kingdom, Will",
-            "pt-BR": "Dia 87 — Os três primeiros pedidos — Santificado, Reino, Vontade"
+            "en-US": "Day 96 — The First Three Petitions — Hallowed, Kingdom, Will",
+            "pt-BR": "Dia 96 — Os três primeiros pedidos — Santificado, Reino, Vontade"
           }
         },
         {
-          "id": "day-88",
+          "id": "day-97",
           "title": {
-            "en-US": "Day 88 — The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance",
-            "pt-BR": "Dia 88 — Os quatro últimos pedidos — Pão, perdão, tentação, libertação"
+            "en-US": "Day 97 — The Last Four Petitions — Bread, Forgiveness, Temptation, Deliverance",
+            "pt-BR": "Dia 97 — Os quatro últimos pedidos — Pão, perdão, tentação, libertação"
           }
         },
         {
-          "id": "day-89",
+          "id": "day-98",
           "title": {
-            "en-US": "Day 89 — The Hail Mary and Marian Prayer",
-            "pt-BR": "Dia 89 — A Ave-Maria e a oração mariana"
+            "en-US": "Day 98 — The Hail Mary and Marian Prayer",
+            "pt-BR": "Dia 98 — A Ave-Maria e a oração mariana"
           }
         }
       ]

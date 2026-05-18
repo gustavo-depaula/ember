@@ -1,1 +1,1 @@
-# Dia 61 — 5º Mandamento — Paz, guerra justa, legítima defesa
+# Dia 61 — 4º Mandamento — Deveres de filhos e pais

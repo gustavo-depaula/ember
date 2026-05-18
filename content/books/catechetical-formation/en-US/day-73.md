@@ -1,1 +1,1 @@
-# Day 73 — Original Sin Revisited — The Wound and the Remedy
+# Day 73 — Sacred Art and the Truth of Beauty

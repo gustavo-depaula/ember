@@ -1,1 +1,1 @@
-# Dia 63 — 7º Mandamento — Propriedade e justiça
+# Dia 63 — 4º Mandamento — Autoridade pastoral e doméstica

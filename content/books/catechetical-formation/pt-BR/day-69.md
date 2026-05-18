@@ -1,1 +1,1 @@
-# Dia 69 — Os preceitos da Igreja
+# Dia 69 — 7º Mandamento — Trabalho, economia, os pobres

@@ -1,1 +1,1 @@
-# Dia 71 — A Morte — O fim cristão
+# Dia 71 — 8º Mandamento — A mentira

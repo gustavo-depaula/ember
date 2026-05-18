@@ -1,1 +1,1 @@
-# Dia 65 — 8º Mandamento — Verdade e testemunho
+# Dia 65 — 5º Mandamento — Escândalo e a ferida espiritual

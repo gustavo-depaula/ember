@@ -1,1 +1,1 @@
-# Dia 59 — 4º Mandamento — Autoridade civil e bem comum
+# Dia 59 — 3º Mandamento — A observância dominical

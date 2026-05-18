@@ -1,1 +1,1 @@
-# Dia 86 — O Pai-Nosso — "Síntese de todo o Evangelho"
+# Dia 86 — As Virtudes cardeais — Prudência, justiça, fortaleza, temperança

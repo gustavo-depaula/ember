@@ -1,1 +1,1 @@
-# Dia 74 — Pecados capitais — Soberba, avareza, luxúria
+# Dia 74 — 10º Mandamento — Desprendimento dos bens

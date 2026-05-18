@@ -1,1 +1,1 @@
-# Day 85 — The Battle of Prayer
+# Day 85 — The Theological Virtues — Faith, Hope, Charity

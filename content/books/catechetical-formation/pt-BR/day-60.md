@@ -1,1 +1,1 @@
-# Dia 60 — 5º Mandamento — A santidade da vida
+# Dia 60 — 4º Mandamento — Honra aos pais

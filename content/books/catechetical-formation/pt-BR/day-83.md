@@ -1,1 +1,1 @@
-# Dia 83 — As fontes e o caminho da oração
+# Dia 83 — Pecados capitais — Gula e inveja

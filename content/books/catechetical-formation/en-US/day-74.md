@@ -1,1 +1,1 @@
-# Day 74 — Capital Sins — Pride, Avarice, Lust
+# Day 74 — Tenth Commandment — Detachment from Goods

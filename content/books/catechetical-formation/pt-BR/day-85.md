@@ -1,1 +1,1 @@
-# Dia 85 — O combate da oração
+# Dia 85 — As Virtudes teologais — Fé, esperança, caridade

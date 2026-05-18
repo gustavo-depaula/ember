@@ -1,1 +1,1 @@
-# Day 72 — The Particular Judgment
+# Day 72 — Eighth Commandment — Detraction, Calumny, Mass Media

@@ -1,1 +1,1 @@
-# Day 76 — The Theological Virtues — Faith, Hope, Charity
+# Day 76 — Precepts of the Church — Annual Confession and Easter Communion

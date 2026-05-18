@@ -1,1 +1,1 @@
-# Dia 73 — O Pecado original revisitado — A ferida e o remédio
+# Dia 73 — Arte sagrada e a verdade da beleza

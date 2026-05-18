@@ -1,1 +1,1 @@
-# Dia 77 — As Virtudes cardeais — Prudência, justiça, fortaleza, temperança
+# Dia 77 — Os preceitos da Igreja — Jejum, abstinência e sustento da Igreja

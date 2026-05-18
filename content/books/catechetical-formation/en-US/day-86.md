@@ -1,1 +1,1 @@
-# Day 86 — The Our Father — "The Summary of the Whole Gospel"
+# Day 86 — The Cardinal Virtues — Prudence, Justice, Fortitude, Temperance

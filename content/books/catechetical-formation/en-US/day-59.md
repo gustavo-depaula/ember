@@ -1,1 +1,1 @@
-# Day 59 — Fourth Commandment — Civil Authority and the Common Good
+# Day 59 — Third Commandment — Sunday Observance

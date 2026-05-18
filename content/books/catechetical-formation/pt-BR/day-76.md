@@ -1,1 +1,1 @@
-# Dia 76 — As Virtudes teologais — Fé, esperança, caridade
+# Dia 76 — Preceitos da Igreja — Confissão anual e comunhão pascal

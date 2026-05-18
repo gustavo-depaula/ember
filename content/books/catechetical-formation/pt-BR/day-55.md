@@ -1,1 +1,1 @@
-# Dia 55 — 2º Mandamento — O nome de Deus
+# Dia 55 — 2º Mandamento — Reverência ao Nome

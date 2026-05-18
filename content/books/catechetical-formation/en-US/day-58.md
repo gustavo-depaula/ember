@@ -1,1 +1,1 @@
-# Day 58 — Fourth Commandment — Honor of Parents
+# Day 58 — Third Commandment — The Lord's Day
