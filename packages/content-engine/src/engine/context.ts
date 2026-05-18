@@ -204,17 +204,20 @@ export function composeVars(
 }
 
 export function resolveEntryVars(
-  entry: Record<string, string | LocalizedText | undefined>,
+  entry: Record<string, string | number | LocalizedText | undefined>,
   ec: EngineContext,
 ): Record<string, string | undefined> {
   const vars: Record<string, string | undefined> = {}
   for (const [k, v] of Object.entries(entry)) {
-    vars[k] =
-      typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
-        ? ec.localizeUI(v as LocalizedText)
-        : typeof v === 'string'
-          ? v
-          : undefined
+    if (typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)) {
+      vars[k] = ec.localizeUI(v as LocalizedText)
+    } else if (typeof v === 'string') {
+      vars[k] = v
+    } else if (typeof v === 'number') {
+      vars[k] = String(v)
+    } else {
+      vars[k] = undefined
+    }
   }
   return vars
 }

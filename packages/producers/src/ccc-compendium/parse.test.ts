@@ -7,7 +7,7 @@ import type { ChapterId, Lang } from './types'
 
 function loadFixture(lang: Lang): string {
   const slug = lang === 'en-US' ? 'en' : 'pt'
-  const path = join(__dirname, '..', '__fixtures__', `${slug}.html`)
+  const path = join(__dirname, '__fixtures__', `${slug}.html`)
   return new TextDecoder('iso-8859-1').decode(readFileSync(path))
 }
 

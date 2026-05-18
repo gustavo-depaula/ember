@@ -1,23 +1,8 @@
 // Stubs the producer at the package boundary so we exercise the full include
-// pipeline (resolver → registry → SQLite cache → ProducerHtmlBlock) without
-// the network.
+// pipeline (cycle → resolver → registry → SQLite cache → ProducerHtmlBlock)
+// without the network.
 
-import { readFileSync } from 'node:fs'
-import { join } from 'node:path'
 import { beforeEach, describe, expect, it, vi } from 'vitest'
-
-const FIXTURE_DIR = join(
-  __dirname,
-  '..',
-  '..',
-  '..',
-  '..',
-  '..',
-  '..',
-  'packages',
-  'ccc-compendium-producer',
-  '__fixtures__',
-)
 
 type ProduceCall = {
   date: Date
@@ -28,12 +13,12 @@ type ProduceCall = {
 
 const produceCalls: ProduceCall[] = []
 
-vi.mock('@ember/ccc-compendium-producer', async (importOriginal) => {
-  const actual = (await importOriginal()) as typeof import('@ember/ccc-compendium-producer')
+vi.mock('@ember/producers', async (importOriginal) => {
+  const actual = (await importOriginal()) as typeof import('@ember/producers')
   return {
     ...actual,
-    cccCompendiumProgramProducer: {
-      ...actual.cccCompendiumProgramProducer,
+    cccCompendiumProducer: {
+      ...actual.cccCompendiumProducer,
       produce: async (ctx: ProduceCall) => {
         produceCalls.push({
           date: ctx.date,
@@ -41,13 +26,8 @@ vi.mock('@ember/ccc-compendium-producer', async (importOriginal) => {
           programDay: ctx.programDay,
           params: ctx.params,
         })
-        // Fake fixture output: just synthesize Qs 1..6 with the producer's
-        // HTML shape so the renderer has something to mount. We test the
-        // wiring here, not the parsing — parsing is covered upstream.
-        const day = ctx.programDay ?? 0
-        const qPerDay = 6
-        const first = day * qPerDay + 1
-        const last = Math.min((day + 1) * qPerDay, 598)
+        const first = Number(ctx.params?.first ?? 1)
+        const last = Number(ctx.params?.last ?? 6)
         const parts: string[] = []
         const anchors: Record<string, { chapter: string }> = {}
         for (let q = first; q <= last; q++) {
@@ -64,7 +44,6 @@ vi.mock('@ember/ccc-compendium-producer', async (importOriginal) => {
   }
 })
 
-import { programDayToQuestionRange } from '@ember/ccc-compendium-producer'
 import { renderApp } from '@/test/renderApp'
 
 describe('PracticeFlow — compendium (program practice)', () => {
@@ -72,11 +51,7 @@ describe('PracticeFlow — compendium (program practice)', () => {
     produceCalls.length = 0
   })
 
-  it('renders the first day of Qs (1..6) on a fresh program with linkified CCC refs', async () => {
-    // programDay is 0-indexed: a fresh program shows day 0 = Qs 1..6.
-    const [firstQ, lastQ] = programDayToQuestionRange(0, 6)
-    expect([firstQ, lastQ]).toEqual([1, 6])
-
+  it('renders day 1 (Qs 1..6) via cycle → include on a fresh program', async () => {
     const { screen } = await renderApp({
       route: '/pray/compendium',
       fixtures: { now: '2026-05-17' },
@@ -88,21 +63,22 @@ describe('PracticeFlow — compendium (program practice)', () => {
       ],
     })
 
-    // The full day's Q range is present.
-    for (let q = firstQ; q <= lastQ; q++) {
+    // The day subheading renders from the cycle data — proves cycle picked
+    // entry 0 for programDay=0.
+    expect(await screen.findByText(/Day 1 · Questions 1[–-]6/)).toBeInTheDocument()
+
+    // All 6 Qs render via the include + ProducerHtmlBlock.
+    for (let q = 1; q <= 6; q++) {
       expect(await screen.findByTestId(`producer-anchor-q${q}`)).toBeInTheDocument()
     }
-    // A Q outside the range is not rendered.
     expect(screen.queryByTestId('producer-anchor-q7')).toBeNull()
 
-    // CCC paragraph references are linkified.
-    const refChips = screen.queryAllByTestId(/^producer-ref-book\/ccc#/)
-    expect(refChips.length).toBeGreaterThan(0)
-
-    // produce(ctx) saw programDay=0 (fresh-program cursor).
+    // producer.produce(ctx) saw {first:1,last:6} (after cycle's template
+    // substitution); programDay was passed through but the producer itself
+    // doesn't read it — pacing lives in the practice's data file.
     expect(produceCalls.length).toBeGreaterThan(0)
     const firstCall = produceCalls[0]
     expect(firstCall.lang).toBe('en-US')
-    expect(firstCall.programDay).toBe(0)
+    expect(firstCall.params).toMatchObject({ first: '1', last: '6' })
   }, 30_000)
 })

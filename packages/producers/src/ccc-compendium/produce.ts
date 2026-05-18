@@ -1,9 +1,4 @@
-import {
-  chapterForQuestion,
-  extractQuestion,
-  programDayToQuestionRange,
-  totalProgramDays,
-} from './extract'
+import { chapterForQuestion, extractQuestion, TOTAL_QUESTIONS } from './extract'
 import { fetchPage } from './fetchPage'
 import { parseChapter } from './parse'
 import type { ChapterId, Lang } from './types'
@@ -20,42 +15,44 @@ type ReaderResult = {
   anchors: Record<string, { chapter: string }>
 }
 
-const DEFAULT_Q_PER_DAY = 6
-
 function narrowLang(lang: string): Lang {
   return lang === 'pt-BR' ? 'pt-BR' : 'en-US'
 }
 
-function paramNumber(params: ProducerContext['params'], key: string, fallback: number): number {
+function requireQNum(params: ProducerContext['params'], key: string): number {
   const raw = params?.[key]
-  if (typeof raw === 'number' && Number.isInteger(raw) && raw > 0) return raw
-  if (typeof raw === 'string') {
-    const n = Number(raw)
-    if (Number.isInteger(n) && n > 0) return n
-  }
-  return fallback
+  const n = typeof raw === 'number' ? raw : typeof raw === 'string' ? Number(raw) : Number.NaN
+  if (!Number.isInteger(n) || n < 1 || n > TOTAL_QUESTIONS)
+    throw new Error(
+      `producer/ccc-compendium: param "${key}" must be 1..${TOTAL_QUESTIONS} (got ${String(raw)})`,
+    )
+  return n
 }
 
-export const cccCompendiumProgramProducer = {
-  id: 'producer/ccc-compendium-program',
+// "Give me the HTML for Compendium questions {first}..{last}." Program-shape
+// decisions (how the practice divides the 598 Qs across days) live in the
+// practice's flow + data; this producer is a pure content-fetch service.
+export const cccCompendiumProducer = {
+  id: 'producer/ccc-compendium',
   kind: 'reader' as const,
-  // Bump when produce()'s output shape changes in a way that invalidates
-  // previously-cached payloads (anchor scheme change, html cleanup change…).
+  // Bump when output shape changes in a way that invalidates previously
+  // cached payloads (anchor scheme change, html cleanup change…).
   version: '1',
   cacheKey: (ctx: ProducerContext) => {
-    const day = ctx.programDay ?? 0
-    const qPerDay = paramNumber(ctx.params, 'qPerDay', DEFAULT_Q_PER_DAY)
-    return `${day}@${qPerDay}`
+    const first = requireQNum(ctx.params, 'first')
+    const last = requireQNum(ctx.params, 'last')
+    return `${first}-${last}`
   },
   async produce(ctx: ProducerContext): Promise<ReaderResult> {
     const lang = narrowLang(ctx.lang)
-    const day = ctx.programDay ?? 0
-    const qPerDay = paramNumber(ctx.params, 'qPerDay', DEFAULT_Q_PER_DAY)
-    const [first, last] = programDayToQuestionRange(day, qPerDay)
+    const first = requireQNum(ctx.params, 'first')
+    const last = requireQNum(ctx.params, 'last')
+    if (first > last)
+      throw new Error(`producer/ccc-compendium: first (${first}) must be <= last (${last})`)
 
     const raw = await fetchPage(lang)
-    // Q ranges can span chapter boundaries (e.g. day 37 = Q217–Q222 straddles
-    // Part 1 → Part 2). Parse each chapter we touch exactly once.
+    // Q ranges can span chapter boundaries (e.g. Q217 closes Part 1, Q218
+    // opens Part 2). Parse each chapter we touch exactly once.
     const chaptersTouched = new Set<ChapterId>()
     for (let q = first; q <= last; q++) chaptersTouched.add(chapterForQuestion(q))
 
@@ -77,5 +74,3 @@ export const cccCompendiumProgramProducer = {
     return { html: parts.join('\n'), anchors }
   },
 }
-
-export { totalProgramDays }

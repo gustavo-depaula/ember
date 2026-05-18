@@ -12,7 +12,7 @@ import { parseChapter } from './parse'
 
 function loadFixture(slug: 'en' | 'pt'): string {
   return new TextDecoder('iso-8859-1').decode(
-    readFileSync(join(__dirname, '..', '__fixtures__', `${slug}.html`)),
+    readFileSync(join(__dirname, '__fixtures__', `${slug}.html`)),
   )
 }
 

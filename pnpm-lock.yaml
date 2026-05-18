@@ -42,9 +42,6 @@ importers:
 
   apps/app:
     dependencies:
-      '@ember/ccc-compendium-producer':
-        specifier: workspace:*
-        version: link:../../packages/ccc-compendium-producer
       '@ember/content-engine':
         specifier: workspace:*
         version: link:../../packages/content-engine
@@ -57,6 +54,9 @@ importers:
       '@ember/mass-propers':
         specifier: workspace:*
         version: link:../../packages/mass-propers
+      '@ember/producers':
+        specifier: workspace:*
+        version: link:../../packages/producers
       '@expo-google-fonts/cinzel':
         specifier: ^0.4.2
         version: 0.4.2
@@ -303,8 +303,6 @@ importers:
         specifier: ^6.0.0
         version: 6.4.2(@types/node@25.5.0)(lightningcss@1.32.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3)
 
-  packages/ccc-compendium-producer: {}
-
   packages/content-engine:
     dependencies:
       '@ember/liturgical':
@@ -330,6 +328,8 @@ importers:
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../liturgical
+
+  packages/producers: {}
 
 packages:
 

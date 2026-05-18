@@ -7,6 +7,21 @@
         "pt-BR": "Do Compêndio do Catecismo da Igreja Católica"
       }
     },
-    { "type": "include", "ref": "producer/ccc-compendium-program" }
+    {
+      "type": "cycle",
+      "data": "compendium-days",
+      "as": "template",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{title}}"
+        },
+        {
+          "type": "include",
+          "ref": "producer/ccc-compendium",
+          "params": { "first": "{{first}}", "last": "{{last}}" }
+        }
+      ]
+    }
   ]
 }

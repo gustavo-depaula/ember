@@ -26,8 +26,8 @@ describe('producer registry', () => {
     expect(getProducer(testReader.id)).toBeUndefined()
   })
 
-  it('built-in CCC Compendium program producer is pre-registered', () => {
-    const p = getProducer('producer/ccc-compendium-program')
+  it('built-in CCC Compendium producer is pre-registered', () => {
+    const p = getProducer('producer/ccc-compendium')
     expect(p).toBeDefined()
     expect(p?.kind).toBe('reader')
     expect(p?.version).toBeTruthy()

@@ -1,5 +1,5 @@
 {
-  "name": "@ember/ccc-compendium-producer",
+  "name": "@ember/producers",
   "version": "0.0.1",
   "private": true,
   "main": "src/index.ts",
