@@ -48,7 +48,7 @@ type PracticeManifest = {
 }
 type SessionEntry = {
   chapterId: string
-  plates: { plateId: string }[]
+  plateId: string
   compendiumEn: string
   compendiumPt: string
 }
@@ -83,10 +83,8 @@ describe('catechetical-formation — corpus integrity', () => {
 
     const missing: string[] = []
     for (const entry of sessionData.entries.default) {
-      for (const p of entry.plates) {
-        if (!knownPlates.has(p.plateId)) {
-          missing.push(`${entry.chapterId} → ${p.plateId}`)
-        }
+      if (entry.plateId && !knownPlates.has(entry.plateId)) {
+        missing.push(`${entry.chapterId} → ${entry.plateId}`)
       }
     }
     expect(
@@ -95,7 +93,7 @@ describe('catechetical-formation — corpus integrity', () => {
     ).toEqual([])
   })
 
-  it('every day has a non-empty Compendium markdown block in both languages, or no plate', () => {
+  it('every day has a non-empty Compendium markdown block in both languages, or a plate', () => {
     const catalog = loadCatalog()
     const practiceManifest = loadJsonBlob<PracticeManifest>(
       catalog.items['practice/catechetical-formation'].hash,
@@ -104,7 +102,7 @@ describe('catechetical-formation — corpus integrity', () => {
 
     const noRubricAndNoPlate: string[] = []
     for (const entry of sessionData.entries.default) {
-      const hasPlate = entry.plates.length > 0
+      const hasPlate = entry.plateId !== ''
       const hasRubric = entry.compendiumEn.trim().length > 0 && entry.compendiumPt.trim().length > 0
       if (!hasPlate && !hasRubric) {
         noRubricAndNoPlate.push(entry.chapterId)

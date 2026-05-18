@@ -7,23 +7,16 @@
 			"as": "template",
 			"sections": [
 				{
-					"type": "repeat",
-					"data": "plates",
-					"as": "plate",
-					"sections": [
-						{
-							"type": "prose",
-							"book": "catechism-in-pictures",
-							"chapter": "{{plateId}}",
-							"langPolicy": "active-language"
-						}
-					]
+					"type": "prose",
+					"book": "catechism-in-pictures",
+					"chapter": "{{plateId}}",
+					"langPolicy": "active-language"
 				},
 				{
 					"type": "rubric",
 					"text": {
-						"en-US": "{{compendium.en-US}}",
-						"pt-BR": "{{compendium.pt-BR}}"
+						"en-US": "{{compendiumEn}}",
+						"pt-BR": "{{compendiumPt}}"
 					}
 				}
 			]
