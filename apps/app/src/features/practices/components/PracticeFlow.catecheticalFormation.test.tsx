@@ -25,6 +25,8 @@ import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
+import { renderApp } from '@/test/renderApp'
+
 const REPO_ROOT = resolve(__dirname, '../../../../../..')
 const CATALOG_PATH = resolve(REPO_ROOT, '_site/hearth/v2/catalog.json')
 
@@ -55,8 +57,10 @@ type SessionEntry = {
 type SessionData = { entries: { default: SessionEntry[] } }
 
 function loadSessionData(practiceManifest: PracticeManifest): SessionData {
-  const data = (practiceManifest.dataHashes ?? []).find((d) => d.name === 'sessions.json')
-  if (!data) throw new Error('practice manifest is missing dataHashes[sessions.json]')
+  const data = (practiceManifest.dataHashes ?? []).find(
+    (d) => d.name === 'session-progression.json',
+  )
+  if (!data) throw new Error('practice manifest is missing dataHashes[session-progression.json]')
   return loadJsonBlob<SessionData>(data.hash)
 }
 
@@ -137,4 +141,33 @@ describe('catechetical-formation — corpus integrity', () => {
       `These chapterIds are referenced by the practice but missing from the formation book:\n  - ${missing.join('\n  - ')}`,
     ).toEqual([])
   })
+})
+
+describe('PracticeFlow — catechetical-formation (mount)', () => {
+  it('day 1 (Compendium-only) renders the Compendium rubric on screen', async () => {
+    const { screen } = await renderApp({
+      route: '/pray/practice/catechetical-formation',
+      fixtures: {
+        now: '2026-05-18',
+        enableSlotKeys: ['practice/catechetical-formation::1'],
+      },
+      routes: [
+        {
+          pattern: '/pray/[practiceId]',
+          loader: () => import('@/app/pray/[practiceId]'),
+        },
+      ],
+    })
+
+    // Day 1 is Compendium-only — plateId is "" and the prose section
+    // returns nothing. The rubric below it must still render with the
+    // day's authored markdown block. If the cycle's template substitution
+    // is dropping our string fields again, the screen comes back empty
+    // and the test fails.
+    expect(
+      await screen.findByText(/Compendium of the Catechism/i, undefined, {
+        timeout: 10_000,
+      }),
+    ).toBeInTheDocument()
+  }, 20_000)
 })

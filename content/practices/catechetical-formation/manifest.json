@@ -30,7 +30,7 @@
 		"completionBehavior": "offer-restart"
 	},
 	"data": {
-		"session-progression": "data/sessions.json"
+		"session-progression": "data/session-progression.json"
 	},
 	"flow": "flow.json",
 	"tags": [
