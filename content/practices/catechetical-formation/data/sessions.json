@@ -3,274 +3,801 @@
   "entries": {
     "default": [
       {
-        "chapterId": "session-001"
+        "chapterId": "day-01",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 1–5 — *Man's desire for God; knowledge of God by reason; how we speak of Him*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 1–5 — *O desejo de Deus no homem; o conhecimento de Deus pela razão; como falamos d'Ele*"
       },
       {
-        "chapterId": "session-002"
+        "chapterId": "day-02",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 6–10 — *God's self-revelation; the stages from Adam to Christ; private revelations*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 6–10 — *A autorrevelação de Deus; as etapas de Adão a Cristo; as revelações privadas*"
       },
       {
-        "chapterId": "session-003"
+        "chapterId": "day-03",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 11–17 — *Apostolic Tradition; the relationship of Scripture and Tradition; the deposit of faith; the Magisterium*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 11–17 — *A Tradição apostólica; relação entre Escritura e Tradição; o depósito da fé; o Magistério*"
       },
       {
-        "chapterId": "session-004"
+        "chapterId": "day-04",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 18–24 — *Inspiration and inerrancy; the canon; how to interpret; the Old and New Testaments; Scripture in the life of the Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 18–24 — *Inspiração e inerrância; o cânon; modos de interpretação; Antigo e Novo Testamento; a Escritura na vida da Igreja*"
       },
       {
-        "chapterId": "session-005"
+        "chapterId": "day-05",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 25–29 — *The obedience of faith; Abraham and Mary as witnesses; the characteristics of faith; faith and science*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 25–29 — *A obediência da fé; Abraão e Maria como testemunhas; as características da fé; fé e ciência*"
       },
       {
-        "chapterId": "session-006"
+        "chapterId": "day-06",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 30–35 — *The ecclesial nature of faith; the Apostles' and Nicene-Constantinopolitan Creeds*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 30–35 — *A natureza eclesial da fé; o Símbolo dos Apóstolos e o Niceno-Constantinopolitano*"
       },
       {
-        "chapterId": "session-007"
+        "chapterId": "day-07",
+        "plates": [
+          {
+            "plateId": "plate-01"
+          }
+        ],
+        "compendiumEn": "",
+        "compendiumPt": ""
       },
       {
-        "chapterId": "session-008"
-      },
-      {
-        "chapterId": "session-009"
-      },
-      {
-        "chapterId": "session-010"
-      },
-      {
-        "chapterId": "session-011"
-      },
-      {
-        "chapterId": "session-012"
-      },
-      {
-        "chapterId": "session-013"
-      },
-      {
-        "chapterId": "session-014"
-      },
-      {
-        "chapterId": "session-015"
-      },
-      {
-        "chapterId": "session-016"
-      },
-      {
-        "chapterId": "session-017"
-      },
-      {
-        "chapterId": "session-018"
-      },
-      {
-        "chapterId": "session-019"
-      },
-      {
-        "chapterId": "session-020"
-      },
-      {
-        "chapterId": "session-021"
-      },
-      {
-        "chapterId": "session-022"
-      },
-      {
-        "chapterId": "session-023"
-      },
-      {
-        "chapterId": "session-024"
-      },
-      {
-        "chapterId": "session-025"
-      },
-      {
-        "chapterId": "session-026"
-      },
-      {
-        "chapterId": "session-027"
-      },
-      {
-        "chapterId": "session-028"
-      },
-      {
-        "chapterId": "session-029"
-      },
-      {
-        "chapterId": "session-030"
-      },
-      {
-        "chapterId": "session-031"
-      },
-      {
-        "chapterId": "session-032"
-      },
-      {
-        "chapterId": "session-033"
-      },
-      {
-        "chapterId": "session-034"
-      },
-      {
-        "chapterId": "session-035"
-      },
-      {
-        "chapterId": "session-036"
-      },
-      {
-        "chapterId": "session-037"
-      },
-      {
-        "chapterId": "session-038"
-      },
-      {
-        "chapterId": "session-039"
-      },
-      {
-        "chapterId": "session-040"
-      },
-      {
-        "chapterId": "session-041"
-      },
-      {
-        "chapterId": "session-042"
-      },
-      {
-        "chapterId": "session-043"
-      },
-      {
-        "chapterId": "session-044"
-      },
-      {
-        "chapterId": "session-045"
-      },
-      {
-        "chapterId": "session-046"
-      },
-      {
-        "chapterId": "session-047"
-      },
-      {
-        "chapterId": "session-048"
-      },
+        "chapterId": "day-08",
+        "plates": [
+          {
+            "plateId": "plate-02"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 36–43 — *I believe in God; the Name and nature of God*\n- §§ 44–49 — *The Most Holy Trinity*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 36–43 — *Creio em Deus; o nome e a natureza de Deus*\n- §§ 44–49 — *A Santíssima Trindade*"
+      },
       {
-        "chapterId": "session-049"
+        "chapterId": "day-09",
+        "plates": [
+          {
+            "plateId": "plate-03"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 50–58 — *The Almighty Creator; Providence; the problem of evil*\n- §§ 59–65 — *Heaven and earth; the angels; man as the summit of visible creation*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 50–58 — *O Criador onipotente; a Providência; o problema do mal*\n- §§ 59–65 — *O céu e a terra; os anjos; o homem como cume da criação visível*"
+      },
+      {
+        "chapterId": "day-10",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 66–72 — *The image of God; unity of soul and body; man and woman; original condition*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 66–72 — *A imagem de Deus; unidade de alma e corpo; homem e mulher; condição original*"
+      },
+      {
+        "chapterId": "day-11",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 73–78 — *The reality of sin; the fall of the angels; the first sin; original sin and its consequences*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 73–78 — *A realidade do pecado; a queda dos anjos; o pecado dos primeiros pais; o pecado original e suas consequências*"
       },
-      {
-        "chapterId": "session-050"
-      },
-      {
-        "chapterId": "session-051"
-      },
-      {
-        "chapterId": "session-052"
-      },
-      {
-        "chapterId": "session-053"
-      },
-      {
-        "chapterId": "session-054"
-      },
-      {
-        "chapterId": "session-055"
-      },
-      {
-        "chapterId": "session-056"
-      },
-      {
-        "chapterId": "session-057"
-      },
-      {
-        "chapterId": "session-058"
-      },
-      {
-        "chapterId": "session-059"
-      },
-      {
-        "chapterId": "session-060"
-      },
-      {
-        "chapterId": "session-061"
-      },
-      {
-        "chapterId": "session-062"
-      },
-      {
-        "chapterId": "session-063"
-      },
-      {
-        "chapterId": "session-064"
-      },
-      {
-        "chapterId": "session-065"
-      },
-      {
-        "chapterId": "session-066"
-      },
-      {
-        "chapterId": "session-067"
-      },
-      {
-        "chapterId": "session-068"
-      },
-      {
-        "chapterId": "session-069"
-      },
-      {
-        "chapterId": "session-070"
-      },
-      {
-        "chapterId": "session-071"
-      },
-      {
-        "chapterId": "session-072"
-      },
-      {
-        "chapterId": "session-073"
-      },
-      {
-        "chapterId": "session-074"
-      },
-      {
-        "chapterId": "session-075"
-      },
-      {
-        "chapterId": "session-076"
-      },
-      {
-        "chapterId": "session-077"
-      },
-      {
-        "chapterId": "session-078"
-      },
-      {
-        "chapterId": "session-079"
-      },
-      {
-        "chapterId": "session-080"
-      },
-      {
-        "chapterId": "session-081"
-      },
-      {
-        "chapterId": "session-082"
-      },
-      {
-        "chapterId": "session-083"
-      },
-      {
-        "chapterId": "session-084"
-      },
-      {
-        "chapterId": "session-085"
-      },
-      {
-        "chapterId": "session-086"
-      },
-      {
-        "chapterId": "session-087"
-      },
-      {
-        "chapterId": "session-088"
-      },
-      {
-        "chapterId": "session-089"
-      },
-      {
-        "chapterId": "session-090"
+      {
+        "chapterId": "day-12",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 79–84 — *Jesus; Christ; Only-Begotten Son of God; Lord*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 79–84 — *Jesus; Cristo; Filho Unigênito de Deus; Senhor*"
+      },
+      {
+        "chapterId": "day-13",
+        "plates": [
+          {
+            "plateId": "plate-04-0"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 85–93 — *Why God became man; true God and true man; one Person in two natures*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 85–93 — *Por que Deus se fez homem; verdadeiro Deus e verdadeiro homem; uma só Pessoa em duas naturezas*"
+      },
+      {
+        "chapterId": "day-14",
+        "plates": [
+          {
+            "plateId": "plate-04-1"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 94–100 — *Conceived by the Holy Spirit; Mary as Mother of God, Immaculate, ever-Virgin, spiritual Mother*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 94–100 — *Concebido pelo Espírito Santo; Maria, Mãe de Deus, Imaculada, sempre Virgem, Mãe espiritual*"
+      },
+      {
+        "chapterId": "day-15",
+        "plates": [
+          {
+            "plateId": "plate-04-2"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 101–104 — *Christ as Revelation; the birth, infancy, and hidden life*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 101–104 — *Cristo como revelação; o nascimento, a infância e a vida oculta*"
+      },
+      {
+        "chapterId": "day-16",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 105–107 — *Christ's baptism, the temptations in the desert, the inauguration of the Kingdom*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 105–107 — *O batismo de Cristo, as tentações no deserto, a inauguração do Reino*"
+      },
+      {
+        "chapterId": "day-17",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 108–111 — *Miracles and signs; the apostles and their authority; the Transfiguration; the messianic entry into Jerusalem*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 108–111 — *Milagres e sinais; os apóstolos e sua autoridade; a Transfiguração; a entrada messiânica em Jerusalém*"
+      },
+      {
+        "chapterId": "day-18",
+        "plates": [
+          {
+            "plateId": "plate-05"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 112–119 — *The Paschal Mystery; Christ's trial; responsibility for His death; the Father's plan*\n- §§ 120–124 — *The Last Supper; Gethsemane; the fruits of Christ's sacrifice; the burial*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 112–119 — *O Mistério Pascal; o processo de Cristo; responsabilidade pela sua morte; o desígnio do Pai*\n- §§ 120–124 — *A Última Ceia; o Getsêmani; os frutos do sacrifício de Cristo; o sepultamento*"
+      },
+      {
+        "chapterId": "day-19",
+        "plates": [
+          {
+            "plateId": "plate-06"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 125 — *He descended into hell*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 125 — *Desceu aos infernos*"
+      },
+      {
+        "chapterId": "day-20",
+        "plates": [
+          {
+            "plateId": "plate-07"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 126–131 — *The centrality of the Resurrection; the evidence; the risen body; the Trinity at work; the saving meaning*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 126–131 — *Centralidade da Ressurreição; os testemunhos; o corpo ressuscitado; a Trindade em ação; o sentido salvífico*"
+      },
+      {
+        "chapterId": "day-21",
+        "plates": [
+          {
+            "plateId": "plate-08"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 132 — *Ascended into heaven*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 132 — *Subiu aos céus*"
+      },
+      {
+        "chapterId": "day-22",
+        "plates": [
+          {
+            "plateId": "plate-09"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 132–133 — *The reign of Christ now; \"He will come again in glory\"*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 132–133 — *O reinado atual de Cristo; \"Há de voltar com glória\"*"
+      },
+      {
+        "chapterId": "day-23",
+        "plates": [
+          {
+            "plateId": "plate-10"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 134–135 — *The judgment of the living and the dead*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 134–135 — *O juízo dos vivos e dos mortos*"
+      },
+      {
+        "chapterId": "day-24",
+        "plates": [
+          {
+            "plateId": "plate-11"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 136–140 — *Confessing the Holy Spirit; His names; His symbols*\n- §§ 141–146 — *The Spirit in salvation history; Pentecost; the Spirit's mission in the Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 136–140 — *Confessar o Espírito Santo; seus nomes; seus símbolos*\n- §§ 141–146 — *O Espírito na história da salvação; Pentecostes; a missão do Espírito na Igreja*"
+      },
+      {
+        "chapterId": "day-25",
+        "plates": [
+          {
+            "plateId": "plate-12"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 147–152 — *The Church in God's plan; biblical images; sacrament of salvation*\n- §§ 153–160 — *People of God, Body of Christ, Temple of the Spirit*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 147–152 — *A Igreja no desígnio de Deus; imagens bíblicas; sacramento da salvação*\n- §§ 153–160 — *Povo de Deus, Corpo de Cristo, Templo do Espírito*"
+      },
+      {
+        "chapterId": "day-26",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 161–165 — *Oneness, ecumenism, holiness*\n- §§ 166–172 — *Catholicity; particular Churches; the Church and other religions; \"outside the Church no salvation\"*\n- §§ 173–176 — *Apostolicity; the Pope and bishops; infallibility*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 161–165 — *Unidade, ecumenismo, santidade*\n- §§ 166–172 — *Catolicidade; Igrejas particulares; a Igreja e as demais religiões; \"fora da Igreja não há salvação\"*\n- §§ 173–176 — *Apostolicidade; o Papa e os bispos; a infalibilidade*"
+      },
+      {
+        "chapterId": "day-27",
+        "plates": [
+          {
+            "plateId": "plate-13"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 177–179 — *The communion of the faithful, of holy things, of the saints in heaven*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 177–179 — *A comunhão dos fiéis, das coisas santas, dos santos do céu*"
+      },
+      {
+        "chapterId": "day-28",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 180–181 — *Mary's role; the Assumption; eschatological icon of the Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 180–181 — *O papel de Maria; a Assunção; ícone escatológico da Igreja*"
+      },
+      {
+        "chapterId": "day-29",
+        "plates": [
+          {
+            "plateId": "plate-14"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 200–201 — *Forgiveness through the sacraments of Baptism and Penance*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 200–201 — *A remissão pelos sacramentos do Batismo e da Penitência*"
+      },
+      {
+        "chapterId": "day-30",
+        "plates": [
+          {
+            "plateId": "plate-15"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 202–205 — *The bodily resurrection of the dead*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 202–205 — *A ressurreição corpórea dos mortos*"
+      },
+      {
+        "chapterId": "day-31",
+        "plates": [
+          {
+            "plateId": "plate-16"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 207–209 — *The particular judgment; heaven and the Beatific Vision*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 207–209 — *O juízo particular; o céu e a visão beatífica*"
+      },
+      {
+        "chapterId": "day-32",
+        "plates": [
+          {
+            "plateId": "plate-17"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 210–213 — *Purgatory; hell; the final purification*\n- §§ 214–217 — *The final judgment; the renewal of all things; \"Amen\"*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 210–213 — *Purgatório; inferno; a purificação final*\n- §§ 214–217 — *O juízo final; a renovação de todas as coisas; o \"Amém\"*"
+      },
+      {
+        "chapterId": "day-33",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 218–223 — *The Paschal Mystery in the age of the Church; the liturgy as work of the Trinity*\n- §§ 224–232 — *The Father, Christ, and the Spirit in the liturgy; the seven sacraments*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 218–223 — *O Mistério Pascal no tempo da Igreja; a liturgia como obra da Trindade*\n- §§ 224–232 — *O Pai, Cristo e o Espírito na liturgia; os sete sacramentos*"
+      },
+      {
+        "chapterId": "day-34",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 233–240 — *Who celebrates? Signs, words, music, images*\n- §§ 241–249 — *When and where the liturgy is celebrated; the liturgical year; the Lord's Day*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 233–240 — *Quem celebra? Sinais, palavras, música, imagens*\n- §§ 241–249 — *Quando e onde a liturgia é celebrada; o ano litúrgico; o Dia do Senhor*"
+      },
+      {
+        "chapterId": "day-35",
+        "plates": [
+          {
+            "plateId": "plate-18"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 422–428 — *Justification, grace, merit, the call to holiness*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 422–428 — *A justificação, a graça, o mérito, o chamado à santidade*"
+      },
+      {
+        "chapterId": "day-36",
+        "plates": [
+          {
+            "plateId": "plate-19"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 250–256 — *Names, signs, prefigurations, institution by Christ, the rite*\n- §§ 257–264 — *Who can baptize; necessity; effects; infant baptism; the unbaptized*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 250–256 — *Nomes, sinais, prefigurações, instituição por Cristo, o rito*\n- §§ 257–264 — *Quem pode batizar; necessidade; efeitos; batismo das crianças; os não batizados*"
+      },
+      {
+        "chapterId": "day-37",
+        "plates": [
+          {
+            "plateId": "plate-21"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 265–270 — *Institution, signs, effects, minister, recipient*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 265–270 — *Instituição, sinais, efeitos, ministro, receptor*"
+      },
+      {
+        "chapterId": "day-38",
+        "plates": [
+          {
+            "plateId": "plate-20"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 271–275 — *What the Eucharist is; the names; the prefigurations; the institution*\n- §§ 276–282 — *The sacrifice; the Real Presence; transubstantiation*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 271–275 — *O que é a Eucaristia; os nomes; as prefigurações; a instituição*\n- §§ 276–282 — *O sacrifício; a Presença Real; a transubstanciação*"
+      },
+      {
+        "chapterId": "day-39",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 283–289 — *The structure of the Mass; the minister; necessary disposition*\n- §§ 290–294 — *Frequency, fruits, when one may not communicate; viaticum and the day-of-resurrection link*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 283–289 — *A estrutura da Missa; o ministro; a disposição necessária*\n- §§ 290–294 — *Frequência, frutos, quando não se pode comungar; o viático e a Páscoa eterna*"
+      },
+      {
+        "chapterId": "day-40",
+        "plates": [
+          {
+            "plateId": "plate-22"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 295–302 — *Names; institution by Christ; conversion of the baptized; the acts of the penitent*\n- §§ 303–312 — *Confession of sins; satisfaction; minister; effects; indulgences*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 295–302 — *Nomes; instituição por Cristo; conversão do batizado; os atos do penitente*\n- §§ 303–312 — *Confissão dos pecados; satisfação; ministro; efeitos; indulgências*"
+      },
+      {
+        "chapterId": "day-41",
+        "plates": [
+          {
+            "plateId": "plate-23"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 313–320 — *The sacrament of healing; minister; recipient; effects; viaticum*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 313–320 — *O sacramento da cura; ministro; receptor; efeitos; viático*"
+      },
+      {
+        "chapterId": "day-42",
+        "plates": [
+          {
+            "plateId": "plate-24"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 321–329 — *Apostolic succession; the three degrees of orders; bishop; priest; deacon*\n- §§ 330–336 — *Effects; minister; recipient; celibacy*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 321–329 — *A sucessão apostólica; os três graus da Ordem; bispo; sacerdote; diácono*\n- §§ 330–336 — *Efeitos; ministro; receptor; celibato*"
+      },
+      {
+        "chapterId": "day-43",
+        "plates": [
+          {
+            "plateId": "plate-25"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 337–344 — *Marriage in the order of creation and the new covenant; the rite; impediments*\n- §§ 345–350 — *Effects; love and fruitfulness; mixed marriage; divorce; the domestic Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 337–344 — *O matrimônio na ordem da criação e na nova aliança; o rito; impedimentos*\n- §§ 345–350 — *Efeitos; amor e fecundidade; matrimônio misto; divórcio; a Igreja doméstica*"
+      },
+      {
+        "chapterId": "day-44",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 351–353 — *Sacramentals and forms of popular piety*\n- §§ 354–356 — *Christian funerals*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 351–353 — *Sacramentais e formas de piedade popular*\n- §§ 354–356 — *As exéquias cristãs*"
+      },
+      {
+        "chapterId": "day-45",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 358–362 — *Image of God; vocation to beatitude; the Beatitudes*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 358–362 — *Imagem de Deus; vocação à bem-aventurança; as Bem-aventuranças*"
+      },
+      {
+        "chapterId": "day-46",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 363–366 — *Human freedom; responsibility; salvation as freedom restored*\n- §§ 367–371 — *The morality of the passions*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 363–366 — *A liberdade humana; a responsabilidade; a salvação como liberdade restaurada*\n- §§ 367–371 — *A moralidade das paixões*"
+      },
+      {
+        "chapterId": "day-47",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 372–376 — *The moral conscience; its formation; erroneous judgment*\n- §§ 377–378 — *Object, intention, circumstances of moral acts*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 372–376 — *A consciência moral; sua formação; o juízo errôneo*\n- §§ 377–378 — *Objeto, intenção, circunstâncias dos atos morais*"
+      },
+      {
+        "chapterId": "day-48",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 377–383 — *Human virtues; the four cardinal virtues*\n- §§ 384–390 — *Theological virtues; gifts and fruits of the Spirit*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 377–383 — *Virtudes humanas; as quatro virtudes cardeais*\n- §§ 384–390 — *Virtudes teologais; dons e frutos do Espírito*"
+      },
+      {
+        "chapterId": "day-49",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 391–400 — *Mortal and venial sin; the capital vices; complicity; structures of sin*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 391–400 — *Pecado mortal e venial; os vícios capitais; a cumplicidade; as estruturas de pecado*"
+      },
+      {
+        "chapterId": "day-50",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 401–407 — *The person and society; the family; the common good; subsidiarity*\n- §§ 408–414 — *Participation in social life; social justice; equality and solidarity*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 401–407 — *Pessoa e sociedade; a família; o bem comum; a subsidiariedade*\n- §§ 408–414 — *Participação na vida social; justiça social; igualdade e solidariedade*"
+      },
+      {
+        "chapterId": "day-51",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 415–421 — *Natural law; the Old Law; the New Law of the Gospel*\n- §§ 429–433 — *The Church as mother and teacher; the precepts of the Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 415–421 — *A lei natural; a Lei antiga; a Lei nova do Evangelho*\n- §§ 429–433 — *A Igreja Mãe e Mestra; os preceitos da Igreja*"
+      },
+      {
+        "chapterId": "day-52",
+        "plates": [
+          {
+            "plateId": "plate-26"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 434–441 — *The Ten Commandments — origin, unity, obligation*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 434–441 — *Os Dez Mandamentos — origem, unidade, obrigatoriedade*"
+      },
+      {
+        "chapterId": "day-53",
+        "plates": [
+          {
+            "plateId": "plate-27"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 442–446 — *I am the Lord your God; theological virtues; religious worship*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 442–446 — *Eu sou o Senhor teu Deus; virtudes teologais; culto religioso*"
+      },
+      {
+        "chapterId": "day-54",
+        "plates": [
+          {
+            "plateId": "plate-28"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 447–449 — *Veneration of relics, saints, images; sins against the first commandment*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 447–449 — *Veneração de relíquias, santos, imagens; pecados contra o primeiro mandamento*"
+      },
+      {
+        "chapterId": "day-55",
+        "plates": [
+          {
+            "plateId": "plate-29"
+          },
+          {
+            "plateId": "plate-30"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 450–452 — *Reverence for the Name of God; blasphemy*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 450–452 — *Reverência ao nome de Deus; blasfêmia*"
+      },
+      {
+        "chapterId": "day-56",
+        "plates": [
+          {
+            "plateId": "plate-31"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 453–454 — *Oaths and perjury*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 453–454 — *Juramentos e perjúrio*"
+      },
+      {
+        "chapterId": "day-57",
+        "plates": [
+          {
+            "plateId": "plate-32"
+          },
+          {
+            "plateId": "plate-33"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 450–454 — *The Sabbath and the Lord's Day; Sunday Mass; rest and acts of mercy*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 450–454 — *O sábado e o dia do Senhor; missa dominical; descanso e obras de misericórdia*"
+      },
+      {
+        "chapterId": "day-58",
+        "plates": [
+          {
+            "plateId": "plate-34"
+          },
+          {
+            "plateId": "plate-35"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 455–462 — *The family in God's plan; duties of children and parents*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 455–462 — *A família no plano de Deus; deveres dos filhos e dos pais*"
+      },
+      {
+        "chapterId": "day-59",
+        "plates": [
+          {
+            "plateId": "plate-36"
+          },
+          {
+            "plateId": "plate-37"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 463–465 — *Civil authorities; the citizen's duties and rights*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 463–465 — *As autoridades civis; deveres e direitos do cidadão*"
+      },
+      {
+        "chapterId": "day-60",
+        "plates": [
+          {
+            "plateId": "plate-38"
+          },
+          {
+            "plateId": "plate-39"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 466–472 — *Respect for life; murder; abortion; euthanasia; suicide*\n- §§ 473–478 — *Respect for the dignity of persons; scandal; bodily and spiritual health*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 466–472 — *Respeito à vida; homicídio; aborto; eutanásia; suicídio*\n- §§ 473–478 — *Respeito à dignidade das pessoas; escândalo; saúde corporal e espiritual*"
+      },
+      {
+        "chapterId": "day-61",
+        "plates": [
+          {
+            "plateId": "plate-40"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 479–486 — *Peace and just war; legitimate defense; the death penalty*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 479–486 — *Paz e guerra justa; legítima defesa; pena de morte*"
+      },
+      {
+        "chapterId": "day-62",
+        "plates": [
+          {
+            "plateId": "plate-41"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 487–494 — *Chastity, modesty, the meaning of sexuality*\n- §§ 495–502 — *Conjugal love; offenses against chastity; offenses against the dignity of marriage*\n- §§ 528–530 — *Ninth commandment — purity of heart*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 487–494 — *Castidade, pudor, sentido da sexualidade*\n- §§ 495–502 — *Amor conjugal; ofensas contra a castidade; ofensas contra a dignidade do matrimônio*\n- §§ 528–530 — *Nono mandamento — pureza do coração*"
+      },
+      {
+        "chapterId": "day-63",
+        "plates": [
+          {
+            "plateId": "plate-42"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 503–510 — *Universal destination and private property; theft and restitution; commutative justice*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 503–510 — *Destinação universal e propriedade privada; furto e restituição; justiça comutativa*"
+      },
+      {
+        "chapterId": "day-64",
+        "plates": [
+          {
+            "plateId": "plate-43"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 511–520 — *Work; the economic order; the just wage; international justice; the love of the poor*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 511–520 — *O trabalho; a ordem econômica; o salário justo; justiça internacional; o amor pelos pobres*"
+      },
+      {
+        "chapterId": "day-65",
+        "plates": [
+          {
+            "plateId": "plate-44"
+          },
+          {
+            "plateId": "plate-45"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 521–523 — *Truth and witness; the martyr; offenses against truth*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 521–523 — *Verdade e testemunho; o mártir; pecados contra a verdade*"
+      },
+      {
+        "chapterId": "day-66",
+        "plates": [
+          {
+            "plateId": "plate-46"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 524–525 — *Reputation; the seal of confession; truth and the media*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 524–525 — *Reputação; sigilo sacramental; verdade e meios de comunicação*"
+      },
+      {
+        "chapterId": "day-67",
+        "plates": [
+          {
+            "plateId": "plate-47"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 526–527 — *Truth, beauty, sacred art*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 526–527 — *Verdade, beleza, arte sagrada*"
+      },
+      {
+        "chapterId": "day-68",
+        "plates": [
+          {
+            "plateId": "plate-48"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 531–533 — *Coveting; detachment; \"desire for happiness\"*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 531–533 — *A cobiça; o desprendimento; o \"desejo da felicidade\"*"
+      },
+      {
+        "chapterId": "day-69",
+        "plates": [
+          {
+            "plateId": "plate-49"
+          },
+          {
+            "plateId": "plate-50"
+          },
+          {
+            "plateId": "plate-51"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 432 — *The five precepts of the Church*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 432 — *Os cinco preceitos da Igreja*"
+      },
+      {
+        "chapterId": "day-70",
+        "plates": [
+          {
+            "plateId": "plate-55"
+          }
+        ],
+        "compendiumEn": "",
+        "compendiumPt": ""
+      },
+      {
+        "chapterId": "day-71",
+        "plates": [
+          {
+            "plateId": "plate-56"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 206–207 — *Death and Christian hope*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 206–207 — *A morte e a esperança cristã*"
+      },
+      {
+        "chapterId": "day-72",
+        "plates": [
+          {
+            "plateId": "plate-57"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 208 — *The particular judgment*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 208 — *O juízo particular*"
+      },
+      {
+        "chapterId": "day-73",
+        "plates": [
+          {
+            "plateId": "plate-58"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 76–78 — *The consequences of original sin in daily life; the promise of a Redeemer*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 76–78 — *Consequências do pecado original na vida cotidiana; a promessa de um Redentor*"
+      },
+      {
+        "chapterId": "day-74",
+        "plates": [
+          {
+            "plateId": "plate-59"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 398 — *The capital sins*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 398 — *Os pecados capitais*"
+      },
+      {
+        "chapterId": "day-75",
+        "plates": [
+          {
+            "plateId": "plate-60"
+          },
+          {
+            "plateId": "plate-61"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 398 — *The capital sins (continued)*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 398 — *Os pecados capitais (continuação)*"
+      },
+      {
+        "chapterId": "day-76",
+        "plates": [
+          {
+            "plateId": "plate-62"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 384–388 — *The theological virtues*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 384–388 — *As virtudes teologais*"
+      },
+      {
+        "chapterId": "day-77",
+        "plates": [
+          {
+            "plateId": "plate-63"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 379–383 — *Human virtues and the four cardinal virtues*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 379–383 — *Virtudes humanas e as quatro virtudes cardeais*"
+      },
+      {
+        "chapterId": "day-78",
+        "plates": [
+          {
+            "plateId": "plate-64"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 389–391 — *The evangelical counsels and consecrated life*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 389–391 — *Os conselhos evangélicos e a vida consagrada*"
+      },
+      {
+        "chapterId": "day-79",
+        "plates": [
+          {
+            "plateId": "plate-65"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 420–421 — *The works of mercy and acts of love of neighbor*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 420–421 — *As obras de misericórdia e os atos de amor ao próximo*"
+      },
+      {
+        "chapterId": "day-80",
+        "plates": [
+          {
+            "plateId": "plate-66"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 420–421 — *The works of mercy (continued)*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 420–421 — *As obras de misericórdia (continuação)*"
+      },
+      {
+        "chapterId": "day-81",
+        "plates": [
+          {
+            "plateId": "plate-52"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 534–540 — *Prayer revealed; the gift; the patriarchs; Moses and David; the psalms*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 534–540 — *A oração revelada; o dom; os patriarcas; Moisés e Davi; os salmos*"
+      },
+      {
+        "chapterId": "day-82",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 541–547 — *Christ at prayer; the Our Father; prayer of Mary; prayer in the apostolic age*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 541–547 — *Cristo em oração; o Pai-Nosso; a oração de Maria; a oração na era apostólica*"
+      },
+      {
+        "chapterId": "day-83",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 548–555 — *Wellsprings (Word, liturgy, virtues, providence); to whom we pray; guides and saints*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 548–555 — *As fontes (Palavra, liturgia, virtudes, providência); a quem rezamos; guias e santos*"
+      },
+      {
+        "chapterId": "day-84",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 556–565 — *Vocal prayer, meditation, contemplation; family and ecclesial prayer; prayer at the canonical hours*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 556–565 — *Oração vocal, meditação, contemplação; oração em família e na Igreja; oração nas horas canônicas*"
+      },
+      {
+        "chapterId": "day-85",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 566–572 — *Distractions, dryness, discouragement; persevering in love; the hour of Jesus*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 566–572 — *Distrações, secura, desânimo; perseverança no amor; a hora de Jesus*"
+      },
+      {
+        "chapterId": "day-86",
+        "plates": [
+          {
+            "plateId": "plate-53"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 578–583 — *The Lord's Prayer as a whole; \"Our Father\"; \"who art in heaven\"*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 578–583 — *A oração do Senhor como um todo; \"Pai nosso\"; \"que estais nos céus\"*"
+      },
+      {
+        "chapterId": "day-87",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 584–587 — *Hallowed be Thy Name; Thy Kingdom come; Thy will be done*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 584–587 — *Santificado seja o vosso Nome; venha a nós o vosso Reino; seja feita a vossa vontade*"
+      },
+      {
+        "chapterId": "day-88",
+        "plates": [],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- §§ 588–597 — *Daily bread; forgive us; lead us not into temptation; deliver us from evil*\n- § 598 — *Amen*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- §§ 588–597 — *Pão de cada dia; perdoai-nos; não nos deixeis cair em tentação; livrai-nos do mal*\n- § 598 — *Amém*"
+      },
+      {
+        "chapterId": "day-89",
+        "plates": [
+          {
+            "plateId": "plate-54"
+          }
+        ],
+        "compendiumEn": "## Going deeper — *Compendium of the Catechism*\n\n- § 562 — *Marian prayer in the Christian life*",
+        "compendiumPt": "## Aprofundamento — *Compêndio do Catecismo*\n\n- § 562 — *A oração mariana na vida cristã*"
       }
     ]
   }
