@@ -90,3 +90,18 @@ CREATE TABLE IF NOT EXISTS creator_meta (
   image_url  TEXT,
   updated_at INTEGER NOT NULL
 );
+
+-- external_content: persistent cache of producer outputs (CCC chapters,
+-- breviary, etc.). Composite key matches Producer.cacheKey + version. Pinned
+-- rows survive cache eviction. `payload_json` holds the full ProducerResult.
+CREATE TABLE IF NOT EXISTS external_content (
+  producer_id      TEXT NOT NULL,
+  producer_version TEXT NOT NULL,
+  lang             TEXT NOT NULL,
+  cache_key        TEXT NOT NULL,
+  params_key       TEXT NOT NULL,
+  payload_json     TEXT NOT NULL,
+  fetched_at       INTEGER NOT NULL,
+  pinned           INTEGER NOT NULL DEFAULT 0,
+  PRIMARY KEY (producer_id, producer_version, lang, cache_key, params_key)
+);

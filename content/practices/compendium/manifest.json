@@ -1,0 +1,34 @@
+{
+  "id": "compendium",
+  "icon": "book",
+  "name": {
+    "en-US": "Compendium of the Catechism",
+    "pt-BR": "Compêndio do Catecismo"
+  },
+  "categories": ["formation"],
+  "estimatedMinutes": 5,
+  "description": {
+    "en-US": "Read the entire Compendium of the Catechism of the Catholic Church — 598 questions and answers — at your own pace over 100 days.",
+    "pt-BR": "Leia todo o Compêndio do Catecismo da Igreja Católica — 598 perguntas e respostas — no seu próprio ritmo ao longo de 100 dias."
+  },
+  "history": {
+    "en-US": "The Compendium was promulgated by Pope Benedict XVI on 28 June 2005, prepared by a commission of cardinals over which he had presided before his election. It distills the full Catechism into 598 questions and answers, intended as a vademecum allowing believers and non-believers alike to behold the panorama of the Catholic faith.",
+    "pt-BR": "O Compêndio foi promulgado pelo Papa Bento XVI em 28 de junho de 2005, preparado por uma comissão de cardeais que ele presidiu antes de sua eleição. Sintetiza o Catecismo completo em 598 perguntas e respostas, destinado a ser um vade-mécum que permite a crentes e não-crentes contemplar o panorama da fé católica."
+  },
+  "howToPray": {
+    "en-US": "Read today's questions slowly. Return to a phrase that strikes you. The CCC paragraph references at the top of each question point into the full Catechism for deeper study. Mark complete when you're done; tomorrow you'll see the next set.",
+    "pt-BR": "Leia as perguntas de hoje com calma. Retorne a uma frase que lhe tocar. As referências aos parágrafos do CIC no topo de cada pergunta apontam para o Catecismo completo para aprofundamento. Marque como concluído quando terminar; amanhã verá o próximo conjunto."
+  },
+  "program": {
+    "totalDays": 100,
+    "progressPolicy": "wait",
+    "completionBehavior": "offer-restart"
+  },
+  "data": {
+    "compendium-days": "data/days.json"
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": ["formation", "catechism", "compendium"]
+}

@@ -54,6 +54,9 @@ importers:
       '@ember/mass-propers':
         specifier: workspace:*
         version: link:../../packages/mass-propers
+      '@ember/producers':
+        specifier: workspace:*
+        version: link:../../packages/producers
       '@expo-google-fonts/cinzel':
         specifier: ^0.4.2
         version: 0.4.2
@@ -325,6 +328,8 @@ importers:
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../liturgical
+
+  packages/producers: {}
 
 packages:
 

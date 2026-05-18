@@ -1,0 +1,84 @@
+// Stubs the producer at the package boundary so we exercise the full include
+// pipeline (cycle → resolver → registry → SQLite cache → ProducerHtmlBlock)
+// without the network.
+
+import { beforeEach, describe, expect, it, vi } from 'vitest'
+
+type ProduceCall = {
+  date: Date
+  lang: string
+  programDay?: number
+  params?: Record<string, unknown>
+}
+
+const produceCalls: ProduceCall[] = []
+
+vi.mock('@ember/producers', async (importOriginal) => {
+  const actual = (await importOriginal()) as typeof import('@ember/producers')
+  return {
+    ...actual,
+    cccCompendiumProducer: {
+      ...actual.cccCompendiumProducer,
+      produce: async (ctx: ProduceCall) => {
+        produceCalls.push({
+          date: ctx.date,
+          lang: ctx.lang,
+          programDay: ctx.programDay,
+          params: ctx.params,
+        })
+        const first = Number(ctx.params?.first ?? 1)
+        const last = Number(ctx.params?.last ?? 6)
+        const parts: string[] = []
+        const anchors: Record<string, { chapter: string }> = {}
+        for (let q = first; q <= last; q++) {
+          parts.push(
+            `<p id="q${q}"><b>${q}. Question ${q}?</b></p>` +
+              `<p class="ccc-refs"><a data-ref="book/ccc#${q}">${q}</a></p>` +
+              `<p>Answer ${q}.</p>`,
+          )
+          anchors[String(q)] = { chapter: 'part-1' }
+        }
+        return { html: parts.join('\n'), anchors }
+      },
+    },
+  }
+})
+
+import { renderApp } from '@/test/renderApp'
+
+describe('PracticeFlow — compendium (program practice)', () => {
+  beforeEach(() => {
+    produceCalls.length = 0
+  })
+
+  it('renders day 1 (Qs 1..6) via cycle → include on a fresh program', async () => {
+    const { screen } = await renderApp({
+      route: '/pray/compendium',
+      fixtures: { now: '2026-05-17' },
+      routes: [
+        {
+          pattern: '/pray/[practiceId]',
+          loader: () => import('@/app/pray/[practiceId]'),
+        },
+      ],
+    })
+
+    // The day subheading renders from the cycle data — proves cycle picked
+    // entry 0 for programDay=0.
+    expect(await screen.findByText(/Day 1 · Questions 1[–-]6/)).toBeInTheDocument()
+
+    // All 6 Qs render via the include + ProducerHtmlBlock.
+    for (let q = 1; q <= 6; q++) {
+      expect(await screen.findByTestId(`producer-anchor-q${q}`)).toBeInTheDocument()
+    }
+    expect(screen.queryByTestId('producer-anchor-q7')).toBeNull()
+
+    // producer.produce(ctx) saw {first:1,last:6} (after cycle's template
+    // substitution); programDay was passed through but the producer itself
+    // doesn't read it — pacing lives in the practice's data file.
+    expect(produceCalls.length).toBeGreaterThan(0)
+    const firstCall = produceCalls[0]
+    expect(firstCall.lang).toBe('en-US')
+    expect(firstCall.params).toMatchObject({ first: '1', last: '6' })
+  }, 30_000)
+})
