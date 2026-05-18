@@ -90,37 +90,29 @@ function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedS
   }
 }
 
-type ProducerCall = { ref: string; params: Record<string, unknown>; key: string }
+type DynamicResources = ResourceMap<CachedProducerResult>
 
-type DynamicResources = {
-  producers: ResourceMap<CachedProducerResult>
-  translation: string
+// A producer call has two keys that are deliberately distinct:
+// - `id`  identifies the flow section in the renderer ("which bible chapter,
+//         which psalmody slot list"). Translation-free, because the renderer
+//         only knows the section data — not user preferences.
+// - `ref` + `params` define the fetch. Translation lives in `params`, which
+//         feeds the producer's cacheKey + React Query's queryKey — so
+//         changing translation triggers a refetch without translation
+//         leaking into the renderer's lookup path.
+type ProducerCall = { id: string; ref: string; params: Record<string, unknown> }
+
+function readingId(ref: ReadingReference): string {
+  return ref.type === 'bible'
+    ? `reading:bible:${ref.book}:${ref.chapter}`
+    : `reading:ccc:${ref.startParagraph}:${ref.count}`
 }
 
-// Maps a flow primitive (reading, psalmody) to the producer call that fetches
-// its content. The renderer reuses these helpers to compute the lookup key,
-// guaranteeing the prefetch list and the lookup never drift apart.
-function readingProducerCall(ref: ReadingReference, translation: string): {
-  ref: string
-  params: Record<string, unknown>
-} {
-  if (ref.type === 'bible') {
-    return {
-      ref: 'producer/bible-chapter',
-      params: { translation, book: ref.book, chapter: ref.chapter },
-    }
-  }
-  return {
-    ref: 'producer/ccc-chapter',
-    params: { start: ref.startParagraph, count: ref.count },
-  }
-}
-
-function psalmodyProducerCall(psalms: PsalmRef[], translation: string): {
-  ref: string
-  params: Record<string, unknown>
-} {
-  return { ref: 'producer/psalmody', params: { translation, psalms } }
+function psalmodyId(psalms: PsalmRef[]): string {
+  const tokens = psalms.map((r) =>
+    r.verseRange ? `${r.psalm}:${r.verseRange[0]}-${r.verseRange[1]}` : String(r.psalm),
+  )
+  return `psalmody:${tokens.join(',')}`
 }
 
 function collectProducerCalls(
@@ -128,18 +120,32 @@ function collectProducerCalls(
   translation: string,
 ): ProducerCall[] {
   const seen = new Map<string, ProducerCall>()
-  const add = (ref: string, params: Record<string, unknown>) => {
-    const key = includeKeyFor(ref, params)
-    if (!seen.has(key)) seen.set(key, { ref, params, key })
+  const add = (call: ProducerCall) => {
+    if (!seen.has(call.id)) seen.set(call.id, call)
   }
   for (const s of walkRenderedSections(sections)) {
-    if (s.type === 'include') add(s.ref, s.params ?? {})
-    else if (s.type === 'reading') {
-      const call = readingProducerCall(s.reference, translation)
-      add(call.ref, call.params)
+    if (s.type === 'include') {
+      add({ id: includeKeyFor(s.ref, s.params), ref: s.ref, params: s.params ?? {} })
+    } else if (s.type === 'reading') {
+      const ref = s.reference
+      if (ref.type === 'bible')
+        add({
+          id: readingId(ref),
+          ref: 'producer/bible-chapter',
+          params: { translation, book: ref.book, chapter: ref.chapter },
+        })
+      else
+        add({
+          id: readingId(ref),
+          ref: 'producer/ccc-chapter',
+          params: { start: ref.startParagraph, count: ref.count },
+        })
     } else if (s.type === 'psalmody' && s.psalms.length > 0) {
-      const call = psalmodyProducerCall(s.psalms, translation)
-      add(call.ref, call.params)
+      add({
+        id: psalmodyId(s.psalms),
+        ref: 'producer/psalmody',
+        params: { translation, psalms: s.psalms },
+      })
     }
   }
   return Array.from(seen.values())
@@ -327,9 +333,9 @@ export function PracticeFlow({
     [sections, translation],
   )
 
-  const producersData = useResourceQueries(
+  const dynamic = useResourceQueries(
     producerCalls,
-    (c) => c.key,
+    (c) => c.id,
     (c) => {
       const producer = getProducer(c.ref)
       const ctx = { date: now, lang: contentLanguage, programDay, params: c.params }
@@ -340,7 +346,7 @@ export function PracticeFlow({
           producer?.version ?? '?',
           contentLanguage,
           producer?.cacheKey(ctx) ?? '',
-          c.key,
+          c.id,
         ] as const,
         queryFn: async () => {
           if (!producer) throw new Error(`Unknown producer: ${c.ref}`)
@@ -351,14 +357,9 @@ export function PracticeFlow({
     },
   )
 
-  const dynamic: DynamicResources = useMemo(
-    () => ({ producers: producersData, translation }),
-    [producersData, translation],
-  )
-
   const isInitialResolve = isResolvingFlow && sections.length === 0
   const isDynamicLoading =
-    isInitialResolve || (producerCalls.length > 0 && producersData.isLoading)
+    isInitialResolve || (producerCalls.length > 0 && dynamic.isLoading)
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -581,10 +582,9 @@ function PracticeSectionBlock({
 
     case 'psalmody': {
       if (section.psalms.length === 0) return undefined
-      const call = psalmodyProducerCall(section.psalms, dynamic.translation)
-      const key = includeKeyFor(call.ref, call.params)
-      const cached = dynamic.producers.data.get(key)
-      const retry = dynamic.producers.retry.get(key)
+      const id = psalmodyId(section.psalms)
+      const cached = dynamic.data.get(id)
+      const retry = dynamic.retry.get(id)
       if (!cached && retry) return <InlineRetry onRetry={retry} />
       const result = cached?.payload as { data: PsalmodySlot[] } | undefined
       const slots: PsalmSlot[] = result?.data
@@ -595,10 +595,9 @@ function PracticeSectionBlock({
 
     case 'reading': {
       const ref = section.reference
-      const call = readingProducerCall(ref, dynamic.translation)
-      const key = includeKeyFor(call.ref, call.params)
-      const cached = dynamic.producers.data.get(key)
-      const retry = dynamic.producers.retry.get(key)
+      const id = readingId(ref)
+      const cached = dynamic.data.get(id)
+      const retry = dynamic.retry.get(id)
       if (!cached && retry) return <InlineRetry onRetry={retry} />
       if (ref.type === 'bible') {
         const result = cached?.payload as { data: ChapterResult } | undefined
@@ -615,13 +614,13 @@ function PracticeSectionBlock({
     }
 
     case 'include': {
-      const key = includeKeyFor(section.ref, section.params)
-      const cached = dynamic.producers.data.get(key)
+      const id = includeKeyFor(section.ref, section.params)
+      const cached = dynamic.data.get(id)
       return (
         <IncludeBlock
           ref={section.ref}
           data={cached?.payload}
-          retry={dynamic.producers.retry.get(key)}
+          retry={dynamic.retry.get(id)}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}
