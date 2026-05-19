@@ -1,277 +1,592 @@
 {
-  "indexBy": "program-day",
-  "entries": {
-    "default": [
-      {
-        "chapterId": "session-001"
-      },
-      {
-        "chapterId": "session-002"
-      },
-      {
-        "chapterId": "session-003"
-      },
-      {
-        "chapterId": "session-004"
-      },
-      {
-        "chapterId": "session-005"
-      },
-      {
-        "chapterId": "session-006"
-      },
-      {
-        "chapterId": "session-007"
-      },
-      {
-        "chapterId": "session-008"
-      },
-      {
-        "chapterId": "session-009"
-      },
-      {
-        "chapterId": "session-010"
-      },
-      {
-        "chapterId": "session-011"
-      },
-      {
-        "chapterId": "session-012"
-      },
-      {
-        "chapterId": "session-013"
-      },
-      {
-        "chapterId": "session-014"
-      },
-      {
-        "chapterId": "session-015"
-      },
-      {
-        "chapterId": "session-016"
-      },
-      {
-        "chapterId": "session-017"
-      },
-      {
-        "chapterId": "session-018"
-      },
-      {
-        "chapterId": "session-019"
-      },
-      {
-        "chapterId": "session-020"
-      },
-      {
-        "chapterId": "session-021"
-      },
-      {
-        "chapterId": "session-022"
-      },
-      {
-        "chapterId": "session-023"
-      },
-      {
-        "chapterId": "session-024"
-      },
-      {
-        "chapterId": "session-025"
-      },
-      {
-        "chapterId": "session-026"
-      },
-      {
-        "chapterId": "session-027"
-      },
-      {
-        "chapterId": "session-028"
-      },
-      {
-        "chapterId": "session-029"
-      },
-      {
-        "chapterId": "session-030"
-      },
-      {
-        "chapterId": "session-031"
-      },
-      {
-        "chapterId": "session-032"
-      },
-      {
-        "chapterId": "session-033"
-      },
-      {
-        "chapterId": "session-034"
-      },
-      {
-        "chapterId": "session-035"
-      },
-      {
-        "chapterId": "session-036"
-      },
-      {
-        "chapterId": "session-037"
-      },
-      {
-        "chapterId": "session-038"
-      },
-      {
-        "chapterId": "session-039"
-      },
-      {
-        "chapterId": "session-040"
-      },
-      {
-        "chapterId": "session-041"
-      },
-      {
-        "chapterId": "session-042"
-      },
-      {
-        "chapterId": "session-043"
-      },
-      {
-        "chapterId": "session-044"
-      },
-      {
-        "chapterId": "session-045"
-      },
-      {
-        "chapterId": "session-046"
-      },
-      {
-        "chapterId": "session-047"
-      },
-      {
-        "chapterId": "session-048"
-      },
-      {
-        "chapterId": "session-049"
-      },
-      {
-        "chapterId": "session-050"
-      },
-      {
-        "chapterId": "session-051"
-      },
-      {
-        "chapterId": "session-052"
-      },
-      {
-        "chapterId": "session-053"
-      },
-      {
-        "chapterId": "session-054"
-      },
-      {
-        "chapterId": "session-055"
-      },
-      {
-        "chapterId": "session-056"
-      },
-      {
-        "chapterId": "session-057"
-      },
-      {
-        "chapterId": "session-058"
-      },
-      {
-        "chapterId": "session-059"
-      },
-      {
-        "chapterId": "session-060"
-      },
-      {
-        "chapterId": "session-061"
-      },
-      {
-        "chapterId": "session-062"
-      },
-      {
-        "chapterId": "session-063"
-      },
-      {
-        "chapterId": "session-064"
-      },
-      {
-        "chapterId": "session-065"
-      },
-      {
-        "chapterId": "session-066"
-      },
-      {
-        "chapterId": "session-067"
-      },
-      {
-        "chapterId": "session-068"
-      },
-      {
-        "chapterId": "session-069"
-      },
-      {
-        "chapterId": "session-070"
-      },
-      {
-        "chapterId": "session-071"
-      },
-      {
-        "chapterId": "session-072"
-      },
-      {
-        "chapterId": "session-073"
-      },
-      {
-        "chapterId": "session-074"
-      },
-      {
-        "chapterId": "session-075"
-      },
-      {
-        "chapterId": "session-076"
-      },
-      {
-        "chapterId": "session-077"
-      },
-      {
-        "chapterId": "session-078"
-      },
-      {
-        "chapterId": "session-079"
-      },
-      {
-        "chapterId": "session-080"
-      },
-      {
-        "chapterId": "session-081"
-      },
-      {
-        "chapterId": "session-082"
-      },
-      {
-        "chapterId": "session-083"
-      },
-      {
-        "chapterId": "session-084"
-      },
-      {
-        "chapterId": "session-085"
-      },
-      {
-        "chapterId": "session-086"
-      },
-      {
-        "chapterId": "session-087"
-      },
-      {
-        "chapterId": "session-088"
-      },
-      {
-        "chapterId": "session-089"
-      },
-      {
-        "chapterId": "session-090"
-      }
-    ]
-  }
+	"indexBy": "program-day",
+	"entries": {
+		"default": [
+			{
+				"chapterId": "lesson-001"
+			},
+			{
+				"chapterId": "lesson-002"
+			},
+			{
+				"chapterId": "lesson-003"
+			},
+			{
+				"chapterId": "lesson-004"
+			},
+			{
+				"chapterId": "lesson-005"
+			},
+			{
+				"chapterId": "lesson-006"
+			},
+			{
+				"chapterId": "lesson-007"
+			},
+			{
+				"chapterId": "lesson-008"
+			},
+			{
+				"chapterId": "lesson-009"
+			},
+			{
+				"chapterId": "lesson-010"
+			},
+			{
+				"chapterId": "lesson-011"
+			},
+			{
+				"chapterId": "lesson-012"
+			},
+			{
+				"chapterId": "lesson-013"
+			},
+			{
+				"chapterId": "lesson-014"
+			},
+			{
+				"chapterId": "lesson-015"
+			},
+			{
+				"chapterId": "lesson-016"
+			},
+			{
+				"chapterId": "lesson-017"
+			},
+			{
+				"chapterId": "lesson-018"
+			},
+			{
+				"chapterId": "lesson-019"
+			},
+			{
+				"chapterId": "lesson-020"
+			},
+			{
+				"chapterId": "lesson-021"
+			},
+			{
+				"chapterId": "lesson-022"
+			},
+			{
+				"chapterId": "lesson-023"
+			},
+			{
+				"chapterId": "lesson-024"
+			},
+			{
+				"chapterId": "lesson-025"
+			},
+			{
+				"chapterId": "lesson-026"
+			},
+			{
+				"chapterId": "lesson-027"
+			},
+			{
+				"chapterId": "lesson-028"
+			},
+			{
+				"chapterId": "lesson-029"
+			},
+			{
+				"chapterId": "lesson-030"
+			},
+			{
+				"chapterId": "lesson-031"
+			},
+			{
+				"chapterId": "lesson-032"
+			},
+			{
+				"chapterId": "lesson-033"
+			},
+			{
+				"chapterId": "lesson-034"
+			},
+			{
+				"chapterId": "lesson-035"
+			},
+			{
+				"chapterId": "lesson-036"
+			},
+			{
+				"chapterId": "lesson-037"
+			},
+			{
+				"chapterId": "lesson-038"
+			},
+			{
+				"chapterId": "lesson-039"
+			},
+			{
+				"chapterId": "lesson-040"
+			},
+			{
+				"chapterId": "lesson-041"
+			},
+			{
+				"chapterId": "lesson-042"
+			},
+			{
+				"chapterId": "lesson-043"
+			},
+			{
+				"chapterId": "lesson-044"
+			},
+			{
+				"chapterId": "lesson-045"
+			},
+			{
+				"chapterId": "lesson-046"
+			},
+			{
+				"chapterId": "lesson-047"
+			},
+			{
+				"chapterId": "lesson-048"
+			},
+			{
+				"chapterId": "lesson-049"
+			},
+			{
+				"chapterId": "lesson-050"
+			},
+			{
+				"chapterId": "lesson-051"
+			},
+			{
+				"chapterId": "lesson-052"
+			},
+			{
+				"chapterId": "lesson-053"
+			},
+			{
+				"chapterId": "lesson-054"
+			},
+			{
+				"chapterId": "lesson-055"
+			},
+			{
+				"chapterId": "lesson-056"
+			},
+			{
+				"chapterId": "lesson-057"
+			},
+			{
+				"chapterId": "lesson-058"
+			},
+			{
+				"chapterId": "lesson-059"
+			},
+			{
+				"chapterId": "lesson-060"
+			},
+			{
+				"chapterId": "lesson-061"
+			},
+			{
+				"chapterId": "lesson-062"
+			},
+			{
+				"chapterId": "lesson-063"
+			},
+			{
+				"chapterId": "lesson-064"
+			},
+			{
+				"chapterId": "lesson-065"
+			},
+			{
+				"chapterId": "lesson-066"
+			},
+			{
+				"chapterId": "lesson-067"
+			},
+			{
+				"chapterId": "lesson-068"
+			},
+			{
+				"chapterId": "lesson-069"
+			},
+			{
+				"chapterId": "lesson-070"
+			},
+			{
+				"chapterId": "lesson-071"
+			},
+			{
+				"chapterId": "lesson-072"
+			},
+			{
+				"chapterId": "lesson-073"
+			},
+			{
+				"chapterId": "lesson-074"
+			},
+			{
+				"chapterId": "lesson-075"
+			},
+			{
+				"chapterId": "lesson-076"
+			},
+			{
+				"chapterId": "lesson-077"
+			},
+			{
+				"chapterId": "lesson-078"
+			},
+			{
+				"chapterId": "lesson-079"
+			},
+			{
+				"chapterId": "lesson-080"
+			},
+			{
+				"chapterId": "lesson-081"
+			},
+			{
+				"chapterId": "lesson-082"
+			},
+			{
+				"chapterId": "lesson-083"
+			},
+			{
+				"chapterId": "lesson-084"
+			},
+			{
+				"chapterId": "lesson-085"
+			},
+			{
+				"chapterId": "lesson-086"
+			},
+			{
+				"chapterId": "lesson-087"
+			},
+			{
+				"chapterId": "lesson-088"
+			},
+			{
+				"chapterId": "lesson-089"
+			},
+			{
+				"chapterId": "lesson-090"
+			},
+			{
+				"chapterId": "lesson-091"
+			},
+			{
+				"chapterId": "lesson-092"
+			},
+			{
+				"chapterId": "lesson-093"
+			},
+			{
+				"chapterId": "lesson-094"
+			},
+			{
+				"chapterId": "lesson-095"
+			},
+			{
+				"chapterId": "lesson-096"
+			},
+			{
+				"chapterId": "lesson-097"
+			},
+			{
+				"chapterId": "lesson-098"
+			},
+			{
+				"chapterId": "lesson-099"
+			},
+			{
+				"chapterId": "lesson-100"
+			},
+			{
+				"chapterId": "lesson-101"
+			},
+			{
+				"chapterId": "lesson-102"
+			},
+			{
+				"chapterId": "lesson-103"
+			},
+			{
+				"chapterId": "lesson-104"
+			},
+			{
+				"chapterId": "lesson-105"
+			},
+			{
+				"chapterId": "lesson-106"
+			},
+			{
+				"chapterId": "lesson-107"
+			},
+			{
+				"chapterId": "lesson-108"
+			},
+			{
+				"chapterId": "lesson-109"
+			},
+			{
+				"chapterId": "lesson-110"
+			},
+			{
+				"chapterId": "lesson-111"
+			},
+			{
+				"chapterId": "lesson-112"
+			},
+			{
+				"chapterId": "lesson-113"
+			},
+			{
+				"chapterId": "lesson-114"
+			},
+			{
+				"chapterId": "lesson-115"
+			},
+			{
+				"chapterId": "lesson-116"
+			},
+			{
+				"chapterId": "lesson-117"
+			},
+			{
+				"chapterId": "lesson-118"
+			},
+			{
+				"chapterId": "lesson-119"
+			},
+			{
+				"chapterId": "lesson-120"
+			},
+			{
+				"chapterId": "lesson-121"
+			},
+			{
+				"chapterId": "lesson-122"
+			},
+			{
+				"chapterId": "lesson-123"
+			},
+			{
+				"chapterId": "lesson-124"
+			},
+			{
+				"chapterId": "lesson-125"
+			},
+			{
+				"chapterId": "lesson-126"
+			},
+			{
+				"chapterId": "lesson-127"
+			},
+			{
+				"chapterId": "lesson-128"
+			},
+			{
+				"chapterId": "lesson-129"
+			},
+			{
+				"chapterId": "lesson-130"
+			},
+			{
+				"chapterId": "lesson-131"
+			},
+			{
+				"chapterId": "lesson-132"
+			},
+			{
+				"chapterId": "lesson-133"
+			},
+			{
+				"chapterId": "lesson-134"
+			},
+			{
+				"chapterId": "lesson-135"
+			},
+			{
+				"chapterId": "lesson-136"
+			},
+			{
+				"chapterId": "lesson-137"
+			},
+			{
+				"chapterId": "lesson-138"
+			},
+			{
+				"chapterId": "lesson-139"
+			},
+			{
+				"chapterId": "lesson-140"
+			},
+			{
+				"chapterId": "lesson-141"
+			},
+			{
+				"chapterId": "lesson-142"
+			},
+			{
+				"chapterId": "lesson-143"
+			},
+			{
+				"chapterId": "lesson-144"
+			},
+			{
+				"chapterId": "lesson-145"
+			},
+			{
+				"chapterId": "lesson-146"
+			},
+			{
+				"chapterId": "lesson-147"
+			},
+			{
+				"chapterId": "lesson-148"
+			},
+			{
+				"chapterId": "lesson-149"
+			},
+			{
+				"chapterId": "lesson-150"
+			},
+			{
+				"chapterId": "lesson-151"
+			},
+			{
+				"chapterId": "lesson-152"
+			},
+			{
+				"chapterId": "lesson-153"
+			},
+			{
+				"chapterId": "lesson-154"
+			},
+			{
+				"chapterId": "lesson-155"
+			},
+			{
+				"chapterId": "lesson-156"
+			},
+			{
+				"chapterId": "lesson-157"
+			},
+			{
+				"chapterId": "lesson-158"
+			},
+			{
+				"chapterId": "lesson-159"
+			},
+			{
+				"chapterId": "lesson-160"
+			},
+			{
+				"chapterId": "lesson-161"
+			},
+			{
+				"chapterId": "lesson-162"
+			},
+			{
+				"chapterId": "lesson-163"
+			},
+			{
+				"chapterId": "lesson-164"
+			},
+			{
+				"chapterId": "lesson-165"
+			},
+			{
+				"chapterId": "lesson-166"
+			},
+			{
+				"chapterId": "lesson-167"
+			},
+			{
+				"chapterId": "lesson-168"
+			},
+			{
+				"chapterId": "lesson-169"
+			},
+			{
+				"chapterId": "lesson-170"
+			},
+			{
+				"chapterId": "lesson-171"
+			},
+			{
+				"chapterId": "lesson-172"
+			},
+			{
+				"chapterId": "lesson-173"
+			},
+			{
+				"chapterId": "lesson-174"
+			},
+			{
+				"chapterId": "lesson-175"
+			},
+			{
+				"chapterId": "lesson-176"
+			},
+			{
+				"chapterId": "lesson-177"
+			},
+			{
+				"chapterId": "lesson-178"
+			},
+			{
+				"chapterId": "lesson-179"
+			},
+			{
+				"chapterId": "lesson-180"
+			},
+			{
+				"chapterId": "lesson-181"
+			},
+			{
+				"chapterId": "lesson-182"
+			},
+			{
+				"chapterId": "lesson-183"
+			},
+			{
+				"chapterId": "lesson-184"
+			},
+			{
+				"chapterId": "lesson-185"
+			},
+			{
+				"chapterId": "lesson-186"
+			},
+			{
+				"chapterId": "lesson-187"
+			},
+			{
+				"chapterId": "lesson-188"
+			},
+			{
+				"chapterId": "lesson-189"
+			},
+			{
+				"chapterId": "lesson-190"
+			},
+			{
+				"chapterId": "lesson-191"
+			},
+			{
+				"chapterId": "lesson-192"
+			},
+			{
+				"chapterId": "lesson-193"
+			},
+			{
+				"chapterId": "appendix-church-year"
+			},
+			{
+				"chapterId": "appendix-prayers"
+			}
+		]
+	}
 }
