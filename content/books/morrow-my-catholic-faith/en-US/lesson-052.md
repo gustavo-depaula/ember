@@ -30,7 +30,7 @@ The Catholic Church is One, because it has one Divine Founder, God Himself, Who 
 
 **Why is the Catholic Church holy?**
 
-— The Catholic Church is holy because it was founded by Jesus Christ, who is all-holy, and because it teaches, according to the will of Christ, holy doctrines, and provides the means of leading a holy life, there by giving holy members to every age.
+— The Catholic Church is holy because it was founded by Jesus Christ, who is all-holy, and because it teaches, according to the will of Christ, holy doctrines, and provides the means of leading a holy life, thereby giving holy members to every age.
 
 > St. Peter called the Christians of his time "a chosen race, a royal priesthood, a holy nation" (1 Pet. 2: 9).
 

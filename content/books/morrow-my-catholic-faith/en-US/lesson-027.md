@@ -71,7 +71,7 @@ e. Many children would be put to death at the time of His birth.
 
 3. Of His sufferings the Prophets spoke:
 
-> He was to enter Jerusalem riding on an ass. He would be betrayed by one who ate at the same table with Him. He would he abandoned, mocked, beaten, spat upon, scourged, crowned with thorns, and given gall and vinegar to drink. Lots would be cast for His garments. His hands and feet would be pierced with nails. He would die between two evildoers.
+> He was to enter Jerusalem riding on an ass. He would be betrayed by one who ate at the same table with Him. He would be abandoned, mocked, beaten, spat upon, scourged, crowned with thorns, and given gall and vinegar to drink. Lots would be cast for His garments. His hands and feet would be pierced with nails. He would die between two evildoers.
 
 4. All the prophecies were fulfilled in Jesus Christ. He is the Redeemer, the Saviour that God in His mercy had promised.
 

@@ -4,7 +4,7 @@
 
 Respect for the dead requires that cemeteries be properly kept. We should remember that the bodies of the buried will one day rise again to join immortal souls and live forever with God. Respect for the dead would also advise us to give up the recent fad of dolling up corpses, painting their faces to make them seem alive, as if they were prepared for some flighty show.
 
-ELEVENTH ARTICLE OF THE APOSTLES' CREED
+## Eleventh Article of the Apostles' Creed
 
 
 **What happens at death?**
@@ -57,7 +57,7 @@ No one knows when, where, or how he will die. All we know is that we shall die, 
 
 4. Apostates, heretics, schismatics, the excommunicated, suicides, duellists, Masons, and public sinners, are not permitted to be buried in a consecrated Catholic cemetery.
 
-> The refusal of the Church to give Christian burial to her bad children does not mean that she sentences them to damnation: judgement of the dead is in the hands of God. It is merely a public expression of her condemnation of sin, and a disciplinary measure so that her other children may avoid falling into such sins. Non-Catholics are not permitted burial in a Catholic cemetery, because since they did not belong to the Church during life, there is no reason for including them in the burial grounds for members of the Church, at death. The Catholic cemetery is the family plot of the Church, and only members of the family are buried there in. For the same reason, the Church permits non- Catholic relatives, as a special concession, and if no scandal would there by follow, to be buried in family mausoleums, vaults, or plots, in consecrated ground.
+> The refusal of the Church to give Christian burial to her bad children does not mean that she sentences them to damnation: judgement of the dead is in the hands of God. It is merely a public expression of her condemnation of sin, and a disciplinary measure so that her other children may avoid falling into such sins. Non-Catholics are not permitted burial in a Catholic cemetery, because since they did not belong to the Church during life, there is no reason for including them in the burial grounds for members of the Church, at death. The Catholic cemetery is the family plot of the Church, and only members of the family are buried therein. For the same reason, the Church permits non-Catholic relatives, as a special concession, and if no scandal would thereby follow, to be buried in family mausoleums, vaults, or plots, in consecrated ground.
 
 5. The Church forbids cremation of the bodies of the departed, except in cases of epidemics. It is a pagan custom that has become favoured by modern materialists and atheists, as a sign of denial of immortality.
 

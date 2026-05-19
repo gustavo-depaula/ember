@@ -2,7 +2,7 @@
 
 ![](../images/lesson-108.webp)
 
-Christ said, concerning scandalizing children: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea. Woe to the world because of scandals! For it must needs be that scandals come, but woe to the man through whom scandal does come!" (Math 18: 6-7).
+Christ said, concerning scandalizing children: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea. Woe to the world because of scandals! For it must needs be that scandals come, but woe to the man through whom scandal does come!" (Matt. 18: 6-7).
 
 
 **What is bad example?**

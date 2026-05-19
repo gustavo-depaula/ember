@@ -17,7 +17,7 @@ Holy Mass may be offered to God with a fourfold intention: by way of adoration, 
 
 3. To ask God for His blessings.
 
-> Holy Mass may be offered for the living of whatever creed. It may be offered for departed Catholics. The priest may not prefer Mass publicly for departed non- Catholics, but the persons hearing the Mass may do so. Persons hearing Mass may have their own private intentions for offering it, aside from the intention of the priest. Mass may be offered for any intention except that which is in itself bad.
+> Holy Mass may be offered for the living of whatever creed. It may be offered for departed Catholics. The priest may not prefer Mass publicly for departed non-Catholics, but the persons hearing the Mass may do so. Persons hearing Mass may have their own private intentions for offering it, aside from the intention of the priest. Mass may be offered for any intention except that which is in itself bad.
 
 4. To satisfy the justice of God for the sins committed against Him.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-102.webp)
 
-The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2: 51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a goodson, curing his father of his blindness.
+The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2: 51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a good son, curing his father of his blindness.
 
 "HONOUR THY FATHER AND THY MOTHER."
 

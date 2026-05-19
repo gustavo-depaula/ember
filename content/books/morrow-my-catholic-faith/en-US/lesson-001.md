@@ -52,7 +52,7 @@ In order to practice this virtue, we must: 1. Believe all the truths revealed by
 
 — We learn to know, love, and serve God from Jesus Christ, the Son of God, Who teaches us through the Catholic Church. 1. The study in which Jesus Christ teaches us about God and how to know, love, and serve Him, is the study of Religion. It is the most important study anyone can undertake. The neglect of this study is the root cause of crime in the world at present. Without a knowledge of God men give way to their basest passions.
 
-> Our salvation is much more important than a knowledge of physics, poetry, or history. All our science and knowledge, with our wealth and honours, will be profit less if we do not save our soul. "What does it profit a man, if he gains the whole world, but suffer the loss of his own soul?" (Matt. 16: 26).
+> Our salvation is much more important than a knowledge of physics, poetry, or history. All our science and knowledge, with our wealth and honours, will be profitless if we do not save our soul. "What does it profit a man, if he gains the whole world, but suffer the loss of his own soul?" (Matt. 16: 26).
 
 2. This study needs thought and attention. We need to listen to a good teacher. We cannot study it well by ourselves alone.
 

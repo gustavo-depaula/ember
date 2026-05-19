@@ -9,7 +9,7 @@ From among His disciples, Our Lord chose twelve Apostles, and gave them special 
 
 **Did Jesus Christ found a Church?**
 
-— Yes; all history, religious and non-religious, including the Bible, clearly proves that Jesus Christ founded a Church. 1. After teaching publicly what He required all to believe and practice, there by announcing the main doctrines of His Church, Christ gathered a number of disciples. From them He chose twelve, to whom He gave special instruction and training.
+— Yes; all history, religious and non-religious, including the Bible, clearly proves that Jesus Christ founded a Church. 1. After teaching publicly what He required all to believe and practice, thereby announcing the main doctrines of His Church, Christ gathered a number of disciples. From them He chose twelve, to whom He gave special instruction and training.
 
 > The term "a kingdom", by which Our Lord used to refer to His Church, implies organized authority. And He said to the special men He had chosen, "You have not chosen me, but I have chosen you" (John 15: 16). He did not teach the disciples for themselves alone, but to be the foundation of His Church. God did not come to save only a few disciples, but all men.
 

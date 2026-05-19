@@ -53,7 +53,7 @@ We should be generous in helping the poor souls in purgatory, who long for God. 
 
 > The Heroic Act is enriched with precious favours. One who makes the Act can apply every indulgence gained to the poor souls in purgatory. He may gain a plenary indulgence applicable only to the poor souls: (1) each time he receives Holy Communion: (2) every Monday by hearing Mass in behalf of the poor souls. To gain these indulgences, he must pray in church for the Pope's intentions.
 
-It is an error to suppose that one who gives up his merits, or offers prayers and good works for the poor souls, there by loses something for himself.
+It is an error to suppose that one who gives up his merits, or offers prayers and good works for the poor souls, thereby loses something for himself.
 
 > Prayer confers a blessing not only on those prayed for, but also on him who prays. "Blessed are the merciful, for they shall obtain mercy."
 

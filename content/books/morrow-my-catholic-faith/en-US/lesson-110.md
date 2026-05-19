@@ -38,7 +38,7 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 **What are the chief means of preserving the virtue of chastity?**
 
-— The chief means of preserving the virtue of chastity are: to avoid carefully all unnecessary dangers, to seek God's help through prayer, frequent confession, Holy Communion, and assistance at Holy Mass, and to have a special devotion to the Blessed Virgin. 1. In all things form the habit of temperance. Avoid all unnecessary dangers; do not take any chances with un chastity; do not experiment. If you put a match to gunpowder, it is sure to explode; there is no necessity to try and see whether it will not.
+— The chief means of preserving the virtue of chastity are: to avoid carefully all unnecessary dangers, to seek God's help through prayer, frequent confession, Holy Communion, and assistance at Holy Mass, and to have a special devotion to the Blessed Virgin. 1. In all things form the habit of temperance. Avoid all unnecessary dangers; do not take any chances with unchastity; do not experiment. If you put a match to gunpowder, it is sure to explode; there is no necessity to try and see whether it will not.
 
 > Shun the company of those that are impure. Impurity is no wonderful achievement to be proud about: any idiot can be impure. It is the strong soul that resists temptation and keeps himself clean. It is the chaste person that possesses manly strength.
 

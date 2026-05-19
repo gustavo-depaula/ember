@@ -28,7 +28,7 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 2. If we do not immediately reject the thought, it awakens in the mind an affection or liking for it.
 
-> If the man in the above example does not resist and reject the thought, but plays with it, and becomes pleased with the idea, he there by gives partial consent, and commits a slight sin.
+> If the man in the above example does not resist and reject the thought, but plays with it, and becomes pleased with the idea, he thereby gives partial consent, and commits a slight sin.
 
 3. Next the thought is followed by an evil desire in which we take pleasure.
 

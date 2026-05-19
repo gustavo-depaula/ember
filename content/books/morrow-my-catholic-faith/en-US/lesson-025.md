@@ -17,7 +17,7 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 2. Pride may be called the mother of all vices, for most sins can be traced to it. From pride arise ambition, vanity, presumption, disobedience, hypocrisy, obstinacy in sin.
 
-> "For pride is the beginning of all sin: he that hold eth it shall be filled with maledictions and it shall ruin him in the end" (Ecclus. 10: 15). "Never suffer pride to reign in thy mind or in thy words, for from it all perdition took its beginning" (Tob. 4: 14). Pride was the sin of our First Parents, who wanted to be as great as God. It was the sin of King Pharaoh; he was so proud that in spite of the miracles Moses worked, he refused to be convinced. For this God "hardened his heart" (Exod. 9: 12); that is, God permitted him to close the window of his soul against the grace of the Holy Ghost, "Because thou hast rejected the word of the Lord, the Lord has rejected thee" (1 Kings 15: 26).
+> "For pride is the beginning of all sin: he that holdeth it shall be filled with maledictions and it shall ruin him in the end" (Ecclus. 10: 15). "Never suffer pride to reign in thy mind or in thy words, for from it all perdition took its beginning" (Tob. 4: 14). Pride was the sin of our First Parents, who wanted to be as great as God. It was the sin of King Pharaoh; he was so proud that in spite of the miracles Moses worked, he refused to be convinced. For this God "hardened his heart" (Exod. 9: 12); that is, God permitted him to close the window of his soul against the grace of the Holy Ghost, "Because thou hast rejected the word of the Lord, the Lord has rejected thee" (1 Kings 15: 26).
 
 3. The proud man tries to attract notice and praise, strives after honours, distinctions, and other worldly favours.
 
@@ -36,7 +36,7 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 — Covetousness is the excessive love for, and seeking after, wealth and other worldly possessions. 1. Covetousness is also called avarice. A covetous person strives for more riches than he requires, and is never content, however much he already possesses.
 
-> He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one set te th even his own soul to sale" (Ecclus. 10: 10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
+> He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one setteth even his own soul to sale" (Ecclus. 10: 10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
 
 2. From covetousness arise hard-heartedness towards the poor, lying, cheating, usury, defrauding labourers of wages, and other sins.
 

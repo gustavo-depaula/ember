@@ -26,7 +26,7 @@ The contracting parties should go before the priest for instruction before a pla
 
 > The Church strongly disapproves of mixed marriages. From its long experience, the Church knows that mixed marriages are rarely happy; they are opposed to the union and harmony that should exist between spouses. The Catholic is in danger of losing his or her faith. The non-Catholic is liable to a divorce and contract another marriage, whereas the Catholic is bound not to take a second partner until the first one dies. The proper training of the children becomes difficult; moreover, it is likely that the offspring from such unions grow up without proper religious instruction, and lose the Faith.
 
-2. For mixed marriages, a dispensation is granted only for grave cause, and under the condition of a promise (as a rule, in writing): by the non-Catholic party not to endanger the faith of the Catholic; by the Catholic party to strive for the conversion of the non- Catholic by prayer and good example: and by both parties to have all children born of the marriage baptised and reared as true Catholics.
+2. For mixed marriages, a dispensation is granted only for grave cause, and under the condition of a promise (as a rule, in writing): by the non-Catholic party not to endanger the faith of the Catholic; by the Catholic party to strive for the conversion of the non-Catholic by prayer and good example: and by both parties to have all children born of the marriage baptised and reared as true Catholics.
 
 > The divine law forbids mixed marriages as long as there is danger to the faith of the Catholic or of the offspring. This danger has to be removed before dispensation is granted: hence the definite and explicit promises required.
 

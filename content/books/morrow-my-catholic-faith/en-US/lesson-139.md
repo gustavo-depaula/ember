@@ -28,7 +28,7 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 **What is the best method of assisting at Mass?**
 
-— The best method of assisting at Mass is to unite with the priest in offering the Holy Sacrifice, and to receive Holy Communion. 1. The best way of uniting ourselves in offering the Holy Sacrifice is by following the prayers of the Mass from a Missal, and meditating on the mysteries presented there in. If we have no Missal, we should devoutly meditate, especially at the principal parts, on Our Lord's Passion; the Mass is a re-enactment of the sacrifice on the cross, a commemoration of Christ's death.
+— The best method of assisting at Mass is to unite with the priest in offering the Holy Sacrifice, and to receive Holy Communion. 1. The best way of uniting ourselves in offering the Holy Sacrifice is by following the prayers of the Mass from a Missal, and meditating on the mysteries presented therein. If we have no Missal, we should devoutly meditate, especially at the principal parts, on Our Lord's Passion; the Mass is a re-enactment of the sacrifice on the cross, a commemoration of Christ's death.
 
 > Those who say vocal prayers must be careful not to whisper so loud as to disturb others. At the principal parts of Mass, we should always suspend our private devotions and meditate on the particular mystery presented: at the Offertory uniting our intentions with the priest, at the Consecration welcoming Jesus, and at the Communion inviting Him into our hearts and thanking Him for the consummation of His sacrifice.
 

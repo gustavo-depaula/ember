@@ -17,7 +17,7 @@ The True Church is one, holy, catholic, and apostolic. The Church that possesses
 
 3. Christ, even in His prayers, spoke of unity among His followers. There would evidently be no unity if He had founded many churches.
 
-> Immediately before His passion, He prayed: "Yet not for these only do I pray, but for those also who through their word are to believe in me, that all may be one, even as thou, Father, in me and I in thee; that they also may he one in us, that the world may believe that thou hast sent me" (John 17: 20-21).
+> Immediately before His passion, He prayed: "Yet not for these only do I pray, but for those also who through their word are to believe in me, that all may be one, even as thou, Father, in me and I in thee; that they also may be one in us, that the world may believe that thou hast sent me" (John 17: 20-21).
 
 
 **Is there any way by which we can distinguish the Church that Christ founded from all other churches?**

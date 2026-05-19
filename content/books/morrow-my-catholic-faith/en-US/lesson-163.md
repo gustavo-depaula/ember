@@ -24,7 +24,7 @@
 
 **Why is every true marriage between a baptised man and a baptised woman a sacrament?**
 
-— Every true marriage between a baptised man and a baptised woman is a sacrament, because Christ Himself has raised every marriage of this kind to the dignity of a sacrament. 1. A marriage between baptised non- Catholics, if contracted in a valid way, is always a sacrament, and is so recognized by the Church. It can be broken only by the death of one of the parties.
+— Every true marriage between a baptised man and a baptised woman is a sacrament, because Christ Himself has raised every marriage of this kind to the dignity of a sacrament. 1. A marriage between baptised non-Catholics, if contracted in a valid way, is always a sacrament, and is so recognized by the Church. It can be broken only by the death of one of the parties.
 
 > The Church does not recognize the "marriage" of divorced baptised non-Catholics whose previous partners are still alive. Such unions are a sin, and not true marriage.
 

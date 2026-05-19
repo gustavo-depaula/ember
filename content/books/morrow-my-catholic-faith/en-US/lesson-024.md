@@ -9,7 +9,7 @@ Vice is easily formed, but requires great struggle to overcome it. The longer a 
 
 — The near occasions of sin are all persons, places, or things that may easily lead us into sin. Most common occasions are: 1. Bad companions. One who provokes or leads us into sin is not our friend. We must stop going with that companion.
 
-> One rotten apple in a basket of good apples quickly rots the rest. The same is true of human beings. Sin is a contagious disease. If we do not wish to he infected, we must go far away from it.
+> One rotten apple in a basket of good apples quickly rots the rest. The same is true of human beings. Sin is a contagious disease. If we do not wish to be infected, we must go far away from it.
 
 2. Dance halls. Not every dance is sinful. But many dances are occasions of sin; and public dances without the presence of respectable adults are extremely dangerous. A safe rule to follow is never to go to any place where you would be ashamed to take your virtuous mother or sister.
 

@@ -13,7 +13,7 @@ As an example of true zeal, we have the Apostle of the Indies, the Patron of Cat
 
 1. Meekness is patience between man and man. It is related to the cardinal virtue of temperance, and is opposed to the sin of anger. The patient man keeps calm in the midst of the vicissitudes of life; he preserves his cheerfulness for the love of God.
 
-> The motive is important. If we are calm and patient only because we hope to be admired or because we there by wish to avoid temporal trouble, by indifference, then we do not practice virtue. Virtue is the result of love for God, doing things for His sake, because it is His law or desire. "By your patience you will win your souls" (Luke 21: 19).
+> The motive is important. If we are calm and patient only because we hope to be admired or because we thereby wish to avoid temporal trouble, by indifference, then we do not practice virtue. Virtue is the result of love for God, doing things for His sake, because it is His law or desire. "By your patience you will win your souls" (Luke 21: 19).
 
 2. We must endure with serenity all trials, not merely a part of them, in order to be truly patient.
 

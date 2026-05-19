@@ -67,4 +67,4 @@ God punishes the sin of impurity very severely even here on earth. For that , He
 
 > A modern curse associated with bad dances is the fad of boys and girls going out alone in cars and driving to roadhouses. This can be a source of danger.
 
-7. Immodesty and excessive luxury in dress. A beautifully dressed girl is pleasing to look at. But the "art of looking nice" should not be indulged in to excess. Women whose aim in life is to deck themselves in order to attract the attention of men are putting themselves in the way of un chastity.
+7. Immodesty and excessive luxury in dress. A beautifully dressed girl is pleasing to look at. But the "art of looking nice" should not be indulged into excess. Women whose aim in life is to deck themselves in order to attract the attention of men are putting themselves in the way of unchastity.

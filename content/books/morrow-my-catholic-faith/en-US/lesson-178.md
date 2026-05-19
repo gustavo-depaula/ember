@@ -2,7 +2,7 @@
 
 ![](../images/lesson-178.webp)
 
-1. Every new house should be blessed. The blessing should be renewed every year during the Easter time. There is a special blessing for houses to be given on the Feast of the Epiphany or the Octave. In its ritual the Church prays that God may sanctify the house, and that angels may abide within its walls, and protect all living there in. 2. Holy water is one of the principal sacramentals of the Church. In blessing holy water, the priest first blesses salt, then water, and then mixes both with special prayers. The water symbolizes purity of soul; the salt stands for prudence; the combination is a symbol of purity and immortality. As often as possible, we should make the sign of the cross, first dipping the fingers in holy water. A 100 days indulgence is gained each time.
+1. Every new house should be blessed. The blessing should be renewed every year during the Easter time. There is a special blessing for houses to be given on the Feast of the Epiphany or the Octave. In its ritual the Church prays that God may sanctify the house, and that angels may abide within its walls, and protect all living therein. 2. Holy water is one of the principal sacramentals of the Church. In blessing holy water, the priest first blesses salt, then water, and then mixes both with special prayers. The water symbolizes purity of soul; the salt stands for prudence; the combination is a symbol of purity and immortality. As often as possible, we should make the sign of the cross, first dipping the fingers in holy water. A 100 days indulgence is gained each time.
 
 
 **How should we make use of sacramentals?**

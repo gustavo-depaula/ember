@@ -30,7 +30,7 @@ One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes
 
 > They are for the purpose of asking blessings on the fields and crops. The Litany of all the Saints is chanted.
 
-4. The procession of *Corpus Christ* i, the Thursday after Trinity Sunday. It is most solemn, the Blessed Sacrament being carried and placed on two altars specially built for the purpose, for the adoration of the people.
+4. The procession of *Corpus Christi*, the Thursday after Trinity Sunday. It is most solemn, the Blessed Sacrament being carried and placed on two altars specially built for the purpose, for the adoration of the people.
 
 > The feast of *Corpus Christi* (Body of Christ) was instituted about six centuries ago as a special memorial of the love of Christ for us. In the 13th century, Pope Urban IV instituted the procession of *Corpus Christi* in order to increase faith in the Real Presence of Christ in the Blessed Sacrament. The procession is generally ended with a solemn thanksgiving, the *Te Deum*. The feast of *Corpus Christi* is a holy day of obligation in many countries. Where the procession is not made on Thursday, it is transferred to the following Sunday.
 
@@ -53,7 +53,7 @@ One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes
 
 > A pilgrimage is usually undertaken to obtain graces, in thanksgiving for graces received, or in fulfilment of a vow. Pilgrimages are made to Rome every jubilee year. God shows His approval of pilgrimages by granting many spiritual and temporal favours to the participants.
 
-4. Shrines of pilgrimage in honour of the Blessed Virgin are scattered all over the world, and are so numerous as to be almost countless. But the most famous are: Lourdes in France, Loretto in Italy, Zara goss a in Spain, Czestochowa in Poland, Fatima in Portugal, Guadalupe in Mexico, Lujan in Argentina, etc. (a) At Lourdes every year a million pilgrims offer their love to Mary Immaculate, and profit by her intercession; many miraculous cures have taken place there.
+4. Shrines of pilgrimage in honour of the Blessed Virgin are scattered all over the world, and are so numerous as to be almost countless. But the most famous are: Lourdes in France, Loretto in Italy, Zaragoza in Spain, Czestochowa in Poland, Fatima in Portugal, Guadalupe in Mexico, Lujan in Argentina, etc. (a) At Lourdes every year a million pilgrims offer their love to Mary Immaculate, and profit by her intercession; many miraculous cures have taken place there.
 
 > For other shrines of Saints we may also mention St. Becket's at Canterbury, St. James at Compost ella, and St. Patrick's at Donegal.
 

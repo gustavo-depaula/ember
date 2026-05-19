@@ -2,7 +2,7 @@
 
 ![](../images/lesson-074.webp)
 
-The illustration shows the continuous communication in the three portions of the Church spiritually united in Jesus Christ. The members on earth send up prayers to the angels and saints for themselves and for the poor souls in purgatory. They in turn are helped by the intercession of the saints and angels, and by the graces obtained there by. The poor souls pray for the members on earth.
+The illustration shows the continuous communication in the three portions of the Church spiritually united in Jesus Christ. The members on earth send up prayers to the angels and saints for themselves and for the poor souls in purgatory. They in turn are helped by the intercession of the saints and angels, and by the graces obtained thereby. The poor souls pray for the members on earth.
 
 
 **Why is the Catholic Church called the Mystical Body of Christ?**

@@ -97,7 +97,7 @@ Other scientists
 
 > Herzog discovered a cure for infantile paralysis.
 
-> Holland invented the first practical sub marine.
+> Holland invented the first practical submarine.
 
 > Kircher , a priest, made the first definite statement of the germ theory of disease.
 

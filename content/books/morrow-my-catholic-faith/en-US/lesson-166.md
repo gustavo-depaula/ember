@@ -45,7 +45,7 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 4. A priest in his own diocese may perform the marriage ceremony outside his own parish only with the permission of the parish priest or bishop of the place.
 
-> A priest in his own parish, or a bishop in his own diocese, may marry persons not resident there in, with the permission of their pastor or bishop. A Catholic who has dwelt within the limits of a certain parish for a month is considered as belonging to it; also if he has a real place of abode in it, with the intention of remaining.
+> A priest in his own parish, or a bishop in his own diocese, may marry persons not resident therein, with the permission of their pastor or bishop. A Catholic who has dwelt within the limits of a certain parish for a month is considered as belonging to it; also if he has a real place of abode in it, with the intention of remaining.
 
 
 **When does the Church declare a separation of a validly married couple?**

@@ -43,7 +43,7 @@ C. The Christianization of the Family: The family has been defined as the ‘cel
 
 (St. Pius X)
 
-E. Defence of Christian Civilization: “Chosen bands of Catholics who aim to unite all their forces in combating anti- Christian civilization by every just and lawful means.” *(St. Pius X, Il Fermo)* F. Co-operation in the Scholastic Field: The School is among the most efficacious instruments of education and Christian- ization of Society.
+E. Defence of Christian Civilization: “Chosen bands of Catholics who aim to unite all their forces in combating anti-Christian civilization by every just and lawful means.” *(St. Pius X, Il Fermo)* F. Co-operation in the Scholastic Field: The School is among the most efficacious instruments of education and Christianization of Society.
 
 > The enemies of Christ know this well, for at all times and places they have always tried to seize its monopoly. Hence Catholic Action places among the chief items of its program, co-operation in the scholastic field; assisting the Church, which has well-defined rights in regard to schools. “The bringing back of Christ into schools”. Pius XI said that “of all the fields devastated by secular legislation, the school is that into which Catholic Action, ever more richly provided with members and leaders wisely instructed must descend with all its forces, for a still more tenacious defence of the supreme interests of Religion, of the family, and the Fatherland.”
 

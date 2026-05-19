@@ -22,7 +22,7 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 3. The non-observance of Sunday is often attended with material evils, such as poverty and sickness. God is the God of nature as well as of the Law.
 
-> Those who do not observe Sunday and keep working often lose their health and there by sink deeper and deeper into poverty. Those who desecrate Sunday and do not hear Mass fall into all kinds of vices. In Holy Scripture, we find the Jews losing their Holy City and being taken into captivity, because they violated the Sabbath.
+> Those who do not observe Sunday and keep working often lose their health and thereby sink deeper and deeper into poverty. Those who desecrate Sunday and do not hear Mass fall into all kinds of vices. In Holy Scripture, we find the Jews losing their Holy City and being taken into captivity, because they violated the Sabbath.
 
 
 **When is servile work allowed on Sunday?**

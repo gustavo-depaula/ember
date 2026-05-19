@@ -2,7 +2,7 @@
 
 ![](../images/lesson-146.webp)
 
-Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted if in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him. Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15: 17-20).
+Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted it in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15: 17-20).
 
 
 **What is contrition?**

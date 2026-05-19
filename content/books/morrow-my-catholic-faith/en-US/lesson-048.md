@@ -17,7 +17,7 @@
 
 4. St. Matthew preached among the Ethiopians, Persians, and Parthians, and was martyred in Parthia. He wrote the first of the four Gospels.
 
-> St. James the Less was Bishop of Jerusalem. He was cast down from the pinnacle of the Temple in 63 A. D. He left one Epistle. St. Andrew, St. Peter's brother, preached along the lower Danube, and was crucified in Greece. St. Thomas preached in Persia, Medea, and went as far as India. He was martyred in India, pierced with a lance at the command of the king. St. Philip preached in Phrygia and Scythia, and was crucified at Hieropolis. St. Bartholomew preached in India, Arabia,.and Assyria. He was flayed and crucified in Armenia. St. Simon preached in North Africa, and was martyred in Persia.
+> St. James the Less was Bishop of Jerusalem. He was cast down from the pinnacle of the Temple in 63 A. D. He left one Epistle. St. Andrew, St. Peter's brother, preached along the lower Danube, and was crucified in Greece. St. Thomas preached in Persia, Medea, and went as far as India. He was martyred in India, pierced with a lance at the command of the king. St. Philip preached in Phrygia and Scythia, and was crucified at Hieropolis. St. Bartholomew preached in India, Arabia, and Assyria. He was flayed and crucified in Armenia. St. Simon preached in North Africa, and was martyred in Persia.
 
 > St. Jude preached in Syria, and was martyred in Persia. He wrote the "Catholic Epistle". St. Matthias, chosen to take the place of Judas, preached in Ethiopia, and was martyred in Sebastopolis.
 

@@ -9,7 +9,7 @@ Our Lord Himself often fasted. He fasted forty days and forty nights before He b
 
 **What is a fast day?**
 
-— A fast day is a day on which only one full meal is allowed: but in the morning and evening some food may be taken, the quantity and quality of which are determined by approved local custom. The smaller meals must not be equal the quantity of the main meal. 1. The one full meal may be taken either at noon or in the evening. Only at this meal may meat be taken; but both fish and meat may be taken at the same meal.
+— A fast day is a day on which only one full meal is allowed: but in the morning and evening some food may be taken, the quantity and quality of which are determined by approved local custom. The smaller meals must not be equal to the quantity of the main meal. 1. The one full meal may be taken either at noon or in the evening. Only at this meal may meat be taken; but both fish and meat may be taken at the same meal.
 
 > Fasting was a practice in the early Church. And the Holy Spirit said, "Set apart for me Saul and Barnabas unto the work to which I have called them." Then, having fasted and prayed and laid their hands upon them, they let them go (Acts 13: 2-3).
 
