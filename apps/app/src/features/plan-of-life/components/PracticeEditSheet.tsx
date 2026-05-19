@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { KeyboardAvoidingView, Platform, Pressable, ScrollView } from 'react-native'
+import { Pressable, ScrollView } from 'react-native'
+import { KeyboardAvoidingView } from 'react-native-keyboard-controller'
 import { Input, Text, XStack, YStack } from 'tamagui'
 
 import { tierConfig } from '@/config/constants'
@@ -93,10 +94,7 @@ export function PracticeEditSheet({
   }
 
   return (
-    <KeyboardAvoidingView
-      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-      style={{ maxHeight: '85%' }}
-    >
+    <KeyboardAvoidingView behavior="padding" style={{ maxHeight: '85%' }}>
       <YStack
         backgroundColor="$background"
         borderTopLeftRadius="$lg"

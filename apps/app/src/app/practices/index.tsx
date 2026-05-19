@@ -3,9 +3,9 @@ import { Plus, Search, X } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Modal, Pressable, ScrollView, View } from 'react-native'
-import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { PageHeader, ScreenLayout, SectionDivider } from '@/components'
+import { PageHeader, ScreenLayout, SearchInput, SectionDivider } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import {
   getCollectionItems,
@@ -300,7 +300,7 @@ export default function PracticeCatalogScreen() {
       gap="$sm"
     >
       <Search size={16} color={theme.colorSecondary?.val} />
-      <Input
+      <SearchInput
         flex={1}
         value={searchQuery}
         onChangeText={setSearchQuery}

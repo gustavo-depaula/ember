@@ -32,6 +32,7 @@ import { StatusBar } from 'expo-status-bar'
 import { useEffect, useState } from 'react'
 import { InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
+import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
@@ -264,39 +265,41 @@ export default function RootLayout() {
 
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
-      <QueryClientProvider client={queryClient}>
-        <CrossTabSync />
-        <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-          {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
-          <Theme name={themeName as any}>
-            <StatusBar hidden />
-            <Stack
-              screenOptions={{
-                headerShown: false,
-                animation: 'fade',
-                animationDuration: 200,
-                contentStyle: { backgroundColor: rootBg },
-              }}
-            >
-              <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
-              <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
-              <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
-              <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
-              <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
-              <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
-              <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
-              <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
-              <Stack.Screen name="browse" options={{ title: i18n.t('browse.title') }} />
-              <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
-              <Stack.Screen name="piano" options={{ title: 'Piano' }} />
-            </Stack>
-            <FloatingOfflineChip />
-            <NowPlayingBar />
-            <AppFrame />
-            <ConfirmHost />
-          </Theme>
-        </TamaguiProvider>
-      </QueryClientProvider>
+      <KeyboardProvider>
+        <QueryClientProvider client={queryClient}>
+          <CrossTabSync />
+          <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
+            {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
+            <Theme name={themeName as any}>
+              <StatusBar hidden />
+              <Stack
+                screenOptions={{
+                  headerShown: false,
+                  animation: 'fade',
+                  animationDuration: 200,
+                  contentStyle: { backgroundColor: rootBg },
+                }}
+              >
+                <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
+                <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
+                <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
+                <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
+                <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
+                <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
+                <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
+                <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
+                <Stack.Screen name="browse" options={{ title: i18n.t('browse.title') }} />
+                <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
+                <Stack.Screen name="piano" options={{ title: 'Piano' }} />
+              </Stack>
+              <FloatingOfflineChip />
+              <NowPlayingBar />
+              <AppFrame />
+              <ConfirmHost />
+            </Theme>
+          </TamaguiProvider>
+        </QueryClientProvider>
+      </KeyboardProvider>
     </GestureHandlerRootView>
   )
 }
