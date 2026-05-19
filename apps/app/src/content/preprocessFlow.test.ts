@@ -49,7 +49,7 @@ describe('preprocessFlow — primitive mapping', () => {
     })
   })
 
-  it('response maps to vr-styled verses', async () => {
+  it('response maps to vr-styled verses with role tags', async () => {
     const sections: RenderedSection[] = [
       {
         type: 'response',
@@ -61,8 +61,8 @@ describe('preprocessFlow — primitive mapping', () => {
       type: 'verses',
       style: 'vr',
       items: [
-        { num: 'V', text: { primary: 'The Lord be with you' } },
-        { num: 'R', text: { primary: 'And with your spirit' } },
+        { role: 'v', text: { primary: 'The Lord be with you' } },
+        { role: 'r', text: { primary: 'And with your spirit' } },
       ],
     })
   })

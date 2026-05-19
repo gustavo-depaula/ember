@@ -43,9 +43,13 @@ export type DividerPrimitive = {
 export type VersesPrimitive = {
   type: 'verses'
   header?: BilingualText
-  items: { num?: string | number; text: BilingualText }[]
-  // Versicle/response pairs render alternating "V." / "R." prefixes; without
-  // pairs the items render as a numbered list.
+  items: {
+    num?: string | number
+    text: BilingualText
+    // 'v'/'r' tag explicit role for versicle/response pairs — the renderer
+    // shouldn't have to sniff at the num field to figure it out.
+    role?: 'v' | 'r'
+  }[]
   style?: 'numbered' | 'vr'
   fallback?: boolean
 }
@@ -55,6 +59,14 @@ export type ImagePrimitive = {
   src: string
   caption?: BilingualText
   attribution?: BilingualText
+}
+
+export type HolyCardPrimitive = {
+  type: 'holy-card'
+  image: string
+  title?: BilingualText
+  attribution?: BilingualText
+  prayer?: BilingualText
 }
 
 export type ProsePrimitive = {
@@ -133,6 +145,7 @@ export type Primitive =
   | DividerPrimitive
   | VersesPrimitive
   | ImagePrimitive
+  | HolyCardPrimitive
   | ProsePrimitive
   | CalloutPrimitive
   | ContainerPrimitive

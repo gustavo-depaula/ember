@@ -1,7 +1,3 @@
-// Renders the `verses` primitive. Unifies what used to be five distinct
-// blocks — BibleReadingBlock, CccReadingBlock, HymnBlock, CanticleBlock,
-// ResponseBlock — into one component driven by the verses' `style`.
-
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static verse lists never reorder
 
 import { useTranslation } from 'react-i18next'
@@ -19,14 +15,13 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
     return (
       <YStack gap="$sm">
         {items.map((item, i) => {
-          const isResponse = String(item.num).toUpperCase().startsWith('R')
+          const isResponse = item.role === 'r'
           return (
             <XStack
               key={`vr-${i}`}
               gap={4}
               alignItems="baseline"
-              accessibilityLabel={(isResponse ? t('a11y.response') : t('a11y.versicle')) +
-                ': ' + item.text.primary}
+              accessibilityLabel={`${isResponse ? t('a11y.response') : t('a11y.versicle')}: ${item.text.primary}`}
             >
               <ResponseMark value={isResponse ? '℟' : '℣'} width={18} />
               <YStack flex={1}>

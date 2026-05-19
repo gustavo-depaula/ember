@@ -11,6 +11,7 @@ import { CelebrationBanner } from './prayer/CelebrationBanner'
 import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
 import { CollapsiblePrayer } from './prayer/CollapsiblePrayer'
+import { HolyCardBlock } from './prayer/HolyCardBlock'
 import { ImageBlock } from './prayer/ImageBlock'
 import { LiturgicalColorBlock } from './prayer/LiturgicalColorBlock'
 import { LiturgicalColorProvider } from './prayer/LiturgicalColorContext'
@@ -78,10 +79,20 @@ export function PrimitiveBlock({ primitive, practiceId, onSelectOverride }: Prop
         />
       )
 
+    case 'holy-card':
+      return (
+        <HolyCardBlock
+          image={primitive.image}
+          title={primitive.title}
+          attribution={primitive.attribution}
+          prayer={primitive.prayer}
+        />
+      )
+
     case 'prose':
       if (primitive.html) return <ProducerHtmlBlock html={primitive.html} />
       if (primitive.text) return <ProseBlock text={primitive.text} />
-      return undefined
+      throw new Error('prose primitive must have either text or html')
 
     case 'callout':
       return renderCallout(primitive)

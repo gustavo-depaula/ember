@@ -1,17 +1,24 @@
-import type { RenderedSection } from '@ember/content-engine'
+import type { BilingualText, RenderedSection } from '@ember/content-engine'
 import type { QueryClient } from '@tanstack/react-query'
-import type { PsalmRef } from '@/lib/liturgical'
-import type {
-  ContentSource,
-  ProducerPrefs,
-  SourceAccessor,
-  SourceFetchContext,
+import i18n from '@/lib/i18n'
+import { formatVerseRange } from '@/lib/lectio'
+import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
+import { bibleChapterSource } from '@/producers/bible-chapter'
+import { cccChapterSource } from '@/producers/ccc-chapter'
+import { psalmodySource } from '@/producers/psalmody'
+import {
+  cacheKeyFor,
+  type ContentSource,
+  getSource,
+  type ProducerPrefs,
+  runCachedSource,
+  type SourceAccessor,
+  type SourceFetchContext,
 } from '@/producers'
-import { cacheKeyFor, getSource, runCachedSource } from '@/producers'
 import type {
   ContainerOption,
-  ContainerPrimitive,
   Primitive,
+  VersesPrimitive,
 } from './primitives'
 
 export type PreprocessContext = {
@@ -21,39 +28,37 @@ export type PreprocessContext = {
   programDay?: number
 }
 
-// Walks the engine's RenderedSection[] output and produces a Primitive[]
-// tree. Every variant maps to one or more primitives; reading/psalmody/
-// include nodes call the source registry to fetch their data, splice the
-// fetched primitives in place, and return.
 export async function preprocessFlow(
   sections: RenderedSection[],
   ctx: PreprocessContext,
 ): Promise<Primitive[]> {
-  const resolved = await Promise.all(sections.map((s) => preprocessSection(s, ctx)))
-  // Flatten — sources can return Primitive[] (psalmody fans out per-psalm).
+  const accessor = makeSourceAccessor(ctx)
+  const resolved = await Promise.all(
+    sections.map((s) => preprocessSection(s, ctx, accessor)),
+  )
   return resolved.flat()
 }
 
 async function preprocessSection(
   section: RenderedSection,
   ctx: PreprocessContext,
+  accessor: SourceAccessor,
 ): Promise<Primitive | Primitive[]> {
   switch (section.type) {
-    // — Content fetches —
-
     case 'reading':
-      return section.reference.type === 'bible'
-        ? fetchPrimitive('producer/bible-chapter', { book: section.reference.book, chapter: section.reference.chapter }, ctx)
-        : fetchPrimitive('producer/ccc-chapter', { start: section.reference.startParagraph, count: section.reference.count }, ctx)
+      return resolveReading(section.reference, ctx, accessor)
 
-    case 'producer/psalmody':
+    case 'psalmody':
       if (section.psalms.length === 0) return []
-      return fetchPrimitive('producer/psalmody', { psalms: section.psalms as PsalmRef[] }, ctx)
+      return fetchFromSource(
+        psalmodySource.id,
+        { psalms: section.psalms as PsalmRef[] },
+        ctx,
+        accessor,
+      )
 
     case 'include':
-      return fetchPrimitive(section.ref, section.params ?? {}, ctx)
-
-    // — Leaf primitives —
+      return fetchFromSource(section.ref, section.params ?? {}, ctx, accessor)
 
     case 'rubric':
       return { type: 'rubric', text: section.label }
@@ -85,7 +90,7 @@ async function preprocessSection(
       return {
         type: 'verses',
         header: section.title,
-        items: splitTextIntoLines(section.text),
+        items: bilingualLines(section.text),
       }
 
     case 'canticle':
@@ -97,18 +102,18 @@ async function preprocessSection(
         {
           type: 'verses',
           header: section.source.primary ? section.source : undefined,
-          items: splitTextIntoLines(section.text),
+          items: bilingualLines(section.text),
         },
       ]
 
     case 'response':
       return {
         type: 'verses',
-        items: section.verses.flatMap((vr) => [
-          { num: 'V', text: vr.v },
-          { num: 'R', text: vr.r },
-        ]),
         style: 'vr',
+        items: section.verses.flatMap((vr) => [
+          { role: 'v' as const, text: vr.v },
+          { role: 'r' as const, text: vr.r },
+        ]),
       }
 
     case 'gallery':
@@ -121,10 +126,11 @@ async function preprocessSection(
 
     case 'holy-card':
       return {
-        type: 'image',
-        src: section.image,
-        caption: section.title,
+        type: 'holy-card',
+        image: section.image,
+        title: section.title,
         attribution: section.attribution,
+        prayer: section.prayer,
       }
 
     case 'section-marker':
@@ -153,8 +159,6 @@ async function preprocessSection(
         color: section.color,
       }
 
-    // — Containers (children themselves go through preprocessFlow) —
-
     case 'prayer': {
       if (section.speaker) {
         return {
@@ -163,7 +167,9 @@ async function preprocessSection(
         }
       }
       if (section.title.primary) {
-        const children = section.sections ? await preprocessFlow(section.sections, ctx) : []
+        const children = section.sections
+          ? await preprocessFlow(section.sections, ctx)
+          : []
         return {
           type: 'container',
           behavior: {
@@ -175,7 +181,6 @@ async function preprocessSection(
           children,
         }
       }
-      // No title, no speaker — falls back to a plain text block.
       return { type: 'text', text: section.text }
     }
 
@@ -210,7 +215,7 @@ async function preprocessSection(
           children: await preprocessFlow(o.sections, ctx),
         })),
       )
-      const container: ContainerPrimitive = {
+      return {
         type: 'container',
         behavior: {
           kind: 'options',
@@ -219,7 +224,6 @@ async function preprocessSection(
           options,
         },
       }
-      return container
     }
 
     case 'select': {
@@ -255,8 +259,6 @@ async function preprocessSection(
           options: section.options,
         },
       }
-
-    // — Interactions —
 
     case 'proper':
       return {
@@ -309,32 +311,86 @@ async function preprocessSection(
         outcomes: section.outcomes,
         allowNotes: section.allow_notes,
       }
+
+    default: {
+      // Exhaustiveness: a new RenderedSection variant must add a primitive
+      // mapping here or the engine will silently dead-end.
+      const _exhaustive: never = section
+      throw new Error(
+        `preprocessFlow: unhandled section type ${(section as { type: string }).type}`,
+      )
+    }
   }
 }
 
-// Splits a BilingualText "Line one\nLine two" into per-line items for the
-// verses primitive — hymns and canticles author their text as a single block.
-function splitTextIntoLines(
-  text: import('@ember/content-engine').BilingualText,
-): { text: import('@ember/content-engine').BilingualText }[] {
-  const lines = text.primary.split('\n').filter((l) => l.length > 0)
-  return lines.map((line, i) => ({
-    text: {
-      primary: line,
-      secondary: text.secondary?.split('\n').filter((l) => l.length > 0)[i],
+// Resolves a `reading` to a `verses` primitive — fetches the whole chapter
+// via the source registry, then filters + localizes the header here so the
+// producer's cache stays at chapter granularity (max reuse).
+async function resolveReading(
+  reference: ReadingReference,
+  ctx: PreprocessContext,
+  accessor: SourceAccessor,
+): Promise<VersesPrimitive> {
+  if (reference.type === 'bible') {
+    const primitive = (await fetchFromSource(
+      bibleChapterSource.id,
+      { book: reference.book, chapter: reference.chapter },
+      ctx,
+      accessor,
+    )) as VersesPrimitive
+    return finalizeBibleReading(primitive, reference)
+  }
+  const primitive = (await fetchFromSource(
+    cccChapterSource.id,
+    { start: reference.startParagraph, count: reference.count },
+    ctx,
+    accessor,
+  )) as VersesPrimitive
+  return {
+    ...primitive,
+    header: {
+      primary: i18n.t('office.cccLabel', {
+        start: reference.startParagraph,
+        end: reference.startParagraph + reference.count - 1,
+      }),
     },
+  }
+}
+
+function finalizeBibleReading(
+  primitive: VersesPrimitive,
+  ref: Extract<ReadingReference, { type: 'bible' }>,
+): VersesPrimitive {
+  const items =
+    ref.startVerse !== undefined
+      ? primitive.items.filter((item) => {
+          const v = typeof item.num === 'number' ? item.num : Number(item.num)
+          if (!Number.isFinite(v)) return false
+          if (v < ref.startVerse) return false
+          if (ref.endVerse !== undefined && v > ref.endVerse) return false
+          return true
+        })
+      : primitive.items
+  const bookName = i18n.t(`bookName.${ref.book}`, { defaultValue: ref.bookName })
+  const header: BilingualText = {
+    primary: `${bookName} ${ref.chapter}${formatVerseRange(ref.startVerse, ref.endVerse, ref.toEnd)}`,
+  }
+  return { ...primitive, header, items }
+}
+
+// Splits a `\nLine-delimited` BilingualText into per-line items. Single pass
+// per language — secondary's lines are zipped onto primary's by index.
+function bilingualLines(text: BilingualText): { text: BilingualText }[] {
+  const primary = text.primary.split('\n').filter((l) => l.length > 0)
+  const secondary = text.secondary
+    ? text.secondary.split('\n').filter((l) => l.length > 0)
+    : undefined
+  return primary.map((line, i) => ({
+    text: { primary: line, secondary: secondary?.[i] },
   }))
 }
 
-// Fan-out: build the SourceFetchContext, dispatch via React Query + SQLite.
-async function fetchPrimitive(
-  ref: string,
-  params: Record<string, unknown>,
-  ctx: PreprocessContext,
-): Promise<Primitive | Primitive[]> {
-  const source = getSource(ref)
-  if (!source) throw new Error(`preprocessFlow: unknown source ${ref}`)
-
+function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
   const accessor: SourceAccessor = {
     fetch: async (otherSource, otherParams) => {
       const otherCtx: SourceFetchContext = {
@@ -354,10 +410,22 @@ async function fetchPrimitive(
         queryFn: () => runCachedSource(otherSource as ContentSource, otherCtx),
         staleTime: Number.POSITIVE_INFINITY,
       })
-      // Type the cached payload to match the source's declared output.
-      return cached.payload as ReturnType<typeof otherSource.fetch> extends Promise<infer R> ? R : never
+      return cached.payload as ReturnType<typeof otherSource.fetch> extends Promise<infer R>
+        ? R
+        : never
     },
   }
+  return accessor
+}
+
+async function fetchFromSource(
+  ref: string,
+  params: Record<string, unknown>,
+  ctx: PreprocessContext,
+  accessor: SourceAccessor,
+): Promise<Primitive | Primitive[]> {
+  const source = getSource(ref)
+  if (!source) throw new Error(`preprocessFlow: unknown source ${ref}`)
 
   const fetchCtx: SourceFetchContext = {
     params,
@@ -366,7 +434,6 @@ async function fetchPrimitive(
     programDay: ctx.programDay,
     sources: accessor,
   }
-
   const cached = await ctx.queryClient.fetchQuery({
     queryKey: [
       'source',
@@ -377,6 +444,5 @@ async function fetchPrimitive(
     queryFn: () => runCachedSource(source, fetchCtx),
     staleTime: Number.POSITIVE_INFINITY,
   })
-
   return cached.payload
 }

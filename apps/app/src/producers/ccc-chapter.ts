@@ -5,6 +5,8 @@ import type { ContentSource } from './types'
 
 const ID = 'producer/ccc-chapter'
 
+// Returns CCC paragraphs as numbered verses. The preprocessor's `reading`
+// case adds the localized "Catechism of the Catholic Church, N–M" header.
 export const cccChapterSource: ContentSource<VersesPrimitive> = {
   id: ID,
   version: '1',
@@ -13,14 +15,10 @@ export const cccChapterSource: ContentSource<VersesPrimitive> = {
     const start = requirePositiveInt(ID, params, 'start')
     const count = requirePositiveInt(ID, params, 'count')
     const paragraphs = await getCccParagraphs(start, count)
-    const endParagraph = start + count - 1
     return {
       type: 'verses',
-      header: { primary: `CCC ${start}–${endParagraph}` },
       items: paragraphs.map((p) => ({ num: p.number, text: { primary: p.text } })),
       style: 'numbered',
     }
   },
 }
-
-export const cccChapterProducer = cccChapterSource
