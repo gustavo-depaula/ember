@@ -2,7 +2,7 @@
 
 ![](../images/lesson-084.webp)
 
-1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steel. Theft is an offence against God,''That is conscience.
+1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steal. Theft is an offence against God,''That is conscience.
 
 
 **Besides believing what God has revealed, what else must we do to be saved?**

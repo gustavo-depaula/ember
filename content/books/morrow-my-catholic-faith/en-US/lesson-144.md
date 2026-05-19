@@ -29,7 +29,7 @@ The picture shows Our Lord instituting the sacrament of Penance on the first Eas
 
 3. On the part of the penitent, the sacrament of Penance includes three distinct acts; (a) contrition or sorrow for his sins; (b) confession or telling them to the priest; and (c) satisfaction or performance of the penance imposed by the priest.
 
-> A penitent is absolved if he confesses his sins with sorrow and a resolution to at one for them and amend his life.
+> A penitent is absolved if he confesses his sins with sorrow and a resolution to atone for them and amend his life.
 
 
 **Why must we receive the sacrament of Penance?**

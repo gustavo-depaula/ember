@@ -2,7 +2,7 @@
 
 ![](../images/lesson-096.webp)
 
-Above, are illustrated some of the most common forms of superstition. Sick people or their relatives sometimes resort to witchcraft in a vain hope of cure (1). Many otherwise sensible people resort to fortune-tellers to find out about the future (2). Offers believe in signs and omens, (3-5). Superstition, aside from being against the virtue of religion, fetters the mind.
+Above, are illustrated some of the most common forms of superstition. Sick people or their relatives sometimes resort to witchcraft in a vain hope of cure (1). Many otherwise sensible people resort to fortune-tellers to find out about the future (2). Others believe in signs and omens, (3-5). Superstition, aside from being against the virtue of religion, fetters the mind.
 
 
 **How do we worship God by the virtue of religion?**

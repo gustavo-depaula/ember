@@ -2,7 +2,7 @@
 
 ![](../images/lesson-110.webp)
 
-The illustration shows the holy queen Blanche of France and her young son, later St. Louis, King of France. From babyhood, the queen brought up her son in the love of God. She used to say to him over and over that she would rather see him dead than have him commit sin. She guarded him particularly, so that he grew up chaste in body and soul. All mothers should imitate Queen Blanche; the framing she gave helped her son in living a pure and holy life, and in becoming a great saint.
+The illustration shows the holy queen Blanche of France and her young son, later St. Louis, King of France. From babyhood, the queen brought up her son in the love of God. She used to say to him over and over that she would rather see him dead than have him commit sin. She guarded him particularly, so that he grew up chaste in body and soul. All mothers should imitate Queen Blanche; the training she gave helped her son in living a pure and holy life, and in becoming a great saint.
 
 
 **What is forbidden by the ninth commandment?**

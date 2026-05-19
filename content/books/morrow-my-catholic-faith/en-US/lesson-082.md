@@ -2,7 +2,7 @@
 
 ![](../images/lesson-082.webp)
 
-The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one thing necessary for happiness. They can never see and enjoy Cod. They are tortured with envy of the blessed in heaven. They are tormented with shame because their sins will be known to all entirely and completely. After the general judgement their bodies will share the pains of their souls. They will be in torments for all eternity.
+The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one thing necessary for happiness. They can never see and enjoy God. They are tortured with envy of the blessed in heaven. They are tormented with shame because their sins will be known to all entirely and completely. After the general judgement their bodies will share the pains of their souls. They will be in torments for all eternity.
 
 
 **Who are punished in hell?**
@@ -26,7 +26,7 @@ The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, a
 
 > But no one can ever describe or understand adequately the torments of hell, just as no one can realize the bliss of heaven.
 
-1. The pain of loss. The wicked in hell know what they rejected and lost: God. This pain will be the greatest torment of hell, for the human soul is made for God. (a) They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one think needed for happiness: they can never see God.
+1. The pain of loss. The wicked in hell know what they rejected and lost: God. This pain will be the greatest torment of hell, for the human soul is made for God. (a) They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one thing needed for happiness: they can never see God.
 
 > The greater the value of what is lost, the greater is the pain of loss. But the sinners in hell have lost God of infinite worth. Their pain of loss must be in proportion.
 
@@ -46,14 +46,14 @@ The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, a
 
 If the punishment of hell were temporary, many sinners might prefer to gratify their passions on earth, no matter at what cost and penalty in hell, if it were to have an end. The fear of hell should urge us to lead a good life. Nothing on earth is worth one moment in hell; and do we choose to suffer it for all eternity.
 
-> Just as the bliss of heaven will last for all eternity, so will the pains of hell;, and on and on and on, without end, forever. "And the smoke of their torments goes up for ever and ever; and they rest neither day nor night" (Apoc. 14: 11). Christ Himself said: "And if thy hand or thy foot is an occasion of sin to thee, cut it off and cast it from thee! It is better for thee to enter life maimed or lame, than, having two hands or two feet, to be cast into the everlasting fire" (Matt. 18: 8).
+> Just as the bliss of heaven will last for all eternity, so will the pains of hell, and on and on and on, without end, forever. "And the smoke of their torments goes up for ever and ever; and they rest neither day nor night" (Apoc. 14: 11). Christ Himself said: "And if thy hand or thy foot is an occasion of sin to thee, cut it off and cast it from thee! It is better for thee to enter life maimed or lame, than, having two hands or two feet, to be cast into the everlasting fire" (Matt. 18: 8).
 
 
 **Why did a good God create such a fearful place as hell?**
 
 — A good God created such a fearful place as hell, because He is just, and must punish the sinner. 1. The sinner is a traitor to God Who created him.
 
-> God created this world and ail creatures. He owns them. They must therefore be absolutely obedient to His will. If a creature revolts and defies God, then he must be treated as an enemy.
+> God created this world and all creatures. He owns them. They must therefore be absolutely obedient to His will. If a creature revolts and defies God, then he must be treated as an enemy.
 
 2. It is the opinion of Doctors of the Church that no one in hell is punished as much as he deserves. God sent us His own beloved Son, to suffer incredible agonies and death, so that we may be saved from eternal damnation. Can such a God be anything but merciful?
 

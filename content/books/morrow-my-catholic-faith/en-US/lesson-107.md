@@ -2,7 +2,7 @@
 
 ![](../images/lesson-107.webp)
 
-After betraying Our Lord, Judas fell info despair. Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.
+After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.
 
 
 **What are our duties respecting our health and life?**

@@ -53,6 +53,6 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 > However, all the languages in which Mass is said have gone out of daily use and cannot be understood without previous instruction.
 
-3. It is not necessary to understand the Mass prayers as pronounced by the priest, as they are generally pronounced in a very low tone of voice. The prayers are not supposed to be addressed to people, but to God. Mass is nor instruction, but sacrifice.
+3. It is not necessary to understand the Mass prayers as pronounced by the priest, as they are generally pronounced in a very low tone of voice. The prayers are not supposed to be addressed to people, but to God. Mass is not instruction, but sacrifice.
 
 > The people, by means of their prayer books, can , follow the movements of the priest, and hear the Mass. Missals for the laity have all the prayers read by the priest, translated from the Latin. 4. If preferred, a prayer book may be used at Mass, reading the prayers for Mass, or even other prayers. The five sorrowful mysteries of the Rosary are suitable as Mass devotions, setting forth as they do Our Lord's Passion.

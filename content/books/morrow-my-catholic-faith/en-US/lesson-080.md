@@ -9,7 +9,7 @@ Belief in the resurrection is very consoling. It was this belief that gave the e
 
 — By "the resurrection of the body" is meant that at the end of the world the bodies of all men will rise from the earth and be united again to their souls, nevermore to be separated.
 
-> "In a moment, in the twinkling of an eye, at the last trumpet. For the trumpet shall sound,and the dead shall rise" (I Cor. 15: 52).
+> "In a moment, in the twinkling of an eye, at the last trumpet. For the trumpet shall sound, and the dead shall rise" (I Cor. 15: 52).
 
 1. Our Lord often foretold the resurrection of the body.
 
