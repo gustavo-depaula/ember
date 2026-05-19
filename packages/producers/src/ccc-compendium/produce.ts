@@ -71,5 +71,3 @@ export const cccCompendiumSource = {
   },
 }
 
-// Legacy alias for code mid-migration.
-export const cccCompendiumProducer = cccCompendiumSource

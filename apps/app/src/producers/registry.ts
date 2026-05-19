@@ -22,8 +22,3 @@ registerSource(cccCompendiumSource as ContentSource)
 registerSource(cccChapterSource)
 registerSource(bibleChapterSource)
 registerSource(psalmodySource)
-
-// Legacy aliases.
-export const registerProducer = registerSource
-export const unregisterProducer = unregisterSource
-export const getProducer = getSource

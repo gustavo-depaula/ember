@@ -26,3 +26,4 @@ export const bibleChapterSource: ContentSource<VersesPrimitive> = {
     }
   },
 }
+

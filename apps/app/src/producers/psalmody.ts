@@ -33,7 +33,3 @@ export const psalmodySource: ContentSource<Primitive[]> = {
   },
 }
 
-export const psalmodyProducer = psalmodySource
-
-// Re-exported for callers that still talk about the old shape.
-export type PsalmodySlot = { ref: PsalmRef; verses: { verse: number; text: string }[] }

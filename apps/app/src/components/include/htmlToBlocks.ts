@@ -1,6 +1,6 @@
-// Producer HTML grammar: `<p>` (optional id/class), `<blockquote>`,
+// ContentSource HTML grammar: `<p>` (optional id/class), `<blockquote>`,
 // `<a data-ref>`, `<b>`, `<i>`, `<br />`. Anything else collapses to text.
-// Input is assumed already cleaned by the producer.
+// Input is assumed already cleaned by the source.
 
 export type Inline =
   | { kind: 'text'; text: string }

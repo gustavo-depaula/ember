@@ -31,7 +31,3 @@ export type ContentSource<T extends Primitive | Primitive[] = Primitive | Primit
   prefsDeps: (keyof ProducerPrefs)[]
   fetch: (ctx: SourceFetchContext) => Promise<T>
 }
-
-// Legacy aliases for code mid-migration; phase 7 will remove.
-export type Producer = ContentSource
-export type ProducerContext = SourceFetchContext

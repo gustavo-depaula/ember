@@ -1,17 +1,8 @@
-export {
-  getProducer,
-  getSource,
-  registerProducer,
-  registerSource,
-  unregisterProducer,
-  unregisterSource,
-} from './registry'
-export type { CachedProducerResult, CachedSourceResult } from './runCachedProducer'
-export { cacheKeyFor, runCachedProducer, runCachedSource } from './runCachedProducer'
+export { getSource, registerSource, unregisterSource } from './registry'
+export type { CachedSourceResult } from './runCachedSource'
+export { cacheKeyFor, runCachedSource } from './runCachedSource'
 export type {
   ContentSource,
-  Producer,
-  ProducerContext,
   ProducerPrefs,
   SourceAccessor,
   SourceFetchContext,

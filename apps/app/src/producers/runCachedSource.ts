@@ -51,6 +51,3 @@ export async function runCachedSource(
 }
 
 export { cacheKeyFor }
-// Legacy alias.
-export const runCachedProducer = runCachedSource
-export type CachedProducerResult = CachedSourceResult

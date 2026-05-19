@@ -1,6 +1,6 @@
-// Param validators producers use in `produce()`. They throw — which surfaces
-// as a useQuery error in the consuming slot. Keep `cacheKey` total (no
-// validation), since it runs every render via useProducer.
+// Param validators for ContentSource `fetch()`. Throwing here surfaces as
+// a useQuery error in the preprocessor and routes through the practice-level
+// retry UI.
 
 type Params = Record<string, unknown> | undefined
 
