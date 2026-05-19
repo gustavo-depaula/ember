@@ -54,13 +54,6 @@
 				{
 					"kind": "item",
 					"ref": "practice/confession"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/para-confissao",
-					"seeAlso": [
-						"collection/devocionario-claretiano"
-					]
 				}
 			]
 		},
@@ -84,10 +77,6 @@
 				{
 					"kind": "item",
 					"ref": "practice/act-of-contrition"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/contricao-bons-propositos"
 				},
 				{
 					"kind": "item",

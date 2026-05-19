@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
-import { getCollectionItems, getEntriesByKind, isHiddenCollection } from '@/content/contentIndex'
+import { getCollectionItems, getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { localizeContent } from '@/lib/i18n'
@@ -78,7 +78,6 @@ export default function AllCollectionsScreen() {
   const collections = useMemo<CollectionRow[]>(() => {
     const out: CollectionRow[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
-      if (isHiddenCollection(id)) continue
       out.push({
         id,
         bareId: bareId(id),

@@ -46,20 +46,6 @@ export const RESIDENT_KINDS = [
   'creator',
 ] as const satisfies ReadonlyArray<CatalogItemKind>
 
-// Items kept in the corpus for engine-feature documentation but never shown to
-// end users. Filter at every read site that powers browse, search, or list UIs.
-const HIDDEN_COLLECTION_IDS = new Set(['collection/examples'])
-const exampleIdPattern = /^\d+-/
-
-export function isHiddenCollection(id: string): boolean {
-  return HIDDEN_COLLECTION_IDS.has(id)
-}
-
-export function isHiddenPractice(id: string): boolean {
-  const bare = id.startsWith('practice/') ? id.slice('practice/'.length) : id
-  return exampleIdPattern.test(bare)
-}
-
 let catalog: Catalog = { version: 2, generated: '', items: {} }
 const manifestBodies = new Map<string, unknown>()
 

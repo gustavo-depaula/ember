@@ -54,19 +54,6 @@
 			]
 		},
 		{
-			"id": "in-portuguese",
-			"title": {
-				"en-US": "In Portuguese",
-				"pt-BR": "Em Português"
-			},
-			"blocks": [
-				{
-					"kind": "item",
-					"ref": "practice/pelos-moribundos"
-				}
-			]
-		},
-		{
 			"id": "office-of-the-dead",
 			"title": {
 				"en-US": "Office of the Dead",
