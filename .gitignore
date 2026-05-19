@@ -65,3 +65,6 @@ content/saints/*.webp
 __pycache__/
 *.py[cod]
 tmp/
+
+# Cached source PDFs / large binaries downloaded by import scripts
+.cache/
