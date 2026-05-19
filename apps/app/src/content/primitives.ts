@@ -7,14 +7,7 @@
 
 import type { BilingualRichText, BilingualText, PickerStyle } from '@ember/content-engine'
 
-type LiturgicalColor =
-  | 'white'
-  | 'red'
-  | 'green'
-  | 'violet'
-  | 'rose'
-  | 'black'
-  | 'gold'
+type LiturgicalColor = 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
 
 // — Leaf primitives —
 
@@ -69,12 +62,28 @@ export type HolyCardPrimitive = {
   prayer?: BilingualText
 }
 
+// Inline run inside a paragraph or blockquote.
+export type ProseInline =
+  | { kind: 'text'; text: string }
+  | { kind: 'bold'; text: string }
+  | { kind: 'italic'; text: string }
+  | { kind: 'ref'; ref: string; text: string }
+  | { kind: 'break' }
+
+// Block-level element produced by a reader-kind source (already parsed —
+// the source does the HTML→structured-tree work once, and SQLite caches
+// the result, so the renderer never reparses).
+export type ProseBlock =
+  | { kind: 'paragraph'; id?: string; className?: string; inline: ProseInline[] }
+  | { kind: 'blockquote'; children: ProseBlock[] }
+
 export type ProsePrimitive = {
   type: 'prose'
-  // Either: rich text (markdown — what the engine emits) or raw HTML
-  // (what reader-style content sources emit). Renderer picks the right block.
+  // Engine-emitted prose carries rich text (markdown-ish, localized).
+  // Reader-kind sources emit pre-parsed `blocks` instead, so the renderer
+  // is a pure walk and Vatican.va HTML never reaches the render path.
   text?: BilingualText
-  html?: string
+  blocks?: ProseBlock[]
   anchors?: Record<string, { chapter: string }>
 }
 
@@ -93,12 +102,27 @@ export type CalloutPrimitive = {
 export type ContainerBehavior =
   | { kind: 'group' }
   | { kind: 'collapsible'; title: BilingualText; defaultOpen: boolean }
-  | { kind: 'select'; label: BilingualText; overrideKey: string; selectedId: string; pickerStyle?: PickerStyle; options: ContainerOption[] }
+  | {
+      kind: 'select'
+      label: BilingualText
+      overrideKey: string
+      selectedId: string
+      pickerStyle?: PickerStyle
+      options: ContainerOption[]
+    }
   | { kind: 'options'; label: BilingualText; pickerStyle?: PickerStyle; options: ContainerOption[] }
   | { kind: 'color-scope'; color: LiturgicalColor }
   | { kind: 'prayer'; title: BilingualText; text: BilingualText; count?: number }
   | { kind: 'liturgical-prayer'; speaker: 'priest' | 'people' | 'all'; text: BilingualText }
-  | { kind: 'choice-rich-text'; label: BilingualText; overrideKey: string; selectedId?: string; pickerStyle?: PickerStyle; hideLabel?: boolean; options: ChoiceRichTextOption[] }
+  | {
+      kind: 'choice-rich-text'
+      label: BilingualText
+      overrideKey: string
+      selectedId?: string
+      pickerStyle?: PickerStyle
+      hideLabel?: boolean
+      options: ChoiceRichTextOption[]
+    }
 
 export type ContainerOption = {
   id: string
@@ -130,11 +154,48 @@ export type ContainerPrimitive = {
 // — Interaction primitive — gathers all stateful UI under one kind —
 
 export type InteractionPrimitive =
-  | { type: 'interaction'; kind: 'proper'; slot: string; form: 'of' | 'ef'; description: BilingualText }
-  | { type: 'interaction'; kind: 'offering'; mode: 'intercessory' | 'thanksgiving' | 'both'; default: 'pinned' | 'all-active' | 'user-pick'; show: 'list' | 'count' | 'silent'; label?: BilingualText }
-  | { type: 'interaction'; kind: 'capture-movement'; movement: 'intention' | 'thanksgiving'; prompt: BilingualText; multi: boolean; defaultCadence?: 'perpetual' | 'goal' | 'bounded' }
-  | { type: 'interaction'; kind: 'capture-resolution'; level: 'daily'; forward: 'current' | 'next'; prompt: BilingualText; window: { starts_at: number; ends_at: number }; prefill?: { resolution_id: string; text: string } }
-  | { type: 'interaction'; kind: 'review-resolution'; mode: 'review' | 'checkin' | 'show'; target: 'active-daily' | 'pending-daily'; resolution?: { id: string; text: string; level: 'daily' }; prompt?: BilingualText; outcomes: Array<'kept' | 'partial' | 'broken'>; allowNotes: boolean }
+  | {
+      type: 'interaction'
+      kind: 'proper'
+      slot: string
+      form: 'of' | 'ef'
+      description: BilingualText
+    }
+  | {
+      type: 'interaction'
+      kind: 'offering'
+      mode: 'intercessory' | 'thanksgiving' | 'both'
+      default: 'pinned' | 'all-active' | 'user-pick'
+      show: 'list' | 'count' | 'silent'
+      label?: BilingualText
+    }
+  | {
+      type: 'interaction'
+      kind: 'capture-movement'
+      movement: 'intention' | 'thanksgiving'
+      prompt: BilingualText
+      multi: boolean
+      defaultCadence?: 'perpetual' | 'goal' | 'bounded'
+    }
+  | {
+      type: 'interaction'
+      kind: 'capture-resolution'
+      level: 'daily'
+      forward: 'current' | 'next'
+      prompt: BilingualText
+      window: { starts_at: number; ends_at: number }
+      prefill?: { resolution_id: string; text: string }
+    }
+  | {
+      type: 'interaction'
+      kind: 'review-resolution'
+      mode: 'review' | 'checkin' | 'show'
+      target: 'active-daily' | 'pending-daily'
+      resolution?: { id: string; text: string; level: 'daily' }
+      prompt?: BilingualText
+      outcomes: Array<'kept' | 'partial' | 'broken'>
+      allowNotes: boolean
+    }
 
 // — Union —
 

@@ -28,17 +28,28 @@ vi.mock('@/sources/ccc-compendium', async (importOriginal) => {
         })
         const first = Number(ctx.params?.first ?? 1)
         const last = Number(ctx.params?.last ?? 6)
-        const parts: string[] = []
+        const blocks: unknown[] = []
         const anchors: Record<string, { chapter: string }> = {}
         for (let q = first; q <= last; q++) {
-          parts.push(
-            `<p id="q${q}"><b>${q}. Question ${q}?</b></p>` +
-              `<p class="ccc-refs"><a data-ref="book/ccc#${q}">${q}</a></p>` +
-              `<p>Answer ${q}.</p>`,
+          blocks.push(
+            {
+              kind: 'paragraph',
+              id: `q${q}`,
+              inline: [{ kind: 'bold', text: `${q}. Question ${q}?` }],
+            },
+            {
+              kind: 'paragraph',
+              className: 'ccc-refs',
+              inline: [{ kind: 'ref', ref: `book/ccc#${q}`, text: String(q) }],
+            },
+            {
+              kind: 'paragraph',
+              inline: [{ kind: 'text', text: `Answer ${q}.` }],
+            },
           )
           anchors[String(q)] = { chapter: 'part-1' }
         }
-        return { type: 'prose', html: parts.join('\n'), anchors }
+        return { type: 'prose', blocks, anchors }
       },
     },
   }

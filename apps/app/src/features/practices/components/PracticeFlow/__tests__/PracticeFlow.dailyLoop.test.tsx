@@ -69,10 +69,10 @@ describe('daily resolution loop — Examen → next-day Morning Offering', () =>
     //    (proves the new flow finished resolving — the Examen's old display
     //    of the same resolution text would race the assertion otherwise).
     expect(
-      (await screen.findAllByText(/Remember your resolution today/i, undefined, { timeout: 5000 }))[0],
+      (
+        await screen.findAllByText(/Remember your resolution today/i, undefined, { timeout: 5000 })
+      )[0],
     ).toBeInTheDocument()
-    expect(
-      (await screen.findAllByText('Hold my tongue at the meeting'))[0],
-    ).toBeInTheDocument()
+    expect((await screen.findAllByText('Hold my tongue at the meeting'))[0]).toBeInTheDocument()
   }, 45_000)
 })

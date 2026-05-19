@@ -1295,6 +1295,10 @@ export default {
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',
   },
 
+  practices: {
+    title: 'Practices',
+  },
+
   obligations: {
     fast: 'Day of Fast',
     abstinence: 'Day of Abstinence',

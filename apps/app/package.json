@@ -54,6 +54,7 @@
     "expo-status-bar": "~55.0.5",
     "expo-updates": "~55.0.21",
     "fast-xml-parser": "^5.7.3",
+    "htmlparser2": "^12.0.0",
     "hyphen": "^1.14.1",
     "i18next": "^25.10.10",
     "immer": "^11.1.4",

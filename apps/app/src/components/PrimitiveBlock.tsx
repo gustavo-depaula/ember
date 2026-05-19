@@ -99,9 +99,9 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       )
 
     case 'prose':
-      if (primitive.html) return <ProducerHtmlBlock html={primitive.html} />
+      if (primitive.blocks) return <ProducerHtmlBlock blocks={primitive.blocks} />
       if (primitive.text) return <ProseBlock text={primitive.text} />
-      throw new Error('prose primitive must have either text or html')
+      throw new Error('prose primitive must have either text or blocks')
 
     case 'callout':
       return renderCallout(primitive)

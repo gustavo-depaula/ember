@@ -1302,6 +1302,10 @@ export default {
       'Sua oração foi registrada, mas não conseguimos avançar para o próximo dia. Tente novamente mais tarde.',
   },
 
+  practices: {
+    title: 'Práticas',
+  },
+
   obligations: {
     fast: 'Dia de Jejum',
     abstinence: 'Dia de Abstinência',

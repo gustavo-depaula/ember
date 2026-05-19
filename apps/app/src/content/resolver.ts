@@ -437,8 +437,13 @@ export async function loadMassProper(
       getJson<unknown>((resolved.langs[available] as BlobRef).hash),
     ),
   ])
+  // Key by the corpus' lang code (ember-extra style: 'en', 'pt-BR', 'la'),
+  // not by the user's requested BCP47 code. Downstream consumers ask the
+  // merged formulary for `body.plain[emberExtraLang('en-US')]` = `body.plain['en']`,
+  // so the merge keys MUST match the corpus convention — otherwise English
+  // (and any other lang where requested ≠ available) silently renders empty.
   const payloadsByLang = Object.fromEntries(
-    fetched.map(({ requested }, i) => [requested, langPayloads[i]] as const),
+    fetched.map(({ available }, i) => [available, langPayloads[i]] as const),
   )
   return mergeLangs(shape, payloadsByLang)
 }

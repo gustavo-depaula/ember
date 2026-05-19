@@ -2,11 +2,16 @@
 
 import { Fragment } from 'react'
 import { Text, YStack } from 'tamagui'
+import type { ProseBlock, ProseInline } from '@/content/primitives'
 import { PrayerText } from '../PrayerText'
-import type { Block, Inline } from './htmlToBlocks'
-import { htmlToBlocks } from './htmlToBlocks'
 
-function InlineRun({ nodes, onRefPress }: { nodes: Inline[]; onRefPress?: (ref: string) => void }) {
+function InlineRun({
+  nodes,
+  onRefPress,
+}: {
+  nodes: ProseInline[]
+  onRefPress?: (ref: string) => void
+}) {
   return (
     <>
       {nodes.map((n, i) => {
@@ -40,7 +45,13 @@ function InlineRun({ nodes, onRefPress }: { nodes: Inline[]; onRefPress?: (ref: 
   )
 }
 
-function BlockView({ block, onRefPress }: { block: Block; onRefPress?: (ref: string) => void }) {
+function BlockView({
+  block,
+  onRefPress,
+}: {
+  block: ProseBlock
+  onRefPress?: (ref: string) => void
+}) {
   if (block.kind === 'blockquote') {
     return (
       <YStack borderLeftWidth={3} borderLeftColor="$borderColor" paddingLeft="$md" gap="$sm">
@@ -60,14 +71,16 @@ function BlockView({ block, onRefPress }: { block: Block; onRefPress?: (ref: str
   )
 }
 
+// Renders pre-parsed prose blocks (produced once by reader-kind sources and
+// cached in external_content). No parsing happens here — the renderer is a
+// pure walk over a typed tree.
 export function ProducerHtmlBlock({
-  html,
+  blocks,
   onRefPress,
 }: {
-  html: string
+  blocks: ProseBlock[]
   onRefPress?: (ref: string) => void
 }) {
-  const blocks = htmlToBlocks(html)
   return (
     <YStack gap="$md">
       {blocks.map((b, i) => (
