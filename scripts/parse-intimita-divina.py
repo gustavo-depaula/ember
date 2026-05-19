@@ -16,7 +16,7 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
 SOURCE_DIR = BASE / "content/_archive/carmelite/sources/italian-originals"
-OUTPUT_DIR = BASE / "content/books/intimita-divina/it"
+OUTPUT_DIR = BASE / "content/books/gabriel-stmm-intimita-divina/it"
 
 VOLUMES = ["id_vol_I.txt", "id_vol_II.txt", "id_vol_III.txt",
            "id_vol_IV.txt", "id_vol_V.txt", "id_vol_VI.txt"]

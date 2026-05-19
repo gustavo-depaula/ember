@@ -8,7 +8,7 @@
       "calendar": "ef",
       "strategy": "liturgical-day",
       "as": "meditations",
-      "book": "intimita-divina"
+      "book": "gabriel-stmm-intimita-divina"
     }
   ],
   "sections": [
@@ -23,7 +23,7 @@
       "sections": [
         {
           "type": "prose",
-          "book": "intimita-divina",
+          "book": "gabriel-stmm-intimita-divina",
           "chapter": "{{chapterId}}",
           "langPolicy": "book-default"
         }

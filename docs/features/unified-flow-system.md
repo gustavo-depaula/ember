@@ -10,7 +10,7 @@
 | **Scheduling** | Each slot binds to a flow ID (`slot_id`) | Slots bind to the practice; `select` auto-picks content based on context |
 | **Repeat data** (mystery names, station meditations) | Loaded from variant files, keyed by flow ID via `setKeyOverride` | `data` field on `FlowDefinition`; `repeat data: "{{var}}"` reads from it |
 | **Practice builder** | N/A | Flow JSON is the universal content language — the builder writes it, the app reads it |
-| **Liturgical content** (meditacoes-ligorio, future hagiographic practices) | Custom React hooks per practice; app-layer code resolves calendar → content | `resolve` field on flow + dynamic `prose` — fully declarative, no practice-specific code |
+| **Liturgical content** (liguori-meditacoes, future hagiographic practices) | Custom React hooks per practice; app-layer code resolves calendar → content | `resolve` field on flow + dynamic `prose` — fully declarative, no practice-specific code |
 
 **Removed:** `Variant` type + files, `variants[]`, `forms` config, `FlowEntry` type, `flows[]` array, `variant` DB column, `setKeyOverride`, `group` on FlowEntry, `VariantSelector`, `loadFlowForSlot`, form-filtering logic, `useLiturgicalMeditation` hook.
 
@@ -376,7 +376,7 @@ templateVars: {
       "calendar": "ef",
       "strategy": "liturgical-day",
       "as": "meditations",
-      "book": "meditacoes-ligorio"
+      "book": "liguori-meditacoes"
     }
   ],
   "sections": [
@@ -387,7 +387,7 @@ templateVars: {
       "type": "options",
       "label": { "pt-BR": "Meditação" },
       "from": "meditations",
-      "sections": [{ "type": "prose", "book": "meditacoes-ligorio", "chapter": "{{chapterId}}" }]
+      "sections": [{ "type": "prose", "book": "liguori-meditacoes", "chapter": "{{chapterId}}" }]
     }
   ]
 }
@@ -419,7 +419,7 @@ The `prose` section type currently references a static key in `resolvedProse`:
 This requires the app layer to populate `resolvedProse` before rendering — which is what `useLiturgicalMeditation` does. To eliminate practice-specific code, `prose` gains dynamic chapter loading:
 
 ```json
-{ "type": "prose", "book": "meditacoes-ligorio", "chapter": "{{chapterId}}" }
+{ "type": "prose", "book": "liguori-meditacoes", "chapter": "{{chapterId}}" }
 ```
 
 ### Resolution
@@ -842,7 +842,7 @@ Each practice defines its own flow with the right structure — no more clamping
       "calendar": "ef",
       "strategy": "liturgical-day",
       "as": "meditations",
-      "book": "meditacoes-ligorio"
+      "book": "liguori-meditacoes"
     }
   ],
   "sections": [
@@ -857,7 +857,7 @@ Each practice defines its own flow with the right structure — no more clamping
       "type": "options",
       "label": { "pt-BR": "Meditação" },
       "from": "meditations",
-      "sections": [{ "type": "prose", "book": "meditacoes-ligorio", "chapter": "{{chapterId}}" }]
+      "sections": [{ "type": "prose", "book": "liguori-meditacoes", "chapter": "{{chapterId}}" }]
     },
     {
       "type": "prayer",

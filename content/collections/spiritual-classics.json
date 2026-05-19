@@ -45,7 +45,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/confessions"
+					"ref": "book/augustine-confessions"
 				}
 			]
 		},
@@ -64,7 +64,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/imitation-of-christ"
+					"ref": "book/kempis-imitation-of-christ"
 				}
 			]
 		},
@@ -83,11 +83,11 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/summa-contra-gentiles"
+					"ref": "book/aquinas-summa-contra-gentiles"
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechetical-instructions"
+					"ref": "book/aquinas-catechetical-instructions"
 				},
 				{
 					"kind": "item",
@@ -113,7 +113,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/introduction-to-the-devout-life"
+					"ref": "book/sales-introduction-to-the-devout-life"
 				}
 			]
 		},
@@ -136,15 +136,15 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechism-of-trent"
+					"ref": "book/trent-catechism"
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechism-pius-x-1912"
+					"ref": "book/pius-x-catechism"
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechism-in-pictures"
+					"ref": "book/bonne-presse-catechism-in-pictures"
 				}
 			]
 		},

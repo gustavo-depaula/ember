@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-BOOK_DIR = BASE / "content/books/intimita-divina"
+BOOK_DIR = BASE / "content/books/gabriel-stmm-intimita-divina"
 IT_DIR = BOOK_DIR / "it"
 BOOK_JSON = BOOK_DIR / "book.json"
 

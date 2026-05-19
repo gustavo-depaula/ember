@@ -1,0 +1,112 @@
+{
+  "id": "augustine-confessions",
+  "name": {
+    "en-US": "Confessions and Enchiridion, newly translated and edited by Albert C. Outler"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "author": {
+    "en-US": "Augustine, Saint, Bishop of Hippo (345-430)"
+  },
+  "composed": "397",
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.ccel.org/ccel/augustine/confessions/",
+      "description": "Christian Classics Ethereal Library (ccel.org)"
+    }
+  ],
+  "toc": [
+    {
+      "id": "title-page",
+      "title": {
+        "en-US": "Title Page"
+      }
+    },
+    {
+      "id": "introduction",
+      "title": {
+        "en-US": "Introduction"
+      }
+    },
+    {
+      "id": "augustine-s-testimony-concerning-the-confessions",
+      "title": {
+        "en-US": "Augustine's Testimony Concerning the Confessions"
+      }
+    },
+    {
+      "id": "book-one",
+      "title": {
+        "en-US": "Book One"
+      }
+    },
+    {
+      "id": "book-two",
+      "title": {
+        "en-US": "Book Two"
+      }
+    },
+    {
+      "id": "book-three",
+      "title": {
+        "en-US": "Book Three"
+      }
+    },
+    {
+      "id": "book-four",
+      "title": {
+        "en-US": "Book Four"
+      }
+    },
+    {
+      "id": "book-five",
+      "title": {
+        "en-US": "Book Five"
+      }
+    },
+    {
+      "id": "book-six",
+      "title": {
+        "en-US": "Book Six"
+      }
+    },
+    {
+      "id": "book-seven",
+      "title": {
+        "en-US": "Book Seven"
+      }
+    },
+    {
+      "id": "book-eight",
+      "title": {
+        "en-US": "Book Eight"
+      }
+    },
+    {
+      "id": "book-nine",
+      "title": {
+        "en-US": "Book Nine"
+      }
+    },
+    {
+      "id": "book-ten",
+      "title": {
+        "en-US": "Book Ten"
+      }
+    },
+    {
+      "id": "book-eleven",
+      "title": {
+        "en-US": "Book Eleven"
+      }
+    },
+    {
+      "id": "book-twelve",
+      "title": {
+        "en-US": "Book Twelve"
+      }
+    }
+  ]
+}

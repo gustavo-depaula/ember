@@ -15,7 +15,7 @@ Every piece of content is a **first-class corpus item** with a stable, kind-pref
 | `prayer` | `prayer/our-father` | `content/prayers/our-father.json` |
 | `practice` | `practice/rosary` | `content/practices/rosary/` |
 | `chapter` | `chapter/lectio-divina` | `content/chapters/lectio-divina/` |
-| `book` | `book/catechism-of-trent` | `content/books/catechism-of-trent/` |
+| `book` | `book/trent-catechism` | `content/books/trent-catechism/` |
 | `mass` | `mass/of/tempore/holy-week/easter-vigil` | `content/masses/of/tempore/holy-week/easter-vigil.json` |
 | `of-ordinary` / `of-preface` / `of-eucharistic-prayer` | `of/ordinary/roman-canon` | `content/of-library/ordinary/roman-canon.json` |
 | `of-data` | `of-data/calendar/sanctorale/_index` | `content/of-data/calendar/sanctorale/_index.json` |
@@ -116,7 +116,7 @@ A collection is a tiny JSON manifest listing references to other corpus items:
   "description": { ... },
   "tags": ["spirituality"],
   "items": [
-    { "ref": "book/intimita-divina" },
+    { "ref": "book/gabriel-stmm-intimita-divina" },
     { "ref": "practice/carmelite-night-prayer" },
     { "ref": "prayer/teresa-of-avila-bookmark" }
   ]

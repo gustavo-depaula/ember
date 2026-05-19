@@ -16,7 +16,7 @@ See `docs/README.md` for the full mission, roadmap, and what's built.
 
 ## Content Architecture
 
-All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, chapter, book, collection, and Mass proper is a first-class catalog item with a stable kind-prefixed id (`practice/rosary`, `prayer/our-father`, `book/catechetical-formation`, `collection/carmelite`). The catalog points at hash-addressed blobs, so a typo fix is a ~5KB diff instead of a 70MB re-download.
+All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, chapter, book, collection, and Mass proper is a first-class catalog item with a stable kind-prefixed id (`practice/rosary`, `prayer/our-father`, `book/morrow-my-catholic-faith`, `collection/carmelite`). The catalog points at hash-addressed blobs, so a typo fix is a ~5KB diff instead of a 70MB re-download.
 
 - **Practices are pure JSON.** Adding a practice means writing a `manifest.json` + `flow.json` — no app code. The flow DSL (`select`, `repeat`, `cycle`, `proper`) describes anything from a simple prayer to the Mass.
 - **Content resolution:** `apps/app/src/content/resolver.ts` resolves refs through `contentIndex.ts` (catalog index) and `store.ts` (blob fetch + cache). Refs are global kind-prefixed ids — no library scoping.

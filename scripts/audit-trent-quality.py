@@ -23,7 +23,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BOOK_DIR = ROOT / "content" / "libraries" / "base" / "books" / "catechism-of-trent"
+BOOK_DIR = ROOT / "content" / "libraries" / "base" / "books" / "trent-catechism"
 
 # Pass thresholds (file with fewer than these issues passes)
 MAX_HYPHEN_SPLITS = 2

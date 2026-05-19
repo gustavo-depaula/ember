@@ -149,7 +149,7 @@ The `id` field is the book's unique identifier. It must be kebab-case, ASCII-onl
 - Use the surname or the name the saint is known by: *Thomas à Kempis* → `kempis`, *St. Augustine* → `augustine`, *St. Francis de Sales* → `francis-de-sales`.
 - Drop honorifics: *St.*, *Bl.*, *Ven.*, *Fr.*, *Pope*.
 - For popes known by their papal name: *Pope Leo XIII* → `leo-xiii`.
-- **Skip the author prefix** for institutional documents (e.g. `catechism-of-trent`), Bibles/translations, and anthologies/compiled works with no single author.
+- **Skip the author prefix** for institutional documents (e.g. `trent-catechism`), Bibles/translations, and anthologies/compiled works with no single author.
 
 **Step 2 — Title.** Use the language most commonly associated with the work:
 
@@ -174,7 +174,7 @@ The `id` field is the book's unique identifier. It must be kebab-case, ASCII-onl
 | The Imitation of Christ | Thomas à Kempis | `kempis-imitation-of-christ` |
 | True Devotion to Mary | St. Louis de Montfort | `montfort-true-devotion` |
 | Introduction to the Devout Life | St. Francis de Sales | `francis-de-sales-devout-life` |
-| Catechism of the Council of Trent | (Council of Trent) | `catechism-of-trent` |
+| Catechism of the Council of Trent | (Council of Trent) | `trent-catechism` |
 
 ### Composed formats
 

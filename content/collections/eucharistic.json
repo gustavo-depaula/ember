@@ -219,7 +219,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/visite-al-ss-sacramento",
+					"ref": "book/liguori-visite-al-ss-sacramento",
 					"seeAlso": [
 						"collection/alphonsus-liguori"
 					]

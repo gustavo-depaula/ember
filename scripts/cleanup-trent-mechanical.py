@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BOOK_DIR = ROOT / "content" / "libraries" / "base" / "books" / "catechism-of-trent"
+BOOK_DIR = ROOT / "content" / "libraries" / "base" / "books" / "trent-catechism"
 
 
 def clean_common(text: str) -> str:

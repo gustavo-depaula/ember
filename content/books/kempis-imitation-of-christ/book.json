@@ -1,0 +1,750 @@
+{
+  "id": "kempis-imitation-of-christ",
+  "name": {
+    "en-US": "The Imitation of Christ"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "author": {
+    "en-US": "Thomas à Kempis"
+  },
+  "composed": "c. 1400",
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://ccel.org/k/kempis/imitation/About.htm",
+      "description": "Christian Classics Ethereal Library (ccel.org)"
+    }
+  ],
+  "toc": [
+    {
+      "id": "title-page",
+      "title": {
+        "en-US": "Title Page"
+      }
+    },
+    {
+      "id": "foreword",
+      "title": {
+        "en-US": "Foreword"
+      }
+    },
+    {
+      "id": "book-one",
+      "title": {
+        "en-US": "Thoughts Helpful in the Life of the Soul"
+      },
+      "children": [
+        {
+          "id": "book-one-chapter-1",
+          "title": {
+            "en-US": "Imitating Christ and Despising All Vanities on Earth"
+          }
+        },
+        {
+          "id": "book-one-chapter-2",
+          "title": {
+            "en-US": "Having a Humble Opinion of Self"
+          }
+        },
+        {
+          "id": "book-one-chapter-3",
+          "title": {
+            "en-US": "The Doctrine of Truth"
+          }
+        },
+        {
+          "id": "book-one-chapter-4",
+          "title": {
+            "en-US": "Prudence in Action"
+          }
+        },
+        {
+          "id": "book-one-chapter-5",
+          "title": {
+            "en-US": "Reading the Holy Scripture"
+          }
+        },
+        {
+          "id": "book-one-chapter-6",
+          "title": {
+            "en-US": "Unbridled Affections"
+          }
+        },
+        {
+          "id": "book-one-chapter-7",
+          "title": {
+            "en-US": "Avoiding False Hope and Pride"
+          }
+        },
+        {
+          "id": "book-one-chapter-8",
+          "title": {
+            "en-US": "Shunning Over-Familiarity"
+          }
+        },
+        {
+          "id": "book-one-chapter-9",
+          "title": {
+            "en-US": "Obedience and Subjection"
+          }
+        },
+        {
+          "id": "book-one-chapter-10",
+          "title": {
+            "en-US": "Avoiding Idle Talk"
+          }
+        },
+        {
+          "id": "book-one-chapter-11",
+          "title": {
+            "en-US": "Acquiring Peace and Zeal for Perfection"
+          }
+        },
+        {
+          "id": "book-one-chapter-12",
+          "title": {
+            "en-US": "The Value of Adversity"
+          }
+        },
+        {
+          "id": "book-one-chapter-13",
+          "title": {
+            "en-US": "Resisting Temptation"
+          }
+        },
+        {
+          "id": "book-one-chapter-14",
+          "title": {
+            "en-US": "Avoiding Rash Judgment"
+          }
+        },
+        {
+          "id": "book-one-chapter-15",
+          "title": {
+            "en-US": "Works Done in Charity"
+          }
+        },
+        {
+          "id": "book-one-chapter-16",
+          "title": {
+            "en-US": "Bearing with the Faults of Others"
+          }
+        },
+        {
+          "id": "book-one-chapter-17",
+          "title": {
+            "en-US": "Monastic Life"
+          }
+        },
+        {
+          "id": "book-one-chapter-18",
+          "title": {
+            "en-US": "The Example Set Us by the Holy Fathers"
+          }
+        },
+        {
+          "id": "book-one-chapter-19",
+          "title": {
+            "en-US": "The Practices of a Good Religious"
+          }
+        },
+        {
+          "id": "book-one-chapter-20",
+          "title": {
+            "en-US": "The Love of Solitude and Silence"
+          }
+        },
+        {
+          "id": "book-one-chapter-21",
+          "title": {
+            "en-US": "Sorrow of Heart"
+          }
+        },
+        {
+          "id": "book-one-chapter-22",
+          "title": {
+            "en-US": "Thoughts on the Misery of Man"
+          }
+        },
+        {
+          "id": "book-one-chapter-23",
+          "title": {
+            "en-US": "Thoughts on Death"
+          }
+        },
+        {
+          "id": "book-one-chapter-24",
+          "title": {
+            "en-US": "Judgment and the Punishment of Sin"
+          }
+        },
+        {
+          "id": "book-one-chapter-25",
+          "title": {
+            "en-US": "Zeal in Amending our Lives"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-two",
+      "title": {
+        "en-US": "The Interior Life"
+      },
+      "children": [
+        {
+          "id": "book-two-chapter-1",
+          "title": {
+            "en-US": "Meditation"
+          }
+        },
+        {
+          "id": "book-two-chapter-2",
+          "title": {
+            "en-US": "Humility"
+          }
+        },
+        {
+          "id": "book-two-chapter-3",
+          "title": {
+            "en-US": "Goodness and Peace in Man"
+          }
+        },
+        {
+          "id": "book-two-chapter-4",
+          "title": {
+            "en-US": "Purity of Mind and Unity of Purpose"
+          }
+        },
+        {
+          "id": "book-two-chapter-5",
+          "title": {
+            "en-US": "Ourselves"
+          }
+        },
+        {
+          "id": "book-two-chapter-6",
+          "title": {
+            "en-US": "The Joy of a Good Conscience"
+          }
+        },
+        {
+          "id": "book-two-chapter-7",
+          "title": {
+            "en-US": "Loving Jesus Above All Things"
+          }
+        },
+        {
+          "id": "book-two-chapter-8",
+          "title": {
+            "en-US": "The Intimate Friendship of Jesus"
+          }
+        },
+        {
+          "id": "book-two-chapter-9",
+          "title": {
+            "en-US": "Wanting No Share in Comfort"
+          }
+        },
+        {
+          "id": "book-two-chapter-10",
+          "title": {
+            "en-US": "Appreciating God's Grace"
+          }
+        },
+        {
+          "id": "book-two-chapter-11",
+          "title": {
+            "en-US": "Few Love the Cross of Jesus"
+          }
+        },
+        {
+          "id": "book-two-chapter-12",
+          "title": {
+            "en-US": "The Royal Road of the Holy Cross"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-three",
+      "title": {
+        "en-US": "Internal Consolation"
+      },
+      "children": [
+        {
+          "id": "book-three-chapter-1",
+          "title": {
+            "en-US": "The Inward Conversation of Christ with the Faithful Soul"
+          }
+        },
+        {
+          "id": "book-three-chapter-2",
+          "title": {
+            "en-US": "Truth Speaks Inwardly Without the Sound of Words"
+          }
+        },
+        {
+          "id": "book-three-chapter-3",
+          "title": {
+            "en-US": "Listen Humbly to the Words of God. Many Do Not Heed Them"
+          }
+        },
+        {
+          "id": "book-three-chapter-4",
+          "title": {
+            "en-US": "We Must Walk Before God in Humility and Truth"
+          }
+        },
+        {
+          "id": "book-three-chapter-5",
+          "title": {
+            "en-US": "The Wonderful Effect of Divine Love"
+          }
+        },
+        {
+          "id": "book-three-chapter-6",
+          "title": {
+            "en-US": "The Proving of a True Lover"
+          }
+        },
+        {
+          "id": "book-three-chapter-7",
+          "title": {
+            "en-US": "Grace Must Be Hidden Under the Mantle of Humility"
+          }
+        },
+        {
+          "id": "book-three-chapter-8",
+          "title": {
+            "en-US": "Self-Abasement in the Sight of God"
+          }
+        },
+        {
+          "id": "book-three-chapter-9",
+          "title": {
+            "en-US": "All Things should be Referred to God as their Last End"
+          }
+        },
+        {
+          "id": "book-three-chapter-10",
+          "title": {
+            "en-US": "To Despise the World and Serve God is Sweet"
+          }
+        },
+        {
+          "id": "book-three-chapter-11",
+          "title": {
+            "en-US": "The Longings of our Hearts Must be Examined and Moderated"
+          }
+        },
+        {
+          "id": "book-three-chapter-12",
+          "title": {
+            "en-US": "Acquiring Patience in the Fight Against Concupiscence"
+          }
+        },
+        {
+          "id": "book-three-chapter-13",
+          "title": {
+            "en-US": "The Obedience of One Humbly Subject to the Example of Jesus Christ"
+          }
+        },
+        {
+          "id": "book-three-chapter-14",
+          "title": {
+            "en-US": "Consider the Hidden Judgments of God Lest You Become Proud of Your Own Good Deeds"
+          }
+        },
+        {
+          "id": "book-three-chapter-15",
+          "title": {
+            "en-US": "How One Should Feel and Speak on Every Desirable Thing"
+          }
+        },
+        {
+          "id": "book-three-chapter-16",
+          "title": {
+            "en-US": "True Comfort Is to Be Sought in God Alone"
+          }
+        },
+        {
+          "id": "book-three-chapter-17",
+          "title": {
+            "en-US": "All Our Care is to Be Placed in God"
+          }
+        },
+        {
+          "id": "book-three-chapter-18",
+          "title": {
+            "en-US": "Temporal Sufferings Should Be Borne Patiently, After the Example of Christ"
+          }
+        },
+        {
+          "id": "book-three-chapter-19",
+          "title": {
+            "en-US": "True Patience in Suffering"
+          }
+        },
+        {
+          "id": "book-three-chapter-20",
+          "title": {
+            "en-US": "Confessing Our Weakness in the Miseries of Life"
+          }
+        },
+        {
+          "id": "book-three-chapter-21",
+          "title": {
+            "en-US": "Above All Goods and All Gifts We Must Rest in God"
+          }
+        },
+        {
+          "id": "book-three-chapter-22",
+          "title": {
+            "en-US": "Remember the Innumerable Gifts of God"
+          }
+        },
+        {
+          "id": "book-three-chapter-23",
+          "title": {
+            "en-US": "Four Things Which Bring Great Peace"
+          }
+        },
+        {
+          "id": "book-three-chapter-24",
+          "title": {
+            "en-US": "Avoiding Curious Inquiry About the Lives of Others"
+          }
+        },
+        {
+          "id": "book-three-chapter-25",
+          "title": {
+            "en-US": "The Basis of Firm Peace of Heart and True Progress"
+          }
+        },
+        {
+          "id": "book-three-chapter-26",
+          "title": {
+            "en-US": "The Excellence of a Free Mind, Gained Through Prayer Rather Than By Study"
+          }
+        },
+        {
+          "id": "book-three-chapter-27",
+          "title": {
+            "en-US": "Self-Love is the Greatest Hindrance to the Highest Good"
+          }
+        },
+        {
+          "id": "book-three-chapter-28",
+          "title": {
+            "en-US": "Strength Against Slander"
+          }
+        },
+        {
+          "id": "book-three-chapter-29",
+          "title": {
+            "en-US": "How We Must Call Upon and Bless the Lord When Trouble Presses"
+          }
+        },
+        {
+          "id": "book-three-chapter-30",
+          "title": {
+            "en-US": "The Quest of Divine Help and Confidence in Regaining Grace"
+          }
+        },
+        {
+          "id": "book-three-chapter-31",
+          "title": {
+            "en-US": "To Find the Creator, Forsake All Creatures"
+          }
+        },
+        {
+          "id": "book-three-chapter-32",
+          "title": {
+            "en-US": "Self-Denial and the Renunciation of Evil Appetites"
+          }
+        },
+        {
+          "id": "book-three-chapter-33",
+          "title": {
+            "en-US": "Restlessness of Soul—Directing Our Final Intention Toward God"
+          }
+        },
+        {
+          "id": "book-three-chapter-34",
+          "title": {
+            "en-US": "God is Sweet Above All Things and in All Things to Those Who Love Him"
+          }
+        },
+        {
+          "id": "book-three-chapter-35",
+          "title": {
+            "en-US": "There is No Security from Temptation in This Life"
+          }
+        },
+        {
+          "id": "book-three-chapter-36",
+          "title": {
+            "en-US": "The Vain Judgments of Men"
+          }
+        },
+        {
+          "id": "book-three-chapter-37",
+          "title": {
+            "en-US": "Pure and Entire Resignation of Self to Obtain Freedom of Heart"
+          }
+        },
+        {
+          "id": "book-three-chapter-38",
+          "title": {
+            "en-US": "The Right Ordering of External Affairs; Recourse to God in Dangers"
+          }
+        },
+        {
+          "id": "book-three-chapter-39",
+          "title": {
+            "en-US": "A Man Should Not Be Unduly Solicitous About His Affairs"
+          }
+        },
+        {
+          "id": "book-three-chapter-40",
+          "title": {
+            "en-US": "Man Has No Good in Himself and Can Glory in Nothing"
+          }
+        },
+        {
+          "id": "book-three-chapter-41",
+          "title": {
+            "en-US": "Contempt for All Earthly Honor"
+          }
+        },
+        {
+          "id": "book-three-chapter-42",
+          "title": {
+            "en-US": "Peace is Not to Be Placed in Men"
+          }
+        },
+        {
+          "id": "book-three-chapter-43",
+          "title": {
+            "en-US": "Beware Vain and Worldly Knowledge"
+          }
+        },
+        {
+          "id": "book-three-chapter-44",
+          "title": {
+            "en-US": "Do Not Be Concerned About Outward Things"
+          }
+        },
+        {
+          "id": "book-three-chapter-45",
+          "title": {
+            "en-US": "All Men Are Not to Be Believed, for It Is Easy to Err in Speech"
+          }
+        },
+        {
+          "id": "book-three-chapter-46",
+          "title": {
+            "en-US": "Trust in God Against Slander"
+          }
+        },
+        {
+          "id": "book-three-chapter-47",
+          "title": {
+            "en-US": "Every Trial Must Be Borne for the Sake of Eternal Life"
+          }
+        },
+        {
+          "id": "book-three-chapter-48",
+          "title": {
+            "en-US": "The Day of Eternity and the Distresses of This Life"
+          }
+        },
+        {
+          "id": "book-three-chapter-49",
+          "title": {
+            "en-US": "The Desire of Eternal Life; the Great Rewards Promised to Those Who Struggle"
+          }
+        },
+        {
+          "id": "book-three-chapter-50",
+          "title": {
+            "en-US": "How a Desolate Person Ought to Commit Himself Into the Hands of God"
+          }
+        },
+        {
+          "id": "book-three-chapter-51",
+          "title": {
+            "en-US": "When We Cannot Attain to the Highest, We Must Practice the Humble Works"
+          }
+        },
+        {
+          "id": "book-three-chapter-52",
+          "title": {
+            "en-US": "A Man Ought Not to Consider Himself Worthy of Consolation, But Rather Deserving of Chastisement"
+          }
+        },
+        {
+          "id": "book-three-chapter-53",
+          "title": {
+            "en-US": "God's Grace Is Not Given to the Earthly Minded"
+          }
+        },
+        {
+          "id": "book-three-chapter-54",
+          "title": {
+            "en-US": "The Different Motions of Nature and Grace"
+          }
+        },
+        {
+          "id": "book-three-chapter-55",
+          "title": {
+            "en-US": "The Corruption of Nature and the Efficacy of Divine Grace"
+          }
+        },
+        {
+          "id": "book-three-chapter-56",
+          "title": {
+            "en-US": "We Ought to Deny Ourselves and Imitate Christ Through Bearing the Cross"
+          }
+        },
+        {
+          "id": "book-three-chapter-57",
+          "title": {
+            "en-US": "A Man Should Not Be Too Downcast When He Falls Into Defects"
+          }
+        },
+        {
+          "id": "book-three-chapter-58",
+          "title": {
+            "en-US": "High Matters and the Hidden Judgments of God Are Not to Be Scrutinized"
+          }
+        },
+        {
+          "id": "book-three-chapter-59",
+          "title": {
+            "en-US": "All Hope and Trust Are to Be Fixed In God Alone"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-four",
+      "title": {
+        "en-US": "An Invitation to Holy Communion"
+      },
+      "children": [
+        {
+          "id": "book-four-chapter-1",
+          "title": {
+            "en-US": "The Great Reverence With Which We Should Receive Christ"
+          }
+        },
+        {
+          "id": "book-four-chapter-2",
+          "title": {
+            "en-US": "God's Great Goodness and Love is Shown to Man in This Sacrament"
+          }
+        },
+        {
+          "id": "book-four-chapter-3",
+          "title": {
+            "en-US": "It Is Profitable to Receive Communion Often"
+          }
+        },
+        {
+          "id": "book-four-chapter-4",
+          "title": {
+            "en-US": "Many Blessings Are Given Those Who Receive Communion Worthily"
+          }
+        },
+        {
+          "id": "book-four-chapter-5",
+          "title": {
+            "en-US": "The Dignity of the Sacrament and of the Priesthood"
+          }
+        },
+        {
+          "id": "book-four-chapter-6",
+          "title": {
+            "en-US": "An Inquiry on the Proper Thing to Do Before Communion"
+          }
+        },
+        {
+          "id": "book-four-chapter-7",
+          "title": {
+            "en-US": "The Examination of Conscience and the Resolution to Amend"
+          }
+        },
+        {
+          "id": "book-four-chapter-8",
+          "title": {
+            "en-US": "The Offering of Christ on the Cross; Our Offering"
+          }
+        },
+        {
+          "id": "book-four-chapter-9",
+          "title": {
+            "en-US": "We Should Offer Ourselves and All That We Have to God, Praying for All"
+          }
+        },
+        {
+          "id": "book-four-chapter-10",
+          "title": {
+            "en-US": "Do Not Lightly Forego Holy Communion"
+          }
+        },
+        {
+          "id": "book-four-chapter-11",
+          "title": {
+            "en-US": "The Body of Christ and Sacred Scripture Are Most Necessary to a Faithful Soul"
+          }
+        },
+        {
+          "id": "book-four-chapter-12",
+          "title": {
+            "en-US": "The communicant Should Prepare Himself for Christ with Great Care"
+          }
+        },
+        {
+          "id": "book-four-chapter-13",
+          "title": {
+            "en-US": "With All Her Heart the Devout Soul Should Desire Union with Christ in the Sacrament"
+          }
+        },
+        {
+          "id": "book-four-chapter-14",
+          "title": {
+            "en-US": "The Ardent Longing of Devout Men for the Body of Christ"
+          }
+        },
+        {
+          "id": "book-four-chapter-15",
+          "title": {
+            "en-US": "The Grace of Devotion is Acquired Through Humility and Self-Denial"
+          }
+        },
+        {
+          "id": "book-four-chapter-16",
+          "title": {
+            "en-US": "We Should Show Our Needs to Christ and Ask His Grace"
+          }
+        },
+        {
+          "id": "book-four-chapter-17",
+          "title": {
+            "en-US": "The Burning Love and Strong Desire to Receive Christ"
+          }
+        },
+        {
+          "id": "book-four-chapter-18",
+          "title": {
+            "en-US": "Man Should Not Scrutinize This Sacrament in Curiosity, But Humbly Imitate Christ and Submit Reason to Holy Faith"
+          }
+        }
+      ]
+    }
+  ]
+}

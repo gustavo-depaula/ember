@@ -37,7 +37,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PT_DIR = ROOT / "content" / "libraries" / "base" / "books" / "catechism-of-trent" / "pt-BR"
+PT_DIR = ROOT / "content" / "libraries" / "base" / "books" / "trent-catechism" / "pt-BR"
 TARGETS = ["sacrament-baptism.md", "sacrament-eucharist.md", "sacrament-penance.md"]
 
 

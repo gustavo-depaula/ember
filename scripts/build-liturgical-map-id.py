@@ -24,7 +24,7 @@ BASE = Path(__file__).resolve().parent.parent
 liguori_path = BASE / "content/practices/meditacoes-ligorio/data/liturgical-map.json"
 liguori = json.loads(liguori_path.read_text())
 
-IT_DIR = BASE / "content/books/intimita-divina/it"
+IT_DIR = BASE / "content/books/gabriel-stmm-intimita-divina/it"
 
 
 def meditation_id(n):
@@ -462,7 +462,7 @@ def build_map():
         print(f"  giorno-{med:03d} → PP/{week}/0  [{ref}]")
 
     # Write
-    out_path = BASE / "content/practices/intimita-divina/data/liturgical-map.json"
+    out_path = BASE / "content/practices/gabriel-stmm-intimita-divina/data/liturgical-map.json"
     out_path.write_text(json.dumps(liturgical_map, ensure_ascii=False, indent=2))
     print(f"\nWrote {out_path}")
 

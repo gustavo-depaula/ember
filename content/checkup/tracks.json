@@ -390,7 +390,7 @@
 			"weeklyFormation": [
 				{
 					"week": 1,
-					"book": "imitation-of-christ",
+					"book": "kempis-imitation-of-christ",
 					"chapterRef": "book-3-part-1",
 					"importCandidate": true,
 					"note": {
@@ -400,7 +400,7 @@
 				},
 				{
 					"week": 2,
-					"book": "imitation-of-christ",
+					"book": "kempis-imitation-of-christ",
 					"chapterRef": "book-3-part-2",
 					"importCandidate": true,
 					"note": {

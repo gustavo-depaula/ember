@@ -38,7 +38,7 @@ describe('resolveFlowAsync — cycle template with prose+book', () => {
             sections: [
               {
                 type: 'prose',
-                book: 'catechetical-formation',
+                book: 'morrow-my-catholic-faith',
                 chapter: '{{chapterId}}',
                 langPolicy: 'active-language',
               },

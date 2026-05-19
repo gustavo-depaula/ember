@@ -50,7 +50,7 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/meditacoes-ligorio"
+					"ref": "book/liguori-meditacoes"
 				}
 			]
 		},
@@ -69,15 +69,15 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/gran-mezzo-della-preghiera"
+					"ref": "book/liguori-gran-mezzo-della-preghiera"
 				},
 				{
 					"kind": "item",
-					"ref": "book/pratica-di-amar-gesu-cristo"
+					"ref": "book/liguori-pratica-di-amar-gesu-cristo"
 				},
 				{
 					"kind": "item",
-					"ref": "book/uniformita-alla-volonta-di-dio"
+					"ref": "book/liguori-uniformita-alla-volonta-di-dio"
 				}
 			]
 		},
@@ -96,7 +96,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/visite-al-ss-sacramento",
+					"ref": "book/liguori-visite-al-ss-sacramento",
 					"seeAlso": [
 						"collection/eucharistic"
 					]
@@ -118,7 +118,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/glorie-di-maria",
+					"ref": "book/liguori-glorie-di-maria",
 					"seeAlso": [
 						"collection/marian"
 					]
@@ -134,7 +134,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/esercizio-via-crucis",
+					"ref": "book/liguori-esercizio-via-crucis",
 					"seeAlso": [
 						"collection/way-of-the-cross"
 					]
@@ -156,7 +156,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/apparecchio-alla-morte"
+					"ref": "book/liguori-apparecchio-alla-morte"
 				}
 			]
 		},
@@ -169,7 +169,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/plus-belles-prieres"
+					"ref": "book/liguori-plus-belles-prieres"
 				}
 			]
 		},
