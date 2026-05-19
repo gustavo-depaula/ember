@@ -35,7 +35,7 @@ The app ships with no bundled content. The boot sequence shows a loading screen 
 |---|---|---|
 | `practice` | `practice/rosary`, `practice/our-father` | Schedulable prayer flow — anything from a single Pater Noster to the full Mass. Short prayers carry inline `flow` in the manifest; longer practices keep `flow.json` and add fragments / data / tracks / per-day flows / images. |
 | `chapter` | `chapter/lectio-divina` | Native-rendered formation content |
-| `book` | `book/catechism-of-trent` | WebView-rendered long-form, per-language markdown chapters |
+| `book` | `book/trent-catechism` | WebView-rendered long-form, per-language markdown chapters |
 | `mass` | `mass/of/tempore/holy-week/easter-vigil` | OF Mass proper, split per-language |
 | `of-ordinary` / `of-preface` / `of-eucharistic-prayer` | `of/ordinary/roman-canon` | Mass-of building blocks, per-language |
 | `of-data` | `of-data/calendar/sanctorale/_index` | Calendar / saints catalog / IGMR / sacerdotale |
@@ -80,7 +80,7 @@ A collection is a thin JSON manifest:
   "id": "collection/carmelite",
   "name": { "en-US": "Carmelite tradition" },
   "items": [
-    { "ref": "book/intimita-divina" },
+    { "ref": "book/gabriel-stmm-intimita-divina" },
     { "ref": "practice/carmelite-night-prayer" },
     { "ref": "practice/teresa-of-avila-bookmark" }
   ]

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import the 1912 short Catechism of St. Pius X into content/books/catechism-pius-x-1912/.
+"""Import the 1912 short Catechism of St. Pius X into content/books/pius-x-catechism/.
 
 Sources (now archived under content/_archive/base/sources/):
   - Italian (it):    italian-originals/archive-org-1959-djvu.txt  (Vatican 1959 reprint, OCR)
@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "content" / "_archive" / "base" / "sources"
 SOURCES_IT = SOURCES / "italian-originals" / "corsia-2004.txt"
 SOURCES_PT = SOURCES / "pt-br-originals" / "symposium-veritatis-raw.html"
-BOOK_DIR = ROOT / "content" / "books" / "catechism-pius-x-1912"
+BOOK_DIR = ROOT / "content" / "books" / "pius-x-catechism"
 
 
 # ---------------------------------------------------------------------------

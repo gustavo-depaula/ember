@@ -7,7 +7,7 @@ Sources:
   - pt-BR: Pires Martins 1951 (Internet Archive djvu.txt, single OCR file split here
            by absolute line ranges identified via grep for CAPITULO/PARTE markers)
 
-Output: 42 raw .md files per language at content/books/catechism-of-trent/
+Output: 42 raw .md files per language at content/books/trent-catechism/
         {en-US,pt-BR}/{chapter-id}.md. The output is intentionally raw — minimal cleanup,
         body text preserved verbatim — so a downstream cleanup pass (parallel subagents
         per the import-book skill) can add proper headings, fix OCR artifacts in the
@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "content" / "_archive" / "base" / "sources"
 SRC_EN = SOURCES / "english-originals" / "catechism-of-trent.txt"
 SRC_PT = SOURCES / "portuguese-originals" / "catechism-of-trent.txt"
-BOOK_DIR = ROOT / "content" / "books" / "catechism-of-trent"
+BOOK_DIR = ROOT / "content" / "books" / "trent-catechism"
 
 # 42 canonical chapters. The IDs are shared across both languages so the TOC can
 # reference the same id for matched content. Part IV in Pires Martins originally

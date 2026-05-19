@@ -15,7 +15,7 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 PDF_PATH = Path("/Users/gustavo/Library/Mobile Documents/com~apple~CloudDocs/Books/Ember/THE CATECHETICAL INSTRUCTIONS.pdf")
-BOOK_DIR = Path("content/books/catechetical-instructions")
+BOOK_DIR = Path("content/books/aquinas-catechetical-instructions")
 OUT_DIR = BOOK_DIR / "en-US"
 SRC_TXT = Path("content/_archive/base/sources/english-originals/catechetical-instructions.txt")
 NS = {"x": "http://www.w3.org/1999/xhtml"}

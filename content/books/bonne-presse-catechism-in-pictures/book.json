@@ -1,0 +1,627 @@
+{
+  "id": "bonne-presse-catechism-in-pictures",
+  "name": {
+    "fr-FR": "Catéchisme en Images",
+    "en-US": "The Catechism in Pictures",
+    "pt-BR": "Catecismo Ilustrado"
+  },
+  "author": {
+    "fr-FR": "Maison de la Bonne Presse",
+    "en-US": "Maison de la Bonne Presse (trans. E. E. Fernandez)",
+    "pt-BR": "Maison de la Bonne Presse"
+  },
+  "description": {
+    "fr-FR": "Un catéchisme illustré classique en soixante-huit tableaux, présentant la doctrine chrétienne par l'image et un texte explicatif court. Composé sous le pontificat de saint Pie X et publié à Paris par la Maison de la Bonne Presse, il expose le Symbole des Apôtres, les Sacrements, les Commandements de Dieu et de l'Église, la Prière, les Fins dernières, les Péchés capitaux, les Vertus et les Œuvres de miséricorde — chaque tableau étant accompagné d'une « explication » qui en commente les détails iconographiques.",
+    "en-US": "A classic illustrated catechism in sixty-eight plates, presenting Christian doctrine through image and a short explanatory text. Composed under the pontificate of St. Pius X and published in Paris by the Maison de la Bonne Presse, it expounds the Apostles' Creed, the Sacraments, the Commandments of God and of the Church, Prayer, the Last Things, the Capital Sins, the Virtues, and the Works of Mercy — each plate accompanied by an « Explanation » that comments on its iconographic details.",
+    "pt-BR": "Um catecismo ilustrado clássico em sessenta e oito gravuras, apresentando a doutrina cristã pela imagem e por um breve texto explicativo. Composto sob o pontificado de São Pio X e publicado em Paris pela Maison de la Bonne Presse, expõe o Símbolo dos Apóstolos, os Sacramentos, os Mandamentos de Deus e da Igreja, a Oração, os Novíssimos, os Pecados capitais, as Virtudes e as Obras de Misericórdia — cada gravura acompanhada por uma « Explicação » que comenta os seus detalhes iconográficos."
+  },
+  "composed": 1908,
+  "languages": [
+    "fr-FR",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "fr-FR",
+      "url": "https://missiondesainteanne.wordpress.com/cat-4a/",
+      "description": "Original French edition (Paris, Maison de la Bonne Presse, 1908). Scanned reproduction with embedded OCR text layer, hosted by missiondesainteanne.wordpress.com and lafrancechretienne.wordpress.com. Public domain (Imprimatur Parisiis 14 octobris 1912)."
+    },
+    {
+      "language": "en-US",
+      "url": "https://missiondesainteanne.wordpress.com/cat-4a/",
+      "description": "English translation by E. E. Fernandez (Paris, Maison de la Bonne Presse, 1912; reprinted 1938). Sixty-eight full-page illustrations alternating with and facing text. Public domain (Imprimatur Southwarci 27 junii 1912)."
+    },
+    {
+      "language": "pt-BR",
+      "url": "internal:fr-FR",
+      "description": "Brazilian Portuguese translation rendered from the French canonical (1908) via the project's translate-book skill, in modern post-1971 orthography. The 1910 Lisbon edition (Catecismo Illustrado) was consulted as a reference but not used as the source due to pre-1911 European orthography that would require extensive modernization."
+    }
+  ],
+  "toc": [
+    {
+      "id": "plate-01",
+      "title": {
+        "fr-FR": "Tableau 1 — Introduction",
+        "en-US": "Plate 1 — Introduction",
+        "pt-BR": "Quadro 1 — Introdução"
+      }
+    },
+    {
+      "id": "part-1",
+      "title": {
+        "fr-FR": "I. Le Symbole des Apôtres",
+        "en-US": "I. The Apostles' Creed",
+        "pt-BR": "I. O Símbolo dos Apóstolos"
+      },
+      "children": [
+        {
+          "id": "plate-02",
+          "title": {
+            "fr-FR": "2 — La Trinité",
+            "en-US": "2 — The Trinity",
+            "pt-BR": "2 — A Trindade"
+          }
+        },
+        {
+          "id": "plate-03",
+          "title": {
+            "fr-FR": "3 — La Création",
+            "en-US": "3 — Creation",
+            "pt-BR": "3 — A Criação"
+          }
+        },
+        {
+          "id": "plate-04-0",
+          "title": {
+            "fr-FR": "4 (i) — L'Incarnation : La Transfiguration",
+            "en-US": "4 (i) — The Incarnation: The Transfiguration",
+            "pt-BR": "4 (i) — A Encarnação: A Transfiguração"
+          }
+        },
+        {
+          "id": "plate-04-1",
+          "title": {
+            "fr-FR": "4 (ii) — L'Incarnation : L'Annonciation",
+            "en-US": "4 (ii) — The Incarnation: The Annunciation",
+            "pt-BR": "4 (ii) — A Encarnação: A Anunciação"
+          }
+        },
+        {
+          "id": "plate-04-2",
+          "title": {
+            "fr-FR": "4 (iii) — La Nativité",
+            "en-US": "4 (iii) — The Nativity",
+            "pt-BR": "4 (iii) — A Natividade"
+          }
+        },
+        {
+          "id": "plate-05",
+          "title": {
+            "fr-FR": "5 — La Rédemption",
+            "en-US": "5 — The Redemption",
+            "pt-BR": "5 — A Redenção"
+          }
+        },
+        {
+          "id": "plate-06",
+          "title": {
+            "fr-FR": "6 — La Descente aux enfers",
+            "en-US": "6 — The Descent into Hell",
+            "pt-BR": "6 — A Descida aos infernos"
+          }
+        },
+        {
+          "id": "plate-07",
+          "title": {
+            "fr-FR": "7 — La Résurrection",
+            "en-US": "7 — The Resurrection",
+            "pt-BR": "7 — A Ressurreição"
+          }
+        },
+        {
+          "id": "plate-08",
+          "title": {
+            "fr-FR": "8 — L'Ascension",
+            "en-US": "8 — The Ascension",
+            "pt-BR": "8 — A Ascensão"
+          }
+        },
+        {
+          "id": "plate-09",
+          "title": {
+            "fr-FR": "9 — Jésus à la droite de son Père",
+            "en-US": "9 — Jesus at the Right Hand of the Father",
+            "pt-BR": "9 — Jesus à direita de seu Pai"
+          }
+        },
+        {
+          "id": "plate-10",
+          "title": {
+            "fr-FR": "10 — Le Jugement dernier",
+            "en-US": "10 — The Last Judgment",
+            "pt-BR": "10 — O Juízo final"
+          }
+        },
+        {
+          "id": "plate-11",
+          "title": {
+            "fr-FR": "11 — La Pentecôte",
+            "en-US": "11 — Pentecost",
+            "pt-BR": "11 — Pentecostes"
+          }
+        },
+        {
+          "id": "plate-12",
+          "title": {
+            "fr-FR": "12 — L'Église",
+            "en-US": "12 — The Church",
+            "pt-BR": "12 — A Igreja"
+          }
+        },
+        {
+          "id": "plate-13",
+          "title": {
+            "fr-FR": "13 — La Communion des saints",
+            "en-US": "13 — The Communion of Saints",
+            "pt-BR": "13 — A Comunhão dos santos"
+          }
+        },
+        {
+          "id": "plate-14",
+          "title": {
+            "fr-FR": "14 — La Rémission des péchés",
+            "en-US": "14 — The Remission of Sins",
+            "pt-BR": "14 — A Remissão dos pecados"
+          }
+        },
+        {
+          "id": "plate-15",
+          "title": {
+            "fr-FR": "15 — La Résurrection de la chair",
+            "en-US": "15 — The Resurrection of the Flesh",
+            "pt-BR": "15 — A Ressurreição da carne"
+          }
+        },
+        {
+          "id": "plate-16",
+          "title": {
+            "fr-FR": "16 — Le Paradis",
+            "en-US": "16 — Heaven",
+            "pt-BR": "16 — O Paraíso"
+          }
+        },
+        {
+          "id": "plate-17",
+          "title": {
+            "fr-FR": "17 — L'Enfer",
+            "en-US": "17 — Hell",
+            "pt-BR": "17 — O Inferno"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-2",
+      "title": {
+        "fr-FR": "II. Les Sacrements",
+        "en-US": "II. The Sacraments",
+        "pt-BR": "II. Os Sacramentos"
+      },
+      "children": [
+        {
+          "id": "plate-18",
+          "title": {
+            "fr-FR": "18 — La Grâce",
+            "en-US": "18 — Grace",
+            "pt-BR": "18 — A Graça"
+          }
+        },
+        {
+          "id": "plate-19",
+          "title": {
+            "fr-FR": "19 — Le Baptême",
+            "en-US": "19 — Baptism",
+            "pt-BR": "19 — O Batismo"
+          }
+        },
+        {
+          "id": "plate-20",
+          "title": {
+            "fr-FR": "20 — L'Eucharistie",
+            "en-US": "20 — The Eucharist",
+            "pt-BR": "20 — A Eucaristia"
+          }
+        },
+        {
+          "id": "plate-21",
+          "title": {
+            "fr-FR": "21 — La Confirmation",
+            "en-US": "21 — Confirmation",
+            "pt-BR": "21 — A Confirmação"
+          }
+        },
+        {
+          "id": "plate-22",
+          "title": {
+            "fr-FR": "22 — La Pénitence",
+            "en-US": "22 — Penance",
+            "pt-BR": "22 — A Penitência"
+          }
+        },
+        {
+          "id": "plate-23",
+          "title": {
+            "fr-FR": "23 — L'Extrême-Onction",
+            "en-US": "23 — Extreme Unction",
+            "pt-BR": "23 — A Extrema-Unção"
+          }
+        },
+        {
+          "id": "plate-24",
+          "title": {
+            "fr-FR": "24 — L'Ordre",
+            "en-US": "24 — Holy Orders",
+            "pt-BR": "24 — A Ordem"
+          }
+        },
+        {
+          "id": "plate-25",
+          "title": {
+            "fr-FR": "25 — Le Mariage",
+            "en-US": "25 — Marriage",
+            "pt-BR": "25 — O Matrimônio"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-3",
+      "title": {
+        "fr-FR": "III. Les Commandements de Dieu et de l'Église",
+        "en-US": "III. The Commandments of God and of the Church",
+        "pt-BR": "III. Os Mandamentos de Deus e da Igreja"
+      },
+      "children": [
+        {
+          "id": "plate-26",
+          "title": {
+            "fr-FR": "26 — Le Décalogue",
+            "en-US": "26 — The Decalogue",
+            "pt-BR": "26 — O Decálogo"
+          }
+        },
+        {
+          "id": "plate-27",
+          "title": {
+            "fr-FR": "27 — 1er Commandement",
+            "en-US": "27 — The First Commandment",
+            "pt-BR": "27 — 1º Mandamento"
+          }
+        },
+        {
+          "id": "plate-28",
+          "title": {
+            "fr-FR": "28 — 1er Commandement (suite)",
+            "en-US": "28 — The First Commandment (continued)",
+            "pt-BR": "28 — 1º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-29",
+          "title": {
+            "fr-FR": "29 — 2e Commandement",
+            "en-US": "29 — The Second Commandment",
+            "pt-BR": "29 — 2º Mandamento"
+          }
+        },
+        {
+          "id": "plate-30",
+          "title": {
+            "fr-FR": "30 — 2e Commandement (suite)",
+            "en-US": "30 — The Second Commandment (continued)",
+            "pt-BR": "30 — 2º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-31",
+          "title": {
+            "fr-FR": "31 — 3e Commandement",
+            "en-US": "31 — The Third Commandment",
+            "pt-BR": "31 — 3º Mandamento"
+          }
+        },
+        {
+          "id": "plate-32",
+          "title": {
+            "fr-FR": "32 — 3e Commandement (suite)",
+            "en-US": "32 — The Third Commandment (continued)",
+            "pt-BR": "32 — 3º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-33",
+          "title": {
+            "fr-FR": "33 — 3e Commandement (suite)",
+            "en-US": "33 — The Third Commandment (continued)",
+            "pt-BR": "33 — 3º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-34",
+          "title": {
+            "fr-FR": "34 — 4e Commandement",
+            "en-US": "34 — The Fourth Commandment",
+            "pt-BR": "34 — 4º Mandamento"
+          }
+        },
+        {
+          "id": "plate-35",
+          "title": {
+            "fr-FR": "35 — 4e Commandement (suite)",
+            "en-US": "35 — The Fourth Commandment (continued)",
+            "pt-BR": "35 — 4º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-36",
+          "title": {
+            "fr-FR": "36 — 4e Commandement (suite)",
+            "en-US": "36 — The Fourth Commandment (continued)",
+            "pt-BR": "36 — 4º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-37",
+          "title": {
+            "fr-FR": "37 — 4e Commandement (suite)",
+            "en-US": "37 — The Fourth Commandment (continued)",
+            "pt-BR": "37 — 4º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-38",
+          "title": {
+            "fr-FR": "38 — 5e Commandement",
+            "en-US": "38 — The Fifth Commandment",
+            "pt-BR": "38 — 5º Mandamento"
+          }
+        },
+        {
+          "id": "plate-39",
+          "title": {
+            "fr-FR": "39 — 5e Commandement (suite)",
+            "en-US": "39 — The Fifth Commandment (continued)",
+            "pt-BR": "39 — 5º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-40",
+          "title": {
+            "fr-FR": "40 — 5e Commandement (suite)",
+            "en-US": "40 — The Fifth Commandment (continued)",
+            "pt-BR": "40 — 5º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-41",
+          "title": {
+            "fr-FR": "41 — 6e et 9e Commandements",
+            "en-US": "41 — The Sixth and Ninth Commandments",
+            "pt-BR": "41 — 6º e 9º Mandamentos"
+          }
+        },
+        {
+          "id": "plate-42",
+          "title": {
+            "fr-FR": "42 — 7e Commandement",
+            "en-US": "42 — The Seventh Commandment",
+            "pt-BR": "42 — 7º Mandamento"
+          }
+        },
+        {
+          "id": "plate-43",
+          "title": {
+            "fr-FR": "43 — 7e Commandement (suite)",
+            "en-US": "43 — The Seventh Commandment (continued)",
+            "pt-BR": "43 — 7º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-44",
+          "title": {
+            "fr-FR": "44 — 8e Commandement",
+            "en-US": "44 — The Eighth Commandment",
+            "pt-BR": "44 — 8º Mandamento"
+          }
+        },
+        {
+          "id": "plate-45",
+          "title": {
+            "fr-FR": "45 — 8e Commandement (suite)",
+            "en-US": "45 — The Eighth Commandment (continued)",
+            "pt-BR": "45 — 8º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-46",
+          "title": {
+            "fr-FR": "46 — 8e Commandement (suite)",
+            "en-US": "46 — The Eighth Commandment (continued)",
+            "pt-BR": "46 — 8º Mandamento (continuação)"
+          }
+        },
+        {
+          "id": "plate-47",
+          "title": {
+            "fr-FR": "47 — 9e Commandement",
+            "en-US": "47 — The Ninth Commandment",
+            "pt-BR": "47 — 9º Mandamento"
+          }
+        },
+        {
+          "id": "plate-48",
+          "title": {
+            "fr-FR": "48 — 10e Commandement",
+            "en-US": "48 — The Tenth Commandment",
+            "pt-BR": "48 — 10º Mandamento"
+          }
+        },
+        {
+          "id": "plate-49",
+          "title": {
+            "fr-FR": "49 — Commandements de l'Église",
+            "en-US": "49 — The Commandments of the Church",
+            "pt-BR": "49 — Mandamentos da Igreja"
+          }
+        },
+        {
+          "id": "plate-50",
+          "title": {
+            "fr-FR": "50 — Commandements de l'Église (suite)",
+            "en-US": "50 — The Commandments of the Church (continued)",
+            "pt-BR": "50 — Mandamentos da Igreja (continuação)"
+          }
+        },
+        {
+          "id": "plate-51",
+          "title": {
+            "fr-FR": "51 — Commandements de l'Église (suite)",
+            "en-US": "51 — The Commandments of the Church (continued)",
+            "pt-BR": "51 — Mandamentos da Igreja (continuação)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "part-4",
+      "title": {
+        "fr-FR": "IV. Prière — Fins dernières — Péchés — Vertus — Œuvres de miséricorde",
+        "en-US": "IV. Prayer — The Last Things — Sin — The Virtues — Works of Mercy",
+        "pt-BR": "IV. Oração — Novíssimos — Pecados — Virtudes — Obras de Misericórdia"
+      },
+      "children": [
+        {
+          "id": "plate-52",
+          "title": {
+            "fr-FR": "52 — La Prière",
+            "en-US": "52 — Prayer",
+            "pt-BR": "52 — A Oração"
+          }
+        },
+        {
+          "id": "plate-53",
+          "title": {
+            "fr-FR": "53 — Le Pater",
+            "en-US": "53 — The Our Father",
+            "pt-BR": "53 — O Pai-Nosso"
+          }
+        },
+        {
+          "id": "plate-54",
+          "title": {
+            "fr-FR": "54 — L'Ave Maria",
+            "en-US": "54 — The Hail Mary",
+            "pt-BR": "54 — A Ave-Maria"
+          }
+        },
+        {
+          "id": "plate-55",
+          "title": {
+            "fr-FR": "55 — La Vanité",
+            "en-US": "55 — Vanity",
+            "pt-BR": "55 — A Vaidade"
+          }
+        },
+        {
+          "id": "plate-56",
+          "title": {
+            "fr-FR": "56 — La Mort",
+            "en-US": "56 — Death",
+            "pt-BR": "56 — A Morte"
+          }
+        },
+        {
+          "id": "plate-57",
+          "title": {
+            "fr-FR": "57 — Le Jugement",
+            "en-US": "57 — Judgment",
+            "pt-BR": "57 — O Juízo"
+          }
+        },
+        {
+          "id": "plate-58",
+          "title": {
+            "fr-FR": "58 — Le Péché originel",
+            "en-US": "58 — Original Sin",
+            "pt-BR": "58 — O Pecado original"
+          }
+        },
+        {
+          "id": "plate-59",
+          "title": {
+            "fr-FR": "59 — Les Péchés capitaux",
+            "en-US": "59 — The Capital Sins",
+            "pt-BR": "59 — Os Pecados capitais"
+          }
+        },
+        {
+          "id": "plate-60",
+          "title": {
+            "fr-FR": "60 — Les Péchés capitaux (suite)",
+            "en-US": "60 — The Capital Sins (continued)",
+            "pt-BR": "60 — Os Pecados capitais (continuação)"
+          }
+        },
+        {
+          "id": "plate-61",
+          "title": {
+            "fr-FR": "61 — Les Péchés capitaux (suite)",
+            "en-US": "61 — The Capital Sins (continued)",
+            "pt-BR": "61 — Os Pecados capitais (continuação)"
+          }
+        },
+        {
+          "id": "plate-62",
+          "title": {
+            "fr-FR": "62 — Les Vertus théologales",
+            "en-US": "62 — The Theological Virtues",
+            "pt-BR": "62 — As Virtudes teologais"
+          }
+        },
+        {
+          "id": "plate-63",
+          "title": {
+            "fr-FR": "63 — Les Vertus cardinales",
+            "en-US": "63 — The Cardinal Virtues",
+            "pt-BR": "63 — As Virtudes cardeais"
+          }
+        },
+        {
+          "id": "plate-64",
+          "title": {
+            "fr-FR": "64 — Les Vertus évangéliques",
+            "en-US": "64 — The Evangelical Virtues",
+            "pt-BR": "64 — As Virtudes evangélicas"
+          }
+        },
+        {
+          "id": "plate-65",
+          "title": {
+            "fr-FR": "65 — Les Œuvres corporelles de miséricorde",
+            "en-US": "65 — The Corporal Works of Mercy",
+            "pt-BR": "65 — As Obras corporais de misericórdia"
+          }
+        },
+        {
+          "id": "plate-66",
+          "title": {
+            "fr-FR": "66 — Les Œuvres spirituelles de miséricorde",
+            "en-US": "66 — The Spiritual Works of Mercy",
+            "pt-BR": "66 — As Obras espirituais de misericórdia"
+          }
+        }
+      ]
+    }
+  ]
+}

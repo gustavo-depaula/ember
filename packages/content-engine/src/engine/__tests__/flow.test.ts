@@ -208,7 +208,7 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
             data: 'liturgical-map',
             strategy: 'liturgical-day',
             as: 'meditations',
-            book: 'meditacoes-ligorio',
+            book: 'liguori-meditacoes',
           },
         ],
         sections: [
@@ -217,7 +217,7 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
             type: 'options',
             label: { 'pt-BR': 'Meditação' },
             from: 'meditations',
-            sections: [{ type: 'prose', book: 'meditacoes-ligorio', chapter: '{{chapterId}}' }],
+            sections: [{ type: 'prose', book: 'liguori-meditacoes', chapter: '{{chapterId}}' }],
           },
         ],
       }),
@@ -281,7 +281,7 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
             data: 'liturgical-map',
             strategy: 'liturgical-day',
             as: 'meditations',
-            book: 'meditacoes-ligorio',
+            book: 'liguori-meditacoes',
           },
         ],
         sections: [
@@ -289,7 +289,7 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
             type: 'options',
             label: { 'pt-BR': 'Meditação' },
             from: 'meditations',
-            sections: [{ type: 'prose', book: 'meditacoes-ligorio', chapter: '{{chapterId}}' }],
+            sections: [{ type: 'prose', book: 'liguori-meditacoes', chapter: '{{chapterId}}' }],
           },
         ],
       }),
@@ -527,7 +527,7 @@ describe('resolveFlow — dynamic prose (book + chapter)', () => {
       resolveFlow(
         flow({
           type: 'prose',
-          book: 'meditacoes-ligorio',
+          book: 'liguori-meditacoes',
           chapter: 'capitulo',
           langPolicy: 'book-default',
         }),

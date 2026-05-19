@@ -215,7 +215,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/gran-mezzo-della-preghiera",
+					"ref": "book/liguori-gran-mezzo-della-preghiera",
 					"seeAlso": [
 						"collection/alphonsus-liguori"
 					]
@@ -229,7 +229,7 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/intimita-divina",
+					"ref": "book/gabriel-stmm-intimita-divina",
 					"seeAlso": [
 						"collection/carmelite"
 					]

@@ -160,7 +160,7 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "book/esercizio-via-crucis",
+					"ref": "book/liguori-esercizio-via-crucis",
 					"seeAlso": [
 						"collection/alphonsus-liguori"
 					]

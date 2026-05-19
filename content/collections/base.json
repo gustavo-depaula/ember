@@ -662,15 +662,15 @@
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechetical-instructions"
+					"ref": "book/aquinas-catechetical-instructions"
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechism-pius-x-1912"
+					"ref": "book/pius-x-catechism"
 				},
 				{
 					"kind": "item",
-					"ref": "book/catechism-of-trent"
+					"ref": "book/trent-catechism"
 				}
 			]
 		},

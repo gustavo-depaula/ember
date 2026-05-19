@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
-IT_DIR = BASE / "content/books/intimita-divina/it"
+IT_DIR = BASE / "content/books/gabriel-stmm-intimita-divina/it"
 
 PAGE_HEADER_PATTERNS = [
     re.compile(r'^\d+\s+[IVX]+\s+SETTIMANA', re.IGNORECASE),
