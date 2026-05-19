@@ -20,6 +20,11 @@ export function makeEngineContext(prose: Record<string, { 'pt-BR'?: string }> = 
     prayers: {},
     canticles: {},
     prose,
+    contentSources: {
+      bibleChapter: 'producer/bible-chapter',
+      cccChapter: 'producer/ccc-chapter',
+      psalmody: 'producer/psalmody',
+    },
   }
 }
 

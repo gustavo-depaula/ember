@@ -102,7 +102,7 @@ describe('resolveFlow — CycleData contextKey', () => {
       }),
       makeEngineContext(),
     )
-    expect(result).toMatchObject([{ type: 'psalmody' }])
+    expect(result).toMatchObject([{ type: 'include', ref: 'producer/psalmody' }])
   })
 })
 

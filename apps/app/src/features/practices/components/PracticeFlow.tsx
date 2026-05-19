@@ -76,7 +76,7 @@ function* walkRendered(sections: RenderedSection[]): Generator<RenderedSection> 
 function findTrackIds(sections: RenderedSection[]): string[] {
   const ids = new Set<string>()
   for (const s of walkRendered(sections)) {
-    if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
+    if (s.type === 'include' && s.trackId) ids.add(s.trackId)
   }
   return Array.from(ids)
 }

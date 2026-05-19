@@ -41,10 +41,6 @@ vi.mock('@ember/sources', async (importOriginal) => {
         return { type: 'prose', html: parts.join('\n'), anchors }
       },
     },
-    // Legacy alias points at the same stub.
-    get cccCompendiumProducer() {
-      return this.cccCompendiumSource
-    },
   }
 })
 

@@ -96,6 +96,11 @@ export function createEngineContext(
       if (!text) return undefined
       return { [lang]: text }
     },
+    contentSources: {
+      bibleChapter: 'producer/bible-chapter',
+      cccChapter: 'producer/ccc-chapter',
+      psalmody: 'producer/psalmody',
+    },
     // No fetchOwnAsset — let the engine fall through to context.cycleData,
     // which is populated by loadPracticeData() and indexed by data name (e.g.
     // 'liturgical-map'). Cross-practice data (OF Mass propers, prefaces) is

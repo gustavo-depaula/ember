@@ -17,7 +17,10 @@ export function getCycleIndex(
 
 export function mapCycleOutput(as: string, raw: unknown, ec: EngineContext): RenderedSection[] {
   if (as === 'psalmody') {
-    return [{ type: 'psalmody', psalms: (raw as (number | string)[]).map(ec.parsePsalmRef) }]
+    // Cycle's psalmody shortcut: emit an include of the host's psalmody
+    // source with the entry's psalm refs as params.
+    const psalms = (raw as (number | string)[]).map(ec.parsePsalmRef)
+    return [{ type: 'include', ref: ec.contentSources.psalmody, params: { psalms } }]
   }
   if (as === 'hymn') {
     const data = raw as {

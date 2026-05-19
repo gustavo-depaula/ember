@@ -30,7 +30,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -60,16 +60,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                8,
-                19,
-                24
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  8,
+                  19,
+                  24
+                ]
+              }
             },
             {
               "type": "divider"
@@ -78,7 +81,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura Bíblica"
+                "pt-BR": "Leitura B\u00edblica"
               }
             },
             {
@@ -115,7 +118,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -145,16 +148,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                93,
-                100,
-                63
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  93,
+                  100,
+                  63
+                ]
+              }
             },
             {
               "type": "divider"
@@ -163,7 +169,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura Bíblica"
+                "pt-BR": "Leitura B\u00edblica"
               }
             },
             {
@@ -180,7 +186,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -214,7 +220,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -244,16 +250,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                54,
-                85,
-                117
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  54,
+                  85,
+                  117
+                ]
+              }
             },
             {
               "type": "divider"
@@ -275,14 +284,14 @@
           "id": "terce",
           "label": {
             "en-US": "Terce",
-            "pt-BR": "Terça"
+            "pt-BR": "Ter\u00e7a"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -312,16 +321,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                120,
-                121,
-                122
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  120,
+                  121,
+                  122
+                ]
+              }
             },
             {
               "type": "divider"
@@ -350,7 +362,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -380,16 +392,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                123,
-                124,
-                125
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  123,
+                  124,
+                  125
+                ]
+              }
             },
             {
               "type": "divider"
@@ -418,7 +433,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -448,16 +463,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                126,
-                127,
-                128
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  126,
+                  127,
+                  128
+                ]
+              }
             },
             {
               "type": "divider"
@@ -479,14 +497,14 @@
           "id": "vespers",
           "label": {
             "en-US": "Vespers",
-            "pt-BR": "Vésperas"
+            "pt-BR": "V\u00e9speras"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -516,18 +534,21 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                110,
-                111,
-                112,
-                113,
-                147
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  110,
+                  111,
+                  112,
+                  113,
+                  147
+                ]
+              }
             },
             {
               "type": "divider"
@@ -536,7 +557,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura Bíblica"
+                "pt-BR": "Leitura B\u00edblica"
               }
             },
             {
@@ -553,7 +574,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -587,7 +608,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -617,16 +638,19 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salmódia"
+                "pt-BR": "Salm\u00f3dia"
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                129,
-                130,
-                131
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  129,
+                  130,
+                  131
+                ]
+              }
             },
             {
               "type": "divider"
@@ -652,7 +676,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -666,7 +690,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Closing Prayer",
-                "pt-BR": "Oração Final"
+                "pt-BR": "Ora\u00e7\u00e3o Final"
               }
             },
             {

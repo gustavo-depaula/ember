@@ -129,7 +129,6 @@ export type FlowSection = { lang?: string } & (
       sections: FlowSection[]
     }
   | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
-  | { type: 'psalmody'; psalms: (number | string)[] }
   | { type: 'lectio'; track: string }
   | { type: 'lectio'; reference: string }
   | {
@@ -382,9 +381,7 @@ export type RenderedSection =
       selectedId: string
       options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
     }
-  | { type: 'psalmody'; psalms: PsalmRef[] }
-  | { type: 'reading'; reference: ReadingReference; trackId?: string }
-  | { type: 'include'; ref: string; params?: Record<string, unknown> }
+  | { type: 'include'; ref: string; params?: Record<string, unknown>; trackId?: string }
   | { type: 'prose'; text: BilingualText }
   | {
       type: 'gallery'

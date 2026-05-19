@@ -1,8 +1,5 @@
 import type { BilingualText, RenderedSection } from '@ember/content-engine'
 import type { QueryClient } from '@tanstack/react-query'
-import i18n from '@/lib/i18n'
-import { formatVerseRange } from '@/lib/lectio'
-import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
 import {
   type ContentSource,
   cacheKeyFor,
@@ -12,10 +9,7 @@ import {
   type SourceAccessor,
   type SourceFetchContext,
 } from '@/sources'
-import { bibleChapterSource } from '@/sources/bible-chapter'
-import { cccChapterSource } from '@/sources/ccc-chapter'
-import { psalmodySource } from '@/sources/psalmody'
-import type { ContainerOption, Primitive, VersesPrimitive } from './primitives'
+import type { ContainerOption, Primitive } from './primitives'
 
 export type PreprocessContext = {
   queryClient: QueryClient
@@ -39,18 +33,6 @@ async function preprocessSection(
   accessor: SourceAccessor,
 ): Promise<Primitive | Primitive[]> {
   switch (section.type) {
-    case 'reading':
-      return resolveReading(section.reference, ctx, accessor)
-
-    case 'psalmody':
-      if (section.psalms.length === 0) return []
-      return fetchFromSource(
-        psalmodySource.id,
-        { psalms: section.psalms as PsalmRef[] },
-        ctx,
-        accessor,
-      )
-
     case 'include':
       return fetchFromSource(section.ref, section.params ?? {}, ctx, accessor)
 
@@ -315,61 +297,6 @@ async function preprocessSection(
       )
     }
   }
-}
-
-// Resolves a `reading` to a `verses` primitive — fetches the whole chapter
-// via the source registry, then filters + localizes the header here so the
-// producer's cache stays at chapter granularity (max reuse).
-async function resolveReading(
-  reference: ReadingReference,
-  ctx: PreprocessContext,
-  accessor: SourceAccessor,
-): Promise<VersesPrimitive> {
-  if (reference.type === 'bible') {
-    const primitive = (await fetchFromSource(
-      bibleChapterSource.id,
-      { book: reference.book, chapter: reference.chapter },
-      ctx,
-      accessor,
-    )) as VersesPrimitive
-    return finalizeBibleReading(primitive, reference)
-  }
-  const primitive = (await fetchFromSource(
-    cccChapterSource.id,
-    { start: reference.startParagraph, count: reference.count },
-    ctx,
-    accessor,
-  )) as VersesPrimitive
-  return {
-    ...primitive,
-    header: {
-      primary: i18n.t('office.cccLabel', {
-        start: reference.startParagraph,
-        end: reference.startParagraph + reference.count - 1,
-      }),
-    },
-  }
-}
-
-function finalizeBibleReading(
-  primitive: VersesPrimitive,
-  ref: Extract<ReadingReference, { type: 'bible' }>,
-): VersesPrimitive {
-  const items =
-    ref.startVerse !== undefined
-      ? primitive.items.filter((item) => {
-          const v = typeof item.num === 'number' ? item.num : Number(item.num)
-          if (!Number.isFinite(v)) return false
-          if (v < ref.startVerse) return false
-          if (ref.endVerse !== undefined && v > ref.endVerse) return false
-          return true
-        })
-      : primitive.items
-  const bookName = i18n.t(`bookName.${ref.book}`, { defaultValue: ref.bookName })
-  const header: BilingualText = {
-    primary: `${bookName} ${ref.chapter}${formatVerseRange(ref.startVerse, ref.endVerse, ref.toEnd)}`,
-  }
-  return { ...primitive, header, items }
 }
 
 // Splits a `\nLine-delimited` BilingualText into per-line items. Single pass

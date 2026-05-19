@@ -1,10 +1,10 @@
 // Preprocessor variant mapping — every passthrough RenderedSection should
 // produce its expected primitive without touching the network or registry.
 
-import { QueryClient } from '@tanstack/react-query'
 import type { RenderedSection } from '@ember/content-engine'
+import { QueryClient } from '@tanstack/react-query'
 import { describe, expect, it } from 'vitest'
-import { preprocessFlow, type PreprocessContext } from './preprocessFlow'
+import { type PreprocessContext, preprocessFlow } from './preprocessFlow'
 
 function ctx(): PreprocessContext {
   return {
@@ -53,7 +53,9 @@ describe('preprocessFlow — primitive mapping', () => {
     const sections: RenderedSection[] = [
       {
         type: 'response',
-        verses: [{ v: { primary: 'The Lord be with you' }, r: { primary: 'And with your spirit' } }],
+        verses: [
+          { v: { primary: 'The Lord be with you' }, r: { primary: 'And with your spirit' } },
+        ],
       },
     ]
     const [primitive] = await preprocessFlow(sections, ctx())
@@ -115,13 +117,5 @@ describe('preprocessFlow — primitive mapping', () => {
     expect(result.every((p) => p.type === 'interaction')).toBe(true)
     const kinds = result.map((p) => (p as { kind: string }).kind)
     expect(kinds).toEqual(['proper', 'offering', 'capture-movement'])
-  })
-
-  it('empty psalmody short-circuits to no nodes', async () => {
-    const [primitive] = await preprocessFlow(
-      [{ type: 'psalmody', psalms: [] }],
-      ctx(),
-    )
-    expect(primitive).toBeUndefined()
   })
 })
