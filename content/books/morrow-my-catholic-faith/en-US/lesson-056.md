@@ -2,7 +2,7 @@
 
 ![](../images/lesson-056.webp)
 
-It is Christ's will that we should reverence His ministers as Himself. This is why Catholics pay the greatest reverence to Christ's Vicar, the Pope, their universal Father. On this account, the title "His Holiness" is given him. Out of respect for his office, the Holy Father is given privileges not granted to other bishops. As a temporal sovereign he has a Court and guards. He has a standard and seal. He has ambassadors. On solemn occasions he is carried in the papal chair called sed i a ge stator i a.
+It is Christ's will that we should reverence His ministers as Himself. This is why Catholics pay the greatest reverence to Christ's Vicar, the Pope, their universal Father. On this account, the title "His Holiness" is given him. Out of respect for his office, the Holy Father is given privileges not granted to other bishops. As a temporal sovereign he has a Court and guards. He has a standard and seal. He has ambassadors. On solemn occasions he is carried in the papal chair called sedia gestatoria.
 
 
 **Did Christ intend that the special power of chief teacher and ruler of the entire Church should be exercised by Peter alone?**
@@ -28,12 +28,7 @@ It is Christ's will that we should reverence His ministers as Himself. This is w
 
 There were numerous cases of appeal throughout the long history of the Church; all were referred to Rome.
 
-> In the fifth century when Theodoret, Bishop of Cyrus in the East, was deposed, he appealed to Pope Leo, and the Pope ordered him reinstated. The Pope
-
-
-## Pontifical Decorations
-
-> The Holy See confers various titles, orders, decorations, and other honors on certain persons, usually lay people, who in some special manner have distinguished themselves in furthering the well-being of humanity and of the Church. They, are listed here in the order of importance. The Supreme Order of Christ was started by Pope John XXII in 1319. Today it is the supreme pontifical Order of knighthood, conferred only on very rare occasions. The Order of the Golden Spur follows the Order of Christ as a pontifical decoration. It has one class of 100 knights, and is awarded only to those who have furthered the cause of the Church by outstanding deeds. It is bestowed also to non-Catholics. The Order of Pius IX has three classes, Knights of the Grand Cross, Commanders, and Knights. It is awarded also to non-Catholics. The Order of St. Gregory the Great was founded by Pope Gregory XVI in 1831. It has two divisions, civil was everywhere recognized as head of the Church not only in the West, but in the East, up to the great schism of the ninth century.
+> In the fifth century when Theodoret, Bishop of Cyrus in the East, was deposed, he appealed to Pope Leo, and the Pope ordered him reinstated. The Pope was everywhere recognized as head of the Church not only in the West, but in the East, up to the great schism of the ninth century.
 
 2. With one voice, the Fathers of the Church pay homage to the Bishop of Rome as their superior.
 
@@ -45,8 +40,11 @@ There were numerous cases of appeal throughout the long history of the Church; a
 
 4. Every nation converted from paganism has received the faith from missionaries specially sent by the Pope, or by bishops acknowledging the Pope as their Head.
 
-> St. Patrick was sent by Pope Celestine to Ireland. St. Palladius was sent by the same Pope to Scotland. St. Augustine was sent by Pope Gregory to England. St. Remi gi us went to France under the protection of the See of Rome. St. Boniface was sent by Pope Gregory II to Germany and Bavaria. And so on.
+> St. Patrick was sent by Pope Celestine to Ireland. St. Palladius was sent by the same Pope to Scotland. St. Augustine was sent by Pope Gregory to England. St. Remigius went to France under the protection of the See of Rome. St. Boniface was sent by Pope Gregory II to Germany and Bavaria. And so on.
 
-> and military, each of which is divided into three classes: Knights of the Grand Cross, Commanders, and Knights.
 
-> The Order of St. Sylvester, instituted in 1841, like the Order of St. Gregory, has three classes of knights. The Order of the Holy Sepulchre is considered one of the oldest of pontifical honors; it is today highly prized in Europe. It has been bestowed on kings and nobles, on heads of republics, on persons outstanding in arts, letters, and sciences, on those who in special manner have served the Church. Unlike other orders, this is bestowed besides on clerics and women. The medal "Pro Ecclesia et Pont if ice" was instituted by Leo XIII, that great "Pope of the Workingman" in 1888. It is awarded in recognition of special services to the Church and the Pope. The "Benemerenti" medal was instituted in 1832 by Gregory XVI, of two classes, civil and military, in recognition of outstanding daring or courage.
+## Pontifical Decorations
+
+> The Holy See confers various titles, orders, decorations, and other honors on certain persons, usually lay people, who in some special manner have distinguished themselves in furthering the well-being of humanity and of the Church. They are listed here in the order of importance. The Supreme Order of Christ was started by Pope John XXII in 1319. Today it is the supreme pontifical Order of knighthood, conferred only on very rare occasions. The Order of the Golden Spur follows the Order of Christ as a pontifical decoration. It has one class of 100 knights, and is awarded only to those who have furthered the cause of the Church by outstanding deeds. It is bestowed also to non-Catholics. The Order of Pius IX has three classes, Knights of the Grand Cross, Commanders, and Knights. It is awarded also to non-Catholics. The Order of St. Gregory the Great was founded by Pope Gregory XVI in 1831. It has two divisions, civil and military, each of which is divided into three classes: Knights of the Grand Cross, Commanders, and Knights.
+
+> The Order of St. Sylvester, instituted in 1841, like the Order of St. Gregory, has three classes of knights. The Order of the Holy Sepulchre is considered one of the oldest of pontifical honors; it is today highly prized in Europe. It has been bestowed on kings and nobles, on heads of republics, on persons outstanding in arts, letters, and sciences, on those who in special manner have served the Church. Unlike other orders, this is bestowed besides on clerics and women. The medal "Pro Ecclesia et Pontifice" was instituted by Leo XIII, that great "Pope of the Workingman" in 1888. It is awarded in recognition of special services to the Church and the Pope. The "Benemerenti" medal was instituted in 1832 by Gregory XVI, of two classes, civil and military, in recognition of outstanding daring or courage.

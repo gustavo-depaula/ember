@@ -33,11 +33,11 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > A Catholic is free to hold a serious scientific theory, provided he is prepared to submit to the judgement of the Church, the divinely appointed caretaker of Scripture.
 
-> Algue , a priest, invented the baro cy clo no meter, to detect approach of cyclones.
+> Algue , a priest, invented the barocyclonometer, to detect approach of cyclones.
 
-> Ampere was founder of the science of electro- dynamics, and investigator of the laws of electro- magnetism.
+> Ampere was founder of the science of electrodynamics, and investigator of the laws of electromagnetism.
 
-> Becquerel , Antoine Cesar, was the founder of electro- chemistry.
+> Becquerel , Antoine Cesar, was the founder of electrochemistry.
 
 > Becquerel , Antoine Henri, was the discoverer of radio-activity.
 
@@ -69,7 +69,7 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > Endlicher , botanist and historian, established a new system of classifying plants.
 
-> Eus tachi us , for whom the Eus tachi an tube was named, was one of the founders of modern anatomy.
+> Eustachius , for whom the Eustachian tube was named, was one of the founders of modern anatomy.
 
 > Fabricius discovered the valvular system of the veins.
 
@@ -77,7 +77,7 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > Fizeau was the first to determine experimentally the velocity of light.
 
-> Foucault invented the first practical electric arc lamp; he refuted the corpuscular theory of light; he invented the gyroscope Fraunhofer was initiator of spectrum analysis; he established laws of diffraction.
+> Foucault invented the first practical electric arc lamp; he refuted the corpuscular theory of light; he invented the gyroscope. Fraunhofer was initiator of spectrum analysis; he established laws of diffraction.
 
 > Fresnel contributed more to the science of optics than any other man.
 
@@ -85,7 +85,7 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 Other scientists
 
-: Agricola, Albertus Magnus, Bacon, Bartholomeus, Bay ma, Beccaria, Behalm, Bernard, Blondo, Biot, Bolgano, Bor rus, Boscovitch, Bosio, Bourgeois, Bran ly, Cal dani, Cambou, Camel, Cardan, Carnoy, Cassini, Cauchy, Cavaliere, Caxton, Champollion, Chevreul, Clavius, De Rossi, Divisch, Dulong, Dwight, Eckhel, Epee, Fabre, Fabri, Faye, Ferrari, Gassendi, Gay-Lussac, Gordon, Grimaldi, Hauy, He is, Helmont, Hengler, He ude, Hilgard, Jussieu, Kelly, Lamarck, Laplace, Linacre, Malus, Mersenne, Monge, Muller, Murphy, Murray, Nelston, Nieuwland, Nobili, Nollet, Or te lius, Ozaman, Pe lou ze, Piazzi, Pit ra, Plum i er, Pouget, Pro van cher, Regnault, Riccioli, Sahagun, Santorini, Schwann, Schwarz, Secchi, Semmelweis, Spallanzani, Takamine, Tieffentaller, Tosca nell i, Tulasne, Valentine, Vernier, Viet a, Da Vinci, Waldseemuller, Win ck le mann, Windle, and a host of others, too many to mention.
+: Agricola, Albertus Magnus, Bacon, Bartholomeus, Bayma, Beccaria, Behalm, Bernard, Blondo, Biot, Bolgano, Borrus, Boscovitch, Bosio, Bourgeois, Branly, Caldani, Cambou, Camel, Cardan, Carnoy, Cassini, Cauchy, Cavaliere, Caxton, Champollion, Chevreul, Clavius, De Rossi, Divisch, Dulong, Dwight, Eckhel, Epee, Fabre, Fabri, Faye, Ferrari, Gassendi, Gay-Lussac, Gordon, Grimaldi, Hauy, Heis, Helmont, Hengler, Heude, Hilgard, Jussieu, Kelly, Lamarck, Laplace, Linacre, Malus, Mersenne, Monge, Muller, Murphy, Murray, Nelston, Nieuwland, Nobili, Nollet, Ortelius, Ozaman, Pelouze, Piazzi, Pitra, Plumier, Pouget, Provancher, Regnault, Riccioli, Sahagun, Santorini, Schwann, Schwarz, Secchi, Semmelweis, Spallanzani, Takamine, Tieffentaller, Toscanelli, Tulasne, Valentine, Vernier, Vieta, Da Vinci, Waldseemuller, Winckelmann, Windle, and a host of others, too many to mention.
 
 > Galvani , one of the pioneers of electricity, was also an anatomist and physiologist.
 
@@ -127,9 +127,9 @@ Other scientists
 
 > Pascal demonstrated practically that a column of air has weight.
 
-> Pasteur , called the "Father of Bacteriology," and inventor of bio- therapeutics, was the leading scientist of the 19th century.
+> Pasteur , called the "Father of Bacteriology," and inventor of biotherapeutics, was the leading scientist of the 19th century.
 
-> Picard , a priest, was the first to measure accurately a degree of the meridian Regiomontanus , a Bishop and Papal astronomer; was the father of modern astronomy.
+> Picard , a priest, was the first to measure accurately a degree of the meridian. Regiomontanus , a Bishop and Papal astronomer; was the father of modern astronomy.
 
 > Scheiner , a priest, invented the pantograph, and made a telescope that permitted the first systematic investigation of sun spots.
 

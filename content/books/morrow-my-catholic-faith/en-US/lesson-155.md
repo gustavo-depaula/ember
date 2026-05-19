@@ -43,9 +43,7 @@ The Way of the Cross (1) and the Angelus (2) are two common and profitable praye
 
 **What objects are commonly indulgenced?**
 
-— Indulgences may be attached to crucifixes, medals, rosaries, The Pontifical Academy of Sciences Science is not repugnant to Religion; both should interest the true Catholic. Science is the work of God's Hands; Religion, the work of His Spirit. Besides the well-known and numerous scientific societies established in our Catholic universities, the Church has the outstanding Pontifical Academy of Sciences, founded in 1603, among the first members of which was Galileo himself.
-
-statues, and such objects, provided they are not made of very fragile material. 1. The object must be blessed by the Pope, or by some priest possessing the powers. The indulgence is lost if the object is more than half destroyed, or if it is sold, but not if the object is lent or given away.
+— Indulgences may be attached to crucifixes, medals, rosaries, statues, and such objects, provided they are not made of very fragile material. 1. The object must be blessed by the Pope, or by some priest possessing the powers. The indulgence is lost if the object is more than half destroyed, or if it is sold, but not if the object is lent or given away.
 
 > All the members of a family may use the same rosary or crucifix, gaining indulgences attached.
 
@@ -56,11 +54,7 @@ statues, and such objects, provided they are not made of very fragile material. 
 
 **What are some important indulgenced prayers?**
 
-— Of the hundreds of indulgenced
-
-> a
-
-prayers, some of the most important are: the Rosary, the Way of the Cross, the Angelus, the Litany of the Blessed Virgin, acts of faith, hope and charity, the prayers of Mass, and prayers at the hour of death. 1. The indulgence attached to some prayers may be gained every time they are said; in the case of other prayers the indulgence is gained only once a day.
+— Of the hundreds of indulgenced prayers, some of the most important are: the Rosary, the Way of the Cross, the Angelus, the Litany of the Blessed Virgin, acts of faith, hope and charity, the prayers of Mass, and prayers at the hour of death. 1. The indulgence attached to some prayers may be gained every time they are said; in the case of other prayers the indulgence is gained only once a day.
 
 > Short prayers enriched with a plenary indulgence are: the prayer before a crucifix after Holy Communion, the prayer of resignation to God's will, and the prayer to Christ King of all.
 
@@ -69,5 +63,10 @@ prayers, some of the most important are: the Rosary, the Way of the Cross, the A
 > "Blessed be God!" "My Jesus, mercy!" "Sacred Heart of Jesus, Thy kingdom come!" "All for thee, most Sacred Heart of Jesus!"
 
 3. The indulgence attached to a prayer is lost by any change, addition, or omission substantially altering the prayer.
+
+
+## The Pontifical Academy of Sciences
+
+Science is not repugnant to Religion; both should interest the true Catholic. Science is the work of God's Hands; Religion, the work of His Spirit. Besides the well-known and numerous scientific societies established in our Catholic universities, the Church has the outstanding Pontifical Academy of Sciences, founded in 1603, among the first members of which was Galileo himself.
 
 The purpose of the Academy is to promote the study of the physical, mathematical and natural sciences. It was reorganized by Pope Pius XI in 1936; he then chose seventy outstanding scientists from all countries, and made them members for life. In 1941 the Pope Pius XI prize was conferred on Dr. Harlow Shapley of Harvard University.

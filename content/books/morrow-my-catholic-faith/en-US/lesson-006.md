@@ -23,17 +23,15 @@ Adam and Eve, our first parents, knew God in the Garden of paradise. God spoke t
 
 **How do the order and harmony of the universe prove the existence of God?**
 
-— They lead us to infer the existence of a Supreme Architect and Preserver of surpassing skill. 1. The heavenly bodies go along their appointed courses age after age. The seasons succeed one another year by year. There is
+— They lead us to infer the existence of a Supreme Architect and Preserver of surpassing skill. 1. The heavenly bodies go along their appointed courses age after age. The seasons succeed one another year by year. There is splendour, beauty, arrangement, and order everywhere. The whole universe is governed and preserved by immutable law.
 
-From Adam and Eve down to the present, all men have acknowledged the existence of God. Even pagans and primitive peoples recognize a Supreme Being, a god. They have sacrifices, and they worship some deity whom they recognize as superior and supernatural, on whom man depends.
-
-splendour, beauty, arrangement, and order everywhere. The whole universe is governed and preserved by immutable law.
+> From Adam and Eve down to the present, all men have acknowledged the existence of God. Even pagans and primitive peoples recognize a Supreme Being, a god. They have sacrifices, and they worship some deity whom they recognize as superior and supernatural, on whom man depends.
 
 > If you plant an orange seed, you are certain an apple will not spring from it. Every morning you are sure the sun, when it rises, will appear in the east. At night you can go peacefully to sleep, assured that after your rest the day will come again.
 
 2. To say that this universal order is the result of accident, or that the planets direct their own courses, is as foolish as to say that an automobile goes sensibly around the city streets running itself.
 
-> "The heavens show forth the glory of God, and the firmament declare th the work of His hands" (Ps. 18: 2). God is the Intelligent Cause.
+> "The heavens show forth the glory of God, and the firmament declareth the work of His hands" (Ps. 18: 2). God is the Intelligent Cause.
 
 3. Long ago the pagan Cicero said: "When we contemplate the heavens, we arrive at the conviction that they are all guided by a Being of surpassing skill."
 

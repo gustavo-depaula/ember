@@ -28,7 +28,7 @@
 
 > In the year 327, Constantine moved the seat of his Empire to Constantinople. Rome was abandoned to itself, and became the prey of successive hordes of barbarians. The Roman people came to look up to the Popes as their only governors and protectors. In fact, it was Pope Leo the Great who saved Rome from Attila the "Scourge of God", and from Genseric the Vandal. Thus abandoned by the emperors, little by little the people of central Italy became bound more strongly to the Popes.
 
-2. In 754, the Lombards invaded Italy and threatened Rome. The Pope appealed urgently to the Emperor in Constantinople, but he was in different, neglectful, and did nothing.
+2. In 754, the Lombards invaded Italy and threatened Rome. The Pope appealed urgently to the Emperor in Constantinople, but he was indifferent, neglectful, and did nothing.
 
 > In this emergency, the Pope crossed the Alps and appealed to Pepin, the Frankish king, to protect the people in Italy from the Lombards. Upon defeating the Lombards, King Pepin granted the conquered provinces to the Pope. In 774 Charlemagne, the successor of Pepin, confirmed the grant, and donated additional provinces to the Pope. These possessions, called the States of the Church, the Popes held till 1859.
 
@@ -38,14 +38,7 @@
 
 4. In 1929, the Lateran Treaty signed between the Holy See and the crown of Italy recognized the Pope's temporal power and his sovereignty over the City of the Vatican, by a formal concordat between the Pope and the crown of Italy.
 
-> The City of the Vatican is the smallest sovereign state in the world. At the time of the signing of the
-
-
-## Consistories
-
-The College of Cardinals is the Senate of the Pope. As principal advisers and helpers, the cardinals assist the Holy Father in the government of the Church. After the Supreme Pontiff, the cardinals have the highest dignity in our Holy Mother Church. Consistories are assemblies of cardinals presided over by the Pope. There are three kinds: (1) secret, with only the Pope and cardinals present; (2) public, attended by other prelates and lay spectators; (3) semi- public, attended by bishops and patriarchs.
-
-> Lateran Treaty, it had a population of 532, only 250 of whom were resident. It is almost entirely enclosed by high walls, and comprises 110 acres.
+> The City of the Vatican is the smallest sovereign state in the world. At the time of the signing of the Lateran Treaty, it had a population of 532, only 250 of whom were resident. It is almost entirely enclosed by high walls, and comprises 110 acres.
 
 
 **What exclusive privileges does the Bishop of Rome enjoy, to signify his supremacy as Head of the Church?**
@@ -62,4 +55,8 @@ The College of Cardinals is the Senate of the Pope. As principal advisers and he
 
 > He wears the tiara, a triple crown, the symbol of his preeminence in the threefold office of Teacher, Priest, and Pastor. He wears a cassock of white silk, uses white silk shoes, and a crosier mounted by a cross. He issues medals, confers knighthood. He sends ambassadors. He has a gold-and-white standard.
 
-At the secret consistory, the Pope delivers an allocution on religious and moral conditions throughout the world; sometimes seeks the opinion of the cardinals on the creation of new cardinals, gives the cardinal's ring, appoints bishops, archbishops and patriarchs, makes ecclesiastical transfers, divides or unites dioceses, and asks for a vote on a proposed canonization. At the public consistory, the Pope bestows the red hat, hears the causes of beatifications and canonizations. At the semi- public consistory, the propriety of a proposed canonization is decided.
+## Consistories
+
+The College of Cardinals is the Senate of the Pope. As principal advisers and helpers, the cardinals assist the Holy Father in the government of the Church. After the Supreme Pontiff, the cardinals have the highest dignity in our Holy Mother Church. Consistories are assemblies of cardinals presided over by the Pope. There are three kinds: (1) secret, with only the Pope and cardinals present; (2) public, attended by other prelates and lay spectators; (3) semi-public, attended by bishops and patriarchs.
+
+At the secret consistory, the Pope delivers an allocution on religious and moral conditions throughout the world; sometimes seeks the opinion of the cardinals on the creation of new cardinals, gives the cardinal's ring, appoints bishops, archbishops and patriarchs, makes ecclesiastical transfers, divides or unites dioceses, and asks for a vote on a proposed canonization. At the public consistory, the Pope bestows the red hat, hears the causes of beatifications and canonizations. At the semi-public consistory, the propriety of a proposed canonization is decided.

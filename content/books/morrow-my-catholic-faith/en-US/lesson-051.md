@@ -5,11 +5,34 @@
 
 ## Some Christian Religious Sects
 
-PLACE OF NAME FOUNDER YEAR ORIGIN CATHOLIC CHURCH JESUS CHRIST
+| Name | Founder | Year | Place of Origin |
+|------|---------|------|------------------|
+| Catholic Church | Jesus Christ | 33 | Jerusalem (Near East) |
+| Eastern Orthodox (19 bodies) | Schism from Catholic Church | 1054 | — |
+| Lutheran (21 bodies) | Martin Luther | 1517 | Germany |
+| Mennonite (15 bodies) | Grebel, Mantz, Blaurock | 1525 | Switzerland |
+| Protestant Episcopal | Henry VIII | 1534 | England |
+| Presbyterian (10 bodies) | John Knox | 1560 | Scotland |
+| Congregational | Robert Browne | 1583 | England |
+| Baptist (24 bodies) | John Smyth | 1600 | Amsterdam |
+| Unitarian | John Biddle | 1645 | London |
+| Friends or Quakers (4 bodies) | George Fox | 1647 | England |
+| Reformed Churches (4 bodies) | Assembly | 17th c. | Holland |
+| Baptist, German (4 bodies) | A. Mack | 1708 | Germany |
+| Methodist (22 bodies) | John and Charles Wesley | 1739 | England |
+| Universalists | John Murray | 1770 | New Jersey |
+| United Brethren (2 bodies) | Otterbein and Boehm | 1800 | Maryland |
+| Evangelical | Jacob Albright | 1803 | Pennsylvania |
+| Churches of Christ | Thos. and Alex. Campbell | 1827 | Kentucky |
+| Latter-Day Saints (7 bodies) | Joseph Smith | 1830 | New York |
+| Adventist (5 bodies) | William Miller | 1831 | New York |
+| Salvation Army | William Booth | 1865 | England |
+| Christian Scientists | Mary Baker Eddy | 1879 | Massachusetts |
+| Assemblies of God | General Meeting | 1914 | Arkansas |
+| Church of the Nazarene | Union at General Assembly | 1919 | U.S. |
+| Evangelical, Reformed | Union at General Assembly | 1934 | Ohio |
 
-> JERUSALEM 33 Near East Eastern Orthodox (19 bodies) Schism from Catholic Church 1054 Germany Lutheran (21 bodies) Martin Luther 1517 Switzerland Mennonite (15 bodies) Grebel, Mantz, Blaurock 1525 England Protestant Episcopal Henry VIII 1534 Scotland Presbyterian (10 bodies) John Knox 1560 England Congregational Robert Browne 1583 Amsterdam Bapist (24 bodies) John Smyth 1600 London Unitarian John Biddle 1645 England Friends or Ouakers (4 bodies) George Fox 1647 Holland Reformed Churches (4 bodies) Assembly 17th c. Germany Baptist, German (4 bodies) A. Mack 1708 England Methodist (22 bodies) John and Charles Wesley 1739 New Jersey Universalists John Murray 1770 Maryland United Brethren (2 bodies) Otterbein and Boehm 1800 Pennsylvania Evangelical Jacob Albright 1803 Kentucky Churches of Christ Thos. and Alex. Campbell 1827 New York Latter-Day Saints (7 bodies) Joseph Smith 1830 New York Adventist (5 bodies) William Miller 1831 England Salvation Army William Booth 1865 Massachusetts Christian Scientists Mary Baker Eddy 1879 Arkansas Assemblies of God General Meeting 1914 U.S. Church of the Nazarene Union at General Assembly 1919 Ohio Evangelical, Reformed Union at General Assembly 1934
-
-There are thousands of different Protestant bodies existing in the world. In the above list a few of the best-known are enumerated, in comparison with the Catholic Church. This comparative list indicates this fact: none of these denominations can ever become the True Church founded by Christ, Son of God. It is well known that many heretics, at the hour of death, returned to the Catholic Church. But what Catholic at that hour has ever denied his religion to seek admission into a sect? As the heretic Me lanc th on wrote to his Catholic mother: "The Protestant is the best faith to live in, but the Catholic Faith is the best one to die in."
+There are thousands of different Protestant bodies existing in the world. In the above list a few of the best-known are enumerated, in comparison with the Catholic Church. This comparative list indicates this fact: none of these denominations can ever become the True Church founded by Christ, Son of God. It is well known that many heretics, at the hour of death, returned to the Catholic Church. But what Catholic at that hour has ever denied his religion to seek admission into a sect? As the heretic Melanchthon wrote to his Catholic mother: "The Protestant is the best faith to live in, but the Catholic Faith is the best one to die in."
 
 
 **What is the Church?**
@@ -25,9 +48,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 **How is the Church enabled to lead men to salvation?**
 
-— The Church is enabled to lead men to salvation by the in dwelling of the Holy Ghost, who gives it life. 1. God the Father and God the Son sent the Holy Ghost to dwell in the Church. The in dwelling of the Holy Ghost enables the Church to teach, to sanctify, and to rule the faithful in the name of Christ.
+— The Church is enabled to lead men to salvation by the indwelling of the Holy Ghost, who gives it life. 1. God the Father and God the Son sent the Holy Ghost to dwell in the Church. The indwelling of the Holy Ghost enables the Church to teach, to sanctify, and to rule the faithful in the name of Christ.
 
-> The Holy Ghost came down upon the Apostles to enlighten, strengthen, and sanctify them, so that they could preach the Gospel and spread the Church all over the world. On the Feast of Pentecost, in remembrance of God the Holy Ghost, we celebrate a mystery which is forever renewed in the Church and in our souls: the mystery of the in dwelling of God, the reign of the law of love which succeeded the law of bondage and fear (Rom. 8: 15).
+> The Holy Ghost came down upon the Apostles to enlighten, strengthen, and sanctify them, so that they could preach the Gospel and spread the Church all over the world. On the Feast of Pentecost, in remembrance of God the Holy Ghost, we celebrate a mystery which is forever renewed in the Church and in our souls: the mystery of the indwelling of God, the reign of the law of love which succeeded the law of bondage and fear (Rom. 8: 15).
 
 2. The Holy Ghost guides the rulers of the Church, especially the Pope, and helps them in their duties.
 

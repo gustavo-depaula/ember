@@ -2,7 +2,7 @@
 
 ![](../images/lesson-085.webp)
 
-The love of God causes us to hate sin and do (2) is shown the child who, being told that good. Mary Magdalen (1) after her conversion, Jesus is in the tabernacle, knocks to beg Him loved God fully. She hated sin so much that she make his father, an unbeliever, believe in God. never again committed any, although she had Let us, in imitation of this child, knock at the previously been a great sinner. In the picture heart of Jesus. He will answer our prayer.
+The love of God causes us to hate sin and do good. Mary Magdalen (1) after her conversion, loved God fully. She hated sin so much that she never again committed any, although she had previously been a great sinner. In the picture (2) is shown the child who, being told that Jesus is in the tabernacle, knocks to beg Him to make his father, an unbeliever, believe in God. Let us, in imitation of this child, knock at the heart of Jesus. He will answer our prayer.
 
 
 **Which are the two great commandments that contain the whole law of God?**
@@ -37,7 +37,7 @@ The love of God causes us to hate sin and do (2) is shown the child who, being t
 
 2. He loves us, and is always doing good to us. We only have to think of ourselves and our lives to find an innumerable number of favours He has granted us.
 
-> "For God so loved the world that he gave his only- begotten Son, that those who believe in him may not perish, but may have life everlasting" (John 3:16). "Yea, I have loved thee with an everlasting love: therefore have I drawn thee, taking pity on thee"(Jer 31;3) "Every good gift and every perfect gift is from above, coming down from the Father of Lights." (James 1:17)
+> "For God so loved the world that he gave his only-begotten Son, that those who believe in him may not perish, but may have life everlasting" (John 3:16). "Yea, I have loved thee with an everlasting love: therefore have I drawn thee, taking pity on thee"(Jer 31;3) "Every good gift and every perfect gift is from above, coming down from the Father of Lights." (James 1:17)
 
 3. He wants and commands us to love Him. We are God's creatures. His slightest desires are law to us. How much more should we obey His solemn commands!
 
@@ -54,7 +54,7 @@ The love of God causes us to hate sin and do (2) is shown the child who, being t
 
 > We love God for His own sake when we love Him because He is the highest good and most worthy of love.
 
-3. Our love of God is not perfect when have love Him only because He gives us gifts, or threatens us with punishment, or promises us heaven.
+3. Our love of God is not perfect when we love Him only because He gives us gifts, or threatens us with punishment, or promises us heaven.
 
 > Nevertheless, imperfect love of God is often the beginning of perfect love. Little by little perfect love develops from it.
 

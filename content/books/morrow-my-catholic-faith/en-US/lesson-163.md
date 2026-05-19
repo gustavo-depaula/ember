@@ -2,14 +2,16 @@
 
 ![](../images/lesson-163.webp)
 
-2. Christ raised marriage to the dignity of a 1. Christian marriage unites one man and one woman for life. Every couple should imitate sacrament. It was at the wedding feast of Can a the peace and love that reigned in the home of that He worked His first miracle, thus honouring the Blessed Virgin and St. Joseph, the models of the occasion, and proclaiming the holiness of the Christian spouses. married state.
+1. Christian marriage unites one man and one woman for life. Every couple should imitate the peace and love that reigned in the home of the Blessed Virgin and St. Joseph, the models of Christian spouses.
+
+2. Christ raised marriage to the dignity of a sacrament. It was at the wedding feast of Cana that He worked His first miracle, thus honouring the occasion, and proclaiming the holiness of the married state.
 
 
 **What is the sacrament of Matrimony?**
 
 — Matrimony is the sacrament by which a baptised man and a baptised woman bind themselves for life in a lawful marriage, and receive the grace to discharge their duties. 1. God instituted matrimony in the Garden of Eden, when He created Adam and Eve. "Wherefore a man shall leave father and mother, and shall cleave to his wife, and they shall be two in one flesh. (Gen. 2: 24). Before the coming of Christ, matrimony was a sacred contract, but not a sacrament. Our Lord raised matrimony to the dignity of a sacrament.
 
-> At the marriage feast at Can a Christ worked His first miracle, thus manifesting the holiness of the married state. In the marriage contract, God has made a natural relation a means of grace for Christians. Our Lord instituted special sacraments for two states of life: the Priesthood and Matrimony; from this fact we may deduce the importance He attached to these states of life. By the sacrament of Matrimony, God grants the contracting parties grace to bear the difficulties of the married state, and to sanctify their common life for God's glory and the salvation of their souls.
+> At the marriage feast at Cana Christ worked His first miracle, thus manifesting the holiness of the married state. In the marriage contract, God has made a natural relation a means of grace for Christians. Our Lord instituted special sacraments for two states of life: the Priesthood and Matrimony; from this fact we may deduce the importance He attached to these states of life. By the sacrament of Matrimony, God grants the contracting parties grace to bear the difficulties of the married state, and to sanctify their common life for God's glory and the salvation of their souls.
 
 2. The sacrament of matrimony consists in the mutual expression by both contracting parties of their free consent to take each other as husband and wife.
 

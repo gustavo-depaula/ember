@@ -2,14 +2,16 @@
 
 ![](../images/lesson-116.webp)
 
-1. The greatest calumnies were spoken when 2. People who gossip and spread tales that false witnesses testified against Jesus before detract from the reputation of someone have much to answer for. "Brethren, do not speak Ca ip has. The high priest gave ear to the calumnies and condemned Our Lord to death, against one another. He who speaks against a brother, or judges his brother, speaks against the although he knew Him to be innocent. law and judges the law" (Jas, 4: 11).
+1. The greatest calumnies were spoken when false witnesses testified against Jesus before Caiphas. The high priest gave ear to the calumnies and condemned Our Lord to death, although he knew Him to be innocent.
+
+2. People who gossip and spread tales that detract from the reputation of someone have much to answer for. "Brethren, do not speak against one another. He who speaks against a brother, or judges his brother, speaks against the law and judges the law" (Jas. 4: 11).
 
 
 **What is lying?**
 
 — Lying is saying, for the purpose of deceiving others, what we know or suspect to be untrue.
 
-> Lying is a sin even when it may be the means of effecting much good. The end does not justify the means, and we must not commit evil in order to obtain good. (a) A malicious lie is told for the purpose of injuring someone. It is by its nature a mortal sin, and becomes venial only when the injury done is slight. A lie taken under oath is perjury, a mortal sin. (b) An officious lie is told to avert evil from oneself or others. It is called a "white" lie. (c) A jocose lie is told to amuse others. Very often it is no sin at ail, as when we relate an imaginary narrative for the amusement or instruction of others, tell a joke which we made up, relate fables and fairy tales, etc. But if a jocose lie has harmful results, it becomes sinful. (d) Sins related to lying, as violations of the respect due to truth, are hypocrisy, and flattery.
+> Lying is a sin even when it may be the means of effecting much good. The end does not justify the means, and we must not commit evil in order to obtain good. (a) A malicious lie is told for the purpose of injuring someone. It is by its nature a mortal sin, and becomes venial only when the injury done is slight. A lie taken under oath is perjury, a mortal sin. (b) An officious lie is told to avert evil from oneself or others. It is called a "white" lie. (c) A jocose lie is told to amuse others. Very often it is no sin at all, as when we relate an imaginary narrative for the amusement or instruction of others, tell a joke which we made up, relate fables and fairy tales, etc. But if a jocose lie has harmful results, it becomes sinful. (d) Sins related to lying, as violations of the respect due to truth, are hypocrisy, and flattery.
 
 1. Hypocrisy or dissimulation is acting a lie. It is hypocrisy to pretend to be better than we are.
 
