@@ -1,4 +1,4 @@
-import { cccCompendiumSource } from '@ember/producers'
+import { cccCompendiumSource } from '@ember/sources'
 import { bibleChapterSource } from './bible-chapter'
 import { cccChapterSource } from './ccc-chapter'
 import { psalmodySource } from './psalmody'

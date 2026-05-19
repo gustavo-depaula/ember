@@ -98,7 +98,16 @@ export function PracticeFlow({
   const queryClient = useQueryClient()
   const [showCompleteModal, setShowCompleteModal] = useState(false)
   const [selectOverrides, setSelectOverrides] = useState<Record<string, string>>({})
-  const [renderedSections, setRenderedSections] = useState<RenderedSection[]>([])
+  // `renderedSections` is a fresh array each engine resolution. `version`
+  // tags it with a monotonic counter so the preprocess queryKey can be a
+  // stable scalar (number) instead of forcing React Query to deep-hash a
+  // potentially large tree on every render.
+  const [renderedSections, setRenderedSectionsRaw] = useState<RenderedSection[]>([])
+  const [renderedSectionsVersion, setRenderedSectionsVersion] = useState(0)
+  const setRenderedSections = useCallback((next: RenderedSection[]) => {
+    setRenderedSectionsRaw(next)
+    setRenderedSectionsVersion((v) => v + 1)
+  }, [])
   const [isResolvingFlow, setIsResolvingFlow] = useState(false)
   const [thresholdElapsed, setThresholdElapsed] = useState(false)
 
@@ -246,6 +255,7 @@ export function PracticeFlow({
     contentLanguage,
     secondaryLanguage,
     selectOverrides,
+    setRenderedSections,
   ])
 
   // Single async preprocessor: walks the engine's resolved output and inlines
@@ -254,7 +264,7 @@ export function PracticeFlow({
   const preprocessQuery = useQuery({
     queryKey: [
       'preprocess',
-      renderedSections,
+      renderedSectionsVersion,
       contentLanguage,
       translation,
       programDay ?? null,
@@ -456,4 +466,3 @@ export function PracticeFlow({
     </ImageViewerProvider>
   )
 }
-

@@ -15,9 +15,7 @@ export function requirePositiveInt(producerId: string, params: Params, key: stri
   const raw = params?.[key]
   const n = typeof raw === 'number' ? raw : typeof raw === 'string' ? Number(raw) : Number.NaN
   if (!Number.isInteger(n) || n < 1)
-    throw new Error(
-      `${producerId}: param "${key}" must be a positive integer (got ${String(raw)})`,
-    )
+    throw new Error(`${producerId}: param "${key}" must be a positive integer (got ${String(raw)})`)
   return n
 }
 

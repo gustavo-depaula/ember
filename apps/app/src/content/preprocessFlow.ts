@@ -3,23 +3,19 @@ import type { QueryClient } from '@tanstack/react-query'
 import i18n from '@/lib/i18n'
 import { formatVerseRange } from '@/lib/lectio'
 import type { PsalmRef, ReadingReference } from '@/lib/liturgical'
-import { bibleChapterSource } from '@/producers/bible-chapter'
-import { cccChapterSource } from '@/producers/ccc-chapter'
-import { psalmodySource } from '@/producers/psalmody'
 import {
-  cacheKeyFor,
   type ContentSource,
+  cacheKeyFor,
   getSource,
   type ProducerPrefs,
   runCachedSource,
   type SourceAccessor,
   type SourceFetchContext,
-} from '@/producers'
-import type {
-  ContainerOption,
-  Primitive,
-  VersesPrimitive,
-} from './primitives'
+} from '@/sources'
+import { bibleChapterSource } from '@/sources/bible-chapter'
+import { cccChapterSource } from '@/sources/ccc-chapter'
+import { psalmodySource } from '@/sources/psalmody'
+import type { ContainerOption, Primitive, VersesPrimitive } from './primitives'
 
 export type PreprocessContext = {
   queryClient: QueryClient
@@ -33,9 +29,7 @@ export async function preprocessFlow(
   ctx: PreprocessContext,
 ): Promise<Primitive[]> {
   const accessor = makeSourceAccessor(ctx)
-  const resolved = await Promise.all(
-    sections.map((s) => preprocessSection(s, ctx, accessor)),
-  )
+  const resolved = await Promise.all(sections.map((s) => preprocessSection(s, ctx, accessor)))
   return resolved.flat()
 }
 
@@ -117,12 +111,14 @@ async function preprocessSection(
       }
 
     case 'gallery':
-      return section.items.map((item): Primitive => ({
-        type: 'image',
-        src: item.src,
-        caption: item.caption,
-        attribution: item.attribution,
-      }))
+      return section.items.map(
+        (item): Primitive => ({
+          type: 'image',
+          src: item.src,
+          caption: item.caption,
+          attribution: item.attribution,
+        }),
+      )
 
     case 'holy-card':
       return {
@@ -167,9 +163,7 @@ async function preprocessSection(
         }
       }
       if (section.title.primary) {
-        const children = section.sections
-          ? await preprocessFlow(section.sections, ctx)
-          : []
+        const children = section.sections ? await preprocessFlow(section.sections, ctx) : []
         return {
           type: 'container',
           behavior: {

@@ -17,7 +17,11 @@ function stableStringify(obj: Record<string, unknown>): string {
   return JSON.stringify(obj, keys)
 }
 
-function cacheKeyFor(source: ContentSource, params: Record<string, unknown>, prefs: ProducerPrefs): string {
+function cacheKeyFor(
+  source: ContentSource,
+  params: Record<string, unknown>,
+  prefs: ProducerPrefs,
+): string {
   const prefsSubset: Record<string, unknown> = {}
   for (const key of source.prefsDeps) prefsSubset[key] = prefs[key]
   return `${stableStringify(prefsSubset)}::${stableStringify(params)}`

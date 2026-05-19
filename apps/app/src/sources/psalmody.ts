@@ -32,4 +32,3 @@ export const psalmodySource: ContentSource<Primitive[]> = {
     )
   },
 }
-

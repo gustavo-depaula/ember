@@ -70,4 +70,3 @@ export const cccCompendiumSource = {
     return { type: 'prose', html: parts.join('\n'), anchors }
   },
 }
-

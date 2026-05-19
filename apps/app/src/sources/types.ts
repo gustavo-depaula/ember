@@ -5,8 +5,8 @@
 import type { Primitive } from '@/content/primitives'
 
 export type ProducerPrefs = {
-  lang: string         // content language: 'en-US' | 'pt-BR'
-  translation: string  // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
+  lang: string // content language: 'en-US' | 'pt-BR'
+  translation: string // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
 }
 
 export type SourceAccessor = {

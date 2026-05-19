@@ -54,9 +54,9 @@ importers:
       '@ember/mass-propers':
         specifier: workspace:*
         version: link:../../packages/mass-propers
-      '@ember/producers':
+      '@ember/sources':
         specifier: workspace:*
-        version: link:../../packages/producers
+        version: link:../../packages/sources
       '@expo-google-fonts/cinzel':
         specifier: ^0.4.2
         version: 0.4.2
@@ -329,7 +329,7 @@ importers:
         specifier: workspace:*
         version: link:../liturgical
 
-  packages/producers: {}
+  packages/sources: {}
 
 packages:
 
@@ -8062,7 +8062,9 @@ snapshots:
       metro-runtime: 0.83.7
     transitivePeerDependencies:
       - '@babel/core'
+      - bufferutil
       - supports-color
+      - utf-8-validate
     optional: true
 
   '@react-native/normalize-color@2.1.0': {}

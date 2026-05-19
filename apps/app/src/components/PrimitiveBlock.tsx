@@ -1,12 +1,15 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: primitive trees never reorder
 
-import { Text, View, YStack } from 'tamagui'
+import { memo, useCallback } from 'react'
+import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
+import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
 import {
   RenderedCaptureResolutionBlock,
   RenderedReviewResolutionBlock,
 } from '@/features/resolutions'
-import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
+import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
+import { PrayerText } from './PrayerText'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
 import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
@@ -23,8 +26,6 @@ import { ProseBlock } from './prayer/ProseBlock'
 import { SectionHeading } from './prayer/SectionHeading'
 import { SectionMarker } from './prayer/SectionMarker'
 import { SelectBlock } from './prayer/SelectBlock'
-import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
-import { PrayerText } from './PrayerText'
 import { RubricLabel } from './RubricLabel'
 import { VersesBlock } from './VersesBlock'
 
@@ -34,14 +35,22 @@ type Props = {
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }
 
-export function PrimitiveBlock({ primitive, practiceId, onSelectOverride }: Props) {
-  const renderChild = (child: Primitive, i: number) => (
-    <PrimitiveBlock
-      key={`${child.type}-${i}`}
-      primitive={child}
-      practiceId={practiceId}
-      onSelectOverride={onSelectOverride}
-    />
+export const PrimitiveBlock = memo(function PrimitiveBlock({
+  primitive,
+  practiceId,
+  onSelectOverride,
+}: Props) {
+  // biome-ignore lint/correctness/useExhaustiveDependencies: PrimitiveBlock is the const we're defining; it's stable for the lifetime of the module.
+  const renderChild = useCallback(
+    (child: Primitive, i: number) => (
+      <PrimitiveBlock
+        key={`${child.type}-${i}`}
+        primitive={child}
+        practiceId={practiceId}
+        onSelectOverride={onSelectOverride}
+      />
+    ),
+    [practiceId, onSelectOverride],
   )
 
   switch (primitive.type) {
@@ -103,7 +112,7 @@ export function PrimitiveBlock({ primitive, practiceId, onSelectOverride }: Prop
     case 'interaction':
       return renderInteraction(primitive, practiceId)
   }
-}
+})
 
 function renderCallout(p: Extract<Primitive, { type: 'callout' }>) {
   switch (p.variant) {
@@ -210,10 +219,7 @@ function renderContainer(
   }
 }
 
-function renderInteraction(
-  p: Extract<Primitive, { type: 'interaction' }>,
-  practiceId: string,
-) {
+function renderInteraction(p: Extract<Primitive, { type: 'interaction' }>, practiceId: string) {
   switch (p.kind) {
     case 'proper':
       return <ProperSlot slot={p.slot} form={p.form} description={p.description} />
