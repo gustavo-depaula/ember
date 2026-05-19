@@ -48,18 +48,18 @@ The Bible is the best Book in the world. It is the Word of God. It is better tha
 
 1. The Old Testament, written before Christ, consists of forty-five books:
 
-> (a) Twenty-one historical books relating to the earliest ages of the world, or to the history of the Jews, among which books are the five books of Moses and the four books of Kings; (b) Seven doctrinal books, made up of maxims and prayers, among which are the Psalms and the Proverbs; and (c) Seventeen prophetic al books, of four greater and twelve lesser prophets, among which books are Isaias, Jeremias, and Daniel.
+> (a) Twenty-one historical books relating to the earliest ages of the world, or to the history of the Jews, among which books are the five books of Moses and the four books of Kings; (b) Seven doctrinal books, made up of maxims and prayers, among which are the Psalms and the Proverbs; and (c) Seventeen prophetical books, of four greater and twelve lesser prophets, among which books are Isaias, Jeremias, and Daniel.
 
 2. The New Testament, written after the Ascension of Christ, consists of twenty-seven books, as follows:
 
-> (a) The four Gospels according to Sts. Matthew, Mark, Luke, and John, containing the story of the life of Christ; (b) The Acts of the Apostles, by St. Luke, containing the history of the Apostles after the Ascension of Our Lord into heaven; (c) Twenty-one epistles by Sts. Paul, James, Peter, John, and Jude; and (d) The Apocalypse by St. John. The four Gospels and the Acts are mainly historical. The Epistles are doctrinal. The Apocalypse is prophetic al.
+> (a) The four Gospels according to Sts. Matthew, Mark, Luke, and John, containing the story of the life of Christ; (b) The Acts of the Apostles, by St. Luke, containing the history of the Apostles after the Ascension of Our Lord into heaven; (c) Twenty-one epistles by Sts. Paul, James, Peter, John, and Jude; and (d) The Apocalypse by St. John. The four Gospels and the Acts are mainly historical. The Epistles are doctrinal. The Apocalypse is prophetical.
 
 
 **Who are the four Evangelists?**
 
-— The four Evangelists are Saints Matthew, Mark, Luke, and John. 1. St. Matthew was one of the twelve Apostles. Before he followed Our Lord, he was a tax- gatherer or publican called Levi.
+— The four Evangelists are Saints Matthew, Mark, Luke, and John. 1. St. Matthew was one of the twelve Apostles. Before he followed Our Lord, he was a tax-gatherer or publican called Levi.
 
-> Matthew was the first Evangelist to write the Gospel, about six years after Our Lord's Ascension. His work, written in Hebrew for the Jews of Palestine, was translated into Greek in the time of the Apostles. His work shows Jesus as proving Himself to be the promised Messi as.
+> Matthew was the first Evangelist to write the Gospel, about six years after Our Lord's Ascension. His work, written in Hebrew for the Jews of Palestine, was translated into Greek in the time of the Apostles. His work shows Jesus as proving Himself to be the promised Messias.
 
 2. St. Mark was the disciple of St. Peter, and wrote according to what he heard from St. Peter himself.
 

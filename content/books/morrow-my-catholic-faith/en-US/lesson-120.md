@@ -26,7 +26,7 @@ Our Lord Himself often fasted. He fasted forty days and forty nights before He b
 
 Those of weak health, the sick, the convalescent, nursing women, the very poor, and those engaged in hard work are excused from fasting. One in doubt as to his duties should consult pastor or confessor.
 
-> Young people below eighteen have not done growing, and need more than one full meal daily. Those who have passed their fifty-ninth year are often weak, and have need of more than one full meal. The very poor have to work hard, and need more than one full meal to be able to do their duties. Among those who are dispensed on account of hard work are; teachers, nurses, emergency responders, administrates. etc.
+> Young people below eighteen have not done growing, and need more than one full meal daily. Those who have passed their fifty-ninth year are often weak, and have need of more than one full meal. The very poor have to work hard, and need more than one full meal to be able to do their duties. Among those who are dispensed on account of hard work are: teachers, nurses, emergency responders, administrators, etc.
 
 
 **What is a day of abstinence?**

@@ -49,6 +49,6 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 > All the Apostles suffered persecution, and all except St. John suffered death by martyrdom, for their faith. St. John the Baptist was beheaded because he censured Herod for violating the law of marriage. St. John Nepomucene was put to death because he refused to violate the seal of confession. "Therefore, everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32)
 
-4. Neglect of the study of the truths of our religion is frequently the cause of luke- warmness, a bad life, and final apostasy and impenitence. We should be zealous in studying the Christian doctrine, in the catechism and religion lessons, in sermons, missions, and retreats.
+4. Neglect of the study of the truths of our religion is frequently the cause of lukewarmness, a bad life, and final apostasy and impenitence. We should be zealous in studying the Christian doctrine, in the catechism and religion lessons, in sermons, missions, and retreats.
 
 > If we have any doubts, we should consult our priests; God will not forgive ignorance if we voluntarily neglect the means He has granted to dissipate it.

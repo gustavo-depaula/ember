@@ -25,7 +25,7 @@
 
 4. We ought to give material alms only to those really poor or unable to get work. It would be wrong to support people in idleness or vice; this would be to encourage them in sin. But if we have no means of finding out about the poor who beg our aid, it is much better to err on the side of charity than miserliness.
 
-> Quite a number of people give as an excuse for not giving alms the fact that many beggars are "fakes" who a mass wealth by begging. It is, however, true, that such fakes cannot be of a considerable number, and that the people who most often excuse themselves do not give to anybody at all. Is not God generous to us? Let us imitate His example.
+> Quite a number of people give as an excuse for not giving alms the fact that many beggars are "fakes" who amass wealth by begging. It is, however, true, that such fakes cannot be of a considerable number, and that the people who most often excuse themselves do not give to anybody at all. Is not God generous to us? Let us imitate His example.
 
 
 **What are some practical ways of almsgiving?**
@@ -36,9 +36,9 @@
 
 2. The Church may be helped by giving alms to its missions, schools, orphan asylums, and homes-for the poor.
 
-> Even children should be trained early to give alms by setting aside every week a small sum from their pocket- money. "By this will all men know that you are my disciples, if you have love for one another" (John 13: 35).
+> Even children should be trained early to give alms by setting aside every week a small sum from their pocket-money. "By this will all men know that you are my disciples, if you have love for one another" (John 13: 35).
 
-3. In these times, there are many organ iz a- tions conducted by the government or by laymen to aid particular groups of the poor.
+3. In these times, there are many organizations conducted by the government or by laymen to aid particular groups of the poor.
 
 > In contributing to such organizations, we should exercise prudent care. It has become the fashion to give alms to "institutions" instead of directly to the poor, to let these "institutions" distribute our charity for us; in other words, it is fashionable to give charity "by proxy". We should remember that personal charity is more kind than impersonal charity through institutions, that signing and mailing a check does not seem to be as Christian as visiting the poor in their dwellings, finding out what they really need, giving them comfort and aid directly. We should also, if we are too busy to do anything but "institutional charity", find out which are worthy of help. Some such institutions are top-heavy; that is, too much goes for officials' salaries.
 

@@ -44,7 +44,7 @@ Christ is the source of all graces. His merits give effect to the means of perfe
 
 — They are: 1. A habitual disposition to lose all things, even life itself, and suffer all things rather than commit a mortal sin. This first degree of self-denial is necessary for all in order to be saved.
 
-> Our Lord said, "Whosoever doth not carry his cross, and come after me, cannot be my disciple." Our ordinary cross, the cross of all mortals, is our human tendency to weakness and concupiscence, to fall into sin; against this tendency we must all do valiant battle, to acquire the first degree of perfection, of self-denial. Jesus exacts absolute self- denial in everything that is an obstacle to eternal salvation, life not excepted. "For he who would save his life (at the expense of what he owes God) will lose it; but he who loses his life for my sake and for the gospel's sake will save it" (Mark 8: 35).
+> Our Lord said, "Whosoever doth not carry his cross, and come after me, cannot be my disciple." Our ordinary cross, the cross of all mortals, is our human tendency to weakness and concupiscence, to fall into sin; against this tendency we must all do valiant battle, to acquire the first degree of perfection, of self-denial. Jesus exacts absolute self-denial in everything that is an obstacle to eternal salvation, life not excepted. "For he who would save his life (at the expense of what he owes God) will lose it; but he who loses his life for my sake and for the gospel's sake will save it" (Mark 8: 35).
 
 2. A habitual disposition to lose and suffer all, rather than commit a deliberate venial sin. This second degree is a mark of affection towards God: we avoid even small faults because they displease Him.
 

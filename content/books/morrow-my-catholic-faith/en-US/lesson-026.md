@@ -70,7 +70,7 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 3. Spiritual sloth is called lukewarmness. It is also called tepidity.
 
-> The lukewarm person would like to have the rewards given by God, but will not move a finger to serve Him. As soon as it is necessary to exert himself, he shrinks from the effort. Great Sinners have been known to become great saints, but the lukewarm, never. Holy Scripture says: "I would that thou wert cold or hot. But because thou an lukewarm, and neither cold nor hot, I am about to vomit thee out of my mouth" (Apoc. 3: 15,16).
+> The lukewarm person would like to have the rewards given by God, but will not move a finger to serve Him. As soon as it is necessary to exert himself, he shrinks from the effort. Great Sinners have been known to become great saints, but the lukewarm, never. Holy Scripture says: "I would that thou wert cold or hot. But because thou art lukewarm, and neither cold nor hot, I am about to vomit thee out of my mouth" (Apoc. 3: 15,16).
 
 4. Sloth leads to many sins; idleness begets vice. The lazy neglect good works.
 

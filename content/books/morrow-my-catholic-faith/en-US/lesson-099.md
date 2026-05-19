@@ -13,7 +13,7 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 2. An oath may be simple or solemn. A simple oath is one between man and man in ordinary intercourse. A solemn oath is one taken before ecclesiastical or civil authority, in the presence of an official.
 
-> An oath of public office is a solemn oath. The formula used ends with: "So help me God." Our Lord swore solemnly when Ca ip has adjured Him by the Living God to tell the truth (Matt. 26:64).
+> An oath of public office is a solemn oath. The formula used ends with: "So help me God." Our Lord swore solemnly when Caiphas adjured Him by the Living God to tell the truth (Matt. 26:64).
 
 3. We must not take an oath of blind obedience to a secret society.
 

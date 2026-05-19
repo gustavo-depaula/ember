@@ -22,7 +22,7 @@ The illustration shows a young man and a young woman making their offerings to J
 
 **Who may be admitted into the religious state?**
 
-— Any Catholic who is free from impediment, who has a right intention, and who is fitted to fulfil the duties of the religious life may be admitted into the religious- state. 1. Impediments are: an existing marriage, lack of age (being less than 15 years of age), debts that must be paid or parents who need one's support.
+— Any Catholic who is free from impediment, who has a right intention, and who is fitted to fulfil the duties of the religious life may be admitted into the religious state. 1. Impediments are: an existing marriage, lack of age (being less than 15 years of age), debts that must be paid or parents who need one's support.
 
 > The mere opposition of parents who do not need one to support them is not an obstacle. Many Saints had to meet parental objections firmly before they could join religious orders.
 

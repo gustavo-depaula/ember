@@ -40,7 +40,7 @@ God created the world in six days. On the first day, He made light and darkness,
 
 **What do we mean when we say that God is self-existing?**
 
-— When we say that God is self- existing we mean that He does not owe His existence to any other being. 1. God made us, but who made God? God said to Moses, "I am who am" (Exod. 3: 14). He exists of Himself, deriving His Being from no other. God is the First Cause.
+— When we say that God is self-existing we mean that He does not owe His existence to any other being. 1. God made us, but who made God? God said to Moses, "I am who am" (Exod. 3: 14). He exists of Himself, deriving His Being from no other. God is the First Cause.
 
 > All other beings and things owe their existence to God. In comparison to Him, we are nothing.
 
@@ -63,11 +63,11 @@ God created the world in six days. On the first day, He made light and darkness,
 
 > God alone can bridge the chasm that yawns between the finite and the infinite. When we take advantage of His grace to seek Him in loving trust, He holds out His hand, a Father calling to children, to cross the chasm safely to Him.
 
-3. The Creator is above all the created, though something of Him, some likeness of His Being, may be found in every creature. But even were all creatures, from the most glorious seraphim to the lowliest of moss, to combine their powers and perfections, theirs would be a faint shadow of God's all- encompassing supremacy.
+3. The Creator is above all the created, though something of Him, some likeness of His Being, may be found in every creature. But even were all creatures, from the most glorious seraphim to the lowliest of moss, to combine their powers and perfections, theirs would be a faint shadow of God's all-encompassing supremacy.
 
 
 **What are some of the perfections of God?**
 
-— Some of the perfections of God are: God is eternal, all-good, all-knowing, all- present, and almighty.
+— Some of the perfections of God are: God is eternal, all-good, all-knowing, all-present, and almighty.
 
 > God's perfections do not exist separately in Him, but are one and identical with Himself. They are only various manifestations of His one nature and perfection. In God, for example, His goodness is one with His wisdom and power. His perfections, besides being one and the same in Him, are also identical with Him: that is, God Himself is infinity, wisdom, goodness, power.

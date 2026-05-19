@@ -24,7 +24,7 @@
 
 3. A Catholic elector must not vote for any candidate who despises the teachings of Christianity. Before voting, he should find out the candidate's views on education, marriage, etc.
 
-> It may happen that all the candidates for an office are in different or hostile to religion. In that case, if no other candidate can be made available, the Catholic should vote for the one least hostile to Christian principles, most moral in his qualities.
+> It may happen that all the candidates for an office are indifferent or hostile to religion. In that case, if no other candidate can be made available, the Catholic should vote for the one least hostile to Christian principles, most moral in his qualities.
 
 4. We are bound to contribute towards the expenses of government by paying taxes. It is wrong to cheat the State in the matter of taxation.
 

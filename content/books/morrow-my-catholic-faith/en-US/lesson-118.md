@@ -26,11 +26,11 @@ On holydays of obligation, just as on Sundays, we must hear Mass and abstain fro
 
 — All Sundays and the following ten: 1. Christmas Day
 
-> (December 25) On this day we commemorate the birth of Jesus Christ in the stable at Bethlehem. "And it came to pass while they were there, that the days for her to be delivered were fulfilled. And she brought forth her first- born son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn" (Luke: 6-7).
+> (December 25) On this day we commemorate the birth of Jesus Christ in the stable at Bethlehem. "And it came to pass while they were there, that the days for her to be delivered were fulfilled. And she brought forth her first-born son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn" (Luke: 6-7).
 
 2. The Epiphany
 
-> (January 6) The Epiphany celebrates the adoration of the newly- born Child by the Magi, the Wise Men from the East, — Melchor, Caspar, and Baltassar. The feast is called the Epiphany (or "manifestation") because it celebrates the manifestation of Christ to the Gentiles.
+> (January 6) The Epiphany celebrates the adoration of the newly-born Child by the Magi, the Wise Men from the East, — Melchor, Caspar, and Baltassar. The feast is called the Epiphany (or "manifestation") because it celebrates the manifestation of Christ to the Gentiles.
 
 3. Ascension Thursday
 
@@ -46,7 +46,7 @@ On holydays of obligation, just as on Sundays, we must hear Mass and abstain fro
 
 6. The Assumption
 
-> (August 15). After her death, the soul of the Blessed Virgin Mary was reunited to her in corrupt body, and she was taken up to heaven by the ministry of angels. No one has ever claimed possessing any relic of Mary's body; if she had not been assumed into heaven, would not the Apostles, who revered her highly, have kept her relics?
+> (August 15). After her death, the soul of the Blessed Virgin Mary was reunited to her incorrupt body, and she was taken up to heaven by the ministry of angels. No one has ever claimed possessing any relic of Mary's body; if she had not been assumed into heaven, would not the Apostles, who revered her highly, have kept her relics?
 
 7. All Saints' Day
 

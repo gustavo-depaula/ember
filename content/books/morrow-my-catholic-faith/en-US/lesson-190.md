@@ -25,7 +25,7 @@ Third Orders are like religious orders, being branches of these to which they ar
 
 **What are confraternities?**
 
-— Con- fraternities are societies of lay people erected by ecclesiastical authority for the furtherance of works of piety and charity.
+— Confraternities are societies of lay people erected by ecclesiastical authority for the furtherance of works of piety and charity.
 
 > The rules of confraternities are not binding under pain of sin. However, if the rules are not observed the special graces, and indulgences attached to them are not granted. Confraternities with the right to affiliate similar associations to themselves are termed archconfraternities. We here list a few examples of our largest confraternities.
 

@@ -49,7 +49,7 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 > "The prayer of him that humbleth himself shall pierce the clouds" (Ecclus. 35: 21). Remember how Christ praised the publican who. humbly struck his breast and prayed: "O God, be merciful to me a sinner." We are entirely dependent on God our Creator; whatever He refuses us, we cannot have. "Without me, you can do nothing." (John 15: 5).
 
-3. With a great desire for the graces we beg of Him. — It is far from polite to a fellow- man to ask him for something and at the same time to act as if we did not care whether he granted our request or not. How much more reprehensible such an action would be before Almighty God!
+3. With a great desire for the graces we beg of Him. — It is far from polite to a fellow-man to ask him for something and at the same time to act as if we did not care whether he granted our request or not. How much more reprehensible such an action would be before Almighty God!
 
 > To prove our great desire, for the favour we ask, we must be sure to possess a pure heart, to be in the state of grace. Even the prayer of sinners is profitable, especially when they are sorry for their sins; but the purer our heart is, the better is God disposed to hear our petitions. Who would have the temerity to enter a king's presence clad in filthy and torn garments? Yet in praying with an impure heart a man would be doing much worse—coming into the presence of God with a stained soul.
 

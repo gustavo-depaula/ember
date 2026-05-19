@@ -25,7 +25,7 @@ The Child Jesus should be our model of obedience: "And he went down with them (M
 
 > Because parents are the direct representatives of God over their children, such children owe them obedience. Obedience that is the result of fear of punishment or a trick to get some favour is not true Christian obedience, and much of the merit is lost. "Honour thy father and thy mother, that thou mayest be long-lived upon the land which the Lord thy God will give thee" (Ex. 20:12).
 
-4. It is a mistake for one to think he knows more than his parents. It is his duty to consult them about important steps he contemplates, as marriage, etc. In all import ant things, God-fearing parents know more than their children. When a child is unwilling or ashamed to let his parents know about something, it is generally wrong.
+4. It is a mistake for one to think he knows more than his parents. It is his duty to consult them about important steps he contemplates, as marriage, etc. In all important things, God-fearing parents know more than their children. When a child is unwilling or ashamed to let his parents know about something, it is generally wrong.
 
 > If in doubt as to the goodness of an action, one should consult his parents or confessor.
 

@@ -24,7 +24,7 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 — The Church by means of indulgences remits the temporal punishment due to sin by applying to us from her spiritual treasury part of the infinite satisfaction of Jesus Christ and of the superabundant satisfaction of the Blessed Virgin Mary and of the saints. 1. In the Church, there is a spiritual treasury made up of the superabundant merits of our Lord, the Blessed Mother, and the Saints. The merits of the passion and death of Our Lord are infinite, for He is God. All these He left to His Church.
 
-> The superabundant satisfaction of the Blessed Virgin Mary and of the Saints which are united with those of Christ, “I make up in my flesh what is lacking to the sufferings of Christ, on behalf of His body, the Church," (Co loss. 1: 24) is that which they gained during their lifetime, but did not need, and which the Church applies to their fellow-members of the Communion of Saints. (see page 148).
+> The superabundant satisfaction of the Blessed Virgin Mary and of the Saints which are united with those of Christ, “I make up in my flesh what is lacking to the sufferings of Christ, on behalf of His body, the Church," (Coloss. 1: 24) is that which they gained during their lifetime, but did not need, and which the Church applies to their fellow-members of the Communion of Saints. (see page 148).
 
 2. When the Church grants an indulgence, it does not really cancel any expiation due to God. It only supplies for our deficiencies by drawing on the spiritual treasury of the Church.
 

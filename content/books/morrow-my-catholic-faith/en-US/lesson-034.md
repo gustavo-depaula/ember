@@ -2,7 +2,7 @@
 
 ![](../images/lesson-034.webp)
 
-After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani. And going a little further, He fell upon His face, praying: "Father, if it is possible, let this cup pass away from Me; yet not as I will, but as Thou wil test" (Matt. 26: 39). After praying three times the same prayer, Jesus said to His disciples: "Behold, the hour is at hand, and the Son of Man will be betrayed into the hands of sinners. Rise, let us go. Behold, he who betrays Me is at hand" (Matt. 26: 45-46). Judas had come.
+After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani. And going a little further, He fell upon His face, praying: "Father, if it is possible, let this cup pass away from Me; yet not as I will, but as Thou willest" (Matt. 26: 39). After praying three times the same prayer, Jesus said to His disciples: "Behold, the hour is at hand, and the Son of Man will be betrayed into the hands of sinners. Rise, let us go. Behold, he who betrays Me is at hand" (Matt. 26: 45-46). Judas had come.
 
 (THE FOURTH ARTICLE OF THE APOSTLES' CREED)
 
@@ -49,13 +49,13 @@ After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani.
 
 > Our Lord looked forward to His agony, saying to His Apostles, "That the, world may know that I love the Father, and that I do as the Father has commanded me. Arise, let us go from here" (John 14: 31) . In the Garden, Jesus felt so sad at the sins of men and at what would befall Him that He said, "My soul is sad even unto death" (Matt. 26: 38). To His Father, He cried out in pain, "Father, if thou art willing, remove this cup from me; yet not my will, but thine, be done" (Luke 22: 42). In agony, "his sweat became as drops of blood, running down upon the ground" (Luke 22: 44).
 
-2. Jesus Christ was betrayed by Judas, seized by soldiers, led before the high priest, and condemned to death. The Sanhedrin, the council of the Jews, headed by Ca ip has the high priest, condemned Jesus to death for the crime of blasphemy, because He claimed to be Christ the Son of God.
+2. Jesus Christ was betrayed by Judas, seized by soldiers, led before the high priest, and condemned to death. The Sanhedrin, the council of the Jews, headed by Caiphas the high priest, condemned Jesus to death for the crime of blasphemy, because He claimed to be Christ the Son of God.
 
 > "Then the high priest, standing up, said to him; Dost thou make no answer to the things that these men prefer against thee? But Jesus kept silence. And the high priest said to him; I adjure thee by the living God that thou tell us whether thou art the Christ, the Son of God. Jesus said to him; Thou hast said it. ... Then the high priest tore his garment, saying; He has blasphemed; what further need have we of witnesses? Behold, now you have heard the blasphemy. What do you think? And they answered and said; He is liable to death" (Matt. 26: 62 - 66)
 
 3. Jesus Christ was led to Pontius Pilate, the Roman Governor of Judea, to have His sentence confirmed. At the time the Jews were forbidden by their Roman masters from putting anyone to death without the confirmation of the Governor. Pilate questioned Christ time and again, but had to say to His accusers: "I find no guilt in Him."
 
-> The Jewish Priests and Pharisees hated and persecuted Jesus because they expected the Messi as to be an earthly king. They were so wicked that in spite of the proofs of Christ's divinity, they would not believe a poor man could be the Messi as. They hated Jesus; He had rebuked them for their sins.
+> The Jewish Priests and Pharisees hated and persecuted Jesus because they expected the Messias to be an earthly king. They were so wicked that in spite of the proofs of Christ's divinity, they would not believe a poor man could be the Messias. They hated Jesus; He had rebuked them for their sins.
 
 4. But Pilate wished to please the Jews, and had Jesus scourged, Jesus was bound to a pillar, His clothes torn off; strong men with whips, cords, and straps with iron spikes scourged Him, and the whole body of Our Lord was one great wound.
 

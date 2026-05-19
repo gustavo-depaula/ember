@@ -2,7 +2,7 @@
 
 ![](../images/lesson-081.webp)
 
-The General Judgement will take place at the end of the world. If is a public repetition of the particular judgement. Then all that each has thought, said, done, or omitted will be known to everybody. The just will receive their reward, and the wicked will be punished. At the General Judgement Jesus Christ will be the Judge. Then complete justice will be meted out to all, to the souls united with the bodies.
+The General Judgement will take place at the end of the world. It is a public repetition of the particular judgement. Then all that each has thought, said, done, or omitted will be known to everybody. The just will receive their reward, and the wicked will be punished. At the General Judgement Jesus Christ will be the Judge. Then complete justice will be meted out to all, to the souls united with the bodies.
 
 SEVENTH AND TWELFTH ARTICLES OF THE APOSTLES' CREED
 

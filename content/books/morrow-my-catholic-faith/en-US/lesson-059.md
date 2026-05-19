@@ -57,7 +57,7 @@ The Church is a closely organized and united society, including the hierarchy an
 
 > A patriarch ordains all the bishops of his patriarchate, summons synods, legislates on fasting and abstinence, reception of the sacraments, liturgy and ritual, and other observances. At present there are only five major or Greater Patriarchs; those of Rome, Jerusalem, Constantinople, Antioch and Alexandria. The title "Patriarch" is however given as an honorary title to archbishops of certain places.
 
-5. Archbishops, bishops, and vicars- apostolic possess varying jurisdictions. They rule over archdioceses, dioceses, vicariates.
+5. Archbishops, bishops, and vicars apostolic possess varying jurisdictions. They rule over archdioceses, dioceses, vicariates.
 
 > An archbishop and bishop are entitled "Most Reverend," and formally addressed "Your Excellency." The term Primate is now only an honorary title; formerly a Primate exercised jurisdiction over whole countries or several provinces.
 

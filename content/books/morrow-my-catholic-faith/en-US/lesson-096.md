@@ -20,7 +20,7 @@ Above, are illustrated some of the most common forms of superstition. Sick peopl
 
 — A person sins by superstition when he attributes to a creature a power that belongs to God alone. 1. Examples of superstitious practices are: the use of charms or spells, belief in dreams or fortune-telling. As today practised, all these superstitions are mere nonsense: they may be taken only as some social fun, like "bingo." Only idiots actually believe in these practices, in mascots, omens, astrology.
 
-> As today practised, manifestations of superstitious beliefs are fraudulent. Those "magicians" merely perform sleight-of-hand tricks; the "witches," fortune- tellers," and "spiritists" only use their sharp faculties of observation and their retentive memory. And yet, there are still unintelligent persons who believe in lucky and unlucky days, lucky and unlucky numbers; they actually believe finding a horseshoe is good luck, breaking a mirror means seven years of bad luck, bringing a coffin with a dead person in and out the same way will bring much misfortune and even death to the participants, and so on, on and on. On the contrary, all is nonsense, to be laughed at.
+> As today practised, manifestations of superstitious beliefs are fraudulent. Those "magicians" merely perform sleight-of-hand tricks; the "witches," "fortune-tellers," and "spiritists" only use their sharp faculties of observation and their retentive memory. And yet, there are still unintelligent persons who believe in lucky and unlucky days, lucky and unlucky numbers; they actually believe finding a horseshoe is good luck, breaking a mirror means seven years of bad luck, bringing a coffin with a dead person in and out the same way will bring much misfortune and even death to the participants, and so on, on and on. On the contrary, all is nonsense, to be laughed at.
 
 2. A charm is anything used with the belief that it has magic power to protect. Spells are words by the saying of which the superstitious believe evil can be averted, or good fortune obtained.
 
@@ -37,18 +37,18 @@ Above, are illustrated some of the most common forms of superstition. Sick peopl
 
 — A person sins by sacrilege when he mistreats sacred persons, places, or things. Sacrilege is a kind of blasphemy consisting of the violation or profanation of a person, place, or thing consecrated to God. For example, it is sacrilege incurring ex communication to lay violent hands upon a priest, a nun, or any other person consecrated to God. It is sacrilege to commit acts of impurity or of violence, like killing or fighting, in a church or consecrated graveyard to receive the sacraments unworthily, to steal sacred vessels or other Church property, to do damage in a church, to despise relics and holy pictures, mutilate images, etc.
 
-> Baltassar, King of Babylon, was guilty of sacrilege when he used the sacred vessels of the Temple of Jerusalem as drinking cups at a feast. His punishment, as announced by the handwriting on the wall, is well- known. In order to avoid possible disrespect to sacred images and holy pictures that are already too old to use, we should bum them.
+> Baltassar, King of Babylon, was guilty of sacrilege when he used the sacred vessels of the Temple of Jerusalem as drinking cups at a feast. His punishment, as announced by the handwriting on the wall, is well-known. In order to avoid possible disrespect to sacred images and holy pictures that are already too old to use, we should burn them.
 
 
 **When does a person sin by idolatry?**
 
 — A person sins by idolatry when he pays to a creature the supreme worship due to God alone as Creator and Preserver of all things.
 
-> Divine honour is to be paid to God alone. In the early days of Christianity, many Christians were put to death for refusing to bum incense before Idols. The old Egyptians, and many pagans today, worship the sun, fire, or animals like the crocodile. God punished the Israelites for their idolatry.
+> Divine honour is to be paid to God alone. In the early days of Christianity, many Christians were put to death for refusing to burn incense before Idols. The old Egyptians, and many pagans today, worship the sun, fire, or animals like the crocodile. God punished the Israelites for their idolatry.
 
 One who knows the Catholic Church to be the True Church, yet refuses to join and obey it, is guilty of resisting the known Christian truth, a form of idolatry, since by it one stubbornly denies due worship to God.
 
-> The Scribes and Pharisees knew well all the prophecies concerning the Messi as. Jesus Christ proved Himself the promised Messi as is by wonderful miracles, after announcing Himself as the Son of God. But their pride was a barrier to their humble acknowledgement of Jesus; they calumniated and persecuted Him to the limit. They were guilty of resisting the known Christian truth. Freemasons, especially those who were born and bred Catholics, may be guilty of this sin if they will not permit a priest to approach them on their deathbed; "They stop their ears, not to hear, and make their heart as the adamant stone" (Zach. 7: 11).
+> The Scribes and Pharisees knew well all the prophecies concerning the Messias. Jesus Christ proved Himself the promised Messias is by wonderful miracles, after announcing Himself as the Son of God. But their pride was a barrier to their humble acknowledgement of Jesus; they calumniated and persecuted Him to the limit. They were guilty of resisting the known Christian truth. Freemasons, especially those who were born and bred Catholics, may be guilty of this sin if they will not permit a priest to approach them on their deathbed; "They stop their ears, not to hear, and make their heart as the adamant stone" (Zach. 7: 11).
 
 
 **When does a person sin by simony?**

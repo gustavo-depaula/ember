@@ -18,7 +18,7 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **What do we mean when we say that God is all-good?**
 
-— When we say that God is all- good, we mean that He is infinitely lovable in Himself, and that from His fatherly love every good comes to us. 1. God is Himself love. Love is part of His nature. Compared to God's infinite goodness, the goodness of man is nothing, only the shadow of a shadow.
+— When we say that God is all-good, we mean that He is infinitely lovable in Himself, and that from His fatherly love every good comes to us. 1. God is Himself love. Love is part of His nature. Compared to God's infinite goodness, the goodness of man is nothing, only the shadow of a shadow.
 
 > Men, creatures of God, are good because God made them to His image and likeness. "Oh, taste and see that the Lord is sweet" (Ps. 33: 9).
 
@@ -66,11 +66,11 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **Is God all-wise, all-holy, all-merciful, and all-just?**
 
-— Yes, God is all-wise, all-holy, all- merciful, and all-just. 1. God is all-wise. The more we learn of the wonders of the universe, the more we are amazed by the infinite wisdom of God, by His almighty power.
+— Yes, God is all-wise, all-holy, all-merciful, and all-just. 1. God is all-wise. The more we learn of the wonders of the universe, the more we are amazed by the infinite wisdom of God, by His almighty power.
 
 > His knowledge is infinite. He knows how to direct all things to the highest ends, and by the most fitting means.
 
-2. God is infinitely holy in Himself. He loves good and hates evil. Therefore He is also all- just. He will punish the wicked and reward the good. "Be ye holy, because I the Lord your God am holy" (Lev. 19: 2).
+2. God is infinitely holy in Himself. He loves good and hates evil. Therefore He is also all-just. He will punish the wicked and reward the good. "Be ye holy, because I the Lord your God am holy" (Lev. 19: 2).
 
 > Partial justice is done in this life, for often the good are happy, and the wicked are tormented by their conscience. But complete justice will not be accomplished till the next life.
 

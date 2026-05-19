@@ -22,7 +22,7 @@ Our Lord spent the three years of His public life teaching, healing the sick, wo
 
 **How long did Christ's public life last?**
 
-— Christ's public life lasted about three years, during which He went about preaching, teaching, and doing good. 1. Upon His return from His forty-day fast in the desert, Jesus called His first disciples. In a few days, He performed His first miracle, changing water into wine at a marriage-feast in Can a, at the request of His Mother, although, as He told her, His time had not yet come.
+— Christ's public life lasted about three years, during which He went about preaching, teaching, and doing good. 1. Upon His return from His forty-day fast in the desert, Jesus called His first disciples. In a few days, He performed His first miracle, changing water into wine at a marriage-feast in Cana, at the request of His Mother, although, as He told her, His time had not yet come.
 
 > Among the outstanding works of Jesus during the first year of His active life were: He drove sellers out of the Temple, saying they made it a "den of thieves". He cured the ruler's son, Peter's mother-in-law, the paralytic at the pool, the daughter of Jairus. He calmed the tempest.
 

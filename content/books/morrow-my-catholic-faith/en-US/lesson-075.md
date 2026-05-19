@@ -53,7 +53,7 @@ TENTH ARTICLE OF THE APOSTLES' CREED
 
 3. A vice is easy to break off in the beginning, difficult to break when fully formed, but always capable of being overcome by a resolute will with God's grace.
 
-> Its is easy enough to uproot a very young tree. But when it has grown into a mighty tree, it becomes extremely difficult. The vice having been firmly formed, it becomes a necessity and is impossible to break without extraordinary grace. This impossibility often leads many vicious persons to despair and to final impenitence. But God can do all things. One therefore who has contracted a habit of sin must have recourse to God, who will strengthen him, so that he can conquer his vice, Dy patient acts of virtue and a constant exertion of the will.
+> Its is easy enough to uproot a very young tree. But when it has grown into a mighty tree, it becomes extremely difficult. The vice having been firmly formed, it becomes a necessity and is impossible to break without extraordinary grace. This impossibility often leads many vicious persons to despair and to final impenitence. But God can do all things. One therefore who has contracted a habit of sin must have recourse to God, who will strengthen him, so that he can conquer his vice, by patient acts of virtue and a constant exertion of the will.
 
 
 **Can all sins be forgiven?**

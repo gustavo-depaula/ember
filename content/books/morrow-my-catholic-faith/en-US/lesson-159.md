@@ -28,7 +28,7 @@ Ordination to the priesthood takes place during the celebration of Mass, After t
 
 — Some of the requirements are: an excellent character, the prescribed age and learning, the intention of devoting his life to the sacred ministry, and a state of grace.
 
-> It is not necessary, in order to become a worthy priest, to receive a direct call from God; it is likely that of those who are now in the priesthood, not one had a visible apparition to in form him of his vocation to the priesthood. So long as you feel a spiritual attraction to the life of a priest, if you admire heroic priests and saints, then that is enough of a call, if joined with the other qualifications for entering the priesthood.
+> It is not necessary, in order to become a worthy priest, to receive a direct call from God; it is likely that of those who are now in the priesthood, not one had a visible apparition to inform him of his vocation to the priesthood. So long as you feel a spiritual attraction to the life of a priest, if you admire heroic priests and saints, then that is enough of a call, if joined with the other qualifications for entering the priesthood.
 
 1. A man must be of excellent character. This implies good will and virtuous conduct, as well as good sense.
 

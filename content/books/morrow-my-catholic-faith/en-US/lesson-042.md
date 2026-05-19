@@ -11,7 +11,7 @@ In the picture, the Holy Ghost is represented by a dove. It was in that form tha
 
 > The gifts are infused in our souls with sanctifying grace. With God the Holy Ghost come sanctifying grace, and inseparably, His gifts.
 
-1. Wisdom is that gift by which we recognize the emptiness of earthly things. By it we come to regard God and spiritual things as of the highest good. Without the gift of wisdom we are in different to spiritual matters, avoiding all mortification.
+1. Wisdom is that gift by which we recognize the emptiness of earthly things. By it we come to regard God and spiritual things as of the highest good. Without the gift of wisdom we are indifferent to spiritual matters, avoiding all mortification.
 
 > The best example of the effects of the gifts of the Holy Ghost are the Apostles, who after receiving the Holy Ghost became penetrated with His graces.
 
@@ -21,7 +21,7 @@ In the picture, the Holy Ghost is represented by a dove. It was in that form tha
 
 3. The gift of counsel helps us to discover the will of God under difficult circumstances.
 
-> Before they received the Holy Ghost, the Apostles were in constant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or where with you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12: 11-12).
+> Before they received the Holy Ghost, the Apostles were inconstant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or where with you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12: 11-12).
 
 4. Fortitude is the gift by which we are strengthened under trials, to do God's will.
 

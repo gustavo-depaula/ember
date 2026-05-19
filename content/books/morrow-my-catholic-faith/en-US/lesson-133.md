@@ -30,7 +30,7 @@ Holy Mass may be offered to God with a fourfold intention: by way of adoration, 
 
 > The sacrifice on the cross, the passion and death of Christ — is the goldmine of graces; Holy Mass is the machinery that takes the gold out for us. At Mass, a torrent of graces flows from the altar of God to enrich men. God makes use of other means of grace, such as prayer; but in no other means are graces applied to us so generously.
 
-There are different kinds of Masses: (a) low Mass, read or recited by the priest; (b) high Mass, sung by priest and choir; and (c) solemn high Mass, with deacon and subdeacon assisting the celebrant. These are not really different; they differ only in the elaborateness of the ceremonies used. A pontifical Mass is a high Mass said by a bishop. A bishop puts on his vestments and takes them of fat the altar, unlike the priest, who vests himself in the sacristy. Above is a pontifical Mass.
+There are different kinds of Masses: (a) low Mass, read or recited by the priest; (b) high Mass, sung by priest and choir; and (c) solemn high Mass, with deacon and subdeacon assisting the celebrant. These are not really different; they differ only in the elaborateness of the ceremonies used. A pontifical Mass is a high Mass said by a bishop. A bishop puts on his vestments and takes them off at the altar, unlike the priest, who vests himself in the sacristy. Above is a pontifical Mass.
 
 1. At Holy Mass we particularly obtain: (a) Grace to repent of mortal sin.
 

@@ -2,14 +2,14 @@
 
 ![](../images/lesson-079.webp)
 
-We should be generous in helping the poor souls in purgatory, who long for God. The best thing we can do for them is to hove Masses offered for them. The Church puts no limit to the time during which we may pray or offer Masses for the suffering soul in purgatory. If we cannot have a Mass said, we should at least hear Masses for our dear departed. If God so willed, a single Mass could release all the souls in purgatory. We should offer Masses especially on All Souls' Day and on the anniversaries of death of our relatives and friends.
+We should be generous in helping the poor souls in purgatory, who long for God. The best thing we can do for them is to have Masses offered for them. The Church puts no limit to the time during which we may pray or offer Masses for the suffering soul in purgatory. If we cannot have a Mass said, we should at least hear Masses for our dear departed. If God so willed, a single Mass could release all the souls in purgatory. We should offer Masses especially on All Souls' Day and on the anniversaries of death of our relatives and friends.
 
 
 **What pains do the souls in purgatory suffer?**
 
 — The souls in purgatory suffer from a great longing to be united to God, and from other great pains. 1. Their chief pain is the deprivation of the Beatific Vision, the vision of God in the glory of heaven. This temporary deprivation is a most severe punishment, because the poor souls already have a full knowledge of what they are missing.
 
-> "As the hart pant eth after the fountains of water, so my soul pant eth after thee, O God! my soul hath thirsted after the strong living God; when shall I come and appear before the face of God?" (Ps. 41: 2, 3).
+> "As the hart panteth after the fountains of water, so my soul panteth after thee, O God! my soul hath thirsted after the strong living God; when shall I come and appear before the face of God?" (Ps. 41: 2, 3).
 
 2. The general tradition of the Church is that they also suffer acutely in other ways.
 

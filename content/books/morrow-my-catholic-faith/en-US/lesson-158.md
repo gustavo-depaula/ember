@@ -45,6 +45,6 @@
 
 > "But the just man, if he be prevented with death, shall be in rest" (Wis. 4: 7). As Our Lord assures us: "I am the resurrection and the life; he who believes in me, even if he die, shall live; and whoever lives and believes in me, shall never die" (John 11: 25-26).
 
-2. To the bereaved, God in His infinite mercy extends, through our Mother Church, the consoling assurance of Purgatory. This knowledge bridges the chasm yawning between us and our dear departed; it makes us feel that death has not cut the bonds of love uniting us with them. Instead of desolation for our loss, we find decrease for sorrow, and a practical expression of our affection in prayers and good works offered to God in behalf of our beloved dead, who may still be in purgatory.
+2. To the bereaved, God in His infinite mercy extends, through our Mother Church, the consoling assurance of Purgatory. This knowledge bridges the chasm yawning between us and our dear departed; it makes us feel that death has not cut the bonds of love uniting us with them. Instead of desolation for our loss, we find decrease of sorrow, and a practical expression of our affection in prayers and good works offered to God in behalf of our beloved dead, who may still be in purgatory.
 
 > This is one reason for the necessity of understanding thoroughly the doctrine of purgatory (see pages 156- 159). As St. Paul said, "We would not, brethren, have you ignorant concerning those who are asleep, lest you should grieve, even as others who have no hope" (1 Thess. 4: 13).

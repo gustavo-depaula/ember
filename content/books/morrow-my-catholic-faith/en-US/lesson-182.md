@@ -51,7 +51,7 @@ To make the sign of the cross (1) join the hands in preparation, putting yoursel
 
 — The prayers that every Catholic should know by heart are: the Our Father, the Hail Mary, the Apostles' Creed, the *Confiteor*, the Glory be to the Father, and the acts of faith, hope, charity, and contrition.
 
-> In addition, every Catholic should know the Angelus, the Hail Holy Queen, grace before and after meals; a prayer to the guardian angel, one to St. Joseph, and Our Lady's *Mem or are*.
+> In addition, every Catholic should know the Angelus, the Hail Holy Queen, grace before and after meals; a prayer to the guardian angel, one to St. Joseph, and Our Lady's *Memorare*.
 
 1. The *Gloria Patri* (Glory be to the Father) is a prayer in honour of the Blessed Trinity. It is a prayer of praise, as well as an act of faith in the mystery of the Trinity.
 

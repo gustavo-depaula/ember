@@ -11,7 +11,7 @@ The Church cannot teach error, because it was founded by Christ, God Himself. He
 
 > Christ promised: "All power in heaven and on earth has been given to me. Go, therefore, and teach all nations ... teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world" (Matt. 28:20). If Christ is with the Church all days, it cannot err in teaching; it cannot lead men away from God.
 
-1. "Infallibility" is often distorted by enemies of the Church to mean "impec- cability", and therefore derided. Infallibility is freedom from error; impeccability is freedom from sin. In an institution established by God for the salvation of men, error in doctrine is unthinkable.
+1. "Infallibility" is often distorted by enemies of the Church to mean "impeccability", and therefore derided. Infallibility is freedom from error; impeccability is freedom from sin. In an institution established by God for the salvation of men, error in doctrine is unthinkable.
 
 > Every teacher in the Church, from the Pope down to the humblest priest, like all of the faithful, is capable of falling into sin. But in the Catholic Church, because of the promise of Infallibility, the Holy Ghost cannot permit the purity of a single doctrine to be stained.
 
@@ -44,7 +44,7 @@ b. Christ said: "If he refuse to hear even the Church, let him be to thee as the
 
 **Has the Church in fact proved itself infallible?**
 
-— It is a historical fact that the Catholic Church, from the twentieth century back to the first, has not once ceased to teach a doctrine on faith or morals pre- vio us ly held, and with the same interpret a- tion; the Church has proved itself infallible. 1. It is a historical fact that not one Pope, whatever he was in his private life, has ever taught error.
+— It is a historical fact that the Catholic Church, from the twentieth century back to the first, has not once ceased to teach a doctrine on faith or morals previously held, and with the same interpretation; the Church has proved itself infallible. 1. It is a historical fact that not one Pope, whatever he was in his private life, has ever taught error.
 
 > "The Scribes and the Pharisees have sat on the chair of Moses. All things, therefore, that they command you, observe and do. But do not act according to their works." By obeying the Pope, every Christian can live as Christ commanded, in any age.
 

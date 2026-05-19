@@ -62,9 +62,9 @@ These virtues render us capable of being good and doing good for the love and se
 
 **What is hope?**
 
-— Hope is the virtue by which we firmly trust that God, Who is all- powerful and faithful to His promises, will in His mercy give us eternal happiness and the means to obtain it. 1. God promised to give man eternal life, and the means to obtain it. In this promise is our hope.
+— Hope is the virtue by which we firmly trust that God, Who is all-powerful and faithful to His promises, will in His mercy give us eternal happiness and the means to obtain it. 1. God promised to give man eternal life, and the means to obtain it. In this promise is our hope.
 
-> "He that put te th his trust in me shall inherit the land, and shall possess my holy mount" (Is. 57: 13).
+> "He that putteth his trust in me shall inherit the land, and shall possess my holy mount" (Is. 57: 13).
 
 2. Hope is necessary for salvation. Our hope must be firmly founded in God, Who promised to give us the means for salvation.
 

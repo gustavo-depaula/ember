@@ -21,7 +21,7 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 4. The priest then blesses the ring a symbol of faithfulness, and sprinkles it with holy water. He gives it to the groom; who puts it on the third finger of the bride's left hand, meanwhile saying: "With this ring I thee wed, and I plight unto thee my troth."
 
-> The priest recites some vers i cles, and the Our Father in Latin, the couple joining in the latter prayer in their own language. Finally is said a prayer asking God's protection on those now joined in the holy bonds of Matrimony. Then, while the couple and witnesses remain in the sanctuary, the Nuptial Mass is said.
+> The priest recites some versicles, and the Our Father in Latin, the couple joining in the latter prayer in their own language. Finally is said a prayer asking God's protection on those now joined in the holy bonds of Matrimony. Then, while the couple and witnesses remain in the sanctuary, the Nuptial Mass is said.
 
 
 **What is a Nuptial Mass?**
@@ -36,7 +36,7 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 3. The Nuptial Mass is filled with beautiful excerpts from the Bible, setting forth the sanctity and dignity of the union which the man and woman have contracted. Throughout, the blessing of God is invoked.
 
-> The Gospel of the Mass is from St. Matthew: "What God hath joined together let no man put as under." The Communion is from Psalm 127: "Behold, thus shall every man be blessed who fe are th the Lord; and mayest thou see thy children's children: peace upon Israel."
+> The Gospel of the Mass is from St. Matthew: "What God hath joined together let no man put as under." The Communion is from Psalm 127: "Behold, thus shall every man be blessed who feareth the Lord; and mayest thou see thy children's children: peace upon Israel."
 
 4. The Church authorizes the nuptial ceremony apart from the Nuptial Mass; but it urges all Catholics to be united in marriage with the graces of that Mass, with its beautiful liturgy.
 

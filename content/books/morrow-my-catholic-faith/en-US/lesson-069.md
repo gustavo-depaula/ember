@@ -2,7 +2,7 @@
 
 ![](../images/lesson-069.webp)
 
-The Catholic Church will endure to the end of time, for it is founded on a rock. The powers of evil will beat in vain against it. They will break themselves and perish, but the Church will remain, in defect i ble. The testimony of almost two thousand years proves the perpetuity of the Church. Nothing that malice and envy could invent; nothing that the world, the flesh; and the devil could do have been left untried in the past 1900 years. Still the Church is with us, exactly as Christ founded it, and stronger than ever.
+The Catholic Church will endure to the end of time, for it is founded on a rock. The powers of evil will beat in vain against it. They will break themselves and perish, but the Church will remain, indefectible. The testimony of almost two thousand years proves the perpetuity of the Church. Nothing that malice and envy could invent; nothing that the world, the flesh; and the devil could do have been left untried in the past 1900 years. Still the Church is with us, exactly as Christ founded it, and stronger than ever.
 
 
 **What is meant by the indefectibility of the Catholic Church?**
@@ -27,7 +27,7 @@ The Catholic Church will endure to the end of time, for it is founded on a rock.
 
 > The Apostles instructed these successors to ordain in turn other bishops and priests. All these acts were to assure the perpetuity of the Church.
 
-5. Christ intended the Church to remain as He founded it, to preserve the whole of what He taught, and the shining marks which He gave it in the beginning. If the Church lost any of the qualities that God gave it, it could not be said to be in defect i ble, because it would not be the same institution. Indefectibility implies un change ability.
+5. Christ intended the Church to remain as He founded it, to preserve the whole of what He taught, and the shining marks which He gave it in the beginning. If the Church lost any of the qualities that God gave it, it could not be said to be indefectible, because it would not be the same institution. Indefectibility implies unchangeability.
 
 > Our Lord promised to abide by the Church, to assist it, and to send the Holy Ghost to remain in it. God does not change: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 20).
 
@@ -36,9 +36,9 @@ The Catholic Church will endure to the end of time, for it is founded on a rock.
 > St. Anselm said that the bark of the Church may be swept by the waves, but it can never sink, because Christ is there. When the Church is in greatest need, Christ comes to its help by miracles, or by raising up saintly men to strengthen and purify it. It is the bark of Peter; when the storm threatens to sink it, the Lord awakens from His sleep, and commands the winds and the waves into calm: "Peace; be still!"
 
 
-**Has the Catholic Church actually proved itself in defect i ble?**
+**Has the Catholic Church actually proved itself indefectible?**
 
-— The Catholic Church has, throughout its long history, proved itself in defect i ble, against all kinds of attack from within and without, against every persecution and every heresy and schism.
+— The Catholic Church has, throughout its long history, proved itself indefectible, against all kinds of attack from within and without, against every persecution and every heresy and schism.
 
 > As its Founder was persecuted, so the Catholic Church has been and ever will be persecuted. "You will be brought before governors and kings for my sake" (Matt. 10: 18). "And you will be hated by all for my name's sake" (Matt. 10: 22). "No disciple is above his teacher, nor is the servant above his master" (Matt. 10: 24). "They will deliver you up to councils, and you will be beaten in the synagogues" (Mark 13: 9). "They will arrest you, and persecute you" (Luke 21: 12).
 
@@ -52,9 +52,9 @@ The Catholic Church will endure to the end of time, for it is founded on a rock.
 
 3. For nine centuries, Mohammedanism threatened Christian civilization. It was the Church under the Popes that urged the nations to league against Mohammedanism.
 
-> In the sixteenth century, the Mohammed an menace was removed.
+> In the sixteenth century, the Mohammedan menace was removed.
 
-4. Not only non-Christians, but its own rebellious children have persecuted the Church. From the beginning, heresy has attacked it from within. And still the Church lives greater than ever, changeless, in defect i ble.
+4. Not only non-Christians, but its own rebellious children have persecuted the Church. From the beginning, heresy has attacked it from within. And still the Church lives greater than ever, changeless, indefectible.
 
 > The long history of the Catholic Church is attended by schism and heresy, but each attack has only strengthened it. It has continued to live and spread in spite of everything and everybody.
 

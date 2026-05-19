@@ -34,7 +34,7 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 2. We should also unite ourselves with the rest of those who hear the Mass, and with all Christians throughout the world, for whom Christ died as well as for us. In the early days of the Church, Christians heard Mass in congregation, answering to the priest parts said now by the server.
 
-> A similar practice is now used, in the *Missa rec it at a* where in the congregation speak out loud the responses at Mass. When younger people hear Mass, it is well to have a little singing, too. Sacred songs are in themselves prayer. Our Lord and His Apostles sang a hymn at the Last Supper.
+> A similar practice is now used, in the *Missa recitata* wherein the congregation speak out loud the responses at Mass. When younger people hear Mass, it is well to have a little singing, too. Sacred songs are in themselves prayer. Our Lord and His Apostles sang a hymn at the Last Supper.
 
 3. It is a great honour and privilege to be allowed to serve Mass, This privilege is reserved to boys and men. Girls and women may answer the Mass prayers, like acolytes, but they are not permitted to enter the sanctuary. Every boy should avail himself of the opportunity when it offers itself. He mingles with the angels in the sanctuary; he obtains special graces for his service. Parents should see to it that their boys join the Altar Boy Society of the parish.
 

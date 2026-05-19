@@ -7,7 +7,7 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 **What is pride?**
 
-— Pride is an inordinate love of one's own excellence, an excessive self- esteem.
+— Pride is an inordinate love of one's own excellence, an excessive self-esteem.
 
 > Our Lord is the best example of meekness and patience. Did He use His almighty power to punish those who did Him evil? For hours He hung meekly on the cross, until He died. Every day, God is patient with sinners, giving them time to change their ways. God, the Supreme One, is not proud.
 
@@ -38,7 +38,7 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 > He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one set te th even his own soul to sale" (Ecclus. 10: 10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
 
-2. From covetousness arise hard- heartedness towards the poor, lying, cheating, usury, defrauding labourers of wages, and other sins.
+2. From covetousness arise hard-heartedness towards the poor, lying, cheating, usury, defrauding labourers of wages, and other sins.
 
 > "Those who seek to become rich fall into temptation and a snare ... For covetousness is the root of all evils" (1 Tim. 6: 9-10). It destroys faith, for the avaricious are so absorbed in money-getting that they have no time for their spiritual welfare.
 

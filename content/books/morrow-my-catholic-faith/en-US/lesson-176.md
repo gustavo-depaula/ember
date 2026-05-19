@@ -17,7 +17,7 @@
 
 4. Some communities follow the manner of life of religious, living together under the government of superiors and with approved constitutions. But they are not bound by the usual three vows of religious, and are therefore not properly classified as religious institutions, nor are their members properly called "religious".
 
-> Among the most well-known of such societies we have the Lazar is ts (St. Vincent de Paul Missionaries), Maryknoll Fathers, Oratorians of St. Philip Neri, and Fathers of the Precious Blood.
+> Among the most well-known of such societies we have the Lazarists (St. Vincent de Paul Missionaries), Maryknoll Fathers, Oratorians of St. Philip Neri, and Fathers of the Precious Blood.
 
 
 **In what kinds of work are the religious communities engaged?**
@@ -32,7 +32,7 @@
 
 3. The religious communities of active life are dedicated to teaching, hospital work, mission work, etc. Active life does not refer to mere bodily activity, but to external activities carried on outside the religious house.
 
-> Thus Cistercians who farm their land do not pursue an active life. Most of the religious institutes in the United States are engaged in the.active life. Among them we may mention; Jesuits, Franciscan Tert i aries, Lazar is ts, Passionists, Redemptorists, Salesians, and the Christian Brothers.
+> Thus Cistercians who farm their land do not pursue an active life. Most of the religious institutes in the United States are engaged in the active life. Among them we may mention: Jesuits, Franciscan Tertiaries, Lazarists, Passionists, Redemptorists, Salesians, and the Christian Brothers.
 
 
 **Which religious community should one choose who wishes to dedicate his life entirely to God?**

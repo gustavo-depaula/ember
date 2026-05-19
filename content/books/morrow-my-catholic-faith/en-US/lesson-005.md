@@ -39,7 +39,7 @@ Many people make themselves miserable worrying over the future. They should have
 
 2. God never sends anyone suffering beyond his strength. To gain merit, we must be patient and resigned under suffering. Let us imitate Our Lord in the Garden, whose prayer was, "Father, not my will, but thine, be done!" Our Lord taught us to say, in the Our Father, "Thy will be done on earth as it is in heaven."
 
-> He who resigns himselfjoyfully to the will of God, in sickness, death, poverty, persecution, and other misfortunes, obtains true peace of heart; he will be blessed even on this earth.
+> He who resigns himself joyfully to the will of God, in sickness, death, poverty, persecution, and other misfortunes, obtains true peace of heart; he will be blessed even on this earth.
 
 3. God often sends physical evil to sinners in order to bring them back into the right way. It serves as a warning to them.
 
@@ -58,7 +58,7 @@ Many people make themselves miserable worrying over the future. They should have
 
 2. We must therefore resign ourselves lovingly to the will of God. Thus we shall have peace of mind even in the midst of the greatest trials. Suffering should remind us that this is not our true home, and that we are citizens of heaven.
 
-> "The Lord rule th me, and I shall want nothing" (Ps. 22: 1). "In thee, O Lord, have I hoped, because thou hast saved my soul" (Ps. 30: 1, 8).
+> "The Lord ruleth me, and I shall want nothing" (Ps. 22: 1). "In thee, O Lord, have I hoped, because thou hast saved my soul" (Ps. 30: 1, 8).
 
 
 **Is God responsible for sin?**

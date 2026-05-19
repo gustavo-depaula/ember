@@ -28,7 +28,7 @@ Our Lord said; "Everyone therefore who hears these my words and acts upon them, 
 
 > The cause of the schism was not doctrinal, but rather political and material; jealousy between the East and the West. It has resulted in the separation from Rome of 145 million people with valid priesthood and sacraments. All over the world, there are a number of schismatical churches, among them the Greek Orthodox, and the Russian Church.
 
-a. After minor schisms and mis under- standings between East and West in 1054, there was a final break by Cerularius, patriarch of Constantinople, continuing today.
+a. After minor schisms and misunderstandings between East and West in 1054, there was a final break by Cerularius, patriarch of Constantinople, continuing today.
 
 > Today the Orthodox Eastern Church remains in schism, but does not spread. It is a withered branch, having cut itself off from the parent tree.
 

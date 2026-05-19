@@ -24,7 +24,7 @@ Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or no
 
 **Is one subordinate to the other?**
 
-— There is an independence but indirect sub or dina- tion. Both the Church and State are in de pen- dent of one another in their own domain, each retaining its competency in its own field. In a Christian state, whenever their interests overlap – “mixed matters” – there is an indirect subordination of the State to the Church. The Church alone has Divinely appointed power over spiritual things, while at the same time it respects the rights of the State.
+— There is an independence but indirect subordination. Both the Church and State are independent of one another in their own domain, each retaining its competency in its own field. In a Christian state, whenever their interests overlap – “mixed matters” – there is an indirect subordination of the State to the Church. The Church alone has Divinely appointed power over spiritual things, while at the same time it respects the rights of the State.
 
 > In a non-Christian State, this indirect subordination cannot be realized until the State recognizes the True Church. To this end the Church obeys its Divine mandate “to teach all nations”.
 

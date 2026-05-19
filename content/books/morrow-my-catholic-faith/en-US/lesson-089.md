@@ -16,7 +16,7 @@
 
 — The chief corporal works of mercy are seven: 1. To feed the hungry. — We must never turn away anyone who is hungry. Those in authority should prevent unemployment. Giving work is the best means for removing the necessity of feeding the unemployed.
 
-> St. Louis of France provided daily food to the poor, and often served them himself. Many charitable people today, especially the religious institutions, feed the hungry. Lay people can help out best by giving work to all they can afford to help; work is better for the able- bodied than direct alms-giving.
+> St. Louis of France provided daily food to the poor, and often served them himself. Many charitable people today, especially the religious institutions, feed the hungry. Lay people can help out best by giving work to all they can afford to help; work is better for the able-bodied than direct alms-giving.
 
 2. To give drink to the thirsty.
 

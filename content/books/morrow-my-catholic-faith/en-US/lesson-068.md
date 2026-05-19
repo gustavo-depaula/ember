@@ -15,7 +15,7 @@ Since the time of Christ, from the first council of the Apostles in Jerusalem in
 
 > Another example is the definition of the Holy Father's infallibility, made in 1870 by the Vatican Council. The dogma was true from the very beginning, and had been universally held. But as in recent times, many objections were being made against it, the Bishops in the Vatican Council thought it best, in order to make clear the stand of the Church, to make an infallible definition.
 
-2. The Church makes infallible pro- nouncements on doctrines of faith and morals, on their interpretation, on the Bible and Tradition, and the interpretation of any part or parts of these. The dogma of the Immaculate Conception of the Blessed Virgin was an interpretation of a longstanding Tradition in the Church.
+2. The Church makes infallible pronouncements on doctrines of faith and morals, on their interpretation, on the Bible and Tradition, and the interpretation of any part or parts of these. The dogma of the Immaculate Conception of the Blessed Virgin was an interpretation of a longstanding Tradition in the Church.
 
 > The Church also pronounces on the truth or falsity of opinions, teachings, customs, etc., with relation to fundamental doctrines. Another subject on which the Church makes infallible declarations is in the canonization of Saints. All whom the Church has raised to the glory of the altar by a solemn canonization are undoubtedly now in heaven, enjoying eternal bliss in the presence of God.
 

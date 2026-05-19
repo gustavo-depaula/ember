@@ -45,7 +45,7 @@
 
 > The different classes among Catholics arise from causes apart from the Church, such as racial, cultural, and social causes. But anywhere and everywhere one can be a good Catholic.
 
-3. Good Catholics believe alike in this: that they are members of a divinely- established Church, the well-being of which it is their duty to promote, by striving to attain the perfection indicated by Christ.
+3. Good Catholics believe alike in this: that they are members of a divinely-established Church, the well-being of which it is their duty to promote, by striving to attain the perfection indicated by Christ.
 
 > The Church presents us with the ideal, and provides the means to reach that ideal, inviting and urging us, feeding and shepherding the flock. But the Church does not guarantee salvation for all the faithful; because among its doctrines, the freedom of the will is as fundamental as the divine authority of the Church.
 
@@ -66,7 +66,7 @@
 
 3. According to his means, he contributes towards the support of the Church.
 
-> This is a serious obligation which too many Catholics neglect. The Church needs support as much as the civil government. It cannot subsist on air. Religion makes no progress where Catholics are so in different as to begrudge their material support.
+> This is a serious obligation which too many Catholics neglect. The Church needs support as much as the civil government. It cannot subsist on air. Religion makes no progress where Catholics are so indifferent as to begrudge their material support.
 
 4. A good Catholic has before him a wide scope of activity if he wishes to participate in the work of the Church; there are no barriers between man and God.
 

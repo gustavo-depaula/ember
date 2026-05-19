@@ -28,7 +28,7 @@ It is a sin for parents to discourage, oppose, or prevent their child's lawful d
 
 2. One can better judge the character and virtues of a future spouse at church and in the home than on the floor in ball-rooms. The advice, "Choose your partner at the communion rail" is very sound.
 
-> An accomplished young lady was engaged to marry a prominent young man. The day before the wedding, a party was given at the house of the young lady. The conversation turned towards religion; the young man spoke with open contempt of all beliefs, boasting that he was an "open-minded" person of the 20th century and free from all "medieval notions" and "priest- invented" ceremonials. The young lady, shocked beyond measure, gently protested, begging him not to speak in such a manner. But he laughed at her, saying that he meant every word he said and more, and that she would soon enough unlearn her "religious non-sense". The young lady then said, "I cannot marry a man who does not respect God and religion, for he surely will not respect his wife." Thus the engagement was broken, and a worthy young lady freed from a life that would have been an agony and a danger for her.
+> An accomplished young lady was engaged to marry a prominent young man. The day before the wedding, a party was given at the house of the young lady. The conversation turned towards religion; the young man spoke with open contempt of all beliefs, boasting that he was an "open-minded" person of the 20th century and free from all "medieval notions" and "priest-invented" ceremonials. The young lady, shocked beyond measure, gently protested, begging him not to speak in such a manner. But he laughed at her, saying that he meant every word he said and more, and that she would soon enough unlearn her "religious non-sense". The young lady then said, "I cannot marry a man who does not respect God and religion, for he surely will not respect his wife." Thus the engagement was broken, and a worthy young lady freed from a life that would have been an agony and a danger for her.
 
 3. It is wrong and foolish to marry for beauty, riches, or honours alone. We should rather seek, and chiefly seek, the quality of the person's soul.
 
@@ -49,7 +49,7 @@ It is a sin for parents to discourage, oppose, or prevent their child's lawful d
 
 > Although such formalities of betrothal are rare in our days, and there is no strict necessity for them, they should be encouraged, especially in cases where hasty alliances are feared.
 
-3. During both the courtship and the engagement, the couple should respect each other's and avoid undue familiar i ties; this is a pledge of a chaste and happy married life. The best preservative of virtue is God Himself; and so those preparing or marriage should frequent the sacraments of Penance and Holy Eucharist.
+3. During both the courtship and the engagement, the couple should respect each other's and avoid undue familiarities; this is a pledge of a chaste and happy married life. The best preservative of virtue is God Himself; and so those preparing for marriage should frequent the sacraments of Penance and Holy Eucharist.
 
 > Everything between an engaged couple should be above board. They should reveal to each other frankly everything pertaining to their financial status, social relations, and matters related to health. In this way, they prevent future quarrels and misery.
 

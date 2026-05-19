@@ -32,7 +32,7 @@ St. Augustine in his youth led a bad life. The prayers of his holy mother, St. M
 
 — Our purpose of amendment should be firm, efficacious, and universal. 1. Our purpose is firm when we determine to avoid sin at any cost. Then we do not hesitate back and forth, but with decision cut ourselves off from the bonds which formerly bound us to sin and its occasions.
 
-> In one of his military expeditions, Alexander the Great, the conqueror of many lands, arrived in Gord i um, Phrygia. In a certain fortress, there was what people called the "Gordian knot", so well tied that many had tried to untie it but all miserably failed. It was believed that whoever could untie the Gordian knot would be the conqueror of Asia. When Alexander came, he did not waste time, but drew his sword and cut the knot apart.
+> In one of his military expeditions, Alexander the Great, the conqueror of many lands, arrived in Gordium, Phrygia. In a certain fortress, there was what people called the "Gordian knot", so well tied that many had tried to untie it but all miserably failed. It was believed that whoever could untie the Gordian knot would be the conqueror of Asia. When Alexander came, he did not waste time, but drew his sword and cut the knot apart.
 
 2. Our purpose is efficacious when we resolve to use all means to carry out our determination to amend, as by avoiding the occasions of sin, — persons, places, and things that ordinarily led us into sin in the past, and may do so again in the future. A good resolution is like a nail driven fast into the wall, but the resolutions of too many are like a nail badly placed, which falls out as soon as something is hung upon it.
 

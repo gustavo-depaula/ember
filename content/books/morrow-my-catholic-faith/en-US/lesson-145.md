@@ -45,7 +45,7 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 **How can we make a good examination of conscience?**
 
-— We can make a good examination of conscience by calling to mind the commandments of God and of the Church, and the particular duties of our state of life, and by asking ourselves how we may have sinned wath regard to them. 1. We should make as careful an examination as if we were on our deathbed, considering in what way we have sinned in thought, desire, word, deed, or omission. We must recall how often we have committed mortal sins.
+— We can make a good examination of conscience by calling to mind the commandments of God and of the Church, and the particular duties of our state of life, and by asking ourselves how we may have sinned with regard to them. 1. We should make as careful an examination as if we were on our deathbed, considering in what way we have sinned in thought, desire, word, deed, or omission. We must recall how often we have committed mortal sins.
 
 > "I will meditate on Thy commandments and I will consider Thy ways" (Ps. 118: 15).
 
@@ -68,7 +68,7 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 > We receive greater graces from confession the better we know ourselves, our sins, our weaknesses, and the greater is our contrition and the stronger our purpose of amendment. These important dispositions cannot be effected by a hasty examination.
 
-2. One who omits confessing a mortal sin through deliberate carelessness in exam in a- tion does not make a good confession.
+2. One who omits confessing a mortal sin through deliberate carelessness in examination does not make a good confession.
 
 > A good rule is to prepare for each confession as if it were to be the last we shall make in this life. The chief reason for our falling into the same sins time and again is our want of earnest preparation for confession, and the resulting lack of conviction of the need of amendment.
 

@@ -31,7 +31,7 @@ All three Persons are equal in every way, equal in power and glory. The attribut
 
 **Can we fully understand how the three divine Persons, though really distinct from one another, are one and the same God?**
 
-— We cannot fully understand how the three divine Persons, though really distinct from one another, are one and the same God, because this is a supernatural mystery. 1. A supernatural mystery is a truth which we cannot fully understand, but which we firmly believe because we have God's word for it. A supernatural mystery is above reason, but not contrary to it. No man can explain a mystery; neither can anyone know it unless it is revealed by God. "Great art thou, O Lord, in counsel, and in com pre- hens i ble in thought" (Jer. 32:19).
+— We cannot fully understand how the three divine Persons, though really distinct from one another, are one and the same God, because this is a supernatural mystery. 1. A supernatural mystery is a truth which we cannot fully understand, but which we firmly believe because we have God's word for it. A supernatural mystery is above reason, but not contrary to it. No man can explain a mystery; neither can anyone know it unless it is revealed by God. "Great art thou, O Lord, in counsel, and incomprehensible in thought" (Jer. 32:19).
 
 > It is not unreasonable to believe in a supernatural mystery. There are many natural mysteries around us that no one has yet been able to explain, yet we believe them: electricity, magnetism, force, and many of the processes of life.
 

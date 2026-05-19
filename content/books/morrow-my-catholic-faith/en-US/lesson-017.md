@@ -9,7 +9,7 @@ The Book of Genesis describes the creation of the first man and the first woman 
 
 — Man is a creature composed of body and soul, and made to the image and likeness of God.
 
-> Before the creation of man, God said, "Let us make man to our image and likeness; and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that move th upon the earth" (Gen. 1: 26).
+> Before the creation of man, God said, "Let us make man to our image and likeness; and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that moveth upon the earth" (Gen. 1: 26).
 
 1. God formed the body of man from the slime of the earth; but He breathed the soul into man's body. In this way the soul came direct from God, and indicates closer likeness to Him.
 

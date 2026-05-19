@@ -30,7 +30,7 @@
 
 > Since the primary purpose of marriage is to bring children into the world, any attempt to frustrate this purpose while making use of its means is intrinsically evil, against natural and divine law, and necessarily a grievous sin. This is why such procedures as birth control, abortion and sterilization are mortal sins and violations of the sacrament.
 
-2. Some parents are at great pains to a mass wealth to bequeath to their children, but pay no attention to their upbringing. The best legacy they can leave their children is the love of God.
+2. Some parents are at great pains to amass wealth to bequeath to their children, but pay no attention to their upbringing. The best legacy they can leave their children is the love of God.
 
 > The religious training of the child depends mostly on the mother. A mother who spends her time gossiping with her neighbours, going from one social function to another, or engrossing herself in useless amusements to the neglect of her children, has much to answer for before God. How happy good parents will be when they go before God's judgement seat and are able to say: "Those whom Thou hast given me I have guarded" (John 17: 12).
 
@@ -39,7 +39,7 @@
 
 — Artificial birth control is immoral, contrary to both natural and divine law. 1. Artificial birth control contravenes the primary purpose of marriage and prostitutes it for other ends.
 
-> The practice of birth control will, if carried out to its inevitable conclusion, some day, as a sarcastic writer comments, "give over the country to the animals." In many countries the birth rate is now in the negative. Nations will dissappear.
+> The practice of birth control will, if carried out to its inevitable conclusion, some day, as a sarcastic writer comments, "give over the country to the animals." In many countries the birth rate is now in the negative. Nations will disappear.
 
 2. God severely punishes even in this life those who practice "birth control." It results in sterility, vice, weakness of the will, etc., besides physical diseases.
 

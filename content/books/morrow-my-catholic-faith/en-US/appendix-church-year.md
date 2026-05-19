@@ -9,7 +9,7 @@
 
 December 8.
 
-> On this feast we honour the unique privilege by which the Blessed Virgin Mary was exempted from original sin. It is the first important feast of the ecclesiastical year. It is a holyday of obligation. It is also the patron al feast of the Philippines and the United States, that are especially consecrated to the Immaculate Conception of the Blessed Virgin Mary.
+> On this feast we honour the unique privilege by which the Blessed Virgin Mary was exempted from original sin. It is the first important feast of the ecclesiastical year. It is a holyday of obligation. It is also the patronal feast of the Philippines and the United States, that are especially consecrated to the Immaculate Conception of the Blessed Virgin Mary.
 
 
 **Christmas Day,**
@@ -46,7 +46,7 @@ The first Sunday after the Circumcision if it falls on any day between January 2
 
 , January 6.
 
-> This feast celebrates the manifestation that Jesus Christ the Messi as made to the nations of the world represented in the persons of the Magi. It also commemorates the Baptism of Our Lord by St. John the Baptist, and the first miracle at Can a, when Our Lord changed water into wine at the request of His Blessed Mother.
+> This feast celebrates the manifestation that Jesus Christ the Messias made to the nations of the world represented in the persons of the Magi. It also commemorates the Baptism of Our Lord by St. John the Baptist, and the first miracle at Cana, when Our Lord changed water into wine at the request of His Blessed Mother.
 
 
 **Feast of the Holy Family**
@@ -178,7 +178,7 @@ May 3.
 > This feast is consecrated to the Holy Eucharist. It was established in order "to celebrate most solemnly and with all pomp the institution of the Most Blessed Sacrament, since it is not possible to do so on Holy Thursday on account of the other Holy Week celebrations. On this day or on the following Sunday, a great procession with the Blessed Sacrament is held.
 
 
-**Feast of the Most Sacred of Jesus.**
+**Feast of the Most Sacred Heart of Jesus.**
 
 (Friday after the Octave of *Corpus Christi* ).
 
@@ -263,7 +263,7 @@ September 14.
 
 September 15.
 
-> This is the second of the feasts celebrated to honor the sorrows of Our Blessed Mother, the first least being on the Friday of Passion Week. The seven sorrows thus honoured are: Simeon's prophecy (Luke 2:15), the flight into Egypt, the three days' loss of the Child Jesus (Luke 2:42-46), the way to Calvary, the Crucifixion, the taking down of Our Lord's Body from the cross, and the burial of Our Blessed Lord.
+> This is the second of the feasts celebrated to honor the sorrows of Our Blessed Mother, the first feast being on the Friday of Passion Week. The seven sorrows thus honoured are: Simeon's prophecy (Luke 2:15), the flight into Egypt, the three days' loss of the Child Jesus (Luke 2:42-46), the way to Calvary, the Crucifixion, the taking down of Our Lord's Body from the cross, and the burial of Our Blessed Lord.
 
 
 **Feast of the Guardian Angels**

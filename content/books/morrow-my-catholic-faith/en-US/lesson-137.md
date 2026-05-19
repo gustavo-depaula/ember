@@ -3,11 +3,11 @@
 
 **What vestments does the priest use in the celebration of Holy Mass?**
 
-— The priest uses the a mice, alb, cincture, maniple, stole, and chasuble, in the celebration of Mass.
+— The priest uses the amice, alb, cincture, maniple, stole, and chasuble, in the celebration of Mass.
 
 > When the priest appears before God at the altar, he is clad in suitable vestments. God Himself gave directions about the vestments of the priests in the Old Testament (Exod. 28: 4). The chief vestments worn by Catholic priests have come down to us from the time of the Apostles. Symbolic significance have been attached to the different vestments. The prayers said by the priest as he puts on each piece of attire show the meaning attached to them by the Church.
 
-1. The a mice is a piece of white linen cloth which covers the priest's shoulders.
+1. The amice is a piece of white linen cloth which covers the priest's shoulders.
 
 > The vesting prayer is, "Place, O Lord, on my head the helmet of salvation, that I may overcome the assaults of the devil." When putting it on, the priest places it for a moment on his head, then lets it rest on his shoulders.
 
@@ -36,21 +36,21 @@
 
 **What vestments are used by the priest outside of Mass?**
 
-— Outside of Mass, the priest uses die cassock or soutane, the cope, the surplice, and the humeral veil. 1. The cassock or soutane is the principal vestment used by ecclesiastics.
+— Outside of Mass, the priest uses the cassock or soutane, the cope, the surplice, and the humeral veil. 1. The cassock or soutane is the principal vestment used by ecclesiastics.
 
 > It is a robe reaching down to the feet, and buttoned in front. For priests it is black, for bishops violet, for cardinals red, and for the Pope white. In some Catholic countries ecclesiastics go everywhere in their cassocks.
 
 2. The surplice is a short alb, used by the priest outside of Mass, when he preaches, joins a procession, etc.
 
-> At High Mass, the deacon wears a special vestment called dalmatic, and the subdeacon a tunic le.
+> At High Mass, the deacon wears a special vestment called dalmatic, and the subdeacon a tunicle.
 
-3. The cope is a mantle used for bene- diction, processions, and other occasions outside of Mass.
+3. The cope is a mantle used for benediction, processions, and other occasions outside of Mass.
 
 > When a priest dies, he is buried dressed in his cassock and surplice, and with the purple stole, the badge of his priesthood. In complete purple vestments, he lies in dignity.
 
 4. The humeral veil is the long silk cloth used by the priest when carrying the Blessed Sacrament and giving benediction.
 
-> Some of the vestments, such as the a mice, alb, surplice, and benediction veil, are always white. The stole for hearing confessions is always purple.
+> Some of the vestments, such as the amice, alb, surplice, and benediction veil, are always white. The stole for hearing confessions is always purple.
 
 
 **Why do Catholics spend a great deal of care and money on sacred vessels, vestments, and furnishings for the altar?**

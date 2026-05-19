@@ -45,19 +45,19 @@ Immediately after the Fall, God promised a Redeemer to Adam. He forgave man, alt
 
 > Men would know the Saviour by certain signs which God revealed through the Prophets.
 
-1. Of His advent the Prophets spoke: a. The Messi as was to be born in Bethlehem, when the Jews were no longer free.
+1. Of His advent the Prophets spoke: a. The Messias was to be born in Bethlehem, when the Jews were no longer free.
 
 > "And Thou, Bethlehem Ephrata, art a little one among the thousands of Juda: out of thee shall he come forth unto me that is to be the ruler in Israel: and his going forth is from the beginning, from the days of eternity" (Mich. 5: 2). "The sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations" (Gen. 49: 10)
 
-b. The Messi as was to be born of a virgin of the House of David.
+b. The Messias was to be born of a virgin of the House of David.
 
 > "Behold, a virgin shall conceive, and bear a Son, and his name shall be called Emmanuel" (Is. 7: 14)
 
-c. The Messi as would be preceded by a precursor who would preach in the desert.
+c. The Messias would be preceded by a precursor who would preach in the desert.
 
 > "The voice of one crying in the wilderness: Prepare ye the way of the Lord: make straight in the desert the paths of our God" (Is 40: 3).
 
-d. A new star was to announce the birth of the Messi as; He would be adored by kings from distant lands bringing Him gifts.
+d. A new star was to announce the birth of the Messias; He would be adored by kings from distant lands bringing Him gifts.
 
 > "A star shall rise out of Jacob, and a sceptre shall spring up from Israel" (Numb. 24: 17). "The kings of Tharsis and the islands shall offer presents: the kings of the Arabians and of Saba shall bring gifts" (Ps. 71: 10)
 
@@ -65,7 +65,7 @@ e. Many children would be put to death at the time of His birth.
 
 > "A voice was heard on high of lamentation, or mourning, and weeping, of Rachel (representing the Jews) weeping for her children, and refusing to be comforted, because they are not" (Jer. 31: 15).
 
-2. Of the person of the Messi as the Prophets spoke: He was to be the Son of God. He would work great miracles, and teach the people. He would he King of a new kingdom, which was not to be destroyed, and was to include all nations.
+2. Of the person of the Messias the Prophets spoke: He was to be the Son of God. He would work great miracles, and teach the people. He would be King of a new kingdom, which was not to be destroyed, and was to include all nations.
 
 > "The Lord hath said to me: Thou art my Son; this day have I begotten Thee" (Ps. 2: 7). "Then shall the eyes of the blind be opened, and the ears of the deaf shall be unstopped. Then shall the lame man leap as a hart, and the tongue of the dumb shall be free" (Is. 35: 5-6). "The God of heaven will set up a kingdom that shall never be destroyed ... and it shall consume all these kingdoms, and itself shall stand forever" (Dan. 2: 44).
 

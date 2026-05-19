@@ -32,7 +32,7 @@ God punishes the sin of impurity very severely even here on earth. For that , He
 
 > Adultery is a sin not only against chastity, but also against justice; because it is injustice towards the spouse of the married person. In the Old Law, the adulterer was punished with death. "For God will judge the immoral and adulterers" (Heb. 13: 4) . Married people should be most careful in avoiding even the appearance of unfaithfulness; when the spirit of jealousy enters, conjugal happiness goes out.
 
-2. Matrimony is a holy state, through which Almighty God intends the prop a- gation of the race. Actions in accordance with this purpose of matrimony are permitted to the married, but positively forbidden to the unmarried. Fornication is at all times a grave sin.
+2. Matrimony is a holy state, through which Almighty God intends the propagation of the race. Actions in accordance with this purpose of matrimony are permitted to the married, but positively forbidden to the unmarried. Fornication is at all times a grave sin.
 
 > By "the married" is meant those Catholics validly married in the Catholic Church. Catholics who marry before a justice of the peace or a non-Catholic minister, cannot live together as married people, because they are not married either in the eyes of the Church or before God. If those Catholics who are not married before a Catholic priest live together and have children, these are considered illegitimate, and are so registered at Baptism.
 
@@ -43,7 +43,7 @@ God punishes the sin of impurity very severely even here on earth. For that , He
 
 **What are the most common occasions of the sin against chastity?**
 
-— The most common occasions are: 1. Idleness. This is the parent of sin. Man is like the earth: if it is not planted to good seed, weeds grow on it fast. So a person is be set by all kinds of evil temptations unless he has some worthwhile occupation.
+— The most common occasions are: 1. Idleness. This is the parent of sin. Man is like the earth: if it is not planted to good seed, weeds grow on it fast. So a person is beset by all kinds of evil temptations unless he has some worthwhile occupation.
 
 > Thieves break into a house where everybody is paralysed by idleness. When iron is not used, it begins to rust. And so man, who was made to be active, stagnates and becomes foul when nothing occupies him all day.
 

@@ -34,7 +34,7 @@ The Church has blessings for persons, places, and things. A mother after childbi
 
 > Nevertheless such cases still occur; should we hear of any, let us notify the priest. Our Lord Himself commanded many devils to depart from possessed persons of His time.
 
-3. Blessed objects of devotion. — Of these we may make mention of: holy oils, holy water, candles, ashes, palms, crosses and crucifixes, scapulars, medals, Agnus De is, rosaries, images, holy pictures, bells, and blessed dresses.
+3. Blessed objects of devotion. — Of these we may make mention of: holy oils, holy water, candles, ashes, palms, crosses and crucifixes, scapulars, medals, Agnus Deis, rosaries, images, holy pictures, bells, and blessed dresses.
 
 > All objects used in divine service, such as sacred vessels, linens, vestments, are specially blessed. Mother Church has special blessings for everything we use: for radios, automobiles, airplanes, fields, libraries, etc. We should ask the priest to bless everything we use and have. As St. Paul said: "Whether you eat or drink, or do anything else, do all for the glory of God" (1 Cor. 10: 31). By sacramental blessings, we consecrate to God all we are and have.
 

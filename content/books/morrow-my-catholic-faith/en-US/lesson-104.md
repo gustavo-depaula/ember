@@ -7,13 +7,13 @@ Upon being chosen for a public office, officials acquire not only rights, but du
 
 **What are the chief duties of those which hold public office?**
 
-— The chief duties of those who hold public office are: to be just to all in exercising their authority, and to promote the general welfare. 1. Public officials have a grave resp on si- bility before God. The higher the post, the greater the responsibility. Legislators, members of the cabinet, judges, all office- holders — everybody from the lowest to the highest will have to give a rigid account to God of all that they have thought, said, done, or omitted, every law passed, every vote given.
+— The chief duties of those who hold public office are: to be just to all in exercising their authority, and to promote the general welfare. 1. Public officials have a grave responsibility before God. The higher the post, the greater the responsibility. Legislators, members of the cabinet, judges, all office-holders — everybody from the lowest to the highest will have to give a rigid account to God of all that they have thought, said, done, or omitted, every law passed, every vote given.
 
 > "A most severe judgement will be for those who bear rule" (Wisd. 6: 6). Those in high office should regard it as merely committed into their care for a short time.
 
 2. No one should strive after a position of authority which he is not competent to fill.
 
-> One who aspires to a dignity, to perform duties of which he is unequal, is like a baker who tries to fly an aeroplane. If, however, a person feels himself competent, and is willing to accept the duties of a post, it is good for him to endeavour to obtain it if there by he can contribute towards the welfare of others.
+> One who aspires to a dignity, to perform duties of which he is unequal, is like a baker who tries to fly an aeroplane. If, however, a person feels himself competent, and is willing to accept the duties of a post, it is good for him to endeavour to obtain it if thereby he can contribute towards the welfare of others.
 
 3. One on whom honours and positions are conferred should have as his principal thought the accomplishment of the duties connected with his position. He must not think much of himself on account of the honour; it makes him no better in God's sight.
 

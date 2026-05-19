@@ -52,7 +52,7 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 — The Church declares a separation of a validly married couple for very grave cause, such as adultery, heresy, threats on the life of either, etc. 1. The separation declared by the Church does not cut the valid marital bond; neither of the parties may marry again till the death of the other. Should the cause cease, they must live together again.
 
-> The wronged party should obtain the sanction of the bishop before separation. The need of separation will rarely arise when both husband and wife are good practical Catholics who seriously considered the responsibilities of matrimony before embarking upon it, and who did so with prayer and the blessings of the Church, Who has trusted in God and.found Him deaf to supplication?
+> The wronged party should obtain the sanction of the bishop before separation. The need of separation will rarely arise when both husband and wife are good practical Catholics who seriously considered the responsibilities of matrimony before embarking upon it, and who did so with prayer and the blessings of the Church, Who has trusted in God and found Him deaf to supplication?
 
 2. The only "divorce" permitted in the Catholic Church is a separation, with no right to marry anyone else.
 

@@ -13,11 +13,11 @@ It was the custom among the first Christians for the rich to sell their property
 
 > "I am the way, and the truth, and the life" says Our Lord (John 14: 6). "You shall not lie" (Lev. 19: 11). This is why a lie, even when told for a good purpose, is always a sin, because it is contrary to the nature of God.
 
-2. The lover of truth is like God, and well- pleasing to Him. The lover of truth is also held in esteem by his fellow men, who know that they can trust him, for in him as in Nathaniel (John 1: 47), is no guile.
+2. The lover of truth is like God, and well-pleasing to Him. The lover of truth is also held in esteem by his fellow men, who know that they can trust him, for in him as in Nathaniel (John 1: 47), is no guile.
 
 > Even if we suffer from telling the truth, we shall be saved trouble and shall possess a clear conscience.
 
-3. A habitual liar not only is often led into grave sin, but forfeits the trust of his fellow- beings, and is the cause of a great deal of harm. When people know that one is a habitual liar, they do not believe him even when he tells the truth.
+3. A habitual liar not only is often led into grave sin, but forfeits the trust of his fellow-beings, and is the cause of a great deal of harm. When people know that one is a habitual liar, they do not believe him even when he tells the truth.
 
 > The liar is almost always guilty of other sins. "A thief is better than a man that is always lying. Lying men are without honour" (Ecclus. 20: 27-28),
 
@@ -46,9 +46,9 @@ It was the custom among the first Christians for the rich to sell their property
 
 > St. Athanasius, Bishop of Alexandria, was concealed in a vessel on the Nile, when the soldiers of the Emperor Julian overtook and stopped it. On their inquiring where Athanasius was, his servant replied: "He is not gone far." The soldiers went onward.
 
-2. We are not supposed or expected to tell everybody our private affairs or those of our friends or superiors. Many persons out of carelessness or curiosity have a most irritating habit of asking very personal questions, such as "Where have you been?" "Where are you going?" "Did you have a visitor?" "How old are you?" "What is your salary?" "Where do you get so much money?" "What do you do all day?" "What is your work now?" "How much did you pay for your dress?" "Why did you leave home?" etc. If we are asked indiscreet questions by such curious or ill- bred people, we have a right to give such an evasive answer as: "I do not' remember" (meaning, I do not remember to tell you.)
+2. We are not supposed or expected to tell everybody our private affairs or those of our friends or superiors. Many persons out of carelessness or curiosity have a most irritating habit of asking very personal questions, such as "Where have you been?" "Where are you going?" "Did you have a visitor?" "How old are you?" "What is your salary?" "Where do you get so much money?" "What do you do all day?" "What is your work now?" "How much did you pay for your dress?" "Why did you leave home?" etc. If we are asked indiscreet questions by such curious or ill-bred people, we have a right to give such an evasive answer as: "I do not' remember" (meaning, I do not remember to tell you.)
 
-> At best, these questions are a sign of extreme ill- breeding. We should be more thoughtful and discreet, and give everybody the right to his own private affairs. Answering, "He is not at home" is a social custom understood to mean that the person is not receiving callers, even if he is in the house. If a person we cannot trust tries to borrow money from us we can say: "I have no money" (meaning, have none to lend you).
+> At best, these questions are a sign of extreme ill-breeding. We should be more thoughtful and discreet, and give everybody the right to his own private affairs. Answering, "He is not at home" is a social custom understood to mean that the person is not receiving callers, even if he is in the house. If a person we cannot trust tries to borrow money from us we can say: "I have no money" (meaning, have none to lend you).
 
 3. When another has the right to the truth, we must answer simply and openly. Such is the case in buying or selling, or in drawing up an agreement. It would be against justice if two persons about to marry were to deceive each other by evasions about money matters and other things.
 

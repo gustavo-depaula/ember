@@ -19,7 +19,7 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 > As this is a matter of discipline, and not of doctrine, the practice of the Church has varied. In the Oriental rite, both kinds are still administered to the laity. Our present usage is more convenient, and more accommodated to our needs.
 
-4. Spiritual communion is a fervent desire to receive Christ, when we cannot do so sacrament ally. It may be made at all times and in all places.
+4. Spiritual communion is a fervent desire to receive Christ, when we cannot do so sacramentally. It may be made at all times and in all places.
 
 > It should be made at Mass and in visits to the blessed Sacrament. It merits graces for us, and unites us with Christ spiritually.
 
@@ -51,7 +51,7 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 > Persons who are accustomed to communicate daily do not need to go to confession daily. They, should go to confession weekly, or twice a month, unless they fall into mortal sin, when they should be sorry and go to confession at once.
 
-3. Some persons say that they are not good enough to go to daily communion. They should remember that the Eucharist is not meant as a reward of virtue, but as an aid a towards the attainment of virtue.
+3. Some persons say that they are not good enough to go to daily communion. They should remember that the Eucharist is not meant as a reward of virtue, but as an aid towards the attainment of virtue.
 
 > So long as one is in the state of grace and has the right intention, he should receive Holy Communion as often as he can. The Holy Eucharist was not instituted for angels, but for men.
 

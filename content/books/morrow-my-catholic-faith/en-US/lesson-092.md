@@ -11,7 +11,7 @@ In order to try Abraham's faith, God ordered him to sacrifice his beloved son Is
 
 — By the first commandment we are commanded to offer to God alone the supreme worship that is due Him. 1. The first commandment requires us to worship and adore God, and God alone. We must render God exclusive adoration. He alone is the creator and sovereign Lord of heaven and earth. We worship and adore Jesus Christ, because He is the Second Person of the Blessed Trinity, true God even as the Father and the Holy Ghost. This commandment forbids idolatry, false worship.
 
-> "It is written, the Lord thy God shalt thou worship, and him only shalt thou serve" (Matt. 4: 10). We adore God because is infinitely exalted above us, and we are entirely dependent on Him as our Creator and our Father.
+> "It is written, the Lord thy God shalt thou worship, and him only shalt thou serve" (Matt. 4: 10). We adore God because He is infinitely exalted above us, and we are entirely dependent on Him as our Creator and our Father.
 
 2. Exterior as well as interior worship is due to God, because our bodies, as well as our souls, belong to Him. Very often exterior acts serve to arouse and increase interior devotion.
 

@@ -64,7 +64,7 @@ Whoever we are, wherever we are, each of us has always a guardian angel at our s
 2. When we say that the angels were in heaven before their test, we do not mean that they saw God. They were very happy where God had placed them, but they did not see God until they had been proved.
 
 
-**How do the good angel help us?**
+**How do the good angels help us?**
 
 — The good angels help us by praying for us, by acting as messengers from God to us, and by serving as our guardian angels.
 

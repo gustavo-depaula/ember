@@ -28,7 +28,7 @@ The illustration shows religious preparing wine from grapes for consecration. sp
 
 > On Calvary, Christ physically shed His blood; in the Mass, although the separate consecration re-enacts Christ's death, there is no physical shedding of blood.
 
-2. Christ continues to offer Himself as a sacrifice in the Mass, in order: to unite us *In certain places,* with Himself, to give us a gift worthy to be offered to God, and to make us share in the merits of His sacrifice on the cross. Through the Mass, the merits of the sacrifice on the cross are applied to our souls.
+2. Christ continues to offer Himself as a sacrifice in the Mass, in order: to unite us with Himself, to give us a gift worthy to be offered to God, and to make us share in the merits of His sacrifice on the cross. Through the Mass, the merits of the sacrifice on the cross are applied to our souls.
 
 > The Mass, according to the will of Christ Himself, is to apply through all time the fruits of the Redemption, made possible by the sacrifice on Calvary, which paid the full price of our redemption. The Mass, then, is in the truest sense the continuation of the redeeming sacrifices of Christ. It is the Mass that gives to us the fullest efficacy of Calvary; it brings Calvary within the reach of all souls in every time and every age. Because of the Mass, here and now we may offer up repeatedly God as our Victim to God, partake of Him for ourselves as a Gift from the Blessed Trinity, and live in constant and intimate union with Him.
 

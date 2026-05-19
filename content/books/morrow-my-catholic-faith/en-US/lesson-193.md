@@ -23,7 +23,7 @@ These are the chief ceremonies in the consecration of churches, a solemn occasio
 
 4. The religion God revealed through Christ is worthy of belief (see pages 14-21, 56-59, 66-75). Our Lord announced Himself the Son of God, and as such preached His doctrines that He required us to believe. To prove that He was truly God, Our Lord worked numberless miracles.
 
-> God alone can work miracles, and He cannot work them to approve what is false. The miracles therefore worked in favour of the Reaching of Jesus Christ are manifest proofs that His teaching is true.
+> God alone can work miracles, and He cannot work them to approve what is false. The miracles therefore worked in favour of the Teaching of Jesus Christ are manifest proofs that His teaching is true.
 
 5. Christ established a Church which all are obliged to join. He declared that all men must believe and be baptised, that is, belong to His Church, in order to be saved. (See pages 94-99)
 

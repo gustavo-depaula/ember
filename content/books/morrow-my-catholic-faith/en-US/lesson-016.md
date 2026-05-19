@@ -45,7 +45,7 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 > The evil inclinations of our weak and corrupted nature tempt us to sin. The world, with its sinful wants and vanities, tempts us to sin. The devil goes about continually tempting us, making use of both our nature and the world for his evil purposes.
 
-2. In itself, temptation is not a sin. It becomes sinful only when: (a) we bring it upon ourselves by carelessness or over- confidence; (b) we play with, take pleasure in, or yield to it.
+2. In itself, temptation is not a sin. It becomes sinful only when: (a) we bring it upon ourselves by carelessness or over-confidence; (b) we play with, take pleasure in, or yield to it.
 
 > The greatest saints have often been most strongly tempted. Our Lord even permitted Himself to be tempted. Thus we see that temptation is not a sin, because we are not responsible for it.
 

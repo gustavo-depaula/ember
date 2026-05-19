@@ -62,4 +62,4 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 4. When Sunday is desecrated by vice and unrestrained pleasure, we can expect by this loosening of morals the gradual dissolution of family ties and the final disintegration of society.
 
-> Neglecting common worship, members of the family become in different to each other. Children turn stubborn and disobedient. The father hardly stays home, and knows strangers better than his own children. Since the children lose respect for their parents, it is an easy step to loss of respect for all authority, including the secular power. Thus by forgetting God's day, men live like heathen and will die outside God's grace.
+> Neglecting common worship, members of the family become indifferent to each other. Children turn stubborn and disobedient. The father hardly stays home, and knows strangers better than his own children. Since the children lose respect for their parents, it is an easy step to loss of respect for all authority, including the secular power. Thus by forgetting God's day, men live like heathen and will die outside God's grace.

@@ -50,7 +50,7 @@
 
 **What is a scrupulous conscience?**
 
-— A scrupulous conscience is a sick conscience that sees sin where there is none. 1. A scrupulous person looks on tempt a- tions as sins. We must not encourage a scrupulous conscience. It is a mark of lack of confidence in the goodness of God.
+— A scrupulous conscience is a sick conscience that sees sin where there is none. 1. A scrupulous person looks on temptations as sins. We must not encourage a scrupulous conscience. It is a mark of lack of confidence in the goodness of God.
 
 > When a scrupulous person is tempted, he worries himself sick, believing he has committed sin, even when he has not yielded to the temptation one whit, even when he has actually abhorred it.
 
@@ -65,4 +65,4 @@
 
 > We should be most careful to keep our conscience delicate. It is a terrible thing for one to live as if he had no conscience. It is a tender conscience that escapes such things as self-reproach, shame, remorse, dismay, and fear, because it is ever before God, Who gives it peace and hope.
 
-A tender conscience'is the conscience of the saints. It is the conscience that good Christians should cultivate. Then they will not do anything the least displeasing to God.
+A tender conscience is the conscience of the saints. It is the conscience that good Christians should cultivate. Then they will not do anything the least displeasing to God.

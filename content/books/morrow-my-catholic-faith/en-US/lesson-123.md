@@ -58,7 +58,7 @@ The sacraments derive their efficacy from Christ, by Whose merits we possess the
 > The sacraments are sure means of grace, certain means of salvation. By them we are united to Christ Our Lord. By them He gives us His hand to hold to, so that we may walk through life and all its trials without weakness and without fear.
 
 
-**What is the difference between sacra- ments of the living and sacraments of the dead?**
+**What is the difference between sacraments of the living and sacraments of the dead?**
 
 — Sacraments of the living are those that may be received only by one living in the state of grace; sacraments of the dead aim to give sanctifying grace to one spiritually dead through sin, 1. The sacraments of the living are: Confirmation, Holy Eucharist, Extreme Unction, Holy Orders, and Matrimony. It is a sacrilege to receive these sacraments when one is in the state of mortal sin.
 

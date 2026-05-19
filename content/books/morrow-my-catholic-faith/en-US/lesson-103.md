@@ -34,7 +34,7 @@ Parents have the duty of beginning their child's religious training as soon as p
 
 > As the child grows older, he should not be allowed excessive liberty, especially with regard to the company he keeps, and to staying out at night. Parents should always know where the child is, who his companions are, what he reads, what shows he sees.
 
-3. Parents must correct the child's faults, taking care not to be either harsh or over- indulgent. They must act with justice as well as mercy. They must treat all their children equally, and show no favouritism.
+3. Parents must correct the child's faults, taking care not to be either harsh or over-indulgent. They must act with justice as well as mercy. They must treat all their children equally, and show no favouritism.
 
 > Parents who fly into a rage about a fault one day and laugh at the same fault another day can hardly expect their child to respect them. Parents who are too "good" to correct, chide, or punish a child who has committed grave faults are either stupid or lazy. They are bad parents, failing in their duties to God.
 
@@ -55,7 +55,7 @@ Parents have the duty of beginning their child's religious training as soon as p
 
 2. Many parents out of pure caprice interfere with the practice of their child's profession or occupation, by preventing his acceptance of positions, by wishing him to stay home with them, etc.
 
-> Such parents need not be surprised if they find themselves burdened with the support of their grown- up children and their families. If you cut off the wings of a bird, it cannot fly.
+> Such parents need not be surprised if they find themselves burdened with the support of their grown-up children and their families. If you cut off the wings of a bird, it cannot fly.
 
 3. In the choice of a state of life, which may make or mar the life of their child, parents should advise, but not interfere. If he wishes to marry, and they have any objection to the partner he has chosen, they may state their objections. If the objection is very serious, they may try to prevent the marriage, but never otherwise.
 

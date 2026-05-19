@@ -11,7 +11,7 @@ The illustration shows the holy queen Blanche of France and her young son, later
 
 > "You have heard that it was said to the ancients, 'Thou shalt not commit adultery.' But I say to you that anyone who even looks with lust at a woman has already committed adultery with her in his heart" (Matt. 5: 27-28).
 
-An impure desire is the wish or intention to do something unchaste or impure. Almost always, sins against purity, thoughts and desires as well as acts, are grave or mortal sins. Whenever we are be set by temptation, we should immediately pray, especially to our beloved Mother, the purest of mortals.
+An impure desire is the wish or intention to do something unchaste or impure. Almost always, sins against purity, thoughts and desires as well as acts, are grave or mortal sins. Whenever we are beset by temptation, we should immediately pray, especially to our beloved Mother, the purest of mortals.
 
 > An impure desire, however, is a venial sin if committed through lack of attention or reflection, through negligence or slowness in rejecting a thought, or by giving only a partial consent. Only full and deliberate consent makes a sin mortal.
 

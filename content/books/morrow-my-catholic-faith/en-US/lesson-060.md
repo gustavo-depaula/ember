@@ -25,7 +25,7 @@ As the Pope is the successor of St. Peter, so the other bishops are the direct s
 
 > The Pope addresses a bishop; *Brother*, because as bishops, they have the same rank. Bishops wear a mitre, and carry a crosier as a sign of their office of pastor. They wear a pectoral cross. They have a ring, as a symbol of their union with their diocese. The faithful kiss this ring in token of obedience and respect.
 
-4. A Vicar Apostolic is a bishop who rules over a territory that is not yet fully organized, called a Vicar i ate Apostolic.
+4. A Vicar Apostolic is a bishop who rules over a territory that is not yet fully organized, called a Vicariate Apostolic.
 
 > When the territory is first organized, it is usually placed under the care of a priest, and not a bishop. This priest is called a Prefect Apostolic and his territory is an Apostolic Prefecture.
 

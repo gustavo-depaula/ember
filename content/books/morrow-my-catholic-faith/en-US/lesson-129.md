@@ -16,7 +16,7 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 — Priests exercise their power to change bread and wine into the body and blood of Christ by repeating at the consecration of the Mass the words of Christ: ''This is My body. . . .this is My blood."
 
-> Over the bread are pronounced the words: Hoc est enim corpus meum, or "this is My Body." Over the wine are pronounced the words: Hic est enim calix san guin is mei, or "this is the chalice of My Blood."
+> Over the bread are pronounced the words: Hoc est enim corpus meum, or "this is My Body." Over the wine are pronounced the words: Hic est enim calix sanguinis mei, or "this is the chalice of My Blood."
 
 1. At Mass, at the words of consecration, transubstantiation takes place; that is, the entire substance of the bread and wine is changed into our Lord's Body and Blood.
 
@@ -48,7 +48,7 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 **Why does Christ give us His own body and blood in the Holy Eucharist?**
 
-— Christ gives us His own body and blood in the Holy Eucharist: 1. To be offered as a sacrifice com mem or a ting and renewing the sacrifice of the cross.
+— Christ gives us His own body and blood in the Holy Eucharist: 1. To be offered as a sacrifice commemorating and renewing the sacrifice of the cross.
 
 > "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11: 26). In the Mass, Jesus offers Himself as a Victim to His heavenly Father.
 
@@ -71,6 +71,6 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 > The Holy Father gives us good example. The chapel of the Blessed Sacrament in the Basilica of St. Peter's is precious, with its unique tabernacle. Dozens of vigil lights burn day and night before Our Lord, as prayers for His people.
 
-3. We can show Jesus our love and gratitude by every day paying Him a visit in the Blessed Sacrament, by attending Bene- diction, by hearing Holy Mass and receiving Holy Communion, by spending an hour of adoration when the Blessed Sacrament is exposed, and by other devotions.
+3. We can show Jesus our love and gratitude by every day paying Him a visit in the Blessed Sacrament, by attending Benediction, by hearing Holy Mass and receiving Holy Communion, by spending an hour of adoration when the Blessed Sacrament is exposed, and by other devotions.
 
-> When we pass by a church where the Blessed Sacrament is reserved, we should bow our heads as a sign of respect, and say a short aspiration in honour of Our Lord; men should raise their hats. If we are not ill- bred enough to pass by a friend without a word or gesture of greeting, shall we be thus ill-bred towards Our Lord!
+> When we pass by a church where the Blessed Sacrament is reserved, we should bow our heads as a sign of respect, and say a short aspiration in honour of Our Lord; men should raise their hats. If we are not ill-bred enough to pass by a friend without a word or gesture of greeting, shall we be thus ill-bred towards Our Lord!

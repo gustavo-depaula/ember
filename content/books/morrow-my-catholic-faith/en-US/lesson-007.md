@@ -54,7 +54,7 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 2. Finally our Lord Jesus Christ, Son of God, came to earth to reveal Divine truths to men. After His death, His Apostles and disciples wrote about Him and His teachings.
 
-> There are twenty-seven of these books, composing the New Testament. With the forty- five books of the Old Testament, they were scattered in different parts of the world, until the Church gathered them together into one Book, Holy Scripture, or the Bible.
+> There are twenty-seven of these books, composing the New Testament. With the forty-five books of the Old Testament, they were scattered in different parts of the world, until the Church gathered them together into one Book, Holy Scripture, or the Bible.
 
 3. The deposit of faith which Jesus Christ entrusted to the Church is made up of two parts: Holy Scripture, and Divine Tradition, this latter being composed of the truths passed down by word of mouth, and not written down till after the death of Christ's Apostles and disciples, principally by the Fathers of the Church.
 

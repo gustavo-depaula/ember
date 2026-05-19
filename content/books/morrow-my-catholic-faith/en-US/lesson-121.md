@@ -4,7 +4,7 @@
 
 The Sacrament of Penance was instituted by Our Lord. The Apostles administered it. Thus in their time, as the Scriptures say, the Christian converts came to them, "confessing and declaring their deeds." (1) Thus they came to St. Paul in Ephesus (Acts 19: 18). (2) The first Christians received the Body of Our Lord daily. It is the wish of the Church that if we cannot imitate them, we should at least receive Holy Communion as frequently as possible at least every time we hear Mass, on Sundays and holydays of obligation. We should not need to go to Confession for each Communion.
 
-"TO CONFESS OUR SINS ATLEAST ONCE A YEAR" "TO RECEIVE HOLY COMMUNION DURING THE EASTER TIME."
+"TO CONFESS OUR SINS AT LEAST ONCE A YEAR" "TO RECEIVE HOLY COMMUNION DURING THE EASTER TIME."
 
 
 **What is meant by the commandment to confess our sins at least once a year?**
@@ -47,10 +47,10 @@ The Sacrament of Penance was instituted by Our Lord. The Apostles administered i
 
 > Christ Himself commanded: "Except you eat the Flesh of the Son of Man and drink His Blood, you shall not have life in you" (John 6: 54). Holy Communion is the food of our souls. Let us not starve our souls by denying them this heavenly food.
 
-When we are sick, we are eager enough to rush here, there, and everywhere, seeking remedies. But Holy Communion is the a supernatural remedy for sick souls; and how many are there who seek it?
+When we are sick, we are eager enough to rush here, there, and everywhere, seeking remedies. But Holy Communion is a supernatural remedy for sick souls; and how many are there who seek it?
 
 
-**What is, the Easter time?**
+**What is the Easter time?**
 
 — According to the 1917 Code of Canon Law (859 &2), Easter time is from Palm Sunday to the Sunday within the Octave of Easter or *Dominica In Albis*.
 

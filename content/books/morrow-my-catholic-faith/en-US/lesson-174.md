@@ -7,7 +7,7 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What does Our Saviour especially recommend that is not strictly commanded by the law of God?**
 
-— Our Saviour especially recommends the ob- ser vance of the Evangelical Counsels — voluntary poverty, perpetual chastity, and perfect obedience. 1. "Evangelical" here means contained in the Gospels; these counsels of perfection are clearly set forth in Holy Scripture.
+— Our Saviour especially recommends the observance of the Evangelical Counsels — voluntary poverty, perpetual chastity, and perfect obedience. 1. "Evangelical" here means contained in the Gospels; these counsels of perfection are clearly set forth in Holy Scripture.
 
 > They are called counsels, because they are an invitation and not a command; all are invited, but no one is forced. "Not all can accept this teaching; but those to whom it has been given" (Matt. 19: 11).
 
@@ -17,7 +17,7 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 3. The evangelical counsels, however, are not in themselves perfection. They are only the best means for attaining perfection.
 
-> If we adopt the counsels, but do not follow'them or make sacrifices for them, we are 'far from perfect.
+> If we adopt the counsels, but do not follow them or make sacrifices for them, we are far from perfect.
 
 
 **What is voluntary poverty?**

@@ -100,7 +100,7 @@ We give thee thanks, O Almighty God, for all Thy benefits. Who livest and reigne
 My Queen! my Mother! I give myself entirely to thee; and to show my devotion to thee, I consecrate to thee this day my eyes, my ears, my mouth, my heart, my whole being without reserve. Wherefore, good Mother, as I am thine own, keep me, guard me, as thy property and possession.
 
 
-**The Mem or are**
+**The Memorare**
 
 Remember, O most gracious Virgin Mary, that never was it known that any one who fled to thy protection, implored thy help, and sought thy intercession, was left unaided. Inspired with this confidence, I fly unto thee, O Virgin of virgins, my Mother! To thee I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but, in thy mercy, hear and answer me. Amen.
 
@@ -127,7 +127,7 @@ V. The angel of the Lord declared unto Mary. R. And she conceived of the Holy Gh
 Queen of heaven, rejoice. Alleluia. For He whom thou didst deserve to bear. Alleluia. Hath risen as He said. Alleluia. Pray for us to God. Alleluia. V. Rejoice and be glad, O Virgin Mary! Alleluia. R. Because Our Lord is truly risen. Alleluia. Let us Pray O God, who by the resurrection of Thy Son, Our Lord Jesus Christ, hast vouchsafed to make glad the whole world, grant, we beseech Thee, that, through the intercession of the Virgin Mary, His Mother, we may attain the joys of eternal life. Through the same Christ Our Lord. Amen.(Indulgence of ten years)
 
 
-**De Pro fund is**
+**De Profundis**
 
 Out of the depths I have cried unto Thee, O Lord! Lord, hear my voice. Let Thine ears be attentive to the voice of my supplication. If Thou, O Lord, wilt mark iniquities: Lord, who shall abide it! For with Thee there is merciful forgiveness; and by reason of Thy law I have waited for Thee, O Lord. My soul hath relied on His word; my soul hath hoped in the Lord. From the morning watch even until night: let Israel hope in the Lord. Because with the Lord there is mercy: and with Him plenteous redemption. And He shall redeem Israel from all his iniquities. Eternal rest give unto them, O Lord, and let perpetual light shine upon them. May they rest in peace. Amen. O God, the Creator and Redeemer of all the faithful, grant to the souls of Thy servants departed the remission of all their sins, that through pious supplications they may obtain that pardon which they have always desired: Who livest and reignest for ever and ever. Amen.
 
@@ -182,12 +182,12 @@ O Jesus Christ, I acknowledge Thee as universal King. All that has been made, ha
 
 **Tantum Ergo**
 
-Tantum ergo Sacramentum, Veneremur cernui: (bow your head) Et antiquum document um Novo ced at ritui: Praestet fides supplementum Sensuum defect ui. Genitori, Genitoque Laus et jubilatio, Salus, honor virtus quoque Sit et benedict io; Procedenti ab utroque Compar sit laudatio. Amen.
+Tantum ergo Sacramentum, Veneremur cernui: (bow your head) Et antiquum documentum Novo cedat ritui: Praestet fides supplementum Sensuum defectui. Genitori, Genitoque Laus et jubilatio, Salus, honor virtus quoque Sit et benedictio; Procedenti ab utroque Compar sit laudatio. Amen.
 
 
-**A do remus in Aeternum**
+**Adoremus in Aeternum**
 
-Sanctissimum Sacramentum. Laudate Dominum omnes gentes, laudite eum omnes populi. Quoniam confirmata est super nos misericordia ejus et Veritas Domini manet in aeternum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saecula saeculorum. Amen.
+Sanctissimum Sacramentum. Laudate Dominum omnes gentes, laudate eum omnes populi. Quoniam confirmata est super nos misericordia ejus et Veritas Domini manet in aeternum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saecula saeculorum. Amen.
 
 
 **The Manner in Which a Lay Person is to Baptise in Case of Necessity**

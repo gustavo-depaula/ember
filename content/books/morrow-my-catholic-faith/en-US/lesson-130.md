@@ -30,20 +30,20 @@ From the beginning of man's existence, sacrifices have been offered to God. The 
 
 — The purposes of sacrifice are; to give honour or adoration to God, to offer Him thanks, to beg a favour, or to make propitiation.
 
-> In other words, the purposes of sacrifice are: adoration, thanksgiving, petition, and atonement. It is natural for man to give outward expression to the feelings that move his interior being. For this reason, he bursts out in praise when he thinks of the greatness and holiness of God; he must give something up as a sign of gratitude: he must offer a gift when he feels his insignificance in begging a favour; and he tries ail kinds of penitential works when he realizes his iniquities.
+> In other words, the purposes of sacrifice are: adoration, thanksgiving, petition, and atonement. It is natural for man to give outward expression to the feelings that move his interior being. For this reason, he bursts out in praise when he thinks of the greatness and holiness of God; he must give something up as a sign of gratitude: he must offer a gift when he feels his insignificance in begging a favour; and he tries all kinds of penitential works when he realizes his iniquities.
 
 
 **In what forms is sacrifice offered?**
 
-— Sacrifice is offered in either the bloody or the un bloody form. 1. A sacrifice of living animals, such as an ox, a lamb, or a dove, is a bloody sacrifice. A sacrifice of some food, such as fruit, wine, or wheat, is an un bloody sacrifice.
+— Sacrifice is offered in either the bloody or the unbloody form. 1. A sacrifice of living animals, such as an ox, a lamb, or a dove, is a bloody sacrifice. A sacrifice of some food, such as fruit, wine, or wheat, is an unbloody sacrifice.
 
-> Among the Jews, the animals used to be slaughtered, their blood poured out upon the altar, and their flesh consumed by fire or eaten by the priests and those for whom the sacrifice was offered. The un bloody oblation was burned up or eaten by the priests after being offered; the wine was poured out on the altar.
+> Among the Jews, the animals used to be slaughtered, their blood poured out upon the altar, and their flesh consumed by fire or eaten by the priests and those for whom the sacrifice was offered. The unbloody oblation was burned up or eaten by the priests after being offered; the wine was poured out on the altar.
 
 2. The heathen, with perverted ideas, offered human sacrifices to their idols.
 
 > The King of Moab (4 Kings 5: 27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10: 20).
 
-God gave to Moses detailed instructions on sacrificial offerings (Lev. 1-7; 16; 22). Among the Jews, the high-priest, in the name of the people, offered morning and evening an un bloody sacrifice of incense, flour, oil, and frankincense. Then he offered a bloody sacrifice of a lamb, together with food and drink. On the Sabbath, two lambs, with bread and wine, were offered in addition as sacrifice.
+God gave to Moses detailed instructions on sacrificial offerings (Lev. 1-7; 16; 22). Among the Jews, the high-priest, in the name of the people, offered morning and evening an unbloody sacrifice of incense, flour, oil, and frankincense. Then he offered a bloody sacrifice of a lamb, together with food and drink. On the Sabbath, two lambs, with bread and wine, were offered in addition as sacrifice.
 
 On certain solemn feasts, the Jews sacrificed hundreds of victims amidst impressive ceremonies. Their chief feasts were: (a) the Pasch or Passover, which commemorated their deliverance from Egypt; (b) the Pentecost, in remembrance of the Law received on Mount Sinai; (c) the Tabernacles, to commemorate their wanderings in the desert; and (d) the Expiation or Atonement, in which the priest sacrificed for his own and the people's sins. These sacrifices typified the sacrifice of Christ.
 

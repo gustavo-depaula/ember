@@ -2,7 +2,7 @@
 
 ![](../images/lesson-019.webp)
 
-Although there ore some points of similarity between the skeletons of man and the ape, the differences are numerous and fundamental. As one scientist remarked, evolutionists might as well claim that man descended from any other form of life, because differences between man and the ape are as important as between man and other forms. The ape has neither chin nor forehead, Its foot grasps like a hand. Its teeth are not arranged in close rows. If it were forced to stand erect, it would be looking upwards, not forward. The average weight of its brain compared to that of its body is as 1 to 70. For man, the ratio is 1 to 35. The ape cannot speak articulately.
+Although there are some points of similarity between the skeletons of man and the ape, the differences are numerous and fundamental. As one scientist remarked, evolutionists might as well claim that man descended from any other form of life, because differences between man and the ape are as important as between man and other forms. The ape has neither chin nor forehead, Its foot grasps like a hand. Its teeth are not arranged in close rows. If it were forced to stand erect, it would be looking upwards, not forward. The average weight of its brain compared to that of its body is as 1 to 70. For man, the ratio is 1 to 35. The ape cannot speak articulately.
 
 
 **How did the body of the first man originate?**

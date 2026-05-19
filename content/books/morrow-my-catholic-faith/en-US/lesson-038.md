@@ -4,7 +4,7 @@
 
 "And when the days of Pentecost were drawing to a close, they were all together in one place. And suddenly there came a sound from heaven, as of a violent wind coming, and it filled the whole house where they were sitting. And there appeared to them parted tongues as of fire, which settled upon each of them. And they were all filled with the Holy Spirit and began to speak in foreign tongues, even as the Holy Spirit prompted them to speak" (Acts 2: 1-4).
 
-(EIGHT ARTICLE OF THE APOSTLES' CREED)
+(EIGHTH ARTICLE OF THE APOSTLES' CREED)
 
 
 **Who is the Holy Ghost?**

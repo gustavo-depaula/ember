@@ -9,7 +9,7 @@
 
 — It is the most solemn obligation of a priest to keep secret what has been revealed to him in confession. 1. The priest may not break this seal of confession even to save his own life, or to avert a great calamity. He must act as if he had not heard anything in confession. This is why a sense of shame or fear of telling our sins should never lead us to conceal mortal sins in confession.
 
-> Towards the end of the fourteenth century, Wenceslaus, King of Bohemia, ordered St. John Nepomucene to be drowned in the river Mold au. The king had tried to make the Saint reveal to him what the queen had said in confession, and the saint had firmly refused, in spite of inducements and threats. Hundreds of years after, during the process of canonization, the saint's tongue was found in corrupt, and looked like a living tongue.
+> Towards the end of the fourteenth century, Wenceslaus, King of Bohemia, ordered St. John Nepomucene to be drowned in the river Moldau. The king had tried to make the Saint reveal to him what the queen had said in confession, and the saint had firmly refused, in spite of inducements and threats. Hundreds of years after, during the process of canonization, the saint's tongue was found incorrupt, and looked like a living tongue.
 
 2. The seal of confession must be observed even in a court of justice, for the divine law is higher than human law.
 

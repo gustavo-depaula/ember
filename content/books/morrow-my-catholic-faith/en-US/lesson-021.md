@@ -36,7 +36,7 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 4. The resolution to commit the sin when occasion presents itself follows. Then the exterior act is committed.
 
-> Finally, tile man glances to see if the salesman is still busy. Then he takes the ring and walks away with it. Thus the wish or desire has been translated into an exterior act. Even should the man be prevented from stealing, he is guilty of grave sin.
+> Finally, the man glances to see if the salesman is still busy. Then he takes the ring and walks away with it. Thus the wish or desire has been translated into an exterior act. Even should the man be prevented from stealing, he is guilty of grave sin.
 
 
 **Why is an exterior sin more evil than an interior sin?**
@@ -47,7 +47,7 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 2. And worse, an exterior sin increases the malice of the will, and destroys the sense of shame. The repetition of exterior sins forms the habit of sinning, and vice is formed. The conscience goes to sleep, and the sinner becomes so hardened that he no longer sees the evil and wickedness of his sin.
 
-> Thus it becomes easier and easier for him to commit sins of a worse kind. His state becomes worse and worse until finally he becomes a hardened sinner who believes himselfsinless.
+> Thus it becomes easier and easier for him to commit sins of a worse kind. His state becomes worse and worse until finally he becomes a hardened sinner who believes himself sinless.
 
 
 **Are all evil acts sinful?**
