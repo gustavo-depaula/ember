@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQuery } from '@tanstack/react-query'
+import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useState } from 'react'
@@ -20,6 +20,7 @@ import {
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
+import { preprocessFlow } from '@/content/preprocessFlow'
 import {
   getManifest,
   loadFlow,
@@ -27,6 +28,7 @@ import {
   loadPracticeData,
   loadPracticeTracks,
 } from '@/content/resolver'
+import type { ResolvedSection } from '@/content/resolvedTypes'
 import type { RenderedSection } from '@/content/types'
 import {
   ensurePracticeCursors,
@@ -53,35 +55,37 @@ import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { parseSlotKey } from '@/lib/slotKey'
-import { PracticeProducerProvider } from '@/producers'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { PsalmodySlot } from './slots/PsalmodySlot'
 import { ReadingSlot } from './slots/ReadingSlot'
 
 // Descends through container sections so findTrackIds can reach reading
 // sections nested inside select/options/collapsible/etc.
-function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedSection> {
+function* walkSections(sections: ResolvedSection[]): Generator<ResolvedSection> {
   for (const s of sections) {
     yield s
     switch (s.type) {
       case 'select':
       case 'options':
-        for (const opt of s.options) yield* walkRenderedSections(opt.sections)
+        for (const opt of s.options) yield* walkSections(opt.sections)
         break
       case 'collapsible':
       case 'liturgical-color-scope':
-        yield* walkRenderedSections(s.sections)
+        yield* walkSections(s.sections)
         break
       case 'prayer':
-        if (s.sections) yield* walkRenderedSections(s.sections)
+        if (s.sections) yield* walkSections(s.sections)
+        break
+      case 'include':
+        if (s.resolvedSections) yield* walkSections(s.resolvedSections)
         break
     }
   }
 }
 
-function findTrackIds(sections: RenderedSection[]): string[] {
+function findTrackIds(sections: ResolvedSection[]): string[] {
   const ids = new Set<string>()
-  for (const s of walkRenderedSections(sections)) {
+  for (const s of walkSections(sections)) {
     if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
   }
   return Array.from(ids)
@@ -101,9 +105,10 @@ export function PracticeFlow({
   const advanceCursor = useAdvanceCursor()
   const handleProgramCompletion = useHandleProgramCompletion()
   const restartProgramMutation = useRestartProgram()
+  const queryClient = useQueryClient()
   const [showCompleteModal, setShowCompleteModal] = useState(false)
   const [selectOverrides, setSelectOverrides] = useState<Record<string, string>>({})
-  const [sections, setSections] = useState<RenderedSection[]>([])
+  const [renderedSections, setRenderedSections] = useState<RenderedSection[]>([])
   const [isResolvingFlow, setIsResolvingFlow] = useState(false)
   const [thresholdElapsed, setThresholdElapsed] = useState(false)
 
@@ -203,7 +208,7 @@ export function PracticeFlow({
     const resolveSections = async () => {
       if (!flow) {
         if (!cancelled) {
-          setSections([])
+          setRenderedSections([])
           setIsResolvingFlow(false)
         }
         return
@@ -226,7 +231,7 @@ export function PracticeFlow({
         )
         const resolved = await resolveFlowAsync(flow, context, ec)
         if (!cancelled) {
-          setSections(resolved)
+          setRenderedSections(resolved)
         }
       } finally {
         if (!cancelled) {
@@ -253,7 +258,32 @@ export function PracticeFlow({
     selectOverrides,
   ])
 
-  const isDynamicLoading = isResolvingFlow && sections.length === 0
+  // Single async preprocessor: walks the engine's resolved output and inlines
+  // producer-fetched data into a static tree. The renderer below is then a
+  // pure function of resolvedSections.
+  const preprocessQuery = useQuery({
+    queryKey: [
+      'preprocess',
+      renderedSections,
+      contentLanguage,
+      translation,
+      programDay ?? null,
+      todayKey,
+    ] as const,
+    queryFn: () =>
+      preprocessFlow(renderedSections, {
+        queryClient,
+        prefs: { lang: contentLanguage, translation },
+        date: now,
+        programDay,
+      }),
+    enabled: renderedSections.length > 0,
+    staleTime: Number.POSITIVE_INFINITY,
+  })
+  const sections: ResolvedSection[] = preprocessQuery.data ?? []
+
+  const isPreprocessing = renderedSections.length > 0 && preprocessQuery.isLoading
+  const isDynamicLoading = (isResolvingFlow && renderedSections.length === 0) || isPreprocessing
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -286,8 +316,27 @@ export function PracticeFlow({
     )
   }
 
-  // Resolution phase: flow loaded, engine is processing dynamic sections (Bible/CCC
-  // readings, mass-of-day, liturgical-day). This is local + fast — no subtitle needed.
+  if (preprocessQuery.isError) {
+    return (
+      <ScreenLayout>
+        <YStack flex={1} alignItems="center" justifyContent="center" gap="$md" padding="$lg">
+          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+            {t('practice.contentLoadFailed')}
+          </Text>
+          <Pressable
+            onPress={() => preprocessQuery.refetch()}
+            accessibilityRole="button"
+            accessibilityLabel={t('common.retry')}
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              {t('common.retry')}
+            </Text>
+          </Pressable>
+        </YStack>
+      </ScreenLayout>
+    )
+  }
+
   if (isDynamicLoading || !thresholdElapsed) {
     return <Threshold word={t('practice.threshold')} />
   }
@@ -341,81 +390,79 @@ export function PracticeFlow({
 
   return (
     <ImageViewerProvider>
-      <PracticeProducerProvider programDay={programDay}>
-        <ScreenLayout>
-          <YStack gap="$lg" paddingVertical="$lg">
-            <ManuscriptFrame>
-              <YStack
-                alignItems="center"
-                gap="$xs"
-                paddingVertical="$md"
-                paddingHorizontal={readingMargin}
-              >
-                {manifest.theme !== 'office' && (
-                  <Text fontFamily="$display" fontSize="$5" color="$accent">
-                    ✠
-                  </Text>
-                )}
-                <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
-                  {practiceName}
+      <ScreenLayout>
+        <YStack gap="$lg" paddingVertical="$lg">
+          <ManuscriptFrame>
+            <YStack
+              alignItems="center"
+              gap="$xs"
+              paddingVertical="$md"
+              paddingHorizontal={readingMargin}
+            >
+              {manifest.theme !== 'office' && (
+                <Text fontFamily="$display" fontSize="$5" color="$accent">
+                  ✠
                 </Text>
-                <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
-                  {formattedDate}
-                </Text>
-              </YStack>
-
-              <YStack gap="$md">
-                {sections.map((section, index) => (
-                  <PracticeSectionBlock
-                    key={`${section.type}-${index}`}
-                    section={section}
-                    practiceId={practiceId}
-                    onSelectOverride={handleSelectOverride}
-                  />
-                ))}
-              </YStack>
-
-              {manifest.completion !== 'manual' && (
-                <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
-                  <AnimatedPressable
-                    onPress={handleComplete}
-                    disabled={logCompletionMutation.isPending}
-                    accessibilityRole="button"
-                    accessibilityLabel={t('office.amen')}
-                  >
-                    <YStack
-                      backgroundColor="$accent"
-                      borderRadius="$md"
-                      borderWidth={1}
-                      borderColor="$accentSubtle"
-                      paddingVertical="$md"
-                      alignItems="center"
-                      opacity={logCompletionMutation.isPending ? 0.6 : 1}
-                    >
-                      <Text fontFamily="$heading" fontSize="$3" color="$background">
-                        {logCompletionMutation.isPending ? t('office.completing') : t('office.amen')}
-                      </Text>
-                    </YStack>
-                  </AnimatedPressable>
-                </YStack>
               )}
+              <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
+                {practiceName}
+              </Text>
+              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
+                {formattedDate}
+              </Text>
+            </YStack>
 
-              <YStack paddingBottom="$lg" />
-            </ManuscriptFrame>
-          </YStack>
+            <YStack gap="$md">
+              {sections.map((section, index) => (
+                <PracticeSectionBlock
+                  key={`${section.type}-${index}`}
+                  section={section}
+                  practiceId={practiceId}
+                  onSelectOverride={handleSelectOverride}
+                />
+              ))}
+            </YStack>
 
-          {showCompleteModal && manifest?.program && (
-            <ProgramCompleteModal
-              practiceName={localizeContent(manifest.name)}
-              showRestart={manifest.program.completionBehavior === 'offer-restart'}
-              onRestart={() => {
-                restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
-              }}
-              onDone={() => router.back()}
-            />
-          )}
-        </ScreenLayout>
-      </PracticeProducerProvider>
+            {manifest.completion !== 'manual' && (
+              <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                <AnimatedPressable
+                  onPress={handleComplete}
+                  disabled={logCompletionMutation.isPending}
+                  accessibilityRole="button"
+                  accessibilityLabel={t('office.amen')}
+                >
+                  <YStack
+                    backgroundColor="$accent"
+                    borderRadius="$md"
+                    borderWidth={1}
+                    borderColor="$accentSubtle"
+                    paddingVertical="$md"
+                    alignItems="center"
+                    opacity={logCompletionMutation.isPending ? 0.6 : 1}
+                  >
+                    <Text fontFamily="$heading" fontSize="$3" color="$background">
+                      {logCompletionMutation.isPending ? t('office.completing') : t('office.amen')}
+                    </Text>
+                  </YStack>
+                </AnimatedPressable>
+              </YStack>
+            )}
+
+            <YStack paddingBottom="$lg" />
+          </ManuscriptFrame>
+        </YStack>
+
+        {showCompleteModal && manifest?.program && (
+          <ProgramCompleteModal
+            practiceName={localizeContent(manifest.name)}
+            showRestart={manifest.program.completionBehavior === 'offer-restart'}
+            onRestart={() => {
+              restartProgramMutation.mutate({ practiceId }, { onSuccess: () => router.back() })
+            }}
+            onDone={() => router.back()}
+          />
+        )}
+      </ScreenLayout>
     </ImageViewerProvider>
   )
 }
@@ -425,7 +472,7 @@ function PracticeSectionBlock({
   practiceId,
   onSelectOverride,
 }: {
-  section: RenderedSection
+  section: ResolvedSection
   practiceId: string
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
@@ -474,16 +521,17 @@ function PracticeSectionBlock({
       )
 
     case 'psalmody':
-      return <PsalmodySlot psalms={section.psalms} />
+      return <PsalmodySlot data={section.data} />
 
     case 'reading':
-      return <ReadingSlot reference={section.reference} />
+      return <ReadingSlot reference={section.reference} data={section.data} />
 
     case 'include':
       return (
         <IncludeBlock
           ref={section.ref}
-          params={section.params}
+          data={section.data.payload}
+          resolvedSections={section.resolvedSections}
           renderSection={(s, i) => (
             <PracticeSectionBlock
               key={`${s.type}-${i}`}

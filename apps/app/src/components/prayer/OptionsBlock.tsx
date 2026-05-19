@@ -1,7 +1,8 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static option sections never reorder
 import { useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
-import type { PickerStyle, RenderedSection } from '@/content/types'
+import type { PickerStyle } from '@/content/types'
+import type { ResolvedSection } from '@/content/resolvedTypes'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { OptionCard } from './OptionCard'
 import { SectionHeading } from './SectionHeading'
@@ -9,7 +10,7 @@ import { SectionHeading } from './SectionHeading'
 type Option = {
   id: string
   label: string
-  sections: RenderedSection[]
+  sections: ResolvedSection[]
   excerpt?: string
 }
 
@@ -21,7 +22,7 @@ export function OptionsBlock({
 }: {
   label: string
   options: Option[]
-  renderSection: (section: RenderedSection, index: number) => React.ReactNode
+  renderSection: (section: ResolvedSection, index: number) => React.ReactNode
   pickerStyle?: PickerStyle
 }) {
   const [selected, setSelected] = useState(0)

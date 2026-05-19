@@ -1289,6 +1289,7 @@ export default {
     noContent: 'No prayer content available for this practice yet.',
     threshold: 'Oremus',
     loadingContent: 'Loading…',
+    contentLoadFailed: 'Couldn’t load today’s prayer. Please try again.',
     completionSyncFailed: 'Couldn’t update your progress',
     completionSyncFailedDesc:
       'Your prayer was recorded, but we couldn’t advance to the next day. Please try again later.',

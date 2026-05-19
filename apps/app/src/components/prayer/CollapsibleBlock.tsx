@@ -1,7 +1,8 @@
 import { ChevronDown, ChevronRight } from 'lucide-react-native'
 import { useState } from 'react'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-import type { BilingualText, RenderedSection } from '@/content/types'
+import type { BilingualText } from '@/content/types'
+import type { ResolvedSection } from '@/content/resolvedTypes'
 import { AnimatedPressable } from '../AnimatedPressable'
 
 /**
@@ -18,8 +19,8 @@ export function CollapsibleBlock({
 }: {
   title: BilingualText
   defaultOpen: boolean
-  sections: RenderedSection[]
-  renderSection: (section: RenderedSection, index: number) => React.ReactNode
+  sections: ResolvedSection[]
+  renderSection: (section: ResolvedSection, index: number) => React.ReactNode
 }) {
   const [open, setOpen] = useState(defaultOpen)
   const theme = useTheme()
