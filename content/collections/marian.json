@@ -99,10 +99,6 @@
 				},
 				{
 					"kind": "item",
-					"ref": "practice/modo-rezar-rosario"
-				},
-				{
-					"kind": "item",
 					"ref": "chapter/how-to-pray-the-rosary-well"
 				},
 				{
@@ -183,18 +179,6 @@
 					"seeAlso": [
 						"collection/montfort-spirituality"
 					]
-				},
-				{
-					"kind": "item",
-					"ref": "practice/consagracao-maria"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/ao-coracao-de-maria"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/com-minha-mae-estarei"
 				}
 			]
 		},
@@ -211,10 +195,6 @@
 					"seeAlso": [
 						"collection/litanies"
 					]
-				},
-				{
-					"kind": "item",
-					"ref": "practice/ladainha-nossa-senhora"
 				}
 			]
 		},

@@ -6,12 +6,7 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { PracticeIcon } from '@/components/PracticeIcon'
-import {
-  getEntriesByKind,
-  getRememberedManifest,
-  isHiddenCollection,
-  isHiddenPractice,
-} from '@/content/contentIndex'
+import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getManifestIconKey, searchManifests } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -65,7 +60,6 @@ export function SearchAutocomplete({ query }: { query: string }) {
 
     const practiceScored: Scored<SearchResult>[] = []
     for (const m of searchManifests(trimmed)) {
-      if (isHiddenPractice(m.id)) continue
       const title = localizeContent(m.name)
       const titleScore = scoreText(title, q)
       const tagScore = m.tags?.some((tag) => tag.toLowerCase().includes(q)) ? 30 : 0
@@ -102,7 +96,6 @@ export function SearchAutocomplete({ query }: { query: string }) {
 
     const collectionScored: Scored<SearchResult>[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
-      if (isHiddenCollection(id)) continue
       const title = entry.name ? localizeContent(entry.name) : bareId(id)
       const score = scoreText(title, q)
       if (score === 0) continue

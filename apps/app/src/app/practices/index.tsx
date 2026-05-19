@@ -12,7 +12,6 @@ import {
   getCollectionsForItem,
   getEntriesByKind,
   getEntry,
-  isHiddenCollection,
 } from '@/content/contentIndex'
 import { getAllManifests, getManifestCategories, getManifestIconKey } from '@/content/resolver'
 import type { PracticeManifest } from '@/content/types'
@@ -221,7 +220,6 @@ export default function PracticeCatalogScreen() {
   const collections = useMemo(() => {
     const out: { id: string; entry: ReturnType<typeof getEntry> }[] = []
     for (const [id, entry] of getEntriesByKind('collection')) {
-      if (isHiddenCollection(id)) continue
       out.push({ id, entry })
     }
     return out.sort((a, b) => {

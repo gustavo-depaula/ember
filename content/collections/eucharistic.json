@@ -45,10 +45,6 @@
 			"blocks": [
 				{
 					"kind": "item",
-					"ref": "practice/preparacao-comunhao"
-				},
-				{
-					"kind": "item",
 					"ref": "practice/anima-christi"
 				},
 				{
@@ -173,33 +169,6 @@
 					"seeAlso": [
 						"collection/litanies"
 					]
-				}
-			]
-		},
-		{
-			"id": "in-portuguese",
-			"title": {
-				"en-US": "In Portuguese",
-				"pt-BR": "Em Português"
-			},
-			"description": {
-				"body": {
-					"en-US": "Brazilian eucharistic prayers — a call to the tabernacle and a desire for God in the soul.",
-					"pt-BR": "Orações eucarísticas brasileiras — um chamado ao sacrário e a sede de Deus na alma."
-				}
-			},
-			"blocks": [
-				{
-					"kind": "item",
-					"ref": "practice/vamos-todos-sacrario"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/queremos-deus"
-				},
-				{
-					"kind": "item",
-					"ref": "practice/convite-santo"
 				}
 			]
 		},
