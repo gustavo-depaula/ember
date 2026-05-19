@@ -2,10 +2,10 @@ import { describe, expect, it } from 'vitest'
 import { flow, flowDef, makeContext, makeEngineContext } from '../../../__fixtures__/engine'
 import { type EngineContext, resolveFlow, resolveFlowAsync } from '../../../engine'
 
-describe('resolveFlowAsync — cycle template with prose+book', () => {
-  it('preloads book chapters from cycle template sections', async () => {
+describe('resolveFlowAsync — cycle with prose+book', () => {
+  it('preloads the current cycle entry chapter for prose+book sections', async () => {
     const cycleData = {
-      indexBy: 'fixed' as const,
+      indexBy: 'program-day' as const,
       entries: {
         default: [
           { chapterId: 'session-001' },
@@ -17,6 +17,7 @@ describe('resolveFlowAsync — cycle template with prose+book', () => {
 
     const context = makeContext({
       cycleData: { 'session-progression': cycleData },
+      programDay: 1,
     })
 
     const engineContext: EngineContext = {
@@ -34,7 +35,6 @@ describe('resolveFlowAsync — cycle template with prose+book', () => {
           {
             type: 'cycle',
             data: 'session-progression',
-            as: 'template',
             sections: [
               {
                 type: 'prose',
@@ -53,7 +53,7 @@ describe('resolveFlowAsync — cycle template with prose+book', () => {
     expect(result.length).toBe(1)
     expect(result[0].type).toBe('prose')
     if (result[0].type === 'prose') {
-      expect(result[0].text.primary).toContain('session-')
+      expect(result[0].text.primary).toBe('Content of session-002')
     }
   })
 

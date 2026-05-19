@@ -13,8 +13,15 @@ import type {
   ResolveStep,
 } from '../types'
 import { resolveLanguageCandidates } from './book-language'
-import { composeVars, type EngineContext, type FlowContext, resolvePath } from './context'
+import {
+  composeVars,
+  type EngineContext,
+  type FlowContext,
+  getContextValue,
+  resolvePath,
+} from './context'
 import { resolveSection } from './resolve'
+import { getCycleIndex } from './sections/cycle'
 import { computeSelectedId, selectedItemAndId } from './sections/select'
 import { substituteInFlowSection, substituteTemplateVars } from './vars'
 
@@ -188,26 +195,33 @@ function collectBookChapterRefs(
           }
         }
         break
-      case 'cycle':
-        if (section.as === 'template' && section.sections) {
-          const cycleData = context.cycleData?.[section.data]
-          if (cycleData) {
-            const allEntries = Object.values(cycleData.entries).flat()
-            for (const entry of allEntries) {
-              const vars: Record<string, string | undefined> = {}
-              for (const [k, v] of Object.entries(entry as Record<string, unknown>)) {
-                if (typeof v === 'string') vars[k] = v
-              }
-              for (const s of section.sections) {
-                const substituted = substituteInFlowSection(s, vars)
-                walkSection(substituted)
-              }
-            }
-          } else {
-            for (const s of section.sections) walkSection(s)
-          }
+      case 'cycle': {
+        const cycleData = context.cycleData?.[section.data]
+        if (!cycleData) {
+          for (const s of section.sections) walkSection(s)
+          break
+        }
+        const contextValue = cycleData.contextKey
+          ? getContextValue(context, cycleData.contextKey)
+          : undefined
+        const entries = (
+          contextValue
+            ? (cycleData.entries[contextValue] ?? Object.values(cycleData.entries)[0])
+            : Object.values(cycleData.entries)[0]
+        ) as unknown[]
+        if (!entries?.length) break
+        const index = getCycleIndex(cycleData.indexBy, context.date, entries.length, context)
+        const entry = entries[index] as Record<string, unknown>
+        const vars: Record<string, string | undefined> = {}
+        for (const [k, v] of Object.entries(entry)) {
+          if (typeof v === 'string') vars[k] = v
+        }
+        for (const s of section.sections) {
+          const substituted = substituteInFlowSection(s, vars)
+          walkSection(substituted)
         }
         break
+      }
       case 'repeat':
         for (const s of section.sections) walkSection(s)
         break
