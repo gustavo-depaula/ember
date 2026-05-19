@@ -21,7 +21,6 @@
     {
       "type": "cycle",
       "data": "triduum-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

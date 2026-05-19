@@ -49,9 +49,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -64,12 +62,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                8,
-                19,
-                24
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  8,
+                  19,
+                  24
+                ]
+              }
             },
             {
               "type": "divider"
@@ -134,9 +135,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -149,12 +148,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                93,
-                100,
-                63
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  93,
+                  100,
+                  63
+                ]
+              }
             },
             {
               "type": "divider"
@@ -233,9 +235,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -248,12 +248,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                54,
-                85,
-                117
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  54,
+                  85,
+                  117
+                ]
+              }
             },
             {
               "type": "divider"
@@ -301,9 +304,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -316,12 +317,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                120,
-                121,
-                122
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  120,
+                  121,
+                  122
+                ]
+              }
             },
             {
               "type": "divider"
@@ -369,9 +373,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -384,12 +386,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                123,
-                124,
-                125
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  123,
+                  124,
+                  125
+                ]
+              }
             },
             {
               "type": "divider"
@@ -437,9 +442,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -452,12 +455,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                126,
-                127,
-                128
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  126,
+                  127,
+                  128
+                ]
+              }
             },
             {
               "type": "divider"
@@ -505,9 +511,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -520,14 +524,17 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                110,
-                111,
-                112,
-                113,
-                147
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  110,
+                  111,
+                  112,
+                  113,
+                  147
+                ]
+              }
             },
             {
               "type": "divider"
@@ -606,9 +613,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "compline",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -621,12 +626,15 @@
               }
             },
             {
-              "type": "psalmody",
-              "psalms": [
-                129,
-                130,
-                131
-              ]
+              "type": "include",
+              "ref": "producer/psalmody",
+              "params": {
+                "psalms": [
+                  129,
+                  130,
+                  131
+                ]
+              }
             },
             {
               "type": "divider"

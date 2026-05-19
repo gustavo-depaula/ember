@@ -1,3 +1,4 @@
+import type { ReadingReference } from '@ember/liturgical'
 import type {
   BilingualText,
   FlowSection,
@@ -24,7 +25,7 @@ import {
   type RenderedLiturgicalColor,
 } from './labels'
 import { type ChoiceRichTextSection, resolveChoiceRichText } from './sections/choice-rich-text'
-import { getCycleIndex, mapCycleOutput } from './sections/cycle'
+import { getCycleIndex } from './sections/cycle'
 import { resolveCanticleRef, resolveInlinePrayer, resolvePrayerRef } from './sections/prayer'
 import { resolveRepeat } from './sections/repeat'
 import { computeSelectedId, resolveSelectFromData } from './sections/select'
@@ -33,6 +34,37 @@ import { substituteInFlowSection, substituteTemplateVars } from './vars'
 const REVIEW_TARGETS: Record<string, { kind: 'active' | 'pending'; level: ResolutionLevel }> = {
   'active-daily': { kind: 'active', level: 'daily' },
   'pending-daily': { kind: 'pending', level: 'daily' },
+}
+
+// Lectio's parsed ReadingReference becomes an `include` of a content source.
+// The source IDs come from EngineContext.contentSources — engine doesn't
+// hardcode 'producer/bible-chapter' etc.
+export function includeForReading(
+  ref: ReadingReference,
+  ec: EngineContext,
+  trackId?: string,
+): RenderedSection {
+  if (ref.type === 'bible') {
+    return {
+      type: 'include',
+      ref: ec.contentSources.bibleChapter,
+      params: {
+        book: ref.book,
+        bookName: ref.bookName,
+        chapter: ref.chapter,
+        startVerse: ref.startVerse,
+        endVerse: ref.endVerse,
+        toEnd: ref.toEnd,
+      },
+      trackId,
+    }
+  }
+  return {
+    type: 'include',
+    ref: ec.contentSources.cccChapter,
+    params: { start: ref.startParagraph, count: ref.count },
+    trackId,
+  }
 }
 
 /**
@@ -178,32 +210,24 @@ export function resolveSection(
       if (!entries?.length) return []
 
       const index = getCycleIndex(cycleData.indexBy, context.date, entries.length, context)
-      const entry = entries[index]
+      const entry = entries[index] as Record<string, unknown>
 
-      if (section.as === 'template' && section.sections) {
-        const entryVars = resolveEntryVars(
-          entry as Record<string, string | LocalizedText | undefined>,
-          ec,
-        )
-        const substVars = composeVars(context, entryVars)
-        return section.sections.flatMap((s) => {
-          const substituted = substituteInFlowSection(s, substVars)
-          return resolveSection(substituted, context, ec)
-        })
-      }
-
-      const raw = section.key ? (entry as Record<string, unknown>)[section.key] : entry
-      return mapCycleOutput(section.as, raw, ec)
+      const entryVars = resolveEntryVars(entry, ec)
+      const substVars = composeVars(context, entryVars)
+      return section.sections.flatMap((s) => {
+        const substituted = substituteInFlowSection(s, substVars)
+        return resolveSection(substituted, context, ec)
+      })
     }
 
-    case 'psalmody':
-      return [{ type: 'psalmody', psalms: section.psalms.map(ec.parsePsalmRef) }]
+    case 'include':
+      return [{ type: 'include', ref: section.ref, params: section.params }]
 
     case 'lectio': {
+      const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
       if ('reference' in section) {
-        const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
         const refs = ec.parseTrackEntry('bible', section.reference, resolveBookName)
-        return refs.map((ref) => ({ type: 'reading' as const, reference: ref }))
+        return refs.map((ref) => includeForReading(ref, ec))
       }
       const def = context.trackDefs?.[section.track]
       const state = context.trackState?.[section.track]
@@ -212,13 +236,8 @@ export function resolveSection(
       const entry = def.entries[state.current_index % def.entries.length]
       if (entry === undefined)
         return [{ type: 'rubric', label: bilingualOf('[Reading track not loaded]') }]
-      const resolveBookName = (slug: string) => ec.t(`bookName.${slug}`, { defaultValue: slug })
       const refs = ec.parseTrackEntry(def.source, entry, resolveBookName)
-      return refs.map((ref) => ({
-        type: 'reading' as const,
-        reference: ref,
-        trackId: section.track,
-      }))
+      return refs.map((ref) => includeForReading(ref, ec, section.track))
     }
 
     case 'subheading':
@@ -244,9 +263,9 @@ export function resolveSection(
         const resolved = entries
           .map((entry, i) => {
             const vars = resolveEntryVars(entry, ec)
-            const labelText = vars.label
+            const labelText = typeof vars.label === 'string' ? vars.label : undefined
             if (!labelText) return undefined
-            const entryId = vars.id ?? String(i)
+            const entryId = typeof vars.id === 'string' ? vars.id : String(i)
             const overlay = { ...vars, index: String(i) }
             const substVars = composeVars(context, overlay)
             return {

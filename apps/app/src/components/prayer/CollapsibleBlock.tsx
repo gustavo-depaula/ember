@@ -1,7 +1,7 @@
 import { ChevronDown, ChevronRight } from 'lucide-react-native'
 import { useState } from 'react'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-import type { BilingualText, RenderedSection } from '@/content/types'
+import type { BilingualText } from '@/content/types'
 import { AnimatedPressable } from '../AnimatedPressable'
 
 /**
@@ -9,8 +9,11 @@ import { AnimatedPressable } from '../AnimatedPressable'
  * silent priest prayers (Preparação das Oferendas) and lengthy
  * explanatory rubrics — the title gives orientation, the body stays
  * out of the audible flow until the user wants the detail.
+ *
+ * Generic over the section type so both the engine-side renderer
+ * (RenderedSection) and the practice renderer (Primitive) can use it.
  */
-export function CollapsibleBlock({
+export function CollapsibleBlock<T>({
   title,
   defaultOpen,
   sections,
@@ -18,8 +21,8 @@ export function CollapsibleBlock({
 }: {
   title: BilingualText
   defaultOpen: boolean
-  sections: RenderedSection[]
-  renderSection: (section: RenderedSection, index: number) => React.ReactNode
+  sections: T[]
+  renderSection: (section: T, index: number) => React.ReactNode
 }) {
   const [open, setOpen] = useState(defaultOpen)
   const theme = useTheme()

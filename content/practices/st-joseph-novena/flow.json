@@ -21,7 +21,6 @@
     {
       "type": "cycle",
       "data": "joseph-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

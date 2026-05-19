@@ -38,7 +38,6 @@
     {
       "type": "cycle",
       "data": "therese-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

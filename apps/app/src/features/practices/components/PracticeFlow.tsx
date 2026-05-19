@@ -1,7 +1,7 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
-import { useQueries, useQuery } from '@tanstack/react-query'
+import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useState } from 'react'
@@ -10,20 +10,16 @@ import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import {
   AnimatedPressable,
-  BibleReadingBlock,
-  CccReadingBlock,
   confirm,
-  InlineRetry,
   ManuscriptFrame,
-  ProperSlot,
-  PsalmodyBlock,
-  type PsalmSlot,
+  PrimitiveBlock,
   ScreenLayout,
   Threshold,
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
-import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
+import { preprocessFlow } from '@/content/preprocessFlow'
+import type { Primitive } from '@/content/primitives'
 import {
   getManifest,
   loadFlow,
@@ -36,9 +32,7 @@ import {
   ensurePracticeCursors,
   useAdvanceCursor,
   useCursorsForPractice,
-  usePsalmsForHour,
 } from '@/features/divine-office'
-import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
 import {
   useHandleProgramCompletion,
   useLogCompletion,
@@ -47,83 +41,42 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
-import {
-  RenderedCaptureResolutionBlock,
-  RenderedReviewResolutionBlock,
-} from '@/features/resolutions'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
-import { getCccParagraphs } from '@/lib/catechism'
-import { getChapter, type Verse } from '@/lib/content'
 import { successBuzz } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
-import type { PsalmRef } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-// Descends through container sections so dynamic content (readings, psalmody)
-// nested inside a select/options/collapsible/liturgical-color-scope/prayer is
-// still collected for prefetch — otherwise its query never fires and the block
-// renders blank.
-function* walkRenderedSections(sections: RenderedSection[]): Generator<RenderedSection> {
+// Walks the engine's pre-preprocess output looking for `reading` sections
+// that carry a lectio trackId — needed after completion so the right cursor
+// advances. Primitives don't carry track metadata (it's an engine concern),
+// so this stays on the engine-level tree.
+function* walkRendered(sections: RenderedSection[]): Generator<RenderedSection> {
   for (const s of sections) {
     yield s
     switch (s.type) {
       case 'select':
       case 'options':
-        for (const opt of s.options) yield* walkRenderedSections(opt.sections)
+        for (const opt of s.options) yield* walkRendered(opt.sections)
         break
       case 'collapsible':
       case 'liturgical-color-scope':
-        yield* walkRenderedSections(s.sections)
+        yield* walkRendered(s.sections)
         break
       case 'prayer':
-        if (s.sections) yield* walkRenderedSections(s.sections)
+        if (s.sections) yield* walkRendered(s.sections)
         break
     }
   }
-}
-
-function findPsalmRefs(sections: RenderedSection[]): PsalmRef[] {
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type === 'psalmody') return s.psalms
-  }
-  return []
-}
-
-type BibleKey = { book: string; chapter: number }
-type CccKey = { start: number; count: number }
-
-const bibleKeyStr = (k: BibleKey) => `${k.book}/${k.chapter}`
-const cccKeyStr = (k: CccKey) => `${k.start}/${k.count}`
-
-function collectReadingKeys(sections: RenderedSection[]): {
-  bibleKeys: BibleKey[]
-  cccKeys: CccKey[]
-} {
-  const bibleSet = new Map<string, BibleKey>()
-  const cccSet = new Map<string, CccKey>()
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type !== 'reading') continue
-    if (s.reference.type === 'bible') {
-      const key = { book: s.reference.book, chapter: s.reference.chapter }
-      const k = bibleKeyStr(key)
-      if (!bibleSet.has(k)) bibleSet.set(k, key)
-    } else {
-      const key = { start: s.reference.startParagraph, count: s.reference.count }
-      const k = cccKeyStr(key)
-      if (!cccSet.has(k)) cccSet.set(k, key)
-    }
-  }
-  return { bibleKeys: Array.from(bibleSet.values()), cccKeys: Array.from(cccSet.values()) }
 }
 
 function findTrackIds(sections: RenderedSection[]): string[] {
   const ids = new Set<string>()
-  for (const s of walkRenderedSections(sections)) {
-    if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
+  for (const s of walkRendered(sections)) {
+    if (s.type === 'include' && s.trackId) ids.add(s.trackId)
   }
   return Array.from(ids)
 }
@@ -142,9 +95,19 @@ export function PracticeFlow({
   const advanceCursor = useAdvanceCursor()
   const handleProgramCompletion = useHandleProgramCompletion()
   const restartProgramMutation = useRestartProgram()
+  const queryClient = useQueryClient()
   const [showCompleteModal, setShowCompleteModal] = useState(false)
   const [selectOverrides, setSelectOverrides] = useState<Record<string, string>>({})
-  const [sections, setSections] = useState<RenderedSection[]>([])
+  // `renderedSections` is a fresh array each engine resolution. `version`
+  // tags it with a monotonic counter so the preprocess queryKey can be a
+  // stable scalar (number) instead of forcing React Query to deep-hash a
+  // potentially large tree on every render.
+  const [renderedSections, setRenderedSectionsRaw] = useState<RenderedSection[]>([])
+  const [renderedSectionsVersion, setRenderedSectionsVersion] = useState(0)
+  const setRenderedSections = useCallback((next: RenderedSection[]) => {
+    setRenderedSectionsRaw(next)
+    setRenderedSectionsVersion((v) => v + 1)
+  }, [])
   const [isResolvingFlow, setIsResolvingFlow] = useState(false)
   const [thresholdElapsed, setThresholdElapsed] = useState(false)
 
@@ -244,7 +207,7 @@ export function PracticeFlow({
     const resolveSections = async () => {
       if (!flow) {
         if (!cancelled) {
-          setSections([])
+          setRenderedSections([])
           setIsResolvingFlow(false)
         }
         return
@@ -267,7 +230,7 @@ export function PracticeFlow({
         )
         const resolved = await resolveFlowAsync(flow, context, ec)
         if (!cancelled) {
-          setSections(resolved)
+          setRenderedSections(resolved)
         }
       } finally {
         if (!cancelled) {
@@ -292,71 +255,35 @@ export function PracticeFlow({
     contentLanguage,
     secondaryLanguage,
     selectOverrides,
+    setRenderedSections,
   ])
 
-  // Load dynamic content (psalms, Bible readings, CCC)
-  const psalmRefs = useMemo(() => findPsalmRefs(sections), [sections])
-  const { bibleKeys, cccKeys } = useMemo(() => collectReadingKeys(sections), [sections])
-
-  const psalmResult = usePsalmsForHour(psalmRefs, translation)
-
-  const bibleQueries = useQueries({
-    queries: bibleKeys.map((k) => ({
-      queryKey: ['chapter', translation, k.book, k.chapter] as const,
-      queryFn: () => getChapter(translation, k.book, k.chapter),
-    })),
+  // Single async preprocessor: walks the engine's resolved output and inlines
+  // producer-fetched data into a static tree. The renderer below is then a
+  // pure function of resolvedSections.
+  const preprocessQuery = useQuery({
+    queryKey: [
+      'preprocess',
+      renderedSectionsVersion,
+      contentLanguage,
+      translation,
+      programDay ?? null,
+      todayKey,
+    ] as const,
+    queryFn: () =>
+      preprocessFlow(renderedSections, {
+        queryClient,
+        prefs: { lang: contentLanguage, translation },
+        date: now,
+        programDay,
+      }),
+    enabled: renderedSections.length > 0,
+    staleTime: Number.POSITIVE_INFINITY,
   })
+  const sections: Primitive[] = preprocessQuery.data ?? []
 
-  const cccQueries = useQueries({
-    queries: cccKeys.map((k) => ({
-      queryKey: ['ccc', k.start, k.count] as const,
-      queryFn: () => getCccParagraphs(k.start, k.count),
-    })),
-  })
-
-  const bibleMap = useMemo(() => {
-    const map = new Map<string, { verses: Verse[]; fallback?: boolean }>()
-    for (let i = 0; i < bibleKeys.length; i++) {
-      const data = bibleQueries[i]?.data
-      if (data) map.set(bibleKeyStr(bibleKeys[i]), data)
-    }
-    return map
-  }, [bibleKeys, bibleQueries])
-
-  const cccMap = useMemo(() => {
-    const map = new Map<string, Array<{ number: number; text: string; section: string }>>()
-    for (let i = 0; i < cccKeys.length; i++) {
-      const data = cccQueries[i]?.data
-      if (data) map.set(cccKeyStr(cccKeys[i]), data)
-    }
-    return map
-  }, [cccKeys, cccQueries])
-
-  const bibleErrors = useMemo(() => {
-    const map = new Map<string, () => void>()
-    for (let i = 0; i < bibleKeys.length; i++) {
-      const q = bibleQueries[i]
-      if (q?.isError) map.set(bibleKeyStr(bibleKeys[i]), () => q.refetch())
-    }
-    return map
-  }, [bibleKeys, bibleQueries])
-
-  const cccErrors = useMemo(() => {
-    const map = new Map<string, () => void>()
-    for (let i = 0; i < cccKeys.length; i++) {
-      const q = cccQueries[i]
-      if (q?.isError) map.set(cccKeyStr(cccKeys[i]), () => q.refetch())
-    }
-    return map
-  }, [cccKeys, cccQueries])
-
-  const bibleLoading = bibleQueries.some((r) => r.isLoading)
-  const cccLoading = cccQueries.some((r) => r.isLoading)
-
-  const hasDynamicContent = psalmRefs.length > 0 || bibleKeys.length > 0 || cccKeys.length > 0
-  const isInitialResolve = isResolvingFlow && sections.length === 0
-  const isDynamicLoading =
-    isInitialResolve || (hasDynamicContent && (psalmResult.isLoading || bibleLoading || cccLoading))
+  const isPreprocessing = renderedSections.length > 0 && preprocessQuery.isLoading
+  const isDynamicLoading = (isResolvingFlow && renderedSections.length === 0) || isPreprocessing
 
   const practiceName = manifest ? localizeContent(manifest.name) : practiceId
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -389,8 +316,27 @@ export function PracticeFlow({
     )
   }
 
-  // Resolution phase: flow loaded, engine is processing dynamic sections (Bible/CCC
-  // readings, mass-of-day, liturgical-day). This is local + fast — no subtitle needed.
+  if (preprocessQuery.isError) {
+    return (
+      <ScreenLayout>
+        <YStack flex={1} alignItems="center" justifyContent="center" gap="$md" padding="$lg">
+          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+            {t('practice.contentLoadFailed')}
+          </Text>
+          <Pressable
+            onPress={() => preprocessQuery.refetch()}
+            accessibilityRole="button"
+            accessibilityLabel={t('common.retry')}
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              {t('common.retry')}
+            </Text>
+          </Pressable>
+        </YStack>
+      </ScreenLayout>
+    )
+  }
+
   if (isDynamicLoading || !thresholdElapsed) {
     return <Threshold word={t('practice.threshold')} />
   }
@@ -406,7 +352,7 @@ export function PracticeFlow({
           successBuzz()
           try {
             if (trackDefs) {
-              const trackIds = findTrackIds(sections)
+              const trackIds = findTrackIds(renderedSections)
               await Promise.all(
                 trackIds.map((id) =>
                   advanceCursor.mutateAsync({
@@ -467,15 +413,10 @@ export function PracticeFlow({
             </YStack>
 
             <YStack gap="$md">
-              {sections.map((section, index) => (
-                <PracticeSectionBlock
-                  key={`${section.type}-${index}`}
-                  section={section}
-                  psalmSlots={psalmResult.slots}
-                  bibleMap={bibleMap}
-                  cccMap={cccMap}
-                  bibleErrors={bibleErrors}
-                  cccErrors={cccErrors}
+              {sections.map((primitive, index) => (
+                <PrimitiveBlock
+                  key={`${primitive.type}-${index}`}
+                  primitive={primitive}
                   practiceId={practiceId}
                   onSelectOverride={handleSelectOverride}
                 />
@@ -524,121 +465,4 @@ export function PracticeFlow({
       </ScreenLayout>
     </ImageViewerProvider>
   )
-}
-
-function PracticeSectionBlock({
-  section,
-  psalmSlots,
-  bibleMap,
-  cccMap,
-  bibleErrors,
-  cccErrors,
-  practiceId,
-  onSelectOverride,
-}: {
-  section: RenderedSection
-  psalmSlots: PsalmSlot[]
-  bibleMap: Map<string, { verses: Verse[]; fallback?: boolean }>
-  cccMap: Map<string, Array<{ number: number; text: string; section: string }>>
-  bibleErrors: Map<string, () => void>
-  cccErrors: Map<string, () => void>
-  practiceId: string
-  onSelectOverride: (overrideKey: string, nextId: string) => void
-}) {
-  // Practice-specific section types
-  switch (section.type) {
-    case 'rendered-offering':
-      return (
-        <RenderedOfferingBlock
-          practiceId={practiceId}
-          mode={section.mode}
-          show={section.show}
-          default={section.default}
-          label={section.label?.primary}
-        />
-      )
-
-    case 'rendered-capture-movement':
-      return (
-        <RenderedCaptureMovementBlock
-          kind={section.kind}
-          prompt={section.prompt.primary}
-          multi={section.multi}
-          defaultCadence={section.defaultCadence}
-        />
-      )
-
-    case 'rendered-capture-resolution':
-      return (
-        <RenderedCaptureResolutionBlock
-          forward={section.forward}
-          prompt={section.prompt.primary}
-          window={section.window}
-          prefill={section.prefill}
-        />
-      )
-
-    case 'rendered-review-resolution':
-      return (
-        <RenderedReviewResolutionBlock
-          mode={section.mode}
-          resolution={section.resolution}
-          prompt={section.prompt?.primary}
-          outcomes={section.outcomes}
-          allowNotes={section.allow_notes}
-        />
-      )
-
-    case 'psalmody':
-      return <PsalmodyBlock slots={psalmSlots} />
-
-    case 'reading': {
-      const ref = section.reference
-      if (ref.type === 'bible') {
-        const key = bibleKeyStr(ref)
-        const bibleData = bibleMap.get(key)
-        const retry = bibleErrors.get(key)
-        if (!bibleData && retry) return <InlineRetry onRetry={retry} />
-        return (
-          <BibleReadingBlock
-            reference={ref}
-            verses={bibleData?.verses}
-            fallback={bibleData?.fallback}
-          />
-        )
-      }
-      const key = cccKeyStr({ start: ref.startParagraph, count: ref.count })
-      const cccData = cccMap.get(key)
-      const retry = cccErrors.get(key)
-      if (!cccData && retry) return <InlineRetry onRetry={retry} />
-      return <CccReadingBlock reference={ref} paragraphs={cccData} />
-    }
-
-    case 'proper':
-      return (
-        <ProperSlot slot={section.slot} form={section.form} description={section.description} />
-      )
-
-    default:
-      // Delegate common section types (rubric, prayer, hymn, canticle, heading, etc.)
-      return (
-        <SectionBlock
-          section={section}
-          renderSection={(s, i) => (
-            <PracticeSectionBlock
-              key={`${s.type}-${i}`}
-              section={s}
-              psalmSlots={psalmSlots}
-              bibleMap={bibleMap}
-              cccMap={cccMap}
-              bibleErrors={bibleErrors}
-              cccErrors={cccErrors}
-              practiceId={practiceId}
-              onSelectOverride={onSelectOverride}
-            />
-          )}
-          onSelectOverride={onSelectOverride}
-        />
-      )
-  }
 }

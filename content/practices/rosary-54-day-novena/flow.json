@@ -257,7 +257,6 @@
     {
       "type": "cycle",
       "data": "novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

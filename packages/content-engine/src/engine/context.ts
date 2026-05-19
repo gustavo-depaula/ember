@@ -86,6 +86,17 @@ export type EngineContext = {
     level: ResolutionLevel,
     forward: 'current' | 'next',
   ): { starts_at: number; ends_at: number }
+  /**
+   * IDs of the ContentSources that handle bible / ccc / psalmody fetches.
+   * The engine never hardcodes source names — when `lectio` resolves a
+   * reading or a flow asks for psalmody, the engine emits an `include`
+   * pointing at the id the host provides here.
+   */
+  contentSources: {
+    bibleChapter: string
+    cccChapter: string
+    psalmody: string
+  }
 }
 
 export type ResolutionLevel = 'daily'
@@ -204,17 +215,25 @@ export function composeVars(
 }
 
 export function resolveEntryVars(
-  entry: Record<string, string | LocalizedText | undefined>,
+  entry: Record<string, unknown>,
   ec: EngineContext,
-): Record<string, string | undefined> {
-  const vars: Record<string, string | undefined> = {}
+): Record<string, unknown> {
+  const vars: Record<string, unknown> = {}
   for (const [k, v] of Object.entries(entry)) {
-    vars[k] =
-      typeof v === 'object' && v !== null && ('en-US' in v || 'pt-BR' in v)
-        ? ec.localizeUI(v as LocalizedText)
-        : typeof v === 'string'
-          ? v
-          : undefined
+    if (
+      typeof v === 'object' &&
+      v !== null &&
+      !Array.isArray(v) &&
+      ('en-US' in v || 'pt-BR' in v)
+    ) {
+      vars[k] = ec.localizeUI(v as LocalizedText)
+    } else if (typeof v === 'number') {
+      vars[k] = String(v)
+    } else {
+      // Pass arrays, objects, strings, etc. through unchanged so whole-string
+      // template substitution can pick them up as raw values.
+      vars[k] = v
+    }
   }
   return vars
 }

@@ -1,4 +1,4 @@
-import type { BilingualText, RenderedSection } from '@ember/content-engine'
+import type { BilingualText } from '@ember/content-engine'
 import { ChevronRight } from 'lucide-react-native'
 import { useState } from 'react'
 import { Pressable } from 'react-native'
@@ -6,7 +6,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { PrayerLines } from '../PrayerText'
 import { BilingualBlock } from './BilingualBlock'
 
-export function CollapsiblePrayer({
+export function CollapsiblePrayer<T>({
   title,
   text,
   count,
@@ -16,8 +16,8 @@ export function CollapsiblePrayer({
   title: BilingualText
   text: BilingualText
   count?: number
-  sections?: RenderedSection[]
-  renderSection?: (section: RenderedSection, index: number) => React.ReactNode
+  sections?: T[]
+  renderSection?: (section: T, index: number) => React.ReactNode
 }) {
   const [expanded, setExpanded] = useState(false)
   const theme = useTheme()

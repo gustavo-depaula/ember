@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "mount-carmel-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

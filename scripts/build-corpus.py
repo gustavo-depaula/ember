@@ -216,12 +216,22 @@ def build_practices(b: Builder) -> None:
         data_files = []
         data_dir = d / "data"
         if data_dir.is_dir():
+            # Practices declare logical names for cycle/tracks data in the
+            # manifest's `data` block: { "<logical-name>": "data/<file>.json" }.
+            # The runtime resolver keys cycleData by this logical name, so map
+            # rel → logical and emit the logical as `name` when present. Fall
+            # back to the rel path stem for practices that don't declare it.
+            file_to_logical = {}
+            for logical, path in (manifest_data.get("data") or {}).items():
+                if isinstance(path, str) and path.startswith("data/"):
+                    file_to_logical[path[len("data/"):]] = logical
             for ff in sorted(data_dir.rglob("*.json")):
                 rel = ff.relative_to(data_dir).as_posix()
                 with ff.open(encoding="utf-8") as fh:
                     dd = json.load(fh)
                 dh, ds = b.write_json_blob(dd)
-                data_files.append({"name": rel, "hash": dh, "size": ds})
+                name = file_to_logical.get(rel, rel)
+                data_files.append({"name": name, "hash": dh, "size": ds})
 
         tracks_files = []
         tracks_dir = d / "tracks"

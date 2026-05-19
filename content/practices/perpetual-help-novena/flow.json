@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "perpetual-help-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

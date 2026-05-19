@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "aparecida-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

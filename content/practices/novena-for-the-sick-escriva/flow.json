@@ -7,7 +7,6 @@
     {
       "type": "cycle",
       "data": "sick-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "heading",

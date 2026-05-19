@@ -1,0 +1,807 @@
+{
+  "indexBy": "program-day",
+  "entries": {
+    "default": [
+      {
+        "first": 1,
+        "last": 6,
+        "title": {
+          "en-US": "Day 1 · Questions 1–6",
+          "pt-BR": "Dia 1 · Perguntas 1–6"
+        }
+      },
+      {
+        "first": 7,
+        "last": 12,
+        "title": {
+          "en-US": "Day 2 · Questions 7–12",
+          "pt-BR": "Dia 2 · Perguntas 7–12"
+        }
+      },
+      {
+        "first": 13,
+        "last": 18,
+        "title": {
+          "en-US": "Day 3 · Questions 13–18",
+          "pt-BR": "Dia 3 · Perguntas 13–18"
+        }
+      },
+      {
+        "first": 19,
+        "last": 24,
+        "title": {
+          "en-US": "Day 4 · Questions 19–24",
+          "pt-BR": "Dia 4 · Perguntas 19–24"
+        }
+      },
+      {
+        "first": 25,
+        "last": 30,
+        "title": {
+          "en-US": "Day 5 · Questions 25–30",
+          "pt-BR": "Dia 5 · Perguntas 25–30"
+        }
+      },
+      {
+        "first": 31,
+        "last": 36,
+        "title": {
+          "en-US": "Day 6 · Questions 31–36",
+          "pt-BR": "Dia 6 · Perguntas 31–36"
+        }
+      },
+      {
+        "first": 37,
+        "last": 42,
+        "title": {
+          "en-US": "Day 7 · Questions 37–42",
+          "pt-BR": "Dia 7 · Perguntas 37–42"
+        }
+      },
+      {
+        "first": 43,
+        "last": 48,
+        "title": {
+          "en-US": "Day 8 · Questions 43–48",
+          "pt-BR": "Dia 8 · Perguntas 43–48"
+        }
+      },
+      {
+        "first": 49,
+        "last": 54,
+        "title": {
+          "en-US": "Day 9 · Questions 49–54",
+          "pt-BR": "Dia 9 · Perguntas 49–54"
+        }
+      },
+      {
+        "first": 55,
+        "last": 60,
+        "title": {
+          "en-US": "Day 10 · Questions 55–60",
+          "pt-BR": "Dia 10 · Perguntas 55–60"
+        }
+      },
+      {
+        "first": 61,
+        "last": 66,
+        "title": {
+          "en-US": "Day 11 · Questions 61–66",
+          "pt-BR": "Dia 11 · Perguntas 61–66"
+        }
+      },
+      {
+        "first": 67,
+        "last": 72,
+        "title": {
+          "en-US": "Day 12 · Questions 67–72",
+          "pt-BR": "Dia 12 · Perguntas 67–72"
+        }
+      },
+      {
+        "first": 73,
+        "last": 78,
+        "title": {
+          "en-US": "Day 13 · Questions 73–78",
+          "pt-BR": "Dia 13 · Perguntas 73–78"
+        }
+      },
+      {
+        "first": 79,
+        "last": 84,
+        "title": {
+          "en-US": "Day 14 · Questions 79–84",
+          "pt-BR": "Dia 14 · Perguntas 79–84"
+        }
+      },
+      {
+        "first": 85,
+        "last": 90,
+        "title": {
+          "en-US": "Day 15 · Questions 85–90",
+          "pt-BR": "Dia 15 · Perguntas 85–90"
+        }
+      },
+      {
+        "first": 91,
+        "last": 96,
+        "title": {
+          "en-US": "Day 16 · Questions 91–96",
+          "pt-BR": "Dia 16 · Perguntas 91–96"
+        }
+      },
+      {
+        "first": 97,
+        "last": 102,
+        "title": {
+          "en-US": "Day 17 · Questions 97–102",
+          "pt-BR": "Dia 17 · Perguntas 97–102"
+        }
+      },
+      {
+        "first": 103,
+        "last": 108,
+        "title": {
+          "en-US": "Day 18 · Questions 103–108",
+          "pt-BR": "Dia 18 · Perguntas 103–108"
+        }
+      },
+      {
+        "first": 109,
+        "last": 114,
+        "title": {
+          "en-US": "Day 19 · Questions 109–114",
+          "pt-BR": "Dia 19 · Perguntas 109–114"
+        }
+      },
+      {
+        "first": 115,
+        "last": 120,
+        "title": {
+          "en-US": "Day 20 · Questions 115–120",
+          "pt-BR": "Dia 20 · Perguntas 115–120"
+        }
+      },
+      {
+        "first": 121,
+        "last": 126,
+        "title": {
+          "en-US": "Day 21 · Questions 121–126",
+          "pt-BR": "Dia 21 · Perguntas 121–126"
+        }
+      },
+      {
+        "first": 127,
+        "last": 132,
+        "title": {
+          "en-US": "Day 22 · Questions 127–132",
+          "pt-BR": "Dia 22 · Perguntas 127–132"
+        }
+      },
+      {
+        "first": 133,
+        "last": 138,
+        "title": {
+          "en-US": "Day 23 · Questions 133–138",
+          "pt-BR": "Dia 23 · Perguntas 133–138"
+        }
+      },
+      {
+        "first": 139,
+        "last": 144,
+        "title": {
+          "en-US": "Day 24 · Questions 139–144",
+          "pt-BR": "Dia 24 · Perguntas 139–144"
+        }
+      },
+      {
+        "first": 145,
+        "last": 150,
+        "title": {
+          "en-US": "Day 25 · Questions 145–150",
+          "pt-BR": "Dia 25 · Perguntas 145–150"
+        }
+      },
+      {
+        "first": 151,
+        "last": 156,
+        "title": {
+          "en-US": "Day 26 · Questions 151–156",
+          "pt-BR": "Dia 26 · Perguntas 151–156"
+        }
+      },
+      {
+        "first": 157,
+        "last": 162,
+        "title": {
+          "en-US": "Day 27 · Questions 157–162",
+          "pt-BR": "Dia 27 · Perguntas 157–162"
+        }
+      },
+      {
+        "first": 163,
+        "last": 168,
+        "title": {
+          "en-US": "Day 28 · Questions 163–168",
+          "pt-BR": "Dia 28 · Perguntas 163–168"
+        }
+      },
+      {
+        "first": 169,
+        "last": 174,
+        "title": {
+          "en-US": "Day 29 · Questions 169–174",
+          "pt-BR": "Dia 29 · Perguntas 169–174"
+        }
+      },
+      {
+        "first": 175,
+        "last": 180,
+        "title": {
+          "en-US": "Day 30 · Questions 175–180",
+          "pt-BR": "Dia 30 · Perguntas 175–180"
+        }
+      },
+      {
+        "first": 181,
+        "last": 186,
+        "title": {
+          "en-US": "Day 31 · Questions 181–186",
+          "pt-BR": "Dia 31 · Perguntas 181–186"
+        }
+      },
+      {
+        "first": 187,
+        "last": 192,
+        "title": {
+          "en-US": "Day 32 · Questions 187–192",
+          "pt-BR": "Dia 32 · Perguntas 187–192"
+        }
+      },
+      {
+        "first": 193,
+        "last": 198,
+        "title": {
+          "en-US": "Day 33 · Questions 193–198",
+          "pt-BR": "Dia 33 · Perguntas 193–198"
+        }
+      },
+      {
+        "first": 199,
+        "last": 204,
+        "title": {
+          "en-US": "Day 34 · Questions 199–204",
+          "pt-BR": "Dia 34 · Perguntas 199–204"
+        }
+      },
+      {
+        "first": 205,
+        "last": 210,
+        "title": {
+          "en-US": "Day 35 · Questions 205–210",
+          "pt-BR": "Dia 35 · Perguntas 205–210"
+        }
+      },
+      {
+        "first": 211,
+        "last": 216,
+        "title": {
+          "en-US": "Day 36 · Questions 211–216",
+          "pt-BR": "Dia 36 · Perguntas 211–216"
+        }
+      },
+      {
+        "first": 217,
+        "last": 222,
+        "title": {
+          "en-US": "Day 37 · Questions 217–222",
+          "pt-BR": "Dia 37 · Perguntas 217–222"
+        }
+      },
+      {
+        "first": 223,
+        "last": 228,
+        "title": {
+          "en-US": "Day 38 · Questions 223–228",
+          "pt-BR": "Dia 38 · Perguntas 223–228"
+        }
+      },
+      {
+        "first": 229,
+        "last": 234,
+        "title": {
+          "en-US": "Day 39 · Questions 229–234",
+          "pt-BR": "Dia 39 · Perguntas 229–234"
+        }
+      },
+      {
+        "first": 235,
+        "last": 240,
+        "title": {
+          "en-US": "Day 40 · Questions 235–240",
+          "pt-BR": "Dia 40 · Perguntas 235–240"
+        }
+      },
+      {
+        "first": 241,
+        "last": 246,
+        "title": {
+          "en-US": "Day 41 · Questions 241–246",
+          "pt-BR": "Dia 41 · Perguntas 241–246"
+        }
+      },
+      {
+        "first": 247,
+        "last": 252,
+        "title": {
+          "en-US": "Day 42 · Questions 247–252",
+          "pt-BR": "Dia 42 · Perguntas 247–252"
+        }
+      },
+      {
+        "first": 253,
+        "last": 258,
+        "title": {
+          "en-US": "Day 43 · Questions 253–258",
+          "pt-BR": "Dia 43 · Perguntas 253–258"
+        }
+      },
+      {
+        "first": 259,
+        "last": 264,
+        "title": {
+          "en-US": "Day 44 · Questions 259–264",
+          "pt-BR": "Dia 44 · Perguntas 259–264"
+        }
+      },
+      {
+        "first": 265,
+        "last": 270,
+        "title": {
+          "en-US": "Day 45 · Questions 265–270",
+          "pt-BR": "Dia 45 · Perguntas 265–270"
+        }
+      },
+      {
+        "first": 271,
+        "last": 276,
+        "title": {
+          "en-US": "Day 46 · Questions 271–276",
+          "pt-BR": "Dia 46 · Perguntas 271–276"
+        }
+      },
+      {
+        "first": 277,
+        "last": 282,
+        "title": {
+          "en-US": "Day 47 · Questions 277–282",
+          "pt-BR": "Dia 47 · Perguntas 277–282"
+        }
+      },
+      {
+        "first": 283,
+        "last": 288,
+        "title": {
+          "en-US": "Day 48 · Questions 283–288",
+          "pt-BR": "Dia 48 · Perguntas 283–288"
+        }
+      },
+      {
+        "first": 289,
+        "last": 294,
+        "title": {
+          "en-US": "Day 49 · Questions 289–294",
+          "pt-BR": "Dia 49 · Perguntas 289–294"
+        }
+      },
+      {
+        "first": 295,
+        "last": 300,
+        "title": {
+          "en-US": "Day 50 · Questions 295–300",
+          "pt-BR": "Dia 50 · Perguntas 295–300"
+        }
+      },
+      {
+        "first": 301,
+        "last": 306,
+        "title": {
+          "en-US": "Day 51 · Questions 301–306",
+          "pt-BR": "Dia 51 · Perguntas 301–306"
+        }
+      },
+      {
+        "first": 307,
+        "last": 312,
+        "title": {
+          "en-US": "Day 52 · Questions 307–312",
+          "pt-BR": "Dia 52 · Perguntas 307–312"
+        }
+      },
+      {
+        "first": 313,
+        "last": 318,
+        "title": {
+          "en-US": "Day 53 · Questions 313–318",
+          "pt-BR": "Dia 53 · Perguntas 313–318"
+        }
+      },
+      {
+        "first": 319,
+        "last": 324,
+        "title": {
+          "en-US": "Day 54 · Questions 319–324",
+          "pt-BR": "Dia 54 · Perguntas 319–324"
+        }
+      },
+      {
+        "first": 325,
+        "last": 330,
+        "title": {
+          "en-US": "Day 55 · Questions 325–330",
+          "pt-BR": "Dia 55 · Perguntas 325–330"
+        }
+      },
+      {
+        "first": 331,
+        "last": 336,
+        "title": {
+          "en-US": "Day 56 · Questions 331–336",
+          "pt-BR": "Dia 56 · Perguntas 331–336"
+        }
+      },
+      {
+        "first": 337,
+        "last": 342,
+        "title": {
+          "en-US": "Day 57 · Questions 337–342",
+          "pt-BR": "Dia 57 · Perguntas 337–342"
+        }
+      },
+      {
+        "first": 343,
+        "last": 348,
+        "title": {
+          "en-US": "Day 58 · Questions 343–348",
+          "pt-BR": "Dia 58 · Perguntas 343–348"
+        }
+      },
+      {
+        "first": 349,
+        "last": 354,
+        "title": {
+          "en-US": "Day 59 · Questions 349–354",
+          "pt-BR": "Dia 59 · Perguntas 349–354"
+        }
+      },
+      {
+        "first": 355,
+        "last": 360,
+        "title": {
+          "en-US": "Day 60 · Questions 355–360",
+          "pt-BR": "Dia 60 · Perguntas 355–360"
+        }
+      },
+      {
+        "first": 361,
+        "last": 366,
+        "title": {
+          "en-US": "Day 61 · Questions 361–366",
+          "pt-BR": "Dia 61 · Perguntas 361–366"
+        }
+      },
+      {
+        "first": 367,
+        "last": 372,
+        "title": {
+          "en-US": "Day 62 · Questions 367–372",
+          "pt-BR": "Dia 62 · Perguntas 367–372"
+        }
+      },
+      {
+        "first": 373,
+        "last": 378,
+        "title": {
+          "en-US": "Day 63 · Questions 373–378",
+          "pt-BR": "Dia 63 · Perguntas 373–378"
+        }
+      },
+      {
+        "first": 379,
+        "last": 384,
+        "title": {
+          "en-US": "Day 64 · Questions 379–384",
+          "pt-BR": "Dia 64 · Perguntas 379–384"
+        }
+      },
+      {
+        "first": 385,
+        "last": 390,
+        "title": {
+          "en-US": "Day 65 · Questions 385–390",
+          "pt-BR": "Dia 65 · Perguntas 385–390"
+        }
+      },
+      {
+        "first": 391,
+        "last": 396,
+        "title": {
+          "en-US": "Day 66 · Questions 391–396",
+          "pt-BR": "Dia 66 · Perguntas 391–396"
+        }
+      },
+      {
+        "first": 397,
+        "last": 402,
+        "title": {
+          "en-US": "Day 67 · Questions 397–402",
+          "pt-BR": "Dia 67 · Perguntas 397–402"
+        }
+      },
+      {
+        "first": 403,
+        "last": 408,
+        "title": {
+          "en-US": "Day 68 · Questions 403–408",
+          "pt-BR": "Dia 68 · Perguntas 403–408"
+        }
+      },
+      {
+        "first": 409,
+        "last": 414,
+        "title": {
+          "en-US": "Day 69 · Questions 409–414",
+          "pt-BR": "Dia 69 · Perguntas 409–414"
+        }
+      },
+      {
+        "first": 415,
+        "last": 420,
+        "title": {
+          "en-US": "Day 70 · Questions 415–420",
+          "pt-BR": "Dia 70 · Perguntas 415–420"
+        }
+      },
+      {
+        "first": 421,
+        "last": 426,
+        "title": {
+          "en-US": "Day 71 · Questions 421–426",
+          "pt-BR": "Dia 71 · Perguntas 421–426"
+        }
+      },
+      {
+        "first": 427,
+        "last": 432,
+        "title": {
+          "en-US": "Day 72 · Questions 427–432",
+          "pt-BR": "Dia 72 · Perguntas 427–432"
+        }
+      },
+      {
+        "first": 433,
+        "last": 438,
+        "title": {
+          "en-US": "Day 73 · Questions 433–438",
+          "pt-BR": "Dia 73 · Perguntas 433–438"
+        }
+      },
+      {
+        "first": 439,
+        "last": 444,
+        "title": {
+          "en-US": "Day 74 · Questions 439–444",
+          "pt-BR": "Dia 74 · Perguntas 439–444"
+        }
+      },
+      {
+        "first": 445,
+        "last": 450,
+        "title": {
+          "en-US": "Day 75 · Questions 445–450",
+          "pt-BR": "Dia 75 · Perguntas 445–450"
+        }
+      },
+      {
+        "first": 451,
+        "last": 456,
+        "title": {
+          "en-US": "Day 76 · Questions 451–456",
+          "pt-BR": "Dia 76 · Perguntas 451–456"
+        }
+      },
+      {
+        "first": 457,
+        "last": 462,
+        "title": {
+          "en-US": "Day 77 · Questions 457–462",
+          "pt-BR": "Dia 77 · Perguntas 457–462"
+        }
+      },
+      {
+        "first": 463,
+        "last": 468,
+        "title": {
+          "en-US": "Day 78 · Questions 463–468",
+          "pt-BR": "Dia 78 · Perguntas 463–468"
+        }
+      },
+      {
+        "first": 469,
+        "last": 474,
+        "title": {
+          "en-US": "Day 79 · Questions 469–474",
+          "pt-BR": "Dia 79 · Perguntas 469–474"
+        }
+      },
+      {
+        "first": 475,
+        "last": 480,
+        "title": {
+          "en-US": "Day 80 · Questions 475–480",
+          "pt-BR": "Dia 80 · Perguntas 475–480"
+        }
+      },
+      {
+        "first": 481,
+        "last": 486,
+        "title": {
+          "en-US": "Day 81 · Questions 481–486",
+          "pt-BR": "Dia 81 · Perguntas 481–486"
+        }
+      },
+      {
+        "first": 487,
+        "last": 492,
+        "title": {
+          "en-US": "Day 82 · Questions 487–492",
+          "pt-BR": "Dia 82 · Perguntas 487–492"
+        }
+      },
+      {
+        "first": 493,
+        "last": 498,
+        "title": {
+          "en-US": "Day 83 · Questions 493–498",
+          "pt-BR": "Dia 83 · Perguntas 493–498"
+        }
+      },
+      {
+        "first": 499,
+        "last": 504,
+        "title": {
+          "en-US": "Day 84 · Questions 499–504",
+          "pt-BR": "Dia 84 · Perguntas 499–504"
+        }
+      },
+      {
+        "first": 505,
+        "last": 510,
+        "title": {
+          "en-US": "Day 85 · Questions 505–510",
+          "pt-BR": "Dia 85 · Perguntas 505–510"
+        }
+      },
+      {
+        "first": 511,
+        "last": 516,
+        "title": {
+          "en-US": "Day 86 · Questions 511–516",
+          "pt-BR": "Dia 86 · Perguntas 511–516"
+        }
+      },
+      {
+        "first": 517,
+        "last": 522,
+        "title": {
+          "en-US": "Day 87 · Questions 517–522",
+          "pt-BR": "Dia 87 · Perguntas 517–522"
+        }
+      },
+      {
+        "first": 523,
+        "last": 528,
+        "title": {
+          "en-US": "Day 88 · Questions 523–528",
+          "pt-BR": "Dia 88 · Perguntas 523–528"
+        }
+      },
+      {
+        "first": 529,
+        "last": 534,
+        "title": {
+          "en-US": "Day 89 · Questions 529–534",
+          "pt-BR": "Dia 89 · Perguntas 529–534"
+        }
+      },
+      {
+        "first": 535,
+        "last": 540,
+        "title": {
+          "en-US": "Day 90 · Questions 535–540",
+          "pt-BR": "Dia 90 · Perguntas 535–540"
+        }
+      },
+      {
+        "first": 541,
+        "last": 546,
+        "title": {
+          "en-US": "Day 91 · Questions 541–546",
+          "pt-BR": "Dia 91 · Perguntas 541–546"
+        }
+      },
+      {
+        "first": 547,
+        "last": 552,
+        "title": {
+          "en-US": "Day 92 · Questions 547–552",
+          "pt-BR": "Dia 92 · Perguntas 547–552"
+        }
+      },
+      {
+        "first": 553,
+        "last": 558,
+        "title": {
+          "en-US": "Day 93 · Questions 553–558",
+          "pt-BR": "Dia 93 · Perguntas 553–558"
+        }
+      },
+      {
+        "first": 559,
+        "last": 564,
+        "title": {
+          "en-US": "Day 94 · Questions 559–564",
+          "pt-BR": "Dia 94 · Perguntas 559–564"
+        }
+      },
+      {
+        "first": 565,
+        "last": 570,
+        "title": {
+          "en-US": "Day 95 · Questions 565–570",
+          "pt-BR": "Dia 95 · Perguntas 565–570"
+        }
+      },
+      {
+        "first": 571,
+        "last": 576,
+        "title": {
+          "en-US": "Day 96 · Questions 571–576",
+          "pt-BR": "Dia 96 · Perguntas 571–576"
+        }
+      },
+      {
+        "first": 577,
+        "last": 582,
+        "title": {
+          "en-US": "Day 97 · Questions 577–582",
+          "pt-BR": "Dia 97 · Perguntas 577–582"
+        }
+      },
+      {
+        "first": 583,
+        "last": 588,
+        "title": {
+          "en-US": "Day 98 · Questions 583–588",
+          "pt-BR": "Dia 98 · Perguntas 583–588"
+        }
+      },
+      {
+        "first": 589,
+        "last": 594,
+        "title": {
+          "en-US": "Day 99 · Questions 589–594",
+          "pt-BR": "Dia 99 · Perguntas 589–594"
+        }
+      },
+      {
+        "first": 595,
+        "last": 598,
+        "title": {
+          "en-US": "Day 100 · Questions 595–598",
+          "pt-BR": "Dia 100 · Perguntas 595–598"
+        }
+      }
+    ]
+  }
+}

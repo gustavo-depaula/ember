@@ -128,10 +128,17 @@ export type FlowSection = { lang?: string } & (
       from: string
       sections: FlowSection[]
     }
-  | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
-  | { type: 'psalmody'; psalms: (number | string)[] }
+  | { type: 'cycle'; data: string; sections: FlowSection[] }
   | { type: 'lectio'; track: string }
   | { type: 'lectio'; reference: string }
+  | {
+      // Generic extension point: invoke a registered content producer at
+      // render time. The flow engine passes it through unchanged — async
+      // resolution lives in the renderer (TanStack Query keyed by ref).
+      type: 'include'
+      ref: string
+      params?: Record<string, unknown>
+    }
   | { type: 'prose'; file: string }
   | {
       type: 'prose'
@@ -374,8 +381,7 @@ export type RenderedSection =
       selectedId: string
       options: { id: string; label: BilingualText; sections: RenderedSection[] }[]
     }
-  | { type: 'psalmody'; psalms: PsalmRef[] }
-  | { type: 'reading'; reference: ReadingReference; trackId?: string }
+  | { type: 'include'; ref: string; params?: Record<string, unknown>; trackId?: string }
   | { type: 'prose'; text: BilingualText }
   | {
       type: 'gallery'

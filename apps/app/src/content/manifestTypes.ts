@@ -152,6 +152,11 @@ export type TocNode = {
   children?: TocNode[]
 }
 
+// Bundled chapters point at a content-addressed blob in Hearth; external-book
+// chapters defer fetching to the referenced producer at runtime. Discriminate
+// on `'url' in ref` — bundled refs keep their existing shape unchanged.
+export type ChapterRef = (BlobRef & { format?: 'html' }) | { type: 'external'; url: string }
+
 export type BookEntry = {
   id: string
   name: LocalizedText
@@ -162,8 +167,15 @@ export type BookEntry = {
   toc?: TocNode[]
   image?: string
   style?: BlobRef
-  chapters: Record<string, Record<string, BlobRef & { format?: 'html' }>>
+  chapters: Record<string, Record<string, ChapterRef>>
   images?: { rel: string; hash: string; size: number; mime: string }[]
+  // External books fetch chapters from a third-party site at runtime via a
+  // named producer. Presence flips the runtime loader path.
+  source?: { type: 'external'; producer: string; homepage: string }
+  // Anchor → chapter index. Lets `book/<id>#<anchor>` resolve directly to a
+  // chapter without scanning. Producers can compute this implicitly when URL
+  // structure encodes anchors; bundled books emit it from heading ids.
+  anchors?: Record<string, { chapter: string }>
 }
 
 export type LangSplitItemManifest = {

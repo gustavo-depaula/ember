@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "guadalupe-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

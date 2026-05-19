@@ -162,6 +162,22 @@ function StackScreen(_props: Record<string, unknown>) {
 StackComponent.Screen = StackScreen
 export const Stack = StackComponent
 
+// Link — renders children inline; `asChild` is honored (we just pass through).
+// Link.AppleZoom is the iOS dev-build zoom-transition wrapper, also a
+// pass-through in tests.
+type LinkProps = { children?: ReactNode; href?: string; onPress?: () => void } & Record<
+  string,
+  unknown
+>
+function LinkComponent({ children }: LinkProps) {
+  return <Fragment>{children}</Fragment>
+}
+function LinkAppleZoom({ children }: { children?: ReactNode }) {
+  return <Fragment>{children}</Fragment>
+}
+LinkComponent.AppleZoom = LinkAppleZoom
+export const Link = LinkComponent
+
 // The harness — renders whatever screen the current path resolves to.
 export function RouterOutlet() {
   const path = useSyncExternalStore(

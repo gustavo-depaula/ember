@@ -38,7 +38,6 @@
     {
       "type": "cycle",
       "data": "anthony-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",

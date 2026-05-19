@@ -24,7 +24,16 @@ export function substituteTemplateVars(text: string, vars: Record<string, unknow
 }
 
 export function deepSubstitute(obj: unknown, vars: Record<string, unknown>): unknown {
-  if (typeof obj === 'string') return substituteTemplateVars(obj, vars)
+  if (typeof obj === 'string') {
+    // Whole-string `{{path}}` returns the raw value — lets includes pass
+    // arrays/objects through (e.g. `params: { psalms: "{{psalms}}" }`).
+    const whole = obj.match(/^\{\{([\w.]+)\}\}$/)
+    if (whole?.[1]) {
+      const value = walkVarPath(vars, whole[1])
+      return value !== undefined ? value : obj
+    }
+    return substituteTemplateVars(obj, vars)
+  }
   if (Array.isArray(obj)) return obj.map((item) => deepSubstitute(item, vars))
   if (obj !== null && typeof obj === 'object') {
     const result: Record<string, unknown> = {}

@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "type": "rubric",
+      "text": {
+        "en-US": "From the Compendium of the Catechism of the Catholic Church",
+        "pt-BR": "Do Compêndio do Catecismo da Igreja Católica"
+      }
+    },
+    {
+      "type": "cycle",
+      "data": "compendium-days",
+      "sections": [
+        {
+          "type": "subheading",
+          "text": "{{title}}"
+        },
+        {
+          "type": "include",
+          "ref": "producer/ccc-compendium",
+          "params": {
+            "first": "{{first}}",
+            "last": "{{last}}"
+          }
+        }
+      ]
+    }
+  ]
+}

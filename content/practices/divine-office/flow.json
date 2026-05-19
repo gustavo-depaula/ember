@@ -44,9 +44,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -61,8 +59,15 @@
             {
               "type": "cycle",
               "data": "psalter-30-day",
-              "key": "morning",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{morning.psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
@@ -138,9 +143,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -155,8 +158,15 @@
             {
               "type": "cycle",
               "data": "psalter-30-day",
-              "key": "evening",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{evening.psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
@@ -232,9 +242,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "compline",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -249,7 +257,15 @@
             {
               "type": "cycle",
               "data": "compline-psalms",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
