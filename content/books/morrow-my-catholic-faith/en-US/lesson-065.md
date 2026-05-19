@@ -7,7 +7,35 @@
 
 The pages of history are filled with the names of Catholics outstanding in literature, science, art, progress, and learning of every description. The following is only a partial list of those who were known alike for their devotion to the Catholic Faith and their contributions to art and science.
 
-Astronomy: Cassini, Clavius, Copernicus, Mascagni, Mozart, Palestrina, Perosi, Verdi. DeVico, Galileo, Gassendi, La Place, Piazzi, Medicine: Avenbrugger, Columbus, De Secchi, Wallingfurt. Chauliac, Fabricius, Lancist, Morgagni, Biology: Bernard, Carnoy, Detussien, Fabre, Muller, Murphy, Pasteur, Santo rio, La tr elle, O'Dwyer, Schwann, Windle. Theodoric, Vesalius. Botany: Cesalpinus, Mendel, Charles and Navigation and Exploration: Balboa, Louis Tulasne. Butler, Cabot, Columbus, De So to, Cortes, Chemistry: Agricola, Becquerel, Chevreul, Durer, Hennepin, Magellan, Marco Polo, Despretz, Dumas, Hauy, Lavoisier, Paracelsus, Marquette, Orellana, Ponce de Leon, Santa Pasteur, Schwarz, Valentine, Van Helmont. Cruz. Electricity: Ampere, Carre, Casselli, Painting and Sculpture: Fra Angelico, Ce robot ani, Coulomb, Faucault, Galvani, Bernini, Canova, Correggio, Giotto, Glynn, Gordon, Gramme, Nollet, Marconi, Leonardo da Vinci, Michelangelo, Murillo, Plante, Volta. Raphael, Rubens, Andrea del Sarto, Titian, Geology: Coll on a, De lau ny, Harey, Muller, Velasquez. Spada, Stensen. Physics: Babinet, Bacon, Biot, Dulong, Mathematics: Borgo, Boscovitch, Cauchy, Fresnel, Fizeau, Grimaldi, Malus, Mollet, Charles, Ferrari, Monge, Pla nudes, Sestini, Plateau, Regnalt, Schwann, Zamboni. Viet a. Printing: Guttenberg, Mergenthaler. Mechanics: Boselli, Burke, Castelli, Warfare: Barry, Castellan, Foch, Joffre, Charpentier, Jouffrey, Mariotte, Pascal. Peta in, Sobieski. Music: Bellini, Elgar, Gounod, Haydn,
+**Astronomy:** Cassini, Clavius, Copernicus, DeVico, Galileo, Gassendi, La Place, Piazzi, Secchi, Wallingfurt.
+
+**Biology:** Bernard, Carnoy, Detussien, Fabre, Latrelle, O'Dwyer, Schwann, Windle.
+
+**Botany:** Cesalpinus, Mendel, Charles and Louis Tulasne.
+
+**Chemistry:** Agricola, Becquerel, Chevreul, Despretz, Dumas, Hauy, Lavoisier, Paracelsus, Pasteur, Schwarz, Valentine, Van Helmont.
+
+**Electricity:** Ampere, Carre, Casselli, Cerobotani, Coulomb, Faucault, Galvani, Glynn, Gordon, Gramme, Nollet, Marconi, Plante, Volta.
+
+**Geology:** Collona, Delauny, Harey, Muller, Spada, Stensen.
+
+**Mathematics:** Borgo, Boscovitch, Cauchy, Charles, Ferrari, Monge, Planudes, Sestini, Vieta.
+
+**Mechanics:** Boselli, Burke, Castelli, Charpentier, Jouffrey, Mariotte, Pascal.
+
+**Medicine:** Avenbrugger, Columbus, De Chauliac, Fabricius, Lancist, Morgagni, Muller, Murphy, Pasteur, Santorio, Theodoric, Vesalius.
+
+**Music:** Bellini, Elgar, Gounod, Haydn, Mascagni, Mozart, Palestrina, Perosi, Verdi.
+
+**Navigation and Exploration:** Balboa, Butler, Cabot, Columbus, De Soto, Cortes, Durer, Hennepin, Magellan, Marco Polo, Marquette, Orellana, Ponce de Leon, Santa Cruz.
+
+**Painting and Sculpture:** Fra Angelico, Bernini, Canova, Correggio, Giotto, Leonardo da Vinci, Michelangelo, Murillo, Raphael, Rubens, Andrea del Sarto, Titian, Velasquez.
+
+**Physics:** Babinet, Bacon, Biot, Dulong, Fresnel, Fizeau, Grimaldi, Malus, Mollet, Plateau, Regnalt, Schwann, Zamboni.
+
+**Printing:** Guttenberg, Mergenthaler.
+
+**Warfare:** Barry, Castellan, Foch, Joffre, Petain, Sobieski.
 
 
 **Of what benefit is the Church to the State?**
@@ -62,4 +90,272 @@ Astronomy: Cassini, Clavius, Copernicus, Mascagni, Mozart, Palestrina, Perosi, V
 
 ## Popes of the Catholic Church
 
-St. Peter 67 St. Boniface IV 615 Benedict VI St. De usd edit Benedict VII St. Linus, m. 76 (A de oda tus I) 618 John XIV St. A nac let us (Cletus), m. 88 Boniface V 625 John XV St Clement I, m. 97 Honorius I 638 Gregory V Severin us 640 Sylvester II St Evaristus, m. 105 John IV 642 John XVII St Alexander I, m. 115 St. Sixtus I, m. 125 Theodore I 649 John XVIII St. Martin I, m. 655 Sergius IV St. Telesphorus, m. 136 St. Eugene I 657 Benedict VIII St Hyginus, m. 140 St Pius I, m. 155 St. Vitalian 672 John XIX St. Anicetus, m. 166 A de oda tus II 676 Benedict IX Don us I 678 St Soter us, m 175 St. Aga tho 681 Sylvester III St. Eleutherius, m. 189 St. Victor I, m. 199 St. Leo II 683 Benedict IX St. Benedict II 685 St. Zephyr in us, m. 217 John V 686 Gregory VI St. Call is tus I, m. 222 St. Urban I, m. 230 Con on 687 Clement II St. Pontian, m. 235 St. Sergius I 701 Benedict IX John VI 705 St. Ante rus, m. 236 John VII 707 Damasus II St. Fabian, m. 250 St. Cornelius, m. 253 Sisinnius 708 St. Leo IX Constantine 715 Victor II St. Lucius I, m. 254 St. Gregory II 731 Stephen X St. Stephen I, m. 257 St. Sixtus II, m. 258 St. Gregory III 741 Nicholas II St. Dionysius 268 St. Zachary 752 Alexander II Stephen II 752 St. Gregory VII St. Felix I, m. 274 Stephen III 757 Bl. Victor III St. Eu ty chi an, m. 283 St. Caius, m 296 St. Paul I 767 Bl. Urban II Stephen IV 772 Paschal II St. Marcellinus, m. 304 Adrian I 795 Gel as ius II St. Marcellus I, m. 309 St. Eusebius, m. 309 St. Leo III 816 Call is tus II St. Mel chia des, m. 314 Stephen V 817 Honorius II St. Paschal I 824 Innocent II St. Sylvester I 335 Eugene II 827 Celestine II St. Mark 336 St. Julius I 352 Valentine 827 Lucius II Gregory IV 844 Bl. Eugene III Liberius 366 Sergius II 847 Anastasius IV St. Damasus I 384 St. Sir ici us 399 St. Leo IV 855 Adrian IV St. Anastasius I 401 Benedict III 858 Alexander III St. Nicholas I 867 Lucius III St. Innocent I 417 Adrian II 872 Urban III St. Zo zim us 418 St. Boniface I 422 John VIII 882 Gregory VIII Marinus I 884 Clement III St. Celestine I 432 St. Adrian III 885 Celestine III St. Sixtus III 440 St. Leo I (the Great) 461 Stephen VI 891 Innocent III St. Hilary 468 For mos us 896 Honorius III Boniface VI 896 Gregory IX St. Sim pl ici us 483 Stephen VII 897 Celestine IV St. Felix III (II) 492 St. Gel as ius I 496 Romanus 897 Innocent IV Theodore II 897 Alexander IV Anastasius II 498 John IX 900 Urban IV St. Symmachus 514 St. Hormisdas 523 Benedict IV 903 Clement IV St. John I, m 526 Leo V 903 Bl. Gregory X Sergius III 911 Bl. Innocent V St. Felix IV (III) 530 Anastasius III 913 Adrian V Boniface II 532 John II 535 Land us 914 John XXI John X 928 Nicholas III St. A gap it us I 536 Leo VI 928 Martin IV St. Silverius, m. 537 Vigilius 655 Stephen VIII 931 Honorius IV Pelagius I 561 John XI 935 Nicholas IV Leo VII 939 St. Celestine V John III 574 Stephen IX 942 Boniface VIII Benedict I 579 Pelagius II 590 Marinus II 946 Bl. Benedict XI A gap it us II 955 Clement V St. Gregory I John XII 964 John XXII (the Great) 604 Sab in i anus 606 Leo VIII 965 Benedict XII Boniface III 607 Benedict V 966 Clement VI John XIII 972 Innocent VI 974 Bl. Urban V 1370 983 Gregory XI 1378 984 Urban VI 1389 996 Boniface IX 1404 999 Innocent VII 1406 1003 Gregory XII 1415 1003 Martin V 1431 1009 Eugene IV 1447 1012 Nicholas V 1455 1024 Call is tus III 1458 1032 Pius II 1464 Paul II 1471 (1st reign) 1044 Sixtus IV 1484 1045 Innocent VIII 1492 Alexander VI 1503 (2nd reign) 1045 Pius III 1503 1046 Julius II 1513 1047 Leo X 1521 Adrian VI 1523 (3rd reign) 1048 Clement VII 1534 1048 Paul III 1549 1054 Julius III 1555 1057 Marcellus II 1555 1058 Paul IV 1559 1061 Pius IV 1565 1073 St. Pius V 1572 1085 Gregory XIII 1585 1087 Sixtus V 1590 1099 Urban VII 1590 1118 Gregory XIV 1591 1119 Innocent IX 1591 1124 Clement VIII 1605 1130 Leo XI 1605 1143 Paul V 1621 1144 Gregory XV 1623 1145 Urban VIII 1644 1153 Innocent X 1655 1154 Alexander VII 1667 1159 Clement IX 1669 1181 Clement X 1676 1185 Innocent XI 1689 1187 Alexander VIII 1691 1187 Innocent XII 1700 1191 Clement XI 1721 1198 Innocent XIII 1724 1216 Benedict XIII 1730 1227 Clement XII 1740 1241 Benedict XIV 1758 1241 Clement XIII 1769 1254 Clement XIV 1774 1261 Pius VI 1799 1264 Pius VII 1823 1268 Leo XII 1829 1276 Pius VIII 1830 1276 Gregory XVI 1846 1276 Pius IX 1878 1277 Leo XIII 1903 1280 St. Pius X 1914 1285 Benedict XV 1922 1287 Pius XI 1939 1292 Pius XII 1958 1294 John XXIII 1963 1303 Paul VI 1978 1304 John Paul I 1978 1314 John Paul II 2005 1334 Benedict XVI resigned 2013 1342 Francis 1352 1362
+(With approximate year ended; "m." = martyr.)
+
+- St. Peter — 67
+- St. Linus, m. — 76
+- St. Anacletus (Cletus), m. — 88
+- St. Clement I, m. — 97
+- St. Evaristus, m. — 105
+- St. Alexander I, m. — 115
+- St. Sixtus I, m. — 125
+- St. Telesphorus, m. — 136
+- St. Hyginus, m. — 140
+- St. Pius I, m. — 155
+- St. Anicetus, m. — 166
+- St. Soterus, m. — 175
+- St. Eleutherius, m. — 189
+- St. Victor I, m. — 199
+- St. Zephyrinus, m. — 217
+- St. Callistus I, m. — 222
+- St. Urban I, m. — 230
+- St. Pontian, m. — 235
+- St. Anterus, m. — 236
+- St. Fabian, m. — 250
+- St. Cornelius, m. — 253
+- St. Lucius I, m. — 254
+- St. Stephen I, m. — 257
+- St. Sixtus II, m. — 258
+- St. Dionysius — 268
+- St. Felix I, m. — 274
+- St. Eutychian, m. — 283
+- St. Caius, m. — 296
+- St. Marcellinus, m. — 304
+- St. Marcellus I, m. — 309
+- St. Eusebius, m. — 309
+- St. Melchiades, m. — 314
+- St. Sylvester I — 335
+- St. Mark — 336
+- St. Julius I — 352
+- Liberius — 366
+- St. Damasus I — 384
+- St. Siricius — 399
+- St. Anastasius I — 401
+- St. Innocent I — 417
+- St. Zozimus — 418
+- St. Boniface I — 422
+- St. Celestine I — 432
+- St. Sixtus III — 440
+- St. Leo I (the Great) — 461
+- St. Hilary — 468
+- St. Simplicius — 483
+- St. Felix III (II) — 492
+- St. Gelasius I — 496
+- Anastasius II — 498
+- St. Symmachus — 514
+- St. Hormisdas — 523
+- St. John I, m. — 526
+- St. Felix IV (III) — 530
+- Boniface II — 532
+- John II — 535
+- St. Agapitus I — 536
+- St. Silverius, m. — 537
+- Vigilius — 555
+- Pelagius I — 561
+- John III — 574
+- Benedict I — 579
+- Pelagius II — 590
+- St. Gregory I (the Great) — 604
+- Sabinianus — 606
+- Boniface III — 607
+- St. Boniface IV — 615
+- St. Deusdedit (Adeodatus I) — 618
+- Boniface V — 625
+- Honorius I — 638
+- Severinus — 640
+- John IV — 642
+- Theodore I — 649
+- St. Martin I, m. — 655
+- St. Eugene I — 657
+- St. Vitalian — 672
+- Adeodatus II — 676
+- Donus I — 678
+- St. Agatho — 681
+- St. Leo II — 683
+- St. Benedict II — 685
+- John V — 686
+- Conon — 687
+- St. Sergius I — 701
+- John VI — 705
+- John VII — 707
+- Sisinnius — 708
+- Constantine — 715
+- St. Gregory II — 731
+- St. Gregory III — 741
+- St. Zachary — 752
+- Stephen II — 752
+- Stephen III — 757
+- St. Paul I — 767
+- Stephen IV — 772
+- Adrian I — 795
+- St. Leo III — 816
+- Stephen V — 817
+- St. Paschal I — 824
+- Eugene II — 827
+- Valentine — 827
+- Gregory IV — 844
+- Sergius II — 847
+- St. Leo IV — 855
+- Benedict III — 858
+- St. Nicholas I — 867
+- Adrian II — 872
+- John VIII — 882
+- Marinus I — 884
+- St. Adrian III — 885
+- Stephen VI — 891
+- Formosus — 896
+- Boniface VI — 896
+- Stephen VII — 897
+- Romanus — 897
+- Theodore II — 897
+- John IX — 900
+- Benedict IV — 903
+- Leo V — 903
+- Sergius III — 911
+- Anastasius III — 913
+- Landus — 914
+- John X — 928
+- Leo VI — 928
+- Stephen VIII — 931
+- John XI — 935
+- Leo VII — 939
+- Stephen IX — 942
+- Marinus II — 946
+- Agapitus II — 955
+- John XII — 964
+- Leo VIII — 965
+- Benedict V — 966
+- John XIII — 972
+- Benedict VI — 974
+- Benedict VII — 983
+- John XIV — 984
+- John XV — 996
+- Gregory V — 999
+- Sylvester II — 1003
+- John XVII — 1003
+- John XVIII — 1009
+- Sergius IV — 1012
+- Benedict VIII — 1024
+- John XIX — 1032
+- Benedict IX (1st reign) — 1044
+- Sylvester III — 1045
+- Benedict IX (2nd reign) — 1045
+- Gregory VI — 1046
+- Clement II — 1047
+- Benedict IX (3rd reign) — 1048
+- Damasus II — 1048
+- St. Leo IX — 1054
+- Victor II — 1057
+- Stephen X — 1058
+- Nicholas II — 1061
+- Alexander II — 1073
+- St. Gregory VII — 1085
+- Bl. Victor III — 1087
+- Bl. Urban II — 1099
+- Paschal II — 1118
+- Gelasius II — 1119
+- Callistus II — 1124
+- Honorius II — 1130
+- Innocent II — 1143
+- Celestine II — 1144
+- Lucius II — 1145
+- Bl. Eugene III — 1153
+- Anastasius IV — 1154
+- Adrian IV — 1159
+- Alexander III — 1181
+- Lucius III — 1185
+- Urban III — 1187
+- Gregory VIII — 1187
+- Clement III — 1191
+- Celestine III — 1198
+- Innocent III — 1216
+- Honorius III — 1227
+- Gregory IX — 1241
+- Celestine IV — 1241
+- Innocent IV — 1254
+- Alexander IV — 1261
+- Urban IV — 1264
+- Clement IV — 1268
+- Bl. Gregory X — 1276
+- Bl. Innocent V — 1276
+- Adrian V — 1276
+- John XXI — 1277
+- Nicholas III — 1280
+- Martin IV — 1285
+- Honorius IV — 1287
+- Nicholas IV — 1292
+- St. Celestine V — 1294
+- Boniface VIII — 1303
+- Bl. Benedict XI — 1304
+- Clement V — 1314
+- John XXII — 1334
+- Benedict XII — 1342
+- Clement VI — 1352
+- Innocent VI — 1362
+- Bl. Urban V — 1370
+- Gregory XI — 1378
+- Urban VI — 1389
+- Boniface IX — 1404
+- Innocent VII — 1406
+- Gregory XII — 1415
+- Martin V — 1431
+- Eugene IV — 1447
+- Nicholas V — 1455
+- Callistus III — 1458
+- Pius II — 1464
+- Paul II — 1471
+- Sixtus IV — 1484
+- Innocent VIII — 1492
+- Alexander VI — 1503
+- Pius III — 1503
+- Julius II — 1513
+- Leo X — 1521
+- Adrian VI — 1523
+- Clement VII — 1534
+- Paul III — 1549
+- Julius III — 1555
+- Marcellus II — 1555
+- Paul IV — 1559
+- Pius IV — 1565
+- St. Pius V — 1572
+- Gregory XIII — 1585
+- Sixtus V — 1590
+- Urban VII — 1590
+- Gregory XIV — 1591
+- Innocent IX — 1591
+- Clement VIII — 1605
+- Leo XI — 1605
+- Paul V — 1621
+- Gregory XV — 1623
+- Urban VIII — 1644
+- Innocent X — 1655
+- Alexander VII — 1667
+- Clement IX — 1669
+- Clement X — 1676
+- Innocent XI — 1689
+- Alexander VIII — 1691
+- Innocent XII — 1700
+- Clement XI — 1721
+- Innocent XIII — 1724
+- Benedict XIII — 1730
+- Clement XII — 1740
+- Benedict XIV — 1758
+- Clement XIII — 1769
+- Clement XIV — 1774
+- Pius VI — 1799
+- Pius VII — 1823
+- Leo XII — 1829
+- Pius VIII — 1830
+- Gregory XVI — 1846
+- Pius IX — 1878
+- Leo XIII — 1903
+- St. Pius X — 1914
+- Benedict XV — 1922
+- Pius XI — 1939
+- Pius XII — 1958
+- St. John XXIII — 1963
+- Bl. Paul VI — 1978
+- John Paul I — 1978
+- St. John Paul II — 2005
+- Benedict XVI — resigned 2013
+- Francis — present
