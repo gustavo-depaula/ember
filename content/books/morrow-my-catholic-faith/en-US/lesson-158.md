@@ -2,7 +2,9 @@
 
 ![](../images/lesson-158.webp)
 
-1. The ceremonies for burial include services in 2. The body of the departed Catholic is borne the church. They vary from the very elaborate to in procession to the cemetery. At a funeral, it is the simplest. Holy water and lighted candles wrong to laugh or converse; we should pray for express our desire to see the departed cleansed and the repose of the departed. A small card of admitted into the kingdom of light. Incense condolences announces a good offering one can symbolizes our wish to have prayers ascend to make to a bereaved family: Holy Masses for the soul departed. God.
+1. The ceremonies for burial include services in the church. They vary from the very elaborate to the simplest. Holy water and lighted candles express our desire to see the departed cleansed and admitted into the kingdom of light. Incense symbolizes our wish to have prayers ascend to God.
+
+2. The body of the departed Catholic is borne in procession to the cemetery. At a funeral, it is wrong to laugh or converse; we should pray for the repose of the soul departed. A small card of condolences announces a good offering one can make to a bereaved family: Holy Masses for the departed.
 
 
 **How should the body of a dead person be prepared for burial?**

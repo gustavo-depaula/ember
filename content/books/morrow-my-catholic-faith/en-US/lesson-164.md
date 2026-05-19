@@ -2,7 +2,9 @@
 
 ![](../images/lesson-164.webp)
 
-1. Every Catholic family should have the Holy 2. Every family should preserve the custom of Family of Nazareth, Jesus, Mary, and Joseph, as having family prayers at some hour of the morning or evening, praying as one, in a unity of their model, and live in holiness and mutual love. worship.
+1. Every Catholic family should have the Holy Family of Nazareth, Jesus, Mary, and Joseph, as their model, and live in holiness and mutual love.
+
+2. Every family should preserve the custom of having family prayers at some hour of the morning or evening, praying as one, in a unity of worship.
 
 
 **What is the chief duty of husband and wife in the married state?**

@@ -36,13 +36,30 @@ A good life is usually an assurance of a happy 2. A wicked life is usually a for
 
 The following is a diagram showing the placing:
 
-> Foot of Bed
+```
+              Foot of Bed
 
-2 1 3 Corporal 8 + 7 4 5 6 1. crucifix 3. candles
+              2   1   3
 
-> Head of Bed
+                Corporal
 
-4. glass of water 5. spoon 6. bottle of holy water 7. folded napkin 8. saucer with six balls of cotton and a small piece of soft bread 3. Upon the priest's arrival, if he is carrying the Blessed Sacrament, we should meet him with a lighted blessed candle, in silence.
+              8   +   7
+
+              4   5   6
+
+              Head of Bed
+```
+
+1. crucifix
+2. candle
+3. candle
+4. glass of water
+5. spoon
+6. bottle of holy water
+7. folded napkin
+8. saucer with six balls of cotton and a small piece of soft bread
+
+3. Upon the priest's arrival, if he is carrying the Blessed Sacrament, we should meet him with a lighted blessed candle, in silence.
 
 > The priest himself brings the corporal, on which he lays the pyx containing the Blessed Sacrament.
 

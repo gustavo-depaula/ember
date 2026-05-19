@@ -4,7 +4,7 @@
 
 Christ taught about the forgiveness of sins in the parable of the Prodigal Son. (1). He instituted the Sacrament of Penance for the forgiveness of sins when He said to the Apostles: (4) "Whose sins you shall forgive, they are forgiven them: and whose sins you shall retain they are retained."
 
-TENTH ARTICLE OF THE APOSTLES' CREED
+## Tenth Article of the Apostles' Creed
 
 
 **What is meant in the Apostles' Creed by "the forgiveness of sins?"**

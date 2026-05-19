@@ -2,7 +2,9 @@
 
 ![](../images/lesson-149.webp)
 
-1. One makes a bad confession who wilfully conceals a mortal sin. Far from being forgiven any of his sins, he thus commits a new mortal sin, sacrilege. If one is ashamed to confess his mortal sins before his ordinary confessor, he is always at liberty to go to another priest, one who does not know him. But by no means must he conceal a mortal sin. "He that hides his sins shall not prosper" (Prov. 28: 13). 2. If we make a good confession, our souls are cleansed, and we are restored to sanctifying grace, to the friendship of God. We also receive actual graces which help us in our struggle against evil.
+1. One makes a bad confession who wilfully conceals a mortal sin. Far from being forgiven any of his sins, he thus commits a new mortal sin, sacrilege. If one is ashamed to confess his mortal sins before his ordinary confessor, he is always at liberty to go to another priest, one who does not know him. But by no means must he conceal a mortal sin. "He that hides his sins shall not prosper" (Prov. 28: 13).
+
+2. If we make a good confession, our souls are cleansed, and we are restored to sanctifying grace, to the friendship of God. We also receive actual graces which help us in our struggle against evil.
 
 
 **What is confession?**

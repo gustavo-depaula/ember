@@ -2,7 +2,11 @@
 
 ![](../images/lesson-186.webp)
 
-1. When we pass before an image of Our Lord, our Lady, or the Saints, we should show our reverence by bowing before it. 2. Upon entering or leaving the place where the Blessed Sacrament is exposed, or while Holy Communion is being distributed, we should make a double genuflection, that is, kneel on both knees and bow, in adoration of God, there before us. 3. When we enter or leave the church, or pass before the tabernacle where the Blessed Sacrament is reserved, we should genuflect on the right knee as an act of adoration to our hidden Lord. In genuflecting, the knee should touch the floor, and not merely be bent.
+1. When we pass before an image of Our Lord, our Lady, or the Saints, we should show our reverence by bowing before it.
+
+2. Upon entering or leaving the place where the Blessed Sacrament is exposed, or while Holy Communion is being distributed, we should make a double genuflection, that is, kneel on both knees and bow, in adoration of God, there before us.
+
+3. When we enter or leave the church, or pass before the tabernacle where the Blessed Sacrament is reserved, we should genuflect on the right knee as an act of adoration to our hidden Lord. In genuflecting, the knee should touch the floor, and not merely be bent.
 
 
 **What kinds of religious practices are observed in the Church?**

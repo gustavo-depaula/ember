@@ -2,7 +2,9 @@
 
 ![](../images/lesson-184.webp)
 
-1. "The angel Gabriel was sent from God to a 2. Mary went to visit her cousin Elizabeth: town of Galilee, called Nazareth, to a virgin "And Elizabeth was filled with the Holy Spirit, betrothed to a man named Joseph, of the house of and cried out with a loud voice, saying. Blessed David, and the virgin's name was Mary. And he art thou among women and blessed is the fruit of said. Hail, full of grace, the Lord is with thee; thy womb" (Luke 1: 41-42). When we pray the blessed art thou among women" (Luke 1: 27- "Hail Mary," these two beautiful events come to 28). mind.
+1. "The angel Gabriel was sent from God to a town of Galilee, called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And he said. Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 27-28).
+
+2. Mary went to visit her cousin Elizabeth: "And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying. Blessed art thou among women and blessed is the fruit of thy womb" (Luke 1: 41-42). When we pray the "Hail Mary," these two beautiful events come to mind.
 
 
 **Which are the principal prayers to the Blessed Virgin?**

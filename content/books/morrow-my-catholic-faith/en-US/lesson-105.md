@@ -2,7 +2,9 @@
 
 ![](../images/lesson-105.webp)
 
-1. Among the civic duties is that of voting. All 2. It is the duty of every citizen to be loyal to who are granted this right should exercise it his country, to support its institutions, and to They must not prostitute their right, but use it respect its laws and its flag. A good Catholic is a justly for the good of all good citizen.
+1. Among the civic duties is that of voting. All who are granted this right should exercise it. They must not prostitute their right, but use it justly for the good of all.
+
+2. It is the duty of every citizen to be loyal to his country, to support its institutions, and to respect its laws and its flag. A good Catholic is a good citizen.
 
 
 **What are the duties of a citizen toward his country?**
@@ -16,7 +18,7 @@
 
 — A citizen shows a sincere interest in his country's welfare by voting honestly and without selfish motives, by paying just taxes, and by defending his country's rights when necessary. 1. We are responsible to God for the men we elect to office, for He has permitted us to have the right and duty to select the men we want. Every one who has the right to vote has likewise a serious obligation to use that right properly. Electors must choose men of experience and Christian principles. If we elect men with no religious principles, we should not be surprised if later in office they turn out unsatisfactory.
 
-> It is wrong to sell one's vote; it is selling one's convictions. Persons who buy votes are not likely to use the office they might there by gain for the good of anyone else but themselves.
+> It is wrong to sell one's vote; it is selling one's convictions. Persons who buy votes are not likely to use the office they might thereby gain for the good of anyone else but themselves.
 
 2. Every Catholic who has the right to vote should exercise that right. Matters closely connected with the life of the people are the constant subject of legislation or debate. Even if your vote does not enable the good candidate to win, at least it will lessen the margin of his defeat. A Catholic elector who gives his vote to a candidate hostile to Christian principles, or by abstaining from voting contributes towards the success of such a candidate, has much to answer for.
 
