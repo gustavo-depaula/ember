@@ -73,9 +73,54 @@ export type ProseInline =
 // Block-level element produced by a reader-kind source (already parsed —
 // the source does the HTML→structured-tree work once, and SQLite caches
 // the result, so the renderer never reparses).
+//
+// Semantic kinds (question, heading, subheading, paragraph-number) are
+// detected by the source after the raw HTML walk, so the renderer can
+// dispatch to a styled component per role instead of squinting at <b>/<p>
+// classes. Anything the classifier doesn't recognize stays a plain
+// 'paragraph' — a safe fallback that still renders as body prose.
+//
+// `structural: true` tags interstitial content that *introduces* the next
+// item (chapter/section/part divider + intro quote between Q&As of the
+// Compendium). The renderer can opt to hide structural blocks when the
+// user wants the answers without the source-document chrome.
+export type ProseHeadingLevel = 'part' | 'chapter' | 'section' | 'article'
+
 export type ProseBlock =
-  | { kind: 'paragraph'; id?: string; className?: string; inline: ProseInline[] }
-  | { kind: 'blockquote'; children: ProseBlock[] }
+  | {
+      kind: 'paragraph'
+      id?: string
+      className?: string
+      inline: ProseInline[]
+      structural?: boolean
+    }
+  | {
+      kind: 'question'
+      id: string
+      number: string
+      text: string
+    }
+  | {
+      kind: 'heading'
+      level: ProseHeadingLevel
+      text: string
+      structural?: boolean
+    }
+  | {
+      kind: 'subheading'
+      text: string
+      structural?: boolean
+    }
+  | {
+      kind: 'paragraph-number'
+      text: string
+      structural?: boolean
+    }
+  | {
+      kind: 'blockquote'
+      children: ProseBlock[]
+      structural?: boolean
+    }
 
 export type ProsePrimitive = {
   type: 'prose'
