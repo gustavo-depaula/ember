@@ -59,14 +59,9 @@ On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Ou
 > a. To enter into the glory He had merited. b. To send down the Holy Ghost on His Church. c. To be our intercessor with the Father. d. To prepare a place for us in heaven.
 
 
-**What do we mean when we say that Christ will come from thence to judge the**
+**What do we mean when we say that Christ will come from thence to judge the living and the dead?**
 
-— When we say that
-
-
-**living and the dead?**
-
-Christ will come from thence to judge the living and the dead, we mean that on the last day Our Lord will come to pronounce a sentence of eternal reward or of eternal punishment on every one who has ever lived in this world. (Seventh Article of the Apostles' Creed: see Chapter 81 on General Judgement) 1. Jesus Christ will be our Supreme Judge because He is "King of kings and Lord of lords" (Apoc. 17: 14).
+— When we say that Christ will come from thence to judge the living and the dead, we mean that on the last day Our Lord will come to pronounce a sentence of eternal reward or of eternal punishment on every one who has ever lived in this world. (Seventh Article of the Apostles' Creed: see Chapter 81 on General Judgement) 1. Jesus Christ will be our Supreme Judge because He is "King of kings and Lord of lords" (Apoc. 17: 14).
 
 > "For the Son of Man is to come with his angels in the glory of his Father and then he will render to everyone according to his conduct" (Matt. 16: 27).
 

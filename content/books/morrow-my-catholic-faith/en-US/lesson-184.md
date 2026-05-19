@@ -59,12 +59,7 @@
 > St. Bernard added the words at the end: "O clement, O loving, O sweet Virgin Mary!"
 
 
-**What is the "**
-
-Angelus
-
-
-**?"**
+**What is the "Angelus"?**
 
 — The *Angelus* is a prayer recited morning, noon, and evening, in honour of Mary and of the mystery of the Incarnation. 1. This prayer is called the *Angelus*, because its first word in Latin is '' *Angelus* " meaning Angel. In the Easter season, the *Regina Coeli* is substituted for the *Angelus*; both prayers are richly indulgenced.
 

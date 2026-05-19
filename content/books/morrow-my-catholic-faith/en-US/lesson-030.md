@@ -2,7 +2,7 @@
 
 ![](../images/lesson-030.webp)
 
-"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin bethrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to, her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.'When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou host found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).
+"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to, her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.'When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).
 
 (THIRD ARTICLE OF THE APOSTLES' CREED)
 
@@ -67,8 +67,4 @@
 
 4. It seems that Saint Joseph was born in Bethlehem of Judea. But at the time of the Annunciation, he and Mary were living in Nazareth of Galilee. He was a carpenter. It appears that he died before the beginning of Christ's public life.
 
-> The memory of Saint Joseph was venerated from the very earliest centuries. In 1870, Pope Pius IX declared Saint Joseph Patron of the Church. He is also patron of a happy death. We should invoke his protection often. His feast, kept on March 19, has been celebrated since
-
-a
-
-> the 15th century.
+> The memory of Saint Joseph was venerated from the very earliest centuries. In 1870, Pope Pius IX declared Saint Joseph Patron of the Church. He is also patron of a happy death. We should invoke his protection often. His feast, kept on March 19, has been celebrated since the 15th century.

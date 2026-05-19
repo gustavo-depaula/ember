@@ -29,7 +29,7 @@ At a very early age, St. Agnes had such a high regard for the virtue of chastity
 
 5. Humility is opposed both to pride and to excessive and affected self-abjection.
 
-> To be humble, a man does not need to be little his abilities. St. Thomas Aquinas says: That a person should recognize and appreciate his own good qualities is not sin." (See Chapter 25 on Pride, Covetousness, Lust)
+> To be humble, a man does not need to belittle his abilities. St. Thomas Aquinas says: "That a person should recognize and appreciate his own good qualities is not sin." (See Chapter 25 on Pride, Covetousness, Lust)
 
 
 **What is liberality?**

@@ -5,14 +5,11 @@
 The government should protect the right of private ownership. Citizens are most contented when they have some property to call their own, on which they can depend for the necessities of the families and for maintenance in their old age. Problems of peace and order increase with the increase of people who have no property of their own to think about. Something is wrong when a country's wealth is in the hands of a limited few; everyone should be owner of something, however little.
 
 
-## W
-
-
-**hat teachings of the Church related to social-economic matters are based on the seventh and tenth commandments?**
+**What teachings of the Church related to social-economic matters are based on the seventh and tenth commandments?**
 
 — The teachings of the Church on social justice are based on the seventh and tenth commandments.
 
-> It is said that in Leo XIII's encyclical *Rerum Nova rum* of 1891, the Church is not only collectively, but individually identified with the masses.
+> It is said that in Leo XIII's encyclical *Rerum Novarum* of 1891, the Church is not only collectively, but individually identified with the masses.
 
 1. Social justice is the exercise of God-given individual rights taken in relation to the common welfare. In order to carry out its primary objective of sanctifying and saving men, the Church defines certain principles — of what we term "social justice" — applying the law of God to conditions of present-day economic life.
 

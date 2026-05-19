@@ -36,7 +36,7 @@ Originally the Introit was a psalm chanted by the priest and his assistants when
 
 **The Kyrie**
 
-The priest goes to the centre and recites the Kyrie ele is on alternately with the server, imploring God's mercy. The prayer repeated nine times: three in honour of God the Father, three in honour of God the Son, and three in honour of God the Holy Ghost.
+The priest goes to the centre and recites the Kyrie eleison alternately with the server, imploring God's mercy. The prayer repeated nine times: three in honour of God the Father, three in honour of God the Son, and three in honour of God the Holy Ghost.
 
 
 **The Gloria**
@@ -48,13 +48,9 @@ After the Kyrie, the Gloria is said when the Mass requires it. It is sometimes o
 
 **The Collect**
 
-The priest goes to the epistle side and reads certain prayers, called the Collect There may be more than one Collect. These prayers are recited in honour of the saint or mystery of *Epistle* the day, or for the intention of the Mass. They express man's subjection to God.
+The priest goes to the epistle side and reads certain prayers, called the Collect. There may be more than one Collect. These prayers are recited in honour of the saint or mystery of the day, or for the intention of the Mass. They express man's subjection to God.
 
-> At the Collect we should pray for the intention we
-
-is
-
-> have in hearing the Mass.
+> At the Collect we should pray for the intention we have in hearing the Mass.
 
 
 **The Epistle**
@@ -84,7 +80,7 @@ The Gospel is taken from one of the four Evangelists. During the reading, the pe
 
 After the Gospel the priest on Sundays and holydays of obligation usually preaches a sermon. Often it is an explanation of the Gospel read. The priest goes to the middle of the altar and recites the Nicene Creed or *Credo*. This is not said at all Masses.
 
-> At the words, *in car natus est* (And was made man), the people genuflect with the priest, in memory of Our Lord's Incarnation. The people may sit down after the Credo.
+> At the words, *incarnatus est* (And was made man), the people genuflect with the priest, in memory of Our Lord's Incarnation. The people may sit down after the Credo.
 
 ## The Offertory
 
@@ -104,18 +100,18 @@ In offering the chalice, the priest says: "We offer unto Thee, O Lord, the chali
 ## Lavabo
 
 
-**The Lava bo and Or ate Fratres**
+**The Lavabo and Orate Fratres**
 
-After the Offertory, the priest washes his fingers, as a mark of the purity of body and soul that is required for the Holy Sacrifice. This is the Lava bo.
+After the Offertory, the priest washes his fingers, as a mark of the purity of body and soul that is required for the Holy Sacrifice. This is the Lavabo.
 
-> The priest turns towards the people, extends and joins his hands, and audibly invites them to pray, saying: "Or ate fratres" (Pray, brethren). The server makes the reply for the people.
+> The priest turns towards the people, extends and joins his hands, and audibly invites them to pray, saying: "Orate fratres" (Pray, brethren). The server makes the reply for the people.
 
 
 **The Secret**
 
 The priest recites one or more prayers forming the Secret. They are prayers of petition, similar to the Collect.
 
-> At the end is said or sung in audible tones: "Per omni a saecula saeculoriim" (forever and ever).
+> At the end is said or sung in audible tones: "Per omnia saecula saeculorum" (forever and ever).
 
 
 **The Preface and Sanctus**
@@ -175,7 +171,8 @@ The Agnus Dei is then said, the priest striking his breast three times in sign o
 
 At High Masses the Kiss of Peace is given.
 
-"Domine Non Sum Dignus"
+
+## Domine Non Sum Dignus
 
 
 **The Communion**
@@ -186,7 +183,8 @@ After several prayers of preparation, the sanctuary bell is rung, and the priest
 
 If there are any to receive Communion, the server says the Confiteor in their name. Those who do not communicate should make a spiritual communion. If there are no communicants, the people may sit down after the priest's Communion.
 
-Priest's Communion
+
+## Priest's Communion
 
 
 **Communion of the People**
@@ -228,8 +226,6 @@ But even with the priest's formal words of dismissal, the people must not leave;
 The people kneel and make the sign of the cross as the priest blesses them. A bishop makes three signs of the cross when he blesses at Mass.
 
 > At Masses for the dead there is no blessing, to show that the Church does not have the same jurisdiction over the dead as over the living.
-
-The Last Gospel
 
 
 **The Last Gospel**

@@ -20,11 +20,11 @@ After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him,
 
 **Why is drunkenness a sin?**
 
-— Drunken- ness is a sin because it injures the health, and often leads to other sins.
+— Drunkenness is a sin because it injures the health, and often leads to other sins.
 
 > "Let us walk becomingly as in the day, not in revelry and drunkenness, not in debauchery and wantonness, not in strife and jealousy. But put on the Lord Jesus Christ, and as for the flesh, take no thought for its lusts" (Rom. 13:13).
 
-1. By drunkenness, one deliberately be- numbs without just cause his reason, precious gift from God to man.
+1. By drunkenness, one deliberately benumbs without just cause his reason, precious gift from God to man.
 
 > St. Paul said: "The works of the flesh are manifest, which are enmities...drunkenness, carousings, and suchlike. And concerning these I warn you, as I have warned you, that they who do such things will not attain the kingdom of God" (Gal. 5: 19-21).
 
@@ -35,7 +35,7 @@ After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him,
 
 **What is suicide?**
 
-— Suicide is the de liberate taking of one's own life. 1. Suicide is a great sin: it is self-murder. The Church denies Christian burial to those who knowingly take their own life. By this, the Church does not mean that those souls are surely condemned to hell. Their judgement is in the hands of God. The Church merely wishes to show public condemnation of such sins.
+— Suicide is the deliberate taking of one's own life. 1. Suicide is a great sin: it is self-murder. The Church denies Christian burial to those who knowingly take their own life. By this, the Church does not mean that those souls are surely condemned to hell. Their judgement is in the hands of God. The Church merely wishes to show public condemnation of such sins.
 
 > One who commits suicide sins against God, Who is the exclusive arbiter of life or death; he sins against himself, by plunging his soul mercilessly into hell; and he sins against his family, whom he leaves to bear his shame, and perhaps to live in want for lack of his support.
 
@@ -43,7 +43,7 @@ After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him,
 
 > If we get into trouble, we should have patience and trust in God. Some commit suicide because they lose their fortunes; others because of business failures; and still others because they cannot bear disappointments.
 
-3. Suicide is the sin of those in despair, who do not believe or hope in God's mercy and ability to carry them through all adversities. Suicide is a sin of Judas. a
+3. Suicide is the sin of those in despair, who do not believe or hope in God's mercy and ability to carry them through all adversities. Suicide is a sin of Judas.
 
 > The suicide no longer holds that God fortifies anything and everything when a sinner repents. He no longer holds that God is infinitely merciful and infinitely powerful, that He can draw good out of the most horrible evils.
 
@@ -55,6 +55,6 @@ After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him,
 
 > The duellist is guilty of a double murder: he intends to kill his antagonist, and he risks his own life. The Church excommunicates those who challenge or accept a challenge to a duel, the seconds, and all who sanction a duel by their presence.
 
-6. It is not wrong, but highly meritorious, to endanger our health and life in order to gain everlasting life, or to rescue our fellow- men from physical or spiritual death. Christ Himself knowingly gave His life to save souls.
+6. It is not wrong, but highly meritorious, to endanger our health and life in order to gain everlasting life, or to rescue our fellow-men from physical or spiritual death. Christ Himself knowingly gave His life to save souls.
 
 > Martyrs, priests and missionaries who expose their lives, doctors and nurses who attend contagious cases, merit an eternal reward. Those who lose their lives rescuing others from drowning or burning, deserve renown. "And do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of him who is able to destroy both soul and body in hell" (Matt. 10: 28). "He who finds his life will lose it and he who loses his life for my sake, will find it" (Matt. 10: 39).

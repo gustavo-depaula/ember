@@ -9,7 +9,7 @@ Before printing was invented about 1450, books could be reproduced only by makin
 
 — No; it was mainly by preaching that He intended to convert the nations.
 
-> Our Lord said: "Go, make disciples of all nations." "Preach the Gospel to every creature." "He that he are th you he are th me." Christ did not say: "Go and make all nations read the Bible."
+> Our Lord said: "Go, make disciples of all nations." "Preach the Gospel to every creature." "He that heareth you heareth me." Christ did not say: "Go and make all nations read the Bible."
 
 1. The Apostles never circulated a single volume of the Bible, but "they went forth and preached everywhere, while the Lord worked with them" (Mark 16: 20). The New Testament was not written till Christianity was already established.
 
@@ -55,11 +55,7 @@ Before printing was invented about 1450, books could be reproduced only by makin
 
 > The Bible was not always as it is now, a compact book, bound neatly. For several centuries the Bible was in separated fragments, scattered over Christendom. At the same time, other books under the name of Scripture were circulated among the faithful.
 
-3. It is the Church that assures us that the translation from the original languages is faithful. The Bible needs an interpreter because it is frequently very difficult to understand. The Catholic Church alone was
-
-> a
-
-empowered by God to interpret the Bible. No one is allowed to interpret it contrary to the teaching of the Church.
+3. It is the Church that assures us that the translation from the original languages is faithful. The Bible needs an interpreter because it is frequently very difficult to understand. The Catholic Church alone was empowered by God to interpret the Bible. No one is allowed to interpret it contrary to the teaching of the Church.
 
 > The Protestant denominations who favour private interpretation have divided and subdivided for the same reason. No two of them interpret the Bible in the same manner. If we are really to interpret the Bible privately, we must know the original languages in which the books were written. How many can have that knowledge?
 

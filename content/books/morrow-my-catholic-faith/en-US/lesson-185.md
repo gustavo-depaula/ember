@@ -19,11 +19,11 @@ The Rosary is divided into the joyful, the sorrowful, and the glorious mysteries
 
 > In times of danger and calamity, the Rosary has been the means by which miraculous aid has been obtained. This was the case in the wars with the Turks, the victory of Lepanto (1571) and the deliverance of Vienna (1683). It was in thanksgiving for these victories over the Mohammedans that the Holy Father instituted the feast of the Holy Rosary on the first Sunday of October.
 
-3. The very simplicity of the Rosary makes it a prayer for children. For this reason, it is the prayer of the little and the humble, and most pleasing in the eyes of God.
+4. The very simplicity of the Rosary makes it a prayer for children. For this reason, it is the prayer of the little and the humble, and most pleasing in the eyes of God.
 
-> One of the devotees of the Rosary was that great missionary, Saint Francis Xavier. Wherever he went, he preached this devotion. However busy or fatigued he was, he never omitted sayings the Rosary every day. He used to carry his rosary around his neck openly, in honour of the Blessed Mother.
+> One of the devotees of the Rosary was that great missionary, Saint Francis Xavier. Wherever he went, he preached this devotion. However busy or fatigued he was, he never omitted saying the Rosary every day. He used to carry his rosary around his neck openly, in honour of the Blessed Mother.
 
-4. At the same time the rosary is a prayer of contemplation: the truths discovered from meditation on the mysteries presented can never be exhausted by even the most learned.
+5. At the same time the rosary is a prayer of contemplation: the truths discovered from meditation on the mysteries presented can never be exhausted by even the most learned.
 
 > Frequently St. Francis Xavier was called to distant missions to attend the sick and administer the sacraments to the dying. As it was impossible for him to attend to so many at one time, he used to send rosaries to the sick, advising them to pray and if they could not, to wear the beads around their neck. He assured the sick that they would either improve altogether or feel better, till he could arrive, so that they should not die without the sacraments. This promise was always complied with: the patients using the rosary as St. Francis Xavier recommended were always given time to live at least until the holy missionary arrived and administered the Last Sacraments.
 

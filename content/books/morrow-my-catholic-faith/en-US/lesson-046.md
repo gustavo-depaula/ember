@@ -29,9 +29,9 @@ b. Those are also meek who, though of a naturally fiery disposition, master thei
 
 > Mourning for sin is not sadness, for it is not incompatible with spiritual joy. Those who are most penitent feel most gladness upon their release from sin. But to sinners who do not mourn, these words of Our Lord should bring salutary fear: "Woe to you who laugh now, for you shall mourn and weep" (Luke 6: 25).
 
-4. "Blessed are they who hunger and thirst for justice, for they shall be satisfied." This refers to those who ardently desire the things of God, truth and perfect virtue, as well as to those who try to become better, more humble and pure, more closely united with God. Spiritual
+4. "Blessed are they who hunger and thirst for justice, for they shall be satisfied." This refers to those who ardently desire the things of God, truth and perfect virtue, as well as to those who try to become better, more humble and pure, more closely united with God.
 
-> hunger and thirst is the craving for growth in holiness, a desire to be more pleasing to God, to make daily progress in doing His will. Even in this life they shall taste the joy of divine consolations; in heaven they shall enjoy the full abundance of heavenly bliss.
+> Spiritual hunger and thirst is the craving for growth in holiness, a desire to be more pleasing to God, to make daily progress in doing His will. Even in this life they shall taste the joy of divine consolations; in heaven they shall enjoy the full abundance of heavenly bliss.
 
 5. "Blessed are the merciful, for they shall obtain mercy." The merciful are those who practice the works of mercy, corporal and spiritual, who help others not from human or natural motives simply, but from supernatural ones, from faith, from love of God.
 

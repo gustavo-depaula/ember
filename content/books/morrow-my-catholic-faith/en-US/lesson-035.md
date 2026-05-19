@@ -39,14 +39,12 @@ During Holy Week the Church lives again the passion and death of Christ. On the 
 
 4. After His death, Our Lord's body was taken down from the cross and laid in the grave which belonged to Joseph of Arimathea. Then His disciples rolled up a great stone to close the tomb.
 
-> The chief priests and the Pharisees went in a body to Pilate, saying, 'Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again.' Give orders, therefore, that the sepulchre be guarded until the third day, or else his disciples may come and steal him away, and say to the people, 'He has risen from the dead'; and the last imposture will be worse than the first." Pilate said to them, 'You have a guard; go, guard it as well as you know how.' So they went and made the sepulchre secure, scaling the stone, and setting the guard (Matt.
-
-> 27: 63 - 66)
+> The chief priests and the Pharisees went in a body to Pilate, saying, 'Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again.' Give orders, therefore, that the sepulchre be guarded until the third day, or else his disciples may come and steal him away, and say to the people, 'He has risen from the dead'; and the last imposture will be worse than the first." Pilate said to them, 'You have a guard; go, guard it as well as you know how.' So they went and made the sepulchre secure, scaling the stone, and setting the guard (Matt. 27: 63 - 66)
 
 
 **What do we learn from the sufferings and death of Christ?**
 
-— From the sufferings and death of Christ we learn God's love for man and the evil of sin, for which God, who is all- just, demands such great satisfaction. 1. It was not necessary for Jesus to suffer so intensely in order to redeem all men. As His merits are infinite, He could have wiped away the sins of a thousand worlds by shedding one drop of His blood. But He chose to suffer agonies because He loves us.
+— From the sufferings and death of Christ we learn God's love for man and the evil of sin, for which God, who is all-just, demands such great satisfaction. 1. It was not necessary for Jesus to suffer so intensely in order to redeem all men. As His merits are infinite, He could have wiped away the sins of a thousand worlds by shedding one drop of His blood. But He chose to suffer agonies because He loves us.
 
 > "Greater love than this no one has, that one lay down his life for his friends" (John 15: 13). "I am the good shepherd. The good shepherd lays down his life for his sheep ... I am the good shepherd; and I know mine and mine know me. ... and I lay down my life for my sheep" (John 10: 11-15).
 
@@ -58,6 +56,6 @@ During Holy Week the Church lives again the passion and death of Christ. On the 
 
 > Christ gave us an example of patience and strength. If we receive trials, we should accept them with resignation, in imitation of Our Lord, Who suffered so willingly for our sake. We can never have as much suffering as He did.
 
-Churches are built in the form of a cross because within the sacrifice of the cross is re- enacted. Within them we remember easily the events that took place that day long ago, when Jesus Christ, Son of God, for love of us suffered and died on the Cross.
+Churches are built in the form of a cross because within the sacrifice of the cross is re-enacted. Within them we remember easily the events that took place that day long ago, when Jesus Christ, Son of God, for love of us suffered and died on the Cross.
 
 > Church spires lead us to "seek those things that are above" (Col. 3: 1); they are surmounted by a cross, the symbol of our salvation; their bells call us to prayer, communion with God. The church interior is divided into three parts: the porch, where in former times those preparing for baptism and the penitents knelt; the nave, which is the central and main portion, for those attending the Holy Sacrifice; and the choir or sanctuary, where in former times the singers stayed, now reserved for the clergy, and separated from the nave by the communion rail.

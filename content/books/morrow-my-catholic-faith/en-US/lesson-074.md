@@ -37,14 +37,9 @@ The illustration shows the continuous communication in the three portions of the
 > "Dead members" do not lose all the benefits of the communion of saints, for the Church prays publicly for them, and particular members in the state of grace often send up petitions for them. Thus they may receive the grace to repent and recover sanctifying grace. Hence a Catholic who still belongs to the Church, although a great sinner, may have more hope of being converted than one who cuts himself off from the Church.
 
 
-**How do the members of the Communion**
+**How do the members of the Communion of Saints help one another?**
 
-— The members
-
-
-**of Saints help one another?**
-
-of the Communion of Saints help one another by prayer and intercession, and by the merits of their good works. 1. The faithful on earth can help one another by practising supernatural charity and, especially, by performing the spiritual and corporal works of mercy.
+— The members of the Communion of Saints help one another by prayer and intercession, and by the merits of their good works. 1. The faithful on earth can help one another by practising supernatural charity and, especially, by performing the spiritual and corporal works of mercy.
 
 > St. Peter was freed from prison by the prayers of the faithful. St. Stephen's prayer obtained the conversion of St. Paul. The prayers of St. Monica led to the conversion of her son, St. Augustine. This is why today, on all occasions, Catholics ask for each other's prayers, and pray for those in need. They give the spiritual alms of prayers continually, even when they cannot perform the corporal works.
 

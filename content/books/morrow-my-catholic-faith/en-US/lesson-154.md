@@ -2,7 +2,7 @@
 
 ![](../images/lesson-154.webp)
 
-In the early Church, the canonical penances were severe. Grave sins, such as apostasy, were punished with a penance of seven years. During all this time the penitent was excluded from the company of the faithful. He knelt at the entrance of the church, asking for the prayers of those that entered. He heard only the first part of the Mass, i.e., the Mass of the Cate chu men and being excluded from the second part, i.e., the Mass of the Faithful; and consequently was not permitted to receive Holy Communion. On fixed days during the period of his penance, he was obliged to fast on bread and water. But if those faithful interceded, the penitent was granted an indulgence; his penance was shortened.
+In the early Church, the canonical penances were severe. Grave sins, such as apostasy, were punished with a penance of seven years. During all this time the penitent was excluded from the company of the faithful. He knelt at the entrance of the church, asking for the prayers of those that entered. He heard only the first part of the Mass, i.e., the Mass of the Catechumen and being excluded from the second part, i.e., the Mass of the Faithful; and consequently was not permitted to receive Holy Communion. On fixed days during the period of his penance, he was obliged to fast on bread and water. But if those faithful interceded, the penitent was granted an indulgence; his penance was shortened.
 
 
 **What is a plenary indulgence?**
@@ -50,13 +50,9 @@ In the early Church, the canonical penances were severe. Grave sins, such as apo
 
 **Who has authority to grant indulgences?**
 
-— The Pope alone has authority to grant plenary indulgences and indulgences for the whole Church; and those to whom this power is either acknowledged in the law, or given by the Roman Pontiff
+— The Pope alone has authority to grant plenary indulgences and indulgences for the whole Church; and those to whom this power is either acknowledged in the law, or given by the Roman Pontiff (CIC 912, CIC 995 §1).
 
-> (CIC 912, NC 995
-
-.
-
-> &1) Priests with special faculties from the Pope may attach indulgences to objects they bless. All objects blessed by the Holy Father have the Apostolic indulgences attached to them,
+> Priests with special faculties from the Pope may attach indulgences to objects they bless. All objects blessed by the Holy Father have the Apostolic indulgences attached to them.
 
 1. An indulgence is granted for the living or for the dead. An indulgence for the living means for the person who performs the good work. We cannot gain an indulgence for another living person. 2. The Holy See alone can grant indulgences applicable to the dead. All papal indulgences can be applied to the souls in purgatory, unless otherwise stated.
 
