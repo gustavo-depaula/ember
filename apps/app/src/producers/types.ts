@@ -1,65 +1,37 @@
-// Producer `kind` matches the consumer:
-// - `reader`: HTML + anchor sidecar — rendered via ProducerHtmlBlock.
-// - `flow`:   RenderedSection[] inlined into the surrounding flow.
-// - `data`:   typed payload consumed by a specialized renderer (e.g. Bible
-//             verses with a verse-number block, CCC paragraphs with breadcrumbs).
-//             The producer owns the shape; consumers cast at the use site.
+// ContentSource — the v2 contract. One output shape (Primitive | Primitive[]),
+// declarative cache deps (prefsDeps), source composition via injected accessor.
+// No `kind` discriminator: a source's typed output is the contract.
 
-import type { RenderedSection } from '@/content/types'
+import type { Primitive } from '@/content/primitives'
 
-// Session-scoped user preferences any producer might read.
 export type ProducerPrefs = {
-  lang: string           // content language: 'en-US' | 'pt-BR'
-  translation: string    // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
+  lang: string         // content language: 'en-US' | 'pt-BR'
+  translation: string  // bible translation: 'DRB' | 'RSV2CE' | 'CNBB' | ...
 }
 
-export type ProducerContext = {
-  date: Date
+export type SourceAccessor = {
+  fetch<T extends Primitive | Primitive[]>(
+    source: ContentSource<T>,
+    params?: Record<string, unknown>,
+  ): Promise<T>
+}
+
+export type SourceFetchContext = {
+  params: Record<string, unknown>
   prefs: ProducerPrefs
-  // Practice-program cursor when the host is a program practice. Drives the
-  // cacheKey for program-shaped producers; absent for non-program practices.
+  date: Date
   programDay?: number
-  params?: Record<string, unknown>
+  sources: SourceAccessor
 }
 
-export type ReaderProducerResult = {
-  html: string
-  anchors?: Record<string, unknown>
-}
-
-export type FlowProducerResult = {
-  sections: RenderedSection[]
-}
-
-export type DataProducerResult = {
-  data: unknown
-}
-
-type Common = {
+export type ContentSource<T extends Primitive | Primitive[] = Primitive | Primitive[]> = {
   id: string
-  // Bumped to invalidate persistent caches across app versions.
   version: string
-  // Identifies "when does my output change" — composed into the cache key.
-  // Static documents return ''. Program-shaped producers return the day
-  // number. Calendar-driven producers return a UTC day bucket. Each producer
-  // owns the bucket so the call site doesn't guess.
-  cacheKey: (ctx: ProducerContext) => string
+  // Declarative — runtime composes the cache key from prefs[prefsDeps[i]].
+  prefsDeps: (keyof ProducerPrefs)[]
+  fetch: (ctx: SourceFetchContext) => Promise<T>
 }
 
-export type ReaderProducer = Common & {
-  kind: 'reader'
-  produce: (ctx: ProducerContext) => Promise<ReaderProducerResult>
-}
-
-export type FlowProducer = Common & {
-  kind: 'flow'
-  produce: (ctx: ProducerContext) => Promise<FlowProducerResult>
-}
-
-export type DataProducer<T = unknown> = Common & {
-  kind: 'data'
-  produce: (ctx: ProducerContext) => Promise<{ data: T }>
-}
-
-export type Producer = ReaderProducer | FlowProducer | DataProducer
-export type ProducerResult = ReaderProducerResult | FlowProducerResult | DataProducerResult
+// Legacy aliases for code mid-migration; phase 7 will remove.
+export type Producer = ContentSource
+export type ProducerContext = SourceFetchContext

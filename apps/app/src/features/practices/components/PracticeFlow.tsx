@@ -11,16 +11,15 @@ import { Text, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   confirm,
-  IncludeBlock,
   ManuscriptFrame,
-  ProperSlot,
+  PrimitiveBlock,
   ScreenLayout,
   Threshold,
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
-import { SectionBlock } from '@/components/SectionBlock'
 import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
+import type { Primitive } from '@/content/primitives'
 import {
   getManifest,
   loadFlow,
@@ -28,14 +27,12 @@ import {
   loadPracticeData,
   loadPracticeTracks,
 } from '@/content/resolver'
-import type { ResolvedSection } from '@/content/resolvedTypes'
 import type { RenderedSection } from '@/content/types'
 import {
   ensurePracticeCursors,
   useAdvanceCursor,
   useCursorsForPractice,
 } from '@/features/divine-office'
-import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
 import {
   useHandleProgramCompletion,
   useLogCompletion,
@@ -44,10 +41,6 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
-import {
-  RenderedCaptureResolutionBlock,
-  RenderedReviewResolutionBlock,
-} from '@/features/resolutions'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
 import { getPsalmNumbering } from '@/lib/bolls'
@@ -56,36 +49,33 @@ import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { PsalmodySlot } from './slots/PsalmodySlot'
-import { ReadingSlot } from './slots/ReadingSlot'
 
-// Descends through container sections so findTrackIds can reach reading
-// sections nested inside select/options/collapsible/etc.
-function* walkSections(sections: ResolvedSection[]): Generator<ResolvedSection> {
+// Walks the engine's pre-preprocess output looking for `reading` sections
+// that carry a lectio trackId — needed after completion so the right cursor
+// advances. Primitives don't carry track metadata (it's an engine concern),
+// so this stays on the engine-level tree.
+function* walkRendered(sections: RenderedSection[]): Generator<RenderedSection> {
   for (const s of sections) {
     yield s
     switch (s.type) {
       case 'select':
       case 'options':
-        for (const opt of s.options) yield* walkSections(opt.sections)
+        for (const opt of s.options) yield* walkRendered(opt.sections)
         break
       case 'collapsible':
       case 'liturgical-color-scope':
-        yield* walkSections(s.sections)
+        yield* walkRendered(s.sections)
         break
       case 'prayer':
-        if (s.sections) yield* walkSections(s.sections)
-        break
-      case 'include':
-        if (s.resolvedSections) yield* walkSections(s.resolvedSections)
+        if (s.sections) yield* walkRendered(s.sections)
         break
     }
   }
 }
 
-function findTrackIds(sections: ResolvedSection[]): string[] {
+function findTrackIds(sections: RenderedSection[]): string[] {
   const ids = new Set<string>()
-  for (const s of walkSections(sections)) {
+  for (const s of walkRendered(sections)) {
     if (s.type === 'reading' && s.trackId) ids.add(s.trackId)
   }
   return Array.from(ids)
@@ -280,7 +270,7 @@ export function PracticeFlow({
     enabled: renderedSections.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const sections: ResolvedSection[] = preprocessQuery.data ?? []
+  const sections: Primitive[] = preprocessQuery.data ?? []
 
   const isPreprocessing = renderedSections.length > 0 && preprocessQuery.isLoading
   const isDynamicLoading = (isResolvingFlow && renderedSections.length === 0) || isPreprocessing
@@ -352,7 +342,7 @@ export function PracticeFlow({
           successBuzz()
           try {
             if (trackDefs) {
-              const trackIds = findTrackIds(sections)
+              const trackIds = findTrackIds(renderedSections)
               await Promise.all(
                 trackIds.map((id) =>
                   advanceCursor.mutateAsync({
@@ -413,10 +403,10 @@ export function PracticeFlow({
             </YStack>
 
             <YStack gap="$md">
-              {sections.map((section, index) => (
-                <PracticeSectionBlock
-                  key={`${section.type}-${index}`}
-                  section={section}
+              {sections.map((primitive, index) => (
+                <PrimitiveBlock
+                  key={`${primitive.type}-${index}`}
+                  primitive={primitive}
                   practiceId={practiceId}
                   onSelectOverride={handleSelectOverride}
                 />
@@ -467,101 +457,3 @@ export function PracticeFlow({
   )
 }
 
-function PracticeSectionBlock({
-  section,
-  practiceId,
-  onSelectOverride,
-}: {
-  section: ResolvedSection
-  practiceId: string
-  onSelectOverride: (overrideKey: string, nextId: string) => void
-}) {
-  // Practice-specific section types
-  switch (section.type) {
-    case 'rendered-offering':
-      return (
-        <RenderedOfferingBlock
-          practiceId={practiceId}
-          mode={section.mode}
-          show={section.show}
-          default={section.default}
-          label={section.label?.primary}
-        />
-      )
-
-    case 'rendered-capture-movement':
-      return (
-        <RenderedCaptureMovementBlock
-          kind={section.kind}
-          prompt={section.prompt.primary}
-          multi={section.multi}
-          defaultCadence={section.defaultCadence}
-        />
-      )
-
-    case 'rendered-capture-resolution':
-      return (
-        <RenderedCaptureResolutionBlock
-          forward={section.forward}
-          prompt={section.prompt.primary}
-          window={section.window}
-          prefill={section.prefill}
-        />
-      )
-
-    case 'rendered-review-resolution':
-      return (
-        <RenderedReviewResolutionBlock
-          mode={section.mode}
-          resolution={section.resolution}
-          prompt={section.prompt?.primary}
-          outcomes={section.outcomes}
-          allowNotes={section.allow_notes}
-        />
-      )
-
-    case 'psalmody':
-      return <PsalmodySlot data={section.data} />
-
-    case 'reading':
-      return <ReadingSlot reference={section.reference} data={section.data} />
-
-    case 'include':
-      return (
-        <IncludeBlock
-          ref={section.ref}
-          data={section.data.payload}
-          resolvedSections={section.resolvedSections}
-          renderSection={(s, i) => (
-            <PracticeSectionBlock
-              key={`${s.type}-${i}`}
-              section={s}
-              practiceId={practiceId}
-              onSelectOverride={onSelectOverride}
-            />
-          )}
-        />
-      )
-
-    case 'proper':
-      return (
-        <ProperSlot slot={section.slot} form={section.form} description={section.description} />
-      )
-
-    default:
-      return (
-        <SectionBlock
-          section={section}
-          renderSection={(s, i) => (
-            <PracticeSectionBlock
-              key={`${s.type}-${i}`}
-              section={s}
-              practiceId={practiceId}
-              onSelectOverride={onSelectOverride}
-            />
-          )}
-          onSelectOverride={onSelectOverride}
-        />
-      )
-  }
-}

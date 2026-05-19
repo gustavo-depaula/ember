@@ -1,24 +1,29 @@
-import { cccCompendiumProducer } from '@ember/producers'
-import { bibleChapterProducer } from './bible-chapter'
-import { cccChapterProducer } from './ccc-chapter'
-import { psalmodyProducer } from './psalmody'
-import type { Producer } from './types'
+import { cccCompendiumSource } from '@ember/producers'
+import { bibleChapterSource } from './bible-chapter'
+import { cccChapterSource } from './ccc-chapter'
+import { psalmodySource } from './psalmody'
+import type { ContentSource } from './types'
 
-const producers = new Map<string, Producer>()
+const sources = new Map<string, ContentSource>()
 
-export function registerProducer(p: Producer): void {
-  producers.set(p.id, p)
+export function registerSource(s: ContentSource): void {
+  sources.set(s.id, s)
 }
 
-export function unregisterProducer(id: string): void {
-  producers.delete(id)
+export function unregisterSource(id: string): void {
+  sources.delete(id)
 }
 
-export function getProducer(id: string): Producer | undefined {
-  return producers.get(id)
+export function getSource(id: string): ContentSource | undefined {
+  return sources.get(id)
 }
 
-registerProducer(cccCompendiumProducer)
-registerProducer(cccChapterProducer)
-registerProducer(bibleChapterProducer)
-registerProducer(psalmodyProducer)
+registerSource(cccCompendiumSource as ContentSource)
+registerSource(cccChapterSource)
+registerSource(bibleChapterSource)
+registerSource(psalmodySource)
+
+// Legacy aliases.
+export const registerProducer = registerSource
+export const unregisterProducer = unregisterSource
+export const getProducer = getSource

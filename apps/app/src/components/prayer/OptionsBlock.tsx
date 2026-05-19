@@ -2,27 +2,26 @@
 import { useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 import type { PickerStyle } from '@/content/types'
-import type { ResolvedSection } from '@/content/resolvedTypes'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { OptionCard } from './OptionCard'
 import { SectionHeading } from './SectionHeading'
 
-type Option = {
+type Option<T> = {
   id: string
   label: string
-  sections: ResolvedSection[]
+  sections: T[]
   excerpt?: string
 }
 
-export function OptionsBlock({
+export function OptionsBlock<T>({
   label,
   options,
   renderSection,
   pickerStyle = 'chips',
 }: {
   label: string
-  options: Option[]
-  renderSection: (section: ResolvedSection, index: number) => React.ReactNode
+  options: Option<T>[]
+  renderSection: (section: T, index: number) => React.ReactNode
   pickerStyle?: PickerStyle
 }) {
   const [selected, setSelected] = useState(0)

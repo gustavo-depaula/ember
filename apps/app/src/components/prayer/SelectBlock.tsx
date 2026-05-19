@@ -1,9 +1,8 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static option sections never reorder
 import { Text, XStack, YStack } from 'tamagui'
-import type { ResolvedSection } from '@/content/resolvedTypes'
 import { AnimatedPressable } from '../AnimatedPressable'
 
-export function SelectBlock({
+export function SelectBlock<T>({
   label,
   selectedId,
   options,
@@ -12,9 +11,9 @@ export function SelectBlock({
 }: {
   label: string
   selectedId: string
-  options: { id: string; label: string; sections: ResolvedSection[] }[]
+  options: { id: string; label: string; sections: T[] }[]
   onSelect: (optionId: string) => void
-  renderSection: (section: ResolvedSection, index: number) => React.ReactNode
+  renderSection: (section: T, index: number) => React.ReactNode
 }) {
   const current = options.find((option) => option.id === selectedId) ?? options[0]
 

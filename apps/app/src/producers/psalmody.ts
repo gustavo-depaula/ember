@@ -1,40 +1,39 @@
-import { getChapter, type Verse } from '@/lib/content'
-import type { PsalmRef } from '@/lib/liturgical'
+import type { Primitive, VersesPrimitive } from '@/content/primitives'
+import { getChapter } from '@/lib/content'
+import { formatPsalmRef, type PsalmRef } from '@/lib/liturgical'
 import { requireArray } from './params'
-import type { DataProducer } from './types'
+import type { ContentSource } from './types'
 
 const ID = 'producer/psalmody'
 
-export type PsalmodySlot = { ref: PsalmRef; verses: Verse[] }
-
-function psalmsKey(refs: PsalmRef[] | undefined): string {
-  if (!Array.isArray(refs)) return ''
-  return refs
-    .map((r) =>
-      r?.verseRange ? `${r.psalm}:${r.verseRange[0]}-${r.verseRange[1]}` : String(r?.psalm),
-    )
-    .join(',')
-}
-
-export const psalmodyProducer: DataProducer<PsalmodySlot[]> = {
+// One verses primitive per psalm — the preprocessor splices the array into
+// the parent's children, so authors get a flat run of psalm sections.
+export const psalmodySource: ContentSource<Primitive[]> = {
   id: ID,
-  kind: 'data',
   version: '1',
-  cacheKey: (ctx) =>
-    `${ctx.prefs.translation}:${psalmsKey(ctx.params?.psalms as PsalmRef[] | undefined)}`,
-  async produce(ctx) {
-    const refs = requireArray<PsalmRef>(ID, ctx.params, 'psalms')
-    const slots = await Promise.all(
-      refs.map(async (ref): Promise<PsalmodySlot> => {
-        const result = await getChapter(ctx.prefs.translation, 'psalms', ref.psalm)
+  prefsDeps: ['translation'],
+  fetch: async ({ params, prefs }): Promise<Primitive[]> => {
+    const refs = requireArray<PsalmRef>(ID, params, 'psalms')
+    return Promise.all(
+      refs.map(async (ref): Promise<VersesPrimitive> => {
+        const result = await getChapter(prefs.translation, 'psalms', ref.psalm)
         const verses = ref.verseRange
           ? result.verses.filter(
               (v) => v.verse >= ref.verseRange[0] && v.verse <= ref.verseRange[1],
             )
           : result.verses
-        return { ref, verses }
+        return {
+          type: 'verses',
+          header: { primary: formatPsalmRef(ref) },
+          items: verses.map((v) => ({ num: v.verse, text: { primary: v.text } })),
+          style: 'numbered',
+        }
       }),
     )
-    return { data: slots }
   },
 }
+
+export const psalmodyProducer = psalmodySource
+
+// Re-exported for callers that still talk about the old shape.
+export type PsalmodySlot = { ref: PsalmRef; verses: { verse: number; text: string }[] }

@@ -8,5 +8,5 @@ export {
 } from './extract'
 export { fetchPage } from './fetchPage'
 export { parseChapter } from './parse'
-export { cccCompendiumProducer } from './produce'
+export { cccCompendiumProducer, cccCompendiumSource } from './produce'
 export type { AnchorIndex, ChapterId, Lang, ProduceResult } from './types'

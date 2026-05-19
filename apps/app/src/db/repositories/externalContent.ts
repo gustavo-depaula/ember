@@ -1,4 +1,4 @@
-import type { ProducerResult } from '@/producers/types'
+import type { Primitive } from '@/content/primitives'
 import { getDb } from '../client'
 
 export type ExternalContentKey = {
@@ -10,7 +10,7 @@ export type ExternalContentKey = {
 }
 
 export type ExternalContentRow = {
-  payload: ProducerResult
+  payload: Primitive | Primitive[]
   fetchedAt: number
   pinned: boolean
 }
@@ -30,7 +30,7 @@ export async function getExternalContent(
   )
   if (!row) return undefined
   return {
-    payload: JSON.parse(row.payload_json) as ProducerResult,
+    payload: JSON.parse(row.payload_json) as Primitive | Primitive[],
     fetchedAt: row.fetched_at,
     pinned: row.pinned !== 0,
   }
@@ -38,7 +38,7 @@ export async function getExternalContent(
 
 export async function putExternalContent(
   key: ExternalContentKey,
-  payload: ProducerResult,
+  payload: Primitive | Primitive[],
   fetchedAt: number = Date.now(),
 ): Promise<void> {
   await getDb().runAsync(

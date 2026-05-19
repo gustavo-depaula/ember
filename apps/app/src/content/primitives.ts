@@ -59,7 +59,10 @@ export type ImagePrimitive = {
 
 export type ProsePrimitive = {
   type: 'prose'
-  html: string
+  // Either: rich text (markdown — what the engine emits) or raw HTML
+  // (what reader-style content sources emit). Renderer picks the right block.
+  text?: BilingualText
+  html?: string
   anchors?: Record<string, { chapter: string }>
 }
 

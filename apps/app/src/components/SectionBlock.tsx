@@ -1,6 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 import { Text, View, YStack } from 'tamagui'
-import type { ResolvedSection } from '@/content/resolvedTypes'
+import type { RenderedSection } from '@/content/types'
 import {
   CanticleBlock,
   CelebrationBanner,
@@ -29,8 +29,8 @@ export function SectionBlock({
   renderSection,
   onSelectOverride,
 }: {
-  section: ResolvedSection
-  renderSection?: (section: ResolvedSection, index: number) => React.ReactNode
+  section: RenderedSection
+  renderSection?: (section: RenderedSection, index: number) => React.ReactNode
   onSelectOverride?: (overrideKey: string, nextId: string) => void
 }) {
   switch (section.type) {

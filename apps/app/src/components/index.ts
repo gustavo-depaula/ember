@@ -9,7 +9,7 @@ export { ConfirmHost, confirm } from './ConfirmSheet'
 export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
 export { InlineRetry } from './InlineRetry'
-export { IncludeBlock, ProducerHtmlBlock } from './include'
+export { ProducerHtmlBlock } from './include'
 export { ManuscriptFrame } from './ManuscriptFrame'
 export { ObligationBadges } from './ObligationBadges'
 export {
@@ -25,6 +25,8 @@ export { PrayButton } from './PrayActionButtons'
 export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
 export { PrayerTextInput } from './PrayerTextInput'
+export { PrimitiveBlock } from './PrimitiveBlock'
+export { VersesBlock } from './VersesBlock'
 export { PsalmodyBlock, type PsalmSlot } from './PsalmodyBlock'
 export {
   CanticleBlock,

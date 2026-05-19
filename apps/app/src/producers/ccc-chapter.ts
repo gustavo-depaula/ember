@@ -1,17 +1,26 @@
-import { type CccParagraph, getCccParagraphs } from '@/lib/catechism'
+import type { VersesPrimitive } from '@/content/primitives'
+import { getCccParagraphs } from '@/lib/catechism'
 import { requirePositiveInt } from './params'
-import type { DataProducer } from './types'
+import type { ContentSource } from './types'
 
 const ID = 'producer/ccc-chapter'
 
-export const cccChapterProducer: DataProducer<CccParagraph[]> = {
+export const cccChapterSource: ContentSource<VersesPrimitive> = {
   id: ID,
-  kind: 'data',
   version: '1',
-  cacheKey: (ctx) => `${String(ctx.params?.start)}-${String(ctx.params?.count)}`,
-  async produce(ctx) {
-    const start = requirePositiveInt(ID, ctx.params, 'start')
-    const count = requirePositiveInt(ID, ctx.params, 'count')
-    return { data: await getCccParagraphs(start, count) }
+  prefsDeps: ['lang'],
+  fetch: async ({ params }): Promise<VersesPrimitive> => {
+    const start = requirePositiveInt(ID, params, 'start')
+    const count = requirePositiveInt(ID, params, 'count')
+    const paragraphs = await getCccParagraphs(start, count)
+    const endParagraph = start + count - 1
+    return {
+      type: 'verses',
+      header: { primary: `CCC ${start}–${endParagraph}` },
+      items: paragraphs.map((p) => ({ num: p.number, text: { primary: p.text } })),
+      style: 'numbered',
+    }
   },
 }
+
+export const cccChapterProducer = cccChapterSource

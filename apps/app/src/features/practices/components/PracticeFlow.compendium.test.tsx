@@ -1,26 +1,26 @@
-// Stubs the producer at the package boundary so we exercise the full include
-// pipeline (cycle → resolver → registry → SQLite cache → ProducerHtmlBlock)
+// Stubs the source at the package boundary so we exercise the full include
+// pipeline (cycle → resolver → registry → preprocessor → PrimitiveBlock)
 // without the network.
 
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 
-type ProduceCall = {
+type FetchCall = {
   date: Date
   prefs: { lang: string; translation: string }
   programDay?: number
-  params?: Record<string, unknown>
+  params: Record<string, unknown>
 }
 
-const produceCalls: ProduceCall[] = []
+const fetchCalls: FetchCall[] = []
 
 vi.mock('@ember/producers', async (importOriginal) => {
   const actual = (await importOriginal()) as typeof import('@ember/producers')
   return {
     ...actual,
-    cccCompendiumProducer: {
-      ...actual.cccCompendiumProducer,
-      produce: async (ctx: ProduceCall) => {
-        produceCalls.push({
+    cccCompendiumSource: {
+      ...actual.cccCompendiumSource,
+      fetch: async (ctx: FetchCall) => {
+        fetchCalls.push({
           date: ctx.date,
           prefs: ctx.prefs,
           programDay: ctx.programDay,
@@ -38,8 +38,12 @@ vi.mock('@ember/producers', async (importOriginal) => {
           )
           anchors[String(q)] = { chapter: 'part-1' }
         }
-        return { html: parts.join('\n'), anchors }
+        return { type: 'prose', html: parts.join('\n'), anchors }
       },
+    },
+    // Legacy alias points at the same stub.
+    get cccCompendiumProducer() {
+      return this.cccCompendiumSource
     },
   }
 })
@@ -48,7 +52,7 @@ import { renderApp } from '@/test/renderApp'
 
 describe('PracticeFlow — compendium (program practice)', () => {
   beforeEach(() => {
-    produceCalls.length = 0
+    fetchCalls.length = 0
   })
 
   it('renders day 1 (Qs 1..6) via cycle → include on a fresh program', async () => {
@@ -73,11 +77,8 @@ describe('PracticeFlow — compendium (program practice)', () => {
     }
     expect(screen.queryByTestId('producer-anchor-q7')).toBeNull()
 
-    // producer.produce(ctx) saw {first:1,last:6} (after cycle's template
-    // substitution); programDay was passed through but the producer itself
-    // doesn't read it — pacing lives in the practice's data file.
-    expect(produceCalls.length).toBeGreaterThan(0)
-    const firstCall = produceCalls[0]
+    expect(fetchCalls.length).toBeGreaterThan(0)
+    const firstCall = fetchCalls[0]
     expect(firstCall.prefs.lang).toBe('en-US')
     expect(firstCall.params).toMatchObject({ first: '1', last: '6' })
   }, 30_000)

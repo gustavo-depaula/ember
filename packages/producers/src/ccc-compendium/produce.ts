@@ -3,52 +3,48 @@ import { fetchPage } from './fetchPage'
 import { parseChapter } from './parse'
 import type { ChapterId, Lang } from './types'
 
-type ProducerContext = {
+// Structural-only typing — the package doesn't depend on the app's Primitive
+// union, but the shape it returns must satisfy `ProsePrimitive` over there.
+type ProsePrimitive = {
+  type: 'prose'
+  html: string
+  anchors?: Record<string, { chapter: string }>
+}
+
+type SourceFetchContext = {
   date: Date
   prefs: { lang: string; translation: string }
   programDay?: number
-  params?: Record<string, unknown>
-}
-
-type ReaderResult = {
-  html: string
-  anchors: Record<string, { chapter: string }>
+  params: Record<string, unknown>
+  sources: unknown
 }
 
 function narrowLang(lang: string): Lang {
   return lang === 'pt-BR' ? 'pt-BR' : 'en-US'
 }
 
-function requireQNum(params: ProducerContext['params'], key: string): number {
-  const raw = params?.[key]
+function requireQNum(params: Record<string, unknown>, key: string): number {
+  const raw = params[key]
   const n = typeof raw === 'number' ? raw : typeof raw === 'string' ? Number(raw) : Number.NaN
   if (!Number.isInteger(n) || n < 1 || n > TOTAL_QUESTIONS)
     throw new Error(
-      `producer/ccc-compendium: param "${key}" must be 1..${TOTAL_QUESTIONS} (got ${String(raw)})`,
+      `ccc-compendium: param "${key}" must be 1..${TOTAL_QUESTIONS} (got ${String(raw)})`,
     )
   return n
 }
 
-// "Give me the HTML for Compendium questions {first}..{last}." Program-shape
-// decisions (how the practice divides the 598 Qs across days) live in the
-// practice's flow + data; this producer is a pure content-fetch service.
-export const cccCompendiumProducer = {
+// Returns the Compendium passage as a `prose` primitive: the renderer's
+// ProseBlock handles the rendering. Practices divide the 598 Qs across days
+// via cycle + per-day data files; this source is a pure fetch.
+export const cccCompendiumSource = {
   id: 'producer/ccc-compendium',
-  kind: 'reader' as const,
-  // Bump when output shape changes in a way that invalidates previously
-  // cached payloads (anchor scheme change, html cleanup change…).
-  version: '1',
-  cacheKey: (ctx: ProducerContext) => {
-    const first = requireQNum(ctx.params, 'first')
-    const last = requireQNum(ctx.params, 'last')
-    return `${first}-${last}`
-  },
-  async produce(ctx: ProducerContext): Promise<ReaderResult> {
+  version: '2',
+  prefsDeps: ['lang' as const],
+  async fetch(ctx: SourceFetchContext): Promise<ProsePrimitive> {
     const lang = narrowLang(ctx.prefs.lang)
     const first = requireQNum(ctx.params, 'first')
     const last = requireQNum(ctx.params, 'last')
-    if (first > last)
-      throw new Error(`producer/ccc-compendium: first (${first}) must be <= last (${last})`)
+    if (first > last) throw new Error(`ccc-compendium: first (${first}) must be <= last (${last})`)
 
     const raw = await fetchPage(lang)
     // Q ranges can span chapter boundaries (e.g. Q217 closes Part 1, Q218
@@ -71,6 +67,9 @@ export const cccCompendiumProducer = {
       anchors[String(q)] = { chapter }
     }
 
-    return { html: parts.join('\n'), anchors }
+    return { type: 'prose', html: parts.join('\n'), anchors }
   },
 }
+
+// Legacy alias for code mid-migration.
+export const cccCompendiumProducer = cccCompendiumSource

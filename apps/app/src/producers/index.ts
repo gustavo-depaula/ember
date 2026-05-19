@@ -1,15 +1,18 @@
-export { getProducer, registerProducer, unregisterProducer } from './registry'
-export type { CachedProducerResult } from './runCachedProducer'
-export { runCachedProducer } from './runCachedProducer'
+export {
+  getProducer,
+  getSource,
+  registerProducer,
+  registerSource,
+  unregisterProducer,
+  unregisterSource,
+} from './registry'
+export type { CachedProducerResult, CachedSourceResult } from './runCachedProducer'
+export { cacheKeyFor, runCachedProducer, runCachedSource } from './runCachedProducer'
 export type {
-  DataProducer,
-  DataProducerResult,
-  FlowProducer,
-  FlowProducerResult,
+  ContentSource,
   Producer,
   ProducerContext,
   ProducerPrefs,
-  ProducerResult,
-  ReaderProducer,
-  ReaderProducerResult,
+  SourceAccessor,
+  SourceFetchContext,
 } from './types'

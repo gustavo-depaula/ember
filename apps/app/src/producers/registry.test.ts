@@ -1,35 +1,42 @@
 import { afterEach, describe, expect, it } from 'vitest'
-import { getProducer, registerProducer, unregisterProducer } from './registry'
-import type { ReaderProducer } from './types'
+import { getSource, registerSource, unregisterSource } from './registry'
+import type { ContentSource } from './types'
 
-const testReader: ReaderProducer = {
-  id: 'producer/test-registry-reader',
-  kind: 'reader',
-  produce: async () => ({ html: '<p>ok</p>' }),
+const testSource: ContentSource = {
+  id: 'test-registry-source',
+  version: '1',
+  prefsDeps: [],
+  fetch: async () => ({ type: 'divider' }),
 }
 
-describe('producer registry', () => {
-  afterEach(() => unregisterProducer(testReader.id))
+describe('source registry', () => {
+  afterEach(() => unregisterSource(testSource.id))
 
-  it('registers and retrieves a producer by id', () => {
-    registerProducer(testReader)
-    expect(getProducer(testReader.id)).toBe(testReader)
+  it('registers and retrieves a source by id', () => {
+    registerSource(testSource)
+    expect(getSource(testSource.id)).toBe(testSource)
   })
 
   it('returns undefined for unknown ids', () => {
-    expect(getProducer('producer/does-not-exist')).toBeUndefined()
+    expect(getSource('does-not-exist')).toBeUndefined()
   })
 
-  it('unregister removes the producer', () => {
-    registerProducer(testReader)
-    unregisterProducer(testReader.id)
-    expect(getProducer(testReader.id)).toBeUndefined()
+  it('unregister removes the source', () => {
+    registerSource(testSource)
+    unregisterSource(testSource.id)
+    expect(getSource(testSource.id)).toBeUndefined()
   })
 
-  it('built-in CCC Compendium producer is pre-registered', () => {
-    const p = getProducer('producer/ccc-compendium')
-    expect(p).toBeDefined()
-    expect(p?.kind).toBe('reader')
-    expect(p?.version).toBeTruthy()
+  it('built-in sources are pre-registered', () => {
+    for (const id of [
+      'producer/ccc-compendium',
+      'producer/ccc-chapter',
+      'producer/bible-chapter',
+      'producer/psalmody',
+    ]) {
+      const s = getSource(id)
+      expect(s, `expected source ${id} to be registered`).toBeDefined()
+      expect(s?.version).toBeTruthy()
+    }
   })
 })

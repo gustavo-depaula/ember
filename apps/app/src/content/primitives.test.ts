@@ -12,7 +12,7 @@ describe('Primitive vocabulary', () => {
       { type: 'divider' },
       { type: 'verses', items: [{ text: { primary: 'a' } }] },
       { type: 'image', src: 'a.jpg' },
-      { type: 'prose', html: '<p>a</p>' },
+      { type: 'prose', text: { primary: 'a' } },
       { type: 'callout', variant: 'section-marker', title: { primary: 'a' } },
       {
         type: 'container',
