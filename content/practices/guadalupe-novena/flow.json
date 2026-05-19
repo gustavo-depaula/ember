@@ -15,14 +15,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Opening prayer:",
-        "pt-BR": "Ora\u00e7\u00e3o inicial:"
+        "pt-BR": "Oração inicial:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "Most Blessed Virgin of Guadalupe, Mother of the true God and our tender Mother, I place this novena in your hands. Intercede for me before your Son, Jesus Christ, and help me to welcome His will with faith, humility, and trust. Amen.",
-        "pt-BR": "Virgem Sant\u00edssima de Guadalupe, M\u00e3e do verdadeiro Deus e nossa terna M\u00e3e, coloco esta novena em vossas m\u00e3os. Intercedei por mim junto de vosso Filho, Jesus Cristo, e ajudai-me a acolher Sua vontade com f\u00e9, humildade e confian\u00e7a. Am\u00e9m."
+        "pt-BR": "Virgem Santíssima de Guadalupe, Mãe do verdadeiro Deus e nossa terna Mãe, coloco esta novena em vossas mãos. Intercedei por mim junto de vosso Filho, Jesus Cristo, e ajudai-me a acolher Sua vontade com fé, humildade e confiança. Amém."
       }
     },
     {
@@ -47,7 +47,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Inten\u00e7\u00e3o do dia:"
+            "pt-BR": "Intenção do dia:"
           }
         },
         {
@@ -63,7 +63,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
       }
     },
     {
@@ -85,14 +85,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Closing prayer:",
-        "pt-BR": "Ora\u00e7\u00e3o final:"
+        "pt-BR": "Oração final:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "Our Lady of Guadalupe, Mother of the Americas, pray for us. Protect our families, defend the vulnerable, strengthen the Church, and lead all peoples to your Son, Jesus Christ. Amen.",
-        "pt-BR": "Nossa Senhora de Guadalupe, M\u00e3e das Am\u00e9ricas, rogai por n\u00f3s. Protegei nossas fam\u00edlias, defendei os vulner\u00e1veis, fortalecei a Igreja e conduzi todos os povos ao vosso Filho, Jesus Cristo. Am\u00e9m."
+        "pt-BR": "Nossa Senhora de Guadalupe, Mãe das Américas, rogai por nós. Protegei nossas famílias, defendei os vulneráveis, fortalecei a Igreja e conduzi todos os povos ao vosso Filho, Jesus Cristo. Amém."
       }
     },
     {

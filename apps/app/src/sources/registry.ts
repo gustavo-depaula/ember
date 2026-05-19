@@ -1,6 +1,6 @@
-import { cccCompendiumSource } from '@ember/sources'
 import { bibleChapterSource } from './bible-chapter'
 import { cccChapterSource } from './ccc-chapter'
+import { cccCompendiumSource } from './ccc-compendium'
 import { psalmodySource } from './psalmody'
 import type { ContentSource } from './types'
 

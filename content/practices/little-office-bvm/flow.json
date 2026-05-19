@@ -30,7 +30,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -58,7 +58,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -79,7 +79,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura B\u00edblica"
+                "pt-BR": "Leitura Bíblica"
               }
             },
             {
@@ -116,7 +116,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -144,7 +144,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -165,7 +165,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura B\u00edblica"
+                "pt-BR": "Leitura Bíblica"
               }
             },
             {
@@ -182,7 +182,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "C\u00e2ntico"
+                "pt-BR": "Cântico"
               }
             },
             {
@@ -216,7 +216,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -244,7 +244,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -278,14 +278,14 @@
           "id": "terce",
           "label": {
             "en-US": "Terce",
-            "pt-BR": "Ter\u00e7a"
+            "pt-BR": "Terça"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -313,7 +313,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -354,7 +354,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -382,7 +382,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -423,7 +423,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -451,7 +451,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -485,14 +485,14 @@
           "id": "vespers",
           "label": {
             "en-US": "Vespers",
-            "pt-BR": "V\u00e9speras"
+            "pt-BR": "Vésperas"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -520,7 +520,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -543,7 +543,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura B\u00edblica"
+                "pt-BR": "Leitura Bíblica"
               }
             },
             {
@@ -560,7 +560,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "C\u00e2ntico"
+                "pt-BR": "Cântico"
               }
             },
             {
@@ -594,7 +594,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Vers\u00edculo de Abertura"
+                "pt-BR": "Versículo de Abertura"
               }
             },
             {
@@ -622,7 +622,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Psalmody",
-                "pt-BR": "Salm\u00f3dia"
+                "pt-BR": "Salmódia"
               }
             },
             {
@@ -660,7 +660,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "C\u00e2ntico"
+                "pt-BR": "Cântico"
               }
             },
             {
@@ -674,7 +674,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Closing Prayer",
-                "pt-BR": "Ora\u00e7\u00e3o Final"
+                "pt-BR": "Oração Final"
               }
             },
             {

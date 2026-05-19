@@ -13,8 +13,8 @@ type FetchCall = {
 
 const fetchCalls: FetchCall[] = []
 
-vi.mock('@ember/sources', async (importOriginal) => {
-  const actual = (await importOriginal()) as typeof import('@ember/sources')
+vi.mock('@/sources/ccc-compendium', async (importOriginal) => {
+  const actual = (await importOriginal()) as typeof import('@/sources/ccc-compendium')
   return {
     ...actual,
     cccCompendiumSource: {
