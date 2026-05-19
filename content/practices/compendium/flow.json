@@ -4,13 +4,12 @@
       "type": "rubric",
       "text": {
         "en-US": "From the Compendium of the Catechism of the Catholic Church",
-        "pt-BR": "Do Compêndio do Catecismo da Igreja Católica"
+        "pt-BR": "Do Comp\u00eandio do Catecismo da Igreja Cat\u00f3lica"
       }
     },
     {
       "type": "cycle",
       "data": "compendium-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -19,7 +18,10 @@
         {
           "type": "include",
           "ref": "producer/ccc-compendium",
-          "params": { "first": "{{first}}", "last": "{{last}}" }
+          "params": {
+            "first": "{{first}}",
+            "last": "{{last}}"
+          }
         }
       ]
     }

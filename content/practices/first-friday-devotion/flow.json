@@ -8,13 +8,12 @@
       "type": "heading",
       "text": {
         "en-US": "First Friday Devotion to the Sacred Heart",
-        "pt-BR": "Devoção da Primeira Sexta-feira ao Sagrado Coração"
+        "pt-BR": "Devo\u00e7\u00e3o da Primeira Sexta-feira ao Sagrado Cora\u00e7\u00e3o"
       }
     },
     {
       "type": "cycle",
       "data": "first-fridays",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -61,7 +60,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be for the intentions of the Holy Father.",
-        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai pelas intenções do Santo Padre."
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Gl\u00f3ria ao Pai pelas inten\u00e7\u00f5es do Santo Padre."
       }
     },
     {
@@ -90,7 +89,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "Sacred Heart of Jesus, I trust in Thee.\nSacred Heart of Jesus, have mercy on us.\nSacred Heart of Jesus, Thy kingdom come. Amen.",
-        "pt-BR": "Sagrado Coração de Jesus, eu confio em Vós.\nSagrado Coração de Jesus, tende piedade de nós.\nSagrado Coração de Jesus, venha a nós o Vosso Reino. Amém."
+        "pt-BR": "Sagrado Cora\u00e7\u00e3o de Jesus, eu confio em V\u00f3s.\nSagrado Cora\u00e7\u00e3o de Jesus, tende piedade de n\u00f3s.\nSagrado Cora\u00e7\u00e3o de Jesus, venha a n\u00f3s o Vosso Reino. Am\u00e9m."
       }
     },
     {

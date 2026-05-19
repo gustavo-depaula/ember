@@ -14,7 +14,6 @@
     {
       "type": "cycle",
       "data": "novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -40,7 +39,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray three Hail Marys.",
-        "pt-BR": "Reze três Ave Marias."
+        "pt-BR": "Reze tr\u00eas Ave Marias."
       }
     },
     {
@@ -62,7 +61,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee. O Mary, conceived without sin, pray for us who have recourse to thee.",
-        "pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós. Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+        "pt-BR": "\u00d3 Maria concebida sem pecado, rogai por n\u00f3s que recorremos a V\u00f3s. \u00d3 Maria concebida sem pecado, rogai por n\u00f3s que recorremos a V\u00f3s. \u00d3 Maria concebida sem pecado, rogai por n\u00f3s que recorremos a V\u00f3s."
       }
     },
     {

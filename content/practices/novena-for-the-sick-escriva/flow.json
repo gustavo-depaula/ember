@@ -7,7 +7,6 @@
     {
       "type": "cycle",
       "data": "sick-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "heading",
@@ -16,8 +15,8 @@
         {
           "type": "rubric",
           "text": {
-            "en-US": "St. Josemaría says:",
-            "pt-BR": "São Josemaria diz:"
+            "en-US": "St. Josemar\u00eda says:",
+            "pt-BR": "S\u00e3o Josemaria diz:"
           }
         },
         {
@@ -31,14 +30,14 @@
           "type": "options",
           "label": {
             "en-US": "Choose intention:",
-            "pt-BR": "Escolha a intenção:"
+            "pt-BR": "Escolha a inten\u00e7\u00e3o:"
           },
           "options": [
             {
               "id": "a",
               "label": {
                 "en-US": "Prayer of the sick person",
-                "pt-BR": "Oração do doente"
+                "pt-BR": "Ora\u00e7\u00e3o do doente"
               },
               "sections": [
                 {
@@ -51,7 +50,7 @@
               "id": "b",
               "label": {
                 "en-US": "Prayer for the sick person",
-                "pt-BR": "Oração pelo doente"
+                "pt-BR": "Ora\u00e7\u00e3o pelo doente"
               },
               "sections": [
                 {
@@ -70,15 +69,15 @@
     {
       "type": "rubric",
       "text": {
-        "en-US": "Pray the prayer to Saint Josemaría:",
-        "pt-BR": "Reze a oração a São Josemaria:"
+        "en-US": "Pray the prayer to Saint Josemar\u00eda:",
+        "pt-BR": "Reze a ora\u00e7\u00e3o a S\u00e3o Josemaria:"
       }
     },
     {
       "type": "prayer",
       "inline": {
-        "en-US": "O God, through the mediation of Mary our Mother, you granted your priest Saint Josemaría countless graces, choosing him as a most faithful instrument to found Opus Dei, a way of sanctification in daily work and in the fulfillment of the Christian's ordinary duties. Grant that I too may learn to turn all the circumstances and events of my life into occasions of loving you and serving the Church, the Pope and all souls with joy and simplicity, lighting up the pathways of this earth with faith and love. Deign to grant me, through the intercession of Saint Josemaría, the favour of… (make your request). Amen.",
-        "pt-BR": "Ó Deus, que por mediação da Santíssima Virgem Maria, concedestes inumeráveis graças a São Josemaria, sacerdote, escolhendo-o como instrumento fidelíssimo para fundar a Opus Dei, caminho de santificação no trabalho profissional e no cumprimento dos deveres cotidianos do cristão, fazei que eu saiba também converter todos os momentos e circunstâncias da minha vida em ocasião de Vos amar, e de servir com alegria e com simplicidade a Igreja, o Romano Pontífice e as almas, iluminando os caminhos da terra com o resplendor da fé e do amor. Concedei-me por intercessão de São Josemaria o favor que vos peço… (faça seu pedido). Assim seja."
+        "en-US": "O God, through the mediation of Mary our Mother, you granted your priest Saint Josemar\u00eda countless graces, choosing him as a most faithful instrument to found Opus Dei, a way of sanctification in daily work and in the fulfillment of the Christian's ordinary duties. Grant that I too may learn to turn all the circumstances and events of my life into occasions of loving you and serving the Church, the Pope and all souls with joy and simplicity, lighting up the pathways of this earth with faith and love. Deign to grant me, through the intercession of Saint Josemar\u00eda, the favour of\u2026 (make your request). Amen.",
+        "pt-BR": "\u00d3 Deus, que por media\u00e7\u00e3o da Sant\u00edssima Virgem Maria, concedestes inumer\u00e1veis gra\u00e7as a S\u00e3o Josemaria, sacerdote, escolhendo-o como instrumento fidel\u00edssimo para fundar a Opus Dei, caminho de santifica\u00e7\u00e3o no trabalho profissional e no cumprimento dos deveres cotidianos do crist\u00e3o, fazei que eu saiba tamb\u00e9m converter todos os momentos e circunst\u00e2ncias da minha vida em ocasi\u00e3o de Vos amar, e de servir com alegria e com simplicidade a Igreja, o Romano Pont\u00edfice e as almas, iluminando os caminhos da terra com o resplendor da f\u00e9 e do amor. Concedei-me por intercess\u00e3o de S\u00e3o Josemaria o favor que vos pe\u00e7o\u2026 (fa\u00e7a seu pedido). Assim seja."
       }
     },
     {

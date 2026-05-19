@@ -8,21 +8,21 @@
       "type": "heading",
       "text": {
         "en-US": "Novena to St. Jude",
-        "pt-BR": "Novena a São Judas Tadeu"
+        "pt-BR": "Novena a S\u00e3o Judas Tadeu"
       }
     },
     {
       "type": "rubric",
       "text": {
         "en-US": "Opening prayer:",
-        "pt-BR": "Oração inicial:"
+        "pt-BR": "Ora\u00e7\u00e3o inicial:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Jude, faithful servant and friend of Jesus, I place this novena before God through your intercession. Obtain for me a heart full of hope, perseverance in prayer, and trust in the mercy of Christ. Amen.",
-        "pt-BR": "São Judas Tadeu, servo fiel e amigo de Jesus, eu coloco esta novena diante de Deus por vossa intercessão. Alcançai-me um coração cheio de esperança, perseverança na oração e confiança na misericórdia de Cristo. Amém."
+        "pt-BR": "S\u00e3o Judas Tadeu, servo fiel e amigo de Jesus, eu coloco esta novena diante de Deus por vossa intercess\u00e3o. Alcan\u00e7ai-me um cora\u00e7\u00e3o cheio de esperan\u00e7a, perseveran\u00e7a na ora\u00e7\u00e3o e confian\u00e7a na miseric\u00f3rdia de Cristo. Am\u00e9m."
       }
     },
     {
@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "jude-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -48,7 +47,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Intenção do dia:"
+            "pt-BR": "Inten\u00e7\u00e3o do dia:"
           }
         },
         {
@@ -64,7 +63,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -86,14 +85,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "pt-BR": "Ora\u00e7\u00e3o final:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Jude, Apostle of Christ and helper in difficult needs, pray for us and for all who seek God's mercy. May we remain faithful to Jesus, serve our neighbor with charity, and give thanks for every grace received. Amen.",
-        "pt-BR": "São Judas Tadeu, Apóstolo de Cristo e socorro nas causas difíceis, rogai por nós e por todos os que buscam a misericórdia de Deus. Que permaneçamos fiéis a Jesus, sirvamos ao próximo com caridade e demos graças por toda graça recebida. Amém."
+        "pt-BR": "S\u00e3o Judas Tadeu, Ap\u00f3stolo de Cristo e socorro nas causas dif\u00edceis, rogai por n\u00f3s e por todos os que buscam a miseric\u00f3rdia de Deus. Que permane\u00e7amos fi\u00e9is a Jesus, sirvamos ao pr\u00f3ximo com caridade e demos gra\u00e7as por toda gra\u00e7a recebida. Am\u00e9m."
       }
     },
     {

@@ -89,20 +89,35 @@ describe('resolveFlowAsync — cycle template with prose+book', () => {
 describe('resolveFlow — CycleData contextKey', () => {
   it('uses contextKey to select entry set', () => {
     const result = resolveFlow(
-      flow({ type: 'cycle', data: 'psalter', as: 'psalmody' }),
+      flow({
+        type: 'cycle',
+        data: 'psalter',
+        sections: [
+          {
+            type: 'include',
+            ref: 'producer/psalmody',
+            params: { psalms: '{{psalms}}' },
+          },
+        ],
+      }),
       makeContext({
         numbering: 'lxx',
         cycleData: {
           psalter: {
             indexBy: 'day-of-month',
             contextKey: 'numbering',
-            entries: { lxx: [[90, 91]], mt: [[91, 92]] },
+            entries: {
+              lxx: [{ psalms: [90, 91] }],
+              mt: [{ psalms: [91, 92] }],
+            },
           },
         },
       }),
       makeEngineContext(),
     )
-    expect(result).toMatchObject([{ type: 'include', ref: 'producer/psalmody' }])
+    expect(result).toMatchObject([
+      { type: 'include', ref: 'producer/psalmody', params: { psalms: [90, 91] } },
+    ])
   })
 })
 

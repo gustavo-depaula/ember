@@ -18,14 +18,14 @@
           "id": "morning",
           "label": {
             "en-US": "Morning Prayer",
-            "pt-BR": "Oração da Manhã"
+            "pt-BR": "Ora\u00e7\u00e3o da Manh\u00e3"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -44,9 +44,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -61,8 +59,15 @@
             {
               "type": "cycle",
               "data": "psalter-30-day",
-              "key": "morning",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{morning.psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
@@ -71,7 +76,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura Bíblica"
+                "pt-BR": "Leitura B\u00edblica"
               }
             },
             {
@@ -85,7 +90,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -112,14 +117,14 @@
           "id": "evening",
           "label": {
             "en-US": "Evening Prayer",
-            "pt-BR": "Oração da Tarde"
+            "pt-BR": "Ora\u00e7\u00e3o da Tarde"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -138,9 +143,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -155,8 +158,15 @@
             {
               "type": "cycle",
               "data": "psalter-30-day",
-              "key": "evening",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{evening.psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
@@ -165,7 +175,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Scripture Reading",
-                "pt-BR": "Leitura Bíblica"
+                "pt-BR": "Leitura B\u00edblica"
               }
             },
             {
@@ -179,7 +189,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -206,14 +216,14 @@
           "id": "compline",
           "label": {
             "en-US": "Night Prayer",
-            "pt-BR": "Oração da Noite"
+            "pt-BR": "Ora\u00e7\u00e3o da Noite"
           },
           "sections": [
             {
               "type": "subheading",
               "text": {
                 "en-US": "Opening Verse",
-                "pt-BR": "Versículo de Abertura"
+                "pt-BR": "Vers\u00edculo de Abertura"
               }
             },
             {
@@ -232,9 +242,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "compline",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -249,7 +257,15 @@
             {
               "type": "cycle",
               "data": "compline-psalms",
-              "as": "psalmody"
+              "sections": [
+                {
+                  "type": "include",
+                  "ref": "producer/psalmody",
+                  "params": {
+                    "psalms": "{{psalms}}"
+                  }
+                }
+              ]
             },
             {
               "type": "divider"
@@ -272,7 +288,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Canticle",
-                "pt-BR": "Cântico"
+                "pt-BR": "C\u00e2ntico"
               }
             },
             {
@@ -286,7 +302,7 @@
               "type": "subheading",
               "text": {
                 "en-US": "Closing Prayer",
-                "pt-BR": "Oração Final"
+                "pt-BR": "Ora\u00e7\u00e3o Final"
               }
             },
             {

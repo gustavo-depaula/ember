@@ -1,10 +1,8 @@
 export { AnimatedCheckbox } from './AnimatedCheckbox'
 export { AnimatedPressable } from './AnimatedPressable'
-export { BibleReadingBlock } from './BibleReadingBlock'
 export { BottomSheet } from './BottomSheet'
 export { CandleFlame } from './CandleFlame'
 export { Card } from './Card'
-export { CccReadingBlock } from './CccReadingBlock'
 export { ConfirmHost, confirm } from './ConfirmSheet'
 export { FadeInView } from './FadeInView'
 export { GreenWall, type WallEntry } from './GreenWall'
@@ -26,25 +24,20 @@ export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
 export { PrayerTextInput } from './PrayerTextInput'
 export { PrimitiveBlock } from './PrimitiveBlock'
-export { VersesBlock } from './VersesBlock'
-export { PsalmodyBlock, type PsalmSlot } from './PsalmodyBlock'
 export {
-  CanticleBlock,
   CollapsiblePrayer,
-  HymnBlock,
   LiturgicalPrayerBlock,
   OptionsBlock,
   PrayerTextBlock,
   ProperSlot,
-  ResponseBlock,
   SelectBlock,
 } from './prayer'
 export { ReaderErrorState } from './ReaderErrorState'
 export { ReadingConfigBadge, ReadingConfigModal } from './ReadingConfigModal'
 export { RubricLabel } from './RubricLabel'
 export { ScreenLayout } from './ScreenLayout'
-export { SectionBlock } from './SectionBlock'
 export { SectionDivider } from './SectionDivider'
 export { Skeleton } from './Skeleton'
 export { SlotChip } from './SlotChip'
 export { Threshold } from './Threshold'
+export { VersesBlock } from './VersesBlock'

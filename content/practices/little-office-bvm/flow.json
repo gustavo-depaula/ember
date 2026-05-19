@@ -49,9 +49,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -137,9 +135,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -239,9 +235,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -310,9 +304,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -381,9 +373,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "morning",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -452,9 +442,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -523,9 +511,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "evening",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"
@@ -627,9 +613,7 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns",
-              "key": "compline",
-              "as": "hymn"
+              "data": "office-hymns"
             },
             {
               "type": "divider"

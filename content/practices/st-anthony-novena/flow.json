@@ -8,21 +8,21 @@
       "type": "heading",
       "text": {
         "en-US": "Novena to St. Anthony of Padua",
-        "pt-BR": "Novena a Santo Antônio de Pádua"
+        "pt-BR": "Novena a Santo Ant\u00f4nio de P\u00e1dua"
       }
     },
     {
       "type": "rubric",
       "text": {
         "en-US": "Opening prayer:",
-        "pt-BR": "Oração inicial:"
+        "pt-BR": "Ora\u00e7\u00e3o inicial:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Anthony of Padua, faithful disciple of Christ and servant of the poor, intercede for us before God. Teach us to love the Gospel, seek holiness in ordinary life, and trust in divine providence in every need. Amen.",
-        "pt-BR": "Santo Antônio de Pádua, fiel discípulo de Cristo e servo dos pobres, intercedei por nós diante de Deus. Ensinai-nos a amar o Evangelho, buscar a santidade na vida comum e confiar na providência divina em toda necessidade. Amém."
+        "pt-BR": "Santo Ant\u00f4nio de P\u00e1dua, fiel disc\u00edpulo de Cristo e servo dos pobres, intercedei por n\u00f3s diante de Deus. Ensinai-nos a amar o Evangelho, buscar a santidade na vida comum e confiar na provid\u00eancia divina em toda necessidade. Am\u00e9m."
       }
     },
     {
@@ -32,13 +32,12 @@
       "type": "rubric",
       "text": {
         "en-US": "Read the meditation and offer the intention of the day.",
-        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+        "pt-BR": "Leia a medita\u00e7\u00e3o e ofere\u00e7a a inten\u00e7\u00e3o do dia."
       }
     },
     {
       "type": "cycle",
       "data": "anthony-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -55,7 +54,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Intenção do dia:"
+            "pt-BR": "Inten\u00e7\u00e3o do dia:"
           }
         },
         {
@@ -71,7 +70,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -93,14 +92,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "pt-BR": "Ora\u00e7\u00e3o final:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Anthony, friend of Jesus and helper of all who call upon you, obtain for us steadfast faith, generous charity, and perseverance in prayer. May we seek first the Kingdom of God and give thanks for every grace received. Amen.",
-        "pt-BR": "Santo Antônio, amigo de Jesus e auxílio de todos os que vos invocam, alcançai-nos fé firme, caridade generosa e perseverança na oração. Que busquemos em primeiro lugar o Reino de Deus e demos graças por cada graça recebida. Amém."
+        "pt-BR": "Santo Ant\u00f4nio, amigo de Jesus e aux\u00edlio de todos os que vos invocam, alcan\u00e7ai-nos f\u00e9 firme, caridade generosa e perseveran\u00e7a na ora\u00e7\u00e3o. Que busquemos em primeiro lugar o Reino de Deus e demos gra\u00e7as por cada gra\u00e7a recebida. Am\u00e9m."
       }
     },
     {

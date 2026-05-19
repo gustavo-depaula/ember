@@ -15,14 +15,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Opening prayer:",
-        "pt-BR": "Oração inicial:"
+        "pt-BR": "Ora\u00e7\u00e3o inicial:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Therese, Little Flower of Jesus, teach me your Little Way of trust, humility, and love. Present my intentions to the Lord and help me offer each moment with generous charity. Amen.",
-        "pt-BR": "Santa Teresinha, Pequena Flor de Jesus, ensinai-me vossa Pequena Via de confiança, humildade e amor. Apresentai minhas intenções ao Senhor e ajudai-me a oferecer cada momento com caridade generosa. Amém."
+        "pt-BR": "Santa Teresinha, Pequena Flor de Jesus, ensinai-me vossa Pequena Via de confian\u00e7a, humildade e amor. Apresentai minhas inten\u00e7\u00f5es ao Senhor e ajudai-me a oferecer cada momento com caridade generosa. Am\u00e9m."
       }
     },
     {
@@ -32,13 +32,12 @@
       "type": "rubric",
       "text": {
         "en-US": "Read the meditation and offer the intention of the day.",
-        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+        "pt-BR": "Leia a medita\u00e7\u00e3o e ofere\u00e7a a inten\u00e7\u00e3o do dia."
       }
     },
     {
       "type": "cycle",
       "data": "therese-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -55,7 +54,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Intenção do dia:"
+            "pt-BR": "Inten\u00e7\u00e3o do dia:"
           }
         },
         {
@@ -71,7 +70,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -93,14 +92,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "pt-BR": "Ora\u00e7\u00e3o final:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "St. Therese of Lisieux, Little Flower, obtain for us the grace to do small things with great love, to trust Jesus in every trial, and to persevere in holiness. Pray for us now and at the hour of our death. Amen.",
-        "pt-BR": "Santa Teresinha de Lisieux, Pequena Flor, alcançai-nos a graça de fazer as pequenas coisas com grande amor, de confiar em Jesus em toda provação e de perseverar na santidade. Rogai por nós agora e na hora de nossa morte. Amém."
+        "pt-BR": "Santa Teresinha de Lisieux, Pequena Flor, alcan\u00e7ai-nos a gra\u00e7a de fazer as pequenas coisas com grande amor, de confiar em Jesus em toda prova\u00e7\u00e3o e de perseverar na santidade. Rogai por n\u00f3s agora e na hora de nossa morte. Am\u00e9m."
       }
     },
     {

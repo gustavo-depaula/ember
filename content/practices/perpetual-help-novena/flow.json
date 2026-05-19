@@ -8,21 +8,21 @@
       "type": "heading",
       "text": {
         "en-US": "Novena to Our Lady of Perpetual Help",
-        "pt-BR": "Novena a Nossa Senhora do Perpétuo Socorro"
+        "pt-BR": "Novena a Nossa Senhora do Perp\u00e9tuo Socorro"
       }
     },
     {
       "type": "rubric",
       "text": {
         "en-US": "Opening prayer:",
-        "pt-BR": "Oração inicial:"
+        "pt-BR": "Ora\u00e7\u00e3o inicial:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "Mother of Perpetual Help, with childlike confidence I come before your holy icon and place this novena in your hands. Obtain for me the grace to trust Jesus in every need, persevere in prayer, and follow His will with a faithful heart. Amen.",
-        "pt-BR": "Mãe do Perpétuo Socorro, com confiança filial venho diante de vosso santo ícone e coloco esta novena em vossas mãos. Alcançai-me a graça de confiar em Jesus em toda necessidade, perseverar na oração e seguir Sua vontade com coração fiel. Amém."
+        "pt-BR": "M\u00e3e do Perp\u00e9tuo Socorro, com confian\u00e7a filial venho diante de vosso santo \u00edcone e coloco esta novena em vossas m\u00e3os. Alcan\u00e7ai-me a gra\u00e7a de confiar em Jesus em toda necessidade, perseverar na ora\u00e7\u00e3o e seguir Sua vontade com cora\u00e7\u00e3o fiel. Am\u00e9m."
       }
     },
     {
@@ -31,7 +31,6 @@
     {
       "type": "cycle",
       "data": "perpetual-help-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -48,7 +47,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Intenção do dia:"
+            "pt-BR": "Inten\u00e7\u00e3o do dia:"
           }
         },
         {
@@ -64,7 +63,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -86,14 +85,14 @@
       "type": "rubric",
       "text": {
         "en-US": "Closing prayer:",
-        "pt-BR": "Oração final:"
+        "pt-BR": "Ora\u00e7\u00e3o final:"
       }
     },
     {
       "type": "prayer",
       "inline": {
         "en-US": "Our Lady of Perpetual Help, pray for us. Help us in every trial, protect our families, strengthen the Church, and lead us always to your Son, Jesus Christ. Amen.",
-        "pt-BR": "Nossa Senhora do Perpétuo Socorro, rogai por nós. Socorrei-nos em toda provação, protegei nossas famílias, fortalecei a Igreja e conduzi-nos sempre ao vosso Filho, Jesus Cristo. Amém."
+        "pt-BR": "Nossa Senhora do Perp\u00e9tuo Socorro, rogai por n\u00f3s. Socorrei-nos em toda prova\u00e7\u00e3o, protegei nossas fam\u00edlias, fortalecei a Igreja e conduzi-nos sempre ao vosso Filho, Jesus Cristo. Am\u00e9m."
       }
     },
     {

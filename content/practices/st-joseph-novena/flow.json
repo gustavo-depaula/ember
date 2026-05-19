@@ -8,20 +8,19 @@
       "type": "heading",
       "text": {
         "en-US": "Novena to St. Joseph",
-        "pt-BR": "Novena a São José"
+        "pt-BR": "Novena a S\u00e3o Jos\u00e9"
       }
     },
     {
       "type": "rubric",
       "text": {
         "en-US": "Read the meditation and offer the intention of the day.",
-        "pt-BR": "Leia a meditação e ofereça a intenção do dia."
+        "pt-BR": "Leia a medita\u00e7\u00e3o e ofere\u00e7a a inten\u00e7\u00e3o do dia."
       }
     },
     {
       "type": "cycle",
       "data": "joseph-novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -38,7 +37,7 @@
           "type": "rubric",
           "text": {
             "en-US": "Today's intention:",
-            "pt-BR": "Intenção do dia:"
+            "pt-BR": "Inten\u00e7\u00e3o do dia:"
           }
         },
         {
@@ -54,7 +53,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai-Nosso, uma Ave-Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -76,7 +75,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "St. Joseph, guardian of Jesus and spouse of Mary, obtain for us a faithful heart, perseverance in grace, and final union with Christ. Amen.",
-        "pt-BR": "São José, guardião de Jesus e esposo de Maria, alcançai-nos um coração fiel, perseverança na graça e união final com Cristo. Amém."
+        "pt-BR": "S\u00e3o Jos\u00e9, guardi\u00e3o de Jesus e esposo de Maria, alcan\u00e7ai-nos um cora\u00e7\u00e3o fiel, perseveran\u00e7a na gra\u00e7a e uni\u00e3o final com Cristo. Am\u00e9m."
       }
     },
     {

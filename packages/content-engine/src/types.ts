@@ -128,7 +128,7 @@ export type FlowSection = { lang?: string } & (
       from: string
       sections: FlowSection[]
     }
-  | { type: 'cycle'; data: string; key?: string; as: string; sections?: FlowSection[] }
+  | { type: 'cycle'; data: string; sections: FlowSection[] }
   | { type: 'lectio'; track: string }
   | { type: 'lectio'; reference: string }
   | {

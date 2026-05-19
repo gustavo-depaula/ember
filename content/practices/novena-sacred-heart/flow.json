@@ -8,13 +8,12 @@
       "type": "heading",
       "text": {
         "en-US": "Novena to the Sacred Heart of Jesus",
-        "pt-BR": "Novena ao Sagrado Coração de Jesus"
+        "pt-BR": "Novena ao Sagrado Cora\u00e7\u00e3o de Jesus"
       }
     },
     {
       "type": "cycle",
       "data": "novena-days",
-      "as": "template",
       "sections": [
         {
           "type": "subheading",
@@ -40,7 +39,7 @@
       "type": "rubric",
       "text": {
         "en-US": "Pray one Our Father, one Hail Mary, and one Glory Be.",
-        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Glória ao Pai."
+        "pt-BR": "Reze um Pai Nosso, uma Ave Maria e um Gl\u00f3ria ao Pai."
       }
     },
     {
@@ -62,7 +61,7 @@
       "type": "prayer",
       "inline": {
         "en-US": "O Sacred Heart of Jesus, I place all my trust in You. Most Sacred Heart of Jesus, have mercy on us. Sacred Heart of Jesus, I believe in Your love for me. Amen.",
-        "pt-BR": "Ó Sagrado Coração de Jesus, em Vós deposito toda a minha confiança. Sacratíssimo Coração de Jesus, tende piedade de nós. Sagrado Coração de Jesus, eu creio no Vosso amor por mim. Amém."
+        "pt-BR": "\u00d3 Sagrado Cora\u00e7\u00e3o de Jesus, em V\u00f3s deposito toda a minha confian\u00e7a. Sacrat\u00edssimo Cora\u00e7\u00e3o de Jesus, tende piedade de n\u00f3s. Sagrado Cora\u00e7\u00e3o de Jesus, eu creio no Vosso amor por mim. Am\u00e9m."
       }
     },
     {

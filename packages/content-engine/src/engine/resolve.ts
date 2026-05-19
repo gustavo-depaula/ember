@@ -25,7 +25,7 @@ import {
   type RenderedLiturgicalColor,
 } from './labels'
 import { type ChoiceRichTextSection, resolveChoiceRichText } from './sections/choice-rich-text'
-import { getCycleIndex, mapCycleOutput } from './sections/cycle'
+import { getCycleIndex } from './sections/cycle'
 import { resolveCanticleRef, resolveInlinePrayer, resolvePrayerRef } from './sections/prayer'
 import { resolveRepeat } from './sections/repeat'
 import { computeSelectedId, resolveSelectFromData } from './sections/select'
@@ -210,22 +210,14 @@ export function resolveSection(
       if (!entries?.length) return []
 
       const index = getCycleIndex(cycleData.indexBy, context.date, entries.length, context)
-      const entry = entries[index]
+      const entry = entries[index] as Record<string, unknown>
 
-      if (section.as === 'template' && section.sections) {
-        const entryVars = resolveEntryVars(
-          entry as Record<string, string | LocalizedText | undefined>,
-          ec,
-        )
-        const substVars = composeVars(context, entryVars)
-        return section.sections.flatMap((s) => {
-          const substituted = substituteInFlowSection(s, substVars)
-          return resolveSection(substituted, context, ec)
-        })
-      }
-
-      const raw = section.key ? (entry as Record<string, unknown>)[section.key] : entry
-      return mapCycleOutput(section.as, raw, ec)
+      const entryVars = resolveEntryVars(entry, ec)
+      const substVars = composeVars(context, entryVars)
+      return section.sections.flatMap((s) => {
+        const substituted = substituteInFlowSection(s, substVars)
+        return resolveSection(substituted, context, ec)
+      })
     }
 
     case 'include':
