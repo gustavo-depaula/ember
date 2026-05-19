@@ -19,11 +19,9 @@ From the beginning of man's existence, sacrifices have been offered to God. The 
 
 > In common language we speak of "sacrificing" for the sake of another: for example, a mother sacrifices herself for her children, a soldier sacrifices himself for his country. The meaning is that some valuable thing is given up — time, luxuries, health, life — for the sake of another. So in offering a sacrifice to God, we give it up, for love of Him.
 
-4. The offering of sacrifice is an honour reserved to God alone, since the formal act of
+4. The offering of sacrifice is an honour reserved to God alone, since the formal act of offering and destroying an oblation is an act of worship or adoration. In order to make a solemn religious act of sacrifice to God, men have from earliest days asked priests, those consecrated to the service of God, to offer their sacrifices, to be the intermediary between man and God.
 
-Because they did not have a knowledge of the true God, the ancient Greeks and Egyptians offered human sacrifices. The Caan a nites used to offer human victims to their idol Moloch, heating the brazen statue of the god red-hot, and casting the victims into its arms. Even today, some pagan peoples offer human sacrifices. Thus we see how perversion enters when the true God is not known.
-
-offering and destroying an oblation is an act of worship or adoration. In order to make a solemn religious act of sacrifice to God, men have from earliest days asked priests, those consecrated to the service of God, to offer their sacrifices, to be the intermediary between man and God.
+> Because they did not have a knowledge of the true God, the ancient Greeks and Egyptians offered human sacrifices. The Canaanites used to offer human victims to their idol Moloch, heating the brazen statue of the god red-hot, and casting the victims into its arms. Even today, some pagan peoples offer human sacrifices. Thus we see how perversion enters when the true God is not known.
 
 > In ordinary life, we offer valuable things to those we love or respect, as a sign of gratitude or affection. In this way we give Christmas and birthday presents, commemoration gifts, etc. But these offerings are a "sacrifice" only in the common sense of the term, and are not included in the formal sacrifice that can be offered to God alone. This last is the offering and destroying or changing of something, in acknowledgement of God's infinite majesty.
 

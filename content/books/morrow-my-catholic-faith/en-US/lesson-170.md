@@ -18,11 +18,9 @@ Those who enter matrimony should imitate the good dispositions of Tobias and Sar
 
 **What are the "banns of matrimony"?**
 
-— The banns of matrimony are a public proclamation of an intended marriage, made at the principal Mass on three successive Sundays or festival days, in the church or
+— The banns of matrimony are a public proclamation of an intended marriage, made at the principal Mass on three successive Sundays or festival days, in the church or churches to which the bride and groom belong. 1. The purpose of the banns is to discover impediments, to avoid secret marriages, and to furnish those interested an opportunity to intervene, should they wish to do so.
 
-Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church."The union is for life, for better or worse.
-
-churches to which the bride and groom belong. 1. The purpose of the banns is to discover impediments, to avoid secret marriages, and to furnish those interested an opportunity to intervene, should they wish to do so.
+> Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church." The union is for life, for better or worse.
 
 > In this, Mother Church shows its solicitude for her children, avoiding hasty marriages, doing her best to assure a holy and valid union. Dispensation from banns is granted for urgent reasons.
 

@@ -2,10 +2,10 @@
 
 ![](../images/lesson-140.webp)
 
-Beginning of Mass Confiteor
 
 
-**The Beginning of Mass**
+
+## The Beginning of Mass
 
 > As the priest enters the sanctuary, the people stand, out of respect for the representative of Christ. They then kneel for the beginning of Mass.
 
@@ -18,7 +18,7 @@ The priest says an introductory psalm, to express his trust in God, and his awar
 > In Masses for the dead, and from Passion Sunday to Holy Saturday exclusively, the psalm is omitted.
 
 
-**The Confiteor**
+## The Confiteor
 
 After the psalm, the priest bows and says the Confiteor a confession of sin, as a preparation, an expression of humility before God. The Confiteor is repeated by the server in behalf of the people.
 
@@ -31,7 +31,7 @@ Originally the Introit was a psalm chanted by the priest and his assistants when
 
 > The Introit varies each day, as do certain other parts of the Mass, like the Collects, Epistle, Gradual, Gospel, Offertory, Secrets, Communion, and Post- communions.
 
-Gloria
+## Gloria
 
 
 **The Kyrie**
@@ -70,7 +70,7 @@ Here follow the Gradual, Alleluia, Tract, and Sequence, all varying in accordanc
 
 > The Missal is then carried to the left or gospel side of the altar. This act symbolizes the passing of the faith from the Jews to the Gentiles
 
-The Gospel
+## The Gospel
 
 
 **The Gospel**
@@ -86,7 +86,7 @@ After the Gospel the priest on Sundays and holydays of obligation usually preach
 
 > At the words, *in car natus est* (And was made man), the people genuflect with the priest, in memory of Our Lord's Incarnation. The people may sit down after the Credo.
 
-The Offertory
+## The Offertory
 
 
 **The Offertory**
@@ -101,7 +101,7 @@ The Offertory consists of two parts: the offering of the bread and the offering 
 
 In offering the chalice, the priest says: "We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, that it may ascend before Thy divine Majesty as a sweet savour for our salvation and for that of the whole world. Amen."
 
-Lava bo
+## Lavabo
 
 
 **The Lava bo and Or ate Fratres**
@@ -124,7 +124,7 @@ The Preface is a prayer of thanksgiving, varying with the day and season.
 
 > The prayer ends with the Sanctus, This part is indicated by the ringing of the bell three times. The people kneel. The priest joins his hands and bows as he says the Sanctus.
 
-Sanctus
+## Sanctus
 
 The Sanctus represents the entry of Christ in Jerusalem. The people ought to unite themselves with the angels who hail with praises the coming of the Son of God, soon to descend on the altar.
 
@@ -139,7 +139,7 @@ The priest crosses the oblation of bread and wine five times, in honor of the Fi
 
 > The people should recollect themselves in preparation for the consecration.
 
-Elevation
+## Elevation
 
 
 **The Consecration**
@@ -154,7 +154,7 @@ After adoring, the priest elevates first the Host, then the chalice, for the peo
 
 Immediately after the consecration, we should make to God the Father an act of offering of His Divine Son. We have a worthy gift to offer to God, Christ Himself.
 
-Pater Noster
+## Pater Noster
 
 
 **The Commemoration of the Dead**
@@ -199,7 +199,7 @@ The priest takes the Ablution; that is, he drinks wine and water that are poured
 
 > The priest dries the inside of the chalice; folding the corporal, he places it on the chalice as at the beginning of Mass.
 
-Post communion
+## Postcommunion
 
 
 **The Post communion**
@@ -217,7 +217,7 @@ Once more at the Epistle side, the priest reads the Post communion prayers, peti
 
 The priest turns to the people and says: '' *Ite, Missa est* " (Go, the Mass is ended).
 
-Blessing
+## Blessing
 
 > These words of dismissal represent Christ's Ascension, when He sent His Apostles forth to evangelize the world. These words are varied for different occasions. If the Gloria has not been said, the words used here are: " *Benedicamus Domino* " (Let us bless the Lord) In Masses for the dead the words are: " *Requiescant in pace* " (May they rest in peace). In Easter week, the words alleluia, alleluia, alleluia, are added.
 
@@ -238,7 +238,7 @@ The priest turns to the left side to read the Last Gospel, which is taken from t
 
 > A votive Mass is one said in honor of some particular mystery or saint, on a day not set apart by the Church for the commemoration of that mystery or saint.
 
-Prayers after Mass
+## Prayers after Mass
 
 
 **Prayers After Mass**
