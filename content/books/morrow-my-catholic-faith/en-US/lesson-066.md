@@ -44,7 +44,9 @@
 
 **How does the Church exercise her authority to teach, to sanctify, and to govern the faithful?**
 
-— The Church exercises her authority to teach, to sanctify, and to govern the faithful by various means, among them being: 1. Teaching by sermons and by religious classes in schools and parishes.
+— The Church exercises her authority to teach, to sanctify, and to govern the faithful by various means, among them being:
+
+1. Teaching by sermons and by religious classes in schools and parishes.
 
 > Today the Church teaches by preaching, by deciding controversies, and by condemning wrong teaching. Parish churches have sermons in the Masses of Sundays and holydays of obligation. Every Catholic school prescribes the study of religion in every class. Every parish holds catechetical classes.
 

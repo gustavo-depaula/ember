@@ -2,7 +2,7 @@
 
 ![](../images/lesson-037.webp)
 
-On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Our Lord spoke to the disciples, telling them how the Holy Ghost would descend upon them. "And when He had said this, he was lifted up before their eyes, and a cloud took him out of their sight, And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, 'Men of Galilee, why do you stand looking up to heaven? This Jesus who has been taken from you into heaven, will come in the same way as you have seen him going up to heaven'" (Acts 1: 9-11).
+*On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Our Lord spoke to the disciples, telling them how the Holy Ghost would descend upon them. "And when He had said this, he was lifted up before their eyes, and a cloud took him out of their sight, And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, 'Men of Galilee, why do you stand looking up to heaven? This Jesus who has been taken from you into heaven, will come in the same way as you have seen him going up to heaven'" (Acts 1: 9-11).*
 
 (SIXTH ARTICLE OF THE APOSTLES' CREED)
 
@@ -61,7 +61,9 @@ On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Ou
 
 **What do we mean when we say that Christ will come from thence to judge the living and the dead?**
 
-— When we say that Christ will come from thence to judge the living and the dead, we mean that on the last day Our Lord will come to pronounce a sentence of eternal reward or of eternal punishment on every one who has ever lived in this world. (Seventh Article of the Apostles' Creed: see Chapter 81 on General Judgement) 1. Jesus Christ will be our Supreme Judge because He is "King of kings and Lord of lords" (Apoc. 17: 14).
+— When we say that Christ will come from thence to judge the living and the dead, we mean that on the last day Our Lord will come to pronounce a sentence of eternal reward or of eternal punishment on every one who has ever lived in this world. (Seventh Article of the Apostles' Creed: see Chapter 81 on General Judgement)
+
+1. Jesus Christ will be our Supreme Judge because He is "King of kings and Lord of lords" (Apoc. 17: 14).
 
 > "For the Son of Man is to come with his angels in the glory of his Father and then he will render to everyone according to his conduct" (Matt. 16: 27).
 

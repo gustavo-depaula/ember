@@ -2,12 +2,14 @@
 
 ![](../images/lesson-015.webp)
 
-Whoever we are, wherever we are, each of us has always a guardian angel at our side. He sees everything we do: both good and evil. We should always be very careful not to offend or hurt him. We should often thank him for his love and care. We should ask him to intercede with God for us in our necessities. We should pray to him often, especially in temptation or danger.
+*Whoever we are, wherever we are, each of us has always a guardian angel at our side. He sees everything we do: both good and evil. We should always be very careful not to offend or hurt him. We should often thank him for his love and care. We should ask him to intercede with God for us in our necessities. We should pray to him often, especially in temptation or danger.*
 
 
 **Which are the chief creatures of God?**
 
-— The chief creatures of God are angels and men. 1. God created angels and men for His own external glory. Their creation was a reflection of His wisdom and greatness.
+— The chief creatures of God are angels and men.
+
+1. God created angels and men for His own external glory. Their creation was a reflection of His wisdom and greatness.
 
 > By reason alone we cannot know that angels exist. However, reason indicates that in the orderly sequence of creatures from the lowest to the highest, there would be a greater gap between man and God, if the angels did not exist.
 
@@ -31,7 +33,9 @@ Whoever we are, wherever we are, each of us has always a guardian angel at our s
 
 **What gifts did God bestow on the Angels when He created them?**
 
-— When God created the angels He bestowed on them great wisdom, power, and holiness. 1. Angels are the most excellent beings created by God. They are nobler in nature than men. They know more, and have greater power. Of all God's creatures, angels resemble Him most.
+— When God created the angels He bestowed on them great wisdom, power, and holiness.
+
+1. Angels are the most excellent beings created by God. They are nobler in nature than men. They know more, and have greater power. Of all God's creatures, angels resemble Him most.
 
 > We can imply the knowledge of the angels from the words of Our Lords: "But of that day (the day of Judgement) and hour no one knows, not even the angels of heaven, but the Father only" (Matt. 24: 36). The power of angels was shown in Egypt when one destroyed all the first-born of the Egyptians; another angel destroyed the hosts of the Assyrian King, for blaspheming God.
 
@@ -42,7 +46,9 @@ Whoever we are, wherever we are, each of us has always a guardian angel at our s
 
 **Did all the angels remain faithful to God?**
 
-— Not all the angels remained faithful to God; some of them sinned. 1. God gave free will to the angels, as He did to men. He put them to a test, in order to make them earn the happiness of heaven.
+— Not all the angels remained faithful to God; some of them sinned.
+
+1. God gave free will to the angels, as He did to men. He put them to a test, in order to make them earn the happiness of heaven.
 
 > We do not know the exact nature of the test which God gave the angels.
 
@@ -81,7 +87,9 @@ Whoever we are, wherever we are, each of us has always a guardian angel at our s
 
 **How do our guardian angels help us?**
 
-— Our guardian angels help us by praying for us, by protecting us from harm, and by inspiring us to do good. 1. Our guardian angels are given special care of us, watching over each from birth to death.
+— Our guardian angels help us by praying for us, by protecting us from harm, and by inspiring us to do good.
+
+1. Our guardian angels are given special care of us, watching over each from birth to death.
 
 > We should always love and pray to our Guardian Angel who never leaves our side. The Church celebrates the feast of the Guardian Angels on October 2.
 

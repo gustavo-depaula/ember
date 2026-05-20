@@ -2,12 +2,14 @@
 
 ![](../images/lesson-174.webp)
 
-Those who follow the evangelical counsels of poverty, chastity, and obedience give up the pleasures of the world in order to serve and love God more fully. They put into practice the idea behind these words of Holy Scripture: "What doth profit a man if he gain the whole world, and suffer the loss of his own soul?" God gives more weight to the Counsels than to riches.
+*Those who follow the evangelical counsels of poverty, chastity, and obedience give up the pleasures of the world in order to serve and love God more fully. They put into practice the idea behind these words of Holy Scripture: "What doth profit a man if he gain the whole world, and suffer the loss of his own soul?" God gives more weight to the Counsels than to riches.*
 
 
 **What does Our Saviour especially recommend that is not strictly commanded by the law of God?**
 
-— Our Saviour especially recommends the observance of the Evangelical Counsels — voluntary poverty, perpetual chastity, and perfect obedience. 1. "Evangelical" here means contained in the Gospels; these counsels of perfection are clearly set forth in Holy Scripture.
+— Our Saviour especially recommends the observance of the Evangelical Counsels — voluntary poverty, perpetual chastity, and perfect obedience.
+
+1. "Evangelical" here means contained in the Gospels; these counsels of perfection are clearly set forth in Holy Scripture.
 
 > They are called counsels, because they are an invitation and not a command; all are invited, but no one is forced. "Not all can accept this teaching; but those to whom it has been given" (Matt. 19: 11).
 
@@ -22,7 +24,9 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What is voluntary poverty?**
 
-— Voluntary poverty is the renunciation of all earthly possessions, for the love of God. 1. Christ counselled voluntary poverty: "If thou wilt be perfect, go, sell what thou hast, and give to the poor" (Matt. 19: 21).
+— Voluntary poverty is the renunciation of all earthly possessions, for the love of God.
+
+1. Christ counselled voluntary poverty: "If thou wilt be perfect, go, sell what thou hast, and give to the poor" (Matt. 19: 21).
 
 > Our Lord Himself was extremely poor. A stable was His birthplace; a poor woman was His Mother; a carpenter was His foster-father. He had nowhere to lay His head.
 
@@ -31,7 +35,9 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What is perpetual chastity?**
 
-— Perpetual chastity consists in abstaining from marriage and all unclean desires. 1. Christ counselled perfect chastity: "Let him accept it who can" (Matt. 19: 12). Christ Himself was perfectly chaste and virginal. His mother was a virgin. He loved children, who are virginal.
+— Perpetual chastity consists in abstaining from marriage and all unclean desires.
+
+1. Christ counselled perfect chastity: "Let him accept it who can" (Matt. 19: 12). Christ Himself was perfectly chaste and virginal. His mother was a virgin. He loved children, who are virginal.
 
 > "Now concerning virgins, I have no commandment of the Lord: yet I give an opinion. ... He who is unmarried is concerned about the things of the Lord, how he may please God. Whereas he who is married is concerned about the things of the world, how he may please his wife; and he is divided. And the unmarried woman, and the virgin, thinks about the things of the Lord, that she may be holy in body and in spirit. Whereas she who is married thinks about the things of the world, how she may please her husband" (1 Cor. 7: 25, 32-34).
 
@@ -42,7 +48,9 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **Is perfect chastity especially pleasing to God?**
 
-— Yes, perfect chastity is a virtue most pleasing to God. 1. When God wished to give a mortal Mother to His Son, God chose the purest of the daughters of Juda, a virgin, Mary. When He wanted a protector for the Blessed Virgin and her future Child, God chose a virgin, Joseph, the most chaste of men. Christ Himself was a virgin, and the Apostle He loved best, the one who leaned on His breast at the Last Supper, and to whom He confided His Mother from the cross, was also a virgin, St. John the Evangelist.
+— Yes, perfect chastity is a virtue most pleasing to God.
+
+1. When God wished to give a mortal Mother to His Son, God chose the purest of the daughters of Juda, a virgin, Mary. When He wanted a protector for the Blessed Virgin and her future Child, God chose a virgin, Joseph, the most chaste of men. Christ Himself was a virgin, and the Apostle He loved best, the one who leaned on His breast at the Last Supper, and to whom He confided His Mother from the cross, was also a virgin, St. John the Evangelist.
 
 > "O how beautiful is the chaste generation with glory, for the memory of it is immortal: because it is known both with God and with men" (Wis. 4: 1).
 
@@ -57,7 +65,9 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What is perfect obedience?**
 
-— Perfect obedience is the complete subjection of one's will to that of a superior. 1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: "If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
+— Perfect obedience is the complete subjection of one's will to that of a superior.
+
+1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: "If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
 
 > Christ was perfectly obedient to His heavenly Father. He never sought His own will, but always the will of the Father Who sent Him. He was obedient to His Mother and to St. Joseph.
 

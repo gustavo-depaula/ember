@@ -2,7 +2,7 @@
 
 ![](../images/lesson-072.webp)
 
-Upon Martin Luther's refusal to retract his declarations on the teachings of the Church, he was excommunicated. But Luther proudly tore up the papal bull of excommunication, and burned it. The fire that incident started has not yet burned down.
+*Upon Martin Luther's refusal to retract his declarations on the teachings of the Church, he was excommunicated. But Luther proudly tore up the papal bull of excommunication, and burned it. The fire that incident started has not yet burned down.*
 
 
 **Who are Protestants?**

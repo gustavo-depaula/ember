@@ -2,7 +2,7 @@
 
 ![](../images/lesson-019.webp)
 
-Although there are some points of similarity between the skeletons of man and the ape, the differences are numerous and fundamental. As one scientist remarked, evolutionists might as well claim that man descended from any other form of life, because differences between man and the ape are as important as between man and other forms. The ape has neither chin nor forehead, Its foot grasps like a hand. Its teeth are not arranged in close rows. If it were forced to stand erect, it would be looking upwards, not forward. The average weight of its brain compared to that of its body is as 1 to 70. For man, the ratio is 1 to 35. The ape cannot speak articulately.
+*Although there are some points of similarity between the skeletons of man and the ape, the differences are numerous and fundamental. As one scientist remarked, evolutionists might as well claim that man descended from any other form of life, because differences between man and the ape are as important as between man and other forms. The ape has neither chin nor forehead, Its foot grasps like a hand. Its teeth are not arranged in close rows. If it were forced to stand erect, it would be looking upwards, not forward. The average weight of its brain compared to that of its body is as 1 to 70. For man, the ratio is 1 to 35. The ape cannot speak articulately.*
 
 
 **How did the body of the first man originate?**
@@ -20,7 +20,9 @@ Although there are some points of similarity between the skeletons of man and th
 
 **What is the theory of evolution?**
 
-— Evolution is a theory concerning the origin and development of plants, animals, and man. 1. Chemical evolution in rocks (geology) or in the stars (astronomy) should be distinguished from biological evolution. Biological evolution means the development of life from non-life and of present-day species from older simpler forms.
+— Evolution is a theory concerning the origin and development of plants, animals, and man.
+
+1. Chemical evolution in rocks (geology) or in the stars (astronomy) should be distinguished from biological evolution. Biological evolution means the development of life from non-life and of present-day species from older simpler forms.
 
 > Science explains the formation of inorganic matter from pre-existing matter and of variation within species, but it cannot explain the origin of either matter or life. Divine Revelation alone can explain the origin of things.
 
@@ -39,7 +41,9 @@ Although there are some points of similarity between the skeletons of man and th
 
 **What is the origin of the human soul?**
 
-— God directly creates every human soul out of nothing. 1. From the very beginning, God has created every human soul out of nothing.
+— God directly creates every human soul out of nothing.
+
+1. From the very beginning, God has created every human soul out of nothing.
 
 > Thus He created the soul of Adam, when after forming his body, He "breathed into his face the breath of life, and man became a living soul" (Gen. 2: 7). Every human soul is created at the same moment that one comes to life, at conception.
 
@@ -54,7 +58,9 @@ Although there are some points of similarity between the skeletons of man and th
 
 **How many centuries were there from Adam to Christ?**
 
-— The Church has never given a decision; this question will perhaps never be answered. 1. It is generally admitted that the Bible teaches nothing definite on the matter. The line of patriarchs, which it gives, with their ages, probably contains many gaps.
+— The Church has never given a decision; this question will perhaps never be answered.
+
+1. It is generally admitted that the Bible teaches nothing definite on the matter. The line of patriarchs, which it gives, with their ages, probably contains many gaps.
 
 > A man is said to be a son of another, whereas he may only be a remote descendant. In the same way the Bible speaks of Our Lord as the Son of David, although David preceded Him 1000 years.
 

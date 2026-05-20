@@ -2,7 +2,7 @@
 
 ![](../images/lesson-064.webp)
 
-Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or not?" Our Lord asked for a coin and then inquired, "Whose image and inscription does it bear?" They answered, "Caesar's." And Our Lord said, "Render, therefore, to Caesar the things that are Caesar's, and to God the things that are God's." Thus, we are taught to give both the State and the Church what is due to each, in accordance with the end that each pursues.
+*Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or not?" Our Lord asked for a coin and then inquired, "Whose image and inscription does it bear?" They answered, "Caesar's." And Our Lord said, "Render, therefore, to Caesar the things that are Caesar's, and to God the things that are God's." Thus, we are taught to give both the State and the Church what is due to each, in accordance with the end that each pursues.*
 
 
 **How many Perfect Societies are there?**

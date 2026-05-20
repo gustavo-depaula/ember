@@ -2,12 +2,14 @@
 
 ![](../images/lesson-028.webp)
 
-Throughout the centuries, God sent prophets to predict different events and facts concerning the promised Saviour. Among the most important prophets were Jeremias, Isaias, Daniel, and Ezechiel. Daniel predicted the exact time of the birth of the Redeemer. He said His kingdom would have no end, and would embrace all kingdoms. Isaias prophesied that the Messias would be born of a virgin, would be both God and Man, and would die patiently and willingly like a lamb for our sins.
+*Throughout the centuries, God sent prophets to predict different events and facts concerning the promised Saviour. Among the most important prophets were Jeremias, Isaias, Daniel, and Ezechiel. Daniel predicted the exact time of the birth of the Redeemer. He said His kingdom would have no end, and would embrace all kingdoms. Isaias prophesied that the Messias would be born of a virgin, would be both God and Man, and would die patiently and willingly like a lamb for our sins.*
 
 
 **What is the chief teaching of the Catholic Church about Jesus Christ?**
 
-— The chief teaching of the Catholic Church about Jesus Christ is that He is God made man. 1. Christ Himself said that He is God. The Jews understood His claim literally, and He was condemned to death for blasphemy, for making Himself the Son of God.
+— The chief teaching of the Catholic Church about Jesus Christ is that He is God made man.
+
+1. Christ Himself said that He is God. The Jews understood His claim literally, and He was condemned to death for blasphemy, for making Himself the Son of God.
 
 > Christ said: "All power in heaven and on earth has been given to me" (Matt. 28: 18). "And the high priest said to him, 'I adjure thee by the living God that thou tell us whether thou art the Christ, the Son of God. Jesus said to him, 'Thou hast said it'" (Matt. 26: 63). "I and the Father are one" (John 10: 30).
 
@@ -47,7 +49,9 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 **Why is Jesus Christ man?**
 
-— Jesus Christ is man, because He is the Son of the Blessed Virgin, and has a body and soul like ours. 1. The birth of Jesus Christ is a fact of history. He was born of Mary, who was espoused to a carpenter named Joseph, who lived in Nazareth of Galilee.
+— Jesus Christ is man, because He is the Son of the Blessed Virgin, and has a body and soul like ours.
+
+1. The birth of Jesus Christ is a fact of history. He was born of Mary, who was espoused to a carpenter named Joseph, who lived in Nazareth of Galilee.
 
 > The archangel Gabriel said to Mary, "The Holy One to be born shall be called the Son of God."
 
@@ -58,7 +62,9 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 **How can we prove that the religion God has revealed through Christ is worthy of belief?**
 
-— We can prove that the religion God has revealed through Christ is worthy of belief, because: 1. Jesus Christ, announcing Himself as the true Son of God, whose coming was foretold by the prophets, preached doctrines which He said all must believe.
+— We can prove that the religion God has revealed through Christ is worthy of belief, because:
+
+1. Jesus Christ, announcing Himself as the true Son of God, whose coming was foretold by the prophets, preached doctrines which He said all must believe.
 
 > If Christ is God, then the religion He established is true, and the Church He founded is the true Church. We can believe everything He says, even without understanding it, because God cannot err. If Jesus Christ were not God, then Christianity would be a farce, and the sooner it were done away with the better. If Christ were not God, then He were an impostor who, by claiming divinity, had led billions into error for more than 2,000 years.
 

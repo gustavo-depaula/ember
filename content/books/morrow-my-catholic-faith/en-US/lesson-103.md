@@ -2,7 +2,7 @@
 
 ![](../images/lesson-103.webp)
 
-Parents have the duty of beginning their child's religious training as soon as possible. (1) shows a good mother teaching her child the sign of the cross. (2) Parents have the duty of sending their child to a Catholic school whenever one is available. Careless parents have much to answer for before God if they send their child to a non-Catholic school and the child grows up in ignorance or hatred of the Catholic faith.
+*Parents have the duty of beginning their child's religious training as soon as possible. (1) shows a good mother teaching her child the sign of the cross. (2) Parents have the duty of sending their child to a Catholic school whenever one is available. Careless parents have much to answer for before God if they send their child to a non-Catholic school and the child grows up in ignorance or hatred of the Catholic faith.*
 
 
 **What duty have parents toward their children?**
@@ -26,7 +26,9 @@ Parents have the duty of beginning their child's religious training as soon as p
 
 **How should parents provide moral and religious training?**
 
-— Parents should begin early to give their child religious training. 1. As soon as the child can speak, he should be taught the ordinary prayers, and told of God and holy things. It is a very praiseworthy custom to have family prayers in which all of the family participate.
+— Parents should begin early to give their child religious training.
+
+1. As soon as the child can speak, he should be taught the ordinary prayers, and told of God and holy things. It is a very praiseworthy custom to have family prayers in which all of the family participate.
 
 > A child should be made to say his morning and night prayers regularly. He should be taught his catechism and prepared for Confession and first Holy Communion; he should be made to attend Mass, and perform all his religious duties faithfully.
 

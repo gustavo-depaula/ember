@@ -2,12 +2,14 @@
 
 ![](../images/lesson-180.webp)
 
-The following illustrates the qualities of prayer: "He that adoreth God with joy shall be accepted; and his prayer shall approach even, to the clouds" (Ecclus. 35: 19). "Let my prayer be directed as incense in thy sight: the lifting up of my hands, as an evening sacrifice" (Ps. 140: 2). "The Lord is nigh unto all them that call upon him" (Ps. 144: 18). "Ask, and it shall be given you" (Matt. 7: 7).
+*The following illustrates the qualities of prayer: "He that adoreth God with joy shall be accepted; and his prayer shall approach even, to the clouds" (Ecclus. 35: 19). "Let my prayer be directed as incense in thy sight: the lifting up of my hands, as an evening sacrifice" (Ps. 140: 2). "The Lord is nigh unto all them that call upon him" (Ps. 144: 18). "Ask, and it shall be given you" (Matt. 7: 7).*
 
 
 **What is prayer?**
 
-— Prayer is the lifting up of our minds and hearts to God. 1. Prayer is loving conversation with God. The mere thought of God is not prayer: devils think of God, but they do not pray. In prayer, we concentrate all the powers of our souls and elevate them to God.
+— Prayer is the lifting up of our minds and hearts to God.
+
+1. Prayer is loving conversation with God. The mere thought of God is not prayer: devils think of God, but they do not pray. In prayer, we concentrate all the powers of our souls and elevate them to God.
 
 > Is it not an honour to be allowed to talk to the President of our country? But at any moment we can talk to God Almighty in prayer; He has no hours of appointment; He has no secretaries to forbid our entrance into His presence.
 
@@ -22,7 +24,9 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 **Why do we pray?**
 
-— We pray: 1. To adore God, expressing to Him our love and loyalty. — This is the prayer of praise. We ought to praise God for His infinite perfections. The Church praises Him unceasingly.
+— We pray:
+
+1. To adore God, expressing to Him our love and loyalty. — This is the prayer of praise. We ought to praise God for His infinite perfections. The Church praises Him unceasingly.
 
 > The *Gloria* and *Sanctus* in the Mass, the *Te Deum*, and the *Gloria Patri* are all prayers of praise. The Blessed Virgin praised God in the *Magnificat*. We must adore God as becomes reasonable human beings. Chain prayers are foolish.
 
@@ -41,7 +45,9 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 **How should we pray?**
 
-— We should pray: 1. With attention. — We should remember to Whom we are talking, and avoid deliberate distractions. Let us prepare ourselves before prayer. Let us assume a reverent posture, and forget earthly distractions.
+— We should pray:
+
+1. With attention. — We should remember to Whom we are talking, and avoid deliberate distractions. Let us prepare ourselves before prayer. Let us assume a reverent posture, and forget earthly distractions.
 
 > To be properly attentive, we must pay attention to the words we say, and to God Who hears. In order to be pleasing to God, we must pray in the name of Jesus and in accordance with His will. We must therefore pray for whatever is for the glory of God and the salvation of souls. The Church prays always in the name of Christ: "Through Christ our Lord." Our Lord promised: "If you ask the Father anything in my name, he will give it to you" (John 16: 23).
 

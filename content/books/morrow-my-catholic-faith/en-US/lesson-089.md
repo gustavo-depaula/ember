@@ -2,7 +2,7 @@
 
 ![](../images/lesson-089.webp)
 
-1. Giving alms to a beggar is a corporal work of mercy. God looks upon charity given to the poor as an act of charity to Himself. Jesus Christ Himself said this (Matt. 25: 40). 2. When we teach catechism we are performing a spiritual work of mercy. Many can do this work today, if they only would. Numerous persons, even of an advanced age, do not know the essentials of their religion, for want of someone to teach them.
+*1. Giving alms to a beggar is a corporal work of mercy. God looks upon charity given to the poor as an act of charity to Himself. Jesus Christ Himself said this (Matt. 25: 40). 2. When we teach catechism we are performing a spiritual work of mercy. Many can do this work today, if they only would. Numerous persons, even of an advanced age, do not know the essentials of their religion, for want of someone to teach them.*
 
 
 **What must we do to love God, our neighbour, and ourselves?**
@@ -14,7 +14,9 @@
 
 **Which are the chief corporal works of mercy?**
 
-— The chief corporal works of mercy are seven: 1. To feed the hungry. — We must never turn away anyone who is hungry. Those in authority should prevent unemployment. Giving work is the best means for removing the necessity of feeding the unemployed.
+— The chief corporal works of mercy are seven:
+
+1. To feed the hungry. — We must never turn away anyone who is hungry. Those in authority should prevent unemployment. Giving work is the best means for removing the necessity of feeding the unemployed.
 
 > St. Louis of France provided daily food to the poor, and often served them himself. Many charitable people today, especially the religious institutions, feed the hungry. Lay people can help out best by giving work to all they can afford to help; work is better for the able-bodied than direct alms-giving.
 
@@ -47,7 +49,9 @@
 
 **Which are the chief spiritual works of mercy?**
 
-— The chief spiritual works of mercy are seven: 1. To admonish the sinner. — Whenever we think our words may have a good effect, we should not hesitate to admonish the erring prudently. Those in authority, such as parents and teachers, are bound to admonish those under them of their faults, even if in doing so they bring trouble upon themselves. Good example is another way of admonition.
+— The chief spiritual works of mercy are seven:
+
+1. To admonish the sinner. — Whenever we think our words may have a good effect, we should not hesitate to admonish the erring prudently. Those in authority, such as parents and teachers, are bound to admonish those under them of their faults, even if in doing so they bring trouble upon themselves. Good example is another way of admonition.
 
 > In admonishing sinners, we must do so with gentleness and charity. Otherwise we might only produce results the opposite of what we wish. It would be wrong, if with a little trouble we could save a sinner from sin, did we not speak to save him; it would, moreover, be a loss of great grace for ourselves. "He who causes a sinner to be brought back from his misguided way, will save his soul from death, and will cover a multitude of sins" (James 5: 20).
 

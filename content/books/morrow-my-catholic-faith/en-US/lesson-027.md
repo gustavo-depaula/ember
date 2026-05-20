@@ -2,7 +2,7 @@
 
 ![](../images/lesson-027.webp)
 
-Immediately after the Fall, God promised a Redeemer to Adam. He forgave man, although He had not forgiven the rebel angels. He was more merciful to man than to the angels. In making the promise, God spoke of the Blessed Virgin, who was to be the Saviour's Mother.
+*Immediately after the Fall, God promised a Redeemer to Adam. He forgave man, although He had not forgiven the rebel angels. He was more merciful to man than to the angels. In making the promise, God spoke of the Blessed Virgin, who was to be the Saviour's Mother.*
 
 (SECOND ARTICLE OF THE APOSTLES' CREED)
 
@@ -47,7 +47,9 @@ Immediately after the Fall, God promised a Redeemer to Adam. He forgave man, alt
 
 > Men would know the Saviour by certain signs which God revealed through the Prophets.
 
-1. Of His advent the Prophets spoke: a. The Messias was to be born in Bethlehem, when the Jews were no longer free.
+1. Of His advent the Prophets spoke:
+
+a. The Messias was to be born in Bethlehem, when the Jews were no longer free.
 
 > "And Thou, Bethlehem Ephrata, art a little one among the thousands of Juda: out of thee shall he come forth unto me that is to be the ruler in Israel: and his going forth is from the beginning, from the days of eternity" (Mich. 5: 2). "The sceptre shall not be taken away from Juda, nor a ruler from his thigh, till he come that is to be sent, and he shall be the expectation of nations" (Gen. 49: 10)
 

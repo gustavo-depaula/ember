@@ -2,14 +2,16 @@
 
 ![](../images/lesson-115.webp)
 
-It was the custom among the first Christians for the rich to sell their property and give the money to the Apostles to be shared among all. Ananias and his wife Saphira, two disciples, sold their land. But they plotted to keep back some of the money. Giving the rest to St. Peter, Ananias pretended that it was the whole price that had been received for the land. St. Peter rebuked him and said that he lied against the Holy Ghost. Ananias fell down dead. Later, Saphira, not knowing what had happened to her husband, told the same lie to St. Peter. She also fell and died immediately after.
+*It was the custom among the first Christians for the rich to sell their property and give the money to the Apostles to be shared among all. Ananias and his wife Saphira, two disciples, sold their land. But they plotted to keep back some of the money. Giving the rest to St. Peter, Ananias pretended that it was the whole price that had been received for the land. St. Peter rebuked him and said that he lied against the Holy Ghost. Ananias fell down dead. Later, Saphira, not knowing what had happened to her husband, told the same lie to St. Peter. She also fell and died immediately after.*
 
 "THOU SHALL NOT BEAR FALSE WITNESS AGAINST THY NEIGHBOUR."
 
 
 **What are we commanded by the eighth commandment?**
 
-— By the eighth commandment, we are commanded to speak the truth in all things, but especially in what concerns the good name and honour of others. 1. God is the God of truths and we are obliged to respect that truth. If we would prove ourselves children of God, we should, like Him, always respect the truth.
+— By the eighth commandment, we are commanded to speak the truth in all things, but especially in what concerns the good name and honour of others.
+
+1. God is the God of truths and we are obliged to respect that truth. If we would prove ourselves children of God, we should, like Him, always respect the truth.
 
 > "I am the way, and the truth, and the life" says Our Lord (John 14: 6). "You shall not lie" (Lev. 19: 11). This is why a lie, even when told for a good purpose, is always a sin, because it is contrary to the nature of God.
 

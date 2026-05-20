@@ -2,12 +2,14 @@
 
 ![](../images/lesson-062.webp)
 
-"I am the good shepherd, and I know mine and mine know me, even as the Father knows me and I know the Father; and I lay down my life for my sheep. And other sheep I have that are not of this fold. Them also I must bring, and they shall hear my voice, and there shall be one fold and one shepherd" (John 10:14-16). All those not baptised are sheep of Christ that have not yet heard His voice. They must also be brought into the Church. Protestants are sheep that have left the fold of Christ. They must return to the Church, if they would hear the voice of Christ, the Good Shepherd, Who lovingly calls them to His True Church.
+*"I am the good shepherd, and I know mine and mine know me, even as the Father knows me and I know the Father; and I lay down my life for my sheep. And other sheep I have that are not of this fold. Them also I must bring, and they shall hear my voice, and there shall be one fold and one shepherd" (John 10:14-16). All those not baptised are sheep of Christ that have not yet heard His voice. They must also be brought into the Church. Protestants are sheep that have left the fold of Christ. They must return to the Church, if they would hear the voice of Christ, the Good Shepherd, Who lovingly calls them to His True Church.*
 
 
 **Who are the laity of the Church?**
 
-— The laity of the Church are all its members who do not belong to the clerical or to the religious state. 1. All members of the Church, whether clerical, religious, or lay, are termed "the faithful." After Baptism we join the ranks.
+— The laity of the Church are all its members who do not belong to the clerical or to the religious state.
+
+1. All members of the Church, whether clerical, religious, or lay, are termed "the faithful." After Baptism we join the ranks.
 
 > The laity must remember that they are part of the Church. They must understand that when anyone speaks of the "Church" they are included, as we include the heart and mind of a man with his soul when we speak of him. The Church is you and I.
 
@@ -22,7 +24,9 @@
 
 **Do Catholic Sinners continue to belong to the Church?**
 
-— Yes. 1. Unless one cuts himself off by heresy, apostasy, or excommunication, a Catholic sinner continues to be a member of the Church. Those in mortal sin are called "dead members", for their souls are dead in sin.
+— Yes.
+
+1. Unless one cuts himself off by heresy, apostasy, or excommunication, a Catholic sinner continues to be a member of the Church. Those in mortal sin are called "dead members", for their souls are dead in sin.
 
 > Indeed the Church is the Church of Saints; but the greatest part of its activities has to be for sinners. Perhaps we may say, without fear of contradiction, that most of the members of the Church are sinners. We all fall away from the ideal, at some time or other; then the Church calls, to bring us back.
 
@@ -37,7 +41,9 @@
 
 **Must the faithful think and act alike?**
 
-— No. 1. The faithful must believe in all the doctrines entrusted by Christ to His Church, and act in accordance with those doctrines; but these pertain to the field of faith and morals, not to other matters. Therefore, there is no question about "thinking and acting alike," among the 1,200,000,000 Catholics in the world.
+— No.
+
+1. The faithful must believe in all the doctrines entrusted by Christ to His Church, and act in accordance with those doctrines; but these pertain to the field of faith and morals, not to other matters. Therefore, there is no question about "thinking and acting alike," among the 1,200,000,000 Catholics in the world.
 
 > Each Catholic is an individual. He must believe that Jesus Christ is God; but with one of his Catholic friends he may differ concerning the best political party to join. He must not deny his Church, but he may argue with the parish priest about who should be one's favourite Saints.
 

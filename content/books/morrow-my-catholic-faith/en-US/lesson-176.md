@@ -2,12 +2,16 @@
 
 ![](../images/lesson-176.webp)
 
-"The harvest indeed is abundant, but the labourers are few!" Jesus calls to his special service, for workers in His harvest. A boy and a girl hear the call. The boy (1) says to his parents: "See the stole I'll wear some day!" And the girl (3) dreams of the day when she will be teaching school as a religious Sister. If one feels, as these two young people do, that he should like to serve God fully, let him hasten to consecrate himself to God in the priestly or religious state.
+*"The harvest indeed is abundant, but the labourers are few!" Jesus calls to his special service, for workers in His harvest. A boy and a girl hear the call. The boy (1) says to his parents: "See the stole I'll wear some day!" And the girl (3) dreams of the day when she will be teaching school as a religious Sister. If one feels, as these two young people do, that he should like to serve God fully, let him hasten to consecrate himself to God in the priestly or religious state.*
 
 
 **How may religious communities be classified?**
 
-— Religious communities may be classified as orders or congregations. 1. Religious orders are those institutes in which the members take solemn vows; they are chiefly the old orders of monks and nuns. Among the religious orders for men are: Augustinians, Benedictines, Dominicans, Franciscans, Trappists, etc. 2. Religious congregations are those in which the members take only simple vows; most religious communities are of this kind. The Jesuits, after a number of years in simple vows, may also take solemn vows.
+— Religious communities may be classified as orders or congregations.
+
+1. Religious orders are those institutes in which the members take solemn vows; they are chiefly the old orders of monks and nuns. Among the religious orders for men are: Augustinians, Benedictines, Dominicans, Franciscans, Trappists, etc.
+
+2. Religious congregations are those in which the members take only simple vows; most religious communities are of this kind. The Jesuits, after a number of years in simple vows, may also take solemn vows.
 
 > For men among the largest communities are: Divine Word Fathers, Jesuits, Passionists, Redemptorists, Salesians, Salvatorians, etc. For women we have the Benedictines, Dominicans, Felician Sisters, Heart of Mary Sisters, Missionary Sisters of the Sacred Heart, Notre Dame Sisters, Sisters of Charity, and Sisters of St. Joseph, among numerous others.
 
@@ -22,7 +26,9 @@
 
 **In what kinds of work are the religious communities engaged?**
 
-— They are engaged in all kinds of work, ranging from the purely contemplative life of prayer to the active life of missionaries. 1. Members of contemplative orders are strictly cloistered, and devote their life chiefly to prayer and penance. This prayer is not for the individual alone, but for the greater honour and glory of God, the well-being of the Mystical Body of Christ, the reclaiming of all into the Fold of the Good Shepherd.
+— They are engaged in all kinds of work, ranging from the purely contemplative life of prayer to the active life of missionaries.
+
+1. Members of contemplative orders are strictly cloistered, and devote their life chiefly to prayer and penance. This prayer is not for the individual alone, but for the greater honour and glory of God, the well-being of the Mystical Body of Christ, the reclaiming of all into the Fold of the Good Shepherd.
 
 > Among contemplative orders we may mention the Carthusian and Cistercian monks, and the Carmelite, Poor Clare and Perpetual Adoration nuns.
 
@@ -50,7 +56,9 @@ All who volunteer can be used: "The harvest indeed is abundant, but the labourer
 
 **How can one help increase the number of priests and religious?**
 
-— One can help increase the number by prayer, by helping support poor seminarians, or by consecrating himself in the priestly or religious state. 1. Every one should pray steadfastly and sincerely for priests and religious.
+— One can help increase the number by prayer, by helping support poor seminarians, or by consecrating himself in the priestly or religious state.
+
+1. Every one should pray steadfastly and sincerely for priests and religious.
 
 > Christ said: "Pray therefore the Lord of the harvest to send forth labourers into his harvest" (Matt. 9: 38).
 

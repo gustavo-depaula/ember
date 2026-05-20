@@ -41,7 +41,9 @@
 
 **What vestments are used by the priest outside of Mass?**
 
-— Outside of Mass, the priest uses the cassock or soutane, the cope, the surplice, and the humeral veil. 1. The cassock or soutane is the principal vestment used by ecclesiastics.
+— Outside of Mass, the priest uses the cassock or soutane, the cope, the surplice, and the humeral veil.
+
+1. The cassock or soutane is the principal vestment used by ecclesiastics.
 
 > It is a robe reaching down to the feet, and buttoned in front. For priests it is black, for bishops violet, for cardinals red, and for the Pope white. In some Catholic countries ecclesiastics go everywhere in their cassocks.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-147.webp)
 
-Perfect contrition implies a fervent love of God. We are sorry for our sins because they offend God Who is so good. Mary Magdalen had perfect contrition. Her contrition was so perfect that she never sinned again, followed Our Lord and was at the foot of the cross when He was crucified. Her perfect contrition and love were greatly rewarded, for He appeared to her on Easter morning. We should all try to imitate Mary Magdalen's contrition, arising from sorrow at offending God.
+*Perfect contrition implies a fervent love of God. We are sorry for our sins because they offend God Who is so good. Mary Magdalen had perfect contrition. Her contrition was so perfect that she never sinned again, followed Our Lord and was at the foot of the cross when He was crucified. Her perfect contrition and love were greatly rewarded, for He appeared to her on Easter morning. We should all try to imitate Mary Magdalen's contrition, arising from sorrow at offending God.*
 
 
 **When is our contrition perfect?**
@@ -22,7 +22,9 @@ Perfect contrition implies a fervent love of God. We are sorry for our sins beca
 
 **Is it easy to make an act of perfect contrition sincerely?**
 
-— It is easy, if we sincerely wish to love God. 1. We can excite ourselves to it by thinking of the Passion, of how good God is, how many favours He has granted us, and how ungrateful we have been to Him in return for His goodness.
+— It is easy, if we sincerely wish to love God.
+
+1. We can excite ourselves to it by thinking of the Passion, of how good God is, how many favours He has granted us, and how ungrateful we have been to Him in return for His goodness.
 
 > By thinking of God's gifts, we realize a little the goodness of God and His worthiness to be loved for His own sake. We then feel sorry for having offended our Benefactor by the sins we have committed.
 

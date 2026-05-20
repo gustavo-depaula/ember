@@ -2,7 +2,7 @@
 
 ![](../images/lesson-112.webp)
 
-Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19: 1-10). Thus he determined to make reparation for his usury.
+*Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19: 1-10). Thus he determined to make reparation for his usury.*
 
 
 **Are we obliged to repair damage unjustly done to the property of others?**

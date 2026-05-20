@@ -2,7 +2,7 @@
 
 ![](../images/lesson-077.webp)
 
-Complete justice will not be done in this life, but in the next. Then everything will be weighed in the balance of God's justice, and punished or rewarded. If on earth we have obeyed the commandments of God and of the Church we shall be given an eternal reward in Heaven (1). If we have obeyed all the commandments, but die with unforgiven venial sin, or without having satisfied for forgiven mortal sin, we shall be sent to Purgatory (2). Alas for us if we die with even one mortal sin! For then we shall be banished from the sight of God and suffer torments in hell forever.
+*Complete justice will not be done in this life, but in the next. Then everything will be weighed in the balance of God's justice, and punished or rewarded. If on earth we have obeyed the commandments of God and of the Church we shall be given an eternal reward in Heaven (1). If we have obeyed all the commandments, but die with unforgiven venial sin, or without having satisfied for forgiven mortal sin, we shall be sent to Purgatory (2). Alas for us if we die with even one mortal sin! For then we shall be banished from the sight of God and suffer torments in hell forever.*
 
 
 **What is the judgement called which will be passed on each one of us immediately after death?**
@@ -49,7 +49,9 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 **How should we prepare for the judgment?**
 
-— We should prepare for the judgment by being most careful to lead a good life and die a happy death. 1. We should do all the good we can, so that God may forgive the evil we may do. We should not only obey carefully all the Commandments of God and the Church, but do good works in prayer and alms-deeds, practising charity for the love of God.
+— We should prepare for the judgment by being most careful to lead a good life and die a happy death.
+
+1. We should do all the good we can, so that God may forgive the evil we may do. We should not only obey carefully all the Commandments of God and the Church, but do good works in prayer and alms-deeds, practising charity for the love of God.
 
 > How can we be careless about a matter of such importance, when we are absolutely certain of being judged by God! "For what shall I do, when God shall rise to judge?" (Job 31:14).
 

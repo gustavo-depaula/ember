@@ -2,7 +2,7 @@
 
 ![](../images/lesson-055.webp)
 
-The essential acts of the Liturgy are three: the prayers of the priesthood in the Divine Office (represented by the first angel), the Mass (represented by the second angel), and the sacraments (represented by the third angel). The term "rite" is sometimes used to refer to the liturgy according to some definite custom and language. "Rite" may also designate in a narrow sense some particular liturgical ceremony; in this way we have the "rite of Baptism", etc.
+*The essential acts of the Liturgy are three: the prayers of the priesthood in the Divine Office (represented by the first angel), the Mass (represented by the second angel), and the sacraments (represented by the third angel). The term "rite" is sometimes used to refer to the liturgy according to some definite custom and language. "Rite" may also designate in a narrow sense some particular liturgical ceremony; in this way we have the "rite of Baptism", etc.*
 
 
 **What is the Catholic Eastern Church?**

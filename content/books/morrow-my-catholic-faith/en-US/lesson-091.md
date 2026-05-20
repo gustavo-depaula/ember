@@ -2,7 +2,7 @@
 
 ![](../images/lesson-091.webp)
 
-Moses spent forty days on Mount Sinai speaking with God. To him God gave two stone tablets on which were engraved the Ten Commandments. We see why we must obey the Commandments, for God Himself gave them to us; they are God's laws, thus requiring strict obedience.
+*Moses spent forty days on Mount Sinai speaking with God. To him God gave two stone tablets on which were engraved the Ten Commandments. We see why we must obey the Commandments, for God Himself gave them to us; they are God's laws, thus requiring strict obedience.*
 
 
 **Which are the commandments of God?**
@@ -23,7 +23,9 @@ Moses spent forty days on Mount Sinai speaking with God. To him God gave two sto
 
 **By whom were the ten commandments given?**
 
-— The ten commandments were given by Almighty God, Who first gave them to Moses on Mount Sinai. 1. In the third month after the Israelites had left Egypt, they arrived near Mount Sinai. God called Moses and told him He would appear to the people. On the third day, there was thunder and lightning, and a trumpet sounded.
+— The ten commandments were given by Almighty God, Who first gave them to Moses on Mount Sinai.
+
+1. In the third month after the Israelites had left Egypt, they arrived near Mount Sinai. God called Moses and told him He would appear to the people. On the third day, there was thunder and lightning, and a trumpet sounded.
 
 > Moses took the Israelites to the foot of the mountain, which shook violently and smoked like a furnace. The trumpet blew louder. Then God spoke from the clouds. But the Israelites were afraid, and begged Moses to pray God not to speak to them.
 
@@ -34,7 +36,9 @@ Moses spent forty days on Mount Sinai speaking with God. To him God gave two sto
 
 **In the enumeration of the commandments of God to be found in the Books of Moses, are the commandments definitely divided into ten?**
 
-— In the enumeration of the commandments of God to be found in the Books of Moses, although the injunctions are distinctly tenfold, there is no definite numerical division. 1. The Catholic enumeration of the ten commandments differs from the English (and Calvinist) Protestant enumeration. The Catholic division was in use in England till the Protestant revolt; it is still used by most Lutheran churches.
+— In the enumeration of the commandments of God to be found in the Books of Moses, although the injunctions are distinctly tenfold, there is no definite numerical division.
+
+1. The Catholic enumeration of the ten commandments differs from the English (and Calvinist) Protestant enumeration. The Catholic division was in use in England till the Protestant revolt; it is still used by most Lutheran churches.
 
 > The Catholic system is based on the Hebrew text, and principally on the enumeration made by St. Augustine; it was adopted by the Council of Trent. By it, the first commandment contains everything relating to false worship and false gods. The tenfold division is safeguarded by dividing the last precept regarding desire into one relating to sins of the flesh, and another referring to sins against property, just as acts against purity are forbidden separately from acts against property. The English Protestant enumeration is based on Origen and others. By it the worship of graven images is numbered as the Second Commandment, and all the succeeding commandments thereby are advanced one over the Catholic enumeration. To safeguard the tenfold division, the last two commandments are grouped together as the Tenth.
 
@@ -45,7 +49,9 @@ Moses spent forty days on Mount Sinai speaking with God. To him God gave two sto
 
 **Are we obliged to obey the commandments of God?**
 
-— We are strictly obliged to obey the commandments of God. 1. God has imprinted the substance of the ten commandments in the human heart and mind, and they have therefore binding force. Even if they had never been revealed, we should still be obliged to keep them, for they are dictated by reason, and taught by natural law. The revealed law merely repeats and amplifies natural law.
+— We are strictly obliged to obey the commandments of God.
+
+1. God has imprinted the substance of the ten commandments in the human heart and mind, and they have therefore binding force. Even if they had never been revealed, we should still be obliged to keep them, for they are dictated by reason, and taught by natural law. The revealed law merely repeats and amplifies natural law.
 
 > While it is true that reason does not tell us to sanctify Saturday or Sunday, it certainly requires us to keep some day or days holy, to give exclusive honour to our Creator.
 

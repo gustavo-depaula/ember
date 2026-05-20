@@ -2,14 +2,16 @@
 
 ![](../images/lesson-047.webp)
 
-From among His disciples, Our Lord chose twelve Apostles, and gave them special training. He sent them forth to teach His doctrines, saying, "As the Father has sent me, I also send you." The Apostles were the foundation of the True Church. Christ gave them all power and authority, saying, "He who hears you hears me: he who rejects you rejects me."
+*From among His disciples, Our Lord chose twelve Apostles, and gave them special training. He sent them forth to teach His doctrines, saying, "As the Father has sent me, I also send you." The Apostles were the foundation of the True Church. Christ gave them all power and authority, saying, "He who hears you hears me: he who rejects you rejects me."*
 
 (NINTH ARTICLE OF THE APOSTLES' CREED)
 
 
 **Did Jesus Christ found a Church?**
 
-— Yes; all history, religious and non-religious, including the Bible, clearly proves that Jesus Christ founded a Church. 1. After teaching publicly what He required all to believe and practice, thereby announcing the main doctrines of His Church, Christ gathered a number of disciples. From them He chose twelve, to whom He gave special instruction and training.
+— Yes; all history, religious and non-religious, including the Bible, clearly proves that Jesus Christ founded a Church.
+
+1. After teaching publicly what He required all to believe and practice, thereby announcing the main doctrines of His Church, Christ gathered a number of disciples. From them He chose twelve, to whom He gave special instruction and training.
 
 > The term "a kingdom", by which Our Lord used to refer to His Church, implies organized authority. And He said to the special men He had chosen, "You have not chosen me, but I have chosen you" (John 15: 16). He did not teach the disciples for themselves alone, but to be the foundation of His Church. God did not come to save only a few disciples, but all men.
 
@@ -59,7 +61,9 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 **Was the Church founded by Christ a visible organization?**
 
-— The Church founded by Christ was a visible organization, with certain distinguishing marks. 1. No one can deny that Jesus Christ gathered disciples, and out of them chose twelve Apostles, to whom He gave special instruction and orders. He formed them as the foundation of His organization; was this not visible?
+— The Church founded by Christ was a visible organization, with certain distinguishing marks.
+
+1. No one can deny that Jesus Christ gathered disciples, and out of them chose twelve Apostles, to whom He gave special instruction and orders. He formed them as the foundation of His organization; was this not visible?
 
 > Speaking of a stubborn man, He said: "If he refuse to hear even the Church, let him be to thee as the heathen" (Matt. 18: 17). And He promised his disciples: "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 18). Surely something must be visible to bind and loose, to be heard and obeyed. And Christ referred to this visible organization as a city set on a mountain, that cannot be hidden (Matt. 5: 14).
 

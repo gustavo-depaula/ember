@@ -2,12 +2,14 @@
 
 ![](../images/lesson-153.webp)
 
-The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, and the superabundant merits of the Blessed Mother and the Saints. The Passion and Death of Our Lord and the penances and sufferings of the Blessed Mother who did not need to do penance, and of the Saints, have created this Spiritual Treasury, which Christ left for the use of the Communion of Saints. In this way, a penitent who gains an indulgence receives from his Mother the Church some of the wealth gathered in the Spiritual Treasury from the merits of Our Lord, Mary, and the Saints.
+*The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, and the superabundant merits of the Blessed Mother and the Saints. The Passion and Death of Our Lord and the penances and sufferings of the Blessed Mother who did not need to do penance, and of the Saints, have created this Spiritual Treasury, which Christ left for the use of the Communion of Saints. In this way, a penitent who gains an indulgence receives from his Mother the Church some of the wealth gathered in the Spiritual Treasury from the merits of Our Lord, Mary, and the Saints.*
 
 
 **What is an indulgence?**
 
-— An indulgence is the remission granted by the Church of the temporal punishment due to sins already forgiven. 1. Our Lord gave the Apostles and their successor the power to deliver men from every obstacle that might separate them from heaven. Thus He said to St. Peter:
+— An indulgence is the remission granted by the Church of the temporal punishment due to sins already forgiven.
+
+1. Our Lord gave the Apostles and their successor the power to deliver men from every obstacle that might separate them from heaven. Thus He said to St. Peter:
 
 > "Whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).
 
@@ -22,7 +24,9 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 **How does the Church by means of indulgences remit the temporal punishment due to sin?**
 
-— The Church by means of indulgences remits the temporal punishment due to sin by applying to us from her spiritual treasury part of the infinite satisfaction of Jesus Christ and of the superabundant satisfaction of the Blessed Virgin Mary and of the saints. 1. In the Church, there is a spiritual treasury made up of the superabundant merits of our Lord, the Blessed Mother, and the Saints. The merits of the passion and death of Our Lord are infinite, for He is God. All these He left to His Church.
+— The Church by means of indulgences remits the temporal punishment due to sin by applying to us from her spiritual treasury part of the infinite satisfaction of Jesus Christ and of the superabundant satisfaction of the Blessed Virgin Mary and of the saints.
+
+1. In the Church, there is a spiritual treasury made up of the superabundant merits of our Lord, the Blessed Mother, and the Saints. The merits of the passion and death of Our Lord are infinite, for He is God. All these He left to His Church.
 
 > The superabundant satisfaction of the Blessed Virgin Mary and of the Saints which are united with those of Christ, “I make up in my flesh what is lacking to the sufferings of Christ, on behalf of His body, the Church," (Coloss. 1: 24) is that which they gained during their lifetime, but did not need, and which the Church applies to their fellow-members of the Communion of Saints. (see page 148).
 
@@ -37,7 +41,9 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 **Has the Church always exercised its right to grant indulgences to the faithful?**
 
-— The Church has always exercised its right to grant indulgences. 1. The Apostles granted indulgences.
+— The Church has always exercised its right to grant indulgences.
+
+1. The Apostles granted indulgences.
 
 > St. Paul writes of a Corinthian who had shown such signs of true repentance that his penance had been remitted. "Whom you pardon anything, I also pardon. Indeed, what I have forgiven — if I have forgiven anything I have done for your sakes, in the person of Christ" (Cor. 2: 10).
 
@@ -56,7 +62,9 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 **What are some of the advantages of indulgences?**
 
-— Some of the advantages are: 1. They cancel or lessen our temporal punishment.
+— Some of the advantages are:
+
+1. They cancel or lessen our temporal punishment.
 
 > Thus those who neglect the practice of gaining indulgences may be likened to a traveller who prefers a long and difficult road although a short and pleasant one is offered to him.
 

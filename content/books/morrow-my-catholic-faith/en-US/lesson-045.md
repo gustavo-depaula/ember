@@ -2,7 +2,7 @@
 
 ![](../images/lesson-045.webp)
 
-As an example of true zeal, we have the Apostle of the Indies, the Patron of Catholic Missions, St. Francis Xavier. Born of a noble family of Navarre, a descendant of kings, he was brought up for a career of earthly power and glory. But he met St. Ignatius, and decided to become a soldier for Christ. Inflamed with zeal, wishing only to reap rich harvests for God, he went through India, Malaya and Japan planting the seed of the Faith, converting innumerable heathen to Christ. In Japan, so fruitful was his apostolate that a generation after him the Christian population still totalled 400,000 souls. He is Protector of the Society for the Propagation of the Faith.
+*As an example of true zeal, we have the Apostle of the Indies, the Patron of Catholic Missions, St. Francis Xavier. Born of a noble family of Navarre, a descendant of kings, he was brought up for a career of earthly power and glory. But he met St. Ignatius, and decided to become a soldier for Christ. Inflamed with zeal, wishing only to reap rich harvests for God, he went through India, Malaya and Japan planting the seed of the Faith, converting innumerable heathen to Christ. In Japan, so fruitful was his apostolate that a generation after him the Christian population still totalled 400,000 souls. He is Protector of the Society for the Propagation of the Faith.*
 
 
 **What is meekness?**

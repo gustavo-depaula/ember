@@ -2,7 +2,7 @@
 
 ![](../images/lesson-098.webp)
 
-By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among the first examples was that of the lame man that sat and begged at the gate of the Temple. Upon seeing Peter and John about to enter the Temple, he asked for an alms. Peter said, "Silver and gold I have none; but what I have that I give thee. In the name of Jesus Christ of Nazareth, arise and walk" (Acts 3: 6). And the man lame from birth leaped up and walked into the Temple, praising God.
+*By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among the first examples was that of the lame man that sat and begged at the gate of the Temple. Upon seeing Peter and John about to enter the Temple, he asked for an alms. Peter said, "Silver and gold I have none; but what I have that I give thee. In the name of Jesus Christ of Nazareth, arise and walk" (Acts 3: 6). And the man lame from birth leaped up and walked into the Temple, praising God.*
 
 "THOU SHALT NOT TAKE THE NAME OF THE LORD THY GOD IN VAIN."
 
@@ -60,7 +60,9 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 **What is blasphemy?**
 
-— Blasphemy is insulting language which expresses contempt for God, either directly or through His saints and holy things. 1. Contemptuous or abusive language against God, scoffing at the true religion, or ridiculing sacred ceremonies, — all these are blasphemous. Sacrilege is a form of blasphemy; irreverent actions and thoughts against God, the saints and angels, or holy persons and things, are also blasphemous.
+— Blasphemy is insulting language which expresses contempt for God, either directly or through His saints and holy things.
+
+1. Contemptuous or abusive language against God, scoffing at the true religion, or ridiculing sacred ceremonies, — all these are blasphemous. Sacrilege is a form of blasphemy; irreverent actions and thoughts against God, the saints and angels, or holy persons and things, are also blasphemous.
 
 > In the Old Law, the blasphemer was condemned to death. "And he that blasphemeth the name of the Lord, dying let him die: all the multitude shall stone him" (Lev. 24: 16). It is blasphemy to speak scornfully of God or of His actions; or to attribute to a creature a prerogative of God. Thus the people blasphemed when they said, after King Herod had spoken to them: "It is the voice of a god and not of a man" (Acts 12: 22).
 

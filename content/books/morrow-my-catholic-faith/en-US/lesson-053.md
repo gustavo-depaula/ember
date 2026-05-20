@@ -2,7 +2,7 @@
 
 ![](../images/lesson-053.webp)
 
-The apostolicity of the Church receives additional proof from the fact that today it still administers the very same seven sacraments administered by the Apostles. Non-Catholic churches have abandoned most of the sacraments, but the Catholic Church preserves and administers them all. Among the sacraments thus preserved are (1) Confirmation, and (2) Extreme Unction. St. Peter and St. John administered the first (Acts 8: 14-17). St. James wrote about the second (Jas. 5: 14,15).
+*The apostolicity of the Church receives additional proof from the fact that today it still administers the very same seven sacraments administered by the Apostles. Non-Catholic churches have abandoned most of the sacraments, but the Catholic Church preserves and administers them all. Among the sacraments thus preserved are (1) Confirmation, and (2) Extreme Unction. St. Peter and St. John administered the first (Acts 8: 14-17). St. James wrote about the second (Jas. 5: 14,15).*
 
 
 **Why is the Church catholic or universal?**

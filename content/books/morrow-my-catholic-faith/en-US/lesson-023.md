@@ -2,7 +2,7 @@
 
 ![](../images/lesson-023.webp)
 
-We are prone to look upon venial sin as of no consequence, and to be careless about guarding against it, forgetting that it is second only in evil consequences to mortal sin. In Holy Scripture, we see from many examples how God regards venial sin; even in this life. He has punished it most severely. For only a slight doubt about God's mercy, because of the wickedness of his people, Moses was punished: he was not permitted to lead the Israelites into the Promised Land.
+*We are prone to look upon venial sin as of no consequence, and to be careless about guarding against it, forgetting that it is second only in evil consequences to mortal sin. In Holy Scripture, we see from many examples how God regards venial sin; even in this life. He has punished it most severely. For only a slight doubt about God's mercy, because of the wickedness of his people, Moses was punished: he was not permitted to lead the Israelites into the Promised Land.*
 
 
 **What is venial sin?**
@@ -34,7 +34,9 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 **How does venial sin harm us?**
 
-— Venial sin harms us by making us less fervent in the service of God, by weakening our power to resist mortal sin, and by making us deserving of God's punishments in this life or in purgatory. 1. Although venial sin is not a grievous offence against God, it is nevertheless a great moral evil, next alone to mortal sin.
+— Venial sin harms us by making us less fervent in the service of God, by weakening our power to resist mortal sin, and by making us deserving of God's punishments in this life or in purgatory.
+
+1. Although venial sin is not a grievous offence against God, it is nevertheless a great moral evil, next alone to mortal sin.
 
 > It is like a drop of ink in a glassful of clear water; the ink, however little, takes away the clearness.
 
@@ -57,7 +59,9 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 **How can we keep from committing sin?**
 
-— We can keep from committing sin by praying and by receiving the sacraments; by remembering that God is always with us; by recalling that our bodies are temples of the Holy Ghost; by keeping occupied with work or play; by promptly resisting the sources of sin within us; by avoiding the near occasions of sin. 1. Prayer and the sacraments protect us from sin. They are like a strong fortress against which the enemy strikes in vain, and within which the soul remains safe in the grace of God.
+— We can keep from committing sin by praying and by receiving the sacraments; by remembering that God is always with us; by recalling that our bodies are temples of the Holy Ghost; by keeping occupied with work or play; by promptly resisting the sources of sin within us; by avoiding the near occasions of sin.
+
+1. Prayer and the sacraments protect us from sin. They are like a strong fortress against which the enemy strikes in vain, and within which the soul remains safe in the grace of God.
 
 > When the Apostles were in danger on the lake of Genessareth, they had recourse to prayer. We are ever in danger from sin while we live; let us build up around us a rampart of prayer. God will protect us, as He protected the Apostles; He will answer our prayer. The soul nourished by the sacraments is strong, and will not easily succumb to sin; as a healthy body does not easily succumb to disease.
 

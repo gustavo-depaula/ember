@@ -2,12 +2,14 @@
 
 ![](../images/lesson-059.webp)
 
-The Church is a closely organized and united society, including the hierarchy and the faithful. All members render loving obedience to the infallible Vicar of Christ. The Pope does not rule as a proud monarch, but as a Father, the representative of God; as a good Shepherd, solicitous for each member of the great flock. The unquestioning obedience of the faithful is responsible for the wonderful unity among the members of the Church throughout the world. There are about four hundred twenty-five million Catholics, all submitting to the hierarchy, at the head of which is the Pope.
+*The Church is a closely organized and united society, including the hierarchy and the faithful. All members render loving obedience to the infallible Vicar of Christ. The Pope does not rule as a proud monarch, but as a Father, the representative of God; as a good Shepherd, solicitous for each member of the great flock. The unquestioning obedience of the faithful is responsible for the wonderful unity among the members of the Church throughout the world. There are about four hundred twenty-five million Catholics, all submitting to the hierarchy, at the head of which is the Pope.*
 
 
 **What is the hierarchy?**
 
-— The hierarchy is the organization in successive grades of the ruling powers of the Church. 1. The hierarchy is the "teaching Church," the ruling body composed of the priests with their bishops and the Pope above all. It is an army of leaders having care and control of the holy and sacred things of the Church.
+— The hierarchy is the organization in successive grades of the ruling powers of the Church.
+
+1. The hierarchy is the "teaching Church," the ruling body composed of the priests with their bishops and the Pope above all. It is an army of leaders having care and control of the holy and sacred things of the Church.
 
 > Under this army of the "teaching Church" is the "hearing Church"; the faithful, the laity.
 

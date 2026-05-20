@@ -2,14 +2,16 @@
 
 ![](../images/lesson-076.webp)
 
-Respect for the dead requires that cemeteries be properly kept. We should remember that the bodies of the buried will one day rise again to join immortal souls and live forever with God. Respect for the dead would also advise us to give up the recent fad of dolling up corpses, painting their faces to make them seem alive, as if they were prepared for some flighty show.
+*Respect for the dead requires that cemeteries be properly kept. We should remember that the bodies of the buried will one day rise again to join immortal souls and live forever with God. Respect for the dead would also advise us to give up the recent fad of dolling up corpses, painting their faces to make them seem alive, as if they were prepared for some flighty show.*
 
 ## Eleventh Article of the Apostles' Creed
 
 
 **What happens at death?**
 
-— At death the soul is separated from the body. 1. The soul is judged by God, and rewarded with heaven, punished with hell, or sent for a time to be cleansed in purgatory. The body begins to corrupt and returns to the dust from which it came.
+— At death the soul is separated from the body.
+
+1. The soul is judged by God, and rewarded with heaven, punished with hell, or sent for a time to be cleansed in purgatory. The body begins to corrupt and returns to the dust from which it came.
 
 > St. Peter spoke of the body as a tabernacle for the soul: "the putting out of my tabernacle is at hand" (2 Pet. 1:14). At death, "the dust returns to its earth, from whence it came, and the spirit returns to God, Who gave it" (Eccles. 12: 7). The only exceptions have been the bodies of Our Lord and the Blessed Virgin, which rose to join their soul, and are now in heaven.
 
@@ -28,7 +30,9 @@ Respect for the dead requires that cemeteries be properly kept. We should rememb
 
 **How should we prepare for death?**
 
-— We should prepare for death by leading a good life, avoiding sin, and doing good. 1. We must keep in God's grace and love, so that when the Angel of Death comes, we may welcome him as one who takes us home to see the face of our loving Father. The good do not fear death.
+— We should prepare for death by leading a good life, avoiding sin, and doing good.
+
+1. We must keep in God's grace and love, so that when the Angel of Death comes, we may welcome him as one who takes us home to see the face of our loving Father. The good do not fear death.
 
 > Let us die with joy, saying to God, as Holy Simeon did: "Now thou dost dismiss thy servant, O Lord, according to thy word, in peace" (Luke 2: 29). Let us imitate St. Paul, who says, "I have fought the good fight. I have finished the course, I have kept the faith. For the rest, there is laid upon me a crown of justice, which the Lord, the just Judge, will give to me in that day" (2 Tim. 4: 7-8). St. Augustine exclaims: "O how sweet it is to die, if one's life has been a good one!" For such as he, "to die is gain". To the just man death is only a passing into a better life. It is a journey to his everlasting home, where his heavenly Father dwells. Death is to be feared only by the sinner, for it is the end of his earthly pleasures, and the beginning of his eternal punishment.
 
@@ -43,7 +47,9 @@ Respect for the dead requires that cemeteries be properly kept. We should rememb
 
 **What are cemeteries?**
 
-— Cemeteries are the burial grounds for the dead. 1. The word "cemetery" comes from the Greek, and means sleeping-place; there the bodies of the dead sleep till Judgement Day.
+— Cemeteries are the burial grounds for the dead.
+
+1. The word "cemetery" comes from the Greek, and means sleeping-place; there the bodies of the dead sleep till Judgement Day.
 
 > It is the custom to engrave the letters R.I.P. (Requiescat in pace. May he rest in peace) on headstones.
 

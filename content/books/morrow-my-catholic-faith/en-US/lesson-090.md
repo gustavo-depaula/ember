@@ -2,7 +2,7 @@
 
 ![](../images/lesson-090.webp)
 
-"Take heed not to practise your good before men, in order to be seen by them; otherwise you shall have no reward with your Father in heaven" (Matt. 6: 1). The widow's mite had more value in the eyes of God than the gold that the rich poured ostentatiously into the Temple's coffers. Everything done for the service of our neighbour may be considered almsgiving. Everything spent in good works is lent to God, Who will return it with interest: "Come, blessed of my Father . . . Amen, I say to you, as long as you did it for one of these, the least of my brethren, you did it for me...As long as you did not do it for one of these least ones, you did not do it for me" (Matt. 25: 34, 40, 45).
+*"Take heed not to practise your good before men, in order to be seen by them; otherwise you shall have no reward with your Father in heaven" (Matt. 6: 1). The widow's mite had more value in the eyes of God than the gold that the rich poured ostentatiously into the Temple's coffers. Everything done for the service of our neighbour may be considered almsgiving. Everything spent in good works is lent to God, Who will return it with interest: "Come, blessed of my Father . . . Amen, I say to you, as long as you did it for one of these, the least of my brethren, you did it for me...As long as you did not do it for one of these least ones, you did not do it for me" (Matt. 25: 34, 40, 45).*
 
 
 **Is every one obliged to perform the works of mercy?**
@@ -30,7 +30,9 @@
 
 **What are some practical ways of almsgiving?**
 
-— Some practical ways of almsgiving are: to give help to our poor relatives, those in want, the Church, and charitable institutions. 1. In works of charity, we should give preference to our relatives, to our fellow Catholics, to our friends.
+— Some practical ways of almsgiving are: to give help to our poor relatives, those in want, the Church, and charitable institutions.
+
+1. In works of charity, we should give preference to our relatives, to our fellow Catholics, to our friends.
 
 > "Charity begins at home." It is not edifying to see well-known figures in public charities turn away a poor cousin who begs for some help to send his little child to school. This would very likely mean that the public charities done by such people are so done only for show, not from kindness of heart. As for fellow Catholics, St. Paul said: "Let us do good to all men, but especially to those who are of the household of faith" (Gal. 6: 10).
 

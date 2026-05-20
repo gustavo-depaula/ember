@@ -2,12 +2,14 @@
 
 ![](../images/lesson-159.webp)
 
-Ordination to the priesthood takes place during the celebration of Mass, After the candidates have prostrated themselves on their faces before the altar, the Bishop lays his hands on the head of each, the priests present doing the same. He puts on them the sacerdotal vestments (1). The Holy Ghost is invoked. He then anoints the hands of each with sacred chrism in the form of a cross. He makes each touch the chalice and paten, to show that the power to offer Mass is conferred (2), The new priests say Mass with the Bishop, After Communion, the Bishop again lays his hands on the head of each (3) and says: "Receive ye the Holy Ghost; whose sins ye shall forgive. . ."
+*Ordination to the priesthood takes place during the celebration of Mass, After the candidates have prostrated themselves on their faces before the altar, the Bishop lays his hands on the head of each, the priests present doing the same. He puts on them the sacerdotal vestments (1). The Holy Ghost is invoked. He then anoints the hands of each with sacred chrism in the form of a cross. He makes each touch the chalice and paten, to show that the power to offer Mass is conferred (2), The new priests say Mass with the Bishop, After Communion, the Bishop again lays his hands on the head of each (3) and says: "Receive ye the Holy Ghost; whose sins ye shall forgive. . ."*
 
 
 **What is Holy Orders?**
 
-— Holy Orders is the sacrament through which men receive the power and grace to perform the sacred duties of bishops, priests, and other ministers of the Church. 1. Our Lord Jesus Christ instituted this sacrament. At the Last Supper He gave the Apostles and their successors the power to say Mass. He said, after consecrating His Body and Blood:
+— Holy Orders is the sacrament through which men receive the power and grace to perform the sacred duties of bishops, priests, and other ministers of the Church.
+
+1. Our Lord Jesus Christ instituted this sacrament. At the Last Supper He gave the Apostles and their successors the power to say Mass. He said, after consecrating His Body and Blood:
 
 > "Do this in remembrance of me" (Luke 22: 19). Thus He gave the Apostles the power to offer the Sacrifice of the Mass.
 

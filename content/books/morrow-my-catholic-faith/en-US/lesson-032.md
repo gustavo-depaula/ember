@@ -2,12 +2,14 @@
 
 ![](../images/lesson-032.webp)
 
-After the finding in the Temple, Jesus returned with Mary and Joseph to Nazareth. There He lived with them, doing all He could to help His Mother and St. Joseph in their work. Jesus, God Himself, obeyed mortals, because He wanted to set us an example. He lived a life of obedience, humility, and poverty in Nazareth till He was about thirty years old. This hidden life teaches us, among other things, the value in the eyes of God, of prayer, humility and obedience.
+*After the finding in the Temple, Jesus returned with Mary and Joseph to Nazareth. There He lived with them, doing all He could to help His Mother and St. Joseph in their work. Jesus, God Himself, obeyed mortals, because He wanted to set us an example. He lived a life of obedience, humility, and poverty in Nazareth till He was about thirty years old. This hidden life teaches us, among other things, the value in the eyes of God, of prayer, humility and obedience.*
 
 
 **How may the life of Jesus Christ be divided?**
 
-— The life of Jesus Christ may be divided into three parts: His childhood to the time when He was twelve years old; His hidden life, to the time when He started His teaching; and His public life, to the time of His death. 1. After the murder of the Holy Innocents, the Child Jesus lived in Egypt with His mother and St. Joseph until the death of Herod, then returned with them to the Holy Land.
+— The life of Jesus Christ may be divided into three parts: His childhood to the time when He was twelve years old; His hidden life, to the time when He started His teaching; and His public life, to the time of His death.
+
+1. After the murder of the Holy Innocents, the Child Jesus lived in Egypt with His mother and St. Joseph until the death of Herod, then returned with them to the Holy Land.
 
 > An angel appeared to Joseph and said, "Arise, and take the Child and his Mother, and go into the land of Israel" (Matt. 2: 20). Just as St. Joseph had obeyed without question when told to take the Child to Egypt, so now he obeyed, knowing that God Who watches over the birds of the air would watch over those given into his charge.
 
@@ -22,7 +24,9 @@ After the finding in the Temple, Jesus returned with Mary and Joseph to Nazareth
 
 **How long did the hidden life of Jesus Christ last?**
 
-— The hidden life of Jesus Christ lasted from His return to Nazareth at the age of twelve until He entered into public life, at the age of thirty. 1. Of this part of Christ's life all we directly read from Holy Scripture are two statements: "And He went down with them, and came to Nazareth, and was subject to them.... And Jesus advanced in wisdom and age and grace before God and men" (Luke 2: 51, 52). In these two sentences is contained the history of eighteen years of the life of Jesus Christ, the God-Man.
+— The hidden life of Jesus Christ lasted from His return to Nazareth at the age of twelve until He entered into public life, at the age of thirty.
+
+1. Of this part of Christ's life all we directly read from Holy Scripture are two statements: "And He went down with them, and came to Nazareth, and was subject to them.... And Jesus advanced in wisdom and age and grace before God and men" (Luke 2: 51, 52). In these two sentences is contained the history of eighteen years of the life of Jesus Christ, the God-Man.
 
 > In the Temple, at the early age of twelve, Jesus had proved His wisdom before the doctors of the law. As St. Luke writes, "And all who were listening to him were amazed at his understanding and his answers" (Luke 2: 47). But did He continue after this unusual and favourable beginning; did He stay on to preach His doctrine? No; instead, He meekly followed His parents as a young child of that age, and went to live with them in obscurity in Nazareth.
 

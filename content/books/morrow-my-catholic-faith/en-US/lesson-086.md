@@ -2,12 +2,14 @@
 
 ![](../images/lesson-086.webp)
 
-God commands us to love ourselves. We must thus care for both our body and our soul. Since the soul is far more precious than the body, we should give it more careful attention. Every day we must pray for grace to live according to God's will. Care for the body includes taking proper treatment and medicine when we are ill (2). Anything against health violates the duty to love ourselves.
+*God commands us to love ourselves. We must thus care for both our body and our soul. Since the soul is far more precious than the body, we should give it more careful attention. Every day we must pray for grace to live according to God's will. Care for the body includes taking proper treatment and medicine when we are ill (2). Anything against health violates the duty to love ourselves.*
 
 
 **Why must we love ourselves?**
 
-— We must love ourselves because: 1. God wishes and requires it. Our Lord said: "Thou shalt love thy neighbour as thyself" (Matt. 22: 39).
+— We must love ourselves because:
+
+1. God wishes and requires it. Our Lord said: "Thou shalt love thy neighbour as thyself" (Matt. 22: 39).
 
 > Thus He made the love of self the measure of love for others. St. Augustine says: "Learn first to love God, then to love thyself, then thy neighbour as thyself." Each man is his own closest neighbour.
 
@@ -45,7 +47,9 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 **Does love of self include love of the body?**
 
-— Love of self includes love of the body, for our body is a gift of God, that we should treat as such. 1. Our body is united with our soul, and is the soul's instrument for good, for the attainment of our end, eternal happiness.
+— Love of self includes love of the body, for our body is a gift of God, that we should treat as such.
+
+1. Our body is united with our soul, and is the soul's instrument for good, for the attainment of our end, eternal happiness.
 
 > God did not create us as disembodied souls; it is His will that we work out our salvation in this world, our souls inhabiting our body. As the instrument of the soul, the body must not be misused: "Therefore do not let sin reign in your mortal body. ... And do not yield your members to sin as weapons of iniquity, but present your members as weapons of justice for God" (Rom. 6: 12 - 13).
 
@@ -60,7 +64,9 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 **Does true love of self also include care for one's reputation and temporal goods?**
 
-— True love of self also ordinarily includes care for one's reputation and temporal goods. 1. A good reputation is a precious possession, useful for both time and eternity. By a good reputation one can do much good; being well-thought of, he can be of influence over others, as well as more encouraged by himself to lead an upright life.
+— True love of self also ordinarily includes care for one's reputation and temporal goods.
+
+1. A good reputation is a precious possession, useful for both time and eternity. By a good reputation one can do much good; being well-thought of, he can be of influence over others, as well as more encouraged by himself to lead an upright life.
 
 > Our Lord Himself said: "So let your light shine before men, in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5: 16). And the Apostle reiterates the same advice when he said, "Let your moderation be known to all men" (Phil. 4: 5).
 

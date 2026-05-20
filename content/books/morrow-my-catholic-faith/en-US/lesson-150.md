@@ -26,7 +26,11 @@
 
 **How should we confess our sins to the priest?**
 
-— We should confess our sins in this manner: 1. Making the sign of the cross, we say to the priest: "Bless me Father, for I have sinned"; and then we tell how long it has been since our last confession. 2. We then state our sins as clearly and briefly as possible, telling all mortal sins, including those that may have been forgotten in previous confessions, with the nature and number of each; we may also confess any venial sins we wish to mention. We must not waste time at any random talk.
+— We should confess our sins in this manner:
+
+1. Making the sign of the cross, we say to the priest: "Bless me Father, for I have sinned"; and then we tell how long it has been since our last confession.
+
+2. We then state our sins as clearly and briefly as possible, telling all mortal sins, including those that may have been forgotten in previous confessions, with the nature and number of each; we may also confess any venial sins we wish to mention. We must not waste time at any random talk.
 
 > If we cannot remember the exact number of our mortal sins, we should tell the number as nearly as possible, or say how often we have committed the sins in a day, a week, a month, or a year. When we have committed no mortal sin since our last confession, we should confess our venial sins, or some sin told in a previous confession, for which we are again sorry, in order that the priest may give us absolution.
 

@@ -2,14 +2,16 @@
 
 ![](../images/lesson-152.webp)
 
-1. Before a man is ordained priest and permitted to hear confessions, he must go through a long period of careful study and preparation. He will do three or at least two years of Philosophy, and four years of Theology, Canon Law, Ecclesiastical History, and Sacred Scripture. This long and detailed preparation would usually not attract a low class of men.
+*1. Before a man is ordained priest and permitted to hear confessions, he must go through a long period of careful study and preparation. He will do three or at least two years of Philosophy, and four years of Theology, Canon Law, Ecclesiastical History, and Sacred Scripture. This long and detailed preparation would usually not attract a low class of men.*
 
 2. After one is ordained priest, he is continually reminded of his duties not only by his superiors, but by his daily meditation and prayer. Every priest is obliged to say the Breviary every day. These spiritual duties bring down the grace of God on the priest, and serve to strengthen him to be faithful to his sacred duties, one of the most important being to keep the seal of the confession, the sacramental secret.
 
 
 **What is the "seal of confession?"**
 
-— It is the most solemn obligation of a priest to keep secret what has been revealed to him in confession. 1. The priest may not break this seal of confession even to save his own life, or to avert a great calamity. He must act as if he had not heard anything in confession. This is why a sense of shame or fear of telling our sins should never lead us to conceal mortal sins in confession.
+— It is the most solemn obligation of a priest to keep secret what has been revealed to him in confession.
+
+1. The priest may not break this seal of confession even to save his own life, or to avert a great calamity. He must act as if he had not heard anything in confession. This is why a sense of shame or fear of telling our sins should never lead us to conceal mortal sins in confession.
 
 > Towards the end of the fourteenth century, Wenceslaus, King of Bohemia, ordered St. John Nepomucene to be drowned in the river Moldau. The king had tried to make the Saint reveal to him what the queen had said in confession, and the saint had firmly refused, in spite of inducements and threats. Hundreds of years after, during the process of canonization, the saint's tongue was found incorrupt, and looked like a living tongue.
 
@@ -30,7 +32,9 @@
 
 **Are penitents bound by the seal of confession?**
 
-— Penitents are in no way bound by the seal of confession; but they are advised to refrain from talking about what the priest tells them in the confessional. 1. Penitents should avoid speaking about the advice given, the penance, etc.
+— Penitents are in no way bound by the seal of confession; but they are advised to refrain from talking about what the priest tells them in the confessional.
+
+1. Penitents should avoid speaking about the advice given, the penance, etc.
 
 > One reason for this is that if we misunderstand or misrepresent what the priest told us, he has no way of defending himself. Besides, each penitent is different from the others. Advice or penance given by a confessor to one may not be good for another; just as a doctor prescribes different medicines for his patients.
 
@@ -39,7 +43,9 @@
 
 **Are we free to choose our confessor?**
 
-— Yes, we are absolutely free to choose the confessor we like. 1. It is advisable to have a regular confessor. In this way, he becomes well acquainted with our character and state of conscience. He is thus enabled to direct us better, to give us more effective spiritual advice and instruction.
+— Yes, we are absolutely free to choose the confessor we like.
+
+1. It is advisable to have a regular confessor. In this way, he becomes well acquainted with our character and state of conscience. He is thus enabled to direct us better, to give us more effective spiritual advice and instruction.
 
 > A confessor is like a physician. If a sick man consults a different physician every week and follows the directions of none, he cannot expect much improvement in health. Similarly, a penitent who moves from one confessor to another can hardly get the advice he needs.
 

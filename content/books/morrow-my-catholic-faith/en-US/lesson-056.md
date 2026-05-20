@@ -2,12 +2,14 @@
 
 ![](../images/lesson-056.webp)
 
-It is Christ's will that we should reverence His ministers as Himself. This is why Catholics pay the greatest reverence to Christ's Vicar, the Pope, their universal Father. On this account, the title "His Holiness" is given him. Out of respect for his office, the Holy Father is given privileges not granted to other bishops. As a temporal sovereign he has a Court and guards. He has a standard and seal. He has ambassadors. On solemn occasions he is carried in the papal chair called sedia gestatoria.
+*It is Christ's will that we should reverence His ministers as Himself. This is why Catholics pay the greatest reverence to Christ's Vicar, the Pope, their universal Father. On this account, the title "His Holiness" is given him. Out of respect for his office, the Holy Father is given privileges not granted to other bishops. As a temporal sovereign he has a Court and guards. He has a standard and seal. He has ambassadors. On solemn occasions he is carried in the papal chair called sedia gestatoria.*
 
 
 **Did Christ intend that the special power of chief teacher and ruler of the entire Church should be exercised by Peter alone?**
 
-— Christ did not intend that the special power of chief teacher and ruler of the entire Church should be exercised by Peter alone, but intended that this power should be passed down to his successor, the Pope, Bishop of Rome, who is the Vicar of Christ on earth, and the visible Head of the Church. 1. St. Peter lived for a short time at Antioch; then he went to Rome and there fixed his official residence permanently. It was there, and as Bishop of Rome, that he died as a martyr some twenty years later.
+— Christ did not intend that the special power of chief teacher and ruler of the entire Church should be exercised by Peter alone, but intended that this power should be passed down to his successor, the Pope, Bishop of Rome, who is the Vicar of Christ on earth, and the visible Head of the Church.
+
+1. St. Peter lived for a short time at Antioch; then he went to Rome and there fixed his official residence permanently. It was there, and as Bishop of Rome, that he died as a martyr some twenty years later.
 
 > The Church was not to die with Peter. Therefore his official rank and dignity and powers were to be handed on to his successors from generation to generation. In the same way, successors to a civil office acquire all the powers attached to the office.
 
@@ -22,7 +24,9 @@ It is Christ's will that we should reverence His ministers as Himself. This is w
 
 **Has the Bishop of Rome always been looked upon as the head of the Church?**
 
-— Yes, the Bishop of Rome has from Apostolic times been looked upon as the universal head of the Church. 1. From earliest times, the titles "high priest" and "bishop of bishops" have been given to the Bishop of Rome. Appeals were made to him, and disputes were settled by him.
+— Yes, the Bishop of Rome has from Apostolic times been looked upon as the universal head of the Church.
+
+1. From earliest times, the titles "high priest" and "bishop of bishops" have been given to the Bishop of Rome. Appeals were made to him, and disputes were settled by him.
 
 > The third successor of St. Peter was Pope St. Clement. A dispute in the Church at Corinth was referred to him for decision. He wrote letters of remonstrance and admonition to the Corinthians, and they submitted to his correction. At that time, very near Corinth the Apostle John was still living. Why did the Corinthians, instead of appealing to faraway Rome and Clement, not refer their trouble, to the Apostle John, Bishop of Ephesus? Evidently because Rome's authority was universal, while that of Ephesus was local.
 

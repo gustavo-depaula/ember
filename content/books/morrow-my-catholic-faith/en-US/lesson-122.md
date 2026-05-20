@@ -2,7 +2,7 @@
 
 ![](../images/lesson-122.webp)
 
-To help support our pastors, we can give various things, according to our means, their needs, and the needs of the Church. We can offer money, vestments, furnishings for the Church, food, candles, etc. We should make a liberal offering every time the pastor performs some service for us, as at baptisms, funerals, blessing of our houses, marriages, etc. If there is a regular fee charged, we should not only pay it willingly, but, if we are able, give more than what is required.
+*To help support our pastors, we can give various things, according to our means, their needs, and the needs of the Church. We can offer money, vestments, furnishings for the Church, food, candles, etc. We should make a liberal offering every time the pastor performs some service for us, as at baptisms, funerals, blessing of our houses, marriages, etc. If there is a regular fee charged, we should not only pay it willingly, but, if we are able, give more than what is required.*
 
 "TO CONTRIBUTE TO THE SUPPORT OF THE CHURCH."
 
@@ -26,7 +26,9 @@ I. We are bound to support our pastors, because justice commands it, and God ord
 
 **For what purposes does the Church need help?**
 
-— The Church needs help for many purposes, among which are the following: 1. Maintenance of public worship, education, and charity, as instruction of the young, relief of the poor, upkeep of the Churches, seminaries, schools, colleges, asylums, hospitals, cemeteries, orphanages, etc.
+— The Church needs help for many purposes, among which are the following:
+
+1. Maintenance of public worship, education, and charity, as instruction of the young, relief of the poor, upkeep of the Churches, seminaries, schools, colleges, asylums, hospitals, cemeteries, orphanages, etc.
 
 > Some Catholics think that the little given the parish priest once in a while as Mass stipend is enough to support the needs of the Church. It is not even enough to support the priest decently, to keep the church clean, pay the salaries of workmen, purchase vestments, lights, etc.
 
@@ -35,7 +37,9 @@ I. We are bound to support our pastors, because justice commands it, and God ord
 
 **In what ways may we contribute to the support of the Church?**
 
-— Some of the most common ways are: 1. By making a liberal and voluntary offering to the priest when he performs some religious ceremony in our behalf, such as blessing our houses and children, etc.
+— Some of the most common ways are:
+
+1. By making a liberal and voluntary offering to the priest when he performs some religious ceremony in our behalf, such as blessing our houses and children, etc.
 
 > In parishes with an established schedule of fees for baptism, confirmation, marriage, and burial, the fee should be paid without arguing or bargaining. More than the scheduled fee should be given by persons of means, as the schedule is for those of ordinary financial ability.
 
@@ -54,7 +58,9 @@ I. We are bound to support our pastors, because justice commands it, and God ord
 
 **How much should we contribute for the support of the Church?**
 
-— We should contribute as much as we can, according to our means. 1. Persons who are in moderate circumstances and with large families cannot be expected to contribute as much as those who are rich.
+— We should contribute as much as we can, according to our means.
+
+1. Persons who are in moderate circumstances and with large families cannot be expected to contribute as much as those who are rich.
 
 > The very poor are not expected to give anything. Sacraments are administered to them without fee.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-041.webp)
 
-Faith is the foundation of all virtue, for by it God makes Himself known to men. As St. Paul says, "Now faith is the substance of things to be hoped for, the evidence of things that are not seen. . . . And without faith it is impossible to please God." (Heb. 11: 1, 6). It is this supernatural faith that the Canaanite woman proved, when she persevered in begging Jesus to cure her daughter. Having tested her, He said, "O woman, great is thy faith. Let it be done to thee as thou wilt" (Matt. 15: 28).
+*Faith is the foundation of all virtue, for by it God makes Himself known to men. As St. Paul says, "Now faith is the substance of things to be hoped for, the evidence of things that are not seen. . . . And without faith it is impossible to please God." (Heb. 11: 1, 6). It is this supernatural faith that the Canaanite woman proved, when she persevered in begging Jesus to cure her daughter. Having tested her, He said, "O woman, great is thy faith. Let it be done to thee as thou wilt" (Matt. 15: 28).*
 
 
 **What are the chief supernatural powers that are bestowed on our souls with sanctifying grace?**
 
-— The chief supernatural powers that are bestowed on our souls with sanctifying grace are the three theological virtues and the seven gifts of the Holy Ghost. 1. Good qualities or inclinations, whether natural or supernatural, are generally referred to as "virtues". Virtue is a habit that inclines us to whatever is good.
+— The chief supernatural powers that are bestowed on our souls with sanctifying grace are the three theological virtues and the seven gifts of the Holy Ghost.
+
+1. Good qualities or inclinations, whether natural or supernatural, are generally referred to as "virtues". Virtue is a habit that inclines us to whatever is good.
 
 > A single good act does not constitute virtue. For instance, one does not have the virtue of faith if one believes in Christ only once a week.
 
@@ -28,7 +30,9 @@ These virtues render us capable of being good and doing good for the love and se
 
 **What are the three theological virtues?**
 
-— The three theological virtues are faith, hope, and charity. 1. These virtues are called theological, from the Greek term *Theos* (meaning God), because their object is God.
+— The three theological virtues are faith, hope, and charity.
+
+1. These virtues are called theological, from the Greek term *Theos* (meaning God), because their object is God.
 
 > An appropriate symbol for the theological virtues is a living tree. Faith is the root, hope the trunk, and charity the fruit. The root and trunk are valueless if they do not find completion in the fruit. The common symbols depicting these three virtues are: the cross for faith, the anchor for hope, and the burning heart for charity.
 
@@ -39,7 +43,9 @@ These virtues render us capable of being good and doing good for the love and se
 
 **What is faith?**
 
-— Faith is the virtue by which we firmly believe all the truths God has revealed, on the word of God revealing them, Who can neither deceive nor be deceived. 1. Faith is belief in a truth on the word of another, though that truth be not fully understood.
+— Faith is the virtue by which we firmly believe all the truths God has revealed, on the word of God revealing them, Who can neither deceive nor be deceived.
+
+1. Faith is belief in a truth on the word of another, though that truth be not fully understood.
 
 > In a trial, the judge believes the testimony of a witness known to be an honest man. When a fact is so obvious as "it is dark at midnight," no belief is needed; that is known and fully understood.
 
@@ -62,7 +68,9 @@ These virtues render us capable of being good and doing good for the love and se
 
 **What is hope?**
 
-— Hope is the virtue by which we firmly trust that God, Who is all-powerful and faithful to His promises, will in His mercy give us eternal happiness and the means to obtain it. 1. God promised to give man eternal life, and the means to obtain it. In this promise is our hope.
+— Hope is the virtue by which we firmly trust that God, Who is all-powerful and faithful to His promises, will in His mercy give us eternal happiness and the means to obtain it.
+
+1. God promised to give man eternal life, and the means to obtain it. In this promise is our hope.
 
 > "He that putteth his trust in me shall inherit the land, and shall possess my holy mount" (Is. 57: 13).
 
@@ -73,7 +81,9 @@ These virtues render us capable of being good and doing good for the love and se
 
 **What is charity?**
 
-— Charity is the virtue by which we love God above all things for His own sake, and our neighbour as ourselves, for the love of God. 1. Charity is the queen of virtues. It unites God and man perfectly in love. It also unites man and man, for the love of God.
+— Charity is the virtue by which we love God above all things for His own sake, and our neighbour as ourselves, for the love of God.
+
+1. Charity is the queen of virtues. It unites God and man perfectly in love. It also unites man and man, for the love of God.
 
 > To love God above all things, we must be willing to renounce all created things rather than offend Him by sin. We should often speak to God in acts of love, opening our hearts to Him.
 

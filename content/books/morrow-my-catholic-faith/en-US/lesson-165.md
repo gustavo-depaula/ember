@@ -2,12 +2,14 @@
 
 ![](../images/lesson-165.webp)
 
-Henry VIII, king of England, asked the Pope to grant him a divorce from his lawful wife, Catherine of Aragon, so that he might marry Anne Boleyn. The king had rendered valuable services to the Church. If the Pope refused, England would surely be plunged in heresy. But Pope Clement VII stood firm. Not even to save England for the Church could he break God's law. The only reply he gave was: "Non possumus; I have no authority to set aside the divine law." As a result, Henry VIII abandoned his obedience, and intent on his evil desires and yielding to his passions, he revolted from the Church. This was the beginning of the Protestant Church of England.
+*Henry VIII, king of England, asked the Pope to grant him a divorce from his lawful wife, Catherine of Aragon, so that he might marry Anne Boleyn. The king had rendered valuable services to the Church. If the Pope refused, England would surely be plunged in heresy. But Pope Clement VII stood firm. Not even to save England for the Church could he break God's law. The only reply he gave was: "Non possumus; I have no authority to set aside the divine law." As a result, Henry VIII abandoned his obedience, and intent on his evil desires and yielding to his passions, he revolted from the Church. This was the beginning of the Protestant Church of England.*
 
 
 **What is meant by the unity of the sacrament of Matrimony?**
 
-— By the unity of the sacrament of Matrimony is meant that the husband cannot during the life of his wife have another wife, nor the wife during the life of her husband have another husband. 1. Christian marriage is a union between only one man and one woman. God created only one man and one woman in the beginning; and thus then there was unity in marriage.
+— By the unity of the sacrament of Matrimony is meant that the husband cannot during the life of his wife have another wife, nor the wife during the life of her husband have another husband.
+
+1. Christian marriage is a union between only one man and one woman. God created only one man and one woman in the beginning; and thus then there was unity in marriage.
 
 > Under the Mosaic Law, divorce was in some cases permitted, to avoid greater evils, because after the Fall the primitive revelation had become obscured to men. But when Christ came. He withdrew this permission absolutely, and restored marriage to its original unity, saying: "Have you not read that the Creator, from the beginning, made them male and female, and said, for this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. . . . Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning" (Matt. 19: 4-8).
 
@@ -26,7 +28,9 @@ Henry VIII, king of England, asked the Pope to grant him a divorce from his lawf
 
 **What is divorce?**
 
-— Divorce is a legal separation of married persons; as generally understood today, it is a complete severance of the marriage bond giving the parties the right to marry other persons. 1. Our Lord lifted marriage from the natural to the supernatural level, making of it a holy sacrament. And this consummated sacramental marriage can never be dissolved, except by the death of one of the parties; there can never be such a thing approved by the Church as divorce.
+— Divorce is a legal separation of married persons; as generally understood today, it is a complete severance of the marriage bond giving the parties the right to marry other persons.
+
+1. Our Lord lifted marriage from the natural to the supernatural level, making of it a holy sacrament. And this consummated sacramental marriage can never be dissolved, except by the death of one of the parties; there can never be such a thing approved by the Church as divorce.
 
 > The marriage of unbaptised persons is not sacramental, though it may be valid. The valid marriage of two baptised persons is always sacramental, whether they be Catholics or non-Catholics. For this reason the valid marriage of two baptised non-Catholics performed in the authorized manner is always a sacrament. This is easily understood when we remember that neither pastor nor official is the minister of the sacrament of Matrimony; they do not really confer the sacrament. The contracting parties are themselves the ministers, and confer the sacrament upon each other.
 

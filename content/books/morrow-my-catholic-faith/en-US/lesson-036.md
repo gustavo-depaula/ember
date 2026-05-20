@@ -2,14 +2,16 @@
 
 ![](../images/lesson-036.webp)
 
-"Now late in the night of the Sabbath, as it began to dawn towards the first day of the week, Mary Magdalene and the other Mary come to see the sepulchre. And behold, there was a great earthquake; for an angel of the Lord came down from heaven, and drawing near rolled back the stone, and sat upon it. His countenance was like lightning, and his raiment like snow. And for fear of him the guards were terrified, and became like dead men. But the angel spoke and said to the women; Do not be afraid; for I know that you seek Jesus, who was crucified. He is not here, for he has risen even as he said. Come, see the place where the Lord was laid'" (Matt. 28: 1-7).
+*"Now late in the night of the Sabbath, as it began to dawn towards the first day of the week, Mary Magdalene and the other Mary come to see the sepulchre. And behold, there was a great earthquake; for an angel of the Lord came down from heaven, and drawing near rolled back the stone, and sat upon it. His countenance was like lightning, and his raiment like snow. And for fear of him the guards were terrified, and became like dead men. But the angel spoke and said to the women; Do not be afraid; for I know that you seek Jesus, who was crucified. He is not here, for he has risen even as he said. Come, see the place where the Lord was laid'" (Matt. 28: 1-7).*
 
 (FIFTH ARTICLE OF THE APOSTLES' CREED)
 
 
 **What do we mean when we say in the Apostles' Creed that Christ descended into hell?**
 
-— When we say that Christ descended into hell, we mean that, after He died, the soul of Christ descended into a place or state of rest, called limbo, where the souls of the just were waiting for Him. 1. Christ did not go to the hell of the damned, but to the "hell" of the just. In Holy Scripture, it was called "Abraham's bosom". St. Peter called it "a prison". We call it limbo.
+— When we say that Christ descended into hell, we mean that, after He died, the soul of Christ descended into a place or state of rest, called limbo, where the souls of the just were waiting for Him.
+
+1. Christ did not go to the hell of the damned, but to the "hell" of the just. In Holy Scripture, it was called "Abraham's bosom". St. Peter called it "a prison". We call it limbo.
 
 > Among the souls in limbo were Adam, Eve, Abel, Noe, Abraham, Isaac, Jacob; Joseph, David, Isaias, Daniel, Job, Tobias, St. Joseph, and St. John the Baptist. They went to heaven at Our Lord's entrance upon His Ascension.
 
@@ -24,7 +26,9 @@
 
 **When did Christ rise from the dead?**
 
-— Christ rose from the dead, glorious and immortal, on Easter Sunday, the third day after His death. 1. Christ had often foretold His resurrection.
+— Christ rose from the dead, glorious and immortal, on Easter Sunday, the third day after His death.
+
+1. Christ had often foretold His resurrection.
 
 > He said of His own body: "Destroy this temple, and in three days I will raise it up" (John 2: 19). Before entering Jerusalem He said to His Apostles that He would be put to death and "rise again on the third day" (Matt. 20: 19). On the night of the Last Supper He said: "But after I have risen, I will go before you into Galilee" (Matt. 26: 32).
 
@@ -39,7 +43,9 @@
 
 **Why did Christ remain on earth forty days after His Resurrection?**
 
-— Christ remained on earth forty days after His Resurrection to prove that He had truly risen from the dead, and to complete the instruction of the Apostles. 1. Christ's resurrection is an undoubted fact on which rests the Christian faith.
+— Christ remained on earth forty days after His Resurrection to prove that He had truly risen from the dead, and to complete the instruction of the Apostles.
+
+1. Christ's resurrection is an undoubted fact on which rests the Christian faith.
 
 > St. Paul says: "If Christ has not risen, vain then is our preaching, vain too is your faith" (1 Cor. 15: 14). And according to St. John, an eyewitness: "Many other signs also Jesus worked in the sight of his disciples, which are not written in this book. But these are written, that you may believe that Jesus is the Christ, the Son of God" (John 20: 30-31)
 

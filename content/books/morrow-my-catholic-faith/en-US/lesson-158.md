@@ -2,14 +2,16 @@
 
 ![](../images/lesson-158.webp)
 
-1. The ceremonies for burial include services in the church. They vary from the very elaborate to the simplest. Holy water and lighted candles express our desire to see the departed cleansed and admitted into the kingdom of light. Incense symbolizes our wish to have prayers ascend to God.
+*1. The ceremonies for burial include services in the church. They vary from the very elaborate to the simplest. Holy water and lighted candles express our desire to see the departed cleansed and admitted into the kingdom of light. Incense symbolizes our wish to have prayers ascend to God.*
 
 2. The body of the departed Catholic is borne in procession to the cemetery. At a funeral, it is wrong to laugh or converse; we should pray for the repose of the soul departed. A small card of condolences announces a good offering one can make to a bereaved family: Holy Masses for the departed.
 
 
 **How should the body of a dead person be prepared for burial?**
 
-— For burial, the body of a dead person should be washed, dressed modestly, and laid out neatly. 1. Lay out the body in a dignified and becoming manner, but leave out all worldly vanity that savours of paganism. Remember that that body is sacred; it was the temple of the Holy Ghost.
+— For burial, the body of a dead person should be washed, dressed modestly, and laid out neatly.
+
+1. Lay out the body in a dignified and becoming manner, but leave out all worldly vanity that savours of paganism. Remember that that body is sacred; it was the temple of the Holy Ghost.
 
 > What a mockery of Christian ideals do we find only too often today, when everything possible is done to eliminate thoughts of death! The face of the deceased is rouged and retouched; the lips are painted berry red; the body is perfumed and powdered; the nails are varnished. Are we or are we not Christians? Do we honestly believe that cosmetics can help our beloved dead, that at that moment must already be suffering in purgatory?
 
@@ -20,7 +22,9 @@
 
 **How should funerals be conducted?**
 
-— Funerals should be conducted with dignity and devotion; they should not be extravagant and beyond the means of the family. 1. Some have the tendency to have pompous funerals for dead members of their families, asserting that it is the last thing they can give for their dead. This feeling is understandable; but it certainly shows a lack of proportion if this generous feeling results in the payment of large amounts of money for grand funeral coaches and footmen, while the offering of prayers and especially of Masses is neglected.
+— Funerals should be conducted with dignity and devotion; they should not be extravagant and beyond the means of the family.
+
+1. Some have the tendency to have pompous funerals for dead members of their families, asserting that it is the last thing they can give for their dead. This feeling is understandable; but it certainly shows a lack of proportion if this generous feeling results in the payment of large amounts of money for grand funeral coaches and footmen, while the offering of prayers and especially of Masses is neglected.
 
 > If a family has means, suitable offerings should be given to the priest who attended the deceased during his illness, and adequate fees paid for the funeral services. Donations should be made to the Church and alms given to the poor, for the repose of the soul of the deceased; charity and Masses will avail the dead person's soul more than gold coaches and truckloads of wreaths.
 
@@ -43,7 +47,9 @@
 
 **From whom should we seek consolation when someone dear to us dies?**
 
-— When someone dear to us dies, we should seek consolation from God, Who is our eternal Healer, Comforter, and Friend. 1. Nothing on earth can give lasting comfort to bereaved hearts. But if we live our faith, the death of a beloved one should not drive us into despair; for one who goes in God's grace, "to die is gain," to die is to attain eternal union with God. For the just who die, death is truly no more.
+— When someone dear to us dies, we should seek consolation from God, Who is our eternal Healer, Comforter, and Friend.
+
+1. Nothing on earth can give lasting comfort to bereaved hearts. But if we live our faith, the death of a beloved one should not drive us into despair; for one who goes in God's grace, "to die is gain," to die is to attain eternal union with God. For the just who die, death is truly no more.
 
 > "But the just man, if he be prevented with death, shall be in rest" (Wis. 4: 7). As Our Lord assures us: "I am the resurrection and the life; he who believes in me, even if he die, shall live; and whoever lives and believes in me, shall never die" (John 11: 25-26).
 

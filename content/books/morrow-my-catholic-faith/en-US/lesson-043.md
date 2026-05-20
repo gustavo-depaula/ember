@@ -2,7 +2,7 @@
 
 ![](../images/lesson-043.webp)
 
-The theological virtues of faith, hope, and charity furnish a strong basis for all other virtues. The cardinal virtues of prudence, justice, fortitude, temperance, are the foundation of all moral virtues. The theological virtues define our relations with God; the moral virtues define our relations with ourselves and our fellowmen. If we have these virtues, we are on the way to perfection.
+*The theological virtues of faith, hope, and charity furnish a strong basis for all other virtues. The cardinal virtues of prudence, justice, fortitude, temperance, are the foundation of all moral virtues. The theological virtues define our relations with God; the moral virtues define our relations with ourselves and our fellowmen. If we have these virtues, we are on the way to perfection.*
 
 
 **Are there any other virtues besides the theological virtues of faith, hope, and charity?**

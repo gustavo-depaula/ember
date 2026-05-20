@@ -2,12 +2,14 @@
 
 ![](../images/lesson-009.webp)
 
-Before the 15th century when printing was invented, the Bible was reproduced by copying in longhand. We should be very grateful to the monks and nuns of ancient times who labored lovingly, making manuscript copies of old documents that had come down from earliest times. Without this loving care, we would not have our Holy Bible today.
+*Before the 15th century when printing was invented, the Bible was reproduced by copying in longhand. We should be very grateful to the monks and nuns of ancient times who labored lovingly, making manuscript copies of old documents that had come down from earliest times. Without this loving care, we would not have our Holy Bible today.*
 
 
 **Are all the truths revealed for us by God found in the Bible?**
 
-— Not all the truths revealed for us by God are found in the Bible; some are found only in Divine Tradition. 1. The Bible itself states that it does not contain all that God revealed.
+— Not all the truths revealed for us by God are found in the Bible; some are found only in Divine Tradition.
+
+1. The Bible itself states that it does not contain all that God revealed.
 
 > "There are, however, many other things that Jesus did; but if every one of these should be written, not even the world itself, I think, could hold the books that would have to be written" (John 21: 25)
 
@@ -18,7 +20,9 @@ Before the 15th century when printing was invented, the Bible was reproduced by 
 
 **What is meant by Divine Tradition?**
 
-— By Divine Tradition is meant the revealed truths taught by Christ and His Apostles, which were given to the Church only by word of mouth and not through the Bible, though they were put in writing principally by the Fathers of the Church. 1. In a wide sense Tradition embraces the whole teaching of the Church, including the Bible, since it is only from the Church that we have the Bible. In a stricter sense, Tradition includes only what was handed down orally from the Apostles.
+— By Divine Tradition is meant the revealed truths taught by Christ and His Apostles, which were given to the Church only by word of mouth and not through the Bible, though they were put in writing principally by the Fathers of the Church.
+
+1. In a wide sense Tradition embraces the whole teaching of the Church, including the Bible, since it is only from the Church that we have the Bible. In a stricter sense, Tradition includes only what was handed down orally from the Apostles.
 
 > The Apostles themselves say that there is much that they have delivered to the faithful by word of mouth (2 John 12; 1 Cor. 11: 2). Among many examples of truths in Tradition, not clearly manifested in Holy scriptures, are: the exact number of sacraments, the time of institution of some sacraments, the books that make up the Bible, the Baptism of infants, and Sunday observance.
 
@@ -33,7 +37,9 @@ Before the 15th century when printing was invented, the Bible was reproduced by 
 
 **Why must Divine Tradition be believed as firmly as the Bible?**
 
-— Divine Tradition must be believed as firmly as the Bible because it also contains the word of God. 1. Several years passed before the Gospels were written down. In the meantime, Christians had to depend on Tradition solely: Tradition is older than the New Testament.
+— Divine Tradition must be believed as firmly as the Bible because it also contains the word of God.
+
+1. Several years passed before the Gospels were written down. In the meantime, Christians had to depend on Tradition solely: Tradition is older than the New Testament.
 
 > When the books composing the New Testament were written, the various writers had some definite and immediate purpose in mind. For example, St. Paul wrote his Epistles to the various churches of Gentiles that he had converted, to remind them of his teachings in his absence. St. Luke wrote his Gospel for the citizen of Rome, Theophilus, to instruct him in the new religion. St. John's Gospel was to combat heresies denying the divinity of Christ.
 
@@ -48,7 +54,9 @@ Before the 15th century when printing was invented, the Bible was reproduced by 
 
 **Without Tradition, would we know what the Bible is?**
 
-— No. 1. Tradition teaches us what books belong to the Bible. By tradition the Church kept intact all the books of the Bible for fifteen hundred years before the existence of denominations that nevertheless assert the Church does not care for the Bible.
+— No.
+
+1. Tradition teaches us what books belong to the Bible. By tradition the Church kept intact all the books of the Bible for fifteen hundred years before the existence of denominations that nevertheless assert the Church does not care for the Bible.
 
 > Protestant denominations reject Tradition. Consequently, they cannot agree about which books to include in the Bible. One denomination eliminates one part, other denominations omit other parts, according to the respective private interpretation.
 

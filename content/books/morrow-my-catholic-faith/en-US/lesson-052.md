@@ -2,12 +2,14 @@
 
 ![](../images/lesson-052.webp)
 
-The Catholic Church is One, because it has one Divine Founder, God Himself, Who cannot be divided. All its members hear and obey the voice of their Shepherd. The Catholic Church is Holy, because it imitates its Holy Founder, the Incarnate Son of God. Its members strive for holiness, aided by divine sacraments instituted by Christ Himself.
+*The Catholic Church is One, because it has one Divine Founder, God Himself, Who cannot be divided. All its members hear and obey the voice of their Shepherd. The Catholic Church is Holy, because it imitates its Holy Founder, the Incarnate Son of God. Its members strive for holiness, aided by divine sacraments instituted by Christ Himself.*
 
 
 **Why is the Catholic Church one?**
 
-— The Catholic Church is one because all its members, according to the will of Christ, profess the same faith, have the same sacrifice and sacraments, and are united under one and the same visible head, the Pope. 1. They have unity in doctrine, worship, and government. They have "One Lord, one Faith, one Baptism." There has never been any other society, religion, or government whose members are so closely united.
+— The Catholic Church is one because all its members, according to the will of Christ, profess the same faith, have the same sacrifice and sacraments, and are united under one and the same visible head, the Pope.
+
+1. They have unity in doctrine, worship, and government. They have "One Lord, one Faith, one Baptism." There has never been any other society, religion, or government whose members are so closely united.
 
 > "If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3: 24). "Holy Father, keep in thy name those whom thou hast given me, that they may be one even as we are" (John 17: 11).
 

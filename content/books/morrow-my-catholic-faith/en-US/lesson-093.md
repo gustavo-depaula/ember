@@ -2,7 +2,7 @@
 
 ![](../images/lesson-093.webp)
 
-We pay special honour to the Blessed Virgin because she is the Mother of God and our Mother. God has exalted her above all other creatures. Her intercession is more powerful with God than that of any other saint. No man refuses his mother a favour; so God does not refuse any request of Mary. Christ even worked his first miracle in advance of His time, because Mary asked Him. Let us all love and honour the Blessed Virgin, for she is our Mother, whom Christ Himself gave us from the cross.
+*We pay special honour to the Blessed Virgin because she is the Mother of God and our Mother. God has exalted her above all other creatures. Her intercession is more powerful with God than that of any other saint. No man refuses his mother a favour; so God does not refuse any request of Mary. Christ even worked his first miracle in advance of His time, because Mary asked Him. Let us all love and honour the Blessed Virgin, for she is our Mother, whom Christ Himself gave us from the cross.*
 
 
 **Does the first commandment forbid us to honour the saints in heaven?**

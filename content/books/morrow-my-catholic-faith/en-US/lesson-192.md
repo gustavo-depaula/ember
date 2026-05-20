@@ -26,7 +26,9 @@
 
 **Name the most common Catholic symbols.**
 
-— The following are most common: 1. For the Most Blessed Trinity: the equilateral triangle to depict equality as well as unity; a combination of the triangle with the circle, to depict in addition the idea of eternity; the interwoven three circles of identical size; the interwoven triangles, one with apex upward and the other with apex downward, thus forming a six-pointed star, which is a symbol of creation; two interwoven triangles combined with a circle; the trefoil, which is a variation of the interwoven circles; the trefoil with triangle, another development of the three circles with an equilateral triangle; the trefoil with three points, another development.
+— The following are most common:
+
+1. For the Most Blessed Trinity: the equilateral triangle to depict equality as well as unity; a combination of the triangle with the circle, to depict in addition the idea of eternity; the interwoven three circles of identical size; the interwoven triangles, one with apex upward and the other with apex downward, thus forming a six-pointed star, which is a symbol of creation; two interwoven triangles combined with a circle; the trefoil, which is a variation of the interwoven circles; the trefoil with triangle, another development of the three circles with an equilateral triangle; the trefoil with three points, another development.
 
 > Other symbols for the Holy Trinity are: the triquetra, with equal arcs of the circle symbolizing equality, unity, eternity, and indivisibility; the triquetra with a circle; the triquetra with a triangle; the three fishes arranged in the form of a triangle.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-100.webp)
 
-In these tables, the holydays of obligation which do not necessarily fall on a Sunday are marked by crosses. They are to be observed exactly as the Sunday by hearing Mass, abstaining from unnecessary servile work, and doing other pious exercises. The other feasts which do not fall on a Sunday are not of obligation. They are, however, important feasts, and all who can should at least hear Mass on those days. If we can visit human friends on days important to them, why not God?
+*In these tables, the holydays of obligation which do not necessarily fall on a Sunday are marked by crosses. They are to be observed exactly as the Sunday by hearing Mass, abstaining from unnecessary servile work, and doing other pious exercises. The other feasts which do not fall on a Sunday are not of obligation. They are, however, important feasts, and all who can should at least hear Mass on those days. If we can visit human friends on days important to them, why not God?*
 
 "REMEMBER THOU KEEP HOLY THE LORD'S DAY."
 
@@ -58,7 +58,9 @@ In these tables, the holydays of obligation which do not necessarily fall on a S
 
 **How should we hear Mass?**
 
-— We should hear Mass with attention and devotion. 1. We should be in church a few minutes before the beginning of Mass, to prepare for it, and not leave before the priest leaves.
+— We should hear Mass with attention and devotion.
+
+1. We should be in church a few minutes before the beginning of Mass, to prepare for it, and not leave before the priest leaves.
 
 > If we arrive after the beginning of Mass, but before the uncovering of the chalice for the Offertory, we should make up for our lateness by attending the next Mass at least up to the uncovering of the chalice. If we arrive when the chalice is already uncovered, we must hear another entire Mass.
 

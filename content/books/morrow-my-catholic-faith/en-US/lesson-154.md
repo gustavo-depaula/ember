@@ -2,12 +2,14 @@
 
 ![](../images/lesson-154.webp)
 
-In the early Church, the canonical penances were severe. Grave sins, such as apostasy, were punished with a penance of seven years. During all this time the penitent was excluded from the company of the faithful. He knelt at the entrance of the church, asking for the prayers of those that entered. He heard only the first part of the Mass, i.e., the Mass of the Catechumen and being excluded from the second part, i.e., the Mass of the Faithful; and consequently was not permitted to receive Holy Communion. On fixed days during the period of his penance, he was obliged to fast on bread and water. But if those faithful interceded, the penitent was granted an indulgence; his penance was shortened.
+*In the early Church, the canonical penances were severe. Grave sins, such as apostasy, were punished with a penance of seven years. During all this time the penitent was excluded from the company of the faithful. He knelt at the entrance of the church, asking for the prayers of those that entered. He heard only the first part of the Mass, i.e., the Mass of the Catechumen and being excluded from the second part, i.e., the Mass of the Faithful; and consequently was not permitted to receive Holy Communion. On fixed days during the period of his penance, he was obliged to fast on bread and water. But if those faithful interceded, the penitent was granted an indulgence; his penance was shortened.*
 
 
 **What is a plenary indulgence?**
 
-— A plenary indulgence is the remission of all the temporal punishment due to our sins already forgiven. 1. One who dies immediately after gaining a plenary indulgence goes straight to heaven, without having to pass through Purgatory.
+— A plenary indulgence is the remission of all the temporal punishment due to our sins already forgiven.
+
+1. One who dies immediately after gaining a plenary indulgence goes straight to heaven, without having to pass through Purgatory.
 
 > The good thief was granted by Our Lord a plenary indulgence, because of his perfect contrition of heart. To the other thief he said that they were receiving what their deeds deserved. And he said to Jesus, 'Lord, remember me when Thou comest into Thy kingdom.' And Jesus said to him, "Amen I say to thee, this day thou shalt be with Me in paradise" (John 23: 42-43).
 
@@ -37,7 +39,9 @@ In the early Church, the canonical penances were severe. Grave sins, such as apo
 
 **What are the most important plenary indulgences?**
 
-— The most important plenary indulgences are: the jubilee indulgence, and those of the Portiuncula, of the papal benediction, and for the hour of death. 1. The jubilee indulgence is granted every Jubilee, or Holy Year. The regular jubilee occurs every twenty-five years. Occasionally an extra jubilee is proclaimed by the Pope under special circumstances, as his accession to the papal throne, an important anniversary, etc. In a jubilee year, all other indulgences for the living are suspended except that of the Angelus and that for the hour of death.
+— The most important plenary indulgences are: the jubilee indulgence, and those of the Portiuncula, of the papal benediction, and for the hour of death.
+
+1. The jubilee indulgence is granted every Jubilee, or Holy Year. The regular jubilee occurs every twenty-five years. Occasionally an extra jubilee is proclaimed by the Pope under special circumstances, as his accession to the papal throne, an important anniversary, etc. In a jubilee year, all other indulgences for the living are suspended except that of the Angelus and that for the hour of death.
 
 > The ancient Jews kept every fiftieth year as a year of rejoicing: this custom was introduced into the Church. In this year, all their transgressions were pardoned, property that had been stolen was restored, etc.
 

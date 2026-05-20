@@ -2,7 +2,7 @@
 
 ![](../images/lesson-125.webp)
 
-This chart shows clearly the various matter, forms, and ministers of each of the seven sacraments. In it may be found which are the sacraments of the living, implying the necessity of being in the state of grace before reception; and which are the sacraments of the dead, not necessitating that state. Baptism cleanses us from all sin, original and actual, and remits all punishment due.
+*This chart shows clearly the various matter, forms, and ministers of each of the seven sacraments. In it may be found which are the sacraments of the living, implying the necessity of being in the state of grace before reception; and which are the sacraments of the dead, not necessitating that state. Baptism cleanses us from all sin, original and actual, and remits all punishment due.*
 
 
 **How is the sacrament of Baptism validly administered?**

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-117.webp)
 
-Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to rule its members, in order to lead them to their eternal salvation. And to fulfil these ends, the Church has power to make laws. Our Lord gave the Apostles full power; He sent them as God the Father had sent Him. Disobedience to the Church is therefore disobedience to God.
+*Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to rule its members, in order to lead them to their eternal salvation. And to fulfil these ends, the Church has power to make laws. Our Lord gave the Apostles full power; He sent them as God the Father had sent Him. Disobedience to the Church is therefore disobedience to God.*
 
 
 **Whence has the Catholic Church the right to make laws?**
 
-— The Catholic Church has the right to make laws from Jesus Christ, Who said to the Apostles, the first bishops of His Church: "Whatever you bind on earth shall be bound also in heaven." 1. No society can exist without the power to govern its members. No government is possible without laws. Unless the Church had the power and right to make laws, it could not lead its members to heaven.
+— The Catholic Church has the right to make laws from Jesus Christ, Who said to the Apostles, the first bishops of His Church: "Whatever you bind on earth shall be bound also in heaven."
+
+1. No society can exist without the power to govern its members. No government is possible without laws. Unless the Church had the power and right to make laws, it could not lead its members to heaven.
 
 > Our Lord said: "If he refuse to hear even the Church, let him be to thee as the heathen and the publican. Amen I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 17-18). This power to bind and loose is called the "power of the keys."
 
@@ -22,7 +24,9 @@ Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to ru
 
 **By whom is this right to make laws exercised?**
 
-— This right to make laws is exercised by the bishops, the successors of the Apostles, and especially by the Pope, who as the successor of the chief of the Apostles, Saint Peter, has the right to make laws for the universal Church. 1. The Pope can make and unmake laws for the entire Church; his authority is supreme and unquestioned. Every bishop, every priest, every member of the Church is subject to him.
+— This right to make laws is exercised by the bishops, the successors of the Apostles, and especially by the Pope, who as the successor of the chief of the Apostles, Saint Peter, has the right to make laws for the universal Church.
+
+1. The Pope can make and unmake laws for the entire Church; his authority is supreme and unquestioned. Every bishop, every priest, every member of the Church is subject to him.
 
 > This authority comes from Jesus Christ, the Son of God, Who chose Peter as Head of His Church. The Holy Father is our St. Peter, his direct successor; we must obey him as Christ commanded all to obey Peter.
 
@@ -41,12 +45,26 @@ Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to ru
 
 **Which are the chief commandments, or laws, of the Church?**
 
-— The chief commandments, or laws, of the Church are these six: 1. To assist at Mass on all Sundays and holydays of obligation. 2. To fast and to abstain on the days appointed. 3. To confess our sins at least once a year. 4. To receive Holy Communion during the Easter time. 5. To contribute to the support of the Church. 6. To observe the laws of the Church concerning marriage.
+— The chief commandments, or laws, of the Church are these six:
+
+1. To assist at Mass on all Sundays and holydays of obligation.
+
+2. To fast and to abstain on the days appointed.
+
+3. To confess our sins at least once a year.
+
+4. To receive Holy Communion during the Easter time.
+
+5. To contribute to the support of the Church.
+
+6. To observe the laws of the Church concerning marriage.
 
 
 **Are there any other commandments, or laws, of the Church, besides these six?**
 
-— There are many other commandments, or laws, of the Church besides these six; but these are the principal ones, and the ones with which the ordinary life of Catholics is concerned. 1. A Catholic is bound to observe all of the precepts of the Church. Some of them forbid: (a) The reading or possession of bad books, magazines, and other publications. (b) Membership in Masonic or other anti-Catholic associations. (c) Cremation of the bodies of the dead. (d) The education of Catholic children in non-Catholic schools; etc.
+— There are many other commandments, or laws, of the Church besides these six; but these are the principal ones, and the ones with which the ordinary life of Catholics is concerned.
+
+1. A Catholic is bound to observe all of the precepts of the Church. Some of them forbid: (a) The reading or possession of bad books, magazines, and other publications. (b) Membership in Masonic or other anti-Catholic associations. (c) Cremation of the bodies of the dead. (d) The education of Catholic children in non-Catholic schools; etc.
 
 > Laws for the government of the Catholic Church are contained in the Code of Canon Law, which at present contains 2414 canons. From time to time, as necessity arises, the Pope through the different Roman Congregations issues decrees, laws, or regulations for the welfare of the Church. Catholics are obliged to obey these laws.
 

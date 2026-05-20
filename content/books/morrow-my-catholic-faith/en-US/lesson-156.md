@@ -2,12 +2,14 @@
 
 ![](../images/lesson-156.webp)
 
-Thousands die every year without the benefit of the Sacrament of Extreme Unction. If our faith means anything to us, it should teach us that the moment of death is of supreme importance. It may decide whether we shall be forever with God in heaven, or whether we shall suffer eternally in hell. We should see to it that the very sick receive Extreme Unction to help them face their Judge.
+*Thousands die every year without the benefit of the Sacrament of Extreme Unction. If our faith means anything to us, it should teach us that the moment of death is of supreme importance. It may decide whether we shall be forever with God in heaven, or whether we shall suffer eternally in hell. We should see to it that the very sick receive Extreme Unction to help them face their Judge.*
 
 
 **What is Extreme Unction?**
 
-— Extreme Unction is the sacrament which, through the anointing with blessed oil by the priest, and through his prayer, gives health and strength to the soul, and sometimes to the body, when we are in danger of death from sickness, accident, or old age. 1. It was to cure the sick and console the afflicted that Our Lord worked many of His miracles. The Gospels give us vivid pictures of Him as He went about doing good, and "healing every disease and every sickness among the people" (Matt. 4: 23).
+— Extreme Unction is the sacrament which, through the anointing with blessed oil by the priest, and through his prayer, gives health and strength to the soul, and sometimes to the body, when we are in danger of death from sickness, accident, or old age.
+
+1. It was to cure the sick and console the afflicted that Our Lord worked many of His miracles. The Gospels give us vivid pictures of Him as He went about doing good, and "healing every disease and every sickness among the people" (Matt. 4: 23).
 
 > "Now when the sun was setting, all who had sick with various diseases brought them to him. And he laid his hands upon each of them and cured them" (Luke 4:40). So today, Christ comes to us in the Sacrament of Extreme Unction, and, if it be for the good of our soul, cures us of our sickness, saying to us, as He did to so many long ago, "Arise, be thou made whole."
 
@@ -28,7 +30,9 @@ Thousands die every year without the benefit of the Sacrament of Extreme Unction
 
 **Who should receive Extreme Unction?**
 
-— All Catholics who have reached the use of reason and are in danger of death from sickness, accident, or old age, should receive Extreme Unction. 1. As the primary purpose of the sacrament is to restore the soul weakened by sin and temptation, those who have never been capable of sinning cannot receive it. Hence idiots and children under the age of reason cannot receive Extreme Unction.
+— All Catholics who have reached the use of reason and are in danger of death from sickness, accident, or old age, should receive Extreme Unction.
+
+1. As the primary purpose of the sacrament is to restore the soul weakened by sin and temptation, those who have never been capable of sinning cannot receive it. Hence idiots and children under the age of reason cannot receive Extreme Unction.
 
 > As the danger of death must arise from within, soldiers going to battle, prisoners about to be executed, passengers on a ship about to sink, etc., cannot receive the sacrament.
 
@@ -43,7 +47,9 @@ Thousands die every year without the benefit of the Sacrament of Extreme Unction
 
 **What are the effects of the sacrament of Extreme Unction?**
 
-— The effects of the sacrament of Extreme Unction are: 1. An increase of sanctifying grace.
+— The effects of the sacrament of Extreme Unction are:
+
+1. An increase of sanctifying grace.
 
 > Extreme Unction acts spiritually, as oil does materially; it strengthens, heals, and aids the soul. The effects of oil on the body are well known: oil is rubbed on athletes to give them greater energy and suppleness; oil has healing power for wounds.
 

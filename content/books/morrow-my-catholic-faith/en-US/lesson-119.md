@@ -2,12 +2,14 @@
 
 ![](../images/lesson-119.webp)
 
-The entire year is divided by the Church into periods and seasons, some of rejoicing, some of penance, and others of ordinary prayer and work. By following the cycle of feasts and fasts and living in the spirit of each time, we shall sanctify the whole year and make it bear fruit pleasing to God. In observing the seasons, we should look upon the events as actually occurring. The Church is the Mystical Body of Christ; she lives over every year the mysteries of His life. Thus we unite ourselves with Christ.
+*The entire year is divided by the Church into periods and seasons, some of rejoicing, some of penance, and others of ordinary prayer and work. By following the cycle of feasts and fasts and living in the spirit of each time, we shall sanctify the whole year and make it bear fruit pleasing to God. In observing the seasons, we should look upon the events as actually occurring. The Church is the Mystical Body of Christ; she lives over every year the mysteries of His life. Thus we unite ourselves with Christ.*
 
 
 **What is the ecclesiastical year?**
 
-— The ecclesiastical year is the succession or cycle of seasons, including all the feasts, celebrated by the Church during the year. 1. The ecclesiastical year is made up of six seasons or periods of unequal length: Advent, Christmastide, Septuagesima, Lent, Paschal time, and the period from Pentecost to Advent. These periods are regulated in their occurrence by the three principal feasts of the year: Christmas, Easter, and Pentecost. The Epistles and Gospels, as well as the Hymns and Sequences of the Mass, are in consonance with the seasons and periods of the ecclesiastical year.
+— The ecclesiastical year is the succession or cycle of seasons, including all the feasts, celebrated by the Church during the year.
+
+1. The ecclesiastical year is made up of six seasons or periods of unequal length: Advent, Christmastide, Septuagesima, Lent, Paschal time, and the period from Pentecost to Advent. These periods are regulated in their occurrence by the three principal feasts of the year: Christmas, Easter, and Pentecost. The Epistles and Gospels, as well as the Hymns and Sequences of the Mass, are in consonance with the seasons and periods of the ecclesiastical year.
 
 > The ecclesiastical year differs somewhat from the civil year. Instead of beginning on a fixed date, January 1 as the civil year does, the ecclesiastical year begins with the first Sunday of Advent, four Sundays before Christmas. (See the Appendix) .
 
@@ -43,7 +45,9 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 
 **What is Lent?**
 
-— Lent is the period of penance preceding Easter. 1. Lent begins with the Wednesday after Quinquagesima, which is called Ash Wednesday, because on that day takes place the marking with ashes of the foreheads of the faithful.
+— Lent is the period of penance preceding Easter.
+
+1. Lent begins with the Wednesday after Quinquagesima, which is called Ash Wednesday, because on that day takes place the marking with ashes of the foreheads of the faithful.
 
 > Ash Wednesday is forty-six days before Easter; but we say Lent is forty days in length, because we do not count the six Sundays, on which no fasting is prescribed anywhere throughout the Church.
 
@@ -56,7 +60,9 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 
 **What is the Paschal Time?**
 
-— The Paschal Time is the time from Easter untill the eve of Trinity Sunday. 1. Paschal Time is a most important period, including the Ascension, and then days between that feast and Pentecost. The forty days between Easter and the Ascension commemorate the forty days Christ spent on earth after His Resurrection.
+— The Paschal Time is the time from Easter untill the eve of Trinity Sunday.
+
+1. Paschal Time is a most important period, including the Ascension, and then days between that feast and Pentecost. The forty days between Easter and the Ascension commemorate the forty days Christ spent on earth after His Resurrection.
 
 > The three days before the Ascension are called Rogation days. On these days, processions are held to implore God's blessings for an abundant harvest.
 

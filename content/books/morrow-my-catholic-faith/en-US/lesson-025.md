@@ -2,7 +2,7 @@
 
 ![](../images/lesson-025.webp)
 
-Pride makes one admire himself, in the belief that his excellence, imagined or real, is the result of his own worth. Our Lord condemned pride in the parable of the Pharisee and the Publican (1). Jesus said that the humble and repentant publican was justified in the eyes of God, while the proud Pharisee went home unjustified. Covetousness is one of the ugliest of sins. It was a sin of Judas. He loved money so much that he even betrayed Our Lord for thirty pieces of silver (2).
+*Pride makes one admire himself, in the belief that his excellence, imagined or real, is the result of his own worth. Our Lord condemned pride in the parable of the Pharisee and the Publican (1). Jesus said that the humble and repentant publican was justified in the eyes of God, while the proud Pharisee went home unjustified. Covetousness is one of the ugliest of sins. It was a sin of Judas. He loved money so much that he even betrayed Our Lord for thirty pieces of silver (2).*
 
 
 **What is pride?**

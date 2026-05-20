@@ -2,14 +2,16 @@
 
 ![](../images/lesson-120.webp)
 
-Our Lord Himself often fasted. He fasted forty days and forty nights before He began His public life. By Church law, all baptised persons between the ages of 18 years old completed and until the beginning of their sixtieth year, are obliged to fast; and all baptised persons who have completed the fourteenth year of age and over, are obliged to observe the abstinence days, unless excused or dispensed.
+*Our Lord Himself often fasted. He fasted forty days and forty nights before He began His public life. By Church law, all baptised persons between the ages of 18 years old completed and until the beginning of their sixtieth year, are obliged to fast; and all baptised persons who have completed the fourteenth year of age and over, are obliged to observe the abstinence days, unless excused or dispensed.*
 
 "TO FAST AND TO ABSTAIN ON THE DAYS APPOINTED."
 
 
 **What is a fast day?**
 
-— A fast day is a day on which only one full meal is allowed: but in the morning and evening some food may be taken, the quantity and quality of which are determined by approved local custom. The smaller meals must not be equal to the quantity of the main meal. 1. The one full meal may be taken either at noon or in the evening. Only at this meal may meat be taken; but both fish and meat may be taken at the same meal.
+— A fast day is a day on which only one full meal is allowed: but in the morning and evening some food may be taken, the quantity and quality of which are determined by approved local custom. The smaller meals must not be equal to the quantity of the main meal.
+
+1. The one full meal may be taken either at noon or in the evening. Only at this meal may meat be taken; but both fish and meat may be taken at the same meal.
 
 > Fasting was a practice in the early Church. And the Holy Spirit said, "Set apart for me Saul and Barnabas unto the work to which I have called them." Then, having fasted and prayed and laid their hands upon them, they let them go (Acts 13: 2-3).
 
@@ -38,7 +40,9 @@ Those of weak health, the sick, the convalescent, nursing women, the very poor, 
 
 **Who are obliged to observe the abstinence days of the Church?**
 
-— All baptised persons, beginning on the day after their 14th birthday, are obliged, unless they are excused or dispensed. 1. The sick and convalescent, those who do extremely hard work, and those too poor to obtain other foods are excused.
+— All baptised persons, beginning on the day after their 14th birthday, are obliged, unless they are excused or dispensed.
+
+1. The sick and convalescent, those who do extremely hard work, and those too poor to obtain other foods are excused.
 
 > One who thinks he has sufficient reason to be excused should consult his pastor or confessor.
 

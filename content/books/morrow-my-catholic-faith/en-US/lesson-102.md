@@ -2,7 +2,7 @@
 
 ![](../images/lesson-102.webp)
 
-The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2: 51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a good son, curing his father of his blindness.
+*The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2: 51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a good son, curing his father of his blindness.*
 
 "HONOUR THY FATHER AND THY MOTHER."
 
@@ -40,7 +40,9 @@ The Child Jesus should be our model of obedience: "And he went down with them (M
 
 **Does the fourth commandment oblige us to respect and to obey others besides our parents?**
 
-— Besides our parents, the fourth commandment obliges us to respect and to obey all our lawful superiors. 1. Guardians take the place of parents. A child owes his guardians the same respect and obedience due his parents.
+— Besides our parents, the fourth commandment obliges us to respect and to obey all our lawful superiors.
+
+1. Guardians take the place of parents. A child owes his guardians the same respect and obedience due his parents.
 
 > Teachers, godparents of baptism and confirmation, and elderly persons like grandparents, may be called guardians. All old people are to be respected by the young; "Honour the person of the aged man, and rise up before the hoary head" (Lev. 19: 32).
 
@@ -55,7 +57,9 @@ The Child Jesus should be our model of obedience: "And he went down with them (M
 
 **What are our duties towards our ecclesiastical superiors?**
 
-— We are obliged to render respect, obedience, and support to our ecclesiastical superiors. 1. We should reverence our priest and bishop as our fathers in Christ, obey them in spiritual matters, and pray for them. We should contribute to their support according to our means.
+— We are obliged to render respect, obedience, and support to our ecclesiastical superiors.
+
+1. We should reverence our priest and bishop as our fathers in Christ, obey them in spiritual matters, and pray for them. We should contribute to their support according to our means.
 
 > We should appreciate the fact that they sacrifice their time, health, and whole lives for the good of our souls. St. Paul tells us: "Obey your superiors and be subject to them, for they keep watch as having to render an account of your souls" (Heb. 13: 17). One offends God gravely if he opposes bishops or priests, speaks ill of them, gossips about them, or neglects to contribute to their support.
 

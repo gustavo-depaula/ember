@@ -2,7 +2,7 @@
 
 ![](../images/lesson-131.webp)
 
-The death of Christ on the cross was a true sacrifice. He offered Himself to His heavenly Father to expiate the sins of the world. As a Victim, He suffered first. Then He died, crying, "It is consummated!" thus completing the sacrifice. On Calvary, Christ Himself was the High-priest, and at the same time the Victim. This sacrifice reconciled God with man. Since the Jewish sacrifices were only a foreshadowing of Our Lord's sacrifice, they ceased when His was offered, as foretold by the prophets.
+*The death of Christ on the cross was a true sacrifice. He offered Himself to His heavenly Father to expiate the sins of the world. As a Victim, He suffered first. Then He died, crying, "It is consummated!" thus completing the sacrifice. On Calvary, Christ Himself was the High-priest, and at the same time the Victim. This sacrifice reconciled God with man. Since the Jewish sacrifices were only a foreshadowing of Our Lord's sacrifice, they ceased when His was offered, as foretold by the prophets.*
 
 
 **What is the Mass?**

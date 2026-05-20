@@ -2,12 +2,14 @@
 
 ![](../images/lesson-133.webp)
 
-Holy Mass may be offered to God with a fourfold intention: by way of adoration, thanksgiving, petition, and atonement. It is for the spiritual and temporal welfare of the living, and for the eternal repose of the dead. Every day of the year, Holy Mass is offered, except Good Friday and Holy Saturday.
+*Holy Mass may be offered to God with a fourfold intention: by way of adoration, thanksgiving, petition, and atonement. It is for the spiritual and temporal welfare of the living, and for the eternal repose of the dead. Every day of the year, Holy Mass is offered, except Good Friday and Holy Saturday.*
 
 
 **What are the purposes for which the Mass is offered?**
 
-— The purposes for which the Mass is offered are: 1. To adore God as our Creator.
+— The purposes for which the Mass is offered are:
+
+1. To adore God as our Creator.
 
 > The Mass is the only worthy gift we can offer God; in it we offer to Him His own Son. Having a perfect sacrifice in the Mass, Christians need, and have, no other sacrifice to offer to God but this one.
 

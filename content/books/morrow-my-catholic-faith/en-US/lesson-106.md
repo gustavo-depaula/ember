@@ -2,7 +2,7 @@
 
 ![](../images/lesson-106.webp)
 
-The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4: 8-9) Murderers do not act as brothers of the murdered.
+*The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4: 8-9) Murderers do not act as brothers of the murdered.*
 
 "THOU SHALL NOT KILL."
 
@@ -14,7 +14,9 @@ The first murder on earth was committed by Cain when he killed Abel. "And Cain s
 
 **What is murder?**
 
-— Murder is the voluntary and unjust killing of a human being. 1. Murder is a great sin. A murderer violates the rights of God over human life, and, besides taking a life, robs his victim of the opportunity to gain merits for heaven, and prepare himself for death.
+— Murder is the voluntary and unjust killing of a human being.
+
+1. Murder is a great sin. A murderer violates the rights of God over human life, and, besides taking a life, robs his victim of the opportunity to gain merits for heaven, and prepare himself for death.
 
 > God created man, and has supreme dominion over life. "You know that no murderer has eternal life abiding in him" (1 John 3: 15).
 
@@ -33,7 +35,9 @@ The first murder on earth was committed by Cain when he killed Abel. "And Cain s
 
 **When is it lawful to take another's life?**
 
-— It is lawful to take another's life: 1. In self defence, or the defence of another unjustly attacked. A woman may kill, to protect herself against criminal assault. One may defend life or property against enemies, going so far as to kill.
+— It is lawful to take another's life:
+
+1. In self defence, or the defence of another unjustly attacked. A woman may kill, to protect herself against criminal assault. One may defend life or property against enemies, going so far as to kill.
 
 > One, however, may not do more than what is needed for defence: if wounding an assailant is sufficient, it would be wrong to kill him. One is not justified to kill in order to protect property of trifling value. Setting a trap to kill a chicken thief is murder.
 
@@ -48,7 +52,9 @@ The first murder on earth was committed by Cain when he killed Abel. "And Cain s
 
 **What is anger?**
 
-— Anger is a strong feeling of displeasure, combined with a desire to punish the offender. 1. Anger is contrary to the spirit of Christ, Who is meek and humble of heart. We must take care not to hurt or wound another's feelings. If we fall into the misfortune of doing so, we must apologize or make amends in some other way. "Do not let the sun go down upon your anger" (Eph. 4: 26).
+— Anger is a strong feeling of displeasure, combined with a desire to punish the offender.
+
+1. Anger is contrary to the spirit of Christ, Who is meek and humble of heart. We must take care not to hurt or wound another's feelings. If we fall into the misfortune of doing so, we must apologize or make amends in some other way. "Do not let the sun go down upon your anger" (Eph. 4: 26).
 
 > Anger often arises from pride or envy. Those who think much of themselves get angry at every supposed slight or injury. They should remember Christian charity, and fear these words: "Everyone who is angry with his brother shall be liable to judgement" (Matt. 5: 22).
 
@@ -57,7 +63,9 @@ The first murder on earth was committed by Cain when he killed Abel. "And Cain s
 
 **What is hatred?**
 
-— Hatred is strong dislike of or ill-will towards anyone. 1. Hatred is a kind of habitual anger. One who hates sees no good in the person hated, and would like to see evil rain down on that person, who then becomes an enemy.
+— Hatred is strong dislike of or ill-will towards anyone.
+
+1. Hatred is a kind of habitual anger. One who hates sees no good in the person hated, and would like to see evil rain down on that person, who then becomes an enemy.
 
 > If we hate certain qualities of a person, but have no antagonism towards the person himself, our feeling is not necessarily sinful. It is not hatred to detest the evil qualities of others; we must hate the sin, but not the sinner. We must be careful, however, not to commit rash judgement, regarding qualities, as we cannot know all circumstances; let us have charity towards all.
 

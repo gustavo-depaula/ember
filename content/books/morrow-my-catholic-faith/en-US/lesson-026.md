@@ -2,12 +2,14 @@
 
 ![](../images/lesson-026.webp)
 
-Our Lord showed how hateful gluttony is in the parable of the rich man, Dives, and the poor Lazarus (1). Dives was so greedy that he would not even give scraps to Lazarus, who sat at his gate. But when Dives died, he went to hell, while Lazarus went to heaven. The brothers of Joseph (2), were so envious of him that they sold him to some merchants going to Egypt. God rebuked their sin by blessing Joseph in Egypt, and causing him to be in a position to help his envious brothers later.
+*Our Lord showed how hateful gluttony is in the parable of the rich man, Dives, and the poor Lazarus (1). Dives was so greedy that he would not even give scraps to Lazarus, who sat at his gate. But when Dives died, he went to hell, while Lazarus went to heaven. The brothers of Joseph (2), were so envious of him that they sold him to some merchants going to Egypt. God rebuked their sin by blessing Joseph in Egypt, and causing him to be in a position to help his envious brothers later.*
 
 
 **What is anger?**
 
-— Anger is a strong feeling of displeasure, combined with a desire to inflict punishment on the offender. 1. An angry man loses his reason. In anger, a man will do what he afterwards regrets. From anger arise hatred, revenge, quarrelling, blasphemy, contumely, and murder. The virtues of patience and meekness are opposed to anger. (See Chapter 45 on Meekness, Abstinence, Zeal, Brotherly Love)
+— Anger is a strong feeling of displeasure, combined with a desire to inflict punishment on the offender.
+
+1. An angry man loses his reason. In anger, a man will do what he afterwards regrets. From anger arise hatred, revenge, quarrelling, blasphemy, contumely, and murder. The virtues of patience and meekness are opposed to anger. (See Chapter 45 on Meekness, Abstinence, Zeal, Brotherly Love)
 
 > Anger, or wrath, is a temporary madness. A man with this vice flies into a rage at every little thing. He always puts the blame of his anger on others, and even when he is alone he gets angry. "The wrath of man does not work the justice of God" (Jas. 1: 20).
 
@@ -34,7 +36,9 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 **What is gluttony?**
 
-— Gluttony is an excessive desire for or indulgence in food or drink. 1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly" (Phil 3: 19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
+— Gluttony is an excessive desire for or indulgence in food or drink.
+
+1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly" (Phil 3: 19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
 
 > We should not eat more than we need to support life. "We do not live to eat, but eat to live." We must not take what is injurious to health, even if its taste is pleasing. We must have regular hours for our meals. We should not be too particular about food, eat what is set before us, and not get angry when a dish is not very appetizing. The purpose of food is to give strength for the work we do while still on earth preparing for our final end.
 

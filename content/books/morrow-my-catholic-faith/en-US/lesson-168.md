@@ -2,7 +2,7 @@
 
 ![](../images/lesson-168.webp)
 
-The contracting parties should go before the priest for instruction before a planned marriage. Should there be any impediment, arrangements should be made for a dispensation. This should be done at least a month before the ceremony, to allow time for the marriage preparations.
+*The contracting parties should go before the priest for instruction before a planned marriage. Should there be any impediment, arrangements should be made for a dispensation. This should be done at least a month before the ceremony, to allow time for the marriage preparations.*
 
 
 **Does the Church have the authority to excuse or grant dispensations from all impediments?**

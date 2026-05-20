@@ -2,7 +2,7 @@
 
 ![](../images/lesson-016.webp)
 
-It was the archangel Michael who led the good angels: "And there was a great battle in heaven; Michael and his angels battled with the dragon, and the dragon fought and his angels. And they did not prevail, neither was their place found any more in heaven" (Ap. 12: 7,8).
+*It was the archangel Michael who led the good angels: "And there was a great battle in heaven; Michael and his angels battled with the dragon, and the dragon fought and his angels. And they did not prevail, neither was their place found any more in heaven" (Ap. 12: 7,8).*
 
 
 **What happened to the angels who did not remain faithful to God?**
@@ -22,7 +22,9 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 **What is the chief way in which the bad angels try to harm us?**
 
-— The chief way in which the bad angels try to harm us is by tempting us to sin. 1. The bad angels tempt man and try to draw him away from God. Often the devil appears as an angel of light, and we are tempted by evil which appears good. Under this guise, the devil is most dangerous.
+— The chief way in which the bad angels try to harm us is by tempting us to sin.
+
+1. The bad angels tempt man and try to draw him away from God. Often the devil appears as an angel of light, and we are tempted by evil which appears good. Under this guise, the devil is most dangerous.
 
 > "Be sober, be watchful! For your adversary the devil, as a roaring lion, goes about seeking someone to devour" (1 Pet 5: 8-9).
 
@@ -43,7 +45,9 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 **Do all temptations come from the bad angels?**
 
-— Some temptations come from the bad angels; but other temptations come from ourselves and from the persons and things about us. 1. This is what we mean when we say that temptations come to us from the flesh, the world, and the devil.
+— Some temptations come from the bad angels; but other temptations come from ourselves and from the persons and things about us.
+
+1. This is what we mean when we say that temptations come to us from the flesh, the world, and the devil.
 
 > The evil inclinations of our weak and corrupted nature tempt us to sin. The world, with its sinful wants and vanities, tempts us to sin. The devil goes about continually tempting us, making use of both our nature and the world for his evil purposes.
 
@@ -74,7 +78,9 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 > Since nothing can be done without divine grace, one must pray. One must imitate the Apostles who had recourse to Jesus when a storm arose. Let him say at once, "Lord, make haste to help me!"
 
-3. Some remedies against temptation are: a. Watchfulness and prayer.
+3. Some remedies against temptation are:
+
+a. Watchfulness and prayer.
 
 > "Watch and pray, that you may not enter into temptation" (Matt. 26: 41). Avoid idleness, keeping always occupied, either by work, or by wholesome recreation. If evil thoughts enter the mind, think of other things, in this way ignoring the temptation.
 

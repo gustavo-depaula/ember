@@ -2,7 +2,7 @@
 
 ![](../images/lesson-190.webp)
 
-The illustration (1) shows a young man, member of the Confraternity of Christian Doctrine. This important society should be established in every parish. In the Sodality of Our Lady (2) the members honour the purest of all mankind and strive to imitate her virtues, especially that of chastity. Their activities in the parishes include the teaching of catechism. A member of the Apostleship of Prayer (3) aims to help promote the glory of God in union with the Sacred Heart of Jesus
+*The illustration (1) shows a young man, member of the Confraternity of Christian Doctrine. This important society should be established in every parish. In the Sodality of Our Lady (2) the members honour the purest of all mankind and strive to imitate her virtues, especially that of chastity. Their activities in the parishes include the teaching of catechism. A member of the Apostleship of Prayer (3) aims to help promote the glory of God in union with the Sacred Heart of Jesus*
 
 
 **What are religious associations for the laity?**

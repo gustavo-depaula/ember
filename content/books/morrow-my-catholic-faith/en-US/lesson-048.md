@@ -3,7 +3,9 @@
 
 **To whom did Christ give the power to teach, to sanctify, and to rule the members of His Church?**
 
-— Christ gave the power to teach, to sanctify, and to rule the members of His Church to the Apostles, the first bishops of the Church. 1. St. Peter was the first Head. After a miraculous escape from prison in Jerusalem, he founded his See in Antioch; here the followers of Christ were first called Christians. Peter made frequent missionary journeys through Judea, Samaria, Galilee, Asia Minor, and probably even Greece. He finally fixed his See at Rome.
+— Christ gave the power to teach, to sanctify, and to rule the members of His Church to the Apostles, the first bishops of the Church.
+
+1. St. Peter was the first Head. After a miraculous escape from prison in Jerusalem, he founded his See in Antioch; here the followers of Christ were first called Christians. Peter made frequent missionary journeys through Judea, Samaria, Galilee, Asia Minor, and probably even Greece. He finally fixed his See at Rome.
 
 > St. Peter presided at the Council of the Apostles in Jerusalem in the year 50 A. D. At the same time that St. Paul was beheaded, St. Peter was crucified head downwards, on Vatican Hill, Rome, 67 A. D.
 
@@ -40,7 +42,9 @@
 
 **Did Christ intend that this power should be exercised by the Apostles alone?**
 
-— No, Christ intended that this power should be exercised also by their successors, the bishops of the Church. 1. The Apostles first preached in Judea on the very first Christian Pentecost. Then they dispersed throughout the different countries of the then known world. Everywhere they preached, baptised, and ruled the Christian communities. They were the first bishops of the Church.
+— No, Christ intended that this power should be exercised also by their successors, the bishops of the Church.
+
+1. The Apostles first preached in Judea on the very first Christian Pentecost. Then they dispersed throughout the different countries of the then known world. Everywhere they preached, baptised, and ruled the Christian communities. They were the first bishops of the Church.
 
 > "As the Father has sent me, I also send you" (John 20:21).
 

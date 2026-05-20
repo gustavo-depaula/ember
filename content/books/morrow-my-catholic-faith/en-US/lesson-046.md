@@ -2,12 +2,16 @@
 
 ![](../images/lesson-046.webp)
 
-And opening his mouth he taught them, saying, "Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall possess the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure of heart, for they shall see God. Blessed are the peacemakers, for they shall be called children of God. Blessed are they who suffer persecution for justice sake, for theirs is the kingdom of heaven" (Matt. 5: 1-10). These are the beatitudes; they are thus called, because they bring us happiness on earth as well as in heaven.
+*And opening his mouth he taught them, saying, "Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are the meek, for they shall possess the earth. Blessed are they who mourn, for they shall be comforted. Blessed are they who hunger and thirst for justice, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure of heart, for they shall see God. Blessed are the peacemakers, for they shall be called children of God. Blessed are they who suffer persecution for justice sake, for theirs is the kingdom of heaven" (Matt. 5: 1-10). These are the beatitudes; they are thus called, because they bring us happiness on earth as well as in heaven.*
 
 
 **Which are the eight beatitudes?**
 
-— The eight beatitudes are: 1. "Blessed are the poor in spirit, for theirs is the kingdom of heaven." a. The poor in spirit are those who, however great their wealth, dignity, learning, etc., acknowledge that in God's sight they are poor, and realize that their riches come from God. They are detached in heart and mind from worldly possessions, for love of God. Even in this life they are at peace, a foretaste of heaven.
+— The eight beatitudes are:
+
+1. "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+
+a. The poor in spirit are those who, however great their wealth, dignity, learning, etc., acknowledge that in God's sight they are poor, and realize that their riches come from God. They are detached in heart and mind from worldly possessions, for love of God. Even in this life they are at peace, a foretaste of heaven.
 
 > Thus a rich man may in fact be poor in spirit, if he is not attached to his wealth, but spends it freely for good causes, and is willing to be parted from it at God's will.
 
@@ -19,7 +23,9 @@ b. In general, the poor in this world's goods are also poor in spirit. They are 
 
 c. We are, however, expected to be industrious. Pauperism which is the result of laziness is not a virtue. Beggary which can be avoided is not beneficial either to the individual or to society in general. Each one is obliged to provide for himself and for those dependent on him.
 
-2. "Blessed are the meek, for they shall possess the earth." a. The meek are those who bear patiently all the contradictions of life, looking upon them as happening through God's Will or by His permission.
+2. "Blessed are the meek, for they shall possess the earth."
+
+a. The meek are those who bear patiently all the contradictions of life, looking upon them as happening through God's Will or by His permission.
 
 > The meek shall have peace of heart and peace of life, loved and respected by all, and at death will "possess the earth" of the living, heaven.
 

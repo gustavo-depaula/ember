@@ -2,12 +2,14 @@
 
 ![](../images/lesson-130.webp)
 
-From the beginning of man's existence, sacrifices have been offered to God. The children of Adam and Eve, Abel and Cain, offered sacrifice to God. Abel offered sheep; Cain, fruits of the earth.
+*From the beginning of man's existence, sacrifices have been offered to God. The children of Adam and Eve, Abel and Cain, offered sacrifice to God. Abel offered sheep; Cain, fruits of the earth.*
 
 
 **What is a sacrifice?**
 
-— A sacrifice is the offering of a victim by a priest to God alone, and the destruction of it in some way, to acknowledge that He is the Creator and Lord of all things. 1. Man offers sacrifice to God, in acknowledgement of His supreme power, and in gratitude for His gifts, especially for the gift of life. The need for offering sacrifice is innate in human nature, as natural as breathing. Since man was made for God, his soul flies to Him if unchecked, as a balloon soars up into the air unless tied down.
+— A sacrifice is the offering of a victim by a priest to God alone, and the destruction of it in some way, to acknowledge that He is the Creator and Lord of all things.
+
+1. Man offers sacrifice to God, in acknowledgement of His supreme power, and in gratitude for His gifts, especially for the gift of life. The need for offering sacrifice is innate in human nature, as natural as breathing. Since man was made for God, his soul flies to Him if unchecked, as a balloon soars up into the air unless tied down.
 
 > God gave us life; He breathed into us a soul that is immortal, like God Himself. Without life and a soul, we would be non-existent, nothing; we would not be able to do anything, not even to recognize God. Our life and soul therefore is our most precious possession, and for it we must thank God.
 
@@ -35,7 +37,9 @@ From the beginning of man's existence, sacrifices have been offered to God. The 
 
 **In what forms is sacrifice offered?**
 
-— Sacrifice is offered in either the bloody or the unbloody form. 1. A sacrifice of living animals, such as an ox, a lamb, or a dove, is a bloody sacrifice. A sacrifice of some food, such as fruit, wine, or wheat, is an unbloody sacrifice.
+— Sacrifice is offered in either the bloody or the unbloody form.
+
+1. A sacrifice of living animals, such as an ox, a lamb, or a dove, is a bloody sacrifice. A sacrifice of some food, such as fruit, wine, or wheat, is an unbloody sacrifice.
 
 > Among the Jews, the animals used to be slaughtered, their blood poured out upon the altar, and their flesh consumed by fire or eaten by the priests and those for whom the sacrifice was offered. The unbloody oblation was burned up or eaten by the priests after being offered; the wine was poured out on the altar.
 

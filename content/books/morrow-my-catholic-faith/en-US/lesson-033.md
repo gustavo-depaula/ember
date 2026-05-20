@@ -2,12 +2,14 @@
 
 ![](../images/lesson-033.webp)
 
-Our Lord spent the three years of His public life teaching, healing the sick, working miracles to prove His mission and Divinity. One of His most wonderful miracles was the raising of Lazarus. Lazarus had been dead and buried four days. But Jesus went to the sepulchre and ordered the stone closing it to be taken away. Then He cried: "Lazarus, come forth!" And Lazarus came forth from the grave. Because of this miracle, the Pharisees became more envious, and even planned to kill Lazarus, so as to make it appear that Jesus had not raised him from the dead.
+*Our Lord spent the three years of His public life teaching, healing the sick, working miracles to prove His mission and Divinity. One of His most wonderful miracles was the raising of Lazarus. Lazarus had been dead and buried four days. But Jesus went to the sepulchre and ordered the stone closing it to be taken away. Then He cried: "Lazarus, come forth!" And Lazarus came forth from the grave. Because of this miracle, the Pharisees became more envious, and even planned to kill Lazarus, so as to make it appear that Jesus had not raised him from the dead.*
 
 
 **When did Christ begin His public life?**
 
-— Christ began His public life when He was about thirty years old. 1. After spending long years in obscurity and humble toil, Jesus Christ next entered upon a period of activity, going about and teaching publicly. He left His home in Nazareth, and began His public life by an act of great humility: His baptism at the hands of St. John the Baptist in the river Jordan.
+— Christ began His public life when He was about thirty years old.
+
+1. After spending long years in obscurity and humble toil, Jesus Christ next entered upon a period of activity, going about and teaching publicly. He left His home in Nazareth, and began His public life by an act of great humility: His baptism at the hands of St. John the Baptist in the river Jordan.
 
 > The mother of St. John the Baptist was St. Elizabeth, cousin of the Blessed Virgin Mary. St. John lived a life of very rigorous penance in the desert, preparing himself for his role of forerunner or precursor of the Saviour. About two years before Christ started His public life, John the Baptist went out of the desert, and began to preach penance; he baptised in the Jordan all those who believed in his teachings and wished to begin a new life. St. John the Baptist was the forerunner or precursor of Christ. He spoke to the people of the coming Messias, and pointed Jesus out to them as the "Lamb of God." He was put to death by Herod, because he reproved the ruler for his immoral life. Jesus came to John to be baptised; immediately afterwards, as Our Lord came out of the river, the Holy Ghost came down upon Him in the form of a dove, and a voice from heaven was heard saying: "This is my beloved Son, in whom I am well pleased" (Matt. 3:17).
 
@@ -22,7 +24,9 @@ Our Lord spent the three years of His public life teaching, healing the sick, wo
 
 **How long did Christ's public life last?**
 
-— Christ's public life lasted about three years, during which He went about preaching, teaching, and doing good. 1. Upon His return from His forty-day fast in the desert, Jesus called His first disciples. In a few days, He performed His first miracle, changing water into wine at a marriage-feast in Cana, at the request of His Mother, although, as He told her, His time had not yet come.
+— Christ's public life lasted about three years, during which He went about preaching, teaching, and doing good.
+
+1. Upon His return from His forty-day fast in the desert, Jesus called His first disciples. In a few days, He performed His first miracle, changing water into wine at a marriage-feast in Cana, at the request of His Mother, although, as He told her, His time had not yet come.
 
 > Among the outstanding works of Jesus during the first year of His active life were: He drove sellers out of the Temple, saying they made it a "den of thieves". He cured the ruler's son, Peter's mother-in-law, the paralytic at the pool, the daughter of Jairus. He calmed the tempest.
 
@@ -41,7 +45,9 @@ Our Lord spent the three years of His public life teaching, healing the sick, wo
 
 **What was Christ's aim in His public life?**
 
-— Christ's aim in His public life was to teach what God requires all to believe and practice, so that all may enter the kingdom of heaven. 1. For this purpose He gathered some seventy-two disciples, and from them chose twelve Apostles, to whom He gave special instruction and training. By them He established His Church, which was to carry on His work after His death, to continue teaching what He had openly and publicly taught.
+— Christ's aim in His public life was to teach what God requires all to believe and practice, so that all may enter the kingdom of heaven.
+
+1. For this purpose He gathered some seventy-two disciples, and from them chose twelve Apostles, to whom He gave special instruction and training. By them He established His Church, which was to carry on His work after His death, to continue teaching what He had openly and publicly taught.
 
 > He spoke to large crowds, sometimes numbering four or five thousand people, as when He multiplied the loaves and fishes. Christ taught in the simplest manner, so that all might understand without difficulty. He used plain, homely words. He often used signs and parables, and illustrated His meaning by examples from nature and common life.
 

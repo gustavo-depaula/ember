@@ -14,7 +14,9 @@ The Roman Curia is the papal court; it is the core of the government of the Chur
 
 **What in general are the duties of the twelve Congregations of the Roman Curia?**
 
-— Their duties are summarized below: 1. The Congregation of the Holy Office guards Catholic doctrine in faith and morals, protects sacramental dogma, acts on heresy and heretics, decides matters related to the condemnation of books, the doctrine of indulgences, new prayers and devotions.
+— Their duties are summarized below:
+
+1. The Congregation of the Holy Office guards Catholic doctrine in faith and morals, protects sacramental dogma, acts on heresy and heretics, decides matters related to the condemnation of books, the doctrine of indulgences, new prayers and devotions.
 
 > Unlike all other Congregations, it has judicial, as well as administrative powers. The importance of this sacred congregation is shown by the fact that the Holy Father Himself is its Prefect, acting with a Cardinal-Secretary. This, the Consistorial Congregation, and that for the Oriental Church are the only administrative departments thus personally headed by the Pope himself. All other congregations have cardinal-prefects, and the tribunals and offices have cardinal or other prelates at their head.
 
@@ -29,7 +31,13 @@ The Roman Curia is the papal court; it is the core of the government of the Chur
 
 **What is the jurisdiction of each of the three Tribunals of the Curia?**
 
-— The Jurisdiction of each of the three Tribunals of the Curia may be summarized thus: 1. The Sacred Penitentiary judges all cases involving conscience, whether sacramental or not, and all cases concerning the granting and use of indulgences, outside of the rights of the Holy Office on the subject of dogmatic doctrine. 2. The Sacred Roman Rota has charge of matters involving judicial procedure, outside of the rights of the Holy Office and the Congregation of Sacred Rites. 3. The Apostolic Signature is the supreme court of the Roman Curia. It has charge of all appeals, and settles all cases regarding jurisdiction of inferior tribunals.
+— The Jurisdiction of each of the three Tribunals of the Curia may be summarized thus:
+
+1. The Sacred Penitentiary judges all cases involving conscience, whether sacramental or not, and all cases concerning the granting and use of indulgences, outside of the rights of the Holy Office on the subject of dogmatic doctrine.
+
+2. The Sacred Roman Rota has charge of matters involving judicial procedure, outside of the rights of the Holy Office and the Congregation of Sacred Rites.
+
+3. The Apostolic Signature is the supreme court of the Roman Curia. It has charge of all appeals, and settles all cases regarding jurisdiction of inferior tribunals.
 
 
 **Summarize briefly the duties of the five Offices of the Roman Curia.**

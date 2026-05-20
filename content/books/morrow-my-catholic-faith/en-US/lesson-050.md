@@ -2,12 +2,14 @@
 
 ![](../images/lesson-050.webp)
 
-The True Church is one, holy, catholic, and apostolic. The Church that possesses all the shining marks which Our Lord gave is the Church of God, the True Church. Any church that lacks even one of these marks is an imitation, a false church, and not the one founded by Our Lord. The True Church must possess all these marks. It is the Church which Christ commanded all to hear and obey.
+*The True Church is one, holy, catholic, and apostolic. The Church that possesses all the shining marks which Our Lord gave is the Church of God, the True Church. Any church that lacks even one of these marks is an imitation, a false church, and not the one founded by Our Lord. The True Church must possess all these marks. It is the Church which Christ commanded all to hear and obey.*
 
 
 **Did Christ establish many Churches?**
 
-— Christ established only one Church, to continue till the end of time. 1. As God is one, He established one Church, which He commanded all men to obey and to follow in the way of salvation.
+— Christ established only one Church, to continue till the end of time.
+
+1. As God is one, He established one Church, which He commanded all men to obey and to follow in the way of salvation.
 
 > God is essentially one. He is Truth itself. How can He say to one group of men that there are three Persons in one God, and to another that there is only one Person? How can He say to one body that the Holy Eucharist is Himself, and to another that it is mere bread? God cannot contradict Himself. "He who hears you hears me" (Luke 10: 16). "There shall be one fold and one shepherd" (John 10: 16).
 
@@ -37,7 +39,9 @@ The True Church is one, holy, catholic, and apostolic. The Church that possesses
 
 **What are the chief marks of the True Church?**
 
-— The chief marks of the True Church are four: It is one, holy, catholic or universal, and apostolic. 1. Christ intended His Church to be One; therefore the True Church must be One. Its members must be united in doctrine, in worship, and in government. Christ said:
+— The chief marks of the True Church are four: It is one, holy, catholic or universal, and apostolic.
+
+1. Christ intended His Church to be One; therefore the True Church must be One. Its members must be united in doctrine, in worship, and in government. Christ said:
 
 > "If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3: 24). "There shall be one fold and one Shepherd" (John 10: 16).
 

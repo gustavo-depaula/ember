@@ -2,7 +2,7 @@
 
 ![](../images/lesson-068.webp)
 
-Since the time of Christ, from the first council of the Apostles in Jerusalem in the year 50, to the last Vatican Council in 1870, there have been held in all twenty-one general or ecumenical councils. The Vatican Council, shown above, declared the dogma of the infallibility of the Pope.
+*Since the time of Christ, from the first council of the Apostles in Jerusalem in the year 50, to the last Vatican Council in 1870, there have been held in all twenty-one general or ecumenical councils. The Vatican Council, shown above, declared the dogma of the infallibility of the Pope.*
 
 
 **When does the Church teach infallibly?**

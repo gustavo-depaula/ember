@@ -2,12 +2,14 @@
 
 ![](../images/lesson-078.webp)
 
-Both reason and faith tell us that there is a middle ground of expiation, where the soul is cleansed from all stain of sin before it can enter the glory of heaven. "There shall not enter into it anything defiled" (Apoc. 21: 27). Christ said, "Amen, I say to thee thou will not come out from it until thou hast paid the last penny" (Matt. 5: 26). Even persons who deny the existence of purgatory instinctively pray for their loved ones who have died. This would be great inconsistency if their reason did not tell them that their prayers would do the dead good. Prayers are useless for those in heaven or hell.
+*Both reason and faith tell us that there is a middle ground of expiation, where the soul is cleansed from all stain of sin before it can enter the glory of heaven. "There shall not enter into it anything defiled" (Apoc. 21: 27). Christ said, "Amen, I say to thee thou will not come out from it until thou hast paid the last penny" (Matt. 5: 26). Even persons who deny the existence of purgatory instinctively pray for their loved ones who have died. This would be great inconsistency if their reason did not tell them that their prayers would do the dead good. Prayers are useless for those in heaven or hell.*
 
 
 **What is purgatory?**
 
-— Purgatory is a place of temporary punishment for those who have died in the state of grace, but have not fully satisfied God's justice for all punishment due their sins. 1. Purgatory is a middle state where souls destined for heaven are detained and purified. Souls in purgatory cannot help themselves, for their time for meriting is past. But they can be helped by the faithful on earth, by prayers and other good works.
+— Purgatory is a place of temporary punishment for those who have died in the state of grace, but have not fully satisfied God's justice for all punishment due their sins.
+
+1. Purgatory is a middle state where souls destined for heaven are detained and purified. Souls in purgatory cannot help themselves, for their time for meriting is past. But they can be helped by the faithful on earth, by prayers and other good works.
 
 > In some places, at eight o'clock at night, the church bells sound, to admonish the faithful to pray for the souls in purgatory. This hour is in commemoration of Christ's prayer in the garden. We should then kneel and pray one Our Father, one Hail Mary and the Requiem Aeternam "Eternal rest give unto them, O Lord, and let perpetual light shine upon them," etc.
 
@@ -30,7 +32,9 @@ Both reason and faith tell us that there is a middle ground of expiation, where 
 
 **Is the doctrine of the existence of purgatory reasonable?**
 
-— The doctrine of the existence of purgatory is not only reasonable, but its negation is eminently contrary to reason; it is taught in Holy Scripture, and has been taught by the Church from the very beginning. 1. The doctrine of a middle state of purgation is taught in the Old Testament, and was firmly believed in by the Hebrews.
+— The doctrine of the existence of purgatory is not only reasonable, but its negation is eminently contrary to reason; it is taught in Holy Scripture, and has been taught by the Church from the very beginning.
+
+1. The doctrine of a middle state of purgation is taught in the Old Testament, and was firmly believed in by the Hebrews.
 
 > After a battle, Judas Maccabeus ordered prayers and sacrifices offered up for his slain comrades. "And making a gathering, he sent twelve drachms of silver to Jerusalem for sacrifice to be offered for the sins of the dead, thinking well and religiously concerning the resurrection. For, if he had not hoped that they that were slain should rise again, it would have seemed superfluous and vain to pray for the dead. And because he considered that they who had fallen asleep with godliness had great grace laid for them. It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins" (2 Mach. 12:43-46).
 

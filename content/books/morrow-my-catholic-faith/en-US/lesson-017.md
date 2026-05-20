@@ -2,7 +2,7 @@
 
 ![](../images/lesson-017.webp)
 
-The Book of Genesis describes the creation of the first man and the first woman in these words: "And the Lord God formed man of the slime of the earth, and breathed into his face the breath of life; and man became a living soul. Then the Lord God cast a deep sleep upon Adam: and when he was fast asleep, he took one of his ribs. ... And the Lord God built the rib which he took from Adam into a woman" (Gen. 2:7, 21, 22). Such was the creation of Adam and Eve, our first parents. God gave them power over all created things: the earth, the beasts, birds, fishes, plants, and all things else.
+*The Book of Genesis describes the creation of the first man and the first woman in these words: "And the Lord God formed man of the slime of the earth, and breathed into his face the breath of life; and man became a living soul. Then the Lord God cast a deep sleep upon Adam: and when he was fast asleep, he took one of his ribs. ... And the Lord God built the rib which he took from Adam into a woman" (Gen. 2:7, 21, 22). Such was the creation of Adam and Eve, our first parents. God gave them power over all created things: the earth, the beasts, birds, fishes, plants, and all things else.*
 
 
 **What is man?**

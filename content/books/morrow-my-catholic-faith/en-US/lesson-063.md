@@ -2,7 +2,7 @@
 
 ![](../images/lesson-063.webp)
 
-Till the end of the eighteenth century, the close collaboration of Church and State ensured a Christian atmosphere in public life. The American Constitution and the French Revolution initiated a system of separation of Church and State which made the Church vulnerable to all sorts of attack and destruction. Last century witnessed the secularization of public life progressing at an accelerated pace and the cleavage, which divides into two camps for or against Christianity much wider. Thus the task of ‘Catholic Action’ became imperative. Thus St. Pius X, in order to restore all things in Christ, understood the necessity of lay apostolate. He describes it as “a very praiseworthy, even necessary in the present state of the Church and Civil Society” (Il Fermo Proposito, June 11, 1905).
+*Till the end of the eighteenth century, the close collaboration of Church and State ensured a Christian atmosphere in public life. The American Constitution and the French Revolution initiated a system of separation of Church and State which made the Church vulnerable to all sorts of attack and destruction. Last century witnessed the secularization of public life progressing at an accelerated pace and the cleavage, which divides into two camps for or against Christianity much wider. Thus the task of ‘Catholic Action’ became imperative. Thus St. Pius X, in order to restore all things in Christ, understood the necessity of lay apostolate. He describes it as “a very praiseworthy, even necessary in the present state of the Church and Civil Society” (Il Fermo Proposito, June 11, 1905).*
 
 
 **What is Catholic Action?**

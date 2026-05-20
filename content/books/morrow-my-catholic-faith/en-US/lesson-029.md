@@ -2,7 +2,7 @@
 
 ![](../images/lesson-029.webp)
 
-Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Father and the Holy Ghost. He is infinite, almighty, eternal. As man, He has a body and soul like ours. Jesus Christ has two natures which cannot be separated, but which are distinct: the human, and the divine. But He is only one Person - the Divine Person. Jesus Christ is not a human Person.
+*Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Father and the Holy Ghost. He is infinite, almighty, eternal. As man, He has a body and soul like ours. Jesus Christ has two natures which cannot be separated, but which are distinct: the human, and the divine. But He is only one Person - the Divine Person. Jesus Christ is not a human Person.*
 
 
 **Is Jesus Christ more than one Person?**

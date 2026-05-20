@@ -2,12 +2,14 @@
 
 ![](../images/lesson-179.webp)
 
-The illustration (1) shows a girl wearing the blessed dress of Our Lady of Lourdes. It is white, with a blue sash tied in front. (2) shows one wearing the blessed dress of Our Lady Mary, Help of Christians. It is coral pink, with a powder blue sash tied in a bow at the left side. All blessed dresses must be modest, with long sleeves and closed necklines. The illustration (3) is a scapular of Our Lady of Carmel. After being imposed, it may be substituted by a properly blessed scapular medal. (4) shows the two faces of the Miraculous Medal. Our Lady herself revealed the design for it.
+*The illustration (1) shows a girl wearing the blessed dress of Our Lady of Lourdes. It is white, with a blue sash tied in front. (2) shows one wearing the blessed dress of Our Lady Mary, Help of Christians. It is coral pink, with a powder blue sash tied in a bow at the left side. All blessed dresses must be modest, with long sleeves and closed necklines. The illustration (3) is a scapular of Our Lady of Carmel. After being imposed, it may be substituted by a properly blessed scapular medal. (4) shows the two faces of the Miraculous Medal. Our Lady herself revealed the design for it.*
 
 
 **Which are the blessed objects of devotion most used by Catholics?**
 
-— The blessed objects of devotion most used by Catholics are: holy water, candles, ashes, palms, crucifixes, medals, rosaries, scapulars, and images of Our Lord, the Blessed Virgin, and the saints. 1. The blessing given by the Church makes holy water of special efficacy. We should always make the sign of the cross, whenever possible with holy water; by it we would gain one hundred days' indulgence.
+— The blessed objects of devotion most used by Catholics are: holy water, candles, ashes, palms, crucifixes, medals, rosaries, scapulars, and images of Our Lord, the Blessed Virgin, and the saints.
+
+1. The blessing given by the Church makes holy water of special efficacy. We should always make the sign of the cross, whenever possible with holy water; by it we would gain one hundred days' indulgence.
 
 > Holy water is placed at the doors of all churches and chapels, for us to use when we go in and out. We should also have it at the doors of all our rooms in our homes. Holy water is used in many blessings of the Church, for the dead, for the consecration of churches, etc.
 

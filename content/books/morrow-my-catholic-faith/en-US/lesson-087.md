@@ -2,12 +2,14 @@
 
 ![](../images/lesson-087.webp)
 
-All human beings without distinctions of race, nationality, religion, riches, sex, age, or occupation are our "neighbour''. Even enemies are our "neighbour"; only devils and souls in hell are not. Christ Himself taught us the love of our neighbour in the parable of the Good Samaritan, who took care of a stranger that had been robbed and left half dead by the wayside (Luke 10: 29). "There is neither Jew nor Greek. For you are all one in Christ Jesus" (Gal. 3: 28).
+*All human beings without distinctions of race, nationality, religion, riches, sex, age, or occupation are our "neighbour''. Even enemies are our "neighbour"; only devils and souls in hell are not. Christ Himself taught us the love of our neighbour in the parable of the Good Samaritan, who took care of a stranger that had been robbed and left half dead by the wayside (Luke 10: 29). "There is neither Jew nor Greek. For you are all one in Christ Jesus" (Gal. 3: 28).*
 
 
 **Why must we love our neighbour?**
 
-— We must love our neighbour because: 1. God commands it. "Thou shalt love thy neighbour as thyself" (Matt. 22: 39). The love of our neighbour for the love of God, is strictly enjoined upon us. This is why Holy Scripture speaks of only one commandment of charity.
+— We must love our neighbour because:
+
+1. God commands it. "Thou shalt love thy neighbour as thyself" (Matt. 22: 39). The love of our neighbour for the love of God, is strictly enjoined upon us. This is why Holy Scripture speaks of only one commandment of charity.
 
 > God looks upon acts of mercy towards others as acts of love towards Himself. "For I was hungry, and you gave me to eat; I was thirsty, and you gave me to drink; I was a stranger, and you took me in. "Amen I say to you, as long as you did it for one of these, the least of my brethren, you did it for me" (Matt. 25: 35, 40); "If anyone says, I love God, and hates his brother, he is a liar" (1 John 4: 20).
 
@@ -22,7 +24,9 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 **How should we love our neighbour?**
 
-— We should love our neighbour as ourselves, for God's sake. 1. To love our neighbour as ourselves means to have for him the same kind, although not the same degree of love that we have for ourselves. Jesus gave us the Golden Rule: "Even as you wish men to do to you, so also do you to them" (Luke 6: 31).
+— We should love our neighbour as ourselves, for God's sake.
+
+1. To love our neighbour as ourselves means to have for him the same kind, although not the same degree of love that we have for ourselves. Jesus gave us the Golden Rule: "Even as you wish men to do to you, so also do you to them" (Luke 6: 31).
 
 > The best way of knowing how to treat our neighbour is to put ourselves in his place. However, we are not bound to deprive ourselves of what is necessary in order to help our neighbour. In this case, the assistance we extend to him is not of obligation, but of counsel; this is the charity of the saints, the charity of Jesus Christ Himself, Who gave up His life that men may live: "Greater love than this no one has, that one lay down his life for his friends" (John 15: 13).
 
@@ -41,7 +45,9 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 **Should we give the same degree of love to all men?**
 
-— No, we may, and should, love some more than others. 1. We should love our parents, brothers, sisters, relatives, friends, and benefactors best.
+— No, we may, and should, love some more than others.
+
+1. We should love our parents, brothers, sisters, relatives, friends, and benefactors best.
 
 > Husbands and wives must be devoted to each other. Parents must sacrifice themselves for their children. We must love our country and countrymen in a special manner, because God gave them to us, but we must never hate or dislike people of other nationalities.
 
@@ -52,7 +58,9 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 **What is the reward of those who unfailingly practice the precept of love of neighbour?**
 
-— Those who unfailingly practice the precept of love of neighbour bring down blessings upon earth, and will obtain heaven as their eternal reward. 1. Our Lord called the precept of charity towards our neighbour a new commandment: "A new commandment I give you, that you love one another: that as I have loved you, you also love one another" (John 13: 34).
+— Those who unfailingly practice the precept of love of neighbour bring down blessings upon earth, and will obtain heaven as their eternal reward.
+
+1. Our Lord called the precept of charity towards our neighbour a new commandment: "A new commandment I give you, that you love one another: that as I have loved you, you also love one another" (John 13: 34).
 
 > This is because before Christ's coming, people did not understand the precept of charity in the same sense that Our Lord gives it. If today men would closely fulfil that precept, what blessings would ensue! No one would wrong his fellow men; there would be no need of prisons; there would be no extreme poverty; and peace would reign.
 

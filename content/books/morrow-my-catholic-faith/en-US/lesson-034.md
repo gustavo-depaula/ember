@@ -2,14 +2,16 @@
 
 ![](../images/lesson-034.webp)
 
-After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani. And going a little further, He fell upon His face, praying: "Father, if it is possible, let this cup pass away from Me; yet not as I will, but as Thou willest" (Matt. 26: 39). After praying three times the same prayer, Jesus said to His disciples: "Behold, the hour is at hand, and the Son of Man will be betrayed into the hands of sinners. Rise, let us go. Behold, he who betrays Me is at hand" (Matt. 26: 45-46). Judas had come.
+*After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani. And going a little further, He fell upon His face, praying: "Father, if it is possible, let this cup pass away from Me; yet not as I will, but as Thou willest" (Matt. 26: 39). After praying three times the same prayer, Jesus said to His disciples: "Behold, the hour is at hand, and the Son of Man will be betrayed into the hands of sinners. Rise, let us go. Behold, he who betrays Me is at hand" (Matt. 26: 45-46). Judas had come.*
 
 (THE FOURTH ARTICLE OF THE APOSTLES' CREED)
 
 
 **What important events marked the end of Our Lord's public life?**
 
-— The following events marked the end of Our Lord's public life: His solemn entry into Jerusalem, the Last Supper He ate with His Apostles, and finally, His passion and death. 1. Jesus Christ entered Jerusalem in triumph, riding on an ass, with children waving palms and singing.
+— The following events marked the end of Our Lord's public life: His solemn entry into Jerusalem, the Last Supper He ate with His Apostles, and finally, His passion and death.
+
+1. Jesus Christ entered Jerusalem in triumph, riding on an ass, with children waving palms and singing.
 
 > The Church commemorates the entrance into Jerusalem on Palm Sunday. On that day, palms are blessed, and there is a procession, in memory of the palms that the joyous people waved at the entrance into Jerusalem of Our Lord. Palm Sunday is the Sunday before Easter. The week following it is called Holy Week.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-031.webp)
 
-"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn. And there were shepherds in the same district living in the fields and keeping watch over their flock by night. And behold, an angel of the Lord stood by them and the glory of God shone round about them, and they feared exceedingly. And the angel said to them, 'Do not be afraid, for behold, I bring you good news of great joy which shall be to all the people; for there has been born to you today in the town of David a Saviour, who is Christ the Lord'"
+*"And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn. And there were shepherds in the same district living in the fields and keeping watch over their flock by night. And behold, an angel of the Lord stood by them and the glory of God shone round about them, and they feared exceedingly. And the angel said to them, 'Do not be afraid, for behold, I bring you good news of great joy which shall be to all the people; for there has been born to you today in the town of David a Saviour, who is Christ the Lord'"*
 
 
 **When was Christ born?**
 
-— Christ was born of the Blessed Virgin Mary on Christmas Day, in Bethlehem, more than nineteen hundred years ago. 1. When Jesus Christ was born, the Jews were no longer independent. In 64 B.C. Pompey reduced their kingdom and subjected it to Rome.
+— Christ was born of the Blessed Virgin Mary on Christmas Day, in Bethlehem, more than nineteen hundred years ago.
+
+1. When Jesus Christ was born, the Jews were no longer independent. In 64 B.C. Pompey reduced their kingdom and subjected it to Rome.
 
 > Because the Jews were always plotting rebellion against Rome, the Jewish king was replaced by Herod, a Gentile, the first non-Jew to become king. Thus the sceptre was "taken away from Juda", and the time predicted for the Messias had arrived.
 

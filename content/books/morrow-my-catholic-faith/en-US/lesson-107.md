@@ -2,12 +2,14 @@
 
 ![](../images/lesson-107.webp)
 
-After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.
+*After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.*
 
 
 **What are our duties respecting our health and life?**
 
-— We have the obligation to preserve our health and life. 1. Man has no right to encroach upon God's dominion over life. Man created no human being, and he may not kill any human being, not even his own self. Our body is not our own; it belongs to God. We are bound to take care of it, and to do with it not what we wish, but what God wills. God created our body as an abode for our immortal soul.
+— We have the obligation to preserve our health and life.
+
+1. Man has no right to encroach upon God's dominion over life. Man created no human being, and he may not kill any human being, not even his own self. Our body is not our own; it belongs to God. We are bound to take care of it, and to do with it not what we wish, but what God wills. God created our body as an abode for our immortal soul.
 
 Very often the condition of the body affects that of the soul. If the body is unhealthy, the soul suffers. There is a wise Roman proverb: "A healthy mind in a healthy body." However, we are not obliged to employ unusual means involving great expense, or extraordinary suffering.
 
@@ -37,7 +39,9 @@ Very often the condition of the body affects that of the soul. If the body is un
 
 **What is suicide?**
 
-— Suicide is the deliberate taking of one's own life. 1. Suicide is a great sin: it is self-murder. The Church denies Christian burial to those who knowingly take their own life. By this, the Church does not mean that those souls are surely condemned to hell. Their judgement is in the hands of God. The Church merely wishes to show public condemnation of such sins.
+— Suicide is the deliberate taking of one's own life.
+
+1. Suicide is a great sin: it is self-murder. The Church denies Christian burial to those who knowingly take their own life. By this, the Church does not mean that those souls are surely condemned to hell. Their judgement is in the hands of God. The Church merely wishes to show public condemnation of such sins.
 
 > One who commits suicide sins against God, Who is the exclusive arbiter of life or death; he sins against himself, by plunging his soul mercilessly into hell; and he sins against his family, whom he leaves to bear his shame, and perhaps to live in want for lack of his support.
 

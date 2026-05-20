@@ -2,12 +2,14 @@
 
 ![](../images/lesson-167.webp)
 
-This table shows the line, and degree of relationship in connection with the person to be married. In the direct line (FIG: 1) None of these can marry each other. In the collateral line (FIG: 2) the diriment impediment is up to the 4th degree. The degrees of relationship are counted through the common parent. For instance C to E are 2 degrees. They cannot marry. A to F is the 5th degree and can therefore marry. C to G would be 4 degrees only and therefore cannot marry.
+*This table shows the line, and degree of relationship in connection with the person to be married. In the direct line (FIG: 1) None of these can marry each other. In the collateral line (FIG: 2) the diriment impediment is up to the 4th degree. The degrees of relationship are counted through the common parent. For instance C to E are 2 degrees. They cannot marry. A to F is the 5th degree and can therefore marry. C to G would be 4 degrees only and therefore cannot marry.*
 
 
 **What are impediments to matrimony?**
 
-— Impediments to matrimony are obstacles to the validity or lawfulness of a marriage. 1. Impediments to matrimony are certain restrictions imposed by the law of God or of the Church which render a marriage contract invalid or unlawful, if such restrictions are violated when entering into the marriage. Such obstacles are called "impediments", since they obstruct sacramental sanctity.
+— Impediments to matrimony are obstacles to the validity or lawfulness of a marriage.
+
+1. Impediments to matrimony are certain restrictions imposed by the law of God or of the Church which render a marriage contract invalid or unlawful, if such restrictions are violated when entering into the marriage. Such obstacles are called "impediments", since they obstruct sacramental sanctity.
 
 > Whenever circumstances incompatible with the sacrament or contract of Matrimony exist, the Church has established impediments for reasons, such as, the general welfare of society, the protection of the sanctity of the matrimonial bond and the good of the offspring.
 
@@ -22,7 +24,9 @@ This table shows the line, and degree of relationship in connection with the per
 
 **Which are the chief diriment impediments?**
 
-— The chief diriment impediments are: 1. An existing marriage. One who is already married cannot marry again while the other party is still living. This impediment is never given a dispensation.
+— The chief diriment impediments are:
+
+1. An existing marriage. One who is already married cannot marry again while the other party is still living. This impediment is never given a dispensation.
 
 > Should someone, believing his spouse dead, contract another marriage, he must immediately leave the second spouse if the first be discovered living.
 
@@ -55,6 +59,12 @@ This table shows the line, and degree of relationship in connection with the per
 
 **Which are the chief prohibitive impediments?**
 
-— The chief prohibitive impediments are: 1. Forbidden times (see page 349). 2. Private vows The Ordinary of the place, the priest who is to assist the marriage and the confessor have the power to dispense in danger of death. As the public temporary vows, the religious is dispensed ipso jure by the indult of secularization given by the Superior General of the Institute of pontifical right, or by the Bishop of the place for the Institute of diocesan right. 3. Mixed religion. The marriage of a Catholic to a baptised non-Catholic is a prohibitive impediment. Being valid, the marriage cannot be dissolved. With a dispensation, all requirements of the Church are complied with, all illicitness is removed.
+— The chief prohibitive impediments are:
+
+1. Forbidden times (see page 349).
+
+2. Private vows The Ordinary of the place, the priest who is to assist the marriage and the confessor have the power to dispense in danger of death. As the public temporary vows, the religious is dispensed ipso jure by the indult of secularization given by the Superior General of the Institute of pontifical right, or by the Bishop of the place for the Institute of diocesan right.
+
+3. Mixed religion. The marriage of a Catholic to a baptised non-Catholic is a prohibitive impediment. Being valid, the marriage cannot be dissolved. With a dispensation, all requirements of the Church are complied with, all illicitness is removed.
 
 > Non-Catholics can marry validly among themselves, since the Church enforces its laws only among these under its care. If baptised non-Catholics marry validly, their marriage cannot be dissolved.

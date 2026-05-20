@@ -2,7 +2,7 @@
 
 ![](../images/lesson-085.webp)
 
-The love of God causes us to hate sin and do good. Mary Magdalen (1) after her conversion, loved God fully. She hated sin so much that she never again committed any, although she had previously been a great sinner. In the picture (2) is shown the child who, being told that Jesus is in the tabernacle, knocks to beg Him to make his father, an unbeliever, believe in God. Let us, in imitation of this child, knock at the heart of Jesus. He will answer our prayer.
+*The love of God causes us to hate sin and do good. Mary Magdalen (1) after her conversion, loved God fully. She hated sin so much that she never again committed any, although she had previously been a great sinner. In the picture (2) is shown the child who, being told that Jesus is in the tabernacle, knocks to beg Him to make his father, an unbeliever, believe in God. Let us, in imitation of this child, knock at the heart of Jesus. He will answer our prayer.*
 
 
 **Which are the two great commandments that contain the whole law of God?**
@@ -31,7 +31,9 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 **Why should we love God?**
 
-— We should love God because: 1. He is infinitely good and perfect and worthy of love. "One there is who is good, that is God" (Matt. 19:17).
+— We should love God because:
+
+1. He is infinitely good and perfect and worthy of love. "One there is who is good, that is God" (Matt. 19:17).
 
 > We can see the goodness and perfection of God all around us. If we meditate on His goodness, we shall never tire of loving Him. We love our parents and friends because they are good. Their goodness is nothing compared to the goodness of God.
 
@@ -46,7 +48,9 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 **When is our love of God perfect?**
 
-— Our love of God is perfect when we love Him above all things, for His own sake. 1. We love God above all things when we would rather lose life, property, friends, and all things else, rather than offend Him; when we are ready to do anything in order to resemble Him, to give Him pleasure.
+— Our love of God is perfect when we love Him above all things, for His own sake.
+
+1. We love God above all things when we would rather lose life, property, friends, and all things else, rather than offend Him; when we are ready to do anything in order to resemble Him, to give Him pleasure.
 
 > "He who loves father or mother more than me, is not worthy of me" (Matt. 10:37). God permits us to love creatures, urges us to love our fellow men; but such love must be only for God's sake, subject to the love of God. God wishes us to love Him in His creatures, not the creatures for their own sakes. He will not take second place in our affections. "I am the Lord thy God, mighty, jealous" (Ex. 20:5). He will not permit us to love anything which detracts one whit from our complete love of Him.
 

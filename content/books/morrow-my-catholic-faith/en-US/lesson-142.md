@@ -2,7 +2,7 @@
 
 ![](../images/lesson-142.webp)
 
-This is how we should kneel at the communion rail. We should not crowd or push. (1) shows how to approach and leave the communion rail, with joined hands and downcast eyes. (2) shows how to receive Holy Communion. We open the mouth and extend the tongue a little over the lower lip. Meanwhile let us welcome Jesus Christ into a joyful heart.
+*This is how we should kneel at the communion rail. We should not crowd or push. (1) shows how to approach and leave the communion rail, with joined hands and downcast eyes. (2) shows how to receive Holy Communion. We open the mouth and extend the tongue a little over the lower lip. Meanwhile let us welcome Jesus Christ into a joyful heart.*
 
 
 **What is necessary to receive Holy Communion worthily?**
@@ -14,7 +14,9 @@ This is how we should kneel at the communion rail. We should not crowd or push. 
 
 **What should we do to comply with the required disposition for the soul?**
 
-— We must be in a state of grace. 1. One who knowingly receives Holy Communion in mortal sin truly receives Jesus Christ, but commits sacrilege.
+— We must be in a state of grace.
+
+1. One who knowingly receives Holy Communion in mortal sin truly receives Jesus Christ, but commits sacrilege.
 
 > The first bad communion was made by Judas. He had promised to betray Jesus for thirty pieces of silver. Yet he went to the Last Supper, and received Holy Communion from the hands of Our Lord.
 
@@ -41,7 +43,9 @@ This is how we should kneel at the communion rail. We should not crowd or push. 
 
 **What should we do to comply with the required disposition for the body?**
 
-— We must keep the Eucharistic fast. 1. The regulations for keeping the Eucharistic fast are: (a) Natural water — that is, water to which nothing has been added — does not break the Eucharistic fast.
+— We must keep the Eucharistic fast.
+
+1. The regulations for keeping the Eucharistic fast are: (a) Natural water — that is, water to which nothing has been added — does not break the Eucharistic fast.
 
 > We may drink natural water any time we wish, even a few moments before entering the church to prepare for Holy Communion. Artificial mineral waters, like soda, or water to which a little sugar has been added, is not to be considered natural water for the Eucharistic fast.
 
@@ -66,7 +70,9 @@ This is how we should kneel at the communion rail. We should not crowd or push. 
 
 **How should we behave when receiving Holy Communion?**
 
-— Devout and recollected, we should think of the Lord Whom we are receiving, and make fervent acts of virtue. 1. In approaching the communion rail one should have his hands joined, and not walk too hurriedly, nor rush ahead of others, nor insert himself between two persons already kneeling close to each other at the rail.
+— Devout and recollected, we should think of the Lord Whom we are receiving, and make fervent acts of virtue.
+
+1. In approaching the communion rail one should have his hands joined, and not walk too hurriedly, nor rush ahead of others, nor insert himself between two persons already kneeling close to each other at the rail.
 
 > It is very irreverent for women and girls to go to Holy Communion with sleeveless or short dresses, low necks and pants. The paint of their lipstick may possibly touch the Sacred Host. Men too, should be decently dressed.
 

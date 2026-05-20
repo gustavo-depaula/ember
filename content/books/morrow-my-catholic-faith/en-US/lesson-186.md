@@ -2,7 +2,7 @@
 
 ![](../images/lesson-186.webp)
 
-1. When we pass before an image of Our Lord, our Lady, or the Saints, we should show our reverence by bowing before it.
+*1. When we pass before an image of Our Lord, our Lady, or the Saints, we should show our reverence by bowing before it.*
 
 2. Upon entering or leaving the place where the Blessed Sacrament is exposed, or while Holy Communion is being distributed, we should make a double genuflection, that is, kneel on both knees and bow, in adoration of God, there before us.
 
@@ -22,7 +22,9 @@
 
 **In what does the devotion to the Sacred Heart of Jesus consist?**
 
-— The devotion to the Sacred Heart of Jesus consists in acts of love and reparation for the many offences committed against Him. 1. Since Jesus Christ is both God and man, His humanity being inseparable from His divinity, is worthy of adoration. This adoration is not aimed at the human nature, but at the divine person of Christ. In a similar manner, when we kiss our mother's hand, we do not pay our respect to her flesh, but to her as our parent.
+— The devotion to the Sacred Heart of Jesus consists in acts of love and reparation for the many offences committed against Him.
+
+1. Since Jesus Christ is both God and man, His humanity being inseparable from His divinity, is worthy of adoration. This adoration is not aimed at the human nature, but at the divine person of Christ. In a similar manner, when we kiss our mother's hand, we do not pay our respect to her flesh, but to her as our parent.
 
 > Every time the Blessed Sacrament is solemnly exposed, we should spend some time in prayer before it. At the end of the exposition the Benediction with the Blessed Sacrament is given. At the moment of the benediction, we should look at the Sacred Host, and say: "My Lord and My God", then bow down in adoration and make the sign of the Cross.
 

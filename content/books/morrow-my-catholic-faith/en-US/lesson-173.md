@@ -2,7 +2,7 @@
 
 ![](../images/lesson-173.webp)
 
-Christ is the source of all graces. His merits give effect to the means of perfection which we use. This is why frequent confession and communion are especially helpful. They serve to keep us humble. If we continuously accuse ourselves, we are likely to form a delicate conscience. God will give us abundant graces, for confession and communion are sacraments and sources of grace.
+*Christ is the source of all graces. His merits give effect to the means of perfection which we use. This is why frequent confession and communion are especially helpful. They serve to keep us humble. If we continuously accuse ourselves, we are likely to form a delicate conscience. God will give us abundant graces, for confession and communion are sacraments and sources of grace.*
 
 
 **What are the general means of perfection?**
@@ -42,7 +42,9 @@ Christ is the source of all graces. His merits give effect to the means of perfe
 
 **What are the three principal degrees in self-denial?**
 
-— They are: 1. A habitual disposition to lose all things, even life itself, and suffer all things rather than commit a mortal sin. This first degree of self-denial is necessary for all in order to be saved.
+— They are:
+
+1. A habitual disposition to lose all things, even life itself, and suffer all things rather than commit a mortal sin. This first degree of self-denial is necessary for all in order to be saved.
 
 > Our Lord said, "Whosoever doth not carry his cross, and come after me, cannot be my disciple." Our ordinary cross, the cross of all mortals, is our human tendency to weakness and concupiscence, to fall into sin; against this tendency we must all do valiant battle, to acquire the first degree of perfection, of self-denial. Jesus exacts absolute self-denial in everything that is an obstacle to eternal salvation, life not excepted. "For he who would save his life (at the expense of what he owes God) will lose it; but he who loses his life for my sake and for the gospel's sake will save it" (Mark 8: 35).
 

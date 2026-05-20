@@ -2,12 +2,14 @@
 
 ![](../images/lesson-151.webp)
 
-Theodosius the Great Roman Emperor, although a just ruler, once ordered the massacre of about 7000 people of Thessalonica in revenge for a tumult that they had caused in the year 390. St. Ambrose, then Archbishop of Milan, thereupon forbade the emperor's entrance into the church. Theodosius acknowledged his sin, and humbly stated that King David had likewise sinned. St. Ambrose rebuked him, answering that the emperor must then imitate David in his penance. Theodosius made reparation to the Thessalonians and did eight months of severe canonical penance.
+*Theodosius the Great Roman Emperor, although a just ruler, once ordered the massacre of about 7000 people of Thessalonica in revenge for a tumult that they had caused in the year 390. St. Ambrose, then Archbishop of Milan, thereupon forbade the emperor's entrance into the church. Theodosius acknowledged his sin, and humbly stated that King David had likewise sinned. St. Ambrose rebuked him, answering that the emperor must then imitate David in his penance. Theodosius made reparation to the Thessalonians and did eight months of severe canonical penance.*
 
 
 **Why does the priest give us a penance after confession?**
 
-— The priest gives us a penance after confession, that we may make some atonement to God for our sins, receive help to avoid them in the future, and make some satisfaction for the temporal punishment due to them. 1. The penance is satisfaction for sin, some penitential work imposed by the priest as a reparation to God for the offence offered to Him by sin.
+— The priest gives us a penance after confession, that we may make some atonement to God for our sins, receive help to avoid them in the future, and make some satisfaction for the temporal punishment due to them.
+
+1. The penance is satisfaction for sin, some penitential work imposed by the priest as a reparation to God for the offence offered to Him by sin.
 
 > In the early days of the Church, public or canonical penance was imposed for public sins. One who apostatized for fear had to do penance for seven years, during which time he was excluded from Holy Communion, and was required to fast on certain days.
 
@@ -26,7 +28,9 @@ Theodosius the Great Roman Emperor, although a just ruler, once ordered the mass
 
 **What kinds of punishment are due to sin?**
 
-— Two kinds of punishment are due to sin: the eternal punishment of hell, due to unforgiven mortal sins, and temporal punishment, lasting only for a time, due to venial sins, and also to mortal sins after they have been forgiven. 1. Even if Our Lord by His death fully atoned for all our sins, we need to do penance for them. He made salvation available, on condition that we do our part.
+— Two kinds of punishment are due to sin: the eternal punishment of hell, due to unforgiven mortal sins, and temporal punishment, lasting only for a time, due to venial sins, and also to mortal sins after they have been forgiven.
+
+1. Even if Our Lord by His death fully atoned for all our sins, we need to do penance for them. He made salvation available, on condition that we do our part.
 
 > In a similar way, a physician prescribes medicine. If one refuses it, he is not cured.
 
@@ -43,7 +47,9 @@ Theodosius the Great Roman Emperor, although a just ruler, once ordered the mass
 
 **Why does God require temporal punishment for sin?**
 
-— God requires temporal punishment for sin to satisfy His justice, to teach us the great evil of sin, and to warn us not to sin again. 1. Temporal punishment is due even forgiven sins, because human contrition is often imperfect. This temporal punishment is an atonement made to divine sanctity and justice. After confession, our contrition generally requires more satisfaction than the few prayers given as penance.
+— God requires temporal punishment for sin to satisfy His justice, to teach us the great evil of sin, and to warn us not to sin again.
+
+1. Temporal punishment is due even forgiven sins, because human contrition is often imperfect. This temporal punishment is an atonement made to divine sanctity and justice. After confession, our contrition generally requires more satisfaction than the few prayers given as penance.
 
 > "Nathan said to David: The Lord hath taken away thy sin, thou shalt not die; nevertheless, because thou hast given occasion to the enemies of the Lord to blaspheme, for this thing the child that is born to thee shall surely die" (2 Kings 12).
 

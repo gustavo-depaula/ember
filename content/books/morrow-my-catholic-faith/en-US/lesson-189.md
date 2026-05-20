@@ -2,12 +2,14 @@
 
 ![](../images/lesson-189.webp)
 
-One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes, France. In 1858, the Blessed Virgin, proclaiming herself the Immaculate Conception, appeared there to a little peasant girl named Bernadette. From then on a spring has flowed out of the grotto, the water of which has been the means of curing hundreds of thousands. Pilgrims from the remotest parts of the world going to the shrine number about a million a year. The cures are certified by a bureau of eminent physicians, most of whom are non-Catholic. At Lourdes physical cures are not the only ones made; there are also many conversions.
+*One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes, France. In 1858, the Blessed Virgin, proclaiming herself the Immaculate Conception, appeared there to a little peasant girl named Bernadette. From then on a spring has flowed out of the grotto, the water of which has been the means of curing hundreds of thousands. Pilgrims from the remotest parts of the world going to the shrine number about a million a year. The cures are certified by a bureau of eminent physicians, most of whom are non-Catholic. At Lourdes physical cures are not the only ones made; there are also many conversions.*
 
 
 **What is the purpose of processions?**
 
-— Processions are held to set before us forcibly events in the life of Christ and doctrines of our faith, or to implore the mercy of God, or as a public act of thanksgiving. 1. Processions are held in honour of God or the Saints. It is by way of an open profession of faith that Mother Church has instituted processions like those of *Corpus Christi*, Rogation Days, Christ the King, etc. Processions are also held in times of calamity, to offer united prayer to God.
+— Processions are held to set before us forcibly events in the life of Christ and doctrines of our faith, or to implore the mercy of God, or as a public act of thanksgiving.
+
+1. Processions are held in honour of God or the Saints. It is by way of an open profession of faith that Mother Church has instituted processions like those of *Corpus Christi*, Rogation Days, Christ the King, etc. Processions are also held in times of calamity, to offer united prayer to God.
 
 > Our Lord promised that wherever two or three are gathered in His name, He would be in the midst of them. He also required us to profess Him publicly before our fellow men.
 
@@ -18,7 +20,11 @@ One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes
 
 **Which are the regularly held processions?**
 
-— The processions regularly held are: 1. The procession of the feast of the Purification, February 2. This feast, celebrated in honour of Our Lady's Purification, is also called Candlemas; on this day candles are blessed.
+— The processions regularly held are:
+
+1. The procession of the feast of the Purification, February
+
+2. This feast, celebrated in honour of Our Lady's Purification, is also called Candlemas; on this day candles are blessed.
 
 > The wax tapers carried during the procession symbolize Christ, the Light of the World, whom Holy Simeon called "a light of revelation to the Gentiles" (Luke 2: 32).
 
@@ -41,7 +47,9 @@ One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes
 
 **What are pilgrimages?**
 
-— Pilgrimages are journeys made to holy places with the object of giving honour to God or His saints, and as a means of devotion and penance. 1. Pilgrimages were made in the Old Law. On the three principal feasts of the year, all the men had to go up to the Temple at Jerusalem. Thus we read in the Gospel how Joseph and Mary took Jesus to the Temple when He was twelve years old.
+— Pilgrimages are journeys made to holy places with the object of giving honour to God or His saints, and as a means of devotion and penance.
+
+1. Pilgrimages were made in the Old Law. On the three principal feasts of the year, all the men had to go up to the Temple at Jerusalem. Thus we read in the Gospel how Joseph and Mary took Jesus to the Temple when He was twelve years old.
 
 > "And his parents were wont to go every year to Jerusalem, at the feast of the Passover" (Luke 2:41).
 

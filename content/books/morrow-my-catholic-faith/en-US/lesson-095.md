@@ -2,7 +2,7 @@
 
 ![](../images/lesson-095.webp)
 
-If we love God, no sacrifice is too great to offer Him for His pleasure. Millions of martyrs have been glad to give their lives for their faith. During the great persecutions under the pagan Roman emperors, thousands were taken to the arena to be torn by wild beasts. Thousands of others were covered with pitch and lighted as torches. All kinds of human tortures were invented to make the Christians deny their faith. But their pure love of God caused them to be firm and to meet death gladly.
+*If we love God, no sacrifice is too great to offer Him for His pleasure. Millions of martyrs have been glad to give their lives for their faith. During the great persecutions under the pagan Roman emperors, thousands were taken to the arena to be torn by wild beasts. Thousands of others were covered with pitch and lighted as torches. All kinds of human tortures were invented to make the Christians deny their faith. But their pure love of God caused them to be firm and to meet death gladly.*
 
 
 **How does a Catholic sin against faith?**
@@ -32,7 +32,9 @@ If we love God, no sacrifice is too great to offer Him for His pleasure. Million
 
 **Why does a Catholic sin against faith by taking part in non-Catholic worship?**
 
-— A Catholic sins against faith by taking part in non-Catholic worship, because by doing so he professes belief in a religion he knows is false. 1. It is wrong to be present at Protestant or Jewish services even when we do not participate in them, because such services are intended to honour God in a manner He does not wish to be honoured. If He instituted a Church of His own, He must wish to be honoured in the ways of that Church. In addition, we then give bad example, and expose ourselves to the danger of losing our faith.
+— A Catholic sins against faith by taking part in non-Catholic worship, because by doing so he professes belief in a religion he knows is false.
+
+1. It is wrong to be present at Protestant or Jewish services even when we do not participate in them, because such services are intended to honour God in a manner He does not wish to be honoured. If He instituted a Church of His own, He must wish to be honoured in the ways of that Church. In addition, we then give bad example, and expose ourselves to the danger of losing our faith.
 
 > When necessary, for social obligations, a Catholic may be present at a non-Catholic wedding or funeral, but he must not participate in the services. In no case may he attend other services of non-Catholic churches, such as the installation of their ministers, sermons, etc.
 
@@ -43,7 +45,9 @@ If we love God, no sacrifice is too great to offer Him for His pleasure. Million
 
 **How can a Catholic best safeguard his faith?**
 
-— A Catholic can best safeguard his faith by making frequent acts of faith, by praying for a strong faith, by studying his religion very earnestly, by living a good life, by good reading, by refusing to associate with the enemies of the Church, and by not reading books and papers opposed to the Church and her teaching. 1. Acts of faith are prayers said to tell God we believe in Him. Pleasing to God also are prayers of faith, such as the Apostles made to the Lord: "Increase our faith" (Luke 17:5). The more we believe, the firmer our faith becomes, by God's grace.
+— A Catholic can best safeguard his faith by making frequent acts of faith, by praying for a strong faith, by studying his religion very earnestly, by living a good life, by good reading, by refusing to associate with the enemies of the Church, and by not reading books and papers opposed to the Church and her teaching.
+
+1. Acts of faith are prayers said to tell God we believe in Him. Pleasing to God also are prayers of faith, such as the Apostles made to the Lord: "Increase our faith" (Luke 17:5). The more we believe, the firmer our faith becomes, by God's grace.
 
 > We should study our religion well, especially the Christian doctrine. If we have any doubts about it, we should consult a good spiritual adviser or confessor. Many have lost their religion by misunderstanding its doctrines.
 

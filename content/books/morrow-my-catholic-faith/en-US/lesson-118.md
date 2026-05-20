@@ -2,7 +2,7 @@
 
 ![](../images/lesson-118.webp)
 
-On holydays of obligation, just as on Sundays, we must hear Mass and abstain from unnecessary servile work. If without any grave reason, one fails to sanctify the holydays of obligation, he commits a mortal sin. Those obliged to work on holydays of obligation should at least hear Mass before going to their work. Catholic employers have a serious obligation of making it easy for those under them to sanctify holydays of obligation. All are children of the same Eternal Father.
+*On holydays of obligation, just as on Sundays, we must hear Mass and abstain from unnecessary servile work. If without any grave reason, one fails to sanctify the holydays of obligation, he commits a mortal sin. Those obliged to work on holydays of obligation should at least hear Mass before going to their work. Catholic employers have a serious obligation of making it easy for those under them to sanctify holydays of obligation. All are children of the same Eternal Father.*
 
 "TO ASSIST AT MASS ON ALL SUNDAYS AND HOLY DAYS OF OBLIGATION."
 
@@ -24,7 +24,9 @@ On holydays of obligation, just as on Sundays, we must hear Mass and abstain fro
 
 **Which are the holydays of obligation in the Universal Church?**
 
-— All Sundays and the following ten: 1. Christmas Day
+— All Sundays and the following ten:
+
+1. Christmas Day
 
 > (December 25) On this day we commemorate the birth of Jesus Christ in the stable at Bethlehem. "And it came to pass while they were there, that the days for her to be delivered were fulfilled. And she brought forth her first-born son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn" (Luke 2: 6-7).
 
@@ -76,6 +78,8 @@ Pope Pius IX declared St. Joseph to be the patron of the universal Church.
 
 **Why were holydays instituted by the Church?**
 
-— Holydays were instituted by the Church to remind us of the mysteries of our religion, and of the important events in the lives of Christ and of His Blessed Mother, and to recall to us the virtues and the rewards of the saints. 1. The Church appoints festivals in honour of Our Lord, in order that we may recall the principal mysteries of our Redemption, thank God for the graces received through these mysteries, and make them bear fruit in our lives.
+— Holydays were instituted by the Church to remind us of the mysteries of our religion, and of the important events in the lives of Christ and of His Blessed Mother, and to recall to us the virtues and the rewards of the saints.
+
+1. The Church appoints festivals in honour of Our Lord, in order that we may recall the principal mysteries of our Redemption, thank God for the graces received through these mysteries, and make them bear fruit in our lives.
 
 > The feasts of Our Lord that do not necessarily fall on a Sunday are: Christmas, the Circumcision, and the Ascension. Easter and Pentecost always fall on a Sunday. 2. Even if some feasts are not holydays of obligation in your country, you should still celebrate them with much honour, especially by attending holy Mass. 3. The festivals in honour of Our Lady and the Saints are prescribed, that we may reverence them as God's friends, and profit by their intercession and example.

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-181.webp)
 
-We should make prayer a part of our life, and pray on all occasions. In particular we must not neglect to pray before and after meals (1), upon arising and retiring (2), before and after our work, and (4) when we are tempted. It is a beautiful custom to hold family prayers (3).
+*We should make prayer a part of our life, and pray on all occasions. In particular we must not neglect to pray before and after meals (1), upon arising and retiring (2), before and after our work, and (4) when we are tempted. It is a beautiful custom to hold family prayers (3).*
 
 
 **For whom should we pray?**
 
-— We should pray especially for ourselves, for our parents, relatives, friends and enemies, for sinners, for the souls in purgatory, for the Pope, bishops, and priests of the Church, and for the officials of our country. 1. We should pray for ourselves for all our needs of soul and body.
+— We should pray especially for ourselves, for our parents, relatives, friends and enemies, for sinners, for the souls in purgatory, for the Pope, bishops, and priests of the Church, and for the officials of our country.
+
+1. We should pray for ourselves for all our needs of soul and body.
 
 > We should particularly pray for those whom we love: our parents, brothers and sisters, friends and relatives, benefactors and superiors. But like the Saints, we must also pray for our enemies. And we must make reparation by praying for all whom we may have injured.
 
@@ -22,7 +24,9 @@ We should make prayer a part of our life, and pray on all occasions. In particul
 
 **How do we know that God always hears our prayers if we pray properly?**
 
-— We know that God always hears our prayers if we pray properly, because Our Lord has promised: "If you ask the Father anything in My name, He will give it to you." 1. God never forgets a promise, and how often has He promised to answer prayer!
+— We know that God always hears our prayers if we pray properly, because Our Lord has promised: "If you ask the Father anything in My name, He will give it to you."
+
+1. God never forgets a promise, and how often has He promised to answer prayer!
 
 > Our Lord promised: "Ask and it shall be given you" (Matt. 7:7). "All things whatever you ask for in prayer, believing, you shall receive" (Matt. 21:22). "Amen, amen, I say to you: if you ask the Father anything in my name, he will give it to you" (John 16:23). "Ask whatever you will, and it shall be done to you" (John 15:7).
 
@@ -40,7 +44,9 @@ We should make prayer a part of our life, and pray on all occasions. In particul
 
 **How many kinds of prayer are there?**
 
-— There are two kinds of prayer: mental prayer and vocal prayer. 1. Mental prayer is that prayer by which we unite our hearts with God while thinking of His holy truths.
+— There are two kinds of prayer: mental prayer and vocal prayer.
+
+1. Mental prayer is that prayer by which we unite our hearts with God while thinking of His holy truths.
 
 > This kind of prayer is also called "meditation"; in it we spend the time thinking of God or of certain truths He has revealed, and by such meditation we hope to become better. Priests and religious have daily meditation.
 
@@ -58,7 +64,9 @@ We should make prayer a part of our life, and pray on all occasions. In particul
 
 **Are distractions in our prayers always displeasing to God?**
 
-— Distractions in our prayers are not displeasing to God, unless they are wilful. 1. If we try to pray well and to keep distractions away, but in spite of all our efforts we do not succeed, God is not displeased.
+— Distractions in our prayers are not displeasing to God, unless they are wilful.
+
+1. If we try to pray well and to keep distractions away, but in spite of all our efforts we do not succeed, God is not displeased.
 
 > A busy mother, even at prayer, may have an undercurrent of thought about the children's lunch. A businessman who has several important decisions to make would very likely be distracted in prayer.
 

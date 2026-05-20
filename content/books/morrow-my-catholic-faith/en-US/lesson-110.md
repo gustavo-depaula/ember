@@ -2,7 +2,7 @@
 
 ![](../images/lesson-110.webp)
 
-The illustration shows the holy queen Blanche of France and her young son, later St. Louis, King of France. From babyhood, the queen brought up her son in the love of God. She used to say to him over and over that she would rather see him dead than have him commit sin. She guarded him particularly, so that he grew up chaste in body and soul. All mothers should imitate Queen Blanche; the training she gave helped her son in living a pure and holy life, and in becoming a great saint.
+*The illustration shows the holy queen Blanche of France and her young son, later St. Louis, King of France. From babyhood, the queen brought up her son in the love of God. She used to say to him over and over that she would rather see him dead than have him commit sin. She guarded him particularly, so that he grew up chaste in body and soul. All mothers should imitate Queen Blanche; the training she gave helped her son in living a pure and holy life, and in becoming a great saint.*
 
 
 **What is forbidden by the ninth commandment?**
@@ -18,7 +18,9 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 **Are mere thoughts about impure things always sinful in themselves?**
 
-— Mere thoughts about impure things are not always sinful in themselves, but such thoughts are dangerous. 1. It is a mistake to suppose that all impure thoughts and desires are sinful. We are not responsible for the wicked thoughts that enter our mind unless we bring them in ourselves. But as far as we can, we should try to avoid all such thoughts, by occupying ourselves in something useful. Thinking about impure things is dangerous because in that way, we walk on the brink of the abyss of sin, and any little push may throw us in.
+— Mere thoughts about impure things are not always sinful in themselves, but such thoughts are dangerous.
+
+1. It is a mistake to suppose that all impure thoughts and desires are sinful. We are not responsible for the wicked thoughts that enter our mind unless we bring them in ourselves. But as far as we can, we should try to avoid all such thoughts, by occupying ourselves in something useful. Thinking about impure things is dangerous because in that way, we walk on the brink of the abyss of sin, and any little push may throw us in.
 
 > Thinking often of something makes us used to that thing; we are in danger of losing our fear of impurity by familiarizing ourselves with thoughts of impure things.
 
@@ -38,7 +40,9 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 **What are the chief means of preserving the virtue of chastity?**
 
-— The chief means of preserving the virtue of chastity are: to avoid carefully all unnecessary dangers, to seek God's help through prayer, frequent confession, Holy Communion, and assistance at Holy Mass, and to have a special devotion to the Blessed Virgin. 1. In all things form the habit of temperance. Avoid all unnecessary dangers; do not take any chances with unchastity; do not experiment. If you put a match to gunpowder, it is sure to explode; there is no necessity to try and see whether it will not.
+— The chief means of preserving the virtue of chastity are: to avoid carefully all unnecessary dangers, to seek God's help through prayer, frequent confession, Holy Communion, and assistance at Holy Mass, and to have a special devotion to the Blessed Virgin.
+
+1. In all things form the habit of temperance. Avoid all unnecessary dangers; do not take any chances with unchastity; do not experiment. If you put a match to gunpowder, it is sure to explode; there is no necessity to try and see whether it will not.
 
 > Shun the company of those that are impure. Impurity is no wonderful achievement to be proud about: any idiot can be impure. It is the strong soul that resists temptation and keeps himself clean. It is the chaste person that possesses manly strength.
 

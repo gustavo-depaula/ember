@@ -2,12 +2,14 @@
 
 ![](../images/lesson-183.webp)
 
-"And it came to pass as he was praying in a certain place, that when he ceased, one of his disciples said to him, 'Lord, teach us to pray' (Luke 11: 1). Our Lord therefore taught His disciples the "Our Father." Jesus continued: "And I say to you, ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you. For everyone who asks receives; and he who seeks finds; and to him who knocks it shall be opened (Luke 11: 9-10).
+*"And it came to pass as he was praying in a certain place, that when he ceased, one of his disciples said to him, 'Lord, teach us to pray' (Luke 11: 1). Our Lord therefore taught His disciples the "Our Father." Jesus continued: "And I say to you, ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you. For everyone who asks receives; and he who seeks finds; and to him who knocks it shall be opened (Luke 11: 9-10).*
 
 
 **Why is the "Our Father" the best of all prayers?**
 
-— The Our Father is the best of all prayers because it is the Lord's Prayer, taught us by Jesus Christ Himself; a prayer of perfect and unselfish love. 1. The "Our Father" was taught by Christ Himself to us through His Apostles at their request. It has an introduction and seven petitions.
+— The Our Father is the best of all prayers because it is the Lord's Prayer, taught us by Jesus Christ Himself; a prayer of perfect and unselfish love.
+
+1. The "Our Father" was taught by Christ Himself to us through His Apostles at their request. It has an introduction and seven petitions.
 
 > The Our Father contains petitions for all the needs of soul and body. It is at one and the same time a prayer of praise, petition, and contrition.
 
@@ -20,7 +22,9 @@
 
 **Why do we address God as "Our Father Who art in heaven?"**
 
-— We address God as "Our Father Who art in heaven", because we belong to Him, our loving Father, Who created us and watches over us. Who adopts us through sanctifying grace as His children and Who destines us to live for ever with Him in heaven, our true home. 1. "Our Father Who art in heaven" is the introduction. In it Our Lord taught us to be as little children, calling God "Father."
+— We address God as "Our Father Who art in heaven", because we belong to Him, our loving Father, Who created us and watches over us. Who adopts us through sanctifying grace as His children and Who destines us to live for ever with Him in heaven, our true home.
+
+1. "Our Father Who art in heaven" is the introduction. In it Our Lord taught us to be as little children, calling God "Father."
 
 > Thus we show our love of and confidence in Him. We say "Our" and not "My" because we pray not only for ourselves, but for all men. "We are sons of God" (Rom. 8: 16),
 

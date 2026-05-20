@@ -2,12 +2,14 @@
 
 ![](../images/lesson-020.webp)
 
-God punished Adam and Eve for the sin they committed. "And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken" (Gen. 3: 23). All the calamities in the world today, war, disease, poverty, etc., are consequences of Adam's sin. We inherited all the weaknesses that were part of his punishment.
+*God punished Adam and Eve for the sin they committed. "And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken" (Gen. 3: 23). All the calamities in the world today, war, disease, poverty, etc., are consequences of Adam's sin. We inherited all the weaknesses that were part of his punishment.*
 
 
 **What happened to Adam and Eve on account of their sin?**
 
-— On account of their sin Adam and Eve lost sanctifying grace, the right to heaven, and their special gifts; they became subject to death, to suffering, and to a strong inclination to evil, and were driven from the Garden of Paradise. 1. Adam and Eve immediately lost God's abiding grace and friendship, their holiness and innocence: they lost sanctifying grace.
+— On account of their sin Adam and Eve lost sanctifying grace, the right to heaven, and their special gifts; they became subject to death, to suffering, and to a strong inclination to evil, and were driven from the Garden of Paradise.
+
+1. Adam and Eve immediately lost God's abiding grace and friendship, their holiness and innocence: they lost sanctifying grace.
 
 > This was the worst punishment. Having lost sanctifying grace, they lost the right to heaven, to see God.
 
@@ -41,7 +43,9 @@ God punished Adam and Eve for the sin they committed. "And the Lord God sent him
 
 **What are the chief punishments of Adam which we inherit through original sin?**
 
-— The chief punishments of Adam which we inherit through original sin are: death, suffering, ignorance, and a strong inclination to sin. 1. By original sin, we became subject to disease and death. This was part of the punishment God laid on Adam.
+— The chief punishments of Adam which we inherit through original sin are: death, suffering, ignorance, and a strong inclination to sin.
+
+1. By original sin, we became subject to disease and death. This was part of the punishment God laid on Adam.
 
 > "In what day soever you shall eat of it, you shall die the death" (Gen. 2: 17).
 
@@ -52,7 +56,9 @@ God punished Adam and Eve for the sin they committed. "And the Lord God sent him
 
 **Is God unjust in punishing us on account of the sin of Adam?**
 
-— God is not unjust in punishing us on account of the sin of Adam, because original sin does not take away from us anything to which we have a strict right as human beings, but only the free gifts which God in His goodness would have bestowed on us if Adam had not sinned. 1. All mankind must suffer for the sin of Adam because he was the head and representative of the whole human family.
+— God is not unjust in punishing us on account of the sin of Adam, because original sin does not take away from us anything to which we have a strict right as human beings, but only the free gifts which God in His goodness would have bestowed on us if Adam had not sinned.
+
+1. All mankind must suffer for the sin of Adam because he was the head and representative of the whole human family.
 
 > In much the same way, the ruler of a country represents the whole people. He declares war or makes peace, and the people are affected by his acts. When Alfonso XIII of Spain was dethroned, his children lost their right to the throne through no fault of their own. So also the children of a rich man who goes bankrupt lose all the inheritance they hoped for, through no fault of theirs.
 

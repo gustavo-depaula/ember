@@ -2,7 +2,7 @@
 
 ![](../images/lesson-101.webp)
 
-The illustration shows a parish church on a Sunday morning. The people are hastening to church, to obey the precept of hearing Mass. It is a mortal sin to fail to sanctify Sundays and holydays through our own fault. To keep these days holy, we must hear Mass, abstain from servile work, and devote the day to pious works. Wholesome recreation and innocent amusements which do not interfere with our religious obligations are allowed; too often, however, "fun" appears to be the main feature.
+*The illustration shows a parish church on a Sunday morning. The people are hastening to church, to obey the precept of hearing Mass. It is a mortal sin to fail to sanctify Sundays and holydays through our own fault. To keep these days holy, we must hear Mass, abstain from servile work, and devote the day to pious works. Wholesome recreation and innocent amusements which do not interfere with our religious obligations are allowed; too often, however, "fun" appears to be the main feature.*
 
 
 **What is forbidden by the third commandment of God?**
@@ -12,7 +12,9 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 **What is servile work?**
 
-— Servile work is that which requires labour of body rather than of mind. 1. Servile work is that ordinarily performed by labourers. Work in which the mind has the greater share, such as reading, writing, teaching, drawing, studying, and music practice is not servile, and is not forbidden.
+— Servile work is that which requires labour of body rather than of mind.
+
+1. Servile work is that ordinarily performed by labourers. Work in which the mind has the greater share, such as reading, writing, teaching, drawing, studying, and music practice is not servile, and is not forbidden.
 
 > Servile work performed on Sunday is not considered a grievous sin unless it is continued beyond two hours, or becomes the cause of scandal or bad example.
 
@@ -27,7 +29,9 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 **When is servile work allowed on Sunday?**
 
-— Servile work is allowed on Sunday when the honour of God, our own need, or that of our neighbour requires it. 1. Preparing a place for Holy Mass is a work for the honour of God, and may be done even on a Sunday.
+— Servile work is allowed on Sunday when the honour of God, our own need, or that of our neighbour requires it.
+
+1. Preparing a place for Holy Mass is a work for the honour of God, and may be done even on a Sunday.
 
 > In a parish where the women are all occupied during the week, and can meet for their altar society meetings only on Sundays, it would be allowed for them to sew or repair vestments for the church.
 
@@ -46,7 +50,9 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 **Are amusements forbidden on Sunday?**
 
-— Amusements are not forbidden on Sunday. Only those that interfere with the Sunday obligations are forbidden. 1. Sunday is a day of rest. On Sunday, therefore, we are permitted to relax from our daily work in wholesome recreation.
+— Amusements are not forbidden on Sunday. Only those that interfere with the Sunday obligations are forbidden.
+
+1. Sunday is a day of rest. On Sunday, therefore, we are permitted to relax from our daily work in wholesome recreation.
 
 > Not too much emphasis should be given in competitive games as to which side wins or loses. A good loser is better than a poor winner who is proud of himself. "God blessed the seventh day and sanctified it because in it, He had rested from all His work" (Gen. 2:3) If God, Who needed no "rest", chose to stop His work of creation, we should imitate His divine example and rest after six days of labour. The experience of all peoples has borne out the wisdom of this practice of resting one day out of the week. As an example, we may cite the case of the French Revolution. The French atheists in control wished to change the old order completely, and went so far as to change the number of days in the week to ten. They could not, however, retain the new week, for even the work animals, unable to endure work without rest, died of exhaustion.
 

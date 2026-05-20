@@ -2,17 +2,25 @@
 
 ![](../images/lesson-006.webp)
 
-Adam and Eve, our first parents, knew God in the Garden of paradise. God spoke to the patriarchs and prophets, and gave them messages for the rest of men. God gave the Commandments to Moses. Our Lord Jesus Christ, God Himself, came and taught about God.
+*Adam and Eve, our first parents, knew God in the Garden of paradise. God spoke to the patriarchs and prophets, and gave them messages for the rest of men. God gave the Commandments to Moses. Our Lord Jesus Christ, God Himself, came and taught about God.*
 
 
 **How do we know by our reason that God exists?**
 
-— We know by our reason that God exists, because of: 1. The existence of the world. 2. The order and harmony of the whole universe. 3. The testimony of our conscience.
+— We know by our reason that God exists, because of:
+
+1. The existence of the world.
+
+2. The order and harmony of the whole universe.
+
+3. The testimony of our conscience.
 
 
 **How does the existence of the world prove the existence of God?**
 
-— The existence of the world proves the existence of God, because it could not have come into existence by itself. 1. Everything in the world had a beginning. Men, animals, plants, the earth, planets and stars, — all had a beginning. They could not have come into existence by themselves. They must have been made by Someone Who had no beginning. Planets and men could no more have made themselves than a watch can make itself.
+— The existence of the world proves the existence of God, because it could not have come into existence by itself.
+
+1. Everything in the world had a beginning. Men, animals, plants, the earth, planets and stars, — all had a beginning. They could not have come into existence by themselves. They must have been made by Someone Who had no beginning. Planets and men could no more have made themselves than a watch can make itself.
 
 > The astronomer Kircher had a friend who denied the existence of God. During a visit one day, this friend saw a globe in the study of the astronomer. — "This is an interesting globe," said he; "Who made it?" — "Why," replied Kircher, "it just made itself!" The friend had a hearty laugh at the idea. Kircher asserted, "It would be much easier for a little globe like that to make itself than for the immense globe of the earth to create itself."
 
@@ -23,7 +31,9 @@ Adam and Eve, our first parents, knew God in the Garden of paradise. God spoke t
 
 **How do the order and harmony of the universe prove the existence of God?**
 
-— They lead us to infer the existence of a Supreme Architect and Preserver of surpassing skill. 1. The heavenly bodies go along their appointed courses age after age. The seasons succeed one another year by year. There is splendour, beauty, arrangement, and order everywhere. The whole universe is governed and preserved by immutable law.
+— They lead us to infer the existence of a Supreme Architect and Preserver of surpassing skill.
+
+1. The heavenly bodies go along their appointed courses age after age. The seasons succeed one another year by year. There is splendour, beauty, arrangement, and order everywhere. The whole universe is governed and preserved by immutable law.
 
 > From Adam and Eve down to the present, all men have acknowledged the existence of God. Even pagans and primitive peoples recognize a Supreme Being, a god. They have sacrifices, and they worship some deity whom they recognize as superior and supernatural, on whom man depends.
 
@@ -40,7 +50,9 @@ Adam and Eve, our first parents, knew God in the Garden of paradise. God spoke t
 
 **How does the testimony of our conscience prove the existence of God?**
 
-— By our conscience we can distinguish right from wrong. 1. Our conscience approves the right and condemns the wrong. Thus within ourselves, there is a recognition of a Supreme Lawgiver to whom we are responsible, Who will reward the good we do, and punish the evil.
+— By our conscience we can distinguish right from wrong.
+
+1. Our conscience approves the right and condemns the wrong. Thus within ourselves, there is a recognition of a Supreme Lawgiver to whom we are responsible, Who will reward the good we do, and punish the evil.
 
 > "The fool says in his heart: There is no God" (Ps. 13: 1).
 

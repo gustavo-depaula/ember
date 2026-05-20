@@ -2,14 +2,16 @@
 
 ![](../images/lesson-157.webp)
 
-A good life is usually an assurance of a happy death. One who has lived all his days in an effort to please God is not likely to turn an impenitent sinner at the last moment.
+*A good life is usually an assurance of a happy death. One who has lived all his days in an effort to please God is not likely to turn an impenitent sinner at the last moment.*
 
 2. A wicked life is usually a forecast of a bad death. A hardened sinner refuses the Last Sacraments. Let us all pray God to deliver us from a bad death.
 
 
 **What are the Last Sacraments?**
 
-— They are the sacraments administered to a person dangerously ill, and include Confession, Viaticum, and Extreme Unction. 1. The sick person first makes his confession, then receives the Holy Eucharist in the Viaticum, and finally is given Extreme Unction.
+— They are the sacraments administered to a person dangerously ill, and include Confession, Viaticum, and Extreme Unction.
+
+1. The sick person first makes his confession, then receives the Holy Eucharist in the Viaticum, and finally is given Extreme Unction.
 
 > Extreme Unction is a remedy; and as medicine is for the living, not the dead, so those dead in sin will not profit from this spiritual remedy. However, if the patient is physically unable to confess, the Church accepts the intention and administers Extreme Unction without confession.
 
@@ -32,7 +34,11 @@ A good life is usually an assurance of a happy death. One who has lived all his 
 
 **How should we help a sick person prepare for the Last Sacraments?**
 
-— We should help a sick person prepare for the Last Sacraments both spiritually and corporally. 1. Before the priest arrives we should help the patient get ready for his Confession. Let us say with him acts of contrition, and ejaculations to keep him united with God. 2. The patient's face, hands, and feet should be sponged with a wet towel.
+— We should help a sick person prepare for the Last Sacraments both spiritually and corporally.
+
+1. Before the priest arrives we should help the patient get ready for his Confession. Let us say with him acts of contrition, and ejaculations to keep him united with God.
+
+2. The patient's face, hands, and feet should be sponged with a wet towel.
 
 > There should be ready towards the foot of the bed, to the right, a table with a clean white cloth. On it should be a crucifix, two lighted candles, some holy water, and a glass of fresh water with a tablespoon. There should also be a clean napkin, a saucer with six balls of cotton, and a piece of soft bread, or one or two slices of lemon for the hands of the priest, for wiping off the anointing. A basin of water and a towel should be near by, so the priest can wash his hands after the anointing.
 
@@ -67,7 +73,9 @@ The following is a diagram showing the placing:
 
 **How can we help a dying person?**
 
-— We can help a dying person with prayer. 1. We should kneel near the patient's bed and recite the prayers for the dying, which may be found in most prayer-books. We should suggest to him short ejaculations that he can easily repeat, at least in his mind. We should recite with him especially those prayers which are enriched with plenary indulgences for the hour of death.
+— We can help a dying person with prayer.
+
+1. We should kneel near the patient's bed and recite the prayers for the dying, which may be found in most prayer-books. We should suggest to him short ejaculations that he can easily repeat, at least in his mind. We should recite with him especially those prayers which are enriched with plenary indulgences for the hour of death.
 
 > The Papal benediction with attached plenary indulgence is gained by saying the holy Name of Jesus. If unable to say it, the person must at least think it, and with contrition kiss a blessed crucifix.
 

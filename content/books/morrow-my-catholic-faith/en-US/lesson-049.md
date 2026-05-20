@@ -2,12 +2,14 @@
 
 ![](../images/lesson-049.webp)
 
-When Our Lord said to Peter, "And I will give thee the keys of the kingdom of heaven," He clearly meant: "I will give you supreme authority over My Church. You shall be My representative." The true test of loyalty to Christ is not only to believe in Him and worship Him, but to honour and obey the representatives He has chosen. Our Lord chose St. Peter as His Vicar. It is rebellion against Christ to say to Him: "I will worship You, but I will not recognize Your representative." This is what Christians do, who deny the authority of the successor of Peter.
+*When Our Lord said to Peter, "And I will give thee the keys of the kingdom of heaven," He clearly meant: "I will give you supreme authority over My Church. You shall be My representative." The true test of loyalty to Christ is not only to believe in Him and worship Him, but to honour and obey the representatives He has chosen. Our Lord chose St. Peter as His Vicar. It is rebellion against Christ to say to Him: "I will worship You, but I will not recognize Your representative." This is what Christians do, who deny the authority of the successor of Peter.*
 
 
 **Did Christ give special power in His Church to any one of the Apostles?**
 
-— Christ gave special power in His Church to Peter, by making him the head of the Apostles and the chief teacher and ruler of the entire Church. 1. When Simon, led by his brother Andrew, first met Christ, Our Lord said to him: "Thou art Simon, the son of John; thou shalt be called Cephas" (John 1: 42).
+— Christ gave special power in His Church to Peter, by making him the head of the Apostles and the chief teacher and ruler of the entire Church.
+
+1. When Simon, led by his brother Andrew, first met Christ, Our Lord said to him: "Thou art Simon, the son of John; thou shalt be called Cephas" (John 1: 42).
 
 > Christ spoke in Aramaic, and the original Cephas, or "Kepha" means stone or rock, which we interpret Peter. Our Lord must have some special purpose for having Simon's name changed, particularly as the word Kepha was never used as a proper name then.
 
@@ -42,7 +44,9 @@ As with every well-regulated society, the Church needed a visible head; Christ a
 
 **Did Peter actually exercise his primacy?**
 
-— Yes, Peter actually exercised his primacy, and the other Apostles and the disciples recognized him as the head of the Church. 1. Peter's name always stands first in the lists of Apostles; Iscariot's is always last.
+— Yes, Peter actually exercised his primacy, and the other Apostles and the disciples recognized him as the head of the Church.
+
+1. Peter's name always stands first in the lists of Apostles; Iscariot's is always last.
 
 > St. Matthew even calls Peter the "first Apostle." But he was neither first in age nor in election, for Our Lord had called Andrew, his elder brother, before him. He must therefore have been first in honour and authority.
 

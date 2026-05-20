@@ -2,7 +2,7 @@
 
 ![](../images/lesson-124.webp)
 
-1. The first picture shows Jesus being baptised by St. John the Baptist in the river Jordan, before He began His public life. This baptism was a figure of the sacrament that Christ was to institute later. 2. The Apostles baptised all converts before they were admitted into the Church. On the first Pentecost, three thousand were baptised. Philip, one of the first seven deacons, after instructing the eunuch whom he had met reading the Scriptures, baptised him in a river they were passing.
+*1. The first picture shows Jesus being baptised by St. John the Baptist in the river Jordan, before He began His public life. This baptism was a figure of the sacrament that Christ was to institute later. 2. The Apostles baptised all converts before they were admitted into the Church. On the first Pentecost, three thousand were baptised. Philip, one of the first seven deacons, after instructing the eunuch whom he had met reading the Scriptures, baptised him in a river they were passing.*
 
 
 **What is Baptism?**
@@ -26,7 +26,9 @@
 
 **What are the effects of Baptism?**
 
-— Baptism washes us from original sin, at the same time imparting sanctifying grace into our souls; it makes us Christians, children of God, with a right to the kingdom of heaven. 1. Baptism is the only sacrament that can remit original sin. It cleanses us from all sin, original and actual, and remits all punishment due.
+— Baptism washes us from original sin, at the same time imparting sanctifying grace into our souls; it makes us Christians, children of God, with a right to the kingdom of heaven.
+
+1. Baptism is the only sacrament that can remit original sin. It cleanses us from all sin, original and actual, and remits all punishment due.
 
 > If an adult receives baptism with the proper dispositions, that is, with faith and contrition, his actual sins are taken away with original sin, as well as all temporal punishment due to his actual sins. Thus if an adult dies immediately after baptism, he goes straight to heaven, whatever the sins he may have committed. "He who believes and is baptised shall be saved" (Mark 16: 16).
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-010.webp)
 
-Before printing was invented about 1450, books could be reproduced only by making manuscript copies on parchment or sheepskin. A complete Bible cost a fortune, because of the time and expense necessary for copying. Copyists made mistakes, or abbreviations which others misunderstood. The illustration shows manuscripts in Hebrew, Greek, and Latin, the languages most often used in early Bible copies. They give an idea of the difficulties before the invention of printing.
+*Before printing was invented about 1450, books could be reproduced only by making manuscript copies on parchment or sheepskin. A complete Bible cost a fortune, because of the time and expense necessary for copying. Copyists made mistakes, or abbreviations which others misunderstood. The illustration shows manuscripts in Hebrew, Greek, and Latin, the languages most often used in early Bible copies. They give an idea of the difficulties before the invention of printing.*
 
 
 **Did Christ intend the Gospel to be proclaimed by the circulation of the Bible?**
@@ -30,7 +30,9 @@ Before printing was invented about 1450, books could be reproduced only by makin
 
 **Why cannot the Bible be the sole guide to salvation?**
 
-— It cannot, because: 1. It is not within the reach of every one. If it were the only guide, it should be within the reach of every inquirer, for God wishes all men to be saved.
+— It cannot, because:
+
+1. It is not within the reach of every one. If it were the only guide, it should be within the reach of every inquirer, for God wishes all men to be saved.
 
 > If the Bible were the only guide to eternal salvation, the primitive Christians would have been at a disadvantage, for the books that make up the Bible were gathered together only after the Church was established. Even when the parts were put together, for centuries there were very few manuscript copies. Copies remained few till the invention of printing in the fifteenth century. If the Bible were the only guide to salvation it would be of little help to those unable to read, as well as to the great mass of mankind today, who have neither the knowledge nor the capacity to penetrate the meaning of the written word.
 

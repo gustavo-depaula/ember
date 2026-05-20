@@ -2,14 +2,16 @@
 
 ![](../images/lesson-030.webp)
 
-"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.' When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).
+*"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.' When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).*
 
 (THIRD ARTICLE OF THE APOSTLES' CREED)
 
 
 **What is meant by the Incarnation?**
 
-— By the Incarnation is meant that the Son of God, retaining His Divine nature, took to Himself a human nature, that is, a body and soul like ours. 1. The Incarnation is the greatest act of humility possible. By it the Son of God, eternal, almighty, infinite, voluntarily took upon Himself human nature with its weaknesses. He circumscribed Himself with a human body that would feel sickness and pain, and with a human soul that would cause Him agony.
+— By the Incarnation is meant that the Son of God, retaining His Divine nature, took to Himself a human nature, that is, a body and soul like ours.
+
+1. The Incarnation is the greatest act of humility possible. By it the Son of God, eternal, almighty, infinite, voluntarily took upon Himself human nature with its weaknesses. He circumscribed Himself with a human body that would feel sickness and pain, and with a human soul that would cause Him agony.
 
 > Incarnation means "becoming flesh". Thus the Son of God took a human body and soul and united it to His divine Person. Without ceasing to be God, the Second Person of the Blessed Trinity became man at the same time. The divine nature of Christ is from all eternity. Only His human nature began at the Incarnation.
 
@@ -35,7 +37,9 @@
 
 **When was the Son of God conceived and made man?**
 
-— The Son of God was conceived and made man on Annunciation Day, the day on which the Angel Gabriel announced to the Blessed Virgin Mary that she was to be the Mother of God. 1. In Nazareth of Galilee lived the Blessed Virgin Mary. One day the Archangel Gabriel appeared to her and said: "Hail, full of grace, the Lord is with thee: blessed art thou among women" (Luke 1: 28).
+— The Son of God was conceived and made man on Annunciation Day, the day on which the Angel Gabriel announced to the Blessed Virgin Mary that she was to be the Mother of God.
+
+1. In Nazareth of Galilee lived the Blessed Virgin Mary. One day the Archangel Gabriel appeared to her and said: "Hail, full of grace, the Lord is with thee: blessed art thou among women" (Luke 1: 28).
 
 > Mary was surprised. The angel said: "Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb, and shalt bring forth a Son: and thou shalt call His name Jesus." This event is called the Annunciation commemorated by the feast on March 25.
 
@@ -50,7 +54,9 @@
 
 **Did Jesus Christ have human parents?**
 
-— Jesus Christ had a human mother, the Blessed Virgin Mary, but He had no human father. 1. The Blessed Virgin was Christ's mother as man, but not as God.
+— Jesus Christ had a human mother, the Blessed Virgin Mary, but He had no human father.
+
+1. The Blessed Virgin was Christ's mother as man, but not as God.
 
 > However, the Blessed Virgin is truly the Mother of God, because the humanity and divinity of her Son are inseparable. In a similar way we call our parents mother and father, although they only gave us our body, and not our soul.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-097.webp)
 
-"There arose a new king over Egypt ... and he said to his people: Behold, the people of the children of Israel are numerous and stronger than we. Come, let us wisely oppress them, lest they multiply. ... .Therefore he set over them masters of the works to afflict them with burdens, and they built for Pharaoh cities.... And the Egyptians hated the children of Israel, and afflicted them, and mocked them. And they made their life bitter with hard works in clay, and brick, and with all manner of service, where with they were overcharged in the works of the earth. .. And the Lord said to Moses: I have seen the affliction of my people in Egypt, and I have heard their cry, because of the rigour of them that are over the works" (Ex. 1:8-14; 3:7). God still hears the cry of the oppressed poor.
+*"There arose a new king over Egypt ... and he said to his people: Behold, the people of the children of Israel are numerous and stronger than we. Come, let us wisely oppress them, lest they multiply. ... .Therefore he set over them masters of the works to afflict them with burdens, and they built for Pharaoh cities.... And the Egyptians hated the children of Israel, and afflicted them, and mocked them. And they made their life bitter with hard works in clay, and brick, and with all manner of service, where with they were overcharged in the works of the earth. .. And the Lord said to Moses: I have seen the affliction of my people in Egypt, and I have heard their cry, because of the rigour of them that are over the works" (Ex. 1:8-14; 3:7). God still hears the cry of the oppressed poor.*
 
 
 **What are the sins against hope?**
@@ -12,7 +12,9 @@
 
 **When does a person sin by presumption?**
 
-— A person sins by presumption when he trusts that he can be saved by his own efforts without God's help, or by God's help without his own efforts. 1. One who relies on his own powers, on his friends, or on earthly things more than on God commits presumption. He thus puts his hope on "strange gods" in competition with Almighty God. Such hope is purely human, not supernatural, heavenly, or Christian.
+— A person sins by presumption when he trusts that he can be saved by his own efforts without God's help, or by God's help without his own efforts.
+
+1. One who relies on his own powers, on his friends, or on earthly things more than on God commits presumption. He thus puts his hope on "strange gods" in competition with Almighty God. Such hope is purely human, not supernatural, heavenly, or Christian.
 
 > Such hope is built on sand, as how many have found out to their distress! Peter thought he was strong, and denied his Lord. "It is good to confide in the Lord, rather than to have confidence in man" (Ps. 117: 8). It is this human kind of hope, this presumption, that causes one to expose oneself to occasions of sin, in the belief that one has the strength to resist. "Follow not in thy strength the desires of thy heart: and say not: How mighty am I!" (Ecclus. 5: 2-3).
 
@@ -29,7 +31,9 @@ Our Lord said clearly, "Seek first the kingdom of God and his justice, and all t
 
 **When does a person sin by despair?**
 
-— A person sins by despair when he deliberately refuses to trust that God will give him the necessary help to save his soul. 1. Despair is an abandonment of all hope for obtaining eternal salvation and the means of attaining it. Despair is wicked, because it is a denial of the goodness of God, and His willingness to forgive.
+— A person sins by despair when he deliberately refuses to trust that God will give him the necessary help to save his soul.
+
+1. Despair is an abandonment of all hope for obtaining eternal salvation and the means of attaining it. Despair is wicked, because it is a denial of the goodness of God, and His willingness to forgive.
 
 > Cain was guilty of this sin when he cried out after murdering his brother Abel, "My sin is too great to be forgiven" (Gen. 4:13). He is guilty of despair who believes he cannot resist certain temptations, overcome certain sins, or amend his life. Despair results in temporal as well as spiritual evil, because often those in despair commit suicide, as Judas did.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-005.webp)
 
-Many people make themselves miserable worrying over the future. They should have more trust in Divine Providence. Let them do the best they can, and leave the rest to God, Who cares for them. Our Lord said, "Look at the birds of the air: they do not sow, or reap, or gather into barns; yet your heavenly Father feeds them. Are not you of much more value than they? ... Therefore do not be anxious, saying, 'What shall we eat?' or, 'What shall we drink?' or, 'What are we to put on?' for your Father knows that you need all these things. But seek first the kingdom of God and his justice, and all these things shall be given you besides" (Matt. 6: 26-33).
+*Many people make themselves miserable worrying over the future. They should have more trust in Divine Providence. Let them do the best they can, and leave the rest to God, Who cares for them. Our Lord said, "Look at the birds of the air: they do not sow, or reap, or gather into barns; yet your heavenly Father feeds them. Are not you of much more value than they? ... Therefore do not be anxious, saying, 'What shall we eat?' or, 'What shall we drink?' or, 'What are we to put on?' for your Father knows that you need all these things. But seek first the kingdom of God and his justice, and all these things shall be given you besides" (Matt. 6: 26-33).*
 
 
 **Does God see us?**
 
-— God sees us, and watches over us with loving care. 1. God preserves and governs the world. If He were to take away for one instant His sustaining power, the whole creation would at once fall back into nothingness.
+— God sees us, and watches over us with loving care.
+
+1. God preserves and governs the world. If He were to take away for one instant His sustaining power, the whole creation would at once fall back into nothingness.
 
 > It is as if He held us in His hand. If He withdrew it for a moment, we would be nothing. "When thou shalt take away their breath, they shall die, and return again to the dust" (Ps. 103: 29)
 
@@ -18,7 +20,9 @@ Many people make themselves miserable worrying over the future. They should have
 
 **What is God's loving care for us called?**
 
-— God's loving care for us is called Divine Providence, His plan for guiding creatures to their proper end. 1. Divine Providence is good, constant, and just. It watches over even the humblest and most despised creature on earth.
+— God's loving care for us is called Divine Providence, His plan for guiding creatures to their proper end.
+
+1. Divine Providence is good, constant, and just. It watches over even the humblest and most despised creature on earth.
 
 > Of the paternal tenderness of God, Holy Scripture speaks thus: "Can a woman forget her infant, so as not to have pity on the son of her womb? And if she should forget, yet will not I forget thee. Behold, I have graven thee in my hands; thy walls are always before my eyes" (Is. 49: 15,16).
 
@@ -52,7 +56,9 @@ Many people make themselves miserable worrying over the future. They should have
 
 **If Divine Providence is just, why do the good often suffer misfortunes, and the wicked enjoy prosperity and honours?**
 
-— The misfortunes and satisfactions of the world are not real and lasting, and cannot gauge God's justice. 1. No sinner has true happiness; his conscience will not give him inner peace. Riches, honour, and pleasures can never give peace to the spirit. On the other hand, no lover of God has true misery, for he possesses inner peace and a good conscience. Real reward and punishment begin only after death.
+— The misfortunes and satisfactions of the world are not real and lasting, and cannot gauge God's justice.
+
+1. No sinner has true happiness; his conscience will not give him inner peace. Riches, honour, and pleasures can never give peace to the spirit. On the other hand, no lover of God has true misery, for he possesses inner peace and a good conscience. Real reward and punishment begin only after death.
 
 > On earth, sinners are rewarded for whatever good they do. Their good fortune lasts only for this life. The just are punished on earth for whatever sins they may have committed. Their reward is full in the other life.
 
@@ -63,7 +69,9 @@ Many people make themselves miserable worrying over the future. They should have
 
 **Is God responsible for sin?**
 
-— God is not responsible for sin; sin is the result of man's wrong use of his free will. 1. God does not will or cause sin; He forbids it and will punish the sinner. He permits sin for His own reasons, to sanctify the good, by trying them and giving them opportunities for more faithful obedience.
+— God is not responsible for sin; sin is the result of man's wrong use of his free will.
+
+1. God does not will or cause sin; He forbids it and will punish the sinner. He permits sin for His own reasons, to sanctify the good, by trying them and giving them opportunities for more faithful obedience.
 
 > God created man free to choose good or evil. He wishes us to choose good, in order that we may merit heaven. But since we are free, we can, if we so wish, choose evil. God is not responsible for our sins.
 

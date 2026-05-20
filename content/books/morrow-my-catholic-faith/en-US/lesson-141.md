@@ -2,12 +2,14 @@
 
 ![](../images/lesson-141.webp)
 
-In all parts of the world, Jesus Christ is truly and substantially present in the most Blessed Sacrament of the altar. Wherever we go, we can pay Our Lord a visit in the Blessed Sacrament. Wherever we go, we can receive Our Lord corporally in Holy Communion, to refresh and sustain our souls. When we visit a town or city, we should first of all pay a visit to our Eucharistic Lord.
+*In all parts of the world, Jesus Christ is truly and substantially present in the most Blessed Sacrament of the altar. Wherever we go, we can pay Our Lord a visit in the Blessed Sacrament. Wherever we go, we can receive Our Lord corporally in Holy Communion, to refresh and sustain our souls. When we visit a town or city, we should first of all pay a visit to our Eucharistic Lord.*
 
 
 **What is Holy Communion?**
 
-— Holy Communion is the receiving of Jesus Christ in the sacrament of the Holy Eucharist. 1. "Communion" means a uniting or sharing together. In Holy Communion, Christ and our soul are intimately united, and we share the banquet of the Lord's table.
+— Holy Communion is the receiving of Jesus Christ in the sacrament of the Holy Eucharist.
+
+1. "Communion" means a uniting or sharing together. In Holy Communion, Christ and our soul are intimately united, and we share the banquet of the Lord's table.
 
 > When Napoleon the Great was at the height of his power, one of his generals asked him once what had been the happiest day of his life. Expecting to hear the Emperor name a great battle, the general was surprised to hear him say, "My happiest day was the day of my first Holy Communion, for then I was brought nearest to my God."
 
@@ -26,7 +28,9 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 **When are we obliged to receive Holy Communion?**
 
-— We are obliged to receive Holy Communion during Easter time each year, and when in danger of death. 1. Our Lord commanded us to receive Holy Communion. The Church enforces this command by requiring us under pain of grievous sin to communicate at the Easter time.
+— We are obliged to receive Holy Communion during Easter time each year, and when in danger of death.
+
+1. Our Lord commanded us to receive Holy Communion. The Church enforces this command by requiring us under pain of grievous sin to communicate at the Easter time.
 
 > This is called the Paschal Communion, part of our Easter duty. However, the Church desires us to go more frequently to Holy Communion.
 
@@ -43,7 +47,9 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 **Why is it well to receive Holy Communion often, even daily?**
 
-— It is well to receive Holy Communion often, even daily, because this intimate union with Jesus Christ, the Source of all holiness and the Giver of all graces, is the greatest aid to a holy life. 1. Good Catholics should go to Holy Communion at least once a month, or better, every time they hear Mass. Fervent Catholics communicate daily. If the body cannot do without food, how can the soul?
+— It is well to receive Holy Communion often, even daily, because this intimate union with Jesus Christ, the Source of all holiness and the Giver of all graces, is the greatest aid to a holy life.
+
+1. Good Catholics should go to Holy Communion at least once a month, or better, every time they hear Mass. Fervent Catholics communicate daily. If the body cannot do without food, how can the soul?
 
 > A young man once was known to be extremely attached to his father. Several times he asserted that there was nothing he would not do for his father. He even said that if necessary, he would die for his father, just to please him. One day, a friend said, "Your father is in the next room, waiting to see you. He has waited there a long time." And the young man answered, "Oh, I am too busy. I just saw him last week. Let him wait a year; then I shall visit him." What would you think of such a young man? He is the type of many Catholics today, who receive Communion only at Easter.
 

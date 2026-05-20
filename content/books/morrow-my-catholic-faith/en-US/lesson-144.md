@@ -2,7 +2,7 @@
 
 ![](../images/lesson-144.webp)
 
-The picture shows Our Lord instituting the sacrament of Penance on the first Easter Sunday night. He breathed on the Apostles and said: "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 23). Our Lord had previously promised Peter the right to forgive sins, saying: "And I will give thee the keys of the kingdom of heaven; and whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).
+*The picture shows Our Lord instituting the sacrament of Penance on the first Easter Sunday night. He breathed on the Apostles and said: "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 23). Our Lord had previously promised Peter the right to forgive sins, saying: "And I will give thee the keys of the kingdom of heaven; and whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).*
 
 
 **What is the sacrament of Penance?**
@@ -11,7 +11,11 @@ The picture shows Our Lord instituting the sacrament of Penance on the first Eas
 
 > Penance prompts the sinner to detest his sins, and incites him to offer satisfaction for them, and to amend his life in the future.
 
-1. Penance has the three essentials of a sacrament. (a) It is a sensible sign; i. e. the words of absolution with the act of confession.
+1. Penance has the three essentials of a sacrament. (a) It is a sensible sign;
+
+i.
+
+e. the words of absolution with the act of confession.
 
 > Our Lord promised to give Peter the power to forgive sins, saying to him, "And whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19). Christ later made the same promise to the other Apostles, saying, "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 18).
 
@@ -59,7 +63,9 @@ St. John said in encouragement: "My dear children, these things I write to you i
 
 **Can all priests administer the sacrament of Penance?**
 
-— No; only those priests authorized to do so can administer the sacrament of Penance. 1. The bishop gives authority (called "the faculties") to hear confessions in his diocese. Certain grave sins are reserved to the Pope or the bishop for absolution. These are called "reserved cases": as when one joins Masonry, gets married before a non-Catholic minister, or desecrates a sacred Host.
+— No; only those priests authorized to do so can administer the sacrament of Penance.
+
+1. The bishop gives authority (called "the faculties") to hear confessions in his diocese. Certain grave sins are reserved to the Pope or the bishop for absolution. These are called "reserved cases": as when one joins Masonry, gets married before a non-Catholic minister, or desecrates a sacred Host.
 
 > A priest authorized in one diocese must get the faculties in order to hear confessions in any other diocese. Priests are like civil magistrates, who cannot pass sentence on all cases, but only on those for which they have jurisdiction.
 

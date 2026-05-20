@@ -2,12 +2,14 @@
 
 ![](../images/lesson-172.webp)
 
-From St. Paul we learn what armour to wear in our struggle for Christian perfection: "Put on the armour of God, that you may be able to stand against the wiles of the devil. ... Stand, therefore, having girded your loins with truth, and having put on the breastplate of justice, and having your feet shod with the readiness of the gospel of peace, in all things taking up the shield of faith, with which you may be able to quench all the fiery darts of the most wicked one. And take unto you the helmet of salvation and the sword of the spirit, that is, the word of God" (Ephes. 6: 11-17).
+*From St. Paul we learn what armour to wear in our struggle for Christian perfection: "Put on the armour of God, that you may be able to stand against the wiles of the devil. ... Stand, therefore, having girded your loins with truth, and having put on the breastplate of justice, and having your feet shod with the readiness of the gospel of peace, in all things taking up the shield of faith, with which you may be able to quench all the fiery darts of the most wicked one. And take unto you the helmet of salvation and the sword of the spirit, that is, the word of God" (Ephes. 6: 11-17).*
 
 
 **Should we be satisfied merely to keep the commandments of God?**
 
-— We should not be satisfied merely to keep the commandments of God, but should always be ready to do good deeds, even when they are not commanded. 1. If we only give God what He commands us to give, we would be doing only what is absolutely necessary. In such a case, we would go to church only once a week, plus six holydays of obligation a year; we would go to Confession only once a year, and receive Holy Communion only during the Easter Time. By doing these things and avoiding all serious violation of the Commandments, we would still be obeying God and keeping ourselves from mortal sin and saving our souls.
+— We should not be satisfied merely to keep the commandments of God, but should always be ready to do good deeds, even when they are not commanded.
+
+1. If we only give God what He commands us to give, we would be doing only what is absolutely necessary. In such a case, we would go to church only once a week, plus six holydays of obligation a year; we would go to Confession only once a year, and receive Holy Communion only during the Easter Time. By doing these things and avoiding all serious violation of the Commandments, we would still be obeying God and keeping ourselves from mortal sin and saving our souls.
 
 > What would you think of a child who gives to his parents only what is demanded of him? What would you think of him if he never showed them any affection, never did anything extra for them to show his love and gratitude? We would say he is an abnormal son, an unnatural child.
 

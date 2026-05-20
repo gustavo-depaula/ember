@@ -7,7 +7,9 @@
 
 **What was the end of the leaders of persecution, schism, and heresy?**
 
-— Many of the leaders of persecution, schism, and heresy came to a bad end. 1. Of the first persecutors, several died violent deaths. The death of Judas is the type for his imitators. It is related that:
+— Many of the leaders of persecution, schism, and heresy came to a bad end.
+
+1. Of the first persecutors, several died violent deaths. The death of Judas is the type for his imitators. It is related that:
 
 > Herod, the murderer of the Holy Innocents, died in unspeakable tortures. Herod, the murderer of James the Apostle, was devoured by worms.
 
@@ -51,7 +53,9 @@
 
 **What should be the attitude of Catholics towards those who do not belong to the True Church?**
 
-— Catholics should observe an attitude of understanding towards them, because the majority of those who do not belong to the True Church are in good faith. 1. Catholic teachings are not easy to understand at first sight; many Catholic practices require sacrifice. Towards such a religion there is bound to be prejudice.
+— Catholics should observe an attitude of understanding towards them, because the majority of those who do not belong to the True Church are in good faith.
+
+1. Catholic teachings are not easy to understand at first sight; many Catholic practices require sacrifice. Towards such a religion there is bound to be prejudice.
 
 > To be obliged to go to Mass every Sunday under pain of mortal sin; to have to confess to a priest, who is another human being like ourselves; to condemn divorce and birth control; to observe fasts and abstinence; these are not easy doctrines.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-018.webp)
 
-Our first parents were perfectly happy in Paradise. If they had not sinned, they would never have died or suffered from sickness and sorrow. When the time came for their leaving the earth, they would have been taken body and soul to Heaven. The tree of life grew in Paradise. By eating of its fruit Adam and Eve were preserved from death, sickness, and all manner of weakness of the body. All these gifts were lost as a punishment of the sin our first parents committed.
+*Our first parents were perfectly happy in Paradise. If they had not sinned, they would never have died or suffered from sickness and sorrow. When the time came for their leaving the earth, they would have been taken body and soul to Heaven. The tree of life grew in Paradise. By eating of its fruit Adam and Eve were preserved from death, sickness, and all manner of weakness of the body. All these gifts were lost as a punishment of the sin our first parents committed.*
 
 
 **Who were the first man and woman?**
 
-— The first man and woman were Adam and Eve, the first parents of the whole human race. 1. God made Adam's body out of the slime of the earth, and breathed an immortal soul into it (Gen. 2: 7). God then cast a deep sleep upon Adam, and taking one of his ribs formed it into Eve (Gen. 2: 22).
+— The first man and woman were Adam and Eve, the first parents of the whole human race.
+
+1. God made Adam's body out of the slime of the earth, and breathed an immortal soul into it (Gen. 2: 7). God then cast a deep sleep upon Adam, and taking one of his ribs formed it into Eve (Gen. 2: 22).
 
 > Adam's body was formed from the earth. But his soul was immediately created out of nothing by the almighty power of God. The soul of every person is created in this way. We do not inherit our soul from our parents; it comes directly from the hand of God at the same moment that we receive life.
 
@@ -26,7 +28,9 @@ b. Emotionally and intellectually all races are the same.
 
 **What was the chief gift bestowed on Adam and Eve by God?**
 
-— The chief gift bestowed on Adam and Eve by God was sanctifying grace, which made them children of God and gave them the right to heaven. 1. God created Adam and Eve in the state of innocence and holiness. This made them pleasing to God, and full of love for Him. It made them children of God, and therefore heirs of heaven. This state of innocence we term "sanctifying grace."
+— The chief gift bestowed on Adam and Eve by God was sanctifying grace, which made them children of God and gave them the right to heaven.
+
+1. God created Adam and Eve in the state of innocence and holiness. This made them pleasing to God, and full of love for Him. It made them children of God, and therefore heirs of heaven. This state of innocence we term "sanctifying grace."
 
 > "God filled them with wisdom and the knowledge of understanding. ... He created in them the science of the spirit, he filled their heart with wisdom. ... And their eye saw the majesty of his glory, and their ears heard his glorious voice" (Ecclus. 17: 6,11).
 
@@ -60,7 +64,9 @@ b. Emotionally and intellectually all races are the same.
 
 **What commandment did God give Adam and Eve?**
 
-— God gave Adam and Eve the commandment not to eat of the fruit of a certain tree that grew in the garden of Paradise. 1. God wanted Adam as head and representative of the human race to merit heaven. And so, after granting him His abiding grace, and blessing him with wonderful gifts, and giving him the Garden of Paradise to live in, He commanded him not to eat of the fruit of a certain tree.
+— God gave Adam and Eve the commandment not to eat of the fruit of a certain tree that grew in the garden of Paradise.
+
+1. God wanted Adam as head and representative of the human race to merit heaven. And so, after granting him His abiding grace, and blessing him with wonderful gifts, and giving him the Garden of Paradise to live in, He commanded him not to eat of the fruit of a certain tree.
 
 > "Of every tree of Paradise thou shalt eat: but of the tree of knowledge of good and evil thou shalt not eat; for in what day soever thou shalt eat of it, thou shalt die the death" (Gen. 2: 16,17). The fruit of the forbidden tree was not evil in itself, for in Paradise, God did not place anything bad. It was bad only because it was forbidden; and if Adam and Eve partook of it, they would have disobeyed God.
 

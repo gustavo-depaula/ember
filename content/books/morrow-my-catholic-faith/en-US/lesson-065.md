@@ -40,7 +40,9 @@ The pages of history are filled with the names of Catholics outstanding in liter
 
 **Of what benefit is the Church to the State?**
 
-— The Church is essential for the welfare of the State, for it upholds the government, directs its members to obey just laws, prevents crimes, incites to the practice of civic virtues, encourages to noble endeavour, and unites different nations in one brotherhood. 1. There is no better citizen than a good Catholic. He obeys the State because his religion teaches him that all lawful authority comes from God.
+— The Church is essential for the welfare of the State, for it upholds the government, directs its members to obey just laws, prevents crimes, incites to the practice of civic virtues, encourages to noble endeavour, and unites different nations in one brotherhood.
+
+1. There is no better citizen than a good Catholic. He obeys the State because his religion teaches him that all lawful authority comes from God.
 
 > Who can be a more law-abiding citizen than one who looks upon civil officials as superiors that God Himself bids him obey? Plutarch says that religion is a better protection for a city than its walls.
 

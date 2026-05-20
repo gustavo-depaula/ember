@@ -2,7 +2,7 @@
 
 ![](../images/lesson-170.webp)
 
-Those who enter matrimony should imitate the good dispositions of Tobias and Sara (3), who began their married life with prayer, and lived each day in the presence of God. Before receiving the sacrament of matrimony, the couple should make a very good confession (1), in order to be in the state of grace. At the Nuptial Mass, they should receive Our Lord (2), so that He may honour their wedding with His Divine Presence.
+*Those who enter matrimony should imitate the good dispositions of Tobias and Sara (3), who began their married life with prayer, and lived each day in the presence of God. Before receiving the sacrament of matrimony, the couple should make a very good confession (1), in order to be in the state of grace. At the Nuptial Mass, they should receive Our Lord (2), so that He may honour their wedding with His Divine Presence.*
 
 
 **What should a couple do who have decided to get married?**
@@ -39,7 +39,9 @@ Those who enter matrimony should imitate the good dispositions of Tobias and Sar
 
 **What does the marriage ceremony include?**
 
-— In its fullness, the marriage ceremony includes: the nuptial contract, the nuptial Mass, and the nuptial blessing. 1. Matrimony is both a sacrament and a contract. In all other sacraments, the ordinary minister is of the clergy; in Matrimony, because it is a contract, the ministers are the parties concerned, the bride and groom.
+— In its fullness, the marriage ceremony includes: the nuptial contract, the nuptial Mass, and the nuptial blessing.
+
+1. Matrimony is both a sacrament and a contract. In all other sacraments, the ordinary minister is of the clergy; in Matrimony, because it is a contract, the ministers are the parties concerned, the bride and groom.
 
 > When the man and woman first offer themselves to each other for marriage, the first condition of a contract is fulfilled. When the offer is accepted, the second condition is fulfilled. And in the ceremony of Matrimony, when the man and woman give free and mutual consent, the contract is sealed. The contract is consummated when the rights mutually exchanged are first exercised.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-184.webp)
 
-1. "The angel Gabriel was sent from God to a town of Galilee, called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And he said. Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 27-28).
+*1. "The angel Gabriel was sent from God to a town of Galilee, called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And he said. Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 27-28).*
 
 2. Mary went to visit her cousin Elizabeth: "And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying. Blessed art thou among women and blessed is the fruit of thy womb" (Luke 1: 41-42). When we pray the "Hail Mary," these two beautiful events come to mind.
 
@@ -14,7 +14,9 @@
 
 **What is the first part of the Hail Mary?**
 
-— The first part of the Hail Mary is: "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus." 1. The first part of the Hail Mary is a prayer of praise. It is composed of (a) the words of the Archangel Gabriel to Mary; and (b) the words of St. Elizabeth to Mary. Because the prayer begins with the words of the Angel, the "Hail Mary" is in English termed the Angelical Salutation. It is called *Ave Maria* in Latin.
+— The first part of the Hail Mary is: "Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus."
+
+1. The first part of the Hail Mary is a prayer of praise. It is composed of (a) the words of the Archangel Gabriel to Mary; and (b) the words of St. Elizabeth to Mary. Because the prayer begins with the words of the Angel, the "Hail Mary" is in English termed the Angelical Salutation. It is called *Ave Maria* in Latin.
 
 > The angel Gabriel said: "Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 28). The words of St. Elizabeth are "Blessed art thou among women, and blessed is the fruit of thy womb" (Luke 1: 42).
 
@@ -41,7 +43,9 @@
 
 **What is the second part of the Hail Mary?**
 
-— The second part of the Hail Mary is: "Holy Mary, Mother of God, pray for us sinners now and at the hour of our death." 1. The second part of the Hail Mary is a prayer of petition and was composed by the Church. In it we entreat Mary's intercession.
+— The second part of the Hail Mary is: "Holy Mary, Mother of God, pray for us sinners now and at the hour of our death."
+
+1. The second part of the Hail Mary is a prayer of petition and was composed by the Church. In it we entreat Mary's intercession.
 
 > Mary, of all human beings, shared most in the bitter sufferings of her Son for the salvation of men. She cannot be deaf to our petitions to help us attain eternal salvation. She knows what her Son suffered for us.
 
@@ -63,7 +67,9 @@
 
 **What is the "Angelus"?**
 
-— The *Angelus* is a prayer recited morning, noon, and evening, in honour of Mary and of the mystery of the Incarnation. 1. This prayer is called the *Angelus*, because its first word in Latin is "*Angelus*" meaning Angel. In the Easter season, the *Regina Coeli* is substituted for the *Angelus*; both prayers are richly indulgenced.
+— The *Angelus* is a prayer recited morning, noon, and evening, in honour of Mary and of the mystery of the Incarnation.
+
+1. This prayer is called the *Angelus*, because its first word in Latin is "*Angelus*" meaning Angel. In the Easter season, the *Regina Coeli* is substituted for the *Angelus*; both prayers are richly indulgenced.
 
 > The custom of ringing the bell for the *Angelus* dates from the eleventh century, during the Crusades, to admonish the faithful to pray for the victory of the crusaders.
 

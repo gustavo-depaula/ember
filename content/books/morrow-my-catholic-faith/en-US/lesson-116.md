@@ -2,7 +2,7 @@
 
 ![](../images/lesson-116.webp)
 
-1. The greatest calumnies were spoken when false witnesses testified against Jesus before Caiphas. The high priest gave ear to the calumnies and condemned Our Lord to death, although he knew Him to be innocent.
+*1. The greatest calumnies were spoken when false witnesses testified against Jesus before Caiphas. The high priest gave ear to the calumnies and condemned Our Lord to death, although he knew Him to be innocent.*
 
 2. People who gossip and spread tales that detract from the reputation of someone have much to answer for. "Brethren, do not speak against one another. He who speaks against a brother, or judges his brother, speaks against the law and judges the law" (Jas. 4: 11).
 
@@ -31,7 +31,9 @@
 
 **When does a person commit the sin of detraction?**
 
-— A person commits the sin of detraction when, without good reason, he makes known the hidden faults of another. 1. To speak of what everybody knows or of what appeared in the newspapers is not detraction. It is however contemptible for newspapers to publish family troubles that are of no public concern.
+— A person commits the sin of detraction when, without good reason, he makes known the hidden faults of another.
+
+1. To speak of what everybody knows or of what appeared in the newspapers is not detraction. It is however contemptible for newspapers to publish family troubles that are of no public concern.
 
 > Tale-bearing is a most despicable form of detraction. It consists in repeating to a person unfavourable remarks made about him.
 
@@ -49,7 +51,11 @@
 
 **When are we obliged to keep a secret?**
 
-— We are obliged to keep a secret when we have promised to do so, when our office requires it, or when the good of another demands it. 1. A priest may never reveal anything confided to him in confession, even if keeping it secret will result in death for himself or others. This rule has no exception. 2. A secret may be revealed when: (a) it is for the good of the guilty person; (b) it will save ourselves or others from evil; (c) keeping it secret is against justice or the welfare of society; and (d) the person to whom it is revealed has a right to know.
+— We are obliged to keep a secret when we have promised to do so, when our office requires it, or when the good of another demands it.
+
+1. A priest may never reveal anything confided to him in confession, even if keeping it secret will result in death for himself or others. This rule has no exception.
+
+2. A secret may be revealed when: (a) it is for the good of the guilty person; (b) it will save ourselves or others from evil; (c) keeping it secret is against justice or the welfare of society; and (d) the person to whom it is revealed has a right to know.
 
 > When there is just reason for revealing a secret, we may do so to persons in authority, such as parents, superiors, teachers, or courts of law. Serious faults should be made known to parents, teachers, and superiors, who may be able to correct them. Care should be taken to avoid exaggerating faults.
 
@@ -58,7 +64,9 @@
 
 **What must a person do who has sinned by detraction or calumny, or has told a secret he is bound to keep?**
 
-— A person who has sinned by detraction or calumny, or who has told a secret he is bound to keep, must repair the harm he has done to his neighbour, as far as he is able. 1. If the offence was made in private, we must apologize, and take back what we said.
+— A person who has sinned by detraction or calumny, or who has told a secret he is bound to keep, must repair the harm he has done to his neighbour, as far as he is able.
+
+1. If the offence was made in private, we must apologize, and take back what we said.
 
 > If the offence was made before others, we must retract publicly. If we do not endeavour to repair the harm we have done, we cannot obtain God's pardon or the priest's absolution.
 

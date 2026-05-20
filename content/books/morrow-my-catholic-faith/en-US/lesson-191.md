@@ -2,12 +2,14 @@
 
 ![](../images/lesson-191.webp)
 
-It is not possible for all to go to distant missions to win souls for Christ, but one can always help by prayers and alms. Those who thus assist missionaries in their apostolic labors will be rewarded. Holy Scripture says: "Equal shall be the portion of him that went down to battle and of him that abode at the baggage; and they shall divide alike" (1 Kings 30: 24).
+*It is not possible for all to go to distant missions to win souls for Christ, but one can always help by prayers and alms. Those who thus assist missionaries in their apostolic labors will be rewarded. Holy Scripture says: "Equal shall be the portion of him that went down to battle and of him that abode at the baggage; and they shall divide alike" (1 Kings 30: 24).*
 
 
 **How can we help the missions?**
 
-— We can help the missions: 1. By praying for the missions home and foreign, and for missionaries that they may fulfil the command of Christ: "Go, therefore, and make disciples of all nations."
+— We can help the missions:
+
+1. By praying for the missions home and foreign, and for missionaries that they may fulfil the command of Christ: "Go, therefore, and make disciples of all nations."
 
 > We should include in our particular petitions each day a fervent prayer for missions and missionaries; they are the vanguard of God, making Christ known in regions darkened by paganism. "Pray therefore the Lord of the harvest, to send forth labourers into his harvest" (Luke 10:2).
 
@@ -26,7 +28,9 @@ It is not possible for all to go to distant missions to win souls for Christ, bu
 
 **Which are the different official Church organizations intended to promote and to collect means for the propagation of the Faith?**
 
-— The following are the most important organizations: 1. The Pontifical Society for the Propagation of the Faith.
+— The following are the most important organizations:
+
+1. The Pontifical Society for the Propagation of the Faith.
 
 > This Society aids missionaries at home and in foreign fields by means of prayers and the collection of alms. All money collected is distributed by the central office in Rome. The only conditions for membership are:
 

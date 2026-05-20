@@ -2,7 +2,7 @@
 
 ![](../images/lesson-054.webp)
 
-In spite of all kinds of persecutions, the Church, under the guidance of the Holy Ghost, has continued to spread all over the world. It has obeyed strictly the command of Our Lord to the Apostles: "Go and make disciples of all nations." Everywhere men have listened to its voice, believing the warning of Christ, "He that believeth not shall be condemned."
+*In spite of all kinds of persecutions, the Church, under the guidance of the Holy Ghost, has continued to spread all over the world. It has obeyed strictly the command of Our Lord to the Apostles: "Go and make disciples of all nations." Everywhere men have listened to its voice, believing the warning of Christ, "He that believeth not shall be condemned."*
 
 
 **Give a short summary of the history of the Church for the last two thousand years of its existence**

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-040.webp)
 
-The case of Saul of Tarsus is one of the most wonderful instances of cooperation with God's grace. Saul of Tarsus was one of the most active persecutors of the early Christians. On the way to Damascus to arrest Christians, Saul was struck down by a brilliant light, and heard a voice say: "Saul, Saul, why dost thou persecute me?" Saul asked, "Who art thou, Lord?" And Jesus answered, "I am Jesus, whom thou art persecuting." Saul immediately grasped at grace, and asked, "Lord, what wilt thou have me do?" From then on he turned his back on his former life, and belonged completely to Christ, till as the incomparable Apostle Paul he was martyred in Rome.
+*The case of Saul of Tarsus is one of the most wonderful instances of cooperation with God's grace. Saul of Tarsus was one of the most active persecutors of the early Christians. On the way to Damascus to arrest Christians, Saul was struck down by a brilliant light, and heard a voice say: "Saul, Saul, why dost thou persecute me?" Saul asked, "Who art thou, Lord?" And Jesus answered, "I am Jesus, whom thou art persecuting." Saul immediately grasped at grace, and asked, "Lord, what wilt thou have me do?" From then on he turned his back on his former life, and belonged completely to Christ, till as the incomparable Apostle Paul he was martyred in Rome.*
 
 
 **What is actual grace?**
@@ -22,7 +22,9 @@ The case of Saul of Tarsus is one of the most wonderful instances of cooperation
 
 **Is actual grace necessary for all who have attained the use of reason?**
 
-— Actual grace is necessary for all who have attained the use of reason, because without it, we cannot long resist the power of temptation, nor perform other actions which merit a reward in heaven. 1. We all need actual grace. Sinners need it to rise from sin. The just need it to persevere in good. Without grace, we fall into sin.
+— Actual grace is necessary for all who have attained the use of reason, because without it, we cannot long resist the power of temptation, nor perform other actions which merit a reward in heaven.
+
+1. We all need actual grace. Sinners need it to rise from sin. The just need it to persevere in good. Without grace, we fall into sin.
 
 > Herod was offered actual grace when he heard of the birth of the Messias from the three wise men; but Herod rejected the grace, and added to his sins.
 
@@ -48,7 +50,9 @@ The case of Saul of Tarsus is one of the most wonderful instances of cooperation
 
 **Can we resist the grace of God?**
 
-— Unfortunately, we can resist the grace of God, for our will is free, and God does not force us to accept His grace. 1. Grace does not force us. It leaves us free to choose between good and evil. The Holy Ghost guides and enlightens, but we can still close our eyes to His grace. If we cooperate, we gain other graces.
+— Unfortunately, we can resist the grace of God, for our will is free, and God does not force us to accept His grace.
+
+1. Grace does not force us. It leaves us free to choose between good and evil. The Holy Ghost guides and enlightens, but we can still close our eyes to His grace. If we cooperate, we gain other graces.
 
 > As Christ said, "For to him who has shall be given, and he shall have abundance" (Matt. 13: 12). He who persists in rejecting the gift of God's grace and refuses to be converted will die in his sin and will be forever excluded from the sight of God. "From him who does not have, even that which he seems to have shall be taken away. But as for the unprofitable servant, cast him forth into the darkness outside, where there will be the weeping, and the gnashing of teeth" (Matt. 25: 29-30). Would it not be an insult to a king if he keeps offering gifts to one of his people, and these gifts are despised?
 
@@ -59,7 +63,9 @@ The case of Saul of Tarsus is one of the most wonderful instances of cooperation
 
 **How can we make our most ordinary actions merit a heavenly reward?**
 
-— We can make our most ordinary actions merit a heavenly reward by doing them for the love of God, and by keeping ourselves in the state of grace. 1. God grants us the right to a heavenly reward for the most ordinary good actions in the supernatural order, provided we are in the state of grace. God does not ask us to do extraordinary things. If we do the most ordinary tasks of the day, like cooking, studying, doing small chores, carpentry work, sewing, and such, in a spirit of love and obedience to Him, our acts will deserve merit before God's eyes.
+— We can make our most ordinary actions merit a heavenly reward by doing them for the love of God, and by keeping ourselves in the state of grace.
+
+1. God grants us the right to a heavenly reward for the most ordinary good actions in the supernatural order, provided we are in the state of grace. God does not ask us to do extraordinary things. If we do the most ordinary tasks of the day, like cooking, studying, doing small chores, carpentry work, sewing, and such, in a spirit of love and obedience to Him, our acts will deserve merit before God's eyes.
 
 > God does not expect all of us to be great scientists saving thousands of lives each day, great discoverers, great lawyers, great statesmen. Does God need our help? All He wants is our love; and this we can give in the most ordinary daily actions. "Whether you eat or drink, or whatever else you do, do all to the glory of God."
 

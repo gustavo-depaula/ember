@@ -2,7 +2,7 @@
 
 ![](../images/lesson-127.webp)
 
-The ceremonies of Confirmation begin by the Bishop extending his hands over those to be confirmed (1), invoking the Holy Ghost. He signs with the sign of the cross the forehead of each separately with chrism (2), pronouncing the words of confirmation. He gives the person a slight slap on the cheek (3) to remind him to be ready to suffer all things, even death, for his faith.
+*The ceremonies of Confirmation begin by the Bishop extending his hands over those to be confirmed (1), invoking the Holy Ghost. He signs with the sign of the cross the forehead of each separately with chrism (2), pronouncing the words of confirmation. He gives the person a slight slap on the cheek (3) to remind him to be ready to suffer all things, even death, for his faith.*
 
 
 **What is Confirmation?**
@@ -70,7 +70,9 @@ The ceremonies of Confirmation begin by the Bishop extending his hands over thos
 
 **What are the effects of Confirmation?**
 
-— Confirmation increases sanctifying grace, gives its special sacramental grace, and imprints a lasting character on the soul. 1. Confirmation creates within us a spirit of meekness. It increases our love of God and our neighbour. It enlightens our understanding, strengthens our will, preserves our soul from sin, and inclines our heart to virtue. The sacramental grace of Confirmation helps us to live our faith loyally and to profess it courageously.
+— Confirmation increases sanctifying grace, gives its special sacramental grace, and imprints a lasting character on the soul.
+
+1. Confirmation creates within us a spirit of meekness. It increases our love of God and our neighbour. It enlightens our understanding, strengthens our will, preserves our soul from sin, and inclines our heart to virtue. The sacramental grace of Confirmation helps us to live our faith loyally and to profess it courageously.
 
 > As Baptism makes us temples of the Holy Ghost, Confirmation gives us the plenitude of His graces.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-007.webp)
 
-Divine Revelation comes down to us by two means: through Holy Scripture, written down under divine inspiration, and through Tradition, handed down orally from Apostolic times. We read the Bible with great respect, for it is the Word of God. We treat Tradition with as great reverence, for God speaks through Tradition as well. It is wrong to believe the Bible alone without Tradition. That is like believing the Word of God written in the morning and denying it spoken in the afternoon.
+*Divine Revelation comes down to us by two means: through Holy Scripture, written down under divine inspiration, and through Tradition, handed down orally from Apostolic times. We read the Bible with great respect, for it is the Word of God. We treat Tradition with as great reverence, for God speaks through Tradition as well. It is wrong to believe the Bible alone without Tradition. That is like believing the Word of God written in the morning and denying it spoken in the afternoon.*
 
 
 **Can we know God in any other way than by our natural reason?**
 
-— Besides knowing God by our natural reason, we can also know Him from supernatural revelation. 1. God has often revealed Himself to men through means beyond the ordinary course of nature. This is supernatural, or Divine Revelation, as opposed to the natural revelation of Himself that God makes in the external world, and the revelation He makes through our natural reason and conscience.
+— Besides knowing God by our natural reason, we can also know Him from supernatural revelation.
+
+1. God has often revealed Himself to men through means beyond the ordinary course of nature. This is supernatural, or Divine Revelation, as opposed to the natural revelation of Himself that God makes in the external world, and the revelation He makes through our natural reason and conscience.
 
 > Some revealed truths are beyond the power of the human understanding; we could never, by our own abilities, have known such truths if God had not revealed them. For instance, could we by ourselves have known about the Blessed Trinity, had God not revealed it?
 
@@ -18,7 +20,9 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 **How may Divine Revelation be classified?**
 
-— Divine Revelation may be classified into pre-Christian and Christian revelation. 1. Pre-Christian revelation may be divided into: (a) primitive revelation, made to Adam and Eve; (b) patriarchal revelation, made to the patriarchs; and (c) Mosaic revelation, made to Moses and the prophets.
+— Divine Revelation may be classified into pre-Christian and Christian revelation.
+
+1. Pre-Christian revelation may be divided into: (a) primitive revelation, made to Adam and Eve; (b) patriarchal revelation, made to the patriarchs; and (c) Mosaic revelation, made to Moses and the prophets.
 
 > God spoke to Adam and Eve in the Garden of Paradise. He spoke to Abraham, to Noe, sending Noe to preach to sinful men before the Flood. He sent Moses to the Israelites when Pharaoh oppressed them. The patriarchs and prophets were called messengers of God, and often received from Him extraordinary powers, of miracles and prophecy, in order that they might be believed.
 
@@ -29,7 +33,9 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 **Why should we believe in Divine Revelation?**
 
-— We should believe in Divine Revelation because God, Who is its Author, cannot deceive nor be deceived. 1. No reasonable man can believe in any truth until he is sure it is revealed by God. We know that God is the Author of Revelation because He has proved it by external acts, especially by miracles and prophecies.
+— We should believe in Divine Revelation because God, Who is its Author, cannot deceive nor be deceived.
+
+1. No reasonable man can believe in any truth until he is sure it is revealed by God. We know that God is the Author of Revelation because He has proved it by external acts, especially by miracles and prophecies.
 
 > The writers who made Divine Revelation known worked under direct inspiration of the Holy Ghost, Who is, therefore, its Author.
 
@@ -48,7 +54,9 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 **How has Divine Revelation come down to us?**
 
-— Divine Revelation has come down to us through Holy Scripture, written down under divine inspiration, and through Tradition, handed down orally from Apostolic times. 1. From Adam and Eve, at different times, God inspired men to write down His revelations. These passed from generation to generation as sacred books.
+— Divine Revelation has come down to us through Holy Scripture, written down under divine inspiration, and through Tradition, handed down orally from Apostolic times.
+
+1. From Adam and Eve, at different times, God inspired men to write down His revelations. These passed from generation to generation as sacred books.
 
 > For pre-Christian revelation, there were forty-five of these sacred books, composing the Old Testament. They were jealously guarded by the Israelites, the Chosen People, whom God Himself had chosen to keep His truths intact for the instruction of future generations.
 

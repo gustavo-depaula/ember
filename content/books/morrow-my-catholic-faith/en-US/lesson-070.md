@@ -2,12 +2,14 @@
 
 ![](../images/lesson-070.webp)
 
-Christ said: "As the branch cannot bear fruit of itself unless it remain on the vine, so neither can you unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither; and they shall gather them up and cast them into the fire, and they shall burn" (John 15: 4-6). Time has continually proved the truth of what Christ predicted about schisms and their divisions. This is the reason for the fact that they change so often and finally disappear: they are branches broken from the tree, and must wither as He said.
+*Christ said: "As the branch cannot bear fruit of itself unless it remain on the vine, so neither can you unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither; and they shall gather them up and cast them into the fire, and they shall burn" (John 15: 4-6). Time has continually proved the truth of what Christ predicted about schisms and their divisions. This is the reason for the fact that they change so often and finally disappear: they are branches broken from the tree, and must wither as He said.*
 
 
 **What do we mean when we say, "Outside the Church there is no salvation"?**
 
-— When we say, "Outside the Church there is no salvation", we mean that those who through their own grave fault do not know that the Catholic Church is the true Church, or knowing it, refuse to join it, cannot be saved. 1. All are obliged to belong to the Catholic Church in order to be saved. Christ said: "Amen, amen, I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3: 5).
+— When we say, "Outside the Church there is no salvation", we mean that those who through their own grave fault do not know that the Catholic Church is the true Church, or knowing it, refuse to join it, cannot be saved.
+
+1. All are obliged to belong to the Catholic Church in order to be saved. Christ said: "Amen, amen, I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3: 5).
 
 > The Catholic Church is founded on the Apostles, to whom Our Lord gave the commission to baptise; by Baptism, one is made a member of the Church. If then Baptism is indispensable, the Church must be indispensable.
 

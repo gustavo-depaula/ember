@@ -2,12 +2,14 @@
 
 ![](../images/lesson-096.webp)
 
-Above, are illustrated some of the most common forms of superstition. Sick people or their relatives sometimes resort to witchcraft in a vain hope of cure (1). Many otherwise sensible people resort to fortune-tellers to find out about the future (2). Others believe in signs and omens, (3-5). Superstition, aside from being against the virtue of religion, fetters the mind.
+*Above, are illustrated some of the most common forms of superstition. Sick people or their relatives sometimes resort to witchcraft in a vain hope of cure (1). Many otherwise sensible people resort to fortune-tellers to find out about the future (2). Others believe in signs and omens, (3-5). Superstition, aside from being against the virtue of religion, fetters the mind.*
 
 
 **How do we worship God by the virtue of religion?**
 
-— We worship God by the virtue of religion by adoring Him alone as the one and Supreme Being, the chief expression of adoration being prayer. 1. We adore God by acknowledging His infinite excellence, our complete dependence upon Him, our absolute subjection to His will; we pray to God by lifting up our minds and hearts to Him.
+— We worship God by the virtue of religion by adoring Him alone as the one and Supreme Being, the chief expression of adoration being prayer.
+
+1. We adore God by acknowledging His infinite excellence, our complete dependence upon Him, our absolute subjection to His will; we pray to God by lifting up our minds and hearts to Him.
 
 > Devotion to the Blessed Virgin Mary, veneration of saints, relics, and images, are not opposed to this virtue. We do not worship the saints: we only honour them as the special friends and servants of God. We adore God alone. Neither do we worship images and sacred pictures or relics. We only pay them honour as belonging to or representing God or the saints. In a similar manner we commonly cherish the photographs of our dear friends.
 
@@ -18,7 +20,9 @@ Above, are illustrated some of the most common forms of superstition. Sick peopl
 
 **When does a person sin by superstition?**
 
-— A person sins by superstition when he attributes to a creature a power that belongs to God alone. 1. Examples of superstitious practices are: the use of charms or spells, belief in dreams or fortune-telling. As today practised, all these superstitions are mere nonsense: they may be taken only as some social fun, like "bingo." Only idiots actually believe in these practices, in mascots, omens, astrology.
+— A person sins by superstition when he attributes to a creature a power that belongs to God alone.
+
+1. Examples of superstitious practices are: the use of charms or spells, belief in dreams or fortune-telling. As today practised, all these superstitions are mere nonsense: they may be taken only as some social fun, like "bingo." Only idiots actually believe in these practices, in mascots, omens, astrology.
 
 > As today practised, manifestations of superstitious beliefs are fraudulent. Those "magicians" merely perform sleight-of-hand tricks; the "witches," "fortune-tellers," and "spiritists" only use their sharp faculties of observation and their retentive memory. And yet, there are still unintelligent persons who believe in lucky and unlucky days, lucky and unlucky numbers; they actually believe finding a horseshoe is good luck, breaking a mirror means seven years of bad luck, bringing a coffin with a dead person in and out the same way will bring much misfortune and even death to the participants, and so on, on and on. On the contrary, all is nonsense, to be laughed at.
 

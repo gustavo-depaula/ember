@@ -2,12 +2,14 @@
 
 ![](../images/lesson-008.webp)
 
-The Bible is the best Book in the world. It is the Word of God. It is better than any other book that has ever been written or ever will be written. Catholics are not only permitted, but urged, to read the Bible. They must read a version approved by the Catholic Church. Catholic Bibles have the necessary explanations for the guidance of the faithful. To find a text in the Bible, as Matt. 16: 26, turn to the Gospel of St. Matthew, Chapter 16, verse 26. All texts are found in the same manner.
+*The Bible is the best Book in the world. It is the Word of God. It is better than any other book that has ever been written or ever will be written. Catholics are not only permitted, but urged, to read the Bible. They must read a version approved by the Catholic Church. Catholic Bibles have the necessary explanations for the guidance of the faithful. To find a text in the Bible, as Matt. 16: 26, turn to the Gospel of St. Matthew, Chapter 16, verse 26. All texts are found in the same manner.*
 
 
 **What is Holy Scripture, or the Bible?**
 
-— It is the Word of God written by men under the inspiration of the Holy Spirit, and contained in the books of the Old and the New Testaments. 1. The seventy-two sacred books, together forming the Bible, were composed by forty writers in three different languages: Hebrew, Aramaic and Greek. The period of composition covers at least 1,300 years, from Moses, to St. John the Evangelist.
+— It is the Word of God written by men under the inspiration of the Holy Spirit, and contained in the books of the Old and the New Testaments.
+
+1. The seventy-two sacred books, together forming the Bible, were composed by forty writers in three different languages: Hebrew, Aramaic and Greek. The period of composition covers at least 1,300 years, from Moses, to St. John the Evangelist.
 
 > "God, who at sundry times and in divers manners spoke in times past to the fathers by the prophets, last of all in these days has spoken to us by his Son" (Heb. 1: 1).
 
@@ -18,7 +20,9 @@ The Bible is the best Book in the world. It is the Word of God. It is better tha
 
 **Is God the Author of the Bible?**
 
-— Yes, God is the Author of the Bible. 1. An author is not the stenographer that writes down what he is told, but the one who tells what is to be written. Since God is the Author, the Bible cannot contain any error.
+— Yes, God is the Author of the Bible.
+
+1. An author is not the stenographer that writes down what he is told, but the one who tells what is to be written. Since God is the Author, the Bible cannot contain any error.
 
 > "All Scripture is inspired by God" (2 Tim. 3: 16). Copyists and printers, however, can and do make mistakes in copying the Bible.
 
@@ -29,7 +33,9 @@ The Bible is the best Book in the world. It is the Word of God. It is better tha
 
 **Can the books of the Bible be proved to be reliable historical records?**
 
-— Yes. 1. Science throughout the years has been proving itself the handmaid, instead of the enemy, of the Bible. Recent excavations and researches have proved that such distant events as the Fall of Jericho, the destruction of Sodom and Gomorrha, and the Deluge, really and actually happened, and are no mere figures of speech.
+— Yes.
+
+1. Science throughout the years has been proving itself the handmaid, instead of the enemy, of the Bible. Recent excavations and researches have proved that such distant events as the Fall of Jericho, the destruction of Sodom and Gomorrha, and the Deluge, really and actually happened, and are no mere figures of speech.
 
 > Sir Charles Marston, the eminent British archaeologist who has worked extensively in Palestine, firmly declares that far from being mere mythology, the Old Testament is, substantially, contemporary eyewitness accounts of events set down as they took place. Remains he has found include information on events that took place in the times of Abraham, Moses, Solomon, and Jeremias the Prophet; even the name of Abraham has been found. Tablets found in Babylonia and Assyria refer to the Deluge.
 
@@ -57,7 +63,9 @@ The Bible is the best Book in the world. It is the Word of God. It is better tha
 
 **Who are the four Evangelists?**
 
-— The four Evangelists are Saints Matthew, Mark, Luke, and John. 1. St. Matthew was one of the twelve Apostles. Before he followed Our Lord, he was a tax-gatherer or publican called Levi.
+— The four Evangelists are Saints Matthew, Mark, Luke, and John.
+
+1. St. Matthew was one of the twelve Apostles. Before he followed Our Lord, he was a tax-gatherer or publican called Levi.
 
 > Matthew was the first Evangelist to write the Gospel, about six years after Our Lord's Ascension. His work, written in Hebrew for the Jews of Palestine, was translated into Greek in the time of the Apostles. His work shows Jesus as proving Himself to be the promised Messias.
 

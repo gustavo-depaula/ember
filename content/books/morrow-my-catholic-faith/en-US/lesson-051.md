@@ -50,7 +50,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 **How is the Church enabled to lead men to salvation?**
 
-— The Church is enabled to lead men to salvation by the indwelling of the Holy Ghost, who gives it life. 1. God the Father and God the Son sent the Holy Ghost to dwell in the Church. The indwelling of the Holy Ghost enables the Church to teach, to sanctify, and to rule the faithful in the name of Christ.
+— The Church is enabled to lead men to salvation by the indwelling of the Holy Ghost, who gives it life.
+
+1. God the Father and God the Son sent the Holy Ghost to dwell in the Church. The indwelling of the Holy Ghost enables the Church to teach, to sanctify, and to rule the faithful in the name of Christ.
 
 > The Holy Ghost came down upon the Apostles to enlighten, strengthen, and sanctify them, so that they could preach the Gospel and spread the Church all over the world. On the Feast of Pentecost, in remembrance of God the Holy Ghost, we celebrate a mystery which is forever renewed in the Church and in our souls: the mystery of the indwelling of God, the reign of the law of love which succeeded the law of bondage and fear (Rom. 8: 15).
 
@@ -69,7 +71,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 **Are not all religions the same?**
 
-— No for truth and error are not the same; faith and unbelief are not the same. 1. God is not divided. He revealed only one religion. We either believe that religion, or do not believe it. There is no middle way. "He who is not with me is against me" (Matt. 12: 30)
+— No for truth and error are not the same; faith and unbelief are not the same.
+
+1. God is not divided. He revealed only one religion. We either believe that religion, or do not believe it. There is no middle way. "He who is not with me is against me" (Matt. 12: 30)
 
 > Anything that is not the whole truth is not truth. Christ said: "I am the way, and the truth and the life. No man comes to the Father but through me" (John 14: 6). No one will assert that glass is as good as diamonds, nor that brass is as good as gold. No one claims that an imitation is just as good as the authentic thing. More unreasonable then would it be to claim that a religion established by a man is as good as that founded by the Incarnate God.
 
@@ -84,7 +88,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 **How can we prove that the only true Church of Christ is the Catholic Church?**
 
-— We can prove that the only true Church of Christ is the Catholic Church, because: 1. Only the Catholic Church possesses the marks of the Church established by Christ; that is, Unity, holiness, catholicity, and apostolicity. (See Chapter 73 on The Gates of Hell)
+— We can prove that the only true Church of Christ is the Catholic Church, because:
+
+1. Only the Catholic Church possesses the marks of the Church established by Christ; that is, Unity, holiness, catholicity, and apostolicity. (See Chapter 73 on The Gates of Hell)
 
 > As a matter of fact, only the Catholic Church claims to have all these four marks of the True Church, the marks so evidently set by Christ.
 

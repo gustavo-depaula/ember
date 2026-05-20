@@ -2,12 +2,14 @@
 
 ![](../images/lesson-057.webp)
 
-1. Basilica of St. Peter; 2. Plaza of St. Peter; 3. The Vatican (10,246 rooms); 4. Bronze door; 5. Courtyard of Damascus; 6. Vatican Library; 7. Vatican Museum; 8. Courtyard of Belvedere; 9. Courtyard of Pines; 10. Door leading to Libraries; 11. Sistine Chapel; 12. Vatican Gardens; 13. Observatory; 14. Campo Santo; 15. Quarters of the Swiss Guards. In 1929 Pope Pius XI and King Victor Emmanuel III signed a formal agreement, by which the Pope regained temporal sovereignty over the City of the Vatican. That is the smallest independent state in all Christendom. But in it the Roman Pontiff is supreme, free from all human dictation. Catholics from all over the world at any time, in war or at peace, can have free access to their universal Father, because of this independence.
+*1. Basilica of St. Peter; 2. Plaza of St. Peter; 3. The Vatican (10,246 rooms); 4. Bronze door; 5. Courtyard of Damascus; 6. Vatican Library; 7. Vatican Museum; 8. Courtyard of Belvedere; 9. Courtyard of Pines; 10. Door leading to Libraries; 11. Sistine Chapel; 12. Vatican Gardens; 13. Observatory; 14. Campo Santo; 15. Quarters of the Swiss Guards. In 1929 Pope Pius XI and King Victor Emmanuel III signed a formal agreement, by which the Pope regained temporal sovereignty over the City of the Vatican. That is the smallest independent state in all Christendom. But in it the Roman Pontiff is supreme, free from all human dictation. Catholics from all over the world at any time, in war or at peace, can have free access to their universal Father, because of this independence.*
 
 
 **What are the chief powers of the Pope?**
 
-— The Pope has supreme and complete power and jurisdiction to decide questions of faith and morals and to arrange the discipline of the universal Church. 1. The power of the Pope extends over every single church, every single bishop and pastor, every one of the faithful.
+— The Pope has supreme and complete power and jurisdiction to decide questions of faith and morals and to arrange the discipline of the universal Church.
+
+1. The power of the Pope extends over every single church, every single bishop and pastor, every one of the faithful.
 
 > He may appoint and depose bishops, call councils, make and unmake laws, send missionaries, confer distinctions, privileges, and dispensations, and reserve sins to his own tribunal.
 
@@ -43,7 +45,9 @@
 
 **What exclusive privileges does the Bishop of Rome enjoy, to signify his supremacy as Head of the Church?**
 
-— The Bishop of Rome enjoys the following exclusive privileges: 1. He has precedence of jurisdiction and honour over all other bishops.
+— The Bishop of Rome enjoys the following exclusive privileges:
+
+1. He has precedence of jurisdiction and honour over all other bishops.
 
 > The Bishop of Rome's jurisdiction extends over all Christendom. He is first in both authority and honour.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-109.webp)
 
-God punishes the sin of impurity very severely even here on earth. For that, He destroyed all living things except those in the ark of Noe during the great deluge. "And God seeing that the wickedness of men was great said: I will destroy man" (Gen. 6). For the same sin God destroyed Sodom and Gomorrha: "And the Lord rained upon Sodom and Gomorrha brimstone and fire" (Gen. 19). Today the site of these cities is covered by the Dead Sea, an ever present reminder of the evil of impurity.
+*God punishes the sin of impurity very severely even here on earth. For that, He destroyed all living things except those in the ark of Noe during the great deluge. "And God seeing that the wickedness of men was great said: I will destroy man" (Gen. 6). For the same sin God destroyed Sodom and Gomorrha: "And the Lord rained upon Sodom and Gomorrha brimstone and fire" (Gen. 19). Today the site of these cities is covered by the Dead Sea, an ever present reminder of the evil of impurity.*
 
 "THOU SHALT NOT COMMIT ADULTERY." "THOU SHALT NOT COVET THY NEIGHBOUR'S WIFE"
 
@@ -43,7 +43,9 @@ God punishes the sin of impurity very severely even here on earth. For that, He 
 
 **What are the most common occasions of the sin against chastity?**
 
-— The most common occasions are: 1. Idleness. This is the parent of sin. Man is like the earth: if it is not planted to good seed, weeds grow on it fast. So a person is beset by all kinds of evil temptations unless he has some worthwhile occupation.
+— The most common occasions are:
+
+1. Idleness. This is the parent of sin. Man is like the earth: if it is not planted to good seed, weeds grow on it fast. So a person is beset by all kinds of evil temptations unless he has some worthwhile occupation.
 
 > Thieves break into a house where everybody is paralysed by idleness. When iron is not used, it begins to rust. And so man, who was made to be active, stagnates and becomes foul when nothing occupies him all day.
 

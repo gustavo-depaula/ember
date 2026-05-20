@@ -2,12 +2,14 @@
 
 ![](../images/lesson-169.webp)
 
-It is a sin for parents to discourage, oppose, or prevent their child's lawful desire to choose a state of life for himself. The first picture shows the father of St. Therese of the Child Jesus, giving her his blessing before she entered Carmel. Parents whose children have a religious vocation should imitate this good father. And those whose children choose to enter the married state should bless them likewise, as Our Blessed Mother must surely be blessing the newly-wedded pair above, who offer the bridal bouquet at her feet. Their preparatory period of courtship was ruled by prudence.
+*It is a sin for parents to discourage, oppose, or prevent their child's lawful desire to choose a state of life for himself. The first picture shows the father of St. Therese of the Child Jesus, giving her his blessing before she entered Carmel. Parents whose children have a religious vocation should imitate this good father. And those whose children choose to enter the married state should bless them likewise, as Our Blessed Mother must surely be blessing the newly-wedded pair above, who offer the bridal bouquet at her feet. Their preparatory period of courtship was ruled by prudence.*
 
 
 **What is the purpose of courtship?**
 
-— Courtship is a time of preparation for marriage, the time of choosing a life partner; it requires prudence and wisdom. 1. It is only when young persons have reached the proper age and are so situated as to be able to bear the responsibilities of the married state, that courtship should engage their attention. Then the young man and woman may frequent each other's company in order to discover whether they would make suitable companions for life.
+— Courtship is a time of preparation for marriage, the time of choosing a life partner; it requires prudence and wisdom.
+
+1. It is only when young persons have reached the proper age and are so situated as to be able to bear the responsibilities of the married state, that courtship should engage their attention. Then the young man and woman may frequent each other's company in order to discover whether they would make suitable companions for life.
 
 > Boys and girls still in school should devote their time to their studies and such things appropriate to their age, as games and innocent entertainments. It is altogether out of place for young people to neglect their studies in order to waste their time in boy-and-girl affairs that at best end in nothing.
 
@@ -22,7 +24,9 @@ It is a sin for parents to discourage, oppose, or prevent their child's lawful d
 
 **What should guide the choice during courtship?**
 
-— One should make sure that the person he or she wishes to marry is a practising Catholic, and possesses the character to make a good companion and helper in life. 1. The person chosen should have the mental and spiritual qualifications necessary for the permanent partnership, the dispositions to harmonize with the prospective partners.
+— One should make sure that the person he or she wishes to marry is a practising Catholic, and possesses the character to make a good companion and helper in life.
+
+1. The person chosen should have the mental and spiritual qualifications necessary for the permanent partnership, the dispositions to harmonize with the prospective partners.
 
 > If young people will remember that marriage is for life, they will exercise greater prudence in courtship. With that prudence, by the grace of God, a man can surely find a partner of whom can be said: "She is a help like to himself, and a pillar of rest" (Ecclus. 36: 26).
 

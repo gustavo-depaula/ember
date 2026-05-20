@@ -9,7 +9,9 @@ At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Em
 
 **What are the major orders?**
 
-— The major orders are the: subdiaconate, diaconate, and priesthood. 1. The subdiaconate is still a preparation for the Sacrament of Holy Orders, and is of ecclesiastical institution. A subdeacon is pledged to perpetual celibacy and the daily recitation of the Divine Office.
+— The major orders are the: subdiaconate, diaconate, and priesthood.
+
+1. The subdiaconate is still a preparation for the Sacrament of Holy Orders, and is of ecclesiastical institution. A subdeacon is pledged to perpetual celibacy and the daily recitation of the Divine Office.
 
 > The subdeacon presents the water at High Mass, sings the epistle, brings the vessels to the altar, holds the paten during the canon, and gives the kiss of peace to the choir. In practice, today all these are done by a priest.
 

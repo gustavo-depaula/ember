@@ -2,12 +2,14 @@
 
 ![](../images/lesson-135.webp)
 
-The altar cards contain some of the Mass prayers for the priest's convenience. Flowers may be used on the altar except during the penitential seasons, and at Masses for the dead. Along the whole front of the altar, when ready for Mass, is hung a rich and ornamented cloth called the antipendium, with colour varying according to the colour used for the Mass, in vestments, etc.
+*The altar cards contain some of the Mass prayers for the priest's convenience. Flowers may be used on the altar except during the penitential seasons, and at Masses for the dead. Along the whole front of the altar, when ready for Mass, is hung a rich and ornamented cloth called the antipendium, with colour varying according to the colour used for the Mass, in vestments, etc.*
 
 
 **Where is the sacrifice of the Mass offered?**
 
-— The sacrifice of the Mass is offered on a consecrated altar. 1. The Apostles offered the holy sacrifice on a table in a dwelling-house.
+— The sacrifice of the Mass is offered on a consecrated altar.
+
+1. The Apostles offered the holy sacrifice on a table in a dwelling-house.
 
 > In the New Testament, there are references to meeting places of worship: churches are as old as the Church. For perhaps the first three centuries, Christians who were constantly persecuted used homes for their meeting places for worship. A table was used for an altar because it was on a table that Christ instituted the Mass on Holy Thursday. Another reason was that a table could be easily hidden in times of persecution; also because Mass was generally offered in private homes.
 
@@ -24,7 +26,9 @@ In the building and furnishing of the altar, everything is laid down by law. The
 
 **How is the altar made and furnished?**
 
-— The altar must be made of stone, marble, or wood, and spread with three linen cloths that have been blessed by bishop or priest. The three cloths remind us of the linen cloth in which Our Lord was wrapped for the sepulchre. They are placed on the altar also to absorb any drops of the Precious Blood that may accidentally be spilled from the chalice. The uppermost one must reach to the *predella* or platform. 1. When the altar is of wood, an oblong slab of stone is set into the top, large enough to hold the chalice and the paten: This altar stone is set in the centre of the altar, so that Mass is always offered on stone or marble.
+— The altar must be made of stone, marble, or wood, and spread with three linen cloths that have been blessed by bishop or priest. The three cloths remind us of the linen cloth in which Our Lord was wrapped for the sepulchre. They are placed on the altar also to absorb any drops of the Precious Blood that may accidentally be spilled from the chalice. The uppermost one must reach to the *predella* or platform.
+
+1. When the altar is of wood, an oblong slab of stone is set into the top, large enough to hold the chalice and the paten: This altar stone is set in the centre of the altar, so that Mass is always offered on stone or marble.
 
 > This stone is marked by crosses at the corners and the centre; in it relics of saints are cemented. It signifies that Christ is the foundation and cornerstone on which the Church rests. The altar or altar stone is consecrated by the bishop, with special ceremonies. In cases when permission to have Mass said outside of the church is obtained, a portable altar blessed by the bishop, is used. It is a square stone slab, large enough for chalice and paten.
 

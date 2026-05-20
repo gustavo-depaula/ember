@@ -2,7 +2,7 @@
 
 ![](../images/lesson-111.webp)
 
-Parents should be most careful to teach their children honesty in thought, word, and deed. As the child, so the man. If parents laugh indulgently at their child stealing food from the cupboard (1), keeping back change after errands, copying in examinations, throwing stones to break windows, defacing walls and books, picking flowers and fruits from another person's garden, etc., then those parents must not be surprised if when the child is grown up, he steals from the bank (2), forges signatures, cheats his employers, becomes a usurer, etc.
+*Parents should be most careful to teach their children honesty in thought, word, and deed. As the child, so the man. If parents laugh indulgently at their child stealing food from the cupboard (1), keeping back change after errands, copying in examinations, throwing stones to break windows, defacing walls and books, picking flowers and fruits from another person's garden, etc., then those parents must not be surprised if when the child is grown up, he steals from the bank (2), forges signatures, cheats his employers, becomes a usurer, etc.*
 
 "THOU SHALL NOT STEAL" "THOU SHALT NOT COVET THY NEIGHBOR'S GOODS"
 
@@ -24,7 +24,9 @@ Parents should be most careful to teach their children honesty in thought, word,
 
 **What are the chief violations of the seventh commandment?**
 
-— The chief violations of the seventh commandment are the following: 1. Stealing or theft is the secret taking of another person's property.
+— The chief violations of the seventh commandment are the following:
+
+1. Stealing or theft is the secret taking of another person's property.
 
 > Few sins are more common than theft. Covetousness leads to theft. Those who like to show themselves off in luxury but have not the means frequently resort to theft. One must be very careful in avoiding even petty thefts, or he will contract a vice, and in a short time will find himself stealing more valuable things.
 

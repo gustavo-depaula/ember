@@ -2,12 +2,14 @@
 
 ![](../images/lesson-143.webp)
 
-We should receive Our Lord in the Eucharist with the faith and love of a child. Children receiving Holy Communion ought to think of themselves approaching to take the Child Jesus from the arms of our Blessed Lady. With how much love and adoration, with what joy we should receive Jesus into our arms, if the Blessed Virgin should appear before us to give Him to us! Yet Holy Communion is really better than that: we not only receive Jesus into our arms, but into our very hearts.
+*We should receive Our Lord in the Eucharist with the faith and love of a child. Children receiving Holy Communion ought to think of themselves approaching to take the Child Jesus from the arms of our Blessed Lady. With how much love and adoration, with what joy we should receive Jesus into our arms, if the Blessed Virgin should appear before us to give Him to us! Yet Holy Communion is really better than that: we not only receive Jesus into our arms, but into our very hearts.*
 
 
 **What are the chief effects of a worthy Holy Communion?**
 
-— The chief effects of a worthy Holy Communion are: 1. A closer union with Our Lord, and a more fervent love of God and of our neighbour. What food and drink do for the body, the Eucharist does for the soul. It unites our body and soul to that of Christ.
+— The chief effects of a worthy Holy Communion are:
+
+1. A closer union with Our Lord, and a more fervent love of God and of our neighbour. What food and drink do for the body, the Eucharist does for the soul. It unites our body and soul to that of Christ.
 
 > In Holy Communion we become united with Christ, as He Himself promised, "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6: 57).
 
@@ -26,7 +28,9 @@ We should receive Our Lord in the Eucharist with the faith and love of a child. 
 
 **What should we do after Holy Communion?**
 
-— After Holy Communion we should spend some time adoring Our Lord, thanking Him, renewing our promises of love and of obedience to Him, and asking Him for blessings for ourselves and others. 1. We should not leave the church immediately after receiving Holy Communion. We should pray at least ten or fifteen minutes, thanking our Divine Guest. We should thank Our Lord fervently for coming to us, make acts of faith, adoration, humility, and love, and beg Him favours for ourselves and those we love.
+— After Holy Communion we should spend some time adoring Our Lord, thanking Him, renewing our promises of love and of obedience to Him, and asking Him for blessings for ourselves and others.
+
+1. We should not leave the church immediately after receiving Holy Communion. We should pray at least ten or fifteen minutes, thanking our Divine Guest. We should thank Our Lord fervently for coming to us, make acts of faith, adoration, humility, and love, and beg Him favours for ourselves and those we love.
 
 > Our Lord is actually and personally present in us as long as the appearance of bread remains, for at least ten minutes after receiving Holy Communion. Shall we treat God the Son coldly, by doing nothing when He comes? For earthly guests we exert ourselves to the utmost, to entertain them and make their stay enjoyable. Shall we then say to Christ, "I am glad You came, Lord. Now goodbye, because I must go home." And forget Him?
 
@@ -37,7 +41,9 @@ We should receive Our Lord in the Eucharist with the faith and love of a child. 
 
 **How should we show our gratitude to Our Lord for remaining always on our altars in the Holy Eucharist?**
 
-— We should show our gratitude to Our Lord for remaining always on our altars in the Holy Eucharist by visiting Him often, by reverence in church, by assisting at weekday Mass when this is possible, by attending parish devotions, and by being present at Benediction of the Blessed Sacrament. 1. Paying visits to the Blessed Sacrament is a loving gesture towards Our Lord really present there. He is our best Friend, and shall we not pay Him a call once in a while?
+— We should show our gratitude to Our Lord for remaining always on our altars in the Holy Eucharist by visiting Him often, by reverence in church, by assisting at weekday Mass when this is possible, by attending parish devotions, and by being present at Benediction of the Blessed Sacrament.
+
+1. Paying visits to the Blessed Sacrament is a loving gesture towards Our Lord really present there. He is our best Friend, and shall we not pay Him a call once in a while?
 
 > Wherever the Blessed Sacrament is reserved, a light must always be kept burning before It. Olive oil should be used; in case of necessity the bishop may permit the use of a substitute. Where more than one lamp is used, their number must be uneven. The use of the sanctuary lamp dates back to the thirteenth century.
 

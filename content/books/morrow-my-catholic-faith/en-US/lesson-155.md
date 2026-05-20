@@ -2,12 +2,14 @@
 
 ![](../images/lesson-155.webp)
 
-The Way of the Cross (1) and the Angelus (2) are two common and profitable prayers richly indulgenced. The Church attaches indulgences, by the blessing of a Bishop or Priest with special faculties, to such objects of devotion as rosaries, crucifixes, medals, images, etc., provided they are made of strong material. The indulgences are lost if the article is sold, not so if it is given away or loaned.
+*The Way of the Cross (1) and the Angelus (2) are two common and profitable prayers richly indulgenced. The Church attaches indulgences, by the blessing of a Bishop or Priest with special faculties, to such objects of devotion as rosaries, crucifixes, medals, images, etc., provided they are made of strong material. The indulgences are lost if the article is sold, not so if it is given away or loaned.*
 
 
 **What must we do to gain an indulgence?**
 
-— To gain an indulgence, we must be in the state of grace, have at least a general intention of gaining the indulgence, and perform the works required by the Church. 1. We must be in the state of grace; that is, we must be free from all mortal sin. We must, besides, be free from all venial sin as well as all affection for sin, before we may gain a plenary indulgence.
+— To gain an indulgence, we must be in the state of grace, have at least a general intention of gaining the indulgence, and perform the works required by the Church.
+
+1. We must be in the state of grace; that is, we must be free from all mortal sin. We must, besides, be free from all venial sin as well as all affection for sin, before we may gain a plenary indulgence.
 
 > One in mortal sin has incurred the punishment of hell, and cannot gain an indulgence. One in venial sin can gain a partial indulgence. In such a case the indulgence satisfies for sins already forgiven, but not for the unrepented venial sin.
 
@@ -45,7 +47,9 @@ The Way of the Cross (1) and the Angelus (2) are two common and profitable praye
 
 **What objects are commonly indulgenced?**
 
-— Indulgences may be attached to crucifixes, medals, rosaries, statues, and such objects, provided they are not made of very fragile material. 1. The object must be blessed by the Pope, or by some priest possessing the powers. The indulgence is lost if the object is more than half destroyed, or if it is sold, but not if the object is lent or given away.
+— Indulgences may be attached to crucifixes, medals, rosaries, statues, and such objects, provided they are not made of very fragile material.
+
+1. The object must be blessed by the Pope, or by some priest possessing the powers. The indulgence is lost if the object is more than half destroyed, or if it is sold, but not if the object is lent or given away.
 
 > All the members of a family may use the same rosary or crucifix, gaining indulgences attached.
 
@@ -56,7 +60,9 @@ The Way of the Cross (1) and the Angelus (2) are two common and profitable praye
 
 **What are some important indulgenced prayers?**
 
-— Of the hundreds of indulgenced prayers, some of the most important are: the Rosary, the Way of the Cross, the Angelus, the Litany of the Blessed Virgin, acts of faith, hope and charity, the prayers of Mass, and prayers at the hour of death. 1. The indulgence attached to some prayers may be gained every time they are said; in the case of other prayers the indulgence is gained only once a day.
+— Of the hundreds of indulgenced prayers, some of the most important are: the Rosary, the Way of the Cross, the Angelus, the Litany of the Blessed Virgin, acts of faith, hope and charity, the prayers of Mass, and prayers at the hour of death.
+
+1. The indulgence attached to some prayers may be gained every time they are said; in the case of other prayers the indulgence is gained only once a day.
 
 > Short prayers enriched with a plenary indulgence are: the prayer before a crucifix after Holy Communion, the prayer of resignation to God's will, and the prayer to Christ King of all.
 

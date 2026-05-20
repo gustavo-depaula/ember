@@ -2,7 +2,7 @@
 
 ![](../images/lesson-084.webp)
 
-1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steal. Theft is an offence against God,'' That is conscience.
+*1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steal. Theft is an offence against God,'' That is conscience.*
 
 
 **Besides believing what God has revealed, what else must we do to be saved?**
@@ -24,7 +24,9 @@
 
 **What is conscience?**
 
-— Conscience is the manifestation of God's will that is made to men by the voice of reason, by the dictates of their intellect. 1. Conscience is often called the "voice of reason" or *"voice of God"*, because it bids us do right and avoid wrong. Cain, who lived a long time before Moses, knew that he had committed evil in slaying Abel. Even today, in pagan countries which have never heard of the commandments, men know right from wrong by their conscience. By it, they know God; it bids them obey.
+— Conscience is the manifestation of God's will that is made to men by the voice of reason, by the dictates of their intellect.
+
+1. Conscience is often called the "voice of reason" or *"voice of God"*, because it bids us do right and avoid wrong. Cain, who lived a long time before Moses, knew that he had committed evil in slaying Abel. Even today, in pagan countries which have never heard of the commandments, men know right from wrong by their conscience. By it, they know God; it bids them obey.
 
 > As St. Paul, speaking of the non-Jews who did not know the Jewish law. said: "The Gentiles, who have no law, do by nature what the Law prescribes. They show the work of the law written in their hearts. Their conscience bears witness to them" (Rom. 2:14-15).
 
@@ -35,7 +37,9 @@
 
 **When is conscience erroneous?**
 
-— Conscience is erroneous when we think that something right is wrong, or that something wrong is right. 1. An erroneous conscience arises from ignorance or a faulty knowledge of the law. As long as a person who has an erroneous conscience knows no better, he is not responsible for the evil he may do by following it. An erroneous conscience is a false one.
+— Conscience is erroneous when we think that something right is wrong, or that something wrong is right.
+
+1. An erroneous conscience arises from ignorance or a faulty knowledge of the law. As long as a person who has an erroneous conscience knows no better, he is not responsible for the evil he may do by following it. An erroneous conscience is a false one.
 
 > For example, a child tells a lie in order to save his younger brother from punishment. He thinks his duty to protect his little brother is superior to the telling of the truth. He has an erroneous conscience, and in this case commits no sin. However, everyone is required to strive for a correct knowledge of the law by studying his religion. In that way, he will form a correct or right conscience.
 
@@ -50,7 +54,9 @@
 
 **What is a scrupulous conscience?**
 
-— A scrupulous conscience is a sick conscience that sees sin where there is none. 1. A scrupulous person looks on temptations as sins. We must not encourage a scrupulous conscience. It is a mark of lack of confidence in the goodness of God.
+— A scrupulous conscience is a sick conscience that sees sin where there is none.
+
+1. A scrupulous person looks on temptations as sins. We must not encourage a scrupulous conscience. It is a mark of lack of confidence in the goodness of God.
 
 > When a scrupulous person is tempted, he worries himself sick, believing he has committed sin, even when he has not yielded to the temptation one whit, even when he has actually abhorred it.
 

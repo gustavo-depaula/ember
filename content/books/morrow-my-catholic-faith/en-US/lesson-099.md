@@ -2,12 +2,14 @@
 
 ![](../images/lesson-099.webp)
 
-A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in honour of St. Anne, at the place of his safe landing. He was saved; hence the shrine at Beaupre, Quebec, Canada. Thousands flock to that famous shrine, one of the most miraculous in the world. The crutches and spectacles lined along the walls are a proof of the miraculous cures.
+*A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in honour of St. Anne, at the place of his safe landing. He was saved; hence the shrine at Beaupre, Quebec, Canada. Thousands flock to that famous shrine, one of the most miraculous in the world. The crutches and spectacles lined along the walls are a proof of the miraculous cures.*
 
 
 **What is an oath?**
 
-— An oath is the calling on God to witness to the truth of what we say, 1. Taking an oath is called swearing. In swearing, we call either upon God or upon something sacred. In solemn oaths, we place a hand on the Bible, or kiss it. Sometimes we also kiss the crucifix.
+— An oath is the calling on God to witness to the truth of what we say,
+
+1. Taking an oath is called swearing. In swearing, we call either upon God or upon something sacred. In solemn oaths, we place a hand on the Bible, or kiss it. Sometimes we also kiss the crucifix.
 
 > If we swear by God, such words are used as: "God is my witness," "So help me God," "As the Lord liveth," etc. If we swear by holy things, we say: "By the holy Gospel," "by the cross of Christ," etc. Such expressions as "Upon my word," "by my honour," are not oaths but merely emphasize assertions.
 
@@ -26,7 +28,9 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 **What things are necessary to make an oath lawful?**
 
-— To make an oath lawful, three things are necessary: 1. We must have a good reason for taking an oath. — An oath properly taken is permitted by God and pleasing in His sight. No one however, should be compelled to take an oath. It is not necessary to swear at every provocation, such as when friends do not believe us, or to emphasize statements.
+— To make an oath lawful, three things are necessary:
+
+1. We must have a good reason for taking an oath. — An oath properly taken is permitted by God and pleasing in His sight. No one however, should be compelled to take an oath. It is not necessary to swear at every provocation, such as when friends do not believe us, or to emphasize statements.
 
 > Such trivial matters should not be the subject of oaths. A number of people have the bad habit of raising the hand in a gesture of swearing every time someone doubts their slightest assertions. "Thou shalt swear, As the Lord liveth, in truth and in judgement, and in justice" (Jer. 4: 2).
 
@@ -41,7 +45,9 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 **What great sin does a person commit who deliberately calls on God to bear witness to a lie?**
 
-— A person who deliberately calls on God to bear witness to a lie commits the very grievous sin of perjury. 1. Perjury is false swearing. One commits perjury when he confirms by oath what he knows is not true, or what he is doubtful about, or when he swears to a promise which he does not intend to keep.
+— A person who deliberately calls on God to bear witness to a lie commits the very grievous sin of perjury.
+
+1. Perjury is false swearing. One commits perjury when he confirms by oath what he knows is not true, or what he is doubtful about, or when he swears to a promise which he does not intend to keep.
 
 > Perjury is a grave sin, because it insults God by calling Him to witness a lie. Perjury before a civil court of law is punishable by imprisonment.
 
@@ -52,7 +58,9 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 **What is a vow?**
 
-— A vow is a deliberate promise made to God, by which a person binds himself under pain of sin to do something that is especially pleasing to God. 1. A vow is made to God alone not to anyone else. The subject of the vow must not be a mere trifle, but something good in itself, and better than its opposite. A vow is the most solemn promise we can ever make.
+— A vow is a deliberate promise made to God, by which a person binds himself under pain of sin to do something that is especially pleasing to God.
+
+1. A vow is made to God alone not to anyone else. The subject of the vow must not be a mere trifle, but something good in itself, and better than its opposite. A vow is the most solemn promise we can ever make.
 
 > A vow made under compulsion is invalid. A vow to do something that will offend God must not be accomplished. In general, we should consult our confessor before making a vow. "It is better not to vow, than after a vow not to perform the things promised" (Eccles. 5: 4). Sometimes vows are accompanied by certain conditions. For example, in 1248, St. Louis of France vowed to lead a Crusade if he got over a severe illness. In our days, people vow to go on specified pilgrimages, to get cured of sickness, etc.
 

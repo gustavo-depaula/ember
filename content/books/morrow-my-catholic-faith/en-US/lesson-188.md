@@ -2,7 +2,7 @@
 
 ![](../images/lesson-188.webp)
 
-During the sermons of a mission or retreat, we should listen attentively avoiding all kinds of noise such as coughing, fidgeting, whispering, etc. We should remember the motive for the mission, and act accordingly. At the end of a mission or retreat, the Papal blessing is given, by which all who attended the exercises gain a plenary indulgence. As the priest gives the blessing, the people should kneel and make the sign of the cross (2).
+*During the sermons of a mission or retreat, we should listen attentively avoiding all kinds of noise such as coughing, fidgeting, whispering, etc. We should remember the motive for the mission, and act accordingly. At the end of a mission or retreat, the Papal blessing is given, by which all who attended the exercises gain a plenary indulgence. As the priest gives the blessing, the people should kneel and make the sign of the cross (2).*
 
 
 **What is the Way of the Cross?**
@@ -28,7 +28,9 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 **What are novenas?**
 
-— Novenas are public or private devotions carried on for the space of nine days in honour of God or the saints or angels. 1. The first novena of the Church was held by the Apostles and disciples who with our Blessed Lady awaited the coming of the Holy Ghost after the Ascension. Following the example of the Apostles, the faithful make novenas directly to God or to Him through one of the saints, to obtain spiritual or temporal favours.
+— Novenas are public or private devotions carried on for the space of nine days in honour of God or the saints or angels.
+
+1. The first novena of the Church was held by the Apostles and disciples who with our Blessed Lady awaited the coming of the Holy Ghost after the Ascension. Following the example of the Apostles, the faithful make novenas directly to God or to Him through one of the saints, to obtain spiritual or temporal favours.
 
 > Any suitable prayers may be used in making a novena. The best way, however, is to hear mass and receive Holy Communion daily as practices for the novena.
 
@@ -62,7 +64,9 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 **What are retreats?**
 
-— Retreats are a series of spiritual exercises and religious services held in convents, schools, and similar institutions, for a certain class of persons, whether priests, nuns, schoolchildren, laymen, or laywomen. 1. The retreat is similar to a Mission, and has about the same effect. It is better than a Mission in the sense that the retreat master can particularize his discourses, as those present are supposed to belong to only one class of individuals having similar tastes and similar problems.
+— Retreats are a series of spiritual exercises and religious services held in convents, schools, and similar institutions, for a certain class of persons, whether priests, nuns, schoolchildren, laymen, or laywomen.
+
+1. The retreat is similar to a Mission, and has about the same effect. It is better than a Mission in the sense that the retreat master can particularize his discourses, as those present are supposed to belong to only one class of individuals having similar tastes and similar problems.
 
 > It is also better than a mission in as much as it can lead to more devotion; complete silence during the course of the retreat is usually required. Those taking part leave for the period all occupations and worldly amusements.
 

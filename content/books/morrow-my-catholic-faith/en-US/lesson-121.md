@@ -2,7 +2,7 @@
 
 ![](../images/lesson-121.webp)
 
-The Sacrament of Penance was instituted by Our Lord. The Apostles administered it. Thus in their time, as the Scriptures say, the Christian converts came to them, "confessing and declaring their deeds." (1) Thus they came to St. Paul in Ephesus (Acts 19: 18). (2) The first Christians received the Body of Our Lord daily. It is the wish of the Church that if we cannot imitate them, we should at least receive Holy Communion as frequently as possible at least every time we hear Mass, on Sundays and holydays of obligation. We should not need to go to Confession for each Communion.
+*The Sacrament of Penance was instituted by Our Lord. The Apostles administered it. Thus in their time, as the Scriptures say, the Christian converts came to them, "confessing and declaring their deeds." (1) Thus they came to St. Paul in Ephesus (Acts 19: 18). (2) The first Christians received the Body of Our Lord daily. It is the wish of the Church that if we cannot imitate them, we should at least receive Holy Communion as frequently as possible at least every time we hear Mass, on Sundays and holydays of obligation. We should not need to go to Confession for each Communion.*
 
 "TO CONFESS OUR SINS AT LEAST ONCE A YEAR" "TO RECEIVE HOLY COMMUNION DURING THE EASTER TIME."
 
@@ -24,7 +24,9 @@ Those who have reached the age of reason, generally at the seventh year, are bou
 
 **Why should we go to confession frequently?**
 
-— We should go to confession frequently because frequent confession greatly helps us to overcome temptation, to keep in the state of grace, and to grow in virtue. 1. The graces that we receive from confession are given abundantly if we receive the sacrament frequently. Our soul is like a house undergoing cleaning at confession; the more often the house is swept and scrubbed, the cleaner it is bound to be.
+— We should go to confession frequently because frequent confession greatly helps us to overcome temptation, to keep in the state of grace, and to grow in virtue.
+
+1. The graces that we receive from confession are given abundantly if we receive the sacrament frequently. Our soul is like a house undergoing cleaning at confession; the more often the house is swept and scrubbed, the cleaner it is bound to be.
 
 > The devil, expelled from the soul at confession, tries to return again and again; but there will be no danger of his breaking in if the soul is barred and protected by the graces of confession, a strong defence against evil. "Confess, therefore, your sins to one another" (James 5: 16).
 
@@ -37,7 +39,9 @@ Those who have reached the age of reason, generally at the seventh year, are bou
 
 **What sin does a Catholic commit who neglects to receive Holy Communion worthily during the Easter time?**
 
-— A Catholic who neglects to receive Holy Communion worthily during the Easter time commits a mortal sin. 1. All who have come to the use of reason are bound by this law of Easter Communion. Parents, teachers, and pastors are obliged to see that the children under their care comply with their Easter duty.
+— A Catholic who neglects to receive Holy Communion worthily during the Easter time commits a mortal sin.
+
+1. All who have come to the use of reason are bound by this law of Easter Communion. Parents, teachers, and pastors are obliged to see that the children under their care comply with their Easter duty.
 
 > The obligation of the Easter Communion binds under pain of mortal sin. One does not fulfil the duty if his communion or confession is unworthy.
 

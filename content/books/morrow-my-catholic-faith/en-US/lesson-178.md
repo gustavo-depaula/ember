@@ -2,12 +2,14 @@
 
 ![](../images/lesson-178.webp)
 
-1. Every new house should be blessed. The blessing should be renewed every year during the Easter time. There is a special blessing for houses to be given on the Feast of the Epiphany or the Octave. In its ritual the Church prays that God may sanctify the house, and that angels may abide within its walls, and protect all living therein. 2. Holy water is one of the principal sacramentals of the Church. In blessing holy water, the priest first blesses salt, then water, and then mixes both with special prayers. The water symbolizes purity of soul; the salt stands for prudence; the combination is a symbol of purity and immortality. As often as possible, we should make the sign of the cross, first dipping the fingers in holy water. A 100 days indulgence is gained each time.
+*1. Every new house should be blessed. The blessing should be renewed every year during the Easter time. There is a special blessing for houses to be given on the Feast of the Epiphany or the Octave. In its ritual the Church prays that God may sanctify the house, and that angels may abide within its walls, and protect all living therein. 2. Holy water is one of the principal sacramentals of the Church. In blessing holy water, the priest first blesses salt, then water, and then mixes both with special prayers. The water symbolizes purity of soul; the salt stands for prudence; the combination is a symbol of purity and immortality. As often as possible, we should make the sign of the cross, first dipping the fingers in holy water. A 100 days indulgence is gained each time.*
 
 
 **How should we make use of sacramentals?**
 
-— We should make use of sacramentals with faith and devotion, and never make them objects of superstition. 1. If we use sacramentals, as they should be used, in acknowledgement of our faith in the efficacy of the blessing of the Church which God Himself founded, our act will be most pleasing to God, and the sacramentals will profit us greatly. If we wear a crucifix or medal on our persons, hoping that by God's grace it will preserve us from evil, we are not superstitious.
+— We should make use of sacramentals with faith and devotion, and never make them objects of superstition.
+
+1. If we use sacramentals, as they should be used, in acknowledgement of our faith in the efficacy of the blessing of the Church which God Himself founded, our act will be most pleasing to God, and the sacramentals will profit us greatly. If we wear a crucifix or medal on our persons, hoping that by God's grace it will preserve us from evil, we are not superstitious.
 
 > We must remember however that of themselves sacramentals have no power. They only have power through the prayer of the Church which uses the authority given by Christ.
 
@@ -34,7 +36,9 @@
 
 **How do sacramentals obtain favours from God?**
 
-— Sacramentals obtain favours from God through the prayers of the Church offered for those who make use of them, and through the devotion they inspire. 1. Sacramentals, unlike the sacraments, are not necessary to salvation. They were not instituted by Christ, but by the Church.
+— Sacramentals obtain favours from God through the prayers of the Church offered for those who make use of them, and through the devotion they inspire.
+
+1. Sacramentals, unlike the sacraments, are not necessary to salvation. They were not instituted by Christ, but by the Church.
 
 Unlike the sacraments, they have no power to confer grace of themselves. The blessings we receive from sacramentals come by virtue of the prayers of the Church and our devout dispositions.
 
@@ -47,7 +51,9 @@ Unlike the sacraments, they have no power to confer grace of themselves. The ble
 
 **What are the chief benefits obtained by the use of the sacramentals?**
 
-— The chief benefits obtained by the use of the sacramentals are: 1. Actual graces.
+— The chief benefits obtained by the use of the sacramentals are:
+
+1. Actual graces.
 
 > If we use them with proper dispositions, that is, while in the state of grace and with firm faith and confidence, sacramentals can profit us greatly.
 

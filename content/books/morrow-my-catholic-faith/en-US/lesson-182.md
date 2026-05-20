@@ -2,7 +2,7 @@
 
 ![](../images/lesson-182.webp)
 
-To make the sign of the cross (1) join the hands in preparation, putting yourself in the presence of God. (2) Lay the left hand on the breast, and with the extended fingers of the right hand touch the forehead, saying, "In the Name of the Father." Touch the breast, saying: "And of the Son." (4) Touch the left shoulder, saying: "And of the Holy . . then (5) the right shoulder saying: "Ghost." Finally, (6) join the hands and say: "Amen."
+*To make the sign of the cross (1) join the hands in preparation, putting yourself in the presence of God. (2) Lay the left hand on the breast, and with the extended fingers of the right hand touch the forehead, saying, "In the Name of the Father." Touch the breast, saying: "And of the Son." (4) Touch the left shoulder, saying: "And of the Holy . . then (5) the right shoulder saying: "Ghost." Finally, (6) join the hands and say: "Amen."*
 
 
 **How do we usually begin and end our prayers?**
@@ -34,7 +34,9 @@ To make the sign of the cross (1) join the hands in preparation, putting yoursel
 
 **Why do we make the sign of the cross?**
 
-— We make the sign of the cross to express two important mysteries of the Christian religion, the Blessed Trinity and the Redemption. 1. When we say, "In the name," we express the truth that there is only one God; when we say, "of the Father, and of the Son, and of the Holy Ghost," we express the truth that there are three distinct Persons in God. And when we make the form of the cross on ourselves, we express the truth that the Son of God, made man, redeemed us by His death on the cross.
+— We make the sign of the cross to express two important mysteries of the Christian religion, the Blessed Trinity and the Redemption.
+
+1. When we say, "In the name," we express the truth that there is only one God; when we say, "of the Father, and of the Son, and of the Holy Ghost," we express the truth that there are three distinct Persons in God. And when we make the form of the cross on ourselves, we express the truth that the Son of God, made man, redeemed us by His death on the cross.
 
 > By this sign we confess that we belong to the religion of the crucified Saviour. By it a Catholic makes a clear confession of faith; by it he is known.
 

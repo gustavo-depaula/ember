@@ -2,7 +2,7 @@
 
 ![](../images/lesson-002.webp)
 
-The Apostles, before they parted, gathered together in Jerusalem in the first Council of the Church. There they decided to put down in a brief statement their principal doctrines, so that their teachings might be uniform wherever they preached. This statement of the articles of faith we call today "The Apostles' Creed." It was formulated in order to put into fruition the command of Our Lord: "Go, therefore, and make disciples of all nations ... teaching them to observe all that I have commanded you; and behold, I am with you all days" (Matt. 28: 19-20).
+*The Apostles, before they parted, gathered together in Jerusalem in the first Council of the Church. There they decided to put down in a brief statement their principal doctrines, so that their teachings might be uniform wherever they preached. This statement of the articles of faith we call today "The Apostles' Creed." It was formulated in order to put into fruition the command of Our Lord: "Go, therefore, and make disciples of all nations ... teaching them to observe all that I have commanded you; and behold, I am with you all days" (Matt. 28: 19-20).*
 
 
 **Where do we find the chief truths taught by Jesus Christ through the Catholic Church?**
@@ -65,7 +65,9 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 **What act of religion do we make when we say the Apostles' Creed?**
 
-— When we say the Apostles' Creed we make an act of faith. 1. Christian faith is a supernatural gift of God which enables us to believe firmly whatever God has revealed, on the testimony of His word. By it we believe in the truth of many things which we cannot grasp with our understanding.
+— When we say the Apostles' Creed we make an act of faith.
+
+1. Christian faith is a supernatural gift of God which enables us to believe firmly whatever God has revealed, on the testimony of His word. By it we believe in the truth of many things which we cannot grasp with our understanding.
 
 > For example, we believe in God, although we cannot see Him. We believe in the Trinity, although it is beyond our understanding. "Without faith it is impossible to please God" (He. 11: 6).
 

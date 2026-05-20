@@ -2,7 +2,7 @@
 
 ![](../images/appendix-church-year.webp)
 
-(SEE PAGE 240 FOR AN EXPLANATION OF THE DIFFERENT PERIODS AND SEASONS)
+*(SEE PAGE 240 FOR AN EXPLANATION OF THE DIFFERENT PERIODS AND SEASONS)*
 
 
 **The Immaculate Conception,** December 8.

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-074.webp)
 
-The illustration shows the continuous communication in the three portions of the Church spiritually united in Jesus Christ. The members on earth send up prayers to the angels and saints for themselves and for the poor souls in purgatory. They in turn are helped by the intercession of the saints and angels, and by the graces obtained thereby. The poor souls pray for the members on earth.
+*The illustration shows the continuous communication in the three portions of the Church spiritually united in Jesus Christ. The members on earth send up prayers to the angels and saints for themselves and for the poor souls in purgatory. They in turn are helped by the intercession of the saints and angels, and by the graces obtained thereby. The poor souls pray for the members on earth.*
 
 
 **Why is the Catholic Church called the Mystical Body of Christ?**
 
-— The Catholic Church is called the Mystical Body of Christ, because its members are united by supernatural bonds with one another and with Christ, their Head, thus resembling the members and head of the living human body. 1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1: 18). Again: "You are the body of Christ, member for member" (1 Cor. 12: 27). "We, the many, are one body in Christ" (Rom. 12: 5).
+— The Catholic Church is called the Mystical Body of Christ, because its members are united by supernatural bonds with one another and with Christ, their Head, thus resembling the members and head of the living human body.
+
+1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1: 18). Again: "You are the body of Christ, member for member" (1 Cor. 12: 27). "We, the many, are one body in Christ" (Rom. 12: 5).
 
 > Jesus Himself used a similar symbol: "I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither" (John 15: 5-6).
 
@@ -39,7 +41,9 @@ The illustration shows the continuous communication in the three portions of the
 
 **How do the members of the Communion of Saints help one another?**
 
-— The members of the Communion of Saints help one another by prayer and intercession, and by the merits of their good works. 1. The faithful on earth can help one another by practising supernatural charity and, especially, by performing the spiritual and corporal works of mercy.
+— The members of the Communion of Saints help one another by prayer and intercession, and by the merits of their good works.
+
+1. The faithful on earth can help one another by practising supernatural charity and, especially, by performing the spiritual and corporal works of mercy.
 
 > St. Peter was freed from prison by the prayers of the faithful. St. Stephen's prayer obtained the conversion of St. Paul. The prayers of St. Monica led to the conversion of her son, St. Augustine. This is why today, on all occasions, Catholics ask for each other's prayers, and pray for those in need. They give the spiritual alms of prayers continually, even when they cannot perform the corporal works.
 

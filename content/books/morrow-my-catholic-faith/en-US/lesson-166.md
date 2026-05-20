@@ -2,12 +2,14 @@
 
 ![](../images/lesson-166.webp)
 
-The illustration (1) shows a couple being married before a priest, with two witnesses. This is the only true marriage for Catholics; it is a sacrament; (2) shows a bad marriage; for Catholics it is not a sacrament, but a mere contract before civil authorities. If one or both of the parties are Catholics, a marriage contracted only in accordance with the civil laws is invalid, null and void. The State cannot make Catholics man and wife; it can only register them as such.
+*The illustration (1) shows a couple being married before a priest, with two witnesses. This is the only true marriage for Catholics; it is a sacrament; (2) shows a bad marriage; for Catholics it is not a sacrament, but a mere contract before civil authorities. If one or both of the parties are Catholics, a marriage contracted only in accordance with the civil laws is invalid, null and void. The State cannot make Catholics man and wife; it can only register them as such.*
 
 
 **Why has the Catholic Church alone the right to make laws regulating the marriages of baptised persons?**
 
-— The Catholic Church alone has the right to make laws regulating the marriages of baptised persons, because the Church alone has authority over the sacraments, and over sacred matters affecting baptised persons. 1. The Church alone has authority over holy matters. The Church is the guardian, the custodian of the sacraments, the means of grace for men. On this account, the Church must safeguard these sacraments.
+— The Catholic Church alone has the right to make laws regulating the marriages of baptised persons, because the Church alone has authority over the sacraments, and over sacred matters affecting baptised persons.
+
+1. The Church alone has authority over holy matters. The Church is the guardian, the custodian of the sacraments, the means of grace for men. On this account, the Church must safeguard these sacraments.
 
 > God assigned to secular governments the duty to administer material things; but to His Church He gave power and authority over spiritual matters. "Render, therefore, to Caesar the things that are Caesar's, and to God the things that are God's."
 
@@ -16,7 +18,9 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 **What authority has the State regarding the marriages of baptised persons?**
 
-— Regarding the marriages of baptised persons, the State has the authority to make laws concerning their effects that are merely civil. 1. The State may make laws about the aspects of marriage that are purely material, such as laws regarding the filing of the marriage contract, laws about the conjugal property, laws about income tax exemptions according to the number of children a married couple have.
+— Regarding the marriages of baptised persons, the State has the authority to make laws concerning their effects that are merely civil.
+
+1. The State may make laws about the aspects of marriage that are purely material, such as laws regarding the filing of the marriage contract, laws about the conjugal property, laws about income tax exemptions according to the number of children a married couple have.
 
 > "What therefore God has joined together, let no man put asunder" (Matt. 19:6). By these words Christ Our Lord restored marriage to its original unity and indissolubility; so that there is no power on earth that can dissolve a marriage that has been validly contracted and consummated. The civil divorces granted by the State to Christians, giving them a right to remarry cannot be recognized by the Church. The State has no right to legislate in contradiction to divine law.
 
@@ -27,7 +31,9 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 **What is the ordinary law of the Church to be observed at the wedding of a Catholic?**
 
-— The ordinary law of the Church to be observed at the wedding of a Catholic is this: A Catholic can contract a true marriage only in the presence of an authorized priest and two witnesses. 1. The laws of the Church require a Catholic to be married in the presence of the parish priest, or the bishop of the diocese, or a priest delegated by either of them, and before two witnesses. Catholics are absolutely prohibited from contracting marriage except before a priest of the Church and two witnesses.
+— The ordinary law of the Church to be observed at the wedding of a Catholic is this: A Catholic can contract a true marriage only in the presence of an authorized priest and two witnesses.
+
+1. The laws of the Church require a Catholic to be married in the presence of the parish priest, or the bishop of the diocese, or a priest delegated by either of them, and before two witnesses. Catholics are absolutely prohibited from contracting marriage except before a priest of the Church and two witnesses.
 
 > There is only one exception to this law. If the pastor, or the bishop, or the priest delegated by either, cannot be had without great inconvenience:
 
@@ -50,7 +56,9 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 **When does the Church declare a separation of a validly married couple?**
 
-— The Church declares a separation of a validly married couple for very grave cause, such as adultery, heresy, threats on the life of either, etc. 1. The separation declared by the Church does not cut the valid marital bond; neither of the parties may marry again till the death of the other. Should the cause cease, they must live together again.
+— The Church declares a separation of a validly married couple for very grave cause, such as adultery, heresy, threats on the life of either, etc.
+
+1. The separation declared by the Church does not cut the valid marital bond; neither of the parties may marry again till the death of the other. Should the cause cease, they must live together again.
 
 > The wronged party should obtain the sanction of the bishop before separation. The need of separation will rarely arise when both husband and wife are good practical Catholics who seriously considered the responsibilities of matrimony before embarking upon it, and who did so with prayer and the blessings of the Church. Who has trusted in God and found Him deaf to supplication?
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-039.webp)
 
-A soul in the state of grace is very beautiful in the sight of God. Then we are friends and children of God and heirs of heaven; then we are like the very angels. We must always try to avoid sin. But when the soul has lost the grace of God by mortal sin, nothing on earth can be uglier in God's sight. If we are so careful about our personal appearance before mortals, how much more should we be careful about the appearance of our immortal soul, that God may be pleased with us.
+*A soul in the state of grace is very beautiful in the sight of God. Then we are friends and children of God and heirs of heaven; then we are like the very angels. We must always try to avoid sin. But when the soul has lost the grace of God by mortal sin, nothing on earth can be uglier in God's sight. If we are so careful about our personal appearance before mortals, how much more should we be careful about the appearance of our immortal soul, that God may be pleased with us.*
 
 
 **What is grace?**
 
-— Grace is a supernatural gift of God bestowed on us through the merits of Jesus Christ for our salvation. 1. Grace is a favour, a free gift, granted to us though we have no claim to it. God grants us graces because He is good, not because we deserve them. God grants us graces for the sake of His Son, Who died on the cross to earn for us these graces; we men can never merit these graces.
+— Grace is a supernatural gift of God bestowed on us through the merits of Jesus Christ for our salvation.
+
+1. Grace is a favour, a free gift, granted to us though we have no claim to it. God grants us graces because He is good, not because we deserve them. God grants us graces for the sake of His Son, Who died on the cross to earn for us these graces; we men can never merit these graces.
 
 > "All have sinned and have need of the glory of God. They are justified freely by his grace through the redemption which is in Christ" (Rom. 3: 23-24).
 
@@ -30,7 +32,9 @@ A soul in the state of grace is very beautiful in the sight of God. Then we are 
 
 **What is sanctifying grace?**
 
-— Sanctifying grace is that grace which confers on our souls a new life, that is, a sharing in the life of God Himself. 1. By sanctifying grace, our souls are made holy and pleasing to God. It is an abiding or permanent grace, which we gain by baptism, and lose only by mortal sin.
+— Sanctifying grace is that grace which confers on our souls a new life, that is, a sharing in the life of God Himself.
+
+1. By sanctifying grace, our souls are made holy and pleasing to God. It is an abiding or permanent grace, which we gain by baptism, and lose only by mortal sin.
 
 > By Adam's sin, all mankind lost the friendship of God; that is, we are born in original sin, without sanctifying grace. Our Lord's death won back sanctifying grace for us; it is granted freely at Baptism.
 

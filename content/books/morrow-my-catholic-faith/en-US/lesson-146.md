@@ -2,7 +2,7 @@
 
 ![](../images/lesson-146.webp)
 
-Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted it in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15: 17-20).
+*Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted it in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15: 17-20).*
 
 
 **What is contrition?**
@@ -18,7 +18,9 @@ God will not forgive us any sin, whether mortal or venial, unless we have true c
 
 **When is sorrow for sin true contrition?**
 
-— It is true contrition when it is interior, supernatural, supreme, and universal. 1. Our sorrow is interior, when it comes from our heart, not merely from our lips.
+— It is true contrition when it is interior, supernatural, supreme, and universal.
+
+1. Our sorrow is interior, when it comes from our heart, not merely from our lips.
 
 > One day a man bumped into an old woman carrying a basketful of vegetables. Her basket was knocked out of her hand, and the contents spilled on the street, rolling in all directions. The man curtly murmured, "Sorry," and went his way, impatiently saying to himself, "There ought to be a law against old women going out on the streets." Meanwhile, the old woman was left to pick up her vegetables as best she could. This man's sorrow was not interior: it was on his lips alone.
 
@@ -37,7 +39,9 @@ God will not forgive us any sin, whether mortal or venial, unless we have true c
 
 **Why should we have contrition for venial sin?**
 
-— We should have contrition for venial sins because it is displeasing to God, merits temporal punishment, and may lead to mortal sin. 1. Venial sin is displeasing to God, and keeps us out of heaven, however temporarily. If we really love God, we would avoid every sign of sin separating us from Him.
+— We should have contrition for venial sins because it is displeasing to God, merits temporal punishment, and may lead to mortal sin.
+
+1. Venial sin is displeasing to God, and keeps us out of heaven, however temporarily. If we really love God, we would avoid every sign of sin separating us from Him.
 
 > The stains of venial sin may seem very slight to us indeed; but when they are laid against the purity of the Infinite Goodness they become dark blotches. We can realize how God looks upon the slightest of venial sins when we remember how severely He punished His saints, as for instance, Moses, for only a very slight sin of thought.
 
@@ -61,7 +65,9 @@ God will not forgive us any sin, whether mortal or venial, unless we have true c
 
 **What is an act of contrition?**
 
-— It is a prayer by which we express to God our sorrow for and detestation of sin. 1. An act of contrition can be as short as this: "O my God, I am sorry with all my heart for having offended Thee, because Thou art all good!"
+— It is a prayer by which we express to God our sorrow for and detestation of sin.
+
+1. An act of contrition can be as short as this: "O my God, I am sorry with all my heart for having offended Thee, because Thou art all good!"
 
 > "Have mercy on me, O God, have mercy on me, for my soul trusteth in Thee" (Ps. 56: 2).
 

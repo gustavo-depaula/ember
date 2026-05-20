@@ -2,7 +2,7 @@
 
 ![](../images/lesson-134.webp)
 
-The most impressive of all solemn Masses is the High Mass of the Pope. The Pope is the only one that can say Mass on the high altars of the four basilicas in Rome: St. Peter's, St. Paul's, St. John's (the Lateran Church), and St. Mary Major.
+*The most impressive of all solemn Masses is the High Mass of the Pope. The Pope is the only one that can say Mass on the high altars of the four basilicas in Rome: St. Peter's, St. Paul's, St. John's (the Lateran Church), and St. Mary Major.*
 
 
 **What is the value of a Mass?**
@@ -39,7 +39,9 @@ The most impressive of all solemn Masses is the High Mass of the Pope. The Pope 
 
 **What materials are used for consecration at Mass?**
 
-— Bread and wine are used for consecration at Mass; a few drops of water are mixed with the wine. 1. The bread for consecration is made from pure wheat flour mixed with water and baked.
+— Bread and wine are used for consecration at Mass; a few drops of water are mixed with the wine.
+
+1. The bread for consecration is made from pure wheat flour mixed with water and baked.
 
 > No other flour, such as rice, corn, etc., may be used, otherwise there is no consecration. Great care therefore should be taken that the flour is the proper kind.
 
@@ -50,7 +52,9 @@ The most impressive of all solemn Masses is the High Mass of the Pope. The Pope 
 
 **When is Mass offered?**
 
-— Mass is offered every day of the year except Good Friday. In the first centuries, bishops and priests celebrated Mass together, so that one Mass was said by several. Our present Masses, when priests are ordained, and bishops are consecrated, are similar to those early Masses. 1. Ordinarily, a priest is permitted to say Mass only once a day. On Christmas and All Souls' Day, however, he may say three Masses.
+— Mass is offered every day of the year except Good Friday. In the first centuries, bishops and priests celebrated Mass together, so that one Mass was said by several. Our present Masses, when priests are ordained, and bishops are consecrated, are similar to those early Masses.
+
+1. Ordinarily, a priest is permitted to say Mass only once a day. On Christmas and All Souls' Day, however, he may say three Masses.
 
 > On Sundays and holydays of obligation, a priest with the proper permission may say two Masses when the needs of the people so require. In mission lands where there are few priests, they are even allowed to say three Masses.
 

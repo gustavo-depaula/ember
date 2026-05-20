@@ -2,12 +2,14 @@
 
 ![](../images/lesson-126.webp)
 
-The essential part of Baptism is the pouring of water (1) together with the saying of the words of baptism. At that moment, the godparents must be touching the child. Blessed salt is put in the child's mouth (2) to signify wisdom received through Baptism, A lighted candle is given to the person baptised, or if an infant, to the sponsors (3), to denote the light of the Holy Ghost received.
+*The essential part of Baptism is the pouring of water (1) together with the saying of the words of baptism. At that moment, the godparents must be touching the child. Blessed salt is put in the child's mouth (2) to signify wisdom received through Baptism, A lighted candle is given to the person baptised, or if an infant, to the sponsors (3), to denote the light of the Holy Ghost received.*
 
 
 **What ceremonies are used in Baptism?**
 
-— The ceremonies used in Baptism are summarized as follows: 1. Reception of the candidate. At the church door, the candidate is questioned as to his purpose in wishing admission into the Church. He is told what such admission involves. He is commanded to keep the commandments, to love God and his neighbour. The priest then breathes three times upon his face to signify the spiritual breath of life that is to be infused into his soul, signs him with the cross to show that he is henceforth to belong to Christ, imposes his hand on him as a sign that the Church takes him as a ward, and then puts blessed salt, symbol of spiritual wisdom, in his mouth.
+— The ceremonies used in Baptism are summarized as follows:
+
+1. Reception of the candidate. At the church door, the candidate is questioned as to his purpose in wishing admission into the Church. He is told what such admission involves. He is commanded to keep the commandments, to love God and his neighbour. The priest then breathes three times upon his face to signify the spiritual breath of life that is to be infused into his soul, signs him with the cross to show that he is henceforth to belong to Christ, imposes his hand on him as a sign that the Church takes him as a ward, and then puts blessed salt, symbol of spiritual wisdom, in his mouth.
 
 > The exorcisms follow, by which the devil is cast out, with his power over the soul of the candidate. The priest signs the forehead with a cross, as a seal, and commends the soul to God.
 
@@ -43,7 +45,9 @@ The essential part of Baptism is the pouring of water (1) together with the sayi
 
 **What is the duty of a godparent after Baptism?**
 
-— The duty of a godparent after Baptism is to see that the child is brought up a good Catholic, if this is not done by the parents. 1. In solemn baptism, there must be at least one godparent, of the same sex as the one baptised. It is permitted to have two sponsors: a godfather and a godmother.
+— The duty of a godparent after Baptism is to see that the child is brought up a good Catholic, if this is not done by the parents.
+
+1. In solemn baptism, there must be at least one godparent, of the same sex as the one baptised. It is permitted to have two sponsors: a godfather and a godmother.
 
 > It is not permitted to have more than two godparents, and these two must be of different sexes. Others who may be present are only witnesses. The godfather must be at least 14 years old; the godmother must be at least 12 years old.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-024.webp)
 
-Vice is easily formed, but requires great struggle to overcome it. The longer a man indulges in vice, the harder is the struggle. He becomes its slave. He is completely carried away by his passions. Only the great grace of God, coupled with a resolute will, can eradicate vice, once it is strongly rooted in a man's nature. This is one reason why we must be most careful to avoid sin, in order not to become victims of vice. If we are so unfortunate as to fall into sin, we must at once repent and resolve to avoid it in the future.
+*Vice is easily formed, but requires great struggle to overcome it. The longer a man indulges in vice, the harder is the struggle. He becomes its slave. He is completely carried away by his passions. Only the great grace of God, coupled with a resolute will, can eradicate vice, once it is strongly rooted in a man's nature. This is one reason why we must be most careful to avoid sin, in order not to become victims of vice. If we are so unfortunate as to fall into sin, we must at once repent and resolve to avoid it in the future.*
 
 
 **What are the near occasions of sin?**
 
-— The near occasions of sin are all persons, places, or things that may easily lead us into sin. Most common occasions are: 1. Bad companions. One who provokes or leads us into sin is not our friend. We must stop going with that companion.
+— The near occasions of sin are all persons, places, or things that may easily lead us into sin. Most common occasions are:
+
+1. Bad companions. One who provokes or leads us into sin is not our friend. We must stop going with that companion.
 
 > One rotten apple in a basket of good apples quickly rots the rest. The same is true of human beings. Sin is a contagious disease. If we do not wish to be infected, we must go far away from it.
 
@@ -36,7 +38,9 @@ Vice is easily formed, but requires great struggle to overcome it. The longer a 
 
 **How should we act towards occasions of sin?**
 
-— We should never seek, but always try to avoid occasions of sin. 1. It is wrong voluntarily to seek the occasions of sin.
+— We should never seek, but always try to avoid occasions of sin.
+
+1. It is wrong voluntarily to seek the occasions of sin.
 
 > "He that loveth the danger shall perish in it" (Ecclus. 3: 27). However, those who by their calling or other necessity are continually exposed to such dangerous occasions, as priests, officials, doctors, and others, must put their trust in God, Who will give them grace and protect them.
 
@@ -62,7 +66,9 @@ Vice is easily formed, but requires great struggle to overcome it. The longer a 
 
 **Does God punish sin?**
 
-— Yes, God punishes sin, partly in this life, but chiefly after death. 1. In this life, sinners suffer from remorse of conscience, fear, and unhappiness. Their sin often brings upon them disease or death, the hatred and scorn of their fellow-men, and other temporal punishments. Even on earth, "the wages of sin is death."
+— Yes, God punishes sin, partly in this life, but chiefly after death.
+
+1. In this life, sinners suffer from remorse of conscience, fear, and unhappiness. Their sin often brings upon them disease or death, the hatred and scorn of their fellow-men, and other temporal punishments. Even on earth, "the wages of sin is death."
 
 > Thus a robber or murderer is ever afraid his crime will be detected. If it is discovered, he is sent to prison or to the electric chair.
 

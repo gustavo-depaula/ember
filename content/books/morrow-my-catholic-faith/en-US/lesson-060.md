@@ -2,8 +2,8 @@
 
 ![](../images/lesson-060.webp)
 
-As the Pope is the successor of St. Peter, so the other bishops are the direct successors of the other Apostles. Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese.
-The priests, especially parish priests, assist the bishops in the care of souls.
+*As the Pope is the successor of St. Peter, so the other bishops are the direct successors of the other Apostles. Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese.
+The priests, especially parish priests, assist the bishops in the care of souls.*
 
 
 **What jurisdiction has a bishop?**

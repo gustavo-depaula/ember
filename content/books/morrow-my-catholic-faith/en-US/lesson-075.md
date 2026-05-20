@@ -2,14 +2,16 @@
 
 ![](../images/lesson-075.webp)
 
-Christ taught about the forgiveness of sins in the parable of the Prodigal Son. (1). He instituted the Sacrament of Penance for the forgiveness of sins when He said to the Apostles: (4) "Whose sins you shall forgive, they are forgiven them: and whose sins you shall retain they are retained."
+*Christ taught about the forgiveness of sins in the parable of the Prodigal Son. (1). He instituted the Sacrament of Penance for the forgiveness of sins when He said to the Apostles: (4) "Whose sins you shall forgive, they are forgiven them: and whose sins you shall retain they are retained."*
 
 ## Tenth Article of the Apostles' Creed
 
 
 **What is meant in the Apostles' Creed by "the forgiveness of sins?"**
 
-— By "the forgiveness of sins" in the Apostles' Creed is meant that God has given to the Church, through Jesus Christ, the power to forgive sins, no matter how great or how many they are, if sinners truly repent. 1. In the Old Law, sins were forgiven through the merits of the Redeemer that was to come: In the New Law, they are forgiven through the merits of the Redeemer Who has come.
+— By "the forgiveness of sins" in the Apostles' Creed is meant that God has given to the Church, through Jesus Christ, the power to forgive sins, no matter how great or how many they are, if sinners truly repent.
+
+1. In the Old Law, sins were forgiven through the merits of the Redeemer that was to come: In the New Law, they are forgiven through the merits of the Redeemer Who has come.
 
 > Pointing to Christ, St. John the Baptist said: "Behold the Lamb of God, who takes away the sin of the world!"
 
@@ -28,7 +30,9 @@ Christ taught about the forgiveness of sins in the parable of the Prodigal Son. 
 
 **How may sins be remitted or forgiven?**
 
-— Sins may be remitted or forgiven by various means, according to the kind and gravity of the sin; by Baptism, by Penance, and by good works. 1. Original sin is remitted through Baptism. When we are baptised, we become children of God, and heirs of heaven.
+— Sins may be remitted or forgiven by various means, according to the kind and gravity of the sin; by Baptism, by Penance, and by good works.
+
+1. Original sin is remitted through Baptism. When we are baptised, we become children of God, and heirs of heaven.
 
 > None but children of God, the baptised, can have a pass to God's eternal home.
 
@@ -43,7 +47,9 @@ Christ taught about the forgiveness of sins in the parable of the Prodigal Son. 
 
 **What is vice?**
 
-— Vice is a habit of sin formed by repeated acts of sin. 1. One who makes a practice of stealing has the vice of theft. One who habitually drinks to intoxication has the vice of drunkenness. One who frequently sins against chastity has the vice of impurity.
+— Vice is a habit of sin formed by repeated acts of sin.
+
+1. One who makes a practice of stealing has the vice of theft. One who habitually drinks to intoxication has the vice of drunkenness. One who frequently sins against chastity has the vice of impurity.
 
 > If one commits robbery and ever after avoids that sin, he has committed the mortal sin of robbery, but he has no vice. Similarly one may be completely intoxicated once, but if he resolves never again to drink, and sticks to his resolution, he has no vice.
 

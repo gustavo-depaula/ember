@@ -2,12 +2,14 @@
 
 ![](../images/lesson-108.webp)
 
-Christ said, concerning scandalizing children: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea. Woe to the world because of scandals! For it must needs be that scandals come, but woe to the man through whom scandal does come!" (Matt. 18: 6-7).
+*Christ said, concerning scandalizing children: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea. Woe to the world because of scandals! For it must needs be that scandals come, but woe to the man through whom scandal does come!" (Matt. 18: 6-7).*
 
 
 **What is bad example?**
 
-— Bad example is doing wrong in the presence of others. 1. Bad example is the principal occasion of scandal, which is occasioning the sin of another by any word or deed having at least the appearance of evil. If any help or encouragement is given in any way to cause another to do wrong, scandal is committed or given.
+— Bad example is doing wrong in the presence of others.
+
+1. Bad example is the principal occasion of scandal, which is occasioning the sin of another by any word or deed having at least the appearance of evil. If any help or encouragement is given in any way to cause another to do wrong, scandal is committed or given.
 
 > Bad example and scandal are sins against the soul included in the Fifth Commandment. They injure our neighbour's soul, and so are worse evils than injuring his body. They do the devil's work and draw souls into hell. If by deliberate scandal and bad example we cause another to commit a grave sin, we are worse than murderers. One who hurts or destroys the spiritual life of his neighbour commits the sin of murder. St. Augustine said, "If thou persuade thy neighbour to sin, thou art his murderer."
 

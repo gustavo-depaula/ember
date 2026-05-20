@@ -2,14 +2,16 @@
 
 ![](../images/lesson-038.webp)
 
-"And when the days of Pentecost were drawing to a close, they were all together in one place. And suddenly there came a sound from heaven, as of a violent wind coming, and it filled the whole house where they were sitting. And there appeared to them parted tongues as of fire, which settled upon each of them. And they were all filled with the Holy Spirit and began to speak in foreign tongues, even as the Holy Spirit prompted them to speak" (Acts 2: 1-4).
+*"And when the days of Pentecost were drawing to a close, they were all together in one place. And suddenly there came a sound from heaven, as of a violent wind coming, and it filled the whole house where they were sitting. And there appeared to them parted tongues as of fire, which settled upon each of them. And they were all filled with the Holy Spirit and began to speak in foreign tongues, even as the Holy Spirit prompted them to speak" (Acts 2: 1-4).*
 
 (EIGHTH ARTICLE OF THE APOSTLES' CREED)
 
 
 **Who is the Holy Ghost?**
 
-— The Holy Ghost is God and the Third Person of the Blessed Trinity. 1. Christ often spoke of the Holy Ghost.
+— The Holy Ghost is God and the Third Person of the Blessed Trinity.
+
+1. Christ often spoke of the Holy Ghost.
 
 > One of the most solemn occasions was when He charged the Apostles: "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28: 19).
 
@@ -28,7 +30,9 @@
 
 **What does the Holy Ghost do for the salvation of mankind?**
 
-— The Holy Ghost dwells in the Church as the source of its life, and sanctifies souls through the gift of grace. 1. Although all Divine works depend on all Three Persons, we attribute the work of sanctification to God the Holy Ghost, because He is the oneness of love of the Father and the Son, and the sanctification of man by grace reveals that boundless love.
+— The Holy Ghost dwells in the Church as the source of its life, and sanctifies souls through the gift of grace.
+
+1. Although all Divine works depend on all Three Persons, we attribute the work of sanctification to God the Holy Ghost, because He is the oneness of love of the Father and the Son, and the sanctification of man by grace reveals that boundless love.
 
 > "Do you not know that you are the temple of God and that the Spirit of God dwells in you?" (1 Cor. 3: 16).
 

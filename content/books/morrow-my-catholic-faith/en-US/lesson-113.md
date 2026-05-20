@@ -2,7 +2,7 @@
 
 ![](../images/lesson-113.webp)
 
-The government should protect the right of private ownership. Citizens are most contented when they have some property to call their own, on which they can depend for the necessities of the families and for maintenance in their old age. Problems of peace and order increase with the increase of people who have no property of their own to think about. Something is wrong when a country's wealth is in the hands of a limited few; everyone should be owner of something, however little.
+*The government should protect the right of private ownership. Citizens are most contented when they have some property to call their own, on which they can depend for the necessities of the families and for maintenance in their old age. Problems of peace and order increase with the increase of people who have no property of their own to think about. Something is wrong when a country's wealth is in the hands of a limited few; everyone should be owner of something, however little.*
 
 
 **What teachings of the Church related to social-economic matters are based on the seventh and tenth commandments?**
@@ -34,7 +34,19 @@ The government should protect the right of private ownership. Citizens are most 
 
 **From the moral point of view, what are the purposes of economic life?**
 
-— From the moral point of view the purposes of economic life are the following: 1. God-given resources such as those of the land, as well as human skills, must be developed for the benefit of God's children. 2. The motive of profit must always give way to the motive of the moral law. 3. God's gifts should be distributed in an equitable manner. 4. Everyone should be provided with useful employment in accordance with his abilities and needs, and with his dignity as a human being created by God. 5. The State, as instrument of the common good, has the duty to intervene in economic life, for that purpose of the common good, of either the group or of the individual. But man and his family always have priority over the State. 6. There must always be cooperation in the economic life, between those who work and those who own.
+— From the moral point of view the purposes of economic life are the following:
+
+1. God-given resources such as those of the land, as well as human skills, must be developed for the benefit of God's children.
+
+2. The motive of profit must always give way to the motive of the moral law.
+
+3. God's gifts should be distributed in an equitable manner.
+
+4. Everyone should be provided with useful employment in accordance with his abilities and needs, and with his dignity as a human being created by God.
+
+5. The State, as instrument of the common good, has the duty to intervene in economic life, for that purpose of the common good, of either the group or of the individual. But man and his family always have priority over the State.
+
+6. There must always be cooperation in the economic life, between those who work and those who own.
 
 
 **Why is private ownership a right?**

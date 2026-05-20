@@ -2,12 +2,14 @@
 
 ![](../images/lesson-139.webp)
 
-The holy Sacrifice of the Mass is offered every hour somewhere in the world. Wherever he is, a Catholic knows that whatever he may be doing, he can join spiritually in the Holy Sacrifice. The chart above gives the approximate time when Masses are most likely being said (6 a.m.) in the countries listed on the dial. Let us join in a Holy Mass somewhere now.
+*The holy Sacrifice of the Mass is offered every hour somewhere in the world. Wherever he is, a Catholic knows that whatever he may be doing, he can join spiritually in the Holy Sacrifice. The chart above gives the approximate time when Masses are most likely being said (6 a.m.) in the countries listed on the dial. Let us join in a Holy Mass somewhere now.*
 
 
 **How should we assist at Mass?**
 
-— We should assist at Mass with reverence, attention, and devotion. 1. We should remember that we are present at the Holy Sacrifice of Christ's Body and Blood. Whispering, laughing, and looking about during Mass are out of place and irreverent.
+— We should assist at Mass with reverence, attention, and devotion.
+
+1. We should remember that we are present at the Holy Sacrifice of Christ's Body and Blood. Whispering, laughing, and looking about during Mass are out of place and irreverent.
 
 > When we are conversing with anyone, we give him all our attention, and do not even think of other people. At Mass, we are in the Real Presence of God. We should fix our attention on Him, and forget everything else. It is the practice to kneel during Mass, at least from the beginning to the Offertory, and from the Sanctus till after the Communion, standing for the Gospels.
 
@@ -28,7 +30,9 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 **What is the best method of assisting at Mass?**
 
-— The best method of assisting at Mass is to unite with the priest in offering the Holy Sacrifice, and to receive Holy Communion. 1. The best way of uniting ourselves in offering the Holy Sacrifice is by following the prayers of the Mass from a Missal, and meditating on the mysteries presented therein. If we have no Missal, we should devoutly meditate, especially at the principal parts, on Our Lord's Passion; the Mass is a re-enactment of the sacrifice on the cross, a commemoration of Christ's death.
+— The best method of assisting at Mass is to unite with the priest in offering the Holy Sacrifice, and to receive Holy Communion.
+
+1. The best way of uniting ourselves in offering the Holy Sacrifice is by following the prayers of the Mass from a Missal, and meditating on the mysteries presented therein. If we have no Missal, we should devoutly meditate, especially at the principal parts, on Our Lord's Passion; the Mass is a re-enactment of the sacrifice on the cross, a commemoration of Christ's death.
 
 > Those who say vocal prayers must be careful not to whisper so loud as to disturb others. At the principal parts of Mass, we should always suspend our private devotions and meditate on the particular mystery presented: at the Offertory uniting our intentions with the priest, at the Consecration welcoming Jesus, and at the Communion inviting Him into our hearts and thanking Him for the consummation of His sacrifice.
 
@@ -45,7 +49,9 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 **Why is Mass said in Latin?**
 
-— Mass is said in Latin because Latin is the official language of the Western Church. 1. The use of Latin, a dead language, has many advantages. It insures unity and uniformity in faith and practice.
+— Mass is said in Latin because Latin is the official language of the Western Church.
+
+1. The use of Latin, a dead language, has many advantages. It insures unity and uniformity in faith and practice.
 
 > There can be no change from one church to another using the same Latin rite. Because Latin is a dead language, the words do not change their meaning and the interpretation is always uniform.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-136.webp)
 
-1. Chalice and Purificator. 2. Paten and Chalice. 3. Pall, with Chalice. 4. Veiled Chalice.
+*1. Chalice and Purificator. 2. Paten and Chalice. 3. Pall, with Chalice. 4. Veiled Chalice.*
 
 
 **What are the sacred vessels used for the altar?**

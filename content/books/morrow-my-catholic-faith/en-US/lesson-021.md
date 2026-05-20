@@ -2,12 +2,14 @@
 
 ![](../images/lesson-021.webp)
 
-Christ permitted Himself to be tempted by the devil. After Our Lord's forty days' fast in the desert, the devil appeared to Him and tempted Him to gluttony, to pride, and to avarice. But Our Lord resisted the devil and sent him away. Then angels came to minister to Him. God wishes to show us that temptation, far from being a sin in itself, is a source of merit if we resist firmly. Then God will send us His blessings and consolations, and we shall be dearer to Him after our successful fight against temptation.
+*Christ permitted Himself to be tempted by the devil. After Our Lord's forty days' fast in the desert, the devil appeared to Him and tempted Him to gluttony, to pride, and to avarice. But Our Lord resisted the devil and sent him away. Then angels came to minister to Him. God wishes to show us that temptation, far from being a sin in itself, is a source of merit if we resist firmly. Then God will send us His blessings and consolations, and we shall be dearer to Him after our successful fight against temptation.*
 
 
 **What is actual sin?**
 
-— Actual sin is any wilful thought, desire, word, action, or omission forbidden by the law of God. 1. There are two general classes of sins: original and actual. Original sin is the kind of sin that we inherit from Adam. Actual sin is the kind of sin that we ourselves commit. In general, when we speak of "sin" we mean actual sin.
+— Actual sin is any wilful thought, desire, word, action, or omission forbidden by the law of God.
+
+1. There are two general classes of sins: original and actual. Original sin is the kind of sin that we inherit from Adam. Actual sin is the kind of sin that we ourselves commit. In general, when we speak of "sin" we mean actual sin.
 
 > Sin is an offence against God, a violation of His commandments. To sin is to despise God, to disobey Him, to offend Him. One who sins takes the gifts that God has given, and uses them to insult Him.
 
@@ -41,7 +43,9 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 **Why is an exterior sin more evil than an interior sin?**
 
-— An exterior sin is more evil than an interior sin, because it is attended by worse consequences. 1. An exterior sin often causes scandal, and is more severely punished by God here on earth as well as after death.
+— An exterior sin is more evil than an interior sin, because it is attended by worse consequences.
+
+1. An exterior sin often causes scandal, and is more severely punished by God here on earth as well as after death.
 
 > Drunkenness reduces the drunkard and his family to poverty and sickness. Impurity destroys the body, sometimes producing insanity. Murder often leads the culprit to the electric chair.
 
@@ -52,7 +56,9 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 **Are all evil acts sinful?**
 
-— Not all evil acts are sinful; there may be times when such acts are not sinful, as: 1. When we do not know that the act is sinful.
+— Not all evil acts are sinful; there may be times when such acts are not sinful, as:
+
+1. When we do not know that the act is sinful.
 
 > Noe became intoxicated, but committed no sin, because he was not aware of the strength of the wine. So one might by mistake take poison instead of medicine and die, but he would not be guilty of suicide. Such an act is termed a material sin.
 
@@ -78,7 +84,9 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 **How many kinds of actual sin are there?**
 
-— There are two kinds of actual sin: mortal sin and venial sin. 1. Another classification is: (a) sins of thought; (b) sins of desire; (c) sins of word; (d) sins of deed; (e) sins of omission.
+— There are two kinds of actual sin: mortal sin and venial sin.
+
+1. Another classification is: (a) sins of thought; (b) sins of desire; (c) sins of word; (d) sins of deed; (e) sins of omission.
 
 > If we take pleasure in thinking proudly of ourselves, we sin by thought. If we cannot rest content because we envy somebody's clothes and wish we had them, we sin by desire. If we get angry and say angry words to someone, we sin by word. If we are so angry that we begin striking the person, we sin by deed. If we do not do what is our duty, such as going to Mass on Sunday, we sin by omission.
 

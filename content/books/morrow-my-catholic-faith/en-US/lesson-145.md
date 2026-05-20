@@ -2,12 +2,14 @@
 
 ![](../images/lesson-145.webp)
 
-In our examination of conscience, we must make a careful scrutiny, as if we were to appear at that moment before the judgement seat of God. We must not, however, be scrupulous, remembering that God is a just and merciful God, who does not expect what is beyond our power. By the examination we learn to know ourselves, our weaknesses, our temptations, our sins. During the examination of conscience we should decide how we are to tell our sins, so that we may be clear and brief.
+*In our examination of conscience, we must make a careful scrutiny, as if we were to appear at that moment before the judgement seat of God. We must not, however, be scrupulous, remembering that God is a just and merciful God, who does not expect what is beyond our power. By the examination we learn to know ourselves, our weaknesses, our temptations, our sins. During the examination of conscience we should decide how we are to tell our sins, so that we may be clear and brief.*
 
 
 **What must we do to receive the sacrament of Penance worthily?**
 
-— We must: 1. Examine our conscience.
+— We must:
+
+1. Examine our conscience.
 
 > By the examination of conscience we recall the sins committed since our last good confession.
 
@@ -34,7 +36,9 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 **What is an examination of conscience?**
 
-— An examination of conscience is a sincere effort to call to mind all the sins we have committed since our last worthy confession. 1. Before our examination of conscience we should ask God's help to know our sins and to confess them with sincere sorrow. Without His grace, we can neither know our sins nor feel sorrow for them.
+— An examination of conscience is a sincere effort to call to mind all the sins we have committed since our last worthy confession.
+
+1. Before our examination of conscience we should ask God's help to know our sins and to confess them with sincere sorrow. Without His grace, we can neither know our sins nor feel sorrow for them.
 
 > "As I live, saith the Lord God, I desire not the death of the wicked, but that the wicked turn from his way and live" (Ex. 33: 11).
 
@@ -45,7 +49,9 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 **How can we make a good examination of conscience?**
 
-— We can make a good examination of conscience by calling to mind the commandments of God and of the Church, and the particular duties of our state of life, and by asking ourselves how we may have sinned with regard to them. 1. We should make as careful an examination as if we were on our deathbed, considering in what way we have sinned in thought, desire, word, deed, or omission. We must recall how often we have committed mortal sins.
+— We can make a good examination of conscience by calling to mind the commandments of God and of the Church, and the particular duties of our state of life, and by asking ourselves how we may have sinned with regard to them.
+
+1. We should make as careful an examination as if we were on our deathbed, considering in what way we have sinned in thought, desire, word, deed, or omission. We must recall how often we have committed mortal sins.
 
 > "I will meditate on Thy commandments and I will consider Thy ways" (Ps. 118: 15).
 
@@ -75,7 +81,9 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 **When is the examination of conscience too scrupulous?**
 
-— The examination of conscience is too scrupulous when we make ourselves miserable by minute and prolonged examination, fearing that we may not do it well. 1. Some scrupulous persons spend a half hour or more examining themselves with the minutest detail for a weekly confession.
+— The examination of conscience is too scrupulous when we make ourselves miserable by minute and prolonged examination, fearing that we may not do it well.
+
+1. Some scrupulous persons spend a half hour or more examining themselves with the minutest detail for a weekly confession.
 
 > This is too long. A good examination for a weekly confession can be made in five minutes and for a monthly confession in ten or fifteen minutes, especially if one has not neglected to make his daily examination of conscience.
 

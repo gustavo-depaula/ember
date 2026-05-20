@@ -2,7 +2,7 @@
 
 ![](../images/lesson-080.webp)
 
-Belief in the resurrection is very consoling. It was this belief that gave the early Christians and martyrs such fortitude under persecutions. Firm in this belief, we should not mourn for our beloved dead excessively: "But we would not, brethren, have you ignorant concerning those who are asleep, lest you should grieve, even as others who have no hope" (1 Thess. 4:13). We shall see them again in the resurrection. We should remember the words of Our Lord, Who will raise us from the dead: "I am the resurrection and the life; he who believes in me, even if he die, shall live; and whoever lives and believes in me, shall never die" (John 11: 25 - 26).
+*Belief in the resurrection is very consoling. It was this belief that gave the early Christians and martyrs such fortitude under persecutions. Firm in this belief, we should not mourn for our beloved dead excessively: "But we would not, brethren, have you ignorant concerning those who are asleep, lest you should grieve, even as others who have no hope" (1 Thess. 4:13). We shall see them again in the resurrection. We should remember the words of Our Lord, Who will raise us from the dead: "I am the resurrection and the life; he who believes in me, even if he die, shall live; and whoever lives and believes in me, shall never die" (John 11: 25 - 26).*
 
 
 **What is meant by the "resurrection of the body?"**

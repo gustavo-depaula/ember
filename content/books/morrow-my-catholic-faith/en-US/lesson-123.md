@@ -2,7 +2,7 @@
 
 ![](../images/lesson-123.webp)
 
-The sacraments derive their efficacy from Christ, by Whose merits we possess them. They do not derive any merit from the person administering them. Therefore the sacraments give grace of themselves, even when the priest or person administering them is unworthy, as long as the recipient has the proper dispositions. Good medicine is good regardless of the druggist or physician.
+*The sacraments derive their efficacy from Christ, by Whose merits we possess them. They do not derive any merit from the person administering them. Therefore the sacraments give grace of themselves, even when the priest or person administering them is unworthy, as long as the recipient has the proper dispositions. Good medicine is good regardless of the druggist or physician.*
 
 
 **What is a sacrament?**
@@ -71,7 +71,9 @@ The sacraments derive their efficacy from Christ, by Whose merits we possess the
 
 **Which are the sacraments that can be received only once?**
 
-— The sacraments that can be received only once are Baptism, Confirmation, and Holy Orders. 1. This is because these sacraments imprint on the soul a spiritual mark or character, which consists in a special dedication to Christ. This mark is indelible, and is not effaced by anything, not even mortal sin. It will be borne by the soul for all eternity, for its greater glory if in heaven, and for its greater shame if in hell.
+— The sacraments that can be received only once are Baptism, Confirmation, and Holy Orders.
+
+1. This is because these sacraments imprint on the soul a spiritual mark or character, which consists in a special dedication to Christ. This mark is indelible, and is not effaced by anything, not even mortal sin. It will be borne by the soul for all eternity, for its greater glory if in heaven, and for its greater shame if in hell.
 
 > The spiritual character imprinted is such that the soul of a baptised person is as different from the soul of the unbaptised as light is different from the dark. A priest will be known as a priest forever, by the mark on his soul, whether he be in heaven or in hell.
 

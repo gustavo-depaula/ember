@@ -2,7 +2,7 @@
 
 ![](../images/lesson-035.webp)
 
-During Holy Week the Church lives again the passion and death of Christ. On the first day, Palm Sunday, the solemn entry of Jesus into Jerusalem is celebrated by the blessing of palms (1), followed by a solemn procession. At the Mass of this day, as on Tuesday, Wednesday, and Friday, the story of the Passion (3) from each Evangelist is read. On Thursday, Friday, and Saturday of Holy Week the Tenebrae are celebrated: the fifteen candles are put out one by one, to symbolize the flight of the disciples (2), and the death of Our Lord. On Holy Thursday morning a pontifical Mass is celebrated, in cathedrals only; at this the holy oils (4) are blessed. Commemorating the Last Supper at which the Holy Eucharist and the Priesthood were instituted, Holy Thursday Mass takes place in the evening, with the washing of feet (5) to commemorate Christ's washing of the Apostles' feet. At the Good Friday service, emphasis is given to the veneration of the cross (6) . Holy Saturday services are held at night, beginning with the blessing of the new fire (7); from this the Paschal candle is lighted (9), a reminder of Christ, Light of the world. The five grains of incense embedded in the candle remind us of His wounds. Four Lessons (10) are read; the baptismal water is blessed and taken to the font (8). The Mass commemorates, Our Lord's glorious Resurrection (11).
+*During Holy Week the Church lives again the passion and death of Christ. On the first day, Palm Sunday, the solemn entry of Jesus into Jerusalem is celebrated by the blessing of palms (1), followed by a solemn procession. At the Mass of this day, as on Tuesday, Wednesday, and Friday, the story of the Passion (3) from each Evangelist is read. On Thursday, Friday, and Saturday of Holy Week the Tenebrae are celebrated: the fifteen candles are put out one by one, to symbolize the flight of the disciples (2), and the death of Our Lord. On Holy Thursday morning a pontifical Mass is celebrated, in cathedrals only; at this the holy oils (4) are blessed. Commemorating the Last Supper at which the Holy Eucharist and the Priesthood were instituted, Holy Thursday Mass takes place in the evening, with the washing of feet (5) to commemorate Christ's washing of the Apostles' feet. At the Good Friday service, emphasis is given to the veneration of the cross (6) . Holy Saturday services are held at night, beginning with the blessing of the new fire (7); from this the Paschal candle is lighted (9), a reminder of Christ, Light of the world. The five grains of incense embedded in the candle remind us of His wounds. Four Lessons (10) are read; the baptismal water is blessed and taken to the font (8). The Mass commemorates, Our Lord's glorious Resurrection (11).*
 
 
 **When did Christ die?**
@@ -25,7 +25,9 @@ During Holy Week the Church lives again the passion and death of Christ. On the 
 
 **What took place at the death of Christ?**
 
-— At the death of Christ, the sun was darkened, the earth quaked, the veil of the Temple was rent, the rocks split, and many of the dead arose and appeared in Jerusalem. 1. The tearing of the veil of the Temple at the death of Christ, marked the end of the Jewish religion as the true religion. This Jewish religion had been a figure of the True Church, and when the Church was established, was no longer needed: types and figures had to give way to reality.
+— At the death of Christ, the sun was darkened, the earth quaked, the veil of the Temple was rent, the rocks split, and many of the dead arose and appeared in Jerusalem.
+
+1. The tearing of the veil of the Temple at the death of Christ, marked the end of the Jewish religion as the true religion. This Jewish religion had been a figure of the True Church, and when the Church was established, was no longer needed: types and figures had to give way to reality.
 
 > The veil of the Temple concealed the Holy of Holies, the most sacred part of the Temple.
 
@@ -44,7 +46,9 @@ During Holy Week the Church lives again the passion and death of Christ. On the 
 
 **What do we learn from the sufferings and death of Christ?**
 
-— From the sufferings and death of Christ we learn God's love for man and the evil of sin, for which God, who is all-just, demands such great satisfaction. 1. It was not necessary for Jesus to suffer so intensely in order to redeem all men. As His merits are infinite, He could have wiped away the sins of a thousand worlds by shedding one drop of His blood. But He chose to suffer agonies because He loves us.
+— From the sufferings and death of Christ we learn God's love for man and the evil of sin, for which God, who is all-just, demands such great satisfaction.
+
+1. It was not necessary for Jesus to suffer so intensely in order to redeem all men. As His merits are infinite, He could have wiped away the sins of a thousand worlds by shedding one drop of His blood. But He chose to suffer agonies because He loves us.
 
 > "Greater love than this no one has, that one lay down his life for his friends" (John 15: 13). "I am the good shepherd. The good shepherd lays down his life for his sheep ... I am the good shepherd; and I know mine and mine know me. ... and I lay down my life for my sheep" (John 10: 11-15).
 

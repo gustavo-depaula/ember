@@ -2,7 +2,7 @@
 
 ![](../images/lesson-011.webp)
 
-A good concrete illustration of the Blessed Trinity is an equilateral triangle. Such a triangle has three sides equal in every way, and yet distinct from each other. There are three sides, but only one triangle. As we see in this illustration, each Divine Person is different from the other two, but all three are God. Each one is God, distinct from the two others, and yet one with them. The three Persons are equal in every way, with one nature and one substance: three Divine Persons, but only one God.
+*A good concrete illustration of the Blessed Trinity is an equilateral triangle. Such a triangle has three sides equal in every way, and yet distinct from each other. There are three sides, but only one triangle. As we see in this illustration, each Divine Person is different from the other two, but all three are God. Each one is God, distinct from the two others, and yet one with them. The three Persons are equal in every way, with one nature and one substance: three Divine Persons, but only one God.*
 
 
 **Is there only one God?**
@@ -52,7 +52,9 @@ We speak of three "Persons" in God because to each belongs something we cannot a
 
 **What do we mean by the Blessed Trinity?**
 
-— By the Blessed Trinity we mean one and the same God in three divine Persons. 1. The Father is God and the First Person of the Blessed Trinity. Omnipotence, and especially the work of creation, is attributed to God the Father.
+— By the Blessed Trinity we mean one and the same God in three divine Persons.
+
+1. The Father is God and the First Person of the Blessed Trinity. Omnipotence, and especially the work of creation, is attributed to God the Father.
 
 > God the Father could have created millions of beings instead of you yourself; but He chose you out of a love wholly undeserved, saying, "I have loved thee with an everlasting love" (Jer. 31: 3). Let us then cry in thanksgiving, "Abba, Father!" (Rom. 8: 15). Let us show our gratitude by avoiding all that could displease God the Father, by trying to please Him with virtue, by trying for greater perfection, in obedience to that injunction of Our Lord's: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5: 48)
 

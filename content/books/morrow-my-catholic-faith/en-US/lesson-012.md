@@ -2,7 +2,7 @@
 
 ![](../images/lesson-012.webp)
 
-"And the Catholic Faith is this, that we worship one God in Trinity, and Trinity in unity. Neither confounding the Persons, nor dividing the Substance. ... But the Godhead of the Father, of the Son, and of The Holy Ghost is One, the Glory Equal, the Majesty co-Eternal. ... The Father is made of none, neither created, nor begotten. The Son is of the Father alone: not made, nor created, but begotten. The Holy Ghost is of the Father and the Son: neither made, nor created, nor begotten, but proceeding. ... And in this Trinity None is before or after Other, None is greater or less than Another, but the Three Persons are co-Eternal together, and co-Equal" (From the Athanasian Creed).
+*"And the Catholic Faith is this, that we worship one God in Trinity, and Trinity in unity. Neither confounding the Persons, nor dividing the Substance. ... But the Godhead of the Father, of the Son, and of The Holy Ghost is One, the Glory Equal, the Majesty co-Eternal. ... The Father is made of none, neither created, nor begotten. The Son is of the Father alone: not made, nor created, but begotten. The Holy Ghost is of the Father and the Son: neither made, nor created, nor begotten, but proceeding. ... And in this Trinity None is before or after Other, None is greater or less than Another, but the Three Persons are co-Eternal together, and co-Equal" (From the Athanasian Creed).*
 
 
 **Are the three Divine Persons perfectly equal to one another?**
@@ -31,7 +31,9 @@ All three Persons are equal in every way, equal in power and glory. The attribut
 
 **Can we fully understand how the three divine Persons, though really distinct from one another, are one and the same God?**
 
-— We cannot fully understand how the three divine Persons, though really distinct from one another, are one and the same God, because this is a supernatural mystery. 1. A supernatural mystery is a truth which we cannot fully understand, but which we firmly believe because we have God's word for it. A supernatural mystery is above reason, but not contrary to it. No man can explain a mystery; neither can anyone know it unless it is revealed by God. "Great art thou, O Lord, in counsel, and incomprehensible in thought" (Jer. 32:19).
+— We cannot fully understand how the three divine Persons, though really distinct from one another, are one and the same God, because this is a supernatural mystery.
+
+1. A supernatural mystery is a truth which we cannot fully understand, but which we firmly believe because we have God's word for it. A supernatural mystery is above reason, but not contrary to it. No man can explain a mystery; neither can anyone know it unless it is revealed by God. "Great art thou, O Lord, in counsel, and incomprehensible in thought" (Jer. 32:19).
 
 > It is not unreasonable to believe in a supernatural mystery. There are many natural mysteries around us that no one has yet been able to explain, yet we believe them: electricity, magnetism, force, and many of the processes of life.
 
@@ -65,7 +67,9 @@ All three Persons are equal in every way, equal in power and glory. The attribut
 
 **When do we profess our faith in the Blessed Trinity?**
 
-— We profess our faith in the Blessed Trinity especially when we make the sign of the cross. 1. We also honour the Blessed Trinity every time we say the doxology or "prayer of praise": "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be world without end."
+— We profess our faith in the Blessed Trinity especially when we make the sign of the cross.
+
+1. We also honour the Blessed Trinity every time we say the doxology or "prayer of praise": "Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the beginning, is now, and ever shall be world without end."
 
 > The Feast of the Blessed Trinity, called Trinity Sunday, is kept on the first Sunday after Pentecost.
 

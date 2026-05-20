@@ -2,7 +2,7 @@
 
 ![](../images/lesson-128.webp)
 
-At the consecration at Mass, the bread and wine are changed into the Body and Blood, Soul and Divinity of our Lord Jesus Christ. This is the Sacrament that Jesus instituted at the Last Supper (1). In the Blessed Eucharist is the same Person who was born in Bethlehem (2), crucified on Calvary (3), and rose gloriously from the dead on the first Easter morning (4).
+*At the consecration at Mass, the bread and wine are changed into the Body and Blood, Soul and Divinity of our Lord Jesus Christ. This is the Sacrament that Jesus instituted at the Last Supper (1). In the Blessed Eucharist is the same Person who was born in Bethlehem (2), crucified on Calvary (3), and rose gloriously from the dead on the first Easter morning (4).*
 
 
 **What is the Holy Eucharist?**
@@ -35,7 +35,9 @@ At the consecration at Mass, the bread and wine are changed into the Body and Bl
 
 **Why do we believe that Christ changed bread and wine into His own Body and Blood?**
 
-— We believe that Christ changed bread and wine into His own Body and Blood, because: 1. His words clearly say so. At the Last Supper He said: "This is My Body" not "This is a symbol of My Body," or "This represents My Body."
+— We believe that Christ changed bread and wine into His own Body and Blood, because:
+
+1. His words clearly say so. At the Last Supper He said: "This is My Body" not "This is a symbol of My Body," or "This represents My Body."
 
 > "And while they were at supper, Jesus took bread, and blessed and broke, and gave it to his disciples, and said,
 

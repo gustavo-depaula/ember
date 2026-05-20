@@ -2,12 +2,14 @@
 
 ![](../images/lesson-185.webp)
 
-The Rosary is divided into the joyful, the sorrowful, and the glorious mysteries. In the joyful mysteries, we meditate on: (1) the Annunciation; (2) The Visitation; (3) The Birth of Jesus; (4) The Presentation; and (5) The Finding in the Temple. In the sorrowful mysteries we meditate on (1) The Agony in the Garden; (2) The Scourging; (3) The Crown of Thorns; (4) The Carrying of the Cross, and (5) The Crucifixion. In the glorious mysteries we meditate on (1) The Resurrection; (2) The Ascension; (3) The Descent of the Holy Ghost; (4) The Assumption; and (5) The Coronation of the Blessed Virgin.
+*The Rosary is divided into the joyful, the sorrowful, and the glorious mysteries. In the joyful mysteries, we meditate on: (1) the Annunciation; (2) The Visitation; (3) The Birth of Jesus; (4) The Presentation; and (5) The Finding in the Temple. In the sorrowful mysteries we meditate on (1) The Agony in the Garden; (2) The Scourging; (3) The Crown of Thorns; (4) The Carrying of the Cross, and (5) The Crucifixion. In the glorious mysteries we meditate on (1) The Resurrection; (2) The Ascension; (3) The Descent of the Holy Ghost; (4) The Assumption; and (5) The Coronation of the Blessed Virgin.*
 
 
 **What is the Rosary?**
 
-— The Rosary is a prayer in honour of the Blessed Virgin, consisting of one hundred and fifty Hail Marys and fifteen Our Fathers accompanied by meditation on the life, passion, and glory of Christ. 1. In the first centuries of Christianity, there were many hermits who could not read the psalms in the psalter. So they used to substitute one Our Father and one Hail Mary for each psalm. To note the number, they made use of stones, or seeds strung on a cord.
+— The Rosary is a prayer in honour of the Blessed Virgin, consisting of one hundred and fifty Hail Marys and fifteen Our Fathers accompanied by meditation on the life, passion, and glory of Christ.
+
+1. In the first centuries of Christianity, there were many hermits who could not read the psalms in the psalter. So they used to substitute one Our Father and one Hail Mary for each psalm. To note the number, they made use of stones, or seeds strung on a cord.
 
 > The word rosary means a garland or wreath of roses. Each prayer said in the Rosary is a spiritual rose offered to our Blessed Mother.
 

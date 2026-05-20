@@ -3,7 +3,9 @@
 
 **Do Revelation and Science contradict each other?**
 
-— No; Revelation and Science do not, and cannot, contradict each other, for both are of God. 1. There may at times be an apparent conflict between faith and science; but this is only apparent, and never real. God cannot contradict Himself. He cannot lead us into error.
+— No; Revelation and Science do not, and cannot, contradict each other, for both are of God.
+
+1. There may at times be an apparent conflict between faith and science; but this is only apparent, and never real. God cannot contradict Himself. He cannot lead us into error.
 
 > True Science is the handmaid of Religion. Science and the scientific method are means of arriving at the truth, and Religion is Truth. The greatest scientists have been Christians; a majority of outstanding leaders in science were Catholics, and many were priests. Only the shallow dabblers in science absurdly pretend that there is a conflict. The apparent conflicts arise from false interpretations, as when one takes for scientific truth what is false or not proved, or accepts as a doctrine of faith something not taught by the Church.
 
@@ -21,7 +23,9 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 **What are the only difficulties found by some scientists in the Biblical account of the creation?**
 
-— The only difficulties found by some scientists in the Biblical account of the Creation are connected with the order or sequence of events followed in the Book of Genesis. 1. If we study the proper interpretation, even these difficulties will be found not to exist.
+— The only difficulties found by some scientists in the Biblical account of the Creation are connected with the order or sequence of events followed in the Book of Genesis.
+
+1. If we study the proper interpretation, even these difficulties will be found not to exist.
 
 > Between Scripture and science, in their essence, there is neither contradiction nor confusion. Rather, they always cohere one with the other. Sometimes they are difficult to understand because of their depth, but always, when clearly known, they are seen to be in conformity with the superior exigencies of reason. (Pius XII, 1955)
 

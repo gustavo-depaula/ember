@@ -2,12 +2,14 @@
 
 ![](../images/lesson-104.webp)
 
-Upon being chosen for a public office, officials acquire not only rights, but duties as well. Judges, legislators and other public officials must treat everybody with equal justice, and must give the best service they can to the people. They are responsible before God for everything that they do, for all the decisions they make.
+*Upon being chosen for a public office, officials acquire not only rights, but duties as well. Judges, legislators and other public officials must treat everybody with equal justice, and must give the best service they can to the people. They are responsible before God for everything that they do, for all the decisions they make.*
 
 
 **What are the chief duties of those which hold public office?**
 
-— The chief duties of those who hold public office are: to be just to all in exercising their authority, and to promote the general welfare. 1. Public officials have a grave responsibility before God. The higher the post, the greater the responsibility. Legislators, members of the cabinet, judges, all office-holders — everybody from the lowest to the highest will have to give a rigid account to God of all that they have thought, said, done, or omitted, every law passed, every vote given.
+— The chief duties of those who hold public office are: to be just to all in exercising their authority, and to promote the general welfare.
+
+1. Public officials have a grave responsibility before God. The higher the post, the greater the responsibility. Legislators, members of the cabinet, judges, all office-holders — everybody from the lowest to the highest will have to give a rigid account to God of all that they have thought, said, done, or omitted, every law passed, every vote given.
 
 > "A most severe judgement will be for those who bear rule" (Wisd. 6: 6). Those in high office should regard it as merely committed into their care for a short time.
 
@@ -26,7 +28,9 @@ Upon being chosen for a public office, officials acquire not only rights, but du
 
 **How should public officials promote the general welfare?**
 
-— Public officials should promote the general welfare by safeguarding the rights of all, passing good and just laws and enforcing these laws impartially, interesting themselves in the spread of good moral customs and religion, and punishing evildoers. 1. Being the representatives of God, public officials should imitate His justice. The common good, not the benefit of a single person or group, should be the object.
+— Public officials should promote the general welfare by safeguarding the rights of all, passing good and just laws and enforcing these laws impartially, interesting themselves in the spread of good moral customs and religion, and punishing evildoers.
+
+1. Being the representatives of God, public officials should imitate His justice. The common good, not the benefit of a single person or group, should be the object.
 
 > Civil officials should be ready to sacrifice themselves for the citizens. Christ the Good Shepherd laid down His life for His sheep.
 
@@ -45,7 +49,9 @@ Upon being chosen for a public office, officials acquire not only rights, but du
 
 **What are the duties of superiors in general?**
 
-— In general, superiors must provide for the spiritual and material welfare of those over whom they have control. 1. Employers should be considerate of their inferiors. They must not oppress their employees, nor keep back their wages, nor exploit them in any way.
+— In general, superiors must provide for the spiritual and material welfare of those over whom they have control.
+
+1. Employers should be considerate of their inferiors. They must not oppress their employees, nor keep back their wages, nor exploit them in any way.
 
 > Oppression of the poor, the widow, and the orphan, and defrauding labourers of their wages, are sins that cry to heaven for vengeance. Some employers make their people work in unhealthy and overcrowded rooms; they hardly give them any time for rest and for their meals; they require of them more work than they can do.
 
@@ -56,7 +62,9 @@ Upon being chosen for a public office, officials acquire not only rights, but du
 
 **What does the fourth commandment forbid?**
 
-— The fourth commandment forbids disrespect, unkindness, and disobedience to our parents and lawful superiors. 1. Disrespect includes all irreverence and stubbornness against lawful authority. One offends against the respect due his parents when he talks back at them refuses their correction, ridicules them or strikes them.
+— The fourth commandment forbids disrespect, unkindness, and disobedience to our parents and lawful superiors.
+
+1. Disrespect includes all irreverence and stubbornness against lawful authority. One offends against the respect due his parents when he talks back at them refuses their correction, ridicules them or strikes them.
 
 > One who thinks and acts as if he were "superior" to his parents is a disgraceful snob. For even if a son or daughter has graduated with highest honours from the best university in the world, he still owes his parents due respect as God's representatives.
 

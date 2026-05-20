@@ -2,7 +2,7 @@
 
 ![](../images/lesson-067.webp)
 
-The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said, "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14: 16, 26).
+*The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said, "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14: 16, 26).*
 
 
 **What is meant by the infallibility of the Catholic Church?**
@@ -46,7 +46,9 @@ b. Christ said: "If he refuse to hear even the Church, let him be to thee as the
 
 **Has the Church in fact proved itself infallible?**
 
-— It is a historical fact that the Catholic Church, from the twentieth century back to the first, has not once ceased to teach a doctrine on faith or morals previously held, and with the same interpretation; the Church has proved itself infallible. 1. It is a historical fact that not one Pope, whatever he was in his private life, has ever taught error.
+— It is a historical fact that the Catholic Church, from the twentieth century back to the first, has not once ceased to teach a doctrine on faith or morals previously held, and with the same interpretation; the Church has proved itself infallible.
+
+1. It is a historical fact that not one Pope, whatever he was in his private life, has ever taught error.
 
 > "The Scribes and the Pharisees have sat on the chair of Moses. All things, therefore, that they command you, observe and do. But do not act according to their works." By obeying the Pope, every Christian can live as Christ commanded, in any age.
 

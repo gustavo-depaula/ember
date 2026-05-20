@@ -2,7 +2,7 @@
 
 ![](../images/lesson-042.webp)
 
-In the picture, the Holy Ghost is represented by a dove. It was in that form that the Holy Ghost showed Himself visibly when St. John baptised Jesus. The dove symbolizes gentleness and peace. The Holy Ghost dispenses the graces of God. However, the Holy Ghost produces nothing beyond what Jesus Christ merited. The merits of Our Lord are infinite, for He is God. The Holy Ghost merely perfects the works of Christ. In a somewhat similar way, the sun shining on a field does not sow new seed; it merely develops what has been sown, making it bloom and bear fruit
+*In the picture, the Holy Ghost is represented by a dove. It was in that form that the Holy Ghost showed Himself visibly when St. John baptised Jesus. The dove symbolizes gentleness and peace. The Holy Ghost dispenses the graces of God. However, the Holy Ghost produces nothing beyond what Jesus Christ merited. The merits of Our Lord are infinite, for He is God. The Holy Ghost merely perfects the works of Christ. In a somewhat similar way, the sun shining on a field does not sow new seed; it merely develops what has been sown, making it bloom and bear fruit*
 
 
 **Which are the seven gifts of the Holy Ghost?**
@@ -46,7 +46,9 @@ In the picture, the Holy Ghost is represented by a dove. It was in that form tha
 
 **How do the gifts of the Holy Ghost help us?**
 
-— The gifts of the Holy Ghost help us by making us more alert to discern and more ready to do the will of God. 1. If we look with discerning eyes, we can see how the gifts of the Holy Ghost have greatly helped the world at large.
+— The gifts of the Holy Ghost help us by making us more alert to discern and more ready to do the will of God.
+
+1. If we look with discerning eyes, we can see how the gifts of the Holy Ghost have greatly helped the world at large.
 
 > As the psalmist sang: "Thou shalt send forth Thy spirit, and they shall be created: and thou shalt renew the face of the earth" (Ps. 103: 30). "And hope does not disappoint, because the charity of God is poured forth in our hearts, by the Holy Spirit" (Rom. 5: 5).
 
@@ -64,7 +66,9 @@ In the picture, the Holy Ghost is represented by a dove. It was in that form tha
 
 **Which are the twelve fruits of the Holy Ghost?**
 
-— The twelve fruits of the Holy Ghost are: charity, joy, peace, patience, benignity, goodness, long-suffering, mildness, faith, modesty, continency, and chastity. 1. These twelve fruits of the Holy Ghost are good habits performed under the inspiration of the Holy Ghost. They make us happy and contented, and help us to be pleasing to both God and man.
+— The twelve fruits of the Holy Ghost are: charity, joy, peace, patience, benignity, goodness, long-suffering, mildness, faith, modesty, continency, and chastity.
+
+1. These twelve fruits of the Holy Ghost are good habits performed under the inspiration of the Holy Ghost. They make us happy and contented, and help us to be pleasing to both God and man.
 
 > With the fruits of the Holy Ghost, it becomes easier for us to persevere in the union with God by the practice of virtue; our heart inclines with charity towards God and our neighbour, and finds it almost natural to be detached from the world.
 

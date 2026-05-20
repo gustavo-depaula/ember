@@ -2,12 +2,14 @@
 
 ![](../images/lesson-171.webp)
 
-The main act of the sacrament of matrimony is the expression of mutual consent. After this act the couple join hands, and the priest blesses them with holy water. (1) The contracting parties hear the Nuptial Mass, receiving Holy Communion. By this act of uniting themselves with Jesus in the Holy Eucharist, they invite Him to their wedding, to bless them, as the couple in Cana did long ago. During the Mass the Nuptial Blessing (3) is given. "May her wedlock be to her a yoke of love."
+*The main act of the sacrament of matrimony is the expression of mutual consent. After this act the couple join hands, and the priest blesses them with holy water. (1) The contracting parties hear the Nuptial Mass, receiving Holy Communion. By this act of uniting themselves with Jesus in the Holy Eucharist, they invite Him to their wedding, to bless them, as the couple in Cana did long ago. During the Mass the Nuptial Blessing (3) is given. "May her wedlock be to her a yoke of love."*
 
 
 **What are the ceremonies of the nuptial contract?**
 
-— The ceremonies of the nuptial contract are not identical throughout the Church; we here describe those used in this country, in accordance with the Roman Ritual. 1. The general practice is to have the ceremony performed at the foot of the altar, immediately before the celebration of Mass. The bridegroom stands to the right of the bride, with the witnesses near, facing the priest.
+— The ceremonies of the nuptial contract are not identical throughout the Church; we here describe those used in this country, in accordance with the Roman Ritual.
+
+1. The general practice is to have the ceremony performed at the foot of the altar, immediately before the celebration of Mass. The bridegroom stands to the right of the bride, with the witnesses near, facing the priest.
 
 > This is the only occasion when lay people are permitted to remain in the sanctuary; pews are prepared for groom and bride, as well as for the sponsors or witnesses, if the Mass is to be said.
 
@@ -26,7 +28,9 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 **What is a Nuptial Mass?**
 
-— A Nuptial Mass is a Mass which has special prayers to beg God's blessing on the married couple. 1. It is indeed most regrettable that in our country comparatively few marriages are celebrated with the Nuptial Mass. How many blessings the couple miss, when the Mass is omitted!
+— A Nuptial Mass is a Mass which has special prayers to beg God's blessing on the married couple.
+
+1. It is indeed most regrettable that in our country comparatively few marriages are celebrated with the Nuptial Mass. How many blessings the couple miss, when the Mass is omitted!
 
 > The afternoon and evening wedding is becoming more of a fashionable social affair than a religious ceremony. Matrimony, the great Christian Sacrament, is being turned into a civil contract. No wonder an increasing number of marriages end in divorce. Today more importance seems to be given to the festivities following the marriage ceremony than to the ceremony itself.
 
@@ -45,7 +49,9 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 **When is the Nuptial Blessing given?**
 
-— The Nuptial Blessing is given during the Canon of the Mass, after the Pater Noster; it is directed rather to the woman than to the man. 1. With the True Presence before them, the priest turns, faces the couple, and imparts the Nuptial Blessing. It is of singular beauty, invoking God's grace upon the union, and praying for the bride.
+— The Nuptial Blessing is given during the Canon of the Mass, after the Pater Noster; it is directed rather to the woman than to the man.
+
+1. With the True Presence before them, the priest turns, faces the couple, and imparts the Nuptial Blessing. It is of singular beauty, invoking God's grace upon the union, and praying for the bride.
 
 > Only on one other occasion (when the bishop blesses the holy oils at the Holy Thursday Mass) is the Canon of the Mass thus interrupted at its most solemn part. This is part of the prayer for the bride: "May her wedlock be to her a yoke of love and peace. Faithful and chaste, may she marry in Christ, and be an imitator of holy women. May she be amiable to her husband, like Rachel; wise, like Rebecca; long-lived and faithful, like Sara. ... May she be fruitful in offspring, approved and innocent. . . .Through Christ our Lord. Amen."
 

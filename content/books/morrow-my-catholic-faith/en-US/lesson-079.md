@@ -2,12 +2,14 @@
 
 ![](../images/lesson-079.webp)
 
-We should be generous in helping the poor souls in purgatory, who long for God. The best thing we can do for them is to have Masses offered for them. The Church puts no limit to the time during which we may pray or offer Masses for the suffering soul in purgatory. If we cannot have a Mass said, we should at least hear Masses for our dear departed. If God so willed, a single Mass could release all the souls in purgatory. We should offer Masses especially on All Souls' Day and on the anniversaries of death of our relatives and friends.
+*We should be generous in helping the poor souls in purgatory, who long for God. The best thing we can do for them is to have Masses offered for them. The Church puts no limit to the time during which we may pray or offer Masses for the suffering soul in purgatory. If we cannot have a Mass said, we should at least hear Masses for our dear departed. If God so willed, a single Mass could release all the souls in purgatory. We should offer Masses especially on All Souls' Day and on the anniversaries of death of our relatives and friends.*
 
 
 **What pains do the souls in purgatory suffer?**
 
-— The souls in purgatory suffer from a great longing to be united to God, and from other great pains. 1. Their chief pain is the deprivation of the Beatific Vision, the vision of God in the glory of heaven. This temporary deprivation is a most severe punishment, because the poor souls already have a full knowledge of what they are missing.
+— The souls in purgatory suffer from a great longing to be united to God, and from other great pains.
+
+1. Their chief pain is the deprivation of the Beatific Vision, the vision of God in the glory of heaven. This temporary deprivation is a most severe punishment, because the poor souls already have a full knowledge of what they are missing.
 
 > "As the hart panteth after the fountains of water, so my soul panteth after thee, O God! my soul hath thirsted after the strong living God; when shall I come and appear before the face of God?" (Ps. 41: 2, 3).
 
@@ -26,7 +28,9 @@ We should be generous in helping the poor souls in purgatory, who long for God. 
 
 **Will all the souls in purgatory go to heaven?**
 
-— All the souls in purgatory will go to heaven some day; they will stay in purgatory only as long as they have not atoned for all their sins. 1. The poor souls cannot help themselves, for their time for meriting was ended at their death. They cannot therefore merit anything to satisfy for their sins.
+— All the souls in purgatory will go to heaven some day; they will stay in purgatory only as long as they have not atoned for all their sins.
+
+1. The poor souls cannot help themselves, for their time for meriting was ended at their death. They cannot therefore merit anything to satisfy for their sins.
 
 > This is why we who can still merit by our good works should give some of them as suffrage for the poor souls, so that they may soon be delivered from their prison. We have the special obligation of helping with our prayers and sacrifices the souls of our dead relatives, friends, and benefactors.
 
@@ -37,7 +41,9 @@ We should be generous in helping the poor souls in purgatory, who long for God. 
 
 **In what ways can we help the poor souls in purgatory?**
 
-— We can help the poor souls in purgatory by Masses, by prayers, and by other good works. 1. Masses. The Holy Sacrifice is the greatest help we can offer, because its effect depends on itself, and not on the piety of the priest who offers it. Whenever possible, Gregorian Masses should be offered; these consist of thirty Masses celebrated on consecutive days for some deceased person.
+— We can help the poor souls in purgatory by Masses, by prayers, and by other good works.
+
+1. Masses. The Holy Sacrifice is the greatest help we can offer, because its effect depends on itself, and not on the piety of the priest who offers it. Whenever possible, Gregorian Masses should be offered; these consist of thirty Masses celebrated on consecutive days for some deceased person.
 
 > If we cannot have a Mass said, we should at least hear Mass for our dear departed. A Mass has infinite merit, for it is the sacrifice of Our Lord Himself. It will surely avail our dead to offer for them God the Son Himself in Holy Mass.
 

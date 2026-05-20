@@ -2,14 +2,16 @@
 
 ![](../images/lesson-164.webp)
 
-1. Every Catholic family should have the Holy Family of Nazareth, Jesus, Mary, and Joseph, as their model, and live in holiness and mutual love.
+*1. Every Catholic family should have the Holy Family of Nazareth, Jesus, Mary, and Joseph, as their model, and live in holiness and mutual love.*
 
 2. Every family should preserve the custom of having family prayers at some hour of the morning or evening, praying as one, in a unity of worship.
 
 
 **What is the chief duty of husband and wife in the married state?**
 
-— The chief duty of husband and wife in the married state is to be faithful to each other, and to provide in every way for the welfare of the children God may give them, 1. Husband and wife must comfort and support each other in the activities of their common life, in the fulfilment of their duties individual as well as mutual, in all important matters, both spiritual and material. "Now they are no longer two, but one flesh" (Matt. 19: 6).
+— The chief duty of husband and wife in the married state is to be faithful to each other, and to provide in every way for the welfare of the children God may give them,
+
+1. Husband and wife must comfort and support each other in the activities of their common life, in the fulfilment of their duties individual as well as mutual, in all important matters, both spiritual and material. "Now they are no longer two, but one flesh" (Matt. 19: 6).
 
 > The wife needs the husband to lean upon; the husband needs his wife to comfort and care for him. The man is the breadwinner and the head; the wife is the queen and mother. In true Christian marriage there is no question of selfishness, competition, or superiority between the spouses, for they two are "one flesh."
 
@@ -28,7 +30,9 @@
 
 **What are the duties of the married as parents?**
 
-— It is the grave obligation of parents to provide for their children and to train them in the love and fear of God. (See also pages 208-209, "Duties of Parents") 1. The primary purpose of marriage is the begetting and rearing of children in the fear and love of God, in order that they may join Him in heaven some day.
+— It is the grave obligation of parents to provide for their children and to train them in the love and fear of God. (See also pages 208-209, "Duties of Parents")
+
+1. The primary purpose of marriage is the begetting and rearing of children in the fear and love of God, in order that they may join Him in heaven some day.
 
 > Since the primary purpose of marriage is to bring children into the world, any attempt to frustrate this purpose while making use of its means is intrinsically evil, against natural and divine law, and necessarily a grievous sin. This is why such procedures as birth control, abortion and sterilization are mortal sins and violations of the sacrament.
 
@@ -39,7 +43,9 @@
 
 **Is artificial birth control immoral?**
 
-— Artificial birth control is immoral, contrary to both natural and divine law. 1. Artificial birth control contravenes the primary purpose of marriage and prostitutes it for other ends.
+— Artificial birth control is immoral, contrary to both natural and divine law.
+
+1. Artificial birth control contravenes the primary purpose of marriage and prostitutes it for other ends.
 
 > The practice of birth control will, if carried out to its inevitable conclusion, some day, as a sarcastic writer comments, "give over the country to the animals." In many countries the birth rate is now in the negative. Nations will disappear.
 
@@ -50,7 +56,9 @@
 
 **Is abortion evil?**
 
-— Direct abortion is evil, a grave sin, contrary to the law of God; indirect abortion may be permitted. 1. Direct abortion is committed when the foetus is intentionally removed from the mother's womb before it is able to lead a separate life, even if this were done in the very earliest period of pregnancy. Direct abortion is equivalent to murder; those guilty of it, or who cooperate either physically or morally, incur excommunication.
+— Direct abortion is evil, a grave sin, contrary to the law of God; indirect abortion may be permitted.
+
+1. Direct abortion is committed when the foetus is intentionally removed from the mother's womb before it is able to lead a separate life, even if this were done in the very earliest period of pregnancy. Direct abortion is equivalent to murder; those guilty of it, or who cooperate either physically or morally, incur excommunication.
 
 > Direct abortion cannot be permitted even to save a mother's life. If the foetus or the baby is killed purposely because by not doing so the mother might die, that is direct abortion. It is estimated that in many countries, one pregnancy in three ends in abortion.
 

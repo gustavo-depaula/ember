@@ -2,12 +2,14 @@
 
 ![](../images/lesson-114.webp)
 
-Capital and Labour should work together, and not against each other. Neither can exist without the other. Labour must necessarily be subordinate to capital, or order ceases. Order is the law of the universe. Around the sun revolve the planets; around the planets revolve their moons and satellites. A watch runs smoothly as long as each part, however small, does its share; otherwise the watch goes out of order. The humblest labourer must be treated justly by his employer and in turn must be loyal to the employer, otherwise order will cease.
+*Capital and Labour should work together, and not against each other. Neither can exist without the other. Labour must necessarily be subordinate to capital, or order ceases. Order is the law of the universe. Around the sun revolve the planets; around the planets revolve their moons and satellites. A watch runs smoothly as long as each part, however small, does its share; otherwise the watch goes out of order. The humblest labourer must be treated justly by his employer and in turn must be loyal to the employer, otherwise order will cease.*
 
 
 **What are the duties of an employer?**
 
-— An employer must: 1. Treat his employees with charity as human beings with immortal souls, not regarding them as slaves, or chattels or merely as money-making machines. He should take an interest in them, providing for them in sickness, accident, and old age.
+— An employer must:
+
+1. Treat his employees with charity as human beings with immortal souls, not regarding them as slaves, or chattels or merely as money-making machines. He should take an interest in them, providing for them in sickness, accident, and old age.
 
 > The rich must not lessen the earnings of the working man, whether by force, fraud, or usurious tactics.
 
@@ -28,7 +30,9 @@ Capital and Labour should work together, and not against each other. Neither can
 
 **What are the duties of an employee?**
 
-— An employee must: 1. Not look upon work as something to be ashamed of, for work is an honourable calling, while idleness is dishonourable and sinful.
+— An employee must:
+
+1. Not look upon work as something to be ashamed of, for work is an honourable calling, while idleness is dishonourable and sinful.
 
 > It is well for us to keep in mind that this life is only a pilgrimage. Hence we should not be greedy or covetous of wealth. In a little while we shall all die, and our wealth will avail us nothing.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-082.webp)
 
-The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one thing necessary for happiness. They can never see and enjoy God. They are tortured with envy of the blessed in heaven. They are tormented with shame because their sins will be known to all entirely and completely. After the general judgement their bodies will share the pains of their souls. They will be in torments for all eternity.
+*The wicked in hell suffer dreadful torments. They feel despair, remorse, envy, and hopelessness, because they know that they can never obtain the one thing necessary for happiness. They can never see and enjoy God. They are tortured with envy of the blessed in heaven. They are tormented with shame because their sins will be known to all entirely and completely. After the general judgement their bodies will share the pains of their souls. They will be in torments for all eternity.*
 
 
 **Who are punished in hell?**
 
-— Those are punished in hell who die in mortal sin; they are deprived of the vision of God and suffer dreadful torments, especially that of fire, for all eternity. 1. Christ Himself in fifteen places in Holy Scripture, refers to the punishment of hell, the horrible abode of the wicked.
+— Those are punished in hell who die in mortal sin; they are deprived of the vision of God and suffer dreadful torments, especially that of fire, for all eternity.
+
+1. Christ Himself in fifteen places in Holy Scripture, refers to the punishment of hell, the horrible abode of the wicked.
 
 > Scripture calls hell "a place of torments," "an unquenchable fire," "everlasting fire," "the bottomless pit," "everlasting punishment," "outer darkness."
 
@@ -51,7 +53,9 @@ If the punishment of hell were temporary, many sinners might prefer to gratify t
 
 **Why did a good God create such a fearful place as hell?**
 
-— A good God created such a fearful place as hell, because He is just, and must punish the sinner. 1. The sinner is a traitor to God Who created him.
+— A good God created such a fearful place as hell, because He is just, and must punish the sinner.
+
+1. The sinner is a traitor to God Who created him.
 
 > God created this world and all creatures. He owns them. They must therefore be absolutely obedient to His will. If a creature revolts and defies God, then he must be treated as an enemy.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-094.webp)
 
-The true cross was found by St. Helena, mother of the emperor Constantine the Great in the year 326. Her workmen, digging on Mount Calvary in search of the true cross of Christ, found three crosses. Two of the crosses were applied without result to a very sick woman. As soon as the third cross touched her, she was instantly cured. The feast of the finding of the true cross is kept on May 3. The adoration of the Cross on Good Friday is part of the Holy Week devotions. The Feast of the Exaltation of the Cross is kept on September 14.
+*The true cross was found by St. Helena, mother of the emperor Constantine the Great in the year 326. Her workmen, digging on Mount Calvary in search of the true cross of Christ, found three crosses. Two of the crosses were applied without result to a very sick woman. As soon as the third cross touched her, she was instantly cured. The feast of the finding of the true cross is kept on May 3. The adoration of the Cross on Good Friday is part of the Holy Week devotions. The Feast of the Exaltation of the Cross is kept on September 14.*
 
 
 **Why do we honour relics?**

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-013.webp)
 
-God is Almighty. He can make anything from nothing, by a mere act of His divine will. It was thus that He created the heavens and earth and everything that is in them. Man can make many wonderful things, but he must make them out of something. He must use the things God created. Before he can make a stone house, he must have stone, cement, brick, etc. But God needs nothing to make anything. Only God could create the very first thing or matter in the universe.
+*God is Almighty. He can make anything from nothing, by a mere act of His divine will. It was thus that He created the heavens and earth and everything that is in them. Man can make many wonderful things, but he must make them out of something. He must use the things God created. Before he can make a stone house, he must have stone, cement, brick, etc. But God needs nothing to make anything. Only God could create the very first thing or matter in the universe.*
 
 
 **What do we mean when we say that God is the Creator of heaven and earth?**

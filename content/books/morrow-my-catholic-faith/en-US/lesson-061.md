@@ -2,7 +2,7 @@
 
 ![](../images/lesson-061.webp)
 
-In the history of the Church, there have been 21 councils convened by the pope. These have all been doctrinal and juridical. The last council, called Vatican II was not a doctrinal council but a pastoral one. Among these 21 councils the most notable of the General Councils following the Council of Jerusalem have been: the Council of Nicea (325), the Council of Ephesus, (425), the Council of Nicea (787) the Council of Trent, (1545-1563), the First Council of the Vatican, (1870). (See also pgs. 136-137)
+*In the history of the Church, there have been 21 councils convened by the pope. These have all been doctrinal and juridical. The last council, called Vatican II was not a doctrinal council but a pastoral one. Among these 21 councils the most notable of the General Councils following the Council of Jerusalem have been: the Council of Nicea (325), the Council of Ephesus, (425), the Council of Nicea (787) the Council of Trent, (1545-1563), the First Council of the Vatican, (1870). (See also pgs. 136-137)*
 
 
 **Is the Pope the head of the universal Church?**

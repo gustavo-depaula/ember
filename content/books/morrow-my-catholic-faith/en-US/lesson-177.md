@@ -2,12 +2,14 @@
 
 ![](../images/lesson-177.webp)
 
-The Church has blessings for persons, places, and things. A mother after childbirth is blessed. Anybody may ask a priest to bless him. Houses and places of business, fields and crops, may be blessed. Devotional articles, such as medals, rosaries, crucifixes, images and holy pictures, may be blessed. In certain places it is a custom to wear blessed dresses. All these blessings and objects blessed are sacramentals. We use them to obtain favours from God.
+*The Church has blessings for persons, places, and things. A mother after childbirth is blessed. Anybody may ask a priest to bless him. Houses and places of business, fields and crops, may be blessed. Devotional articles, such as medals, rosaries, crucifixes, images and holy pictures, may be blessed. In certain places it is a custom to wear blessed dresses. All these blessings and objects blessed are sacramentals. We use them to obtain favours from God.*
 
 
 **What are sacramentals?**
 
-— Sacramentals are holy things or actions of which the Church makes use to obtain for us from God, through its intercession, spiritual and temporal favours. 1. The term sacramental is applied both to the blessing or consecration given by the Church, and to the objects blessed or consecrated. Sacramentals are so called because of their resemblance to the sacraments. As in the sacraments, visible signs are used in the sacramentals, such as holy water, the sign of the cross, sacred oils, etc., together with a form of words.
+— Sacramentals are holy things or actions of which the Church makes use to obtain for us from God, through its intercession, spiritual and temporal favours.
+
+1. The term sacramental is applied both to the blessing or consecration given by the Church, and to the objects blessed or consecrated. Sacramentals are so called because of their resemblance to the sacraments. As in the sacraments, visible signs are used in the sacramentals, such as holy water, the sign of the cross, sacred oils, etc., together with a form of words.
 
 > Whatever visible signs are used by the Church in the worship of God or the promotion of devotion are sacramentals. By these visible signs the benediction of Almighty God is invoked on persons, places, or things, through the intercessory prayer of Holy Mother Church. The prayers of the Church have great efficacy, for they are united to the prayers of Our Lord Jesus Christ and of all the saints.
 
@@ -22,7 +24,9 @@ The Church has blessings for persons, places, and things. A mother after childbi
 
 **What are the chief kinds of sacramentals?**
 
-— The chief kinds of sacramentals are: 1. Blessings given by priests and bishops. (a) Priests are authorized to give the blessings for sacramentals, with the exception of those especially reserved to the bishops.
+— The chief kinds of sacramentals are:
+
+1. Blessings given by priests and bishops. (a) Priests are authorized to give the blessings for sacramentals, with the exception of those especially reserved to the bishops.
 
 > The laity can bless, but not in the name of the Church. Thus we have the custom of parents blessing their children when they leave the house, at the Angelus, or when they go on a journey. In these private blessings, the more pious the person giving the blessing, the greater its effect.
 

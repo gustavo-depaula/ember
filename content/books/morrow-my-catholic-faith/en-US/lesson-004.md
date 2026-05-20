@@ -2,12 +2,14 @@
 
 ![](../images/lesson-004.webp)
 
-God is eternal: He has no beginning and no end. Before there ever was anything, there was God. He always was, is, and ever will be. With God there is no time: everything is present. We cannot imagine eternity, but we can understand what it is to be without beginning or end.
+*God is eternal: He has no beginning and no end. Before there ever was anything, there was God. He always was, is, and ever will be. With God there is no time: everything is present. We cannot imagine eternity, but we can understand what it is to be without beginning or end.*
 
 
 **What do we mean when we say that God is eternal?**
 
-— When we say that God is eternal, we mean that He always was and always will be, and always remains the same. 1. God had no beginning; there never was a time when there was no God. God can never cease to exist; He will have no end. He will always be living, immortal.
+— When we say that God is eternal, we mean that He always was and always will be, and always remains the same.
+
+1. God had no beginning; there never was a time when there was no God. God can never cease to exist; He will have no end. He will always be living, immortal.
 
 > There is no time with God: with Him there is neither past nor future; everything is present. "One day with the Lord is as a thousand years, and a thousand years as one day" (2 Pet. 3: 8). "Before the mountains were made, or the earth and the world was formed, from eternity and to eternity thou art God" (Ps. 89: 2). "I am the Alpha and the Omega, the beginning and the end" (Apoc. 1: 8).
 
@@ -18,7 +20,9 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **What do we mean when we say that God is all-good?**
 
-— When we say that God is all-good, we mean that He is infinitely lovable in Himself, and that from His fatherly love every good comes to us. 1. God is Himself love. Love is part of His nature. Compared to God's infinite goodness, the goodness of man is nothing, only the shadow of a shadow.
+— When we say that God is all-good, we mean that He is infinitely lovable in Himself, and that from His fatherly love every good comes to us.
+
+1. God is Himself love. Love is part of His nature. Compared to God's infinite goodness, the goodness of man is nothing, only the shadow of a shadow.
 
 > Men, creatures of God, are good because God made them to His image and likeness. "Oh, taste and see that the Lord is sweet" (Ps. 33: 9).
 
@@ -29,7 +33,9 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **What do we mean when we say that God is all-knowing?**
 
-— When we say that God is all-knowing, we mean that He knows all things, past, present, and future, even our most secret thoughts, words, and actions. 1. God is all-knowing. Before His eyes all secrets, even the most hidden, are clear, even secrets that will not be thought of by man until the end of the world.
+— When we say that God is all-knowing, we mean that He knows all things, past, present, and future, even our most secret thoughts, words, and actions.
+
+1. God is all-knowing. Before His eyes all secrets, even the most hidden, are clear, even secrets that will not be thought of by man until the end of the world.
 
 > God knows us for what we are: we cannot hide anything from Almighty God. "All things are naked and open to the eyes of him to whom we have to give account" (Heb. 4: 13).
 
@@ -40,7 +46,9 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **What do we mean when we say that God is all-present?**
 
-— When we say that God is all-present, we mean that He is everywhere. 1. God is all-present, because there is nothing that can have existence apart from Him. All creation exists in Him as thought exists in the mind. There is no place where God is not.
+— When we say that God is all-present, we mean that He is everywhere.
+
+1. God is all-present, because there is nothing that can have existence apart from Him. All creation exists in Him as thought exists in the mind. There is no place where God is not.
 
 > "'Do I not fill heaven and earth?' saith the Lord" (Jer. 23: 24). "In Him we live and move and have our being" (Acts 17: 28). However, we must not make the mistake of thinking that God, in Whom everything exists, is limited by this everything. He has no limits, and exists outside as well as in all creation.
 
@@ -55,7 +63,9 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **What do we mean when we say that God is almighty?**
 
-— When we say that God is almighty, we mean that He can do all things. 1. God can do anything, by a mere act of His will. Nothing is impossible to God.
+— When we say that God is almighty, we mean that He can do all things.
+
+1. God can do anything, by a mere act of His will. Nothing is impossible to God.
 
 > "Things that are impossible with men are possible with God" (Luke 18: 27). The only thing God cannot do is to make a contradiction:— He cannot will wrong, because wrong is a contradiction of His goodness.
 
@@ -66,7 +76,9 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 **Is God all-wise, all-holy, all-merciful, and all-just?**
 
-— Yes, God is all-wise, all-holy, all-merciful, and all-just. 1. God is all-wise. The more we learn of the wonders of the universe, the more we are amazed by the infinite wisdom of God, by His almighty power.
+— Yes, God is all-wise, all-holy, all-merciful, and all-just.
+
+1. God is all-wise. The more we learn of the wonders of the universe, the more we are amazed by the infinite wisdom of God, by His almighty power.
 
 > His knowledge is infinite. He knows how to direct all things to the highest ends, and by the most fitting means.
 

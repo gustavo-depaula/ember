@@ -2,7 +2,7 @@
 
 ![](../images/lesson-044.webp)
 
-At a very early age, St. Agnes had such a high regard for the virtue of chastity that she vowed her virginity to God. The Roman authorities, who were persecuting the infant Church, tried to make this child offer incense to the idols, but she refused. Seeing her firmness, the persecutors tried to win her by flattery. She was only thirteen years old, beautiful and wealthy; they offered to marry her to the son of a high official in Rome. But she answered that she was consecrated to her Heavenly Bridegroom. She suffered torture and meekly laid her head on the execution block.
+*At a very early age, St. Agnes had such a high regard for the virtue of chastity that she vowed her virginity to God. The Roman authorities, who were persecuting the infant Church, tried to make this child offer incense to the idols, but she refused. Seeing her firmness, the persecutors tried to win her by flattery. She was only thirteen years old, beautiful and wealthy; they offered to marry her to the son of a high official in Rome. But she answered that she was consecrated to her Heavenly Bridegroom. She suffered torture and meekly laid her head on the execution block.*
 
 
 **What is humility?**

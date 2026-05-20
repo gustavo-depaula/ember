@@ -2,12 +2,14 @@
 
 ![](../images/lesson-001.webp)
 
-In creating us, God gave us the power and right to choose which path we should follow in life: either the path of obedience, or the path of disobedience to His commandments. The first seems wearisome and full of thorns, but reward comes in the end: happiness with God. The second seems full of pleasures and roses, but punishment awaits the traveller at the end: eternal damnation in hell. Each must choose for himself. We may find the choice a hard struggle. We shall be strengthened in the choice of the difficult path if we remember that we belong to God, that He loves us, that He will help us and is waiting for us at the end of the road-- of obedience.
+*In creating us, God gave us the power and right to choose which path we should follow in life: either the path of obedience, or the path of disobedience to His commandments. The first seems wearisome and full of thorns, but reward comes in the end: happiness with God. The second seems full of pleasures and roses, but punishment awaits the traveller at the end: eternal damnation in hell. Each must choose for himself. We may find the choice a hard struggle. We shall be strengthened in the choice of the difficult path if we remember that we belong to God, that He loves us, that He will help us and is waiting for us at the end of the road-- of obedience.*
 
 
 **What is the destiny of man?**
 
-— Man's high destiny is to go to God, because man comes from God, and belongs entirely to God. 1. Our reason tells us that Someone made us. That Someone is God.
+— Man's high destiny is to go to God, because man comes from God, and belongs entirely to God.
+
+1. Our reason tells us that Someone made us. That Someone is God.
 
 > Nothing can proceed from nothing. If there had ever been a moment when nothing existed, nothing would ever have existed. Therefore, because we exist, we know Someone who made us also exists; that Someone is God. "He made us, and not we ourselves'' (Ps. 99: 3). "All things have been created through and unto Him" (Col. 1: 16).
 
@@ -41,7 +43,9 @@ In order to practice this virtue, we must:
 
 **Is it necessary for us to practice religion?**
 
-— It is absolutely necessary for us to practice religion. God gives us no choice in the matter. 1. Our chief business in life, the business which God commands us to attend to, is to go to God. And this depends on our practice of religion.
+— It is absolutely necessary for us to practice religion. God gives us no choice in the matter.
+
+1. Our chief business in life, the business which God commands us to attend to, is to go to God. And this depends on our practice of religion.
 
 > It is by religion that we fulfil the purpose for which we were created. By believing what God has revealed, we know God. By knowing God, we cannot help but love Him. By practising what we learn and obeying God's commands, we serve Him. "He who has my commandments and keeps them, he it is who loves me" (John 14: 21).
 
@@ -52,7 +56,9 @@ In order to practice this virtue, we must:
 
 **From whom do we learn to know, love, and serve God?**
 
-— We learn to know, love, and serve God from Jesus Christ, the Son of God, Who teaches us through the Catholic Church. 1. The study in which Jesus Christ teaches us about God and how to know, love, and serve Him, is the study of Religion. It is the most important study anyone can undertake. The neglect of this study is the root cause of crime in the world at present. Without a knowledge of God men give way to their basest passions.
+— We learn to know, love, and serve God from Jesus Christ, the Son of God, Who teaches us through the Catholic Church.
+
+1. The study in which Jesus Christ teaches us about God and how to know, love, and serve Him, is the study of Religion. It is the most important study anyone can undertake. The neglect of this study is the root cause of crime in the world at present. Without a knowledge of God men give way to their basest passions.
 
 > Our salvation is much more important than a knowledge of physics, poetry, or history. All our science and knowledge, with our wealth and honours, will be profitless if we do not save our soul. "What does it profit a man, if he gains the whole world, but suffer the loss of his own soul?" (Matt. 16: 26).
 
@@ -63,7 +69,9 @@ In order to practice this virtue, we must:
 
 **Who are those that advocate no study of religion?**
 
-— Those that advocate no study of religion are generally termed free-thinkers, agnostics, sceptics, and rationalists. 1. These thinkers claim that all problems can be solved by the use of the intellect alone, without necessity of any principle, law, dogma or authority.
+— Those that advocate no study of religion are generally termed free-thinkers, agnostics, sceptics, and rationalists.
+
+1. These thinkers claim that all problems can be solved by the use of the intellect alone, without necessity of any principle, law, dogma or authority.
 
 > "Freedom of thought" has a pleasant sound, but it is against reason; by it the mind is fettered by error. We submit our minds freely to natural and scientific truths; that is true freedom. If there is no freedom of thought in mathematics, why in religion?
 

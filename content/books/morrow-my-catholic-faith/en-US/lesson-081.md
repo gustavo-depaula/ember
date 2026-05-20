@@ -2,14 +2,16 @@
 
 ![](../images/lesson-081.webp)
 
-The General Judgement will take place at the end of the world. It is a public repetition of the particular judgement. Then all that each has thought, said, done, or omitted will be known to everybody. The just will receive their reward, and the wicked will be punished. At the General Judgement Jesus Christ will be the Judge. Then complete justice will be meted out to all, to the souls united with the bodies.
+*The General Judgement will take place at the end of the world. It is a public repetition of the particular judgement. Then all that each has thought, said, done, or omitted will be known to everybody. The just will receive their reward, and the wicked will be punished. At the General Judgement Jesus Christ will be the Judge. Then complete justice will be meted out to all, to the souls united with the bodies.*
 
 SEVENTH AND TWELFTH ARTICLES OF THE APOSTLES' CREED
 
 
 **What is the judgement called which will be passed on all men immediately after the general resurrection?**
 
-— The judgement which will be passed on all men immediately after the general resurrection is called the general judgement. 1. The Last or General Judgement will take place at the end of the world, but when that will be, no man knows.
+— The judgement which will be passed on all men immediately after the general resurrection is called the general judgement.
+
+1. The Last or General Judgement will take place at the end of the world, but when that will be, no man knows.
 
 > "But of that day and hour no one knows, not even the angels of heaven, but the Father only" (Matt. 24: 36). After the Ascension angels told the Apostles that Christ will come again as Judge; "This Jesus who has been taken up from you into heaven will come in the same way, as you have seen him going up to heaven" (Acts 1: 11).
 
@@ -28,7 +30,9 @@ SEVENTH AND TWELFTH ARTICLES OF THE APOSTLES' CREED
 
 **What will take place on the last day?**
 
-— On the last day these events will take place: 1. The earth and the heavens will show signs; the stars will fall. In the heavens the sign of the Son of Man will appear. It is believed that this sign is the Cross.
+— On the last day these events will take place:
+
+1. The earth and the heavens will show signs; the stars will fall. In the heavens the sign of the Son of Man will appear. It is believed that this sign is the Cross.
 
 > "But immediately after the tribulation of those days, the sun will be darkened, and the moon will not give her light, and the stars will fall from heaven. ... And then will appear the sign of the Son of Man in heaven" (Matt. 24:29).
 
@@ -47,7 +51,9 @@ SEVENTH AND TWELFTH ARTICLES OF THE APOSTLES' CREED
 
 **If every one is judged immediately after death, why will there be a general judgement?**
 
-— Although every one is judged immediately after death, it is fitting that there be a general judgement, in order that the justice, wisdom, and mercy of God may be glorified in the presence of all. 1. The last or General Judgement will be a public repetition of the particular judgement. The Judge and the matters taken up will be identical. Then Jesus will bring to light "the hidden things of darkness."
+— Although every one is judged immediately after death, it is fitting that there be a general judgement, in order that the justice, wisdom, and mercy of God may be glorified in the presence of all.
+
+1. The last or General Judgement will be a public repetition of the particular judgement. The Judge and the matters taken up will be identical. Then Jesus will bring to light "the hidden things of darkness."
 
 > "And I saw the dead, the great and the small, standing before the throne, and scrolls were opened. And another scroll was opened, which is the book of life; and the dead were judged out of those things that were written in the scrolls" (Apoc. 20: 12).
 

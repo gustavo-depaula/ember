@@ -2,12 +2,14 @@
 
 ![](../images/lesson-022.webp)
 
-Mortal sin is the greatest evil in the world. It separates us from God. Because of our mortal sins, Jesus Christ suffered agonies and died on the cross. To strengthen our resolution not to commit sin, we should remember also that even a single mortal sin is enough to send us to hell.
+*Mortal sin is the greatest evil in the world. It separates us from God. Because of our mortal sins, Jesus Christ suffered agonies and died on the cross. To strengthen our resolution not to commit sin, we should remember also that even a single mortal sin is enough to send us to hell.*
 
 
 **What is mortal sin?**
 
-— Mortal sin is a grievous offence against the law of God. 1. Any wilful thought, word, action or omission, in serious violation of God's law, is a mortal sin. Examples of mortal sin are blasphemy, wilful murder, adultery, arson, robbery, etc. Mortal sin occurs as soon as God is no longer our final end in our thoughts, words, and actions.
+— Mortal sin is a grievous offence against the law of God.
+
+1. Any wilful thought, word, action or omission, in serious violation of God's law, is a mortal sin. Examples of mortal sin are blasphemy, wilful murder, adultery, arson, robbery, etc. Mortal sin occurs as soon as God is no longer our final end in our thoughts, words, and actions.
 
 > Each mortal sin we commit is a three-fold insult to Almighty God: it insults Him by rebellion or disobedience, by ingratitude, and by contempt.
 
@@ -18,7 +20,9 @@ Mortal sin is the greatest evil in the world. It separates us from God. Because 
 
 **Why is this sin called mortal?**
 
-— This sin is called mortal, or deadly, because it deprives the sinner of sanctifying grace, the supernatural life of the soul. 1. Without sanctifying grace, the soul is displeasing to God, unclean, and can never behold Him or be with Him in heaven.
+— This sin is called mortal, or deadly, because it deprives the sinner of sanctifying grace, the supernatural life of the soul.
+
+1. Without sanctifying grace, the soul is displeasing to God, unclean, and can never behold Him or be with Him in heaven.
 
 > Without sanctifying grace, the soul is without God; and without God, the devil makes the soul his habitation. "Know thou and see that it is an evil and bitter thing for thee to have left the Lord thy God" (Jer. 2: 19).
 
@@ -33,7 +37,9 @@ Mortal sin is the greatest evil in the world. It separates us from God. Because 
 
 **Besides depriving the sinner of sanctifying grace, what else does mortal sin do to the soul?**
 
-— Besides depriving the sinner of sanctifying grace, mortal sin makes the soul an enemy of God, takes away the merit of all its good actions, deprives it of the right to everlasting happiness in heaven, and makes it deserving of everlasting punishment in hell. 1. Man was made for God, and what an awful calamity it would be to become His enemy! It would be as if the food which was made to support and sustain man should all of a sudden turn to poison him instead.
+— Besides depriving the sinner of sanctifying grace, mortal sin makes the soul an enemy of God, takes away the merit of all its good actions, deprives it of the right to everlasting happiness in heaven, and makes it deserving of everlasting punishment in hell.
+
+1. Man was made for God, and what an awful calamity it would be to become His enemy! It would be as if the food which was made to support and sustain man should all of a sudden turn to poison him instead.
 
 > Through mortal sin, the sinner becomes a stranger to divine love, and to the love of neighbour; his heart turns cold because he has put out the flame of charity by grave sin. His reason, a gift of God, is obscured, and he fails to perceive the things of God. Thus a sinner, the more he sins, becomes more insensitive to evil; his will is finally so weakened that all conscience is lost, and he falls into greater and greater sins more and more easily. "Adulterers, do you not know that the friendship of this world is enmity with God? Therefore, whoever wishes to be a friend of this world becomes an enemy of God" (Jas. 4: 4).
 

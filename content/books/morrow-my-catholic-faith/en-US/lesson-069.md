@@ -2,7 +2,7 @@
 
 ![](../images/lesson-069.webp)
 
-The Catholic Church will endure to the end of time, for it is founded on a rock. The powers of evil will beat in vain against it. They will break themselves and perish, but the Church will remain, indefectible. The testimony of almost two thousand years proves the perpetuity of the Church. Nothing that malice and envy could invent; nothing that the world, the flesh; and the devil could do have been left untried in the past 1900 years. Still the Church is with us, exactly as Christ founded it, and stronger than ever.
+*The Catholic Church will endure to the end of time, for it is founded on a rock. The powers of evil will beat in vain against it. They will break themselves and perish, but the Church will remain, indefectible. The testimony of almost two thousand years proves the perpetuity of the Church. Nothing that malice and envy could invent; nothing that the world, the flesh; and the devil could do have been left untried in the past 1900 years. Still the Church is with us, exactly as Christ founded it, and stronger than ever.*
 
 
 **What is meant by the indefectibility of the Catholic Church?**

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-105.webp)
 
-1. Among the civic duties is that of voting. All who are granted this right should exercise it. They must not prostitute their right, but use it justly for the good of all.
+*1. Among the civic duties is that of voting. All who are granted this right should exercise it. They must not prostitute their right, but use it justly for the good of all.*
 
 2. It is the duty of every citizen to be loyal to his country, to support its institutions, and to respect its laws and its flag. A good Catholic is a good citizen.
 
@@ -16,7 +16,9 @@
 
 **How does a citizen show a sincere interest in his country's welfare?**
 
-— A citizen shows a sincere interest in his country's welfare by voting honestly and without selfish motives, by paying just taxes, and by defending his country's rights when necessary. 1. We are responsible to God for the men we elect to office, for He has permitted us to have the right and duty to select the men we want. Every one who has the right to vote has likewise a serious obligation to use that right properly. Electors must choose men of experience and Christian principles. If we elect men with no religious principles, we should not be surprised if later in office they turn out unsatisfactory.
+— A citizen shows a sincere interest in his country's welfare by voting honestly and without selfish motives, by paying just taxes, and by defending his country's rights when necessary.
+
+1. We are responsible to God for the men we elect to office, for He has permitted us to have the right and duty to select the men we want. Every one who has the right to vote has likewise a serious obligation to use that right properly. Electors must choose men of experience and Christian principles. If we elect men with no religious principles, we should not be surprised if later in office they turn out unsatisfactory.
 
 > It is wrong to sell one's vote; it is selling one's convictions. Persons who buy votes are not likely to use the office they might thereby gain for the good of anyone else but themselves.
 
@@ -39,7 +41,9 @@
 
 **Why must we respect and obey the lawful authority of our country?**
 
-— We must respect and obey the lawful authority of our country because it comes from God, the Source of all authority. 1. God has entrusted the maintenance of peace and order in human society to the secular authorities. It is His will that among so many, some should rule and the others be subject to that rule, for law and order.
+— We must respect and obey the lawful authority of our country because it comes from God, the Source of all authority.
+
+1. God has entrusted the maintenance of peace and order in human society to the secular authorities. It is His will that among so many, some should rule and the others be subject to that rule, for law and order.
 
 > "By God kings reign and lawgivers decree just things" (Prov. 8: 15). "There exists no authority except from God" (Rom. 13: 1). "Be subject whether to the king as supreme, or to governors as sent through him ... .for such is the will of God" (1 Pet. 2: 13-15).
 

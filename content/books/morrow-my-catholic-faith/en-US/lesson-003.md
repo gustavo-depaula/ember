@@ -2,14 +2,16 @@
 
 ![](../images/lesson-003.webp)
 
-God created the world in six days. On the first day, He made light and darkness, day and night. On the second day, He made the sky and divided the waters. On the third day of Creation, God caused dry land to appear out of the waters, and bade plants to spring forth from the land. On the fourth day, God made the sun, the moon, and the stars. On the fifth day, He made creeping things, birds and fishes. On the sixth day, God made beasts, and finally, man. Then on the seventh day, God stopped working: He rested. "The heavens show forth the glory of God." (Ps. 18: 2).
+*God created the world in six days. On the first day, He made light and darkness, day and night. On the second day, He made the sky and divided the waters. On the third day of Creation, God caused dry land to appear out of the waters, and bade plants to spring forth from the land. On the fourth day, God made the sun, the moon, and the stars. On the fifth day, He made creeping things, birds and fishes. On the sixth day, God made beasts, and finally, man. Then on the seventh day, God stopped working: He rested. "The heavens show forth the glory of God." (Ps. 18: 2).*
 
 (THE FIRST ARTICLE OF THE APOSTLES' CREED)
 
 
 **Who is God?**
 
-— God is the Supreme Being, infinitely perfect, Who made all things and keeps them in existence. 1. God made everything — men, beasts, plants, planets, stars, everything. Not only that; God keeps everything in existence. Were He to take away His hand from what He created, everything would disappear into nothingness quicker than thought. Without a cause, there could be no effects. Without God, could there be anything at all?
+— God is the Supreme Being, infinitely perfect, Who made all things and keeps them in existence.
+
+1. God made everything — men, beasts, plants, planets, stars, everything. Not only that; God keeps everything in existence. Were He to take away His hand from what He created, everything would disappear into nothingness quicker than thought. Without a cause, there could be no effects. Without God, could there be anything at all?
 
 > "In him we live and move and have our being" (Acts 17: 28). "In him were created all things" (Col. 1: 16).
 
@@ -29,7 +31,9 @@ God created the world in six days. On the first day, He made light and darkness,
 
 **What is a spirit?**
 
-— A spirit is a being that has understanding and free will, but no body, and will never die. 1. God is a pure spirit. As God has no body, when we speak of His eyes and His hands, we only speak in a figurative manner, in order to make ourselves more understandable according to our human way of speaking.
+— A spirit is a being that has understanding and free will, but no body, and will never die.
+
+1. God is a pure spirit. As God has no body, when we speak of His eyes and His hands, we only speak in a figurative manner, in order to make ourselves more understandable according to our human way of speaking.
 
 > Our Lord said to the Samaritan woman at the well: "God is spirit; and they who worship Him must worship in spirit and in truth" (John 4: 24). Yet God has often taken on visible forms, in order to be seen by men. Thus He showed Himself in the form of a dove at the baptism of Jesus, and in the form of tongues of fire on Pentecost. God is neither a dove nor tongues of fire; He merely assumed those forms in order to be seen by mortal eyes.
 
@@ -40,7 +44,9 @@ God created the world in six days. On the first day, He made light and darkness,
 
 **What do we mean when we say that God is self-existing?**
 
-— When we say that God is self-existing we mean that He does not owe His existence to any other being. 1. God made us, but who made God? God said to Moses, "I am who am" (Exod. 3: 14). He exists of Himself, deriving His Being from no other. God is the First Cause.
+— When we say that God is self-existing we mean that He does not owe His existence to any other being.
+
+1. God made us, but who made God? God said to Moses, "I am who am" (Exod. 3: 14). He exists of Himself, deriving His Being from no other. God is the First Cause.
 
 > All other beings and things owe their existence to God. In comparison to Him, we are nothing.
 

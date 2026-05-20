@@ -2,7 +2,7 @@
 
 ![](../images/lesson-148.webp)
 
-St. Augustine in his youth led a bad life. The prayers of his holy mother, St. Monica, led to his conversion. One day, he was in the garden when he heard a voice say: "Take and read." He took up the Holy Scripture on a nearby table and read. From that moment his conversion started. He made a resolution to amend his ways. This firm resolution he never broke. He became one of the greatest Saints. If we should be so unhappy as to sin, let us imitate his firm purpose of amendment.
+*St. Augustine in his youth led a bad life. The prayers of his holy mother, St. Monica, led to his conversion. One day, he was in the garden when he heard a voice say: "Take and read." He took up the Holy Scripture on a nearby table and read. From that moment his conversion started. He made a resolution to amend his ways. This firm resolution he never broke. He became one of the greatest Saints. If we should be so unhappy as to sin, let us imitate his firm purpose of amendment.*
 
 
 **What is the purpose of amendment?**
@@ -30,7 +30,9 @@ St. Augustine in his youth led a bad life. The prayers of his holy mother, St. M
 
 **What qualities should our purpose of amendment have?**
 
-— Our purpose of amendment should be firm, efficacious, and universal. 1. Our purpose is firm when we determine to avoid sin at any cost. Then we do not hesitate back and forth, but with decision cut ourselves off from the bonds which formerly bound us to sin and its occasions.
+— Our purpose of amendment should be firm, efficacious, and universal.
+
+1. Our purpose is firm when we determine to avoid sin at any cost. Then we do not hesitate back and forth, but with decision cut ourselves off from the bonds which formerly bound us to sin and its occasions.
 
 > In one of his military expeditions, Alexander the Great, the conqueror of many lands, arrived in Gordium, Phrygia. In a certain fortress, there was what people called the "Gordian knot", so well tied that many had tried to untie it but all miserably failed. It was believed that whoever could untie the Gordian knot would be the conqueror of Asia. When Alexander came, he did not waste time, but drew his sword and cut the knot apart.
 
@@ -45,7 +47,9 @@ St. Augustine in his youth led a bad life. The prayers of his holy mother, St. M
 
 **What are the effects of the sacrament of penance, worthily received?**
 
-— They are: 1. Sanctifying grace.
+— They are:
+
+1. Sanctifying grace.
 
 > The sacrament of penance restores sanctifying grace to the soul that has lost it, and increases it in the soul that already possesses it.
 

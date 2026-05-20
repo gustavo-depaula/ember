@@ -2,7 +2,7 @@
 
 ![](../images/lesson-129.webp)
 
-In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul and Divinity. When the Blessed Sacrament is reserved in the tabernacle (5), a sanctuary lamp (6) is kept burning before it.
+*In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul and Divinity. When the Blessed Sacrament is reserved in the tabernacle (5), a sanctuary lamp (6) is kept burning before it.*
 
 
 **When did Christ give His priests the power to change bread and wine into His body and blood?**
