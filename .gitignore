@@ -66,5 +66,10 @@ __pycache__/
 *.py[cod]
 tmp/
 
+# Python virtualenvs (import-script envs etc.)
+.venv/
+.venv-*/
+venv/
+
 # Cached source PDFs / large binaries downloaded by import scripts
 .cache/
