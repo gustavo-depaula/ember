@@ -7,7 +7,7 @@
 
 > True Science is the handmaid of Religion. Science and the scientific method are means of arriving at the truth, and Religion is Truth. The greatest scientists have been Christians; a majority of outstanding leaders in science were Catholics, and many were priests. Only the shallow dabblers in science absurdly pretend that there is a conflict. The apparent conflicts arise from false interpretations, as when one takes for scientific truth what is false or not proved, or accepts as a doctrine of faith something not taught by the Church.
 
-2. There can never be a real conflict between Revelation and Science,because in Scripture God addresses man directly, whereas in created things, He addresses man indirectly. Proceeding from one source, Faith and science cannot be in real contradiction.
+2. There can never be a real conflict between Revelation and Science, because in Scripture God addresses man directly, whereas in created things, He addresses man indirectly. Proceeding from one source, Faith and science cannot be in real contradiction.
 
 > The Bible's purpose is to teach salvation; but people make the mistake of considering it a treatise on Science. St. Thomas and St. Augustine taught that when the Bible describes some phenomenon of nature, it sets it down in terms of its appearances.
 
@@ -16,7 +16,7 @@
 
 ## Some Catholic Scientists
 
-As a practical demonstration that there is no contradiction between Divine Revelation and Science, we here list some of the thousands of scientists who through the ages have been practising members of the Catholic Church and at the same time outstanding in Science. These men not only found no conflict between science and religion, but became more firm in their faith as they delved deeper into science. As Marconi, one of the greatest scientists of our time, declared: "Science alone is unable to explain many things, and most of all, the greatest of mysteries -- the mystery of our existence. I believe, not only as a Catholic, but also as scientist."We do not include here the names of Catholics preeminent in navigation, architecture, art, music or literature, limiting ourselves to natural and physical science.
+As a practical demonstration that there is no contradiction between Divine Revelation and Science, we here list some of the thousands of scientists who through the ages have been practising members of the Catholic Church and at the same time outstanding in Science. These men not only found no conflict between science and religion, but became more firm in their faith as they delved deeper into science. As Marconi, one of the greatest scientists of our time, declared: "Science alone is unable to explain many things, and most of all, the greatest of mysteries -- the mystery of our existence. I believe, not only as a Catholic, but also as scientist." We do not include here the names of Catholics preeminent in navigation, architecture, art, music or literature, limiting ourselves to natural and physical science.
 
 
 **What are the only difficulties found by some scientists in the Biblical account of the creation?**
@@ -77,7 +77,9 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > Fizeau was the first to determine experimentally the velocity of light.
 
-> Foucault invented the first practical electric arc lamp; he refuted the corpuscular theory of light; he invented the gyroscope. Fraunhofer was initiator of spectrum analysis; he established laws of diffraction.
+> Foucault invented the first practical electric arc lamp; he refuted the corpuscular theory of light; he invented the gyroscope.
+
+> Fraunhofer was initiator of spectrum analysis; he established laws of diffraction.
 
 > Fresnel contributed more to the science of optics than any other man.
 
@@ -103,7 +105,7 @@ Other scientists
 
 > Laennec invented the stethoscope.
 
-> Lancist , a Papal physician, was the father of clinical medicine.
+> Lancisi , a Papal physician, was the father of clinical medicine.
 
 > Latreille was pioneer in entomology.
 
@@ -129,7 +131,9 @@ Other scientists
 
 > Pasteur , called the "Father of Bacteriology," and inventor of biotherapeutics, was the leading scientist of the 19th century.
 
-> Picard , a priest, was the first to measure accurately a degree of the meridian. Regiomontanus , a Bishop and Papal astronomer; was the father of modern astronomy.
+> Picard , a priest, was the first to measure accurately a degree of the meridian.
+
+> Regiomontanus , a Bishop and Papal astronomer; was the father of modern astronomy.
 
 > Scheiner , a priest, invented the pantograph, and made a telescope that permitted the first systematic investigation of sun spots.
 
@@ -143,4 +147,4 @@ Other scientists
 
 > Vesalius was the founder of modern anatomical science.
 
-> Volta invented the first; complete galvanic battery; the "volt" is named after him.
+> Volta invented the first complete galvanic battery; the "volt" is named after him.

@@ -17,7 +17,7 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 2. Examples of venial sin are impatience, slight fault-finding, lies that harm nobody.
 
-> The word "venial" comes from the Latin *venial is*, meaning easily pardonable. Even the most just of mortals falls into venial sin again and again. God permits this to keep us humble. The most imperfect of mortals attains a very high degree of perfection as soon as he can avoid all deliberate venial sin: as soon as he does not commit any sin deliberately, with full advert en ce and consent.
+> The word "venial" comes from the Latin *venial is*, meaning easily pardonable. Even the most just of mortals falls into venial sin again and again. God permits this to keep us humble. The most imperfect of mortals attains a very high degree of perfection as soon as he can avoid all deliberate venial sin: as soon as he does not commit any sin deliberately, with full advertence and consent.
 
 3. If a person is in the state of grace, venial sins are forgiven in many ways without necessity of confession.
 

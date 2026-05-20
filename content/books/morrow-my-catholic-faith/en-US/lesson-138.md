@@ -25,4 +25,4 @@
 
 > Vigils are the days preceding great festivals. As purple is a penitential colour, it is fitting to use it during the seasons of special penance, Advent and Lent. Rose, a lighter violet, is used on the fourth Sunday of Advent and also the fourth Sunday of Lent. There is a little rejoicing *(Laetare or Gaudete)* on these two Sundays as we approach the day of our redemption.
 
-5. Black vestments are used at ceremonies for the dead, and on Good Friday. However. at the funerals of children who die before the age of reason, white vestments are used, to express the joy we should feel at the knowledge that an innocent one is Home.
+5. Black vestments are used at ceremonies for the dead, and on Good Friday. However, at the funerals of children who die before the age of reason, white vestments are used, to express the joy we should feel at the knowledge that an innocent one is Home.

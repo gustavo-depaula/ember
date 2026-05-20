@@ -11,7 +11,7 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 — By the second commandment we are commanded always to speak with reverence of God, of the saints, and of holy things, and to be truthful in taking oaths, and faithful to them and to our vows.
 
-> "Blessed be the name of the Lord, from henceforth now and for ever. From the rising of the sun unto the going down of the same, the name of the Lord is worthy of praise" (Ps. 112: 2-3). "I say to you not to swear at all . . . But let your speech be. "Yes. yes"; "No. no" (Matt. 5: 54-37). "The tongue no man can tame ...Out of the same mouth proceed blessing and cursing" (Jas. 3: 8,10).
+> "Blessed be the name of the Lord, from henceforth now and for ever. From the rising of the sun unto the going down of the same, the name of the Lord is worthy of praise" (Ps. 112: 2-3). "I say to you not to swear at all . . . But let your speech be. "Yes. yes"; "No. no" (Matt. 5: 34-37). "The tongue no man can tame ...Out of the same mouth proceed blessing and cursing" (Jas. 3: 8,10).
 
 1. We should never speak God's name without holy respect. We should frequently call upon the name of God with true and heartfelt devotion, especially at the commencement and end of all our important actions, and in time of trouble.
 
@@ -49,7 +49,7 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 — Cursing is the calling down of some evil on a person, place, or thing. 1. To call down some punishment on ourselves or other creatures of God in a moment of anger, is cursing. If the name of God is used, the sin is worse.
 
-> When angry, parents sometimes curse their children, and workmen their animals and tools. Often the one who curses does not mean what he says. If he does, it is indeed a most grievous sin to ask God to damn a person or send him' to hell.
+> When angry, parents sometimes curse their children, and workmen their animals and tools. Often the one who curses does not mean what he says. If he does, it is indeed a most grievous sin to ask God to damn a person or send him to hell.
 
 2. A Christian should never curse. "For such as bless him shall inherit the land; but such as curse him shall perish" (Ps. 36: 22).
 
@@ -60,7 +60,7 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 — Blasphemy is insulting language which expresses contempt for God, either directly or through His saints and holy things. 1. Contemptuous or abusive language against God, scoffing at the true religion, or ridiculing sacred ceremonies, — all these are blasphemous. Sacrilege is a form of blasphemy; irreverent actions and thoughts against God, the saints and angels, or holy persons and things, are also blasphemous.
 
-> In the Old Law, the blasphemer was condemned to death. "And he that blasphemeth the name of the Lord, dying let him die: all the multitude shall stone him" (Lev. 24: 16). It is blasphemy to speak scornfully of God or of His actions; or to attribute to a creature a prerogative of God. Thus the people blasphemed when they said, after King Herod had spoken to them: "It is the voice of a god and not of a man" (Acts 12: 22) .
+> In the Old Law, the blasphemer was condemned to death. "And he that blasphemeth the name of the Lord, dying let him die: all the multitude shall stone him" (Lev. 24: 16). It is blasphemy to speak scornfully of God or of His actions; or to attribute to a creature a prerogative of God. Thus the people blasphemed when they said, after King Herod had spoken to them: "It is the voice of a god and not of a man" (Acts 12: 22).
 
 2. Blasphemy is a sin of the devil. By insulting language against God, one offends the Almighty directly, not only His image. Blasphemy is essentially malicious, not as other sins that arise from human weakness or ignorance.
 

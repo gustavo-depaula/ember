@@ -15,7 +15,7 @@ The Child Jesus should be our model of obedience: "And he went down with them (M
 
 1. One respects his parents (a) by reverencing them as holding God's place; (b) by accepting their corrections willingly; and (c) by excusing and hiding their faults.
 
-> It was God Himself who gave us our parents, and we reverence God when we respect them who are His direct representatives over us. Respect is one duty towards his parents that a child, however old and famous he may become in later life, will always owe his parents, "The eye that mock eth at his father and that despise th the labour of his mother in bearing him, let the ravens of the brooks pick it out and the young eagles eat it" (Prov. 30: 17).
+> It was God Himself who gave us our parents, and we reverence God when we respect them who are His direct representatives over us. Respect is one duty towards his parents that a child, however old and famous he may become in later life, will always owe his parents, "The eye that mocketh at his father and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out and the young eagles eat it" (Prov. 30: 17).
 
 2. One loves his parents by trying to please them, by helping them, and praying for them. Children who love their parents make their home a place of joy and peace.
 
@@ -35,7 +35,7 @@ The Child Jesus should be our model of obedience: "And he went down with them (M
 
 6. The perfect model of obedience is the Child Jesus. All children should have Him for their model. He, God Himself, was subject to Mary and Joseph all the time that He lived with them, in Nazareth.
 
-> "He that honour eth his father shall have joy in his own children." Those who have not honoured their parents often by divine retribution have bad children of their own. The blessing of God is always with a closely united family with members loving each other, doing their best to help everybody in the family. Besides being pleasing to God, without such unity, no nation can be strong.
+> "He that honoureth his father shall have joy in his own children." Those who have not honoured their parents often by divine retribution have bad children of their own. The blessing of God is always with a closely united family with members loving each other, doing their best to help everybody in the family. Besides being pleasing to God, without such unity, no nation can be strong.
 
 
 **Does the fourth commandment oblige us to respect and to obey others besides our parents?**

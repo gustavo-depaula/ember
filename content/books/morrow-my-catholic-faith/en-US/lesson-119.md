@@ -24,7 +24,7 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 
 — Advent is the period of preparation for Christmas. "Advent" means coming. It begins with the first Sunday of Advent, and embraces the four Sundays before Christmas. It is a season of penance in preparation for the birth of the Redeemer.
 
-> The four weeks of Advent represent the four thousand years during which the coming of the Messi as was expected and prepared for. As a sign of penance, the Church uses purple vestments for the Mass of the season, suppresses the joyous Gloria, omits flowers on the altar, and forbids the saying of the Nuptial Mass, etc.
+> The four weeks of Advent represent the four thousand years during which the coming of the Messias was expected and prepared for. As a sign of penance, the Church uses purple vestments for the Mass of the season, suppresses the joyous Gloria, omits flowers on the altar, and forbids the saying of the Nuptial Mass, etc.
 
 
 **What is Christmas tide?**
@@ -36,7 +36,7 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 
 **What is Septuagesima?**
 
-— Septuagesima is the period of preparation for Lent. The season lasts two weeks and a half, from Septuagesima Sunday to Ash Wednesday, and includes three Sundays, respectively called Septuagesima, Sexagesima, and Quinqua- gesima (70th, 60th, and 50th).
+— Septuagesima is the period of preparation for Lent. The season lasts two weeks and a half, from Septuagesima Sunday to Ash Wednesday, and includes three Sundays, respectively called Septuagesima, Sexagesima, and Quinquagesima (70th, 60th, and 50th).
 
 > These were so named because in the early years of Christianity, many began fasting fifty, sixty, or seventy days before Easter.
 

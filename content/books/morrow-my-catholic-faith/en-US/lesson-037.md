@@ -2,7 +2,7 @@
 
 ![](../images/lesson-037.webp)
 
-On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Our Lord spoke to the disciples, telling them how the Holy Ghost would descend upon them. "And when He had said this, he was lifted up before their eyes, and a cloud took him out of their sight, And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, 'Men of Galilee, why do you stand looking up to heaven? This Jesus who has been taken from you into heaven, will come in the some way as you have seen him going up to heaven'" (Acts 1: 9-11).
+On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Our Lord spoke to the disciples, telling them how the Holy Ghost would descend upon them. "And when He had said this, he was lifted up before their eyes, and a cloud took him out of their sight, And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, 'Men of Galilee, why do you stand looking up to heaven? This Jesus who has been taken from you into heaven, will come in the same way as you have seen him going up to heaven'" (Acts 1: 9-11).
 
 (SIXTH ARTICLE OF THE APOSTLES' CREED)
 
@@ -19,7 +19,7 @@ On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Ou
 
 3. We are fortunate in having today for veneration a number of relics of the Passion.
 
-> The tablet with the inscription "I.N.R.I." is in the Basilica of the Holy Cross in Rome. One nail is said to have been thrown by St. Helena into the Adriatic to calm a storm; another is in the iron crown of the Lombards. Veronica's towel is in Rome. Part of the pillar of the scourging is at Rome, part in Jerusalem. The winding sheets are in Turin, and in Cad on in, France. Of the crown of thorns, part is in Paris, part in Toulouse. All these remind us of the time when "they entreated Him to let them touch but the tassel of His cloak" (Matt. 14: 36).
+> The tablet with the inscription "I.N.R.I." is in the Basilica of the Holy Cross in Rome. One nail is said to have been thrown by St. Helena into the Adriatic to calm a storm; another is in the iron crown of the Lombards. Veronica's towel is in Rome. Part of the pillar of the scourging is at Rome, part in Jerusalem. The winding sheets are in Turin, and in Cadonin, France. Of the crown of thorns, part is in Paris, part in Toulouse. All these remind us of the time when "they entreated Him to let them touch but the tassel of His cloak" (Matt. 14: 36).
 
 
 **Will all men rise from the dead?**
@@ -45,7 +45,7 @@ On Mount Olivet, a hill outside Jerusalem, forty days after His Resurrection, Ou
 
 3. The disciples returned to Jerusalem with great joy. Their Master had returned to heaven in glory, and His arrival there had opened to His followers the heavenly gates.
 
-> He had earned for men infinite grace, so that they were now able to attain the friendship of God Himself. Christ the King had gone home to prepare a place for men in heaven (John 14: 16; 2 Cor. 1: 7). We celebrate the feast of the Ascension forty days after Easter, on Ascension Thursday.
+> He had earned for men infinite grace, so that they were now able to attain the friendship of God Himself. Christ the King had gone home to prepare a place for men in heaven (John 14: 2; 2 Cor. 1: 7). We celebrate the feast of the Ascension forty days after Easter, on Ascension Thursday.
 
 
 **What do we mean when we say that Christ sits at the right hand of God, the Father Almighty?**

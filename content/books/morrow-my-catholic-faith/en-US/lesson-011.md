@@ -29,7 +29,7 @@ We speak of three "Persons" in God because to each belongs something we cannot a
 
 — The three Divine Persons are really distinct from one another.
 
-> "So there is one Father, not three Fathers; one Son, not three Sons; one Holy Ghost, not three Holy Ghosts. And in this Trinity, None is before or after Other. None is greater or less than Another; but the whole three Persons are Co-eternal together, and Co- equal. So that in all things, as in aforesaid, the Unity in Trinity, and the Trinity in Unity is to be worshipped.'' (From the Athanasian Creed.)
+> "So there is one Father, not three Fathers; one Son, not three Sons; one Holy Ghost, not three Holy Ghosts. And in this Trinity, None is before or after Other. None is greater or less than Another; but the whole three Persons are Co-eternal together, and Co-equal. So that in all things, as in aforesaid, the Unity in Trinity, and the Trinity in Unity is to be worshipped." (From the Athanasian Creed.)
 
 1. This is the simplest way by which the distinct origin of each Divine Person has been explained: God is a spirit, and the first act of a Spirit is to know and understand. God, knowing Himself from all eternity, brings forth the knowledge of Himself, His own image. This was not a mere thought, as our knowledge of ourselves would be, but a Living Person, of the same substance and one with the Father. This is God the Son. Thus the Father "begets" the Son, the Divine Word, the Wisdom of the Father.
 

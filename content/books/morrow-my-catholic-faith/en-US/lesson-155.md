@@ -22,7 +22,7 @@ The Way of the Cross (1) and the Angelus (2) are two common and profitable praye
 
 **What are the "usual conditions" required for a plenary indulgence?**
 
-— The "usual conditions" required for a plenary indulgence are; confession and Holy Communion, and praying for the intentions of the Pope.
+— The "usual conditions" required for a plenary indulgence are: confession and Holy Communion, and praying for the intentions of the Pope.
 
 1. These "usual conditions" are required in addition to the works prescribed for the particular indulgence.
 
@@ -36,9 +36,11 @@ The Way of the Cross (1) and the Angelus (2) are two common and profitable praye
 
 > This exemption from confession, however, does not hold good for jubilee indulgences. For those, confession and communion must be offered each time a plenary indulgence is to be gained.
 
-4. When a visit to a church is prescribed on a certain day, the visit may be made at any time from noon of the preceding day to midnight of the day itself. Except when a particular church is specified, any church may be visited. 5. The "Pope's intentions" usually refer to the welfare of the Church and religion. The include, unless otherwise stated: (1) the exaltation of the Church; (2) the uprooting of heresies; (3) peace among Christian nations; (4) the propagation of the faith; and (5) the conversion of sinners.
+4. When a visit to a church is prescribed on a certain day, the visit may be made at any time from noon of the preceding day to midnight of the day itself. Except when a particular church is specified, any church may be visited.
 
-> For the Pope's intentions, it is sufficient to say five Our Fathers, five Hail Marys, and five Glory be to the Fathers, unless otherwise specified.
+5. The "Pope's intentions" usually refer to the welfare of the Church and religion. They include, unless otherwise stated: (1) the exaltation of the Church; (2) the uprooting of heresies; (3) peace among Christian nations; (4) the propagation of the faith; and (5) the conversion of sinners.
+
+> For the Pope's intentions, it is sufficient to say five Our Fathers, five Hail Marys, and five Glory be to the Father, unless otherwise specified.
 
 
 **What objects are commonly indulgenced?**

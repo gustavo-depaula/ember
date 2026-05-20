@@ -25,7 +25,7 @@ As an example of true zeal, we have the Apostle of the Indies, the Patron of Cat
 
 4. The meek man is master of his own self; he has self-control, and will find it easy to control others. He has peace of mind and will attain heaven, the home of the meek of heart. (See Chapter 26 on Anger, Gluttony, Envy, Sloth)
 
-> Let us gaze at Jesus Crucified; He is the supreme example of meekness, the Lamb of God: "And I was as a meek lamb, that is carried to be a victim" (Jer. 11: 19). Indeed, "Blessed are the meek, for they shall possess the earth" (Matt. 5: 4); the land of the hearts of their fellow men. As St. Francis de Sales practically said, "One catches more flies with an ounce of honey than with tons of vinegar."
+> Let us gaze at Jesus Crucified; He is the supreme example of meekness, the Lamb of God: "And I was as a meek lamb, that is carried to be a victim" (Jer. 11: 19). Indeed, "Blessed are the meek, for they shall possess the earth" (Matt. 5: 4); the land of the hearts of their fellowmen. As St. Francis de Sales practically said, "One catches more flies with an ounce of honey than with tons of vinegar."
 
 
 **What is abstinence?**
@@ -47,7 +47,7 @@ As an example of true zeal, we have the Apostle of the Indies, the Patron of Cat
 
 — The virtues of diligence and zeal are opposed to sloth. 1. From the days of Adam work has been laid as an obligation on men. God said to Adam: "In the sweat of thy face thou shalt eat bread, until thou return to the earth out of which thou wast taken" (Gen. 3: 19)
 
-> All men must work, whether mentally or bodily. The Apostle said: If any man will not work, neither let him eat" (2 Thess. 3: 10). Our Lord worked all His life, and chose working people for His Mother and foster-father. Diligence in labour is a shield against temptation, for thieves do not break into a house full of busy people.
+> All men must work, whether mentally or bodily. The Apostle said: "If any man will not work, neither let him eat" (2 Thess. 3: 10). Our Lord worked all His life, and chose working people for His Mother and foster-father. Diligence in labour is a shield against temptation, for thieves do not break into a house full of busy people.
 
 2. In opposition to spiritual sloth, we have zeal. It consists in fervour for our salvation and for that of others, out of love of God. It manifests itself in the propagation of the faith, the sanctification of souls, and making God better known. (See Chapter 26 on Anger, Gluttony, Envy, Sloth)
 

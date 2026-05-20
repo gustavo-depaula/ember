@@ -23,16 +23,18 @@ Immediately after the Fall, God promised a Redeemer to Adam. He forgave man, alt
 
 3. Later, God sent the Prophets. Through them, He foretold many things about the Redeemer: about His birth, His Person, His sufferings. His death, and His final glory.
 
-> God enlightened the Prophets so that they could speak in His name to the Jews or Israelites' the descendants of Abraham. There were about seventy prophets, the last being Malachi as, who lived some 450 years before Christ.
+> God enlightened the Prophets so that they could speak in His name to the Jews or Israelites, the descendants of Abraham. There were about seventy prophets, the last being Malachias, who lived some 450 years before Christ.
 
 4. God chose the Jews as the people among whom the promised Saviour would live; for this reason we call the Jews the "chosen people". God prepared them for the coming of the Saviour: by heavy trials, by severe laws, by miracles, by prophecies.
 
-> The selection of the Jews did not mean rejection by God of the other nations. Every renewal of God's promise recalled blessings in which all were to share. Even among other nations there were just men, In Greece, Socrates spoke against the worship of idols. Holy Job lived in Arabia. The Magi were of the East. Vergil the poet prayed the virgin-born Son to come and reign over His people.
+> The selection of the Jews did not mean rejection by God of the other nations. Every renewal of God's promise recalled blessings in which all were to share. Even among other nations there were just men. In Greece, Socrates spoke against the worship of idols. Holy Job lived in Arabia. The Magi were of the East. Vergil the poet prayed the virgin-born Son to come and reign over His people.
 
 
 **Why did God wait thousands of years before sending the Redeemer?**
 
-— God wished men to realize the enormity of sin. 1. God wished men to see how low they could sink without His help. He wanted the world to prepare for the Redeemer.
+— God wished men to realize the enormity of sin.
+
+1. God wished men to see how low they could sink without His help. He wanted the world to prepare for the Redeemer.
 
 > Men became so wicked that God destroyed all in the Deluge, except Noe and his family. God permitted men to sink into the deepest misery, so that they might be roused to a longing for the promised Saviour. When the Saviour at last came, all nations were sunk in idolatry and wickedness except the Jews. Even among the Jews there was continuous dissension and sin.
 

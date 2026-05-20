@@ -2,12 +2,12 @@
 
 ![](../images/lesson-064.webp)
 
-Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or not? Our Lord asked for a coin and then inquired, 'Whose image and inscription does it bear?'" They answered, "Caesar's." And Our Lord said. "Render, therefore, to Caesar the things that are Caesar's, and to God the things that are God's."Thus, we are taught to give both the State and the Church what is due to each, in accordance with the end that each pursues.
+Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or not?" Our Lord asked for a coin and then inquired, "Whose image and inscription does it bear?" They answered, "Caesar's." And Our Lord said, "Render, therefore, to Caesar the things that are Caesar's, and to God the things that are God's." Thus, we are taught to give both the State and the Church what is due to each, in accordance with the end that each pursues.
 
 
 **How many Perfect Societies are there?**
 
-— There are two perfect societies.. Catholic Doctrine recognizes that there are two perfect societies in this world – the Catholic Church and the State. Each possesses the means to attain the end that God has assigned to each of them. Thus, the Church promotes the salvation of souls while the State promotes the temporal common good. Imperfect societies, such as the family, cannot bring their members to perfection without the help of the Church and the State.
+— There are two perfect societies. Catholic Doctrine recognizes that there are two perfect societies in this world – the Catholic Church and the State. Each possesses the means to attain the end that God has assigned to each of them. Thus, the Church promotes the salvation of souls while the State promotes the temporal common good. Imperfect societies, such as the family, cannot bring their members to perfection without the help of the Church and the State.
 
 
 **What is the Relation between Church and State?**
@@ -19,7 +19,7 @@ Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or no
 
 **What are the Obligations of the State towards the Church?**
 
-— Since the State is a moral organization of men, it has the same duties as the men who compose it. Therefore, the first duty of the State is to recognize the True Church. From this flows its duties to public acts of the Catholic Religion, to protect the rights of the Church, to assist its work, to stand up against all moral errors and to prohibit, prudently, the propagation of false religions. Where the common good requires it, these latter may be tolerated. However, even if the State does not recognize the true Church, it must respect the rights of the Church because this is so beneficial for the temporal common good which the State must foster. “It is a public crime to act as if there were no God. So too it is a sin for the State not to have care for religion as something beyond its scope. … Now it cannot be difficult to find out which is the true religion, if only it be sought with an earnest and unbiased mind; for proofs are abundant and striking.” (Leo XIII)
+— Since the State is a moral organization of men, it has the same duties as the men who compose it. Therefore, the first duty of the State is to recognize the True Church. From this flows its duties to public acts of the Catholic Religion, to protect the rights of the Church, to assist its work, to stand up against all moral errors and to prohibit, prudently, the propagation of false religions. Where the common good requires it, these latter may be tolerated. However, even if the State does not recognize the true Church, it must respect the rights of the Church because this is so beneficial for the temporal common good which the State must foster. “It is a public crime to act as if there were no God. So too it is a sin for the State not to have care for religion as something beyond its scope. … Now it cannot be difficult to find out which is the true religion, if only it be sought with an earnest and unbiased mind: for proofs are abundant and striking.” (Leo XIII)
 
 
 **Is one subordinate to the other?**
@@ -49,7 +49,7 @@ Once the Pharisees asked Our Lord: "Is it lawful to give tribute to Caesar or no
 
 — Yes, we do. All citizens, as members of both the Church and the State are obliged to promote the good of both these societies and to protect them from evil. Since modern democracies afford all the opportunity of political influence through voting, this means must not be neglected.
 
-> “That in the present circumstances there is a strict obligation for those who have the right to vote, men and women, to take part in the elections. A person who abstains from voting, especially if he does so for reason of indolence, commits what in itself is a mortal sin.”(Pius XII)
+> “That in the present circumstances there is a strict obligation for those who have the right to vote, men and women, to take part in the elections. A person who abstains from voting, especially if he does so for reason of indolence, commits what in itself is a mortal sin.” (Pius XII)
 
 “Grave therefore is the responsibility of every man or women who has the political right to vote, especially there where the religious interests are at stake. To abstain in such a case is, we know it well, a grave and fatal sin of omission.” (Pius XII)
 

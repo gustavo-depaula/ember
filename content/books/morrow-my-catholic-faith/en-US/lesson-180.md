@@ -24,7 +24,7 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 — We pray: 1. To adore God, expressing to Him our love and loyalty. — This is the prayer of praise. We ought to praise God for His infinite perfections. The Church praises Him unceasingly.
 
-> The *Gloria* and *Sanctus* in the Mass the *Te Deum*, and the *Gloria Patri* are all prayers of praise. The Blessed Virgin praised God in the *Magnificat*. We must adore God as becomes reasonable human beings. Chain prayers are foolish.
+> The *Gloria* and *Sanctus* in the Mass, the *Te Deum*, and the *Gloria Patri* are all prayers of praise. The Blessed Virgin praised God in the *Magnificat*. We must adore God as becomes reasonable human beings. Chain prayers are foolish.
 
 2. To thank him for his favours. — This is the prayer of thanksgiving. All we have comes from God, and we are obliged to render Him thanks. Too many take His favours for granted, and neglect to thank Him.
 
@@ -47,7 +47,7 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 2. With a conviction of our own helplessness and our dependence upon God. — We should humbly acknowledge our nothingness, our unworthiness, and God's greatness.
 
-> "The prayer of him that humbleth himself shall pierce the clouds" (Ecclus. 35: 21). Remember how Christ praised the publican who. humbly struck his breast and prayed: "O God, be merciful to me a sinner." We are entirely dependent on God our Creator; whatever He refuses us, we cannot have. "Without me, you can do nothing." (John 15: 5).
+> "The prayer of him that humbleth himself shall pierce the clouds" (Ecclus. 35: 21). Remember how Christ praised the publican who humbly struck his breast and prayed: "O God, be merciful to me a sinner." We are entirely dependent on God our Creator; whatever He refuses us, we cannot have. "Without me, you can do nothing." (John 15: 5).
 
 3. With a great desire for the graces we beg of Him. — It is far from polite to a fellow-man to ask him for something and at the same time to act as if we did not care whether he granted our request or not. How much more reprehensible such an action would be before Almighty God!
 
@@ -55,7 +55,7 @@ The following illustrates the qualities of prayer: "He that adoreth God with joy
 
 4. With loving trust in His goodness. — We should have confidence, filled with a firm belief that God will grant our prayer if it is for our good. God loves to see faith, confidence, and trust in our hearts. At the same time, we should be resigned to God's will. We must leave to God's good pleasure the granting or withholding of our wish, how and when He would grant it.
 
-> "Amen I say to you, whoever says to this mountain, 'Arise, and hurl thyselfinto the sea,' and does not waver in his heart, but believes that whatever he says will be done, it shall be done for him" (Mark 11: 23). Our Lord prayed in the Garden: "Not my will, but thine be done" (Luke 22: 42). He had asked that the chalice might pass from Him, but left the answering of the petition to His Heavenly Father. God knows best what is for our good. We ought not to dictate to Him how and when to answer our prayers.
+> "Amen I say to you, whoever says to this mountain, 'Arise, and hurl thyself into the sea,' and does not waver in his heart, but believes that whatever he says will be done, it shall be done for him" (Mark 11: 23). Our Lord prayed in the Garden: "Not my will, but thine be done" (Luke 22: 42). He had asked that the chalice might pass from Him, but left the answering of the petition to His Heavenly Father. God knows best what is for our good. We ought not to dictate to Him how and when to answer our prayers.
 
 5. With perseverance. — Even if our petition is not immediately granted, we should not stop praying. "We must always pray, and not lose heart" (Luke 18: 1).
 

@@ -48,7 +48,7 @@ It is not possible for all to go to distant missions to win souls for Christ, bu
 
 4. The American Board of Catholic Missions. This Board is composed of the United States hierarchy.
 
-> It supervises collections by the Society for the Propagation of the Faith and divides forty percent of the amount for U. S, missions.
+> It supervises collections by the Society for the Propagation of the Faith and divides forty percent of the amount for U. S. missions.
 
 5. The Catholic Church Extension Society. This is a home organization, established for the purpose of building chapels and schools, supporting mission churches, distributing Mass stipends to missionaries, and educating priests for the home missions.
 

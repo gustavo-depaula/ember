@@ -51,18 +51,18 @@ Upon being chosen for a public office, officials acquire not only rights, but du
 
 2. Employers should give their employees a living wage; that is, enough for them and their families to live on decently. They should allow them ample facilities for fulfilling religious duties.
 
-> They should look after their health, watch over their morals, attend to their religious instruction if they are Catholics. {For other duties of employers see pages 230- 231.)
+> They should look after their health, watch over their morals, attend to their religious instruction if they are Catholics. (For other duties of employers see pages 230-231.)
 
 
 **What does the fourth commandment forbid?**
 
 — The fourth commandment forbids disrespect, unkindness, and disobedience to our parents and lawful superiors. 1. Disrespect includes all irreverence and stubbornness against lawful authority. One offends against the respect due his parents when he talks back at them refuses their correction, ridicules them or strikes them.
 
-> One who thinks and acts as if he were '"superior" to his parents is a disgraceful snob. For even if a son or daughter has graduated with highest honours from the best university in the world, he still owes his parents due respect as God's representatives.
+> One who thinks and acts as if he were "superior" to his parents is a disgraceful snob. For even if a son or daughter has graduated with highest honours from the best university in the world, he still owes his parents due respect as God's representatives.
 
 2. Contempt and unkindness are contrary to the love we owe our parents. One offends against the love due his parents if he curses them, despises them, hates them, grieves them, or makes them angry.
 
-> Children at times speak sharply and insultingly to their parents. We should recoil in shame before doing this. Even if we only think of what our parents have done for us, the continuous and unending sacrifices they have made, we should burn our tongue out before we speak contemptuously to them. "He that curse th his father or mother, dying let him die" (Lev. 20: 9).
+> Children at times speak sharply and insultingly to their parents. We should recoil in shame before doing this. Even if we only think of what our parents have done for us, the continuous and unending sacrifices they have made, we should burn our tongue out before we speak contemptuously to them. "He that curseth his father or mother, dying let him die" (Lev. 20: 9).
 
 3. Children may sin against obedience either by refusing or neglecting to do what is commanded, or by doing what is forbidden. Showing unwillingness is also a form of disobedience.
 

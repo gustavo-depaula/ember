@@ -2,7 +2,7 @@
 
 ![](../images/lesson-042.webp)
 
-In the picture, the Holy Ghost is represented by a dove. It was in that form that the Holy Ghost showed Himself visibly when St. John baptised Jesus. The dove symbolizes gentleness and peace. The Holy Ghost dispenses the graces of God. However, the Holy Ghost produces nothing beyond what Jesus Christ merited. The merits of Our Lord are infinite, for He is God. The Holy Ghost merely perfects, the works of Christ. In a somewhat similar way, the sun shining on a field does not sow new seed; it merely develops what has been sown, making it bloom and bear fruit
+In the picture, the Holy Ghost is represented by a dove. It was in that form that the Holy Ghost showed Himself visibly when St. John baptised Jesus. The dove symbolizes gentleness and peace. The Holy Ghost dispenses the graces of God. However, the Holy Ghost produces nothing beyond what Jesus Christ merited. The merits of Our Lord are infinite, for He is God. The Holy Ghost merely perfects the works of Christ. In a somewhat similar way, the sun shining on a field does not sow new seed; it merely develops what has been sown, making it bloom and bear fruit
 
 
 **Which are the seven gifts of the Holy Ghost?**
@@ -21,7 +21,7 @@ In the picture, the Holy Ghost is represented by a dove. It was in that form tha
 
 3. The gift of counsel helps us to discover the will of God under difficult circumstances.
 
-> Before they received the Holy Ghost, the Apostles were inconstant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or where with you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12: 11-12).
+> Before they received the Holy Ghost, the Apostles were inconstant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or wherewith you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12: 11-12).
 
 4. Fortitude is the gift by which we are strengthened under trials, to do God's will.
 

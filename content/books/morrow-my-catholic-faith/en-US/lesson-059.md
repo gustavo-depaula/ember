@@ -20,7 +20,7 @@ The Church is a closely organized and united society, including the hierarchy an
 
 — The members of the hierarchy are divided into three classes with different power of orders: deacons, priests, and bishops.
 
-> This order of rank and power has been in force in the Church from the time of the Apostles. These three classes were foreshadowed in the high priest, priests, and Levites of the Old Law. They also had counterparts in Our Lord, the Apostles. and the disciples. Our Lord gave full powers to the twelve Apostles, but only limited power to the disciples.
+> This order of rank and power has been in force in the Church from the time of the Apostles. These three classes were foreshadowed in the high priest, priests, and Levites of the Old Law. They also had counterparts in Our Lord, the Apostles, and the disciples. Our Lord gave full powers to the twelve Apostles, but only limited power to the disciples.
 
 1. Deacons can baptise, preach, and give Holy Communion.
 
@@ -28,7 +28,7 @@ The Church is a closely organized and united society, including the hierarchy an
 
 2. Priests have higher orders than deacons. They can offer the holy sacrifice of the Mass, and forgive sins in the Sacrament of Penance. They can administer all sacraments except those of Confirmation and Holy Orders. With special faculties, they may even administer Confirmation. In the Catholic Eastern Rites priests administer Confirmation immediately after Baptism.
 
-> Priests were prefigured in the seventy-two disciples of Our Lord. The word "priest" is derived from the Greek *presbyter*, which means "the elder" a term used by the first converted Jews.
+> Priests were prefigured in the seventy-two disciples of Our Lord. The word "priest" is derived from the Greek *presbyter*, which means "the elder," a term used by the first converted Jews.
 
 3. Bishops have full power of orders; they are the successors of the Apostles. A bishop administers all the sacraments; he alone administers Holy Orders. He consecrates holy oils, churches, chalices, etc.
 

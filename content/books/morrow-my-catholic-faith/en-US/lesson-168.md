@@ -9,7 +9,7 @@ The contracting parties should go before the priest for instruction before a pla
 
 — The Church does not have the authority to excuse or grant dispensations from all impediments; it can grant dispensations only from such impediments as arise from its own laws, but not from such as arise from divine or natural laws.
 
-> Impediments of the natural law, which is only part of the divine law. are unchangeable, and cannot be given any dispensation. An example is the marriage of parents and children, or of a married person whose spouse is still living.
+> Impediments of the natural law, which is only part of the divine law, are unchangeable, and cannot be given any dispensation. An example is the marriage of parents and children, or of a married person whose spouse is still living.
 
 1. Dispensations are granted when there is sufficient reason or need. The bishop and the parish priest have the authority to investigate each case.
 
@@ -22,11 +22,13 @@ The contracting parties should go before the priest for instruction before a pla
 
 **Does the Church forbid Catholics to contract marriage with non-Catholics?**
 
-— Yes; the Church does forbid Catholics to contract marriage with non-Catholics. 1. Such a marriage is called a ''mixed marriage." 'The Church forbids mixed marriages because they often bring about family discord, loss of faith on the part of the Catholic, and neglect of the religious training of the children.
+— Yes; the Church does forbid Catholics to contract marriage with non-Catholics.
+
+1. Such a marriage is called a "*mixed marriage.*" The Church forbids mixed marriages because they often bring about family discord, loss of faith on the part of the Catholic, and neglect of the religious training of the children.
 
 > The Church strongly disapproves of mixed marriages. From its long experience, the Church knows that mixed marriages are rarely happy; they are opposed to the union and harmony that should exist between spouses. The Catholic is in danger of losing his or her faith. The non-Catholic is liable to a divorce and contract another marriage, whereas the Catholic is bound not to take a second partner until the first one dies. The proper training of the children becomes difficult; moreover, it is likely that the offspring from such unions grow up without proper religious instruction, and lose the Faith.
 
-2. For mixed marriages, a dispensation is granted only for grave cause, and under the condition of a promise (as a rule, in writing): by the non-Catholic party not to endanger the faith of the Catholic; by the Catholic party to strive for the conversion of the non-Catholic by prayer and good example: and by both parties to have all children born of the marriage baptised and reared as true Catholics.
+2. For mixed marriages, a dispensation is granted only for grave cause, and under the condition of a promise (as a rule, in writing): by the non-Catholic party not to endanger the faith of the Catholic; by the Catholic party to strive for the conversion of the non-Catholic by prayer and good example; and by both parties to have all children born of the marriage baptised and reared as true Catholics.
 
 > The divine law forbids mixed marriages as long as there is danger to the faith of the Catholic or of the offspring. This danger has to be removed before dispensation is granted: hence the definite and explicit promises required.
 

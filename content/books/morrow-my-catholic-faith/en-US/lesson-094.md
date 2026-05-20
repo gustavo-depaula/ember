@@ -17,7 +17,7 @@ The true cross was found by St. Helena, mother of the emperor Constantine the Gr
 
 2. Relics deserve to be venerated. The bodies of the saints were temples of the Holy Ghost, and instruments by which God worked.
 
-> They will some day rise glorious from the grave, and be united with the soul in heaven. God shows His approval of the veneration of relics by working frequent miracles at their application. In certain cases, the bodies of the saints have remained incorrupt, as those of St. Teresa, St. Francis Xavier, and St. Catherine of Bologna. The blood of St. Januarius, kept in a vial at Naples, liquefies several times a year for certain periods "God worked more than the usual miracles by the hand of Paul; so that even handkerchiefs and aprons were carried from his body to the sick, and the diseases left them and the evil spirits went out" (Acts 19: 12).
+> They will some day rise glorious from the grave, and be united with the soul in heaven. God shows His approval of the veneration of relics by working frequent miracles at their application. In certain cases, the bodies of the saints have remained incorrupt, as those of St. Teresa, St. Francis Xavier, and St. Catherine of Bologna. The blood of St. Januarius, kept in a vial at Naples, liquefies several times a year for certain periods. "God worked more than the usual miracles by the hand of Paul; so that even handkerchiefs and aprons were carried from his body to the sick, and the diseases left them and the evil spirits went out" (Acts 19: 12).
 
 3. We honour relics when we preserve them with reverence, visit the places where they are deposited, pray before them, etc.
 

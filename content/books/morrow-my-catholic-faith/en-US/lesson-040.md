@@ -24,7 +24,7 @@ The case of Saul of Tarsus is one of the most wonderful instances of cooperation
 
 — Actual grace is necessary for all who have attained the use of reason, because without it, we cannot long resist the power of temptation, nor perform other actions which merit a reward in heaven. 1. We all need actual grace. Sinners need it to rise from sin. The just need it to persevere in good. Without grace, we fall into sin.
 
-> Herod was offered actual grace when he heard of the birth of the Messi as from the three wise men; but Herod rejected the grace, and added to his sins.
+> Herod was offered actual grace when he heard of the birth of the Messias from the three wise men; but Herod rejected the grace, and added to his sins.
 
 2. Grace is given to all men, although not in equal amounts. Some receive more, some less. Some ordinary graces are granted to all men; certain extraordinary graces are granted to chosen ones.
 

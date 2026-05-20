@@ -21,7 +21,7 @@ The 28th International Eucharistic Congress, held in Chicago in June 1926, was o
 
 4. The Forty Hours' Devotion is a devotion to the Blessed Sacrament, in memory of the forty hours during which the Body of Jesus stayed in the Holy Sepulchre, after His burial on Good Friday up to His resurrection on Easter.
 
-> The devotion lasts forty hours, during which relays of adore rs take turns offering prayers and meditation to Christ in the Blessed Eucharist solemnly exposed. The devotion begins on the first day with Holy Mass, in honour of the Blessed Sacrament. At the end of the Mass there is a solemn procession, and the Blessed Sacrament is exposed on the throne at the high altar. The devotion ends with another Mass. During the forty hours, no requiem Masses may be said in the church.
+> The devotion lasts forty hours, during which relays of adorers take turns offering prayers and meditation to Christ in the Blessed Eucharist solemnly exposed. The devotion begins on the first day with Holy Mass, in honour of the Blessed Sacrament. At the end of the Mass there is a solemn procession, and the Blessed Sacrament is exposed on the throne at the high altar. The devotion ends with another Mass. During the forty hours, no requiem Masses may be said in the church.
 
 
 **What is a Eucharistic Congress?**

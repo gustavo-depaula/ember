@@ -14,7 +14,7 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 **How do priests exercise their power to change bread and wine into the body and blood of Christ?**
 
-— Priests exercise their power to change bread and wine into the body and blood of Christ by repeating at the consecration of the Mass the words of Christ: ''This is My body. . . .this is My blood."
+— Priests exercise their power to change bread and wine into the body and blood of Christ by repeating at the consecration of the Mass the words of Christ: "This is My body. . . .this is My blood."
 
 > Over the bread are pronounced the words: Hoc est enim corpus meum, or "this is My Body." Over the wine are pronounced the words: Hic est enim calix sanguinis mei, or "this is the chalice of My Blood."
 
@@ -29,7 +29,9 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 **Is Jesus Christ present, whole and entire, both under the appearances of bread, and under the appearances of wine?**
 
-— Jesus Christ is present, whole and entire, both under the appearances of bread and under the appearances of wine. 1. In the Holy Eucharist, Christ is present wholly. Body, Blood, Soul, and Divinity.
+— Jesus Christ is present, whole and entire, both under the appearances of bread and under the appearances of wine.
+
+1. In the Holy Eucharist, Christ is present wholly. Body, Blood, Soul, and Divinity.
 
 > A little child preparing for her first Holy Communion was asked the difference between a crucifix and the Blessed Sacrament. "Why," the innocent child answered, "the crucifix looks like Our Lord, but is not He. The Blessed Sacrament does not look like Our Lord, but It is He Himself!"
 
@@ -48,13 +50,15 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 **Why does Christ give us His own body and blood in the Holy Eucharist?**
 
-— Christ gives us His own body and blood in the Holy Eucharist: 1. To be offered as a sacrifice commemorating and renewing the sacrifice of the cross.
+— Christ gives us His own body and blood in the Holy Eucharist:
+
+1. To be offered as a sacrifice commemorating and renewing the sacrifice of the cross.
 
 > "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11: 26). In the Mass, Jesus offers Himself as a Victim to His heavenly Father.
 
 2. To be received in Holy Communion.
 
-> "I am the bread of life . . . He who eats my flesh, and drinks my blood, abides in me, and I in him... He who eats me, he also shall live because of me" (John 6: 48, 56, 58). The Holy Eucharist is food to nourish the soul. By this food we are united to Christ, Who nourishes us with His divine life; sanctifying grace and all virtues increase in our souls; our evil inclinations are lessened. The Holy Eucharist is a pledge of everlasting life: "If any man eat of this Bread, he shall live forever." Holy Communion needs the Mass to supply the consecrated species; for this reason Mass and Communion are inseparable.
+> "I am the bread of life . . . He who eats my flesh, and drinks my blood, abides in me, and I in him. . . He who eats me, he also shall live because of me" (John 6: 48, 56, 58). The Holy Eucharist is food to nourish the soul. By this food we are united to Christ, Who nourishes us with His divine life; sanctifying grace and all virtues increase in our souls; our evil inclinations are lessened. The Holy Eucharist is a pledge of everlasting life: "If any man eat of this Bread, he shall live forever." Holy Communion needs the Mass to supply the consecrated species; for this reason Mass and Communion are inseparable.
 
 3. To remain ever on our altars as a proof of His love, and to be worshipped by us.
 
@@ -63,7 +67,9 @@ In the Holy Eucharist, Our Lord is present whole and entire, Body, Blood, Soul a
 
 **Since Christ's Real Presence is in the Eucharist, what honour are we bound to render It?**
 
-— We are bound to render the Holy Eucharist the same adoration and honour due God Himself. 1. It is a most wonderful privilege to have Christ actually present every moment of the day and night.
+— We are bound to render the Holy Eucharist the same adoration and honour due God Himself.
+
+1. It is a most wonderful privilege to have Christ actually present every moment of the day and night.
 
 > When the Blessed Sacrament is in the tabernacle, it is covered with a curtain or veil, and a sanctuary lamp is kept burning before it. When we enter or leave the church, we should genuflect on the right knee towards the tabernacle, as a sign of adoration.
 

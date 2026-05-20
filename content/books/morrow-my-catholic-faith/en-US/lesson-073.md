@@ -13,7 +13,7 @@ In the castle of Fontainebleu, Napoleon forced the Pope to give up the States of
 
 2. Of the persecutors in Rome, Nero was deposed, and in despair stabbed himself.
 
-> Domitian was assassinated. Hadrian became insane. Marcus Aurelius, despondent over the ingratitude of his only son, starved himself to death. Sep tim us Severus, whose life had been attempted by his only son, died in despair. Decius died miserably in a swamp, during a battle. Valerian was flayed alive by the Persians. Maxentius was drowned in the Tiber.
+> Domitian was assassinated. Hadrian became insane. Marcus Aurelius, despondent over the ingratitude of his only son, starved himself to death. Septimus Severus, whose life had been attempted by his only son, died in despair. Decius died miserably in a swamp, during a battle. Valerian was flayed alive by the Persians. Maxentius was drowned in the Tiber.
 
 > Diocletian died from a loathsome disease. Julian the Apostate was struck down by a lance on the field of battle, and died crying: "Galilean, Thou hast conquered!"
 
@@ -21,9 +21,9 @@ In the castle of Fontainebleu, Napoleon forced the Pope to give up the States of
 
 > Drunk with power, Napoleon seized Rome in 1808, declaring himself the "successor of Charlemagne". He banished Cardinals and bishops, and carrying off Pope Pius VII, held him prisoner in Savona. Enemies of the Church exulted: "The Papacy is ended! The Emperor has devoured the Pope!" They forgot the divine promise to Peter: "The gates of hell shall not prevail!"; on that promise was based the ancient saying: "Who eats of the Pope dies like a beast." On the same day that Napoleon died in exile at St. Helena, Pope Pius VII was celebrating his own feast day in Rome.
 
-4. Heretics and schismatics have shared the same fate. Arius burst as under during a triumphal procession. Voltaire died in despair. The Greek Schismatics fell under the Turkish yoke in 1453, on Pentecost, the feast of that Holy Ghost about whom they had expressed doubts.
+4. Heretics and schismatics have shared the same fate. Arius burst asunder during a triumphal procession. Voltaire died in despair. The Greek Schismatics fell under the Turkish yoke in 1453, on Pentecost, the feast of that Holy Ghost about whom they had expressed doubts.
 
-> Truly history has shown the truth of the words of Holy Scripture; "It is a fearful thing to fall into the hands of the living God" (Heb. 10:31).
+> Truly history has shown the truth of the words of Holy Scripture: "It is a fearful thing to fall into the hands of the living God" (Heb. 10:31).
 
 
 **Why can no other church except the Catholic Church be the True Church of Christ?**

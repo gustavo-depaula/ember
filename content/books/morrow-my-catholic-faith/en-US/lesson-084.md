@@ -2,7 +2,7 @@
 
 ![](../images/lesson-084.webp)
 
-1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steal. Theft is an offence against God,''That is conscience.
+1. Conscience is often called the voice of God within us. It bids us do what is right and avoid what is wrong. Cain, who lived long before the Ten Commandments were given to Moses, knew by his conscience that it was wicked to kill his brother. 2. When one is tempted to steal, one seems to hear a warning voice saying, "Do not steal. Theft is an offence against God,'' That is conscience.
 
 
 **Besides believing what God has revealed, what else must we do to be saved?**
@@ -43,7 +43,7 @@
 
 > A man may believe that God prohibits gambling in a lottery. If he nevertheless participates, he sins, because he has violated his conscience.
 
-3. One has a doubtful conscience when one does not know whether something is right or wrong. We should not act it we have a doubtful conscience about something, but wait till we can clear the matter up.
+3. One has a doubtful conscience when one does not know whether something is right or wrong. We should not act if we have a doubtful conscience about something, but wait till we can clear the matter up.
 
 > If one has a doubtful conscience, but yet must do something and cannot wait, he should say to himself that if he knew it was wrong, then he would not do it. Then even if he makes up his mind and does it, and it is really wrong, he is not guilty of sin.
 

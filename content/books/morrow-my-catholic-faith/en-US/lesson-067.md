@@ -2,7 +2,7 @@
 
 ![](../images/lesson-067.webp)
 
-The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said. "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14: 16, 26).
+The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said, "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14: 16, 26).
 
 
 **What is meant by the infallibility of the Catholic Church?**
@@ -23,9 +23,11 @@ The Church cannot teach error, because it was founded by Christ, God Himself. He
 
 > For example, we must believe the doctrine of the Blessed Trinity: that there are Three Divine Persons in One God. We must believe that Jesus Christ is God. We must believe in the Blessed Virgin Mary's immaculate conception.
 
-Of things we must do are these: we must go to Mass on Sundays and holydays of obligation; we must fast and abstain when our bishops so order; we must receive Holy Communion at least once a year. We must obey the Ten Commandments. 4. Jesus Christ commanded all men to listen to and obey the Church, under pain of damnation. If His Church can teach error, then He is responsible for the error, by commanding all to obey.
+Of things we must do are these: we must go to Mass on Sundays and holydays of obligation; we must fast and abstain when our bishops so order; we must receive Holy Communion at least once a year. We must obey the Ten Commandments.
 
-> Jesus sent forth His Apostles with full powers to preach His Gospel: "As the Father hath sent Me, I also send you." - "Make disciples of all nations teaching them to observe all that I have commanded you." - "Preach the Gospel to every creature."
+4. Jesus Christ commanded all men to listen to and obey the Church, under pain of damnation. If His Church can teach error, then He is responsible for the error, by commanding all to obey.
+
+> Jesus sent forth His Apostles with full powers to preach His Gospel: "As the Father hath sent Me, I also send you." "Make disciples of all nations teaching them to observe all that I have commanded you." "Preach the Gospel to every creature."
 
 a. Christ said: "He who believes and is baptised shall be saved; but he who does not believe shall be condemned" (Mark 16: 16). A just God could not command men under penalty of damnation to believe what is false. So the teaching of the Church must be infallibly true.
 

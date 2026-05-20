@@ -15,17 +15,17 @@ Christ is the source of all graces. His merits give effect to the means of perfe
 
 > We should avoid hurting anyone, telling little lies, fault-finding, complaining, etc. "He that contemneth small things shall fall by little and little" (Ecclus. 19: 1). How small is a seed, yet it may grow up into a great tree! "He who is faithful in a very little thing is faithful also in much; and he who is unjust in a very little thing is unjust also in much" (Luke 16: 10). Our Lord promises to reward those who are thus faithful, saying: "Well done, good and faithful servant, because thou hast been faithful over a few things, I will set thee over many" (Matt. 25: 21).
 
-2. Self-control and self-denial are acts of mortification: keeping down anger, and abstaining even from things which are permitted, but above all avoiding even the least yielding to what is forbidden. Self- control is the mark of the true Christian. If we deny ourselves some things which are permitted, we shall find it easier to avoid what is forbidden. Self-control gives us a strong will. Self-denial is the mark of the human being made to the likeness of God; a beast does not say "No" to himself.
+2. Self-control and self-denial are acts of mortification: keeping down anger, and abstaining even from things which are permitted, but above all avoiding even the least yielding to what is forbidden. Self-control is the mark of the true Christian. If we deny ourselves some things which are permitted, we shall find it easier to avoid what is forbidden. Self-control gives us a strong will. Self-denial is the mark of the human being made to the likeness of God; a beast does not say "No" to himself.
 
 > Christ said: "If anyone wishes to come after me, let him deny himself" (Mark 8: 34). One may deny oneself by avoiding what is not necessary, such as splendid dress, rich food, costly houses and cars, excessive entertainments, curiosity, etc., and above all by doing cheerfully whatever duties come, and accepting with resignation all trials.
 
-3, We observe order and regularity by having a fixed time for everything: for rising, retiring, eating, work, recreation, etc.
+3. We observe order and regularity by having a fixed time for everything: for rising, retiring, eating, work, recreation, etc.
 
 > We should imitate the order that God has placed in the whole universe, regulating everything by law. Recreation is not against the practice of Christian perfection; it is a need that God wishes us to satisfy in the proper manner. It should however, not interfere with our duties, or take up too much time.
 
 4. By prayer we shall avoid temptations and obtain blessings. We should especially make a habit of ejaculatory prayer.
 
-> We should sanctify our every action by offering it to God. A good plan is to make a general offering every morning, with our morning prayers. In this way, all we do work, prayer, and even sleep becomes a prayer to God.
+> We should sanctify our every action by offering it to God. A good plan is to make a general offering every morning, with our morning prayers. In this way, all we do, work, prayer, and even sleep becomes a prayer to God.
 
 5. Solitude helps us grow in virtue. The noise and bustle of the world are distractions. We should once in a while imitate Our Lord and withdraw into solitude, to see our faults better, and go closer to God.
 

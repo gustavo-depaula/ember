@@ -23,7 +23,7 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 > He is over-confident in himself, and despises the assistance of God. Pride was the sin of Lucifer. The proud man pretends to be greater than he is, and tries by all manner of means to attract the praise of others, even using false humility to do so.
 
-4. God hates pride, and punishes it severely, He often punishes secret pride by withdrawing His assistance from the proud man. And deprived of God's aid, the proud man often falls into grievous sins leading to his humiliation.
+4. God hates pride, and punishes it severely. He often punishes secret pride by withdrawing His assistance from the proud man. And deprived of God's aid, the proud man often falls into grievous sins leading to his humiliation.
 
 > "The beginning of the pride of man is to fall off from God" (Ecclus. 10: 14). "God resists the proud" (1 Pet. 5: 5). "Everyone who exalts himself shall be humbled" (Luke 14: 11). Thus the proud King Herod was eaten up by worms and died. Thus, the proud Roman Empire fell and became nothing. Our Lord pointed out the pride in the heart of the Pharisee, and praised the humble publican.
 
@@ -63,6 +63,6 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 3. From lust spring jealousy, hatred, murder, loss of faith, despair, instability, worldliness, selfishness, and other sins.
 
-> The consequences of lust are seen in the case of Henry VIII. It was the cause of his apostasy, and his apostasy dragged an entire nation into similar apostasy. "For know this and understand, that no for nicator, or unclean person, or covetous one (for that is idolatry) has any inheritance in the kingdom of Christ and God" (Ephes. 5: 5) (See Chapter 44, on Humility, Liberality, Chastity)
+> The consequences of lust are seen in the case of Henry VIII. It was the cause of his apostasy, and his apostasy dragged an entire nation into similar apostasy. "For know this and understand, that no fornicator, or unclean person, or covetous one (for that is idolatry) has any inheritance in the kingdom of Christ and God" (Ephes. 5: 5) (See Chapter 44, on Humility, Liberality, Chastity)
 
 4. Sodomy, or sins against purity by persons of the same sex, is a form of lust. Sodomy is worse than lust because it is also contrary to nature.

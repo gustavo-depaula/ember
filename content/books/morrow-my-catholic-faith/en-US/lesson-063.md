@@ -29,7 +29,9 @@ The Church also encourages laymen to support her divine mission in its spiritual
 
 > The Supreme End: “Catholic Action since it sets before itself the restoration of all things in Christ, constitutes a true apostolate to the honour and glory of the selfsame Christ.” *(Il Fermo)* “Catholic Action sets before itself the diffusion of Christ's Kingdom among individuals, in the family and throughout society.” *(Pius XI)* The other ends are the cooperation in the spiritual life, diffusion of Christian culture, the Christianization of the Family, the defence of the rights of the Church, the defence of Christian civilization in all of its elements, cooperation in Scholastics, the establishment of a Catholic press, and influencing politics by Catholic principles.
 
-A. Co-operation in the Spiritual life: Catholic organizations (Legion of Mary, Holy Name Society etc.) aim above all to help in the apostolate and in the success of religious functions and feasts, of processions, of missions, etc. – in the preparation of booklets, pamphlets, logistics and the many back-up services that are required for the smooth operation of the apostolate. B. Diffusion of Christian Culture: The diffusion of Christian principles is an essential task of Catholic Action.
+A. Co-operation in the Spiritual life: Catholic organizations (Legion of Mary, Holy Name Society etc.) aim above all to help in the apostolate and in the success of religious functions and feasts, of processions, of missions, etc. – in the preparation of booklets, pamphlets, logistics and the many back-up services that are required for the smooth operation of the apostolate.
+
+B. Diffusion of Christian Culture: The diffusion of Christian principles is an essential task of Catholic Action.
 
 > St. Pius X affirms that Catholic Action has been created “not only for the sanctification of our souls, but also to diffuse and ever better to expand the Kingdom of God among individuals, families and society, procuring the good of our neighbour by the diffusion of revealed truths.”
 

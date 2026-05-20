@@ -30,7 +30,7 @@
 
 4. We are bound to contribute towards the expenses of government by paying taxes. It is wrong to cheat the State in the matter of taxation.
 
-> It is only just that the citizens should contribute towards the maintenance of peace, order, 'good works, the army, etc. Our Lord Himself paid taxes (Matt. 17: 26) . It is only just that we should help support the government that secures us protection.
+> It is only just that the citizens should contribute towards the maintenance of peace, order, 'good works, the army, etc. Our Lord Himself paid taxes (Matt. 17: 26). It is only just that we should help support the government that secures us protection.
 
 5. In case of a just war, men should be ready to render military service for the defence of their country.
 
@@ -41,7 +41,7 @@
 
 — We must respect and obey the lawful authority of our country because it comes from God, the Source of all authority. 1. God has entrusted the maintenance of peace and order in human society to the secular authorities. It is His will that among so many, some should rule and the others be subject to that rule, for law and order.
 
-> "By God kings reign and lawgivers decree just things" (Prov, 8: 15). ''There exists no authority except from God" (Rom. 13: 1). "Be subject whether to the king as supreme, or to governors as sent through him ... .for such is the will of God" (1 Pet. 2: 13-15).
+> "By God kings reign and lawgivers decree just things" (Prov. 8: 15). "There exists no authority except from God" (Rom. 13: 1). "Be subject whether to the king as supreme, or to governors as sent through him ... .for such is the will of God" (1 Pet. 2: 13-15).
 
 2. Our civil rulers or superiors are those who have the authority in the government.
 

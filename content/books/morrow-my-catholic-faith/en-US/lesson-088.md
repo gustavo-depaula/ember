@@ -2,16 +2,16 @@
 
 ![](../images/lesson-088.webp)
 
-Our enemies are those who hate us and seek to do us harm. Before he was converted and became the Apostle Paul, Saul was an enemy of the Christians; he persecuted them. But he who loves his enemy is like the first Christian martyr, St. Stephen, who gave us a striking example of love for enemies. When his enemies were stoning him to death, instead of wishing them ill, he prayed: "Lord, do not lay this sin against them" (Acts 7:60). He was called"a man full of the Holy Spirit".
+Our enemies are those who hate us and seek to do us harm. Before he was converted and became the Apostle Paul, Saul was an enemy of the Christians; he persecuted them. But he who loves his enemy is like the first Christian martyr, St. Stephen, who gave us a striking example of love for enemies. When his enemies were stoning him to death, instead of wishing them ill, he prayed: "Lord, do not lay this sin against them" (Acts 7:60). He was called "a man full of the Holy Spirit".
 
 
 **Why must we love our enemies?**
 
-— We must love our enemies because: 1. Christ commands it. Christ says: ''Love your enemies, do good to those who hate you, and pray for those who persecute and calumniate you" (Matt. 5: 44). ''If you do not forgive, neither will your Father in heaven forgive you" (Mark 11: 26).
+— We must love our enemies because: 1. Christ commands it. Christ says: "Love your enemies, do good to those who hate you, and pray for those who persecute and calumniate you" (Matt. 5: 44). "If you do not forgive, neither will your Father in heaven forgive you" (Mark 11: 26).
 
 > We must love our enemies for the same reasons and in the same manner we love our neighbour; for enemies as well as friends are our neighbours.
 
-2. Christ has given us the supreme example. Our heavenly Father Himself gives us the example, for He makes the sun to shine on the just and the unjust alike. From the cross Our Lord prayed for His enemies: ''Father, forgive them, for they know not what they do."
+2. Christ has given us the supreme example. Our heavenly Father Himself gives us the example, for He makes the sun to shine on the just and the unjust alike. From the cross Our Lord prayed for His enemies: "Father, forgive them, for they know not what they do."
 
 > He who loves his enemy for God's sake is like God; he is like his Father in heaven (Matt. 5: 45). He follows the example of Christ, who prayed and died for His enemies. He is like the saints, who have always loved their enemies, for the love of God. "For I have given you an example, that as I have done to you, so you also should do" (John 13: 15). "He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life" (John 3: 14-15).
 
@@ -22,7 +22,7 @@ Our enemies are those who hate us and seek to do us harm. Before he was converte
 
 **How do we show love for our enemies?**
 
-— We show love for our enemies in many ways: 1. We should not take revenge on them. When Our Lord was reviled, He did not revile. Vengeance belongs to God, not to us. "Do not avenge yourselves, beloved, but give place to the wrath, for it is written, 'Vengeance is mine; I will repay, says the Lord' " (Rom. 12: 19) .
+— We show love for our enemies in many ways: 1. We should not take revenge on them. When Our Lord was reviled, He did not revile. Vengeance belongs to God, not to us. "Do not avenge yourselves, beloved, but give place to the wrath, for it is written, 'Vengeance is mine; I will repay, says the Lord' " (Rom. 12: 19).
 
 > Once a Samaritan village would not receive Jesus because He was a Jew. The Apostles becoming angry wished to call down fire from heaven. But Our Lord rebuked them, saying: "You do not know of what manner of spirit you are." (Luke 9: 55).
 
@@ -32,7 +32,7 @@ Our enemies are those who hate us and seek to do us harm. Before he was converte
 
 3. If anyone offends us and comes to ask our pardon, we must receive him kindly, and not be proud or unforgiving. If we offend any one, we should beg his pardon at once.
 
-> "Do not let the sun go down upon your anger" (Eph. 4: 26) . We are never sure of waking up again from sleep, so let us always be at peace in conscience by being at peace with all.
+> "Do not let the sun go down upon your anger" (Eph. 4: 26). We are never sure of waking up again from sleep, so let us always be at peace in conscience by being at peace with all.
 
 4. When we are seriously injured, as in our property, honour, or reputation, we are not forbidden to claim our just rights before lawful authority. Often justice requires us to do this, in order to prevent greater abuses.
 
@@ -49,7 +49,7 @@ Our enemies are those who hate us and seek to do us harm. Before he was converte
 
 **How should we love our friends?**
 
-- We should love our friends loyally, and in the sight of God. 1. True friendship is always based on the love of God. If based on selfish or wrong motives, it is false friendship that results in ruin for those indulging in it.
+— We should love our friends loyally, and in the sight of God. 1. True friendship is always based on the love of God. If based on selfish or wrong motives, it is false friendship that results in ruin for those indulging in it.
 
 > One who hates God can never make a true and good friend. Relations based on pleasure or selfish gain, or some evil purpose, cannot be termed friendship. Such relations, unlike true friendship, disappear or turn bitter with the advent of misfortune.
 
@@ -57,7 +57,7 @@ Our enemies are those who hate us and seek to do us harm. Before he was converte
 
 > A sign of true friendship is the mutual support each gives to the other, the confidence each reposes in the other, the kindly correction each feels free to give the other. For example, Christ used to correct His dear friends, pointing out to them faults that needed correction for their betterment.
 
-3. We should look upon our true friends as one of our most precious possessions. As Holy Scripture says: "Nothing-can be compared to a faithful friend, and no weight of gold or silver is able to equal the goodness of his fidelity" (Ecclus. 6: 15)
+3. We should look upon our true friends as one of our most precious possessions. As Holy Scripture says: "Nothing can be compared to a faithful friend, and no weight of gold or silver is able to equal the goodness of his fidelity" (Ecclus. 6: 15).
 
 > "Blessed is he that findeth a true friend" (Ecclus. 25:12). Such a friend adds to our happiness, and helps us in times of difficulties material and spiritual.
 

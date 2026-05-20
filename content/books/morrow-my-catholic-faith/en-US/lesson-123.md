@@ -60,7 +60,9 @@ The sacraments derive their efficacy from Christ, by Whose merits we possess the
 
 **What is the difference between sacraments of the living and sacraments of the dead?**
 
-— Sacraments of the living are those that may be received only by one living in the state of grace; sacraments of the dead aim to give sanctifying grace to one spiritually dead through sin, 1. The sacraments of the living are: Confirmation, Holy Eucharist, Extreme Unction, Holy Orders, and Matrimony. It is a sacrilege to receive these sacraments when one is in the state of mortal sin.
+— Sacraments of the living are those that may be received only by one living in the state of grace; sacraments of the dead aim to give sanctifying grace to one spiritually dead through sin.
+
+1. The sacraments of the living are: Confirmation, Holy Eucharist, Extreme Unction, Holy Orders, and Matrimony. It is a sacrilege to receive these sacraments when one is in the state of mortal sin.
 
 > Those who receive sacraments of the living in mortal sin receive the sacraments but not the grace they bring, and commit a sacrilege. The sacramental grace they should receive is suspended until they recover their state of sanctifying grace. When worthily received, sacraments of the living increase the life of grace of the recipient.
 

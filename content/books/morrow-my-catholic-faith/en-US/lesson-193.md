@@ -11,19 +11,19 @@ These are the chief ceremonies in the consecration of churches, a solemn occasio
 
 > Who made the heavenly bodies and set them in fixed places, and traced the paths they should follow from age to age? Who made the trees, and commanded particular plants to spring from certain seeds? Who made life? Who, if not God?
 
-2. The soul of man is immortal (see pages 34-38). A man can reason, make abstract conclusions, distinguish between right and wrong. These are acts of a spiritual faculty, and the soul to which this faculty belongs must be spiritual and independent Of matter, and being so, is not subject to death. A man can say No to himself.
+2. The soul of man is immortal (see pages 34-38). A man can reason, make abstract conclusions, distinguish between right and wrong. These are acts of a spiritual faculty, and the soul to which this faculty belongs must be spiritual and independent of matter, and being so, is not subject to death. A man can say ***No*** to himself.
 
 > No other being on earth can do the spiritual things man can do. In this world, man alone has intelligence and free will, therefore he alone has an immortal soul.
 
 > Animals act only from instinct and sense, which are organs of the body; animals therefore cannot be immortal.
 
-3. All men are obliged to practice religion (see pages 2-3, 170-171, 186-187). Man, with, his intelligent and immortal soul, can know God according to the limits God has set. He knows that he owes to God his very existence, that he is entirely dependent on Him. From this origin and dependence arises man's duty to give his Creator due honour and adoration, in other words, his duty to practice religion.
+3. All men are obliged to practice religion (see pages 2-3, 170-171, 186-187). Man, with his intelligent and immortal soul, can know God according to the limits God has set. He knows that he owes to God his very existence, that he is entirely dependent on Him. From this origin and dependence arises man's duty to give his Creator due honour and adoration, in other words, his duty to practice religion.
 
-> To be faithful to God, we must serve Him by obeying His commandments and carrying out His wishes; by believing in Him, hoping in Him, and loving Him with all our hearts. All these things we learn about when we study our religion; all these we do a right when we are faithful in the practice of our religion.
+> To be faithful to God, we must serve Him by obeying His commandments and carrying out His wishes; by believing in Him, hoping in Him, and loving Him with all our hearts. All these things we learn about when we study our religion; all these we do aright when we are faithful in the practice of our religion.
 
 4. The religion God revealed through Christ is worthy of belief (see pages 14-21, 56-59, 66-75). Our Lord announced Himself the Son of God, and as such preached His doctrines that He required us to believe. To prove that He was truly God, Our Lord worked numberless miracles.
 
-> God alone can work miracles, and He cannot work them to approve what is false. The miracles therefore worked in favour of the Teaching of Jesus Christ are manifest proofs that His teaching is true.
+> God alone can work miracles, and He cannot work them to approve what is false. The miracles therefore worked in favour of the teaching of Jesus Christ are manifest proofs that His teaching is true.
 
 5. Christ established a Church which all are obliged to join. He declared that all men must believe and be baptised, that is, belong to His Church, in order to be saved. (See pages 94-99)
 
@@ -35,4 +35,4 @@ These are the chief ceremonies in the consecration of churches, a solemn occasio
 
 Let us thank God for His gifts. We can best show our gratitude to God for making us members of the only true Church of Jesus Christ by often thanking God for this great favour, by leading edifying and practical Catholic lives, by trying to lead others to the true faith, and by helping the missions.
 
-> We thank God for the graces He showers on us in prayer and by our good lives. By following the commandments of God and the Church, and doing good works, we lead practical and edifying Catholic lives; such lives are the best way of leading others to our Faith, if we have no more direct means. such lives we say, "Deo gratias!"
+> We thank God for the graces He showers on us in prayer and by our good lives. By following the commandments of God and the Church, and doing good works, we lead practical and edifying Catholic lives; such lives are the best way of leading others to our Faith, if we have no more direct means. such lives we say, *"Deo gratias!"*

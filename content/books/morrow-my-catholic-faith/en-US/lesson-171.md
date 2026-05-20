@@ -2,7 +2,7 @@
 
 ![](../images/lesson-171.webp)
 
-The main act of the sacrament of matrimony is the expression of mutual consent. After this act the couple join hands, and the priest blesses them with holy water (1) The contracting parties hear the Nuptial Mass, receiving Holy Communion. By this act of uniting themselves with Jesus in the Holy Eucharist, they invite Him to their wedding, to bless them, as the couple in Can a did long ago. During the Mass the Nuptial Blessing (3) is given. "May her wedlock be to her a yoke of love."
+The main act of the sacrament of matrimony is the expression of mutual consent. After this act the couple join hands, and the priest blesses them with holy water. (1) The contracting parties hear the Nuptial Mass, receiving Holy Communion. By this act of uniting themselves with Jesus in the Holy Eucharist, they invite Him to their wedding, to bless them, as the couple in Cana did long ago. During the Mass the Nuptial Blessing (3) is given. "May her wedlock be to her a yoke of love."
 
 
 **What are the ceremonies of the nuptial contract?**
@@ -11,15 +11,15 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 > This is the only occasion when lay people are permitted to remain in the sanctuary; pews are prepared for groom and bride, as well as for the sponsors or witnesses, if the Mass is to be said.
 
-2. The priest reads aloud the instructions on marriage. Then addressing the man by name, the priest asks: "N, wilt thou take N, here present for thy lawful wife, according to the rite of our Holy Mother the Church?" The bridegroom replies: "I will"
+2. The priest reads aloud the instructions on marriage. Then addressing the man by name, the priest asks: "N, wilt thou take N, here present for thy lawful wife, according to the rite of our Holy Mother the Church?" The bridegroom replies: "I will."
 
-> Turning to the bride, the priest asks: "N - wilt thou take N—here present for thy lawful husband, according to the rite of our Holy Mother the Church?" The bride replies: " I will" This is the main act of the Sacrament. After this, even if the rest of the ceremonies are interrupted, the marriage is valid, binding.
+> Turning to the bride, the priest asks: "N—wilt thou take N—here present for thy lawful husband, according to the rite of our Holy Mother the Church?" The bride replies: "I will." This is the main act of the Sacrament. After this, even if the rest of the ceremonies are interrupted, the marriage is valid, binding.
 
 3. At the bidding of the priest, the couple join their right hands. Then they pledge themselves to each other formally, repeating after the priest: "I, N.N, take thee, N.N, for my lawful wife (husband), to have and to hold, 'from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, till death do us part."
 
 > The priest, in Latin, pronounces the words of sanction and blessing: "I join you together in marriage, in the name of the Father and of the Son and of the Holy Ghost. Amen." As he speaks, he makes over the couple the sign of the cross, then sprinkles them with holy water.
 
-4. The priest then blesses the ring a symbol of faithfulness, and sprinkles it with holy water. He gives it to the groom; who puts it on the third finger of the bride's left hand, meanwhile saying: "With this ring I thee wed, and I plight unto thee my troth."
+4. The priest then blesses the ring, a symbol of faithfulness, and sprinkles it with holy water. He gives it to the groom, who puts it on the third finger of the bride's left hand, meanwhile saying: "With this ring I thee wed, and I plight unto thee my troth."
 
 > The priest recites some versicles, and the Our Father in Latin, the couple joining in the latter prayer in their own language. Finally is said a prayer asking God's protection on those now joined in the holy bonds of Matrimony. Then, while the couple and witnesses remain in the sanctuary, the Nuptial Mass is said.
 

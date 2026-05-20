@@ -7,7 +7,7 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 **Why must we love ourselves?**
 
-— We must love ourselves because: 1. God wishes and requires it. Our Lord said: ''Thou shall love thy neighbour as thyself(Matt. 22: 39).
+— We must love ourselves because: 1. God wishes and requires it. Our Lord said: "Thou shalt love thy neighbour as thyself" (Matt. 22: 39).
 
 > Thus He made the love of self the measure of love for others. St. Augustine says: "Learn first to love God, then to love thyself, then thy neighbour as thyself." Each man is his own closest neighbour.
 
@@ -19,7 +19,7 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 > "Behold what manner of love the Father has bestowed upon us, that we should be called children of God" (I John 3:1). "Know you not that your members are the temple of the Holy Ghost, who is in you?" (1 Cor. 6: 19).
 
-5. We are destined to live eternally with God and the angels in heaven. This dignity should impel us to love ourselves a right.
+5. We are destined to live eternally with God and the angels in heaven. This dignity should impel us to love ourselves aright.
 
 > The end of man is the glory of God and the salvation of his own soul. We must have care, love, of ourselves, in order to save ourselves for God. For this reason, we should even love ourselves more than others: we have a greater duty to ourselves than to others. This should not be interpreted, however. as meaning that we should not sacrifice ourselves for the sake of others; for, as we shall see, self-sacrifice is not only possible, but most desirable.
 
@@ -28,7 +28,7 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 — True love of self consists in avoiding sin and practising virtue.
 
-> "Enter by the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many there are who enter that way. How narrow the gate and close the way that leads to life! And Few there are who find it" (Matt. 7: 13-14).
+> "Enter by the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many there are who enter that way. How narrow the gate and close the way that leads to life! And few there are who find it" (Matt. 7: 13-14).
 
 1. We must first assure our eternal salvation, before we attend to earthly things which are but means to our last end.
 
@@ -38,9 +38,9 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 > We should provide for our bodily needs, such as food, clothing, etc., but without excessive solicitude. They are only means by which we may ascend to God. "Martha, Martha, thou art anxious and troubled, about many things; and yet only one thing is needful" (Luke 10: 41-42).
 
-3. It is against true love of self to strive only after earthly possessions and honours and neglect eternal salvation. "Take heed not to practice your good before men, in order to be seen by them; otherwise you shall have no reward with your Father in heaven" (Matt. 6: 1) ''For what does it profit a man if he gain the whole world but suffer the loss of his own soul'' (Matt. 16: 26).
+3. It is against true love of self to strive only after earthly possessions and honours and neglect eternal salvation. "Take heed not to practice your good before men, in order to be seen by them; otherwise you shall have no reward with your Father in heaven" (Matt. 6: 1) "For what does it profit a man if he gain the whole world but suffer the loss of his own soul" (Matt. 16: 26).
 
-> Earthly riches and honours are no good in themselves, but are good only" as a means for attaining eternal happiness. They are not to be used to gratify our senses, our pride, arrogance, conceit, or vanity, but only to help us go closer to God.
+> Earthly riches and honours are no good in themselves, but are good only as a means for attaining eternal happiness. They are not to be used to gratify our senses, our pride, arrogance, conceit, or vanity, but only to help us go closer to God.
 
 
 **Does love of self include love of the body?**

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-083.webp)
 
-Words can never give any idea of the bliss of heaven, where the good will continually enjoy God, and be in the company of the saints and angels, of heaven David speaks: 'They shall be inebriated with the plenty of thy house, and thou shalt make them drink of the torrent of thy pleasure" (Ps. 35: 9). St. John says of the blessed: "And God will wipe away every tear from their eyes. And death shall be no more; neither shall there be mourning, nor crying, nor pain any more" (Apoc. 21; 4).
+Words can never give any idea of the bliss of heaven, where the good will continually enjoy God, and be in the company of the saints and angels, of heaven, David speaks: 'They shall be inebriated with the plenty of thy house, and thou shalt make them drink of the torrent of thy pleasure" (Ps. 35: 9). St. John says of the blessed: "And God will wipe away every tear from their eyes. And death shall be no more; neither shall there be mourning, nor crying, nor pain any more" (Apoc. 21: 4).
 
 
 **What do we mean by "life everlasting?"**
@@ -28,7 +28,7 @@ Words can never give any idea of the bliss of heaven, where the good will contin
 
 3. Our companions will be the most Holy Virgin Mary, the Angels and the Saints. We shall be reunited with those we have loved on earth, and we shall love them there more intensely. There will be no more separation. Whatever we have desired to know here on earth, we shall learn in heaven. All the mysteries of faith and science will be revealed. After the resurrection, we shall have our bodily senses in heaven, and by them relish joys unending.
 
-> Holy Scripture says of heaven: "Eye has not seen, nor ear heard, nor has it entered into the heart of man, what things God has prepared for those who love him" (1 Cor. 2: 9). "The sufferings of the present time are not worthy to be compared with the glory to come that will be revealed in us" (Rom. 8; 18).
+> Holy Scripture says of heaven: "Eye has not seen, nor ear heard, nor has it entered into the heart of man, what things God has prepared for those who love him" (1 Cor. 2: 9). "The sufferings of the present time are not worthy to be compared with the glory to come that will be revealed in us" (Rom. 8: 18).
 
 4. This bliss will last for all eternity. The joys of heaven will always delight. And we shall have no fear of their ending, for heaven will be everlasting. Eternity has no measure. It is like a circle: We can spend our whole life going around a circle, but we shall never find an end. Each part is only the beginning.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-107.webp)
 
-After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.
+After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.
 
 
 **What are our duties respecting our health and life?**
@@ -51,7 +51,7 @@ After betraying Our Lord, Judas fell into despair. Then Judas, who betrayed him,
 
 > Even if one has to suffer contempt and disgrace in this life for his sins, he will only be repairing his soul for heaven. But if he commits suicide, he will only be preparing it for the torments of hell.
 
-5. A duel is a combat carried out by agreement between two persons, fought with deadly weapons, usually before witnesses called seconds. Duelling is nothing else but suicide and murder combined. A Catholic is bound to refuse to fight a duel Christian burial is denied to those who are killed in a duel.
+5. A duel is a combat carried out by agreement between two persons, fought with deadly weapons, usually before witnesses called seconds. Duelling is nothing else but suicide and murder combined. A Catholic is bound to refuse to fight a duel. Christian burial is denied to those who are killed in a duel.
 
 > The duellist is guilty of a double murder: he intends to kill his antagonist, and he risks his own life. The Church excommunicates those who challenge or accept a challenge to a duel, the seconds, and all who sanction a duel by their presence.
 

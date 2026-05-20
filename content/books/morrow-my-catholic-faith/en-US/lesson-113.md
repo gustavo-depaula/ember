@@ -19,7 +19,7 @@ The government should protect the right of private ownership. Citizens are most 
 
 > Men are created equal, all being made to God's image, all destined for immortality. But there are natural inequalities, arising from physical, mental, material causes. A person must not exploit the inequalities, taking advantage of those less fortunate.
 
-3. The most important documents summarizing the attitude of the Church on social justice are the papal encyclicals *Rerum Nova rum* of Leo XIII, and *Quadragesimo Anno* of Pius XI.
+3. The most important documents summarizing the attitude of the Church on social justice are the papal encyclicals *Rerum Novarum* of Leo XIII, and *Quadragesimo Anno* of Pius XI.
 
 > These encyclicals have formed the basis of many an existing political doctrine on social justice. If we would follow their teachings, we should not be continually violating the seventh and tenth commandments, causing jealousies and enmities among different social classes as among nations. If we would only obey the teachings of the Church, there would be none of the "isms" that today infest the earth.
 
@@ -43,7 +43,11 @@ The government should protect the right of private ownership. Citizens are most 
 
 > On account of their importance to the social group, certain types of property should be under the control of either the State or of other groups of public ownership.
 
-1. In order to preserve his life, man has a right to gain for himself and keep as his own those goods he needs for his subsistence. The possession of external goods indispensable to man's earthly existence, such as food, clothes, a home, and similar things, is a natural right. It may, however, be said that the present distribution of wealth is not quite in accordance with the will of God; it cannot be pleasing to Him that a small minority should enjoy an excess of property, while an overwhelming majority can hardly keep body and soul together. 3. Private ownership is a right because if every moment of a person's life were occupied in providing for his daily maintenance, he would have nothing to sustain him in cases of illness or misfortune. Besides, in such a case, he would have no leisure in which to attend to the interests of his soul.
+1. In order to preserve his life, man has a right to gain for himself and keep as his own those goods he needs for his subsistence. The possession of external goods indispensable to man's earthly existence, such as food, clothes, a home, and similar things, is a natural right.
+
+2. It may, however, be said that the present distribution of wealth is not quite in accordance with the will of God; it cannot be pleasing to Him that a small minority should enjoy an excess of property, while an overwhelming majority can hardly keep body and soul together.
+
+3. Private ownership is a right because if every moment of a person's life were occupied in providing for his daily maintenance, he would have nothing to sustain him in cases of illness or misfortune. Besides, in such a case, he would have no leisure in which to attend to the interests of his soul.
 
 > One is moreover bound to provide for those dependent on him, and this can only be done if he can keep property above what is absolutely needful.
 

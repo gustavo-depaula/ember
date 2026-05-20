@@ -65,7 +65,7 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 2. From the very beginning, the Apostles exercised their authority and powers; these were signs of a very visible organization. They did not advise; they directed, as superiors, and decided, as judges.
 
-> Thus St. Paul excommunicated the sinful Corinthian; and he commanded the Hebrews: "Obey your superiors, and be subject to them" (Deb. 13: 17).
+> Thus St. Paul excommunicated the sinful Corinthian; and he commanded the Hebrews: "Obey your superiors, and be subject to them" (Heb. 13: 17).
 
 3. The Apostles and Fathers condemned schism. This fact implies a visible organization; for how can there be schism against an invisible body?
 

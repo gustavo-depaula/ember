@@ -20,7 +20,7 @@ The chief qualities of a good confession are three: it must be humble, sincere, 
 
 — Our confession is humble when we accuse ourselves of our sins with a conviction of guilt for having offended God.
 
-> Our confession is humble when we show by our manner that we are truly sorry, and listen meekly to the priest's correction and advice. One who continually interrupts the priest with, "But you do not know me. Father! I am not like that!" would give the impression that he does not make a humble confession. One who complains that the penance imposed is too heavy for his sins is not humble.
+> Our confession is humble when we show by our manner that we are truly sorry, and listen meekly to the priest's correction and advice. One who continually interrupts the priest with, "But you do not know me, Father! I am not like that!" would give the impression that he does not make a humble confession. One who complains that the penance imposed is too heavy for his sins is not humble.
 
 
 **When is our confession sincere?**
@@ -50,7 +50,7 @@ The chief qualities of a good confession are three: it must be humble, sincere, 
 
 2. We must mention the circumstances that change the nature of our sins.
 
-> For instance it is not enough to say merely, I stole five dollars," if they were stolen from a blind beggar, or from the collection plate at church. Ordinarily, taking five dollars from your rich father may be a venial sin. From a beggar, it becomes mortal; from the church it is a sacrilege.
+> "For instance it is not enough to say merely, I stole five dollars," if they were stolen from a blind beggar, or from the collection plate at church. Ordinarily, taking five dollars from your rich father may be a venial sin. From a beggar, it becomes mortal; from the church it is a sacrilege.
 
 3. We must tell how many times we committed a mortal sin. The more often it has been committed, the greater the guilt. If we cannot remember the exact number of times we should tell it as nearly as possible, by telling how long a habit has lasted.
 

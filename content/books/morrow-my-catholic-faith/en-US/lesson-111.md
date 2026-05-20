@@ -24,7 +24,7 @@ Parents should be most careful to teach their children honesty in thought, word,
 
 **What are the chief violations of the seventh commandment?**
 
-— The chiefs violations of the seventh commandment are the following: 1. Stealing or theft is the secret taking of another person's property.
+— The chief violations of the seventh commandment are the following: 1. Stealing or theft is the secret taking of another person's property.
 
 > Few sins are more common than theft. Covetousness leads to theft. Those who like to show themselves off in luxury but have not the means frequently resort to theft. One must be very careful in avoiding even petty thefts, or he will contract a vice, and in a short time will find himself stealing more valuable things.
 

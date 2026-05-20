@@ -13,7 +13,7 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 1. As soon as each soul leaves the body at death, it undergoes the Particular Judgement, at which its eternal destiny is decided. "We must all be manifested at the judgement seat of Christ." "It is appointed unto men to die once, but after this comes the Judgement" (Heb. 9:27). "Every one of us will render an account for himself to God" (Rom. 14:12).
 
-> Let us remember that even while the relatives gather around the bed of the departed one, even while his body is still warm, the particular judgement" is gone through and finished; the judgement is passed, and the soul gone to his reward or punishment. If we remember this, we shall be more fervent in praying for the dead, in helping others die a happy death, so that they may meet God at the judgement without fear.
+> Let us remember that even while the relatives gather around the bed of the departed one, even while his body is still warm, the particular judgement is gone through and finished; the judgement is passed, and the soul gone to his reward or punishment. If we remember this, we shall be more fervent in praying for the dead, in helping others die a happy death, so that they may meet God at the judgement without fear.
 
 2. Jesus Christ is the Judge at the Particular Judgement. Before Him each soul must stand. The soul will stand in the awful presence of God the Son, to give an account of its whole life: of every thought, word, act, and omission.
 
@@ -21,7 +21,7 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 3. A man's whole life will be spread before him like a great picture. He will remember everything, although he might have forgotten much at the moment of death. How he will wish then that he had done only good! We are not to suppose that the soul will go to heaven before Christ to be judged. God enlightens each soul in such a manner that it fully knows Christ has passed a true judgement on it.
 
-> "Of ever idle word men speak, they shall give account on the day of judgement" (Matt. 12: 36). The judgment will embrace even the good which has been neglected: a strict account will have to be rendered of the use we made of the talents and graces given to us. Even good actions badly performed will come under scrutiny careless communions, hasty confessions, etc. Only then shall we know the exactness with which God sees and measures every act, word, and even intention in our deepest thought.
+> "Of every idle word men speak, they shall give account on the day of judgement" (Matt. 12:36). The judgment will embrace even the good which has been neglected: a strict account will have to be rendered of the use we made of the talents and graces given to us. Even good actions badly performed will come under scrutiny: careless communions, hasty confessions, etc. Only then shall we know the exactness with which God sees and measures every act, word, and even intention in our deepest thought.
 
 4. The good and the evil that the soul has done will be weighed in the balance of God's justice. Then the sentence will be passed by Jesus Christ alone, without the intervention of witnesses. This sentence is final and will never be reversed. The soul will learn the sentence, the reasons for it, and its absolute justice.
 
@@ -36,7 +36,7 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 1. He who dies in his baptismal innocence, or after having fully satisfied for all the sins he committed, will be sent at once to heaven.
 
-> The just will enter into everlasting life (Matt. 25:46). Only those souls enter heaven who are free from all sin, and from the penalty due to sins which have been forgiven. "Nothing defiled can enter heaven (Apoc. 21:27).
+> The just will enter into everlasting life (Matt. 25:46). Only those souls enter heaven who are free from all sin, and from the penalty due to sins which have been forgiven. "Nothing defiled can enter heaven" (Apoc. 21:27).
 
 2. He who dies in the state of grace, but is in venial sin, or has not fully atoned for the temporal punishment due his forgiven sins, will be sent for a time to purgatory.
 
@@ -44,7 +44,7 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 3. He who dies in mortal sin, even if only with one single mortal sin, will be sent at once to hell.
 
-> "For the hope of the wicked is as dust, which is blown away with the wind, and as a thin froth which is dispersed by the storm: and a smoke that is scattered abroad by the wind: and as the remembrance of a guest of one day that passeth by" (Wis. 5: 15). By mortal sin a man cuts himself off from God. It is' really he himself that sends himself to hell. God's desire would be to see all His creatures with Him in heaven.
+> "For the hope of the wicked is as dust, which is blown away with the wind, and as a thin froth which is dispersed by the storm: and a smoke that is scattered abroad by the wind: and as the remembrance of a guest of one day that passeth by" (Wis. 5:15). By mortal sin a man cuts himself off from God. It is really he himself that sends himself to hell. God's desire would be to see all His creatures with Him in heaven.
 
 
 **How should we prepare for the judgment?**
@@ -55,7 +55,7 @@ Complete justice will not be done in this life, but in the next. Then everything
 
 2. We should do voluntary works of penance, for love of God, in expiation of any sins we may have the misfortune to commit.
 
-> The "Imitation of Christ" says on this topic: "In all things look to the end, and how thou wilt stand before the strict Judge, from Whom there is nothing hid; Who takes no bribes, and receives no excuses, but will judge that which is just,...Be, therefore, now solicitous for thy sins, that in the day of judgment thou mayest be in security with the blessed.... Then shall the poor and humble have great confidence, and the proud fear on every side. Then it will appear that he was wise in this world, who for Christ's sake learned to be a fool and despised..,. Then shall the flesh that was afflicted exult more than if it had always fared in delights—— a pure and good conscience shall bring more joy than learned philosophy. Then shall the contempt of riches far outweigh all treasures of the children of earth.... Learn to suffer now in little things, that thou mayest be delivered from more grievous sufferings....All is vanity except to love and serve God alone" (Bk. I, chap. 24),
+> The "Imitation of Christ" says on this topic: "In all things look to the end, and how thou wilt stand before the strict Judge, from Whom there is nothing hid; Who takes no bribes, and receives no excuses, but will judge that which is just,...Be, therefore, now solicitous for thy sins, that in the day of judgment thou mayest be in security with the blessed.... Then shall the poor and humble have great confidence, and the proud fear on every side. Then it will appear that he was wise in this world, who for Christ's sake learned to be a fool and despised.... Then shall the flesh that was afflicted exult more than if it had always fared in delights — a pure and good conscience shall bring more joy than learned philosophy. Then shall the contempt of riches far outweigh all treasures of the children of earth.... Learn to suffer now in little things, that thou mayest be delivered from more grievous sufferings....All is vanity except to love and serve God alone" (Bk. I, chap. 24),
 
 3. We should never go to sleep without being prepared never to awake on earth again, but in the presence of our Judge.
 

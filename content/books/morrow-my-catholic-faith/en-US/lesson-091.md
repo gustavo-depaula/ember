@@ -16,7 +16,7 @@ Moses spent forty days on Mount Sinai speaking with God. To him God gave two sto
 
 > Moses took the Israelites to the foot of the mountain, which shook violently and smoked like a furnace. The trumpet blew louder. Then God spoke from the clouds. But the Israelites were afraid, and begged Moses to pray God not to speak to them.
 
-2. Moses went up Mount Sinai to talk with God. God gave him two tablets of stone, on which were carved the ten commandments. On coming down from the mountain, Moses found the Israelites adoring a golden calf, made out of the gold from their jewellery. In his anger, Moses threw down the tablets of stone and broke them, later, Moses again went up Mount Sinai. God told him to make two new tablets; on these Moses wrote the commandments.
+2. Moses went up Mount Sinai to talk with God. God gave him two tablets of stone, on which were carved the ten commandments. On coming down from the mountain, Moses found the Israelites adoring a golden calf, made out of the gold from their jewellery. In his anger, Moses threw down the tablets of stone and broke them. Later, Moses again went up Mount Sinai. God told him to make two new tablets; on these Moses wrote the commandments.
 
 > The two tablets, which are called the Tables of Law, were later placed in the Ark of the Covenant, and the Ark was kept in the Tabernacle. When Solomon built the Temple, the Ark was placed in the innermost part, called the "Holy of Holies." Both Ark and Tables disappeared with the destruction of the Temple and fall of Jerusalem; 587 B.C.
 
@@ -29,12 +29,12 @@ Moses spent forty days on Mount Sinai speaking with God. To him God gave two sto
 
 2. The ten commandments are arranged in logical order to embrace all laws necessary for the enforcement of the two precepts of charity, the two great commandments of love of God and love of neighbour. The first three commandments comprise our duty towards God. The first commandment requires adoration and loyalty; the second requires reverence; the third requires formal service, the sanctification of a day for the exclusive honour of God.
 
-> The last seven commandments comprise our duty to ourselves and our fellow men. The fourth commandment contains our duties towards our parents and superiors, as representatives of God. Conversely, the commandment also contains the duties of superiors towards their subordinates. The fifth commandment assures the protection of life; the sixth, of purity; the seventh, of property; the eighth, of reputation and honour; and the ninth and tenth of domestic life.
+> The last seven commandments comprise our duty to ourselves and our fellowmen. The fourth commandment contains our duties towards our parents and superiors, as representatives of God. Conversely, the commandment also contains the duties of superiors towards their subordinates. The fifth commandment assures the protection of life; the sixth, of purity; the seventh, of property; the eighth, of reputation and honour; and the ninth and tenth of domestic life.
 
 
 **Are we obliged to obey the commandments of God?**
 
-- We are strictly obliged to obey the commandments of God. 1. God has imprinted the substance of the ten commandments in the human heart and mind, and they have therefore binding force. Even if they had never been revealed, we should still be obliged to keep them, for they are dictated by reason, and taught by natural law. The revealed law merely repeats and amplifies natural law.
+— We are strictly obliged to obey the commandments of God. 1. God has imprinted the substance of the ten commandments in the human heart and mind, and they have therefore binding force. Even if they had never been revealed, we should still be obliged to keep them, for they are dictated by reason, and taught by natural law. The revealed law merely repeats and amplifies natural law.
 
 > While it is true that reason does not tell us to sanctify Saturday or Sunday, it certainly requires us to keep some day or days holy, to give exclusive honour to our Creator.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-028.webp)
 
-Throughout the centuries, God sent prophets to predict different events and facts concerning the promised Saviour. Among the most important prophets were Jeremias, Isaias, Daniel, and Ezechiel. Daniel predicted the exact time of the birth of the Redeemer. He said His kingdom would have no end, and would embrace all kingdoms. Isaias prophesied that the Messi as would be born of a virgin, would be both God and Man, and would die patiently and willingly like a lamb for our sins.
+Throughout the centuries, God sent prophets to predict different events and facts concerning the promised Saviour. Among the most important prophets were Jeremias, Isaias, Daniel, and Ezechiel. Daniel predicted the exact time of the birth of the Redeemer. He said His kingdom would have no end, and would embrace all kingdoms. Isaias prophesied that the Messias would be born of a virgin, would be both God and Man, and would die patiently and willingly like a lamb for our sins.
 
 
 **What is the chief teaching of the Catholic Church about Jesus Christ?**
@@ -64,6 +64,6 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 2. Christ worked wonderful miracles, which showed that the God of truth approved His teachings.
 
-> Christ worked so many miracles publicly that all flocked to Him to be cured. "But when John had heard in prison of the works of Christ, he sent two of his disciples to say to him, 'Art thou he who is to come, or shall we look for another?' And Jesus answering said to them, 'Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them'" (Matt. 11: 25)
+> Christ worked so many miracles publicly that all flocked to Him to be cured. "But when John had heard in prison of the works of Christ, he sent two of his disciples to say to him, 'Art thou he who is to come, or shall we look for another?' And Jesus answering said to them, 'Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them'" (Matt. 11: 2-5)
 
 a. Christ performed miracles on inanimate objects, as when He changed water to wine, calmed the storm, multiplied loaves. b. He healed in an instant the sick, the blind, the lame. He expelled devils. c. He raised the dead to life; as the daughter of Jairus, the son of the widow of Naim and Lazarus. Even His enemies acknowledged His miracles. The Pharisees planned to kill Lazarus, because the Jews believed in Jesus as a result of the miracle. d. He worked miracles on His own Person, as in the Transfiguration, Resurrection, and Ascension.

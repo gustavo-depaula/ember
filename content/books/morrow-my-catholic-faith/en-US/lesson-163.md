@@ -41,7 +41,7 @@
 
 2. The contracting parties should understand well the purpose of the state which they are about to enter. The first purpose of God in instituting matrimony was to populate the earth, and raise up souls who would fill heaven with saints. He said to Adam and Eve: "Increase and multiply and fill the earth" (Gen. 1: 28).
 
-> In matrimony, a man and his wife take part in the work of the Creator, giving life to a deathless soul. If the married would ponder this fact, they surely would not neglect their duties towards their children, to "rear them in the discipline and admonition of the Lord" (Eph. 6: 4). "As the sapling is bent, so is the tree inclined. "Even wild beasts take the utmost care of their young, but certain modern parents in the pursuit of amusements neglect the proper upbringing of their offspring.
+> In matrimony, a man and his wife take part in the work of the Creator, giving life to a deathless soul. If the married would ponder this fact, they surely would not neglect their duties towards their children, to "rear them in the discipline and admonition of the Lord" (Eph. 6: 4). "As the sapling is bent, so is the tree inclined." Even wild beasts take the utmost care of their young, but certain modern parents in the pursuit of amusements neglect the proper upbringing of their offspring.
 
 
 **What are the chief effects of the sacrament of Matrimony?**

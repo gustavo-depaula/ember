@@ -49,11 +49,11 @@ Christ taught about the forgiveness of sins in the parable of the Prodigal Son. 
 
 2. A vice is easily acquired. This is one reason why we must be very careful not to commit sin. If we should be so unhappy as to fall into sin, we must at once cut off the possibility of forming vice by contrition, penance, and a resolution not to sin again.
 
-> After the first fall, one more readily yields to the next temptation. Each yielding weakens the will for the next. Thus step by step one who starts a sin will soon find himself the slave of a vicious habit. "He that contemneth small things shall [all by little and little" (Ecclus 19:1).
+> After the first fall, one more readily yields to the next temptation. Each yielding weakens the will for the next. Thus step by step one who starts a sin will soon find himself the slave of a vicious habit. "He that contemneth small things shall fall by little and little" (Ecclus 19:1).
 
 3. A vice is easy to break off in the beginning, difficult to break when fully formed, but always capable of being overcome by a resolute will with God's grace.
 
-> Its is easy enough to uproot a very young tree. But when it has grown into a mighty tree, it becomes extremely difficult. The vice having been firmly formed, it becomes a necessity and is impossible to break without extraordinary grace. This impossibility often leads many vicious persons to despair and to final impenitence. But God can do all things. One therefore who has contracted a habit of sin must have recourse to God, who will strengthen him, so that he can conquer his vice, by patient acts of virtue and a constant exertion of the will.
+> It is easy enough to uproot a very young tree. But when it has grown into a mighty tree, it becomes extremely difficult. The vice having been firmly formed, it becomes a necessity and is impossible to break without extraordinary grace. This impossibility often leads many vicious persons to despair and to final impenitence. But God can do all things. One therefore who has contracted a habit of sin must have recourse to God, who will strengthen him, so that he can conquer his vice, by patient acts of virtue and a constant exertion of the will.
 
 
 **Can all sins be forgiven?**
@@ -64,7 +64,7 @@ Christ taught about the forgiveness of sins in the parable of the Prodigal Son. 
 
 1. God is always ready to forgive our sins, no matter how great or how many they are, if we are truly sorry for them. No actual sin can be forgiven without sorrow and repentance on the part of the sinner.
 
-> Our Lord said: "I say to you that, even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine just who have no need of repentance" (Luke 15: 7)
+> Our Lord said: "I say to you that, even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine just who have no need of repentance" (Luke 15: 7).
 
 2. The sin against the Holy Ghost which Christ warned us would not be forgiven in heaven or on earth is persistent impenitence, the sin of one who rejects conversion and dies in mortal sin. One guilty of this sin can never obtain forgiveness of God, because at the hour of death he continues to thrust God away from him.
 

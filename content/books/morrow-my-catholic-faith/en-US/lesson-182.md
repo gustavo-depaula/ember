@@ -2,7 +2,7 @@
 
 ![](../images/lesson-182.webp)
 
-To make the sign of the cross (1) join the hands in preparation, putting yourself in the presence of God. (2) Lay the left hand on the breast, and with the extended fingers of the right hand touch the forehead, saying, "In the Name of the Father."Touch the breast, saying; "And of the Son." (4) Touch the left shoulder, saying: "And of the Holy . . then (5) the right shoulder saying; "Ghost." Finally, (6) join the hands and say: "Amen."
+To make the sign of the cross (1) join the hands in preparation, putting yourself in the presence of God. (2) Lay the left hand on the breast, and with the extended fingers of the right hand touch the forehead, saying, "In the Name of the Father." Touch the breast, saying: "And of the Son." (4) Touch the left shoulder, saying: "And of the Holy . . then (5) the right shoulder saying: "Ghost." Finally, (6) join the hands and say: "Amen."
 
 
 **How do we usually begin and end our prayers?**
@@ -19,13 +19,13 @@ To make the sign of the cross (1) join the hands in preparation, putting yoursel
 
 > The sign should be made slowly, with great respect, as it is the sign of our salvation. The left hand should be laid across the breast.
 
-3, Another way of making the sign of the cross is used at the two Gospels of the Mass. Then small signs of the cross are made with the thumb of the right hand on the forehead, on the lips, and on the breast. This was the sign the early Christians used under persecution, to avoid detection.
+3. Another way of making the sign of the cross is used at the two Gospels of the Mass. Then small signs of the cross are made with the thumb of the right hand on the forehead, on the lips, and on the breast. This was the sign the early Christians used under persecution, to avoid detection.
 
 > The sign on the forehead is intended to show our will to carry out Our Lord's teaching. The sign on the lips is intended to express our wish to profess God. And the sign on the breast is a symbol of the love for Him that fills our heart.
 
 4. In countries under Spanish and Portuguese influence, this sign of the cross is the one used:
 
-> With the thumb of the right hand a small cross is made on the forehead, meanwhile saying: "By the sign of the holy Cross"; then a small cross is made on the lips, while saying: "from our enemies"; then a small cross is made on the breast, while saying: "deliver us, O Thou Lord our God"; and finally with index and middle fingers a large sign of the cross is made, touching forehead, breast, and shoulders, saying: "In the name of the Father, and of the Son, and of the Holy Ghost " All these words are from the Roman Missal.
+> With the thumb of the right hand a small cross is made on the forehead, meanwhile saying: "By the sign of the holy Cross"; then a small cross is made on the lips, while saying: "from our enemies"; then a small cross is made on the breast, while saying: "deliver us, O Thou Lord our God"; and finally with index and middle fingers a large sign of the cross is made, touching forehead, breast, and shoulders, saying: "In the name of the Father, and of the Son, and of the Holy Ghost." All these words are from the Roman Missal.
 
 5. We should make the sign of the cross especially upon arising in the morning and retiring at night; before and after our prayers, meals and principal actions; and whenever we are tempted or in danger. Whenever we are blessed, at Mass, at Benediction, or elsewhere, we should make it.
 

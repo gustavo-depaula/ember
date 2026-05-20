@@ -19,18 +19,20 @@ In these tables, the holydays of obligation which do not necessarily fall on a S
 
 > The day enables us to join in public worship and receive religious instruction. The rest benefits both body and soul. If we had to work always, seven days a week, year in and year out, our health would break under the strain.
 
-2. In the Old Law, the celebration of a definite day, the sabbath, had been ordered only specially for the Jews, just as circumcision and bloody sacrifices had been. The Old Law was abrogated upon institution of the New (Acts 10: 15; 2: 16; Gal. 4: 10- 11).
+2. In the Old Law, the celebration of a definite day, the sabbath, had been ordered only specially for the Jews, just as circumcision and bloody sacrifices had been. The Old Law was abrogated upon institution of the New (Acts 10: 15; 2: 16; Gal. 4: 10-11).
 
 > In the Old Law, the Jews kept holy the seventh day of the week, Saturday. It was their day of rest. The vital principle of the Third Commandment was not the specific day, but that one day out of seven should be devoted to the worship of God the Creator.
 
 
 **Why does the Church command us to keep Sunday as the Lord's day?**
 
-— The Church commands us to keep Sunday as the Lord's day, because on Sunday, Christ rose from the dead, and on Sunday the Holy Ghost descended upon the Apostles. 1. In the New Law, Christ delegated His authority to the Church, His Living Voice. It remained then for the Church to indicate the ceremonial day to be kept holy.
+— The Church commands us to keep Sunday as the Lord's day, because on Sunday, Christ rose from the dead, and on Sunday the Holy Ghost descended upon the Apostles.
+
+1. In the New Law, Christ delegated His authority to the Church, His Living Voice. It remained then for the Church to indicate the ceremonial day to be kept holy.
 
 > The Church of the time of the Apostles observed the first day of the week, Sunday, in honour of the Resurrection and Pentecost, which both took place on a Sunday. In the same way, the early Church caused circumcision and bloody sacrifices to make way for Baptism and the Sacrifice of the Mass.
 
-2. In the New Law, Catholics keep holy the first day of the week, Sunday, It is called "The Lord's Day" St. Paul refers twice to its observance. (Acts 20: 7; 1 Cor. 16: 2).
+2. In the New Law, Catholics keep holy the first day of the week, Sunday. It is called "The Lord's Day" St. Paul refers twice to its observance. (Acts 20: 7; 1 Cor. 16: 2).
 
 
 **How does the Church command us to worship God on Sunday?**

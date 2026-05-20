@@ -2,7 +2,7 @@
 
 ![](../images/lesson-030.webp)
 
-"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to, her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.'When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).
+"Now in the sixth month the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And when the angel had come to her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women.' When she had seen him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, 'Do not be afraid, Mary, for thou hast found grace with God. And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus'" (Luke 1: 26-31).
 
 (THIRD ARTICLE OF THE APOSTLES' CREED)
 
@@ -15,7 +15,7 @@
 
 2. By virtue of the Incarnation Jesus Christ came to earth. This is a mystery which we can never fully understand, but must be content to honour and adore.
 
-> "The Word was made flesh and dwelt among us" (John 1: 14). Christ as man was like us in all things except sin. He could not sin, because He is God. But in all other things He was like us: he had a human body, a human soul, a human will. Can we understand this with our reason? Hardly. As St. John Chrysostom said: "I know that the Son of Gad became man. but how, I do not know." God, Who produced the universe from nothing, also caused the Incarnation.
+> "The Word was made flesh and dwelt among us" (John 1: 14). Christ as man was like us in all things except sin. He could not sin, because He is God. But in all other things He was like us: he had a human body, a human soul, a human will. Can we understand this with our reason? Hardly. As St. John Chrysostom said: "I know that the Son of God became man, but how, I do not know." God, Who produced the universe from nothing, also caused the Incarnation.
 
 
 ## The Incarnation
@@ -55,7 +55,7 @@
 
 — Jesus Christ had a human mother, the Blessed Virgin Mary, but He had no human father. 1. The Blessed Virgin was Christ's mother as man, but not as God.
 
-> However, the Blessed virgin is truly the Mother of God, because the humanity and divinity of her Son are inseparable. In a similar way we call our parents mother and father, although they only gave us our body, and not our soul.
+> However, the Blessed Virgin is truly the Mother of God, because the humanity and divinity of her Son are inseparable. In a similar way we call our parents mother and father, although they only gave us our body, and not our soul.
 
 2. Christ had no human father. The Blessed Virgin remained a virgin all her life. The conception of Our Lord is a great miracle and a mystery that we cannot understand. We can only accept it as true on the word of God, Who is almighty.
 

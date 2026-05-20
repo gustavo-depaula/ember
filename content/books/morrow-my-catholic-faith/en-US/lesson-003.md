@@ -24,14 +24,14 @@ God created the world in six days. On the first day, He made light and darkness,
 
 — When we say that God is the Supreme Being, we mean that He is above all creatures, the self-existing and infinitely perfect Spirit.
 
-> "I am the first and I am the last, and besides me there is no god" (Is. 44: 6). "'I am the Alpha and the Omega, the beginning and the end,' says the Lord God. 'who is and who was and who is coming'" (Apoc. 1: 8)
+> "I am the first and I am the last, and besides me there is no god" (Is. 44: 6). "'I am the Alpha and the Omega, the beginning and the end,' says the Lord God. 'who is and who was and who is coming'" (Apoc. 1: 8).
 
 
 **What is a spirit?**
 
 — A spirit is a being that has understanding and free will, but no body, and will never die. 1. God is a pure spirit. As God has no body, when we speak of His eyes and His hands, we only speak in a figurative manner, in order to make ourselves more understandable according to our human way of speaking.
 
-> Our Lord said to the Samaritan woman at the well: "God is spirit; and they who worship Him must worship in spirit and in truth" (John 4: 24). Yet God has often taken on visible forms, in order to be seen by men. Thus he showed Himself in the form of a dove at the baptism of Jesus, and in the form of tongues of fire on Pentecost. God is neither a dove nor tongues of fire; He merely assumed those forms in order to be seen by mortal eyes.
+> Our Lord said to the Samaritan woman at the well: "God is spirit; and they who worship Him must worship in spirit and in truth" (John 4: 24). Yet God has often taken on visible forms, in order to be seen by men. Thus He showed Himself in the form of a dove at the baptism of Jesus, and in the form of tongues of fire on Pentecost. God is neither a dove nor tongues of fire; He merely assumed those forms in order to be seen by mortal eyes.
 
 2. Angels and devils are pure spirits. Men are only partly spiritual, because they have a body. Man's soul is a spirit, absolutely independent of matter, and by creatures indestructible.
 
@@ -55,7 +55,7 @@ God created the world in six days. On the first day, He made light and darkness,
 
 > God is immense and eternal, "an ocean without shore or bottom," the unchangeable Being that only Himself can fully understand: "Of his greatness there is no end" (Ps. 144: 3)
 
-1. God is so great and wonderful that He needs nothing to make Him greater or more wonderful. He possesses all perfections, countless, innumerable, il limit able, boundless.
+1. God is so great and wonderful that He needs nothing to make Him greater or more wonderful. He possesses all perfections, countless, innumerable, illimitable, boundless.
 
 > God cannot be better, holier, or more perfect than He already is. He is at the acme of perfection, the uncreated, the Infinite. "Heaven and the heaven of heavens cannot contain thee" (3 Kings 8: 27).
 

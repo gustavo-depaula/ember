@@ -15,13 +15,15 @@ A soul in the state of grace is very beautiful in the sight of God. Then we are 
 
 > In a similar manner, the sun does not make the plants, but develops what is already planted; without the sun plants would die and be useless to man.
 
-3. The supernatural is that which is beyond natural Powers. It is of two kinds:
+3. The supernatural is that which is beyond natural powers. It is of two kinds:
 
-> a. When the fact is beyond natural powers in the manner of occurrence: as when a blind man instantly can see; and b. When the fact fundamentally and entirely surpasses all powers of the natural order: as when God imparts a part of His life to man through the gift of sanctifying grace.
+> a. When the fact is beyond natural powers in the manner of occurrence: as when a blind man instantly can see; and
+>
+> b. When the fact fundamentally and entirely surpasses all powers of the natural order: as when God imparts a part of His life to man through the gift of sanctifying grace.
 
 4. The assistance of the Holy Ghost is necessary. Without the help of the graces that He dispenses, with merely natural powers, we cannot do the least work to merit salvation. Without God, we are nothing.
 
-> In order to reach heaven, we need God's grace; so we say with the Apostle: "Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God" (2 Cor. 3: 5) ; "By the grace of God I am what I am. . . . I have laboured more than any of them, yet not I, but the grace of God with me" (1 Cor. 15: 10).
+> In order to reach heaven, we need God's grace; so we say with the Apostle: "Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God" (2 Cor. 3: 5); "By the grace of God I am what I am. . . . I have laboured more than any of them, yet not I, but the grace of God with me" (1 Cor. 15: 10).
 
 5. There are two kinds of grace: sanctifying grace and actual grace.
 

@@ -15,9 +15,9 @@ Ordination to the priesthood takes place during the celebration of Mass, After t
 
 > "As the Father has sent me, I also send you. . . . Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them, and whose sins you shall retain, they are retained" (John 20: 21-23).
 
-3. Finally, before the Ascension, Christ gave His disciples the mission to preach the Gospel.and dispense the sacraments.
+3. Finally, before the Ascension, Christ gave His disciples the mission to preach the Gospel and dispense the sacraments.
 
-> "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world" (Matt. 28; 18-20).
+> "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 18-20).
 
 4. The Apostles, in compliance with the wishes of Christ, administered the sacrament of Holy Orders.
 
@@ -57,6 +57,6 @@ Ordination to the priesthood takes place during the celebration of Mass, After t
 
 > By Baptism all Christians are endowed with the spiritual "priesthood" of laymen, by which they have the obligation to offer up to God spiritual sacrifices of prayers and mortification and acts of faith, hope, and charity. But only those men who receive the Sacrament of Holy Orders are priests, ministers of God, in the full sense of the word.
 
-2. The sacrament of Holy Orders is administered by means of ceremonies that vary with the kind of orders conferred. It consists in the sign of the imposition of hands by the bishop, together with the accompanying words of ordination, varying with, the order being conferred.
+2. The sacrament of Holy Orders is administered by means of ceremonies that vary with the kind of orders conferred. It consists in the sign of the imposition of hands by the bishop, together with the accompanying words of ordination, varying with the order being conferred.
 
 > "You have not chosen me, but I have chosen you" (John 15: 16). "He who receives you, receives me; and he who receives me, receives him who sent me" (Matthew 10: 40).

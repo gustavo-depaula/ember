@@ -7,7 +7,7 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 **Why must we love our neighbour?**
 
-— We must love our neighbour because: 1. God commands it. ''Thou shall love thy neighbour as thyself" (Matt. 22: 39). The love of our neighbour for the love of God, is strictly enjoined upon us. This is why Holy Scripture speaks of only one commandment of charity.
+— We must love our neighbour because: 1. God commands it. "Thou shalt love thy neighbour as thyself" (Matt. 22: 39). The love of our neighbour for the love of God, is strictly enjoined upon us. This is why Holy Scripture speaks of only one commandment of charity.
 
 > God looks upon acts of mercy towards others as acts of love towards Himself. "For I was hungry, and you gave me to eat; I was thirsty, and you gave me to drink; I was a stranger, and you took me in. "Amen I say to you, as long as you did it for one of these, the least of my brethren, you did it for me" (Matt. 25: 35, 40); "If anyone says, I love God, and hates his brother, he is a liar" (1 John 4: 20).
 
@@ -32,11 +32,11 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 3. To love our neighbour for God's sake means to love him in order to please God. This supernatural love is called charity. If we love a person because we expect from him some favour or advantage in return, we love him for our own sake. Our love is interested; it is not real love.
 
-> Our Lord says: "If you love those who love you, what merit have you? For even sinners love those who love them" (Luke 6:32). "But when thou give st alms, do not let thy left hand know what thy right hand is doing, so that thy alms may be given in secret: and thy Father, who sees in secret, will reward thee" (Matt. 6: 3 - 4). If we love a person because he is attractive or kind, without any reference to God, we love him only for his own sake, and not for God's. This is natural affection.
+> Our Lord says: "If you love those who love you, what merit have you? For even sinners love those who love them" (Luke 6:32). "But when thou givest alms, do not let thy left hand know what thy right hand is doing, so that thy alms may be given in secret: and thy Father, who sees in secret, will reward thee" (Matt. 6: 3 - 4). If we love a person because he is attractive or kind, without any reference to God, we love him only for his own sake, and not for God's. This is natural affection.
 
 4. True love of God makes us love even disagreeable people, without reference to their love for us. It makes us love the poor, the sick, the unfortunate, the suffering, the repulsive, and even our enemies, just because God loves them, and wishes us to love them. Thus Christians of all ages have sacrificed themselves for charity.
 
-> St. Peter Claver, the "Apostle of the Negroes", in Colombia, South America, became a slave of slaves for Christ's sake. In the Philippines, Priests and Sisters are labouring in the Cu lion leper colony, in constant danger of exposure to the disease. Others take care of other charitable institutions, with no hope of earthly reward, all for God's love.
+> St. Peter Claver, the "Apostle of the Negroes", in Colombia, South America, became a slave of slaves for Christ's sake. In the Philippines, Priests and Sisters are labouring in the Culion leper colony, in constant danger of exposure to the disease. Others take care of other charitable institutions, with no hope of earthly reward, all for God's love.
 
 
 **Should we give the same degree of love to all men?**
@@ -52,7 +52,7 @@ All human beings without distinctions of race, nationality, religion, riches, se
 
 **What is the reward of those who unfailingly practice the precept of love of neighbour?**
 
-— Those who unfailingly practice the precept of love of neighbour bring down blessings upon earth, and will obtain heaven as their eternal reward. 1. Our Lord called the precept of charity towards our neighbour a new commandment: ''A new commandment I give you, that you love one another: that as I have loved you, you also love one another" (John 13: 34).
+— Those who unfailingly practice the precept of love of neighbour bring down blessings upon earth, and will obtain heaven as their eternal reward. 1. Our Lord called the precept of charity towards our neighbour a new commandment: "A new commandment I give you, that you love one another: that as I have loved you, you also love one another" (John 13: 34).
 
 > This is because before Christ's coming, people did not understand the precept of charity in the same sense that Our Lord gives it. If today men would closely fulfil that precept, what blessings would ensue! No one would wrong his fellow men; there would be no need of prisons; there would be no extreme poverty; and peace would reign.
 

@@ -15,7 +15,7 @@ The death of Christ on the cross was a true sacrifice. He offered Himself to His
 
 > In the words of His prophet Malachias, "From the rising of the sun even to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation" (Mal. 1: 10-11). These words referred to the Sacrifice of the Mass, in which the Victim is Jesus Christ the Son of God, than Whom there can be no worthier, no cleaner, no more perfect sacrifice.
 
-2. The Church has always taught that the Mass is a true sacrifice. St. Paul implies this when he says: "We have an altar from which they have no right to eat who serve the tabernacle (meaning the Jews) " (Heb. 13: 10).
+2. The Church has always taught that the Mass is a true sacrifice. St. Paul implies this when he says: "We have an altar from which they have no right to eat who serve the tabernacle (meaning the Jews)" (Heb. 13: 10).
 
 > The prophet Malachias foretold the universality of the sacrifice of the Mass. Since there are Catholic priests and churches all over the world, this prophecy is today accomplished literally, for in all places the "clean oblation", Holy Mass, is offered.
 

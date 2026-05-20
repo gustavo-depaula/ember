@@ -11,11 +11,11 @@ If we love God, no sacrifice is too great to offer Him for His pleasure. Million
 
 > We may lose our faith by: (a) not learning well the doctrines of the Church; (b) wilfully doubting truths that have been revealed to the Church; (c) reading books and other literature against our religion; (d) attending assemblies of people who are opposed to our religion; and (e) neglecting the practice of our religion. (See pages 142-147)
 
-1. Infidelity is: (a) rejection of the Faith by one who has received it; or (b) neglect to look into the foundation for Church claims by one who understands the necessity for such investigation: or (c) ignorance of the Faith by one who has had no chance to learn it, or who does not realize the importance of learning.
+1. Infidelity is: (a) rejection of the Faith by one who has received it; or (b) neglect to look into the foundation for Church claims by one who understands the necessity for such investigation; or (c) ignorance of the Faith by one who has had no chance to learn it, or who does not realize the importance of learning.
 
 > Persons who do not believe in Christianity as a divinely revealed religion, whether they have been baptised or not, are commonly referred to as "infidels". Infidelity is refusal to believe in anything that cannot be perceived with the senses, or comprehended with the understanding.
 
-> But is it not utterly reasonable to have faith in an almighty God, Who knows much more than we can ever hope to know, and Who can do things beyond our understanding? It is necessary that we serve God in the way He requires, not in the way it pleases us to do so. For this reason we must.practice the religion revealed by God. and avoid making up our own religions according to our whims and innumerable fancies. Buddhists, Mohammedans, Hindus, Jews, and pagans, are infidels. As explained, Christians can also become infidels.
+> But is it not utterly reasonable to have faith in an almighty God, Who knows much more than we can ever hope to know, and Who can do things beyond our understanding? It is necessary that we serve God in the way He requires, not in the way it pleases us to do so. For this reason we must practice the religion revealed by God, and avoid making up our own religions according to our whims and innumerable fancies. Buddhists, Mohammedans, Hindus, Jews, and pagans, are infidels. As explained, Christians can also become infidels.
 
 2. Apostasy is complete rejection of the truths of the Catholic faith by one who has been baptised. A vicious and sinful life often leads to apostasy. No really good man has ever fallen away from the Catholic faith.
 

@@ -17,7 +17,9 @@ b. In general, the poor in this world's goods are also poor in spirit. They are 
 
 > Our Lord often emphasized the difficulty of salvation when one is rich: "But woe to you rich! for you are now having your comfort" (Luke 6: 24). "If thou wilt be perfect, go, sell what thou hast and give to the poor, ... and come, follow me" (Matt. 19: 21). "With difficulty will a rich man enter into the kingdom of heaven" (Matt. 19: 23)
 
-c. We are, however, expected to be industrious. Pauperism which is the result of laziness is not a virtue. Beggary which can be avoided is not beneficial either to the individual or to society in general. Each one is obliged to provide for himself and for those dependent on him. 2. "Blessed are the meek, for they shall possess the earth." a. The meek are those who bear patiently all the contradictions of life, looking upon them as happening through God's Will or by His permission.
+c. We are, however, expected to be industrious. Pauperism which is the result of laziness is not a virtue. Beggary which can be avoided is not beneficial either to the individual or to society in general. Each one is obliged to provide for himself and for those dependent on him.
+
+2. "Blessed are the meek, for they shall possess the earth." a. The meek are those who bear patiently all the contradictions of life, looking upon them as happening through God's Will or by His permission.
 
 > The meek shall have peace of heart and peace of life, loved and respected by all, and at death will "possess the earth" of the living, heaven.
 

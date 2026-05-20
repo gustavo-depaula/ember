@@ -19,9 +19,9 @@
 
 > "If I distribute all my goods to feed the poor, and if I deliver my body to be burned, yet do not have charity, it profits me nothing" (1 Cor. 13: 3). This "charity" St. Paul speaks of is nothing but the pure love of God and neighbour; it excludes all vanity.
 
-3. In doing the works of mercy, we should not be moved by the hope that we shall receive an earthly reward. Hence we should do good preferably to those who cannot repay us: "When thou give st a feast, invite the poor, the crippled, the lame, the blind; and blessed shall thou be, because they have nothing to repay thee with; for thou shalt be repaid at the resurrection" (Luke 14: 13).
+3. In doing the works of mercy, we should not be moved by the hope that we shall receive an earthly reward. Hence we should do good preferably to those who cannot repay us: "When thou givest a feast, invite the poor, the crippled, the lame, the blind; and blessed shall thou be, because they have nothing to repay thee with; for thou shalt be repaid at the resurrection" (Luke 14: 13).
 
-> "When thou give st alms, do not let thy left hand know what thy right hand is doing, so that thy alms may be given in secret, and thy Father, who sees in secret, will reward thee" (Matt. 6: 3-4). This does not mean, however, that we should always keep our good works in secret, for Our Lord Himself advised, "So let your light shine before men in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5: 16). If what we do will give good example, we should let it be known, but always with true modesty.
+> "When thou givest alms, do not let thy left hand know what thy right hand is doing, so that thy alms may be given in secret, and thy Father, who sees in secret, will reward thee" (Matt. 6: 3-4). This does not mean, however, that we should always keep our good works in secret, for Our Lord Himself advised, "So let your light shine before men in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5: 16). If what we do will give good example, we should let it be known, but always with true modesty.
 
 4. We ought to give material alms only to those really poor or unable to get work. It would be wrong to support people in idleness or vice; this would be to encourage them in sin. But if we have no means of finding out about the poor who beg our aid, it is much better to err on the side of charity than miserliness.
 
@@ -34,7 +34,7 @@
 
 > "Charity begins at home." It is not edifying to see well-known figures in public charities turn away a poor cousin who begs for some help to send his little child to school. This would very likely mean that the public charities done by such people are so done only for show, not from kindness of heart. As for fellow Catholics, St. Paul said: "Let us do good to all men, but especially to those who are of the household of faith" (Gal. 6: 10).
 
-2. The Church may be helped by giving alms to its missions, schools, orphan asylums, and homes-for the poor.
+2. The Church may be helped by giving alms to its missions, schools, orphan asylums, and homes for the poor.
 
 > Even children should be trained early to give alms by setting aside every week a small sum from their pocket-money. "By this will all men know that you are my disciples, if you have love for one another" (John 13: 35).
 
@@ -47,6 +47,6 @@
 
 — All the ordinary deeds done every day to relieve the corporal or spiritual needs of others are true works of mercy, if done in the name of Christ.
 
-> "And before him will be gathered all the nations, and he will separate them one from another, as the shepherd separates the sheep from the goats; and he will set the sheep on his right hand, but the goats on the left. Then the king will say to those on his right hand, 'Come, blessed of my Father, take possession of the kingdom prepared for you from the foundation of the world; for I was hungry and you gave me to eat; I was thirsty and you gave me to drink; I was a stranger and you took me in; naked and you covered me; sick and you visited me; I was in prison and you came to me.' Then the just will answer him, saying, 'Lord, when did we see thee hungry and feed thee; or thirsty, and give thee drink? And when did we see thee a stranger, and take thee in; or naked, and clothe thee? Or when did we see thee sick, or in prison, and come to thee?' And answering, the king will say to them, 'Amen I say to you. as long as you did it for one of these, the least of my brethren, you did it for me' " (Matt. 25; 32-40).
+> "And before him will be gathered all the nations, and he will separate them one from another, as the shepherd separates the sheep from the goats; and he will set the sheep on his right hand, but the goats on the left. Then the king will say to those on his right hand, 'Come, blessed of my Father, take possession of the kingdom prepared for you from the foundation of the world; for I was hungry and you gave me to eat; I was thirsty and you gave me to drink; I was a stranger and you took me in; naked and you covered me; sick and you visited me; I was in prison and you came to me.' Then the just will answer him, saying, 'Lord, when did we see thee hungry and feed thee; or thirsty, and give thee drink? And when did we see thee a stranger, and take thee in; or naked, and clothe thee? Or when did we see thee sick, or in prison, and come to thee?' And answering, the king will say to them, 'Amen I say to you, as long as you did it for one of these, the least of my brethren, you did it for me' " (Matt. 25: 32-40).
 
 If in all our works we remember and love God, we have the supernatural motive.

@@ -11,7 +11,7 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 > When Napoleon the Great was at the height of his power, one of his generals asked him once what had been the happiest day of his life. Expecting to hear the Emperor name a great battle, the general was surprised to hear him say, "My happiest day was the day of my first Holy Communion, for then I was brought nearest to my God."
 
-2. Christ commanded us to receive Holy Communion when He said: ''Unless you eat the flesh of the Son of Man, and drink his blood, you shall not have life in you" (John 6: 54). It is the food of our souls.
+2. Christ commanded us to receive Holy Communion when He said: "Unless you eat the flesh of the Son of Man, and drink his blood, you shall not have life in you" (John 6: 54). It is the food of our souls.
 
 > Holy Communion increases in us the life of grace. During the persecution against Christianity in China, the grace given to the martyrs was noticed by the pagans themselves. The victims were cruelly scourged and tortured, but they continued firm in their faith and professed it openly and fearlessly. The infidels, amazed at such fortitude, said, "Truly, these people have been eating of that Eucharistic Bread which they partake of in their assemblies. It casts a spell upon their souls."
 
@@ -49,7 +49,7 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 2. If we have the proper dispositions, we may communicate daily, except on Good Friday. Early Christians communicated daily.
 
-> Persons who are accustomed to communicate daily do not need to go to confession daily. They, should go to confession weekly, or twice a month, unless they fall into mortal sin, when they should be sorry and go to confession at once.
+> Persons who are accustomed to communicate daily do not need to go to confession daily. They should go to confession weekly, or twice a month, unless they fall into mortal sin, when they should be sorry and go to confession at once.
 
 3. Some persons say that they are not good enough to go to daily communion. They should remember that the Eucharist is not meant as a reward of virtue, but as an aid towards the attainment of virtue.
 

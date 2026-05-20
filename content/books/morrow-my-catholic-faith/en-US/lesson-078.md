@@ -19,7 +19,7 @@ Both reason and faith tell us that there is a middle ground of expiation, where 
 
 > "My thoughts are not your thoughts, nor your ways my ways, saith the Lord. For as the heavens are exalted above the earth, so are my ways exalted above your ways, and my thoughts above your thoughts." Let us reverence God's holiness and justice, as we have loving confidence in His mercy.
 
-(b) A man commits a cruel murder. This is a mortal sin which, unrepented and un confessed, will send him to hell.
+(b) A man commits a cruel murder. This is a mortal sin which, unrepented and unconfessed, will send him to hell.
 
 > The man repents, confesses, and obtains absolution for his sin; the guilt therefore is removed. But justice requires that he make up for the evil he has done; this atonement takes place in purgatory, unless he makes full satisfaction before death.
 
@@ -34,7 +34,7 @@ Both reason and faith tell us that there is a middle ground of expiation, where 
 
 > After a battle, Judas Maccabeus ordered prayers and sacrifices offered up for his slain comrades. "And making a gathering, he sent twelve drachms of silver to Jerusalem for sacrifice to be offered for the sins of the dead, thinking well and religiously concerning the resurrection. For, if he had not hoped that they that were slain should rise again, it would have seemed superfluous and vain to pray for the dead. And because he considered that they who had fallen asleep with godliness had great grace laid for them. It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins" (2 Mach. 12:43-46).
 
-2. When Our Lord came on earth. He purified the Jewish Church of all those human changes that with the years had crept into its usages and beliefs. But He never reproved anyone for belief in a middle state ofpurgation, or prayers for the dead.
+2. When Our Lord came on earth. He purified the Jewish Church of all those human changes that with the years had crept into its usages and beliefs. But He never reproved anyone for belief in a middle state of purgation, or prayers for the dead.
 
 > On the contrary, Christ more than once implied the existence of purgatory. He said "And whoever speaks a word against the Son of Man, it shall be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, either in this world, or in the world to come" (Matt. 12:32). When Our Lord said that a sin will not be forgiven in the next life, He left us to conclude that some sins will be thus forgiven. But in the next life, sins cannot be forgiven in heaven: "There shall not enter into it anything defiled" (Apoc. 21:27). Neither can sins be forgiven in hell, for out of hell there is no redemption. They must therefore be forgiven in a middle state, Purgatory.
 
@@ -42,7 +42,7 @@ Both reason and faith tell us that there is a middle ground of expiation, where 
 
 > From the beginning, Christians prayed for the dead at the Holy Sacrifice of the Mass. The oldest books used at Mass contain prayers for the dead.
 
-The doctrine of Purgatory was given solemn definition by the Council of Trent as follows:. "There is a purgatory, and the souls there detained are assisted by the suffrages of the faithful, but especially by the most acceptable sacrifice of the altar."
+The doctrine of Purgatory was given solemn definition by the Council of Trent as follows: "There is a purgatory, and the souls there detained are assisted by the suffrages of the faithful, but especially by the most acceptable sacrifice of the altar."
 
 > This dogmatic definition contains three points of faith that all Catholics are compelled to believe: (a) that there is a purgatory; (b) that after death souls suffer there for their sins; (c) that the living can extend assistance to such souls.
 

@@ -9,7 +9,7 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 — We should assist at Mass with reverence, attention, and devotion. 1. We should remember that we are present at the Holy Sacrifice of Christ's Body and Blood. Whispering, laughing, and looking about during Mass are out of place and irreverent.
 
-> When we are conversing with anyone, we give him all our attention, and do not even think of Other people. At Mass, we are in the Real Presence of God. We should fix our attention on Him, and forget everything else. It is the practice to kneel during Mass, at least from the beginning to the Offertory, and from the Sanctus till after the Communion, standing for the Gospels.
+> When we are conversing with anyone, we give him all our attention, and do not even think of other people. At Mass, we are in the Real Presence of God. We should fix our attention on Him, and forget everything else. It is the practice to kneel during Mass, at least from the beginning to the Offertory, and from the Sanctus till after the Communion, standing for the Gospels.
 
 2. One should not come to Mass overdressed. It is a distraction for others to see people entering in the height of fashion.
 
@@ -19,7 +19,7 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 > It is related of St. John the Almoner, Patriarch of Alexandria in the 7th century, that he observed some of his parishioners on Sundays and holydays had formed the habit of standing about the churchyard and talking together instead of entering the church to hear Mass. The good Bishop determined to put an end to this bad habit.
 
-> One Sunday, instead of saying Mass in the church, he went outside and stood with the idlers. They looked at him in surprise. He said. "You wonder what I am doing here. But remember where the flock is, there the pastor must be. If you enter the church, I shall also go in," Shamed into their right senses, the idlers went in at once and from that time never again "heard Mass" outside.
+> One Sunday, instead of saying Mass in the church, he went outside and stood with the idlers. They looked at him in surprise. He said, "You wonder what I am doing here. But remember where the flock is, there the pastor must be. If you enter the church, I shall also go in." Shamed into their right senses, the idlers went in at once and from that time never again "heard Mass" outside.
 
 4. We should try to give the Holy Sacrifice all our attention and devotion. We should keep away from our minds all distractions as far as possible, and unite ourselves with Jesus in His Sacrifice, especially in the principal parts of the Mass.
 
@@ -55,4 +55,6 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 3. It is not necessary to understand the Mass prayers as pronounced by the priest, as they are generally pronounced in a very low tone of voice. The prayers are not supposed to be addressed to people, but to God. Mass is not instruction, but sacrifice.
 
-> The people, by means of their prayer books, can , follow the movements of the priest, and hear the Mass. Missals for the laity have all the prayers read by the priest, translated from the Latin. 4. If preferred, a prayer book may be used at Mass, reading the prayers for Mass, or even other prayers. The five sorrowful mysteries of the Rosary are suitable as Mass devotions, setting forth as they do Our Lord's Passion.
+> The people, by means of their prayer books, can follow the movements of the priest, and hear the Mass. Missals for the laity have all the prayers read by the priest, translated from the Latin.
+
+4. If preferred, a prayer book may be used at Mass, reading the prayers for Mass, or even other prayers. The five sorrowful mysteries of the Rosary are suitable as Mass devotions, setting forth as they do Our Lord's Passion.

@@ -57,7 +57,7 @@
 
 **Ash Wednesday.**
 
-> This day opens the Lenten season. Catholics go to church to receive the ashes which the priest marks on their foreheads with the words: "Remember, man, that thou art dust, and unto dust thou shall return " The ashes are from the palms blessed the previous year. They symbolize penance.
+> This day opens the Lenten season. Catholics go to church to receive the ashes which the priest marks on their foreheads with the words: "Remember, man, that thou art dust, and unto dust thou shalt return." The ashes are from the palms blessed the previous year. They symbolize penance.
 
 
 **Passion Sunday.**
@@ -91,7 +91,7 @@
 
 > This is the only day in the whole year on which the Sacrifice of the Mass is not offered. The service is not a Mass in the proper sense of the word, because there is no Consecration. The officiating priest consumes the Host Which was consecrated the day before and reserved on the Repository.
 
-> On this day also takes place the adoration of the cross. The anthems and responses sung during the adoration of the cross are called "Improper i a" or Reproaches — words addressed by Our Lord to the Jews. They are a striking and very dramatic feature of the Good Friday service. The unveiling of the cross is symbolic of Christ being stripped of His garments. The devotion of the Stations of the Cross is practised today in all churches. In a number of churches, the sermon of the "Seven Words" is made; then it is usual to have the sermon last from noon till three o'clock, when the "Last Word" is spoken. This sermon is an attempt to portray the last hours of Our Lord on the Cross.
+> On this day also takes place the adoration of the cross. The anthems and responses sung during the adoration of the cross are called "Improperia" or Reproaches — words addressed by Our Lord to the Jews. They are a striking and very dramatic feature of the Good Friday service. The unveiling of the cross is symbolic of Christ being stripped of His garments. The devotion of the Stations of the Cross is practised today in all churches. In a number of churches, the sermon of the "Seven Words" is made; then it is usual to have the sermon last from noon till three o'clock, when the "Last Word" is spoken. This sermon is an attempt to portray the last hours of Our Lord on the Cross.
 
 
 **Holy Saturday.**
@@ -106,7 +106,7 @@
 
 **The Annunciation of the Blessed Virgin Mary,** March 25.
 
-> This day commemorates the coming of the Angel Gabriel to Our Lady, announcing to her that was to become the Mother of Our Lord Jesus Christ.
+> This day commemorates the coming of the Angel Gabriel to Our Lady, announcing to her that she was to become the Mother of Our Lord Jesus Christ.
 
 
 **Rogation Days**
@@ -224,4 +224,4 @@
 
 **All Souls' Day,** November 2.
 
-> This day commemorates all the holy souls in Purgatory. It is a day for pious remembrance of the dead, and for offering of Masses and prayers for them. On this day as on Christmas, priests are allowed to say three Masses, for the souls of the departed, that they may be free from Purgatory. From noon of All Saints' Day until midnight of the next day (All Souls' Day), all those who have confessed and received Holy Communion on either of the two days or within the following octave may gain the *to ties quo ties* indulgence: a plenary indulgence applicable to the souls in Purgatory every time they visit a church or public chapel, and pray six Our Fathers, six Hail Marys, and six Glorias for the intention of the Holy Father. It is to be noted here that those who are accustomed to go to confession at least twice a month, or to communicate daily in the state of grace and with an upright and holy intention, and even though they do not go to communion once or twice during the week, may without confession gain all the indulgences for which confession is prescribed as a necessary condition. If the to ties quo ties indulgence is not gained on All Saints' and All Souls' Days, it may be gained on the Sunday following. When November 2 falls on a Sunday, All Souls' Day is celebrated on the Monday following, November 3.
+> This day commemorates all the holy souls in Purgatory. It is a day for pious remembrance of the dead, and for offering of Masses and prayers for them. On this day as on Christmas, priests are allowed to say three Masses, for the souls of the departed, that they may be free from Purgatory. From noon of All Saints' Day until midnight of the next day (All Souls' Day), all those who have confessed and received Holy Communion on either of the two days or within the following octave may gain the *toties quoties* indulgence: a plenary indulgence applicable to the souls in Purgatory every time they visit a church or public chapel, and pray six Our Fathers, six Hail Marys, and six Glorias for the intention of the Holy Father. It is to be noted here that those who are accustomed to go to confession at least twice a month, or to communicate daily in the state of grace and with an upright and holy intention, and even though they do not go to communion once or twice during the week, may without confession gain all the indulgences for which confession is prescribed as a necessary condition. If the toties quoties indulgence is not gained on All Saints' and All Souls' Days, it may be gained on the Sunday following. When November 2 falls on a Sunday, All Souls' Day is celebrated on the Monday following, November 3.

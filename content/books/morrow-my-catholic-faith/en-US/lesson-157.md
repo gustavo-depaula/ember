@@ -2,7 +2,9 @@
 
 ![](../images/lesson-157.webp)
 
-A good life is usually an assurance of a happy 2. A wicked life is usually a forecast of a bad death. One who has lived all his days in an death. A hardened sinner refuses the Last effort to please God is not likely to turn an Sacraments. Let us all pray God to deliver us impenitent sinner at the last moment. from a bad death.
+A good life is usually an assurance of a happy death. One who has lived all his days in an effort to please God is not likely to turn an impenitent sinner at the last moment.
+
+2. A wicked life is usually a forecast of a bad death. A hardened sinner refuses the Last Sacraments. Let us all pray God to deliver us from a bad death.
 
 
 **What are the Last Sacraments?**
@@ -51,8 +53,7 @@ The following is a diagram showing the placing:
 ```
 
 1. crucifix
-2. candle
-3. candle
+2. candles
 4. glass of water
 5. spoon
 6. bottle of holy water
@@ -70,7 +71,9 @@ The following is a diagram showing the placing:
 
 > The Papal benediction with attached plenary indulgence is gained by saying the holy Name of Jesus. If unable to say it, the person must at least think it, and with contrition kiss a blessed crucifix.
 
-2. The following prayer is enriched with a plenary indulgence at the hour of death: "O my God, I now at this moment readily and willingly accept at Thy hand whatever kind of death Thou mayest wish to send me, with all its pains, penalties, sorrows." A person in good health, who recites this prayer in the state of grace, after confession and communion, may gain a plenary indulgence to take effect at the hour of death.
+2. The following prayer is enriched with a plenary indulgence at the hour of death: "O my God, I now at this moment readily and willingly accept at Thy hand whatever kind of death Thou mayest wish to send me, with all its pains, penalties, sorrows."
+
+A person in good health, who recites this prayer in the state of grace, after confession and communion, may gain a plenary indulgence to take effect at the hour of death.
 
 > If we reflect that a plenary indulgence gained with proper dispositions means that the soul will go straight from death-bed to Heaven, we would be more zealous in helping the dying gain one.
 

@@ -2,12 +2,14 @@
 
 ![](../images/lesson-043.webp)
 
-The theological virtues of faith, hope, and charity furnish a strong basis for all other virtues. The cardinal virtues of prudence, justice, fortitude, temperance, are the foundation of all moral virtues. The theological virtues define our relations with God; the moral virtues define our relations with ourselves and our fellow men. If we have these virtues, we are on the way to perfection.
+The theological virtues of faith, hope, and charity furnish a strong basis for all other virtues. The cardinal virtues of prudence, justice, fortitude, temperance, are the foundation of all moral virtues. The theological virtues define our relations with God; the moral virtues define our relations with ourselves and our fellowmen. If we have these virtues, we are on the way to perfection.
 
 
 **Are there any other virtues besides the theological virtues of faith, hope, and charity?**
 
-— Besides the theological virtues of faith, hope, and charity, there are other virtues, called moral virtues. 1. These virtues are called moral virtues because they dispose us to lead moral, or good lives, by aiding us to treat persons and things in the right way, that is, according to the will of God. Moral virtues are opposed to the capital sins.
+— Besides the theological virtues of faith, hope, and charity, there are other virtues, called moral virtues.
+
+1. These virtues are called moral virtues because they dispose us to lead moral, or good lives, by aiding us to treat persons and things in the right way, that is, according to the will of God. Moral virtues are opposed to the capital sins.
 
 > For example, humility is opposed to pride; liberality is opposed to avarice; chastity is opposed to lust; meekness and patience are opposed to anger; temperance is opposed to gluttony; brotherly love is opposed to envy: and zeal and diligence in what is good are opposed to sloth.
 
@@ -25,7 +27,9 @@ The theological virtues of faith, hope, and charity furnish a strong basis for a
 
 **How do prudence, justice, fortitude, and temperance dispose us to lead good lives?**
 
-— Prudence, justice, fortitude, and temperance dispose us to lead good lives, as indicated below: 1. Prudence disposes us in all circumstances to form right judgements about what we must do or not do.-It teaches us when and how to act in matters relating to our eternal salvation. Prudence perfects the intelligence, which is the power of forming judgements; for this virtue, knowledge and experience are important.
+— Prudence, justice, fortitude, and temperance dispose us to lead good lives, as indicated below:
+
+1. Prudence disposes us in all circumstances to form right judgements about what we must do or not do.-It teaches us when and how to act in matters relating to our eternal salvation. Prudence perfects the intelligence, which is the power of forming judgements; for this virtue, knowledge and experience are important.
 
 > Prudence shows us how to leave earthly things in order to earn riches for eternity. It is the eye of the soul, for it tells us what is good and what is evil. It is like a compass that directs our course in life. It is opposed to worldly wisdom. "Be prudent therefore and watchful in prayers" (1 Pet. 4: 7). Prudence is a virtue of the understanding.
 

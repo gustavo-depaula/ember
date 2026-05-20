@@ -7,11 +7,13 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 **Where do we find the chief truths taught by Jesus Christ through the Catholic Church?**
 
-— We find the chief truths taught by Jesus Christ through the Catholic Church in the Apostles' Creed. 1. A creed is a summary or statement of what one believes. "Creed" comes from the Latin *credo*, which means I believe; that is, I accept or hold true something on the word of another.
+— We find the chief truths taught by Jesus Christ through the Catholic Church in the Apostles' Creed.
+
+1. A creed is a summary or statement of what one believes. "Creed" comes from the Latin *credo*, which means I believe; that is, I accept or hold true something on the word of another.
 
 > "I believe," with relation to the Apostles' Creed, means that I firmly assent to everything contained in it. I believe it exactly as if I had seen those truths with my own eyes. I believe it on the authority or word of God, Who cannot deceive or be deceived.
 
-2. The Apostles Creed is so called because it has come down to us from apostolic times, and contains a summary of the principal truths taught by the Apostles.
+2. The Apostles' Creed is so called because it has come down to us from apostolic times, and contains a summary of the principal truths taught by the Apostles.
 
 > The Apostles' Creed is repeated at Baptism, as a declaration of faith. In ancient times it was required before Baptism, as a sign of fitness for reception into the Church.
 
@@ -26,7 +28,7 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 **Into how many articles may the Apostles' Creed be divided?**
 
-— The Apostles Creed may be divided into twelve articles. 1. All the articles are absolutely necessary to faith: if even one article is omitted or changed, faith would be destroyed.
+— The Apostles' Creed may be divided into twelve articles. 1. All the articles are absolutely necessary to faith: if even one article is omitted or changed, faith would be destroyed.
 
 > It is symbolical to divide the Apostles' Creed into twelve articles, because the Apostles numbered twelve; thus we are reminded that the Creed comes to us and was taught by the Apostles of Our Lord.
 
@@ -47,7 +49,7 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 3. A great reward in heaven awaits those who suffer persecution or die for the faith or some Christian virtue. The number of martyrs who have died for the Catholic faith is estimated at more than sixteen millions.
 
-> All the Apostles suffered persecution, and all except St. John suffered death by martyrdom, for their faith. St. John the Baptist was beheaded because he censured Herod for violating the law of marriage. St. John Nepomucene was put to death because he refused to violate the seal of confession. "Therefore, everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32)
+> All the Apostles suffered persecution, and all except St. John suffered death by martyrdom, for their faith. St. John the Baptist was beheaded because he censured Herod for violating the law of marriage. St. John Nepomucene was put to death because he refused to violate the seal of confession. "Therefore, everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32).
 
 4. Neglect of the study of the truths of our religion is frequently the cause of lukewarmness, a bad life, and final apostasy and impenitence. We should be zealous in studying the Christian doctrine, in the catechism and religion lessons, in sermons, missions, and retreats.
 

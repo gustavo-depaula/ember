@@ -31,7 +31,7 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 — We should believe in Divine Revelation because God, Who is its Author, cannot deceive nor be deceived. 1. No reasonable man can believe in any truth until he is sure it is revealed by God. We know that God is the Author of Revelation because He has proved it by external acts, especially by miracles and prophecies.
 
-> The writers who made Divine Revelation known worked under direct inspiration of the Holy Ghost, Who is, therefore its Author.
+> The writers who made Divine Revelation known worked under direct inspiration of the Holy Ghost, Who is, therefore, its Author.
 
 2. Miracles are extraordinary works perceptible to the senses, that cannot be accomplished by the mere powers of nature. They are brought about by the action of a higher power.
 
@@ -43,7 +43,7 @@ Divine Revelation comes down to us by two means: through Holy Scripture, written
 
 4. Prophecies are predictions of future events that could not have been known by natural means. For the confirmation of the faith, or for the benefit of men, God raised up prophets. Generally speaking, the gift of prophecy is a sure sign that the possessor is a messenger of God.
 
-> The prophets told about the coming of the Messi as. Their prophecies were fulfilled when Christ came on earth. The major prophets were Isaias, Jeremias, Ezechiel, and Daniel. They are distinguished from the twelve minor prophets, because of the greater volume of their prophecies. Forecasting the weather correctly is not prophecy. It is the result of a scientific knowledge of natural facts.
+> The prophets told about the coming of the Messias. Their prophecies were fulfilled when Christ came on earth. The major prophets were Isaias, Jeremias, Ezechiel, and Daniel. They are distinguished from the twelve minor prophets, because of the greater volume of their prophecies. Forecasting the weather correctly is not prophecy. It is the result of a scientific knowledge of natural facts.
 
 
 **How has Divine Revelation come down to us?**

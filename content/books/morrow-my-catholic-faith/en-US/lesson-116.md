@@ -19,14 +19,14 @@
 
 2. Flattery consists in praising a person immoderately, against one's conviction, for an ulterior motive. A flatterer lies in order to secure an advantage for himself.
 
-> "A man that speaketh to his friend with flattering and dissembling words spread eth a net for his feet" (Prov. 29: 5). "It is better to be rebuked by a wise man than to be deceived by the flattery of fools" (Ecclus. 7: 6). "Woe to you that call evil good!" (Is. 5: 20). Flatterers criticize and ridicule a man behind his back, but they praise him before his face.
+> "A man that speaketh to his friend with flattering and dissembling words spreadeth a net for his feet" (Prov. 29: 5). "It is better to be rebuked by a wise man than to be deceived by the flattery of fools" (Ecclus. 7: 6). "Woe to you that call evil good!" (Is. 5: 20). Flatterers criticize and ridicule a man behind his back, but they praise him before his face.
 
 
 **When does a person commit the sin of rash judgement?**
 
 — A person commits the sin of rash judgement when, without sufficient reason, he believes something harmful to another's character.
 
-> People judge others by themselves; he who is not evil will less likely think evil quickly of others; he who is a sinner will interpret the actions of others in an evil manner at once. One's judgement of others is a reflection of his own character. "Charity thinks no evil" (1 Cor. 15: 5). A just person, even when he sees evil, tries to avoid thinking of it, and leaves the judgement to God. A person is guilty of rash suspicion when he suspects on insufficient grounds. "Do not judge, that you may not be judged. For with what judgement you judge, you shall be judged" (Matt. 7: 1-2).
+> People judge others by themselves; he who is not evil will less likely think evil quickly of others; he who is a sinner will interpret the actions of others in an evil manner at once. One's judgement of others is a reflection of his own character. "Charity thinks no evil" (1 Cor. 13: 5). A just person, even when he sees evil, tries to avoid thinking of it, and leaves the judgement to God. A person is guilty of rash suspicion when he suspects on insufficient grounds. "Do not judge, that you may not be judged. For with what judgement you judge, you shall be judged" (Matt. 7: 1-2).
 
 
 **When does a person commit the sin of detraction?**
@@ -64,4 +64,4 @@
 
 2. It is very difficult, and sometimes impossible, to make perfect reparation for calumny and detraction. Words once spoken are not forgotten by those who hear. This fact should make us very careful about avoiding sins against the eighth commandment. God gave us a tongue to speak kind and useful words. We should make a rule never to speak ill of anyone.
 
-> A story is told of the saintly Cure d'Ars and a penitent at the confessional, who had confessed having gossiped about an acquaintance. The penitent thought he got off very easily indeed when all the penance he was given was to drop one by one ten blades of straw on the yard before his house, at a distance of five meters apart, and then to go back and pick up the ten blades. Going home, he proceeded to perform the penance. But he realized the lesson the saintly priest wished him to learn when, upon returning to pick up the blades of straw, he could find none; the wind had blown them all away.
+> A story is told of the saintly Curé d'Ars and a penitent at the confessional, who had confessed having gossiped about an acquaintance. The penitent thought he got off very easily indeed when all the penance he was given was to drop one by one ten blades of straw on the yard before his house, at a distance of five meters apart, and then to go back and pick up the ten blades. Going home, he proceeded to perform the penance. But he realized the lesson the saintly priest wished him to learn when, upon returning to pick up the blades of straw, he could find none; the wind had blown them all away.

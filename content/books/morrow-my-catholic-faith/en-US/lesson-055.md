@@ -54,6 +54,6 @@ Then, chiefly since the 16th and 17th centuries, most of them returned to the un
 
 4. In North African Catholic churches, the principal rite used is the Alexandrian. This is called the "Liturgy of St. Mark"; but the original has been greatly modified. The Coptic and Ethiopian Churches use it.
 
-> The Catholic Copts are under the Patriarch of Alexandria, living in Cairo. Old Coptic and Arabic are the languages used in their liturgy: The Ethiopian Church uses a version of the Liturgy of St. Mark; it is as a whole the same as that of the Copts.
+> The Catholic Copts are under the Patriarch of Alexandria, living in Cairo. Old Coptic and Arabic are the languages used in their liturgy. The Ethiopian Church uses a version of the Liturgy of St. Mark; it is as a whole the same as that of the Copts.
 
 The ceremonies of these Rites may indeed seem strange to us of the Latin Rite. But the bishops and priests are real bishops and priests, though vested differently; the Mass and Sacraments are genuine, though performed with an unfamiliar ritual. The Church in the East is the same Church in the West, the same founded by Jesus Christ, the One True Catholic Church.

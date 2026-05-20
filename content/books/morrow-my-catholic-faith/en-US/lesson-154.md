@@ -41,7 +41,9 @@ In the early Church, the canonical penances were severe. Grave sins, such as apo
 
 > The ancient Jews kept every fiftieth year as a year of rejoicing: this custom was introduced into the Church. In this year, all their transgressions were pardoned, property that had been stolen was restored, etc.
 
-2. The Portiuncula is a plenary indulgence that may be gained from noon of August 1 until midnight of the following day, for the benefit of the Poor Souls in Purgatory, if one, under the usual conditions, prays One Our Father, One Hail Mary, One Glory Be, and visits preferably churches and public oratories of the Friars Minor, the Capuchins, or Conventuals or where the 3rd Order is erected. If none exists any church suffices.(Decretum Sacrae Paenitentiariae Apostolicae, May 1, 1939) 3. A plenary indulgence is granted to those who receive the papal benediction or blessing after confession, communion, and prayer for the Pope's intentions.
+2. The Portiuncula is a plenary indulgence that may be gained from noon of August 1 until midnight of the following day, for the benefit of the Poor Souls in Purgatory, if one, under the usual conditions, prays One Our Father, One Hail Mary, One Glory Be, and visits preferably churches and public oratories of the Friars Minor, the Capuchins, or Conventuals or where the 3rd Order is erected. If none exists any church suffices. (Decretum Sacrae Paenitentiariae Apostolicae, May 1, 1939)
+
+3. A plenary indulgence is granted to those who receive the papal benediction or blessing after confession, communion, and prayer for the Pope's intentions.
 
 > The papal benediction is usually given at the end of missions or retreats, or at the hour of death.
 
@@ -54,7 +56,9 @@ In the early Church, the canonical penances were severe. Grave sins, such as apo
 
 > Priests with special faculties from the Pope may attach indulgences to objects they bless. All objects blessed by the Holy Father have the Apostolic indulgences attached to them.
 
-1. An indulgence is granted for the living or for the dead. An indulgence for the living means for the person who performs the good work. We cannot gain an indulgence for another living person. 2. The Holy See alone can grant indulgences applicable to the dead. All papal indulgences can be applied to the souls in purgatory, unless otherwise stated.
+1. An indulgence is granted for the living or for the dead. An indulgence for the living means for the person who performs the good work. We cannot gain an indulgence for another living person.
+
+2. The Holy See alone can grant indulgences applicable to the dead. All papal indulgences can be applied to the souls in purgatory, unless otherwise stated.
 
 > Most indulgences are today applicable to the dead. Persons who have made the Heroic Act can apply every indulgence to the poor souls (see page 59)
 

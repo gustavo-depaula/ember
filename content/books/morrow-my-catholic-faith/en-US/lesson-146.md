@@ -63,7 +63,7 @@ God will not forgive us any sin, whether mortal or venial, unless we have true c
 
 — It is a prayer by which we express to God our sorrow for and detestation of sin. 1. An act of contrition can be as short as this: "O my God, I am sorry with all my heart for having offended Thee, because Thou art all good!"
 
-> "Have mercy on me, O God, have mercy on me, for my soul trust eth in Thee" (Ps. 56: 2).
+> "Have mercy on me, O God, have mercy on me, for my soul trusteth in Thee" (Ps. 56: 2).
 
 2. An act of contrition is sufficient to forgive venial sins. We may therefore go to Holy Communion without confession if we have no mortal sin, after saying such an act.
 

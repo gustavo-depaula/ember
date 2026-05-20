@@ -17,7 +17,7 @@ Henry VIII, king of England, asked the Pope to grant him a divorce from his lawf
 
 3. The important object of marriage is to provide for the proper upbringing of children. This could not be attained if divorce were permitted.
 
-> What would become of the children if the parents were free to separate at their leisure? Court records show that many youthful criminals come from the broken homes 'of divorced parents. Divorce destroys the family and will some day, if not arrested, destroy the State.
+> What would become of the children if the parents were free to separate at their leisure? Court records show that many youthful criminals come from the broken homes of divorced parents. Divorce destroys the family and will some day, if not arrested, destroy the State.
 
 4. If the indissoluble character of Matrimony is well understood, even should, as may often happen, husband and wife disagree, their tendency would be to make up, not to rush to the divorce court.
 
@@ -36,7 +36,7 @@ Henry VIII, king of England, asked the Pope to grant him a divorce from his lawf
 
 3. The bond of the sacrament of matrimony lasts until the death of husband or wife. Christian marriage is indissoluble, except by death. Divorce, that is, the breaking of the marriage bond, with the right to remarry, is never permitted. By the law of God, the bond uniting husband and wife can be dissolved only by death.
 
-> "And he said to them: ... "Whoever puts away his wife and marries another, commits adultery against her; and if the wife puts away her husband and marries another, she commits adultery" (Mark 10: 11-12). "Everyone who puts away his wife, save on account of immorality, causes her to commit adultery; and he who marries a woman who has been put away commits adultery" (Matt. 5: 32).
+> "And he said to them: ... Whoever puts away his wife and marries another, commits adultery against her; and if the wife puts away her husband and marries another, she commits adultery" (Mark 10: 11-12). "Everyone who puts away his wife, save on account of immorality, causes her to commit adultery; and he who marries a woman who has been put away commits adultery" (Matt. 5: 32).
 
 4. No power on earth can break a Christian marriage. The indissolubility of marriage is not a law ordained by the Church, but by God. The Church cannot and will not tamper with the laws of God. As St. Paul said:
 

@@ -26,7 +26,9 @@ The most impressive of all solemn Masses is the High Mass of the Pope. The Pope 
 
 **Why is an offering made to the priest who says Mass?**
 
-— An offering is made to the priest who says Mass, to provide for the things necessary for the Sacrifice, and to assist in the support of the priest. 1. In the early years of the Church the faithful, wishing to participate more fully in the oblation, made offerings of bread and wine for the consecration.
+— An offering is made to the priest who says Mass, to provide for the things necessary for the Sacrifice, and to assist in the support of the priest.
+
+1. In the early years of the Church the faithful, wishing to participate more fully in the oblation, made offerings of bread and wine for the consecration.
 
 > Today, it is more convenient to make a money offering. The money is most certainly not the price of
 

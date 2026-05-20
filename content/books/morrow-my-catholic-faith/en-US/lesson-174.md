@@ -42,13 +42,13 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **Is perfect chastity especially pleasing to God?**
 
-— Yes, perfect chastity is a virtue most pleasing to God. 1, When God wished to give a mortal Mother to His Son, God chose the purest of the daughters of Juda, a virgin, Mary. When He wanted a protector for the Blessed Virgin and her future Child, God chose a virgin, Joseph, the most chaste of men. Christ Himself was a virgin, and the Apostle He loved best, the one who leaned on His breast at the Last Supper, and to whom He confided His Mother from the cross, was also a virgin, St. John the Evangelist.
+— Yes, perfect chastity is a virtue most pleasing to God. 1. When God wished to give a mortal Mother to His Son, God chose the purest of the daughters of Juda, a virgin, Mary. When He wanted a protector for the Blessed Virgin and her future Child, God chose a virgin, Joseph, the most chaste of men. Christ Himself was a virgin, and the Apostle He loved best, the one who leaned on His breast at the Last Supper, and to whom He confided His Mother from the cross, was also a virgin, St. John the Evangelist.
 
-> "O how beautiful is the chaste generation with glory, for the memory of it is immortal: because it is known both with God and with men" (Wis. 4: 1) .
+> "O how beautiful is the chaste generation with glory, for the memory of it is immortal: because it is known both with God and with men" (Wis. 4: 1).
 
 2. Priests and members of religious communities, both men and women, are bound to celibacy and perfect chastity. Celibacy is the state of being unmarried.
 
-> St. Paul commended the state of celibacy: "I say to the unmarried, and to widows, it is good for them if they so remain, even as I" (1 Cor. 7: 8). He said: "He who gives his virgin in marriage does well, and he who does not give her does better" (I Cor. 7: 38).
+> St. Paul commended the state of celibacy: "I say to the unmarried, and to widows, it is good for them if they so remain, even as I" (1 Cor. 7: 8). He said: "He who gives his virgin in marriage does well, and he who does not give her does better" (1 Cor. 7: 38).
 
 3. Even the heathen recognize and honour the virtue of virginal chastity. If the heathen respect those who prefer virginity to the married state, how much more should Christians respect those who, from supernatural motives, choose to live a life of chastity!
 
@@ -57,7 +57,7 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What is perfect obedience?**
 
-— Perfect obedience is the complete subjection of one's will to that of a superior. 1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: ''If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e; ''Come and be guided by Me in all things."
+— Perfect obedience is the complete subjection of one's will to that of a superior. 1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: ''If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
 
 > Christ was perfectly obedient to His heavenly Father. He never sought His own will, but always the will of the Father Who sent Him. He was obedient to His Mother and to St. Joseph.
 

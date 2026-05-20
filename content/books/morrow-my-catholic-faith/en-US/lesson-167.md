@@ -15,7 +15,7 @@ This table shows the line, and degree of relationship in connection with the per
 
 > Such an invalid marriage must be either dissolved, or the impediment removed by a dispensation, and the marriage performed validly. If a marriage is dissolved, the contracting parties are free to marry other partners, if they so wish.
 
-(b) Prohibitive (also called impedient or hindering) impediments render a marriage unlawful, illicit, but valid. In this case, the couple are married, though unlawfully. The marriage cannot he dissolved.
+(b) Prohibitive (also called impedient or hindering) impediments render a marriage unlawful, illicit, but valid. In this case, the couple are married, though unlawfully. The marriage cannot be dissolved.
 
 > Prohibitive impediments are easily dispensed, but good Catholics should prefer to comply with the wishes of the Church, which put these impediments for the good of her children.
 
@@ -24,7 +24,7 @@ This table shows the line, and degree of relationship in connection with the per
 
 — The chief diriment impediments are: 1. An existing marriage. One who is already married cannot marry again while the other party is still living. This impediment is never given a dispensation.
 
-> Should someone, believing his spouse dead, contract another, marriage, he must immediately leave the second spouse if the first be discovered living.
+> Should someone, believing his spouse dead, contract another marriage, he must immediately leave the second spouse if the first be discovered living.
 
 2. Coercion, In marriage, the contracting parties must give their consent freely. If undue stress is brought to bear on either party, so that he is forced to marry against his will, through abduction, violence, fear of bodily injury, of being disinherited, etc. the impediment is annulling, and there is no marriage.
 
@@ -36,7 +36,9 @@ This table shows the line, and degree of relationship in connection with the per
 
 4. Blood relationship or consanguinity.
 
-> The Church forbids the marriage of close relatives, in order to enforce the respect due to blood relations, and to increase the number of families bound together in friendship, thus promoting union among men. The prohibition also aims to prevent the birth of physically and mentally defective children, often found resulting from such marriages. As foreseen by the current Church law, no marriage is possible between those related by consanguinity in all degrees of the direct line, whether ascending or descending, legitimate or natural. (see fig. A and B.) 5. Close affinity. This means relationship by marriage. The survivor cannot marry the blood relations of his dead spouse in any degree of the direct line. (see Fig 1)
+> The Church forbids the marriage of close relatives, in order to enforce the respect due to blood relations, and to increase the number of families bound together in friendship, thus promoting union among men. The prohibition also aims to prevent the birth of physically and mentally defective children, often found resulting from such marriages. As foreseen by the current Church law, no marriage is possible between those related by consanguinity in all degrees of the direct line, whether ascending or descending, legitimate or natural. (see fig. A and B.)
+
+5. Close affinity. This means relationship by marriage. The survivor cannot marry the blood relations of his dead spouse in any degree of the direct line. (see Fig 1)
 
 6. Holy orders or Religious Profession. Men who have received major orders, monks and nuns who have taken a public perpetual vow of chastity even a simple vow (not solemn), cannot contract a valid marriage. 7. Disparity of worship. This is marriage between a Catholic and an unbaptised person. It is a diriment impediment which, without dispensation, renders an attempted marriage invalid.
 
@@ -49,6 +51,6 @@ This table shows the line, and degree of relationship in connection with the per
 
 **Which are the chief prohibitive impediments?**
 
-— The chief prohibitive impediments are: 1. Forbidden times (see page 349). 2. Private vows The Ordinary of the place, the priest who is to assist the marriage and the confessor have the power to dispense in danger of death. As the public temporary vows, the religious is dispensed ipso jure by the indult of secularization given by the Superior General of the Institute of pontifical right, or by the Bishop of the place for the Institute of diocesan right. 3. Mixed religion. The marriage of a Catholic to a baptised non-Catholic is a prohibitive impediment. Being valid, the marriage cannot he dissolved. With a dispensation, all requirements of the Church are complied with, all illicitness is removed.
+— The chief prohibitive impediments are: 1. Forbidden times (see page 349). 2. Private vows The Ordinary of the place, the priest who is to assist the marriage and the confessor have the power to dispense in danger of death. As the public temporary vows, the religious is dispensed ipso jure by the indult of secularization given by the Superior General of the Institute of pontifical right, or by the Bishop of the place for the Institute of diocesan right. 3. Mixed religion. The marriage of a Catholic to a baptised non-Catholic is a prohibitive impediment. Being valid, the marriage cannot be dissolved. With a dispensation, all requirements of the Church are complied with, all illicitness is removed.
 
 > Non-Catholics can marry validly among themselves, since the Church enforces its laws only among these under its care. If baptised non-Catholics marry validly, their marriage cannot be dissolved.

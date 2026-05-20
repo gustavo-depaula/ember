@@ -2,7 +2,7 @@
 
 ![](../images/lesson-135.webp)
 
-The altar cards contain some of the Mass prayers for the priest's convenience. Flowers may be used on the altar except during the penitential seasons, and at Masses for the dead. Along the whole front of the altar, when ready for Mass, is hung a rich and ornamented cloth called the antipendium, with colour varying according to the colour used for the Mass, in vestments, etc.
+The altar cards contain some of the Mass prayers for the priest's convenience. Flowers may be used on the altar except during the penitential seasons, and at Masses for the dead. Along the whole front of the altar, when ready for Mass, is hung a rich and ornamented cloth called the antependium, with colour varying according to the colour used for the Mass, in vestments, etc.
 
 
 **Where is the sacrifice of the Mass offered?**

@@ -44,7 +44,7 @@ The pages of history are filled with the names of Catholics outstanding in liter
 
 > Who can be a more law-abiding citizen than one who looks upon civil officials as superiors that God Himself bids him obey? Plutarch says that religion is a better protection for a city than its walls.
 
-2. The Church teaches its children to make sacrifices for the common good. Thus it trains unselfish, thrifty, and industrious members of the State. A man with no religion seldom, makes, a good citizen. He is liable to try always to get as much as he can even at the expense of others. A man without religion generally ends without any morality whatever.
+2. The Church teaches its children to make sacrifices for the common good. Thus it trains unselfish, thrifty, and industrious members of the State. A man with no religion seldom makes a good citizen. He is liable to try always to get as much as he can even at the expense of others. A man without religion generally ends without any morality whatever.
 
 > The prisons are in general peopled, not by practising members of the Church, but by people who neglected religion. Only God knows the number of those who have been turned from the paths of sin and crime on account of their connection with the Church.
 
@@ -54,7 +54,7 @@ The pages of history are filled with the names of Catholics outstanding in liter
 
 4. The greatest statesmen and patriots have recognized the necessity of religion in the State. Without religion among its citizens, the State would soon collapse. The Catholic Church teaches the best religion, the one taught by God Himself.
 
-> Washington said: "Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. In vain would that man claim the tribute of patriotism who should labour to subvert these great pillars of human happiness, these firmest props of the duties-of men and citizens." Machiavelli wrote: "The surest sign of ruin in a State is the neglect of religion." Napoleon himself confessed that no nation could endure without religion.
+> Washington said: "Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. In vain would that man claim the tribute of patriotism who should labour to subvert these great pillars of human happiness, these firmest props of the duties of men and citizens." Machiavelli wrote: "The surest sign of ruin in a State is the neglect of religion." Napoleon himself confessed that no nation could endure without religion.
 
 5. By a common profession of faith, a common membership in the same body, and by the commandment of charity, the Church binds different nations in one brotherhood, the brotherhood of men, children of one God. Such a feeling of brotherhood would help greatly towards eliminating sectional and racial prejudices and strife.
 

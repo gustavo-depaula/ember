@@ -30,13 +30,13 @@ Belief in the resurrection is very consoling. It was this belief that gave the e
 
 **Will our risen bodies be the same as those we had on earth?**
 
-- Yes, our risen bodies will he the same as those we had on earth.
+- Yes, our risen bodies will be the same as those we had on earth.
 
 If our risen bodies were not those we had on earth they would not be our bodies, and we would not be the same persons.
 
 > It could not be said then that there was resurrection, nor that our bodies had risen. The words of Job are most consoling in the truth they contain: "For I know that my Redeemer liveth, and in the last day I shall rise out of the earth" (Job 19: 25).
 
-2. During life the body is constantly changing putting on new growth and throwing away waste in bone, muscle, and skin, Yet it is always the same body.
+2. During life the body is constantly changing, putting on new growth and throwing away waste in bone, muscle, and skin. Yet it is always the same body.
 
 > So will it be in the resurrection. Whatever changes there are they will not affect the sameness of the body which we have on earth. In death the body only sleeps, awaiting the last day. Our Lord Himself said that Lazarus and the daughter of Jairus were asleep, although He knew they were dead.
 
@@ -47,9 +47,9 @@ If our risen bodies were not those we had on earth they would not be our bodies,
 
 **Why will the bodies of the just rise?**
 
-— The bodies of the just will rise to share forever in the glory of their souls,
+— The bodies of the just will rise to share forever in the glory of their souls.
 
-> "For this corruptible body must put on in corruption, and this mortal body must put on immortality" (1 Cor. 15: 53).
+> "For this corruptible body must put on incorruption, and this mortal body must put on immortality" (1 Cor. 15: 53).
 
 1. The risen body will be radiant and beautiful, if it is of a just person. It will have the qualities of Our Lord's risen Body, characterized by: (a) Impassibility.
 
@@ -61,7 +61,7 @@ If our risen bodies were not those we had on earth they would not be our bodies,
 
 (c) Agility
 
-> This quality will enable the risen body to pass with the quickness of thought to all parts of the universe. a
+> This quality will enable the risen body to pass with the quickness of thought to all parts of the universe.
 
 (d) Subtility, or spirituality.
 
@@ -69,21 +69,21 @@ If our risen bodies were not those we had on earth they would not be our bodies,
 
 2. The risen body, united to the soul, will remain in heaven forever, to glory in the presence of and in union with God.
 
-> When we are disheartened by the miseries of this life, misfortune, sickness, pains, and many other ills, including the difficulty of warding off sin. Let us find consolation in the thought that our body, now so weak and imperfect, will, if we persevere in the love and service of God, some day rise in glory and stand continually in His presence. "If the earthly house in which we dwell be destroyed, we have a building from God. a house not made by human hands, eternal in the heavens" (2 Cor. 5: 1).
+> When we are disheartened by the miseries of this life, misfortune, sickness, pains, and many other ills, including the difficulty of warding off sin. Let us find consolation in the thought that our body, now so weak and imperfect, will, if we persevere in the love and service of God, some day rise in glory and stand continually in His presence. "If the earthly house in which we dwell be destroyed, we have a building from God, a house not made by human hands, eternal in the heavens" (2 Cor. 5: 1).
 
 
 **Has the body of any human person ever been raised from the dead and taken into heaven?**
 
 — By the special privilege of her Assumption, the body of the Blessed Virgin Mary, preserved from corruption, was raised from the dead and taken into heaven.
 
-> Assumption" in this sense means the taking up of the Blessed Virgin's body into heaven. Her Assumption differs from Christ's. Ascension, in that He went up to heaven, body and soul, by His own unaided power, whereas Our Lady was taken up by the power of God, not her own. The dogma of the Assumption was proclaimed November 1, 1950.
+> Assumption" in this sense means the taking up of the Blessed Virgin's body into heaven. Her Assumption differs from Christ's Ascension, in that He went up to heaven, body and soul, by His own unaided power, whereas Our Lady was taken up by the power of God, not her own. The dogma of the Assumption was proclaimed November 1, 1950.
 
 
 **Why will the bodies of the damned also rise?**
 
 — The bodies of the damned will also rise, to share in the eternal punishment of their souls. 1. The risen body of the wicked will be hideous and repulsive, a horror to behold.
 
-> This should give pause to those whose chief thought on earth is to pamper and decorate their bodies. This life will last only a few decades; but in the resurrection there will be an eternity. Should we prefer to be painted and "beautiful" for these few decades, and become an object of a version for all eternity; or pay less attention to our body here on earth, so as to attain glory forever?
+> This should give pause to those whose chief thought on earth is to pamper and decorate their bodies. This life will last only a few decades; but in the resurrection there will be an eternity. Should we prefer to be painted and "beautiful" for these few decades, and become an object of aversion for all eternity; or pay less attention to our body here on earth, so as to attain glory forever?
 
 2. The risen bodies of the wicked, united to their souls, will remain condemned in hell forever, their companions other wicked souls, and devils, followers of Satan.
 

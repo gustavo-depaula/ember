@@ -2,7 +2,7 @@
 
 ![](../images/lesson-109.webp)
 
-God punishes the sin of impurity very severely even here on earth. For that , He destroyed all living things except those in the ark of Noe during the great deluge. "And God seeing that the wickedness of men was great said: I will destroy man" (Gen. 6). For the same sin God destroyed Sodom and Gomorrha: "And the Lord rained upon Sodom and Gomorrha brimstone and fire" (Gen. 19). Today the site of these cities is covered by the Dead Sea, an ever present reminder of the evil of impurity.
+God punishes the sin of impurity very severely even here on earth. For that, He destroyed all living things except those in the ark of Noe during the great deluge. "And God seeing that the wickedness of men was great said: I will destroy man" (Gen. 6). For the same sin God destroyed Sodom and Gomorrha: "And the Lord rained upon Sodom and Gomorrha brimstone and fire" (Gen. 19). Today the site of these cities is covered by the Dead Sea, an ever present reminder of the evil of impurity.
 
 "THOU SHALL NOT COMMIT ADULTERY." "THOU SHALT NOT COVET THY NEIGHBOUR'S WIFE"
 
@@ -30,7 +30,7 @@ God punishes the sin of impurity very severely even here on earth. For that , He
 
 1. This commandment forbids adultery, which is the unfaithfulness of a married person. It is a duty before God and men for married people to be true to each other. Adultery is a great evil which breaks up the harmony of the family, and brings punishments in this life and the next.
 
-> Adultery is a sin not only against chastity, but also against justice; because it is injustice towards the spouse of the married person. In the Old Law, the adulterer was punished with death. "For God will judge the immoral and adulterers" (Heb. 13: 4) . Married people should be most careful in avoiding even the appearance of unfaithfulness; when the spirit of jealousy enters, conjugal happiness goes out.
+> Adultery is a sin not only against chastity, but also against justice; because it is injustice towards the spouse of the married person. In the Old Law, the adulterer was punished with death. "For God will judge the immoral and adulterers" (Heb. 13: 4). Married people should be most careful in avoiding even the appearance of unfaithfulness; when the spirit of jealousy enters, conjugal happiness goes out.
 
 2. Matrimony is a holy state, through which Almighty God intends the propagation of the race. Actions in accordance with this purpose of matrimony are permitted to the married, but positively forbidden to the unmarried. Fornication is at all times a grave sin.
 
@@ -55,7 +55,7 @@ God punishes the sin of impurity very severely even here on earth. For that , He
 
 > A kiss is a demonstration of affection, and there is nothing intrinsically wrong with it; but it becomes sinful when used in such a manner as to provoke the passions. This is true also of other demonstrations, like embracing, etc. Undue familiarity rubs off the delicacy from girls, and the protective and gallant instinct from boys.
 
-4. Immoral books, magazines, and newspapers. Many are in attractive garb, but en kindle the passions and do harm.
+4. Immoral books, magazines, and newspapers. Many are in attractive garb, but enkindle the passions and do harm.
 
 > Today we have the National Organization for Decent Literature, and may be guided by its advice.
 

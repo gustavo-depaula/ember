@@ -26,22 +26,22 @@
 
 — Christ rose from the dead, glorious and immortal, on Easter Sunday, the third day after His death. 1. Christ had often foretold His resurrection.
 
-> He said of His own body; "Destroy this temple, and in three days I will raise it up" (John 2: 19). Before entering Jerusalem He said to His Apostles that He would be put to death and "rise again on the third day" (Matt. 20: 19). On the night of the Last Supper He said: "But after I have risen, I will go before you into Galilee" (Matt. 26: 32).
+> He said of His own body: "Destroy this temple, and in three days I will raise it up" (John 2: 19). Before entering Jerusalem He said to His Apostles that He would be put to death and "rise again on the third day" (Matt. 20: 19). On the night of the Last Supper He said: "But after I have risen, I will go before you into Galilee" (Matt. 26: 32).
 
 2. Even His enemies knew that He had predicted His resurrection. This is why they obtained Pilate's permission to seal the sepulchre and set guards to watch it.
 
-> They said to Pilate: "Sir, we have remembered how that deceiver said, while he was yet alive. 'After three days I will rise again'" (Matt. 27: 63).
+> They said to Pilate: "Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again'" (Matt. 27: 63).
 
 3. Today the entire Christendom celebrates Easter Sunday in memory of the Resurrection. It is the Feast of feasts, commemorating the completion of our redemption by Christ.
 
-> Easter is celebrated on the first Sunday following the first full moon of spring; the feast therefore is moveable, and can fall between March 22 and April 25, The Paschal season lasts till Trinity Sunday; till then the joyous alleluia resounds.
+> Easter is celebrated on the first Sunday following the first full moon of spring; the feast therefore is moveable, and can fall between March 22 and April 25. The Paschal season lasts till Trinity Sunday; till then the joyous alleluia resounds.
 
 
 **Why did Christ remain on earth forty days after His Resurrection?**
 
 — Christ remained on earth forty days after His Resurrection to prove that He had truly risen from the dead, and to complete the instruction of the Apostles. 1. Christ's resurrection is an undoubted fact on which rests the Christian faith.
 
-> St. Paul says: "If Christ has not risen,"vain then is our preaching, vain too is your faith" (1 Cor. 15: 14). And according to St. John, an eyewitness: "Many other signs also Jesus worked in the sight of his disciples, which are not written in this book. But these are written, that you may believe that Jesus is the Christ, the Son of God" (John 20: 30-31)
+> St. Paul says: "If Christ has not risen, vain then is our preaching, vain too is your faith" (1 Cor. 15: 14). And according to St. John, an eyewitness: "Many other signs also Jesus worked in the sight of his disciples, which are not written in this book. But these are written, that you may believe that Jesus is the Christ, the Son of God" (John 20: 30-31)
 
 2. In the first place, Christ really died. His death was witnessed by many, both friends and enemies. It was proved by the soldier who plunged his spear into His side. It was communicated officially to Pilate. His bones were not broken, because He was found already dead. His Mother and disciples would never have buried Him had they suspected the least chance of life.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-128.webp)
 
-At the consecration at Mass, the bread and wine are changed into the Body and Blood, Soul and Divinity of our Lord Jesus Christ. This is the Sacrament that Jesus instituted at the Last Supper (1). ln the Blessed Eucharist is the same Person who was born in Bethlehem (2), crucified on Calvary (3), and rose gloriously from the dead on the first Easter morning (4).
+At the consecration at Mass, the bread and wine are changed into the Body and Blood, Soul and Divinity of our Lord Jesus Christ. This is the Sacrament that Jesus instituted at the Last Supper (1). In the Blessed Eucharist is the same Person who was born in Bethlehem (2), crucified on Calvary (3), and rose gloriously from the dead on the first Easter morning (4).
 
 
 **What is the Holy Eucharist?**

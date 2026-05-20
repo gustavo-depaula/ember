@@ -15,7 +15,7 @@ Christ said, concerning scandalizing children: "But whoever causes one of these 
 
 > Grievous indeed must scandal be, to make our gentle Lord use such strong words of condemnation. "The Son of man will send forth his angels, and they will gather out of his kingdom all scandals and those who work iniquity, and cast them into the furnace of fire" (Matt. 13: 41-42).
 
-3. Some ways of giving bad example or scandal are: by indecent talk, by selling or circulating bad books or pictures, by singing improper songs, by dressing immodestly, by appearing in public in a state of drunkenness, by profanity and cursing, by doing servile work publicly on Sunday, by behaving in decorously in church, by ridiculing religion and priests, by writing against religion, by publicly violating one of the commandments of God or the Church, etc.
+3. Some ways of giving bad example or scandal are: by indecent talk, by selling or circulating bad books or pictures, by singing improper songs, by dressing immodestly, by appearing in public in a state of drunkenness, by profanity and cursing, by doing servile work publicly on Sunday, by behaving indecorously in church, by ridiculing religion and priests, by writing against religion, by publicly violating one of the commandments of God or the Church, etc.
 
 > We should be very careful in our actions, however innocent, so that they may not be the cause of scandal to others. "And if thy eye is an occasion of sin to thee, pluck it out and cast it from thee! It is better for thee to enter into life with one eye, than, having two eyes, to be cast into the hell of fire" (Matt. 18: 9).
 

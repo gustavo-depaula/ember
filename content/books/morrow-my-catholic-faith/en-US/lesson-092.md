@@ -32,7 +32,7 @@ In order to try Abraham's faith, God ordered him to sacrifice his beloved son Is
 
 — We worship God by acts of the virtues of faith, hope, charity, and religion. 1. True piety and adoration of God do not include a gloomy manner, a melancholy expression, and a hard exterior. True piety is cheerful, full of joy. "Serve God in gladness" (Ps. 99: 2).
 
-> They are mistaken who think that a forbidding demeanour continual groaning and sighings, weeping, etc., are pleasing to God. They only serve to repel others. We should remember that of all creatures, God loves most an innocent child. We shall not be mistaken in practices if we imitate him.
+> They are mistaken who think that a forbidding demeanour, continual groaning and sighings, weeping, etc., are pleasing to God. They only serve to repel others. We should remember that of all creatures, God loves most an innocent child. We shall not be mistaken in practices if we imitate him.
 
 2. In our devotions, we should avoid all singularity and exaggerations; these only make piety ridiculous and subject it to contempt. All devotions of extraordinary character, such as praying with outspread or upraised arms, should be done in private.
 
@@ -41,7 +41,7 @@ In order to try Abraham's faith, God ordered him to sacrifice his beloved son Is
 
 **What does faith oblige us to do?**
 
-— Faith obliges us: 1. To make efforts to find out what God has revealed. If one is ignorant of his religion, he must seek instruction. Parents are strictly forbidden to send their children to anti- Catholic schools.
+— Faith obliges us: 1. To make efforts to find out what God has revealed. If one is ignorant of his religion, he must seek instruction. Parents are strictly forbidden to send their children to anti-Catholic schools.
 
 > It is forbidden to read, print, lend, give or sell, books or periodicals against faith or morals.
 
@@ -51,7 +51,7 @@ In order to try Abraham's faith, God ordered him to sacrifice his beloved son Is
 
 3. To profess our faith openly whenever necessary. We are obliged to do so when we are challenged to make profession of it, or when an omission to do so would harm our neighbour or bring religion into contempt, or when we are questioned by lawful authority. We must never deny our faith.
 
-> Our Lord says: "Therefore everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32) .
+> Our Lord says: "Therefore everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32).
 
 
 **What does hope oblige us to do?**

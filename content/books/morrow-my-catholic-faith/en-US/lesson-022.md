@@ -56,7 +56,7 @@ Second, the sinner must be mindful of the serious wrong. - He must have full kno
 
 > The person must know the malice and evil of what he is doing. A man who steals a precious diamond ring in the belief that it is glass has not full knowledge. A man who throws a lighted match thoughtlessly aside may throw it into a gasoline tank and cause an explosion, but he has not full attention. "For I formerly was a blasphemer, a persecutor and a bitter adversary; but I obtained the mercy of God because I acted ignorantly, in unbelief" (1 Tim. 1: 13).
 
-Third, the sinner must fully consent to it. -He must do it of his own free will, saying deliberately, "I will do this."
+Third, the sinner must fully consent to it. - He must do it of his own free will, saying deliberately, "I will do this."
 
 > When one realizing what he is doing, still freely does it, he gives the matter deliberate consent. Therefore, infants and idiots cannot commit mortal sin; they cannot fully realize what they do.
 

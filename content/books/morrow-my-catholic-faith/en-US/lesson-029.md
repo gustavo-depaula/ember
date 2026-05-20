@@ -47,7 +47,9 @@ Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Fat
 
 **What does the name Jesus mean?**
 
-— The name Jesus means Saviour or Redeemer. 1. Our Lord is called Jesus because He came to save men from sin, and to open the doors of heaven to them.
+— The name Jesus means Saviour or Redeemer.
+
+1. Our Lord is called Jesus because He came to save men from sin, and to open the doors of heaven to them.
 
 > Before the birth of Our Lord, an angel appeared to St. Joseph and said: "Thou shalt call His name Jesus" (Matt. 1: 21). At the Annunciation the angel Gabriel had spoken the same words to Mary. "After eight days were accomplished, that the child should be circumcised, His name was called Jesus" (Luke 2: 21).
 
@@ -58,7 +60,7 @@ Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Fat
 
 **What does the name Christ mean?**
 
-— The name Christ means "The Anointed One". 1. "Christ" is a Greek word, with the same meaning as "Messi as". In the Old Law, it was the custom to anoint with oil prophets, high priests, and kings.
+— The name Christ means "The Anointed One". 1. "Christ" is a Greek word, with the same meaning as "Messias". In the Old Law, it was the custom to anoint with oil prophets, high priests, and kings.
 
 > Our Lord is the greatest of the Prophets. He is the High Priest Who offers Himself for all mankind. He is the King of angels and men. Therefore it is fitting that we should call Him Christ. He truly is the Anointed One.
 

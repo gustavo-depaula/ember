@@ -21,7 +21,7 @@ The ceremonies of Confirmation begin by the Bishop extending his hands over thos
 
 3. We should receive the sacrament of Confirmation at the age when we pass from childhood to youth. At that period, all kinds of temptations surround us, and we need special strength from God to resist them.
 
-> In the early days of the Church, it was the custom to confirm very young children. The sacrament of Confirmation is today delayed in order that the recipient may first have a basic of knowledge of the fundamentals of faith. Even when Confirmation is administered to infants and very young children, they truly receive the sacrament. The age is a matter of discipline in particular dioceses.
+> In the early days of the Church, it was the custom to confirm very young children. The sacrament of Confirmation is today delayed in order that the recipient may first have a basic knowledge of the fundamentals of faith. Even when Confirmation is administered to infants and very young children, they truly receive the sacrament. The age is a matter of discipline in particular dioceses.
 
 
 **What is necessary to receive Confirmation properly?**

@@ -17,7 +17,7 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 2. In making the Way of the Cross, we visit the stations consecutively pausing at each one, and meditating on the scene which is represented by the station.
 
-> It is advisable and usual to go from station to station in the church. It is enough to meditate on the Passion, without saying any set prayers, although it is usual to recite one Our Father, one Hail Mary, and one Glory he to the Father at each station. A favourite ejaculation said at the beginning of the mediation before each station is: "We adore Thee, O Christ, and we bless Thee. Because by Thy holy cross Thou hast redeemed the world."
+> It is advisable and usual to go from station to station in the church. It is enough to meditate on the Passion, without saying any set prayers, although it is usual to recite one Our Father, one Hail Mary, and one Glory be to the Father at each station. A favourite ejaculation said at the beginning of the meditation before each station is: "We adore Thee, O Christ, and we bless Thee. Because by Thy holy cross Thou hast redeemed the world."
 
 3. The Way of the Cross is a most profitable devotion. Meditation on the Passion of Our Lord leads us into contrition and the practice of virtue. A plenary indulgence is attached to this devotion.
 
@@ -32,7 +32,7 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 > Any suitable prayers may be used in making a novena. The best way, however, is to hear mass and receive Holy Communion daily as practices for the novena.
 
-2. Novenas are commonly said in preparation. for a specified feast. They usually end with a general communion of those who took part.
+2. Novenas are commonly said in preparation for a specified feast. They usually end with a general communion of those who took part.
 
 > The novenas most often made are: for Pentecost, for Christmas, for *Corpus Christi*, for Christ the King, for the feast of Our Lady of the Most Holy Rosary, for the Immaculate Conception, for St. Joseph, for the Guardian Angels, for the patron saint of the community. The "Novena of Grace" in honour of St. Francis Xavier's canonization has been productive of innumerable and extraordinary favours. It is said from March 3 to March 11,
 
@@ -62,7 +62,7 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 **What are retreats?**
 
-— Retreats are a series of spiritual exercises and religious services held in convents, schools, and similar institutions, for a certain class of persons, whether priests, nuns, schoolchildren, a laymen, or laywomen. 1. The retreat is similar to a Mission, and has about the same effect. It is better than a Mission in the sense that the retreat master can particularize his discourses, as those present are supposed to belong to only one class of individuals having similar tastes and similar problems.
+— Retreats are a series of spiritual exercises and religious services held in convents, schools, and similar institutions, for a certain class of persons, whether priests, nuns, schoolchildren, laymen, or laywomen. 1. The retreat is similar to a Mission, and has about the same effect. It is better than a Mission in the sense that the retreat master can particularize his discourses, as those present are supposed to belong to only one class of individuals having similar tastes and similar problems.
 
 > It is also better than a mission in as much as it can lead to more devotion; complete silence during the course of the retreat is usually required. Those taking part leave for the period all occupations and worldly amusements.
 

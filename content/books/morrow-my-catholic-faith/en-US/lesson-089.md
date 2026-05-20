@@ -20,7 +20,7 @@
 
 2. To give drink to the thirsty.
 
-> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9: 40) . Giving medicine belongs to this work of mercy, Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
+> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9: 40). Giving medicine belongs to this work of mercy, Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
 
 3. To clothe the naked. — Many make a practice of giving clothes to the poor; other gifts belong to this kind of alms.
 
@@ -32,9 +32,11 @@
 
 5. To shelter the homeless. — Those who do this work of mercy are like the Good Samaritan. Those who provide clean and comfortable homes for the poor at low rates of rent practice this work of mercy.
 
-> St. Paul said. "Hospitality do not forget; for by this some, not being aware of it, have entertained angels" (Heb. 13: 2). In olden times travellers stopped for the night or for food in the monasteries.
+> St. Paul said, "Hospitality do not forget; for by this some, not being aware of it, have entertained angels" (Heb. 13: 2). In olden times travellers stopped for the night or for food in the monasteries.
 
-In the Alps, the monks of St. Bernard perform this work of mercy when they rescue, with the aid of their famous breed of dogs, travellers who have met with accidents. 6. To visit the sick. — When we visit the sick in order to give them temporal or spiritual relief, we do an act of mercy.
+> In the Alps, the monks of St. Bernard perform this work of mercy when they rescue, with the aid of their famous breed of dogs, travellers who have met with accidents.
+
+6. To visit the sick. — When we visit the sick in order to give them temporal or spiritual relief, we do an act of mercy.
 
 > To build, support, or aid a hospital or a patronage for the sick is a most meritorious act of charity. Doctors and nurses who perform their duties to please God will be rewarded in heaven. Several religious orders have been founded for the express purpose of taking care of the sick, such as the orders founded by Sts. John of God and Vincent de Paul.
 

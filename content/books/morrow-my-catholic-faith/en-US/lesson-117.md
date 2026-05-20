@@ -15,7 +15,7 @@ Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to ru
 
 > "He therefore said to them again, 'Peace be to you! As the Father has sent me, I also send you' (John 20: 21).
 
-3.We are under a rigorous obligation to obey the laws or precepts of the Church. Disobedience to the Church is disobedience to God Who gave it full authority.
+3. We are under a rigorous obligation to obey the laws or precepts of the Church. Disobedience to the Church is disobedience to God Who gave it full authority.
 
 > A bad Catholic once said to a friend, "God will not punish me for not keeping the Church laws on fasting and abstinence. I observe all the Ten Commandments, and I do not need to obey the laws made only by the Church." But the friend answered, "Did not God command us to hear the Church? Then if we do not obey its laws, we disobey Him as well."
 
@@ -30,9 +30,9 @@ Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to ru
 
 > Those who appeal from the decisions of the Pope to a general council are excommunicated.
 
-3. A good Catholic shows obedience to God by conforming himself not only to the letter, but to the spirit of the laws of the Church. He obeys strictly what the Church commands, praises what is praises, condemns what it condemns. The Church is our Mother, good and wise, who looks only to our temporal and spiritual welfare; let us show our love for her by the obedience we render.
+3. A good Catholic shows obedience to God by conforming himself not only to the letter, but to the spirit of the laws of the Church. He obeys strictly what the Church commands, praises what it praises, condemns what it condemns. The Church is our Mother, good and wise, who looks only to our temporal and spiritual welfare; let us show our love for her by the obedience we render.
 
-> The Church is our Mother, given us by Christ Himself, to guide us until He comes again. If we obey this guide' we shall have peace on earth, and eternal happiness with God in heaven. The Church can truly say with our Divine Saviour: "My yoke is easy, and my burden light" (Matt. 11: 30).
+> The Church is our Mother, given us by Christ Himself, to guide us until He comes again. If we obey this guide, we shall have peace on earth, and eternal happiness with God in heaven. The Church can truly say with our Divine Saviour: "My yoke is easy, and my burden light" (Matt. 11: 30).
 
 4. The laws of the Church, in general, do not command things which are of their nature obligatory. For example, abstinence for certain days is not a natural law, but a human law. Therefore, this being the case, the Church that made such human laws can also dispense from them, change them, or abolish them altogether.
 
@@ -46,10 +46,10 @@ Our Lord Jesus Christ gave His Church the power to teach, to sanctify, and to ru
 
 **Are there any other commandments, or laws, of the Church, besides these six?**
 
-— There are many other commandments, or laws, of the Church besides these six; but these are the principal ones, and the ones with which the ordinary life of Catholics is concerned. 1. A Catholic is bound to observe all of the precepts of the Church. Some of them forbid: (a) The reading or possession of bad books, magazines, and other publications. (b) Membership in Masonic or other anti- Catholic associations. (c) Cremation of the bodies of the dead. (d) The education of Catholic children in non-Catholic schools; etc.
+— There are many other commandments, or laws, of the Church besides these six; but these are the principal ones, and the ones with which the ordinary life of Catholics is concerned. 1. A Catholic is bound to observe all of the precepts of the Church. Some of them forbid: (a) The reading or possession of bad books, magazines, and other publications. (b) Membership in Masonic or other anti-Catholic associations. (c) Cremation of the bodies of the dead. (d) The education of Catholic children in non-Catholic schools; etc.
 
 > Laws for the government of the Catholic Church are contained in the Code of Canon Law, which at present contains 2414 canons. From time to time, as necessity arises, the Pope through the different Roman Congregations issues decrees, laws, or regulations for the welfare of the Church. Catholics are obliged to obey these laws.
 
 2. The Church, through its rulers, has the power to dispense from its precepts. The Pope, the bishops, and the parish priests may for weighty reasons release or excuse the faithful from the observance of particular Church laws.
 
-> It may happen that in a certain community the patron al feast may fall on a Friday of Lent. Because of the unusually great number of people, it would be difficult to provide abstinence food for everybody. In such cases, the Bishop may grant a dispensation from abstinence, and even fasting, locally.
+> It may happen that in a certain community the patronal feast may fall on a Friday of Lent. Because of the unusually great number of people, it would be difficult to provide abstinence food for everybody. In such cases, the Bishop may grant a dispensation from abstinence, and even fasting, locally.

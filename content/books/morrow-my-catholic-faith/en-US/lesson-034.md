@@ -47,7 +47,7 @@ After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani.
 
 1. From the Last Supper, Christ went with His Apostles to the Garden of Olives to pray. There He was overwhelmed with sorrow and agony, so that He sweated blood.
 
-> Our Lord looked forward to His agony, saying to His Apostles, "That the, world may know that I love the Father, and that I do as the Father has commanded me. Arise, let us go from here" (John 14: 31) . In the Garden, Jesus felt so sad at the sins of men and at what would befall Him that He said, "My soul is sad even unto death" (Matt. 26: 38). To His Father, He cried out in pain, "Father, if thou art willing, remove this cup from me; yet not my will, but thine, be done" (Luke 22: 42). In agony, "his sweat became as drops of blood, running down upon the ground" (Luke 22: 44).
+> Our Lord looked forward to His agony, saying to His Apostles, "That the world may know that I love the Father, and that I do as the Father has commanded me. Arise, let us go from here" (John 14: 31). In the Garden, Jesus felt so sad at the sins of men and at what would befall Him that He said, "My soul is sad even unto death" (Matt. 26: 38). To His Father, He cried out in pain, "Father, if thou art willing, remove this cup from me; yet not my will, but thine, be done" (Luke 22: 42). In agony, "his sweat became as drops of blood, running down upon the ground" (Luke 22: 44).
 
 2. Jesus Christ was betrayed by Judas, seized by soldiers, led before the high priest, and condemned to death. The Sanhedrin, the council of the Jews, headed by Caiphas the high priest, condemned Jesus to death for the crime of blasphemy, because He claimed to be Christ the Son of God.
 
@@ -57,7 +57,7 @@ After the Last Supper, Jesus went with His Apostles to the Garden of Gethsemani.
 
 > The Jewish Priests and Pharisees hated and persecuted Jesus because they expected the Messias to be an earthly king. They were so wicked that in spite of the proofs of Christ's divinity, they would not believe a poor man could be the Messias. They hated Jesus; He had rebuked them for their sins.
 
-4. But Pilate wished to please the Jews, and had Jesus scourged, Jesus was bound to a pillar, His clothes torn off; strong men with whips, cords, and straps with iron spikes scourged Him, and the whole body of Our Lord was one great wound.
+4. But Pilate wished to please the Jews, and had Jesus scourged. Jesus was bound to a pillar, His clothes torn off; strong men with whips, cords, and straps with iron spikes scourged Him, and the whole body of Our Lord was one great wound.
 
 > "And the soldiers, plaiting a crown of thorns, put it upon his head, and arrayed him in a purple cloak. And they kept coming to him and saying, 'Hail, King of the Jews!' and striking him. Pilate therefore again went outside and said to them, 'Behold, I bring him out to you, that you may know that I find no guilt in him.' Jesus therefore came forth, wearing the crown of thorns and the purple cloak. And he said to them, 'Behold the man!'"
 

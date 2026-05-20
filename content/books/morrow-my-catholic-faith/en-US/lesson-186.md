@@ -11,7 +11,9 @@
 
 **What kinds of religious practices are observed in the Church?**
 
-— There are two kinds of religious practices observed in the Church: the ordinary and the extraordinary. 1. The ordinary practices take place at regularly appointed times. They are the regular services held in the parish church on Sundays and holydays, and during weekdays, both in the morning and in the afternoon.
+— There are two kinds of religious practices observed in the Church: the ordinary and the extraordinary.
+
+1. The ordinary practices take place at regularly appointed times. They are the regular services held in the parish church on Sundays and holydays, and during weekdays, both in the morning and in the afternoon.
 
 > On Sundays and holy days, in all parish churches one or more Masses are said, according to the number of priests and the size of the parish. At each of those Masses a sermon is preached. In many parishes, there are special services, such as the recital of the Rosary, or benediction of the Blessed Sacrament. On weekdays one or more Masses are said. Especially in May, June, and October, there is usually exposition of the Blessed Sacrament and the recital of the Rosary. Masses are said in the afternoon with the approval of the bishop.
 

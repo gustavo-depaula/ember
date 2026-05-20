@@ -24,7 +24,9 @@ The Book of Genesis describes the creation of the first man and the first woman 
 
 **Is this likeness to God in the body or in the soul?**
 
-— This likeness to God is chiefly in the soul. Man continues in this likeness to God only when he remains in God's grace, for then he is a "partaker of the divine nature" (2 Pet. 1: 4). 1. Like God, man's soul is an immortal spirit, with understanding and free will. Some deny the existence of the soul, because it cannot be seen; yet the same people would not deny the existence of human reason, even if this cannot be seen, either.
+— This likeness to God is chiefly in the soul. Man continues in this likeness to God only when he remains in God's grace, for then he is a "partaker of the divine nature" (2 Pet. 1: 4).
+
+1. Like God, man's soul is an immortal spirit, with understanding and free will. Some deny the existence of the soul, because it cannot be seen; yet the same people would not deny the existence of human reason, even if this cannot be seen, either.
 
 > Some claim that man has two souls, one good and one evil, striving for mastery. But the struggle that we often experience comes from only one soul with different tendencies arising from the fact of our being made of both body and soul, partly material and partly spiritual. In a living person, the soul should not be considered apart from the body; their union is as close as the relation between a musician and his instrument at the hour of a concert.
 

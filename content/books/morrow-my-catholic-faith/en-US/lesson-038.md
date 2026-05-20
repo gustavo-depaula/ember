@@ -11,7 +11,7 @@
 
 — The Holy Ghost is God and the Third Person of the Blessed Trinity. 1. Christ often spoke of the Holy Ghost.
 
-> One of the most solemn occasions was when He Charged the Apostles: "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28: 19).
+> One of the most solemn occasions was when He charged the Apostles: "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28: 19).
 
 2. On certain occasions, the Holy Ghost appeared in visible form. When Christ was baptised by John the Baptist, the Holy Ghost appeared in the form of a dove. On Pentecost, the Holy Ghost descended with a mighty rushing wind, and rested over the Apostles in the form of tongues of fire.
 
@@ -23,7 +23,7 @@
 
 4. The Holy Ghost is equal to the Father and the Son, because He is God.
 
-> True God as the Father and the Son are, the Holy Ghost is eternal, all-knowing, almighty. The Third Person is called Holy Spirit, from the Latin word *spiritus*, a breath. He was breathed forth by the Father and the Son. In English, we also call Him; Holy Ghost. Other names used to refer to the Holy Ghost are: Advocate, Paraclete, Consoler, Comforter, Substantial Love, Spirit of Truth, etc.
+> True God as the Father and the Son are, the Holy Ghost is eternal, all-knowing, almighty. The Third Person is called Holy Spirit, from the Latin word *spiritus*, a breath. He was breathed forth by the Father and the Son. In English, we also call Him: Holy Ghost. Other names used to refer to the Holy Ghost are: Advocate, Paraclete, Consoler, Comforter, Substantial Love, Spirit of Truth, etc.
 
 
 **What does the Holy Ghost do for the salvation of mankind?**
@@ -32,7 +32,7 @@
 
 > "Do you not know that you are the temple of God and that the Spirit of God dwells in you?" (1 Cor. 3: 16).
 
-2. After Baptism, we have the Holy Ghost in our hearts and He remains with us as long as we have no mortal sin on our souls. This is the gift of"sanctifying grace".
+2. After Baptism, we have the Holy Ghost in our hearts and He remains with us as long as we have no mortal sin on our souls. This is the gift of "sanctifying grace".
 
 > Then we say that the Spirit of God dwells in us. We should therefore treat our body with great reverence, for it is the temple of the Holy Spirit. The Holy Ghost is given in a very special manner in the sacraments of Confirmation and Holy Orders.
 

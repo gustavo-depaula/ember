@@ -37,7 +37,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 **What is the Church?**
 
-— The Church is the congregation of all baptised persons united in the same true faith, the same sacrifice, and the same sacraments, under the authority of the Sovereign Pontiff and the bishops in communion with him. 1. Even considering it only as a visible society, the Church is a perfect religious body.
+— The Church is the congregation of all baptised persons united in the same true faith, the same sacrifice, and the same sacraments, under the authority of the Sovereign Pontiff and the bishops in communion with him.
+
+1. Even considering it only as a visible society, the Church is a perfect religious body.
 
 > All members are subject to the same religious authority, possess identical religious doctrines, live a common religious life, and use the same means of grace, the sacraments.
 

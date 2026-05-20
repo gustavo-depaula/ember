@@ -26,7 +26,9 @@ God is Almighty. He can make anything from nothing, by a mere act of His divine 
 
 **In how many days did God create the world?**
 
-— God created the world in six days, resting on the seventh day. 1. These "days" of creation reveal God as standing outside and above all created things, creating them and ordering them. These “days” can be taken as longer periods of time than 24 hours since our sun had not yet appeared. Thus the “seventh day” is still going on. For Holy Scripture says that on that day God rested.
+— God created the world in six days, resting on the seventh day.
+
+1. These “days” of creation reveal God as standing outside and above all created things, creating them and ordering them. These “days” can be taken as longer periods of time than 24 hours since our sun had not yet appeared. Thus the “seventh day” is still going on. For Holy Scripture says that on that day God rested.
 
 > The Hebrew word for “day” may stand for a day, a week, a month, a century, or any indefinite period of time. The Church states that one may take the “days” of Creation in the proper sense as a natural day, or in the improper sense as a certain space of time. In these matters, the faithful must believe the infallible veracity of Scripture and always be ready to submit to the final judgement of the Church on its interpretation.
 

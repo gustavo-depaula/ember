@@ -18,7 +18,7 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 2. Employers who force their employees to do unnecessary servile work on Sunday are responsible for the violation of the Third Commandment. Employers should make it possible for the employees to comply with their religious duties.
 
-> The trial of lawsuits and public buying and selling, are also forbidden. Catholics should make provision on Saturday for their food and' other necessities of Sunday, so that no store may be forced to keep open.
+> The trial of lawsuits and public buying and selling, are also forbidden. Catholics should make provision on Saturday for their food and other necessities of Sunday, so that no store may be forced to keep open.
 
 3. The non-observance of Sunday is often attended with material evils, such as poverty and sickness. God is the God of nature as well as of the Law.
 
@@ -48,9 +48,7 @@ The illustration shows a parish church on a Sunday morning. The people are haste
 
 — Amusements are not forbidden on Sunday. Only those that interfere with the Sunday obligations are forbidden. 1. Sunday is a day of rest. On Sunday, therefore, we are permitted to relax from our daily work in wholesome recreation.
 
-> Not too much emphasis should be given in competitive games as to which side wins or loses. A good loser is better than a poor winner who is proud of himself. "God blessed the seventh day and sanctified it because in it, He had rested from all His work"
-
-> (Gen.2;3) If God, Who needed no "rest", chose to stop His work of creation, we should imitate His divine example and rest after six days of labour. The experience of all peoples has borne out the wisdom of this practice of resting one day out of the week. As an example, we may cite the case of the French Revolution. The French atheists in control wished to change the old order completely, and went so far as to change the number of days in the week to ten. They could not, however, retain the new week, for even the work animals, unable to endure work without rest, died of exhaustion.
+> Not too much emphasis should be given in competitive games as to which side wins or loses. A good loser is better than a poor winner who is proud of himself. "God blessed the seventh day and sanctified it because in it, He had rested from all His work" (Gen. 2:3) If God, Who needed no "rest", chose to stop His work of creation, we should imitate His divine example and rest after six days of labour. The experience of all peoples has borne out the wisdom of this practice of resting one day out of the week. As an example, we may cite the case of the French Revolution. The French atheists in control wished to change the old order completely, and went so far as to change the number of days in the week to ten. They could not, however, retain the new week, for even the work animals, unable to endure work without rest, died of exhaustion.
 
 2. To attend entertainments such as dances up to a late hour on Saturday night, even when in themselves they are not wrong, is a poor way of preparing for the Lord's day. Those who stay up late Saturday night are inclined to oversleep on Sunday morning. As a result, if they do not omit Mass altogether, they will not hear it devoutly.
 

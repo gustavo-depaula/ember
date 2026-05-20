@@ -30,7 +30,7 @@
 
 > If we cannot remember the exact number of our mortal sins, we should tell the number as nearly as possible, or say how often we have committed the sins in a day, a week, a month, or a year. When we have committed no mortal sin since our last confession, we should confess our venial sins, or some sin told in a previous confession, for which we are again sorry, in order that the priest may give us absolution.
 
-3. Having finished, we say: "For these and all the sins of my past life I am truly sorry, especially for . ." and then it is well to tell one or several of the sins which we have previously confessed, and for which we are particularly sorry.
+3. Having finished, we say: "For these and all the sins of my past life I am truly sorry, especially for . . ." and then it is well to tell one or several of the sins which we have previously confessed, and for which we are particularly sorry.
 
 
 **What should we do after confessing our sins?**

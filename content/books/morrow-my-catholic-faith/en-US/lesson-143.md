@@ -13,7 +13,7 @@ We should receive Our Lord in the Eucharist with the faith and love of a child. 
 
 2. An increase of sanctifying grace. Holy Communion makes us more pleasing to God by an increase of grace, making us live in Him and made like unto Him.
 
-> As St. Thomas says, "As an offshoot from a good tree, when grafted upon a wild one, draws out its bitter taste, and makes it bear good fruit, so the body of Jesus Christ, when in grafted in us, corrects our faults, and enables us to bring forth fruits of justice like unto those He Himself performs."
+> As St. Thomas says, "As an offshoot from a good tree, when grafted upon a wild one, draws out its bitter taste, and makes it bear good fruit, so the body of Jesus Christ, when ingrafted in us, corrects our faults, and enables us to bring forth fruits of justice like unto those He Himself performs."
 
 3. Preservation from mortal sin and the remission of venial sin.
 
@@ -32,7 +32,7 @@ We should receive Our Lord in the Eucharist with the faith and love of a child. 
 
 2. If our work or duties prevent our staying in church to give proper thanksgiving, let us remain recollected and in union with Jesus on our way home; and let us remember Him with love throughout the entire day.
 
-> Once St. Philip Neri noticed that a certain parishioner, for no reason, habitually left the church immediately after receiving Holy Communion. In order to correct him, he told two acolytes one day to accompany the man with lighted candles as he walked home. The acolytes did as they were told. The people in the streets stared in surprise, and the man seeing his escort asked them the reason for their following him. They replied that Father Philip Neri had so instructed them. The man returned to the church to find out St, Philip's purpose. The Saint answered, "We have to pay proper respect to Our Lord, Whom you are carrying away with you. Since you neglect to adore Him, I sent two acolytes to take your place." Realizing his fault, the man knelt and made the proper thanksgiving after Holy Communion.
+> Once St. Philip Neri noticed that a certain parishioner, for no reason, habitually left the church immediately after receiving Holy Communion. In order to correct him, he told two acolytes one day to accompany the man with lighted candles as he walked home. The acolytes did as they were told. The people in the streets stared in surprise, and the man seeing his escort asked them the reason for their following him. They replied that Father Philip Neri had so instructed them. The man returned to the church to find out St. Philip's purpose. The Saint answered, "We have to pay proper respect to Our Lord, Whom you are carrying away with you. Since you neglect to adore Him, I sent two acolytes to take your place." Realizing his fault, the man knelt and made the proper thanksgiving after Holy Communion.
 
 
 **How should we show our gratitude to Our Lord for remaining always on our altars in the Holy Eucharist?**

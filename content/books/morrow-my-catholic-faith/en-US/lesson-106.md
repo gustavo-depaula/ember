@@ -9,7 +9,7 @@ The first murder on earth was committed by Cain when he killed Abel. "And Cain s
 
 **What are we commanded by the Fifth Commandment?**
 
-— By the fifth commandment, we are commanded to take proper care of our own spiritual and bodily well-being and that of our neighbour. Sins included in his commandment are many, such as: murder, suicide, anger, fighting, hatred, scandal and bad example.
+— By the fifth commandment, we are commanded to take proper care of our own spiritual and bodily well-being and that of our neighbour. Sins included in this commandment are many, such as: murder, suicide, anger, fighting, hatred, scandal and bad example.
 
 
 **What is murder?**

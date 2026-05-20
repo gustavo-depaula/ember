@@ -39,7 +39,7 @@ During Holy Week the Church lives again the passion and death of Christ. On the 
 
 4. After His death, Our Lord's body was taken down from the cross and laid in the grave which belonged to Joseph of Arimathea. Then His disciples rolled up a great stone to close the tomb.
 
-> The chief priests and the Pharisees went in a body to Pilate, saying, 'Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again.' Give orders, therefore, that the sepulchre be guarded until the third day, or else his disciples may come and steal him away, and say to the people, 'He has risen from the dead'; and the last imposture will be worse than the first." Pilate said to them, 'You have a guard; go, guard it as well as you know how.' So they went and made the sepulchre secure, scaling the stone, and setting the guard (Matt. 27: 63 - 66)
+> The chief priests and the Pharisees went in a body to Pilate, saying, 'Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again.' Give orders, therefore, that the sepulchre be guarded until the third day, or else his disciples may come and steal him away, and say to the people, 'He has risen from the dead'; and the last imposture will be worse than the first." Pilate said to them, 'You have a guard; go, guard it as well as you know how.' So they went and made the sepulchre secure, scaling the stone, and setting the guard (Matt. 27: 63 - 66).
 
 
 **What do we learn from the sufferings and death of Christ?**

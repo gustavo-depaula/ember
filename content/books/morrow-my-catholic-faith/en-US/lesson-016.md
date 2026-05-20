@@ -13,7 +13,7 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 1. We also call them demons or fallen angels. Led by the most excellent of the angels created by God, Lucifer or Satan, the bad angels refused to obey God when He tested them. God did not give them a chance to repent, but cast them at once into hell.
 
-> "How art thou fallen from heaven, O Lucifer. ... Thou said st in thy heart: 'I will ascend into heaven, ... I will be like the Most High,'" (Is. 14: 12-14). Jesus said, "I was watching Satan fall as lightning from heaven" (Luke 10: 18).
+> "How art thou fallen from heaven, O Lucifer. ... Thou saidst in thy heart: 'I will ascend into heaven, ... I will be like the Most High,'" (Is. 14: 12-14). Jesus said, "I was watching Satan fall as lightning from heaven" (Luke 10: 18).
 
 2. God did not create devils, but glorious angels. The rebel angels turned themselves into devils by their sin.
 
@@ -22,7 +22,7 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 **What is the chief way in which the bad angels try to harm us?**
 
-— The chief way in which the bad angels try to harm us is by tempting us to sin. 1.The bad angels tempt man and try to draw him away from God. Often the devil appears as an angel of light, and we are tempted by evil which appears good. Under this guise, the devil is most dangerous.
+— The chief way in which the bad angels try to harm us is by tempting us to sin. 1. The bad angels tempt man and try to draw him away from God. Often the devil appears as an angel of light, and we are tempted by evil which appears good. Under this guise, the devil is most dangerous.
 
 > "Be sober, be watchful! For your adversary the devil, as a roaring lion, goes about seeking someone to devour" (1 Pet 5: 8-9).
 

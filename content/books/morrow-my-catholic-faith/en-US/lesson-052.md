@@ -9,7 +9,7 @@ The Catholic Church is One, because it has one Divine Founder, God Himself, Who 
 
 — The Catholic Church is one because all its members, according to the will of Christ, profess the same faith, have the same sacrifice and sacraments, and are united under one and the same visible head, the Pope. 1. They have unity in doctrine, worship, and government. They have "One Lord, one Faith, one Baptism." There has never been any other society, religion, or government whose members are so closely united.
 
-> If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3: 24). "Holy Father, keep in thy name those whom thou hast given me, that they may be one even as we are" (John 17: 11).
+> "If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3: 24). "Holy Father, keep in thy name those whom thou hast given me, that they may be one even as we are" (John 17: 11).
 
 2. There are about 1.2 billion Catholics united in doctrine. This unity is evident and admitted by all. All Catholics everywhere believe each and every article of faith proclaimed by the Church. Wherever a Catholic goes throughout the world, he will find his home in the Catholic Church. There he will find his brethren in Christ all believing as he does. If he deliberately denies even one article of faith of the Church, he ceases to belong to it.
 

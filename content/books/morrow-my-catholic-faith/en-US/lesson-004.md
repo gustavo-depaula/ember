@@ -42,7 +42,7 @@ God is eternal: He has no beginning and no end. Before there ever was anything, 
 
 — When we say that God is all-present, we mean that He is everywhere. 1. God is all-present, because there is nothing that can have existence apart from Him. All creation exists in Him as thought exists in the mind. There is no place where God is not.
 
-> "'Do I not fill heaven and earth?' saith the Lord" (Jer. 23: 24). "In Him we live and move and have our being'' (Acts 17: 28). However, we must not make the mistake of thinking that God, in Whom everything exists, is limited by this everything. He has no limits, and exists outside as well as in all creation.
+> "'Do I not fill heaven and earth?' saith the Lord" (Jer. 23: 24). "In Him we live and move and have our being" (Acts 17: 28). However, we must not make the mistake of thinking that God, in Whom everything exists, is limited by this everything. He has no limits, and exists outside as well as in all creation.
 
 2. God is all-present, present everywhere, at the same time. He is not like man, that cannot be in two places at the same time. God is wholly everywhere at the same time.
 

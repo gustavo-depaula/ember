@@ -18,7 +18,7 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 — Regarding the marriages of baptised persons, the State has the authority to make laws concerning their effects that are merely civil. 1. The State may make laws about the aspects of marriage that are purely material, such as laws regarding the filing of the marriage contract, laws about the conjugal property, laws about income tax exemptions according to the number of children a married couple have.
 
-> "What therefore God has joined together, let no man put as under" (Matt. 19:6). By these words Christ Our Lord restored marriage to its original unity and indissolubility; so that there is no power on earth that can dissolve a marriage that has been validly contracted and consummated. The civil divorces granted by the State to Christians, giving them a right to remarry cannot be recognized by the Church. The State has no right to legislate in contradiction to divine law.
+> "What therefore God has joined together, let no man put asunder" (Matt. 19:6). By these words Christ Our Lord restored marriage to its original unity and indissolubility; so that there is no power on earth that can dissolve a marriage that has been validly contracted and consummated. The civil divorces granted by the State to Christians, giving them a right to remarry cannot be recognized by the Church. The State has no right to legislate in contradiction to divine law.
 
 2. Catholics should, however, obey the State laws on marriage as long as these do not contradict laws of God or the Church.
 
@@ -52,8 +52,8 @@ The illustration (1) shows a couple being married before a priest, with two witn
 
 — The Church declares a separation of a validly married couple for very grave cause, such as adultery, heresy, threats on the life of either, etc. 1. The separation declared by the Church does not cut the valid marital bond; neither of the parties may marry again till the death of the other. Should the cause cease, they must live together again.
 
-> The wronged party should obtain the sanction of the bishop before separation. The need of separation will rarely arise when both husband and wife are good practical Catholics who seriously considered the responsibilities of matrimony before embarking upon it, and who did so with prayer and the blessings of the Church, Who has trusted in God and found Him deaf to supplication?
+> The wronged party should obtain the sanction of the bishop before separation. The need of separation will rarely arise when both husband and wife are good practical Catholics who seriously considered the responsibilities of matrimony before embarking upon it, and who did so with prayer and the blessings of the Church. Who has trusted in God and found Him deaf to supplication?
 
 2. The only "divorce" permitted in the Catholic Church is a separation, with no right to marry anyone else.
 
-> Not that the Church forces a couple who cannot agree in peace to continue living together. As far as separation includes property rights, Catholics are required to obtain ecclesiastical permission to start proceedings for a civil divorce. Once the divorce is granted, if the marriage had been a consummated sacramental bond, the contract remains in even' other way; and neither of the parties can enter into marriage with another person.
+> Not that the Church forces a couple who cannot agree in peace to continue living together. As far as separation includes property rights, Catholics are required to obtain ecclesiastical permission to start proceedings for a civil divorce. Once the divorce is granted, if the marriage had been a consummated sacramental bond, the contract remains in every other way; and neither of the parties can enter into marriage with another person.

@@ -9,7 +9,7 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 — An oath is the calling on God to witness to the truth of what we say, 1. Taking an oath is called swearing. In swearing, we call either upon God or upon something sacred. In solemn oaths, we place a hand on the Bible, or kiss it. Sometimes we also kiss the crucifix.
 
-> If we swear by God, such words are used as: "God' is my witness," "So help me God," "As the Lord liveth," etc. If we swear by holy things, we say: "By the holy Gospel," "by the cross of Christ," etc. Such expressions as "Upon my word," "by my honour," are not oaths but merely emphasize assertions.
+> If we swear by God, such words are used as: "God is my witness," "So help me God," "As the Lord liveth," etc. If we swear by holy things, we say: "By the holy Gospel," "by the cross of Christ," etc. Such expressions as "Upon my word," "by my honour," are not oaths but merely emphasize assertions.
 
 2. An oath may be simple or solemn. A simple oath is one between man and man in ordinary intercourse. A solemn oath is one taken before ecclesiastical or civil authority, in the presence of an official.
 
@@ -21,7 +21,7 @@ A sailor, threatened with shipwreck, swore, if saved, to have a chapel built in 
 
 4. A promise under oath ceases to bind under certain conditions:
 
-> (a) if it is relaxed by the person to whom the promise was given; (b) if the object of the promise is substantially changed; (c) if the object becomes sinful or useless: (d) if the reason for the oath ceases to exist; (e) if a condition under which the oath was given ceases: and (f) if the oath is annulled, dispensed, or commuted by lawful authority.
+> (a) if it is relaxed by the person to whom the promise was given; (b) if the object of the promise is substantially changed; (c) if the object becomes sinful or useless; (d) if the reason for the oath ceases to exist; (e) if a condition under which the oath was given ceases: and (f) if the oath is annulled, dispensed, or commuted by lawful authority.
 
 
 **What things are necessary to make an oath lawful?**

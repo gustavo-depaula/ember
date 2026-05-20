@@ -45,7 +45,11 @@ Capital and Labour should work together, and not against each other. Neither can
 
 **What are trade unions?**
 
-— Trade unions are associations of working men aimed at the improvement of the conditions under which they work. The general aim is to set a certain number of hours as the maximum for work, and a certain rate as minimum pay. The unions also make provision for sickness, old age, death, and unemployment of members. 1. Unfortunately, trade unions divide society into classes: one composed of those who pay the wages, and the other composed of those who receive the wages.
+— Trade unions are associations of working men aimed at the improvement of the conditions under which they work.
+
+The general aim is to set a certain number of hours as the maximum for work, and a certain rate as minimum pay. The unions also make provision for sickness, old age, death, and unemployment of members.
+
+1. Unfortunately, trade unions divide society into classes: one composed of those who pay the wages, and the other composed of those who receive the wages.
 
 > It would be well for present-day social reformers to take a leaf from the history of the guilds of the Middle Ages, when religion was of prime importance in social life. A guild was a society or organization formed among certain groups belonging to the same trade or occupation. There were guilds of shoemakers, tailors, goldsmiths, etc., as well as merchant and artist guilds. The purposes were social, economic and professional, and religious. The guild took care of old or incapacitated members, their widows and orphans. The guild contributed greatly to the excellence of work produced, since the aim was quality rather than quantity production.
 

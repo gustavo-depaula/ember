@@ -22,18 +22,18 @@ We should make prayer a part of our life, and pray on all occasions. In particul
 
 **How do we know that God always hears our prayers if we pray properly?**
 
-— We know that God always hears our prayers if we pray properly, because Our Lord has promised: ''If you ask the Father anything in My name. He will give it to you." 1. God never forgets a promise, and how often has He promised to answer prayer!
+— We know that God always hears our prayers if we pray properly, because Our Lord has promised: "If you ask the Father anything in My name, He will give it to you." 1. God never forgets a promise, and how often has He promised to answer prayer!
 
-> Our Lord promised: "Ask and it shall be given you" (Matt. 7: 7). "All things whatever you ask for in prayer, believing, you shall receive" (Matt. 21: 22). "Amen, amen, I say to you: if you ask the Father anything in my name, he will give it to you" (John 16: 23). "Ask whatever you will, and it shall be done to you" (John 15: 7).
+> Our Lord promised: "Ask and it shall be given you" (Matt. 7:7). "All things whatever you ask for in prayer, believing, you shall receive" (Matt. 21:22). "Amen, amen, I say to you: if you ask the Father anything in my name, he will give it to you" (John 16:23). "Ask whatever you will, and it shall be done to you" (John 15:7).
 
 2. God answers our prayers more quickly if they are accompanied by some sacrifice or mortification, to show our humility and earnestness. A prayer is more powerful with God if several join in the petition, and if those who pray are just.
 
-> "If two of you shall agree on earth about anything at all for which they ask, it shall be done for them by my Father in heaven" (Matt. 18: 19).
+> "If two of you shall agree on earth about anything at all for which they ask, it shall be done for them by my Father in heaven" (Matt. 18:19).
 
 
 **Why do we not always obtain what we pray for?**
 
-— We do not always obtain what we pray for, either because we have not prayed properly, or because God sees that what we are asking would not be for our good. In the latter case, God will grant us something better. No prayer is offered in vain. God is like a kind and wise father, who gives his child fruit instead of the knife he is crying, for. "Everyone who asks, receives" (Matt. 7: 8) .
+— We do not always obtain what we pray for, either because we have not prayed properly, or because God sees that what we are asking would not be for our good. In the latter case, God will grant us something better. No prayer is offered in vain. God is like a kind and wise father, who gives his child fruit instead of the knife he is crying, for. "Everyone who asks, receives" (Matt. 7:8).
 
 > St. Ignatius said, "Pray as if all depended on God: work as if all depended on self." If we pray for favours or help, we must also do all we can to carry out our wishes. For example, if we pray for the recovery of a loved one, we must get the best medical help we can.
 
@@ -64,14 +64,14 @@ We should make prayer a part of our life, and pray on all occasions. In particul
 
 2. Prayers said with wilful distractions are of no benefit to us. They are like a phonograph record we play at God. Since with such "prayers" our hearts and minds do not go up to God, and our will is not in God, they cannot be true prayers.
 
-> It is sinful to pray with wilful distractions. It is foolish, because it is only a waste of time, during which we finish nothing else anyway. Our Lord said, "This people honours me with their lips, but their heart is far from me" (Matt. 15: 8).
+> It is sinful to pray with wilful distractions. It is foolish, because it is only a waste of time, during which we finish nothing else anyway. Our Lord said, "This people honours me with their lips, but their heart is far from me" (Matt. 15:8).
 
 
 **When and where should we pray?**
 
 — We should pray always, and in all places.
 
-> Christ said: "Whether you eat or drink, or do anything else, do all for the glory of God" (1 Cor. 10: 31). "Pray without ceasing" (1 Thess. 5: 17).
+> Christ said: "Whether you eat or drink, or do anything else, do all for the glory of God" (1 Cor. 10:31). "Pray without ceasing" (1 Thess. 5:17).
 
 1. Even when we are not on our knees, we should pray while we work. Even if it is mental work, we can stop once in a while to raise our hearts up to God. We should offer our work as a prayer to God, by directing our intention, and often renewing it.
 

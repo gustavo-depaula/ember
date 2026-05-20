@@ -7,7 +7,7 @@
 
 **Who are the laity of the Church?**
 
-— The. laity of the Church are all its members who do not belong to the clerical or to the religious state. 1. All members of the Church, whether clerical, religious, or lay, are termed "the faithful." After Baptism we join the ranks.
+— The laity of the Church are all its members who do not belong to the clerical or to the religious state. 1. All members of the Church, whether clerical, religious, or lay, are termed "the faithful." After Baptism we join the ranks.
 
 > The laity must remember that they are part of the Church. They must understand that when anyone speaks of the "Church" they are included, as we include the heart and mind of a man with his soul when we speak of him. The Church is you and I.
 

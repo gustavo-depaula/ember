@@ -15,7 +15,7 @@ Our first parents were perfectly happy in Paradise. If they had not sinned, they
 
 > Sacred Scripture says that before the creation of Adam "there was not a man to till the earth" (Gen.2: 5) ; and that Eve was the "mother of all the living" (Gen. 3: 20). Legends of all races tell of an original happiness from which man fell, and of a flood that covered the earth.
 
-a. All men have common bodily character is tics.
+a. All men have common bodily characteristics.
 
 > The beat of the pulse, the temperature of the body, the physical structure, and even such faculties as the sense of smell, of sight, of hearing; all these vary little among different races. Differences are results of variations in climate, food, ways of living, and opportunity.
 

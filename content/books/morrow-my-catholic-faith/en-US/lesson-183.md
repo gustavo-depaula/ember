@@ -1,8 +1,8 @@
-# 183. The "our Father"
+# 183. The "Our Father"
 
 ![](../images/lesson-183.webp)
 
-"And it came to pass as he was praying in a certain place, that when he ceased, one of his disciples said to him, 'Lord, teach us to pray' (Luke 11: 1). Our Lord therefore taught His disciples the "Our Father." Jesus continued: "And I say to you, ask, and it shall be given to you; seek, and you shall find; knock, and it shall he opened to you. For everyone who asks receives; and he who seeks finds; and to him who knocks it shall be opened(Luke 11: 9-10).
+"And it came to pass as he was praying in a certain place, that when he ceased, one of his disciples said to him, 'Lord, teach us to pray' (Luke 11: 1). Our Lord therefore taught His disciples the "Our Father." Jesus continued: "And I say to you, ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you. For everyone who asks receives; and he who seeks finds; and to him who knocks it shall be opened (Luke 11: 9-10).
 
 
 **Why is the "Our Father" the best of all prayers?**
@@ -57,11 +57,11 @@
 > This is the fourth petition. The word "daily" shows that we are expected to ask every day, for the "bread" we ask for is only for one day. We are permitted to ask for temporal favours, provided they are not contrary to God's will.
 
 
-**For what do we pray when we say ''and forgive us our trespasses as we forgive those who trespass against us?**
+**For what do we pray when we say "and forgive us our trespasses as we forgive those who trespass against us?"**
 
-" — When we say "and forgive us our trespasses as we forgive those who trespass against us," we pray that God will pardon the sins by which we have offended Him, and we tell Him that we pardon our fellow men who have offended us.
+— When we say "and forgive us our trespasses as we forgive those who trespass against us," we pray that God will pardon the sins by which we have offended Him, and we tell Him that we pardon our fellow men who have offended us.
 
-> This is the fifth petition. By it we agree to pardon in the same manner as God forgives us, all who have offended us. Thus we cannot expect God to forgive us if we do not forgive others. "If you forgive men their offences, your heavenly Father will also forgive you your offences. But if you do not forgive men, neither will your Father forgive you your offences" (Matt. 6: 14- 15).
+> This is the fifth petition. By it we agree to pardon in the same manner as God forgives us, all who have offended us. Thus we cannot expect God to forgive us if we do not forgive others. "If you forgive men their offences, your heavenly Father will also forgive you your offences. But if you do not forgive men, neither will your Father forgive you your offences" (Matt. 6: 14-15).
 
 
 **For what do we pray when we say "and lead us not into temptation?"**

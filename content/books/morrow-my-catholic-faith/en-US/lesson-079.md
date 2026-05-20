@@ -15,7 +15,7 @@ We should be generous in helping the poor souls in purgatory, who long for God. 
 
 > St. Augustine believes that the sufferings of the poor souls are greater than the sufferings of all the martyrs. St. Thomas believes the least pain there is greater than the greatest on earth.
 
-3. The greatness and the duration of a soul sufferings in purgatory vary according to the gravity of the sins committed. One who has lived a long life of sin, but is saved from hell only by a deathbed repentance, will stay in the purging fires of purgatory longer, and suffer there more intensely than a child, who has committed only the venial sins of an ordinary child.
+3. The greatness and the duration of a soul's sufferings in purgatory vary according to the gravity of the sins committed. One who has lived a long life of sin, but is saved from hell only by a deathbed repentance, will stay in the purging fires of purgatory longer, and suffer there more intensely than a child, who has committed only the venial sins of an ordinary child.
 
 > That some souls stay long in purgatory is implied by the fact that the Church puts no limit to the offering of Masses for the dead; some foundations have been going on for centuries, offered for the repose of certain souls. St. Augustine believes that those stay longest in purgatory who have loved the goods of earth more. Some saints have held that certain holy souls in purgatory suffer no pain except their exclusion from the vision of God. Practically all are agreed that in purgatory the souls suffer most in those things in which they sinned most; as the "Imitation of Christ" says; "In what things a man hath most sinned, in those things shall he be most grievously tormented."
 
@@ -47,7 +47,7 @@ We should be generous in helping the poor souls in purgatory, who long for God. 
 
 3. Almsgiving. No pompous funeral or profusion of flowers is of any avail for the poor souls in purgatory. As St. John Chrysostom says, "Not by weeping, but by prayer and almsgiving are the dead relieved."
 
-> It is better to give to charity the money spent on idle and worldly show, which cannot help the poor souls. Instead of sending costly wreaths to the "family of a dead friend, it is an excellent custom instead to have Masses offered for his soul.
+> It is better to give to charity the money spent on idle and worldly show, which cannot help the poor souls. Instead of sending costly wreaths to the family of a dead friend, it is an excellent custom instead to have Masses offered for his soul.
 
 4. The Heroic Act. By this Act a person surrenders, in behalf of the souls in purgatory, all the satisfaction made to God by his good works, including whatever satisfaction may be offered for him by others during his life and after.
 

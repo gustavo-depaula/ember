@@ -32,7 +32,7 @@ Christ permitted Himself to be tempted by the devil. After Our Lord's forty days
 
 3. Next the thought is followed by an evil desire in which we take pleasure.
 
-> If, still playing with the thought, the man wishes that he could take the diamond ring without being noticed, the consent is complete, and he commits a sin in his heart (interior ly).
+> If, still playing with the thought, the man wishes that he could take the diamond ring without being noticed, the consent is complete, and he commits a sin in his heart (interiorly).
 
 4. The resolution to commit the sin when occasion presents itself follows. Then the exterior act is committed.
 

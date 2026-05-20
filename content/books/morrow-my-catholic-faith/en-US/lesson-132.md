@@ -17,14 +17,14 @@ The Mass is the chief and central act of Catholic worship, the greatest act of w
 
 3. The principal priest in every Mass is Jesus Christ, who offers to His heavenly Father, through the ministry of His ordained priest. His body and blood which were sacrificed on the cross.
 
-> In both the Sacrifice of the Cross and the Mass, the same officiating High-Priest offers up the same Sacrificial Victim: Jesus Christ Our Lord. The priest saying the Mass is only Christ's minister and representative. He utters the words of consecration in the name and person of Christ, saying. "This is My Body. This is My Blood" and not, "This is Christ's Body, etc."
+> In both the Sacrifice of the Cross and the Mass, the same officiating High-Priest offers up the same Sacrificial Victim: Jesus Christ Our Lord. The priest saying the Mass is only Christ's minister and representative. He utters the words of consecration in the name and person of Christ, saying, "This is My Body. This is My Blood" and not, "This is Christ's Body, etc."
 
-The illustration shows religious preparing wine from grapes for consecration. special ceremonies attended by the bishop are held when the grapes are to be pressed.
+The illustration shows religious preparing wine from grapes for consecration. In certain places, special ceremonies attended by the bishop are held when the grapes are to be pressed.
 
 
 **Is there any difference between the sacrifice of the cross and the Sacrifice of the Mass?**
 
-— The manner in which the sacrifice is offered is different: On the cross, Christ physically shed His blood and was physically slain, while in the Mass there is no physical shedding of blood nor physical death, because Christ can die no more. On the cross, Christ gained merit and satisfied for us, while in the Mass, He applies to us the merits and satisfaction of His death on the cross. 1. Christ was immolated on Calvary, once and for all; He is now in glory, and can die no more. How then can we say He is sacrificed on our altars at Mass, and not only sacrificed once, but continually? The Mass is the realization, in an un bloody manner, of the very sacrifice offered up on Calvary in a bloody manner.
+— The manner in which the sacrifice is offered is different: On the cross, Christ physically shed His blood and was physically slain, while in the Mass there is no physical shedding of blood nor physical death, because Christ can die no more. On the cross, Christ gained merit and satisfied for us, while in the Mass, He applies to us the merits and satisfaction of His death on the cross. 1. Christ was immolated on Calvary, once and for all; He is now in glory, and can die no more. How then can we say He is sacrificed on our altars at Mass, and not only sacrificed once, but continually? The Mass is the realization, in an unbloody manner, of the very sacrifice offered up on Calvary in a bloody manner.
 
 > On Calvary, Christ physically shed His blood; in the Mass, although the separate consecration re-enacts Christ's death, there is no physical shedding of blood.
 

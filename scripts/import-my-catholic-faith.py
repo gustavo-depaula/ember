@@ -880,14 +880,31 @@ def regenerate_toc(lessons, manifest_path):
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
 
 
+def dump_page_map(doc, dest: Path):
+    """Write a {chapter_id: {start, end}} JSON map for the review tooling."""
+    lessons = find_lessons(doc)
+    page_map = {f"lesson-{l['num']:03d}": {"start": l["start"], "end": l["end"]} for l in lessons}
+    for chapter_id, _title, start, end in APPENDICES:
+        page_map[chapter_id] = {"start": start, "end": end}
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(json.dumps(page_map, indent=2) + "\n")
+    print(f"Wrote {len(page_map)} entries to {dest}")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--pdf", type=Path, default=DEFAULT_PDF, help="Path to source PDF (downloaded if missing)")
     ap.add_argument("--lessons-only", action="store_true", help="Skip wiping; only rewrite content")
+    ap.add_argument("--dump-page-map", action="store_true",
+                    help="Write _review/page-map.json (chapter_id -> {start, end}) and exit")
     args = ap.parse_args()
 
     pdf_path = ensure_pdf(args.pdf)
     doc = fitz.open(pdf_path)
+
+    if args.dump_page_map:
+        dump_page_map(doc, BOOK_DIR / "_review" / "page-map.json")
+        return
 
     md_dir = BOOK_DIR / "en-US"
     img_dir = BOOK_DIR / "images"

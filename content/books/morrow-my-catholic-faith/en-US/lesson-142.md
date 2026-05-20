@@ -72,6 +72,6 @@ This is how we should kneel at the communion rail. We should not crowd or push. 
 
 > If the host sticks to the mouth, we must on no account remove it with the finger, but moisten it with saliva, and remove it with the tongue, then swallow it.
 
-If the host falls on to the ground, never try to pick it up. The priest knows what to do. Remain where you are until the priest beckons you to leave.
+If the host falls onto the ground, never try to pick it up. The priest knows what to do. Remain where you are until the priest beckons you to leave.
 
 > If you cannot kneel, you should go see the priest in the sacristy before Mass and explain your difficulty to him.

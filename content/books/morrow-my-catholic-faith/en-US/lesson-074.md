@@ -7,7 +7,7 @@ The illustration shows the continuous communication in the three portions of the
 
 **Why is the Catholic Church called the Mystical Body of Christ?**
 
-— The Catholic Church is called the Mystical Body of Christ, because its members are united by supernatural bonds with one another and with Christ, their Head, thus resembling the members and head of the living human body. 1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1: 18) . Again: "You are the body of Christ, member for member" (1 Cor. 12: 27). "We, the many, are one body in Christ" (Rom. 12: 5).
+— The Catholic Church is called the Mystical Body of Christ, because its members are united by supernatural bonds with one another and with Christ, their Head, thus resembling the members and head of the living human body. 1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1: 18). Again: "You are the body of Christ, member for member" (1 Cor. 12: 27). "We, the many, are one body in Christ" (Rom. 12: 5).
 
 > Jesus Himself used a similar symbol: "I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither" (John 15: 5-6).
 
@@ -30,7 +30,7 @@ The illustration shows the continuous communication in the three portions of the
 
 1. The saints and angels in heaven compose the Church triumphant, because they have gained the crown of victory. The souls in purgatory compose the Church suffering, because they still have to expiate for their sins before they can enter heaven. The faithful on earth compose the Church militant, because they have to struggle ceaselessly against the enemies of their souls.
 
-> The Church triumphant, the Church suffering and the Church militant compose one Church united in Christ, members of a body whose head is Christ: "So we, the many, are one body in Christ, but severally members one of another' (Rom. 12:5).
+> The Church triumphant, the Church suffering and the Church militant compose one Church united in Christ, members of a body whose head is Christ: "So we, the many, are one body in Christ, but severally members one of another" (Rom. 12:5).
 
 2. All the members of the Church are of one family, and share in the spiritual treasures of the Church. However, not all members of the Church Militant fully enjoy the benefits of the communion of saints, but only those in a state of grace.
 

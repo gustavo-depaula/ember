@@ -39,7 +39,7 @@
 
 — One who wishes to dedicate his life entirely to God should choose the religious community best suited to his inclination and ability.
 
-> If one is interested in teaching, one should choose a teaching congregation. If a girl likes teaching, but is very retiring, and prefers not to be too much in the work, she should choose a semi-contemplative congregation. If she wants to be totally separated from the world and devote her time to prayer and penance, she should join a contemplative order. Those who are active, healthy, and willing to do anything and suffer anything tor Christ should join a missionary congregation.
+> If one is interested in teaching, one should choose a teaching congregation. If a girl likes teaching, but is very retiring, and prefers not to be too much in the work, she should choose a semi-contemplative congregation. If she wants to be totally separated from the world and devote her time to prayer and penance, she should join a contemplative order. Those who are active, healthy, and willing to do anything and suffer anything for Christ should join a missionary congregation.
 
 Besides priests, religious are needed, both men and women, for the schools, the hospitals, the teaching of religion, care of the poor, and of churches.
 

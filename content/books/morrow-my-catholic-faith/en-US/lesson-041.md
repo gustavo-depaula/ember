@@ -49,7 +49,7 @@ These virtues render us capable of being good and doing good for the love and se
 
 3. It is grace that helps us to attain faith and to persevere in it, to take God's word for whatever He has revealed.
 
-> Faith is supernatural because we cannot by ourselves acquire it. It is a gift of God. It is, however, increased by prayer and continual exercise; the apostles prayed to the Lord, "Increase our faith" (Luke 17: 5)
+> Faith is supernatural because we cannot by ourselves acquire it. It is a gift of God. It is, however, increased by prayer and continual exercise; the apostles prayed to the Lord, "Increase our faith" (Luke 17: 5).
 
 4. Without faith, it is impossible to be saved.
 

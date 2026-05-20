@@ -9,7 +9,7 @@
 
 **Which are the principal prayers to the Blessed Virgin?**
 
-— The principal prayers to the Blessed Virgin are: the ''Hail Mary," the "Hail Holy Queen", the *Angelus*, the Rosary, and the Litany of the Blessed Virgin or Litany of Loretto.
+— The principal prayers to the Blessed Virgin are: the "Hail Mary," the "Hail Holy Queen", the *Angelus*, the Rosary, and the Litany of the Blessed Virgin or Litany of Loretto.
 
 
 **What is the first part of the Hail Mary?**
@@ -22,7 +22,7 @@
 
 > "He has regarded the loveliness of his handmaid; for behold, from henceforth all generations shall call me blessed" (Luke 1: 48).
 
-3. ''Full of grace'' means that Mary is the most holy and exalted of all creatures, possessed of all graces and gifts of God.
+3. "Full of grace" means that Mary is the most holy and exalted of all creatures, possessed of all graces and gifts of God.
 
 > She is the only one of all mortals that was conceived free from all stain of original sin. This is why we speak of Mary's Immaculate Conception. "Thou art all fair, and there is not a spot in thee" (Cant. 4: 7).
 
@@ -30,11 +30,11 @@
 
 > Mary was united with God even on earth in the closest union; she was like a tabernacle containing God, except that while the tabernacle only shelters Our Lord, her spirit and His were one, and even her blood and His were one.
 
-5. ''Blessed art thou among women" means that Mary has been privileged among all women, being the Mother of the Son of God. She is therefore higher in holiness, grace, and glory than any other woman.
+5. "Blessed art thou among women" means that Mary has been privileged among all women, being the Mother of the Son of God. She is therefore higher in holiness, grace, and glory than any other woman.
 
 > Mary was blessed because the Son born of her brought her blessings. She is blessed as one who cooperated in the salvation of men; even on earth, she received the homage of angels and men.
 
-6. ''And blessed is the fruit of thy womb Jesus" means that Mary is blessed because of her Son. All her glory and power come from Him, God who became her Son.
+6. "And blessed is the fruit of thy womb Jesus" means that Mary is blessed because of her Son. All her glory and power come from Him, God who became her Son.
 
 > Mary is like a tree that bears good fruit; can any fruit be better than the Son of God? So touched was a woman by the holiness of that Son that she raised up her voice in praise: "Blessed is the womb that bore thee, and the breasts that nursed thee" (Luke 11: 27).
 
@@ -63,7 +63,7 @@
 
 **What is the "Angelus"?**
 
-— The *Angelus* is a prayer recited morning, noon, and evening, in honour of Mary and of the mystery of the Incarnation. 1. This prayer is called the *Angelus*, because its first word in Latin is '' *Angelus* " meaning Angel. In the Easter season, the *Regina Coeli* is substituted for the *Angelus*; both prayers are richly indulgenced.
+— The *Angelus* is a prayer recited morning, noon, and evening, in honour of Mary and of the mystery of the Incarnation. 1. This prayer is called the *Angelus*, because its first word in Latin is "*Angelus*" meaning Angel. In the Easter season, the *Regina Coeli* is substituted for the *Angelus*; both prayers are richly indulgenced.
 
 > The custom of ringing the bell for the *Angelus* dates from the eleventh century, during the Crusades, to admonish the faithful to pray for the victory of the crusaders.
 

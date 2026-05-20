@@ -19,7 +19,7 @@ This chart shows clearly the various matter, forms, and ministers of each of the
 
 > In the time of the Apostles, baptism was usually, though not exclusively, conferred by immersion. The first baptisms on Pentecost could not have been by immersion, on account of the great number, three thousand baptised. All these three methods are valid; but our present practice is by infusion.
 
-3. The water used for solemn Baptism, i.e. when a priest confers it with the ceremonies, is called baptismal water. It is natural water mingled with holy oil and chrism, and blessed with special prayers. Ordinary holy water is not baptismal water
+3. The water used for solemn Baptism, i.e. when a priest confers it with the ceremonies, is called baptismal water. It is natural water mingled with holy oil and chrism, and blessed with special prayers. Ordinary holy water is not baptismal water.
 
 > Our Lord spoke of "water and the Holy Spirit." Peter baptised Cornelius and his family in water (Acts 10: 47) ; Philip did the same with the eunuch (Acts 8: 38). From the Gospel one cannot conclude the use of anything but water in the baptism administered during Apostolic times.
 
@@ -55,10 +55,12 @@ This chart shows clearly the various matter, forms, and ministers of each of the
 
 **Why is the name of a saint given in Baptism?**
 
-—The name of a saint is given in Baptism in order that the person baptised may imitate his virtues, and have him for a protector. 1. The names of angels are also given, as well as names referring to mysteries or sacred appellations, events, and doctrines.
+—The name of a saint is given in Baptism in order that the person baptised may imitate his virtues, and have him for a protector.
+
+1. The names of angels are also given, as well as names referring to mysteries or sacred appellations, events, and doctrines.
 
 > In certain countries, it is a practice, even when another baptismal name is given, to include for girls the name Mary, and for boys the name Joseph; for example: Mary Louise, Joseph Francis, etc.
 
-2. The Church, does not approve of heathen or fantastical names, such as combinations taken from a film or novel, or made up from various words.
+2. The Church does not approve of heathen or fantastical names, such as combinations taken from a film or novel, or made up from various words.
 
 > Some name their children after pagan gods and goddesses, flowers, places, or some wealthy or prominent relative's surname. We hear of Ceres and Europa as names inflicted on poor little girls, when they could have been named after the angels and saints that behold God face to face! What is the most beautiful flower on earth compared to a Saint of God, who can protect and pray for the child! We hear of little boys named with the surname of some figure prominent in politics or finance, instead of the name of an angel or saint, as the Archangel Michael, this flame of God that thrust the rebel hordes into hell.

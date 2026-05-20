@@ -52,9 +52,9 @@ When we are sick, we are eager enough to rush here, there, and everywhere, seeki
 
 **What is the Easter time?**
 
-— According to the 1917 Code of Canon Law (859 &2), Easter time is from Palm Sunday to the Sunday within the Octave of Easter or *Dominica In Albis*.
+— According to the 1917 Code of Canon Law (859 §2), Easter time is from Palm Sunday to the Sunday within the Octave of Easter or *Dominica In Albis*.
 
-> However, for the good of faithful the bishop can anticipate it; but not before the fourth Sunday of Lent and can also postpone it; but not beyond the Feast of the Holy Trinity. Generally, one has to refer to the general custom of the place. For it may happen, like in the Philippines as *lex contra leg em*, Easter time is from Septuagesima Sunday to the Sunday before the first Sunday of Advent.
+> However, for the good of the faithful the bishop can anticipate it; but not before the fourth Sunday of Lent and can also postpone it; but not beyond the Feast of the Holy Trinity. Generally, one has to refer to the general custom of the place. For it may happen, like in the Philippines as *lex contra legem*, Easter time is from Septuagesima Sunday to the Sunday before the first Sunday of Advent.
 
 1. However it is fitting to receive Holy Communion on the very day of Easter, because it was just a few days before Easter, during the Last Supper, that Our Lord instituted the Holy Eucharist.
 

@@ -45,7 +45,7 @@ In order to practice this virtue, we must: 1. Believe all the truths revealed by
 
 2. Many people spend their lives in a vain pursuit of riches, honours, and pleasures. But these never satisfy the heart of man even on earth. Besides, they have to be left behind when the hour of death comes.
 
-> "For when he shall die, he shall take nothing away: nor shall his glory descend with him." (Ps.48: 18)
+> "For when he shall die, he shall take nothing away: nor shall his glory descend with him." (Ps. 48: 18)
 
 
 **From whom do we learn to know, love, and serve God?**

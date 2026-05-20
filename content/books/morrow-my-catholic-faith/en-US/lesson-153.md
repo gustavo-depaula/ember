@@ -7,7 +7,7 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 **What is an indulgence?**
 
-— An indulgence is the remission granted by the Church of the temporal punishment due to sins already forgiven. 1. Our Lord gave the Apostles and their successor the power to deliver men from every obstacle that might separate them from heaven. Thus He said to St. Peter:
+— An indulgence is the remission granted by the Church of the temporal punishment due to sins already forgiven. 1. Our Lord gave the Apostles and their successors the power to deliver men from every obstacle that might separate them from heaven. Thus He said to St. Peter:
 
 > "Whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).
 
@@ -39,7 +39,7 @@ The Church has a Spiritual Treasury made up of the infinite merits of Our Lord, 
 
 — The Church has always exercised its right to grant indulgences. 1. The Apostles granted indulgences.
 
-> St. Paul writes of a Corinthian who had shown such signs of true repentance that his penance had been remitted. "Whom you pardon anything, I also pardon. Indeed, what I have forgiven — if I have forgiven anything l have done for your sakes, in the person of Christ" (Cor. 2: 10).
+> St. Paul writes of a Corinthian who had shown such signs of true repentance that his penance had been remitted. "Whom you pardon anything, I also pardon. Indeed, what I have forgiven — if I have forgiven anything I have done for your sakes, in the person of Christ" (Cor. 2: 10).
 
 2. During the time of the great persecutions, the confessors and martyrs remained constant and were cast into prison, and many were put to death. Others denied their faith to escape persecution; on these, the Church imposed severe penances.
 

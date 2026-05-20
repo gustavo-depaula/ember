@@ -2,7 +2,7 @@
 
 ![](../images/lesson-071.webp)
 
-Our Lord said; "Everyone therefore who hears these my words and acts upon them, shall be likened to a wise man who built his house on rock. And the rain fell, and the floods come, and the winds blew and beat against that house, but it did not fall, because it was founded on rock. And everyone who hears these my words and does not act upon them, shall be likened to a foolish man who built his house on sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and was utterly ruined" (Matt. 7: 24-27). Non-Catholic churches are the "house upon sand;" they rise up and fall. The Catholic Church is the "house upon rock;" it will last forever.
+Our Lord said: "Everyone therefore who hears these my words and acts upon them, shall be likened to a wise man who built his house on rock. And the rain fell, and the floods come, and the winds blew and beat against that house, but it did not fall, because it was founded on rock. And everyone who hears these my words and does not act upon them, shall be likened to a foolish man who built his house on sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and was utterly ruined" (Matt. 7: 24-27). Non-Catholic churches are the "house upon sand;" they rise up and fall. The Catholic Church is the "house upon rock;" it will last forever.
 
 
 **What is schism; and what is heresy?**
@@ -34,9 +34,7 @@ a. After minor schisms and misunderstandings between East and West in 1054, ther
 
 b. The Orthodox Eastern Church denies the Catholic dogma that the Holy Ghost proceeds from the Father and the Son. It also teaches that the souls of the just will not attain complete happiness till the end of the world, when they will be joined to their bodies; and that the souls of the wicked will not suffer complete torture in hell until that last day. These are heresies against the doctrines of the Church.
 
-> Thus it can be seen that today, the Orthodox Eastern Church is not merely schismatical, but truly heretical; for it holds primary doctrines in a different light. But it has valid orders.
-
-(See pages 110-111)
+> Thus it can be seen that today, the Orthodox Eastern Church is not merely schismatical, but truly heretical; for it holds primary doctrines in a different light. But it has valid orders. *(See pages 110-111)*
 
 3. In the 12th century, Albigensianism arose in southern France. It upheld dualism: two opposing creative principles, the good creating the spiritual world, and the evil creating the material world.
 
@@ -44,7 +42,7 @@ b. The Orthodox Eastern Church denies the Catholic dogma that the Holy Ghost pro
 
 4. As an offshoot of Albigensianism, Waldensianism spread throughout Spain, Lombardy, Bohemia, and neighboring countries. The heresy continued until the outbreak of Protestantism, when it merged with this.
 
-> The Walden ses denied the existence of Purgatory, combatted indulgences, asserted that laymen could preach and absolve, oaths were unlawful, sinful priests had no valid power of ministry, etc. But out of evil, God has often drawn good. Each schism and heresy has led to profound study in the Church, study of Scholars to discover the correct interpretation of doctrine under dispute. In this way, light came from darkness. As wise St. Augustine said: "Those who err in doctrine only serve to show forth more clearly the soundness of those who believe a right."
+> The Walden ses denied the existence of Purgatory, combatted indulgences, asserted that laymen could preach and absolve, oaths were unlawful, sinful priests had no valid power of ministry, etc. But out of evil, God has often drawn good. Each schism and heresy has led to profound study in the Church, study of Scholars to discover the correct interpretation of doctrine under dispute. In this way, light came from darkness. As wise St. Augustine said: "Those who err in doctrine only serve to show forth more clearly the soundness of those who believe aright."
 
 5. In the fourteenth century, Wycliff in England taught that the Bible was the sole rule of faith, that there was no freedom of the will, that confession was useless, that the Pope had no primacy.
 

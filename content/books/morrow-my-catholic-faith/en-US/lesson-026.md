@@ -34,7 +34,7 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 **What is gluttony?**
 
-— Gluttony is an excessive desire for or indulgence in food or drink. 1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly " (Phil 3: 19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
+— Gluttony is an excessive desire for or indulgence in food or drink. 1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly" (Phil 3: 19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
 
 > We should not eat more than we need to support life. "We do not live to eat, but eat to live." We must not take what is injurious to health, even if its taste is pleasing. We must have regular hours for our meals. We should not be too particular about food, eat what is set before us, and not get angry when a dish is not very appetizing. The purpose of food is to give strength for the work we do while still on earth preparing for our final end.
 
@@ -49,7 +49,7 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 > Envy is against the commandment of God to love our neighbour. It is the mark of the petty mind and the hard heart. The devil envied Adam and Eve in Paradise; Cain envied Abel, whose offering was pleasing to God.
 
-> Some are, so envious that they even envy the holiness of others, but without any desire or attempt at imitation. This was the case with the Pharisees, and their envy led them to plot the death of Jesus Christ.
+> Some are so envious that they even envy the holiness of others, but without any desire or attempt at imitation. This was the case with the Pharisees, and their envy led them to plot the death of Jesus Christ.
 
 2. Envy leads to calumny, gossip, detraction, hatred, scandal, and other sins. An envious man looks on everything with malice; as a result, his envy does not even make himself happy, but destroys his peace of heart.
 

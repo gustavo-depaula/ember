@@ -28,7 +28,7 @@ From St. Paul we learn what armour to wear in our struggle for Christian perfect
 
 2. God requires all to aspire to Christian perfection. He says: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5: 48).
 
-> Those who practice virtue will receive an eternal reward, and are happy even on earth. Hence Our Lord pronounces them blessed in the Beatitudes (Matt. 5: 310).
+> Those who practice virtue will receive an eternal reward, and are happy even on earth. Hence Our Lord pronounces them blessed in the Beatitudes (Matt. 5: 3-10).
 
 3. All states of life can be sanctified by those who wish only to live for God. Saints are found in every class. Love of God is in everybody's power.
 

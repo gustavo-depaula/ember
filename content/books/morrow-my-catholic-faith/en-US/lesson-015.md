@@ -37,7 +37,7 @@ Whoever we are, wherever we are, each of us has always a guardian angel at our s
 
 2. The angels were not created equal. They rank according to the amount of gifts given, and the work assigned to them.
 
-> In the Bible nine choirs of angels are mentioned: seraphim, cherubim, thrones, dominations, virtues powers, principalities, archangels, and angels.
+> In the Bible nine choirs of angels are mentioned: seraphim, cherubim, thrones, dominations, virtues, powers, principalities, archangels, and angels.
 
 
 **Did all the angels remain faithful to God?**

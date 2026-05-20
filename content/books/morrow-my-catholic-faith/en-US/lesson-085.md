@@ -26,7 +26,7 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 3. More specifically, the first great commandment embraces the first three of the Ten Commandments; the second great commandment embraces the last seven.
 
-> The two great commandments affect and control all the powers of man: his will, his understanding, his emotions, and his actions. Would we not have a perfect world, needing no other laws, if all men obeyed these two commandments strictly? For this reason, Our Lord said; "On these two commandments depend the whole Law" (Matt. 22: 40).
+> The two great commandments affect and control all the powers of man: his will, his understanding, his emotions, and his actions. Would we not have a perfect world, needing no other laws, if all men obeyed these two commandments strictly? For this reason, Our Lord said: "On these two commandments depend the whole Law" (Matt. 22: 40).
 
 
 **Why should we love God?**
@@ -37,7 +37,7 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 2. He loves us, and is always doing good to us. We only have to think of ourselves and our lives to find an innumerable number of favours He has granted us.
 
-> "For God so loved the world that he gave his only-begotten Son, that those who believe in him may not perish, but may have life everlasting" (John 3:16). "Yea, I have loved thee with an everlasting love: therefore have I drawn thee, taking pity on thee"(Jer 31;3) "Every good gift and every perfect gift is from above, coming down from the Father of Lights." (James 1:17)
+> "For God so loved the world that he gave his only-begotten Son, that those who believe in him may not perish, but may have life everlasting" (John 3:16). "Yea, I have loved thee with an everlasting love: therefore have I drawn thee, taking pity on thee" (Jer 31:3) "Every good gift and every perfect gift is from above, coming down from the Father of Lights." (James 1:17)
 
 3. He wants and commands us to love Him. We are God's creatures. His slightest desires are law to us. How much more should we obey His solemn commands!
 
@@ -61,7 +61,7 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 **How do we prove our love of God?**
 
-- We prove our love of God by obedience to His commandments.
+— We prove our love of God by obedience to His commandments.
 
 > "If you love me, keep my commandments" (John 14: 15).
 

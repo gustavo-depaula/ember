@@ -19,11 +19,11 @@ It was the custom among the first Christians for the rich to sell their property
 
 3. A habitual liar not only is often led into grave sin, but forfeits the trust of his fellow-beings, and is the cause of a great deal of harm. When people know that one is a habitual liar, they do not believe him even when he tells the truth.
 
-> The liar is almost always guilty of other sins. "A thief is better than a man that is always lying. Lying men are without honour" (Ecclus. 20: 27-28),
+> The liar is almost always guilty of other sins. "A thief is better than a man that is always lying. Lying men are without honour" (Ecclus. 20: 27-28).
 
 4. In the eighth commandment, God forbids us to detract in any way from our neighbour's honour or reputation. It is our good reputation that keeps us well-thought of and well-spoken of among our fellow men.
 
-> "A good name is better than great riches: and good favour is above silver and gold" (Prov. 22: 1). The esteem of others is essential to real happiness; those who know they are despised by their fellow men are not likely to be happy in this life. One who brings another into disrepute is a thief, stealing a good name.
+> "A good name is better than great riches; and good favour is above silver and gold" (Prov. 22: 1). The esteem of others is essential to real happiness; those who know they are despised by their fellow men are not likely to be happy in this life. One who brings another into disrepute is a thief, stealing a good name.
 
 5. A good name is acquired by consistent struggle, by making our good works known, by defending ourselves whenever false accusations are made against us. This is why, in ordinary cases, we do our good works openly in accordance with Our Lord's injunction, "So let your light shine before men, in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5: 16).
 
@@ -46,7 +46,7 @@ It was the custom among the first Christians for the rich to sell their property
 
 > St. Athanasius, Bishop of Alexandria, was concealed in a vessel on the Nile, when the soldiers of the Emperor Julian overtook and stopped it. On their inquiring where Athanasius was, his servant replied: "He is not gone far." The soldiers went onward.
 
-2. We are not supposed or expected to tell everybody our private affairs or those of our friends or superiors. Many persons out of carelessness or curiosity have a most irritating habit of asking very personal questions, such as "Where have you been?" "Where are you going?" "Did you have a visitor?" "How old are you?" "What is your salary?" "Where do you get so much money?" "What do you do all day?" "What is your work now?" "How much did you pay for your dress?" "Why did you leave home?" etc. If we are asked indiscreet questions by such curious or ill-bred people, we have a right to give such an evasive answer as: "I do not' remember" (meaning, I do not remember to tell you.)
+2. We are not supposed or expected to tell everybody our private affairs or those of our friends or superiors. Many persons out of carelessness or curiosity have a most irritating habit of asking very personal questions, such as "Where have you been?" "Where are you going?" "Did you have a visitor?" "How old are you?" "What is your salary?" "Where do you get so much money?" "What do you do all day?" "What is your work now?" "How much did you pay for your dress?" "Why did you leave home?" etc. If we are asked indiscreet questions by such curious or ill-bred people, we have a right to give such an evasive answer as: "I do not remember" (meaning, I do not remember to tell you.)
 
 > At best, these questions are a sign of extreme ill-breeding. We should be more thoughtful and discreet, and give everybody the right to his own private affairs. Answering, "He is not at home" is a social custom understood to mean that the person is not receiving callers, even if he is in the house. If a person we cannot trust tries to borrow money from us we can say: "I have no money" (meaning, have none to lend you).
 

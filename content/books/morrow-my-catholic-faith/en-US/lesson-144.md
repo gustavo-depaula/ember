@@ -17,17 +17,17 @@ The picture shows Our Lord instituting the sacrament of Penance on the first Eas
 
 (b) It was instituted by Jesus Christ on the first Easter Sunday night.
 
-> On the first Easter Sunday night, Our Lord fulfilled His promise to give His Apostles the power to forgive sins. Jesus appeared to His Apostles and said: "Peace be to you. As the Father has sent me, I also send you." When He had said this. He breathed upon them and said to them: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 21-23).
+> On the first Easter Sunday night, Our Lord fulfilled His promise to give His Apostles the power to forgive sins. Jesus appeared to His Apostles and said: "Peace be to you. As the Father has sent me, I also send you." When He had said this, He breathed upon them and said to them: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 21-23).
 
 (c) It confers grace. It is the way by which after Baptism sanctifying grace is restored to the penitent who has committed mortal sin. It increases this grace in the penitent who already possesses it. It also gives actual graces.
 
 > When one cannot go to confession, he should make an act of perfect contrition at once for the forgiveness of his sin.
 
-2. The priest forgives sins with the words: "I absolve thee from thy sins in the name of the Father and of the Son, and of the Holy Ghost. Amen!'
+2. The priest forgives sins with the words: "I absolve thee from thy sins in the name of the Father and of the Son, and of the Holy Ghost. Amen."
 
 > This is called the "absolution," and is said by the priest over the penitent, with uplifted hand, when he forgives the sins confessed. It is pronounced while the penitent is saying an Act of Contrition.
 
-3. On the part of the penitent, the sacrament of Penance includes three distinct acts; (a) contrition or sorrow for his sins; (b) confession or telling them to the priest; and (c) satisfaction or performance of the penance imposed by the priest.
+3. On the part of the penitent, the sacrament of Penance includes three distinct acts: (a) contrition or sorrow for his sins; (b) confession or telling them to the priest; and (c) satisfaction or performance of the penance imposed by the priest.
 
 > A penitent is absolved if he confesses his sins with sorrow and a resolution to atone for them and amend his life.
 

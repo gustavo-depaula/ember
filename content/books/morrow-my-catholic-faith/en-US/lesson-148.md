@@ -2,7 +2,7 @@
 
 ![](../images/lesson-148.webp)
 
-St. Augustine in his youth led a bad life. The prayers of his holy mother, St. Monica, led to his conversion. One day, he was in the garden when he heard a voice say: "Take and read." He took up the Holy Scripture on a nearby table and read. From that moment his conversion started. He made a resolution to amend his ways. This firm resolution he never broke, He became one of the greatest Saints. If we should be so unhappy as to sin, let us imitate his firm purpose of amendment.
+St. Augustine in his youth led a bad life. The prayers of his holy mother, St. Monica, led to his conversion. One day, he was in the garden when he heard a voice say: "Take and read." He took up the Holy Scripture on a nearby table and read. From that moment his conversion started. He made a resolution to amend his ways. This firm resolution he never broke. He became one of the greatest Saints. If we should be so unhappy as to sin, let us imitate his firm purpose of amendment.
 
 
 **What is the purpose of amendment?**
@@ -36,7 +36,7 @@ St. Augustine in his youth led a bad life. The prayers of his holy mother, St. M
 
 2. Our purpose is efficacious when we resolve to use all means to carry out our determination to amend, as by avoiding the occasions of sin, — persons, places, and things that ordinarily led us into sin in the past, and may do so again in the future. A good resolution is like a nail driven fast into the wall, but the resolutions of too many are like a nail badly placed, which falls out as soon as something is hung upon it.
 
-> Bad company and improper amusements and reading are such occasions. If we do not avoid them, we are not truly sorry, for our sins. "He who loveth the danger shall perish in it'* (Ecclus. 3: 27). People who say they wish to become better, but will not fly away from occasions of sin are like a housewife who industriously sweeps away cobwebs, but refuses to kill the spider that weaves them.
+> Bad company and improper amusements and reading are such occasions. If we do not avoid them, we are not truly sorry, for our sins. "He who loveth the danger shall perish in it" (Ecclus. 3: 27). People who say they wish to become better, but will not fly away from occasions of sin are like a housewife who industriously sweeps away cobwebs, but refuses to kill the spider that weaves them.
 
 3. Our purpose is universal when we are determined to keep away from all mortal sins. A wise gardener uproots weeds, and does not merely cut off the top otherwise they will grow thicker than ever.
 

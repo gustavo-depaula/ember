@@ -34,7 +34,9 @@ At a very early age, St. Agnes had such a high regard for the virtue of chastity
 
 **What is liberality?**
 
-— Liberality is that moral virtue, related to the cardinal virtue of justice, which finds expression in generosity towards our fellow men, disposing us to use material goods rightly. 1. Ordinarily, the term is taken with reference to material goods; but in a broader sense, it also is with respect to spiritual and intellectual gifts.
+— Liberality is that moral virtue, related to the cardinal virtue of justice, which finds expression in generosity towards our fellow men, disposing us to use material goods rightly.
+
+1. Ordinarily, the term is taken with reference to material goods; but in a broader sense, it also is with respect to spiritual and intellectual gifts.
 
 > Liberality consists in giving, for the love of God, generous help to those in need. Our Lord said, in urging us to do works of mercy, that what is given to the poor is given to Him. Liberality does not depend on the amount given, but in the spirit. A poor man can be very liberal; whereas a rich man who gives millions, but does so only in order to get praised does not have the virtue of generosity.
 

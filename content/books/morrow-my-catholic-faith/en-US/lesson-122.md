@@ -28,14 +28,14 @@ I. We are bound to support our pastors, because justice commands it, and God ord
 
 — The Church needs help for many purposes, among which are the following: 1. Maintenance of public worship, education, and charity, as instruction of the young, relief of the poor, upkeep of the Churches, seminaries, schools, colleges, asylums, hospitals, cemeteries, orphanages, etc.
 
-> Some Catholics think that the little given the parish priest once in a while as Mass stipend is enough to support the needs of the Church. It is not even enough to .support the priest decently, to keep the church clean, pay the salaries of workmen, purchase vestments, lights, etc.
+> Some Catholics think that the little given the parish priest once in a while as Mass stipend is enough to support the needs of the Church. It is not even enough to support the priest decently, to keep the church clean, pay the salaries of workmen, purchase vestments, lights, etc.
 
 2. Maintenance of missions in heathen lands, and among non-Catholics here.
 
 
 **In what ways may we contribute to the support of the Church?**
 
-— Some of the most common ways are: 1. By making a liberal and voluntary offering. to the priest when he performs some religious ceremony in our behalf, such as blessing our houses and children, etc.
+— Some of the most common ways are: 1. By making a liberal and voluntary offering to the priest when he performs some religious ceremony in our behalf, such as blessing our houses and children, etc.
 
 > In parishes with an established schedule of fees for baptism, confirmation, marriage, and burial, the fee should be paid without arguing or bargaining. More than the scheduled fee should be given by persons of means, as the schedule is for those of ordinary financial ability.
 
@@ -49,7 +49,7 @@ I. We are bound to support our pastors, because justice commands it, and God ord
 
 4. By supporting a student in the seminary, some orphans in Catholic schools, catechists and priests in the missions, etc.
 
-> What merit before God it must be to support a student for the priesthood, or a priest in the missions! If we cannot ourselves go to serve Him there, we, as it were, offer Him a representative. If a father has no son for the seminary, he keeps a substitute there! .And we remember that such persons as we benefit only naturally feel towards us a special affection, and will devote many of their prayers for their benefactors; what blessings may we not expect from the Masses and prayers of one who we haven't helped on the way to the Priesthood!
+> What merit before God it must be to support a student for the priesthood, or a priest in the missions! If we cannot ourselves go to serve Him there, we, as it were, offer Him a representative. If a father has no son for the seminary, he keeps a substitute there! And we remember that such persons as we benefit only naturally feel towards us a special affection, and will devote many of their prayers for their benefactors; what blessings may we not expect from the Masses and prayers of one who we have helped on the way to the Priesthood!
 
 
 **How much should we contribute for the support of the Church?**

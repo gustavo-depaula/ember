@@ -2,7 +2,7 @@
 
 ![](../images/lesson-112.webp)
 
-Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path .of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19: 1-10). Thus he determined to make reparation for his usury.
+Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19: 1-10). Thus he determined to make reparation for his usury.
 
 
 **Are we obliged to repair damage unjustly done to the property of others?**
@@ -13,7 +13,7 @@ Once our Lord was walking through Jericho. A rich publican Zacheus, wished to se
 
 1. If we have unknowingly, by purchase or gift, obtained possession of stolen property, we are bound to restore it to the rightful owner, as soon as we learn the truth.
 
-> We are just possessors only as long as we do not know the goods were stolen. As soon as we become aware of that fact, we must give up the property. "The beginning of a good way is to do justice; and this is more acceptable with God, than to offer sacrifices . . . Better is a little with justice, than great revenues with iniquity" (Proverbs 16: 5, 8) .
+> We are just possessors only as long as we do not know the goods were stolen. As soon as we become aware of that fact, we must give up the property. "The beginning of a good way is to do justice; and this is more acceptable with God, than to offer sacrifices . . . Better is a little with justice, than great revenues with iniquity" (Proverbs 16: 5, 8).
 
 2. If one refuses to restore stolen property or to repair damage, he has unjustly done to the property of others, he cannot be forgiven. He will not obtain pardon from God, nor absolution from the priest, even if he confess his sin over and over again.
 
@@ -21,7 +21,7 @@ Once our Lord was walking through Jericho. A rich publican Zacheus, wished to se
 
 3. Justice requires reparation of the evil we do, in so far as we have ability to make that reparation. Without restitution or reparation, there is no forgiveness.
 
-> St. Alph on sus relates the story of a rich man who had an ulcer in the arm and was near death. The priest urged him to restore the property he had unjustly acquired, but the man refused, saying that if he did so, his three sons would be left penniless. The priest then said he knew of a cure for the rich man's disease: a living person must allow his hand to be burned, and while still raw, be applied to the ulcer. Eager to get well, the rich man had his three sons called, but not one of them was willing to have his hand burned. The priest then said: "See, not one of your sons will burn a hand for you; yet you are willing to burn in hell-fire for all eternity, only to leave them your wealth." The rich man's eyes were opened, and he consented to make restitution.
+> St. Alphonsus relates the story of a rich man who had an ulcer in the arm and was near death. The priest urged him to restore the property he had unjustly acquired, but the man refused, saying that if he did so, his three sons would be left penniless. The priest then said he knew of a cure for the rich man's disease: a living person must allow his hand to be burned, and while still raw, be applied to the ulcer. Eager to get well, the rich man had his three sons called, but not one of them was willing to have his hand burned. The priest then said: "See, not one of your sons will burn a hand for you; yet you are willing to burn in hell-fire for all eternity, only to leave them your wealth." The rich man's eyes were opened, and he consented to make restitution.
 
 4. A person who has accidentally damaged the property of another through no fault of his own is not obliged to repair the damage unless required to do so by civil law. Employees are bound to take reasonable care of the property of employers.
 
@@ -47,10 +47,20 @@ Once our Lord was walking through Jericho. A rich publican Zacheus, wished to se
 
 **What does the tenth commandment forbid?**
 
-— The tenth commandment forbids all desire to take or to keep unjustly what belongs to others, and also forbids envy at their success. 1. We are permitted to desire the property of others only when we propose to obtain it by legitimate means, such as by purchase or exchange.
+— The tenth commandment forbids all desire to take or to keep unjustly what belongs to others, and also forbids envy at their success.
+
+1. We are permitted to desire the property of others only when we propose to obtain it by legitimate means, such as by purchase or exchange.
 
 > "For covetousness is the root of all evils, and some in their eagerness to get rich have strayed from the faith and have involved themselves in many troubles" (1 Tim. 6: 10).
 
-2. Among those guilty of violating the tenth commandment are; (a) Those who desire or resolve to steal or cause loss to others, even if the resolution is not carried out; (b) Children who wish for the death of their parents in order to obtain their property; (c) Those who wish for war, epidemics, storms, fire, legal troubles, social outbreaks or other calamities, in order to profit from the resulting high prices of their products; and (d) Those who deny the right of private property such as Socialists or Communists.
+2. Among those guilty of violating the tenth commandment are:
+
+(a) Those who desire or resolve to steal or cause loss to others, even if the resolution is not carried out;
+
+(b) Children who wish for the death of their parents in order to obtain their property;
+
+(c) Those who wish for war, epidemics, storms, fire, legal troubles, social outbreaks or other calamities, in order to profit from the resulting high prices of their products; and
+
+(d) Those who deny the right of private property such as Socialists or Communists.
 
 > Communism is an extreme form of Socialism, a form of politico-economic system in which ownership of all property is vested in civil society, which then would control both production and distribution. It has repeatedly been condemned in papal encyclicals, notably those of Leo XIII and Pius XI.

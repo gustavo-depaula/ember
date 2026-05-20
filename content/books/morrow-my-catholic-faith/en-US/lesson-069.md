@@ -29,7 +29,7 @@ The Catholic Church will endure to the end of time, for it is founded on a rock.
 
 5. Christ intended the Church to remain as He founded it, to preserve the whole of what He taught, and the shining marks which He gave it in the beginning. If the Church lost any of the qualities that God gave it, it could not be said to be indefectible, because it would not be the same institution. Indefectibility implies unchangeability.
 
-> Our Lord promised to abide by the Church, to assist it, and to send the Holy Ghost to remain in it. God does not change: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 20).
+> Our Lord promised to abide with the Church, to assist it, and to send the Holy Ghost to remain in it. God does not change: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 20).
 
 6. Because of its indefectibility the truths revealed by God will always be taught in the Catholic Church. St. Ambrose said: "The Church is like the moon; it may wane, but never be destroyed; it may be darkened, but it can never disappear."
 

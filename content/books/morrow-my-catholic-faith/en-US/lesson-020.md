@@ -54,7 +54,7 @@ God punished Adam and Eve for the sin they committed. "And the Lord God sent him
 
 — God is not unjust in punishing us on account of the sin of Adam, because original sin does not take away from us anything to which we have a strict right as human beings, but only the free gifts which God in His goodness would have bestowed on us if Adam had not sinned. 1. All mankind must suffer for the sin of Adam because he was the head and representative of the whole human family.
 
-> In much the same way. the ruler of a country represents the whole people. He declares war or makes peace, and the people are affected by his acts. When Alfonso XIII of Spain was dethroned, his children lost their right to the throne through no fault of their own. So also the children of a rich man who goes bankrupt lose all the inheritance they hoped for, through no fault of theirs.
+> In much the same way, the ruler of a country represents the whole people. He declares war or makes peace, and the people are affected by his acts. When Alfonso XIII of Spain was dethroned, his children lost their right to the throne through no fault of their own. So also the children of a rich man who goes bankrupt lose all the inheritance they hoped for, through no fault of theirs.
 
 2. We should have shared in Adam's blessings of soul and body without any merit of our own, if he had not sinned. In the same way we share in his guilt.
 

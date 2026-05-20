@@ -2,7 +2,8 @@
 
 ![](../images/lesson-060.webp)
 
-As the Pope is the successor of St. Peter, so the other bishops are the direct successors of the other Apostles. Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese The priests, especially parish priests, assist the bishops in the care of souls.
+As the Pope is the successor of St. Peter, so the other bishops are the direct successors of the other Apostles. Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese.
+The priests, especially parish priests, assist the bishops in the care of souls.
 
 
 **What jurisdiction has a bishop?**
@@ -15,7 +16,7 @@ As the Pope is the successor of St. Peter, so the other bishops are the direct s
 
 > As the Pope is the successor of St. Peter, so the other bishops are the direct successors of the other Apostles.
 
-> Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese
+> Bishops are called "princes of the Church." To them Our Lord spoke: "He who hears you hears Me." They and their vicars general are termed ordinaries because they have ordinary, or immediate, jurisdiction over the diocese.
 
 2. A bishop administers the temporal possessions of his diocese, and gives an account of their administration to the Pope. He provides for the education and training of candidates for the priesthood, and the religious education of his whole flock. He gives faculties to hear confessions, censors books on religious subjects, and has many other powers for the proper administration of his diocese. A bishop is supreme in his diocese, but he is subject in all things to the Pope, who appoints him.
 
@@ -48,7 +49,7 @@ As the Pope is the successor of St. Peter, so the other bishops are the direct s
 
 2. Parish priests receive their orders and jurisdiction from the bishop. They are his spiritual children, and are bound to carry out his commands. In the parish, the parish priest represents the bishop, and no one may, without his consent or the bishop's, exercise spiritual functions there, such as marrying, baptising, preaching, burying, giving extreme unction, etc.
 
-> A vicar for a ne (called also urban and rural dean) is a parish priest having supervisory power in the name of the bishop over neighbouring parishes. A vicar-general is the chief among the officers of a diocese. Parish priests of large districts have priests helping them, called curates or assistants.
+> A vicar forane (called also urban and rural dean) is a parish priest having supervisory power in the name of the bishop over neighbouring parishes. A vicar-general is the chief among the officers of a diocese. Parish priests of large districts have priests helping them, called curates or assistants.
 
 3. The duties of parish priests are many, varied, and of great responsibility. Like all priests, they are pledged to lifelong celibacy. Daily, they must recite the Breviary, the priests' book, which cannot be read under less than an hour's time.
 

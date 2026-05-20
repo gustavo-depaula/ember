@@ -47,9 +47,9 @@ However, we may not receive Holy Communion after committing a mortal sin, if we 
 
 — Our contrition is imperfect when we are sorry for our sins because they are hateful in themselves or because we fear God's punishment.
 
-1. Imperfect contrition is called attrition, The fear of hell is a common motive of attrition. It is a good motive, but it is imperfect, because it arises from fear of God's punishments, and not from pure love for Him.
+1. Imperfect contrition is called ***attrition***. The fear of hell is a common motive of attrition. It is a good motive, but it is imperfect, because it arises from fear of God's punishments, and not from pure love for Him.
 
-> A mother sent her three young sons to take a big jar of honey to their grandmother. On the way the boys stopped to play. They stumbled over the jar, breaking it and spilling the honey. They all began to weep. The first said, "Mother will surely spank us!" The second cried, "She ..will be so displeased she will give us no cookies!" And the third wept, "Mother will surely be sad!" The first two boys had attrition: one had the fear of punishment, and the second had sorrow at the loss of reward. The third child had perfect contrition, for he thought only of the sadness and offence he caused to one he loved.
+> A mother sent her three young sons to take a big jar of honey to their grandmother. On the way the boys stopped to play. They stumbled over the jar, breaking it and spilling the honey. They all began to weep. The first said, "Mother will surely spank us!" The second cried, "She ...will be so displeased she will give us no cookies!" And the third wept, "Mother will surely be sad!" The first two boys had attrition: one had the fear of punishment, and the second had sorrow at the loss of reward. The third child had perfect contrition, for he thought only of the sadness and offence he caused to one he loved.
 
 2. Imperfect contrition, or attrition, is sufficient for a worthy reception of the sacrament of Penance; an act of attrition cannot obtain forgiveness of mortal sin without the absolution of a priest.
 

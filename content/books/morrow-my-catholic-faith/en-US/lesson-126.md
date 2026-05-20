@@ -19,7 +19,7 @@ The essential part of Baptism is the pouring of water (1) together with the sayi
 
 > If the person baptised is an infant, his godparents take the baptismal vows for him, in his name. These vows take the form of answers to six questions concerning the renunciation of Satan and all his works and pomps, and belief in the chief doctrines of the Christian faith. Then the candidate is anointed with the oil of catechumens, touched on the breast that wisdom may thrive in his heart, and on the shoulders, that he may patiently bear the yoke of Christ. Then the priest changes his violet stole for a white one. to show that the separation from God of the soul is about to give way to a life of grace. Follows the profession of faith, a reiteration of the Apostles' Creed, and formal petition for Baptism.
 
-4. The main act. The priest pours the baptismal water three times upon the head of the candidate in the form of the cross, at the same time pronouncing the words: ''(Name of candidate), I baptise thee in the name of the Father and of the Son and of the Holy Ghost."
+4. The main act. The priest pours the baptismal water three times upon the head of the candidate in the form of the cross, at the same time pronouncing the words: "(Name of candidate), I baptise thee in the name of the Father and of the Son and of the Holy Ghost."
 
 > At this actual moment of Baptism, the godparents must touch the candidate, to show that they incur and accept the spiritual relationship.
 

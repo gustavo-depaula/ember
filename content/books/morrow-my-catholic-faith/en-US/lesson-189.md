@@ -55,9 +55,9 @@ One of the most famous places of pilgrimage is the Grotto of Our Lady of Lourdes
 
 4. Shrines of pilgrimage in honour of the Blessed Virgin are scattered all over the world, and are so numerous as to be almost countless. But the most famous are: Lourdes in France, Loretto in Italy, Zaragoza in Spain, Czestochowa in Poland, Fatima in Portugal, Guadalupe in Mexico, Lujan in Argentina, etc. (a) At Lourdes every year a million pilgrims offer their love to Mary Immaculate, and profit by her intercession; many miraculous cures have taken place there.
 
-> For other shrines of Saints we may also mention St. Becket's at Canterbury, St. James at Compost ella, and St. Patrick's at Donegal.
+> For other shrines of Saints we may also mention St. Becket's at Canterbury, St. James at Compostella, and St. Patrick's at Donegal.
 
-(b) Since the year 1295 the holy house of Nazareth, dwelling place .of the Blessed Virgin, has been located in Loretto, Italy.
+(b) Since the year 1295 the holy house of Nazareth, dwelling place of the Blessed Virgin, has been located in Loretto, Italy.
 
 > This humble home was seen by St. Louis about forty years before in Nazareth itself; then it appeared in various places in Europe until it finally made its appearance in Loretto. Since the house appeared in the various places without the help of human beings, its location in Loretto is a miracle. A great church has been built over the house, and the spot is a very famous place of pilgrimage.
 

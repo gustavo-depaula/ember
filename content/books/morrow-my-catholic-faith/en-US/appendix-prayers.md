@@ -119,12 +119,14 @@ Angel of God, my guardian dear, To whom God's love entrusts me here, Ever this d
 
 V. The angel of the Lord declared unto Mary. R. And she conceived of the Holy Ghost. Hail Mary, etc. V. Behold the handmaid of the Lord. R. Be it done unto me according to thy word. Hail Mary, etc. V. And the Word was made flesh. R. And dwelt among us. Hail Mary, etc. V. Pray for us, O holy Mother of God. R. That we may be made worthy of the promises of Christ. Let us Pray Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we to whom the Incarnation of Christ, Thy Son, was made known by the message of an angel, may by His passion and cross be brought to the glory of His resurrection, through the same Christ Our Lord. Amen.
 
-> (Indulgence often years)
+> (Indulgence of ten years)
 
 
 **Regina Coeli**
 
-Queen of heaven, rejoice. Alleluia. For He whom thou didst deserve to bear. Alleluia. Hath risen as He said. Alleluia. Pray for us to God. Alleluia. V. Rejoice and be glad, O Virgin Mary! Alleluia. R. Because Our Lord is truly risen. Alleluia. Let us Pray O God, who by the resurrection of Thy Son, Our Lord Jesus Christ, hast vouchsafed to make glad the whole world, grant, we beseech Thee, that, through the intercession of the Virgin Mary, His Mother, we may attain the joys of eternal life. Through the same Christ Our Lord. Amen.(Indulgence of ten years)
+Queen of heaven, rejoice. Alleluia. For He whom thou didst deserve to bear. Alleluia. Hath risen as He said. Alleluia. Pray for us to God. Alleluia. V. Rejoice and be glad, O Virgin Mary! Alleluia. R. Because Our Lord is truly risen. Alleluia. Let us Pray O God, who by the resurrection of Thy Son, Our Lord Jesus Christ, hast vouchsafed to make glad the whole world, grant, we beseech Thee, that, through the intercession of the Virgin Mary, His Mother, we may attain the joys of eternal life. Through the same Christ Our Lord. Amen.
+
+> (Indulgence of ten years)
 
 
 **De Profundis**
@@ -134,7 +136,7 @@ Out of the depths I have cried unto Thee, O Lord! Lord, hear my voice. Let Thine
 
 **The Mysteries of the Rosary**
 
-The Five Joyful Mysteries 1. The Annunciation 2. The Visitation 3. The Birth of Our Lord 4. The Presentation of Our Lord 5. The Finding of Our Lord in the Temple The Five Sorrowful Mysteries 1. The Agony of Our Lord in the Garden 2. The Scourging at the Pillar 3. The Crowning with Thorns 4. The Carrying of the Cross 5. The Crucifixion and Death of Our Lord The Five Glorious Mysteries 1. The Resurrection 2. The Ascension 3, The Descent of the Holy Ghost 4. The Assumption of our Blessed Mother into Heaven 5. The Coronation of Our Blessed Mother
+The Five Joyful Mysteries 1. The Annunciation 2. The Visitation 3. The Birth of Our Lord 4. The Presentation of Our Lord 5. The Finding of Our Lord in the Temple The Five Sorrowful Mysteries 1. The Agony of Our Lord in the Garden 2. The Scourging at the Pillar 3. The Crowning with Thorns 4. The Carrying of the Cross 5. The Crucifixion and Death of Our Lord The Five Glorious Mysteries 1. The Resurrection 2. The Ascension 3. The Descent of the Holy Ghost 4. The Assumption of our Blessed Mother into Heaven 5. The Coronation of Our Blessed Mother
 
 
 **Prayer Before a Crucifix**
@@ -172,7 +174,11 @@ Mother of mercy, pray for us.
 
 > (300 days' indulgence)
 
-Jesus, Mary, and Joseph, bless us now and at the hour of our death. (500 days' indulgence) Jesus, Mary, Joseph, I give you my heart and my soul. Jesus, Mary, Joseph, assist me in my last agony. Jesus, Mary, Joseph, may I breathe forth my soul in peace with you.
+Jesus, Mary, and Joseph, bless us now and at the hour of our death.
+
+> (500 days' indulgence)
+
+Jesus, Mary, Joseph, I give you my heart and my soul. Jesus, Mary, Joseph, assist me in my last agony. Jesus, Mary, Joseph, may I breathe forth my soul in peace with you.
 
 
 **Prayer to Christ the King**
@@ -182,12 +188,32 @@ O Jesus Christ, I acknowledge Thee as universal King. All that has been made, ha
 
 **Tantum Ergo**
 
-Tantum ergo Sacramentum, Veneremur cernui: (bow your head) Et antiquum documentum Novo cedat ritui: Praestet fides supplementum Sensuum defectui. Genitori, Genitoque Laus et jubilatio, Salus, honor virtus quoque Sit et benedictio; Procedenti ab utroque Compar sit laudatio. Amen.
+*Tantum ergo Sacramentum.*
+
+Tantum ergo Sacramentum
+Veneremur cernui: (bow your head)
+Et antiquum documentum
+Novo cedat ritui:
+Praestet fides supplementum
+Sensuum defectui.
+
+Genitori, Genitoque
+Laus et jubilatio,
+Salus, honor virtus quoque
+Sit et benedictio;
+Procedenti ab utroque
+Compar sit laudatio. Amen.
 
 
 **Adoremus in Aeternum**
 
-Sanctissimum Sacramentum. Laudate Dominum omnes gentes, laudate eum omnes populi. Quoniam confirmata est super nos misericordia ejus et Veritas Domini manet in aeternum. Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saecula saeculorum. Amen.
+Sanctissimum Sacramentum.
+
+Laudate Dominum omnes gentes, laudate eum omnes populi.
+
+Quoniam confirmata est super nos misericordia ejus et Veritas Domini manet in aeternum.
+
+Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc et semper, et in saecula saeculorum. Amen.
 
 
 **The Manner in Which a Lay Person is to Baptise in Case of Necessity**

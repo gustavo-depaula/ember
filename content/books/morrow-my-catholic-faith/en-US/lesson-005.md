@@ -69,4 +69,4 @@ Many people make themselves miserable worrying over the future. They should have
 
 2. Even the evil that God permits to happen, He turns to our good. He draws good out of evil.
 
-> The wicked persecutions of the Church make the Gospel better known and loved among the just. Thus the patriarch Joseph said to his brothers, "You thought evil against me, but God turned it into good" (Gen. 50: 30). "For those who love God, all things work together unto good" (Rom. 8: 28).
+> The wicked persecutions of the Church make the Gospel better known and loved among the just. Thus the patriarch Joseph said to his brothers, "You thought evil against me, but God turned it into good" (Gen. 50: 20). "For those who love God, all things work together unto good" (Rom. 8: 28).

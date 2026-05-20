@@ -1,5 +1,8 @@
 # 137. Vestments
 
+1. Amice 3. Cinture 5. Stole 7. Surplice and cassock
+2. Alb 4. Maniple 6. Chasuble 8. Cope
+
 
 **What vestments does the priest use in the celebration of Holy Mass?**
 
@@ -13,7 +16,7 @@
 
 2. The alb is a white linen tunic which envelops the priest's whole body.
 
-> As he puts it on, the priest says,."Purify me, O Lord, from all stain and cleanse my heart, that washed in the Blood of the Lamb, I may enjoy eternal delights."
+> As he puts it on, the priest says, "Purify me, O Lord, from all stain and cleanse my heart, that washed in the Blood of the Lamb, I may enjoy eternal delights."
 
 3. The cincture or girdle is the cord which fastens the alb at the waist.
 
@@ -25,7 +28,7 @@
 
 5. The stole is the long silk band that fits around the neck and is crossed on the breast of the priest. It is the symbol of authority in the Church, of all vestments most blessed.
 
-> The vesting prayer is, ''Restore to me, O Lord, the state of immortality which was lost to me by my first parents, and although unworthy to approach Thy sacred mysteries, grant me nevertheless eternal joy." As a sign of his full priestly powers the bishop does not cross the stole in front. The Pope alone has the right to wear it always.
+> The vesting prayer is, "Restore to me, O Lord, the state of immortality which was lost to me by my first parents, and although unworthy to approach Thy sacred mysteries, grant me nevertheless eternal joy." As a sign of his full priestly powers the bishop does not cross the stole in front. The Pope alone has the right to wear it always.
 
 6. The chasuble is the uppermost vestment worn by the celebrant at Mass. It hangs from the shoulders, in front and behind, down almost to the knees.
 

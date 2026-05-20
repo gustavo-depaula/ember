@@ -2,7 +2,7 @@
 
 ![](../images/lesson-177.webp)
 
-The Church has blessings for persons, places, and things. A mother after childbirth-is blessed. Anybody may ask a priest to bless him. Houses and places of business, fields and crops, may be blessed. Devotional articles, such as medals, rosaries, crucifixes, images and holy pictures, may be blessed. In certain places if is a custom fo wear blessed dresses. All these blessings and objects blessed are sacramentals. We use them to obtain favours from God.
+The Church has blessings for persons, places, and things. A mother after childbirth is blessed. Anybody may ask a priest to bless him. Houses and places of business, fields and crops, may be blessed. Devotional articles, such as medals, rosaries, crucifixes, images and holy pictures, may be blessed. In certain places it is a custom to wear blessed dresses. All these blessings and objects blessed are sacramentals. We use them to obtain favours from God.
 
 
 **What are sacramentals?**
@@ -13,9 +13,9 @@ The Church has blessings for persons, places, and things. A mother after childbi
 
 2. Our Lord sanctioned the use of sacramentals; He blessed the loaves and fishes, the young children, and the Apostles before the Ascension. He gave the Apostles power over evil spirits, to cast them out and to heal all kinds of diseases.
 
-> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" , (Ps. 1: 7). "I reprehend myself and do penance in dust and ashes" (Job 4: 2).
+> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" (Ps. 1: 7). "I reprehend myself and do penance in dust and ashes" (Job 4: 2).
 
-3, Prayers and ceremonies of the Church are also sacramentals, because they increase devotion in the worship of God.
+3. Prayers and ceremonies of the Church are also sacramentals, because they increase devotion in the worship of God.
 
 > The Church makes use of ceremonies in imitation of the example of the Old Law, in which God Himself prescribed ceremonies; also in imitation of Our Lord, Who used His breath, made clay, used gestures, in working miracles, when He could have worked them as easily by a mere act of His will. Our Lord gave the Church power to instruct men, and therefore the implied power to do whatever is necessary to help out the purpose. Ceremonies without doubt add solemnity to religious acts.
 
@@ -49,4 +49,6 @@ The Church has blessings for persons, places, and things. A mother after childbi
 
 > The consecration of kings, abbots, monks, and nuns, consists in having them formally set apart by the Church through its minister so as to be dedicated to its special service. The consecration of bishops and the ordination of priests is a sacrament.
 
-The blessing of mothers and their infants was a custom dating from the Old Testament; Mary, the Mother of Our Lord, herself observed this custom, More of our modern mothers should imitate her, imploring God's blessing. 2. Blessings given for places. Among the most common places blessed are: churches, chapels, altars, cemeteries, dwelling-houses, places of business, farms, etc.
+The blessing of mothers and their infants was a custom dating from the Old Testament; Mary, the Mother of Our Lord, herself observed this custom. More of our modern mothers should imitate her, imploring God's blessing.
+
+2. Blessings given for places. Among the most common places blessed are: churches, chapels, altars, cemeteries, dwelling-houses, places of business, farms, etc.

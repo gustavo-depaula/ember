@@ -45,7 +45,7 @@ Theodosius the Great Roman Emperor, although a just ruler, once ordered the mass
 
 — God requires temporal punishment for sin to satisfy His justice, to teach us the great evil of sin, and to warn us not to sin again. 1. Temporal punishment is due even forgiven sins, because human contrition is often imperfect. This temporal punishment is an atonement made to divine sanctity and justice. After confession, our contrition generally requires more satisfaction than the few prayers given as penance.
 
-> "Nathan said to David: The Lord hath taken away thy sin, thou shalt not die; nevertheless, because thou hast given occasion to the enemies of the Lord to blaspheme, for this thing the child that is born to thee shall surely die" (2 Kings 12),
+> "Nathan said to David: The Lord hath taken away thy sin, thou shalt not die; nevertheless, because thou hast given occasion to the enemies of the Lord to blaspheme, for this thing the child that is born to thee shall surely die" (2 Kings 12).
 
 2. Temporal punishment, as the word implies, lasts for only a time. It has a definite end. Holy Scripture furnishes us many examples of temporal punishment having been imposed by God.
 
@@ -58,7 +58,7 @@ Theodosius the Great Roman Emperor, although a just ruler, once ordered the mass
 
 — They are: prayer, attending Mass, fasting, alms-giving, the works of mercy, the patient endurance of sufferings, and indulgences.
 
-> "But Zacchaeus stood and said to the Lord, 'Behold, Lord, I give one-half of my possessions to the poor, and if I have defrauded anyone of anything, I restore it fourfold' " (Luke 19: 8-9),
+> "But Zacchaeus stood and said to the Lord, 'Behold, Lord, I give one-half of my possessions to the poor, and if I have defrauded anyone of anything, I restore it fourfold' " (Luke 19: 8-9).
 
 Devout persons will not be satisfied with doing the penance imposed by the priest. They will do voluntary work of charity and mortification, in atonement; - they will, besides, bear patiently all ills sent by God.
 

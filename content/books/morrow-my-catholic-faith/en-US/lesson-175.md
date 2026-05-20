@@ -13,7 +13,7 @@ The illustration shows a young man and a young woman making their offerings to J
 
 1. The religious state is called the state of perfection because those who embrace it have the obligation, through faithfulness to their vows, of aiming at evangelical perfection.
 
-> Those who are in the state of perfection are not necessarily all perfect; but they are expected to aim at perfection. Many people in the world are actually more holy than some in the religious state. It is however easier to strive after perfection in the religious state, where there are more aids and means than in the world with its distractions,
+> Those who are in the state of perfection are not necessarily all perfect; but they are expected to aim at perfection. Many people in the world are actually more holy than some in the religious state. It is however easier to strive after perfection in the religious state, where there are more aids and means than in the world with its distractions.
 
 2. The call to the religious state is only an invitation: ''Not all can accept this teaching, but those to whom it has been given" (Matt. 19: 11).
 

@@ -61,7 +61,7 @@ Unlike the sacraments, they have no power to confer grace of themselves. The ble
 
 4. Health of body and material blessings.
 
-> The Apostles anointed with oil many who were sick, and healed them. Innumerable are the examples in modern times of the extraordinary effects of sacramentals.
+> The Apostles anointed with oil many who were sick and healed them. Innumerable are the examples in modern times of the extraordinary effects of sacramentals.
 
 5. Protection from evil spirits.
 
