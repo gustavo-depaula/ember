@@ -69,6 +69,18 @@ function buildImageRefMap(
   return map
 }
 
+// Book chapters reference images as relative markdown links
+// (`![alt](../images/<rel>)`). Rewrite each match to `corpus://<hash>.<ext>`
+// so useResolvedImageUri can fetch the blob — matching how practice flows
+// handle the same indirection via rewriteImagePaths.
+function rewriteMarkdownImagePaths(text: string, refs: Map<string, string>): string {
+  return text.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, src) => {
+    const normalized = src.replace(/^\.\.\//, '').replace(/^\.\//, '')
+    const replaced = refs.get(normalized)
+    return replaced ? `![${alt}](${replaced})` : match
+  })
+}
+
 // Practices reference images by their `images/<rel>` path in flow.json. The
 // corpus addresses them by hash, so rewrite every matching string in the
 // loaded flow up front; useResolvedImageUri then resolves `corpus://` to a
@@ -407,8 +419,10 @@ export async function loadBookChapterText(
   const { item } = residentItem<BookEntry>(bookId, 'book')
   if (!item) return undefined
   const ref = item.chapters[chapterId]?.[lang]
-  if (!ref) return undefined
-  return getText(ref.hash)
+  if (!ref || 'type' in ref) return undefined
+  const text = await getText(ref.hash)
+  const imageRefs = buildImageRefMap(item.images)
+  return imageRefs ? rewriteMarkdownImagePaths(text, imageRefs) : text
 }
 
 /**
