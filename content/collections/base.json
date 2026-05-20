@@ -216,10 +216,6 @@
 						},
 						{
 							"kind": "item",
-							"ref": "practice/memorare"
-						},
-						{
-							"kind": "item",
 							"ref": "practice/fatima-prayer"
 						}
 					]
@@ -269,10 +265,6 @@
 						{
 							"kind": "item",
 							"ref": "practice/thanksgiving-mass"
-						},
-						{
-							"kind": "item",
-							"ref": "practice/anima-christi"
 						},
 						{
 							"kind": "item",
