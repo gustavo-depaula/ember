@@ -2,6 +2,8 @@
 
 ![](../images/lesson-160.webp)
 
+*As an introduction to Holy Orders, a candidate receives the tonsure. The minor orders follow: porter, lector, exorcist, and acolyte. Then come the major orders: subdeacon, deacon, and priest. Finally, at his consecration, a bishop receives the fullness of the priesthood.*
+
 At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Ember Days are celebrated to implore God's blessings on the fruits of the earth; those days are likewise intended as special occasions for praying for the clergy. The Ember Days are the Wednesdays, Fridays, and Saturdays following December 13, the first Sunday in Lent, Pentecost and September 14. Ordinations take place on Ember Saturdays, Ember Days are days of penance, fasting, and abstinence.
 
 
@@ -20,8 +22,6 @@ At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Em
 > (a) Those who by ordination to the priesthood have power to offer Holy Mass, to administer solemn Baptism, and Extreme Unction; but who need jurisdiction for Penance and the administration of Matrimony and an indult for Confirmation, except when, acting as "extraordinary ministers," they administer Confirmation to those in danger of death from serious illness.
 
 > (b) Those of the episcopacy possessing the additional power of administering Confirmation and Holy Orders.
-
-> As an introduction to Holy Orders, a candidate receives the tonsure. The minor orders follow: porter, lector, exorcist, and acolyte. Then come the major orders: subdeacon, deacon, and priest. Finally, at his consecration, a bishop receives the fullness of the priesthood.
 
 4. The ordinations of a deacon and a priest, and the consecration of a bishop, are only three degrees in a single sacrament, which confers orders for each degree.
 

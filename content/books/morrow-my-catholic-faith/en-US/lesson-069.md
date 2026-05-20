@@ -58,4 +58,4 @@ The Catholic Church will endure to the end of time, for it is founded on a rock.
 
 > The long history of the Catholic Church is attended by schism and heresy, but each attack has only strengthened it. It has continued to live and spread in spite of everything and everybody.
 
-5. The Church is the Bride of Christ, cast into prison, starved, thrown to the beasts, trampled underfoot, hacked, tortured, crucified, and burned. But this fair Bride emerges from it all in the bloom and freshness of youth, serene, calm, immortal.
+5. The Church is the ***Bride of Christ***, cast into prison, starved, thrown to the beasts, trampled underfoot, hacked, tortured, crucified, and burned. But this fair Bride emerges from it all in the bloom and freshness of youth, serene, calm, immortal.

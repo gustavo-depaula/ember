@@ -353,8 +353,8 @@ The pages of history are filled with the names of Catholics outstanding in liter
 - Benedict XV — 1922
 - Pius XI — 1939
 - Pius XII — 1958
-- St. John XXIII — 1963
-- Bl. Paul VI — 1978
+- John XXIII — 1963
+- Paul VI — 1978
 - John Paul I — 1978
 - St. John Paul II — 2005
 - Benedict XVI — resigned 2013

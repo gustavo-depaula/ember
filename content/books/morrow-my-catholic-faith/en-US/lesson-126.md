@@ -15,7 +15,7 @@ The essential part of Baptism is the pouring of water (1) together with the sayi
 
 > Prayers of exorcism are read to break the power of Satan over the child. The priest touches the ears and nostrils of the candidate with his moistened thumb, to signify that the hearing should be opened to the Word of God, and that 'the candidate should live in the odour of sanctity.
 
-3. The baptismal vows. The candidate's good will is tested in the baptismal vows, in which he renounces Satan and all his works and pomps, that is all sins and all occasions of sin.
+3. The baptismal vows. The candidate's good will is tested in the baptismal vows, in which he renounces Satan and all his works and pomps, that is, all sins and all occasions of sin.
 
 > If the person baptised is an infant, his godparents take the baptismal vows for him, in his name. These vows take the form of answers to six questions concerning the renunciation of Satan and all his works and pomps, and belief in the chief doctrines of the Christian faith. Then the candidate is anointed with the oil of catechumens, touched on the breast that wisdom may thrive in his heart, and on the shoulders, that he may patiently bear the yoke of Christ. Then the priest changes his violet stole for a white one. to show that the separation from God of the soul is about to give way to a life of grace. Follows the profession of faith, a reiteration of the Apostles' Creed, and formal petition for Baptism.
 

@@ -7,7 +7,7 @@
 
 **Why is the "Our Father" the best of all prayers?**
 
-— The Our Father is the best of all prayers because it is the Lord's Prayer, taught us by Jesus Christ Himself, a prayer of perfect and unselfish love. 1. The "Our Father" was taught by Christ Himself to us through His Apostles at their request. It has an introduction and seven petitions.
+— The Our Father is the best of all prayers because it is the Lord's Prayer, taught us by Jesus Christ Himself; a prayer of perfect and unselfish love. 1. The "Our Father" was taught by Christ Himself to us through His Apostles at their request. It has an introduction and seven petitions.
 
 > The Our Father contains petitions for all the needs of soul and body. It is at one and the same time a prayer of praise, petition, and contrition.
 
@@ -43,7 +43,7 @@
 > This is the second petition in the Our Father. We here acknowledge God to be the King and Lord of creation. We ask that all may recognize Him as such, that He may extend His care and providence to all, that His kingdom on earth, the Church, may spread, and that we may have eternal life after death.
 
 
-**For what do we pray when we say "Thy will be done on earth as it is in heaven?''**
+**For what do we pray when we say "Thy will be done on earth as it is in heaven?"**
 
 — When we say "Thy will be done on earth as it is in heaven," we pray that all men may obey God on earth as willingly as the saints and angels obey Him in heaven.
 

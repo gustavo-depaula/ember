@@ -41,7 +41,7 @@ From the beginning of man's existence, sacrifices have been offered to God. The 
 
 2. The heathen, with perverted ideas, offered human sacrifices to their idols.
 
-> The King of Moab (4 Kings 3: 27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10: 20).
+> The King of Moab (4 Kings 5: 27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10: 20).
 
 God gave to Moses detailed instructions on sacrificial offerings (Lev. 1-7; 16; 22). Among the Jews, the high-priest, in the name of the people, offered morning and evening an unbloody sacrifice of incense, flour, oil, and frankincense. Then he offered a bloody sacrifice of a lamb, together with food and drink. On the Sabbath, two lambs, with bread and wine, were offered in addition as sacrifice.
 

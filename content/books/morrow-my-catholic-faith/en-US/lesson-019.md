@@ -30,7 +30,7 @@ Although there are some points of similarity between the skeletons of man and th
 
 3. Molecular biology replaced natural selection by the theory of gene mutation as the mechanism of evolution. The discovery of great complexity at the smallest level of life in the simplest living things illustrated a Designing Intelligence. This conclusion is bluntly refused by the scientific community.
 
-> Most scientists teach evolution as the only scientific explanation of origins. Some distinguished scientists have denied that this is a scientific fact. Fabre, the outstanding naturalist of modern times; Millikan, the great physicist; John Burroughs, the naturalist; Professors Richet (Paris), and Henderson (Harvard); Dr. Dwight, the anatomist; Alexis Carrel, and Sir Bertram Windle. More recently, authors Michael Behe, Stephen Myer and Dean Kenyon explain design by an Intelligent cause.
+> Most scientists teach evolution as the only scientific explanation of origins. Some distinguished scientists have denied that this is a scientific fact. Fabre, the outstanding naturalist of modern times; Millikan, the great physicist; John Burroughs, the naturalist; Professors Richet (Paris), and Henderson (Harvard); Dr. Dwight, the anatomist; Alexis Carrel, and Sir Bertram Windle. More recently, authors Michael Behe, Stephen Meyer and Dean Kenyon explain design by an Intelligent cause.
 
 4. The Catholic Church has always respected and encouraged science, but has also shown its limits. For example, science cannot prove its own principles, because the very means by which science makes its own conclusions are principles of reason – ie spirit. Science itself requires a higher light to work by, this is “perennial” Philosophy.
 

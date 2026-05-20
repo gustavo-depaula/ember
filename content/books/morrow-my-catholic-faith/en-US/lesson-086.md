@@ -17,11 +17,11 @@ God commands us to love ourselves. We must thus care for both our body and our s
 
 4. By the merits of Jesus Christ we are made children of God and temples of the Holy Ghost. Should we not love ourselves as such, if only to show reverence for God?
 
-> "Behold what manner of love the Father has bestowed upon us, that we should be called children of God" (I John 3:1). "Know you not that your members are the temple of the Holy Ghost, who is in you?" (1 Cor. 6: 19).
+> "Behold what manner of love the Father has bestowed upon us, that we should be called children of God" (1 John 3:1). "Know you not that your members are the temple of the Holy Ghost, who is in you?" (1 Cor. 6: 19).
 
 5. We are destined to live eternally with God and the angels in heaven. This dignity should impel us to love ourselves aright.
 
-> The end of man is the glory of God and the salvation of his own soul. We must have care, love, of ourselves, in order to save ourselves for God. For this reason, we should even love ourselves more than others: we have a greater duty to ourselves than to others. This should not be interpreted, however. as meaning that we should not sacrifice ourselves for the sake of others; for, as we shall see, self-sacrifice is not only possible, but most desirable.
+> The end of man is the glory of God and the salvation of his own soul. We must have care, love, of ourselves, in order to save ourselves for God. For this reason, we should even love ourselves more than others: we have a greater duty to ourselves than to others. This should not be interpreted, however, as meaning that we should not sacrifice ourselves for the sake of others; for, as we shall see, self-sacrifice is not only possible, but most desirable.
 
 
 **In what consists true love of self?**

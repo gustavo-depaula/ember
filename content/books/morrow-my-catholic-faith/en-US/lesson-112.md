@@ -53,7 +53,7 @@ Once our Lord was walking through Jericho. A rich publican Zacheus, wished to se
 
 > "For covetousness is the root of all evils, and some in their eagerness to get rich have strayed from the faith and have involved themselves in many troubles" (1 Tim. 6: 10).
 
-2. Among those guilty of violating the tenth commandment are:
+2. Among those guilty of violating the tenth commandment are;
 
 (a) Those who desire or resolve to steal or cause loss to others, even if the resolution is not carried out;
 

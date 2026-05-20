@@ -2,7 +2,7 @@
 
 ![](../images/lesson-083.webp)
 
-Words can never give any idea of the bliss of heaven, where the good will continually enjoy God, and be in the company of the saints and angels, of heaven, David speaks: 'They shall be inebriated with the plenty of thy house, and thou shalt make them drink of the torrent of thy pleasure" (Ps. 35: 9). St. John says of the blessed: "And God will wipe away every tear from their eyes. And death shall be no more; neither shall there be mourning, nor crying, nor pain any more" (Apoc. 21: 4).
+Words can never give any idea of the bliss of heaven, where the good will continually enjoy God, and be in the company of the saints and angels, of heaven David speaks: 'They shall be inebriated with the plenty of thy house, and thou shalt make them drink of the torrent of thy pleasure" (Ps. 35: 9). St. John says of the blessed: "And God will wipe away every tear from their eyes. And death shall be no more; neither shall there be mourning, nor crying, nor pain any more" (Apoc. 21: 4).
 
 
 **What do we mean by "life everlasting?"**

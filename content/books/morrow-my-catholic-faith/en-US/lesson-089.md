@@ -9,7 +9,7 @@
 
 — To love God, our neighbour, and ourselves, we must keep the commandments of God and of the Church, and perform the spiritual and corporal works of mercy.
 
-> Spiritual works of mercy are those that relieve spiritual needs of our neighbour. Corporal works of mercy are those that relieve corporal or material needs of our neighbour. "Therefore all things whatever you would that men should do to you, even so do you also to them" (Matt. 7:12),
+> Spiritual works of mercy are those that relieve spiritual needs of our neighbour. Corporal works of mercy are those that relieve corporal or material needs of our neighbour. "Therefore all things whatever you would that men should do to you, even so do you also to them" (Matt. 7:12).
 
 
 **Which are the chief corporal works of mercy?**
@@ -20,7 +20,7 @@
 
 2. To give drink to the thirsty.
 
-> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9: 40). Giving medicine belongs to this work of mercy, Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
+> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9: 40). Giving medicine belongs to this work of mercy. Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
 
 3. To clothe the naked. — Many make a practice of giving clothes to the poor; other gifts belong to this kind of alms.
 

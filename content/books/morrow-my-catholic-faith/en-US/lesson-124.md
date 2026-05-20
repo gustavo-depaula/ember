@@ -21,7 +21,7 @@
 
 3. The sacrament of Baptism confers grace. We know this from the fact that Christ made it the sacrament of renewal of spirit; "Unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3: 5).
 
-> St. Peter said: "Be baptised every one of you in the name of Jesus Christ for the forgiveness of your sins: and you will receive the gift of the Holy Spirit" (Acts 2:38).
+> St. Peter said: "Be baptised every one of you in the name of Jesus Christ for the forgiveness of your sins: and you will receive the gift of the Holy Spirit" (Acts 2: 38).
 
 
 **What are the effects of Baptism?**

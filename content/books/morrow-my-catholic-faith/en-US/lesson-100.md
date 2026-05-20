@@ -37,7 +37,9 @@ In these tables, the holydays of obligation which do not necessarily fall on a S
 
 **How does the Church command us to worship God on Sunday?**
 
-— The Church commands us to worship God on Sunday by assisting at the Holy Sacrifice of the Mass. 1. The obligation of Mass is binding on all persons who have attained the use of reason; that is, including children seven years old. Those who find it impossible, or very difficult, to hear Mass, are excused.
+— The Church commands us to worship God on Sunday by assisting at the Holy Sacrifice of the Mass.
+
+1. The obligation of Mass is binding on all persons who have attained the use of reason; that is, including children seven years old. Those who find it impossible, or very difficult, to hear Mass, are excused.
 
 > The sick, the very aged and infirm, and those engaged in works of necessity at the hour of Mass, are excused from attending it. Those who live too far to walk and have no conveyance are also excused. Very bad weather may be sufficient excuse.
 

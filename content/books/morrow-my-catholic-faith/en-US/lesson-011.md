@@ -14,7 +14,9 @@ A good concrete illustration of the Blessed Trinity is an equilateral triangle. 
 
 **How many Persons are there in God?**
 
-— In God, there are three Divine Persons — the Father, the Son, and the Holy Ghost. 1. In speaking of the "Persons" in God, we do not use the term in exactly the same way we use it when speaking of people. We use it only for lack of another to show our meaning better.
+— In God, there are three Divine Persons — the Father, the Son, and the Holy Ghost.
+
+1. In speaking of the "Persons" in God, we do not use the term in exactly the same way we use it when speaking of people. We use it only for lack of another to show our meaning better.
 
 > In speaking of a man as a "person," we mean that he is an intelligent being, acting individually for himself.
 

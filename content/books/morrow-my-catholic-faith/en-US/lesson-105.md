@@ -30,7 +30,7 @@
 
 4. We are bound to contribute towards the expenses of government by paying taxes. It is wrong to cheat the State in the matter of taxation.
 
-> It is only just that the citizens should contribute towards the maintenance of peace, order, 'good works, the army, etc. Our Lord Himself paid taxes (Matt. 17: 26). It is only just that we should help support the government that secures us protection.
+> It is only just that the citizens should contribute towards the maintenance of peace, order, good works, the army, etc. Our Lord Himself paid taxes (Matt. 17: 26). It is only just that we should help support the government that secures us protection.
 
 5. In case of a just war, men should be ready to render military service for the defence of their country.
 

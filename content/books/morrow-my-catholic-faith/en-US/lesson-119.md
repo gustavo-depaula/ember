@@ -7,7 +7,7 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 
 **What is the ecclesiastical year?**
 
-— The ecclesiastical year is the succession or cycle of seasons, including all the feasts, celebrated by the Church during the year. 1. The ecclesiastical year is made up of six seasons or periods of unequal length: Advent, Christmas tide, Septuagesima, Lent, Paschal time, and the period from Pentecost to Advent. These periods are regulated in their occurrence by the three principal feasts of the year: Christmas, Easter, and Pentecost. The Epistles and Gospels, as well as the Hymns and Sequences of the Mass, are in consonance with the seasons and periods of the ecclesiastical year.
+— The ecclesiastical year is the succession or cycle of seasons, including all the feasts, celebrated by the Church during the year. 1. The ecclesiastical year is made up of six seasons or periods of unequal length: Advent, Christmastide, Septuagesima, Lent, Paschal time, and the period from Pentecost to Advent. These periods are regulated in their occurrence by the three principal feasts of the year: Christmas, Easter, and Pentecost. The Epistles and Gospels, as well as the Hymns and Sequences of the Mass, are in consonance with the seasons and periods of the ecclesiastical year.
 
 > The ecclesiastical year differs somewhat from the civil year. Instead of beginning on a fixed date, January 1 as the civil year does, the ecclesiastical year begins with the first Sunday of Advent, four Sundays before Christmas. (See the Appendix) .
 
@@ -27,7 +27,7 @@ The entire year is divided by the Church into periods and seasons, some of rejoi
 > The four weeks of Advent represent the four thousand years during which the coming of the Messias was expected and prepared for. As a sign of penance, the Church uses purple vestments for the Mass of the season, suppresses the joyous Gloria, omits flowers on the altar, and forbids the saying of the Nuptial Mass, etc.
 
 
-**What is Christmas tide?**
+**What is Christmastide?**
 
 — Christmas-tide is the season of celebration after Christmas, a season of joy. During this period we celebrate events in the child life of Our Lord: the Circumcision, the Epiphany, the Feast of the Holy Family, the Purification, etc. The length of this period is regulated by the position of Septuagesima Sunday, which may occur any time between January 16 and February 22.
 

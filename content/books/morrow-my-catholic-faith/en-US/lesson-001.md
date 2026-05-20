@@ -28,11 +28,13 @@ In creating us, God gave us the power and right to choose which path we should f
 
 > It is by religion that we know, love, and serve God as He commands us to know, love and serve Him. It is by religion, then, that we fulfil the end for which we were made, and so save our soul.
 
-In order to practice this virtue, we must: 1. Believe all the truths revealed by God.
+In order to practice this virtue, we must:
+
+1. ***Believe*** all the truths revealed by God.
 
 > In religion we learn about God and His perfections. We learn something about His great love for us. We learn what is right and what is wrong. We learn what God commands us to do. We learn about the future that He has prepared for us.
 
-2. Carry out in our lives what we learn about the duties we owe to God, about His commands and wishes. Mere knowledge is not religion, and will avail us nothing. The devil has knowledge, but he has no religion. Religion includes the service of God in fulfilling what we have learned of our duties towards Him. Religion is not a matter of feeling; it is a matter of will and of action.
+2. ***Carry out*** in our lives what we learn about the duties we owe to God, about His commands and wishes. Mere knowledge is not religion, and will avail us nothing. The devil has knowledge, but he has no religion. Religion includes the service of God in fulfilling what we have learned of our duties towards Him. Religion is not a matter of feeling; it is a matter of will and of action.
 
 > Our Lord says: "Blessed are they who hear the word of God and keep it" (Luke 11: 28). The Apostle St. James said: "But be doers of the word, and not hearers only, deceiving yourselves" (Jas. 1).
 

@@ -22,7 +22,9 @@ The priests, especially parish priests, assist the bishops in the care of souls.
 
 > The Pope grants their jurisdiction to bishops; before a bishop can exercise his office, he has to be recognized and confirmed by the Pope. He is obliged to go to Rome at stated intervals, to report on the state of his diocese. A bishop has the right to be called to a General Council, which is an assembly of the bishops of the world, presided over by the Pope. But, "If anyone is eager for the office of bishop, he desires a good work" (1 Tim. 3:1)
 
-3. A bishop is shepherd of his flock. He appoints and supervises parish priests to help him. In governing his diocese, he is assisted by a number of "canons", or by diocesan consultors. A coadjutor or auxiliary bishop is commissioned to assist the bishop of a diocese. Usually a coadjutor bishop is one with the right of succession.
+3. A bishop is shepherd of his flock. He appoints and supervises parish priests to help him.
+
+In governing his diocese, he is assisted by a number of "canons", or by diocesan consultors. A coadjutor or auxiliary bishop is commissioned to assist the bishop of a diocese. Usually a coadjutor bishop is one with the right of succession.
 
 > The Pope addresses a bishop; *Brother*, because as bishops, they have the same rank. Bishops wear a mitre, and carry a crosier as a sign of their office of pastor. They wear a pectoral cross. They have a ring, as a symbol of their union with their diocese. The faithful kiss this ring in token of obedience and respect.
 

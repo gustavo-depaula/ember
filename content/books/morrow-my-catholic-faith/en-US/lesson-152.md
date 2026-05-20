@@ -2,7 +2,9 @@
 
 ![](../images/lesson-152.webp)
 
-1. Before a man is ordained priest and 2. After one is ordained priest, he is permitted to hear confessions, he must go through continually reminded of his duties not only by his a long period of careful study and preparation. superiors, but by his daily meditation and prayer. He will do three or at least two years of Every priest is obliged to say the Breviary every Philosophy, and four years of Theology, Canon day. These spiritual duties bring down the grace Law, Ecclesiastical History, and Sacred Scripture. of God on the priest, and serve to strengthen him This long and detailed preparation would usually to be faithful to his sacred duties, one of the most not attract a low class of men. important being to keep the seal of the confession, the sacramental secret.
+1. Before a man is ordained priest and permitted to hear confessions, he must go through a long period of careful study and preparation. He will do three or at least two years of Philosophy, and four years of Theology, Canon Law, Ecclesiastical History, and Sacred Scripture. This long and detailed preparation would usually not attract a low class of men.
+
+2. After one is ordained priest, he is continually reminded of his duties not only by his superiors, but by his daily meditation and prayer. Every priest is obliged to say the Breviary every day. These spiritual duties bring down the grace of God on the priest, and serve to strengthen him to be faithful to his sacred duties, one of the most important being to keep the seal of the confession, the sacramental secret.
 
 
 **What is the "seal of confession?"**

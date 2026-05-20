@@ -88,7 +88,7 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 **Apostolic Church.** The Apostolic Church claimed to be infallible in her teachings. "When you heard and received from us the word of God, you welcomed it not as the word of men, but, as it truly is, the word of God" (1 Thess. 2:13).
 
-**Catholic Church.** The Catholic Church alone, of all the Christian communions, claims to exercise the prerogative of infallibility in her teaching. Her ministers always speak from authority, and the faithful receive with implicit confidence what the Church teaches, without once questioning her veracity.
+**Catholic Church.** The Catholic Church alone, of all the Christian communions, claims to exercise the prerogative of infallibility in her teaching. Her ministers always speak from the pulpit as having authority, and the faithful receive with implicit confidence what the Church teaches, without once questioning her veracity.
 
 **Protestant Church.** Protestant churches repudiate the claim of infallibility, denying that such a gift is possessed by any teachers of religion. The ministers advance opinions as embodying their private interpretation of the Bible. Their hearers are expected to draw their own conclusions from the Bible.
 
@@ -118,7 +118,7 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 ### 6. Forgiveness of Sins
 
-**Apostolic Church.** The Apostles were empowered by our Saviour to forgive sins: "Whose sins you shall forgive, they are forgiven them" (John 20:23). "God," says St. Paul, "hath given to us the ministry of reconciliation" (2 Cor. 5:18).
+**Apostolic Church.** The Apostles were empowered by our Saviour to forgive sins: "Whose sins you shall forgive, they are forgiven them" (John 20:23). "God," says St. Paul, "hath given to us the ministry of reconciliation" (2 Cor. 7:10,11).
 
 **Catholic Church.** The Bishops and Priests of the Catholic Church, as the inheritors of Apostolic prerogatives, exercise the ministry of reconciliation and forgive sins in the name of Christ.
 

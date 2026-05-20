@@ -76,12 +76,14 @@ If our risen bodies were not those we had on earth they would not be our bodies,
 
 — By the special privilege of her Assumption, the body of the Blessed Virgin Mary, preserved from corruption, was raised from the dead and taken into heaven.
 
-> Assumption" in this sense means the taking up of the Blessed Virgin's body into heaven. Her Assumption differs from Christ's Ascension, in that He went up to heaven, body and soul, by His own unaided power, whereas Our Lady was taken up by the power of God, not her own. The dogma of the Assumption was proclaimed November 1, 1950.
+> "Assumption" in this sense means the taking up of the Blessed Virgin's body into heaven. Her Assumption differs from Christ's Ascension, in that He went up to heaven, body and soul, by His own unaided power, whereas Our Lady was taken up by the power of God, not her own. The dogma of the Assumption was proclaimed November 1, 1950.
 
 
 **Why will the bodies of the damned also rise?**
 
-— The bodies of the damned will also rise, to share in the eternal punishment of their souls. 1. The risen body of the wicked will be hideous and repulsive, a horror to behold.
+— The bodies of the damned will also rise, to share in the eternal punishment of their souls.
+
+1. The risen body of the wicked will be hideous and repulsive, a horror to behold.
 
 > This should give pause to those whose chief thought on earth is to pamper and decorate their bodies. This life will last only a few decades; but in the resurrection there will be an eternity. Should we prefer to be painted and "beautiful" for these few decades, and become an object of aversion for all eternity; or pay less attention to our body here on earth, so as to attain glory forever?
 

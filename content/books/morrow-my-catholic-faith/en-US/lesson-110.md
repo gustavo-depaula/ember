@@ -24,7 +24,7 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 2. A mere temptation to impurity, even when accompanied by bodily feeling, is not sinful unless there is wilful consent, at least to some degree. The stronger the temptation, the more merit we gain if we are faithful and resist. No matter how long the temptation lasts, even if it lasts our whole life, as long as we give it no consent, we are free from sin.
 
-> St. Catherine of Siena was once severely tempted against purity. Shortly after Our Lord appeared to her, she asked; "Where wert Thou, Lord, when those evil thoughts were in my mind?" Jesus replied, "I was in thy heart, taking pleasure in the victorious battle thou were waging."
+> St. Catherine of Siena was once severely tempted against purity. Shortly after Our Lord appeared to her, she asked: "Where wert Thou, Lord, when those evil thoughts were in my mind?" Jesus replied, "I was in thy heart, taking pleasure in the victorious battle thou were waging."
 
 3. By resisting an impure thought or desire is not meant thinking of and pondering over it. In temptation of this nature, the most effective means is to reject it at once, then to ignore it, to do something else to distract the mind. Thinking of and worrying about the temptation only makes it more persistent.
 
@@ -42,7 +42,7 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 > Shun the company of those that are impure. Impurity is no wonderful achievement to be proud about: any idiot can be impure. It is the strong soul that resists temptation and keeps himself clean. It is the chaste person that possesses manly strength.
 
-2. Always remember that God sees us, let us therefore seek His help through prayer.
+2. Always remember that God sees us. Let us therefore seek His help through prayer.
 
 > "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak" (Mark 14: 38). For instruction about matters of sex, go to your parents or to your pastor or older people whom you know are good.
 

@@ -35,7 +35,9 @@ Above, are illustrated some of the most common forms of superstition. Sick peopl
 
 **When does a person sin by sacrilege?**
 
-— A person sins by sacrilege when he mistreats sacred persons, places, or things. Sacrilege is a kind of blasphemy consisting of the violation or profanation of a person, place, or thing consecrated to God. For example, it is sacrilege incurring excommunication to lay violent hands upon a priest, a nun, or any other person consecrated to God. It is sacrilege to commit acts of impurity or of violence, like killing or fighting, in a church or consecrated graveyard to receive the sacraments unworthily, to steal sacred vessels or other Church property, to do damage in a church, to despise relics and holy pictures, mutilate images, etc.
+— A person sins by sacrilege when he mistreats sacred persons, places, or things.
+
+> Sacrilege is a kind of blasphemy consisting of the violation or profanation of a person, place, or thing consecrated to God. For example, it is sacrilege incurring excommunication to lay violent hands upon a priest, a nun, or any other person consecrated to God. It is sacrilege to commit acts of impurity or of violence, like killing or fighting, in a church or consecrated graveyard to receive the sacraments unworthily, to steal sacred vessels or other Church property, to do damage in a church, to despise relics and holy pictures, mutilate images, etc.
 
 > Baltassar, King of Babylon, was guilty of sacrilege when he used the sacred vessels of the Temple of Jerusalem as drinking cups at a feast. His punishment, as announced by the handwriting on the wall, is well-known. In order to avoid possible disrespect to sacred images and holy pictures that are already too old to use, we should burn them.
 

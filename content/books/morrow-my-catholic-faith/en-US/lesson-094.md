@@ -60,7 +60,9 @@ The true cross was found by St. Helena, mother of the emperor Constantine the Gr
 
 **Do we pray to the crucifix or to the images and relics of the saints?**
 
-— We do not pray to the crucifix or to the images and relics, but to the persons represented. 1. The veneration we pay to sacred images and relics is not paid to the relic, picture, or statue itself, but to the one represented, God, or one of the saints or angels.
+— We do not pray to the crucifix or to the images and relics, but to the persons represented.
+
+1. The veneration we pay to sacred images and relics is not paid to the relic, picture, or statue itself, but to the one represented, God, or one of the saints or angels.
 
 > In the same way when we kiss our mother's picture we do not give our affection to the paper, but to our mother. Disrespect to an image is disrespect to the one represented.
 

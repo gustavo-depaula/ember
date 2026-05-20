@@ -27,7 +27,7 @@
 
 > The sacred Host used for Benediction is reserved in a luna or lunette, which is placed in the glassed portion of the monstrance. (See page 282.)
 
-5. Burse and Corporal 6. Veiled Chalice and Burse
+5. Burse and Corporal 6. Veiled Chalice and Burse 7. Missal with Stand 8. Cruets and Bell
 
 5. Other things, such as the Missal, veil, cruets, and incense, are used at the altar.
 
@@ -39,8 +39,6 @@
 — The corporal, purificator, pall, and finger towel are used.
 
 > These linens, except the finger towel, are called the "holy cloths". All are made of white linen. No special significance is placed on the finger towel. It is of linen, used by the priest after washing his fingers before the consecration.
-
-7. Missal with Stand 8. Cruets and Bell
 
 1. The corporal is a square of fine linen, with a small cross worked in the centre. Sometimes it has a border of lace. It is folded in three from both sides, and kept in a burse. The corporal is the most important of the holy cloths. The priest spreads it on the altar. On it, he places the chalice and the Host after consecration.
 

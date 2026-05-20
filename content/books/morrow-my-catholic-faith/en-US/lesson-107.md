@@ -7,7 +7,9 @@ After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him
 
 **What are our duties respecting our health and life?**
 
-— We have the obligation to preserve our health and life. 1. Man has no right to encroach upon God's dominion over life. Man created no human being, and he may not kill any human being, not even his own self. Our body is not our own; it belongs to God. We are bound to take care of it, and to do with it not what we wish, but what God wills. God created our body as an abode for our immortal soul. Very often the condition of the body affects that of the soul. If the body is unhealthy, the soul suffers. There is a wise Roman proverb: "A healthy mind in a healthy body." However, we are not obliged to employ unusual means involving great expense, or extraordinary suffering.
+— We have the obligation to preserve our health and life. 1. Man has no right to encroach upon God's dominion over life. Man created no human being, and he may not kill any human being, not even his own self. Our body is not our own; it belongs to God. We are bound to take care of it, and to do with it not what we wish, but what God wills. God created our body as an abode for our immortal soul.
+
+Very often the condition of the body affects that of the soul. If the body is unhealthy, the soul suffers. There is a wise Roman proverb: "A healthy mind in a healthy body." However, we are not obliged to employ unusual means involving great expense, or extraordinary suffering.
 
 2. We must exercise prudence in preserving our health and that of those under our care. Prudence would imply cleanliness, temperance, regularity, industry, and the use of remedies during sickness.
 

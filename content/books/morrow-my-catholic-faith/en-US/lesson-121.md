@@ -9,7 +9,9 @@ The Sacrament of Penance was instituted by Our Lord. The Apostles administered i
 
 **What is meant by the commandment to confess our sins at least once a year?**
 
-— By the commandment to confess our sins at least once a year is meant that we are strictly obliged to make a good confession within the year, if we have a mortal sin to confess. Those who have reached the age of reason, generally at the seventh year, are bound by this law, under pain of mortal sin. We are not bound to confess to our parish priest. We may go to any confessor who is lawfully approved, whomever we prefer, in whatever church he may be.
+— By the commandment to confess our sins at least once a year is meant that we are strictly obliged to make a good confession within the year, if we have a mortal sin to confess.
+
+Those who have reached the age of reason, generally at the seventh year, are bound by this law, under pain of mortal sin. We are not bound to confess to our parish priest. We may go to any confessor who is lawfully approved, whomever we prefer, in whatever church he may be.
 
 > No special time is ordered for the yearly confession, but it is usually made in preparation for the annual Easter Communion. The annual confession and communion is what we call "Easter duty".
 
@@ -54,7 +56,7 @@ When we are sick, we are eager enough to rush here, there, and everywhere, seeki
 
 — According to the 1917 Code of Canon Law (859 §2), Easter time is from Palm Sunday to the Sunday within the Octave of Easter or *Dominica In Albis*.
 
-> However, for the good of the faithful the bishop can anticipate it; but not before the fourth Sunday of Lent and can also postpone it; but not beyond the Feast of the Holy Trinity. Generally, one has to refer to the general custom of the place. For it may happen, like in the Philippines as *lex contra legem*, Easter time is from Septuagesima Sunday to the Sunday before the first Sunday of Advent.
+> However, for the good of faithful the bishop can anticipate it; but not before the fourth Sunday of Lent and can also postpone it; but not beyond the Feast of the Holy Trinity. Generally, one has to refer to the general custom of the place. For it may happen, like in the Philippines as *lex contra legem*, Easter time is from Septuagesima Sunday to the Sunday before the first Sunday of Advent.
 
 1. However it is fitting to receive Holy Communion on the very day of Easter, because it was just a few days before Easter, during the Last Supper, that Our Lord instituted the Holy Eucharist.
 

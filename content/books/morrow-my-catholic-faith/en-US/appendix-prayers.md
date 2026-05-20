@@ -112,19 +112,82 @@ Guardian of Virgins and father, Holy Joseph, to whose faithful care Christ Jesus
 
 **Prayer to the Guardian Angel**
 
-Angel of God, my guardian dear, To whom God's love entrusts me here, Ever this day be at my side, To light and guard, to rule and guide, from stain of sin, Oh keep me free and at my death my helper be. Amen. The Divine Praises Blessed be God. Blessed be His holy Name. Blessed be Jesus Christ, true God and true man. Blessed be the Name of Jesus. Blessed be His most Sacred Heart. Blessed be Jesus in the Most Holy Sacrament of the Altar. Blessed be the great Mother of God, Mary most holy. Blessed be her holy and Immaculate Conception. Blessed be the name of Mary, Virgin and Mother. Blessed be St. Joseph, her most chaste spouse. Blessed be God in His Angels and in His Saints.
+Angel of God, my guardian dear, To whom God's love entrusts me here, Ever this day be at my side, To light and guard, to rule and guide, from stain of sin, Oh keep me free and at my death my helper be. Amen.
+
+
+**The Divine Praises**
+
+Blessed be God.
+
+Blessed be His holy Name.
+
+Blessed be Jesus Christ, true God and true man.
+
+Blessed be the Name of Jesus.
+
+Blessed be His most Sacred Heart.
+
+Blessed be Jesus in the Most Holy Sacrament of the Altar.
+
+Blessed be the great Mother of God, Mary most holy.
+
+Blessed be her holy and Immaculate Conception.
+
+Blessed be the name of Mary, Virgin and Mother.
+
+Blessed be St. Joseph, her most chaste spouse.
+
+Blessed be God in His Angels and in His Saints.
 
 
 **The Angelus**
 
-V. The angel of the Lord declared unto Mary. R. And she conceived of the Holy Ghost. Hail Mary, etc. V. Behold the handmaid of the Lord. R. Be it done unto me according to thy word. Hail Mary, etc. V. And the Word was made flesh. R. And dwelt among us. Hail Mary, etc. V. Pray for us, O holy Mother of God. R. That we may be made worthy of the promises of Christ. Let us Pray Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we to whom the Incarnation of Christ, Thy Son, was made known by the message of an angel, may by His passion and cross be brought to the glory of His resurrection, through the same Christ Our Lord. Amen.
+V. The angel of the Lord declared unto Mary.
+
+R. And she conceived of the Holy Ghost.
+
+Hail Mary, etc.
+
+V. Behold the handmaid of the Lord.
+
+R. Be it done unto me according to thy word.
+
+Hail Mary, etc.
+
+V. And the Word was made flesh.
+
+R. And dwelt among us.
+
+Hail Mary, etc.
+
+V. Pray for us, O holy Mother of God.
+
+R. That we may be made worthy of the promises of Christ.
+
+Let us Pray
+
+Pour forth, we beseech Thee, O Lord, Thy grace into our hearts, that we to whom the Incarnation of Christ, Thy Son, was made known by the message of an angel, may by His passion and cross be brought to the glory of His resurrection, through the same Christ Our Lord. Amen.
 
 > (Indulgence of ten years)
 
 
 **Regina Coeli**
 
-Queen of heaven, rejoice. Alleluia. For He whom thou didst deserve to bear. Alleluia. Hath risen as He said. Alleluia. Pray for us to God. Alleluia. V. Rejoice and be glad, O Virgin Mary! Alleluia. R. Because Our Lord is truly risen. Alleluia. Let us Pray O God, who by the resurrection of Thy Son, Our Lord Jesus Christ, hast vouchsafed to make glad the whole world, grant, we beseech Thee, that, through the intercession of the Virgin Mary, His Mother, we may attain the joys of eternal life. Through the same Christ Our Lord. Amen.
+Queen of heaven, rejoice. Alleluia.
+
+For He whom thou didst deserve to bear. Alleluia.
+
+Hath risen as He said. Alleluia.
+
+Pray for us to God. Alleluia.
+
+V. Rejoice and be glad, O Virgin Mary! Alleluia.
+
+R. Because Our Lord is truly risen. Alleluia.
+
+Let us Pray
+
+O God, who by the resurrection of Thy Son, Our Lord Jesus Christ, hast vouchsafed to make glad the whole world, grant, we beseech Thee, that, through the intercession of the Virgin Mary, His Mother, we may attain the joys of eternal life. Through the same Christ Our Lord. Amen.
 
 > (Indulgence of ten years)
 
@@ -136,7 +199,29 @@ Out of the depths I have cried unto Thee, O Lord! Lord, hear my voice. Let Thine
 
 **The Mysteries of the Rosary**
 
-The Five Joyful Mysteries 1. The Annunciation 2. The Visitation 3. The Birth of Our Lord 4. The Presentation of Our Lord 5. The Finding of Our Lord in the Temple The Five Sorrowful Mysteries 1. The Agony of Our Lord in the Garden 2. The Scourging at the Pillar 3. The Crowning with Thorns 4. The Carrying of the Cross 5. The Crucifixion and Death of Our Lord The Five Glorious Mysteries 1. The Resurrection 2. The Ascension 3. The Descent of the Holy Ghost 4. The Assumption of our Blessed Mother into Heaven 5. The Coronation of Our Blessed Mother
+**The Five Joyful Mysteries**
+
+1. The Annunciation
+2. The Visitation
+3. The Birth of Our Lord
+4. The Presentation of Our Lord
+5. The Finding of Our Lord in the Temple
+
+**The Five Sorrowful Mysteries**
+
+1. The Agony of Our Lord in the Garden
+2. The Scourging at the Pillar
+3. The Crowning with Thorns
+4. The Carrying of the Cross
+5. The Crucifixion and Death of Our Lord
+
+**The Five Glorious Mysteries**
+
+1. The Resurrection
+2. The Ascension
+3. The Descent of the Holy Ghost
+4. The Assumption of our Blessed Mother into Heaven
+5. The Coronation of Our Blessed Mother
 
 
 **Prayer Before a Crucifix**
@@ -178,7 +263,11 @@ Jesus, Mary, and Joseph, bless us now and at the hour of our death.
 
 > (500 days' indulgence)
 
-Jesus, Mary, Joseph, I give you my heart and my soul. Jesus, Mary, Joseph, assist me in my last agony. Jesus, Mary, Joseph, may I breathe forth my soul in peace with you.
+Jesus, Mary, Joseph, I give you my heart and my soul.
+
+Jesus, Mary, Joseph, assist me in my last agony.
+
+Jesus, Mary, Joseph, may I breathe forth my soul in peace with you.
 
 
 **Prayer to Christ the King**
@@ -187,8 +276,6 @@ O Jesus Christ, I acknowledge Thee as universal King. All that has been made, ha
 
 
 **Tantum Ergo**
-
-*Tantum ergo Sacramentum.*
 
 Tantum ergo Sacramentum
 Veneremur cernui: (bow your head)

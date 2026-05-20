@@ -2,7 +2,7 @@
 
 ![](../images/lesson-167.webp)
 
-This table shows the line, and degree of relationship in connection with the person to be married. In the direct line (Fig 1) None of these can marry each other. In the collateral line (Fig. 2) the diriment impediment is up to the 4th degree. The degrees of relationship are counted through the common parent. For instance C to E are 2 degrees. They cannot marry. A to F is the 5th degree and can therefore marry. C to G would be 4 degrees only and therefore cannot marry.
+This table shows the line, and degree of relationship in connection with the person to be married. In the direct line (FIG: 1) None of these can marry each other. In the collateral line (FIG: 2) the diriment impediment is up to the 4th degree. The degrees of relationship are counted through the common parent. For instance C to E are 2 degrees. They cannot marry. A to F is the 5th degree and can therefore marry. C to G would be 4 degrees only and therefore cannot marry.
 
 
 **What are impediments to matrimony?**
@@ -46,7 +46,11 @@ This table shows the line, and degree of relationship in connection with the per
 
 8. Spiritual affinity. Without dispensation, a lay person who baptised another cannot marry that other, or sponsors in Baptism cannot marry their godchildren.
 
-> This is no longer an impediment. Nevertheless on the account of tradition rooted in serious reasons, the parentage even spiritual must remain above carnal concupiscence. 9. Legal relationship. In the case of adoption, the impediment is always diriment in the direct line and in the collateral line up to second degree, for example; between brother and adopted sister. 10. Other impediments. Among other diriment impediments are crime, error, impotency, public propriety, abduction. These must be investigated by the priest.
+> This is no longer an impediment. Nevertheless on the account of tradition rooted in serious reasons, the parentage even spiritual must remain above carnal concupiscence.
+
+9. Legal relationship. In the case of adoption, the impediment is always diriment in the direct line and in the collateral line up to second degree, for example; between brother and adopted sister.
+
+10. Other impediments. Among other diriment impediments are crime, error, impotency, public propriety, abduction. These must be investigated by the priest.
 
 
 **Which are the chief prohibitive impediments?**

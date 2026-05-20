@@ -34,7 +34,7 @@ In all parts of the world, Jesus Christ is truly and substantially present in th
 
 > The seventh year begins on the sixth birthday, when the child completes six years of life. The full use of reason is not required for the first Communion.
 
-3. The child should be properly prepared to receive the sacrament. He does not need to know the entire catechism. It is sufficient for him to have a general knowledge of the truths necessary for salvation, and becoming devotion. Above all, he should know what and Whom he is going to receive.
+3. The child should be properly prepared to receive the sacrament. He does not need to know the entire catechism. It is sufficient for him to have a general knowledge of the truths necessary for salvation, and a becoming devotion. Above all, he should know what and Whom he is going to receive.
 
 > Pope Pius X is called "the children's Pope" because he revived the custom of the first Christians of allowing children to receive Holy Communion when they came to the use of reason. In some countries the practice had been introduced of making children wait until they were twelve years old before they were permitted to receive Holy Communion.
 

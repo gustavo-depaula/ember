@@ -2,7 +2,7 @@
 
 ![](../images/lesson-040.webp)
 
-The case of Saul of Tarsus is one of the most wonderful instances of cooperation with God's grace. Saul of Tarsus was one of the most active persecutors of the early Christians. On the way to Damascus to arrest Christians, Saul was struck down by a brilliant light, and heard a voice say: "Saul, Saul, why dost thou persecute me?" Saul asked, "Who art thou, Lord?" And Jesus answered, "I am Jesus, whom thou art persecuting. Saul immediately grasped at grace, and asked, "Lord, what wilt thou have me do?" From then on he turned his back on his former life, and belonged completely to Christ, till as the incomparable Apostle Paul he was martyred in Rome.
+The case of Saul of Tarsus is one of the most wonderful instances of cooperation with God's grace. Saul of Tarsus was one of the most active persecutors of the early Christians. On the way to Damascus to arrest Christians, Saul was struck down by a brilliant light, and heard a voice say: "Saul, Saul, why dost thou persecute me?" Saul asked, "Who art thou, Lord?" And Jesus answered, "I am Jesus, whom thou art persecuting." Saul immediately grasped at grace, and asked, "Lord, what wilt thou have me do?" From then on he turned his back on his former life, and belonged completely to Christ, till as the incomparable Apostle Paul he was martyred in Rome.
 
 
 **What is actual grace?**

@@ -45,7 +45,9 @@ As an example of true zeal, we have the Apostle of the Indies, the Patron of Cat
 
 **What virtues are opposed to sloth?**
 
-— The virtues of diligence and zeal are opposed to sloth. 1. From the days of Adam work has been laid as an obligation on men. God said to Adam: "In the sweat of thy face thou shalt eat bread, until thou return to the earth out of which thou wast taken" (Gen. 3: 19)
+— The virtues of diligence and zeal are opposed to sloth.
+
+1. From the days of Adam work has been laid as an obligation on men. God said to Adam: "In the sweat of thy face thou shalt eat bread, until thou return to the earth out of which thou wast taken" (Gen. 3: 19)
 
 > All men must work, whether mentally or bodily. The Apostle said: "If any man will not work, neither let him eat" (2 Thess. 3: 10). Our Lord worked all His life, and chose working people for His Mother and foster-father. Diligence in labour is a shield against temptation, for thieves do not break into a house full of busy people.
 

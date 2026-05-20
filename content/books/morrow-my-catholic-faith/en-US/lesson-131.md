@@ -26,7 +26,9 @@ Christ instituted the Holy Sacrifice of the Mass at the Last Supper. After prayi
 
 **Who said the first Mass?**
 
-— Our Divine Saviour said the first Mass, at the Last Supper, the night before He died. 1. At the Last Supper, Jesus Christ offered Himself up as a sacrifice to the Eternal Father, under the appearances of bread and wine.
+— Our Divine Saviour said the first Mass, at the Last Supper, the night before He died.
+
+1. At the Last Supper, Jesus Christ offered Himself up as a sacrifice to the Eternal Father, under the appearances of bread and wine.
 
 > "And while they were eating, Jesus took bread, and blessing it, he broke and gave it to them, and said, 'Take; this is my body.' And taking a cup and giving thanks, he gave it to them, and they all drank of it; and said to them, 'This is my blood of the new covenant, which is being shed for many'" (Mark 14: 22-25).
 

@@ -2,9 +2,9 @@
 
 ![](../images/lesson-150.webp)
 
-1. Before confessing to the priest, we must first make a very good examination of conscience. Then we should repent of our sins, say an act of contrition, and kneel in the confessional for our confession.
+*EXAMINATION OF CONSCIENCE — Before confessing to the priest, we must first make a very good examination of conscience. Then we should repent of our sins, say an act of contrition, and kneel in the confessional for our confession.*
 
-2. In Confession, we tell our sins to the priest as clearly as possible. We speak in a low voice, and avoid any waste of time in random talk. We must tell all mortal sins; we may also mention whatever venial sins we wish to state.
+*SACRAMENTAL CONFESSION — In Confession, we tell our sins to the priest as clearly as possible. We speak in a low voice, and avoid any waste of time in random talk. We must tell all mortal sins; we may also mention whatever venial sins we wish to state.*
 
 
 **How should we prepare ourselves for a good confession?**

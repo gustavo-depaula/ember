@@ -29,7 +29,11 @@ Third Orders are like religious orders, being branches of these to which they ar
 
 > The rules of confraternities are not binding under pain of sin. However, if the rules are not observed the special graces, and indulgences attached to them are not granted. Confraternities with the right to affiliate similar associations to themselves are termed archconfraternities. We here list a few examples of our largest confraternities.
 
-1. The Confraternity of Christian Doctrine by order of the Holy See, is to be instituted in every parish, to promote greater knowledge and more assiduous practice of the Catholic Faith. The means used are: instruction classes, study and discussion clubs, home instruction, and religious education of non-Catholics. 2. The Holy Name Society aims to promote due love and reverence for the Holy Name of God and Jesus. (See page 199.) 3. The Society of the Holy Family is an archconfraternity, aiming to sanctify Christian families. Men, women, and children can all become members.
+1. The **Confraternity of Christian Doctrine** by order of the Holy See, is to be instituted in every parish, to promote greater knowledge and more assiduous practice of the Catholic Faith. The means used are: instruction classes, study and discussion clubs, home instruction, and religious education of non-Catholics.
+
+2. The **Holy Name Society** aims to promote due love and reverence for the Holy Name of God and Jesus. {See page 199.}
+
+3. The **Society of the Holy Family** is an archconfraternity, aiming to sanctify Christian families. Men, women, and children can all become members.
 
 > This archconfraternity has some five million members throughout the world.
 

@@ -26,7 +26,9 @@ Our enemies are those who hate us and seek to do us harm. Before he was converte
 
 > Once a Samaritan village would not receive Jesus because He was a Jew. The Apostles becoming angry wished to call down fire from heaven. But Our Lord rebuked them, saying: "You do not know of what manner of spirit you are." (Luke 9: 55).
 
-"And to him that strikes thee on the one cheek, offer the other also" (Luke 6:29). 2. We should return good for evil, avenging ourselves in God's way, by doing good to those that hate us.
+> "And to him that strikes thee on the one cheek, offer the other also" (Luke 6:29).
+
+2. We should return good for evil, avenging ourselves in God's way, by doing good to those that hate us.
 
 > If we do good to our enemy instead of avenging ourselves, we put him to shame, and pacify him. "If thy enemy is hungry, give him food; if he is thirsty, give him drink; for by so doing, thou wilt heap coals of fire upon his head" (Rom. 12: 20). "We are reviled, and we bless; we are persecuted, and we bear with it" (1 Cor. 4:15). "Peter asked, 'Lord, how often shall my brother sin against me and I forgive him? Up to seven times?' Jesus said to him, 'I do not say to thee seven times, but seventy times seven" (Matt. 18: 21-22).
 

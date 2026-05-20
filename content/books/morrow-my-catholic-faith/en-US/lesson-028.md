@@ -15,7 +15,7 @@ Throughout the centuries, God sent prophets to predict different events and fact
 
 These miracles Christ worked in His own name, not as His followers did, who worked in the name of God. He simply said: "I will, be thou made clean" (Matt. 8: 3)
 
-> Christ Himself appealed to His miracles as a testimony of the truth of His doctrines and divinity, saying: "If you are not willing to believe me, believe the works" (John 10: 38) . Christ foretold future events. Among other things, He predicted His passion, death, and resurrection, the treason of Judas and the perpetuity of His Church.
+> Christ Himself appealed to His miracles as a testimony of the truth of His doctrines and divinity, saying: "If you are not willing to believe me, believe the works" (John 10: 38). Christ foretold future events. Among other things, He predicted His passion, death, and resurrection, the treason of Judas and the perpetuity of His Church.
 
 3. The Apostles, the followers of Christ Himself, plainly taught that Christ is God, and died in testimony of their faith.
 
@@ -34,7 +34,7 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 — Jesus Christ is God because He is the only Son of God, having the same divine nature as His Father.
 
-> "And they all said, 'Art thou, then, the Son of God?' He answered, 'You yourselves say that I am' And they said, 'What further need have we of witness? For we have heard it ourselves from his own mouth'" (Luke 22: 70-71)
+> "And they all said, 'Art thou, then, the Son of God?' He answered, 'You yourselves say that I am' And they said, 'What further need have we of witness? For we have heard it ourselves from his own mouth'" (Luke 22: 70-71).
 
 1. Man after the Fall was unable to regain of himself his former holiness. He became like a sick man who could not arise from bed. He needed Someone to raise him up. Since the sin he had committed had been an offence against an Infinite God, the atonement needed had to be by an Infinite One, the Son of God Himself.
 
@@ -66,4 +66,10 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 > Christ worked so many miracles publicly that all flocked to Him to be cured. "But when John had heard in prison of the works of Christ, he sent two of his disciples to say to him, 'Art thou he who is to come, or shall we look for another?' And Jesus answering said to them, 'Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them'" (Matt. 11: 2-5)
 
-a. Christ performed miracles on inanimate objects, as when He changed water to wine, calmed the storm, multiplied loaves. b. He healed in an instant the sick, the blind, the lame. He expelled devils. c. He raised the dead to life; as the daughter of Jairus, the son of the widow of Naim and Lazarus. Even His enemies acknowledged His miracles. The Pharisees planned to kill Lazarus, because the Jews believed in Jesus as a result of the miracle. d. He worked miracles on His own Person, as in the Transfiguration, Resurrection, and Ascension.
+a. Christ performed miracles on inanimate objects, as when He changed water to wine, calmed the storm, multiplied loaves.
+
+b. He healed in an instant the sick, the blind, the lame. He expelled devils.
+
+c. He raised the dead to life; as the daughter of Jairus, the son of the widow of Naim and Lazarus. Even His enemies acknowledged His miracles. The Pharisees planned to kill Lazarus, because the Jews believed in Jesus as a result of the miracle.
+
+d. He worked miracles on His own Person, as in the Transfiguration, Resurrection, and Ascension.

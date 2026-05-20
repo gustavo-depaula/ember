@@ -30,11 +30,7 @@ The most impressive of all solemn Masses is the High Mass of the Pope. The Pope 
 
 1. In the early years of the Church the faithful, wishing to participate more fully in the oblation, made offerings of bread and wine for the consecration.
 
-> Today, it is more convenient to make a money offering. The money is most certainly not the price of
-
-The hosts consecrated at Mass, taken by the priest and people, are made of pure unleavened wheat flour mixed with water and baked. They are prepared by chosen persons, usually religious.
-
-> the Mass, as the bread and wine were not.
+> Today, it is more convenient to make a money offering. The money is most certainly not the price of the Mass, as the bread and wine were not.
 
 2. Many Catholics have the laudable custom of leaving a certain amount of property or money in their wills, in order to have Masses offered for them after their death.
 

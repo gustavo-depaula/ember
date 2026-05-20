@@ -23,7 +23,7 @@ The picture shows Our Lord instituting the sacrament of Penance on the first Eas
 
 > When one cannot go to confession, he should make an act of perfect contrition at once for the forgiveness of his sin.
 
-2. The priest forgives sins with the words: "I absolve thee from thy sins in the name of the Father and of the Son, and of the Holy Ghost. Amen."
+2. The priest forgives sins with the words: "I absolve thee from thy sins in the name of the Father and of the Son, and of the Holy Ghost. Amen!"
 
 > This is called the "absolution," and is said by the priest over the penitent, with uplifted hand, when he forgives the sins confessed. It is pronounced while the penitent is saying an Act of Contrition.
 

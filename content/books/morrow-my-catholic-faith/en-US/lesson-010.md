@@ -32,7 +32,7 @@ Before printing was invented about 1450, books could be reproduced only by makin
 
 — It cannot, because: 1. It is not within the reach of every one. If it were the only guide, it should be within the reach of every inquirer, for God wishes all men to be saved.
 
-> If the Bible were the only guide to eternal salvation, the primitive Christians would have been at disadvantage, for the books that make up the Bible were gathered together only after the Church was established. Even when the parts were put together, for centuries there were very few manuscript copies. Copies remained few till the invention of printing in the fifteenth century. If the Bible were the only guide to salvation it would be of little help to those unable to read, as well as to the great mass of mankind today, who have neither the knowledge nor the capacity to penetrate the meaning of the written word.
+> If the Bible were the only guide to eternal salvation, the primitive Christians would have been at a disadvantage, for the books that make up the Bible were gathered together only after the Church was established. Even when the parts were put together, for centuries there were very few manuscript copies. Copies remained few till the invention of printing in the fifteenth century. If the Bible were the only guide to salvation it would be of little help to those unable to read, as well as to the great mass of mankind today, who have neither the knowledge nor the capacity to penetrate the meaning of the written word.
 
 2. The Bible is difficult to understand, frequently full of obscurities and difficulties, even for the learned.
 

@@ -13,7 +13,7 @@ Our first parents were perfectly happy in Paradise. If they had not sinned, they
 
 2. Adam and Eve were our first parents. All of mankind makes up one great family.
 
-> Sacred Scripture says that before the creation of Adam "there was not a man to till the earth" (Gen.2: 5) ; and that Eve was the "mother of all the living" (Gen. 3: 20). Legends of all races tell of an original happiness from which man fell, and of a flood that covered the earth.
+> Sacred Scripture says that before the creation of Adam "there was not a man to till the earth" (Gen. 2: 5) ; and that Eve was the "mother of all the living" (Gen. 3: 20). Legends of all races tell of an original happiness from which man fell, and of a flood that covered the earth.
 
 a. All men have common bodily characteristics.
 
@@ -73,4 +73,4 @@ b. Emotionally and intellectually all races are the same.
 
 — Adam and Eve did not obey the commandment of God, but ate of the forbidden fruit.
 
-> The devil tempted Eve to eat of the fruit. and she ate; then she gave some to Adam, and he also ate (Gen. 3: 1-13). They committed the sins of pride and disobedience.
+> The devil tempted Eve to eat of the fruit, and she ate; then she gave some to Adam, and he also ate (Gen. 3: 1-13). They committed the sins of pride and disobedience.

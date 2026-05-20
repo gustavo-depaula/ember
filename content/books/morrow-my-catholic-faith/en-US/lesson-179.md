@@ -37,7 +37,7 @@ The illustration (1) shows a girl wearing the blessed dress of Our Lady of Lourd
 
 (b) The blue scapular is a devotion in honour of our Lady's Immaculate Conception. It requires the wearers to live a life of chastity according to their state, to pray for the conversion of sinners.
 
-> There are besides other scapulars as those of the Seven Sorrows, of the Holy Trinity and of the Passion. All these five scapulars may be substituted by a properly blessed medal one face of which has the image of the Sacred Heart of Jesus and the other face Our Lady's image under whatever title. The medal can substitute only after the cloth scapular has been imposed,
+> There are besides other scapulars as those of the Seven Sorrows, of the Holy Trinity and of the Passion. All these five scapulars may be substituted by a properly blessed medal one face of which has the image of the Sacred Heart of Jesus and the other face Our Lady's image under whatever title. The medal can substitute only after the cloth scapular has been imposed.
 
 8. An Agnus Dei is a disk of white wax stamped with the image of a lamb and cross (standing for Christ); it is solemnly blessed by the Pope and distributed in Rome on the Saturday after Easter.
 

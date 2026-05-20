@@ -69,7 +69,7 @@ Pope Pius IX declared St. Joseph to be the patron of the universal Church.
 
 **What else does the Church oblige us to do on holydays of obligation?**
 
-— The Church obliges us to abstain from servile work on holydays of obligation, just as on Sundays, as far as we are able. {See pages 204-205, Unnecessary Servile Work.)
+— The Church obliges us to abstain from servile work on holydays of obligation, just as on Sundays, as far as we are able. (See pages 204-205, Unnecessary Servile Work.)
 
 > On these days, Catholics should keep away from housework like washing and house cleaning.
 

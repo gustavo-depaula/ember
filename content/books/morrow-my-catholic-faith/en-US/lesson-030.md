@@ -18,9 +18,6 @@
 > "The Word was made flesh and dwelt among us" (John 1: 14). Christ as man was like us in all things except sin. He could not sin, because He is God. But in all other things He was like us: he had a human body, a human soul, a human will. Can we understand this with our reason? Hardly. As St. John Chrysostom said: "I know that the Son of God became man, but how, I do not know." God, Who produced the universe from nothing, also caused the Incarnation.
 
 
-## The Incarnation
-
-
 **How was the Son of God made man?**
 
 — The Son of God was conceived and made man by the power of the Holy Ghost, in the womb of the Blessed Virgin Mary.
@@ -46,9 +43,9 @@
 
 > At these words of the Blessed Virgin, Jesus Christ became man in her womb, and the incarnation was accomplished.
 
-3. The mystery of the Incarnation is commemorated daily by the Angelus, prayer said by Catholics morning, noon, and night, at the ringing of the Angelus bell.
+3. The mystery of the Incarnation is commemorated daily by the Angelus, a prayer said by Catholics morning, noon, and night, at the ringing of the Angelus bell.
 
-> The Angelus bell is rung in a particular way: at the verse, it is sounded three times: a pause follows while the Hail Mary is recited. "This procedure is repeated three times for the three verses and three Hail Marys. Then follows continual ringing while the Prayer is said. During the Easter time, the prayer Regina Coeli (Queen of Heaven) is substituted for the Angelus. Those who do not know these prayers by heart, or who cannot read, may say five Hail Marys instead.
+> The Angelus bell is rung in a particular way: at the verse, it is sounded three times: a pause follows while the Hail Mary is recited. "This procedure is repeated three times for the three verses and three Hail Marys. Then follows continual ringing while the Prayer is said." During the Easter time, the prayer Regina Coeli (Queen of Heaven) is substituted for the Angelus. Those who do not know these prayers by heart, or who cannot read, may say five Hail Marys instead.
 
 
 **Did Jesus Christ have human parents?**

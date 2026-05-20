@@ -7,7 +7,9 @@ Upon Martin Luther's refusal to retract his declarations on the teachings of the
 
 **Who are Protestants?**
 
-— In general, Protestants are adherents of the religious organizations that broke off from the Catholic Church in the sixteenth century, or of any religious body formed from them. 1. The term "Protestant" was first given to those who protested against the decree of the second Diet of Speyer in 1529. Later the term was applied to all reformers, all opposing the doctrines of the Church.
+— In general, Protestants are adherents of the religious organizations that broke off from the Catholic Church in the sixteenth century, or of any religious body formed from them.
+
+1. The term "Protestant" was first given to those who protested against the decree of the second Diet of Speyer in 1529. Later the term was applied to all reformers, all opposing the doctrines of the Church.
 
 > Even today, the term is included in the new formula of the Declaration of Faith that the ruler of England must make at the coronation, saying: "I declare that I am a faithful Protestant."
 

@@ -13,11 +13,11 @@ Respect for the dead requires that cemeteries be properly kept. We should rememb
 
 > St. Peter spoke of the body as a tabernacle for the soul: "the putting out of my tabernacle is at hand" (2 Pet. 1:14). At death, "the dust returns to its earth, from whence it came, and the spirit returns to God, Who gave it" (Eccles. 12: 7). The only exceptions have been the bodies of Our Lord and the Blessed Virgin, which rose to join their soul, and are now in heaven.
 
-2. All men must die, because death is a consequence of original sin. ''Therefore as through one man sin entered into this world and through sin death, and thus death has passed into all men" (Rom. 5:12).
+2. All men must die, because death is a consequence of original sin. "Therefore as through one man sin entered into this world and through sin death, and thus death has passed into all men" (Rom. 5:12).
 
 > By their sin our first parents lost the immortality of the body, for God condemned them to die. "Dust thou art, and into dust thou shalt return" (Gen. 3: 19). Even Jesus Christ and His Mother submitted to death.
 
-No one knows when, where, or how he will die. All we know is that we shall die, and that when our hour strikes, nobody can take our place.
+3. No one knows when, where, or how he will die. All we know is that we shall die, and that when our hour strikes, nobody can take our place.
 
 > God has mercifully hidden from us the hour of our death. If we knew when we should die, we might be overcome by fear when the moment approached. Some, besides, might lead sinful lives in the hope of repenting just before their death.
 

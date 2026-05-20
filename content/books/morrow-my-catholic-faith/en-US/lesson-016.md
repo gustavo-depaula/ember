@@ -34,7 +34,9 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 > When God permits diabolic obsession or possession, it is to show in some way His glory, or to punish sin, convert sinners, or provide some means for the practice of virtue.
 
-4. In cases of diabolic possession or obsession, the aid of the Church should be sought; for the Church received from Christ the power of exorcism. This is the act of driving out or warding off evil spirits. It is only with the permission of his bishop that a priest is permitted to exorcise evil spirits. 5. The Church forbids Catholics to have anything to do with spiritism. This is calling up the spirits of the dead.
+4. In cases of diabolic possession or obsession, the aid of the Church should be sought; for the Church received from Christ the power of exorcism. This is the act of driving out or warding off evil spirits. It is only with the permission of his bishop that a priest is permitted to exorcise evil spirits.
+
+5. The Church forbids Catholics to have anything to do with spiritism. This is calling up the spirits of the dead.
 
 > Some manifestations are spirit-rapping, table-lifting, slate-writing, apparitions, communications through mediums in a state of trance. Most of the spiritist seances are fraudulent, but sometimes the devil manifests himself. God can permit the souls of the dead to return to earth. But there is no indication that He permits Himself to obey mediums. The devil may sometimes impersonate the spirits of the dead. Satan is old and skilful in deceit, and can assume the appearance of an angel of light.
 
@@ -76,4 +78,6 @@ It was the archangel Michael who led the good angels: "And there was a great bat
 
 > "Watch and pray, that you may not enter into temptation" (Matt. 26: 41). Avoid idleness, keeping always occupied, either by work, or by wholesome recreation. If evil thoughts enter the mind, think of other things, in this way ignoring the temptation.
 
-b. Frequent confession and Holy Communion. c. Devotion to the Blessed Virgin and the Guardian Angels.
+b. Frequent confession and Holy Communion.
+
+c. Devotion to the Blessed Virgin and the Guardian Angels.

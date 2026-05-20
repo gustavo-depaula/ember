@@ -57,6 +57,8 @@
 
 ## Consistories
 
-The College of Cardinals is the Senate of the Pope. As principal advisers and helpers, the cardinals assist the Holy Father in the government of the Church. After the Supreme Pontiff, the cardinals have the highest dignity in our Holy Mother Church. Consistories are assemblies of cardinals presided over by the Pope. There are three kinds: (1) secret, with only the Pope and cardinals present; (2) public, attended by other prelates and lay spectators; (3) semi-public, attended by bishops and patriarchs.
+The College of Cardinals is the Senate of the Pope. As principal advisers and helpers, the cardinals assist the Holy Father in the government of the Church. After the Supreme Pontiff, the cardinals have the highest dignity in our Holy Mother Church.
+
+Consistories are assemblies of cardinals presided over by the Pope. There are three kinds: (1) secret, with only the Pope and cardinals present; (2) public, attended by other prelates and lay spectators; (3) semi-public, attended by bishops and patriarchs.
 
 At the secret consistory, the Pope delivers an allocution on religious and moral conditions throughout the world; sometimes seeks the opinion of the cardinals on the creation of new cardinals, gives the cardinal's ring, appoints bishops, archbishops and patriarchs, makes ecclesiastical transfers, divides or unites dioceses, and asks for a vote on a proposed canonization. At the public consistory, the Pope bestows the red hat, hears the causes of beatifications and canonizations. At the semi-public consistory, the propriety of a proposed canonization is decided.

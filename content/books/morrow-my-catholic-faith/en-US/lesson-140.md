@@ -29,9 +29,7 @@ After the psalm, the priest bows and says the Confiteor a confession of sin, as 
 
 Originally the Introit was a psalm chanted by the priest and his assistants when they entered the sanctuary. Today it is reduced to a verse, the first to be read at Mass.
 
-> The Introit varies each day, as do certain other parts of the Mass, like the Collects, Epistle, Gradual, Gospel, Offertory, Secrets, Communion, and Post- communions.
-
-## Gloria
+> The Introit varies each day, as do certain other parts of the Mass, like the Collects, Epistle, Gradual, Gospel, Offertory, Secrets, Communion, and Post-communions.
 
 
 **The Kyrie**
@@ -155,7 +153,7 @@ Immediately after the consecration, we should make to God the Father an act of o
 
 **The Commemoration of the Dead**
 
-> For the souls in Purgatory, the priest then prays, remaining silent while he pleads for certain special souls. Then follows a prayer for those present, beginning with the words audibly said, ''Nobis quoque peccatoribus" (To us also, sinners).
+> For the souls in Purgatory, the priest then prays, remaining silent while he pleads for certain special souls. Then follows a prayer for those present, beginning with the words audibly said, "Nobis quoque peccatoribus" (To us also, sinners).
 
 
 **The Pater Noster**
@@ -189,7 +187,7 @@ If there are any to receive Communion, the server says the Confiteor in their na
 
 **Communion of the People**
 
-The priest absolves and blesses the people. He takes the ciborium and elevates a small Host in the sight of all, saying, "Behold the Lamb of God, behold Him Who taketh away the sins of the world!" He repeats three times the prayer of the centurion to Christ, ''Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed." He makes the sign of the cross with the Host over each communicant, and says to him: ''May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen."
+The priest absolves and blesses the people. He takes the ciborium and elevates a small Host in the sight of all, saying, "Behold the Lamb of God, behold Him Who taketh away the sins of the world!" He repeats three times the prayer of the centurion to Christ, "Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed." He makes the sign of the cross with the Host over each communicant, and says to him: ''May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen."
 
 > After administering Holy Communion to the people, the priest returns to the altar.
 
@@ -213,7 +211,7 @@ Once more at the Epistle side, the priest reads the Post communion prayers, peti
 
 **The Blessing**
 
-The priest turns to the people and says: '' *Ite, Missa est* " (Go, the Mass is ended).
+The priest turns to the people and says: "*Ite, Missa est*" (Go, the Mass is ended).
 
 ## Blessing
 

@@ -40,7 +40,10 @@ From St. Paul we learn what armour to wear in our struggle for Christian perfect
 
 (a) We should begin from youth to strive after perfection.
 
-> Blessed Dominic Savio on his First Communion day, when only seven years old, made some resolutions to which he was faithful till his death. These resolutions helped him towards perfection, so that at the age of fifteen he died a holy death. Among his resolutions were: (1) frequent confession and communion; (2) Jesus and Mary as friends; and (3) death rather than sin.
+> Blessed Dominic Savio on his First Communion day, when only seven years old, made some resolutions to which he was faithful till his death. These resolutions helped him towards perfection, so that at the age of fifteen he died a holy death. Among his resolutions were:
+> (1) frequent confession and communion;
+> (2) Jesus and Mary as friends; and
+> (3) death rather than sin.
 
 (b) Every one should choose for his model a saint whose position and calling are similar to his own.
 

@@ -7,7 +7,9 @@ Those who enter matrimony should imitate the good dispositions of Tobias and Sar
 
 **What should a couple do who have decided to get married?**
 
-— A couple who have decided to get married should separately appear, with baptismal certificate, before the parish priest of the bride, for the canonical examination. 1. This should be done about a month before the projected marriage, to allow time for the calling of the banns. With hand on the Gospels, the contracting party swears that the truth is being told; he then replies to the questions asked by the pastor.
+— A couple who have decided to get married should separately appear, with baptismal certificate, before the parish priest of the bride, for the canonical examination.
+
+1. This should be done about a month before the projected marriage, to allow time for the calling of the banns. With hand on the Gospels, the contracting party swears that the truth is being told; he then replies to the questions asked by the pastor.
 
 > The main questions concern dispositions for the reception of the sacrament: the Baptism, First Communion and Confirmation of the contracting party, and impediments. Should there be any impediments, a dispensation, if possible, has to be arranged. Should there be diriment impediment that cannot be given a dispensation, the marriage cannot take place.
 
@@ -18,9 +20,9 @@ Those who enter matrimony should imitate the good dispositions of Tobias and Sar
 
 **What are the "banns of matrimony"?**
 
-— The banns of matrimony are a public proclamation of an intended marriage, made at the principal Mass on three successive Sundays or festival days, in the church or churches to which the bride and groom belong. 1. The purpose of the banns is to discover impediments, to avoid secret marriages, and to furnish those interested an opportunity to intervene, should they wish to do so.
+— The banns of matrimony are a public proclamation of an intended marriage, made at the principal Mass on three successive Sundays or festival days, in the church or churches to which the bride and groom belong.
 
-> Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church." The union is for life, for better or worse.
+1. The purpose of the banns is to discover impediments, to avoid secret marriages, and to furnish those interested an opportunity to intervene, should they wish to do so.
 
 > In this, Mother Church shows its solicitude for her children, avoiding hasty marriages, doing her best to assure a holy and valid union. Dispensation from banns is granted for urgent reasons.
 
@@ -31,6 +33,8 @@ Those who enter matrimony should imitate the good dispositions of Tobias and Sar
 3. If anyone knows of any impediment to a proposed marriage, he is bound in conscience to make it known to the pastor or other clergy concerned; otherwise he is guilty of sin.
 
 > Ordinarily, the marriage ceremony is not performed till three days after the last publication of the banns.
+
+> Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church." The union is for life, for better or worse.
 
 
 **What does the marriage ceremony include?**

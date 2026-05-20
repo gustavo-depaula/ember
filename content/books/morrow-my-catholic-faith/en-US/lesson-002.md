@@ -28,11 +28,37 @@ The Apostles, before they parted, gathered together in Jerusalem in the first Co
 
 **Into how many articles may the Apostles' Creed be divided?**
 
-— The Apostles' Creed may be divided into twelve articles. 1. All the articles are absolutely necessary to faith: if even one article is omitted or changed, faith would be destroyed.
+— The Apostles' Creed may be divided into twelve articles.
+
+1. All the articles are absolutely necessary to faith: if even one article is omitted or changed, faith would be destroyed.
 
 > It is symbolical to divide the Apostles' Creed into twelve articles, because the Apostles numbered twelve; thus we are reminded that the Creed comes to us and was taught by the Apostles of Our Lord.
 
-2. The following are the articles: (1) I believe in God, the Father Almighty, Creator of heaven and earth; (2) And in Jesus Christ, His only Son, Our Lord; (3) Who was conceived by the Holy Ghost, born of the Virgin Mary; (4) Suffered under Pontius Pilate, was crucified, died, and was buried. (5) He descended into hell; the third day He arose again from the dead; (6) He ascended into Heaven, sitteth at the right hand of God, the Father Almighty; (7) From thence He shall come to judge the living and the dead. (8) I believe in the Holy Ghost; (9) The Holy Catholic Church; the communion of saints; (10) The forgiveness of sins; (11) The resurrection of the body; (12) And life everlasting. Amen.
+2. The following are the articles:
+
+(1) I believe in God, the Father Almighty, Creator of heaven and earth;
+
+(2) And in Jesus Christ, His only Son, Our Lord;
+
+(3) Who was conceived by the Holy Ghost, born of the Virgin Mary;
+
+(4) Suffered under Pontius Pilate, was crucified, died, and was buried.
+
+(5) He descended into hell; the third day He arose again from the dead;
+
+(6) He ascended into Heaven, sitteth at the right hand of God, the Father Almighty;
+
+(7) From thence He shall come to judge the living and the dead.
+
+(8) I believe in the Holy Ghost;
+
+(9) The Holy Catholic Church; the communion of saints;
+
+(10) The forgiveness of sins;
+
+(11) The resurrection of the body;
+
+(12) And life everlasting. Amen.
 
 > The twelve articles of the Apostles' Creed contain the mystery of the Blessed Trinity, one God in three distinct Divine Persons, — Father, Son, and Holy Ghost, — with the particular operations attributed to each Person. The Creed contains three distinct parts. The first part treats of God the Father and creation. The second part treats of God the Son and our redemption. And the third part treats of God the Holy Ghost and our sanctification.
 

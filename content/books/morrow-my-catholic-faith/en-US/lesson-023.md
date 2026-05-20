@@ -7,7 +7,11 @@ We are prone to look upon venial sin as of no consequence, and to be careless ab
 
 **What is venial sin?**
 
-— Venial sin is a less serious offence against the law of God, which does not deprive the soul of sanctifying grace, and which can be pardoned even without sacramental confession. 1. A sin can be venial in two ways: a. When the evil done is not seriously wrong. If we sin against God in matters of slight importance, we commit venial sin.
+— Venial sin is a less serious offence against the law of God, which does not deprive the soul of sanctifying grace, and which can be pardoned even without sacramental confession.
+
+1. A sin can be venial in two ways:
+
+a. When the evil done is not seriously wrong. If we sin against God in matters of slight importance, we commit venial sin.
 
 > Grumbling when told by your mother to open the window is not gravely wrong; it is a venial sin.
 
@@ -17,7 +21,7 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 2. Examples of venial sin are impatience, slight fault-finding, lies that harm nobody.
 
-> The word "venial" comes from the Latin *venial is*, meaning easily pardonable. Even the most just of mortals falls into venial sin again and again. God permits this to keep us humble. The most imperfect of mortals attains a very high degree of perfection as soon as he can avoid all deliberate venial sin: as soon as he does not commit any sin deliberately, with full advertence and consent.
+> The word "venial" comes from the Latin *venialis*, meaning easily pardonable. Even the most just of mortals falls into venial sin again and again. God permits this to keep us humble. The most imperfect of mortals attains a very high degree of perfection as soon as he can avoid all deliberate venial sin: as soon as he does not commit any sin deliberately, with full advertence and consent.
 
 3. If a person is in the state of grace, venial sins are forgiven in many ways without necessity of confession.
 

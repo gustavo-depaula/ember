@@ -34,7 +34,9 @@ Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Fat
 
 2. Because of His Divine nature, Christ is truly God; because of His human nature, He is truly man. In His Divine nature He is the Second Person of the Blessed Trinity, God the Son, the Eternal Word. He took His human nature from His Mother.
 
-> It was to the Blessed Virgin that the Archangel Gabriel announced: "And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus. He shall be great and shall be called the Son of the Most High" (Luke 1: 32). Therefore Jesus Christ is both God and man; He has both Divine and human powers; He has knowledge, can will and act as God and as man. For example, with His human nature Jesus worked, ate, spoke, felt pain. But it was His divine nature that enabled Him to become transfigured, walk on the waters, raise the dead.
+> It was to the Blessed Virgin that the Archangel Gabriel announced: "And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus. He shall be great and shall be called the Son of the Most High" (Luke 1: 32).
+
+Therefore Jesus Christ is both God and man; He has both Divine and human powers; He has knowledge, can will and act as God and as man. For example, with His human nature Jesus worked, ate, spoke, felt pain. But it was His divine nature that enabled Him to become transfigured, walk on the waters, raise the dead.
 
 3. These two natures were united in a Divine Person Jesus Christ, the God-Man. They were intimately united, but they remained distinct. Neither was absorbed by the other. When iron and gold are welded into one solid mass, they continue to retain all their individual properties distinct from each other. The union of the divine and human natures in Christ is called the hypostatic union.
 
@@ -60,7 +62,9 @@ Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Fat
 
 **What does the name Christ mean?**
 
-— The name Christ means "The Anointed One". 1. "Christ" is a Greek word, with the same meaning as "Messias". In the Old Law, it was the custom to anoint with oil prophets, high priests, and kings.
+— The name Christ means "The Anointed One".
+
+1. "Christ" is a Greek word, with the same meaning as "Messias". In the Old Law, it was the custom to anoint with oil prophets, high priests, and kings.
 
 > Our Lord is the greatest of the Prophets. He is the High Priest Who offers Himself for all mankind. He is the King of angels and men. Therefore it is fitting that we should call Him Christ. He truly is the Anointed One.
 
@@ -70,4 +74,4 @@ Our Lord Jesus Christ is true God and true Man. As God, He is equal with the Fat
 
 3. Jesus Christ was announced to the world through many types. By "types" we mean persons or actions which strongly suggested or foreshadowed Christ. "Types" are to the reality what a photograph is to the actual person; but for lack of the reality, types are a good substitute, to give an idea of the substance foreshadowed.
 
-> Some of the types of Jesus Christ were: the gentle and just Abel, who was murdered by his brother; Noe, who alone persevered and saved the human race from extinction by his justice; Isaac, who willingly carried the wood on which he was to have been sacrificed; Joseph, who was sold for a few pieces of silver, but later saved his brethren from death; Moses, who freed the Jews from slavery and led them to the Promised Land; David. who was born poor, did great deeds for his people, and became King.
+> Some of the types of Jesus Christ were: the gentle and just Abel, who was murdered by his brother; Noe, who alone persevered and saved the human race from extinction by his justice; Isaac, who willingly carried the wood on which he was to have been sacrificed; Joseph, who was sold for a few pieces of silver, but later saved his brethren from death; Moses, who freed the Jews from slavery and led them to the Promised Land; David, who was born poor, did great deeds for his people, and became King.

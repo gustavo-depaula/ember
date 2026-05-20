@@ -53,7 +53,7 @@ The government should protect the right of private ownership. Citizens are most 
 
 4. Private ownership is limited by moral obligations and should be subjected to social restrictions for the common good.
 
-> Some limitations on the right of private ownership are: (a) just title to ownership; (b) the urgency of the need for others: and (c) expropriation by the State for the public welfare, but with just compensation.
+> Some limitations on the right of private ownership are: (a) just title to ownership; (b) the urgency of the need for others; and (c) expropriation by the State for the public welfare, but with just compensation.
 
 5. Both Communism and Fascism are errors, because they establish the godhood of the State. Communism confiscates all private property for the State, and aims to provide for the wants of everybody out of public funds.
 

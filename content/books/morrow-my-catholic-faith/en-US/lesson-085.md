@@ -41,7 +41,7 @@ The love of God causes us to hate sin and do good. Mary Magdalen (1) after her c
 
 3. He wants and commands us to love Him. We are God's creatures. His slightest desires are law to us. How much more should we obey His solemn commands!
 
-> Our Lord said very clearly: "Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind, and with thy whole strength" (Mark 12:30) .
+> Our Lord said very clearly: "Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind, and with thy whole strength" (Mark 12:30).
 
 
 **When is our love of God perfect?**

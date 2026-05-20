@@ -33,47 +33,47 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > A Catholic is free to hold a serious scientific theory, provided he is prepared to submit to the judgement of the Church, the divinely appointed caretaker of Scripture.
 
-> Algue , a priest, invented the barocyclonometer, to detect approach of cyclones.
+> Algue, a priest, invented the barocyclonometer, to detect approach of cyclones.
 
 > Ampere was founder of the science of electrodynamics, and investigator of the laws of electromagnetism.
 
-> Becquerel , Antoine Cesar, was the founder of electrochemistry.
+> Becquerel, Antoine Cesar, was the founder of electrochemistry.
 
 > Becquerel , Antoine Henri, was the discoverer of radio-activity.
 
-> Binet , mathematician and astronomer, set forth the principle, "Binet's Theorem."
+> Binet, mathematician and astronomer, set forth the principle, "Binet's Theorem."
 
 > Braille invented the Braille system for the blind.
 
 > Buffon wrote the first work on natural history.
 
-> Caesalpinus , a Papal physician, was the first to construct a system of botany.
+> Caesalpinus, a Papal physician, was the first to construct a system of botany.
 
-> Carrell , Nobel prize winner in medicine and physiology, is renowned for his work in surgical technique.
+> Carrell, Nobel prize winner in medicine and physiology, is renowned for his work in surgical technique.
 
-> Cassiodorus , a priest, invented the watch.
+> Cassiodorus, a priest, invented the watch.
 
 > Columbo discovered the pulmonary circulation of the blood.
 
 > Coulomb established the fundamental laws of static electricity.
 
-> Copernicus , a priest, expounded the Copernican system.
+> Copernicus, a priest, expounded the Copernican system.
 
-> De Chauliac , a Papal physician, was the father of modern surgery and hospitals.
+> De Chauliac, a Papal physician, was the father of modern surgery and hospitals.
 
 > Descartes founded analytical geometry.
 
-> De Vico , a priest, discovered six comets.
+> De Vico, a priest, discovered six comets.
 
 > Dumas invented a method of ascertaining vapor densities.
 
-> Endlicher , botanist and historian, established a new system of classifying plants.
+> Endlicher, botanist and historian, established a new system of classifying plants.
 
-> Eustachius , for whom the Eustachian tube was named, was one of the founders of modern anatomy.
+> Eustachius, for whom the Eustachian tube was named, was one of the founders of modern anatomy.
 
 > Fabricius discovered the valvular system of the veins.
 
-> Fallopius , for whom the Fallopian tube was named, was an eminent physiologist.
+> Fallopius, for whom the Fallopian tube was named, was an eminent physiologist.
 
 > Fizeau was the first to determine experimentally the velocity of light.
 
@@ -83,15 +83,15 @@ As a practical demonstration that there is no contradiction between Divine Revel
 
 > Fresnel contributed more to the science of optics than any other man.
 
-> Galilei , a great astronomer, is the father of experimental science.
+> Galilei, a great astronomer, is the father of experimental science.
 
 Other scientists
 
 : Agricola, Albertus Magnus, Bacon, Bartholomeus, Bayma, Beccaria, Behalm, Bernard, Blondo, Biot, Bolgano, Borrus, Boscovitch, Bosio, Bourgeois, Branly, Caldani, Cambou, Camel, Cardan, Carnoy, Cassini, Cauchy, Cavaliere, Caxton, Champollion, Chevreul, Clavius, De Rossi, Divisch, Dulong, Dwight, Eckhel, Epee, Fabre, Fabri, Faye, Ferrari, Gassendi, Gay-Lussac, Gordon, Grimaldi, Hauy, Heis, Helmont, Hengler, Heude, Hilgard, Jussieu, Kelly, Lamarck, Laplace, Linacre, Malus, Mersenne, Monge, Muller, Murphy, Murray, Nelston, Nieuwland, Nobili, Nollet, Ortelius, Ozaman, Pelouze, Piazzi, Pitra, Plumier, Pouget, Provancher, Regnault, Riccioli, Sahagun, Santorini, Schwann, Schwarz, Secchi, Semmelweis, Spallanzani, Takamine, Tieffentaller, Toscanelli, Tulasne, Valentine, Vernier, Vieta, Da Vinci, Waldseemuller, Winckelmann, Windle, and a host of others, too many to mention.
 
-> Galvani , one of the pioneers of electricity, was also an anatomist and physiologist.
+> Galvani, one of the pioneers of electricity, was also an anatomist and physiologist.
 
-> Gioja , father of scientific navigation, invented the mariner's compass.
+> Gioja, father of scientific navigation, invented the mariner's compass.
 
 > Gramme invented the Gramme dynamo.
 
@@ -101,11 +101,11 @@ Other scientists
 
 > Holland invented the first practical submarine.
 
-> Kircher , a priest, made the first definite statement of the germ theory of disease.
+> Kircher, a priest, made the first definite statement of the germ theory of disease.
 
 > Laennec invented the stethoscope.
 
-> Lancisi , a Papal physician, was the father of clinical medicine.
+> Lancisi, a Papal physician, was the father of clinical medicine.
 
 > Latreille was pioneer in entomology.
 
@@ -115,7 +115,7 @@ Other scientists
 
 > Lully is said to have been the first to employ chemical symbols.
 
-> Malpighi , a Papal physician, was a botanist, and the father of comparative physiology.
+> Malpighi, a Papal physician, was a botanist, and the father of comparative physiology.
 
 > Marconi's place in radio is unsurpassed.
 
@@ -123,7 +123,7 @@ Other scientists
 
 > Mendel, a monk, first established the laws of heredity, which gave the final blow to the theory of natural selection.
 
-> Morgagni , founder of modern pathology; made important studies in aneurisms.
+> Morgagni, founder of modern pathology; made important studies in aneurisms.
 
 > Muller was the greatest biologist of the 19th century, founder of modern physiology.
 
@@ -131,17 +131,17 @@ Other scientists
 
 > Pasteur , called the "Father of Bacteriology," and inventor of biotherapeutics, was the leading scientist of the 19th century.
 
-> Picard , a priest, was the first to measure accurately a degree of the meridian.
+> Picard, a priest, was the first to measure accurately a degree of the meridian.
 
-> Regiomontanus , a Bishop and Papal astronomer; was the father of modern astronomy.
+> Regiomontanus, a Bishop and Papal astronomer; was the father of modern astronomy.
 
-> Scheiner , a priest, invented the pantograph, and made a telescope that permitted the first systematic investigation of sun spots.
+> Scheiner, a priest, invented the pantograph, and made a telescope that permitted the first systematic investigation of sun spots.
 
 > Secchi invented the meteorograph.
 
-> Steensen , a Bishop, was the father of geology.
+> Steensen, a Bishop, was the father of geology.
 
-> Theodoric , a Bishop, discovered anesthesia in the 13th century.
+> Theodoric, a Bishop, discovered anesthesia in the 13th century.
 
 > Torricelli invented the barometer.
 

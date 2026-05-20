@@ -57,7 +57,7 @@ Those who follow the evangelical counsels of poverty, chastity, and obedience gi
 
 **What is perfect obedience?**
 
-— Perfect obedience is the complete subjection of one's will to that of a superior. 1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: ''If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
+— Perfect obedience is the complete subjection of one's will to that of a superior. 1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: "If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
 
 > Christ was perfectly obedient to His heavenly Father. He never sought His own will, but always the will of the Father Who sent Him. He was obedient to His Mother and to St. Joseph.
 

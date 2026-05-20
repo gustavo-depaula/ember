@@ -28,7 +28,7 @@
 
 > The Church does not recognize the "marriage" of divorced baptised non-Catholics whose previous partners are still alive. Such unions are a sin, and not true marriage.
 
-2. A marriage between two unbaptised persons, although not a sacrament, if contracted validly, is recognized valid by the Church, and is indissoluble. In the case of a marriage between two unbaptized persons, if one were later baptised in the Church, the marriage can be dissolved by the "Pauline privilege."
+2. A marriage between two unbaptised persons, although not a sacrament, if contracted validly, is recognized valid by the Church, and is indissoluble. In the case of a marriage between two unbaptised persons, if one were later baptised in the Church, the marriage can be dissolved by the "Pauline privilege."
 
 > The conditions are: if the unbaptized party refuses to live with the Catholic, or to dwell peacefully with the Catholic, the baptised one may have the marriage dissolved and be free to marry a Christian. This power of the Church is based on St. Paul: "If any brother has an unbelieving wife and she consents to live with him, let him not put her away. And if any woman has an unbelieving husband and he consents to live with her, let her not put away her husband. ...But if the unbeliever departs, let him depart. For a brother or sister is not under bondage in such cases" (1 Cor. 7: 12-15).
 

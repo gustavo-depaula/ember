@@ -53,7 +53,7 @@ God created the world in six days. On the first day, He made light and darkness,
 
 — When we say that God is infinitely perfect, we mean that He has all perfections without limit.
 
-> God is immense and eternal, "an ocean without shore or bottom," the unchangeable Being that only Himself can fully understand: "Of his greatness there is no end" (Ps. 144: 3)
+> God is immense and eternal, "an ocean without shore or bottom," the unchangeable Being that only Himself can fully understand: "Of his greatness there is no end" (Ps. 144: 3).
 
 1. God is so great and wonderful that He needs nothing to make Him greater or more wonderful. He possesses all perfections, countless, innumerable, illimitable, boundless.
 

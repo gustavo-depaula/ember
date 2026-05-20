@@ -39,7 +39,7 @@ During the sermons of a mission or retreat, we should listen attentively avoidin
 
 **What is a Mission?**
 
-— A Mission is a series of sermons and other spiritual exercises conducted under the leadership of competent priest or priests for the purpose of renewing fervour in the spiritual life of a community.
+— A Mission is a series of sermons and other spiritual exercises conducted under the leadership of a competent priest or priests for the purpose of renewing fervour in the spiritual life of a community.
 
 > Missions effect an immense amount of good. Because of their rare occurrence, they make a great impression on the people. Missions are seasons of grace for a community or parish: sinners are converted and the just are incited to progress in virtue. This is because they are a sort of general check-up of the spiritual status of the community.
 

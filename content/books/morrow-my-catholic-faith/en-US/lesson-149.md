@@ -50,7 +50,7 @@ The chief qualities of a good confession are three: it must be humble, sincere, 
 
 2. We must mention the circumstances that change the nature of our sins.
 
-> "For instance it is not enough to say merely, I stole five dollars," if they were stolen from a blind beggar, or from the collection plate at church. Ordinarily, taking five dollars from your rich father may be a venial sin. From a beggar, it becomes mortal; from the church it is a sacrilege.
+> For instance it is not enough to say merely, I stole five dollars," if they were stolen from a blind beggar, or from the collection plate at church. Ordinarily, taking five dollars from your rich father may be a venial sin. From a beggar, it becomes mortal; from the church it is a sacrilege.
 
 3. We must tell how many times we committed a mortal sin. The more often it has been committed, the greater the guilt. If we cannot remember the exact number of times we should tell it as nearly as possible, by telling how long a habit has lasted.
 
@@ -59,7 +59,9 @@ The chief qualities of a good confession are three: it must be humble, sincere, 
 
 **Is it necessary to confess every sin?**
 
-— It is necessary to confess every mortal sin which has not yet been confessed and forgiven; it is not necessary: to confess our venial sins, but it is better to do so. 1. We must confess all our mortal sins, God surely can forgive us without Confession; but He has not promised to do so, whereas He very clearly promised to forgive those whom His priests forgive.
+— It is necessary to confess every mortal sin which has not yet been confessed and forgiven; it is not necessary: to confess our venial sins, but it is better to do so.
+
+1. We must confess all our mortal sins, God surely can forgive us without Confession; but He has not promised to do so, whereas He very clearly promised to forgive those whom His priests forgive.
 
 > God is free to put whatever conditions He wishes on the reception of His gifts. He is certainly within His justice to impose on us the condition of Confession, that we may have our mortal sins forgiven.
 

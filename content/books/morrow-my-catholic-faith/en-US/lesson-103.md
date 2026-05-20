@@ -47,7 +47,7 @@ Parents have the duty of beginning their child's religious training as soon as p
 
 — When their child is grown up, parents should remember that their child is an individual whom God created for His own purposes, and that he has his own rights and privileges.
 
-> Parents should help their child accomplish God's purposes as much as they can. They must never-be an obstacle to the child, through selfishness or false love. Parents should be most careful about their attitude when the child chooses an occupation, and especially when he chooses a state of life.
+> Parents should help their child accomplish God's purposes as much as they can. They must never be an obstacle to the child, through selfishness or false love. Parents should be most careful about their attitude when the child chooses an occupation, and especially when he chooses a state of life.
 
 1. In their child's choice of an occupation or profession, parents should act with wisdom and understanding; they should advise, but never force. It happens sometimes that a child shows a strong inclination for a certain study. This should be encouraged, for it is a sign of talent. If the child shows no special inclination, a mutual agreement and understanding should prevail.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-097.webp)
 
-"There arose a new king over Egypt ... and he said to his people: Behold, the people of the children of Israel are numerous and stronger than we. Come, let us wisely oppress them, lest they multiply. ... .Therefore he set over them masters of the works to afflict them with burdens, and they built for Pharaoh cities.... And the Egyptians hated the children of Israel, and afflicted them, and mocked them. And they made their life bitter with hard works in clay, and brick, and with all manner of service, where with they were overcharged in the works of the earth. .. And the Lord said to Moses: I have seen the affliction of my people in Egypt, and I have heard their cry, because of the rig our of them that are over the works" (Ex. 1:8-14; 3:7). God still hears the cry of the oppressed poor.
+"There arose a new king over Egypt ... and he said to his people: Behold, the people of the children of Israel are numerous and stronger than we. Come, let us wisely oppress them, lest they multiply. ... .Therefore he set over them masters of the works to afflict them with burdens, and they built for Pharaoh cities.... And the Egyptians hated the children of Israel, and afflicted them, and mocked them. And they made their life bitter with hard works in clay, and brick, and with all manner of service, where with they were overcharged in the works of the earth. .. And the Lord said to Moses: I have seen the affliction of my people in Egypt, and I have heard their cry, because of the rigour of them that are over the works" (Ex. 1:8-14; 3:7). God still hears the cry of the oppressed poor.
 
 
 **What are the sins against hope?**
@@ -24,7 +24,7 @@ We must not tempt God by exposing ourselves to sin and its occasions in the hope
 
 > It is presumption to expect to be saved by faith alone, without attempting to accomplish good works; to hope to obtain forgiveness of our sins without penance; or while hoping in God's mercy, to remain in the state of sin, and put off conversion.
 
-Our Lord said clearly, ''Seek first the kingdom of God and his justice, and all these things shall be given you besides" (Matt. 6: 33).
+Our Lord said clearly, "Seek first the kingdom of God and his justice, and all these things shall be given you besides" (Matt. 6: 33).
 
 
 **When does a person sin by despair?**
@@ -58,4 +58,4 @@ Our Lord said clearly, ''Seek first the kingdom of God and his justice, and all 
 
 4. Scandal is given when we injure our neighbour's soul by causing or tempting him to sin. As charity helps him towards heaven, so scandal pushes him towards hell.
 
-> Our Lord said that at the end of the world the angels "will gather out of his kingdom all scandals ,.. and cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth" (Matt. 13: 41-42). (See pages 218-219).
+> Our Lord said that at the end of the world the angels "will gather out of his kingdom all scandals ... and cast them into the furnace of fire, where there will be the weeping, and the gnashing of teeth" (Matt. 13: 41-42). (See pages 218-219).

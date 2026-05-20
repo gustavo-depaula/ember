@@ -26,7 +26,9 @@ The ceremonies of Confirmation begin by the Bishop extending his hands over thos
 
 **What is necessary to receive Confirmation properly?**
 
-— To receive Confirmation properly, it is necessary to be in the state of grace, and to know well the chief truths and duties of our religion. 1. For Confirmation, a knowledge of the chief truths and duties of our religion is required. This is why, if a person who is to be confirmed has reached the age of reason, he is examined as to these truths when he goes to confession before Confirmation.
+— To receive Confirmation properly, it is necessary to be in the state of grace, and to know well the chief truths and duties of our religion.
+
+1. For Confirmation, a knowledge of the chief truths and duties of our religion is required. This is why, if a person who is to be confirmed has reached the age of reason, he is examined as to these truths when he goes to confession before Confirmation.
 
 > The Commandments, common prayers, and the Apostles' Creed are the basis of any examination in religion; any Catholic who can explain clearly the fundamentals of the twelve articles of the Apostles' Creed knows his faith sufficiently, for Confirmation.
 

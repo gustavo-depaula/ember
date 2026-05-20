@@ -24,7 +24,7 @@
 
 **What is conscience?**
 
-— Conscience is the manifestation of God's will that is made to men by the voice of reason, by the dictates of their intellect. 1. Conscience is often called the "voice of reason" or "voice of God", because it bids us do right and avoid wrong. Cain, who lived a long time before Moses, knew that he had committed evil in slaying Abel. Even today, in pagan countries which have never heard of the commandments, men know right from wrong by their conscience. By it, they know God; it bids them obey.
+— Conscience is the manifestation of God's will that is made to men by the voice of reason, by the dictates of their intellect. 1. Conscience is often called the "voice of reason" or *"voice of God"*, because it bids us do right and avoid wrong. Cain, who lived a long time before Moses, knew that he had committed evil in slaying Abel. Even today, in pagan countries which have never heard of the commandments, men know right from wrong by their conscience. By it, they know God; it bids them obey.
 
 > As St. Paul, speaking of the non-Jews who did not know the Jewish law. said: "The Gentiles, who have no law, do by nature what the Law prescribes. They show the work of the law written in their hearts. Their conscience bears witness to them" (Rom. 2:14-15).
 

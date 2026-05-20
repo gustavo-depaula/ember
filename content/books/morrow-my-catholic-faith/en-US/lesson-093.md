@@ -26,7 +26,9 @@ We pay special honour to the Blessed Virgin because she is the Mother of God and
 
 **Why do we honour the saints in heaven?**
 
-— We honor the saints in heaven because they practised great virtue when they were on earth, and because in honouring those who are the chosen friends of God, we honour God Himself. 1. While still living on earth, the saints were of outstanding holiness in themselves, and did good to others for the love of God.
+— We honor the saints in heaven because they practised great virtue when they were on earth, and because in honouring those who are the chosen friends of God, we honour God Himself.
+
+1. While still living on earth, the saints were of outstanding holiness in themselves, and did good to others for the love of God.
 
 > The cause for the beatification of someone does not take place unless such holiness is outstanding and ascertained by competent authority, or unless the miracles worked by the person proposed for beatification are of a most extraordinary character.
 
@@ -37,7 +39,9 @@ We pay special honour to the Blessed Virgin because she is the Mother of God and
 
 **How can we honour the saints?**
 
-— We can honor the saints: 1. By imitating their holy lives. The highest honor we can pay them is to imitate their virtues.
+— We can honor the saints:
+
+1. By imitating their holy lives. The highest honor we can pay them is to imitate their virtues.
 
 > The saints are models presented by the Church before our eyes so that we may know how to live according to the desires of God.
 
@@ -52,7 +56,9 @@ We pay special honour to the Blessed Virgin because she is the Mother of God and
 
 **When we pray to the saints, what do we ask them to do?**
 
-— When we pray to the saints we ask them to offer their prayers to God for us. 1. This is what we call the "intercession" of the saints. If we are grateful for the intercession of a friend before an earthly superior, how much more so should we be for the intercession of saints before God!
+— When we pray to the saints we ask them to offer their prayers to God for us.
+
+1. This is what we call the "intercession" of the saints. If we are grateful for the intercession of a friend before an earthly superior, how much more so should we be for the intercession of saints before God!
 
 > How many times have the saints obtained favours from God for men? And God likes this intercession: as He said, He would have spared Sodom for the sake of ten just men (Gen. 18: 32).
 
@@ -63,7 +69,9 @@ We pay special honour to the Blessed Virgin because she is the Mother of God and
 
 **How do we know that the saints pray for us?**
 
-— We know that the saints will pray for us, because they are with God and have great love for us. 1. The saints in heaven are, with us, members of the Church, of one body belonging to Christ. "So we the many, are one body in Christ but severally members one of another" (Rom. 12: 5).
+— We know that the saints will pray for us, because they are with God and have great love for us.
+
+1. The saints in heaven are, with us, members of the Church, of one body belonging to Christ. "So we the many, are one body in Christ but severally members one of another" (Rom. 12: 5).
 
 > Members of the same body give mutual help to each other; the saints help us by their prayers before God. On our part, we honor and imitate them.
 

@@ -4,7 +4,7 @@
 
 God punishes the sin of impurity very severely even here on earth. For that, He destroyed all living things except those in the ark of Noe during the great deluge. "And God seeing that the wickedness of men was great said: I will destroy man" (Gen. 6). For the same sin God destroyed Sodom and Gomorrha: "And the Lord rained upon Sodom and Gomorrha brimstone and fire" (Gen. 19). Today the site of these cities is covered by the Dead Sea, an ever present reminder of the evil of impurity.
 
-"THOU SHALL NOT COMMIT ADULTERY." "THOU SHALT NOT COVET THY NEIGHBOUR'S WIFE"
+"THOU SHALT NOT COMMIT ADULTERY." "THOU SHALT NOT COVET THY NEIGHBOUR'S WIFE"
 
 
 **What are we commanded by the sixth and ninth commandments?**
@@ -15,7 +15,7 @@ God punishes the sin of impurity very severely even here on earth. For that, He 
 
 1. The sixth and ninth commandments are studied together because they both deal with commands about purity. The sixth commandment refers to external acts, and the ninth to wilful thoughts and desires.
 
-> "Oh how beautiful is the chaste generation with glory! For the memory there of is immortal, because it is known both with God and with men" (Wis. 4: 1-2). "The body is not for immorality, but for the Lord, and the Lord for the body" (1 Cor. 6: 13).
+> "Oh how beautiful is the chaste generation with glory! For the memory thereof is immortal, because it is known both with God and with men" (Wis. 4: 1-2). "The body is not for immorality, but for the Lord, and the Lord for the body" (1 Cor. 6: 13).
 
 2. God has always shown special love for those whose chastity is outstanding. Consider how He chose that purest of all mortals, the Blessed Virgin, as His Mother.
 

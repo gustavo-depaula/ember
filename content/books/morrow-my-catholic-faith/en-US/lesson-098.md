@@ -4,7 +4,7 @@
 
 By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among the first examples was that of the lame man that sat and begged at the gate of the Temple. Upon seeing Peter and John about to enter the Temple, he asked for an alms. Peter said, "Silver and gold I have none; but what I have that I give thee. In the name of Jesus Christ of Nazareth, arise and walk" (Acts 3: 6). And the man lame from birth leaped up and walked into the Temple, praising God.
 
-"THOU SHALL NOT TAKE THE NAME OF THE LORD THY GOD IN VAIN."
+"THOU SHALT NOT TAKE THE NAME OF THE LORD THY GOD IN VAIN."
 
 
 **What are we commanded by the second commandment?**
@@ -17,7 +17,7 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 > "Call upon me in the day of trouble; I will deliver thee and thou shalt glorify me" (Ps. 49: 15). We should often praise God for His perfections and infinite goodness, and particularly when we receive favours from Him. It is strange how often good gifts come to us from Almighty God, and we simply take without a word of thanks. Let us say that old saying of truly Christian hearts, *Deo gratias*! Thanks be to God! "Bless the Lord, O my soul, and never forget all he hath done for thee" (Ps. 102: 1).
 
-2. The name of Jesus is the most powerful of all names; through it we can obtain all that we need. "If you ask the Father anything in my name. He will give it to you'' (John 16: 23). We should pay reverence to the name of Jesus by bowing every time we speak it. We should especially pronounce the name of Jesus at the hour of death.
+2. The name of Jesus is the most powerful of all names; through it we can obtain all that we need. "If you ask the Father anything in my name. He will give it to you" (John 16: 23). We should pay reverence to the name of Jesus by bowing every time we speak it. We should especially pronounce the name of Jesus at the hour of death.
 
 > "At the name of Jesus every knee should bend, of those in heaven, on earth, and under the earth" (Phil. 2:10). St. Stephen's last words were: "Lord Jesus, receive my spirit" (Acts 7: 59). By the name of Jesus the apostles and saints worked innumerable miracles, as St. Peter did when he said to the lame man, "In the name of Jesus Christ, arise and walk" (Acts 3:6). Holy Scripture truly says, "There is no other name under heaven given to men, by which we must be saved" (Acts 4:12).
 
@@ -47,7 +47,9 @@ By the most holy Name of Jesus, the Apostles worked innumerable miracles. Among 
 
 **What is cursing?**
 
-— Cursing is the calling down of some evil on a person, place, or thing. 1. To call down some punishment on ourselves or other creatures of God in a moment of anger, is cursing. If the name of God is used, the sin is worse.
+— Cursing is the calling down of some evil on a person, place, or thing.
+
+1. To call down some punishment on ourselves or other creatures of God in a moment of anger, is cursing. If the name of God is used, the sin is worse.
 
 > When angry, parents sometimes curse their children, and workmen their animals and tools. Often the one who curses does not mean what he says. If he does, it is indeed a most grievous sin to ask God to damn a person or send him to hell.
 

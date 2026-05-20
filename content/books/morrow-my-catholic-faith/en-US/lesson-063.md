@@ -37,7 +37,9 @@ B. Diffusion of Christian Culture: The diffusion of Christian principles is an e
 
 (Il Fermo)
 
-C. The Christianization of the Family: The family has been defined as the ‘cell’ of society. Hence society cannot be healed in a Christian way unless the healing of the Family has first been ensured. “If it be opportune that Catholic Action, aiming at the Christianization of Society as a whole should call the attention of Catholics towards the institution of the Family, from whose right functioning depends the good civil society itself.” *(Pius XI)* D. The Defence of the Rights and Liberty of the Church: It is the duty of every Catholic to protect the rights and liberty of the Church within his capacity. When the communists attacked the rights of the Church in Mexico, it was Catholic Action that ‘defended the rights of the Church’.
+C. The Christianization of the Family: The family has been defined as the ‘cell’ of society. Hence society cannot be healed in a Christian way unless the healing of the Family has first been ensured. “If it be opportune that Catholic Action, aiming at the Christianization of Society as a whole should call the attention of Catholics towards the institution of the Family, from whose right functioning depends the good civil society itself.” *(Pius XI)*
+
+D. The Defence of the Rights and Liberty of the Church: It is the duty of every Catholic to protect the rights and liberty of the Church within his capacity. When the communists attacked the rights of the Church in Mexico, it was Catholic Action that ‘defended the rights of the Church’.
 
 (Pius XI)
 
@@ -45,7 +47,9 @@ C. The Christianization of the Family: The family has been defined as the ‘cel
 
 (St. Pius X)
 
-E. Defence of Christian Civilization: “Chosen bands of Catholics who aim to unite all their forces in combating anti-Christian civilization by every just and lawful means.” *(St. Pius X, Il Fermo)* F. Co-operation in the Scholastic Field: The School is among the most efficacious instruments of education and Christianization of Society.
+E. Defence of Christian Civilization: “Chosen bands of Catholics who aim to unite all their forces in combating anti-Christian civilization by every just and lawful means.” *(St. Pius X, Il Fermo)*
+
+F. Co-operation in the Scholastic Field: The School is among the most efficacious instruments of education and Christianization of Society.
 
 > The enemies of Christ know this well, for at all times and places they have always tried to seize its monopoly. Hence Catholic Action places among the chief items of its program, co-operation in the scholastic field; assisting the Church, which has well-defined rights in regard to schools. “The bringing back of Christ into schools”. Pius XI said that “of all the fields devastated by secular legislation, the school is that into which Catholic Action, ever more richly provided with members and leaders wisely instructed must descend with all its forces, for a still more tenacious defence of the supreme interests of Religion, of the family, and the Fatherland.”
 

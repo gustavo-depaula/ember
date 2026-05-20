@@ -64,7 +64,7 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 4. The Holy Ghost raises up Saints in the Church throughout all generations.
 
-> The members of the Church strive to imitate its Divine Founder, and in all countries and all times it has produced saints, canonized and uncanonized, martyrs, confessors, hidden souls that burn with the love of God and their fellow men.
+> The members of the Church strive to imitate its Divine Founder, and in all countries and all times it has produced saints, canonized and uncanonized, martyrs, confessors, hidden souls that burn with the love of God and their fellowmen.
 
 
 **Are not all religions the same?**

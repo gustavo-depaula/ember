@@ -15,7 +15,7 @@ The illustration shows a young man and a young woman making their offerings to J
 
 > Those who are in the state of perfection are not necessarily all perfect; but they are expected to aim at perfection. Many people in the world are actually more holy than some in the religious state. It is however easier to strive after perfection in the religious state, where there are more aids and means than in the world with its distractions.
 
-2. The call to the religious state is only an invitation: ''Not all can accept this teaching, but those to whom it has been given" (Matt. 19: 11).
+2. The call to the religious state is only an invitation: "Not all can accept this teaching, but those to whom it has been given" (Matt. 19: 11).
 
 > Members of religious orders or congregations are bound by the vows of poverty, chastity, and obedience. They are devoted to the exclusive service of God, "without distractions" (1 Cor. 7: 35).
 

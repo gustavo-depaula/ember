@@ -36,7 +36,7 @@ The holy Sacrifice of the Mass is offered every hour somewhere in the world. Whe
 
 > A similar practice is now used, in the *Missa recitata* wherein the congregation speak out loud the responses at Mass. When younger people hear Mass, it is well to have a little singing, too. Sacred songs are in themselves prayer. Our Lord and His Apostles sang a hymn at the Last Supper.
 
-3. It is a great honour and privilege to be allowed to serve Mass, This privilege is reserved to boys and men. Girls and women may answer the Mass prayers, like acolytes, but they are not permitted to enter the sanctuary. Every boy should avail himself of the opportunity when it offers itself. He mingles with the angels in the sanctuary; he obtains special graces for his service. Parents should see to it that their boys join the Altar Boy Society of the parish.
+3. It is a great honour and privilege to be allowed to serve Mass. This privilege is reserved to boys and men. Girls and women may answer the Mass prayers, like acolytes, but they are not permitted to enter the sanctuary. Every boy should avail himself of the opportunity when it offers itself. He mingles with the angels in the sanctuary; he obtains special graces for his service. Parents should see to it that their boys join the Altar Boy Society of the parish.
 
 > As early as possible, when a boy is 7 or 8 years old, he should be accustomed to serve Mass. He should learn the Mass prayers well, pronounce them distinctly, and understand their meaning when he is sufficiently advanced. He should be recollected in manner, remembering where he is and in what holy ceremony he is taking part.
 

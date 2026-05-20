@@ -63,7 +63,7 @@ Those of weak health, the sick, the convalescent, nursing women, the very poor, 
 
 3. Even from merely natural motives, fast and abstinence, far from ruining the health as some people claim, on the contrary are a preservation of health. 4. Fast and abstinence should not be carried to excess to the injury of our health. Our duty to conserve our health is a law of God and of nature, and is over and above the law of the Church to fast and abstain. When the two conflict, the first prevails.
 
-> Obedience is better than sacrifice. We should always be temperate rather than eat too much ordinarily. Then fast to excess on special occasions.
+> Obedience is better than sacrifice. We should always be temperate rather than eat too much ordinarily, then fast to excess on special occasions.
 
 
 **How can we know the days appointed for fast or abstinence?**

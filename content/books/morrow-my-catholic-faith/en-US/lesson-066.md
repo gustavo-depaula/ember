@@ -14,7 +14,7 @@
 
 > Authority is the power one person has over another, such that he can exact obedience justly. Thus rulers have authority over subjects; parents over their children; teachers, over pupils, etc.
 
-1. Christ appointed the Church to teach whatever He taught: "Go, therefore, and make disciples of all nations. . . . teaching them to observe all that I have commanded you" (Matt. 28:19)
+1. Christ appointed the Church to teach whatever He taught: "Go, therefore, and make disciples of all nations. . . . teaching them to observe all that I have commanded you" (Matt. 28:19).
 
 > Christ taught, as in the Sermon on the Mount.
 

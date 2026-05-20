@@ -30,7 +30,9 @@ It is not possible for all to go to distant missions to win souls for Christ, bu
 
 > This Society aids missionaries at home and in foreign fields by means of prayers and the collection of alms. All money collected is distributed by the central office in Rome. The only conditions for membership are:
 
-(a) Daily prayers of one Our Father, one Hail Mary, and the invocation, "St. Francis Xavier, pray for us"; and (b) A membership offering, varying from One Dollar for ordinary membership to Forty Dollars for perpetual membership.
+(a) Daily prayers of one Our Father, one Hail Mary, and the invocation, "St. Francis Xavier, pray for us"; and
+
+(b) A membership offering, varying from One Dollar for ordinary membership to Forty Dollars for perpetual membership.
 
 > Even deceased persons are eligible for enrolment as members, and will share in the merits of missionaries as well as in Masses offered for benefactors. In the United States, the Society has one million members, and annually 15,000 Masses are offered for benefactors. In October, the Sunday before the last is Mission Sunday, when special collections are made by the Society for the Propagation of the Faith as well as for the other Pontifical Mission Societies.
 
@@ -38,11 +40,19 @@ It is not possible for all to go to distant missions to win souls for Christ, bu
 
 > By this organization Catholic children through out the world make their contribution of prayer and alms for the welfare of children in mission fields; thus our children become little Apostles. Enrolment may be made as early as the day of Baptism. The conditions are:
 
-(a) Daily prayers of one Hail Mary and the ejaculation: "Holy Virgin Mary, pray for us and for the poor pagan children," and (b) Almsgiving to the Association.
+(a) Daily prayers of one Hail Mary and the ejaculation: "Holy Virgin Mary, pray for us and for the poor pagan children," and
+
+(b) Almsgiving to the Association.
 
 > Members gain numerous merits: sharing in those of missionaries and of the children benefited, in Masses offered by missionaries everywhere, in the prayers of all members, etc.
 
-3. The Pontifical Society of St. Peter the Apostle. This association was organized to help in the formation of native clergy in mission lands. This aim is accomplished in three ways: (a) By prayers for the formation of new priests, holy and pleasing to God; (b) By furnishing the material aid necessary for the maintenance of major and minor seminaries in the missions; and (c) By supporting poor seminarians in their studies for the priesthood, in territories under the Sacred Congregation of the Propagation of the Faith.
+3. The Pontifical Society of St. Peter the Apostle. This association was organized to help in the formation of native clergy in mission lands. This aim is accomplished in three ways:
+
+(a) By prayers for the formation of new priests, holy and pleasing to God;
+
+(b) By furnishing the material aid necessary for the maintenance of major and minor seminaries in the missions; and
+
+(c) By supporting poor seminarians in their studies for the priesthood, in territories under the Sacred Congregation of the Propagation of the Faith.
 
 > One point alone out of many shows the importance of the Society. To forward the work of the Church, the Society provides for the long and special preparation necessary (between twelve and fifteen years) for the training for the priesthood of a native clergy.
 

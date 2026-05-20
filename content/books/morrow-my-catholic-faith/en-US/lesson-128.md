@@ -22,7 +22,9 @@ At the consecration at Mass, the bread and wine are changed into the Body and Bl
 
 **How did Christ institute the Holy Eucharist?**
 
-— Christ instituted the Holy Eucharist in this way: He took bread, blessed and broke it, and giving it to His Apostles, said: "Take and eat; this is My body"; then He took a cup of wine, blessed it, and giving it to them, said: "All of you drink of this; for this is My blood of the new covenant which is being shed for many unto the forgiveness of sins"; finally, He gave His Apostles the commission: "Do this in remembrance of Me." 1. When Our Lord said, "This is My body," the entire substance of the bread was changed into His body; and when He said, "This is My blood," the entire substance of the wine was changed into His blood.
+— Christ instituted the Holy Eucharist in this way: He took bread, blessed and broke it, and giving it to His Apostles, said: "Take and eat; this is My body"; then He took a cup of wine, blessed it, and giving it to them, said: "All of you drink of this; for this is My blood of the new covenant which is being shed for many unto the forgiveness of sins"; finally, He gave His Apostles the commission: "Do this in remembrance of Me."
+
+1. When Our Lord said, "This is My body," the entire substance of the bread was changed into His body; and when He said, "This is My blood," the entire substance of the wine was changed into His blood.
 
 > In the Holy Eucharist, we find the three essentials of a sacrament. The institution took place at the Last Supper; the visible sign is the matter of bread and of wine, while the audible sign consisting in the words of Our Lord is the form; the grace granted is the receiving of the very body and blood of the Living Christ.
 

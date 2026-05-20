@@ -29,7 +29,9 @@ Vice is easily formed, but requires great struggle to overcome it. The longer a 
 
 6. Indecent pictures and shows. Today many movies and theatrical shows are not decent. We must be careful to choose only the good, those approved by the National Legion of Decency. This Legion, working under the hierarchy, each week issues a list giving the moral evaluation of current films; it reviews and classifies. It asks every Catholic to take a pledge not to patronize lewd pictures.
 
-> This pledge is nothing extraordinary for any decent person, Catholic or non-Catholic; it merely puts down clearly something that any upright person is obliged in conscience to do. The Legion of Decency was formed in order to unite the laity with the hierarchy in a persistent drive to prevent the showing of lewd pictures. If every decent person kept away from such obscene shows, the producers would surely make better pictures. Supply is according to the demand; we get what we ask for.
+> This pledge is nothing extraordinary for any decent person, Catholic or non-Catholic; it merely puts down clearly something that any upright person is obliged in conscience to do.
+
+> The Legion of Decency was formed in order to unite the laity with the hierarchy in a persistent drive to prevent the showing of lewd pictures. If every decent person kept away from such obscene shows, the producers would surely make better pictures. Supply is according to the demand; we get what we ask for.
 
 
 **How should we act towards occasions of sin?**

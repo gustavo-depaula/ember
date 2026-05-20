@@ -39,7 +39,9 @@ The contracting parties should go before the priest for instruction before a pla
 
 **Does the Church allow Catholics to marry during Lent and Advent?**
 
-— The Church allows Catholics to marry during Lent and Advent, provided they do so quietly and without much ceremony; a Nuptial Mass is forbidden during these seasons. 1. It is an error to think that the Church prohibits the contracting of marriage on any day of the year. It merely prohibits celebrations or signs of rejoicing that do not harmonize with the spirit of the penitential seasons. A marriage may take place without the Nuptial Mass and blessing any day of the year.
+— The Church allows Catholics to marry during Lent and Advent, provided they do so quietly and without much ceremony; a Nuptial Mass is forbidden during these seasons.
+
+1. It is an error to think that the Church prohibits the contracting of marriage on any day of the year. It merely prohibits celebrations or signs of rejoicing that do not harmonize with the spirit of the penitential seasons. A marriage may take place without the Nuptial Mass and blessing any day of the year.
 
 > It is forbidden to have the Nuptial Mass and blessing during the closed times which are seasons of penance; that is, from the first Sunday of Advent till Christmas Day inclusive, and from Ash Wednesday to Easter Sunday inclusive. This is what is meant by the prohibition to "solemnize" weddings.
 
@@ -57,4 +59,8 @@ The contracting parties should go before the priest for instruction before a pla
 
 **What should Catholics do to prepare for a holy and happy marriage?**
 
-— To prepare for a holy and happy marriage. Catholics should: *First*, pray that God may direct their choice; *Second*, seek the advice of their parents and confessors; *Third,* practice the virtues, especially chastity; *Fourth*, frequently receive the sacraments of Penance and the Holy Eucharist.
+— To prepare for a holy and happy marriage. Catholics should:
+*First*, pray that God may direct their choice;
+*Second*, seek the advice of their parents and confessors;
+*Third,* practice the virtues, especially chastity;
+*Fourth*, frequently receive the sacraments of Penance and the Holy Eucharist.

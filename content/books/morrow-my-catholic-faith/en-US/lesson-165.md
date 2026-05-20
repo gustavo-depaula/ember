@@ -9,7 +9,7 @@ Henry VIII, king of England, asked the Pope to grant him a divorce from his lawf
 
 — By the unity of the sacrament of Matrimony is meant that the husband cannot during the life of his wife have another wife, nor the wife during the life of her husband have another husband. 1. Christian marriage is a union between only one man and one woman. God created only one man and one woman in the beginning; and thus then there was unity in marriage.
 
-> Under the Mosaic Law, divorce was in some cases permitted, to avoid greater evils, because after the Fall the primitive revelation had become obscured to men. But when Christ came. He withdrew this permission absolutely, and restored marriage to its original unity, saying: "Have you not read that the Creator, from the beginning, made them male and female, and said, for this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put as under. . . . Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning" (Matt. 19: 4-8).
+> Under the Mosaic Law, divorce was in some cases permitted, to avoid greater evils, because after the Fall the primitive revelation had become obscured to men. But when Christ came. He withdrew this permission absolutely, and restored marriage to its original unity, saying: "Have you not read that the Creator, from the beginning, made them male and female, and said, for this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. . . . Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning" (Matt. 19: 4-8).
 
 2. Christian marriage is a sacred and holy state pleasing to God. St. Paul compares it to the mystical union between Christ and His Church. As Christ is one, and the Church is one, so marriage is between one man and one woman. As Christ and the Church are inseparably united, so marriage is indissoluble. It makes the contracting parties "two in one flesh."
 
@@ -32,7 +32,7 @@ Henry VIII, king of England, asked the Pope to grant him a divorce from his lawf
 
 2. Christ definitely and strictly forbade the cutting, the breaking of the marriage bond. Nobody can misinterpret His meaning: "Everyone who puts away his wife and marries another commits adultery; and he who marries a woman who has been put away from her husband commits adultery" (Luke 16: 18).
 
-> "For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put as under" (Mark 10: 7-9).
+> "For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder" (Mark 10: 7-9).
 
 3. The bond of the sacrament of matrimony lasts until the death of husband or wife. Christian marriage is indissoluble, except by death. Divorce, that is, the breaking of the marriage bond, with the right to remarry, is never permitted. By the law of God, the bond uniting husband and wife can be dissolved only by death.
 

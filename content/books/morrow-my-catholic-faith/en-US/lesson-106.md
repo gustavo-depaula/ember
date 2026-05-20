@@ -2,7 +2,7 @@
 
 ![](../images/lesson-106.webp)
 
-The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother; Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4: 8-9) Murderers do not act as brothers of the murdered.
+The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4: 8-9) Murderers do not act as brothers of the murdered.
 
 "THOU SHALL NOT KILL."
 

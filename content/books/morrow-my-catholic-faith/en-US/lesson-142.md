@@ -45,7 +45,13 @@ This is how we should kneel at the communion rail. We should not crowd or push. 
 
 > We may drink natural water any time we wish, even a few moments before entering the church to prepare for Holy Communion. Artificial mineral waters, like soda, or water to which a little sugar has been added, is not to be considered natural water for the Eucharistic fast.
 
-(b) We must fast from all solids and liquids, other than water, for no less than a one hour before Communion. It is, however, a very laudable practice when Holy Communion is received in the morning, to fast from midnight; or at least for three hours. (c) When Holy Communion is received later in the day, although one hour is required, it is again a laudable practice to fast for three hours. Liquids may be taken up until one hour before. (d) It is highly recommended that alcoholic drinks are not taken within three hours of receiving Holy Communion. 2. Those who wish to receive Holy Communion, but find it difficult to fast under some particular circumstances may seek the permission of a confessor, either personally in the confessional, or personally outside of it, in order to have it mitigated. The confessor is the one to decide whether their difficulties entitle them to it or not.
+(b) We must fast from all solids and liquids, other than water, for no less than a one hour before Communion. It is, however, a very laudable practice when Holy Communion is received in the morning, to fast from midnight; or at least for three hours.
+
+(c) When Holy Communion is received later in the day, although one hour is required, it is again a laudable practice to fast for three hours. Liquids may be taken up until one hour before.
+
+(d) It is highly recommended that alcoholic drinks are not taken within three hours of receiving Holy Communion.
+
+2. Those who wish to receive Holy Communion, but find it difficult to fast under some particular circumstances may seek the permission of a confessor, either personally in the confessional, or personally outside of it, in order to have it mitigated. The confessor is the one to decide whether their difficulties entitle them to it or not.
 
 > The particular circumstances are: (a) Heavy labour carried out before Holy Communion. This labour is of those who have to work during the night, like night workmen in factories, nurses, night watchmen, pregnant women, and mothers of families who before going to church must spend a long time on domestic duties.
 

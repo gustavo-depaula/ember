@@ -8,7 +8,9 @@
 
 — The priest uses the amice, alb, cincture, maniple, stole, and chasuble, in the celebration of Mass.
 
-> When the priest appears before God at the altar, he is clad in suitable vestments. God Himself gave directions about the vestments of the priests in the Old Testament (Exod. 28: 4). The chief vestments worn by Catholic priests have come down to us from the time of the Apostles. Symbolic significance have been attached to the different vestments. The prayers said by the priest as he puts on each piece of attire show the meaning attached to them by the Church.
+> When the priest appears before God at the altar, he is clad in suitable vestments. God Himself gave directions about the vestments of the priests in the Old Testament (Exod. 28: 4). The chief vestments worn by Catholic priests have come down to us from the time of the Apostles.
+
+> Symbolic significance have been attached to the different vestments. The prayers said by the priest as he puts on each piece of attire show the meaning attached to them by the Church.
 
 1. The amice is a piece of white linen cloth which covers the priest's shoulders.
 

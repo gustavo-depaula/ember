@@ -36,7 +36,7 @@ The main act of the sacrament of matrimony is the expression of mutual consent. 
 
 3. The Nuptial Mass is filled with beautiful excerpts from the Bible, setting forth the sanctity and dignity of the union which the man and woman have contracted. Throughout, the blessing of God is invoked.
 
-> The Gospel of the Mass is from St. Matthew: "What God hath joined together let no man put as under." The Communion is from Psalm 127: "Behold, thus shall every man be blessed who feareth the Lord; and mayest thou see thy children's children: peace upon Israel."
+> The Gospel of the Mass is from St. Matthew: "What God hath joined together let no man put asunder." The Communion is from Psalm 127: "Behold, thus shall every man be blessed who feareth the Lord; and mayest thou see thy children's children: peace upon Israel."
 
 4. The Church authorizes the nuptial ceremony apart from the Nuptial Mass; but it urges all Catholics to be united in marriage with the graces of that Mass, with its beautiful liturgy.
 

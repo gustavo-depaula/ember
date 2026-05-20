@@ -143,7 +143,7 @@
 
 **Corpus Christi** (Thursday after Trinity Sunday).
 
-> This feast is consecrated to the Holy Eucharist. It was established in order "to celebrate most solemnly and with all pomp the institution of the Most Blessed Sacrament, since it is not possible to do so on Holy Thursday on account of the other Holy Week celebrations. On this day or on the following Sunday, a great procession with the Blessed Sacrament is held.
+> This feast is consecrated to the Holy Eucharist. It was established in order "to celebrate most solemnly and with all pomp the institution of the Most Blessed Sacrament, since it is not possible to do so on Holy Thursday on account of the other Holy Week celebrations." On this day or on the following Sunday, a great procession with the Blessed Sacrament is held.
 
 
 **Feast of the Most Sacred Heart of Jesus.** (Friday after the Octave of *Corpus Christi* ).

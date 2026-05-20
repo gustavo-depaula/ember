@@ -52,7 +52,7 @@ In the early Church, the canonical penances were severe. Grave sins, such as apo
 
 **Who has authority to grant indulgences?**
 
-— The Pope alone has authority to grant plenary indulgences and indulgences for the whole Church; and those to whom this power is either acknowledged in the law, or given by the Roman Pontiff (CIC 912, CIC 995 §1).
+— The Pope alone has authority to grant plenary indulgences and indulgences for the whole Church; and those to whom this power is either acknowledged in the law, or given by the Roman Pontiff (CIC 912, NC 995 §1).
 
 > Priests with special faculties from the Pope may attach indulgences to objects they bless. All objects blessed by the Holy Father have the Apostolic indulgences attached to them.
 

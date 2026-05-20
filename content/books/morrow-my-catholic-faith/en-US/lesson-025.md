@@ -34,7 +34,9 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 **What is covetousness?**
 
-— Covetousness is the excessive love for, and seeking after, wealth and other worldly possessions. 1. Covetousness is also called avarice. A covetous person strives for more riches than he requires, and is never content, however much he already possesses.
+— Covetousness is the excessive love for, and seeking after, wealth and other worldly possessions.
+
+1. Covetousness is also called avarice. A covetous person strives for more riches than he requires, and is never content, however much he already possesses.
 
 > He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one setteth even his own soul to sale" (Ecclus. 10: 10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
 
@@ -53,7 +55,9 @@ Pride makes one admire himself, in the belief that his excellence, imagined or r
 
 **What is lust?**
 
-— Lust is the inordinate seeking of the pleasures of the flesh. 1. Lust defiles a man as no other sin does. It degrades man to the level of the beast. Pride is the sin committed by Lucifer, avarice by Judas, and lust by the brute.
+— Lust is the inordinate seeking of the pleasures of the flesh.
+
+1. Lust defiles a man as no other sin does. It degrades man to the level of the beast. Pride is the sin committed by Lucifer, avarice by Judas, and lust by the brute.
 
 > Of all vices, lust is most severely punished on earth. It leads to loss of health and reason. It was the cause of the Deluge. It was the cause for the destruction with fire and brimstone of Sodom and Gomorrha. "But immorality and every uncleanness or covetousness, let it not even be named among you, as becomes saints" (Ephes. 5: 3).
 
