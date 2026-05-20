@@ -34,7 +34,9 @@
 
 > Ordinarily, the marriage ceremony is not performed till three days after the last publication of the banns.
 
-> Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church." The union is for life, for better or worse.
+![](../images/lesson-170b.webp)
+
+*Christian marriage is a holy union, blessed by God, between one man and one woman. It is an indissoluble and pure relation, like the union between Christ and His Church. As the priest says to the man at the end of the Toledano marriage ritual, "I give you a companion, not a servant; love her as Christ loves His Church." The union is for life, for better or worse.*
 
 
 **What does the marriage ceremony include?**

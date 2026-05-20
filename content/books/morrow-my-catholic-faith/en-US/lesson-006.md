@@ -35,7 +35,9 @@
 
 1. The heavenly bodies go along their appointed courses age after age. The seasons succeed one another year by year. There is splendour, beauty, arrangement, and order everywhere. The whole universe is governed and preserved by immutable law.
 
-> From Adam and Eve down to the present, all men have acknowledged the existence of God. Even pagans and primitive peoples recognize a Supreme Being, a god. They have sacrifices, and they worship some deity whom they recognize as superior and supernatural, on whom man depends.
+![](../images/lesson-006b.webp)
+
+*From Adam and Eve down to the present, all men have acknowledged the existence of God. Even pagans and primitive peoples recognize a Supreme Being, a god. They have sacrifices, and they worship some deity whom they recognize as superior and supernatural, on whom man depends.*
 
 > If you plant an orange seed, you are certain an apple will not spring from it. Every morning you are sure the sun, when it rises, will appear in the east. At night you can go peacefully to sleep, assured that after your rest the day will come again.
 

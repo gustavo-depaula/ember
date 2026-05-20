@@ -36,6 +36,9 @@
 
 > A requiem Mass is said in black vestments, and with special prayers for the dead. Masses said for the dead for thirty consecutive days are called Gregorian Masses.
 
+![](../images/lesson-134b.webp)
+
+*The hosts consecrated at Mass, taken by the priest and people, are made of pure unleavened wheat flour mixed with water and baked. They are prepared by chosen persons, usually religious.*
 
 **What materials are used for consecration at Mass?**
 

@@ -23,10 +23,11 @@
 
 4. The offering of sacrifice is an honour reserved to God alone, since the formal act of offering and destroying an oblation is an act of worship or adoration. In order to make a solemn religious act of sacrifice to God, men have from earliest days asked priests, those consecrated to the service of God, to offer their sacrifices, to be the intermediary between man and God.
 
-> Because they did not have a knowledge of the true God, the ancient Greeks and Egyptians offered human sacrifices. The Canaanites used to offer human victims to their idol Moloch, heating the brazen statue of the god red-hot, and casting the victims into its arms. Even today, some pagan peoples offer human sacrifices. Thus we see how perversion enters when the true God is not known.
-
 > In ordinary life, we offer valuable things to those we love or respect, as a sign of gratitude or affection. In this way we give Christmas and birthday presents, commemoration gifts, etc. But these offerings are a "sacrifice" only in the common sense of the term, and are not included in the formal sacrifice that can be offered to God alone. This last is the offering and destroying or changing of something, in acknowledgement of God's infinite majesty.
 
+![](../images/lesson-130b.webp)
+
+*Because they did not have a knowledge of the true God, the ancient Greeks and Egyptians offered human sacrifices. The Canaanites used to offer human victims to their idol Moloch, heating the brazen statue of the god red-hot, and casting the victims into its arms. Even today, some pagan peoples offer human sacrifices. Thus we see how perversion enters when the true God is not known.*
 
 **What are the purposes of sacrifice?**
 
@@ -47,8 +48,19 @@
 
 > The King of Moab (4 Kings 5: 27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10: 20).
 
-God gave to Moses detailed instructions on sacrificial offerings (Lev. 1-7; 16; 22). Among the Jews, the high-priest, in the name of the people, offered morning and evening an unbloody sacrifice of incense, flour, oil, and frankincense. Then he offered a bloody sacrifice of a lamb, together with food and drink. On the Sabbath, two lambs, with bread and wine, were offered in addition as sacrifice.
+![](../images/lesson-130c.webp)
 
-On certain solemn feasts, the Jews sacrificed hundreds of victims amidst impressive ceremonies. Their chief feasts were: (a) the Pasch or Passover, which commemorated their deliverance from Egypt; (b) the Pentecost, in remembrance of the Law received on Mount Sinai; (c) the Tabernacles, to commemorate their wanderings in the desert; and (d) the Expiation or Atonement, in which the priest sacrificed for his own and the people's sins. These sacrifices typified the sacrifice of Christ.
+*God gave to Moses detailed instructions on sacrificial offerings (Lev. 1-7; 16; 22). Among the Jews, the high-priest, in the name of the people, offered morning and evening an unbloody sacrifice of incense, flour, oil, and frankincense. Then he offered a bloody sacrifice of a lamb, together with food and drink. On the Sabbath, two lambs, with bread and wine, were offered in addition as sacrifice.*
 
-Among the Jews there were different ranks or orders of priests, as the high-priest, the priests, and the Levites. These ranks were a figure or type of the different orders that were to be in the Church founded by Jesus Christ. The people faithfully obeyed their priests, and supported them with alms. The Jewish sacrifices were merely types of the Sacrifice of Christ on Calvary, and ceased with the passing of the Old Law. In the New Law, we have the True Sacrifice, the same that Christ offered on Calvary by His death. The High Priest is Christ Himself, and Christ, too, is the Victim. St. Paul said, "It is impossible that sins should be taken away with blood of bulls and of goats" (Heb. 10: 4).
+*On certain solemn feasts, the Jews sacrificed hundreds of victims amidst impressive ceremonies. Their chief feasts were: (a) the Pasch or Passover, which commemorated their deliverance from Egypt; (b) the Pentecost, in remembrance of the Law received on Mount Sinai; (c) the Tabernacles, to commemorate their wanderings in the desert; and (d) the Expiation or Atonement, in which the priest sacrificed for his own and the people's sins. These sacrifices typified the sacrifice of Christ.*
+
+![](../images/lesson-130d.webp)
+
+![](../images/lesson-130e.webp)
+
+*Among the Jews there were different ranks or orders of priests, as the high-priest, the priests, and the Levites. These ranks were a figure or type of the different orders that were to be in the Church founded by Jesus Christ. The people faithfully obeyed their priests, and supported them with alms.*
+
+*The Jewish sacrifices were merely types of the Sacrifice of Christ on Calvary, and ceased with the passing of the Old Law. In the New Law, we have the True Sacrifice, the same that Christ offered on Calvary by His death. The High Priest is Christ Himself, and Christ, too, is the Victim. St. Paul said, "It is impossible that sins should be taken away with blood of bulls and of goats" (Heb. 10: 4).*
+
+![](../images/lesson-130f.webp)
+

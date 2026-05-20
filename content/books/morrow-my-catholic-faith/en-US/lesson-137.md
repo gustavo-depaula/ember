@@ -1,7 +1,12 @@
 # 137. Vestments
 
-1. Amice 3. Cinture 5. Stole 7. Surplice and cassock
-2. Alb 4. Maniple 6. Chasuble 8. Cope
+![](../images/lesson-137.webp)
+
+*1. Amice 2. Alb 3. Cinture 4. Maniple*
+
+*5. Stole 6. Chasuble 7. Surplice and cassock 8. Cope*
+
+![](../images/lesson-137b.webp)
 
 
 **What vestments does the priest use in the celebration of Holy Mass?**
@@ -37,7 +42,6 @@
 > The vesting prayer at Mass is, "O Lord, Who hast said, My yoke is sweet and my burden light, grant that I may carry it so as to obtain Thy grace." The chasuble, stole, maniple, and veil for the chalice are made as a set of vestments, of the same material, colour, and design.
 
 7. The biretta is the three-ridged square cap worn by the priest when he enters the sanctuary. (See page 282.)
-
 
 **What vestments are used by the priest outside of Mass?**
 

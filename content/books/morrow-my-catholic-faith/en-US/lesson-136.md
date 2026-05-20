@@ -27,12 +27,13 @@
 
 > The sacred Host used for Benediction is reserved in a luna or lunette, which is placed in the glassed portion of the monstrance. (See page 282.)
 
-5. Burse and Corporal 6. Veiled Chalice and Burse 7. Missal with Stand 8. Cruets and Bell
-
 5. Other things, such as the Missal, veil, cruets, and incense, are used at the altar.
 
 > The Missal is the book which contains the prayers and ceremonies of the Mass. The veil is a square cloth of the same material and design as the vestments of the Priest. It is used to cover the chalice, paten, and pall before the Offertory and after the Ablution. The cruets are the vessels from which the acolyte or sacristan pours water and wine into the chalice held by the celebrant. Incense is a perfume burned on certain occasions, as at high Mass and Benediction; it is a symbol of prayer.
 
+![](../images/lesson-136b.webp)
+
+*5. Burse and Corporal 6. Veiled Chalice and Burse 7. Missal with Stand 8. Cruets and Bell*
 
 **What linens are used for the Holy Sacrifice?**
 

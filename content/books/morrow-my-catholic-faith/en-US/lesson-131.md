@@ -21,8 +21,9 @@
 
 3. The sacrifice of the Mass is offered to God alone. However, it may be offered to God in honour of the saints and angels, especially on their feasts.
 
-Christ instituted the Holy Sacrifice of the Mass at the Last Supper. After praying, He blessed bread and wine, and changed them into His Body and Blood, saying to the Apostles: "Take and eat; this is my body ... All of you drink of this; for this is my blood of new covenant, which is being shed for many unto the forgiveness of sins" (Matt. 26: 26, 28). These words are known as the words of consecration of Mass, by which bread and wine become the Body and Blood of Jesus Christ.
+![](../images/lesson-131b.webp)
 
+*Christ instituted the Holy Sacrifice of the Mass at the Last Supper. After praying, He blessed bread and wine, and changed them into His Body and Blood, saying to the Apostles: "Take and eat; this is my body ... All of you drink of this; for this is my blood of new covenant, which is being shed for many unto the forgiveness of sins" (Matt. 26: 26, 28). These words are known as the words of consecration of Mass, by which bread and wine become the Body and Blood of Jesus Christ.*
 
 **Who said the first Mass?**
 

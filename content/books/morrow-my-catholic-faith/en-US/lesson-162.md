@@ -17,7 +17,9 @@
 
 > The priest is "alter Christus" — another Christ, Our Lord calls him "a city built upon a hill," the "salt of the earth." He is in the world, but not of it. St. Francis of Sales said of priests: "I will close my eyes to their faults, and only see in them God's representatives."
 
-The bugia is the candlestick a bishop uses at Mass. He uses a special basin and ewer for washing his hands at the altar. He wears a pectoral cross and uses the crosier on solemn occasions such as when administering Confirmation. His ring, an amethyst stone, is kissed by the faithful in sign of respect. He wears the mitre of Pontifical Masses, as well as gloves, silk stockings, and sandals to match his vestments. The pallium is sent by the Pope to an archbishop after he has taken possession of his metropolitan see. It is worn on the shoulders. The fanon is a shoulder cape which the Pope alone may wear. It has a gold cross embroidered in front, and is used when the Holy Father says solemn High Mass. He is the only one that is entitled to use the tiara, a triple crown surmounted by a cross.
+![](../images/lesson-162b.webp)
+
+*The bugia is the candlestick a bishop uses at Mass. He uses a special basin and ewer for washing his hands at the altar. He wears a pectoral cross and uses the crosier on solemn occasions such as when administering Confirmation. His ring, an amethyst stone, is kissed by the faithful in sign of respect. He wears the mitre of Pontifical Masses, as well as gloves, silk stockings, and sandals to match his vestments. The pallium is sent by the Pope to an archbishop after he has taken possession of his metropolitan see. It is worn on the shoulders. The fanon is a shoulder cape which the Pope alone may wear. It has a gold cross embroidered in front, and is used when the Holy Father says solemn High Mass. He is the only one that is entitled to use the tiara, a triple crown surmounted by a cross.*
 
 3. When we meet a priest, we should salute him: women and girls should bow, and men and boys should raise their hats.
 

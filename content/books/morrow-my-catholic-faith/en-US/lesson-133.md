@@ -32,9 +32,13 @@
 
 > The sacrifice on the cross, the passion and death of Christ — is the goldmine of graces; Holy Mass is the machinery that takes the gold out for us. At Mass, a torrent of graces flows from the altar of God to enrich men. God makes use of other means of grace, such as prayer; but in no other means are graces applied to us so generously.
 
-There are different kinds of Masses: (a) low Mass, read or recited by the priest; (b) high Mass, sung by priest and choir; and (c) solemn high Mass, with deacon and subdeacon assisting the celebrant. These are not really different; they differ only in the elaborateness of the ceremonies used. A pontifical Mass is a high Mass said by a bishop. A bishop puts on his vestments and takes them off at the altar, unlike the priest, who vests himself in the sacristy. Above is a pontifical Mass.
+![](../images/lesson-133b.webp)
 
-1. At Holy Mass we particularly obtain: (a) Grace to repent of mortal sin.
+*There are different kinds of Masses: (a) low Mass, read or recited by the priest; (b) high Mass, sung by priest and choir; and (c) solemn high Mass, with deacon and subdeacon assisting the celebrant. These are not really different; they differ only in the elaborateness of the ceremonies used. A pontifical Mass is a high Mass said by a bishop. A bishop puts on his vestments and takes them off at the altar, unlike the priest, who vests himself in the sacristy. Above is a pontifical Mass.*
+
+1. At Holy Mass we particularly obtain:
+
+(a) Grace to repent of mortal sin.
 
 > It is not necessary to be in the state of grace to hear Mass; the sinner does not commit a fresh sin by doing so; on the contrary, he obtains the grace of conversion. Upon the cross Christ cried: "Father, forgive them;" at Mass He utters the same prayer on behalf of those present.
 
@@ -52,4 +56,7 @@ There are different kinds of Masses: (a) low Mass, read or recited by the priest
 
 3. The whole Church on earth and in purgatory participates in the general fruits, for the Mass is offered for all. The special fruits benefit:
 
-> (a) The priest who celebrates the Mass. (b) The person or persons for whom it is offered. (c) Those who assist at the Mass. (d) Those for whom the faithful present pray and offer the Mass in union with the priest.
+> (a) The priest who celebrates the Mass. 
+> (b) The person or persons for whom it is offered.
+> (c) Those who assist at the Mass.
+> (d) Those for whom the faithful present pray and offer the Mass in union with the priest.

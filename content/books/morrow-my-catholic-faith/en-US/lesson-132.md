@@ -21,7 +21,9 @@
 
 > In both the Sacrifice of the Cross and the Mass, the same officiating High-Priest offers up the same Sacrificial Victim: Jesus Christ Our Lord. The priest saying the Mass is only Christ's minister and representative. He utters the words of consecration in the name and person of Christ, saying, "This is My Body. This is My Blood" and not, "This is Christ's Body, etc."
 
-The illustration shows religious preparing wine from grapes for consecration. In certain places, special ceremonies attended by the bishop are held when the grapes are to be pressed.
+![](../images/lesson-132b.webp)
+
+*The illustration shows religious preparing wine from grapes for consecration. In certain places, special ceremonies attended by the bishop are held when the grapes are to be pressed.*
 
 
 **Is there any difference between the sacrifice of the cross and the Sacrifice of the Mass?**
@@ -38,4 +40,4 @@ The illustration shows religious preparing wine from grapes for consecration. In
 
 3. The sacrifice on Calvary was offered up by Christ Himself to the Eternal Father; the sacrifice of the Mass is offered up by Him united with us, as by our Baptism we became members of His Mystical Body.
 
-> Christ gave us the Mass as a visible sacrifice to continue His sacrifice on the cross until the end of time. The Mass is not a mere remembrance of Calvary; it actually renews Christ's death, continues His sacrifice, and is in itself His very Sacrifice.
+> Christ gave us the Mass as a visible sacrifice to continue His sacrifice on the cross until the end of time. ***The Mass is not a mere remembrance of Calvary; it actually renews Christ's death, continues His sacrifice, and is in itself His very Sacrifice.***

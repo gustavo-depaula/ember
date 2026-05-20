@@ -2,9 +2,7 @@
 
 ![](../images/lesson-160.webp)
 
-*As an introduction to Holy Orders, a candidate receives the tonsure. The minor orders follow: porter, lector, exorcist, and acolyte. Then come the major orders: subdeacon, deacon, and priest. Finally, at his consecration, a bishop receives the fullness of the priesthood.*
-
-At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Ember Days are celebrated to implore God's blessings on the fruits of the earth; those days are likewise intended as special occasions for praying for the clergy. The Ember Days are the Wednesdays, Fridays, and Saturdays following December 13, the first Sunday in Lent, Pentecost and September 14. Ordinations take place on Ember Saturdays, Ember Days are days of penance, fasting, and abstinence.
+*At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Ember Days are celebrated to implore God's blessings on the fruits of the earth; those days are likewise intended as special occasions for praying for the clergy. The Ember Days are the Wednesdays, Fridays, and Saturdays following December 13, the first Sunday in Lent, Pentecost and September 14. Ordinations take place on Ember Saturdays, Ember Days are days of penance, fasting, and abstinence.*
 
 
 **What are the major orders?**
@@ -29,6 +27,9 @@ At the beginning of the four seasons Spring, Summer, Autumn, and Winter—the Em
 
 > By means of the Sacrament of Holy Orders, the graces earned by the sacrifice of Christ are to be applied to the faithful of all times. "As the Father has sent me, I also send you" — for the same ends: to glorify God and lead men to salvation; by the same means: through prayer and teaching: in difficulties and against obstacles, and with the promise of ultimate victory: "And I appoint to you my kingdom, even as my Father has appointed to me, that you may eat and drink at my table in my kingdom: and you shall sit upon thrones, judging the twelve tribes of Israel" (Luke 22: 29-30).
 
+![](../images/lesson-160b.webp)
+
+*As an introduction to Holy Orders, a candidate receives the tonsure. The minor orders follow: porter, lector, exorcist, and acolyte. Then come the major orders: subdeacon, deacon, and priest. Finally, at his consecration, a bishop receives the fullness of the priesthood.*
 
 **What are the minor orders?**
 

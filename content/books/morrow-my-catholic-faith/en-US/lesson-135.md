@@ -21,7 +21,9 @@
 
 > The altar, then as now, was often erected so that the priest and the faithful faced the east, the source of light, as God is the Source. In those days, the baptistery used to be a separate building.
 
-In the building and furnishing of the altar, everything is laid down by law. The greatest exactness is observed. Above, we see the bishop consecrating an altar; he is placing the holy relics into the centre part in front of the tabernacle. It is on this part that at Mass, the chalice and host are laid.
+![](../images/lesson-135b.webp)
+
+*In the building and furnishing of the altar, everything is laid down by law. The greatest exactness is observed. Above, we see the bishop consecrating an altar; he is placing the holy relics into the centre part in front of the tabernacle. It is on this part that at Mass, the chalice and host are laid.*
 
 
 **How is the altar made and furnished?**

@@ -37,4 +37,6 @@
 
 Let us thank God for His gifts. We can best show our gratitude to God for making us members of the only true Church of Jesus Christ by often thanking God for this great favour, by leading edifying and practical Catholic lives, by trying to lead others to the true faith, and by helping the missions.
 
-> We thank God for the graces He showers on us in prayer and by our good lives. By following the commandments of God and the Church, and doing good works, we lead practical and edifying Catholic lives; such lives are the best way of leading others to our Faith, if we have no more direct means, such lives we say, *"Deo gratias!"*
+> We thank God for the graces He showers on us in prayer and by our good lives. By following the commandments of God and the Church, and doing good works, we lead practical and edifying Catholic lives; such lives are the best way of leading others to our Faith, if we have no more direct means, such lives we say, ***"Deo gratias!"***
+
+![](../images/lesson-193b.webp)
