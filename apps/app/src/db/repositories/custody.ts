@@ -125,10 +125,12 @@ export async function getCommitment(id: string): Promise<Commitment | undefined>
   return row ? commitmentFromRow(row) : undefined
 }
 
-export async function createCommitment(input: CommitmentInput): Promise<Commitment> {
+export async function createCommitment(
+  input: CommitmentInput & { id?: string },
+): Promise<Commitment> {
   const db = getDb()
   const now = Date.now()
-  const id = randomId()
+  const id = input.id ?? randomId()
   await db.runAsync(
     `INSERT INTO commitments (
       id, name, description, confessor_note, kind, targets, schedule, severity,

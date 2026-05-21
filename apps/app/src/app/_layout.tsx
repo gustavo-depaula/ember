@@ -48,13 +48,14 @@ import {
 } from '@/content/resolver'
 import { evictTo } from '@/content/store'
 import { useDbInit } from '@/db/client'
-import { reconcileAbandonedSessions } from '@/db/repositories/custody'
+import { listCommitments, reconcileAbandonedSessions } from '@/db/repositories/custody'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
 import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
 import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
 import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
 import { installCreatorPinning } from '@/features/creators/pinning/install'
+import { reconcileAllEnforcement } from '@/features/custody/enforcement'
 import { setupCustodyNotifications } from '@/features/custody/notifications'
 import { drainShieldEvents } from '@/features/custody/shieldEvents'
 import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
@@ -228,6 +229,12 @@ export default function RootLayout() {
             drainShieldEvents().catch((err) =>
               console.error('[startup] custody shield event drain failed', err),
             )
+            // Re-apply iOS Family Controls enforcement for every active bound
+            // commitment. Handles the cold-launch case where iOS shield state
+            // may not match what SQLite says (reinstall, OS restore).
+            listCommitments({ includeArchived: false })
+              .then((all) => reconcileAllEnforcement(all))
+              .catch((err) => console.error('[startup] custody enforcement reconcile failed', err))
           }
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))

@@ -1,10 +1,11 @@
 import { useRouter } from 'expo-router'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, TextInput } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { SchedulePicker } from '@/features/plan-of-life/components/SchedulePicker'
+import { randomId } from '@/lib/id'
 
 import { useCommitment, useCreateCommitment, useUpdateCommitment } from '../hooks'
 import { scheduleNudgesForCommitment } from '../notifications'
@@ -104,6 +105,9 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   const create = useCreateCommitment()
   const update = useUpdateCommitment()
 
+  // Stable upfront ID for new commitments so the iOS app-picker can persist
+  // its selection under `custody.selection.<id>` before the row exists.
+  const draftId = useMemo(() => editingId ?? randomId(), [editingId])
   const [state, setState] = useState<EditorState>(emptyState)
 
   useEffect(() => {
@@ -133,7 +137,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   const onSave = async () => {
     if (!input) return
     if (mode.kind === 'new') {
-      const created = await create.mutateAsync(input)
+      const created = await create.mutateAsync({ ...input, id: draftId })
       await scheduleNudgesForCommitment(created)
     } else {
       const updated = await update.mutateAsync({ id: mode.commitmentId, patch: input })
@@ -259,6 +263,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
           Targets
         </Text>
         <TargetPicker
+          commitmentId={draftId}
           targets={state.targets}
           onChange={(targets) => setState((s) => ({ ...s, targets }))}
         />

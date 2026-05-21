@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Platform, Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import type { Target } from '../types'
 
+import { AppTargetPickerIOS } from './AppTargetPickerIOS'
 import { AppTargetPickerPlaceholder } from './AppTargetPickerPlaceholder'
 import { DomainListTargetPicker } from './DomainListTargetPicker'
 import { DomainTargetPicker } from './DomainTargetPicker'
@@ -18,9 +19,11 @@ const TYPES: { value: TargetType; label: string; key: string }[] = [
 ]
 
 export function TargetPicker({
+  commitmentId,
   targets,
   onChange,
 }: {
+  commitmentId: string
   targets: Target[]
   onChange: (next: Target[]) => void
 }) {
@@ -55,7 +58,12 @@ export function TargetPicker({
 
       {mode === 'domain' && <DomainTargetPicker domains={targets} onChange={onChange} />}
       {mode === 'domain-list' && <DomainListTargetPicker targets={targets} onChange={onChange} />}
-      {mode === 'apps' && <AppTargetPickerPlaceholder />}
+      {mode === 'apps' &&
+        (Platform.OS === 'ios' ? (
+          <AppTargetPickerIOS commitmentId={commitmentId} targets={targets} onChange={onChange} />
+        ) : (
+          <AppTargetPickerPlaceholder />
+        ))}
     </YStack>
   )
 }

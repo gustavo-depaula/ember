@@ -65,7 +65,7 @@ function extractTokenRef(targets: Target[]): string | undefined {
   return targets.find((t) => t.kind === 'ios-app' || t.kind === 'ios-category')?.tokenRef
 }
 
-function toSnapshot(c: Commitment): CommitmentSnapshot {
+export function snapshotFromCommitment(c: Commitment): CommitmentSnapshot {
   return {
     id: c.id,
     name: c.name,
@@ -92,6 +92,6 @@ export async function syncCommitmentSnapshots(): Promise<void> {
   const native = getCustodyNative()
   if (!native.isSupported()) return
   const commitments = await listCommitments({ includeArchived: false })
-  const snapshots = commitments.filter((c) => c.severity === 'bound').map(toSnapshot)
+  const snapshots = commitments.filter((c) => c.severity === 'bound').map(snapshotFromCommitment)
   await native.syncSnapshots(snapshots)
 }

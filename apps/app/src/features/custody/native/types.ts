@@ -43,18 +43,37 @@ export type AnchorSnapshot = {
   imageAsset?: string
 }
 
+export type DateComponents = {
+  hour?: number
+  minute?: number
+  second?: number
+  weekday?: number
+}
+
+export type WebFilterPolicy =
+  | { type: 'none' }
+  | { type: 'specific'; domains: string[] }
+  | { type: 'all'; exceptDomains?: string[] }
+
+export type ScheduleSpec = {
+  intervalStart: DateComponents
+  intervalEnd: DateComponents
+  repeats: boolean
+}
+
 export type CustodyNative = {
   isSupported(): boolean
   getAuthorizationStatus(): Promise<AuthStatus>
   requestAuthorization(): Promise<AuthStatus>
-  presentPicker(
-    commitmentId: string,
-    includeWebDomains: boolean,
-  ): Promise<{ tokenRef: string } | null>
+  hasSelection(commitmentId: string): boolean
   syncSnapshots(snapshots: CommitmentSnapshot[]): Promise<void>
   applyShield(commitmentId: string): Promise<void>
   removeShield(commitmentId: string): Promise<void>
   removeAllShields(): Promise<void>
+  setWebContentFilter(policy: WebFilterPolicy, triggeredBy: string): Promise<void>
+  startMonitoring(activityName: string, schedule: ScheduleSpec): Promise<void>
+  stopMonitoring(activityNames: string[]): Promise<void>
+  pushShieldConfig(snapshot: CommitmentSnapshot): Promise<void>
   getStatus(): Promise<{
     activeCommitmentIds: string[]
     lockedUntil: Record<string, number>

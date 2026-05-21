@@ -1,18 +1,20 @@
 import { Linking, Platform } from 'react-native'
 
 import { fallback } from './fallback'
-import type { CommitmentSnapshot, CustodyNative, ShieldEvent } from './types'
+import type {
+  CommitmentSnapshot,
+  CustodyNative,
+  ScheduleSpec,
+  ShieldEvent,
+  WebFilterPolicy,
+} from './types'
 
-// Lazy-loaded reference to the `react-native-device-activity` JS module.
-// The module ships pre-built iOS extension targets (`ActivityMonitorExtension`,
-// `ShieldAction`, `ShieldConfiguration`) which are merged into the host app's
-// Xcode project at `expo prebuild` time via @kingstinct/expo-apple-targets.
-// Our `getCustodyNative()` adapter translates the Custody-flavored API surface
-// into RNDA's JS calls so the rest of the codebase doesn't have to learn the
-// library's vocabulary.
-//
-// On Android / sim / web (or any environment where the module can't load),
-// we transparently fall back to no-ops.
+// `react-native-device-activity` ships pre-built iOS extension targets that
+// the host project consumes via @kingstinct/expo-apple-targets at prebuild
+// time. This adapter translates the Custody-flavored API surface into RNDA's
+// JS calls so the rest of the codebase doesn't have to learn the library's
+// vocabulary. On Android / sim / any platform where the module can't load we
+// return no-ops.
 type RNDA = typeof import('react-native-device-activity')
 
 function loadRNDA(): RNDA | undefined {
@@ -26,20 +28,60 @@ function loadRNDA(): RNDA | undefined {
 }
 
 const COMMITMENTS_KEY = 'custody.commitments'
-const SHIELD_EVENT_PREFIX = 'custody.shieldEvent.'
 const LOCKED_UNTIL_PREFIX = 'custody.lockedUntil.'
-const SHIELD_ID_PREFIX = 'custody.shield.'
 
-function selectionIdFor(commitmentId: string): string {
+export function selectionIdFor(commitmentId: string): string {
   return `custody.selection.${commitmentId}`
 }
 
 function mapAuthStatus(raw: unknown): 'notDetermined' | 'denied' | 'approved' | 'unsupported' {
-  // RNDA returns a string union from AuthorizationStatusType.
-  if (raw === 'approved' || raw === 1 || raw === '1') return 'approved'
-  if (raw === 'denied' || raw === 2 || raw === '2') return 'denied'
+  if (raw === 'approved' || raw === 2 || raw === '2') return 'approved'
+  if (raw === 'denied' || raw === 1 || raw === '1') return 'denied'
   if (raw === 'notDetermined' || raw === 0 || raw === '0') return 'notDetermined'
   return 'unsupported'
+}
+
+function buildShieldPayload(snap: CommitmentSnapshot) {
+  return {
+    configuration: {
+      title: snap.anchor.title,
+      subtitle: snap.anchor.subtitle,
+      backgroundColor: { red: 0.054, green: 0.051, blue: 0.047, alpha: 1 },
+      titleColor: { red: 1, green: 1, blue: 1, alpha: 1 },
+      subtitleColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
+      primaryButtonLabel: 'Pray and continue blocking',
+      primaryButtonLabelColor: { red: 1, green: 1, blue: 1, alpha: 1 },
+      primaryButtonBackgroundColor: { red: 0.83, green: 0.55, blue: 0.2, alpha: 1 },
+      secondaryButtonLabel:
+        snap.friction === 'confession-only'
+          ? 'After confession'
+          : snap.friction === 'prayer'
+            ? 'Pray to disable'
+            : 'Disable',
+      secondaryButtonLabelColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
+    },
+    actions: {
+      primary: {
+        behavior: 'defer' as const,
+        actions: [{ type: 'openApp' as const }],
+      },
+      secondary: {
+        behavior:
+          snap.friction === 'confession-only' || snap.friction === 'prayer'
+            ? ('defer' as const)
+            : ('close' as const),
+        actions:
+          snap.friction === 'confession-only' || snap.friction === 'prayer'
+            ? [{ type: 'openApp' as const }]
+            : [
+                {
+                  type: 'unblockSelection' as const,
+                  familyActivitySelectionId: selectionIdFor(snap.id),
+                },
+              ],
+      },
+    },
+  }
 }
 
 function buildCustodyNative(rnda: RNDA): CustodyNative {
@@ -70,98 +112,77 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
         return mapAuthStatus(rnda.getAuthorizationStatus())
       }, 'denied'),
 
-    presentPicker: async (commitmentId, _includeWebDomains) => {
-      // RNDA exposes selection only through view components
-      // (DeviceActivitySelectionView). The host UI in
-      // AppTargetPickerIOS.tsx renders that view and persists the resulting
-      // FamilyActivitySelection via `setFamilyActivitySelectionId`. This
-      // function returns a stable tokenRef so the calling code keeps the
-      // same shape — the actual selection is bound to the ref by the view
-      // component.
-      return { tokenRef: selectionIdFor(commitmentId) }
+    hasSelection: (commitmentId) => {
+      try {
+        const selection = rnda.getFamilyActivitySelectionId(selectionIdFor(commitmentId))
+        return !!selection
+      } catch {
+        return false
+      }
     },
 
     syncSnapshots: async (snapshots: CommitmentSnapshot[]) =>
       safeCall(async () => {
         rnda.userDefaultsSet(COMMITMENTS_KEY, snapshots)
-        // Push a per-commitment ShieldConfiguration into RNDA's
-        // updateShieldWithId protocol so the extension can pick the
-        // right shield for each selection.
         for (const snap of snapshots) {
-          rnda.updateShieldWithId(
-            {
-              title: snap.anchor.title,
-              subtitle: snap.anchor.subtitle,
-              backgroundColor: { red: 0.054, green: 0.051, blue: 0.047, alpha: 1 },
-              titleColor: { red: 1, green: 1, blue: 1, alpha: 1 },
-              subtitleColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
-              primaryButtonLabel: 'Pray and continue blocking',
-              primaryButtonLabelColor: { red: 1, green: 1, blue: 1, alpha: 1 },
-              primaryButtonBackgroundColor: {
-                red: 0.83,
-                green: 0.55,
-                blue: 0.2,
-                alpha: 1,
-              },
-              secondaryButtonLabel:
-                snap.friction === 'confession-only'
-                  ? 'After confession'
-                  : snap.friction === 'prayer'
-                    ? 'Pray to disable'
-                    : 'Disable',
-              secondaryButtonLabelColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
-            },
-            {
-              primary: {
-                behavior: 'defer',
-                actions: [
-                  { type: 'openApp' },
-                  {
-                    type: 'sendNotification',
-                    payload: { title: snap.anchor.title, body: snap.anchor.subtitle },
-                  },
-                ],
-              },
-              secondary: {
-                behavior:
-                  snap.friction === 'confession-only' || snap.friction === 'prayer'
-                    ? 'defer'
-                    : 'close',
-                actions:
-                  snap.friction === 'confession-only' || snap.friction === 'prayer'
-                    ? [{ type: 'openApp' }]
-                    : [
-                        {
-                          type: 'unblockSelection',
-                          familyActivitySelectionId: selectionIdFor(snap.id),
-                        },
-                      ],
-              },
-            },
-            `${SHIELD_ID_PREFIX}${snap.id}`,
-          )
+          const { configuration, actions } = buildShieldPayload(snap)
+          // The shield extension looks up shield config by activitySelectionId
+          // (passed as `shieldId` to blockSelection). Keep these aligned.
+          rnda.updateShieldWithId(configuration, actions, selectionIdFor(snap.id))
         }
+      }, undefined),
+
+    pushShieldConfig: async (snap) =>
+      safeCall(async () => {
+        const { configuration, actions } = buildShieldPayload(snap)
+        rnda.updateShieldWithId(configuration, actions, selectionIdFor(snap.id))
       }, undefined),
 
     applyShield: async (commitmentId) =>
       safeCall(async () => {
         const selectionId = selectionIdFor(commitmentId)
-        const familyActivitySelection = rnda.getFamilyActivitySelectionId(selectionId)
-        if (!familyActivitySelection) return
-        rnda.blockSelection({ activitySelectionId: selectionId }, `custody-${commitmentId}`)
+        if (!rnda.getFamilyActivitySelectionId(selectionId)) return
+        rnda.blockSelection({ activitySelectionId: selectionId }, `custody-apply-${commitmentId}`)
       }, undefined),
 
     removeShield: async (commitmentId) =>
       safeCall(async () => {
         const selectionId = selectionIdFor(commitmentId)
-        const familyActivitySelection = rnda.getFamilyActivitySelectionId(selectionId)
-        if (!familyActivitySelection) return
-        rnda.unblockSelection({ activitySelectionId: selectionId }, `custody-${commitmentId}`)
+        if (!rnda.getFamilyActivitySelectionId(selectionId)) return
+        rnda.unblockSelection(
+          { activitySelectionId: selectionId },
+          `custody-remove-${commitmentId}`,
+        )
       }, undefined),
 
     removeAllShields: async () =>
       safeCall(async () => {
         rnda.resetBlocks('custody-reset-all')
+        rnda.clearWebContentFilterPolicy('custody-reset-all')
+      }, undefined),
+
+    setWebContentFilter: async (policy: WebFilterPolicy, triggeredBy: string) =>
+      safeCall(async () => {
+        if (policy.type === 'none') {
+          rnda.clearWebContentFilterPolicy(triggeredBy)
+        } else if (policy.type === 'specific') {
+          rnda.setWebContentFilterPolicy({ type: 'specific', domains: policy.domains }, triggeredBy)
+        } else {
+          rnda.setWebContentFilterPolicy(
+            { type: 'all', exceptDomains: policy.exceptDomains },
+            triggeredBy,
+          )
+        }
+      }, undefined),
+
+    startMonitoring: async (activityName: string, schedule: ScheduleSpec) =>
+      safeCall(async () => {
+        await rnda.startMonitoring(activityName, schedule, [])
+      }, undefined),
+
+    stopMonitoring: async (activityNames: string[]) =>
+      safeCall(async () => {
+        rnda.stopMonitoring(activityNames)
       }, undefined),
 
     getStatus: async () =>
@@ -185,10 +206,13 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
 
     drainShieldEvents: async () =>
       safeCall(async () => {
+        // RNDA's monitor extension emits onDeviceActivityMonitorEvent events
+        // and the shield action extension writes ShieldEvent rows via
+        // userDefaultsSet under the `custody.shieldEvent.<uid>` key. Drain.
         const all = (rnda.userDefaultsAll() ?? {}) as Record<string, unknown>
         const events: ShieldEvent[] = []
         for (const [key, value] of Object.entries(all)) {
-          if (!key.startsWith(SHIELD_EVENT_PREFIX)) continue
+          if (!key.startsWith('custody.shieldEvent.')) continue
           if (value && typeof value === 'object') {
             const v = value as Partial<ShieldEvent>
             if (v.type && v.commitmentId && v.uid && typeof v.occurredAt === 'number') {
@@ -204,8 +228,7 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
       safeCall(async () => {
         rnda.userDefaultsRemove(`${LOCKED_UNTIL_PREFIX}${commitmentId}`)
         const selectionId = selectionIdFor(commitmentId)
-        const familyActivitySelection = rnda.getFamilyActivitySelectionId(selectionId)
-        if (familyActivitySelection) {
+        if (rnda.getFamilyActivitySelectionId(selectionId)) {
           rnda.unblockSelection({ activitySelectionId: selectionId }, `custody-lift-${reason}`)
         }
       }, undefined),

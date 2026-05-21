@@ -18,6 +18,7 @@ import {
 } from '@/db/repositories/custody'
 import { useLastConfession } from '@/features/confessio/hooks'
 
+import { unwireBoundEnforcement, wireBoundEnforcement } from './enforcement'
 import { isCommitmentActiveOn } from './schedule'
 import type {
   Commitment,
@@ -113,8 +114,11 @@ function useInvalidateRoot() {
 export function useCreateCommitment() {
   const invalidate = useInvalidateRoot()
   return useMutation({
-    mutationFn: (input: CommitmentInput) => createCommitment(input),
-    onSuccess: invalidate,
+    mutationFn: (input: CommitmentInput & { id?: string }) => createCommitment(input),
+    onSuccess: async (commitment) => {
+      await wireBoundEnforcement(commitment)
+      invalidate()
+    },
   })
 }
 
@@ -123,14 +127,25 @@ export function useUpdateCommitment() {
   return useMutation({
     mutationFn: ({ id, patch }: { id: string; patch: Partial<CommitmentInput> }) =>
       updateCommitment(id, patch),
-    onSuccess: invalidate,
+    onSuccess: async (commitment) => {
+      // Always tear down first so a severity downgrade (bound → firm) or a
+      // target change pulls the old shield. `wireBoundEnforcement` then
+      // re-applies only if the commitment is still bound.
+      await unwireBoundEnforcement(commitment)
+      await wireBoundEnforcement(commitment)
+      invalidate()
+    },
   })
 }
 
 export function useArchiveCommitment() {
   const invalidate = useInvalidateRoot()
   return useMutation({
-    mutationFn: (id: string) => archiveCommitment(id),
+    mutationFn: async (id: string) => {
+      const existing = await getCommitment(id)
+      await archiveCommitment(id)
+      if (existing) await unwireBoundEnforcement(existing)
+    },
     onSuccess: invalidate,
   })
 }
@@ -138,7 +153,11 @@ export function useArchiveCommitment() {
 export function useUnarchiveCommitment() {
   const invalidate = useInvalidateRoot()
   return useMutation({
-    mutationFn: (id: string) => unarchiveCommitment(id),
+    mutationFn: async (id: string) => {
+      await unarchiveCommitment(id)
+      const c = await getCommitment(id)
+      if (c) await wireBoundEnforcement(c)
+    },
     onSuccess: invalidate,
   })
 }
@@ -146,7 +165,11 @@ export function useUnarchiveCommitment() {
 export function useDeleteCommitment() {
   const invalidate = useInvalidateRoot()
   return useMutation({
-    mutationFn: (id: string) => deleteCommitment(id),
+    mutationFn: async (id: string) => {
+      const existing = await getCommitment(id)
+      await deleteCommitment(id)
+      if (existing) await unwireBoundEnforcement(existing)
+    },
     onSuccess: invalidate,
   })
 }
