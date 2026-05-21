@@ -1482,6 +1482,7 @@ export default {
   custody: {
     title: 'Custody',
     tagline: 'What you refuse, kept under prayer.',
+    activeToday: "TODAY'S COMMITMENTS",
     empty: {
       heading: 'No commitments yet.',
       cta: 'Add your first commitment',

@@ -1489,6 +1489,7 @@ export default {
   custody: {
     title: 'Custódia',
     tagline: 'O que você recusa, guardado em oração.',
+    activeToday: 'PROPÓSITOS DE HOJE',
     empty: {
       heading: 'Nenhum propósito ainda.',
       cta: 'Adicionar primeiro propósito',

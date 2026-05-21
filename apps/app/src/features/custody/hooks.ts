@@ -52,7 +52,11 @@ export function useCommitments(opts: { includeArchived?: boolean } = {}) {
 export function useCommitment(id: string | undefined) {
   return useQuery({
     queryKey: custodyKeys.commitment(id ?? ''),
-    queryFn: () => (id ? getCommitment(id) : Promise.resolve(undefined)),
+    // TanStack Query rejects `undefined` query results. `getCommitment`
+    // returns undefined when the row is gone (e.g. just deleted) — coerce
+    // to `null` so the query settles cleanly during the delete-then-back
+    // navigation flow.
+    queryFn: async () => (id ? ((await getCommitment(id)) ?? null) : null),
     enabled: !!id,
   })
 }
