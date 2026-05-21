@@ -15,6 +15,9 @@ export type Target =
   | { kind: 'domain'; domain: string }
   | { kind: 'domain-list'; listKey: 'porn' | 'gambling' | 'social' | 'news' }
 
+// `Anchor` is used by the guided custody-session feature (a meditation
+// runner with bells). The iOS shield no longer uses it — shield messages
+// come from a rotating pool, see `shieldMessages.ts`.
 export type Anchor =
   | { kind: 'text'; text: string; attribution?: string }
   | { kind: 'image'; imageRef: string; caption?: string }
@@ -25,7 +28,7 @@ export type Anchor =
 export type FrictionConfig =
   | { kind: 'none' }
   | { kind: 'wait'; waitSeconds: number }
-  | { kind: 'prayer'; prayerRef: string }
+  | { kind: 'prayer' }
 
 // `fenceStart` / `fenceEnd` are only meaningful when `kind === 'time-fence'`.
 // Times are 24h HH:mm strings (local time, like slot.time elsewhere in the codebase).
@@ -38,7 +41,6 @@ export type Commitment = {
   schedule: Schedule
   friction: Friction
   friction_config: FrictionConfig | null
-  shield_anchor: Anchor | null
   fence_start: string | null
   fence_end: string | null
   limit_seconds: number | null
@@ -55,7 +57,6 @@ export type CommitmentInput = {
   schedule: Schedule
   friction: Friction
   frictionConfig?: FrictionConfig
-  shieldAnchor?: Anchor
   fenceStart?: string
   fenceEnd?: string
   limitSeconds?: number

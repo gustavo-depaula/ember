@@ -13,7 +13,6 @@ import { getCustodyNative } from '../native'
 import { scheduleNudgesForCommitment } from '../notifications'
 import { COMMITMENT_TEMPLATES } from '../templates'
 import type {
-  Anchor,
   CommitmentInput,
   CommitmentKind,
   Friction,
@@ -23,7 +22,6 @@ import type {
 } from '../types'
 
 import { FrictionPicker } from './FrictionPicker'
-import { ShieldAnchorPicker } from './ShieldAnchorPicker'
 import { TargetPicker } from './TargetPicker'
 
 type Mode = { kind: 'new' } | { kind: 'edit'; commitmentId: string }
@@ -48,7 +46,6 @@ type EditorState = {
   schedule: Schedule
   friction: Friction
   frictionConfig: FrictionConfig | null
-  shieldAnchor: Anchor | null
   fenceStart: string
   fenceEnd: string
   limitMinutes: string
@@ -63,7 +60,6 @@ function emptyState(): EditorState {
     schedule: DEFAULT_SCHEDULE,
     friction: 'none',
     frictionConfig: null,
-    shieldAnchor: null,
     fenceStart: '21:00',
     fenceEnd: '07:00',
     limitMinutes: '30',
@@ -82,7 +78,6 @@ function fromTemplate(templateId: string): EditorState {
     schedule: input.schedule,
     friction: input.friction,
     frictionConfig: input.frictionConfig ?? null,
-    shieldAnchor: input.shieldAnchor ?? null,
     fenceStart: input.fenceStart ?? '21:00',
     fenceEnd: input.fenceEnd ?? '07:00',
     limitMinutes: input.limitSeconds ? String(input.limitSeconds / 60) : '30',
@@ -99,7 +94,6 @@ function toInput(state: EditorState): CommitmentInput | undefined {
     schedule: state.schedule,
     friction: state.friction,
     frictionConfig: state.frictionConfig ?? undefined,
-    shieldAnchor: state.shieldAnchor ?? undefined,
   }
   if (state.kind === 'time-fence') {
     input.fenceStart = state.fenceStart
@@ -130,17 +124,7 @@ function summarizeSchedule(state: EditorState): string {
   return 'Always'
 }
 
-function summarizeAnchor(anchor: Anchor | null): string {
-  if (!anchor) return 'None'
-  if (anchor.kind === 'text')
-    return `“${anchor.text.slice(0, 32)}${anchor.text.length > 32 ? '…' : ''}”`
-  if (anchor.kind === 'prayer') return anchor.prayerRef.replace(/^prayer\//, '')
-  if (anchor.kind === 'lectio') return anchor.reference
-  if (anchor.kind === 'image') return anchor.imageRef
-  return 'Silence'
-}
-
-type SectionKey = 'targets' | 'schedule' | 'anchor' | 'override' | null
+type SectionKey = 'targets' | 'schedule' | 'override' | null
 
 export function CommitmentEditor({ mode }: { mode: Mode }) {
   const { t } = useTranslation()
@@ -171,7 +155,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
         schedule: existing.schedule,
         friction: existing.friction,
         frictionConfig: existing.friction_config,
-        shieldAnchor: existing.shield_anchor,
         fenceStart: existing.fence_start ?? '21:00',
         fenceEnd: existing.fence_end ?? '07:00',
         limitMinutes: existing.limit_seconds ? String(existing.limit_seconds / 60) : '30',
@@ -267,18 +250,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
               setState={setState}
               inputStyle={inputStyle}
               themeSecondary={theme.colorSecondary.val}
-            />
-          </Section>
-          <Divider />
-          <Section
-            label="Anchor"
-            value={summarizeAnchor(state.shieldAnchor)}
-            isOpen={open === 'anchor'}
-            onToggle={() => toggle('anchor')}
-          >
-            <ShieldAnchorPicker
-              value={state.shieldAnchor}
-              onChange={(shieldAnchor) => setState((s) => ({ ...s, shieldAnchor }))}
             />
           </Section>
           <Divider />

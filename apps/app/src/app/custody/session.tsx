@@ -1,17 +1,15 @@
 import { useRouter } from 'expo-router'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { PageHeader, ScreenLayout } from '@/components'
-import { starterTextAnchors } from '@/features/custody/anchors/starter-text'
 import { CustodySessionRunner } from '@/features/custody/components/CustodySessionRunner'
 import { SessionDurationPicker } from '@/features/custody/components/SessionDurationPicker'
-import { ShieldAnchorPicker } from '@/features/custody/components/ShieldAnchorPicker'
 import { useSessionStore } from '@/features/custody/sessionStore'
+import { pickShieldMessage } from '@/features/custody/shieldMessages'
 import type { Anchor } from '@/features/custody/types'
-import { localizeContent } from '@/lib/i18n'
 
 export default function CustodySessionScreen() {
   const { t } = useTranslation()
@@ -19,18 +17,13 @@ export default function CustodySessionScreen() {
   const kind = useSessionStore((s) => s.kind)
   const start = useSessionStore((s) => s.start)
 
-  // Default anchor — first starter text — so the picker isn't required.
-  const defaultAnchor: Anchor = (() => {
-    const seed = starterTextAnchors[0]
-    return {
-      kind: 'text',
-      text: localizeContent({ 'en-US': seed.text['en-US'], 'pt-BR': seed.text['pt-BR'] }),
-      attribution: seed.attribution,
-    }
-  })()
-
   const [minutes, setMinutes] = useState<number>(5)
-  const [anchor, setAnchor] = useState<Anchor>(defaultAnchor)
+  // Pull from the same rotating pool the iOS shield uses — keeps the session
+  // surface consistent with the prayer-shield aesthetic.
+  const anchor = useMemo<Anchor>(() => {
+    const message = pickShieldMessage('session')
+    return { kind: 'text', text: message.body, attribution: message.title }
+  }, [])
 
   if (kind !== 'idle') {
     return (
@@ -45,7 +38,16 @@ export default function CustodySessionScreen() {
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('custody.session.start')} />
         <SessionDurationPicker value={minutes} onChange={setMinutes} />
-        <ShieldAnchorPicker value={anchor} onChange={setAnchor} />
+        <YStack gap="$xs" paddingHorizontal="$lg" alignItems="center">
+          <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+            {anchor.kind === 'text' ? anchor.text : ''}
+          </Text>
+          {anchor.kind === 'text' && anchor.attribution && (
+            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+              {anchor.attribution}
+            </Text>
+          )}
+        </YStack>
         <Pressable
           onPress={async () => {
             await start({ plannedSeconds: minutes * 60, anchor })

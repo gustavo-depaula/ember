@@ -15,9 +15,6 @@ export type CommitmentTemplate = {
   build: () => CommitmentInput
 }
 
-const ANIMA_CHRISTI_RENDERED =
-  'Soul of Christ, sanctify me. Body of Christ, save me. Blood of Christ, inebriate me…'
-
 export const COMMITMENT_TEMPLATES: CommitmentTemplate[] = [
   {
     id: 'custody-of-the-eyes',
@@ -31,12 +28,7 @@ export const COMMITMENT_TEMPLATES: CommitmentTemplate[] = [
       targets: [{ kind: 'domain-list', listKey: 'porn' }],
       schedule: { type: 'daily' },
       friction: 'prayer',
-      frictionConfig: { kind: 'prayer', prayerRef: 'prayer/anima-christi' },
-      shieldAnchor: {
-        kind: 'prayer',
-        prayerRef: 'prayer/anima-christi',
-        rendered: ANIMA_CHRISTI_RENDERED,
-      },
+      frictionConfig: { kind: 'prayer' },
     }),
   },
   {
@@ -54,11 +46,6 @@ export const COMMITMENT_TEMPLATES: CommitmentTemplate[] = [
       frictionConfig: { kind: 'wait', waitSeconds: 300 },
       fenceStart: '21:00',
       fenceEnd: '07:00',
-      shieldAnchor: {
-        kind: 'text',
-        text: 'In peace I will lie down and sleep.',
-        attribution: 'Psalm 4:8',
-      },
     }),
   },
   {
@@ -75,11 +62,6 @@ export const COMMITMENT_TEMPLATES: CommitmentTemplate[] = [
       friction: 'none',
       fenceStart: '06:00',
       fenceEnd: '07:00',
-      shieldAnchor: {
-        kind: 'text',
-        text: 'Domine, labia mea aperies.',
-        attribution: 'Ps 50:17',
-      },
     }),
   },
   {
@@ -94,12 +76,7 @@ export const COMMITMENT_TEMPLATES: CommitmentTemplate[] = [
       targets: [{ kind: 'domain-list', listKey: 'news' }],
       schedule: { type: 'daily', seasons: ['lent'] },
       friction: 'prayer',
-      frictionConfig: { kind: 'prayer', prayerRef: 'prayer/anima-christi' },
-      shieldAnchor: {
-        kind: 'text',
-        text: 'Man shall not live by bread alone.',
-        attribution: 'Mt 4:4',
-      },
+      frictionConfig: { kind: 'prayer' },
     }),
   },
 ]

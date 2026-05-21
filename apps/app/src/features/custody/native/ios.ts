@@ -53,11 +53,17 @@ function mapAuthStatus(raw: unknown): 'notDetermined' | 'denied' | 'approved' | 
 // Ember dark-theme palette, expressed in 0–255 because RNDA divides every
 // channel by 255 in `getColor` before constructing the UIColor.
 const SHIELD_BG = { red: 14, green: 13, blue: 12, alpha: 1 } // #0E0D0C — cathedral void
-const SHIELD_BG_BLUR = 3 // UIBlurEffect.Style.systemThinMaterialDark
+const SHIELD_BG_BLUR = 17 as const // UIBlurEffect.Style.systemThinMaterialDark
 const TITLE = { red: 237, green: 228, blue: 216, alpha: 1 } // #EDE4D8 — bone white
 const SUBTITLE = { red: 168, green: 154, blue: 140, alpha: 1 } // #A89A8C — sandstone
 const ACCENT = { red: 212, green: 166, blue: 58, alpha: 1 } // #D4A63A — reliquary gold
 const ACCENT_INK = { red: 14, green: 13, blue: 12, alpha: 1 } // dark text on gold
+
+// RNDA's TS types omit the `openUrl` action even though the Swift shield
+// extension handles it (see ShieldActionExtension.swift line 120). The
+// extension reads `type` and `url` from the dictionary directly, so casting
+// past the discriminated-union type at the call site is safe.
+type RndaShieldActions = Parameters<RNDA['updateShieldWithId']>[1]
 
 function buildShieldPayload(snap: CommitmentSnapshot) {
   const secondaryLabel = snap.friction === 'prayer' ? 'Pray to disable' : 'Disable'
@@ -78,15 +84,37 @@ function buildShieldPayload(snap: CommitmentSnapshot) {
       secondaryButtonLabelColor: SUBTITLE,
     },
     actions: {
+      // Primary "Pray and continue" — defer the shield (keep app blocked) and
+      // deep-link the user into the prayer-shield screen in our app.
+      // RNDA's built-in "openApp" action is hard-coded to device-activity://
+      // (a scheme we don't register), so it silently no-ops. "openUrl" with
+      // an explicit URL is the only way to bounce into a custom app.
       primary: {
         behavior: 'defer' as const,
-        actions: [{ type: 'openApp' as const }],
+        actions: [
+          {
+            type: 'openUrl' as const,
+            url: `ember://custody/shield-pray/${snap.id}`,
+          },
+        ],
       },
+      // Secondary — depends on friction:
+      //   prayer: lift the shield AND open the prayer-to-disable screen.
+      //   none / wait: lift the shield immediately and close the shield UI.
       secondary: {
-        behavior: snap.friction === 'prayer' ? ('defer' as const) : ('close' as const),
+        behavior: 'close' as const,
         actions:
           snap.friction === 'prayer'
-            ? [{ type: 'openApp' as const }]
+            ? [
+                {
+                  type: 'unblockSelection' as const,
+                  familyActivitySelectionId: selectionIdFor(snap.id),
+                },
+                {
+                  type: 'openUrl' as const,
+                  url: `ember://custody/pray-to-disable/${snap.id}`,
+                },
+              ]
             : [
                 {
                   type: 'unblockSelection' as const,
@@ -120,13 +148,14 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
   // above explicitly via userDefaultsSet.
   const writeShield = (snap: CommitmentSnapshot) => {
     const { configuration, actions } = buildShieldPayload(snap)
+    const typedActions = actions as unknown as RndaShieldActions
     const selectionId = selectionIdFor(snap.id)
     rnda.userDefaultsSet(SHIELD_CONFIG_FALLBACK, configuration)
-    rnda.userDefaultsSet(SHIELD_ACTIONS_FALLBACK, actions)
+    rnda.userDefaultsSet(SHIELD_ACTIONS_FALLBACK, typedActions)
     rnda.userDefaultsSet(`${SHIELD_CONFIG_PER_SELECTION_PREFIX}${selectionId}`, configuration)
-    rnda.userDefaultsSet(`${SHIELD_ACTIONS_PER_SELECTION_PREFIX}${selectionId}`, actions)
+    rnda.userDefaultsSet(`${SHIELD_ACTIONS_PER_SELECTION_PREFIX}${selectionId}`, typedActions)
     // Preserve the templated form too — shield-button actions look it up.
-    rnda.updateShieldWithId(configuration, actions, selectionId)
+    rnda.updateShieldWithId(configuration, typedActions, selectionId)
   }
 
   return {

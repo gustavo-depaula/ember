@@ -3,8 +3,8 @@ import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { AnchorPreview } from '@/features/custody/components/AnchorPreview'
 import { useCommitment, useRecordEvent } from '@/features/custody/hooks'
+import { pickShieldMessage } from '@/features/custody/shieldMessages'
 
 export default function ShieldPrayScreen() {
   const { commitmentId } = useLocalSearchParams<{ commitmentId: string }>()
@@ -13,20 +13,24 @@ export default function ShieldPrayScreen() {
   const recordEvent = useRecordEvent()
 
   if (!commitmentId) return null
+  const message = pickShieldMessage(commitmentId)
 
   return (
     <ScreenLayout>
       <YStack alignItems="center" gap="$xl" paddingVertical="$xl">
         {commitment && (
-          <>
-            <Text fontFamily="$heading" fontSize="$5" color="$accent" textAlign="center">
-              {commitment.name}
-            </Text>
-            <YStack padding="$lg">
-              <AnchorPreview anchor={commitment.shield_anchor} />
-            </YStack>
-          </>
+          <Text fontFamily="$heading" fontSize="$5" color="$accent" textAlign="center">
+            {commitment.name}
+          </Text>
         )}
+        <YStack gap="$md" paddingHorizontal="$lg" alignItems="center">
+          <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
+            {message.title}
+          </Text>
+          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+            {message.body}
+          </Text>
+        </YStack>
         <Pressable
           onPress={async () => {
             await recordEvent.mutateAsync({ commitmentId, type: 'kept' })

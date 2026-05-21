@@ -19,7 +19,7 @@ import {
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { isFenceActive, nextActivation, nextDeactivation } from './schedule'
-import type { Anchor, CommitmentInput, Target } from './types'
+import type { CommitmentInput, Target } from './types'
 
 async function boot() {
   resetAllTestDbs()
@@ -31,11 +31,6 @@ async function boot() {
 }
 
 const sampleTargets: Target[] = [{ kind: 'domain', domain: 'instagram.com' }]
-const sampleAnchor: Anchor = {
-  kind: 'text',
-  text: 'Vigilate et orate',
-  attribution: 'Mt 26:41',
-}
 
 function baseInput(overrides: Partial<CommitmentInput> = {}): CommitmentInput {
   return {
@@ -44,7 +39,6 @@ function baseInput(overrides: Partial<CommitmentInput> = {}): CommitmentInput {
     targets: sampleTargets,
     schedule: { type: 'daily' },
     friction: 'none',
-    shieldAnchor: sampleAnchor,
     ...overrides,
   }
 }
@@ -62,13 +56,11 @@ describe('Custody repository', () => {
     const created = await createCommitment(baseInput())
     expect(created.id).toBeTruthy()
     expect(created.targets).toEqual(sampleTargets)
-    expect(created.shield_anchor).toEqual(sampleAnchor)
     expect(created.schedule).toEqual({ type: 'daily' })
 
     const fetched = await getCommitment(created.id)
     expect(fetched?.name).toBe('No Instagram')
     expect(fetched?.targets).toEqual(sampleTargets)
-    expect(fetched?.shield_anchor).toEqual(sampleAnchor)
   })
 
   it('filters archived commitments from default list', async () => {
@@ -150,7 +142,6 @@ describe('Custody schedule helpers', () => {
     schedule: { type: 'daily' as const },
     friction: 'none' as const,
     friction_config: null,
-    shield_anchor: sampleAnchor,
     fence_start: '21:00',
     fence_end: '07:00',
     limit_seconds: null,

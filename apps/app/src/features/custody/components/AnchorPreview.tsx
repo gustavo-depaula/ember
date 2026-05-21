@@ -1,85 +1,59 @@
+import { Image } from 'expo-image'
 import { Text, YStack } from 'tamagui'
 
 import type { Anchor } from '../types'
 
-function truncate(text: string, max: number): string {
-  return text.length <= max ? text : `${text.slice(0, max)}…`
-}
-
+// Renders a session-runner anchor (text / image / prayer / lectio / silence).
+// The iOS shield doesn't use this — it pulls from the rotating message pool.
 export function AnchorPreview({ anchor }: { anchor: Anchor | null }) {
-  if (!anchor) {
+  if (!anchor || anchor.kind === 'silence') {
     return (
-      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-        No anchor selected
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+        Silence
       </Text>
     )
   }
-
   if (anchor.kind === 'text') {
     return (
-      <YStack gap="$xs">
-        <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+      <YStack gap="$xs" alignItems="center">
+        <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
           {anchor.text}
         </Text>
         {anchor.attribution && (
-          <Text
-            fontFamily="$body"
-            fontSize="$1"
-            color="$colorSecondary"
-            textAlign="center"
-            fontStyle="italic"
-          >
-            — {anchor.attribution}
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+            {anchor.attribution}
           </Text>
         )}
       </YStack>
     )
   }
-
-  if (anchor.kind === 'prayer' || anchor.kind === 'lectio') {
-    const heading = anchor.kind === 'prayer' ? anchor.prayerRef : anchor.reference
+  if (anchor.kind === 'prayer') {
     return (
-      <YStack gap="$xs">
-        <Text fontFamily="$heading" fontSize="$2" color="$accent" textAlign="center">
-          {heading}
+      <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
+        {anchor.rendered}
+      </Text>
+    )
+  }
+  if (anchor.kind === 'lectio') {
+    return (
+      <YStack gap="$xs" alignItems="center">
+        <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
+          {anchor.rendered}
         </Text>
-        <Text fontFamily="$body" fontSize="$2" color="$color" textAlign="center">
-          {truncate(anchor.rendered, 120)}
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+          {anchor.reference}
         </Text>
       </YStack>
     )
   }
-
-  if (anchor.kind === 'image') {
-    return (
-      <YStack gap="$xs">
-        <Text fontFamily="$heading" fontSize="$2" color="$accent" textAlign="center">
-          {anchor.imageRef}
-        </Text>
-        {anchor.caption && (
-          <Text
-            fontFamily="$body"
-            fontSize="$1"
-            color="$colorSecondary"
-            textAlign="center"
-            fontStyle="italic"
-          >
-            {anchor.caption}
-          </Text>
-        )}
-      </YStack>
-    )
-  }
-
   return (
-    <Text
-      fontFamily="$body"
-      fontSize="$2"
-      color="$colorSecondary"
-      textAlign="center"
-      fontStyle="italic"
-    >
-      Silence
-    </Text>
+    <YStack gap="$xs" alignItems="center">
+      <Image source={anchor.imageRef} style={{ width: 240, height: 240, borderRadius: 12 }} />
+      {anchor.caption && (
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+          {anchor.caption}
+        </Text>
+      )}
+    </YStack>
   )
 }

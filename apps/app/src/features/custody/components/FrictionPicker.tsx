@@ -31,10 +31,7 @@ export function FrictionPicker({
         }
         break
       case 'prayer':
-        nextConfig = {
-          kind: 'prayer',
-          prayerRef: config?.kind === 'prayer' ? config.prayerRef : 'prayer/anima-christi',
-        }
+        nextConfig = { kind: 'prayer' }
         break
     }
     onChange(friction, nextConfig)

@@ -119,7 +119,6 @@ CREATE TABLE IF NOT EXISTS commitments (
   schedule        TEXT NOT NULL,                                       -- JSON Schedule
   friction        TEXT NOT NULL CHECK (friction IN ('none', 'wait', 'prayer')),
   friction_config TEXT,                                                -- JSON FrictionConfig
-  shield_anchor   TEXT,                                                -- JSON Anchor
   fence_start     TEXT,                                                -- HH:mm, only for kind = 'time-fence'
   fence_end       TEXT,                                                -- HH:mm, only for kind = 'time-fence'
   limit_seconds   INTEGER,                                             -- only for kind = 'time-limit'

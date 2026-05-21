@@ -1,5 +1,4 @@
 import type {
-  Anchor,
   Commitment,
   CommitmentEvent,
   CommitmentInput,
@@ -23,7 +22,6 @@ type CommitmentRow = {
   schedule: string
   friction: string
   friction_config: string | null
-  shield_anchor: string | null
   fence_start: string | null
   fence_end: string | null
   limit_seconds: number | null
@@ -66,7 +64,6 @@ function commitmentFromRow(row: CommitmentRow): Commitment {
     schedule: JSON.parse(row.schedule) as Schedule,
     friction: row.friction as Commitment['friction'],
     friction_config: parseJson<FrictionConfig>(row.friction_config),
-    shield_anchor: parseJson<Anchor>(row.shield_anchor),
     fence_start: row.fence_start,
     fence_end: row.fence_end,
     limit_seconds: row.limit_seconds,
@@ -127,9 +124,9 @@ export async function createCommitment(
   await db.runAsync(
     `INSERT INTO commitments (
       id, name, description, kind, targets, schedule,
-      friction, friction_config, shield_anchor, fence_start, fence_end,
+      friction, friction_config, fence_start, fence_end,
       limit_seconds, archived, created_at, updated_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, ?)`,
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, ?)`,
     [
       id,
       input.name,
@@ -139,7 +136,6 @@ export async function createCommitment(
       JSON.stringify(input.schedule),
       input.friction,
       input.frictionConfig ? JSON.stringify(input.frictionConfig) : null,
-      input.shieldAnchor ? JSON.stringify(input.shieldAnchor) : null,
       input.fenceStart ?? null,
       input.fenceEnd ?? null,
       input.limitSeconds ?? null,
@@ -171,11 +167,6 @@ const COMMITMENT_COLUMNS: Array<{
   {
     field: 'frictionConfig',
     column: 'friction_config',
-    serialize: (v) => (v ? JSON.stringify(v) : null),
-  },
-  {
-    field: 'shieldAnchor',
-    column: 'shield_anchor',
     serialize: (v) => (v ? JSON.stringify(v) : null),
   },
   { field: 'fenceStart', column: 'fence_start', serialize: (v) => (v as string) ?? null },

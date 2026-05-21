@@ -3,9 +3,9 @@ import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { AnchorPreview } from '@/features/custody/components/AnchorPreview'
 import { useCommitment, useRecordEvent } from '@/features/custody/hooks'
 import { getCustodyNative } from '@/features/custody/native'
+import { pickShieldMessage } from '@/features/custody/shieldMessages'
 
 export default function PrayToDisableScreen() {
   const { commitmentId } = useLocalSearchParams<{ commitmentId: string }>()
@@ -14,22 +14,26 @@ export default function PrayToDisableScreen() {
   const recordEvent = useRecordEvent()
 
   if (!commitmentId) return null
+  const message = pickShieldMessage(commitmentId)
 
   return (
     <ScreenLayout>
       <YStack alignItems="center" gap="$xl" paddingVertical="$xl">
         {commitment && (
-          <>
-            <Text fontFamily="$heading" fontSize="$5" color="$accent" textAlign="center">
-              {commitment.name}
-            </Text>
-            <YStack padding="$lg">
-              <AnchorPreview anchor={commitment.shield_anchor} />
-            </YStack>
-          </>
+          <Text fontFamily="$heading" fontSize="$5" color="$accent" textAlign="center">
+            {commitment.name}
+          </Text>
         )}
+        <YStack gap="$md" paddingHorizontal="$lg" alignItems="center">
+          <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
+            {message.title}
+          </Text>
+          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary" textAlign="center">
+            {message.body}
+          </Text>
+        </YStack>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
-          Pray the anchor in full. When you tap below, the shield lifts for the rest of today.
+          Pray, then tap below. The shield will lift for the rest of today.
         </Text>
         <Pressable
           onPress={async () => {
