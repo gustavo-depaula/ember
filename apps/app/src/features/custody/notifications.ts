@@ -2,6 +2,7 @@ import { Platform } from 'react-native'
 
 import i18n from '@/lib/i18n'
 
+import { parseHHmm } from './time'
 import type { Commitment } from './types'
 
 // biome-ignore lint: conditional require for platform compat
@@ -29,14 +30,6 @@ async function cancelForCommitment(commitmentId: string): Promise<void> {
   }
 }
 
-function parseFenceTime(value: string): { hour: number; minute: number } | undefined {
-  const [h, m] = value.split(':')
-  const hour = Number.parseInt(h, 10)
-  const minute = Number.parseInt(m, 10)
-  if (Number.isNaN(hour) || Number.isNaN(minute)) return undefined
-  return { hour, minute }
-}
-
 export async function scheduleNudgesForCommitment(commitment: Commitment): Promise<void> {
   if (!Notifications) return
   // Clear stale schedules first so edits don't double-fire.
@@ -46,8 +39,8 @@ export async function scheduleNudgesForCommitment(commitment: Commitment): Promi
   const data = { custodyCommitmentId: commitment.id }
 
   if (commitment.kind === 'time-fence' && commitment.fence_start && commitment.fence_end) {
-    const start = parseFenceTime(commitment.fence_start)
-    const end = parseFenceTime(commitment.fence_end)
+    const start = parseHHmm(commitment.fence_start)
+    const end = parseHHmm(commitment.fence_end)
     if (start) {
       await Notifications.scheduleNotificationAsync({
         content: {
@@ -59,8 +52,8 @@ export async function scheduleNudgesForCommitment(commitment: Commitment): Promi
         },
         trigger: {
           type: Notifications.SchedulableTriggerInputTypes.DAILY,
-          hour: start.hour,
-          minute: start.minute,
+          hour: start.hours,
+          minute: start.minutes,
           ...channelOpts,
         },
       })
@@ -76,8 +69,8 @@ export async function scheduleNudgesForCommitment(commitment: Commitment): Promi
         },
         trigger: {
           type: Notifications.SchedulableTriggerInputTypes.DAILY,
-          hour: end.hour,
-          minute: end.minute,
+          hour: end.hours,
+          minute: end.minutes,
           ...channelOpts,
         },
       })

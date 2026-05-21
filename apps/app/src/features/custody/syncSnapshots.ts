@@ -28,9 +28,7 @@ export function snapshotFromCommitment(c: Commitment, now: Date = new Date()): C
     id: c.id,
     name: c.name,
     friction: c.friction,
-    frictionConfig: c.friction_config
-      ? (c.friction_config as unknown as Record<string, unknown>)
-      : undefined,
+    frictionConfig: c.friction_config ?? undefined,
     anchor: {
       kind: 'text',
       title: message.title,

@@ -19,6 +19,7 @@ import {
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { isFenceActive, nextActivation, nextDeactivation } from './schedule'
+import { mapShieldEventType } from './shieldEvents'
 import type { CommitmentInput, Target } from './types'
 
 async function boot() {
@@ -129,6 +130,41 @@ describe('Custody repository', () => {
     await reconcileAbandonedSessions()
     const recent = await listRecentSessions()
     expect(recent[0].ended_reason).toBe('app-killed')
+  })
+
+  it('throws when targets JSON is not an array', async () => {
+    const c = await createCommitment(baseInput())
+    const { getDb } = await import('@/db/instance')
+    await getDb().runAsync('UPDATE commitments SET targets = ? WHERE id = ?', [
+      '"oops not an array"',
+      c.id,
+    ])
+    await expect(getCommitment(c.id)).rejects.toThrow(/targets JSON is not an array/)
+  })
+
+  it('throws when schedule JSON has no .type field', async () => {
+    const c = await createCommitment(baseInput())
+    const { getDb } = await import('@/db/instance')
+    await getDb().runAsync('UPDATE commitments SET schedule = ? WHERE id = ?', [
+      '{"days":[1,2,3]}',
+      c.id,
+    ])
+    await expect(getCommitment(c.id)).rejects.toThrow(/schedule JSON missing\/invalid \.type/)
+  })
+})
+
+describe('mapShieldEventType', () => {
+  it('passes through the three valid event types', () => {
+    expect(mapShieldEventType('kept')).toBe('kept')
+    expect(mapShieldEventType('overrode')).toBe('overrode')
+    expect(mapShieldEventType('paused')).toBe('paused')
+  })
+
+  it('returns undefined for unknown event types', () => {
+    expect(mapShieldEventType('confessed')).toBeUndefined()
+    expect(mapShieldEventType('fell')).toBeUndefined()
+    expect(mapShieldEventType('')).toBeUndefined()
+    expect(mapShieldEventType('KEPT')).toBeUndefined()
   })
 })
 

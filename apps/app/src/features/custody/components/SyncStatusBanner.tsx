@@ -1,10 +1,12 @@
 import { useQuery } from '@tanstack/react-query'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { getCustodyNative } from '../native'
 
 export function SyncStatusBanner() {
+  const { t } = useTranslation()
   const native = getCustodyNative()
   const { data: status, refetch } = useQuery({
     queryKey: ['custody', 'auth-status'],
@@ -21,16 +23,15 @@ export function SyncStatusBanner() {
       padding="$md"
       borderRadius="$md"
       borderWidth={1}
-      borderColor="#EF4444"
+      borderColor="$colorDestructive"
       backgroundColor="$backgroundSurface"
       gap="$xs"
     >
-      <Text fontFamily="$heading" fontSize="$2" color="#EF4444">
-        Custody enforcement disabled
+      <Text fontFamily="$heading" fontSize="$2" color="$colorDestructive">
+        {t('custody.banner.title')}
       </Text>
       <Text fontFamily="$body" fontSize="$2" color="$color">
-        Screen Time access was revoked. Bound commitments are running as Firm until you re-enable
-        Ember in Settings → Screen Time.
+        {t('custody.banner.body')}
       </Text>
       <Pressable
         onPress={async () => {
@@ -39,7 +40,7 @@ export function SyncStatusBanner() {
         }}
       >
         <Text fontFamily="$body" fontSize="$2" color="$accent">
-          Open Settings
+          {t('custody.banner.openSettings')}
         </Text>
       </Pressable>
     </YStack>

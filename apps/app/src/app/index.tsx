@@ -15,12 +15,10 @@ import {
   ScreenLayout,
   SectionDivider,
 } from '@/components'
-import { flags } from '@/config/flags'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
 import { LatestRow } from '@/features/creators/home/LatestRow'
-import { ActiveCommitmentsBlock } from '@/features/custody/components/ActiveCommitmentsBlock'
 import {
   AppShortcuts,
   Aspiratio,
@@ -263,12 +261,6 @@ export default function HomeScreen() {
           <FadeInView index={1}>
             <ResolutionLine />
           </FadeInView>
-
-          {flags.custody && (
-            <FadeInView index={1}>
-              <ActiveCommitmentsBlock />
-            </FadeInView>
-          )}
 
           {todaySlots.length === 0 ? (
             <FadeInView index={2}>

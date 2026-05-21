@@ -6,6 +6,7 @@ import { getCustodyNative } from './native'
 import { selectionIdFor } from './native/ios'
 import type { ScheduleSpec } from './native/types'
 import { snapshotFromCommitment } from './syncSnapshots'
+import { parseHHmm } from './time'
 import type { Commitment, Target } from './types'
 
 // Activity name must contain the FamilyActivitySelectionId so RNDA's
@@ -45,25 +46,28 @@ function hasAppTargets(targets: Target[]): boolean {
   return targets.some((t) => t.kind === 'ios-app' || t.kind === 'ios-category')
 }
 
-function parseHHmm(value: string): { hour: number; minute: number } | undefined {
-  const [h, m] = value.split(':')
-  const hour = Number.parseInt(h, 10)
-  const minute = Number.parseInt(m, 10)
-  if (Number.isNaN(hour) || Number.isNaN(minute)) return undefined
-  return { hour, minute }
-}
-
 // Translate a commitment's fence/schedule shape into the single
 // DeviceActivitySchedule we register with iOS. For `time-fence` use the
 // configured window; for `abstain` and `time-limit` use 00:00–23:59 daily.
+//
+// Logs (rather than throws) on malformed fence times so the reconcile loop
+// keeps marching through the remaining commitments. The editor validates
+// fence input at save time — see CommitmentEditor.toInput — so this branch
+// should only ever fire for legacy/hand-edited rows.
 function scheduleFor(commitment: Commitment): ScheduleSpec | undefined {
   if (commitment.kind === 'time-fence' && commitment.fence_start && commitment.fence_end) {
     const start = parseHHmm(commitment.fence_start)
     const end = parseHHmm(commitment.fence_end)
-    if (!start || !end) return undefined
+    if (!start || !end) {
+      console.error(
+        `[custody/enforcement] malformed fence times for ${commitment.id}: ` +
+          `start=${commitment.fence_start} end=${commitment.fence_end}`,
+      )
+      return undefined
+    }
     return {
-      intervalStart: { hour: start.hour, minute: start.minute },
-      intervalEnd: { hour: end.hour, minute: end.minute },
+      intervalStart: { hour: start.hours, minute: start.minutes },
+      intervalEnd: { hour: end.hours, minute: end.minutes },
       repeats: true,
     }
   }

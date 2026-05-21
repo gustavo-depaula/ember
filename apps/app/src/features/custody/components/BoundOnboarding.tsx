@@ -1,44 +1,60 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { Text, View, XStack, YStack } from 'tamagui'
 
 import { AuthorizationGuard } from './AuthorizationGuard'
 
-const STEPS: { title: string; body: string }[] = [
-  {
-    title: 'Custody is your phone helping you keep your word.',
-    body: 'You decide what to shield, and you can lift it any time — Custody is ascetical aid, not jail.',
-  },
-  {
-    title: 'Custody is single-user.',
-    body: 'No one else controls your apps. There is no guardian, no remote, no shared account.',
-  },
-  {
-    title: 'We never see which apps you pick.',
-    body: 'Apple keeps that private. Ember can only ask the system to shield what you select.',
-  },
-]
+const STEP_KEYS = ['intro', 'singleUser', 'privacy'] as const
+
+function ProgressDots({ step, total }: { step: number; total: number }) {
+  return (
+    <XStack gap="$xs" justifyContent="center" paddingBottom="$sm">
+      {Array.from({ length: total }).map((_, i) => (
+        <View
+          // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length progress ladder
+          key={i}
+          width={i === step ? 24 : 8}
+          height={8}
+          borderRadius={4}
+          backgroundColor={i <= step ? '$accent' : '$borderColor'}
+        />
+      ))}
+    </XStack>
+  )
+}
 
 export function BoundOnboarding({ onComplete }: { onComplete: () => void }) {
+  const { t } = useTranslation()
   const [step, setStep] = useState(0)
   const [askedAuth, setAskedAuth] = useState(false)
+  const completedRef = useRef(false)
 
-  if (step < STEPS.length) {
-    const current = STEPS[step]
+  const done = step >= STEP_KEYS.length && askedAuth
+  useEffect(() => {
+    if (done && !completedRef.current) {
+      completedRef.current = true
+      onComplete()
+    }
+  }, [done, onComplete])
+
+  if (step < STEP_KEYS.length) {
+    const key = STEP_KEYS[step]
     return (
       <YStack gap="$lg" padding="$lg" alignItems="center">
+        <ProgressDots step={step} total={STEP_KEYS.length} />
         <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
-          {current.title}
+          {t(`custody.onboarding.steps.${key}.title`)}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
-          {current.body}
+          {t(`custody.onboarding.steps.${key}.body`)}
         </Text>
         <XStack gap="$md">
           {step > 0 && (
             <Pressable onPress={() => setStep(step - 1)}>
               <YStack padding="$sm" borderRadius="$md" borderWidth={1} borderColor="$borderColor">
                 <Text fontFamily="$body" fontSize="$2" color="$color">
-                  Back
+                  {t('custody.onboarding.back')}
                 </Text>
               </YStack>
             </Pressable>
@@ -46,7 +62,7 @@ export function BoundOnboarding({ onComplete }: { onComplete: () => void }) {
           <Pressable onPress={() => setStep(step + 1)}>
             <YStack padding="$sm" borderRadius="$md" backgroundColor="$accent">
               <Text fontFamily="$body" fontSize="$2" color="white">
-                Continue
+                {t('custody.onboarding.continue')}
               </Text>
             </YStack>
           </Pressable>
@@ -61,16 +77,11 @@ export function BoundOnboarding({ onComplete }: { onComplete: () => void }) {
         <AuthorizationGuard onRequest={() => setAskedAuth(true)}>
           <YStack>
             <Text fontFamily="$body" fontSize="$2" color="$color">
-              Screen Time access already granted. You can proceed.
+              {t('custody.onboarding.alreadyGranted')}
             </Text>
-            <Pressable
-              onPress={async () => {
-                setAskedAuth(true)
-                onComplete()
-              }}
-            >
+            <Pressable onPress={() => setAskedAuth(true)}>
               <Text fontFamily="$body" fontSize="$2" color="$accent">
-                Continue
+                {t('custody.onboarding.continue')}
               </Text>
             </Pressable>
           </YStack>
@@ -79,6 +90,6 @@ export function BoundOnboarding({ onComplete }: { onComplete: () => void }) {
     )
   }
 
-  onComplete()
+  // `done` branch — onComplete fires from the useEffect above exactly once.
   return null
 }

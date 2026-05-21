@@ -1,8 +1,10 @@
 import { useRouter } from 'expo-router'
 import { useEffect, useRef, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { AppState, type AppStateStatus, Pressable } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
+import { confirm } from '@/components'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { successBuzz } from '@/lib/haptics'
 
@@ -19,6 +21,7 @@ function formatTime(seconds: number): string {
 export function CustodySessionRunner() {
   useKeepAwake()
   const router = useRouter()
+  const { t } = useTranslation()
   const kind = useSessionStore((s) => s.kind)
   const pause = useSessionStore((s) => s.pause)
   const resume = useSessionStore((s) => s.resume)
@@ -67,11 +70,11 @@ export function CustodySessionRunner() {
     return (
       <YStack alignItems="center" gap="$md" paddingVertical="$xl">
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          No session in progress.
+          {t('custody.runner.idle')}
         </Text>
         <Pressable onPress={() => router.back()}>
           <Text fontFamily="$body" fontSize="$2" color="$accent">
-            ‹ Back
+            {t('custody.runner.back')}
           </Text>
         </Pressable>
       </YStack>
@@ -82,10 +85,10 @@ export function CustodySessionRunner() {
     return (
       <YStack alignItems="center" gap="$md" paddingVertical="$xl">
         <Text fontFamily="$heading" fontSize="$5" color="$accent">
-          Deo gratias
+          {t('custody.runner.complete.title')}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-          Session complete.
+          {t('custody.runner.complete.body')}
         </Text>
         <Pressable
           onPress={() => {
@@ -94,7 +97,7 @@ export function CustodySessionRunner() {
           }}
         >
           <Text fontFamily="$body" fontSize="$2" color="$accent">
-            Continue
+            {t('custody.runner.complete.continue')}
           </Text>
         </Pressable>
       </YStack>
@@ -115,39 +118,54 @@ export function CustodySessionRunner() {
           {formatTime(remaining)}
         </Text>
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-          {formatTime(elapsed)} elapsed
+          {t('custody.runner.elapsed', { time: formatTime(elapsed) })}
         </Text>
       </YStack>
 
       <XStack gap="$md">
         {kind === 'running' ? (
-          <Pressable onPress={pause} accessibilityRole="button" accessibilityLabel="Pause">
+          <Pressable
+            onPress={pause}
+            accessibilityRole="button"
+            accessibilityLabel={t('custody.runner.controls.pause')}
+          >
             <YStack padding="$md" borderRadius="$md" borderWidth={1} borderColor="$borderColor">
               <Text fontFamily="$body" fontSize="$3" color="$color">
-                Pause
+                {t('custody.runner.controls.pause')}
               </Text>
             </YStack>
           </Pressable>
         ) : (
-          <Pressable onPress={resume} accessibilityRole="button" accessibilityLabel="Resume">
+          <Pressable
+            onPress={resume}
+            accessibilityRole="button"
+            accessibilityLabel={t('custody.runner.controls.resume')}
+          >
             <YStack padding="$md" borderRadius="$md" backgroundColor="$accent">
               <Text fontFamily="$body" fontSize="$3" color="white">
-                Resume
+                {t('custody.runner.controls.resume')}
               </Text>
             </YStack>
           </Pressable>
         )}
         <Pressable
           onPress={async () => {
+            const ok = await confirm({
+              title: t('custody.runner.stopConfirm.title'),
+              description: t('custody.runner.stopConfirm.body'),
+              confirmLabel: t('custody.runner.controls.stop'),
+              destructive: true,
+            })
+            if (!ok) return
             await abort()
             router.back()
           }}
           accessibilityRole="button"
-          accessibilityLabel="Stop"
+          accessibilityLabel={t('custody.runner.controls.stop')}
         >
           <YStack padding="$md" borderRadius="$md" borderWidth={1} borderColor="$borderColor">
             <Text fontFamily="$body" fontSize="$3" color="$color">
-              Stop
+              {t('custody.runner.controls.stop')}
             </Text>
           </YStack>
         </Pressable>

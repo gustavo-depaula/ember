@@ -1,10 +1,10 @@
 import { Stack } from 'expo-router'
 import { useTheme } from 'tamagui'
 
-// `new` and `[commitmentId]` are presented as iOS modals so the editor's
-// chevron-down close icon matches the actual gesture (pull-down to dismiss),
-// not a push/pop swipe-back. On Android `presentation: 'modal'` falls back
-// to a regular push.
+// `new` and `[commitmentId]` use fullScreenModal: slides up like an iOS
+// modal (matching the editor's chevron-down close icon) but covers the
+// entire screen — no top peek of the previous screen, and Link.AppleZoom's
+// morph transition lands cleanly without a gap.
 
 export default function CustodyLayout() {
   const theme = useTheme()
@@ -16,8 +16,8 @@ export default function CustodyLayout() {
       }}
     >
       <Stack.Screen name="index" />
-      <Stack.Screen name="new" options={{ presentation: 'modal' }} />
-      <Stack.Screen name="[commitmentId]" options={{ presentation: 'modal' }} />
+      <Stack.Screen name="new" options={{ presentation: 'fullScreenModal' }} />
+      <Stack.Screen name="[commitmentId]" options={{ presentation: 'fullScreenModal' }} />
       <Stack.Screen name="session" />
       <Stack.Screen name="shield-pray/[commitmentId]" />
       <Stack.Screen name="pray-to-disable/[commitmentId]" />

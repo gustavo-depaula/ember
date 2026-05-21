@@ -1,24 +1,17 @@
 import { isApplicableOn as isCommitmentActiveOn } from '@/features/plan-of-life/schedule'
 
+import { parseHHmm } from './time'
 import type { Commitment, Schedule, ScheduleContext } from './types'
 
 export { isCommitmentActiveOn }
-
-function parseFenceTime(value: string): { hours: number; minutes: number } | undefined {
-  const [h, m] = value.split(':')
-  const hours = Number.parseInt(h, 10)
-  const minutes = Number.parseInt(m, 10)
-  if (Number.isNaN(hours) || Number.isNaN(minutes)) return undefined
-  return { hours, minutes }
-}
 
 function fenceWindow(
   fenceStart: string,
   fenceEnd: string,
   reference: Date,
 ): { start: Date; end: Date } | undefined {
-  const start = parseFenceTime(fenceStart)
-  const end = parseFenceTime(fenceEnd)
+  const start = parseHHmm(fenceStart)
+  const end = parseHHmm(fenceEnd)
   if (!start || !end) return undefined
 
   const startDate = new Date(reference)

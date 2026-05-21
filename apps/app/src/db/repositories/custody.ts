@@ -54,14 +54,34 @@ function parseJson<T>(value: string | null): T | null {
   return JSON.parse(value) as T
 }
 
+function parseTargets(raw: string, id: string): Target[] {
+  const parsed = JSON.parse(raw)
+  if (!Array.isArray(parsed)) {
+    throw new Error(`Commitment ${id}: targets JSON is not an array (got ${typeof parsed})`)
+  }
+  return parsed
+}
+
+function parseSchedule(raw: string, id: string): Schedule {
+  const parsed = JSON.parse(raw)
+  if (
+    !parsed ||
+    typeof parsed !== 'object' ||
+    typeof (parsed as { type?: unknown }).type !== 'string'
+  ) {
+    throw new Error(`Commitment ${id}: schedule JSON missing/invalid .type`)
+  }
+  return parsed as Schedule
+}
+
 function commitmentFromRow(row: CommitmentRow): Commitment {
   return {
     id: row.id,
     name: row.name,
     description: row.description,
     kind: row.kind as Commitment['kind'],
-    targets: JSON.parse(row.targets) as Target[],
-    schedule: JSON.parse(row.schedule) as Schedule,
+    targets: parseTargets(row.targets, row.id),
+    schedule: parseSchedule(row.schedule, row.id),
     friction: row.friction as Commitment['friction'],
     friction_config: parseJson<FrictionConfig>(row.friction_config),
     fence_start: row.fence_start,

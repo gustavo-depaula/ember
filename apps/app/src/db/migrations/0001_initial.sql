@@ -131,7 +131,7 @@ CREATE INDEX IF NOT EXISTS commitments_active ON commitments(archived) WHERE arc
 CREATE TABLE IF NOT EXISTS commitment_events (
   id            TEXT PRIMARY KEY,
   commitment_id TEXT NOT NULL REFERENCES commitments(id) ON DELETE CASCADE,
-  type          TEXT NOT NULL CHECK (type IN ('kept', 'fell', 'paused', 'overrode', 'confessed')),
+  type          TEXT NOT NULL CHECK (type IN ('kept', 'paused', 'overrode')),
   occurred_at   INTEGER NOT NULL,
   note          TEXT,
   metadata      TEXT                                                   -- JSON

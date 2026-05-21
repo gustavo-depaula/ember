@@ -1,10 +1,11 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
+import type { TFunction } from 'i18next'
 import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
 import { useEffect, useMemo, useState } from 'react'
+import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, TextInput } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
-
 import { BottomSheet } from '@/components'
 import { randomId } from '@/lib/id'
 
@@ -12,6 +13,7 @@ import { useCommitment, useCreateCommitment, useUpdateCommitment } from '../hook
 import { getCustodyNative } from '../native'
 import { scheduleNudgesForCommitment } from '../notifications'
 import { COMMITMENT_TEMPLATES } from '../templates'
+import { isValidHHmm } from '../time'
 import type {
   CommitmentInput,
   CommitmentKind,
@@ -20,28 +22,28 @@ import type {
   Schedule,
   Target,
 } from '../types'
+import { selectedDays, WEEK_LABELS, WEEK_ORDER } from '../weekDays'
 
+// Hardcoded dark ink for text on the gold accent button. Goes through both
+// themes — gold is gold in both, dark ink reads in both. A $background-style
+// token would invert under light theme and break contrast.
+const ACCENT_INK = '#0E0D0C'
+
+import { DailyLimit } from './DailyLimit'
+import { DayPicker } from './DayPicker'
 import { FrictionPicker } from './FrictionPicker'
 import { TargetPicker } from './TargetPicker'
+import { TimeRange } from './TimeRange'
 
 type Mode = { kind: 'new' } | { kind: 'edit'; commitmentId: string }
 
-// Days are JS-style: 0=Sun, 1=Mon … 6=Sat. UI orders them Mon-first per Opal /
-// most calendar apps; the schedule struct holds them in JS-native order.
-const ALL_DAYS = [0, 1, 2, 3, 4, 5, 6]
+const KIND_OPTIONS: CommitmentKind[] = ['abstain', 'time-fence', 'time-limit']
 const DEFAULT_SCHEDULE: Schedule = { type: 'daily' }
-const KIND_CHIPS: { kind: CommitmentKind; label: string }[] = [
-  { kind: 'abstain', label: 'Always' },
-  { kind: 'time-fence', label: 'Hours' },
-  { kind: 'time-limit', label: 'Daily limit' },
-]
-const FRICTION_LABELS: Record<Friction, string> = {
-  none: 'Instant disable',
-  wait: 'Wait to disable',
-  prayer: 'Pray to disable',
-}
-const WEEK_LABELS = ['M', 'T', 'W', 'T', 'F', 'S', 'S']
-const WEEK_ORDER = [1, 2, 3, 4, 5, 6, 0] // Mon-first
+const DEFAULT_TINT = '#6E5C32' // ember gold subtle — bypasses tokens; tint comes from templates
+// Cap on the daily-limit minutes the editor will accept. 12h is more than
+// enough for any sane commitment and rejects "9999 min" typos that would
+// otherwise produce a no-op limit.
+const MAX_LIMIT_MINUTES = 720
 
 type EditorState = {
   name: string
@@ -57,11 +59,9 @@ type EditorState = {
   limitMinutes: string
 }
 
-const DEFAULT_TINT = '#6E5C32' // ember gold subtle
-
 function emptyState(): EditorState {
   return {
-    name: 'Focus',
+    name: '',
     emoji: '🛡️',
     tint: DEFAULT_TINT,
     kind: 'abstain',
@@ -97,6 +97,9 @@ function fromTemplate(templateId: string): EditorState {
 function toInput(state: EditorState): CommitmentInput | undefined {
   if (!state.name.trim()) return undefined
   if (state.targets.length === 0) return undefined
+  // Zero-day days-of-week schedule = never active. Reject so Save disables and
+  // the editor can surface a 'pick a day' hint.
+  if (selectedDays(state.schedule).length === 0) return undefined
   const input: CommitmentInput = {
     name: state.name.trim(),
     kind: state.kind,
@@ -106,54 +109,53 @@ function toInput(state: EditorState): CommitmentInput | undefined {
     frictionConfig: state.frictionConfig ?? undefined,
   }
   if (state.kind === 'time-fence') {
+    // Both must be HH:mm; identical times yield a zero-width fence.
+    // (Overnight wrap is fine — handled in schedule.ts via setDate+1.)
+    if (!isValidHHmm(state.fenceStart) || !isValidHHmm(state.fenceEnd)) return undefined
+    if (state.fenceStart === state.fenceEnd) return undefined
     input.fenceStart = state.fenceStart
     input.fenceEnd = state.fenceEnd
   }
   if (state.kind === 'time-limit') {
     const minutes = Number.parseInt(state.limitMinutes, 10)
-    if (!Number.isNaN(minutes) && minutes > 0) input.limitSeconds = minutes * 60
+    if (Number.isNaN(minutes) || minutes <= 0 || minutes > MAX_LIMIT_MINUTES) return undefined
+    input.limitSeconds = minutes * 60
   }
   return input
 }
 
-function selectedDays(schedule: Schedule): number[] {
-  if (schedule.type === 'days-of-week') return schedule.days
-  return ALL_DAYS
-}
-
-function scheduleFromDays(days: number[], existing: Schedule): Schedule {
-  const seasons = existing.seasons
-  if (days.length === 0 || days.length === 7) {
-    return seasons ? { type: 'daily', seasons } : { type: 'daily' }
-  }
-  return seasons ? { type: 'days-of-week', days, seasons } : { type: 'days-of-week', days }
-}
-
-function summarizeTargets(targets: Target[]): string {
-  if (targets.length === 0) return 'None'
-  const apps = targets.filter((t) => t.kind === 'ios-app' || t.kind === 'ios-category').length
-  const domains = targets.filter((t) => t.kind === 'domain').length
-  const lists = targets.filter((t) => t.kind === 'domain-list').length
+function summarizeTargets(t: TFunction, targets: Target[]): string {
+  if (targets.length === 0) return t('custody.editor.summary.targetsNone')
+  const apps = targets.filter((tg) => tg.kind === 'ios-app' || tg.kind === 'ios-category').length
+  const domains = targets.filter((tg) => tg.kind === 'domain').length
+  const lists = targets.filter((tg) => tg.kind === 'domain-list').length
   const parts: string[] = []
-  if (apps > 0) parts.push(`${apps} app${apps === 1 ? '' : 's'}`)
-  if (domains > 0) parts.push(`${domains} domain${domains === 1 ? '' : 's'}`)
-  if (lists > 0) parts.push(`${lists} list${lists === 1 ? '' : 's'}`)
+  if (apps > 0) parts.push(t('custody.editor.targets.apps', { count: apps }))
+  if (domains > 0) parts.push(t('custody.editor.targets.domains', { count: domains }))
+  if (lists > 0) parts.push(t('custody.editor.targets.lists', { count: lists }))
   return parts.join(' · ')
 }
 
-function summarizeKind(state: EditorState): string {
-  if (state.kind === 'time-fence') return `${state.fenceStart}–${state.fenceEnd}`
-  if (state.kind === 'time-limit') return `Max ${state.limitMinutes} min / day`
-  return 'Always'
+function summarizeKind(t: TFunction, state: EditorState): string {
+  if (state.kind === 'time-fence') {
+    return t('custody.editor.summary.fence', { start: state.fenceStart, end: state.fenceEnd })
+  }
+  if (state.kind === 'time-limit') {
+    return t('custody.editor.summary.limit', { count: state.limitMinutes })
+  }
+  return t('custody.editor.summary.kindAlways')
 }
 
-function summarizeDays(schedule: Schedule): string {
+function summarizeDays(t: TFunction, schedule: Schedule): string {
   const days = selectedDays(schedule)
-  if (days.length === 7) return 'Daily'
-  if (days.length === 0) return 'No days'
-  // Weekdays = Mon–Fri ≡ 1..5
-  if (days.length === 5 && [1, 2, 3, 4, 5].every((d) => days.includes(d))) return 'Weekdays'
-  if (days.length === 2 && [0, 6].every((d) => days.includes(d))) return 'Weekends'
+  if (days.length === 7) return t('custody.editor.summary.daysDaily')
+  if (days.length === 0) return t('custody.editor.summary.daysNone')
+  if (days.length === 5 && [1, 2, 3, 4, 5].every((d) => days.includes(d))) {
+    return t('custody.editor.summary.daysWeekdays')
+  }
+  if (days.length === 2 && [0, 6].every((d) => days.includes(d))) {
+    return t('custody.editor.summary.daysWeekends')
+  }
   return days
     .slice()
     .sort()
@@ -161,16 +163,17 @@ function summarizeDays(schedule: Schedule): string {
     .join(' ')
 }
 
-function overlineFor(state: EditorState): string {
-  const k =
-    state.kind === 'time-fence' ? 'HOURS' : state.kind === 'time-limit' ? 'LIMIT' : 'ABSTAIN'
-  return `${k} · ${summarizeDays(state.schedule).toUpperCase()}`
+function overlineFor(t: TFunction, state: EditorState): string {
+  const kindLabel = t(`custody.editor.overline.${state.kind}`)
+  const daysLabel = summarizeDays(t, state.schedule).toUpperCase()
+  return `${kindLabel} · ${daysLabel}`
 }
 
 export function CommitmentEditor({ mode }: { mode: Mode }) {
   const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const { t } = useTranslation()
   const { template: templateParam } = useLocalSearchParams<{ template?: string }>()
 
   const editingId = mode.kind === 'edit' ? mode.commitmentId : undefined
@@ -189,7 +192,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
     if (mode.kind === 'edit' && existing) {
       // Look up tint via the template the user originally picked (if any
       // — we don't store it). Falls back to the gold subtle.
-      const tpl = COMMITMENT_TEMPLATES.find((t) => t.name === existing.name)
+      const tpl = COMMITMENT_TEMPLATES.find((tp) => tp.name === existing.name)
       setState({
         name: existing.name,
         emoji: tpl?.emoji ?? '🛡️',
@@ -228,54 +231,34 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   }
 
   const saveLabel =
-    mode.kind === 'edit' ? 'Save changes' : templateParam ? 'Begin custody' : 'Create'
+    mode.kind === 'edit'
+      ? t('custody.editor.save.edit')
+      : templateParam
+        ? t('custody.editor.save.template')
+        : t('custody.editor.save.create')
 
   return (
     <YStack flex={1} backgroundColor="$background">
-      {/* Soft radial wash of the template tint, bleeding from the top.
-          Two overlapping discs give a smoother falloff than one. */}
-      <View
-        position="absolute"
-        top={-220}
-        left={-80}
-        right={-80}
-        height={480}
-        borderRadius={9999}
-        backgroundColor={state.tint}
-        opacity={0.18}
-        pointerEvents="none"
-      />
-      <View
-        position="absolute"
-        top={-120}
-        left={40}
-        right={40}
-        height={320}
-        borderRadius={9999}
-        backgroundColor={state.tint}
-        opacity={0.14}
-        pointerEvents="none"
-      />
-
-      {/* Close (chevron-down) — top-left, translucent disc. */}
+      {/* Close (chevron-down) — top-left, translucent disc. Stays fixed
+          while the rest of the editor scrolls. 44×44 to clear HIG. */}
       <View position="absolute" top={insets.top + 8} left={16} zIndex={20}>
         <Pressable
           onPress={() => router.back()}
           accessibilityRole="button"
-          accessibilityLabel="Close"
-          hitSlop={12}
+          accessibilityLabel={t('custody.editor.a11y.close')}
+          hitSlop={8}
         >
           <View
-            width={36}
-            height={36}
-            borderRadius={18}
+            width={44}
+            height={44}
+            borderRadius={22}
             backgroundColor="rgba(255,255,255,0.06)"
             borderWidth={1}
             borderColor="rgba(255,255,255,0.10)"
             alignItems="center"
             justifyContent="center"
           >
-            <ChevronDown size={18} color={theme.color.val} />
+            <ChevronDown size={20} color={theme.color.val} />
           </View>
         </Pressable>
       </View>
@@ -283,13 +266,45 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
       <ScrollView
         contentContainerStyle={{
           paddingHorizontal: 20,
-          paddingTop: insets.top + 56,
           paddingBottom: 120,
         }}
         keyboardShouldPersistTaps="handled"
       >
-        {/* Hero — emoji disc, overline, name input */}
-        <YStack alignItems="center" gap="$md" paddingBottom="$xl">
+        {/* Hero — emoji disc, overline, name input.
+            The radial template-tint wash lives INSIDE this region so it
+            scrolls away with the hero. Two overlapping discs give a soft
+            falloff. Negative left/right let the glow bleed past the
+            ScrollView's `paddingHorizontal: 20`. */}
+        <YStack
+          alignItems="center"
+          gap="$md"
+          paddingTop={insets.top + 56}
+          paddingBottom="$xl"
+          position="relative"
+          overflow="visible"
+        >
+          <View
+            pointerEvents="none"
+            position="absolute"
+            top={-100}
+            left={-100}
+            right={-100}
+            height={480}
+            borderRadius={9999}
+            backgroundColor={state.tint}
+            opacity={0.18}
+          />
+          <View
+            pointerEvents="none"
+            position="absolute"
+            top={0}
+            left={20}
+            right={20}
+            height={320}
+            borderRadius={9999}
+            backgroundColor={state.tint}
+            opacity={0.14}
+          />
           <View
             width={88}
             height={88}
@@ -309,13 +324,13 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
             letterSpacing={2}
             textAlign="center"
           >
-            {overlineFor(state)}
+            {overlineFor(t, state)}
           </Text>
           <YStack alignItems="center" gap={4} width="100%">
             <TextInput
               value={state.name}
               onChangeText={(name) => setState((s) => ({ ...s, name }))}
-              placeholder="Name this commitment"
+              placeholder={t('custody.editor.name.placeholder')}
               placeholderTextColor={theme.colorSecondary.val}
               selectTextOnFocus
               style={{
@@ -340,8 +355,8 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
           overflow="hidden"
         >
           <SettingRow
-            label="Apps & Sites"
-            value={summarizeTargets(state.targets)}
+            label={t('custody.editor.section.apps')}
+            value={summarizeTargets(t, state.targets)}
             highlight={state.targets.length === 0}
             onPress={() => setOpenSheet('targets')}
           />
@@ -349,8 +364,8 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
           <ScheduleBlock state={state} setState={setState} />
           <Divider />
           <SettingRow
-            label="Override"
-            value={FRICTION_LABELS[state.friction]}
+            label={t('custody.editor.section.override')}
+            value={t(`custody.editor.frictionChip.${state.friction}`)}
             onPress={() => setOpenSheet('override')}
           />
         </YStack>
@@ -373,7 +388,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
             <Text
               fontFamily="$heading"
               fontSize="$3"
-              color={canSave ? '#0E0D0C' : '$colorSecondary'}
+              color={canSave ? ACCENT_INK : '$colorSecondary'}
             >
               {saveLabel}
             </Text>
@@ -381,24 +396,24 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
         </Pressable>
       </YStack>
 
-      {/* Sheets — sub-pickers */}
-      <BottomSheet
-        visible={openSheet === 'targets'}
-        onClose={() => setOpenSheet(null)}
-        maxHeight="90%"
-      >
-        <SheetHeader title="Apps & Sites" onClose={() => setOpenSheet(null)} />
-        <ScrollView showsVerticalScrollIndicator={false}>
-          <TargetPicker
-            commitmentId={draftId}
-            targets={state.targets}
-            onChange={(targets) => setState((s) => ({ ...s, targets }))}
-          />
-        </ScrollView>
+      {/* Sheets — sub-pickers.
+          The targets sheet uses `expand` so the iOS FamilyActivityPicker has
+          the whole screen to breathe; the override sheet stays
+          content-hugging because it's short. */}
+      <BottomSheet visible={openSheet === 'targets'} onClose={() => setOpenSheet(null)} expand>
+        <SheetHeader title={t('custody.editor.sheet.targets')} onClose={() => setOpenSheet(null)} />
+        <TargetPicker
+          commitmentId={draftId}
+          targets={state.targets}
+          onChange={(targets) => setState((s) => ({ ...s, targets }))}
+        />
       </BottomSheet>
 
       <BottomSheet visible={openSheet === 'override'} onClose={() => setOpenSheet(null)}>
-        <SheetHeader title="When you try to disable" onClose={() => setOpenSheet(null)} />
+        <SheetHeader
+          title={t('custody.editor.sheet.override')}
+          onClose={() => setOpenSheet(null)}
+        />
         <FrictionPicker
           value={state.friction}
           config={state.frictionConfig}
@@ -413,6 +428,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
 
 function SheetHeader({ title, onClose }: { title: string; onClose: () => void }) {
   const theme = useTheme()
+  const { t } = useTranslation()
   return (
     <XStack alignItems="center" justifyContent="space-between" paddingBottom="$xs">
       <Text fontFamily="$heading" fontSize="$4" color="$color">
@@ -421,8 +437,8 @@ function SheetHeader({ title, onClose }: { title: string; onClose: () => void })
       <Pressable
         onPress={onClose}
         accessibilityRole="button"
-        accessibilityLabel="Close"
-        hitSlop={8}
+        accessibilityLabel={t('custody.editor.a11y.close')}
+        hitSlop={10}
       >
         <View
           width={28}
@@ -479,20 +495,21 @@ function ScheduleBlock({
   state: EditorState
   setState: React.Dispatch<React.SetStateAction<EditorState>>
 }) {
+  const { t } = useTranslation()
   return (
     <YStack paddingHorizontal="$md" paddingVertical="$md" gap="$md">
       <XStack alignItems="center" gap="$sm">
         <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
-          Schedule
+          {t('custody.editor.section.schedule')}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" numberOfLines={1}>
-          {summarizeKind(state)}
+          {summarizeKind(t, state)}
         </Text>
       </XStack>
 
       {/* Kind chips */}
       <XStack gap="$xs">
-        {KIND_CHIPS.map(({ kind, label }) => {
+        {KIND_OPTIONS.map((kind) => {
           const selected = kind === state.kind
           return (
             <Pressable
@@ -510,14 +527,26 @@ function ScheduleBlock({
                 backgroundColor={selected ? '$accent' : 'transparent'}
                 alignItems="center"
               >
-                <Text fontFamily="$body" fontSize="$2" color={selected ? '#0E0D0C' : '$color'}>
-                  {label}
+                <Text fontFamily="$body" fontSize="$2" color={selected ? ACCENT_INK : '$color'}>
+                  {t(`custody.editor.kindChip.${kind}`)}
                 </Text>
               </View>
             </Pressable>
           )
         })}
       </XStack>
+
+      {/* Help text for the currently selected kind — sourced from
+          custody.kinds.X.help (e.g. "I will not use this — full stop."). */}
+      <Text
+        fontFamily="$body"
+        fontSize="$1"
+        color="$colorSecondary"
+        textAlign="center"
+        fontStyle="italic"
+      >
+        {t(`custody.kinds.${state.kind}.help`)}
+      </Text>
 
       {state.kind === 'time-fence' && (
         <TimeRange
@@ -537,148 +566,6 @@ function ScheduleBlock({
         schedule={state.schedule}
         onChange={(schedule) => setState((s) => ({ ...s, schedule }))}
       />
-    </YStack>
-  )
-}
-
-function TimeRange({
-  start,
-  end,
-  onChange,
-}: {
-  start: string
-  end: string
-  onChange: (start: string, end: string) => void
-}) {
-  const theme = useTheme()
-  const pill = {
-    fontFamily: 'EBGaramond_500Medium',
-    fontSize: 22,
-    color: theme.color.val,
-    textAlign: 'center' as const,
-    minWidth: 96,
-    paddingVertical: 10,
-    backgroundColor: 'rgba(255,255,255,0.04)',
-    borderColor: 'rgba(255,255,255,0.08)',
-    borderWidth: 1,
-    borderRadius: 14,
-  }
-  return (
-    <XStack alignItems="center" gap="$sm" justifyContent="center">
-      <TextInput
-        value={start}
-        onChangeText={(v) => onChange(v, end)}
-        placeholder="21:00"
-        placeholderTextColor={theme.colorSecondary.val}
-        style={pill}
-      />
-      <View flex={1} height={1} backgroundColor="$accent" opacity={0.4} />
-      <View width={6} height={6} borderRadius={3} backgroundColor="$accent" opacity={0.6} />
-      <View flex={1} height={1} backgroundColor="$accent" opacity={0.4} />
-      <TextInput
-        value={end}
-        onChangeText={(v) => onChange(start, v)}
-        placeholder="07:00"
-        placeholderTextColor={theme.colorSecondary.val}
-        style={pill}
-      />
-    </XStack>
-  )
-}
-
-function DailyLimit({
-  minutes,
-  onChange,
-}: {
-  minutes: string
-  onChange: (minutes: string) => void
-}) {
-  const theme = useTheme()
-  return (
-    <XStack alignItems="center" gap="$sm" justifyContent="center">
-      <TextInput
-        value={minutes}
-        onChangeText={onChange}
-        keyboardType="number-pad"
-        style={{
-          fontFamily: 'EBGaramond_500Medium',
-          fontSize: 22,
-          color: theme.color.val,
-          textAlign: 'center',
-          minWidth: 80,
-          paddingVertical: 10,
-          backgroundColor: 'rgba(255,255,255,0.04)',
-          borderColor: 'rgba(255,255,255,0.08)',
-          borderWidth: 1,
-          borderRadius: 14,
-        }}
-      />
-      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-        minutes per day
-      </Text>
-    </XStack>
-  )
-}
-
-function DayPicker({
-  schedule,
-  onChange,
-}: {
-  schedule: Schedule
-  onChange: (next: Schedule) => void
-}) {
-  const days = selectedDays(schedule)
-  const toggle = (day: number) => {
-    const set = new Set(days)
-    if (set.has(day)) set.delete(day)
-    else set.add(day)
-    onChange(scheduleFromDays([...set].sort(), schedule))
-  }
-
-  return (
-    <YStack gap="$xs">
-      <Text
-        fontFamily="$body"
-        fontSize="$1"
-        color="$colorSecondary"
-        letterSpacing={1.5}
-        textTransform="uppercase"
-      >
-        On these days
-      </Text>
-      <XStack gap="$xs" justifyContent="space-between">
-        {WEEK_ORDER.map((day, idx) => {
-          const selected = days.includes(day)
-          return (
-            <Pressable
-              key={day}
-              onPress={() => toggle(day)}
-              accessibilityRole="button"
-              accessibilityLabel={`Toggle ${WEEK_LABELS[idx]}`}
-              accessibilityState={{ selected }}
-            >
-              <View
-                width={36}
-                height={36}
-                borderRadius={18}
-                backgroundColor={selected ? '$accent' : 'transparent'}
-                borderWidth={1}
-                borderColor={selected ? '$accent' : 'rgba(255,255,255,0.18)'}
-                alignItems="center"
-                justifyContent="center"
-              >
-                <Text
-                  fontFamily="$body"
-                  fontSize="$2"
-                  color={selected ? '#0E0D0C' : '$colorSecondary'}
-                >
-                  {WEEK_LABELS[idx]}
-                </Text>
-              </View>
-            </Pressable>
-          )
-        })}
-      </XStack>
     </YStack>
   )
 }

@@ -28,7 +28,10 @@ export type Anchor =
 export type FrictionConfig =
   | { kind: 'none' }
   | { kind: 'wait'; waitSeconds: number }
-  | { kind: 'prayer' }
+  // depth: 'shallow' = current one-tap acknowledgement; 'deep' = full prayer
+  // text + minimum dwell before the button enables. Missing depth on legacy
+  // rows is treated as 'shallow' at the call site.
+  | { kind: 'prayer'; depth?: 'shallow' | 'deep' }
 
 // `fenceStart` / `fenceEnd` are only meaningful when `kind === 'time-fence'`.
 // Times are 24h HH:mm strings (local time, like slot.time elsewhere in the codebase).

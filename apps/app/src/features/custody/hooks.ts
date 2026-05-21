@@ -51,7 +51,9 @@ export function useCommitments(opts: { includeArchived?: boolean } = {}) {
 
 export function useCommitment(id: string | undefined) {
   return useQuery({
-    queryKey: custodyKeys.commitment(id ?? ''),
+    // Distinct sentinel key when disabled so we don't collide with a real
+    // id of '' if one ever sneaks in.
+    queryKey: id ? custodyKeys.commitment(id) : ([...ROOT, 'commitment', '__disabled__'] as const),
     // TanStack Query rejects `undefined` query results. `getCommitment`
     // returns undefined when the row is gone (e.g. just deleted) — coerce
     // to `null` so the query settles cleanly during the delete-then-back
@@ -96,12 +98,32 @@ function useInvalidateRoot() {
   return useCallback(() => qc.invalidateQueries({ queryKey: custodyKeys.root }), [qc])
 }
 
+// Enforcement is best-effort — the DB write is already committed when these
+// run, so a native failure (auth revoked, RNDA crash, missing selection)
+// must not bubble out and mark the mutation as failed. We log and rely on
+// the foreground reconcile loop in _layout.tsx to retry on next launch.
+async function safeWire(commitment: Commitment): Promise<void> {
+  try {
+    await wireBoundEnforcement(commitment)
+  } catch (err) {
+    console.error('[custody/hooks] wireBoundEnforcement failed:', err)
+  }
+}
+
+async function safeUnwire(commitment: Commitment): Promise<void> {
+  try {
+    await unwireBoundEnforcement(commitment)
+  } catch (err) {
+    console.error('[custody/hooks] unwireBoundEnforcement failed:', err)
+  }
+}
+
 export function useCreateCommitment() {
   const invalidate = useInvalidateRoot()
   return useMutation({
     mutationFn: (input: CommitmentInput & { id?: string }) => createCommitment(input),
     onSuccess: async (commitment) => {
-      await wireBoundEnforcement(commitment)
+      await safeWire(commitment)
       invalidate()
     },
   })
@@ -115,8 +137,8 @@ export function useUpdateCommitment() {
     onSuccess: async (commitment) => {
       // Tear down first so a target change pulls the old shield cleanly,
       // then re-wire with the new state.
-      await unwireBoundEnforcement(commitment)
-      await wireBoundEnforcement(commitment)
+      await safeUnwire(commitment)
+      await safeWire(commitment)
       invalidate()
     },
   })
@@ -128,7 +150,7 @@ export function useArchiveCommitment() {
     mutationFn: async (id: string) => {
       const existing = await getCommitment(id)
       await archiveCommitment(id)
-      if (existing) await unwireBoundEnforcement(existing)
+      if (existing) await safeUnwire(existing)
     },
     onSuccess: invalidate,
   })
@@ -140,7 +162,7 @@ export function useUnarchiveCommitment() {
     mutationFn: async (id: string) => {
       await unarchiveCommitment(id)
       const c = await getCommitment(id)
-      if (c) await wireBoundEnforcement(c)
+      if (c) await safeWire(c)
     },
     onSuccess: invalidate,
   })
@@ -152,7 +174,7 @@ export function useDeleteCommitment() {
     mutationFn: async (id: string) => {
       const existing = await getCommitment(id)
       await deleteCommitment(id)
-      if (existing) await unwireBoundEnforcement(existing)
+      if (existing) await safeUnwire(existing)
     },
     onSuccess: invalidate,
   })

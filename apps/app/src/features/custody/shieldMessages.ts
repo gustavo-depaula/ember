@@ -105,7 +105,7 @@ function hash(input: string): number {
 }
 
 function dayOfYear(date: Date): number {
-  const start = new Date(date.getFullYear(), 0, 0)
+  const start = new Date(date.getFullYear(), 0, 1)
   const diff = date.getTime() - start.getTime()
   return Math.floor(diff / 86_400_000)
 }

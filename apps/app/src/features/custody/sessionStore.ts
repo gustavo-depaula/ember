@@ -49,6 +49,10 @@ function anchorRef(anchor: Anchor): string {
       return anchor.reference
     case 'silence':
       return 'silence'
+    default: {
+      const _exhaustive: never = anchor
+      throw new Error(`Unhandled anchor kind: ${JSON.stringify(_exhaustive)}`)
+    }
   }
 }
 
