@@ -391,14 +391,16 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
       <BottomSheet
         visible={openSheet === 'targets'}
         onClose={() => setOpenSheet(null)}
-        maxHeight="85%"
+        maxHeight="90%"
       >
         <SheetHeader title="Apps & Sites" onClose={() => setOpenSheet(null)} />
-        <TargetPicker
-          commitmentId={draftId}
-          targets={state.targets}
-          onChange={(targets) => setState((s) => ({ ...s, targets }))}
-        />
+        <ScrollView showsVerticalScrollIndicator={false}>
+          <TargetPicker
+            commitmentId={draftId}
+            targets={state.targets}
+            onChange={(targets) => setState((s) => ({ ...s, targets }))}
+          />
+        </ScrollView>
       </BottomSheet>
 
       <BottomSheet visible={openSheet === 'override'} onClose={() => setOpenSheet(null)}>

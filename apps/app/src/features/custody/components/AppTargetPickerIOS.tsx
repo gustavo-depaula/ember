@@ -68,11 +68,11 @@ export function AppTargetPickerIOS({
 
   return (
     <YStack gap="$xs">
-      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+      <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
         Apple keeps your selection private. Ember can't see which apps you pick.
       </Text>
       <DeviceActivitySelectionViewPersisted
-        style={{ height: 320, borderRadius: 12, overflow: 'hidden' }}
+        style={{ height: 480, borderRadius: 14, overflow: 'hidden' }}
         familyActivitySelectionId={selectionId}
         includeEntireCategory={true}
         onSelectionChange={(event) => {
