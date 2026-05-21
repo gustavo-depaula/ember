@@ -30,6 +30,15 @@ function loadRNDA(): RNDA | undefined {
 const COMMITMENTS_KEY = 'custody.commitments'
 const LOCKED_UNTIL_PREFIX = 'custody.lockedUntil.'
 
+// Keys the RNDA Shield Extension actually reads. `shieldConfiguration` is the
+// fallback used when no per-selection match is found; the prefixed keys are
+// per-FamilyActivitySelection overrides. We write both so blocked apps render
+// the prayer regardless of which lookup path the extension takes.
+const SHIELD_CONFIG_FALLBACK = 'shieldConfiguration'
+const SHIELD_ACTIONS_FALLBACK = 'shieldActions'
+const SHIELD_CONFIG_PER_SELECTION_PREFIX = 'shieldConfigurationForSelection_'
+const SHIELD_ACTIONS_PER_SELECTION_PREFIX = 'shieldActionsForSelection_'
+
 export function selectionIdFor(commitmentId: string): string {
   return `custody.selection.${commitmentId}`
 }
@@ -86,6 +95,27 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
     }
   }
 
+  // Write the shield config under every key the extension might read:
+  //   - `shieldConfiguration` / `shieldActions` (default fallback, used for
+  //     any blocked app/domain when no per-selection match is found)
+  //   - `shieldConfigurationForSelection_<id>` / `shieldActionsForSelection_<id>`
+  //     (per-FamilyActivitySelection override, used when the blocked token
+  //     belongs to a known selection in a monitored activity)
+  // updateShieldWithId() only writes the `shieldConfiguration_<id>` template,
+  // which RNDA's `blockSelection` action shield-button reads — that's not the
+  // same as what the extension reads upfront. So we also write the keys
+  // above explicitly via userDefaultsSet.
+  const writeShield = (snap: CommitmentSnapshot) => {
+    const { configuration, actions } = buildShieldPayload(snap)
+    const selectionId = selectionIdFor(snap.id)
+    rnda.userDefaultsSet(SHIELD_CONFIG_FALLBACK, configuration)
+    rnda.userDefaultsSet(SHIELD_ACTIONS_FALLBACK, actions)
+    rnda.userDefaultsSet(`${SHIELD_CONFIG_PER_SELECTION_PREFIX}${selectionId}`, configuration)
+    rnda.userDefaultsSet(`${SHIELD_ACTIONS_PER_SELECTION_PREFIX}${selectionId}`, actions)
+    // Preserve the templated form too — shield-button actions look it up.
+    rnda.updateShieldWithId(configuration, actions, selectionId)
+  }
+
   return {
     isSupported: () => {
       try {
@@ -116,19 +146,10 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
     syncSnapshots: async (snapshots: CommitmentSnapshot[]) =>
       safeCall(async () => {
         rnda.userDefaultsSet(COMMITMENTS_KEY, snapshots)
-        for (const snap of snapshots) {
-          const { configuration, actions } = buildShieldPayload(snap)
-          // The shield extension looks up shield config by activitySelectionId
-          // (passed as `shieldId` to blockSelection). Keep these aligned.
-          rnda.updateShieldWithId(configuration, actions, selectionIdFor(snap.id))
-        }
+        for (const snap of snapshots) writeShield(snap)
       }, undefined),
 
-    pushShieldConfig: async (snap) =>
-      safeCall(async () => {
-        const { configuration, actions } = buildShieldPayload(snap)
-        rnda.updateShieldWithId(configuration, actions, selectionIdFor(snap.id))
-      }, undefined),
+    pushShieldConfig: async (snap) => safeCall(async () => writeShield(snap), undefined),
 
     applyShield: async (commitmentId) =>
       safeCall(async () => {
@@ -182,7 +203,8 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
         async () => {
           const activities = rnda.getActivities()
           const activeCommitmentIds = activities
-            .map((name) => name.split('_')[0])
+            .filter((name) => name.startsWith('custody.selection.'))
+            .map((name) => name.slice('custody.selection.'.length))
             .filter((id, idx, arr) => arr.indexOf(id) === idx)
           const all = (rnda.userDefaultsAll() ?? {}) as Record<string, unknown>
           const lockedUntil: Record<string, number> = {}

@@ -180,10 +180,11 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   }, [mode.kind, existing])
 
   const input = toInput(state)
-  const canSave = !!input
+  const isSaving = create.isPending || update.isPending
+  const canSave = !!input && !isSaving
 
   const onSave = async () => {
-    if (!input) return
+    if (!input || isSaving) return
     const native = getCustodyNative()
     if (native.isSupported()) {
       const status = await native.getAuthorizationStatus()

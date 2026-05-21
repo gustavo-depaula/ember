@@ -3,9 +3,18 @@ import news from './blocklists/news.json'
 import porn from './blocklists/porn.json'
 import social from './blocklists/social.json'
 import { getCustodyNative } from './native'
+import { selectionIdFor } from './native/ios'
 import type { ScheduleSpec } from './native/types'
 import { snapshotFromCommitment } from './syncSnapshots'
 import type { Commitment, Target } from './types'
+
+// Activity name must contain the FamilyActivitySelectionId so RNDA's
+// per-selection shield-config lookup matches (it filters monitored activities
+// by `rawValue.contains(selectionId)`). Using `selectionIdFor(id)` directly
+// satisfies the filter and is unique per commitment.
+function activityNameFor(commitmentId: string): string {
+  return selectionIdFor(commitmentId)
+}
 
 // Maps a commitment's runtime intent — selection, web filter, schedule — onto
 // the actual `react-native-device-activity` calls that tell iOS to start
@@ -103,7 +112,7 @@ export async function wireBoundEnforcement(commitment: Commitment): Promise<void
   // automatically (and so eventDidReachThreshold fires for time-limit).
   const schedule = scheduleFor(commitment)
   if (schedule) {
-    await native.startMonitoring(commitment.id, schedule)
+    await native.startMonitoring(activityNameFor(commitment.id), schedule)
   }
 }
 
@@ -112,7 +121,7 @@ export async function unwireBoundEnforcement(commitment: Commitment): Promise<vo
   const native = getCustodyNative()
   if (!native.isSupported()) return
 
-  await native.stopMonitoring([commitment.id])
+  await native.stopMonitoring([activityNameFor(commitment.id)])
   await native.removeShield(commitment.id)
 
   // If the commitment had domains, clear them. Note: this clears the WHOLE
@@ -157,7 +166,7 @@ export async function reconcileAllEnforcement(commitments: Commitment[]): Promis
     }
     const schedule = scheduleFor(c)
     if (schedule) {
-      await native.startMonitoring(c.id, schedule)
+      await native.startMonitoring(activityNameFor(c.id), schedule)
     }
   }
 }
