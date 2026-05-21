@@ -1,12 +1,6 @@
 import { Platform, Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 
-import { localizeContent } from '@/lib/i18n'
-
-import gambling from '../blocklists/gambling.json'
-import news from '../blocklists/news.json'
-import porn from '../blocklists/porn.json'
-import social from '../blocklists/social.json'
 import type { Target } from '../types'
 
 import { AppTargetPickerIOS } from './AppTargetPickerIOS'
@@ -24,11 +18,14 @@ import { AppTargetPickerPlaceholder } from './AppTargetPickerPlaceholder'
 
 type CuratedKey = 'porn' | 'gambling' | 'social' | 'news'
 
-const CURATED: { key: CuratedKey; name: { 'en-US': string; 'pt-BR': string }; emoji: string }[] = [
-  { key: 'porn', name: porn.name, emoji: '🔞' },
-  { key: 'social', name: social.name, emoji: '💬' },
-  { key: 'news', name: news.name, emoji: '📰' },
-  { key: 'gambling', name: gambling.name, emoji: '🎰' },
+// Short, dignified chip labels. The JSON files have longer localized names
+// (e.g. "Pornographic websites") that read clinically and wrap awkwardly in
+// a chip row. These are tighter and meant for the quick-shortcut surface.
+const CURATED: { key: CuratedKey; label: string; emoji: string }[] = [
+  { key: 'porn', label: 'Adult', emoji: '🔞' },
+  { key: 'social', label: 'Social', emoji: '💬' },
+  { key: 'news', label: 'News', emoji: '📰' },
+  { key: 'gambling', label: 'Gambling', emoji: '🎰' },
 ]
 
 export function TargetPicker({
@@ -77,7 +74,7 @@ export function TargetPicker({
         <View flex={1} height={1} backgroundColor="$borderColor" opacity={0.4} />
       </XStack>
 
-      <XStack gap="$xs" flexWrap="wrap">
+      <XStack gap="$xs" flexWrap="wrap" justifyContent="center">
         {CURATED.map((list) => {
           const selected = selectedCurated.has(list.key)
           return (
@@ -89,17 +86,17 @@ export function TargetPicker({
             >
               <XStack
                 alignItems="center"
-                gap="$xs"
-                paddingHorizontal="$md"
-                paddingVertical="$xs"
+                gap={6}
+                paddingHorizontal={14}
+                paddingVertical={8}
                 borderRadius={999}
                 borderWidth={1}
-                borderColor={selected ? '$accent' : '$borderColor'}
+                borderColor={selected ? '$accent' : 'rgba(255,255,255,0.12)'}
                 backgroundColor={selected ? '$accent' : 'transparent'}
               >
                 <Text fontSize={14}>{list.emoji}</Text>
                 <Text fontFamily="$body" fontSize="$2" color={selected ? '#0E0D0C' : '$color'}>
-                  {localizeContent(list.name)}
+                  {list.label}
                 </Text>
               </XStack>
             </Pressable>
@@ -108,8 +105,7 @@ export function TargetPicker({
       </XStack>
 
       <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
-        Web shortcuts block sites in Safari only — no prayer shield. For full coverage with the
-        shield, pick categories or apps above.
+        Shortcuts block sites in Safari only — no prayer shield.
       </Text>
     </YStack>
   )

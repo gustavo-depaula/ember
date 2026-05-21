@@ -95,14 +95,25 @@ export function BottomSheet({ visible, onClose, animation = 'slide', maxHeight, 
           <Animated.View style={sheetStyle}>
             <YStack
               backgroundColor="$background"
-              borderTopLeftRadius="$lg"
-              borderTopRightRadius="$lg"
-              paddingTop="$lg"
+              borderTopLeftRadius={20}
+              borderTopRightRadius={20}
+              paddingTop="$xs"
               paddingHorizontal="$lg"
               paddingBottom={insets.bottom + 16}
               gap="$md"
               {...(maxHeight !== undefined ? { maxHeight } : {})}
             >
+              {/* iOS-style drag handle — Apple convention for dismissible sheets. */}
+              <View
+                alignSelf="center"
+                width={36}
+                height={4}
+                borderRadius={2}
+                backgroundColor="$colorSecondary"
+                opacity={0.3}
+                marginTop="$xs"
+                marginBottom="$xs"
+              />
               {children}
             </YStack>
           </Animated.View>
