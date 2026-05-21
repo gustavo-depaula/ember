@@ -1,7 +1,6 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
 import { useEffect, useMemo, useState } from 'react'
-import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, TextInput } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
@@ -62,7 +61,7 @@ const DEFAULT_TINT = '#6E5C32' // ember gold subtle
 
 function emptyState(): EditorState {
   return {
-    name: 'New commitment',
+    name: 'Focus',
     emoji: '🛡️',
     tint: DEFAULT_TINT,
     kind: 'abstain',
@@ -169,7 +168,6 @@ function overlineFor(state: EditorState): string {
 }
 
 export function CommitmentEditor({ mode }: { mode: Mode }) {
-  const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
@@ -230,11 +228,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   }
 
   const saveLabel =
-    mode.kind === 'edit'
-      ? 'Save changes'
-      : templateParam
-        ? 'Begin custody'
-        : t('custody.commitments.create')
+    mode.kind === 'edit' ? 'Save changes' : templateParam ? 'Begin custody' : 'Create'
 
   return (
     <YStack flex={1} backgroundColor="$background">
