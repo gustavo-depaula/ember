@@ -7,13 +7,17 @@ import Animated, { FadeIn, FadeOut, LinearTransition } from 'react-native-reanim
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, ScreenLayout } from '@/components'
+import { flags } from '@/config/flags'
 import type { ConfessionState } from '@/db/events/state'
+import { listCommitments } from '@/db/repositories/custody'
 import {
   useConfessions,
   useLastConfession,
   useRecordConfession,
   useRemoveConfession,
 } from '@/features/confessio'
+import { FallsLog } from '@/features/custody/components/FallsLog'
+import { getCustodyNative } from '@/features/custody/native'
 import { useToday } from '@/hooks/useToday'
 import { successBuzz } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
@@ -45,7 +49,18 @@ export default function ConfessioScreen() {
   const onRecord = () => {
     if (recordedToday) return
     successBuzz()
-    record.mutate(todayKey)
+    record.mutate(todayKey, {
+      onSuccess: async () => {
+        if (!flags.custody) return
+        const active = await listCommitments({ includeArchived: false })
+        const native = getCustodyNative()
+        await Promise.all(
+          active
+            .filter((c) => c.friction === 'confession-only')
+            .map((c) => native.liftFrictionLock(c.id, 'confession')),
+        )
+      },
+    })
   }
 
   const onDelete = async (confession: ConfessionState) => {
@@ -141,6 +156,8 @@ export default function ConfessioScreen() {
             {t('confessio.actOfContrition')}
           </Text>
         </YStack>
+
+        {flags.custody && <FallsLog />}
 
         {confessions.length > 0 && (
           <YStack gap="$xs">

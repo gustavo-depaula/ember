@@ -1,0 +1,16 @@
+{
+  "key": "social",
+  "name": { "en-US": "Social media", "pt-BR": "Redes sociais" },
+  "domains": [
+    "instagram.com",
+    "facebook.com",
+    "twitter.com",
+    "x.com",
+    "tiktok.com",
+    "snapchat.com",
+    "reddit.com",
+    "pinterest.com",
+    "linkedin.com",
+    "threads.net"
+  ]
+}

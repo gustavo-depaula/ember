@@ -1,0 +1,16 @@
+{
+  "key": "gambling",
+  "name": { "en-US": "Gambling sites", "pt-BR": "Apostas" },
+  "domains": [
+    "bet365.com",
+    "draftkings.com",
+    "fanduel.com",
+    "pokerstars.com",
+    "888casino.com",
+    "betway.com",
+    "betfair.com",
+    "williamhill.com",
+    "stake.com",
+    "betano.com"
+  ]
+}

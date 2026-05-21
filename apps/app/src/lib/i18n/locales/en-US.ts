@@ -1479,4 +1479,77 @@ export default {
         '{{count}} items will be removed from offline storage. Streaming still works while online.',
     },
   },
+  custody: {
+    title: 'Custody',
+    tagline: 'What you refuse, kept under prayer.',
+    empty: {
+      heading: 'No commitments yet.',
+      cta: 'Add your first commitment',
+    },
+    commitments: {
+      create: 'New commitment',
+      edit: 'Edit commitment',
+    },
+    kinds: {
+      abstain: {
+        label: 'Abstain',
+        help: 'I will not use this — full stop.',
+      },
+      'time-limit': {
+        label: 'Daily limit',
+        help: 'I will use this for no more than a given amount each day.',
+      },
+      'time-fence': {
+        label: 'Time fence',
+        help: 'I will not use this between certain hours.',
+      },
+    },
+    severity: {
+      light: {
+        label: 'Light',
+        help: 'Logged at examen and confession prep. Not enforced.',
+      },
+      firm: {
+        label: 'Firm',
+        help: 'Logged with gentle reminders. Not enforced.',
+      },
+      bound: {
+        label: 'Bound',
+        help: 'Enforced by your phone.',
+        'coming-ios': 'Coming on iOS — for now this acts as Firm.',
+        'coming-android': 'Coming on Android in v2 — for now this acts as Firm.',
+      },
+    },
+    friction: {
+      none: { label: 'No friction' },
+      wait: { label: 'Wait before disabling' },
+      prayer: { label: 'Pray before disabling' },
+      'confession-only': { label: 'Only after confession' },
+    },
+    shield: {
+      cta: {
+        pray: 'Pray and continue blocking',
+        disable: 'Disable temporarily',
+      },
+    },
+    session: {
+      start: 'Begin custody',
+      duration: {
+        '5': '5 minutes',
+        '10': '10 minutes',
+        '20': '20 minutes',
+        '40': '40 minutes',
+        '60': '60 minutes',
+      },
+    },
+    anchor: {
+      kinds: {
+        text: 'Verse or saying',
+        prayer: 'Prayer',
+        lectio: 'Lectio passage',
+        image: 'Sacred image',
+        silence: 'Silence',
+      },
+    },
+  },
 } as const

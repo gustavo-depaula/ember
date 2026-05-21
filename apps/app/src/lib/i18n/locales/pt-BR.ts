@@ -1486,4 +1486,77 @@ export default {
         '{{count}} itens serão removidos do armazenamento offline. Streaming continua funcionando com internet.',
     },
   },
+  custody: {
+    title: 'Custódia',
+    tagline: 'O que você recusa, guardado em oração.',
+    empty: {
+      heading: 'Nenhum propósito ainda.',
+      cta: 'Adicionar primeiro propósito',
+    },
+    commitments: {
+      create: 'Novo propósito',
+      edit: 'Editar propósito',
+    },
+    kinds: {
+      abstain: {
+        label: 'Abster-se',
+        help: 'Não usarei isto — sem exceções.',
+      },
+      'time-limit': {
+        label: 'Limite diário',
+        help: 'Usarei isto por no máximo um certo tempo a cada dia.',
+      },
+      'time-fence': {
+        label: 'Horário restrito',
+        help: 'Não usarei isto entre certas horas.',
+      },
+    },
+    severity: {
+      light: {
+        label: 'Leve',
+        help: 'Registrado no exame de consciência e na preparação da confissão. Sem bloqueio.',
+      },
+      firm: {
+        label: 'Firme',
+        help: 'Registrado, com lembretes suaves. Sem bloqueio.',
+      },
+      bound: {
+        label: 'Vinculado',
+        help: 'Aplicado pelo seu aparelho.',
+        'coming-ios': 'Em breve no iOS — por ora age como Firme.',
+        'coming-android': 'Em breve no Android (v2) — por ora age como Firme.',
+      },
+    },
+    friction: {
+      none: { label: 'Sem resistência' },
+      wait: { label: 'Esperar antes de desativar' },
+      prayer: { label: 'Rezar antes de desativar' },
+      'confession-only': { label: 'Somente após a confissão' },
+    },
+    shield: {
+      cta: {
+        pray: 'Rezar e seguir bloqueando',
+        disable: 'Desativar temporariamente',
+      },
+    },
+    session: {
+      start: 'Iniciar custódia',
+      duration: {
+        '5': '5 minutos',
+        '10': '10 minutos',
+        '20': '20 minutos',
+        '40': '40 minutos',
+        '60': '60 minutos',
+      },
+    },
+    anchor: {
+      kinds: {
+        text: 'Versículo ou frase',
+        prayer: 'Oração',
+        lectio: 'Lectio',
+        image: 'Imagem sagrada',
+        silence: 'Silêncio',
+      },
+    },
+  },
 } as const
