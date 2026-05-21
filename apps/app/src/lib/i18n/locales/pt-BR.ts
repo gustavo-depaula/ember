@@ -1511,6 +1511,12 @@ export default {
         help: 'Não usarei isto entre certas horas.',
       },
     },
+    targets: {
+      domain: 'Domínios',
+      lists: 'Listas prontas',
+      apps: 'Apps',
+      curatedHelp: 'Toque numa lista para incluir seus domínios.',
+    },
     severity: {
       light: {
         label: 'Leve',

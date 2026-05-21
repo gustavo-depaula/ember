@@ -1504,6 +1504,12 @@ export default {
         help: 'I will not use this between certain hours.',
       },
     },
+    targets: {
+      domain: 'Domains',
+      lists: 'Curated lists',
+      apps: 'Apps',
+      curatedHelp: 'Tap a list to include its domains.',
+    },
     severity: {
       light: {
         label: 'Light',
