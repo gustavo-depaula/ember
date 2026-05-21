@@ -1,11 +1,12 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronDown, ChevronRight } from 'lucide-react-native'
+import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, TextInput } from 'react-native'
+import { Pressable, ScrollView, TextInput } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
+import { BottomSheet } from '@/components'
 import { randomId } from '@/lib/id'
 
 import { useCommitment, useCreateCommitment, useUpdateCommitment } from '../hooks'
@@ -26,21 +27,27 @@ import { TargetPicker } from './TargetPicker'
 
 type Mode = { kind: 'new' } | { kind: 'edit'; commitmentId: string }
 
+// Days are JS-style: 0=Sun, 1=Mon … 6=Sat. UI orders them Mon-first per Opal /
+// most calendar apps; the schedule struct holds them in JS-native order.
+const ALL_DAYS = [0, 1, 2, 3, 4, 5, 6]
 const DEFAULT_SCHEDULE: Schedule = { type: 'daily' }
-const KIND_LABELS: Record<CommitmentKind, string> = {
-  abstain: 'Always blocked',
-  'time-fence': 'Blocked between hours',
-  'time-limit': 'Daily limit',
-}
+const KIND_CHIPS: { kind: CommitmentKind; label: string }[] = [
+  { kind: 'abstain', label: 'Always' },
+  { kind: 'time-fence', label: 'Hours' },
+  { kind: 'time-limit', label: 'Daily limit' },
+]
 const FRICTION_LABELS: Record<Friction, string> = {
   none: 'Instant disable',
-  wait: 'Wait before disabling',
-  prayer: 'Pray before disabling',
+  wait: 'Wait to disable',
+  prayer: 'Pray to disable',
 }
+const WEEK_LABELS = ['M', 'T', 'W', 'T', 'F', 'S', 'S']
+const WEEK_ORDER = [1, 2, 3, 4, 5, 6, 0] // Mon-first
 
 type EditorState = {
   name: string
   emoji: string
+  tint: string
   kind: CommitmentKind
   targets: Target[]
   schedule: Schedule
@@ -51,10 +58,13 @@ type EditorState = {
   limitMinutes: string
 }
 
+const DEFAULT_TINT = '#6E5C32' // ember gold subtle
+
 function emptyState(): EditorState {
   return {
-    name: '',
+    name: 'New commitment',
     emoji: '🛡️',
+    tint: DEFAULT_TINT,
     kind: 'abstain',
     targets: [],
     schedule: DEFAULT_SCHEDULE,
@@ -73,6 +83,7 @@ function fromTemplate(templateId: string): EditorState {
   return {
     name: input.name,
     emoji: tpl.emoji,
+    tint: tpl.tint,
     kind: input.kind,
     targets: input.targets,
     schedule: input.schedule,
@@ -106,6 +117,19 @@ function toInput(state: EditorState): CommitmentInput | undefined {
   return input
 }
 
+function selectedDays(schedule: Schedule): number[] {
+  if (schedule.type === 'days-of-week') return schedule.days
+  return ALL_DAYS
+}
+
+function scheduleFromDays(days: number[], existing: Schedule): Schedule {
+  const seasons = existing.seasons
+  if (days.length === 0 || days.length === 7) {
+    return seasons ? { type: 'daily', seasons } : { type: 'daily' }
+  }
+  return seasons ? { type: 'days-of-week', days, seasons } : { type: 'days-of-week', days }
+}
+
 function summarizeTargets(targets: Target[]): string {
   if (targets.length === 0) return 'None'
   const apps = targets.filter((t) => t.kind === 'ios-app' || t.kind === 'ios-category').length
@@ -118,13 +142,31 @@ function summarizeTargets(targets: Target[]): string {
   return parts.join(' · ')
 }
 
-function summarizeSchedule(state: EditorState): string {
-  if (state.kind === 'time-fence') return `${state.fenceStart} – ${state.fenceEnd}, daily`
+function summarizeKind(state: EditorState): string {
+  if (state.kind === 'time-fence') return `${state.fenceStart}–${state.fenceEnd}`
   if (state.kind === 'time-limit') return `Max ${state.limitMinutes} min / day`
   return 'Always'
 }
 
-type SectionKey = 'targets' | 'schedule' | 'override' | null
+function summarizeDays(schedule: Schedule): string {
+  const days = selectedDays(schedule)
+  if (days.length === 7) return 'Daily'
+  if (days.length === 0) return 'No days'
+  // Weekdays = Mon–Fri ≡ 1..5
+  if (days.length === 5 && [1, 2, 3, 4, 5].every((d) => days.includes(d))) return 'Weekdays'
+  if (days.length === 2 && [0, 6].every((d) => days.includes(d))) return 'Weekends'
+  return days
+    .slice()
+    .sort()
+    .map((d) => WEEK_LABELS[WEEK_ORDER.indexOf(d)])
+    .join(' ')
+}
+
+function overlineFor(state: EditorState): string {
+  const k =
+    state.kind === 'time-fence' ? 'HOURS' : state.kind === 'time-limit' ? 'LIMIT' : 'ABSTAIN'
+  return `${k} · ${summarizeDays(state.schedule).toUpperCase()}`
+}
 
 export function CommitmentEditor({ mode }: { mode: Mode }) {
   const { t } = useTranslation()
@@ -142,14 +184,18 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   const [state, setState] = useState<EditorState>(() =>
     mode.kind === 'new' && templateParam ? fromTemplate(templateParam) : emptyState(),
   )
-  const [open, setOpen] = useState<SectionKey>(null)
-  const toggle = (key: Exclude<SectionKey, null>) => setOpen((c) => (c === key ? null : key))
+  // Sheet routing — null = closed, otherwise the picker key.
+  const [openSheet, setOpenSheet] = useState<'targets' | 'override' | null>(null)
 
   useEffect(() => {
     if (mode.kind === 'edit' && existing) {
+      // Look up tint via the template the user originally picked (if any
+      // — we don't store it). Falls back to the gold subtle.
+      const tpl = COMMITMENT_TEMPLATES.find((t) => t.name === existing.name)
       setState({
         name: existing.name,
-        emoji: '🛡️',
+        emoji: tpl?.emoji ?? '🛡️',
+        tint: tpl?.tint ?? DEFAULT_TINT,
         kind: existing.kind,
         targets: existing.targets,
         schedule: existing.schedule,
@@ -183,100 +229,141 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
     router.back()
   }
 
-  const inputStyle = {
-    borderWidth: 1,
-    borderColor: theme.borderColor.val,
-    paddingHorizontal: 12,
-    paddingVertical: 8,
-    borderRadius: 8,
-    color: theme.color.val,
-  }
+  const saveLabel =
+    mode.kind === 'edit'
+      ? 'Save changes'
+      : templateParam
+        ? 'Begin custody'
+        : t('custody.commitments.create')
 
   return (
-    <YStack flex={1}>
-      <YStack flex={1} gap="$lg" paddingHorizontal="$lg" paddingTop="$lg">
-        {/* Identity */}
-        <YStack alignItems="center" gap="$md" paddingVertical="$md">
+    <YStack flex={1} backgroundColor="$background">
+      {/* Soft radial wash of the template tint, bleeding from the top.
+          Two overlapping discs give a smoother falloff than one. */}
+      <View
+        position="absolute"
+        top={-220}
+        left={-80}
+        right={-80}
+        height={480}
+        borderRadius={9999}
+        backgroundColor={state.tint}
+        opacity={0.18}
+        pointerEvents="none"
+      />
+      <View
+        position="absolute"
+        top={-120}
+        left={40}
+        right={40}
+        height={320}
+        borderRadius={9999}
+        backgroundColor={state.tint}
+        opacity={0.14}
+        pointerEvents="none"
+      />
+
+      {/* Close (chevron-down) — top-left, translucent disc. */}
+      <View position="absolute" top={insets.top + 8} left={16} zIndex={20}>
+        <Pressable
+          onPress={() => router.back()}
+          accessibilityRole="button"
+          accessibilityLabel="Close"
+          hitSlop={12}
+        >
           <View
-            width={72}
-            height={72}
-            borderRadius={36}
-            backgroundColor="$accentSubtle"
+            width={36}
+            height={36}
+            borderRadius={18}
+            backgroundColor="rgba(255,255,255,0.06)"
+            borderWidth={1}
+            borderColor="rgba(255,255,255,0.10)"
             alignItems="center"
             justifyContent="center"
           >
-            <Text fontSize={36}>{state.emoji}</Text>
+            <ChevronDown size={18} color={theme.color.val} />
           </View>
-          <TextInput
-            value={state.name}
-            onChangeText={(name) => setState((s) => ({ ...s, name }))}
-            placeholder="Name this block"
-            placeholderTextColor={theme.colorSecondary.val}
-            style={{
-              fontFamily: 'EBGaramond_500Medium',
-              fontSize: 22,
-              textAlign: 'center',
-              color: theme.color.val,
-              minWidth: 240,
-              paddingVertical: 4,
-            }}
-          />
+        </Pressable>
+      </View>
+
+      <ScrollView
+        contentContainerStyle={{
+          paddingHorizontal: 20,
+          paddingTop: insets.top + 56,
+          paddingBottom: 120,
+        }}
+        keyboardShouldPersistTaps="handled"
+      >
+        {/* Hero — emoji disc, overline, name input */}
+        <YStack alignItems="center" gap="$md" paddingBottom="$xl">
+          <View
+            width={88}
+            height={88}
+            borderRadius={44}
+            backgroundColor="rgba(255,255,255,0.04)"
+            borderWidth={1}
+            borderColor="rgba(255,255,255,0.10)"
+            alignItems="center"
+            justifyContent="center"
+          >
+            <Text fontSize={44}>{state.emoji}</Text>
+          </View>
+          <Text
+            fontFamily="$body"
+            fontSize="$1"
+            color="$colorSecondary"
+            letterSpacing={2}
+            textAlign="center"
+          >
+            {overlineFor(state)}
+          </Text>
+          <YStack alignItems="center" gap={4} width="100%">
+            <TextInput
+              value={state.name}
+              onChangeText={(name) => setState((s) => ({ ...s, name }))}
+              placeholder="Name this commitment"
+              placeholderTextColor={theme.colorSecondary.val}
+              selectTextOnFocus
+              style={{
+                fontFamily: 'EBGaramond_500Medium',
+                fontSize: 26,
+                textAlign: 'center',
+                color: theme.color.val,
+                minWidth: 240,
+                paddingVertical: 4,
+              }}
+            />
+            <View height={1} width={160} backgroundColor="$accent" opacity={0.5} />
+          </YStack>
         </YStack>
 
-        {/* Grouped list */}
-        <YStack gap={0} borderRadius="$lg" backgroundColor="$backgroundSurface" overflow="hidden">
-          <Section
+        {/* Settings card */}
+        <YStack
+          borderRadius="$lg"
+          backgroundColor="rgba(255,255,255,0.03)"
+          borderWidth={1}
+          borderColor="rgba(255,255,255,0.06)"
+          overflow="hidden"
+        >
+          <SettingRow
             label="Apps & Sites"
             value={summarizeTargets(state.targets)}
             highlight={state.targets.length === 0}
-            isOpen={open === 'targets'}
-            onToggle={() => toggle('targets')}
-          >
-            <TargetPicker
-              commitmentId={draftId}
-              targets={state.targets}
-              onChange={(targets) => setState((s) => ({ ...s, targets }))}
-            />
-          </Section>
+            onPress={() => setOpenSheet('targets')}
+          />
           <Divider />
-          <Section
-            label="Schedule"
-            value={summarizeSchedule(state)}
-            isOpen={open === 'schedule'}
-            onToggle={() => toggle('schedule')}
-          >
-            <ScheduleSection
-              state={state}
-              setState={setState}
-              inputStyle={inputStyle}
-              themeSecondary={theme.colorSecondary.val}
-            />
-          </Section>
+          <ScheduleBlock state={state} setState={setState} />
           <Divider />
-          <Section
+          <SettingRow
             label="Override"
             value={FRICTION_LABELS[state.friction]}
-            isOpen={open === 'override'}
-            onToggle={() => toggle('override')}
-          >
-            <FrictionPicker
-              value={state.friction}
-              config={state.frictionConfig}
-              onChange={(friction, frictionConfig) =>
-                setState((s) => ({ ...s, friction, frictionConfig }))
-              }
-            />
-          </Section>
+            onPress={() => setOpenSheet('override')}
+          />
         </YStack>
-      </YStack>
+      </ScrollView>
 
-      {/* Pinned Save */}
-      <YStack
-        paddingHorizontal="$lg"
-        paddingTop="$md"
-        paddingBottom={Math.max(insets.bottom, 16)}
-        backgroundColor="$background"
-      >
+      {/* Pinned Save button */}
+      <YStack paddingHorizontal="$lg" paddingTop="$md" paddingBottom={Math.max(insets.bottom, 16)}>
         <Pressable
           onPress={onSave}
           disabled={!canSave}
@@ -286,154 +373,320 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
           <View
             paddingVertical={16}
             borderRadius={28}
-            backgroundColor={canSave ? '$accent' : '$borderColor'}
+            backgroundColor={canSave ? '$accent' : 'rgba(255,255,255,0.08)'}
             alignItems="center"
           >
-            <Text fontFamily="$heading" fontSize="$3" color="white">
-              {mode.kind === 'new'
-                ? t('custody.commitments.create')
-                : t('custody.commitments.edit')}
+            <Text
+              fontFamily="$heading"
+              fontSize="$3"
+              color={canSave ? '#0E0D0C' : '$colorSecondary'}
+            >
+              {saveLabel}
             </Text>
           </View>
         </Pressable>
       </YStack>
+
+      {/* Sheets — sub-pickers */}
+      <BottomSheet
+        visible={openSheet === 'targets'}
+        onClose={() => setOpenSheet(null)}
+        maxHeight="85%"
+      >
+        <SheetHeader title="Apps & Sites" onClose={() => setOpenSheet(null)} />
+        <TargetPicker
+          commitmentId={draftId}
+          targets={state.targets}
+          onChange={(targets) => setState((s) => ({ ...s, targets }))}
+        />
+      </BottomSheet>
+
+      <BottomSheet visible={openSheet === 'override'} onClose={() => setOpenSheet(null)}>
+        <SheetHeader title="When you try to disable" onClose={() => setOpenSheet(null)} />
+        <FrictionPicker
+          value={state.friction}
+          config={state.frictionConfig}
+          onChange={(friction, frictionConfig) =>
+            setState((s) => ({ ...s, friction, frictionConfig }))
+          }
+        />
+      </BottomSheet>
     </YStack>
   )
 }
 
-function Section({
+function SheetHeader({ title, onClose }: { title: string; onClose: () => void }) {
+  const theme = useTheme()
+  return (
+    <XStack alignItems="center" justifyContent="space-between" paddingBottom="$xs">
+      <Text fontFamily="$heading" fontSize="$4" color="$color">
+        {title}
+      </Text>
+      <Pressable
+        onPress={onClose}
+        accessibilityRole="button"
+        accessibilityLabel="Close"
+        hitSlop={8}
+      >
+        <View
+          width={28}
+          height={28}
+          borderRadius={14}
+          backgroundColor="$backgroundSurface"
+          alignItems="center"
+          justifyContent="center"
+        >
+          <X size={14} color={theme.colorSecondary?.val} />
+        </View>
+      </Pressable>
+    </XStack>
+  )
+}
+
+function SettingRow({
   label,
   value,
-  isOpen,
-  onToggle,
   highlight,
-  children,
+  onPress,
 }: {
   label: string
   value: string
-  isOpen: boolean
-  onToggle: () => void
   highlight?: boolean
-  children: React.ReactNode
+  onPress: () => void
 }) {
   const theme = useTheme()
   return (
-    <YStack>
-      <Pressable onPress={onToggle} accessibilityRole="button" accessibilityLabel={label}>
-        <XStack alignItems="center" paddingHorizontal="$md" paddingVertical="$md" gap="$sm">
-          <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
-            {label}
-          </Text>
-          <Text
-            fontFamily="$body"
-            fontSize="$2"
-            color={highlight ? '$accent' : '$colorSecondary'}
-            numberOfLines={1}
-            maxWidth={180}
-          >
-            {value}
-          </Text>
-          {isOpen ? (
-            <ChevronDown size={16} color={theme.colorSecondary?.val} />
-          ) : (
-            <ChevronRight size={16} color={theme.colorSecondary?.val} />
-          )}
-        </XStack>
-      </Pressable>
-      {isOpen && (
-        <YStack padding="$md" paddingTop={0}>
-          {children}
-        </YStack>
-      )}
-    </YStack>
+    <Pressable onPress={onPress} accessibilityRole="button" accessibilityLabel={label}>
+      <XStack alignItems="center" paddingHorizontal="$md" paddingVertical="$md" gap="$sm">
+        <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
+          {label}
+        </Text>
+        <Text
+          fontFamily="$body"
+          fontSize="$2"
+          color={highlight ? '$accent' : '$colorSecondary'}
+          numberOfLines={1}
+          maxWidth={200}
+        >
+          {value}
+        </Text>
+        <ChevronRight size={16} color={theme.colorSecondary?.val} />
+      </XStack>
+    </Pressable>
   )
 }
 
-function ScheduleSection({
+function ScheduleBlock({
   state,
   setState,
-  inputStyle,
-  themeSecondary,
 }: {
   state: EditorState
   setState: React.Dispatch<React.SetStateAction<EditorState>>
-  inputStyle: object
-  themeSecondary: string
 }) {
-  const KINDS: CommitmentKind[] = ['abstain', 'time-fence', 'time-limit']
   return (
-    <YStack gap="$sm">
-      <XStack gap="$xs" flexWrap="wrap">
-        {KINDS.map((k) => {
-          const selected = k === state.kind
+    <YStack paddingHorizontal="$md" paddingVertical="$md" gap="$md">
+      <XStack alignItems="center" gap="$sm">
+        <Text fontFamily="$body" fontSize="$3" color="$color" flex={1}>
+          Schedule
+        </Text>
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" numberOfLines={1}>
+          {summarizeKind(state)}
+        </Text>
+      </XStack>
+
+      {/* Kind chips */}
+      <XStack gap="$xs">
+        {KIND_CHIPS.map(({ kind, label }) => {
+          const selected = kind === state.kind
           return (
             <Pressable
-              key={k}
-              onPress={() => setState((s) => ({ ...s, kind: k }))}
+              key={kind}
+              onPress={() => setState((s) => ({ ...s, kind }))}
               accessibilityRole="radio"
               accessibilityState={{ selected }}
+              style={{ flex: 1 }}
             >
-              <YStack
-                paddingHorizontal="$md"
-                paddingVertical="$xs"
+              <View
+                paddingVertical={8}
                 borderRadius={999}
                 borderWidth={1}
-                borderColor={selected ? '$accent' : '$borderColor'}
+                borderColor={selected ? '$accent' : 'rgba(255,255,255,0.10)'}
                 backgroundColor={selected ? '$accent' : 'transparent'}
+                alignItems="center"
               >
-                <Text fontFamily="$body" fontSize="$2" color={selected ? 'white' : '$color'}>
-                  {KIND_LABELS[k]}
+                <Text fontFamily="$body" fontSize="$2" color={selected ? '#0E0D0C' : '$color'}>
+                  {label}
                 </Text>
-              </YStack>
+              </View>
             </Pressable>
           )
         })}
       </XStack>
+
       {state.kind === 'time-fence' && (
-        <XStack gap="$md" alignItems="center">
-          <YStack gap="$xs" flex={1}>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              From
-            </Text>
-            <TextInput
-              value={state.fenceStart}
-              onChangeText={(fenceStart) => setState((s) => ({ ...s, fenceStart }))}
-              placeholder="21:00"
-              placeholderTextColor={themeSecondary}
-              style={inputStyle}
-            />
-          </YStack>
-          <YStack gap="$xs" flex={1}>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-              To
-            </Text>
-            <TextInput
-              value={state.fenceEnd}
-              onChangeText={(fenceEnd) => setState((s) => ({ ...s, fenceEnd }))}
-              placeholder="07:00"
-              placeholderTextColor={themeSecondary}
-              style={inputStyle}
-            />
-          </YStack>
-        </XStack>
+        <TimeRange
+          start={state.fenceStart}
+          end={state.fenceEnd}
+          onChange={(fenceStart, fenceEnd) => setState((s) => ({ ...s, fenceStart, fenceEnd }))}
+        />
       )}
       {state.kind === 'time-limit' && (
-        <XStack alignItems="center" gap="$xs">
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            Max minutes per day
-          </Text>
-          <TextInput
-            value={state.limitMinutes}
-            onChangeText={(limitMinutes) => setState((s) => ({ ...s, limitMinutes }))}
-            keyboardType="number-pad"
-            style={{ ...inputStyle, minWidth: 64 }}
-          />
-        </XStack>
+        <DailyLimit
+          minutes={state.limitMinutes}
+          onChange={(limitMinutes) => setState((s) => ({ ...s, limitMinutes }))}
+        />
       )}
+
+      <DayPicker
+        schedule={state.schedule}
+        onChange={(schedule) => setState((s) => ({ ...s, schedule }))}
+      />
+    </YStack>
+  )
+}
+
+function TimeRange({
+  start,
+  end,
+  onChange,
+}: {
+  start: string
+  end: string
+  onChange: (start: string, end: string) => void
+}) {
+  const theme = useTheme()
+  const pill = {
+    fontFamily: 'EBGaramond_500Medium',
+    fontSize: 22,
+    color: theme.color.val,
+    textAlign: 'center' as const,
+    minWidth: 96,
+    paddingVertical: 10,
+    backgroundColor: 'rgba(255,255,255,0.04)',
+    borderColor: 'rgba(255,255,255,0.08)',
+    borderWidth: 1,
+    borderRadius: 14,
+  }
+  return (
+    <XStack alignItems="center" gap="$sm" justifyContent="center">
+      <TextInput
+        value={start}
+        onChangeText={(v) => onChange(v, end)}
+        placeholder="21:00"
+        placeholderTextColor={theme.colorSecondary.val}
+        style={pill}
+      />
+      <View flex={1} height={1} backgroundColor="$accent" opacity={0.4} />
+      <View width={6} height={6} borderRadius={3} backgroundColor="$accent" opacity={0.6} />
+      <View flex={1} height={1} backgroundColor="$accent" opacity={0.4} />
+      <TextInput
+        value={end}
+        onChangeText={(v) => onChange(start, v)}
+        placeholder="07:00"
+        placeholderTextColor={theme.colorSecondary.val}
+        style={pill}
+      />
+    </XStack>
+  )
+}
+
+function DailyLimit({
+  minutes,
+  onChange,
+}: {
+  minutes: string
+  onChange: (minutes: string) => void
+}) {
+  const theme = useTheme()
+  return (
+    <XStack alignItems="center" gap="$sm" justifyContent="center">
+      <TextInput
+        value={minutes}
+        onChangeText={onChange}
+        keyboardType="number-pad"
+        style={{
+          fontFamily: 'EBGaramond_500Medium',
+          fontSize: 22,
+          color: theme.color.val,
+          textAlign: 'center',
+          minWidth: 80,
+          paddingVertical: 10,
+          backgroundColor: 'rgba(255,255,255,0.04)',
+          borderColor: 'rgba(255,255,255,0.08)',
+          borderWidth: 1,
+          borderRadius: 14,
+        }}
+      />
+      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+        minutes per day
+      </Text>
+    </XStack>
+  )
+}
+
+function DayPicker({
+  schedule,
+  onChange,
+}: {
+  schedule: Schedule
+  onChange: (next: Schedule) => void
+}) {
+  const days = selectedDays(schedule)
+  const toggle = (day: number) => {
+    const set = new Set(days)
+    if (set.has(day)) set.delete(day)
+    else set.add(day)
+    onChange(scheduleFromDays([...set].sort(), schedule))
+  }
+
+  return (
+    <YStack gap="$xs">
+      <Text
+        fontFamily="$body"
+        fontSize="$1"
+        color="$colorSecondary"
+        letterSpacing={1.5}
+        textTransform="uppercase"
+      >
+        On these days
+      </Text>
+      <XStack gap="$xs" justifyContent="space-between">
+        {WEEK_ORDER.map((day, idx) => {
+          const selected = days.includes(day)
+          return (
+            <Pressable
+              key={day}
+              onPress={() => toggle(day)}
+              accessibilityRole="button"
+              accessibilityLabel={`Toggle ${WEEK_LABELS[idx]}`}
+              accessibilityState={{ selected }}
+            >
+              <View
+                width={36}
+                height={36}
+                borderRadius={18}
+                backgroundColor={selected ? '$accent' : 'transparent'}
+                borderWidth={1}
+                borderColor={selected ? '$accent' : 'rgba(255,255,255,0.18)'}
+                alignItems="center"
+                justifyContent="center"
+              >
+                <Text
+                  fontFamily="$body"
+                  fontSize="$2"
+                  color={selected ? '#0E0D0C' : '$colorSecondary'}
+                >
+                  {WEEK_LABELS[idx]}
+                </Text>
+              </View>
+            </Pressable>
+          )
+        })}
+      </XStack>
     </YStack>
   )
 }
 
 function Divider() {
-  return <View height={1} backgroundColor="$borderColor" marginLeft="$md" />
+  return <View height={1} backgroundColor="rgba(255,255,255,0.06)" />
 }
