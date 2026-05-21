@@ -50,19 +50,32 @@ function mapAuthStatus(raw: unknown): 'notDetermined' | 'denied' | 'approved' | 
   return 'unsupported'
 }
 
+// Ember dark-theme palette, expressed in 0–255 because RNDA divides every
+// channel by 255 in `getColor` before constructing the UIColor.
+const SHIELD_BG = { red: 14, green: 13, blue: 12, alpha: 1 } // #0E0D0C — cathedral void
+const SHIELD_BG_BLUR = 3 // UIBlurEffect.Style.systemThinMaterialDark
+const TITLE = { red: 237, green: 228, blue: 216, alpha: 1 } // #EDE4D8 — bone white
+const SUBTITLE = { red: 168, green: 154, blue: 140, alpha: 1 } // #A89A8C — sandstone
+const ACCENT = { red: 212, green: 166, blue: 58, alpha: 1 } // #D4A63A — reliquary gold
+const ACCENT_INK = { red: 14, green: 13, blue: 12, alpha: 1 } // dark text on gold
+
 function buildShieldPayload(snap: CommitmentSnapshot) {
+  const secondaryLabel = snap.friction === 'prayer' ? 'Pray to disable' : 'Disable'
   return {
     configuration: {
-      title: snap.anchor.title,
-      subtitle: snap.anchor.subtitle,
-      backgroundColor: { red: 0.054, green: 0.051, blue: 0.047, alpha: 1 },
-      titleColor: { red: 1, green: 1, blue: 1, alpha: 1 },
-      subtitleColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
-      primaryButtonLabel: 'Pray and continue blocking',
-      primaryButtonLabelColor: { red: 1, green: 1, blue: 1, alpha: 1 },
-      primaryButtonBackgroundColor: { red: 0.83, green: 0.55, blue: 0.2, alpha: 1 },
-      secondaryButtonLabel: snap.friction === 'prayer' ? 'Pray to disable' : 'Disable',
-      secondaryButtonLabelColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
+      title: snap.name,
+      subtitle: snap.anchor.subtitle || snap.anchor.title,
+      iconSystemName: 'flame.fill',
+      iconTint: ACCENT,
+      backgroundColor: SHIELD_BG,
+      backgroundBlurStyle: SHIELD_BG_BLUR,
+      titleColor: TITLE,
+      subtitleColor: SUBTITLE,
+      primaryButtonLabel: 'Pray and continue',
+      primaryButtonLabelColor: ACCENT_INK,
+      primaryButtonBackgroundColor: ACCENT,
+      secondaryButtonLabel: secondaryLabel,
+      secondaryButtonLabelColor: SUBTITLE,
     },
     actions: {
       primary: {
