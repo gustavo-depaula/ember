@@ -5,12 +5,6 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import type { Commitment } from '../types'
 
-const SEVERITY_COLOR: Record<Commitment['severity'], string> = {
-  light: '$colorMutedBlue',
-  firm: '$accent',
-  bound: '$colorGreen',
-}
-
 function KindIcon({ kind }: { kind: Commitment['kind'] }) {
   if (kind === 'time-fence') return <Clock size={16} />
   if (kind === 'time-limit') return <Timer size={16} />
@@ -37,17 +31,14 @@ export function CommitmentRow({
         alignItems="center"
         gap="$md"
         borderLeftWidth={3}
-        borderLeftColor={SEVERITY_COLOR[commitment.severity]}
+        borderLeftColor="$accent"
       >
-        <YStack>
-          <KindIcon kind={commitment.kind} />
-        </YStack>
+        <KindIcon kind={commitment.kind} />
         <YStack flex={1} gap={2}>
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {commitment.name}
           </Text>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {t(`custody.severity.${commitment.severity}.label`)} ·{' '}
             {t(`custody.kinds.${commitment.kind}.label`)}
           </Text>
         </YStack>

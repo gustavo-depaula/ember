@@ -11,7 +11,6 @@ import {
   getCommitment,
   listCommitments,
   listEventsForCommitment,
-  listFallsSince,
   listRecentSessions,
   reconcileAbandonedSessions,
   recordEvent,
@@ -44,9 +43,7 @@ function baseInput(overrides: Partial<CommitmentInput> = {}): CommitmentInput {
     kind: 'abstain',
     targets: sampleTargets,
     schedule: { type: 'daily' },
-    severity: 'firm',
     friction: 'none',
-    fallPolicy: 'log',
     shieldAnchor: sampleAnchor,
     ...overrides,
   }
@@ -90,12 +87,10 @@ describe('Custody repository', () => {
     const c = await createCommitment(baseInput())
     const updated = await updateCommitment(c.id, {
       name: 'Renamed',
-      severity: 'bound',
       friction: 'wait',
       frictionConfig: { kind: 'wait', waitSeconds: 600 },
     })
     expect(updated.name).toBe('Renamed')
-    expect(updated.severity).toBe('bound')
     expect(updated.friction).toBe('wait')
     expect(updated.friction_config).toEqual({ kind: 'wait', waitSeconds: 600 })
   })
@@ -103,25 +98,12 @@ describe('Custody repository', () => {
   it('records events and lists them in occurred_at DESC order', async () => {
     const c = await createCommitment(baseInput())
     await recordEvent({ commitmentId: c.id, type: 'kept', occurredAt: 1000 })
-    await recordEvent({ commitmentId: c.id, type: 'fell', occurredAt: 3000, note: 'after lunch' })
+    await recordEvent({ commitmentId: c.id, type: 'overrode', occurredAt: 3000, note: 'gave in' })
     await recordEvent({ commitmentId: c.id, type: 'kept', occurredAt: 2000 })
 
     const events = await listEventsForCommitment(c.id)
     expect(events.map((e) => e.occurred_at)).toEqual([3000, 2000, 1000])
-    expect(events[0].note).toBe('after lunch')
-  })
-
-  it('listFallsSince joins commitment data and filters by timestamp + type', async () => {
-    const a = await createCommitment(baseInput({ name: 'A' }))
-    const b = await createCommitment(baseInput({ name: 'B' }))
-    await recordEvent({ commitmentId: a.id, type: 'fell', occurredAt: 500 })
-    await recordEvent({ commitmentId: a.id, type: 'fell', occurredAt: 1500 })
-    await recordEvent({ commitmentId: a.id, type: 'kept', occurredAt: 1500 })
-    await recordEvent({ commitmentId: b.id, type: 'fell', occurredAt: 2000 })
-
-    const since = await listFallsSince(1000)
-    expect(since.map((f) => f.commitment.name).sort()).toEqual(['A', 'B'])
-    expect(since.every((f) => f.type === 'fell')).toBe(true)
+    expect(events[0].note).toBe('gave in')
   })
 
   it('creates and ends sessions', async () => {
@@ -163,15 +145,12 @@ describe('Custody schedule helpers', () => {
     id: 'x',
     name: 'overnight',
     description: null,
-    confessor_note: null,
     kind: 'time-fence' as const,
     targets: sampleTargets,
     schedule: { type: 'daily' as const },
-    severity: 'firm' as const,
     friction: 'none' as const,
     friction_config: null,
     shield_anchor: sampleAnchor,
-    fall_policy: 'log' as const,
     fence_start: '21:00',
     fence_end: '07:00',
     limit_seconds: null,

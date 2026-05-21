@@ -73,7 +73,7 @@ function scheduleFor(commitment: Commitment): ScheduleSpec | undefined {
 // re-pushes the shield config, re-applies the block).
 export async function wireBoundEnforcement(commitment: Commitment): Promise<void> {
   const native = getCustodyNative()
-  if (!native.isSupported() || commitment.severity !== 'bound') return
+  if (!native.isSupported() || commitment.archived !== 0) return
 
   const triggeredBy = `custody-wire-${commitment.id}`
 
@@ -107,8 +107,7 @@ export async function wireBoundEnforcement(commitment: Commitment): Promise<void
   }
 }
 
-// Tear down all enforcement for a commitment. Called on archive / delete /
-// severity downgrade.
+// Tear down all enforcement for a commitment. Called on archive / delete.
 export async function unwireBoundEnforcement(commitment: Commitment): Promise<void> {
   const native = getCustodyNative()
   if (!native.isSupported()) return
@@ -137,7 +136,7 @@ export async function reconcileAllEnforcement(commitments: Commitment[]): Promis
   // push a single specific-filter policy. Per-commitment unwire would clear
   // the others; aggregate first.
   const aggregateDomains = new Set<string>()
-  const boundActive = commitments.filter((c) => c.severity === 'bound' && c.archived === 0)
+  const boundActive = commitments.filter((c) => c.archived === 0)
   for (const c of boundActive) {
     for (const d of collectDomains(c.targets)) aggregateDomains.add(d)
   }

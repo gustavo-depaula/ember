@@ -16,8 +16,7 @@ export type ShieldEvent = {
 export type CommitmentSnapshot = {
   id: string
   name: string
-  severity: 'light' | 'firm' | 'bound'
-  friction: 'none' | 'wait' | 'prayer' | 'confession-only'
+  friction: 'none' | 'wait' | 'prayer'
   frictionConfig?: Record<string, unknown>
   anchor: AnchorSnapshot
   // ScheduleRule payload — flattened on the Swift side into

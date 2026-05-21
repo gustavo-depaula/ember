@@ -107,21 +107,19 @@ CREATE TABLE IF NOT EXISTS external_content (
 );
 
 -- Custody: ascetical commitments (the negative half of the rule of life).
--- Tables here are CRUD-shaped, not event-sourced — only `commitment_events`
--- is append-only, and that contract is enforced by the repository.
+-- Every commitment enforces — there is no "log only" tier. Tables here are
+-- CRUD-shaped, not event-sourced; `commitment_events` is append-only by
+-- repository convention.
 CREATE TABLE IF NOT EXISTS commitments (
   id              TEXT PRIMARY KEY,
   name            TEXT NOT NULL,
   description     TEXT,
-  confessor_note  TEXT,
   kind            TEXT NOT NULL CHECK (kind IN ('abstain', 'time-limit', 'time-fence')),
   targets         TEXT NOT NULL,                                       -- JSON Target[]
   schedule        TEXT NOT NULL,                                       -- JSON Schedule
-  severity        TEXT NOT NULL CHECK (severity IN ('light', 'firm', 'bound')),
-  friction        TEXT NOT NULL CHECK (friction IN ('none', 'wait', 'prayer', 'confession-only')),
+  friction        TEXT NOT NULL CHECK (friction IN ('none', 'wait', 'prayer')),
   friction_config TEXT,                                                -- JSON FrictionConfig
   shield_anchor   TEXT,                                                -- JSON Anchor
-  fall_policy     TEXT NOT NULL CHECK (fall_policy IN ('log', 'examen', 'confession-prep')),
   fence_start     TEXT,                                                -- HH:mm, only for kind = 'time-fence'
   fence_end       TEXT,                                                -- HH:mm, only for kind = 'time-fence'
   limit_seconds   INTEGER,                                             -- only for kind = 'time-limit'

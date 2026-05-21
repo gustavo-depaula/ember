@@ -38,6 +38,20 @@ export function useDbInit() {
           setDb(proxy)
         } else {
           const rawDb = await openDatabaseAsync('ember.db')
+          // One-time drop of the legacy custody schema (severity / fall_policy
+          // columns existed in commit 2b520eb3 and earlier). Detect by
+          // probing sqlite_master for the old column name; if present, drop
+          // the three custody tables before re-running the migration so the
+          // simplified shape lands cleanly. Idempotent: post-wipe, the probe
+          // finds no severity column and this branch is skipped.
+          const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
+            "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
+          )
+          if (legacy?.sql?.includes('severity')) {
+            await rawDb.execAsync(
+              'DROP TABLE IF EXISTS commitment_events; DROP TABLE IF EXISTS custody_sessions; DROP TABLE IF EXISTS commitments;',
+            )
+          }
           await rawDb.execAsync(initialMigration)
           const adapted = adaptNativeDb(rawDb)
           await createEventsTable(adapted)

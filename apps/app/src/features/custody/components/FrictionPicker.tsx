@@ -4,7 +4,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import type { Friction, FrictionConfig } from '../types'
 
-const FRICTIONS: Friction[] = ['none', 'wait', 'prayer', 'confession-only']
+const FRICTIONS: Friction[] = ['none', 'wait', 'prayer']
 
 export function FrictionPicker({
   value,
@@ -22,8 +22,7 @@ export function FrictionPicker({
     let nextConfig: FrictionConfig | null = null
     switch (friction) {
       case 'none':
-      case 'confession-only':
-        nextConfig = { kind: friction }
+        nextConfig = { kind: 'none' }
         break
       case 'wait':
         nextConfig = {

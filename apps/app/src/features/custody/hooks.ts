@@ -10,13 +10,11 @@ import {
   getCommitment,
   listCommitments,
   listEventsForCommitment,
-  listFallsSince,
   listRecentSessions,
   recordEvent,
   unarchiveCommitment,
   updateCommitment,
 } from '@/db/repositories/custody'
-import { useLastConfession } from '@/features/confessio/hooks'
 
 import { unwireBoundEnforcement, wireBoundEnforcement } from './enforcement'
 import { isCommitmentActiveOn } from './schedule'
@@ -38,7 +36,6 @@ export const custodyKeys = {
     [...ROOT, 'commitments', 'all', includeArchived] as const,
   commitment: (id: string) => [...ROOT, 'commitments', id] as const,
   events: (commitmentId: string) => [...ROOT, 'events', commitmentId] as const,
-  falls: (since: number) => [...ROOT, 'falls', since] as const,
   sessions: () => [...ROOT, 'sessions', 'recent'] as const,
 }
 
@@ -81,22 +78,6 @@ export function useCommitmentEvents(commitmentId: string | undefined, limit = 20
   })
 }
 
-export function useFallsSinceLastConfession() {
-  const last = useLastConfession()
-  const since = last?.recorded_at ?? 0
-  return useQuery({
-    queryKey: custodyKeys.falls(since),
-    queryFn: () => listFallsSince(since),
-  })
-}
-
-export function useFallsSince(timestamp: number) {
-  return useQuery({
-    queryKey: custodyKeys.falls(timestamp),
-    queryFn: () => listFallsSince(timestamp),
-  })
-}
-
 export function useRecentSessions(limit = 20) {
   return useQuery({
     queryKey: [...custodyKeys.sessions(), limit],
@@ -128,9 +109,8 @@ export function useUpdateCommitment() {
     mutationFn: ({ id, patch }: { id: string; patch: Partial<CommitmentInput> }) =>
       updateCommitment(id, patch),
     onSuccess: async (commitment) => {
-      // Always tear down first so a severity downgrade (bound → firm) or a
-      // target change pulls the old shield. `wireBoundEnforcement` then
-      // re-applies only if the commitment is still bound.
+      // Tear down first so a target change pulls the old shield cleanly,
+      // then re-wire with the new state.
       await unwireBoundEnforcement(commitment)
       await wireBoundEnforcement(commitment)
       invalidate()

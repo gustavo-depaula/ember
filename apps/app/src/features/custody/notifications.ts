@@ -39,12 +39,6 @@ function parseFenceTime(value: string): { hour: number; minute: number } | undef
 
 export async function scheduleNudgesForCommitment(commitment: Commitment): Promise<void> {
   if (!Notifications) return
-  // Light = log-only, no nudges.
-  if (commitment.severity === 'light') {
-    await cancelForCommitment(commitment.id)
-    return
-  }
-
   // Clear stale schedules first so edits don't double-fire.
   await cancelForCommitment(commitment.id)
 

@@ -69,7 +69,6 @@ export function snapshotFromCommitment(c: Commitment): CommitmentSnapshot {
   return {
     id: c.id,
     name: c.name,
-    severity: c.severity,
     friction: c.friction,
     frictionConfig: c.friction_config
       ? (c.friction_config as unknown as Record<string, unknown>)
@@ -92,6 +91,6 @@ export async function syncCommitmentSnapshots(): Promise<void> {
   const native = getCustodyNative()
   if (!native.isSupported()) return
   const commitments = await listCommitments({ includeArchived: false })
-  const snapshots = commitments.filter((c) => c.severity === 'bound').map(snapshotFromCommitment)
+  const snapshots = commitments.map(snapshotFromCommitment)
   await native.syncSnapshots(snapshots)
 }

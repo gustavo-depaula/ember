@@ -52,12 +52,7 @@ function buildShieldPayload(snap: CommitmentSnapshot) {
       primaryButtonLabel: 'Pray and continue blocking',
       primaryButtonLabelColor: { red: 1, green: 1, blue: 1, alpha: 1 },
       primaryButtonBackgroundColor: { red: 0.83, green: 0.55, blue: 0.2, alpha: 1 },
-      secondaryButtonLabel:
-        snap.friction === 'confession-only'
-          ? 'After confession'
-          : snap.friction === 'prayer'
-            ? 'Pray to disable'
-            : 'Disable',
+      secondaryButtonLabel: snap.friction === 'prayer' ? 'Pray to disable' : 'Disable',
       secondaryButtonLabelColor: { red: 0.9, green: 0.9, blue: 0.9, alpha: 1 },
     },
     actions: {
@@ -66,12 +61,9 @@ function buildShieldPayload(snap: CommitmentSnapshot) {
         actions: [{ type: 'openApp' as const }],
       },
       secondary: {
-        behavior:
-          snap.friction === 'confession-only' || snap.friction === 'prayer'
-            ? ('defer' as const)
-            : ('close' as const),
+        behavior: snap.friction === 'prayer' ? ('defer' as const) : ('close' as const),
         actions:
-          snap.friction === 'confession-only' || snap.friction === 'prayer'
+          snap.friction === 'prayer'
             ? [{ type: 'openApp' as const }]
             : [
                 {

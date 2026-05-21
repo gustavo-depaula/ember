@@ -8,22 +8,20 @@ import { SchedulePicker } from '@/features/plan-of-life/components/SchedulePicke
 import { randomId } from '@/lib/id'
 
 import { useCommitment, useCreateCommitment, useUpdateCommitment } from '../hooks'
+import { getCustodyNative } from '../native'
 import { scheduleNudgesForCommitment } from '../notifications'
 import type {
   Anchor,
   CommitmentInput,
   CommitmentKind,
-  FallPolicy,
   Friction,
   FrictionConfig,
   Schedule,
-  Severity,
   Target,
 } from '../types'
 
 import { AnchorPreview } from './AnchorPreview'
 import { FrictionPicker } from './FrictionPicker'
-import { SeverityPicker } from './SeverityPicker'
 import { ShieldAnchorPicker } from './ShieldAnchorPicker'
 import { TargetPicker } from './TargetPicker'
 
@@ -35,15 +33,12 @@ const DEFAULT_SCHEDULE: Schedule = { type: 'daily' }
 type EditorState = {
   name: string
   description: string
-  confessorNote: string
   kind: CommitmentKind
   targets: Target[]
   schedule: Schedule
-  severity: Severity
   friction: Friction
   frictionConfig: FrictionConfig | null
   shieldAnchor: Anchor | null
-  fallPolicy: FallPolicy
   fenceStart: string
   fenceEnd: string
   limitMinutes: string
@@ -53,15 +48,12 @@ function emptyState(): EditorState {
   return {
     name: '',
     description: '',
-    confessorNote: '',
     kind: 'abstain',
     targets: [],
     schedule: DEFAULT_SCHEDULE,
-    severity: 'firm',
     friction: 'none',
     frictionConfig: null,
     shieldAnchor: null,
-    fallPolicy: 'log',
     fenceStart: '21:00',
     fenceEnd: '07:00',
     limitMinutes: '30',
@@ -74,15 +66,12 @@ function toInput(state: EditorState): CommitmentInput | undefined {
   const input: CommitmentInput = {
     name: state.name.trim(),
     description: state.description.trim() || undefined,
-    confessorNote: state.confessorNote.trim() || undefined,
     kind: state.kind,
     targets: state.targets,
     schedule: state.schedule,
-    severity: state.severity,
     friction: state.friction,
     frictionConfig: state.frictionConfig ?? undefined,
     shieldAnchor: state.shieldAnchor ?? undefined,
-    fallPolicy: state.fallPolicy,
   }
   if (state.kind === 'time-fence') {
     input.fenceStart = state.fenceStart
@@ -115,15 +104,12 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
       setState({
         name: existing.name,
         description: existing.description ?? '',
-        confessorNote: existing.confessor_note ?? '',
         kind: existing.kind,
         targets: existing.targets,
         schedule: existing.schedule,
-        severity: existing.severity,
         friction: existing.friction,
         frictionConfig: existing.friction_config,
         shieldAnchor: existing.shield_anchor,
-        fallPolicy: existing.fall_policy,
         fenceStart: existing.fence_start ?? '21:00',
         fenceEnd: existing.fence_end ?? '07:00',
         limitMinutes: existing.limit_seconds ? String(existing.limit_seconds / 60) : '30',
@@ -136,6 +122,18 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
 
   const onSave = async () => {
     if (!input) return
+
+    // Make sure iOS Screen Time access is granted before we ask
+    // wireBoundEnforcement to install shields. If denied, the wire step
+    // silently no-ops; surfacing the system sheet here is the natural moment.
+    const native = getCustodyNative()
+    if (native.isSupported()) {
+      const status = await native.getAuthorizationStatus()
+      if (status === 'notDetermined') {
+        await native.requestAuthorization()
+      }
+    }
+
     if (mode.kind === 'new') {
       const created = await create.mutateAsync({ ...input, id: draftId })
       await scheduleNudgesForCommitment(created)
@@ -280,32 +278,19 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
         />
       </YStack>
 
-      {/* Severity */}
+      {/* Override behavior */}
       <YStack gap="$xs">
         <Text fontFamily="$heading" fontSize="$2" color="$color">
-          Severity
+          Override
         </Text>
-        <SeverityPicker
-          value={state.severity}
-          onChange={(severity) => setState((s) => ({ ...s, severity }))}
+        <FrictionPicker
+          value={state.friction}
+          config={state.frictionConfig}
+          onChange={(friction, frictionConfig) =>
+            setState((s) => ({ ...s, friction, frictionConfig }))
+          }
         />
       </YStack>
-
-      {/* Friction (bound only) */}
-      {state.severity === 'bound' && (
-        <YStack gap="$xs">
-          <Text fontFamily="$heading" fontSize="$2" color="$color">
-            Friction
-          </Text>
-          <FrictionPicker
-            value={state.friction}
-            config={state.frictionConfig}
-            onChange={(friction, frictionConfig) =>
-              setState((s) => ({ ...s, friction, frictionConfig }))
-            }
-          />
-        </YStack>
-      )}
 
       {/* Shield anchor */}
       <YStack gap="$xs">
@@ -325,21 +310,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
         >
           <AnchorPreview anchor={state.shieldAnchor} />
         </YStack>
-      </YStack>
-
-      {/* Confessor note */}
-      <YStack gap="$xs">
-        <Text fontFamily="$heading" fontSize="$2" color="$color">
-          Confessor note (private)
-        </Text>
-        <TextInput
-          value={state.confessorNote}
-          onChangeText={(confessorNote) => setState((s) => ({ ...s, confessorNote }))}
-          multiline
-          placeholder="Notes for confession prep…"
-          placeholderTextColor={theme.colorSecondary.val}
-          style={{ ...inputStyle, minHeight: 60 }}
-        />
       </YStack>
 
       {/* Save */}

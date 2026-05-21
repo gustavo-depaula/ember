@@ -2,7 +2,6 @@ import type {
   Anchor,
   Commitment,
   CommitmentEvent,
-  CommitmentEventWithCommitment,
   CommitmentInput,
   CustodySession,
   EventType,
@@ -19,15 +18,12 @@ type CommitmentRow = {
   id: string
   name: string
   description: string | null
-  confessor_note: string | null
   kind: string
   targets: string
   schedule: string
-  severity: string
   friction: string
   friction_config: string | null
   shield_anchor: string | null
-  fall_policy: string
   fence_start: string | null
   fence_end: string | null
   limit_seconds: number | null
@@ -65,15 +61,12 @@ function commitmentFromRow(row: CommitmentRow): Commitment {
     id: row.id,
     name: row.name,
     description: row.description,
-    confessor_note: row.confessor_note,
     kind: row.kind as Commitment['kind'],
     targets: JSON.parse(row.targets) as Target[],
     schedule: JSON.parse(row.schedule) as Schedule,
-    severity: row.severity as Commitment['severity'],
     friction: row.friction as Commitment['friction'],
     friction_config: parseJson<FrictionConfig>(row.friction_config),
     shield_anchor: parseJson<Anchor>(row.shield_anchor),
-    fall_policy: row.fall_policy as Commitment['fall_policy'],
     fence_start: row.fence_start,
     fence_end: row.fence_end,
     limit_seconds: row.limit_seconds,
@@ -133,23 +126,20 @@ export async function createCommitment(
   const id = input.id ?? randomId()
   await db.runAsync(
     `INSERT INTO commitments (
-      id, name, description, confessor_note, kind, targets, schedule, severity,
-      friction, friction_config, shield_anchor, fall_policy, fence_start, fence_end,
+      id, name, description, kind, targets, schedule,
+      friction, friction_config, shield_anchor, fence_start, fence_end,
       limit_seconds, archived, created_at, updated_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, ?)`,
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?, ?)`,
     [
       id,
       input.name,
       input.description ?? null,
-      input.confessorNote ?? null,
       input.kind,
       JSON.stringify(input.targets),
       JSON.stringify(input.schedule),
-      input.severity,
       input.friction,
       input.frictionConfig ? JSON.stringify(input.frictionConfig) : null,
       input.shieldAnchor ? JSON.stringify(input.shieldAnchor) : null,
-      input.fallPolicy,
       input.fenceStart ?? null,
       input.fenceEnd ?? null,
       input.limitSeconds ?? null,
@@ -174,11 +164,9 @@ const COMMITMENT_COLUMNS: Array<{
 }> = [
   { field: 'name', column: 'name', serialize: (v) => v as string },
   { field: 'description', column: 'description', serialize: (v) => (v as string) ?? null },
-  { field: 'confessorNote', column: 'confessor_note', serialize: (v) => (v as string) ?? null },
   { field: 'kind', column: 'kind', serialize: (v) => v as string },
   { field: 'targets', column: 'targets', serialize: (v) => JSON.stringify(v) },
   { field: 'schedule', column: 'schedule', serialize: (v) => JSON.stringify(v) },
-  { field: 'severity', column: 'severity', serialize: (v) => v as string },
   { field: 'friction', column: 'friction', serialize: (v) => v as string },
   {
     field: 'frictionConfig',
@@ -190,7 +178,6 @@ const COMMITMENT_COLUMNS: Array<{
     column: 'shield_anchor',
     serialize: (v) => (v ? JSON.stringify(v) : null),
   },
-  { field: 'fallPolicy', column: 'fall_policy', serialize: (v) => v as string },
   { field: 'fenceStart', column: 'fence_start', serialize: (v) => (v as string) ?? null },
   { field: 'fenceEnd', column: 'fence_end', serialize: (v) => (v as string) ?? null },
   { field: 'limitSeconds', column: 'limit_seconds', serialize: (v) => (v as number) ?? null },
@@ -289,74 +276,6 @@ export async function listEventsForCommitment(
     [commitmentId, limit],
   )
   return rows.map(eventFromRow)
-}
-
-export async function listFallsSince(timestamp: number): Promise<CommitmentEventWithCommitment[]> {
-  const db = getDb()
-  const rows = await db.getAllAsync<
-    CommitmentEventRow & { c_id: string } & Record<string, unknown>
-  >(
-    `SELECT
-       e.id           AS id,
-       e.commitment_id AS commitment_id,
-       e.type         AS type,
-       e.occurred_at  AS occurred_at,
-       e.note         AS note,
-       e.metadata     AS metadata,
-       c.id           AS c_id,
-       c.name         AS c_name,
-       c.description  AS c_description,
-       c.confessor_note AS c_confessor_note,
-       c.kind         AS c_kind,
-       c.targets      AS c_targets,
-       c.schedule     AS c_schedule,
-       c.severity     AS c_severity,
-       c.friction     AS c_friction,
-       c.friction_config AS c_friction_config,
-       c.shield_anchor AS c_shield_anchor,
-       c.fall_policy  AS c_fall_policy,
-       c.fence_start  AS c_fence_start,
-       c.fence_end    AS c_fence_end,
-       c.limit_seconds AS c_limit_seconds,
-       c.archived     AS c_archived,
-       c.created_at   AS c_created_at,
-       c.updated_at   AS c_updated_at
-     FROM commitment_events e
-     JOIN commitments c ON c.id = e.commitment_id
-     WHERE e.type = 'fell' AND e.occurred_at > ?
-     ORDER BY e.occurred_at DESC`,
-    [timestamp],
-  )
-  return rows.map((row) => ({
-    ...eventFromRow({
-      id: row.id,
-      commitment_id: row.commitment_id,
-      type: row.type,
-      occurred_at: row.occurred_at,
-      note: row.note,
-      metadata: row.metadata,
-    }),
-    commitment: commitmentFromRow({
-      id: row.c_id,
-      name: row.c_name as string,
-      description: row.c_description as string | null,
-      confessor_note: row.c_confessor_note as string | null,
-      kind: row.c_kind as string,
-      targets: row.c_targets as string,
-      schedule: row.c_schedule as string,
-      severity: row.c_severity as string,
-      friction: row.c_friction as string,
-      friction_config: row.c_friction_config as string | null,
-      shield_anchor: row.c_shield_anchor as string | null,
-      fall_policy: row.c_fall_policy as string,
-      fence_start: row.c_fence_start as string | null,
-      fence_end: row.c_fence_end as string | null,
-      limit_seconds: row.c_limit_seconds as number | null,
-      archived: row.c_archived as number,
-      created_at: row.c_created_at as number,
-      updated_at: row.c_updated_at as number,
-    }),
-  }))
 }
 
 // --- Sessions ---
