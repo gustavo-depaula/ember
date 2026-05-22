@@ -6,10 +6,12 @@
  * background via expo-glass-effect; everywhere else falls back to expo-blur.
  */
 
+import MaskedView from '@react-native-masked-view/masked-view'
 import { BlurView } from 'expo-blur'
 import { GlassView, isLiquidGlassAvailable } from 'expo-glass-effect'
 import { Image } from 'expo-image'
-import { usePathname, useRouter } from 'expo-router'
+import { LinearGradient } from 'expo-linear-gradient'
+import { Link, usePathname } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, View } from 'react-native'
@@ -25,12 +27,12 @@ const PILL_RADIUS = PILL_HEIGHT / 2
 const ARTWORK_SIZE = PILL_HEIGHT - 16
 const HORIZONTAL_INSET = 12
 const BOTTOM_GAP = 12
+const ARTWORK_LEFT_PADDING = 14
 
 const liquidGlassAvailable = Platform.OS === 'ios' && isLiquidGlassAvailable()
 
 export function NowPlayingBar() {
   const { t } = useTranslation()
-  const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const pathname = usePathname()
@@ -45,15 +47,6 @@ export function NowPlayingBar() {
   // Don't double-up with the full-screen player: if the user is on the
   // detail page of the currently-playing item, hide the mini-bar.
   if (pathname?.endsWith(`/episode/${nowPlaying.itemId}`)) return null
-
-  const openPlayer = () =>
-    router.push({
-      pathname: '/creators/[creatorId]/episode/[itemId]',
-      params: {
-        creatorId: bareId(nowPlaying.creatorId),
-        itemId: nowPlaying.itemId,
-      },
-    })
 
   const accessibilityLabel = t('creators.openPlayer', { title: nowPlaying.title })
 
@@ -70,59 +63,71 @@ export function NowPlayingBar() {
       }}
     >
       <GlassPill isDark={isDark}>
-        <AnimatedPressable
-          style={{ flex: 1 }}
-          onPress={openPlayer}
-          accessibilityRole="button"
-          accessibilityLabel={accessibilityLabel}
+        <Link
+          href={{
+            pathname: '/creators/[creatorId]/episode/[itemId]',
+            params: {
+              creatorId: bareId(nowPlaying.creatorId),
+              itemId: nowPlaying.itemId,
+            },
+          }}
+          push
+          asChild
         >
-          <XStack alignItems="center" gap="$sm" paddingLeft={8} paddingRight={4} flex={1}>
-            <YStack
-              width={ARTWORK_SIZE}
-              height={ARTWORK_SIZE}
-              borderRadius={8}
-              overflow="hidden"
-              backgroundColor="$accentSubtle"
-              alignItems="center"
-              justifyContent="center"
+          <Link.AppleZoom>
+            <AnimatedPressable
+              style={{ flex: 1 }}
+              accessibilityRole="link"
+              accessibilityLabel={accessibilityLabel}
             >
-              {nowPlaying.imageUri ? (
-                <Image
-                  source={{ uri: nowPlaying.imageUri }}
-                  style={{ width: ARTWORK_SIZE, height: ARTWORK_SIZE }}
-                  contentFit="cover"
-                  transition={150}
-                  cachePolicy="memory-disk"
-                  accessibilityIgnoresInvertColors
-                />
-              ) : (
-                <Play size={Math.round(ARTWORK_SIZE / 2)} color={theme.accent.val} />
-              )}
-            </YStack>
-            <YStack flex={1} gap={2}>
-              <Text
-                fontFamily="$heading"
-                fontSize="$2"
-                color="$color"
-                numberOfLines={1}
-                ellipsizeMode="tail"
+              <XStack
+                alignItems="center"
+                gap="$sm"
+                paddingLeft={ARTWORK_LEFT_PADDING}
+                paddingRight={4}
+                flex={1}
               >
-                {nowPlaying.title}
-              </Text>
-              {!!nowPlaying.creatorName && (
-                <Text
-                  fontFamily="$body"
-                  fontSize="$1"
-                  color="$colorSecondary"
-                  numberOfLines={1}
-                  ellipsizeMode="tail"
+                <YStack
+                  width={ARTWORK_SIZE}
+                  height={ARTWORK_SIZE}
+                  borderRadius={8}
+                  overflow="hidden"
+                  backgroundColor="$accentSubtle"
+                  alignItems="center"
+                  justifyContent="center"
                 >
-                  {nowPlaying.creatorName}
-                </Text>
-              )}
-            </YStack>
-          </XStack>
-        </AnimatedPressable>
+                  {nowPlaying.imageUri ? (
+                    <Image
+                      source={{ uri: nowPlaying.imageUri }}
+                      style={{ width: ARTWORK_SIZE, height: ARTWORK_SIZE }}
+                      contentFit="cover"
+                      transition={150}
+                      cachePolicy="memory-disk"
+                      accessibilityIgnoresInvertColors
+                    />
+                  ) : (
+                    <Play size={Math.round(ARTWORK_SIZE / 2)} color={theme.accent.val} />
+                  )}
+                </YStack>
+                <YStack flex={1}>
+                  <FadingText fontFamily="$heading" fontSize="$2" color="$color">
+                    {nowPlaying.title}
+                  </FadingText>
+                  {!!nowPlaying.creatorName && (
+                    <FadingText
+                      fontFamily="$body"
+                      fontSize="$1"
+                      color="$colorSecondary"
+                      marginTop={-1}
+                    >
+                      {nowPlaying.creatorName}
+                    </FadingText>
+                  )}
+                </YStack>
+              </XStack>
+            </AnimatedPressable>
+          </Link.AppleZoom>
+        </Link>
         <Pressable
           hitSlop={12}
           onPress={() => void togglePlay()}
@@ -180,5 +185,34 @@ function GlassPill({ isDark, children }: { isDark: boolean; children: React.Reac
     >
       {children}
     </BlurView>
+  )
+}
+
+/**
+ * Single-line text that fades out on the right edge when overflowed. The mask
+ * runs the full width but is mostly opaque — only the last ~12% fades to
+ * transparent, so short strings ending before that band stay fully visible.
+ */
+function FadingText({
+  children,
+  ...textProps
+}: React.ComponentProps<typeof Text> & { children: React.ReactNode }) {
+  return (
+    <MaskedView
+      style={{ height: undefined }}
+      maskElement={
+        <LinearGradient
+          colors={['black', 'black', 'transparent']}
+          locations={[0, 0.88, 1]}
+          start={{ x: 0, y: 0 }}
+          end={{ x: 1, y: 0 }}
+          style={{ flex: 1 }}
+        />
+      }
+    >
+      <Text numberOfLines={1} ellipsizeMode="clip" {...textProps}>
+        {children}
+      </Text>
+    </MaskedView>
   )
 }
