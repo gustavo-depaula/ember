@@ -22,8 +22,12 @@ export function SeasonalContext({ date }: { date: Date }) {
   }, [upcoming, dateKey])
 
   const feastName = upcoming ? localizeContent(upcoming.entry.name) : undefined
+  const description = upcoming ? localizeContent(upcoming.entry.description) : undefined
 
   if (!feastName || !daysUntil || daysUntil <= 0) return null
+
+  const when =
+    daysUntil === 1 ? t('home.upcomingTomorrow') : t('home.upcomingInDays', { count: daysUntil })
 
   return (
     <AnimatedPressable
@@ -31,12 +35,41 @@ export function SeasonalContext({ date }: { date: Date }) {
       accessibilityRole="link"
       accessibilityLabel={t('a11y.viewCalendar')}
     >
-      <YStack alignItems="center" gap="$xs" paddingHorizontal="$lg">
-        <Text fontFamily="$body" fontSize="$1" color="$accent" textAlign="center">
-          {daysUntil === 1
-            ? t('home.tomorrow', { feast: feastName })
-            : t('home.daysUntil', { count: daysUntil, feast: feastName })}
+      <YStack alignItems="center" gap="$sm" paddingHorizontal="$lg">
+        <Text
+          fontFamily="$heading"
+          fontSize="$1"
+          color="$accent"
+          letterSpacing={2.5}
+          textTransform="uppercase"
+        >
+          {t('home.upcomingLabel')}
         </Text>
+        <Text
+          fontFamily="$body"
+          fontSize="$3"
+          color="$color"
+          fontStyle="italic"
+          textAlign="center"
+          maxWidth={420}
+        >
+          {feastName}
+        </Text>
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+          {when}
+        </Text>
+        {description && (
+          <Text
+            fontFamily="$body"
+            fontSize="$2"
+            color="$colorSecondary"
+            textAlign="center"
+            maxWidth={520}
+            numberOfLines={3}
+          >
+            {description}
+          </Text>
+        )}
       </YStack>
     </AnimatedPressable>
   )

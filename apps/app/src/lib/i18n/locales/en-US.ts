@@ -18,7 +18,9 @@ export default {
     reading: 'Reading',
     fidelity: 'Fidelity',
     ruleOfLife: 'Your Rule of Life',
+    ruleOfLifeSubtitle: 'a rule of life',
     resolutionLabel: 'Today’s resolution',
+    resolutionAttribution: 'today’s resolve',
     resolutionTap: 'Today’s resolution: {{text}}. Open Plan of Life to check in.',
     hora: {
       matins: 'the hour of Matins',
@@ -31,6 +33,10 @@ export default {
       compline: 'the hour of Compline',
     },
     celebrationOfDay: 'Today\u2019s Celebration',
+    upcomingLabel: 'Coming soon',
+    upcomingTomorrow: 'tomorrow',
+    upcomingInDays_one: 'in {{count}} day',
+    upcomingInDays_other: 'in {{count}} days',
     daysUntil: '{{count}} days until {{feast}}',
     tomorrow: '{{feast}} is tomorrow',
     today: '{{feast}}',
@@ -225,6 +231,9 @@ export default {
     homeTagline: 'Bring your intentions to prayer',
     homeOpenCount_one: '{{count}} active intention',
     homeOpenCount_other: '{{count}} active intentions',
+    exploreTagline_zero: 'Lift one up to the Lord',
+    exploreTagline_one: '{{count}} active intention',
+    exploreTagline_other: '{{count}} active intentions',
   },
 
   movements: {
@@ -330,6 +339,9 @@ export default {
     title: 'Memoria',
     subtitle: 'A chronicle of your life of prayer.',
     homeTagline: 'Remember what the Lord has done',
+    exploreTagline_zero: 'Begin your chronicle',
+    exploreTagline_one: '{{count}} entry remembered',
+    exploreTagline_other: '{{count}} entries remembered',
     emptyState: 'Your chronicle begins with your first prayer.',
     today: 'Today',
     yesterday: 'Yesterday',
@@ -476,6 +488,9 @@ export default {
     homeTagline: 'Count the graces of this day',
     homeCount_one: '{{count}} grace recorded',
     homeCount_other: '{{count}} graces recorded',
+    exploreTagline_zero: 'Begin counting today’s graces',
+    exploreTagline_one: '{{count}} grace recorded',
+    exploreTagline_other: '{{count}} graces recorded',
   },
 
   diesDomini: {
@@ -995,6 +1010,7 @@ export default {
   explore: {
     title: 'Explore',
     subtitle: 'Companions for the path, and a library for your soul.',
+    captures: 'Of the Heart',
     companions: 'Companions',
     library: 'Library',
     tools: 'Tools',

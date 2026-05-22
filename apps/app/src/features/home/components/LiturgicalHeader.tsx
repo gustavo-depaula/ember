@@ -5,28 +5,17 @@ import { Pressable } from 'react-native'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import {
-  getLiturgicalColor,
   getLiturgicalDayName,
   type LiturgicalCalendarForm,
-  type LiturgicalColor,
   type LiturgicalSeason,
 } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { DateScrubber } from './DateScrubber'
 
-const vestmentHex: Record<LiturgicalColor, string> = {
-  violet: '#6b4a9b',
-  white: '#e8dfc6',
-  green: '#5c8a3a',
-  red: '#b8373c',
-  rose: '#c77e95',
-}
-
 export function LiturgicalHeader({
   date,
   season,
-  rose,
   today,
   onSelectDate,
 }: {
@@ -59,8 +48,6 @@ export function LiturgicalHeader({
 
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
-  const vestment: LiturgicalColor = rose ? 'rose' : getLiturgicalColor(season)
-  const vestmentColor = vestmentHex[vestment]
 
   const router = useRouter()
 
@@ -101,15 +88,6 @@ export function LiturgicalHeader({
       >
         {t(`home.seasonDescription.${season}`)}
       </Text>
-
-      <View
-        width={40}
-        height={3}
-        borderRadius={2}
-        backgroundColor={vestmentColor}
-        opacity={isDark ? 0.85 : 0.75}
-        marginTop="$sm"
-      />
     </YStack>
   )
 }

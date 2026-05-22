@@ -22,13 +22,14 @@ import { LatestRow } from '@/features/creators/home/LatestRow'
 import {
   AppShortcuts,
   Aspiratio,
+  type CarouselPage,
   CelebrationOfDay,
   ConfessioLine,
+  DailyCarousel,
   DiesDevotion,
   LiturgicalHeader,
   MementoLine,
   OfflineCoverageLine,
-  QuickCaptureChips,
   ResolutionLine,
   RestartNeededList,
   SeasonalContext,
@@ -198,69 +199,69 @@ export default function HomeScreen() {
           />
 
           <FadeInView>
-            <DiesDevotion date={now} />
+            <DailyCarousel
+              pages={
+                [
+                  { key: 'devotion', node: <DiesDevotion date={now} /> },
+                  scheduleCtx?.dayCalendar?.principal && {
+                    key: 'celebration',
+                    node: <CelebrationOfDay date={now} />,
+                  },
+                  hasUpcomingFeast && {
+                    key: 'seasonal',
+                    node: <SeasonalContext date={now} />,
+                  },
+                ].filter(Boolean) as CarouselPage[]
+              }
+            />
           </FadeInView>
-
-          {hasUpcomingFeast && (
-            <FadeInView>
-              <SeasonalContext date={now} />
-            </FadeInView>
-          )}
-
-          {scheduleCtx?.dayCalendar?.principal && (
-            <FadeInView>
-              <CelebrationOfDay date={now} />
-            </FadeInView>
-          )}
-
-          {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
-            <FadeInView>
-              <YStack paddingHorizontal="$md">
-                <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
-              </YStack>
-            </FadeInView>
-          )}
         </YStack>
 
         <YStack gap="$md">
           <FadeInView>
-            <YStack paddingVertical="$sm" paddingBottom="$md">
-              <AppShortcuts />
-            </YStack>
+            <AppShortcuts />
           </FadeInView>
 
-          <FadeInView>
-            <QuickCaptureChips />
-          </FadeInView>
-
-          <FadeInView>
-            <LatestRow />
-          </FadeInView>
+          <LatestRow />
         </YStack>
 
         <YStack gap="$md">
           <FadeInView index={1}>
-            <Pressable
-              onPress={() => router.push('/plan')}
-              accessibilityRole="link"
-              accessibilityLabel={t('a11y.viewPlanOfLife')}
-            >
-              <Text
-                fontFamily="$heading"
-                fontSize="$4"
-                fontWeight="bold"
-                color="$accent"
-                textAlign="center"
-                letterSpacing={1}
+            <YStack alignItems="center" gap="$sm">
+              <Pressable
+                onPress={() => router.push('/plan')}
+                accessibilityRole="link"
+                accessibilityLabel={t('a11y.viewPlanOfLife')}
               >
-                {t('home.ruleOfLife')}
-              </Text>
-            </Pressable>
+                <Text
+                  fontFamily="$heading"
+                  fontSize="$5"
+                  color="$color"
+                  textAlign="center"
+                  letterSpacing={3}
+                  textTransform="uppercase"
+                >
+                  {t('home.ruleOfLife')}
+                </Text>
+              </Pressable>
+              <View
+                width={120}
+                borderBottomWidth={0.5}
+                borderColor="$accentSubtle"
+                marginTop="$xs"
+              />
+            </YStack>
           </FadeInView>
 
           <FadeInView index={1}>
             <ResolutionLine />
           </FadeInView>
+
+          {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
+            <FadeInView index={1}>
+              <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
+            </FadeInView>
+          )}
 
           {todaySlots.length === 0 ? (
             <FadeInView index={2}>
@@ -269,7 +270,7 @@ export default function HomeScreen() {
                 accessibilityRole="link"
                 accessibilityLabel={t('home.emptyPlanAction')}
               >
-                <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm">
+                <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
                   <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
                     {t('home.emptyPlan')}
                   </Text>
@@ -280,36 +281,38 @@ export default function HomeScreen() {
               </Pressable>
             </FadeInView>
           ) : (
-            activeBlocks.map(({ block, def }, index) => {
-              const blockSlotIds = def.slots.map((s) => s.id)
-              const { completed, total } = getBlockCompletion(blockSlotIds, completedIds)
-              const autoState = getBlockState(block, currentBlock, completedIds, blockSlotIds)
-              const state = overrides[block] ?? autoState
+            <YStack gap="$md" marginTop="$md">
+              {activeBlocks.map(({ block, def }, index) => {
+                const blockSlotIds = def.slots.map((s) => s.id)
+                const { completed, total } = getBlockCompletion(blockSlotIds, completedIds)
+                const autoState = getBlockState(block, currentBlock, completedIds, blockSlotIds)
+                const state = overrides[block] ?? autoState
 
-              return (
-                <FadeInView key={block} index={index + 2}>
-                  <TimeBlockSection
-                    label={t(`timeBlock.${block}`)}
-                    items={def.slots.map((s) => enrichSlot(s, t))}
-                    completedIds={completedIds}
-                    restartNeededIds={restartNeededIds}
-                    state={state}
-                    completed={completed}
-                    total={total}
-                    onToggle={(item, done) =>
-                      toggle.mutate({
-                        practiceId: item.practice_id,
-                        slotId: parseSlotKey(item.id).slotId,
-                        date: selectedDate,
-                        completed: done,
-                      })
-                    }
-                    onToggleCollapse={() => toggleBlockCollapse(block)}
-                    onPressItem={handlePressItem}
-                  />
-                </FadeInView>
-              )
-            })
+                return (
+                  <FadeInView key={block} index={index + 2}>
+                    <TimeBlockSection
+                      label={t(`timeBlock.${block}`)}
+                      items={def.slots.map((s) => enrichSlot(s, t))}
+                      completedIds={completedIds}
+                      restartNeededIds={restartNeededIds}
+                      state={state}
+                      completed={completed}
+                      total={total}
+                      onToggle={(item, done) =>
+                        toggle.mutate({
+                          practiceId: item.practice_id,
+                          slotId: parseSlotKey(item.id).slotId,
+                          date: selectedDate,
+                          completed: done,
+                        })
+                      }
+                      onToggleCollapse={() => toggleBlockCollapse(block)}
+                      onPressItem={handlePressItem}
+                    />
+                  </FadeInView>
+                )
+              })}
+            </YStack>
           )}
 
           <RestartNeededList ids={restartNeededIds} />
@@ -317,7 +320,15 @@ export default function HomeScreen() {
           <OfflineCoverageLine />
         </YStack>
 
-        {wallData.length > 0 && (
+        <PageBreakOrnament />
+
+        <Aspiratio date={now} />
+
+        <ConfessioLine />
+
+        <MementoLine />
+
+        {todaySlots.length > 0 && (
           <>
             <SectionDivider />
             <FadeInView index={activeBlocks.length + 3}>
@@ -341,14 +352,6 @@ export default function HomeScreen() {
             </FadeInView>
           </>
         )}
-
-        <PageBreakOrnament />
-
-        <Aspiratio date={now} />
-
-        <ConfessioLine />
-
-        <MementoLine />
       </YStack>
     </ScreenLayout>
   )
