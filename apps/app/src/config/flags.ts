@@ -5,7 +5,7 @@ export type FeatureFlags = {
 }
 
 export const flags: FeatureFlags = {
-  custody: __DEV__,
+  custody: true,
   custodyBoundIOS: __DEV__,
   custodyBoundAndroid: false,
 }
