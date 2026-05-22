@@ -6,11 +6,9 @@
  * background via expo-glass-effect; everywhere else falls back to expo-blur.
  */
 
-import MaskedView from '@react-native-masked-view/masked-view'
 import { BlurView } from 'expo-blur'
 import { GlassView, isLiquidGlassAvailable } from 'expo-glass-effect'
 import { Image } from 'expo-image'
-import { LinearGradient } from 'expo-linear-gradient'
 import { Link, usePathname } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
@@ -110,18 +108,26 @@ export function NowPlayingBar() {
                   )}
                 </YStack>
                 <YStack flex={1}>
-                  <FadingText fontFamily="$heading" fontSize="$2" color="$color">
+                  <Text
+                    fontFamily="$heading"
+                    fontSize="$2"
+                    color="$color"
+                    numberOfLines={1}
+                    ellipsizeMode="tail"
+                  >
                     {nowPlaying.title}
-                  </FadingText>
+                  </Text>
                   {!!nowPlaying.creatorName && (
-                    <FadingText
+                    <Text
                       fontFamily="$body"
                       fontSize="$1"
                       color="$colorSecondary"
+                      numberOfLines={1}
+                      ellipsizeMode="tail"
                       marginTop={-1}
                     >
                       {nowPlaying.creatorName}
-                    </FadingText>
+                    </Text>
                   )}
                 </YStack>
               </XStack>
@@ -185,34 +191,5 @@ function GlassPill({ isDark, children }: { isDark: boolean; children: React.Reac
     >
       {children}
     </BlurView>
-  )
-}
-
-/**
- * Single-line text that fades out on the right edge when overflowed. The mask
- * runs the full width but is mostly opaque — only the last ~12% fades to
- * transparent, so short strings ending before that band stay fully visible.
- */
-function FadingText({
-  children,
-  ...textProps
-}: React.ComponentProps<typeof Text> & { children: React.ReactNode }) {
-  return (
-    <MaskedView
-      style={{ height: undefined }}
-      maskElement={
-        <LinearGradient
-          colors={['black', 'black', 'transparent']}
-          locations={[0, 0.88, 1]}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 0 }}
-          style={{ flex: 1 }}
-        />
-      }
-    >
-      <Text numberOfLines={1} ellipsizeMode="clip" {...textProps}>
-        {children}
-      </Text>
-    </MaskedView>
   )
 }

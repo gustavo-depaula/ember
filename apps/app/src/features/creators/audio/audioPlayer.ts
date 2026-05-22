@@ -12,9 +12,15 @@ let player: SoundHandle | undefined
 let currentItemId: string | undefined
 let pollTimer: ReturnType<typeof setInterval> | undefined
 let progressTimer: ReturnType<typeof setInterval> | undefined
+let pollingStartedAt = 0
 
 const POLL_MS = 1000
 const PROGRESS_PERSIST_MS = 5_000
+// Window after each transport start where we trust the optimistic store state
+// over `player.playing`. expo-audio reports `playing = false` while a remote
+// stream is still buffering, which would otherwise flicker the play/pause
+// icon back and forth on first play.
+const PLAYING_MIRROR_GRACE_MS = 2_500
 
 async function ensureAudioMode(): Promise<void> {
   await setAudioModeAsync({
@@ -28,14 +34,17 @@ async function ensureAudioMode(): Promise<void> {
 
 function startPolling(itemId: string): void {
   stopPolling()
+  pollingStartedAt = Date.now()
   pollTimer = setInterval(() => {
     if (!player) return
     const store = useCreatorsStore.getState()
     store.onTick(player.currentTime ?? 0)
-    // Mirror native playback state so lock-screen / AirPods / end-of-track
-    // events update the in-app UI without a manual togglePlay call.
-    const playing = player.playing
-    if (typeof playing === 'boolean') store.setIsPlaying(playing)
+    // Mirror native playback for lock-screen / AirPods / end-of-track, but
+    // only after the buffering grace window — see PLAYING_MIRROR_GRACE_MS.
+    if (Date.now() - pollingStartedAt > PLAYING_MIRROR_GRACE_MS) {
+      const playing = player.playing
+      if (typeof playing === 'boolean') store.setIsPlaying(playing)
+    }
   }, POLL_MS)
   progressTimer = setInterval(() => {
     if (!player) return

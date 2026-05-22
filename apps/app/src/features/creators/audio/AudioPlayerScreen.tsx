@@ -1,5 +1,5 @@
 import { Image } from 'expo-image'
-import { ChevronLeft, ExternalLink, Pause, Play, RotateCcw, RotateCw } from 'lucide-react-native'
+import { ChevronDown, ExternalLink, Pause, Play, RotateCcw, RotateCw } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -66,7 +66,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
           accessibilityRole="button"
           accessibilityLabel={t('creators.back')}
         >
-          <ChevronLeft size={26} color={theme.accent.val} />
+          <ChevronDown size={28} color={theme.accent.val} />
         </Pressable>
 
         <YStack alignItems="center" gap="$md">

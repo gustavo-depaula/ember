@@ -104,32 +104,31 @@ export const useCreatorsStore = create<CreatorsState>()(
     async play(item) {
       const prev = get().nowPlaying
       if (prev?.itemId === item.itemId) {
-        await backend.play()
         set((s) => {
           s.isPlaying = true
         })
+        await backend.play()
         return
       }
-      if (prev) await backend.unload()
-      await backend.load(item.mediaUrl, item.itemId, {
-        title: item.title,
-        artist: item.creatorName,
-        albumTitle: item.creatorName,
-        artworkUrl: item.imageUri,
-      })
-      // Set nowPlaying BEFORE play() so any subscriber reacting to state
-      // (mini-bar, position slider) sees the new item before audio starts.
+      // Optimistic: render the player UI immediately so the user never sees
+      // "nothing playing" → play → pause flicker while load + play resolve.
+      // Reverted in the catch below if the backend rejects.
       set((s) => {
         s.nowPlaying = item
-        s.isPlaying = false
+        s.isPlaying = true
         s.positionS = 0
       })
       try {
+        if (prev) await backend.unload()
+        await backend.load(item.mediaUrl, item.itemId, {
+          title: item.title,
+          artist: item.creatorName,
+          albumTitle: item.creatorName,
+          artworkUrl: item.imageUri,
+        })
         await backend.play()
       } catch (err) {
-        // The player loaded with lock-screen metadata active; if play() rejects
-        // we must unload to avoid an orphaned MPNowPlayingInfo widget.
-        await backend.unload()
+        await backend.unload().catch(() => undefined)
         set((s) => {
           s.nowPlaying = undefined
           s.isPlaying = false
@@ -137,9 +136,6 @@ export const useCreatorsStore = create<CreatorsState>()(
         })
         throw err
       }
-      set((s) => {
-        s.isPlaying = true
-      })
     },
 
     async togglePlay() {
