@@ -1,0 +1,16 @@
+{
+  "key": "news",
+  "name": { "en-US": "News sites", "pt-BR": "Sites de notícias" },
+  "domains": [
+    "cnn.com",
+    "foxnews.com",
+    "bbc.com",
+    "nytimes.com",
+    "washingtonpost.com",
+    "theguardian.com",
+    "reuters.com",
+    "apnews.com",
+    "g1.globo.com",
+    "uol.com.br"
+  ]
+}

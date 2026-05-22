@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import type { Primitive, FlowNode, Include } from './primitives'
+import type { FlowNode, Include, Primitive } from './primitives'
 
 describe('Primitive vocabulary', () => {
   // The renderer will switch on `type`; this test pins the surface so a

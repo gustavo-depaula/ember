@@ -12,7 +12,12 @@
       "bundleIdentifier": "me.dpgu.ember",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
-        "UIBackgroundModes": ["audio"]
+        "UIBackgroundModes": ["audio"],
+        "EMBER_CUSTODY_APP_GROUP": "group.me.dpgu.ember"
+      },
+      "entitlements": {
+        "com.apple.developer.family-controls": true,
+        "com.apple.security.application-groups": ["group.me.dpgu.ember"]
       }
     },
     "android": {
@@ -49,6 +54,19 @@
             "image": "./assets/splash-icon.png",
             "backgroundColor": "#0E0D0C"
           }
+        }
+      ],
+      [
+        "react-native-device-activity",
+        {
+          "appleTeamId": "REPLACE_WITH_APPLE_TEAM_ID",
+          "appGroup": "group.me.dpgu.ember"
+        }
+      ],
+      [
+        "./plugins/withCustodyIOS",
+        {
+          "appGroup": "group.me.dpgu.ember"
         }
       ]
     ],

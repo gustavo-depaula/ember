@@ -8,6 +8,7 @@ import {
   CloudDownload,
   Library,
   Loader,
+  Shield,
 } from 'lucide-react-native'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -32,6 +33,7 @@ import {
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
 import { tierConfig } from '@/config/constants'
+import { flags } from '@/config/flags'
 import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { useEventStore } from '@/db/events'
@@ -305,6 +307,37 @@ export default function PlanScreen() {
             </AnimatedPressable>
           </View>
         </XStack>
+
+        {flags.custody && (
+          <AnimatedPressable
+            onPress={() => router.push('/custody')}
+            accessibilityRole="link"
+            accessibilityLabel={t('custody.title')}
+          >
+            <XStack
+              alignItems="center"
+              gap="$md"
+              padding="$md"
+              borderWidth={0.5}
+              borderColor="$borderColor"
+              borderRadius="$lg"
+              backgroundColor="$backgroundSurface"
+            >
+              <Shield size={22} color={theme.accent.val} />
+              <YStack flex={1} gap={2}>
+                <Text fontFamily="$heading" fontSize="$3" color="$color">
+                  {t('custody.title')}
+                </Text>
+                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                  {t('custody.tagline')}
+                </Text>
+              </YStack>
+              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+                ›
+              </Text>
+            </XStack>
+          </AnimatedPressable>
+        )}
 
         {practiceGroups.length > 0 && (
           <PinPlanButton practiceIds={practiceGroups.map((g) => g.practiceId)} />

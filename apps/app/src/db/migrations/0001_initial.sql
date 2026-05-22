@@ -105,3 +105,49 @@ CREATE TABLE IF NOT EXISTS external_content (
   pinned           INTEGER NOT NULL DEFAULT 0,
   PRIMARY KEY (producer_id, producer_version, lang, cache_key, params_key)
 );
+
+-- Custody: ascetical commitments (the negative half of the rule of life).
+-- Every commitment enforces — there is no "log only" tier. Tables here are
+-- CRUD-shaped, not event-sourced; `commitment_events` is append-only by
+-- repository convention.
+CREATE TABLE IF NOT EXISTS commitments (
+  id              TEXT PRIMARY KEY,
+  name            TEXT NOT NULL,
+  description     TEXT,
+  kind            TEXT NOT NULL CHECK (kind IN ('abstain', 'time-limit', 'time-fence')),
+  targets         TEXT NOT NULL,                                       -- JSON Target[]
+  schedule        TEXT NOT NULL,                                       -- JSON Schedule
+  friction        TEXT NOT NULL CHECK (friction IN ('none', 'wait', 'prayer')),
+  friction_config TEXT,                                                -- JSON FrictionConfig
+  fence_start     TEXT,                                                -- HH:mm, only for kind = 'time-fence'
+  fence_end       TEXT,                                                -- HH:mm, only for kind = 'time-fence'
+  limit_seconds   INTEGER,                                             -- only for kind = 'time-limit'
+  archived        INTEGER NOT NULL DEFAULT 0,
+  created_at      INTEGER NOT NULL,
+  updated_at      INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS commitments_active ON commitments(archived) WHERE archived = 0;
+
+CREATE TABLE IF NOT EXISTS commitment_events (
+  id            TEXT PRIMARY KEY,
+  commitment_id TEXT NOT NULL REFERENCES commitments(id) ON DELETE CASCADE,
+  type          TEXT NOT NULL CHECK (type IN ('kept', 'paused', 'overrode')),
+  occurred_at   INTEGER NOT NULL,
+  note          TEXT,
+  metadata      TEXT                                                   -- JSON
+);
+CREATE INDEX IF NOT EXISTS commitment_events_by_commitment
+  ON commitment_events(commitment_id, occurred_at DESC);
+CREATE INDEX IF NOT EXISTS commitment_events_by_type
+  ON commitment_events(type, occurred_at DESC);
+
+CREATE TABLE IF NOT EXISTS custody_sessions (
+  id              TEXT PRIMARY KEY,
+  anchor_ref      TEXT NOT NULL,
+  anchor_type     TEXT NOT NULL CHECK (anchor_type IN ('text', 'image', 'prayer', 'lectio', 'silence')),
+  planned_seconds INTEGER NOT NULL,
+  started_at      INTEGER NOT NULL,
+  completed_at    INTEGER,
+  ended_reason    TEXT CHECK (ended_reason IN ('completed', 'aborted', 'app-killed'))
+);
+CREATE INDEX IF NOT EXISTS custody_sessions_recent ON custody_sessions(started_at DESC);

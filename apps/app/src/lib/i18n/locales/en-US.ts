@@ -1479,4 +1479,233 @@ export default {
         '{{count}} items will be removed from offline storage. Streaming still works while online.',
     },
   },
+  custody: {
+    title: 'Custody',
+    tagline: 'What you refuse, kept under prayer.',
+    activeToday: "TODAY'S COMMITMENTS",
+    startWithTemplate: 'START WITH A TEMPLATE',
+    a11y: {
+      settings: 'Settings',
+    },
+    banner: {
+      title: 'Custody enforcement disabled',
+      body: 'Screen Time access was revoked. Bound commitments are running as Firm until you re-enable Ember in Settings → Screen Time.',
+      openSettings: 'Open Settings',
+    },
+    deleteConfirm: {
+      title: 'Delete this commitment?',
+      body: 'It will stop enforcing and disappear from your list. Cannot be undone.',
+      confirm: 'Delete',
+    },
+    prayer: {
+      ourFather: {
+        title: 'Our Father',
+        text: 'Our Father, who art in heaven, hallowed be thy name.\nThy kingdom come; thy will be done on earth as it is in heaven.\nGive us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us.\nAnd lead us not into temptation, but deliver us from evil.\nAmen.',
+      },
+      dwell: {
+        hint: 'Take a moment with this prayer.',
+        countdown: '{{seconds}}s',
+      },
+    },
+    frictionDepth: {
+      label: 'Prayer depth',
+      shallow: {
+        label: 'One-tap',
+        help: 'A single tap acknowledgement.',
+      },
+      deep: {
+        label: 'Pray with time',
+        help: 'Read a prayer; the button enables after 30 seconds.',
+      },
+    },
+    empty: {
+      heading: 'No commitments yet.',
+      cta: 'Add your first commitment',
+    },
+    commitments: {
+      create: 'New commitment',
+      edit: 'Edit commitment',
+    },
+    kinds: {
+      abstain: {
+        label: 'Abstain',
+        help: 'I will not use this — full stop.',
+      },
+      'time-limit': {
+        label: 'Daily limit',
+        help: 'I will use this for no more than a given amount each day.',
+      },
+      'time-fence': {
+        label: 'Time fence',
+        help: 'I will not use this between certain hours.',
+      },
+    },
+    targets: {
+      domain: 'Domains',
+      lists: 'Curated lists',
+      apps: 'Apps',
+      curatedHelp: 'Tap a list to include its domains.',
+      privacy: "Apple keeps your selection private. Ember can't see which apps you pick.",
+      shortcutsHeading: 'Add quick web shortcuts',
+      shortcutsHelp: 'Blocks these in Safari alongside any apps you picked. No prayer shield.',
+      iosOnly: 'App selection is iOS only (and requires the Custody dev client).',
+    },
+    severity: {
+      light: {
+        label: 'Light',
+        help: 'Logged at examen and confession prep. Not enforced.',
+      },
+      firm: {
+        label: 'Firm',
+        help: 'Logged with gentle reminders. Not enforced.',
+      },
+      bound: {
+        label: 'Bound',
+        help: 'Enforced by your phone.',
+        'coming-ios': 'Coming on iOS — for now this acts as Firm.',
+        'coming-android': 'Coming on Android in v2 — for now this acts as Firm.',
+      },
+    },
+    friction: {
+      none: { label: 'No friction' },
+      wait: { label: 'Wait before disabling' },
+      prayer: { label: 'Pray before disabling' },
+    },
+    shield: {
+      cta: {
+        pray: 'Pray and continue blocking',
+        disable: 'Disable temporarily',
+      },
+      kept: {
+        eyebrow: 'YOU KEPT IT',
+        confirm: 'Amen — I prayed',
+      },
+      override: {
+        eyebrow: 'LIFTING THE SHIELD',
+        warn: 'This will unblock for the rest of today.',
+        confirm: 'I have prayed — lift the shield',
+      },
+    },
+    session: {
+      start: 'Begin custody',
+      duration: {
+        '5': '5 minutes',
+        '10': '10 minutes',
+        '20': '20 minutes',
+        '40': '40 minutes',
+        '60': '60 minutes',
+      },
+    },
+    anchor: {
+      kinds: {
+        text: 'Verse or saying',
+        prayer: 'Prayer',
+        lectio: 'Lectio passage',
+        image: 'Sacred image',
+        silence: 'Silence',
+      },
+    },
+    editor: {
+      name: { placeholder: 'Name this commitment' },
+      save: {
+        create: 'Create',
+        edit: 'Save changes',
+        template: 'Begin custody',
+      },
+      sheet: {
+        targets: 'Apps & Sites',
+        override: 'When you try to disable',
+      },
+      section: {
+        apps: 'Apps & Sites',
+        schedule: 'Schedule',
+        override: 'If I try to disable',
+        daysOf: 'On these days',
+      },
+      kindChip: {
+        abstain: 'Always',
+        'time-fence': 'Hours',
+        'time-limit': 'Daily limit',
+      },
+      frictionChip: {
+        none: 'Instant disable',
+        wait: 'Wait to disable',
+        prayer: 'Pray to disable',
+      },
+      summary: {
+        daysDaily: 'Daily',
+        daysWeekdays: 'Weekdays',
+        daysWeekends: 'Weekends',
+        daysNone: 'No days',
+        targetsNone: 'None',
+        fence: '{{start}}–{{end}}',
+        limit: 'Max {{count}} min / day',
+        kindAlways: 'Always',
+      },
+      overline: {
+        abstain: 'ABSTAIN',
+        'time-limit': 'LIMIT',
+        'time-fence': 'HOURS',
+      },
+      limit: {
+        suffix: 'minutes per day',
+      },
+      targets: {
+        apps_one: '{{count}} app',
+        apps_other: '{{count}} apps',
+        domains_one: '{{count}} domain',
+        domains_other: '{{count}} domains',
+        lists_one: '{{count}} list',
+        lists_other: '{{count}} lists',
+      },
+      a11y: {
+        close: 'Close',
+        dayToggle: 'Toggle {{day}}',
+      },
+      fencePreset: {
+        bedtime: { label: 'Bedtime' },
+        work: { label: 'Work hours' },
+        evening: { label: 'Evening' },
+        morning: { label: 'Morning' },
+      },
+    },
+    onboarding: {
+      steps: {
+        intro: {
+          title: 'Custody is your phone helping you keep your word.',
+          body: 'You decide what to shield, and you can lift it any time — Custody is ascetical aid, not jail.',
+        },
+        singleUser: {
+          title: 'Custody is single-user.',
+          body: 'No one else controls your apps. There is no guardian, no remote, no shared account.',
+        },
+        privacy: {
+          title: 'We never see which apps you pick.',
+          body: 'Apple keeps that private. Ember can only ask the system to shield what you select.',
+        },
+      },
+      back: 'Back',
+      continue: 'Continue',
+      alreadyGranted: 'Screen Time access already granted. You can proceed.',
+    },
+    runner: {
+      idle: 'No session in progress.',
+      back: '‹ Back',
+      complete: {
+        title: 'Deo gratias',
+        body: 'Session complete.',
+        continue: 'Continue',
+      },
+      controls: {
+        pause: 'Pause',
+        resume: 'Resume',
+        stop: 'Stop',
+      },
+      stopConfirm: {
+        title: 'End this session?',
+        body: 'The remaining time will be recorded as aborted. You can always start another.',
+      },
+      elapsed: '{{time}} elapsed',
+    },
+  },
 } as const

@@ -1486,4 +1486,234 @@ export default {
         '{{count}} itens serão removidos do armazenamento offline. Streaming continua funcionando com internet.',
     },
   },
+  custody: {
+    title: 'Custódia',
+    tagline: 'O que você recusa, guardado em oração.',
+    activeToday: 'PROPÓSITOS DE HOJE',
+    startWithTemplate: 'COMECE COM UM MODELO',
+    a11y: {
+      settings: 'Ajustes',
+    },
+    banner: {
+      title: 'Aplicação da custódia desativada',
+      body: 'O acesso ao Tempo de Uso foi revogado. Propósitos vinculados estão atuando como Firmes até você reativar o Ember em Ajustes → Tempo de Uso.',
+      openSettings: 'Abrir Ajustes',
+    },
+    deleteConfirm: {
+      title: 'Excluir este propósito?',
+      body: 'Ele deixará de ser aplicado e sumirá da sua lista. Não pode ser desfeito.',
+      confirm: 'Excluir',
+    },
+    prayer: {
+      ourFather: {
+        title: 'Pai Nosso',
+        text: 'Pai Nosso, que estais nos céus, santificado seja o vosso nome.\nVenha a nós o vosso reino; seja feita a vossa vontade, assim na terra como no céu.\nO pão nosso de cada dia nos dai hoje; e perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido.\nE não nos deixeis cair em tentação, mas livrai-nos do mal.\nAmém.',
+      },
+      dwell: {
+        hint: 'Demore com esta oração.',
+        countdown: '{{seconds}}s',
+      },
+    },
+    frictionDepth: {
+      label: 'Profundidade da oração',
+      shallow: {
+        label: 'Um toque',
+        help: 'Apenas um toque de reconhecimento.',
+      },
+      deep: {
+        label: 'Rezar com tempo',
+        help: 'Reza uma oração; o botão é liberado após 30 segundos.',
+      },
+    },
+    empty: {
+      heading: 'Nenhum propósito ainda.',
+      cta: 'Adicionar primeiro propósito',
+    },
+    commitments: {
+      create: 'Novo propósito',
+      edit: 'Editar propósito',
+    },
+    kinds: {
+      abstain: {
+        label: 'Abster-se',
+        help: 'Não usarei isto — sem exceções.',
+      },
+      'time-limit': {
+        label: 'Limite diário',
+        help: 'Usarei isto por no máximo um certo tempo a cada dia.',
+      },
+      'time-fence': {
+        label: 'Horário restrito',
+        help: 'Não usarei isto entre certas horas.',
+      },
+    },
+    targets: {
+      domain: 'Domínios',
+      lists: 'Listas prontas',
+      apps: 'Apps',
+      curatedHelp: 'Toque numa lista para incluir seus domínios.',
+      privacy: 'A Apple mantém sua seleção privada. O Ember não vê quais apps você escolhe.',
+      shortcutsHeading: 'Adicionar atalhos da web',
+      shortcutsHelp:
+        'Bloqueia estes no Safari junto com os apps que você selecionou. Sem proteção de oração.',
+      iosOnly: 'Seleção de apps é só no iOS (e requer o cliente Custody de desenvolvimento).',
+    },
+    severity: {
+      light: {
+        label: 'Leve',
+        help: 'Registrado no exame de consciência e na preparação da confissão. Sem bloqueio.',
+      },
+      firm: {
+        label: 'Firme',
+        help: 'Registrado, com lembretes suaves. Sem bloqueio.',
+      },
+      bound: {
+        label: 'Vinculado',
+        help: 'Aplicado pelo seu aparelho.',
+        'coming-ios': 'Em breve no iOS — por ora age como Firme.',
+        'coming-android': 'Em breve no Android (v2) — por ora age como Firme.',
+      },
+    },
+    friction: {
+      none: { label: 'Sem resistência' },
+      wait: { label: 'Esperar antes de desativar' },
+      prayer: { label: 'Rezar antes de desativar' },
+    },
+    shield: {
+      cta: {
+        pray: 'Rezar e seguir bloqueando',
+        disable: 'Desativar temporariamente',
+      },
+      kept: {
+        eyebrow: 'VOCÊ MANTEVE',
+        confirm: 'Amém — rezei',
+      },
+      override: {
+        eyebrow: 'LEVANTANDO A PROTEÇÃO',
+        warn: 'Isto liberará o bloqueio pelo resto do dia.',
+        confirm: 'Eu rezei — liberar a proteção',
+      },
+    },
+    session: {
+      start: 'Iniciar custódia',
+      duration: {
+        '5': '5 minutos',
+        '10': '10 minutos',
+        '20': '20 minutos',
+        '40': '40 minutos',
+        '60': '60 minutos',
+      },
+    },
+    anchor: {
+      kinds: {
+        text: 'Versículo ou frase',
+        prayer: 'Oração',
+        lectio: 'Lectio',
+        image: 'Imagem sagrada',
+        silence: 'Silêncio',
+      },
+    },
+    editor: {
+      name: { placeholder: 'Nomeie este propósito' },
+      save: {
+        create: 'Criar',
+        edit: 'Salvar alterações',
+        template: 'Iniciar custódia',
+      },
+      sheet: {
+        targets: 'Apps e Sites',
+        override: 'Ao tentar desativar',
+      },
+      section: {
+        apps: 'Apps e Sites',
+        schedule: 'Horário',
+        override: 'Ao tentar desativar',
+        daysOf: 'Nestes dias',
+      },
+      kindChip: {
+        abstain: 'Sempre',
+        'time-fence': 'Horas',
+        'time-limit': 'Limite diário',
+      },
+      frictionChip: {
+        none: 'Desativar na hora',
+        wait: 'Aguardar para desativar',
+        prayer: 'Rezar para desativar',
+      },
+      summary: {
+        daysDaily: 'Todos os dias',
+        daysWeekdays: 'Dias úteis',
+        daysWeekends: 'Fins de semana',
+        daysNone: 'Nenhum dia',
+        targetsNone: 'Nenhum',
+        fence: '{{start}}–{{end}}',
+        limit: 'Máx. {{count}} min / dia',
+        kindAlways: 'Sempre',
+      },
+      overline: {
+        abstain: 'ABSTER',
+        'time-limit': 'LIMITE',
+        'time-fence': 'HORAS',
+      },
+      limit: {
+        suffix: 'minutos por dia',
+      },
+      targets: {
+        apps_one: '{{count}} app',
+        apps_other: '{{count}} apps',
+        domains_one: '{{count}} domínio',
+        domains_other: '{{count}} domínios',
+        lists_one: '{{count}} lista',
+        lists_other: '{{count}} listas',
+      },
+      a11y: {
+        close: 'Fechar',
+        dayToggle: 'Alternar {{day}}',
+      },
+      fencePreset: {
+        bedtime: { label: 'Hora de dormir' },
+        work: { label: 'Expediente' },
+        evening: { label: 'Noite' },
+        morning: { label: 'Manhã' },
+      },
+    },
+    onboarding: {
+      steps: {
+        intro: {
+          title: 'A custódia é o seu celular ajudando você a manter sua palavra.',
+          body: 'Você decide o que proteger e pode liberar a qualquer momento — a custódia é ajuda ascética, não cárcere.',
+        },
+        singleUser: {
+          title: 'A custódia é individual.',
+          body: 'Ninguém mais controla seus apps. Não há tutor, controle remoto nem conta compartilhada.',
+        },
+        privacy: {
+          title: 'Nunca vemos quais apps você escolhe.',
+          body: 'A Apple mantém isso privado. O Ember só pode pedir ao sistema para proteger o que você seleciona.',
+        },
+      },
+      back: 'Voltar',
+      continue: 'Continuar',
+      alreadyGranted: 'Acesso ao Tempo de Uso já concedido. Você pode prosseguir.',
+    },
+    runner: {
+      idle: 'Nenhuma sessão em andamento.',
+      back: '‹ Voltar',
+      complete: {
+        title: 'Deo gratias',
+        body: 'Sessão concluída.',
+        continue: 'Continuar',
+      },
+      controls: {
+        pause: 'Pausar',
+        resume: 'Retomar',
+        stop: 'Parar',
+      },
+      stopConfirm: {
+        title: 'Encerrar esta sessão?',
+        body: 'O tempo restante será registrado como abortado. Você pode iniciar outra a qualquer momento.',
+      },
+      elapsed: '{{time}} decorrido',
+    },
+  },
 } as const
