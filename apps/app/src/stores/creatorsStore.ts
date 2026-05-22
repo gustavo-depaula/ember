@@ -61,6 +61,10 @@ let backend: AudioBackend = noopBackend
 type CreatorsState = {
   nowPlaying?: NowPlayingItem
   isPlaying: boolean
+  /** True while the player is loading / buffering the audio. Drives the
+   * spinner state on the play/pause controls so the user has feedback
+   * during the gap between tap and audible playback. */
+  isBuffering: boolean
   positionS: number
   speed: number
   setBackend: (backend: AudioBackend) => void
@@ -74,6 +78,7 @@ type CreatorsState = {
    * playback from the lock screen, Control Center, or AirPods, so the UI
    * reflects native state without going through `togglePlay`. */
   setIsPlaying: (isPlaying: boolean) => void
+  setIsBuffering: (isBuffering: boolean) => void
   reset: () => void
 }
 
@@ -94,6 +99,7 @@ export const useCreatorsStore = create<CreatorsState>()(
   immer((set, get) => ({
     nowPlaying: undefined,
     isPlaying: false,
+    isBuffering: false,
     positionS: 0,
     speed: 1,
 
@@ -112,10 +118,12 @@ export const useCreatorsStore = create<CreatorsState>()(
       }
       // Optimistic: render the player UI immediately so the user never sees
       // "nothing playing" → play → pause flicker while load + play resolve.
-      // Reverted in the catch below if the backend rejects.
+      // `isBuffering = true` keeps the spinner showing until the player's
+      // status listener reports the buffer is ready and playback has begun.
       set((s) => {
         s.nowPlaying = item
         s.isPlaying = true
+        s.isBuffering = true
         s.positionS = 0
       })
       try {
@@ -132,6 +140,7 @@ export const useCreatorsStore = create<CreatorsState>()(
         set((s) => {
           s.nowPlaying = undefined
           s.isPlaying = false
+          s.isBuffering = false
           s.positionS = 0
         })
         throw err
@@ -173,6 +182,7 @@ export const useCreatorsStore = create<CreatorsState>()(
       set((s) => {
         s.nowPlaying = undefined
         s.isPlaying = false
+        s.isBuffering = false
         s.positionS = 0
       })
     },
@@ -193,11 +203,19 @@ export const useCreatorsStore = create<CreatorsState>()(
       })
     },
 
+    setIsBuffering(isBuffering) {
+      if (get().isBuffering === isBuffering) return
+      set((s) => {
+        s.isBuffering = isBuffering
+      })
+    },
+
     reset() {
       backend = noopBackend
       set((s) => {
         s.nowPlaying = undefined
         s.isPlaying = false
+        s.isBuffering = false
         s.positionS = 0
         s.speed = 1
       })

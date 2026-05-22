@@ -12,7 +12,7 @@ import { Image } from 'expo-image'
 import { Link, usePathname } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Platform, Pressable, View } from 'react-native'
+import { ActivityIndicator, Platform, Pressable, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, useThemeName, XStack, YStack } from 'tamagui'
 
@@ -37,6 +37,7 @@ export function NowPlayingBar() {
   const isDark = useThemeName().startsWith('dark')
   const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
   const isPlaying = useCreatorsStore((s) => s.isPlaying)
+  const isBuffering = useCreatorsStore((s) => s.isBuffering)
   const togglePlay = useCreatorsStore((s) => s.togglePlay)
   const stop = useCreatorsStore((s) => s.stop)
 
@@ -137,11 +138,19 @@ export function NowPlayingBar() {
         <Pressable
           hitSlop={12}
           onPress={() => void togglePlay()}
+          disabled={isBuffering}
           accessibilityRole="button"
           accessibilityLabel={isPlaying ? t('creators.pause') : t('creators.play')}
-          style={{ paddingHorizontal: 6, paddingVertical: 6 }}
+          style={{
+            paddingHorizontal: 6,
+            paddingVertical: 6,
+            width: 38,
+            alignItems: 'center',
+          }}
         >
-          {isPlaying ? (
+          {isBuffering ? (
+            <ActivityIndicator size="small" color={theme.accent.val} />
+          ) : isPlaying ? (
             <Pause size={26} color={theme.accent.val} />
           ) : (
             <Play size={26} color={theme.accent.val} />

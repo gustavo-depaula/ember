@@ -1,26 +1,25 @@
 /** expo-audio backend wired into the creators store at boot. */
 
-import { createAudioPlayer, setAudioModeAsync } from 'expo-audio'
+import { type AudioStatus, createAudioPlayer, setAudioModeAsync } from 'expo-audio'
 
 import { recordProgress } from '@/db/repositories/mediaProgress'
 import type { AudioBackend } from '@/stores/creatorsStore'
 import { useCreatorsStore } from '@/stores/creatorsStore'
 
 type SoundHandle = ReturnType<typeof createAudioPlayer>
+type Subscription = { remove(): void }
 
 let player: SoundHandle | undefined
 let currentItemId: string | undefined
-let pollTimer: ReturnType<typeof setInterval> | undefined
+let statusSubscription: Subscription | undefined
 let progressTimer: ReturnType<typeof setInterval> | undefined
-let pollingStartedAt = 0
+// Tracks whether the active player has reported `playing = true` at least
+// once. Used to ignore the idle pre-play status (`playing=false, buffering=false`)
+// that can fire between createAudioPlayer and player.play(), which would
+// otherwise revert the optimistic isPlaying=true the store sets on tap.
+let hasStartedPlaying = false
 
-const POLL_MS = 1000
 const PROGRESS_PERSIST_MS = 5_000
-// Window after each transport start where we trust the optimistic store state
-// over `player.playing`. expo-audio reports `playing = false` while a remote
-// stream is still buffering, which would otherwise flicker the play/pause
-// icon back and forth on first play.
-const PLAYING_MIRROR_GRACE_MS = 2_500
 
 async function ensureAudioMode(): Promise<void> {
   await setAudioModeAsync({
@@ -32,20 +31,41 @@ async function ensureAudioMode(): Promise<void> {
   })
 }
 
-function startPolling(itemId: string): void {
-  stopPolling()
-  pollingStartedAt = Date.now()
-  pollTimer = setInterval(() => {
-    if (!player) return
-    const store = useCreatorsStore.getState()
-    store.onTick(player.currentTime ?? 0)
-    // Mirror native playback for lock-screen / AirPods / end-of-track, but
-    // only after the buffering grace window — see PLAYING_MIRROR_GRACE_MS.
-    if (Date.now() - pollingStartedAt > PLAYING_MIRROR_GRACE_MS) {
-      const playing = player.playing
-      if (typeof playing === 'boolean') store.setIsPlaying(playing)
-    }
-  }, POLL_MS)
+function handleStatus(status: AudioStatus): void {
+  const store = useCreatorsStore.getState()
+  store.onTick(status.currentTime ?? 0)
+  if (status.playing) {
+    hasStartedPlaying = true
+    store.setIsBuffering(false)
+    store.setIsPlaying(true)
+    return
+  }
+  if (status.isBuffering) {
+    store.setIsBuffering(true)
+    return
+  }
+  // playing=false, isBuffering=false. Only mirror to the store once we've
+  // actually seen playback start; otherwise this can fire for the brief idle
+  // window right after createAudioPlayer and revert the optimistic state.
+  if (hasStartedPlaying) {
+    store.setIsBuffering(false)
+    store.setIsPlaying(false)
+  }
+}
+
+function attachStatusListener(): void {
+  detachStatusListener()
+  if (!player) return
+  statusSubscription = player.addListener('playbackStatusUpdate', handleStatus)
+}
+
+function detachStatusListener(): void {
+  statusSubscription?.remove()
+  statusSubscription = undefined
+}
+
+function startProgressTimer(itemId: string): void {
+  stopProgressTimer()
   progressTimer = setInterval(() => {
     if (!player) return
     void recordProgress(itemId, player.currentTime ?? 0, player.duration ?? undefined).catch(
@@ -54,15 +74,14 @@ function startPolling(itemId: string): void {
   }, PROGRESS_PERSIST_MS)
 }
 
-function stopPolling(): void {
-  if (pollTimer) clearInterval(pollTimer)
+function stopProgressTimer(): void {
   if (progressTimer) clearInterval(progressTimer)
-  pollTimer = undefined
   progressTimer = undefined
 }
 
 function tearDownPlayer(): void {
   if (!player) return
+  detachStatusListener()
   player.clearLockScreenControls()
   player.remove()
   player = undefined
@@ -74,6 +93,8 @@ export const audioBackend: AudioBackend = {
     tearDownPlayer()
     player = createAudioPlayer({ uri })
     currentItemId = itemId
+    hasStartedPlaying = false
+    attachStatusListener()
     if (metadata) {
       player.setActiveForLockScreen(
         true,
@@ -90,12 +111,12 @@ export const audioBackend: AudioBackend = {
   async play() {
     if (!player) return
     player.play()
-    if (currentItemId) startPolling(currentItemId)
+    if (currentItemId) startProgressTimer(currentItemId)
   },
   async pause() {
     if (!player) return
     player.pause()
-    stopPolling()
+    stopProgressTimer()
   },
   async seek(s) {
     if (!player) return
@@ -106,7 +127,7 @@ export const audioBackend: AudioBackend = {
     player.setPlaybackRate(rate)
   },
   async unload() {
-    stopPolling()
+    stopProgressTimer()
     tearDownPlayer()
     currentItemId = undefined
   },
