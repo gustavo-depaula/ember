@@ -1,4 +1,4 @@
-import { type ReactNode, useEffect, useRef, useState } from 'react'
+import { type ReactNode, useEffect, useMemo, useRef, useState } from 'react'
 import {
   type LayoutChangeEvent,
   type NativeScrollEvent,
@@ -26,14 +26,14 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
   // wrap. After the gesture settles, we silently jump to the real index. The
   // duplicated slots get distinct keys so React does not collapse them with
   // the real pages.
-  const slides: Array<{ key: string; node: ReactNode }> =
-    n > 1
-      ? [
-          { key: `head-${pages[n - 1].key}`, node: pages[n - 1].node },
-          ...pages.map((p) => ({ key: p.key, node: p.node })),
-          { key: `tail-${pages[0].key}`, node: pages[0].node },
-        ]
-      : pages.map((p) => ({ key: p.key, node: p.node }))
+  const slides = useMemo<CarouselPage[]>(() => {
+    if (n <= 1) return pages
+    return [
+      { key: `head-${pages[n - 1].key}`, node: pages[n - 1].node },
+      ...pages,
+      { key: `tail-${pages[0].key}`, node: pages[0].node },
+    ]
+  }, [pages, n])
 
   useEffect(() => {
     if (n <= 1 || width === 0 || !scrollRef.current) return

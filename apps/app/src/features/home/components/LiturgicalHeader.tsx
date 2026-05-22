@@ -21,7 +21,6 @@ export function LiturgicalHeader({
 }: {
   date: Date
   season: LiturgicalSeason
-  rose?: boolean
   today: string
   onSelectDate: (date: string) => void
 }) {

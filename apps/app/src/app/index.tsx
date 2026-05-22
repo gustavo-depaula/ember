@@ -57,9 +57,7 @@ import {
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import {
-  computeEaster,
   getCelebrationsForDate,
-  getFirstSundayOfAdvent,
   getLiturgicalSeason,
   type LiturgicalCalendarForm,
   normalizeDate,
@@ -93,17 +91,10 @@ export default function HomeScreen() {
   const router = useRouter()
   const slots = useSlots()
 
-  const { season, isRose } = useMemo(() => {
-    const s = getLiturgicalSeason(now, liturgicalCalendar)
-    const year = now.getFullYear()
-    const easter = computeEaster(year)
-    const advent1 = getFirstSundayOfAdvent(year)
-    const gaudete = new Date(advent1.getTime() + 14 * 86400000)
-    const laetare = new Date(easter.getTime() - 21 * 86400000)
-    const t = now.getTime()
-    const rose = t === normalizeDate(gaudete).getTime() || t === normalizeDate(laetare).getTime()
-    return { season: s, isRose: rose }
-  }, [now, liturgicalCalendar])
+  const season = useMemo(
+    () => getLiturgicalSeason(now, liturgicalCalendar),
+    [now, liturgicalCalendar],
+  )
 
   const todayCompletions = useCompletionsForDate(selectedDate)
   const toggle = useToggleSlot()
@@ -134,6 +125,14 @@ export default function HomeScreen() {
     const dayCalendar = getCelebrationsForDate(yearCalendar, now)
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
+
+  const carouselPages: CarouselPage[] = [{ key: 'devotion', node: <DiesDevotion date={now} /> }]
+  if (scheduleCtx?.dayCalendar?.principal) {
+    carouselPages.push({ key: 'celebration', node: <CelebrationOfDay date={now} /> })
+  }
+  if (hasUpcomingFeast) {
+    carouselPages.push({ key: 'seasonal', node: <SeasonalContext date={now} /> })
+  }
 
   const completionsBySlot = useCompletionDatesBySlot()
   const todaySlots = useMemo(
@@ -193,27 +192,12 @@ export default function HomeScreen() {
           <LiturgicalHeader
             date={now}
             season={season}
-            rose={isRose}
             today={anchorDate}
             onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
           />
 
           <FadeInView>
-            <DailyCarousel
-              pages={
-                [
-                  { key: 'devotion', node: <DiesDevotion date={now} /> },
-                  scheduleCtx?.dayCalendar?.principal && {
-                    key: 'celebration',
-                    node: <CelebrationOfDay date={now} />,
-                  },
-                  hasUpcomingFeast && {
-                    key: 'seasonal',
-                    node: <SeasonalContext date={now} />,
-                  },
-                ].filter(Boolean) as CarouselPage[]
-              }
-            />
+            <DailyCarousel pages={carouselPages} />
           </FadeInView>
         </YStack>
 

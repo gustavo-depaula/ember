@@ -9,10 +9,10 @@ import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeC
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
 
-const tierDotKeys: Record<ChecklistItem['tier'], readonly string[]> = {
-  essential: ['primary', 'secondary'],
-  ideal: ['primary'],
-  extra: [],
+const tierDotCount: Record<ChecklistItem['tier'], number> = {
+  essential: 2,
+  ideal: 1,
+  extra: 0,
 }
 
 export function TimeBlockSection({
@@ -137,7 +137,7 @@ export function TimeBlockSection({
       {items.map((item) => {
         const done = completedIds.has(item.id)
         const needsRestart = restartNeededIds?.has(item.practice_id) ?? false
-        const dotKeys = tierDotKeys[item.tier]
+        const dots = tierDotCount[item.tier]
         return (
           <Pressable
             key={item.id}
@@ -188,17 +188,22 @@ export function TimeBlockSection({
                   </XStack>
                 )}
               </YStack>
-              {dotKeys.length > 0 && !done && (
+              {dots > 0 && !done && (
                 <XStack alignItems="center" gap={4}>
-                  {dotKeys.map((k) => (
+                  {dots === 2 && (
                     <View
-                      key={k}
                       width={6}
                       height={6}
                       borderRadius={3}
                       backgroundColor={tierConfig[item.tier].color}
                     />
-                  ))}
+                  )}
+                  <View
+                    width={6}
+                    height={6}
+                    borderRadius={3}
+                    backgroundColor={tierConfig[item.tier].color}
+                  />
                 </XStack>
               )}
               <ChevronRight size={16} color={theme.accentSubtle?.val} />
