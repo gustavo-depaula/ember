@@ -11,6 +11,8 @@ export type NowPlayingItem = {
   itemId: string
   creatorId: string
   title: string
+  /** Localized creator display name. Surfaced on the lock screen as the artist. */
+  creatorName?: string
   imageUri?: string
   durationS?: number
   /** Resolved playback URI: `file://…` for pinned media, otherwise the stream URL. */
@@ -22,10 +24,20 @@ export type NowPlayingItem = {
   publishedAt?: number
 }
 
+/** Metadata used to populate iOS lock-screen / Control Center / CarPlay. */
+export type AudioBackendMetadata = {
+  title: string
+  artist?: string
+  albumTitle?: string
+  artworkUrl?: string
+}
+
 export type AudioBackend = {
   /** `itemId` lets the backend track which item it's playing without
-   * reading from the store mid-flight (the store updates after load). */
-  load: (uri: string, itemId: string) => Promise<void>
+   * reading from the store mid-flight (the store updates after load).
+   * `metadata` is passed at load time so the lock-screen controls appear
+   * immediately, before the user taps play. */
+  load: (uri: string, itemId: string, metadata?: AudioBackendMetadata) => Promise<void>
   play: () => Promise<void>
   pause: () => Promise<void>
   seek: (s: number) => Promise<void>
@@ -58,11 +70,17 @@ type CreatorsState = {
   setSpeed: (rate: number) => Promise<void>
   stop: () => Promise<void>
   onTick: (positionS: number) => void
+  /** Sync the play/pause flag from the backend — used when the user toggles
+   * playback from the lock screen, Control Center, or AirPods, so the UI
+   * reflects native state without going through `togglePlay`. */
+  setIsPlaying: (isPlaying: boolean) => void
   reset: () => void
 }
 
 export const NOW_PLAYING_BAR_HEIGHT = 56
-const NOW_PLAYING_BAR_GAP = 8
+// The pill floats with a 12pt margin above the safe area; we add a small
+// extra cushion so the last item in a scroll list doesn't visually touch it.
+const NOW_PLAYING_BAR_GAP = 16
 
 /**
  * Vertical space ScrollViews must reserve so the mini-bar doesn't occlude
@@ -93,7 +111,12 @@ export const useCreatorsStore = create<CreatorsState>()(
         return
       }
       if (prev) await backend.unload()
-      await backend.load(item.mediaUrl, item.itemId)
+      await backend.load(item.mediaUrl, item.itemId, {
+        title: item.title,
+        artist: item.creatorName,
+        albumTitle: item.creatorName,
+        artworkUrl: item.imageUri,
+      })
       // Set nowPlaying BEFORE play() so any subscriber reacting to state
       // (mini-bar, position slider) sees the new item before audio starts.
       set((s) => {
@@ -101,7 +124,19 @@ export const useCreatorsStore = create<CreatorsState>()(
         s.isPlaying = false
         s.positionS = 0
       })
-      await backend.play()
+      try {
+        await backend.play()
+      } catch (err) {
+        // The player loaded with lock-screen metadata active; if play() rejects
+        // we must unload to avoid an orphaned MPNowPlayingInfo widget.
+        await backend.unload()
+        set((s) => {
+          s.nowPlaying = undefined
+          s.isPlaying = false
+          s.positionS = 0
+        })
+        throw err
+      }
       set((s) => {
         s.isPlaying = true
       })
@@ -152,6 +187,13 @@ export const useCreatorsStore = create<CreatorsState>()(
       if (Math.abs(get().positionS - positionS) < 0.5) return
       set((s) => {
         s.positionS = positionS
+      })
+    },
+
+    setIsPlaying(isPlaying) {
+      if (get().isPlaying === isPlaying) return
+      set((s) => {
+        s.isPlaying = isPlaying
       })
     },
 

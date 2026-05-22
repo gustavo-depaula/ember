@@ -20,7 +20,9 @@ async function ensureAudioMode(): Promise<void> {
   await setAudioModeAsync({
     playsInSilentMode: true,
     shouldPlayInBackground: true,
-    interruptionMode: 'duckOthers',
+    // `doNotMix` is required for `setActiveForLockScreen` to associate this
+    // player with MPNowPlayingInfoCenter — see expo-audio AudioModule.types.d.ts.
+    interruptionMode: 'doNotMix',
   })
 }
 
@@ -28,7 +30,12 @@ function startPolling(itemId: string): void {
   stopPolling()
   pollTimer = setInterval(() => {
     if (!player) return
-    useCreatorsStore.getState().onTick(player.currentTime ?? 0)
+    const store = useCreatorsStore.getState()
+    store.onTick(player.currentTime ?? 0)
+    // Mirror native playback state so lock-screen / AirPods / end-of-track
+    // events update the in-app UI without a manual togglePlay call.
+    const playing = player.playing
+    if (typeof playing === 'boolean') store.setIsPlaying(playing)
   }, POLL_MS)
   progressTimer = setInterval(() => {
     if (!player) return
@@ -45,15 +52,31 @@ function stopPolling(): void {
   progressTimer = undefined
 }
 
+function tearDownPlayer(): void {
+  if (!player) return
+  player.clearLockScreenControls()
+  player.remove()
+  player = undefined
+}
+
 export const audioBackend: AudioBackend = {
-  async load(uri, itemId) {
+  async load(uri, itemId, metadata) {
     await ensureAudioMode()
-    if (player) {
-      player.remove()
-      player = undefined
-    }
+    tearDownPlayer()
     player = createAudioPlayer({ uri })
     currentItemId = itemId
+    if (metadata) {
+      player.setActiveForLockScreen(
+        true,
+        {
+          title: metadata.title,
+          artist: metadata.artist,
+          albumTitle: metadata.albumTitle,
+          artworkUrl: metadata.artworkUrl,
+        },
+        { showSeekForward: true, showSeekBackward: true },
+      )
+    }
   },
   async play() {
     if (!player) return
@@ -75,10 +98,7 @@ export const audioBackend: AudioBackend = {
   },
   async unload() {
     stopPolling()
-    if (player) {
-      player.remove()
-      player = undefined
-    }
+    tearDownPlayer()
     currentItemId = undefined
   },
 }
