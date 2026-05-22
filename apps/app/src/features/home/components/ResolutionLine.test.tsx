@@ -23,7 +23,7 @@ describe('ResolutionLine on /', () => {
     // the assertion races the initial render. Multiple matches are fine; we
     // just need the header to be rendered.
     expect((await screen.findAllByText(/Your Rule of Life/i)).length).toBeGreaterThan(0)
-    expect(screen.queryByText(/Today’s resolution/i)).toBeNull()
+    expect(screen.queryByText(/today’s resolve/i)).toBeNull()
   }, 30_000)
 
   it('surfaces the active daily resolution after capture', async () => {
@@ -41,9 +41,9 @@ describe('ResolutionLine on /', () => {
       source: 'examen',
     })
 
-    // The label appears (label is uppercased in render: "TODAY’S RESOLUTION").
-    expect((await screen.findAllByText(/Today’s resolution/i))[0]).toBeInTheDocument()
-    // And the resolution text shows beneath it.
+    // The epigraph body renders the resolution text directly.
     expect((await screen.findAllByText('Pause before answering'))[0]).toBeInTheDocument()
+    // A script attribution sits beneath the epigraph.
+    expect((await screen.findAllByText(/today’s resolve/i))[0]).toBeInTheDocument()
   }, 30_000)
 })

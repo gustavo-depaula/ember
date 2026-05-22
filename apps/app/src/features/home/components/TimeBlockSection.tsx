@@ -1,13 +1,19 @@
-import { AlertTriangle, Check } from 'lucide-react-native'
+import { AlertTriangle, Check, ChevronRight } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { AnimatedCheckbox, PracticeIcon } from '@/components'
 import { tierConfig } from '@/config/constants'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
 import { lightTap } from '@/lib/haptics'
+
+const tierDotCount: Record<ChecklistItem['tier'], number> = {
+  essential: 2,
+  ideal: 1,
+  extra: 0,
+}
 
 export function TimeBlockSection({
   label,
@@ -47,10 +53,16 @@ export function TimeBlockSection({
         accessibilityState={{ expanded: false }}
       >
         <XStack paddingVertical="$sm" paddingHorizontal="$xs" alignItems="center" gap="$sm">
-          <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
+          <Text
+            fontFamily="$heading"
+            fontSize="$2"
+            color="$colorSecondary"
+            letterSpacing={3}
+            textTransform="uppercase"
+          >
             {label}
           </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
             {completed}/{total}
           </Text>
           {allDone && <Check size={14} color={theme.accent.val} />}
@@ -70,10 +82,16 @@ export function TimeBlockSection({
       >
         <YStack paddingVertical="$sm" paddingHorizontal="$xs" gap="$xs">
           <XStack alignItems="center" gap="$sm">
-            <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">
+            <Text
+              fontFamily="$heading"
+              fontSize="$2"
+              color="$colorSecondary"
+              letterSpacing={3}
+              textTransform="uppercase"
+            >
               {label}
             </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
               {completed}/{total}
             </Text>
           </XStack>
@@ -94,12 +112,23 @@ export function TimeBlockSection({
         accessibilityHint={t('a11y.collapseBlock', { name: label })}
         accessibilityState={{ expanded: true }}
       >
-        <YStack gap="$xs" paddingHorizontal="$xs">
-          <XStack justifyContent="space-between" alignItems="center">
-            <Text fontFamily="$heading" fontSize="$3" color="$color" letterSpacing={1}>
+        <YStack
+          paddingHorizontal="$xs"
+          paddingBottom="$xs"
+          borderBottomWidth={0.5}
+          borderBottomColor="$accentSubtle"
+        >
+          <XStack justifyContent="space-between" alignItems="baseline">
+            <Text
+              fontFamily="$heading"
+              fontSize="$2"
+              color="$colorSecondary"
+              letterSpacing={3}
+              textTransform="uppercase"
+            >
               {label}
             </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+            <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
               {completed}/{total}
             </Text>
           </XStack>
@@ -108,6 +137,7 @@ export function TimeBlockSection({
       {items.map((item) => {
         const done = completedIds.has(item.id)
         const needsRestart = restartNeededIds?.has(item.practice_id) ?? false
+        const dots = tierDotCount[item.tier]
         return (
           <Pressable
             key={item.id}
@@ -116,57 +146,67 @@ export function TimeBlockSection({
             accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
             testID={`slot-row-${item.practice_id}`}
           >
-            <XStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$lg"
-              padding="$md"
-              alignItems="center"
-              gap="$md"
-              opacity={done ? 0.6 : 1}
-              borderLeftWidth={3}
-              borderLeftColor={needsRestart ? '$colorSecondary' : tierConfig[item.tier].color}
-            >
+            <XStack paddingVertical="$md" paddingHorizontal="$xs" alignItems="center" gap="$md">
+              {needsRestart ? (
+                <AlertTriangle size={22} color={theme.accent?.val} />
+              ) : (
+                <View width={24} height={24} alignItems="center" justifyContent="center">
+                  <AnimatedCheckbox
+                    checked={done}
+                    size={24}
+                    subtle
+                    onToggle={() => {
+                      lightTap()
+                      onToggle(item, !done)
+                    }}
+                    accessibilityLabel={
+                      done
+                        ? t('a11y.untogglePractice', { name: item.name })
+                        : t('a11y.togglePractice', { name: item.name })
+                    }
+                    testID={`slot-toggle-${item.practice_id}`}
+                  />
+                </View>
+              )}
               <PracticeIcon name={item.icon} size={20} />
               <YStack flex={1}>
-                <Text fontFamily="$body" fontSize="$3" color="$color">
+                <Text fontFamily="$body" fontSize="$4" color={done ? '$colorSecondary' : '$color'}>
                   {item.name}
                 </Text>
                 {needsRestart && (
                   <XStack alignItems="center" gap={4}>
                     <AlertTriangle size={12} color={theme.accent?.val} />
-                    <Text fontFamily="$body" fontSize="$1" color="$accent">
+                    <Text
+                      fontFamily="$heading"
+                      fontSize="$1"
+                      color="$accent"
+                      letterSpacing={1.5}
+                      textTransform="uppercase"
+                    >
                       {t('program.restartNeeded')}
                     </Text>
                   </XStack>
                 )}
               </YStack>
-              {item.tier === 'essential' && (
-                <Text fontFamily="$body" fontSize={28} color="#EF4444">
-                  !!
-                </Text>
+              {dots > 0 && !done && (
+                <XStack alignItems="center" gap={4}>
+                  {dots === 2 && (
+                    <View
+                      width={6}
+                      height={6}
+                      borderRadius={3}
+                      backgroundColor={tierConfig[item.tier].color}
+                    />
+                  )}
+                  <View
+                    width={6}
+                    height={6}
+                    borderRadius={3}
+                    backgroundColor={tierConfig[item.tier].color}
+                  />
+                </XStack>
               )}
-              {item.tier === 'ideal' && (
-                <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
-                  !
-                </Text>
-              )}
-              {needsRestart ? (
-                <AlertTriangle size={18} color={theme.accent?.val} />
-              ) : (
-                <AnimatedCheckbox
-                  checked={done}
-                  onToggle={() => {
-                    lightTap()
-                    onToggle(item, !done)
-                  }}
-                  accessibilityLabel={
-                    done
-                      ? t('a11y.untogglePractice', { name: item.name })
-                      : t('a11y.togglePractice', { name: item.name })
-                  }
-                  testID={`slot-toggle-${item.practice_id}`}
-                />
-              )}
+              <ChevronRight size={16} color={theme.accentSubtle?.val} />
             </XStack>
           </Pressable>
         )

@@ -90,37 +90,32 @@ export function ObligationBadges({
         accessibilityLabel={badges.map((b) => b.label).join(', ')}
         accessibilityHint={t('obligations.tapToLearnMore')}
       >
-        <YStack
-          backgroundColor="$backgroundSurface"
-          borderLeftWidth={3}
-          borderLeftColor="$colorBurgundy"
-          borderRadius="$md"
-          paddingVertical="$sm"
-          paddingHorizontal="$md"
-          gap="$md"
-        >
-          {badges.map((b) => (
-            <YStack key={b.key} gap={4}>
-              <XStack alignItems="center" gap="$sm">
+        <XStack alignSelf="center" alignItems="center" gap="$md" paddingHorizontal="$md">
+          <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy">
+            ✠
+          </Text>
+          {badges.map((b, i) => (
+            <XStack key={b.key} alignItems="center" gap="$md">
+              {i > 0 && (
                 <Text fontFamily="$heading" fontSize="$2" color="$colorBurgundy">
-                  ✠
+                  ·
                 </Text>
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$2"
-                  color="$colorBurgundy"
-                  textTransform="uppercase"
-                  letterSpacing={1.5}
-                >
-                  {b.label}
-                </Text>
-              </XStack>
-              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-                {b.note}
+              )}
+              <Text
+                fontFamily="$heading"
+                fontSize="$2"
+                color="$colorBurgundy"
+                textTransform="uppercase"
+                letterSpacing={2.5}
+              >
+                {b.label}
               </Text>
-            </YStack>
+            </XStack>
           ))}
-        </YStack>
+          <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy">
+            ✠
+          </Text>
+        </XStack>
       </AnimatedPressable>
 
       <ObligationModal

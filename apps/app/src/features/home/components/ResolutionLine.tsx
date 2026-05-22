@@ -1,17 +1,11 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 
 import { useActiveResolution } from '@/features/resolutions'
 import { lightTap } from '@/lib/haptics'
 
-/**
- * Home-screen surface for today's daily resolution. Renders nothing when
- * the user has no active daily resolution — keeps the home page clean for
- * fresh installs and days the user hasn't set one. Tap routes to /plan
- * where the user can check in or revise via the Resolutions panel.
- */
 export function ResolutionLine() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -29,21 +23,20 @@ export function ResolutionLine() {
       accessibilityLabel={t('home.resolutionTap', { text: resolution.text })}
       hitSlop={8}
     >
-      <YStack gap={2} paddingHorizontal="$md" paddingVertical="$xs" alignItems="center">
-        <XStack gap="$xs" alignItems="baseline">
-          <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={1}>
-            {t('home.resolutionLabel').toUpperCase()}
-          </Text>
-        </XStack>
+      <YStack alignItems="center" gap="$xs" paddingHorizontal="$lg">
         <Text
           fontFamily="$body"
           fontSize="$3"
-          color="$color"
-          textAlign="center"
+          color="$colorSecondary"
           fontStyle="italic"
-          numberOfLines={2}
+          textAlign="center"
+          maxWidth={420}
+          numberOfLines={3}
         >
           {resolution.text}
+        </Text>
+        <Text fontFamily="$script" fontSize="$1" color="$colorSecondary" textAlign="center">
+          — {t('home.resolutionAttribution')}
         </Text>
       </YStack>
     </Pressable>

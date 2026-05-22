@@ -13,18 +13,22 @@ import { useTheme } from 'tamagui'
 
 import { snappySpring } from '@/config/animation'
 
-const size = 28
+const defaultSize = 28
 
 export function AnimatedCheckbox({
   checked,
   onToggle,
   accessibilityLabel,
   testID,
+  size = defaultSize,
+  subtle = false,
 }: {
   checked: boolean
   onToggle: () => void
   accessibilityLabel: string
   testID?: string
+  size?: number
+  subtle?: boolean
 }) {
   const theme = useTheme()
   const progress = useSharedValue(checked ? 1 : 0)
@@ -32,7 +36,9 @@ export function AnimatedCheckbox({
 
   const borderColor = theme.borderColor.val
   const accentColor = theme.accent.val
+  const fillColor = subtle ? theme.accentSubtle.val : accentColor
   const bgColor = theme.background.val
+  const checkIconSize = Math.round(size * 0.57)
 
   useEffect(() => {
     if (checked) {
@@ -48,11 +54,11 @@ export function AnimatedCheckbox({
     width: size,
     height: size,
     borderRadius: size / 2,
-    borderWidth: 2,
+    borderWidth: subtle ? 1 : 2,
     alignItems: 'center' as const,
     justifyContent: 'center' as const,
-    borderColor: interpolateColor(progress.value, [0, 1], [borderColor, accentColor]),
-    backgroundColor: interpolateColor(progress.value, [0, 1], ['transparent', accentColor]),
+    borderColor: interpolateColor(progress.value, [0, 1], [borderColor, fillColor]),
+    backgroundColor: interpolateColor(progress.value, [0, 1], ['transparent', fillColor]),
     transform: [{ scale: pulse.value }],
   }))
 
@@ -72,7 +78,7 @@ export function AnimatedCheckbox({
     >
       <Animated.View style={containerStyle}>
         <Animated.View style={checkStyle}>
-          <Check size={16} color={bgColor} />
+          <Check size={checkIconSize} color={bgColor} />
         </Animated.View>
       </Animated.View>
     </Pressable>

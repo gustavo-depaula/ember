@@ -18,7 +18,9 @@ export default {
     reading: 'Leitura',
     fidelity: 'Fidelidade',
     ruleOfLife: 'Seu Plano de Vida',
+    ruleOfLifeSubtitle: 'uma regra de vida',
     resolutionLabel: 'Resolução de hoje',
+    resolutionAttribution: 'o propósito de hoje',
     resolutionTap: 'Resolução de hoje: {{text}}. Abra o Plano de Vida para registrar.',
     hora: {
       matins: 'hora das Matinas',
@@ -31,6 +33,10 @@ export default {
       compline: 'hora das Completas',
     },
     celebrationOfDay: 'Celebração de Hoje',
+    upcomingLabel: 'Em breve',
+    upcomingTomorrow: 'amanhã',
+    upcomingInDays_one: 'em {{count}} dia',
+    upcomingInDays_other: 'em {{count}} dias',
     daysUntil: '{{count}} dias até {{feast}}',
     tomorrow: '{{feast}} é amanhã',
     today: '{{feast}}',
@@ -227,6 +233,9 @@ export default {
     homeTagline: 'Leve suas inten\u00e7\u00f5es \u00e0 ora\u00e7\u00e3o',
     homeOpenCount_one: '{{count}} inten\u00e7\u00e3o ativa',
     homeOpenCount_other: '{{count}} inten\u00e7\u00f5es ativas',
+    exploreTagline_zero: 'Eleve uma ao Senhor',
+    exploreTagline_one: '{{count}} inten\u00e7\u00e3o ativa',
+    exploreTagline_other: '{{count}} inten\u00e7\u00f5es ativas',
   },
 
   movements: {
@@ -335,6 +344,9 @@ export default {
     title: 'Mem\u00f3ria',
     subtitle: 'Uma cr\u00f4nica da sua vida de ora\u00e7\u00e3o.',
     homeTagline: 'Lembra-te do que o Senhor fez',
+    exploreTagline_zero: 'Comece sua cr\u00f4nica',
+    exploreTagline_one: '{{count}} registro guardado',
+    exploreTagline_other: '{{count}} registros guardados',
     emptyState: 'Sua cr\u00f4nica come\u00e7a com a primeira ora\u00e7\u00e3o.',
     today: 'Hoje',
     yesterday: 'Ontem',
@@ -482,6 +494,9 @@ export default {
     homeTagline: 'Conte as gra\u00e7as deste dia',
     homeCount_one: '{{count}} gra\u00e7a registrada',
     homeCount_other: '{{count}} gra\u00e7as registradas',
+    exploreTagline_zero: 'Comece a contar as gra\u00e7as de hoje',
+    exploreTagline_one: '{{count}} gra\u00e7a registrada',
+    exploreTagline_other: '{{count}} gra\u00e7as registradas',
   },
 
   diesDomini: {
@@ -1002,6 +1017,7 @@ export default {
   explore: {
     title: 'Explorar',
     subtitle: 'Companheiros para o caminho e uma biblioteca para a alma.',
+    captures: 'Do Coração',
     companions: 'Companheiros',
     library: 'Biblioteca',
     tools: 'Ferramentas',

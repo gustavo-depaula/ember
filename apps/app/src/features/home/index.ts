@@ -1,8 +1,10 @@
+export type { CarouselPage } from './components'
 export {
   AppShortcuts,
   Aspiratio,
   CelebrationOfDay,
   ConfessioLine,
+  DailyCarousel,
   DateScrubber,
   DiesDevotion,
   IntentionHeart,

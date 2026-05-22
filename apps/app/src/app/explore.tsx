@@ -1,15 +1,29 @@
 import { useRouter } from 'expo-router'
-import { BookMarked, CircleDot, Compass, Mic2, Music, Sparkle } from 'lucide-react-native'
+import {
+  BookMarked,
+  BookOpen,
+  CircleDot,
+  Compass,
+  Flame,
+  Mic2,
+  Music,
+  Sparkle,
+} from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
 import { CandleFlame, PageHeader, ScreenLayout } from '@/components'
-import { ShortcutRow } from '@/features/home'
+import { IntentionHeart, ShortcutRow } from '@/features/home'
+import { useMemoriaEntriesCount } from '@/features/memoria'
+import { useActiveIntentionsCount, useActiveThanksgivingsCount } from '@/features/movements'
 
 export default function ExploreScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
+  const openIntentions = useActiveIntentionsCount()
+  const gratitudes = useActiveThanksgivingsCount()
+  const memoriaCount = useMemoriaEntriesCount()
 
   return (
     <ScreenLayout>
@@ -26,6 +40,31 @@ export default function ExploreScreen() {
           >
             {t('explore.subtitle')}
           </Text>
+        </YStack>
+
+        <YStack gap="$sm">
+          <SectionHeading text={t('explore.captures')} />
+
+          <ShortcutRow
+            leading={<IntentionHeart active={openIntentions > 0} />}
+            title={t('intentions.title')}
+            tagline={t('intentions.exploreTagline', { count: openIntentions })}
+            onPress={() => router.push('/intentions')}
+          />
+
+          <ShortcutRow
+            leading={<Flame size={22} color={theme.accent?.val} />}
+            title={t('gratias.title')}
+            tagline={t('gratias.exploreTagline', { count: gratitudes })}
+            onPress={() => router.push('/gratias')}
+          />
+
+          <ShortcutRow
+            leading={<BookOpen size={22} color={theme.accent?.val} />}
+            title={t('memoria.title')}
+            tagline={t('memoria.exploreTagline', { count: memoriaCount })}
+            onPress={() => router.push('/memoria')}
+          />
         </YStack>
 
         <YStack gap="$sm">
