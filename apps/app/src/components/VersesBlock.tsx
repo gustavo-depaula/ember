@@ -3,9 +3,9 @@
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 import type { VersesPrimitive } from '@/content/primitives'
+import { PrayerText } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { ResponseMark } from './prayer/ResponseMark'
-import { PrayerText } from './PrayerText'
 
 export function VersesBlock({ header, items, style = 'numbered', fallback }: VersesPrimitive) {
   const { t } = useTranslation()
