@@ -126,13 +126,13 @@ export default function HomeScreen() {
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
 
-  const carouselPages: CarouselPage[] = [{ key: 'devotion', node: <DiesDevotion date={now} /> }]
-  if (scheduleCtx?.dayCalendar?.principal) {
-    carouselPages.push({ key: 'celebration', node: <CelebrationOfDay date={now} /> })
-  }
-  if (hasUpcomingFeast) {
-    carouselPages.push({ key: 'seasonal', node: <SeasonalContext date={now} /> })
-  }
+  const carouselPages: CarouselPage[] = [
+    { key: 'devotion', node: <DiesDevotion date={now} /> },
+    ...(scheduleCtx?.dayCalendar?.principal
+      ? [{ key: 'celebration', node: <CelebrationOfDay date={now} /> }]
+      : []),
+    ...(hasUpcomingFeast ? [{ key: 'seasonal', node: <SeasonalContext date={now} /> }] : []),
+  ]
 
   const completionsBySlot = useCompletionDatesBySlot()
   const todaySlots = useMemo(
