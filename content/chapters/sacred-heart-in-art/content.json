@@ -10,6 +10,7 @@
     },
     {
       "type": "gallery",
+      "display": "carousel",
       "items": [
         {
           "src": "images/batoni-sacred-heart.jpg",

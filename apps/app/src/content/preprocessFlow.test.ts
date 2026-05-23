@@ -102,6 +102,83 @@ describe('preprocessFlow — primitive mapping', () => {
     expect(behaviorKinds).toEqual(['collapsible', 'color-scope', 'options'])
   })
 
+  describe('gallery', () => {
+    it('emits a single gallery primitive (no flattening)', async () => {
+      const sections: RenderedSection[] = [
+        {
+          type: 'gallery',
+          items: [
+            {
+              src: 'a.jpg',
+              title: { primary: 'A' },
+              attribution: { primary: 'Author A' },
+              caption: { primary: 'Caption A' },
+            },
+            { src: 'b.jpg' },
+          ],
+        },
+      ]
+      const result = await preprocessFlow(sections, ctx())
+      expect(result).toHaveLength(1)
+      expect(result[0]).toEqual({
+        type: 'gallery',
+        display: 'carousel',
+        weights: undefined,
+        caption: undefined,
+        items: [
+          {
+            src: 'a.jpg',
+            alt: undefined,
+            title: { primary: 'A' },
+            attribution: { primary: 'Author A' },
+            caption: { primary: 'Caption A' },
+          },
+          {
+            src: 'b.jpg',
+            alt: undefined,
+            title: undefined,
+            attribution: undefined,
+            caption: undefined,
+          },
+        ],
+      })
+    })
+
+    it('passes through display, weights, caption, and alt', async () => {
+      const sections: RenderedSection[] = [
+        {
+          type: 'gallery',
+          display: 'row',
+          weights: [2, 1],
+          caption: { primary: 'Two views' },
+          items: [
+            { src: 'a.jpg', alt: { primary: 'before' } },
+            { src: 'b.jpg', alt: { primary: 'after' } },
+          ],
+        },
+      ]
+      const [primitive] = await preprocessFlow(sections, ctx())
+      expect(primitive).toMatchObject({
+        type: 'gallery',
+        display: 'row',
+        weights: [2, 1],
+        caption: { primary: 'Two views' },
+        items: [
+          { src: 'a.jpg', alt: { primary: 'before' } },
+          { src: 'b.jpg', alt: { primary: 'after' } },
+        ],
+      })
+    })
+
+    it('defaults missing display to carousel', async () => {
+      const [primitive] = await preprocessFlow(
+        [{ type: 'gallery', items: [{ src: 'a.jpg' }] }],
+        ctx(),
+      )
+      expect(primitive).toMatchObject({ type: 'gallery', display: 'carousel' })
+    })
+  })
+
   it('interaction kinds map by their engine type', async () => {
     const sections: RenderedSection[] = [
       { type: 'proper', slot: 'collect', form: 'of', description: text },

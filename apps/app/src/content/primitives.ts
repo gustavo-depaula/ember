@@ -54,6 +54,29 @@ export type ImagePrimitive = {
   attribution?: BilingualText
 }
 
+// Grouped images. `display` picks the layout:
+//   carousel — snap-scroll with peek and dots (default)
+//   stack    — vertical figure list
+//   row      — side-by-side; renderer promotes to bleed-and-swipe when items
+//              would shrink below their comfortable minimum width.
+// `weights` only applies in `row` mode; if present, its length must equal
+// items.length and the numbers become flex-basis ratios.
+export type GalleryPrimitive = {
+  type: 'gallery'
+  display: 'carousel' | 'stack' | 'row'
+  weights?: number[]
+  caption?: BilingualText
+  items: GalleryItem[]
+}
+
+export type GalleryItem = {
+  src: string
+  alt?: BilingualText
+  title?: BilingualText
+  attribution?: BilingualText
+  caption?: BilingualText
+}
+
 export type HolyCardPrimitive = {
   type: 'holy-card'
   image: string
@@ -251,6 +274,7 @@ export type Primitive =
   | DividerPrimitive
   | VersesPrimitive
   | ImagePrimitive
+  | GalleryPrimitive
   | HolyCardPrimitive
   | ProsePrimitive
   | CalloutPrimitive

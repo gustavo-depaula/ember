@@ -14,6 +14,7 @@ import { CelebrationBanner } from './prayer/CelebrationBanner'
 import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
 import { CollapsiblePrayer } from './prayer/CollapsiblePrayer'
+import { GalleryBlock } from './prayer/GalleryBlock'
 import { HolyCardBlock } from './prayer/HolyCardBlock'
 import { ImageBlock } from './prayer/ImageBlock'
 import { LiturgicalColorBlock } from './prayer/LiturgicalColorBlock'
@@ -85,6 +86,16 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
           src={primitive.src}
           caption={primitive.caption}
           attribution={primitive.attribution}
+        />
+      )
+
+    case 'gallery':
+      return (
+        <GalleryBlock
+          items={primitive.items}
+          display={primitive.display}
+          caption={primitive.caption}
+          weights={primitive.weights}
         />
       )
 

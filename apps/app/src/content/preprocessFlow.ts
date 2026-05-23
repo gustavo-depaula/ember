@@ -93,14 +93,19 @@ async function preprocessSection(
       }
 
     case 'gallery':
-      return section.items.map(
-        (item): Primitive => ({
-          type: 'image',
+      return {
+        type: 'gallery',
+        display: section.display ?? 'carousel',
+        weights: section.weights,
+        caption: section.caption,
+        items: section.items.map((item) => ({
           src: item.src,
-          caption: item.caption,
+          alt: item.alt,
+          title: item.title,
           attribution: item.attribution,
-        }),
-      )
+          caption: item.caption,
+        })),
+      }
 
     case 'holy-card':
       return {

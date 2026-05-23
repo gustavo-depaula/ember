@@ -1,12 +1,21 @@
 import { forwardRef, useCallback, useEffect, useImperativeHandle, useRef } from 'react'
 import { Platform, View } from 'react-native'
 
+export type ReaderGalleryItem = {
+  src: string
+  alt?: string | null
+  title?: string | null
+  attribution?: string | null
+  caption?: string | null
+}
+
 export type ReaderMessage =
   | { type: 'pageInfo'; currentPage: number; totalPages: number }
   | { type: 'chapterCross'; direction: 'prev' | 'next'; page: number }
   | { type: 'ready' }
   | { type: 'centerTap' }
   | { type: 'backSwipe' }
+  | { type: 'galleryImageTap'; index: number; items: ReaderGalleryItem[] }
 
 export type ReaderWebViewHandle = {
   loadSequence: (html: string, startPage: number) => void

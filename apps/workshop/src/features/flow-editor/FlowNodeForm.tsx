@@ -959,8 +959,58 @@ function GalleryFields({
     onChange({ ...section, items: next })
   }
 
+  const display = section.display ?? 'carousel'
+  const weightsValue = section.weights?.join(', ') ?? ''
+
   return (
     <>
+      <Field label="Display">
+        <select
+          className={styles.input}
+          value={display}
+          onChange={(e) => {
+            const next = e.target.value as 'carousel' | 'stack' | 'row'
+            const updated: typeof section = { ...section, display: next }
+            if (next !== 'row') delete updated.weights
+            onChange(updated)
+          }}
+        >
+          <option value="carousel">carousel — snap-and-peek browser (default)</option>
+          <option value="stack">stack — vertical figure list</option>
+          <option value="row">row — side-by-side; bleeds when items don't fit</option>
+        </select>
+      </Field>
+
+      {display === 'row' && (
+        <Field label="Weights (comma-separated, optional)">
+          <input
+            className={styles.input}
+            value={weightsValue}
+            placeholder="e.g. 2, 1"
+            onChange={(e) => {
+              const raw = e.target.value.trim()
+              if (raw === '') {
+                const next = { ...section }
+                delete next.weights
+                onChange(next)
+                return
+              }
+              const parsed = raw
+                .split(',')
+                .map((s) => Number.parseFloat(s.trim()))
+                .filter((n) => Number.isFinite(n) && n > 0)
+              onChange({ ...section, weights: parsed })
+            }}
+          />
+        </Field>
+      )}
+
+      <LocalizedInput
+        label="Shared caption (optional)"
+        value={section.caption ?? {}}
+        onChange={(caption) => onChange({ ...section, caption })}
+      />
+
       {section.items.map((item, idx) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: read-only rendered list
         <div key={idx} className={styles.optionCard}>
@@ -972,9 +1022,19 @@ function GalleryFields({
             />
           </Field>
           <LocalizedInput
+            label="Alt (a11y, not shown)"
+            value={item.alt ?? {}}
+            onChange={(alt) => updateItem(idx, { alt })}
+          />
+          <LocalizedInput
             label="Title"
             value={item.title ?? {}}
             onChange={(title) => updateItem(idx, { title })}
+          />
+          <LocalizedInput
+            label="Attribution"
+            value={item.attribution ?? {}}
+            onChange={(attribution) => updateItem(idx, { attribution })}
           />
           <LocalizedInput
             label="Caption"

@@ -335,8 +335,12 @@ export function resolveSection(
       return [
         {
           type: 'gallery',
+          display: section.display,
+          weights: section.weights,
+          caption: section.caption ? ec.localize(section.caption) : undefined,
           items: section.items.map((item) => ({
             src: item.src,
+            alt: item.alt ? ec.localize(item.alt) : undefined,
             title: item.title ? ec.localize(item.title) : undefined,
             attribution: item.attribution ? ec.localize(item.attribution) : undefined,
             caption: item.caption ? ec.localize(item.caption) : undefined,

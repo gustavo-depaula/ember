@@ -4,8 +4,9 @@ import { getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getJson, getText } from '@/content/store'
+import { galleryExtension } from './markedGalleryExtension'
 
-const md = new Marked().use(markedFootnote())
+const md = new Marked().use(markedFootnote()).use(galleryExtension())
 
 export type BookContent = {
   css: string
@@ -69,6 +70,93 @@ body {
 .ch-panel + .ch-panel {
   break-before: column;
 }
+
+/* --- Galleries --- */
+.ember-gallery {
+  display: block;
+  margin: 1em 0;
+  padding: 0;
+  break-inside: avoid;
+}
+.ember-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: none;
+  border-radius: 8px;
+}
+.ember-gallery figcaption,
+.ember-gallery-caption {
+  text-align: center;
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  color: var(--text-secondary, #6b6258);
+}
+.ember-gallery-title {
+  display: block;
+  font-family: inherit;
+  font-weight: 600;
+  color: var(--text, #1a1815);
+}
+.ember-gallery-attribution {
+  display: block;
+  font-style: italic;
+}
+.ember-gallery-prose {
+  display: block;
+  font-style: italic;
+}
+.ember-gallery-track {
+  display: block;
+}
+.ember-gallery-slide {
+  display: block;
+  margin-block: 0;
+}
+
+/* Stack: vertical figure list */
+.ember-gallery[data-display="stack"] .ember-gallery-slide + .ember-gallery-slide {
+  margin-top: 1.5em;
+}
+
+/* Carousel: snap one slide at a time */
+.ember-gallery[data-display="carousel"] .ember-gallery-track {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 12px;
+  touch-action: pan-x;
+}
+.ember-gallery[data-display="carousel"] .ember-gallery-slide {
+  flex: 0 0 calc(100% - 12px);
+  scroll-snap-align: start;
+}
+
+/* Row: equal-width grid by default */
+.ember-gallery[data-display="row"] .ember-gallery-track {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+  gap: 12px;
+}
+
+/* Row: bleed-and-swipe when items don't fit (set by JS at measure-time) */
+.ember-gallery[data-display="row"][data-overflow="true"] .ember-gallery-track {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 12px;
+  touch-action: pan-x;
+  grid-template-columns: none;
+}
+.ember-gallery[data-display="row"][data-overflow="true"] .ember-gallery-slide {
+  flex: 0 0 75%;
+  scroll-snap-align: start;
+}
 `
 
 // The WebView loads this shell once. Chapter content is swapped via postMessage
@@ -99,6 +187,7 @@ const paginationScript = `
     el.style.columnWidth = colWidth + 'px';
     el.style.columnGap = gap + 'px';
     totalPages = Math.max(1, Math.round(el.scrollWidth / pageWidth));
+    measureGalleries();
   }
 
   function findChapterBounds() {
@@ -164,6 +253,50 @@ const paginationScript = `
     });
   }
 
+  // --- Gallery support ---
+  // Per-gallery overflow detection for row layout: when items would shrink
+  // below ~140px each, switch the CSS to a flex+scroll-snap with peek.
+  var GALLERY_MIN_ITEM_PX = 140;
+  var GALLERY_GAP_PX = 12;
+  function measureGalleries() {
+    var galleries = document.querySelectorAll('.ember-gallery[data-display="row"]');
+    for (var gi = 0; gi < galleries.length; gi++) {
+      var g = galleries[gi];
+      var count = parseInt(g.getAttribute('data-count') || '1', 10);
+      if (count <= 1) { g.setAttribute('data-overflow', 'false'); continue; }
+      var required = count * GALLERY_MIN_ITEM_PX + (count - 1) * GALLERY_GAP_PX;
+      var available = g.offsetWidth;
+      g.setAttribute('data-overflow', required > available ? 'true' : 'false');
+    }
+  }
+  function collectGalleryItems(gallery) {
+    var slides = gallery.querySelectorAll('.ember-gallery-slide');
+    var items = [];
+    for (var i = 0; i < slides.length; i++) {
+      var slide = slides[i];
+      var img = slide.querySelector('img');
+      var titleEl = slide.querySelector('.ember-gallery-title');
+      var attrEl = slide.querySelector('.ember-gallery-attribution');
+      var proseEl = slide.querySelector('.ember-gallery-prose');
+      items.push({
+        src: img ? img.src : '',
+        alt: img ? img.alt : '',
+        title: titleEl ? titleEl.textContent : null,
+        attribution: attrEl ? attrEl.textContent : null,
+        caption: proseEl ? proseEl.textContent : null,
+      });
+    }
+    return items;
+  }
+  function dispatchGalleryTap(img) {
+    var gallery = img.closest && img.closest('.ember-gallery');
+    if (!gallery) return;
+    var slideEl = img.closest('.ember-gallery-slide');
+    var slides = Array.prototype.slice.call(gallery.querySelectorAll('.ember-gallery-slide'));
+    var index = slideEl ? slides.indexOf(slideEl) : 0;
+    send({ type: 'galleryImageTap', index: index, items: collectGalleryItems(gallery) });
+  }
+
   // --- Touch / swipe handling ---
   var touchStartX = 0;
   var touchStartY = 0;
@@ -171,9 +304,27 @@ const paginationScript = `
   var isSwiping = false;
   var swipeBlocked = false;
   var edgeSwipe = false;
+  var galleryTap = null;
+
+  function inGallery(target) {
+    return target && target.closest && target.closest('.ember-gallery');
+  }
 
   document.addEventListener('touchstart', function(e) {
     if (e.target.tagName === 'A') return;
+    if (inGallery(e.target)) {
+      // Let the gallery scroll natively; don't preempt with our transform.
+      swipeBlocked = true;
+      var img = e.target.closest && e.target.closest('img');
+      galleryTap = img ? {
+        img: img,
+        x: e.touches[0].clientX,
+        y: e.touches[0].clientY,
+        time: Date.now()
+      } : null;
+      return;
+    }
+    galleryTap = null;
     touchStartX = e.touches[0].clientX;
     touchStartY = e.touches[0].clientY;
     touchStartTime = Date.now();
@@ -204,6 +355,16 @@ const paginationScript = `
   }, { passive: true });
 
   document.addEventListener('touchend', function(e) {
+    if (galleryTap) {
+      var gdx = e.changedTouches[0].clientX - galleryTap.x;
+      var gdy = e.changedTouches[0].clientY - galleryTap.y;
+      var gelapsed = Date.now() - galleryTap.time;
+      if (gelapsed < 300 && Math.abs(gdx) < 10 && Math.abs(gdy) < 10) {
+        dispatchGalleryTap(galleryTap.img);
+      }
+      galleryTap = null;
+      return;
+    }
     if (swipeBlocked) return;
     if (edgeSwipe) {
       var edgeDx = e.changedTouches[0].clientX - touchStartX;
@@ -239,6 +400,11 @@ const paginationScript = `
   // Click fallback for mouse/desktop
   document.addEventListener('click', function(e) {
     if (e.target.tagName === 'A') return;
+    if (inGallery(e.target)) {
+      var img = e.target.closest && e.target.closest('img');
+      if (img) dispatchGalleryTap(img);
+      return;
+    }
     if ('ontouchstart' in window) return;
     var x = e.clientX / window.innerWidth;
     if (x < 0.3) {
