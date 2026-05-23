@@ -1,8 +1,12 @@
 # 140. The Holy Sacrifice of the Mass
 
+:::row
 ![](../images/lesson-140.webp)
+Beginning of Mass
 
-
+![](../images/lesson-140b.webp)
+Confiteor
+:::
 
 
 ## The Beginning of Mass
@@ -25,65 +29,76 @@ After the psalm, the priest bows and says the Confiteor a confession of sin, as 
 > The priest then goes up the altar and kisses it in the place beneath which relics of some Saints are cemented in the altar stone. He goes to the right or epistle side, and reads the opening prayer. In solemn Masses, the altar is incensed.
 
 
-**The Introit**
+## The Introit
 
 Originally the Introit was a psalm chanted by the priest and his assistants when they entered the sanctuary. Today it is reduced to a verse, the first to be read at Mass.
 
 > The Introit varies each day, as do certain other parts of the Mass, like the Collects, Epistle, Gradual, Gospel, Offertory, Secrets, Communion, and Post-communions.
 
+:::row
+![](../images/lesson-140c.webp)
+Gloria
 
-**The Kyrie**
+![](../images/lesson-140d.webp)
+Epistle
+:::
+
+## The Kyrie
 
 The priest goes to the centre and recites the Kyrie eleison alternately with the server, imploring God's mercy. The prayer is repeated nine times: three in honour of God the Father, three in honour of God the Son, and three in honour of God the Holy Ghost.
 
 
-**The Gloria**
+## The Gloria
 
 After the Kyrie, the Gloria is said when the Mass requires it. It is sometimes omitted, especially during the penitential seasons, and in the Masses for the dead. At the end the priest kisses the altar.
 
 > The Gloria repeats the songs of praise of the angels on Christmas night. In high Masses the most beautiful music is heard from the choir,
 
 
-**The Collect**
+## The Collect
 
 The priest goes to the epistle side and reads certain prayers, called the Collect. There may be more than one Collect. These prayers are recited in honour of the saint or mystery of the day, or for the intention of the Mass. They express man's subjection to God.
 
 > At the Collect we should pray for the intention we have in hearing the Mass.
 
 
-**The Epistle**
+## The Epistle
 
 The Epistle or Lesson follows. It is a reading from Scripture, usually from one of St. Paul's letters. At High Mass the subdeacon sings the Epistle.
 
 > Often the Epistle is taken from the Acts of the Apostles, from Exodus, Wisdom, etc. At the end of the Epistle the server says, "Deo Gratias" (Thanks be to God).
 
 
-**The Gradual**
+## The Gradual
 
 Here follow the Gradual, Alleluia, Tract, and Sequence, all varying in accordance with the season of the ecclesiastical year. Tract and Sequence are not often said.
 
 > The Missal is then carried to the left or gospel side of the altar. This act symbolizes the passing of the faith from the Jews to the Gentiles
 
+
+:::row
+![](../images/lesson-140e.webp)
+The Gospel
+
+![](../images/lesson-140f.webp)
+The Offertory
+:::
+
+
 ## The Gospel
-
-
-**The Gospel**
 
 The Gospel is taken from one of the four Evangelists. During the reading, the people stand, out of reverence for the word of God. The priest begins the reading by crossing himself on the forehead, lips, and breast.
 
 > The people do the same, to show they believe the Gospel, will always profess it, and will ever love it. At High Mass the Deacon sings the Gospel.
 
 
-**The Credo**
+## The Credo
 
 After the Gospel the priest on Sundays and holydays of obligation usually preaches a sermon. Often it is an explanation of the Gospel read. The priest goes to the middle of the altar and recites the Nicene Creed or *Credo*. This is not said at all Masses.
 
 > At the words, *incarnatus est* (And was made man), the people genuflect with the priest, in memory of Our Lord's Incarnation. The people may sit down after the Credo.
 
 ## The Offertory
-
-
-**The Offertory**
 
 The Offertory begins with the Offertory prayer; then the priest uncovers the chalice.
 
@@ -95,35 +110,38 @@ The Offertory consists of two parts: the offering of the bread and the offering 
 
 In offering the chalice, the priest says: "We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, that it may ascend before Thy divine Majesty as a sweet savour for our salvation and for that of the whole world. Amen."
 
-## Lavabo
+:::row
+![](../images/lesson-140g.webp)
+Lavabo
+
+![](../images/lesson-140h.webp)
+Sanctus
+:::
 
 
-**The Lavabo and Orate Fratres**
+## The Lavabo and Orate Fratres
 
 After the Offertory, the priest washes his fingers, as a mark of the purity of body and soul that is required for the Holy Sacrifice. This is the Lavabo.
 
 > The priest turns towards the people, extends and joins his hands, and audibly invites them to pray, saying: "Orate fratres" (Pray, brethren). The server makes the reply for the people.
 
 
-**The Secret**
+## The Secret
 
 The priest recites one or more prayers forming the Secret. They are prayers of petition, similar to the Collect.
 
 > At the end is said or sung in audible tones: "Per omnia saecula saeculorum" (forever and ever).
 
 
-**The Preface and Sanctus**
+## The Preface and Sanctus
 
 The Preface is a prayer of thanksgiving, varying with the day and season.
 
 > The prayer ends with the Sanctus. This part is indicated by the ringing of the bell three times. The people kneel. The priest joins his hands and bows as he says the Sanctus.
 
-## Sanctus
-
 The Sanctus represents the entry of Christ in Jerusalem. The people ought to unite themselves with the angels who hail with praises the coming of the Son of God, soon to descend on the altar.
 
-
-**The Canon of the Mass**
+## The Canon of the Mass
 
 The Canon, or most solemn part of the Mass, follows. A remembrance is made for the Church, the Holy Father, the Bishop of the place, and the faithful. The Pope and the Bishop are mentioned by their first names. The Memento, or prayer for the living, is said. This represents too the prayer of Christ for the Church at the Last Supper. The assistance of the saints is invoked.
 
@@ -133,10 +151,15 @@ The priest crosses the oblation of bread and wine five times, in honor of the Fi
 
 > The people should recollect themselves in preparation for the consecration.
 
-## Elevation
+:::row
+![](../images/lesson-140i.webp)
+Elevation
 
+![](../images/lesson-140j.webp)
+Pater Noster
+:::
 
-**The Consecration**
+## The Consecration
 
 The Consecration is the principal part of the Mass. The words of Christ Himself are spoken over the bread and wine, the same words He used when He instituted the Holy Eucharist at the Last Supper.
 
@@ -148,32 +171,33 @@ After adoring, the priest elevates first the Host, then the chalice, for the peo
 
 Immediately after the consecration, we should make to God the Father an act of offering of His Divine Son. We have a worthy gift to offer to God, Christ Himself.
 
-## Pater Noster
-
-
-**The Commemoration of the Dead**
+## The Commemoration of the Dead
 
 > For the souls in Purgatory, the priest then prays, remaining silent while he pleads for certain special souls. Then follows a prayer for those present, beginning with the words audibly said, "Nobis quoque peccatoribus" (To us also, sinners).
 
 
-**The Pater Noster**
+## The Pater Noster
 
 The priest recites the Pater Noster (Our Father), the prayer taught by Christ Himself. In high Masses, the people stand at the Pater Noster. Then the Priest, breaking the Host in two, puts a small particle of It into the chalice, while he says a prayer.
 
 > This breaking symbolizes the death of Christ.
 
 
-**The Agnus Dei**
+## The Agnus Dei
 
 The Agnus Dei is then said, the priest striking his breast three times in sign of humility and penance: "Lamb of God, Who takest away the sins of the world, have mercy on us."
 
-At High Masses the Kiss of Peace is given.
+> At High Masses the Kiss of Peace is given.
 
+:::row
+![](../images/lesson-140k.webp)
+"Domine Non Sum Dignus"
 
-## Domine Non Sum Dignus
+![](../images/lesson-140l.webp)
+Priest's Communion
+:::
 
-
-**The Communion**
+## The Communion
 
 After several prayers of preparation, the sanctuary bell is rung, and the priest gives himself Communion. He receives the Body of Christ, saying: "The Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen." The priest meditates, then uncovers the chalice, genuflects, and says: "What shall I render to the Lord for all that He has rendered unto me? I will take the chalice of salvation" etc. He then receives the Precious Blood, saying, "The Blood of Our Lord Jesus Christ preserve my soul unto life everlasting. Amen".
 
@@ -181,11 +205,7 @@ After several prayers of preparation, the sanctuary bell is rung, and the priest
 
 If there are any to receive Communion, the server says the Confiteor in their name. Those who do not communicate should make a spiritual communion. If there are no communicants, the people may sit down after the priest's Communion.
 
-
-## Priest's Communion
-
-
-**Communion of the People**
+## Communion of the People
 
 The priest absolves and blesses the people. He takes the ciborium and elevates a small Host in the sight of all, saying, "Behold the Lamb of God, behold Him Who taketh away the sins of the world!" He repeats three times the prayer of the centurion to Christ, "Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed." He makes the sign of the cross with the Host over each communicant, and says to him: ''May the Body of our Lord Jesus Christ preserve thy soul unto life everlasting. Amen."
 
@@ -195,10 +215,15 @@ The priest takes the Ablution; that is, he drinks wine and water that are poured
 
 > The priest dries the inside of the chalice; folding the corporal, he places it on the chalice as at the beginning of Mass.
 
-## Postcommunion
+:::row
+![](../images/lesson-140m.webp)
+Postcommunion
 
+![](../images/lesson-140n.webp)
+Blessing
+:::
 
-**The Post communion**
+## The Postcommunion
 
 Going to the Epistle side, the priest reads the Communion prayer, termed thus because in early days, it was sung by the choir while the people received Holy Communion.
 
@@ -209,11 +234,9 @@ Once more at the Epistle side, the priest reads the Post communion prayers, peti
 > These greetings are in commemoration of Christ's two appearances to the Apostles immediately after His resurrection.
 
 
-**The Blessing**
+## The Blessing
 
 The priest turns to the people and says: "*Ite, Missa est*" (Go, the Mass is ended).
-
-## Blessing
 
 > These words of dismissal represent Christ's Ascension, when He sent His Apostles forth to evangelize the world. These words are varied for different occasions. If the Gloria has not been said, the words used here are: " *Benedicamus Domino* " (Let us bless the Lord) In Masses for the dead the words are: " *Requiescant in pace* " (May they rest in peace). In Easter week, the words alleluia, alleluia, alleluia, are added.
 
@@ -225,8 +248,15 @@ The people kneel and make the sign of the cross as the priest blesses them. A bi
 
 > At Masses for the dead there is no blessing, to show that the Church does not have the same jurisdiction over the dead as over the living.
 
+:::row
+![](../images/lesson-140o.webp)
+The Last Gospel
 
-**The Last Gospel**
+![](../images/lesson-140p.webp)
+Prayers after Mass
+:::
+
+## The Last Gospel
 
 The priest turns to the left side to read the Last Gospel, which is taken from the opening words of the Gospel of St. John. The people stand and make three signs of the cross with the priest, on the forehead, lips, and breast. They genuflect with the priest at the words: "And the Word was made Flesh," in honour of Christ's Incarnation. Sometimes another Gospel is read instead. The Last Gospel represents the propagation of the word of God throughout the world after the descent of the Holy Ghost. At the end of the Last Gospel, the people kneel. Mass is ended with the words: " *Deo gratias* (Thanks be to God).
 
@@ -234,13 +264,12 @@ The priest turns to the left side to read the Last Gospel, which is taken from t
 
 ## Prayers after Mass
 
-
-**Prayers After Mass**
-
 Thus in one-half hour, the time required for an ordinary low Mass, the principal events of Our Lord's life are represented, as well as the chief doctrines of His Church.
 
 > In the course of the Mass, the celebrant observes not less than 500 ceremonies, such as bowing, striking the breast, and making the sign of the cross. These ceremonies aim not only to give honor to God, but also to impress upon the faithful the sublimity of the Holy Sacrifice.
 
 After most low Masses, the priest kneels at the foot of the altar and recites some prescribed prayers with the people.
 
-> All should make the proper responses. No one should leave before the priest. Everybody should stand when the priest leaves the sanctuary. No requiem Mass is permitted on great feasts, for our private sorrows must not take precedence over the joy that should reign over the whole Church on such days.
+> All should make the proper responses. No one should leave before the priest. Everybody should stand when the priest leaves the sanctuary.
+
+> No requiem Mass is permitted on great feasts, for our private sorrows must not take precedence over the joy that should reign over the whole Church on such days.
