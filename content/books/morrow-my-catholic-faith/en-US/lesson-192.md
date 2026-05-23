@@ -1,6 +1,6 @@
 # 192. Church Symbolism
 
-![](../images/lesson-192.webp)
+--.-- TODO: Add remaining images
 
 
 **What is symbolism?**
@@ -32,6 +32,8 @@
 
 > Other symbols for the Holy Trinity are: the triquetra, with equal arcs of the circle symbolizing equality, unity, eternity, and indivisibility; the triquetra with a circle; the triquetra with a triangle; the three fishes arranged in the form of a triangle.
 
+![](../images/lesson-192.webp)
+
 2. For God the Father: a hand coming out of a bank of bright clouds; an eye in an equilateral triangle; a six-pointed star, termed the Creator's star; the Hebrew letters for the word Jehovah (God), inside a triangle, and surrounded by rays; the Hebrew yod inside a triangle, or two yods within rays of glory. 3. For God the Holy Ghost: the descending dove, though this must not be too realistic, and must be with the three-cloven flame of fire, or seven flames; the scroll, to show the seven gifts; the seven lamps, seven doves, seven-fold flame, seven-branched candlestick; the star with seven points, or with nine points, to depict the seven gifts or the nine fruits of the Holy Ghost. 4. For God the Son, our Blessed Saviour. These are almost too numerous to mention, the most important being the cross, with some fifty forms in use. Our Lord is represented by: the Lamb of God on a book with seven seals, or with a banner of victory, or with both; the Good Shepherd; the five-pointed star; the fish; the pelican feeding her young with her blood; the cross on an orb; the vine; the rock; the unicorn; sacred monograms.
 
 > The "Chi Rho" symbol is an abbreviation of the word Christ, with the Greek letters X and P, the first two letters of the word in Greek. Like other monograms for Jesus, it has various forms. At times the Chi Rho is combined with the Alpha and Omega, or with the Greek cross, or with the letter N (Nika, meaning conqueror). The IHC symbol is an abbreviation of the Greek word for Jesus. Today IHS is also used. Another variation is IC XC, to stand for Jesus Christ. INRI means "Jesus of Nazareth, King of the Jews".
@@ -39,6 +41,8 @@
 5. For the Blessed Virgin: the lily, symbol of virginity and purity; the fleur-de-lys in various forms; the rose, white or pink; the pierced heart; the crescent moon; the crown with stars; a star; her monogram, the flowering almond, the closed gate, the sealed book.
 
 > The symbols for the four Evangelists are: a human head for St. Matthew, because his Gospel starts with a relation of the human ancestry of Christ; a lion for St. Mark, because the beginning of his Gospel relates the story of St. John the Baptist in the desert, the home of wild beasts; an ox for St. Luke, because this animal was a symbol of sacrifice, and St. Luke's Gospel begins with a relation of the priest Zachary in the Temple; an eagle for St. John, because the opening verses of his Gospel carry the reader on a flight to the Infinite.
+
+![](../images/lesson-192b.webp)
 
 > Other symbols are: for the Sacraments — the font, a dove, a chalice, a whip, an oil stock, clasped hands and a stole; for the Word of God, an open Bible, a burning light, a candle, two scrolls; for Penance, a priedieu; for Matrimony, two clasped hands; for Holy Orders, a stole, or a chalice on a Bible, with folded stole; for prayer, a censer with smoking incense; for sacred music, a lectern; for the Epistle and Gospel, a double lectern; for benediction, an upraised hand without nimbus. A banner symbolizes victory; a flaming sword, God's authority; a crown, sovereign authority; two tables of stone, the Commandments: a book or scroll, the Law; crossed keys, the power of the Pope.
 
