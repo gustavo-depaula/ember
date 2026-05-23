@@ -14,6 +14,7 @@
  */
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs'
 import { dirname, join, relative, resolve } from 'node:path'
+import { validateGallery as validateGalleryRules } from './validate-flows-rules'
 
 const REPO_ROOT = resolve(__dirname, '..')
 const CONTENT_ROOTS = [
@@ -21,8 +22,17 @@ const CONTENT_ROOTS = [
   join(REPO_ROOT, 'content', 'chapters'),
 ]
 
-type Issue = { file: string; path: string; message: string }
+type Issue = {
+  file: string
+  path: string
+  message: string
+  severity?: 'error' | 'warning'
+}
 const issues: Issue[] = []
+
+function validateGallery(obj: Record<string, unknown>, file: string, path: string): void {
+  for (const issue of validateGalleryRules(obj, file, path)) issues.push(issue)
+}
 
 const KNOWN_SECTION_TYPES = new Set([
   'rubric',
@@ -102,6 +112,9 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
           message: `choice-rich-text missing \`label\` localized text`,
         })
       }
+    }
+    if (obj.type === 'gallery') {
+      validateGallery(obj, ctx.file, path)
     }
     if (obj.type === 'select' && 'from' in obj) {
       if (typeof obj.from !== 'string') {
@@ -273,16 +286,23 @@ for (const i of issues) {
   filesByPath.set(i.file, arr)
 }
 
+const errors = issues.filter((i) => i.severity !== 'warning')
+const warnings = issues.filter((i) => i.severity === 'warning')
+
 if (issues.length === 0) {
   console.log('✓ all flows + manifests valid')
   process.exit(0)
 }
 
 for (const [file, fileIssues] of filesByPath) {
-  console.error(`\n✗ ${relative(REPO_ROOT, file)}`)
+  const hasError = fileIssues.some((i) => i.severity !== 'warning')
+  console.error(`\n${hasError ? '✗' : '⚠'} ${relative(REPO_ROOT, file)}`)
   for (const i of fileIssues) {
-    console.error(`    at ${i.path}: ${i.message}`)
+    const tag = i.severity === 'warning' ? '[warn]' : '[err] '
+    console.error(`    ${tag} at ${i.path}: ${i.message}`)
   }
 }
-console.error(`\n${issues.length} issue${issues.length === 1 ? '' : 's'} across ${filesByPath.size} file${filesByPath.size === 1 ? '' : 's'}`)
-process.exit(1)
+console.error(
+  `\n${errors.length} error${errors.length === 1 ? '' : 's'}, ${warnings.length} warning${warnings.length === 1 ? '' : 's'} across ${filesByPath.size} file${filesByPath.size === 1 ? '' : 's'}`,
+)
+process.exit(errors.length > 0 ? 1 : 0)

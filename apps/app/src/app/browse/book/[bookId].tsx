@@ -8,6 +8,7 @@ import Animated, { FadeIn, FadeOut } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 import { PrayerSpinner, ReaderErrorState, ReadingConfigModal, ScreenLayout } from '@/components'
+import { useImageViewer } from '@/components/ImageViewerContext'
 import { getBookEntry } from '@/content/resolver'
 import { getCursor, setCursor } from '@/db/repositories/cursors'
 import {
@@ -233,49 +234,64 @@ export default function BookReaderScreen() {
     return (currentIndex + pageDisplay.current / Math.max(1, pageDisplay.total)) / leaves.length
   }, [leaves.length, currentIndex, pageDisplay])
 
-  const handleMessage = useCallback((msg: ReaderMessage) => {
-    if (msg.type === 'pageInfo') {
-      currentPageRef.current = msg.currentPage
-      setPageDisplay({ current: msg.currentPage, total: msg.totalPages })
-    }
-    if (msg.type === 'chapterCross') {
-      const {
-        currentIndex,
-        leaves,
-        savePosition,
-        bookContent: bc,
-        titleLookup: tl,
-      } = navRef.current
-      savePosition()
-      if (msg.direction === 'next' && currentIndex < leaves.length - 1) {
-        const newIndex = currentIndex + 1
-        setCurrentChapterId(leaves[newIndex].id)
-        currentPageRef.current = msg.page
-        const newNextId = newIndex + 1 < leaves.length ? leaves[newIndex + 1].id : undefined
-        const bodyHtml = newNextId && bc ? getChapterBody(bc, newNextId, tl.get(newNextId)) : ''
-        webViewRef.current?.refreshBuffer('next', bodyHtml)
+  const { openViewer } = useImageViewer()
+
+  const handleMessage = useCallback(
+    (msg: ReaderMessage) => {
+      if (msg.type === 'pageInfo') {
+        currentPageRef.current = msg.currentPage
+        setPageDisplay({ current: msg.currentPage, total: msg.totalPages })
       }
-      if (msg.direction === 'prev' && currentIndex > 0) {
-        const newIndex = currentIndex - 1
-        setCurrentChapterId(leaves[newIndex].id)
-        currentPageRef.current = msg.page
-        const newPrevId = newIndex - 1 >= 0 ? leaves[newIndex - 1].id : undefined
-        const bodyHtml = newPrevId && bc ? getChapterBody(bc, newPrevId, tl.get(newPrevId)) : ''
-        webViewRef.current?.refreshBuffer('prev', bodyHtml)
+      if (msg.type === 'galleryImageTap') {
+        openViewer(
+          msg.items.map((item) => ({
+            src: item.src,
+            caption: item.caption ?? undefined,
+            attribution: item.attribution ?? undefined,
+          })),
+          msg.index,
+        )
       }
-    }
-    if (msg.type === 'backSwipe') {
-      navRef.current.savePosition()
-      navRef.current.goBack()
-    }
-    if (msg.type === 'centerTap') {
-      setChromeVisible((v) => !v)
-    }
-    if (msg.type === 'ready' && restoredPageRef.current > 0) {
-      webViewRef.current?.goToPage(restoredPageRef.current)
-      restoredPageRef.current = 0
-    }
-  }, [])
+      if (msg.type === 'chapterCross') {
+        const {
+          currentIndex,
+          leaves,
+          savePosition,
+          bookContent: bc,
+          titleLookup: tl,
+        } = navRef.current
+        savePosition()
+        if (msg.direction === 'next' && currentIndex < leaves.length - 1) {
+          const newIndex = currentIndex + 1
+          setCurrentChapterId(leaves[newIndex].id)
+          currentPageRef.current = msg.page
+          const newNextId = newIndex + 1 < leaves.length ? leaves[newIndex + 1].id : undefined
+          const bodyHtml = newNextId && bc ? getChapterBody(bc, newNextId, tl.get(newNextId)) : ''
+          webViewRef.current?.refreshBuffer('next', bodyHtml)
+        }
+        if (msg.direction === 'prev' && currentIndex > 0) {
+          const newIndex = currentIndex - 1
+          setCurrentChapterId(leaves[newIndex].id)
+          currentPageRef.current = msg.page
+          const newPrevId = newIndex - 1 >= 0 ? leaves[newIndex - 1].id : undefined
+          const bodyHtml = newPrevId && bc ? getChapterBody(bc, newPrevId, tl.get(newPrevId)) : ''
+          webViewRef.current?.refreshBuffer('prev', bodyHtml)
+        }
+      }
+      if (msg.type === 'backSwipe') {
+        navRef.current.savePosition()
+        navRef.current.goBack()
+      }
+      if (msg.type === 'centerTap') {
+        setChromeVisible((v) => !v)
+      }
+      if (msg.type === 'ready' && restoredPageRef.current > 0) {
+        webViewRef.current?.goToPage(restoredPageRef.current)
+        restoredPageRef.current = 0
+      }
+    },
+    [openViewer],
+  )
 
   const title = bookEntry ? localizeContent(bookEntry.name) : ''
 

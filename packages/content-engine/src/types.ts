@@ -171,9 +171,19 @@ export type FlowSection = { lang?: string } & (
       body: FlowSection[]
     }
   | {
+      // Grouped images — one of three layouts. `carousel` (default) is the
+      // peek-and-snap browser; `stack` is a vertical figure list; `row` is
+      // side-by-side composition that auto-promotes to bleed-and-swipe when
+      // items don't fit. `weights` only applies in `row` mode; if present,
+      // its length must match items.length. Per-item fields are all optional;
+      // `alt` is the a11y label (not rendered).
       type: 'gallery'
+      display?: 'carousel' | 'stack' | 'row'
+      weights?: number[]
+      caption?: LocalizedText
       items: {
         src: string
+        alt?: LocalizedText
         title?: LocalizedText
         attribution?: LocalizedText
         caption?: LocalizedText
@@ -385,8 +395,12 @@ export type RenderedSection =
   | { type: 'prose'; text: BilingualText }
   | {
       type: 'gallery'
+      display?: 'carousel' | 'stack' | 'row'
+      weights?: number[]
+      caption?: BilingualText
       items: {
         src: string
+        alt?: BilingualText
         title?: BilingualText
         attribution?: BilingualText
         caption?: BilingualText
