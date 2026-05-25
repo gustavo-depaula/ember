@@ -19,7 +19,7 @@
 
 > "Se eu distribuir todos os meus bens para alimentar os pobres, e se entregar meu corpo para ser queimado, contudo não tiver caridade, de nada me aproveita" (1 Cor. 13:3). Esta "caridade" de que São Paulo fala não é senão o amor puro de Deus e do próximo; exclui toda vaidade.
 
-3. Ao fazer as obras de misericórdia, não devemos ser movidos pela esperança de receber uma recompensa terrena. Portanto devemos fazer o bem preferencialmente àqueles que não podem nos retribuir: "Quando deres um banquete, convida os pobres, os aleijados, os coxos, os cegos; e serás bem-aventurado, porque não têm com que te retribuir; pois serás retribuído na ressurreição" (Luc. 14:13).
+3. Ao fazer as obras de misericórdia, não devemos ser movidos pela esperança de receber uma recompensa terrena. Portanto, devemos fazer o bem preferencialmente àqueles que não podem nos retribuir: "Quando deres um banquete, convida os pobres, os aleijados, os coxos, os cegos; e serás bem-aventurado, porque não têm com que te retribuir; pois serás retribuído na ressurreição" (Luc. 14:13).
 
 > "Quando deres esmola, não saiba a tua esquerda o que faz a tua direita, para que a tua esmola seja dada em secreto, e teu Pai, que vê em secreto, te recompensará" (Mat. 6:3-4). Isto não significa, contudo, que devamos sempre manter nossas boas obras em secreto, pois Nosso Senhor Mesmo aconselhou, "Assim brilhe vossa luz diante dos homens, para que vejam vossas boas obras, e dêem glória a vosso Pai que está nos céus" (Mat. 5:16). Se o que fazemos der bom exemplo, devemos deixá-lo ser conhecido, mas sempre com verdadeira modéstia.
 

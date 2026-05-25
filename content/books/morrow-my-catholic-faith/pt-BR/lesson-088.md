@@ -17,7 +17,7 @@
 
 > Aquele que ama seu inimigo por amor de Deus é como Deus; é como seu Pai que está nos céus (Mat. 5:45). Segue o exemplo de Cristo, que rezou e morreu por Seus inimigos. É como os santos, que sempre amaram seus inimigos, por amor de Deus. "Pois Eu vos dei o exemplo, para que como Eu vos fiz, assim também vós o façais" (João 13:15). "Aquele que não ama permanece na morte. Todo aquele que odeia a seu irmão é homicida. E sabeis que nenhum homicida tem a vida eterna" (1 João 3:14-15).
 
-3. Pedimos a Deus que nos perdoe. No "Pai-Nosso" dizemos: "Perdoai-nos as nossas ofensas como nós perdoamos a quem nos tem ofendido." Assim pedimos a Deus que nos trate como tratamos nossos inimigos. Se não os perdoarmos, Ele não nos perdoará.
+3. Pedimos a Deus que nos perdoe. No "Pai-Nosso" dizemos: "Perdoai-nos as nossas ofensas como nós perdoamos a quem nos tem ofendido." Assim, pedimos a Deus que nos trate como tratamos nossos inimigos. Se não os perdoarmos, Ele não nos perdoará.
 
 > "Se não perdoardes aos homens, também vosso Pai não vos perdoará vossas ofensas" (Mat. 6:15). Pode algo ser mais claro do que estas palavras de nosso Senhor?
 

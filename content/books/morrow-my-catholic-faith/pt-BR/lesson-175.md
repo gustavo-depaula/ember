@@ -43,11 +43,11 @@
 
 1. O zeloso diretor de almas dará conselho concernente tanto a matérias espirituais quanto práticas.
 
-> Não é necessário ser fortemente atraído ao estado religioso antes de decidir abraçá-lo. Sentimentos geralmente nada têm a ver com a matéria; o que é mais necessário é vontade. Sentimentos passam mas dia após dia um precisa de uma forte vontade para permanecer fiel aos votos tomados numa congregação religiosa.
+> Não é necessário ser fortemente atraído ao estado religioso antes de decidir abraçá-lo. Sentimentos geralmente nada têm a ver com a matéria; o que é mais necessário é vontade. Sentimentos passam, mas dia após dia um precisa de uma forte vontade para permanecer fiel aos votos tomados numa congregação religiosa.
 
-2. Deve-se aplicar por admissão na comunidade religiosa escolhida. Se um é recusado e tem que retornar para casa não deve sentir-se desgraçado. O noviciado é precisamente uma prova para descobrir as qualificações de um.
+2. Deve-se aplicar por admissão na comunidade religiosa escolhida. Se um é recusado e tem que retornar para casa, não deve sentir-se desgraçado. O noviciado é precisamente uma prova para descobrir as qualificações de um.
 
-> Às vezes, mesmo se um é recusado numa certa comunidade não deve pensar que não pode tornar-se religioso. Deve perseverar e tentar outra comunidade. Vários grandes Santos foram a princípio recusados ou mesmo expulsos pelas congregações que tinham a princípio escolhido. Aqueles que são expulsos devem reconhecer a prova como permitida por Deus e oferecê-la a Ele.
+> Às vezes, mesmo se um é recusado numa certa comunidade, não deve pensar que não pode tornar-se religioso. Deve perseverar e tentar outra comunidade. Vários grandes Santos foram a princípio recusados ou mesmo expulsos pelas congregações que tinham a princípio escolhido. Aqueles que são expulsos devem reconhecer a prova como permitida por Deus e oferecê-la a Ele.
 
 3. Uma vez aceito e permitido tomar os votos, tudo que um tem a fazer é perseverar em viver segundo os votos e tentar dia após dia atingir à mais alta perfeição.
 
@@ -71,7 +71,7 @@
 
 — O dote é uma soma de dinheiro requerida por congregações de mulheres pagável por ocasião da profissão de uma noviça como membro da comunidade.
 
-1. O propósito do dote é prover a pessoa com algum sustento caso deixe a comunidade ao final de seus votos temporários ou após uma dispensa ou em caso de demissão.
+1. O propósito do dote é prover a pessoa com algum sustento caso deixe a comunidade ao final de seus votos temporários, ou após uma dispensa, ou em caso de demissão.
 
 > No caso de alguém deixar a comunidade, o dote é retornado a ela intacto. Enquanto isso, durante sua estadia na comunidade, os juros sobre o dote são usados para sua manutenção.
 
