@@ -53,7 +53,7 @@
 
 4. Um padre em sua própria diocese pode realizar a cerimônia de casamento fora de sua própria paróquia apenas com a permissão do padre paroquial ou bispo do lugar.
 
-> Um padre em sua própria paróquia ou um bispo em sua própria diocese pode casar pessoas não residentes ali, com a permissão de seu pastor ou bispo. Um católico que habitou dentro dos limites de uma certa paróquia por um mês é considerado como pertencendo a ela; também se tem um real lugar de residência nela, com a intenção de permanecer.
+> Um padre em sua própria paróquia, ou um bispo em sua própria diocese, pode casar pessoas não residentes ali, com a permissão de seu pastor ou bispo. Um católico que habitou dentro dos limites de uma certa paróquia por um mês é considerado como pertencendo a ela; também se tem um real lugar de residência nela, com a intenção de permanecer.
 
 
 **Quando a Igreja declara uma separação de um casal validamente casado?**
@@ -62,7 +62,7 @@
 
 1. A separação declarada pela Igreja não corta o vínculo matrimonial válido; nenhuma das partes pode casar novamente até a morte da outra. Se a causa cessar, devem viver juntos novamente.
 
-> A parte ofendida deve obter a sanção do bispo antes da separação. A necessidade de separação raramente surgirá quando ambos marido e mulher são bons católicos práticos que seriamente consideraram as responsabilidades do matrimônio antes de embarcar nele e que o fizeram com oração e as bênçãos da Igreja. Quem tem confiado em Deus e O encontrou surdo à súplica?
+> A parte ofendida deve obter a sanção do bispo antes da separação. A necessidade de separação raramente surgirá quando ambos marido e mulher são bons católicos práticos que seriamente consideraram as responsabilidades do matrimônio antes de embarcar nele, e que o fizeram com oração e as bênçãos da Igreja. Quem tem confiado em Deus e O encontrou surdo à súplica?
 
 2. O único "divórcio" permitido na Igreja Católica é uma separação, sem direito de casar com qualquer outra pessoa.
 

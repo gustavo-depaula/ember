@@ -75,7 +75,7 @@
 
 2. Mostramos maior amor, quando não apenas evitamos o que Deus proíbe, mas fazemos o que Lhe dará prazer.
 
-> Assim Deus não nos ordena ir à Missa todos os dias, mas se o fizermos, Ele se agrada por esta marca de nosso amor.
+> Assim, Deus não nos ordena ir à Missa todos os dias, mas se o fizermos, Ele se agrada por esta marca de nosso amor.
 
 3. Aumentamos nosso amor a Deus amando-O. "A prática faz a perfeição." Quanto mais O amamos, mais podemos amá-Lo.
 
