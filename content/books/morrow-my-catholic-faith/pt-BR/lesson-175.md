@@ -9,11 +9,11 @@
 
 — O estado religioso é um permanente modo de vida comunitária pela qual os fiéis vinculam-se a observar os conselhos evangélicos por votos de pobreza, castidade e obediência.
 
-> A primeira ordem religiosa desenvolveu-se sob Santo Antão o Grande, que reuniu ao seu redor no deserto um número de discípulos vivendo em células separadas. No ano 348 d.C. São Pacômio reuniu os eremitas sob um teto comum, e deu-lhes uma regra fixa; isto foi feito numa ilha próxima à foz do Rio Nilo no Egito. De lá a vida monástica espalhou-se à Palestina e Síria, e dali à Ásia Menor. Nos séculos 5 e 6, a vida monástica foi propagada no Ocidente por São Martinho de Tours e São Bento.
+> A primeira ordem religiosa desenvolveu-se sob Santo Antão o Grande, que reuniu ao seu redor no deserto um número de discípulos vivendo em células separadas. No ano 348 d.C., São Pacômio reuniu os eremitas sob um teto comum, e deu-lhes uma regra fixa; isto foi feito numa ilha próxima à foz do Rio Nilo no Egito. De lá a vida monástica espalhou-se à Palestina e Síria, e dali à Ásia Menor. Nos séculos 5 e 6, a vida monástica foi propagada no Ocidente por São Martinho de Tours e São Bento.
 
 1. O estado religioso é chamado o estado de perfeição porque aqueles que o abraçam têm a obrigação, através da fidelidade a seus votos, de visar à perfeição evangélica.
 
-> Aqueles que estão no estado de perfeição não são necessariamente todos perfeitos; mas espera-se que visem à perfeição. Muitas pessoas no mundo são atualmente mais santas que algumas no estado religioso. É contudo mais fácil esforçar-se após a perfeição no estado religioso, onde há mais ajudas e meios que no mundo com suas distrações.
+> Aqueles que estão no estado de perfeição não são necessariamente todos perfeitos; mas espera-se que visem à perfeição. Muitas pessoas no mundo são atualmente mais santas que algumas no estado religioso. É, contudo, mais fácil esforçar-se após a perfeição no estado religioso, onde há mais ajudas e meios que no mundo com suas distrações.
 
 2. O chamado ao estado religioso é apenas um convite: "Nem todos podem aceitar este ensino, mas àqueles a quem foi dado" (Mat. 19:11).
 

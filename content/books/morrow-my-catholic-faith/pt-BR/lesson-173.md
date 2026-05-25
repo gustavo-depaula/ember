@@ -21,7 +21,7 @@
 
 3. Observamos ordem e regularidade tendo um tempo fixo para tudo: para levantar, retirar, comer, trabalho, recreação, etc.
 
-> Devemos imitar a ordem que Deus pôs em todo o universo, regulando tudo por lei. Recreação não é contra a prática da perfeição cristã; é uma necessidade que Deus deseja que satisfaçamos de modo próprio. Deve contudo não interferir com nossos deveres ou tomar demasiado tempo.
+> Devemos imitar a ordem que Deus pôs em todo o universo, regulando tudo por lei. Recreação não é contra a prática da perfeição cristã; é uma necessidade que Deus deseja que satisfaçamos de modo próprio. Deve, contudo, não interferir com nossos deveres, ou tomar demasiado tempo.
 
 4. Pela oração evitaremos tentações e obteremos bênçãos. Devemos especialmente fazer um hábito de oração ejaculatória.
 

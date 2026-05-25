@@ -42,7 +42,7 @@
 
 (a) Devemos começar desde a juventude a esforçar-nos após a perfeição.
 
-> O Bem-Aventurado Domingos Sávio no dia de sua Primeira Comunhão, quando tinha apenas sete anos de idade, fez algumas resoluções às quais foi fiel até sua morte. Estas resoluções ajudaram-no para a perfeição, de modo que aos quinze anos morreu uma santa morte. Entre suas resoluções estavam:
+> O Bem-Aventurado Domingos Sávio, no dia de sua Primeira Comunhão, quando tinha apenas sete anos de idade, fez algumas resoluções às quais foi fiel até sua morte. Estas resoluções ajudaram-no para a perfeição, de modo que aos quinze anos morreu uma santa morte. Entre suas resoluções estavam:
 > (1) frequente confissão e comunhão;
 > (2) Jesus e Maria como amigos; e
 > (3) morte antes que pecado.

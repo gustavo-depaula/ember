@@ -2,7 +2,7 @@
 
 ![](../images/lesson-176.webp)
 
-*"A seara é realmente abundante, mas os trabalhadores são poucos!" Jesus chama a Seu especial serviço por trabalhadores em Sua seara. Um rapaz e uma moça ouvem o chamado. O rapaz (1) diz a seus pais: "Vede a estola que usarei algum dia!" E a moça (3) sonha com o dia em que estará ensinando na escola como uma religiosa Irmã. Se alguém sente como estes dois jovens que gostaria de servir a Deus plenamente apresse-se a consagrar-se a Deus no estado sacerdotal ou religioso.*
+*"A seara é realmente abundante, mas os trabalhadores são poucos!" Jesus chama a Seu especial serviço por trabalhadores em Sua seara. Um rapaz e uma moça ouvem o chamado. O rapaz (1) diz a seus pais: "Vede a estola que usarei algum dia!" E a moça (3) sonha com o dia em que estará ensinando na escola como uma religiosa Irmã. Se alguém sente, como estes dois jovens, que gostaria de servir a Deus plenamente, apresse-se a consagrar-se a Deus no estado sacerdotal ou religioso.*
 
 
 **Como podem as comunidades religiosas ser classificadas?**

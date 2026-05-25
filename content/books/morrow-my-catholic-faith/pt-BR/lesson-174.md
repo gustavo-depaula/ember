@@ -30,7 +30,7 @@
 
 > Nosso Senhor Mesmo foi extremamente pobre. Um estábulo foi Seu local de nascimento; uma pobre mulher foi Sua Mãe; um carpinteiro foi Seu pai adotivo. Não tinha onde reclinar Sua cabeça.
 
-2. Dar esmolas segundo seus meios é o dever de cada cristão. Mas pobreza voluntária significa a renúncia, por amor de Deus, não apenas de parte mas de toda nossa propriedade terrena e sofrer as dificuldades da pobreza.
+2. Dar esmolas segundo seus meios é o dever de cada cristão. Mas pobreza voluntária significa a renúncia, por amor de Deus, não apenas de parte, mas de toda nossa propriedade terrena e sofrer as dificuldades da pobreza.
 
 
 **O que é castidade perpétua?**
@@ -39,7 +39,7 @@
 
 1. Cristo aconselhou perfeita castidade: "Aceite-o quem pode" (Mat. 19:12). Cristo Mesmo foi perfeitamente casto e virginal. Sua mãe foi uma virgem. Amou crianças, que são virginais.
 
-> "Ora, concernente às virgens, não tenho mandamento do Senhor: contudo dou uma opinião... Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua mulher; e está dividido. E a mulher não casada e a virgem pensa nas coisas do Senhor, para que seja santa no corpo e no espírito. Enquanto a que é casada pensa nas coisas do mundo, de como agradar ao seu marido" (1 Cor. 7:25, 32-34).
+> "Ora, concernente às virgens, não tenho mandamento do Senhor: contudo, dou uma opinião... Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua mulher; e está dividido. E a mulher não casada e a virgem pensa nas coisas do Senhor, para que seja santa no corpo e no espírito. Enquanto a que é casada pensa nas coisas do mundo, de como agradar ao seu marido" (1 Cor. 7:25, 32-34).
 
 2. O sexto e nono mandamentos de Deus obrigam-nos a viver vidas castas e evitar impureza. Mas castidade vitalícia e perfeita significa além do sacrifício de algo lícito: casamento.
 

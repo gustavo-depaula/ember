@@ -26,7 +26,7 @@
 
 — Esta semelhança com Deus está principalmente na alma. O homem continua nesta semelhança com Deus apenas quando permanece na graça de Deus, pois então é "participante da natureza divina" (2 Ped. 1:4).
 
-1. Como Deus, a alma do homem é um espírito imortal, com entendimento e livre-arbítrio. Alguns negam a existência da alma, porque não pode ser vista; contudo as mesmas pessoas não negariam a existência da razão humana, mesmo que esta também não possa ser vista.
+1. Como Deus, a alma do homem é um espírito imortal, com entendimento e livre-arbítrio. Alguns negam a existência da alma, porque não pode ser vista; contudo, as mesmas pessoas não negariam a existência da razão humana, mesmo que esta também não possa ser vista.
 
 > Alguns afirmam que o homem tem duas almas, uma boa e uma má, lutando pelo domínio. Mas a luta que frequentemente experimentamos vem de apenas uma alma com diferentes tendências surgindo do fato de sermos feitos de corpo e alma, parcialmente material e parcialmente espiritual. Numa pessoa viva, a alma não deve ser considerada à parte do corpo; sua união é tão próxima como a relação entre um músico e seu instrumento na hora de um concerto.
 

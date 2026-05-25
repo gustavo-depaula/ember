@@ -13,7 +13,7 @@
 
 1. Marido e mulher devem confortar e apoiar-se um ao outro nas atividades de sua vida comum, no cumprimento de seus deveres individuais assim como mútuos, em todos os assuntos importantes, tanto espirituais quanto materiais. "Agora já não são dois, mas uma só carne" (Mat. 19:6).
 
-> A esposa precisa do marido para apoiar-se; o marido precisa de sua mulher para confortar e cuidar dele. O homem é o provedor e a cabeça; a mulher é a rainha e mãe. No verdadeiro casamento cristão não há questão de egoísmo, competição, ou superioridade entre os esposos, pois eles dois são "uma só carne".
+> A esposa precisa do marido para apoiar-se; o marido precisa de sua mulher para confortar e cuidar dele. O homem é o provedor e a cabeça; a mulher é a rainha e mãe. No verdadeiro casamento cristão, não há questão de egoísmo, competição, ou superioridade entre os esposos, pois eles dois são "uma só carne".
 
 2. Marido e mulher devem ser fiéis a seus votos matrimoniais; devem fidelidade um ao outro. Devem muito cuidadosamente evitar mesmo a aparência de infidelidade, pois onde ciúme é despertado, a felicidade conjugal termina. Devem suportar as faltas e enfermidades um do outro, e não arruinar sua vida doméstica por dissensões.
 
