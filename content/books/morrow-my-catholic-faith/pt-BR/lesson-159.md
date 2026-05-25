@@ -34,7 +34,7 @@
 
 1. Um homem deve ser de excelente caráter. Isto implica boa vontade e conduta virtuosa, assim como bom senso.
 
-> Bom senso é necessário se um padre deve fazer bem às almas. As delicadas funções exercidas por um padre, especialmente como Juiz de almas, excluiriam do sacerdócio uma pessoa de disposição desequilibrada ou uma que carece de prudência.
+> Bom senso é necessário se um padre deve fazer bem às almas. As delicadas funções exercidas por um padre, especialmente como Juiz de almas, excluiriam do sacerdócio uma pessoa de disposição desequilibrada, ou uma que carece de prudência.
 
 2. Deve ter terminado um curso de seminário com sucesso e deve ter completado seu vigésimo quarto ano. No seminário menor, o curso usualmente consiste de quatro ou cinco anos de Latim e Grego, juntamente com matérias de escola secundária. No seminário maior, o curso inclui filosofia e outras matérias colegiais por dois ou três anos, então quatro anos de teologia, com Sagrada Escritura, História da Igreja, Direito Canônico, Liturgia, Sociologia, etc.
 

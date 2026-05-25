@@ -49,7 +49,7 @@
 
 > Um confessor é como um médico. Se um homem doente consulta um médico diferente cada semana e segue as direções de nenhum, não pode esperar muita melhoria em saúde. Similarmente, um penitente que move-se de um confessor para outro dificilmente pode obter o conselho de que precisa.
 
-2. Devemos escolher um confessor hábil e seguir suas direções fielmente. Contudo, para a paz de nossa consciência, não devemos hesitar em mudar confessores. Não devemos tornar-nos tão apegados a um quanto a ser incapazes de confessar a outro padre.
+2. Devemos escolher um confessor hábil, e seguir suas direções fielmente. Contudo, para a paz de nossa consciência, não devemos hesitar em mudar confessores. Não devemos tornar-nos tão apegados a um quanto a ser incapazes de confessar a outro padre.
 
 > Se mudamos confessores, nunca devemos sem necessidade mencionar ao novo o que nossos antigos confessores nos aconselharam. Poderia trabalhar uma injustiça ao confessor prévio, que não pode defender-se.
 

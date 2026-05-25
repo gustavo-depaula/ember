@@ -9,7 +9,7 @@
 
 — O estado religioso é um permanente modo de vida comunitária pela qual os fiéis vinculam-se a observar os conselhos evangélicos por votos de pobreza, castidade e obediência.
 
-> A primeira ordem religiosa desenvolveu-se sob Santo Antão o Grande, que reuniu ao seu redor no deserto um número de discípulos vivendo em células separadas. No ano 348 d.C. São Pacômio reuniu os eremitas sob um teto comum e deu-lhes uma regra fixa; isto foi feito numa ilha próxima à foz do Rio Nilo no Egito. De lá a vida monástica espalhou-se à Palestina e Síria e dali à Ásia Menor. Nos séculos 5 e 6 a vida monástica foi propagada no Ocidente por São Martinho de Tours e São Bento.
+> A primeira ordem religiosa desenvolveu-se sob Santo Antão o Grande, que reuniu ao seu redor no deserto um número de discípulos vivendo em células separadas. No ano 348 d.C. São Pacômio reuniu os eremitas sob um teto comum, e deu-lhes uma regra fixa; isto foi feito numa ilha próxima à foz do Rio Nilo no Egito. De lá a vida monástica espalhou-se à Palestina e Síria, e dali à Ásia Menor. Nos séculos 5 e 6, a vida monástica foi propagada no Ocidente por São Martinho de Tours e São Bento.
 
 1. O estado religioso é chamado o estado de perfeição porque aqueles que o abraçam têm a obrigação, através da fidelidade a seus votos, de visar à perfeição evangélica.
 
@@ -62,9 +62,9 @@
 
 > Nosso Senhor prometeu, "Todo aquele que deixou casa ou irmãos ou irmãs ou pai ou mãe ou mulher ou filhos ou terras por amor do Meu nome receberá cem vezes mais e possuirá a vida eterna" (Mat. 19:29).
 
-2. É uma grande honra para uma família ter mesmo um de seus membros dedicado ao especial serviço de Deus como padre um irmão ou uma freira. Pais cristãos devem orar para que Deus possa dar a seu filho uma vocação religiosa.
+2. É uma grande honra para uma família ter mesmo um de seus membros dedicado ao especial serviço de Deus como padre, um irmão ou uma freira. Pais cristãos devem orar para que Deus possa dar a seu filho uma vocação religiosa.
 
-> Nosso Senhor disse: "Se alguém vem a Mim e não odeia seu pai e mãe e mulher e filhos e irmãos e irmãs sim e mesmo sua própria vida não pode ser Meu discípulo" (Lucas 14:26). Por este "ódio" não significa quebrar o mandamento de Deus de amor; significa apenas renunciar por amor de Deus desapegar-se do que é bom para estar plenamente apegado ao único infinitamente Perfeito Bem Deus. "Todo aquele de vós que não renuncia a tudo que possui não pode ser Meu discípulo" (Lucas 14:33).
+> Nosso Senhor disse: "Se alguém vem a Mim e não odeia seu pai e mãe e mulher e filhos e irmãos e irmãs, sim, e mesmo sua própria vida, não pode ser Meu discípulo" (Lucas 14:26). Por este "ódio" não significa quebrar o mandamento de Deus de amor; significa apenas renunciar por amor de Deus, desapegar-se do que é bom, para estar plenamente apegado ao único infinitamente Perfeito Bem, Deus. "Todo aquele de vós que não renuncia a tudo que possui não pode ser Meu discípulo" (Lucas 14:33).
 
 
 **O que é o dote?**
@@ -73,7 +73,7 @@
 
 1. O propósito do dote é prover a pessoa com algum sustento caso deixe a comunidade ao final de seus votos temporários ou após uma dispensa ou em caso de demissão.
 
-> No caso de alguém deixar a comunidade o dote é retornado a ela intacto. Enquanto isso durante sua estadia na comunidade os juros sobre o dote são usados para sua manutenção.
+> No caso de alguém deixar a comunidade, o dote é retornado a ela intacto. Enquanto isso, durante sua estadia na comunidade, os juros sobre o dote são usados para sua manutenção.
 
 2. Aqueles que não podem dar um dote podem ser dispensados com o consentimento da Santa Sé.
 

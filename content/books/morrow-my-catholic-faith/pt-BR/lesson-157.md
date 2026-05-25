@@ -77,7 +77,7 @@ O seguinte é um diagrama mostrando a disposição:
 
 1. Devemos ajoelhar-nos perto da cama do paciente e recitar as orações pelos moribundos, que podem ser encontradas na maioria dos livros de oração. Devemos sugerir-lhe curtas ejaculações que possa facilmente repetir, pelo menos em sua mente. Devemos recitar com ele especialmente aquelas orações que são enriquecidas com indulgências plenárias para a hora da morte.
 
-> A bênção papal com indulgência plenária anexada é ganha dizendo o santo Nome de Jesus. Se incapaz de dizê-lo, a pessoa deve pelo menos pensá-lo e com contrição beijar um crucifixo abençoado.
+> A bênção papal com indulgência plenária anexada é ganha dizendo o santo Nome de Jesus. Se incapaz de dizê-lo, a pessoa deve pelo menos pensá-lo, e com contrição beijar um crucifixo abençoado.
 
 2. A seguinte oração é enriquecida com uma indulgência plenária na hora da morte: "Ó meu Deus, eu agora neste momento pronta e voluntariamente aceito de Tua mão qualquer tipo de morte que desejares enviar-me, com todas as suas dores, penalidades, tristezas."
 

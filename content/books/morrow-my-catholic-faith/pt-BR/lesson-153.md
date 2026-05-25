@@ -68,7 +68,7 @@
 
 > Assim aqueles que negligenciam a prática de ganhar indulgências podem ser comparados a um viajante que prefere um caminho longo e difícil embora um curto e agradável lhe seja oferecido.
 
-2. Consolam-nos em nosso medo do juízo de Deus por nossos pecados passados e dão-nos esperança para o futuro.
+2. Consolam-nos em nosso medo do juízo de Deus por nossos pecados passados, e dão-nos esperança para o futuro.
 
 > Quando pecamos, encorajam-nos a fazer nossa paz com Deus, pois um estado de graça é necessário antes que possamos ganhar qualquer indulgência.
 

@@ -63,7 +63,7 @@
 
 4. Saúde do corpo quando isto é bom para a alma.
 
-> Extrema-Unção frequentemente restaura à saúde. Muitas vezes a paz de espírito que segue a confissão e o conhecimento que Extrema-Unção reconciliou alguém com Deus reagem beneficamente sobre o corpo de uma pessoa doente e causam a restauração de sua saúde.
+> Extrema-Unção frequentemente restaura à saúde. Muitas vezes a paz de espírito que segue a confissão, e o conhecimento que Extrema-Unção reconciliou alguém com Deus, reagem beneficamente sobre o corpo de uma pessoa doente e causam a restauração de sua saúde.
 
 
 **Quando a Extrema-Unção tira o pecado mortal?**

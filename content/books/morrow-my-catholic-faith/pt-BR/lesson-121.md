@@ -62,7 +62,7 @@ Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali e em 
 
 > Contudo, para o bem dos fiéis o bispo pode antecipá-lo; mas não antes do quarto Domingo da Quaresma e pode também prorrogá-lo; mas não além da Festa da Santíssima Trindade. Geralmente, deve-se referir ao costume geral do lugar. Pois pode acontecer, como nas Filipinas como *lex contra legem*, tempo pascal é do Domingo da Septuagésima ao Domingo antes do primeiro Domingo do Advento.
 
-1. Contudo é apropriado receber a Santa Comunhão no próprio dia da Páscoa, porque foi apenas alguns dias antes da Páscoa, durante a Última Ceia, que Nosso Senhor instituiu a Santa Eucaristia.
+1. Contudo, é apropriado receber a Santa Comunhão no próprio dia da Páscoa, porque foi apenas alguns dias antes da Páscoa, durante a Última Ceia, que Nosso Senhor instituiu a Santa Eucaristia.
 
 > Nos primeiros dias do Cristianismo, cristãos geralmente recebiam a Santa Comunhão tão frequentemente quanto podiam ouvir Missa. A lei prescrevendo a recepção da Santa Comunhão no tempo pascal foi feita no décimo terceiro século.
 
