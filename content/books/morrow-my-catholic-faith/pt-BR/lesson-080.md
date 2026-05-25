@@ -21,7 +21,7 @@
 
 3. Cristo redimiu o homem inteiro, e não a alma apenas.
 
-> Logo o corpo deve, no caso dos justos, ressuscitar para a vida eterna. O corpo do homem foi originalmente destinado para a imortalidade, e a perdeu apenas com o pecado de Adão. "Como em Adão todos morrem, assim em Cristo todos serão vivificados" (1 Cor. 15:22). "Aquele que ressuscitou Jesus nos ressuscitará também com Jesus" (2 Cor. 4:14). "Nosso Senhor Jesus Cristo refará o corpo de nossa baixeza" (Fil. 3:21).
+> Logo, o corpo deve, no caso dos justos, ressuscitar para a vida eterna. O corpo do homem foi originalmente destinado para a imortalidade, e a perdeu apenas com o pecado de Adão. "Como em Adão todos morrem, assim em Cristo todos serão vivificados" (1 Cor. 15:22). "Aquele que ressuscitou Jesus nos ressuscitará também com Jesus" (2 Cor. 4:14). "Nosso Senhor Jesus Cristo refará o corpo de nossa baixeza" (Fil. 3:21).
 
 4. A ressurreição do corpo não é uma ideia extraordinária. Se olharmos ao nosso redor na natureza, podemos ver tipos da ressurreição do corpo.
 

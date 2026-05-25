@@ -13,7 +13,7 @@
 
 > O que pensarias de um filho que dá a seus pais apenas o que é demandado dele? O que pensarias dele se nunca mostrasse a eles qualquer afeição, nunca fizesse nada extra para eles para mostrar seu amor e gratidão? Diríamos que ele é um filho anormal, uma criança antinatural.
 
-2. Dizemos que amamos a Deus, nosso Criador, Pai e Amigo, nosso Salvador, a Fonte de todos nossos benefícios e graças. Amor é provado por obras, pela quantidade de sacrifício que estaríamos dispostos a fazer pela pessoa amada. É por isto que sabemos que Cristo o Deus-Homem nos amou tanto: Sacrificou tudo, a própria vida, por nós. Podemos algum dia retornar tal amor?
+2. Dizemos que amamos a Deus, nosso Criador, Pai e Amigo, nosso Salvador, a Fonte de todos nossos benefícios e graças. Amor é provado por obras, pela quantidade de sacrifício que estaríamos dispostos a fazer pela pessoa amada. É por isto que sabemos que Cristo, o Deus-Homem, nos amou tanto: Sacrificou tudo, a própria vida, por nós. Podemos algum dia retornar tal amor?
 
 > Podemos algum dia servir a Deus suficientemente, para mostrar nossa afeição? Ele não nos comanda sair de nosso caminho para ajudar os pobres; mas podemos considerar alguém um bom cristão que não o faz? Um cristão não deve apenas obedecer aos comandos de Cristo, mas seguir Seus conselhos. Vamos à igreja em dias de semana, porque O amamos e desejamos visitá-Lo no Santíssimo Sacramento do altar, para recebê-Lo em nossos próprios corações. Devemos pensar em coisas extras para fazer por Deus, como pensamos em coisas extras para fazer pela pessoa que mais amamos. Nossos pais não nos comandam comprar presentes para eles em seus aniversários; mas se o fazemos, não estão eles encantados em nossa demonstração de afeição?
 
@@ -26,7 +26,7 @@
 
 1. A perfeição cristã não é nada senão santidade, o amor dos santos por Deus. Para que aqueles que se chamam "mortais ordinários" não tenham medo de aspirar a esta santidade, devemos deixar claro que não requer obras extraordinárias. Apenas requer profundo, permanente amor, pois "Amor é o cumprimento da lei" o cumprimento dela até seu muito fundamento e profundezas, não meramente na superfície.
 
-> Nossa Santíssima Mãe fez alguma obra extraordinária, julgada pelos padrões normais do mundo? Mas nenhum mortal foi ou pode ser tão santo, tão cheio de perfeição. Entreguemo-nos fervorosamente a Deus e estaremos no caminho da perfeição cristã, segundo nossa capacidade individual.
+> Nossa Santíssima Mãe fez alguma obra extraordinária, julgada pelos padrões normais do mundo? Mas nenhum mortal foi ou pode ser tão santo, tão cheio de perfeição. Entreguemo-nos fervorosamente a Deus, e estaremos no caminho da perfeição cristã, segundo nossa capacidade individual.
 
 2. Deus requer que todos aspirem à perfeição cristã. Ele diz: "Sede, portanto, perfeitos como vosso Pai celestial é perfeito" (Mat. 5:48).
 

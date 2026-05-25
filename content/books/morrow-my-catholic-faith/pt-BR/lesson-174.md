@@ -69,7 +69,7 @@
 
 1. Cristo aconselhou perfeita obediência. Disse a Seus Apóstolos: "Segue-Me." Disse ao jovem rico: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres... e vem, segue-Me" (Mat. 19:21), isto é, "Vem e serás guiado por Mim em todas as coisas."
 
-> Cristo foi perfeitamente obediente a Seu Pai celestial. Nunca buscou Sua própria vontade mas sempre a vontade do Pai Que O enviou. Foi obediente a Sua Mãe e a São José.
+> Cristo foi perfeitamente obediente a Seu Pai celestial. Nunca buscou Sua própria vontade, mas sempre a vontade do Pai Que O enviou. Foi obediente a Sua Mãe e a São José.
 
 2. Todos os homens estão obrigados a render cristã obediência a seus superiores segundo seu estado. Crianças devem obedecer a seus pais; cidadãos devem obedecer às autoridades civis; todos devem obedecer a seus superiores espirituais. Mas esta obrigação deixa-nos livres em muitas coisas; não vincula todas nossas ações. Obediência perfeita, por outro lado, requer-nos obedecer em tudo. É o maior sacrifício que podemos dar a Deus.
 
