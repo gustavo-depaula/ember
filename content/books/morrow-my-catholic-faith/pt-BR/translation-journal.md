@@ -149,6 +149,135 @@ Target: pt-BR
 | lesson-063 | ✅ Done | Ação Católica |
 | lesson-064 | ✅ Done | Igreja e Estado |
 | lesson-065 | ✅ Done | Serviços da Igreja ao Estado |
-| lesson-066 | 🔄 Next | O Credo: Artigo por Artigo |
+| lesson-066 | ✅ Done | Autoridade da Igreja |
+| lesson-067 | ✅ Done | Infalibilidade da Igreja |
+| lesson-068 | ✅ Done | Esfera da Infalibilidade |
+| lesson-069 | ✅ Done | Indefectibilidade da Igreja |
+| lesson-070 | ✅ Done | Salvação e a Igreja Católica |
+| lesson-071 | ✅ Done | Cisma e Heresia |
+| lesson-072 | ✅ Done | Igrejas Protestantes |
+| lesson-073 | ✅ Done | As Portas do Inferno |
+| lesson-074 | ✅ Done | Um Só Corpo em Cristo: Comunhão dos Santos |
+| lesson-075 | ✅ Done | O Perdão dos Pecados |
+| lesson-076 | ✅ Done | A Morte |
+| lesson-077 | ✅ Done | Juízo Particular |
+| lesson-078 | ✅ Done | Existência do Purgatório |
+| lesson-079 | ✅ Done | Almas no Purgatório |
+| lesson-080 | ✅ Done | Ressurreição do Corpo |
+| lesson-081 | ✅ Done | Juízo Geral |
+| lesson-082 | ✅ Done | Os Tormentos do Inferno |
+| lesson-083 | ✅ Done | Vida Eterna: Céu |
+| lesson-084 | ✅ Done | A Lei de Deus; Consciência |
+| lesson-085 | ✅ Done | Os Grandes Mandamentos |
+| lesson-086 | ✅ Done | Amor de Nós Mesmos |
+| lesson-087 | ✅ Done | Amor do Nosso Próximo |
+| lesson-088 | ✅ Done | Nossos Inimigos e Nossos Amigos |
+| lesson-089 | ✅ Done | Obras de Misericórdia |
+| lesson-090 | ✅ Done | Obrigação das Boas Obras |
+| lesson-091 | ✅ Done | Mandamentos de Deus |
+| lesson-092 | ✅ Done | O Primeiro Mandamento |
+| lesson-093 | ✅ Done | Veneração dos Santos |
+| lesson-094 | ✅ Done | Relíquias e Imagens |
+| lesson-095 | ✅ Done | Pecados Contra a Fé |
+| lesson-096 | ✅ Done | Religião e Superstição |
+| lesson-097 | ✅ Done | Pecados Contra a Esperança e Caridade |
+| lesson-098 | ✅ Done | O Segundo Mandamento |
+| lesson-099 | ✅ Done | Juramentos e Votos |
+| lesson-100 | ✅ Done | O Terceiro Mandamento |
+| lesson-101 | ✅ Done | Trabalho Servil Desnecessário |
+| lesson-102 | ✅ Done | O Quarto Mandamento |
+| lesson-103 | ✅ Done | Deveres dos Pais |
+| lesson-104 | ✅ Done | Deveres de Outros Superiores |
+| lesson-105 | ✅ Done | Deveres Cívicos |
+| lesson-107 | ✅ Done | Cuidando de Nossa Saúde e Vida |
+| lesson-108 | ✅ Done | Mau Exemplo e Escândalo |
+| lesson-109 | ✅ Done | O Sexto e Nono Mandamentos |
+| lesson-110 | ✅ Done | Desejos Pecaminosos Contra a Castidade |
+| lesson-111 | ✅ Done | O Sétimo e Décimo Mandamentos |
+| lesson-112 | ✅ Done | Reparação de Dano à Propriedade |
+| lesson-113 | ✅ Done | Justiça Social |
+| lesson-114 | ✅ Done | Capital e Trabalho |
+| lesson-115 | ✅ Done | O Oitavo Mandamento |
+| lesson-116 | ✅ Done | Pecados Contra a Verdade |
+| lesson-117 | ✅ Done | Mandamentos da Igreja |
+| lesson-118 | ✅ Done | Primeiro Mandamento da Igreja |
+| lesson-119 | ✅ Done | O Ano Eclesiástico |
+| lesson-120 | ✅ Done | Segundo Mandamento da Igreja |
+| lesson-121 | ✅ Done | 3º e 4º Mandamentos da Igreja |
+| lesson-122 | ✅ Done | Quinto Mandamento da Igreja |
+| lesson-123 | ✅ Done | Os Sete Sacramentos |
+| lesson-124 | ✅ Done | O Sacramento do Batismo |
+| lesson-125 | ✅ Done | Forma, Matéria e Ministros do Batismo |
+| lesson-126 | ✅ Done | Cerimônias e Padrinhos do Batismo |
+| lesson-127 | ✅ Done | O Sacramento do Crisma |
+| lesson-128 | ✅ Done | O Sacramento da Santa Eucaristia |
+| lesson-129 | ✅ Done | A Presença Real |
+| lesson-130 | ✅ Done | Natureza e História do Sacrifício |
+| lesson-131 | ✅ Done | O Novo Sacrifício |
+| lesson-132 | ✅ Done | A Missa e o Calvário |
+| lesson-133 | ✅ Done | Fins e Frutos da Missa |
+| lesson-134 | ✅ Done | Valor da Missa |
+| lesson-135 | ✅ Done | O Altar |
+| lesson-136 | ✅ Done | Vasos Sagrados e Roupas de Altar |
+| lesson-137 | ✅ Done | Paramentos |
+| lesson-138 | ✅ Done | Cores Litúrgicas |
+| lesson-139 | ✅ Done | Modo de Assistir à Missa |
+| lesson-140 | ✅ Done | O Santo Sacrifício da Missa |
+| lesson-141 | ✅ Done | Santa Comunhão |
+| lesson-142 | ✅ Done | Disposições para a Santa Comunhão |
+| lesson-143 | ✅ Done | Graças da Santa Eucaristia |
+| lesson-144 | ✅ Done | O Sacramento da Penitência |
+| lesson-145 | ✅ Done | Exame de Consciência |
+| lesson-146 | ✅ Done | Pesar pelo Pecado |
+| lesson-147 | ✅ Done | Contrição Perfeita e Imperfeita |
+| lesson-148 | ✅ Done | Propósito de Emenda |
+| lesson-149 | ✅ Done | Confissão Sacramental |
+| lesson-150 | ✅ Done | Como Fazer uma Boa Confissão |
+| lesson-151 | ✅ Done | Satisfação pelo Pecado |
+| lesson-152 | ✅ Done | O Sigilo da Confissão |
+| lesson-153 | ✅ Done | Indulgências |
+| lesson-154 | ✅ Done | Concessão de Indulgências |
+| lesson-155 | ✅ Done | Ganhando uma Indulgência |
+| lesson-156 | ✅ Done | O Sacramento da Extrema-Unção |
+| lesson-157 | ✅ Done | Os Últimos Sacramentos |
+| lesson-158 | ✅ Done | Sepultamento Cristão |
+| lesson-159 | ✅ Done | O Sacramento da Ordem |
+| lesson-160 | ✅ Done | Ordens Maiores e Menores |
+| lesson-161 | ✅ Done | Poderes e Deveres dos Padres |
+| lesson-162 | ✅ Done | Dignidade do Sacerdócio |
+| lesson-163 | ✅ Done | Sacramento do Matrimônio |
+| lesson-164 | ✅ Done | Deveres da Vida Matrimonial |
+| lesson-165 | ✅ Done | Divórcio |
+| lesson-166 | ✅ Done | Leis da Igreja sobre o Casamento |
+| lesson-167 | ✅ Done | Impedimentos ao Matrimônio |
+| lesson-168 | ✅ Done | Dispensas de Impedimentos Matrimoniais |
+| lesson-169 | ✅ Done | Namoro e Noivado |
+| lesson-170 | ✅ Done | Preparação para o Casamento |
+| lesson-171 | ✅ Done | A Cerimônia de Casamento |
+| lesson-172 | ✅ Done | Perfeição Cristã |
+| lesson-173 | ✅ Done | Meios Gerais de Perfeição |
+| lesson-174 | ✅ Done | Os Conselhos Evangélicos |
+| lesson-175 | ✅ Done | O Estado Religioso |
+| lesson-176 | ✅ Done | Comunidades Religiosas |
+| lesson-177 | ✅ Done | Sacramentais |
+| lesson-178 | ✅ Done | Uso e Valor dos Sacramentais |
+| lesson-179 | ✅ Done | Objetos Abençoados de Devoção |
+| lesson-180 | ✅ Done | Objetos e Qualidades da Oração |
+| lesson-181 | ✅ Done | Por Quem Quando e Onde Orar |
+| lesson-182 | ✅ Done | O Sinal da Cruz |
+| lesson-183 | ✅ Done | O "Pai-Nosso" |
+| lesson-184 | ✅ Done | Orações a Maria |
+| lesson-185 | ✅ Done | O Rosário |
+| lesson-186 | ✅ Done | Práticas Religiosas |
+| lesson-187 | ✅ Done | Devoções ao Santíssimo Sacramento |
+| lesson-188 | ✅ Done | Veneração dos Santos |
+| lesson-189 | ✅ Done | Procissões e Peregrinações |
+| lesson-190 | ✅ Done | Associações Religiosas |
+| lesson-191 | ✅ Done | Propagação da Fé |
+| lesson-192 | ✅ Done | Simbolismo da Igreja |
+| lesson-193 | ✅ Done | Conclusão: Por Que Sou Católico |
+| lesson-194 | ✅ Done | As Orações Mais Importantes |
+| lesson-195 | ✅ Done | O Ano Litúrgico |
 
-**Progress:** 65/195 chapters (33.3%) — Part 1: What to Believe (Credo)
+**Progress:** 195/195 chapters (100%) — TRANSLATION COMPLETE!
+

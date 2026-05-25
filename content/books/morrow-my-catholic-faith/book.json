@@ -1,528 +1,621 @@
 {
   "id": "morrow-my-catholic-faith",
   "name": {
-    "en-US": "My Catholic Faith: A Catechism in Pictures"
+    "en-US": "My Catholic Faith: A Catechism in Pictures",
+    "pt-BR": "Minha Fé Católica: Um Catecismo em Figuras"
   },
   "author": {
-    "en-US": "Bp. Louis LaRavoire Morrow"
+    "en-US": "Bp. Louis LaRavoire Morrow",
+    "pt-BR": "Bp. Louis LaRavoire Morrow"
   },
   "description": {
-    "en-US": "A complete pictorial catechism in 193 illustrated lessons, presenting the doctrines and practices of the Catholic Church in three parts: What to Believe (the Creed), What to Do (the Commandments), and Means of Grace (the Sacraments and Prayer). First published in 1949 by the Bishop of Krishnagar."
+    "en-US": "A complete pictorial catechism in 193 illustrated lessons, presenting the doctrines and practices of the Catholic Church in three parts: What to Believe (the Creed), What to Do (the Commandments), and Means of Grace (the Sacraments and Prayer). First published in 1949 by the Bishop of Krishnagar.",
+    "pt-BR": "Um catecismo pictórico completo em 193 lições ilustradas, apresentando as doutrinas e práticas da Igreja Católica em três partes: O Que Crer (o Credo), O Que Fazer (os Mandamentos), e Meios de Graça (os Sacramentos e a Oração). Publicado pela primeira vez em 1949 pelo Bispo de Krishnagar."
   },
   "composed": 1949,
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
       "language": "en-US",
       "url": "https://fsspx.asia/sites/default/files/documents/my-catholic-faith.pdf",
       "description": "PDF of the 2021 revised edition published by FSSPX Asia."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://fsspx.asia/sites/default/files/documents/my-catholic-faith.pdf",
+      "description": "PDF da edição revisada de 2021 publicada pela FSSPX Asia."
     }
   ],
   "toc": [
     {
       "id": "part-1",
       "title": {
-        "en-US": "Part One — What to Believe: The Apostles' Creed"
+        "en-US": "Part One — What to Believe: The Apostles' Creed",
+        "pt-BR": "Parte Um — O Que Crer: O Credo dos Apóstolos"
       },
       "children": [
         {
           "id": "lesson-001",
           "title": {
-            "en-US": "1. Religion and the End of Man"
+            "en-US": "1. Religion and the End of Man",
+            "pt-BR": "1. A Religião e o Fim do Homem"
           }
         },
         {
           "id": "lesson-002",
           "title": {
-            "en-US": "2. The Apostles' Creed"
+            "en-US": "2. The Apostles' Creed",
+            "pt-BR": "2. O Credo dos Apóstolos"
           }
         },
         {
           "id": "lesson-003",
           "title": {
-            "en-US": "3. God the Supreme Being"
+            "en-US": "3. God the Supreme Being",
+            "pt-BR": "3. Deus o Ser Supremo"
           }
         },
         {
           "id": "lesson-004",
           "title": {
-            "en-US": "4. The Perfections of God"
+            "en-US": "4. The Perfections of God",
+            "pt-BR": "4. As Perfeições de Deus"
           }
         },
         {
           "id": "lesson-005",
           "title": {
-            "en-US": "5. Divine Providence"
+            "en-US": "5. Divine Providence",
+            "pt-BR": "5. A Divina Providência"
           }
         },
         {
           "id": "lesson-006",
           "title": {
-            "en-US": "6. Existence of God"
+            "en-US": "6. Existence of God",
+            "pt-BR": "6. A Existência de Deus"
           }
         },
         {
           "id": "lesson-007",
           "title": {
-            "en-US": "7. Divine Revelation"
+            "en-US": "7. Divine Revelation",
+            "pt-BR": "7. A Revelação Divina"
           }
         },
         {
           "id": "lesson-008",
           "title": {
-            "en-US": "8. Holy Scripture, or the Bible"
+            "en-US": "8. Holy Scripture, or the Bible",
+            "pt-BR": "8. A Sagrada Escritura ou a Bíblia"
           }
         },
         {
           "id": "lesson-009",
           "title": {
-            "en-US": "9. Divine Tradition"
+            "en-US": "9. Divine Tradition",
+            "pt-BR": "9. A Divina Tradição"
           }
         },
         {
           "id": "lesson-010",
           "title": {
-            "en-US": "10. The Church and Divine Revelation"
+            "en-US": "10. The Church and Divine Revelation",
+            "pt-BR": "10. A Igreja e a Revelação Divina"
           }
         },
         {
           "id": "lesson-011",
           "title": {
-            "en-US": "11. One God in Three Persons"
+            "en-US": "11. One God in Three Persons",
+            "pt-BR": "11. Um Só Deus em Três Pessoas"
           }
         },
         {
           "id": "lesson-012",
           "title": {
-            "en-US": "12. Unity of the Blessed Trinity"
+            "en-US": "12. Unity of the Blessed Trinity",
+            "pt-BR": "12. A Unidade da Santíssima Trindade"
           }
         },
         {
           "id": "lesson-013",
           "title": {
-            "en-US": "13. Creation"
+            "en-US": "13. Creation",
+            "pt-BR": "13. A Criação"
           }
         },
         {
           "id": "lesson-014",
           "title": {
-            "en-US": "14. Revelation and Science"
+            "en-US": "14. Revelation and Science",
+            "pt-BR": "14. Revelação e Ciência"
           }
         },
         {
           "id": "lesson-015",
           "title": {
-            "en-US": "15. The Angels"
+            "en-US": "15. The Angels",
+            "pt-BR": "15. Os Anjos"
           }
         },
         {
           "id": "lesson-016",
           "title": {
-            "en-US": "16. The Devils; Temptation"
+            "en-US": "16. The Devils; Temptation",
+            "pt-BR": "16. Os Demônios; A Tentação"
           }
         },
         {
           "id": "lesson-017",
           "title": {
-            "en-US": "17. An Image of God"
+            "en-US": "17. An Image of God",
+            "pt-BR": "17. Uma Imagem de Deus"
           }
         },
         {
           "id": "lesson-018",
           "title": {
-            "en-US": "18. Adam and Eve: Our First Parents"
+            "en-US": "18. Adam and Eve: Our First Parents",
+            "pt-BR": "18. Adão e Eva: Nossos Primeiros Pais"
           }
         },
         {
           "id": "lesson-019",
           "title": {
-            "en-US": "19. Evolution and the Bible"
+            "en-US": "19. Evolution and the Bible",
+            "pt-BR": "19. Evolução e a Bíblia"
           }
         },
         {
           "id": "lesson-020",
           "title": {
-            "en-US": "20. Original Sin"
+            "en-US": "20. Original Sin",
+            "pt-BR": "20. O Pecado Original"
           }
         },
         {
           "id": "lesson-021",
           "title": {
-            "en-US": "21. Actual Sin"
+            "en-US": "21. Actual Sin",
+            "pt-BR": "21. O Pecado Atual"
           }
         },
         {
           "id": "lesson-022",
           "title": {
-            "en-US": "22. Mortal Sin"
+            "en-US": "22. Mortal Sin",
+            "pt-BR": "22. O Pecado Mortal"
           }
         },
         {
           "id": "lesson-023",
           "title": {
-            "en-US": "23. Venial Sin"
+            "en-US": "23. Venial Sin",
+            "pt-BR": "23. O Pecado Venial"
           }
         },
         {
           "id": "lesson-024",
           "title": {
-            "en-US": "24. Occasions and Sources of Sin"
+            "en-US": "24. Occasions and Sources of Sin",
+            "pt-BR": "24. Ocasiões e Fontes de Pecado"
           }
         },
         {
           "id": "lesson-025",
           "title": {
-            "en-US": "25. Pride, Covetousness, Lust"
+            "en-US": "25. Pride, Covetousness, Lust",
+            "pt-BR": "25. Orgulho, Avareza, Luxúria"
           }
         },
         {
           "id": "lesson-026",
           "title": {
-            "en-US": "26. Anger, Gluttony, Envy, Sloth"
+            "en-US": "26. Anger, Gluttony, Envy, Sloth",
+            "pt-BR": "26. Ira, Gula, Inveja, Preguiça"
           }
         },
         {
           "id": "lesson-027",
           "title": {
-            "en-US": "27. The Promise of the Redeemer"
+            "en-US": "27. The Promise of the Redeemer",
+            "pt-BR": "27. A Promessa do Redentor"
           }
         },
         {
           "id": "lesson-028",
           "title": {
-            "en-US": "28. The God-man"
+            "en-US": "28. The God-man",
+            "pt-BR": "28. O Deus-Homem"
           }
         },
         {
           "id": "lesson-029",
           "title": {
-            "en-US": "29. Our Lord Jesus Christ"
+            "en-US": "29. Our Lord Jesus Christ",
+            "pt-BR": "29. Nosso Senhor Jesus Cristo"
           }
         },
         {
           "id": "lesson-030",
           "title": {
-            "en-US": "30. The Incarnation"
+            "en-US": "30. The Incarnation",
+            "pt-BR": "30. A Encarnação"
           }
         },
         {
           "id": "lesson-031",
           "title": {
-            "en-US": "31. The Nativity"
+            "en-US": "31. The Nativity",
+            "pt-BR": "31. A Natividade"
           }
         },
         {
           "id": "lesson-032",
           "title": {
-            "en-US": "32. The Hidden Life of Jesus Christ"
+            "en-US": "32. The Hidden Life of Jesus Christ",
+            "pt-BR": "32. A Vida Oculta de Jesus Cristo"
           }
         },
         {
           "id": "lesson-033",
           "title": {
-            "en-US": "33. The Public Life of Jesus Christ"
+            "en-US": "33. The Public Life of Jesus Christ",
+            "pt-BR": "33. A Vida Pública de Jesus Cristo"
           }
         },
         {
           "id": "lesson-034",
           "title": {
-            "en-US": "34. The Passion"
+            "en-US": "34. The Passion",
+            "pt-BR": "34. A Paixão"
           }
         },
         {
           "id": "lesson-035",
           "title": {
-            "en-US": "35. Calvary"
+            "en-US": "35. Calvary",
+            "pt-BR": "35. O Calvário"
           }
         },
         {
           "id": "lesson-036",
           "title": {
-            "en-US": "36. The Resurrection"
+            "en-US": "36. The Resurrection",
+            "pt-BR": "36. A Ressurreição"
           }
         },
         {
           "id": "lesson-037",
           "title": {
-            "en-US": "37. The Ascension"
+            "en-US": "37. The Ascension",
+            "pt-BR": "37. A Ascensão"
           }
         },
         {
           "id": "lesson-038",
           "title": {
-            "en-US": "38. The Holy Ghost"
+            "en-US": "38. The Holy Ghost",
+            "pt-BR": "38. O Espírito Santo"
           }
         },
         {
           "id": "lesson-039",
           "title": {
-            "en-US": "39. Sanctifying Grace"
+            "en-US": "39. Sanctifying Grace",
+            "pt-BR": "39. A Graça Santificante"
           }
         },
         {
           "id": "lesson-040",
           "title": {
-            "en-US": "40. Actual Grace"
+            "en-US": "40. Actual Grace",
+            "pt-BR": "40. A Graça Atual"
           }
         },
         {
           "id": "lesson-041",
           "title": {
-            "en-US": "41. The Theological Virtues"
+            "en-US": "41. The Theological Virtues",
+            "pt-BR": "41. As Virtudes Teologais"
           }
         },
         {
           "id": "lesson-042",
           "title": {
-            "en-US": "42. Gifts and Fruits of the Holy Ghost"
+            "en-US": "42. Gifts and Fruits of the Holy Ghost",
+            "pt-BR": "42. Dons e Frutos do Espírito Santo"
           }
         },
         {
           "id": "lesson-043",
           "title": {
-            "en-US": "43. Moral Virtues"
+            "en-US": "43. Moral Virtues",
+            "pt-BR": "43. As Virtudes Morais"
           }
         },
         {
           "id": "lesson-044",
           "title": {
-            "en-US": "44. Humility, Liberality, Chastity"
+            "en-US": "44. Humility, Liberality, Chastity",
+            "pt-BR": "44. Humildade, Liberalidade, Castidade"
           }
         },
         {
           "id": "lesson-045",
           "title": {
-            "en-US": "45. Meekness, Abstinence, Zeal, Brotherly Love"
+            "en-US": "45. Meekness, Abstinence, Zeal, Brotherly Love",
+            "pt-BR": "45. Mansidão, Abstinência, Zelo, Amor Fraterno"
           }
         },
         {
           "id": "lesson-046",
           "title": {
-            "en-US": "46. The Eight Beatitudes"
+            "en-US": "46. The Eight Beatitudes",
+            "pt-BR": "46. As Oito Bem-Aventuranças"
           }
         },
         {
           "id": "lesson-047",
           "title": {
-            "en-US": "47. Foundation of the Church"
+            "en-US": "47. Foundation of the Church",
+            "pt-BR": "47. A Fundação da Igreja"
           }
         },
         {
           "id": "lesson-048",
           "title": {
-            "en-US": "48. The Apostles: First Bishops of the Church"
+            "en-US": "48. The Apostles: First Bishops of the Church",
+            "pt-BR": "48. Os Apóstolos: Primeiros Bispos da Igreja"
           }
         },
         {
           "id": "lesson-049",
           "title": {
-            "en-US": "49. The Primacy of Peter"
+            "en-US": "49. The Primacy of Peter",
+            "pt-BR": "49. O Primado de Pedro"
           }
         },
         {
           "id": "lesson-050",
           "title": {
-            "en-US": "50. Marks of the True Church"
+            "en-US": "50. Marks of the True Church",
+            "pt-BR": "50. As Marcas da Verdadeira Igreja"
           }
         },
         {
           "id": "lesson-051",
           "title": {
-            "en-US": "51. The One True Church"
+            "en-US": "51. The One True Church",
+            "pt-BR": "51. A Única Verdadeira Igreja"
           }
         },
         {
           "id": "lesson-052",
           "title": {
-            "en-US": "52. The Catholic Church: Unity and Holiness"
+            "en-US": "52. The Catholic Church: Unity and Holiness",
+            "pt-BR": "52. A Igreja Católica: Unidade e Santidade"
           }
         },
         {
           "id": "lesson-053",
           "title": {
-            "en-US": "53. The Catholic Church: Catholicity and Apostolicity"
+            "en-US": "53. The Catholic Church: Catholicity and Apostolicity",
+            "pt-BR": "53. A Igreja Católica: Catolicidade e Apostolicidade"
           }
         },
         {
           "id": "lesson-054",
           "title": {
-            "en-US": "54. The Living Church"
+            "en-US": "54. The Living Church",
+            "pt-BR": "54. A Igreja Viva"
           }
         },
         {
           "id": "lesson-055",
           "title": {
-            "en-US": "55. The Catholic Eastern Church; Rites"
+            "en-US": "55. The Catholic Eastern Church; Rites",
+            "pt-BR": "55. A Igreja Católica Oriental; Ritos"
           }
         },
         {
           "id": "lesson-056",
           "title": {
-            "en-US": "56. The Bishop of Rome"
+            "en-US": "56. The Bishop of Rome",
+            "pt-BR": "56. O Bispo de Roma"
           }
         },
         {
           "id": "lesson-057",
           "title": {
-            "en-US": "57. Powers of the Pope"
+            "en-US": "57. Powers of the Pope",
+            "pt-BR": "57. Os Poderes do Papa"
           }
         },
         {
           "id": "lesson-058",
           "title": {
-            "en-US": "58. The Roman Curia"
+            "en-US": "58. The Roman Curia",
+            "pt-BR": "58. A Cúria Romana"
           }
         },
         {
           "id": "lesson-059",
           "title": {
-            "en-US": "59. The Hierarchy"
+            "en-US": "59. The Hierarchy",
+            "pt-BR": "59. A Hierarquia"
           }
         },
         {
           "id": "lesson-060",
           "title": {
-            "en-US": "60. Bishops and Priests"
+            "en-US": "60. Bishops and Priests",
+            "pt-BR": "60. Bispos e Sacerdotes"
           }
         },
         {
           "id": "lesson-061",
           "title": {
-            "en-US": "61. The Pope, Bishops and Councils"
+            "en-US": "61. The Pope, Bishops and Councils",
+            "pt-BR": "61. O Papa, os Bispos e os Concílios"
           }
         },
         {
           "id": "lesson-062",
           "title": {
-            "en-US": "62. The Laity"
+            "en-US": "62. The Laity",
+            "pt-BR": "62. Os Leigos"
           }
         },
         {
           "id": "lesson-063",
           "title": {
-            "en-US": "63. Catholic Action"
+            "en-US": "63. Catholic Action",
+            "pt-BR": "63. A Ação Católica"
           }
         },
         {
           "id": "lesson-064",
           "title": {
-            "en-US": "64. Church and State"
+            "en-US": "64. Church and State",
+            "pt-BR": "64. Igreja e Estado"
           }
         },
         {
           "id": "lesson-065",
           "title": {
-            "en-US": "65. Services of the Church to the State"
+            "en-US": "65. Services of the Church to the State",
+            "pt-BR": "65. Serviços da Igreja ao Estado"
           }
         },
         {
           "id": "lesson-066",
           "title": {
-            "en-US": "66. Authority of the Church"
+            "en-US": "66. Authority of the Church",
+            "pt-BR": "66. A Autoridade da Igreja"
           }
         },
         {
           "id": "lesson-067",
           "title": {
-            "en-US": "67. Infallibility of the Church"
+            "en-US": "67. Infallibility of the Church",
+            "pt-BR": "67. A Infalibilidade da Igreja"
           }
         },
         {
           "id": "lesson-068",
           "title": {
-            "en-US": "68. Sphere of Infallibility"
+            "en-US": "68. Sphere of Infallibility",
+            "pt-BR": "68. A Esfera da Infalibilidade"
           }
         },
         {
           "id": "lesson-069",
           "title": {
-            "en-US": "69. Indefectibility of the Church"
+            "en-US": "69. Indefectibility of the Church",
+            "pt-BR": "69. A Indefectibilidade da Igreja"
           }
         },
         {
           "id": "lesson-070",
           "title": {
-            "en-US": "70. Salvation and the Catholic Church"
+            "en-US": "70. Salvation and the Catholic Church",
+            "pt-BR": "70. A Salvação e a Igreja Católica"
           }
         },
         {
           "id": "lesson-071",
           "title": {
-            "en-US": "71. Schism and Heresy"
+            "en-US": "71. Schism and Heresy",
+            "pt-BR": "71. Cisma e Heresia"
           }
         },
         {
           "id": "lesson-072",
           "title": {
-            "en-US": "72. Protestant Churches"
+            "en-US": "72. Protestant Churches",
+            "pt-BR": "72. As Igrejas Protestantes"
           }
         },
         {
           "id": "lesson-073",
           "title": {
-            "en-US": "73. The Gates of Hell"
+            "en-US": "73. The Gates of Hell",
+            "pt-BR": "73. As Portas do Inferno"
           }
         },
         {
           "id": "lesson-074",
           "title": {
-            "en-US": "74. One Body in Christ: Communion of Saints"
+            "en-US": "74. One Body in Christ: Communion of Saints",
+            "pt-BR": "74. Um Só Corpo em Cristo: A Comunhão dos Santos"
           }
         },
         {
           "id": "lesson-075",
           "title": {
-            "en-US": "75. The Forgiveness of Sins"
+            "en-US": "75. The Forgiveness of Sins",
+            "pt-BR": "75. O Perdão dos Pecados"
           }
         },
         {
           "id": "lesson-076",
           "title": {
-            "en-US": "76. Death"
+            "en-US": "76. Death",
+            "pt-BR": "76. A Morte"
           }
         },
         {
           "id": "lesson-077",
           "title": {
-            "en-US": "77. Particular Judgment"
+            "en-US": "77. Particular Judgment",
+            "pt-BR": "77. O Juízo Particular"
           }
         },
         {
           "id": "lesson-078",
           "title": {
-            "en-US": "78. Existence of Purgatory"
+            "en-US": "78. Existence of Purgatory",
+            "pt-BR": "78. A Existência do Purgatório"
           }
         },
         {
           "id": "lesson-079",
           "title": {
-            "en-US": "79. Souls in Purgatory"
+            "en-US": "79. Souls in Purgatory",
+            "pt-BR": "79. As Almas no Purgatório"
           }
         },
         {
           "id": "lesson-080",
           "title": {
-            "en-US": "80. Resurrection of the Body"
+            "en-US": "80. Resurrection of the Body",
+            "pt-BR": "80. A Ressurreição do Corpo"
           }
         },
         {
           "id": "lesson-081",
           "title": {
-            "en-US": "81. General Judgment"
+            "en-US": "81. General Judgment",
+            "pt-BR": "81. O Juízo Geral"
           }
         },
         {
           "id": "lesson-082",
           "title": {
-            "en-US": "82. The Torments of Hell"
+            "en-US": "82. The Torments of Hell",
+            "pt-BR": "82. Os Tormentos do Inferno"
           }
         },
         {
           "id": "lesson-083",
           "title": {
-            "en-US": "83. Life Everlasting: Heaven"
+            "en-US": "83. Life Everlasting: Heaven",
+            "pt-BR": "83. A Vida Eterna: O Céu"
           }
         }
       ]
@@ -530,241 +623,281 @@
     {
       "id": "part-2",
       "title": {
-        "en-US": "Part Two — What to Do: The Commandments"
+        "en-US": "Part Two — What to Do: The Commandments",
+        "pt-BR": "Parte Dois — O Que Fazer: Os Mandamentos"
       },
       "children": [
         {
           "id": "lesson-084",
           "title": {
-            "en-US": "84. God's Law; Conscience"
+            "en-US": "84. God's Law; Conscience",
+            "pt-BR": "84. A Lei de Deus; A Consciência"
           }
         },
         {
           "id": "lesson-085",
           "title": {
-            "en-US": "85. The Great Commandments"
+            "en-US": "85. The Great Commandments",
+            "pt-BR": "85. Os Grandes Mandamentos"
           }
         },
         {
           "id": "lesson-086",
           "title": {
-            "en-US": "86. Love of Ourselves"
+            "en-US": "86. Love of Ourselves",
+            "pt-BR": "86. O Amor de Nós Mesmos"
           }
         },
         {
           "id": "lesson-087",
           "title": {
-            "en-US": "87. Love of Our Neighbour"
+            "en-US": "87. Love of Our Neighbour",
+            "pt-BR": "87. O Amor do Nosso Próximo"
           }
         },
         {
           "id": "lesson-088",
           "title": {
-            "en-US": "88. Our Enemies and Our Friends"
+            "en-US": "88. Our Enemies and Our Friends",
+            "pt-BR": "88. Nossos Inimigos e Nossos Amigos"
           }
         },
         {
           "id": "lesson-089",
           "title": {
-            "en-US": "89. Works of Mercy"
+            "en-US": "89. Works of Mercy",
+            "pt-BR": "89. As Obras de Misericórdia"
           }
         },
         {
           "id": "lesson-090",
           "title": {
-            "en-US": "90. Obligation of Good Works"
+            "en-US": "90. Obligation of Good Works",
+            "pt-BR": "90. A Obrigação das Boas Obras"
           }
         },
         {
           "id": "lesson-091",
           "title": {
-            "en-US": "91. Commandments of God"
+            "en-US": "91. Commandments of God",
+            "pt-BR": "91. Os Mandamentos de Deus"
           }
         },
         {
           "id": "lesson-092",
           "title": {
-            "en-US": "92. The First Commandment"
+            "en-US": "92. The First Commandment",
+            "pt-BR": "92. O Primeiro Mandamento"
           }
         },
         {
           "id": "lesson-093",
           "title": {
-            "en-US": "93. Veneration of Saints"
+            "en-US": "93. Veneration of Saints",
+            "pt-BR": "93. A Veneração dos Santos"
           }
         },
         {
           "id": "lesson-094",
           "title": {
-            "en-US": "94. Relics and Images"
+            "en-US": "94. Relics and Images",
+            "pt-BR": "94. Relíquias e Imagens"
           }
         },
         {
           "id": "lesson-095",
           "title": {
-            "en-US": "95. Sins Against Faith"
+            "en-US": "95. Sins Against Faith",
+            "pt-BR": "95. Pecados Contra a Fé"
           }
         },
         {
           "id": "lesson-096",
           "title": {
-            "en-US": "96. Religion and Superstition"
+            "en-US": "96. Religion and Superstition",
+            "pt-BR": "96. Religião e Superstição"
           }
         },
         {
           "id": "lesson-097",
           "title": {
-            "en-US": "97. Sins Against Hope and Charity"
+            "en-US": "97. Sins Against Hope and Charity",
+            "pt-BR": "97. Pecados Contra a Esperança e a Caridade"
           }
         },
         {
           "id": "lesson-098",
           "title": {
-            "en-US": "98. The Second Commandment"
+            "en-US": "98. The Second Commandment",
+            "pt-BR": "98. O Segundo Mandamento"
           }
         },
         {
           "id": "lesson-099",
           "title": {
-            "en-US": "99. Oaths and Vows"
+            "en-US": "99. Oaths and Vows",
+            "pt-BR": "99. Juramentos e Votos"
           }
         },
         {
           "id": "lesson-100",
           "title": {
-            "en-US": "100. The Third Commandment"
+            "en-US": "100. The Third Commandment",
+            "pt-BR": "100. O Terceiro Mandamento"
           }
         },
         {
           "id": "lesson-101",
           "title": {
-            "en-US": "101. Unnecessary Servile Work"
+            "en-US": "101. Unnecessary Servile Work",
+            "pt-BR": "101. O Trabalho Servil Desnecessário"
           }
         },
         {
           "id": "lesson-102",
           "title": {
-            "en-US": "102. The Fourth Commandment"
+            "en-US": "102. The Fourth Commandment",
+            "pt-BR": "102. O Quarto Mandamento"
           }
         },
         {
           "id": "lesson-103",
           "title": {
-            "en-US": "103. Duties of Parents"
+            "en-US": "103. Duties of Parents",
+            "pt-BR": "103. Os Deveres dos Pais"
           }
         },
         {
           "id": "lesson-104",
           "title": {
-            "en-US": "104. Duties of Other Superiors"
+            "en-US": "104. Duties of Other Superiors",
+            "pt-BR": "104. Os Deveres de Outros Superiores"
           }
         },
         {
           "id": "lesson-105",
           "title": {
-            "en-US": "105. Civic Duties"
+            "en-US": "105. Civic Duties",
+            "pt-BR": "105. Os Deveres Cívicos"
           }
         },
         {
           "id": "lesson-106",
           "title": {
-            "en-US": "106. The Fifth Commandment"
+            "en-US": "106. The Fifth Commandment",
+            "pt-BR": "106. O Quinto Mandamento"
           }
         },
         {
           "id": "lesson-107",
           "title": {
-            "en-US": "107. Caring for Our Health and Life"
+            "en-US": "107. Caring for Our Health and Life",
+            "pt-BR": "107. Cuidando de Nossa Saúde e Vida"
           }
         },
         {
           "id": "lesson-108",
           "title": {
-            "en-US": "108. Bad Example and Scandal"
+            "en-US": "108. Bad Example and Scandal",
+            "pt-BR": "108. O Mau Exemplo e o Escândalo"
           }
         },
         {
           "id": "lesson-109",
           "title": {
-            "en-US": "109. The Sixth and Ninth Commandments"
+            "en-US": "109. The Sixth and Ninth Commandments",
+            "pt-BR": "109. O Sexto e o Nono Mandamentos"
           }
         },
         {
           "id": "lesson-110",
           "title": {
-            "en-US": "110. Sinful Desires Against Chastity"
+            "en-US": "110. Sinful Desires Against Chastity",
+            "pt-BR": "110. Desejos Pecaminosos Contra a Castidade"
           }
         },
         {
           "id": "lesson-111",
           "title": {
-            "en-US": "111. The Seventh and Tenth Commandments"
+            "en-US": "111. The Seventh and Tenth Commandments",
+            "pt-BR": "111. O Sétimo e o Décimo Mandamentos"
           }
         },
         {
           "id": "lesson-112",
           "title": {
-            "en-US": "112. Reparation of Damage to Property"
+            "en-US": "112. Reparation of Damage to Property",
+            "pt-BR": "112. A Reparação de Dano à Propriedade"
           }
         },
         {
           "id": "lesson-113",
           "title": {
-            "en-US": "113. Social Justice"
+            "en-US": "113. Social Justice",
+            "pt-BR": "113. A Justiça Social"
           }
         },
         {
           "id": "lesson-114",
           "title": {
-            "en-US": "114. Capital and Labour"
+            "en-US": "114. Capital and Labour",
+            "pt-BR": "114. Capital e Trabalho"
           }
         },
         {
           "id": "lesson-115",
           "title": {
-            "en-US": "115. The Eighth Commandment"
+            "en-US": "115. The Eighth Commandment",
+            "pt-BR": "115. O Oitavo Mandamento"
           }
         },
         {
           "id": "lesson-116",
           "title": {
-            "en-US": "116. Sins Against Truth"
+            "en-US": "116. Sins Against Truth",
+            "pt-BR": "116. Pecados Contra a Verdade"
           }
         },
         {
           "id": "lesson-117",
           "title": {
-            "en-US": "117. Commandments of the Church"
+            "en-US": "117. Commandments of the Church",
+            "pt-BR": "117. Os Mandamentos da Igreja"
           }
         },
         {
           "id": "lesson-118",
           "title": {
-            "en-US": "118. First Commandment of the Church"
+            "en-US": "118. First Commandment of the Church",
+            "pt-BR": "118. O Primeiro Mandamento da Igreja"
           }
         },
         {
           "id": "lesson-119",
           "title": {
-            "en-US": "119. The Ecclesiastical Year"
+            "en-US": "119. The Ecclesiastical Year",
+            "pt-BR": "119. O Ano Eclesiástico"
           }
         },
         {
           "id": "lesson-120",
           "title": {
-            "en-US": "120. Second Commandment of the Church"
+            "en-US": "120. Second Commandment of the Church",
+            "pt-BR": "120. O Segundo Mandamento da Igreja"
           }
         },
         {
           "id": "lesson-121",
           "title": {
-            "en-US": "121. 3rd and 4th Commandments of the Church"
+            "en-US": "121. 3rd and 4th Commandments of the Church",
+            "pt-BR": "121. O Terceiro e Quarto Mandamentos da Igreja"
           }
         },
         {
           "id": "lesson-122",
           "title": {
-            "en-US": "122. Fifth Commandment of the Church"
+            "en-US": "122. Fifth Commandment of the Church",
+            "pt-BR": "122. O Quinto Mandamento da Igreja"
           }
         }
       ]
@@ -772,433 +905,505 @@
     {
       "id": "part-3",
       "title": {
-        "en-US": "Part Three — Means of Grace: Sacraments and Prayer"
+        "en-US": "Part Three — Means of Grace: Sacraments and Prayer",
+        "pt-BR": "Parte Três — Meios de Graça: Sacramentos e Oração"
       },
       "children": [
         {
           "id": "lesson-123",
           "title": {
-            "en-US": "123. The Seven Sacraments"
+            "en-US": "123. The Seven Sacraments",
+            "pt-BR": "123. Os Sete Sacramentos"
           }
         },
         {
           "id": "lesson-124",
           "title": {
-            "en-US": "124. The Sacrament of Baptism"
+            "en-US": "124. The Sacrament of Baptism",
+            "pt-BR": "124. O Sacramento do Batismo"
           }
         },
         {
           "id": "lesson-125",
           "title": {
-            "en-US": "125. Form, Matter and Ministers of Baptism"
+            "en-US": "125. Form, Matter and Ministers of Baptism",
+            "pt-BR": "125. Forma, Matéria e Ministros do Batismo"
           }
         },
         {
           "id": "lesson-126",
           "title": {
-            "en-US": "126. Ceremonies and Sponsors of Baptism"
+            "en-US": "126. Ceremonies and Sponsors of Baptism",
+            "pt-BR": "126. Cerimônias e Padrinhos do Batismo"
           }
         },
         {
           "id": "lesson-127",
           "title": {
-            "en-US": "127. The Sacrament of Confirmation"
+            "en-US": "127. The Sacrament of Confirmation",
+            "pt-BR": "127. O Sacramento do Crisma"
           }
         },
         {
           "id": "lesson-128",
           "title": {
-            "en-US": "128. The Sacrament of the Holy Eucharist"
+            "en-US": "128. The Sacrament of the Holy Eucharist",
+            "pt-BR": "128. O Sacramento da Santa Eucaristia"
           }
         },
         {
           "id": "lesson-129",
           "title": {
-            "en-US": "129. The Real Presence"
+            "en-US": "129. The Real Presence",
+            "pt-BR": "129. A Presença Real"
           }
         },
         {
           "id": "lesson-130",
           "title": {
-            "en-US": "130. Nature and History of Sacrifice"
+            "en-US": "130. Nature and History of Sacrifice",
+            "pt-BR": "130. Natureza e História do Sacrifício"
           }
         },
         {
           "id": "lesson-131",
           "title": {
-            "en-US": "131. The New Sacrifice"
+            "en-US": "131. The New Sacrifice",
+            "pt-BR": "131. O Novo Sacrifício"
           }
         },
         {
           "id": "lesson-132",
           "title": {
-            "en-US": "132. The Mass and Calvary"
+            "en-US": "132. The Mass and Calvary",
+            "pt-BR": "132. A Missa e o Calvário"
           }
         },
         {
           "id": "lesson-133",
           "title": {
-            "en-US": "133. Ends and Fruits of the Mass"
+            "en-US": "133. Ends and Fruits of the Mass",
+            "pt-BR": "133. Fins e Frutos da Missa"
           }
         },
         {
           "id": "lesson-134",
           "title": {
-            "en-US": "134. Value of the Mass"
+            "en-US": "134. Value of the Mass",
+            "pt-BR": "134. O Valor da Missa"
           }
         },
         {
           "id": "lesson-135",
           "title": {
-            "en-US": "135. The Altar"
+            "en-US": "135. The Altar",
+            "pt-BR": "135. O Altar"
           }
         },
         {
           "id": "lesson-136",
           "title": {
-            "en-US": "136. Sacred Vessels and Altar Linens"
+            "en-US": "136. Sacred Vessels and Altar Linens",
+            "pt-BR": "136. Vasos Sagrados e Roupas de Altar"
           }
         },
         {
           "id": "lesson-137",
           "title": {
-            "en-US": "137. Vestments"
+            "en-US": "137. Vestments",
+            "pt-BR": "137. Os Paramentos"
           }
         },
         {
           "id": "lesson-138",
           "title": {
-            "en-US": "138. Liturgical Colours"
+            "en-US": "138. Liturgical Colours",
+            "pt-BR": "138. As Cores Litúrgicas"
           }
         },
         {
           "id": "lesson-139",
           "title": {
-            "en-US": "139. Manner of Assisting at Mass"
+            "en-US": "139. Manner of Assisting at Mass",
+            "pt-BR": "139. Modo de Assistir à Missa"
           }
         },
         {
           "id": "lesson-140",
           "title": {
-            "en-US": "140. The Holy Sacrifice of the Mass"
+            "en-US": "140. The Holy Sacrifice of the Mass",
+            "pt-BR": "140. O Santo Sacrifício da Missa"
           }
         },
         {
           "id": "lesson-141",
           "title": {
-            "en-US": "141. Holy Communion"
+            "en-US": "141. Holy Communion",
+            "pt-BR": "141. A Santa Comunhão"
           }
         },
         {
           "id": "lesson-142",
           "title": {
-            "en-US": "142. Dispositions for Holy Communion"
+            "en-US": "142. Dispositions for Holy Communion",
+            "pt-BR": "142. Disposições para a Santa Comunhão"
           }
         },
         {
           "id": "lesson-143",
           "title": {
-            "en-US": "143. Graces From the Holy Eucharist"
+            "en-US": "143. Graces From the Holy Eucharist",
+            "pt-BR": "143. Graças da Santa Eucaristia"
           }
         },
         {
           "id": "lesson-144",
           "title": {
-            "en-US": "144. The Sacrament of Penance"
+            "en-US": "144. The Sacrament of Penance",
+            "pt-BR": "144. O Sacramento da Penitência"
           }
         },
         {
           "id": "lesson-145",
           "title": {
-            "en-US": "145. Examination of Conscience"
+            "en-US": "145. Examination of Conscience",
+            "pt-BR": "145. O Exame de Consciência"
           }
         },
         {
           "id": "lesson-146",
           "title": {
-            "en-US": "146. Sorrow for Sin"
+            "en-US": "146. Sorrow for Sin",
+            "pt-BR": "146. O Pesar pelo Pecado"
           }
         },
         {
           "id": "lesson-147",
           "title": {
-            "en-US": "147. Perfect and Imperfect Contrition"
+            "en-US": "147. Perfect and Imperfect Contrition",
+            "pt-BR": "147. Contrição Perfeita e Imperfeita"
           }
         },
         {
           "id": "lesson-148",
           "title": {
-            "en-US": "148. Purpose of Amendment"
+            "en-US": "148. Purpose of Amendment",
+            "pt-BR": "148. O Propósito de Emenda"
           }
         },
         {
           "id": "lesson-149",
           "title": {
-            "en-US": "149. Sacramental Confession"
+            "en-US": "149. Sacramental Confession",
+            "pt-BR": "149. A Confissão Sacramental"
           }
         },
         {
           "id": "lesson-150",
           "title": {
-            "en-US": "150. How to Make a Good Confession"
+            "en-US": "150. How to Make a Good Confession",
+            "pt-BR": "150. Como Fazer uma Boa Confissão"
           }
         },
         {
           "id": "lesson-151",
           "title": {
-            "en-US": "151. Satisfaction for Sin"
+            "en-US": "151. Satisfaction for Sin",
+            "pt-BR": "151. A Satisfação pelo Pecado"
           }
         },
         {
           "id": "lesson-152",
           "title": {
-            "en-US": "152. The Seal of Confession"
+            "en-US": "152. The Seal of Confession",
+            "pt-BR": "152. O Sigilo da Confissão"
           }
         },
         {
           "id": "lesson-153",
           "title": {
-            "en-US": "153. Indulgences"
+            "en-US": "153. Indulgences",
+            "pt-BR": "153. As Indulgências"
           }
         },
         {
           "id": "lesson-154",
           "title": {
-            "en-US": "154. Grant of Indulgences"
+            "en-US": "154. Grant of Indulgences",
+            "pt-BR": "154. A Concessão de Indulgências"
           }
         },
         {
           "id": "lesson-155",
           "title": {
-            "en-US": "155. Gaining an Indulgence"
+            "en-US": "155. Gaining an Indulgence",
+            "pt-BR": "155. Ganhando uma Indulgência"
           }
         },
         {
           "id": "lesson-156",
           "title": {
-            "en-US": "156. The Sacrament of Extreme Unction"
+            "en-US": "156. The Sacrament of Extreme Unction",
+            "pt-BR": "156. O Sacramento da Extrema-Unção"
           }
         },
         {
           "id": "lesson-157",
           "title": {
-            "en-US": "157. The Last Sacraments"
+            "en-US": "157. The Last Sacraments",
+            "pt-BR": "157. Os Últimos Sacramentos"
           }
         },
         {
           "id": "lesson-158",
           "title": {
-            "en-US": "158. Christian Burial"
+            "en-US": "158. Christian Burial",
+            "pt-BR": "158. O Sepultamento Cristão"
           }
         },
         {
           "id": "lesson-159",
           "title": {
-            "en-US": "159. The Sacrament of Holy Orders"
+            "en-US": "159. The Sacrament of Holy Orders",
+            "pt-BR": "159. O Sacramento da Ordem"
           }
         },
         {
           "id": "lesson-160",
           "title": {
-            "en-US": "160. Major and Minor Orders"
+            "en-US": "160. Major and Minor Orders",
+            "pt-BR": "160. Ordens Maiores e Menores"
           }
         },
         {
           "id": "lesson-161",
           "title": {
-            "en-US": "161. Powers and Duties of Priests"
+            "en-US": "161. Powers and Duties of Priests",
+            "pt-BR": "161. Poderes e Deveres dos Padres"
           }
         },
         {
           "id": "lesson-162",
           "title": {
-            "en-US": "162. Dignity of Priesthood"
+            "en-US": "162. Dignity of Priesthood",
+            "pt-BR": "162. A Dignidade do Sacerdócio"
           }
         },
         {
           "id": "lesson-163",
           "title": {
-            "en-US": "163. Sacrament of Matrimony"
+            "en-US": "163. Sacrament of Matrimony",
+            "pt-BR": "163. O Sacramento do Matrimônio"
           }
         },
         {
           "id": "lesson-164",
           "title": {
-            "en-US": "164. Duties of Married Life"
+            "en-US": "164. Duties of Married Life",
+            "pt-BR": "164. Os Deveres da Vida Matrimonial"
           }
         },
         {
           "id": "lesson-165",
           "title": {
-            "en-US": "165. Divorce"
+            "en-US": "165. Divorce",
+            "pt-BR": "165. O Divórcio"
           }
         },
         {
           "id": "lesson-166",
           "title": {
-            "en-US": "166. Church Laws on Marriage"
+            "en-US": "166. Church Laws on Marriage",
+            "pt-BR": "166. As Leis da Igreja sobre o Casamento"
           }
         },
         {
           "id": "lesson-167",
           "title": {
-            "en-US": "167. Impediments to Matrimony"
+            "en-US": "167. Impediments to Matrimony",
+            "pt-BR": "167. Impedimentos ao Matrimônio"
           }
         },
         {
           "id": "lesson-168",
           "title": {
-            "en-US": "168. Dispensations From Matrimonial Impediments"
+            "en-US": "168. Dispensations From Matrimonial Impediments",
+            "pt-BR": "168. Dispensas de Impedimentos Matrimoniais"
           }
         },
         {
           "id": "lesson-169",
           "title": {
-            "en-US": "169. Courtship and Engagement"
+            "en-US": "169. Courtship and Engagement",
+            "pt-BR": "169. Namoro e Noivado"
           }
         },
         {
           "id": "lesson-170",
           "title": {
-            "en-US": "170. Preparation for Marriage"
+            "en-US": "170. Preparation for Marriage",
+            "pt-BR": "170. A Preparação para o Casamento"
           }
         },
         {
           "id": "lesson-171",
           "title": {
-            "en-US": "171. The Marriage Ceremony"
+            "en-US": "171. The Marriage Ceremony",
+            "pt-BR": "171. A Cerimônia de Casamento"
           }
         },
         {
           "id": "lesson-172",
           "title": {
-            "en-US": "172. Christian Perfection"
+            "en-US": "172. Christian Perfection",
+            "pt-BR": "172. A Perfeição Cristã"
           }
         },
         {
           "id": "lesson-173",
           "title": {
-            "en-US": "173. General Means of Perfection"
+            "en-US": "173. General Means of Perfection",
+            "pt-BR": "173. Meios Gerais de Perfeição"
           }
         },
         {
           "id": "lesson-174",
           "title": {
-            "en-US": "174. The Evangelical Counsels"
+            "en-US": "174. The Evangelical Counsels",
+            "pt-BR": "174. Os Conselhos Evangélicos"
           }
         },
         {
           "id": "lesson-175",
           "title": {
-            "en-US": "175. The Religious State"
+            "en-US": "175. The Religious State",
+            "pt-BR": "175. O Estado Religioso"
           }
         },
         {
           "id": "lesson-176",
           "title": {
-            "en-US": "176. Religious Communities"
+            "en-US": "176. Religious Communities",
+            "pt-BR": "176. As Comunidades Religiosas"
           }
         },
         {
           "id": "lesson-177",
           "title": {
-            "en-US": "177. Sacramentals"
+            "en-US": "177. Sacramentals",
+            "pt-BR": "177. Os Sacramentais"
           }
         },
         {
           "id": "lesson-178",
           "title": {
-            "en-US": "178. Use and Value of Sacramentals"
+            "en-US": "178. Use and Value of Sacramentals",
+            "pt-BR": "178. Uso e Valor dos Sacramentais"
           }
         },
         {
           "id": "lesson-179",
           "title": {
-            "en-US": "179. Blessed Objects of Devotion"
+            "en-US": "179. Blessed Objects of Devotion",
+            "pt-BR": "179. Objetos Abençoados de Devoção"
           }
         },
         {
           "id": "lesson-180",
           "title": {
-            "en-US": "180. Objects and Qualities of Prayer"
+            "en-US": "180. Objects and Qualities of Prayer",
+            "pt-BR": "180. Objetos e Qualidades da Oração"
           }
         },
         {
           "id": "lesson-181",
           "title": {
-            "en-US": "181. For Whom, When and Where to Pray"
+            "en-US": "181. For Whom, When and Where to Pray",
+            "pt-BR": "181. Por Quem, Quando e Onde Orar"
           }
         },
         {
           "id": "lesson-182",
           "title": {
-            "en-US": "182. The Sign of the Cross"
+            "en-US": "182. The Sign of the Cross",
+            "pt-BR": "182. O Sinal da Cruz"
           }
         },
         {
           "id": "lesson-183",
           "title": {
-            "en-US": "183. The \"our Father\""
+            "en-US": "183. The \"our Father\"",
+            "pt-BR": "183. O \"Pai-Nosso\""
           }
         },
         {
           "id": "lesson-184",
           "title": {
-            "en-US": "184. Prayers to Mary"
+            "en-US": "184. Prayers to Mary",
+            "pt-BR": "184. Orações a Maria"
           }
         },
         {
           "id": "lesson-185",
           "title": {
-            "en-US": "185. The Rosary"
+            "en-US": "185. The Rosary",
+            "pt-BR": "185. O Rosário"
           }
         },
         {
           "id": "lesson-186",
           "title": {
-            "en-US": "186. Religious Practices"
+            "en-US": "186. Religious Practices",
+            "pt-BR": "186. Práticas Religiosas"
           }
         },
         {
           "id": "lesson-187",
           "title": {
-            "en-US": "187. Devotions to the Blessed Sacrament"
+            "en-US": "187. Devotions to the Blessed Sacrament",
+            "pt-BR": "187. Devoções ao Santíssimo Sacramento"
           }
         },
         {
           "id": "lesson-188",
           "title": {
-            "en-US": "188. Other Practices of Devotion"
+            "en-US": "188. Other Practices of Devotion",
+            "pt-BR": "188. Veneração dos Santos"
           }
         },
         {
           "id": "lesson-189",
           "title": {
-            "en-US": "189. Processions and Pilgrimages"
+            "en-US": "189. Processions and Pilgrimages",
+            "pt-BR": "189. Procissões e Peregrinações"
           }
         },
         {
           "id": "lesson-190",
           "title": {
-            "en-US": "190. Religious Associations"
+            "en-US": "190. Religious Associations",
+            "pt-BR": "190. Associações Religiosas"
           }
         },
         {
           "id": "lesson-191",
           "title": {
-            "en-US": "191. Propagation of the Faith"
+            "en-US": "191. Propagation of the Faith",
+            "pt-BR": "191. A Propagação da Fé"
           }
         },
         {
           "id": "lesson-192",
           "title": {
-            "en-US": "192. Church Symbolism"
+            "en-US": "192. Church Symbolism",
+            "pt-BR": "192. O Simbolismo da Igreja"
           }
         },
         {
           "id": "lesson-193",
           "title": {
-            "en-US": "193. Conclusion: Why I Am a Catholic"
+            "en-US": "193. Conclusion: Why I Am a Catholic",
+            "pt-BR": "193. Conclusão: Por Que Sou Católico"
           }
         }
       ]
@@ -1206,19 +1411,22 @@
     {
       "id": "appendix",
       "title": {
-        "en-US": "Appendix"
+        "en-US": "Appendix",
+        "pt-BR": "Apêndice"
       },
       "children": [
         {
           "id": "appendix-church-year",
           "title": {
-            "en-US": "The Church Year"
+            "en-US": "The Church Year",
+            "pt-BR": "O Ano Litúrgico"
           }
         },
         {
           "id": "appendix-prayers",
           "title": {
-            "en-US": "The Most Important Prayers"
+            "en-US": "The Most Important Prayers",
+            "pt-BR": "As Orações Mais Importantes"
           }
         }
       ]
