@@ -32,11 +32,11 @@
 
 > Se alguém, acreditando seu cônjuge morto, contrai outro casamento, deve imediatamente deixar o segundo cônjuge se o primeiro for descoberto vivo.
 
-2. Coação. No casamento, as partes contratantes devem dar seu consentimento livremente. Se indevido estresse é trazido para suportar sobre qualquer parte, de modo que é forçada a casar contra sua vontade, através de rapto, violência, medo de injúria corporal, de ser deserdado, etc. o impedimento é anulatório e não há casamento.
+2. Coação. No casamento, as partes contratantes devem dar seu consentimento livremente. Se indevido estresse é trazido para suportar sobre qualquer parte, de modo que é forçada a casar contra sua vontade, através de rapto, violência, medo de injúria corporal, de ser deserdado, etc., o impedimento é anulatório e não há casamento.
 
-> Pais e outros que usam coação para forçar alguém a um casamento contra sua vontade são gravemente culpados diante de Deus. Contudo, o casamento é válido se apesar de seu desgosto pela outra parte uma pessoa livremente consente casar, por outros motivos.
+> Pais e outros que usam coação para forçar alguém a um casamento contra sua vontade são gravemente culpados diante de Deus. Contudo, o casamento é válido se apesar de seu desgosto pela outra parte, uma pessoa livremente consente casar, por outros motivos.
 
-3. Falta de idade. Rapazes antes da completude de seus dezesseis anos de idade e moças antes da completude de seus quatorze anos de idade não podem entrar num casamento válido. Quanto à licitude do casamento deve-se ver a idade fixada pela Conferência Episcopal num lugar ou região particular.
+3. Falta de idade. Rapazes antes da completude de seus dezesseis anos de idade e moças antes da completude de seus quatorze anos de idade não podem entrar num casamento válido. Quanto à licitude do casamento, deve-se ver a idade fixada pela Conferência Episcopal num lugar ou região particular.
 
 > Deve-se considerar também se tal casamento é reconhecido pela lei civil ou celebrado de acordo com ela. A Igreja severamente proíbe casamentos que não obtêm seus efeitos civis ou estão em violação da lei civil especialmente se há sanção de penalidade. Casamento de menores deve ter o consentimento parental e a permissão do Ordinário do lugar.
 
@@ -46,15 +46,15 @@
 
 5. Parentesco próximo por afinidade. Isto significa parentesco por casamento. O sobrevivente não pode casar com as relações de sangue de seu cônjuge morto em qualquer grau da linha direta. (veja Fig 1)
 
-6. Ordens sagradas ou Profissão Religiosa. Homens que receberam ordens maiores, monges e freiras que tomaram um público perpétuo voto de castidade mesmo um voto simples (não solene), não podem contrair um casamento válido.
+6. Ordens sagradas ou Profissão Religiosa. Homens que receberam ordens maiores, monges e freiras que tomaram um público perpétuo voto de castidade, mesmo um voto simples (não solene), não podem contrair um casamento válido.
 
 7. Disparidade de culto. Isto é casamento entre um católico e uma pessoa não batizada. É um impedimento dirimente que, sem dispensa, torna uma tentativa de casamento inválida.
 
 > Exemplos de não batizados são: Maometanos, Judeus, Budistas, Xintoístas, infiéis, etc.
 
-8. Parentesco espiritual. Sem dispensa, uma pessoa leiga que batizou outra não pode casar com aquela outra ou padrinhos no Batismo não podem casar com seus afilhados.
+8. Parentesco espiritual. Sem dispensa, uma pessoa leiga que batizou outra não pode casar com aquela outra, ou padrinhos no Batismo não podem casar com seus afilhados.
 
-> Isto não é mais um impedimento. Contudo por causa da tradição enraizada em sérias razões, o parentesco mesmo espiritual deve permanecer acima da concupiscência carnal.
+> Isto não é mais um impedimento. Contudo, por causa da tradição enraizada em sérias razões, o parentesco mesmo espiritual deve permanecer acima da concupiscência carnal.
 
 9. Parentesco legal. No caso de adoção, o impedimento é sempre dirimente na linha direta e na linha colateral até o segundo grau, por exemplo; entre irmão e irmã adotada.
 
