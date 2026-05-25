@@ -40,7 +40,7 @@ Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Qua
 
 **Quais são os principais meios de preservar a virtude da castidade?**
 
-— Os principais meios de preservar a virtude da castidade são: evitar cuidadosamente todos os perigos desnecessários, buscar a ajuda de Deus através da oração, confissão frequente, Santa Comunhão e assistência à Santa Missa, e ter uma devoção especial à Bem-Aventurada Virgem.
+— Os principais meios de preservar a virtude da castidade são: evitar cuidadosamente todos os perigos desnecessários, buscar a ajuda de Deus através da oração, confissão frequente, Santa Comunhão, e assistência à Santa Missa, e ter uma devoção especial à Bem-Aventurada Virgem.
 
 1. Em todas as coisas formai o hábito da temperança. Evitai todos os perigos desnecessários; não correis quaisquer riscos com a impureza; não experimenteis. Se puserdes um fósforo na pólvora, certamente explodirá; não há necessidade de tentar ver se não o fará.
 
@@ -50,7 +50,7 @@ Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Qua
 
 > "Vigiai e orai para que não entreis em tentação. O espírito de fato está pronto, mas a carne é fraca" (Mar. 14:38). Para instrução sobre matérias de sexo, ide a vossos pais ou a vosso pastor ou pessoas idosas que sabeis serem boas.
 
-3. Sede sempre modestos e puros em vosso vestir, postura e conversa. Isto não é apenas para salvar-vos da imodéstia, mas para evitar dar ocasião a outros pecar, ou ser mesmo uma causa inconsciente para outros pecarem.
+3. Sede sempre modestos e puros em vosso vestir, postura, e conversa. Isto não é apenas para salvar-vos da imodéstia, mas para evitar dar ocasião a outros pecar, ou ser mesmo uma causa inconsciente para outros pecarem.
 
 > Mulheres que desperdiçam horas olhando-se no espelho, pintando seus rostos e envernizando suas unhas, ou escolhendo roupas para vestir, cuidam mais de seu corpo que de sua alma. Devem lembrar que após a morte, tornar-se-ão crânio e ossos como o resto, e toda sua finura não lhes aproveitará nada.
 

@@ -13,7 +13,7 @@
 
 2. Congregações religiosas são aquelas nas quais os membros tomam apenas votos simples; a maioria das comunidades religiosas é deste tipo. Os Jesuítas, após um número de anos em votos simples, podem também tomar votos solenes.
 
-> Para homens, entre as maiores comunidades estão: Padres do Verbo Divino, Jesuítas, Passionistas, Redentoristas, Salesianos, Salvatorianos, etc. Para mulheres temos as Beneditinas, Dominicanas, Irmãs Felicianas, Irmãs do Coração de Maria, Irmãs Missionárias do Sagrado Coração, Irmãs de Notre Dame, Irmãs da Caridade e Irmãs de São José, entre numerosas outras.
+> Para homens, entre as maiores comunidades estão: Padres do Verbo Divino, Jesuítas, Passionistas, Redentoristas, Salesianos, Salvatorianos, etc. Para mulheres temos as Beneditinas, Dominicanas, Irmãs Felicianas, Irmãs do Coração de Maria, Irmãs Missionárias do Sagrado Coração, Irmãs de Notre Dame, Irmãs da Caridade, e Irmãs de São José, entre numerosas outras.
 
 3. Institutos religiosos podem também ser classificados como clericais ou leigos. As comunidades clericais são aquelas nas quais uma grande proporção dos membros são padres. As comunidades leigas são aquelas com a grande maioria de seus membros não ordenados padres.
 
@@ -34,11 +34,11 @@
 
 2. Membros de comunidades semi-contemplativas observam a "vida mista"; sobrepõem a ativa à contemplativa vida. Raramente deixam suas casas, e engajam-se em ensino, cuidado de penitentes e órfãos, etc.
 
-> Entre congregações semi-contemplativas podemos mencionar: Irmãs da Assunção, Irmãs Dominicanas e Irmãs do Bom Pastor.
+> Entre congregações semi-contemplativas podemos mencionar: Irmãs da Assunção, Irmãs Dominicanas, e Irmãs do Bom Pastor.
 
 3. As comunidades religiosas de vida ativa são dedicadas ao ensino, trabalho hospitalar, trabalho missionário, etc. Vida ativa não refere-se a mera atividade corporal, mas a externas atividades levadas a cabo fora da casa religiosa.
 
-> Assim, Cistercienses que cultivam sua terra não perseguem uma ativa vida. A maioria dos institutos religiosos nos Estados Unidos está engajada na ativa vida. Entre eles podemos mencionar: Jesuítas, Franciscanos Terciários, Lazaristas, Passionistas, Redentoristas, Salesianos e os Irmãos Cristãos.
+> Assim, Cistercienses que cultivam sua terra não perseguem uma ativa vida. A maioria dos institutos religiosos nos Estados Unidos está engajada na ativa vida. Entre eles podemos mencionar: Jesuítas, Franciscanos Terciários, Lazaristas, Passionistas, Redentoristas, Salesianos, e os Irmãos Cristãos.
 
 
 **Qual comunidade religiosa deve escolher alguém que deseja dedicar sua vida inteiramente a Deus?**

@@ -7,7 +7,7 @@
 
 **O que é Batismo?**
 
-— Batismo é o sacramento que dá a nossas almas a nova vida de graça santificante pela qual nos tornamos cristãos, filhos de Deus e herdeiros do céu.
+— Batismo é o sacramento que dá a nossas almas a nova vida de graça santificante pela qual nos tornamos cristãos, filhos de Deus, e herdeiros do céu.
 
 > Batismo é o primeiro sacramento que podemos receber. A menos que sejamos batizados, nos é proibido receber qualquer outro sacramento. Batismo tem os três essenciais de um sacramento: (a) foi instituído por Cristo; (b) é um sinal sensível; e (c) confere graça.
 

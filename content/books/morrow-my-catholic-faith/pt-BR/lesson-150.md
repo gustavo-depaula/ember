@@ -39,7 +39,7 @@
 
 **O que devemos fazer após confessar nossos pecados?**
 
-— Após confessar nossos pecados, devemos responder verdadeiramente a qualquer pergunta que o padre faça, buscar conselho se sentimos que precisamos de algum, ouvir cuidadosamente a instrução espiritual e conselho do padre e aceitar a penitência que ele nos dá.
+— Após confessar nossos pecados, devemos responder verdadeiramente a qualquer pergunta que o padre faça, buscar conselho se sentimos que precisamos de algum, ouvir cuidadosamente a instrução espiritual e conselho do padre, e aceitar a penitência que ele nos dá.
 
 > Se não entendemos a penitência, devemos pedir ao padre que a repita. Se não podemos realizar aquela penitência particular, devemos expor nossas razões ao padre e fazê-lo mudá-la. Devemos esperar e ouvir atentamente todo o tempo em que o padre dá conselho e impõe penitência.
 

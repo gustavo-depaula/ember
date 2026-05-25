@@ -5,9 +5,9 @@
 *No castelo de Fontainebleu, Napoleão forçou o Papa a ceder os Estados da Igreja, prometendo uma renda anual de dois milhões de francos. No mesmo castelo, Napoleão foi depois forçado a assinar uma abdicação e foi prometida uma renda anual da mesma quantia. Quando o Papa excomungou Napoleão, ele respondeu que as palavras de um homem velho não fariam as armas caírem das mãos de seus soldados. Na campanha Russa, por causa do frio intenso, isto realmente aconteceu. Manteve Pio VII prisioneiro por cinco anos; ele mesmo foi depois prisioneiro por sete anos. Quatro dias após ordenar a união dos Estados da Igreja com a França, perdeu as batalhas de Aspern e Erlingen.*
 
 
-**Qual foi o fim dos líderes de perseguição, cisma e heresia?**
+**Qual foi o fim dos líderes de perseguição, cisma, e heresia?**
 
-— Muitos dos líderes de perseguição, cisma e heresia vieram a um mau fim.
+— Muitos dos líderes de perseguição, cisma, e heresia vieram a um mau fim.
 
 1. Dos primeiros perseguidores, vários morreram mortes violentas. A morte de Judas é o tipo para seus imitadores. É relatado que:
 
@@ -30,7 +30,7 @@
 
 **Por que nenhuma outra igreja exceto a Igreja Católica pode ser a Verdadeira Igreja de Cristo?**
 
-— Nenhuma outra igreja exceto a Igreja Católica pode ser a Verdadeira Igreja de Cristo, porque nenhuma outra igreja possui as marcas de unidade, santidade, catolicidade e apostolicidade.
+— Nenhuma outra igreja exceto a Igreja Católica pode ser a Verdadeira Igreja de Cristo, porque nenhuma outra igreja possui as marcas de unidade, santidade, catolicidade, e apostolicidade.
 
 > Verdade não pode mudar; logo as doutrinas constantemente mutáveis das igrejas não-Católicas não podem ser verdadeiras. Também diferem em seu governo. Algumas reconhecem o governante temporal como seu cabeça espiritual. Outras têm ministros a quem chamam bispos, diáconos, anciãos. A maioria rejeita tais títulos.
 

@@ -24,7 +24,7 @@
 
 **Quanto tempo durou a vida pública de Cristo?**
 
-— A vida pública de Cristo durou cerca de três anos, durante os quais Ele ia por toda parte pregando, ensinando e fazendo o bem.
+— A vida pública de Cristo durou cerca de três anos, durante os quais Ele ia por toda parte pregando, ensinando, e fazendo o bem.
 
 1. Após Seu retorno do jejum de quarenta dias no deserto, Jesus chamou Seus primeiros discípulos. Em poucos dias, operou Seu primeiro milagre, transformando água em vinho numa festa de casamento em Caná, a pedido de Sua Mãe, embora, como lhe disse, Sua hora ainda não havia chegado.
 
@@ -36,7 +36,7 @@
 
 3. Em Seu terceiro ano de ensino, Jesus foi à Galileia e Fenícia, porque na Judeia onde havia estado ensinando, os fariseus por inveja e ciúme procuravam matá-Lo. Na Fenícia, cedeu às súplicas de um gentio, uma cananeia, que perseverou em pedir-Lhe que curasse sua filha.
 
-> Na Galileia Jesus curou um homem surdo-mudo, usando sinais que a Igreja adotou em suas cerimônias batismais; operou o milagre da segunda multiplicação dos pães. No Monte Tabor, foi transfigurado na presença de Pedro, Tiago e João. Entre outras curas estavam as dos dez leprosos, e o homem cego de nascença. Prometeu o primado sobre todos a Pedro, pagou o tributo a César, perdoou a mulher pega em adultério, enviou Seus setenta e dois discípulos numa missão, chamou o jovem rico, instruiu Maria e Marta, e foi hóspede de Zaqueu. Contou as parábolas do servo sem misericórdia, o bom samaritano, a ovelha perdida, a dracma perdida, a grande ceia, o administrador injusto, o filho pródigo, Dives e Lázaro, o fariseu e o publicano, os trabalhadores na vinha.
+> Na Galileia Jesus curou um homem surdo-mudo, usando sinais que a Igreja adotou em suas cerimônias batismais; operou o milagre da segunda multiplicação dos pães. No Monte Tabor, foi transfigurado na presença de Pedro, Tiago, e João. Entre outras curas estavam as dos dez leprosos, e o homem cego de nascença. Prometeu o primado sobre todos a Pedro, pagou o tributo a César, perdoou a mulher pega em adultério, enviou Seus setenta e dois discípulos numa missão, chamou o jovem rico, instruiu Maria e Marta, e foi hóspede de Zaqueu. Contou as parábolas do servo sem misericórdia, o bom samaritano, a ovelha perdida, a dracma perdida, a grande ceia, o administrador injusto, o filho pródigo, Dives e Lázaro, o fariseu e o publicano, os trabalhadores na vinha.
 
 4. Finalmente, no fim de Sua vida pública, Jesus ressuscitou Lázaro dos mortos. Por este tempo a inveja dos fariseus era tão grande que determinaram provocar a morte de Jesus; Judas veio como instrumento pronto.
 

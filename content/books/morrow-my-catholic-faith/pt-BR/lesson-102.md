@@ -17,11 +17,11 @@
 
 > Foi Deus Mesmo que nos deu nossos pais, e reverenciamos a Deus quando respeitamos aqueles que são Seus representantes diretos sobre nós. Respeito é um dever para com seus pais que um filho, por mais velho e famoso que se torne na vida posterior, sempre deverá a seus pais. "O olho que zomba de seu pai e que despreza o trabalho de sua mãe em gerá-lo, os corvos dos ribeiros o arranquem e os filhotes das águias o comam" (Prov. 30:17).
 
-2. Alguém ama seus pais tentando agradá-los, ajudando-os e rezando por eles. Filhos que amam seus pais fazem de seu lar um lugar de gozo e paz.
+2. Alguém ama seus pais tentando agradá-los, ajudando-os, e rezando por eles. Filhos que amam seus pais fazem de seu lar um lugar de gozo e paz.
 
 > Um filho amoroso não espera ser comandado por seus pais, mas fará tudo que puder por eles, ajudá-los-á e realizará seus desejos tanto quanto puder, sem uma palavra deles.
 
-3. Uma criança pequena deve obedecer a seus pais sem questão, queixa ou demora, assim como lhe é dito. Mostrar-se-á alegre por obedecer. Crianças mais velhas podem indagar sobre as razões para certos mandamentos, mas elas também devem obedecer a seus pais em tudo lícito. Farão o que seus pais desejam, mesmo antes de serem pedidas. Obedecerão voluntária e prontamente.
+3. Uma criança pequena deve obedecer a seus pais sem questão, queixa, ou demora, assim como lhe é dito. Mostrar-se-á alegre por obedecer. Crianças mais velhas podem indagar sobre as razões para certos mandamentos, mas elas também devem obedecer a seus pais em tudo lícito. Farão o que seus pais desejam, mesmo antes de serem pedidas. Obedecerão voluntária e prontamente.
 
 > Porque os pais são os representantes diretos de Deus sobre seus filhos, tais filhos devem-lhes obediência. Obediência que é resultado de medo de punição ou um truque para obter algum favor não é verdadeira obediência cristã, e muito do mérito é perdido. "Honra a teu pai e a tua mãe, para que sejas longevo sobre a terra que o Senhor teu Deus te dará" (Êx. 20:12).
 
@@ -31,7 +31,7 @@
 
 5. Um filho adulto deve prover para seus pais em necessidade, e tornar suas vidas tão confortáveis quanto possível. Por exemplo, um filho adulto com ganhos deve sustentar seus pais idosos que nada têm. Deve ajudar com as crianças mais novas.
 
-> Devemos especialmente prover para a última enfermidade de nossos pais. Devemos chamar o padre para sua última Confissão, Viático e Extrema-Unção. Após sua morte, devemos prover um funeral digno segundo nossos meios. Devemos rezar, e ter Missas rezadas por eles anualmente pelo menos, e fielmente cumprir seus últimos desejos.
+> Devemos especialmente prover para a última enfermidade de nossos pais. Devemos chamar o padre para sua última Confissão, Viático, e Extrema-Unção. Após sua morte, devemos prover um funeral digno segundo nossos meios. Devemos rezar, e ter Missas rezadas por eles anualmente pelo menos, e fielmente cumprir seus últimos desejos.
 
 6. O modelo perfeito de obediência é o Menino Jesus. Todas as crianças devem tê-Lo como seu modelo. Ele, o Próprio Deus, foi sujeito a Maria e José todo o tempo que viveu com eles, em Nazaré.
 
@@ -57,11 +57,11 @@
 
 **Quais são nossos deveres para com nossos superiores eclesiásticos?**
 
-— Somos obrigados a prestar respeito, obediência e sustento a nossos superiores eclesiásticos.
+— Somos obrigados a prestar respeito, obediência, e sustento a nossos superiores eclesiásticos.
 
 1. Devemos reverenciar nosso padre e bispo como nossos pais em Cristo, obedecer-lhes em matérias espirituais, e rezar por eles. Devemos contribuir para seu sustento segundo nossos meios.
 
-> Devemos apreciar o fato de que sacrificam seu tempo, saúde e vidas inteiras pelo bem de nossas almas. São Paulo nos diz: "Obedecei a vossos superiores e sujeitai-vos a eles, pois vigiam como tendo que prestar conta de vossas almas" (Heb. 13:17). Alguém ofende a Deus gravemente se se opõe a bispos ou padres, fala mal deles, faz fofocas sobre eles, ou negligencia contribuir para seu sustento.
+> Devemos apreciar o fato de que sacrificam seu tempo, saúde, e vidas inteiras pelo bem de nossas almas. São Paulo nos diz: "Obedecei a vossos superiores e sujeitai-vos a eles, pois vigiam como tendo que prestar conta de vossas almas" (Heb. 13:17). Alguém ofende a Deus gravemente se se opõe a bispos ou padres, fala mal deles, faz fofocas sobre eles, ou negligencia contribuir para seu sustento.
 
 2. Devemos ser leais ao Santo Padre e obedecer-lhe em matérias espirituais. Ele é a cabeça visível do corpo de Cristo, a Igreja, da qual somos membros. Devemos honrá-lo, respeitar sua autoridade.
 

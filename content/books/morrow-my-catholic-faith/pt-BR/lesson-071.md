@@ -42,7 +42,7 @@ b. A Igreja Ortodoxa Oriental nega o dogma Católico de que o Espírito Santo pr
 
 > Os Albigenses foram a excessos, recomendando suicídio, proibindo casamento, afirmando que Nosso Senhor não tinha um corpo humano, negando a ressurreição do corpo. A heresia foi condenada pelo Quarto Concílio de Latrão, 1215.
 
-4. Como um desdobramento do Albigensianismo, o Waldensianismo espalhou-se pela Espanha, Lombardia, Boêmia e países vizinhos. A heresia continuou até a explosão do Protestantismo, quando se fundiu com este.
+4. Como um desdobramento do Albigensianismo, o Waldensianismo espalhou-se pela Espanha, Lombardia, Boêmia, e países vizinhos. A heresia continuou até a explosão do Protestantismo, quando se fundiu com este.
 
 > Os Valdenses negaram a existência do Purgatório, combateram indulgências, afirmaram que leigos podiam pregar e absolver, juramentos eram ilícitos, sacerdotes pecadores não tinham poder válido de ministério, etc. Mas do mal, Deus frequentemente tirou o bem. Cada cisma e heresia levou a um estudo profundo na Igreja, estudo de Estudiosos para descobrir a interpretação correta da doutrina em disputa. Desta forma, a luz veio das trevas. Como disse o sábio Santo Agostinho: "Aqueles que erram em doutrina apenas servem para mostrar mais claramente a sanidade daqueles que creem corretamente."
 

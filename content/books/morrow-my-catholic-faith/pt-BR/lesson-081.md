@@ -2,7 +2,7 @@
 
 ![](../images/lesson-081.webp)
 
-*O Juízo Geral terá lugar no fim do mundo. É uma repetição pública do juízo particular. Então tudo o que cada um pensou, disse, fez ou omitiu será conhecido por todos. Os justos receberão sua recompensa, e os ímpios serão punidos. No Juízo Geral Jesus Cristo será o Juiz. Então justiça completa será distribuída a todos, às almas unidas com os corpos.*
+*O Juízo Geral terá lugar no fim do mundo. É uma repetição pública do juízo particular. Então tudo o que cada um pensou, disse, fez, ou omitiu será conhecido por todos. Os justos receberão sua recompensa, e os ímpios serão punidos. No Juízo Geral Jesus Cristo será o Juiz. Então justiça completa será distribuída a todos, às almas unidas com os corpos.*
 
 SÉTIMO E DÉCIMO SEGUNDO ARTIGOS DO CREDO DOS APÓSTOLOS
 
@@ -51,7 +51,7 @@ SÉTIMO E DÉCIMO SEGUNDO ARTIGOS DO CREDO DOS APÓSTOLOS
 
 **Se cada um é julgado imediatamente após a morte, por que haverá um juízo geral?**
 
-— Embora cada um seja julgado imediatamente após a morte, é apropriado que haja um juízo geral, de modo que a justiça, sabedoria e misericórdia de Deus possam ser glorificadas na presença de todos.
+— Embora cada um seja julgado imediatamente após a morte, é apropriado que haja um juízo geral, de modo que a justiça, sabedoria, e misericórdia de Deus possam ser glorificadas na presença de todos.
 
 1. O último ou Juízo Geral será uma repetição pública do juízo particular. O Juiz e os assuntos tratados serão idênticos. Então Jesus trará à luz "as coisas ocultas das trevas."
 
@@ -65,10 +65,10 @@ SÉTIMO E DÉCIMO SEGUNDO ARTIGOS DO CREDO DOS APÓSTOLOS
 
 > Um grande medo e realização instantânea de sua sentença cairá sobre os ímpios. E dirão às montanhas e às rochas: "Caí sobre nós e escondei-nos da face d'Aquele que está assentado sobre o trono, e da ira do Cordeiro" (Apoc. 6:16). Imediatamente os bons irão corpo e alma ao céu, e os ímpios cairão corpo e alma no inferno. "E estes irão para o castigo eterno, mas os justos para a vida eterna" (Mat. 25:46).
 
-4. O Juízo Geral é necessário a fim de: (a) Vindicar a providência de Deus no governo do mundo, e revelar tanto o bem quanto o mal que os homens fizeram, a fim de revelar a justiça, sabedoria e misericórdia de Deus. O homem é um ser social, bem como individual; logo a necessidade de um julgamento geral, bem como particular.
+4. O Juízo Geral é necessário a fim de: (a) Vindicar a providência de Deus no governo do mundo, e revelar tanto o bem quanto o mal que os homens fizeram, a fim de revelar a justiça, sabedoria, e misericórdia de Deus. O homem é um ser social, bem como individual; logo a necessidade de um julgamento geral, bem como particular.
 
 > Naquele dia os homens verão quão frequentemente Deus lhes concedeu graças, e eles as rejeitaram, quão frequentemente Deus converteu mesmo seus atos maus para sua vantagem, para que pudessem arrepender-se! Então os homens verão quanto daquilo que ocupou tempo e pensamento na terra foi loucura aos olhos de Deus, e como o que o mundo chamou de disparate e zombou era realmente sabedoria celestial. Como São Paulo diz: "Nós, de nossa parte, pregamos um Cristo crucificado — para os Judeus realmente um escândalo e para os Gentios loucura" (1 Cor. 1:23).
 
 (b) Dar aos justos a honra pública devida a eles, e aos ímpios a vergonha pública que merecem, e fazer o corpo compartilhar na recompensa ou castigo da alma com a qual compartilhou bem ou mal na terra.
 
-> No Último Julgamento todos nossos pensamentos, palavras e atos, públicos e secretos, serão tornados conhecidos a toda criação. Este fato deve instar-nos a evitar tudo do que deveríamos então ter vergonha tornado público. Quando formos tentados lembremo-nos de que as "coisas ocultas das trevas" serão reveladas no último dia.
+> No Último Julgamento todos nossos pensamentos, palavras, e atos, públicos e secretos, serão tornados conhecidos a toda criação. Este fato deve instar-nos a evitar tudo do que deveríamos então ter vergonha tornado público. Quando formos tentados lembremo-nos de que as "coisas ocultas das trevas" serão reveladas no último dia.

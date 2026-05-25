@@ -39,7 +39,7 @@
 
 **Quais são as mais importantes indulgências plenárias?**
 
-— As mais importantes indulgências plenárias são: a indulgência do jubileu e as da Porciúncula, da bênção papal e para a hora da morte.
+— As mais importantes indulgências plenárias são: a indulgência do jubileu e as da Porciúncula, da bênção papal, e para a hora da morte.
 
 1. A indulgência do jubileu é concedida cada Jubileu ou Ano Santo. O jubileu regular ocorre a cada vinte e cinco anos. Ocasionalmente um jubileu extra é proclamado pelo Papa sob circunstâncias especiais, como sua ascensão ao trono papal, um aniversário importante, etc. Num ano de jubileu, todas as outras indulgências para os vivos são suspensas exceto a do Angelus e a para a hora da morte.
 
@@ -47,7 +47,7 @@
 
 2. A Porciúncula é uma indulgência plenária que pode ser ganha do meio-dia de 1 de agosto até a meia-noite do dia seguinte, para o benefício das Almas Pobres no Purgatório, se alguém, sob as condições usuais, reza um Pai-Nosso, uma Ave-Maria, um Glória ao Pai e visita preferencialmente igrejas e oratórios públicos dos Frades Menores, dos Capuchinhos ou dos Conventuais ou onde a 3ª Ordem é ereta. Se nenhuma existe, qualquer igreja basta. (Decretum Sacrae Paenitentiariae Apostolicae, 1 de maio de 1939)
 
-3. Uma indulgência plenária é concedida àqueles que recebem a bênção papal após confissão, comunhão e oração pelas intenções do Papa.
+3. Uma indulgência plenária é concedida àqueles que recebem a bênção papal após confissão, comunhão, e oração pelas intenções do Papa.
 
 > A bênção papal é usualmente dada ao final de missões ou retiros, ou na hora da morte.
 

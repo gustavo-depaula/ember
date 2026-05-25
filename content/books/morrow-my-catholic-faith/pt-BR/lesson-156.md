@@ -23,7 +23,7 @@
 
 4. O sinal exterior ou cerimônia é a unção com óleo abençoado, ao mesmo tempo que as palavras são pronunciadas: "Por esta santa unção e Sua própria mui terna misericórdia, perdoe o Senhor quaisquer faltas que tenhas cometido pela visão (audição, fala, etc.)"
 
-> O padre unge com óleo consagrado em forma de cruz os cinco sentidos: olhos, ouvidos, narinas, lábios, mãos e pés. A unção dos pés pode ser omitida se houver alguma razão especial. Em caso de urgente necessidade, a unção pode ser feita apenas na testa e as palavras da forma tornadas mais curtas.
+> O padre unge com óleo consagrado em forma de cruz os cinco sentidos: olhos, ouvidos, narinas, lábios, mãos, e pés. A unção dos pés pode ser omitida se houver alguma razão especial. Em caso de urgente necessidade, a unção pode ser feita apenas na testa e as palavras da forma tornadas mais curtas.
 
 5. Apenas um padre pode administrar a Extrema-Unção.
 

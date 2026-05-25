@@ -9,7 +9,7 @@
 
 A Cúria Romana é a corte papal; é o núcleo do governo da Igreja. O Santo Padre possui poder completo e absoluto sobre o governo da Igreja; mas não é possível para ele exercer sua autoridade pessoalmente e diretamente sobre cada detalhe na Igreja mundial. Uma grande parte da jurisdição foi portanto delegada à Cúria Romana, que no presente consiste em:
 
-> a. Doze Congregações, a saber: Do Santo Ofício, do Consistório, para a Igreja Oriental, dos Sacramentos, do Concílio, dos Religiosos, para a Propagação da Fé, dos Ritos Sagrados, das Cerimônias, dos Negócios Eclesiásticos Extraordinários, dos Seminários e Universidades, e da Basílica de São Pedro. b. Três Tribunais, a saber: Sagrada Penitenciaria, Sagrada Rota Romana e Assinatura Apostólica. c. Cinco Ofícios, a saber: Chancelaria Apostólica, Dataria Apostólica, Câmara Apostólica, Secretaria de Estado, e Secretaria de Breves aos Príncipes e Cartas Latinas.
+> a. Doze Congregações, a saber: Do Santo Ofício, do Consistório, para a Igreja Oriental, dos Sacramentos, do Concílio, dos Religiosos, para a Propagação da Fé, dos Ritos Sagrados, das Cerimônias, dos Negócios Eclesiásticos Extraordinários, dos Seminários e Universidades, e da Basílica de São Pedro. b. Três Tribunais, a saber: Sagrada Penitenciaria, Sagrada Rota Romana, e Assinatura Apostólica. c. Cinco Ofícios, a saber: Chancelaria Apostólica, Dataria Apostólica, Câmara Apostólica, Secretaria de Estado, e Secretaria de Breves aos Príncipes e Cartas Latinas.
 
 
 **Quais são em geral os deveres das doze Congregações da Cúria Romana?**
@@ -30,7 +30,7 @@ A Cúria Romana é a corte papal; é o núcleo do governo da Igreja. O Santo Pad
 
 5. A Congregação do Concílio tem supervisão sobre o clero secular e leigos, incluindo párocos, associações religiosas (mesmo aquelas sob religiosos), taxas, etc.; tem a seu cargo conferências episcopais. Lida com questões relacionadas à observância das leis da Igreja.
 
-6. A Congregação dos Religiosos tem autoridade sobre questões relacionadas a todos os religiosos, incluindo membros leigos das Ordens Terceiras; toma conta de seu governo, disciplina e privilégios, e supervisiona suas propriedades e estudos.
+6. A Congregação dos Religiosos tem autoridade sobre questões relacionadas a todos os religiosos, incluindo membros leigos das Ordens Terceiras; toma conta de seu governo, disciplina, e privilégios, e supervisiona suas propriedades e estudos.
 
 7. A Congregação para a Propagação da Fé tem a seu cargo todas as questões relacionadas às missões; sociedades missionárias e seminários estão sob sua jurisdição.
 

@@ -17,7 +17,7 @@
 
 2. Em certas ocasiões, o Espírito Santo apareceu em forma visível. Quando Cristo foi batizado por João Batista, o Espírito Santo apareceu na forma de uma pomba. No Pentecostes, o Espírito Santo desceu com um vento impetuoso, e repousou sobre os Apóstolos na forma de línguas de fogo.
 
-> Estes sinais são simbólicos da ação do Espírito Santo. A forma de uma pomba simboliza a mansidão com que o Espírito Santo opera em nossas almas. O sopro de vento representa o fortalecimento da vontade. O fogo representa zelo, fervor e a iluminação da mente.
+> Estes sinais são simbólicos da ação do Espírito Santo. A forma de uma pomba simboliza a mansidão com que o Espírito Santo opera em nossas almas. O sopro de vento representa o fortalecimento da vontade. O fogo representa zelo, fervor, e a iluminação da mente.
 
 3. O Espírito Santo procede do Pai e do Filho.
 
@@ -40,7 +40,7 @@
 
 > Então dizemos que o Espírito de Deus habita em nós. Devemos portanto tratar nosso corpo com grande reverência, pois é o templo do Espírito Santo. O Espírito Santo é dado de um modo muito especial nos sacramentos da Confirmação e Ordens Sagradas.
 
-3. O Espírito Santo é a fonte da vida da Igreja. Ele consola, guia e dá força a ela, como Cristo prometeu.
+3. O Espírito Santo é a fonte da vida da Igreja. Ele consola, guia, e dá força a ela, como Cristo prometeu.
 
 > "A Igreja era cheia da consolação do Espírito Santo" (Atos 9:31). "Ainda tenho muitas coisas a dizer-vos, mas não podeis suportá-las agora. Mas quando Ele, o Espírito da verdade, tiver vindo, ensinar-vos-á toda a verdade" (João 16:12-13).
 

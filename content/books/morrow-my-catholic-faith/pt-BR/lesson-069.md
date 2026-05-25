@@ -17,7 +17,7 @@
 
 2. Cristo disse a Pedro: "Sobre esta pedra edificarei Minha Igreja, e as portas do inferno não prevalecerão contra ela" (Mat. 16:18). Pelas "portas do inferno," quis dizer todo o poder do diabo; todos os tipos de ataques, violência física bem como falso ensino.
 
-> Cristo promete aqui que a Igreja seria assaltada sempre, mas nunca vencida. Esta promessa de Nosso Senhor foi provada por quase 2000 anos pelos fatos da história. Nem um dos perseguidores da Igreja prevaleceu sobre ela. Ao contrário, muitos deles vieram a um fim temível. Sempre haverá Papas, bispos e leigos, para compor a Igreja; as verdades ensinadas por Nosso Senhor sempre serão encontradas em Sua Igreja.
+> Cristo promete aqui que a Igreja seria assaltada sempre, mas nunca vencida. Esta promessa de Nosso Senhor foi provada por quase 2000 anos pelos fatos da história. Nem um dos perseguidores da Igreja prevaleceu sobre ela. Ao contrário, muitos deles vieram a um fim temível. Sempre haverá Papas, bispos, e leigos, para compor a Igreja; as verdades ensinadas por Nosso Senhor sempre serão encontradas em Sua Igreja.
 
 3. Após dizer a Seus Apóstolos para ensinar a todas as nações, Cristo disse: "Eis que Estou convosco todos os dias, até a consumação do mundo" (Mat. 28:20).
 
@@ -58,4 +58,4 @@
 
 > A longa história da Igreja Católica é acompanhada por cisma e heresia, mas cada ataque apenas a fortaleceu. Continuou a viver e espalhar-se apesar de tudo e todos.
 
-5. A Igreja é a ***Esposa de Cristo***, lançada na prisão, faminta, atirada às feras, pisada sob os pés, cortada, torturada, crucificada e queimada. Mas esta bela Esposa emerge de tudo isto no viço e frescor da juventude, serena, calma, imortal.
+5. A Igreja é a ***Esposa de Cristo***, lançada na prisão, faminta, atirada às feras, pisada sob os pés, cortada, torturada, crucificada, e queimada. Mas esta bela Esposa emerge de tudo isto no viço e frescor da juventude, serena, calma, imortal.

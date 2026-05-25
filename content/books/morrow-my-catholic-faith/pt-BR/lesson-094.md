@@ -17,7 +17,7 @@
 
 2. Relíquias merecem ser veneradas. Os corpos dos santos foram templos do Espírito Santo, e instrumentos pelos quais Deus trabalhou.
 
-> Um dia ressurgirão gloriosos da sepultura, e serão unidos com a alma no céu. Deus mostra Sua aprovação da veneração de relíquias operando frequentes milagres em sua aplicação. Em certos casos, os corpos dos santos permaneceram incorruptos, como os de Santa Teresa, São Francisco Xavier e Santa Catarina de Bolonha. O sangue de São Januário, guardado numa ampola em Nápoles, liquefaz-se várias vezes ao ano por certos períodos. "Deus operava mais do que os milagres usuais pela mão de Paulo; de modo que até lenços e aventais eram levados de seu corpo aos enfermos, e as doenças os deixavam e os espíritos malignos saíam" (Atos 19:12).
+> Um dia ressurgirão gloriosos da sepultura, e serão unidos com a alma no céu. Deus mostra Sua aprovação da veneração de relíquias operando frequentes milagres em sua aplicação. Em certos casos, os corpos dos santos permaneceram incorruptos, como os de Santa Teresa, São Francisco Xavier, e Santa Catarina de Bolonha. O sangue de São Januário, guardado numa ampola em Nápoles, liquefaz-se várias vezes ao ano por certos períodos. "Deus operava mais do que os milagres usuais pela mão de Paulo; de modo que até lenços e aventais eram levados de seu corpo aos enfermos, e as doenças os deixavam e os espíritos malignos saíam" (Atos 19:12).
 
 3. Honramos relíquias quando as preservamos com reverência, visitamos os lugares onde estão depositadas, rezamos diante delas, etc.
 
@@ -25,7 +25,7 @@
 
 4. Mais prezadas de todas as relíquias são relíquias da Paixão, particularmente da Cruz na qual Cristo morreu.
 
-> Alguns zombam das relíquias da cruz, dizendo que há demasiadas para serem genuínas. Mas se todas as peças conhecidas são juntas, fariam um bloco de apenas cerca de 1/6 de um pé cúbico. Hoje as doze porções mais famosas da verdadeira Cruz variam de 6,33 polegadas cúbicas a 33 polegadas cúbicas. As maiores são encontradas em Jerusalém, Bruxelas, Ghent e Roma: Partículas veneradas são muito pequenas.
+> Alguns zombam das relíquias da cruz, dizendo que há demasiadas para serem genuínas. Mas se todas as peças conhecidas são juntas, fariam um bloco de apenas cerca de 1/6 de um pé cúbico. Hoje as doze porções mais famosas da verdadeira Cruz variam de 6,33 polegadas cúbicas a 33 polegadas cúbicas. As maiores são encontradas em Jerusalém, Bruxelas, Ghent, e Roma: Partículas veneradas são muito pequenas.
 
 
 **É correto mostrar respeito às estátuas e imagens de Cristo e dos santos?**

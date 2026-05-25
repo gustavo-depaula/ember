@@ -9,7 +9,7 @@
 
 — Os leigos da Igreja são todos os seus membros que não pertencem ao estado clerical ou ao estado religioso.
 
-1. Todos os membros da Igreja, sejam clericais, religiosos ou leigos, são denominados "os fiéis." Após o Batismo juntamo-nos às fileiras.
+1. Todos os membros da Igreja, sejam clericais, religiosos, ou leigos, são denominados "os fiéis." Após o Batismo juntamo-nos às fileiras.
 
 > Os leigos devem lembrar-se de que são parte da Igreja. Devem entender que quando alguém fala da "Igreja" estão incluídos, como incluímos o coração e a mente de um homem com sua alma quando falamos dele. A Igreja és tu e eu.
 
@@ -19,14 +19,14 @@
 
 3. O estado religioso inclui aqueles que são membros de ordens religiosas ou congregações, obrigados por votos temporários ou perpétuos de pobreza, castidade, obediência.
 
-> Aspirantes, postulantes e noviços estão preparando-se para abraçar o estado religioso.
+> Aspirantes, postulantes, e noviços estão preparando-se para abraçar o estado religioso.
 
 
 **Os Católicos pecadores continuam a pertencer à Igreja?**
 
 — Sim.
 
-1. A menos que alguém se separe por heresia, apostasia ou excomunhão, um católico pecador continua a ser um membro da Igreja. Aqueles em pecado mortal são chamados "membros mortos", pois suas almas estão mortas em pecado.
+1. A menos que alguém se separe por heresia, apostasia, ou excomunhão, um católico pecador continua a ser um membro da Igreja. Aqueles em pecado mortal são chamados "membros mortos", pois suas almas estão mortas em pecado.
 
 > De fato, a Igreja é a Igreja dos Santos; mas a maior parte de suas atividades tem que ser para os pecadores. Talvez possamos dizer, sem medo de contradição, que a maioria dos membros da Igreja são pecadores. Todos caímos do ideal, em algum momento ou outro; então a Igreja chama, para trazer-nos de volta.
 
@@ -49,7 +49,7 @@
 
 2. A Igreja não é para nenhuma classe particular, sejam milionários ou operários, cientistas ou crianças; a Igreja é sem classe, e para todas as classes, para todos os homens. Estes não podem todos agir e pensar num padrão uniforme.
 
-> As diferentes classes entre Católicos surgem de causas além da Igreja, como causas raciais, culturais e sociais. Mas em qualquer lugar e em toda parte alguém pode ser um bom Católico.
+> As diferentes classes entre Católicos surgem de causas além da Igreja, como causas raciais, culturais, e sociais. Mas em qualquer lugar e em toda parte alguém pode ser um bom Católico.
 
 3. Bons Católicos creem semelhantemente nisto: que são membros de uma Igreja divinamente estabelecida, o bem-estar da qual é seu dever promover, esforçando-se por atingir a perfeição indicada por Cristo.
 

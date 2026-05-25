@@ -2,7 +2,7 @@
 
 ![](../images/lesson-010.webp)
 
-*Antes da impressão ser inventada por volta de 1450, os livros podiam ser reproduzidos apenas fazendo cópias manuscritas em pergaminho ou pele de ovelha. Uma Bíblia completa custava uma fortuna, por causa do tempo e despesa necessários para copiar. Copistas cometiam erros, ou abreviações que outros não entendiam. A ilustração mostra manuscritos em hebraico, grego e latim, as línguas mais frequentemente usadas nas primeiras cópias da Bíblia. Dão uma ideia das dificuldades antes da invenção da impressão.*
+*Antes da impressão ser inventada por volta de 1450, os livros podiam ser reproduzidos apenas fazendo cópias manuscritas em pergaminho ou pele de ovelha. Uma Bíblia completa custava uma fortuna, por causa do tempo e despesa necessários para copiar. Copistas cometiam erros, ou abreviações que outros não entendiam. A ilustração mostra manuscritos em hebraico, grego, e latim, as línguas mais frequentemente usadas nas primeiras cópias da Bíblia. Dão uma ideia das dificuldades antes da invenção da impressão.*
 
 
 **Cristo pretendia que o Evangelho fosse proclamado pela circulação da Bíblia?**

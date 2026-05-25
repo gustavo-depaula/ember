@@ -9,7 +9,7 @@
 
 **Quais são as principais orações à Santíssima Virgem?**
 
-— As principais orações à Santíssima Virgem são: a "Ave-Maria," a "Salve Rainha," o *Angelus*, o Rosário e a Ladainha da Santíssima Virgem ou Ladainha de Loreto.
+— As principais orações à Santíssima Virgem são: a "Ave-Maria," a "Salve Rainha," o *Angelus*, o Rosário, e a Ladainha da Santíssima Virgem ou Ladainha de Loreto.
 
 
 **Qual é a primeira parte da Ave-Maria?**

@@ -30,7 +30,7 @@
 
 — Após a Santa Comunhão devemos gastar algum tempo adorando Nosso Senhor, agradecendo-Lhe, renovando nossas promessas de amor e obediência a Ele e pedindo-Le bênçãos para nós e outros.
 
-1. Não devemos deixar a igreja imediatamente após receber a Santa Comunhão. Devemos orar pelo menos dez ou quinze minutos, agradecendo a nosso Divino Hóspede. Devemos agradecer a Nosso Senhor fervorosamente por vir a nós, fazer atos de fé, adoração, humildade e amor, e suplicar-Lhe favores para nós e aqueles que amamos.
+1. Não devemos deixar a igreja imediatamente após receber a Santa Comunhão. Devemos orar pelo menos dez ou quinze minutos, agradecendo a nosso Divino Hóspede. Devemos agradecer a Nosso Senhor fervorosamente por vir a nós, fazer atos de fé, adoração, humildade, e amor, e suplicar-Lhe favores para nós e aqueles que amamos.
 
 > Nosso Senhor está atual e pessoalmente presente em nós enquanto a aparência do pão permanece, por pelo menos dez minutos após receber a Santa Comunhão. Trataremos a Deus Filho friamente, não fazendo nada quando Ele vem? Para hóspedes terrenos nos esforçamos ao máximo para entretê-los e fazer sua estadia agradável. Diremos então a Cristo, "Estou contente que viestes, Senhor. Agora adeus, porque devo ir para casa." E esquecê-Lo?
 
@@ -41,7 +41,7 @@
 
 **Como devemos mostrar nossa gratidão a Nosso Senhor por permanecer sempre em nossos altares na Santa Eucaristia?**
 
-— Devemos mostrar nossa gratidão a Nosso Senhor por permanecer sempre em nossos altares na Santa Eucaristia visitando-O frequentemente, por reverência na igreja, por assistir à Missa em dias de semana quando isto é possível, por assistir às devoções paroquiais e por estar presente à Bênção do Santíssimo Sacramento.
+— Devemos mostrar nossa gratidão a Nosso Senhor por permanecer sempre em nossos altares na Santa Eucaristia visitando-O frequentemente, por reverência na igreja, por assistir à Missa em dias de semana quando isto é possível, por assistir às devoções paroquiais, e por estar presente à Bênção do Santíssimo Sacramento.
 
 1. Pagar visitas ao Santíssimo Sacramento é um gesto amoroso para com Nosso Senhor realmente presente ali. Ele é nosso melhor Amigo e não Lhe pagaremos uma visita de vez em quando?
 

@@ -11,7 +11,7 @@
 
 1. O "Pai-Nosso" foi ensinado por Cristo Mesmo a nós através de Seus Apóstolos a seu pedido. Tem uma introdução e sete petições.
 
-> O Pai-Nosso contém petições para todas as necessidades de alma e corpo. É ao mesmo tempo uma oração de louvor, petição e contrição.
+> O Pai-Nosso contém petições para todas as necessidades de alma e corpo. É ao mesmo tempo uma oração de louvor, petição, e contrição.
 
 2. No "Pai-Nosso" não apenas oramos em nome de Jesus, mas em Suas próprias palavras. É adequado a cada classe e condição de homens, do mais simples ao mais sábio.
 

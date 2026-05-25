@@ -38,7 +38,7 @@
 
 > Contudo, tais casos ainda ocorrem; se ouvirmos de algum, notifiquemos o padre. Nosso Senhor Mesmo comandou muitos demônios a partir de possuídas pessoas de Seu tempo.
 
-3. Objetos abençoados de devoção. — Destes podemos mencionar: santos óleos, água benta, velas, cinzas, palmas, cruzes e crucifixos, escapulários, medalhas, Agnus Deis, terços, imagens, quadros santos, sinos e vestidos abençoados.
+3. Objetos abençoados de devoção. — Destes podemos mencionar: santos óleos, água benta, velas, cinzas, palmas, cruzes e crucifixos, escapulários, medalhas, Agnus Deis, terços, imagens, quadros santos, sinos, e vestidos abençoados.
 
 > Todos os objetos usados no serviço divino, como vasos sagrados, roupas, paramentos, são especialmente abençoados. A Mãe Igreja tem especiais bênçãos para tudo que usamos: para rádios, automóveis, aviões, campos, bibliotecas, etc. Devemos pedir ao padre abençoar tudo que usamos e temos. Como São Paulo disse: "Seja que comais ou bebais, ou façais qualquer outra coisa, fazei tudo para a glória de Deus" (1 Cor. 10:31). Por bênçãos sacramentais, consagramos a Deus tudo que somos e temos.
 

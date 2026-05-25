@@ -22,7 +22,7 @@
 
 — As proclamações de matrimônio são uma pública proclamação de um casamento pretendido, feita na Missa principal em três Domingos sucessivos ou dias de festa, na igreja ou igrejas às quais a noiva e o noivo pertencem.
 
-1. O propósito das proclamações é descobrir impedimentos, evitar casamentos secretos e fornecer àqueles interessados uma oportunidade de intervir, se desejarem fazê-lo.
+1. O propósito das proclamações é descobrir impedimentos, evitar casamentos secretos, e fornecer àqueles interessados uma oportunidade de intervir, se desejarem fazê-lo.
 
 > Nisto, a Mãe Igreja mostra sua solicitude por seus filhos, evitando casamentos apressados, fazendo seu melhor para assegurar uma santa e válida união. Dispensa das proclamações é concedida por urgentes razões.
 
@@ -41,7 +41,7 @@
 
 **O que a cerimônia de casamento inclui?**
 
-— Em sua plenitude, a cerimônia de casamento inclui: o contrato nupcial, a Missa nupcial e a bênção nupcial.
+— Em sua plenitude, a cerimônia de casamento inclui: o contrato nupcial, a Missa nupcial, e a bênção nupcial.
 
 1. Matrimônio é tanto um sacramento quanto um contrato. Em todos os outros sacramentos, o ministro ordinário é do clero; no Matrimônio, porque é um contrato, os ministros são as partes concernentes, a noiva e o noivo.
 

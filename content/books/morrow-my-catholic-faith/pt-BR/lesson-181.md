@@ -7,13 +7,13 @@
 
 **Por quem devemos orar?**
 
-— Devemos orar especialmente por nós mesmos, por nossos pais, parentes, amigos e inimigos, por pecadores, pelas almas no purgatório, pelo Papa, bispos e padres da Igreja, e pelos oficiais de nosso país.
+— Devemos orar especialmente por nós mesmos, por nossos pais, parentes, amigos e inimigos, por pecadores, pelas almas no purgatório, pelo Papa, bispos, e padres da Igreja, e pelos oficiais de nosso país.
 
 1. Devemos orar por nós mesmos por todas nossas necessidades de alma e corpo.
 
 > Devemos particularmente orar por aqueles que amamos: nossos pais, irmãos e irmãs, amigos e parentes, benfeitores e superiores. Mas como os Santos, devemos também orar por nossos inimigos. E devemos fazer reparação orando por todos a quem possamos ter injuriado.
 
-2. Devemos orar pela Igreja por todas suas espirituais e temporais necessidades, para que seja estabelecida em todos os corações, para que pagãos, hereges e pecadores sejam convertidos.
+2. Devemos orar pela Igreja por todas suas espirituais e temporais necessidades, para que seja estabelecida em todos os corações, para que pagãos, hereges, e pecadores sejam convertidos.
 
 > Devemos dizer orações pelo Santo Padre, nosso bispo e nossos padres, para que cresçam no amor de Deus no fiel desempenho de seus deveres. Devemos orar por nossos irmãos falecidos, as almas no purgatório, para que possam ver Deus logo.
 
@@ -87,4 +87,4 @@
 
 2. Podemos orar em casa, no trabalho, na companhia de outros, mesmo na rua. O melhor lugar para orar é na igreja, porque é a casa especialmente consagrada à oração.
 
-> Devemos dizer especialmente nossas orações da manhã e noite, graça às refeições e o Angelus três vezes ao dia. Devemos também orar quando somos tentados, em infortúnios, perigo ou necessidade, e no início de cada importante empreendimento.
+> Devemos dizer especialmente nossas orações da manhã e noite, graça às refeições, e o Angelus três vezes ao dia. Devemos também orar quando somos tentados, em infortúnios, perigo, ou necessidade, e no início de cada importante empreendimento.

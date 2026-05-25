@@ -32,7 +32,7 @@
 
 2. Através de suas duas faculdades da alma, entendimento e livre-arbítrio, o homem obtém domínio sobre o mundo material, como Deus possui poder sobre todo o universo.
 
-> Como Deus disse antes de criar o homem: "Tenha ele domínio sobre os animais e toda a terra" (Gên. 1:26). Através de sua semelhança com Deus, o homem tem o poder de conhecer o verdadeiro, o bom, o belo, até mesmo conhecer a Fonte de toda verdade, bondade e beleza, o Próprio Deus.
+> Como Deus disse antes de criar o homem: "Tenha ele domínio sobre os animais e toda a terra" (Gên. 1:26). Através de sua semelhança com Deus, o homem tem o poder de conhecer o verdadeiro, o bom, o belo, até mesmo conhecer a Fonte de toda verdade, bondade, e beleza, o Próprio Deus.
 
 
 **Como podemos provar que a alma do homem é imortal?**

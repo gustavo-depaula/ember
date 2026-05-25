@@ -24,7 +24,7 @@
 
 — Sim; a Igreja proíbe católicos de contrair casamento com não católicos.
 
-1. Tal casamento é chamado um "*casamento misto*." A Igreja proíbe casamentos mistos porque frequentemente trazem discórdia familiar, perda de fé da parte do católico e negligência da educação religiosa dos filhos.
+1. Tal casamento é chamado um "*casamento misto*." A Igreja proíbe casamentos mistos porque frequentemente trazem discórdia familiar, perda de fé da parte do católico, e negligência da educação religiosa dos filhos.
 
 > A Igreja fortemente desaprova casamentos mistos. De sua longa experiência, a Igreja sabe que casamentos mistos raramente são felizes; são opostos à união e harmonia que deve existir entre esposos. O católico está em perigo de perder sua fé. O não católico está sujeito a divórcio e contrair outro casamento, enquanto o católico está obrigado a não tomar um segundo parceiro até que o primeiro morra. A devida educação dos filhos torna-se difícil; além disso, é provável que a prole de tais uniões cresça sem devida instrução religiosa e perca a Fé.
 

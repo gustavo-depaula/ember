@@ -9,7 +9,7 @@
 
 — O ano eclesiástico é a sucessão ou ciclo de estações, incluindo todas as festas, celebradas pela Igreja durante o ano.
 
-1. O ano eclesiástico é composto de seis estações ou períodos de comprimento desigual: Advento, Natalício, Septuagésima, Quaresma, Tempo Pascal, e o período de Pentecostes ao Advento. Estes períodos são regulados em sua ocorrência pelas três festas principais do ano: Natal, Páscoa e Pentecostes. As Epístolas e Evangelhos, assim como os Hinos e Sequências da Missa, estão em consonância com as estações e períodos do ano eclesiástico.
+1. O ano eclesiástico é composto de seis estações ou períodos de comprimento desigual: Advento, Natalício, Septuagésima, Quaresma, Tempo Pascal, e o período de Pentecostes ao Advento. Estes períodos são regulados em sua ocorrência pelas três festas principais do ano: Natal, Páscoa, e Pentecostes. As Epístolas e Evangelhos, assim como os Hinos e Sequências da Missa, estão em consonância com as estações e períodos do ano eclesiástico.
 
 > O ano eclesiástico difere um tanto do ano civil. Em vez de começar numa data fixa, 1 de Janeiro como o ano civil faz, o ano eclesiástico começa com o primeiro Domingo do Advento, quatro Domingos antes do Natal. (Veja o Apêndice).
 
@@ -38,7 +38,7 @@
 
 **O que é Septuagésima?**
 
-— Septuagésima é o período de preparação para a Quaresma. A estação dura duas semanas e meia, do Domingo da Septuagésima à Quarta-Feira de Cinzas, e inclui três Domingos, respectivamente chamados Septuagésima, Sexagésima e Quinquagésima (70º, 60º e 50º).
+— Septuagésima é o período de preparação para a Quaresma. A estação dura duas semanas e meia, do Domingo da Septuagésima à Quarta-Feira de Cinzas, e inclui três Domingos, respectivamente chamados Septuagésima, Sexagésima, e Quinquagésima (70º, 60º, e 50º).
 
 > Estes foram assim nomeados porque nos primeiros anos do Cristianismo, muitos começavam a jejuar cinquenta, sessenta ou setenta dias antes da Páscoa.
 
@@ -53,9 +53,9 @@
 
 2. As últimas duas semanas da Quaresma são chamadas Semana da Paixão e Semana Santa respectivamente. Então a Igreja segue Cristo de perto através dos últimos estágios de Sua vida mortal.
 
-> Durante o período da Quaresma, a vida pública de Nosso Senhor é posta diante de nós, incluindo Seu jejum, Sua Paixão e Sua morte. Em consonância com o espírito penitencial da estação, da Quarta-Feira de Cinzas ao Domingo de Páscoa inclusive, a Igreja proíbe a celebração da Missa Nupcial.
+> Durante o período da Quaresma, a vida pública de Nosso Senhor é posta diante de nós, incluindo Seu jejum, Sua Paixão, e Sua morte. Em consonância com o espírito penitencial da estação, da Quarta-Feira de Cinzas ao Domingo de Páscoa inclusive, a Igreja proíbe a celebração da Missa Nupcial.
 
-3. Em harmonia com o espírito da Quaresma, espera-se que os católicos se abstenham de diversões mundanas, como espetáculos, banquetes, etc. Devem dedicar mais tempo à oração, penitência e exercícios religiosos.
+3. Em harmonia com o espírito da Quaresma, espera-se que os católicos se abstenham de diversões mundanas, como espetáculos, banquetes, etc. Devem dedicar mais tempo à oração, penitência, e exercícios religiosos.
 
 
 **O que é o Tempo Pascal?**

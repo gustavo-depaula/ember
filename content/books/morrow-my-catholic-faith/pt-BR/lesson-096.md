@@ -13,7 +13,7 @@
 
 > Devoção à Bem-Aventurada Virgem Maria, veneração de santos, relíquias e imagens, não se opõem a esta virtude. Não adoramos os santos: apenas os honramos como amigos e servos especiais de Deus. Adoramos somente a Deus. Tampouco adoramos imagens e quadros sagrados ou relíquias. Apenas lhes prestamos honra como pertencendo ou representando Deus ou os santos. De maneira similar comumente estimamos as fotografias de nossos queridos amigos.
 
-2. Os principais pecados contra a virtude da religião são: superstição, sacrilégio, idolatria e simonia.
+2. Os principais pecados contra a virtude da religião são: superstição, sacrilégio, idolatria, e simonia.
 
 > Falhamos em nosso dever de adoração quando nos entregamos às criaturas aparte de Deus: quando gastamos todas nossas vidas pelo mundo, por interesses materiais, em orgulho, luxúria ou avareza.
 
@@ -39,7 +39,7 @@
 
 **Quando uma pessoa peca por sacrilégio?**
 
-— Uma pessoa peca por sacrilégio quando maltrata pessoas, lugares ou coisas sagradas.
+— Uma pessoa peca por sacrilégio quando maltrata pessoas, lugares, ou coisas sagradas.
 
 > Sacrilégio é um tipo de blasfêmia consistindo na violação ou profanação de uma pessoa, lugar ou coisa consagrada a Deus. Por exemplo, é sacrilégio incorrendo em excomunhão levantar mãos violentas contra um padre, uma freira, ou qualquer outra pessoa consagrada a Deus. É sacrilégio cometer atos de impureza ou de violência, como matar ou lutar, numa igreja ou cemitério consagrado, receber os sacramentos indignamente, roubar vasos sagrados ou outra propriedade da Igreja, causar dano numa igreja, desprezar relíquias e quadros santos, mutilar imagens, etc.
 

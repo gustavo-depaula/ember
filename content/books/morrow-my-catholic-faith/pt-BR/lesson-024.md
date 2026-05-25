@@ -7,7 +7,7 @@
 
 **Quais são as ocasiões próximas de pecado?**
 
-— As ocasiões próximas de pecado são todas as pessoas, lugares ou coisas que podem facilmente levar-nos ao pecado. As ocasiões mais comuns são:
+— As ocasiões próximas de pecado são todas as pessoas, lugares, ou coisas que podem facilmente levar-nos ao pecado. As ocasiões mais comuns são:
 
 1. Maus companheiros. Quem provoca ou nos leva ao pecado não é nosso amigo. Devemos parar de andar com aquele companheiro.
 
@@ -51,7 +51,7 @@
 
 **Quais são as principais fontes do pecado atual?**
 
-— As principais fontes do pecado atual são: orgulho, avareza, luxúria, ira, gula, inveja e preguiça, e estas são comumente chamadas pecados capitais.
+— As principais fontes do pecado atual são: orgulho, avareza, luxúria, ira, gula, inveja, e preguiça, e estas são comumente chamadas pecados capitais.
 
 > São chamados capitais, do latim *caput* (que significa cabeça), porque são as cabeças ou fontes de todos os pecados. Assim originam pecados de luxúria, fofoca, ambição excessiva, etc.
 
@@ -68,7 +68,7 @@
 
 — Sim, Deus pune o pecado, parcialmente nesta vida, mas principalmente após a morte.
 
-1. Nesta vida, os pecadores sofrem de remorso de consciência, medo e infelicidade. Seu pecado frequentemente traz sobre eles doença ou morte, o ódio e escárnio de seus semelhantes, e outros castigos temporais. Mesmo na terra, "o salário do pecado é a morte."
+1. Nesta vida, os pecadores sofrem de remorso de consciência, medo, e infelicidade. Seu pecado frequentemente traz sobre eles doença ou morte, o ódio e escárnio de seus semelhantes, e outros castigos temporais. Mesmo na terra, "o salário do pecado é a morte."
 
 > Assim um ladrão ou assassino está sempre com medo de que seu crime seja detectado. Se é descoberto, é enviado à prisão ou à cadeira elétrica.
 

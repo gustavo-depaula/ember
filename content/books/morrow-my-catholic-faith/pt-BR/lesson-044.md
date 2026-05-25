@@ -61,7 +61,7 @@
 
 3. O mero conhecimento dos fatos não destrói nossa castidade. É o consentimento deliberado e ceder à impureza que macula a castidade da mente e do corpo.
 
-> Jesus Cristo, Nossa Senhora, São José e outros santos certamente conheciam os fatos do sexo; mas tal conhecimento não estragou sua castidade imaculada.
+> Jesus Cristo, Nossa Senhora, São José, e outros santos certamente conheciam os fatos do sexo; mas tal conhecimento não estragou sua castidade imaculada.
 
 4. Sejamos cuidadosos com a companhia que mantemos, e evitemos todas as ocasiões de pecado para preservar a virtude da castidade. Formemos o hábito da temperança em todas as coisas, de modo a fortalecer nosso autocontrole. Devemos frequentemente recorrer à oração e aos sacramentos, recebendo-os frequentemente. "Andai no Espírito, e não cumprireis as concupiscências da carne" (Gál. 5:16). (Veja Capítulo 25 sobre Orgulho, Avareza, Luxúria)
 

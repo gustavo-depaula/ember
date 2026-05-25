@@ -2,7 +2,7 @@
 
 ![](../images/lesson-111.webp)
 
-*Os pais devem ter o maior cuidado em ensinar a seus filhos honestidade em pensamento, palavra e obra. Como a criança, assim o homem. Se os pais riem indulgentemente de seu filho roubando comida da despensa (1), retendo troco após recados, copiando em exames, atirando pedras para quebrar janelas, danificando paredes e livros, colhendo flores e frutos do jardim de outra pessoa, etc., então aqueles pais não devem surpreender-se se quando a criança é adulta, rouba do banco (2), forja assinaturas, engana seus empregadores, torna-se um usurário, etc.*
+*Os pais devem ter o maior cuidado em ensinar a seus filhos honestidade em pensamento, palavra, e obra. Como a criança, assim o homem. Se os pais riem indulgentemente de seu filho roubando comida da despensa (1), retendo troco após recados, copiando em exames, atirando pedras para quebrar janelas, danificando paredes e livros, colhendo flores e frutos do jardim de outra pessoa, etc., então aqueles pais não devem surpreender-se se quando a criança é adulta, rouba do banco (2), forja assinaturas, engana seus empregadores, torna-se um usurário, etc.*
 
 "NÃO FURTARÁS" "NÃO COBIÇARÁS OS BENS DO TEU PRÓXIMO"
 
@@ -42,9 +42,9 @@
 
 > Outra forma de desonestidade é monopolizar o mercado que consiste em comprar todo o suprimento de um produto, como trigo, com o propósito de forçar para cima os preços, e assim fazer lucros excessivos.
 
-5. Dano injusto feito à propriedade de outros é contra o sétimo mandamento. Alguém pode ferir a propriedade de outrem incendiando-a, pisoteando suas colheitas, pescando ou atirando em seus terrenos sem permissão, derrubando cercas, danificando livros, mobiliário e edifícios, etc. Aquele que faz dano voluntário à propriedade de outrem deve reparar a perda. Dano acidental não precisa ser reparado, a menos que tenha ocorrido por negligência culpável.
+5. Dano injusto feito à propriedade de outros é contra o sétimo mandamento. Alguém pode ferir a propriedade de outrem incendiando-a, pisoteando suas colheitas, pescando ou atirando em seus terrenos sem permissão, derrubando cercas, danificando livros, mobiliário, e edifícios, etc. Aquele que faz dano voluntário à propriedade de outrem deve reparar a perda. Dano acidental não precisa ser reparado, a menos que tenha ocorrido por negligência culpável.
 
-> Pessoas irrefletidas que passam por uma fazenda às vezes colhem fruta, vegetais ou milho. Alguns viajantes têm o mau hábito de tomar toalhas, pratos, canetas e coisas semelhantes de trens, barcos e hotéis como lembranças. Crianças colhem flores dos jardins de outras pessoas, atiram pedras em casas, escrevem em carteiras, paredes e cercas. Devem ser ensinadas a não ferir a propriedade de outros.
+> Pessoas irrefletidas que passam por uma fazenda às vezes colhem fruta, vegetais, ou milho. Alguns viajantes têm o mau hábito de tomar toalhas, pratos, canetas, e coisas semelhantes de trens, barcos, e hotéis como lembranças. Crianças colhem flores dos jardins de outras pessoas, atiram pedras em casas, escrevem em carteiras, paredes, e cercas. Devem ser ensinadas a não ferir a propriedade de outros.
 
 6. Oficiais públicos devem ter muito cuidado em não aceitar subornos; devem guardar-se contra todos os sinais de peculato.
 

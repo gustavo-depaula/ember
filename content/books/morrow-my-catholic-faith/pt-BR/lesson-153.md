@@ -51,7 +51,7 @@
 
 > Contudo, se os confessores e mártires intercediam em nome dos apóstatas, seu tempo de penitência era encurtado pelo Bispo. Em outras palavras, uma "indulgência" era concedida a eles pela autoridade própria, em vista dos méritos superabundantes daqueles que intercediam por eles.
 
-3. À medida que os séculos passaram, a Igreja moderou suas severas penitências. Havia perigo de que, se as penitências continuassem a ser muito severas, muitos seriam incapazes de cumpri-las. Para portanto salvar tantas almas quanto possível, a Igreja tornou as penitências mais leves. Penitências públicas cessaram de ser impostas; ao penitente era permitido fazer expiação por meio de esmolas, cruzadas ou peregrinações.
+3. À medida que os séculos passaram, a Igreja moderou suas severas penitências. Havia perigo de que, se as penitências continuassem a ser muito severas, muitos seriam incapazes de cumpri-las. Para portanto salvar tantas almas quanto possível, a Igreja tornou as penitências mais leves. Penitências públicas cessaram de ser impostas; ao penitente era permitido fazer expiação por meio de esmolas, cruzadas, ou peregrinações.
 
 > Daí o uso mais amplo de indulgências surgiu; e eram concedidas por obras comparativamente fáceis de realizar.
 

@@ -22,16 +22,16 @@
 
 — O amoroso cuidado de Deus por nós se chama Divina Providência, Seu plano para guiar as criaturas a seu fim próprio.
 
-1. A Divina Providência é boa, constante e justa. Vela até pela mais humilde e desprezada criatura na terra.
+1. A Divina Providência é boa, constante, e justa. Vela até pela mais humilde e desprezada criatura na terra.
 
 > Da ternura paternal de Deus, a Sagrada Escritura fala assim: "Acaso pode uma mulher esquecer-se de seu filho de peito, de não se compadecer do filho de seu ventre? E ainda que ela se esqueça, Eu todavia não Me esquecerei de ti. Eis que te gravei em Minhas mãos; teus muros estão sempre diante de Meus olhos" (Is. 49:15-16).
 
-2. Deus tem cuidado especial por aqueles que são pobres, desprezados e esquecidos pelo mundo. Ele frequentemente manifestou Sua glória por meio dos humildes.
+2. Deus tem cuidado especial por aqueles que são pobres, desprezados, e esquecidos pelo mundo. Ele frequentemente manifestou Sua glória por meio dos humildes.
 
 > Assim pobres pastores foram os primeiros a receber notícias do nascimento do Salvador. Assim pobres pescadores foram Seus Apóstolos. Assim uma pobre donzela foi Sua Mãe.
 
 
-**Se a Divina Providência é boa, por que existem pobreza, enfermidade, sofrimentos e outros males físicos?**
+**Se a Divina Providência é boa, por que existem pobreza, enfermidade, sofrimentos, e outros males físicos?**
 
 — Os males físicos são frequentemente resultado da fraqueza das criaturas no corpo e na mente.
 
@@ -43,7 +43,7 @@
 
 2. Deus nunca envia a alguém sofrimento além de suas forças. Para ganhar mérito, devemos ser pacientes e resignados no sofrimento. Imitemos Nosso Senhor no Jardim, cuja oração foi: "Pai, não seja Minha vontade, mas a Tua, seja feita!" Nosso Senhor nos ensinou a dizer, no Pai-Nosso: "Seja feita a Vossa vontade assim na terra como no céu."
 
-> Aquele que se resigna alegremente à vontade de Deus, na enfermidade, morte, pobreza, perseguição e outras infortúnios, obtém verdadeira paz de coração; será bem-aventurado mesmo nesta terra.
+> Aquele que se resigna alegremente à vontade de Deus, na enfermidade, morte, pobreza, perseguição, e outras infortúnios, obtém verdadeira paz de coração; será bem-aventurado mesmo nesta terra.
 
 3. Deus frequentemente envia o mal físico aos pecadores para trazê-los de volta ao caminho certo. Serve como um aviso para eles.
 
@@ -58,7 +58,7 @@
 
 — Os infortúnios e satisfações do mundo não são reais e duradouros, e não podem medir a justiça de Deus.
 
-1. Nenhum pecador tem verdadeira felicidade; sua consciência não lhe dá paz interior. Riquezas, honra e prazeres nunca podem dar paz ao espírito. Por outro lado, nenhum amante de Deus tem verdadeira miséria, pois ele possui paz interior e boa consciência. A verdadeira recompensa e castigo começam apenas após a morte.
+1. Nenhum pecador tem verdadeira felicidade; sua consciência não lhe dá paz interior. Riquezas, honra, e prazeres nunca podem dar paz ao espírito. Por outro lado, nenhum amante de Deus tem verdadeira miséria, pois ele possui paz interior e boa consciência. A verdadeira recompensa e castigo começam apenas após a morte.
 
 > Na terra, os pecadores são recompensados por todo o bem que fazem. Sua boa fortuna dura apenas para esta vida. Os justos são punidos na terra por quaisquer pecados que tenham cometido. Sua recompensa é plena na outra vida.
 

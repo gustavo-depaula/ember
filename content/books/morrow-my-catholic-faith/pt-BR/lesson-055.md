@@ -9,7 +9,7 @@
 
 — É aquela parte da Igreja no Oriente que, embora usando liturgias e ritos diferentes daqueles da Igreja Latina (ou Ocidental) centrada em Roma, subscreve às mesmas doutrinas, e reconhece o mesmo Soberano Pontífice, pertencendo assim à mesma Igreja Universal e Verdadeira.
 
-> A Igreja Católica Oriental inclui os seguintes: Bizantinos, Sírios, Coptas, Etíopes, Caldeus, Armênios, Malabarenses e Maronitas.
+> A Igreja Católica Oriental inclui os seguintes: Bizantinos, Sírios, Coptas, Etíopes, Caldeus, Armênios, Malabarenses, e Maronitas.
 
 1. No princípio do quarto século, havia uma Igreja, una em doutrina bem como em obediência ao Soberano Pontífice, o Bispo de Roma. Mesmo então, contudo, não havia uniformidade em observâncias, cerimônias, ritos.
 
@@ -25,7 +25,7 @@ Então, principalmente desde os séculos 16 e 17, a maioria deles retornou à un
 
 > A Igreja Católica Oriental continua a usar diferentes ritos e observâncias, alguns dos quais até antecederam aqueles de Roma, como tendo estado lá, muito antes dos cismas. Assim hoje, os grupos na Igreja Oriental têm sua própria disciplina e costumes, o mais notável dos quais é que com eles a Missa (chamada "Santa Liturgia") é dita na língua peculiar à igreja em que está sendo dita: seja Eslavo, Romeno, Sírio, Árabe, Armênio, Grego, Copta, Etíope ou Georgiano. Outras diferenças de prática são: administração da Santa Eucaristia aos fiéis em ambas as formas de pão e vinho, o uso de pão fermentado para a Santa Missa, Batismo por imersão, inclinar-se da cintura com um movimento do braço ao invés de uma genuflexão diante do Santíssimo Sacramento.
 
-4. Grupos na Igreja Oriental são principalmente aqueles sob a jurisdição dos Patriarcas de Alexandria, Antioquia, Jerusalém e Constantinopla. No quinto século, havia cinco patriarcados: estes quatro compondo a Igreja Oriental, e o Patriarcado de Roma sozinho no Ocidente.
+4. Grupos na Igreja Oriental são principalmente aqueles sob a jurisdição dos Patriarcas de Alexandria, Antioquia, Jerusalém, e Constantinopla. No quinto século, havia cinco patriarcados: estes quatro compondo a Igreja Oriental, e o Patriarcado de Roma sozinho no Ocidente.
 
 > Naqueles dias, havia divisões geográficas claras de patriarcados; um Católico Oriental nascia dentro dos limites de seu patriarcado. Hoje alguém pertence ao seu rito onde quer que vá, e seus filhos herdam seu rito.
 
@@ -44,13 +44,13 @@ Então, principalmente desde os séculos 16 e 17, a maioria deles retornou à un
 
 > Durante o período de perseguições, e por conta da dificuldade de comunicação, variedade em práticas era a coisa natural e comum. Quando a Igreja tornou-se melhor organizada, práticas tornaram-se mais uniformes. Na Igreja Latina, ritos praticamente tornaram-se uniformes em 1570 com a publicação do Missal Romano; até hoje algumas poucas variações permanecem.
 
-2. O Rito Bizantino, após o Romano, é o mais amplamente usado na Igreja, sendo encontrado na Rússia, Grécia, Balcãs e sul da Itália. Grego é a língua principalmente empregada, mas Georgiano, Eslavo e Romeno são igualmente usados.
+2. O Rito Bizantino, após o Romano, é o mais amplamente usado na Igreja, sendo encontrado na Rússia, Grécia, Balcãs, e sul da Itália. Grego é a língua principalmente empregada, mas Georgiano, Eslavo, e Romeno são igualmente usados.
 
 > A Igreja Ortodoxa Oriental pertence a este rito. Originalmente, era de Constantinopla; é baseado no rito de São Tiago de Jerusalém, e foi reformado por São Basílio e São João Crisóstomo. Modificado para uso na Rússia, este Rito é denominado Ruteniano.
 
-3. Outros Ritos Asiáticos são: o Antioqueno, Caldeu e Armênio; em sua totalidade ou modificados, são empregados no Oriente.
+3. Outros Ritos Asiáticos são: o Antioqueno, Caldeu, e Armênio; em sua totalidade ou modificados, são empregados no Oriente.
 
-> O Rito Antioqueno é a fonte de muitos ritos derivados; traça sua origem a São Tiago de Jerusalém. Os Sírios, Caldeus, Malabarenses e Maronitas usam derivações. O Rito Caldeu é usado pelos Caldeus e Malabarenses. Sírio é a língua principal usada em ambos estes ritos. O Rito Armênio está em uso entre Armênios, encontrados no Levante, Itália e Áustria. A língua Armênia é usada. É a Liturgia Grega de São Basílio.
+> O Rito Antioqueno é a fonte de muitos ritos derivados; traça sua origem a São Tiago de Jerusalém. Os Sírios, Caldeus, Malabarenses, e Maronitas usam derivações. O Rito Caldeu é usado pelos Caldeus e Malabarenses. Sírio é a língua principal usada em ambos estes ritos. O Rito Armênio está em uso entre Armênios, encontrados no Levante, Itália, e Áustria. A língua Armênia é usada. É a Liturgia Grega de São Basílio.
 
 4. Nas igrejas Católicas do Norte da África, o rito principal usado é o Alexandrino. Este é chamado "Liturgia de São Marcos"; mas o original foi grandemente modificado. As Igrejas Copta e Etíope o usam.
 

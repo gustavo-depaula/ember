@@ -11,7 +11,7 @@
 
 1. As práticas ordinárias ocorrem em regularmente designados tempos. São os regulares serviços realizados na igreja paroquial aos Domingos e dias santos, e durante dias de semana, tanto de manhã quanto à tarde.
 
-> Aos Domingos e dias santos, em todas as igrejas paroquiais uma ou mais Missas são ditas, segundo o número de padres e o tamanho da paróquia. Em cada daquelas Missas, um sermão é pregado. Em muitas paróquias, há especiais serviços, como a recitação do Rosário, ou bênção do Santíssimo Sacramento. Em dias de semana, uma ou mais Missas são ditas. Especialmente em Maio, Junho e Outubro, há usualmente exposição do Santíssimo Sacramento e a recitação do Rosário. Missas são ditas à tarde com a aprovação do bispo.
+> Aos Domingos e dias santos, em todas as igrejas paroquiais uma ou mais Missas são ditas, segundo o número de padres e o tamanho da paróquia. Em cada daquelas Missas, um sermão é pregado. Em muitas paróquias, há especiais serviços, como a recitação do Rosário, ou bênção do Santíssimo Sacramento. Em dias de semana, uma ou mais Missas são ditas. Especialmente em Maio, Junho, e Outubro, há usualmente exposição do Santíssimo Sacramento e a recitação do Rosário. Missas são ditas à tarde com a aprovação do bispo.
 
 2. As extraordinárias ou especiais devoções ocorrem apenas em especiais ocasiões. Algumas delas são: Bênção, exposição do Santíssimo Sacramento, a Via-Sacra, procissões, novenas, missões e retiros, congressos, devoção ao Sagrado Coração, etc.
 
@@ -36,4 +36,4 @@
 
 > Todo o mês de Junho é consagrado ao Sagrado Coração. Em muitas igrejas, cada dia em Junho, o Rosário é recitado e a Ladainha do Sagrado Coração dita. A devoção ao Sagrado Coração tem trazido preciosos resultados. Tem encorajado a prática da frequente Comunhão. Nenhuma casa católica deve estar sem uma imagem do Sagrado Coração prominentemente exibida.
 
-Outras devoções a Nosso Senhor Jesus Cristo são: aquelas à Sua Paixão, ao Santo Nome, às Cinco Chagas e ao Preciosíssimo Sangue.
+Outras devoções a Nosso Senhor Jesus Cristo são: aquelas à Sua Paixão, ao Santo Nome, às Cinco Chagas, e ao Preciosíssimo Sangue.

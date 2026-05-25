@@ -25,24 +25,24 @@ Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, 
 
 **O Credo dos Apóstolos**
 
-Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, Seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos; foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso; donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.
+Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, Seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos; foi crucificado, morto, e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso; donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.
 
 
 **O Confiteor**
 
-CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra e obra, por minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição e a remissão de todos os meus pecados. Amém.
+CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra, e obra, por minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição, e a remissão de todos os meus pecados. Amém.
 
 
 **Ato de Fé**
 
-Ó MEU Deus, eu firmemente creio que sois um só Deus em três Divinas Pessoas, Pai, Filho e Espírito Santo; creio que Vosso Divino Filho se fez homem, e morreu por nossos pecados, e que há de vir a julgar os vivos e os mortos. Creio estas e todas as verdades que a Santa Igreja Católica ensina, porque Vós as revelastes, Vós que não podeis enganar-Vos nem ser enganado.
+Ó MEU Deus, eu firmemente creio que sois um só Deus em três Divinas Pessoas, Pai, Filho, e Espírito Santo; creio que Vosso Divino Filho se fez homem, e morreu por nossos pecados, e que há de vir a julgar os vivos e os mortos. Creio estas e todas as verdades que a Santa Igreja Católica ensina, porque Vós as revelastes, Vós que não podeis enganar-Vos nem ser enganado.
 
 > (Indulgência de três anos)
 
 
 **Ato de Esperança**
 
-Ó MEU Deus, confiando em Vosso poder onipotente e infinita misericórdia e promessas, espero obter o perdão dos meus pecados, o auxílio de Vossa graça e a vida eterna, pelos merecimentos de Jesus Cristo, meu Senhor e Redentor.
+Ó MEU Deus, confiando em Vosso poder onipotente e infinita misericórdia e promessas, espero obter o perdão dos meus pecados, o auxílio de Vossa graça, e a vida eterna, pelos merecimentos de Jesus Cristo, meu Senhor e Redentor.
 
 > (Indulgência de três anos)
 
@@ -63,14 +63,14 @@ CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado
 
 **A "Salve Rainha"**
 
-Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, pobres filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+Salve, Rainha, Mãe de misericórdia; vida, doçura, e esperança nossa, salve! A Vós bradamos, pobres filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
 
 > (Indulgência de cinco anos)
 
 
 **Oferecimento da Manhã**
 
-Ó MEU Deus, eu Vos ofereço todas as minhas orações, obras e sofrimentos em união com o Sagrado Coração de Jesus, pelas intenções pelas quais Ele pleiteia e Se oferece no Santo Sacrifício da Missa, em ação de graças por Vossos favores, em reparação por minhas ofensas, e em humilde súplica por meu bem-estar temporal e eterno, pelas necessidades de nossa santa Mãe a Igreja, pela conversão dos pecadores, e pelo alívio das pobres almas do purgatório. Desejo ganhar todas as indulgências anexadas às orações que disser e às boas obras que realizar neste dia.
+Ó MEU Deus, eu Vos ofereço todas as minhas orações, obras, e sofrimentos em união com o Sagrado Coração de Jesus, pelas intenções pelas quais Ele pleiteia e Se oferece no Santo Sacrifício da Missa, em ação de graças por Vossos favores, em reparação por minhas ofensas, e em humilde súplica por meu bem-estar temporal e eterno, pelas necessidades de nossa santa Mãe a Igreja, pela conversão dos pecadores, e pelo alívio das pobres almas do purgatório. Desejo ganhar todas as indulgências anexadas às orações que disser e às boas obras que realizar neste dia.
 
 
 **Bênção Antes das Refeições**
@@ -102,12 +102,12 @@ Minha Rainha! minha Mãe! Eu me dou inteiramente a Vós; e para mostrar minha de
 
 **O Memorare**
 
-Lembrai-Vos, ó piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que tenham recorrido à Vossa proteção, implorado Vosso auxílio e solicitado Vossa intercessão, fosse por Vós desamparado. Animado com esta confiança, a Vós recorro, ó Virgem das virgens, minha Mãe! A Vós venho, perante Vós me apresento, pecador e contrito. Ó Mãe do Verbo Encarnado, não desprezeis as minhas súplicas, mas, em Vossa misericórdia, ouvi-me e atendei-me. Amém.
+Lembrai-Vos, ó piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que tenham recorrido à Vossa proteção, implorado Vosso auxílio, e solicitado Vossa intercessão, fosse por Vós desamparado. Animado com esta confiança, a Vós recorro, ó Virgem das virgens, minha Mãe! A Vós venho, perante Vós me apresento, pecador e contrito. Ó Mãe do Verbo Encarnado, não desprezeis as minhas súplicas, mas, em Vossa misericórdia, ouvi-me e atendei-me. Amém.
 
 
 **Oração a São José**
 
-Guardião das Virgens e pai, São José, a cujos fiéis cuidados Cristo Jesus, a própria inocência, e Maria, Virgem das virgens, foram confiados, rogo e Vos peço, por estes queridos penhores Jesus e Maria, livrai-me de toda impureza, para que com mente limpa, coração puro e corpo casto, eu possa sempre da maneira mais casta servir a Jesus e Maria todos os dias da minha vida. Amém.
+Guardião das Virgens e pai, São José, a cujos fiéis cuidados Cristo Jesus, a própria inocência, e Maria, Virgem das virgens, foram confiados, rogo e Vos peço, por estes queridos penhores Jesus e Maria, livrai-me de toda impureza, para que com mente limpa, coração puro, e corpo casto, eu possa sempre da maneira mais casta servir a Jesus e Maria todos os dias da minha vida. Amém.
 
 
 **Oração ao Anjo da Guarda**
@@ -226,7 +226,7 @@ Das profundezas clamei a Vós, ó Senhor! Senhor, ouvi a minha voz. Estejam aten
 
 **Oração Diante do Crucifixo**
 
-Olhai para mim, ó bom e gentil Jesus, enquanto diante de Vossa face humildemente me ajoelho, e com alma ardente oro e Vos suplico que fixeis profundamente em meu coração vivos sentimentos de fé, esperança e caridade, verdadeira contrição pelos meus pecados, e um firme propósito de emenda; enquanto contemplo com grande amor e terna piedade Vossas cinco chagas, meditando sobre elas dentro de mim, trazendo à mente as palavras que David, Vosso profeta, disse de Vós, meu bom Jesus: "Transpassaram Minhas mãos e Meus pés; contaram todos os Meus ossos."
+Olhai para mim, ó bom e gentil Jesus, enquanto diante de Vossa face humildemente me ajoelho, e com alma ardente oro e Vos suplico que fixeis profundamente em meu coração vivos sentimentos de fé, esperança, e caridade, verdadeira contrição pelos meus pecados, e um firme propósito de emenda; enquanto contemplo com grande amor e terna piedade Vossas cinco chagas, meditando sobre elas dentro de mim, trazendo à mente as palavras que David, Vosso profeta, disse de Vós, meu bom Jesus: "Transpassaram Minhas mãos e Meus pés; contaram todos os Meus ossos."
 
 
 **Anima Christi**
@@ -236,7 +236,7 @@ Alma de Cristo, santificai-me. Corpo de Cristo, salvai-me. Sangue de Cristo, emb
 
 **Ato de Resignação à Vontade Divina**
 
-Ó Senhor meu Deus, eu agora, neste momento, pronta e voluntariamente aceito de Vossa mão qualquer tipo de morte que Vos aprouver enviar-me, com todas as suas dores, penalidades e sofrimentos.
+Ó Senhor meu Deus, eu agora, neste momento, pronta e voluntariamente aceito de Vossa mão qualquer tipo de morte que Vos aprouver enviar-me, com todas as suas dores, penalidades, e sofrimentos.
 
 > (Indulgência plenária na hora da morte, para aqueles que rezam a oração acima em qualquer dia escolhido, após a Comunhão e Confissão.)
 

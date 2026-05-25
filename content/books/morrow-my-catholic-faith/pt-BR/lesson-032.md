@@ -2,7 +2,7 @@
 
 ![](../images/lesson-032.webp)
 
-*Após o encontro no Templo, Jesus retornou com Maria e José a Nazaré. Lá viveu com eles, fazendo tudo o que podia para ajudar Sua Mãe e São José em seu trabalho. Jesus, o Próprio Deus, obedeceu a mortais, porque quis nos dar um exemplo. Viveu uma vida de obediência, humildade e pobreza em Nazaré até ter cerca de trinta anos. Esta vida oculta nos ensina, entre outras coisas, o valor aos olhos de Deus, da oração, humildade e obediência.*
+*Após o encontro no Templo, Jesus retornou com Maria e José a Nazaré. Lá viveu com eles, fazendo tudo o que podia para ajudar Sua Mãe e São José em seu trabalho. Jesus, o Próprio Deus, obedeceu a mortais, porque quis nos dar um exemplo. Viveu uma vida de obediência, humildade, e pobreza em Nazaré até ter cerca de trinta anos. Esta vida oculta nos ensina, entre outras coisas, o valor aos olhos de Deus, da oração, humildade e obediência.*
 
 
 **Como pode a vida de Jesus Cristo ser dividida?**

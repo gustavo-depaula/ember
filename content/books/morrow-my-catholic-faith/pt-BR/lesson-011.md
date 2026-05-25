@@ -14,7 +14,7 @@
 
 **Quantas Pessoas há em Deus?**
 
-— Em Deus, há três Pessoas Divinas — o Pai, o Filho e o Espírito Santo.
+— Em Deus, há três Pessoas Divinas — o Pai, o Filho, e o Espírito Santo.
 
 1. Ao falar das "Pessoas" em Deus, não usamos o termo exatamente da mesma forma que o usamos quando falamos de pessoas. Usamo-lo apenas por falta de outro para mostrar melhor nosso significado.
 

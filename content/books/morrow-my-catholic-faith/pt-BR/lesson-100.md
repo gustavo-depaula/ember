@@ -45,7 +45,7 @@
 
 2. Não ouvir a Missa dominical, ou perder uma parte notável da Missa dominical, é um pecado mortal. Chegar um pouco atrasado e não compensar noutra Missa, é um pecado venial.
 
-> O preceito é ouvir uma Missa inteira do começo ao fim; isto é, desde a entrada do Padre no santuário até sua partida à sacristia. Considera-se que perdeu a Missa quem chega demasiado atrasado para estar presente ao Ofertório (quando o Padre descobre o cálice), ou sai antes que a Comunhão termine. As partes principais — isto é, o Ofertório, a Consagração e a Comunhão — devem ser ouvidas numa e mesma Missa.
+> O preceito é ouvir uma Missa inteira do começo ao fim; isto é, desde a entrada do Padre no santuário até sua partida à sacristia. Considera-se que perdeu a Missa quem chega demasiado atrasado para estar presente ao Ofertório (quando o Padre descobre o cálice), ou sai antes que a Comunhão termine. As partes principais — isto é, o Ofertório, a Consagração, e a Comunhão — devem ser ouvidas numa e mesma Missa.
 
 3. Aqueles que a cada leve pretexto se dispensam de sua obrigação de ouvir a Missa dominical gradualmente cairão no descuido e indiferença religiosos. Devemos ser cristãos robustos, e não deixar que nada senão impossibilidade ou enfermidade séria interfira com nosso ouvir Missa no Domingo.
 

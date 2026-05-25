@@ -7,7 +7,7 @@
 
 **O que é a Santa Eucaristia?**
 
-— A Santa Eucaristia é um sacramento e um sacrifício no qual Nosso Salvador Jesus Cristo, corpo e sangue, alma e divindade, está contido, oferecido e recebido sob as aparências de pão e vinho.
+— A Santa Eucaristia é um sacramento e um sacrifício no qual Nosso Salvador Jesus Cristo, corpo e sangue, alma e divindade, está contido, oferecido, e recebido sob as aparências de pão e vinho.
 
 > Eucaristia em grego significa ação de graças. O sacramento é assim chamado porque quando Cristo o instituiu, Ele deu graças. Hoje, é o principal meio pelo qual damos graças a Deus.
 

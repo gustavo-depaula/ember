@@ -34,14 +34,14 @@
 
 — Os propósitos do sacrifício são: dar honra ou adoração a Deus, oferecer-Lhe graças, implorar um favor, ou fazer propiciação.
 
-> Em outras palavras, os propósitos do sacrifício são: adoração, ação de graças, petição e expiação. É natural para o homem dar expressão exterior aos sentimentos que movem seu ser interior. Por esta razão, ele irrompe em louvor quando pensa na grandeza e santidade de Deus; deve renunciar algo como sinal de gratidão: deve oferecer um dom quando sente sua insignificância implorando um favor; e tenta todos os tipos de obras penitenciais quando percebe suas iniqüidades.
+> Em outras palavras, os propósitos do sacrifício são: adoração, ação de graças, petição, e expiação. É natural para o homem dar expressão exterior aos sentimentos que movem seu ser interior. Por esta razão, ele irrompe em louvor quando pensa na grandeza e santidade de Deus; deve renunciar algo como sinal de gratidão: deve oferecer um dom quando sente sua insignificância implorando um favor; e tenta todos os tipos de obras penitenciais quando percebe suas iniqüidades.
 
 
 **De que formas o sacrifício é oferecido?**
 
 — O sacrifício é oferecido seja na forma sangrenta ou não-sangrenta.
 
-1. Um sacrifício de animais vivos, como um boi, um cordeiro ou uma pomba, é um sacrifício sangrento. Um sacrifício de algum alimento, como fruta, vinho ou trigo, é um sacrifício não-sangrento.
+1. Um sacrifício de animais vivos, como um boi, um cordeiro, ou uma pomba, é um sacrifício sangrento. Um sacrifício de algum alimento, como fruta, vinho, ou trigo, é um sacrifício não-sangrento.
 
 > Entre os Judeus, os animais costumavam ser abatidos, seu sangue derramado sobre o altar, e sua carne consumida pelo fogo ou comida pelos padres e aqueles por quem o sacrifício era oferecido. A oblação não-sangrenta era queimada ou comida pelos padres após ser oferecida; o vinho era derramado sobre o altar.
 
@@ -51,7 +51,7 @@
 
 ![](../images/lesson-130c.webp)
 
-*Deus deu a Moisés instruções detalhadas sobre ofertas sacrificiais (Lev. 1-7; 16; 22). Entre os Judeus, o sumo-sacerdote, em nome do povo, oferecia de manhã e à tarde um sacrifício não-sangrento de incenso, farinha, óleo e incenso. Então oferecia um sacrifício sangrento de um cordeiro, juntamente com comida e bebida. No Sábado, dois cordeiros, com pão e vinho, eram oferecidos além disto como sacrifício.*
+*Deus deu a Moisés instruções detalhadas sobre ofertas sacrificiais (Lev. 1-7; 16; 22). Entre os Judeus, o sumo-sacerdote, em nome do povo, oferecia de manhã e à tarde um sacrifício não-sangrento de incenso, farinha, óleo, e incenso. Então oferecia um sacrifício sangrento de um cordeiro, juntamente com comida e bebida. No Sábado, dois cordeiros, com pão e vinho, eram oferecidos além disto como sacrifício.*
 
 *Em certas festas solenes, os Judeus sacrificavam centenas de vítimas em meio a cerimônias impressionantes. Suas festas principais eram: (a) a Páscoa ou Passagem, que comemorava sua libertação do Egito; (b) o Pentecostes, em lembrança da Lei recebida no Monte Sinai; (c) os Tabernáculos, para comemorar suas peregrinações no deserto; e (d) a Expiação ou Propiciação, na qual o padre sacrificava por seus próprios pecados e os do povo. Estes sacrifícios tipificavam o sacrifício de Cristo.*
 
@@ -59,7 +59,7 @@
 
 ![](../images/lesson-130e.webp)
 
-*Entre os Judeus havia diferentes categorias ou ordens de padres, como o sumo-sacerdote, os padres e os Levitas. Estas categorias eram uma figura ou tipo das diferentes categorias que estariam na Igreja fundada por Jesus Cristo. O povo fielmente obedecia a seus padres, e os sustentava com esmolas.*
+*Entre os Judeus havia diferentes categorias ou ordens de padres, como o sumo-sacerdote, os padres, e os Levitas. Estas categorias eram uma figura ou tipo das diferentes categorias que estariam na Igreja fundada por Jesus Cristo. O povo fielmente obedecia a seus padres, e os sustentava com esmolas.*
 
 *Os sacrifícios judaicos eram meramente tipos do Sacrifício de Cristo no Calvário, e cessaram com o passar da Lei Antiga. Na Nova Lei, temos o Verdadeiro Sacrifício, o mesmo que Cristo ofereceu no Calvário por Sua morte. O Sumo-Sacerdote é o Próprio Cristo, e Cristo, também, é a Vítima. São Paulo disse, "É impossível que os pecados sejam tirados com sangue de touros e de bodes" (Heb. 10:4).*
 

@@ -2,12 +2,12 @@
 
 ![](../images/lesson-021.webp)
 
-*Cristo permitiu ser tentado pelo demônio. Após os quarenta dias de jejum de Nosso Senhor no deserto, o demônio apareceu-Lhe e tentou-O à gula, ao orgulho e à avareza. Mas Nosso Senhor resistiu ao demônio e o mandou embora. Então anjos vieram servi-Lo. Deus deseja mostrar-nos que a tentação, longe de ser um pecado em si, é uma fonte de mérito se resistirmos firmemente. Então Deus nos enviará Suas bênçãos e consolações, e seremos mais queridos a Ele após nossa luta bem-sucedida contra a tentação.*
+*Cristo permitiu ser tentado pelo demônio. Após os quarenta dias de jejum de Nosso Senhor no deserto, o demônio apareceu-Lhe e tentou-O à gula, ao orgulho, e à avareza. Mas Nosso Senhor resistiu ao demônio e o mandou embora. Então anjos vieram servi-Lo. Deus deseja mostrar-nos que a tentação, longe de ser um pecado em si, é uma fonte de mérito se resistirmos firmemente. Então Deus nos enviará Suas bênçãos e consolações, e seremos mais queridos a Ele após nossa luta bem-sucedida contra a tentação.*
 
 
 **O que é pecado atual?**
 
-— Pecado atual é qualquer pensamento, desejo, palavra, ação ou omissão voluntária proibida pela lei de Deus.
+— Pecado atual é qualquer pensamento, desejo, palavra, ação, ou omissão voluntária proibida pela lei de Deus.
 
 1. Há duas classes gerais de pecados: original e atual. Pecado original é o tipo de pecado que herdamos de Adão. Pecado atual é o tipo de pecado que nós mesmos cometemos. Em geral, quando falamos de "pecado" queremos dizer pecado atual.
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-117.webp)
 
-*Nosso Senhor Jesus Cristo deu à Sua Igreja o poder de ensinar, santificar e governar seus membros, para levá-los à sua salvação eterna. E para cumprir estes fins, a Igreja tem poder de fazer leis. Nosso Senhor deu aos Apóstolos pleno poder; Ele os enviou como Deus Pai O enviara. Desobediência à Igreja é portanto desobediência a Deus.*
+*Nosso Senhor Jesus Cristo deu à Sua Igreja o poder de ensinar, santificar, e governar seus membros, para levá-los à sua salvação eterna. E para cumprir estes fins, a Igreja tem poder de fazer leis. Nosso Senhor deu aos Apóstolos pleno poder; Ele os enviou como Deus Pai O enviara. Desobediência à Igreja é portanto desobediência a Deus.*
 
 
 **De onde tem a Igreja Católica o direito de fazer leis?**
@@ -64,10 +64,10 @@
 
 — Há muitos outros mandamentos, ou leis, da Igreja além destes seis; mas estes são os principais, e os com os quais a vida ordinária dos católicos se preocupa.
 
-1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas e outras publicações. (b) Filiação em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
+1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas, e outras publicações. (b) Filiação em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
 
-> Leis para o governo da Igreja Católica estão contidas no Código de Direito Canônico, que atualmente contém 2414 cânones. De tempo em tempo, conforme a necessidade surge, o Papa através das diferentes Congregações Romanas emite decretos, leis ou regulamentos para o bem-estar da Igreja. Católicos são obrigados a obedecer estas leis.
+> Leis para o governo da Igreja Católica estão contidas no Código de Direito Canônico, que atualmente contém 2414 cânones. De tempo em tempo, conforme a necessidade surge, o Papa através das diferentes Congregações Romanas emite decretos, leis, ou regulamentos para o bem-estar da Igreja. Católicos são obrigados a obedecer estas leis.
 
-2. A Igreja, através de seus governantes, tem o poder de dispensar de seus preceitos. O Papa, os bispos e os padres paroquiais podem por razões ponderosas liberar ou excusar os fiéis da observância de particulares leis da Igreja.
+2. A Igreja, através de seus governantes, tem o poder de dispensar de seus preceitos. O Papa, os bispos, e os padres paroquiais podem por razões ponderosas liberar ou excusar os fiéis da observância de particulares leis da Igreja.
 
 > Pode acontecer que numa certa comunidade a festa patronal possa cair numa Sexta-feira da Quaresma. Por causa do número incomumente grande de pessoas, seria difícil prover comida de abstinência para todos. Em tais casos, o Bispo pode conceder uma dispensa da abstinência, e mesmo do jejum, localmente.

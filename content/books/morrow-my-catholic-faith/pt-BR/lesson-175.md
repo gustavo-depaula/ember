@@ -7,7 +7,7 @@
 
 **O que é o estado religioso?**
 
-— O estado religioso é um permanente modo de vida comunitária pela qual os fiéis vinculam-se a observar os conselhos evangélicos por votos de pobreza, castidade e obediência.
+— O estado religioso é um permanente modo de vida comunitária pela qual os fiéis vinculam-se a observar os conselhos evangélicos por votos de pobreza, castidade, e obediência.
 
 > A primeira ordem religiosa desenvolveu-se sob Santo Antão o Grande, que reuniu ao seu redor no deserto um número de discípulos vivendo em células separadas. No ano 348 d.C., São Pacômio reuniu os eremitas sob um teto comum, e deu-lhes uma regra fixa; isto foi feito numa ilha próxima à foz do Rio Nilo no Egito. De lá a vida monástica espalhou-se à Palestina e Síria, e dali à Ásia Menor. Nos séculos 5 e 6, a vida monástica foi propagada no Ocidente por São Martinho de Tours e São Bento.
 

@@ -7,7 +7,7 @@
 
 **Quais são os sete dons do Espírito Santo?**
 
-— Os sete dons do Espírito Santo são: sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus.
+— Os sete dons do Espírito Santo são: sabedoria, entendimento, conselho, fortaleza, ciência, piedade, e temor de Deus.
 
 > Os dons são infundidos em nossas almas com a graça santificante. Com Deus o Espírito Santo vêm a graça santificante, e inseparavelmente, Seus dons.
 
@@ -21,7 +21,7 @@
 
 3. O dom do conselho nos ajuda a descobrir a vontade de Deus em circunstâncias difíceis.
 
-> Antes de receberem o Espírito Santo, os Apóstolos eram inconstantes em seus pensamentos, desejos e ações, num momento cheios de grande zelo, noutros momentos desesperados e fracos. Mas Cristo prometeu-lhes o dom do conselho, dizendo: "Não estejais ansiosos como ou com que haveis de defender-vos; ou o que haveis de dizer, pois o Espírito Santo vos ensinará" (Luc. 12:11-12).
+> Antes de receberem o Espírito Santo, os Apóstolos eram inconstantes em seus pensamentos, desejos, e ações, num momento cheios de grande zelo, noutros momentos desesperados e fracos. Mas Cristo prometeu-lhes o dom do conselho, dizendo: "Não estejais ansiosos como ou com que haveis de defender-vos; ou o que haveis de dizer, pois o Espírito Santo vos ensinará" (Luc. 12:11-12).
 
 4. Fortaleza é o dom pelo qual somos fortalecidos nas provações, para fazer a vontade de Deus.
 
@@ -39,7 +39,7 @@
 
 > Eleazar, o velho escriba judeu, escolheu a morte ao invés de ofender a Deus comendo, ou mesmo fingindo comer, carnes proibidas (2 Mac. 6).
 
-8. Além destes sete dons, o Espírito Santo também concede certos dons extraordinários, que são dados apenas em raras ocasiões e a pessoas selecionadas. Tais graças extraordinárias são concedidas principalmente não para o benefício do recipiente, mas dos outros. Eram comuns nos primeiros dias da Igreja, e ajudaram em sua rápida propagação. Entre eles estão o dom de línguas, de milagres, de visões e de profecia. Os Apóstolos receberam o dom de línguas no Pentecostes, de modo que embora falassem a uma multidão de diferentes nacionalidades e línguas, todos entendiam o que era dito.
+8. Além destes sete dons, o Espírito Santo também concede certos dons extraordinários, que são dados apenas em raras ocasiões e a pessoas selecionadas. Tais graças extraordinárias são concedidas principalmente não para o benefício do recipiente, mas dos outros. Eram comuns nos primeiros dias da Igreja, e ajudaram em sua rápida propagação. Entre eles estão o dom de línguas, de milagres, de visões, e de profecia. Os Apóstolos receberam o dom de línguas no Pentecostes, de modo que embora falassem a uma multidão de diferentes nacionalidades e línguas, todos entendiam o que era dito.
 
 > Os Apóstolos também possuíam o dom de milagres, curando os doentes, expulsando espíritos maus, ressuscitando os mortos. Muitos santos foram abençoados com o dom de milagres. Os profetas antes da vinda de Cristo predisseram eventos futuros. Alguns dos santos receberam o dom de visões e êxtases, embora isto seja raro; bons exemplos são São Francisco de Assis, que recebeu os estigmas das chagas de Nosso Senhor, e Santa Catarina de Siena.
 
@@ -66,7 +66,7 @@
 
 **Quais são os doze frutos do Espírito Santo?**
 
-— Os doze frutos do Espírito Santo são: caridade, gozo, paz, paciência, benignidade, bondade, longanimidade, mansidão, fé, modéstia, continência e castidade.
+— Os doze frutos do Espírito Santo são: caridade, gozo, paz, paciência, benignidade, bondade, longanimidade, mansidão, fé, modéstia, continência, e castidade.
 
 1. Estes doze frutos do Espírito Santo são bons hábitos realizados sob a inspiração do Espírito Santo. Tornam-nos felizes e contentes, e ajudam-nos a ser agradáveis tanto a Deus quanto ao homem.
 

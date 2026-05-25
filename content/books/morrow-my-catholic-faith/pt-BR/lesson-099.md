@@ -68,7 +68,7 @@
 
 > Por exemplo, alguns fazem uma promessa de não ir a espetáculos ou bailes por um certo período de tempo. Se vão, não cometem um pecado mortal, pois simples promessas e resoluções não obrigam sob pena de pecado. Contudo, não devemos fazer promessas ou resoluções que não estamos seriamente empenhados em guardar.
 
-3. Um voto é muito agradável a Deus, porque é uma oferta voluntária feita a Ele. Os votos mais importantes são os votos religiosos, feitos por aqueles que ingressam numa ordem religiosa: votos de pobreza, castidade e obediência.
+3. Um voto é muito agradável a Deus, porque é uma oferta voluntária feita a Ele. Os votos mais importantes são os votos religiosos, feitos por aqueles que ingressam numa ordem religiosa: votos de pobreza, castidade, e obediência.
 
 > Pelos votos religiosos, uma pessoa abandona o mundo inteiramente, consagrando não apenas o que faz, mas o que é ao serviço exclusivo de Deus.
 

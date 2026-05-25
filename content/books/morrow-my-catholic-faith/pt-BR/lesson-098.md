@@ -9,7 +9,7 @@
 
 **Que nos é ordenado pelo segundo mandamento?**
 
-— Pelo segundo mandamento nos é ordenado sempre falar com reverência de Deus, dos santos e das coisas santas, e ser verdadeiros ao fazer juramentos, e fiéis a eles e aos nossos votos.
+— Pelo segundo mandamento nos é ordenado sempre falar com reverência de Deus, dos santos, e das coisas santas, e ser verdadeiros ao fazer juramentos, e fiéis a eles e aos nossos votos.
 
 > "Bendito seja o nome do Senhor, desde agora e para sempre. Do nascer do sol até ao seu ocaso, o nome do Senhor é digno de louvor" (Sl. 112:2-3). "Digo-vos que não jureis de modo algum. . . . Mas seja o vosso falar: 'Sim, sim'; 'Não, não'" (Mat. 5:34-37). "A língua nenhum homem pode dominar. . . . Da mesma boca procedem bênção e maldição" (Tia. 3:8, 10).
 
@@ -19,7 +19,7 @@
 
 2. O nome de Jesus é o mais poderoso de todos os nomes; através d'Ele podemos obter tudo de que precisamos. "Se pedirdes ao Pai alguma coisa em Meu nome, Ele vo-la dará" (João 16:23). Devemos prestar reverência ao nome de Jesus inclinando-nos cada vez que o pronunciemos. Devemos especialmente pronunciar o nome de Jesus na hora da morte.
 
-> "No nome de Jesus se dobre todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2:10). As últimas palavras de Santo Estêvão foram: "Senhor Jesus, recebe o meu espírito" (Atos 7:59). Pelo nome de Jesus os apóstolos e santos operaram inúmeros milagres, como São Pedro fez quando disse ao homem aleijado, "Em nome de Jesus Cristo, levanta-te e anda" (Atos 3:6). A Sagrada Escritura verdadeiramente diz, "Não há outro nome debaixo do céu dado aos homens, pelo qual devamos ser salvos" (Atos 4:12).
+> "No nome de Jesus se dobre todo joelho, dos que estão no céu, na terra, e debaixo da terra" (Fil. 2:10). As últimas palavras de Santo Estêvão foram: "Senhor Jesus, recebe o meu espírito" (Atos 7:59). Pelo nome de Jesus os apóstolos e santos operaram inúmeros milagres, como São Pedro fez quando disse ao homem aleijado, "Em nome de Jesus Cristo, levanta-te e anda" (Atos 3:6). A Sagrada Escritura verdadeiramente diz, "Não há outro nome debaixo do céu dado aos homens, pelo qual devamos ser salvos" (Atos 4:12).
 
 
 **O que se entende por tomar o nome de Deus em vão?**

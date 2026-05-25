@@ -32,7 +32,7 @@
 
 **Como adoramos a Deus?**
 
-— Adoramos a Deus por atos das virtudes de fé, esperança, caridade e religião.
+— Adoramos a Deus por atos das virtudes de fé, esperança, caridade, e religião.
 
 1. Verdadeira piedade e adoração de Deus não incluem um modo sombrio, uma expressão melancólica, e um exterior duro. Verdadeira piedade é alegre, cheia de gozo. "Servi ao Senhor com alegria" (Sl. 99:2).
 
@@ -76,4 +76,4 @@
 
 **Que nos obriga a religião a fazer?**
 
-— A religião nos obriga: a reconhecer a infinita perfeição de Deus, nossa completa dependência d'Ele, nossa inteira sujeição à Sua vontade; e, a prestar-Lhe o culto devido com todas as nossas faculdades e atos de corpo, intelecto e vontade.
+— A religião nos obriga: a reconhecer a infinita perfeição de Deus, nossa completa dependência d'Ele, nossa inteira sujeição à Sua vontade; e, a prestar-Lhe o culto devido com todas as nossas faculdades e atos de corpo, intelecto, e vontade.

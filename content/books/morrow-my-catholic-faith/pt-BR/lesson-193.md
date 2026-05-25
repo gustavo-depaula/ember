@@ -21,7 +21,7 @@
 
 3. Todos os homens são obrigados a praticar a religião (ver páginas 2-3, 170-171, 186-187). O homem, com sua alma inteligente e imortal, pode conhecer Deus segundo os limites que Deus estabeleceu. Ele sabe que deve a Deus a sua própria existência, que é inteiramente dependente d'Ele. Desta origem e dependência surge o dever do homem de prestar ao seu Criador a honra e adoração devidas, em outras palavras, seu dever de praticar a religião.
 
-> Para ser fiel a Deus, devemos servi-Lo obedecendo aos Seus mandamentos e realizando os Seus desejos; crendo n'Ele, esperando n'Ele e amando-O com todo o nosso coração. Todas estas coisas aprendemos quando estudamos a nossa religião; todas estas fazemos bem quando somos fiéis na prática da nossa religião.
+> Para ser fiel a Deus, devemos servi-Lo obedecendo aos Seus mandamentos e realizando os Seus desejos; crendo n'Ele, esperando n'Ele, e amando-O com todo o nosso coração. Todas estas coisas aprendemos quando estudamos a nossa religião; todas estas fazemos bem quando somos fiéis na prática da nossa religião.
 
 4. A religião que Deus revelou através de Cristo é digna de crença (ver páginas 14-21, 56-59, 66-75). Nosso Senhor anunciou-Se Filho de Deus e, como tal, pregou Suas doutrinas que Ele exigia que crêssemos. Para provar que era verdadeiramente Deus, Nosso Senhor operou inúmeros milagres.
 
@@ -31,11 +31,11 @@
 
 > Nosso Senhor reuniu em torno de Si um grupo de discípulos e chamou-o de Sua Igreja. Ele prometeu que esta Igreja duraria para sempre. "Quem não crer será condenado" (Marcos 16:16). "Ide, pois, e ensinai a todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo, ... e eis que estou convosco todos os dias, até a consumação dos séculos" (Mateus 28:19-20).
 
-6. A única verdadeira Igreja de Cristo é a Igreja Católica. Só a Igreja Católica possui as marcas de unidade, santidade, catolicidade e apostolicidade, marcas da Igreja estabelecida por Jesus Cristo. (Ver páginas 100-107, 132-145.)
+6. A única verdadeira Igreja de Cristo é a Igreja Católica. Só a Igreja Católica possui as marcas de unidade, santidade, catolicidade, e apostolicidade, marcas da Igreja estabelecida por Jesus Cristo. (Ver páginas 100-107, 132-145.)
 
 > A história da Igreja Católica dá evidência incontestável de força miraculosa, permanência e imutabilidade, mostrando assim ao mundo que está sob a proteção especial de Deus, que disse: "As portas do inferno não prevalecerão contra ela" (Mateus 16:18).
 
-Demos graças a Deus por Seus dons. Podemos melhor mostrar nossa gratidão a Deus por nos ter feito membros da única verdadeira Igreja de Jesus Cristo, agradecendo frequentemente a Deus por esta grande graça, levando uma vida católica edificante e prática, procurando levar outros à verdadeira fé e ajudando as missões.
+Demos graças a Deus por Seus dons. Podemos melhor mostrar nossa gratidão a Deus por nos ter feito membros da única verdadeira Igreja de Jesus Cristo, agradecendo frequentemente a Deus por esta grande graça, levando uma vida católica edificante e prática, procurando levar outros à verdadeira fé, e ajudando as missões.
 
 > Agradecemos a Deus pelas graças que derrama sobre nós na oração e por nossas boas vidas. Seguindo os mandamentos de Deus e da Igreja e fazendo boas obras, levamos vidas católicas práticas e edificantes; tais vidas são a melhor maneira de levar outros à nossa Fé, se não tivermos meios mais diretos; tais vidas, dizemos, ***"Deo gratias!"***
 

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-087.webp)
 
-*Todos os seres humanos sem distinção de raça, nacionalidade, religião, riquezas, sexo, idade ou ocupação são nosso "próximo". Mesmo inimigos são nosso "próximo"; apenas demônios e almas no inferno não o são. Cristo Mesmo nos ensinou o amor do nosso próximo na parábola do Bom Samaritano, que cuidou de um estranho que havia sido roubado e deixado meio morto à beira do caminho (Luc. 10:29). "Não há Judeu nem Grego. Pois todos vós sois um em Cristo Jesus" (Gál. 3:28).*
+*Todos os seres humanos sem distinção de raça, nacionalidade, religião, riquezas, sexo, idade, ou ocupação são nosso "próximo". Mesmo inimigos são nosso "próximo"; apenas demônios e almas no inferno não o são. Cristo Mesmo nos ensinou o amor do nosso próximo na parábola do Bom Samaritano, que cuidou de um estranho que havia sido roubado e deixado meio morto à beira do caminho (Luc. 10:29). "Não há Judeu nem Grego. Pois todos vós sois um em Cristo Jesus" (Gál. 3:28).*
 
 
 **Por que devemos amar o nosso próximo?**
@@ -47,7 +47,7 @@
 
 — Não, podemos, e devemos, amar alguns mais que outros.
 
-1. Devemos amar nossos pais, irmãos, irmãs, parentes, amigos e benfeitores acima de todos.
+1. Devemos amar nossos pais, irmãos, irmãs, parentes, amigos, e benfeitores acima de todos.
 
 > Maridos e esposas devem ser devotados um ao outro. Pais devem sacrificar-se por seus filhos. Devemos amar nosso país e compatriotas de maneira especial, porque Deus os deu a nós, mas nunca devemos odiar ou desgostar de pessoas de outras nacionalidades.
 

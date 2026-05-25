@@ -44,7 +44,7 @@
 
 3. É contra o verdadeiro amor próprio esforçar-se apenas por posses terrenas e honrarias e negligenciar a salvação eterna. "Tende cuidado de não praticar vossas boas obras diante dos homens, para serdes vistos por eles; de outro modo não tereis recompensa junto a vosso Pai que está nos céus" (Mat. 6:1). "Pois que aproveita ao homem ganhar o mundo inteiro e sofrer a perda de sua própria alma?" (Mat. 16:26).
 
-> Riquezas e honrarias terrenas não são boas em si mesmas, mas são boas apenas como meio para atingir a felicidade eterna. Não devem ser usadas para gratificar nossos sentidos, nosso orgulho, arrogância, presunção ou vaidade, mas apenas para ajudar-nos a ir mais perto de Deus.
+> Riquezas e honrarias terrenas não são boas em si mesmas, mas são boas apenas como meio para atingir a felicidade eterna. Não devem ser usadas para gratificar nossos sentidos, nosso orgulho, arrogância, presunção, ou vaidade, mas apenas para ajudar-nos a ir mais perto de Deus.
 
 
 **O amor de si mesmo inclui o amor do corpo?**
@@ -57,7 +57,7 @@
 
 2. Devemos ter o maior respeito e reverência por nosso corpo. Nunca devemos contaminá-lo com pecado, pois é destinado a viver para sempre no céu.
 
-> Devemos guardar cuidadosamente nossos olhos, ouvidos, língua e mãos, porque o pecado entra na alma pelos cinco sentidos. Nosso corpo é o templo do Espírito Santo. É como um ostensório segurando Deus. São Pedro falou de seu corpo como um "tabernáculo." Algumas pessoas são muito particulares em manter seu corpo limpo. Saboam e lavam suas mãos frequentemente, e as desinfetam após tocar coisas sujas. Mas não são tão cuidadosas em evitar pecados que tornam seu corpo tão sujo que nenhum desinfetante pode purificá-lo.
+> Devemos guardar cuidadosamente nossos olhos, ouvidos, língua, e mãos, porque o pecado entra na alma pelos cinco sentidos. Nosso corpo é o templo do Espírito Santo. É como um ostensório segurando Deus. São Pedro falou de seu corpo como um "tabernáculo." Algumas pessoas são muito particulares em manter seu corpo limpo. Saboam e lavam suas mãos frequentemente, e as desinfetam após tocar coisas sujas. Mas não são tão cuidadosas em evitar pecados que tornam seu corpo tão sujo que nenhum desinfetante pode purificá-lo.
 
 3. Não amamos nosso corpo quando o mimamos em vaidade, ou conforto excessivo, ou gratificando cada uma de suas paixões. Por tal indulgência antes odiamos nosso corpo, porque trazemos sobre ele punição eterna.
 

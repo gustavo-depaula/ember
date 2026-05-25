@@ -9,7 +9,7 @@
 
 — Ira é um forte sentimento de desprazer, combinado com um desejo de infligir punição ao ofensor.
 
-1. Um homem irado perde sua razão. Na ira, um homem fará o que depois lamentará. Da ira surgem ódio, vingança, briga, blasfêmia, contumélia e assassinato. As virtudes de paciência e mansidão opõem-se à ira. (Veja Capítulo 45 sobre Mansidão, Abstinência, Zelo, Amor Fraterno)
+1. Um homem irado perde sua razão. Na ira, um homem fará o que depois lamentará. Da ira surgem ódio, vingança, briga, blasfêmia, contumélia, e assassinato. As virtudes de paciência e mansidão opõem-se à ira. (Veja Capítulo 45 sobre Mansidão, Abstinência, Zelo, Amor Fraterno)
 
 > Ira, ou cólera, é uma loucura temporária. Um homem com este vício explode em fúria por cada pequena coisa. Sempre põe a culpa de sua ira sobre outros, e mesmo quando está sozinho fica irado. "A ira do homem não opera a justiça de Deus" (Tg. 1:20).
 
