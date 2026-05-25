@@ -37,9 +37,9 @@
 
 > Há apenas uma exceção a esta lei. Se o pastor, ou o bispo, ou o padre delegado por qualquer deles, não pode ser obtido sem grande inconveniente:
 
-(a) Em perigo de morte, o casamento pode ser contraído válida e licitamente diante de duas testemunhas; mesmo se não há perigo de morte o mesmo pode ser feito, desde que se preveja que a condição acima durará por um mês. Assim o casal está verdadeiramente casado e recebe o Sacramento do Matrimônio.
+(a) Em perigo de morte, o casamento pode ser contraído válida e licitamente diante de duas testemunhas; mesmo se não há perigo de morte, o mesmo pode ser feito, desde que se preveja que a condição acima durará por um mês. Assim o casal está verdadeiramente casado e recebe o Sacramento do Matrimônio.
 
-> A ação deve ser escrita, assinada e o documento dado ao bispo ou pastor quando vier. Nenhum católico deve dar este passo incomum exceto por uma extraordinariamente grave razão.
+> A ação deve ser escrita, assinada, e o documento dado ao bispo ou pastor quando vier. Nenhum católico deve dar este passo incomum exceto por uma extraordinariamente grave razão.
 
 (b) Se qualquer outro padre está disponível, mesmo se não é o pastor ou o coadjutor, deve ser chamado para assistir ao casamento; mas o casamento é válido mesmo se contraído apenas diante das duas testemunhas. — (Cânon 1098).
 
@@ -47,7 +47,7 @@
 
 > Apenas fizeram um contrato civil. Portanto, se vivem juntos como marido e mulher, pecam contra o Sexto e Nono Mandamentos. Seu contrato legal pode salvá-los da cadeia, mas não os salvará do inferno. Se têm filhos, estes são registrados como ilegítimos nos registros batismais.
 
-3. Se católicos tentam casar diante de um ministro não católico, não apenas cometem pecado mas são excomungados da Igreja. Não estão casados.
+3. Se católicos tentam casar diante de um ministro não católico, não apenas cometem pecado, mas são excomungados da Igreja. Não estão casados.
 
 > São excluídos dos sacramentos, não podem ser padrinhos para batismo e crisma, e não podem receber sepultamento cristão. Sua excomunhão dura até que vão à confissão, recebam absolvição do bispo e se casem diante de um padre católico, se devem viver como esposos.
 

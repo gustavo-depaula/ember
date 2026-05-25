@@ -96,7 +96,7 @@
 
 **Sábado Santo.**
 
-> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso e a pia batismal. Ao meio-dia termina a estação da Quaresma e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
+> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso e a pia batismal. Ao meio-dia termina a estação da Quaresma, e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
 
 
 **Domingo de Páscoa.**

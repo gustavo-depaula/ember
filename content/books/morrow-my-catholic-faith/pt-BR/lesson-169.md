@@ -61,6 +61,6 @@
 
 > Tudo entre um casal noivo deve ser às claras. Devem revelar um ao outro francamente tudo pertencente a sua situação financeira, relações sociais e matérias relacionadas à saúde. Deste modo, previnem futuras querelas e miséria.
 
-4. Durante o intervalo entre o noivado e o casamento, o casal deve cuidadosamente considerar o passo que estão prestes a dar e fazer boa preparação para sua vida conjugal, por frequentemente implorar a bênção de Deus.
+4. Durante o intervalo entre o noivado e o casamento, o casal deve cuidadosamente considerar o passo que estão prestes a dar, e fazer boa preparação para sua vida conjugal, por frequentemente implorar a bênção de Deus.
 
 > Como o noivado não deve ser apressadamente entrado, assim não deve ser precipitadamente quebrado. Ainda, se após algum tempo qualquer parte torna-se seriamente convencida de que o casamento seria um erro, o noivado deve ser rompido. Respeito humano ou outras considerações não devem ser permitidos comprometer futura felicidade.

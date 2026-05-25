@@ -44,7 +44,7 @@
 
 — São:
 
-1. Uma habitual disposição de perder todas as coisas, mesmo a própria vida e sofrer todas as coisas antes que cometer um pecado mortal. Este primeiro grau de abnegação é necessário para todos para ser salvo.
+1. Uma habitual disposição de perder todas as coisas, mesmo a própria vida, e sofrer todas as coisas antes que cometer um pecado mortal. Este primeiro grau de abnegação é necessário para todos para ser salvo.
 
 > Nosso Senhor disse, "Quem não carrega sua cruz e vem após Mim não pode ser Meu discípulo." Nossa ordinária cruz, a cruz de todos os mortais, é nossa humana tendência à fraqueza e concupiscência, a cair em pecado; contra esta tendência devemos todos fazer valente batalha, para adquirir o primeiro grau de perfeição, de abnegação. Jesus exige absoluta abnegação em tudo que é um obstáculo à salvação eterna, vida não excetada. "Pois quem quiser salvar sua vida (à custa do que deve a Deus) a perderá; mas quem perder sua vida por Minha causa e por causa do evangelho a salvará" (Marcos 8:35).
 
@@ -54,4 +54,4 @@
 
 3. Uma habitual disposição de preferir ser pobre, esquecido, desprezado e sofredor, com Jesus na Cruz, para assemelhar-se mais a Ele, como uma prova de amor, antes que rico, honrado e louvado, cheio de delícias e consolações. Este terceiro grau é o ápice da perfeição; é santidade.
 
-> Por esta disposição, um torna-se um tolo por amor de Cristo. Suponde que Deus vos deu riqueza, honras, talentos e todas as outras bênçãos mundanas e assegura-vos que com todas elas, gozando-as todas, podeis ainda atingir o mesmo lugar no céu que podeis sem elas. E contudo, apenas para assemelhar-vos a Jesus, que foi pobre e desprezado e torturado, alegremente escolheis renunciar a todas vossas bênçãos mundanas. Não é isto loucura aos olhos do mundo? E contudo é de tais pessoas que Nosso Senhor falou: "O reino dos céus tem sofrido violência e os violentos o têm arrebatado à força" (Mat. 11:12).
+> Por esta disposição, um torna-se um tolo por amor de Cristo. Suponde que Deus vos deu riqueza, honras, talentos e todas as outras bênçãos mundanas, e assegura-vos que com todas elas, gozando-as todas, podeis ainda atingir o mesmo lugar no céu que podeis sem elas. E contudo, apenas para assemelhar-vos a Jesus, que foi pobre e desprezado e torturado, alegremente escolheis renunciar a todas vossas bênçãos mundanas. Não é isto loucura aos olhos do mundo? E contudo é de tais pessoas que Nosso Senhor falou: "O reino dos céus tem sofrido violência e os violentos o têm arrebatado à força" (Mat. 11:12).
