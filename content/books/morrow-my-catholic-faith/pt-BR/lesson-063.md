@@ -2,7 +2,7 @@
 
 ![](../images/lesson-063.webp)
 
-*Até o fim do décimo oitavo século, a estreita colaboração da Igreja e Estado assegurou uma atmosfera Cristã na vida pública. A Constituição Americana e a Revolução Francesa iniciaram um sistema de separação de Igreja e Estado que tornou a Igreja vulnerável a todos os tipos de ataque e destruição. O século passado testemunhou a secularização da vida pública progredindo num passo acelerado e a divisão, que divide em dois campos a favor ou contra o Cristianismo muito mais ampla. Assim a tarefa da 'Ação Católica' tornou-se imperativa. Assim São Pio X, a fim de restaurar todas as coisas em Cristo, entendeu a necessidade do apostolado leigo. Ele descreve-o como "muito louvável, mesmo necessário no presente estado da Igreja e da Sociedade Civil" (Il Fermo Proposito, 11 de junho de 1905).*
+*Até o fim do décimo oitavo século, a estreita colaboração da Igreja e Estado assegurou uma atmosfera Cristã na vida pública. A Constituição Americana e a Revolução Francesa iniciaram um sistema de separação de Igreja e Estado que tornou a Igreja vulnerável a todos os tipos de ataque e destruição. O século passado testemunhou a secularização da vida pública progredindo num passo acelerado e a divisão, que divide em dois campos a favor ou contra o Cristianismo muito mais ampla. Assim, a tarefa da 'Ação Católica' tornou-se imperativa. Assim, São Pio X, a fim de restaurar todas as coisas em Cristo, entendeu a necessidade do apostolado leigo. Ele descreve-o como "muito louvável, mesmo necessário no presente estado da Igreja e da Sociedade Civil" (Il Fermo Proposito, 11 de junho de 1905).*
 
 
 **O que é Ação Católica?**

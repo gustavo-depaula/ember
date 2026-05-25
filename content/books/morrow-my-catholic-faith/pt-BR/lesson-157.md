@@ -17,7 +17,7 @@
 
 2. Quando uma pessoa está perigosamente doente, devemos chamar o padre para administrar-lhe os Últimos Sacramentos. É muito errado adiar chamar o padre até que a pessoa já esteja no ponto de morte. Enquanto sua mente está clara, pode preparar-se para os Últimos Sacramentos melhor, lucrar mais deles.
 
-> Quando Extrema-Unção é dada enquanto a pessoa ainda está forte, há mais probabilidade de recuperar-se. Temos uma obrigação séria, se estamos cuidando de uma pessoa doente, de chamar o padre no momento em que há perigo de morte. Exceto em casos de emergência, o pároco da paróquia à qual a pessoa doente pertence ou os curas ou assistentes do pároco devem ser chamados para administrar os Últimos Sacramentos.
+> Quando Extrema-Unção é dada enquanto a pessoa ainda está forte, há mais probabilidade de recuperar-se. Temos uma obrigação séria, se estamos cuidando de uma pessoa doente, de chamar o padre no momento em que há perigo de morte. Exceto em casos de emergência, o pároco da paróquia à qual a pessoa doente pertence, ou os curas ou assistentes do pároco, devem ser chamados para administrar os Últimos Sacramentos.
 
 3. Algumas pessoas não chamam o padre para administrar os Últimos Sacramentos porque temem que o paciente fique assustado e piore.
 

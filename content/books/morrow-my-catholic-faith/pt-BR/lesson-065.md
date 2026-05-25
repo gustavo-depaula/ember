@@ -46,7 +46,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 > Quem pode ser um cidadão mais cumpridor da lei do que aquele que olha para oficiais civis como superiores que o Próprio Deus lhe ordena obedecer? Plutarco diz que a religião é uma proteção melhor para uma cidade do que suas muralhas.
 
-2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim treina membros desinteressados, econômicos e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
+2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim, treina membros desinteressados, econômicos e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
 
 > As prisões são em geral povoadas, não por membros praticantes da Igreja, mas por pessoas que negligenciaram a religião. Só Deus sabe o número daqueles que foram desviados dos caminhos do pecado e crime por conta de sua conexão com a Igreja.
 

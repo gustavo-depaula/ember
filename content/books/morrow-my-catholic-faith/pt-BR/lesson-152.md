@@ -2,7 +2,7 @@
 
 ![](../images/lesson-152.webp)
 
-*1. Antes de um homem ser ordenado padre e permitido ouvir confissões, deve passar por um longo período de cuidadoso estudo e preparação. Fará três ou pelo menos dois anos de Filosofia e quatro anos de Teologia, Direito Canônico, História Eclesiástica e Sagrada Escritura. Esta longa e detalhada preparação usualmente não atrairia uma classe baixa de homens.*
+*1. Antes de um homem ser ordenado padre e permitido ouvir confissões, deve passar por um longo período de cuidadoso estudo e preparação. Fará três ou pelo menos dois anos de Filosofia, e quatro anos de Teologia, Direito Canônico, História Eclesiástica e Sagrada Escritura. Esta longa e detalhada preparação usualmente não atrairia uma classe baixa de homens.*
 
 *2. Após alguém ser ordenado padre, é continuamente lembrado de seus deveres não apenas por seus superiores, mas por sua meditação e oração diárias. Todo padre é obrigado a dizer o Breviário cada dia. Estes deveres espirituais trazem a graça de Deus sobre o padre e servem para fortalecê-lo para ser fiel a seus sagrados deveres, sendo um dos mais importantes guardar o sigilo da confissão, o segredo sacramental.*
 

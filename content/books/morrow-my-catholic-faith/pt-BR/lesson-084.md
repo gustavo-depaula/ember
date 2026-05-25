@@ -11,7 +11,7 @@
 
 > "Mas se queres entrar na vida, guarda os mandamentos" (Mat. 19:17).
 
-1. A lei de Deus está contida tanto na lei natural quanto na revelada. A lei natural está impressa por Deus nos corações e mentes de todos os homens. Ensina as regras mais importantes da moralidade: homenagem devida a Deus, tratamento dos outros como esperamos que os outros nos tratem, o mal da lesão voluntária a si mesmo, a virtude da verdade e honestidade. Assim a lei natural é uma expressão definida da vontade de Deus, exigindo obediência.
+1. A lei de Deus está contida tanto na lei natural quanto na revelada. A lei natural está impressa por Deus nos corações e mentes de todos os homens. Ensina as regras mais importantes da moralidade: homenagem devida a Deus, tratamento dos outros como esperamos que os outros nos tratem, o mal da lesão voluntária a si mesmo, a virtude da verdade e honestidade. Assim, a lei natural é uma expressão definida da vontade de Deus, exigindo obediência.
 
 > Por exemplo, uma criança, ou um pagão, que nunca ouviu falar dos Dez Mandamentos, sente-se culpado quando fez algo errado. Tem um conhecimento instintivo da lei da natureza escrita por Deus em seu coração, dizendo-lhe o que é certo e o que errado.
 
@@ -62,7 +62,7 @@
 
 2. O oposto de uma consciência escrupulosa é uma consciência sem escrúpulos ou laxa. Alguém com tal consciência laxa convence-se de que o homem é fraco demais para resistir ao pecado, e assim todo pecado é negligenciável. "Errar é humano" é seu lema constante.
 
-> Uma consciência laxa é descuidada; faz pouco de pecados ordinários, e considera pecados graves como negligenciáveis. Após algum tempo uma consciência laxa aumenta em laxidão até que a pessoa perde praticamente todo senso do mal. Assim se torna um pecador habitual. Dizemos então que não tem consciência.
+> Uma consciência laxa é descuidada; faz pouco de pecados ordinários, e considera pecados graves como negligenciáveis. Após algum tempo uma consciência laxa aumenta em laxidão até que a pessoa perde praticamente todo senso do mal. Assim, se torna um pecador habitual. Dizemos então que não tem consciência.
 
 
 **O que é uma consciência delicada ou terna?**

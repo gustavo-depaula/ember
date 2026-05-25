@@ -55,7 +55,7 @@
 
 2. Um vício é facilmente adquirido. Esta é uma razão pela qual devemos ser muito cuidadosos em não cometer pecado. Se devermos ser tão infelizes quanto a cair em pecado, devemos imediatamente cortar a possibilidade de formar vício por contrição, penitência, e uma resolução de não pecar novamente.
 
-> Após a primeira queda, alguém mais prontamente cede à próxima tentação. Cada cedência enfraquece a vontade para a próxima. Assim passo a passo alguém que começa um pecado logo se encontrará escravo de um hábito vicioso. "Quem despreza as pequenas coisas cairá pouco a pouco" (Eclo. 19:1).
+> Após a primeira queda, alguém mais prontamente cede à próxima tentação. Cada cedência enfraquece a vontade para a próxima. Assim, passo a passo alguém que começa um pecado logo se encontrará escravo de um hábito vicioso. "Quem despreza as pequenas coisas cairá pouco a pouco" (Eclo. 19:1).
 
 3. Um vício é fácil de romper no princípio, difícil de romper quando plenamente formado, mas sempre capaz de ser vencido por uma vontade resoluta com a graça de Deus.
 

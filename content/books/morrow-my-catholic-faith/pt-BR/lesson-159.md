@@ -55,7 +55,7 @@
 
 > Três bispos consagram um novo bispo.
 
-1. O candidato deve ser chamado à Ordem por seu Bispo. Antes da ordenação, o bispo deve estar satisfeito que o aplicante tem a virtude e aptidão física e mental requeridas de um padre e que está livre de qualquer irregularidade canônica.
+1. O candidato deve ser chamado à Ordem por seu Bispo. Antes da ordenação, o bispo deve estar satisfeito que o aplicante tem a virtude e aptidão física e mental requeridas de um padre, e que está livre de qualquer irregularidade canônica.
 
 > Pelo Batismo todos os cristãos são dotados do "sacerdócio" espiritual dos leigos, pelo qual têm a obrigação de oferecer a Deus sacrifícios espirituais de orações e mortificação e atos de fé, esperança e caridade. Mas apenas aqueles homens que recebem o Sacramento da Ordem são padres, ministros de Deus, no pleno sentido da palavra.
 

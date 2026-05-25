@@ -38,7 +38,7 @@
 
 > Nosso Senhor diz: "Se amais aqueles que vos amam, que mérito tendes? Pois até os pecadores amam aqueles que os amam" (Luc. 6:32). "Mas quando deres esmola, não saiba a tua esquerda o que faz a tua direita, para que a tua esmola seja dada em secreto: e teu Pai, que vê em secreto, te recompensará" (Mat. 6:3-4). Se amamos uma pessoa porque é atraente ou bondosa, sem qualquer referência a Deus, amamo-la apenas por si mesma, e não por Deus. Esta é afeição natural.
 
-4. O verdadeiro amor de Deus nos faz amar até pessoas desagradáveis, sem referência ao amor delas por nós. Faz-nos amar os pobres, os doentes, os infortunados, os que sofrem, os repulsivos, e até nossos inimigos, apenas porque Deus os ama, e deseja que os amemos. Assim cristãos de todas as idades sacrificaram-se pela caridade.
+4. O verdadeiro amor de Deus nos faz amar até pessoas desagradáveis, sem referência ao amor delas por nós. Faz-nos amar os pobres, os doentes, os infortunados, os que sofrem, os repulsivos, e até nossos inimigos, apenas porque Deus os ama, e deseja que os amemos. Assim, cristãos de todas as idades sacrificaram-se pela caridade.
 
 > São Pedro Claver, o "Apóstolo dos Negros", na Colômbia, América do Sul, tornou-se escravo dos escravos por amor de Cristo. Nas Filipinas, Padres e Religiosas estão trabalhando na colônia de leprosos de Culion, em constante perigo de exposição à doença. Outros cuidam de outras instituições de caridade, sem esperança de recompensa terrena, tudo por amor de Deus.
 

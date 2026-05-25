@@ -11,7 +11,7 @@
 
 1. Deus deseja e requer isto. Nosso Senhor disse: "Amarás o teu próximo como a ti mesmo" (Mat. 22:39).
 
-> Assim fez o amor próprio a medida do amor aos outros. Santo Agostinho diz: "Aprende primeiro a amar a Deus, depois a amar a ti mesmo, depois o teu próximo como a ti mesmo." Cada homem é seu próprio próximo mais próximo.
+> Assim, fez o amor próprio a medida do amor aos outros. Santo Agostinho diz: "Aprende primeiro a amar a Deus, depois a amar a ti mesmo, depois o teu próximo como a ti mesmo." Cada homem é seu próprio próximo mais próximo.
 
 2. Somos feitos à imagem de Deus. Devemos portanto reverenciar a imagem de Deus em nós mesmos, assim como somos obrigados a respeitá-la em nosso próximo, mesmo nosso pior inimigo.
 
@@ -61,7 +61,7 @@
 
 3. Não amamos nosso corpo quando o mimamos em vaidade, ou conforto excessivo, ou gratificando cada uma de suas paixões. Por tal indulgência antes odiamos nosso corpo, porque trazemos sobre ele punição eterna.
 
-> Os santos mortificavam seus corpos. Assim entenderam as palavras de Nosso Senhor: "Pois quem quiser salvar sua vida, perdê-la-á; mas quem perder sua vida por amor de Mim e do Evangelho, salvá-la-á" (Mar. 8:35).
+> Os santos mortificavam seus corpos. Assim, entenderam as palavras de Nosso Senhor: "Pois quem quiser salvar sua vida, perdê-la-á; mas quem perder sua vida por amor de Mim e do Evangelho, salvá-la-á" (Mar. 8:35).
 
 
 **O verdadeiro amor próprio inclui também cuidado pela própria reputação e bens temporais?**

@@ -36,7 +36,7 @@
 
 2. Embora não possam merecer nada para si mesmas, as almas pobres intercedem por nós com suas orações a Deus.
 
-> Assim se as ajudarmos nos recompensam por sua intercessão. Ninguém que tem uma devoção às almas santas no purgatório jamais pediu por sua intercessão em vão.
+> Assim, se as ajudarmos nos recompensam por sua intercessão. Ninguém que tem uma devoção às almas santas no purgatório jamais pediu por sua intercessão em vão.
 
 
 **De que modos podemos ajudar as almas pobres no purgatório?**

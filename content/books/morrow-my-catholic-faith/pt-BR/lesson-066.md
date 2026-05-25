@@ -12,7 +12,7 @@
 
 — Pela autoridade da Igreja Católica entende-se que o Papa e os bispos, como legítimos sucessores dos Apóstolos, têm poder do Próprio Cristo para ensinar, santificar e governar os fiéis em questões espirituais.
 
-> Autoridade é o poder que uma pessoa tem sobre outra, de tal modo que pode exigir obediência justamente. Assim governantes têm autoridade sobre súditos; pais sobre seus filhos; professores, sobre alunos, etc.
+> Autoridade é o poder que uma pessoa tem sobre outra, de tal modo que pode exigir obediência justamente. Assim, governantes têm autoridade sobre súditos; pais sobre seus filhos; professores, sobre alunos, etc.
 
 1. Cristo designou a Igreja para ensinar tudo o que Ele ensinou: "Ide, pois, e fazei discípulos de todas as nações. . . . ensinando-os a observar tudo o que vos ordenei" (Mat. 28:19).
 
@@ -35,7 +35,7 @@
 
 1. A autoridade da Igreja não está restrita a questões de doutrina e crença, mas a tudo o que é necessário para o bem da Igreja e seus membros.
 
-> Assim a Igreja estabelece leis concernentes ao jejum e abstinência, guarda de Domingos e dias santos de guarda, culto, e administração dos sacramentos.
+> Assim, a Igreja estabelece leis concernentes ao jejum e abstinência, guarda de Domingos e dias santos de guarda, culto, e administração dos sacramentos.
 
 2. Os membros da Igreja devem observar quaisquer leis e regulamentos que ela faça. Autoridade de alguma forma é necessária para toda organização; sem ela os membros não poderiam ser dirigidos a seu propósito comum.
 

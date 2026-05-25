@@ -27,7 +27,7 @@
 
 5. Católicos que cometeram pecados graves como assassinato, incêndio, adultério, etc., ainda são membros da Igreja. Contanto que um Católico não negue uma doutrina da fé Católica, ou não seja excomungado, é um membro da Igreja.
 
-> Católicos em pecado grave são chamados membros mortos, pois sua alma está morta em pecado mortal. Contudo permanecem membros, e têm o privilégio de receber os sacramentos para lavar seus pecados. O Próprio Cristo predisse que na Igreja haveria pessoas más com as boas, joio entre o trigo. A Madre Igreja é uma boa mãe que pacientemente aguarda o retorno de seus filhos pecadores, e não os exclui de seus dons.
+> Católicos em pecado grave são chamados membros mortos, pois sua alma está morta em pecado mortal. Contudo, permanecem membros, e têm o privilégio de receber os sacramentos para lavar seus pecados. O Próprio Cristo predisse que na Igreja haveria pessoas más com as boas, joio entre o trigo. A Madre Igreja é uma boa mãe que pacientemente aguarda o retorno de seus filhos pecadores, e não os exclui de seus dons.
 
 6. Um excomungado é um que foi cortado da membresia na Igreja por algum pecado sério contra a fé. É excluído dos sacramentos, do sepultamento Católico, e de ser rezado nas orações públicas da Igreja. Para tornar-se uma vez mais um membro em boa situação na Igreja, um excomungado tem que obter a absolvição do bispo.
 
@@ -38,7 +38,7 @@
 
 — Aqueles que permanecem fora da Igreja Católica sem falta grave de sua parte, e não sabem que é a verdadeira Igreja, podem ser salvos fazendo uso das graças que Deus lhes dá.
 
-1. Deus não condena homem algum exceto por pecado grave. Portanto não condenará aqueles que sem falta de sua parte desconhecem Seu comando de pertencer à Verdadeira Igreja, contanto que O sirvam fielmente segundo sua consciência, tenham um desejo sincero de fazer Sua vontade em todas as coisas, e portanto implicitamente desejem tornar-se membros de Sua Igreja. São membros da Igreja, em desejo.
+1. Deus não condena homem algum exceto por pecado grave. Portanto, não condenará aqueles que sem falta de sua parte desconhecem Seu comando de pertencer à Verdadeira Igreja, contanto que O sirvam fielmente segundo sua consciência, tenham um desejo sincero de fazer Sua vontade em todas as coisas, e portanto implicitamente desejem tornar-se membros de Sua Igreja. São membros da Igreja, em desejo.
 
 > Um protestante batizado, de pais protestantes, vive toda sua vida como protestante sem nunca ter uma dúvida de que está no errado. Antes da morte, faz um ato de perfeita contrição pelos pecados que cometeu. Tal homem será salvo, pois morre em estado de graça. É possível para alguém que nunca mesmo ouviu de Jesus Cristo ser salvo, pois Deus "deseja que todos os homens sejam salvos e venham ao conhecimento da verdade" (1 Tim. 2:4) e "Cristo morreu por todos" (2 Cor. 5:15). Para que tal alguém seja salvo, é requerido que observe a lei natural; com a ajuda de Deus; todos tendo o uso da razão podem fazer isto.
 

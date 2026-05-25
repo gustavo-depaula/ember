@@ -36,7 +36,7 @@ a. Após cismas menores e mal-entendidos entre Oriente e Ocidente em 1054, houve
 
 b. A Igreja Ortodoxa Oriental nega o dogma Católico de que o Espírito Santo procede do Pai e do Filho. Também ensina que as almas dos justos não atingirão felicidade completa até o fim do mundo, quando serão unidas a seus corpos; e que as almas dos ímpios não sofrerão tortura completa no inferno até aquele último dia. Estas são heresias contra as doutrinas da Igreja.
 
-> Assim pode ser visto que hoje, a Igreja Ortodoxa Oriental não é meramente cismática, mas verdadeiramente herética; pois mantém doutrinas primárias sob uma luz diferente. Mas tem ordens válidas. *(Veja páginas 110-111)*
+> Assim, pode ser visto que hoje, a Igreja Ortodoxa Oriental não é meramente cismática, mas verdadeiramente herética; pois mantém doutrinas primárias sob uma luz diferente. Mas tem ordens válidas. *(Veja páginas 110-111)*
 
 3. No 12º século, o Albigensianismo surgiu no sul da França. Sustentava o dualismo: dois princípios criadores opostos, o bom criando o mundo espiritual, e o mau criando o mundo material.
 

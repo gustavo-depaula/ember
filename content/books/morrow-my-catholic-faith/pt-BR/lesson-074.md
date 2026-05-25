@@ -36,7 +36,7 @@
 
 2. Todos os membros da Igreja são de uma família, e compartilham dos tesouros espirituais da Igreja. Contudo, nem todos membros da Igreja Militante gozam plenamente dos benefícios da comunhão dos santos, mas apenas aqueles em estado de graça.
 
-> "Membros mortos" não perdem todos os benefícios da comunhão dos santos, pois a Igreja reza publicamente por eles, e membros particulares em estado de graça frequentemente enviam petições por eles. Assim podem receber a graça de arrepender-se e recuperar a graça santificante. Logo um Católico que ainda pertence à Igreja, embora um grande pecador, pode ter mais esperança de ser convertido do que um que se corta da Igreja.
+> "Membros mortos" não perdem todos os benefícios da comunhão dos santos, pois a Igreja reza publicamente por eles, e membros particulares em estado de graça frequentemente enviam petições por eles. Assim, podem receber a graça de arrepender-se e recuperar a graça santificante. Logo um Católico que ainda pertence à Igreja, embora um grande pecador, pode ter mais esperança de ser convertido do que um que se corta da Igreja.
 
 
 **Como os membros da Comunhão dos Santos ajudam-se mutuamente?**

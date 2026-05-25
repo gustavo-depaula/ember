@@ -40,7 +40,7 @@
 
 (b) Do mesmo modo os corpos, após unir-se às almas na ressurreição, diferirão em brilho e beleza como estrela difere de estrela em glória. Mas todos serão perfeitos, sem defeito ou mancha.
 
-> Contudo entre os bem-aventurados não haverá inveja. Como São Francisco de Sales disse: duas crianças recebem de seu pai cada uma um pedaço de pano para fazer uma vestimenta. A criança menor não invejará ao irmão a vestimenta maior, mas estará bastante satisfeita com a que lhe serve.
+> Contudo, entre os bem-aventurados não haverá inveja. Como São Francisco de Sales disse: duas crianças recebem de seu pai cada uma um pedaço de pano para fazer uma vestimenta. A criança menor não invejará ao irmão a vestimenta maior, mas estará bastante satisfeita com a que lhe serve.
 
 (c) O grau de glória dos bem-aventurados no céu não pode nem ser adicionado nem diminuído por toda a eternidade. E contudo há o que poderíamos chamar glórias incidentais: como por exemplo, nos dias de festa dos Santos, quando Missas especiais e comemorações são realizadas em sua honra, ou quando mais pessoas prestam veneração, etc.
 

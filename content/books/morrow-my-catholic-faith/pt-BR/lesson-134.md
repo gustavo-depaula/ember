@@ -11,7 +11,7 @@
 
 > O valor de um dom é proporcional à dignidade do doador e ao custo do dom. A Missa, o único dom digno para Deus, é oferecida por Cristo, o Filho de Deus porque custou-Lhe Sua própria vida.
 
-1. Portanto ouvir ou dizer Missa é uma boa obra de maior excelência do que qualquer outra.
+1. Portanto, ouvir ou dizer Missa é uma boa obra de maior excelência do que qualquer outra.
 
 > Por outras boas obras, oferecemos a Deus dons que são humanos. Na Missa, oferecemos-Lhe o dom que é divino: Seu Próprio Filho unigênito. Não há ato mais santo e divino que possa ser realizado na terra do que o sacrifício da Missa.
 

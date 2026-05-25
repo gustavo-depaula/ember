@@ -58,7 +58,7 @@
 
 > Mrs. Colonel Vaughan, uma mãe inglesa, orava cada dia para que todos seus filhos pudessem tornar-se padres e freiras. Com o tempo, de seus oito filhos um tornou-se cardeal, um segundo arcebispo, outro bispo e três padres; todas suas cinco filhas tornaram-se Irmãs.
 
-1. Como ninguém deve ser forçado assim ninguém deve ser impedido de tornar-se ou Padre ou Irmã. É um pecado para pais opor-se ou impedir a vocação religiosa de seu filho. É roubá-lo do serviço de Deus Que o chamou.
+1. Como ninguém deve ser forçado, assim ninguém deve ser impedido de tornar-se ou Padre ou Irmã. É um pecado para pais opor-se ou impedir a vocação religiosa de seu filho. É roubá-lo do serviço de Deus Que o chamou.
 
 > Nosso Senhor prometeu, "Todo aquele que deixou casa ou irmãos ou irmãs ou pai ou mãe ou mulher ou filhos ou terras por amor do Meu nome receberá cem vezes mais e possuirá a vida eterna" (Mat. 19:29).
 

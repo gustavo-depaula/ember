@@ -52,7 +52,7 @@ A doutrina do Purgatório foi dada definição solene pelo Concílio de Trento c
 
 4. Razão demanda crença na existência do purgatório. Se um homem morre com alguma leve mancha em sua alma, um pecado de impaciência, ou uma palavra ociosa, está ele apto a entrar no céu? A santidade de Deus proíbe isto: "Não entrará nela coisa alguma contaminada" (Apoc. 21:27). Mas deve tal alma ser consignada ao inferno? A misericórdia e justiça de Deus proíbem isto.
 
-> Portanto razão conclui a existência de um estado intermediário e temporário de expiação, onde a alma é purificada de toda mancha de pecado antes que possa ser admitida na perfeita santidade e bem-aventurança do céu. "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5:26).
+> Portanto, razão conclui a existência de um estado intermediário e temporário de expiação, onde a alma é purificada de toda mancha de pecado antes que possa ser admitida na perfeita santidade e bem-aventurança do céu. "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5:26).
 
 5. Entre quase todos os povos tem persistido uma crença que almas devem sofrer algum tipo de purificação após a morte. Isto apontaria à doutrina do purgatório.
 

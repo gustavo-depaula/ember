@@ -38,7 +38,7 @@ Se nossos corpos ressuscitados não fossem aqueles que tínhamos na terra não s
 
 2. Durante a vida o corpo está constantemente mudando, vestindo novo crescimento e lançando fora resíduos em osso, músculo e pele. Contudo é sempre o mesmo corpo.
 
-> Assim será na ressurreição. Quaisquer mudanças que haja não afetarão a mesmice do corpo que temos na terra. Na morte o corpo apenas dorme, aguardando o último dia. Nosso Senhor Mesmo disse que Lázaro e a filha de Jairo estavam dormindo, embora soubesse que estavam mortos.
+> Assim, será na ressurreição. Quaisquer mudanças que haja não afetarão a mesmice do corpo que temos na terra. Na morte o corpo apenas dorme, aguardando o último dia. Nosso Senhor Mesmo disse que Lázaro e a filha de Jairo estavam dormindo, embora soubesse que estavam mortos.
 
 3. Nossos corpos ressuscitarão novamente mesmo que tenham sido reduzidos a pó. Tudo é possível a Deus. Aquele Que criou anjos e homens e todo o universo do nada certamente não encontrará qualquer dificuldade em reunir juntos os elementos do corpo mesmo que fossem espalhados através do mundo, nem em dar-lhes vida uma vez mais. Deus tem poder todo-poderoso.
 

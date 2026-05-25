@@ -7,9 +7,9 @@
 
 **Por que os católicos devem mostrar reverência e honra ao padre?**
 
-— Católicos devem mostrar reverência e honra ao padre porque ele é o representante do Próprio Cristo e o dispensador de Seus mistérios.
+— Católicos devem mostrar reverência e honra ao padre porque ele é o representante do Próprio Cristo, e o dispensador de Seus mistérios.
 
-1. A dignidade de um padre é mais alta que qualquer dignidade terrestre, pois ele é o representante de Deus. Tem poder que os mais poderosos governantes civis não possuem. O mais humilde padre por sua palavra pode invocar Deus sobre o altar e converter pão e vinho no Corpo e Sangue de Cristo. Pode dizer ao pecador, "Eu te absolvo" e a alma do pecador é salva do inferno. Que dignidade terrestre pode comparar-se com isto? Nem mesmo a Santíssima Virgem possuiu o poder de perdoar pecados, de conceder absolvição que apaga a própria culpa do pecado.
+1. A dignidade de um padre é mais alta que qualquer dignidade terrestre, pois ele é o representante de Deus. Tem poder que os mais poderosos governantes civis não possuem. O mais humilde padre por sua palavra pode invocar Deus sobre o altar e converter pão e vinho no Corpo e Sangue de Cristo. Pode dizer ao pecador, "Eu te absolvo", e a alma do pecador é salva do inferno. Que dignidade terrestre pode comparar-se com isto? Nem mesmo a Santíssima Virgem possuiu o poder de perdoar pecados, de conceder absolvição que apaga a própria culpa do pecado.
 
 > Mesmo o conquistador pagão, Alexandre o Grande, respeitou os ministros de Deus, reconhecendo sua dignidade como Seus representantes. Numa de suas expedições militares veio a Jerusalém. O povo estava em estado de grande temor, e ofereceu orações para obter proteção divina. O sumo sacerdote com o resto do clero, vestidos em seus paramentos cerimoniais, finalmente foi encontrar o rei, para implorar misericórdia. Quando Alexandre viu o sumo sacerdote, inclinou-se profundamente diante dele, enquanto todos presentes ficaram cheios de surpresa. Ao ser depois perguntado por um de seus generais por que tinha se humilhado tanto diante de um que tinha conquistado, o rei respondeu, "Não prestei reverência ao homem, mas a Deus, de Quem ele é padre."
 
