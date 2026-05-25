@@ -11,7 +11,7 @@
 
 1. Aquele que morre imediatamente após ganhar uma indulgência plenária vai direto ao céu, sem ter que passar pelo Purgatório.
 
-> Ao bom ladrão foi concedida por Nosso Senhor uma indulgência plenária, por causa de sua perfeita contrição de coração. Ao outro ladrão disse que estavam recebendo o que suas ações mereciam. E disse a Jesus: "Senhor, lembra-Te de mim quando vieres ao Teu reino." E Jesus disse-lhe: "Em verdade te digo: hoje estarás comigo no paraíso" (Lucas 23: 42-43).
+> Ao bom ladrão foi concedida por Nosso Senhor uma indulgência plenária, por causa de sua perfeita contrição de coração. Ao outro ladrão disse que estavam recebendo o que suas ações mereciam. E disse a Jesus: "Senhor, lembra-Te de mim quando vieres ao Teu reino." E Jesus disse-lhe: "Em verdade te digo: hoje estarás comigo no paraíso" (Lucas 23:42-43).
 
 2. Para ganhar uma indulgência plenária, deve-se estar inteiramente livre de todo pecado, tanto mortal quanto venial, e de toda afeição a ele.
 
@@ -49,9 +49,9 @@
 
 3. Uma indulgência plenária é concedida àqueles que recebem a bênção papal após confissão, comunhão e oração pelas intenções do Papa.
 
-> A bênção papal é usualmente dada ao final de missões ou retiros ou na hora da morte.
+> A bênção papal é usualmente dada ao final de missões ou retiros, ou na hora da morte.
 
-4. Os doentes e idosos na hora da morte, tendo recebido a bênção papal para os moribundos, podem ganhar uma indulgência plenária se pronunciam o Nome de Jesus ou pelo menos o têm em sua mente e coração.
+4. Os doentes e idosos na hora da morte, tendo recebido a bênção papal para os moribundos, podem ganhar uma indulgência plenária se pronunciam o Nome de Jesus, ou pelo menos o têm em sua mente e coração.
 
 
 **Quem tem autoridade para conceder indulgências?**

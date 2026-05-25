@@ -2,7 +2,7 @@
 
 ![](../images/lesson-142.webp)
 
-*Assim devemos ajoelhar-nos no coroamento da comunhão. Não devemos empurrar ou apertar. (1) mostra como aproximar-se e deixar o coroamento da comunhão, com mãos juntas e olhos baixos. (2) mostra como receber a Santa Comunhão. Abrimos a boca e estendemos a língua um pouco sobre o lábio inferior. Enquanto isso acolhamos Jesus Cristo num coração alegre.*
+*Assim devemos ajoelhar-nos no grade da comunhão. Não devemos empurrar ou apertar. (1) mostra como aproximar-se e deixar o grade da comunhão, com mãos juntas e olhos baixos. (2) mostra como receber a Santa Comunhão. Abrimos a boca e estendemos a língua um pouco sobre o lábio inferior. Enquanto isso acolhamos Jesus Cristo num coração alegre.*
 
 
 **O que é necessário para receber a Santa Comunhão dignamente?**
@@ -70,9 +70,9 @@
 
 **Como devemos nos comportar ao receber a Santa Comunhão?**
 
-— Devota e recolhidos, devemos pensar no Senhor Que estamos recebendo e fazer fervorosos atos de virtude.
+— Devota e recolhidos, devemos pensar no Senhor Que estamos recebendo, e fazer fervorosos atos de virtude.
 
-1. Ao aproximar-se do coroamento da comunhão deve-se ter as mãos juntas e não andar demasiado apressadamente, nem correr à frente de outros, nem inserir-se entre duas pessoas já ajoelhadas próximas uma da outra no coroamento.
+1. Ao aproximar-se da grade da comunhão deve-se ter as mãos juntas e não andar demasiado apressadamente, nem correr à frente de outros, nem inserir-se entre duas pessoas já ajoelhadas próximas uma da outra na grade.
 
 > É muito irreverente para mulheres e moças ir à Santa Comunhão com vestidos sem mangas ou curtos, decotes e calças. A tinta de seu batom pode possivelmente tocar a Sagrada Hóstia. Homens também devem estar decentemente vestidos.
 

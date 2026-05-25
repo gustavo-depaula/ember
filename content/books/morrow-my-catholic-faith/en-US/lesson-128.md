@@ -11,7 +11,7 @@
 
 > Eucharist in Greek means thanksgiving. The sacrament is so called because when Christ instituted it, He gave thanks. Today, it is the chief means by which we give thanks to God.
 
-1. The Holy Eucharist is also called the Blessed Sacrament, because it is the most excellent of all sacraments. It gives us Christ Himself. "My delight is to be with the children of men" (Prov. 8: 31).
+1. The Holy Eucharist is also called the Blessed Sacrament, because it is the most excellent of all sacraments. It gives us Christ Himself. "My delight is to be with the children of men" (Prov. 8:31).
 
 > It is called the Sacrament of the Altar because it is consecrated and reserved upon an altar. It is offered up on the altar in the Holy Sacrifice of the Mass.
 
@@ -47,7 +47,7 @@ take and eat; this is my body.
 
 all of you drink of this; for this is my blood of the new covenant, which is being shed for many unto the forgiveness of sins
 
-> " (Matt. 26: 26-28).
+> " (Matt. 26:26-28).
 
 2. Previously, on the day after the first multiplication of the loaves and fishes, Our Lord had promised to give His Flesh to eat and His Blood to drink. On this occasion, it is clear that the Jews took Our Lord's words literally. Many of the disciples left Jesus and "walked no more with Him," because they could not believe such a thing as He promised. But Jesus, although very sad at their leaving, did not take back His words or explain them differently.
 
@@ -55,11 +55,11 @@ all of you drink of this; for this is my blood of the new covenant, which is bei
 
 how can this man give us his flesh to eat?
 
-> " "Jesus therefore said to them, Amen, amen. I say to you, unless you eat the flesh of the Son of Man, and drink his blood, you shall not have life in you. He who eats my flesh and drinks my blood has life everlasting and I will raise him up on the last day. For my flesh is food indeed, and my blood is drink indeed. He who eats my flesh, and drinks my blood, abides in me and I in him. As the living Father has sent me, and as I live because of the Father, so he who eats me, he also shall live because of me. This is the bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this bread shall live forever." (John 6: 48-59).
+> " "Jesus therefore said to them, Amen, amen. I say to you, unless you eat the flesh of the Son of Man, and drink his blood, you shall not have life in you. He who eats my flesh and drinks my blood has life everlasting and I will raise him up on the last day. For my flesh is food indeed, and my blood is drink indeed. He who eats my flesh, and drinks my blood, abides in me and I in him. As the living Father has sent me, and as I live because of the Father, so he who eats me, he also shall live because of me. This is the bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this bread shall live forever." (John 6:48-59).
 
 3. The Apostles understood that Christ meant His words at the Last Supper to be literal. St. Paul writes:
 
-> "The cup of blessing that we bless, is it not the sharing of the blood of Christ? And the bread that we break, is it not the partaking of the body of the Lord? ... Therefore whoever eats this bread or drinks the cup of the Lord unworthily, will be guilty of the body and the blood of the Lord. But let a man prove himself, and so let him eat of that bread and drink of the cup; for he who eats and drinks unworthily, without distinguishing the body, eats and drinks judgement to himself" (1 Cor. 10: 16; 11: 27-29).
+> "The cup of blessing that we bless, is it not the sharing of the blood of Christ? And the bread that we break, is it not the partaking of the body of the Lord? ... Therefore whoever eats this bread or drinks the cup of the Lord unworthily, will be guilty of the body and the blood of the Lord. But let a man prove himself, and so let him eat of that bread and drink of the cup; for he who eats and drinks unworthily, without distinguishing the body, eats and drinks judgement to himself" (1 Cor. 10:16; 11:27-29).
 
 4. It has been the continuous belief of Christians from the beginning of Christianity. St. Augustine said, "Our Lord held Himself in His own hands, when He gave His Body to the disciples." It was only in the sixteenth century that Protestants, breaking away from the True Church, denied it and introduced a different doctrine.
 

@@ -36,13 +36,13 @@ b. Quando o mal feito é seriamente errado, mas o pecador sinceramente crê que 
 
 — Pecado venial nos prejudica tornando-nos menos fervorosos no serviço de Deus, enfraquecendo nosso poder de resistir ao pecado mortal, e tornando-nos merecedores dos castigos de Deus nesta vida ou no purgatório.
 
-1. Embora o pecado venial não seja uma ofensa grave contra Deus, é nevertheless um grande mal moral, segundo apenas ao pecado mortal.
+1. Embora o pecado venial não seja uma ofensa grave contra Deus, é não obstante um grande mal moral, segundo apenas ao pecado mortal.
 
 > É como uma gota de tinta num copo cheio de água clara; a tinta, por pouco que seja, tira a claridade.
 
 2. Se frequentemente cometido, o pecado venial enfraquece a vontade, diminui nosso poder de resistir ao mal, e torna mais fácil para nós cair em pecado mortal.
 
-> "Quem despreza as pequenas coisas cairá pouco a pouco" (Ecli. 19: 1). "Quem é fiel no muito pouco também é fiel no muito; e quem é injusto no muito pouco também é injusto no muito" (Luc. 16: 10). Um grande fogo é iniciado por uma pequena brasa. Pecado venial, enfraquecendo a vontade, torna-nos indispostos para o bem, e tíbios no serviço de Deus.
+> "Quem despreza as pequenas coisas cairá pouco a pouco" (Ecli. 19:1). "Quem é fiel no muito pouco também é fiel no muito; e quem é injusto no muito pouco também é injusto no muito" (Luc. 16:10). Um grande fogo é iniciado por uma pequena brasa. Pecado venial, enfraquecendo a vontade, torna-nos indispostos para o bem, e tíbios no serviço de Deus.
 
 3. Pecado venial nos priva de muitas graças atuais que precisamos para resistir à tentação.
 
@@ -54,7 +54,7 @@ b. Quando o mal feito é seriamente errado, mas o pecador sinceramente crê que 
 
 5. Um grande desejo de não ofender a Deus no mínimo é a melhor prova de amor e lealdade para com nosso Pai celestial.
 
-> A Sagrada Escritura mostra muitos exemplos do ódio de Deus pelo pecado venial, que Ele pune severamente mesmo na terra. Por sua curiosidade, a mulher de Ló foi transformada numa estátua de sal. "Mas Eu vos digo que de toda palavra ociosa que os homens disserem, darão conta no dia do juízo" (Mat. 12: 36).
+> A Sagrada Escritura mostra muitos exemplos do ódio de Deus pelo pecado venial, que Ele pune severamente mesmo na terra. Por sua curiosidade, a mulher de Ló foi transformada numa estátua de sal. "Mas Eu vos digo que de toda palavra ociosa que os homens disserem, darão conta no dia do juízo" (Mat. 12:36).
 
 
 **Como podemos nos guardar de cometer pecado?**

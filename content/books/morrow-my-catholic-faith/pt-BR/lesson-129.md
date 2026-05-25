@@ -54,15 +54,15 @@
 
 1. Para ser oferecido como um sacrifício comemorando e renovando o sacrifício da cruz.
 
-> "Pois todas as vezes que comerdes este pão e beberdes o cálice, anunciareis a morte do Senhor, até que Ele venha" (1 Cor. 11: 26). Na Missa, Jesus oferece-Se como uma Vítima a Seu Pai celestial.
+> "Pois todas as vezes que comerdes este pão e beberdes o cálice, anunciareis a morte do Senhor, até que Ele venha" (1 Cor. 11:26). Na Missa, Jesus oferece-Se como uma Vítima a Seu Pai celestial.
 
 2. Para ser recebido na Santa Comunhão.
 
-> "Eu sou o pão da vida. . . . Aquele que come minha carne e bebe meu sangue, permanece em Mim, e Eu nele. . . . Aquele que Me come, ele também viverá por causa de Mim" (João 6: 48, 56, 58). A Santa Eucaristia é alimento para nutrir a alma. Por este alimento somos unidos a Cristo, Que nos nutre com Sua vida divina; graça santificante e todas as virtudes aumentam em nossas almas; nossas inclinações más são diminuídas. A Santa Eucaristia é uma penhora de vida eterna: "Se alguém comer deste Pão, viverá eternamente." Santa Comunhão precisa da Missa para suprir as espécies consagradas; por esta razão Missa e Comunhão são inseparáveis.
+> "Eu sou o pão da vida. . . . Aquele que come minha carne e bebe meu sangue, permanece em Mim, e Eu nele. . . . Aquele que Me come, ele também viverá por causa de Mim" (João 6:48, 56, 58). A Santa Eucaristia é alimento para nutrir a alma. Por este alimento somos unidos a Cristo, Que nos nutre com Sua vida divina; graça santificante e todas as virtudes aumentam em nossas almas; nossas inclinações más são diminuídas. A Santa Eucaristia é uma penhora de vida eterna: "Se alguém comer deste Pão, viverá eternamente." Santa Comunhão precisa da Missa para suprir as espécies consagradas; por esta razão Missa e Comunhão são inseparáveis.
 
 3. Para permanecer sempre em nossos altares como uma prova de Seu amor, e ser adorado por nós.
 
-> "Permanece conosco, Senhor, pois Contigo está a fonte da vida" (Sl. 35: 10). "Vinde a Mim, todos vós que trabalhais e estais sobrecarregados, e Eu vos darei descanso" (Mat. 11: 28). Dizemos que amamos Jesus; provamos nosso amor? Quando temos um amigo querido, estamos sempre ávidos por estar em sua presença; mostramos a Jesus a mesma terna ternura amorosa? Ou somos tão esquecidos d'Ele que vamos vê-Lo apenas uma vez por semana?
+> "Permanece conosco, Senhor, pois Contigo está a fonte da vida" (Sl. 35:10). "Vinde a Mim, todos vós que trabalhais e estais sobrecarregados, e Eu vos darei descanso" (Mat. 11:28). Dizemos que amamos Jesus; provamos nosso amor? Quando temos um amigo querido, estamos sempre ávidos por estar em sua presença; mostramos a Jesus a mesma ternura amorosa? Ou somos tão esquecidos d'Ele que vamos vê-Lo apenas uma vez por semana?
 
 
 **Já que a Presença Real de Cristo está na Eucaristia, que honra somos obrigados a prestar-Lhe?**

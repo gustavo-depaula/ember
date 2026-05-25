@@ -47,7 +47,7 @@
 
 2. Os pagãos, com ideias pervertidas, ofereciam sacrifícios humanos a seus ídolos.
 
-> O Rei de Moab (4 Reis 5: 27) ofereceu seu próprio filho como sacrifício, para obter ajuda contra os Israelitas. Como São Paulo diz, "O que os Gentios sacrificam, sacrificam aos demônios e não a Deus" (1 Cor. 10: 20).
+> O Rei de Moab (4 Reis 5:27) ofereceu seu próprio filho como sacrifício, para obter ajuda contra os Israelitas. Como São Paulo diz, "O que os Gentios sacrificam, sacrificam aos demônios e não a Deus" (1 Cor. 10:20).
 
 ![](../images/lesson-130c.webp)
 
@@ -61,6 +61,6 @@
 
 *Entre os Judeus havia diferentes categorias ou ordens de padres, como o sumo-sacerdote, os padres e os Levitas. Estas categorias eram uma figura ou tipo das diferentes categorias que estariam na Igreja fundada por Jesus Cristo. O povo fielmente obedecia a seus padres, e os sustentava com esmolas.*
 
-*Os sacrifícios judaicos eram meramente tipos do Sacrifício de Cristo no Calvário, e cessaram com o passar da Lei Antiga. Na Nova Lei, temos o Verdadeiro Sacrifício, o mesmo que Cristo ofereceu no Calvário por Sua morte. O Sumo-Sacerdote é o Próprio Cristo, e Cristo, também, é a Vítima. São Paulo disse, "É impossível que os pecados sejam tirados com sangue de touros e de bodes" (Heb. 10: 4).*
+*Os sacrifícios judaicos eram meramente tipos do Sacrifício de Cristo no Calvário, e cessaram com o passar da Lei Antiga. Na Nova Lei, temos o Verdadeiro Sacrifício, o mesmo que Cristo ofereceu no Calvário por Sua morte. O Sumo-Sacerdote é o Próprio Cristo, e Cristo, também, é a Vítima. São Paulo disse, "É impossível que os pecados sejam tirados com sangue de touros e de bodes" (Heb. 10:4).*
 
 ![](../images/lesson-130f.webp)

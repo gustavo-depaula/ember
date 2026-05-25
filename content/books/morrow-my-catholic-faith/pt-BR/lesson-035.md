@@ -20,7 +20,7 @@
 
 — Cristo morreu no Gólgota, um monte fora da cidade de Jerusalém.
 
-> Cristo foi crucificado num monte chamado Calvário, fora da cidade de Jerusalém. Santo Agostinho diz que na cruz, Nosso Senhor inclinou Sua cabeça para nos beijar, estendeu Seus braços para nos abraçar, e abriu Seu coração para nos amar. Quão agradecidos devemos ser a Cristo por Seu amor! "Humilhou-Se a Si mesmo, feito obediente até a morte, e morte de cruz" (Fil. 2: 8).
+> Cristo foi crucificado num monte chamado Calvário, fora da cidade de Jerusalém. Santo Agostinho diz que na cruz, Nosso Senhor inclinou Sua cabeça para nos beijar, estendeu Seus braços para nos abraçar, e abriu Seu coração para nos amar. Quão agradecidos devemos ser a Cristo por Seu amor! "Humilhou-Se a Si mesmo, feito obediente até a morte, e morte de cruz" (Fil. 2:8).
 
 
 **O que ocorreu na morte de Cristo?**
@@ -41,7 +41,7 @@
 
 4. Após Sua morte, o corpo de Nosso Senhor foi descido da cruz e depositado no sepulcro que pertencia a José de Arimateia. Então Seus discípulos rolaram uma grande pedra para fechar o túmulo.
 
-> Os principais sacerdotes e os fariseus foram em corpo a Pilatos, dizendo: 'Senhor, lembramo-nos de que aquele impostor disse, enquanto ainda vivia: "Depois de três dias ressuscitarei." Ordena, pois, que o sepulcro seja guardado até o terceiro dia, não suceda que venham seus discípulos e O roubem, e digam ao povo: "Ressuscitou dos mortos"; e o último embuste será pior que o primeiro.' Pilatos disse-lhes: 'Tendes uma guarda; ide, guardai-o como sabeis.' Então foram e selaram a pedra, pondo a guarda (Mat. 27: 63-66).
+> Os principais sacerdotes e os fariseus foram em corpo a Pilatos, dizendo: 'Senhor, lembramo-nos de que aquele impostor disse, enquanto ainda vivia: "Depois de três dias ressuscitarei." Ordena, pois, que o sepulcro seja guardado até o terceiro dia, não suceda que venham seus discípulos e O roubem, e digam ao povo: "Ressuscitou dos mortos"; e o último embuste será pior que o primeiro.' Pilatos disse-lhes: 'Tendes uma guarda; ide, guardai-o como sabeis.' Então foram e selaram a pedra, pondo a guarda (Mat. 27:63-66).
 
 
 **O que aprendemos dos sofrimentos e morte de Cristo?**
@@ -50,11 +50,11 @@
 
 1. Não era necessário para Jesus sofrer tão intensamente para redimir todos os homens. Como Seus méritos são infinitos, Ele poderia ter apagado os pecados de mil mundos derramando uma gota de Seu sangue. Mas escolheu sofrer agônias porque nos ama.
 
-> "Maior amor do que este ninguém tem, que alguém dê sua vida por seus amigos" (João 15: 13). "Eu sou o bom pastor. O bom pastor dá sua vida por suas ovelhas... Eu sou o bom pastor; e conheço as Minhas e as Minhas Me conhecem... e dou Minha vida por Minhas ovelhas" (João 10: 11-15).
+> "Maior amor do que este ninguém tem, que alguém dê sua vida por seus amigos" (João 15:13). "Eu sou o bom pastor. O bom pastor dá sua vida por suas ovelhas... Eu sou o bom pastor; e conheço as Minhas e as Minhas Me conhecem... e dou Minha vida por Minhas ovelhas" (João 10:11-15).
 
 2. Da Paixão de Cristo, aprendemos o mal que o pecado é, e o ódio que Deus lhe tem. Aprendemos a necessidade de satisfazer pela malícia e maldade que é o pecado. O pecado deve ser uma coisa horrível, para fazer Jesus Cristo o Deus-homem sofrer tanto.
 
-> Pela obediência de Cristo Ele expiou a desobediência de Adão, pois foi obediente até a morte. "Foi traspassado por nossas iniquidades; foi moído por nossos pecados" (Is. 53: 5).
+> Pela obediência de Cristo Ele expiou a desobediência de Adão, pois foi obediente até a morte. "Foi traspassado por nossas iniquidades; foi moído por nossos pecados" (Is. 53:5).
 
 3. Os sofrimentos de Cristo, além disso, servem como exemplo para nós, para fortalecer-nos nas provações.
 
@@ -62,4 +62,4 @@
 
 Igrejas são construídas na forma de uma cruz porque dentro o sacrifício da cruz é reencenado. Dentro delas lembramos facilmente os eventos que ocorreram naquele dia há muito tempo, quando Jesus Cristo, Filho de Deus, por amor de nós sofreu e morreu na Cruz.
 
-> As torres das igrejas nos levam a "buscar as coisas que são do alto" (Col. 3: 1); são encimadas por uma cruz, o símbolo de nossa salvação; seus sinos nos chamam à oração, comunhão com Deus. O interior da igreja é dividido em três partes: o pórtico, onde nos tempos antigos os que se preparavam para o batismo e os penitentes ajoelhavam-se; a nave, que é a porção central e principal, para os que assistem ao Santo Sacrifício; e o coro ou santuário, onde nos tempos antigos os cantores ficavam, agora reservado para o clero, e separado da nave pela grade da comunhão.
+> As torres das igrejas nos levam a "buscar as coisas que são do alto" (Col. 3:1); são encimadas por uma cruz, o símbolo de nossa salvação; seus sinos nos chamam à oração, comunhão com Deus. O interior da igreja é dividido em três partes: o pórtico, onde nos tempos antigos os que se preparavam para o batismo e os penitentes ajoelhavam-se; a nave, que é a porção central e principal, para os que assistem ao Santo Sacrifício; e o coro ou santuário, onde nos tempos antigos os cantores ficavam, agora reservado para o clero, e separado da nave pela grade da comunhão.

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-071.webp)
 
-*Nosso Senhor disse: "Todo aquele, pois, que ouve estas Minhas palavras e as pratica, será comparado a um homem sábio que edificou sua casa sobre a rocha. E caiu a chuva, e vieram as inundações, e sopraram os ventos e bateram contra aquela casa, mas ela não caiu, porque estava fundada sobre a rocha. E todo aquele que ouve estas Minhas palavras e não as pratica, será comparado a um homem insensato que edificou sua casa sobre a areia. E caiu a chuva, e vieram as inundações, e sopraram os ventos e bateram contra aquela casa, e ela caiu, e foi totalmente arruinada" (Mat. 7: 24-27). As igrejas não-Católicas são a "casa sobre a areia;" erguem-se e caem. A Igreja Católica é a "casa sobre a rocha;" durará para sempre.*
+*Nosso Senhor disse: "Todo aquele, pois, que ouve estas Minhas palavras e as pratica, será comparado a um homem sábio que edificou sua casa sobre a rocha. E caiu a chuva, e vieram as inundações, e sopraram os ventos e bateram contra aquela casa, mas ela não caiu, porque estava fundada sobre a rocha. E todo aquele que ouve estas Minhas palavras e não as pratica, será comparado a um homem insensato que edificou sua casa sobre a areia. E caiu a chuva, e vieram as inundações, e sopraram os ventos e bateram contra aquela casa, e ela caiu, e foi totalmente arruinada" (Mat. 7:24-27). As igrejas não-Católicas são a "casa sobre a areia;" erguem-se e caem. A Igreja Católica é a "casa sobre a rocha;" durará para sempre.*
 
 
 **O que é cisma; e o que é heresia?**
@@ -13,7 +13,7 @@
 
 1. Cristo predisse divisões na Igreja, e o surgimento de outras igrejas. Desde o tempo dos Apóstolos, novas denominações têm surgido, e dividido e subdividido para formar outras denominações. Com outras igrejas que são não-Cristãs, as denominações Cristãs têm se oposto à Igreja Apostólica.
 
-> "Pois surgirão falsos cristos e falsos profetas, e mostrarão grandes sinais e prodígios, de modo a levar ao erro, se possível, até mesmo os eleitos" (Mat. 24: 24).
+> "Pois surgirão falsos cristos e falsos profetas, e mostrarão grandes sinais e prodígios, de modo a levar ao erro, se possível, até mesmo os eleitos" (Mat. 24:24).
 
 2. A diferença entre uma igreja herética e uma cismática é esta: enquanto ambas podem crer nas mesmas doutrinas, a igreja cismática tem ordens e sacramentos válidos, mas a igreja herética não tem.
 
@@ -36,7 +36,7 @@ a. Após cismas menores e mal-entendidos entre Oriente e Ocidente em 1054, houve
 
 b. A Igreja Ortodoxa Oriental nega o dogma Católico de que o Espírito Santo procede do Pai e do Filho. Também ensina que as almas dos justos não atingirão felicidade completa até o fim do mundo, quando serão unidas a seus corpos; e que as almas dos ímpios não sofrerão tortura completa no inferno até aquele último dia. Estas são heresias contra as doutrinas da Igreja.
 
-> Assim pode ser visto que hoje, a Igreja Ortodoxa Oriental não é meramente cismática, mas verdadeiramente herética; pois mantém doutrinas primárias sob uma luz diferente. Mas tem ordens válidas. *(Veja páginas 110-111)*
+> Assim, pode ser visto que hoje, a Igreja Ortodoxa Oriental não é meramente cismática, mas verdadeiramente herética; pois mantém doutrinas primárias sob uma luz diferente. Mas tem ordens válidas. *(Veja páginas 110-111)*
 
 3. No 12º século, o Albigensianismo surgiu no sul da França. Sustentava o dualismo: dois princípios criadores opostos, o bom criando o mundo espiritual, e o mau criando o mundo material.
 

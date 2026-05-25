@@ -11,11 +11,11 @@
 
 1. The Bible itself states that it does not contain all that God revealed.
 
-> "There are, however, many other things that Jesus did; but if every one of these should be written, not even the world itself, I think, could hold the books that would have to be written" (John 21: 25)
+> "There are, however, many other things that Jesus did; but if every one of these should be written, not even the world itself, I think, could hold the books that would have to be written" (John 21:25)
 
 2. The truths of Divine Revelation which have not been written down in Holy Scripture have come to us by the Tradition of the Church.
 
-> St. Paul bade the Thessalonians: "Hold the teachings that you have learned, whether by word or by letter of ours" (2 Thess. 2: 15).
+> St. Paul bade the Thessalonians: "Hold the teachings that you have learned, whether by word or by letter of ours" (2 Thess. 2:15).
 
 
 **What is meant by Divine Tradition?**
@@ -24,7 +24,7 @@
 
 1. In a wide sense Tradition embraces the whole teaching of the Church, including the Bible, since it is only from the Church that we have the Bible. In a stricter sense, Tradition includes only what was handed down orally from the Apostles.
 
-> The Apostles themselves say that there is much that they have delivered to the faithful by word of mouth (2 John 12; 1 Cor. 11: 2). Among many examples of truths in Tradition, not clearly manifested in Holy scriptures, are: the exact number of sacraments, the time of institution of some sacraments, the books that make up the Bible, the Baptism of infants, and Sunday observance.
+> The Apostles themselves say that there is much that they have delivered to the faithful by word of mouth (2 John 12; 1 Cor. 11:2). Among many examples of truths in Tradition, not clearly manifested in Holy scriptures, are: the exact number of sacraments, the time of institution of some sacraments, the books that make up the Bible, the Baptism of infants, and Sunday observance.
 
 2. All the truths of Divine Tradition now have found their way into books. From the first Christian centuries the practices and doctrines of Tradition were preserved by saintly teachers whom we call Fathers of the Church. They were disciples of the Apostles, contemporaries of those disciples, or disciples of the disciples. These holy and learned men instructed the Church in the years of its first growth.
 

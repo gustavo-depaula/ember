@@ -13,7 +13,7 @@
 
 1. The one full meal may be taken either at noon or in the evening. Only at this meal may meat be taken; but both fish and meat may be taken at the same meal.
 
-> Fasting was a practice in the early Church. And the Holy Spirit said, "Set apart for me Saul and Barnabas unto the work to which I have called them." Then, having fasted and prayed and laid their hands upon them, they let them go (Acts 13: 2-3).
+> Fasting was a practice in the early Church. And the Holy Spirit said, "Set apart for me Saul and Barnabas unto the work to which I have called them." Then, having fasted and prayed and laid their hands upon them, they let them go (Acts 13:2-3).
 
 2. Eating between meals is forbidden; drink that is not nourishing is permitted.
 
@@ -55,7 +55,7 @@ Those of weak health, the sick, the convalescent, nursing women, the very poor, 
 
 — The Church commands us to fast and to abstain in order that we may control the desires of the flesh, raise our minds more freely to God, and make satisfaction for sin.
 
-> "I chastise my body and bring it into subjection, lest perhaps after preaching to others I myself should be rejected" (1 Cor. 9: 27).
+> "I chastise my body and bring it into subjection, lest perhaps after preaching to others I myself should be rejected" (1 Cor. 9:27).
 
 1. The Church does not command abstinence and fasting because she considers meat and other foods evil in themselves. We merely deny ourselves for the glory of God and the good of our souls.
 

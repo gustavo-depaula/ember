@@ -2,7 +2,7 @@
 
 ![](../images/lesson-030.webp)
 
-*"Ora no sexto mês o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de Davi, e o nome da virgem era Maria. E tendo o anjo entrado onde ela estava, disse: Salve, cheia de graça, o Senhor é contigo. Bendita és tu entre as mulheres. Quando ela o viu, perturbou-se com sua palavra, e ponderava que saudação seria esta. E o anjo disse-lhe: Não temas, Maria, pois achaste graça com Deus. E eis que conceberás em teu ventre e darás à luz um filho; e chamarás Seu nome Jesus" (Luc. 1: 26-31).*
+*"Ora no sexto mês o anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de Davi, e o nome da virgem era Maria. E tendo o anjo entrado onde ela estava, disse: Salve, cheia de graça, o Senhor é contigo. Bendita és tu entre as mulheres. Quando ela o viu, perturbou-se com sua palavra, e ponderava que saudação seria esta. E o anjo disse-lhe: Não temas, Maria, pois achaste graça com Deus. E eis que conceberás em teu ventre e darás à luz um filho; e chamarás Seu nome Jesus" (Luc. 1:26-31).*
 
 (TERCEIRO ARTIGO DO CREDO DOS APÓSTOLOS)
 
@@ -17,7 +17,7 @@
 
 2. Por virtude da Encarnação Jesus Cristo veio à terra. Este é um mistério que nunca podemos compreender plenamente, mas devemos estar contentes em honrar e adorar.
 
-> "E o Verbo se fez carne e habitou entre nós" (João 1: 14). Cristo como homem era como nós em todas as coisas exceto pecado. Não podia pecar, porque é Deus. Mas em todas as outras coisas era como nós: tinha um corpo humano, uma alma humana, uma vontade humana. Podemos entender isto com nossa razão? Dificilmente. Como disse São João Crisóstomo: "Sei que o Filho de Deus Se fez homem, mas como, não sei." Deus, que produziu o universo do nada, também causou a Encarnação.
+> "E o Verbo se fez carne e habitou entre nós" (João 1:14). Cristo como homem era como nós em todas as coisas exceto pecado. Não podia pecar, porque é Deus. Mas em todas as outras coisas era como nós: tinha um corpo humano, uma alma humana, uma vontade humana. Podemos entender isto com nossa razão? Dificilmente. Como disse São João Crisóstomo: "Sei que o Filho de Deus Se fez homem, mas como, não sei." Deus, que produziu o universo do nada, também causou a Encarnação.
 
 
 **Como foi o Filho de Deus feito homem?**
@@ -39,11 +39,11 @@
 
 — O Filho de Deus foi concebido e feito homem no Dia da Anunciação, o dia no qual o Anjo Gabriel anunciou à Santíssima Virgem Maria que ela seria a Mãe de Deus.
 
-1. Em Nazaré da Galileia vivia a Santíssima Virgem Maria. Um dia o Arcanjo Gabriel apareceu-lhe e disse: "Salve, cheia de graça, o Senhor é contigo: bendita és tu entre as mulheres" (Luc. 1: 28).
+1. Em Nazaré da Galileia vivia a Santíssima Virgem Maria. Um dia o Arcanjo Gabriel apareceu-lhe e disse: "Salve, cheia de graça, o Senhor é contigo: bendita és tu entre as mulheres" (Luc. 1:28).
 
 > Maria ficou surpresa. O anjo disse: "Não temas, Maria, pois achaste graça com Deus. E eis que conceberás em teu ventre, e darás à luz um Filho: e chamarás Seu nome Jesus." Este evento é chamado a Anunciação comemorada pela festa em 25 de março.
 
-2. Maria sabia que o anjo era enviado por Deus. Respondeu: "Eis aqui a serva do Senhor: faça-se em mim segundo tua palavra" (Luc. 1: 38).
+2. Maria sabia que o anjo era enviado por Deus. Respondeu: "Eis aqui a serva do Senhor: faça-se em mim segundo tua palavra" (Luc. 1:38).
 
 > Com estas palavras da Santíssima Virgem, Jesus Cristo tornou-Se homem em seu ventre, e a encarnação foi realizada.
 

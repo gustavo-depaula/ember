@@ -15,15 +15,15 @@
 
 2. Agradecer a Deus por Seus muitos favores.
 
-> Na Missa, Jesus Cristo o Filho de Deus fala por nós a Seu Pai eterno; temos um advogado com Ele. Podemos falhar mas falar bem, tendo este instrumento de ação de graças?
+> Na Missa, Jesus Cristo o Filho de Deus fala por nós a Seu Pai eterno; temos um advogado com Ele. Como poderíamos deixar de falar bem, tendo este instrumento de ação de graças?
 
 3. Pedir a Deus por Suas bênçãos.
 
-> A Santa Missa pode ser oferecida pelos vivos de qualquer credo. Pode ser oferecida por católicos falecidos. O padre não pode preferir Missa publicamente por não-católicos falecidos, mas as pessoas ouvindo a Missa podem fazê-lo. Pessoas ouvindo Missa podem ter suas próprias intenções privadas para oferecê-la, além da intenção do padre. Missa pode ser oferecida por qualquer intenção exceto aquela que é em si má.
+> A Santa Missa pode ser oferecida pelos vivos de qualquer credo. Pode ser oferecida por católicos falecidos. O padre não pode oferecer a Missa publicamente por não-católicos falecidos, mas as pessoas ouvindo a Missa podem fazê-lo. Pessoas ouvindo Missa podem ter suas próprias intenções privadas para oferecê-la, além da intenção do padre. Missa pode ser oferecida por qualquer intenção exceto aquela que é em si má.
 
 4. Satisfazer a justiça de Deus pelos pecados cometidos contra Ele.
 
-> A Missa reconcilia o homem com Deus, como aprendemos das palavras de Cristo proferidas na Última Ceia, "Este é o meu sangue, que está sendo derramado por muitos para a remissão dos pecados" (Mat. 26: 28). Não somos redimidos todos de novo pela Missa, pois fomos redimidos uma vez na cruz; mas a Missa aplica a nossas almas os frutos da redenção ganhos para nós na cruz. Como um sacrifício propiciatório perfeito, a Missa satisfaz a justiça de Deus.
+> A Missa reconcilia o homem com Deus, como aprendemos das palavras de Cristo proferidas na Última Ceia, "Este é o meu sangue, que está sendo derramado por muitos para a remissão dos pecados" (Mat. 26:28). Não somos redimidos todos de novo pela Missa, pois fomos redimidos uma vez na cruz; mas a Missa aplica a nossas almas os frutos da redenção ganhos para nós na cruz. Como um sacrifício propiciatório perfeito, a Missa satisfaz a justiça de Deus.
 
 
 **Que frutos são derivados da Santa Missa?**

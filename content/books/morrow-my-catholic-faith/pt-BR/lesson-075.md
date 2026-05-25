@@ -15,15 +15,15 @@
 
 > Apontando para Cristo, São João Batista disse: "Eis o Cordeiro de Deus, que tira o pecado do mundo!"
 
-2. Podemos obter perdão de pecado, porque Cristo o Redentor mereceu perdão para nós por Sua morte. A Igreja tem poder de remir pecados através dos méritos de Jesus Cristo, "em Quem temos nossa redenção, a remissão de nossos pecados" (Col. 1: 14).
+2. Podemos obter perdão de pecado, porque Cristo o Redentor mereceu perdão para nós por Sua morte. A Igreja tem poder de remir pecados através dos méritos de Jesus Cristo, "em Quem temos nossa redenção, a remissão de nossos pecados" (Col. 1:14).
 
-> Durante a vida, Cristo realmente perdoou pecado. Por exemplo, perdoou Maria Madalena, o paralítico, e o bom ladrão. Ao curar o paralítico, disse: "Mas para que saibais que o Filho do Homem tem poder na terra para perdoar pecados"—então disse ao paralítico—"Levanta-te, toma teu leito e vai para tua casa" (Mat. 9: 6).
+> Durante a vida, Cristo realmente perdoou pecado. Por exemplo, perdoou Maria Madalena, o paralítico, e o bom ladrão. Ao curar o paralítico, disse: "Mas para que saibais que o Filho do Homem tem poder na terra para perdoar pecados"—então disse ao paralítico—"Levanta-te, toma teu leito e vai para tua casa" (Mat. 9:6).
 
-3. Cristo deu a Seus Apóstolos e discípulos e seus sucessores poder de perdoar pecados. Disse: "Recebei o Espírito Santo; cujos pecados perdoardes, ser-lhes-ão perdoados; e cujos pecados retiverdes, serão retidos" (João 20: 22-23).
+3. Cristo deu a Seus Apóstolos e discípulos e seus sucessores poder de perdoar pecados. Disse: "Recebei o Espírito Santo; cujos pecados perdoardes, ser-lhes-ão perdoados; e cujos pecados retiverdes, serão retidos" (João 20:22-23).
 
 > Este poder de perdoar pecados não foi dado aos Apóstolos apenas, já que homens de idades posteriores precisariam de perdão tanto quanto homens dos tempos Apostólicos. O poder, portanto, deve também permanecer nos sucessores dos Apóstolos.
 
-4. É verdade, como afirmam os inimigos da Igreja, que o homem não pode perdoar pecados. O homem, por seu próprio poder individual, nunca pode perdoar o menor pecado, mas pode perdoar todos os pecados, com o poder e autoridade que Deus lhe deu, como ministro de Deus, agindo no lugar de Deus. Ou está Deus limitado porque o homem é pecador? "Estas coisas vos escrevo para que não pequeis. Mas se alguém pecar, temos um advogado junto ao Pai, Jesus Cristo o justo" (1 João 2: 1).
+4. É verdade, como afirmam os inimigos da Igreja, que o homem não pode perdoar pecados. O homem, por seu próprio poder individual, nunca pode perdoar o menor pecado, mas pode perdoar todos os pecados, com o poder e autoridade que Deus lhe deu, como ministro de Deus, agindo no lugar de Deus. Ou está Deus limitado porque o homem é pecador? "Estas coisas vos escrevo para que não pequeis. Mas se alguém pecar, temos um advogado junto ao Pai, Jesus Cristo o justo" (1 João 2:1).
 
 > Desde o próprio princípio a Igreja tem exercido este poder, através dos sacramentos da Penitência e Batismo, e mesmo através da Extrema-Unção.
 
@@ -55,7 +55,7 @@
 
 2. Um vício é facilmente adquirido. Esta é uma razão pela qual devemos ser muito cuidadosos em não cometer pecado. Se devermos ser tão infelizes quanto a cair em pecado, devemos imediatamente cortar a possibilidade de formar vício por contrição, penitência, e uma resolução de não pecar novamente.
 
-> Após a primeira queda, alguém mais prontamente cede à próxima tentação. Cada cedência enfraquece a vontade para a próxima. Assim passo a passo alguém que começa um pecado logo se encontrará escravo de um hábito vicioso. "Quem despreza as pequenas coisas cairá pouco a pouco" (Eclo. 19: 1).
+> Após a primeira queda, alguém mais prontamente cede à próxima tentação. Cada cedência enfraquece a vontade para a próxima. Assim, passo a passo alguém que começa um pecado logo se encontrará escravo de um hábito vicioso. "Quem despreza as pequenas coisas cairá pouco a pouco" (Eclo. 19:1).
 
 3. Um vício é fácil de romper no princípio, difícil de romper quando plenamente formado, mas sempre capaz de ser vencido por uma vontade resoluta com a graça de Deus.
 
@@ -66,11 +66,11 @@
 
 — Sim, todos os pecados, por maiores que sejam, podem ser perdoados, através dos méritos infinitos de Cristo, Que é Deus.
 
-> Ao pecador arrependido é dito na Escritura: "Se vossos pecados forem como escarlate, serão tornados brancos como a neve" (Is. 1: 17).
+> Ao pecador arrependido é dito na Escritura: "Se vossos pecados forem como escarlate, serão tornados brancos como a neve" (Is. 1:17).
 
 1. Deus está sempre pronto a perdoar nossos pecados, não importa quão grandes ou quantos sejam, se estivermos verdadeiramente arrependidos deles. Nenhum pecado atual pode ser perdoado sem dor e arrependimento da parte do pecador.
 
-> Nosso Senhor disse: "Digo-vos que, assim, haverá alegria no céu por um pecador que se arrepende, mais do que por noventa e nove justos que não precisam de arrependimento" (Luc. 15: 7).
+> Nosso Senhor disse: "Digo-vos que, assim, haverá alegria no céu por um pecador que se arrepende, mais do que por noventa e nove justos que não precisam de arrependimento" (Luc. 15:7).
 
 2. O pecado contra o Espírito Santo que Cristo nos advertiu não seria perdoado no céu ou na terra é a impenitência persistente, o pecado daquele que rejeita conversão e morre em pecado mortal. Aquele culpado deste pecado nunca pode obter perdão de Deus, porque na hora da morte continua a empurrar Deus para longe de si.
 

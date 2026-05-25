@@ -13,11 +13,11 @@
 
 1. The proud man overestimates himself, and believes himself the source of his own excellence. The virtue of humility, which disposes us to acknowledge our limitations, is opposed to pride.
 
-> Some are proud of their appearance; others of their family, talents, position, money, and the virtues they imagine, they possess. Even if we do have excellent abilities or possessions, we should not be proud of them, remembering that they all come from God. Instead, we should be humbly thankful, and see in what way we can make a return to God for such gifts. "Every proud man is an abomination to the Lord" (Prov. 16: 5).
+> Some are proud of their appearance; others of their family, talents, position, money, and the virtues they imagine, they possess. Even if we do have excellent abilities or possessions, we should not be proud of them, remembering that they all come from God. Instead, we should be humbly thankful, and see in what way we can make a return to God for such gifts. "Every proud man is an abomination to the Lord" (Prov. 16:5).
 
 2. Pride may be called the mother of all vices, for most sins can be traced to it. From pride arise ambition, vanity, presumption, disobedience, hypocrisy, obstinacy in sin.
 
-> "For pride is the beginning of all sin: he that holdeth it shall be filled with maledictions and it shall ruin him in the end" (Ecclus. 10: 15). "Never suffer pride to reign in thy mind or in thy words, for from it all perdition took its beginning" (Tob. 4: 14). Pride was the sin of our First Parents, who wanted to be as great as God. It was the sin of King Pharaoh; he was so proud that in spite of the miracles Moses worked, he refused to be convinced. For this God "hardened his heart" (Exod. 9: 12); that is, God permitted him to close the window of his soul against the grace of the Holy Ghost, "Because thou hast rejected the word of the Lord, the Lord has rejected thee" (1 Kings 15: 26).
+> "For pride is the beginning of all sin: he that holdeth it shall be filled with maledictions and it shall ruin him in the end" (Ecclus. 10:15). "Never suffer pride to reign in thy mind or in thy words, for from it all perdition took its beginning" (Tob. 4:14). Pride was the sin of our First Parents, who wanted to be as great as God. It was the sin of King Pharaoh; he was so proud that in spite of the miracles Moses worked, he refused to be convinced. For this God "hardened his heart" (Exod. 9:12); that is, God permitted him to close the window of his soul against the grace of the Holy Ghost, "Because thou hast rejected the word of the Lord, the Lord has rejected thee" (1 Kings 15:26).
 
 3. The proud man tries to attract notice and praise, strives after honours, distinctions, and other worldly favours.
 
@@ -25,7 +25,7 @@
 
 4. God hates pride, and punishes it severely. He often punishes secret pride by withdrawing His assistance from the proud man. And deprived of God's aid, the proud man often falls into grievous sins leading to his humiliation.
 
-> "The beginning of the pride of man is to fall off from God" (Ecclus. 10: 14). "God resists the proud" (1 Pet. 5: 5). "Everyone who exalts himself shall be humbled" (Luke 14: 11). Thus the proud King Herod was eaten up by worms and died. Thus, the proud Roman Empire fell and became nothing. Our Lord pointed out the pride in the heart of the Pharisee, and praised the humble publican.
+> "The beginning of the pride of man is to fall off from God" (Ecclus. 10:14). "God resists the proud" (1 Pet. 5:5). "Everyone who exalts himself shall be humbled" (Luke 14:11). Thus the proud King Herod was eaten up by worms and died. Thus, the proud Roman Empire fell and became nothing. Our Lord pointed out the pride in the heart of the Pharisee, and praised the humble publican.
 
 5. If we, however, despise sin as beneath us, that is not pride, but a virtuous self respect.
 
@@ -38,11 +38,11 @@
 
 1. Covetousness is also called avarice. A covetous person strives for more riches than he requires, and is never content, however much he already possesses.
 
-> He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one setteth even his own soul to sale" (Ecclus. 10: 10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
+> He greedily clings to what he has, and is stingy and hates to give anything away. For money, Judas betrayed the Lord. "There is not a more wicked thing than to love money; for such a one setteth even his own soul to sale" (Ecclus. 10:10). "Take heed and guard yourselves from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12:15). We meet with covetous persons among both rich and poor. Often among the rich, there is money without avarice, and among the poor, avarice without money.
 
 2. From covetousness arise hard-heartedness towards the poor, lying, cheating, usury, defrauding labourers of wages, and other sins.
 
-> "Those who seek to become rich fall into temptation and a snare ... For covetousness is the root of all evils" (1 Tim. 6: 9-10). It destroys faith, for the avaricious are so absorbed in money-getting that they have no time for their spiritual welfare.
+> "Those who seek to become rich fall into temptation and a snare ... For covetousness is the root of all evils" (1 Tim. 6:9-10). It destroys faith, for the avaricious are so absorbed in money-getting that they have no time for their spiritual welfare.
 
 3. To provide for one's future and that of one's family is praiseworthy. To avoid waste and extravagance is a virtue.
 
@@ -59,7 +59,7 @@
 
 1. Lust defiles a man as no other sin does. It degrades man to the level of the beast. Pride is the sin committed by Lucifer, avarice by Judas, and lust by the brute.
 
-> Of all vices, lust is most severely punished on earth. It leads to loss of health and reason. It was the cause of the Deluge. It was the cause for the destruction with fire and brimstone of Sodom and Gomorrha. "But immorality and every uncleanness or covetousness, let it not even be named among you, as becomes saints" (Ephes. 5: 3).
+> Of all vices, lust is most severely punished on earth. It leads to loss of health and reason. It was the cause of the Deluge. It was the cause for the destruction with fire and brimstone of Sodom and Gomorrha. "But immorality and every uncleanness or covetousness, let it not even be named among you, as becomes saints" (Ephes. 5:3).
 
 2. Those tempted to lust should remember that man was made to the image and likeness of God. Will they so rashly destroy that image, to make themselves like to beasts? In fact, beasts are better than lustful men, for beasts act in that manner from instinct; they have no soul like God.
 
@@ -67,6 +67,6 @@
 
 3. From lust spring jealousy, hatred, murder, loss of faith, despair, instability, worldliness, selfishness, and other sins.
 
-> The consequences of lust are seen in the case of Henry VIII. It was the cause of his apostasy, and his apostasy dragged an entire nation into similar apostasy. "For know this and understand, that no fornicator, or unclean person, or covetous one (for that is idolatry) has any inheritance in the kingdom of Christ and God" (Ephes. 5: 5) (See Chapter 44, on Humility, Liberality, Chastity)
+> The consequences of lust are seen in the case of Henry VIII. It was the cause of his apostasy, and his apostasy dragged an entire nation into similar apostasy. "For know this and understand, that no fornicator, or unclean person, or covetous one (for that is idolatry) has any inheritance in the kingdom of Christ and God" (Ephes. 5:5) (See Chapter 44, on Humility, Liberality, Chastity)
 
 4. Sodomy, or sins against purity by persons of the same sex, is a form of lust. Sodomy is worse than lust because it is also contrary to nature.

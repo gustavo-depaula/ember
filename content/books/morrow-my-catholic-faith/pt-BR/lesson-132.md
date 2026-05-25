@@ -15,7 +15,7 @@
 
 2. A Missa não é uma mera lembrança ou memorial do Calvário; ela realmente renova, na consagração separada do pão e vinho, a morte do Senhor, a separação de Seu Corpo e Sangue.
 
-> Na Última Ceia, após Cristo ter mudado o pão e vinho em Seu Corpo e Sangue, Ele disse: "Fazei isto em memória de Mim" (Luc. 22: 19). E São Paulo acrescenta: "Pois todas as vezes que comerdes este pão e beberdes o cálice, anunciareis a morte do Senhor, até que Ele venha" (1 Cor. 11: 26). Na Última Ceia, Cristo instituiu um sacrifício visível, a Missa, para renovar o sacrifício sangrento que Ele consumou na cruz.
+> Na Última Ceia, após Cristo ter mudado o pão e vinho em Seu Corpo e Sangue, Ele disse: "Fazei isto em memória de Mim" (Luc. 22:19). E São Paulo acrescenta: "Pois todas as vezes que comerdes este pão e beberdes o cálice, anunciareis a morte do Senhor, até que Ele venha" (1 Cor. 11:26). Na Última Ceia, Cristo instituiu um sacrifício visível, a Missa, para renovar o sacrifício sangrento que Ele consumou na cruz.
 
 3. O sacerdote principal em cada Missa é Jesus Cristo, que oferece a Seu Pai celestial, através do ministério de Seu padre ordenado, Seu corpo e sangue que foram sacrificados na cruz.
 

@@ -9,7 +9,7 @@
 
 — Segundo a Bíblia, o corpo do primeiro homem foi feito por Deus do limo da terra.
 
-> "E o Senhor Deus formou o homem do limo da terra" (Gên. 2: 7).
+> "E o Senhor Deus formou o homem do limo da terra" (Gên. 2:7).
 
 1. O significado natural e óbvio destas palavras do Livro de Gênesis é que o corpo de Adão foi feito diretamente por Deus de substância criada. Tal é a interpretação Católica tradicional.
 
@@ -28,7 +28,7 @@
 
 2. Os cientistas originalmente ensinavam evolução biológica por seleção natural e buscavam prova num chamado "elo perdido". Nenhum elo perdido foi encontrado. Todos os esqueletos descobertos foram provados ser ou homens genuínos ou macacos reais.
 
-> Alguns evolucionistas sustentam que o macaco e o homem ambos se desenvolveram de um ancestral comum. O primeiro homem de Darwin era um macaco altamente desenvolvido. "O homem quando estava em honra não entendeu; foi comparado aos animais insensatos, e feito semelhante a eles" (Sl. 48: 21).
+> Alguns evolucionistas sustentam que o macaco e o homem ambos se desenvolveram de um ancestral comum. O primeiro homem de Darwin era um macaco altamente desenvolvido. "O homem quando estava em honra não entendeu; foi comparado aos animais insensatos, e feito semelhante a eles" (Sl. 48:21).
 
 3. A biologia molecular substituiu a seleção natural pela teoria da mutação gênica como mecanismo da evolução. A descoberta de grande complexidade no menor nível da vida nas coisas vivas mais simples ilustrou uma Inteligência Projetista. Esta conclusão é francamente recusada pela comunidade científica.
 
@@ -45,7 +45,7 @@
 
 1. Desde o princípio, Deus criou cada alma humana do nada.
 
-> Assim Ele criou a alma de Adão, quando após formar seu corpo, Ele "soprou em seu rosto o sopro da vida, e o homem tornou-se alma vivente" (Gên. 2: 7). Cada alma humana é criada no mesmo momento em que se vem à vida, na concepção.
+> Assim Ele criou a alma de Adão, quando após formar seu corpo, Ele "soprou em seu rosto o sopro da vida, e o homem tornou-se alma vivente" (Gên. 2:7). Cada alma humana é criada no mesmo momento em que se vem à vida, na concepção.
 
 2. A alma do homem não é produzida de alguma outra alma ou matéria. É espiritual e simples. Não existia antes da pessoa viver. Não veio a existir depois que já estava viva. A vida do homem deve-se à sua alma. Assim que a alma deixa o corpo, a vida cessa.
 

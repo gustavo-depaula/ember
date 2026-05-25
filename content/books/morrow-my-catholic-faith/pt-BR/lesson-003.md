@@ -2,7 +2,7 @@
 
 ![](../images/lesson-003.webp)
 
-*Deus criou o mundo em seis dias. No primeiro dia, fez a luz e as trevas, o dia e a noite. No segundo dia, fez o firmamento e dividiu as águas. No terceiro dia da Criação, Deus fez aparecer a terra seca fora das águas, e ordenou que as plantas brotassem da terra. No quarto dia, Deus fez o sol, a lua e as estrelas. No quinto dia, fez os répteis, as aves e os peixes. No sexto dia, Deus fez os animais e, finalmente, o homem. Então no sétimo dia, Deus parou de trabalhar: Ele descansou. "Os céus manifestam a glória de Deus." (Sl. 18: 2).*
+*Deus criou o mundo em seis dias. No primeiro dia, fez a luz e as trevas, o dia e a noite. No segundo dia, fez o firmamento e dividiu as águas. No terceiro dia da Criação, Deus fez aparecer a terra seca fora das águas, e ordenou que as plantas brotassem da terra. No quarto dia, Deus fez o sol, a lua e as estrelas. No quinto dia, fez os répteis, as aves e os peixes. No sexto dia, Deus fez os animais e, finalmente, o homem. Então no sétimo dia, Deus parou de trabalhar: Ele descansou. "Os céus manifestam a glória de Deus." (Sl. 18:2).*
 
 (PRIMEIRO ARTIGO DO CREDO DOS APÓSTOLOS)
 
@@ -13,9 +13,9 @@
 
 1. Deus fez tudo — homens, animais, plantas, planetas, estrelas, tudo. Não só isso; Deus mantém tudo na existência. Se Ele retirasse Sua mão do que criou, tudo desapareceria no nada mais rápido que o pensamento. Sem uma causa, não poderia haver efeitos. Sem Deus, poderia haver alguma coisa?
 
-> "Nele vivemos, nos movemos e somos" (Atos 17: 28). "Nele foram criadas todas as coisas" (Col. 1: 16).
+> "Nele vivemos, nos movemos e somos" (Atos 17:28). "Nele foram criadas todas as coisas" (Col. 1:16).
 
-> "É Ele quem dá a todos os homens vida e respiração e todas as coisas" (Atos 17: 25).
+> "É Ele quem dá a todos os homens vida e respiração e todas as coisas" (Atos 17:25).
 
 2. As tradições de todas as nações e raças apoiam a ideia da existência de Deus. Todas as nações e povos têm uma convicção interior da existência de Deus; seu intelecto apoia sua confiança instintiva.
 
@@ -26,7 +26,7 @@
 
 — Quando dizemos que Deus é o Ser Supremo, queremos dizer que Ele está acima de todas as criaturas, o Espírito auto-existente e infinitamente perfeito.
 
-> "Eu sou o primeiro e Eu sou o último, e além de Mim não há deus" (Is. 44: 6). "'Eu sou o Alfa e o Ômega, o princípio e o fim', diz o Senhor Deus, 'o que é e o que era e o que há de vir'" (Apoc. 1: 8).
+> "Eu sou o primeiro e Eu sou o último, e além de Mim não há deus" (Is. 44:6). "'Eu sou o Alfa e o Ômega, o princípio e o fim', diz o Senhor Deus, 'o que é e o que era e o que há de vir'" (Apoc. 1:8).
 
 
 **O que é um espírito?**
@@ -35,7 +35,7 @@
 
 1. Deus é um espírito puro. Como Deus não tem corpo, quando falamos de Seus olhos e Suas mãos, falamos apenas de maneira figurada, para nos tornarmos mais compreensíveis segundo nosso modo humano de falar.
 
-> Nosso Senhor disse à mulher samaritana no poço: "Deus é espírito; e os que O adoram devem adorá-Lo em espírito e em verdade" (João 4: 24). Contudo Deus frequentemente assumiu formas visíveis, para ser visto pelos homens. Assim Ele Se mostrou na forma de uma pomba no batismo de Jesus, e na forma de línguas de fogo no Pentecostes. Deus não é uma pomba nem línguas de fogo; Ele apenas assumiu aquelas formas para ser visto por olhos mortais.
+> Nosso Senhor disse à mulher samaritana no poço: "Deus é espírito; e os que O adoram devem adorá-Lo em espírito e em verdade" (João 4:24). Contudo Deus frequentemente assumiu formas visíveis, para ser visto pelos homens. Assim Ele Se mostrou na forma de uma pomba no batismo de Jesus, e na forma de línguas de fogo no Pentecostes. Deus não é uma pomba nem línguas de fogo; Ele apenas assumiu aquelas formas para ser visto por olhos mortais.
 
 2. Anjos e demônios são espíritos puros. Os homens são apenas parcialmente espirituais, porque têm um corpo. A alma do homem é um espírito, absolutamente independente da matéria, e pelas criaturas indestrutível.
 
@@ -46,7 +46,7 @@
 
 — Quando dizemos que Deus é auto-existente queremos dizer que Ele não deve Sua existência a nenhum outro ser.
 
-1. Deus nos fez, mas quem fez Deus? Deus disse a Moisés: "Eu sou o que sou" (Êx. 3: 14). Ele existe de Si mesmo, não derivando Seu Ser de nenhum outro. Deus é a Primeira Causa.
+1. Deus nos fez, mas quem fez Deus? Deus disse a Moisés: "Eu sou o que sou" (Êx. 3:14). Ele existe de Si mesmo, não derivando Seu Ser de nenhum outro. Deus é a Primeira Causa.
 
 > Todos os outros seres e coisas devem Sua existência a Deus. Em comparação com Ele, não somos nada.
 
@@ -59,11 +59,11 @@
 
 — Quando dizemos que Deus é infinitamente perfeito, queremos dizer que Ele tem todas as perfeições sem limite.
 
-> Deus é imenso e eterno, "um oceano sem margem ou fundo", o Ser imutável que só Ele mesmo pode compreender plenamente: "De Sua grandeza não há fim" (Sl. 144: 3).
+> Deus é imenso e eterno, "um oceano sem margem ou fundo", o Ser imutável que só Ele mesmo pode compreender plenamente: "De Sua grandeza não há fim" (Sl. 144:3).
 
 1. Deus é tão grande e maravilhoso que não precisa de nada para Se tornar maior ou mais maravilhoso. Ele possui todas as perfeições, incontáveis, inumeráveis, ilimitadas, sem fronteiras.
 
-> Deus não pode ser melhor, mais santo ou mais perfeito do que já é. Está no ápice da perfeição, o incriado, o Infinito. "O céu e o céu dos céus não Te podem conter" (3 Reis 8: 27).
+> Deus não pode ser melhor, mais santo ou mais perfeito do que já é. Está no ápice da perfeição, o incriado, o Infinito. "O céu e o céu dos céus não Te podem conter" (3 Reis 8:27).
 
 2. Tão perfeito é Deus que é infinitamente incompreensível, incapaz de ser completamente compreendido. A razão pode verificar a revelação que Deus fez de Si mesmo. Mas quando fazemos nossa razão ou nossas emoções a autoridade final, nos fazemos nosso próprio deus, e fechamos o caminho para o sobrenatural, o Infinito.
 

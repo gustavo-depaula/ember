@@ -37,7 +37,7 @@
 
 1. Anjos são os seres mais excelentes criados por Deus. São mais nobres em natureza que os homens. Sabem mais, e têm maior poder. De todas as criaturas de Deus, os anjos mais O assemelham.
 
-> Podemos inferir o conhecimento dos anjos das palavras de Nosso Senhor: "Mas daquele dia (o dia do Juízo) e hora ninguém sabe, nem mesmo os anjos do céu, mas só o Pai" (Mat. 24: 36). O poder dos anjos foi mostrado no Egito quando um destruiu todos os primogênitos dos egípcios; outro anjo destruiu as hostes do Rei Assírio, por blasfemar contra Deus.
+> Podemos inferir o conhecimento dos anjos das palavras de Nosso Senhor: "Mas daquele dia (o dia do Juízo) e hora ninguém sabe, nem mesmo os anjos do céu, mas só o Pai" (Mat. 24:36). O poder dos anjos foi mostrado no Egito quando um destruiu todos os primogênitos dos egípcios; outro anjo destruiu as hostes do Rei Assírio, por blasfemar contra Deus.
 
 2. Os anjos não foram criados iguais. Eles se classificam segundo a quantidade de dons dados, e o trabalho que lhes foi designado.
 
@@ -54,14 +54,14 @@
 
 2. Nesta prova, muitos anjos, usando seu livre-arbítrio, recusaram submeter-se a Deus; por este pecado grave foram punidos.
 
-> "Porque Deus não poupou os anjos quando pecaram, mas arrastou-os para baixo com cadeias infernais" (2 Ped. 2: 4). Onde quer que os diabos tenham posteriormente permissão de ir, tinham de certa forma seu inferno com eles, pois estavam para sempre privados do amor de Deus.
+> "Porque Deus não poupou os anjos quando pecaram, mas arrastou-os para baixo com cadeias infernais" (2 Ped. 2:4). Onde quer que os diabos tenham posteriormente permissão de ir, tinham de certa forma seu inferno com eles, pois estavam para sempre privados do amor de Deus.
 
 
 **O que aconteceu aos anjos que permaneceram fiéis a Deus?**
 
 — Os anjos que permaneceram fiéis a Deus entraram na felicidade eterna do céu, e estes são chamados anjos bons.
 
-> "Vede que não desprezeis a um destes pequeninos; pois Eu vos digo que os seus anjos nos céus veem sempre a face de Meu Pai" (Mat. 18: 10).
+> "Vede que não desprezeis a um destes pequeninos; pois Eu vos digo que os seus anjos nos céus veem sempre a face de Meu Pai" (Mat. 18:10).
 
 1. Os anjos bons contemplam a face de Deus continuamente, O louvam e glorificam, e são perfeitamente felizes em Sua presença.
 
@@ -74,7 +74,7 @@
 
 — Os anjos bons nos ajudam orando por nós, agindo como mensageiros de Deus para nós, e servindo como nossos anjos da guarda.
 
-> Nosso Senhor mesmo disse das criancinhas: "Vede que não desprezeis a um destes pequeninos; pois Eu vos digo que os seus anjos nos céus veem sempre a face de Meu Pai que está nos céus" (Mat. 18: 10).
+> Nosso Senhor mesmo disse das criancinhas: "Vede que não desprezeis a um destes pequeninos; pois Eu vos digo que os seus anjos nos céus veem sempre a face de Meu Pai que está nos céus" (Mat. 18:10).
 
 1. Os anjos bons são mensageiros de Deus, e frequentemente revelam a vontade de Deus ao homem.
 
@@ -95,4 +95,4 @@
 
 2. Nossos anjos da guarda põem bons pensamentos em nossas mentes, movendo nossa vontade para o que é bom. Protegem-nos nos perigos da alma e do corpo. Oferecem nossas orações e boas obras a Deus. Oram por nós. Ajudam-nos em nosso trabalho e necessidades.
 
-> "Deu ordem a Seus anjos a teu respeito, para guardarem-te em todos os teus caminhos" (Sl. 90: 11). Por exemplo, anjos mantiveram Daniel a salvo na cova dos leões, e os três jovens na fornalha ardente. Frequentemente ouvimos de criancinhas encontrando acidentes e escapando ilesas. Mas a obra principal de nossos anjos da guarda é manter-nos a salvo do demônio.
+> "Deu ordem a Seus anjos a teu respeito, para guardarem-te em todos os teus caminhos" (Sl. 90:11). Por exemplo, anjos mantiveram Daniel a salvo na cova dos leões, e os três jovens na fornalha ardente. Frequentemente ouvimos de criancinhas encontrando acidentes e escapando ilesas. Mas a obra principal de nossos anjos da guarda é manter-nos a salvo do demônio.

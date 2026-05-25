@@ -13,7 +13,7 @@
 
 > Holy water is placed at the doors of all churches and chapels, for us to use when we go in and out. We should also have it at the doors of all our rooms in our homes. Holy water is used in many blessings of the Church, for the dead, for the consecration of churches, etc.
 
-2. Candles are used in the Church as much as holy water. They stand for Christ, the "Light of the World." Candles are blessed on the Feast of the Purification or Candlemas Day, in memory of Holy Simeon's words, calling Christ the "light of revelation to the Gentiles" (Luke 2: 32). Candles are an enduring prayer, raising their appeal to heaven in our behalf.
+2. Candles are used in the Church as much as holy water. They stand for Christ, the "Light of the World." Candles are blessed on the Feast of the Purification or Candlemas Day, in memory of Holy Simeon's words, calling Christ the "light of revelation to the Gentiles" (Luke 2:32). Candles are an enduring prayer, raising their appeal to heaven in our behalf.
 
 > When we burn candles by the corpses or graves of our dead, we pray that they may be admitted soon into the light of heaven, the sight of God. We burn candles before images of the saints, as a symbol of the virtues with which they were endowed, and as a supplication for help through their intercession. The candle lighted at our Baptism denotes the light of the Holy Ghost, which we then receive, and recalls the words of Christ, "So let your light shine before men in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5:16). On the altar, the candles signify the presence of Christ, the Light of the World, Who comes down on it at the consecration.
 

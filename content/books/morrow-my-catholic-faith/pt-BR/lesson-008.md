@@ -2,7 +2,7 @@
 
 ![](../images/lesson-008.webp)
 
-*A Bíblia é o melhor Livro do mundo. É a Palavra de Deus. É melhor que qualquer outro livro que jamais tenha sido escrito ou jamais será escrito. Os católicos não apenas têm permissão, mas são instados, a ler a Bíblia. Devem ler uma versão aprovada pela Igreja Católica. Bíblias Católicas têm as explicações necessárias para a orientação dos fiéis. Para encontrar um texto na Bíblia, como Mat. 16: 26, volte ao Evangelho de São Mateus, Capítulo 16, versículo 26. Todos os textos são encontrados da mesma maneira.*
+*A Bíblia é o melhor Livro do mundo. É a Palavra de Deus. É melhor que qualquer outro livro que jamais tenha sido escrito ou jamais será escrito. Os católicos não apenas têm permissão, mas são instados, a ler a Bíblia. Devem ler uma versão aprovada pela Igreja Católica. Bíblias Católicas têm as explicações necessárias para a orientação dos fiéis. Para encontrar um texto na Bíblia, como Mat. 16:26, volte ao Evangelho de São Mateus, Capítulo 16, versículo 26. Todos os textos são encontrados da mesma maneira.*
 
 
 **O que é a Sagrada Escritura, ou a Bíblia?**
@@ -11,7 +11,7 @@
 
 1. Os setenta e dois livros sagrados, juntos formando a Bíblia, foram compostos por quarenta escritores em três línguas diferentes: hebraico, aramaico e grego. O período de composição abrange pelo menos 1.300 anos, de Moisés a São João Evangelista.
 
-> "Deus, que outrora falou muitas vezes e de muitos modos aos nossos pais pelos profetas, nestes últimos tempos nos falou pelo Filho" (Heb. 1: 1).
+> "Deus, que outrora falou muitas vezes e de muitos modos aos nossos pais pelos profetas, nestes últimos tempos nos falou pelo Filho" (Heb. 1:1).
 
 2. Os escritores foram inspirados por Deus. Por uma influência sobrenatural, Deus iluminou suas mentes e moveu suas vontades para escrever tudo o que Ele desejava, e apenas aquilo. Agiram como instrumentos livres de Deus, que os dirigiu e preservou do erro.
 
@@ -24,7 +24,7 @@
 
 1. Um autor não é o estenógrafo que escreve o que lhe é dito, mas aquele que diz o que deve ser escrito. Como Deus é o Autor, a Bíblia não pode conter nenhum erro.
 
-> "Toda Escritura é inspirada por Deus" (2 Tim. 3: 16). Copistas e impressores, porém, podem e cometem erros ao copiar a Bíblia.
+> "Toda Escritura é inspirada por Deus" (2 Tim. 3:16). Copistas e impressores, porém, podem e cometem erros ao copiar a Bíblia.
 
 2. Como a Bíblia é a Palavra de Deus, deve ser tratada com a maior reverência.
 

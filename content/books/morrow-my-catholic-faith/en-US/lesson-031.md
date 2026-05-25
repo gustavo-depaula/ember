@@ -46,7 +46,7 @@ Most homes also set up a decorated Christmas tree. It is a reminder of the tree 
 
 —The following incidents in Our Lord's life were closely connected with the Nativity: the Circumcision, the Presentation, and the flight to Egypt. 1. The Child received the name Jesus when He was eight days old. He was circumcised, according to the custom of the Jews. At the Circumcision, Jesus began His role of Mediator between God and man, shedding His blood for the first time for us.
 
-> "Thou shalt call his name Jesus, for He shall save his people from their sins" (Matt. 1: 21). "Therefore God . . . has bestowed upon him the name that is above every name, so that at the name of Jesus, every knee should bend, of those in heaven, on earth, and under the earth" (Phil. 2: 9,10). "If you ask the Father anything in my name, he will give it to you" (John 16: 23). The feast of the Circumcision is celebrated on New Year's Day. Thus the Church teaches us to begin everything in the name of Jesus.
+> "Thou shalt call his name Jesus, for He shall save his people from their sins" (Matt. 1:21). "Therefore God . . . has bestowed upon him the name that is above every name, so that at the name of Jesus, every knee should bend, of those in heaven, on earth, and under the earth" (Phil. 2:9,10). "If you ask the Father anything in my name, he will give it to you" (John 16:23). The feast of the Circumcision is celebrated on New Year's Day. Thus the Church teaches us to begin everything in the name of Jesus.
 
 2. When Jesus was forty days old, His Mother presented Him in the Temple at Jerusalem. In imitation, though the rite is essentially different, mothers today after childbirth seek the blessing of the Church in a thanksgiving ceremony called "church ing".
 

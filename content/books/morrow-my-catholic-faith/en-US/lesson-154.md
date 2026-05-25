@@ -11,7 +11,7 @@
 
 1. One who dies immediately after gaining a plenary indulgence goes straight to heaven, without having to pass through Purgatory.
 
-> The good thief was granted by Our Lord a plenary indulgence, because of his perfect contrition of heart. To the other thief he said that they were receiving what their deeds deserved. And he said to Jesus, 'Lord, remember me when Thou comest into Thy kingdom.' And Jesus said to him, "Amen I say to thee, this day thou shalt be with Me in paradise" (John 23: 42-43).
+> The good thief was granted by Our Lord a plenary indulgence, because of his perfect contrition of heart. To the other thief he said that they were receiving what their deeds deserved. And he said to Jesus, 'Lord, remember me when Thou comest into Thy kingdom.' And Jesus said to him, "Amen I say to thee, this day thou shalt be with Me in paradise" (John 23:42-43).
 
 2. To gain a plenary indulgence, one must be entirely free from all sin, both mortal and venial, and all affection for it.
 

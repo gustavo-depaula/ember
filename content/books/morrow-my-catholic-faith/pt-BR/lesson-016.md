@@ -2,18 +2,18 @@
 
 ![](../images/lesson-016.webp)
 
-*Foi o arcanjo Miguel quem liderou os anjos bons: "E houve uma grande batalha no céu; Miguel e seus anjos batalhavam com o dragão, e o dragão combatia e seus anjos. E não prevaleceram, nem mais se achou o seu lugar no céu" (Ap. 12: 7-8).*
+*Foi o arcanjo Miguel quem liderou os anjos bons: "E houve uma grande batalha no céu; Miguel e seus anjos batalhavam com o dragão, e o dragão combatia e seus anjos. E não prevaleceram, nem mais se achou o seu lugar no céu" (Ap. 12:7-8).*
 
 
 **O que aconteceu aos anjos que não permaneceram fiéis a Deus?**
 
 — Os anjos que não permaneceram fiéis a Deus foram lançados no inferno, e estes são chamados anjos maus, ou diabos.
 
-> "Apartai-vos de Mim, malditos, para o fogo eterno que foi preparado para o diabo e seus anjos" (Mat. 25: 41).
+> "Apartai-vos de Mim, malditos, para o fogo eterno que foi preparado para o diabo e seus anjos" (Mat. 25:41).
 
 1. Também os chamamos de demônios ou anjos caídos. Liderados pelo mais excelente dos anjos criados por Deus, Lúcifer ou Satanás, os anjos maus recusaram obedecer a Deus quando Ele os testou. Deus não lhes deu chance de se arrependerem, mas lançou-os imediatamente no inferno.
 
-> "Como caíste do céu, ó Lúcifer... Disseste em teu coração: 'Subirei ao céu... serei semelhante ao Altíssimo'" (Is. 14: 12-14). Jesus disse: "Eu via Satanás cair como relâmpago do céu" (Luc. 10: 18).
+> "Como caíste do céu, ó Lúcifer... Disseste em teu coração: 'Subirei ao céu... serei semelhante ao Altíssimo'" (Is. 14:12-14). Jesus disse: "Eu via Satanás cair como relâmpago do céu" (Luc. 10:18).
 
 2. Deus não criou diabos, mas anjos gloriosos. Os anjos rebeldes transformaram-se em diabos por seu pecado.
 
@@ -26,11 +26,11 @@
 
 1. Os anjos maus tentam o homem e procuram afastá-lo de Deus. Frequentemente o demônio aparece como anjo de luz, e somos tentados pelo mal que parece bem. Sob este disfarce, o demônio é mais perigoso.
 
-> "Sede sóbrios, vigiai! Pois vosso adversário o diabo, como leão que ruge, anda ao redor buscando a quem devorar" (1 Ped. 5: 8-9).
+> "Sede sóbrios, vigiai! Pois vosso adversário o diabo, como leão que ruge, anda ao redor buscando a quem devorar" (1 Ped. 5:8-9).
 
 2. Sem a permissão de Deus, o demônio não pode nos fazer mal. Deus às vezes permite que o demônio tente os justos, para purificá-los de imperfeições.
 
-> Nosso Senhor mesmo foi tentado pelo demônio. Deus permitiu que Jó fosse prejudicado corporalmente pelo demônio. Santo Antão, Santa Teresa, e muitos outros santos sofreram das tentações do maligno. Mas estas tentações apenas levam os justos a maior amor de Deus. "A vida do homem é uma milícia" (Jó 7: 1).
+> Nosso Senhor mesmo foi tentado pelo demônio. Deus permitiu que Jó fosse prejudicado corporalmente pelo demônio. Santo Antão, Santa Teresa, e muitos outros santos sofreram das tentações do maligno. Mas estas tentações apenas levam os justos a maior amor de Deus. "A vida do homem é uma milícia" (Jó 7:1).
 
 3. Às vezes é permitido aos demônios entrar no corpo de um homem, exercendo poder sobre suas faculdades; isto é chamado de "possessão" diabólica. Outras vezes, os demônios atormentam de fora; e este estado é chamado de "obsessão" diabólica.
 
@@ -40,7 +40,7 @@
 
 5. A Igreja proíbe os Católicos de ter qualquer coisa a ver com espiritismo. Isto é invocar os espíritos dos mortos.
 
-> Algumas manifestações são: bater de espíritos, levantar mesas, escrita em lousas, aparições, comunicações através de médiuns em estado de transe. A maioria das sessões espíritas são fraudulentas, mas às vezes o demônio se manifesta. Deus pode permitir que as almas dos mortos retornem à terra. Mas não há indicação de que Ele permita obedecer a médiuns. O demônio pode às vezes personificar os espíritos dos mortos. Satanás é velho e hábil em engano, e pode assumir a aparência de um anjo de luz.
+> Algumas manifestações são: bater de espíritos, levantar mesas, escrita em lousas, aparições, comunicações através de médiuns em estado de transe. A maioria das sessões espíritas são fraudulentas, mas às vezes o demônio se manifesta. Deus pode permitir que as almas dos mortos retornem à terra. Mas não há indicação de que Ele permita a Si mesmo obedecer a médiuns. O demônio pode às vezes personificar os espíritos dos mortos. Satanás é velho e hábil em engano, e pode assumir a aparência de um anjo de luz.
 
 
 **Todas as tentações vêm dos anjos maus?**
@@ -57,7 +57,7 @@
 
 3. Deus nos permite ser tentados para nos provar, para nos deixar ganhar uma recompensa eterna.
 
-> Deus submeteu os anjos a uma prova. Aqueles que a passaram estão agora gozando d'Ele no céu, sua recompensa. "Porque foste aceitável a Deus, foi necessário que a tentação te provasse" (Tob. 12: 13). Deus permitiu que o demônio tentasse nossos primeiros pais. As tentações servem para nos manter humildes. Deus permite a toda a humanidade ter tentações mas nunca tentação além de suas forças para resistir. "Deus é fiel e não permitirá que sejais tentados além de vossas forças" (1 Cor. 10: 13).
+> Deus submeteu os anjos a uma prova. Aqueles que a passaram estão agora gozando d'Ele no céu, sua recompensa. "Porque foste aceitável a Deus, foi necessário que a tentação te provasse" (Tob. 12:13). Deus permitiu que o demônio tentasse nossos primeiros pais. As tentações servem para nos manter humildes. Deus permite a toda a humanidade ter tentações mas nunca tentação além de suas forças para resistir. "Deus é fiel e não permitirá que sejais tentados além de vossas forças" (1 Cor. 10:13).
 
 4. Quanto mais forte a tentação, maiores as graças que Deus dá para sua conquista.
 
@@ -68,11 +68,11 @@
 
 — Podemos sempre resistir às tentações, porque nenhuma tentação pode nos forçar ao Pecado, e Deus sempre nos ajudará se Lhe pedirmos.
 
-> O tempo durante o qual uma tentação persiste não a torna pecaminosa, se continuarmos resistindo a ela. Uma tentação pode nos atacar por toda nossa vida, mas enquanto a combatermos, ou não prestarmos atenção a ela, enquanto não ceder-mos, não cometemos pecado. Não fomos conquistados, e Deus nos recompensará pela boa luta.
+> O tempo durante o qual uma tentação persiste não a torna pecaminosa, se continuarmos resistindo a ela. Uma tentação pode nos atacar por toda nossa vida, mas enquanto a combatermos, ou não prestarmos atenção a ela, enquanto não cedermos, não cometemos pecado. Não fomos conquistados, e Deus nos recompensará pela boa luta.
 
 1. Nenhuma tentação pode nos fazer mal se obedecermos às leis de Deus e nos mantivermos longe do pecado. Se resistirmos, a tentação fugirá de nós.
 
-> Nossa sorte por toda a eternidade depende inteiramente de nós mesmos. Deus vota pelo céu; o demônio vota pelo inferno. O voto decisivo é nosso. Votaremos pelo céu ou pelo inferno? "Resisti ao diabo, e ele fugirá de vós" (Tg. 4: 7).
+> Nossa sorte por toda a eternidade depende inteiramente de nós mesmos. Deus vota pelo céu; o demônio vota pelo inferno. O voto decisivo é nosso. Votaremos pelo céu ou pelo inferno? "Resisti ao diabo, e ele fugirá de vós" (Tg. 4:7).
 
 2. Quando assaltados pela tentação, deve-se imediatamente resistir. É mais fácil conquistar a tentação no início que depois, assim como um fogo é mais fácil de apagar no começo.
 
@@ -82,7 +82,7 @@
 
 a. Vigilância e oração.
 
-> "Vigiai e orai, para que não entreis em tentação" (Mat. 26: 41). Evitai a ociosidade, mantendo-vos sempre ocupados, seja com trabalho, ou com recreação sadia. Se pensamentos maus entrarem na mente, pensai noutras coisas, desta forma ignorando a tentação.
+> "Vigiai e orai, para que não entreis em tentação" (Mat. 26:41). Evitai a ociosidade, mantendo-vos sempre ocupados, seja com trabalho, ou com recreação sadia. Se pensamentos maus entrarem na mente, pensai noutras coisas, desta forma ignorando a tentação.
 
 b. Confissão frequente e Santa Comunhão.
 

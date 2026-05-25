@@ -28,7 +28,7 @@
 
 **Que tipos de punição são devidos ao pecado?**
 
-— Dois tipos de punição são devidos ao pecado: a punição eterna do inferno, devida a pecados mortais não perdoados, e punição temporal, durando apenas por um tempo, devida a pecados veniais e também a pecados mortais após terem sido perdoados.
+— Dois tipos de punição são devidos ao pecado: a punição eterna do inferno, devida a pecados mortais não perdoados, e punição temporal, durando apenas por um tempo, devida a pecados veniais, e também a pecados mortais após terem sido perdoados.
 
 1. Mesmo que Nosso Senhor por Sua morte plenamente expiou por todos nossos pecados, precisamos fazer penitência por eles. Ele tornou a salvação disponível, sob a condição de fazermos nossa parte.
 
@@ -36,7 +36,7 @@
 
 2. Se não houvesse necessidade de penitência, os pecadores mais endurecidos receberiam o mesmo tratamento que os homens mais santos, uma condição impossível à justiça de Deus. Cristo Mesmo quer que como devemos compartilhar de Sua glória, devemos primeiro compartilhar de Seus sofrimentos.
 
-> "Herdeiros de fato de Deus e co-herdeiros com Cristo; contudo assim, se sofrermos com Ele, para que também sejamos glorificados com Ele" (Rom. 8: 17).
+> "Herdeiros de fato de Deus e co-herdeiros com Cristo; contudo assim, se sofrermos com Ele, para que também sejamos glorificados com Ele" (Rom. 8:17).
 
 3. A punição pelo pecado prescrita por Deus é clara:
 
@@ -47,7 +47,7 @@
 
 **Por que Deus requer punição temporal pelo pecado?**
 
-— Deus requer punição temporal pelo pecado para satisfazer Sua justiça, para ensinar-nos o grande mal do pecado e para advertir-nos não pecar novamente.
+— Deus requer punição temporal pelo pecado para satisfazer Sua justiça, para ensinar-nos o grande mal do pecado, e para advertir-nos não pecar novamente.
 
 1. Punição temporal é devida mesmo a pecados perdoados, porque contrição humana é frequentemente imperfeita. Esta punição temporal é uma expiação feita à santidade e justiça divinas. Após a confissão, nossa contrição geralmente requer mais satisfação que as poucas orações dadas como penitência.
 
@@ -55,7 +55,7 @@
 
 2. Punição temporal, como a palavra implica, dura apenas por um tempo. Tem um fim definido. A Sagrada Escritura nos fornece muitos exemplos de punição temporal tendo sido imposta por Deus.
 
-> Maria, a irmã de Moisés, foi perdoado o pecado que cometeu murmurando contra seu irmão. Contudo, Deus infligiu a ela a penalidade temporal de lepra e de sete dias de separação do povo (Núm. 12).
+> Maria, a irmã de Moisés, foi perdoado o pecado que cometeu murmurando contra seu irmão. Contudo, Deus infligiu a ela a penalidade temporal de lepra, e de sete dias de separação do povo (Núm. 12).
 
 3. Pagamos a dívida de nossa punição temporal seja nesta vida ou no purgatório.
 
@@ -64,7 +64,7 @@
 
 — São: oração, assistir à Missa, jejum, esmola, obras de misericórdia, a paciência nos sofrimentos e indulgências.
 
-> "Mas Zaqueu levantou-se e disse ao Senhor: 'Eis, Senhor, dou a metade de meus bens aos pobres e, se defraudei alguém de alguma coisa, restituo quatro vezes mais'" (Lucas 19: 8-9).
+> "Mas Zaqueu levantou-se e disse ao Senhor: 'Eis, Senhor, dou a metade de meus bens aos pobres e, se defraudei alguém de alguma coisa, restituo quatro vezes mais'" (Lucas 19:8-9).
 
 Pessoas devotas não estarão satisfeitas com fazer a penitência imposta pelo padre. Farão trabalho voluntário de caridade e mortificação, em expiação; além disso, suportarão pacientemente todos os males enviados por Deus.
 

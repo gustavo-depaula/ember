@@ -2,9 +2,9 @@
 
 ![](../images/lesson-184.webp)
 
-*1. "The angel Gabriel was sent from God to a town of Galilee, called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And he said. Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 27-28).*
+*1. "The angel Gabriel was sent from God to a town of Galilee, called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin's name was Mary. And he said. Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1:27-28).*
 
-2. Mary went to visit her cousin Elizabeth: "And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying. Blessed art thou among women and blessed is the fruit of thy womb" (Luke 1: 41-42). When we pray the "Hail Mary," these two beautiful events come to mind.
+2. Mary went to visit her cousin Elizabeth: "And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying. Blessed art thou among women and blessed is the fruit of thy womb" (Luke 1:41-42). When we pray the "Hail Mary," these two beautiful events come to mind.
 
 
 **Which are the principal prayers to the Blessed Virgin?**
@@ -18,15 +18,15 @@
 
 1. The first part of the Hail Mary is a prayer of praise. It is composed of (a) the words of the Archangel Gabriel to Mary; and (b) the words of St. Elizabeth to Mary. Because the prayer begins with the words of the Angel, the "Hail Mary" is in English termed the Angelical Salutation. It is called *Ave Maria* in Latin.
 
-> The angel Gabriel said: "Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1: 28). The words of St. Elizabeth are "Blessed art thou among women, and blessed is the fruit of thy womb" (Luke 1: 42).
+> The angel Gabriel said: "Hail, full of grace, the Lord is with thee; blessed art thou among women" (Luke 1:28). The words of St. Elizabeth are "Blessed art thou among women, and blessed is the fruit of thy womb" (Luke 1:42).
 
 2. The first two words, "Hail Mary" mean: I salute thee. By this we testify our reverence for our Blessed Mother and congratulate her on her privileges.
 
-> "He has regarded the loveliness of his handmaid; for behold, from henceforth all generations shall call me blessed" (Luke 1: 48).
+> "He has regarded the loveliness of his handmaid; for behold, from henceforth all generations shall call me blessed" (Luke 1:48).
 
 3. "Full of grace" means that Mary is the most holy and exalted of all creatures, possessed of all graces and gifts of God.
 
-> She is the only one of all mortals that was conceived free from all stain of original sin. This is why we speak of Mary's Immaculate Conception. "Thou art all fair, and there is not a spot in thee" (Cant. 4: 7).
+> She is the only one of all mortals that was conceived free from all stain of original sin. This is why we speak of Mary's Immaculate Conception. "Thou art all fair, and there is not a spot in thee" (Cant. 4:7).
 
 4. "The Lord is with thee" signifies that although all good persons are united with God, Mary in a special manner is more closely united with Him in love and power.
 
@@ -38,7 +38,7 @@
 
 6. "And blessed is the fruit of thy womb Jesus" means that Mary is blessed because of her Son. All her glory and power come from Him, God who became her Son.
 
-> Mary is like a tree that bears good fruit; can any fruit be better than the Son of God? So touched was a woman by the holiness of that Son that she raised up her voice in praise: "Blessed is the womb that bore thee, and the breasts that nursed thee" (Luke 11: 27).
+> Mary is like a tree that bears good fruit; can any fruit be better than the Son of God? So touched was a woman by the holiness of that Son that she raised up her voice in praise: "Blessed is the womb that bore thee, and the breasts that nursed thee" (Luke 11:27).
 
 
 **What is the second part of the Hail Mary?**

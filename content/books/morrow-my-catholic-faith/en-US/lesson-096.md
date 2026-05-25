@@ -54,15 +54,15 @@
 
 One who knows the Catholic Church to be the True Church, yet refuses to join and obey it, is guilty of resisting the known Christian truth, a form of idolatry, since by it one stubbornly denies due worship to God.
 
-> The Scribes and Pharisees knew well all the prophecies concerning the Messias. Jesus Christ proved Himself the promised Messias by wonderful miracles, after announcing Himself as the Son of God. But their pride was a barrier to their humble acknowledgement of Jesus; they calumniated and persecuted Him to the limit. They were guilty of resisting the known Christian truth. Freemasons, especially those who were born and bred Catholics, may be guilty of this sin if they will not permit a priest to approach them on their deathbed; "They stop their ears, not to hear, and make their heart as the adamant stone" (Zach. 7: 11).
+> The Scribes and Pharisees knew well all the prophecies concerning the Messias. Jesus Christ proved Himself the promised Messias by wonderful miracles, after announcing Himself as the Son of God. But their pride was a barrier to their humble acknowledgement of Jesus; they calumniated and persecuted Him to the limit. They were guilty of resisting the known Christian truth. Freemasons, especially those who were born and bred Catholics, may be guilty of this sin if they will not permit a priest to approach them on their deathbed; "They stop their ears, not to hear, and make their heart as the adamant stone" (Zach. 7:11).
 
 
 **When does a person sin by simony?**
 
 — A person sins by simony when he buys or sells sacred or spiritual things or positions.
 
-> The term "simony" comes from Simon Magus, who offered the Apostles money to give him the power of giving the Holy Ghost (Acts 8: 19-20). It is simony to sell a rosary for more than its ordinary price on account of a blessing it has. Thus sold, indulgenced objects lose their indulgences.
+> The term "simony" comes from Simon Magus, who offered the Apostles money to give him the power of giving the Holy Ghost (Acts 8:19-20). It is simony to sell a rosary for more than its ordinary price on account of a blessing it has. Thus sold, indulgenced objects lose their indulgences.
 
 Giving a priest money to say Mass for our intention is not simony, because we do not and cannot buy a Mass. The money is only an offering towards the materials for the Mass, and to help support the priest.
 
-> As St. Paul said, "They who serve the altar have their share with the altar. So also the Lord directed that those who preach the Gospel should have their living from the gospel" (1 Cor. 9: 14). It would not be for the dignity of the priesthood nor for the benefit of religious work if priests have to labour at secular occupations to support themselves.
+> As St. Paul said, "They who serve the altar have their share with the altar. So also the Lord directed that those who preach the Gospel should have their living from the gospel" (1 Cor. 9:14). It would not be for the dignity of the priesthood nor for the benefit of religious work if priests have to labour at secular occupations to support themselves.

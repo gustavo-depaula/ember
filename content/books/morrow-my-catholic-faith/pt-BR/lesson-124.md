@@ -13,15 +13,15 @@
 
 1. O sacramento do Batismo foi instituído por Cristo em Seu próprio Batismo, e comandado em Sua Ascensão.
 
-> Ele disse aos Apóstolos: "Ide portanto e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28: 19). Os Apóstolos obedeceram Seu comando no próprio dia de Pentecostes. Em resposta à pergunta das multidões, "Que faremos?" após o primeiro sermão de Pedro, Pedro disse, "Arrependei-vos, e seja batizado cada um de vós em nome de Jesus Cristo, para a remissão de vossos pecados" (Atos 2: 58). Cerca de 3000 pessoas foram batizadas.
+> Ele disse aos Apóstolos: "Ide portanto e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28:19). Os Apóstolos obedeceram Seu comando no próprio dia de Pentecostes. Em resposta à pergunta das multidões, "Que faremos?" após o primeiro sermão de Pedro, Pedro disse, "Arrependei-vos, e seja batizado cada um de vós em nome de Jesus Cristo, para a remissão de vossos pecados" (Atos 2:58). Cerca de 3000 pessoas foram batizadas.
 
 2. A matéria e forma do sacramento consistem na ablução com água juntamente com a pronunciação das palavras: "Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo"
 
 > Batismo pode ser validamente administrado de qualquer de três modos: Imersão é mergulhar o candidato na água. Infusão é derramar a água. Aspersão é borrifar a água.
 
-3. O sacramento do Batismo confere graça. Sabemos isto do fato de que Cristo o fez o sacramento de renovação do espírito; "Se alguém não nascer de novo da água e do Espírito, não pode entrar no reino de Deus" (João 3: 5).
+3. O sacramento do Batismo confere graça. Sabemos isto do fato de que Cristo o fez o sacramento de renovação do espírito; "Se alguém não nascer de novo da água e do Espírito, não pode entrar no reino de Deus" (João 3:5).
 
-> São Pedro disse: "Sede batizados cada um de vós em nome de Jesus Cristo para a remissão de vossos pecados: e recebereis o dom do Espírito Santo" (Atos 2: 38).
+> São Pedro disse: "Sede batizados cada um de vós em nome de Jesus Cristo para a remissão de vossos pecados: e recebereis o dom do Espírito Santo" (Atos 2:38).
 
 
 **Quais são os efeitos do Batismo?**
@@ -30,7 +30,7 @@
 
 1. Batismo é o único sacramento que pode remir o pecado original. Limpa-nos de todo pecado, original e atual, e remite toda punição devida.
 
-> Se um adulto recebe batismo com as disposições próprias, isto é, com fé e contrição, seus pecados atuais são removidos com o pecado original, assim como toda punição temporal devida a seus pecados atuais. Assim se um adulto morre imediatamente após batismo, vai direto ao céu, quaisquer que sejam os pecados que tenha cometido. "Aquele que crer e for batizado será salvo" (Mar. 16: 16).
+> Se um adulto recebe batismo com as disposições próprias, isto é, com fé e contrição, seus pecados atuais são removidos com o pecado original, assim como toda punição temporal devida a seus pecados atuais. Assim se um adulto morre imediatamente após batismo, vai direto ao céu, quaisquer que sejam os pecados que tenha cometido. "Aquele que crer e for batizado será salvo" (Mar. 16:16).
 
 2. Quando Batismo remove o pecado original, dá a nossas almas a nova vida de graça santificante. Assim pelo Batismo nascemos de novo.
 
@@ -42,7 +42,7 @@
 
 4. Batismo imprime um sinal indelével ou caráter na alma.
 
-> Este caráter nos marca como cristãos, e não pode ser removido por nada, nem mesmo pecado mortal. Este caráter impede o sacramento de ser repetido; podemos ser batizados apenas uma vez. "Pois todos vós que fostes batizados em Cristo vos revestistes de Cristo" (Gál. 3: 27).
+> Este caráter nos marca como cristãos, e não pode ser removido por nada, nem mesmo pecado mortal. Este caráter impede o sacramento de ser repetido; podemos ser batizados apenas uma vez. "Pois todos vós que fostes batizados em Cristo vos revestistes de Cristo" (Gál. 3:27).
 
 
 **Por que o Batismo é necessário para a salvação de todos os homens?**
@@ -57,11 +57,11 @@
 
 (a) Uma pessoa não batizada recebe o batismo de sangue quando sofre martírio pela fé de Cristo.
 
-> Aquele que dá sua vida por Cristo ou alguma virtude cristã diz-se ter recebido batismo de sangue. Nosso Senhor prometeu; "Aquele que perde sua vida por amor de Mim achá-la-á" (Mat. 10: 39). Assim os Santos Inocentes que Herodes matou por ódio ao Menino Jesus receberam o batismo de sangue.
+> Aquele que dá sua vida por Cristo ou alguma virtude cristã diz-se ter recebido batismo de sangue. Nosso Senhor prometeu; "Aquele que perde sua vida por amor de Mim achá-la-á" (Mat. 10:39). Assim os Santos Inocentes que Herodes matou por ódio ao Menino Jesus receberam o batismo de sangue.
 
 (b) Uma pessoa não batizada recebe o batismo de desejo quando ama a Deus sobre todas as coisas, e deseja fazer tudo que é necessário para sua salvação.
 
-> Aquele que ama a Deus sobre todas as coisas, está arrependido de seus pecados, e ardentemente anseia pelo Batismo quando é impossível recebê-lo; ou, aquele que não conhecendo a necessidade do Batismo, sinceramente deseja fazer tudo requerido para salvação, diz-se ter recebido batismo de desejo. Nosso Senhor prometeu que whoever O ama será amado pelo Pai (João 14: 21). Portanto apenas aqueles que atingiram o uso da razão podem lucrar do batismo de desejo.
+> Aquele que ama a Deus sobre todas as coisas, está arrependido de seus pecados, e ardentemente anseia pelo Batismo quando é impossível recebê-lo; ou, aquele que não conhecendo a necessidade do Batismo, sinceramente deseja fazer tudo requerido para salvação, diz-se ter recebido batismo de desejo. Nosso Senhor prometeu que todo aquele que O ama será amado pelo Pai (João 14:21). Portanto, apenas aqueles que atingiram o uso da razão podem lucrar do batismo de desejo.
 
 2. Crianças devem ser batizadas o mais cedo possível após o nascimento, se possível, dentro de uma semana. Esta prática data dos Apóstolos.
 

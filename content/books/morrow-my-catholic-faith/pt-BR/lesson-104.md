@@ -11,7 +11,7 @@
 
 1. Oficiais públicos têm uma grave responsabilidade diante de Deus. Quanto mais alto o posto, maior a responsabilidade. Legisladores, membros do gabinete, juízes, todos os detentores de cargo — todos do mais baixo ao mais alto terão que dar uma prestação de contas rígida a Deus de tudo que pensaram, disseram, fizeram ou omitiram, cada lei aprovada, cada voto dado.
 
-> "Um juízo muito severo será para aqueles que exercem o governo" (Sab. 6: 6). Aqueles em alto ofício devem considerá-lo como meramente confiado aos seus cuidados por um curto tempo.
+> "Um juízo muito severo será para aqueles que exercem o governo" (Sab. 6:6). Aqueles em alto ofício devem considerá-lo como meramente confiado aos seus cuidados por um curto tempo.
 
 2. Ninguém deve esforçar-se por uma posição de autoridade que não é competente para preencher.
 
@@ -19,7 +19,7 @@
 
 3. Aquele sobre quem honras e posições são conferidas deve ter como seu pensamento principal o cumprimento dos deveres conectados com sua posição. Não deve pensar muito de si mesmo por causa da honra; isto não o torna melhor aos olhos de Deus.
 
-> Somente a virtude dá a um homem verdadeiro valor e distinção. Herodes era rei; Maria e José eram pobres trabalhadores. Mas Maria e José agora estão muito perto de Deus, e seguramente Herodes não está tão perto de Deus. "Aquele que quiser tornar-se grande entre vós será vosso servo; e aquele que quiser ser o primeiro entre vós será vosso escravo; assim como o Filho do Homem não veio para ser servido mas para servir" (Mat. 20: 27-28).
+> Somente a virtude dá a um homem verdadeiro valor e distinção. Herodes era rei; Maria e José eram pobres trabalhadores. Mas Maria e José agora estão muito perto de Deus, e seguramente Herodes não está tão perto de Deus. "Aquele que quiser tornar-se grande entre vós será vosso servo; e aquele que quiser ser o primeiro entre vós será vosso escravo; assim como o Filho do Homem não veio para ser servido mas para servir" (Mat. 20:27-28).
 
 4. Oficiais públicos devem dar bom exemplo porque ocupam uma posição proeminente, e porque exemplo é melhor que preceito. Oficiais fazem mais por seu exemplo do que por suas ordens e regulamentos.
 
@@ -34,9 +34,9 @@
 
 > Oficiais civis devem estar prontos a sacrificar-se pelos cidadãos. Cristo o Bom Pastor deu Sua vida por Suas ovelhas.
 
-2. Oficiais devem ser imparciais. Devem mostrar favor a nenhum, mas tratar todos igualmente, ricos ou pobres, proeminentes ou desconhecidos. "Com Deus, não há acepção de pessoas" (Rom. 2: 11).
+2. Oficiais devem ser imparciais. Devem mostrar favor a nenhum, mas tratar todos igualmente, ricos ou pobres, proeminentes ou desconhecidos. "Com Deus, não há acepção de pessoas" (Rom. 2:11).
 
-> Juízes devem cuidar de agir injustamente, ou de permitir-se ser corrompidos por subornos. Não devem deixar que os ricos e poderosos os induzam a dar julgamento injusto. Aceitação de subornos por oficiais públicos é um pecado contra o sétimo mandamento. "Deus fez o pequeno e o grande, e tem igual cuidado de todos" (Sab. 6: 8).
+> Juízes devem guardar-se de agir injustamente, ou de permitir-se ser corrompidos por subornos. Não devem deixar que os ricos e poderosos os induzam a dar julgamento injusto. Aceitação de subornos por oficiais públicos é um pecado contra o sétimo mandamento. "Deus fez o pequeno e o grande, e tem igual cuidado de todos" (Sab. 6:8).
 
 3. Oficiais públicos devem particularmente prover para o bem-estar dos pobres e indefesos: os destituídos, os doentes, órfãos, e o grande corpo das classes trabalhadoras.
 
@@ -70,7 +70,7 @@
 
 2. Desprezo e rudeza são contrários ao amor que devemos a nossos pais. Alguém ofende contra o amor devido a seus pais se os amaldiçoa, despreza-os, odeia-os, entristece-os ou os faz irar-se.
 
-> Crianças às vezes falam asperamente e insultuosamente a seus pais. Devemos recuar em vergonha antes de fazer isto. Mesmo se apenas pensamos no que nossos pais fizeram por nós, os contínuos e intermináveis sacrifícios que fizeram, deveríamos queimar nossa língua antes de falar com desprezo a eles. "Aquele que amaldiçoa a seu pai ou mãe, morra" (Lev. 20: 9).
+> Crianças às vezes falam asperamente e insultuosamente a seus pais. Devemos recuar em vergonha antes de fazer isto. Mesmo se apenas pensamos no que nossos pais fizeram por nós, os contínuos e intermináveis sacrifícios que fizeram, deveríamos queimar nossa língua antes de falar com desprezo a eles. "Aquele que amaldiçoa a seu pai ou mãe, morra" (Lev. 20:9).
 
 3. Crianças podem pecar contra a obediência seja recusando ou negligenciando fazer o que é comandado, ou fazendo o que é proibido. Mostrar indisposição é também uma forma de desobediência.
 

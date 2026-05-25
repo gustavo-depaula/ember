@@ -9,13 +9,13 @@
 
 — The first man and woman were Adam and Eve, the first parents of the whole human race.
 
-1. God made Adam's body out of the slime of the earth, and breathed an immortal soul into it (Gen. 2: 7). God then cast a deep sleep upon Adam, and taking one of his ribs formed it into Eve (Gen. 2: 22).
+1. God made Adam's body out of the slime of the earth, and breathed an immortal soul into it (Gen. 2:7). God then cast a deep sleep upon Adam, and taking one of his ribs formed it into Eve (Gen. 2:22).
 
 > Adam's body was formed from the earth. But his soul was immediately created out of nothing by the almighty power of God. The soul of every person is created in this way. We do not inherit our soul from our parents; it comes directly from the hand of God at the same moment that we receive life.
 
 2. Adam and Eve were our first parents. All of mankind makes up one great family.
 
-> Sacred Scripture says that before the creation of Adam "there was not a man to till the earth" (Gen. 2: 5) ; and that Eve was the "mother of all the living" (Gen. 3: 20). Legends of all races tell of an original happiness from which man fell, and of a flood that covered the earth.
+> Sacred Scripture says that before the creation of Adam "there was not a man to till the earth" (Gen. 2:5) ; and that Eve was the "mother of all the living" (Gen. 3:20). Legends of all races tell of an original happiness from which man fell, and of a flood that covered the earth.
 
 a. All men have common bodily characteristics.
 
@@ -32,11 +32,11 @@ b. Emotionally and intellectually all races are the same.
 
 1. God created Adam and Eve in the state of innocence and holiness. This made them pleasing to God, and full of love for Him. It made them children of God, and therefore heirs of heaven. This state of innocence we term "sanctifying grace."
 
-> "God filled them with wisdom and the knowledge of understanding. ... He created in them the science of the spirit, he filled their heart with wisdom. ... And their eye saw the majesty of his glory, and their ears heard his glorious voice" (Ecclus. 17: 6,11).
+> "God filled them with wisdom and the knowledge of understanding. ... He created in them the science of the spirit, he filled their heart with wisdom. ... And their eye saw the majesty of his glory, and their ears heard his glorious voice" (Ecclus. 17:6,11).
 
 2. God's abiding grace made Adam and Eve so happy that their happiness almost equalled that of the angels.
 
-> "Thou hast made him a little less than the angels; thou hast crowned him with glory and honour" (Ps. 8: 6).
+> "Thou hast made him a little less than the angels; thou hast crowned him with glory and honour" (Ps. 8:6).
 
 
 **What other gifts were bestowed on Adam and Eve by God?**
@@ -68,7 +68,7 @@ b. Emotionally and intellectually all races are the same.
 
 1. God wanted Adam as head and representative of the human race to merit heaven. And so, after granting him His abiding grace, and blessing him with wonderful gifts, and giving him the Garden of Paradise to live in, He commanded him not to eat of the fruit of a certain tree.
 
-> "Of every tree of Paradise thou shalt eat: but of the tree of knowledge of good and evil thou shalt not eat; for in what day soever thou shalt eat of it, thou shalt die the death" (Gen. 2: 16,17). The fruit of the forbidden tree was not evil in itself, for in Paradise, God did not place anything bad. It was bad only because it was forbidden; and if Adam and Eve partook of it, they would have disobeyed God.
+> "Of every tree of Paradise thou shalt eat: but of the tree of knowledge of good and evil thou shalt not eat; for in what day soever thou shalt eat of it, thou shalt die the death" (Gen. 2:16,17). The fruit of the forbidden tree was not evil in itself, for in Paradise, God did not place anything bad. It was bad only because it was forbidden; and if Adam and Eve partook of it, they would have disobeyed God.
 
 2. If Adam and Eve had been faithful to God, they would have passed without disease and without bodily death from their earthly Paradise to heaven, God's home, where they would see Him face to face.
 
@@ -79,4 +79,4 @@ b. Emotionally and intellectually all races are the same.
 
 — Adam and Eve did not obey the commandment of God, but ate of the forbidden fruit.
 
-> The devil tempted Eve to eat of the fruit, and she ate; then she gave some to Adam, and he also ate (Gen. 3: 1-13). They committed the sins of pride and disobedience.
+> The devil tempted Eve to eat of the fruit, and she ate; then she gave some to Adam, and he also ate (Gen. 3:1-13). They committed the sins of pride and disobedience.

@@ -37,7 +37,7 @@
 
 2. Work of daily necessity such as cooking, cleaning, and sweeping, and buying and selling of necessary food may be performed even on Sunday. Sewing is not permitted, as it is not of necessity. Servile work when necessary for one's support, for the common good, or to prevent serious financial loss, is permitted on Sunday.
 
-> Farmers are allowed to care for their cattle and domestic animals, and even to harvest crops that otherwise might spoil. Our Lord does not desire man to suffer on account of Sunday, for He says: "The Sabbath was made for man, and not man for the Sabbath" (Mark 2: 27).
+> Farmers are allowed to care for their cattle and domestic animals, and even to harvest crops that otherwise might spoil. Our Lord does not desire man to suffer on account of Sunday, for He says: "The Sabbath was made for man, and not man for the Sabbath" (Mark 2:27).
 
 3. Servile work needed by our neighbour may be performed on Sunday.
 
@@ -60,7 +60,7 @@
 
 > An outstanding example of such entertainments is the New Year's eve all-night dancing so fashionable in these days. People go to dances and carousals in different varieties of dress and undress, with paint, powder, and all kinds of worldly decorations on their persons. Then those that feel a twinge of conscience run out for an intermission of Mass, to return perhaps to the dance, or to go home to sleep all the day of New Year, the feast of the Circumcision, a holyday of obligation! Let any reasonable man say whether this kind of amusement is in consonance with the commandment to sanctify the Lord's day.
 
-3. Some people seem to take advantage of Sunday to indulge more freely in useless or sinful pastimes. It is a scandal to see people engaged in excessive eating, drinking, dancing, and vanity on Sunday, of all days. It is an abuse of a sacred institution: the Lord's Day. "The kingdom of God does not consist in food and drink" (Rom. 14: 17).
+3. Some people seem to take advantage of Sunday to indulge more freely in useless or sinful pastimes. It is a scandal to see people engaged in excessive eating, drinking, dancing, and vanity on Sunday, of all days. It is an abuse of a sacred institution: the Lord's Day. "The kingdom of God does not consist in food and drink" (Rom. 14:17).
 
 > To many, the Lord's day and holydays are nothing more than days of enjoyment. What was intended as an accompaniment becomes the main theme. Not infrequently, Sunday is taken as a favourite day for gambling, drinking, and other vices. Then indeed is God's day desecrated, and God robbed of the honour due Him.
 

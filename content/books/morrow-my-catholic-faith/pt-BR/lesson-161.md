@@ -24,9 +24,9 @@
 
 **Quais são os principais poderes sobrenaturais do padre?**
 
-— Os principais poderes sobrenaturais do padre são: mudar pão e vinho no Corpo e Sangue de Cristo no Santo Sacrifício da Missa e perdoar pecados no sacramento da Penitência.
+— Os principais poderes sobrenaturais do padre são: mudar pão e vinho no Corpo e Sangue de Cristo no Santo Sacrifício da Missa, e perdoar pecados no sacramento da Penitência.
 
-1. A um padre é dado o poder de celebrar Missa e administrar os sacramentos exceto Ordem e Crisma. Um Bispo pode administrar todos os sacramentos: tem a "plenitude de poder", sendo feito sucessor dos Apóstolos.
+1. A um padre é dado o poder de celebrar Missa, e administrar os sacramentos exceto Ordem e Crisma. Um Bispo pode administrar todos os sacramentos: tem a "plenitude de poder", sendo feito sucessor dos Apóstolos.
 
 > Os padres que apostatam ou são suspensos ou excomungados ainda permanecem padres. Retêm o poder, embora não a autoridade, do sacerdócio. Por exemplo, têm o poder de dizer uma verdadeira Missa, embora pecassem gravemente se assim o fizessem. Contudo, não podem perdoar pecado, exceto no caso dos moribundos; absolvição é um poder judicial e precisa de jurisdição.
 
@@ -43,31 +43,31 @@
 
 — São: padres seculares e padres religiosos.
 
-1. Padres seculares (ou diocesanos) são aqueles que pertencem a uma diocese. Estão obrigados a obedecer ao bispo e não podem mudar de uma diocese para outra sem o consentimento dos bispos de ambas as dioceses.
+1. Padres seculares (ou diocesanos) são aqueles que pertencem a uma diocese. Estão obrigados a obedecer ao bispo, e não podem mudar de uma diocese para outra sem o consentimento dos bispos de ambas as dioceses.
 
 > Padres seculares estão geralmente encarregados das paróquias; isto é, atuam como padres paroquiais ou pastores (também chamados reitores).
 
-2. Padres religiosos (ou regulares) são aqueles que são membros de ordens religiosas ou congregações, como os Agostinianos, Beneditinos, Dominicanos, Franciscanos, Jesuítas, Redentoristas, Salesianos, etc. Religiosos estão obrigados pelos três votos evangélicos de pobreza, castidade e obediência. Votam obediência a seus superiores e vivem em comunidade com seus irmãos.
+2. Padres religiosos (ou regulares) são aqueles que são membros de ordens religiosas ou congregações, como os Agostinianos, Beneditinos, Dominicanos, Franciscanos, Jesuítas, Redentoristas, Salesianos, etc. Religiosos estão obrigados pelos três votos evangélicos de pobreza, castidade e obediência. Votam obediência a seus superiores, e vivem em comunidade com seus irmãos.
 
 > Nem todos os membros de comunidades religiosas são padres. Muitos tomam os votos religiosos mas não recebem o Sacramento da Ordem: isto é, não são ordenados. Então os chamamos irmãos.
 
 
 **Quais são os principais deveres de um padre?**
 
-— Os principais deveres de um padre são: viver em celibato e recitar o Ofício Divino diariamente; outros deveres variam de acordo com a função empreendida ou posição mantida.
+— Os principais deveres de um padre são: viver em celibato, e recitar o Ofício Divino diariamente; outros deveres variam de acordo com a função empreendida ou posição mantida.
 
 1. O voto sacerdotal de celibato é tomado quando um homem é recebido no subdiaconato. Padres católicos não se casam, em imitação do Próprio Cristo. Os Apóstolos, após serem chamados ao ministério, deixaram tudo que tinham. Elias, Eliseu, Jeremias e São João Batista viveram em celibato.
 
-> Um padre é ordenado para o exclusivo serviço de Deus: seus talentos, seu tempo, sua própria vida pertencem ao Seu serviço. São Paulo diz: "Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua esposa; e está dividido" (1 Cor. 7: 32-33).
+> Um padre é ordenado para o exclusivo serviço de Deus: seus talentos, seu tempo, sua própria vida pertencem ao Seu serviço. São Paulo diz: "Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua esposa; e está dividido" (1 Cor. 7:32-33).
 
 2. Um padre deve ler o Ofício Divino, uma série de orações, no Breviário; para isto aproximadamente uma hora é necessária cada dia.
 
-> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre concernantemente muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
+> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre no que diz respeito a muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
 
-3. Um pastor deve estar pronto para visitar os moribundos a qualquer hora do dia ou da noite, mesmo que o paciente esteja sofrendo de uma doença contagiosa. Deve instruir seu povo e guardá-lo de dano. Um pastor é o pastor de seu rebanho.
+3. Um pastor deve estar pronto para visitar os moribundos a qualquer hora do dia ou da noite, mesmo que o paciente esteja sofrendo de uma doença contagiosa. Deve instruir seu povo, e guardá-lo de dano. Um pastor é o pastor de seu rebanho.
 
 > Deve construir e manter uma igreja, um convento, uma escola. Deve ouvir confissões hora após hora enquanto houver necessidade. Deve administrar os sacramentos, dizer Missa, atender aos pobres, etc.
 
-4. Religiosos ou regulares padres geralmente dedicam-se à oração e às obras espirituais e corporais de misericórdia. Têm encarregados de escolas, hospitais, orfanatos e outras instituições de caridade. Organizam missões e retiros e engajam-se em trabalho de imprensa e propaganda religiosa.
+4. Religiosos ou regulares padres geralmente dedicam-se à oração e às obras espirituais e corporais de misericórdia. Estão encarregados de escolas, hospitais, orfanatos e outras instituições de caridade. Organizam missões e retiros, e engajam-se em trabalho de imprensa e propaganda religiosa.
 
 > Religiosos são usualmente empregados pelo Papa como missionários para converter os pagãos. Em muitos casos, também atuam como padres paroquiais.

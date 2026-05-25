@@ -40,7 +40,7 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 1. Before our examination of conscience we should ask God's help to know our sins and to confess them with sincere sorrow. Without His grace, we can neither know our sins nor feel sorrow for them.
 
-> "As I live, saith the Lord God, I desire not the death of the wicked, but that the wicked turn from his way and live" (Ex. 33: 11).
+> "As I live, saith the Lord God, I desire not the death of the wicked, but that the wicked turn from his way and live" (Ex. 33:11).
 
 2. The examination of conscience is important, for by it we learn to know ourselves, and so find means of improvement. How many men there are who know innumerable things about nature, science, literature, and law, and yet have never even peered into their own souls!
 
@@ -53,11 +53,11 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 1. We should make as careful an examination as if we were on our deathbed, considering in what way we have sinned in thought, desire, word, deed, or omission. We must recall how often we have committed mortal sins.
 
-> "I will meditate on Thy commandments and I will consider Thy ways" (Ps. 118: 15).
+> "I will meditate on Thy commandments and I will consider Thy ways" (Ps. 118:15).
 
 2. We need not be too anxious about examining ourselves on venial sins, as it is not necessary to confess them; but it is better to do so, in order to amend ourselves, and to obtain greater graces.
 
-> In our examination of conscience, let us beware, lest, in searching out small sins we may cover the large ones. Let us not imitate the Pharisees, to whom Our Lord said, "Blind guides, who strain out the gnat, but swallow the camel!" (Matt. 23: 24).
+> In our examination of conscience, let us beware, lest, in searching out small sins we may cover the large ones. Let us not imitate the Pharisees, to whom Our Lord said, "Blind guides, who strain out the gnat, but swallow the camel!" (Matt. 23:24).
 
 3. In our examination, we should recall all the circumstances that might change the nature of the sins we wish to confess.
 
@@ -93,4 +93,4 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 3. A good rule is to examine our conscience every evening, spending a few moments looking over the day's actions.
 
-> Then when the time comes for confession, we have only to recall the sins our nightly examinations revealed to us. A good examination of conscience is an assurance of a good confession. We can neither confess nor feel sorry for what we do not recall. "If we say that we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1: 8).
+> Then when the time comes for confession, we have only to recall the sins our nightly examinations revealed to us. A good examination of conscience is an assurance of a good confession. We can neither confess nor feel sorry for what we do not recall. "If we say that we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8).

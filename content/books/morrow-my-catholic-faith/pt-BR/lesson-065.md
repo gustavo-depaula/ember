@@ -46,7 +46,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 > Quem pode ser um cidadão mais cumpridor da lei do que aquele que olha para oficiais civis como superiores que o Próprio Deus lhe ordena obedecer? Plutarco diz que a religião é uma proteção melhor para uma cidade do que suas muralhas.
 
-2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim treina membros desselfish, econômicos e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
+2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim, treina membros desinteressados, econômicos e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
 
 > As prisões são em geral povoadas, não por membros praticantes da Igreja, mas por pessoas que negligenciaram a religião. Só Deus sabe o número daqueles que foram desviados dos caminhos do pecado e crime por conta de sua conexão com a Igreja.
 
@@ -85,7 +85,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 5. Sacerdotes e monges, para não mencionar membros leigos da Igreja, contribuíram com algumas das maiores descobertas ao conhecimento humano.
 
-> Na ciência física, o diácono Gioja descobriu o ímã e bússola; o jesuíta Kircher experimentou com a primeira lupa; o cônego Copérnico ensinou seu famoso sistema; o jesuíta Cavaliere elaborou os componentes da luz branca; o jesuíta Secchi fez estudos frutíferos concernentes a manchas solares; o franciscano Berthold Schwarz descobriu a pólvora. Outras obras científicas por sacerdotes e monges: o dominicano Spina descobriu o uso de óculos; o beneditino Pontius inventou um método de ensinar surdos-mudos; o dominicano Calandoni inventou um compositor para tomar o lugar do compositador; o monge Veit descobriu a escala e regras de harmonia na música. O Papa Gregório XIII reformou o calendário.
+> Na ciência física, o diácono Gioja descobriu o ímã e bússola; o jesuíta Kircher experimentou com a primeira lente ardente; o cônego Copérnico ensinou seu famoso sistema; o jesuíta Cavaliere elaborou os componentes da luz branca; o jesuíta Secchi fez estudos frutíferos concernentes a manchas solares; o franciscano Berthold Schwarz descobriu a pólvora. Outras obras científicas por sacerdotes e monges: o dominicano Spina descobriu o uso de óculos; o beneditino Pontius inventou um método de ensinar surdos-mudos; o dominicano Calandoni inventou um tipógrafo para tomar o lugar do compositor; o monge Veit descobriu a escala e regras de harmonia na música. O Papa Gregório XIII reformou o calendário.
 
 6. A Igreja ajudou a estabelecer governos livres e estáveis; civilizaram os bárbaros. Através dos Beneditinos, Cistercienses e Trapistas, reclamaram extensas áreas de terras baldias. A Igreja cuidou dos pobres, doentes, órfãos, velhos e desamparados. Abriu hospitais, resgatou cativos e libertou escravos. O Papa Inocêncio III é conhecido como "Pai dos Hospitais".
 

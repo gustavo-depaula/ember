@@ -2,22 +2,22 @@
 
 ![](../images/lesson-112.webp)
 
-*Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19: 1-10). Thus he determined to make reparation for his usury.*
+*Once our Lord was walking through Jericho. A rich publican Zacheus, wished to see Him, but the crowd was so great that he could not. He therefore climbed up a tree along the path of our Lord. Jesus saw Zacheus and told him to come down, for He would be his guest. Zacheus told Jesus that he would restore fourfold whatever he had taken wrongly from anyone. Upon this Jesus called Zacheus a son of Abraham (Luke 19:1-10). Thus he determined to make reparation for his usury.*
 
 
 **Are we obliged to repair damage unjustly done to the property of others?**
 
 — We are obliged to repair damage unjustly done to the property of others, or to pay the amount of the damage, as far as we are able.
 
-> "If any man hurt a field or a vineyard, and put in his beast to feed upon that which is other men's: he shall restore the best of whatsoever he hath in his own field, or in his vineyard, according to the estimation of the damage" (Ex. 22: 5).
+> "If any man hurt a field or a vineyard, and put in his beast to feed upon that which is other men's: he shall restore the best of whatsoever he hath in his own field, or in his vineyard, according to the estimation of the damage" (Ex. 22:5).
 
 1. If we have unknowingly, by purchase or gift, obtained possession of stolen property, we are bound to restore it to the rightful owner, as soon as we learn the truth.
 
-> We are just possessors only as long as we do not know the goods were stolen. As soon as we become aware of that fact, we must give up the property. "The beginning of a good way is to do justice; and this is more acceptable with God, than to offer sacrifices . . . Better is a little with justice, than great revenues with iniquity" (Proverbs 16: 5, 8).
+> We are just possessors only as long as we do not know the goods were stolen. As soon as we become aware of that fact, we must give up the property. "The beginning of a good way is to do justice; and this is more acceptable with God, than to offer sacrifices . . . Better is a little with justice, than great revenues with iniquity" (Proverbs 16:5, 8).
 
 2. If one refuses to restore stolen property or to repair damage, he has unjustly done to the property of others, he cannot be forgiven. He will not obtain pardon from God, nor absolution from the priest, even if he confess his sin over and over again.
 
-> As long as one does not sincerely intend to make reparation, his sin will not be remitted, even though he entreat divine pardon with weeping, or seek to appease divine justice by fasts and penances. It was not till Zacheus declared his determination to make restitution that Our Lord called him a son of Abraham (Luke 19: 9).
+> As long as one does not sincerely intend to make reparation, his sin will not be remitted, even though he entreat divine pardon with weeping, or seek to appease divine justice by fasts and penances. It was not till Zacheus declared his determination to make restitution that Our Lord called him a son of Abraham (Luke 19:9).
 
 3. Justice requires reparation of the evil we do, in so far as we have ability to make that reparation. Without restitution or reparation, there is no forgiveness.
 
@@ -30,7 +30,7 @@
 
 — We are obliged to restore to the owner stolen goods, or their value, whenever we are able.
 
-> "If any man steal an ox or a sheep, and kill or sell it: he shall restore five oxen for one ox, and four sheep for one sheep" (Ex. 22: 1).
+> "If any man steal an ox or a sheep, and kill or sell it: he shall restore five oxen for one ox, and four sheep for one sheep" (Ex. 22:1).
 
 1. If the rightful owner is dead, the property must be restored to his heirs. If there are no heirs, it must be given to the poor or for some other charitable purpose.
 
@@ -51,7 +51,7 @@
 
 1. We are permitted to desire the property of others only when we propose to obtain it by legitimate means, such as by purchase or exchange.
 
-> "For covetousness is the root of all evils, and some in their eagerness to get rich have strayed from the faith and have involved themselves in many troubles" (1 Tim. 6: 10).
+> "For covetousness is the root of all evils, and some in their eagerness to get rich have strayed from the faith and have involved themselves in many troubles" (1 Tim. 6:10).
 
 2. Among those guilty of violating the tenth commandment are;
 

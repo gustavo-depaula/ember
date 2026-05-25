@@ -11,11 +11,11 @@
 
 1. An angry man loses his reason. In anger, a man will do what he afterwards regrets. From anger arise hatred, revenge, quarrelling, blasphemy, contumely, and murder. The virtues of patience and meekness are opposed to anger. (See Chapter 45 on Meekness, Abstinence, Zeal, Brotherly Love)
 
-> Anger, or wrath, is a temporary madness. A man with this vice flies into a rage at every little thing. He always puts the blame of his anger on others, and even when he is alone he gets angry. "The wrath of man does not work the justice of God" (Jas. 1: 20).
+> Anger, or wrath, is a temporary madness. A man with this vice flies into a rage at every little thing. He always puts the blame of his anger on others, and even when he is alone he gets angry. "The wrath of man does not work the justice of God" (Jas. 1:20).
 
 Wilful murder, one of the "sins that cry to heaven for vengeance," arises from anger.
 
-> When the first wilful murder took place, and Cain killed his brother Abel, God said to Cain, "The voice of thy brother's blood crieth to me from the earth" (Gen. 4: 10).
+> When the first wilful murder took place, and Cain killed his brother Abel, God said to Cain, "The voice of thy brother's blood crieth to me from the earth" (Gen. 4:10).
 
 2. He who indulges in anger injures his health, becomes hated, incurs damnation.
 
@@ -23,28 +23,28 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 3. When we feel ourselves becoming angry, we should never speak or act, but try to calm ourselves by prayer.
 
-> St. Francis de Sales said: "I have made an agreement with my tongue never to utter a word while my heart is excited." "Let every man be slow to speak and slow to wrath" (Jas. 1: 19).
+> St. Francis de Sales said: "I have made an agreement with my tongue never to utter a word while my heart is excited." "Let every man be slow to speak and slow to wrath" (Jas. 1:19).
 
 4. If we should be so unhappy as to have offended anyone by our anger, we should hasten to apologize.
 
-> "Do not let the sun go down upon your anger" (Ephes. 4: 26)
+> "Do not let the sun go down upon your anger" (Ephes. 4:26)
 
 5. A just anger against sin and injustice is praiseworthy. We may hate the sin, but not the sinner.
 
-> Christ had this just wrath when He drove the sellers from the Temple. Holy Scripture says, "Be angry and do not sin" (Ephes. 4: 26).
+> Christ had this just wrath when He drove the sellers from the Temple. Holy Scripture says, "Be angry and do not sin" (Ephes. 4:26).
 
 
 **What is gluttony?**
 
 — Gluttony is an excessive desire for or indulgence in food or drink.
 
-1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly" (Phil 3: 19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
+1. Gluttony is greediness, intemperance in eating and drinking. Of the gluttonous, St. Paul said that "their god is the belly" (Phil 3:19). We should not be either too greedy or too dainty about the nourishment we take. The virtue opposed to gluttony is temperance.
 
 > We should not eat more than we need to support life. "We do not live to eat, but eat to live." We must not take what is injurious to health, even if its taste is pleasing. We must have regular hours for our meals. We should not be too particular about food, eat what is set before us, and not get angry when a dish is not very appetizing. The purpose of food is to give strength for the work we do while still on earth preparing for our final end.
 
 2. Gluttony produces dullness of mind, laziness, and sensuality. The vice of drunkenness is a terrible evil, leading to worse sins. A man when drunk loses his reason, and often makes a fool of himself. If reason is the chief difference between man and the beast, why should one extinguish it by drunkenness?
 
-> "The sensual man does not perceive the things that are of the Spirit of God" (1 Cor. 2: 14). "He who sows in his flesh, from the flesh also he will reap corruption" (Gal. 6: 8). It is well for young people to abstain from drinking alcoholic beverages and smoking till after they are twenty years of age. If they do this, the likelihood is that they will not contract vice. (See Chapter 45 on Meekness, Abstinence, Zeal, Brotherly Love)
+> "The sensual man does not perceive the things that are of the Spirit of God" (1 Cor. 2:14). "He who sows in his flesh, from the flesh also he will reap corruption" (Gal. 6:8). It is well for young people to abstain from drinking alcoholic beverages and smoking till after they are twenty years of age. If they do this, the likelihood is that they will not contract vice. (See Chapter 45 on Meekness, Abstinence, Zeal, Brotherly Love)
 
 
 **What is envy?**
@@ -66,7 +66,7 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 —Sloth is the neglect of one's duties, spiritual or temporal, through laziness. 1. The rule of the universe is activity; life and movement may be found in all nature. The slothful man is the exception; and he by his laziness goes against nature.
 
-> "Go to the ant, O sluggard, and consider her ways, and learn wisdom" (Prov. 6: 6). The slothful keep putting off doing anything till tomorrow, and tomorrow, and tomorrow, which often never comes.
+> "Go to the ant, O sluggard, and consider her ways, and learn wisdom" (Prov. 6:6). The slothful keep putting off doing anything till tomorrow, and tomorrow, and tomorrow, which often never comes.
 
 2. Many complain of hard luck, but often misfortunes come from laziness. The virtues of diligence and zeal are opposed to sloth.
 
@@ -74,7 +74,7 @@ Wilful murder, one of the "sins that cry to heaven for vengeance," arises from a
 
 3. Spiritual sloth is called lukewarmness. It is also called tepidity.
 
-> The lukewarm person would like to have the rewards given by God, but will not move a finger to serve Him. As soon as it is necessary to exert himself, he shrinks from the effort. Great Sinners have been known to become great saints, but the lukewarm, never. Holy Scripture says: "I would that thou wert cold or hot. But because thou art lukewarm, and neither cold nor hot, I am about to vomit thee out of my mouth" (Apoc. 3: 15,16).
+> The lukewarm person would like to have the rewards given by God, but will not move a finger to serve Him. As soon as it is necessary to exert himself, he shrinks from the effort. Great Sinners have been known to become great saints, but the lukewarm, never. Holy Scripture says: "I would that thou wert cold or hot. But because thou art lukewarm, and neither cold nor hot, I am about to vomit thee out of my mouth" (Apoc. 3:15,16).
 
 4. Sloth leads to many sins; idleness begets vice. The lazy neglect good works.
 

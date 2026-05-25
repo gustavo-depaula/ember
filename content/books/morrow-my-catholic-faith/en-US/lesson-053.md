@@ -2,14 +2,14 @@
 
 ![](../images/lesson-053.webp)
 
-*The apostolicity of the Church receives additional proof from the fact that today it still administers the very same seven sacraments administered by the Apostles. Non-Catholic churches have abandoned most of the sacraments, but the Catholic Church preserves and administers them all. Among the sacraments thus preserved are (1) Confirmation, and (2) Extreme Unction. St. Peter and St. John administered the first (Acts 8: 14-17). St. James wrote about the second (Jas. 5: 14,15).*
+*The apostolicity of the Church receives additional proof from the fact that today it still administers the very same seven sacraments administered by the Apostles. Non-Catholic churches have abandoned most of the sacraments, but the Catholic Church preserves and administers them all. Among the sacraments thus preserved are (1) Confirmation, and (2) Extreme Unction. St. Peter and St. John administered the first (Acts 8:14-17). St. James wrote about the second (Jas. 5:14,15).*
 
 
 **Why is the Church catholic or universal?**
 
 — The Catholic Church is catholic or universal because, destined to last for all time, it never fails to fulfil the divine commandment to teach all nations all the truths revealed by God.
 
-> "You shall receive power when the Holy Spirit comes upon you, and you shall be witnesses for me in Jerusalem and in all Judea and Samaria and even to the very ends of the earth" (Acts 1: 8).
+> "You shall receive power when the Holy Spirit comes upon you, and you shall be witnesses for me in Jerusalem and in all Judea and Samaria and even to the very ends of the earth" (Acts 1:8).
 
 1. The very name of the Church is Catholic, that is, universal. Even its critics admit that it is catholic. It has existed in all ages since the time of Christ, and teaches all peoples of every nation the same faith.
 
@@ -21,7 +21,7 @@
 
 3. The Church everywhere teaches all the doctrines that Christ commanded His Apostles to teach.
 
-> In the Catholic Church is fulfilled the prophecy of Malachy: "From the rising of the sun to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation; for my name is great among the Gentiles, saith the Lord of Hosts" (Mal. 1: 11).
+> In the Catholic Church is fulfilled the prophecy of Malachy: "From the rising of the sun to the going down, my name is great among the Gentiles, and in every place there is sacrifice, and there is offered to my name a clean oblation; for my name is great among the Gentiles, saith the Lord of Hosts" (Mal. 1:11).
 
 4. The True Church must be so organized that it can admit all men into its communion. This the Catholic Church does. Christ founded the Church for all men, not only for a selected few, He died for all men, and wishes the fruits of His death to do good to all men. At present only the Catholic Church is to be found all over the world, ministering to all races and peoples, to all classes of the population, poor or rich, wise or ignorant, saint or sinner. The Catholic Church is the only Church for Everyman.
 
@@ -51,8 +51,8 @@ That the Pope is God and can do no wrong; That anybody or anything may be worshi
 
 > If it did not, then Christ's promise to be with His Church always had failed; His Church had died, and no human reform could possibly have resurrected it. If it did exist, then those who invented new doctrines were not reforming it, but founding new churches.
 
-4. In the same way, the Church derives all its holy orders, doctrines, and mission from the Apostles. It is "built upon the foundation of the Apostles," of which Christ is the cornerstone (Eph. 2: 20). It holds intact the doctrine and traditions of the Apostles, to whom Christ gave authority to teach.
+4. In the same way, the Church derives all its holy orders, doctrines, and mission from the Apostles. It is "built upon the foundation of the Apostles," of which Christ is the cornerstone (Eph. 2:20). It holds intact the doctrine and traditions of the Apostles, to whom Christ gave authority to teach.
 
-> St. Paul says: "Even if we or an angel from heaven should preach a gospel to you other than that which we have preached to you, let him be anathema!" (Gal. 1: 8). A church which at any time denies an apostolic doctrine, discards the sacrament of Holy Orders, or breaks away from obedience to the Pope, ceases to be apostolic. It becomes a dead branch broken off from the parent vine which is Christ Himself: "I am the vine: you are the branches" (John 15: 5).
+> St. Paul says: "Even if we or an angel from heaven should preach a gospel to you other than that which we have preached to you, let him be anathema!" (Gal. 1:8). A church which at any time denies an apostolic doctrine, discards the sacrament of Holy Orders, or breaks away from obedience to the Pope, ceases to be apostolic. It becomes a dead branch broken off from the parent vine which is Christ Himself: "I am the vine: you are the branches" (John 15:5).
 
 That scapulars, medals, crucifixes, and other sacramentals can give graces without proper dispositions on the part of the user; That non-Catholics will all be damned; That all Catholics will go to heaven; That the Bible is the only rule of faith; That anybody may interpret the Bible; That Our Lord Jesus Christ established many Churches; That outward piety is profitable without charity of the spirit; That all religions are the same.

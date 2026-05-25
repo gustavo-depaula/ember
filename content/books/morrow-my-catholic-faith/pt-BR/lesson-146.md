@@ -2,14 +2,14 @@
 
 ![](../images/lesson-146.webp)
 
-*Nosso Senhor, falando sobre o perdão de pecados, contou a parábola do Filho Pródigo, que tomou sua herança de seu pai e a desperdiçou num país distante. Mas chegou um tempo em que sofreu dificuldades como cuidador de porcos. Então, sentindo contrição pelo que tinha feito, disse a si mesmo: "Quantos empregados na casa de meu pai têm pão em abundância, enquanto eu pereço aqui de fome! Levantar-me-ei e irei a meu pai, e dir-lhe-ei: Pai, pequei contra o céu e diante de ti. Já não sou digno de ser chamado teu filho; faze-me como um de teus empregados. E levantou-se e foi a seu pai" (Lucas 15: 17-20).*
+*Nosso Senhor, falando sobre o perdão de pecados, contou a parábola do Filho Pródigo, que tomou sua herança de seu pai e a desperdiçou num país distante. Mas chegou um tempo em que sofreu dificuldades como cuidador de porcos. Então, sentindo contrição pelo que tinha feito, disse a si mesmo: "Quantos empregados na casa de meu pai têm pão em abundância, enquanto eu pereço aqui de fome! Levantar-me-ei e irei a meu pai, e dir-lhe-ei: Pai, pequei contra o céu e diante de ti. Já não sou digno de ser chamado teu filho; faze-me como um de teus empregados. E levantou-se e foi a seu pai" (Lucas 15:17-20).*
 
 
 **O que é contrição?**
 
 — Contrição é pesar sincero por ter ofendido Deus e ódio pelos pecados que cometemos, com um firme propósito de não pecar mais.
 
-> "O Senhor está perto dos que têm o coração contrito" (Sl. 33: 19).
+> "O Senhor está perto dos que têm o coração contrito" (Sl. 33:19).
 
 Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenhamos verdadeira contrição por ele. Sem verdadeira contrição mil confissões não nos aproveitarão nada exceto para adicionar a nossos pecados. A menos que haja pesar pelos pecados não há perdão.
 
@@ -49,18 +49,18 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 > Mesmo a leve perda de temperamento ou desconforto surgindo do pecado venial não é compensada por qualquer alívio ou prazer que possamos obter dele. E incorreremos nos sofrimentos do purgatório e separação de Deus?
 
-3. Pecado venial é um passo para o pecado mortal. Causa descuido em relação aos pecados e leva-nos à preguiça em relação às boas obras. Tendo esfriado em nosso zelo, começamos a negligenciar pequenas faltas e logo consideramos as maiores com indiferença.
+3. Pecado venial é um passo para o pecado mortal. Causa descuido em relação aos pecados, e leva-nos à preguiça em relação às boas obras. Tendo esfriado em nosso zelo, começamos a negligenciar pequenas faltas e logo consideramos as maiores com indiferença.
 
 > E assim, sendo descuidados sobre o pecado venial, caímos no pecado mortal "pouco a pouco". Nenhum homem caiu subitamente no vício; o vício é um hábito de pecado.
 
-4. Pecado venial priva-nos de muitas graças pelas quais poderíamos merecer mais ajuda e amor de Deus. Ao ir à Confissão e se temos apenas pecados veniais para confessar, devemos estar arrependidos de pelo menos um deles ou de algum pecado de nosso passado que confessamos; do contrário a confissão não é válida.
+4. Pecado venial priva-nos de muitas graças pelas quais poderíamos merecer mais ajuda e amor de Deus. Ao ir à Confissão, e se temos apenas pecados veniais para confessar, devemos estar arrependidos de pelo menos um deles ou de algum pecado de nosso passado que confessamos; do contrário a confissão não é válida.
 
 
 **Por que devemos ter contrição pelo pecado mortal?**
 
 — Devemos ter contrição pelo pecado mortal porque é o maior de todos os males, ofende gravemente a Deus, mantém-nos fora do céu e condena-nos para sempre ao inferno.
 
-> Pecado é o maior de todos os males porque seus efeitos duram mais tempo e tem os resultados mais dreadfully. Saúde abalada, pobreza e outros males materiais duram apenas por um tempo; na morte todos terminarão para sempre e teremos nossa libertação deles. Mas o pecado? Os males surgindo do pecado mortal, além daqueles que nos perseguem nesta vida, nos perseguirão até a eternidade.
+> Pecado é o maior de todos os males porque seus efeitos duram mais tempo e tem os resultados mais terríveis. Saúde abalada, pobreza e outros males materiais duram apenas por um tempo; na morte todos terminarão para sempre e teremos nossa libertação deles. Mas o pecado? Os males surgindo do pecado mortal, além daqueles que nos perseguem nesta vida, nos perseguirão até a eternidade.
 
 
 **O que é um ato de contrição?**
@@ -69,7 +69,7 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 1. Um ato de contrição pode ser tão curto quanto isto: "Ó meu Deus, estou arrependido com todo meu coração por ter-Vos ofendido, porque sois todo bom!"
 
-> "Tem piedade de mim, ó Deus, tem piedade de mim, pois minha alma confia em Ti" (Sl. 56: 2).
+> "Tem piedade de mim, ó Deus, tem piedade de mim, pois minha alma confia em Ti" (Sl. 56:2).
 
 2. Um ato de contrição é suficiente para perdoar pecados veniais. Podemos portanto ir à Santa Comunhão sem confissão se não temos pecado mortal, após dizer tal ato.
 

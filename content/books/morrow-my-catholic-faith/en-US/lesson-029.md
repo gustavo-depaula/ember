@@ -17,7 +17,7 @@
 
 2. Jesus Christ is Our Lord, the Son of God the Second Person of the Blessed Trinity, true God and true Man. We call Him "Our Lord" because as God He is Lord and Master of all, and as our Saviour He redeemed us with His Blood.
 
-> Christ is our Creator, Redeemer, Lawgiver. Teacher, and judge. All these we mean when we say Our Lord. St. Paul says: "He is the Blessed and only Sovereign, the King of kings and Lord of lords ... to whom be honour and everlasting dominion. Amen" (1 Tim. 6: 15,16).
+> Christ is our Creator, Redeemer, Lawgiver. Teacher, and judge. All these we mean when we say Our Lord. St. Paul says: "He is the Blessed and only Sovereign, the King of kings and Lord of lords ... to whom be honour and everlasting dominion. Amen" (1 Tim. 6:15,16).
 
 3. There is only one Person, the Divine Person, in Jesus Christ. Jesus Christ is not a human person. Everything in Him even as Man is divine and worthy of adoration.
 
@@ -34,7 +34,7 @@
 
 2. Because of His Divine nature, Christ is truly God; because of His human nature, He is truly man. In His Divine nature He is the Second Person of the Blessed Trinity, God the Son, the Eternal Word. He took His human nature from His Mother.
 
-> It was to the Blessed Virgin that the Archangel Gabriel announced: "And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus. He shall be great and shall be called the Son of the Most High" (Luke 1: 32).
+> It was to the Blessed Virgin that the Archangel Gabriel announced: "And behold, thou shalt conceive in thy womb and shalt bring forth a son; and thou shalt call his name Jesus. He shall be great and shall be called the Son of the Most High" (Luke 1:32).
 
 Therefore Jesus Christ is both God and man; He has both Divine and human powers; He has knowledge, can will and act as God and as man. For example, with His human nature Jesus worked, ate, spoke, felt pain. But it was His divine nature that enabled Him to become transfigured, walk on the waters, raise the dead.
 
@@ -53,11 +53,11 @@ Therefore Jesus Christ is both God and man; He has both Divine and human powers;
 
 1. Our Lord is called Jesus because He came to save men from sin, and to open the doors of heaven to them.
 
-> Before the birth of Our Lord, an angel appeared to St. Joseph and said: "Thou shalt call His name Jesus" (Matt. 1: 21). At the Annunciation the angel Gabriel had spoken the same words to Mary. "After eight days were accomplished, that the child should be circumcised, His name was called Jesus" (Luke 2: 21).
+> Before the birth of Our Lord, an angel appeared to St. Joseph and said: "Thou shalt call His name Jesus" (Matt. 1:21). At the Annunciation the angel Gabriel had spoken the same words to Mary. "After eight days were accomplished, that the child should be circumcised, His name was called Jesus" (Luke 2:21).
 
 2. We should say the name of Our Lord with great reverence. We should bow our head every time we utter it.
 
-> "In the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth" (Phil. 2: 10). The symbol IHS is composed of the first three letters of the name Jesus in Greek.
+> "In the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth" (Phil. 2:10). The symbol IHS is composed of the first three letters of the name Jesus in Greek.
 
 
 **What does the name Christ mean?**

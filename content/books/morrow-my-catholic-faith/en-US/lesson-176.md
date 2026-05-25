@@ -60,7 +60,7 @@ All who volunteer can be used: "The harvest indeed is abundant, but the labourer
 
 1. Every one should pray steadfastly and sincerely for priests and religious.
 
-> Christ said: "Pray therefore the Lord of the harvest to send forth labourers into his harvest" (Matt. 9: 38).
+> Christ said: "Pray therefore the Lord of the harvest to send forth labourers into his harvest" (Matt. 9:38).
 
 2. Those who are financially able should support poor students in the seminaries.
 

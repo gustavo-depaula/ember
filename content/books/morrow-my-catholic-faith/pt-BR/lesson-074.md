@@ -9,9 +9,9 @@
 
 — A Igreja Católica é chamada o Corpo Místico de Cristo, porque seus membros estão unidos por laços sobrenaturais uns com os outros e com Cristo, seu Cabeça, assim assemelhando-se aos membros e cabeça do corpo humano vivo.
 
-1. O termo "Corpo Místico de Cristo" é derivado da metáfora de São Paulo: "Ele é a cabeça de Seu corpo, a Igreja" (Col. 1: 18). Novamente: "Vós sois o corpo de Cristo, membro por membro" (1 Cor. 12: 27). "Nós, os muitos, somos um só corpo em Cristo" (Rom. 12: 5).
+1. O termo "Corpo Místico de Cristo" é derivado da metáfora de São Paulo: "Ele é a cabeça de Seu corpo, a Igreja" (Col. 1:18). Novamente: "Vós sois o corpo de Cristo, membro por membro" (1 Cor. 12:27). "Nós, os muitos, somos um só corpo em Cristo" (Rom. 12:5).
 
-> Jesus Mesmo usou um símbolo similar: "Eu sou a videira, vós sois os ramos. Quem permanece em Mim, e Eu nele, esse dá muito fruto; pois sem Mim nada podeis fazer. Se alguém não permanecer em Mim, será lançado fora como o ramo e secará" (João 15: 5-6).
+> Jesus Mesmo usou um símbolo similar: "Eu sou a videira, vós sois os ramos. Quem permanece em Mim, e Eu nele, esse dá muito fruto; pois sem Mim nada podeis fazer. Se alguém não permanecer em Mim, será lançado fora como o ramo e secará" (João 15:5-6).
 
 2. No Corpo Místico, Cristo como Cabeça quer ser ajudado por Seu Corpo. Assim Ele governa a Igreja, mas faz isto indiretamente, através da hierarquia, autoridade humana.
 
@@ -32,11 +32,11 @@
 
 1. Os santos e anjos no céu compõem a Igreja triunfante, porque ganharam a coroa da vitória. As almas no purgatório compõem a Igreja padecente, porque ainda têm que expiar por seus pecados antes que possam entrar no céu. Os fiéis na terra compõem a Igreja militante, porque têm que lutar incessantemente contra os inimigos de suas almas.
 
-> A Igreja triunfante, a Igreja padecente e a Igreja militante compõem uma Igreja unida em Cristo, membros de um corpo cujo cabeça é Cristo: "Assim nós, os muitos, somos um só corpo em Cristo, mas separadamente membros uns dos outros" (Rom. 12: 5).
+> A Igreja triunfante, a Igreja padecente e a Igreja militante compõem uma Igreja unida em Cristo, membros de um corpo cujo cabeça é Cristo: "Assim nós, os muitos, somos um só corpo em Cristo, mas separadamente membros uns dos outros" (Rom. 12:5).
 
 2. Todos os membros da Igreja são de uma família, e compartilham dos tesouros espirituais da Igreja. Contudo, nem todos membros da Igreja Militante gozam plenamente dos benefícios da comunhão dos santos, mas apenas aqueles em estado de graça.
 
-> "Membros mortos" não perdem todos os benefícios da comunhão dos santos, pois a Igreja reza publicamente por eles, e membros particulares em estado de graça frequentemente enviam petições por eles. Assim podem receber a graça de arrepender-se e recuperar a graça santificante. Logo um Católico que ainda pertence à Igreja, embora um grande pecador, pode ter mais esperança de ser convertido do que um que se corta da Igreja.
+> "Membros mortos" não perdem todos os benefícios da comunhão dos santos, pois a Igreja reza publicamente por eles, e membros particulares em estado de graça frequentemente enviam petições por eles. Assim, podem receber a graça de arrepender-se e recuperar a graça santificante. Logo um Católico que ainda pertence à Igreja, embora um grande pecador, pode ter mais esperança de ser convertido do que um que se corta da Igreja.
 
 
 **Como os membros da Comunhão dos Santos ajudam-se mutuamente?**
@@ -57,7 +57,7 @@
 
 4. Através da comunhão dos santos, os bem-aventurados no céu podem ajudar aqueles no purgatório e na terra rezando por eles. Os fiéis na terra devem honrar os bem-aventurados no céu e rezar a eles, porque são dignos de honra e como amigos de Deus ajudarão os fiéis na terra.
 
-> É por isto que rezamos aos santos e anjos para que intercedam por nós diante de Deus, A Quem veem face a face. "Dando graças a Deus Pai, que nos fez dignos de compartilhar da sorte dos santos na luz" (Col. 1: 12).
+> É por isto que rezamos aos santos e anjos para que intercedam por nós diante de Deus, A Quem veem face a face. "Dando graças a Deus Pai, que nos fez dignos de compartilhar da sorte dos santos na luz" (Col. 1:12).
 
 5. A doutrina da comunhão dos santos é um dos dogmas mais consoladores da Igreja. Quando nossos entes queridos morrem, não estão separados de nós para sempre. Quer no céu quer no purgatório, ainda nos amam e rezam por nós.
 

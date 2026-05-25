@@ -9,7 +9,7 @@
 
 — Um bispo governa sobre aquela parte da Igreja, um território organizado chamado bispado, diocese ou sé, atribuída a ele pelo Papa.
 
-> A palavra "bispo" é uma tradução do grego *episcopos*, que significa "supervisor," um termo primeiro aplicado durante os tempos apostólicos. A Tito São Paulo escreveu: "Por esta razão te deixei em Creta, para que ponhas em ordem o que falta e designes presbíteros em cada cidade" (Tito 1: 5).
+> A palavra "bispo" é uma tradução do grego *episcopos*, que significa "supervisor," um termo primeiro aplicado durante os tempos apostólicos. A Tito São Paulo escreveu: "Por esta razão te deixei em Creta, para que ponhas em ordem o que falta e designes presbíteros em cada cidade" (Tito 1:5).
 
 1. Os bispos são os generais-de-divisão no vasto exército da Igreja. Comandam as diferentes divisões daquele exército, sujeitos à autoridade do comandante-em-chefe, o Bispo de Roma. Sob sua jurisdição estão os párocos encarregados das paróquias.
 
@@ -19,21 +19,21 @@
 
 2. Um bispo administra os bens temporais de sua diocese, e dá conta de sua administração ao Papa. Provê a educação e treinamento de candidatos ao sacerdócio, e a educação religiosa de todo seu rebanho. Dá faculdades para ouvir confissões, censura livros sobre assuntos religiosos, e tem muitos outros poderes para a própria administração de sua diocese. Um bispo é supremo em sua diocese, mas está sujeito em todas as coisas ao Papa, que o nomeia.
 
-> O Papa concede sua jurisdição aos bispos; antes que um bispo possa exercer seu ofício, tem que ser reconhecido e confirmado pelo Papa. É obrigado a ir a Roma em intervalos determinados, para relatar sobre o estado de sua diocese. Um bispo tem o direito de ser chamado a um Concílio Geral, que é uma assembleia dos bispos do mundo, presidida pelo Papa. Mas, "Se alguém aspira ao episcopado, deseja uma obra boa" (1 Tim. 3: 1).
+> O Papa concede sua jurisdição aos bispos; antes que um bispo possa exercer seu ofício, tem que ser reconhecido e confirmado pelo Papa. É obrigado a ir a Roma em intervalos determinados, para relatar sobre o estado de sua diocese. Um bispo tem o direito de ser chamado a um Concílio Geral, que é uma assembleia dos bispos do mundo, presidida pelo Papa. Mas, "Se alguém aspira ao episcopado, deseja uma obra boa" (1 Tim. 3:1).
 
 3. Um bispo é pastor de seu rebanho. Nomeia e supervisiona párocos para ajudá-lo.
 
 Ao governar sua diocese, é assistido por um número de "cônegos", ou por consultores diocesanos. Um bispo coadjutor ou auxiliar é comissionado para assistir o bispo de uma diocese. Geralmente um bispo coadjutor é um com direito de sucessão.
 
-> O Papa dirige-se a um bispo: *Irmão*, porque como bispos, têm o mesmo rank. Bispos usam mitra, e carregam um báculo como sinal de seu ofício de pastor. Usam uma cruz peitoral. Têm um anel, como símbolo de sua união com sua diocese. Os fiéis beijam este anel em sinal de obediência e respeito.
+> O Papa dirige-se a um bispo: *Irmão*, porque como bispos, têm o mesmo grau. Bispos usam mitra, e carregam um báculo como sinal de seu ofício de pastor. Usam uma cruz peitoral. Têm um anel, como símbolo de sua união com sua diocese. Os fiéis beijam este anel em sinal de obediência e respeito.
 
 4. Um Vigário Apostólico é um bispo que governa sobre um território que ainda não está plenamente organizado, chamado Vicariato Apostólico.
 
 > Quando o território é primeiro organizado, é geralmente colocado sob o cuidado de um sacerdote, e não de um bispo. Este sacerdote é chamado Prefeito Apostólico e seu território é uma Prefeitura Apostólica.
 
-5. Um Bispo ou Arcebispo titular é um que ostenta o título de uma diocese, mas não tem jurisdição sobre ela. Núnuncios, delegados apostólicos, bispos coadjutores e auxiliares, e vigários apostólicos são geralmente titulares.
+5. Um Bispo ou Arcebispo titular é um que ostenta o título de uma diocese, mas não tem jurisdição sobre ela. Núncios, delegados apostólicos, bispos coadjutores e auxiliares, e vigários apostólicos são geralmente titulares.
 
-> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao rank de bispos, e dado trabalho especial.
+> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao grau de bispos, e dado trabalho especial.
 
 6. Um Arcebispo ou Metropolitano é um bispo que tem certos poderes de jurisdição concedidos pelo Papa sobre dioceses vizinhas compondo sua província.
 

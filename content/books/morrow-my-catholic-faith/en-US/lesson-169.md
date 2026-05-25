@@ -28,7 +28,7 @@
 
 1. The person chosen should have the mental and spiritual qualifications necessary for the permanent partnership, the dispositions to harmonize with the prospective partners.
 
-> If young people will remember that marriage is for life, they will exercise greater prudence in courtship. With that prudence, by the grace of God, a man can surely find a partner of whom can be said: "She is a help like to himself, and a pillar of rest" (Ecclus. 36: 26).
+> If young people will remember that marriage is for life, they will exercise greater prudence in courtship. With that prudence, by the grace of God, a man can surely find a partner of whom can be said: "She is a help like to himself, and a pillar of rest" (Ecclus. 36:26).
 
 2. One can better judge the character and virtues of a future spouse at church and in the home than on the floor in ball-rooms. The advice, "Choose your partner at the communion rail" is very sound.
 

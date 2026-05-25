@@ -9,17 +9,17 @@
 
 — Extreme Unction is the sacrament which, through the anointing with blessed oil by the priest, and through his prayer, gives health and strength to the soul, and sometimes to the body, when we are in danger of death from sickness, accident, or old age.
 
-1. It was to cure the sick and console the afflicted that Our Lord worked many of His miracles. The Gospels give us vivid pictures of Him as He went about doing good, and "healing every disease and every sickness among the people" (Matt. 4: 23).
+1. It was to cure the sick and console the afflicted that Our Lord worked many of His miracles. The Gospels give us vivid pictures of Him as He went about doing good, and "healing every disease and every sickness among the people" (Matt. 4:23).
 
 > "Now when the sun was setting, all who had sick with various diseases brought them to him. And he laid his hands upon each of them and cured them" (Luke 4:40). So today, Christ comes to us in the Sacrament of Extreme Unction, and, if it be for the good of our soul, cures us of our sickness, saying to us, as He did to so many long ago, "Arise, be thou made whole."
 
-2. When Our Lord first sent out the Apostles, "they cast out many devils, and anointed with oil many sick people, and healed them" (Mark 6: 13).
+2. When Our Lord first sent out the Apostles, "they cast out many devils, and anointed with oil many sick people, and healed them" (Mark 6:13).
 
 > These words from Holy Scripture imply the institution by Our Lord of the Sacrament of Extreme Unction. Then, before His Ascension, He promised His disciples certain wonderful signs that should accompany and follow them that believed in Him: "In My name they shall cast out devils, ... they shall lay their hands upon the sick, and they shall recover."
 
 3. It is a certainty that the Apostles conferred Extreme Unction, as directly recommended and promulgated for the use of the faithful in the Epistle of St. James.
 
-> "Is any one among you sick? Let him bring in the presbyters of the Church, and let them pray over him, anointing him with oil in the Name of the Lord. And the prayer of faith will save the sick man, and the Lord will raise him up, and if he be in sins, they shall be forgiven him" (James 5: 14-15).
+> "Is any one among you sick? Let him bring in the presbyters of the Church, and let them pray over him, anointing him with oil in the Name of the Lord. And the prayer of faith will save the sick man, and the Lord will raise him up, and if he be in sins, they shall be forgiven him" (James 5:14-15).
 
 4. The outward sign or ceremony is the anointing with blessed oil, at the same time that the words are pronounced: "Through this holy unction and His own most tender mercy, may the Lord pardon thee whatever faults thou hast committed by sight (hearing, speech, etc.)"
 

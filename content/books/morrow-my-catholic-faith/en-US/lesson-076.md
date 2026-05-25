@@ -13,11 +13,11 @@
 
 1. The soul is judged by God, and rewarded with heaven, punished with hell, or sent for a time to be cleansed in purgatory. The body begins to corrupt and returns to the dust from which it came.
 
-> St. Peter spoke of the body as a tabernacle for the soul: "the putting out of my tabernacle is at hand" (2 Pet. 1:14). At death, "the dust returns to its earth, from whence it came, and the spirit returns to God, Who gave it" (Eccles. 12: 7). The only exceptions have been the bodies of Our Lord and the Blessed Virgin, which rose to join their soul, and are now in heaven.
+> St. Peter spoke of the body as a tabernacle for the soul: "the putting out of my tabernacle is at hand" (2 Pet. 1:14). At death, "the dust returns to its earth, from whence it came, and the spirit returns to God, Who gave it" (Eccles. 12:7). The only exceptions have been the bodies of Our Lord and the Blessed Virgin, which rose to join their soul, and are now in heaven.
 
 2. All men must die, because death is a consequence of original sin. "Therefore as through one man sin entered into this world and through sin death, and thus death has passed into all men" (Rom. 5:12).
 
-> By their sin our first parents lost the immortality of the body, for God condemned them to die. "Dust thou art, and into dust thou shalt return" (Gen. 3: 19). Even Jesus Christ and His Mother submitted to death.
+> By their sin our first parents lost the immortality of the body, for God condemned them to die. "Dust thou art, and into dust thou shalt return" (Gen. 3:19). Even Jesus Christ and His Mother submitted to death.
 
 3. No one knows when, where, or how he will die. All we know is that we shall die, and that when our hour strikes, nobody can take our place.
 
@@ -25,7 +25,7 @@
 
 4. We must therefore always be ready to die. Death comes "as a thief in the night" when we least expect it. We must live as if every moment were the last of life, always ready to appear before our Divine Judge.
 
-> "Therefore you must also be ready, because at an hour that you do not expect, the Son of Man will come" (Matt. 24: 44).
+> "Therefore you must also be ready, because at an hour that you do not expect, the Son of Man will come" (Matt. 24:44).
 
 
 **How should we prepare for death?**
@@ -34,9 +34,9 @@
 
 1. We must keep in God's grace and love, so that when the Angel of Death comes, we may welcome him as one who takes us home to see the face of our loving Father. The good do not fear death.
 
-> Let us die with joy, saying to God, as Holy Simeon did: "Now thou dost dismiss thy servant, O Lord, according to thy word, in peace" (Luke 2: 29). Let us imitate St. Paul, who says, "I have fought the good fight. I have finished the course, I have kept the faith. For the rest, there is laid upon me a crown of justice, which the Lord, the just Judge, will give to me in that day" (2 Tim. 4: 7-8). St. Augustine exclaims: "O how sweet it is to die, if one's life has been a good one!" For such as he, "to die is gain". To the just man death is only a passing into a better life. It is a journey to his everlasting home, where his heavenly Father dwells. Death is to be feared only by the sinner, for it is the end of his earthly pleasures, and the beginning of his eternal punishment.
+> Let us die with joy, saying to God, as Holy Simeon did: "Now thou dost dismiss thy servant, O Lord, according to thy word, in peace" (Luke 2:29). Let us imitate St. Paul, who says, "I have fought the good fight. I have finished the course, I have kept the faith. For the rest, there is laid upon me a crown of justice, which the Lord, the just Judge, will give to me in that day" (2 Tim. 4:7-8). St. Augustine exclaims: "O how sweet it is to die, if one's life has been a good one!" For such as he, "to die is gain". To the just man death is only a passing into a better life. It is a journey to his everlasting home, where his heavenly Father dwells. Death is to be feared only by the sinner, for it is the end of his earthly pleasures, and the beginning of his eternal punishment.
 
-2. As a man lives, so he dies. Holy Scripture says: "As the tree falls so shall it lie" (Eccl. 11: 3). We should often recall the thought of death and eternity so that we may avoid sin. "In all thy works remember thy last end, and thou shalt never sin" (Ecclus. 7: 40). Those who put off reforming their lives in the hope of a deathbed repentance are like a traveller who starts packing when the train whistles for departure.
+2. As a man lives, so he dies. Holy Scripture says: "As the tree falls so shall it lie" (Eccl. 11:3). We should often recall the thought of death and eternity so that we may avoid sin. "In all thy works remember thy last end, and thou shalt never sin" (Ecclus. 7:40). Those who put off reforming their lives in the hope of a deathbed repentance are like a traveller who starts packing when the train whistles for departure.
 
 > Let us picture the death of a just man, one who all his life has done good and avoided evil. He has often seen people taken away suddenly, when they least expected it, and made up his mind to be always ready to die and face his Judge. He had hoped he would, at the end of his life, die with the Last Sacraments, a priest, and his family by his side. But his obligations have taken him into the wilderness; there he is dying, with only the guide at his side. But he is at peace, and a smile is on his lips, for he is ready to die: being always in the state of grace, he is ready to meet his Judge anywhere, any time. He knows the Judge will smile, too, and welcome him as a good son, a friend.
 

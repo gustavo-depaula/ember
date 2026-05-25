@@ -13,7 +13,7 @@
 
 — O padre usa o amito, alva, cíngulo, manípulo, estola e casula, na celebração da Missa.
 
-> Quando o padre aparece diante de Deus no altar, ele está vestido com paramentos adequados. Deus Mesmo deu direções sobre os paramentos dos padres no Antigo Testamento (Êxodo 28: 4). Os principais paramentos usados pelos padres católicos chegaram até nós desde o tempo dos Apóstolos.
+> Quando o padre aparece diante de Deus no altar, ele está vestido com paramentos adequados. Deus Mesmo deu direções sobre os paramentos dos padres no Antigo Testamento (Êxodo 28:4). Os principais paramentos usados pelos padres católicos chegaram até nós desde o tempo dos Apóstolos.
 
 > Significado simbólico tem sido atribuído aos diferentes paramentos. As orações ditas pelo padre ao vestir cada peça de paramento mostram o significado atribuído a elas pela Igreja.
 
@@ -35,7 +35,7 @@
 
 5. A estola é a longa faixa de seda que se ajusta ao redor do pescoço e é cruzada sobre o peito do padre. É o símbolo de autoridade na Igreja, de todos os paramentos o mais abençoado.
 
-> A oração de paramento é, "Restaura-me, ó Senhor, o estado de imortalidade que foi perdido para mim por meus primeiros pais, e embora indigno de aproximar-Te dos sagrados mistérios, concede-me nevertheless alegria eterna." Como sinal de seus plenos poderes sacerdotais o bispo não cruza a estola na frente. Somente o Papa tem o direito de usá-la sempre.
+> A oração de paramento é, "Restaura-me, ó Senhor, o estado de imortalidade que foi perdido para mim por meus primeiros pais, e embora indigno de aproximar-Te dos sagrados mistérios, concede-me contudo alegria eterna." Como sinal de seus plenos poderes sacerdotais, o bispo não cruza a estola na frente. Somente o Papa tem o direito de usá-la sempre.
 
 6. A casula é o paramento superior usado pelo celebrante na Missa. Pende dos ombros, diante e atrás, quase até os joelhos.
 

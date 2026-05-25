@@ -2,7 +2,7 @@
 
 ![](../images/lesson-123.webp)
 
-*Os sacramentos derivam sua eficácia de Cristo, por Cujos méritos nós os possuímos. Não derivam qualquer mérito da pessoa que os administra. Portanto os sacramentos dão graça por si mesmos, mesmo quando o padre ou pessoa administrando-os é indigno, desde que o recipiente tenha as disposições próprias. Bom remédio é bom independentemente do farmacêutico ou médico.*
+*Os sacramentos derivam sua eficácia de Cristo, por Cujos méritos nós os possuímos. Não derivam qualquer mérito da pessoa que os administra. Portanto, os sacramentos dão graça por si mesmos, mesmo quando o padre ou pessoa administrando-os é indigno, desde que o recipiente tenha as disposições próprias. Bom remédio é bom independentemente do farmacêutico ou médico.*
 
 
 **O que é um sacramento?**

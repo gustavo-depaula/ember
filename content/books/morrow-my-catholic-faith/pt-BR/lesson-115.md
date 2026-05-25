@@ -13,21 +13,21 @@
 
 1. Deus é o Deus de verdades e somos obrigados a respeitar aquela verdade. Se quiséssemos provar-nos filhos de Deus, deveríamos, como Ele, sempre respeitar a verdade.
 
-> "Eu sou o caminho, e a verdade, e a vida" diz Nosso Senhor (João 14: 6). "Não mentireis" (Lev. 19: 11). Isto é por que uma mentira, mesmo quando contada para um bom propósito, é sempre um pecado, porque é contrária à natureza de Deus.
+> "Eu sou o caminho, e a verdade, e a vida" diz Nosso Senhor (João 14:6). "Não mentireis" (Lev. 19:11). Isto é por que uma mentira, mesmo quando contada para um bom propósito, é sempre um pecado, porque é contrária à natureza de Deus.
 
-2. O amante da verdade é como Deus, e muito agradável a Ele. O amante da verdade é também tido em estima por seus semelhantes, que sabem que podem confiar nele, pois nele como em Natanael (João 1: 47), não há dolo.
+2. O amante da verdade é como Deus, e muito agradável a Ele. O amante da verdade é também tido em estima por seus semelhantes, que sabem que podem confiar nele, pois nele como em Natanael (João 1:47), não há dolo.
 
 > Mesmo se sofremos por dizer a verdade, seremos salvos de problemas e possuiremos uma consciência limpa.
 
 3. Um mentiroso habitual não apenas é frequentemente levado ao pecado grave, mas perde a confiança de seus semelhantes, e é causa de muito mal. Quando as pessoas sabem que alguém é um mentiroso habitual, não crêem nele mesmo quando diz a verdade.
 
-> O mentiroso é quase sempre culpado de outros pecados. "Melhor é o ladrão do que o homem que está sempre mentindo. Homens mentirosos são sem honra" (Ecli. 20: 27-28).
+> O mentiroso é quase sempre culpado de outros pecados. "Melhor é o ladrão do que o homem que está sempre mentindo. Homens mentirosos são sem honra" (Ecli. 20:27-28).
 
 4. No oitavo mandamento, Deus nos proíbe detratar de qualquer modo a honra ou reputação de nosso próximo. É nossa boa reputação que nos mantém bem-vistos e bem-falados entre nossos semelhantes.
 
-> "Um bom nome é melhor que grandes riquezas; e boa graça é acima de prata e ouro" (Prov. 22: 1). A estima de outros é essencial à verdadeira felicidade; aqueles que sabem que são desprezados por seus semelhantes não são susceptíveis de ser felizes nesta vida. Aquele que traz outro ao descrédito é um ladrão, roubando um bom nome.
+> "Um bom nome é melhor que grandes riquezas; e boa graça é acima de prata e ouro" (Prov. 22:1). A estima de outros é essencial à verdadeira felicidade; aqueles que sabem que são desprezados por seus semelhantes não são susceptíveis de ser felizes nesta vida. Aquele que traz outro ao descrédito é um ladrão, roubando um bom nome.
 
-5. Um bom nome é adquirido por luta consistente, fazendo nossas boas obras conhecidas, defendendo-nos sempre que falsas acusações são feitas contra nós. Isto é por que, em casos ordinários, fazemos nossas boas obras abertamente de acordo com a injunção de Nosso Senhor, "Assim brilhe vossa luz diante dos homens, para que vejam vossas boas obras, e dêem glória a vosso Pai que está nos céus" (Mat. 5: 16).
+5. Um bom nome é adquirido por luta consistente, fazendo nossas boas obras conhecidas, defendendo-nos sempre que falsas acusações são feitas contra nós. Isto é por que, em casos ordinários, fazemos nossas boas obras abertamente de acordo com a injunção de Nosso Senhor, "Assim brilhe vossa luz diante dos homens, para que vejam vossas boas obras, e dêem glória a vosso Pai que está nos céus" (Mat. 5:16).
 
 > Boas obras são o melhor meio de defender um bom nome. Devemos, contudo, ter certeza de que não fazemos nossas boas obras apenas para fazer espetáculo diante dos homens, mas principalmente para agradar a Deus. Quando nosso nome está em perigo, devemos defender-nos e justificar-nos; mas é tolo fazer demasiado alvoroço por trivialidades, como ir à corte por nada.
 
@@ -35,7 +35,7 @@
 
 > Vamos tentar um experimento: Por um dia inteiro não faleis a menos que absolutamente necessário, mas cada vez que íeis falar, anotai o que quisésseis falar. No fim do dia vereis quantas coisas inúteis, coisas desperdiçadoras de tempo, para não mencionar coisas rudes e pecaminosas, quisésseis dizer. Se as pessoas apenas segurassem suas línguas, quão muito mais úteis poderiam ser!
 
-7. Veracidade promove o bem-estar geral da sociedade, e confiança mútua entre homens. A ordem da ordem social depende grandemente de membros falarem a verdade.
+7. Veracidade promove o bem-estar geral da sociedade, e confiança mútua entre homens. A boa ordem da ordem social depende grandemente de membros falarem a verdade.
 
 > Imaginemos nossa própria comunidade especial, com nossos amigos favoritos e comerciantes, com aqueles que contactamos cada dia em várias matérias. Imaginemos a situação se não estivéssemos certos de que estavam dizendo a verdade todo tempo, mas apenas dez por cento provável do tempo.
 
@@ -59,4 +59,4 @@
 
 — O oitavo mandamento proíbe mentiras, juízo temerário, detratação, calúnia, e contar segredos que somos obrigados a guardar.
 
-> "Lábios mentirosos são abominação ao Senhor" (Prov. 12: 22). "Portanto, afastai a mentira e falai verdade cada um com seu próximo, porque somos membros uns dos outros" (Ef. 4: 25).
+> "Lábios mentirosos são abominação ao Senhor" (Prov. 12:22). "Portanto, afastai a mentira e falai verdade cada um com seu próximo, porque somos membros uns dos outros" (Ef. 4:25).

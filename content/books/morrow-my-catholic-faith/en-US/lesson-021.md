@@ -15,7 +15,7 @@
 
 2. No person exists who does not sin, however holy he may be. The only human being who was created without sin, and never committed sin, was the Blessed Virgin; this was a special privilege bestowed on her because she was to be the Mother of our Saviour.
 
-> St. John says: "If we say that we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1: 8).
+> St. John says: "If we say that we have no sin, we deceive ourselves, and the truth is not in us" (1 John 1:8).
 
 
 **In what way do we fall into sin?**
@@ -79,7 +79,7 @@
 
 2. One who tempts or provokes another into sin is perhaps the more guilty of the two.
 
-> Our Lord says: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea" (Matt. 18: 6).
+> Our Lord says: "But whoever causes one of these little ones who believe in me to sin, it were better for him to have a great millstone hung around his neck, and to be drowned in the depths of the sea" (Matt. 18:6).
 
 
 **How many kinds of actual sin are there?**
@@ -92,4 +92,4 @@
 
 2. Sins are also classified into (a) our own sins; and (b) sins in which we cooperate and for which we are responsible.
 
-> We must not be presumptuous and over-confident. We must remember that when we do not sin, it is only through the grace of God. "Let him who thinks he stands take heed lest he fall" (1 Cor. 10: 12). A humble distrust of ourselves is a preservative against sin.
+> We must not be presumptuous and over-confident. We must remember that when we do not sin, it is only through the grace of God. "Let him who thinks he stands take heed lest he fall" (1 Cor. 10:12). A humble distrust of ourselves is a preservative against sin.

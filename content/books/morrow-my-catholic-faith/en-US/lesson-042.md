@@ -21,7 +21,7 @@
 
 3. The gift of counsel helps us to discover the will of God under difficult circumstances.
 
-> Before they received the Holy Ghost, the Apostles were inconstant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or wherewith you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12: 11-12).
+> Before they received the Holy Ghost, the Apostles were inconstant in their thoughts, desires, and actions, at one time full of high zeal, at other times despairing and weak. But Christ promised them the gift of counsel, saying: "Do not be anxious how or wherewith you shall defend yourselves; or what you shall say, for the Holy Spirit will teach you" (Luke 12:11-12).
 
 4. Fortitude is the gift by which we are strengthened under trials, to do God's will.
 
@@ -50,11 +50,11 @@
 
 1. If we look with discerning eyes, we can see how the gifts of the Holy Ghost have greatly helped the world at large.
 
-> As the psalmist sang: "Thou shalt send forth Thy spirit, and they shall be created: and thou shalt renew the face of the earth" (Ps. 103: 30). "And hope does not disappoint, because the charity of God is poured forth in our hearts, by the Holy Spirit" (Rom. 5: 5).
+> As the psalmist sang: "Thou shalt send forth Thy spirit, and they shall be created: and thou shalt renew the face of the earth" (Ps. 103:30). "And hope does not disappoint, because the charity of God is poured forth in our hearts, by the Holy Spirit" (Rom. 5:5).
 
 2. The operations of the Holy Ghost were easily discernible among the early Christians.
 
-> "And they continued, steadfastly in the teaching of the apostles and in the communion of the breaking of the bread and in the prayers. And ... many wonders also and signs were done by means of the apostles" (Acts 2: 42 - 43).
+> "And they continued, steadfastly in the teaching of the apostles and in the communion of the breaking of the bread and in the prayers. And ... many wonders also and signs were done by means of the apostles" (Acts 2:42 - 43).
 
 3. The difference between the virtues and the gifts of the Holy Ghost consists in this: the virtues enable us to do what our reason directs; the gifts make us follow the inspirations of the Holy Ghost.
 

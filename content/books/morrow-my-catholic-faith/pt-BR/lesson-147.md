@@ -9,11 +9,11 @@
 
 — Nossa contrição é perfeita quando estamos arrependidos de nossos pecados porque o pecado ofende a Deus, a Quem amamos sobre todas as coisas por Ele mesmo.
 
-> "Por isso te digo: os seus pecados, muitos como são, ser-lhe-ão perdoados, porque amou muito. Mas àquele a quem pouco é perdoado, pouco ama." E disse-lhe: 'Teus pecados te são perdoados.' E os que estavam à mesa com Ele começaram a dizer dentro de si: 'Quem é este homem, que até perdoa pecados?' Mas Ele disse à mulher: 'Tua fé te salvou; vai em paz'" (Lucas 7: 47-50).
+> "Por isso te digo: os seus pecados, muitos como são, ser-lhe-ão perdoados, porque amou muito. Mas àquele a quem pouco é perdoado, pouco ama." E disse-lhe: 'Teus pecados te são perdoados.' E os que estavam à mesa com Ele começaram a dizer dentro de si: 'Quem é este homem, que até perdoa pecados?' Mas Ele disse à mulher: 'Tua fé te salvou; vai em paz'" (Lucas 7:47-50).
 
 1. Esta contrição surge de um amor puro e perfeito de Deus. Se temos um amor perfeito de Deus, nossa contrição pelos pecados será perfeita.
 
-> Assim estaremos arrependidos, não apenas porque tememos o castigo ou dread a perda de Seus dons, mas porque ofendemos o bom Deus, a Quem nada é mais mau que o pecado.
+> Assim estaremos arrependidos, não apenas porque tememos o castigo ou tememos a perda de Seus dons, mas porque ofendemos o bom Deus, a Quem nada é mais mau que o pecado.
 
 2. Não deve ser difícil para nós ter um amor perfeito de Deus. Geralmente amamos nossos pais não pela comida e roupas que nos dão, mas por si mesmos, porque vemos seu auto-sacrifício e altruísmo e outras boas qualidades.
 
@@ -30,7 +30,7 @@
 
 2. Um ato de perfeita contrição tira o pecado imediatamente. Nossos pecados contudo graves são perdoados antes de confessá-los, embora a obrigação de confessar assim que pudermos permaneça.
 
-> Assim, se alguém faz um ato de perfeita contrição após ter cometido um pecado mortal e então morre antes de poder ir à confissão, é salvo do inferno pelo ato que fez. Lembremo-nos do ladrão penitente: "E disse a Jesus: 'Senhor, lembra-Te de mim quando vieres ao Teu reino.' E Jesus disse-lhe: 'Em verdade te digo: hoje estarás comigo no paraíso'" (Lucas 23: 40-43).
+> Assim, se alguém faz um ato de perfeita contrição após ter cometido um pecado mortal e então morre antes de poder ir à confissão, é salvo do inferno pelo ato que fez. Lembremo-nos do ladrão penitente: "E disse a Jesus: 'Senhor, lembra-Te de mim quando vieres ao Teu reino.' E Jesus disse-lhe: 'Em verdade te digo: hoje estarás comigo no paraíso'" (Lucas 23:40-43).
 
 Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, se apenas fazemos um ato de perfeita contrição; aquele que pecou gravemente deve ir à confissão antes de receber a Santa Comunhão.
 
@@ -49,7 +49,7 @@ Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, 
 
 — Nossa contrição é imperfeita quando estamos arrependidos de nossos pecados porque são odiosos em si mesmos ou porque tememos o castigo de Deus.
 
-1. Contrição imperfeita é chamada *atrição*. O medo do inferno é um motivo comum de atrição. É um bom motivo, mas é imperfeito, porque surge do medo dos castigos de Deus e não de puro amor por Ele.
+1. Contrição imperfeita é chamada ***atrição***. O medo do inferno é um motivo comum de atrição. É um bom motivo, mas é imperfeito, porque surge do medo dos castigos de Deus, e não de puro amor por Ele.
 
 > Uma mãe enviou seus três filhos jovens para levar um grande pote de mel à sua avó. No caminho os meninos pararam para brincar. Tropeçaram no pote, quebrando-o e derramando o mel. Todos começaram a chorar. O primeiro disse, "Mãe certamente nos baterá!" O segundo chorou, "Ela... ficará tão descontente que não nos dará biscoitos!" E o terceiro chorou, "Mãe certamente ficará triste!"
 
@@ -57,9 +57,9 @@ Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, 
 
 2. Contrição imperfeita ou atrição é suficiente para uma recepção digna do sacramento da Penitência; um ato de atrição não pode obter perdão de pecado mortal sem a absolvição de um padre.
 
-> Contudo, mesmo se sentimos apenas atrição por nossos pecados, podemos facilmente desenvolvê-la em perfeita contrição lembrando o que deveríamos ser sem Deus. Devemos sempre tentar ter perfeita contrição no sacramento da Penitência, porque perfeita contrição é mais agradável a Deus e porque com Sua ajuda podemos sempre tê-la.
+> Contudo, mesmo se sentimos apenas atrição por nossos pecados, podemos facilmente desenvolvê-la em perfeita contrição lembrando o que deveríamos ser sem Deus. Devemos sempre tentar ter perfeita contrição no sacramento da Penitência, porque perfeita contrição é mais agradável a Deus, e porque com Sua ajuda podemos sempre tê-la.
 
-3. Um medo puramente servil de Deus não é suficiente para contrição imperfeita. Aquele que faz uma pessoa evitar o pecado apenas por causa do castigo; de modo que, se não houvesse castigo, não estaria arrependido, mas pronto e resolvido a pecar, independentemente das leis de Deus.
+3. Um medo puramente servil de Deus não é suficiente para contrição imperfeita. É aquele que faz uma pessoa evitar o pecado apenas por causa do castigo; de modo que, se não houvesse castigo, não estaria arrependida, mas pronta e resolvida a pecar, independentemente das leis de Deus.
 
 > Chamamos este medo "servil" porque é o medo de escravos, com medo de um feitor duro; eles rapidamente desobedeceriam seus mandamentos se não tivessem medo de seus chicotes. Olharemos para Deus assim?
 

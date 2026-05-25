@@ -11,17 +11,17 @@
 
 1. O Próprio Cristo disse que é Deus. Os judeus entenderam Sua afirmação literalmente, e Ele foi condenado à morte por blasfêmia, por fazer-Se o Filho de Deus.
 
-> Cristo disse: "Todo poder no céu e na terra foi dado a Mim" (Mat. 28: 18). "E o sumo sacerdote disse-Lhe: Conjuro-Te pelo Deus vivo que nos digas se és o Cristo, o Filho de Deus. Jesus disse-lhe: Tu o disseste" (Mat. 26: 63). "Eu e o Pai somos um" (João 10: 30).
+> Cristo disse: "Todo poder no céu e na terra foi dado a Mim" (Mat. 28:18). "E o sumo sacerdote disse-Lhe: Conjuro-Te pelo Deus vivo que nos digas se és o Cristo, o Filho de Deus. Jesus disse-lhe: Tu o disseste" (Mat. 26:63). "Eu e o Pai somos um" (João 10:30).
 
 2. Cristo provou Suas afirmações por milagres maravilhosos, por profecias, por Seu conhecimento de todas as coisas, e pela santidade de Sua vida.
 
-Estes milagres Cristo operou em Seu próprio nome, não como Seus seguidores fizeram, que operavam em nome de Deus. Ele simplesmente disse: "Quero, sê limpo" (Mat. 8: 3).
+Estes milagres Cristo operou em Seu próprio nome, não como Seus seguidores fizeram, que operavam em nome de Deus. Ele simplesmente disse: "Quero, sê limpo" (Mat. 8:3).
 
-> O Próprio Cristo apelou a Seus milagres como testemunho da verdade de Suas doutrinas e divindade, dizendo: "Se não quereis crer em Mim, crede nas obras" (João 10: 38). Cristo predisse eventos futuros. Entre outras coisas, predisse Sua paixão, morte e ressurreição, a traição de Judas e a perpetuidade de Sua Igreja.
+> O Próprio Cristo apelou a Seus milagres como testemunho da verdade de Suas doutrinas e divindade, dizendo: "Se não quereis crer em Mim, crede nas obras" (João 10:38). Cristo predisse eventos futuros. Entre outras coisas, predisse Sua paixão, morte e ressurreição, a traição de Judas e a perpetuidade de Sua Igreja.
 
 3. Os Apóstolos, os seguidores do Próprio Cristo, claramente ensinaram que Cristo é Deus, e morreram em testemunho de sua fé.
 
-> São João diz: "No princípio era o Verbo e o Verbo estava com Deus e o Verbo era Deus." "E o Verbo se fez Carne." São Paulo escreve: "Nele (Cristo) habita toda a plenitude da Divindade corporalmente" (Col. 2: 9). São Tomé abertamente professou a divindade de Cristo quando disse: "Meu Senhor e meu Deus" (João 20: 28). São Pedro disse: "Tu és o Cristo, o Filho do Deus Vivo."
+> São João diz: "No princípio era o Verbo e o Verbo estava com Deus e o Verbo era Deus." "E o Verbo se fez Carne." São Paulo escreve: "Nele (Cristo) habita toda a plenitude da Divindade corporalmente" (Col. 2:9). São Tomé abertamente professou a divindade de Cristo quando disse: "Meu Senhor e meu Deus" (João 20:28). São Pedro disse: "Tu és o Cristo, o Filho do Deus Vivo."
 
 4. A Igreja ensina que Jesus Cristo é Deus. Seus ensinamentos espalharam-se por todas as nações, apesar de inúmeros obstáculos.
 
@@ -36,15 +36,15 @@ Estes milagres Cristo operou em Seu próprio nome, não como Seus seguidores fiz
 
 — Jesus Cristo é Deus porque é o único Filho de Deus, tendo a mesma natureza divina que Seu Pai.
 
-> "E todos disseram: És Tu, então, o Filho de Deus? Ele respondeu: Vós mesmos dizeis que Eu sou. E eles disseram: Que necessidade temos ainda de testemunho? Pois nós mesmos o ouvimos de Sua própria boca" (Luc. 22: 70-71).
+> "E todos disseram: És Tu, então, o Filho de Deus? Ele respondeu: Vós mesmos dizeis que Eu sou. E eles disseram: Que necessidade temos ainda de testemunho? Pois nós mesmos o ouvimos de Sua própria boca" (Luc. 22:70-71).
 
 1. O homem após a Queda foi incapaz de recuperar por si mesmo sua antiga santidade. Tornou-se como um homem doente que não podia levantar-se da cama. Precisava de Alguém para levantá-lo. Como o pecado que havia cometido fora uma ofensa contra um Deus Infinito, a expiação necessária tinha de ser por um Infinito, o Próprio Filho de Deus.
 
-> "Deus amou de tal maneira o mundo que deu Seu Filho unigênito" (João 3: 16). "Este é Meu Filho amado, em Quem Me comprazo" (Mat. 3: 17).
+> "Deus amou de tal maneira o mundo que deu Seu Filho unigênito" (João 3:16). "Este é Meu Filho amado, em Quem Me comprazo" (Mat. 3:17).
 
 2. Cristo é chamado o "Verbo". Assim como o pensamento em nossas mentes encontra expressão numa palavra, assim o Filho de Deus habitando no seio de Seu Pai foi mostrado ao mundo quando o Verbo Se fez homem.
 
-> "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.... E o Verbo se fez carne, e habitou entre nós" (João 1: 1, 14).
+> "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.... E o Verbo se fez carne, e habitou entre nós" (João 1:1, 14).
 
 
 **Por que Jesus Cristo é homem?**
@@ -70,7 +70,7 @@ Estes milagres Cristo operou em Seu próprio nome, não como Seus seguidores fiz
 
 2. Cristo operou milagres maravilhosos, que mostraram que o Deus da verdade aprovava Seus ensinamentos.
 
-> Cristo operou tantos milagres publicamente que todos acorriam a Ele para serem curados. "Mas quando João ouviu na prisão das obras de Cristo, enviou dois de seus discípulos a dizer-Lhe: És Tu Aquele que há de vir, ou esperamos outro? E Jesus respondendo disse-lhes: Ide e reportai a João o que ouvistes e vistes: os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam, aos pobres é pregado o evangelho" (Mat. 11: 2-5).
+> Cristo operou tantos milagres publicamente que todos acorriam a Ele para serem curados. "Mas quando João ouviu na prisão das obras de Cristo, enviou dois de seus discípulos a dizer-Lhe: És Tu Aquele que há de vir, ou esperamos outro? E Jesus respondendo disse-lhes: Ide e reportai a João o que ouvistes e vistes: os cegos veem, os coxos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam, aos pobres é pregado o evangelho" (Mat. 11:2-5).
 
 a. Cristo realizou milagres sobre objetos inanimados, como quando transformou água em vinho, acalmou a tempestade, multiplicou os pães.
 

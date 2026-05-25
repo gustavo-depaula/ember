@@ -11,17 +11,17 @@
 
 1. Christ Himself said that He is God. The Jews understood His claim literally, and He was condemned to death for blasphemy, for making Himself the Son of God.
 
-> Christ said: "All power in heaven and on earth has been given to me" (Matt. 28: 18). "And the high priest said to him, 'I adjure thee by the living God that thou tell us whether thou art the Christ, the Son of God. Jesus said to him, 'Thou hast said it'" (Matt. 26: 63). "I and the Father are one" (John 10: 30).
+> Christ said: "All power in heaven and on earth has been given to me" (Matt. 28:18). "And the high priest said to him, 'I adjure thee by the living God that thou tell us whether thou art the Christ, the Son of God. Jesus said to him, 'Thou hast said it'" (Matt. 26:63). "I and the Father are one" (John 10:30).
 
 2. Christ proved His claims by wonderful miracles, by prophecies, by His knowledge of all things, and by the holiness of His life.
 
-These miracles Christ worked in His own name, not as His followers did, who worked in the name of God. He simply said: "I will, be thou made clean" (Matt. 8: 3)
+These miracles Christ worked in His own name, not as His followers did, who worked in the name of God. He simply said: "I will, be thou made clean" (Matt. 8:3)
 
-> Christ Himself appealed to His miracles as a testimony of the truth of His doctrines and divinity, saying: "If you are not willing to believe me, believe the works" (John 10: 38). Christ foretold future events. Among other things, He predicted His passion, death, and resurrection, the treason of Judas and the perpetuity of His Church.
+> Christ Himself appealed to His miracles as a testimony of the truth of His doctrines and divinity, saying: "If you are not willing to believe me, believe the works" (John 10:38). Christ foretold future events. Among other things, He predicted His passion, death, and resurrection, the treason of Judas and the perpetuity of His Church.
 
 3. The Apostles, the followers of Christ Himself, plainly taught that Christ is God, and died in testimony of their faith.
 
-> St. John says: "In the beginning was the Word and the Word was with God and the Word was God." "And the Word was made Flesh." St. Paul writes: "In him (Christ) dwells all the fullness of the Godhead bodily" (Col. 2: 9). St. Thomas openly professed the divinity of Christ when he said: "My Lord and my God" (John 20: 28). St. Peter said: "Thou art the Christ, the Son of the Living God."
+> St. John says: "In the beginning was the Word and the Word was with God and the Word was God." "And the Word was made Flesh." St. Paul writes: "In him (Christ) dwells all the fullness of the Godhead bodily" (Col. 2:9). St. Thomas openly professed the divinity of Christ when he said: "My Lord and my God" (John 20:28). St. Peter said: "Thou art the Christ, the Son of the Living God."
 
 4. The Church teaches that Jesus Christ is God. Its teachings have spread throughout all nations, in spite of untold obstacles.
 
@@ -36,15 +36,15 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 — Jesus Christ is God because He is the only Son of God, having the same divine nature as His Father.
 
-> "And they all said, 'Art thou, then, the Son of God?' He answered, 'You yourselves say that I am' And they said, 'What further need have we of witness? For we have heard it ourselves from his own mouth'" (Luke 22: 70-71).
+> "And they all said, 'Art thou, then, the Son of God?' He answered, 'You yourselves say that I am' And they said, 'What further need have we of witness? For we have heard it ourselves from his own mouth'" (Luke 22:70-71).
 
 1. Man after the Fall was unable to regain of himself his former holiness. He became like a sick man who could not arise from bed. He needed Someone to raise him up. Since the sin he had committed had been an offence against an Infinite God, the atonement needed had to be by an Infinite One, the Son of God Himself.
 
-> "God so loved the world that he gave his only begotten Son" (John 3: 16). "This is my beloved Son, in whom I am well pleased" (Matt. 3: 17).
+> "God so loved the world that he gave his only begotten Son" (John 3:16). "This is my beloved Son, in whom I am well pleased" (Matt. 3:17).
 
 2. Christ is called the "Word". Just as the thought in our minds finds expression in a word, so the Son of God dwelling in the bosom of His Father was shown to the world when the Word became man.
 
-> "In the beginning was the Word, and the Word was with God, and the Word was God.... The Word was made flesh, and dwelt among us" (John 1: 1,14).
+> "In the beginning was the Word, and the Word was with God, and the Word was God.... The Word was made flesh, and dwelt among us" (John 1:1,14).
 
 
 **Why is Jesus Christ man?**
@@ -70,7 +70,7 @@ These miracles Christ worked in His own name, not as His followers did, who work
 
 2. Christ worked wonderful miracles, which showed that the God of truth approved His teachings.
 
-> Christ worked so many miracles publicly that all flocked to Him to be cured. "But when John had heard in prison of the works of Christ, he sent two of his disciples to say to him, 'Art thou he who is to come, or shall we look for another?' And Jesus answering said to them, 'Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them'" (Matt. 11: 2-5)
+> Christ worked so many miracles publicly that all flocked to Him to be cured. "But when John had heard in prison of the works of Christ, he sent two of his disciples to say to him, 'Art thou he who is to come, or shall we look for another?' And Jesus answering said to them, 'Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them'" (Matt. 11:2-5)
 
 a. Christ performed miracles on inanimate objects, as when He changed water to wine, calmed the storm, multiplied loaves.
 

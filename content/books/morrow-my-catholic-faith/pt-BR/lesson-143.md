@@ -11,7 +11,7 @@
 
 1. Uma união mais estreita com Nosso Senhor e um amor mais fervoroso a Deus e ao próximo. O que comida e bebida fazem pelo corpo, a Eucaristia faz pela alma. Une nosso corpo e alma àquele de Cristo.
 
-> Na Santa Comunhão tornamo-nos unidos com Cristo, como Ele Mesmo prometeu, "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele" (João 6: 57).
+> Na Santa Comunhão tornamo-nos unidos com Cristo, como Ele Mesmo prometeu, "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele" (João 6:57).
 
 2. Um aumento da graça santificante. A Santa Comunhão torna-nos mais agradáveis a Deus por um aumento de graça, fazendo-nos viver n'Ele e ser feitos semelhantes a Ele.
 
@@ -30,7 +30,7 @@
 
 — Após a Santa Comunhão devemos gastar algum tempo adorando Nosso Senhor, agradecendo-Lhe, renovando nossas promessas de amor e obediência a Ele e pedindo-Le bênçãos para nós e outros.
 
-1. Não devemos deixar a igreja imediatamente após receber a Santa Comunhão. Devemos orar pelo menos dez ou quinze minutos, agradecendo a nosso Divino Hóspede. Devemos agradecer a Nosso Senhor fervorosamente por vir a nós, fazer atos de fé, adoração, humildade e amor e suplicar-Lhe favores para nós e aqueles que amamos.
+1. Não devemos deixar a igreja imediatamente após receber a Santa Comunhão. Devemos orar pelo menos dez ou quinze minutos, agradecendo a nosso Divino Hóspede. Devemos agradecer a Nosso Senhor fervorosamente por vir a nós, fazer atos de fé, adoração, humildade e amor, e suplicar-Lhe favores para nós e aqueles que amamos.
 
 > Nosso Senhor está atual e pessoalmente presente em nós enquanto a aparência do pão permanece, por pelo menos dez minutos após receber a Santa Comunhão. Trataremos a Deus Filho friamente, não fazendo nada quando Ele vem? Para hóspedes terrenos nos esforçamos ao máximo para entretê-los e fazer sua estadia agradável. Diremos então a Cristo, "Estou contente que viestes, Senhor. Agora adeus, porque devo ir para casa." E esquecê-Lo?
 
@@ -49,7 +49,7 @@
 
 2. A Bênção do Santíssimo Sacramento é um ato de culto no qual a Hóstia Sagrada, posta no ostensório, é exposta ao povo para adoração e é levantada para abençoá-los. O Cardeal Newman disse da Bênção, "É a solene bênção de Nosso Senhor a Seu povo, como quando Ele levantou Suas mãos sobre Seus filhos ou quando abençoou Seus escolhidos quando ascendeu do Monte das Oliveiras."
 
-> Na Bênção, o padre usa a capa, que é um grande manto de seda envolvendo todo seu corpo. Sobre seus ombros usa um véu umeral ou de ombros, com o qual segura o ostensório na bênção. Na Bênção, pelo menos doze velas devem ser usadas no altar e a Hóstia Sagrada deve ser incensada duas vezes; imediatamente após a Exposição e na segunda estrofe do *Tantum Ergo*.
+> Na Bênção, o padre usa a capa, que é um grande manto de seda envolvendo todo seu corpo. Sobre seus ombros usa um véu umeral ou de ombros, com o qual segura o ostensório na bênção. Na Bênção, pelo menos doze velas devem ser usadas no altar, e a Hóstia Sagrada deve ser incensada duas vezes; imediatamente após a Exposição e na segunda estrofe do *Tantum Ergo*.
 
 3. A Hora Santa é uma devoção em honra a Nosso Senhor. É frequentemente feita diante do Santíssimo Sacramento, embora isto não seja necessário para ganhar as indulgências. A devoção consiste numa hora de oração mental ou vocal em união com a oração de Jesus no Jardim das Oliveiras, em honra à Sua agonia.
 

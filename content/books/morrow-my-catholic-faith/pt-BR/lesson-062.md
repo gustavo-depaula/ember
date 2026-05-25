@@ -2,7 +2,7 @@
 
 ![](../images/lesson-062.webp)
 
-*"Eu sou o bom pastor, e conheço as Minhas ovelhas e as Minhas ovelhas conhecem-Me, assim como o Pai Me conhece e Eu conheço o Pai; e dou Minha vida pelas Minhas ovelhas. E tenho outras ovelhas que não são deste redil. Também as devo trazer, e ouvirão Minha voz, e haverá um só rebanho e um só pastor" (João 10: 14-16). Todos aqueles não batizados são ovelhas de Cristo que ainda não ouviram Sua voz. Devem também ser trazidos à Igreja. Protestantes são ovelhas que deixaram o redil de Cristo. Devem retornar à Igreja, se quiserem ouvir a voz de Cristo, o Bom Pastor, Que amorosamente os chama à Sua Verdadeira Igreja.*
+*"Eu sou o bom pastor, e conheço as Minhas ovelhas e as Minhas ovelhas conhecem-Me, assim como o Pai Me conhece e Eu conheço o Pai; e dou Minha vida pelas Minhas ovelhas. E tenho outras ovelhas que não são deste redil. Também as devo trazer, e ouvirão Minha voz, e haverá um só rebanho e um só pastor" (João 10:14-16). Todos aqueles não batizados são ovelhas de Cristo que ainda não ouviram Sua voz. Devem também ser trazidos à Igreja. Protestantes são ovelhas que deixaram o redil de Cristo. Devem retornar à Igreja, se quiserem ouvir a voz de Cristo, o Bom Pastor, Que amorosamente os chama à Sua Verdadeira Igreja.*
 
 
 **Quem são os leigos da Igreja?**
@@ -28,7 +28,7 @@
 
 1. A menos que alguém se separe por heresia, apostasia ou excomunhão, um católico pecador continua a ser um membro da Igreja. Aqueles em pecado mortal são chamados "membros mortos", pois suas almas estão mortas em pecado.
 
-> De fato a Igreja é a Igreja dos Santos; mas a maior parte de suas atividades tem que ser para os pecadores. Talvez possamos dizer, sem medo de contradição, que a maioria dos membros da Igreja são pecadores. Todos caímos do ideal, em algum momento ou outro; então a Igreja chama, para trazer-nos de volta.
+> De fato, a Igreja é a Igreja dos Santos; mas a maior parte de suas atividades tem que ser para os pecadores. Talvez possamos dizer, sem medo de contradição, que a maioria dos membros da Igreja são pecadores. Todos caímos do ideal, em algum momento ou outro; então a Igreja chama, para trazer-nos de volta.
 
 2. Até atingirmos a bem-aventurança celestial, sempre haverá a escuridão do pecado, a dor do mal. O Próprio Cristo falou de peixes maus com os bons, de joio entre o trigo.
 
@@ -60,7 +60,7 @@
 
 — Os leigos podem ajudar a Igreja no cuidado das almas levando vidas que refletirão crédito na Igreja, e cooperando com seus bispos e sacerdotes, especialmente através da Ação Católica.
 
-> "Assim, brilhe vossa luz diante dos homens, para que vejam vossas boas obras e glorifiquem vosso Pai que está nos céus" (Mateus 5: 16).
+> "Assim, brilhe vossa luz diante dos homens, para que vejam vossas boas obras e glorifiquem vosso Pai que está nos céus" (Mateus 5:16).
 
 1. Um bom Católico faz esforços sérios para salvar sua alma. Guarda os mandamentos de Deus e da Igreja. Recebe os sacramentos. Faz todas as coisas prescritas por Cristo através da Igreja.
 
@@ -68,7 +68,7 @@
 
 2. Um bom Católico obedece a seus superiores eclesiásticos em questões espirituais, e dá-lhes o devido respeito. Vê em seus superiores legítimos os representantes de Cristo na terra.
 
-> É leal à Igreja em palavra e ato. Não a critica, ou faz remarks depreciativos sobre ela. Mesmo se seus sacerdotes possam ter faltas, faz seu melhor para não trazê-los e à Igreja ao desprezo. Se as faltas são públicas e graves, pode trazer o assunto à atenção da autoridade legítima, mas sempre com grande prudência.
+> É leal à Igreja em palavra e ato. Não a critica, ou faz comentários depreciativos sobre ela. Mesmo se seus sacerdotes possam ter faltas, faz seu melhor para não trazê-los e à Igreja ao desprezo. Se as faltas são públicas e graves, pode trazer o assunto à atenção da autoridade legítima, mas sempre com grande prudência.
 
 3. Segundo seus meios, contribui para o suporte da Igreja.
 

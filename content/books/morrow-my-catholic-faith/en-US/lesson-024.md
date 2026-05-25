@@ -42,7 +42,7 @@
 
 1. It is wrong voluntarily to seek the occasions of sin.
 
-> "He that loveth the danger shall perish in it" (Ecclus. 3: 27). However, those who by their calling or other necessity are continually exposed to such dangerous occasions, as priests, officials, doctors, and others, must put their trust in God, Who will give them grace and protect them.
+> "He that loveth the danger shall perish in it" (Ecclus. 3:27). However, those who by their calling or other necessity are continually exposed to such dangerous occasions, as priests, officials, doctors, and others, must put their trust in God, Who will give them grace and protect them.
 
 2. We must avoid occasions of sin as soon as we perceive them.
 

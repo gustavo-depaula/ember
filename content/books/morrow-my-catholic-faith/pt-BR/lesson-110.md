@@ -9,14 +9,14 @@
 
 — O nono mandamento proíbe todos os pensamentos e desejos contrários à castidade.
 
-> "Ouvistes que foi dito aos antigos: 'Não cometerás adultério.' Mas Eu vos digo que qualquer que olhar com luxúria para uma mulher já cometeu adultério com ela em seu coração" (Mat. 5: 27-28).
+> "Ouvistes que foi dito aos antigos: 'Não cometerás adultério.' Mas Eu vos digo que qualquer que olhar com luxúria para uma mulher já cometeu adultério com ela em seu coração" (Mat. 5:27-28).
 
 Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Quase sempre, pecados contra pureza, pensamentos e desejos assim como atos, são graves ou mortais. Sempre que somos acometidos por tentação, devemos imediatamente rezar, especialmente à nossa amada Mãe, a mais pura dos mortais.
 
 > Um desejo impuro, contudo, é um pecado venial se cometido por falta de atenção ou reflexão, por negligência ou lentidão em rejeitar um pensamento, ou dando apenas consentimento parcial. Apenas consentimento pleno e deliberado torna um pecado mortal.
 
 
-Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?
+**Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?**
 
 — Meros pensamentos sobre coisas impuras não são sempre pecaminosos em si mesmos, mas tais pensamentos são perigosos.
 
@@ -42,13 +42,13 @@ Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?
 
 — Os principais meios de preservar a virtude da castidade são: evitar cuidadosamente todos os perigos desnecessários, buscar a ajuda de Deus através da oração, confissão frequente, Santa Comunhão e assistência à Santa Missa, e ter uma devoção especial à Bem-Aventurada Virgem.
 
-1. Em todas as coisas formai o hábito da temperança. Evitai todos os perigos desnecessários; não tomeis quaisquer chances com a incastidade; não experimenteis. Se puserdes um fósforo na pólvora, certamente explodirá; não há necessidade de tentar ver se não o fará.
+1. Em todas as coisas formai o hábito da temperança. Evitai todos os perigos desnecessários; não correis quaisquer riscos com a impureza; não experimenteis. Se puserdes um fósforo na pólvora, certamente explodirá; não há necessidade de tentar ver se não o fará.
 
 > Evitai a companhia dos que são impuros. Impureza não é uma conquista maravilhosa da qual orgulhar-se: qualquer idiota pode ser impuro. É a alma forte que resiste à tentação e mantém-se limpa. É a pessoa casta que possui força varonil.
 
 2. Lembrai-vos sempre que Deus nos vê. Portanto busquemos Sua ajuda através da oração.
 
-> "Vigiai e orai para que não entreis em tentação. O espírito de fato está pronto, mas a carne é fraca" (Mar. 14: 38). Para instrução sobre matérias de sexo, ide a vossos pais ou a vosso pastor ou pessoas idosas que sabeis serem boas.
+> "Vigiai e orai para que não entreis em tentação. O espírito de fato está pronto, mas a carne é fraca" (Mar. 14:38). Para instrução sobre matérias de sexo, ide a vossos pais ou a vosso pastor ou pessoas idosas que sabeis serem boas.
 
 3. Sede sempre modestos e puros em vosso vestir, postura e conversa. Isto não é apenas para salvar-vos da imodéstia, mas para evitar dar ocasião a outros pecar, ou ser mesmo uma causa inconsciente para outros pecarem.
 
@@ -56,6 +56,6 @@ Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?
 
 4. Recebei os sacramentos da Penitência e Santa Eucaristia frequentemente, e assisti à Santa Missa frequentemente.
 
-Assim seguimos a injunção: "Andai no espírito, e não cumprireis as concupiscências da carne" (Gál. 5: 16).
+Assim seguimos a injunção: "Andai no espírito, e não cumprireis as concupiscências da carne" (Gál. 5:16).
 
 5. Devemos ter um amor especial e devoção por nossa Bem-Aventurada Mãe, e diariamente pedir-lhe que nos preserve na castidade que ela tão grandemente prezou.

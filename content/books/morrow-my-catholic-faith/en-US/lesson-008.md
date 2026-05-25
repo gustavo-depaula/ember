@@ -2,7 +2,7 @@
 
 ![](../images/lesson-008.webp)
 
-*The Bible is the best Book in the world. It is the Word of God. It is better than any other book that has ever been written or ever will be written. Catholics are not only permitted, but urged, to read the Bible. They must read a version approved by the Catholic Church. Catholic Bibles have the necessary explanations for the guidance of the faithful. To find a text in the Bible, as Matt. 16: 26, turn to the Gospel of St. Matthew, Chapter 16, verse 26. All texts are found in the same manner.*
+*The Bible is the best Book in the world. It is the Word of God. It is better than any other book that has ever been written or ever will be written. Catholics are not only permitted, but urged, to read the Bible. They must read a version approved by the Catholic Church. Catholic Bibles have the necessary explanations for the guidance of the faithful. To find a text in the Bible, as Matt. 16:26, turn to the Gospel of St. Matthew, Chapter 16, verse 26. All texts are found in the same manner.*
 
 
 **What is Holy Scripture, or the Bible?**
@@ -11,7 +11,7 @@
 
 1. The seventy-two sacred books, together forming the Bible, were composed by forty writers in three different languages: Hebrew, Aramaic and Greek. The period of composition covers at least 1,300 years, from Moses, to St. John the Evangelist.
 
-> "God, who at sundry times and in divers manners spoke in times past to the fathers by the prophets, last of all in these days has spoken to us by his Son" (Heb. 1: 1).
+> "God, who at sundry times and in divers manners spoke in times past to the fathers by the prophets, last of all in these days has spoken to us by his Son" (Heb. 1:1).
 
 2. The writers were inspired by God. By a supernatural influence, God enlightened their mind and moved their will to write all that He wished, and only that. They acted as free instruments of God, Who directed them and preserved them from error.
 
@@ -24,7 +24,7 @@
 
 1. An author is not the stenographer that writes down what he is told, but the one who tells what is to be written. Since God is the Author, the Bible cannot contain any error.
 
-> "All Scripture is inspired by God" (2 Tim. 3: 16). Copyists and printers, however, can and do make mistakes in copying the Bible.
+> "All Scripture is inspired by God" (2 Tim. 3:16). Copyists and printers, however, can and do make mistakes in copying the Bible.
 
 2. Since the Bible is the Word of God, it must be treated with the greatest reverence.
 

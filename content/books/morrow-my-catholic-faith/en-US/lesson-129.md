@@ -54,15 +54,15 @@
 
 1. To be offered as a sacrifice commemorating and renewing the sacrifice of the cross.
 
-> "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11: 26). In the Mass, Jesus offers Himself as a Victim to His heavenly Father.
+> "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11:26). In the Mass, Jesus offers Himself as a Victim to His heavenly Father.
 
 2. To be received in Holy Communion.
 
-> "I am the bread of life . . . He who eats my flesh, and drinks my blood, abides in me, and I in him. . . He who eats me, he also shall live because of me" (John 6: 48, 56, 58). The Holy Eucharist is food to nourish the soul. By this food we are united to Christ, Who nourishes us with His divine life; sanctifying grace and all virtues increase in our souls; our evil inclinations are lessened. The Holy Eucharist is a pledge of everlasting life: "If any man eat of this Bread, he shall live forever." Holy Communion needs the Mass to supply the consecrated species; for this reason Mass and Communion are inseparable.
+> "I am the bread of life . . . He who eats my flesh, and drinks my blood, abides in me, and I in him. . . He who eats me, he also shall live because of me" (John 6:48, 56, 58). The Holy Eucharist is food to nourish the soul. By this food we are united to Christ, Who nourishes us with His divine life; sanctifying grace and all virtues increase in our souls; our evil inclinations are lessened. The Holy Eucharist is a pledge of everlasting life: "If any man eat of this Bread, he shall live forever." Holy Communion needs the Mass to supply the consecrated species; for this reason Mass and Communion are inseparable.
 
 3. To remain ever on our altars as a proof of His love, and to be worshipped by us.
 
-> "Remain with us, Lord, for with Thee is the fountain of life" (Ps. 35: 10). "Come to Me, all you who labour, and are burdened, and I will give you rest" (Matt. 11: 28). We say we love Jesus; do we prove our love? When we have a dear friend, we are ever eager to be in his presence; do we show Jesus the same loving tenderness? Or are we so forgetful of Him that we go to see Him only once a week?
+> "Remain with us, Lord, for with Thee is the fountain of life" (Ps. 35:10). "Come to Me, all you who labour, and are burdened, and I will give you rest" (Matt. 11:28). We say we love Jesus; do we prove our love? When we have a dear friend, we are ever eager to be in his presence; do we show Jesus the same loving tenderness? Or are we so forgetful of Him that we go to see Him only once a week?
 
 
 **Since Christ's Real Presence is in the Eucharist, what honour are we bound to render It?**

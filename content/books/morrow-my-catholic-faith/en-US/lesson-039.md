@@ -11,7 +11,7 @@
 
 1. Grace is a favour, a free gift, granted to us though we have no claim to it. God grants us graces because He is good, not because we deserve them. God grants us graces for the sake of His Son, Who died on the cross to earn for us these graces; we men can never merit these graces.
 
-> "All have sinned and have need of the glory of God. They are justified freely by his grace through the redemption which is in Christ" (Rom. 3: 23-24).
+> "All have sinned and have need of the glory of God. They are justified freely by his grace through the redemption which is in Christ" (Rom. 3:23-24).
 
 2. The Holy Ghost dispenses the graces of God merited by Our Lord Jesus Christ; He bestows and perfects what is already earned, and acts as the channel of grace.
 
@@ -25,7 +25,7 @@
 
 4. The assistance of the Holy Ghost is necessary. Without the help of the graces that He dispenses, with merely natural powers, we cannot do the least work to merit salvation. Without God, we are nothing.
 
-> In order to reach heaven, we need God's grace; so we say with the Apostle: "Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God" (2 Cor. 3: 5) ; "By the grace of God I am what I am. . . . I have laboured more than any of them, yet not I, but the grace of God with me" (1 Cor. 15: 10).
+> In order to reach heaven, we need God's grace; so we say with the Apostle: "Not that we are sufficient of ourselves to think anything, as from ourselves, but our sufficiency is from God" (2 Cor. 3:5) ; "By the grace of God I am what I am. . . . I have laboured more than any of them, yet not I, but the grace of God with me" (1 Cor. 15:10).
 
 5. There are two kinds of grace: sanctifying grace and actual grace.
 
@@ -49,24 +49,24 @@
 
 > However, although free from mortal sin, we do not, with sanctifying grace, become free from the remains of sin. So even saints feel the human inclination to sin, against which the struggle is lifelong, and from which we should gain merit. This human frailty is embedded in our flesh, and is present in our souls as a result of original sin. Sanctifying grace, however, although it does not cure us of the weakness of the flesh, strengthens our will, so that for us the war against sin becomes easier. The charity accompanying sanctifying grace makes us more prone to good works, more attracted to God, with minds illumined as to the folly of sin.
 
-Second, it makes us adopted children of God. With sanctifying grace, the Holy Ghost enters our soul; we are led by His Spirit, and are therefore His children: "For whoever are led by the Spirit of God, they are the sons of God" (Rom. 8: 14).
+Second, it makes us adopted children of God. With sanctifying grace, the Holy Ghost enters our soul; we are led by His Spirit, and are therefore His children: "For whoever are led by the Spirit of God, they are the sons of God" (Rom. 8:14).
 
-> "Now you have not received a spirit of bondage so as to be again in fear, but you have received a spirit of adoption as sons, by virtue of which we cry, Abba! Father! The Spirit himself gives testimony to our spirit that we are sons of God" (Rom. 8: 15 - 16).
+> "Now you have not received a spirit of bondage so as to be again in fear, but you have received a spirit of adoption as sons, by virtue of which we cry, Abba! Father! The Spirit himself gives testimony to our spirit that we are sons of God" (Rom. 8:15 - 16).
 
-Third, it makes us temples of the Holy Ghost. Sanctifying grace brings the Holy Ghost to dwell in us as in a temple. St. Paul says, "For you are the temple of the Living God" (2 Cor. 6: 16).
+Third, it makes us temples of the Holy Ghost. Sanctifying grace brings the Holy Ghost to dwell in us as in a temple. St. Paul says, "For you are the temple of the Living God" (2 Cor. 6:16).
 
-> "Do you not know that you are the temple of God, and that the Spirit of God dwells in you? If anyone destroys the temple of God, him will God destroy; for holy is the temple of God and this temple you are" (1 Cor. 3: 16 - 17)
+> "Do you not know that you are the temple of God, and that the Spirit of God dwells in you? If anyone destroys the temple of God, him will God destroy; for holy is the temple of God and this temple you are" (1 Cor. 3:16 - 17)
 
 Fourth, it gives us the right to heaven. When we are in sanctifying grace, we are inspired to do good works. The Holy Ghost does not sleep within us, but expands our heart with His grace, and urges our will to do good. And as we are adopted children of God, such actions become meritorious for heaven.
 
-> If we are children of God, we are at the same time heirs, and therefore have a right to His Kingdom. "We are the sons of God. But if we are sons, we are heirs also; heirs indeed of God, and joint heirs with Christ" (Rom. 8: 16-17)
+> If we are children of God, we are at the same time heirs, and therefore have a right to His Kingdom. "We are the sons of God. But if we are sons, we are heirs also; heirs indeed of God, and joint heirs with Christ" (Rom. 8:16-17)
 
 
 **Why is sanctifying grace necessary for salvation?**
 
 — Sanctifying grace is necessary for salvation because it is the supernatural life, which alone enables us to attain the supernatural happiness of heaven.
 
-> The presence of God in the soul gives it life. When the Holy Ghost is dwelling in the soul, it is enabled to know and love God, to do supernatural works. Speaking of the "gift of God", Our Lord said it "shall become in him a fountain of water, springing up unto life everlasting" (John 4: 14). Without sanctifying grace, the soul is without God; and without God, the soul becomes the devil's.
+> The presence of God in the soul gives it life. When the Holy Ghost is dwelling in the soul, it is enabled to know and love God, to do supernatural works. Speaking of the "gift of God", Our Lord said it "shall become in him a fountain of water, springing up unto life everlasting" (John 4:14). Without sanctifying grace, the soul is without God; and without God, the soul becomes the devil's.
 
 One cannot gain any merit for heaven as long as he is not in sanctifying grace, what is termed "in the state of grace". For without sanctifying grace, one is an enemy of God, and cannot enter His kingdom.
 

@@ -10,7 +10,7 @@ The priests, especially parish priests, assist the bishops in the care of souls.
 
 — A bishop rules over that part of the Church, an organized territory called a bishopric, diocese, or see, assigned to him by the Pope.
 
-> The word "bishop" is a translation from the Greek *episcopos*, which means "overseer," a term first applied during apostolic times. To Titus St. Paul wrote, "For this reason I left thee in Crete, that thou shouldst set right anything that is defective and shouldst appoint presbyters in every city" (Tit. 1: 5).
+> The word "bishop" is a translation from the Greek *episcopos*, which means "overseer," a term first applied during apostolic times. To Titus St. Paul wrote, "For this reason I left thee in Crete, that thou shouldst set right anything that is defective and shouldst appoint presbyters in every city" (Tit. 1:5).
 
 1. The bishops are the major-generals in the vast army of the Church. They command the different divisions of that army, subject to the authority of the commander-in-chief, the Bishop of Rome. Under their jurisdiction are the parish priests in charge of parishes.
 

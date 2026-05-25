@@ -32,11 +32,11 @@
 
 1. É de fato muito lamentável que em nosso país comparativamente poucos casamentos são celebrados com a Missa Nupcial. Quantas bênçãos o casal perde, quando a Missa é omitida!
 
-> O casamento à tarde e noite está tornando-se mais um affair social fashionável que uma cerimônia religiosa. Matrimônio, o grande Sacramento Cristão, está sendo transformado num contrato civil. Não é de admirar que um crescente número de casamentos termine em divórcio. Hoje mais importância parece ser dada às festividades seguindo a cerimônia de casamento que à própria cerimônia.
+> O casamento à tarde e noite está tornando-se mais uma ocasião mundana da moda que uma cerimônia religiosa. Matrimônio, o grande Sacramento Cristão, está sendo transformado num contrato civil. Não é de admirar que um crescente número de casamentos termine em divórcio. Hoje mais importância parece ser dada às festividades seguindo a cerimônia de casamento que à própria cerimônia.
 
 2. Católicos podem melhor obter a bênção de Deus sobre seu casamento sendo casados numa Missa Nupcial e recebendo a Santa Comunhão devotamente. A Igreja provê uma especial Missa para os casamentos de seus membros; esta Missa Nupcial tem orações especiais implorando a bênção de Deus para o casal casado. Pode ser dita em quase qualquer dia, fora das importantes festas.
 
-> O estado matrimonial precisa de abundância de graças; não deveria cada meio disponível ser tomado para obter aquelas graças? A Igreja outorga graças ao par wedded, não apenas através do Sacramento, mas também através da Missa Nupcial, a recepção da Santa Comunhão naquela Missa e a Bênção Nupcial durante a Missa.
+> O estado matrimonial precisa de abundância de graças; não deveria cada meio disponível ser tomado para obter aquelas graças? A Igreja outorga graças ao par casado, não apenas através do Sacramento, mas também através da Missa Nupcial, a recepção da Santa Comunhão naquela Missa e a Bênção Nupcial durante a Missa.
 
 3. A Missa Nupcial é cheia de belos excertos da Bíblia, expondo a santidade e dignidade da união que o homem e a mulher contraíram. Através, a bênção de Deus é invocada.
 
@@ -44,7 +44,7 @@
 
 4. A Igreja autoriza a cerimônia nupcial aparte da Missa Nupcial; mas urge a todos os católicos estar unidos em casamento com as graças daquela Missa, com sua bela liturgia.
 
-> Isto é por que, exceto por grave razão, casamentos não devem ser celebrados durante o Advento e Quaresma; pois então a Missa Nupcial e bênção são proibidas. As "estações fechadas" ou "tempos proibidos" estendem-se do início do Advento até o Dia de Natal e da Quarta-Feira de Cinzas até o Domingo de Páscoa, inclusive. Mas a celebração, como distinguida da solenização (com plena liturgia), é sempre permitida. Se a Missa por alguma razão não pode ser dita no dia do casamento, deve ser dita no dia seguinte ou assim que possível.
+> Isto é por que, exceto por grave razão, casamentos não devem ser celebrados durante o Advento e Quaresma; pois então a Missa Nupcial e bênção são proibidas. As "estações fechadas" ou "tempos proibidos" estendem-se do início do Advento até o Dia de Natal, e da Quarta-Feira de Cinzas até o Domingo de Páscoa, inclusive. Mas a celebração, como distinguida da solenização (com plena liturgia), é sempre permitida. Se a Missa por alguma razão não pode ser dita no dia do casamento, deve ser dita no dia seguinte ou assim que possível.
 
 
 **Quando é dada a Bênção Nupcial?**
@@ -57,4 +57,4 @@
 
 2. A Bênção Nupcial pode ser recebida por uma mulher apenas uma vez. Assim se foi dada a ela num casamento prévio, não pode ser dada a ela novamente se tornar-se viúva e recasar. Não é dada fora da Missa sem dispensa.
 
-> Perto do final da Missa, logo antes da bênção usual, o padre admoesta o casal sobre os deveres da vida matrimonial e ora para que possam gozar paz, frutificação e felicidade eterna. Aspergindo a noiva e o noivo com água benta, abençoa ambos.
+> Perto do final da Missa, logo antes da bênção usual, o padre admoesta o casal sobre os deveres da vida matrimonial, e ora para que possam gozar paz, frutificação e felicidade eterna. Aspergindo a noiva e o noivo com água benta, abençoa ambos.

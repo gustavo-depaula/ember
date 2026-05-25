@@ -32,7 +32,7 @@
 
 1. We must have a good reason for taking an oath. — An oath properly taken is permitted by God and pleasing in His sight. No one however, should be compelled to take an oath. It is not necessary to swear at every provocation, such as when friends do not believe us, or to emphasize statements.
 
-> Such trivial matters should not be the subject of oaths. A number of people have the bad habit of raising the hand in a gesture of swearing every time someone doubts their slightest assertions. "Thou shalt swear, As the Lord liveth, in truth and in judgement, and in justice" (Jer. 4: 2).
+> Such trivial matters should not be the subject of oaths. A number of people have the bad habit of raising the hand in a gesture of swearing every time someone doubts their slightest assertions. "Thou shalt swear, As the Lord liveth, in truth and in judgement, and in justice" (Jer. 4:2).
 
 2. We must be convinced that what we say under oath is true.—It is wrong to take oaths about what we do not know, just because a friend asks us to swear to it.
 
@@ -62,7 +62,7 @@
 
 1. A vow is made to God alone not to anyone else. The subject of the vow must not be a mere trifle, but something good in itself, and better than its opposite. A vow is the most solemn promise we can ever make.
 
-> A vow made under compulsion is invalid. A vow to do something that will offend God must not be accomplished. In general, we should consult our confessor before making a vow. "It is better not to vow, than after a vow not to perform the things promised" (Eccles. 5: 4). Sometimes vows are accompanied by certain conditions. For example, in 1248, St. Louis of France vowed to lead a Crusade if he got over a severe illness. In our days, people vow to go on specified pilgrimages, to get cured of sickness, etc.
+> A vow made under compulsion is invalid. A vow to do something that will offend God must not be accomplished. In general, we should consult our confessor before making a vow. "It is better not to vow, than after a vow not to perform the things promised" (Eccles. 5:4). Sometimes vows are accompanied by certain conditions. For example, in 1248, St. Louis of France vowed to lead a Crusade if he got over a severe illness. In our days, people vow to go on specified pilgrimages, to get cured of sickness, etc.
 
 2. We must not confuse vows and oaths with mere promises or resolutions. These last do not bind under pain of sin.
 

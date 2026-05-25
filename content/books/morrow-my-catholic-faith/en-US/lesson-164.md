@@ -11,7 +11,7 @@
 
 — The chief duty of husband and wife in the married state is to be faithful to each other, and to provide in every way for the welfare of the children God may give them,
 
-1. Husband and wife must comfort and support each other in the activities of their common life, in the fulfilment of their duties individual as well as mutual, in all important matters, both spiritual and material. "Now they are no longer two, but one flesh" (Matt. 19: 6).
+1. Husband and wife must comfort and support each other in the activities of their common life, in the fulfilment of their duties individual as well as mutual, in all important matters, both spiritual and material. "Now they are no longer two, but one flesh" (Matt. 19:6).
 
 > The wife needs the husband to lean upon; the husband needs his wife to comfort and care for him. The man is the breadwinner and the head; the wife is the queen and mother. In true Christian marriage there is no question of selfishness, competition, or superiority between the spouses, for they two are "one flesh."
 
@@ -21,11 +21,11 @@
 
 3. The spouses should always live together, and have a real Christian family life. They must however remember that all marital relations must be in accord with divine and natural law in the "faithfulness of chastity."
 
-> Their affection should not be purely human, but holy and supernatural, in accordance with the purpose of their state, which was instituted by God. "For we are the children of saints: and we must not be joined together like heathens that know not God" (Job. 8: 5).
+> Their affection should not be purely human, but holy and supernatural, in accordance with the purpose of their state, which was instituted by God. "For we are the children of saints: and we must not be joined together like heathens that know not God" (Job. 8:5).
 
 4. For its type and models marriage has the Mystical Union between Christ and His Church. The husband should love his wife as Christ loves the Church, with a holy and supernatural love, as his own self. The wife should love and obey her husband as the head of the family.
 
-> "Husbands, love your wives, just as Christ also loved the Church" (Eph. 5: 25). "Wives, be subject to your husbands, as is becoming in the Lord" (Col. 3: 19). In explaining the meaning of this latter passage, Pius XI in his Encyclical on Christian marriage says: "This subjection does not take away the liberty which fully belongs to the woman both in view of her dignity as a human person, and in view of her most noble office as wife and mother and companion; or does it bid her obey her husband's every request, even if not in harmony with right reason or the dignity due her as a wife. ... But it forbids that exaggerated liberty which cares not for the good of the family; it forbids that in this body which is the family, the heart be separated from the head, to the great detriment of the whole body, and the proximate danger of ruin. For if the man is the head, the woman is the heart, and as he occupies the chief place in ruling, she ought to claim for herself the chief place in love."
+> "Husbands, love your wives, just as Christ also loved the Church" (Eph. 5:25). "Wives, be subject to your husbands, as is becoming in the Lord" (Col. 3:19). In explaining the meaning of this latter passage, Pius XI in his Encyclical on Christian marriage says: "This subjection does not take away the liberty which fully belongs to the woman both in view of her dignity as a human person, and in view of her most noble office as wife and mother and companion; or does it bid her obey her husband's every request, even if not in harmony with right reason or the dignity due her as a wife. ... But it forbids that exaggerated liberty which cares not for the good of the family; it forbids that in this body which is the family, the heart be separated from the head, to the great detriment of the whole body, and the proximate danger of ruin. For if the man is the head, the woman is the heart, and as he occupies the chief place in ruling, she ought to claim for herself the chief place in love."
 
 
 **What are the duties of the married as parents?**
@@ -38,7 +38,7 @@
 
 2. Some parents are at great pains to amass wealth to bequeath to their children, but pay no attention to their upbringing. The best legacy they can leave their children is the love of God.
 
-> The religious training of the child depends mostly on the mother. A mother who spends her time gossiping with her neighbours, going from one social function to another, or engrossing herself in useless amusements to the neglect of her children, has much to answer for before God. How happy good parents will be when they go before God's judgement seat and are able to say: "Those whom Thou hast given me I have guarded" (John 17: 12).
+> The religious training of the child depends mostly on the mother. A mother who spends her time gossiping with her neighbours, going from one social function to another, or engrossing herself in useless amusements to the neglect of her children, has much to answer for before God. How happy good parents will be when they go before God's judgement seat and are able to say: "Those whom Thou hast given me I have guarded" (John 17:12).
 
 
 **Is artificial birth control immoral?**

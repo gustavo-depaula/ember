@@ -13,11 +13,11 @@
 
 1. Restos dos corpos dos santos, a Cruz na qual Nosso Senhor morreu, os pregos que O crucificaram, são todos relíquias. As roupas e mobiliário usados pelos santos são também tidos como relíquias.
 
-> Apenas aquelas relíquias às quais o nome do santo e o selo episcopal estão anexados são autênticas. Relíquias não podem ser vendidas. Deus frequentemente mostrou Sua aprovação do uso de relíquias operando milagres por meio delas. "Quando tocou os ossos de Eliseu, o homem voltou à vida" (4 Reis 13: 21).
+> Apenas aquelas relíquias às quais o nome do santo e o selo episcopal estão anexados são autênticas. Relíquias não podem ser vendidas. Deus frequentemente mostrou Sua aprovação do uso de relíquias operando milagres por meio delas. "Quando tocou os ossos de Eliseu, o homem voltou à vida" (4 Reis 13:21).
 
 2. Relíquias merecem ser veneradas. Os corpos dos santos foram templos do Espírito Santo, e instrumentos pelos quais Deus trabalhou.
 
-> Um dia ressurgirão gloriosos da sepultura, e serão unidos com a alma no céu. Deus mostra Sua aprovação da veneração de relíquias operando frequentes milagres em sua aplicação. Em certos casos, os corpos dos santos permaneceram incorruptos, como os de Santa Teresa, São Francisco Xavier e Santa Catarina de Bolonha. O sangue de São Januário, guardado numa ampola em Nápoles, liquefaz-se várias vezes ao ano por certos períodos. "Deus operava mais do que os milagres usuais pela mão de Paulo; de modo que até lenços e aventais eram levados de seu corpo aos enfermos, e as doenças os deixavam e os espíritos malignos saíam" (Atos 19: 12).
+> Um dia ressurgirão gloriosos da sepultura, e serão unidos com a alma no céu. Deus mostra Sua aprovação da veneração de relíquias operando frequentes milagres em sua aplicação. Em certos casos, os corpos dos santos permaneceram incorruptos, como os de Santa Teresa, São Francisco Xavier e Santa Catarina de Bolonha. O sangue de São Januário, guardado numa ampola em Nápoles, liquefaz-se várias vezes ao ano por certos períodos. "Deus operava mais do que os milagres usuais pela mão de Paulo; de modo que até lenços e aventais eram levados de seu corpo aos enfermos, e as doenças os deixavam e os espíritos malignos saíam" (Atos 19:12).
 
 3. Honramos relíquias quando as preservamos com reverência, visitamos os lugares onde estão depositadas, rezamos diante delas, etc.
 
@@ -66,6 +66,6 @@
 
 > Do mesmo modo quando beijamos a foto de nossa mãe não damos nossa afeição ao papel, mas à nossa mãe. Desrespeito a uma imagem é desrespeito àquele representado.
 
-2. Na veneração de relíquias, estátuas sagradas e quadros, não cremas que qualquer poder divino resida neles. Não podem, por si mesmos, operar milagres. São meros instrumentos, objetos inanimados que podem ser usados por um Deus Todo-Poderoso.
+2. Na veneração de relíquias, estátuas sagradas e quadros, não cremos que qualquer poder divino resida neles. Não podem, por si mesmos, operar milagres. São meros instrumentos, objetos inanimados que podem ser usados por um Deus Todo-Poderoso.
 
 > Os numerosos milagres operados através do uso de relíquias foram resultado, não do poder das relíquias, mas de Deus, agindo através delas. Os Evangelhos contam a história comovente da mulher curada ao tocar a orla da vestimenta de Nosso Senhor. Contudo mesmo aquela vestimenta sagrada não operou por si mesma o milagre; Cristo usou Seu poder, operando através da vestimenta. E assim hoje relíquias continuam a desempenhar um papel na operação de milagres, na suspensão da lei natural, mas sempre como meros instrumentos do Deus Todo-Poderoso.

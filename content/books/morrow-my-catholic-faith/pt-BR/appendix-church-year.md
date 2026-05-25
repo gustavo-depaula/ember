@@ -91,12 +91,12 @@
 
 > Este é o único dia de todo o ano em que o Sacrifício da Missa não é oferecido. O ofício não é uma Missa no sentido próprio da palavra, porque não há Consagração. O sacerdote oficiante consome a Hóstia que foi consagrada no dia anterior e reservada no Sacrário.
 
-> Neste dia também se realiza a adoração da cruz. Os antífonos e responsórios cantados durante a adoração da cruz são chamados de "Impropérios" ou Reproaches — palavras dirigidas por Nosso Senhor aos judeus. São um traço marcante e muito dramático do ofício da Sexta-feira Santa. O desvelamento da cruz é simbólico de Cristo sendo despojado de Suas vestes. A devoção das Estações da Cruz é praticada hoje em todas as igrejas. Em várias igrejas, faz-se o sermão das "Sete Palavras"; então é usual que o sermão dure do meio-dia às três horas, quando a "Última Palavra" é pronunciada. Este sermão é uma tentativa de retratar as últimas horas de Nosso Senhor na Cruz.
+> Neste dia também se realiza a adoração da cruz. Os antífonos e responsórios cantados durante a adoração da cruz são chamados de "Impropérios" ou Reprovações — palavras dirigidas por Nosso Senhor aos judeus. São um traço marcante e muito dramático do ofício da Sexta-feira Santa. O desvelamento da cruz é simbólico de Cristo sendo despojado de Suas vestes. A devoção das Estações da Cruz é praticada hoje em todas as igrejas. Em várias igrejas, faz-se o sermão das "Sete Palavras"; então é usual que o sermão dure do meio-dia às três horas, quando a "Última Palavra" é pronunciada. Este sermão é uma tentativa de retratar as últimas horas de Nosso Senhor na Cruz.
 
 
 **Sábado Santo.**
 
-> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso e a pia batismal. Ao meio-dia termina a estação da Quaresma e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
+> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso e a pia batismal. Ao meio-dia termina a estação da Quaresma, e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
 
 
 **Domingo de Páscoa.**
@@ -201,7 +201,7 @@
 
 **As Sete Dores da Santíssima Virgem Maria,** 15 de setembro.
 
-> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2,15), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2,42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz e o sepultamento de Nosso Senhor.
+> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2:15), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2:42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz e o sepultamento de Nosso Senhor.
 
 
 **Festa dos Santos Anjos da Guarda,** 2 de outubro.

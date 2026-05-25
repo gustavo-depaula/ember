@@ -15,15 +15,15 @@
 
 > Pointing to Christ, St. John the Baptist said: "Behold the Lamb of God, who takes away the sin of the world!"
 
-2. We can obtain forgiveness of sin, because Christ the Redeemer merited forgiveness for us by His death. The Church has power to remit sins through the merits of Jesus Christ, "in whom we have our redemption, the remission of our sins" (Col. 1: 14).
+2. We can obtain forgiveness of sin, because Christ the Redeemer merited forgiveness for us by His death. The Church has power to remit sins through the merits of Jesus Christ, "in whom we have our redemption, the remission of our sins" (Col. 1:14).
 
-> During life, Christ actually forgave sin. For example, He forgave Mary Magdalen, the paralytic, and the good thief. In curing the paralytic, He said, "But that you may know that the Son of Man has power on earth to forgive sins"—then he said to the paralytic —"Arise, take up thy pallet and go to thy house" (Matt. 9: 6).
+> During life, Christ actually forgave sin. For example, He forgave Mary Magdalen, the paralytic, and the good thief. In curing the paralytic, He said, "But that you may know that the Son of Man has power on earth to forgive sins"—then he said to the paralytic —"Arise, take up thy pallet and go to thy house" (Matt. 9:6).
 
-3. Christ gave to His Apostles and disciples and their successors power to forgive sins. He said: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 22-23).
+3. Christ gave to His Apostles and disciples and their successors power to forgive sins. He said: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20:22-23).
 
 > This power to forgive sins was not given to the Apostles alone, since men of later ages would need forgiveness as much as men of Apostolic times. The power, therefore, must also remain in the successors of the Apostles.
 
-4. It is true, as the enemies of the Church assert, that man cannot forgive sins. Man, by his own individual power, can never forgive the smallest sin, but he can forgive all sins, with the power and authority God gave him, as minister of God, acting in God's place. Or is God limited because man is sinful? "These things I write to you in order that you may not sin. But if anyone sins, we have an advocate with the Father, Jesus Christ the just" (1 John 2: 1).
+4. It is true, as the enemies of the Church assert, that man cannot forgive sins. Man, by his own individual power, can never forgive the smallest sin, but he can forgive all sins, with the power and authority God gave him, as minister of God, acting in God's place. Or is God limited because man is sinful? "These things I write to you in order that you may not sin. But if anyone sins, we have an advocate with the Father, Jesus Christ the just" (1 John 2:1).
 
 > From the very beginning the Church has exercised this power, through the sacraments of Penance and Baptism, and even through Extreme Unction.
 
@@ -70,7 +70,7 @@
 
 1. God is always ready to forgive our sins, no matter how great or how many they are, if we are truly sorry for them. No actual sin can be forgiven without sorrow and repentance on the part of the sinner.
 
-> Our Lord said: "I say to you that, even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine just who have no need of repentance" (Luke 15: 7).
+> Our Lord said: "I say to you that, even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine just who have no need of repentance" (Luke 15:7).
 
 2. The sin against the Holy Ghost which Christ warned us would not be forgiven in heaven or on earth is persistent impenitence, the sin of one who rejects conversion and dies in mortal sin. One guilty of this sin can never obtain forgiveness of God, because at the hour of death he continues to thrust God away from him.
 

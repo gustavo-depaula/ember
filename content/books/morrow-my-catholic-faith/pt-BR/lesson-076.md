@@ -13,11 +13,11 @@
 
 1. A alma é julgada por Deus, e recompensada com o céu, punida com o inferno, ou enviada por um tempo para ser purificada no purgatório. O corpo começa a corromper-se e retorna ao pó do qual veio.
 
-> São Pedro falou do corpo como um tabernáculo para a alma: "a retirada de meu tabernáculo está próxima" (2 Ped. 1: 14). Na morte, "o pó retorna à sua terra, de onde veio, e o espírito retorna a Deus, Que o deu" (Ecles. 12: 7). As únicas exceções têm sido os corpos de Nosso Senhor e da Santíssima Virgem, que ressuscitaram para unir-se à sua alma, e estão agora no céu.
+> São Pedro falou do corpo como um tabernáculo para a alma: "a retirada de meu tabernáculo está próxima" (2 Ped. 1:14). Na morte, "o pó retorna à sua terra, de onde veio, e o espírito retorna a Deus, Que o deu" (Ecles. 12:7). As únicas exceções têm sido os corpos de Nosso Senhor e da Santíssima Virgem, que ressuscitaram para unir-se à sua alma, e estão agora no céu.
 
-2. Todos os homens devem morrer, porque a morte é uma consequência do pecado original. "Portanto como por um homem o pecado entrou neste mundo e pelo pecado a morte, e assim a morte passou a todos os homens" (Rom. 5: 12).
+2. Todos os homens devem morrer, porque a morte é uma consequência do pecado original. "Portanto como por um homem o pecado entrou neste mundo e pelo pecado a morte, e assim a morte passou a todos os homens" (Rom. 5:12).
 
-> Por seu pecado nossos primeiros pais perderam a imortalidade do corpo, pois Deus condenou-os a morrer. "Pó és, e em pó te hás de tornar" (Gên. 3: 19). Mesmo Jesus Cristo e Sua Mãe submeteram-se à morte.
+> Por seu pecado nossos primeiros pais perderam a imortalidade do corpo, pois Deus condenou-os a morrer. "Pó és, e em pó te hás de tornar" (Gên. 3:19). Mesmo Jesus Cristo e Sua Mãe submeteram-se à morte.
 
 3. Ninguém sabe quando, onde, ou como morrerá. Tudo o que sabemos é que morreremos, e que quando nossa hora soar, ninguém pode tomar nosso lugar.
 
@@ -25,7 +25,7 @@
 
 4. Devemos portanto estar sempre prontos para morrer. A morte vem "como um ladrão na noite" quando menos esperamos. Devemos viver como se cada momento fosse o último da vida, sempre prontos para aparecer diante de nosso Divino Juiz.
 
-> "Portanto vós também deveis estar prontos, porque numa hora em que não pensais, virá o Filho do Homem" (Mat. 24: 44).
+> "Portanto vós também deveis estar prontos, porque numa hora em que não pensais, virá o Filho do Homem" (Mat. 24:44).
 
 
 **Como devemos preparar-nos para a morte?**
@@ -34,9 +34,9 @@
 
 1. Devemos manter-nos na graça e amor de Deus, de modo que quando o Anjo da Morte vier, possamos recebê-lo como um que nos leva para casa para ver o rosto de nosso Pai amoroso. Os bons não temem a morte.
 
-> Morramos com alegria, dizendo a Deus, como o Santo Simeão disse: "Agora, Senhor, despedes Teu servo em paz, segundo Tua palavra" (Luc. 2: 29). Imitemos São Paulo, que diz: "Combati o bom combate. Terminei a carreira, guardei a fé. Quanto ao resto, está-me reservada uma coroa de justiça, que o Senhor, justo Juiz, me dará naquele dia" (2 Tim. 4: 7-8). Santo Agostinho exclama: "Ó quão doce é morrer, se a vida de alguém foi boa!" Para tais como ele, "morrer é ganho". Para o homem justo a morte é apenas uma passagem para uma vida melhor. É uma jornada para seu lar eterno, onde seu Pai celestial habita. A morte deve ser temida apenas pelo pecador, pois é o fim de seus prazeres terrenos, e o princípio de seu castigo eterno.
+> Morramos com alegria, dizendo a Deus, como o Santo Simeão disse: "Agora, Senhor, despedes Teu servo em paz, segundo Tua palavra" (Luc. 2:29). Imitemos São Paulo, que diz: "Combati o bom combate. Terminei a carreira, guardei a fé. Quanto ao resto, está-me reservada uma coroa de justiça, que o Senhor, justo Juiz, me dará naquele dia" (2 Tim. 4:7-8). Santo Agostinho exclama: "Ó quão doce é morrer, se a vida de alguém foi boa!" Para tais como ele, "morrer é ganho". Para o homem justo a morte é apenas uma passagem para uma vida melhor. É uma jornada para seu lar eterno, onde seu Pai celestial habita. A morte deve ser temida apenas pelo pecador, pois é o fim de seus prazeres terrenos, e o princípio de seu castigo eterno.
 
-2. Como um homem vive, assim morre. A Sagrada Escritura diz: "Como a árvore cair, assim jazerá" (Ecles. 11: 3). Devemos frequentemente recordar o pensamento da morte e eternidade de modo que possamos evitar pecado. "Em todas as tuas obras lembra-te de teu fim, e nunca pecarás" (Eclo. 7: 40). Aqueles que adiam reformar suas vidas na esperança de um arrependimento no leito de morte são como um viajante que começa a fazer as malas quando o trem apita para partida.
+2. Como um homem vive, assim morre. A Sagrada Escritura diz: "Como a árvore cair, assim jazerá" (Ecles. 11:3). Devemos frequentemente recordar o pensamento da morte e eternidade de modo que possamos evitar pecado. "Em todas as tuas obras lembra-te de teu fim, e nunca pecarás" (Eclo. 7:40). Aqueles que adiam reformar suas vidas na esperança de um arrependimento no leito de morte são como um viajante que começa a fazer as malas quando o trem apita para partida.
 
 > Imagine-se a morte de um homem justo, um que toda sua vida fez o bem e evitou o mal. Frequentemente viu pessoas serem levadas subitamente, quando menos esperavam, e decidiu estar sempre pronto para morrer e enfrentar seu Juiz. Esperava que, no fim de sua vida, morreria com os Últimos Sacramentos, um sacerdote, e sua família ao seu lado. Mas suas obrigações levaram-no ao deserto; lá está morrendo, com apenas o guia ao seu lado. Mas está em paz, e um sorriso está em seus lábios, pois está pronto para morrer: estando sempre em estado de graça, está pronto para encontrar seu Juiz em qualquer lugar, a qualquer tempo. Sabe que o Juiz sorrirá também, e o receberá como um bom filho, um amigo.
 

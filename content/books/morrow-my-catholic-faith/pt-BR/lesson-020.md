@@ -2,7 +2,7 @@
 
 ![](../images/lesson-020.webp)
 
-*Deus puniu Adão e Eva pelo pecado que cometeram. "E o Senhor Deus o enviou fora do paraíso de delícias, para cultivar a terra de que fora tomado" (Gên. 3: 23). Todas as calamidades no mundo hoje, guerra, doença, pobreza, etc., são consequências do pecado de Adão. Herdamos todas as fraquezas que foram parte de seu castigo.*
+*Deus puniu Adão e Eva pelo pecado que cometeram. "E o Senhor Deus o enviou fora do paraíso de delícias, para cultivar a terra de que fora tomado" (Gên. 3:23). Todas as calamidades no mundo hoje, guerra, doença, pobreza, etc., são consequências do pecado de Adão. Herdamos todas as fraquezas que foram parte de seu castigo.*
 
 
 **O que aconteceu a Adão e Eva por causa de seu pecado?**
@@ -15,11 +15,11 @@
 
 2. Perderam seus dons especiais: tornaram-se sujeitos ao sofrimento e morte.
 
-> Suas mentes e vontades foram tão enfraquecidas que se tornaram inclinadas ao mal, sujeitas à tentação. "No suor de teu rosto comerás pão até que tornes à terra, de que foste tomado: porque pó és, e ao pó tornarás" (Gên. 3: 16-19).
+> Suas mentes e vontades foram tão enfraquecidas que se tornaram inclinadas ao mal, sujeitas à tentação. "No suor de teu rosto comerás pão até que tornes à terra, de que foste tomado: porque pó és, e ao pó tornarás" (Gên. 3:16-19).
 
 3. Deus expulsou Adão e Eva do Jardim do Paraíso.
 
-> "E o Senhor Deus o enviou fora do paraíso de delícias" (Gên. 3: 23, 24).
+> "E o Senhor Deus o enviou fora do paraíso de delícias" (Gên. 3:23, 24).
 
 4. Alguns se perguntam como comer de um fruto poderia ter sido um crime tão grave. Devemos lembrar que Deus deu a Adão e Eva toda bênção. Apenas requereu deles, como prova de sua fidelidade, abster-se de comer o fruto de uma árvore.
 
@@ -30,7 +30,7 @@
 
 — Por causa do pecado de Adão, nós, seus descendentes, viemos ao mundo privados de graça santificante e herdamos seu castigo, como teríamos herdado seus dons se ele tivesse sido obediente a Deus.
 
-> "Portanto como por um homem o pecado entrou no mundo e pelo pecado a morte, e assim a morte passou a todos os homens" (Rom. 5: 12).
+> "Portanto como por um homem o pecado entrou no mundo e pelo pecado a morte, e assim a morte passou a todos os homens" (Rom. 5:12).
 
 1. Este pecado em nós é chamado pecado original. É o estado no qual todo descendente de Adão vem ao mundo, totalmente privado de graça, por herdar o castigo, não do pecado pessoal de Adão, mas de seu pecado como cabeça da raça humana. Este pecado é chamado original porque desce até nós através de nossa origem, de Adão.
 
@@ -47,11 +47,11 @@
 
 1. Pelo pecado original, tornamo-nos sujeitos à doença e morte. Isto foi parte do castigo que Deus impôs a Adão.
 
-> "No dia em que dele comerdes, morrereis de morte" (Gên. 2: 17).
+> "No dia em que dele comerdes, morrereis de morte" (Gên. 2:17).
 
 2. Toda nossa natureza tornou-se inclinada ao mal. Nossa razão está em perpétuo conflito com nossas paixões.
 
-> Mesmo após nossas almas serem purificadas do pecado original pelo batismo, a corrupção de nossa natureza e outros castigos, como enfermidade, inclinações más, etc., permanecem. "A imaginação e o pensamento do coração do homem são propensos ao mal" (Gên. 8: 21). "A carne cobiça contra o espírito, e o espírito contra a carne" (Gal. 5: 17).
+> Mesmo após nossas almas serem purificadas do pecado original pelo batismo, a corrupção de nossa natureza e outros castigos, como enfermidade, inclinações más, etc., permanecem. "A imaginação e o pensamento do coração do homem são propensos ao mal" (Gên. 8:21). "A carne cobiça contra o espírito, e o espírito contra a carne" (Gal. 5:17).
 
 
 **Deus é injusto ao punir-nos por causa do pecado de Adão?**
@@ -71,7 +71,7 @@
 
 — A Santíssima Virgem Maria foi preservada do pecado original em vista dos méritos de Seu Divino Filho, e este privilégio é chamado sua Imaculada Conceição.
 
-> "E tendo o anjo entrado onde ela estava, disse: Salve, cheia de graça, o Senhor é contigo. Bendita és tu entre as mulheres" (Luc. 1: 28).
+> "E tendo o anjo entrado onde ela estava, disse: Salve, cheia de graça, o Senhor é contigo. Bendita és tu entre as mulheres" (Luc. 1:28).
 
 1. Desde o primeiro momento de sua concepção, a Santíssima Virgem foi preservada de toda mancha de pecado original. Foi concebida e nasceu sem pecado original.
 

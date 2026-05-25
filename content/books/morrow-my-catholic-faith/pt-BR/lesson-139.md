@@ -34,7 +34,7 @@
 
 1. O melhor modo de unir-nos em oferecer o Santo Sacrifício é seguindo as orações da Missa num Missal e meditando nos mistérios ali apresentados. Se não temos Missal, devemos devotamente meditar, especialmente nas partes principais, na Paixão de Nosso Senhor; a Missa é uma reencenação do sacrifício na cruz, uma comemoração da morte de Cristo.
 
-> Aqueles que dizem orações vocais devem ter cuidado de não sussurrar tão alto quanto a perturbar outros. Nas partes principais da Missa, devemos sempre suspender nossas devoções privadas e meditar no mistério particular apresentado: no Ofertório unindo nossas intenções com o padre, na Consagração acolhendo Jesus e na Comunhão convidando-O a nossos corações e agradecendo-Lhe pela consumação de Seu sacrifício.
+> Aqueles que dizem orações vocais devem ter cuidado de não sussurrar tão alto quanto a perturbar outros. Nas partes principais da Missa, devemos sempre suspender nossas devoções privadas e meditar no mistério particular apresentado: no Ofertório unindo nossas intenções com o padre, na Consagração acolhendo Jesus, e na Comunhão convidando-O a nossos corações e agradecendo-Lhe pela consumação de Seu sacrifício.
 
 2. Devemos também unir-nos com o resto dos que ouvem a Missa e com todos os cristãos em todo o mundo, pelos quais Cristo morreu assim como por nós. Nos primeiros dias da Igreja, cristãos ouviam Missa em congregação, respondendo ao padre partes ditas agora pelo acólito.
 

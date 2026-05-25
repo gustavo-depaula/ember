@@ -9,11 +9,11 @@
 
 — A Santa Comunhão é a recepção de Jesus Cristo no sacramento da Santa Eucaristia.
 
-1. "Comunhão" significa uma união ou compartilhar juntos. Na Santa Comunhão, Cristo e nossa alma são intimamente unidos e compartilhamos o banquete da mesa do Senhor.
+1. "Comunhão" significa uma união ou compartilhar juntos. Na Santa Comunhão, Cristo e nossa alma são intimamente unidos, e compartilhamos o banquete da mesa do Senhor.
 
 > Quando Napoleão o Grande estava no auge de seu poder, um de seus generais perguntou-lhe uma vez qual tinha sido o dia mais feliz de sua vida. Esperando ouvir o Imperador nomear uma grande batalha, o general ficou surpreso ao ouvi-lo dizer, "Meu dia mais feliz foi o dia de minha primeira Santa Comunhão, pois então fui trazido mais perto de meu Deus."
 
-2. Cristo ordenou-nos receber a Santa Comunhão quando disse: "Se não comerdes a carne do Filho do Homem e beberdes o seu sangue, não tereis vida em vós" (João 6: 54). É o alimento de nossas almas.
+2. Cristo ordenou-nos receber a Santa Comunhão quando disse: "Se não comerdes a carne do Filho do Homem e beberdes o seu sangue, não tereis vida em vós" (João 6:54). É o alimento de nossas almas.
 
 > A Santa Comunhão aumenta em nós a vida da graça. Durante a perseguição contra o Cristianismo na China, a graça dada aos mártires foi notada pelos próprios pagãos. As vítimas eram cruelmente açoitadas e torturadas, mas permaneciam firmes em sua fé e a professavam abertamente e sem medo. Os infiéis, maravilhados com tal fortaleza, diziam, "Verdadeiramente, estas pessoas têm comido daquele Pão Eucarístico que participam em suas assembleias. Lança um feitiço sobre suas almas."
 
@@ -28,7 +28,7 @@
 
 **Quando somos obrigados a receber a Santa Comunhão?**
 
-— Somos obrigados a receber a Santa Comunhão durante o tempo pascal cada ano e quando em perigo de morte.
+— Somos obrigados a receber a Santa Comunhão durante o tempo pascal cada ano, e quando em perigo de morte.
 
 1. Nosso Senhor ordenou-nos receber a Santa Comunhão. A Igreja impõe este mandamento requerendo-nos sob pena de pecado grave comungar no tempo pascal.
 
@@ -49,7 +49,7 @@
 
 — É bom receber a Santa Comunhão frequentemente, mesmo diariamente, porque esta união íntima com Jesus Cristo, a Fonte de toda santidade e o Doador de todas as graças, é a maior ajuda para uma vida santa.
 
-1. Católicos bons devem ir à Santa Comunhão pelo menos uma vez por mês ou melhor, cada vez que ouvem Missa. Católicos fervorosos comungam diariamente. Se o corpo não pode fazer sem comida, como pode a alma?
+1. Católicos bons devem ir à Santa Comunhão pelo menos uma vez por mês, ou melhor, cada vez que ouvem Missa. Católicos fervorosos comungam diariamente. Se o corpo não pode fazer sem comida, como pode a alma?
 
 > Um jovem uma vez foi conhecido por ser extremamente apegado a seu pai. Várias vezes afirmou que não havia nada que não faria por seu pai. Até disse que se necessário, morreria por seu pai, apenas para agradá-lo. Um dia, um amigo disse, "Teu pai está na sala ao lado, esperando ver-te. Ele esperou lá muito tempo." E o jovem respondeu, "Oh, estou demasiado ocupado. Apenas o vi na semana passada. Deixe-o esperar um ano; então o visitarei." O que pensarias de tal jovem? Ele é o tipo de muitos católicos hoje, que recebem Comunhão apenas na Páscoa.
 

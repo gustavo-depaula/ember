@@ -19,7 +19,7 @@
 
 2. Apostasia é completa rejeição das verdades da fé católica por aquele que foi batizado. Uma vida viciosa e pecaminosa frequentemente leva à apostasia. Nenhum homem verdadeiramente bom jamais se afastou da fé católica.
 
-> Um apóstata nega ou abandona sua religião por medo ou vergonha, ou por motivos mundanos ou respeito humano, e nega o Próprio Cristo. Está sob sentença de danação eterna, pois Cristo diz: "Quem Me renegar diante dos homens, também Eu o renegarei diante de Meu Pai que está nos céus" (Mat. 10: 33). Pode acontecer que um católico abandone sua religião porque teve uma discussão com o padre. Crucifica Cristo por causa de uma pequena desavença com um mortal. Tal homem deve sempre lembrar que "quem perde seus bens perde muito; quem perde sua vida, perde mais; mas quem perde sua fé perde tudo."
+> Um apóstata nega ou abandona sua religião por medo ou vergonha, ou por motivos mundanos ou respeito humano, e nega o Próprio Cristo. Está sob sentença de danação eterna, pois Cristo diz: "Quem Me renegar diante dos homens, também Eu o renegarei diante de Meu Pai que está nos céus" (Mat. 10:33). Pode acontecer que um católico abandone sua religião porque teve uma discussão com o padre. Crucifica Cristo por causa de uma pequena desavença com um mortal. Tal homem deve sempre lembrar que "quem perde seus bens perde muito; quem perde sua vida, perde mais; mas quem perde sua fé perde tudo."
 
 3. Heresia é a recusa de pessoas batizadas em aceitar uma ou mais das verdades reveladas por Deus e ensinadas pela Igreja Católica. Se esta recusa é voluntária e obstinada, há heresia formal; se é involuntária, há heresia material.
 
@@ -38,7 +38,7 @@
 
 > Quando necessário, para obrigações sociais, um católico pode estar presente num casamento ou funeral não-católico, mas não deve participar dos serviços. Em nenhum caso pode assistir outros serviços de igrejas não-católicas, como a instalação de seus ministros, sermões, etc.
 
-2. É pecado pertencer a qualquer sociedade que se oponha à Igreja. A Maçonaria, ou Maçonaria, é condenada pela Igreja. Muitas pessoas caridosas, que se juntaram à Maçonaria meramente por razões sociais ou de negócios, não entendem a posição da Igreja. A maioria delas serve apenas ao Terceiro Grau, e não mantém nenhum espírito de antagonismo contra a Igreja; mas estas boas pessoas não percebem os propósitos básicos de sua organização.
+2. É pecado pertencer a qualquer sociedade que se oponha à Igreja. A Franco-Maçonaria, ou Maçonaria, é condenada pela Igreja. Muitas pessoas caridosas, que se juntaram à Maçonaria meramente por razões sociais ou de negócios, não entendem a posição da Igreja. A maioria delas serve apenas ao Terceiro Grau, e não mantém nenhum espírito de antagonismo contra a Igreja; mas estas boas pessoas não percebem os propósitos básicos de sua organização.
 
 > Na realidade, a Maçonaria é uma seita religiosa empenhada na destruição da Igreja Católica. Tem suas próprias doutrinas, sacerdócio e ritual; tem sua moralidade característica. Por exemplo, impõe um juramento que requer obediência cega; não aceita a Revelação Divina. "Pelos seus frutos os conhecereis", e os frutos da Maçonaria são evidentes através da história europeia. Podemos dizer que ninguém precisa ter vergonha dos frutos da Igreja Católica em todos os lugares e todos os tempos?
 
@@ -47,7 +47,7 @@
 
 — Um católico pode melhor salvaguardar sua fé fazendo atos frequentes de fé, rezando por uma fé forte, estudando sua religião muito seriamente, vivendo uma boa vida, por boas leituras, recusando-se a associar com os inimigos da Igreja, e não lendo livros e jornais opostos à Igreja e seu ensino.
 
-1. Atos de fé são orações ditas para dizer a Deus que cremos n'Ele. Agradáveis a Deus também são orações de fé, como as que os Apóstolos fizeram ao Senhor: "Aumenta-nos a fé" (Luc. 17: 5). Quanto mais cremos, mais firme nossa fé se torna, pela graça de Deus.
+1. Atos de fé são orações ditas para dizer a Deus que cremos n'Ele. Agradáveis a Deus também são orações de fé, como as que os Apóstolos fizeram ao Senhor: "Aumenta-nos a fé" (Luc. 17:5). Quanto mais cremos, mais firme nossa fé se torna, pela graça de Deus.
 
 > Devemos estudar bem nossa religião, especialmente a doutrina cristã. Se temos alguma dúvida sobre ela, devemos consultar um bom conselheiro espiritual ou confessor. Muitos perderam sua religião por mal-entender suas doutrinas.
 

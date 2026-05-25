@@ -13,7 +13,7 @@
 
 1. A refeição completa pode ser tomada tanto ao meio-dia quanto à noite. Apenas nesta refeição pode ser tomada carne; mas tanto peixe quanto carne podem ser tomados na mesma refeição.
 
-> Jejum era uma prática na primitiva Igreja. E o Espírito Santo disse, "Separai para Mim Saulo e Barnabé para a obra a que os tenho chamado." Então, tendo jejuado e orado e imposto sobre eles as mãos, deixaram-nos ir (Atos 13: 2-3).
+> Jejum era uma prática na primitiva Igreja. E o Espírito Santo disse, "Separai para Mim Saulo e Barnabé para a obra a que os tenho chamado." Então, tendo jejuado e orado e imposto sobre eles as mãos, deixaram-nos ir (Atos 13:2-3).
 
 2. Comer entre refeições é proibido; bebida que não nutre é permitida.
 
@@ -55,7 +55,7 @@ Aqueles de saúde fraca, os doentes, os convalescentes, mulheres amamentando, os
 
 — A Igreja nos manda jejuar e abster-nos para que possamos controlar os desejos da carne, elevar nossas mentes mais livremente a Deus, e fazer satisfação pelos pecados.
 
-> "Castigo meu corpo e reduzo-o à sujeição, para que talvez depois de pregar a outros Eu mesmo seja rejeitado" (1 Cor. 9: 27).
+> "Castigo meu corpo e reduzo-o à sujeição, para que talvez depois de pregar a outros Eu mesmo seja rejeitado" (1 Cor. 9:27).
 
 1. A Igreja não comanda abstinência e jejum porque considera carne e outros alimentos maus em si mesmos. Apenas nos negamos para a glória de Deus e o bem de nossas almas.
 
@@ -82,4 +82,4 @@ Desde então, os dias de jejum e abstinência que todos os católicos são obrig
 
 > Contudo, por conta da tradição apostólica e do uso venerável das idades passadas de fé, é fortemente recomendado que os fiéis também observem os seguintes dias de jejum e abstinência:
 
-Dias de jejum altamente aconselhados são: (a) Os dias das Têmperas. Estes são doze em número, sendo três por estação, namely, as Quartas-feiras, Sextas-feiras e Sábados após: o primeiro Domingo da Quaresma, Pentecostes, terceira semana de Setembro, e após o terceiro Domingo do Advento em Dezembro. (b) Todas as Sextas-feiras da Quaresma. (c) As Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal. 2) Dias de abstinência altamente aconselhados são: Os dias das Têmperas e Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal.
+Dias de jejum altamente aconselhados são: (a) Os dias das Têmperas. Estes são doze em número, sendo três por estação, a saber, as Quartas-feiras, Sextas-feiras e Sábados após: o primeiro Domingo da Quaresma, Pentecostes, terceira semana de Setembro, e após o terceiro Domingo do Advento em Dezembro. (b) Todas as Sextas-feiras da Quaresma. (c) As Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal. 2) Dias de abstinência altamente aconselhados são: Os dias das Têmperas e Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal.

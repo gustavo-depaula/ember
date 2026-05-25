@@ -11,19 +11,19 @@
 
 1. Nosso Senhor Jesus Cristo instituiu este sacramento. Na Última Ceia deu aos Apóstolos e seus sucessores o poder de dizer Missa. Disse, após consagrar Seu Corpo e Sangue:
 
-> "Fazei isto em memória de mim" (Lucas 22: 19). Assim deu aos Apóstolos o poder de oferecer o Sacrifício da Missa.
+> "Fazei isto em memória de mim" (Lucas 22:19). Assim deu aos Apóstolos o poder de oferecer o Sacrifício da Missa.
 
 2. No dia da Ressurreição Nosso Senhor deu aos discípulos poder de perdoar pecados. Soprou sobre eles e disse:
 
-> "Como o Pai Me enviou, também Eu vos envio... Recebei o Espírito Santo; aqueles cujos pecados perdoardes, ser-lhes-ão perdoados e aqueles cujos pecados retiverdes, ser-lhes-ão retidos" (João 20: 21-23).
+> "Como o Pai Me enviou, também Eu vos envio... Recebei o Espírito Santo; aqueles cujos pecados perdoardes, ser-lhes-ão perdoados e aqueles cujos pecados retiverdes, ser-lhes-ão retidos" (João 20:21-23).
 
 3. Finalmente, antes da Ascensão, Cristo deu a Seus discípulos a missão de pregar o Evangelho e dispensar os sacramentos.
 
-> "Todo poder no céu e na terra foi dado a Mim. Ide, portanto, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo, ensinando-os a observar tudo o que vos ordenei; e eis que Estou convosco todos os dias, até a consumação do mundo" (Mat. 28: 18-20).
+> "Todo poder no céu e na terra foi dado a Mim. Ide, portanto, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo, ensinando-os a observar tudo o que vos ordenei; e eis que Estou convosco todos os dias, até a consumação do mundo" (Mat. 28:18-20).
 
 4. Os Apóstolos, em cumprimento aos desejos de Cristo, administraram o sacramento da Ordem.
 
-> Consagraram Paulo e Barnabé Bispos com oração e imposição de mãos. Do mesmo modo São Paulo ordenou Timóteo. Quando os Apóstolos estabeleciam igrejas, upon sua partida, ordenavam e nomeavam sucessores (bispos) a quem davam plenos poderes e outros ministros (padres) a quem transmitiam parte de seus poderes. "Por esta razão te admoesto a reacender a graça de Deus que está em ti pela imposição de minhas mãos" (2 Tm. 1: 6).
+> Consagraram Paulo e Barnabé Bispos com oração e imposição de mãos. Do mesmo modo São Paulo ordenou Timóteo. Quando os Apóstolos estabeleciam igrejas, ao partir, ordenavam e nomeavam sucessores (bispos) a quem davam plenos poderes, e outros ministros (padres) a quem transmitiam parte de seus poderes. "Por esta razão te admoesto a reacender a graça de Deus que está em ti pela imposição de minhas mãos" (2 Tm. 1:6).
 
 
 **Quais são alguns dos requisitos para um homem receber a Ordem dignamente?**
@@ -34,7 +34,7 @@
 
 1. Um homem deve ser de excelente caráter. Isto implica boa vontade e conduta virtuosa, assim como bom senso.
 
-> Bom senso é necessário se um padre deve fazer bem às almas. As delicadas funções exercidas por um padre, especialmente como Juiz de almas, excluiriam do sacerdócio uma pessoa de disposição desequilibrada ou uma que carece de prudência.
+> Bom senso é necessário se um padre deve fazer bem às almas. As delicadas funções exercidas por um padre, especialmente como Juiz de almas, excluiriam do sacerdócio uma pessoa de disposição desequilibrada, ou uma que carece de prudência.
 
 2. Deve ter terminado um curso de seminário com sucesso e deve ter completado seu vigésimo quarto ano. No seminário menor, o curso usualmente consiste de quatro ou cinco anos de Latim e Grego, juntamente com matérias de escola secundária. No seminário maior, o curso inclui filosofia e outras matérias colegiais por dois ou três anos, então quatro anos de teologia, com Sagrada Escritura, História da Igreja, Direito Canônico, Liturgia, Sociologia, etc.
 
@@ -55,10 +55,10 @@
 
 > Três bispos consagram um novo bispo.
 
-1. O candidato deve ser chamado à Ordem por seu Bispo. Antes da ordenação, o bispo deve estar satisfeito que o aplicante tem a virtude e aptidão física e mental requeridas de um padre e que está livre de qualquer irregularidade canônica.
+1. O candidato deve ser chamado à Ordem por seu Bispo. Antes da ordenação, o bispo deve estar satisfeito que o aplicante tem a virtude e aptidão física e mental requeridas de um padre, e que está livre de qualquer irregularidade canônica.
 
 > Pelo Batismo todos os cristãos são dotados do "sacerdócio" espiritual dos leigos, pelo qual têm a obrigação de oferecer a Deus sacrifícios espirituais de orações e mortificação e atos de fé, esperança e caridade. Mas apenas aqueles homens que recebem o Sacramento da Ordem são padres, ministros de Deus, no pleno sentido da palavra.
 
 2. O sacramento da Ordem é administrado por meio de cerimônias que variam com o tipo de ordens conferidas. Consiste no sinal da imposição de mãos pelo bispo, juntamente com as palavras acompanhantes de ordenação, variando com a ordem sendo conferida.
 
-> "Não me escolhestes vós a Mim, mas Eu vos escolhi a vós" (João 15: 16). "Aquele que vos recebe, recebe-Me; e aquele que Me recebe, recebe Aquele que Me enviou" (Mat. 10: 40).
+> "Não me escolhestes vós a Mim, mas Eu vos escolhi a vós" (João 15:16). "Aquele que vos recebe, recebe-Me; e aquele que Me recebe, recebe Aquele que Me enviou" (Mat. 10:40).

@@ -11,7 +11,7 @@
 
 1. "Evangelical" here means contained in the Gospels; these counsels of perfection are clearly set forth in Holy Scripture.
 
-> They are called counsels, because they are an invitation and not a command; all are invited, but no one is forced. "Not all can accept this teaching; but those to whom it has been given" (Matt. 19: 11).
+> They are called counsels, because they are an invitation and not a command; all are invited, but no one is forced. "Not all can accept this teaching; but those to whom it has been given" (Matt. 19:11).
 
 2. By means of the evangelical counsels the three chief evil tendencies of man — avarice, sensuality, and pride — are destroyed, enabling him to rise more freely to God.
 
@@ -26,7 +26,7 @@
 
 — Voluntary poverty is the renunciation of all earthly possessions, for the love of God.
 
-1. Christ counselled voluntary poverty: "If thou wilt be perfect, go, sell what thou hast, and give to the poor" (Matt. 19: 21).
+1. Christ counselled voluntary poverty: "If thou wilt be perfect, go, sell what thou hast, and give to the poor" (Matt. 19:21).
 
 > Our Lord Himself was extremely poor. A stable was His birthplace; a poor woman was His Mother; a carpenter was His foster-father. He had nowhere to lay His head.
 
@@ -37,9 +37,9 @@
 
 — Perpetual chastity consists in abstaining from marriage and all unclean desires.
 
-1. Christ counselled perfect chastity: "Let him accept it who can" (Matt. 19: 12). Christ Himself was perfectly chaste and virginal. His mother was a virgin. He loved children, who are virginal.
+1. Christ counselled perfect chastity: "Let him accept it who can" (Matt. 19:12). Christ Himself was perfectly chaste and virginal. His mother was a virgin. He loved children, who are virginal.
 
-> "Now concerning virgins, I have no commandment of the Lord: yet I give an opinion. ... He who is unmarried is concerned about the things of the Lord, how he may please God. Whereas he who is married is concerned about the things of the world, how he may please his wife; and he is divided. And the unmarried woman, and the virgin, thinks about the things of the Lord, that she may be holy in body and in spirit. Whereas she who is married thinks about the things of the world, how she may please her husband" (1 Cor. 7: 25, 32-34).
+> "Now concerning virgins, I have no commandment of the Lord: yet I give an opinion. ... He who is unmarried is concerned about the things of the Lord, how he may please God. Whereas he who is married is concerned about the things of the world, how he may please his wife; and he is divided. And the unmarried woman, and the virgin, thinks about the things of the Lord, that she may be holy in body and in spirit. Whereas she who is married thinks about the things of the world, how she may please her husband" (1 Cor. 7:25, 32-34).
 
 2. The sixth and ninth commandments of God oblige us to live chaste lives, and to avoid impurity. But lifelong and perfect chastity means besides the sacrifice of something lawful: marriage.
 
@@ -52,11 +52,11 @@
 
 1. When God wished to give a mortal Mother to His Son, God chose the purest of the daughters of Juda, a virgin, Mary. When He wanted a protector for the Blessed Virgin and her future Child, God chose a virgin, Joseph, the most chaste of men. Christ Himself was a virgin, and the Apostle He loved best, the one who leaned on His breast at the Last Supper, and to whom He confided His Mother from the cross, was also a virgin, St. John the Evangelist.
 
-> "O how beautiful is the chaste generation with glory, for the memory of it is immortal: because it is known both with God and with men" (Wis. 4: 1).
+> "O how beautiful is the chaste generation with glory, for the memory of it is immortal: because it is known both with God and with men" (Wis. 4:1).
 
 2. Priests and members of religious communities, both men and women, are bound to celibacy and perfect chastity. Celibacy is the state of being unmarried.
 
-> St. Paul commended the state of celibacy: "I say to the unmarried, and to widows, it is good for them if they so remain, even as I" (1 Cor. 7: 8). He said: "He who gives his virgin in marriage does well, and he who does not give her does better" (1 Cor. 7: 38).
+> St. Paul commended the state of celibacy: "I say to the unmarried, and to widows, it is good for them if they so remain, even as I" (1 Cor. 7:8). He said: "He who gives his virgin in marriage does well, and he who does not give her does better" (1 Cor. 7:38).
 
 3. Even the heathen recognize and honour the virtue of virginal chastity. If the heathen respect those who prefer virginity to the married state, how much more should Christians respect those who, from supernatural motives, choose to live a life of chastity!
 
@@ -67,7 +67,7 @@
 
 — Perfect obedience is the complete subjection of one's will to that of a superior.
 
-1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: "If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19: 21), i.e., "Come and be guided by Me in all things."
+1. Christ counselled perfect obedience. He said to His Apostles: "Follow me." He said to the rich young man: "If thou wilt be perfect, go, sell what thou hast, and give to the poor ... and come, follow me" (Matt. 19:21), i.e., "Come and be guided by Me in all things."
 
 > Christ was perfectly obedient to His heavenly Father. He never sought His own will, but always the will of the Father Who sent Him. He was obedient to His Mother and to St. Joseph.
 

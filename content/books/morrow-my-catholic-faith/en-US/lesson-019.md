@@ -9,7 +9,7 @@
 
 — According to the Bible, the body of the first man was made by God from the slime of the earth.
 
-> "And the Lord God formed man of the slime of the earth" (Gen. 2: 7).
+> "And the Lord God formed man of the slime of the earth" (Gen. 2:7).
 
 1. The natural and obvious meaning of these words from the Book of Genesis is that the body of Adam was made directly by God from created substance. Such is the traditional Catholic interpretation.
 
@@ -28,7 +28,7 @@
 
 2. Scientists originally taught biological evolution by natural selection and looked for proof in a so-called “missing-link”. No missing link was found. All skeletons discovered were proved to be either genuine men or real apes.
 
-> Some evolutionists hold that the monkey or ape and man both developed from a common ancestor. Darwin's first man was a highly-developed ape. "Man when he was in honour did not understand; he hath been compared to senseless beasts, and made like to them" (Ps. 48: 21).
+> Some evolutionists hold that the monkey or ape and man both developed from a common ancestor. Darwin's first man was a highly-developed ape. "Man when he was in honour did not understand; he hath been compared to senseless beasts, and made like to them" (Ps. 48:21).
 
 3. Molecular biology replaced natural selection by the theory of gene mutation as the mechanism of evolution. The discovery of great complexity at the smallest level of life in the simplest living things illustrated a Designing Intelligence. This conclusion is bluntly refused by the scientific community.
 
@@ -45,7 +45,7 @@
 
 1. From the very beginning, God has created every human soul out of nothing.
 
-> Thus He created the soul of Adam, when after forming his body, He "breathed into his face the breath of life, and man became a living soul" (Gen. 2: 7). Every human soul is created at the same moment that one comes to life, at conception.
+> Thus He created the soul of Adam, when after forming his body, He "breathed into his face the breath of life, and man became a living soul" (Gen. 2:7). Every human soul is created at the same moment that one comes to life, at conception.
 
 2. Man's soul is not produced from some other soul or matter. It is spiritual and simple. It did not exist before the person lived. It did not come to exist after he was already alive. Man's life is due to his soul. As soon as the soul leaves the body, life ceases.
 

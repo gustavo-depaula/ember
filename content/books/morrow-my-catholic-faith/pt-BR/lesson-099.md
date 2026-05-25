@@ -9,13 +9,13 @@
 
 — Um juramento é invocar a Deus como testemunha da verdade do que dizemos.
 
-1. Fazer um juramento é chamado jurar. Ao jurar, invocamos either Deus ou algo sagrado. Em juramentos solenes, colocamos a mão sobre a Bíblia, ou a beijamos. Às vezes também beijamos o crucifixo.
+1. Fazer um juramento é chamado jurar. Ao jurar, invocamos ou Deus ou algo sagrado. Em juramentos solenes, colocamos a mão sobre a Bíblia, ou a beijamos. Às vezes também beijamos o crucifixo.
 
 > Se juramos por Deus, tais palavras são usadas como: "Deus é minha testemunha," "Assim Deus me ajude," "Como o Senhor vive," etc. Se juramos por coisas santas, dizemos: "Pelos santos Evangelhos," "pela cruz de Cristo," etc. Tais expressões como "Palavra de honra," "pela minha honra," não são juramentos mas apenas enfatizam afirmações.
 
 2. Um juramento pode ser simples ou solene. Um juramento simples é entre homem e homem no comércio ordinário. Um juramento solene é aquele feito perante autoridade eclesiástica ou civil, na presença de um oficial.
 
-> Um juramento de cargo público é um juramento solene. A fórmula usada termina com: "Assim Deus me ajude." Nosso Senhor jurou solenemente quando Caifás O exortou pelo Deus Vivo a dizer a verdade (Mat. 26: 64).
+> Um juramento de cargo público é um juramento solene. A fórmula usada termina com: "Assim Deus me ajude." Nosso Senhor jurou solenemente quando Caifás O exortou pelo Deus Vivo a dizer a verdade (Mat. 26:64).
 
 3. Não devemos fazer juramento de obediência cega a uma sociedade secreta.
 
@@ -32,7 +32,7 @@
 
 1. Devemos ter uma boa razão para fazer um juramento. — Um juramento devidamente feito é permitido por Deus e agradável à Sua vista. Ninguém, contudo, deve ser compelido a fazer um juramento. Não é necessário jurar a cada provocação, como quando amigos não crêem em nós, ou para enfatizar declarações.
 
-> Tais matérias triviais não devem ser objeto de juramentos. Um número de pessoas tem o mau hábito de levantar a mão num gesto de jurar cada vez que alguém duvida de suas mais leves afirmações. "Jurarás: Como o Senhor vive, em verdade e juízo e justiça" (Jer. 4: 2).
+> Tais matérias triviais não devem ser objeto de juramentos. Um número de pessoas tem o mau hábito de levantar a mão num gesto de jurar cada vez que alguém duvida de suas mais leves afirmações. "Jurarás: Como o Senhor vive, em verdade e juízo e justiça" (Jer. 4:2).
 
 2. Devemos estar convencidos de que o que dizemos sob juramento é verdadeiro. — É errado fazer juramentos sobre o que não sabemos, apenas porque um amigo nos pede para jurá-lo.
 
@@ -47,7 +47,7 @@
 
 — Uma pessoa que deliberadamente invoca a Deus para testemunhar uma mentira comete o pecado muito grave de perjúrio.
 
-1. Perjúrio é falso juramento. Alguém comete perjúrio quando confirma por juramento o que sabe não ser verdadeiro, ou sobre o que está em dúvida, ou quando jura uma promessa que não intende cumprir.
+1. Perjúrio é falso juramento. Alguém comete perjúrio quando confirma por juramento o que sabe não ser verdadeiro, ou sobre o que está em dúvida, ou quando jura uma promessa que não tenciona cumprir.
 
 > Perjúrio é um pecado grave, porque insulta a Deus invocando-O como testemunha de uma mentira. Perjúrio perante um tribunal civil é punível com prisão.
 
@@ -62,7 +62,7 @@
 
 1. Um voto é feito somente a Deus, não a qualquer outra pessoa. O objeto do voto não deve ser uma mera bagatela, mas algo bom em si mesmo, e melhor que seu oposto. Um voto é a mais solene promessa que podemos fazer.
 
-> Um voto feito sob compulsão é inválido. Um voto de fazer algo que ofenderá a Deus não deve ser cumprido. Em geral, devemos consultar nosso confessor antes de fazer um voto. "É melhor não fazer voto, do que após o voto não cumprir as coisas prometidas" (Ecli. 5: 4). Às vezes votos são acompanhados de certas condições. Por exemplo, em 1248, São Luís da França fez voto de liderar uma Cruzada se recuperasse de uma enfermidade severa. Em nossos dias, pessoas fazem voto de ir a peregrinações especificadas, para serem curadas de enfermidade, etc.
+> Um voto feito sob compulsão é inválido. Um voto de fazer algo que ofenderá a Deus não deve ser cumprido. Em geral, devemos consultar nosso confessor antes de fazer um voto. "É melhor não fazer voto, do que após o voto não cumprir as coisas prometidas" (Ecli. 5:4). Às vezes votos são acompanhados de certas condições. Por exemplo, em 1248, São Luís da França fez voto de liderar uma Cruzada se recuperasse de uma enfermidade severa. Em nossos dias, pessoas fazem voto de ir a peregrinações especificadas, para serem curadas de enfermidade, etc.
 
 2. Não devemos confundir votos e juramentos com meras promessas ou resoluções. Estas últimas não obrigam sob pena de pecado.
 

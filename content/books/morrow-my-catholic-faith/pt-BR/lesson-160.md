@@ -17,15 +17,15 @@
 
 > O diácono assiste os padres na Santa Missa, lê ou canta o Evangelho, prega; na Missa Alta incensa o celebrante e o coro, dá o pão do altar, verte vinho no cálice, tira a pala e a põe, recebe o beijo da paz, etc. Hoje, aquele que realiza estas cerimônias é geralmente um padre, embora durante a função divina seja denominado diácono.
 
-3. O sacerdócio é o segundo grau no Sacramento da Ordem. O episcopado, que é o mais alto grau no Sacramento, é a plenitude do sacerdócio. Assim padres podem ser classificados em dois graus: (a) padres e (b) bispos.
+3. O sacerdócio é o segundo grau no Sacramento da Ordem. O episcopado, que é o mais alto grau no Sacramento, é a plenitude do sacerdócio. Assim padres podem ser classificados em dois graus: (a) padres, e (b) bispos.
 
-> (a) Aqueles que pela ordenação ao sacerdócio têm poder de oferecer a Santa Missa, administrar o Batismo solene e Extrema-Unção; mas que precisam de jurisdição para a Penitência e administração do Matrimônio e um indulto para a Crisma, exceto quando, agindo como "ministros extraordinários", administram a Crisma àqueles em perigo de morte por doença grave.
+> (a) Aqueles que pela ordenação ao sacerdócio têm poder de oferecer a Santa Missa, administrar o Batismo solene, e Extrema-Unção; mas que precisam de jurisdição para a Penitência e administração do Matrimônio e um indulto para a Crisma, exceto quando, agindo como "ministros extraordinários", administram a Crisma àqueles em perigo de morte por doença grave.
 
 > (b) Aqueles do episcopado possuindo o poder adicional de administrar a Crisma e a Ordem.
 
-4. As ordenações de um diácono e um padre e a consagração de um bispo são apenas três graus num único sacramento, que confere ordens para cada grau.
+4. As ordenações de um diácono e um padre, e a consagração de um bispo, são apenas três graus num único sacramento, que confere ordens para cada grau.
 
-> Por meio do Sacramento da Ordem, as graças ganhas pelo sacrifício de Cristo devem ser aplicadas aos fiéis de todos os tempos. "Como o Pai Me enviou, também Eu vos envio" — para os mesmos fins: glorificar a Deus e levar os homens à salvação; pelos mesmos meios: através da oração e ensino; nas dificuldades e contra obstáculos e com a promessa de vitória última: "E Eu vos constituo meu reino, assim como Meu Pai Me constituiu, para que comais e bebais à minha mesa em meu reino; e vos assentareis sobre tronos, julgando as doze tribos de Israel" (Lucas 22: 29-30).
+> Por meio do Sacramento da Ordem, as graças ganhas pelo sacrifício de Cristo devem ser aplicadas aos fiéis de todos os tempos. "Como o Pai Me enviou, também Eu vos envio" — para os mesmos fins: glorificar a Deus e levar os homens à salvação; pelos mesmos meios: através da oração e ensino; nas dificuldades e contra obstáculos, e com a promessa de vitória última: "E Eu vos constituo meu reino, assim como Meu Pai Me constituiu, para que comais e bebais à minha mesa em meu reino; e vos assentareis sobre tronos, julgando as doze tribos de Israel" (Lucas 22:29-30).
 
 ![](../images/lesson-160b.webp)
 
@@ -42,4 +42,4 @@
 
 2. Ordens menores são precedidas pela tonsura, uma cerimônia de cortar parte do cabelo, para denotar admissão no santo ministério.
 
-> Pela tonsura, um clérigo é incardinado ou designado à diocese à qual pertencerá upon sua ordenação. Não pode mudar para outra diocese sem o consentimento de seu bispo e o bispo da diocese para a qual deseja transferir-se.
+> Pela tonsura, um clérigo é incardinado ou designado à diocese à qual pertencerá aquando de sua ordenação. Não pode mudar para outra diocese sem o consentimento de seu bispo e o bispo da diocese para a qual deseja transferir-se.

@@ -9,19 +9,19 @@
 
 — When we say that God is the Creator of heaven and earth, we mean that He made all things from nothing by His almighty power.
 
-> "All things were made through him, and without him was made nothing" (John 1: 3) "For in him were created all things" (Col. 1: 16).
+> "All things were made through him, and without him was made nothing" (John 1:3) "For in him were created all things" (Col. 1:16).
 
 1. In the beginning God alone lived. Then out of nothing, by His almighty power, He created heaven and earth, and all things in heaven and on earth. Only God can create; that is, He alone can make something out of nothing. Time began with this creation. Before it there was only eternity.
 
-> "Before the mountains were made, or the earth and the world was formed, from eternity Thou art God" (Ps. 89: 2).
+> "Before the mountains were made, or the earth and the world was formed, from eternity Thou art God" (Ps. 89:2).
 
 2. God created heaven and earth, and everything in heaven and earth. By this is meant everything which is not God. "Heaven" refers to the angels and their abode; and "earth" to all the material universe, including the earth, stars, planets, and all things and beings in them.
 
-> God created everything by an act of his will. "He spoke and they were made; he commanded and they were created" (Ps. 32: 9).
+> God created everything by an act of his will. "He spoke and they were made; he commanded and they were created" (Ps. 32:9).
 
 3. In its first book, Genesis, Holy Scripture tells the story of Creation. In the beginning all the earth was void and empty and darkness was over all things; that is, God created things in a formless state. Then out of this formlessness God brought about order and law, creating heaven and earth.
 
-> "In the beginning, God created heaven and earth. And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters" (Gen. 1: 1-2).
+> "In the beginning, God created heaven and earth. And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters" (Gen. 1:1-2).
 
 
 **In how many days did God create the world?**

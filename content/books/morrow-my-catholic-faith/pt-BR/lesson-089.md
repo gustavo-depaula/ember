@@ -2,14 +2,14 @@
 
 ![](../images/lesson-089.webp)
 
-*1. Dar esmola a um mendigo é uma obra de misericórdia corporal. Deus considera a caridade dada aos pobres como um ato de caridade para consigo Mesmo. Jesus Cristo Mesmo disse isto (Mat. 25: 40). 2. Quando ensinamos catecismo estamos realizando uma obra de misericórdia espiritual. Muitos podem fazer esta obra hoje, se apenas quisessem. Numerosas pessoas, mesmo de idade avançada, não conhecem o essencial de sua religião, por falta de alguém que lhes ensine.*
+*1. Dar esmola a um mendigo é uma obra de misericórdia corporal. Deus considera a caridade dada aos pobres como um ato de caridade para consigo Mesmo. Jesus Cristo Mesmo disse isto (Mat. 25:40). 2. Quando ensinamos catecismo estamos realizando uma obra de misericórdia espiritual. Muitos podem fazer esta obra hoje, se apenas quisessem. Numerosas pessoas, mesmo de idade avançada, não conhecem o essencial de sua religião, por falta de alguém que lhes ensine.*
 
 
 **Que devemos fazer para amar a Deus, ao próximo e a nós mesmos?**
 
 — Para amar a Deus, ao próximo e a nós mesmos, devemos guardar os mandamentos de Deus e da Igreja, e praticar as obras de misericórdia espirituais e corporais.
 
-> Obras de misericórdia espirituais são aquelas que aliviam necessidades espirituais de nosso próximo. Obras de misericórdia corporais são aquelas que aliviam necessidades corporais ou materiais de nosso próximo. "Portanto, todas as coisas que quereis que os homens vos façam, assim também fazei vós a eles" (Mat. 7: 12).
+> Obras de misericórdia espirituais são aquelas que aliviam necessidades espirituais de nosso próximo. Obras de misericórdia corporais são aquelas que aliviam necessidades corporais ou materiais de nosso próximo. "Portanto, todas as coisas que quereis que os homens vos façam, assim também fazei vós a eles" (Mat. 7:12).
 
 
 **Quais são as principais obras de misericórdia corporais?**
@@ -22,7 +22,7 @@
 
 2. Dar de beber aos sedentos.
 
-> Nosso Senhor diz que um copo de água fria dado em Seu nome não ficará sem recompensa (Mar. 9: 40). Dar medicina pertence a esta obra de misericórdia. Aqueles que constroem reservatórios, ou que purificam água potável pública, estão dando de beber aos sedentos.
+> Nosso Senhor diz que um copo de água fria dado em Seu nome não ficará sem recompensa (Mar. 9:40). Dar medicina pertence a esta obra de misericórdia. Aqueles que constroem reservatórios, ou que purificam água potável pública, estão dando de beber aos sedentos.
 
 3. Vestir os nus. — Muitos têm por prática dar roupas aos pobres; outros dons pertencem a este tipo de esmola.
 
@@ -34,7 +34,7 @@
 
 5. Acolher os peregrinos. — Aqueles que fazem esta obra de misericórdia são como o Bom Samaritano. Aqueles que provêem lares limpos e confortáveis para os pobres a baixos aluguéis praticam esta obra de misericórdia.
 
-> São Paulo disse, "Da hospitalidade não vos esqueçais; pois por ela alguns, sem o saberem, hospedaram anjos" (Heb. 13: 2). Em tempos antigos viajantes paravam para a noite ou para alimento nos mosteiros.
+> São Paulo disse, "Da hospitalidade não vos esqueçais; pois por ela alguns, sem o saberem, hospedaram anjos" (Heb. 13:2). Em tempos antigos viajantes paravam para a noite ou para alimento nos mosteiros.
 
 > Nos Alpes, os monges de São Bernardo realizam esta obra de misericórdia quando resgatam, com a ajuda de sua famosa raça de cães, viajantes que sofreram acidentes.
 
@@ -53,11 +53,11 @@
 
 1. Admoestar o pecador. — Sempre que pensamos que nossas palavras podem ter bom efeito, não devemos hesitar em admoestar o errante prudentemente. Aqueles em autoridade, como pais e professores, são obrigados a admoestar aqueles sob sua autoridade de suas faltas, mesmo que fazendo isto tragam problemas sobre si mesmos. Bom exemplo é outra maneira de admoestação.
 
-> Ao admoestar pecadores, devemos fazê-lo com mansidão e caridade. Do contrário poderíamos apenas produzir resultados opostos ao que desejamos. Seria errado, se com um pouco de trabalho pudéssemos salvar um pecador do pecado, não falássemos para salvá-lo; seria, além disso, uma perda de grande graça para nós mesmos. "Aquele que faz um pecador converter-se de seu caminho errado, salvará sua alma da morte, e cobrirá uma multidão de pecados" (Tia. 5: 20).
+> Ao admoestar pecadores, devemos fazê-lo com mansidão e caridade. Do contrário poderíamos apenas produzir resultados opostos ao que desejamos. Seria errado, se com um pouco de trabalho pudéssemos salvar um pecador do pecado, não falássemos para salvá-lo; seria, além disso, uma perda de grande graça para nós mesmos. "Aquele que faz um pecador converter-se de seu caminho errado, salvará sua alma da morte, e cobrirá uma multidão de pecados" (Tia. 5:20).
 
 2. Ensinar o ignorante.
 
-> Missionários, catequistas, confessores, escritores cristãos e professores — todos que ensinam religião ou outro conhecimento útil — estão fazendo uma importante obra de misericórdia, e receberão recompensa. "Os que instruem muitos para a justiça brilharão como estrelas por toda a eternidade" (Dan. 12: 3). Aqueles que coletam dinheiro para missões estrangeiras fazem esta obra de misericórdia.
+> Missionários, catequistas, confessores, escritores cristãos e professores — todos que ensinam religião ou outro conhecimento útil — estão fazendo uma importante obra de misericórdia, e receberão recompensa. "Os que instruem muitos para a justiça brilharão como estrelas por toda a eternidade" (Dan. 12:3). Aqueles que coletam dinheiro para missões estrangeiras fazem esta obra de misericórdia.
 
 3. Aconselhar o duvidoso. — Devemos ser muito zelosos em ajudar aqueles que uma palavra pode salvar ou ajudar. Quão felizes deveríamos ser se a palavra que dizemos ajuda um duvidoso a tornar-se firme em sua fé!
 
@@ -73,7 +73,7 @@
 
 6. Perdoar todas as injúrias.
 
-> Não devemos buscar vingança. "A Mim pertence a vingança, Eu retribuirei, diz o Senhor" (Rom. 12: 19). Devemos perdoar aos outros, como esperamos que Deus nos perdoe. Em vez de buscar vingança, aqueles que desejam imitar os santos saem de seu caminho para fazer favores àqueles que os injuriam. Como Cristo, amam todos os homens.
+> Não devemos buscar vingança. "A Mim pertence a vingança, Eu retribuirei, diz o Senhor" (Rom. 12:19). Devemos perdoar aos outros, como esperamos que Deus nos perdoe. Em vez de buscar vingança, aqueles que desejam imitar os santos saem de seu caminho para fazer favores àqueles que os injuriam. Como Cristo, amam todos os homens.
 
 7. Rogar pelos vivos e pelos mortos.
 

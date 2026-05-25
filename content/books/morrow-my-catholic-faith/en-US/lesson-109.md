@@ -11,11 +11,11 @@
 
 — By the sixth commandment, we are commanded to be pure and modest in our behaviour; by the ninth, in thought and in desire.
 
-> "Do you not know that your members are the temple of the Holy Spirit, who is in you? Glorify God, and bear him in your body" (1 Cor. 6: 19-20). "Beloved, I exhort you as strangers and pilgrims to abstain from carnal desires which war against the soul" (1 Peter 2: 11).
+> "Do you not know that your members are the temple of the Holy Spirit, who is in you? Glorify God, and bear him in your body" (1 Cor. 6:19-20). "Beloved, I exhort you as strangers and pilgrims to abstain from carnal desires which war against the soul" (1 Peter 2:11).
 
 1. The sixth and ninth commandments are studied together because they both deal with commands about purity. The sixth commandment refers to external acts, and the ninth to wilful thoughts and desires.
 
-> "Oh how beautiful is the chaste generation with glory! For the memory thereof is immortal, because it is known both with God and with men" (Wis. 4: 1-2). "The body is not for immorality, but for the Lord, and the Lord for the body" (1 Cor. 6: 13).
+> "Oh how beautiful is the chaste generation with glory! For the memory thereof is immortal, because it is known both with God and with men" (Wis. 4:1-2). "The body is not for immorality, but for the Lord, and the Lord for the body" (1 Cor. 6:13).
 
 2. God has always shown special love for those whose chastity is outstanding. Consider how He chose that purest of all mortals, the Blessed Virgin, as His Mother.
 
@@ -30,7 +30,7 @@
 
 1. This commandment forbids adultery, which is the unfaithfulness of a married person. It is a duty before God and men for married people to be true to each other. Adultery is a great evil which breaks up the harmony of the family, and brings punishments in this life and the next.
 
-> Adultery is a sin not only against chastity, but also against justice; because it is injustice towards the spouse of the married person. In the Old Law, the adulterer was punished with death. "For God will judge the immoral and adulterers" (Heb. 13: 4). Married people should be most careful in avoiding even the appearance of unfaithfulness; when the spirit of jealousy enters, conjugal happiness goes out.
+> Adultery is a sin not only against chastity, but also against justice; because it is injustice towards the spouse of the married person. In the Old Law, the adulterer was punished with death. "For God will judge the immoral and adulterers" (Heb. 13:4). Married people should be most careful in avoiding even the appearance of unfaithfulness; when the spirit of jealousy enters, conjugal happiness goes out.
 
 2. Matrimony is a holy state, through which Almighty God intends the propagation of the race. Actions in accordance with this purpose of matrimony are permitted to the married, but positively forbidden to the unmarried. Fornication is at all times a grave sin.
 

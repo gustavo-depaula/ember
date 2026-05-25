@@ -11,7 +11,7 @@
 
 1. They have unity in doctrine, worship, and government. They have "One Lord, one Faith, one Baptism." There has never been any other society, religion, or government whose members are so closely united.
 
-> "If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3: 24). "Holy Father, keep in thy name those whom thou hast given me, that they may be one even as we are" (John 17: 11).
+> "If a kingdom is divided against itself, that kingdom cannot stand" (Mark 3:24). "Holy Father, keep in thy name those whom thou hast given me, that they may be one even as we are" (John 17:11).
 
 2. There are about 1.2 billion Catholics united in doctrine. This unity is evident and admitted by all. All Catholics everywhere believe each and every article of faith proclaimed by the Church. Wherever a Catholic goes throughout the world, he will find his home in the Catholic Church. There he will find his brethren in Christ all believing as he does. If he deliberately denies even one article of faith of the Church, he ceases to belong to it.
 
@@ -19,7 +19,7 @@
 
 3. All Catholics today hold the same faith that Catholics in the past held.
 
-> The same Gospel of peace that Jesus Christ preached in Judea, the same that St. Peter preached in Antioch and Rome, the same that St. Paul wrote to the Corinthians and the Ephesians, the same that apostles of all nations have been preaching for the last 1900 years, is preached today and taught in the Catholic Church throughout the world, from January to December; "Jesus Christ yesterday, and today, and the same forever" (Heb. 13: 8).
+> The same Gospel of peace that Jesus Christ preached in Judea, the same that St. Peter preached in Antioch and Rome, the same that St. Paul wrote to the Corinthians and the Ephesians, the same that apostles of all nations have been preaching for the last 1900 years, is preached today and taught in the Catholic Church throughout the world, from January to December; "Jesus Christ yesterday, and today, and the same forever" (Heb. 13:8).
 
 4. The Catholic Church is one in worship. All members make use of the same Holy Sacrifice of the Mass, and receive the same sacraments. Although rites vary, the essentials of worship laid down by Christ form the foundation of all. Certain ceremonies have been appointed by the Church, to show more clearly in outward form the spiritual significance of whatever act is being done, and to increase the devotion of those who are present or take part in the religious acts.
 
@@ -34,7 +34,7 @@
 
 — The Catholic Church is holy because it was founded by Jesus Christ, who is all-holy, and because it teaches, according to the will of Christ, holy doctrines, and provides the means of leading a holy life, thereby giving holy members to every age.
 
-> St. Peter called the Christians of his time "a chosen race, a royal priesthood, a holy nation" (1 Pet. 2: 9).
+> St. Peter called the Christians of his time "a chosen race, a royal priesthood, a holy nation" (1 Pet. 2:9).
 
 1. The Founder of the Catholic Church, Jesus Christ, is holy. The Church exhorts its children to imitate its Divine Founder.
 
@@ -42,7 +42,7 @@
 
 2. The Catholic Church teaches the highest and holiest doctrine ever presented to any people, a standard of perfection. The same precepts delivered to Moses on Mount Sinai, the same warnings uttered by the prophets in Judea, the same sublime lessons taught by Our Lord: these the Church teaches from year to year.
 
-> The Church teaches its children to know, love, and serve God, and thus to become saints. It urges on them the truth: "What does it profit a man, if he gain the whole world, but suffer the loss of his own soul?" (Matt. 16: 26). It exhorts them to imitate Christ.
+> The Church teaches its children to know, love, and serve God, and thus to become saints. It urges on them the truth: "What does it profit a man, if he gain the whole world, but suffer the loss of his own soul?" (Matt. 16:26). It exhorts them to imitate Christ.
 
 3. The Catholic Church provides powerful means for holiness, in prayer and the Sacraments. By the Sacraments, a Catholic receives abundant graces. One who is faithful in the reception of the Sacraments will never fail to live a righteous life and die a happy death.
 
@@ -52,7 +52,7 @@
 
 > We must remember that even among the Apostles there was one Judas. Our Lord Himself taught in the parable of the wheat and the cockle that the good and the bad will grow up side by side in His Church.
 
-5. The Catholic Church still has the gift of miracles. Christ promised His Church the gift of miracles, a sign of holiness. "He who believes in me, the works that I do, he also shall do; and greater than these he shall do" (John 14: 12).
+5. The Catholic Church still has the gift of miracles. Christ promised His Church the gift of miracles, a sign of holiness. "He who believes in me, the works that I do, he also shall do; and greater than these he shall do" (John 14:12).
 
 > Each holy soul proposed for canonization must have worked two miracles before beatification, and two more before canonization. We constantly read of miracles at Lourdes and other shrines. The cures at Lourdes are declared genuine by a board of physicians, many of whom are non-Catholic.
 

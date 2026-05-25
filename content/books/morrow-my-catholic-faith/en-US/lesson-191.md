@@ -2,7 +2,7 @@
 
 ![](../images/lesson-191.webp)
 
-*It is not possible for all to go to distant missions to win souls for Christ, but one can always help by prayers and alms. Those who thus assist missionaries in their apostolic labors will be rewarded. Holy Scripture says: "Equal shall be the portion of him that went down to battle and of him that abode at the baggage; and they shall divide alike" (1 Kings 30: 24).*
+*It is not possible for all to go to distant missions to win souls for Christ, but one can always help by prayers and alms. Those who thus assist missionaries in their apostolic labors will be rewarded. Holy Scripture says: "Equal shall be the portion of him that went down to battle and of him that abode at the baggage; and they shall divide alike" (1 Kings 30:24).*
 
 
 **How can we help the missions?**

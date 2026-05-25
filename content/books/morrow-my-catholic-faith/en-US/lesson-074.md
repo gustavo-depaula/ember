@@ -9,9 +9,9 @@
 
 — The Catholic Church is called the Mystical Body of Christ, because its members are united by supernatural bonds with one another and with Christ, their Head, thus resembling the members and head of the living human body.
 
-1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1: 18). Again: "You are the body of Christ, member for member" (1 Cor. 12: 27). "We, the many, are one body in Christ" (Rom. 12: 5).
+1. The term "Mystical Body of Christ" is derived from St. Paul's metaphor: "He is the head of his body, the Church" (Col. 1:18). Again: "You are the body of Christ, member for member" (1 Cor. 12:27). "We, the many, are one body in Christ" (Rom. 12:5).
 
-> Jesus Himself used a similar symbol: "I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither" (John 15: 5-6).
+> Jesus Himself used a similar symbol: "I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither" (John 15:5-6).
 
 2. In the Mystical Body, Christ as Head wills to be helped by His Body. Thus He rules the Church, but does so indirectly, through the hierarchy, human authority.
 

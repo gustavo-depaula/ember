@@ -2,14 +2,14 @@
 
 ![](../images/lesson-017.webp)
 
-*O Livro de Gênesis descreve a criação do primeiro homem e da primeira mulher nestas palavras: "E o Senhor Deus formou o homem do limo da terra, e soprou em seu rosto o sopro da vida; e o homem tornou-se alma vivente. Então o Senhor Deus fez cair um sono profundo sobre Adão: e quando ele estava profundamente adormecido, tomou uma de suas costelas. ... E o Senhor Deus edificou a costela que tomara de Adão em mulher" (Gên. 2: 7, 21, 22). Tal foi a criação de Adão e Eva, nossos primeiros pais. Deus deu-lhes poder sobre todas as coisas criadas: a terra, os animais, as aves, os peixes, as plantas, e todas as outras coisas.*
+*O Livro de Gênesis descreve a criação do primeiro homem e da primeira mulher nestas palavras: "E o Senhor Deus formou o homem do limo da terra, e soprou em seu rosto o sopro da vida; e o homem tornou-se alma vivente. Então o Senhor Deus fez cair um sono profundo sobre Adão: e quando ele estava profundamente adormecido, tomou uma de suas costelas. ... E o Senhor Deus edificou a costela que tomara de Adão em mulher" (Gên. 2:7, 21, 22). Tal foi a criação de Adão e Eva, nossos primeiros pais. Deus deu-lhes poder sobre todas as coisas criadas: a terra, os animais, as aves, os peixes, as plantas, e todas as outras coisas.*
 
 
 **O que é o homem?**
 
 — O homem é uma criatura composta de corpo e alma, e feita à imagem e semelhança de Deus.
 
-> Antes da criação do homem, Deus disse: "Façamos o homem à Nossa imagem e semelhança; e tenha ele domínio sobre os peixes do mar, e as aves do céu, e os animais, e toda a terra, e todo réptil que se move sobre a terra" (Gên. 1: 26).
+> Antes da criação do homem, Deus disse: "Façamos o homem à Nossa imagem e semelhança; e tenha ele domínio sobre os peixes do mar, e as aves do céu, e os animais, e toda a terra, e todo réptil que se move sobre a terra" (Gên. 1:26).
 
 1. Deus formou o corpo do homem do limo da terra; mas Ele soprou a alma no corpo do homem. Desta forma a alma veio diretamente de Deus, e indica semelhança mais próxima com Ele.
 
@@ -19,20 +19,20 @@
 
 > Se um cavalo não comeu por um dia, e você coloca feno diante dele, ele comerá, porque seu instinto o move a fazê-lo. Mas um homem faminto pode jejuar por dias, e ainda recusar comer por mais faminto que esteja, se não quiser comer. A diferença entre o livre-arbítrio do homem e o instinto animal é que o homem pode dizer "Não" a si mesmo.
 
-3. A alma e o corpo não são partes solitamente conectadas do homem; estão unidas numa união substancial. A alma não está localizada em nenhum membro particular do corpo, mas é toda e inteira em cada parte.
+3. A alma e o corpo não são partes frouxamente conectadas do homem; estão unidas numa união substancial. A alma não está localizada em nenhum membro particular do corpo, mas é toda e inteira em cada parte.
 
 
 **Esta semelhança com Deus está no corpo ou na alma?**
 
-— Esta semelhança com Deus está principalmente na alma. O homem continua nesta semelhança com Deus apenas quando permanece na graça de Deus, pois então é "participante da natureza divina" (2 Ped. 1: 4).
+— Esta semelhança com Deus está principalmente na alma. O homem continua nesta semelhança com Deus apenas quando permanece na graça de Deus, pois então é "participante da natureza divina" (2 Ped. 1:4).
 
-1. Como Deus, a alma do homem é um espírito imortal, com entendimento e livre-arbítrio. Alguns negam a existência da alma, porque não pode ser vista; contudo as mesmas pessoas não negariam a existência da razão humana, mesmo que esta também não possa ser vista.
+1. Como Deus, a alma do homem é um espírito imortal, com entendimento e livre-arbítrio. Alguns negam a existência da alma, porque não pode ser vista; contudo, as mesmas pessoas não negariam a existência da razão humana, mesmo que esta também não possa ser vista.
 
 > Alguns afirmam que o homem tem duas almas, uma boa e uma má, lutando pelo domínio. Mas a luta que frequentemente experimentamos vem de apenas uma alma com diferentes tendências surgindo do fato de sermos feitos de corpo e alma, parcialmente material e parcialmente espiritual. Numa pessoa viva, a alma não deve ser considerada à parte do corpo; sua união é tão próxima como a relação entre um músico e seu instrumento na hora de um concerto.
 
 2. Através de suas duas faculdades da alma, entendimento e livre-arbítrio, o homem obtém domínio sobre o mundo material, como Deus possui poder sobre todo o universo.
 
-> Como Deus disse antes de criar o homem: "Tenha ele domínio sobre os animais e toda a terra" (Gên. 1: 26). Através de sua semelhança com Deus, o homem tem o poder de conhecer o verdadeiro, o bom, o belo, até mesmo conhecer a Fonte de toda verdade, bondade e beleza, o Próprio Deus.
+> Como Deus disse antes de criar o homem: "Tenha ele domínio sobre os animais e toda a terra" (Gên. 1:26). Através de sua semelhança com Deus, o homem tem o poder de conhecer o verdadeiro, o bom, o belo, até mesmo conhecer a Fonte de toda verdade, bondade e beleza, o Próprio Deus.
 
 
 **Como podemos provar que a alma do homem é imortal?**
@@ -59,4 +59,4 @@
 
 5. A Sagrada Escritura, a Palavra de Deus, ensina que a alma é imortal.
 
-> "E muitos dos que dormem no pó da terra despertarão: uns para a vida eterna, e outros para o opróbrio, para vê-lo sempre" (Dan. 12: 2). Nosso Senhor mesmo disse ao bom ladrão: "Hoje estarás comigo no Paraíso" (Luc. 23: 43). "E não temais os que matam o corpo mas não podem matar a alma" (Mat. 10: 28). "Ele não é o Deus dos mortos, mas dos vivos" (Mat. 22: 32).
+> "E muitos dos que dormem no pó da terra despertarão: uns para a vida eterna, e outros para o opróbrio, para vê-lo sempre" (Dan. 12:2). Nosso Senhor mesmo disse ao bom ladrão: "Hoje estarás comigo no Paraíso" (Luc. 23:43). "E não temais os que matam o corpo mas não podem matar a alma" (Mat. 10:28). "Ele não é o Deus dos mortos, mas dos vivos" (Mat. 22:32).

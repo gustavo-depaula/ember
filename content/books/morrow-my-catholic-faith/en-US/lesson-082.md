@@ -32,7 +32,7 @@
 
 > The greater the value of what is lost, the greater is the pain of loss. But the sinners in hell have lost God of infinite worth. Their pain of loss must be in proportion.
 
-(b) Instead of God and the angels and saints, the sinners in hell have devils and loathsome criminals for eternal companions. Hell contains nothing good. St. Paul truly says: "It is a fearful thing to fall into the hands of the living God" (Heb. 10: 31).
+(b) Instead of God and the angels and saints, the sinners in hell have devils and loathsome criminals for eternal companions. Hell contains nothing good. St. Paul truly says: "It is a fearful thing to fall into the hands of the living God" (Heb. 10:31).
 
 > There is no love in hell. The damned hate God, hate each other, and hate themselves. St. Chrysostom says: "Insupportable is the fire of hell—who doth not know it?—and its torments are awful; but if one were to heap a thousand hell-fires one on the other it would be as nothing compared with the punishment of being excluded from the blessed glory of heaven, of being hated by Christ, and of being compelled to hear Him say, "I know you not!"
 
@@ -48,7 +48,7 @@
 
 If the punishment of hell were temporary, many sinners might prefer to gratify their passions on earth, no matter at what cost and penalty in hell, if it were to have an end. The fear of hell should urge us to lead a good life. Nothing on earth is worth one moment in hell; and do we choose to suffer it for all eternity.
 
-> Just as the bliss of heaven will last for all eternity, so will the pains of hell, and on and on and on, without end, forever. "And the smoke of their torments goes up for ever and ever; and they rest neither day nor night" (Apoc. 14: 11). Christ Himself said: "And if thy hand or thy foot is an occasion of sin to thee, cut it off and cast it from thee! It is better for thee to enter life maimed or lame, than, having two hands or two feet, to be cast into the everlasting fire" (Matt. 18: 8).
+> Just as the bliss of heaven will last for all eternity, so will the pains of hell, and on and on and on, without end, forever. "And the smoke of their torments goes up for ever and ever; and they rest neither day nor night" (Apoc. 14:11). Christ Himself said: "And if thy hand or thy foot is an occasion of sin to thee, cut it off and cast it from thee! It is better for thee to enter life maimed or lame, than, having two hands or two feet, to be cast into the everlasting fire" (Matt. 18:8).
 
 
 **Why did a good God create such a fearful place as hell?**
@@ -65,6 +65,6 @@ If the punishment of hell were temporary, many sinners might prefer to gratify t
 
 3. We should have no fear of hell if we do our duty. God will not send us to hell, unless we force Him.
 
-> Let us remember that our Judge will be Jesus Christ, Who so loved us that He died on the cross for us. He is more eager to pass a favourable sentence on us than we are to receive it. We should have confidence in Him, as little children. "The Son of Man did not come to destroy men's lives, but to save them" (Luke 9: 56). The Lord "is long-suffering, not wishing that any should perish, but that all should turn to repentance" (2 Peter 3: 9).
+> Let us remember that our Judge will be Jesus Christ, Who so loved us that He died on the cross for us. He is more eager to pass a favourable sentence on us than we are to receive it. We should have confidence in Him, as little children. "The Son of Man did not come to destroy men's lives, but to save them" (Luke 9:56). The Lord "is long-suffering, not wishing that any should perish, but that all should turn to repentance" (2 Peter 3:9).
 
 Let us remember always to plead with God for our souls. We can refuse God, but God can never refuse us: on this account salvation is in our hands.

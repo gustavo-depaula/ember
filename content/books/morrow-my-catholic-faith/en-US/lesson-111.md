@@ -11,7 +11,7 @@
 
 — In the seventh commandment God forbids all dishonesty, such as stealing, cheating, unjust keeping of what belongs to others, unjust damage to the property of others, and the accepting of bribes by public officials.
 
-> "Do not any unjust thing in judgement, in rule, in weight, or in measure. Let the balance be just and the weights equal, the bushel just, and the sextary equal... (Lev. 19: 35-36).
+> "Do not any unjust thing in judgement, in rule, in weight, or in measure. Let the balance be just and the weights equal, the bushel just, and the sextary equal... (Lev. 19:35-36).
 
 1. The seventh and tenth commandments are treated together because both deal with commands about property. The seventh commandment refers to external acts, and the tenth to intentions or desires against honesty.
 
@@ -19,7 +19,7 @@
 
 2. The obligations regarding honesty are imposed on us in conscience, even though the civil laws may not compel us.
 
-> "Take heed and guard yourself from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12: 15). Violations of these commandments are opposed to natural law and justice, and are an attack on society, a menace to public security and peace.
+> "Take heed and guard yourself from all covetousness, for a man's life does not consist in the abundance of his possessions" (Luke 12:15). Violations of these commandments are opposed to natural law and justice, and are an attack on society, a menace to public security and peace.
 
 
 **What are the chief violations of the seventh commandment?**

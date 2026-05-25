@@ -43,7 +43,7 @@
 
 2. Dizer que esta ordem universal é resultado do acaso, ou que os planetas dirigem seus próprios cursos, é tão tolo quanto dizer que um automóvel vai sensatamente pelas ruas da cidade movendo-se a si mesmo.
 
-> "Os céus manifestam a glória de Deus, e o firmamento anuncia a obra de Suas mãos" (Sl. 18: 2). Deus é a Causa Inteligente.
+> "Os céus manifestam a glória de Deus, e o firmamento anuncia a obra de Suas mãos" (Sl. 18:2). Deus é a Causa Inteligente.
 
 3. Há muito tempo o pagão Cícero disse: "Quando contemplamos os céus, chegamos à convicção de que são todos guiados por um Ser de habilidade surpassante."
 
@@ -56,8 +56,8 @@
 
 1. Nossa consciência aprova o certo e condena o errado. Assim dentro de nós mesmos, há um reconhecimento de um Legislador Supremo a quem somos responsáveis, que recompensará o bem que fazemos, e punirá o mal.
 
-> "O insensato diz em seu coração: Não há Deus" (Sl. 13: 1).
+> "O insensato diz em seu coração: Não há Deus" (Sl. 13:1).
 
 2. Aqueles que persistem em negar a existência de Deus apesar do testemunho externo e interno são ateus que são consumidos pelo orgulho, ou vivem vidas viciosas, ou ambos. Deles Nosso Senhor disse:
 
-> "Vendo, não veem e ouvindo, não ouvem, nem entendem... Pois o coração deste povo se endureceu, e com seus ouvidos ouviram pesadamente, e fecharam seus olhos; Para que nunca vejam com seus olhos, e ouçam com seus ouvidos, e entendam com seu coração, e se convertam, e Eu os cure" (Mat. 13: 13-15).
+> "Vendo, não veem e ouvindo, não ouvem, nem entendem... Pois o coração deste povo se endureceu, e com seus ouvidos ouviram pesadamente, e fecharam seus olhos; Para que nunca vejam com seus olhos, e ouçam com seus ouvidos, e entendam com seu coração, e se convertam, e Eu os cure" (Mat. 13:13-15).

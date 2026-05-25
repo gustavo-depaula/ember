@@ -15,7 +15,7 @@
 
 2. O Papa é o juiz supremo; a ele pertence o último apelo em todos os casos.
 
-> O Papa é o "mestre de todos os cristãos", o "chefe pastor dos pastores e seus rebanhos". "Pedro, levantando-se com os Onze, levantou sua voz e falou-lhes . . ." (Atos 2: 14). A palavra "Papa" é derivada do termo latino *papa*, que significa "Pai".
+> O Papa é o "mestre de todos os cristãos", o "chefe pastor dos pastores e seus rebanhos". "Pedro, levantando-se com os Onze, levantou sua voz e falou-lhes . . ." (Atos 2:14). A palavra "Papa" é derivada do termo latino *papa*, que significa "Pai".
 
 3. O Papa é independente de todo soberano temporal e de todo poder espiritual. É responsável apenas a Deus.
 

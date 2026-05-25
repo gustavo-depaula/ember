@@ -53,10 +53,10 @@ A Cúria Romana é a corte papal; é o núcleo do governo da Igreja. O Santo Pad
 
 2. A Sagrada Rota Romana tem a seu cargo questões envolvendo procedimento judicial, fora dos direitos do Santo Ofício e da Congregação dos Ritos Sagrados.
 
-3. A Assinatura Apostólica é a corte suprema da Cúria Romana. Tem a seu cargo todos os apelos, e resolve todos os casos riguardanti à jurisdição de tribunais inferiores.
+3. A Assinatura Apostólica é a corte suprema da Cúria Romana. Tem a seu cargo todos os apelos, e resolve todos os casos concernentes à jurisdição de tribunais inferiores.
 
 
-**Resumai brevemente os deveres dos cinco Ofícios da Cúria Romana.**
+**Resumi brevemente os deveres dos cinco Ofícios da Cúria Romana.**
 
 — Este é um breve resumo:
 

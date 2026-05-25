@@ -11,11 +11,11 @@
 
 1. Nenhuma sociedade pode existir sem o poder de governar seus membros. Nenhum governo é possível sem leis. A menos que a Igreja tivesse o poder e direito de fazer leis, não poderia levar seus membros ao céu.
 
-> Nosso Senhor disse: "Se recusar ouvir também a Igreja, seja para ti como o pagão e o publicano. Em verdade vos digo, tudo que ligardes na terra será ligado também no céu; e tudo que desligardes na terra será desligado também no céu" (Mat. 18: 17-18). Este poder de ligar e desligar é chamado o "poder das chaves."
+> Nosso Senhor disse: "Se recusar ouvir também a Igreja, seja para ti como o pagão e o publicano. Em verdade vos digo, tudo que ligardes na terra será ligado também no céu; e tudo que desligardes na terra será desligado também no céu" (Mat. 18:17-18). Este poder de ligar e desligar é chamado o "poder das chaves."
 
 2. Autoridade para fazer leis inclui poder de fazê-las cumprir. Portanto a Igreja tem o direito de punir membros desobedientes. Isto faz recusando-lhes os sacramentos, excomungando-os, negando-lhes sepultura católica, e outras penalidades.
 
-> "Disse-lhes portanto novamente, 'Paz seja convosco! Como o Pai Me enviou, Eu também vos envio' (João 20: 21).
+> "Disse-lhes portanto novamente, 'Paz seja convosco! Como o Pai Me enviou, Eu também vos envio' (João 20:21).
 
 3. Estamos sob uma obrigação rigorosa de obedecer às leis ou preceitos da Igreja. Desobediência à Igreja é desobediência a Deus Que lhe deu plena autoridade.
 
@@ -36,7 +36,7 @@
 
 3. Um bom católico mostra obediência a Deus conformando-se não apenas à letra, mas ao espírito das leis da Igreja. Obedece estritamente o que a Igreja comanda, louva o que ela louva, condena o que ela condena. A Igreja é nossa Mãe, boa e sábia, que olha apenas para nosso bem-estar temporal e espiritual; mostremos nosso amor por ela pela obediência que prestamos.
 
-> A Igreja é nossa Mãe, dada a nós pelo Próprio Cristo, para guiar-nos até que Ele venha novamente. Se obedecemos a este guia, teremos paz na terra, e felicidade eterna com Deus no céu. A Igreja pode verdadeiramente dizer com nosso Divino Salvador: "Meu jugo é suave, e minha carga leve" (Mat. 11: 30).
+> A Igreja é nossa Mãe, dada a nós pelo Próprio Cristo, para guiar-nos até que Ele venha novamente. Se obedecemos a este guia, teremos paz na terra, e felicidade eterna com Deus no céu. A Igreja pode verdadeiramente dizer com nosso Divino Salvador: "Meu jugo é suave, e minha carga leve" (Mat. 11:30).
 
 4. As leis da Igreja, em geral, não comandam coisas que são por sua natureza obrigatórias. Por exemplo, abstinência para certos dias não é uma lei natural, mas uma lei humana. Portanto, sendo este o caso, a Igreja que fez tais leis humanas pode também dispensar delas, mudá-las, ou aboli-las inteiramente.
 
@@ -64,7 +64,7 @@
 
 — Há muitos outros mandamentos, ou leis, da Igreja além destes seis; mas estes são os principais, e os com os quais a vida ordinária dos católicos se preocupa.
 
-1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas e outras publicações. (b) Membrosia em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
+1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas e outras publicações. (b) Filiação em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
 
 > Leis para o governo da Igreja Católica estão contidas no Código de Direito Canônico, que atualmente contém 2414 cânones. De tempo em tempo, conforme a necessidade surge, o Papa através das diferentes Congregações Romanas emite decretos, leis ou regulamentos para o bem-estar da Igreja. Católicos são obrigados a obedecer estas leis.
 

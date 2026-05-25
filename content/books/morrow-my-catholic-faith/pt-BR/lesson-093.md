@@ -60,7 +60,7 @@
 
 1. Isto é o que chamamos a "intercessão" dos santos. Se somos gratos pela intercessão de um amigo diante de um superior terreno, quanto mais devemos sê-lo pela intercessão dos santos diante de Deus!
 
-> Quantas vezes os santos obtiveram favores de Deus para os homens? E Deus gosta desta intercessão: como Ele disse, teria poupado Sodoma por causa de dez justos (Gên. 18: 32).
+> Quantas vezes os santos obtiveram favores de Deus para os homens? E Deus gosta desta intercessão: como Ele disse, teria poupado Sodoma por causa de dez justos (Gên. 18:32).
 
 2. A experiência provou que muito se ganha invocando certos santos em tempos de necessidade especial. Parece que Deus deu a santos individuais poderes para ajudar-nos em necessidades especiais.
 
@@ -71,7 +71,7 @@
 
 — Sabemos que os santos rezarão por nós, porque estão com Deus e têm grande amor por nós.
 
-1. Os santos no céu são, conosco, membros da Igreja, de um corpo pertencente a Cristo. "Assim nós, os muitos, somos um corpo em Cristo mas individualmente membros uns dos outros" (Rom. 12: 5).
+1. Os santos no céu são, conosco, membros da Igreja, de um corpo pertencente a Cristo. "Assim nós, os muitos, somos um corpo em Cristo mas individualmente membros uns dos outros" (Rom. 12:5).
 
 > Membros do mesmo corpo dão ajuda mútua uns aos outros; os santos ajudam-nos com suas orações diante de Deus. De nossa parte, honramos e imitamo-os.
 

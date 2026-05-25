@@ -22,7 +22,7 @@
 
 > É errado vender seu voto; é vender suas convicções. Pessoas que compram votos não são susceptíveis de usar o cargo que assim podem obter para o bem de qualquer outro senão si mesmos.
 
-2. Cada católico que tem o direito de votar deve exercer aquele direito. Matérias estreitamente conectadas com a vida do povo são o constante objeto de legislação ou debate. Mesmo se seu voto não habilita o bom candidato a vencer, pelo menos diminuirá a margem de sua derrota. Um eleitor católico que dá seu voto a um candidato hostil aos princípios cristãos, ou absten do de votar contribui para o sucesso de tal candidato, tem muito que responder.
+2. Cada católico que tem o direito de votar deve exercer aquele direito. Matérias estreitamente conectadas com a vida do povo são o constante objeto de legislação ou debate. Mesmo se seu voto não habilita o bom candidato a vencer, pelo menos diminuirá a margem de sua derrota. Um eleitor católico que dá seu voto a um candidato hostil aos princípios cristãos, ou abstendo-se de votar contribui para o sucesso de tal candidato, tem muito que responder.
 
 > É dever do eleitor católico votar em candidatos que agirão justamente em questões de moral, e têm os princípios cristãos no coração. Aqueles que não têm o direito de votar devem rezar por um resultado na eleição favorável a homens retos e ao país em geral.
 
@@ -32,7 +32,7 @@
 
 4. Somos obrigados a contribuir para as despesas do governo pagando impostos. É errado enganar o Estado em matéria de tributação.
 
-> É apenas justo que os cidadãos contribuam para a manutenção da paz, ordem, boas obras, o exército, etc. Nosso Senhor Mesmo pagou impostos (Mat. 17: 26). É apenas justo que ajudemos a sustentar o governo que nos assegura proteção.
+> É apenas justo que os cidadãos contribuam para a manutenção da paz, ordem, boas obras, o exército, etc. Nosso Senhor Mesmo pagou impostos (Mat. 17:26). É apenas justo que ajudemos a sustentar o governo que nos assegura proteção.
 
 5. Em caso de guerra justa, os homens devem estar prontos a prestar serviço militar para a defesa de seu país.
 
@@ -45,7 +45,7 @@
 
 1. Deus confiou a manutenção da paz e ordem na sociedade humana às autoridades seculares. É Sua vontade que entre tantos, alguns devam governar e os outros estar sujeitos àquele governo, para lei e ordem.
 
-> "Por Deus os reis reinam e os legisladores decretam coisas justas" (Prov. 8: 15). "Não existe autoridade senão de Deus" (Rom. 13: 1). "Sujeitai-vos seja ao rei como supremo, seja aos governadores como por ele enviados. . . . pois tal é a vontade de Deus" (1 Ped. 2: 13-15).
+> "Por Deus os reis reinam e os legisladores decretam coisas justas" (Prov. 8:15). "Não existe autoridade senão de Deus" (Rom. 13:1). "Sujeitai-vos seja ao rei como supremo, seja aos governadores como por ele enviados. . . . pois tal é a vontade de Deus" (1 Ped. 2:13-15).
 
 2. Nossos governantes civis ou superiores são aqueles que têm a autoridade no governo.
 
@@ -53,13 +53,13 @@ Chamamo-los oficiais civis. A maioria de nossos oficiais obtêm seus cargos pelo
 
 > Nossos oficiais civis são o Presidente, Senadores, Representantes, Juízes da Suprema Corte e outros juízes, governadores, prefeitos, etc. Outros, como xerifes, policiais, etc. são também oficiais civis.
 
-3. Devemos ser leais a nossos oficiais civis, obedecer suas leis justas, e rezar por eles. Somos obrigados a obedecer leis justas, porque toda autoridade legítima vem de Deus (Rom. 13: 1-7). Não somos obrigados a obedecer leis injustas e más. Leis contrárias à lei divina, opostas à lei de Deus, não podem ser justas. Se, portanto, somos comandados a fazer o que Deus proíbe, ou a desistir de fazer o que Ele manda, "devemos obedecer a Deus antes que aos homens" (Atos 5: 29).
+3. Devemos ser leais a nossos oficiais civis, obedecer suas leis justas, e rezar por eles. Somos obrigados a obedecer leis justas, porque toda autoridade legítima vem de Deus (Rom. 13:1-7). Não somos obrigados a obedecer leis injustas e más. Leis contrárias à lei divina, opostas à lei de Deus, não podem ser justas. Se, portanto, somos comandados a fazer o que Deus proíbe, ou a desistir de fazer o que Ele manda, "devemos obedecer a Deus antes que aos homens" (Atos 5:29).
 
-> Devemos rezar por nossos superiores civis, como São Paulo nos exorta: "Exorto portanto, antes de tudo, que súplicas, orações, intercessões e ações de graças sejam feitas por todos os homens; pelos reis, e por todos os que estão em altas posições, para que possamos levar uma vida quieta e pacífica em toda piedade e digno comportamento" (1 Tim. 2: 1-2). Temos uma obrigação séria para com nossos oficiais civis mesmo se não são aqueles por quem votamos. Se Deus permitiu que obtivessem o posto, devemos prestar-lhes apoio.
+> Devemos rezar por nossos superiores civis, como São Paulo nos exorta: "Exorto portanto, antes de tudo, que súplicas, orações, intercessões e ações de graças sejam feitas por todos os homens; pelos reis, e por todos os que estão em altas posições, para que possamos levar uma vida quieta e pacífica em toda piedade e digno comportamento" (1 Tim. 2:1-2). Temos uma obrigação séria para com nossos oficiais civis mesmo se não são aqueles por quem votamos. Se Deus permitiu que obtivessem o posto, devemos prestar-lhes apoio.
 
 4. É pecado conspirar contra nosso governo e país. Traição é um crime contra Deus e nossos semelhantes. Somos obrigados a amar nosso país e defendê-lo contra todos seus inimigos, dentro e fora.
 
-> "Portanto aquele que resiste à autoridade resiste à ordenação de Deus; e os que resistem trazem sobre si mesmos condenação" (Rom. 13: 2).
+> "Portanto aquele que resiste à autoridade resiste à ordenação de Deus; e os que resistem trazem sobre si mesmos condenação" (Rom. 13:2).
 
 
 **Por que somos obrigados a tomar parte ativa em obras de boa cidadania?**

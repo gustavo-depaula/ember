@@ -2,7 +2,7 @@
 
 ![](../images/lesson-041.webp)
 
-*Faith is the foundation of all virtue, for by it God makes Himself known to men. As St. Paul says, "Now faith is the substance of things to be hoped for, the evidence of things that are not seen. . . . And without faith it is impossible to please God." (Heb. 11: 1, 6). It is this supernatural faith that the Canaanite woman proved, when she persevered in begging Jesus to cure her daughter. Having tested her, He said, "O woman, great is thy faith. Let it be done to thee as thou wilt" (Matt. 15: 28).*
+*Faith is the foundation of all virtue, for by it God makes Himself known to men. As St. Paul says, "Now faith is the substance of things to be hoped for, the evidence of things that are not seen. . . . And without faith it is impossible to please God." (Heb. 11:1, 6). It is this supernatural faith that the Canaanite woman proved, when she persevered in begging Jesus to cure her daughter. Having tested her, He said, "O woman, great is thy faith. Let it be done to thee as thou wilt" (Matt. 15:28).*
 
 
 **What are the chief supernatural powers that are bestowed on our souls with sanctifying grace?**
@@ -55,11 +55,11 @@ These virtues render us capable of being good and doing good for the love and se
 
 3. It is grace that helps us to attain faith and to persevere in it, to take God's word for whatever He has revealed.
 
-> Faith is supernatural because we cannot by ourselves acquire it. It is a gift of God. It is, however, increased by prayer and continual exercise; the apostles prayed to the Lord, "Increase our faith" (Luke 17: 5).
+> Faith is supernatural because we cannot by ourselves acquire it. It is a gift of God. It is, however, increased by prayer and continual exercise; the apostles prayed to the Lord, "Increase our faith" (Luke 17:5).
 
 4. Without faith, it is impossible to be saved.
 
-> We must not cease praying for an increase of faith, for it is necessary for salvation. "He that believeth not shall be condemned" (Matt. 16: 16). "Without faith, it is impossible to please God" (Heb. 11: 6).
+> We must not cease praying for an increase of faith, for it is necessary for salvation. "He that believeth not shall be condemned" (Matt. 16:16). "Without faith, it is impossible to please God" (Heb. 11:6).
 
 5. Our faith must be firm and complete; that is, both certain and all-encompassing.
 
@@ -72,7 +72,7 @@ These virtues render us capable of being good and doing good for the love and se
 
 1. God promised to give man eternal life, and the means to obtain it. In this promise is our hope.
 
-> "He that putteth his trust in me shall inherit the land, and shall possess my holy mount" (Is. 57: 13).
+> "He that putteth his trust in me shall inherit the land, and shall possess my holy mount" (Is. 57:13).
 
 2. Hope is necessary for salvation. Our hope must be firmly founded in God, Who promised to give us the means for salvation.
 

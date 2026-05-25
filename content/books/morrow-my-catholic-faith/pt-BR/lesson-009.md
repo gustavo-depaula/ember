@@ -11,11 +11,11 @@
 
 1. A própria Bíblia declara que não contém tudo o que Deus revelou.
 
-> "Há, porém, muitas outras coisas que Jesus fez; mas se cada uma delas fosse escrita, nem mesmo o mundo, penso eu, poderia conter os livros que teriam de ser escritos" (João 21: 25).
+> "Há, porém, muitas outras coisas que Jesus fez; mas se cada uma delas fosse escrita, nem mesmo o mundo, penso eu, poderia conter os livros que teriam de ser escritos" (João 21:25).
 
 2. As verdades da Revelação Divina que não foram escritas na Sagrada Escritura chegaram até nós pela Tradição da Igreja.
 
-> São Paulo ordenou aos Tessalonicenses: "Conservai os ensinamentos que aprendestes, seja por palavra, seja por carta nossa" (2 Tess. 2: 15).
+> São Paulo ordenou aos Tessalonicenses: "Conservai os ensinamentos que aprendestes, seja por palavra, seja por carta nossa" (2 Tess. 2:15).
 
 
 **O que se entende por Divina Tradição?**
@@ -24,7 +24,7 @@
 
 1. Em sentido amplo, a Tradição abrange todo o ensino da Igreja, incluindo a Bíblia, já que é apenas da Igreja que temos a Bíblia. Em sentido mais estrito, a Tradição inclui apenas o que foi transmitido oralmente pelos Apóstolos.
 
-> Os próprios Apóstolos dizem que há muito que entregaram aos fiéis de boca em boca (2 João 12; 1 Cor. 11: 2). Entre muitos exemplos de verdades na Tradição, não claramente manifestadas na Sagrada Escritura, estão: o número exato de sacramentos, o tempo de instituição de alguns sacramentos, os livros que compõem a Bíblia, o Batismo de crianças, e a observância do Domingo.
+> Os próprios Apóstolos dizem que há muito que entregaram aos fiéis de boca em boca (2 João 12; 1 Cor. 11:2). Entre muitos exemplos de verdades na Tradição, não claramente manifestadas na Sagrada Escritura, estão: o número exato de sacramentos, o tempo de instituição de alguns sacramentos, os livros que compõem a Bíblia, o Batismo de crianças, e a observância do Domingo.
 
 2. Todas as verdades da Divina Tradição agora encontraram seu caminho para os livros. Desde os primeiros séculos cristãos as práticas e doutrinas da Tradição foram preservadas por mestres santos que chamamos de Padres da Igreja. Eram discípulos dos Apóstolos, contemporâneos daqueles discípulos, ou discípulos dos discípulos. Estes homens santos e eruditos instruíram a Igreja nos anos de seu primeiro crescimento.
 

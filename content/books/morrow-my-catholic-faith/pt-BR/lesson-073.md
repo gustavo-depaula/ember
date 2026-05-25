@@ -25,7 +25,7 @@
 
 4. Hereges e cismáticos compartilharam o mesmo destino. Ário estourou durante uma procissão triunfal. Voltaire morreu em desespero. Os Cismáticos Gregos caíram sob o jugo Turco em 1453, em Pentecostes, a festa daquele Espírito Santo sobre o qual haviam expressado dúvidas.
 
-> Verdadeiramente a história mostrou a verdade das palavras da Sagrada Escritura: "É coisa terrível cair nas mãos do Deus vivo" (Heb. 10: 31).
+> Verdadeiramente a história mostrou a verdade das palavras da Sagrada Escritura: "É coisa terrível cair nas mãos do Deus vivo" (Heb. 10:31).
 
 
 **Por que nenhuma outra igreja exceto a Igreja Católica pode ser a Verdadeira Igreja de Cristo?**
@@ -61,11 +61,11 @@
 
 Não é de admirar que procurando alívio, o homem frequentemente, contudo inconscientemente, busca motivos para não aceitar a Igreja que ordena a seus membros obedecer tais preceitos, aceitar tais doutrinas.
 
-> Quando Nosso Senhor primeiro anunciou a instituição da Santa Eucaristia, muitos dos discípulos disseram: "Duro é este discurso. Quem pode ouvi-lo?" (João 6: 62) E não mais iam com Jesus.
+> Quando Nosso Senhor primeiro anunciou a instituição da Santa Eucaristia, muitos dos discípulos disseram: "Duro é este discurso. Quem pode ouvi-lo?" (João 6:62) E não mais iam com Jesus.
 
 2. Católicos devem acima de tudo tentar dar bom exemplo; nada é mais eficaz aos olhos de não-Católicos que as vidas exemplares levadas por bons Católicos.
 
-> "Portai-vos honradamente entre os pagãos; para que, enquanto vos difamam como malfeitores, possam através de observar-vos por razão de vossas boas obras glorificar a Deus no dia da visitação" (1 Pedro 2: 12). Católicos devem frequentemente rezar pela conversão daqueles fora da Igreja, rezando com o Bom Pastor por apenas um Redil.
+> "Portai-vos honradamente entre os pagãos; para que, enquanto vos difamam como malfeitores, possam através de observar-vos por razão de vossas boas obras glorificar a Deus no dia da visitação" (1 Pedro 2:12). Católicos devem frequentemente rezar pela conversão daqueles fora da Igreja, rezando com o Bom Pastor por apenas um Redil.
 
 3. Embora evitando discussões inúteis que geralmente terminam em amargas disputas, Católicos devem tentar mostrar a beleza, a verdade da Igreja Católica.
 

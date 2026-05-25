@@ -19,12 +19,12 @@
 
 3. Devemos realizar as obras requeridas pela Igreja; devemos cumprir exatamente as condições particulares requeridas para a indulgência.
 
-> Devemos dizer a oração ou fazer a boa obra ordenada na concessão de indulgência. Quando orações vocais são prescritas como condição, as palavras devem ser pronunciadas com os lábios e não meramente lidas ou ditas mentalmente.
+> Devemos dizer a oração ou fazer a boa obra ordenada na concessão de indulgência. Quando orações vocais são prescritas como condição, as palavras devem ser pronunciadas com os lábios, e não meramente lidas ou ditas mentalmente.
 
 
 **Quais são as "condições usuais" requeridas para uma indulgência plenária?**
 
-— As "condições usuais" requeridas para uma indulgência plenária são: confissão e Santa Comunhão e orar pelas intenções do Papa.
+— As "condições usuais" requeridas para uma indulgência plenária são: confissão e Santa Comunhão, e orar pelas intenções do Papa.
 
 1. Estas "condições usuais" são requeridas além das obras prescritas para a indulgência particular.
 
@@ -49,7 +49,7 @@
 
 — Indulgências podem ser anexadas a crucifixos, medalhas, terços, estátuas e tais objetos, desde que não sejam feitos de material muito frágil.
 
-1. O objeto deve ser abençoado pelo Papa ou por algum padre possuindo os poderes. A indulgência é perdida se o objeto é mais da metade destruído ou se é vendido, mas não se o objeto é emprestado ou dado.
+1. O objeto deve ser abençoado pelo Papa ou por algum padre possuindo os poderes. A indulgência é perdida se o objeto é mais da metade destruído, ou se é vendido, mas não se o objeto é emprestado ou dado.
 
 > Todos os membros de uma família podem usar o mesmo terço ou crucifixo, ganhando indulgências anexadas.
 

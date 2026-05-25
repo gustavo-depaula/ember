@@ -13,15 +13,15 @@
 
 1. The sacrament of Baptism was instituted by Christ at His own Baptism, and commanded at His Ascension.
 
-> He said to the Apostles: "Going therefore make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Ghost" (Matt. 28: 19). The Apostles obeyed His command on the very day of Pentecost. In answer to the question of the multitudes, "What shall we do?" after Peter's first sermon, Peter said, "Repent, and be baptised every one of you in the name of Jesus Christ, for the forgiveness of your sins" (Acts 2: 58). About 3000 persons were baptised.
+> He said to the Apostles: "Going therefore make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Ghost" (Matt. 28:19). The Apostles obeyed His command on the very day of Pentecost. In answer to the question of the multitudes, "What shall we do?" after Peter's first sermon, Peter said, "Repent, and be baptised every one of you in the name of Jesus Christ, for the forgiveness of your sins" (Acts 2:58). About 3000 persons were baptised.
 
 2. The matter and form of the sacrament consist in the ablution with water together with the pronouncing of the words: "I baptise thee in the name of the Father, and of the Son, and of the Holy Ghost"
 
 > Baptism may be validly administered in any of three ways: Immersion is plunging the candidate into the water. Infusion is pouring the water. Aspersion is sprinkling the water.
 
-3. The sacrament of Baptism confers grace. We know this from the fact that Christ made it the sacrament of renewal of spirit; "Unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3: 5).
+3. The sacrament of Baptism confers grace. We know this from the fact that Christ made it the sacrament of renewal of spirit; "Unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3:5).
 
-> St. Peter said: "Be baptised every one of you in the name of Jesus Christ for the forgiveness of your sins: and you will receive the gift of the Holy Spirit" (Acts 2: 38).
+> St. Peter said: "Be baptised every one of you in the name of Jesus Christ for the forgiveness of your sins: and you will receive the gift of the Holy Spirit" (Acts 2:38).
 
 
 **What are the effects of Baptism?**
@@ -30,7 +30,7 @@
 
 1. Baptism is the only sacrament that can remit original sin. It cleanses us from all sin, original and actual, and remits all punishment due.
 
-> If an adult receives baptism with the proper dispositions, that is, with faith and contrition, his actual sins are taken away with original sin, as well as all temporal punishment due to his actual sins. Thus if an adult dies immediately after baptism, he goes straight to heaven, whatever the sins he may have committed. "He who believes and is baptised shall be saved" (Mark 16: 16).
+> If an adult receives baptism with the proper dispositions, that is, with faith and contrition, his actual sins are taken away with original sin, as well as all temporal punishment due to his actual sins. Thus if an adult dies immediately after baptism, he goes straight to heaven, whatever the sins he may have committed. "He who believes and is baptised shall be saved" (Mark 16:16).
 
 2. When Baptism takes away original sin, it gives our souls the new life of sanctifying grace. Thus by Baptism we are born again.
 
@@ -42,7 +42,7 @@
 
 4. Baptism imprints an indelible sign or character on the soul.
 
-> This character marks us as Christians, and cannot be removed by anything, even mortal sin. This character prevents the sacrament from being repeated; we can be baptised only once. "For all you who have been baptised into Christ have put on Christ" (Gal. 3: 27).
+> This character marks us as Christians, and cannot be removed by anything, even mortal sin. This character prevents the sacrament from being repeated; we can be baptised only once. "For all you who have been baptised into Christ have put on Christ" (Gal. 3:27).
 
 
 **Why is Baptism necessary for the salvation of all men?**
@@ -57,11 +57,11 @@
 
 (a) An unbaptised person receives the baptism of blood when he suffers martyrdom for the faith of Christ.
 
-> One who lays down his life for Christ or some Christian virtue is said to have received baptism of blood. Our Lord promised; "He who loses his life for My sake will find it" (Matt. 10: 39). Thus the Holy Innocents whom Herod slew out of hatred for the Infant Jesus received the baptism of blood.
+> One who lays down his life for Christ or some Christian virtue is said to have received baptism of blood. Our Lord promised; "He who loses his life for My sake will find it" (Matt. 10:39). Thus the Holy Innocents whom Herod slew out of hatred for the Infant Jesus received the baptism of blood.
 
 (b) An unbaptized person receives the baptism of desire when he loves God above all things, and desires to do all that is necessary for his salvation.
 
-> One who loves God above all things, is sorry for his sins, and ardently longs for Baptism when it is impossible to receive it; or, one who not knowing the necessity of Baptism, sincerely wishes to do all required for salvation, is said to have received baptism of desire. Our Lord promised that whoever loves Him will be loved by the Father (John 14: 21). Therefore only those who have attained the use of reason can profit from the baptism of desire.
+> One who loves God above all things, is sorry for his sins, and ardently longs for Baptism when it is impossible to receive it; or, one who not knowing the necessity of Baptism, sincerely wishes to do all required for salvation, is said to have received baptism of desire. Our Lord promised that whoever loves Him will be loved by the Father (John 14:21). Therefore only those who have attained the use of reason can profit from the baptism of desire.
 
 2. Children should be baptised as soon as possible after birth, if possible, within a week. This practice dates from the Apostles.
 

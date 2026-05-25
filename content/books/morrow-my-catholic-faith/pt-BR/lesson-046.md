@@ -2,7 +2,7 @@
 
 ![](../images/lesson-046.webp)
 
-*E abrindo Sua boca, ensinava-os, dizendo: "Bem-aventurados os pobres de espírito, porque deles é o reino dos céus. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que choram, porque serão consolados. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os pacificadores, porque serão chamados filhos de Deus. Bem-aventurados os que padecem perseguição por causa da justiça, porque deles é o reino dos céus" (Mat. 5: 1-10). Estas são as bem-aventuranças; são assim chamadas, porque nos trazem felicidade na terra bem como no céu.*
+*E abrindo Sua boca, ensinava-os, dizendo: "Bem-aventurados os pobres de espírito, porque deles é o reino dos céus. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que choram, porque serão consolados. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os pacificadores, porque serão chamados filhos de Deus. Bem-aventurados os que padecem perseguição por causa da justiça, porque deles é o reino dos céus" (Mat. 5:1-10). Estas são as bem-aventuranças; são assim chamadas, porque nos trazem felicidade na terra bem como no céu.*
 
 
 **Quais são as oito bem-aventuranças?**
@@ -19,7 +19,7 @@ a. Os pobres de espírito são aqueles que, por maiores que sejam suas riquezas,
 
 b. Em geral, os pobres neste mundo de bens são também pobres de espírito. São salvos das tentações nas quais os ricos caem. Esta é uma razão para buscar a pobreza voluntariamente, segundo o conselho de Cristo.
 
-> Nosso Senhor frequentemente enfatizou a dificuldade da salvação quando alguém é rico: "Mas ai de vós, ricos! porque já tendes vossa consolação" (Luc. 6: 24). "Se queres ser perfeito, vai, vende o que tens e dá-o aos pobres, . . . e vem, segue-Me" (Mat. 19: 21). "Dificilmente um rico entrará no reino dos céus" (Mat. 19: 23).
+> Nosso Senhor frequentemente enfatizou a dificuldade da salvação quando alguém é rico: "Mas ai de vós, ricos! porque já tendes vossa consolação" (Luc. 6:24). "Se queres ser perfeito, vai, vende o que tens e dá-o aos pobres, . . . e vem, segue-Me" (Mat. 19:21). "Dificilmente um rico entrará no reino dos céus" (Mat. 19:23).
 
 c. Espera-se, contudo, que sejamos industriosos. O pauperismo que é resultado da preguiça não é uma virtude. A mendicância que pode ser evitada não é benéfica nem para o indivíduo nem para a sociedade em geral. Cada um é obrigado a prover para si e para aqueles que dependem dele.
 
@@ -31,11 +31,11 @@ a. Os mansos são aqueles que suportam pacientemente todas as contradições da 
 
 b. Aqueles são também mansos que, embora de disposição naturalmente ardente, dominam sua ira, impaciência ou desejos de vingança.
 
-> O homem manso não se ira nem amaldiçoa nem busca vingança. Perdoa seus inimigos, e até os ganha com palavras gentis. Imita Cristo, Que disse: "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11: 29).
+> O homem manso não se ira nem amaldiçoa nem busca vingança. Perdoa seus inimigos, e até os ganha com palavras gentis. Imita Cristo, Que disse: "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11:29).
 
 3. "Bem-aventurados os que choram, porque serão consolados." Aqui a referência é à tristeza espiritual, pesar pelo pecado, pecados próprios ou pecados de outros. Inclui uma saudade em meio às tristezas da vida pelas alegrias e paz do céu.
 
-> Chorar pelo pecado não é tristeza, pois não é incompatível com a alegria espiritual. Aqueles que são mais penitentes sentem mais alegria após sua libertação do pecado. Mas aos pecadores que não choram, estas palavras de Nosso Senhor devem trazer temor salutar: "Ai de vós que agora rides, porque chorareis e lamentareis" (Luc. 6: 25).
+> Chorar pelo pecado não é tristeza, pois não é incompatível com a alegria espiritual. Aqueles que são mais penitentes sentem mais alegria após sua libertação do pecado. Mas aos pecadores que não choram, estas palavras de Nosso Senhor devem trazer temor salutar: "Ai de vós que agora rides, porque chorareis e lamentareis" (Luc. 6:25).
 
 4. "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados." Isto se refere àqueles que ardentemente desejam as coisas de Deus, verdade e virtude perfeita, bem como àqueles que procuram tornar-se melhores, mais humildes e puros, mais estreitamente unidos a Deus.
 
@@ -43,7 +43,7 @@ b. Aqueles são também mansos que, embora de disposição naturalmente ardente,
 
 5. "Bem-aventurados os misericordiosos, porque alcançarão misericórdia." Os misericordiosos são aqueles que praticam as obras de misericórdia, corporais e espirituais, que ajudam outros não por motivos humanos ou naturais simplesmente, mas por motivos sobrenaturais, da fé, do amor de Deus.
 
-> A tais pessoas, Cristo no dia do juízo dirá: "Vinde, benditos de Meu Pai, possuí o reino preparado para vós desde a fundação do mundo; pois tive fome e me destes de comer; tive sede e me destes de beber; era peregrino e me recolhestes . . ." (Mat. 25: 34-35).
+> A tais pessoas, Cristo no dia do juízo dirá: "Vinde, benditos de Meu Pai, possuí o reino preparado para vós desde a fundação do mundo; pois tive fome e me destes de comer; tive sede e me destes de beber; era peregrino e me recolhestes . . ." (Mat. 25:34-35).
 
 6. "Bem-aventurados os puros de coração, porque verão a Deus." Apenas aqueles que não estão em pecado habitual são limpos de coração, e possuem virtude. Serão recompensados com a visão de Deus no céu; e mesmo na terra pela grande luz que lhes é dada.
 

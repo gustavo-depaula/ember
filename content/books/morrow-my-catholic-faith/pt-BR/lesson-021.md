@@ -15,7 +15,7 @@
 
 2. Não existe pessoa que não peque, por mais santa que seja. O único ser humano que foi criado sem pecado, e nunca cometeu pecado, foi a Santíssima Virgem; este foi um privilégio especial concedido a ela porque seria a Mãe de nosso Salvador.
 
-> São João diz: "Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós" (1 João 1: 8).
+> São João diz: "Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós" (1 João 1:8).
 
 
 **De que modo caímos no pecado?**
@@ -81,7 +81,7 @@
 
 2. Quem tenta ou provoca outro ao pecado é talvez o mais culpado dos dois.
 
-> Nosso Senhor diz: "Mas quem escandalizar um destes pequeninos que creem em Mim, melhor lhe fora que se lhe pendurasse ao pescoço uma pedra de moinho, e fosse lançado nas profundezas do mar" (Mat. 18: 6).
+> Nosso Senhor diz: "Mas quem escandalizar um destes pequeninos que creem em Mim, melhor lhe fora que se lhe pendurasse ao pescoço uma pedra de moinho, e fosse lançado nas profundezas do mar" (Mat. 18:6).
 
 
 **Quantos tipos de pecado atual há?**
@@ -94,4 +94,4 @@
 
 2. Os pecados são também classificados em (a) nossos próprios pecados; e (b) pecados nos quais cooperamos e pelos quais somos responsáveis.
 
-> Não devemos ser presunçosos e confiantes em excesso. Devemos lembrar que quando não pecamos, é apenas pela graça de Deus. "Aquele que pensa estar de pé, cuide para não cair" (1 Cor. 10: 12). Uma humilde desconfiança de nós mesmos é um preservativo contra o pecado.
+> Não devemos ser presunçosos e confiantes em excesso. Devemos lembrar que quando não pecamos, é apenas pela graça de Deus. "Aquele que pensa estar de pé, cuide para não cair" (1 Cor. 10:12). Uma humilde desconfiança de nós mesmos é um preservativo contra o pecado.

@@ -30,7 +30,7 @@
 
 2. Grace is given to all men, although not in equal amounts. Some receive more, some less. Some ordinary graces are granted to all men; certain extraordinary graces are granted to chosen ones.
 
-> God is free to bestow His gifts as He likes. The Blessed Virgin received more than other mortals. Christians receive more than pagans. Those in the state of grace are likely to receive more than those in the state of mortal sin. In a way, our graces depend also on our dispositions. If we are faithful in corresponding with what we get, we receive more abundantly. Often our carelessness and indifference turn away God's graces from us. We reject Him who only wishes to make us saints, whose "delight is to be with the children of men" (Prov. 8: 31).
+> God is free to bestow His gifts as He likes. The Blessed Virgin received more than other mortals. Christians receive more than pagans. Those in the state of grace are likely to receive more than those in the state of mortal sin. In a way, our graces depend also on our dispositions. If we are faithful in corresponding with what we get, we receive more abundantly. Often our carelessness and indifference turn away God's graces from us. We reject Him who only wishes to make us saints, whose "delight is to be with the children of men" (Prov. 8:31).
 
 
 **What are the principal ways of obtaining grace?**
@@ -54,7 +54,7 @@
 
 1. Grace does not force us. It leaves us free to choose between good and evil. The Holy Ghost guides and enlightens, but we can still close our eyes to His grace. If we cooperate, we gain other graces.
 
-> As Christ said, "For to him who has shall be given, and he shall have abundance" (Matt. 13: 12). He who persists in rejecting the gift of God's grace and refuses to be converted will die in his sin and will be forever excluded from the sight of God. "From him who does not have, even that which he seems to have shall be taken away. But as for the unprofitable servant, cast him forth into the darkness outside, where there will be the weeping, and the gnashing of teeth" (Matt. 25: 29-30). Would it not be an insult to a king if he keeps offering gifts to one of his people, and these gifts are despised?
+> As Christ said, "For to him who has shall be given, and he shall have abundance" (Matt. 13:12). He who persists in rejecting the gift of God's grace and refuses to be converted will die in his sin and will be forever excluded from the sight of God. "From him who does not have, even that which he seems to have shall be taken away. But as for the unprofitable servant, cast him forth into the darkness outside, where there will be the weeping, and the gnashing of teeth" (Matt. 25:29-30). Would it not be an insult to a king if he keeps offering gifts to one of his people, and these gifts are despised?
 
 2. We should be on the lookout for the graces of God, ready to accept them as soon as they are offered. The action of the Holy Ghost on the individual soul is not continuous in particular graces; we must be ready when He comes with special gifts.
 

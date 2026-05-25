@@ -9,7 +9,7 @@
 
 — Yes, there is only one God.
 
-> "I am the first, and I am the last, and besides me there is no God" (Is. 44: 6). There can be only one God, because only one can be supreme, all-powerful, and independent of all.
+> "I am the first, and I am the last, and besides me there is no God" (Is. 44:6). There can be only one God, because only one can be supreme, all-powerful, and independent of all.
 
 
 **How many Persons are there in God?**
@@ -35,11 +35,11 @@ We speak of three "Persons" in God because to each belongs something we cannot a
 
 1. This is the simplest way by which the distinct origin of each Divine Person has been explained: God is a spirit, and the first act of a Spirit is to know and understand. God, knowing Himself from all eternity, brings forth the knowledge of Himself, His own image. This was not a mere thought, as our knowledge of ourselves would be, but a Living Person, of the same substance and one with the Father. This is God the Son. Thus the Father "begets" the Son, the Divine Word, the Wisdom of the Father.
 
-> "In the beginning was the Word, and the Word was with God; and the Word was God" (John 1: 1).
+> "In the beginning was the Word, and the Word was with God; and the Word was God" (John 1:1).
 
 2. God the Father, seeing His own Image in the Son, loves the Son; and God the Son loves the Father from all eternity. Each loves the other, because each sees in the other the Infinity of the Godhead, the beauty of Divinity, the Supreme Truth of God. The two Persons loving each other do not just have a thought, as human beings would have, but from Their mutual love is breathed forth, as it were, a Living Person, one with Them, and of Their own substance. This is God The Holy Ghost. Thus the Holy Ghost, the Spirit of Love, "proceeds" from the Father and the Son.
 
-> "But when the Advocate has come, whom I will send you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness concerning me" (John 15: 26)
+> "But when the Advocate has come, whom I will send you from the Father, the Spirit of truth who proceeds from the Father, he will bear witness concerning me" (John 15:26)
 
 3. But we are not to suppose that once God the Father begot the Son and now no longer does so, nor that once the love of the Father and the Son for each other breathed forth the Holy Ghost, but now no longer does. These truths are eternal.
 
@@ -47,7 +47,7 @@ We speak of three "Persons" in God because to each belongs something we cannot a
 
 4. In this imperfect way, we vaguely see that God must necessarily be three Divine Persons, because only in that way can God with His Divine Knowledge and Will be complete in Himself.
 
-> Our Lord Jesus Christ spoke to us of the Blessed Trinity when, before the Ascension, He said to His Apostles: "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28: 19)
+> Our Lord Jesus Christ spoke to us of the Blessed Trinity when, before the Ascension, He said to His Apostles: "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28:19)
 
 
 **What do we mean by the Blessed Trinity?**
@@ -56,12 +56,12 @@ We speak of three "Persons" in God because to each belongs something we cannot a
 
 1. The Father is God and the First Person of the Blessed Trinity. Omnipotence, and especially the work of creation, is attributed to God the Father.
 
-> God the Father could have created millions of beings instead of you yourself; but He chose you out of a love wholly undeserved, saying, "I have loved thee with an everlasting love" (Jer. 31: 3). Let us then cry in thanksgiving, "Abba, Father!" (Rom. 8: 15). Let us show our gratitude by avoiding all that could displease God the Father, by trying to please Him with virtue, by trying for greater perfection, in obedience to that injunction of Our Lord's: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5: 48)
+> God the Father could have created millions of beings instead of you yourself; but He chose you out of a love wholly undeserved, saying, "I have loved thee with an everlasting love" (Jer. 31:3). Let us then cry in thanksgiving, "Abba, Father!" (Rom. 8:15). Let us show our gratitude by avoiding all that could displease God the Father, by trying to please Him with virtue, by trying for greater perfection, in obedience to that injunction of Our Lord's: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5:48)
 
 2. The Son is God and the Second Person of the Blessed Trinity. To God the Son, we owe our redemption from sin and eternal death; by His death He gave us life.
 
-> For us God the Son debased Himself, taking the form of a servant, ... "becoming obedient to death, even to death on a cross" (Phil. 2: 8). In Holy Communion, we are united with Him, for He Himself said; "He who eats my flesh, and drinks my blood, abides in me and I in him" (John 6: 57). In return we should be "other Christs," and, as the Apostle urged, "walk even as He walked."
+> For us God the Son debased Himself, taking the form of a servant, ... "becoming obedient to death, even to death on a cross" (Phil. 2:8). In Holy Communion, we are united with Him, for He Himself said; "He who eats my flesh, and drinks my blood, abides in me and I in him" (John 6:57). In return we should be "other Christs," and, as the Apostle urged, "walk even as He walked."
 
 3. The Holy Ghost is God and the Third Person of the Blessed Trinity. He manifests Himself in us particularly in our sanctification. The word "Ghost" applied to the Third Person means "Spirit."
 
-> At our Baptism God the Holy Ghost purifies us from all sin and fills our souls with divine grace, so that we become truly children of God, sons and heirs, and co-heirs with Jesus Christ. By Baptism we become living temples of the Holy Ghost: "Or do you not know that your members are the temple of the Holy Spirit, who is in you?" (1 Cor. 6: 19). In return for such benefits, we should make our body the instrument for the glory of God, keeping it from all stain of sin, adorning it with virtues. "Glorify God and bear him in your body" (1 Cor. 6: 20). Let us keep our souls a sanctuary for the Holy Spirit, that God may be happy to dwell in us.
+> At our Baptism God the Holy Ghost purifies us from all sin and fills our souls with divine grace, so that we become truly children of God, sons and heirs, and co-heirs with Jesus Christ. By Baptism we become living temples of the Holy Ghost: "Or do you not know that your members are the temple of the Holy Spirit, who is in you?" (1 Cor. 6:19). In return for such benefits, we should make our body the instrument for the glory of God, keeping it from all stain of sin, adorning it with virtues. "Glorify God and bear him in your body" (1 Cor. 6:20). Let us keep our souls a sanctuary for the Holy Spirit, that God may be happy to dwell in us.

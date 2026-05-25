@@ -11,7 +11,7 @@ Confiteor
 
 ## O Início da Missa
 
-> Quando o padre entra no santuário, o povo fica de pé, out of respect for the representative of Christ. Então ajoelham-se para o início da Missa.
+> Quando o padre entra no santuário, o povo fica de pé, por respeito ao representante de Cristo. Então ajoelham-se para o início da Missa.
 
 O padre põe o cálice coberto no centro do altar, tendo primeiro espalhado o corporal. Abre o Missal. Então vai ao pé do altar e começa a Missa fazendo o sinal da cruz,
 
@@ -86,7 +86,7 @@ O Ofertório
 
 ## O Evangelho
 
-O Evangelho é tirado de um dos quatro Evangelistas. Durante a leitura, o povo fica de pé, out of reverence for the word of God. O padre começa a leitura fazendo o sinal da cruz na testa, lábios e peito.
+O Evangelho é tirado de um dos quatro Evangelistas. Durante a leitura, o povo fica de pé, por reverência à palavra de Deus. O padre começa a leitura fazendo o sinal da cruz na testa, lábios e peito.
 
 > O povo faz o mesmo, para mostrar que crê no Evangelho, sempre o professará e sempre o amará. Na Missa Alta o Diácono canta o Evangelho.
 

@@ -11,7 +11,7 @@
 
 — No sétimo mandamento Deus proíbe toda desonestidade, como roubar, enganar, reter injustamente o que pertence a outros, dano injusto à propriedade de outros, e aceitação de subornos por oficiais públicos.
 
-> "Não façais coisa injusta no juízo, na regra, no peso ou na medida. A balança seja justa e os pesos iguais, o alqueire justo e o sextário igual. . . ." (Lev. 19: 35-36).
+> "Não façais coisa injusta no juízo, na regra, no peso ou na medida. A balança seja justa e os pesos iguais, o alqueire justo e o sextário igual. . . ." (Lev. 19:35-36).
 
 1. O sétimo e décimo mandamentos são tratados juntos porque ambos tratam de mandamentos sobre propriedade. O sétimo mandamento refere-se a atos externos, e o décimo a intenções ou desejos contra honestidade.
 
@@ -19,7 +19,7 @@
 
 2. As obrigações referentes à honestidade são impostas a nós em consciência, mesmo que as leis civis não nos possam compelir.
 
-> "Tende cuidado e guardai-vos de toda avareza, pois a vida do homem não consiste na abundância de seus bens" (Luc. 12: 15). Violações destes mandamentos são opostas à lei natural e justiça, e são um ataque à sociedade, uma ameaça à segurança e paz públicas.
+> "Tende cuidado e guardai-vos de toda avareza, pois a vida do homem não consiste na abundância de seus bens" (Luc. 12:15). Violações destes mandamentos são opostas à lei natural e justiça, e são um ataque à sociedade, uma ameaça à segurança e paz públicas.
 
 
 **Quais são as principais violações do sétimo mandamento?**

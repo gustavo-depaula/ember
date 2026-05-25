@@ -11,11 +11,11 @@
 
 1. No society can exist without the power to govern its members. No government is possible without laws. Unless the Church had the power and right to make laws, it could not lead its members to heaven.
 
-> Our Lord said: "If he refuse to hear even the Church, let him be to thee as the heathen and the publican. Amen I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 17-18). This power to bind and loose is called the "power of the keys."
+> Our Lord said: "If he refuse to hear even the Church, let him be to thee as the heathen and the publican. Amen I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18:17-18). This power to bind and loose is called the "power of the keys."
 
 2. Authority to make laws includes power to enforce them. Hence the Church has the right to punish disobedient members. This it does by refusing them the sacraments, excommunicating them, denying them Catholic burial, and other penalties.
 
-> "He therefore said to them again, 'Peace be to you! As the Father has sent me, I also send you' (John 20: 21).
+> "He therefore said to them again, 'Peace be to you! As the Father has sent me, I also send you' (John 20:21).
 
 3. We are under a rigorous obligation to obey the laws or precepts of the Church. Disobedience to the Church is disobedience to God Who gave it full authority.
 
@@ -36,7 +36,7 @@
 
 3. A good Catholic shows obedience to God by conforming himself not only to the letter, but to the spirit of the laws of the Church. He obeys strictly what the Church commands, praises what it praises, condemns what it condemns. The Church is our Mother, good and wise, who looks only to our temporal and spiritual welfare; let us show our love for her by the obedience we render.
 
-> The Church is our Mother, given us by Christ Himself, to guide us until He comes again. If we obey this guide, we shall have peace on earth, and eternal happiness with God in heaven. The Church can truly say with our Divine Saviour: "My yoke is easy, and my burden light" (Matt. 11: 30).
+> The Church is our Mother, given us by Christ Himself, to guide us until He comes again. If we obey this guide, we shall have peace on earth, and eternal happiness with God in heaven. The Church can truly say with our Divine Saviour: "My yoke is easy, and my burden light" (Matt. 11:30).
 
 4. The laws of the Church, in general, do not command things which are of their nature obligatory. For example, abstinence for certain days is not a natural law, but a human law. Therefore, this being the case, the Church that made such human laws can also dispense from them, change them, or abolish them altogether.
 

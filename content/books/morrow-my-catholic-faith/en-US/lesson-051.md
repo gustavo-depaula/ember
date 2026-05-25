@@ -54,7 +54,7 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 1. God the Father and God the Son sent the Holy Ghost to dwell in the Church. The indwelling of the Holy Ghost enables the Church to teach, to sanctify, and to rule the faithful in the name of Christ.
 
-> The Holy Ghost came down upon the Apostles to enlighten, strengthen, and sanctify them, so that they could preach the Gospel and spread the Church all over the world. On the Feast of Pentecost, in remembrance of God the Holy Ghost, we celebrate a mystery which is forever renewed in the Church and in our souls: the mystery of the indwelling of God, the reign of the law of love which succeeded the law of bondage and fear (Rom. 8: 15).
+> The Holy Ghost came down upon the Apostles to enlighten, strengthen, and sanctify them, so that they could preach the Gospel and spread the Church all over the world. On the Feast of Pentecost, in remembrance of God the Holy Ghost, we celebrate a mystery which is forever renewed in the Church and in our souls: the mystery of the indwelling of God, the reign of the law of love which succeeded the law of bondage and fear (Rom. 8:15).
 
 2. The Holy Ghost guides the rulers of the Church, especially the Pope, and helps them in their duties.
 
@@ -73,9 +73,9 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 — No for truth and error are not the same; faith and unbelief are not the same.
 
-1. God is not divided. He revealed only one religion. We either believe that religion, or do not believe it. There is no middle way. "He who is not with me is against me" (Matt. 12: 30)
+1. God is not divided. He revealed only one religion. We either believe that religion, or do not believe it. There is no middle way. "He who is not with me is against me" (Matt. 12:30)
 
-> Anything that is not the whole truth is not truth. Christ said: "I am the way, and the truth and the life. No man comes to the Father but through me" (John 14: 6). No one will assert that glass is as good as diamonds, nor that brass is as good as gold. No one claims that an imitation is just as good as the authentic thing. More unreasonable then would it be to claim that a religion established by a man is as good as that founded by the Incarnate God.
+> Anything that is not the whole truth is not truth. Christ said: "I am the way, and the truth and the life. No man comes to the Father but through me" (John 14:6). No one will assert that glass is as good as diamonds, nor that brass is as good as gold. No one claims that an imitation is just as good as the authentic thing. More unreasonable then would it be to claim that a religion established by a man is as good as that founded by the Incarnate God.
 
 2. From the very beginning of mankind, there has been one true religion. From Adam to the coming of Christ, this religion was preserved by the patriarchs, prophets, and others chosen by God to keep the knowledge of the promised Redeemer intact.
 
@@ -83,7 +83,7 @@ There are thousands of different Protestant bodies existing in the world. In the
 
 3. It is absurd to suppose that God does not care whether men denounce His Son as an impostor and blasphemer, or worship Him as God.
 
-> Why should Christ, and after Him the Apostles, and after them a long line of believers, have suffered so much and resisted persecution so firmly, if it were of no importance what a man believed? The Apostle said, "There is no other name under heaven given to men, whereby we must be saved" (Acts 4: 12)
+> Why should Christ, and after Him the Apostles, and after them a long line of believers, have suffered so much and resisted persecution so firmly, if it were of no importance what a man believed? The Apostle said, "There is no other name under heaven given to men, whereby we must be saved" (Acts 4:12)
 
 
 **How can we prove that the only true Church of Christ is the Catholic Church?**

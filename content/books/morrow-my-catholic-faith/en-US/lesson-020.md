@@ -2,7 +2,7 @@
 
 ![](../images/lesson-020.webp)
 
-*God punished Adam and Eve for the sin they committed. "And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken" (Gen. 3: 23). All the calamities in the world today, war, disease, poverty, etc., are consequences of Adam's sin. We inherited all the weaknesses that were part of his punishment.*
+*God punished Adam and Eve for the sin they committed. "And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken" (Gen. 3:23). All the calamities in the world today, war, disease, poverty, etc., are consequences of Adam's sin. We inherited all the weaknesses that were part of his punishment.*
 
 
 **What happened to Adam and Eve on account of their sin?**
@@ -15,11 +15,11 @@
 
 2. They lost their special gifts: they became subject to suffering and death.
 
-> Their minds and wills were so weakened that they became inclined to evil, subjected to temptation. "In the sweat of thy face shalt thou eat bread till thou return to the earth, out of which thou wast taken: for dust thou art, and unto dust thou shalt return" (Gen. 3: 16 - 19).
+> Their minds and wills were so weakened that they became inclined to evil, subjected to temptation. "In the sweat of thy face shalt thou eat bread till thou return to the earth, out of which thou wast taken: for dust thou art, and unto dust thou shalt return" (Gen. 3:16 - 19).
 
 3. God expelled Adam and Eve from the Garden of Paradise.
 
-> "And the Lord God sent him out of the paradise of pleasure" (Gen. 3: 23, 24).
+> "And the Lord God sent him out of the paradise of pleasure" (Gen. 3:23, 24).
 
 4. Some wonder how the eating of one fruit could have been so grievous a crime. We must remember that God gave Adam and Eve every blessing. He only required them, as proof of their faithfulness, to abstain from eating the fruit of one tree.
 
@@ -30,7 +30,7 @@
 
 — On account of the sin of Adam, we, his descendants, come into the world deprived of sanctifying grace and inherit his punishment, as we would have inherited his gifts had he been obedient to God.
 
-> "Therefore as through one man sin entered into the world and through sin death, and thus death has passed into all men" (Rom. 5: 12).
+> "Therefore as through one man sin entered into the world and through sin death, and thus death has passed into all men" (Rom. 5:12).
 
 1. This sin in us is called original sin. It is the state in which every descendant of Adam comes into the world, totally deprived of grace, through inheriting the punishment, not of Adam's personal sin, but of his sin as head of the human race. This sin is called original because it comes down to us through our origin, from Adam.
 
@@ -47,11 +47,11 @@
 
 1. By original sin, we became subject to disease and death. This was part of the punishment God laid on Adam.
 
-> "In what day soever you shall eat of it, you shall die the death" (Gen. 2: 17).
+> "In what day soever you shall eat of it, you shall die the death" (Gen. 2:17).
 
 2. Our whole nature became inclined to evil. Our reason is in perpetual conflict with our passions.
 
-> Even after our souls are cleansed of original sin by baptism, the corruption of our nature and other punishments, such as sickness, evil inclinations, etc., remain. "The imagination and thought of man's heart are prone to evil" (Gen. 8: 21). "The flesh lusts against the spirit, and the spirit against the flesh" (Gal. 5: 17)
+> Even after our souls are cleansed of original sin by baptism, the corruption of our nature and other punishments, such as sickness, evil inclinations, etc., remain. "The imagination and thought of man's heart are prone to evil" (Gen. 8:21). "The flesh lusts against the spirit, and the spirit against the flesh" (Gal. 5:17)
 
 
 **Is God unjust in punishing us on account of the sin of Adam?**
@@ -71,7 +71,7 @@
 
 —The Blessed Virgin Mary was preserved from original sin in view of the merits of her Divine Son, and this privilege is called her Immaculate Conception.
 
-> "And when the angel had come to her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women'" (Luke 1: 28).
+> "And when the angel had come to her, he said, 'Hail, full of grace, the Lord is with thee. Blessed art thou among women'" (Luke 1:28).
 
 1. From the very first moment of her conception, the Blessed Virgin was preserved from all stain of original sin. She was conceived and born without original sin.
 

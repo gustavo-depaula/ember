@@ -11,11 +11,11 @@
 
 1. Isto deve ser feito cerca de um mês antes do casamento projetado, para permitir tempo para a publicação das proclamações. Com a mão sobre os Evangelhos, a parte contratante jura que a verdade está sendo dita; então responde às perguntas feitas pelo pastor.
 
-> As principais perguntas concernem disposições para a recepção do sacramento: o Batismo, Primeira Comunhão e Crisma da parte contratante e impedimentos. Se houver quaisquer impedimentos, uma dispensa, se possível, deve ser arranjada. Se houver impedimento dirimente ao qual não pode ser dada uma dispensa, o casamento não pode ocorrer.
+> As principais perguntas concernem disposições para a recepção do sacramento: o Batismo, Primeira Comunhão e Crisma da parte contratante, e impedimentos. Se houver quaisquer impedimentos, uma dispensa, se possível, deve ser arranjada. Se houver impedimento dirimente ao qual não pode ser dada uma dispensa, o casamento não pode ocorrer.
 
 2. O exame canônico certifica-se de que as partes contratantes sabem o que estão fazendo e o fazem de sua própria livre vontade. Deste modo, a Igreja mostra sua solicitude por seus membros; cada possível precaução é tomada para que todos possam entrar no estado do matrimônio plenamente preparados e salvaguardados.
 
-> Após o exame canônico a licença de casamento deve ser obtida e outros requisitos do Estado cumpridos, como exames de sangue, etc.
+> Após o exame canônico, a licença de casamento deve ser obtida e outros requisitos do Estado cumpridos, como exames de sangue, etc.
 
 
 **Quais são as "proclamações de matrimônio"?**

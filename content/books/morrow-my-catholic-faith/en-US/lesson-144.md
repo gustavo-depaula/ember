@@ -2,7 +2,7 @@
 
 ![](../images/lesson-144.webp)
 
-*The picture shows Our Lord instituting the sacrament of Penance on the first Easter Sunday night. He breathed on the Apostles and said: "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 23). Our Lord had previously promised Peter the right to forgive sins, saying: "And I will give thee the keys of the kingdom of heaven; and whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).*
+*The picture shows Our Lord instituting the sacrament of Penance on the first Easter Sunday night. He breathed on the Apostles and said: "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20:23). Our Lord had previously promised Peter the right to forgive sins, saying: "And I will give thee the keys of the kingdom of heaven; and whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16:19).*
 
 
 **What is the sacrament of Penance?**
@@ -17,11 +17,11 @@ i.
 
 e. the words of absolution with the act of confession.
 
-> Our Lord promised to give Peter the power to forgive sins, saying to him, "And whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19). Christ later made the same promise to the other Apostles, saying, "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 18).
+> Our Lord promised to give Peter the power to forgive sins, saying to him, "And whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16:19). Christ later made the same promise to the other Apostles, saying, "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18:18).
 
 (b) It was instituted by Jesus Christ on the first Easter Sunday night.
 
-> On the first Easter Sunday night, Our Lord fulfilled His promise to give His Apostles the power to forgive sins. Jesus appeared to His Apostles and said: "Peace be to you. As the Father has sent me, I also send you." When He had said this, He breathed upon them and said to them: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20: 21-23).
+> On the first Easter Sunday night, Our Lord fulfilled His promise to give His Apostles the power to forgive sins. Jesus appeared to His Apostles and said: "Peace be to you. As the Father has sent me, I also send you." When He had said this, He breathed upon them and said to them: "Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained" (John 20:21-23).
 
 (c) It confers grace. It is the way by which after Baptism sanctifying grace is restored to the penitent who has committed mortal sin. It increases this grace in the penitent who already possesses it. It also gives actual graces.
 
@@ -40,7 +40,7 @@ e. the words of absolution with the act of confession.
 
 — We must receive the sacrament of Penance, because our Lord Jesus Christ commanded it, when He said to the Apostles and to their successors in the priesthood: "Whose sins you shall forgive, they are forgiven them; and whose sins you shall retain, they are retained."
 
-> "Is any one among you sick? Let him bring in the presbyters of the Church, and let them pray over him . . . and if he be in sins, they shall be forgiven him" (Jas. 5: 14, 15).
+> "Is any one among you sick? Let him bring in the presbyters of the Church, and let them pray over him . . . and if he be in sins, they shall be forgiven him" (Jas. 5:14, 15).
 
 1. The power to forgive sins was not given to the Apostles alone, but also to their successors, the bishops and priests of the Church, until the end of time.
 
@@ -54,11 +54,11 @@ e. the words of absolution with the act of confession.
 
 > What would you think of a person who met with an accident at New Year and is near death if he says: "No, do not call the doctor. I shall go to him at Easter?"
 
-4. The practice of confessing to a priest has been continuous in the Church from the time of the Apostles. We read in Holy Scripture that in the time of the Apostles, the Christian converts came to them, and openly confessed their practices (Acts 19: 18).
+4. The practice of confessing to a priest has been continuous in the Church from the time of the Apostles. We read in Holy Scripture that in the time of the Apostles, the Christian converts came to them, and openly confessed their practices (Acts 19:18).
 
 > In the writings of the Fathers and Doctors of the Church, in the very first centuries of the Christian era, the faithful are often advised and exhorted to confess their sins. St. Augustine says, "It is not enough that one acknowledge his sins to God, from whom nothing is hidden; he must also confess them to a priest, God's representative."
 
-St. John said in encouragement: "My dear children, these things I write to you in order that you may not sin. But if anyone sins, we have an advocate with the Father, Jesus Christ the just" (1 John 2: 1).
+St. John said in encouragement: "My dear children, these things I write to you in order that you may not sin. But if anyone sins, we have an advocate with the Father, Jesus Christ the just" (1 John 2:1).
 
 
 **Can all priests administer the sacrament of Penance?**

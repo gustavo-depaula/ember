@@ -11,13 +11,13 @@
 
 — São os sacramentos administrados a uma pessoa perigosamente doente e incluem Confissão, Viático e Extrema-Unção.
 
-1. A pessoa doente primeiro faz sua confissão, então recebe a Santa Eucaristia no Viático e finalmente é dada a Extrema-Unção.
+1. A pessoa doente primeiro faz sua confissão, então recebe a Santa Eucaristia no Viático, e finalmente é dada a Extrema-Unção.
 
 > Extrema-Unção é um remédio; e como a medicina é para os vivos, não os mortos, assim aqueles mortos em pecado não lucrarão deste remédio espiritual. Contudo, se o paciente é fisicamente incapaz de confessar, a Igreja aceita a intenção e administra Extrema-Unção sem confissão.
 
 2. Quando uma pessoa está perigosamente doente, devemos chamar o padre para administrar-lhe os Últimos Sacramentos. É muito errado adiar chamar o padre até que a pessoa já esteja no ponto de morte. Enquanto sua mente está clara, pode preparar-se para os Últimos Sacramentos melhor, lucrar mais deles.
 
-> Quando Extrema-Unção é dada enquanto a pessoa ainda está forte, há mais probabilidade de recuperar-se. Temos uma obrigação séria, se estamos cuidando de uma pessoa doente, de chamar o padre no momento em que há perigo de morte. Exceto em casos de emergência, o pároco da paróquia à qual a pessoa doente pertence ou os curas ou assistentes do pároco devem ser chamados para administrar os Últimos Sacramentos.
+> Quando Extrema-Unção é dada enquanto a pessoa ainda está forte, há mais probabilidade de recuperar-se. Temos uma obrigação séria, se estamos cuidando de uma pessoa doente, de chamar o padre no momento em que há perigo de morte. Exceto em casos de emergência, o pároco da paróquia à qual a pessoa doente pertence, ou os curas ou assistentes do pároco, devem ser chamados para administrar os Últimos Sacramentos.
 
 3. Algumas pessoas não chamam o padre para administrar os Últimos Sacramentos porque temem que o paciente fique assustado e piore.
 
@@ -25,18 +25,18 @@
 
 4. É aconselhável chamar o padre para visitar os doentes em qualquer doença séria, mesmo que não haja aparente perigo de morte. É dever do padre visitar os doentes e administrar os sacramentos de que precisam.
 
-> "Meu filho, em tua doença não te negligencies, mas ora ao Senhor e Ele te curará" (Eclo. 38: 9).
+> "Meu filho, em tua doença não te negligencies, mas ora ao Senhor e Ele te curará" (Eclo. 38:9).
 
 5. Podemos ajudar uma pessoa doente cuidando e consolando-a. Cada dia devemos fazer com ela e por ela atos de fé, esperança e caridade. Acima de tudo, devemos ajudá-la a sentir absoluta resignação à vontade de Deus.
 
-> É um erro tentar ajudar uma pessoa perigosamente doente conversando sobre tópicos mundanos ou contando fofocas ou oferecendo falsas esperanças de recuperação.
+> É um erro tentar ajudar uma pessoa perigosamente doente conversando sobre tópicos mundanos ou contando fofocas, ou oferecendo falsas esperanças de recuperação.
 
 
 **Como devemos ajudar uma pessoa doente a preparar-se para os Últimos Sacramentos?**
 
 — Devemos ajudar uma pessoa doente a preparar-se para os Últimos Sacramentos tanto espiritual quanto corporalmente.
 
-1. Antes do padre chegar devemos ajudar o paciente a preparar-se para sua Confissão. Digamos com ele atos de contrição e ejaculações para mantê-lo unido a Deus.
+1. Antes do padre chegar, devemos ajudar o paciente a preparar-se para sua Confissão. Digamos com ele atos de contrição e ejaculações para mantê-lo unido a Deus.
 
 2. O rosto, mãos e pés do paciente devem ser esponjados com uma toalha molhada.
 
@@ -77,7 +77,7 @@ O seguinte é um diagrama mostrando a disposição:
 
 1. Devemos ajoelhar-nos perto da cama do paciente e recitar as orações pelos moribundos, que podem ser encontradas na maioria dos livros de oração. Devemos sugerir-lhe curtas ejaculações que possa facilmente repetir, pelo menos em sua mente. Devemos recitar com ele especialmente aquelas orações que são enriquecidas com indulgências plenárias para a hora da morte.
 
-> A bênção papal com indulgência plenária anexada é ganha dizendo o santo Nome de Jesus. Se incapaz de dizê-lo, a pessoa deve pelo menos pensá-lo e com contrição beijar um crucifixo abençoado.
+> A bênção papal com indulgência plenária anexada é ganha dizendo o santo Nome de Jesus. Se incapaz de dizê-lo, a pessoa deve pelo menos pensá-lo, e com contrição beijar um crucifixo abençoado.
 
 2. A seguinte oração é enriquecida com uma indulgência plenária na hora da morte: "Ó meu Deus, eu agora neste momento pronta e voluntariamente aceito de Tua mão qualquer tipo de morte que desejares enviar-me, com todas as suas dores, penalidades, tristezas."
 
@@ -85,7 +85,7 @@ Uma pessoa em boa saúde que recita esta oração no estado de graça, após con
 
 > Se refletirmos que uma indulgência plenária ganha com próprias disposições significa que a alma irá direto do leito de morte ao Céu, seríamos mais zelosos em ajudar os moribundos a ganhar uma.
 
-3. Durante a agonia, devemos aspergir a cama e a pessoa moribunda com água benta. Aqueles ao redor devem orar, em vez de agitar-se ou mostrar demasiado excesso de pesar.
+3. Durante a agonia, devemos aspergir a cama e a pessoa moribunda com água benta. Aqueles ao redor devem orar, em vez de agitar-se ou mostrar pesar demasiado.
 
 > A primeira coisa que podemos oferecer imediatamente a Deus em alívio da alma de um ente querido é um ato de resignação à Sua santa vontade. Digamos humildemente, "Senhor, seja feita Tua vontade!" Naqueles lugares onde o belo costume é praticado, o "sino de passagem" deve ser mandado tocar, para que outros cristãos possam orar pela alma partida.
 

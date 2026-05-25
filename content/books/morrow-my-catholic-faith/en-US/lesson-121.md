@@ -2,7 +2,7 @@
 
 ![](../images/lesson-121.webp)
 
-*The Sacrament of Penance was instituted by Our Lord. The Apostles administered it. Thus in their time, as the Scriptures say, the Christian converts came to them, "confessing and declaring their deeds." (1) Thus they came to St. Paul in Ephesus (Acts 19: 18). (2) The first Christians received the Body of Our Lord daily. It is the wish of the Church that if we cannot imitate them, we should at least receive Holy Communion as frequently as possible at least every time we hear Mass, on Sundays and holydays of obligation. We should not need to go to Confession for each Communion.*
+*The Sacrament of Penance was instituted by Our Lord. The Apostles administered it. Thus in their time, as the Scriptures say, the Christian converts came to them, "confessing and declaring their deeds." (1) Thus they came to St. Paul in Ephesus (Acts 19:18). (2) The first Christians received the Body of Our Lord daily. It is the wish of the Church that if we cannot imitate them, we should at least receive Holy Communion as frequently as possible at least every time we hear Mass, on Sundays and holydays of obligation. We should not need to go to Confession for each Communion.*
 
 "TO CONFESS OUR SINS AT LEAST ONCE A YEAR" "TO RECEIVE HOLY COMMUNION DURING THE EASTER TIME."
 
@@ -28,7 +28,7 @@ Those who have reached the age of reason, generally at the seventh year, are bou
 
 1. The graces that we receive from confession are given abundantly if we receive the sacrament frequently. Our soul is like a house undergoing cleaning at confession; the more often the house is swept and scrubbed, the cleaner it is bound to be.
 
-> The devil, expelled from the soul at confession, tries to return again and again; but there will be no danger of his breaking in if the soul is barred and protected by the graces of confession, a strong defence against evil. "Confess, therefore, your sins to one another" (James 5: 16).
+> The devil, expelled from the soul at confession, tries to return again and again; but there will be no danger of his breaking in if the soul is barred and protected by the graces of confession, a strong defence against evil. "Confess, therefore, your sins to one another" (James 5:16).
 
 2. Confession not only serves to cleanse us from past offences, but helps to strengthen us against sin, and increases us in virtue. It is a potent medicine that not only gives thorough cleaning, but also injects powerful nourishment.
 
@@ -51,7 +51,7 @@ Those who have reached the age of reason, generally at the seventh year, are bou
 
 3. The Church prescribes annual communion in order that we may comply with the divine command to receive the Blessed Eucharist, and that the life of grace may be preserved in our souls.
 
-> Christ Himself commanded: "Except you eat the Flesh of the Son of Man and drink His Blood, you shall not have life in you" (John 6: 54). Holy Communion is the food of our souls. Let us not starve our souls by denying them this heavenly food.
+> Christ Himself commanded: "Except you eat the Flesh of the Son of Man and drink His Blood, you shall not have life in you" (John 6:54). Holy Communion is the food of our souls. Let us not starve our souls by denying them this heavenly food.
 
 When we are sick, we are eager enough to rush here, there, and everywhere, seeking remedies. But Holy Communion is a supernatural remedy for sick souls; and how many are there who seek it?
 
@@ -68,4 +68,4 @@ When we are sick, we are eager enough to rush here, there, and everywhere, seeki
 
 2. As Christ died and rose again in the Easter time, it is fitting that Christians should at this time die to sin by the Sacrament of Penance, and rise to the life of grace through the Sacrament of the Holy Eucharist, which is a pledge of the future resurrection.
 
-> "As Christ has arisen from the dead, ... so we also may walk in newness of life" (Rom. 6: 4). (Note. Full explanations of the Sacraments of Penance and Holy Eucharist are to be found on pages 294 to 317, inclusive. They explain the manner of going to Confession and receiving Holy Communion.)
+> "As Christ has arisen from the dead, ... so we also may walk in newness of life" (Rom. 6:4). (Note. Full explanations of the Sacraments of Penance and Holy Eucharist are to be found on pages 294 to 317, inclusive. They explain the manner of going to Confession and receiving Holy Communion.)

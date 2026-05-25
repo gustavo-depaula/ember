@@ -48,7 +48,7 @@ A maioria das casas também monta uma árvore de Natal decorada. É uma lembran�
 
 1. O Menino recebeu o nome Jesus quando tinha oito dias de idade. Foi circuncidado, segundo o costume dos judeus. Na Circuncisão, Jesus começou Seu papel de Mediador entre Deus e o homem, derramando Seu sangue pela primeira vez por nós.
 
-> "Chamarás Seu nome Jesus, pois Ele salvará Seu povo de seus pecados" (Mat. 1: 21). "Portanto Deus... Lhe outorgou o nome que está acima de todo nome, para que ao nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2: 9-10). "Se pedirdes ao Pai algo em Meu nome, Ele vo-lo dará" (João 16: 23). A festa da Circuncisão é celebrada no Dia de Ano Novo. Assim a Igreja nos ensina a começar tudo em nome de Jesus.
+> "Chamarás Seu nome Jesus, pois Ele salvará Seu povo de seus pecados" (Mat. 1:21). "Portanto Deus... Lhe outorgou o nome que está acima de todo nome, para que ao nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2:9-10). "Se pedirdes ao Pai algo em Meu nome, Ele vo-lo dará" (João 16:23). A festa da Circuncisão é celebrada no Dia de Ano Novo. Assim a Igreja nos ensina a começar tudo em nome de Jesus.
 
 2. Quando Jesus tinha quarenta dias, Sua Mãe O apresentou no Templo em Jerusalém. Em imitação, embora o rito seja essencialmente diferente, as mães hoje após o parto buscam a bênção da Igreja numa cerimônia de ação de graças chamada "igrejamento".
 

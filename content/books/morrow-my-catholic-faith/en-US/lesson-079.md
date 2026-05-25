@@ -11,7 +11,7 @@
 
 1. Their chief pain is the deprivation of the Beatific Vision, the vision of God in the glory of heaven. This temporary deprivation is a most severe punishment, because the poor souls already have a full knowledge of what they are missing.
 
-> "As the hart panteth after the fountains of water, so my soul panteth after thee, O God! my soul hath thirsted after the strong living God; when shall I come and appear before the face of God?" (Ps. 41: 2, 3).
+> "As the hart panteth after the fountains of water, so my soul panteth after thee, O God! my soul hath thirsted after the strong living God; when shall I come and appear before the face of God?" (Ps. 41:2, 3).
 
 2. The general tradition of the Church is that they also suffer acutely in other ways.
 

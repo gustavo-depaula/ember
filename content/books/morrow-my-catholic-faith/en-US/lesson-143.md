@@ -11,7 +11,7 @@
 
 1. A closer union with Our Lord, and a more fervent love of God and of our neighbour. What food and drink do for the body, the Eucharist does for the soul. It unites our body and soul to that of Christ.
 
-> In Holy Communion we become united with Christ, as He Himself promised, "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6: 57).
+> In Holy Communion we become united with Christ, as He Himself promised, "He who eats my flesh and drinks my blood abides in me, and I in him" (John 6:57).
 
 2. An increase of sanctifying grace. Holy Communion makes us more pleasing to God by an increase of grace, making us live in Him and made like unto Him.
 

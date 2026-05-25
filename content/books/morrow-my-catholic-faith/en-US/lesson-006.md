@@ -43,7 +43,7 @@
 
 2. To say that this universal order is the result of accident, or that the planets direct their own courses, is as foolish as to say that an automobile goes sensibly around the city streets running itself.
 
-> "The heavens show forth the glory of God, and the firmament declareth the work of His hands" (Ps. 18: 2). God is the Intelligent Cause.
+> "The heavens show forth the glory of God, and the firmament declareth the work of His hands" (Ps. 18:2). God is the Intelligent Cause.
 
 3. Long ago the pagan Cicero said: "When we contemplate the heavens, we arrive at the conviction that they are all guided by a Being of surpassing skill."
 
@@ -56,8 +56,8 @@
 
 1. Our conscience approves the right and condemns the wrong. Thus within ourselves, there is a recognition of a Supreme Lawgiver to whom we are responsible, Who will reward the good we do, and punish the evil.
 
-> "The fool says in his heart: There is no God" (Ps. 13: 1).
+> "The fool says in his heart: There is no God" (Ps. 13:1).
 
 2. Those who persist in denying the existence of God in spite of external and internal testimony are atheists who are eaten up by pride, or live vicious lives, or both. Of them Our Lord said:
 
-> "Seeing they do not see and hearing they do not hear, neither do they understand ... For the heart of this people has been hardened, and with their ears they have been hard of hearing, And their eyes they have closed; Lest at any time they see with their eyes, and hear with their ears, and understand with their mind, and be converted, and I heal them" (Matt. 13: 13-15).
+> "Seeing they do not see and hearing they do not hear, neither do they understand ... For the heart of this people has been hardened, and with their ears they have been hard of hearing, And their eyes they have closed; Lest at any time they see with their eyes, and hear with their ears, and understand with their mind, and be converted, and I heal them" (Matt. 13:13-15).

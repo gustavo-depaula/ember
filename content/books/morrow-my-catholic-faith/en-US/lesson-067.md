@@ -2,7 +2,7 @@
 
 ![](../images/lesson-067.webp)
 
-*The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said, "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14: 16, 26).*
+*The Church cannot teach error, because it was founded by Christ, God Himself. He sent forth His Apostles with full powers to preach His Gospel. He said, "As the Father has sent me, I also send you" (John 20:21). "I will ask the Father and he will give you another Advocate to dwell with you forever. . . . But the Advocate, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and bring to your mind whatever I have said to you" (John 14:16, 26).*
 
 
 **What is meant by the infallibility of the Catholic Church?**
@@ -29,13 +29,13 @@ Of things we must do are these: we must go to Mass on Sundays and holydays of ob
 
 > Jesus sent forth His Apostles with full powers to preach His Gospel: "As the Father hath sent Me, I also send you." "Make disciples of all nations teaching them to observe all that I have commanded you." "Preach the Gospel to every creature."
 
-a. Christ said: "He who believes and is baptised shall be saved; but he who does not believe shall be condemned" (Mark 16: 16). A just God could not command men under penalty of damnation to believe what is false. So the teaching of the Church must be infallibly true.
+a. Christ said: "He who believes and is baptised shall be saved; but he who does not believe shall be condemned" (Mark 16:16). A just God could not command men under penalty of damnation to believe what is false. So the teaching of the Church must be infallibly true.
 
-> He said: "You shall be witnesses for me in Jerusalem, and in all Judea, and Samaria, and even to the very ends of the earth" (Acts 1: 8). Since it was physically impossible for the Apostles to preach to the whole world, the mission must have been intended also for their successors to the end of time, our Catholic Bishops and priests.
+> He said: "You shall be witnesses for me in Jerusalem, and in all Judea, and Samaria, and even to the very ends of the earth" (Acts 1:8). Since it was physically impossible for the Apostles to preach to the whole world, the mission must have been intended also for their successors to the end of time, our Catholic Bishops and priests.
 
-b. Christ said: "If he refuse to hear even the Church, let him be to thee as the heathen and the publican" (Matt. 18: 17) "He who hears you hears me; and he who rejects you rejects me; and he who rejects me rejects him who sent me" (Luke 10: 16).
+b. Christ said: "If he refuse to hear even the Church, let him be to thee as the heathen and the publican" (Matt. 18:17) "He who hears you hears me; and he who rejects you rejects me; and he who rejects me rejects him who sent me" (Luke 10:16).
 
-> He said, "And whoever does not receive you, or listen to your words-go forth outside that house or town, and shake off the dust from your feet. Amen I say to you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgement than for that town" (Matt. 10: 14-16).
+> He said, "And whoever does not receive you, or listen to your words-go forth outside that house or town, and shake off the dust from your feet. Amen I say to you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgement than for that town" (Matt. 10:14-16).
 
 5. No Christian denies that the Apostles were infallible. In fact, in the first century, they were the only authority in the Church. The Bible was not completed till the end of that century, not within reach of all.
 

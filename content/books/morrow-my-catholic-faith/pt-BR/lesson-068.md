@@ -9,7 +9,7 @@
 
 — A Igreja ensina infalivelmente quando define, através do Papa sozinho, como o mestre de todos os Cristãos, ou através do Papa e dos bispos, uma doutrina de fé ou moral a ser mantida por todos os fiéis.
 
-> A Igreja, como representante ou substituta de Jesus Cristo na terra, é infalível, e fala com Suas próprias palavras: "Para isto nasci, e para isto vim ao mundo, para dar testemunho da verdade" (João 18: 37).
+> A Igreja, como representante ou substituta de Jesus Cristo na terra, é infalível, e fala com Suas próprias palavras: "Para isto nasci, e para isto vim ao mundo, para dar testemunho da verdade" (João 18:37).
 
 1. Quando a Igreja faz um pronunciamento infalível, não devemos supor que uma nova doutrina está sendo introduzida. Por exemplo, quando o Santo Padre em 1854 definiu a Imaculada Conceição da Santíssima Virgem como um artigo de fé, a definição infalível não foi uma proclamação de uma nova doutrina, mas foi meramente um anúncio de um artigo de fé, verdadeiro desde o próprio princípio, e publicamente definido apenas para tornar o dogma claro a todos e para ser crido como parte do depósito da fé deixado à Igreja.
 
@@ -24,11 +24,11 @@
 
 — A Igreja ensina infalivelmente através do Papa sozinho, quando ele fala oficialmente (*ex cathedra*) como o Cabeça Supremo, para toda a Igreja universal.
 
-> Como o Papa tem autoridade sobre a Igreja, não poderia errar em seu ensino oficial sem levar a Igreja ao erro. Como Nosso Senhor disse a Pedro, o primeiro Papa: "Roguei por ti, para que tua fé não falhe; e tu, uma vez convertido, confirma teus irmãos" (Luc. 22: 31-32).
+> Como o Papa tem autoridade sobre a Igreja, não poderia errar em seu ensino oficial sem levar a Igreja ao erro. Como Nosso Senhor disse a Pedro, o primeiro Papa: "Roguei por ti, para que tua fé não falhe; e tu, uma vez convertido, confirma teus irmãos" (Luc. 22:31-32).
 
 Para falar infalivelmente, o Papa deve falar *ex-cathedra*, ou oficialmente, sob as seguintes condições:
 
-1. Deve pronunciar-se sobre um assunto de fé ou moral. Infalibilidade está restrita a questões riguardanti à fé e moral. A Igreja pronuncia-se sobre ciências naturais e sobre legislação apenas quando a perversidade dos homens faz delas instrumentos para opor-se a verdades reveladas.
+1. Deve pronunciar-se sobre um assunto de fé ou moral. Infalibilidade está restrita a questões referentes à fé e moral. A Igreja pronuncia-se sobre ciências naturais e sobre legislação apenas quando a perversidade dos homens faz delas instrumentos para opor-se a verdades reveladas.
 
 > Se o Papa deveria fazer julgamentos sobre matemática ou governos civis, é tão passível de erro quanto qualquer outro homem com a mesma experiência. Cartas a reis e outros governantes não são pronunciamentos infalíveis. Contudo, devemos manter as opiniões do Papa sobre qualquer assunto com grande respeito, por conta de sua posição e experiência.
 
@@ -47,7 +47,7 @@ Para falar infalivelmente, o Papa deve falar *ex-cathedra*, ou oficialmente, sob
 
 1. Um Concílio Geral é uma assembleia convocada pela Santa Sé, de todos os bispos do mundo, e outros com direito a voto. Representa o corpo ensinante da Igreja, e deve ser infalível.
 
-> No ano 50, os Apóstolos realizaram o primeiro Concílio Geral em Jerusalém. Suas decisões foram proclamadas como vindo de Deus, o decreto final começando com estas palavras: "Pois o Espírito Santo e nós decidimos não impor-vos maior peso" (Atos 15: 28).
+> No ano 50, os Apóstolos realizaram o primeiro Concílio Geral em Jerusalém. Suas decisões foram proclamadas como vindo de Deus, o decreto final começando com estas palavras: "Pois o Espírito Santo e nós decidimos não impor-vos maior peso" (Atos 15:28).
 
 2. Sobre um Concílio Geral, o Papa ou seu legado preside; um número representativo de bispos e outros com direito a voto, como cardeais, abades e generais de certas ordens religiosas, deve estar presente. Após confirmação pelo Papa, os decretos de um Concílio Geral são obrigatórios para todos os Cristãos.
 
@@ -59,4 +59,4 @@ Para falar infalivelmente, o Papa deve falar *ex-cathedra*, ou oficialmente, sob
 
 4. Mesmo quando os bispos não estão reunidos juntos num só lugar, formam o corpo ensinante da Igreja, unidos com o Papa. Portanto, sua voz deve ser infalível, caso contrário a Igreja universal seria levada ao erro. Pela mesma razão que acima, o ensino diário ordinário uniforme da Igreja em todo lugar no mundo inteiro é infalivelmente verdadeiro.
 
-> "Ide por todo o mundo e pregai o evangelho a toda criatura" (Mar. 16: 15).
+> "Ide por todo o mundo e pregai o evangelho a toda criatura" (Mar. 16:15).

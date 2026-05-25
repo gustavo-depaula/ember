@@ -2,7 +2,7 @@
 
 ![](../images/lesson-059.webp)
 
-*A Igreja é uma sociedade estreitamente organizada e unida, incluindo a hierarquia e os fiéis. Todos os membros prestam obediente amorosa ao Vigário infalível de Cristo. O Papa não governa como um monarca orgulhoso, mas como um Pai, o representante de Deus; como um bom Pastor, solícito por cada membro do grande rebanho. A obediente sem questionamentos dos fiéis é responsável pela maravilhosa unidade entre os membros da Igreja através do mundo. Há cerca de quatrocentos e vinte e cinco milhões de Católicos, todos submetendo-se à hierarquia, à cabeça da qual está o Papa.*
+*A Igreja é uma sociedade estreitamente organizada e unida, incluindo a hierarquia e os fiéis. Todos os membros prestam obediência amorosa ao Vigário infalível de Cristo. O Papa não governa como um monarca orgulhoso, mas como um Pai, o representante de Deus; como um bom Pastor, solícito por cada membro do grande rebanho. A obediência sem questionamentos dos fiéis é responsável pela maravilhosa unidade entre os membros da Igreja através do mundo. Há cerca de quatrocentos e vinte e cinco milhões de Católicos, todos submetendo-se à hierarquia, à cabeça da qual está o Papa.*
 
 
 **O que é a hierarquia?**
@@ -22,11 +22,11 @@
 
 — Os membros da hierarquia dividem-se em três classes com diferente poder de ordens: diáconos, sacerdotes e bispos.
 
-> Esta ordem de rank e poder tem estado em vigor na Igreja desde o tempo dos Apóstolos. Estas três classes foram prefiguradas no sumo sacerdote, sacerdotes e levitas da Antiga Lei. Também tiveram contrapartes em Nosso Senhor, os Apóstolos e os discípulos. Nosso Senhor deu plenos poderes aos doze Apóstolos, mas apenas poder limitado aos discípulos.
+> Esta ordem de grau e poder tem estado em vigor na Igreja desde o tempo dos Apóstolos. Estas três classes foram prefiguradas no sumo sacerdote, sacerdotes e levitas da Antiga Lei. Também tiveram contrapartes em Nosso Senhor, os Apóstolos e os discípulos. Nosso Senhor deu plenos poderes aos doze Apóstolos, mas apenas poder limitado aos discípulos.
 
 1. Diáconos podem batizar, pregar e dar a Santa Comunhão.
 
-> Os Apóstolos ordenaram os primeiros diáconos. Os diáconos foram nomeados pelos Apóstolos para distribuir esmolas e foram consagrados pela imposição das mãos acompanhada de orações (Atos 6: 6).
+> Os Apóstolos ordenaram os primeiros diáconos. Os diáconos foram nomeados pelos Apóstolos para distribuir esmolas e foram consagrados pela imposição das mãos acompanhada de orações (Atos 6:6).
 
 2. Sacerdotes têm ordens mais altas que diáconos. Podem oferecer o santo sacrifício da Missa, e perdoar pecados no Sacramento da Penitência. Podem administrar todos os sacramentos exceto aqueles da Crisma e Ordens Sagradas. Com faculdades especiais, podem até administrar a Crisma. Nos Ritos Orientais Católicos sacerdotes administram a Crisma imediatamente após o Batismo.
 
@@ -39,9 +39,9 @@
 
 **Como os membros da hierarquia diferem no poder de jurisdição?**
 
-— Os membros da hierarquia dividem-se em muitos ranks segundo o poder de jurisdição, sendo os principais ranks aqueles de Papa, bispos e párocos.
+— Os membros da hierarquia dividem-se em muitos graus segundo o poder de jurisdição, sendo os principais graus aqueles de Papa, bispos e párocos.
 
-> Estas diferenças de rank e poder são necessárias para o próprio governo da Igreja assim como há diferenças de rank e poder no governo civil. Sem elas, a Igreja seria uma sociedade sem organização.
+> Estas diferenças de grau e poder são necessárias para o próprio governo da Igreja assim como há diferenças de grau e poder no governo civil. Sem elas, a Igreja seria uma sociedade sem organização.
 
 1. Em organização, a Igreja é como um vasto exército com o Papa, seu cabeça visível, como o comandante-em-chefe. Tem jurisdição e poder e autoridade supremos e soberanos sobre toda a Igreja. É formalmente tratado "Vossa Santidade."
 
@@ -51,11 +51,11 @@
 
 > Os cardeais formam as várias congregações ou comitês na corte Papal, como as Congregações dos Religiosos, dos Ritos, dos Sacramentos, etc. No passado, muitos cardeais apenas tinham as ordens de diácono. Os cardeais são distinguidos por um chapéu vermelho e manto, como sinal de que serão leais ao Papa ao custo de seu sangue. Um cardeal é tratado "Vossa Eminência."
 
-3. Núnuncios, internúnuncios, legados e delegados apostólicos são representantes ou embaixadores do Papa a diferentes países, cortes ou ocasiões.
+3. Núncios, internúncios, legados e delegados apostólicos são representantes ou embaixadores do Papa a diferentes países, cortes ou ocasiões.
 
 > Representantes menores da Santa Sé, enviados para alguns propósitos especiais a diferentes lugares, são denominados Visitadores Apostólicos. Em alguns lugares há Delegados Apostólicos. Além dos poderes ordinários que tem como Delegado Apostólico, a Santa Sé delegou-lhe poderes extraordinários.
 
-4. Um patriarca é um bispo, sucessor dos Apóstolos, que tem o mais alto rank após o Papa, em jurisdição. Patriarcas são independentes de qualquer autoridade eclesiástica salvo a do Papa, que não é apenas Patriarca de Roma, mas Soberano Pontífice, sucessor de Pedro.
+4. Um patriarca é um bispo, sucessor dos Apóstolos, que tem o mais alto grau após o Papa, em jurisdição. Patriarcas são independentes de qualquer autoridade eclesiástica salvo a do Papa, que não é apenas Patriarca de Roma, mas Soberano Pontífice, sucessor de Pedro.
 
 > Um patriarca ordena todos os bispos de seu patriarcado, convoca sínodos, legisla sobre jejum e abstinência, recepção dos sacramentos, liturgia e ritual, e outras observâncias. No presente há apenas cinco patriarcas maiores ou Patriarcas Maiores; aqueles de Roma, Jerusalém, Constantinopla, Antioquia e Alexandria. O título "Patriarca" é contudo dado como um título honorário a arcebispos de certos lugares.
 
@@ -67,6 +67,6 @@ Ordinariamente um abade é o superior de uma abadia de Beneditinos, Cisterciense
 
 > Hoje o título "abade" é também concedido como sinal de honra; o benefício é alguma fundação extinta.
 
-6. Um Monsenhor é um que por algum mérito especial foi elevado acima dos ranks do clero ordinário, e assim junta-se aos prelados; o título é honorário.
+6. Um Monsenhor é um que por algum mérito especial foi elevado acima dos graus do clero ordinário, e assim junta-se aos prelados; o título é honorário.
 
-> O termo Monsenhor é frequentemente usado ao dirigir-se a diferentes graus de prelados. Mas dos Monsenhores próprios há vários ranks: protonotários apostólicos, prelados domésticos, etc. Estes são tratados "Muito Reverendo"; ranks inferiores, "Muito Reverendo."
+> O termo Monsenhor é frequentemente usado ao dirigir-se a diferentes graus de prelados. Mas dos Monsenhores próprios há vários graus: protonotários apostólicos, prelados domésticos, etc. Estes são tratados "Reverendíssimo"; graus inferiores, "Muito Reverendo."
