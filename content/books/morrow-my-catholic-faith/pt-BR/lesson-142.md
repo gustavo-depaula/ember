@@ -70,7 +70,7 @@
 
 **Como devemos nos comportar ao receber a Santa Comunhão?**
 
-— Devota e recolhidos, devemos pensar no Senhor Que estamos recebendo e fazer fervorosos atos de virtude.
+— Devota e recolhidos, devemos pensar no Senhor Que estamos recebendo, e fazer fervorosos atos de virtude.
 
 1. Ao aproximar-se da grade da comunhão deve-se ter as mãos juntas e não andar demasiado apressadamente, nem correr à frente de outros, nem inserir-se entre duas pessoas já ajoelhadas próximas uma da outra na grade.
 

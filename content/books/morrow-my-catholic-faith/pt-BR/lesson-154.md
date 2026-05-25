@@ -49,7 +49,7 @@
 
 3. Uma indulgência plenária é concedida àqueles que recebem a bênção papal após confissão, comunhão e oração pelas intenções do Papa.
 
-> A bênção papal é usualmente dada ao final de missões ou retiros ou na hora da morte.
+> A bênção papal é usualmente dada ao final de missões ou retiros, ou na hora da morte.
 
 4. Os doentes e idosos na hora da morte, tendo recebido a bênção papal para os moribundos, podem ganhar uma indulgência plenária se pronunciam o Nome de Jesus ou pelo menos o têm em sua mente e coração.
 

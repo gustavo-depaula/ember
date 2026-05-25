@@ -11,7 +11,7 @@
 
 — São os sacramentos administrados a uma pessoa perigosamente doente e incluem Confissão, Viático e Extrema-Unção.
 
-1. A pessoa doente primeiro faz sua confissão, então recebe a Santa Eucaristia no Viático e finalmente é dada a Extrema-Unção.
+1. A pessoa doente primeiro faz sua confissão, então recebe a Santa Eucaristia no Viático, e finalmente é dada a Extrema-Unção.
 
 > Extrema-Unção é um remédio; e como a medicina é para os vivos, não os mortos, assim aqueles mortos em pecado não lucrarão deste remédio espiritual. Contudo, se o paciente é fisicamente incapaz de confessar, a Igreja aceita a intenção e administra Extrema-Unção sem confissão.
 
@@ -29,14 +29,14 @@
 
 5. Podemos ajudar uma pessoa doente cuidando e consolando-a. Cada dia devemos fazer com ela e por ela atos de fé, esperança e caridade. Acima de tudo, devemos ajudá-la a sentir absoluta resignação à vontade de Deus.
 
-> É um erro tentar ajudar uma pessoa perigosamente doente conversando sobre tópicos mundanos ou contando fofocas ou oferecendo falsas esperanças de recuperação.
+> É um erro tentar ajudar uma pessoa perigosamente doente conversando sobre tópicos mundanos ou contando fofocas, ou oferecendo falsas esperanças de recuperação.
 
 
 **Como devemos ajudar uma pessoa doente a preparar-se para os Últimos Sacramentos?**
 
 — Devemos ajudar uma pessoa doente a preparar-se para os Últimos Sacramentos tanto espiritual quanto corporalmente.
 
-1. Antes do padre chegar devemos ajudar o paciente a preparar-se para sua Confissão. Digamos com ele atos de contrição e ejaculações para mantê-lo unido a Deus.
+1. Antes do padre chegar, devemos ajudar o paciente a preparar-se para sua Confissão. Digamos com ele atos de contrição e ejaculações para mantê-lo unido a Deus.
 
 2. O rosto, mãos e pés do paciente devem ser esponjados com uma toalha molhada.
 

@@ -44,7 +44,7 @@
 
 4. A Igreja autoriza a cerimônia nupcial aparte da Missa Nupcial; mas urge a todos os católicos estar unidos em casamento com as graças daquela Missa, com sua bela liturgia.
 
-> Isto é por que, exceto por grave razão, casamentos não devem ser celebrados durante o Advento e Quaresma; pois então a Missa Nupcial e bênção são proibidas. As "estações fechadas" ou "tempos proibidos" estendem-se do início do Advento até o Dia de Natal e da Quarta-Feira de Cinzas até o Domingo de Páscoa, inclusive. Mas a celebração, como distinguida da solenização (com plena liturgia), é sempre permitida. Se a Missa por alguma razão não pode ser dita no dia do casamento, deve ser dita no dia seguinte ou assim que possível.
+> Isto é por que, exceto por grave razão, casamentos não devem ser celebrados durante o Advento e Quaresma; pois então a Missa Nupcial e bênção são proibidas. As "estações fechadas" ou "tempos proibidos" estendem-se do início do Advento até o Dia de Natal, e da Quarta-Feira de Cinzas até o Domingo de Páscoa, inclusive. Mas a celebração, como distinguida da solenização (com plena liturgia), é sempre permitida. Se a Missa por alguma razão não pode ser dita no dia do casamento, deve ser dita no dia seguinte ou assim que possível.
 
 
 **Quando é dada a Bênção Nupcial?**
@@ -57,4 +57,4 @@
 
 2. A Bênção Nupcial pode ser recebida por uma mulher apenas uma vez. Assim se foi dada a ela num casamento prévio, não pode ser dada a ela novamente se tornar-se viúva e recasar. Não é dada fora da Missa sem dispensa.
 
-> Perto do final da Missa, logo antes da bênção usual, o padre admoesta o casal sobre os deveres da vida matrimonial e ora para que possam gozar paz, frutificação e felicidade eterna. Aspergindo a noiva e o noivo com água benta, abençoa ambos.
+> Perto do final da Missa, logo antes da bênção usual, o padre admoesta o casal sobre os deveres da vida matrimonial, e ora para que possam gozar paz, frutificação e felicidade eterna. Aspergindo a noiva e o noivo com água benta, abençoa ambos.

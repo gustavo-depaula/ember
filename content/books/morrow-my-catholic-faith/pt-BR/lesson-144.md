@@ -9,7 +9,7 @@
 
 — A Penitência é o sacramento pelo qual os pecados cometidos após o Batismo são perdoados através da absolvição do padre.
 
-> A Penitência leva o pecador a detestar seus pecados e o incita a oferecer satisfação por eles e a emendar sua vida no futuro.
+> A Penitência leva o pecador a detestar seus pecados, e o incita a oferecer satisfação por eles e a emendar sua vida no futuro.
 
 1. A Penitência tem os três essenciais de um sacramento. (a) É um sinal sensível;
 
@@ -48,7 +48,7 @@ i.e. as palavras da absolvição com o ato da confissão.
 
 > Mesmo num tribunal civil, o juiz não toma decisão sem conhecer os fatos do caso. Um julgamento é conduzido com acusadores e testemunhas contra a pessoa acusada. O padre é o juiz e deve aprender do próprio penitente se deve dar absolvição e qual seria uma penitência justa a impor.
 
-3. A Igreja ordena-nos confessar pelo menos uma vez por ano. Todos os católicos, incluindo o Papa, cardeais, bispos, etc., estão sujeitos a esta lei. Bons católicos confessam pelo menos uma vez por mês ou mesmo uma vez por semana. Se somos tão infelizes quanto a ter cometido um pecado mortal, devemos ir à confissão imediatamente.
+3. A Igreja ordena-nos confessar pelo menos uma vez por ano. Todos os católicos, incluindo o Papa, cardeais, bispos, etc., estão sujeitos a esta lei. Bons católicos confessam pelo menos uma vez por mês, ou mesmo uma vez por semana. Se somos tão infelizes quanto a ter cometido um pecado mortal, devemos ir à confissão imediatamente.
 
 > O que pensarias de uma pessoa que sofre um acidente no Ano Novo e está perto da morte se diz: "Não, não chameis o médico. Irei a ele na Páscoa?"
 

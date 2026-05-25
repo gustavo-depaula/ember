@@ -32,7 +32,7 @@
 
 > O corpo deve ser levado à igreja para a bênção e se possível deve estar presente numa Missa de Réquiem. A cerimônia da Igreja para funerais é comovente e significativa e, corretamente entendida, beneficiará os vivos assim como os mortos. Não é um espetáculo vazio projetado para glorificar os mortos e expressar simpatia aos vivos; é uma devoção calculada para ajudar a alma partida a atingir sua eterna recompensa, assim como para ensinar salutares lições àqueles deixados para trás.
 
-3. Aqueles que acompanham um funeral ao cemitério devem observar grande recolhimento e um comportamento sério. O tocar de peças de "jazz" por uma banda durante o funeral deve ser condenado.
+3. Aqueles que acompanham um funeral ao cemitério devem observar grande recolhimento, e um comportamento sério. O tocar de peças de "jazz" por uma banda durante o funeral deve ser condenado.
 
 > Infelizmente algumas pessoas seguem funerais como se estivessem numa função mundana, falando alto e fofocando. Um pensamento salutar seria refletir que poderiam ser os próximos a ir daquele modo ao cemitério.
 
@@ -40,7 +40,7 @@
 
 > Sobre o lugar de sepultamento uma grande cruz deve ser ereta. Geralmente, as letras R.I.P. (Requiescat in pace: Descanse em paz) são gravadas na lápide. E aqui uma palavra sobre covas e mausoléus. A santa Santa Mônica, mãe de Santo Agostinho, disse: "Sepultai este corpo onde quer que desejeis. Uma coisa apenas vos peço e isso é, lembrai-vos de mim no altar do Senhor." Uma cova simples, um elaborado mausoléu — é tudo o mesmo para aqueles falecidos. É claro que é natural para aqueles que têm condições de construir mausoléus onde todos os membros da família possam ser sepultados juntos. O que deve ser evitado é a ereção de estruturas ostentosas que aparecem mais como casas de espetáculo vistosas que sepulcros de cristãos. A cruz deve ser proeminente: as inscrições devem ser litúrgicas e não tiradas de canções populares ou rimas sentimentais.
 
-5. Não-católicos, Maçons, aqueles excomungados como suicidas deliberados, duelistas e aqueles que ordenaram seus corpos cremados são negados sepultamento cristão.
+5. Não-católicos, Maçons, aqueles excomungados como suicidas deliberados, duelistas e aqueles que ordenaram seus corpos cremados, são negados sepultamento cristão.
 
 > Lembremo-nos: gastar dinheiro em mausoléus vistosos enquanto mantemos as cordas da bolsa apertadas contra a caridade seria contrário à reta razão. Certamente esplêndidas estruturas não podem aproveitar aos mortos. Infelizmente, continuam a ser construídas para satisfazer a vaidade dos vivos; enquanto isso, estes parentes vivos esquecem de orar, de ter Missas ditas ou de dar esmolas aos pobres, como uma oferta pela alma partida.
 
@@ -53,6 +53,6 @@
 
 > "Mas o justo, se for prevenido com a morte, estará em descanso" (Sab. 4:7). Como Nosso Senhor nos assegura: "Eu sou a ressurreição e a vida; aquele que crê em mim, mesmo se morrer, viverá; e quem vive e crê em mim, nunca morrerá" (João 11:25-26).
 
-2. Aos enlutados, Deus em Sua infinita misericórdia estende, através de nossa Mãe Igreja, a consoladora certeza do Purgatório. Este conhecimento ponteia o abismo escancarado entre nós e nossos caros falecidos; faz-nos sentir que a morte não cortou os laços de amor que nos unem a eles. Em vez de desolação por nossa perda, encontramos diminuição de pesar e uma expressão prática de nossa afeição em orações e boas obras oferecidas a Deus em nome de nossos amados mortos, que podem ainda estar no purgatório.
+2. Aos enlutados, Deus em Sua infinita misericórdia estende, através de nossa Mãe Igreja, a consoladora certeza do Purgatório. Este conhecimento ponteia o abismo escancarado entre nós e nossos caros falecidos; faz-nos sentir que a morte não cortou os laços de amor que nos unem a eles. Em vez de desolação por nossa perda, encontramos diminuição de pesar, e uma expressão prática de nossa afeição em orações e boas obras oferecidas a Deus em nome de nossos amados mortos, que podem ainda estar no purgatório.
 
 > Esta é uma razão para a necessidade de entender completamente a doutrina do purgatório (veja páginas 156-159). Como São Paulo disse, "Não queremos, irmãos, que ignoreis a respeito daqueles que dormem, para que não vos aflijais como os outros que não têm esperança" (1 Tess. 4:13).

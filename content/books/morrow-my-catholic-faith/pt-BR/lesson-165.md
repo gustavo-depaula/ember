@@ -23,7 +23,7 @@
 
 4. Se o caráter indissolúvel do Matrimônio é bem entendido, mesmo se, como pode frequentemente acontecer, marido e mulher discordarem, sua tendência seria reconciliar-se, não correr à corte de divórcio.
 
-> A preservação do caráter sagrado do casamento é vital à sociedade; ceda ao divórcio e destruição de toda vida social virá. Divórcio é uma brecha na parede da civilização, uma força destrutiva na moralidade. Hoje dois em cinco casamentos terminam em divórcio. Começando com causas de adultério, agora em muitos lugares divórcio pode ser obtido em quase qualquer fundamento; tornou-se apenas uma desculpa para mudar de parceiros. É isto Matrimônio?
+> A preservação do caráter sagrado do casamento é vital à sociedade; ceda ao divórcio, e destruição de toda vida social virá. Divórcio é uma brecha na parede da civilização, uma força destrutiva na moralidade. Hoje dois em cinco casamentos terminam em divórcio. Começando com causas de adultério, agora em muitos lugares divórcio pode ser obtido em quase qualquer fundamento; tornou-se apenas uma desculpa para mudar de parceiros. É isto Matrimônio?
 
 
 **O que é divórcio?**

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-061.webp)
 
-*Na história da Igreja, houve 21 concílios convocados pelo papa. Todos estes foram doutrinais e jurídicos. O último concílio, chamado Vaticano II não foi um concílio doutrinal mas pastoral. Dentre estes 21 concílios os mais notáveis dos Concílios Gerais seguindo o Concílio de Jerusalém foram: o Concílio de Niceia (325), o Concílio de Éfeso, (425), o Concílio de Niceia (787) o Concílio de Trento, (1545-1563), o Primeiro Concílio do Vaticano, (1870). (Veja também pgs. 136-137)*
+*Na história da Igreja, houve 21 concílios convocados pelo papa. Todos estes foram doutrinais e jurídicos. O último concílio, chamado Vaticano II, não foi um concílio doutrinal mas pastoral. Dentre estes 21 concílios os mais notáveis dos Concílios Gerais seguindo o Concílio de Jerusalém foram: o Concílio de Niceia (325), o Concílio de Éfeso, (425), o Concílio de Niceia (787), o Concílio de Trento, (1545-1563), o Primeiro Concílio do Vaticano, (1870). (Veja também pgs. 136-137)*
 
 
 **O Papa é o cabeça da Igreja universal?**

@@ -28,7 +28,7 @@
 
 1. A menos que alguém se separe por heresia, apostasia ou excomunhão, um católico pecador continua a ser um membro da Igreja. Aqueles em pecado mortal são chamados "membros mortos", pois suas almas estão mortas em pecado.
 
-> De fato a Igreja é a Igreja dos Santos; mas a maior parte de suas atividades tem que ser para os pecadores. Talvez possamos dizer, sem medo de contradição, que a maioria dos membros da Igreja são pecadores. Todos caímos do ideal, em algum momento ou outro; então a Igreja chama, para trazer-nos de volta.
+> De fato, a Igreja é a Igreja dos Santos; mas a maior parte de suas atividades tem que ser para os pecadores. Talvez possamos dizer, sem medo de contradição, que a maioria dos membros da Igreja são pecadores. Todos caímos do ideal, em algum momento ou outro; então a Igreja chama, para trazer-nos de volta.
 
 2. Até atingirmos a bem-aventurança celestial, sempre haverá a escuridão do pecado, a dor do mal. O Próprio Cristo falou de peixes maus com os bons, de joio entre o trigo.
 

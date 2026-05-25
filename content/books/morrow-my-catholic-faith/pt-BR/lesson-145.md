@@ -42,14 +42,14 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 > "Como vivo, diz o Senhor Deus, não desejo a morte do ímpio, mas que o ímpio se converta de seu caminho e viva" (Ez. 33:11).
 
-2. O exame de consciência é importante, pois por ele aprendemos a conhecer-nos e assim encontramos meios de melhoria. Quantos homens há que conhecem inúmeras coisas sobre natureza, ciência, literatura e direito e contudo nunca sequer olharam para suas próprias almas!
+2. O exame de consciência é importante, pois por ele aprendemos a conhecer-nos e assim encontramos meios de melhoria. Quantos homens há que conhecem inúmeras coisas sobre natureza, ciência, literatura e direito, e contudo nunca sequer olharam para suas próprias almas!
 
 > O autoconhecimento é um dom de Deus, que imploramos em oração. Se temos autoconhecimento, estaremos seguros de evitar a autocomplacência que é o obstáculo a um exame de consciência sincero.
 
 
 **Como podemos fazer um bom exame de consciência?**
 
-— Podemos fazer um bom exame de consciência recordando os mandamentos de Deus e da Igreja e os deveres particulares de nosso estado de vida e perguntando-nos como podemos ter pecado em relação a eles.
+— Podemos fazer um bom exame de consciência recordando os mandamentos de Deus e da Igreja, e os deveres particulares de nosso estado de vida, e perguntando-nos como podemos ter pecado em relação a eles.
 
 1. Devemos fazer um exame tão cuidadoso como se estivéssemos em nosso leito de morte, considerando de que modo pecamos em pensamento, desejo, palavra, obra ou omissão. Devemos recordar quantas vezes cometemos pecados mortais.
 
@@ -72,7 +72,7 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 1. Algumas pessoas descuidadas apressam-se ao confessionário após um ou dois minutos de preparação. Parecem fazer da confissão uma mera parada entre dois pontos de interesse exterior.
 
-> Recebemos maiores graças da confissão quanto melhor nos conhecemos, nossos pecados, nossas fraquezas e maior é nossa contrição e mais forte nosso propósito de emenda. Estas disposições importantes não podem ser efetuadas por um exame apressado.
+> Recebemos maiores graças da confissão quanto melhor nos conhecemos, nossos pecados, nossas fraquezas, e maior é nossa contrição e mais forte nosso propósito de emenda. Estas disposições importantes não podem ser efetuadas por um exame apressado.
 
 2. Aquele que omite confessar um pecado mortal por descuido deliberado no exame não faz uma boa confissão.
 

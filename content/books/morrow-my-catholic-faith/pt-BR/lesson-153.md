@@ -2,7 +2,7 @@
 
 ![](../images/lesson-153.webp)
 
-*A Igreja tem um Tesouro Espiritual composto dos infinitos méritos de Nosso Senhor e dos méritos superabundantes da Santíssima Mãe e dos Santos. A Paixão e Morte de Nosso Senhor e as penitências e sofrimentos da Santíssima Mãe que não precisava fazer penitência e dos Santos criaram este Tesouro Espiritual, que Cristo deixou para o uso da Comunhão dos Santos. Deste modo, um penitente que ganha uma indulgência recebe de sua Mãe a Igreja alguma da riqueza acumulada no Tesouro Espiritual dos méritos de Nosso Senhor, Maria e dos Santos.*
+*A Igreja tem um Tesouro Espiritual composto dos infinitos méritos de Nosso Senhor e dos méritos superabundantes da Santíssima Mãe e dos Santos. A Paixão e Morte de Nosso Senhor e as penitências e sofrimentos da Santíssima Mãe que não precisava fazer penitência, e dos Santos, criaram este Tesouro Espiritual, que Cristo deixou para o uso da Comunhão dos Santos. Deste modo, um penitente que ganha uma indulgência recebe de sua Mãe a Igreja alguma da riqueza acumulada no Tesouro Espiritual dos méritos de Nosso Senhor, Maria e dos Santos.*
 
 
 **O que é uma indulgência?**
@@ -28,7 +28,7 @@
 
 1. Na Igreja, há um tesouro espiritual composto dos méritos superabundantes de nosso Senhor, da Santíssima Mãe e dos Santos. Os méritos da paixão e morte de Nosso Senhor são infinitos, pois Ele é Deus. Todos estes Ele deixou à Sua Igreja.
 
-> A satisfação superabundante da Santíssima Virgem Maria e dos Santos que estão unidos com os de Cristo, "Completo em minha carne o que falta aos sofrimentos de Cristo, em favor de Seu corpo, a Igreja" (Col. 1:24) é aquela que ganharam durante sua vida mas não precisaram e que a Igreja aplica a seus membros companheiros da Comunhão dos Santos. (veja página 148).
+> A satisfação superabundante da Santíssima Virgem Maria e dos Santos que estão unidos com os de Cristo, "Completo em minha carne o que falta aos sofrimentos de Cristo, em favor de Seu corpo, a Igreja" (Col. 1:24) é aquela que ganharam durante sua vida, mas não precisaram, e que a Igreja aplica a seus membros companheiros da Comunhão dos Santos. (veja página 148).
 
 2. Quando a Igreja concede uma indulgência, não cancela realmente qualquer expiação devida a Deus. Apenas supre nossas deficiências recorrendo ao tesouro espiritual da Igreja.
 
@@ -47,7 +47,7 @@
 
 > São Paulo escreve sobre um coríntio que mostrou tais sinais de verdadeiro arrependimento que sua penitência foi remitida. "A quem perdoardes alguma coisa, também eu perdoo. De fato, o que tenho perdoado — se tenho perdoado alguma coisa — o fiz por vossa causa, na pessoa de Cristo" (2 Cor. 2:10).
 
-2. Durante o tempo das grandes perseguições, os confessores e mártires permaneceram constantes e foram lançados na prisão e muitos foram postos à morte. Outros negaram sua fé para escapar à perseguição; sobre estes, a Igreja impôs severas penitências.
+2. Durante o tempo das grandes perseguições, os confessores e mártires permaneceram constantes e foram lançados na prisão, e muitos foram postos à morte. Outros negaram sua fé para escapar à perseguição; sobre estes, a Igreja impôs severas penitências.
 
 > Contudo, se os confessores e mártires intercediam em nome dos apóstatas, seu tempo de penitência era encurtado pelo Bispo. Em outras palavras, uma "indulgência" era concedida a eles pela autoridade própria, em vista dos méritos superabundantes daqueles que intercediam por eles.
 

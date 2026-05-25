@@ -17,7 +17,7 @@
 
 > Namoro deve ser conduzido sem segredo; moças devem cuidar de homens que mantêm seus "casos de amor" em segredo.
 
-3. A duração do período de namoro deve ser entre seis meses e dois anos, não mais longo. Casamento é uma séria e sagrada responsabilidade e não deve ser apressado sob a influência de uma atração física ou paixão. Mas namoro, quando os parceiros prospectivos estão tão frequentemente na companhia um do outro, não deve ser grandemente prolongado, para evitar possíveis sérias consequências.
+3. A duração do período de namoro deve ser entre seis meses e dois anos, não mais longo. Casamento é uma séria e sagrada responsabilidade, e não deve ser apressado sob a influência de uma atração física ou paixão. Mas namoro, quando os parceiros prospectivos estão tão frequentemente na companhia um do outro, não deve ser grandemente prolongado, para evitar possíveis sérias consequências.
 
 > "Casai-vos às pressas, arrependei-vos a lazer", diz um sábio adágio. Casamentos fugitivos são geralmente escandalosos mesmo pecaminosos: de qualquer modo são fortes tentações ao pecado. E assim o são namoros prolongados.
 
@@ -53,7 +53,7 @@
 
 > Geralmente, os pais estão certos sobre as boas ou más perspectivas de um casamento proposto.
 
-2. O noivado pode ser formalmente entrado por um contrato por escrito assinado por ambas as partes, com o padre paroquial ou Bispo ou dois outros como testemunhas. Tal formal noivado tem a força de um contrato civil.
+2. O noivado pode ser formalmente entrado por um contrato por escrito assinado por ambas as partes, com o padre paroquial, ou Bispo, ou dois outros, como testemunhas. Tal formal noivado tem a força de um contrato civil.
 
 > Embora tais formalidades de esponsais sejam raras em nossos dias e não há estrita necessidade para elas, devem ser encorajadas, especialmente em casos onde apressadas alianças são temidas.
 

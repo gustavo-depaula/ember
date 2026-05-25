@@ -17,7 +17,7 @@
 
 2. Autocontrole e abnegação são atos de mortificação: manter baixa a ira e abster-se mesmo de coisas que são permitidas, mas acima de tudo evitar mesmo o menor ceder ao que é proibido. Autocontrole é a marca do verdadeiro cristão. Se nos negamos algumas coisas que são permitidas, acharemos mais fácil evitar o que é proibido. Autocontrole nos dá uma forte vontade. Abnegação é a marca do ser humano feito à semelhança de Deus; uma besta não diz "Não" a si mesma.
 
-> Cristo disse: "Se alguém quer vir após Mim, negue-se a si mesmo" (Marcos 8:34). Pode-se negar a si mesmo evitando o que não é necessário, como vestido esplêndido, comida rica, casas e carros custosos, excessivos entretenimentos, curiosidade, etc., e acima de tudo fazendo alegremente quaisquer deveres que venham e aceitando com resignação todas as provações.
+> Cristo disse: "Se alguém quer vir após Mim, negue-se a si mesmo" (Marcos 8:34). Pode-se negar a si mesmo evitando o que não é necessário, como vestido esplêndido, comida rica, casas e carros custosos, excessivos entretenimentos, curiosidade, etc., e acima de tudo fazendo alegremente quaisquer deveres que venham, e aceitando com resignação todas as provações.
 
 3. Observamos ordem e regularidade tendo um tempo fixo para tudo: para levantar, retirar, comer, trabalho, recreação, etc.
 
@@ -27,7 +27,7 @@
 
 > Devemos santificar cada nossa ação oferecendo-a a Deus. Um bom plano é fazer uma oferta geral cada manhã, com nossas orações da manhã. Deste modo, tudo que fazemos, trabalho, oração e mesmo sono torna-se uma oração a Deus.
 
-5. Solidão ajuda-nos a crescer em virtude. O ruído e agitação do mundo são distrações. Devemos uma vez por outra imitar Nosso Senhor e retirar-nos à solidão, para ver nossas faltas melhor e ir mais perto de Deus.
+5. Solidão ajuda-nos a crescer em virtude. O ruído e agitação do mundo são distrações. Devemos uma vez por outra imitar Nosso Senhor e retirar-nos à solidão, para ver nossas faltas melhor, e ir mais perto de Deus.
 
 > Bons católicos gastam alguns dias cada ano numa Missão ou retiro espiritual, para recorrer a esta valiosa solidão.
 
@@ -50,7 +50,7 @@
 
 2. Uma habitual disposição de perder e sofrer tudo, antes que cometer um pecado venial deliberado. Este segundo grau é uma marca de afeição para com Deus: evitamos mesmo pequenas faltas porque O desagradam.
 
-> São aqueles nesta segunda disposição que são muito ativos em boas obras, tentando fazer tudo que podem para a glória de Deus, por amor a Deus e por seus semelhantes por amor de Deus. Dão um bom exemplo a outros por suas boas obras, segundo as palavras da Escritura: "Uma cidade posta sobre um monte não pode ser escondida. Assim brilhe vossa luz diante dos homens para que vejam vossas boas obras e deem glória a vosso Pai no céu" (Mat. 5:14, 16). Estão longe daqueles hipócritas mundanos que fazem boas obras para obter louvor e honra; destes Nosso Senhor disse, "Guardai-vos de praticar vossa justiça diante dos homens para serdes vistos por eles; de outro modo não tereis recompensa junto a vosso Pai no céu" (Mat. 6:1).
+> São aqueles nesta segunda disposição que são muito ativos em boas obras, tentando fazer tudo que podem para a glória de Deus, por amor a Deus, e por seus semelhantes por amor de Deus. Dão um bom exemplo a outros por suas boas obras, segundo as palavras da Escritura: "Uma cidade posta sobre um monte não pode ser escondida. Assim brilhe vossa luz diante dos homens para que vejam vossas boas obras e deem glória a vosso Pai no céu" (Mat. 5:14, 16). Estão longe daqueles hipócritas mundanos que fazem boas obras para obter louvor e honra; destes Nosso Senhor disse, "Guardai-vos de praticar vossa justiça diante dos homens para serdes vistos por eles; de outro modo não tereis recompensa junto a vosso Pai no céu" (Mat. 6:1).
 
 3. Uma habitual disposição de preferir ser pobre, esquecido, desprezado e sofredor, com Jesus na Cruz, para assemelhar-se mais a Ele, como uma prova de amor, antes que rico, honrado e louvado, cheio de delícias e consolações. Este terceiro grau é o ápice da perfeição; é santidade.
 

@@ -33,9 +33,9 @@
 
 — A lei ordinária da Igreja a ser observada no casamento de um católico é esta: Um católico pode contrair um verdadeiro casamento apenas na presença de um padre autorizado e duas testemunhas.
 
-1. As leis da Igreja requerem que um católico seja casado na presença do padre paroquial ou do bispo da diocese ou de um padre delegado por qualquer deles e diante de duas testemunhas. Católicos estão absolutamente proibidos de contrair casamento exceto diante de um padre da Igreja e duas testemunhas.
+1. As leis da Igreja requerem que um católico seja casado na presença do padre paroquial, ou do bispo da diocese, ou de um padre delegado por qualquer deles, e diante de duas testemunhas. Católicos estão absolutamente proibidos de contrair casamento exceto diante de um padre da Igreja e duas testemunhas.
 
-> Há apenas uma exceção a esta lei. Se o pastor ou o bispo ou o padre delegado por qualquer deles não pode ser obtido sem grande inconveniente:
+> Há apenas uma exceção a esta lei. Se o pastor, ou o bispo, ou o padre delegado por qualquer deles, não pode ser obtido sem grande inconveniente:
 
 (a) Em perigo de morte, o casamento pode ser contraído válida e licitamente diante de duas testemunhas; mesmo se não há perigo de morte o mesmo pode ser feito, desde que se preveja que a condição acima durará por um mês. Assim o casal está verdadeiramente casado e recebe o Sacramento do Matrimônio.
 
@@ -49,7 +49,7 @@
 
 3. Se católicos tentam casar diante de um ministro não católico, não apenas cometem pecado mas são excomungados da Igreja. Não estão casados.
 
-> São excluídos dos sacramentos, não podem ser padrinhos para batismo e crisma e não podem receber sepultamento cristão. Sua excomunhão dura até que vão à confissão, recebam absolvição do bispo e se casem diante de um padre católico, se devem viver como esposos.
+> São excluídos dos sacramentos, não podem ser padrinhos para batismo e crisma, e não podem receber sepultamento cristão. Sua excomunhão dura até que vão à confissão, recebam absolvição do bispo e se casem diante de um padre católico, se devem viver como esposos.
 
 4. Um padre em sua própria diocese pode realizar a cerimônia de casamento fora de sua própria paróquia apenas com a permissão do padre paroquial ou bispo do lugar.
 

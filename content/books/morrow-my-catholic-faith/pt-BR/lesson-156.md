@@ -7,7 +7,7 @@
 
 **O que é Extrema-Unção?**
 
-— Extrema-Unção é o sacramento que, através da unção com óleo abençoado pelo padre e através de sua oração, dá saúde e força à alma e às vezes ao corpo, quando estamos em perigo de morte por doença, acidente ou velhice.
+— Extrema-Unção é o sacramento que, através da unção com óleo abençoado pelo padre e através de sua oração, dá saúde e força à alma, e às vezes ao corpo, quando estamos em perigo de morte por doença, acidente ou velhice.
 
 1. Foi para curar os doentes e consolar os aflitos que Nosso Senhor operou muitos de Seus milagres. Os Evangelhos nos dão vívidas imagens d'Ele enquanto ia fazendo o bem e "curando toda doença e toda enfermidade entre o povo" (Mat. 4:23).
 
@@ -57,7 +57,7 @@
 
 > Dá a alguém graças para consolá-lo e fortalecê-lo contra a tentação. Obtém resignação à vontade de Deus, fortaleza para sofrer e confiança na misericórdia de Deus. Este sacramento frequentemente efetua uma grande mudança na pessoa doente: onde ela estava previamente impaciente e difícil de agradar, torna-se resignada às dores de sua doença.
 
-3. Preparação para entrada no céu pela remissão de nossos pecados veniais e a limpeza de nossas almas dos restos de pecado. Quando a pessoa não se recupera, se recebe o sacramento com perfeitas disposições, parte e mesmo toda das penas temporais pode ser-lhe perdoada.
+3. Preparação para entrada no céu pela remissão de nossos pecados veniais e a limpeza de nossas almas dos restos de pecado. Quando a pessoa não se recupera, se recebe o sacramento com perfeitas disposições, parte, e mesmo toda, das penas temporais pode ser-lhe perdoada.
 
 > Remove pecados veniais e pecados mortais não perdoados que alguém é incapaz de confessar, se tem atrição por eles. Remove os restos de pecado, que são: fraqueza de vontade e más inclinações que são resultados de pecado passado.
 

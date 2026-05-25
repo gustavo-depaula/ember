@@ -11,7 +11,7 @@
 
 1. "Evangélico" aqui significa contido nos Evangelhos; estes conselhos de perfeição são claramente expostos na Sagrada Escritura.
 
-> São chamados conselhos porque são um convite e não um comando; todos são convidados mas ninguém é forçado. "Nem todos podem aceitar este ensino; mas àqueles a quem foi dado" (Mat. 19:11).
+> São chamados conselhos, porque são um convite e não um comando; todos são convidados, mas ninguém é forçado. "Nem todos podem aceitar este ensino; mas àqueles a quem foi dado" (Mat. 19:11).
 
 2. Por meio dos conselhos evangélicos as três principais más tendências do homem — avareza, sensualidade e orgulho — são destruídas, capacitando-o a elevar-se mais livremente a Deus.
 
@@ -50,13 +50,13 @@
 
 — Sim, perfeita castidade é uma virtude mui agradável a Deus.
 
-1. Quando Deus desejou dar uma Mãe mortal a Seu Filho, Deus escolheu a mais pura das filhas de Judá, uma virgem, Maria. Quando quis um protetor para a Santíssima Virgem e seu futuro Filho, Deus escolheu um virgem, José, o mais casto dos homens. Cristo Mesmo foi um virgem e o Apóstolo que mais amou, aquele que se recostou sobre Seu peito na Última Ceia e a quem confiou Sua Mãe da cruz, foi também um virgem, São João Evangelista.
+1. Quando Deus desejou dar uma Mãe mortal a Seu Filho, Deus escolheu a mais pura das filhas de Judá, uma virgem, Maria. Quando quis um protetor para a Santíssima Virgem e seu futuro Filho, Deus escolheu um virgem, José, o mais casto dos homens. Cristo Mesmo foi um virgem, e o Apóstolo que mais amou, aquele que se recostou sobre Seu peito na Última Ceia e a quem confiou Sua Mãe da cruz, foi também um virgem, São João Evangelista.
 
 > "Ó quão bela é a geração casta com glória, pois a memória dela é imortal: porque é conhecida tanto com Deus quanto com os homens" (Sab. 4:1).
 
 2. Padres e membros de comunidades religiosas, tanto homens quanto mulheres, estão obrigados ao celibato e perfeita castidade. Celibato é o estado de ser não casado.
 
-> São Paulo elogiou o estado de celibato: "Digo aos não casados e às viúvas, é bom para eles se assim permanecem, mesmo como eu" (1 Cor. 7:8). Disse: "Aquele que dá sua virgem em casamento faz bem e aquele que não a dá faz melhor" (1 Cor. 7:38).
+> São Paulo elogiou o estado de celibato: "Digo aos não casados, e às viúvas, é bom para eles se assim permanecem, mesmo como eu" (1 Cor. 7:8). Disse: "Aquele que dá sua virgem em casamento faz bem e aquele que não a dá faz melhor" (1 Cor. 7:38).
 
 3. Mesmo os pagãos reconhecem e honram a virtude da castidade virginal. Se os pagãos respeitam aqueles que preferem virgindade ao estado matrimonial, quanto mais devem os cristãos respeitar aqueles que, de motivos sobrenaturais, escolhem viver uma vida de castidade!
 
@@ -71,6 +71,6 @@
 
 > Cristo foi perfeitamente obediente a Seu Pai celestial. Nunca buscou Sua própria vontade mas sempre a vontade do Pai Que O enviou. Foi obediente a Sua Mãe e a São José.
 
-2. Todos os homens estão obrigados a render cristã obediência a seus superiores segundo seu estado. Crianças devem obedecer a seus pais; cidadãos devem obedecer às autoridades civis; todos devem obedecer a seus superiores espirituais. Mas esta obrigação deixa-nos livres em muitas coisas; não vincula todas nossas ações. Obediência perfeita por outro lado requer-nos obedecer em tudo. É o maior sacrifício que podemos dar a Deus.
+2. Todos os homens estão obrigados a render cristã obediência a seus superiores segundo seu estado. Crianças devem obedecer a seus pais; cidadãos devem obedecer às autoridades civis; todos devem obedecer a seus superiores espirituais. Mas esta obrigação deixa-nos livres em muitas coisas; não vincula todas nossas ações. Obediência perfeita, por outro lado, requer-nos obedecer em tudo. É o maior sacrifício que podemos dar a Deus.
 
 > Se jejuamos, damos esmolas ou perdemos nossa reputação por amor de Deus, apenas damos uma parte de nós mesmos. Mas se damos perfeita obediência, sacrificamos nossa vontade; damos tudo que temos. Não temos nada mais para dar.

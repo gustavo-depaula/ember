@@ -53,7 +53,7 @@
 
 > "E seus pais iam todos os anos a Jerusalém, na festa solene da Páscoa" (Lucas 2:41).
 
-2. Os principais lugares de peregrinação são: a Terra Santa, onde Nosso Senhor viveu e morreu, a Cidade do Vaticano com seus lugares sagrados, santuários da Santíssima Virgem, e locais sagrados aos Apóstolos. Aqueles em peregrinação não devem agir como turistas curiosos simplesmente intentando passear. Devem lembrar-se de seu propósito de honrar a Deus, e agir de acordo, caso contrário sua visita a lugares santos perde seu mérito.
+2. Os principais lugares de peregrinação são: a Terra Santa, onde Nosso Senhor viveu e morreu, a Cidade do Vaticano com seus lugares sagrados, santuários da Santíssima Virgem, e locais sagrados aos Apóstolos. Aqueles em peregrinação não devem agir como turistas curiosos simplesmente intentando passear. Devem lembrar-se de seu propósito de honrar a Deus, e agir de acordo; caso contrário, sua visita a lugares santos perde seu mérito.
 
 > Na Terra Santa, os principais lugares de peregrinação são a cena da Crucificação e o Santo Sepulcro no Monte Calvário em Jerusalém, o lugar da Natividade em Belém, e o lugar da Anunciação em Nazaré.
 

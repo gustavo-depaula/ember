@@ -49,7 +49,7 @@ Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, 
 
 — Nossa contrição é imperfeita quando estamos arrependidos de nossos pecados porque são odiosos em si mesmos ou porque tememos o castigo de Deus.
 
-1. Contrição imperfeita é chamada ***atrição***. O medo do inferno é um motivo comum de atrição. É um bom motivo, mas é imperfeito, porque surge do medo dos castigos de Deus e não de puro amor por Ele.
+1. Contrição imperfeita é chamada ***atrição***. O medo do inferno é um motivo comum de atrição. É um bom motivo, mas é imperfeito, porque surge do medo dos castigos de Deus, e não de puro amor por Ele.
 
 > Uma mãe enviou seus três filhos jovens para levar um grande pote de mel à sua avó. No caminho os meninos pararam para brincar. Tropeçaram no pote, quebrando-o e derramando o mel. Todos começaram a chorar. O primeiro disse, "Mãe certamente nos baterá!" O segundo chorou, "Ela... ficará tão descontente que não nos dará biscoitos!" E o terceiro chorou, "Mãe certamente ficará triste!"
 
@@ -57,7 +57,7 @@ Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, 
 
 2. Contrição imperfeita ou atrição é suficiente para uma recepção digna do sacramento da Penitência; um ato de atrição não pode obter perdão de pecado mortal sem a absolvição de um padre.
 
-> Contudo, mesmo se sentimos apenas atrição por nossos pecados, podemos facilmente desenvolvê-la em perfeita contrição lembrando o que deveríamos ser sem Deus. Devemos sempre tentar ter perfeita contrição no sacramento da Penitência, porque perfeita contrição é mais agradável a Deus e porque com Sua ajuda podemos sempre tê-la.
+> Contudo, mesmo se sentimos apenas atrição por nossos pecados, podemos facilmente desenvolvê-la em perfeita contrição lembrando o que deveríamos ser sem Deus. Devemos sempre tentar ter perfeita contrição no sacramento da Penitência, porque perfeita contrição é mais agradável a Deus, e porque com Sua ajuda podemos sempre tê-la.
 
 3. Um medo puramente servil de Deus não é suficiente para contrição imperfeita. É aquele que faz uma pessoa evitar o pecado apenas por causa do castigo; de modo que, se não houvesse castigo, não estaria arrependida, mas pronta e resolvida a pecar, independentemente das leis de Deus.
 

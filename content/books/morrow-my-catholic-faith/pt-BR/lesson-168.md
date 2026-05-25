@@ -9,15 +9,15 @@
 
 — A Igreja não tem a autoridade de desculpar ou conceder dispensas de todos os impedimentos; pode conceder dispensas apenas de tais impedimentos que surgem de suas próprias leis, mas não de tais que surgem de leis divinas ou naturais.
 
-> Impedimentos da lei natural, que é apenas parte da lei divina, são imutáveis e não pode ser dada qualquer dispensa. Um exemplo é o casamento de pais e filhos ou de uma pessoa casada cujo cônjuge ainda está vivo.
+> Impedimentos da lei natural, que é apenas parte da lei divina, são imutáveis e não pode ser dada qualquer dispensa. Um exemplo é o casamento de pais e filhos, ou de uma pessoa casada cujo cônjuge ainda está vivo.
 
 1. Dispensas são concedidas quando há suficiente razão ou necessidade. O bispo e o padre paroquial têm a autoridade de investigar cada caso.
 
-> Nem todos os impedimentos são concedidos dispensa com igual facilidade. Impedimentos proibitivos são mais facilmente concedidos dispensas que dirimentes. Muito raramente pode uma dispensa ser obtida de votos solenes ou de ordens maiores, quando uma das partes contratantes é não batizada ou quando o casamento proposto é entre parentes de sangue tão próximos como tio e sobrinha, tia e sobrinho.
+> Nem todos os impedimentos são concedidos dispensa com igual facilidade. Impedimentos proibitivos são mais facilmente concedidos dispensas que dirimentes. Muito raramente pode uma dispensa ser obtida de votos solenes ou de ordens maiores, quando uma das partes contratantes é não batizada, ou quando o casamento proposto é entre parentes de sangue tão próximos como tio e sobrinha, tia e sobrinho.
 
 2. Para desencorajar a busca desnecessária por dispensas, uma taxa é requerida segundo os meios do peticionário. Estas taxas ajudam a manter as cortes matrimoniais estabelecidas para salvaguardar o casamento.
 
-> Dispensas matrimoniais são concedidas (a) em favor de um casamento planejado ou (b) para legitimizar um já contraído. Aos pobres são concedidas dispensas sem custo.
+> Dispensas matrimoniais são concedidas (a) em favor de um casamento planejado, ou (b) para legitimizar um já contraído. Aos pobres são concedidas dispensas sem custo.
 
 
 **A Igreja proíbe católicos de contrair casamento com não católicos?**
@@ -43,7 +43,7 @@
 
 1. É um erro pensar que a Igreja proíbe a contração de casamento em qualquer dia do ano. Apenas proíbe celebrações ou sinais de regozijo que não harmonizam com o espírito das estações penitenciais. Um casamento pode ocorrer sem a Missa Nupcial e bênção em qualquer dia do ano.
 
-> É proibido ter a Missa Nupcial e bênção durante os tempos fechados que são estações de penitência; isto é, do primeiro Domingo do Advento até o Dia de Natal inclusive e da Quarta-Feira de Cinzas até o Domingo de Páscoa inclusive. Isto é o que se entende pela proibição de "solenizar" casamentos.
+> É proibido ter a Missa Nupcial e bênção durante os tempos fechados que são estações de penitência; isto é, do primeiro Domingo do Advento até o Dia de Natal inclusive, e da Quarta-Feira de Cinzas até o Domingo de Páscoa inclusive. Isto é o que se entende pela proibição de "solenizar" casamentos.
 
 2. Bons católicos devem evitar marcar a data de seu casamento durante as estações fechadas de Advento e Quaresma, por um desejo de estar unido com o espírito da Igreja. É bastante descuidado ter públicas celebrações mundanas num período em que a Mãe Igreja está em traje penitencial. Além disso, se católicos realizassem o valor e beleza de uma Missa Nupcial, que não é dita durante as estações penitenciais, hesitariam em tê-la omitida para aquele memorável dia de seu casamento.
 

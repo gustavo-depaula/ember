@@ -9,7 +9,7 @@
 
 — Não devemos estar satisfeitos meramente em guardar os mandamentos de Deus, mas devemos estar sempre prontos a fazer boas obras, mesmo quando não são comandadas.
 
-1. Se apenas dermos a Deus o que Ele nos comanda dar, estaríamos fazendo apenas o que é absolutamente necessário. Num tal caso, iríamos à igreja apenas uma vez por semana, mais seis dias santos de obrigação por ano; iríamos à Confissão apenas uma vez por ano e receberíamos a Santa Comunhão apenas durante o Tempo Pascal. Fazendo estas coisas e evitando toda séria violação dos Mandamentos, ainda estaríamos obedecendo a Deus e guardando-nos do pecado mortal e salvando nossas almas.
+1. Se apenas dermos a Deus o que Ele nos comanda dar, estaríamos fazendo apenas o que é absolutamente necessário. Num tal caso, iríamos à igreja apenas uma vez por semana, mais seis dias santos de obrigação por ano; iríamos à Confissão apenas uma vez por ano, e receberíamos a Santa Comunhão apenas durante o Tempo Pascal. Fazendo estas coisas e evitando toda séria violação dos Mandamentos, ainda estaríamos obedecendo a Deus e guardando-nos do pecado mortal e salvando nossas almas.
 
 > O que pensarias de um filho que dá a seus pais apenas o que é demandado dele? O que pensarias dele se nunca mostrasse a eles qualquer afeição, nunca fizesse nada extra para eles para mostrar seu amor e gratidão? Diríamos que ele é um filho anormal, uma criança antinatural.
 
@@ -20,7 +20,7 @@
 
 **Em que consiste a perfeição cristã?**
 
-— A perfeição cristã consiste na união com Deus pela prática da virtude; requer amor a Deus e ao próximo e desapego do coração das coisas deste mundo.
+— A perfeição cristã consiste na união com Deus pela prática da virtude; requer amor a Deus e ao próximo, e desapego do coração das coisas deste mundo.
 
 > Por esforçar-nos após a verdadeira perfeição cristã, tornamos mais clara e mais clara em nós a verdadeira imagem de Deus. Não é isto um maravilhoso incentivo?
 
@@ -30,7 +30,7 @@
 
 2. Deus requer que todos aspirem à perfeição cristã. Ele diz: "Sede, portanto, perfeitos como vosso Pai celestial é perfeito" (Mat. 5:48).
 
-> Aqueles que praticam virtude receberão uma eterna recompensa e são felizes mesmo na terra. Daí Nosso Senhor pronuncia-os bem-aventurados nas Bem-Aventuranças (Mat. 5:3-10).
+> Aqueles que praticam virtude receberão uma eterna recompensa, e são felizes mesmo na terra. Daí Nosso Senhor pronuncia-os bem-aventurados nas Bem-Aventuranças (Mat. 5:3-10).
 
 3. Todos os estados de vida podem ser santificados por aqueles que desejam apenas viver para Deus. Santos são encontrados em cada classe. Amor a Deus está no poder de todos.
 

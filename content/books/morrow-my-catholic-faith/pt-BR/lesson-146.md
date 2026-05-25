@@ -49,11 +49,11 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 > Mesmo a leve perda de temperamento ou desconforto surgindo do pecado venial não é compensada por qualquer alívio ou prazer que possamos obter dele. E incorreremos nos sofrimentos do purgatório e separação de Deus?
 
-3. Pecado venial é um passo para o pecado mortal. Causa descuido em relação aos pecados e leva-nos à preguiça em relação às boas obras. Tendo esfriado em nosso zelo, começamos a negligenciar pequenas faltas e logo consideramos as maiores com indiferença.
+3. Pecado venial é um passo para o pecado mortal. Causa descuido em relação aos pecados, e leva-nos à preguiça em relação às boas obras. Tendo esfriado em nosso zelo, começamos a negligenciar pequenas faltas e logo consideramos as maiores com indiferença.
 
 > E assim, sendo descuidados sobre o pecado venial, caímos no pecado mortal "pouco a pouco". Nenhum homem caiu subitamente no vício; o vício é um hábito de pecado.
 
-4. Pecado venial priva-nos de muitas graças pelas quais poderíamos merecer mais ajuda e amor de Deus. Ao ir à Confissão e se temos apenas pecados veniais para confessar, devemos estar arrependidos de pelo menos um deles ou de algum pecado de nosso passado que confessamos; do contrário a confissão não é válida.
+4. Pecado venial priva-nos de muitas graças pelas quais poderíamos merecer mais ajuda e amor de Deus. Ao ir à Confissão, e se temos apenas pecados veniais para confessar, devemos estar arrependidos de pelo menos um deles ou de algum pecado de nosso passado que confessamos; do contrário a confissão não é válida.
 
 
 **Por que devemos ter contrição pelo pecado mortal?**

@@ -2,24 +2,24 @@
 
 ![](../images/lesson-164.webp)
 
-*1. Toda família católica deve ter a Sagrada Família de Nazaré, Jesus, Maria e José, como seu modelo e viver em santidade e amor mútuo.*
+*1. Toda família católica deve ter a Sagrada Família de Nazaré, Jesus, Maria e José, como seu modelo, e viver em santidade e amor mútuo.*
 
 *2. Toda família deve preservar o costume de ter orações em família em alguma hora da manhã ou tarde, orando como um, numa unidade de culto.*
 
 
 **Qual é o principal dever de marido e mulher no estado matrimonial?**
 
-— O principal dever de marido e mulher no estado matrimonial é ser fiel um ao outro e prover de todo modo para o bem-estar dos filhos que Deus possa dar-lhes.
+— O principal dever de marido e mulher no estado matrimonial é ser fiel um ao outro, e prover de todo modo para o bem-estar dos filhos que Deus possa dar-lhes.
 
 1. Marido e mulher devem confortar e apoiar-se um ao outro nas atividades de sua vida comum, no cumprimento de seus deveres individuais assim como mútuos, em todos os assuntos importantes, tanto espirituais quanto materiais. "Agora já não são dois, mas uma só carne" (Mat. 19:6).
 
-> A esposa precisa do marido para apoiar-se; o marido precisa de sua mulher para confortar e cuidar dele. O homem é o provedor e a cabeça; a mulher é a rainha e mãe. No verdadeiro casamento cristão não há questão de egoísmo, competição ou superioridade entre os esposos, pois eles dois são "uma só carne".
+> A esposa precisa do marido para apoiar-se; o marido precisa de sua mulher para confortar e cuidar dele. O homem é o provedor e a cabeça; a mulher é a rainha e mãe. No verdadeiro casamento cristão não há questão de egoísmo, competição, ou superioridade entre os esposos, pois eles dois são "uma só carne".
 
-2. Marido e mulher devem ser fiéis a seus votos matrimoniais; devem fidelidade um ao outro. Devem muito cuidadosamente evitar mesmo a aparência de infidelidade, pois onde ciúme é despertado, a felicidade conjugal termina. Devem suportar as faltas e enfermidades um do outro e não arruinar sua vida doméstica por dissensões.
+2. Marido e mulher devem ser fiéis a seus votos matrimoniais; devem fidelidade um ao outro. Devem muito cuidadosamente evitar mesmo a aparência de infidelidade, pois onde ciúme é despertado, a felicidade conjugal termina. Devem suportar as faltas e enfermidades um do outro, e não arruinar sua vida doméstica por dissensões.
 
 > A mulher influenciará seu marido para o bem mais efetivamente por silêncio, mansidão e oração do que por resmungar e escandaloso ralhar. O marido deve lembrar que sua mulher também precisa de companhia; não deve estar longe por muito tempo.
 
-3. Os esposos devem sempre viver juntos e ter uma real vida de família cristã. Devem contudo lembrar que todas as relações matrimoniais devem estar de acordo com a lei divina e natural na "fidelidade da castidade".
+3. Os esposos devem sempre viver juntos e ter uma real vida de família cristã. Devem, contudo, lembrar que todas as relações matrimoniais devem estar de acordo com a lei divina e natural na "fidelidade da castidade".
 
 > Sua afeição não deve ser puramente humana, mas santa e sobrenatural, de acordo com o propósito de seu estado, que foi instituído por Deus. "Pois somos filhos de santos: e não devemos ser unidos juntos como pagãos que não conhecem a Deus" (Tob. 8:5).
 
@@ -34,9 +34,9 @@
 
 1. O propósito primário do casamento é a geração e criação de filhos no temor e amor de Deus, para que possam juntar-se a Ele no céu algum dia.
 
-> Já que o propósito primário do casamento é trazer filhos ao mundo, qualquer tentativa de frustrar este propósito enquanto fazendo uso de seus meios é intrinsecamente mau, contra a lei natural e divina e necessariamente um pecado grave. É por isto que tais procedimentos como controle de natalidade, aborto e esterilização são pecados mortais e violações do sacramento.
+> Já que o propósito primário do casamento é trazer filhos ao mundo, qualquer tentativa de frustrar este propósito enquanto fazendo uso de seus meios é intrinsecamente mau, contra a lei natural e divina, e necessariamente um pecado grave. É por isto que tais procedimentos como controle de natalidade, aborto e esterilização são pecados mortais e violações do sacramento.
 
-2. Alguns pais estão em grande esforço para acumular riqueza para legar a seus filhos mas não prestam atenção à sua criação. O melhor legado que podem deixar a seus filhos é o amor de Deus.
+2. Alguns pais estão em grande esforço para acumular riqueza para legar a seus filhos, mas não prestam atenção à sua criação. O melhor legado que podem deixar a seus filhos é o amor de Deus.
 
 > A educação religiosa da criança depende principalmente da mãe. Uma mãe que gasta seu tempo fofocando com seus vizinhos, indo de uma função social a outra ou absorvendo-se em diversões inúteis para a negligência de seus filhos tem muito a responder diante de Deus. Quão felizes bons pais estarão quando forem diante do tribunal de Deus e forem capazes de dizer: "Aqueles que Me deste guardei" (João 17:12).
 
