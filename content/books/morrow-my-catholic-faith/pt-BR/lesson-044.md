@@ -9,11 +9,11 @@
 
 — Humildade é aquela virtude moral que nos dispõe a apreciar e reconhecer nossa verdadeira posição com respeito a Deus e nossos semelhantes.
 
-> Jesus Cristo frequentemente louvou e recomendou a humildade. "Se não vos converterdes e vos tornardes como criancinhas, não entrareis no reino dos céus" (Mat. 18: 3). Sempre atendeu as orações dos humildes, como a do centurião (Mat. 8: 11). "Se alguém quiser ser o primeiro, será o último de todos e servo de todos" (Mar. 9: 34).
+> Jesus Cristo frequentemente louvou e recomendou a humildade. "Se não vos converterdes e vos tornardes como criancinhas, não entrareis no reino dos céus" (Mat. 18:3). Sempre atendeu as orações dos humildes, como a do centurião (Mat. 8:11). "Se alguém quiser ser o primeiro, será o último de todos e servo de todos" (Mar. 9:34).
 
 1. O homem humilde reconhece Deus como a fonte de todas as coisas excelentes que possa possuir. Reconhece suas limitações, seu próprio nada, e a inutilidade de todas as coisas terrenas sem Deus.
 
-> Comparados a Deus, o que somos? Todas as coisas passam; só Deus é eterno. Estas simples verdades nos ajudarão a manter humildes; sem Deus nada somos. Pratiquemos o conselho de Nosso Senhor. "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11: 29).
+> Comparados a Deus, o que somos? Todas as coisas passam; só Deus é eterno. Estas simples verdades nos ajudarão a manter humildes; sem Deus nada somos. Pratiquemos o conselho de Nosso Senhor. "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11:29).
 
 2. O homem humilde sabe que as coisas terrenas têm valor apenas se nos levam a Deus. Seu desapego de todas as coisas mundanas o liberta de todo temor humano.
 
@@ -21,11 +21,11 @@
 
 3. O homem humilde tem seu melhor modelo no Próprio Filho de Deus, Jesus Cristo, Que Se humilhou por amor aos homens.
 
-> "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11: 29). O Filho de Deus Se humilhou quando desceu à terra como homem. Veio como homem pobre, aos olhos do mundo o filho de um carpinteiro. Seus companheiros eram simples pescadores. Associava-Se com os humildes, com pecadores até. Na Última Ceia, lavou os pés de Seus apóstolos. Foi posto à morte na cruz, o modo de morte então mais desprezado.
+> "Aprendei de Mim, pois sou manso e humilde de coração" (Mat. 11:29). O Filho de Deus Se humilhou quando desceu à terra como homem. Veio como homem pobre, aos olhos do mundo o filho de um carpinteiro. Seus companheiros eram simples pescadores. Associava-Se com os humildes, com pecadores até. Na Última Ceia, lavou os pés de Seus apóstolos. Foi posto à morte na cruz, o modo de morte então mais desprezado.
 
-4. Nosso Senhor continuamente nos exortou à humildade; como quando disse: "Aquele que é o maior entre vós será vosso servo" (Mat. 23: 11).
+4. Nosso Senhor continuamente nos exortou à humildade; como quando disse: "Aquele que é o maior entre vós será vosso servo" (Mat. 23:11).
 
-> Na parábola do Fariseu e do Publicano Cristo exaltou a humildade; como também o fez quando, tomando uma criancinha, disse: "Qualquer, pois, que se humilhar como esta criancinha, esse é o maior no reino dos céus" (Mat. 18: 4). E novamente disse, após pregar a Seus discípulos: "Quando tiverdes feito tudo o que vos foi ordenado, dizei: Somos servos inúteis'" (Luc. 17: 10).
+> Na parábola do Fariseu e do Publicano Cristo exaltou a humildade; como também o fez quando, tomando uma criancinha, disse: "Qualquer, pois, que se humilhar como esta criancinha, esse é o maior no reino dos céus" (Mat. 18:4). E novamente disse, após pregar a Seus discípulos: "Quando tiverdes feito tudo o que vos foi ordenado, dizei: Somos servos inúteis'" (Luc. 17:10).
 
 5. Humildade é oposta tanto ao orgulho quanto à auto-abjeção excessiva e afetada.
 
@@ -53,7 +53,7 @@
 
 1. Castidade, oposta à luxúria, nos dispõe a preservar a mente e o corpo de tudo o que é impuro. Castidade é pureza. É chamada a virtude angélica, porque faz os homens assemelharem-se aos anjos no céu.
 
-> Castidade dá saúde à alma e luz ao entendimento; ajuda a sabedoria e desenvolve força de caráter. Judite, uma mulher fraca, teve a coragem de ir ao acampamento inimigo, e retornou com a cabeça de Holofernes; dela a Sagrada Escritura diz: "Agiste varonilmente e teu coração foi fortalecido, porque amaste a castidade" (Judite 15: 11). Milhares de mártires morreram em defesa desta virtude da santa castidade.
+> Castidade dá saúde à alma e luz ao entendimento; ajuda a sabedoria e desenvolve força de caráter. Judite, uma mulher fraca, teve a coragem de ir ao acampamento inimigo, e retornou com a cabeça de Holofernes; dela a Sagrada Escritura diz: "Agiste varonilmente e teu coração foi fortalecido, porque amaste a castidade" (Judite 15:11). Milhares de mártires morreram em defesa desta virtude da santa castidade.
 
 2. Para os solteiros, a castidade proíbe a indulgência do apetite sexual; para os casados, regula o uso daquele apetite de acordo com os ditames da reta razão. É errado supor que a castidade não é uma virtude para os casados. Deus requer castidade de todos, em todos os estados de vida. Um casamento casto é a base da família cristã.
 
@@ -63,6 +63,6 @@
 
 > Jesus Cristo, Nossa Senhora, São José e outros santos certamente conheciam os fatos do sexo; mas tal conhecimento não estragou sua castidade imaculada.
 
-4. Sejamos cuidadosos com a companhia que mantemos, e evitemos todas as ocasiões de pecado para preservar a virtude da castidade. Formemos o hábito da temperança em todas as coisas, de modo a fortalecer nosso autocontrole. Devemos frequentemente recorrer à oração e aos sacramentos, recebendo-os frequentemente. "Andai no Espírito, e não cumprireis as concupiscências da carne" (Gál. 5: 16). (Veja Capítulo 25 sobre Orgulho, Avareza, Luxúria)
+4. Sejamos cuidadosos com a companhia que mantemos, e evitemos todas as ocasiões de pecado para preservar a virtude da castidade. Formemos o hábito da temperança em todas as coisas, de modo a fortalecer nosso autocontrole. Devemos frequentemente recorrer à oração e aos sacramentos, recebendo-os frequentemente. "Andai no Espírito, e não cumprireis as concupiscências da carne" (Gál. 5:16). (Veja Capítulo 25 sobre Orgulho, Avareza, Luxúria)
 
 > Tenhamos uma devoção especial à Santíssima Virgem, e peçamos-Lhe diariamente que nos preserve em castidade. A seguinte oração em muitos casos tem sido encontrada eficaz em implorar à Santíssima Virgem preservar a castidade de alguém: "Minha Rainha, minha Mãe! Dou-me inteiramente a Vós; e para mostrar minha devoção a Vós, consagro-Vos este dia meus olhos, meus ouvidos, minha boca, meu coração, meu ser inteiro sem reserva. Portanto, boa Mãe, como sou Vosso, guardai-me, protejei-me como Vossa propriedade e posse."

@@ -11,7 +11,7 @@
 
 1. Uma união mais estreita com Nosso Senhor e um amor mais fervoroso a Deus e ao próximo. O que comida e bebida fazem pelo corpo, a Eucaristia faz pela alma. Une nosso corpo e alma àquele de Cristo.
 
-> Na Santa Comunhão tornamo-nos unidos com Cristo, como Ele Mesmo prometeu, "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele" (João 6: 57).
+> Na Santa Comunhão tornamo-nos unidos com Cristo, como Ele Mesmo prometeu, "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele" (João 6:57).
 
 2. Um aumento da graça santificante. A Santa Comunhão torna-nos mais agradáveis a Deus por um aumento de graça, fazendo-nos viver n'Ele e ser feitos semelhantes a Ele.
 

@@ -13,7 +13,7 @@
 
 1. The form must be said at the same time the water is poured, and must be said by the same person pouring the water, so that everything takes place as one act.
 
-> "You" may be substituted for "thee"; but except for this no other changes may be made. For example, the words "of the Holy Trinity" may not be substituted for "of the Father and of the Son and of the Holy Ghost", because Jesus explicitly commanded Baptism to be given "in the name of the Father and of the Son and of the Holy Ghost" (Matt. 28: 19).
+> "You" may be substituted for "thee"; but except for this no other changes may be made. For example, the words "of the Holy Trinity" may not be substituted for "of the Father and of the Son and of the Holy Ghost", because Jesus explicitly commanded Baptism to be given "in the name of the Father and of the Son and of the Holy Ghost" (Matt. 28:19).
 
 2. Baptism is validly administered whether performed by total immersion, by infusion, or by aspersion. By infusion, the water is poured on the head, forehead, or face. In cases of emergency, it may be poured on any part of the body. The water must flow on the skin of the person being baptised, not merely on the hair. By aspersion, water is sprinkled on the head.
 
@@ -21,7 +21,7 @@
 
 3. The water used for solemn Baptism, i.e. when a priest confers it with the ceremonies, is called baptismal water. It is natural water mingled with holy oil and chrism, and blessed with special prayers. Ordinary holy water is not baptismal water.
 
-> Our Lord spoke of "water and the Holy Spirit." Peter baptised Cornelius and his family in water (Acts 10: 47) ; Philip did the same with the eunuch (Acts 8: 38). From the Gospel one cannot conclude the use of anything but water in the baptism administered during Apostolic times.
+> Our Lord spoke of "water and the Holy Spirit." Peter baptised Cornelius and his family in water (Acts 10:47) ; Philip did the same with the eunuch (Acts 8:38). From the Gospel one cannot conclude the use of anything but water in the baptism administered during Apostolic times.
 
 4. In cases of necessity, when someone other than a priest administers the baptism, any natural water, such as water from the sea, river, fountain, faucet, rain, or even mineral water, may be used. Holy water may also be used.
 

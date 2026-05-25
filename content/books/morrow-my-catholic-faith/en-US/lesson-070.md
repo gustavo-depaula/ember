@@ -2,18 +2,18 @@
 
 ![](../images/lesson-070.webp)
 
-*Christ said: "As the branch cannot bear fruit of itself unless it remain on the vine, so neither can you unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither; and they shall gather them up and cast them into the fire, and they shall burn" (John 15: 4-6). Time has continually proved the truth of what Christ predicted about schisms and their divisions. This is the reason for the fact that they change so often and finally disappear: they are branches broken from the tree, and must wither as He said.*
+*Christ said: "As the branch cannot bear fruit of itself unless it remain on the vine, so neither can you unless you abide in me. I am the vine, you are the branches. He who abides in me, and I in him, he bears much fruit; for without me you can do nothing. If anyone does not abide in me, he shall be cast outside as the branch and wither; and they shall gather them up and cast them into the fire, and they shall burn" (John 15:4-6). Time has continually proved the truth of what Christ predicted about schisms and their divisions. This is the reason for the fact that they change so often and finally disappear: they are branches broken from the tree, and must wither as He said.*
 
 
 **What do we mean when we say, "Outside the Church there is no salvation"?**
 
 — When we say, "Outside the Church there is no salvation", we mean that those who through their own grave fault do not know that the Catholic Church is the true Church, or knowing it, refuse to join it, cannot be saved.
 
-1. All are obliged to belong to the Catholic Church in order to be saved. Christ said: "Amen, amen, I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3: 5).
+1. All are obliged to belong to the Catholic Church in order to be saved. Christ said: "Amen, amen, I say to thee, unless a man be born again of water and the Spirit, he cannot enter into the kingdom of God" (John 3:5).
 
 > The Catholic Church is founded on the Apostles, to whom Our Lord gave the commission to baptise; by Baptism, one is made a member of the Church. If then Baptism is indispensable, the Church must be indispensable.
 
-2. Christ did not die for a part of, but for all mankind. He did not leave His legacy the Church for the benefit of a few, but for all. Our Lord said: "He who hears you hears me; and he who rejects you rejects me" (Luke 10: 16).
+2. Christ did not die for a part of, but for all mankind. He did not leave His legacy the Church for the benefit of a few, but for all. Our Lord said: "He who hears you hears me; and he who rejects you rejects me" (Luke 10:16).
 
 > Since God commanded all to be members of His Church, those who deliberately disobey His command will not be saved. Whoever, through his own fault, remains outside of the Catholic Church, will be lost eternally.
 
@@ -40,7 +40,7 @@
 
 1. God condemns no man except for grave sin. Therefore He will not condemn those who through no fault of their own are unaware of His command to belong to the True Church, provided they serve Him faithfully according to their conscience, have a sincere desire to do His will in all things, and therefore implicitly wish to become members of His Church. They are members of the Church, in desire.
 
-> A baptised Protestant, of Protestant parents, lives all his life a Protestant without ever having a doubt that he is in the wrong. Before death, he makes an act of perfect contrition for the sins he has committed. Such a man will be saved, for he dies in the state of grace. It is possible for one that has never even heard of Jesus Christ to be saved, for God "wishes all men to be saved and to come to the knowledge of the truth" (1 Tim. 2: 4) and "Christ died for all" (2 Cor. 5: 15). In order that such a one may be saved, it is required that he observe the natural law; with the help of God; everyone having the use of reason can do that.
+> A baptised Protestant, of Protestant parents, lives all his life a Protestant without ever having a doubt that he is in the wrong. Before death, he makes an act of perfect contrition for the sins he has committed. Such a man will be saved, for he dies in the state of grace. It is possible for one that has never even heard of Jesus Christ to be saved, for God "wishes all men to be saved and to come to the knowledge of the truth" (1 Tim. 2:4) and "Christ died for all" (2 Cor. 5:15). In order that such a one may be saved, it is required that he observe the natural law; with the help of God; everyone having the use of reason can do that.
 >
 > Whoever then obeys the natural law will be enlightened by God, at some time in his life, with the grace with which he can make an act of Divine faith. If he makes good use of this grace and firmly believes whatever God has revealed, he will receive the further graces with which he can make the acts of hope, repentance, and charity that must precede before God will bestow on his soul sanctifying grace, with which he can merit eternal life.
 

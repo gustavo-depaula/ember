@@ -54,15 +54,15 @@
 
 Aquele que conhece a Igreja Católica como a Verdadeira Igreja, contudo recusa-se a juntar-se e obedecer-lhe, é culpado de resistir à verdade cristã conhecida, uma forma de idolatria, já que por ela obstinadamente nega o culto devido a Deus.
 
-> Os Escribas e Fariseus conheciam bem todas as profecias concernentes ao Messias. Jesus Cristo provou-Se o Messias prometido por maravilhosos milagres, após anunciar-Se como o Filho de Deus. Mas seu orgulho foi uma barreira ao seu humilde reconhecimento de Jesus; caluniaram-No e perseguiram-No ao extremo. Foram culpados de resistir à verdade cristã conhecida. Maçons, especialmente aqueles que nasceram e foram criados católicos, podem ser culpados deste pecado se não permitirem que um padre se aproxime deles em seu leito de morte; "Tapam seus ouvidos, para não ouvir, e fazem seu coração como pedra de diamante" (Zac. 7: 11).
+> Os Escribas e Fariseus conheciam bem todas as profecias concernentes ao Messias. Jesus Cristo provou-Se o Messias prometido por maravilhosos milagres, após anunciar-Se como o Filho de Deus. Mas seu orgulho foi uma barreira ao seu humilde reconhecimento de Jesus; caluniaram-No e perseguiram-No ao extremo. Foram culpados de resistir à verdade cristã conhecida. Maçons, especialmente aqueles que nasceram e foram criados católicos, podem ser culpados deste pecado se não permitirem que um padre se aproxime deles em seu leito de morte; "Tapam seus ouvidos, para não ouvir, e fazem seu coração como pedra de diamante" (Zac. 7:11).
 
 
 **Quando uma pessoa peca por simonia?**
 
 — Uma pessoa peca por simonia quando compra ou vende coisas ou posições sagradas ou espirituais.
 
-> O termo "simonia" vem de Simão Mago, que ofereceu aos Apóstolos dinheiro para dar-lhe o poder de dar o Espírito Santo (Atos 8: 19-20). É simonia vender um rosário por mais que seu preço ordinário por causa de uma bênção que tenha. Assim vendidos, objetos indulgenciados perdem suas indulgências.
+> O termo "simonia" vem de Simão Mago, que ofereceu aos Apóstolos dinheiro para dar-lhe o poder de dar o Espírito Santo (Atos 8:19-20). É simonia vender um rosário por mais que seu preço ordinário por causa de uma bênção que tenha. Assim vendidos, objetos indulgenciados perdem suas indulgências.
 
 Dar dinheiro a um padre para dizer Missa por nossa intenção não é simonia, porque não compramos e não podemos comprar uma Missa. O dinheiro é apenas uma oferta para os materiais para a Missa, e para ajudar a sustentar o padre.
 
-> Como São Paulo disse, "Os que servem ao altar têm sua parte com o altar. Assim também o Senhor ordenou que os que pregam o Evangelho vivessem do evangelho" (1 Cor. 9: 14). Não seria para a dignidade do sacerdócio nem para o benefício do trabalho religioso se padres tivessem que trabalhar em ocupações seculares para sustentar-se.
+> Como São Paulo disse, "Os que servem ao altar têm sua parte com o altar. Assim também o Senhor ordenou que os que pregam o Evangelho vivessem do evangelho" (1 Cor. 9:14). Não seria para a dignidade do sacerdócio nem para o benefício do trabalho religioso se padres tivessem que trabalhar em ocupações seculares para sustentar-se.

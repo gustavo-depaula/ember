@@ -13,7 +13,7 @@
 
 1. A forma deve ser dita ao mesmo tempo que a água é derramada, e deve ser dita pela mesma pessoa derramando a água, para que tudo ocorra como um ato só.
 
-> "Vós" pode ser substituído por "te"; mas exceto por isto nenhuma outra mudança pode ser feita. Por exemplo, as palavras "da Santíssima Trindade" não podem ser substituídas por "do Pai e do Filho e do Espírito Santo", porque Jesus explicitamente comandou o Batismo ser dado "em nome do Pai e do Filho e do Espírito Santo" (Mat. 28: 19).
+> "Vós" pode ser substituído por "te"; mas exceto por isto nenhuma outra mudança pode ser feita. Por exemplo, as palavras "da Santíssima Trindade" não podem ser substituídas por "do Pai e do Filho e do Espírito Santo", porque Jesus explicitamente comandou o Batismo ser dado "em nome do Pai e do Filho e do Espírito Santo" (Mat. 28:19).
 
 2. Batismo é validamente administrado seja realizado por imersão total, por infusão ou por aspersão. Por infusão, a água é derramada na cabeça, testa ou rosto. Em casos de emergência, pode ser derramada em qualquer parte do corpo. A água deve fluir sobre a pele da pessoa sendo batizada, não meramente no cabelo. Por aspersão, água é borrifada na cabeça.
 
@@ -21,7 +21,7 @@
 
 3. A água usada para Batismo solene, isto é, quando um padre o confere com as cerimônias, é chamada água batismal. É água natural misturada com óleo santo e crisma, e abençoada com orações especiais. Água benta ordinária não é água batismal.
 
-> Nosso Senhor falou de "água e o Espírito Santo". Pedro batizou Cornélio e sua família em água (Atos 10: 47); Filipe fez o mesmo com o eunuco (Atos 8: 38). Do Evangelho não se pode concluir o uso de qualquer coisa senão água no batismo administrado durante os tempos apostólicos.
+> Nosso Senhor falou de "água e o Espírito Santo". Pedro batizou Cornélio e sua família em água (Atos 10:47); Filipe fez o mesmo com o eunuco (Atos 8:38). Do Evangelho não se pode concluir o uso de qualquer coisa senão água no batismo administrado durante os tempos apostólicos.
 
 4. Em casos de necessidade, quando alguém que não um padre administra o batismo, qualquer água natural, como água do mar, rio, fonte, torneira, chuva, ou mesmo água mineral, pode ser usada. Água benta pode também ser usada.
 

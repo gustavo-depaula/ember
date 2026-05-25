@@ -14,7 +14,7 @@
 
 — Our Lord Jesus Christ revealed to us the two great commandments.
 
-> Once a doctor of the law asked Jesus: "Master, which is the great commandment in the Law?" Jesus said to him: "Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest and the first commandment. And the second is like it: Thou shalt love thy neighbour as thyself" (Matt. 22: 36-39).
+> Once a doctor of the law asked Jesus: "Master, which is the great commandment in the Law?" Jesus said to him: "Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest and the first commandment. And the second is like it: Thou shalt love thy neighbour as thyself" (Matt. 22:36-39).
 
 1. The love of God is the greatest commandment, because it includes all other commandments.
 
@@ -26,7 +26,7 @@
 
 3. More specifically, the first great commandment embraces the first three of the Ten Commandments; the second great commandment embraces the last seven.
 
-> The two great commandments affect and control all the powers of man: his will, his understanding, his emotions, and his actions. Would we not have a perfect world, needing no other laws, if all men obeyed these two commandments strictly? For this reason, Our Lord said: "On these two commandments depend the whole Law" (Matt. 22: 40).
+> The two great commandments affect and control all the powers of man: his will, his understanding, his emotions, and his actions. Would we not have a perfect world, needing no other laws, if all men obeyed these two commandments strictly? For this reason, Our Lord said: "On these two commandments depend the whole Law" (Matt. 22:40).
 
 
 **Why should we love God?**
@@ -67,11 +67,11 @@
 
 — We prove our love of God by obedience to His commandments.
 
-> "If you love me, keep my commandments" (John 14: 15).
+> "If you love me, keep my commandments" (John 14:15).
 
-1. We show our love more by deeds than by words. St. John says: "My dear children, let us not love in word, neither with the tongue, but in deed" (1 John 3: 18).
+1. We show our love more by deeds than by words. St. John says: "My dear children, let us not love in word, neither with the tongue, but in deed" (1 John 3:18).
 
-> The love of God is not a mere delight in thinking of Him; it consists rather of an act of the will, to live a godly life on account of that love. However, the love of God also makes us speak and think of Him frequently, since it is a human trait to do so regarding the object of affection. One who loves God is united with Him at every moment in every fibre of his being: in thought, word, and deed. "Where thy treasure is, there thy heart also will be" (Matt. 6: 21).
+> The love of God is not a mere delight in thinking of Him; it consists rather of an act of the will, to live a godly life on account of that love. However, the love of God also makes us speak and think of Him frequently, since it is a human trait to do so regarding the object of affection. One who loves God is united with Him at every moment in every fibre of his being: in thought, word, and deed. "Where thy treasure is, there thy heart also will be" (Matt. 6:21).
 
 2. We show greater love, when we not only avoid what God forbids, but do what will give Him pleasure.
 

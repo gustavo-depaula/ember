@@ -19,7 +19,7 @@
 
 2. The civil law does not recognize as holydays some of the Church holydays of obligation; factories, offices, and schools keep open on those days. But even if Catholics must go to work on such holydays, they should at least try to hear Mass. Numerous churches celebrate Mass at an early hour in the morning, as also in the evening.
 
-> Persons not obliged to work on holydays of obligation should avoid doing so. But those who must work need remember only Our Lord's words: "The Sabbath was made for man, and not man for the Sabbath. Therefore the Son of Man is Lord even of the Sabbath" (Mark 3: 4-5).
+> Persons not obliged to work on holydays of obligation should avoid doing so. But those who must work need remember only Our Lord's words: "The Sabbath was made for man, and not man for the Sabbath. Therefore the Son of Man is Lord even of the Sabbath" (Mark 3:4-5).
 
 
 **Which are the holydays of obligation in the Universal Church?**
@@ -28,7 +28,7 @@
 
 1. Christmas Day
 
-> (December 25) On this day we commemorate the birth of Jesus Christ in the stable at Bethlehem. "And it came to pass while they were there, that the days for her to be delivered were fulfilled. And she brought forth her first-born son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn" (Luke 2: 6-7).
+> (December 25) On this day we commemorate the birth of Jesus Christ in the stable at Bethlehem. "And it came to pass while they were there, that the days for her to be delivered were fulfilled. And she brought forth her first-born son, and wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn" (Luke 2:6-7).
 
 2. The Epiphany
 
@@ -36,7 +36,7 @@
 
 3. Ascension Thursday
 
-> (40 days after Easter) Forty days after His Resurrection from the dead, Our Lord ascended into heaven from Mount Olivet. "Now he led them out towards Bethany, and he lifted up his hands and blessed them. And it came to pass as he blessed them, that he parted from them and was carried up into heaven" (Luke 24: 50-51). And when he had said this, he was lifted up before their eyes, and a cloud took him out of their sight. And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, "Men of Galilee, this Jesus who has been taken up from you into heaven, will come in the same way as you have seen him going up to heaven" (Acts. 1:9-11).
+> (40 days after Easter) Forty days after His Resurrection from the dead, Our Lord ascended into heaven from Mount Olivet. "Now he led them out towards Bethany, and he lifted up his hands and blessed them. And it came to pass as he blessed them, that he parted from them and was carried up into heaven" (Luke 24:50-51). And when he had said this, he was lifted up before their eyes, and a cloud took him out of their sight. And while they were gazing up to heaven as he went, behold, two men stood by them in white garments, and said to them, "Men of Galilee, this Jesus who has been taken up from you into heaven, will come in the same way as you have seen him going up to heaven" (Acts. 1:9-11).
 
 4. Corpus Christi
 
@@ -56,7 +56,7 @@
 
 8. The Immaculate Conception
 
-> (December 8). God Himself proclaimed Mary's spotless purity in Paradise (Gen. 3: 15): the archangel Gabriel announced it, calling her "full of grace." Christians throughout the ages have called Mary immaculate; the dogma was declared by the Pope in 1854. It is an article of faith to believe that Mary was conceived entirely free from original sin.
+> (December 8). God Himself proclaimed Mary's spotless purity in Paradise (Gen. 3:15): the archangel Gabriel announced it, calling her "full of grace." Christians throughout the ages have called Mary immaculate; the dogma was declared by the Pope in 1854. It is an article of faith to believe that Mary was conceived entirely free from original sin.
 
 9. Saint Joseph
 

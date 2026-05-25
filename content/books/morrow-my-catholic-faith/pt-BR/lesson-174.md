@@ -11,7 +11,7 @@
 
 1. "Evangélico" aqui significa contido nos Evangelhos; estes conselhos de perfeição são claramente expostos na Sagrada Escritura.
 
-> São chamados conselhos porque são um convite e não um comando; todos são convidados mas ninguém é forçado. "Nem todos podem aceitar este ensino; mas àqueles a quem foi dado" (Mat. 19: 11).
+> São chamados conselhos porque são um convite e não um comando; todos são convidados mas ninguém é forçado. "Nem todos podem aceitar este ensino; mas àqueles a quem foi dado" (Mat. 19:11).
 
 2. Por meio dos conselhos evangélicos as três principais más tendências do homem — avareza, sensualidade e orgulho — são destruídas, capacitando-o a elevar-se mais livremente a Deus.
 
@@ -26,7 +26,7 @@
 
 — Pobreza voluntária é a renúncia de todas as possessões terrenas, por amor de Deus.
 
-1. Cristo aconselhou pobreza voluntária: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres" (Mat. 19: 21).
+1. Cristo aconselhou pobreza voluntária: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres" (Mat. 19:21).
 
 > Nosso Senhor Mesmo foi extremamente pobre. Um estábulo foi Seu local de nascimento; uma pobre mulher foi Sua Mãe; um carpinteiro foi Seu pai adotivo. Não tinha onde reclinar Sua cabeça.
 
@@ -37,9 +37,9 @@
 
 — Castidade perpétua consiste em abster-se de casamento e todos os desejos impuros.
 
-1. Cristo aconselhou perfeita castidade: "Aceite-o quem pode" (Mat. 19: 12). Cristo Mesmo foi perfeitamente casto e virginal. Sua mãe foi uma virgem. Amou crianças, que são virginais.
+1. Cristo aconselhou perfeita castidade: "Aceite-o quem pode" (Mat. 19:12). Cristo Mesmo foi perfeitamente casto e virginal. Sua mãe foi uma virgem. Amou crianças, que são virginais.
 
-> "Ora, concernente às virgens, não tenho mandamento do Senhor: contudo dou uma opinião... Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua mulher; e está dividido. E a mulher não casada e a virgem pensa nas coisas do Senhor, para que seja santa no corpo e no espírito. Enquanto a que é casada pensa nas coisas do mundo, de como agradar ao seu marido" (1 Cor. 7: 25, 32-34).
+> "Ora, concernente às virgens, não tenho mandamento do Senhor: contudo dou uma opinião... Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua mulher; e está dividido. E a mulher não casada e a virgem pensa nas coisas do Senhor, para que seja santa no corpo e no espírito. Enquanto a que é casada pensa nas coisas do mundo, de como agradar ao seu marido" (1 Cor. 7:25, 32-34).
 
 2. O sexto e nono mandamentos de Deus obrigam-nos a viver vidas castas e evitar impureza. Mas castidade vitalícia e perfeita significa além do sacrifício de algo lícito: casamento.
 
@@ -52,11 +52,11 @@
 
 1. Quando Deus desejou dar uma Mãe mortal a Seu Filho, Deus escolheu a mais pura das filhas de Judá, uma virgem, Maria. Quando quis um protetor para a Santíssima Virgem e seu futuro Filho, Deus escolheu um virgem, José, o mais casto dos homens. Cristo Mesmo foi um virgem e o Apóstolo que mais amou, aquele que se recostou sobre Seu peito na Última Ceia e a quem confiou Sua Mãe da cruz, foi também um virgem, São João Evangelista.
 
-> "Ó quão bela é a geração casta com glória, pois a memória dela é imortal: porque é conhecida tanto com Deus quanto com os homens" (Sab. 4: 1).
+> "Ó quão bela é a geração casta com glória, pois a memória dela é imortal: porque é conhecida tanto com Deus quanto com os homens" (Sab. 4:1).
 
 2. Padres e membros de comunidades religiosas, tanto homens quanto mulheres, estão obrigados ao celibato e perfeita castidade. Celibato é o estado de ser não casado.
 
-> São Paulo elogiou o estado de celibato: "Digo aos não casados e às viúvas, é bom para eles se assim permanecem, mesmo como eu" (1 Cor. 7: 8). Disse: "Aquele que dá sua virgem em casamento faz bem e aquele que não a dá faz melhor" (1 Cor. 7: 38).
+> São Paulo elogiou o estado de celibato: "Digo aos não casados e às viúvas, é bom para eles se assim permanecem, mesmo como eu" (1 Cor. 7:8). Disse: "Aquele que dá sua virgem em casamento faz bem e aquele que não a dá faz melhor" (1 Cor. 7:38).
 
 3. Mesmo os pagãos reconhecem e honram a virtude da castidade virginal. Se os pagãos respeitam aqueles que preferem virgindade ao estado matrimonial, quanto mais devem os cristãos respeitar aqueles que, de motivos sobrenaturais, escolhem viver uma vida de castidade!
 
@@ -67,7 +67,7 @@
 
 — Obediência perfeita é a completa sujeição de própria vontade à de um superior.
 
-1. Cristo aconselhou perfeita obediência. Disse a Seus Apóstolos: "Segue-Me." Disse ao jovem rico: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres... e vem, segue-Me" (Mat. 19: 21), isto é, "Vem e serás guiado por Mim em todas as coisas."
+1. Cristo aconselhou perfeita obediência. Disse a Seus Apóstolos: "Segue-Me." Disse ao jovem rico: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres... e vem, segue-Me" (Mat. 19:21), isto é, "Vem e serás guiado por Mim em todas as coisas."
 
 > Cristo foi perfeitamente obediente a Seu Pai celestial. Nunca buscou Sua própria vontade mas sempre a vontade do Pai Que O enviou. Foi obediente a Sua Mãe e a São José.
 

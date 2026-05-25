@@ -15,7 +15,7 @@
 
 2. Nosso Senhor sancionou o uso de sacramentais; Ele abençoou os pães e peixes as crianças pequenas e os Apóstolos antes da Ascensão. Deu aos Apóstolos poder sobre espíritos maus para expulsá-los e curar todos os tipos de doenças.
 
-> No Antigo Testamento lemos da bênção de Deus a nossos primeiros pais de Noé abençoando seus dois filhos de Isaque abençoando Jacó de Jacó abençoando seus doze filhos de Moisés abençoando as tribos de Israel. Os sacerdotes judeus abençoavam o povo cada dia. "Aspergir-me-ás com hissopo e serei limpo" (Sl. 50: 9). "Arrependo-me e faço penitência em pó e cinza" (Jó 42: 6).
+> No Antigo Testamento lemos da bênção de Deus a nossos primeiros pais de Noé abençoando seus dois filhos de Isaque abençoando Jacó de Jacó abençoando seus doze filhos de Moisés abençoando as tribos de Israel. Os sacerdotes judeus abençoavam o povo cada dia. "Aspergir-me-ás com hissopo e serei limpo" (Sl. 50:9). "Arrependo-me e faço penitência em pó e cinza" (Jó 42:6).
 
 3. Orações e cerimônias da Igreja são também sacramentais porque aumentam a devoção no culto a Deus.
 
@@ -40,7 +40,7 @@
 
 3. Objetos abençoados de devoção. — Destes podemos mencionar: santos óleos água benta velas cinzas palmas cruzes e crucifixos escapulários medalhas Agnus Deis terços imagens quadros santos sinos e vestidos abençoados.
 
-> Todos os objetos usados no serviço divino como vasos sagrados roupas paramentos são especialmente abençoados. A Mãe Igreja tem especiais bênçãos para tudo que usamos: para rádios automóveis aviões campos bibliotecas etc. Devemos pedir ao padre abençoar tudo que usamos e temos. Como São Paulo disse: "Seja que comais ou bebais ou façais qualquer outra coisa fazei tudo para a glória de Deus" (1 Cor. 10: 31). Por bênçãos sacramentais consagramos a Deus tudo que somos e temos.
+> Todos os objetos usados no serviço divino como vasos sagrados roupas paramentos são especialmente abençoados. A Mãe Igreja tem especiais bênçãos para tudo que usamos: para rádios automóveis aviões campos bibliotecas etc. Devemos pedir ao padre abençoar tudo que usamos e temos. Como São Paulo disse: "Seja que comais ou bebais ou façais qualquer outra coisa fazei tudo para a glória de Deus" (1 Cor. 10:31). Por bênçãos sacramentais consagramos a Deus tudo que somos e temos.
 
 
 **Em que consiste a bênção para pessoas ou lugares?**

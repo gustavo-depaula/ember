@@ -4,7 +4,7 @@
 
 *1. The greatest calumnies were spoken when false witnesses testified against Jesus before Caiphas. The high priest gave ear to the calumnies and condemned Our Lord to death, although he knew Him to be innocent.*
 
-2. People who gossip and spread tales that detract from the reputation of someone have much to answer for. "Brethren, do not speak against one another. He who speaks against a brother, or judges his brother, speaks against the law and judges the law" (Jas. 4: 11).
+2. People who gossip and spread tales that detract from the reputation of someone have much to answer for. "Brethren, do not speak against one another. He who speaks against a brother, or judges his brother, speaks against the law and judges the law" (Jas. 4:11).
 
 
 **What is lying?**
@@ -19,14 +19,14 @@
 
 2. Flattery consists in praising a person immoderately, against one's conviction, for an ulterior motive. A flatterer lies in order to secure an advantage for himself.
 
-> "A man that speaketh to his friend with flattering and dissembling words spreadeth a net for his feet" (Prov. 29: 5). "It is better to be rebuked by a wise man than to be deceived by the flattery of fools" (Ecclus. 7: 6). "Woe to you that call evil good!" (Is. 5: 20). Flatterers criticize and ridicule a man behind his back, but they praise him before his face.
+> "A man that speaketh to his friend with flattering and dissembling words spreadeth a net for his feet" (Prov. 29:5). "It is better to be rebuked by a wise man than to be deceived by the flattery of fools" (Ecclus. 7:6). "Woe to you that call evil good!" (Is. 5:20). Flatterers criticize and ridicule a man behind his back, but they praise him before his face.
 
 
 **When does a person commit the sin of rash judgement?**
 
 — A person commits the sin of rash judgement when, without sufficient reason, he believes something harmful to another's character.
 
-> People judge others by themselves; he who is not evil will less likely think evil quickly of others; he who is a sinner will interpret the actions of others in an evil manner at once. One's judgement of others is a reflection of his own character. "Charity thinks no evil" (1 Cor. 15: 5). A just person, even when he sees evil, tries to avoid thinking of it, and leaves the judgement to God. A person is guilty of rash suspicion when he suspects on insufficient grounds. "Do not judge, that you may not be judged. For with what judgement you judge, you shall be judged" (Matt. 7: 1-2).
+> People judge others by themselves; he who is not evil will less likely think evil quickly of others; he who is a sinner will interpret the actions of others in an evil manner at once. One's judgement of others is a reflection of his own character. "Charity thinks no evil" (1 Cor. 15:5). A just person, even when he sees evil, tries to avoid thinking of it, and leaves the judgement to God. A person is guilty of rash suspicion when he suspects on insufficient grounds. "Do not judge, that you may not be judged. For with what judgement you judge, you shall be judged" (Matt. 7:1-2).
 
 
 **When does a person commit the sin of detraction?**
@@ -39,7 +39,7 @@
 
 2. Uncharitable conversation is commonly termed backbiting, a cowardly act of discussing the known faults of another without necessity, and behind his back.
 
-> It is wrong to listen to detraction and uncharitable conversation, if we take pleasure in it or encourage it. When the conversation turns to another person's faults, we should try to excuse him or change the subject. "Hast thou heard a word against thy neighbour? Let it die with thee" (Ecclus. 19: 10).
+> It is wrong to listen to detraction and uncharitable conversation, if we take pleasure in it or encourage it. When the conversation turns to another person's faults, we should try to excuse him or change the subject. "Hast thou heard a word against thy neighbour? Let it die with thee" (Ecclus. 19:10).
 
 
 **When does a person commit the sin of calumny or slander?**

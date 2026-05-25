@@ -60,7 +60,7 @@
 
 —The laity can help the Church in the care of souls by leading lives that will reflect credit on the Church, and by cooperating with their bishops and priests, especially through Catholic Action.
 
-> "Even so, let your light shine before men, in order that they may see your good works and give glory to your Father in heaven" (Matthew 5: 16).
+> "Even so, let your light shine before men, in order that they may see your good works and give glory to your Father in heaven" (Matthew 5:16).
 
 1. A good Catholic makes serious efforts to save his soul. He keeps the commandments of God and the Church. He receives the sacraments. He does all things prescribed by Christ through the Church.
 

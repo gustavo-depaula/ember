@@ -46,7 +46,7 @@
 
 2. The heathen, with perverted ideas, offered human sacrifices to their idols.
 
-> The King of Moab (4 Kings 5: 27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10: 20).
+> The King of Moab (4 Kings 5:27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10:20).
 
 ![](../images/lesson-130c.webp)
 
@@ -60,7 +60,7 @@
 
 *Among the Jews there were different ranks or orders of priests, as the high-priest, the priests, and the Levites. These ranks were a figure or type of the different orders that were to be in the Church founded by Jesus Christ. The people faithfully obeyed their priests, and supported them with alms.*
 
-*The Jewish sacrifices were merely types of the Sacrifice of Christ on Calvary, and ceased with the passing of the Old Law. In the New Law, we have the True Sacrifice, the same that Christ offered on Calvary by His death. The High Priest is Christ Himself, and Christ, too, is the Victim. St. Paul said, "It is impossible that sins should be taken away with blood of bulls and of goats" (Heb. 10: 4).*
+*The Jewish sacrifices were merely types of the Sacrifice of Christ on Calvary, and ceased with the passing of the Old Law. In the New Law, we have the True Sacrifice, the same that Christ offered on Calvary by His death. The High Priest is Christ Himself, and Christ, too, is the Victim. St. Paul said, "It is impossible that sins should be taken away with blood of bulls and of goats" (Heb. 10:4).*
 
 ![](../images/lesson-130f.webp)
 

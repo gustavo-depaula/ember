@@ -11,7 +11,7 @@
 
 1. Devemos fazer visitas para honrar Jesus no Santíssimo Sacramento. Se possível devemos fazer pelo menos uma diária visita. Ao passar uma igreja devemos entrar se apenas por meio minuto para saudá-Lo Que sempre espera pacientemente e ansiosamente por nós.
 
-> O Cardeal Belarmino enquanto ainda estudante costumava pagar uma visita ao Santíssimo Sacramento cada vez que passava uma igreja. Quando foi perguntado por que fazia isto respondeu "Seriam maus modos passar pela casa de um amigo sem uma palavra de saudação." A porta da igreja está sempre aberta para admitir-nos um constante convite a nós para visitar Nosso Senhor Que chama "Vinde a mim todos que trabalhas e estais sobrecarregados e Eu vos darei descanso" (Mat. 11: 28).
+> O Cardeal Belarmino enquanto ainda estudante costumava pagar uma visita ao Santíssimo Sacramento cada vez que passava uma igreja. Quando foi perguntado por que fazia isto respondeu "Seriam maus modos passar pela casa de um amigo sem uma palavra de saudação." A porta da igreja está sempre aberta para admitir-nos um constante convite a nós para visitar Nosso Senhor Que chama "Vinde a mim todos que trabalhas e estais sobrecarregados e Eu vos darei descanso" (Mat. 11:28).
 
 2. Bênção do Santíssimo Sacramento é uma devoção durante a qual a Santa Eucaristia é exposta orações são ditas e a bênção é dada. Usualmente dura de dez minutos a meia hora.
 

@@ -24,11 +24,11 @@
 
 1. Without sanctifying grace, the soul is displeasing to God, unclean, and can never behold Him or be with Him in heaven.
 
-> Without sanctifying grace, the soul is without God; and without God, the devil makes the soul his habitation. "Know thou and see that it is an evil and bitter thing for thee to have left the Lord thy God" (Jer. 2: 19).
+> Without sanctifying grace, the soul is without God; and without God, the devil makes the soul his habitation. "Know thou and see that it is an evil and bitter thing for thee to have left the Lord thy God" (Jer. 2:19).
 
 2. The sinner loses charity towards God and his fellow-men, and by the weakening of his will and the darkening of his intellect, is liable to fall into other mortal sins.
 
-> The devil cries to his subordinates, "God hath forsaken him; pursue him and take him, for there is none to deliver him" (Ps. 70: 11).
+> The devil cries to his subordinates, "God hath forsaken him; pursue him and take him, for there is none to deliver him" (Ps. 70:11).
 
 3. Without sanctifying grace, the soul is truly "dead"; and if an adult dies in that state, he will suffer the torments of the damned.
 
@@ -41,7 +41,7 @@
 
 1. Man was made for God, and what an awful calamity it would be to become His enemy! It would be as if the food which was made to support and sustain man should all of a sudden turn to poison him instead.
 
-> Through mortal sin, the sinner becomes a stranger to divine love, and to the love of neighbour; his heart turns cold because he has put out the flame of charity by grave sin. His reason, a gift of God, is obscured, and he fails to perceive the things of God. Thus a sinner, the more he sins, becomes more insensitive to evil; his will is finally so weakened that all conscience is lost, and he falls into greater and greater sins more and more easily. "Adulterers, do you not know that the friendship of this world is enmity with God? Therefore, whoever wishes to be a friend of this world becomes an enemy of God" (Jas. 4: 4).
+> Through mortal sin, the sinner becomes a stranger to divine love, and to the love of neighbour; his heart turns cold because he has put out the flame of charity by grave sin. His reason, a gift of God, is obscured, and he fails to perceive the things of God. Thus a sinner, the more he sins, becomes more insensitive to evil; his will is finally so weakened that all conscience is lost, and he falls into greater and greater sins more and more easily. "Adulterers, do you not know that the friendship of this world is enmity with God? Therefore, whoever wishes to be a friend of this world becomes an enemy of God" (Jas. 4:4).
 
 2. During all the time that the sinner remains in mortal sin, all his good works do not help him to heaven: he earns no merits until he gives up his state of mortal sin.
 
@@ -49,7 +49,7 @@
 
 3. However numerous the merits previously earned by the sinner, however many his good works, if he dies with only one mortal sin on his soul, he goes to hell forever.
 
-> Is this not something to be feared? It is because mortal sin presupposes a hatred of God. Let us be reasonable men, and consider the utter folly of selling our birthright, God and heaven, for the mess of pottage that is sin and its effects. "Then he will say to those on his left hand, 'Depart from me, accursed ones, into the everlasting fire'" (Matt. 25: 41).
+> Is this not something to be feared? It is because mortal sin presupposes a hatred of God. Let us be reasonable men, and consider the utter folly of selling our birthright, God and heaven, for the mess of pottage that is sin and its effects. "Then he will say to those on his left hand, 'Depart from me, accursed ones, into the everlasting fire'" (Matt. 25:41).
 
 
 **What three things are necessary to make a sin mortal?**
@@ -60,7 +60,7 @@
 
 Second, the sinner must be mindful of the serious wrong. - He must have full knowledge and reflection or attention, and know that what he does is grievous.
 
-> The person must know the malice and evil of what he is doing. A man who steals a precious diamond ring in the belief that it is glass has not full knowledge. A man who throws a lighted match thoughtlessly aside may throw it into a gasoline tank and cause an explosion, but he has not full attention. "For I formerly was a blasphemer, a persecutor and a bitter adversary; but I obtained the mercy of God because I acted ignorantly, in unbelief" (1 Tim. 1: 13).
+> The person must know the malice and evil of what he is doing. A man who steals a precious diamond ring in the belief that it is glass has not full knowledge. A man who throws a lighted match thoughtlessly aside may throw it into a gasoline tank and cause an explosion, but he has not full attention. "For I formerly was a blasphemer, a persecutor and a bitter adversary; but I obtained the mercy of God because I acted ignorantly, in unbelief" (1 Tim. 1:13).
 
 Third, the sinner must fully consent to it. - He must do it of his own free will, saying deliberately, "I will do this."
 
@@ -71,16 +71,16 @@ Third, the sinner must fully consent to it. - He must do it of his own free will
 
 — Mortal sin is a great evil, the greatest evil in the world, a greater evil than disease, poverty, or war, because it separates us from God.
 
-> "But they that commit sin and iniquity are enemies to their own soul" (Job. 12: 10).
+> "But they that commit sin and iniquity are enemies to their own soul" (Job. 12:10).
 
 1. It is a rebellion against and contempt of God, the blackest ingratitude towards Him.
 
-> Our heavenly Father gave us everything we have, and in return we offend Him. We desecrate His temple. "Do you not know that you are the temple of God and that the Spirit of God dwells in you?" (1 Cor. 3: 16). By mortal sin, a vile and insignificant creature offends and insults the infinite Creator.
+> Our heavenly Father gave us everything we have, and in return we offend Him. We desecrate His temple. "Do you not know that you are the temple of God and that the Spirit of God dwells in you?" (1 Cor. 3:16). By mortal sin, a vile and insignificant creature offends and insults the infinite Creator.
 
-2. It is crucifying Christ again, "since they crucify again for themselves the Son of God and make him a mockery" (Heb. 6: 6).
+2. It is crucifying Christ again, "since they crucify again for themselves the Son of God and make him a mockery" (Heb. 6:6).
 
 > We can never fully realize the malice of mortal sin. We can get a small idea of it by remembering that God sent His own beloved Son to suffer untold agonies, to save us from its consequences.
 
 3. Mortal sin must be a most terrible thing indeed to make a just and merciful God create hell for the everlasting punishment of the rebellious angels and of sinners who die with even only one mortal sin.
 
-> Even considering only its temporal penalties, mortal sin is great folly. Upon it follows moral disquiet; the sinner loses the serenity and cheerfulness of the just soul. "The wicked are like the raging sea, that cannot rest" (Is. 57: 20). Sickness and want are often consequences of sin, as well as loss of a good reputation.
+> Even considering only its temporal penalties, mortal sin is great folly. Upon it follows moral disquiet; the sinner loses the serenity and cheerfulness of the just soul. "The wicked are like the raging sea, that cannot rest" (Is. 57:20). Sickness and want are often consequences of sin, as well as loss of a good reputation.

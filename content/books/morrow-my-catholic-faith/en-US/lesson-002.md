@@ -2,7 +2,7 @@
 
 ![](../images/lesson-002.webp)
 
-*The Apostles, before they parted, gathered together in Jerusalem in the first Council of the Church. There they decided to put down in a brief statement their principal doctrines, so that their teachings might be uniform wherever they preached. This statement of the articles of faith we call today "The Apostles' Creed." It was formulated in order to put into fruition the command of Our Lord: "Go, therefore, and make disciples of all nations ... teaching them to observe all that I have commanded you; and behold, I am with you all days" (Matt. 28: 19-20).*
+*The Apostles, before they parted, gathered together in Jerusalem in the first Council of the Church. There they decided to put down in a brief statement their principal doctrines, so that their teachings might be uniform wherever they preached. This statement of the articles of faith we call today "The Apostles' Creed." It was formulated in order to put into fruition the command of Our Lord: "Go, therefore, and make disciples of all nations ... teaching them to observe all that I have commanded you; and behold, I am with you all days" (Matt. 28:19-20).*
 
 
 **Where do we find the chief truths taught by Jesus Christ through the Catholic Church?**
@@ -19,7 +19,7 @@
 
 3. The Apostles' Creed has come down to us intact, except for a few clauses added by the Church later, in order to counteract various heresies. These additions, however, are not new doctrines, but a clarification of what the Creed already contained.
 
-> Thus the words "Creator of heaven and earth" were added to counteract the Manichaean heresy that the world was created by the principle of evil; and the word "Catholic" was added, to distinguish the True Church from churches springing up around it. As our Lord said, "And you also bear witness, because from the beginning you are with me" (John 15: 27).
+> Thus the words "Creator of heaven and earth" were added to counteract the Manichaean heresy that the world was created by the principle of evil; and the word "Catholic" was added, to distinguish the True Church from churches springing up around it. As our Lord said, "And you also bear witness, because from the beginning you are with me" (John 15:27).
 
 4. There are several other creeds used by the Church, in substance identical with the Apostles' Creed.
 
@@ -69,7 +69,7 @@
 
 1. Christian faith is a supernatural gift of God which enables us to believe firmly whatever God has revealed, on the testimony of His word. By it we believe in the truth of many things which we cannot grasp with our understanding.
 
-> For example, we believe in God, although we cannot see Him. We believe in the Trinity, although it is beyond our understanding. "Without faith it is impossible to please God" (He. 11: 6).
+> For example, we believe in God, although we cannot see Him. We believe in the Trinity, although it is beyond our understanding. "Without faith it is impossible to please God" (He. 11:6).
 
 2. Faith does not require us to believe in anything contrary to reason. When we believe what we cannot perceive or understand, we act according to reason, which tells us that God cannot err, lie, or deceive us. We therefore put our trust in God's word.
 
@@ -77,7 +77,7 @@
 
 3. A great reward in heaven awaits those who suffer persecution or die for the faith or some Christian virtue. The number of martyrs who have died for the Catholic faith is estimated at more than sixteen millions.
 
-> All the Apostles suffered persecution, and all except St. John suffered death by martyrdom, for their faith. St. John the Baptist was beheaded because he censured Herod for violating the law of marriage. St. John Nepomucene was put to death because he refused to violate the seal of confession. "Therefore, everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32).
+> All the Apostles suffered persecution, and all except St. John suffered death by martyrdom, for their faith. St. John the Baptist was beheaded because he censured Herod for violating the law of marriage. St. John Nepomucene was put to death because he refused to violate the seal of confession. "Therefore, everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10:32).
 
 4. Neglect of the study of the truths of our religion is frequently the cause of lukewarmness, a bad life, and final apostasy and impenitence. We should be zealous in studying the Christian doctrine, in the catechism and religion lessons, in sermons, missions, and retreats.
 

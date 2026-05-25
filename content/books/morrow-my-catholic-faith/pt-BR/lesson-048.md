@@ -46,12 +46,12 @@
 
 1. Os Apóstolos primeiro pregaram na Judeia no próprio primeiro Pentecostes Cristão. Depois dispersaram-se através dos diferentes países do então mundo conhecido. Em toda parte pregavam, batizavam e governavam as comunidades cristãs. Eram os primeiros bispos da Igreja.
 
-> "Como o Pai Me enviou, Eu também vos envio" (João 20: 21).
+> "Como o Pai Me enviou, Eu também vos envio" (João 20:21).
 
-2. Os Apóstolos escolheram homens para assisti-los, conferindo-lhes maiores ou menores poderes. Antes de deixar um lugar, escolhiam um sucessor com plenos poderes (Atos 14: 22).
+2. Os Apóstolos escolheram homens para assisti-los, conferindo-lhes maiores ou menores poderes. Antes de deixar um lugar, escolhiam um sucessor com plenos poderes (Atos 14:22).
 
 > Aqueles que recebiam apenas uma pequena parte dos poderes dos Apóstolos eram chamados diáconos. Aqueles a quem era dado maior poder eram os sacerdotes. Aqueles nomeados sucessores para governar no lugar dos Apóstolos eram os bispos.
 
-3. Cristo havia dado aos Apóstolos plenos poderes para escolher sucessores, quando lhes deu os poderes que Seu Pai Lhe havia dado (João 20: 21).
+3. Cristo havia dado aos Apóstolos plenos poderes para escolher sucessores, quando lhes deu os poderes que Seu Pai Lhe havia dado (João 20:21).
 
-> Era Seu desejo que os Apóstolos tivessem sucessores para continuar a Igreja, que disse duraria até o fim do mundo (Mat. 28: 20). Sem sucessores dos Apóstolos, a Igreja não teria governantes, e sendo desorganizada jamais teria durado.
+> Era Seu desejo que os Apóstolos tivessem sucessores para continuar a Igreja, que disse duraria até o fim do mundo (Mat. 28:20). Sem sucessores dos Apóstolos, a Igreja não teria governantes, e sendo desorganizada jamais teria durado.

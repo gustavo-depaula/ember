@@ -33,7 +33,7 @@ Todas as três Pessoas são iguais em tudo, iguais em poder e glória. Os atribu
 
 — Não podemos compreender plenamente como as três Pessoas Divinas, embora realmente distintas umas das outras, são um e o mesmo Deus, porque isto é um mistério sobrenatural.
 
-1. Um mistério sobrenatural é uma verdade que não podemos compreender plenamente, mas que cremos firmemente porque temos a palavra de Deus para isso. Um mistério sobrenatural está acima da razão, mas não é contrário a ela. Nenhum homem pode explicar um mistério; nem ninguém pode conhecê-lo a menos que seja revelado por Deus. "Grande és Tu, ó Senhor, em conselho, e incompreensível em pensamento" (Jer. 32: 19).
+1. Um mistério sobrenatural é uma verdade que não podemos compreender plenamente, mas que cremos firmemente porque temos a palavra de Deus para isso. Um mistério sobrenatural está acima da razão, mas não é contrário a ela. Nenhum homem pode explicar um mistério; nem ninguém pode conhecê-lo a menos que seja revelado por Deus. "Grande és Tu, ó Senhor, em conselho, e incompreensível em pensamento" (Jer. 32:19).
 
 > Não é irrazoável crer num mistério sobrenatural. Há muitos mistérios naturais ao nosso redor que ninguém ainda pôde explicar, contudo cremos neles: eletricidade, magnetismo, força, e muitos dos processos da vida.
 
@@ -50,15 +50,15 @@ Todas as três Pessoas são iguais em tudo, iguais em poder e glória. Os atribu
 
 — Cremos no mistério da Santíssima Trindade porque o Próprio Deus o revelou a nós.
 
-> "Tua palavra é Verdade" (João 17: 17). O mistério da Santíssima Trindade é o maior de todos os mistérios. Cremos nele porque Deus o revelou a nós, mas não podemos compreendê-lo plenamente. Seria tolice recusar crer apenas porque não podemos compreender; isso seria como um cego que recusa crer que há um sol, porque não pode vê-lo. Está Deus limitado porque nós o estamos?
+> "Tua palavra é Verdade" (João 17:17). O mistério da Santíssima Trindade é o maior de todos os mistérios. Cremos nele porque Deus o revelou a nós, mas não podemos compreendê-lo plenamente. Seria tolice recusar crer apenas porque não podemos compreender; isso seria como um cego que recusa crer que há um sol, porque não pode vê-lo. Está Deus limitado porque nós o estamos?
 
 1. Os judeus não criam explicitamente na Santíssima Trindade, embora haja referências ao mistério no Antigo Testamento.
 
-> Antes de fazer o homem, Deus disse: "Façamos o homem à Nossa imagem" (Gên. 1: 26). Davi diz: "Disse o Senhor ao meu Senhor: Assenta-Te à Minha direita."
+> Antes de fazer o homem, Deus disse: "Façamos o homem à Nossa imagem" (Gên. 1:26). Davi diz: "Disse o Senhor ao meu Senhor: Assenta-Te à Minha direita."
 
 2. Nosso Senhor Jesus Cristo revelou o mistério. Ele disse:
 
-> "Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28: 19). "Mas quando tiver vindo o Consolador, que Eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, Ele dará testemunho de Mim" (João 15: 26).
+> "Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28:19). "Mas quando tiver vindo o Consolador, que Eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, Ele dará testemunho de Mim" (João 15:26).
 
 3. A Santíssima Trindade manifestou-Se no batismo de Jesus Cristo.
 

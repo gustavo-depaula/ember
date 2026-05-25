@@ -11,13 +11,13 @@
 
 > It is of common belief that Confirmation was instituted by Christ at the Last Supper.
 
-1. Confirmation in a very special manner brings us the Holy Ghost with His sevenfold gifts. "Then they laid their hands on them, and they received the Holy Spirit" (Acts 8: 17).
+1. Confirmation in a very special manner brings us the Holy Ghost with His sevenfold gifts. "Then they laid their hands on them, and they received the Holy Spirit" (Acts 8:17).
 
-> Confirmation for the Christians may be likened to the day of Pentecost for the Apostles, when they received the Holy Ghost under sensible signs: tongues as of fire, and a mighty wind. The Apostles themselves administered the sacrament of Confirmation, as at Samaria and Ephesus. "And when Paul laid his hands on them, the Holy Spirit came upon them" (Acts 19: 6).
+> Confirmation for the Christians may be likened to the day of Pentecost for the Apostles, when they received the Holy Ghost under sensible signs: tongues as of fire, and a mighty wind. The Apostles themselves administered the sacrament of Confirmation, as at Samaria and Ephesus. "And when Paul laid his hands on them, the Holy Spirit came upon them" (Acts 19:6).
 
 2. Any baptised Christian may be confirmed. Although the sacrament is not necessary for salvation, it is sinful to neglect it, as it confers many graces.
 
-> "The charity of God is poured forth in our hearts by the Holy Spirit who has been given to us" (Rom. 5: 5). By Confirmation, we become soldiers of Christ, for it strengthens us in the profession of our faith. "I can do all things in him who strengthens me" (Phil. 4: 13).
+> "The charity of God is poured forth in our hearts by the Holy Spirit who has been given to us" (Rom. 5:5). By Confirmation, we become soldiers of Christ, for it strengthens us in the profession of our faith. "I can do all things in him who strengthens me" (Phil. 4:13).
 
 3. We should receive the sacrament of Confirmation at the age when we pass from childhood to youth. At that period, all kinds of temptations surround us, and we need special strength from God to resist them.
 

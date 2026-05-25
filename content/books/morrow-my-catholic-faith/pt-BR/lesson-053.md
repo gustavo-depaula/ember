@@ -2,14 +2,14 @@
 
 ![](../images/lesson-053.webp)
 
-*A apostolicidade da Igreja recebe prova adicional do fato de que hoje ainda administra os mesmos sete sacramentos administrados pelos Apóstolos. Igrejas não-católicas abandonaram a maioria dos sacramentos, mas a Igreja Católica preserva e administra todos eles. Entre os sacramentos assim preservados estão (1) Crisma, e (2) Extrema-Unção. São Pedro e São João administraram o primeiro (Atos 8: 14-17). São Tiago escreveu sobre o segundo (Tg. 5: 14-15).*
+*A apostolicidade da Igreja recebe prova adicional do fato de que hoje ainda administra os mesmos sete sacramentos administrados pelos Apóstolos. Igrejas não-católicas abandonaram a maioria dos sacramentos, mas a Igreja Católica preserva e administra todos eles. Entre os sacramentos assim preservados estão (1) Crisma, e (2) Extrema-Unção. São Pedro e São João administraram o primeiro (Atos 8:14-17). São Tiago escreveu sobre o segundo (Tg. 5:14-15).*
 
 
 **Por que a Igreja é católica ou universal?**
 
 — A Igreja Católica é católica ou universal porque, destinada a durar por todo o tempo, nunca falha em cumprir o mandamento divino de ensinar a todas as nações todas as verdades reveladas por Deus.
 
-> "Recebereis poder quando o Espírito Santo descer sobre vós, e sereis testemunhas por Mim em Jerusalém e em toda a Judeia e Samaria e até os confins da terra" (Atos 1: 8).
+> "Recebereis poder quando o Espírito Santo descer sobre vós, e sereis testemunhas por Mim em Jerusalém e em toda a Judeia e Samaria e até os confins da terra" (Atos 1:8).
 
 1. O próprio nome da Igreja é Católica, isto é, universal. Até seus críticos admitem que é católica. Existiu em todas as idades desde o tempo de Cristo, e ensina a todos os povos de toda nação a mesma fé.
 
@@ -21,7 +21,7 @@
 
 3. A Igreja em toda parte ensina todas as doutrinas que Cristo ordenou a Seus Apóstolos ensinar.
 
-> Na Igreja Católica cumpre-se a profecia de Malaquias: "Do nascer do sol até o seu pôr, grande é o Meu nome entre as gentes, e em todo lugar se sacrifica, e se oferece ao Meu nome uma oblação pura; porque grande é o Meu nome entre as gentes, diz o Senhor dos Exércitos" (Mal. 1: 11).
+> Na Igreja Católica cumpre-se a profecia de Malaquias: "Do nascer do sol até o seu pôr, grande é o Meu nome entre as gentes, e em todo lugar se sacrifica, e se oferece ao Meu nome uma oblação pura; porque grande é o Meu nome entre as gentes, diz o Senhor dos Exércitos" (Mal. 1:11).
 
 4. A Verdadeira Igreja deve ser tão organizada que possa admitir todos os homens em sua comunhão. Isto a Igreja Católica faz. Cristo fundou a Igreja para todos os homens, não apenas para alguns selecionados, Ele morreu por todos os homens, e deseja que os frutos de Sua morte façam bem a todos os homens. No presente apenas a Igreja Católica é encontrada em todo o mundo, ministrando a todas as raças e povos, a todas as classes da população, pobres ou ricos, sábios ou ignorantes, santo ou pecador. A Igreja Católica é a única Igreja para Todo Homem.
 
@@ -51,8 +51,8 @@ Que o Papa é Deus e não pode errar; Que alguém ou algo possa ser adorado ou v
 
 > Se não existia, então a promessa de Cristo de estar com Sua Igreja sempre havia falhado; Sua Igreja havia morrido, e nenhuma reforma humana poderia possivelmente tê-la ressuscitado. Se existia, então aqueles que inventaram novas doutrinas não estavam reformando-a, mas fundando novas igrejas.
 
-4. Do mesmo modo, a Igreja deriva todas as suas ordens sagradas, doutrinas e missão dos Apóstolos. É "edificada sobre o fundamento dos Apóstolos," do qual Cristo é a pedra angular (Efés. 2: 20). Mantém intacta a doutrina e tradições dos Apóstolos, aos quais Cristo deu autoridade para ensinar.
+4. Do mesmo modo, a Igreja deriva todas as suas ordens sagradas, doutrinas e missão dos Apóstolos. É "edificada sobre o fundamento dos Apóstolos," do qual Cristo é a pedra angular (Efés. 2:20). Mantém intacta a doutrina e tradições dos Apóstolos, aos quais Cristo deu autoridade para ensinar.
 
-> São Paulo diz: "Mas, ainda que nós ou um anjo do céu vos evangelize além do que vos evangelizamos, seja anátema!" (Gál. 1: 8). Uma igreja que a qualquer tempo negue uma doutrina apostólica, descarta o sacramento das Ordens Sagradas, ou rompe com a obediência ao Papa, cessa de ser apostólica. Torna-se um ramo morto quebrado da videira-mãe que é o Próprio Cristo: "Eu sou a videira: vós sois os ramos" (João 15: 5).
+> São Paulo diz: "Mas, ainda que nós ou um anjo do céu vos evangelize além do que vos evangelizamos, seja anátema!" (Gál. 1:8). Uma igreja que a qualquer tempo negue uma doutrina apostólica, descarta o sacramento das Ordens Sagradas, ou rompe com a obediência ao Papa, cessa de ser apostólica. Torna-se um ramo morto quebrado da videira-mãe que é o Próprio Cristo: "Eu sou a videira: vós sois os ramos" (João 15:5).
 
 Que escapulários, medalhas, crucifixos e outros sacramentais possam dar graças sem disposições próprias da parte do usuário; Que não-católicos serão todos condenados; Que todos os católicos irão para o céu; Que a Bíblia é a única regra de fé; Que qualquer um possa interpretar a Bíblia; Que Nosso Senhor Jesus Cristo estabeleceu muitas Igrejas; Que piedade externa é proveitosa sem caridade do espírito; Que todas as religiões são a mesma.

@@ -2,14 +2,14 @@
 
 ![](../images/lesson-067.webp)
 
-*A Igreja não pode ensinar erro, porque foi fundada por Cristo, o Próprio Deus. Ele enviou Seus Apóstolos com plenos poderes para pregar Seu Evangelho. Disse: "Como o Pai Me enviou, Eu também vos envio" (João 20: 21). "Pedirei ao Pai e Ele vos dará outro Advogado para habitar convosco para sempre. . . . Mas o Advogado, o Espírito Santo, que o Pai enviará em Meu nome, ensinar-vos-á todas as coisas, e vos trará à mente tudo o que Eu vos disse" (João 14: 16, 26).*
+*A Igreja não pode ensinar erro, porque foi fundada por Cristo, o Próprio Deus. Ele enviou Seus Apóstolos com plenos poderes para pregar Seu Evangelho. Disse: "Como o Pai Me enviou, Eu também vos envio" (João 20:21). "Pedirei ao Pai e Ele vos dará outro Advogado para habitar convosco para sempre. . . . Mas o Advogado, o Espírito Santo, que o Pai enviará em Meu nome, ensinar-vos-á todas as coisas, e vos trará à mente tudo o que Eu vos disse" (João 14:16, 26).*
 
 
 **O que se entende pela infalibilidade da Igreja Católica?**
 
 — Pela infalibilidade da Igreja Católica entende-se que a Igreja, pela assistência especial do Espírito Santo, não pode errar quando ensina ou crê numa doutrina de fé e moral.
 
-> Cristo prometeu: "Todo poder no céu e na terra foi-Me dado. Ide, pois, e ensinai todas as nações . . . ensinando-as a observar tudo o que vos ordenei; e eis que Estou convosco todos os dias, até a consumação do mundo" (Mat. 28: 20). Se Cristo está com a Igreja todos os dias, não pode errar no ensino; não pode levar os homens para longe de Deus.
+> Cristo prometeu: "Todo poder no céu e na terra foi-Me dado. Ide, pois, e ensinai todas as nações . . . ensinando-as a observar tudo o que vos ordenei; e eis que Estou convosco todos os dias, até a consumação do mundo" (Mat. 28:20). Se Cristo está com a Igreja todos os dias, não pode errar no ensino; não pode levar os homens para longe de Deus.
 
 1. "Infalibilidade" é frequentemente distorcida por inimigos da Igreja para significar "impecabilidade", e portanto ridicularizada. Infalibilidade é liberdade de erro; impecabilidade é liberdade de pecado. Numa instituição estabelecida por Deus para a salvação dos homens, erro em doutrina é impensável.
 
@@ -29,13 +29,13 @@ Das coisas que devemos fazer estão estas: devemos ir à Missa aos Domingos e di
 
 > Jesus enviou Seus Apóstolos com plenos poderes para pregar Seu Evangelho: "Como o Pai Me enviou, Eu também vos envio." "Fazei discípulos de todas as nações ensinando-os a observar tudo o que vos ordenei." "Pregai o Evangelho a toda criatura."
 
-a. Cristo disse: "Aquele que crer e for batizado será salvo; mas aquele que não crer será condenado" (Mar. 16: 16). Um Deus justo não poderia ordenar aos homens sob pena de danação crer no que é falso. Logo o ensino da Igreja deve ser infalivelmente verdadeiro.
+a. Cristo disse: "Aquele que crer e for batizado será salvo; mas aquele que não crer será condenado" (Mar. 16:16). Um Deus justo não poderia ordenar aos homens sob pena de danação crer no que é falso. Logo o ensino da Igreja deve ser infalivelmente verdadeiro.
 
-> Disse: "Sereis testemunhas por Mim em Jerusalém, e em toda a Judeia e Samaria, e até os confins da terra" (Atos 1: 8). Visto que era fisicamente impossível aos Apóstolos pregar a todo o mundo, a missão deve ter sido destinada também a seus sucessores até o fim dos tempos, nossos Bispos e sacerdotes Católicos.
+> Disse: "Sereis testemunhas por Mim em Jerusalém, e em toda a Judeia e Samaria, e até os confins da terra" (Atos 1:8). Visto que era fisicamente impossível aos Apóstolos pregar a todo o mundo, a missão deve ter sido destinada também a seus sucessores até o fim dos tempos, nossos Bispos e sacerdotes Católicos.
 
-b. Cristo disse: "Se ele recusar ouvir até a Igreja, seja para ti como o pagão e o publicano" (Mat. 18: 17) "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita; e quem Me rejeita rejeita Àquele que Me enviou" (Luc. 10: 16).
+b. Cristo disse: "Se ele recusar ouvir até a Igreja, seja para ti como o pagão e o publicano" (Mat. 18:17) "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita; e quem Me rejeita rejeita Àquele que Me enviou" (Luc. 10:16).
 
-> Disse: "E quem não vos receber, nem ouvir vossas palavras—sai para fora daquela casa ou cidade, e sacudi o pó de vossos pés. Em verdade vos digo: será mais tolerável para a terra de Sodoma e Gomorra no dia do juízo do que para aquela cidade" (Mat. 10: 14-16).
+> Disse: "E quem não vos receber, nem ouvir vossas palavras—sai para fora daquela casa ou cidade, e sacudi o pó de vossos pés. Em verdade vos digo: será mais tolerável para a terra de Sodoma e Gomorra no dia do juízo do que para aquela cidade" (Mat. 10:14-16).
 
 5. Nenhum Cristão nega que os Apóstolos eram infalíveis. De fato, no primeiro século, eles eram a única autoridade na Igreja. A Bíblia não foi completada até o fim daquele século, não ao alcance de todos.
 

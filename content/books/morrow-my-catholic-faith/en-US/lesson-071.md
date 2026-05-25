@@ -2,7 +2,7 @@
 
 ![](../images/lesson-071.webp)
 
-*Our Lord said: "Everyone therefore who hears these my words and acts upon them, shall be likened to a wise man who built his house on rock. And the rain fell, and the floods come, and the winds blew and beat against that house, but it did not fall, because it was founded on rock. And everyone who hears these my words and does not act upon them, shall be likened to a foolish man who built his house on sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and was utterly ruined" (Matt. 7: 24-27). Non-Catholic churches are the "house upon sand;" they rise up and fall. The Catholic Church is the "house upon rock;" it will last forever.*
+*Our Lord said: "Everyone therefore who hears these my words and acts upon them, shall be likened to a wise man who built his house on rock. And the rain fell, and the floods come, and the winds blew and beat against that house, but it did not fall, because it was founded on rock. And everyone who hears these my words and does not act upon them, shall be likened to a foolish man who built his house on sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and was utterly ruined" (Matt. 7:24-27). Non-Catholic churches are the "house upon sand;" they rise up and fall. The Catholic Church is the "house upon rock;" it will last forever.*
 
 
 **What is schism; and what is heresy?**

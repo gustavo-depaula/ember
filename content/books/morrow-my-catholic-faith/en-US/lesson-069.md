@@ -9,17 +9,17 @@
 
 — By the indefectibility of the Catholic Church is meant that the Church, as Christ founded it, will last until the end of time.
 
-> The Archangel Gabriel announced to Mary that Christ "shall be king over the house of Jacob forever; and of his kingdom there shall be no end" (Luke 1: 32 - 33)
+> The Archangel Gabriel announced to Mary that Christ "shall be king over the house of Jacob forever; and of his kingdom there shall be no end" (Luke 1:32 - 33)
 
 1. Christ meant His Church to endure to the end of the world. It is to be indestructible and unchanging; to possess indefectibility. Christ, God Himself, could scarcely have come, and with such incredible pain and labour have founded a Church which would die with the Apostles.
 
 > He came to save all men. Those to live in future ages needed salvation as much as the people of Apostolic times.
 
-2. Christ said to Peter: "Upon this rock I will build my Church, and the gates of hell shall not prevail against it" (Matt. 16: 18). By the "gates of hell," He meant all the power of the devil; all kinds of attacks, physical violence as well as false teaching.
+2. Christ said to Peter: "Upon this rock I will build my Church, and the gates of hell shall not prevail against it" (Matt. 16:18). By the "gates of hell," He meant all the power of the devil; all kinds of attacks, physical violence as well as false teaching.
 
 > Christ promises here that the Church would be assailed always, but never overcome. This promise of Our Lord has been proved for almost 2000 years by the facts of history. Not one of the persecutors of the Church has prevailed over it. On the contrary, many of them have come to a fearful end. There will always be Popes, bishops, and laity, to compose the Church; the truths taught by Our Lord will always be found in His Church.
 
-3. After telling His Apostles to teach all nations, Christ said: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 20).
+3. After telling His Apostles to teach all nations, Christ said: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28:20).
 
 > As the Apostles were not to live to the end of the world, Christ must have been addressing them as representatives of a perpetual Church.
 
@@ -29,7 +29,7 @@
 
 5. Christ intended the Church to remain as He founded it, to preserve the whole of what He taught, and the shining marks which He gave it in the beginning. If the Church lost any of the qualities that God gave it, it could not be said to be indefectible, because it would not be the same institution. Indefectibility implies unchangeability.
 
-> Our Lord promised to abide with the Church, to assist it, and to send the Holy Ghost to remain in it. God does not change: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 20).
+> Our Lord promised to abide with the Church, to assist it, and to send the Holy Ghost to remain in it. God does not change: "Behold, I am with you all days, even unto the consummation of the world" (Matt. 28:20).
 
 6. Because of its indefectibility the truths revealed by God will always be taught in the Catholic Church. St. Ambrose said: "The Church is like the moon; it may wane, but never be destroyed; it may be darkened, but it can never disappear."
 
@@ -40,7 +40,7 @@
 
 — The Catholic Church has, throughout its long history, proved itself indefectible, against all kinds of attack from within and without, against every persecution and every heresy and schism.
 
-> As its Founder was persecuted, so the Catholic Church has been and ever will be persecuted. "You will be brought before governors and kings for my sake" (Matt. 10: 18). "And you will be hated by all for my name's sake" (Matt. 10: 22). "No disciple is above his teacher, nor is the servant above his master" (Matt. 10: 24). "They will deliver you up to councils, and you will be beaten in the synagogues" (Mark 13: 9). "They will arrest you, and persecute you" (Luke 21: 12).
+> As its Founder was persecuted, so the Catholic Church has been and ever will be persecuted. "You will be brought before governors and kings for my sake" (Matt. 10:18). "And you will be hated by all for my name's sake" (Matt. 10:22). "No disciple is above his teacher, nor is the servant above his master" (Matt. 10:24). "They will deliver you up to councils, and you will be beaten in the synagogues" (Mark 13:9). "They will arrest you, and persecute you" (Luke 21:12).
 
 1. The Church survived three hundred years of incredible persecution under pagan Rome. Of the 33 Popes that ruled before the Edict of Milan, 30 died as martyrs. That mighty Empire, with its colossal strength, before whose standard the nations quailed, could not kill the infant Church or stop its progress. In a short time, the Popes were ruling where the imperial Caesars had issued edicts against the Christian Church.
 

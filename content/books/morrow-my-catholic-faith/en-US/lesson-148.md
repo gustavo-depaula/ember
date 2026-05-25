@@ -9,9 +9,9 @@
 
 — It is the sincere resolution to avoid sin and the near occasions of sin.
 
-> "But when the unclean spirit has gone out of a man, he roams through dry places in search of a resting place, and finds none. Then he says, 'I will return to my house which I left'; and when he has come, he finds the place unoccupied, swept and adorned. Then he goes and takes with him seven other spirits more evil than himself, and they enter in and dwell there; and the last state of that man becomes worse than the first" (Matt. 12: 43-45).
+> "But when the unclean spirit has gone out of a man, he roams through dry places in search of a resting place, and finds none. Then he says, 'I will return to my house which I left'; and when he has come, he finds the place unoccupied, swept and adorned. Then he goes and takes with him seven other spirits more evil than himself, and they enter in and dwell there; and the last state of that man becomes worse than the first" (Matt. 12:43-45).
 
-1. This purpose of amendment must accompany the act of contrition; it is necessary before sin can be forgiven. By it we determine firmly to amend ourselves. "Thou art made whole; sin no more, lest some worse thing befall thee" (John 5: 14).
+1. This purpose of amendment must accompany the act of contrition; it is necessary before sin can be forgiven. By it we determine firmly to amend ourselves. "Thou art made whole; sin no more, lest some worse thing befall thee" (John 5:14).
 
 > Two young men had fallen into the vice of drunkenness. Every day, they went to the saloon, and with other companions drank till they lost their reason. Being reproved by their parents, they promised to overcome their vice and drink no more.
 
@@ -38,7 +38,7 @@
 
 2. Our purpose is efficacious when we resolve to use all means to carry out our determination to amend, as by avoiding the occasions of sin, — persons, places, and things that ordinarily led us into sin in the past, and may do so again in the future. A good resolution is like a nail driven fast into the wall, but the resolutions of too many are like a nail badly placed, which falls out as soon as something is hung upon it.
 
-> Bad company and improper amusements and reading are such occasions. If we do not avoid them, we are not truly sorry, for our sins. "He who loveth the danger shall perish in it" (Ecclus. 3: 27). People who say they wish to become better, but will not fly away from occasions of sin are like a housewife who industriously sweeps away cobwebs, but refuses to kill the spider that weaves them.
+> Bad company and improper amusements and reading are such occasions. If we do not avoid them, we are not truly sorry, for our sins. "He who loveth the danger shall perish in it" (Ecclus. 3:27). People who say they wish to become better, but will not fly away from occasions of sin are like a housewife who industriously sweeps away cobwebs, but refuses to kill the spider that weaves them.
 
 3. Our purpose is universal when we are determined to keep away from all mortal sins. A wise gardener uproots weeds, and does not merely cut off the top otherwise they will grow thicker than ever.
 
@@ -55,11 +55,11 @@
 
 2. The forgiveness of sins.
 
-> The sacrament of penance remits the guilt of sins. All sins can be forgiven in the sacrament of penance. However many and wicked the sins may be, they are all forgiven if the sinner makes a good confession, even on a deathbed. "If we confess our sins, He is faithful and just, to forgive us our sin and to cleanse us from all iniquity" (1 John 1: 9).
+> The sacrament of penance remits the guilt of sins. All sins can be forgiven in the sacrament of penance. However many and wicked the sins may be, they are all forgiven if the sinner makes a good confession, even on a deathbed. "If we confess our sins, He is faithful and just, to forgive us our sin and to cleanse us from all iniquity" (1 John 1:9).
 
 3. The remission of the eternal punishment, if necessary, and also of part, at least, of the temporal punishment, due to sins.
 
-> "Unless you repent, you will all perish in the same manner" (Luke 13: 5).
+> "Unless you repent, you will all perish in the same manner" (Luke 13:5).
 
 4. The help to avoid sin in future.
 

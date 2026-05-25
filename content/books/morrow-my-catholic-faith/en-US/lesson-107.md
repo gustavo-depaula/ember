@@ -2,7 +2,7 @@
 
 ![](../images/lesson-107.webp)
 
-*After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27: 3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.*
+*After betraying Our Lord, Judas fell into despair. "Then Judas, who betrayed him, when he saw that he was condemned, repented and brought back the thirty pieces of silver to the chief priest, and the elders, saying: I have sinned in betraying innocent blood.' But they said 'What is that to us? See to it thyself.' And he flung the pieces of silver into the temple, and withdrew; and went away and hanged himself with a halter" (Matt. 27:3-5). If Judas had repented, instead of despairing, and had asked pardon, Our Lord would have forgiven him, as He forgave the good thief.*
 
 
 **What are our duties respecting our health and life?**
@@ -30,7 +30,7 @@ Very often the condition of the body affects that of the soul. If the body is un
 
 1. By drunkenness, one deliberately benumbs without just cause his reason, precious gift from God to man.
 
-> St. Paul said: "The works of the flesh are manifest, which are enmities...drunkenness, carousings, and suchlike. And concerning these I warn you, as I have warned you, that they who do such things will not attain the kingdom of God" (Gal. 5: 19-21).
+> St. Paul said: "The works of the flesh are manifest, which are enmities...drunkenness, carousings, and suchlike. And concerning these I warn you, as I have warned you, that they who do such things will not attain the kingdom of God" (Gal. 5:19-21).
 
 2. When committed publicly, drunkenness occasions bad example and scandal, and has often promoted fights and even murder. By habitual drinking, a person not only injures his health, but neglects the support of his family, and not unlikely also fails in his obligations to the State and to God.
 
@@ -63,4 +63,4 @@ Very often the condition of the body affects that of the soul. If the body is un
 
 6. It is not wrong, but highly meritorious, to endanger our health and life in order to gain everlasting life, or to rescue our fellow-men from physical or spiritual death. Christ Himself knowingly gave His life to save souls.
 
-> Martyrs, priests and missionaries who expose their lives, doctors and nurses who attend contagious cases, merit an eternal reward. Those who lose their lives rescuing others from drowning or burning, deserve renown. "And do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of him who is able to destroy both soul and body in hell" (Matt. 10: 28). "He who finds his life will lose it and he who loses his life for my sake, will find it" (Matt. 10: 39).
+> Martyrs, priests and missionaries who expose their lives, doctors and nurses who attend contagious cases, merit an eternal reward. Those who lose their lives rescuing others from drowning or burning, deserve renown. "And do not be afraid of those who kill the body but cannot kill the soul. But rather be afraid of him who is able to destroy both soul and body in hell" (Matt. 10:28). "He who finds his life will lose it and he who loses his life for my sake, will find it" (Matt. 10:39).

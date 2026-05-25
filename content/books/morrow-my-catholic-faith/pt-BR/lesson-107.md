@@ -2,7 +2,7 @@
 
 ![](../images/lesson-107.webp)
 
-*Após trair Nosso Senhor, Judas caiu em desespero. "Então Judas, que O traiu, quando viu que foi condenado, arrependeu-se e trouxe de volta as trinta moedas de prata aos sumos sacerdotes e aos anciãos, dizendo: 'Pequei traindo sangue inocente.' Mas eles disseram 'Que nos importa? Isso é contigo.' E ele lançou as moedas de prata no templo, e retirou-se; e foi e enforcou-se com uma corda" (Mat. 27: 3-5). Se Judas se tivesse arrependido, em vez de desesperar, e tivesse pedido perdão, Nosso Senhor tê-lo-ia perdoado, como perdoou o bom ladrão.*
+*Após trair Nosso Senhor, Judas caiu em desespero. "Então Judas, que O traiu, quando viu que foi condenado, arrependeu-se e trouxe de volta as trinta moedas de prata aos sumos sacerdotes e aos anciãos, dizendo: 'Pequei traindo sangue inocente.' Mas eles disseram 'Que nos importa? Isso é contigo.' E ele lançou as moedas de prata no templo, e retirou-se; e foi e enforcou-se com uma corda" (Mat. 27:3-5). Se Judas se tivesse arrependido, em vez de desesperar, e tivesse pedido perdão, Nosso Senhor tê-lo-ia perdoado, como perdoou o bom ladrão.*
 
 
 **Quais são nossos deveres referentes à nossa saúde e vida?**
@@ -26,11 +26,11 @@ Muito frequentemente a condição do corpo afeta a da alma. Se o corpo está doe
 
 — Embriaguez é um pecado porque fere a saúde, e frequentemente leva a outros pecados.
 
-> "Caminhemos decorosamente como de dia, não em orgias e bebedeiras, não em libertinagem e dissolução, não em rixa e ciúme. Mas revesti-vos do Senhor Jesus Cristo, e quanto à carne, não tenhais cuidado de suas concupiscências" (Rom. 13: 13).
+> "Caminhemos decorosamente como de dia, não em orgias e bebedeiras, não em libertinagem e dissolução, não em rixa e ciúme. Mas revesti-vos do Senhor Jesus Cristo, e quanto à carne, não tenhais cuidado de suas concupiscências" (Rom. 13:13).
 
 1. Pela embriaguez, alguém deliberadamente entorpece sem justa causa sua razão, dom precioso de Deus ao homem.
 
-> São Paulo disse: "As obras da carne são manifestas, que são inimizades. . . . bebedeiras, orgias e coisas semelhantes. E a respeito destas vos advirto, como já vos adverti, que os que fazem tais coisas não alcançarão o reino de Deus" (Gál. 5: 19-21).
+> São Paulo disse: "As obras da carne são manifestas, que são inimizades. . . . bebedeiras, orgias e coisas semelhantes. E a respeito destas vos advirto, como já vos adverti, que os que fazem tais coisas não alcançarão o reino de Deus" (Gál. 5:19-21).
 
 2. Quando cometida publicamente, a embriaguez ocasiona mau exemplo e escândalo, e frequentemente promoveu lutas e até assassinato. Por beber habitual, uma pessoa não apenas fere sua saúde, mas negligencia o sustento de sua família, e não improvavelmente também falha em suas obrigações para com o Estado e para com Deus.
 
@@ -63,4 +63,4 @@ Muito frequentemente a condição do corpo afeta a da alma. Se o corpo está doe
 
 6. Não é errado, mas altamente meritório, expor nossa saúde e vida para ganhar a vida eterna, ou resgatar nossos semelhantes da morte física ou espiritual. Cristo Mesmo conscientemente deu Sua vida para salvar almas.
 
-> Mártires, padres e missionários que expõem suas vidas, médicos e enfermeiras que atendem casos contagiosos, merecem uma recompensa eterna. Aqueles que perdem suas vidas resgatando outros de afogamento ou incêndio, merecem renome. "E não tenhais medo dos que matam o corpo mas não podem matar a alma. Mas antes temei aquele que pode destruir alma e corpo no inferno" (Mat. 10: 28). "Aquele que acha sua vida perdê-la-á e aquele que perde sua vida por amor de Mim, achá-la-á" (Mat. 10: 39).
+> Mártires, padres e missionários que expõem suas vidas, médicos e enfermeiras que atendem casos contagiosos, merecem uma recompensa eterna. Aqueles que perdem suas vidas resgatando outros de afogamento ou incêndio, merecem renome. "E não tenhais medo dos que matam o corpo mas não podem matar a alma. Mas antes temei aquele que pode destruir alma e corpo no inferno" (Mat. 10:28). "Aquele que acha sua vida perdê-la-á e aquele que perde sua vida por amor de Mim, achá-la-á" (Mat. 10:39).

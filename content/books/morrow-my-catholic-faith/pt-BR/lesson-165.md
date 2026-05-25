@@ -11,11 +11,11 @@
 
 1. O casamento cristão é uma união entre apenas um homem e uma mulher. Deus criou apenas um homem e uma mulher no princípio; e assim então havia unidade no casamento.
 
-> Sob a Lei Mosaica, o divórcio era em alguns casos permitido, para evitar males maiores, porque após a Queda a revelação primitiva tinha-se tornado obscura aos homens. Mas quando Cristo veio, retirou esta permissão absolutamente e restaurou o casamento à sua unidade original, dizendo: "Não lestes que o Criador, desde o princípio, os fez macho e fêmea e disse: por esta causa o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne? Portanto agora já não são dois, mas uma só carne. O que portanto Deus uniu, o homem não separe... Moisés, por causa da dureza de vosso coração, permitiu-vos repudiar vossas mulheres; mas não foi assim desde o princípio" (Mat. 19: 4-8).
+> Sob a Lei Mosaica, o divórcio era em alguns casos permitido, para evitar males maiores, porque após a Queda a revelação primitiva tinha-se tornado obscura aos homens. Mas quando Cristo veio, retirou esta permissão absolutamente e restaurou o casamento à sua unidade original, dizendo: "Não lestes que o Criador, desde o princípio, os fez macho e fêmea e disse: por esta causa o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne? Portanto agora já não são dois, mas uma só carne. O que portanto Deus uniu, o homem não separe... Moisés, por causa da dureza de vosso coração, permitiu-vos repudiar vossas mulheres; mas não foi assim desde o princípio" (Mat. 19:4-8).
 
 2. O casamento cristão é um estado sagrado e santo agradável a Deus. São Paulo o compara à união mística entre Cristo e Sua Igreja. Como Cristo é um e a Igreja é uma, assim o casamento é entre um homem e uma mulher. Como Cristo e a Igreja estão inseparavelmente unidos, assim o casamento é indissolúvel. Faz as partes contratantes "dois numa só carne".
 
-> São Paulo disse: "Isto é um grande mistério — digo em referência a Cristo e à Igreja" (Ef. 5: 32). Cristo é a cabeça da Igreja; assim é o homem a cabeça da mulher. A Igreja está sujeita a Cristo; assim deve a mulher ser obediente a seu marido. Cristo nunca abandona a Igreja e a Igreja é sempre fiel a Cristo; assim um homem e sua mulher devem ser fiéis um ao outro.
+> São Paulo disse: "Isto é um grande mistério — digo em referência a Cristo e à Igreja" (Ef. 5:32). Cristo é a cabeça da Igreja; assim é o homem a cabeça da mulher. A Igreja está sujeita a Cristo; assim deve a mulher ser obediente a seu marido. Cristo nunca abandona a Igreja e a Igreja é sempre fiel a Cristo; assim um homem e sua mulher devem ser fiéis um ao outro.
 
 3. O importante objeto do casamento é prover para a devida criação de filhos. Isto não poderia ser atingido se o divórcio fosse permitido.
 
@@ -34,17 +34,17 @@
 
 > O casamento de pessoas não batizadas não é sacramental, embora possa ser válido. O casamento válido de duas pessoas batizadas é sempre sacramental, sejam elas católicas ou não católicas. Por esta razão o casamento válido de dois não católicos batizados realizado de modo autorizado é sempre um sacramento. Isto é facilmente entendido quando lembramos que nem pastor nem oficial é o ministro do sacramento do Matrimônio; não conferem realmente o sacramento. As partes contratantes são elas mesmas os ministros e conferem o sacramento uma à outra.
 
-2. Cristo definitiva e estritamente proibiu o cortar, o romper do vínculo matrimonial. Ninguém pode interpretar mal Seu significado: "Todo aquele que repudia sua mulher e casa com outra comete adultério; e aquele que casa com uma mulher que foi repudiada de seu marido comete adultério" (Lucas 16: 18).
+2. Cristo definitiva e estritamente proibiu o cortar, o romper do vínculo matrimonial. Ninguém pode interpretar mal Seu significado: "Todo aquele que repudia sua mulher e casa com outra comete adultério; e aquele que casa com uma mulher que foi repudiada de seu marido comete adultério" (Lucas 16:18).
 
-> "Por esta causa o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne. Portanto agora já não são dois, mas uma só carne. O que portanto Deus uniu, o homem não separe" (Marcos 10: 7-9).
+> "Por esta causa o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne. Portanto agora já não são dois, mas uma só carne. O que portanto Deus uniu, o homem não separe" (Marcos 10:7-9).
 
 3. O vínculo do sacramento do matrimônio dura até a morte do marido ou mulher. Casamento cristão é indissolúvel, exceto pela morte. Divórcio, isto é, o rompimento do vínculo matrimonial, com o direito de recasar, nunca é permitido. Pela lei de Deus, o vínculo unindo marido e mulher só pode ser dissolvido pela morte.
 
-> "E disse-lhes:... Qualquer que repudiar sua mulher e casar com outra comete adultério contra ela; e se a mulher repudiar seu marido e casar com outro, comete adultério" (Marcos 10: 11-12). "Qualquer que repudiar sua mulher, salvo por causa de fornicação, faz que ela cometa adultério; e aquele que casar com a repudiada comete adultério" (Mat. 5: 32).
+> "E disse-lhes:... Qualquer que repudiar sua mulher e casar com outra comete adultério contra ela; e se a mulher repudiar seu marido e casar com outro, comete adultério" (Marcos 10:11-12). "Qualquer que repudiar sua mulher, salvo por causa de fornicação, faz que ela cometa adultério; e aquele que casar com a repudiada comete adultério" (Mat. 5:32).
 
 4. Nenhum poder na terra pode quebrar um casamento cristão. A indissolubilidade do casamento não é uma lei ordenada pela Igreja, mas por Deus. A Igreja não pode e não irá mexer com as leis de Deus. Como São Paulo disse:
 
-> "Aos casados, não eu, mas o Senhor, ordena que a mulher não se aparte do marido e, se se apartar, que fique sem casar ou se reconcilie com o marido. E que o marido não repudie a mulher" (1 Cor. 7: 10-11).
+> "Aos casados, não eu, mas o Senhor, ordena que a mulher não se aparte do marido e, se se apartar, que fique sem casar ou se reconcilie com o marido. E que o marido não repudie a mulher" (1 Cor. 7:10-11).
 
 5. Nem mesmo para evitar as mais sérias calamidades pode a Igreja sancionar divórcio.
 

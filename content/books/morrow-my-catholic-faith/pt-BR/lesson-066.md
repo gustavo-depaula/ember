@@ -14,7 +14,7 @@
 
 > Autoridade é o poder que uma pessoa tem sobre outra, de tal modo que pode exigir obediência justamente. Assim governantes têm autoridade sobre súditos; pais sobre seus filhos; professores, sobre alunos, etc.
 
-1. Cristo designou a Igreja para ensinar tudo o que Ele ensinou: "Ide, pois, e fazei discípulos de todas as nações. . . . ensinando-os a observar tudo o que vos ordenei" (Mat. 28: 19).
+1. Cristo designou a Igreja para ensinar tudo o que Ele ensinou: "Ide, pois, e fazei discípulos de todas as nações. . . . ensinando-os a observar tudo o que vos ordenei" (Mat. 28:19).
 
 > Cristo ensinou, como no Sermão da Montanha.
 
@@ -29,9 +29,9 @@
 
 **Cristo deu à Igreja plena autoridade?**
 
-— Cristo deu à Igreja plena autoridade e poder, dizendo: "Como o Pai Me enviou, Eu também vos envio" (João 20: 21).
+— Cristo deu à Igreja plena autoridade e poder, dizendo: "Como o Pai Me enviou, Eu também vos envio" (João 20:21).
 
-> Como um pai que parte numa viagem deixa todo seu poder e autoridade à mãe, assim Cristo ao deixar a terra deu à Sua Igreja pleno poder e autoridade para levar adiante Sua obra. "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita" (Luc. 10: 16).
+> Como um pai que parte numa viagem deixa todo seu poder e autoridade à mãe, assim Cristo ao deixar a terra deu à Sua Igreja pleno poder e autoridade para levar adiante Sua obra. "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita" (Luc. 10:16).
 
 1. A autoridade da Igreja não está restrita a questões de doutrina e crença, mas a tudo o que é necessário para o bem da Igreja e seus membros.
 

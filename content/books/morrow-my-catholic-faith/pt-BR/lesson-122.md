@@ -11,15 +11,15 @@
 
 — Pelo mandamento de contribuir para o sustento da Igreja entende-se que cada um de nós é obrigado a suportar sua parte justa do fardo financeiro da Santa Sé, da diocese, e da paróquia.
 
-> Como São Paulo diz: "Que soldado jamais serve à sua própria custa? Quem planta uma vinha e não come de seu fruto? Quem apascenta o rebanho e não come do leite do rebanho?" (1 Cor. 9: 7-8).
+> Como São Paulo diz: "Que soldado jamais serve à sua própria custa? Quem planta uma vinha e não come de seu fruto? Quem apascenta o rebanho e não come do leite do rebanho?" (1 Cor. 9:7-8).
 
 1. Somos obrigados a sustentar nossos pastores, porque a justiça o comanda, e Deus o ordenou. Nossos pastores são aqueles padres em cujos distritos ou paróquias vivemos.
 
-> Pastores e vigários são nomeados pelo Bispo, e encarregados de dar a instrução religiosa necessária, administrar os sacramentos, vigiar o bem-estar espiritual dos fiéis, etc. "O Senhor ordenou que os que pregam o evangelho vivessem do evangelho" (1 Cor. 9: 14). Bons cidadãos nunca pensam em resmungar sobre os impostos que pagam ao governo. Têm obrigação tão grande, se não maior, de ajudar a sustentar a Igreja.
+> Pastores e vigários são nomeados pelo Bispo, e encarregados de dar a instrução religiosa necessária, administrar os sacramentos, vigiar o bem-estar espiritual dos fiéis, etc. "O Senhor ordenou que os que pregam o evangelho vivessem do evangelho" (1 Cor. 9:14). Bons cidadãos nunca pensam em resmungar sobre os impostos que pagam ao governo. Têm obrigação tão grande, se não maior, de ajudar a sustentar a Igreja.
 
 2. Somos também obrigados a ajudar a sustentar nosso Bispo, assim como o Papa, e suprir todas as necessidades da Igreja segundo nossa capacidade.
 
-> Se não sustentamos a Igreja, seríamos infiéis ao mandamento de Cristo que ela "vá e faça discípulos de todas as nações". Para ensinar, a Igreja tem necessidade de fundos; nossos superiores espirituais precisam de sustento material tanto quanto nós, se não muito mais por conta de seus deveres. "O trabalhador é digno de seu salário" (1 Tim. 5: 18).
+> Se não sustentamos a Igreja, seríamos infiéis ao mandamento de Cristo que ela "vá e faça discípulos de todas as nações". Para ensinar, a Igreja tem necessidade de fundos; nossos superiores espirituais precisam de sustento material tanto quanto nós, se não muito mais por conta de seus deveres. "O trabalhador é digno de seu salário" (1 Tim. 5:18).
 
 3. Estipêndios de Missa são dados, não em pagamento pelos benefícios espirituais, mas como meio de sustento para aquele que diz a Missa. Não se pode comprar uma Missa.
 

@@ -36,7 +36,7 @@
 
 2. Se não houvesse necessidade de penitência, os pecadores mais endurecidos receberiam o mesmo tratamento que os homens mais santos, uma condição impossível à justiça de Deus. Cristo Mesmo quer que como devemos compartilhar de Sua glória, devemos primeiro compartilhar de Seus sofrimentos.
 
-> "Herdeiros de fato de Deus e co-herdeiros com Cristo; contudo assim, se sofrermos com Ele, para que também sejamos glorificados com Ele" (Rom. 8: 17).
+> "Herdeiros de fato de Deus e co-herdeiros com Cristo; contudo assim, se sofrermos com Ele, para que também sejamos glorificados com Ele" (Rom. 8:17).
 
 3. A punição pelo pecado prescrita por Deus é clara:
 
@@ -64,7 +64,7 @@
 
 — São: oração, assistir à Missa, jejum, esmola, obras de misericórdia, a paciência nos sofrimentos e indulgências.
 
-> "Mas Zaqueu levantou-se e disse ao Senhor: 'Eis, Senhor, dou a metade de meus bens aos pobres e, se defraudei alguém de alguma coisa, restituo quatro vezes mais'" (Lucas 19: 8-9).
+> "Mas Zaqueu levantou-se e disse ao Senhor: 'Eis, Senhor, dou a metade de meus bens aos pobres e, se defraudei alguém de alguma coisa, restituo quatro vezes mais'" (Lucas 19:8-9).
 
 Pessoas devotas não estarão satisfeitas com fazer a penitência imposta pelo padre. Farão trabalho voluntário de caridade e mortificação, em expiação; além disso, suportarão pacientemente todos os males enviados por Deus.
 

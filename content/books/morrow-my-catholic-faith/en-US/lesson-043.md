@@ -31,11 +31,11 @@
 
 1. Prudence disposes us in all circumstances to form right judgements about what we must do or not do.-It teaches us when and how to act in matters relating to our eternal salvation. Prudence perfects the intelligence, which is the power of forming judgements; for this virtue, knowledge and experience are important.
 
-> Prudence shows us how to leave earthly things in order to earn riches for eternity. It is the eye of the soul, for it tells us what is good and what is evil. It is like a compass that directs our course in life. It is opposed to worldly wisdom. "Be prudent therefore and watchful in prayers" (1 Pet. 4: 7). Prudence is a virtue of the understanding.
+> Prudence shows us how to leave earthly things in order to earn riches for eternity. It is the eye of the soul, for it tells us what is good and what is evil. It is like a compass that directs our course in life. It is opposed to worldly wisdom. "Be prudent therefore and watchful in prayers" (1 Pet. 4:7). Prudence is a virtue of the understanding.
 
 2. Justice disposes us to give everyone what belongs to him. It teaches us to give what is due to God and to man. It makes us willing to live according to the commandments. Justice perfects the will and safeguards the rights of man: his right to life, freedom, honour, good name, sanctity of the home, and external possessions.
 
-> The just man is an upright man. He gives to every one his due: he gives God worship; the authorities, obedience; his subordinates, rewards and punishments; and his equals, brotherly love. "Render to all men whatever is their due; tribute to whom tribute is due; taxes to whom taxes are due; fear to whom fear is due; honour to whom honour is due" (Rom. 13: 7).
+> The just man is an upright man. He gives to every one his due: he gives God worship; the authorities, obedience; his subordinates, rewards and punishments; and his equals, brotherly love. "Render to all men whatever is their due; tribute to whom tribute is due; taxes to whom taxes are due; fear to whom fear is due; honour to whom honour is due" (Rom. 13:7).
 
 3. Fortitude disposes us to do what is good in spite of any difficulty.-It gives us strength to do good and avoid evil in spite of all obstacles and afflictions.
 
@@ -54,15 +54,15 @@
 
 1. Obedience disposes us to do the will of our superiors. Obedience consists not only in doing what is commanded by our superior, but in being willing to do what is commanded. One who grumbles and murmurs while doing what his mother asks him to do is not obedient.
 
-> Obedience is a virtue only when one subjects his will to that of another for God's sake, not for material or natural motives. Christ is the model of obedience, for He obeyed completely and lovingly, even to the death of the Cross. "An obedient man shall speak of victory" (Prov. 21: 28).
+> Obedience is a virtue only when one subjects his will to that of another for God's sake, not for material or natural motives. Christ is the model of obedience, for He obeyed completely and lovingly, even to the death of the Cross. "An obedient man shall speak of victory" (Prov. 21:28).
 
 2. Veracity, which disposes us to tell the truth.
 
-> We should always be truthful, as children of God, Who is Truth itself. Veracity, however, does not require us to reveal secrets, or to reply to questions about which the questioner has no right to ask. In cases such as these, we should either remain silent, or return an evasive answer. "Wherefore, put away lying, and speak truth each one with his neighbour, because we are members of one another" (Eph. 4: 25).
+> We should always be truthful, as children of God, Who is Truth itself. Veracity, however, does not require us to reveal secrets, or to reply to questions about which the questioner has no right to ask. In cases such as these, we should either remain silent, or return an evasive answer. "Wherefore, put away lying, and speak truth each one with his neighbour, because we are members of one another" (Eph. 4:25).
 
 3. Patience, which disposes us to bear up under trials and difficulties.
 
-> In sickness and ill fortune, in the difficulties of our occupations, in our weaknesses, let us have serenity of mind, for the love of God: "And bear fruit in patience" (Luke 8: 15). "Be patient in tribulation, persevering in prayer" (Rom. 12: 12).
+> In sickness and ill fortune, in the difficulties of our occupations, in our weaknesses, let us have serenity of mind, for the love of God: "And bear fruit in patience" (Luke 8:15). "Be patient in tribulation, persevering in prayer" (Rom. 12:12).
 
 Besides these, there are many other moral virtues. Religion is the highest moral virtue, since it disposes us to offer to God the worship that is due Him.
 

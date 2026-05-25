@@ -19,7 +19,7 @@
 
 3. After Our Lord's long fast, the devil was permitted to tempt Him. Christ rebuked the devil, and angels came to minister to Him.
 
-> From this temptation of Our Lord, we know that a temptation is not sinful. As long as we resist the devil, we are pleasing to God, however strong may be the temptation that assails us. "God is faithful and will not permit you to be tempted beyond your strength, but with the temptation will also give you a way out that you may be able to bear it" (1 Cor.10: 13).
+> From this temptation of Our Lord, we know that a temptation is not sinful. As long as we resist the devil, we are pleasing to God, however strong may be the temptation that assails us. "God is faithful and will not permit you to be tempted beyond your strength, but with the temptation will also give you a way out that you may be able to bear it" (1 Cor.10:13).
 
 
 **How long did Christ's public life last?**

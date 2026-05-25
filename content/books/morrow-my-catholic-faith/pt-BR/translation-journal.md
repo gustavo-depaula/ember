@@ -319,13 +319,13 @@ defects, all word-level (completeness and diacritics were already solid). Fixed:
 ### Scripture citation convention
 Normalized the 3 files that used comma-style refs with 2-letter abbreviations
 — `(Lc 10, 2)`, `(Mc 16,16)`, `(Lucas 2,15)` (lesson-191, lesson-193,
-appendix-church-year) — to the book-wide colon style `(Luc. 10: 2)`,
-`(Marcos 16: 16)`, `(Lucas 2: 15)`.
+appendix-church-year) — to the book-wide colon style `(Luc. 10:2)`,
+`(Marcos 16:16)`, `(Lucas 2:15)`.
 
 ### Corrections applied to the en-US source (canonical) too
 - lesson-177: two 1949 misprints the pt-BR had silently corrected were fixed in
-  en-US as well — `(Ps. 1: 7)`→`(Ps. 50: 9)` (hyssop/Miserere verse) and
-  `(Job 4: 2)`→`(Job 42: 6)` ("dust and ashes").
+  en-US as well — `(Ps. 1:7)`→`(Ps. 50:9)` (hyssop/Miserere verse) and
+  `(Job 4:2)`→`(Job 42:6)` ("dust and ashes").
 - lesson-073: image/heading order flipped to heading-first to match every other
   chapter (and the pt-BR).
 

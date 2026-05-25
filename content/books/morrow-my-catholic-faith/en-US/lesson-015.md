@@ -37,7 +37,7 @@
 
 1. Angels are the most excellent beings created by God. They are nobler in nature than men. They know more, and have greater power. Of all God's creatures, angels resemble Him most.
 
-> We can imply the knowledge of the angels from the words of Our Lords: "But of that day (the day of Judgement) and hour no one knows, not even the angels of heaven, but the Father only" (Matt. 24: 36). The power of angels was shown in Egypt when one destroyed all the first-born of the Egyptians; another angel destroyed the hosts of the Assyrian King, for blaspheming God.
+> We can imply the knowledge of the angels from the words of Our Lords: "But of that day (the day of Judgement) and hour no one knows, not even the angels of heaven, but the Father only" (Matt. 24:36). The power of angels was shown in Egypt when one destroyed all the first-born of the Egyptians; another angel destroyed the hosts of the Assyrian King, for blaspheming God.
 
 2. The angels were not created equal. They rank according to the amount of gifts given, and the work assigned to them.
 
@@ -54,14 +54,14 @@
 
 2. In this trial, many angels, using their free will, refused to submit themselves to God; for this serious sin they were punished.
 
-> "For God did not spare the angels when they sinned, but dragged them down by infernal ropes" (2 Pet. 2: 4). Wherever the devils were later permitted to go, they had in a way their hell with them, for they were forever deprived of the love of God.
+> "For God did not spare the angels when they sinned, but dragged them down by infernal ropes" (2 Pet. 2:4). Wherever the devils were later permitted to go, they had in a way their hell with them, for they were forever deprived of the love of God.
 
 
 **What happened to the angels who remained faithful to God?**
 
 —The angels who remained faithful to God entered into the eternal happiness of heaven, and these are called good angels.
 
-> "See that you do not despise one of these little ones; for I tell you, their angels in heaven always behold the face of my Father" (Matt. 18: 10).
+> "See that you do not despise one of these little ones; for I tell you, their angels in heaven always behold the face of my Father" (Matt. 18:10).
 
 1. The good angels behold the face of God continually, praise and glorify Him, and are perfectly happy in His presence.
 
@@ -74,7 +74,7 @@
 
 — The good angels help us by praying for us, by acting as messengers from God to us, and by serving as our guardian angels.
 
-> Our Lord Himself said of little children: "See that you do not despise one of these little ones; for I tell you, their angels in heaven always behold the face of my Father in heaven" (Matt. 18: 10).
+> Our Lord Himself said of little children: "See that you do not despise one of these little ones; for I tell you, their angels in heaven always behold the face of my Father in heaven" (Matt. 18:10).
 
 1. The good angels are God's messengers, and often reveal God's will to man.
 
@@ -95,4 +95,4 @@
 
 2. Our guardian angels put good thoughts into our minds, moving our will to what is good. They protect us in dangers of soul and body. They offer our prayers and good works to God. They pray for us. They help us in our work and needs.
 
-> "He hath given his angels charge over thee, to keep thee in all thy ways" (Ps. 90: 11). For instance, angels kept Daniel safe in the lions' den, and the three young men in the fiery furnace. We often hear of little children meeting with accidents and escaping unhurt. But the chief work of our guardian angels is to keep us safe from the devil.
+> "He hath given his angels charge over thee, to keep thee in all thy ways" (Ps. 90:11). For instance, angels kept Daniel safe in the lions' den, and the three young men in the fiery furnace. We often hear of little children meeting with accidents and escaping unhurt. But the chief work of our guardian angels is to keep us safe from the devil.

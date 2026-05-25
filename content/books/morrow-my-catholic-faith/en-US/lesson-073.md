@@ -61,11 +61,11 @@
 
 No wonder in looking for relief, man often, however unconsciously, seeks motives for not accepting the Church that commands its members to obey such precepts, to accept such doctrines.
 
-> When Our Lord first announced the institution of the Holy Eucharist, many of the disciples said, "This is a hard saying. Who can listen to it?" (John 6: 62) And they no longer went with Jesus.
+> When Our Lord first announced the institution of the Holy Eucharist, many of the disciples said, "This is a hard saying. Who can listen to it?" (John 6:62) And they no longer went with Jesus.
 
 2. Catholics should above all try to give good example; nothing is more effective in the eyes of non-Catholics than the exemplary lives led by good Catholics.
 
-> "Behave yourselves honourably among the pagans; that, whereas they slander you as evildoers, they may through observing you by reason of your good works glorify God in the day of visitation" (1 Peter 2: 12). Catholics should often pray for the conversion of those outside the Church, praying with the Good Shepherd for only one Fold.
+> "Behave yourselves honourably among the pagans; that, whereas they slander you as evildoers, they may through observing you by reason of your good works glorify God in the day of visitation" (1 Peter 2:12). Catholics should often pray for the conversion of those outside the Church, praying with the Good Shepherd for only one Fold.
 
 3. While avoiding useless discussions that generally end in bitter quarrels, Catholics should try to show the beauty, the truth of the Catholic Church.
 

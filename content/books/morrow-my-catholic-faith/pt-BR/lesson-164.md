@@ -11,7 +11,7 @@
 
 — O principal dever de marido e mulher no estado matrimonial é ser fiel um ao outro e prover de todo modo para o bem-estar dos filhos que Deus possa dar-lhes.
 
-1. Marido e mulher devem confortar e apoiar-se um ao outro nas atividades de sua vida comum, no cumprimento de seus deveres individuais assim como mútuos, em todos os assuntos importantes, tanto espirituais quanto materiais. "Agora já não são dois, mas uma só carne" (Mat. 19: 6).
+1. Marido e mulher devem confortar e apoiar-se um ao outro nas atividades de sua vida comum, no cumprimento de seus deveres individuais assim como mútuos, em todos os assuntos importantes, tanto espirituais quanto materiais. "Agora já não são dois, mas uma só carne" (Mat. 19:6).
 
 > A esposa precisa do marido para apoiar-se; o marido precisa de sua mulher para confortar e cuidar dele. O homem é o provedor e a cabeça; a mulher é a rainha e mãe. No verdadeiro casamento cristão não há questão de egoísmo, competição ou superioridade entre os esposos, pois eles dois são "uma só carne".
 
@@ -21,11 +21,11 @@
 
 3. Os esposos devem sempre viver juntos e ter uma real vida de família cristã. Devem contudo lembrar que todas as relações matrimoniais devem estar de acordo com a lei divina e natural na "fidelidade da castidade".
 
-> Sua afeição não deve ser puramente humana, mas santa e sobrenatural, de acordo com o propósito de seu estado, que foi instituído por Deus. "Pois somos filhos de santos: e não devemos ser unidos juntos como pagãos que não conhecem a Deus" (Tob. 8: 5).
+> Sua afeição não deve ser puramente humana, mas santa e sobrenatural, de acordo com o propósito de seu estado, que foi instituído por Deus. "Pois somos filhos de santos: e não devemos ser unidos juntos como pagãos que não conhecem a Deus" (Tob. 8:5).
 
 4. Por seu tipo e modelos o casamento tem a União Mística entre Cristo e Sua Igreja. O marido deve amar sua mulher como Cristo ama a Igreja, com um amor santo e sobrenatural, como a si mesmo. A mulher deve amar e obedecer seu marido como a cabeça da família.
 
-> "Maridos, amai vossas mulheres, assim como Cristo também amou a Igreja" (Ef. 5: 25). "Mulheres, sujeitai-vos a vossos maridos, como convém no Senhor" (Col. 3: 19). Ao explicar o significado desta última passagem, Pio XI em sua Encíclica sobre o casamento cristão diz: "Esta sujeição não tira a liberdade que pertence plenamente à mulher tanto em vista de sua dignidade como pessoa humana quanto em vista de seu mui nobre ofício de esposa e mãe e companheira; nem lhe manda obedecer a cada pedido do marido, mesmo se não em harmonia com a reta razão ou a dignidade devida a ela como esposa... Mas proíbe aquela liberdade exagerada que não cuida do bem da família; proíbe que neste corpo que é a família, o coração seja separado da cabeça, para grande detrimento de todo o corpo e perigo próximo de ruína. Pois se o homem é a cabeça, a mulher é o coração e como ele ocupa o principal lugar em governar, ela deve reclamar para si o principal lugar no amor."
+> "Maridos, amai vossas mulheres, assim como Cristo também amou a Igreja" (Ef. 5:25). "Mulheres, sujeitai-vos a vossos maridos, como convém no Senhor" (Col. 3:19). Ao explicar o significado desta última passagem, Pio XI em sua Encíclica sobre o casamento cristão diz: "Esta sujeição não tira a liberdade que pertence plenamente à mulher tanto em vista de sua dignidade como pessoa humana quanto em vista de seu mui nobre ofício de esposa e mãe e companheira; nem lhe manda obedecer a cada pedido do marido, mesmo se não em harmonia com a reta razão ou a dignidade devida a ela como esposa... Mas proíbe aquela liberdade exagerada que não cuida do bem da família; proíbe que neste corpo que é a família, o coração seja separado da cabeça, para grande detrimento de todo o corpo e perigo próximo de ruína. Pois se o homem é a cabeça, a mulher é o coração e como ele ocupa o principal lugar em governar, ela deve reclamar para si o principal lugar no amor."
 
 
 **Quais são os deveres dos casados como pais?**
@@ -38,7 +38,7 @@
 
 2. Alguns pais estão em grande esforço para acumular riqueza para legar a seus filhos mas não prestam atenção à sua criação. O melhor legado que podem deixar a seus filhos é o amor de Deus.
 
-> A educação religiosa da criança depende principalmente da mãe. Uma mãe que gasta seu tempo fofocando com seus vizinhos, indo de uma função social a outra ou absorvendo-se em diversões inúteis para a negligência de seus filhos tem muito a responder diante de Deus. Quão felizes bons pais estarão quando forem diante do tribunal de Deus e forem capazes de dizer: "Aqueles que Me deste guardei" (João 17: 12).
+> A educação religiosa da criança depende principalmente da mãe. Uma mãe que gasta seu tempo fofocando com seus vizinhos, indo de uma função social a outra ou absorvendo-se em diversões inúteis para a negligência de seus filhos tem muito a responder diante de Deus. Quão felizes bons pais estarão quando forem diante do tribunal de Deus e forem capazes de dizer: "Aqueles que Me deste guardei" (João 17:12).
 
 
 **O controle artificial de natalidade é imoral?**

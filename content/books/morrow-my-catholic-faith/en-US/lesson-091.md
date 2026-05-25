@@ -57,7 +57,7 @@
 
 2. Our Lord Jesus Christ confirmed the ten commandments and laid them upon us in more complete form.
 
-> Christ reiterated the ten commandments when speaking to the rich young man (Matt. 19: 18), and in the sermon on the mount. On various occasions, He explained several of them separately. "I say to you, till heaven and earth pass away, not one jot or one tittle shall be lost from the Law, till all things have been accomplished" (Matt. 5: 18-19).
+> Christ reiterated the ten commandments when speaking to the rich young man (Matt. 19:18), and in the sermon on the mount. On various occasions, He explained several of them separately. "I say to you, till heaven and earth pass away, not one jot or one tittle shall be lost from the Law, till all things have been accomplished" (Matt. 5:18-19).
 
 3. We should gladly keep the Commandments, because God wishes and orders us to do so. It is the way to serve Him. If we keep the Commandments, we show by our acts that we love God, and so serve Him.
 

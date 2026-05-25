@@ -25,7 +25,7 @@
 
 4. É aconselhável chamar o padre para visitar os doentes em qualquer doença séria, mesmo que não haja aparente perigo de morte. É dever do padre visitar os doentes e administrar os sacramentos de que precisam.
 
-> "Meu filho, em tua doença não te negligencies, mas ora ao Senhor e Ele te curará" (Eclo. 38: 9).
+> "Meu filho, em tua doença não te negligencies, mas ora ao Senhor e Ele te curará" (Eclo. 38:9).
 
 5. Podemos ajudar uma pessoa doente cuidando e consolando-a. Cada dia devemos fazer com ela e por ela atos de fé, esperança e caridade. Acima de tudo, devemos ajudá-la a sentir absoluta resignação à vontade de Deus.
 

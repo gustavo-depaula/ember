@@ -23,7 +23,7 @@
 
 4. Satisfazer a justiça de Deus pelos pecados cometidos contra Ele.
 
-> A Missa reconcilia o homem com Deus, como aprendemos das palavras de Cristo proferidas na Última Ceia, "Este é o meu sangue, que está sendo derramado por muitos para a remissão dos pecados" (Mat. 26: 28). Não somos redimidos todos de novo pela Missa, pois fomos redimidos uma vez na cruz; mas a Missa aplica a nossas almas os frutos da redenção ganhos para nós na cruz. Como um sacrifício propiciatório perfeito, a Missa satisfaz a justiça de Deus.
+> A Missa reconcilia o homem com Deus, como aprendemos das palavras de Cristo proferidas na Última Ceia, "Este é o meu sangue, que está sendo derramado por muitos para a remissão dos pecados" (Mat. 26:28). Não somos redimidos todos de novo pela Missa, pois fomos redimidos uma vez na cruz; mas a Missa aplica a nossas almas os frutos da redenção ganhos para nós na cruz. Como um sacrifício propiciatório perfeito, a Missa satisfaz a justiça de Deus.
 
 
 **Que frutos são derivados da Santa Missa?**

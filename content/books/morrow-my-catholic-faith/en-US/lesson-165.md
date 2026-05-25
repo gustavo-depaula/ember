@@ -11,7 +11,7 @@
 
 1. Christian marriage is a union between only one man and one woman. God created only one man and one woman in the beginning; and thus then there was unity in marriage.
 
-> Under the Mosaic Law, divorce was in some cases permitted, to avoid greater evils, because after the Fall the primitive revelation had become obscured to men. But when Christ came. He withdrew this permission absolutely, and restored marriage to its original unity, saying: "Have you not read that the Creator, from the beginning, made them male and female, and said, for this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. . . . Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning" (Matt. 19: 4-8).
+> Under the Mosaic Law, divorce was in some cases permitted, to avoid greater evils, because after the Fall the primitive revelation had become obscured to men. But when Christ came. He withdrew this permission absolutely, and restored marriage to its original unity, saying: "Have you not read that the Creator, from the beginning, made them male and female, and said, for this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder. . . . Moses, by reason of the hardness of your heart, permitted you to put away your wives; but it was not so from the beginning" (Matt. 19:4-8).
 
 2. Christian marriage is a sacred and holy state pleasing to God. St. Paul compares it to the mystical union between Christ and His Church. As Christ is one, and the Church is one, so marriage is between one man and one woman. As Christ and the Church are inseparably united, so marriage is indissoluble. It makes the contracting parties "two in one flesh."
 
@@ -34,17 +34,17 @@
 
 > The marriage of unbaptised persons is not sacramental, though it may be valid. The valid marriage of two baptised persons is always sacramental, whether they be Catholics or non-Catholics. For this reason the valid marriage of two baptised non-Catholics performed in the authorized manner is always a sacrament. This is easily understood when we remember that neither pastor nor official is the minister of the sacrament of Matrimony; they do not really confer the sacrament. The contracting parties are themselves the ministers, and confer the sacrament upon each other.
 
-2. Christ definitely and strictly forbade the cutting, the breaking of the marriage bond. Nobody can misinterpret His meaning: "Everyone who puts away his wife and marries another commits adultery; and he who marries a woman who has been put away from her husband commits adultery" (Luke 16: 18).
+2. Christ definitely and strictly forbade the cutting, the breaking of the marriage bond. Nobody can misinterpret His meaning: "Everyone who puts away his wife and marries another commits adultery; and he who marries a woman who has been put away from her husband commits adultery" (Luke 16:18).
 
-> "For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder" (Mark 10: 7-9).
+> "For this cause a man shall leave his father and mother, and cleave to his wife, and the two shall become one flesh. Therefore now they are no longer two, but one flesh. What therefore God has joined together, let no man put asunder" (Mark 10:7-9).
 
 3. The bond of the sacrament of matrimony lasts until the death of husband or wife. Christian marriage is indissoluble, except by death. Divorce, that is, the breaking of the marriage bond, with the right to remarry, is never permitted. By the law of God, the bond uniting husband and wife can be dissolved only by death.
 
-> "And he said to them: ... Whoever puts away his wife and marries another, commits adultery against her; and if the wife puts away her husband and marries another, she commits adultery" (Mark 10: 11-12). "Everyone who puts away his wife, save on account of immorality, causes her to commit adultery; and he who marries a woman who has been put away commits adultery" (Matt. 5: 32).
+> "And he said to them: ... Whoever puts away his wife and marries another, commits adultery against her; and if the wife puts away her husband and marries another, she commits adultery" (Mark 10:11-12). "Everyone who puts away his wife, save on account of immorality, causes her to commit adultery; and he who marries a woman who has been put away commits adultery" (Matt. 5:32).
 
 4. No power on earth can break a Christian marriage. The indissolubility of marriage is not a law ordained by the Church, but by God. The Church cannot and will not tamper with the laws of God. As St. Paul said:
 
-> "To those who are married, not, but the Lord, commands that a wife is not to depart from her husband, and if she departs, that she is to remain unmarried, or be reconciled to her husband. And let not a husband put away his wife" (Cor. 7: 10, 11).
+> "To those who are married, not, but the Lord, commands that a wife is not to depart from her husband, and if she departs, that she is to remain unmarried, or be reconciled to her husband. And let not a husband put away his wife" (Cor. 7:10, 11).
 
 5. Not even to avert the most serious calamities can the Church sanction divorce.
 

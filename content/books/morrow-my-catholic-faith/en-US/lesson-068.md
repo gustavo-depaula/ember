@@ -24,7 +24,7 @@
 
 — The Church teaches infallibly through the Pope alone, when he speaks officially ( *ex cathedra* ) as the Supreme Head, for the entire universal Church.
 
-> As the Pope has authority over the Church, he could not err in his official teaching without leading the Church into error. As Our Lord said to Peter, the first Pope: "I have prayed for thee, that thy faith may not fail; and do thou, when once thou hast turned again, strengthen thy brethren" (Luke 22: 31 - 32).
+> As the Pope has authority over the Church, he could not err in his official teaching without leading the Church into error. As Our Lord said to Peter, the first Pope: "I have prayed for thee, that thy faith may not fail; and do thou, when once thou hast turned again, strengthen thy brethren" (Luke 22:31 - 32).
 
 In order to speak infallibly, the Pope must speak *ex-cathedra*, or officially, under the following conditions:
 
@@ -47,7 +47,7 @@ In order to speak infallibly, the Pope must speak *ex-cathedra*, or officially, 
 
 1. A General Council is an assembly convened by the Holy See, of all the bishops of the world, and others entitled to vote. It represents the teaching body of the Church, and must be infallible.
 
-> In the year 50, the Apostles held the first General Council in Jerusalem. Its decisions were proclaimed as coming from God, the final decree beginning with these words: "For the Holy Spirit and we have decided to lay no further burden upon you" (Acts 15: 28).
+> In the year 50, the Apostles held the first General Council in Jerusalem. Its decisions were proclaimed as coming from God, the final decree beginning with these words: "For the Holy Spirit and we have decided to lay no further burden upon you" (Acts 15:28).
 
 2. Over a General Council, the Pope or his legate presides; a representative number of bishops and others entitled to vote, such as cardinals, abbots, and generals of certain religious orders, must be present. Upon confirmation by the Pope, a General Council's decrees are binding on all Christians.
 
@@ -59,4 +59,4 @@ In order to speak infallibly, the Pope must speak *ex-cathedra*, or officially, 
 
 4. Even when the bishops are not gathered together in one place, they form the teaching body of the Church, united with the Pope. Therefore, their voice must be infallible, otherwise the universal Church would be led into error. For the same reason as above, the daily ordinary uniform teaching of the Church in every place in the whole World is infallibly true.
 
-> "Go into the whole world and preach the gospel to every creature" (Mark 16: 15).
+> "Go into the whole world and preach the gospel to every creature" (Mark 16:15).

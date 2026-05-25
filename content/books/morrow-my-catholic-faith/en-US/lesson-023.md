@@ -42,7 +42,7 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 2. If often committed, venial sin weakens the will, lessens our power to resist evil, and makes it easier for us to fall into mortal sin.
 
-> "He that contemneth small things shall fall by little and little" (Ecclus. 19: 1). "He who is faithful in a very little thing is faithful also in much; and he who is unjust in a very little thing is unjust also in much" (Luke 16:10). A great fire is started by a tiny breeze. Venial sin, by weakening the will, makes us indisposed for good, and lukewarm in God's service.
+> "He that contemneth small things shall fall by little and little" (Ecclus. 19:1). "He who is faithful in a very little thing is faithful also in much; and he who is unjust in a very little thing is unjust also in much" (Luke 16:10). A great fire is started by a tiny breeze. Venial sin, by weakening the will, makes us indisposed for good, and lukewarm in God's service.
 
 3. Venial sin deprives us of many actual graces we need for resisting temptation.
 
@@ -54,7 +54,7 @@ b. When the evil done is seriously wrong, but the sinner sincerely believes it i
 
 5. A great desire not to offend God in the least is the best proof of love and loyalty towards our heavenly Father.
 
-> Holy Scripture shows many instances of God's hatred for venial sin, which He punishes severely even on earth. For her curiosity, Lot's wife was turned into a pillar of salt. "But I tell you, that of every idle word men speak, they shall give account on the day of judgement" (Matt. 12: 36).
+> Holy Scripture shows many instances of God's hatred for venial sin, which He punishes severely even on earth. For her curiosity, Lot's wife was turned into a pillar of salt. "But I tell you, that of every idle word men speak, they shall give account on the day of judgement" (Matt. 12:36).
 
 
 **How can we keep from committing sin?**

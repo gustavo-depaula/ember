@@ -13,7 +13,7 @@
 
 — O padre usa o amito, alva, cíngulo, manípulo, estola e casula, na celebração da Missa.
 
-> Quando o padre aparece diante de Deus no altar, ele está vestido com paramentos adequados. Deus Mesmo deu direções sobre os paramentos dos padres no Antigo Testamento (Êxodo 28: 4). Os principais paramentos usados pelos padres católicos chegaram até nós desde o tempo dos Apóstolos.
+> Quando o padre aparece diante de Deus no altar, ele está vestido com paramentos adequados. Deus Mesmo deu direções sobre os paramentos dos padres no Antigo Testamento (Êxodo 28:4). Os principais paramentos usados pelos padres católicos chegaram até nós desde o tempo dos Apóstolos.
 
 > Significado simbólico tem sido atribuído aos diferentes paramentos. As orações ditas pelo padre ao vestir cada peça de paramento mostram o significado atribuído a elas pela Igreja.
 

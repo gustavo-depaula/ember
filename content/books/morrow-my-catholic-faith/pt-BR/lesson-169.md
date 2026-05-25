@@ -28,7 +28,7 @@
 
 1. A pessoa escolhida deve ter as qualificações mentais e espirituais necessárias para a parceria permanente, as disposições para harmonizar com os parceiros prospectivos.
 
-> Se jovens lembrarem que casamento é para a vida, exercerão maior prudência no namoro. Com aquela prudência, pela graça de Deus, um homem pode certamente encontrar uma parceira da qual pode ser dito: "Ela é uma ajuda semelhante a si mesmo e um pilar de descanso" (Eclo. 36: 26).
+> Se jovens lembrarem que casamento é para a vida, exercerão maior prudência no namoro. Com aquela prudência, pela graça de Deus, um homem pode certamente encontrar uma parceira da qual pode ser dito: "Ela é uma ajuda semelhante a si mesmo e um pilar de descanso" (Eclo. 36:26).
 
 2. Pode-se melhor julgar o caráter e virtudes de um futuro esposo na igreja e em casa que no piso de salões de baile. O conselho, "Escolhei vosso parceiro no coroamento da comunhão" é muito sadio.
 

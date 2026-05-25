@@ -13,11 +13,11 @@
 
 1. The first commandment requires us to worship and adore God, and God alone. We must render God exclusive adoration. He alone is the creator and sovereign Lord of heaven and earth. We worship and adore Jesus Christ, because He is the Second Person of the Blessed Trinity, true God even as the Father and the Holy Ghost. This commandment forbids idolatry, false worship.
 
-> "It is written, the Lord thy God shalt thou worship, and him only shalt thou serve" (Matt. 4: 10). We adore God because He is infinitely exalted above us, and we are entirely dependent on Him as our Creator and our Father.
+> "It is written, the Lord thy God shalt thou worship, and him only shalt thou serve" (Matt. 4:10). We adore God because He is infinitely exalted above us, and we are entirely dependent on Him as our Creator and our Father.
 
 2. Exterior as well as interior worship is due to God, because our bodies, as well as our souls, belong to Him. Very often exterior acts serve to arouse and increase interior devotion.
 
-> Our worship is interior when we adore God by inward acts of the heart and mind, such as acts of faith and love, without visible manifestations. Our worship is exterior when we accompany our interior worship by outward acts, such as vocal prayers and genuflections. Without interior worship or devotion, external manifestations are worthless. "Hypocrites, well did Isaias prophesy of you, saying: This people honours me with their lips, but their heart is far from me" (Matt. 15: 7-8).
+> Our worship is interior when we adore God by inward acts of the heart and mind, such as acts of faith and love, without visible manifestations. Our worship is exterior when we accompany our interior worship by outward acts, such as vocal prayers and genuflections. Without interior worship or devotion, external manifestations are worthless. "Hypocrites, well did Isaias prophesy of you, saying: This people honours me with their lips, but their heart is far from me" (Matt. 15:7-8).
 
 3. We should render particular worship to God upon arising and retiring, on entering a church, during religious services, and when receiving the sacraments.
 
@@ -34,7 +34,7 @@
 
 — We worship God by acts of the virtues of faith, hope, charity, and religion.
 
-1. True piety and adoration of God do not include a gloomy manner, a melancholy expression, and a hard exterior. True piety is cheerful, full of joy. "Serve God in gladness" (Ps. 99: 2).
+1. True piety and adoration of God do not include a gloomy manner, a melancholy expression, and a hard exterior. True piety is cheerful, full of joy. "Serve God in gladness" (Ps. 99:2).
 
 > They are mistaken who think that a forbidding demeanour, continual groaning and sighings, weeping, etc., are pleasing to God. They only serve to repel others. We should remember that of all creatures, God loves most an innocent child. We shall not be mistaken in practices if we imitate him.
 
@@ -57,7 +57,7 @@
 
 3. To profess our faith openly whenever necessary. We are obliged to do so when we are challenged to make profession of it, or when an omission to do so would harm our neighbour or bring religion into contempt, or when we are questioned by lawful authority. We must never deny our faith.
 
-> Our Lord says: "Therefore everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10: 32).
+> Our Lord says: "Therefore everyone who acknowledges me before men, I also will acknowledge him before my Father in heaven" (Matt. 10:32).
 
 
 **What does hope oblige us to do?**

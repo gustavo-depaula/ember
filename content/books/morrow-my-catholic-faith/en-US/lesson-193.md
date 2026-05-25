@@ -29,11 +29,11 @@
 
 5. Christ established a Church which all are obliged to join. He declared that all men must believe and be baptised, that is, belong to His Church, in order to be saved. (See pages 94-99)
 
-> Our Lord gathered about Him a group of disciples, and called it His Church. He promised that this Church would last forever. "He who does not believe shall be condemned" (Mark 16: 16). "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit, . . . and behold I am with you all days, even unto the consummation of the world" (Matt. 28: 19-20).
+> Our Lord gathered about Him a group of disciples, and called it His Church. He promised that this Church would last forever. "He who does not believe shall be condemned" (Mark 16:16). "Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit, . . . and behold I am with you all days, even unto the consummation of the world" (Matt. 28:19-20).
 
 6. The only true Church of Christ is the Catholic Church. Only the Catholic Church possesses the marks of unity, holiness, catholicity, and apostolicity, marks of the Church established by Jesus Christ. (See pages 100-107, 132-145.)
 
-> The history of the Catholic Church gives incontestable evidence of miraculous strength, permanence, and unchangeableness, thus showing the world that it is under the special protection of God, Who said, "The gates of hell shall not prevail against it" (Matt. 16: 18).
+> The history of the Catholic Church gives incontestable evidence of miraculous strength, permanence, and unchangeableness, thus showing the world that it is under the special protection of God, Who said, "The gates of hell shall not prevail against it" (Matt. 16:18).
 
 Let us thank God for His gifts. We can best show our gratitude to God for making us members of the only true Church of Jesus Christ by often thanking God for this great favour, by leading edifying and practical Catholic lives, by trying to lead others to the true faith, and by helping the missions.
 

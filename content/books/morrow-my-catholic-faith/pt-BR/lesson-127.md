@@ -11,13 +11,13 @@
 
 > É de crença comum que o Crisma foi instituído por Cristo na Última Ceia.
 
-1. Crisma de um modo muito especial traz-nos o Espírito Santo com Seus sete dons. "Então impuseram-lhes as mãos, e receberam o Espírito Santo" (Atos 8: 17).
+1. Crisma de um modo muito especial traz-nos o Espírito Santo com Seus sete dons. "Então impuseram-lhes as mãos, e receberam o Espírito Santo" (Atos 8:17).
 
-> Crisma para os cristãos pode ser comparado ao dia de Pentecostes para os Apóstolos, quando receberam o Espírito Santo sob sinais sensíveis: línguas como de fogo, e um vento impetuoso. Os Próprios Apóstolos administraram o sacramento do Crisma, como em Samaria e Éfeso. "E quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles" (Atos 19: 6).
+> Crisma para os cristãos pode ser comparado ao dia de Pentecostes para os Apóstolos, quando receberam o Espírito Santo sob sinais sensíveis: línguas como de fogo, e um vento impetuoso. Os Próprios Apóstolos administraram o sacramento do Crisma, como em Samaria e Éfeso. "E quando Paulo lhes impôs as mãos, o Espírito Santo veio sobre eles" (Atos 19:6).
 
 2. Qualquer cristão batizado pode ser crismado. Embora o sacramento não seja necessário para salvação, é pecaminoso negligenciá-lo, pois confere muitas graças.
 
-> "A caridade de Deus é derramada em nossos corações pelo Espírito Santo que nos foi dado" (Rom. 5: 5). Pelo Crisma, tornamo-nos soldados de Cristo, pois fortalece-nos na profissão de nossa fé. "Tudo posso n'Aquele que me fortalece" (Fil. 4: 13).
+> "A caridade de Deus é derramada em nossos corações pelo Espírito Santo que nos foi dado" (Rom. 5:5). Pelo Crisma, tornamo-nos soldados de Cristo, pois fortalece-nos na profissão de nossa fé. "Tudo posso n'Aquele que me fortalece" (Fil. 4:13).
 
 3. Devemos receber o sacramento do Crisma na idade em que passamos da infância à juventude. Naquele período, todos os tipos de tentações nos cercam, e precisamos de força especial de Deus para resisti-las.
 

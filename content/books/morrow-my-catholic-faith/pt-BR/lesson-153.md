@@ -11,7 +11,7 @@
 
 1. Nosso Senhor deu aos Apóstolos e seus sucessores o poder de libertar homens de todo obstáculo que possa separá-los do céu. Assim Ele disse a São Pedro:
 
-> "Tudo que ligares na terra será ligado nos céus e tudo que desligares na terra será desligado nos céus" (Mat. 16: 19).
+> "Tudo que ligares na terra será ligado nos céus e tudo que desligares na terra será desligado nos céus" (Mat. 16:19).
 
 2. A Igreja pode remir punições temporais devidas a pecados perdoados em virtude de sua comissão divina. Se ela tem o poder e direito de perdoar pecados na terra, libertar homens do inferno e levá-los ao céu, deve também ter o poder de desatar todo laço ou obstáculo que constrinja a alma e impeça-a de entrar no céu.
 
@@ -28,7 +28,7 @@
 
 1. Na Igreja, há um tesouro espiritual composto dos méritos superabundantes de nosso Senhor, da Santíssima Mãe e dos Santos. Os méritos da paixão e morte de Nosso Senhor são infinitos, pois Ele é Deus. Todos estes Ele deixou à Sua Igreja.
 
-> A satisfação superabundante da Santíssima Virgem Maria e dos Santos que estão unidos com os de Cristo, "Completo em minha carne o que falta aos sofrimentos de Cristo, em favor de Seu corpo, a Igreja" (Col. 1: 24) é aquela que ganharam durante sua vida mas não precisaram e que a Igreja aplica a seus membros companheiros da Comunhão dos Santos. (veja página 148).
+> A satisfação superabundante da Santíssima Virgem Maria e dos Santos que estão unidos com os de Cristo, "Completo em minha carne o que falta aos sofrimentos de Cristo, em favor de Seu corpo, a Igreja" (Col. 1:24) é aquela que ganharam durante sua vida mas não precisaram e que a Igreja aplica a seus membros companheiros da Comunhão dos Santos. (veja página 148).
 
 2. Quando a Igreja concede uma indulgência, não cancela realmente qualquer expiação devida a Deus. Apenas supre nossas deficiências recorrendo ao tesouro espiritual da Igreja.
 
@@ -45,7 +45,7 @@
 
 1. Os Apóstolos concederam indulgências.
 
-> São Paulo escreve sobre um coríntio que mostrou tais sinais de verdadeiro arrependimento que sua penitência foi remitida. "A quem perdoardes alguma coisa, também eu perdoo. De fato, o que tenho perdoado — se tenho perdoado alguma coisa — o fiz por vossa causa, na pessoa de Cristo" (2 Cor. 2: 10).
+> São Paulo escreve sobre um coríntio que mostrou tais sinais de verdadeiro arrependimento que sua penitência foi remitida. "A quem perdoardes alguma coisa, também eu perdoo. De fato, o que tenho perdoado — se tenho perdoado alguma coisa — o fiz por vossa causa, na pessoa de Cristo" (2 Cor. 2:10).
 
 2. Durante o tempo das grandes perseguições, os confessores e mártires permaneceram constantes e foram lançados na prisão e muitos foram postos à morte. Outros negaram sua fé para escapar à perseguição; sobre estes, a Igreja impôs severas penitências.
 

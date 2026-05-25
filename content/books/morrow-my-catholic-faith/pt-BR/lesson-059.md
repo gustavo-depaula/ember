@@ -26,7 +26,7 @@
 
 1. Diáconos podem batizar, pregar e dar a Santa Comunhão.
 
-> Os Apóstolos ordenaram os primeiros diáconos. Os diáconos foram nomeados pelos Apóstolos para distribuir esmolas e foram consagrados pela imposição das mãos acompanhada de orações (Atos 6: 6).
+> Os Apóstolos ordenaram os primeiros diáconos. Os diáconos foram nomeados pelos Apóstolos para distribuir esmolas e foram consagrados pela imposição das mãos acompanhada de orações (Atos 6:6).
 
 2. Sacerdotes têm ordens mais altas que diáconos. Podem oferecer o santo sacrifício da Missa, e perdoar pecados no Sacramento da Penitência. Podem administrar todos os sacramentos exceto aqueles da Crisma e Ordens Sagradas. Com faculdades especiais, podem até administrar a Crisma. Nos Ritos Orientais Católicos sacerdotes administram a Crisma imediatamente após o Batismo.
 

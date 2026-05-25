@@ -2,14 +2,14 @@
 
 ![](../images/lesson-146.webp)
 
-*Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted it in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15: 17-20).*
+*Our Lord, speaking about the forgiveness of sins, told the parable of the Prodigal Son, who took his inheritance from his father, and wasted it in a far country. But a time came when he suffered hardships as a caretaker of swine. Then, feeling contrition for what he had done, he said to himself: "How many hired men in my father's house have bread in abundance, while I am perishing here with hunger! I will get up and go to my father, and will say to him, Father, I have sinned against heaven and before thee. I am no longer worthy to be called thy son; make me as one of thy hired men. And he arose and went to his father" (Luke 15:17-20).*
 
 
 **What is contrition?**
 
 — Contrition is sincere sorrow for having offended God, and hatred for the sins we have committed, with a firm purpose of sinning no more.
 
-> "The Lord is nigh unto them that are contrite of heart" (Ps. 33: 19).
+> "The Lord is nigh unto them that are contrite of heart" (Ps. 33:19).
 
 God will not forgive us any sin, whether mortal or venial, unless we have true contrition for it. Without true contrition a thousand confessions will avail us nothing except to add to our sins. Unless there is sorrow for sins there is no forgiveness.
 
@@ -69,7 +69,7 @@ God will not forgive us any sin, whether mortal or venial, unless we have true c
 
 1. An act of contrition can be as short as this: "O my God, I am sorry with all my heart for having offended Thee, because Thou art all good!"
 
-> "Have mercy on me, O God, have mercy on me, for my soul trusteth in Thee" (Ps. 56: 2).
+> "Have mercy on me, O God, have mercy on me, for my soul trusteth in Thee" (Ps. 56:2).
 
 2. An act of contrition is sufficient to forgive venial sins. We may therefore go to Holy Communion without confession if we have no mortal sin, after saying such an act.
 

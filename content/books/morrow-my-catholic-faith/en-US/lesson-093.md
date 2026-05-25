@@ -60,7 +60,7 @@
 
 1. This is what we call the "intercession" of the saints. If we are grateful for the intercession of a friend before an earthly superior, how much more so should we be for the intercession of saints before God!
 
-> How many times have the saints obtained favours from God for men? And God likes this intercession: as He said, He would have spared Sodom for the sake of ten just men (Gen. 18: 32).
+> How many times have the saints obtained favours from God for men? And God likes this intercession: as He said, He would have spared Sodom for the sake of ten just men (Gen. 18:32).
 
 2. Experience has proved that much is gained by invoking certain saints in times of special need. It appears that God has given to individual saints powers to help us in special needs.
 
@@ -71,7 +71,7 @@
 
 — We know that the saints will pray for us, because they are with God and have great love for us.
 
-1. The saints in heaven are, with us, members of the Church, of one body belonging to Christ. "So we the many, are one body in Christ but severally members one of another" (Rom. 12: 5).
+1. The saints in heaven are, with us, members of the Church, of one body belonging to Christ. "So we the many, are one body in Christ but severally members one of another" (Rom. 12:5).
 
 > Members of the same body give mutual help to each other; the saints help us by their prayers before God. On our part, we honor and imitate them.
 

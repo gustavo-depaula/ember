@@ -13,7 +13,7 @@
 
 > Quando Napoleão o Grande estava no auge de seu poder, um de seus generais perguntou-lhe uma vez qual tinha sido o dia mais feliz de sua vida. Esperando ouvir o Imperador nomear uma grande batalha, o general ficou surpreso ao ouvi-lo dizer, "Meu dia mais feliz foi o dia de minha primeira Santa Comunhão, pois então fui trazido mais perto de meu Deus."
 
-2. Cristo ordenou-nos receber a Santa Comunhão quando disse: "Se não comerdes a carne do Filho do Homem e beberdes o seu sangue, não tereis vida em vós" (João 6: 54). É o alimento de nossas almas.
+2. Cristo ordenou-nos receber a Santa Comunhão quando disse: "Se não comerdes a carne do Filho do Homem e beberdes o seu sangue, não tereis vida em vós" (João 6:54). É o alimento de nossas almas.
 
 > A Santa Comunhão aumenta em nós a vida da graça. Durante a perseguição contra o Cristianismo na China, a graça dada aos mártires foi notada pelos próprios pagãos. As vítimas eram cruelmente açoitadas e torturadas, mas permaneciam firmes em sua fé e a professavam abertamente e sem medo. Os infiéis, maravilhados com tal fortaleza, diziam, "Verdadeiramente, estas pessoas têm comido daquele Pão Eucarístico que participam em suas assembleias. Lança um feitiço sobre suas almas."
 

@@ -40,7 +40,7 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 1. Antes de nosso exame de consciência devemos pedir a ajuda de Deus para conhecer nossos pecados e confessá-los com pesar sincero. Sem Sua graça, não podemos nem conhecer nossos pecados nem sentir pesar por eles.
 
-> "Como vivo, diz o Senhor Deus, não desejo a morte do ímpio, mas que o ímpio se converta de seu caminho e viva" (Ez. 33: 11).
+> "Como vivo, diz o Senhor Deus, não desejo a morte do ímpio, mas que o ímpio se converta de seu caminho e viva" (Ez. 33:11).
 
 2. O exame de consciência é importante, pois por ele aprendemos a conhecer-nos e assim encontramos meios de melhoria. Quantos homens há que conhecem inúmeras coisas sobre natureza, ciência, literatura e direito e contudo nunca sequer olharam para suas próprias almas!
 
@@ -53,11 +53,11 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 1. Devemos fazer um exame tão cuidadoso como se estivéssemos em nosso leito de morte, considerando de que modo pecamos em pensamento, desejo, palavra, obra ou omissão. Devemos recordar quantas vezes cometemos pecados mortais.
 
-> "Meditarei em teus mandamentos e considerarei teus caminhos" (Sl. 118: 15).
+> "Meditarei em teus mandamentos e considerarei teus caminhos" (Sl. 118:15).
 
 2. Não precisamos estar demasiado ansiosos sobre examinar-nos em pecados veniais, já que não é necessário confessá-los; mas é melhor fazê-lo, para emendar-nos e obter maiores graças.
 
-> Em nosso exame de consciência, cuidemos, não seja que, ao investigar pequenos pecados, cubramos os grandes. Não imitemos os Fariseus, aos quais Nosso Senhor disse, "Guias cegos, que coais o mosquito e engolis o camelo!" (Mat. 23: 24).
+> Em nosso exame de consciência, cuidemos, não seja que, ao investigar pequenos pecados, cubramos os grandes. Não imitemos os Fariseus, aos quais Nosso Senhor disse, "Guias cegos, que coais o mosquito e engolis o camelo!" (Mat. 23:24).
 
 3. Em nosso exame, devemos recordar todas as circunstâncias que possam mudar a natureza dos pecados que desejamos confessar.
 
@@ -93,4 +93,4 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 3. Uma boa regra é examinar nossa consciência cada noite, gastando alguns momentos revisando as ações do dia.
 
-> Então quando chega o tempo para a confissão, temos apenas que recordar os pecados que nossos exames noturnos nos revelaram. Um bom exame de consciência é uma garantia de uma boa confissão. Não podemos nem confessar nem sentir pesar pelo que não recordamos. "Se dissermos que não temos pecado, enganamo-nos a nós mesmos e a verdade não está em nós" (1 João 1: 8).
+> Então quando chega o tempo para a confissão, temos apenas que recordar os pecados que nossos exames noturnos nos revelaram. Um bom exame de consciência é uma garantia de uma boa confissão. Não podemos nem confessar nem sentir pesar pelo que não recordamos. "Se dissermos que não temos pecado, enganamo-nos a nós mesmos e a verdade não está em nós" (1 João 1:8).

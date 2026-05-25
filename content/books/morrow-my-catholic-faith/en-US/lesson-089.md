@@ -2,7 +2,7 @@
 
 ![](../images/lesson-089.webp)
 
-*1. Giving alms to a beggar is a corporal work of mercy. God looks upon charity given to the poor as an act of charity to Himself. Jesus Christ Himself said this (Matt. 25: 40). 2. When we teach catechism we are performing a spiritual work of mercy. Many can do this work today, if they only would. Numerous persons, even of an advanced age, do not know the essentials of their religion, for want of someone to teach them.*
+*1. Giving alms to a beggar is a corporal work of mercy. God looks upon charity given to the poor as an act of charity to Himself. Jesus Christ Himself said this (Matt. 25:40). 2. When we teach catechism we are performing a spiritual work of mercy. Many can do this work today, if they only would. Numerous persons, even of an advanced age, do not know the essentials of their religion, for want of someone to teach them.*
 
 
 **What must we do to love God, our neighbour, and ourselves?**
@@ -22,7 +22,7 @@
 
 2. To give drink to the thirsty.
 
-> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9: 40). Giving medicine belongs to this work of mercy. Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
+> Our Lord says that a cup of cold water given in His name shall not go unrewarded (Mark 9:40). Giving medicine belongs to this work of mercy. Those who construct reservoirs, or who purify public drinking water, are giving drink to the thirsty.
 
 3. To clothe the naked. — Many make a practice of giving clothes to the poor; other gifts belong to this kind of alms.
 
@@ -34,7 +34,7 @@
 
 5. To shelter the homeless. — Those who do this work of mercy are like the Good Samaritan. Those who provide clean and comfortable homes for the poor at low rates of rent practice this work of mercy.
 
-> St. Paul said, "Hospitality do not forget; for by this some, not being aware of it, have entertained angels" (Heb. 13: 2). In olden times travellers stopped for the night or for food in the monasteries.
+> St. Paul said, "Hospitality do not forget; for by this some, not being aware of it, have entertained angels" (Heb. 13:2). In olden times travellers stopped for the night or for food in the monasteries.
 
 > In the Alps, the monks of St. Bernard perform this work of mercy when they rescue, with the aid of their famous breed of dogs, travellers who have met with accidents.
 
@@ -53,7 +53,7 @@
 
 1. To admonish the sinner. — Whenever we think our words may have a good effect, we should not hesitate to admonish the erring prudently. Those in authority, such as parents and teachers, are bound to admonish those under them of their faults, even if in doing so they bring trouble upon themselves. Good example is another way of admonition.
 
-> In admonishing sinners, we must do so with gentleness and charity. Otherwise we might only produce results the opposite of what we wish. It would be wrong, if with a little trouble we could save a sinner from sin, did we not speak to save him; it would, moreover, be a loss of great grace for ourselves. "He who causes a sinner to be brought back from his misguided way, will save his soul from death, and will cover a multitude of sins" (James 5: 20).
+> In admonishing sinners, we must do so with gentleness and charity. Otherwise we might only produce results the opposite of what we wish. It would be wrong, if with a little trouble we could save a sinner from sin, did we not speak to save him; it would, moreover, be a loss of great grace for ourselves. "He who causes a sinner to be brought back from his misguided way, will save his soul from death, and will cover a multitude of sins" (James 5:20).
 
 2. To instruct the ignorant.
 
@@ -73,7 +73,7 @@
 
 6. To forgive all injuries.
 
-> We must not seek revenge. "Vengeance is mine, I will repay, says the Lord" (Rom. 12: 19). We must forgive others, as we hope God will forgive us. Instead of seeking revenge, those who wish to imitate the saints go out of their way to do favours to those who injure them. Like Christ, they love all men.
+> We must not seek revenge. "Vengeance is mine, I will repay, says the Lord" (Rom. 12:19). We must forgive others, as we hope God will forgive us. Instead of seeking revenge, those who wish to imitate the saints go out of their way to do favours to those who injure them. Like Christ, they love all men.
 
 7. To pray for the living and the dead.
 

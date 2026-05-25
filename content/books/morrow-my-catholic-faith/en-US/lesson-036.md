@@ -2,7 +2,7 @@
 
 ![](../images/lesson-036.webp)
 
-*"Now late in the night of the Sabbath, as it began to dawn towards the first day of the week, Mary Magdalene and the other Mary come to see the sepulchre. And behold, there was a great earthquake; for an angel of the Lord came down from heaven, and drawing near rolled back the stone, and sat upon it. His countenance was like lightning, and his raiment like snow. And for fear of him the guards were terrified, and became like dead men. But the angel spoke and said to the women; Do not be afraid; for I know that you seek Jesus, who was crucified. He is not here, for he has risen even as he said. Come, see the place where the Lord was laid'" (Matt. 28: 1-7).*
+*"Now late in the night of the Sabbath, as it began to dawn towards the first day of the week, Mary Magdalene and the other Mary come to see the sepulchre. And behold, there was a great earthquake; for an angel of the Lord came down from heaven, and drawing near rolled back the stone, and sat upon it. His countenance was like lightning, and his raiment like snow. And for fear of him the guards were terrified, and became like dead men. But the angel spoke and said to the women; Do not be afraid; for I know that you seek Jesus, who was crucified. He is not here, for he has risen even as he said. Come, see the place where the Lord was laid'" (Matt. 28:1-7).*
 
 (FIFTH ARTICLE OF THE APOSTLES' CREED)
 
@@ -17,7 +17,7 @@
 
 2. Christ went to limbo to announce to the souls waiting there the joyful news that He had reopened heaven to mankind.
 
-> "He was brought to life in the spirit, in which also he went and preached to those spirits that were in prison" (1 Pet. 3: 19). The souls in limbo could not go to heaven, which had been closed by Adam's sin. It was only reopened to man by the death of Our Lord, by the Redemption. The souls in limbo did not suffer pain, but they longed for heaven. After the release of these souls from Limbo, and their entrance into heaven, this Limbo for the just souls ceased to exist.
+> "He was brought to life in the spirit, in which also he went and preached to those spirits that were in prison" (1 Pet. 3:19). The souls in limbo could not go to heaven, which had been closed by Adam's sin. It was only reopened to man by the death of Our Lord, by the Redemption. The souls in limbo did not suffer pain, but they longed for heaven. After the release of these souls from Limbo, and their entrance into heaven, this Limbo for the just souls ceased to exist.
 
 3. While His soul was in limbo, Christ's body was in the holy sepulchre. When man dies, his soul is separated from the body. When Jesus died, His body and soul were separated, but His divinity remained united to both body and soul.
 
@@ -30,11 +30,11 @@
 
 1. Christ had often foretold His resurrection.
 
-> He said of His own body: "Destroy this temple, and in three days I will raise it up" (John 2: 19). Before entering Jerusalem He said to His Apostles that He would be put to death and "rise again on the third day" (Matt. 20: 19). On the night of the Last Supper He said: "But after I have risen, I will go before you into Galilee" (Matt. 26: 32).
+> He said of His own body: "Destroy this temple, and in three days I will raise it up" (John 2:19). Before entering Jerusalem He said to His Apostles that He would be put to death and "rise again on the third day" (Matt. 20:19). On the night of the Last Supper He said: "But after I have risen, I will go before you into Galilee" (Matt. 26:32).
 
 2. Even His enemies knew that He had predicted His resurrection. This is why they obtained Pilate's permission to seal the sepulchre and set guards to watch it.
 
-> They said to Pilate: "Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again'" (Matt. 27: 63).
+> They said to Pilate: "Sir, we have remembered how that deceiver said, while he was yet alive, 'After three days I will rise again'" (Matt. 27:63).
 
 3. Today the entire Christendom celebrates Easter Sunday in memory of the Resurrection. It is the Feast of feasts, commemorating the completion of our redemption by Christ.
 
@@ -47,7 +47,7 @@
 
 1. Christ's resurrection is an undoubted fact on which rests the Christian faith.
 
-> St. Paul says: "If Christ has not risen, vain then is our preaching, vain too is your faith" (1 Cor. 15: 14). And according to St. John, an eyewitness: "Many other signs also Jesus worked in the sight of his disciples, which are not written in this book. But these are written, that you may believe that Jesus is the Christ, the Son of God" (John 20: 30-31)
+> St. Paul says: "If Christ has not risen, vain then is our preaching, vain too is your faith" (1 Cor. 15:14). And according to St. John, an eyewitness: "Many other signs also Jesus worked in the sight of his disciples, which are not written in this book. But these are written, that you may believe that Jesus is the Christ, the Son of God" (John 20:30-31)
 
 2. In the first place, Christ really died. His death was witnessed by many, both friends and enemies. It was proved by the soldier who plunged his spear into His side. It was communicated officially to Pilate. His bones were not broken, because He was found already dead. His Mother and disciples would never have buried Him had they suspected the least chance of life.
 
@@ -59,8 +59,8 @@
 
 4. The Jews bribed the guards to say that while they were asleep, the disciples had stolen the body of Christ.
 
-> Such an act was made impossible by Christ's enemies themselves. They had sealed and guarded the tomb. "So they went and made the sepulchre secure, sealing the stone, and setting the guard" (Matt. 27: 66). Even supposing the guards to have fallen asleep, the great stone which covered the sepulchre could not have been moved without waking some at least of the guards. Finally, it is a remarkable circumstance that the guards were not punished for this breach of duty.
+> Such an act was made impossible by Christ's enemies themselves. They had sealed and guarded the tomb. "So they went and made the sepulchre secure, sealing the stone, and setting the guard" (Matt. 27:66). Even supposing the guards to have fallen asleep, the great stone which covered the sepulchre could not have been moved without waking some at least of the guards. Finally, it is a remarkable circumstance that the guards were not punished for this breach of duty.
 
 5. Christ really arose from the dead. For forty days, He appeared to many. He conversed, walked, and even ate with them. He spent much time instructing the Apostles.
 
-> One of His most important appearances was to five hundred disciples on a mountain in Galilee, when He gave the Apostles the command to go forth into the world and teach. The Evangelists have recorded nine apparitions: but it is evident from their writings (for example, Acts 1: 3) that there were other and unrecorded occasions when Christ appeared. Countless of Christ's followers laid down their lives in testimony of the truth of the resurrection. "During forty days appearing to them, and speaking of the kingdom of God" (Acts 1: 3).
+> One of His most important appearances was to five hundred disciples on a mountain in Galilee, when He gave the Apostles the command to go forth into the world and teach. The Evangelists have recorded nine apparitions: but it is evident from their writings (for example, Acts 1:3) that there were other and unrecorded occasions when Christ appeared. Countless of Christ's followers laid down their lives in testimony of the truth of the resurrection. "During forty days appearing to them, and speaking of the kingdom of God" (Acts 1:3).

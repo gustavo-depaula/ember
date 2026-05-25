@@ -2,7 +2,7 @@
 
 ![](../images/lesson-102.webp)
 
-*The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2: 51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a good son, curing his father of his blindness.*
+*The Child Jesus should be our model of obedience: "And he went down with them (Mary and Joseph) and came to Nazareth and was subject to them" (Luke 2:51). Our Lord, God Himself lived in humble obedience to two mortals, Mary and Joseph, to give us an example. The picture (2) shows Tobias, a model of a good son, curing his father of his blindness.*
 
 "HONOUR THY FATHER AND THY MOTHER."
 
@@ -15,7 +15,7 @@
 
 1. One respects his parents (a) by reverencing them as holding God's place; (b) by accepting their corrections willingly; and (c) by excusing and hiding their faults.
 
-> It was God Himself who gave us our parents, and we reverence God when we respect them who are His direct representatives over us. Respect is one duty towards his parents that a child, however old and famous he may become in later life, will always owe his parents, "The eye that mocketh at his father and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out and the young eagles eat it" (Prov. 30: 17).
+> It was God Himself who gave us our parents, and we reverence God when we respect them who are His direct representatives over us. Respect is one duty towards his parents that a child, however old and famous he may become in later life, will always owe his parents, "The eye that mocketh at his father and that despiseth the labour of his mother in bearing him, let the ravens of the brooks pick it out and the young eagles eat it" (Prov. 30:17).
 
 2. One loves his parents by trying to please them, by helping them, and praying for them. Children who love their parents make their home a place of joy and peace.
 
@@ -44,7 +44,7 @@
 
 1. Guardians take the place of parents. A child owes his guardians the same respect and obedience due his parents.
 
-> Teachers, godparents of baptism and confirmation, and elderly persons like grandparents, may be called guardians. All old people are to be respected by the young; "Honour the person of the aged man, and rise up before the hoary head" (Lev. 19: 32).
+> Teachers, godparents of baptism and confirmation, and elderly persons like grandparents, may be called guardians. All old people are to be respected by the young; "Honour the person of the aged man, and rise up before the hoary head" (Lev. 19:32).
 
 2. Employees are bound to respect and obey their superiors. They should be loyal, and careful about the property entrusted to them. Tutors and nurses must be especially faithful because to them are entrusted human souls. They must see to it that the children under their care are protected from harm to body and soul.
 
@@ -61,7 +61,7 @@
 
 1. We should reverence our priest and bishop as our fathers in Christ, obey them in spiritual matters, and pray for them. We should contribute to their support according to our means.
 
-> We should appreciate the fact that they sacrifice their time, health, and whole lives for the good of our souls. St. Paul tells us: "Obey your superiors and be subject to them, for they keep watch as having to render an account of your souls" (Heb. 13: 17). One offends God gravely if he opposes bishops or priests, speaks ill of them, gossips about them, or neglects to contribute to their support.
+> We should appreciate the fact that they sacrifice their time, health, and whole lives for the good of our souls. St. Paul tells us: "Obey your superiors and be subject to them, for they keep watch as having to render an account of your souls" (Heb. 13:17). One offends God gravely if he opposes bishops or priests, speaks ill of them, gossips about them, or neglects to contribute to their support.
 
 2. We must be loyal to the Holy Father and obey him in spiritual matters. He is the visible head of the body of Christ, the Church, of which we are the members. We must honour him, respect his authority.
 

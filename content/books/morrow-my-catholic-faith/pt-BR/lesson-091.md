@@ -57,7 +57,7 @@
 
 2. Nosso Senhor Jesus Cristo confirmou os dez mandamentos e os impôs a nós de forma mais completa.
 
-> Cristo reiterou os dez mandamentos quando falando ao jovem rico (Mat. 19: 18), e no sermão da montanha. Em várias ocasiões, explicou vários deles separadamente. "Em verdade vos digo: até que o céu e a terra passem, nem um jota ou um til se perderá da Lei, até que todas as coisas sejam cumpridas" (Mat. 5: 18-19).
+> Cristo reiterou os dez mandamentos quando falando ao jovem rico (Mat. 19:18), e no sermão da montanha. Em várias ocasiões, explicou vários deles separadamente. "Em verdade vos digo: até que o céu e a terra passem, nem um jota ou um til se perderá da Lei, até que todas as coisas sejam cumpridas" (Mat. 5:18-19).
 
 3. Devemos guardar alegremente os Mandamentos, porque Deus deseja e nos ordena fazê-lo. É o caminho para servi-Lo. Se guardarmos os Mandamentos, mostramos por nossos atos que amamos a Deus, e assim O servimos.
 

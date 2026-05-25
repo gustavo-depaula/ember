@@ -15,15 +15,15 @@
 
 2. Não trabalhar seus empregados além de suas forças, ou colocá-los em qualquer trabalho que é inadequado a seu sexo e idade. Não deve haver mães trabalhando, nem trabalho infantil.
 
-> Não podemos mudar a Lei de Deus. Ele comandou: "Não afligireis a viúva ou o órfão. Se os afligirdes, eles clamarão a Mim, e Eu ouvirei seu clamor" (Êx. 22: 23).
+> Não podemos mudar a Lei de Deus. Ele comandou: "Não afligireis a viúva ou o órfão. Se os afligirdes, eles clamarão a Mim, e Eu ouvirei seu clamor" (Êx. 22:23).
 
 3. Cuidar que as condições de trabalho sejam seguras para a alma assim como para o corpo:
 
 > (a) não expondo homens trabalhadores a ocasiões perigosas de pecado e a más influências; (b) dando-lhes tempo para cumprir seus deveres religiosos e familiares; e (c) desencorajando todos os sinais de negligência da família e desperdício de ganhos.
 
-4. Pagar um salário digno; isto é, suficiente para sustentar os empregados e suas famílias em decência, e habilitá-los a educar seus filhos propriamente. "Ninguém defraude a seu irmão nos negócios, porque Deus é o vingador destas coisas" (1 Tim. 4: 6).
+4. Pagar um salário digno; isto é, suficiente para sustentar os empregados e suas famílias em decência, e habilitá-los a educar seus filhos propriamente. "Ninguém defraude a seu irmão nos negócios, porque Deus é o vingador destas coisas" (1 Tim. 4:6).
 
-> Isto é um direito, ditado pela justiça natural. Se o empregado é forçado a aceitar condições mais duras, porque o empregador não dará melhores, injustiça é cometida. É um pecado grave não pagar um salário justo aos empregados. É furto e uma espécie de assassinato reter os salários de um pobre trabalhador. "Não recusarás o salário do necessitado e do pobre, mas pagar-lhe-ás o salário de seu trabalho. . . . para que não clame contra ti ao Senhor" (Deut. 24: 14).
+> Isto é um direito, ditado pela justiça natural. Se o empregado é forçado a aceitar condições mais duras, porque o empregador não dará melhores, injustiça é cometida. É um pecado grave não pagar um salário justo aos empregados. É furto e uma espécie de assassinato reter os salários de um pobre trabalhador. "Não recusarás o salário do necessitado e do pobre, mas pagar-lhe-ás o salário de seu trabalho. . . . para que não clame contra ti ao Senhor" (Deut. 24:14).
 
 5. Melhorar tanto quanto possível as condições das classes trabalhadoras. Este é o único modo como podemos evitar desordem e remover descontentamento dos trabalhadores, um número crescente dos quais hoje vive em extrema pobreza enquanto seus empregadores desfrutam abundância e luxo.
 
@@ -38,7 +38,7 @@
 
 2. Prestar obediência a seus empregadores, cumprindo sua parte de todos os acordos e contratos, e servindo fiel e honestamente.
 
-> É uma consolação para os humildemente situados saber que na próxima vida haverá uma distribuição absolutamente justa de recompensas, segundo o que cada um merece. Quanto mais pacientes formos na terra, mais resignados a nossa sorte, mais Deus nos recompensará no céu. "Para aqueles que amam a Deus, todas as coisas cooperam para o bem" (Rom. 8: 28).
+> É uma consolação para os humildemente situados saber que na próxima vida haverá uma distribuição absolutamente justa de recompensas, segundo o que cada um merece. Quanto mais pacientes formos na terra, mais resignados a nossa sorte, mais Deus nos recompensará no céu. "Para aqueles que amam a Deus, todas as coisas cooperam para o bem" (Rom. 8:28).
 
 3. Reverenciar e respeitar a pessoa e propriedade de seus empregadores. Não deve ser ocioso; não deve desperdiçar ou furtar bens de seus empregadores, nem feri-los por negligência.
 
@@ -67,4 +67,4 @@ O objetivo geral é estabelecer um certo número de horas como máximo para trab
 
 4. Sindicatos devem cuidar para não desenvolverem-se em organizações Comunistas. Estas seriam para fins puramente materiais, envolvendo uma guerra de classes para a ditadura do proletariado.
 
-> Para prevenir a propagação do Comunismo, as crescentes dificuldades das classes trabalhadoras devem ser amelioradas; os ricos devem ser atenciosos para com os pobres, e religião deve reinar em todos os corações. Não poderia ser a vontade de Deus que uma pequena minoria desfrute de excesso dos bens deste mundo, enquanto o resto de Seus filhos vive em destituição. Empregadores, e especialmente católicos, devem praticar justiça cristã em suas relações com aqueles em seu emprego. Como São Paulo diz, os ricos devem "fazer o bem, ser ricos em boas obras, dar prontamente, compartilhando com outros" (1 Tim. 6: 18).
+> Para prevenir a propagação do Comunismo, as crescentes dificuldades das classes trabalhadoras devem ser amelioradas; os ricos devem ser atenciosos para com os pobres, e religião deve reinar em todos os corações. Não poderia ser a vontade de Deus que uma pequena minoria desfrute de excesso dos bens deste mundo, enquanto o resto de Seus filhos vive em destituição. Empregadores, e especialmente católicos, devem praticar justiça cristã em suas relações com aqueles em seu emprego. Como São Paulo diz, os ricos devem "fazer o bem, ser ricos em boas obras, dar prontamente, compartilhando com outros" (1 Tim. 6:18).

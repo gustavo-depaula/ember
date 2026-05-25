@@ -11,7 +11,7 @@
 
 — Pelo terceiro mandamento, nos é ordenado adorar de maneira especial no Domingo, o dia do Senhor.
 
-> "Guardai meu sábado: porque é santo para vós: aquele que o profanar, será posto à morte: aquele que fizer alguma obra nele, sua alma perecerá do meio de seu povo. Seis dias fareis obra: no sétimo dia é o sábado, o repouso santo ao Senhor" (Êxodo 31: 14-15).
+> "Guardai meu sábado: porque é santo para vós: aquele que o profanar, será posto à morte: aquele que fizer alguma obra nele, sua alma perecerá do meio de seu povo. Seis dias fareis obra: no sétimo dia é o sábado, o repouso santo ao Senhor" (Êxodo 31:14-15).
 
 1. Deus comandou a observância de um dia definido, para que o homem possa dedicar um dia por semana ao culto especial de seu Criador. A lei natural obriga o homem a adorar e agradecer a Deus por Suas contínuas bênçãos.
 
@@ -19,7 +19,7 @@
 
 > O dia nos permite unir-nos ao culto público e receber instrução religiosa. O repouso beneficia tanto corpo quanto alma. Se tivéssemos que trabalhar sempre, sete dias por semana, ano após ano, nossa saúde quebraria sob a tensão.
 
-2. Na Lei Antiga, a celebração de um dia definido, o sábado, havia sido ordenada apenas especialmente para os Judeus, assim como a circuncisão e sacrifícios sangrentos. A Lei Antiga foi ab-rogada com a instituição da Nova (Atos 10: 15; 2: 16; Gál. 4: 10-11).
+2. Na Lei Antiga, a celebração de um dia definido, o sábado, havia sido ordenada apenas especialmente para os Judeus, assim como a circuncisão e sacrifícios sangrentos. A Lei Antiga foi ab-rogada com a instituição da Nova (Atos 10:15; 2:16; Gál. 4:10-11).
 
 > Na Lei Antiga, os Judeus guardavam santo o sétimo dia da semana, Sábado. Era seu dia de repouso. O princípio vital do Terceiro Mandamento não era o dia específico, mas que um dia em sete deveria ser dedicado ao culto de Deus o Criador.
 
@@ -32,7 +32,7 @@
 
 > A Igreja do tempo dos Apóstolos observava o primeiro dia da semana, Domingo, em honra da Ressurreição e Pentecostes, que ambos ocorreram num Domingo. Do mesmo modo, a primitiva Igreja fez a circuncisão e sacrifícios sangrentos darem lugar ao Batismo e ao Sacrifício da Missa.
 
-2. Na Nova Lei, os católicos guardam santo o primeiro dia da semana, Domingo. É chamado "O Dia do Senhor". São Paulo refere-se duas vezes à sua observância. (Atos 20: 7; 1 Cor. 16: 2).
+2. Na Nova Lei, os católicos guardam santo o primeiro dia da semana, Domingo. É chamado "O Dia do Senhor". São Paulo refere-se duas vezes à sua observância. (Atos 20:7; 1 Cor. 16:2).
 
 
 **Como a Igreja nos manda adorar a Deus no Domingo?**

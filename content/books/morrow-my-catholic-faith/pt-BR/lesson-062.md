@@ -2,7 +2,7 @@
 
 ![](../images/lesson-062.webp)
 
-*"Eu sou o bom pastor, e conheço as Minhas ovelhas e as Minhas ovelhas conhecem-Me, assim como o Pai Me conhece e Eu conheço o Pai; e dou Minha vida pelas Minhas ovelhas. E tenho outras ovelhas que não são deste redil. Também as devo trazer, e ouvirão Minha voz, e haverá um só rebanho e um só pastor" (João 10: 14-16). Todos aqueles não batizados são ovelhas de Cristo que ainda não ouviram Sua voz. Devem também ser trazidos à Igreja. Protestantes são ovelhas que deixaram o redil de Cristo. Devem retornar à Igreja, se quiserem ouvir a voz de Cristo, o Bom Pastor, Que amorosamente os chama à Sua Verdadeira Igreja.*
+*"Eu sou o bom pastor, e conheço as Minhas ovelhas e as Minhas ovelhas conhecem-Me, assim como o Pai Me conhece e Eu conheço o Pai; e dou Minha vida pelas Minhas ovelhas. E tenho outras ovelhas que não são deste redil. Também as devo trazer, e ouvirão Minha voz, e haverá um só rebanho e um só pastor" (João 10:14-16). Todos aqueles não batizados são ovelhas de Cristo que ainda não ouviram Sua voz. Devem também ser trazidos à Igreja. Protestantes são ovelhas que deixaram o redil de Cristo. Devem retornar à Igreja, se quiserem ouvir a voz de Cristo, o Bom Pastor, Que amorosamente os chama à Sua Verdadeira Igreja.*
 
 
 **Quem são os leigos da Igreja?**
@@ -60,7 +60,7 @@
 
 — Os leigos podem ajudar a Igreja no cuidado das almas levando vidas que refletirão crédito na Igreja, e cooperando com seus bispos e sacerdotes, especialmente através da Ação Católica.
 
-> "Assim, brilhe vossa luz diante dos homens, para que vejam vossas boas obras e glorifiquem vosso Pai que está nos céus" (Mateus 5: 16).
+> "Assim, brilhe vossa luz diante dos homens, para que vejam vossas boas obras e glorifiquem vosso Pai que está nos céus" (Mateus 5:16).
 
 1. Um bom Católico faz esforços sérios para salvar sua alma. Guarda os mandamentos de Deus e da Igreja. Recebe os sacramentos. Faz todas as coisas prescritas por Cristo através da Igreja.
 

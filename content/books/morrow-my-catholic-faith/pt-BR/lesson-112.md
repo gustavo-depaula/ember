@@ -2,22 +2,22 @@
 
 ![](../images/lesson-112.webp)
 
-*Uma vez Nosso Senhor estava caminhando por Jericó. Um rico publicano Zaqueu, desejava vê-Lo, mas a multidão era tão grande que não pôde. Portanto subiu numa árvore ao longo do caminho de nosso Senhor. Jesus viu Zaqueu e disse-lhe que descesse, pois seria seu hóspede. Zaqueu disse a Jesus que restauraria quatro vezes o que quer que tivesse tomado injustamente de alguém. Sobre isto Jesus chamou Zaqueu de filho de Abraão (Luc. 19: 1-10). Assim determinou fazer reparação por sua usura.*
+*Uma vez Nosso Senhor estava caminhando por Jericó. Um rico publicano Zaqueu, desejava vê-Lo, mas a multidão era tão grande que não pôde. Portanto subiu numa árvore ao longo do caminho de nosso Senhor. Jesus viu Zaqueu e disse-lhe que descesse, pois seria seu hóspede. Zaqueu disse a Jesus que restauraria quatro vezes o que quer que tivesse tomado injustamente de alguém. Sobre isto Jesus chamou Zaqueu de filho de Abraão (Luc. 19:1-10). Assim determinou fazer reparação por sua usura.*
 
 
 **Somos obrigados a reparar dano injustamente feito à propriedade de outros?**
 
 — Somos obrigados a reparar dano injustamente feito à propriedade de outros, ou pagar o montante do dano, tanto quanto somos capazes.
 
-> "Se alguém ferir um campo ou uma vinha, e meter seu animal a pastar no que é de outros: restituirá o melhor de tudo que tem em seu próprio campo, ou em sua vinha, segundo a estimação do dano" (Êx. 22: 5).
+> "Se alguém ferir um campo ou uma vinha, e meter seu animal a pastar no que é de outros: restituirá o melhor de tudo que tem em seu próprio campo, ou em sua vinha, segundo a estimação do dano" (Êx. 22:5).
 
 1. Se nós, sem saber, por compra ou dom, obtivemos posse de propriedade roubada, somos obrigados a restituí-la ao legítimo proprietário, assim que soubermos a verdade.
 
-> Somos possuidores justos apenas enquanto não sabemos que os bens foram roubados. Assim que nos tornamos conscientes daquele fato, devemos abandonar a propriedade. "O princípio de um bom caminho é fazer justiça; e isto é mais aceitável a Deus, do que oferecer sacrifícios. . . . Melhor é um pouco com justiça, do que grandes rendas com iniqüidade" (Prov. 16: 5, 8).
+> Somos possuidores justos apenas enquanto não sabemos que os bens foram roubados. Assim que nos tornamos conscientes daquele fato, devemos abandonar a propriedade. "O princípio de um bom caminho é fazer justiça; e isto é mais aceitável a Deus, do que oferecer sacrifícios. . . . Melhor é um pouco com justiça, do que grandes rendas com iniqüidade" (Prov. 16:5, 8).
 
 2. Se alguém recusa restaurar propriedade roubada ou reparar dano que injustamente fez à propriedade de outros, não pode ser perdoado. Não obterá perdão de Deus, nem absolvição do padre, mesmo que confesse seu pecado uma e outra vez.
 
-> Enquanto alguém não tenciona sinceramente fazer reparação, seu pecado não será remitido, mesmo que suplique perdão divino com choro, ou procure aplacar a justiça divina por jejuns e penitências. Não foi até que Zaqueu declarou sua determinação de fazer restituição que Nosso Senhor o chamou de filho de Abraão (Luc. 19: 9).
+> Enquanto alguém não tenciona sinceramente fazer reparação, seu pecado não será remitido, mesmo que suplique perdão divino com choro, ou procure aplacar a justiça divina por jejuns e penitências. Não foi até que Zaqueu declarou sua determinação de fazer restituição que Nosso Senhor o chamou de filho de Abraão (Luc. 19:9).
 
 3. Justiça requer reparação do mal que fazemos, na medida em que temos capacidade de fazer aquela reparação. Sem restituição ou reparação, não há perdão.
 
@@ -30,7 +30,7 @@
 
 — Somos obrigados a restituir ao proprietário bens roubados, ou seu valor, sempre que somos capazes.
 
-> "Se alguém furtar um boi ou uma ovelha, e matar ou vender: restituirá cinco bois por um boi, e quatro ovelhas por uma ovelha" (Êx. 22: 1).
+> "Se alguém furtar um boi ou uma ovelha, e matar ou vender: restituirá cinco bois por um boi, e quatro ovelhas por uma ovelha" (Êx. 22:1).
 
 1. Se o legítimo proprietário está morto, a propriedade deve ser restaurada a seus herdeiros. Se não há herdeiros, deve ser dada aos pobres ou para algum outro propósito caridoso.
 
@@ -51,7 +51,7 @@
 
 1. É-nos permitido desejar a propriedade de outros apenas quando propomos obtê-la por meios legítimos, como por compra ou troca.
 
-> "Pois a avareza é a raiz de todos os males, e alguns em sua ânsia de enriquecer desviaram-se da fé e envolveram-se em muitas dificuldades" (1 Tim. 6: 10).
+> "Pois a avareza é a raiz de todos os males, e alguns em sua ânsia de enriquecer desviaram-se da fé e envolveram-se em muitas dificuldades" (1 Tim. 6:10).
 
 2. Entre aqueles culpados de violar o décimo mandamento estão:
 

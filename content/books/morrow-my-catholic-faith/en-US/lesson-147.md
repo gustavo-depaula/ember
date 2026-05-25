@@ -9,7 +9,7 @@
 
 — Our contrition is perfect when we are sorry for our sins because sin offends God, Whom we love above all things for His own sake.
 
-> "Wherefore I say to thee, her sins, many as they are, shall be forgiven her, because she has loved much. But he to whom little is forgiven, loves little." And he said to her 'Thy sins are forgiven.' And they who were at table with him began to say within themselves, 'Who is this man, who even forgives sins?' But he said to the woman, 'Thy faith has saved thee; go in peace' " (Luke 7: 47-50).
+> "Wherefore I say to thee, her sins, many as they are, shall be forgiven her, because she has loved much. But he to whom little is forgiven, loves little." And he said to her 'Thy sins are forgiven.' And they who were at table with him began to say within themselves, 'Who is this man, who even forgives sins?' But he said to the woman, 'Thy faith has saved thee; go in peace' " (Luke 7:47-50).
 
 1. This contrition arises from a pure and perfect love of God. If we have a perfect love of God, our contrition for sins will be perfect.
 
@@ -30,7 +30,7 @@
 
 2. An act of perfect contrition takes away sin immediately. Our sins however grievous are forgiven before we confess them, although the obligation to confess as soon as we can remains.
 
-> Thus, if one makes an act of perfect contrition after having committed a mortal sin. and then dies before being able to go to confession, he is saved from hell by the act he made. Let us remember the penitent thief: "And he said to Jesus, 'Lord, remember me when thou comest into thy kingdom.' And Jesus said to him, 'Amen I say to thee, this day thou shalt be with me in paradise' " (Luke 23: 40-43).
+> Thus, if one makes an act of perfect contrition after having committed a mortal sin. and then dies before being able to go to confession, he is saved from hell by the act he made. Let us remember the penitent thief: "And he said to Jesus, 'Lord, remember me when thou comest into thy kingdom.' And Jesus said to him, 'Amen I say to thee, this day thou shalt be with me in paradise' " (Luke 23:40-43).
 
 However, we may not receive Holy Communion after committing a mortal sin, if we merely make an act of perfect contrition; one who has sinned grievously must go to confession before receiving Holy Communion.
 

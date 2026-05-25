@@ -11,7 +11,7 @@
 
 1. Aquele que morre imediatamente após ganhar uma indulgência plenária vai direto ao céu, sem ter que passar pelo Purgatório.
 
-> Ao bom ladrão foi concedida por Nosso Senhor uma indulgência plenária, por causa de sua perfeita contrição de coração. Ao outro ladrão disse que estavam recebendo o que suas ações mereciam. E disse a Jesus: "Senhor, lembra-Te de mim quando vieres ao Teu reino." E Jesus disse-lhe: "Em verdade te digo: hoje estarás comigo no paraíso" (Lucas 23: 42-43).
+> Ao bom ladrão foi concedida por Nosso Senhor uma indulgência plenária, por causa de sua perfeita contrição de coração. Ao outro ladrão disse que estavam recebendo o que suas ações mereciam. E disse a Jesus: "Senhor, lembra-Te de mim quando vieres ao Teu reino." E Jesus disse-lhe: "Em verdade te digo: hoje estarás comigo no paraíso" (Lucas 23:42-43).
 
 2. Para ganhar uma indulgência plenária, deve-se estar inteiramente livre de todo pecado, tanto mortal quanto venial, e de toda afeição a ele.
 

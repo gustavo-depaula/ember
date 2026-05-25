@@ -15,7 +15,7 @@
 
 2. The Mass is no mere remembrance or memorial of Calvary; it actually renews, in the separate consecration of the bread and wine, the death of the Lord, the separation of His Body and Blood.
 
-> At the Last Supper, after Christ had changed the bread and wine into His Body and Blood, He said: "Do this in remembrance of me" (Luke 22: 19). And St. Paul adds: "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11: 26). At the Last Supper, Christ instituted a visible sacrifice, the Mass, in order to renew the bloody sacrifice which He consummated on the cross.
+> At the Last Supper, after Christ had changed the bread and wine into His Body and Blood, He said: "Do this in remembrance of me" (Luke 22:19). And St. Paul adds: "For as often as you shall eat this bread, and drink the cup, you proclaim the death of the Lord, until he comes" (1 Cor. 11:26). At the Last Supper, Christ instituted a visible sacrifice, the Mass, in order to renew the bloody sacrifice which He consummated on the cross.
 
 3. The principal priest in every Mass is Jesus Christ, who offers to His heavenly Father, through the ministry of His ordained priest. His body and blood which were sacrificed on the cross.
 

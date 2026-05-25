@@ -15,9 +15,9 @@
 
 > Those who are in the state of perfection are not necessarily all perfect; but they are expected to aim at perfection. Many people in the world are actually more holy than some in the religious state. It is however easier to strive after perfection in the religious state, where there are more aids and means than in the world with its distractions.
 
-2. The call to the religious state is only an invitation: "Not all can accept this teaching, but those to whom it has been given" (Matt. 19: 11).
+2. The call to the religious state is only an invitation: "Not all can accept this teaching, but those to whom it has been given" (Matt. 19:11).
 
-> Members of religious orders or congregations are bound by the vows of poverty, chastity, and obedience. They are devoted to the exclusive service of God, "without distractions" (1 Cor. 7: 35).
+> Members of religious orders or congregations are bound by the vows of poverty, chastity, and obedience. They are devoted to the exclusive service of God, "without distractions" (1 Cor. 7:35).
 
 
 **Who may be admitted into the religious state?**
@@ -60,11 +60,11 @@
 
 1. As no one should be forced, so no one should be prevented from becoming either a Priest or a Sister. It is a sin for parents to oppose or prevent their child's religious vocation. It is stealing him from the service of God, Who has called him.
 
-> Our Lord promised, "Everyone who has left house, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive a hundredfold, and shall possess life everlasting" (Matt. 19: 29).
+> Our Lord promised, "Everyone who has left house, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive a hundredfold, and shall possess life everlasting" (Matt. 19:29).
 
 2. It is a great honour for a family to have even one of its members dedicated to the special service of God, as a priest, a brother or a nun. Christian parents should pray that God may give their child a religious vocation.
 
-> Our Lord said: "If anyone comes to me and does not hate his father and mother, and wife and children, and brothers and sisters, yes, and even his own life, he cannot be my disciple" (Luke 14: 26). By this "hate" does not mean to break God's commandment of love; it means only to give up for God's sake, to detach oneself from what is good, in order to be fully attached to the one infinitely Perfect Good, God. "Every one of you who does not renounce all that he possesses, cannot be my disciple" (Luke 14: 33).
+> Our Lord said: "If anyone comes to me and does not hate his father and mother, and wife and children, and brothers and sisters, yes, and even his own life, he cannot be my disciple" (Luke 14:26). By this "hate" does not mean to break God's commandment of love; it means only to give up for God's sake, to detach oneself from what is good, in order to be fully attached to the one infinitely Perfect Good, God. "Every one of you who does not renounce all that he possesses, cannot be my disciple" (Luke 14:33).
 
 
 **What is the dowry?**

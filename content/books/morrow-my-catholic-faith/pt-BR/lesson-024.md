@@ -42,7 +42,7 @@
 
 1. É errado voluntariamente procurar as ocasiões de pecado.
 
-> "Quem ama o perigo nele perecerá" (Ecli. 3: 27). Contudo, aqueles que por sua vocação ou outra necessidade estão continuamente expostos a tais ocasiões perigosas, como padres, oficiais, médicos, e outros, devem pôr sua confiança em Deus, que lhes dará graça e os protegerá.
+> "Quem ama o perigo nele perecerá" (Ecli. 3:27). Contudo, aqueles que por sua vocação ou outra necessidade estão continuamente expostos a tais ocasiões perigosas, como padres, oficiais, médicos, e outros, devem pôr sua confiança em Deus, que lhes dará graça e os protegerá.
 
 2. Devemos evitar ocasiões de pecado assim que as percebemos.
 

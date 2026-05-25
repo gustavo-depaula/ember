@@ -48,10 +48,10 @@
 
 > "As the Father has sent me, I also send you" (John 20:21).
 
-2. The Apostles chose men to assist them, imparting to them greater or less powers. Before leaving a place, they chose a successor with full powers (Acts 14: 22).
+2. The Apostles chose men to assist them, imparting to them greater or less powers. Before leaving a place, they chose a successor with full powers (Acts 14:22).
 
 > Those who received only a small part of the powers of the Apostles were called deacons. Those given greater power were the priests. Those appointed successors to rule in the place of the Apostles were the bishops.
 
-3. Christ had given the Apostles full powers to choose successors, when He gave them the powers His Father had given Him (John 20: 21)
+3. Christ had given the Apostles full powers to choose successors, when He gave them the powers His Father had given Him (John 20:21)
 
-> It was His wish that the Apostles should have successors to continue the Church, which He said would last till the end of the world (Matt. 28: 20). Without successors to the Apostles, the Church would have no rulers, and being unorganised would never have lasted.
+> It was His wish that the Apostles should have successors to continue the Church, which He said would last till the end of the world (Matt. 28:20). Without successors to the Apostles, the Church would have no rulers, and being unorganised would never have lasted.

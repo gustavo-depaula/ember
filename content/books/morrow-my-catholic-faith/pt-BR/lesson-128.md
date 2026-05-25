@@ -11,7 +11,7 @@
 
 > Eucaristia em grego significa ação de graças. O sacramento é assim chamado porque quando Cristo o instituiu, Ele deu graças. Hoje, é o principal meio pelo qual damos graças a Deus.
 
-1. A Santa Eucaristia é também chamada o Santíssimo Sacramento, porque é o mais excelente de todos os sacramentos. Dá-nos o Próprio Cristo. "Meu deleite é estar com os filhos dos homens" (Prov. 8: 31).
+1. A Santa Eucaristia é também chamada o Santíssimo Sacramento, porque é o mais excelente de todos os sacramentos. Dá-nos o Próprio Cristo. "Meu deleite é estar com os filhos dos homens" (Prov. 8:31).
 
 > É chamada o Sacramento do Altar porque é consagrada e reservada sobre um altar. É oferecida sobre o altar no Santo Sacrifício da Missa.
 
@@ -47,7 +47,7 @@ Tomai e comei; este é o meu corpo.
 
 Bebei todos disto; pois isto é o meu sangue da nova aliança, que está sendo derramado por muitos para a remissão dos pecados
 
-> " (Mat. 26: 26-28).
+> " (Mat. 26:26-28).
 
 2. Anteriormente, no dia após a primeira multiplicação dos pães e peixes, Nosso Senhor prometera dar Sua Carne para comer e Seu Sangue para beber. Nesta ocasião, é claro que os Judeus tomaram as palavras de Nosso Senhor literalmente. Muitos dos discípulos deixaram Jesus e "já não andavam com Ele," porque não podiam crer tal coisa como Ele prometera. Mas Jesus, embora muito triste por sua partida, não retirou Suas palavras ou as explicou diferentemente.
 
@@ -55,11 +55,11 @@ Bebei todos disto; pois isto é o meu sangue da nova aliança, que está sendo d
 
 Como pode este homem dar-nos sua carne para comer?
 
-> " Jesus portanto disse-lhes, Amen, amen. Digo-vos, se não comerdes a carne do Filho do Homem, e beberdes Seu sangue, não tereis vida em vós. Aquele que come minha carne e bebe meu sangue tem vida eterna e Eu o ressuscitarei no último dia. Pois minha carne é verdadeiramente comida, e meu sangue é verdadeiramente bebida. Aquele que come minha carne e bebe meu sangue, permanece em Mim e Eu nele. Como o Pai vivo Me enviou, e como Eu vivo por causa do Pai, assim aquele que Me come, ele também viverá por causa de Mim. Este é o pão que desceu do céu; não como vossos pais comeram o maná, e morreram. Aquele que come este pão viverá eternamente." (João 6: 48-59).
+> " Jesus portanto disse-lhes, Amen, amen. Digo-vos, se não comerdes a carne do Filho do Homem, e beberdes Seu sangue, não tereis vida em vós. Aquele que come minha carne e bebe meu sangue tem vida eterna e Eu o ressuscitarei no último dia. Pois minha carne é verdadeiramente comida, e meu sangue é verdadeiramente bebida. Aquele que come minha carne e bebe meu sangue, permanece em Mim e Eu nele. Como o Pai vivo Me enviou, e como Eu vivo por causa do Pai, assim aquele que Me come, ele também viverá por causa de Mim. Este é o pão que desceu do céu; não como vossos pais comeram o maná, e morreram. Aquele que come este pão viverá eternamente." (João 6:48-59).
 
 3. Os Apóstolos entenderam que Cristo pretendia Suas palavras na Última Ceia literalmente. São Paulo escreve:
 
-> "O cálice de bênção que abençoamos, não é a comunhão do sangue de Cristo? E o pão que partimos, não é a participação do corpo do Senhor? . . . Portanto aquele que comer este pão ou beber o cálice do Senhor indignamente, será culpado do corpo e do sangue do Senhor. Mas prove-se o homem a si mesmo, e assim coma daquele pão e beba daquele cálice; pois aquele que come e bebe indignamente, sem discernir o corpo, come e bebe juízo para si mesmo" (1 Cor. 10: 16; 11: 27-29).
+> "O cálice de bênção que abençoamos, não é a comunhão do sangue de Cristo? E o pão que partimos, não é a participação do corpo do Senhor? . . . Portanto aquele que comer este pão ou beber o cálice do Senhor indignamente, será culpado do corpo e do sangue do Senhor. Mas prove-se o homem a si mesmo, e assim coma daquele pão e beba daquele cálice; pois aquele que come e bebe indignamente, sem discernir o corpo, come e bebe juízo para si mesmo" (1 Cor. 10:16; 11:27-29).
 
 4. Tem sido a crença contínua dos cristãos desde o princípio do Cristianismo. Santo Agostinho disse, "Nosso Senhor segurou-Se em Suas Próprias mãos, quando deu Seu Corpo aos discípulos." Foi apenas no décimo sexto século que protestantes, separando-se da Igreja Verdadeira, negaram-no e introduziram uma doutrina diferente.
 

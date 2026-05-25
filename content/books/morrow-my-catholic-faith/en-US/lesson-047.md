@@ -13,35 +13,35 @@
 
 1. After teaching publicly what He required all to believe and practice, thereby announcing the main doctrines of His Church, Christ gathered a number of disciples. From them He chose twelve, to whom He gave special instruction and training.
 
-> The term "a kingdom", by which Our Lord used to refer to His Church, implies organized authority. And He said to the special men He had chosen, "You have not chosen me, but I have chosen you" (John 15: 16). He did not teach the disciples for themselves alone, but to be the foundation of His Church. God did not come to save only a few disciples, but all men.
+> The term "a kingdom", by which Our Lord used to refer to His Church, implies organized authority. And He said to the special men He had chosen, "You have not chosen me, but I have chosen you" (John 15:16). He did not teach the disciples for themselves alone, but to be the foundation of His Church. God did not come to save only a few disciples, but all men.
 
-2. Christ said to the men He had chosen: "As the Father has sent me, I also send you" (John 20: 21), bidding them go and preach the doctrines He had taught. He sent them to all nations, promising salvation to those that should believe, and threatening condemnation to those refusing to believe.
+2. Christ said to the men He had chosen: "As the Father has sent me, I also send you" (John 20:21), bidding them go and preach the doctrines He had taught. He sent them to all nations, promising salvation to those that should believe, and threatening condemnation to those refusing to believe.
 
-> "He who believes and is baptised shall be saved, but he who does not believe shall be condemned" (Mark 16: 16). God is just; He would not have threatened condemnation to unbelievers unless He had furnished the means whereby they could believe. His Church is this means; all men must join it.
+> "He who believes and is baptised shall be saved, but he who does not believe shall be condemned" (Mark 16:16). God is just; He would not have threatened condemnation to unbelievers unless He had furnished the means whereby they could believe. His Church is this means; all men must join it.
 
 3. Not only did the men chosen by Christ have authority; He gave them extraordinary powers, particularly the twelve special men, the Apostles.
 
-> "Then having summoned his twelve disciples, he gave them power over unclean spirits, to cast them out, and to cure every kind of disease and infirmity" (Matt. 10: 1).
+> "Then having summoned his twelve disciples, he gave them power over unclean spirits, to cast them out, and to cure every kind of disease and infirmity" (Matt. 10:1).
 
 a. They had power to sanctify, when Christ bade them:
 
-> "Go therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28: 19).
+> "Go therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit" (Matt. 28:19).
 
 b. They had power to forgive sin, when Christ said to them:
 
-> "Whose sins you shall forgive, they are forgiven them" (John 20: 23).
+> "Whose sins you shall forgive, they are forgiven them" (John 20:23).
 
 c. They had power to rule when Christ said:
 
-> "He who hears you hears me; and he who rejects you rejects me; and he who rejects me rejects him who sent me" (Luke 10: 16). And: "Whatever you bind on earth shall be bound also in heaven" (Matt. 18: 18).
+> "He who hears you hears me; and he who rejects you rejects me; and he who rejects me rejects him who sent me" (Luke 10:16). And: "Whatever you bind on earth shall be bound also in heaven" (Matt. 18:18).
 
 d. They had power to offer sacrifice, when at the Last Supper, Christ, after instituting the Eucharist, bade them:
 
-> "Do this in remembrance of me" (1 Cor. 11: 24 - 25).
+> "Do this in remembrance of me" (1 Cor. 11:24 - 25).
 
 4. After training the disciples and Apostles to form the organization of His Church, Christ chose Simon Peter and made him the Chief. Simon, whose name Christ changed to Peter, was the Head of the Church.
 
-> On Simon, Christ promised to build His Church, saying: "Thou art Peter, and upon this rock I will build my Church" (Matt. 16: 18). After the Resurrection, He confirmed Peter's authority over the Church, saying to him: "Feed my lambs; feed my sheep" (John 21: 15 - 17).
+> On Simon, Christ promised to build His Church, saying: "Thou art Peter, and upon this rock I will build my Church" (Matt. 16:18). After the Resurrection, He confirmed Peter's authority over the Church, saying to him: "Feed my lambs; feed my sheep" (John 21:15 - 17).
 
 5. Finally, He promised to remain for all time with the Church He established.
 
@@ -65,15 +65,15 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 1. No one can deny that Jesus Christ gathered disciples, and out of them chose twelve Apostles, to whom He gave special instruction and orders. He formed them as the foundation of His organization; was this not visible?
 
-> Speaking of a stubborn man, He said: "If he refuse to hear even the Church, let him be to thee as the heathen" (Matt. 18: 17). And He promised his disciples: "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18: 18). Surely something must be visible to bind and loose, to be heard and obeyed. And Christ referred to this visible organization as a city set on a mountain, that cannot be hidden (Matt. 5: 14).
+> Speaking of a stubborn man, He said: "If he refuse to hear even the Church, let him be to thee as the heathen" (Matt. 18:17). And He promised his disciples: "Amen, I say to you, whatever you bind on earth shall be bound also in heaven; and whatever you loose on earth shall be loosed also in heaven" (Matt. 18:18). Surely something must be visible to bind and loose, to be heard and obeyed. And Christ referred to this visible organization as a city set on a mountain, that cannot be hidden (Matt. 5:14).
 
 2. From the very beginning, the Apostles exercised their authority and powers; these were signs of a very visible organization. They did not advise; they directed, as superiors, and decided, as judges.
 
-> Thus St. Paul excommunicated the sinful Corinthian; and he commanded the Hebrews: "Obey your superiors, and be subject to them" (Heb. 13: 17).
+> Thus St. Paul excommunicated the sinful Corinthian; and he commanded the Hebrews: "Obey your superiors, and be subject to them" (Heb. 13:17).
 
 3. The Apostles and Fathers condemned schism. This fact implies a visible organization; for how can there be schism against an invisible body?
 
-> St. Paul urged the Corinthians: "By the name of Our Lord Jesus Christ ... that there be no dissensions among you" (1 Cor. 1: 10). And St. Cyprian in the third century wrote: "Whoever is separated from the Church is separated from the promises of Christ ... One cannot have God as a Father who has not the Church as his mother."
+> St. Paul urged the Corinthians: "By the name of Our Lord Jesus Christ ... that there be no dissensions among you" (1 Cor. 1:10). And St. Cyprian in the third century wrote: "Whoever is separated from the Church is separated from the promises of Christ ... One cannot have God as a Father who has not the Church as his mother."
 
 
 ## Apostolicity of Catholic Doctrines

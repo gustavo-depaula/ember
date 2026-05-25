@@ -36,7 +36,7 @@
 
 2. If there were no need of penance, the most hardened sinners would receive the same treatment as the most saintly men, a condition impossible to the justice of God. Christ Himself wills that as we are to share in His glory, we must first share in His sufferings.
 
-> "Heirs indeed of God and joint heirs with Christ; yet so, if we suffer with Him, that we may also be glorified with Him" (Rom. 8: 17).
+> "Heirs indeed of God and joint heirs with Christ; yet so, if we suffer with Him, that we may also be glorified with Him" (Rom. 8:17).
 
 3. The punishment for sin prescribed by God is clear:
 
@@ -64,7 +64,7 @@
 
 — They are: prayer, attending Mass, fasting, alms-giving, the works of mercy, the patient endurance of sufferings, and indulgences.
 
-> "But Zacchaeus stood and said to the Lord, 'Behold, Lord, I give one-half of my possessions to the poor, and if I have defrauded anyone of anything, I restore it fourfold' " (Luke 19: 8-9).
+> "But Zacchaeus stood and said to the Lord, 'Behold, Lord, I give one-half of my possessions to the poor, and if I have defrauded anyone of anything, I restore it fourfold' " (Luke 19:8-9).
 
 Devout persons will not be satisfied with doing the penance imposed by the priest. They will do voluntary work of charity and mortification, in atonement; - they will, besides, bear patiently all ills sent by God.
 

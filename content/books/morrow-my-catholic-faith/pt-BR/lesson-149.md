@@ -2,7 +2,7 @@
 
 ![](../images/lesson-149.webp)
 
-*1. Faz uma confissão má quem deliberadamente esconde um pecado mortal. Longe de ser perdoado de qualquer de seus pecados, assim comete um novo pecado mortal, sacrilégio. Se alguém tem vergonha de confessar seus pecados mortais diante de seu confessor ordinário, está sempre em liberdade de ir a outro padre, um que não o conhece. Mas de modo algum deve esconder um pecado mortal. "Aquele que esconde seus pecados não prosperará" (Prov. 28: 13).*
+*1. Faz uma confissão má quem deliberadamente esconde um pecado mortal. Longe de ser perdoado de qualquer de seus pecados, assim comete um novo pecado mortal, sacrilégio. Se alguém tem vergonha de confessar seus pecados mortais diante de seu confessor ordinário, está sempre em liberdade de ir a outro padre, um que não o conhece. Mas de modo algum deve esconder um pecado mortal. "Aquele que esconde seus pecados não prosperará" (Prov. 28:13).*
 
 *2. Se fazemos uma boa confissão, nossas almas são limpas e somos restaurados à graça santificante, à amizade de Deus. Também recebemos graças atuais que nos ajudam em nossa luta contra o mal.*
 
@@ -11,7 +11,7 @@
 
 — Confissão é o ato de dizer nossos pecados a um padre autorizado para o propósito de obter perdão.
 
-> "Se reconhecermos nossos pecados, Ele é fiel e justo para perdoar-nos os pecados" (1 João 1: 9).
+> "Se reconhecermos nossos pecados, Ele é fiel e justo para perdoar-nos os pecados" (1 João 1:9).
 
 As principais qualidades de uma boa confissão são três: deve ser humilde, sincera e inteira.
 

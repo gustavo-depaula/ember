@@ -25,7 +25,7 @@
 
 4. The ordinations of a deacon and a priest, and the consecration of a bishop, are only three degrees in a single sacrament, which confers orders for each degree.
 
-> By means of the Sacrament of Holy Orders, the graces earned by the sacrifice of Christ are to be applied to the faithful of all times. "As the Father has sent me, I also send you" — for the same ends: to glorify God and lead men to salvation; by the same means: through prayer and teaching: in difficulties and against obstacles, and with the promise of ultimate victory: "And I appoint to you my kingdom, even as my Father has appointed to me, that you may eat and drink at my table in my kingdom: and you shall sit upon thrones, judging the twelve tribes of Israel" (Luke 22: 29-30).
+> By means of the Sacrament of Holy Orders, the graces earned by the sacrifice of Christ are to be applied to the faithful of all times. "As the Father has sent me, I also send you" — for the same ends: to glorify God and lead men to salvation; by the same means: through prayer and teaching: in difficulties and against obstacles, and with the promise of ultimate victory: "And I appoint to you my kingdom, even as my Father has appointed to me, that you may eat and drink at my table in my kingdom: and you shall sit upon thrones, judging the twelve tribes of Israel" (Luke 22:29-30).
 
 ![](../images/lesson-160b.webp)
 

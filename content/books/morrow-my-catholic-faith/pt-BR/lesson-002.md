@@ -2,7 +2,7 @@
 
 ![](../images/lesson-002.webp)
 
-*Os Apóstolos, antes de se separarem, reuniram-se em Jerusalém no primeiro Concílio da Igreja. Lá decidiram colocar por escrito num breve resumo suas principais doutrinas, para que seus ensinamentos fossem uniformes onde quer que pregassem. Esta declaração dos artigos de fé chamamos hoje de "Credo dos Apóstolos". Foi formulado para pôr em fruição o mandamento de Nosso Senhor: "Ide, pois, e fazei discípulos de todas as nações... ensinando-os a observar tudo o que vos ordenei; e eis que estou convosco todos os dias" (Mat. 28: 19-20).*
+*Os Apóstolos, antes de se separarem, reuniram-se em Jerusalém no primeiro Concílio da Igreja. Lá decidiram colocar por escrito num breve resumo suas principais doutrinas, para que seus ensinamentos fossem uniformes onde quer que pregassem. Esta declaração dos artigos de fé chamamos hoje de "Credo dos Apóstolos". Foi formulado para pôr em fruição o mandamento de Nosso Senhor: "Ide, pois, e fazei discípulos de todas as nações... ensinando-os a observar tudo o que vos ordenei; e eis que estou convosco todos os dias" (Mat. 28:19-20).*
 
 
 **Onde encontramos as principais verdades ensinadas por Jesus Cristo através da Igreja Católica?**
@@ -19,7 +19,7 @@
 
 3. O Credo dos Apóstolos chegou até nós intacto, exceto por algumas cláusulas adicionadas pela Igreja mais tarde, para contrabalançar várias heresias. Estas adições, porém, não são novas doutrinas, mas uma clarificação do que o Credo já continha.
 
-> Assim as palavras "Criador do céu e da terra" foram adicionadas para contrabalançar a heresia maniqueísta de que o mundo foi criado pelo princípio do mal; e a palavra "Católica" foi adicionada, para distinguir a Verdadeira Igreja das igrejas que surgiam ao seu redor. Como disse Nosso Senhor, "E vós também dais testemunho, porque desde o princípio estais comigo" (João 15: 27).
+> Assim as palavras "Criador do céu e da terra" foram adicionadas para contrabalançar a heresia maniqueísta de que o mundo foi criado pelo princípio do mal; e a palavra "Católica" foi adicionada, para distinguir a Verdadeira Igreja das igrejas que surgiam ao seu redor. Como disse Nosso Senhor, "E vós também dais testemunho, porque desde o princípio estais comigo" (João 15:27).
 
 4. Há vários outros credos usados pela Igreja, em substância idênticos ao Credo dos Apóstolos.
 
@@ -69,7 +69,7 @@
 
 1. A fé cristã é um dom sobrenatural de Deus que nos permite crer firmemente em tudo o que Deus revelou, no testemunho de Sua palavra. Por ela cremos na verdade de muitas coisas que não podemos compreender com nosso entendimento.
 
-> Por exemplo, cremos em Deus, embora não O possamos ver. Cremos na Trindade, embora esteja além de nosso entendimento. "Sem fé é impossível agradar a Deus" (Heb. 11: 6).
+> Por exemplo, cremos em Deus, embora não O possamos ver. Cremos na Trindade, embora esteja além de nosso entendimento. "Sem fé é impossível agradar a Deus" (Heb. 11:6).
 
 2. A fé não nos exige crer em algo contrário à razão. Quando cremos no que não podemos perceber ou compreender, agimos segundo a razão, que nos diz que Deus não pode errar, mentir ou enganar-nos. Pomos, pois, nossa confiança na palavra de Deus.
 
@@ -77,7 +77,7 @@
 
 3. Uma grande recompensa no céu espera aqueles que sofrem perseguição ou morrem pela fé ou alguma virtude cristã. O número de mártires que morreram pela fé Católica é estimado em mais de dezesseis milhões.
 
-> Todos os Apóstolos sofreram perseguição, e todos exceto São João sofreram morte por martírio, por sua fé. São João Batista foi decapitado porque censurou Herodes por violar a lei do matrimônio. São João Nepomuceno foi morto porque recusou violar o selo da confissão. "Portanto, todo aquele que me confessar diante dos homens, também eu o confessarei diante de meu Pai que está nos céus" (Mat. 10: 32).
+> Todos os Apóstolos sofreram perseguição, e todos exceto São João sofreram morte por martírio, por sua fé. São João Batista foi decapitado porque censurou Herodes por violar a lei do matrimônio. São João Nepomuceno foi morto porque recusou violar o selo da confissão. "Portanto, todo aquele que me confessar diante dos homens, também eu o confessarei diante de meu Pai que está nos céus" (Mat. 10:32).
 
 4. A negligência do estudo das verdades de nossa religião é frequentemente a causa da tibieza, de uma vida má, e final apostasia e impenitência. Devemos ser zelosos no estudo da doutrina cristã, nas lições de catecismo e religião, nos sermões, missões e retiros.
 

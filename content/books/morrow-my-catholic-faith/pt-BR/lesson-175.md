@@ -15,9 +15,9 @@
 
 > Aqueles que estão no estado de perfeição não são necessariamente todos perfeitos; mas espera-se que visem à perfeição. Muitas pessoas no mundo são atualmente mais santas que algumas no estado religioso. É contudo mais fácil esforçar-se após a perfeição no estado religioso, onde há mais ajudas e meios que no mundo com suas distrações.
 
-2. O chamado ao estado religioso é apenas um convite: "Nem todos podem aceitar este ensino, mas àqueles a quem foi dado" (Mat. 19: 11).
+2. O chamado ao estado religioso é apenas um convite: "Nem todos podem aceitar este ensino, mas àqueles a quem foi dado" (Mat. 19:11).
 
-> Membros de ordens religiosas ou congregações estão vinculados pelos votos de pobreza, castidade e obediência. São devotados ao exclusivo serviço de Deus, "sem distrações" (1 Cor. 7: 35).
+> Membros de ordens religiosas ou congregações estão vinculados pelos votos de pobreza, castidade e obediência. São devotados ao exclusivo serviço de Deus, "sem distrações" (1 Cor. 7:35).
 
 
 **Quem pode ser admitido no estado religioso?**
@@ -60,11 +60,11 @@
 
 1. Como ninguém deve ser forçado assim ninguém deve ser impedido de tornar-se ou Padre ou Irmã. É um pecado para pais opor-se ou impedir a vocação religiosa de seu filho. É roubá-lo do serviço de Deus Que o chamou.
 
-> Nosso Senhor prometeu, "Todo aquele que deixou casa ou irmãos ou irmãs ou pai ou mãe ou mulher ou filhos ou terras por amor do Meu nome receberá cem vezes mais e possuirá a vida eterna" (Mat. 19: 29).
+> Nosso Senhor prometeu, "Todo aquele que deixou casa ou irmãos ou irmãs ou pai ou mãe ou mulher ou filhos ou terras por amor do Meu nome receberá cem vezes mais e possuirá a vida eterna" (Mat. 19:29).
 
 2. É uma grande honra para uma família ter mesmo um de seus membros dedicado ao especial serviço de Deus como padre um irmão ou uma freira. Pais cristãos devem orar para que Deus possa dar a seu filho uma vocação religiosa.
 
-> Nosso Senhor disse: "Se alguém vem a Mim e não odeia seu pai e mãe e mulher e filhos e irmãos e irmãs sim e mesmo sua própria vida não pode ser Meu discípulo" (Lucas 14: 26). Por este "ódio" não significa quebrar o mandamento de Deus de amor; significa apenas renunciar por amor de Deus desapegar-se do que é bom para estar plenamente apegado ao único infinitamente Perfeito Bem Deus. "Todo aquele de vós que não renuncia a tudo que possui não pode ser Meu discípulo" (Lucas 14: 33).
+> Nosso Senhor disse: "Se alguém vem a Mim e não odeia seu pai e mãe e mulher e filhos e irmãos e irmãs sim e mesmo sua própria vida não pode ser Meu discípulo" (Lucas 14:26). Por este "ódio" não significa quebrar o mandamento de Deus de amor; significa apenas renunciar por amor de Deus desapegar-se do que é bom para estar plenamente apegado ao único infinitamente Perfeito Bem Deus. "Todo aquele de vós que não renuncia a tudo que possui não pode ser Meu discípulo" (Lucas 14:33).
 
 
 **O que é o dote?**

@@ -9,7 +9,7 @@
 
 — The ninth commandment forbids all thoughts and desires contrary to chastity.
 
-> "You have heard that it was said to the ancients, 'Thou shalt not commit adultery.' But I say to you that anyone who even looks with lust at a woman has already committed adultery with her in his heart" (Matt. 5: 27-28).
+> "You have heard that it was said to the ancients, 'Thou shalt not commit adultery.' But I say to you that anyone who even looks with lust at a woman has already committed adultery with her in his heart" (Matt. 5:27-28).
 
 An impure desire is the wish or intention to do something unchaste or impure. Almost always, sins against purity, thoughts and desires as well as acts, are grave or mortal sins. Whenever we are beset by temptation, we should immediately pray, especially to our beloved Mother, the purest of mortals.
 
@@ -48,7 +48,7 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 2. Always remember that God sees us. Let us therefore seek His help through prayer.
 
-> "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak" (Mark 14: 38). For instruction about matters of sex, go to your parents or to your pastor or older people whom you know are good.
+> "Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak" (Mark 14:38). For instruction about matters of sex, go to your parents or to your pastor or older people whom you know are good.
 
 3. Be always modest and pure in your dress, posture, and conversation. This is not only to save yourself from immodesty, but to avoid giving occasion to others to sin, or being even an unwitting cause for others to sin.
 
@@ -56,6 +56,6 @@ An impure desire is the wish or intention to do something unchaste or impure. Al
 
 4. Receive the sacraments of Penance and Holy Eucharist often, and attend Holy Mass frequently.
 
-Thus we follow the injunction: "Walk in the spirit, and you shall not fulfil the lusts of the flesh" (Gal. 5: 16).
+Thus we follow the injunction: "Walk in the spirit, and you shall not fulfil the lusts of the flesh" (Gal. 5:16).
 
 5. We should have a special love and devotion for our Blessed Mother, and daily ask her to preserve us in the chastity that she so greatly cherished.

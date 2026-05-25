@@ -2,7 +2,7 @@
 
 ![](../images/lesson-172.webp)
 
-*De São Paulo aprendemos que armadura vestir em nossa luta pela perfeição cristã: "Revesti-vos da armadura de Deus, para que possais estar firmes contra as astúcias do diabo... Estai, portanto, tendo cingidos vossos lombos com a verdade e tendo vestido a couraça da justiça e tendo calçados vossos pés com a preparação do evangelho da paz, em todas as coisas tomando o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno. E tomai o capacete da salvação e a espada do espírito, que é a palavra de Deus" (Efés. 6: 11-17).*
+*De São Paulo aprendemos que armadura vestir em nossa luta pela perfeição cristã: "Revesti-vos da armadura de Deus, para que possais estar firmes contra as astúcias do diabo... Estai, portanto, tendo cingidos vossos lombos com a verdade e tendo vestido a couraça da justiça e tendo calçados vossos pés com a preparação do evangelho da paz, em todas as coisas tomando o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno. E tomai o capacete da salvação e a espada do espírito, que é a palavra de Deus" (Efés. 6:11-17).*
 
 
 **Devemos estar satisfeitos meramente em guardar os mandamentos de Deus?**
@@ -28,9 +28,9 @@
 
 > Nossa Santíssima Mãe fez alguma obra extraordinária, julgada pelos padrões normais do mundo? Mas nenhum mortal foi ou pode ser tão santo, tão cheio de perfeição. Entreguemo-nos fervorosamente a Deus e estaremos no caminho da perfeição cristã, segundo nossa capacidade individual.
 
-2. Deus requer que todos aspirem à perfeição cristã. Ele diz: "Sede, portanto, perfeitos como vosso Pai celestial é perfeito" (Mat. 5: 48).
+2. Deus requer que todos aspirem à perfeição cristã. Ele diz: "Sede, portanto, perfeitos como vosso Pai celestial é perfeito" (Mat. 5:48).
 
-> Aqueles que praticam virtude receberão uma eterna recompensa e são felizes mesmo na terra. Daí Nosso Senhor pronuncia-os bem-aventurados nas Bem-Aventuranças (Mat. 5: 3-10).
+> Aqueles que praticam virtude receberão uma eterna recompensa e são felizes mesmo na terra. Daí Nosso Senhor pronuncia-os bem-aventurados nas Bem-Aventuranças (Mat. 5:3-10).
 
 3. Todos os estados de vida podem ser santificados por aqueles que desejam apenas viver para Deus. Santos são encontrados em cada classe. Amor a Deus está no poder de todos.
 
@@ -38,7 +38,7 @@
 
 4. O modelo da perfeição cristã é Nosso Senhor. Os santos, que O imitaram fielmente, são também padrões de perfeição.
 
-> Ninguém pode algum dia ser tão perfeito como Nosso Senhor. Mas tendo-O por modelo inspira-nos a esforçar-nos por maior e maior santidade. Ele disse, "Eu sou o Caminho, a Verdade e a Vida" (João 14: 6). E em resposta ao jovem que desejava tornar-se perfeito, Jesus disse, "Vem, segue-Me" (Mat. 19: 21). Devemos tentar fazer progresso cada dia, de modo que sejamos melhores hoje que ontem. "Aquele que é justo, seja justo ainda, e aquele que é santo, seja santificado ainda" (Apoc. 22: 11).
+> Ninguém pode algum dia ser tão perfeito como Nosso Senhor. Mas tendo-O por modelo inspira-nos a esforçar-nos por maior e maior santidade. Ele disse, "Eu sou o Caminho, a Verdade e a Vida" (João 14:6). E em resposta ao jovem que desejava tornar-se perfeito, Jesus disse, "Vem, segue-Me" (Mat. 19:21). Devemos tentar fazer progresso cada dia, de modo que sejamos melhores hoje que ontem. "Aquele que é justo, seja justo ainda, e aquele que é santo, seja santificado ainda" (Apoc. 22:11).
 
 (a) Devemos começar desde a juventude a esforçar-nos após a perfeição.
 

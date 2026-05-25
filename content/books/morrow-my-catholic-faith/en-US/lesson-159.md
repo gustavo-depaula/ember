@@ -11,19 +11,19 @@
 
 1. Our Lord Jesus Christ instituted this sacrament. At the Last Supper He gave the Apostles and their successors the power to say Mass. He said, after consecrating His Body and Blood:
 
-> "Do this in remembrance of me" (Luke 22: 19). Thus He gave the Apostles the power to offer the Sacrifice of the Mass.
+> "Do this in remembrance of me" (Luke 22:19). Thus He gave the Apostles the power to offer the Sacrifice of the Mass.
 
 2. On the day of the Resurrection Our Lord gave the disciples power to forgive sins. He breathed on them and said:
 
-> "As the Father has sent me, I also send you. . . . Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them, and whose sins you shall retain, they are retained" (John 20: 21-23).
+> "As the Father has sent me, I also send you. . . . Receive the Holy Spirit; whose sins you shall forgive, they are forgiven them, and whose sins you shall retain, they are retained" (John 20:21-23).
 
 3. Finally, before the Ascension, Christ gave His disciples the mission to preach the Gospel and dispense the sacraments.
 
-> "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 18-20).
+> "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world" (Matt. 28:18-20).
 
 4. The Apostles, in compliance with the wishes of Christ, administered the sacrament of Holy Orders.
 
-> They consecrated Paul and Barnabas Bishops with prayer and the imposition of hands. In the same way St. Paul ordained Timothy. When the Apostles established churches, upon their departure, they ordained and appointed successors (bishops) to whom they gave full powers, and other ministers (priests) to whom they transmitted part of their powers. "For this reason I admonish thee to stir up the grace of God which is in thee by the laying on of my hands" (2 Tim. 1: 6) .
+> They consecrated Paul and Barnabas Bishops with prayer and the imposition of hands. In the same way St. Paul ordained Timothy. When the Apostles established churches, upon their departure, they ordained and appointed successors (bishops) to whom they gave full powers, and other ministers (priests) to whom they transmitted part of their powers. "For this reason I admonish thee to stir up the grace of God which is in thee by the laying on of my hands" (2 Tim. 1:6) .
 
 
 **What are some of the requirements for a man, to receive Holy Orders worthily?**
@@ -61,4 +61,4 @@
 
 2. The sacrament of Holy Orders is administered by means of ceremonies that vary with the kind of orders conferred. It consists in the sign of the imposition of hands by the bishop, together with the accompanying words of ordination, varying with the order being conferred.
 
-> "You have not chosen me, but I have chosen you" (John 15: 16). "He who receives you, receives me; and he who receives me, receives him who sent me" (Matthew 10: 40).
+> "You have not chosen me, but I have chosen you" (John 15:16). "He who receives you, receives me; and he who receives me, receives him who sent me" (Matthew 10:40).

@@ -2,7 +2,7 @@
 
 ![](../images/lesson-121.webp)
 
-*O Sacramento da Penitência foi instituído por Nosso Senhor. Os Apóstolos o administraram. Assim em seu tempo, como dizem as Escrituras, os convertidos cristãos vinham a eles, "confessando e declarando seus feitos." (1) Assim vinham a São Paulo em Éfeso (Atos 19: 18). (2) Os primeiros cristãos recebiam o Corpo de Nosso Senhor diariamente. É desejo da Igreja que se não podemos imitá-los, devemos ao menos receber a Santa Comunhão tão frequentemente quanto possível pelo menos cada vez que ouvimos Missa, nos Domingos e dias santos de obrigação. Não deveríamos precisar ir à Confissão para cada Comunhão.*
+*O Sacramento da Penitência foi instituído por Nosso Senhor. Os Apóstolos o administraram. Assim em seu tempo, como dizem as Escrituras, os convertidos cristãos vinham a eles, "confessando e declarando seus feitos." (1) Assim vinham a São Paulo em Éfeso (Atos 19:18). (2) Os primeiros cristãos recebiam o Corpo de Nosso Senhor diariamente. É desejo da Igreja que se não podemos imitá-los, devemos ao menos receber a Santa Comunhão tão frequentemente quanto possível pelo menos cada vez que ouvimos Missa, nos Domingos e dias santos de obrigação. Não deveríamos precisar ir à Confissão para cada Comunhão.*
 
 "CONFESSAR NOSSOS PECADOS PELO MENOS UMA VEZ POR ANO" "RECEBER A SANTA COMUNHÃO DURANTE O TEMPO PASCAL."
 
@@ -28,7 +28,7 @@ Aqueles que atingiram a idade da razão, geralmente no sétimo ano, são obrigad
 
 1. As graças que recebemos da confissão são dadas abundantemente se recebemos o sacramento frequentemente. Nossa alma é como uma casa passando por limpeza na confissão; quanto mais frequentemente a casa é varrida e esfregada, mais limpa está obrigada a estar.
 
-> O demônio, expulso da alma na confissão, tenta retornar novamente e novamente; mas não haverá perigo de ele arrombar se a alma está barrada e protegida pelas graças da confissão, uma forte defesa contra o mal. "Confessai, portanto, vossos pecados uns aos outros" (Tg. 5: 16).
+> O demônio, expulso da alma na confissão, tenta retornar novamente e novamente; mas não haverá perigo de ele arrombar se a alma está barrada e protegida pelas graças da confissão, uma forte defesa contra o mal. "Confessai, portanto, vossos pecados uns aos outros" (Tg. 5:16).
 
 2. Confissão não apenas serve para limpar-nos de ofensas passadas, mas ajuda a fortalecer-nos contra o pecado, e aumenta-nos em virtude. É uma medicina potente que não apenas dá limpeza completa, mas também injeta nutrição poderosa.
 
@@ -51,7 +51,7 @@ Aqueles que atingiram a idade da razão, geralmente no sétimo ano, são obrigad
 
 3. A Igreja prescreve comunhão anual para que possamos cumprir o mandamento divino de receber a Santíssima Eucaristia, e que a vida de graça possa ser preservada em nossas almas.
 
-> Cristo Mesmo comandou: "Se não comerdes a Carne do Filho do Homem e beberdes Seu Sangue, não tereis vida em vós" (João 6: 54). Santa Comunhão é o alimento de nossas almas. Não deixemos nossas almas morrerem de fome negando-lhes este alimento celestial.
+> Cristo Mesmo comandou: "Se não comerdes a Carne do Filho do Homem e beberdes Seu Sangue, não tereis vida em vós" (João 6:54). Santa Comunhão é o alimento de nossas almas. Não deixemos nossas almas morrerem de fome negando-lhes este alimento celestial.
 
 Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali e em toda parte, buscando remédios. Mas Santa Comunhão é um remédio sobrenatural para almas doentes; e quantos há que o buscam?
 
@@ -68,4 +68,4 @@ Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali e em 
 
 2. Como Cristo morreu e ressuscitou no tempo pascal, é apropriado que cristãos devam neste tempo morrer ao pecado pelo Sacramento da Penitência, e ressuscitar à vida de graça através do Sacramento da Santa Eucaristia, que é uma penhora da futura ressurreição.
 
-> "Como Cristo ressuscitou dos mortos, . . . assim também nós caminhemos em novidade de vida" (Rom. 6: 4). (Nota. Explicações completas dos Sacramentos da Penitência e Santa Eucaristia devem ser encontradas nas páginas 294 a 317, inclusive. Elas explicam o modo de ir à Confissão e receber a Santa Comunhão.)
+> "Como Cristo ressuscitou dos mortos, . . . assim também nós caminhemos em novidade de vida" (Rom. 6:4). (Nota. Explicações completas dos Sacramentos da Penitência e Santa Eucaristia devem ser encontradas nas páginas 294 a 317, inclusive. Elas explicam o modo de ir à Confissão e receber a Santa Comunhão.)

@@ -2,14 +2,14 @@
 
 ![](../images/lesson-146.webp)
 
-*Nosso Senhor, falando sobre o perdão de pecados, contou a parábola do Filho Pródigo, que tomou sua herança de seu pai e a desperdiçou num país distante. Mas chegou um tempo em que sofreu dificuldades como cuidador de porcos. Então, sentindo contrição pelo que tinha feito, disse a si mesmo: "Quantos empregados na casa de meu pai têm pão em abundância, enquanto eu pereço aqui de fome! Levantar-me-ei e irei a meu pai, e dir-lhe-ei: Pai, pequei contra o céu e diante de ti. Já não sou digno de ser chamado teu filho; faze-me como um de teus empregados. E levantou-se e foi a seu pai" (Lucas 15: 17-20).*
+*Nosso Senhor, falando sobre o perdão de pecados, contou a parábola do Filho Pródigo, que tomou sua herança de seu pai e a desperdiçou num país distante. Mas chegou um tempo em que sofreu dificuldades como cuidador de porcos. Então, sentindo contrição pelo que tinha feito, disse a si mesmo: "Quantos empregados na casa de meu pai têm pão em abundância, enquanto eu pereço aqui de fome! Levantar-me-ei e irei a meu pai, e dir-lhe-ei: Pai, pequei contra o céu e diante de ti. Já não sou digno de ser chamado teu filho; faze-me como um de teus empregados. E levantou-se e foi a seu pai" (Lucas 15:17-20).*
 
 
 **O que é contrição?**
 
 — Contrição é pesar sincero por ter ofendido Deus e ódio pelos pecados que cometemos, com um firme propósito de não pecar mais.
 
-> "O Senhor está perto dos que têm o coração contrito" (Sl. 33: 19).
+> "O Senhor está perto dos que têm o coração contrito" (Sl. 33:19).
 
 Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenhamos verdadeira contrição por ele. Sem verdadeira contrição mil confissões não nos aproveitarão nada exceto para adicionar a nossos pecados. A menos que haja pesar pelos pecados não há perdão.
 
@@ -69,7 +69,7 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 1. Um ato de contrição pode ser tão curto quanto isto: "Ó meu Deus, estou arrependido com todo meu coração por ter-Vos ofendido, porque sois todo bom!"
 
-> "Tem piedade de mim, ó Deus, tem piedade de mim, pois minha alma confia em Ti" (Sl. 56: 2).
+> "Tem piedade de mim, ó Deus, tem piedade de mim, pois minha alma confia em Ti" (Sl. 56:2).
 
 2. Um ato de contrição é suficiente para perdoar pecados veniais. Podemos portanto ir à Santa Comunhão sem confissão se não temos pecado mortal, após dizer tal ato.
 

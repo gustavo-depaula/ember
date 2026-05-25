@@ -32,7 +32,7 @@
 
 > Quanto maior o valor do que é perdido, maior é a dor da perda. Mas os pecadores no inferno perderam Deus de valor infinito. Sua dor da perda deve ser em proporção.
 
-(b) Ao invés de Deus e os anjos e santos, os pecadores no inferno têm demônios e criminosos nojentos por companheiros eternos. O inferno não contém nada bom. São Paulo verdadeiramente diz: "É coisa terrível cair nas mãos do Deus vivo" (Heb. 10: 31).
+(b) Ao invés de Deus e os anjos e santos, os pecadores no inferno têm demônios e criminosos nojentos por companheiros eternos. O inferno não contém nada bom. São Paulo verdadeiramente diz: "É coisa terrível cair nas mãos do Deus vivo" (Heb. 10:31).
 
 > Não há amor no inferno. Os condenados odeiam Deus, odeiam-se uns aos outros, e odeiam a si mesmos. São Crisóstomo diz: "Insuportável é o fogo do inferno—quem não o sabe?—e seus tormentos são terríveis; mas se alguém amontoasse mil fogos de inferno um sobre o outro seria como nada comparado com a punição de ser excluído da bem-aventurada glória do céu, de ser odiado por Cristo, e de ser compelido a ouvir Ele dizer, 'Não vos conheço!'"
 
@@ -48,7 +48,7 @@
 
 Se a punição do inferno fosse temporária, muitos pecadores poderiam preferir gratificar suas paixões na terra, não importa a que custo e penalidade no inferno, se fosse ter um fim. O temor do inferno deve instar-nos a levar uma boa vida. Nada na terra vale um momento no inferno; e escolhemos nós sofrê-lo por toda a eternidade.
 
-> Assim como a bem-aventurança do céu durará por toda a eternidade, assim durarão as dores do inferno, e adiante e adiante e adiante, sem fim, para sempre. "E a fumaça de seus tormentos sobe para todo o sempre; e não têm repouso nem dia nem noite" (Apoc. 14: 11). Cristo Mesmo disse: "E se tua mão ou teu pé é ocasião de pecado para ti, corta-os e lança-os fora de ti! É melhor para ti entrar na vida manco ou aleijado, do que, tendo duas mãos ou dois pés, seres lançado ao fogo eterno" (Mat. 18: 8).
+> Assim como a bem-aventurança do céu durará por toda a eternidade, assim durarão as dores do inferno, e adiante e adiante e adiante, sem fim, para sempre. "E a fumaça de seus tormentos sobe para todo o sempre; e não têm repouso nem dia nem noite" (Apoc. 14:11). Cristo Mesmo disse: "E se tua mão ou teu pé é ocasião de pecado para ti, corta-os e lança-os fora de ti! É melhor para ti entrar na vida manco ou aleijado, do que, tendo duas mãos ou dois pés, seres lançado ao fogo eterno" (Mat. 18:8).
 
 
 **Por que um Deus bom criou um lugar tão temível como o inferno?**
@@ -65,6 +65,6 @@ Se a punição do inferno fosse temporária, muitos pecadores poderiam preferir 
 
 3. Não devemos ter temor do inferno se fizermos nosso dever. Deus não nos enviará ao inferno, a menos que O forcemos.
 
-> Lembremo-nos de que nosso Juiz será Jesus Cristo, Que tanto nos amou que morreu na cruz por nós. Está mais ansioso para passar uma sentença favorável sobre nós do que nós estamos para recebê-la. Devemos ter confiança n'Ele, como criancinhas. "O Filho do Homem não veio para destruir as vidas dos homens, mas para salvá-las" (Luc. 9: 56). O Senhor "é longânime, não querendo que algum pereça, mas que todos se convertam à penitência" (2 Pedro 3: 9).
+> Lembremo-nos de que nosso Juiz será Jesus Cristo, Que tanto nos amou que morreu na cruz por nós. Está mais ansioso para passar uma sentença favorável sobre nós do que nós estamos para recebê-la. Devemos ter confiança n'Ele, como criancinhas. "O Filho do Homem não veio para destruir as vidas dos homens, mas para salvá-las" (Luc. 9:56). O Senhor "é longânime, não querendo que algum pereça, mas que todos se convertam à penitência" (2 Pedro 3:9).
 
 Lembremo-nos sempre de implorar a Deus por nossas almas. Podemos recusar Deus, mas Deus nunca pode recusar-nos: por esta conta a salvação está em nossas mãos.

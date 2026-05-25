@@ -11,7 +11,7 @@
 
 1. Sua dor principal é a privação da Visão Beatífica, a visão de Deus na glória do céu. Esta privação temporária é uma punição mais severa, porque as almas pobres já têm pleno conhecimento do que estão perdendo.
 
-> "Como o cervo brama pelas correntes das águas, assim minha alma brama por Ti, ó Deus! Minha alma teve sede do Deus forte vivo; quando virei e aparecerei diante da face de Deus?" (Sl. 41: 2-3).
+> "Como o cervo brama pelas correntes das águas, assim minha alma brama por Ti, ó Deus! Minha alma teve sede do Deus forte vivo; quando virei e aparecerei diante da face de Deus?" (Sl. 41:2-3).
 
 2. A tradição geral da Igreja é que também sofrem agudamente de outras maneiras.
 
@@ -49,7 +49,7 @@
 
 2. Orações. Devemos rezar com devoção pelas almas pobres. Deus não considera tanto o comprimento da oração ou as palavras quanto o amor no coração daquele que reza.
 
-> Há orações especiais enriquecidas com indulgências, aplicáveis às almas no purgatório. Devemos também receber os Sacramentos da Penitência e Santa Eucaristia pelas almas pobres. "Sabei que o Senhor ouvirá vossas orações se perseverardes" (Judite 4: 11).
+> Há orações especiais enriquecidas com indulgências, aplicáveis às almas no purgatório. Devemos também receber os Sacramentos da Penitência e Santa Eucaristia pelas almas pobres. "Sabei que o Senhor ouvirá vossas orações se perseverardes" (Judite 4:11).
 
 3. Esmolas. Nenhum funeral pomposo ou profusão de flores é de algum proveito para as almas pobres no purgatório. Como São João Crisóstomo diz: "Não por chorar, mas por oração e esmolas os mortos são aliviados."
 

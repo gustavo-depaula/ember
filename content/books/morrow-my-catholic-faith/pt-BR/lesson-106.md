@@ -2,7 +2,7 @@
 
 ![](../images/lesson-106.webp)
 
-*O primeiro assassinato na terra foi cometido por Caim quando matou Abel. "E disse Caim a Abel seu irmão: Saiamos ao campo. E quando estavam no campo, Caim levantou-se contra Abel seu irmão, e o matou. E o Senhor disse a Caim: Onde está Abel teu irmão? E ele respondeu: Não sei. Sou eu o guardador de meu irmão?" (Gên. 4: 8-9). Assassinos não agem como irmãos do assassinado.*
+*O primeiro assassinato na terra foi cometido por Caim quando matou Abel. "E disse Caim a Abel seu irmão: Saiamos ao campo. E quando estavam no campo, Caim levantou-se contra Abel seu irmão, e o matou. E o Senhor disse a Caim: Onde está Abel teu irmão? E ele respondeu: Não sei. Sou eu o guardador de meu irmão?" (Gên. 4:8-9). Assassinos não agem como irmãos do assassinado.*
 
 "NÃO MATARÁS."
 
@@ -18,7 +18,7 @@
 
 1. Assassinato é um grande pecado. Um assassino viola os direitos de Deus sobre a vida humana, e, além de tirar uma vida, rouba sua vítima da oportunidade de ganhar méritos para o céu, e preparar-se para a morte.
 
-> Deus criou o homem, e tem domínio supremo sobre a vida. "Sabeis que nenhum homicida tem a vida eterna permanecendo nele" (1 João 3: 15).
+> Deus criou o homem, e tem domínio supremo sobre a vida. "Sabeis que nenhum homicida tem a vida eterna permanecendo nele" (1 João 3:15).
 
 2. A intenção direta de matar uma pessoa inocente é sempre proibida, como contra este mandamento, seja por autoridade pública ou privada. E o corpo humano não pode ser mutilado a menos que fosse o único modo de preservar a saúde ou salvar uma vida. Também, já que violação do corpo é proibida exceto para salvar vida ou saúde, qualquer um que realiza esterilização comete pecado grave.
 
@@ -54,9 +54,9 @@
 
 — Ira é um forte sentimento de desprazer, combinado com desejo de punir o ofensor.
 
-1. Ira é contrária ao espírito de Cristo, Que é manso e humilde de coração. Devemos ter cuidado em não ferir ou magoar os sentimentos de outrem. Se caímos na infelicidade de fazê-lo, devemos pedir desculpas ou fazer emendas de algum outro modo. "Não se ponha o sol sobre vossa ira" (Ef. 4: 26).
+1. Ira é contrária ao espírito de Cristo, Que é manso e humilde de coração. Devemos ter cuidado em não ferir ou magoar os sentimentos de outrem. Se caímos na infelicidade de fazê-lo, devemos pedir desculpas ou fazer emendas de algum outro modo. "Não se ponha o sol sobre vossa ira" (Ef. 4:26).
 
-> Ira frequentemente surge de orgulho ou inveja. Aqueles que pensam muito de si mesmos iram-se a cada suposta ofensa ou injúria. Devem lembrar a caridade cristã, e temer estas palavras: "Todo aquele que se irar contra seu irmão será réu de juízo" (Mat. 5: 22).
+> Ira frequentemente surge de orgulho ou inveja. Aqueles que pensam muito de si mesmos iram-se a cada suposta ofensa ou injúria. Devem lembrar a caridade cristã, e temer estas palavras: "Todo aquele que se irar contra seu irmão será réu de juízo" (Mat. 5:22).
 
 2. Ira injusta leva a luta, ódio, rixa, maldição, zombaria, vingança, e outros pecados graves, pode até terminar em assassinato.
 
@@ -69,11 +69,11 @@
 
 > Se odiamos certas qualidades de uma pessoa, mas não temos antagonismo para com a própria pessoa, nosso sentimento não é necessariamente pecaminoso. Não é ódio detestar as qualidades más dos outros; devemos odiar o pecado, mas não o pecador. Devemos ter cuidado, contudo, em não cometer juízo temerário, referente a qualidades, pois não podemos conhecer todas as circunstâncias; tenhamos caridade para com todos.
 
-2. Ódio é um pecado porque aquele que odeia a outro viola o mandamento de Deus, "Amarás o teu próximo como a ti mesmo." "Todo aquele que odeia a seu irmão é homicida" (1 João 3: 15).
+2. Ódio é um pecado porque aquele que odeia a outro viola o mandamento de Deus, "Amarás o teu próximo como a ti mesmo." "Todo aquele que odeia a seu irmão é homicida" (1 João 3:15).
 
 
 **Qual é o pecado de vingança?**
 
 — O pecado de vingança é o desejo de infligir punição imoderada e injusta a alguém que nos injuriou, por motivo de ira. Quando séria, vingança é vingança, um pecado contra a caridade e justiça, muito pecaminoso e não-cristão. Por mais que sejamos injuriados, não temos direito de tomar a lei em nossas mãos.
 
-> São Paulo disse, "Não vos vingueis a vós mesmos, amados, mas deixai lugar à ira, pois está escrito: A Mim pertence a vingança, Eu retribuirei, diz o Senhor" (Rom. 12: 19). "Aquele que procurar vingar-se encontrará vingança da parte do Senhor" (Deut. 32: 35).
+> São Paulo disse, "Não vos vingueis a vós mesmos, amados, mas deixai lugar à ira, pois está escrito: A Mim pertence a vingança, Eu retribuirei, diz o Senhor" (Rom. 12:19). "Aquele que procurar vingar-se encontrará vingança da parte do Senhor" (Deut. 32:35).

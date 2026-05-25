@@ -22,7 +22,7 @@
 
 1. O Estado pode fazer leis sobre os aspectos do casamento que são puramente materiais, como leis concernentes ao arquivamento do contrato matrimonial, leis sobre propriedade conjugal, leis sobre isenções de imposto de renda segundo o número de filhos que um casal casado tem.
 
-> "O que portanto Deus uniu, o homem não separe" (Mat. 19: 6). Por estas palavras Cristo Nosso Senhor restaurou o casamento à sua unidade e indissolubilidade originais; de modo que não há poder na terra que possa dissolver um casamento que tenha sido validamente contraído e consumado. Os divórcios civis concedidos pelo Estado a cristãos, dando-lhes direito de recasar não podem ser reconhecidos pela Igreja. O Estado não tem direito de legislar em contradição à lei divina.
+> "O que portanto Deus uniu, o homem não separe" (Mat. 19:6). Por estas palavras Cristo Nosso Senhor restaurou o casamento à sua unidade e indissolubilidade originais; de modo que não há poder na terra que possa dissolver um casamento que tenha sido validamente contraído e consumado. Os divórcios civis concedidos pelo Estado a cristãos, dando-lhes direito de recasar não podem ser reconhecidos pela Igreja. O Estado não tem direito de legislar em contradição à lei divina.
 
 2. Católicos devem, contudo, obedecer às leis do Estado sobre casamento desde que não contradigam leis de Deus ou da Igreja.
 

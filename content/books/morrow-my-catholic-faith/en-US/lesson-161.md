@@ -58,7 +58,7 @@
 
 1. The priestly vow of celibacy is taken when a man is received into the subdiaconate. Catholic priests do not marry, in imitation of Christ Himself. The Apostles, after they were called to the ministry, left all they had. Elias, Eliseus, Jeremias, and St. John the Baptist, lived in celibacy.
 
-> A priest is ordained for the exclusive service of God: his talents, his time, his very life belong to His service. St. Paul says: "He who is unmarried is concerned about the things of the Lord, how he may please God. Whereas, he who is married is concerned about the things of the world, how he may please his wife; and he is divided" (I Cor. 7: 32-33).
+> A priest is ordained for the exclusive service of God: his talents, his time, his very life belong to His service. St. Paul says: "He who is unmarried is concerned about the things of the Lord, how he may please God. Whereas, he who is married is concerned about the things of the world, how he may please his wife; and he is divided" (I Cor. 7:32-33).
 
 2. A priest must read the Divine Office, a series of prayers, in the Breviary; for this approximately one hour is needed every day.
 

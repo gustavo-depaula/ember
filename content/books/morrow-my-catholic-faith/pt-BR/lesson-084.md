@@ -9,7 +9,7 @@
 
 — Além de crer no que Deus revelou, devemos guardar Sua lei.
 
-> "Mas se queres entrar na vida, guarda os mandamentos" (Mat. 19: 17).
+> "Mas se queres entrar na vida, guarda os mandamentos" (Mat. 19:17).
 
 1. A lei de Deus está contida tanto na lei natural quanto na revelada. A lei natural está impressa por Deus nos corações e mentes de todos os homens. Ensina as regras mais importantes da moralidade: homenagem devida a Deus, tratamento dos outros como esperamos que os outros nos tratem, o mal da lesão voluntária a si mesmo, a virtude da verdade e honestidade. Assim a lei natural é uma expressão definida da vontade de Deus, exigindo obediência.
 
@@ -17,7 +17,7 @@
 
 2. Além da lei natural, há a lei revelada, composta principalmente dos Dez Mandamentos e dos dois preceitos da caridade. A lei revelada é apenas uma repetição e amplificação da lei natural.
 
-> Os Dez Mandamentos, que foram dados aos Judeus através de Moisés, não foram revogados por Jesus Cristo; ao contrário, foram ampliados e cumpridos. "Se me amais, guardai os meus mandamentos" (João 14: 15). "E por isto podemos ter certeza de que O conhecemos, se guardarmos os Seus mandamentos. Aquele que diz que O conhece, e não guarda os Seus mandamentos, é mentiroso e a verdade não está nele" (1 João 2: 3-4).
+> Os Dez Mandamentos, que foram dados aos Judeus através de Moisés, não foram revogados por Jesus Cristo; ao contrário, foram ampliados e cumpridos. "Se me amais, guardai os meus mandamentos" (João 14:15). "E por isto podemos ter certeza de que O conhecemos, se guardarmos os Seus mandamentos. Aquele que diz que O conhece, e não guarda os Seus mandamentos, é mentiroso e a verdade não está nele" (1 João 2:3-4).
 
 3. A lei de Deus — aquela divina razão e vontade de Deus — é percebida pelos homens pela luz do intelecto, pela voz de sua consciência.
 
@@ -28,7 +28,7 @@
 
 1. Consciência é frequentemente chamada a "voz da razão" ou *"voz de Deus"*, porque nos ordena fazer o certo e evitar o errado. Caim, que viveu muito tempo antes de Moisés, sabia que havia cometido mal ao matar Abel. Ainda hoje, em países pagãos que nunca ouviram dos mandamentos, os homens conhecem o certo do errado por sua consciência. Por ela, conhecem Deus; ordena-lhes obedecer.
 
-> Como São Paulo, falando dos não-Judeus que não conheciam a lei judaica, disse: "Os Gentios, que não têm lei, fazem por natureza o que a Lei prescreve. Mostram a obra da lei escrita em seus corações. Sua consciência dá testemunho deles" (Rom. 2: 14-15).
+> Como São Paulo, falando dos não-Judeus que não conheciam a lei judaica, disse: "Os Gentios, que não têm lei, fazem por natureza o que a Lei prescreve. Mostram a obra da lei escrita em seus corações. Sua consciência dá testemunho deles" (Rom. 2:14-15).
 
 2. Se sempre obedecermos aos ditames de nossa consciência, nunca ofenderemos a Deus. É um guia que Ele espera que sigamos. Surge do conhecimento da lei, seja natural ou revelada. Antes de qualquer ação, a consciência fala seja a favor ou contra. Após a ação, conforme a seguimos ou desconsideramos, a consciência nos enche de paz ou inquietação.
 

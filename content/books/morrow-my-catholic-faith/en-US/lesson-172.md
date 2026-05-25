@@ -2,7 +2,7 @@
 
 ![](../images/lesson-172.webp)
 
-*From St. Paul we learn what armour to wear in our struggle for Christian perfection: "Put on the armour of God, that you may be able to stand against the wiles of the devil. ... Stand, therefore, having girded your loins with truth, and having put on the breastplate of justice, and having your feet shod with the readiness of the gospel of peace, in all things taking up the shield of faith, with which you may be able to quench all the fiery darts of the most wicked one. And take unto you the helmet of salvation and the sword of the spirit, that is, the word of God" (Ephes. 6: 11-17).*
+*From St. Paul we learn what armour to wear in our struggle for Christian perfection: "Put on the armour of God, that you may be able to stand against the wiles of the devil. ... Stand, therefore, having girded your loins with truth, and having put on the breastplate of justice, and having your feet shod with the readiness of the gospel of peace, in all things taking up the shield of faith, with which you may be able to quench all the fiery darts of the most wicked one. And take unto you the helmet of salvation and the sword of the spirit, that is, the word of God" (Ephes. 6:11-17).*
 
 
 **Should we be satisfied merely to keep the commandments of God?**
@@ -28,9 +28,9 @@
 
 > Did our Blessed Mother do any extraordinary Works, judged by normal standards of the world? But no mortal has been or can be as holy, as full of perfection. Let us surrender ourselves fervently to God, and we shall be on the way to Christian perfection, according to our individual capacity.
 
-2. God requires all to aspire to Christian perfection. He says: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5: 48).
+2. God requires all to aspire to Christian perfection. He says: "You therefore are to be perfect, even as your heavenly Father is perfect" (Matt. 5:48).
 
-> Those who practice virtue will receive an eternal reward, and are happy even on earth. Hence Our Lord pronounces them blessed in the Beatitudes (Matt. 5: 3-10).
+> Those who practice virtue will receive an eternal reward, and are happy even on earth. Hence Our Lord pronounces them blessed in the Beatitudes (Matt. 5:3-10).
 
 3. All states of life can be sanctified by those who wish only to live for God. Saints are found in every class. Love of God is in everybody's power.
 
@@ -38,7 +38,7 @@
 
 4. The model of Christian perfection is Our Lord. The saints, who imitated Him steadfastly, are also patterns of perfection.
 
-> No one can ever be as perfect as Our Lord. But having Him for a model inspires us to strive for greater and greater sanctity. He said, "I am the Way, the Truth, and the Life" (John 14: 6). And in reply to the young man who wished to become perfect, Jesus said, "Come, follow me" (Matt. 19: 21). We should try to make progress every day, so that we are better today than yesterday. "He who is just, let him be just still, and he who is holy, let him be hallowed still" (Apoc. 22: 11).
+> No one can ever be as perfect as Our Lord. But having Him for a model inspires us to strive for greater and greater sanctity. He said, "I am the Way, the Truth, and the Life" (John 14:6). And in reply to the young man who wished to become perfect, Jesus said, "Come, follow me" (Matt. 19:21). We should try to make progress every day, so that we are better today than yesterday. "He who is just, let him be just still, and he who is holy, let him be hallowed still" (Apoc. 22:11).
 
 (a) We should begin from youth to strive after perfection.
 

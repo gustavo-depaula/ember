@@ -2,7 +2,7 @@
 
 ![](../images/lesson-078.webp)
 
-*Tanto a razão quanto a fé dizem-nos que há um meio-termo de expiação, onde a alma é purificada de toda mancha de pecado antes que possa entrar na glória do céu. "Não entrará nela coisa alguma contaminada" (Apoc. 21: 27). Cristo disse: "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5: 26). Mesmo pessoas que negam a existência do purgatório instintivamente rezam por seus entes queridos que morreram. Isto seria grande inconsistência se sua razão não lhes dissesse que suas orações fariam bem aos mortos. Orações são inúteis para aqueles no céu ou inferno.*
+*Tanto a razão quanto a fé dizem-nos que há um meio-termo de expiação, onde a alma é purificada de toda mancha de pecado antes que possa entrar na glória do céu. "Não entrará nela coisa alguma contaminada" (Apoc. 21:27). Cristo disse: "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5:26). Mesmo pessoas que negam a existência do purgatório instintivamente rezam por seus entes queridos que morreram. Isto seria grande inconsistência se sua razão não lhes dissesse que suas orações fariam bem aos mortos. Orações são inúteis para aqueles no céu ou inferno.*
 
 
 **O que é purgatório?**
@@ -36,11 +36,11 @@
 
 1. A doutrina de um estado intermediário de purgação é ensinada no Antigo Testamento, e foi firmemente crida pelos Hebreus.
 
-> Após uma batalha, Judas Macabeu ordenou orações e sacrifícios oferecidos por seus camaradas mortos. "E fazendo uma coleta, enviou doze mil dracmas de prata a Jerusalém para sacrifício a ser oferecido pelos pecados dos mortos, pensando bem e religiosamente acerca da ressurreição. Pois, se não esperasse que os que haviam caído ressuscitariam, teria parecido supérfluo e vão rezar pelos mortos. E porque considerou que aqueles que haviam adormecido com piedade tinham grande graça posta para eles. É portanto um pensamento santo e salutar rezar pelos mortos, para que possam ser absolvidos dos pecados" (2 Mac. 12: 43-46).
+> Após uma batalha, Judas Macabeu ordenou orações e sacrifícios oferecidos por seus camaradas mortos. "E fazendo uma coleta, enviou doze mil dracmas de prata a Jerusalém para sacrifício a ser oferecido pelos pecados dos mortos, pensando bem e religiosamente acerca da ressurreição. Pois, se não esperasse que os que haviam caído ressuscitariam, teria parecido supérfluo e vão rezar pelos mortos. E porque considerou que aqueles que haviam adormecido com piedade tinham grande graça posta para eles. É portanto um pensamento santo e salutar rezar pelos mortos, para que possam ser absolvidos dos pecados" (2 Mac. 12:43-46).
 
 2. Quando Nosso Senhor veio à terra, purificou a Igreja Judaica de todas aquelas mudanças humanas que com os anos tinham entrado em seus usos e crenças. Mas nunca repreendeu alguém por crença num estado intermediário de purgação, ou orações pelos mortos.
 
-> Ao contrário, Cristo mais do que uma vez implicou a existência do purgatório. Disse "E quem disser uma palavra contra o Filho do Homem, ser-lhe-á perdoado; mas quem falar contra o Espírito Santo, não lhe será perdoado, nem neste mundo nem no mundo vindouro" (Mat. 12: 32). Quando Nosso Senhor disse que um pecado não será perdoado na próxima vida, deixou-nos concluir que alguns pecados serão assim perdoados. Mas na próxima vida, pecados não podem ser perdoados no céu: "Não entrará nela coisa alguma contaminada" (Apoc. 21: 27). Nem podem pecados ser perdoados no inferno, pois do inferno não há redenção. Devem portanto ser perdoados num estado intermediário, Purgatório.
+> Ao contrário, Cristo mais do que uma vez implicou a existência do purgatório. Disse "E quem disser uma palavra contra o Filho do Homem, ser-lhe-á perdoado; mas quem falar contra o Espírito Santo, não lhe será perdoado, nem neste mundo nem no mundo vindouro" (Mat. 12:32). Quando Nosso Senhor disse que um pecado não será perdoado na próxima vida, deixou-nos concluir que alguns pecados serão assim perdoados. Mas na próxima vida, pecados não podem ser perdoados no céu: "Não entrará nela coisa alguma contaminada" (Apoc. 21:27). Nem podem pecados ser perdoados no inferno, pois do inferno não há redenção. Devem portanto ser perdoados num estado intermediário, Purgatório.
 
 3. Crença na existência do Purgatório é um ensino contínuo e solene da Igreja. De São Paulo, os primeiros Padres, os Doutores da Igreja, através das idades, a Igreja tem ensinado a existência do Purgatório, e a doutrina correlata da utilidade de rezar pelos mortos.
 
@@ -50,9 +50,9 @@ A doutrina do Purgatório foi dada definição solene pelo Concílio de Trento c
 
 > Esta definição dogmática contém três pontos de fé que todos os Católicos são compelidos a crer: (a) que há um purgatório; (b) que após a morte almas sofrem lá por seus pecados; (c) que os vivos podem estender assistência a tais almas.
 
-4. Razão demanda crença na existência do purgatório. Se um homem morre com alguma leve mancha em sua alma, um pecado de impaciência, ou uma palavra ociosa, está ele apto a entrar no céu? A santidade de Deus proíbe isto: "Não entrará nela coisa alguma contaminada" (Apoc. 21: 27). Mas deve tal alma ser consignada ao inferno? A misericórdia e justiça de Deus proíbem isto.
+4. Razão demanda crença na existência do purgatório. Se um homem morre com alguma leve mancha em sua alma, um pecado de impaciência, ou uma palavra ociosa, está ele apto a entrar no céu? A santidade de Deus proíbe isto: "Não entrará nela coisa alguma contaminada" (Apoc. 21:27). Mas deve tal alma ser consignada ao inferno? A misericórdia e justiça de Deus proíbem isto.
 
-> Portanto razão conclui a existência de um estado intermediário e temporário de expiação, onde a alma é purificada de toda mancha de pecado antes que possa ser admitida na perfeita santidade e bem-aventurança do céu. "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5: 26).
+> Portanto razão conclui a existência de um estado intermediário e temporário de expiação, onde a alma é purificada de toda mancha de pecado antes que possa ser admitida na perfeita santidade e bem-aventurança do céu. "Em verdade te digo: não sairás de lá até que pagues o último centavo" (Mat. 5:26).
 
 5. Entre quase todos os povos tem persistido uma crença que almas devem sofrer algum tipo de purificação após a morte. Isto apontaria à doutrina do purgatório.
 

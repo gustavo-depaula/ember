@@ -54,7 +54,7 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 1. Deus Pai e Deus Filho enviaram o Espírito Santo para habitar na Igreja. A habitação do Espírito Santo capacita a Igreja a ensinar, santificar e governar os fiéis em nome de Cristo.
 
-> O Espírito Santo desceu sobre os Apóstolos para iluminar, fortalecer e santificá-los, de modo que pudessem pregar o Evangelho e espalhar a Igreja por todo o mundo. Na Festa de Pentecostes, em memória de Deus o Espírito Santo, celebramos um mistério que é para sempre renovado na Igreja e em nossas almas: o mistério da habitação de Deus, o reinado da lei do amor que sucedeu a lei da servidão e temor (Rom. 8: 15).
+> O Espírito Santo desceu sobre os Apóstolos para iluminar, fortalecer e santificá-los, de modo que pudessem pregar o Evangelho e espalhar a Igreja por todo o mundo. Na Festa de Pentecostes, em memória de Deus o Espírito Santo, celebramos um mistério que é para sempre renovado na Igreja e em nossas almas: o mistério da habitação de Deus, o reinado da lei do amor que sucedeu a lei da servidão e temor (Rom. 8:15).
 
 2. O Espírito Santo guia os governantes da Igreja, especialmente o Papa, e os ajuda em seus deveres.
 
@@ -73,9 +73,9 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 — Não, pois verdade e erro não são a mesma coisa; fé e descrença não são a mesma coisa.
 
-1. Deus não é dividido. Ele revelou apenas uma religião. Ou cremos naquela religião, ou não cremos. Não há caminho do meio. "Quem não está comigo está contra Mim" (Mat. 12: 30).
+1. Deus não é dividido. Ele revelou apenas uma religião. Ou cremos naquela religião, ou não cremos. Não há caminho do meio. "Quem não está comigo está contra Mim" (Mat. 12:30).
 
-> Qualquer coisa que não seja a verdade inteira não é verdade. Cristo disse: "Eu sou o caminho, e a verdade e a vida. Ninguém vem ao Pai senão por Mim" (João 14: 6). Ninguém afirmará que vidro é tão bom quanto diamantes, nem que latão é tão bom quanto ouro. Ninguém reclama que uma imitação é tão boa quanto a coisa autêntica. Mais irracional então seria reclamar que uma religião estabelecida por um homem é tão boa quanto aquela fundada pelo Deus Encarnado.
+> Qualquer coisa que não seja a verdade inteira não é verdade. Cristo disse: "Eu sou o caminho, e a verdade e a vida. Ninguém vem ao Pai senão por Mim" (João 14:6). Ninguém afirmará que vidro é tão bom quanto diamantes, nem que latão é tão bom quanto ouro. Ninguém reclama que uma imitação é tão boa quanto a coisa autêntica. Mais irracional então seria reclamar que uma religião estabelecida por um homem é tão boa quanto aquela fundada pelo Deus Encarnado.
 
 2. Desde o próprio princípio da humanidade, tem havido uma única verdadeira religião. De Adão até a vinda de Cristo, esta religião foi preservada pelos patriarcas, profetas e outros escolhidos por Deus para manter o conhecimento do Redentor prometido intacto.
 
@@ -83,7 +83,7 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 3. É absurdo supor que Deus não se importa se os homens denunciam Seu Filho como um impostor e blasfemador, ou O adoram como Deus.
 
-> Por que deveriam Cristo, e após Ele os Apóstolos, e após eles uma longa linha de crentes, ter sofrido tanto e resistido à perseguição tão firmemente, se não fosse de importância o que um homem cria? O Apóstolo disse: "Não há outro nome debaixo do céu dado aos homens, pelo qual devamos ser salvos" (Atos 4: 12).
+> Por que deveriam Cristo, e após Ele os Apóstolos, e após eles uma longa linha de crentes, ter sofrido tanto e resistido à perseguição tão firmemente, se não fosse de importância o que um homem cria? O Apóstolo disse: "Não há outro nome debaixo do céu dado aos homens, pelo qual devamos ser salvos" (Atos 4:12).
 
 
 **Como podemos provar que a única verdadeira Igreja de Cristo é a Igreja Católica?**

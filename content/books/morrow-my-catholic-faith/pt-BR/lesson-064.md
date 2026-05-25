@@ -56,6 +56,6 @@
 
 **É alguma vez lícito desobedecer à autoridade Civil?**
 
-Se o Governo Civil deveria comandar algo contrário à lei natural ou à lei de Deus, então "devemos obedecer a Deus antes que aos homens." (Atos 5: 29) De fato, desobedecer a leis injustas não é desobediência porque "a vontade dos governantes é oposta à vontade de Deus." (Leão XIII) Onde um Católico "desobedece" a tal ordem, dá testemunho à Soberania de Deus. Ao fazê-lo serve o bem comum porque a preeminência de Deus é o fundamento da justiça social. Sem Ele governantes tornam-se tiranos arbitrários.
+Se o Governo Civil deveria comandar algo contrário à lei natural ou à lei de Deus, então "devemos obedecer a Deus antes que aos homens." (Atos 5:29) De fato, desobedecer a leis injustas não é desobediência porque "a vontade dos governantes é oposta à vontade de Deus." (Leão XIII) Onde um Católico "desobedece" a tal ordem, dá testemunho à Soberania de Deus. Ao fazê-lo serve o bem comum porque a preeminência de Deus é o fundamento da justiça social. Sem Ele governantes tornam-se tiranos arbitrários.
 
-> "Se, portanto, acontecer a alguém ser compelido a desrespeitar quer os comandos de Deus quer aqueles dos governantes, deve obedecer a Jesus Cristo, Que nos ordena 'dar a César o que é de César, e a Deus o que é de Deus.'" Mt. 22: 21 (Leão XIII)
+> "Se, portanto, acontecer a alguém ser compelido a desrespeitar quer os comandos de Deus quer aqueles dos governantes, deve obedecer a Jesus Cristo, Que nos ordena 'dar a César o que é de César, e a Deus o que é de Deus.'" Mt. 22:21 (Leão XIII)

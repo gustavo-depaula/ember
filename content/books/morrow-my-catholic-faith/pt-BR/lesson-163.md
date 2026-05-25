@@ -11,7 +11,7 @@
 
 — Matrimônio é o sacramento pelo qual um homem batizado e uma mulher batizada ligam-se para a vida num casamento legítimo e recebem a graça para cumprir seus deveres.
 
-1. Deus instituiu o matrimônio no Jardim do Éden, quando criou Adão e Eva. "Por isso o homem deixará pai e mãe e se unirá à sua mulher e serão dois numa só carne" (Gên. 2: 24). Antes da vinda de Cristo, o matrimônio era um contrato sagrado, mas não um sacramento. Nosso Senhor elevou o matrimônio à dignidade de um sacramento.
+1. Deus instituiu o matrimônio no Jardim do Éden, quando criou Adão e Eva. "Por isso o homem deixará pai e mãe e se unirá à sua mulher e serão dois numa só carne" (Gên. 2:24). Antes da vinda de Cristo, o matrimônio era um contrato sagrado, mas não um sacramento. Nosso Senhor elevou o matrimônio à dignidade de um sacramento.
 
 > Nas bodas de Caná Cristo operou Seu primeiro milagre, assim manifestando a santidade do estado matrimonial. No contrato matrimonial, Deus fez uma relação natural um meio de graça para cristãos. Nosso Senhor instituiu sacramentos especiais para dois estados de vida: o Sacerdócio e o Matrimônio; deste fato podemos deduzir a importância que atribuiu a estes estados de vida. Pelo sacramento do Matrimônio, Deus concede às partes contratantes graça para suportar as dificuldades do estado matrimonial e santificar sua vida comum para a glória de Deus e a salvação de suas almas.
 
@@ -34,7 +34,7 @@
 
 2. Um casamento entre duas pessoas não batizadas, embora não seja um sacramento, se contraído validamente, é reconhecido válido pela Igreja e é indissolúvel. No caso de um casamento entre duas pessoas não batizadas, se uma fosse depois batizada na Igreja, o casamento pode ser dissolvido pelo "privilégio paulino".
 
-> As condições são: se a parte não batizada recusa viver com o católico ou habitar pacificamente com o católico, o batizado pode ter o casamento dissolvido e ficar livre para casar com um cristão. Este poder da Igreja é baseado em São Paulo: "Se algum irmão tem uma mulher descrente e ela consente habitar com ele, não a deixe. E se alguma mulher tem um marido descrente e ele consente habitar com ela, não o deixe... Mas se o descrente parte, deixe-o partir. Pois um irmão ou irmã não está sob servidão em tais casos" (1 Cor. 7: 12-15).
+> As condições são: se a parte não batizada recusa viver com o católico ou habitar pacificamente com o católico, o batizado pode ter o casamento dissolvido e ficar livre para casar com um cristão. Este poder da Igreja é baseado em São Paulo: "Se algum irmão tem uma mulher descrente e ela consente habitar com ele, não a deixe. E se alguma mulher tem um marido descrente e ele consente habitar com ela, não o deixe... Mas se o descrente parte, deixe-o partir. Pois um irmão ou irmã não está sob servidão em tais casos" (1 Cor. 7:12-15).
 
 
 **O que é necessário para receber o sacramento do Matrimônio dignamente?**
@@ -45,9 +45,9 @@
 
 > Como o matrimônio é um passo importante, as partes contratantes devem fazer uma confissão geral de toda sua vida, como uma preparação adequada para as responsabilidades de seu novo estado. Se o matrimônio é recebido num estado de pecado mortal, o sacramento é verdadeiramente recebido, mas as graças que traz estão suspensas.
 
-2. As partes contratantes devem entender bem o propósito do estado que estão prestes a entrar. O primeiro propósito de Deus ao instituir o matrimônio foi povoar a terra e suscitar almas que encheriam o céu de santos. Disse a Adão e Eva: "Crescei e multiplicai-vos e enchei a terra" (Gên. 1: 28).
+2. As partes contratantes devem entender bem o propósito do estado que estão prestes a entrar. O primeiro propósito de Deus ao instituir o matrimônio foi povoar a terra e suscitar almas que encheriam o céu de santos. Disse a Adão e Eva: "Crescei e multiplicai-vos e enchei a terra" (Gên. 1:28).
 
-> No matrimônio, um homem e sua mulher tomam parte na obra do Criador, dando vida a uma alma imortal. Se os casados ponderassem este fato, certamente não negligenciariam seus deveres para com seus filhos, "criá-los na disciplina e admoestação do Senhor" (Ef. 6: 4). "Como a muda é dobrada, assim a árvore se inclina." Mesmo animais selvagens tomam o máximo cuidado de seus filhotes, mas certos pais modernos na busca de diversões negligenciam a devida criação de sua prole.
+> No matrimônio, um homem e sua mulher tomam parte na obra do Criador, dando vida a uma alma imortal. Se os casados ponderassem este fato, certamente não negligenciariam seus deveres para com seus filhos, "criá-los na disciplina e admoestação do Senhor" (Ef. 6:4). "Como a muda é dobrada, assim a árvore se inclina." Mesmo animais selvagens tomam o máximo cuidado de seus filhotes, mas certos pais modernos na busca de diversões negligenciam a devida criação de sua prole.
 
 
 **Quais são os principais efeitos do sacramento do Matrimônio?**
@@ -60,6 +60,6 @@
 
 2. A ajuda especial de Deus para marido e mulher amarem-se fielmente, suportarem as faltas um do outro e criarem seus filhos propriamente. Esta é a graça sacramental especial obtida da recepção do sacramento do Matrimônio.
 
-> Além do fim de trazer filhos ao mundo, Deus também instituiu o casamento para o mútuo sustento de marido e mulher. Antes de Eva ser criada, Deus disse: "Não é bom que o homem esteja só; façamo-lhe uma ajuda semelhante a si" (Gên. 2: 18). No Matrimônio graça é necessária — e graça dada — para o próprio exercício de suas muitas funções: a geração e criação de filhos, mútuo intercâmbio de amor, fidelidade e conforto, manutenção da família. Para todos estes e outros deveres dos casados, Matrimônio é uma fonte infindável de graça.
+> Além do fim de trazer filhos ao mundo, Deus também instituiu o casamento para o mútuo sustento de marido e mulher. Antes de Eva ser criada, Deus disse: "Não é bom que o homem esteja só; façamo-lhe uma ajuda semelhante a si" (Gên. 2:18). No Matrimônio graça é necessária — e graça dada — para o próprio exercício de suas muitas funções: a geração e criação de filhos, mútuo intercâmbio de amor, fidelidade e conforto, manutenção da família. Para todos estes e outros deveres dos casados, Matrimônio é uma fonte infindável de graça.
 
 Deus criou o corpo de Eva do corpo de Adão. Isto foi para mostrar a perfeita igualdade e união que deve existir entre marido e mulher, que pelo casamento tornam-se "dois numa só carne".

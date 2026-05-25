@@ -9,7 +9,7 @@
 
 — O nono mandamento proíbe todos os pensamentos e desejos contrários à castidade.
 
-> "Ouvistes que foi dito aos antigos: 'Não cometerás adultério.' Mas Eu vos digo que qualquer que olhar com luxúria para uma mulher já cometeu adultério com ela em seu coração" (Mat. 5: 27-28).
+> "Ouvistes que foi dito aos antigos: 'Não cometerás adultério.' Mas Eu vos digo que qualquer que olhar com luxúria para uma mulher já cometeu adultério com ela em seu coração" (Mat. 5:27-28).
 
 Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Quase sempre, pecados contra pureza, pensamentos e desejos assim como atos, são graves ou mortais. Sempre que somos acometidos por tentação, devemos imediatamente rezar, especialmente à nossa amada Mãe, a mais pura dos mortais.
 
@@ -48,7 +48,7 @@ Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Qua
 
 2. Lembrai-vos sempre que Deus nos vê. Portanto busquemos Sua ajuda através da oração.
 
-> "Vigiai e orai para que não entreis em tentação. O espírito de fato está pronto, mas a carne é fraca" (Mar. 14: 38). Para instrução sobre matérias de sexo, ide a vossos pais ou a vosso pastor ou pessoas idosas que sabeis serem boas.
+> "Vigiai e orai para que não entreis em tentação. O espírito de fato está pronto, mas a carne é fraca" (Mar. 14:38). Para instrução sobre matérias de sexo, ide a vossos pais ou a vosso pastor ou pessoas idosas que sabeis serem boas.
 
 3. Sede sempre modestos e puros em vosso vestir, postura e conversa. Isto não é apenas para salvar-vos da imodéstia, mas para evitar dar ocasião a outros pecar, ou ser mesmo uma causa inconsciente para outros pecarem.
 
@@ -56,6 +56,6 @@ Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Qua
 
 4. Recebei os sacramentos da Penitência e Santa Eucaristia frequentemente, e assisti à Santa Missa frequentemente.
 
-Assim seguimos a injunção: "Andai no espírito, e não cumprireis as concupiscências da carne" (Gál. 5: 16).
+Assim seguimos a injunção: "Andai no espírito, e não cumprireis as concupiscências da carne" (Gál. 5:16).
 
 5. Devemos ter um amor especial e devoção por nossa Bem-Aventurada Mãe, e diariamente pedir-lhe que nos preserve na castidade que ela tão grandemente prezou.

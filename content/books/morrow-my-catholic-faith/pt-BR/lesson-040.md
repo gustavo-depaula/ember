@@ -30,7 +30,7 @@
 
 2. A graça é dada a todos os homens, embora não em quantidades iguais. Alguns recebem mais, alguns menos. Algumas graças ordinárias são concedidas a todos os homens; certas graças extraordinárias são concedidas a escolhidos.
 
-> Deus é livre para conceder Seus dons como Lhe agrada. A Santíssima Virgem recebeu mais do que outros mortais. Cristãos recebem mais do que pagãos. Aqueles em estado de graça provavelmente recebem mais do que aqueles em estado de pecado mortal. De certo modo, nossas graças dependem também de nossas disposições. Se somos fiéis em corresponder ao que recebemos, recebemos mais abundantemente. Frequentemente nosso descuido e indiferença afastam de nós as graças de Deus. Rejeitamos Aquele que só deseja fazer-nos santos, cujo "prazer é estar com os filhos dos homens" (Prov. 8: 31).
+> Deus é livre para conceder Seus dons como Lhe agrada. A Santíssima Virgem recebeu mais do que outros mortais. Cristãos recebem mais do que pagãos. Aqueles em estado de graça provavelmente recebem mais do que aqueles em estado de pecado mortal. De certo modo, nossas graças dependem também de nossas disposições. Se somos fiéis em corresponder ao que recebemos, recebemos mais abundantemente. Frequentemente nosso descuido e indiferença afastam de nós as graças de Deus. Rejeitamos Aquele que só deseja fazer-nos santos, cujo "prazer é estar com os filhos dos homens" (Prov. 8:31).
 
 
 **Quais são os principais meios de obter graça?**
@@ -54,7 +54,7 @@
 
 1. A graça não nos força. Deixa-nos livres para escolher entre o bem e o mal. O Espírito Santo guia e ilumina, mas ainda podemos fechar nossos olhos à Sua graça. Se cooperarmos, ganhamos outras graças.
 
-> Como Cristo disse: "Pois àquele que tem será dado, e terá abundância" (Mat. 13: 12). Aquele que persiste em rejeitar o dom da graça de Deus e recusa converter-se morrerá em seu pecado e será para sempre excluído da visão de Deus. "Àquele que não tem, até o que parece ter lhe será tirado. Mas quanto ao servo inútil, lançai-o nas trevas exteriores, onde haverá choro e ranger de dentes" (Mat. 25: 29-30). Não seria um insulto a um rei se ele continuasse oferecendo dons a um de seu povo, e esses dons fossem desprezados?
+> Como Cristo disse: "Pois àquele que tem será dado, e terá abundância" (Mat. 13:12). Aquele que persiste em rejeitar o dom da graça de Deus e recusa converter-se morrerá em seu pecado e será para sempre excluído da visão de Deus. "Àquele que não tem, até o que parece ter lhe será tirado. Mas quanto ao servo inútil, lançai-o nas trevas exteriores, onde haverá choro e ranger de dentes" (Mat. 25:29-30). Não seria um insulto a um rei se ele continuasse oferecendo dons a um de seu povo, e esses dons fossem desprezados?
 
 2. Devemos estar atentos às graças de Deus, prontos para aceitá-las assim que forem oferecidas. A ação do Espírito Santo sobre a alma individual não é contínua em graças particulares; devemos estar prontos quando Ele vem com dons especiais.
 

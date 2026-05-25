@@ -2,18 +2,18 @@
 
 ![](../images/lesson-070.webp)
 
-*Cristo disse: "Como o ramo não pode dar fruto de si mesmo a menos que permaneça na videira, assim também vós a menos que permaneçais em Mim. Eu sou a videira, vós sois os ramos. Quem permanece em Mim, e Eu nele, esse dá muito fruto; pois sem Mim nada podeis fazer. Se alguém não permanecer em Mim, será lançado fora como o ramo e secará; e os recolherão e lançarão ao fogo, e queimarão" (João 15: 4-6). O tempo tem continuamente provado a verdade do que Cristo predisse sobre cismas e suas divisões. Esta é a razão para o fato de que mudam tão frequentemente e finalmente desaparecem: são ramos quebrados da árvore, e devem secar como Ele disse.*
+*Cristo disse: "Como o ramo não pode dar fruto de si mesmo a menos que permaneça na videira, assim também vós a menos que permaneçais em Mim. Eu sou a videira, vós sois os ramos. Quem permanece em Mim, e Eu nele, esse dá muito fruto; pois sem Mim nada podeis fazer. Se alguém não permanecer em Mim, será lançado fora como o ramo e secará; e os recolherão e lançarão ao fogo, e queimarão" (João 15:4-6). O tempo tem continuamente provado a verdade do que Cristo predisse sobre cismas e suas divisões. Esta é a razão para o fato de que mudam tão frequentemente e finalmente desaparecem: são ramos quebrados da árvore, e devem secar como Ele disse.*
 
 
 **O que queremos dizer quando dizemos: "Fora da Igreja não há salvação"?**
 
 — Quando dizemos: "Fora da Igreja não há salvação", queremos dizer que aqueles que por sua própria falta grave não sabem que a Igreja Católica é a verdadeira Igreja, ou sabendo-o, recusam-se a unir-se a ela, não podem ser salvos.
 
-1. Todos são obrigados a pertencer à Igreja Católica para serem salvos. Cristo disse: "Em verdade, em verdade te digo: a menos que alguém nasça de novo da água e do Espírito, não pode entrar no reino de Deus" (João 3: 5).
+1. Todos são obrigados a pertencer à Igreja Católica para serem salvos. Cristo disse: "Em verdade, em verdade te digo: a menos que alguém nasça de novo da água e do Espírito, não pode entrar no reino de Deus" (João 3:5).
 
 > A Igreja Católica é fundada sobre os Apóstolos, aos quais Nosso Senhor deu a comissão de batizar; pelo Batismo, alguém é feito membro da Igreja. Se então o Batismo é indispensável, a Igreja deve ser indispensável.
 
-2. Cristo não morreu por uma parte de, mas por toda a humanidade. Não deixou Seu legado a Igreja para o benefício de alguns, mas para todos. Nosso Senhor disse: "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita" (Luc. 10: 16).
+2. Cristo não morreu por uma parte de, mas por toda a humanidade. Não deixou Seu legado a Igreja para o benefício de alguns, mas para todos. Nosso Senhor disse: "Quem vos ouve, a Mim ouve; e quem vos rejeita, a Mim rejeita" (Luc. 10:16).
 
 > Visto que Deus ordenou a todos ser membros de Sua Igreja, aqueles que deliberadamente desobedecem Seu comando não serão salvos. Quem quer que, por sua própria falta, permaneça fora da Igreja Católica, perder-se-á eternamente.
 
@@ -40,7 +40,7 @@
 
 1. Deus não condena homem algum exceto por pecado grave. Portanto não condenará aqueles que sem falta de sua parte desconhecem Seu comando de pertencer à Verdadeira Igreja, contanto que O sirvam fielmente segundo sua consciência, tenham um desejo sincero de fazer Sua vontade em todas as coisas, e portanto implicitamente desejem tornar-se membros de Sua Igreja. São membros da Igreja, em desejo.
 
-> Um protestante batizado, de pais protestantes, vive toda sua vida como protestante sem nunca ter uma dúvida de que está no errado. Antes da morte, faz um ato de perfeita contrição pelos pecados que cometeu. Tal homem será salvo, pois morre em estado de graça. É possível para alguém que nunca mesmo ouviu de Jesus Cristo ser salvo, pois Deus "deseja que todos os homens sejam salvos e venham ao conhecimento da verdade" (1 Tim. 2: 4) e "Cristo morreu por todos" (2 Cor. 5: 15). Para que tal alguém seja salvo, é requerido que observe a lei natural; com a ajuda de Deus; todos tendo o uso da razão podem fazer isto.
+> Um protestante batizado, de pais protestantes, vive toda sua vida como protestante sem nunca ter uma dúvida de que está no errado. Antes da morte, faz um ato de perfeita contrição pelos pecados que cometeu. Tal homem será salvo, pois morre em estado de graça. É possível para alguém que nunca mesmo ouviu de Jesus Cristo ser salvo, pois Deus "deseja que todos os homens sejam salvos e venham ao conhecimento da verdade" (1 Tim. 2:4) e "Cristo morreu por todos" (2 Cor. 5:15). Para que tal alguém seja salvo, é requerido que observe a lei natural; com a ajuda de Deus; todos tendo o uso da razão podem fazer isto.
 
 > Quem quer que então obedeça a lei natural será iluminado por Deus, em algum tempo de sua vida, com a graça com a qual pode fazer um ato de fé Divina. Se faz bom uso desta graça e crê firmemente tudo o que Deus revelou, receberá as graças adicionais com as quais pode fazer os atos de esperança, arrependimento e caridade que devem preceder antes que Deus conceda à sua alma a graça santificante, com a qual pode merecer a vida eterna.
 

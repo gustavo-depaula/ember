@@ -60,7 +60,7 @@ Todos que se voluntariam podem ser usados: "A seara é realmente abundante mas o
 
 1. Todos devem orar firmemente e sinceramente por padres e religiosos.
 
-> Cristo disse: "Orai portanto ao Senhor da seara para que envie trabalhadores para Sua seara" (Mat. 9: 38).
+> Cristo disse: "Orai portanto ao Senhor da seara para que envie trabalhadores para Sua seara" (Mat. 9:38).
 
 2. Aqueles que são financeiramente capazes devem sustentar pobres estudantes nos seminários.
 

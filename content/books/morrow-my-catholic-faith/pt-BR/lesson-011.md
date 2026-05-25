@@ -9,7 +9,7 @@
 
 — Sim, há apenas um Deus.
 
-> "Eu sou o primeiro, e Eu sou o último, e além de Mim não há deus" (Is. 44: 6). Só pode haver um Deus, porque apenas um pode ser supremo, todo-poderoso, e independente de tudo.
+> "Eu sou o primeiro, e Eu sou o último, e além de Mim não há deus" (Is. 44:6). Só pode haver um Deus, porque apenas um pode ser supremo, todo-poderoso, e independente de tudo.
 
 
 **Quantas Pessoas há em Deus?**
@@ -35,11 +35,11 @@ Falamos de três "Pessoas" em Deus porque a cada uma pertence algo que não pode
 
 1. Esta é a maneira mais simples pela qual a origem distinta de cada Pessoa Divina foi explicada: Deus é espírito, e o primeiro ato de um Espírito é conhecer e entender. Deus, conhecendo-Se desde toda a eternidade, produz o conhecimento de Si mesmo, Sua própria imagem. Isto não era um mero pensamento, como seria nosso conhecimento de nós mesmos, mas uma Pessoa Viva, da mesma substância e una com o Pai. Este é Deus o Filho. Assim o Pai "gera" o Filho, o Verbo Divino, a Sabedoria do Pai.
 
-> "No princípio era o Verbo, e o Verbo estava com Deus; e o Verbo era Deus" (João 1: 1).
+> "No princípio era o Verbo, e o Verbo estava com Deus; e o Verbo era Deus" (João 1:1).
 
 2. Deus o Pai, vendo Sua própria Imagem no Filho, ama o Filho; e Deus o Filho ama o Pai desde toda a eternidade. Cada um ama o outro, porque cada um vê no outro a Infinitude da Divindade, a beleza da Divindade, a Verdade Suprema de Deus. As duas Pessoas amando-se mutuamente não têm apenas um pensamento, como seres humanos teriam, mas de Seu amor mútuo é espirada, por assim dizer, uma Pessoa Viva, una com Eles, e de Sua própria substância. Este é Deus O Espírito Santo. Assim o Espírito Santo, o Espírito de Amor, "procede" do Pai e do Filho.
 
-> "Mas quando tiver vindo o Consolador, que Eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, Ele dará testemunho de Mim" (João 15: 26).
+> "Mas quando tiver vindo o Consolador, que Eu vos enviarei da parte do Pai, o Espírito da verdade que procede do Pai, Ele dará testemunho de Mim" (João 15:26).
 
 3. Mas não devemos supor que uma vez Deus o Pai gerou o Filho e agora não mais o faz, nem que uma vez o amor do Pai e do Filho um pelo outro espirou o Espírito Santo, mas agora não mais o faz. Estas verdades são eternas.
 
@@ -47,7 +47,7 @@ Falamos de três "Pessoas" em Deus porque a cada uma pertence algo que não pode
 
 4. Desta maneira imperfeita, vagamente vemos que Deus deve necessariamente ser três Pessoas Divinas, porque apenas dessa forma Deus com Seu Conhecimento e Vontade Divinos pode ser completo em Si mesmo.
 
-> Nosso Senhor Jesus Cristo falou-nos da Santíssima Trindade quando, antes da Ascensão, disse a Seus Apóstolos: "Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28: 19).
+> Nosso Senhor Jesus Cristo falou-nos da Santíssima Trindade quando, antes da Ascensão, disse a Seus Apóstolos: "Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28:19).
 
 
 **O que queremos dizer pela Santíssima Trindade?**
@@ -56,12 +56,12 @@ Falamos de três "Pessoas" em Deus porque a cada uma pertence algo que não pode
 
 1. O Pai é Deus e a Primeira Pessoa da Santíssima Trindade. A onipotência, e especialmente a obra da criação, é atribuída a Deus o Pai.
 
-> Deus o Pai poderia ter criado milhões de seres em vez de ti mesmo; mas Ele te escolheu por um amor totalmente imerecido, dizendo: "Com amor eterno te amei" (Jer. 31: 3). Clamemos pois em ação de graças: "Aba, Pai!" (Rom. 8: 15). Mostremos nossa gratidão evitando tudo o que poderia desagradar a Deus o Pai, tentando agradá-Lo com virtude, buscando maior perfeição, em obediência àquela injunção de Nosso Senhor: "Sede vós perfeitos, como também vosso Pai celestial é perfeito" (Mat. 5: 48).
+> Deus o Pai poderia ter criado milhões de seres em vez de ti mesmo; mas Ele te escolheu por um amor totalmente imerecido, dizendo: "Com amor eterno te amei" (Jer. 31:3). Clamemos pois em ação de graças: "Aba, Pai!" (Rom. 8:15). Mostremos nossa gratidão evitando tudo o que poderia desagradar a Deus o Pai, tentando agradá-Lo com virtude, buscando maior perfeição, em obediência àquela injunção de Nosso Senhor: "Sede vós perfeitos, como também vosso Pai celestial é perfeito" (Mat. 5:48).
 
 2. O Filho é Deus e a Segunda Pessoa da Santíssima Trindade. A Deus o Filho, devemos nossa redenção do pecado e da morte eterna; por Sua morte Ele nos deu vida.
 
-> Por nós Deus o Filho Se rebaixou, tomando a forma de servo, ..."feito obediente até a morte, e morte de cruz" (Fil. 2: 8). Na Santa Comunhão, estamos unidos com Ele, pois Ele mesmo disse: "Quem come Minha carne e bebe Meu sangue, permanece em Mim e Eu nele" (João 6: 57). Em retorno devemos ser "outros Cristos", e, como o Apóstolo exortou, "andar como também Ele andou".
+> Por nós Deus o Filho Se rebaixou, tomando a forma de servo, ..."feito obediente até a morte, e morte de cruz" (Fil. 2:8). Na Santa Comunhão, estamos unidos com Ele, pois Ele mesmo disse: "Quem come Minha carne e bebe Meu sangue, permanece em Mim e Eu nele" (João 6:57). Em retorno devemos ser "outros Cristos", e, como o Apóstolo exortou, "andar como também Ele andou".
 
 3. O Espírito Santo é Deus e a Terceira Pessoa da Santíssima Trindade. Ele Se manifesta em nós particularmente em nossa santificação. A palavra "Espírito" aplicada à Terceira Pessoa significa "Espírito".
 
-> Em nosso Batismo Deus o Espírito Santo nos purifica de todo pecado e enche nossas almas com graça divina, de modo que nos tornamos verdadeiramente filhos de Deus, filhos e herdeiros, e co-herdeiros com Jesus Cristo. Pelo Batismo nos tornamos templos vivos do Espírito Santo: "Ou não sabeis que vossos membros são templo do Espírito Santo, que está em vós?" (1 Cor. 6: 19). Em retorno por tais benefícios, devemos fazer nosso corpo instrumento para a glória de Deus, guardando-o de toda mancha de pecado, adornando-o com virtudes. "Glorificai a Deus e levai-O em vosso corpo" (1 Cor. 6: 20). Guardemos nossas almas como santuário para o Espírito Santo, para que Deus Se alegre em habitar em nós.
+> Em nosso Batismo Deus o Espírito Santo nos purifica de todo pecado e enche nossas almas com graça divina, de modo que nos tornamos verdadeiramente filhos de Deus, filhos e herdeiros, e co-herdeiros com Jesus Cristo. Pelo Batismo nos tornamos templos vivos do Espírito Santo: "Ou não sabeis que vossos membros são templo do Espírito Santo, que está em vós?" (1 Cor. 6:19). Em retorno por tais benefícios, devemos fazer nosso corpo instrumento para a glória de Deus, guardando-o de toda mancha de pecado, adornando-o com virtudes. "Glorificai a Deus e levai-O em vosso corpo" (1 Cor. 6:20). Guardemos nossas almas como santuário para o Espírito Santo, para que Deus Se alegre em habitar em nós.

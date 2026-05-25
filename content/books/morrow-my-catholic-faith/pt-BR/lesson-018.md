@@ -9,13 +9,13 @@
 
 — O primeiro homem e mulher foram Adão e Eva, os primeiros pais de toda a raça humana.
 
-1. Deus fez o corpo de Adão do limo da terra, e soprou uma alma imortal nele (Gên. 2: 7). Deus então fez cair um sono profundo sobre Adão, e tomando uma de suas costelas formou-a em Eva (Gên. 2: 22).
+1. Deus fez o corpo de Adão do limo da terra, e soprou uma alma imortal nele (Gên. 2:7). Deus então fez cair um sono profundo sobre Adão, e tomando uma de suas costelas formou-a em Eva (Gên. 2:22).
 
 > O corpo de Adão foi formado da terra. Mas sua alma foi imediatamente criada do nada pelo poder todo-poderoso de Deus. A alma de cada pessoa é criada desta forma. Não herdamos nossa alma de nossos pais; ela vem diretamente da mão de Deus no mesmo momento em que recebemos vida.
 
 2. Adão e Eva foram nossos primeiros pais. Toda a humanidade compõe uma grande família.
 
-> A Sagrada Escritura diz que antes da criação de Adão "não havia homem para cultivar a terra" (Gên. 2: 5); e que Eva era a "mãe de todos os viventes" (Gên. 3: 20). Lendas de todas as raças falam de uma felicidade original da qual o homem caiu, e de um dilúvio que cobriu a terra.
+> A Sagrada Escritura diz que antes da criação de Adão "não havia homem para cultivar a terra" (Gên. 2:5); e que Eva era a "mãe de todos os viventes" (Gên. 3:20). Lendas de todas as raças falam de uma felicidade original da qual o homem caiu, e de um dilúvio que cobriu a terra.
 
 a. Todos os homens têm características corporais comuns.
 
@@ -32,11 +32,11 @@ b. Emocional e intelectualmente todas as raças são as mesmas.
 
 1. Deus criou Adão e Eva no estado de inocência e santidade. Isto os tornou agradáveis a Deus, e cheios de amor por Ele. Tornou-os filhos de Deus, e portanto herdeiros do céu. Este estado de inocência chamamos de "graça santificante."
 
-> "Deus encheu-os de sabedoria e conhecimento de entendimento. ... Criou neles a ciência do espírito, encheu seu coração de sabedoria. ... E seu olho viu a majestade de Sua glória, e seus ouvidos ouviram Sua voz gloriosa" (Ecli. 17: 6, 11).
+> "Deus encheu-os de sabedoria e conhecimento de entendimento. ... Criou neles a ciência do espírito, encheu seu coração de sabedoria. ... E seu olho viu a majestade de Sua glória, e seus ouvidos ouviram Sua voz gloriosa" (Ecli. 17:6, 11).
 
 2. A graça permanente de Deus tornou Adão e Eva tão felizes que sua felicidade quase igualava à dos anjos.
 
-> "Fizeste-o um pouco menor que os anjos; coroaste-o de glória e honra" (Sl. 8: 6).
+> "Fizeste-o um pouco menor que os anjos; coroaste-o de glória e honra" (Sl. 8:6).
 
 
 **Que outros dons foram concedidos a Adão e Eva por Deus?**
@@ -68,7 +68,7 @@ b. Emocional e intelectualmente todas as raças são as mesmas.
 
 1. Deus queria Adão como cabeça e representante da raça humana para merecer o céu. E assim, após conceder-lhe Sua graça permanente, e abençoá-lo com dons maravilhosos, e dar-lhe o Jardim do Paraíso para viver, ordenou-lhe que não comesse do fruto de uma certa árvore.
 
-> "De toda árvore do Paraíso comerás: mas da árvore da ciência do bem e do mal não comerás; pois no dia em que dela comeres, morrerás de morte" (Gên. 2: 16-17). O fruto da árvore proibida não era mau em si, pois no Paraíso, Deus não colocou nada mau. Era mau apenas porque era proibido; e se Adão e Eva dele participassem, teriam desobedecido a Deus.
+> "De toda árvore do Paraíso comerás: mas da árvore da ciência do bem e do mal não comerás; pois no dia em que dela comeres, morrerás de morte" (Gên. 2:16-17). O fruto da árvore proibida não era mau em si, pois no Paraíso, Deus não colocou nada mau. Era mau apenas porque era proibido; e se Adão e Eva dele participassem, teriam desobedecido a Deus.
 
 2. Se Adão e Eva tivessem sido fiéis a Deus, teriam passado sem doença e sem morte corporal de seu Paraíso terrestre para o céu, a morada de Deus, onde O veriam face a face.
 
@@ -79,4 +79,4 @@ b. Emocional e intelectualmente todas as raças são as mesmas.
 
 — Adão e Eva não obedeceram ao mandamento de Deus, mas comeram do fruto proibido.
 
-> O demônio tentou Eva a comer do fruto, e ela comeu; então deu um pouco a Adão, e ele também comeu (Gên. 3: 1-13). Cometeram os pecados de orgulho e desobediência.
+> O demônio tentou Eva a comer do fruto, e ela comeu; então deu um pouco a Adão, e ele também comeu (Gên. 3:1-13). Cometeram os pecados de orgulho e desobediência.

@@ -13,21 +13,21 @@
 
 1. God is the God of truths and we are obliged to respect that truth. If we would prove ourselves children of God, we should, like Him, always respect the truth.
 
-> "I am the way, and the truth, and the life" says Our Lord (John 14: 6). "You shall not lie" (Lev. 19: 11). This is why a lie, even when told for a good purpose, is always a sin, because it is contrary to the nature of God.
+> "I am the way, and the truth, and the life" says Our Lord (John 14:6). "You shall not lie" (Lev. 19:11). This is why a lie, even when told for a good purpose, is always a sin, because it is contrary to the nature of God.
 
-2. The lover of truth is like God, and well-pleasing to Him. The lover of truth is also held in esteem by his fellow men, who know that they can trust him, for in him as in Nathaniel (John 1: 47), is no guile.
+2. The lover of truth is like God, and well-pleasing to Him. The lover of truth is also held in esteem by his fellow men, who know that they can trust him, for in him as in Nathaniel (John 1:47), is no guile.
 
 > Even if we suffer from telling the truth, we shall be saved trouble and shall possess a clear conscience.
 
 3. A habitual liar not only is often led into grave sin, but forfeits the trust of his fellow-beings, and is the cause of a great deal of harm. When people know that one is a habitual liar, they do not believe him even when he tells the truth.
 
-> The liar is almost always guilty of other sins. "A thief is better than a man that is always lying. Lying men are without honour" (Ecclus. 20: 27-28).
+> The liar is almost always guilty of other sins. "A thief is better than a man that is always lying. Lying men are without honour" (Ecclus. 20:27-28).
 
 4. In the eighth commandment, God forbids us to detract in any way from our neighbour's honour or reputation. It is our good reputation that keeps us well-thought of and well-spoken of among our fellow men.
 
-> "A good name is better than great riches; and good favour is above silver and gold" (Prov. 22: 1). The esteem of others is essential to real happiness; those who know they are despised by their fellow men are not likely to be happy in this life. One who brings another into disrepute is a thief, stealing a good name.
+> "A good name is better than great riches; and good favour is above silver and gold" (Prov. 22:1). The esteem of others is essential to real happiness; those who know they are despised by their fellow men are not likely to be happy in this life. One who brings another into disrepute is a thief, stealing a good name.
 
-5. A good name is acquired by consistent struggle, by making our good works known, by defending ourselves whenever false accusations are made against us. This is why, in ordinary cases, we do our good works openly in accordance with Our Lord's injunction, "So let your light shine before men, in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5: 16).
+5. A good name is acquired by consistent struggle, by making our good works known, by defending ourselves whenever false accusations are made against us. This is why, in ordinary cases, we do our good works openly in accordance with Our Lord's injunction, "So let your light shine before men, in order that they may see your good works, and give glory to your Father in heaven" (Matt. 5:16).
 
 > Good works are the best means of defending a good name. We must, however, be sure we do not do our good works only to make a show before men, but chiefly to please God. When our name is in danger, we should defend ourselves and justify ourselves; but it is foolish to make too much fuss over trifles, as going to court over nothing.
 
@@ -59,4 +59,4 @@
 
 — The eighth commandment forbids lies, rash judgement, detraction, calumny, and the telling of secrets we are bound to keep.
 
-> "Lying lips are an abomination to the Lord" (Prov. 12: 22). "Wherefore, put away lying and speak truth each one with his neighbour, because we are members of one another" (Eph. 4: 25).
+> "Lying lips are an abomination to the Lord" (Prov. 12:22). "Wherefore, put away lying and speak truth each one with his neighbour, because we are members of one another" (Eph. 4:25).

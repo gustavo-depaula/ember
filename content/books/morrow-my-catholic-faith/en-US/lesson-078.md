@@ -2,7 +2,7 @@
 
 ![](../images/lesson-078.webp)
 
-*Both reason and faith tell us that there is a middle ground of expiation, where the soul is cleansed from all stain of sin before it can enter the glory of heaven. "There shall not enter into it anything defiled" (Apoc. 21: 27). Christ said, "Amen, I say to thee thou will not come out from it until thou hast paid the last penny" (Matt. 5: 26). Even persons who deny the existence of purgatory instinctively pray for their loved ones who have died. This would be great inconsistency if their reason did not tell them that their prayers would do the dead good. Prayers are useless for those in heaven or hell.*
+*Both reason and faith tell us that there is a middle ground of expiation, where the soul is cleansed from all stain of sin before it can enter the glory of heaven. "There shall not enter into it anything defiled" (Apoc. 21:27). Christ said, "Amen, I say to thee thou will not come out from it until thou hast paid the last penny" (Matt. 5:26). Even persons who deny the existence of purgatory instinctively pray for their loved ones who have died. This would be great inconsistency if their reason did not tell them that their prayers would do the dead good. Prayers are useless for those in heaven or hell.*
 
 
 **What is purgatory?**

@@ -23,7 +23,7 @@
 
 4. To satisfy the justice of God for the sins committed against Him.
 
-> The Mass reconciles man with God, as we learn from the words of Christ uttered at the Last Supper, "This is my blood, which is being shed for many unto the forgiveness of sins" (Matt. 26: 28). We are not redeemed all over again by the Mass, for we were redeemed once on the cross; but the Mass applies to our souls the fruits of redemption gained for us on the cross. As a perfect propitiatory sacrifice, the Mass satisfies the justice of God.
+> The Mass reconciles man with God, as we learn from the words of Christ uttered at the Last Supper, "This is my blood, which is being shed for many unto the forgiveness of sins" (Matt. 26:28). We are not redeemed all over again by the Mass, for we were redeemed once on the cross; but the Mass applies to our souls the fruits of redemption gained for us on the cross. As a perfect propitiatory sacrifice, the Mass satisfies the justice of God.
 
 
 **What fruits are derived from Holy Mass?**

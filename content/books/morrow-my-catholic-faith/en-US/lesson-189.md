@@ -26,7 +26,7 @@
 
 2. This feast, celebrated in honour of Our Lady's Purification, is also called Candlemas; on this day candles are blessed.
 
-> The wax tapers carried during the procession symbolize Christ, the Light of the World, whom Holy Simeon called "a light of revelation to the Gentiles" (Luke 2: 32).
+> The wax tapers carried during the procession symbolize Christ, the Light of the World, whom Holy Simeon called "a light of revelation to the Gentiles" (Luke 2:32).
 
 2. The procession of Palm Sunday. Blessed palms are carried, in memory of Our Lord's triumphal entry into Jerusalem.
 

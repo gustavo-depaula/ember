@@ -15,7 +15,7 @@
 
 2. Our Lord sanctioned the use of sacramentals; He blessed the loaves and fishes, the young children, and the Apostles before the Ascension. He gave the Apostles power over evil spirits, to cast them out and to heal all kinds of diseases.
 
-> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" (Ps. 50: 9). "I reprehend myself and do penance in dust and ashes" (Job 42: 6).
+> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" (Ps. 50:9). "I reprehend myself and do penance in dust and ashes" (Job 42:6).
 
 3. Prayers and ceremonies of the Church are also sacramentals, because they increase devotion in the worship of God.
 
@@ -40,7 +40,7 @@
 
 3. Blessed objects of devotion. — Of these we may make mention of: holy oils, holy water, candles, ashes, palms, crosses and crucifixes, scapulars, medals, Agnus Deis, rosaries, images, holy pictures, bells, and blessed dresses.
 
-> All objects used in divine service, such as sacred vessels, linens, vestments, are specially blessed. Mother Church has special blessings for everything we use: for radios, automobiles, airplanes, fields, libraries, etc. We should ask the priest to bless everything we use and have. As St. Paul said: "Whether you eat or drink, or do anything else, do all for the glory of God" (1 Cor. 10: 31). By sacramental blessings, we consecrate to God all we are and have.
+> All objects used in divine service, such as sacred vessels, linens, vestments, are specially blessed. Mother Church has special blessings for everything we use: for radios, automobiles, airplanes, fields, libraries, etc. We should ask the priest to bless everything we use and have. As St. Paul said: "Whether you eat or drink, or do anything else, do all for the glory of God" (1 Cor. 10:31). By sacramental blessings, we consecrate to God all we are and have.
 
 
 **In what does the blessing for persons or places consist?**

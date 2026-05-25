@@ -25,7 +25,7 @@
 
 4. As ordenações de um diácono e um padre e a consagração de um bispo são apenas três graus num único sacramento, que confere ordens para cada grau.
 
-> Por meio do Sacramento da Ordem, as graças ganhas pelo sacrifício de Cristo devem ser aplicadas aos fiéis de todos os tempos. "Como o Pai Me enviou, também Eu vos envio" — para os mesmos fins: glorificar a Deus e levar os homens à salvação; pelos mesmos meios: através da oração e ensino; nas dificuldades e contra obstáculos e com a promessa de vitória última: "E Eu vos constituo meu reino, assim como Meu Pai Me constituiu, para que comais e bebais à minha mesa em meu reino; e vos assentareis sobre tronos, julgando as doze tribos de Israel" (Lucas 22: 29-30).
+> Por meio do Sacramento da Ordem, as graças ganhas pelo sacrifício de Cristo devem ser aplicadas aos fiéis de todos os tempos. "Como o Pai Me enviou, também Eu vos envio" — para os mesmos fins: glorificar a Deus e levar os homens à salvação; pelos mesmos meios: através da oração e ensino; nas dificuldades e contra obstáculos e com a promessa de vitória última: "E Eu vos constituo meu reino, assim como Meu Pai Me constituiu, para que comais e bebais à minha mesa em meu reino; e vos assentareis sobre tronos, julgando as doze tribos de Israel" (Lucas 22:29-30).
 
 ![](../images/lesson-160b.webp)
 

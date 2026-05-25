@@ -2,7 +2,7 @@
 
 ![](../images/lesson-041.webp)
 
-*A fé é o fundamento de toda virtude, pois por ela Deus Se faz conhecido aos homens. Como diz São Paulo: "Ora, a fé é a substância das coisas a serem esperadas, a evidência das coisas que não são vistas. . . . E sem fé é impossível agradar a Deus." (Heb. 11: 1, 6). Foi esta fé sobrenatural que a mulher cananeia provou, quando perseverou em pedir a Jesus que curasse sua filha. Tendo-a testado, Ele disse: "Ó mulher, grande é tua fé. Faça-se contigo como queres" (Mat. 15: 28).*
+*A fé é o fundamento de toda virtude, pois por ela Deus Se faz conhecido aos homens. Como diz São Paulo: "Ora, a fé é a substância das coisas a serem esperadas, a evidência das coisas que não são vistas. . . . E sem fé é impossível agradar a Deus." (Heb. 11:1, 6). Foi esta fé sobrenatural que a mulher cananeia provou, quando perseverou em pedir a Jesus que curasse sua filha. Tendo-a testado, Ele disse: "Ó mulher, grande é tua fé. Faça-se contigo como queres" (Mat. 15:28).*
 
 
 **Quais são as principais forças sobrenaturais que são concedidas a nossas almas com a graça santificante?**
@@ -55,11 +55,11 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 3. É a graça que nos ajuda a atingir a fé e a perseverar nela, a aceitar a palavra de Deus por tudo o que Ele revelou.
 
-> A fé é sobrenatural porque não podemos por nós mesmos adquiri-la. É um dom de Deus. É, contudo, aumentada pela oração e exercício contínuo; os apóstolos rogaram ao Senhor: "Aumenta-nos a fé" (Luc. 17: 5).
+> A fé é sobrenatural porque não podemos por nós mesmos adquiri-la. É um dom de Deus. É, contudo, aumentada pela oração e exercício contínuo; os apóstolos rogaram ao Senhor: "Aumenta-nos a fé" (Luc. 17:5).
 
 4. Sem fé, é impossível ser salvo.
 
-> Não devemos cessar de rezar por um aumento da fé, pois é necessária para a salvação. "Aquele que não crer será condenado" (Mat. 16: 16). "Sem fé, é impossível agradar a Deus" (Heb. 11: 6).
+> Não devemos cessar de rezar por um aumento da fé, pois é necessária para a salvação. "Aquele que não crer será condenado" (Mat. 16:16). "Sem fé, é impossível agradar a Deus" (Heb. 11:6).
 
 5. Nossa fé deve ser firme e completa; isto é, tanto certa quanto abrangente.
 
@@ -72,7 +72,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 1. Deus prometeu dar ao homem a vida eterna, e os meios para obtê-la. Nesta promessa está nossa esperança.
 
-> "Aquele que põe sua confiança em Mim herdará a terra, e possuirá Meu monte santo" (Is. 57: 13).
+> "Aquele que põe sua confiança em Mim herdará a terra, e possuirá Meu monte santo" (Is. 57:13).
 
 2. A esperança é necessária para a salvação. Nossa esperança deve ser firmemente fundada em Deus, Que prometeu dar-nos os meios para a salvação.
 

@@ -9,7 +9,7 @@
 
 — Man is a creature composed of body and soul, and made to the image and likeness of God.
 
-> Before the creation of man, God said, "Let us make man to our image and likeness; and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that moveth upon the earth" (Gen. 1: 26).
+> Before the creation of man, God said, "Let us make man to our image and likeness; and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that moveth upon the earth" (Gen. 1:26).
 
 1. God formed the body of man from the slime of the earth; but He breathed the soul into man's body. In this way the soul came direct from God, and indicates closer likeness to Him.
 
@@ -24,7 +24,7 @@
 
 **Is this likeness to God in the body or in the soul?**
 
-— This likeness to God is chiefly in the soul. Man continues in this likeness to God only when he remains in God's grace, for then he is a "partaker of the divine nature" (2 Pet. 1: 4).
+— This likeness to God is chiefly in the soul. Man continues in this likeness to God only when he remains in God's grace, for then he is a "partaker of the divine nature" (2 Pet. 1:4).
 
 1. Like God, man's soul is an immortal spirit, with understanding and free will. Some deny the existence of the soul, because it cannot be seen; yet the same people would not deny the existence of human reason, even if this cannot be seen, either.
 
@@ -32,7 +32,7 @@
 
 2. Through his two faculties of the soul, understanding and free will, man obtains dominion over the material world, as God possesses power over the entire universe.
 
-> As God said before creating man: "Let him have dominion over the beasts and the whole earth" (Gen. 1: 26). Through his likeness to God, man has the power to know the true, the good, the beautiful, so far even as to know the Source of all truth, goodness, and beauty, God Himself.
+> As God said before creating man: "Let him have dominion over the beasts and the whole earth" (Gen. 1:26). Through his likeness to God, man has the power to know the true, the good, the beautiful, so far even as to know the Source of all truth, goodness, and beauty, God Himself.
 
 
 **How can we prove that the soul of man is immortal?**
@@ -59,4 +59,4 @@
 
 5. Holy Scripture, the Word of God, teaches that the soul is immortal.
 
-> "And many of those that sleep in the dust of the earth shall awake: some unto life everlasting, and others unto reproach, to see it always" (Dan. 12: 2). Our Lord Himself said to the good thief, "This day thou shalt be with me in Paradise" (Luke 23: 43). "And do not be afraid of those who kill the body but cannot kill the soul" (Matt. 10: 28). "He is not the God of the dead, but of the living" (Matt. 22: 32).
+> "And many of those that sleep in the dust of the earth shall awake: some unto life everlasting, and others unto reproach, to see it always" (Dan. 12:2). Our Lord Himself said to the good thief, "This day thou shalt be with me in Paradise" (Luke 23:43). "And do not be afraid of those who kill the body but cannot kill the soul" (Matt. 10:28). "He is not the God of the dead, but of the living" (Matt. 22:32).

@@ -51,8 +51,8 @@
 
 1. Nada na terra pode dar duradouro conforto a corações enlutados. Mas se vivemos nossa fé, a morte de um ente querido não deve levar-nos ao desespero; pois aquele que vai na graça de Deus, "morrer é lucro", morrer é atingir união eterna com Deus. Para os justos que morrem, a morte verdadeiramente não é mais.
 
-> "Mas o justo, se for prevenido com a morte, estará em descanso" (Sab. 4: 7). Como Nosso Senhor nos assegura: "Eu sou a ressurreição e a vida; aquele que crê em mim, mesmo se morrer, viverá; e quem vive e crê em mim, nunca morrerá" (João 11: 25-26).
+> "Mas o justo, se for prevenido com a morte, estará em descanso" (Sab. 4:7). Como Nosso Senhor nos assegura: "Eu sou a ressurreição e a vida; aquele que crê em mim, mesmo se morrer, viverá; e quem vive e crê em mim, nunca morrerá" (João 11:25-26).
 
 2. Aos enlutados, Deus em Sua infinita misericórdia estende, através de nossa Mãe Igreja, a consoladora certeza do Purgatório. Este conhecimento ponteia o abismo escancarado entre nós e nossos caros falecidos; faz-nos sentir que a morte não cortou os laços de amor que nos unem a eles. Em vez de desolação por nossa perda, encontramos diminuição de pesar e uma expressão prática de nossa afeição em orações e boas obras oferecidas a Deus em nome de nossos amados mortos, que podem ainda estar no purgatório.
 
-> Esta é uma razão para a necessidade de entender completamente a doutrina do purgatório (veja páginas 156-159). Como São Paulo disse, "Não queremos, irmãos, que ignoreis a respeito daqueles que dormem, para que não vos aflijais como os outros que não têm esperança" (1 Tess. 4: 13).
+> Esta é uma razão para a necessidade de entender completamente a doutrina do purgatório (veja páginas 156-159). Como São Paulo disse, "Não queremos, irmãos, que ignoreis a respeito daqueles que dormem, para que não vos aflijais como os outros que não têm esperança" (1 Tess. 4:13).

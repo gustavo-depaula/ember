@@ -11,15 +11,15 @@
 
 — By the commandment to contribute to the support of the Church is meant that each of us is obliged to bear his fair share of the financial burden of the Holy See, of the diocese, and of the parish.
 
-> As St. Paul says: "What soldier ever serves at his own expense? Who plants a vineyard and does not eat of its fruit? Who feeds the flock, and does not eat of the milk of the flock?" (I Cor. 9: 7-8).
+> As St. Paul says: "What soldier ever serves at his own expense? Who plants a vineyard and does not eat of its fruit? Who feeds the flock, and does not eat of the milk of the flock?" (I Cor. 9:7-8).
 
 I. We are bound to support our pastors, because justice commands it, and God ordained it. Our pastors are those priests in whose districts or parishes we live.
 
-> Pastors and curates are appointed by the Bishop, and charged to give the necessary religious instruction, administer the sacraments, watch over the spiritual welfare of the faithful, etc. "The Lord directed that those who preach the gospel should have their living from the gospel" (1Cor. 9: 14). Good citizens never think of grumbling about the taxes they pay the government. They have as great, if not greater, obligation to help support the Church.
+> Pastors and curates are appointed by the Bishop, and charged to give the necessary religious instruction, administer the sacraments, watch over the spiritual welfare of the faithful, etc. "The Lord directed that those who preach the gospel should have their living from the gospel" (1Cor. 9:14). Good citizens never think of grumbling about the taxes they pay the government. They have as great, if not greater, obligation to help support the Church.
 
 2. We are also obliged to help support our Bishop, as well as the Pope, and to meet all Church needs according to our ability.
 
-> If we do not support the Church, we would be unfaithful to Christ's command that it "go and make disciples of all nations". To teach, the Church has need of funds; our spiritual superiors need material support as much as we do, if not much more on account of their duties. "The labourer is worthy of his wages" (1 Tim. 5: 18).
+> If we do not support the Church, we would be unfaithful to Christ's command that it "go and make disciples of all nations". To teach, the Church has need of funds; our spiritual superiors need material support as much as we do, if not much more on account of their duties. "The labourer is worthy of his wages" (1 Tim. 5:18).
 
 3. Mass stipends are given, not in payment for the spiritual benefits, but as a means of support for the one who says the Mass. One cannot buy a Mass.
 

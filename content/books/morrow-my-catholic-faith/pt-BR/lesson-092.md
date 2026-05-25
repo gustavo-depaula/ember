@@ -13,11 +13,11 @@
 
 1. O primeiro mandamento requer que adoremos e veneremos a Deus, e somente a Deus. Devemos prestar a Deus adoração exclusiva. Ele sozinho é o criador e Senhor soberano do céu e da terra. Adoramos e veneramos Jesus Cristo, porque Ele é a Segunda Pessoa da Santíssima Trindade, Deus verdadeiro assim como o Pai e o Espírito Santo. Este mandamento proíbe a idolatria, o falso culto.
 
-> "Está escrito: Ao Senhor teu Deus adorarás, e só a Ele servirás" (Mat. 4: 10). Adoramos a Deus porque Ele é infinitamente exaltado acima de nós, e somos inteiramente dependentes d'Ele como nosso Criador e nosso Pai.
+> "Está escrito: Ao Senhor teu Deus adorarás, e só a Ele servirás" (Mat. 4:10). Adoramos a Deus porque Ele é infinitamente exaltado acima de nós, e somos inteiramente dependentes d'Ele como nosso Criador e nosso Pai.
 
 2. Culto exterior assim como interior é devido a Deus, porque nossos corpos, assim como nossas almas, pertencem a Ele. Muito frequentemente atos exteriores servem para despertar e aumentar a devoção interior.
 
-> Nosso culto é interior quando adoramos a Deus por atos internos do coração e da mente, como atos de fé e amor, sem manifestações visíveis. Nosso culto é exterior quando acompanhamos nosso culto interior por atos externos, como orações vocais e genuflexões. Sem culto interior ou devoção, manifestações externas não têm valor. "Hipócritas, bem profetizou Isaías a vosso respeito, dizendo: Este povo Me honra com os lábios, mas seu coração está longe de Mim" (Mat. 15: 7-8).
+> Nosso culto é interior quando adoramos a Deus por atos internos do coração e da mente, como atos de fé e amor, sem manifestações visíveis. Nosso culto é exterior quando acompanhamos nosso culto interior por atos externos, como orações vocais e genuflexões. Sem culto interior ou devoção, manifestações externas não têm valor. "Hipócritas, bem profetizou Isaías a vosso respeito, dizendo: Este povo Me honra com os lábios, mas seu coração está longe de Mim" (Mat. 15:7-8).
 
 3. Devemos prestar culto particular a Deus ao levantar e ao deitar, ao entrar numa igreja, durante serviços religiosos, e ao receber os sacramentos.
 
@@ -34,7 +34,7 @@
 
 — Adoramos a Deus por atos das virtudes de fé, esperança, caridade e religião.
 
-1. Verdadeira piedade e adoração de Deus não incluem um modo sombrio, uma expressão melancólica, e um exterior duro. Verdadeira piedade é alegre, cheia de gozo. "Servi ao Senhor com alegria" (Sl. 99: 2).
+1. Verdadeira piedade e adoração de Deus não incluem um modo sombrio, uma expressão melancólica, e um exterior duro. Verdadeira piedade é alegre, cheia de gozo. "Servi ao Senhor com alegria" (Sl. 99:2).
 
 > Enganam-se aqueles que pensam que um comportamento proibitivo, gemidos e suspiros contínuos, choro, etc., são agradáveis a Deus. Apenas servem para repelir os outros. Devemos lembrar que de todas as criaturas, Deus ama mais uma criança inocente. Não nos enganaremos nas práticas se o imitarmos.
 
@@ -57,7 +57,7 @@
 
 3. Professar nossa fé abertamente sempre que necessário. Somos obrigados a fazê-lo quando somos desafiados a fazer profissão dela, ou quando uma omissão em fazê-lo prejudicaria nosso próximo ou traria a religião ao desprezo, ou quando somos questionados por autoridade legítima. Nunca devemos negar nossa fé.
 
-> Nosso Senhor diz: "Portanto todo aquele que Me confessar diante dos homens, também Eu o confessarei diante de Meu Pai que está nos céus" (Mat. 10: 32).
+> Nosso Senhor diz: "Portanto todo aquele que Me confessar diante dos homens, também Eu o confessarei diante de Meu Pai que está nos céus" (Mat. 10:32).
 
 
 **Que nos obriga a esperança a fazer?**

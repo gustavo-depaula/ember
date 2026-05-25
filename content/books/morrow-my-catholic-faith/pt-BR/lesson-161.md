@@ -58,7 +58,7 @@
 
 1. O voto sacerdotal de celibato é tomado quando um homem é recebido no subdiaconato. Padres católicos não se casam, em imitação do Próprio Cristo. Os Apóstolos, após serem chamados ao ministério, deixaram tudo que tinham. Elias, Eliseu, Jeremias e São João Batista viveram em celibato.
 
-> Um padre é ordenado para o exclusivo serviço de Deus: seus talentos, seu tempo, sua própria vida pertencem ao Seu serviço. São Paulo diz: "Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua esposa; e está dividido" (1 Cor. 7: 32-33).
+> Um padre é ordenado para o exclusivo serviço de Deus: seus talentos, seu tempo, sua própria vida pertencem ao Seu serviço. São Paulo diz: "Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua esposa; e está dividido" (1 Cor. 7:32-33).
 
 2. Um padre deve ler o Ofício Divino, uma série de orações, no Breviário; para isto aproximadamente uma hora é necessária cada dia.
 

@@ -11,7 +11,7 @@
 
 1. We should make visits to honour Jesus in the Blessed Sacrament. If possible, we should make at least one daily visit. When passing a church, we should go in, if only for half a minute, to greet Him, Who always waits patiently and eagerly for us.
 
-> Cardinal Bellarmine, while still a student, used to pay a visit to the Blessed Sacrament every time he passed a church. When he was asked why he did this, he answered, "It would be ill manners to go by a friend's house without a word of greeting." The church door is always open to admit us, a constant invitation to us to visit Our Lord Who calls, "Come to me, all you who labour and are burdened, and I will give you rest" (Matt. 11: 28).
+> Cardinal Bellarmine, while still a student, used to pay a visit to the Blessed Sacrament every time he passed a church. When he was asked why he did this, he answered, "It would be ill manners to go by a friend's house without a word of greeting." The church door is always open to admit us, a constant invitation to us to visit Our Lord Who calls, "Come to me, all you who labour and are burdened, and I will give you rest" (Matt. 11:28).
 
 2. Benediction of the Blessed Sacrament is a devotion during which the Holy Eucharist is exposed, prayers are said, and the blessing is given. It usually lasts from ten minutes to half an hour.
 

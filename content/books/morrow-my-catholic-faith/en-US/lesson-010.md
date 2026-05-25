@@ -11,9 +11,9 @@
 
 > Our Lord said: "Go, make disciples of all nations." "Preach the Gospel to every creature." "He that heareth you heareth me." Christ did not say: "Go and make all nations read the Bible."
 
-1. The Apostles never circulated a single volume of the Bible, but "they went forth and preached everywhere, while the Lord worked with them" (Mark 16: 20). The New Testament was not written till Christianity was already established.
+1. The Apostles never circulated a single volume of the Bible, but "they went forth and preached everywhere, while the Lord worked with them" (Mark 16:20). The New Testament was not written till Christianity was already established.
 
-> Christ bade His Apostles teach all men to "observe all that I have commanded you" (Matt. 28: 20). He commanded them to preach, not necessarily to write.
+> Christ bade His Apostles teach all men to "observe all that I have commanded you" (Matt. 28:20). He commanded them to preach, not necessarily to write.
 
 2. God did not intend Holy Scripture to be our rule of faith independently of a Living Voice. Even under the Old Law, the Jews, in spite of their great veneration for Holy Scripture, never dreamed of a private appeal to the Word of God.
 
@@ -21,7 +21,7 @@
 
 3. When Christ came on earth, He did not change this order of things. On the contrary, He commanded the Jews to obey their constituted teachers, however disedifying their private lives might be.
 
-> Then Jesus spoke to the crowds and to his disciples, saying, "The Scribes and the Pharisees have sat on the chair of Moses. All things, therefore, that they command you, observe and do" (Matt. 23: 2-3).
+> Then Jesus spoke to the crowds and to his disciples, saying, "The Scribes and the Pharisees have sat on the chair of Moses. All things, therefore, that they command you, observe and do" (Matt. 23:2-3).
 
 4. Until the Protestant outbreak in the sixteenth century (1517), no attempt had ever been made to have any people governed by the dead letter of the law in either civil or religious affairs.
 
@@ -38,7 +38,7 @@
 
 2. The Bible is difficult to understand, frequently full of obscurities and difficulties, even for the learned.
 
-> St. Peter himself said of the Epistles of St. Paul, that they have "certain things difficult to understand, which the unlearned and unstable distort, just as they do the rest of the Scriptures also, to their own destruction" (2 Pet. 3: 16). The Fathers of the Church, who spent their whole lives in the study of the Bible, all pronounce it full of difficulties, needing careful interpretation.
+> St. Peter himself said of the Epistles of St. Paul, that they have "certain things difficult to understand, which the unlearned and unstable distort, just as they do the rest of the Scriptures also, to their own destruction" (2 Pet. 3:16). The Fathers of the Church, who spent their whole lives in the study of the Bible, all pronounce it full of difficulties, needing careful interpretation.
 
 3. The Bible does not contain all the truths necessary for eternal salvation.
 
@@ -51,7 +51,7 @@
 
 1. By God's command, the Catholic Church proclaimed the truths of Divine Revelation, as contained in both Holy Scripture and Tradition.
 
-> Before His Ascension, Our Lord said to the Apostles: "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit, teaching them to observe all that I have commanded you ... and behold, I am with you all days, even unto the consummation of the world" (Matt. 28: 18-20).
+> Before His Ascension, Our Lord said to the Apostles: "All power in heaven and on earth has been given to me. Go, therefore, and make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Spirit, teaching them to observe all that I have commanded you ... and behold, I am with you all days, even unto the consummation of the world" (Matt. 28:18-20).
 
 2. It was the Catholic Church, in the fourth century that declared which books were inspired by God and which were not. For fifteen hundred years the Catholic Church was the sole guardian of the Bible.
 
@@ -70,4 +70,4 @@
 
 We can know the true meaning of the doctrines contained in Divine Revelation from the Catholic Church, which has been authorized by Jesus Christ to explain His doctrines, and which is preserved from error in its teachings by the special assistance of the Holy Ghost.
 
-> "But even if we or an angel from heaven should preach a gospel to you other than that which we have preached to you, let him be anathema" (Gal. 1: 8).
+> "But even if we or an angel from heaven should preach a gospel to you other than that which we have preached to you, let him be anathema" (Gal. 1:8).

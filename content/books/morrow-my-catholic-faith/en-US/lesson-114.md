@@ -15,15 +15,15 @@
 
 2. Not work his employees beyond their strength, or put them to any work that is unsuited to their sex and age. There should be no working mothers, no child labour.
 
-> We cannot change God's Law. He commanded: "You shall not hurt a widow or an orphan. If you hurt them, they will cry out to Me, and I will hear their cry" (Exod. 22: 23).
+> We cannot change God's Law. He commanded: "You shall not hurt a widow or an orphan. If you hurt them, they will cry out to Me, and I will hear their cry" (Exod. 22:23).
 
 3. See to it that the working conditions are safe for the soul as well as for the body:
 
 > (a) by not exposing working men to dangerous occasions of sin and to evil influences; (b) by giving them time to comply with their religious and family duties; and (c) by discouraging all signs of neglect of the family and squandering of earnings.
 
-4. Pay a living wage; that is, enough to support the employees and their families in decency, and enable them to educate their children properly. "Let no man circumvent his brother in business, because God is the avenger of these things" (1 Tim. 4: 6).
+4. Pay a living wage; that is, enough to support the employees and their families in decency, and enable them to educate their children properly. "Let no man circumvent his brother in business, because God is the avenger of these things" (1 Tim. 4:6).
 
-> This is a right, dictated by natural justice. If the employee is forced to accept harder conditions, because the employer will give no better, injustice is committed. It is a grievous sin not to pay a just wage to employees. It is theft and a sort of murder to keep back the wages of a poor labourer. "Thou shalt not refuse the hire of the needy and the poor, but thou shalt pay him the hire of his labour ... lest he cry against thee to the Lord" (Deut. 24: 14).
+> This is a right, dictated by natural justice. If the employee is forced to accept harder conditions, because the employer will give no better, injustice is committed. It is a grievous sin not to pay a just wage to employees. It is theft and a sort of murder to keep back the wages of a poor labourer. "Thou shalt not refuse the hire of the needy and the poor, but thou shalt pay him the hire of his labour ... lest he cry against thee to the Lord" (Deut. 24:14).
 
 5. Improve as much as possible the conditions of the working classes. This is the only way we can avert disorder and remove discontent from the labourers, an increasing number of whom today live in dire poverty while their employers enjoy abundance and luxury.
 
@@ -38,7 +38,7 @@
 
 2. Render obedience to his employers, carrying out his part of all agreements and contracts, and serving faithfully and honestly.
 
-> It is a consolation for the humbly situated to know that in the next life there will be an absolutely just distribution of awards, according to what each deserves. The more patient we are on earth, the more resigned to our lot, the more God will reward us in heaven. "For those who love God, all things work together unto good" (Rom. 8: 28).
+> It is a consolation for the humbly situated to know that in the next life there will be an absolutely just distribution of awards, according to what each deserves. The more patient we are on earth, the more resigned to our lot, the more God will reward us in heaven. "For those who love God, all things work together unto good" (Rom. 8:28).
 
 3. Reverence and respect the person and property of his employers. He should not be idle; he should not waste or pilfer his employers' goods, nor injure them by negligence.
 
@@ -67,4 +67,4 @@ The general aim is to set a certain number of hours as the maximum for work, and
 
 4. Trade unions must take care that they do not develop into Communist organizations. These would be for purely material ends, involving a class war for the dictatorship of the proletariat.
 
-> To prevent the spread of Communism, the increasing hardships of the working classes must be ameliorated; the rich must be thoughtful of the poor, and religion must reign in all hearts. It could not be the will of God that a small minority should enjoy an excess of this world's goods, while the rest of His children live in destitution. Employers, and especially Catholic ones, must practice Christian justice in their relations with those in their employ. As St. Paul says, the rich ought "to do good, be rich in good works, give readily, sharing with others" (1 Tim. 6: 18).
+> To prevent the spread of Communism, the increasing hardships of the working classes must be ameliorated; the rich must be thoughtful of the poor, and religion must reign in all hearts. It could not be the will of God that a small minority should enjoy an excess of this world's goods, while the rest of His children live in destitution. Employers, and especially Catholic ones, must practice Christian justice in their relations with those in their employ. As St. Paul says, the rich ought "to do good, be rich in good works, give readily, sharing with others" (1 Tim. 6:18).

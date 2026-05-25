@@ -19,7 +19,7 @@
 
 2. A lei civil não reconhece como dias santos alguns dos dias santos de obrigação da Igreja; fábricas, escritórios e escolas ficam abertos naqueles dias. Mas mesmo se católicos devem ir trabalhar em tais dias santos, devem ao menos tentar ouvir Missa. Numerosas igrejas celebram Missa numa hora cedo da manhã, como também à noite.
 
-> Pessoas não obrigadas a trabalhar nos dias santos de obrigação devem evitar fazê-lo. Mas aqueles que devem trabalhar precisam lembrar apenas as palavras de Nosso Senhor: "O Sábado foi feito para o homem, e não o homem para o Sábado. Portanto o Filho do Homem é Senhor mesmo do Sábado" (Mar. 3: 4-5).
+> Pessoas não obrigadas a trabalhar nos dias santos de obrigação devem evitar fazê-lo. Mas aqueles que devem trabalhar precisam lembrar apenas as palavras de Nosso Senhor: "O Sábado foi feito para o homem, e não o homem para o Sábado. Portanto o Filho do Homem é Senhor mesmo do Sábado" (Mar. 3:4-5).
 
 
 **Quais são os dias santos de obrigação na Igreja Universal?**
@@ -28,7 +28,7 @@
 
 1. Natal
 
-> (25 de Dezembro) Neste dia comemoramos o nascimento de Jesus Cristo no estábulo em Belém. "E aconteceu que enquanto estavam lá, completaram-se os dias de ela dar à luz. E deu à luz seu Filho primogênito, e envolveu-O em panos, e deitou-O numa manjedoura, porque não havia lugar para eles na estalagem" (Luc. 2: 6-7).
+> (25 de Dezembro) Neste dia comemoramos o nascimento de Jesus Cristo no estábulo em Belém. "E aconteceu que enquanto estavam lá, completaram-se os dias de ela dar à luz. E deu à luz seu Filho primogênito, e envolveu-O em panos, e deitou-O numa manjedoura, porque não havia lugar para eles na estalagem" (Luc. 2:6-7).
 
 2. A Epifania
 
@@ -36,7 +36,7 @@
 
 3. Quinta-feira da Ascensão
 
-> (40 dias após a Páscoa) Quarenta dias após Sua Ressurreição dos mortos, Nosso Senhor ascendeu ao céu do Monte das Oliveiras. "E levou-os para fora até Betânia, e levantou as mãos e os abençoou. E aconteceu que enquanto os abençoava, separou-Se deles e foi levado ao céu" (Luc. 24: 50-51). E quando disse isto, foi elevado diante de seus olhos, e uma nuvem O tomou fora de sua vista. E enquanto estavam fitando o céu enquanto Ele ia, eis que dois homens pararam junto deles em vestes brancas, e disseram-lhes, "Homens da Galileia, este Jesus que foi tomado de vós para o céu, virá da mesma maneira como O vistes indo para o céu" (Atos 1: 9-11).
+> (40 dias após a Páscoa) Quarenta dias após Sua Ressurreição dos mortos, Nosso Senhor ascendeu ao céu do Monte das Oliveiras. "E levou-os para fora até Betânia, e levantou as mãos e os abençoou. E aconteceu que enquanto os abençoava, separou-Se deles e foi levado ao céu" (Luc. 24:50-51). E quando disse isto, foi elevado diante de seus olhos, e uma nuvem O tomou fora de sua vista. E enquanto estavam fitando o céu enquanto Ele ia, eis que dois homens pararam junto deles em vestes brancas, e disseram-lhes, "Homens da Galileia, este Jesus que foi tomado de vós para o céu, virá da mesma maneira como O vistes indo para o céu" (Atos 1:9-11).
 
 4. Corpus Christi
 
@@ -56,7 +56,7 @@
 
 8. A Imaculada Conceição
 
-> (8 de Dezembro). Deus Mesmo proclamou a pureza imaculada de Maria no Paraíso (Gên. 3: 15): o arcanjo Gabriel anunciou-a, chamando-a "cheia de graça." Cristãos através dos séculos chamaram Maria imaculada; o dogma foi declarado pelo Papa em 1854. É um artigo de fé crer que Maria foi concebida inteiramente livre do pecado original.
+> (8 de Dezembro). Deus Mesmo proclamou a pureza imaculada de Maria no Paraíso (Gên. 3:15): o arcanjo Gabriel anunciou-a, chamando-a "cheia de graça." Cristãos através dos séculos chamaram Maria imaculada; o dogma foi declarado pelo Papa em 1854. É um artigo de fé crer que Maria foi concebida inteiramente livre do pecado original.
 
 9. São José
 

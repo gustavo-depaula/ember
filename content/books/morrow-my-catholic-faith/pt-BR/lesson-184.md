@@ -2,9 +2,9 @@
 
 ![](../images/lesson-184.webp)
 
-*1. "O anjo Gabriel foi enviado por Deus a uma cidade da Galiléia chamada Nazaré a uma virgem desposada com um homem chamado José da casa de David e o nome da virgem era Maria. E ele disse: Ave cheia de graça o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1: 27-28).*
+*1. "O anjo Gabriel foi enviado por Deus a uma cidade da Galiléia chamada Nazaré a uma virgem desposada com um homem chamado José da casa de David e o nome da virgem era Maria. E ele disse: Ave cheia de graça o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1:27-28).*
 
-*2. Maria foi visitar sua prima Isabel: "E Isabel foi cheia do Espírito Santo e clamou em alta voz dizendo: Bendita és tu entre as mulheres e bendito é o fruto de teu ventre" (Lucas 1: 41-42). Quando oramos a "Ave-Maria" estes dois belos eventos vêm à mente.*
+*2. Maria foi visitar sua prima Isabel: "E Isabel foi cheia do Espírito Santo e clamou em alta voz dizendo: Bendita és tu entre as mulheres e bendito é o fruto de teu ventre" (Lucas 1:41-42). Quando oramos a "Ave-Maria" estes dois belos eventos vêm à mente.*
 
 
 **Quais são as principais orações à Santíssima Virgem?**
@@ -18,15 +18,15 @@
 
 1. A primeira parte da Ave-Maria é uma oração de louvor. É composta de (a) as palavras do Arcanjo Gabriel a Maria; e (b) as palavras de Santa Isabel a Maria. Porque a oração começa com as palavras do Anjo a "Ave-Maria" é em Inglês denominada Angelical Saudação. É chamada *Ave Maria* em Latim.
 
-> O anjo Gabriel disse: "Ave cheia de graça o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1: 28). As palavras de Santa Isabel são "Bendita és tu entre as mulheres e bendito é o fruto de teu ventre" (Lucas 1: 42).
+> O anjo Gabriel disse: "Ave cheia de graça o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1:28). As palavras de Santa Isabel são "Bendita és tu entre as mulheres e bendito é o fruto de teu ventre" (Lucas 1:42).
 
 2. As primeiras duas palavras "Ave Maria" significam: Saúdo-te. Por isto testificamos nossa reverência por nossa Santíssima Mãe e congratulamo-la por seus privilégios.
 
-> "Ele atentou para a formosura de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada" (Lucas 1: 48).
+> "Ele atentou para a formosura de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada" (Lucas 1:48).
 
 3. "Cheia de graça" significa que Maria é a mais santa e exaltada de todas as criaturas possuída de todas as graças e dons de Deus.
 
-> Ela é a única de todos os mortais que foi concebida livre de toda mancha de pecado original. É por isto que falamos da Imaculada Conceição de Maria. "Tu és toda formosa e não há mancha em ti" (Cânt. 4: 7).
+> Ela é a única de todos os mortais que foi concebida livre de toda mancha de pecado original. É por isto que falamos da Imaculada Conceição de Maria. "Tu és toda formosa e não há mancha em ti" (Cânt. 4:7).
 
 4. "O Senhor está contigo" significa que embora todas as boas pessoas estejam unidas com Deus Maria de um especial modo está mais estreitamente unida a Ele em amor e poder.
 
@@ -38,7 +38,7 @@
 
 6. "E bendito é o fruto de teu ventre Jesus" significa que Maria é abençoada por causa de Seu Filho. Toda sua glória e poder vêm d'Ele Deus que se tornou Seu Filho.
 
-> Maria é como uma árvore que dá bom fruto; pode algum fruto ser melhor que o Filho de Deus? Tão tocada estava uma mulher pela santidade daquele Filho que ergueu sua voz em louvor: "Bendito é o ventre que te trouxe e os seios que te amamentaram" (Lucas 11: 27).
+> Maria é como uma árvore que dá bom fruto; pode algum fruto ser melhor que o Filho de Deus? Tão tocada estava uma mulher pela santidade daquele Filho que ergueu sua voz em louvor: "Bendito é o ventre que te trouxe e os seios que te amamentaram" (Lucas 11:27).
 
 
 **Qual é a segunda parte da Ave-Maria?**

@@ -9,7 +9,7 @@
 
 — Besides believing what God has revealed, we must keep His law.
 
-> "But if thou wilt enter into life, keep the commandments" (Matt. 19: 17).
+> "But if thou wilt enter into life, keep the commandments" (Matt. 19:17).
 
 1. The law of God is contained in both natural and revealed law. Natural law is imprinted by God in the hearts and minds of all men. It teaches the most important rules of morality: homage due to God, treatment of others as we expect others to treat us, the evil of wilful injury to oneself, the virtue of truth and honesty. Thus natural law is a definite expression of God's will, requiring obedience.
 

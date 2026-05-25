@@ -11,7 +11,7 @@
 
 1. Após passar longos anos na obscuridade e trabalho humilde, Jesus Cristo então entrou num período de atividade, indo por toda parte e ensinando publicamente. Deixou Seu lar em Nazaré, e começou Sua vida pública por um ato de grande humildade: Seu batismo nas mãos de São João Batista no rio Jordão.
 
-> A mãe de São João Batista era Santa Isabel, prima da Santíssima Virgem Maria. São João viveu uma vida de penitência muito rigorosa no deserto, preparando-se para seu papel de arauto ou precursor do Salvador. Cerca de dois anos antes de Cristo começar Sua vida pública, João Batista saiu do deserto, e começou a pregar penitência; batizava no Jordão todos os que criam em seus ensinamentos e desejavam começar uma nova vida. São João Batista foi o precursor de Cristo. Falou ao povo da vinda do Messias, e apontou Jesus para eles como o "Cordeiro de Deus". Foi morto por Herodes, porque repreendeu o governante por sua vida imoral. Jesus veio a João para ser batizado; imediatamente depois, quando Nosso Senhor saiu do rio, o Espírito Santo desceu sobre Ele na forma de uma pomba, e uma voz do céu foi ouvida dizendo: "Este é Meu Filho amado, em Quem Me comprazo" (Mat. 3: 17).
+> A mãe de São João Batista era Santa Isabel, prima da Santíssima Virgem Maria. São João viveu uma vida de penitência muito rigorosa no deserto, preparando-se para seu papel de arauto ou precursor do Salvador. Cerca de dois anos antes de Cristo começar Sua vida pública, João Batista saiu do deserto, e começou a pregar penitência; batizava no Jordão todos os que criam em seus ensinamentos e desejavam começar uma nova vida. São João Batista foi o precursor de Cristo. Falou ao povo da vinda do Messias, e apontou Jesus para eles como o "Cordeiro de Deus". Foi morto por Herodes, porque repreendeu o governante por sua vida imoral. Jesus veio a João para ser batizado; imediatamente depois, quando Nosso Senhor saiu do rio, o Espírito Santo desceu sobre Ele na forma de uma pomba, e uma voz do céu foi ouvida dizendo: "Este é Meu Filho amado, em Quem Me comprazo" (Mat. 3:17).
 
 2. Após Seu batismo, Jesus foi ao deserto, onde jejuou quarenta dias e quarenta noites. Isto nos ensina a olhar o batismo como um chamado à penitência, e a preparar-nos para todo tipo de atividade pela mortificação e oração.
 
@@ -19,7 +19,7 @@
 
 3. Após o longo jejum de Nosso Senhor, foi permitido ao demônio tentá-Lo. Cristo repreendeu o demônio, e anjos vieram servi-Lo.
 
-> Desta tentação de Nosso Senhor, sabemos que uma tentação não é pecaminosa. Enquanto resistirmos ao demônio, somos agradáveis a Deus, por mais forte que seja a tentação que nos assalta. "Deus é fiel e não permitirá que sejais tentados além de vossas forças, mas com a tentação vos dará também o meio de sair, para que possais suportá-la" (1 Cor. 10: 13).
+> Desta tentação de Nosso Senhor, sabemos que uma tentação não é pecaminosa. Enquanto resistirmos ao demônio, somos agradáveis a Deus, por mais forte que seja a tentação que nos assalta. "Deus é fiel e não permitirá que sejais tentados além de vossas forças, mas com a tentação vos dará também o meio de sair, para que possais suportá-la" (1 Cor. 10:13).
 
 
 **Quanto tempo durou a vida pública de Cristo?**

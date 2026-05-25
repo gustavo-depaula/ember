@@ -2,7 +2,7 @@
 
 ![](../images/lesson-106.webp)
 
-*The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4: 8-9) Murderers do not act as brothers of the murdered.*
+*The first murder on earth was committed by Cain when he killed Abel. "And Cain said to Abel his brother: Let us go forth abroad. And when they were in the field, Cain rose up against his brother Abel, and killed him. And the Lord said to Cain: Where is thy brother Abel? And he answered: I know not. Am I my brother's keeper?" (Gen. 4:8-9) Murderers do not act as brothers of the murdered.*
 
 "THOU SHALL NOT KILL."
 
@@ -18,7 +18,7 @@
 
 1. Murder is a great sin. A murderer violates the rights of God over human life, and, besides taking a life, robs his victim of the opportunity to gain merits for heaven, and prepare himself for death.
 
-> God created man, and has supreme dominion over life. "You know that no murderer has eternal life abiding in him" (1 John 3: 15).
+> God created man, and has supreme dominion over life. "You know that no murderer has eternal life abiding in him" (1 John 3:15).
 
 2. The direct intention to kill an innocent person is always forbidden, as against this commandment, whether it be by public or private authority. And the human body may not be mutilated unless that were the only way to preserve the health or save a life. Also, since violation of the body is forbidden except to save life or health, anyone performing sterilization commits grave sin.
 
@@ -54,9 +54,9 @@
 
 — Anger is a strong feeling of displeasure, combined with a desire to punish the offender.
 
-1. Anger is contrary to the spirit of Christ, Who is meek and humble of heart. We must take care not to hurt or wound another's feelings. If we fall into the misfortune of doing so, we must apologize or make amends in some other way. "Do not let the sun go down upon your anger" (Eph. 4: 26).
+1. Anger is contrary to the spirit of Christ, Who is meek and humble of heart. We must take care not to hurt or wound another's feelings. If we fall into the misfortune of doing so, we must apologize or make amends in some other way. "Do not let the sun go down upon your anger" (Eph. 4:26).
 
-> Anger often arises from pride or envy. Those who think much of themselves get angry at every supposed slight or injury. They should remember Christian charity, and fear these words: "Everyone who is angry with his brother shall be liable to judgement" (Matt. 5: 22).
+> Anger often arises from pride or envy. Those who think much of themselves get angry at every supposed slight or injury. They should remember Christian charity, and fear these words: "Everyone who is angry with his brother shall be liable to judgement" (Matt. 5:22).
 
 2. Unjust anger leads to fighting, hatred, quarrelling, cursing, mockery, revenge, and other grave sins, may even end in murder.
 
@@ -69,11 +69,11 @@
 
 > If we hate certain qualities of a person, but have no antagonism towards the person himself, our feeling is not necessarily sinful. It is not hatred to detest the evil qualities of others; we must hate the sin, but not the sinner. We must be careful, however, not to commit rash judgement, regarding qualities, as we cannot know all circumstances; let us have charity towards all.
 
-2. Hatred is a sin because he who hates another violates the commandment of God, "Thou shalt love thy neighbour as thyself." "Everyone who hates his brother is a murderer" (1 John 3: 15).
+2. Hatred is a sin because he who hates another violates the commandment of God, "Thou shalt love thy neighbour as thyself." "Everyone who hates his brother is a murderer" (1 John 3:15).
 
 
 **What is the sin of revenge?**
 
 — The sin of revenge is the desire to inflict immoderate and unjust punishment on someone who has injured us, from a motive of anger. When serious, revenge is vengeance, a sin against charity and justice, most sinful and unchristian. However much we are injured, we have no right to take the law into our hands.
 
-> St. Paul said, "Do not avenge yourselves, beloved, but give place to the wrath, for it is written: Vengeance is mine, I will repay, says the Lord" (Rom. 12: 19). "He that shall seek to revenge himself shall find vengeance from the Lord" (Deut. 32: 35).
+> St. Paul said, "Do not avenge yourselves, beloved, but give place to the wrath, for it is written: Vengeance is mine, I will repay, says the Lord" (Rom. 12:19). "He that shall seek to revenge himself shall find vengeance from the Lord" (Deut. 32:35).

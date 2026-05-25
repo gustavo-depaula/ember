@@ -11,7 +11,7 @@
 
 1. Our Lord gave the Apostles and their successor the power to deliver men from every obstacle that might separate them from heaven. Thus He said to St. Peter:
 
-> "Whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16: 19).
+> "Whatever thou shalt bind on earth shall be bound in heaven, and whatever thou shalt loose on earth shall be loosed in heaven" (Matt. 16:19).
 
 2. The Church can remit temporal punishments due to forgiven sins in virtue of her divine commission. If she has the power and right to forgive sins on earth, free men from hell and lead them to heaven, she must also have the power of loosing every bond or obstacle that constricts the soul and prevent it from entering heaven.
 
@@ -28,7 +28,7 @@
 
 1. In the Church, there is a spiritual treasury made up of the superabundant merits of our Lord, the Blessed Mother, and the Saints. The merits of the passion and death of Our Lord are infinite, for He is God. All these He left to His Church.
 
-> The superabundant satisfaction of the Blessed Virgin Mary and of the Saints which are united with those of Christ, “I make up in my flesh what is lacking to the sufferings of Christ, on behalf of His body, the Church," (Coloss. 1: 24) is that which they gained during their lifetime, but did not need, and which the Church applies to their fellow-members of the Communion of Saints. (see page 148).
+> The superabundant satisfaction of the Blessed Virgin Mary and of the Saints which are united with those of Christ, “I make up in my flesh what is lacking to the sufferings of Christ, on behalf of His body, the Church," (Coloss. 1:24) is that which they gained during their lifetime, but did not need, and which the Church applies to their fellow-members of the Communion of Saints. (see page 148).
 
 2. When the Church grants an indulgence, it does not really cancel any expiation due to God. It only supplies for our deficiencies by drawing on the spiritual treasury of the Church.
 
@@ -45,7 +45,7 @@
 
 1. The Apostles granted indulgences.
 
-> St. Paul writes of a Corinthian who had shown such signs of true repentance that his penance had been remitted. "Whom you pardon anything, I also pardon. Indeed, what I have forgiven — if I have forgiven anything I have done for your sakes, in the person of Christ" (Cor. 2: 10).
+> St. Paul writes of a Corinthian who had shown such signs of true repentance that his penance had been remitted. "Whom you pardon anything, I also pardon. Indeed, what I have forgiven — if I have forgiven anything I have done for your sakes, in the person of Christ" (Cor. 2:10).
 
 2. During the time of the great persecutions, the confessors and martyrs remained constant and were cast into prison, and many were put to death. Others denied their faith to escape persecution; on these, the Church imposed severe penances.
 

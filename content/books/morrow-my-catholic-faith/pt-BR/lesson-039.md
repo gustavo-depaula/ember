@@ -11,7 +11,7 @@
 
 1. Graça é um favor, um dom gratuito, concedido a nós embora não tenhamos direito a ele. Deus nos concede graças porque é bom, não porque as mereçamos. Deus nos concede graças por amor de Seu Filho, Que morreu na cruz para ganhar para nós estas graças; nós homens nunca podemos merecer estas graças.
 
-> "Todos pecaram e carecem da glória de Deus. São justificados gratuitamente por Sua graça através da redenção que há em Cristo" (Rom. 3: 23-24).
+> "Todos pecaram e carecem da glória de Deus. São justificados gratuitamente por Sua graça através da redenção que há em Cristo" (Rom. 3:23-24).
 
 2. O Espírito Santo dispensa as graças de Deus merecidas por Nosso Senhor Jesus Cristo; Ele concede e aperfeiçoa o que já está ganho, e age como canal da graça.
 
@@ -25,7 +25,7 @@
 
 4. A assistência do Espírito Santo é necessária. Sem a ajuda das graças que Ele dispensa, com meras forças naturais, não podemos fazer a menor obra para merecer a salvação. Sem Deus, nada somos.
 
-> Para alcançar o céu, precisamos da graça de Deus; por isso dizemos com o Apóstolo: "Não que sejamos suficientes de nós mesmos para pensar algo, como de nós mesmos, mas nossa suficiência vem de Deus" (2 Cor. 3: 5); "Pela graça de Deus sou o que sou. . . . Trabalhei mais do que todos eles, contudo não eu, mas a graça de Deus comigo" (1 Cor. 15: 10).
+> Para alcançar o céu, precisamos da graça de Deus; por isso dizemos com o Apóstolo: "Não que sejamos suficientes de nós mesmos para pensar algo, como de nós mesmos, mas nossa suficiência vem de Deus" (2 Cor. 3:5); "Pela graça de Deus sou o que sou. . . . Trabalhei mais do que todos eles, contudo não eu, mas a graça de Deus comigo" (1 Cor. 15:10).
 
 5. Há dois tipos de graça: graça santificante e graça atual.
 
@@ -49,24 +49,24 @@
 
 > Contudo, embora livres do pecado mortal, não nos tornamos, com a graça santificante, livres das consequências do pecado. Assim até os santos sentem a inclinação humana ao pecado, contra a qual a luta é vitalícia, e da qual devemos ganhar mérito. Esta fraqueza humana está inserida em nossa carne, e presente em nossas almas como resultado do pecado original. A graça santificante, contudo, embora não nos cure da fraqueza da carne, fortalece nossa vontade, de modo que para nós a guerra contra o pecado se torna mais fácil. A caridade que acompanha a graça santificante nos torna mais propensos às boas obras, mais atraídos a Deus, com mentes iluminadas quanto à loucura do pecado.
 
-Segundo, torna-nos filhos adotivos de Deus. Com a graça santificante, o Espírito Santo entra em nossa alma; somos guiados por Seu Espírito, e portanto somos Seus filhos: "Pois todos os que são guiados pelo Espírito de Deus, esses são filhos de Deus" (Rom. 8: 14).
+Segundo, torna-nos filhos adotivos de Deus. Com a graça santificante, o Espírito Santo entra em nossa alma; somos guiados por Seu Espírito, e portanto somos Seus filhos: "Pois todos os que são guiados pelo Espírito de Deus, esses são filhos de Deus" (Rom. 8:14).
 
-> "Ora, não recebestes um espírito de escravidão para cairdes novamente no temor, mas recebestes um espírito de adoção de filhos, em virtude do qual clamamos: Aba! Pai! O Próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus" (Rom. 8: 15-16).
+> "Ora, não recebestes um espírito de escravidão para cairdes novamente no temor, mas recebestes um espírito de adoção de filhos, em virtude do qual clamamos: Aba! Pai! O Próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus" (Rom. 8:15-16).
 
-Terceiro, torna-nos templos do Espírito Santo. A graça santificante traz o Espírito Santo para habitar em nós como num templo. São Paulo diz: "Pois sois templo do Deus vivo" (2 Cor. 6: 16).
+Terceiro, torna-nos templos do Espírito Santo. A graça santificante traz o Espírito Santo para habitar em nós como num templo. São Paulo diz: "Pois sois templo do Deus vivo" (2 Cor. 6:16).
 
-> "Não sabeis que sois templo de Deus, e que o Espírito de Deus habita em vós? Se alguém destruir o templo de Deus, a esse Deus destruirá; pois santo é o templo de Deus e este templo sois vós" (1 Cor. 3: 16-17).
+> "Não sabeis que sois templo de Deus, e que o Espírito de Deus habita em vós? Se alguém destruir o templo de Deus, a esse Deus destruirá; pois santo é o templo de Deus e este templo sois vós" (1 Cor. 3:16-17).
 
 Quarto, dá-nos o direito ao céu. Quando estamos em graça santificante, somos inspirados a fazer boas obras. O Espírito Santo não dorme em nós, mas expande nosso coração com Sua graça, e impulsiona nossa vontade a fazer o bem. E como somos filhos adotivos de Deus, tais ações tornam-se meritórias para o céu.
 
-> Se somos filhos de Deus, somos ao mesmo tempo herdeiros, e portanto temos direito ao Seu Reino. "Somos filhos de Deus. Mas se somos filhos, somos também herdeiros; herdeiros de fato de Deus, e co-herdeiros com Cristo" (Rom. 8: 16-17).
+> Se somos filhos de Deus, somos ao mesmo tempo herdeiros, e portanto temos direito ao Seu Reino. "Somos filhos de Deus. Mas se somos filhos, somos também herdeiros; herdeiros de fato de Deus, e co-herdeiros com Cristo" (Rom. 8:16-17).
 
 
 **Por que a graça santificante é necessária para a salvação?**
 
 — A graça santificante é necessária para a salvação porque é a vida sobrenatural, que sozinha nos capacita a atingir a felicidade sobrenatural do céu.
 
-> A presença de Deus na alma dá-lhe vida. Quando o Espírito Santo está habitando na alma, ela é capacitada a conhecer e amar a Deus, a fazer obras sobrenaturais. Falando do "dom de Deus", Nosso Senhor disse que "se tornará nele uma fonte de água, jorrando para a vida eterna" (João 4: 14). Sem a graça santificante, a alma está sem Deus; e sem Deus, a alma torna-se do diabo.
+> A presença de Deus na alma dá-lhe vida. Quando o Espírito Santo está habitando na alma, ela é capacitada a conhecer e amar a Deus, a fazer obras sobrenaturais. Falando do "dom de Deus", Nosso Senhor disse que "se tornará nele uma fonte de água, jorrando para a vida eterna" (João 4:14). Sem a graça santificante, a alma está sem Deus; e sem Deus, a alma torna-se do diabo.
 
 Ninguém pode ganhar qualquer mérito para o céu enquanto não estiver em graça santificante, o que se chama "em estado de graça". Pois sem a graça santificante, alguém é inimigo de Deus, e não pode entrar em Seu Reino.
 

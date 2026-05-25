@@ -9,19 +9,19 @@
 
 — Quando dizemos que Deus é o Criador do céu e da terra, queremos dizer que Ele fez todas as coisas do nada por Seu todo-poderoso poder.
 
-> "Todas as coisas foram feitas por Ele, e sem Ele nada foi feito" (João 1: 3). "Pois n'Ele foram criadas todas as coisas" (Col. 1: 16).
+> "Todas as coisas foram feitas por Ele, e sem Ele nada foi feito" (João 1:3). "Pois n'Ele foram criadas todas as coisas" (Col. 1:16).
 
 1. No princípio só Deus vivia. Então do nada, por Seu todo-poderoso poder, Ele criou o céu e a terra, e todas as coisas no céu e na terra. Só Deus pode criar; isto é, só Ele pode fazer algo do nada. O tempo começou com esta criação. Antes dela havia apenas a eternidade.
 
-> "Antes que os montes fossem feitos, ou a terra e o mundo fossem formados, desde a eternidade Tu és Deus" (Sl. 89: 2).
+> "Antes que os montes fossem feitos, ou a terra e o mundo fossem formados, desde a eternidade Tu és Deus" (Sl. 89:2).
 
 2. Deus criou o céu e a terra, e tudo no céu e na terra. Com isto se entende tudo o que não é Deus. "Céu" refere-se aos anjos e sua morada; e "terra" a todo o universo material, incluindo a terra, estrelas, planetas, e todas as coisas e seres neles.
 
-> Deus criou tudo por um ato de Sua vontade. "Ele falou e foram feitos; Ele ordenou e foram criados" (Sl. 32: 9).
+> Deus criou tudo por um ato de Sua vontade. "Ele falou e foram feitos; Ele ordenou e foram criados" (Sl. 32:9).
 
 3. Em seu primeiro livro, Gênesis, a Sagrada Escritura conta a história da Criação. No princípio toda a terra era vazia e vazia e as trevas estavam sobre todas as coisas; isto é, Deus criou as coisas num estado informe. Então desta informidade Deus trouxe ordem e lei, criando o céu e a terra.
 
-> "No princípio, Deus criou o céu e a terra. E a terra era vazia e vazia, e as trevas estavam sobre a face do abismo; e o espírito de Deus pairava sobre as águas" (Gên. 1: 1-2).
+> "No princípio, Deus criou o céu e a terra. E a terra era vazia e vazia, e as trevas estavam sobre a face do abismo; e o espírito de Deus pairava sobre as águas" (Gên. 1:1-2).
 
 
 **Em quantos dias Deus criou o mundo?**

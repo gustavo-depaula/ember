@@ -17,7 +17,7 @@
 
 2. Jesus Cristo é Nosso Senhor, o Filho de Deus a Segunda Pessoa da Santíssima Trindade, verdadeiro Deus e verdadeiro Homem. Chamamo-Lo "Nosso Senhor" porque como Deus é Senhor e Mestre de todos, e como nosso Salvador nos redimiu com Seu Sangue.
 
-> Cristo é nosso Criador, Redentor, Legislador, Mestre e Juiz. Tudo isto queremos dizer quando dizemos Nosso Senhor. São Paulo diz: "Ele é o Bendito e único Soberano, o Rei dos reis e Senhor dos senhores... a Quem seja honra e domínio eterno. Amém" (1 Tim. 6: 15-16).
+> Cristo é nosso Criador, Redentor, Legislador, Mestre e Juiz. Tudo isto queremos dizer quando dizemos Nosso Senhor. São Paulo diz: "Ele é o Bendito e único Soberano, o Rei dos reis e Senhor dos senhores... a Quem seja honra e domínio eterno. Amém" (1 Tim. 6:15-16).
 
 3. Há apenas uma Pessoa, a Pessoa Divina, em Jesus Cristo. Jesus Cristo não é uma pessoa humana. Tudo n'Ele mesmo como Homem é divino e digno de adoração.
 
@@ -34,7 +34,7 @@
 
 2. Por causa de Sua natureza divina, Cristo é verdadeiramente Deus; por causa de Sua natureza humana, é verdadeiramente homem. Em Sua natureza divina Ele é a Segunda Pessoa da Santíssima Trindade, Deus o Filho, o Verbo Eterno. Tomou Sua natureza humana de Sua Mãe.
 
-> Foi à Santíssima Virgem que o Arcanjo Gabriel anunciou: "E eis que conceberás em teu ventre e darás à luz um filho; e chamarás Seu nome Jesus. Ele será grande e será chamado o Filho do Altíssimo" (Luc. 1: 32).
+> Foi à Santíssima Virgem que o Arcanjo Gabriel anunciou: "E eis que conceberás em teu ventre e darás à luz um filho; e chamarás Seu nome Jesus. Ele será grande e será chamado o Filho do Altíssimo" (Luc. 1:32).
 
 Portanto Jesus Cristo é tanto Deus quanto homem; tem tanto poderes divinos quanto humanos; tem conhecimento, pode querer e agir como Deus e como homem. Por exemplo, com Sua natureza humana Jesus trabalhou, comeu, falou, sentiu dor. Mas foi Sua natureza divina que Lhe permitiu tornar-Se transfigurado, andar sobre as águas, ressuscitar os mortos.
 
@@ -53,11 +53,11 @@ Portanto Jesus Cristo é tanto Deus quanto homem; tem tanto poderes divinos quan
 
 1. Nosso Senhor é chamado Jesus porque veio salvar os homens do pecado, e abrir-lhes as portas do céu.
 
-> Antes do nascimento de Nosso Senhor, um anjo apareceu a São José e disse: "Chamarás Seu nome Jesus" (Mat. 1: 21). Na Anunciação o anjo Gabriel havia falado as mesmas palavras a Maria. "E quando se completaram os oito dias para circuncidar o menino, Seu nome foi chamado Jesus" (Luc. 2: 21).
+> Antes do nascimento de Nosso Senhor, um anjo apareceu a São José e disse: "Chamarás Seu nome Jesus" (Mat. 1:21). Na Anunciação o anjo Gabriel havia falado as mesmas palavras a Maria. "E quando se completaram os oito dias para circuncidar o menino, Seu nome foi chamado Jesus" (Luc. 2:21).
 
 2. Devemos dizer o nome de Nosso Senhor com grande reverência. Devemos inclinar nossa cabeça cada vez que o pronunciamos.
 
-> "No nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2: 10). O símbolo IHS é composto das três primeiras letras do nome Jesus em grego.
+> "No nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2:10). O símbolo IHS é composto das três primeiras letras do nome Jesus em grego.
 
 
 **O que significa o nome Cristo?**

@@ -11,11 +11,11 @@
 
 — Pelo sexto mandamento, nos é ordenado ser puros e modestos em nosso comportamento; pelo nono, em pensamento e desejo.
 
-> "Não sabeis que vossos membros são templo do Espírito Santo, que está em vós? Glorificai a Deus, e levai-O em vosso corpo" (1 Cor. 6: 19-20). "Amados, exorto-vos como estrangeiros e peregrinos a abster-vos dos desejos carnais que militam contra a alma" (1 Ped. 2: 11).
+> "Não sabeis que vossos membros são templo do Espírito Santo, que está em vós? Glorificai a Deus, e levai-O em vosso corpo" (1 Cor. 6:19-20). "Amados, exorto-vos como estrangeiros e peregrinos a abster-vos dos desejos carnais que militam contra a alma" (1 Ped. 2:11).
 
 1. O sexto e nono mandamentos são estudados juntos porque ambos tratam de mandamentos sobre pureza. O sexto mandamento refere-se a atos externos, e o nono a pensamentos e desejos voluntários.
 
-> "Quão bela é a geração casta com glória! Pois a memória dela é imortal, porque é conhecida tanto por Deus como pelos homens" (Sab. 4: 1-2). "O corpo não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo" (1 Cor. 6: 13).
+> "Quão bela é a geração casta com glória! Pois a memória dela é imortal, porque é conhecida tanto por Deus como pelos homens" (Sab. 4:1-2). "O corpo não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo" (1 Cor. 6:13).
 
 2. Deus sempre mostrou amor especial por aqueles cuja castidade é extraordinária. Considerai como Ele escolheu aquela mais pura de todos os mortais, a Bem-Aventurada Virgem, como Sua Mãe.
 
@@ -30,7 +30,7 @@
 
 1. Este mandamento proíbe adultério, que é a infidelidade de uma pessoa casada. É um dever diante de Deus e dos homens para pessoas casadas serem fiéis uma à outra. Adultério é um grande mal que rompe a harmonia da família, e traz punições nesta vida e na próxima.
 
-> Adultério é um pecado não apenas contra a castidade, mas também contra a justiça; porque é injustiça para com o cônjuge da pessoa casada. Na Lei Antiga, o adúltero era punido com morte. "Pois Deus julgará os imorais e adúlteros" (Heb. 13: 4). Pessoas casadas devem ter o maior cuidado em evitar até a aparência de infidelidade; quando o espírito de ciúme entra, a felicidade conjugal sai.
+> Adultério é um pecado não apenas contra a castidade, mas também contra a justiça; porque é injustiça para com o cônjuge da pessoa casada. Na Lei Antiga, o adúltero era punido com morte. "Pois Deus julgará os imorais e adúlteros" (Heb. 13:4). Pessoas casadas devem ter o maior cuidado em evitar até a aparência de infidelidade; quando o espírito de ciúme entra, a felicidade conjugal sai.
 
 2. Matrimônio é um estado santo, através do qual o Deus Todo-Poderoso intenta a propagação da raça. Ações de acordo com este propósito do matrimônio são permitidas aos casados, mas positivamente proibidas aos solteiros. Fornicação é em todo tempo um pecado grave.
 

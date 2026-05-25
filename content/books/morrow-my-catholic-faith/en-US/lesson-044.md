@@ -9,11 +9,11 @@
 
 — Humility is that moral virtue which disposes us to appreciate and acknowledge our true position with respect to God and our fellow men.
 
-> Jesus Christ often praised and recommended humility. "Unless you turn, and become like little children, you will not enter into the kingdom of heaven" (Matt. 18: 3). He always answered the prayers of the humble, as of the centurion (Matt. 8: 11). "If any man wishes to be first, he shall be last of all, and servant of all" (Mark 9: 34)
+> Jesus Christ often praised and recommended humility. "Unless you turn, and become like little children, you will not enter into the kingdom of heaven" (Matt. 18:3). He always answered the prayers of the humble, as of the centurion (Matt. 8:11). "If any man wishes to be first, he shall be last of all, and servant of all" (Mark 9:34)
 
 1. The humble man acknowledges God as the source of all the excellent things he may possess. He recognizes his limitations, his own nothingness, and the uselessness of all earthly things without God.
 
-> Compared to God, what are we? All things pass away; only God is eternal. These simple truths will help us keep humble; without God we are nothing. Let us practice the behest of Our Lord. "Learn from me, for I am meek and humble of heart" (Matt. 11: 29).
+> Compared to God, what are we? All things pass away; only God is eternal. These simple truths will help us keep humble; without God we are nothing. Let us practice the behest of Our Lord. "Learn from me, for I am meek and humble of heart" (Matt. 11:29).
 
 2. The humble man knows that earthly things are of value only if they lead us to God. His detachment from all things worldly frees him from all human fear.
 
@@ -21,11 +21,11 @@
 
 3. The humble man has his best, model in the Son of God Himself, Jesus Christ, Who humbled Himself out of love for men.
 
-> "Learn from me, for I am meek and humble of heart" (Matt. 11: 29). The Son of God humbled Himself when He came down to earth as man. He came as a poor man, in the eyes of the world the son of a carpenter. His companions were simple fishermen. He associated with the humble, with sinners even. At the Last Supper, He washed the feet of His apostles. He was put to death on the cross, the manner of death then most despised.
+> "Learn from me, for I am meek and humble of heart" (Matt. 11:29). The Son of God humbled Himself when He came down to earth as man. He came as a poor man, in the eyes of the world the son of a carpenter. His companions were simple fishermen. He associated with the humble, with sinners even. At the Last Supper, He washed the feet of His apostles. He was put to death on the cross, the manner of death then most despised.
 
-4. Our Lord continually urged us to humility; as when He said, "He who is greatest among you shall be your servant" (Matt. 23: 11).
+4. Our Lord continually urged us to humility; as when He said, "He who is greatest among you shall be your servant" (Matt. 23:11).
 
-> In the parable of the Pharisee and the Publican Christ exalted humility; as also He did when, taking a little child, He said, "Whoever, therefore, humbles himself as this little child, he is the greatest in the kingdom of heaven" (Matt. 18: 4). And again He said, after preaching to His disciples, "When you have done everything that was commanded you, say: We are unprofitable servants'" (Luke 17: 10)
+> In the parable of the Pharisee and the Publican Christ exalted humility; as also He did when, taking a little child, He said, "Whoever, therefore, humbles himself as this little child, he is the greatest in the kingdom of heaven" (Matt. 18:4). And again He said, after preaching to His disciples, "When you have done everything that was commanded you, say: We are unprofitable servants'" (Luke 17:10)
 
 5. Humility is opposed both to pride and to excessive and affected self-abjection.
 
@@ -53,7 +53,7 @@
 
 1. Chastity, opposed to lust, disposes us to preserve the mind and body from everything that is impure. Chastity is purity. It is termed the angelic virtue, because it makes men resemble the angels in heaven.
 
-> Chastity gives health to the soul and light to the understanding; it aids wisdom and develops strength of character. Judith, a weak woman, had the courage to go into the enemy camp, and returned with the head of Holofernes; of her Holy Scripture says, "Thou hast done manfully and thy heart hath been strengthened, because thou hast loved chastity" (Judith 15: 11). Thousands of martyrs died in defence of this virtue of holy chastity.
+> Chastity gives health to the soul and light to the understanding; it aids wisdom and develops strength of character. Judith, a weak woman, had the courage to go into the enemy camp, and returned with the head of Holofernes; of her Holy Scripture says, "Thou hast done manfully and thy heart hath been strengthened, because thou hast loved chastity" (Judith 15:11). Thousands of martyrs died in defence of this virtue of holy chastity.
 
 2. For the unmarried, chastity forbids indulgence of the sexual appetite; for the married, it regulates the use of that appetite in accordance with the dictates of right reason. It is wrong to suppose that chastity is not a virtue for the married. God requires chastity from everyone, in all states of life. A chaste marriage is the basis of the Christian family.
 
@@ -63,6 +63,6 @@
 
 > Jesus Christ, Our Lady, St. Joseph, and other saints surely knew the facts of sex; but such knowledge did not spoil their spotless chastity.
 
-4. Let us be careful of the company we keep, and avoid all occasions of sin to preserve virtue of chastity. Let us form the habit of temperance in all things, so as to strengthen our self-control. We should often have recourse to prayer and the sacraments, receiving these frequently. "Walk in the Spirit, and you will not fulfil the lusts of the flesh" (Gal. 5: 16). (See Chapter 25 on Pride, Covetousness, Lust)
+4. Let us be careful of the company we keep, and avoid all occasions of sin to preserve virtue of chastity. Let us form the habit of temperance in all things, so as to strengthen our self-control. We should often have recourse to prayer and the sacraments, receiving these frequently. "Walk in the Spirit, and you will not fulfil the lusts of the flesh" (Gal. 5:16). (See Chapter 25 on Pride, Covetousness, Lust)
 
 > Let us have a special devotion to the Blessed Virgin, and ask her daily to preserve us in chastity. The following prayer has in many cases been found efficacious in imploring the Blessed Virgin to preserve one's chastity: "My Queen, my Mother! I give myself entirely to thee; and to show my devotion to thee, I consecrate to thee this day my eyes, my ears, my mouth, my heart, my whole being without reserve. Wherefore, good Mother, as I am thine own, keep me, guard me as thy property and possession."

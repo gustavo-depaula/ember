@@ -21,7 +21,7 @@
 
 3. O dom do conselho nos ajuda a descobrir a vontade de Deus em circunstâncias difíceis.
 
-> Antes de receberem o Espírito Santo, os Apóstolos eram inconstantes em seus pensamentos, desejos e ações, num momento cheios de grande zelo, noutros momentos desesperados e fracos. Mas Cristo prometeu-lhes o dom do conselho, dizendo: "Não estejais ansiosos como ou com que haveis de defender-vos; ou o que haveis de dizer, pois o Espírito Santo vos ensinará" (Luc. 12: 11-12).
+> Antes de receberem o Espírito Santo, os Apóstolos eram inconstantes em seus pensamentos, desejos e ações, num momento cheios de grande zelo, noutros momentos desesperados e fracos. Mas Cristo prometeu-lhes o dom do conselho, dizendo: "Não estejais ansiosos como ou com que haveis de defender-vos; ou o que haveis de dizer, pois o Espírito Santo vos ensinará" (Luc. 12:11-12).
 
 4. Fortaleza é o dom pelo qual somos fortalecidos nas provações, para fazer a vontade de Deus.
 
@@ -50,11 +50,11 @@
 
 1. Se olharmos com olhos discernentes, podemos ver como os dons do Espírito Santo grandemente ajudaram o mundo em geral.
 
-> Como o salmista cantou: "Enviarás Teu espírito, e serão criados: e renovarás a face da terra" (Sl. 103: 30). "E a esperança não decepciona, porque a caridade de Deus é derramada em nossos corações, pelo Espírito Santo" (Rom. 5: 5).
+> Como o salmista cantou: "Enviarás Teu espírito, e serão criados: e renovarás a face da terra" (Sl. 103:30). "E a esperança não decepciona, porque a caridade de Deus é derramada em nossos corações, pelo Espírito Santo" (Rom. 5:5).
 
 2. As operações do Espírito Santo eram facilmente discerníveis entre os primeiros cristãos.
 
-> "E perseveravam constantemente na doutrina dos apóstolos e na comunhão do partir do pão e nas orações. E . . . muitos prodígios também e sinais eram feitos por meio dos apóstolos" (Atos 2: 42-43).
+> "E perseveravam constantemente na doutrina dos apóstolos e na comunhão do partir do pão e nas orações. E . . . muitos prodígios também e sinais eram feitos por meio dos apóstolos" (Atos 2:42-43).
 
 3. A diferença entre as virtudes e os dons do Espírito Santo consiste nisto: as virtudes nos capacitam a fazer o que nossa razão dirige; os dons nos fazem seguir as inspirações do Espírito Santo.
 

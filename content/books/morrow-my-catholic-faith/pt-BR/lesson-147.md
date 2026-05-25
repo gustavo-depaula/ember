@@ -9,7 +9,7 @@
 
 — Nossa contrição é perfeita quando estamos arrependidos de nossos pecados porque o pecado ofende a Deus, a Quem amamos sobre todas as coisas por Ele mesmo.
 
-> "Por isso te digo: os seus pecados, muitos como são, ser-lhe-ão perdoados, porque amou muito. Mas àquele a quem pouco é perdoado, pouco ama." E disse-lhe: 'Teus pecados te são perdoados.' E os que estavam à mesa com Ele começaram a dizer dentro de si: 'Quem é este homem, que até perdoa pecados?' Mas Ele disse à mulher: 'Tua fé te salvou; vai em paz'" (Lucas 7: 47-50).
+> "Por isso te digo: os seus pecados, muitos como são, ser-lhe-ão perdoados, porque amou muito. Mas àquele a quem pouco é perdoado, pouco ama." E disse-lhe: 'Teus pecados te são perdoados.' E os que estavam à mesa com Ele começaram a dizer dentro de si: 'Quem é este homem, que até perdoa pecados?' Mas Ele disse à mulher: 'Tua fé te salvou; vai em paz'" (Lucas 7:47-50).
 
 1. Esta contrição surge de um amor puro e perfeito de Deus. Se temos um amor perfeito de Deus, nossa contrição pelos pecados será perfeita.
 
@@ -30,7 +30,7 @@
 
 2. Um ato de perfeita contrição tira o pecado imediatamente. Nossos pecados contudo graves são perdoados antes de confessá-los, embora a obrigação de confessar assim que pudermos permaneça.
 
-> Assim, se alguém faz um ato de perfeita contrição após ter cometido um pecado mortal e então morre antes de poder ir à confissão, é salvo do inferno pelo ato que fez. Lembremo-nos do ladrão penitente: "E disse a Jesus: 'Senhor, lembra-Te de mim quando vieres ao Teu reino.' E Jesus disse-lhe: 'Em verdade te digo: hoje estarás comigo no paraíso'" (Lucas 23: 40-43).
+> Assim, se alguém faz um ato de perfeita contrição após ter cometido um pecado mortal e então morre antes de poder ir à confissão, é salvo do inferno pelo ato que fez. Lembremo-nos do ladrão penitente: "E disse a Jesus: 'Senhor, lembra-Te de mim quando vieres ao Teu reino.' E Jesus disse-lhe: 'Em verdade te digo: hoje estarás comigo no paraíso'" (Lucas 23:40-43).
 
 Contudo, não podemos receber a Santa Comunhão após cometer um pecado mortal, se apenas fazemos um ato de perfeita contrição; aquele que pecou gravemente deve ir à confissão antes de receber a Santa Comunhão.
 
