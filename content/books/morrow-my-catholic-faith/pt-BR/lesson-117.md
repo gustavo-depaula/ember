@@ -64,7 +64,7 @@
 
 — Há muitos outros mandamentos, ou leis, da Igreja além destes seis; mas estes são os principais, e os com os quais a vida ordinária dos católicos se preocupa.
 
-1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas e outras publicações. (b) Membrosia em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
+1. Um católico é obrigado a observar todos os preceitos da Igreja. Alguns deles proíbem: (a) A leitura ou posse de livros maus, revistas e outras publicações. (b) Filiação em associações Maçônicas ou outras anti-católicas. (c) Cremação dos corpos dos mortos. (d) A educação de crianças católicas em escolas não-católicas; etc.
 
 > Leis para o governo da Igreja Católica estão contidas no Código de Direito Canônico, que atualmente contém 2414 cânones. De tempo em tempo, conforme a necessidade surge, o Papa através das diferentes Congregações Romanas emite decretos, leis ou regulamentos para o bem-estar da Igreja. Católicos são obrigados a obedecer estas leis.
 

@@ -43,7 +43,7 @@
 
 1. É um erro pensar que a Igreja proíbe a contração de casamento em qualquer dia do ano. Apenas proíbe celebrações ou sinais de regozijo que não harmonizam com o espírito das estações penitenciais. Um casamento pode ocorrer sem a Missa Nupcial e bênção em qualquer dia do ano.
 
-> É proibido ter a Missa Nupcial e bênção durante os tempos fechados que são estações de penitência; isto é, do primeiro Domingo do Advento até o Dia de Natal inclusive e da Quarta-Feira de Cinzas até o Domingo de Páscoa inclusive. Isto é o que se entende pela proibição de "solemnizar" casamentos.
+> É proibido ter a Missa Nupcial e bênção durante os tempos fechados que são estações de penitência; isto é, do primeiro Domingo do Advento até o Dia de Natal inclusive e da Quarta-Feira de Cinzas até o Domingo de Páscoa inclusive. Isto é o que se entende pela proibição de "solenizar" casamentos.
 
 2. Bons católicos devem evitar marcar a data de seu casamento durante as estações fechadas de Advento e Quaresma, por um desejo de estar unido com o espírito da Igreja. É bastante descuidado ter públicas celebrações mundanas num período em que a Mãe Igreja está em traje penitencial. Além disso, se católicos realizassem o valor e beleza de uma Missa Nupcial, que não é dita durante as estações penitenciais, hesitariam em tê-la omitida para aquele memorável dia de seu casamento.
 

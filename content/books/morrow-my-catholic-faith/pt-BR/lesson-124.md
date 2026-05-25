@@ -61,7 +61,7 @@
 
 (b) Uma pessoa não batizada recebe o batismo de desejo quando ama a Deus sobre todas as coisas, e deseja fazer tudo que é necessário para sua salvação.
 
-> Aquele que ama a Deus sobre todas as coisas, está arrependido de seus pecados, e ardentemente anseia pelo Batismo quando é impossível recebê-lo; ou, aquele que não conhecendo a necessidade do Batismo, sinceramente deseja fazer tudo requerido para salvação, diz-se ter recebido batismo de desejo. Nosso Senhor prometeu que whoever O ama será amado pelo Pai (João 14: 21). Portanto apenas aqueles que atingiram o uso da razão podem lucrar do batismo de desejo.
+> Aquele que ama a Deus sobre todas as coisas, está arrependido de seus pecados, e ardentemente anseia pelo Batismo quando é impossível recebê-lo; ou, aquele que não conhecendo a necessidade do Batismo, sinceramente deseja fazer tudo requerido para salvação, diz-se ter recebido batismo de desejo. Nosso Senhor prometeu que todo aquele que O ama será amado pelo Pai (João 14: 21). Portanto apenas aqueles que atingiram o uso da razão podem lucrar do batismo de desejo.
 
 2. Crianças devem ser batizadas o mais cedo possível após o nascimento, se possível, dentro de uma semana. Esta prática data dos Apóstolos.
 

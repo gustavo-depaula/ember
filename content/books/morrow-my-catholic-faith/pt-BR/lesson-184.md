@@ -22,7 +22,7 @@
 
 2. As primeiras duas palavras "Ave Maria" significam: Saúdo-te. Por isto testificamos nossa reverência por nossa Santíssima Mãe e congratulamo-la por seus privilégios.
 
-> "Ele regardou a formosura de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada" (Lucas 1: 48).
+> "Ele atentou para a formosura de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada" (Lucas 1: 48).
 
 3. "Cheia de graça" significa que Maria é a mais santa e exaltada de todas as criaturas possuída de todas as graças e dons de Deus.
 

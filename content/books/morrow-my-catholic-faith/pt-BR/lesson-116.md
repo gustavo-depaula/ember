@@ -4,7 +4,7 @@
 
 *1. As maiores calúnias foram ditas quando falsas testemunhas testemunharam contra Jesus diante de Caifás. O sumo sacerdote deu ouvidos às calúnias e condenou Nosso Senhor à morte, embora O soubesse inocente.*
 
-*2. Pessoas que fofocam e espalham contos que detrataem da reputação de alguém têm muito que responder. "Irmãos, não faleis mal uns dos outros. Aquele que fala mal de um irmão, ou julga seu irmão, fala mal da lei e julga a lei" (Tia. 4: 11).*
+2. Pessoas que fofocam e espalham contos que detraem da reputação de alguém têm muito que responder. "Irmãos, não faleis mal uns dos outros. Aquele que fala mal de um irmão, ou julga seu irmão, fala mal da lei e julga a lei" (Tia. 4: 11).
 
 
 **O que é mentir?**
@@ -39,7 +39,7 @@
 
 2. Conversa sem caridade é comumente chamada maledicência, um ato covarde de discutir as faltas conhecidas de outrem sem necessidade, e pelas costas.
 
-> É errado ouvir detratação e conversa sem caridade, se tomamos prazer nela ou a encorajamos. Quando a conversa se volta para as faltas de outra pessoa, devemos tentar desculvá-lo ou mudar o assunto. "Ouviste uma palavra contra teu próximo? Morra contigo" (Ecli. 19: 10).
+> É errado ouvir detratação e conversa sem caridade, se tomamos prazer nela ou a encorajamos. Quando a conversa se volta para as faltas de outra pessoa, devemos tentar desculpá-lo ou mudar o assunto. "Ouviste uma palavra contra teu próximo? Morra contigo" (Ecli. 19: 10).
 
 
 **Quando uma pessoa comete o pecado de calúnia ou difamação?**
@@ -59,7 +59,7 @@
 
 > Quando há razão justa para revelar um segredo, podemos fazê-lo a pessoas em autoridade, como pais, superiores, professores, ou tribunais de lei. Faltas graves devem ser tornadas conhecidas a pais, professores e superiores, que podem ser capazes de corrigi-las. Cuidado deve ser tomado para evitar exagerar faltas.
 
-3. É errado ler as cartas de outra pessoa sem permissão. Ouvintes às escondidas são desprezíveis. Um dedetário é desprezível.
+3. É errado ler as cartas de outra pessoa sem permissão. Ouvintes às escondidas são desprezíveis. Um mexeriqueiro é desprezível.
 
 
 **Que deve fazer uma pessoa que pecou por detratação ou calúnia, ou contou um segredo que é obrigada a guardar?**

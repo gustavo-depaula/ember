@@ -66,7 +66,7 @@ Assassinato voluntário, um dos "pecados que clamam ao céu por vingança", surg
 
 **O que é preguiça?**
 
-— Preguiça é a negligência dos próprios deveres, espirituais ou temporais, através da laziness.
+— Preguiça é a negligência dos próprios deveres, espirituais ou temporais, através da indolência.
 
 1. A regra do universo é atividade; vida e movimento podem ser encontrados em toda natureza. O homem preguiçoso é a exceção; e ele por sua preguiça vai contra a natureza.
 

@@ -67,7 +67,7 @@
 
 — Obediência perfeita é a completa sujeição de própria vontade à de um superior.
 
-1. Cristo aconselhou perfeita obediência. Disse a Seus Apóstolos: "Segue-Me." Disse ao jovem rico: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres... e vem, segue-Me" (Mat. 19: 21), isto é, "Vem e sereis guiado por Mim em todas as coisas."
+1. Cristo aconselhou perfeita obediência. Disse a Seus Apóstolos: "Segue-Me." Disse ao jovem rico: "Se queres ser perfeito, vai, vende o que tens e dá aos pobres... e vem, segue-Me" (Mat. 19: 21), isto é, "Vem e serás guiado por Mim em todas as coisas."
 
 > Cristo foi perfeitamente obediente a Seu Pai celestial. Nunca buscou Sua própria vontade mas sempre a vontade do Pai Que O enviou. Foi obediente a Sua Mãe e a São José.
 

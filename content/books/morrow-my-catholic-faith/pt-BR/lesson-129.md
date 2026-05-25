@@ -62,7 +62,7 @@
 
 3. Para permanecer sempre em nossos altares como uma prova de Seu amor, e ser adorado por nós.
 
-> "Permanece conosco, Senhor, pois Contigo está a fonte da vida" (Sl. 35: 10). "Vinde a Mim, todos vós que trabalhais e estais sobrecarregados, e Eu vos darei descanso" (Mat. 11: 28). Dizemos que amamos Jesus; provamos nosso amor? Quando temos um amigo querido, estamos sempre ávidos por estar em sua presença; mostramos a Jesus a mesma terna ternura amorosa? Ou somos tão esquecidos d'Ele que vamos vê-Lo apenas uma vez por semana?
+> "Permanece conosco, Senhor, pois Contigo está a fonte da vida" (Sl. 35: 10). "Vinde a Mim, todos vós que trabalhais e estais sobrecarregados, e Eu vos darei descanso" (Mat. 11: 28). Dizemos que amamos Jesus; provamos nosso amor? Quando temos um amigo querido, estamos sempre ávidos por estar em sua presença; mostramos a Jesus a mesma ternura amorosa? Ou somos tão esquecidos d'Ele que vamos vê-Lo apenas uma vez por semana?
 
 
 **Já que a Presença Real de Cristo está na Eucaristia, que honra somos obrigados a prestar-Lhe?**

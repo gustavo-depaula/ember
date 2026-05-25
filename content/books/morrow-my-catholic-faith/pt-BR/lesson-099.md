@@ -9,7 +9,7 @@
 
 — Um juramento é invocar a Deus como testemunha da verdade do que dizemos.
 
-1. Fazer um juramento é chamado jurar. Ao jurar, invocamos either Deus ou algo sagrado. Em juramentos solenes, colocamos a mão sobre a Bíblia, ou a beijamos. Às vezes também beijamos o crucifixo.
+1. Fazer um juramento é chamado jurar. Ao jurar, invocamos ou Deus ou algo sagrado. Em juramentos solenes, colocamos a mão sobre a Bíblia, ou a beijamos. Às vezes também beijamos o crucifixo.
 
 > Se juramos por Deus, tais palavras são usadas como: "Deus é minha testemunha," "Assim Deus me ajude," "Como o Senhor vive," etc. Se juramos por coisas santas, dizemos: "Pelos santos Evangelhos," "pela cruz de Cristo," etc. Tais expressões como "Palavra de honra," "pela minha honra," não são juramentos mas apenas enfatizam afirmações.
 
@@ -47,7 +47,7 @@
 
 — Uma pessoa que deliberadamente invoca a Deus para testemunhar uma mentira comete o pecado muito grave de perjúrio.
 
-1. Perjúrio é falso juramento. Alguém comete perjúrio quando confirma por juramento o que sabe não ser verdadeiro, ou sobre o que está em dúvida, ou quando jura uma promessa que não intende cumprir.
+1. Perjúrio é falso juramento. Alguém comete perjúrio quando confirma por juramento o que sabe não ser verdadeiro, ou sobre o que está em dúvida, ou quando jura uma promessa que não tenciona cumprir.
 
 > Perjúrio é um pecado grave, porque insulta a Deus invocando-O como testemunha de uma mentira. Perjúrio perante um tribunal civil é punível com prisão.
 

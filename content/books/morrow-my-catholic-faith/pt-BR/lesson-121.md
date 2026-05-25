@@ -28,7 +28,7 @@ Aqueles que atingiram a idade da razão, geralmente no sétimo ano, são obrigad
 
 1. As graças que recebemos da confissão são dadas abundantemente se recebemos o sacramento frequentemente. Nossa alma é como uma casa passando por limpeza na confissão; quanto mais frequentemente a casa é varrida e esfregada, mais limpa está obrigada a estar.
 
-> O demônio, expulso da alma na confissão, tenta retornar novamente e novamente; mas não haverá perigo de ele arrombar se a alma está barrada e protegida pelas graças da confissão, uma forte defesa contra o mal. "Confessai, portanto, vossos pecados uns aos outros" (Tia. 5: 16).
+> O demônio, expulso da alma na confissão, tenta retornar novamente e novamente; mas não haverá perigo de ele arrombar se a alma está barrada e protegida pelas graças da confissão, uma forte defesa contra o mal. "Confessai, portanto, vossos pecados uns aos outros" (Tg. 5: 16).
 
 2. Confissão não apenas serve para limpar-nos de ofensas passadas, mas ajuda a fortalecer-nos contra o pecado, e aumenta-nos em virtude. É uma medicina potente que não apenas dá limpeza completa, mas também injeta nutrição poderosa.
 
@@ -60,7 +60,7 @@ Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali e em 
 
 — Segundo o Código de Direito Canônico de 1917 (859 §2), tempo pascal é do Domingo de Ramos ao Domingo dentro da Oitava da Páscoa ou *Dominica In Albis*.
 
-> Contudo, para o bem dos fiéis o bispo pode antecipá-lo; mas não antes do quarto Domingo da Quaresma e pode também postponê-lo; mas não além da Festa da Santíssima Trindade. Geralmente, deve-se referir ao costume geral do lugar. Pois pode acontecer, como nas Filipinas como *lex contra legem*, tempo pascal é do Domingo da Septuagésima ao Domingo antes do primeiro Domingo do Advento.
+> Contudo, para o bem dos fiéis o bispo pode antecipá-lo; mas não antes do quarto Domingo da Quaresma e pode também prorrogá-lo; mas não além da Festa da Santíssima Trindade. Geralmente, deve-se referir ao costume geral do lugar. Pois pode acontecer, como nas Filipinas como *lex contra legem*, tempo pascal é do Domingo da Septuagésima ao Domingo antes do primeiro Domingo do Advento.
 
 1. Contudo é apropriado receber a Santa Comunhão no próprio dia da Páscoa, porque foi apenas alguns dias antes da Páscoa, durante a Última Ceia, que Nosso Senhor instituiu a Santa Eucaristia.
 

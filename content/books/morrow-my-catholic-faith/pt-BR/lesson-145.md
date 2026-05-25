@@ -57,7 +57,7 @@ Para receber o sacramento da Penitência dignamente, devemos imitar o Filho Pró
 
 2. Não precisamos estar demasiado ansiosos sobre examinar-nos em pecados veniais, já que não é necessário confessá-los; mas é melhor fazê-lo, para emendar-nos e obter maiores graças.
 
-> Em nosso exame de consciência, cautela, não seja que, ao investigar pequenos pecados, cubramos os grandes. Não imitemos os Fariseus, aos quais Nosso Senhor disse, "Guias cegos, que coais o mosquito e engolis o camelo!" (Mat. 23: 24).
+> Em nosso exame de consciência, cuidemos, não seja que, ao investigar pequenos pecados, cubramos os grandes. Não imitemos os Fariseus, aos quais Nosso Senhor disse, "Guias cegos, que coais o mosquito e engolis o camelo!" (Mat. 23: 24).
 
 3. Em nosso exame, devemos recordar todas as circunstâncias que possam mudar a natureza dos pecados que desejamos confessar.
 

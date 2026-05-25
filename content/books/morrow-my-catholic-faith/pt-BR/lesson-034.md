@@ -34,11 +34,11 @@
 
 1. Nenhuma criatura poderia, por si mesma, fazer satisfação pelo pecado. O pecado ofende um Deus infinito, e portanto precisaria de satisfação infinita. Portanto Alguém Infinito, Jesus Cristo, teve que oferecer aquela satisfação.
 
-> Jesus Cristo sofreu e morreu como homem; como Deus não podia nem sofrer nem morrer. Sofreu excruciante mente para fazer plena reparação pelo pecado, e para imprimir em nós o grande mal do pecado. Mesmo apenas um pecado é tão abominável a Deus que não todos os dilúvios e fogos podem apagar a mancha. Apenas o sangue do Próprio Deus pode fazê-lo. "O Senhor lançou sobre Ele a iniquidade de todos nós" (Is. 53: 6).
+> Jesus Cristo sofreu e morreu como homem; como Deus não podia nem sofrer nem morrer. Sofreu excruciantemente para fazer plena reparação pelo pecado, e para imprimir em nós o grande mal do pecado. Mesmo apenas um pecado é tão abominável a Deus que não todos os dilúvios e fogos podem apagar a mancha. Apenas o sangue do Próprio Deus pode fazê-lo. "O Senhor lançou sobre Ele a iniquidade de todos nós" (Is. 53: 6).
 
 2. Cristo morreu por todos os homens, sem exceção. É o Redentor de todos os homens. Nem todos os homens são salvos porque nem todos aceitam as graças que Cristo mereceu para nós por Sua morte. Muitos não creem n'Ele. Dos que creem, muitos levam vidas pecaminosas.
 
-> "Cristo também nos amou e Se entregou por nós, como oferta e sacrifício a Deus" (Efés. 5: 2). Nunca podemos compreender plenamente que Deus morreu por nós. Nunca podemos repay-Lo nesta vida ou na próxima. O único modo que podemos mostrar nosso apreço é viver segundo Sua vontade.
+> "Cristo também nos amou e Se entregou por nós, como oferta e sacrifício a Deus" (Efés. 5: 2). Nunca podemos compreender plenamente que Deus morreu por nós. Nunca podemos recompensá-Lo nesta vida ou na próxima. O único modo que podemos mostrar nosso apreço é viver segundo Sua vontade.
 
 
 **Quais foram os principais sofrimentos de Cristo?**

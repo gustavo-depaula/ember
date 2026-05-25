@@ -66,6 +66,6 @@
 
 > Do mesmo modo quando beijamos a foto de nossa mãe não damos nossa afeição ao papel, mas à nossa mãe. Desrespeito a uma imagem é desrespeito àquele representado.
 
-2. Na veneração de relíquias, estátuas sagradas e quadros, não cremas que qualquer poder divino resida neles. Não podem, por si mesmos, operar milagres. São meros instrumentos, objetos inanimados que podem ser usados por um Deus Todo-Poderoso.
+2. Na veneração de relíquias, estátuas sagradas e quadros, não cremos que qualquer poder divino resida neles. Não podem, por si mesmos, operar milagres. São meros instrumentos, objetos inanimados que podem ser usados por um Deus Todo-Poderoso.
 
 > Os numerosos milagres operados através do uso de relíquias foram resultado, não do poder das relíquias, mas de Deus, agindo através delas. Os Evangelhos contam a história comovente da mulher curada ao tocar a orla da vestimenta de Nosso Senhor. Contudo mesmo aquela vestimenta sagrada não operou por si mesma o milagre; Cristo usou Seu poder, operando através da vestimenta. E assim hoje relíquias continuam a desempenhar um papel na operação de milagres, na suspensão da lei natural, mas sempre como meros instrumentos do Deus Todo-Poderoso.

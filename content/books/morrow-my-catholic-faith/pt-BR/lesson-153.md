@@ -66,7 +66,7 @@
 
 1. Cancelam ou diminuem nossa punição temporal.
 
-> Assim aqueles que negligenciam a prática de ganhar indulgências podem ser likened a um viajante que prefere um caminho longo e difícil embora um curto e agradável lhe seja oferecido.
+> Assim aqueles que negligenciam a prática de ganhar indulgências podem ser comparados a um viajante que prefere um caminho longo e difícil embora um curto e agradável lhe seja oferecido.
 
 2. Consolam-nos em nosso medo do juízo de Deus por nossos pecados passados e dão-nos esperança para o futuro.
 

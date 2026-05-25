@@ -28,7 +28,7 @@
 
 Para falar infalivelmente, o Papa deve falar *ex-cathedra*, ou oficialmente, sob as seguintes condições:
 
-1. Deve pronunciar-se sobre um assunto de fé ou moral. Infalibilidade está restrita a questões riguardanti à fé e moral. A Igreja pronuncia-se sobre ciências naturais e sobre legislação apenas quando a perversidade dos homens faz delas instrumentos para opor-se a verdades reveladas.
+1. Deve pronunciar-se sobre um assunto de fé ou moral. Infalibilidade está restrita a questões referentes à fé e moral. A Igreja pronuncia-se sobre ciências naturais e sobre legislação apenas quando a perversidade dos homens faz delas instrumentos para opor-se a verdades reveladas.
 
 > Se o Papa deveria fazer julgamentos sobre matemática ou governos civis, é tão passível de erro quanto qualquer outro homem com a mesma experiência. Cartas a reis e outros governantes não são pronunciamentos infalíveis. Contudo, devemos manter as opiniões do Papa sobre qualquer assunto com grande respeito, por conta de sua posição e experiência.
 

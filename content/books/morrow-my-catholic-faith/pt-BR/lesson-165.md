@@ -13,7 +13,7 @@
 
 > Sob a Lei Mosaica, o divórcio era em alguns casos permitido, para evitar males maiores, porque após a Queda a revelação primitiva tinha-se tornado obscura aos homens. Mas quando Cristo veio, retirou esta permissão absolutamente e restaurou o casamento à sua unidade original, dizendo: "Não lestes que o Criador, desde o princípio, os fez macho e fêmea e disse: por esta causa o homem deixará pai e mãe e se unirá à sua mulher e os dois serão uma só carne? Portanto agora já não são dois, mas uma só carne. O que portanto Deus uniu, o homem não separe... Moisés, por causa da dureza de vosso coração, permitiu-vos repudiar vossas mulheres; mas não foi assim desde o princípio" (Mat. 19: 4-8).
 
-2. O casamento cristão é um estado sagrado e holy agradável a Deus. São Paulo o compara à união mística entre Cristo e Sua Igreja. Como Cristo é um e a Igreja é uma, assim o casamento é entre um homem e uma mulher. Como Cristo e a Igreja estão inseparavelmente unidos, assim o casamento é indissolúvel. Faz as partes contratantes "dois numa só carne".
+2. O casamento cristão é um estado sagrado e santo agradável a Deus. São Paulo o compara à união mística entre Cristo e Sua Igreja. Como Cristo é um e a Igreja é uma, assim o casamento é entre um homem e uma mulher. Como Cristo e a Igreja estão inseparavelmente unidos, assim o casamento é indissolúvel. Faz as partes contratantes "dois numa só carne".
 
 > São Paulo disse: "Isto é um grande mistério — digo em referência a Cristo e à Igreja" (Ef. 5: 32). Cristo é a cabeça da Igreja; assim é o homem a cabeça da mulher. A Igreja está sujeita a Cristo; assim deve a mulher ser obediente a seu marido. Cristo nunca abandona a Igreja e a Igreja é sempre fiel a Cristo; assim um homem e sua mulher devem ser fiéis um ao outro.
 

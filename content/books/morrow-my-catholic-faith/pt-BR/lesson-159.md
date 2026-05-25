@@ -23,7 +23,7 @@
 
 4. Os Apóstolos, em cumprimento aos desejos de Cristo, administraram o sacramento da Ordem.
 
-> Consagraram Paulo e Barnabé Bispos com oração e imposição de mãos. Do mesmo modo São Paulo ordenou Timóteo. Quando os Apóstolos estabeleciam igrejas, upon sua partida, ordenavam e nomeavam sucessores (bispos) a quem davam plenos poderes e outros ministros (padres) a quem transmitiam parte de seus poderes. "Por esta razão te admoesto a reacender a graça de Deus que está em ti pela imposição de minhas mãos" (2 Tm. 1: 6).
+> Consagraram Paulo e Barnabé Bispos com oração e imposição de mãos. Do mesmo modo São Paulo ordenou Timóteo. Quando os Apóstolos estabeleciam igrejas, ao partir, ordenavam e nomeavam sucessores (bispos) a quem davam plenos poderes e outros ministros (padres) a quem transmitiam parte de seus poderes. "Por esta razão te admoesto a reacender a graça de Deus que está em ti pela imposição de minhas mãos" (2 Tm. 1: 6).
 
 
 **Quais são alguns dos requisitos para um homem receber a Ordem dignamente?**

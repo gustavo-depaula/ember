@@ -68,7 +68,7 @@
 
 2. Um bom Católico obedece a seus superiores eclesiásticos em questões espirituais, e dá-lhes o devido respeito. Vê em seus superiores legítimos os representantes de Cristo na terra.
 
-> É leal à Igreja em palavra e ato. Não a critica, ou faz remarks depreciativos sobre ela. Mesmo se seus sacerdotes possam ter faltas, faz seu melhor para não trazê-los e à Igreja ao desprezo. Se as faltas são públicas e graves, pode trazer o assunto à atenção da autoridade legítima, mas sempre com grande prudência.
+> É leal à Igreja em palavra e ato. Não a critica, ou faz comentários depreciativos sobre ela. Mesmo se seus sacerdotes possam ter faltas, faz seu melhor para não trazê-los e à Igreja ao desprezo. Se as faltas são públicas e graves, pode trazer o assunto à atenção da autoridade legítima, mas sempre com grande prudência.
 
 3. Segundo seus meios, contribui para o suporte da Igreja.
 

@@ -25,15 +25,15 @@
 
 Ao governar sua diocese, é assistido por um número de "cônegos", ou por consultores diocesanos. Um bispo coadjutor ou auxiliar é comissionado para assistir o bispo de uma diocese. Geralmente um bispo coadjutor é um com direito de sucessão.
 
-> O Papa dirige-se a um bispo: *Irmão*, porque como bispos, têm o mesmo rank. Bispos usam mitra, e carregam um báculo como sinal de seu ofício de pastor. Usam uma cruz peitoral. Têm um anel, como símbolo de sua união com sua diocese. Os fiéis beijam este anel em sinal de obediência e respeito.
+> O Papa dirige-se a um bispo: *Irmão*, porque como bispos, têm o mesmo grau. Bispos usam mitra, e carregam um báculo como sinal de seu ofício de pastor. Usam uma cruz peitoral. Têm um anel, como símbolo de sua união com sua diocese. Os fiéis beijam este anel em sinal de obediência e respeito.
 
 4. Um Vigário Apostólico é um bispo que governa sobre um território que ainda não está plenamente organizado, chamado Vicariato Apostólico.
 
 > Quando o território é primeiro organizado, é geralmente colocado sob o cuidado de um sacerdote, e não de um bispo. Este sacerdote é chamado Prefeito Apostólico e seu território é uma Prefeitura Apostólica.
 
-5. Um Bispo ou Arcebispo titular é um que ostenta o título de uma diocese, mas não tem jurisdição sobre ela. Núnuncios, delegados apostólicos, bispos coadjutores e auxiliares, e vigários apostólicos são geralmente titulares.
+5. Um Bispo ou Arcebispo titular é um que ostenta o título de uma diocese, mas não tem jurisdição sobre ela. Núncios, delegados apostólicos, bispos coadjutores e auxiliares, e vigários apostólicos são geralmente titulares.
 
-> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao rank de bispos, e dado trabalho especial.
+> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao grau de bispos, e dado trabalho especial.
 
 6. Um Arcebispo ou Metropolitano é um bispo que tem certos poderes de jurisdição concedidos pelo Papa sobre dioceses vizinhas compondo sua província.
 

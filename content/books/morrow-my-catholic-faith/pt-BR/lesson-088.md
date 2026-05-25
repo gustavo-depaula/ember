@@ -2,7 +2,7 @@
 
 ![](../images/lesson-088.webp)
 
-*Nossos inimigos são aqueles que nos odeiam e procuram fazer-nos mal. Antes de ser convertido e tornar-se o Apóstolo Paulo, Saulo era um inimigo dos cristãos; persecutava-os. Mas aquele que ama seu inimigo é como o primeiro mártir cristão, São Estêvão, que nos deu um exemplo marcante de amor pelos inimigos. Quando seus inimigos o estavam apedrejando até a morte, em vez de desejar-lhes mal, rezou: "Senhor, não lhes imputes este pecado" (Atos 7: 60). Foi chamado "um homem cheio do Espírito Santo".*
+*Nossos inimigos são aqueles que nos odeiam e procuram fazer-nos mal. Antes de ser convertido e tornar-se o Apóstolo Paulo, Saulo era um inimigo dos cristãos; perseguia-os. Mas aquele que ama seu inimigo é como o primeiro mártir cristão, São Estêvão, que nos deu um exemplo marcante de amor pelos inimigos. Quando seus inimigos o estavam apedrejando até a morte, em vez de desejar-lhes mal, rezou: "Senhor, não lhes imputes este pecado" (Atos 7: 60). Foi chamado "um homem cheio do Espírito Santo".*
 
 
 **Por que devemos amar nossos inimigos?**

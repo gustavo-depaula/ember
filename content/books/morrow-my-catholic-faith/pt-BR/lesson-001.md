@@ -17,7 +17,7 @@
 
 > "O Senhor fez todas as coisas para Si mesmo" (Prov. 16: 4). Queira ou não, o homem deve manifestar as perfeições, o domínio e a glória de Deus. A própria existência do homem faz isso; até mesmo os seus pecados mostrarão no fim a infinita santidade e justiça de Deus.
 
-3. Através da glorificação de Deus, o homem está destinado a compartilhar da Sua felicidade eterna no céu. O homem foi criado chiefly para a vida além-túmulo; esta presente é meramente uma preparação para a vida eterna.
+3. Através da glorificação de Deus, o homem está destinado a compartilhar da Sua felicidade eterna no céu. O homem foi criado principalmente para a vida além-túmulo; esta presente é meramente uma preparação para a vida eterna.
 
 > Nesta vida somos exilados, peregrinos, viajantes. O Céu, a Morada de Deus, é nossa verdadeira pátria, nosso verdadeiro Lar. Lá Deus quer compartilhar conosco a Sua própria bem-aventurança sem medida. "Porque não temos aqui cidade permanente, mas buscamos a que há de vir" (Heb. 13: 14).
 

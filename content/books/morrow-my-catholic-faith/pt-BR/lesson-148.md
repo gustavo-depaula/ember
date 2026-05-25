@@ -42,7 +42,7 @@
 
 3. Nosso propósito é universal quando estamos determinados a manter-nos afastados de todos os pecados mortais. Um jardineiro sábio arranca as ervas daninhas e não meramente corta o topo, do contrário crescerão mais espessas que nunca.
 
-> São Sebastião prometeu curar o procônsul doente de Roma se destruísse todos os ídolos. O procônsul destruiu os ídolos mas não ficou bem e queixou-se ao santo sobre isto. O santo disse-lhe que tinha concealed o ídolo de ouro herdado de seus ancestrais e não podia ser curado. Assim que o destruiu, foi curado.
+> São Sebastião prometeu curar o procônsul doente de Roma se destruísse todos os ídolos. O procônsul destruiu os ídolos mas não ficou bem e queixou-se ao santo sobre isto. O santo disse-lhe que tinha ocultado o ídolo de ouro herdado de seus ancestrais e não podia ser curado. Assim que o destruiu, foi curado.
 
 
 **Quais são os efeitos do sacramento da penitência, dignamente recebido?**
@@ -63,6 +63,6 @@
 
 4. A ajuda para evitar o pecado no futuro.
 
-> O sacramento da penitência dá ao penitente graças atuais e uma força especial pela qual pode superar a tentação e levar uma vida boa. Obras de penitência não são apenas para a punição de pecados passados; atuam como um remédio, como uma cura para enfraquecer o poder de más tendências.
+> O sacramento da penitência dá ao penitente graças atuais e uma força especial pela qual pode superar a tentação e levar uma vida boa. Obras de penitência não são apenas para a punição de pecados passados; atuam como uma medicina, como um remédio para enfraquecer o poder de más tendências.
 
 5. A restauração dos méritos de nossas boas obras, se foram perdidas pelo pecado mortal.

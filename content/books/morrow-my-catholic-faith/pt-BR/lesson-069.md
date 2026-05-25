@@ -58,4 +58,4 @@
 
 > A longa história da Igreja Católica é acompanhada por cisma e heresia, mas cada ataque apenas a fortaleceu. Continuou a viver e espalhar-se apesar de tudo e todos.
 
-5. A Igreja é a ***Esposa de Cristo***, lançada na prisão, faminta, atirada às feras, pisada sob os pés, cortada, torturada, crucificada e queimada. Mas esta bela Esposa emerge de tudo isto no bloom e frescor da juventude, serena, calma, imortal.
+5. A Igreja é a ***Esposa de Cristo***, lançada na prisão, faminta, atirada às feras, pisada sob os pés, cortada, torturada, crucificada e queimada. Mas esta bela Esposa emerge de tudo isto no viço e frescor da juventude, serena, calma, imortal.

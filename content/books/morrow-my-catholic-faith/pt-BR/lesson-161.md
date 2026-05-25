@@ -62,12 +62,12 @@
 
 2. Um padre deve ler o Ofício Divino, uma série de orações, no Breviário; para isto aproximadamente uma hora é necessária cada dia.
 
-> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre concernantemente muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
+> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre no que diz respeito a muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
 
 3. Um pastor deve estar pronto para visitar os moribundos a qualquer hora do dia ou da noite, mesmo que o paciente esteja sofrendo de uma doença contagiosa. Deve instruir seu povo e guardá-lo de dano. Um pastor é o pastor de seu rebanho.
 
 > Deve construir e manter uma igreja, um convento, uma escola. Deve ouvir confissões hora após hora enquanto houver necessidade. Deve administrar os sacramentos, dizer Missa, atender aos pobres, etc.
 
-4. Religiosos ou regulares padres geralmente dedicam-se à oração e às obras espirituais e corporais de misericórdia. Têm encarregados de escolas, hospitais, orfanatos e outras instituições de caridade. Organizam missões e retiros e engajam-se em trabalho de imprensa e propaganda religiosa.
+4. Religiosos ou regulares padres geralmente dedicam-se à oração e às obras espirituais e corporais de misericórdia. Estão encarregados de escolas, hospitais, orfanatos e outras instituições de caridade. Organizam missões e retiros e engajam-se em trabalho de imprensa e propaganda religiosa.
 
 > Religiosos são usualmente empregados pelo Papa como missionários para converter os pagãos. Em muitos casos, também atuam como padres paroquiais.

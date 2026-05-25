@@ -15,7 +15,7 @@
 
 2. Our Lord sanctioned the use of sacramentals; He blessed the loaves and fishes, the young children, and the Apostles before the Ascension. He gave the Apostles power over evil spirits, to cast them out and to heal all kinds of diseases.
 
-> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" (Ps. 1: 7). "I reprehend myself and do penance in dust and ashes" (Job 4: 2).
+> In the Old Testament we read of God's blessing our first parents, of Noe blessing his two sons, of Isaac blessing Jacob, of Jacob blessing his twelve sons, of Moses blessing the tribes of Israel. The Jewish priests blessed the people every day. "Thou shalt sprinkle me with hyssop, and I shall be cleansed" (Ps. 50: 9). "I reprehend myself and do penance in dust and ashes" (Job 42: 6).
 
 3. Prayers and ceremonies of the Church are also sacramentals, because they increase devotion in the worship of God.
 

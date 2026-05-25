@@ -42,7 +42,7 @@
 
 3. Batismo administrado por um ministro protestante é válido se propriamente realizado: isto é, com o uso de água, juntamente com a forma do Batismo, e tendo a intenção de fazer o que a Igreja faz.
 
-> Batismo condicional é dado quando é incerto se uma pessoa foi batizada, ou quando há temor do sacramento ter sido administrado improperly, como com protestantes convertidos.
+> Batismo condicional é dado quando é incerto se uma pessoa foi batizada, ou quando há temor do sacramento ter sido administrado indevidamente, como com protestantes convertidos.
 
 4. Crianças devem ser batizadas na igreja paroquial à qual seus pais pertencem, porque o registro deve ser feito lá.
 

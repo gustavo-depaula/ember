@@ -40,7 +40,7 @@
 
 5. A Igreja proíbe os Católicos de ter qualquer coisa a ver com espiritismo. Isto é invocar os espíritos dos mortos.
 
-> Algumas manifestações são: bater de espíritos, levantar mesas, escrita em lousas, aparições, comunicações através de médiuns em estado de transe. A maioria das sessões espíritas são fraudulentas, mas às vezes o demônio se manifesta. Deus pode permitir que as almas dos mortos retornem à terra. Mas não há indicação de que Ele permita obedecer a médiuns. O demônio pode às vezes personificar os espíritos dos mortos. Satanás é velho e hábil em engano, e pode assumir a aparência de um anjo de luz.
+> Algumas manifestações são: bater de espíritos, levantar mesas, escrita em lousas, aparições, comunicações através de médiuns em estado de transe. A maioria das sessões espíritas são fraudulentas, mas às vezes o demônio se manifesta. Deus pode permitir que as almas dos mortos retornem à terra. Mas não há indicação de que Ele permita a Si mesmo obedecer a médiuns. O demônio pode às vezes personificar os espíritos dos mortos. Satanás é velho e hábil em engano, e pode assumir a aparência de um anjo de luz.
 
 
 **Todas as tentações vêm dos anjos maus?**
@@ -68,7 +68,7 @@
 
 — Podemos sempre resistir às tentações, porque nenhuma tentação pode nos forçar ao Pecado, e Deus sempre nos ajudará se Lhe pedirmos.
 
-> O tempo durante o qual uma tentação persiste não a torna pecaminosa, se continuarmos resistindo a ela. Uma tentação pode nos atacar por toda nossa vida, mas enquanto a combatermos, ou não prestarmos atenção a ela, enquanto não ceder-mos, não cometemos pecado. Não fomos conquistados, e Deus nos recompensará pela boa luta.
+> O tempo durante o qual uma tentação persiste não a torna pecaminosa, se continuarmos resistindo a ela. Uma tentação pode nos atacar por toda nossa vida, mas enquanto a combatermos, ou não prestarmos atenção a ela, enquanto não cedermos, não cometemos pecado. Não fomos conquistados, e Deus nos recompensará pela boa luta.
 
 1. Nenhuma tentação pode nos fazer mal se obedecermos às leis de Deus e nos mantivermos longe do pecado. Se resistirmos, a tentação fugirá de nós.
 

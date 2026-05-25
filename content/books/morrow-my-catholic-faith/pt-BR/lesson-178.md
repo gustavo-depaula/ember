@@ -25,7 +25,7 @@
 
 > Muitas casas têm o louvável costume de manter acesa uma votiva lâmpada de óleo em seu altar de família. Em muitas casas é o costume aspergir as camas com água benta antes de retirar-se à noite.
 
-5. Sempre que estamos em Trouble dor perigo ou tentação o uso de sacramentais é de grande benefício. Todo católico deve possuir um abençoado terço e usá-lo. Todo católico homem mulher rapaz moça ou criança deve usar em sua pessoa um abençoado crucifixo ou medalha ou escapulário.
+5. Sempre que estamos em tribulação dor perigo ou tentação o uso de sacramentais é de grande benefício. Todo católico deve possuir um abençoado terço e usá-lo. Todo católico homem mulher rapaz moça ou criança deve usar em sua pessoa um abençoado crucifixo ou medalha ou escapulário.
 
 > Muito frequentemente tal sacramental serve para lembrar ao portador em tempos de perigo ou tentação que há um Deus Que cuida mui do que acontece à sua alma.
 

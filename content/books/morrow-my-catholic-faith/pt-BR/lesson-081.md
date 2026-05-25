@@ -65,7 +65,7 @@ SÉTIMO E DÉCIMO SEGUNDO ARTIGOS DO CREDO DOS APÓSTOLOS
 
 > Um grande medo e realização instantânea de sua sentença cairá sobre os ímpios. E dirão às montanhas e às rochas: "Caí sobre nós e escondei-nos da face d'Aquele que está assentado sobre o trono, e da ira do Cordeiro" (Apoc. 6: 16). Imediatamente os bons irão corpo e alma ao céu, e os ímpios cairão corpo e alma no inferno. "E estes irão para o castigo eterno, mas os justos para a vida eterna" (Mat. 25: 46).
 
-4. O Juízo Geral é necessário a fim de: (a) Vindicar a providência de Deus no governo do mundo, e disclosure tanto o bem quanto o mal que os homens fizeram, a fim de revelar a justiça, sabedoria e misericórdia de Deus. O homem é um ser social, bem como individual; logo a necessidade de um julgamento geral, bem como particular.
+4. O Juízo Geral é necessário a fim de: (a) Vindicar a providência de Deus no governo do mundo, e revelar tanto o bem quanto o mal que os homens fizeram, a fim de revelar a justiça, sabedoria e misericórdia de Deus. O homem é um ser social, bem como individual; logo a necessidade de um julgamento geral, bem como particular.
 
 > Naquele dia os homens verão quão frequentemente Deus lhes concedeu graças, e eles as rejeitaram, quão frequentemente Deus converteu mesmo seus atos maus para sua vantagem, para que pudessem arrepender-se! Então os homens verão quanto daquilo que ocupou tempo e pensamento na terra foi loucura aos olhos de Deus, e como o que o mundo chamou de disparate e zombou era realmente sabedoria celestial. Como São Paulo diz: "Nós, de nossa parte, pregamos um Cristo crucificado — para os Judeus realmente um escândalo e para os Gentios loucura" (1 Cor. 1: 23).
 

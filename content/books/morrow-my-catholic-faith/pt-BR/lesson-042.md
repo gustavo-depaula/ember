@@ -29,7 +29,7 @@
 
 5. O dom da ciência nos capacita a compreender o ensino da Igreja, a conhecer a Deus e a Jesus Cristo Que Ele enviou.
 
-> Antes do advento do Espírito Santo, os Apóstolos eram homens ignorantes que não se importavam com pursuits intelectuais; nem eram peritos em santidade ou nas coisas de Deus.
+> Antes do advento do Espírito Santo, os Apóstolos eram homens ignorantes que não se importavam com atividades intelectuais; nem eram peritos em santidade ou nas coisas de Deus.
 
 6. Piedade é aquele dom pelo qual amamos a Deus como nosso Pai, esforçando-nos sempre por fazer Sua vontade.
 

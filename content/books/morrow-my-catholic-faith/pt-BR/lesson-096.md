@@ -2,7 +2,7 @@
 
 ![](../images/lesson-096.webp)
 
-*Acima, são ilustradas algumas das formas mais comuns de superstição. Pessoas doentes ou seus parentes às vezes recorrem à feitiçaria numa vã esperança de cura (1). Muitas pessoas altrimenti sensatas recorrem a adivinhos para saber sobre o futuro (2). Outros crêem em sinais e presságios (3-5). A superstição, além de ser contra a virtude da religião, algema a mente.*
+*Acima, são ilustradas algumas das formas mais comuns de superstição. Pessoas doentes ou seus parentes às vezes recorrem à feitiçaria numa vã esperança de cura (1). Muitas pessoas de outro modo sensatas recorrem a adivinhos para saber sobre o futuro (2). Outros crêem em sinais e presságios (3-5). A superstição, além de ser contra a virtude da religião, algema a mente.*
 
 
 **Como adoramos a Deus pela virtude da religião?**

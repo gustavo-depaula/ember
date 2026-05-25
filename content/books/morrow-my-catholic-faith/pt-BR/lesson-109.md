@@ -69,4 +69,4 @@
 
 > Uma maldição moderna associada a maus bailes é a moda de rapazes e moças saindo sozinhos em carros e dirigindo para casas de estrada. Isto pode ser uma fonte de perigo.
 
-7. Imodéstia e luxo excessivo no vestir. Uma moça belamente vestida é agradável de olhar. Mas a "arte de parecer bonita" não deve ser indulgada em excesso. Mulheres cujo alvo na vida é enfeitar-se para atrair a atenção dos homens estão colocando-se no caminho da incastidade.
+7. Imodéstia e luxo excessivo no vestir. Uma moça belamente vestida é agradável de olhar. Mas a "arte de parecer bonita" não deve ser indulgada em excesso. Mulheres cujo alvo na vida é enfeitar-se para atrair a atenção dos homens estão colocando-se no caminho da impudicícia.

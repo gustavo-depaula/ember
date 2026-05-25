@@ -36,7 +36,7 @@ b. Quando o mal feito é seriamente errado, mas o pecador sinceramente crê que 
 
 — Pecado venial nos prejudica tornando-nos menos fervorosos no serviço de Deus, enfraquecendo nosso poder de resistir ao pecado mortal, e tornando-nos merecedores dos castigos de Deus nesta vida ou no purgatório.
 
-1. Embora o pecado venial não seja uma ofensa grave contra Deus, é nevertheless um grande mal moral, segundo apenas ao pecado mortal.
+1. Embora o pecado venial não seja uma ofensa grave contra Deus, é não obstante um grande mal moral, segundo apenas ao pecado mortal.
 
 > É como uma gota de tinta num copo cheio de água clara; a tinta, por pouco que seja, tira a claridade.
 

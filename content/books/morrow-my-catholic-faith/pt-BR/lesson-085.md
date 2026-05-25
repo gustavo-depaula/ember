@@ -60,7 +60,7 @@
 
 3. Nosso amor a Deus não é perfeito quando O amamos apenas porque Ele nos dá dons, ou nos ameaça com punição, ou nos promete o céu.
 
-> Nevertheless, o amor imperfeito de Deus é frequentemente o começo do amor perfeito. Pouco a pouco o amor perfeito se desenvolve dele.
+> Não obstante, o amor imperfeito de Deus é frequentemente o começo do amor perfeito. Pouco a pouco o amor perfeito se desenvolve dele.
 
 
 **Como provamos nosso amor a Deus?**

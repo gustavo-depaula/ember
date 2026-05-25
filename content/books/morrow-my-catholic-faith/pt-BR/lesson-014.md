@@ -27,7 +27,7 @@ Como demonstração prática de que não há contradição entre a Revelação D
 
 1. Se estudarmos a interpretação própria, mesmo estas dificuldades serão encontradas como não existentes.
 
-> Entre a Escritura e a ciência, em sua essência, não há nem contradição nem confusão. Antes, elas sempre coadem uma com a outra. Às vezes são difíceis de entender por causa de sua profundidade, mas sempre, quando claramente conhecidas, são vistas como em conformidade com as exigências superiores da razão. (Pio XII, 1955)
+> Entre a Escritura e a ciência, em sua essência, não há nem contradição nem confusão. Antes, elas sempre são coerentes uma com a outra. Às vezes são difíceis de entender por causa de sua profundidade, mas sempre, quando claramente conhecidas, são vistas como em conformidade com as exigências superiores da razão. (Pio XII, 1955)
 
 2. Sem fazer uma definição específica sobre como interpretar Gênesis, a Igreja tem insistido que é infalivelmente verdadeira e substancialmente histórica.
 

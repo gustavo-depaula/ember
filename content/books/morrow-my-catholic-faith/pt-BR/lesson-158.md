@@ -22,7 +22,7 @@
 
 **Como devem os funerais ser conduzidos?**
 
-— Funerais devem ser conduzidos com dignidade e devoção; não devem ser extrava gantes e além dos meios da família.
+— Funerais devem ser conduzidos com dignidade e devoção; não devem ser extravagantes e além dos meios da família.
 
 1. Alguns têm a tendência de ter funerais pomposos para membros mortos de suas famílias, afirmando que é a última coisa que podem dar por seus mortos. Este sentimento é compreensível; mas certamente mostra falta de proporção se este generoso sentimento resulta no pagamento de grandes quantias de dinheiro por grandiosas carruagens funerárias e lacaios, enquanto a oferta de orações e especialmente de Missas é negligenciada.
 
@@ -38,7 +38,7 @@
 
 4. Católicos devem ser sepultados num cemitério católico se houver um; pelo menos a cova deve ser abençoada. Algum dia os corpos ressuscitarão em glória e serão unidos com suas almas no céu; é apropriado a seu alto destino sepultá-los como carcaças de animais em terreno não consagrado?
 
-> Sobre o lugar de sepultamento uma grande cruz deve ser ereta. Geralmente, as letras R.I.P. (Requiescat in pace: Descanse em paz) são gravadas na lápide. E aqui uma palavra sobre covas e mausoléus. A santa Santa Mônica, mãe de Santo Agostinho, disse: "Sepultai este corpo onde quer que desejeis. Uma coisa apenas vos peço e isso é, lembrai-vos de mim no altar do Senhor." Uma cova simples, um elaborado mausoléu — é tudo o mesmo para aqueles falecidos. É claro natural para aqueles que podem permitir construir mausoléus onde todos os membros da família possam ser sepultados juntos. O que deve ser evitado é a ereção de estruturas ostentosas que aparecem mais como casas de espetáculo vistosas que sepulcros de cristãos. A cruz deve ser proeminente: as inscrições devem ser litúrgicas e não tiradas de canções populares ou rimas sentimentais.
+> Sobre o lugar de sepultamento uma grande cruz deve ser ereta. Geralmente, as letras R.I.P. (Requiescat in pace: Descanse em paz) são gravadas na lápide. E aqui uma palavra sobre covas e mausoléus. A santa Santa Mônica, mãe de Santo Agostinho, disse: "Sepultai este corpo onde quer que desejeis. Uma coisa apenas vos peço e isso é, lembrai-vos de mim no altar do Senhor." Uma cova simples, um elaborado mausoléu — é tudo o mesmo para aqueles falecidos. É claro que é natural para aqueles que têm condições de construir mausoléus onde todos os membros da família possam ser sepultados juntos. O que deve ser evitado é a ereção de estruturas ostentosas que aparecem mais como casas de espetáculo vistosas que sepulcros de cristãos. A cruz deve ser proeminente: as inscrições devem ser litúrgicas e não tiradas de canções populares ou rimas sentimentais.
 
 5. Não-católicos, Maçons, aqueles excomungados como suicidas deliberados, duelistas e aqueles que ordenaram seus corpos cremados são negados sepultamento cristão.
 
@@ -55,4 +55,4 @@
 
 2. Aos enlutados, Deus em Sua infinita misericórdia estende, através de nossa Mãe Igreja, a consoladora certeza do Purgatório. Este conhecimento ponteia o abismo escancarado entre nós e nossos caros falecidos; faz-nos sentir que a morte não cortou os laços de amor que nos unem a eles. Em vez de desolação por nossa perda, encontramos diminuição de pesar e uma expressão prática de nossa afeição em orações e boas obras oferecidas a Deus em nome de nossos amados mortos, que podem ainda estar no purgatório.
 
-> Esta é uma razão para a necessidade de entender thorough a doutrina do purgatório (veja páginas 156-159). Como São Paulo disse, "Não queremos, irmãos, que ignoreis concerning aqueles que dormem, para que não vos aflijais como os outros que não têm esperança" (1 Tess. 4: 13).
+> Esta é uma razão para a necessidade de entender completamente a doutrina do purgatório (veja páginas 156-159). Como São Paulo disse, "Não queremos, irmãos, que ignoreis a respeito daqueles que dormem, para que não vos aflijais como os outros que não têm esperança" (1 Tess. 4: 13).

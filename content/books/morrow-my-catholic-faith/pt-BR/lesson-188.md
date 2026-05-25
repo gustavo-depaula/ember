@@ -43,7 +43,7 @@
 
 — Uma Missão é uma série de sermões e outros espirituais exercícios conduzidos sob a liderança de um competente padre ou padres para o propósito de renovar fervor na espiritual vida de uma comunidade.
 
-> Missões efetuam uma imensa quantidade de bem. Por causa de sua rara ocorrência causam uma grande impressão no povo. Missões são estações de graça para uma comunidade ou paróquia: pecadores são convertidos e os justos são incitados a progredir em virtude. Isto é porque são uma espécie de geral verificação do espiritual status da comunidade.
+> Missões efetuam uma imensa quantidade de bem. Por causa de sua rara ocorrência causam uma grande impressão no povo. Missões são estações de graça para uma comunidade ou paróquia: pecadores são convertidos e os justos são incitados a progredir em virtude. Isto é porque são uma espécie de geral verificação do espiritual estado da comunidade.
 
 1. Na maioria dos lugares Missões são realizadas pelo menos uma vez por ano. Usualmente duram uma semana e terminam numa geral comunhão de todos que participaram.
 

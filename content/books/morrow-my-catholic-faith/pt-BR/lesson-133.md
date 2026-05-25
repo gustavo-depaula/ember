@@ -15,11 +15,11 @@
 
 2. Agradecer a Deus por Seus muitos favores.
 
-> Na Missa, Jesus Cristo o Filho de Deus fala por nós a Seu Pai eterno; temos um advogado com Ele. Podemos falhar mas falar bem, tendo este instrumento de ação de graças?
+> Na Missa, Jesus Cristo o Filho de Deus fala por nós a Seu Pai eterno; temos um advogado com Ele. Como poderíamos deixar de falar bem, tendo este instrumento de ação de graças?
 
 3. Pedir a Deus por Suas bênçãos.
 
-> A Santa Missa pode ser oferecida pelos vivos de qualquer credo. Pode ser oferecida por católicos falecidos. O padre não pode preferir Missa publicamente por não-católicos falecidos, mas as pessoas ouvindo a Missa podem fazê-lo. Pessoas ouvindo Missa podem ter suas próprias intenções privadas para oferecê-la, além da intenção do padre. Missa pode ser oferecida por qualquer intenção exceto aquela que é em si má.
+> A Santa Missa pode ser oferecida pelos vivos de qualquer credo. Pode ser oferecida por católicos falecidos. O padre não pode oferecer a Missa publicamente por não-católicos falecidos, mas as pessoas ouvindo a Missa podem fazê-lo. Pessoas ouvindo Missa podem ter suas próprias intenções privadas para oferecê-la, além da intenção do padre. Missa pode ser oferecida por qualquer intenção exceto aquela que é em si má.
 
 4. Satisfazer a justiça de Deus pelos pecados cometidos contra Ele.
 

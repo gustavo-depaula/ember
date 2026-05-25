@@ -28,7 +28,7 @@
 
 1. Para adorar a Deus expressando-Lhe nosso amor e lealdade. — Esta é a oração de louvor. Devemos louvar a Deus por Suas infinitas perfeições. A Igreja O louva incessantemente.
 
-> O *Gloria* e *Sanctus* na Missa o *Te Deum* e o *Gloria Patri* são todos orações de louvor. A Santíssima Virgem louvou a Deus no *Magnificat*. Devemos adorar a Deus como convém a razoáveis seres humanos. Mecânicas orações são tolas.
+> O *Gloria* e *Sanctus* na Missa o *Te Deum* e o *Gloria Patri* são todos orações de louvor. A Santíssima Virgem louvou a Deus no *Magnificat*. Devemos adorar a Deus como convém a razoáveis seres humanos. Correntes de oração são tolas.
 
 2. Para agradecer-Lhe por Seus favores. — Esta é a oração de ação de graças. Tudo que temos vem de Deus e somos obrigados a render-Lhe graças. Demasiados tomam Seus favores como certos e negligenciam agradecer-Lhe.
 

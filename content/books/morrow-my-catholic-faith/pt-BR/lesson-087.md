@@ -62,7 +62,7 @@
 
 1. Nosso Senhor chamou o preceito da caridade para com o próximo de mandamento novo: "Um mandamento novo vos dou: que vos ameis uns aos outros: que como Eu vos amei, assim também vos ameis uns aos outros" (João 13: 34).
 
-> Isto é porque antes da vinda de Cristo, as pessoas não entendiam o preceito da caridade no mesmo sentido que Nosso Senhor lhe dá. Se hoje os homens cumprissem fielmente aquele preceito, que bênçãos se seguiriam! Ninguém faria mal a seu próximo; não haveria necessidade de prisões; não haveria pobreza extrema; e a paz reinaría.
+> Isto é porque antes da vinda de Cristo, as pessoas não entendiam o preceito da caridade no mesmo sentido que Nosso Senhor lhe dá. Se hoje os homens cumprissem fielmente aquele preceito, que bênçãos se seguiriam! Ninguém faria mal a seu próximo; não haveria necessidade de prisões; não haveria pobreza extrema; e a paz reinaria.
 
 2. O amor é o cumprimento da lei; e assim aquele que ama seu próximo por amor de Deus é recompensado com o céu.
 

@@ -13,7 +13,7 @@
 
 > Um único ato bom não constitui virtude. Por exemplo, alguém não tem a virtude da fé se crê em Cristo apenas uma vez por semana.
 
-2. As virtudes sobrenaturais entram na alma com a graça santificante, impartidas pelo Espírito Santo nos Sacramentos do Batismo e Penitência. Com a graça santificante, a alma adquire a luz sobrenatural da fé e esperança, e arde com o fogo da caridade.
+2. As virtudes sobrenaturais entram na alma com a graça santificante, infundidas pelo Espírito Santo nos Sacramentos do Batismo e Penitência. Com a graça santificante, a alma adquire a luz sobrenatural da fé e esperança, e arde com o fogo da caridade.
 
 Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço de Deus, de agir por Ele ao invés de contra Ele.
 
@@ -34,7 +34,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 1. Estas virtudes são chamadas teologais, do termo grego *Theos* (significando Deus), porque seu objeto é Deus.
 
-> Um símbolo apropriado para as virtudes teologais é uma árvore viva. A fé é a raiz, a esperança o tronco, e a caridade o fruto. A raiz e o tronco não têm valor se não encontram completamento no fruto. Os símbolos comuns que representam estas três virtudes são: a cruz para a fé, a âncora para a esperança, e o coração ardente para a caridade.
+> Um símbolo apropriado para as virtudes teologais é uma árvore viva. A fé é a raiz, a esperança o tronco, e a caridade o fruto. A raiz e o tronco não têm valor se não encontram complementação no fruto. Os símbolos comuns que representam estas três virtudes são: a cruz para a fé, a âncora para a esperança, e o coração ardente para a caridade.
 
 2. Aquele que possui estas três virtudes tem todas as outras virtudes em algum grau. Sem elas, não pode possuir qualquer outra virtude sobrenatural nem alcançar o céu.
 
@@ -63,7 +63,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 5. Nossa fé deve ser firme e completa; isto é, tanto certa quanto abrangente.
 
-> Se somos duvidosos em quaisquer matters de fé, considerando pontos de vista opostos como possivelmente verdadeiros, então negamos a autoridade de Deus. Se aceitamos algumas verdades, e negamos outras, então isso é negar Deus inteiramente.
+> Se somos duvidosos em quaisquer matérias de fé, considerando pontos de vista opostos como possivelmente verdadeiros, então negamos a autoridade de Deus. Se aceitamos algumas verdades, e negamos outras, então isso é negar Deus inteiramente.
 
 
 **O que é esperança?**

@@ -21,7 +21,7 @@
 
 3. Dentro da Igreja Católica Oriental, apenas a Igreja Maronita nunca esteve em cisma. Com o passar dos séculos, aqueles em cisma dividiram-se e subdividiram-se.
 
-Então, chiefly desde os séculos 16 e 17, a maioria deles retornou à unidade da Verdadeira Igreja.
+Então, principalmente desde os séculos 16 e 17, a maioria deles retornou à unidade da Verdadeira Igreja.
 
 > A Igreja Católica Oriental continua a usar diferentes ritos e observâncias, alguns dos quais até antecederam aqueles de Roma, como tendo estado lá, muito antes dos cismas. Assim hoje, os grupos na Igreja Oriental têm sua própria disciplina e costumes, o mais notável dos quais é que com eles a Missa (chamada "Santa Liturgia") é dita na língua peculiar à igreja em que está sendo dita: seja Eslavo, Romeno, Sírio, Árabe, Armênio, Grego, Copta, Etíope ou Georgiano. Outras diferenças de prática são: administração da Santa Eucaristia aos fiéis em ambas as formas de pão e vinho, o uso de pão fermentado para a Santa Missa, Batismo por imersão, inclinar-se da cintura com um movimento do braço ao invés de uma genuflexão diante do Santíssimo Sacramento.
 

@@ -43,13 +43,13 @@
 
 > Por exemplo, uma criança conta uma mentira para salvar seu irmão mais novo de punição. Pensa que seu dever de proteger seu irmãozinho é superior à dizer a verdade. Tem uma consciência errônea, e neste caso não comete pecado. Contudo, todos são obrigados a esforçar-se por um conhecimento correto da lei estudando sua religião. Dessa forma, formará uma consciência correta ou reta.
 
-2. Se uma pessoa com uma consciência errônea crê que algo certo é errado, e nevertheless o faz, é culpada de pecado, porque violou sua consciência, e portanto quis fazer o mal.
+2. Se uma pessoa com uma consciência errônea crê que algo certo é errado, e contudo o faz, é culpada de pecado, porque violou sua consciência, e portanto quis fazer o mal.
 
-> Um homem pode crer que Deus proíbe jogar em loteria. Se nevertheless participa, peca, porque violou sua consciência.
+> Um homem pode crer que Deus proíbe jogar em loteria. Se não obstante participa, peca, porque violou sua consciência.
 
 3. Tem-se uma consciência duvidosa quando não se sabe se algo é certo ou errado. Não devemos agir se temos uma consciência duvidosa sobre algo, mas esperar até que possamos esclarecer o assunto.
 
-> Se alguém tem uma consciência duvidosa, mas nevertheless deve fazer algo e não pode esperar, deve dizer a si mesmo que se soubesse que era errado, então não o faria. Então mesmo que tome sua decisão e o faça, e seja realmente errado, não é culpado de pecado.
+> Se alguém tem uma consciência duvidosa, mas não obstante deve fazer algo e não pode esperar, deve dizer a si mesmo que se soubesse que era errado, então não o faria. Então mesmo que tome sua decisão e o faça, e seja realmente errado, não é culpado de pecado.
 
 
 **O que é uma consciência escrupulosa?**

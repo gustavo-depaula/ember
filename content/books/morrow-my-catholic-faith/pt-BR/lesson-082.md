@@ -2,12 +2,12 @@
 
 ![](../images/lesson-082.webp)
 
-*Os ímpios no inferno sofrem tormentos dreadf ul. Sentem desespero, remorso, inveja e desesperança, porque sabem que nunca podem obter a única coisa necessária para a felicidade. Nunca podem ver e gozar a Deus. São torturados com inveja dos bem-aventurados no céu. São atormentados com vergonha porque seus pecados serão conhecidos a todos inteira e completamente. Após o juízo geral seus corpos compartilharão das dores de suas almas. Estarão em tormentos por toda a eternidade.*
+*Os ímpios no inferno sofrem tormentos pavorosos. Sentem desespero, remorso, inveja e desesperança, porque sabem que nunca podem obter a única coisa necessária para a felicidade. Nunca podem ver e gozar a Deus. São torturados com inveja dos bem-aventurados no céu. São atormentados com vergonha porque seus pecados serão conhecidos a todos inteira e completamente. Após o juízo geral seus corpos compartilharão das dores de suas almas. Estarão em tormentos por toda a eternidade.*
 
 
 **Quem é punido no inferno?**
 
-— Aqueles são punidos no inferno que morrem em pecado mortal; são privados da visão de Deus e sofrem tormentos dreadf ul, especialmente aquele de fogo, por toda a eternidade.
+— Aqueles são punidos no inferno que morrem em pecado mortal; são privados da visão de Deus e sofrem tormentos pavorosos, especialmente aquele de fogo, por toda a eternidade.
 
 1. Cristo Mesmo em quinze lugares na Sagrada Escritura, refere-se à punição do inferno, a habitação horrível dos ímpios.
 
@@ -19,7 +19,7 @@
 
 3. Deus não deseja enviar ninguém ao inferno. Seu único desejo seria ter todos Seus filhos com Ele na bem-aventurança do céu. O pecador força Deus a puni-lo no inferno, desafiando-O e recusando reconhecer Sua autoridade. Quando uma vil criatura desafia seu infinito Criador, nenhuma punição é grande demais.
 
-> Nem um único pecador é enviado ao inferno exceto por sua própria falta. Ninguém é enviado ao inferno a menos que tenha wilfully, deliberadamente e conscientemente recusado obedecer aos comandos de Deus. Podemos verdadeiramente dizer que os grilhões do inferno são da própria feição do homem. Se a um homem é dada uma luz brilhante, e ele propositalmente a apaga, pode culpar qualquer outra pessoa pela escuridão?
+> Nem um único pecador é enviado ao inferno exceto por sua própria falta. Ninguém é enviado ao inferno a menos que tenha voluntariamente, deliberadamente e conscientemente recusado obedecer aos comandos de Deus. Podemos verdadeiramente dizer que os grilhões do inferno são da própria feição do homem. Se a um homem é dada uma luz brilhante, e ele propositalmente a apaga, pode culpar qualquer outra pessoa pela escuridão?
 
 
 **Que dores sofrerão os condenados no inferno?**

@@ -13,7 +13,7 @@
 
 > Por exemplo, a humildade é oposta ao orgulho; a liberalidade é oposta à avareza; a castidade é oposta à luxúria; a mansidão e paciência são opostas à ira; a temperança é oposta à gula; o amor fraterno é oposto à inveja: e o zelo e diligência no que é bom são opostos à preguiça.
 
-2. As virtudes morais são um desdobramento e completamento das virtudes teologais. As virtudes teologais aperfeiçoam nosso ser interior; as virtudes morais aperfeiçoam nosso exterior. Se sinceramente buscamos estas virtudes, estamos no caminho da perfeição.
+2. As virtudes morais são um desdobramento e complementação das virtudes teologais. As virtudes teologais aperfeiçoam nosso ser interior; as virtudes morais aperfeiçoam nosso exterior. Se sinceramente buscamos estas virtudes, estamos no caminho da perfeição.
 
 > As virtudes teologais afetam nossas relações com Deus; as virtudes morais afetam nossas relações com nosso próximo e nós mesmos. Por exemplo, a fé nos faz crer na existência de Deus. A temperança nos faz regular nossos apetites.
 
@@ -48,7 +48,7 @@
 
 **Quais são algumas das outras virtudes morais?**
 
-— Piedade filial e patriotismo, que nos dispõem a honrar, amar e respeitar nossos pais e nossa pátria. É, contudo, nenhum virtude mas um pecado se somos tão preconceituosos a favor de nossos pais que não encontramos bem nenhum nos outros; ou se somos tão "patriotas" que não vemos bem nenhum em outras nações.
+— Piedade filial e patriotismo, que nos dispõem a honrar, amar e respeitar nossos pais e nossa pátria. É, contudo, nenhuma virtude mas um pecado se somos tão preconceituosos a favor de nossos pais que não encontramos bem nenhum nos outros; ou se somos tão "patriotas" que não vemos bem nenhum em outras nações.
 
 > A divisão e antagonismos mútuos de nações e povos nos quais alguns professam encontrar-se como "superiores" certamente não podem agradar a Deus; deles vêm guerra e vingança. Deus é Pai de todas as nações e povos, sem exceção.
 

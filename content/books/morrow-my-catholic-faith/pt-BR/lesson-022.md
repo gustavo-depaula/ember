@@ -20,7 +20,7 @@
 
 **Por que este pecado é chamado mortal?**
 
-— Este pecado é chamado mortal, ou deadly, porque priva o pecador da graça santificante, a vida sobrenatural da alma.
+— Este pecado é chamado mortal, ou letal, porque priva o pecador da graça santificante, a vida sobrenatural da alma.
 
 1. Sem graça santificante, a alma é desagradável a Deus, impura, e nunca pode contemplá-Lo ou estar com Ele no céu.
 
@@ -60,7 +60,7 @@
 
 Segundo, o pecador deve estar ciente do mal grave. — Deve ter pleno conhecimento e reflexão ou atenção, e saber que o que faz é grave.
 
-> A pessoa deve conhecer a malícia e mal do que está fazendo. Um homem que rouba um precioso anel de diamante na crença de que é vidro não tem pleno conhecimento. Um homem que joga descuidadamente um fósforo aceso pode jogá-lo num tanque de gasolina e causar uma explosão, mas não tem plena atenção. "Antes fui blasfemo, perseguidor e inimigo violento; mas alcancei misericórdia de Deus porque agi ignorantly, na incredulidade" (1 Tim. 1: 13).
+> A pessoa deve conhecer a malícia e mal do que está fazendo. Um homem que rouba um precioso anel de diamante na crença de que é vidro não tem pleno conhecimento. Um homem que joga descuidadamente um fósforo aceso pode jogá-lo num tanque de gasolina e causar uma explosão, mas não tem plena atenção. "Antes fui blasfemo, perseguidor e inimigo violento; mas alcancei misericórdia de Deus porque agi ignorantemente, na incredulidade" (1 Tim. 1: 13).
 
 Terceiro, o pecador deve plenamente consentir a isso. — Deve fazê-lo de sua própria livre vontade, dizendo deliberadamente: "Farei isto."
 

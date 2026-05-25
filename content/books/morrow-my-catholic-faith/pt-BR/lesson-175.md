@@ -69,9 +69,9 @@
 
 **O que é o dote?**
 
-— O dote é uma soma de dinheiro requerida por congregações de mulheres pagável upon a profissão de uma noviça como membro da comunidade.
+— O dote é uma soma de dinheiro requerida por congregações de mulheres pagável por ocasião da profissão de uma noviça como membro da comunidade.
 
-1. O propósito do dote é prover a pessoa com algum sustento caso deixe a comunidade ao final de seus votos temporários ou após uma dispensa ou upon demissão.
+1. O propósito do dote é prover a pessoa com algum sustento caso deixe a comunidade ao final de seus votos temporários ou após uma dispensa ou em caso de demissão.
 
 > No caso de alguém deixar a comunidade o dote é retornado a ela intacto. Enquanto isso durante sua estadia na comunidade os juros sobre o dote são usados para sua manutenção.
 

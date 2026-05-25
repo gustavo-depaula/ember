@@ -32,11 +32,11 @@
 
 1. É de fato muito lamentável que em nosso país comparativamente poucos casamentos são celebrados com a Missa Nupcial. Quantas bênçãos o casal perde, quando a Missa é omitida!
 
-> O casamento à tarde e noite está tornando-se mais um affair social fashionável que uma cerimônia religiosa. Matrimônio, o grande Sacramento Cristão, está sendo transformado num contrato civil. Não é de admirar que um crescente número de casamentos termine em divórcio. Hoje mais importância parece ser dada às festividades seguindo a cerimônia de casamento que à própria cerimônia.
+> O casamento à tarde e noite está tornando-se mais uma ocasião mundana da moda que uma cerimônia religiosa. Matrimônio, o grande Sacramento Cristão, está sendo transformado num contrato civil. Não é de admirar que um crescente número de casamentos termine em divórcio. Hoje mais importância parece ser dada às festividades seguindo a cerimônia de casamento que à própria cerimônia.
 
 2. Católicos podem melhor obter a bênção de Deus sobre seu casamento sendo casados numa Missa Nupcial e recebendo a Santa Comunhão devotamente. A Igreja provê uma especial Missa para os casamentos de seus membros; esta Missa Nupcial tem orações especiais implorando a bênção de Deus para o casal casado. Pode ser dita em quase qualquer dia, fora das importantes festas.
 
-> O estado matrimonial precisa de abundância de graças; não deveria cada meio disponível ser tomado para obter aquelas graças? A Igreja outorga graças ao par wedded, não apenas através do Sacramento, mas também através da Missa Nupcial, a recepção da Santa Comunhão naquela Missa e a Bênção Nupcial durante a Missa.
+> O estado matrimonial precisa de abundância de graças; não deveria cada meio disponível ser tomado para obter aquelas graças? A Igreja outorga graças ao par casado, não apenas através do Sacramento, mas também através da Missa Nupcial, a recepção da Santa Comunhão naquela Missa e a Bênção Nupcial durante a Missa.
 
 3. A Missa Nupcial é cheia de belos excertos da Bíblia, expondo a santidade e dignidade da união que o homem e a mulher contraíram. Através, a bênção de Deus é invocada.
 

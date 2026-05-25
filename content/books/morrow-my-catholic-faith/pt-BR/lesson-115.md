@@ -35,7 +35,7 @@
 
 > Vamos tentar um experimento: Por um dia inteiro não faleis a menos que absolutamente necessário, mas cada vez que íeis falar, anotai o que quisésseis falar. No fim do dia vereis quantas coisas inúteis, coisas desperdiçadoras de tempo, para não mencionar coisas rudes e pecaminosas, quisésseis dizer. Se as pessoas apenas segurassem suas línguas, quão muito mais úteis poderiam ser!
 
-7. Veracidade promove o bem-estar geral da sociedade, e confiança mútua entre homens. A ordem da ordem social depende grandemente de membros falarem a verdade.
+7. Veracidade promove o bem-estar geral da sociedade, e confiança mútua entre homens. A boa ordem da ordem social depende grandemente de membros falarem a verdade.
 
 > Imaginemos nossa própria comunidade especial, com nossos amigos favoritos e comerciantes, com aqueles que contactamos cada dia em várias matérias. Imaginemos a situação se não estivéssemos certos de que estavam dizendo a verdade todo tempo, mas apenas dez por cento provável do tempo.
 

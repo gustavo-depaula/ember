@@ -1,8 +1,8 @@
+# 73. The Gates of Hell
+
 ![](../images/lesson-073.webp)
 
 *In the castle of Fontainebleu, Napoleon forced the Pope to give up the States of the Church, promising an annual income of two million francs. In the same castle, Napoleon was himself later forced to sign an abdication and was promised a yearly income of the same amount. When the Pope excommunicated Napoleon, he answered that the words of an old man would not make the arms drop from the hands of his soldiers. In the Russian campaign, because of the intense cold, this actually happened. He kept Pius VII prisoner for five years; he himself was later a prisoner for seven years. Four days after ordering the union of the States of the Church with France, he lost the battles of Aspern and Erlingen.*
-
-# 73. The Gates of Hell
 
 
 **What was the end of the leaders of persecution, schism, and heresy?**

@@ -45,7 +45,7 @@
 
 2. Não falhando em pôr alguma oferta na bandeja de coleta todo Domingo e dia santo. Mesmo crianças devem formar o hábito de pôr alguns centavos.
 
-> É uma vergonha ver pessoas com anéis de diamante em seus dedos deixar a bandeja passar despercebida, ou pôr com seus dedos jewelados um dez ou vinte e cinco centavos. Certamente não mostra muito senso de proporção dar vinte e cinco centavos na igreja, e então sair e andar num carro luxuoso e proceder a uma festa que custa uns dez dólares ou mais.
+> É uma vergonha ver pessoas com anéis de diamante em seus dedos deixar a bandeja passar despercebida, ou pôr com seus dedos adornados de joias um dez ou vinte e cinco centavos. Certamente não mostra muito senso de proporção dar vinte e cinco centavos na igreja, e então sair e andar num carro luxuoso e proceder a uma festa que custa uns dez dólares ou mais.
 
 3. Contribuindo para fundos especiais, como para a ereção de uma igreja ou escola, manutenção de estabelecimentos religiosos, os fundos do Dia da Missão para a Propagação da Fé, para missões e retiros, etc.
 

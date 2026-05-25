@@ -21,7 +21,7 @@
 
 3. Outro modo de fazer o sinal da cruz é usado nos dois Evangelhos da Missa. Então pequenos sinais da cruz são feitos com o polegar da mão direita sobre a testa sobre os lábios e sobre o peito. Este era o sinal que os primeiros cristãos usavam sob perseguição para evitar detecção.
 
-> O sinal sobre a testa é intendido para mostrar nossa vontade de levar a cabo o ensino de Nosso Senhor. O sinal sobre os lábios é intendido para expressar nosso desejo de professar Deus. E o sinal sobre o peito é um símbolo do amor por Ele que enche nosso coração.
+> O sinal sobre a testa é destinado a mostrar nossa vontade de levar a cabo o ensino de Nosso Senhor. O sinal sobre os lábios é destinado a expressar nosso desejo de professar Deus. E o sinal sobre o peito é um símbolo do amor por Ele que enche nosso coração.
 
 4. Em países sob influência espanhola e portuguesa este sinal da cruz é o usado:
 

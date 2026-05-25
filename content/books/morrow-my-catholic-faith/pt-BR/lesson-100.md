@@ -19,7 +19,7 @@
 
 > O dia nos permite unir-nos ao culto público e receber instrução religiosa. O repouso beneficia tanto corpo quanto alma. Se tivéssemos que trabalhar sempre, sete dias por semana, ano após ano, nossa saúde quebraria sob a tensão.
 
-2. Na Lei Antiga, a celebração de um dia definido, o sábado, havia sido ordenada apenas especialmente para os Judeus, assim como a circuncisão e sacrifícios sangrentos. A Lei Antiga foi abrogada upon instituição da Nova (Atos 10: 15; 2: 16; Gál. 4: 10-11).
+2. Na Lei Antiga, a celebração de um dia definido, o sábado, havia sido ordenada apenas especialmente para os Judeus, assim como a circuncisão e sacrifícios sangrentos. A Lei Antiga foi ab-rogada com a instituição da Nova (Atos 10: 15; 2: 16; Gál. 4: 10-11).
 
 > Na Lei Antiga, os Judeus guardavam santo o sétimo dia da semana, Sábado. Era seu dia de repouso. O princípio vital do Terceiro Mandamento não era o dia específico, mas que um dia em sete deveria ser dedicado ao culto de Deus o Criador.
 

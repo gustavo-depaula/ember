@@ -4,7 +4,7 @@
 
 *EXAME DE CONSCIÊNCIA — Antes de confessar ao padre, devemos primeiro fazer um muito bom exame de consciência. Então devemos arrepender-nos de nossos pecados, dizer um ato de contrição e ajoelhar-nos no confessionário para nossa confissão.*
 
-*CONFISÃO SACRAMENTAL — Na Confissão, dizemos nossos pecados ao padre o mais claramente possível. Falamos em voz baixa e evitamos qualquer perda de tempo em conversa aleatória. Devemos dizer todos os pecados mortais; podemos também mencionar quaisquer pecados veniais que desejarmos declarar.*
+*CONFISSÃO SACRAMENTAL — Na Confissão, dizemos nossos pecados ao padre o mais claramente possível. Falamos em voz baixa e evitamos qualquer perda de tempo em conversa aleatória. Devemos dizer todos os pecados mortais; podemos também mencionar quaisquer pecados veniais que desejarmos declarar.*
 
 
 **Como devemos preparar-nos para uma boa confissão?**

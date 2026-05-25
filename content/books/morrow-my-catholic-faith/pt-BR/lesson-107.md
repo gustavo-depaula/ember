@@ -30,7 +30,7 @@ Muito frequentemente a condição do corpo afeta a da alma. Se o corpo está doe
 
 1. Pela embriaguez, alguém deliberadamente entorpece sem justa causa sua razão, dom precioso de Deus ao homem.
 
-> São Paulo disse: "As obras da carne são manifestas, que são inimizades. . . . bebedeiras, orgias e coisas semelhantes. E a respeito destas vos advirto, como já vos advi, que os que fazem tais coisas não alcançarão o reino de Deus" (Gál. 5: 19-21).
+> São Paulo disse: "As obras da carne são manifestas, que são inimizades. . . . bebedeiras, orgias e coisas semelhantes. E a respeito destas vos advirto, como já vos adverti, que os que fazem tais coisas não alcançarão o reino de Deus" (Gál. 5: 19-21).
 
 2. Quando cometida publicamente, a embriaguez ocasiona mau exemplo e escândalo, e frequentemente promoveu lutas e até assassinato. Por beber habitual, uma pessoa não apenas fere sua saúde, mas negligencia o sustento de sua família, e não improvavelmente também falha em suas obrigações para com o Estado e para com Deus.
 
@@ -41,9 +41,9 @@ Muito frequentemente a condição do corpo afeta a da alma. Se o corpo está doe
 
 — Suicídio é o tirar deliberado da própria vida.
 
-1. Suicídio é um grande pecado: é auto-assassinato. A Igreja nega sepultura cristã àqueles que sabiamente tiram sua própria vida. Por isto, a Igreja não quer dizer que aquelas almas estão seguramente condenadas ao inferno. Seu juízo está nas mãos de Deus. A Igreja meramente deseja mostrar condenação pública de tais pecados.
+1. Suicídio é um grande pecado: é auto-assassinato. A Igreja nega sepultura cristã àqueles que conscientemente tiram sua própria vida. Por isto, a Igreja não quer dizer que aquelas almas estão seguramente condenadas ao inferno. Seu juízo está nas mãos de Deus. A Igreja meramente deseja mostrar condenação pública de tais pecados.
 
-> Aquele que comete suicídio peca contra Deus, Que é o árbitro exclusivo da vida ou morte; peca contra si mesmo, lançando sua alma misericordiosamente no inferno; e peca contra sua família, que deixa para suportar sua vergonha, e talvez viver em necessidade por falta de seu sustento.
+> Aquele que comete suicídio peca contra Deus, Que é o árbitro exclusivo da vida ou morte; peca contra si mesmo, lançando sua alma impiedosamente no inferno; e peca contra sua família, que deixa para suportar sua vergonha, e talvez viver em necessidade por falta de seu sustento.
 
 2. Suicídio é o resultado de falta de religião. A experiência ensina que à medida que a religião enfraquece numa terra, o número de suicídios aumenta. Suicídio é usualmente cometido por alguém que se meteu em problemas ou cometeu algum grande pecado.
 
@@ -61,6 +61,6 @@ Muito frequentemente a condição do corpo afeta a da alma. Se o corpo está doe
 
 > O duelista é culpado de um duplo assassinato: intenta matar seu antagonista, e arrisca sua própria vida. A Igreja excomunga aqueles que desafiam ou aceitam um desafio para um duelo, os padrinhos, e todos que sancionam um duelo por sua presença.
 
-6. Não é errado, mas altamente meritório, expor nossa saúde e vida para ganhar a vida eterna, ou resgatar nossos semelhantes da morte física ou espiritual. Cristo Mesmo sabiamente deu Sua vida para salvar almas.
+6. Não é errado, mas altamente meritório, expor nossa saúde e vida para ganhar a vida eterna, ou resgatar nossos semelhantes da morte física ou espiritual. Cristo Mesmo conscientemente deu Sua vida para salvar almas.
 
 > Mártires, padres e missionários que expõem suas vidas, médicos e enfermeiras que atendem casos contagiosos, merecem uma recompensa eterna. Aqueles que perdem suas vidas resgatando outros de afogamento ou incêndio, merecem renome. "E não tenhais medo dos que matam o corpo mas não podem matar a alma. Mas antes temei aquele que pode destruir alma e corpo no inferno" (Mat. 10: 28). "Aquele que acha sua vida perdê-la-á e aquele que perde sua vida por amor de Mim, achá-la-á" (Mat. 10: 39).

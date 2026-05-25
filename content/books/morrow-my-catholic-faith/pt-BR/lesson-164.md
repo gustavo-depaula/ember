@@ -62,6 +62,6 @@
 
 > Aborto direto não pode ser permitido mesmo para salvar a vida de uma mãe. Se o feto ou o bebê é matado propositadamente porque por não fazê-lo a mãe poderia morrer, isto é aborto direto. Estima-se que em muitos países, uma gravidez em três termina em aborto.
 
-2. Aborto indireto pode ocorrer quando, embora não intendido, a morte do feto segue alguma operação ou outro tratamento realizado na mãe. Tais tratamentos e operações são permitidos apenas quando é certo que tanto mãe quanto criança de outro modo morreriam. Em tais casos, a criança deve receber Batismo.
+2. Aborto indireto pode ocorrer quando, embora não pretendido, a morte do feto segue alguma operação ou outro tratamento realizado na mãe. Tais tratamentos e operações são permitidos apenas quando é certo que tanto mãe quanto criança de outro modo morreriam. Em tais casos, a criança deve receber Batismo.
 
 > Para estar certo das circunstâncias, um médico católico consciencioso deve ser consultado.

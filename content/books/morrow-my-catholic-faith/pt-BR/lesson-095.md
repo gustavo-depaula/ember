@@ -38,7 +38,7 @@
 
 > Quando necessário, para obrigações sociais, um católico pode estar presente num casamento ou funeral não-católico, mas não deve participar dos serviços. Em nenhum caso pode assistir outros serviços de igrejas não-católicas, como a instalação de seus ministros, sermões, etc.
 
-2. É pecado pertencer a qualquer sociedade que se oponha à Igreja. A Maçonaria, ou Maçonaria, é condenada pela Igreja. Muitas pessoas caridosas, que se juntaram à Maçonaria meramente por razões sociais ou de negócios, não entendem a posição da Igreja. A maioria delas serve apenas ao Terceiro Grau, e não mantém nenhum espírito de antagonismo contra a Igreja; mas estas boas pessoas não percebem os propósitos básicos de sua organização.
+2. É pecado pertencer a qualquer sociedade que se oponha à Igreja. A Franco-Maçonaria, ou Maçonaria, é condenada pela Igreja. Muitas pessoas caridosas, que se juntaram à Maçonaria meramente por razões sociais ou de negócios, não entendem a posição da Igreja. A maioria delas serve apenas ao Terceiro Grau, e não mantém nenhum espírito de antagonismo contra a Igreja; mas estas boas pessoas não percebem os propósitos básicos de sua organização.
 
 > Na realidade, a Maçonaria é uma seita religiosa empenhada na destruição da Igreja Católica. Tem suas próprias doutrinas, sacerdócio e ritual; tem sua moralidade característica. Por exemplo, impõe um juramento que requer obediência cega; não aceita a Revelação Divina. "Pelos seus frutos os conhecereis", e os frutos da Maçonaria são evidentes através da história europeia. Podemos dizer que ninguém precisa ter vergonha dos frutos da Igreja Católica em todos os lugares e todos os tempos?
 

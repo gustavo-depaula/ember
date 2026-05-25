@@ -45,7 +45,7 @@
 
 — Sim, somos absolutamente livres para escolher o confessor que gostamos.
 
-1. É aconselhável ter um confessor regular. Deste modo, ele torna-se bem acquainted com nosso caráter e estado de consciência. É assim capacitado a dirigir-nos melhor, a dar-nos conselho e instrução espiritual mais efetivos.
+1. É aconselhável ter um confessor regular. Deste modo, ele torna-se bem familiarizado com nosso caráter e estado de consciência. É assim capacitado a dirigir-nos melhor, a dar-nos conselho e instrução espiritual mais efetivos.
 
 > Um confessor é como um médico. Se um homem doente consulta um médico diferente cada semana e segue as direções de nenhum, não pode esperar muita melhoria em saúde. Similarmente, um penitente que move-se de um confessor para outro dificilmente pode obter o conselho de que precisa.
 

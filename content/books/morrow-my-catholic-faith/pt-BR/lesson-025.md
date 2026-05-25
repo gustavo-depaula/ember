@@ -61,7 +61,7 @@
 
 > De todos os vícios, luxúria é mais severamente punida na terra. Leva à perda de saúde e razão. Foi a causa do Dilúvio. Foi a causa da destruição com fogo e enxofre de Sodoma e Gomorra. "Mas a imoralidade e toda impureza ou avareza, nem sequer seja nomeada entre vós, como convém a santos" (Efés. 5: 3).
 
-2. Aqueles tentados à luxúria devem lembrar que o homem foi feito à imagem e semelhança de Deus. Irão eles tão rashamente destruir aquela imagem, para fazerem-se semelhantes às bestas? De fato, bestas são melhores que homens luxuriosos, pois bestas agem daquele modo por instinto; não têm alma como Deus.
+2. Aqueles tentados à luxúria devem lembrar que o homem foi feito à imagem e semelhança de Deus. Irão eles tão temerariamente destruir aquela imagem, para fazerem-se semelhantes às bestas? De fato, bestas são melhores que homens luxuriosos, pois bestas agem daquele modo por instinto; não têm alma como Deus.
 
 > Impureza enfraquece a vontade e obscurece o entendimento. Por esta razão, a emenda é muito difícil, e o pecador cai em muitos outros pecados. Assim Salomão, que cedeu à luxúria, finalmente perdeu toda sua sabedoria e voltou-se a adorar deuses falsos.
 
@@ -69,4 +69,4 @@
 
 > As consequências da luxúria são vistas no caso de Henrique VIII. Foi a causa de sua apostasia, e sua apostasia arrastou uma nação inteira em similar apostasia. "Pois sabei e entendei, que nenhum fornicador, ou pessoa impura, ou avarento (pois isto é idolatria) tem qualquer herança no reino de Cristo e de Deus" (Efés. 5: 5) (Veja Capítulo 44, sobre Humildade, Liberalidade, Castidade)
 
-4. Sodoma, ou pecados contra a pureza por pessoas do mesmo sexo, é uma forma de luxúria. Sodoma é pior que luxúria porque é também contrária à natureza.
+4. Sodomia, ou pecados contra a pureza por pessoas do mesmo sexo, é uma forma de luxúria. Sodomia é pior que luxúria porque é também contrária à natureza.

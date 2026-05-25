@@ -17,7 +17,7 @@
 
 2. Se alguém recusa restaurar propriedade roubada ou reparar dano que injustamente fez à propriedade de outros, não pode ser perdoado. Não obterá perdão de Deus, nem absolvição do padre, mesmo que confesse seu pecado uma e outra vez.
 
-> Enquanto alguém não intende sinceramente fazer reparação, seu pecado não será remitido, mesmo que suplique perdão divino com choro, ou procure aplacar a justiça divina por jejuns e penitências. Não foi até que Zaqueu declarou sua determinação de fazer restituição que Nosso Senhor o chamou de filho de Abraão (Luc. 19: 9).
+> Enquanto alguém não tenciona sinceramente fazer reparação, seu pecado não será remitido, mesmo que suplique perdão divino com choro, ou procure aplacar a justiça divina por jejuns e penitências. Não foi até que Zaqueu declarou sua determinação de fazer restituição que Nosso Senhor o chamou de filho de Abraão (Luc. 19: 9).
 
 3. Justiça requer reparação do mal que fazemos, na medida em que temos capacidade de fazer aquela reparação. Sem restituição ou reparação, não há perdão.
 

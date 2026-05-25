@@ -11,7 +11,7 @@
 
 1. São Pedro viveu por um curto tempo em Antioquia; depois foi a Roma e lá fixou sua residência oficial permanentemente. Foi lá, e como Bispo de Roma, que morreu como mártir cerca de vinte anos depois.
 
-> A Igreja não deveria morrer com Pedro. Portanto seu rank oficial e dignidade e poderes deveriam ser transmitidos a seus sucessores de geração a geração. Do mesmo modo, sucessores de um ofício civil adquirem todos os poderes ligados ao ofício.
+> A Igreja não deveria morrer com Pedro. Portanto seu posto oficial e dignidade e poderes deveriam ser transmitidos a seus sucessores de geração a geração. Do mesmo modo, sucessores de um ofício civil adquirem todos os poderes ligados ao ofício.
 
 2. Assim o Bispo de Roma, o legítimo sucessor de São Pedro, é o que Pedro era, Vigário de Cristo e cabeça visível da Igreja. Cristo é o verdadeiro e invisível Cabeça da Igreja. Mas seu cabeça visível é o Bispo de Roma, nosso Santo Padre o Papa, porque é o sucessor de São Pedro.
 
@@ -19,7 +19,7 @@
 
 3. A supremacia do Bispo de Roma sobre toda a Cristandade tem sido disputada por causa da perversidade dos homens e do poder do mal. Tem sido negada por filhos indóceis. O próprio fato de ser disputada mostra que existia.
 
-> Do mesmo modo até a autoridade do Próprio Deus tem sido questionada; Sua própria existência tem sido negada. Desde o princípio, também, a autoridade parental tem sido desafiada. A autoridade de governantes legítimos sempre foi atacada. As negações, defiances e ataques não destruíram a existência de tal autoridade. Morre Deus porque os homens negam Sua existência? "O tolo disse em seu coração: Não há Deus" (Sl. 52).
+> Do mesmo modo até a autoridade do Próprio Deus tem sido questionada; Sua própria existência tem sido negada. Desde o princípio, também, a autoridade parental tem sido desafiada. A autoridade de governantes legítimos sempre foi atacada. As negações, rebeliões e ataques não destruíram a existência de tal autoridade. Morre Deus porque os homens negam Sua existência? "O tolo disse em seu coração: Não há Deus" (Sl. 52).
 
 
 **O Bispo de Roma sempre foi considerado o cabeça da Igreja?**

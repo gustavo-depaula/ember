@@ -9,7 +9,7 @@
 
 — Somente a Igreja Católica tem o direito de fazer leis regulando os casamentos de pessoas batizadas porque somente a Igreja tem autoridade sobre os sacramentos e sobre matérias sagradas afetando pessoas batizadas.
 
-1. Somente a Igreja tem autoridade sobre matérias holy. A Igreja é a guardiã, a custodiante dos sacramentos, os meios de graça para os homens. Por esta conta, a Igreja deve salvaguardar estes sacramentos.
+1. Somente a Igreja tem autoridade sobre matérias sagradas. A Igreja é a guardiã, a custodiante dos sacramentos, os meios de graça para os homens. Por esta conta, a Igreja deve salvaguardar estes sacramentos.
 
 > Deus atribuiu aos governos seculares o dever de administrar coisas materiais; mas à Sua Igreja deu poder e autoridade sobre matérias espirituais. "Dai portanto a César o que é de César e a Deus o que é de Deus."
 

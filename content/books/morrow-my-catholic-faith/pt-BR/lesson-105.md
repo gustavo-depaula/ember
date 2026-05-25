@@ -22,7 +22,7 @@
 
 > É errado vender seu voto; é vender suas convicções. Pessoas que compram votos não são susceptíveis de usar o cargo que assim podem obter para o bem de qualquer outro senão si mesmos.
 
-2. Cada católico que tem o direito de votar deve exercer aquele direito. Matérias estreitamente conectadas com a vida do povo são o constante objeto de legislação ou debate. Mesmo se seu voto não habilita o bom candidato a vencer, pelo menos diminuirá a margem de sua derrota. Um eleitor católico que dá seu voto a um candidato hostil aos princípios cristãos, ou absten do de votar contribui para o sucesso de tal candidato, tem muito que responder.
+2. Cada católico que tem o direito de votar deve exercer aquele direito. Matérias estreitamente conectadas com a vida do povo são o constante objeto de legislação ou debate. Mesmo se seu voto não habilita o bom candidato a vencer, pelo menos diminuirá a margem de sua derrota. Um eleitor católico que dá seu voto a um candidato hostil aos princípios cristãos, ou abstendo-se de votar contribui para o sucesso de tal candidato, tem muito que responder.
 
 > É dever do eleitor católico votar em candidatos que agirão justamente em questões de moral, e têm os princípios cristãos no coração. Aqueles que não têm o direito de votar devem rezar por um resultado na eleição favorável a homens retos e ao país em geral.
 

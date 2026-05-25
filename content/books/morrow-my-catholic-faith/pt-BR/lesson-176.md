@@ -9,19 +9,19 @@
 
 — Comunidades religiosas podem ser classificadas como ordens ou congregações.
 
-1. Ordens religiosas são aqueles institutos nos quais os membros tomam votos solenes; são principalmente as antigas ordens de monges e freiras. Entre as ordens religiosas para homens estão: Agostinianos Beneditinos Dominicanos Franciscanos Trapistas etc.
+1. Ordens religiosas são aqueles institutos nos quais os membros tomam votos solenes; são principalmente as antigas ordens de monges e freiras. Entre as ordens religiosas para homens estão: Agostinianos, Beneditinos, Dominicanos, Franciscanos, Trapistas, etc.
 
 2. Congregações religiosas são aquelas nas quais os membros tomam apenas votos simples; a maioria das comunidades religiosas é deste tipo. Os Jesuítas após um número de anos em votos simples podem também tomar votos solenes.
 
-> Para homens entre as maiores comunidades estão: Padres do Verbo Divino Jesuítas Passionistas Redentoristas Salesianos Salvatorianos etc. Para mulheres temos as Beneditinas Dominicanas Irmãs Felicianas Irmãs do Coração de Maria Irmãs Missionárias do Sagrado Coração Irmãs de Notre Dame Irmãs da Caridade e Irmãs de São José entre numerosas outras.
+> Para homens entre as maiores comunidades estão: Padres do Verbo Divino, Jesuítas, Passionistas, Redentoristas, Salesianos, Salvatorianos, etc. Para mulheres temos as Beneditinas, Dominicanas, Irmãs Felicianas, Irmãs do Coração de Maria, Irmãs Missionárias do Sagrado Coração, Irmãs de Notre Dame, Irmãs da Caridade e Irmãs de São José, entre numerosas outras.
 
 3. Institutos religiosos podem também ser classificados como clericais ou leigos. As comunidades clericais são aquelas nas quais uma grande proporção dos membros são padres. As comunidades leigas são aquelas com a grande maioria de seus membros não ordenados padres.
 
-> Para homens estas últimas são o que denominamos irmandades como os: Irmãos de La Salle Irmãos Maristas Irmãos de São Francisco Xavier Irmãos do Sagrado Coração.
+> Para homens estas últimas são o que denominamos irmandades como os: Irmãos de La Salle, Irmãos Maristas, Irmãos de São Francisco Xavier, Irmãos do Sagrado Coração.
 
 4. Algumas comunidades seguem o modo de vida de religiosos vivendo juntos sob o governo de superiores e com aprovadas constituições. Mas não estão vinculadas pelos usuais três votos de religiosos e portanto não são propriamente classificadas como instituições religiosas nem são seus membros propriamente chamados "religiosos".
 
-> Entre as mais bem conhecidas de tais sociedades temos os Lazaristas (Missionários de São Vicente de Paulo) Padres Maryknoll Oratorianos de São Filipe Néri e Padres do Preciosíssimo Sangue.
+> Entre as mais bem conhecidas de tais sociedades temos os Lazaristas (Missionários de São Vicente de Paulo), Padres Maryknoll, Oratorianos de São Filipe Néri e Padres do Preciosíssimo Sangue.
 
 
 **Em que tipos de trabalho estão engajadas as comunidades religiosas?**
@@ -30,7 +30,7 @@
 
 1. Membros de ordens contemplativas são estritamente clausurados e devotam sua vida principalmente à oração e penitência. Esta oração não é para o indivíduo apenas mas para a maior honra e glória de Deus o bem-estar do Místico Corpo de Cristo o reclamar de todos ao Redil do Bom Pastor.
 
-> Entre ordens contemplativas podemos mencionar os monges Cartuxos e Cistercienses e as freiras Carmelitas Pobres Coletas e de Adoração Perpétua.
+> Entre ordens contemplativas podemos mencionar os monges Cartuxos e Cistercienses e as freiras Carmelitas, Clarissas Pobres e de Adoração Perpétua.
 
 2. Membros de comunidades semi-contemplativas observam a "vida mista"; sobrepõem a ativa à contemplativa vida. Raramente deixam suas casas e engajam-se em ensino cuidado de penitentes e órfãos etc.
 
@@ -38,7 +38,7 @@
 
 3. As comunidades religiosas de vida ativa são dedicadas ao ensino trabalho hospitalar trabalho missionário etc. Vida ativa não refere-se a mera atividade corporal mas a externas atividades levadas a cabo fora da casa religiosa.
 
-> Assim Cistercienses que cultivam sua terra não perseguem uma ativa vida. A maioria dos institutos religiosos nos Estados Unidos está engajada na ativa vida. Entre eles podemos mencionar: Jesuítas Franciscanos Terciários Lazaristas Passionistas Redentoristas Salesianos e os Irmãos Cristãos.
+> Assim Cistercienses que cultivam sua terra não perseguem uma ativa vida. A maioria dos institutos religiosos nos Estados Unidos está engajada na ativa vida. Entre eles podemos mencionar: Jesuítas, Franciscanos Terciários, Lazaristas, Passionistas, Redentoristas, Salesianos e os Irmãos Cristãos.
 
 
 **Qual comunidade religiosa deve escolher alguém que deseja dedicar sua vida inteiramente a Deus?**
@@ -58,7 +58,7 @@ Todos que se voluntariam podem ser usados: "A seara é realmente abundante mas o
 
 — Pode ajudar a aumentar o número por oração por ajudar sustentar pobres seminaristas ou por consagrar-se no estado sacerdotal ou religioso.
 
-1. Todos devem orar steadfastly e sinceramente por padres e religiosos.
+1. Todos devem orar firmemente e sinceramente por padres e religiosos.
 
 > Cristo disse: "Orai portanto ao Senhor da seara para que envie trabalhadores para Sua seara" (Mat. 9: 38).
 

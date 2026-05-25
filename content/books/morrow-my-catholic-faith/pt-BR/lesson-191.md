@@ -11,7 +11,7 @@
 
 1. Rezando pelas missões em casa e no exterior, e pelos missionários, para que cumpram o mandamento de Cristo: "Ide, pois, e fazei discípulos de todas as nações."
 
-> Devemos incluir em nossas petições particulares de cada dia uma oração fervorosa pelas missões e missionários; eles são a vanguarda de Deus, tornando Cristo conhecido em regiões obscurecidas pelo paganismo. "Rogai, pois, ao Senhor da messe, que envie trabalhadores para a sua messe" (Lc 10, 2).
+> Devemos incluir em nossas petições particulares de cada dia uma oração fervorosa pelas missões e missionários; eles são a vanguarda de Deus, tornando Cristo conhecido em regiões obscurecidas pelo paganismo. "Rogai, pois, ao Senhor da messe, que envie trabalhadores para a sua messe" (Luc. 10: 2).
 
 2. Conhecendo as missões e dando-as a conhecer aos outros.
 

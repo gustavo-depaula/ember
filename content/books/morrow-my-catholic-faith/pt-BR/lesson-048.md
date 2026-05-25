@@ -48,7 +48,7 @@
 
 > "Como o Pai Me enviou, Eu também vos envio" (João 20: 21).
 
-2. Os Apóstolos escolheram homens para assisti-los, impartindo-lhes maiores ou menores poderes. Antes de deixar um lugar, escolhiam um sucessor com plenos poderes (Atos 14: 22).
+2. Os Apóstolos escolheram homens para assisti-los, conferindo-lhes maiores ou menores poderes. Antes de deixar um lugar, escolhiam um sucessor com plenos poderes (Atos 14: 22).
 
 > Aqueles que recebiam apenas uma pequena parte dos poderes dos Apóstolos eram chamados diáconos. Aqueles a quem era dado maior poder eram os sacerdotes. Aqueles nomeados sucessores para governar no lugar dos Apóstolos eram os bispos.
 

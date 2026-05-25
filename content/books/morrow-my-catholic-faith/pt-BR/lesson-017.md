@@ -19,7 +19,7 @@
 
 > Se um cavalo não comeu por um dia, e você coloca feno diante dele, ele comerá, porque seu instinto o move a fazê-lo. Mas um homem faminto pode jejuar por dias, e ainda recusar comer por mais faminto que esteja, se não quiser comer. A diferença entre o livre-arbítrio do homem e o instinto animal é que o homem pode dizer "Não" a si mesmo.
 
-3. A alma e o corpo não são partes solitamente conectadas do homem; estão unidas numa união substancial. A alma não está localizada em nenhum membro particular do corpo, mas é toda e inteira em cada parte.
+3. A alma e o corpo não são partes frouxamente conectadas do homem; estão unidas numa união substancial. A alma não está localizada em nenhum membro particular do corpo, mas é toda e inteira em cada parte.
 
 
 **Esta semelhança com Deus está no corpo ou na alma?**

@@ -42,4 +42,4 @@
 
 2. Ordens menores são precedidas pela tonsura, uma cerimônia de cortar parte do cabelo, para denotar admissão no santo ministério.
 
-> Pela tonsura, um clérigo é incardinado ou designado à diocese à qual pertencerá upon sua ordenação. Não pode mudar para outra diocese sem o consentimento de seu bispo e o bispo da diocese para a qual deseja transferir-se.
+> Pela tonsura, um clérigo é incardinado ou designado à diocese à qual pertencerá aquando de sua ordenação. Não pode mudar para outra diocese sem o consentimento de seu bispo e o bispo da diocese para a qual deseja transferir-se.

@@ -16,7 +16,7 @@ Um desejo impuro é a vontade ou intenção de fazer algo impuro ou incasto. Qua
 > Um desejo impuro, contudo, é um pecado venial se cometido por falta de atenção ou reflexão, por negligência ou lentidão em rejeitar um pensamento, ou dando apenas consentimento parcial. Apenas consentimento pleno e deliberado torna um pecado mortal.
 
 
-Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?
+**Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?**
 
 — Meros pensamentos sobre coisas impuras não são sempre pecaminosos em si mesmos, mas tais pensamentos são perigosos.
 
@@ -42,7 +42,7 @@ Meros pensamentos sobre coisas impuras são sempre pecaminosos em si mesmos?
 
 — Os principais meios de preservar a virtude da castidade são: evitar cuidadosamente todos os perigos desnecessários, buscar a ajuda de Deus através da oração, confissão frequente, Santa Comunhão e assistência à Santa Missa, e ter uma devoção especial à Bem-Aventurada Virgem.
 
-1. Em todas as coisas formai o hábito da temperança. Evitai todos os perigos desnecessários; não tomeis quaisquer chances com a incastidade; não experimenteis. Se puserdes um fósforo na pólvora, certamente explodirá; não há necessidade de tentar ver se não o fará.
+1. Em todas as coisas formai o hábito da temperança. Evitai todos os perigos desnecessários; não correis quaisquer riscos com a impureza; não experimenteis. Se puserdes um fósforo na pólvora, certamente explodirá; não há necessidade de tentar ver se não o fará.
 
 > Evitai a companhia dos que são impuros. Impureza não é uma conquista maravilhosa da qual orgulhar-se: qualquer idiota pode ser impuro. É a alma forte que resiste à tentação e mantém-se limpa. É a pessoa casta que possui força varonil.
 

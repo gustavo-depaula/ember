@@ -189,6 +189,7 @@ Target: pt-BR
 | lesson-103 | ✅ Done | Deveres dos Pais |
 | lesson-104 | ✅ Done | Deveres de Outros Superiores |
 | lesson-105 | ✅ Done | Deveres Cívicos |
+| lesson-106 | ✅ Done | O Quinto Mandamento |
 | lesson-107 | ✅ Done | Cuidando de Nossa Saúde e Vida |
 | lesson-108 | ✅ Done | Mau Exemplo e Escândalo |
 | lesson-109 | ✅ Done | O Sexto e Nono Mandamentos |
@@ -280,4 +281,51 @@ Target: pt-BR
 | lesson-195 | ✅ Done | O Ano Litúrgico |
 
 **Progress:** 195/195 chapters (100%) — TRANSLATION COMPLETE!
+
+---
+
+## Review Pass (cross-language QA vs en-US)
+
+A full per-chapter review against the canonical en-US surfaced ~120 objective
+defects, all word-level (completeness and diacritics were already solid). Fixed:
+
+- **Untranslated English words** left in the Portuguese (~70): e.g. *chiefly,
+  nevertheless, rank/ranks, morals, matters, pursuits, concerning, upon, holy,
+  meant, steadfastly, wedded, delighted, namely, whoever, disclosure, wilfully,
+  remarks, defiance, bloom, status, trouble, thorough, acquainted, likened,
+  concealed, nay, either, chances* → proper Portuguese.
+- **OCR-style non-words / splits**: *Núnuncios→Núncios, dedetário→mexeriqueiro,
+  Membrosia→Filiação, cremas→cremos, tentanto→tentando, coadem→são coerentes,
+  debachada→devassada, completamento→complementação, compositador→compositor,
+  Solemnidade→Solenidade, reinaría→reinaria, persecutava→perseguia, advi→adverti,
+  "compel e"→compele, "excruciante mente"→excruciantemente, "des traje"→desalinho,
+  "absten do"→abstendo-se, "extrava gantes"→extravagantes, detrataem→detraem,
+  desculvá→desculpá*.
+- **Leaked Italian**: *riguardanti* (×2)→referentes/concernentes; *altrimenti*→de
+  outro modo.
+- **Meaning-changing mistranslations**: *Comeram→Cometeram* (ate→committed);
+  *Sodoma→Sodomia* (the sin, not the city); 104 "cuidar de agir injustamente"→
+  "guardar-se de" (reversed sense); 107 "misericordiosamente"→"impiedosamente"
+  (reversed); 142 "coroamento da comunhão"→"grade da comunhão" (communion rail);
+  180 "Mecânicas orações"→"Correntes de oração" (chain prayers); 098 "Louvado seja
+  Deus"→"Graças a Deus" (Deo gratias); 133 "preferir Missa"→"oferecer a Missa
+  publicamente"; 176 "Pobres Coletas"→"Clarissas Pobres" (Poor Clares); 183 the 7
+  "For what do we pray" questions: "Por que oramos"→"Pelo que oramos".
+- **Formatting**: lesson-110 question heading re-bolded; lesson-116 spurious italic
+  removed; lesson-147 *atrição*→***atrição*** (match en-US emphasis); **lesson-189
+  list numbering** normalized from bold `**1.**` to plain `1.` (the only file that
+  diverged from the book-wide convention).
+
+### Scripture citation convention
+Normalized the 3 files that used comma-style refs with 2-letter abbreviations
+— `(Lc 10, 2)`, `(Mc 16,16)`, `(Lucas 2,15)` (lesson-191, lesson-193,
+appendix-church-year) — to the book-wide colon style `(Luc. 10: 2)`,
+`(Marcos 16: 16)`, `(Lucas 2: 15)`.
+
+### Corrections applied to the en-US source (canonical) too
+- lesson-177: two 1949 misprints the pt-BR had silently corrected were fixed in
+  en-US as well — `(Ps. 1: 7)`→`(Ps. 50: 9)` (hyssop/Miserere verse) and
+  `(Job 4: 2)`→`(Job 42: 6)` ("dust and ashes").
+- lesson-073: image/heading order flipped to heading-first to match every other
+  chapter (and the pt-BR).
 

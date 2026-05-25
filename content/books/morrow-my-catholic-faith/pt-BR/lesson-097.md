@@ -60,6 +60,6 @@ Nosso Senhor disse claramente, "Buscai primeiro o reino de Deus e sua justiça, 
 
 > Inveja é o pecado do demônio, o pecado acima de todos que implica malícia, o pecado que leva à calúnia, fofoca, ódio, e outros pecados. O melhor meio de vencer a inveja é fazer todo bem possível ao nosso próximo, especialmente àquele que somos tentados a invejar. Não há razão para inveja; não nos tornará mais ricos, mais populares, mais satisfeitos. Satanás invejou Adão e Eva, tão felizes no Paraíso. Os Fariseus invejaram Jesus Cristo os maravilhosos milagres que operava, e Seu consequente grande seguimento.
 
-4. Escândalo é dado quando ferimos a alma de nosso próximo causando-o ou tentanto-o a pecar. Como a caridade o ajuda para o céu, assim o escândalo o empurra para o inferno.
+4. Escândalo é dado quando ferimos a alma de nosso próximo causando-o ou tentando-o a pecar. Como a caridade o ajuda para o céu, assim o escândalo o empurra para o inferno.
 
 > Nosso Senhor disse que no fim do mundo os anjos "recolherão de seu reino todos os escândalos ... e os lançarão na fornalha de fogo, onde haverá choro e ranger de dentes" (Mat. 13: 41-42). (Veja páginas 218-219).

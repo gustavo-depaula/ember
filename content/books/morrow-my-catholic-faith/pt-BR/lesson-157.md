@@ -85,7 +85,7 @@ Uma pessoa em boa saúde que recita esta oração no estado de graça, após con
 
 > Se refletirmos que uma indulgência plenária ganha com próprias disposições significa que a alma irá direto do leito de morte ao Céu, seríamos mais zelosos em ajudar os moribundos a ganhar uma.
 
-3. Durante a agonia, devemos aspergir a cama e a pessoa moribunda com água benta. Aqueles ao redor devem orar, em vez de agitar-se ou mostrar demasiado excesso de pesar.
+3. Durante a agonia, devemos aspergir a cama e a pessoa moribunda com água benta. Aqueles ao redor devem orar, em vez de agitar-se ou mostrar pesar demasiado.
 
 > A primeira coisa que podemos oferecer imediatamente a Deus em alívio da alma de um ente querido é um ato de resignação à Sua santa vontade. Digamos humildemente, "Senhor, seja feita Tua vontade!" Naqueles lugares onde o belo costume é praticado, o "sino de passagem" deve ser mandado tocar, para que outros cristãos possam orar pela alma partida.
 

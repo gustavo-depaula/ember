@@ -23,7 +23,7 @@ a. Todos os homens têm características corporais comuns.
 
 b. Emocional e intelectualmente todas as raças são as mesmas.
 
-> Pesquisas descobriram uma uniformidade universal em ideias de certo e errado; há um código moral universal, mesmo entre as tribos mais primitivas. Por exemplo, todos os homens consideram errado o assassinato daqueles que não são inimigos, crueldade a crianças, incesto, e irreverência. Se o código moral fosse resultado de medo de represália, por que não era o roubo considerado errado quando cometido contra um inimigo? A ciência quase compel e a convicção da origem da humanidade de apenas um par de ancestrais; a Religião o declara.
+> Pesquisas descobriram uma uniformidade universal em ideias de certo e errado; há um código moral universal, mesmo entre as tribos mais primitivas. Por exemplo, todos os homens consideram errado o assassinato daqueles que não são inimigos, crueldade a crianças, incesto, e irreverência. Se o código moral fosse resultado de medo de represália, por que não era o roubo considerado errado quando cometido contra um inimigo? A ciência quase compele a convicção da origem da humanidade de apenas um par de ancestrais; a Religião o declara.
 
 
 **Qual foi o principal dom concedido a Adão e Eva por Deus?**
@@ -79,4 +79,4 @@ b. Emocional e intelectualmente todas as raças são as mesmas.
 
 — Adão e Eva não obedeceram ao mandamento de Deus, mas comeram do fruto proibido.
 
-> O demônio tentou Eva a comer do fruto, e ela comeu; então deu um pouco a Adão, e ele também comeu (Gên. 3: 1-13). Comeram os pecados de orgulho e desobediência.
+> O demônio tentou Eva a comer do fruto, e ela comeu; então deu um pouco a Adão, e ele também comeu (Gên. 3: 1-13). Cometeram os pecados de orgulho e desobediência.

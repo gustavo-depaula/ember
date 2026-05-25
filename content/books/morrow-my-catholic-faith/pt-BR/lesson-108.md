@@ -2,7 +2,7 @@
 
 ![](../images/lesson-108.webp)
 
-*Cristo disse, concerning escandalizar crianças: "Mas qualquer que escandalizar um destes pequeninos que crêem em Mim, melhor lhe fora que se lhe pendurasse ao pescoço uma mó de atafona, e se lançasse no profundo do mar. Ai do mundo por causa dos escândalos! Porque é necessário que venham escândalos, mas ai daquele por quem vem o escândalo!" (Mat. 18: 6-7).*
+*Cristo disse, a respeito de escandalizar crianças: "Mas qualquer que escandalizar um destes pequeninos que crêem em Mim, melhor lhe fora que se lhe pendurasse ao pescoço uma mó de atafona, e se lançasse no profundo do mar. Ai do mundo por causa dos escândalos! Porque é necessário que venham escândalos, mas ai daquele por quem vem o escândalo!" (Mat. 18: 6-7).*
 
 
 **O que é mau exemplo?**
@@ -36,7 +36,7 @@
 
 > Um escândalo público deve ser reparado de maneira pública. Mesmo então, usualmente não podemos começar a reparar a maior parte do mal que causamos.
 
-Devemos tentar nosso melhor para salvar aqueles que escandalizamos dos efeitos de nosso exemplo. Devemos praticar a virtude contrária, incitá-los por bom exemplo, e rezar por eles. Devemos ter mais cuidado sobre dar escândalo, por causa da dificuldade, nay, quase impossibilidade, de reparar os efeitos de escândalo.
+Devemos tentar nosso melhor para salvar aqueles que escandalizamos dos efeitos de nosso exemplo. Devemos praticar a virtude contrária, incitá-los por bom exemplo, e rezar por eles. Devemos ter mais cuidado sobre dar escândalo, por causa da dificuldade, ou melhor, quase impossibilidade, de reparar os efeitos de escândalo.
 
 
 ## A Cruz

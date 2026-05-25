@@ -2,7 +2,7 @@
 
 ![](../images/lesson-162.webp)
 
-*Sacerdócio é a mais alta dignidade na terra. A dignidade de um padre supera a de imperadores e mesmo de anjos. Nenhum anjo pode converter pão no Corpo de Cristo pelo mero poder de sua palavra; nem pode qualquer anjo perdoar pecado. O padre está entre Deus e o homem. É o representante de Deus, o embaixador de Deus. Portanto qualquer honra que prestamos ao padre, rendermos a Deus Mesmo. São Francisco de Assis disse que se encontrasse um anjo e um padre ao mesmo tempo, saudaria o padre primeiro.*
+*Sacerdócio é a mais alta dignidade na terra. A dignidade de um padre supera a de imperadores e mesmo de anjos. Nenhum anjo pode converter pão no Corpo de Cristo pelo mero poder de sua palavra; nem pode qualquer anjo perdoar pecado. O padre está entre Deus e o homem. É o representante de Deus, o embaixador de Deus. Portanto qualquer honra que prestamos ao padre, rendemos a Deus Mesmo. São Francisco de Assis disse que se encontrasse um anjo e um padre ao mesmo tempo, saudaria o padre primeiro.*
 
 
 **Por que os católicos devem mostrar reverência e honra ao padre?**

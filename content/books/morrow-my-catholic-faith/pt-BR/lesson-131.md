@@ -9,7 +9,7 @@
 
 — A Missa é o sacrifício da Nova Lei no qual Cristo, através do ministério do padre, oferece-Se a Deus de modo não-sangrento sob as aparências de pão e vinho.
 
-> Nos primeiros dias da Igreja, a Missa era chamada a Fração do Pão, a Ceia do Senhor, o Sacrifício, a Eucaristia, a Santa Liturgia, a Solemnidade do Senhor.
+> Nos primeiros dias da Igreja, a Missa era chamada a Fração do Pão, a Ceia do Senhor, o Sacrifício, a Eucaristia, a Santa Liturgia, a Solenidade do Senhor.
 
 1. Os sacrifícios antigos estavam longe de ser perfeitos; ovelhas e bodes eram ofertas indignas a Deus em reconhecimento de Seu poder e glória. Mesmo no tempo da Lei Antiga dos Judeus, Deus havia expressado Seu propósito de instituir um novo sacrifício.
 

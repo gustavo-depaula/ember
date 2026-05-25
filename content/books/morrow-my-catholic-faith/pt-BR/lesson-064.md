@@ -33,7 +33,7 @@
 
 **Há uma Separação de Igreja e Estado?**
 
-— Embora sejam independentes, não são e não deveriam ser separadas. Contudo, sistemas democráticos modernos são baseados no falso princípio da separação de Igreja e Estado. A Igreja condenou este erro porque viola as leis de Deus. Embora esta ideia seja promovida como benéfica aos homens, de fato, leva a governos tirânicos, corrupção de morals e opressão.
+— Embora sejam independentes, não são e não deveriam ser separadas. Contudo, sistemas democráticos modernos são baseados no falso princípio da separação de Igreja e Estado. A Igreja condenou este erro porque viola as leis de Deus. Embora esta ideia seja promovida como benéfica aos homens, de fato, leva a governos tirânicos, corrupção de costumes e opressão.
 
 > "Assim que o Estado recusa dar a Deus o que pertence a Deus, por uma consequência necessária recusa dar aos cidadãos aquilo a que, como homens, têm direito; como, quer seja agradável ou não aceitar, não pode ser negado que os direitos do homem brotam de seu dever para com Deus. Donde segue-se que o Estado, falhando nisto o objeto principal de sua instituição, finalmente torna-se falso a si mesmo negando aquilo que é a razão de sua própria existência." (Leão XIII) "Baseado, como é, no princípio de que o Estado não deve reconhecer culto religioso algum; é em primeiro lugar culpado de grande injustiça a Deus; pois o Criador do homem é também o Fundador das sociedades humanas e preserva sua existência como preserva a nossa. Devemos-Lhe, portanto, não apenas um culto privado, mas um culto público e social para honrá-Lo." (São Pio X).
 

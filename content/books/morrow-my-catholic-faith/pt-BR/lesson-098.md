@@ -15,7 +15,7 @@
 
 1. Nunca devemos pronunciar o nome de Deus sem santo respeito. Devemos frequentemente invocar o nome de Deus com verdadeira e sincera devoção, especialmente no começo e fim de todas as nossas ações importantes, e em tempo de dificuldade.
 
-> "Invoca-Me no dia da angústia; Eu te livrarei e tu Me glorificarás" (Sl. 49: 15). Devemos frequentemente louvar a Deus por Suas perfeições e infinita bondade, e particularmente quando recebemos favores d'Ele. É estranho como frequentemente bons dons nos vêm do Deus Todo-Poderoso, e simplesmente os aceitamos sem uma palavra de agradecimento. Digamos aquele antigo dito de corações verdadeiramente cristãos, *Deo gratias*! Louvado seja Deus! "Bendize, ó minha alma, ao Senhor, e nunca te esqueças de tudo que Ele fez por ti" (Sl. 102: 1).
+> "Invoca-Me no dia da angústia; Eu te livrarei e tu Me glorificarás" (Sl. 49: 15). Devemos frequentemente louvar a Deus por Suas perfeições e infinita bondade, e particularmente quando recebemos favores d'Ele. É estranho como frequentemente bons dons nos vêm do Deus Todo-Poderoso, e simplesmente os aceitamos sem uma palavra de agradecimento. Digamos aquele antigo dito de corações verdadeiramente cristãos, *Deo gratias*! Graças a Deus! "Bendize, ó minha alma, ao Senhor, e nunca te esqueças de tudo que Ele fez por ti" (Sl. 102: 1).
 
 2. O nome de Jesus é o mais poderoso de todos os nomes; através d'Ele podemos obter tudo de que precisamos. "Se pedirdes ao Pai alguma coisa em Meu nome, Ele vo-la dará" (João 16: 23). Devemos prestar reverência ao nome de Jesus inclinando-nos cada vez que o pronunciemos. Devemos especialmente pronunciar o nome de Jesus na hora da morte.
 
@@ -24,7 +24,7 @@
 
 **O que se entende por tomar o nome de Deus em vão?**
 
-— Por tomar o nome de Deus em vã entende-se que o nome de Deus ou o santo nome de Jesus Cristo é usado sem reverência: por exemplo, para expressar surpresa ou ira.
+— Por tomar o nome de Deus em vão entende-se que o nome de Deus ou o santo nome de Jesus Cristo é usado sem reverência: por exemplo, para expressar surpresa ou ira.
 
 > "E não seja usual em tua boca o nome de Deus, nem te mistures com os nomes dos santos, pois não escaparás livre deles" (Ecli. 25: 10).
 
@@ -40,7 +40,7 @@
 
 > Entre os antigos Judeus a palavra para Deus era tão sagrada que mesmo o sumo sacerdote só podia pronunciá-la uma vez por ano, na festa da Expiação, quando entrava na parte mais sagrada do Templo.
 
-4. É pecado tomar o nome de Deus em vã; ordinariamente, é um pecado venial.
+4. É pecado tomar o nome de Deus em vão; ordinariamente, é um pecado venial.
 
 > A Sociedade do Santo Nome visa promover amor e reverência pelo Santo Nome de Deus e Jesus Cristo; suprimir e fazer reparações por blasfêmia, perjúrio, juramentos proibidos, profanação, e qualquer linguagem imprópria. Todo homem deveria ser membro desta Sociedade, que é apenas para homens. Em 1950, a membresia já era 3.500.000: a maioria dos policiais católicos da Cidade de Nova York eram membros fiéis.
 

@@ -82,4 +82,4 @@ Como em toda sociedade bem-regulada, a Igreja precisava de um cabeça visível; 
 
 10. Após sua conversão, São Paulo apresentou-se a Pedro (Gál. 1: 18).
 
-11. Das primeiras igrejas estabelecidas pelos Apóstolos, a Igreja de Roma era a mais alta em rank. Era a Sé de Pedro.
+11. Das primeiras igrejas estabelecidas pelos Apóstolos, a Igreja de Roma era a mais alta em hierarquia. Era a Sé de Pedro.

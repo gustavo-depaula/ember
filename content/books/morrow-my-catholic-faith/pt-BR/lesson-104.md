@@ -36,7 +36,7 @@
 
 2. Oficiais devem ser imparciais. Devem mostrar favor a nenhum, mas tratar todos igualmente, ricos ou pobres, proeminentes ou desconhecidos. "Com Deus, não há acepção de pessoas" (Rom. 2: 11).
 
-> Juízes devem cuidar de agir injustamente, ou de permitir-se ser corrompidos por subornos. Não devem deixar que os ricos e poderosos os induzam a dar julgamento injusto. Aceitação de subornos por oficiais públicos é um pecado contra o sétimo mandamento. "Deus fez o pequeno e o grande, e tem igual cuidado de todos" (Sab. 6: 8).
+> Juízes devem guardar-se de agir injustamente, ou de permitir-se ser corrompidos por subornos. Não devem deixar que os ricos e poderosos os induzam a dar julgamento injusto. Aceitação de subornos por oficiais públicos é um pecado contra o sétimo mandamento. "Deus fez o pequeno e o grande, e tem igual cuidado de todos" (Sab. 6: 8).
 
 3. Oficiais públicos devem particularmente prover para o bem-estar dos pobres e indefesos: os destituídos, os doentes, órfãos, e o grande corpo das classes trabalhadoras.
 

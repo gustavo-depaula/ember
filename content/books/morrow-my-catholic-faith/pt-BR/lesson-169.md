@@ -32,9 +32,9 @@
 
 2. Pode-se melhor julgar o caráter e virtudes de um futuro esposo na igreja e em casa que no piso de salões de baile. O conselho, "Escolhei vosso parceiro no coroamento da comunhão" é muito sadio.
 
-> Uma realizada moça estava noiva para casar com um proeminente jovem. No dia antes do casamento, uma festa foi dada na casa da moça. A conversão voltou-se para religião; o jovem falou com aberto desprezo de todas as crenças, vangloriando-se de ser uma pessoa de "mente aberta" do século 20 e livre de todas "noções medievais" e cerimoniais "inventados por padres".
+> Uma realizada moça estava noiva para casar com um proeminente jovem. No dia antes do casamento, uma festa foi dada na casa da moça. A conversa voltou-se para religião; o jovem falou com aberto desprezo de todas as crenças, vangloriando-se de ser uma pessoa de "mente aberta" do século 20 e livre de todas "noções medievais" e cerimoniais "inventados por padres".
 
-> A moça, chocada além da medida, gentilmente protestou, rogando-lhe não falar de tal modo. Mas ele riu dela, dizendo que significava cada palavra que disse e mais e que ela logo o bastante desaprenderia seu "religioso non-sense".
+> A moça, chocada além da medida, gentilmente protestou, rogando-lhe não falar de tal modo. Mas ele riu dela, dizendo que significava cada palavra que disse e mais e que ela logo o bastante desaprenderia seu "absurdo religioso".
 
 > A moça então disse, "Não posso casar com um homem que não respeita Deus e religião, pois certamente não respeitará sua mulher." Assim o noivado foi quebrado e uma digna moça liberta de uma vida que teria sido uma agonia e um perigo para ela.
 
@@ -59,8 +59,8 @@
 
 3. Durante tanto o namoro quanto o noivado, o casal deve respeitar-se e evitar indevidas familiaridades; isto é uma penhora de uma casta e feliz vida matrimonial. O melhor preservativo da virtude é Deus Mesmo; e assim aqueles preparando-se para casamento devem frequentar os sacramentos da Penitência e Santa Eucaristia.
 
-> Tudo entre um casal noivo deve ser às claras. Devem revelar um ao outro francamente tudo pertencente a seu status financeiro, relações sociais e matérias relacionadas à saúde. Deste modo, previnem futuras querelas e miséria.
+> Tudo entre um casal noivo deve ser às claras. Devem revelar um ao outro francamente tudo pertencente a sua situação financeira, relações sociais e matérias relacionadas à saúde. Deste modo, previnem futuras querelas e miséria.
 
-4. Durante o intervalo entre o noivado e o casamento, o casal deve cuidadosamente considerar o passo que estão prestes a dar e fazer boa preparação para sua vida wedded, por frequentemente implorar a bênção de Deus.
+4. Durante o intervalo entre o noivado e o casamento, o casal deve cuidadosamente considerar o passo que estão prestes a dar e fazer boa preparação para sua vida conjugal, por frequentemente implorar a bênção de Deus.
 
-> Como o noivado não deve ser apressadamente entrado, assim não deve ser rashamente quebrado. Ainda, se após algum tempo qualquer parte torna-se seriamente convencida de que o casamento seria um erro, o noivado deve ser rompido. Respeito humano ou outras considerações não devem ser permitidos jeopardizar futura felicidade.
+> Como o noivado não deve ser apressadamente entrado, assim não deve ser precipitadamente quebrado. Ainda, se após algum tempo qualquer parte torna-se seriamente convencida de que o casamento seria um erro, o noivado deve ser rompido. Respeito humano ou outras considerações não devem ser permitidos comprometer futura felicidade.
