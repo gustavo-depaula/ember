@@ -60,7 +60,7 @@
 
 **O que é a "Salve Rainha?"**
 
-— A Salve Rainha ou *Salve Regina* é uma das mais comuns orações a Maria, composta no ano 100 pelo Bem-Aventurado Hermano.
+— A Salve Rainha ou *Salve Regina* é uma das mais comuns orações a Maria, composta no século XI pelo Bem-Aventurado Hermano.
 
 > São Bernardo adicionou as palavras ao final: "Ó clemente, ó piedosa, ó doce sempre Virgem Maria!"
 
