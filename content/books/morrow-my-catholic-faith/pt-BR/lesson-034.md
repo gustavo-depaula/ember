@@ -59,7 +59,7 @@
 
 > Os Sacerdotes judeus e Fariseus odiavam e perseguiam Jesus porque esperavam que o Messias fosse um rei terreno. Eram tão maus que apesar das provas da divindade de Cristo, não criam que um homem pobre pudesse ser o Messias. Odiavam Jesus; Ele os havia repreendido por seus pecados.
 
-4. Mas Pilatos desejava agradar aos judeus, e mandou açoitar Jesus. Jesus foi amarrado a uma coluna, Suas roupas arrancadas; homens fortes com chicotes, cordas e tiras com espinhos de ferro açoitaram-n'O, e todo o corpo de Nosso Senhor foi uma grande ferida.
+4. Mas Pilatos desejava agradar aos judeus, e mandou açoitar Jesus. Jesus foi amarrado a uma coluna, Suas roupas arrancadas; homens fortes com chicotes, cordas, e tiras com espinhos de ferro açoitaram-n'O, e todo o corpo de Nosso Senhor foi uma grande ferida.
 
 > "E os soldados, trançando uma coroa de espinhos, puseram-na sobre Sua cabeça, e vestiram-n'O com um manto púrpura. E vinham a Ele e diziam: Salve, Rei dos Judeus! e O feriam. Pilatos portanto novamente saiu e disse-lhes: Eis que vo-Lo trago fora, para que saibais que não acho culpa n'Ele. Jesus portanto saiu, usando a coroa de espinhos e o manto púrpura. E disse-lhes: Eis o homem!"
 

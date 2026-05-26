@@ -3,14 +3,14 @@
 
 **Quais são os principais atributos da Igreja Católica?**
 
-— Os principais atributos da Igreja Católica são autoridade, infalibilidade e indefectibilidade.
+— Os principais atributos da Igreja Católica são autoridade, infalibilidade, e indefectibilidade.
 
 > Um atributo é qualquer qualidade ou característica. Virtudes bem como faltas são atributos.
 
 
 **O que se entende pela autoridade da Igreja Católica?**
 
-— Pela autoridade da Igreja Católica entende-se que o Papa e os bispos, como legítimos sucessores dos Apóstolos, têm poder do Próprio Cristo para ensinar, santificar e governar os fiéis em questões espirituais.
+— Pela autoridade da Igreja Católica entende-se que o Papa e os bispos, como legítimos sucessores dos Apóstolos, têm poder do Próprio Cristo para ensinar, santificar, e governar os fiéis em questões espirituais.
 
 > Autoridade é o poder que uma pessoa tem sobre outra, de tal modo que pode exigir obediência justamente. Assim, governantes têm autoridade sobre súditos; pais sobre seus filhos; professores, sobre alunos, etc.
 
@@ -44,7 +44,7 @@
 
 **Como exerce a Igreja sua autoridade de ensinar, santificar e governar os fiéis?**
 
-— A Igreja exerce sua autoridade de ensinar, santificar e governar os fiéis por vários meios, entre eles estando:
+— A Igreja exerce sua autoridade de ensinar, santificar, e governar os fiéis por vários meios, entre eles estando:
 
 1. Ensinando por sermões e por aulas religiosas em escolas e paróquias.
 

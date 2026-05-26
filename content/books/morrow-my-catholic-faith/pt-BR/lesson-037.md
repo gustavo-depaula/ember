@@ -17,7 +17,7 @@
 
 2. Cristo trazia em Seu corpo as marcas das cinco chagas. As qualidades de Seu corpo ressuscitado eram:
 
-> a. Agilidade. Podia ir com a rapidez do pensamento a todos os lugares. b. Subtileza ou espiritualidade. Estava livre de fome, sede, fadiga, e outras necessidades. Podia penetrar substâncias materiais. c. Claridade ou brilho. Brilhava com esplendor. d. Impassibilidade. Era imune à dor, doença e morte.
+> a. Agilidade. Podia ir com a rapidez do pensamento a todos os lugares. b. Subtileza ou espiritualidade. Estava livre de fome, sede, fadiga, e outras necessidades. Podia penetrar substâncias materiais. c. Claridade ou brilho. Brilhava com esplendor. d. Impassibilidade. Era imune à dor, doença, e morte.
 
 3. Somos afortunados em ter hoje para veneração várias relíquias da Paixão.
 
@@ -75,6 +75,6 @@
 
 > "Pois o Filho do Homem há de vir com Seus anjos na glória de Seu Pai e então dará a cada um segundo sua conduta" (Mat. 16:27).
 
-2. O ensino de Cristo mudou a face da terra. Um pobre jovem, ensinando por três anos nos montes e vales da Galileia, e morrendo uma morte vergonhosa, trouxe luz, amor, paz e esperança às vidas dos homens, mesmo os mais humildes.
+2. O ensino de Cristo mudou a face da terra. Um pobre jovem, ensinando por três anos nos montes e vales da Galileia, e morrendo uma morte vergonhosa, trouxe luz, amor, paz, e esperança às vidas dos homens, mesmo os mais humildes.
 
-> Antes de Cristo, o mundo era a morada do pecado e vício, idolatria, poligamia, divórcio e escravidão. Contudo, o mundo hoje, embora reformado pelo Cristianismo, está longe da perfeição. Isto é porque muitos recusam obedecer aos ensinamentos de Cristo. É nosso dever fazer Cristo melhor conhecido e amado, para que todos possam "buscar primeiro o reino de Deus."
+> Antes de Cristo, o mundo era a morada do pecado e vício, idolatria, poligamia, divórcio, e escravidão. Contudo, o mundo hoje, embora reformado pelo Cristianismo, está longe da perfeição. Isto é porque muitos recusam obedecer aos ensinamentos de Cristo. É nosso dever fazer Cristo melhor conhecido e amado, para que todos possam "buscar primeiro o reino de Deus."

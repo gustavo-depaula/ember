@@ -36,7 +36,7 @@ Se nossos corpos ressuscitados não fossem aqueles que tínhamos na terra não s
 
 > Não poderia ser dito então que houve ressurreição, nem que nossos corpos haviam ressuscitado. As palavras de Jó são muito consoladoras na verdade que contêm: "Pois sei que meu Redentor vive, e no último dia ressuscitarei da terra" (Jó 19:25).
 
-2. Durante a vida o corpo está constantemente mudando, vestindo novo crescimento e lançando fora resíduos em osso, músculo e pele. Contudo é sempre o mesmo corpo.
+2. Durante a vida o corpo está constantemente mudando, vestindo novo crescimento e lançando fora resíduos em osso, músculo, e pele. Contudo é sempre o mesmo corpo.
 
 > Assim, será na ressurreição. Quaisquer mudanças que haja não afetarão a mesmice do corpo que temos na terra. Na morte o corpo apenas dorme, aguardando o último dia. Nosso Senhor Mesmo disse que Lázaro e a filha de Jairo estavam dormindo, embora soubesse que estavam mortos.
 

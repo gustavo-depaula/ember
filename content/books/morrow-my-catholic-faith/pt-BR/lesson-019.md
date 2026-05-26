@@ -20,7 +20,7 @@
 
 **O que é a teoria da evolução?**
 
-— Evolução é uma teoria concernente à origem e desenvolvimento de plantas, animais e homem.
+— Evolução é uma teoria concernente à origem e desenvolvimento de plantas, animais, e homem.
 
 1. Evolução química em rochas (geologia) ou nas estrelas (astronomia) deve ser distinguida da evolução biológica. Evolução biológica significa o desenvolvimento da vida a partir da não-vida e das espécies atuais de formas mais simples e antigas.
 

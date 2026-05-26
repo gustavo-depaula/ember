@@ -43,7 +43,7 @@ Todas as três Pessoas são iguais em tudo, iguais em poder e glória. Os atribu
 
 3. O mistério da Santíssima Trindade não é uma contradição. Não dizemos que há três deuses em um Deus, nem que as três Pessoas Divinas são uma Pessoa.
 
-> Dizemos apenas que há três Pessoas em um Deus, isto é, três Pessoas, e uma natureza ou essência. De modo algo semelhante, a alma do homem tem vontade, entendimento e memória, mas é apenas uma alma. Também, o sol tem forma, luz e calor, mas é apenas um sol. Três chamas postas juntas fazem apenas uma chama.
+> Dizemos apenas que há três Pessoas em um Deus, isto é, três Pessoas, e uma natureza ou essência. De modo algo semelhante, a alma do homem tem vontade, entendimento, e memória, mas é apenas uma alma. Também, o sol tem forma, luz, e calor, mas é apenas um sol. Três chamas postas juntas fazem apenas uma chama.
 
 
 **Por que cremos no mistério da Santíssima Trindade?**
@@ -75,4 +75,4 @@ Todas as três Pessoas são iguais em tudo, iguais em poder e glória. Os atribu
 
 2. Todos os sacramentos são administrados em nome da Santíssima Trindade.
 
-> Em nosso leito de morte, a Igreja através do padre nos confortará com as palavras: "Embora tenha pecado, não negou o Pai, o Filho e o Espírito Santo."
+> Em nosso leito de morte, a Igreja através do padre nos confortará com as palavras: "Embora tenha pecado, não negou o Pai, o Filho, e o Espírito Santo."

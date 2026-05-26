@@ -2,18 +2,18 @@
 
 ![](../images/lesson-174.webp)
 
-*Aqueles que seguem os conselhos evangélicos de pobreza, castidade e obediência desistem dos prazeres do mundo para servir e amar a Deus mais plenamente. Põem em prática a ideia por trás destas palavras da Sagrada Escritura: "Que aproveita ao homem se ganhar o mundo inteiro e sofrer a perda de sua própria alma?" Deus dá mais peso aos Conselhos que às riquezas.*
+*Aqueles que seguem os conselhos evangélicos de pobreza, castidade, e obediência desistem dos prazeres do mundo para servir e amar a Deus mais plenamente. Põem em prática a ideia por trás destas palavras da Sagrada Escritura: "Que aproveita ao homem se ganhar o mundo inteiro e sofrer a perda de sua própria alma?" Deus dá mais peso aos Conselhos que às riquezas.*
 
 
 **O que nosso Salvador especialmente recomenda que não é estritamente comandado pela lei de Deus?**
 
-— Nosso Salvador especialmente recomenda a observância dos Conselhos Evangélicos — pobreza voluntária, castidade perpétua e obediência perfeita.
+— Nosso Salvador especialmente recomenda a observância dos Conselhos Evangélicos — pobreza voluntária, castidade perpétua, e obediência perfeita.
 
 1. "Evangélico" aqui significa contido nos Evangelhos; estes conselhos de perfeição são claramente expostos na Sagrada Escritura.
 
 > São chamados conselhos, porque são um convite e não um comando; todos são convidados, mas ninguém é forçado. "Nem todos podem aceitar este ensino; mas àqueles a quem foi dado" (Mat. 19:11).
 
-2. Por meio dos conselhos evangélicos as três principais más tendências do homem — avareza, sensualidade e orgulho — são destruídas, capacitando-o a elevar-se mais livremente a Deus.
+2. Por meio dos conselhos evangélicos as três principais más tendências do homem — avareza, sensualidade, e orgulho — são destruídas, capacitando-o a elevar-se mais livremente a Deus.
 
 > Boas obras são suaves remédios para estas más tendências. Oração cura orgulho; jejum cura sensualidade; e esmola cura avareza. Mas os conselhos evangélicos são um remédio radical para estes três males. Obediência subjuga orgulho; castidade destrói sensualidade; e pobreza apaga avareza.
 

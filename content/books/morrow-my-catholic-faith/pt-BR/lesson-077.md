@@ -15,7 +15,7 @@
 
 > Lembremo-nos de que mesmo enquanto os parentes se reúnem ao redor do leito do falecido, mesmo enquanto seu corpo ainda está quente, o juízo particular é passado e terminado; o julgamento é passado, e a alma foi para sua recompensa ou castigo. Se lembrarmos isto, seremos mais fervorosos em rezar pelos mortos, em ajudar outros a morrer uma morte feliz, de modo que possam encontrar Deus no julgamento sem medo.
 
-2. Jesus Cristo é o Juiz no Juízo Particular. Diante d'Ele cada alma deve estar. A alma estará na terrível presença de Deus o Filho, para dar conta de toda sua vida: de cada pensamento, palavra, ato e omissão.
+2. Jesus Cristo é o Juiz no Juízo Particular. Diante d'Ele cada alma deve estar. A alma estará na terrível presença de Deus o Filho, para dar conta de toda sua vida: de cada pensamento, palavra, ato, e omissão.
 
 > "Nem o Pai julga a alguém, mas todo julgamento deu ao Filho" (João 5:22).
 
@@ -30,7 +30,7 @@
 
 **Quais são as recompensas ou castigos designados para os homens após o juízo particular?**
 
-— As recompensas ou castigos designados para os homens após o juízo particular são céu, purgatório ou inferno.
+— As recompensas ou castigos designados para os homens após o juízo particular são céu, purgatório, ou inferno.
 
 > "Com a medida com que medirdes, vos será medido" (Mat. 7:2). Como amamos a Deus e nosso próximo durante a vida, assim nos será dada a recompensa ou castigo próprio.
 

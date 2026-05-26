@@ -47,7 +47,7 @@
 
 — Algumas tentações vêm dos anjos maus; mas outras tentações vêm de nós mesmos e das pessoas e coisas ao nosso redor.
 
-1. Isto é o que queremos dizer quando dizemos que as tentações nos vêm da carne, do mundo e do demônio.
+1. Isto é o que queremos dizer quando dizemos que as tentações nos vêm da carne, do mundo, e do demônio.
 
 > As más inclinações de nossa natureza fraca e corrompida nos tentam ao pecado. O mundo, com seus desejos pecaminosos e vaidades, nos tenta ao pecado. O demônio anda continuamente nos tentando, fazendo uso tanto de nossa natureza quanto do mundo para seus propósitos malignos.
 
@@ -61,7 +61,7 @@
 
 4. Quanto mais forte a tentação, maiores as graças que Deus dá para sua conquista.
 
-> A conquista pelos santos de tentações perversas os tornou maiores santos. Cristo mesmo foi tentado pelo demônio, à gula, à avareza e ao orgulho. Ele quis mostrar-nos que resistindo, podemos elevar-nos a maior amor de Deus. Homens bons que se preocupam porque tantas tentações os assaltam devem lembrar que as formigas rapidamente se ajuntam sobre um pote de mel; o demônio esforça-se para pegar os bons, porque já tem certeza dos maus.
+> A conquista pelos santos de tentações perversas os tornou maiores santos. Cristo mesmo foi tentado pelo demônio, à gula, à avareza, e ao orgulho. Ele quis mostrar-nos que resistindo, podemos elevar-nos a maior amor de Deus. Homens bons que se preocupam porque tantas tentações os assaltam devem lembrar que as formigas rapidamente se ajuntam sobre um pote de mel; o demônio esforça-se para pegar os bons, porque já tem certeza dos maus.
 
 
 **Podemos sempre resistir às tentações?**

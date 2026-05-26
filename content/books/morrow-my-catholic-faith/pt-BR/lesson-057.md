@@ -11,7 +11,7 @@
 
 1. O poder do Papa estende-se sobre cada igreja singular, cada bispo e pastor singular, cada um dos fiéis.
 
-> Pode nomear e depor bispos, convocar concílios, fazer e desfazer leis, enviar missionários, conferir distinções, privilégios e dispensas, e reservar pecados ao seu próprio tribunal.
+> Pode nomear e depor bispos, convocar concílios, fazer e desfazer leis, enviar missionários, conferir distinções, privilégios, e dispensas, e reservar pecados ao seu próprio tribunal.
 
 2. O Papa é o juiz supremo; a ele pertence o último apelo em todos os casos.
 
@@ -57,7 +57,7 @@
 
 3. Assume um novo nome sobre sua eleição, como São Pedro recebeu um novo nome por Nosso Senhor. Desde o décimo século, tem sido o costume escolher o nome dentre aqueles de Papas anteriores, sendo o de São Pedro excetuado por reverência.
 
-> Usa a tiara, uma coroa tripla, o símbolo de sua preeminência no tríplice ofício de Mestre, Sacerdote e Pastor. Usa uma batina de seda branca, usa sapatos de seda branca, e um báculo encimado por uma cruz. Emite medalhas, confere cavalaria. Envia embaixadores. Tem um estandarte dourado-e-branco.
+> Usa a tiara, uma coroa tripla, o símbolo de sua preeminência no tríplice ofício de Mestre, Sacerdote, e Pastor. Usa uma batina de seda branca, usa sapatos de seda branca, e um báculo encimado por uma cruz. Emite medalhas, confere cavalaria. Envia embaixadores. Tem um estandarte dourado-e-branco.
 
 ## Consistórios
 

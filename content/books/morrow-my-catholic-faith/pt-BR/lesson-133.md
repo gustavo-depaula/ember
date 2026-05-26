@@ -2,7 +2,7 @@
 
 ![](../images/lesson-133.webp)
 
-*A Santa Missa pode ser oferecida a Deus com uma intenção quádrupla: por via de adoração, ação de graças, petição e expiação. É para o bem-estar espiritual e temporal dos vivos, e para o eterno repouso dos mortos. Cada dia do ano, a Santa Missa é oferecida, exceto Sexta-Feira Santa e Sábado Santo.*
+*A Santa Missa pode ser oferecida a Deus com uma intenção quádrupla: por via de adoração, ação de graças, petição, e expiação. É para o bem-estar espiritual e temporal dos vivos, e para o eterno repouso dos mortos. Cada dia do ano, a Santa Missa é oferecida, exceto Sexta-Feira Santa e Sábado Santo.*
 
 
 **Quais são os propósitos para os quais a Missa é oferecida?**

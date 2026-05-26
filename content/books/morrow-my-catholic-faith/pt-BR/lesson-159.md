@@ -28,7 +28,7 @@
 
 **Quais são alguns dos requisitos para um homem receber a Ordem dignamente?**
 
-— Alguns dos requisitos são: um excelente caráter, a idade e instrução prescritas, a intenção de dedicar sua vida ao sagrado ministério e um estado de graça.
+— Alguns dos requisitos são: um excelente caráter, a idade e instrução prescritas, a intenção de dedicar sua vida ao sagrado ministério, e um estado de graça.
 
 > Não é necessário, para tornar-se um padre digno, receber um chamado direto de Deus; é provável que daqueles que estão agora no sacerdócio, nem um teve uma aparição visível para informá-lo de sua vocação ao sacerdócio. Enquanto sentirdes uma atração espiritual à vida de um padre, se admirardes padres heróicos e santos, então isto é suficiente chamado, se juntado às outras qualificações para entrar no sacerdócio.
 
@@ -57,7 +57,7 @@
 
 1. O candidato deve ser chamado à Ordem por seu Bispo. Antes da ordenação, o bispo deve estar satisfeito que o aplicante tem a virtude e aptidão física e mental requeridas de um padre, e que está livre de qualquer irregularidade canônica.
 
-> Pelo Batismo todos os cristãos são dotados do "sacerdócio" espiritual dos leigos, pelo qual têm a obrigação de oferecer a Deus sacrifícios espirituais de orações e mortificação e atos de fé, esperança e caridade. Mas apenas aqueles homens que recebem o Sacramento da Ordem são padres, ministros de Deus, no pleno sentido da palavra.
+> Pelo Batismo todos os cristãos são dotados do "sacerdócio" espiritual dos leigos, pelo qual têm a obrigação de oferecer a Deus sacrifícios espirituais de orações e mortificação e atos de fé, esperança, e caridade. Mas apenas aqueles homens que recebem o Sacramento da Ordem são padres, ministros de Deus, no pleno sentido da palavra.
 
 2. O sacramento da Ordem é administrado por meio de cerimônias que variam com o tipo de ordens conferidas. Consiste no sinal da imposição de mãos pelo bispo, juntamente com as palavras acompanhantes de ordenação, variando com a ordem sendo conferida.
 

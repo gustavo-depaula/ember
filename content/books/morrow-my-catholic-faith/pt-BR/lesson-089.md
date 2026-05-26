@@ -5,9 +5,9 @@
 *1. Dar esmola a um mendigo é uma obra de misericórdia corporal. Deus considera a caridade dada aos pobres como um ato de caridade para consigo Mesmo. Jesus Cristo Mesmo disse isto (Mat. 25:40). 2. Quando ensinamos catecismo estamos realizando uma obra de misericórdia espiritual. Muitos podem fazer esta obra hoje, se apenas quisessem. Numerosas pessoas, mesmo de idade avançada, não conhecem o essencial de sua religião, por falta de alguém que lhes ensine.*
 
 
-**Que devemos fazer para amar a Deus, ao próximo e a nós mesmos?**
+**Que devemos fazer para amar a Deus, ao próximo, e a nós mesmos?**
 
-— Para amar a Deus, ao próximo e a nós mesmos, devemos guardar os mandamentos de Deus e da Igreja, e praticar as obras de misericórdia espirituais e corporais.
+— Para amar a Deus, ao próximo, e a nós mesmos, devemos guardar os mandamentos de Deus e da Igreja, e praticar as obras de misericórdia espirituais e corporais.
 
 > Obras de misericórdia espirituais são aquelas que aliviam necessidades espirituais de nosso próximo. Obras de misericórdia corporais são aquelas que aliviam necessidades corporais ou materiais de nosso próximo. "Portanto, todas as coisas que quereis que os homens vos façam, assim também fazei vós a eles" (Mat. 7:12).
 

@@ -7,7 +7,7 @@
 
 **Por que o padre nos dá uma penitência após a confissão?**
 
-— O padre nos dá uma penitência após a confissão, para que possamos fazer alguma expiação a Deus por nossos pecados, receber ajuda para evitá-los no futuro e fazer alguma satisfação pela punição temporal devida a eles.
+— O padre nos dá uma penitência após a confissão, para que possamos fazer alguma expiação a Deus por nossos pecados, receber ajuda para evitá-los no futuro, e fazer alguma satisfação pela punição temporal devida a eles.
 
 1. A penitência é satisfação pelo pecado, algum trabalho penitencial imposto pelo padre como uma reparação a Deus pela ofensa oferecida a Ele pelo pecado.
 
@@ -62,7 +62,7 @@
 
 **Quais são os principais meios de satisfazer a dívida de nossa punição temporal, além da penitência imposta após a confissão?**
 
-— São: oração, assistir à Missa, jejum, esmola, obras de misericórdia, a paciência nos sofrimentos e indulgências.
+— São: oração, assistir à Missa, jejum, esmola, obras de misericórdia, a paciência nos sofrimentos, e indulgências.
 
 > "Mas Zaqueu levantou-se e disse ao Senhor: 'Eis, Senhor, dou a metade de meus bens aos pobres e, se defraudei alguém de alguma coisa, restituo quatro vezes mais'" (Lucas 19:8-9).
 

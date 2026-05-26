@@ -30,7 +30,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 **Quais são as três virtudes teologais?**
 
-— As três virtudes teologais são fé, esperança e caridade.
+— As três virtudes teologais são fé, esperança, e caridade.
 
 1. Estas virtudes são chamadas teologais, do termo grego *Theos* (significando Deus), porque seu objeto é Deus.
 
@@ -38,7 +38,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 2. Aquele que possui estas três virtudes tem todas as outras virtudes em algum grau. Sem elas, não pode possuir qualquer outra virtude sobrenatural nem alcançar o céu.
 
-> Devemos fazer atos destas virtudes todos os dias. Podemos dizer muito brevemente: "Ó meu Deus, creio em Vós, espero em Vós, amo-Vos. A Vós seja honra, louvor e glória para sempre."
+> Devemos fazer atos destas virtudes todos os dias. Podemos dizer muito brevemente: "Ó meu Deus, creio em Vós, espero em Vós, amo-Vos. A Vós seja honra, louvor, e glória para sempre."
 
 
 **O que é fé?**

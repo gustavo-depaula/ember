@@ -30,7 +30,7 @@
 
 **Que qualidades nosso propósito de emenda deve ter?**
 
-— Nosso propósito de emenda deve ser firme, eficaz e universal.
+— Nosso propósito de emenda deve ser firme, eficaz, e universal.
 
 1. Nosso propósito é firme quando determinamos evitar o pecado a qualquer custo. Então não hesitamos para lá e para cá, mas com decisão cortamo-nos das amarras que anteriormente nos ligavam ao pecado e suas ocasiões.
 

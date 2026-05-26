@@ -40,7 +40,7 @@
 
 > "Não se ponha o sol sobre vossa ira" (Ef. 4:26). Nunca temos certeza de despertar novamente do sono, portanto estejamos sempre em paz de consciência estando em paz com todos.
 
-4. Quando somos seriamente lesados, como em nossa propriedade, honra ou reputação, não nos é proibido reclamar nossos justos direitos perante autoridade legítima. Frequentemente a justiça requer que façamos isto, a fim de prevenir maiores abusos.
+4. Quando somos seriamente lesados, como em nossa propriedade, honra, ou reputação, não nos é proibido reclamar nossos justos direitos perante autoridade legítima. Frequentemente a justiça requer que façamos isto, a fim de prevenir maiores abusos.
 
 > O perdão de nosso inimigo não requer associação íntima. É suficiente que o tratemos com civilidade e o ajudemos se estiver em necessidade.
 
@@ -61,7 +61,7 @@
 
 > Aquele que odeia a Deus nunca pode fazer um amigo verdadeiro e bom. Relações baseadas em prazer ou ganho egoísta, ou algum propósito mau, não podem ser chamadas amizade. Tais relações, diferentemente da verdadeira amizade, desaparecem ou tornam-se amargas com o advento do infortúnio.
 
-2. Para um modelo de verdadeira amizade devemos tomar a amizade de Nosso Senhor por Seus apóstolos, e especialmente por Seus apóstolos favoritos, João, Pedro e Tiago. Outros amigos particulares de Jesus eram Lázaro e suas irmãs Maria e Marta.
+2. Para um modelo de verdadeira amizade devemos tomar a amizade de Nosso Senhor por Seus apóstolos, e especialmente por Seus apóstolos favoritos, João, Pedro, e Tiago. Outros amigos particulares de Jesus eram Lázaro e suas irmãs Maria e Marta.
 
 > Um sinal de verdadeira amizade é o apoio mútuo que cada um dá ao outro, a confiança que cada um deposita no outro, a correção bondosa que cada um se sente livre para dar ao outro. Por exemplo, Cristo costumava corrigir Seus queridos amigos, apontando-lhes faltas que precisavam de correção para seu melhoramento.
 

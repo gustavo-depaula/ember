@@ -24,7 +24,7 @@
 
 **Que proíbe o sexto mandamento?**
 
-— O sexto mandamento proíbe toda impureza e imodéstia em palavras, olhares e ações, seja sozinho ou com outros.
+— O sexto mandamento proíbe toda impureza e imodéstia em palavras, olhares, e ações, seja sozinho ou com outros.
 
 > Para distinguir entre as virtudes de "pureza" e "modéstia," digamos que pureza regula a expressão dos direitos dos casados e os exclui fora do estado matrimonial; enquanto modéstia é uma forma de temperança que inclina um a abster-se do que pode levar ao prazer ilícito.
 
@@ -57,7 +57,7 @@
 
 > Um beijo é uma demonstração de afeição, e não há nada intrinsecamente errado com ele; mas torna-se pecaminoso quando usado de tal maneira quanto a provocar as paixões. Isto é verdadeiro também de outras demonstrações, como abraçar, etc. Familiaridade indevida desgasta a delicadeza das moças, e o instinto protetor e galante dos rapazes.
 
-4. Livros, revistas e jornais imorais. Muitos estão em traje atraente, mas acendem as paixões e fazem mal.
+4. Livros, revistas, e jornais imorais. Muitos estão em traje atraente, mas acendem as paixões e fazem mal.
 
 > Hoje temos a Organização Nacional para Literatura Decente, e podemos ser guiados por seu conselho.
 

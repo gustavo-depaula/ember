@@ -27,7 +27,7 @@
 
 > "Meu filho, em tua doença não te negligencies, mas ora ao Senhor e Ele te curará" (Eclo. 38:9).
 
-5. Podemos ajudar uma pessoa doente cuidando e consolando-a. Cada dia devemos fazer com ela e por ela atos de fé, esperança e caridade. Acima de tudo, devemos ajudá-la a sentir absoluta resignação à vontade de Deus.
+5. Podemos ajudar uma pessoa doente cuidando e consolando-a. Cada dia devemos fazer com ela e por ela atos de fé, esperança, e caridade. Acima de tudo, devemos ajudá-la a sentir absoluta resignação à vontade de Deus.
 
 > É um erro tentar ajudar uma pessoa perigosamente doente conversando sobre tópicos mundanos ou contando fofocas, ou oferecendo falsas esperanças de recuperação.
 

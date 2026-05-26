@@ -14,7 +14,7 @@
 
 — Trabalho servil é aquele que requer trabalho de corpo antes que de mente.
 
-1. Trabalho servil é aquele ordinariamente realizado por trabalhadores. Trabalho no qual a mente tem a maior parte, como ler, escrever, ensinar, desenhar, estudar e prática de música não é servil, e não é proibido.
+1. Trabalho servil é aquele ordinariamente realizado por trabalhadores. Trabalho no qual a mente tem a maior parte, como ler, escrever, ensinar, desenhar, estudar, e prática de música não é servil, e não é proibido.
 
 > Trabalho servil realizado no Domingo não é considerado um pecado grave a menos que seja continuado além de duas horas, ou se torne causa de escândalo ou mau exemplo.
 
@@ -35,7 +35,7 @@
 
 > Numa paróquia onde as mulheres estão todas ocupadas durante a semana, e podem encontrar-se para suas reuniões da sociedade do altar apenas aos Domingos, seria permitido a elas costurar ou consertar paramentos para a igreja.
 
-2. Trabalho de necessidade diária como cozinhar, limpar e varrer, e compra e venda de alimento necessário pode ser realizado mesmo no Domingo. Costurar não é permitido, pois não é de necessidade. Trabalho servil quando necessário para o sustento de alguém, para o bem comum, ou para prevenir séria perda financeira, é permitido no Domingo.
+2. Trabalho de necessidade diária como cozinhar, limpar, e varrer, e compra e venda de alimento necessário pode ser realizado mesmo no Domingo. Costurar não é permitido, pois não é de necessidade. Trabalho servil quando necessário para o sustento de alguém, para o bem comum, ou para prevenir séria perda financeira, é permitido no Domingo.
 
 > Agricultores podem cuidar de seu gado e animais domésticos, e até colher cultivos que de outro modo poderiam estragar. Nosso Senhor não deseja que o homem sofra por causa do Domingo, pois Ele diz: "O Sábado foi feito para o homem, e não o homem para o Sábado" (Mar. 2:27).
 
@@ -60,7 +60,7 @@
 
 > Um exemplo marcante de tais entretenimentos é a dança de noite inteira da véspera de Ano Novo tão na moda nestes dias. Pessoas vão a bailes e farra em diferentes variedades de traje e desalinho, com pintura, pó, e todos os tipos de decorações mundanas em suas pessoas. Então aqueles que sentem uma pontada de consciência saem para um intermédio de Missa, para retornar talvez ao baile, ou ir para casa dormir todo o dia de Ano Novo, a festa da Circuncisão, um dia santo de obrigação! Que qualquer homem razoável diga se este tipo de diversão está em consonância com o mandamento de santificar o dia do Senhor.
 
-3. Algumas pessoas parecem tirar vantagem do Domingo para indulgar mais livremente em passatempos inúteis ou pecaminosos. É um escândalo ver pessoas ocupadas em comer excessivamente, beber, dançar e vaidade no Domingo, de todos os dias. É um abuso de uma instituição sagrada: o Dia do Senhor. "O reino de Deus não consiste em comida e bebida" (Rom. 14:17).
+3. Algumas pessoas parecem tirar vantagem do Domingo para indulgar mais livremente em passatempos inúteis ou pecaminosos. É um escândalo ver pessoas ocupadas em comer excessivamente, beber, dançar, e vaidade no Domingo, de todos os dias. É um abuso de uma instituição sagrada: o Dia do Senhor. "O reino de Deus não consiste em comida e bebida" (Rom. 14:17).
 
 > Para muitos, o dia do Senhor e dias santos não são mais que dias de divertimento. O que era destinado como um acompanhamento torna-se o tema principal. Não infrequentemente, o Domingo é tomado como um dia favorito para jogos de azar, beber, e outros vícios. Então de fato o dia de Deus é profanado, e Deus roubado da honra que Lhe é devida.
 

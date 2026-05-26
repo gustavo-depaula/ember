@@ -49,7 +49,7 @@ Para falar infalivelmente, o Papa deve falar *ex-cathedra*, ou oficialmente, sob
 
 > No ano 50, os Apóstolos realizaram o primeiro Concílio Geral em Jerusalém. Suas decisões foram proclamadas como vindo de Deus, o decreto final começando com estas palavras: "Pois o Espírito Santo e nós decidimos não impor-vos maior peso" (Atos 15:28).
 
-2. Sobre um Concílio Geral, o Papa ou seu legado preside; um número representativo de bispos e outros com direito a voto, como cardeais, abades e generais de certas ordens religiosas, deve estar presente. Após confirmação pelo Papa, os decretos de um Concílio Geral são obrigatórios para todos os Cristãos.
+2. Sobre um Concílio Geral, o Papa ou seu legado preside; um número representativo de bispos e outros com direito a voto, como cardeais, abades, e generais de certas ordens religiosas, deve estar presente. Após confirmação pelo Papa, os decretos de um Concílio Geral são obrigatórios para todos os Cristãos.
 
 > Deve ser entendido que os decretos de um Concílio Geral não têm autoridade obrigatória até confirmados pelo Papa. Não há apelo do Papa a um Concílio Geral.
 

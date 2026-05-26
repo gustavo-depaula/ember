@@ -30,7 +30,7 @@
 
 1. Para o Crisma, é requerido um conhecimento das principais verdades e deveres de nossa religião. Isto é por que, se uma pessoa a ser crismada atingiu a idade da razão, é examinada quanto a estas verdades quando vai à confissão antes do Crisma.
 
-> Os Mandamentos, orações comuns e o Credo dos Apóstolos são a base de qualquer exame em religião; qualquer católico que possa explicar claramente os fundamentos dos doze artigos do Credo dos Apóstolos conhece sua fé suficientemente, para o Crisma.
+> Os Mandamentos, orações comuns, e o Credo dos Apóstolos são a base de qualquer exame em religião; qualquer católico que possa explicar claramente os fundamentos dos doze artigos do Credo dos Apóstolos conhece sua fé suficientemente, para o Crisma.
 
 2. Crisma é um sacramento dos vivos. Portanto, quando alguém que atingiu a idade da razão deve ser crismado, deve primeiro ir à confissão se carregado com pecado mortal, para estar no estado de graça.
 

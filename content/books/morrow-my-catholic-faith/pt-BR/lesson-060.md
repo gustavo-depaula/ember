@@ -7,7 +7,7 @@
 
 **Qual jurisdição tem um bispo?**
 
-— Um bispo governa sobre aquela parte da Igreja, um território organizado chamado bispado, diocese ou sé, atribuída a ele pelo Papa.
+— Um bispo governa sobre aquela parte da Igreja, um território organizado chamado bispado, diocese, ou sé, atribuída a ele pelo Papa.
 
 > A palavra "bispo" é uma tradução do grego *episcopos*, que significa "supervisor," um termo primeiro aplicado durante os tempos apostólicos. A Tito São Paulo escreveu: "Por esta razão te deixei em Creta, para que ponhas em ordem o que falta e designes presbíteros em cada cidade" (Tito 1:5).
 
@@ -33,7 +33,7 @@ Ao governar sua diocese, é assistido por um número de "cônegos", ou por consu
 
 5. Um Bispo ou Arcebispo titular é um que ostenta o título de uma diocese, mas não tem jurisdição sobre ela. Núncios, delegados apostólicos, bispos coadjutores e auxiliares, e vigários apostólicos são geralmente titulares.
 
-> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao grau de bispos, e dado trabalho especial.
+> Bispos e arcebispos titulares não têm sés atuais; são dados os títulos de certas sés que previamente existiram, mas que desde então desapareceram na reorganização de jurisdições, ou por causa das invasões do Maometanismo, heresia, ou paganismo. Os nomes das sés são mantidos intactos, e concedidos àqueles a quem a Santa Sé deseja elevar ao grau de bispos, e dado trabalho especial.
 
 6. Um Arcebispo ou Metropolitano é um bispo que tem certos poderes de jurisdição concedidos pelo Papa sobre dioceses vizinhas compondo sua província.
 
@@ -52,7 +52,7 @@ Ao governar sua diocese, é assistido por um número de "cônegos", ou por consu
 
 > Um vigário forâneo (chamado também decano urbano e rural) é um pároco tendo poder supervisório em nome do bispo sobre paróquias vizinhas. Um vigário-geral é o chefe entre os oficiais de uma diocese. Párocos de grandes distritos têm sacerdotes ajudando-os, chamados vigários ou assistentes.
 
-3. Os deveres dos párocos são muitos, variados e de grande responsabilidade. Como todos os sacerdotes, estão comprometidos ao celibato vitalício. Diariamente, devem recitar o Breviário, o livro dos sacerdotes, que não pode ser lido em menos de uma hora de tempo.
+3. Os deveres dos párocos são muitos, variados, e de grande responsabilidade. Como todos os sacerdotes, estão comprometidos ao celibato vitalício. Diariamente, devem recitar o Breviário, o livro dos sacerdotes, que não pode ser lido em menos de uma hora de tempo.
 
 > Por conta destas pesadas responsabilidades, todos os Católicos têm a obrigação de rezar por seus sacerdotes, e ajudá-los tanto quanto possível, especialmente para que possam continuar no amor de Deus, e ser iluminados pelo Espírito Santo.
 

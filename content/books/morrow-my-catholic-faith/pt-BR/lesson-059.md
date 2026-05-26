@@ -20,11 +20,11 @@
 
 **Como os membros da hierarquia diferem em seu poder de ordens?**
 
-— Os membros da hierarquia dividem-se em três classes com diferente poder de ordens: diáconos, sacerdotes e bispos.
+— Os membros da hierarquia dividem-se em três classes com diferente poder de ordens: diáconos, sacerdotes, e bispos.
 
-> Esta ordem de grau e poder tem estado em vigor na Igreja desde o tempo dos Apóstolos. Estas três classes foram prefiguradas no sumo sacerdote, sacerdotes e levitas da Antiga Lei. Também tiveram contrapartes em Nosso Senhor, os Apóstolos e os discípulos. Nosso Senhor deu plenos poderes aos doze Apóstolos, mas apenas poder limitado aos discípulos.
+> Esta ordem de grau e poder tem estado em vigor na Igreja desde o tempo dos Apóstolos. Estas três classes foram prefiguradas no sumo sacerdote, sacerdotes, e levitas da Antiga Lei. Também tiveram contrapartes em Nosso Senhor, os Apóstolos, e os discípulos. Nosso Senhor deu plenos poderes aos doze Apóstolos, mas apenas poder limitado aos discípulos.
 
-1. Diáconos podem batizar, pregar e dar a Santa Comunhão.
+1. Diáconos podem batizar, pregar, e dar a Santa Comunhão.
 
 > Os Apóstolos ordenaram os primeiros diáconos. Os diáconos foram nomeados pelos Apóstolos para distribuir esmolas e foram consagrados pela imposição das mãos acompanhada de orações (Atos 6:6).
 
@@ -34,12 +34,12 @@
 
 3. Bispos têm pleno poder de ordens; são os sucessores dos Apóstolos. Um bispo administra todos os sacramentos; só ele administra as Ordens Sagradas. Consagra óleos santos, igrejas, cálices, etc.
 
-> Arcebispos, primazes, patriarcas e até o Próprio Papa não têm poder de ordens mais pleno que um bispo de uma diocese missionária.
+> Arcebispos, primazes, patriarcas, e até o Próprio Papa não têm poder de ordens mais pleno que um bispo de uma diocese missionária.
 
 
 **Como os membros da hierarquia diferem no poder de jurisdição?**
 
-— Os membros da hierarquia dividem-se em muitos graus segundo o poder de jurisdição, sendo os principais graus aqueles de Papa, bispos e párocos.
+— Os membros da hierarquia dividem-se em muitos graus segundo o poder de jurisdição, sendo os principais graus aqueles de Papa, bispos, e párocos.
 
 > Estas diferenças de grau e poder são necessárias para o próprio governo da Igreja assim como há diferenças de grau e poder no governo civil. Sem elas, a Igreja seria uma sociedade sem organização.
 
@@ -51,7 +51,7 @@
 
 > Os cardeais formam as várias congregações ou comitês na corte Papal, como as Congregações dos Religiosos, dos Ritos, dos Sacramentos, etc. No passado, muitos cardeais apenas tinham as ordens de diácono. Os cardeais são distinguidos por um chapéu vermelho e manto, como sinal de que serão leais ao Papa ao custo de seu sangue. Um cardeal é tratado "Vossa Eminência."
 
-3. Núncios, internúncios, legados e delegados apostólicos são representantes ou embaixadores do Papa a diferentes países, cortes ou ocasiões.
+3. Núncios, internúncios, legados, e delegados apostólicos são representantes ou embaixadores do Papa a diferentes países, cortes, ou ocasiões.
 
 > Representantes menores da Santa Sé, enviados para alguns propósitos especiais a diferentes lugares, são denominados Visitadores Apostólicos. Em alguns lugares há Delegados Apostólicos. Além dos poderes ordinários que tem como Delegado Apostólico, a Santa Sé delegou-lhe poderes extraordinários.
 
@@ -59,11 +59,11 @@
 
 > Um patriarca ordena todos os bispos de seu patriarcado, convoca sínodos, legisla sobre jejum e abstinência, recepção dos sacramentos, liturgia e ritual, e outras observâncias. No presente há apenas cinco patriarcas maiores ou Patriarcas Maiores; aqueles de Roma, Jerusalém, Constantinopla, Antioquia e Alexandria. O título "Patriarca" é contudo dado como um título honorário a arcebispos de certos lugares.
 
-5. Arcebispos, bispos e vigários apostólicos possuem jurisdições variadas. Governam sobre arquidioceses, dioceses, vicariatos.
+5. Arcebispos, bispos, e vigários apostólicos possuem jurisdições variadas. Governam sobre arquidioceses, dioceses, vicariatos.
 
 > Um arcebispo e bispo têm direito a "Muito Reverendo," e formalmente tratados "Vossa Excelência." O termo Primaz é agora apenas um título honorário; antigamente um Primaz exercia jurisdição sobre países inteiros ou várias províncias.
 
-Ordinariamente um abade é o superior de uma abadia de Beneditinos, Cistercienses ou outros monges. É eleito para a vida, e tem autoridade completa na abadia de acordo com as regras de sua ordem.
+Ordinariamente um abade é o superior de uma abadia de Beneditinos, Cistercienses, ou outros monges. É eleito para a vida, e tem autoridade completa na abadia de acordo com as regras de sua ordem.
 
 > Hoje o título "abade" é também concedido como sinal de honra; o benefício é alguma fundação extinta.
 

@@ -47,7 +47,7 @@
 
 > Com estas palavras da Santíssima Virgem, Jesus Cristo tornou-Se homem em seu ventre, e a encarnação foi realizada.
 
-3. O mistério da Encarnação é comemorado diariamente pelo Angelus, uma oração dita pelos Católicos de manhã, ao meio-dia e à noite, ao tocar do sino do Angelus.
+3. O mistério da Encarnação é comemorado diariamente pelo Angelus, uma oração dita pelos Católicos de manhã, ao meio-dia, e à noite, ao tocar do sino do Angelus.
 
 > O sino do Angelus é tocado de modo particular: no versículo, é soado três vezes: segue-se uma pausa enquanto a Ave-Maria é recitada. "Este procedimento é repetido três vezes para os três versículos e três Ave-Marias. Então segue o toque contínuo enquanto a Oração é dita." Durante o tempo pascal, a oração Regina Coeli (Rainha do Céu) é substituída pelo Angelus. Aqueles que não sabem estas orações de cor, ou que não podem ler, podem dizer cinco Ave-Marias ao invés.
 

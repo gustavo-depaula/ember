@@ -37,7 +37,7 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 **O que é a Igreja?**
 
-— A Igreja é a congregação de todas as pessoas batizadas unidas na mesma verdadeira fé, no mesmo sacrifício e nos mesmos sacramentos, sob a autoridade do Soberano Pontífice e dos bispos em comunhão com ele.
+— A Igreja é a congregação de todas as pessoas batizadas unidas na mesma verdadeira fé, no mesmo sacrifício, e nos mesmos sacramentos, sob a autoridade do Soberano Pontífice e dos bispos em comunhão com ele.
 
 1. Mesmo considerando-a apenas como uma sociedade visível, a Igreja é um corpo religioso perfeito.
 
@@ -52,9 +52,9 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 — A Igreja é capacitada a levar os homens à salvação pela habitação do Espírito Santo, que lhe dá vida.
 
-1. Deus Pai e Deus Filho enviaram o Espírito Santo para habitar na Igreja. A habitação do Espírito Santo capacita a Igreja a ensinar, santificar e governar os fiéis em nome de Cristo.
+1. Deus Pai e Deus Filho enviaram o Espírito Santo para habitar na Igreja. A habitação do Espírito Santo capacita a Igreja a ensinar, santificar, e governar os fiéis em nome de Cristo.
 
-> O Espírito Santo desceu sobre os Apóstolos para iluminar, fortalecer e santificá-los, de modo que pudessem pregar o Evangelho e espalhar a Igreja por todo o mundo. Na Festa de Pentecostes, em memória de Deus o Espírito Santo, celebramos um mistério que é para sempre renovado na Igreja e em nossas almas: o mistério da habitação de Deus, o reinado da lei do amor que sucedeu a lei da servidão e temor (Rom. 8:15).
+> O Espírito Santo desceu sobre os Apóstolos para iluminar, fortalecer, e santificá-los, de modo que pudessem pregar o Evangelho e espalhar a Igreja por todo o mundo. Na Festa de Pentecostes, em memória de Deus o Espírito Santo, celebramos um mistério que é para sempre renovado na Igreja e em nossas almas: o mistério da habitação de Deus, o reinado da lei do amor que sucedeu a lei da servidão e temor (Rom. 8:15).
 
 2. O Espírito Santo guia os governantes da Igreja, especialmente o Papa, e os ajuda em seus deveres.
 
@@ -77,7 +77,7 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 > Qualquer coisa que não seja a verdade inteira não é verdade. Cristo disse: "Eu sou o caminho, e a verdade e a vida. Ninguém vem ao Pai senão por Mim" (João 14:6). Ninguém afirmará que vidro é tão bom quanto diamantes, nem que latão é tão bom quanto ouro. Ninguém reclama que uma imitação é tão boa quanto a coisa autêntica. Mais irracional então seria reclamar que uma religião estabelecida por um homem é tão boa quanto aquela fundada pelo Deus Encarnado.
 
-2. Desde o próprio princípio da humanidade, tem havido uma única verdadeira religião. De Adão até a vinda de Cristo, esta religião foi preservada pelos patriarcas, profetas e outros escolhidos por Deus para manter o conhecimento do Redentor prometido intacto.
+2. Desde o próprio princípio da humanidade, tem havido uma única verdadeira religião. De Adão até a vinda de Cristo, esta religião foi preservada pelos patriarcas, profetas, e outros escolhidos por Deus para manter o conhecimento do Redentor prometido intacto.
 
 > Antes da vinda de Cristo, esta verdadeira religião não era universal, mas limitada a um povo, os Judeus, o "povo escolhido". Todas as outras nações haviam degenerado e adoravam ídolos, deuses falsos. Apesar das imperfeições da velha religião preservada entre os Judeus; era sempre a verdadeira religião, a única verdadeira religião. Prefigurava a vinda da religião perfeita, aquela estabelecida pelo Filho de Deus, Jesus Cristo, Que então ab-rogou a Fé Judaica, a Antiga Lei, em favor da Nova Fé, a Nova Lei.
 
@@ -90,7 +90,7 @@ Há milhares de diferentes corpos protestantes existentes no mundo. Na lista aci
 
 — Podemos provar que a única verdadeira Igreja de Cristo é a Igreja Católica, porque:
 
-1. Apenas a Igreja Católica possui as marcas da Igreja estabelecida por Cristo; isto é, Unidade, santidade, catolicidade e apostolicidade. (Veja Capítulo 73 sobre As Portas do Inferno)
+1. Apenas a Igreja Católica possui as marcas da Igreja estabelecida por Cristo; isto é, Unidade, santidade, catolicidade, e apostolicidade. (Veja Capítulo 73 sobre As Portas do Inferno)
 
 > De fato, apenas a Igreja Católica reivindica ter todas estas quatro marcas da Verdadeira Igreja, as marcas tão evidentemente estabelecidas por Cristo.
 

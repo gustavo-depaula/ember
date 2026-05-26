@@ -28,7 +28,7 @@
 
 — A Igreja precisa de ajuda para muitos propósitos, entre os quais estão os seguintes:
 
-1. Manutenção do culto público, educação e caridade, como instrução dos jovens, alívio dos pobres, manutenção das Igrejas, seminários, escolas, colégios, asilos, hospitais, cemitérios, orfanatos, etc.
+1. Manutenção do culto público, educação, e caridade, como instrução dos jovens, alívio dos pobres, manutenção das Igrejas, seminários, escolas, colégios, asilos, hospitais, cemitérios, orfanatos, etc.
 
 > Alguns católicos pensam que o pouco dado ao padre paroquial de vez em quando como estipêndio de Missa é suficiente para sustentar as necessidades da Igreja. Não é mesmo suficiente para sustentar o padre decentemente, manter a igreja limpa, pagar os salários de trabalhadores, comprar paramentos, luzes, etc.
 
@@ -41,7 +41,7 @@
 
 1. Fazendo uma oferta liberal e voluntária ao padre quando ele realiza alguma cerimônia religiosa em nosso nome, como abençoar nossas casas e crianças, etc.
 
-> Em paróquias com uma escala estabelecida de taxas para batismo, crisma, casamento e sepultamento, a taxa deve ser paga sem discutir ou barganhar. Mais que a taxa escalada deve ser dada por pessoas de meios, pois a escala é para aqueles de capacidade financeira ordinária.
+> Em paróquias com uma escala estabelecida de taxas para batismo, crisma, casamento, e sepultamento, a taxa deve ser paga sem discutir ou barganhar. Mais que a taxa escalada deve ser dada por pessoas de meios, pois a escala é para aqueles de capacidade financeira ordinária.
 
 2. Não falhando em pôr alguma oferta na bandeja de coleta todo Domingo e dia santo. Mesmo crianças devem formar o hábito de pôr alguns centavos.
 

@@ -45,7 +45,7 @@ b. Emocional e intelectualmente todas as raças são as mesmas.
 
 > Se nossos primeiros pais não tivessem pecado, estes dons teriam sido transmitidos a todos os homens como posse da natureza humana.
 
-1. Deus pôs Adão e Eva no "paraíso de delícias", um jardim que continha todos os tipos de plantas, flores, aves e animais e tudo de bom que pudesse ser imaginado.
+1. Deus pôs Adão e Eva no "paraíso de delícias", um jardim que continha todos os tipos de plantas, flores, aves, e animais e tudo de bom que pudesse ser imaginado.
 
 > Todas as aves e animais eram perfeitamente obedientes a Adão e Eva. No meio do jardim crescia a árvore da ciência do bem e do mal. Perto dela estava a árvore da vida, que protegia Adão e Eva da doença.
 

@@ -47,7 +47,7 @@
 
 > Padres seculares estão geralmente encarregados das paróquias; isto é, atuam como padres paroquiais ou pastores (também chamados reitores).
 
-2. Padres religiosos (ou regulares) são aqueles que são membros de ordens religiosas ou congregações, como os Agostinianos, Beneditinos, Dominicanos, Franciscanos, Jesuítas, Redentoristas, Salesianos, etc. Religiosos estão obrigados pelos três votos evangélicos de pobreza, castidade e obediência. Votam obediência a seus superiores, e vivem em comunidade com seus irmãos.
+2. Padres religiosos (ou regulares) são aqueles que são membros de ordens religiosas ou congregações, como os Agostinianos, Beneditinos, Dominicanos, Franciscanos, Jesuítas, Redentoristas, Salesianos, etc. Religiosos estão obrigados pelos três votos evangélicos de pobreza, castidade, e obediência. Votam obediência a seus superiores, e vivem em comunidade com seus irmãos.
 
 > Nem todos os membros de comunidades religiosas são padres. Muitos tomam os votos religiosos mas não recebem o Sacramento da Ordem: isto é, não são ordenados. Então os chamamos irmãos.
 
@@ -56,13 +56,13 @@
 
 — Os principais deveres de um padre são: viver em celibato, e recitar o Ofício Divino diariamente; outros deveres variam de acordo com a função empreendida ou posição mantida.
 
-1. O voto sacerdotal de celibato é tomado quando um homem é recebido no subdiaconato. Padres católicos não se casam, em imitação do Próprio Cristo. Os Apóstolos, após serem chamados ao ministério, deixaram tudo que tinham. Elias, Eliseu, Jeremias e São João Batista viveram em celibato.
+1. O voto sacerdotal de celibato é tomado quando um homem é recebido no subdiaconato. Padres católicos não se casam, em imitação do Próprio Cristo. Os Apóstolos, após serem chamados ao ministério, deixaram tudo que tinham. Elias, Eliseu, Jeremias, e São João Batista viveram em celibato.
 
 > Um padre é ordenado para o exclusivo serviço de Deus: seus talentos, seu tempo, sua própria vida pertencem ao Seu serviço. São Paulo diz: "Aquele que não é casado cuida das coisas do Senhor, de como agradar a Deus. Enquanto, aquele que é casado cuida das coisas do mundo, de como agradar à sua esposa; e está dividido" (1 Cor. 7:32-33).
 
 2. Um padre deve ler o Ofício Divino, uma série de orações, no Breviário; para isto aproximadamente uma hora é necessária cada dia.
 
-> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre no que diz respeito a muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
+> O Ofício está em ordem prescrita e fixa, incluindo salmos, cânticos, escritos dos profetas do Antigo Testamento e de Apóstolos e Padres da Igreja, passagens dos Evangelhos, hinos, e orações especiais em honra da Santíssima Mãe e dos Santos. A leitura do Ofício Divino não tem apenas valor devocional como oração; tem também um valor prático, em refrescar a memória do padre no que diz respeito a muito do que aprendeu, mantendo-o mentalmente alerta, melhor qualificado para seus deveres.
 
 3. Um pastor deve estar pronto para visitar os moribundos a qualquer hora do dia ou da noite, mesmo que o paciente esteja sofrendo de uma doença contagiosa. Deve instruir seu povo, e guardá-lo de dano. Um pastor é o pastor de seu rebanho.
 

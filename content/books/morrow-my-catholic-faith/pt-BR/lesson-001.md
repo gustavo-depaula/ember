@@ -13,9 +13,9 @@
 
 > Nada pode proceder do nada. Se alguma vez tivesse havido um momento em que nada existisse, nada jamais teria existido. Portanto, porque existimos, sabemos que Alguém que nos fez também existe; esse Alguém é Deus. "Foi Ele quem nos fez, e não nós mesmos" (Sl. 99:3). "Todas as coisas foram criadas por Ele e para Ele" (Col. 1:16).
 
-2. Nossa razão também nos diz que Deus deve ter-nos feito com algum propósito. Deus fez o homem para conhecê-Lo, amá-Lo e servi-Lo neste mundo, e ser feliz para sempre com Ele na outra vida. Deus nos fez para Si mesmo. O fim do homem, como de toda a criação, é a glória de Deus: manifestar as perfeições divinas, proclamar a bondade, majestade e poder de Deus.
+2. Nossa razão também nos diz que Deus deve ter-nos feito com algum propósito. Deus fez o homem para conhecê-Lo, amá-Lo, e servi-Lo neste mundo, e ser feliz para sempre com Ele na outra vida. Deus nos fez para Si mesmo. O fim do homem, como de toda a criação, é a glória de Deus: manifestar as perfeições divinas, proclamar a bondade, majestade, e poder de Deus.
 
-> "O Senhor fez todas as coisas para Si mesmo" (Prov. 16:4). Queira ou não, o homem deve manifestar as perfeições, o domínio e a glória de Deus. A própria existência do homem faz isso; até mesmo os seus pecados mostrarão no fim a infinita santidade e justiça de Deus.
+> "O Senhor fez todas as coisas para Si mesmo" (Prov. 16:4). Queira ou não, o homem deve manifestar as perfeições, o domínio, e a glória de Deus. A própria existência do homem faz isso; até mesmo os seus pecados mostrarão no fim a infinita santidade e justiça de Deus.
 
 3. Através da glorificação de Deus, o homem está destinado a compartilhar da Sua felicidade eterna no céu. O homem foi criado principalmente para a vida além-túmulo; esta presente é meramente uma preparação para a vida eterna.
 
@@ -26,9 +26,9 @@
 
 **O que é a Religião?**
 
-— Religião é a virtude pela qual damos a Deus a honra e o serviço devidos somente a Ele como nosso Criador, Mestre e Senhor Supremo.
+— Religião é a virtude pela qual damos a Deus a honra e o serviço devidos somente a Ele como nosso Criador, Mestre, e Senhor Supremo.
 
-> É pela religião que conhecemos, amamos e servimos a Deus como Ele nos manda conhecê-Lo, amá-Lo e servi-Lo. É pela religião, pois, que cumprimos o fim para o qual fomos feitos, e assim salvamos nossa alma.
+> É pela religião que conhecemos, amamos, e servimos a Deus como Ele nos manda conhecê-Lo, amá-Lo e servi-Lo. É pela religião, pois, que cumprimos o fim para o qual fomos feitos, e assim salvamos nossa alma.
 
 Para praticar esta virtude, devemos:
 
@@ -49,18 +49,18 @@ Para praticar esta virtude, devemos:
 
 > É pela religião que cumprimos o propósito para o qual fomos criados. Crendo no que Deus revelou, conhecemos a Deus. Conhecendo a Deus, não podemos deixar de amá-Lo. Praticando o que aprendemos e obedecendo aos mandamentos de Deus, servimo-Lo. "Quem tem os meus mandamentos e os guarda, esse é o que me ama" (João 14:21).
 
-2. Muitas pessoas passam a vida numa vã busca de riquezas, honrarias e prazeres. Mas estes nunca satisfazem o coração do homem mesmo na terra. Além disso, têm de ser deixados para trás quando chega a hora da morte.
+2. Muitas pessoas passam a vida numa vã busca de riquezas, honrarias, e prazeres. Mas estes nunca satisfazem o coração do homem mesmo na terra. Além disso, têm de ser deixados para trás quando chega a hora da morte.
 
 > "Pois quando morrer, nada levará consigo; nem sua glória descerá com ele." (Sl. 48:18)
 
 
-**De quem aprendemos a conhecer, amar e servir a Deus?**
+**De quem aprendemos a conhecer, amar, e servir a Deus?**
 
-— Aprendemos a conhecer, amar e servir a Deus de Jesus Cristo, o Filho de Deus, que nos ensina através da Igreja Católica.
+— Aprendemos a conhecer, amar, e servir a Deus de Jesus Cristo, o Filho de Deus, que nos ensina através da Igreja Católica.
 
-1. O estudo no qual Jesus Cristo nos ensina sobre Deus e como conhecê-Lo, amá-Lo e servi-Lo, é o estudo da Religião. É o estudo mais importante que alguém pode empreender. A negligência deste estudo é a causa raiz do crime no mundo atualmente. Sem o conhecimento de Deus, os homens se entregam às suas paixões mais baixas.
+1. O estudo no qual Jesus Cristo nos ensina sobre Deus e como conhecê-Lo, amá-Lo, e servi-Lo, é o estudo da Religião. É o estudo mais importante que alguém pode empreender. A negligência deste estudo é a causa raiz do crime no mundo atualmente. Sem o conhecimento de Deus, os homens se entregam às suas paixões mais baixas.
 
-> Nossa salvação é muito mais importante que o conhecimento de física, poesia ou história. Toda nossa ciência e conhecimento, com nossa riqueza e honrarias, serão inúteis se não salvarmos nossa alma. "Pois que aproveita ao homem ganhar o mundo inteiro, se sofrer a perda de sua própria alma?" (Mat. 16:26).
+> Nossa salvação é muito mais importante que o conhecimento de física, poesia, ou história. Toda nossa ciência e conhecimento, com nossa riqueza e honrarias, serão inúteis se não salvarmos nossa alma. "Pois que aproveita ao homem ganhar o mundo inteiro, se sofrer a perda de sua própria alma?" (Mat. 16:26).
 
 2. Este estudo precisa de pensamento e atenção. Precisamos ouvir um bom mestre. Não podemos estudá-lo bem por nós mesmos sozinhos.
 
@@ -69,7 +69,7 @@ Para praticar esta virtude, devemos:
 
 **Quem são aqueles que advogam nenhum estudo da religião?**
 
-— Aqueles que advogam nenhum estudo da religião são geralmente chamados de livre-pensadores, agnósticos, céticos e racionalistas.
+— Aqueles que advogam nenhum estudo da religião são geralmente chamados de livre-pensadores, agnósticos, céticos, e racionalistas.
 
 1. Esses pensadores afirmam que todos os problemas podem ser resolvidos pelo uso do intelecto sozinho, sem necessidade de qualquer princípio, lei, dogma ou autoridade.
 

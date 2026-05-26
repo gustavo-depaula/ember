@@ -20,7 +20,7 @@ Ave Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mul
 
 **A Doxologia**
 
-Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre, e por todos os séculos. Amém.
+Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre, e por todos os séculos dos séculos. Amém.
 
 
 **O Credo dos Apóstolos**
@@ -42,7 +42,7 @@ CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado
 
 **Ato de Esperança**
 
-Ó MEU Deus, confiando em Vosso poder onipotente e infinita misericórdia e promessas, espero obter o perdão dos meus pecados, o auxílio de Vossa graça e a vida eterna, pelos merecimentos de Jesus Cristo, meu Senhor e Redentor.
+Ó MEU Deus, confiando em Vosso poder onipotente e infinita misericórdia e promessas, espero obter o perdão dos meus pecados, o auxílio de Vossa graça, e a vida eterna, pelos merecimentos de Jesus Cristo, meu Senhor e Redentor.
 
 > (Indulgência de três anos)
 
@@ -63,14 +63,14 @@ CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado
 
 **A "Salve Rainha"**
 
-Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, pobres filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
 
 > (Indulgência de cinco anos)
 
 
 **Oferecimento da Manhã**
 
-Ó MEU Deus, eu Vos ofereço todas as minhas orações, obras e sofrimentos em união com o Sagrado Coração de Jesus, pelas intenções pelas quais Ele pleiteia e Se oferece no Santo Sacrifício da Missa, em ação de graças por Vossos favores, em reparação por minhas ofensas, e em humilde súplica por meu bem-estar temporal e eterno, pelas necessidades de nossa santa Mãe a Igreja, pela conversão dos pecadores, e pelo alívio das pobres almas do purgatório. Desejo ganhar todas as indulgências anexadas às orações que disser e às boas obras que realizar neste dia.
+Ó MEU Deus, eu Vos ofereço todas as minhas orações, obras, e sofrimentos em união com o Sagrado Coração de Jesus, pelas intenções pelas quais Ele pleiteia e Se oferece no Santo Sacrifício da Missa, em ação de graças por Vossos favores, em reparação por minhas ofensas, e em humilde súplica por meu bem-estar temporal e eterno, pelas necessidades de nossa santa Mãe a Igreja, pela conversão dos pecadores, e pelo alívio das pobres almas do purgatório. Desejo ganhar todas as indulgências anexadas às orações que disser e às boas obras que realizar neste dia.
 
 
 **Bênção Antes das Refeições**
@@ -102,17 +102,17 @@ Minha Rainha! minha Mãe! Eu me dou inteiramente a Vós; e para mostrar minha de
 
 **O Memorare**
 
-Lembrai-Vos, ó piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que tenham recorrido à Vossa proteção, implorado Vosso auxílio e solicitado Vossa intercessão, fosse por Vós desamparado. Animado com esta confiança, a Vós recorro, ó Virgem das virgens, minha Mãe! A Vós venho, perante Vós me apresento, pecador e contrito. Ó Mãe do Verbo Encarnado, não desprezeis as minhas súplicas, mas, em Vossa misericórdia, ouvi-me e atendei-me. Amém.
+Lembrai-Vos, ó piedosíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que tenham recorrido à Vossa proteção, implorado Vosso auxílio, e solicitado Vossa intercessão, fosse por Vós desamparado. Animado com esta confiança, a Vós recorro, ó Virgem das virgens, minha Mãe! A Vós venho, perante Vós me apresento, pecador e contrito. Ó Mãe do Verbo Encarnado, não desprezeis as minhas súplicas, mas, em Vossa misericórdia, ouvi-me e atendei-me. Amém.
 
 
 **Oração a São José**
 
-Guardião das Virgens e pai, São José, a cujos fiéis cuidados Cristo Jesus, a própria inocência, e Maria, Virgem das virgens, foram confiados, rogo e Vos peço, por estes queridos penhores Jesus e Maria, livrai-me de toda impureza, para que com mente limpa, coração puro e corpo casto, eu possa sempre da maneira mais casta servir a Jesus e Maria todos os dias da minha vida. Amém.
+Guardião das Virgens e pai, São José, a cujos fiéis cuidados Cristo Jesus, a própria inocência, e Maria, Virgem das virgens, foram confiados, rogo e Vos peço, por estes queridos penhores Jesus e Maria, livrai-me de toda impureza, para que com mente limpa, coração puro, e corpo casto, eu possa sempre da maneira mais casta servir a Jesus e Maria todos os dias da minha vida. Amém.
 
 
 **Oração ao Anjo da Guarda**
 
-Anjo de Deus, meu santo Anjo, a quem o amor de Deus a mim me deu, ficai sempre ao meu lado, para me clarear, guardar, reger e guiar, de todo o pecado me livrai, e na hora da morte me ajudai. Amém.
+Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e ilumina. Amém.
 
 
 **Os Louvores Divinos**
@@ -236,7 +236,7 @@ Alma de Cristo, santificai-me. Corpo de Cristo, salvai-me. Sangue de Cristo, emb
 
 **Ato de Resignação à Vontade Divina**
 
-Ó Senhor meu Deus, eu agora, neste momento, pronta e voluntariamente aceito de Vossa mão qualquer tipo de morte que Vos aprouver enviar-me, com todas as suas dores, penalidades e sofrimentos.
+Ó Senhor meu Deus, eu agora, neste momento, pronta e voluntariamente aceito de Vossa mão qualquer tipo de morte que Vos aprouver enviar-me, com todas as suas dores, penalidades, e sofrimentos.
 
 > (Indulgência plenária na hora da morte, para aqueles que rezam a oração acima em qualquer dia escolhido, após a Comunhão e Confissão.)
 
@@ -267,7 +267,7 @@ Jesus, Maria, José, dou-Vos o meu coração e a minha alma.
 
 Jesus, Maria, José, assisti-me em minha última agonia.
 
-Jesus, Maria, José, possa eu exhalar minha alma em paz convosco.
+Jesus, Maria, José, possa eu exalar minha alma em paz convosco.
 
 
 **Oração a Cristo Rei**

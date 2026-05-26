@@ -38,13 +38,13 @@
 
 (a) No primeiro dia, Deus disse: "Faça-se a luz", e a luz foi feita. Então Ele dividiu a luz das trevas, e chamou à luz Dia e às trevas Noite. No segundo dia, Deus fez o firmamento e dividiu as águas.
 
-> O "céu" assim feito é o céu material no qual as estrelas, a lua e o sol seguem seus cursos.
+> O "céu" assim feito é o céu material no qual as estrelas, a lua, e o sol seguem seus cursos.
 
 (b) No terceiro dia, Deus fez aparecer a terra seca, ordenou-lhe que fizesse brotar plantas.
 
 > A Escritura revela como todas as coisas foram criadas, adornadas e ordenadas. Mostra que Deus comunicou a todas as coisas seus princípios e leis naturais, guiando-as a seus propósitos. No Terceiro Dia, Deus separou a terra dos mares e começou a obra de adornamento criando as plantas. Esta obra de adornamento continuou pelos três dias seguintes.
 
-(c) No quarto dia, Deus fez o sol, a lua e as estrelas. No quinto dia, fez os répteis, as aves e os peixes. No sexto dia, fez as bestas e o gado. Finalmente, "Deus criou o homem à Sua imagem".
+(c) No quarto dia, Deus fez o sol, a lua, e as estrelas. No quinto dia, fez os répteis, as aves, e os peixes. No sexto dia, fez as bestas e o gado. Finalmente, "Deus criou o homem à Sua imagem".
 
 > O homem é diferente dos animais em sua posse de razão e livre-arbítrio. Superando-os todos em dignidade, é a coroa das criações de Deus, aquele para quem o mundo havia sido preparado.
 
@@ -61,7 +61,7 @@
 
 1. No relato da Criação, Moisés, inspirado pelo Espírito Santo, cuidadosamente ensinou aos judeus (e consequentemente a todos os homens) as coisas essenciais necessárias para evitar a idolatria e levar uma vida santa, com grande clareza e autoridade.
 
-> Naquele tempo os judeus estavam cercados por povos idólatras que criam na existência de muitos deuses, e adoravam todos os tipos de criaturas, até o sol, a lua, plantas, animais e imagens.
+> Naquele tempo os judeus estavam cercados por povos idólatras que criam na existência de muitos deuses, e adoravam todos os tipos de criaturas, até o sol, a lua, plantas, animais, e imagens.
 
 2. Embora escrito em linguagem ordinária para pessoas comuns, nenhum escritor filosófico ou científico jamais se aproximou da simplicidade, majestade e verdade universal do relato da Criação escrito por Moisés e inspirado por Deus.
 

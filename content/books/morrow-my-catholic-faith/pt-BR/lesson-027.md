@@ -17,7 +17,7 @@
 
 > Nesta passagem, a mulher de que se fala é a Santíssima Virgem Maria. Sua descendência é Nosso Senhor Jesus Cristo. Ele foi o Redentor prometido por Deus. Deus disse que haveria completa inimizade entre Nosso Senhor com Sua Mãe de um lado, e o demônio com seus seguidores do outro.
 
-2. Esta promessa foi renovada várias vezes aos Patriarcas do Antigo Testamento: a Abraão, Isaac, Jacó e Davi. Porque Abraão permaneceu fiel ao culto de Deus no meio da idolatria, Deus o levou a Canaã. Como recompensa por sua obediência, Deus prometeu: "Farei de ti uma grande nação... e em ti serão benditas todas as famílias da terra" (Gên. 12:2-3). Esta promessa foi repetida duas vezes.
+2. Esta promessa foi renovada várias vezes aos Patriarcas do Antigo Testamento: a Abraão, Isaac, Jacó, e Davi. Porque Abraão permaneceu fiel ao culto de Deus no meio da idolatria, Deus o levou a Canaã. Como recompensa por sua obediência, Deus prometeu: "Farei de ti uma grande nação... e em ti serão benditas todas as famílias da terra" (Gên. 12:2-3). Esta promessa foi repetida duas vezes.
 
 > A mesma promessa "em tua descendência serão benditas todas as nações" foi repetida ao filho de Abraão, Isaac, e ao filho de Isaac, Jacó. Finalmente, centenas de anos depois, Deus ordenou ao profeta Natã que repetisse ao Rei Davi a mesma promessa: "Ele edificará uma casa ao Meu nome, e estabelecerei seu reino para sempre" (2 Reis 7:13).
 

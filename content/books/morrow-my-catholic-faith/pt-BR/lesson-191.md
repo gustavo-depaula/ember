@@ -34,7 +34,7 @@
 
 > Esta Sociedade auxilia missionários em casa e em campos estrangeiros por meio de orações e coleta de esmolas. Todo dinheiro arrecadado é distribuído pela sede central em Roma. As únicas condições para adesão são:
 
-(a) Oração diária de um Pai-Nosso, uma Ave-Maria e a invocação: "São Francisco Xavier, rogai por nós"; e
+(a) Oração diária de um Pai-Nosso, uma Ave-Maria, e a invocação: "São Francisco Xavier, rogai por nós"; e
 
 (b) Uma oferta de adesão, variando de um dólar para adesão ordinária a quarenta dólares para adesão perpétua.
 
@@ -80,6 +80,6 @@
 
 > Suas atividades incluem os Estados Unidos e Alasca. Dos 13 milhões de negros nos Estados Unidos, apenas cerca de 310.000 são católicos.
 
-9. Cruzada Missionária de Estudantes Católicos. Está empenhada em promover o conhecimento missionário entre estudantes católicos, por meio de uma revista nacional, livros didáticos, palestras, peças teatrais e métodos semelhantes. Suas atividades incluem auxílio espiritual, educacional e missionário.
+9. Cruzada Missionária de Estudantes Católicos. Está empenhada em promover o conhecimento missionário entre estudantes católicos, por meio de uma revista nacional, livros didáticos, palestras, peças teatrais, e métodos semelhantes. Suas atividades incluem auxílio espiritual, educacional, e missionário.
 
 > A Cruzada Missionária tem uma adesão de aproximadamente 1.000.000, dos quais cerca de 700.000 têm entre 12 e 15 anos de idade.

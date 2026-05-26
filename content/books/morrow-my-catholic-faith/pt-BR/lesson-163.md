@@ -39,7 +39,7 @@
 
 **O que é necessário para receber o sacramento do Matrimônio dignamente?**
 
-— Para receber o sacramento do Matrimônio dignamente, é necessário estar no estado de graça, conhecer os deveres da vida matrimonial e obedecer às leis matrimoniais da Igreja.
+— Para receber o sacramento do Matrimônio dignamente, é necessário estar no estado de graça, conhecer os deveres da vida matrimonial, e obedecer às leis matrimoniais da Igreja.
 
 1. As partes de um casamento devem estar no estado de graça, porque matrimônio é um sacramento dos vivos. Devem receber a Santa Comunhão em sua Missa Nupcial, para implorar a bênção de Deus sobre sua união.
 
@@ -60,6 +60,6 @@
 
 2. A ajuda especial de Deus para marido e mulher amarem-se fielmente, suportarem as faltas um do outro e criarem seus filhos propriamente. Esta é a graça sacramental especial obtida da recepção do sacramento do Matrimônio.
 
-> Além do fim de trazer filhos ao mundo, Deus também instituiu o casamento para o mútuo sustento de marido e mulher. Antes de Eva ser criada, Deus disse: "Não é bom que o homem esteja só; façamo-lhe uma ajuda semelhante a si" (Gên. 2:18). No Matrimônio graça é necessária — e graça dada — para o próprio exercício de suas muitas funções: a geração e criação de filhos, mútuo intercâmbio de amor, fidelidade e conforto, manutenção da família. Para todos estes e outros deveres dos casados, Matrimônio é uma fonte infindável de graça.
+> Além do fim de trazer filhos ao mundo, Deus também instituiu o casamento para o mútuo sustento de marido e mulher. Antes de Eva ser criada, Deus disse: "Não é bom que o homem esteja só; façamo-lhe uma ajuda semelhante a si" (Gên. 2:18). No Matrimônio graça é necessária — e graça dada — para o próprio exercício de suas muitas funções: a geração e criação de filhos, mútuo intercâmbio de amor, fidelidade, e conforto, manutenção da família. Para todos estes e outros deveres dos casados, Matrimônio é uma fonte infindável de graça.
 
 Deus criou o corpo de Eva do corpo de Adão. Isto foi para mostrar a perfeita igualdade e união que deve existir entre marido e mulher, que pelo casamento tornam-se "dois numa só carne".

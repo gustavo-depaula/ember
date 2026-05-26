@@ -15,7 +15,7 @@
 
 > Foi Santo Inácio (50-107 d.C.) nomeado Bispo de Antioquia por São Pedro, quem primeiro usou a palavra grega Katholicos, significando "universal," quando referindo-se à Igreja fundada por Cristo; isto fez para distinguir a Verdadeira Igreja, já sendo pregada através do mundo, das igrejas heréticas que haviam surgido. No quarto século, certos sectários protestaram contra a Verdadeira Igreja, contudo ainda se chamavam cristãos. E assim os Católicos começaram a chamar-se "Católicos." Naquele mesmo século, Santo Agostinho disse: "Todos os hereges querem chamar-se Católicos; contudo se perguntardes a qualquer deles para dirigir-vos a uma igreja Católica, não vos dirigirá à sua própria!"
 
-2. Onde quer que vamos, seja na Europa, América, África, Ásia ou Austrália, encontraremos a Igreja Católica estabelecida. Em toda parte ensina as mesmas doutrinas; em toda parte é governada pelo mesmo Cabeça: o Papa.
+2. Onde quer que vamos, seja na Europa, América, África, Ásia, ou Austrália, encontraremos a Igreja Católica estabelecida. Em toda parte ensina as mesmas doutrinas; em toda parte é governada pelo mesmo Cabeça: o Papa.
 
 > Quando dizemos que a Igreja é Católica ou universal, entendemos que onde quer que exista deve ter a marca da unidade. Caso contrário não seria o mesmo corpo, mas muitos corpos separados. Algumas igrejas heréticas têm ramificações em diferentes países, mas são realmente corpos diferentes, porque mudam doutrinas sob diferentes condições.
 
@@ -51,8 +51,8 @@ Que o Papa é Deus e não pode errar; Que alguém ou algo possa ser adorado ou v
 
 > Se não existia, então a promessa de Cristo de estar com Sua Igreja sempre havia falhado; Sua Igreja havia morrido, e nenhuma reforma humana poderia possivelmente tê-la ressuscitado. Se existia, então aqueles que inventaram novas doutrinas não estavam reformando-a, mas fundando novas igrejas.
 
-4. Do mesmo modo, a Igreja deriva todas as suas ordens sagradas, doutrinas e missão dos Apóstolos. É "edificada sobre o fundamento dos Apóstolos," do qual Cristo é a pedra angular (Efés. 2:20). Mantém intacta a doutrina e tradições dos Apóstolos, aos quais Cristo deu autoridade para ensinar.
+4. Do mesmo modo, a Igreja deriva todas as suas ordens sagradas, doutrinas, e missão dos Apóstolos. É "edificada sobre o fundamento dos Apóstolos," do qual Cristo é a pedra angular (Efés. 2:20). Mantém intacta a doutrina e tradições dos Apóstolos, aos quais Cristo deu autoridade para ensinar.
 
 > São Paulo diz: "Mas, ainda que nós ou um anjo do céu vos evangelize além do que vos evangelizamos, seja anátema!" (Gál. 1:8). Uma igreja que a qualquer tempo negue uma doutrina apostólica, descarta o sacramento das Ordens Sagradas, ou rompe com a obediência ao Papa, cessa de ser apostólica. Torna-se um ramo morto quebrado da videira-mãe que é o Próprio Cristo: "Eu sou a videira: vós sois os ramos" (João 15:5).
 
-Que escapulários, medalhas, crucifixos e outros sacramentais possam dar graças sem disposições próprias da parte do usuário; Que não-católicos serão todos condenados; Que todos os católicos irão para o céu; Que a Bíblia é a única regra de fé; Que qualquer um possa interpretar a Bíblia; Que Nosso Senhor Jesus Cristo estabeleceu muitas Igrejas; Que piedade externa é proveitosa sem caridade do espírito; Que todas as religiões são a mesma.
+Que escapulários, medalhas, crucifixos, e outros sacramentais possam dar graças sem disposições próprias da parte do usuário; Que não-católicos serão todos condenados; Que todos os católicos irão para o céu; Que a Bíblia é a única regra de fé; Que qualquer um possa interpretar a Bíblia; Que Nosso Senhor Jesus Cristo estabeleceu muitas Igrejas; Que piedade externa é proveitosa sem caridade do espírito; Que todas as religiões são a mesma.

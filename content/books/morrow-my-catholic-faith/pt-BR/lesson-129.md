@@ -24,14 +24,14 @@
 
 2. As aparências de pão e vinho permanecem. A Hóstia consagrada continua a parecer pão, tem gosto e sensação de pão; mas não é pão, pois toda a substância do pão é mudada no Corpo de Cristo.
 
-> O mesmo é verdadeiro do cálice consagrado, que continua a parecer, cheirar e ter gosto de vinho, mas não há mais vinho, apenas o sangue de Cristo.
+> O mesmo é verdadeiro do cálice consagrado, que continua a parecer, cheirar, e ter gosto de vinho, mas não há mais vinho, apenas o sangue de Cristo.
 
 
 **Jesus Cristo está presente, inteiro e por completo, tanto sob as aparências de pão, quanto sob as aparências de vinho?**
 
 — Jesus Cristo está presente, inteiro e por completo, tanto sob as aparências de pão quanto sob as aparências de vinho.
 
-1. Na Santa Eucaristia, Cristo está presente inteiramente. Corpo, Sangue, Alma e Divindade.
+1. Na Santa Eucaristia, Cristo está presente inteiramente. Corpo, Sangue, Alma, e Divindade.
 
 > Uma criancinha preparando-se para sua primeira Santa Comunhão foi perguntada qual a diferença entre um crucifixo e o Santíssimo Sacramento. "Ora," a criança inocente respondeu, "o crucifixo parece-se com Nosso Senhor, mas não é Ele. O Santíssimo Sacramento não se parece com Nosso Senhor, mas É Ele Mesmo!"
 

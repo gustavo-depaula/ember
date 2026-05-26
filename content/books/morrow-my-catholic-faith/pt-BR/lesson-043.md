@@ -2,12 +2,12 @@
 
 ![](../images/lesson-043.webp)
 
-*As virtudes teologais da fé, esperança e caridade fornecem uma base forte para todas as outras virtudes. As virtudes cardeais da prudência, justiça, fortaleza e temperança são o fundamento de todas as virtudes morais. As virtudes teologais definem nossas relações com Deus; as virtudes morais definem nossas relações conosco mesmos e nossos semelhantes. Se temos estas virtudes, estamos no caminho da perfeição.*
+*As virtudes teologais da fé, esperança, e caridade fornecem uma base forte para todas as outras virtudes. As virtudes cardeais da prudência, justiça, fortaleza, e temperança são o fundamento de todas as virtudes morais. As virtudes teologais definem nossas relações com Deus; as virtudes morais definem nossas relações conosco mesmos e nossos semelhantes. Se temos estas virtudes, estamos no caminho da perfeição.*
 
 
-**Há alguma outra virtude além das virtudes teologais da fé, esperança e caridade?**
+**Há alguma outra virtude além das virtudes teologais da fé, esperança, e caridade?**
 
-— Além das virtudes teologais da fé, esperança e caridade, há outras virtudes, chamadas virtudes morais.
+— Além das virtudes teologais da fé, esperança, e caridade, há outras virtudes, chamadas virtudes morais.
 
 1. Estas virtudes são chamadas virtudes morais porque nos dispõem a levar vidas morais, ou boas, ajudando-nos a tratar pessoas e coisas da maneira correta, isto é, segundo a vontade de Deus. Virtudes morais são opostas aos pecados capitais.
 
@@ -20,14 +20,14 @@
 
 **Quais são as principais virtudes morais?**
 
-— As principais virtudes morais são prudência, justiça, fortaleza e temperança; estas são chamadas virtudes cardeais.
+— As principais virtudes morais são prudência, justiça, fortaleza, e temperança; estas são chamadas virtudes cardeais.
 
 > Todas as outras virtudes morais brotam das virtudes cardeais. Estas são chamadas cardeais de *cardo*, a palavra latina para dobradiça, porque todas as nossas ações morais giram sobre elas como uma porta gira sobre suas dobradiças. Todas as outras virtudes morais dependem delas.
 
 
-**Como a prudência, justiça, fortaleza e temperança nos dispõem a levar boas vidas?**
+**Como a prudência, justiça, fortaleza, e temperança nos dispõem a levar boas vidas?**
 
-— Prudência, justiça, fortaleza e temperança nos dispõem a levar boas vidas, como indicado abaixo:
+— Prudência, justiça, fortaleza, e temperança nos dispõem a levar boas vidas, como indicado abaixo:
 
 1. Prudência nos dispõe em todas as circunstâncias a formar juízos retos sobre o que devemos fazer ou não fazer.—Ensina-nos quando e como agir em questões relativas à nossa salvação eterna. A prudência aperfeiçoa a inteligência, que é o poder de formar juízos; para esta virtude, conhecimento e experiência são importantes.
 
@@ -41,14 +41,14 @@
 
 > Possuímos fortaleza quando não somos impedidos por ridículo, ameaças ou perseguição de fazer o que é certo; quando estamos prontos, se necessário, a sofrer a morte. A maior fortaleza é mostrada suportando grandes sofrimentos ao invés de empreender grandes obras. Nenhum santo foi jamais covarde. Os mártires tinham fortaleza.
 
-4. Temperança nos dispõe a controlar nossos desejos e usar corretamente as coisas que agradam nossos sentidos.—Regula nosso juízo e paixões, de modo que possamos fazer uso das coisas temporais apenas na medida em que são necessárias para nossa salvação eterna. Temos temperança quando comemos e bebemos apenas o necessário para sustentar a vida, preservar a saúde e cumprir nossos deveres.
+4. Temperança nos dispõe a controlar nossos desejos e usar corretamente as coisas que agradam nossos sentidos.—Regula nosso juízo e paixões, de modo que possamos fazer uso das coisas temporais apenas na medida em que são necessárias para nossa salvação eterna. Temos temperança quando comemos e bebemos apenas o necessário para sustentar a vida, preservar a saúde, e cumprir nossos deveres.
 
 > Devemos esforçar-nos por ser como São Francisco de Sales, que disse: "Desejo muito pouco, e esse pouco desejo pouco." Contudo, temperança não consiste em recusar ou negar a nós mesmos o que é necessário, assim nos incapacitando para boas obras.
 
 
 **Quais são algumas das outras virtudes morais?**
 
-— Piedade filial e patriotismo, que nos dispõem a honrar, amar e respeitar nossos pais e nossa pátria. É, contudo, nenhuma virtude mas um pecado se somos tão preconceituosos a favor de nossos pais que não encontramos bem nenhum nos outros; ou se somos tão "patriotas" que não vemos bem nenhum em outras nações.
+— Piedade filial e patriotismo, que nos dispõem a honrar, amar, e respeitar nossos pais e nossa pátria. É, contudo, nenhuma virtude mas um pecado se somos tão preconceituosos a favor de nossos pais que não encontramos bem nenhum nos outros; ou se somos tão "patriotas" que não vemos bem nenhum em outras nações.
 
 > A divisão e antagonismos mútuos de nações e povos nos quais alguns professam encontrar-se como "superiores" certamente não podem agradar a Deus; deles vêm guerra e vingança. Deus é Pai de todas as nações e povos, sem exceção.
 

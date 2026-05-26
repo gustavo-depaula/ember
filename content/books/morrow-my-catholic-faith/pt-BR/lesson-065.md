@@ -5,7 +5,7 @@
 
 ## Católicos Eminentes
 
-As páginas da história estão preenchidas com os nomes de Católicos notáveis em literatura, ciência, arte, progresso e aprendizado de toda descrição. O seguinte é apenas uma lista parcial daqueles que foram conhecidos tanto por sua devoção à Fé Católica quanto por suas contribuições à arte e ciência.
+As páginas da história estão preenchidas com os nomes de Católicos notáveis em literatura, ciência, arte, progresso, e aprendizado de toda descrição. O seguinte é apenas uma lista parcial daqueles que foram conhecidos tanto por sua devoção à Fé Católica quanto por suas contribuições à arte e ciência.
 
 **Astronomia:** Cassini, Clavius, Copérnico, DeVico, Galileu, Gassendi, La Place, Piazzi, Secchi, Wallingfurt.
 
@@ -46,7 +46,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 > Quem pode ser um cidadão mais cumpridor da lei do que aquele que olha para oficiais civis como superiores que o Próprio Deus lhe ordena obedecer? Plutarco diz que a religião é uma proteção melhor para uma cidade do que suas muralhas.
 
-2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim, treina membros desinteressados, econômicos e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
+2. A Igreja ensina seus filhos a fazer sacrifícios pelo bem comum. Assim, treina membros desinteressados, econômicos, e industriosos do Estado. Um homem sem religião raramente faz um bom cidadão. É passível de tentar sempre obter tanto quanto possa mesmo à custa de outros. Um homem sem religião geralmente termina sem qualquer moralidade.
 
 > As prisões são em geral povoadas, não por membros praticantes da Igreja, mas por pessoas que negligenciaram a religião. Só Deus sabe o número daqueles que foram desviados dos caminhos do pecado e crime por conta de sua conexão com a Igreja.
 
@@ -73,7 +73,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 2. A Igreja sempre se esforçou por prover escolas para a educação dos jovens; fundou grandes universidades.
 
-> Desde o princípio, as missões, paróquias, mosteiros e catedrais tinham escolas. Não menos que 80 universidades foram construídas nos dias em que o Papa era supremo na Cristandade; destas muitas ainda existem, embora sob controle diferente. O encorajamento dado pelos Papas avançou a educação, medicina, cirurgia, literatura, química, matemática e outras ciências. Numerosas ordens religiosas e congregações desde os primeiros tempos dedicaram-se à educação.
+> Desde o princípio, as missões, paróquias, mosteiros e catedrais tinham escolas. Não menos que 80 universidades foram construídas nos dias em que o Papa era supremo na Cristandade; destas muitas ainda existem, embora sob controle diferente. O encorajamento dado pelos Papas avançou a educação, medicina, cirurgia, literatura, química, matemática, e outras ciências. Numerosas ordens religiosas e congregações desde os primeiros tempos dedicaram-se à educação.
 
 3. A Igreja preservou as grandes obras de antigos filósofos e historiadores pagãos, salvando-as da destruição para futuras idades.
 
@@ -87,7 +87,7 @@ As páginas da história estão preenchidas com os nomes de Católicos notáveis
 
 > Na ciência física, o diácono Gioja descobriu o ímã e bússola; o jesuíta Kircher experimentou com a primeira lente ardente; o cônego Copérnico ensinou seu famoso sistema; o jesuíta Cavaliere elaborou os componentes da luz branca; o jesuíta Secchi fez estudos frutíferos concernentes a manchas solares; o franciscano Berthold Schwarz descobriu a pólvora. Outras obras científicas por sacerdotes e monges: o dominicano Spina descobriu o uso de óculos; o beneditino Pontius inventou um método de ensinar surdos-mudos; o dominicano Calandoni inventou um tipógrafo para tomar o lugar do compositor; o monge Veit descobriu a escala e regras de harmonia na música. O Papa Gregório XIII reformou o calendário.
 
-6. A Igreja ajudou a estabelecer governos livres e estáveis; civilizaram os bárbaros. Através dos Beneditinos, Cistercienses e Trapistas, reclamaram extensas áreas de terras baldias. A Igreja cuidou dos pobres, doentes, órfãos, velhos e desamparados. Abriu hospitais, resgatou cativos e libertou escravos. O Papa Inocêncio III é conhecido como "Pai dos Hospitais".
+6. A Igreja ajudou a estabelecer governos livres e estáveis; civilizaram os bárbaros. Através dos Beneditinos, Cistercienses, e Trapistas, reclamaram extensas áreas de terras baldias. A Igreja cuidou dos pobres, doentes, órfãos, velhos e desamparados. Abriu hospitais, resgatou cativos e libertou escravos. O Papa Inocêncio III é conhecido como "Pai dos Hospitais".
 
 > Quem senão a Igreja insistiu na dignidade da alma mesmo do mais pobre escravo numa idade em que distinções de classe eram predominantes? Quem senão a Igreja resgatou a mulher da degradação, e formou aquela bela instituição, a família Cristã? A Igreja defendeu as liberdades do povo contra as usurpações de tiranos. Sempre defendeu os pobres contra as opressões dos ricos. Defendeu a manutenção da autoridade contra a violência de súditos rebeldes. Toda a história da civilização Cristã tem a marca da Igreja.
 

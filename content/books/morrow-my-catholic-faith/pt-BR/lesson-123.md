@@ -13,7 +13,7 @@
 
 1. Apenas Cristo instituiu os sacramentos, porque apenas Deus pode dotar sinais com o poder de dar graça.
 
-> Do ensinamento da Igreja, da tradição e da Sagrada Escritura, sabemos que Cristo instituiu os sete sacramentos. Todas as igrejas cismáticas do Oriente que se separaram da Igreja Católica nos primeiros anos da era cristã continuam a reconhecer os mesmos sete sacramentos que a Igreja. A Igreja não tem poder de instituir sacramentos.
+> Do ensinamento da Igreja, da tradição, e da Sagrada Escritura, sabemos que Cristo instituiu os sete sacramentos. Todas as igrejas cismáticas do Oriente que se separaram da Igreja Católica nos primeiros anos da era cristã continuam a reconhecer os mesmos sete sacramentos que a Igreja. A Igreja não tem poder de instituir sacramentos.
 
 2. Um sinal exterior é algo percebido pelos sentidos. O sinal ou cerimônia é chamado a matéria, e as palavras, a forma do sacramento.
 
@@ -26,7 +26,7 @@
 
 **Quantos sacramentos há?**
 
-— Há sete sacramentos: Batismo, Crisma, Santa Eucaristia, Penitência, Extrema-Unção, Ordens Sagradas e Matrimônio.
+— Há sete sacramentos: Batismo, Crisma, Santa Eucaristia, Penitência, Extrema-Unção, Ordens Sagradas, e Matrimônio.
 
 > Há sete sacramentos e apenas sete, nem mais nem menos, pela simples razão de que Nosso Senhor instituiu sete. Estes sete sacramentos são um dom de amor do Filho de Deus, um dom pelo qual Ele pagou Sua própria vida.
 
@@ -62,7 +62,7 @@
 
 — Sacramentos dos vivos são aqueles que podem ser recebidos apenas por alguém vivendo no estado de graça; sacramentos dos mortos visam dar graça santificante a alguém espiritualmente morto pelo pecado.
 
-1. Os sacramentos dos vivos são: Crisma, Santa Eucaristia, Extrema-Unção, Ordens Sagradas e Matrimônio. É um sacrilégio receber estes sacramentos quando se está no estado de pecado mortal.
+1. Os sacramentos dos vivos são: Crisma, Santa Eucaristia, Extrema-Unção, Ordens Sagradas, e Matrimônio. É um sacrilégio receber estes sacramentos quando se está no estado de pecado mortal.
 
 > Aqueles que recebem sacramentos dos vivos em pecado mortal recebem os sacramentos mas não a graça que trazem, e cometem um sacrilégio. A graça sacramental que deveriam receber é suspensa até que recuperem seu estado de graça santificante. Quando dignamente recebidos, sacramentos dos vivos aumentam a vida de graça do recipiente.
 
@@ -71,12 +71,12 @@
 
 **Quais são os sacramentos que podem ser recebidos apenas uma vez?**
 
-— Os sacramentos que podem ser recebidos apenas uma vez são Batismo, Crisma e Ordens Sagradas.
+— Os sacramentos que podem ser recebidos apenas uma vez são Batismo, Crisma, e Ordens Sagradas.
 
 1. Isto é porque estes sacramentos imprimem na alma uma marca espiritual ou caráter, que consiste numa dedicação especial a Cristo. Esta marca é indelével, e não é apagada por nada, nem mesmo pecado mortal. Será portada pela alma por toda a eternidade, para sua maior glória se no céu, e para sua maior vergonha se no inferno.
 
 > O caráter espiritual impresso é tal que a alma de uma pessoa batizada é tão diferente da alma do não-batizado quanto a luz é diferente da escuridão. Um padre será conhecido como padre para sempre, pela marca em sua alma, seja no céu ou no inferno.
 
-2. Santa Eucaristia, Penitência, Extrema-Unção e Matrimônio não deixam marca indelével, e podem ser recebidos mais de uma vez.
+2. Santa Eucaristia, Penitência, Extrema-Unção, e Matrimônio não deixam marca indelével, e podem ser recebidos mais de uma vez.
 
 > Extrema-Unção pode ser recebida apenas uma vez no tempo de enfermidade. Matrimônio não pode ser repetido até que uma das partes morra. Quanto mais frequentemente Penitência e Santa Eucaristia são recebidas, melhor para a alma.

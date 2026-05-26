@@ -57,7 +57,7 @@
 
 2. Um segredo pode ser revelado quando: (a) é para o bem da pessoa culpada; (b) salvará a nós mesmos ou outros do mal; (c) guardar segredo é contra a justiça ou o bem-estar da sociedade; e (d) a pessoa a quem é revelado tem direito de saber.
 
-> Quando há razão justa para revelar um segredo, podemos fazê-lo a pessoas em autoridade, como pais, superiores, professores, ou tribunais de lei. Faltas graves devem ser tornadas conhecidas a pais, professores e superiores, que podem ser capazes de corrigi-las. Cuidado deve ser tomado para evitar exagerar faltas.
+> Quando há razão justa para revelar um segredo, podemos fazê-lo a pessoas em autoridade, como pais, superiores, professores, ou tribunais de lei. Faltas graves devem ser tornadas conhecidas a pais, professores, e superiores, que podem ser capazes de corrigi-las. Cuidado deve ser tomado para evitar exagerar faltas.
 
 3. É errado ler as cartas de outra pessoa sem permissão. Ouvintes às escondidas são desprezíveis. Um mexeriqueiro é desprezível.
 

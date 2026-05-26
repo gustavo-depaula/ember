@@ -29,7 +29,7 @@
 
 5. Outras coisas, como o Missal, véu, galhetas, e incenso, são usadas no altar.
 
-> O Missal é o livro que contém as orações e cerimônias da Missa. O véu é um pano quadrado do mesmo material e desenho dos paramentos do Padre. É usado para cobrir o cálice, patena e pala antes do Ofertório e após a Abluição. As galhetas são os vasos dos quais o acólito ou sacristão verte água e vinho no cálice segurado pelo celebrante. Incenso é um perfume queimado em certas ocasiões, como na Missa alta e Bênção; é um símbolo de oração.
+> O Missal é o livro que contém as orações e cerimônias da Missa. O véu é um pano quadrado do mesmo material e desenho dos paramentos do Padre. É usado para cobrir o cálice, patena, e pala antes do Ofertório e após a Abluição. As galhetas são os vasos dos quais o acólito ou sacristão verte água e vinho no cálice segurado pelo celebrante. Incenso é um perfume queimado em certas ocasiões, como na Missa alta e Bênção; é um símbolo de oração.
 
 ![](../images/lesson-136b.webp)
 

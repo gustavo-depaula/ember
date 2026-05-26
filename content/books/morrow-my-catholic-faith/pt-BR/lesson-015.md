@@ -33,7 +33,7 @@
 
 **Que dons Deus concedeu aos Anjos quando os criou?**
 
-— Quando Deus criou os anjos concedeu-lhes grande sabedoria, poder e santidade.
+— Quando Deus criou os anjos concedeu-lhes grande sabedoria, poder, e santidade.
 
 1. Anjos são os seres mais excelentes criados por Deus. São mais nobres em natureza que os homens. Sabem mais, e têm maior poder. De todas as criaturas de Deus, os anjos mais O assemelham.
 
@@ -41,7 +41,7 @@
 
 2. Os anjos não foram criados iguais. Eles se classificam segundo a quantidade de dons dados, e o trabalho que lhes foi designado.
 
-> Na Bíblia nove coros de anjos são mencionados: serafins, querubins, tronos, dominações, virtudes, potestades, principados, arcanjos e anjos.
+> Na Bíblia nove coros de anjos são mencionados: serafins, querubins, tronos, dominações, virtudes, potestades, principados, arcanjos, e anjos.
 
 
 **Todos os anjos permaneceram fiéis a Deus?**

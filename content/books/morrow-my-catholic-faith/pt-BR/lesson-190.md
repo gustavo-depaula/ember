@@ -29,11 +29,11 @@ As Terceiras Ordens são como ordens religiosas, sendo ramos destas às quais es
 
 > As regras das confrarias não são obrigatórias sob pena de pecado. Contudo, se as regras não forem observadas, as graças especiais e indulgências a elas anexadas não são concedidas. As confrarias com o direito de afiliar associações similares a si mesmas são denominadas arquiconfrarias. Aqui listamos alguns exemplos de nossas maiores confrarias.
 
-1. A **Confraria da Doutrina Cristã**, por ordem da Santa Sé, deve ser instituída em todas as paróquias, para promover um maior conhecimento e prática mais assídua da Fé Católica. Os meios utilizados são: classes de instrução, clubes de estudo e discussão, instrução domiciliar e educação religiosa de não-católicos.
+1. A **Confraria da Doutrina Cristã**, por ordem da Santa Sé, deve ser instituída em todas as paróquias, para promover um maior conhecimento e prática mais assídua da Fé Católica. Os meios utilizados são: classes de instrução, clubes de estudo e discussão, instrução domiciliar, e educação religiosa de não-católicos.
 
 2. A **Sociedade do Santo Nome** visa promover o devido amor e reverência ao Santo Nome de Deus e de Jesus. {Ver página 199.}
 
-3. A **Sociedade da Sagrada Família** é uma arquiconfraria que visa santificar as famílias cristãs. Homens, mulheres e crianças podem todos tornar-se membros.
+3. A **Sociedade da Sagrada Família** é uma arquiconfraria que visa santificar as famílias cristãs. Homens, mulheres, e crianças podem todos tornar-se membros.
 
 > Esta arquiconfraria tem cerca de cinco milhões de membros em todo o mundo.
 

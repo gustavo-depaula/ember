@@ -41,7 +41,7 @@
 
 — As principais marcas da Verdadeira Igreja são quatro: É una, santa, católica ou universal, e apostólica.
 
-1. Cristo pretendeu que Sua Igreja fosse Una; portanto a Verdadeira Igreja deve ser Una. Seus membros devem estar unidos em doutrina, em culto e em governo. Cristo disse:
+1. Cristo pretendeu que Sua Igreja fosse Una; portanto a Verdadeira Igreja deve ser Una. Seus membros devem estar unidos em doutrina, em culto, e em governo. Cristo disse:
 
 > "Se um reino está dividido contra si mesmo, esse reino não pode subsistir" (Mar. 3:24). "Haverá um só rebanho e um só Pastor" (João 10:16).
 

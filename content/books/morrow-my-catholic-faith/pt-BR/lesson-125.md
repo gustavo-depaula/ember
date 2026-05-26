@@ -2,7 +2,7 @@
 
 ![](../images/lesson-125.webp)
 
-*Este quadro mostra claramente as várias matéria, formas e ministros de cada um dos sete sacramentos. Nele pode ser encontrado quais são os sacramentos dos vivos, implicando a necessidade de estar no estado de graça antes da recepção; e quais são os sacramentos dos mortos, não necessitando daquele estado. Batismo nos limpa de todo pecado, original e atual, e remite toda punição devida.*
+*Este quadro mostra claramente as várias matéria, formas, e ministros de cada um dos sete sacramentos. Nele pode ser encontrado quais são os sacramentos dos vivos, implicando a necessidade de estar no estado de graça antes da recepção; e quais são os sacramentos dos mortos, não necessitando daquele estado. Batismo nos limpa de todo pecado, original e atual, e remite toda punição devida.*
 
 
 **Como é o sacramento do Batismo validamente administrado?**
@@ -15,7 +15,7 @@
 
 > "Vós" pode ser substituído por "te"; mas exceto por isto nenhuma outra mudança pode ser feita. Por exemplo, as palavras "da Santíssima Trindade" não podem ser substituídas por "do Pai e do Filho e do Espírito Santo", porque Jesus explicitamente comandou o Batismo ser dado "em nome do Pai e do Filho e do Espírito Santo" (Mat. 28:19).
 
-2. Batismo é validamente administrado seja realizado por imersão total, por infusão ou por aspersão. Por infusão, a água é derramada na cabeça, testa ou rosto. Em casos de emergência, pode ser derramada em qualquer parte do corpo. A água deve fluir sobre a pele da pessoa sendo batizada, não meramente no cabelo. Por aspersão, água é borrifada na cabeça.
+2. Batismo é validamente administrado seja realizado por imersão total, por infusão, ou por aspersão. Por infusão, a água é derramada na cabeça, testa, ou rosto. Em casos de emergência, pode ser derramada em qualquer parte do corpo. A água deve fluir sobre a pele da pessoa sendo batizada, não meramente no cabelo. Por aspersão, água é borrifada na cabeça.
 
 > No tempo dos Apóstolos, batismo era usualmente, embora não exclusivamente, conferido por imersão. Os primeiros batismos no Pentecostes não poderiam ter sido por imersão, por conta do grande número, três mil batizados. Todos estes três métodos são válidos; mas nossa prática presente é por infusão.
 
@@ -34,7 +34,7 @@
 
 1. O bispo ou pastor, ou um padre propriamente delegado, é portanto o ministro ordinário do Batismo. Mas em casos de necessidade, quando há perigo de morte e um ministro ordinário não está disponível, qualquer um — homem, mulher ou criança, católico ou não-católico, ateu ou pagão — pode e deve batizar; aquela pessoa então torna-se o ministro extraordinário do Batismo.
 
-> Quando propriamente dado, batismo leigo é tão válido quanto batismo dado por um padre. Para batizar validamente, água natural fresca ou água benta é derramada na cabeça, rosto ou corpo da pessoa sendo batizada, e ao mesmo tempo as palavras são pronunciadas: "Eu te batizo em nome do Pai e do Filho e do Espírito Santo."
+> Quando propriamente dado, batismo leigo é tão válido quanto batismo dado por um padre. Para batizar validamente, água natural fresca ou água benta é derramada na cabeça, rosto, ou corpo da pessoa sendo batizada, e ao mesmo tempo as palavras são pronunciadas: "Eu te batizo em nome do Pai e do Filho e do Espírito Santo."
 
 2. Se uma pessoa batizada por um ministro extraordinário sobrevive, não pode ser batizada novamente. Contudo, é levada à igreja, e as cerimônias que haviam sido omitidas são supridas.
 
@@ -57,7 +57,7 @@
 
 — O nome de um santo é dado no Batismo para que a pessoa batizada possa imitar suas virtudes, e tê-lo como protetor.
 
-1. Os nomes de anjos são também dados, assim como nomes referentes a mistérios ou apelações sagradas, eventos e doutrinas.
+1. Os nomes de anjos são também dados, assim como nomes referentes a mistérios ou apelações sagradas, eventos, e doutrinas.
 
 > Em certos países, é uma prática, mesmo quando outro nome batismal é dado, incluir para meninas o nome Maria, e para meninos o nome José; por exemplo: Maria Luísa, José Francisco, etc.
 

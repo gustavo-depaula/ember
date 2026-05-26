@@ -13,7 +13,7 @@
 
 1. Cristo não foi ao inferno dos condenados, mas ao "inferno" dos justos. Na Sagrada Escritura, era chamado "seio de Abraão". São Pedro chamou-o de "prisão". Nós o chamamos de limbo.
 
-> Entre as almas no limbo estavam Adão, Eva, Abel, Noé, Abraão, Isaac, Jacó; José, Davi, Isaías, Daniel, Jó, Tobias, São José e São João Batista. Foram ao céu na entrada de Nosso Senhor em Sua Ascensão.
+> Entre as almas no limbo estavam Adão, Eva, Abel, Noé, Abraão, Isaac, Jacó; José, Davi, Isaías, Daniel, Jó, Tobias, São José, e São João Batista. Foram ao céu na entrada de Nosso Senhor em Sua Ascensão.
 
 2. Cristo foi ao limbo para anunciar às almas que lá esperavam as alegres novas de que havia reaberto o céu à humanidade.
 

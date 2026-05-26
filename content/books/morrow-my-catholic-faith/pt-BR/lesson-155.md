@@ -7,7 +7,7 @@
 
 **O que devemos fazer para ganhar uma indulgência?**
 
-— Para ganhar uma indulgência, devemos estar no estado de graça, ter pelo menos uma intenção geral de ganhar a indulgência e realizar as obras requeridas pela Igreja.
+— Para ganhar uma indulgência, devemos estar no estado de graça, ter pelo menos uma intenção geral de ganhar a indulgência, e realizar as obras requeridas pela Igreja.
 
 1. Devemos estar no estado de graça; isto é, devemos estar livres de todo pecado mortal. Devemos, além disso, estar livres de todo pecado venial bem como de toda afeição ao pecado, antes que possamos ganhar uma indulgência plenária.
 
@@ -47,7 +47,7 @@
 
 **Que objetos são comumente indulgenciados?**
 
-— Indulgências podem ser anexadas a crucifixos, medalhas, terços, estátuas e tais objetos, desde que não sejam feitos de material muito frágil.
+— Indulgências podem ser anexadas a crucifixos, medalhas, terços, estátuas, e tais objetos, desde que não sejam feitos de material muito frágil.
 
 1. O objeto deve ser abençoado pelo Papa ou por algum padre possuindo os poderes. A indulgência é perdida se o objeto é mais da metade destruído, ou se é vendido, mas não se o objeto é emprestado ou dado.
 
@@ -60,7 +60,7 @@
 
 **Quais são algumas importantes orações indulgenciadas?**
 
-— Das centenas de orações indulgenciadas, algumas das mais importantes são: o Rosário, a Via-Sacra, o Angelus, a Ladainha da Santíssima Virgem, atos de fé, esperança e caridade, as orações da Missa e orações na hora da morte.
+— Das centenas de orações indulgenciadas, algumas das mais importantes são: o Rosário, a Via-Sacra, o Angelus, a Ladainha da Santíssima Virgem, atos de fé, esperança e caridade, as orações da Missa, e orações na hora da morte.
 
 1. A indulgência anexada a algumas orações pode ser ganha cada vez que são ditas; no caso de outras orações a indulgência é ganha apenas uma vez por dia.
 

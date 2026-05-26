@@ -44,7 +44,7 @@ Nosso Senhor disse claramente, "Buscai primeiro o reino de Deus e sua justiça, 
 
 **Quais são os principais pecados contra a caridade?**
 
-— Os principais pecados contra a caridade são ódio de Deus e do próximo, preguiça, inveja e escândalo.
+— Os principais pecados contra a caridade são ódio de Deus e do próximo, preguiça, inveja, e escândalo.
 
 > Sem caridade, fé e esperança não nos aproveitarão nada, pois Deus não abrirá as portas de Seu Reino exceto àqueles que O amam. "Se eu falar com as línguas dos homens e dos anjos, mas não tiver caridade, tornei-me como bronze que soa ou címbalo que tine" (1 Cor. 13:1).
 

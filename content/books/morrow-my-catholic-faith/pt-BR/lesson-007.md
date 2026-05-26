@@ -49,7 +49,7 @@
 
 4. Profecias são predições de eventos futuros que não poderiam ter sido conhecidos por meios naturais. Para a confirmação da fé, ou para o benefício dos homens, Deus suscitou profetas. Em geral, o dom de profecia é um sinal seguro de que o possuidor é um mensageiro de Deus.
 
-> Os profetas falaram sobre a vinda do Messias. Suas profecias foram cumpridas quando Cristo veio à terra. Os profetas maiores foram Isaías, Jeremias, Ezequiel e Daniel. Distinguem-se dos doze profetas menores, por causa do maior volume de suas profecias. Prever o tempo corretamente não é profecia. É resultado de um conhecimento científico de fatos naturais.
+> Os profetas falaram sobre a vinda do Messias. Suas profecias foram cumpridas quando Cristo veio à terra. Os profetas maiores foram Isaías, Jeremias, Ezequiel, e Daniel. Distinguem-se dos doze profetas menores, por causa do maior volume de suas profecias. Prever o tempo corretamente não é profecia. É resultado de um conhecimento científico de fatos naturais.
 
 
 **Como a Revelação Divina chegou até nós?**

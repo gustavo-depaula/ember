@@ -9,7 +9,7 @@
 
 — A Igreja Católica é una porque todos os seus membros, segundo a vontade de Cristo, professam a mesma fé, têm o mesmo sacrifício e sacramentos, e estão unidos sob um e o mesmo cabeça visível, o Papa.
 
-1. Têm unidade em doutrina, culto e governo. Têm "Um Senhor, uma Fé, um Batismo." Nunca houve qualquer outra sociedade, religião ou governo cujos membros sejam tão estreitamente unidos.
+1. Têm unidade em doutrina, culto, e governo. Têm "Um Senhor, uma Fé, um Batismo." Nunca houve qualquer outra sociedade, religião ou governo cujos membros sejam tão estreitamente unidos.
 
 > "Se um reino está dividido contra si mesmo, esse reino não pode subsistir" (Mar. 3:24). "Pai Santo, guarda em Teu nome aqueles que Me deste, para que sejam um assim como Nós" (João 17:11).
 
@@ -42,7 +42,7 @@
 
 2. A Igreja Católica ensina a mais alta e santa doutrina já apresentada a qualquer povo, um padrão de perfeição. Os mesmos preceitos entregues a Moisés no Monte Sinai, os mesmos avisos proferidos pelos profetas na Judeia, as mesmas lições sublimes ensinadas por Nosso Senhor: estes a Igreja ensina de ano a ano.
 
-> A Igreja ensina seus filhos a conhecer, amar e servir a Deus, e assim tornar-se santos. Insta-lhes a verdade: "Que aproveita ao homem ganhar o mundo inteiro e perder a sua alma?" (Mat. 16:26). Exorta-os a imitar Cristo.
+> A Igreja ensina seus filhos a conhecer, amar, e servir a Deus, e assim tornar-se santos. Insta-lhes a verdade: "Que aproveita ao homem ganhar o mundo inteiro e perder a sua alma?" (Mat. 16:26). Exorta-os a imitar Cristo.
 
 3. A Igreja Católica provê meios poderosos para a santidade, na oração e nos Sacramentos. Pelos Sacramentos, um católico recebe graças abundantes. Aquele que é fiel na recepção dos Sacramentos nunca falhará em viver uma vida reta e morrer uma morte feliz.
 

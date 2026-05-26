@@ -17,7 +17,7 @@
 
 > Os primeiros cristãos celebravam muitas festas para que pudessem manter viva a memória de certos eventos ou benefícios de Deus. O objetivo de instituir dias santos é ter os fiéis lembrando para todo tempo os importantes eventos comemorados, e ter-lhes dando louvor e ação de graças a Deus por eles. Isto é por que devemos sempre tentar celebrar dias santos de maneira conveniente. Algumas pessoas infelizmente tratam dias santos como apenas dias para comer e beber e ser alegres, sem consideração pela ocasião comemorada.
 
-2. A lei civil não reconhece como dias santos alguns dos dias santos de obrigação da Igreja; fábricas, escritórios e escolas ficam abertos naqueles dias. Mas mesmo se católicos devem ir trabalhar em tais dias santos, devem ao menos tentar ouvir Missa. Numerosas igrejas celebram Missa numa hora cedo da manhã, como também à noite.
+2. A lei civil não reconhece como dias santos alguns dos dias santos de obrigação da Igreja; fábricas, escritórios, e escolas ficam abertos naqueles dias. Mas mesmo se católicos devem ir trabalhar em tais dias santos, devem ao menos tentar ouvir Missa. Numerosas igrejas celebram Missa numa hora cedo da manhã, como também à noite.
 
 > Pessoas não obrigadas a trabalhar nos dias santos de obrigação devem evitar fazê-lo. Mas aqueles que devem trabalhar precisam lembrar apenas as palavras de Nosso Senhor: "O Sábado foi feito para o homem, e não o homem para o Sábado. Portanto o Filho do Homem é Senhor mesmo do Sábado" (Mar. 3:4-5).
 
@@ -32,7 +32,7 @@
 
 2. A Epifania
 
-> (6 de Janeiro) A Epifania celebra a adoração do Menino recém-nascido pelos Magos, os Sábios do Oriente, — Melchor, Gaspar e Baltasar. A festa é chamada a Epifania (ou "manifestação") porque celebra a manifestação de Cristo aos Gentios.
+> (6 de Janeiro) A Epifania celebra a adoração do Menino recém-nascido pelos Magos, os Sábios do Oriente, — Melchor, Gaspar, e Baltasar. A festa é chamada a Epifania (ou "manifestação") porque celebra a manifestação de Cristo aos Gentios.
 
 3. Quinta-feira da Ascensão
 

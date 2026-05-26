@@ -9,9 +9,9 @@
 
 — Um empregador deve:
 
-1. Tratar seus empregados com caridade como seres humanos com almas imortais, não considerando-os como escravos, ou bens ou meramente como máquinas de fazer dinheiro. Deve interessar-se por eles, provendo para eles em enfermidade, acidente e velhice.
+1. Tratar seus empregados com caridade como seres humanos com almas imortais, não considerando-os como escravos, ou bens ou meramente como máquinas de fazer dinheiro. Deve interessar-se por eles, provendo para eles em enfermidade, acidente, e velhice.
 
-> Os ricos não devem diminuir os ganhos do homem trabalhador, seja por força, fraude ou táticas usurárias.
+> Os ricos não devem diminuir os ganhos do homem trabalhador, seja por força, fraude, ou táticas usurárias.
 
 2. Não trabalhar seus empregados além de suas forças, ou colocá-los em qualquer trabalho que é inadequado a seu sexo e idade. Não deve haver mães trabalhando, nem trabalho infantil.
 
@@ -51,7 +51,7 @@
 
 — Sindicatos são associações de homens trabalhadores visando a melhoria das condições sob as quais trabalham.
 
-O objetivo geral é estabelecer um certo número de horas como máximo para trabalho, e uma certa taxa como pagamento mínimo. Os sindicatos também fazem provisão para enfermidade, velhice, morte e desemprego de membros.
+O objetivo geral é estabelecer um certo número de horas como máximo para trabalho, e uma certa taxa como pagamento mínimo. Os sindicatos também fazem provisão para enfermidade, velhice, morte, e desemprego de membros.
 
 1. Infelizmente, sindicatos dividem a sociedade em classes: uma composta daqueles que pagam os salários, e a outra composta daqueles que recebem os salários.
 

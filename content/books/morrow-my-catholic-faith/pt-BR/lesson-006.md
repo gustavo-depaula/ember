@@ -33,7 +33,7 @@
 
 — Elas nos levam a inferir a existência de um Arquiteto Supremo e Preservador de habilidade surpassante.
 
-1. Os corpos celestes seguem seus cursos designados era após era. As estações se sucedem uma à outra ano após ano. Há esplendor, beleza, arranjo e ordem em toda parte. Todo o universo é governado e preservado por lei imutável.
+1. Os corpos celestes seguem seus cursos designados era após era. As estações se sucedem uma à outra ano após ano. Há esplendor, beleza, arranjo, e ordem em toda parte. Todo o universo é governado e preservado por lei imutável.
 
 ![](../images/lesson-006b.webp)
 

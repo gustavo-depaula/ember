@@ -7,7 +7,7 @@
 
 **Quais são os objetos abençoados de devoção mais usados pelos católicos?**
 
-— Os objetos abençoados de devoção mais usados pelos católicos são: água benta, velas, cinzas, palmas, crucifixos, medalhas, terços, escapulários e imagens de Nosso Senhor, da Santíssima Virgem e dos santos.
+— Os objetos abençoados de devoção mais usados pelos católicos são: água benta, velas, cinzas, palmas, crucifixos, medalhas, terços, escapulários, e imagens de Nosso Senhor, da Santíssima Virgem, e dos santos.
 
 1. A bênção dada pela Igreja faz água benta de especial eficácia. Devemos sempre fazer o sinal da cruz, sempre que possível com água benta; por ela ganharíamos cem dias de indulgência.
 
@@ -45,6 +45,6 @@
 
 > Antigamente, o Agnus Dei era dado apenas aos recém-batizados que o carregavam em suas pessoas, em honra ao "Cordeiro de Deus."
 
-9. Os mais comumente usados abençoados vestidos são aqueles em honra a Nossa Senhora de Lourdes, Nossa Senhora das Dores, da Imaculada Conceição, do Carmo, Maria Auxiliadora dos Cristãos, Santo Antônio e São José. Estes vestidos são usados como uma promessa, ou para obter algum especial favor. Seu uso não é vinculante sob pena de pecado.
+9. Os mais comumente usados abençoados vestidos são aqueles em honra a Nossa Senhora de Lourdes, Nossa Senhora das Dores, da Imaculada Conceição, do Carmo, Maria Auxiliadora dos Cristãos, Santo Antônio, e São José. Estes vestidos são usados como uma promessa, ou para obter algum especial favor. Seu uso não é vinculante sob pena de pecado.
 
 > Embora estes abençoados vestidos não estejam exatamente no auge da moda, ainda seu uso deve ser encorajado como um lembrete a nossas moças para vestir-se modestamente sempre; todos devem ser membros desta Legião de Modéstia. A fórmula para abençoar um vestido está no Ritual Romano: "Benedictio Vestis et Cinguli." Mesmo se alguém que prometeu usar um abençoado vestido falha em cumprir sua promessa, não comete pecado. Apenas perde as graças que de outro modo teria recebido pela fiel cumprimento de sua promessa.

@@ -32,7 +32,7 @@
 
 1. As almas pobres não podem ajudar-se, pois seu tempo de merecer terminou em sua morte. Não podem portanto merecer nada para satisfazer por seus pecados.
 
-> É por isto que nós que ainda podemos merecer por nossas boas obras devemos dar algumas delas como sufrágio pelas almas pobres, de modo que logo sejam libertas de sua prisão. Temos a obrigação especial de ajudar com nossas orações e sacrifícios as almas de nossos parentes falecidos, amigos e benfeitores.
+> É por isto que nós que ainda podemos merecer por nossas boas obras devemos dar algumas delas como sufrágio pelas almas pobres, de modo que logo sejam libertas de sua prisão. Temos a obrigação especial de ajudar com nossas orações e sacrifícios as almas de nossos parentes falecidos, amigos, e benfeitores.
 
 2. Embora não possam merecer nada para si mesmas, as almas pobres intercedem por nós com suas orações a Deus.
 

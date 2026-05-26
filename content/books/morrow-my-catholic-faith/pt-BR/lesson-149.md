@@ -13,7 +13,7 @@
 
 > "Se reconhecermos nossos pecados, Ele é fiel e justo para perdoar-nos os pecados" (1 João 1:9).
 
-As principais qualidades de uma boa confissão são três: deve ser humilde, sincera e inteira.
+As principais qualidades de uma boa confissão são três: deve ser humilde, sincera, e inteira.
 
 
 **Quando nossa confissão é humilde?**
@@ -42,7 +42,7 @@ As principais qualidades de uma boa confissão são três: deve ser humilde, sin
 
 **Quando nossa confissão é inteira?**
 
-— Nossa confissão é inteira quando confessamos pelo menos todos os nossos pecados mortais, dizendo sua espécie, o número de vezes que cometemos cada pecado e quaisquer circunstâncias mudando sua natureza.
+— Nossa confissão é inteira quando confessamos pelo menos todos os nossos pecados mortais, dizendo sua espécie, o número de vezes que cometemos cada pecado, e quaisquer circunstâncias mudando sua natureza.
 
 > Conta-se a história de um velho fazendeiro que veio ao confessionário tremendo e vibrando de nervosismo. Disse, "Padre, roubei uma corda!" e parou. Percebendo que a confissão não era inteira, o padre perguntou, "Quão longa era a corda?" O fazendeiro respondeu, "Cerca de três jardas de comprimento, Padre!" Mas ainda estava muito nervoso e assim o padre perguntou, "Havia mais alguma coisa que roubastes?" O fazendeiro tremeu e finalmente ofegou: "Havia uma vaca na extremidade da corda, Padre!"
 
@@ -78,7 +78,7 @@ As principais qualidades de uma boa confissão são três: deve ser humilde, sin
 
 **O que deve fazer uma pessoa que sabidamente escondeu um pecado mortal na confissão?**
 
-— Uma pessoa que sabidamente escondeu um pecado mortal na confissão deve confessar que fez uma confissão má, dizer o pecado que escondeu, mencionar os sacramentos que recebeu desde aquele tempo e confessar todos os outros pecados mortais que cometeu desde sua última boa confissão.
+— Uma pessoa que sabidamente escondeu um pecado mortal na confissão deve confessar que fez uma confissão má, dizer o pecado que escondeu, mencionar os sacramentos que recebeu desde aquele tempo, e confessar todos os outros pecados mortais que cometeu desde sua última boa confissão.
 
 > Deve confessar não apenas o pecado escondido, mas todos os pecados confessados em todas as suas confissões indignas, pois nenhum deles foi perdoado.
 

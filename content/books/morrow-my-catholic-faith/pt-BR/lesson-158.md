@@ -40,7 +40,7 @@
 
 > Sobre o lugar de sepultamento uma grande cruz deve ser ereta. Geralmente, as letras R.I.P. (Requiescat in pace: Descanse em paz) são gravadas na lápide. E aqui uma palavra sobre covas e mausoléus. A santa Santa Mônica, mãe de Santo Agostinho, disse: "Sepultai este corpo onde quer que desejeis. Uma coisa apenas vos peço, e isso é, lembrai-vos de mim no altar do Senhor." Uma cova simples, um elaborado mausoléu — é tudo o mesmo para aqueles falecidos. É claro que é natural para aqueles que têm condições de construir mausoléus onde todos os membros da família possam ser sepultados juntos. O que deve ser evitado é a ereção de estruturas ostentosas que aparecem mais como casas de espetáculo vistosas que sepulcros de cristãos. A cruz deve ser proeminente: as inscrições devem ser litúrgicas e não tiradas de canções populares ou rimas sentimentais.
 
-5. Não-católicos, Maçons, aqueles excomungados como suicidas deliberados, duelistas e aqueles que ordenaram seus corpos cremados, são negados sepultamento cristão.
+5. Não-católicos, Maçons, aqueles excomungados como suicidas deliberados, duelistas, e aqueles que ordenaram seus corpos cremados, são negados sepultamento cristão.
 
 > Lembremo-nos: gastar dinheiro em mausoléus vistosos enquanto mantemos as cordas da bolsa apertadas contra a caridade seria contrário à reta razão. Certamente esplêndidas estruturas não podem aproveitar aos mortos. Infelizmente, continuam a ser construídas para satisfazer a vaidade dos vivos; enquanto isso, estes parentes vivos esquecem de orar, de ter Missas ditas ou de dar esmolas aos pobres, como uma oferta pela alma partida.
 

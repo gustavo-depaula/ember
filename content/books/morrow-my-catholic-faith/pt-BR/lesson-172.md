@@ -49,7 +49,7 @@
 
 (b) Cada um deve escolher por seu modelo um santo cuja posição e vocação são similares à sua própria.
 
-> Rapazes de escola encontrarão entre os melhores modelos Santo Luís Gonzaga; moças de escola, a Pequena Flor, Santa Inês e sempre a Santíssima Virgem; homens casados, São Luís da França, São Tomás More; mulheres casadas, Santa Mônica, Santa Isabel; religiosos, os fundadores canonizados de sua ordem; padres, o Cura d'Ars, São João Bosco, São Filipe Néri; bispos, São Carlos Borromeu, São Francisco de Sales, etc.
+> Rapazes de escola encontrarão entre os melhores modelos Santo Luís Gonzaga; moças de escola, a Pequena Flor, Santa Inês, e sempre a Santíssima Virgem; homens casados, São Luís da França, São Tomás More; mulheres casadas, Santa Mônica, Santa Isabel; religiosos, os fundadores canonizados de sua ordem; padres, o Cura d'Ars, São João Bosco, São Filipe Néri; bispos, São Carlos Borromeu, São Francisco de Sales, etc.
 
 5. Para estar no estado de perfeição cristã, devemos ter um espírito de desapego para com as coisas deste mundo. Lembremo-nos que o eterno é o que conta; o temporal é-nos dado por Deus apenas para ajudar-nos a cumprir nosso fim de louvar, de servi-Lo e assim salvar nossa alma.
 

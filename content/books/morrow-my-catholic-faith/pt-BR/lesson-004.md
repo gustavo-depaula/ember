@@ -2,7 +2,7 @@
 
 ![](../images/lesson-004.webp)
 
-*Deus é eterno: não tem princípio nem fim. Antes que houvesse qualquer coisa, havia Deus. Ele sempre foi, é e sempre será. Com Deus não há tempo: tudo é presente. Não podemos imaginar a eternidade, mas podemos compreender o que é ser sem princípio nem fim.*
+*Deus é eterno: não tem princípio nem fim. Antes que houvesse qualquer coisa, havia Deus. Ele sempre foi, é, e sempre será. Com Deus não há tempo: tudo é presente. Não podemos imaginar a eternidade, mas podemos compreender o que é ser sem princípio nem fim.*
 
 
 **O que queremos dizer quando dizemos que Deus é eterno?**
@@ -33,7 +33,7 @@
 
 **O que queremos dizer quando dizemos que Deus é todo-sabedor?**
 
-— Quando dizemos que Deus é todo-sabedor, queremos dizer que Ele conhece todas as coisas, passadas, presentes e futuras, mesmo nossos pensamentos, palavras e ações mais secretos.
+— Quando dizemos que Deus é todo-sabedor, queremos dizer que Ele conhece todas as coisas, passadas, presentes, e futuras, mesmo nossos pensamentos, palavras, e ações mais secretos.
 
 1. Deus é todo-sabedor. Diante de Seus olhos todos os segredos, mesmo os mais ocultos, são claros, até segredos que não serão pensados pelo homem até o fim do mundo.
 
@@ -74,9 +74,9 @@
 > Contudo Deus criou toda a imensidão dos céus com nada exceto Sua palavra. "Faça-se a luz. E a luz foi feita" (Gên. 1:3). Da mesma forma Nosso Senhor operou muitos de Seus milagres. "Grande é o Senhor... de Sua grandeza não há fim" (Sl. 144).
 
 
-**Deus é todo-sábio, todo-santo, todo-misericordioso e todo-justo?**
+**Deus é todo-sábio, todo-santo, todo-misericordioso, e todo-justo?**
 
-— Sim, Deus é todo-sábio, todo-santo, todo-misericordioso e todo-justo.
+— Sim, Deus é todo-sábio, todo-santo, todo-misericordioso, e todo-justo.
 
 1. Deus é todo-sábio. Quanto mais aprendemos sobre as maravilhas do universo, mais somos maravilhados pela infinita sabedoria de Deus, por Seu poder todo-poderoso.
 

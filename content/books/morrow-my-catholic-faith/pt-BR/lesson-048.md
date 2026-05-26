@@ -1,9 +1,9 @@
 # 48. Os Apóstolos: Primeiros Bispos da Igreja
 
 
-**A quem Cristo deu o poder de ensinar, santificar e governar os membros de Sua Igreja?**
+**A quem Cristo deu o poder de ensinar, santificar, e governar os membros de Sua Igreja?**
 
-— Cristo deu o poder de ensinar, santificar e governar os membros de Sua Igreja aos Apóstolos, os primeiros bispos da Igreja.
+— Cristo deu o poder de ensinar, santificar, e governar os membros de Sua Igreja aos Apóstolos, os primeiros bispos da Igreja.
 
 1. São Pedro foi o primeiro Cabeça. Após uma fuga milagrosa da prisão em Jerusalém, fundou sua Sé em Antioquia; aqui os seguidores de Cristo foram pela primeira vez chamados Cristãos. Pedro fez frequentes viagens missionárias através da Judeia, Samaria, Galileia, Ásia Menor, e provavelmente até mesmo Grécia. Finalmente fixou sua Sé em Roma.
 
@@ -17,7 +17,7 @@
 
 > Foi o primeiro dos Apóstolos a ser martirizado sendo decapitado em Jerusalém no ano 44, por Herodes Agripa.
 
-4. São Mateus pregou entre os Etíopes, Persas e Partos, e foi martirizado na Pártia. Escreveu o primeiro dos quatro Evangelhos.
+4. São Mateus pregou entre os Etíopes, Persas, e Partos, e foi martirizado na Pártia. Escreveu o primeiro dos quatro Evangelhos.
 
 > São Tiago o Menor foi Bispo de Jerusalém. Foi lançado do pináculo do Templo em 63 d.C. Deixou uma Epístola.
 
@@ -27,7 +27,7 @@
 
 > São Filipe pregou na Frígia e Cítia, e foi crucificado em Hierápolis.
 
-> São Bartolomeu pregou na Índia, Arábia e Assíria. Foi esfolado e crucificado na Armênia.
+> São Bartolomeu pregou na Índia, Arábia, e Assíria. Foi esfolado e crucificado na Armênia.
 
 > São Simão pregou no Norte da África, e foi martirizado na Pérsia.
 
@@ -44,7 +44,7 @@
 
 — Não, Cristo pretendeu que este poder fosse exercido também por seus sucessores, os bispos da Igreja.
 
-1. Os Apóstolos primeiro pregaram na Judeia no próprio primeiro Pentecostes Cristão. Depois dispersaram-se através dos diferentes países do então mundo conhecido. Em toda parte pregavam, batizavam e governavam as comunidades cristãs. Eram os primeiros bispos da Igreja.
+1. Os Apóstolos primeiro pregaram na Judeia no próprio primeiro Pentecostes Cristão. Depois dispersaram-se através dos diferentes países do então mundo conhecido. Em toda parte pregavam, batizavam, e governavam as comunidades cristãs. Eram os primeiros bispos da Igreja.
 
 > "Como o Pai Me enviou, Eu também vos envio" (João 20:21).
 

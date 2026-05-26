@@ -70,4 +70,4 @@ Tal é a constante e unânime Tradição da Igreja Católica e ninguém pode que
 
 **É aconselhável unir-se em concílio?**
 
-— É verdade que as circunstâncias presentes tornam aconselhável que os bispos se reúnam mais frequentemente, unidos na caridade de Cristo, a fim de compartilhar em comum seus pensamentos, desejos, decisões e cuidados pastorais, mantendo sempre perfeita unidade, contudo, sem diminuir o poder do Pontífice Romano, ou aquele de cada bispo individual.
+— É verdade que as circunstâncias presentes tornam aconselhável que os bispos se reúnam mais frequentemente, unidos na caridade de Cristo, a fim de compartilhar em comum seus pensamentos, desejos, decisões, e cuidados pastorais, mantendo sempre perfeita unidade, contudo, sem diminuir o poder do Pontífice Romano, ou aquele de cada bispo individual.

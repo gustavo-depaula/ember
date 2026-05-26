@@ -9,7 +9,7 @@
 
 — Não, Jesus Cristo é apenas uma Pessoa; e essa Pessoa é a segunda Pessoa da Santíssima Trindade.
 
-> Através dos Evangelhos, podemos ler sobre Jesus Cristo como apenas uma Pessoa; comendo, dormindo, falando e morrendo, como apenas uma Pessoa.
+> Através dos Evangelhos, podemos ler sobre Jesus Cristo como apenas uma Pessoa; comendo, dormindo, falando, e morrendo, como apenas uma Pessoa.
 
 1. Uma "pessoa" é um ser que é inteligente e livre, e responsável por suas ações. Atribuímos a ele todo o bem ou mal que faz no uso de seus poderes humanos, porque ele possui ou controla esses poderes.
 
@@ -57,14 +57,14 @@ Portanto Jesus Cristo é tanto Deus quanto homem; tem tanto poderes divinos quan
 
 2. Devemos dizer o nome de Nosso Senhor com grande reverência. Devemos inclinar nossa cabeça cada vez que o pronunciamos.
 
-> "No nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra e debaixo da terra" (Fil. 2:10). O símbolo IHS é composto das três primeiras letras do nome Jesus em grego.
+> "No nome de Jesus dobre-se todo joelho, dos que estão no céu, na terra, e debaixo da terra" (Fil. 2:10). O símbolo IHS é composto das três primeiras letras do nome Jesus em grego.
 
 
 **O que significa o nome Cristo?**
 
 — O nome Cristo significa "O Ungido".
 
-1. "Cristo" é uma palavra grega, com o mesmo significado que "Messias". Na Lei Antiga, era o costume ungir com óleo profetas, sumo-sacerdotes e reis.
+1. "Cristo" é uma palavra grega, com o mesmo significado que "Messias". Na Lei Antiga, era o costume ungir com óleo profetas, sumo-sacerdotes, e reis.
 
 > Nosso Senhor é o maior dos Profetas. É o Sumo-Sacerdote que Se oferece por toda a humanidade. É o Rei dos anjos e homens. Portanto é apropriado que O chamemos Cristo. Ele verdadeiramente é o Ungido.
 

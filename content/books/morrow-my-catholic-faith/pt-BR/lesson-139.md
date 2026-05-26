@@ -7,9 +7,9 @@
 
 **Como devemos assistir à Missa?**
 
-— Devemos assistir à Missa com reverência, atenção e devoção.
+— Devemos assistir à Missa com reverência, atenção, e devoção.
 
-1. Devemos lembrar que estamos presentes ao Santo Sacrifício do Corpo e Sangue de Cristo. Sussurrar, rir e olhar ao redor durante a Missa são fora de lugar e irreverentes.
+1. Devemos lembrar que estamos presentes ao Santo Sacrifício do Corpo e Sangue de Cristo. Sussurrar, rir, e olhar ao redor durante a Missa são fora de lugar e irreverentes.
 
 > Quando estamos conversando com alguém, damos-lhe toda nossa atenção e nem pensamos em outras pessoas. Na Missa, estamos na Presença Real de Deus. Devemos fixar nossa atenção n'Ele e esquecer tudo mais. É prática ajoelhar-se durante a Missa, pelo menos do início ao Ofertório e do Sanctus até após a Comunhão, ficando de pé para os Evangelhos.
 
@@ -42,9 +42,9 @@
 
 3. É uma grande honra e privilégio ser permitido servir Missa. Este privilégio é reservado a rapazes e homens. Moças e mulheres podem responder às orações da Missa, como acólitos, mas não é-lhes permitido entrar no santuário. Todo rapaz deve aproveitar-se da oportunidade quando se oferece. Mistura-se com os anjos no santuário; obtém graças especiais por seu serviço. Pais devem ver que seus rapazes juntem-se à Sociedade dos Acólitos da paróquia.
 
-> O mais cedo possível, quando um rapaz tem 7 ou 8 anos, deve ser acostumado a servir Missa. Deve aprender bem as orações da Missa, pronunciá-las distintamente e entender seu significado quando é suficientemente avançado. Deve ser recolhido em modo, lembrando onde está e em que santa cerimônia está tomando parte.
+> O mais cedo possível, quando um rapaz tem 7 ou 8 anos, deve ser acostumado a servir Missa. Deve aprender bem as orações da Missa, pronunciá-las distintamente, e entender seu significado quando é suficientemente avançado. Deve ser recolhido em modo, lembrando onde está e em que santa cerimônia está tomando parte.
 
-4. Se todos não podem servir Missa, ao menos todos, homem, mulher ou criança, pode unir-se ao padre em oferecer o Santo Sacrifício: e todos que atingiram a idade da razão e foram devidamente preparados podem receber Comunhão.
+4. Se todos não podem servir Missa, ao menos todos, homem, mulher, ou criança, pode unir-se ao padre em oferecer o Santo Sacrifício: e todos que atingiram a idade da razão e foram devidamente preparados podem receber Comunhão.
 
 
 **Por que a Missa é dita em Latim?**

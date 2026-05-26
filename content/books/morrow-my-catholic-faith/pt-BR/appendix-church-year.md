@@ -42,7 +42,7 @@
 
 **Domingo da Septuagésima.**
 
-> O Domingo da Septuagésima e os dois domingos seguintes, Sexagésima e Quinquagésima, significam respectivamente septuagésimo, sexagésimo e quinquagésimo, porque caem próximos do 70º, 60º e 50º dias antes da Páscoa. O Domingo da Quaresma, próximo do quadragésimo dia, é o primeiro domingo da Quaresma. Em muitos países, o período em que os católicos podem cumprir seu dever pascal de Confissão e Comunhão começa no primeiro domingo da Quaresma e dura até a Festa da Santíssima Trindade, no domingo após Pentecostes.
+> O Domingo da Septuagésima e os dois domingos seguintes, Sexagésima e Quinquagésima, significam respectivamente septuagésimo, sexagésimo e quinquagésimo, porque caem próximos do 70º, 60º, e 50º dias antes da Páscoa. O Domingo da Quaresma, próximo do quadragésimo dia, é o primeiro domingo da Quaresma. Em muitos países, o período em que os católicos podem cumprir seu dever pascal de Confissão e Comunhão começa no primeiro domingo da Quaresma e dura até a Festa da Santíssima Trindade, no domingo após Pentecostes.
 
 
 **A Purificação da Santíssima Virgem Maria,** comumente chamada de Festa das Candeias (2 de fevereiro).
@@ -82,7 +82,7 @@
 
 **Quinta-feira Santa.**
 
-> Este dia comemora especialmente a instituição do Santíssimo Sacramento por Nosso Senhor na Última Ceia. Neste dia realiza-se o lava-pés em memória daquela cerimônia realizada por Nosso Senhor, que lavou os pés de Seus discípulos pouco antes da instituição da Santa Eucaristia. Há uma procissão do Santíssimo Sacramento após a Missa, e uma Hóstia consagrada é colocada em outro altar, chamado Sacrário, onde permanece até o dia seguinte. Neste dia, os bons católicos dedicam uma ou duas horas à adoração do Santíssimo Sacramento assim solenemente exposto. Nas catedrais, os santos óleos são consagrados pelos Bispos neste dia. Estes santos óleos são usados para administrar os Sacramentos do Batismo e Crisma, Extrema-Unção e Ordens Sagradas, bem como para consagrar igrejas, altares, cálices, sinos, etc.
+> Este dia comemora especialmente a instituição do Santíssimo Sacramento por Nosso Senhor na Última Ceia. Neste dia realiza-se o lava-pés em memória daquela cerimônia realizada por Nosso Senhor, que lavou os pés de Seus discípulos pouco antes da instituição da Santa Eucaristia. Há uma procissão do Santíssimo Sacramento após a Missa, e uma Hóstia consagrada é colocada em outro altar, chamado Sacrário, onde permanece até o dia seguinte. Neste dia, os bons católicos dedicam uma ou duas horas à adoração do Santíssimo Sacramento assim solenemente exposto. Nas catedrais, os santos óleos são consagrados pelos Bispos neste dia. Estes santos óleos são usados para administrar os Sacramentos do Batismo e Crisma, Extrema-Unção, e Ordens Sagradas, bem como para consagrar igrejas, altares, cálices, sinos, etc.
 
 > Missas particulares são proibidas neste dia. Na única Missa em cada igreja, há uma comunhão geral na qual os sacerdotes participam. Após a Missa, o altar é desnudado, para mostrar que o Santo Sacrifício é interrompido até o Sábado Santo. Na noite da Quinta-feira Santa, uma vigília noturna é realizada na igreja diante do Sacrário. Onde há mais de uma igreja na comunidade, as pessoas vão de uma a outra à tarde e à noite da Quinta-feira Santa, rezando em cada Sacrário.
 
@@ -96,7 +96,7 @@
 
 **Sábado Santo.**
 
-> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso e a pia batismal. Ao meio-dia termina a estação da Quaresma, e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
+> Neste dia, a Igreja abençoa o fogo novo, o círio pascal, o incenso, e a pia batismal. Ao meio-dia termina a estação da Quaresma, e começa o tempo pascal. O *Regina Coeli* em vez do *Angelus* é rezado até a véspera do Domingo da Trindade. As cerimônias do Sábado Santo ocorrem à noite e terminam ao amanhecer na manhã de Páscoa. Daí seu caráter alegre. O círio pascal representa Cristo, ressuscitando dos mortos. Os cinco grãos de incenso representam Suas cinco chagas.
 
 
 **Domingo de Páscoa.**
@@ -178,7 +178,7 @@
 
 **A Transfiguração,** 6 de agosto.
 
-> Esta festa comemora o dia em que Nosso Senhor levou Pedro, Tiago e João para um monte apartado, e lá foi transfigurado diante deles, Seu rosto brilhando como o sol, e Suas vestes tornando-se brancas como a neve.
+> Esta festa comemora o dia em que Nosso Senhor levou Pedro, Tiago, e João para um monte apartado, e lá foi transfigurado diante deles, Seu rosto brilhando como o sol, e Suas vestes tornando-se brancas como a neve.
 
 
 **A Assunção da Santíssima Virgem Maria,** 15 de agosto.
@@ -201,7 +201,7 @@
 
 **As Sete Dores da Santíssima Virgem Maria,** 15 de setembro.
 
-> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2:15), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2:42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz e o sepultamento de Nosso Senhor.
+> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2:15), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2:42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz, e o sepultamento de Nosso Senhor.
 
 
 **Festa dos Santos Anjos da Guarda,** 2 de outubro.
@@ -224,4 +224,4 @@
 
 **Dia de Finados,** 2 de novembro.
 
-> Este dia comemora todas as santas almas do Purgatório. É um dia de piedosa lembrança dos mortos e de oferta de Missas e orações por elas. Neste dia, assim como no Natal, os sacerdotes podem celebrar três Missas, pelas almas dos falecidos, para que sejam libertas do Purgatório. Do meio-dia do Dia de Todos os Santos até a meia-noite do dia seguinte (Dia de Finados), todos os que se confessaram e receberam a Sagrada Comunhão em qualquer dos dois dias ou dentro da oitava seguinte podem ganhar a indulgência *toties quoties*: uma indulgência plenária aplicável às almas do Purgatório cada vez que visitarem uma igreja ou capela pública, e rezarem seis Pai-Nossos, seis Ave-Marias e seis Glórias pela intenção do Santo Padre. Deve-se notar aqui que aqueles que têm o costume de se confessar pelo menos duas vezes por mês, ou de comungar diariamente em estado de graça e com intenção reta e santa, e mesmo que não comunguem uma ou duas vezes durante a semana, podem, sem confissão, ganhar todas as indulgências para as quais a confissão é prescrita como condição necessária. Se a indulgência *toties quoties* não for ganha nos Dias de Todos os Santos e Finados, pode ser ganha no domingo seguinte. Quando 2 de novembro cai em um domingo, o Dia de Finados é celebrado na segunda-feira seguinte, 3 de novembro.
+> Este dia comemora todas as santas almas do Purgatório. É um dia de piedosa lembrança dos mortos e de oferta de Missas e orações por elas. Neste dia, assim como no Natal, os sacerdotes podem celebrar três Missas, pelas almas dos falecidos, para que sejam libertas do Purgatório. Do meio-dia do Dia de Todos os Santos até a meia-noite do dia seguinte (Dia de Finados), todos os que se confessaram e receberam a Sagrada Comunhão em qualquer dos dois dias ou dentro da oitava seguinte podem ganhar a indulgência *toties quoties*: uma indulgência plenária aplicável às almas do Purgatório cada vez que visitarem uma igreja ou capela pública, e rezarem seis Pai-Nossos, seis Ave-Marias, e seis Glórias pela intenção do Santo Padre. Deve-se notar aqui que aqueles que têm o costume de se confessar pelo menos duas vezes por mês, ou de comungar diariamente em estado de graça e com intenção reta e santa, e mesmo que não comunguem uma ou duas vezes durante a semana, podem, sem confissão, ganhar todas as indulgências para as quais a confissão é prescrita como condição necessária. Se a indulgência *toties quoties* não for ganha nos Dias de Todos os Santos e Finados, pode ser ganha no domingo seguinte. Quando 2 de novembro cai em um domingo, o Dia de Finados é celebrado na segunda-feira seguinte, 3 de novembro.

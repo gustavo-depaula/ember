@@ -11,7 +11,7 @@
 
 **Que paramentos o padre usa na celebração da Santa Missa?**
 
-— O padre usa o amito, alva, cíngulo, manípulo, estola e casula, na celebração da Missa.
+— O padre usa o amito, alva, cíngulo, manípulo, estola, e casula, na celebração da Missa.
 
 > Quando o padre aparece diante de Deus no altar, ele está vestido com paramentos adequados. Deus Mesmo deu direções sobre os paramentos dos padres no Antigo Testamento (Êxodo 28:4). Os principais paramentos usados pelos padres católicos chegaram até nós desde o tempo dos Apóstolos.
 
@@ -39,14 +39,14 @@
 
 6. A casula é o paramento superior usado pelo celebrante na Missa. Pende dos ombros, diante e atrás, quase até os joelhos.
 
-> A oração de paramento na Missa é, "Ó Senhor, Que disseste, Meu jugo é suave e meu fardo leve, concede que eu o carregue de modo a obter Tua graça." A casula, estola, manípulo e véu para o cálice são feitos como um conjunto de paramentos, do mesmo material, cor e desenho.
+> A oração de paramento na Missa é, "Ó Senhor, Que disseste, Meu jugo é suave e meu fardo leve, concede que eu o carregue de modo a obter Tua graça." A casula, estola, manípulo, e véu para o cálice são feitos como um conjunto de paramentos, do mesmo material, cor, e desenho.
 
 7. A barreta é o boné quadrado de três cristas usado pelo padre quando entra no santuário. (Veja página 282.)
 
 
 **Que paramentos são usados pelo padre fora da Missa?**
 
-— Fora da Missa, o padre usa a batina ou soutane, a capa, a sobrepeliz e o véu umeral.
+— Fora da Missa, o padre usa a batina ou soutane, a capa, a sobrepeliz, e o véu umeral.
 
 1. A batina ou soutane é o principal paramento usado por eclesiásticos.
 
@@ -56,17 +56,17 @@
 
 > Na Missa Alta, o diácono usa um paramento especial chamado dalmática, e o subdiácono uma túnica.
 
-3. A capa é um manto usado para bênção, procissões e outras ocasiões fora da Missa.
+3. A capa é um manto usado para bênção, procissões, e outras ocasiões fora da Missa.
 
 > Quando um padre morre, ele é sepultado vestido em sua batina e sobrepeliz, e com a estola roxa, a insígnia de seu sacerdócio. Em completos paramentos roxos, jaz em dignidade.
 
 4. O véu umeral é o longo pano de seda usado pelo padre ao carregar o Santíssimo Sacramento e dar a bênção.
 
-> Alguns dos paramentos, como o amito, alva, sobrepeliz e véu de bênção, são sempre brancos. A estola para ouvir confissões é sempre roxa.
+> Alguns dos paramentos, como o amito, alva, sobrepeliz, e véu de bênção, são sempre brancos. A estola para ouvir confissões é sempre roxa.
 
 
-**Por que os católicos gastam grande cuidado e dinheiro em vasos sagrados, paramentos e mobiliário para o altar?**
+**Por que os católicos gastam grande cuidado e dinheiro em vasos sagrados, paramentos, e mobiliário para o altar?**
 
-— Os católicos gastam grande cuidado e dinheiro em vasos sagrados, paramentos e mobiliário para o altar, porque é apenas direito dar o que é mais precioso e belo para o serviço de Deus.
+— Os católicos gastam grande cuidado e dinheiro em vasos sagrados, paramentos, e mobiliário para o altar, porque é apenas direito dar o que é mais precioso e belo para o serviço de Deus.
 
-> Nada é demasiado bom para o Senhor do céu e terra. A beleza da casa de Deus também impressiona o observador e ajuda a devoção. Algumas pessoas de mente mundana são propensas a perguntar, "Para que este desperdício?" quando veem quanto cuidado e dinheiro os católicos gastam em vasos sagrados, paramentos e ornamentos de igreja. Lembremo-nos que Judas perguntou isto quando Madalena ungiu Nosso Senhor.
+> Nada é demasiado bom para o Senhor do céu e terra. A beleza da casa de Deus também impressiona o observador e ajuda a devoção. Algumas pessoas de mente mundana são propensas a perguntar, "Para que este desperdício?" quando veem quanto cuidado e dinheiro os católicos gastam em vasos sagrados, paramentos, e ornamentos de igreja. Lembremo-nos que Judas perguntou isto quando Madalena ungiu Nosso Senhor.

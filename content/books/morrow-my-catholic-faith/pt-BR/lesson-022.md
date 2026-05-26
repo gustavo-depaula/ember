@@ -9,11 +9,11 @@
 
 — Pecado mortal é uma ofensa grave à lei de Deus.
 
-1. Qualquer pensamento, palavra, ação ou omissão voluntária, em violação séria da lei de Deus, é um pecado mortal. Exemplos de pecado mortal são blasfêmia, assassinato voluntário, adultério, incêndio criminoso, roubo, etc. Pecado mortal ocorre assim que Deus não é mais nosso fim final em nossos pensamentos, palavras e ações.
+1. Qualquer pensamento, palavra, ação ou omissão voluntária, em violação séria da lei de Deus, é um pecado mortal. Exemplos de pecado mortal são blasfêmia, assassinato voluntário, adultério, incêndio criminoso, roubo, etc. Pecado mortal ocorre assim que Deus não é mais nosso fim final em nossos pensamentos, palavras, e ações.
 
 > Cada pecado mortal que cometemos é um insulto tríplice ao Deus Todo-Poderoso: insulta-O por rebelião ou desobediência, por ingratidão, e por desprezo.
 
-2. Circunstâncias de pessoa, causa, tempo, lugar, meios, objeto e consequências más aumentam ou diminuem a culpa do pecado.
+2. Circunstâncias de pessoa, causa, tempo, lugar, meios, objeto, e consequências más aumentam ou diminuem a culpa do pecado.
 
 > Assim pecados mortais, embora todos mortais, diferem no peso de sua culpa.
 
@@ -54,7 +54,7 @@
 
 **Que três coisas são necessárias para fazer um pecado mortal?**
 
-— Para fazer um pecado mortal, estas três coisas são necessárias: Primeiro, o pensamento, desejo, palavra, ação ou omissão deve ser seriamente errado ou considerado seriamente errado. — A matéria deve ser grave, algo muito importante.
+— Para fazer um pecado mortal, estas três coisas são necessárias: Primeiro, o pensamento, desejo, palavra, ação, ou omissão deve ser seriamente errado ou considerado seriamente errado. — A matéria deve ser grave, algo muito importante.
 
 > Um leve ato de vaidade ou impaciência não é matéria grave, mas assassinato é. Coisas seriamente más são conhecidas como tais da Sagrada Escritura, Tradição, ensinamentos da Igreja, ou de sua natureza.
 
@@ -69,7 +69,7 @@ Terceiro, o pecador deve plenamente consentir a isso. — Deve fazê-lo de sua p
 
 **O pecado mortal é um grande mal?**
 
-— Pecado mortal é um grande mal, o maior mal do mundo, um mal maior que doença, pobreza ou guerra, porque nos separa de Deus.
+— Pecado mortal é um grande mal, o maior mal do mundo, um mal maior que doença, pobreza, ou guerra, porque nos separa de Deus.
 
 > "Mas os que cometem pecado e iniquidade são inimigos de sua própria alma" (Jó 12:10).
 

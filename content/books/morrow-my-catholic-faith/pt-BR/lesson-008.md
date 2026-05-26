@@ -37,7 +37,7 @@
 
 1. A ciência através dos anos tem se provado serva, em vez de inimiga, da Bíblia. Escavações e pesquisas recentes provaram que eventos tão distantes como a Queda de Jericó, a destruição de Sodoma e Gomorra, e o Dilúvio, realmente e de fato aconteceram, e não são meras figuras de linguagem.
 
-> Sir Charles Marston, o eminente arqueólogo britânico que trabalhou extensivamente na Palestina, declara firmemente que longe de ser mera mitologia, o Antigo Testamento é, substancialmente, relatos contemporâneos de testemunhas oculares de eventos estabelecidos conforme ocorreram. Restos que encontrou incluem informação sobre eventos que ocorreram nos tempos de Abraão, Moisés, Salomão e Jeremias o Profeta; até o nome de Abraão foi encontrado. Tabuletas encontradas na Babilônia e Assíria referem-se ao Dilúvio.
+> Sir Charles Marston, o eminente arqueólogo britânico que trabalhou extensivamente na Palestina, declara firmemente que longe de ser mera mitologia, o Antigo Testamento é, substancialmente, relatos contemporâneos de testemunhas oculares de eventos estabelecidos conforme ocorreram. Restos que encontrou incluem informação sobre eventos que ocorreram nos tempos de Abraão, Moisés, Salomão, e Jeremias o Profeta; até o nome de Abraão foi encontrado. Tabuletas encontradas na Babilônia e Assíria referem-se ao Dilúvio.
 
 2. O Antigo Testamento foi reconhecido por Jesus Cristo, aprovado por Ele, e frequentemente citado por Ele. Evidências do Novo Testamento provam que este foi escrito pelos Apóstolos e discípulos de Cristo.
 
@@ -54,16 +54,16 @@
 
 1. O Antigo Testamento, escrito antes de Cristo, consiste em quarenta e cinco livros:
 
-> (a) Vinte e um livros históricos relativos às eras mais antigas do mundo, ou à história dos judeus, entre cujos livros estão os cinco livros de Moisés e os quatro livros dos Reis; (b) Sete livros doutrinários, compostos de máximas e orações, entre os quais estão os Salmos e os Provérbios; e (c) Dezessete livros proféticos, de quatro profetas maiores e doze menores, entre cujos livros estão Isaías, Jeremias e Daniel.
+> (a) Vinte e um livros históricos relativos às eras mais antigas do mundo, ou à história dos judeus, entre cujos livros estão os cinco livros de Moisés e os quatro livros dos Reis; (b) Sete livros doutrinários, compostos de máximas e orações, entre os quais estão os Salmos e os Provérbios; e (c) Dezessete livros proféticos, de quatro profetas maiores e doze menores, entre cujos livros estão Isaías, Jeremias, e Daniel.
 
 2. O Novo Testamento, escrito após a Ascensão de Cristo, consiste em vinte e sete livros, como segue:
 
-> (a) Os quatro Evangelhos segundo São Mateus, São Marcos, São Lucas e São João, contendo a história da vida de Cristo; (b) Os Atos dos Apóstolos, de São Lucas, contendo a história dos Apóstolos após a Ascensão de Nosso Senhor ao céu; (c) Vinte e uma epístolas de São Paulo, São Tiago, São Pedro, São João e São Judas; e (d) O Apocalipse de São João. Os quatro Evangelhos e os Atos são principalmente históricos. As Epístolas são doutrinárias. O Apocalipse é profético.
+> (a) Os quatro Evangelhos segundo São Mateus, São Marcos, São Lucas, e São João, contendo a história da vida de Cristo; (b) Os Atos dos Apóstolos, de São Lucas, contendo a história dos Apóstolos após a Ascensão de Nosso Senhor ao céu; (c) Vinte e uma epístolas de São Paulo, São Tiago, São Pedro, São João, e São Judas; e (d) O Apocalipse de São João. Os quatro Evangelhos e os Atos são principalmente históricos. As Epístolas são doutrinárias. O Apocalipse é profético.
 
 
 **Quem são os quatro Evangelistas?**
 
-— Os quatro Evangelistas são São Mateus, São Marcos, São Lucas e São João.
+— Os quatro Evangelistas são São Mateus, São Marcos, São Lucas, e São João.
 
 1. São Mateus foi um dos doze Apóstolos. Antes de seguir Nosso Senhor, era um cobrador de impostos ou publicano chamado Levi.
 

@@ -41,7 +41,7 @@ Aqueles que atingiram a idade da razão, geralmente no sétimo ano, são obrigad
 
 — Um católico que negligencia receber a Santa Comunhão dignamente durante o tempo pascal comete um pecado mortal.
 
-1. Todos que chegaram ao uso da razão são obrigados por esta lei da Comunhão Pascal. Pais, professores e pastores são obrigados a ver que as crianças sob seu cuidado cumpram sua obrigação pascal.
+1. Todos que chegaram ao uso da razão são obrigados por esta lei da Comunhão Pascal. Pais, professores, e pastores são obrigados a ver que as crianças sob seu cuidado cumpram sua obrigação pascal.
 
 > A obrigação da Comunhão Pascal obriga sob pena de pecado mortal. Alguém não cumpre o dever se sua comunhão ou confissão é indigna.
 
@@ -53,7 +53,7 @@ Aqueles que atingiram a idade da razão, geralmente no sétimo ano, são obrigad
 
 > Cristo Mesmo comandou: "Se não comerdes a Carne do Filho do Homem e beberdes Seu Sangue, não tereis vida em vós" (João 6:54). Santa Comunhão é o alimento de nossas almas. Não deixemos nossas almas morrerem de fome negando-lhes este alimento celestial.
 
-Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali e em toda parte, buscando remédios. Mas Santa Comunhão é um remédio sobrenatural para almas doentes; e quantos há que o buscam?
+Quando estamos doentes, estamos ávidos o suficiente para correr aqui, ali, e em toda parte, buscando remédios. Mas Santa Comunhão é um remédio sobrenatural para almas doentes; e quantos há que o buscam?
 
 
 **O que é o tempo pascal?**

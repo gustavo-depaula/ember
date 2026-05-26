@@ -33,7 +33,7 @@ Após o salmo, o padre inclina-se e diz o Confiteor, uma confissão de pecado, c
 
 Originalmente o Introito era um salmo cantado pelo padre e seus assistentes quando entravam no santuário. Hoje está reduzido a um versículo, o primeiro a ser lido na Missa.
 
-> O Introito varia cada dia, como também outras certas partes da Missa, como as Coletas, Epístola, Gradual, Evangelho, Ofertório, Secretas, Comunhão e Pós-comunhões.
+> O Introito varia cada dia, como também outras certas partes da Missa, como as Coletas, Epístola, Gradual, Evangelho, Ofertório, Secretas, Comunhão, e Pós-comunhões.
 
 :::row
 ![](../images/lesson-140c.webp)
@@ -45,7 +45,7 @@ Epístola
 
 ## O Kyrie
 
-O padre vai ao centro e recita o Kyrie eleison alternadamente com o acólito, implorando a misericórdia de Deus. A oração é repetida nove vezes: três em honra a Deus Pai, três em honra a Deus Filho e três em honra a Deus Espírito Santo.
+O padre vai ao centro e recita o Kyrie eleison alternadamente com o acólito, implorando a misericórdia de Deus. A oração é repetida nove vezes: três em honra a Deus Pai, três em honra a Deus Filho, e três em honra a Deus Espírito Santo.
 
 
 ## O Gloria
@@ -71,7 +71,7 @@ A Epístola ou Lição segue. É uma leitura da Escritura, usualmente de uma das
 
 ## O Gradual
 
-Aqui seguem o Gradual, Aleluia, Trato e Sequência, todos variando de acordo com a estação do ano eclesiástico. Trato e Sequência não são frequentemente ditos.
+Aqui seguem o Gradual, Aleluia, Trato, e Sequência, todos variando de acordo com a estação do ano eclesiástico. Trato e Sequência não são frequentemente ditos.
 
 > O Missal é então levado à esquerda ou lado do evangelho do altar. Este ato simboliza a passagem da fé dos judeus para os gentios.
 
@@ -86,9 +86,9 @@ O Ofertório
 
 ## O Evangelho
 
-O Evangelho é tirado de um dos quatro Evangelistas. Durante a leitura, o povo fica de pé, por reverência à palavra de Deus. O padre começa a leitura fazendo o sinal da cruz na testa, lábios e peito.
+O Evangelho é tirado de um dos quatro Evangelistas. Durante a leitura, o povo fica de pé, por reverência à palavra de Deus. O padre começa a leitura fazendo o sinal da cruz na testa, lábios, e peito.
 
-> O povo faz o mesmo, para mostrar que crê no Evangelho, sempre o professará e sempre o amará. Na Missa Alta o Diácono canta o Evangelho.
+> O povo faz o mesmo, para mostrar que crê no Evangelho, sempre o professará, e sempre o amará. Na Missa Alta o Diácono canta o Evangelho.
 
 
 ## O Credo
@@ -142,7 +142,7 @@ O Sanctus representa a entrada de Cristo em Jerusalém. O povo deve unir-se aos 
 
 ## O Cânon da Missa
 
-O Cânon, ou parte mais solene da Missa, segue. Uma lembrança é feita pela Igreja, o Santo Padre, o Bispo do lugar e os fiéis. O Papa e o Bispo são mencionados por seus primeiros nomes. O Memento, ou oração pelos vivos, é dito. Isto representa também a oração de Cristo pela Igreja na Última Ceia. A assistência dos santos é invocada.
+O Cânon, ou parte mais solene da Missa, segue. Uma lembrança é feita pela Igreja, o Santo Padre, o Bispo do lugar, e os fiéis. O Papa e o Bispo são mencionados por seus primeiros nomes. O Memento, ou oração pelos vivos, é dito. Isto representa também a oração de Cristo pela Igreja na Última Ceia. A assistência dos santos é invocada.
 
 > Assim a Igreja militante e triunfante estão unidas para honrar Deus.
 
@@ -198,7 +198,7 @@ Comunhão do Padre
 
 ## A Comunhão
 
-Após várias orações de preparação, a campainha do santuário é tocada e o padre dá Comunhão a si mesmo. Recebe o Corpo de Cristo, dizendo: "O Corpo de nosso Senhor Jesus Cristo guarde minha alma para a vida eterna. Amém." O padre medita, então descobre o cálice, genuflete e diz: "Que darei eu ao Senhor por tudo que Ele me deu? Tomarei o cálice da salvação" etc. Então recebe o Precioso Sangue, dizendo, "O Sangue de Nosso Senhor Jesus Cristo guarde minha alma para a vida eterna. Amém".
+Após várias orações de preparação, a campainha do santuário é tocada e o padre dá Comunhão a si mesmo. Recebe o Corpo de Cristo, dizendo: "O Corpo de nosso Senhor Jesus Cristo guarde minha alma para a vida eterna. Amém." O padre medita, então descobre o cálice, genuflete, e diz: "Que darei eu ao Senhor por tudo que Ele me deu? Tomarei o cálice da salvação" etc. Então recebe o Precioso Sangue, dizendo, "O Sangue de Nosso Senhor Jesus Cristo guarde minha alma para a vida eterna. Amém".
 
 > A Comunhão é a terceira parte principal da Missa e termina o sacrifício atual. Representa o sepultamento de Cristo.
 
@@ -241,7 +241,7 @@ O padre volta-se para o povo e diz: "*Ite, Missa est*" (Ide, a Missa está termi
 
 Mas mesmo com as palavras formais de despedida do padre, o povo não deve sair; a Missa ainda não terminou. Há uma curta oração à Santíssima Trindade, oferecendo devoção e homenagem.
 
-> Então o padre beija o altar, estende, levanta e junta suas mãos, inclina sua cabeça e dá ao povo a bênção, dizendo, "Que o Deus todo-poderoso Pai, Filho e Espírito Santo vos abençoe."
+> Então o padre beija o altar, estende, levanta, e junta suas mãos, inclina sua cabeça e dá ao povo a bênção, dizendo, "Que o Deus todo-poderoso Pai, Filho, e Espírito Santo vos abençoe."
 
 O povo ajoelha-se e faz o sinal da cruz enquanto o padre o abençoa. Um bispo faz três sinais da cruz quando abençoa na Missa.
 
@@ -257,7 +257,7 @@ Orações após a Missa
 
 ## O Último Evangelho
 
-O padre volta-se para o lado esquerdo para ler o Último Evangelho, que é tirado das palavras de abertura do Evangelho de São João. O povo fica de pé e faz três sinais da cruz com o padre, na testa, lábios e peito. Genuflete com o padre nas palavras: "E o Verbo se fez Carne", em honra à Encarnação de Cristo. Às vezes outro Evangelho é lido em vez disto. O Último Evangelho representa a propagação da palavra de Deus em todo o mundo após a descida do Espírito Santo. Ao final do Último Evangelho, o povo ajoelha-se. A Missa termina com as palavras: "*Deo gratias*" (Graças a Deus).
+O padre volta-se para o lado esquerdo para ler o Último Evangelho, que é tirado das palavras de abertura do Evangelho de São João. O povo fica de pé e faz três sinais da cruz com o padre, na testa, lábios, e peito. Genuflete com o padre nas palavras: "E o Verbo se fez Carne", em honra à Encarnação de Cristo. Às vezes outro Evangelho é lido em vez disto. O Último Evangelho representa a propagação da palavra de Deus em todo o mundo após a descida do Espírito Santo. Ao final do Último Evangelho, o povo ajoelha-se. A Missa termina com as palavras: "*Deo gratias*" (Graças a Deus).
 
 > Uma Missa votiva é uma dita em honra a algum mistério ou santo particular, num dia não separado pela Igreja para a comemoração daquele mistério ou santo.
 
@@ -265,7 +265,7 @@ O padre volta-se para o lado esquerdo para ler o Último Evangelho, que é tirad
 
 Assim em meia hora, o tempo requerido para uma Missa baixa ordinária, os principais eventos da vida de Nosso Senhor são representados, bem como as principais doutrinas de Sua Igreja.
 
-> No curso da Missa, o celebrante observa não menos que 500 cerimônias, como inclinar-se, bater no peito e fazer o sinal da cruz. Estas cerimônias visam não apenas dar honra a Deus, mas também imprimir nos fiéis a sublimidade do Santo Sacrifício.
+> No curso da Missa, o celebrante observa não menos que 500 cerimônias, como inclinar-se, bater no peito, e fazer o sinal da cruz. Estas cerimônias visam não apenas dar honra a Deus, mas também imprimir nos fiéis a sublimidade do Santo Sacrifício.
 
 Após a maioria das Missas baixas, o padre ajoelha-se ao pé do altar e recita algumas orações prescritas com o povo.
 

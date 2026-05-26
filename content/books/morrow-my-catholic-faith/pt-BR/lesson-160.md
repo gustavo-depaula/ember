@@ -2,12 +2,12 @@
 
 ![](../images/lesson-160.webp)
 
-*No início das quatro estações — Primavera, Verão, Outono e Inverno — os Dias de Têmporas são celebrados para implorar as bênçãos de Deus sobre os frutos da terra; aqueles dias são igualmente destinados como ocasiões especiais para orar pelo clero. Os Dias de Têmporas são as quartas, sextas e sábados seguintes a 13 de dezembro, o primeiro Domingo da Quaresma, Pentecostes e 14 de setembro. Ordenações ocorrem nos Sábados de Têmporas. Dias de Têmporas são dias de penitência, jejum e abstinência.*
+*No início das quatro estações — Primavera, Verão, Outono e Inverno — os Dias de Têmporas são celebrados para implorar as bênçãos de Deus sobre os frutos da terra; aqueles dias são igualmente destinados como ocasiões especiais para orar pelo clero. Os Dias de Têmporas são as quartas, sextas, e sábados seguintes a 13 de dezembro, o primeiro Domingo da Quaresma, Pentecostes e 14 de setembro. Ordenações ocorrem nos Sábados de Têmporas. Dias de Têmporas são dias de penitência, jejum e abstinência.*
 
 
 **Quais são as ordens maiores?**
 
-— As ordens maiores são: subdiaconato, diaconato e sacerdócio.
+— As ordens maiores são: subdiaconato, diaconato, e sacerdócio.
 
 1. O subdiaconato é ainda uma preparação para o Sacramento da Ordem e é de instituição eclesiástica. Um subdiácono está comprometido ao celibato perpétuo e à recitação diária do Ofício Divino.
 
@@ -29,12 +29,12 @@
 
 ![](../images/lesson-160b.webp)
 
-*Como introdução à Ordem, um candidato recebe a tonsura. As ordens menores seguem: porteiro, leitor, exorcista e acólito. Então vêm as ordens maiores: subdiácono, diácono e padre. Finalmente, em sua consagração, um bispo recebe a plenitude do sacerdócio.*
+*Como introdução à Ordem, um candidato recebe a tonsura. As ordens menores seguem: porteiro, leitor, exorcista, e acólito. Então vêm as ordens maiores: subdiácono, diácono, e padre. Finalmente, em sua consagração, um bispo recebe a plenitude do sacerdócio.*
 
 
 **Quais são as ordens menores?**
 
-— As ordens menores são as fileiras mais baixas do clero, através das quais aspirantes são preparados para receber o santo sacerdócio: porteiro, leitor, exorcista e acólito.
+— As ordens menores são as fileiras mais baixas do clero, através das quais aspirantes são preparados para receber o santo sacerdócio: porteiro, leitor, exorcista, e acólito.
 
 1. Ordens menores foram instituídas pela Igreja nos primeiros dias quando homens de mérito notável realizavam certos ofícios. Não são um sacramento, mas apenas passos preparatórios às ordens maiores.
 

@@ -36,7 +36,7 @@
 
 > Contudo, quanto mais pura nossa consciência, mais graças recebemos do sacramento; assim devemos fazer um ato de contrição antecipadamente.
 
-6. Antes de receber a Santa Comunhão, devemos tentar ter um ardente desejo de estar unido a Cristo e despertar sentimentos de fé, humildade, esperança e amor.
+6. Antes de receber a Santa Comunhão, devemos tentar ter um ardente desejo de estar unido a Cristo e despertar sentimentos de fé, humildade, esperança, e amor.
 
 > Tentemos trazer a nosso Senhor Eucarístico algum dom, por menor que seja. Evitemos lugares de diversão na noite anterior quando O recebemos na Santa Comunhão, como um pequeno sacrifício. Oremos devotamente e continuamente, para mostrar-Lhe a alegria em nossos corações à Sua vinda.
 
@@ -57,7 +57,7 @@
 
 2. Aqueles que desejam receber a Santa Comunhão mas acham difícil jejuar sob algumas circunstâncias particulares podem buscar a permissão de um confessor, seja pessoalmente no confessionário ou pessoalmente fora dele, para tê-lo mitigado. O confessor é quem decide se suas dificuldades os habilitam a isto ou não.
 
-> As circunstâncias particulares são: (a) Trabalho pesado realizado antes da Santa Comunhão. Este trabalho é daqueles que têm que trabalhar durante a noite, como trabalhadores noturnos em fábricas, enfermeiras, vigias noturnos, mulheres grávidas e mães de família que antes de ir à igreja devem gastar muito tempo em deveres domésticos.
+> As circunstâncias particulares são: (a) Trabalho pesado realizado antes da Santa Comunhão. Este trabalho é daqueles que têm que trabalhar durante a noite, como trabalhadores noturnos em fábricas, enfermeiras, vigias noturnos, mulheres grávidas, e mães de família que antes de ir à igreja devem gastar muito tempo em deveres domésticos.
 
 > (c) Uma longa jornada para chegar à igreja que também toma em consideração as dificuldades da rota e a condição da pessoa.
 

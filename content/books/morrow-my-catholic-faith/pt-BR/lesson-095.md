@@ -15,7 +15,7 @@
 
 > Pessoas que não crêem no Cristianismo como uma religião divinamente revelada, quer tenham sido batizadas ou não, são comumente referidas como "infiéis". Infidelidade é recusa em crer em qualquer coisa que não possa ser percebida com os sentidos, ou compreendida com o entendimento.
 
-> Mas não é totalmente razoável ter fé num Deus todo-poderoso, Que sabe muito mais do que podemos alguma vez esperar saber, e Que pode fazer coisas além de nosso entendimento? É necessário que sirvamos a Deus do modo que Ele requer, não do modo que nos agrada fazer. Por esta razão devemos praticar a religião revelada por Deus, e evitar criar nossas próprias religiões segundo nossos caprichos e fantasias inumeráveis. Budistas, Maometanos, Hindus, Judeus e pagãos, são infiéis. Como explicado, cristãos também podem tornar-se infiéis.
+> Mas não é totalmente razoável ter fé num Deus todo-poderoso, Que sabe muito mais do que podemos alguma vez esperar saber, e Que pode fazer coisas além de nosso entendimento? É necessário que sirvamos a Deus do modo que Ele requer, não do modo que nos agrada fazer. Por esta razão devemos praticar a religião revelada por Deus, e evitar criar nossas próprias religiões segundo nossos caprichos e fantasias inumeráveis. Budistas, Maometanos, Hindus, Judeus, e pagãos, são infiéis. Como explicado, cristãos também podem tornar-se infiéis.
 
 2. Apostasia é completa rejeição das verdades da fé católica por aquele que foi batizado. Uma vida viciosa e pecaminosa frequentemente leva à apostasia. Nenhum homem verdadeiramente bom jamais se afastou da fé católica.
 

@@ -69,6 +69,6 @@
 
 — Uma consciência delicada ou terna é aquela que nos impele a evitar qualquer coisa no mais leve grau má.
 
-> Devemos ter o maior cuidado em manter nossa consciência delicada. É uma coisa terrível para alguém viver como se não tivesse consciência. É uma consciência terna que escapa coisas como auto-recriminação, vergonha, remorso, consternação e medo, porque está sempre diante de Deus, Que lhe dá paz e esperança.
+> Devemos ter o maior cuidado em manter nossa consciência delicada. É uma coisa terrível para alguém viver como se não tivesse consciência. É uma consciência terna que escapa coisas como auto-recriminação, vergonha, remorso, consternação, e medo, porque está sempre diante de Deus, Que lhe dá paz e esperança.
 
 Uma consciência terna é a consciência dos santos. É a consciência que bons cristãos devem cultivar. Então não farão nada no mínimo desagradável a Deus.

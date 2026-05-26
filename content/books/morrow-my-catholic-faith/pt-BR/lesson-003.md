@@ -2,7 +2,7 @@
 
 ![](../images/lesson-003.webp)
 
-*Deus criou o mundo em seis dias. No primeiro dia, fez a luz e as trevas, o dia e a noite. No segundo dia, fez o firmamento e dividiu as águas. No terceiro dia da Criação, Deus fez aparecer a terra seca fora das águas, e ordenou que as plantas brotassem da terra. No quarto dia, Deus fez o sol, a lua e as estrelas. No quinto dia, fez os répteis, as aves e os peixes. No sexto dia, Deus fez os animais e, finalmente, o homem. Então no sétimo dia, Deus parou de trabalhar: Ele descansou. "Os céus manifestam a glória de Deus." (Sl. 18:2).*
+*Deus criou o mundo em seis dias. No primeiro dia, fez a luz e as trevas, o dia e a noite. No segundo dia, fez o firmamento e dividiu as águas. No terceiro dia da Criação, Deus fez aparecer a terra seca fora das águas, e ordenou que as plantas brotassem da terra. No quarto dia, Deus fez o sol, a lua, e as estrelas. No quinto dia, fez os répteis, as aves e os peixes. No sexto dia, Deus fez os animais e, finalmente, o homem. Então no sétimo dia, Deus parou de trabalhar: Ele descansou. "Os céus manifestam a glória de Deus." (Sl. 18:2).*
 
 (PRIMEIRO ARTIGO DO CREDO DOS APÓSTOLOS)
 
@@ -19,7 +19,7 @@
 
 2. As tradições de todas as nações e raças apoiam a ideia da existência de Deus. Todas as nações e povos têm uma convicção interior da existência de Deus; seu intelecto apoia sua confiança instintiva.
 
-> Mesmo entre os pagãos mais selvagens, remotos e degradados, invariavelmente se encontra a adoração de alguma divindade reconhecida como suprema, da qual o homem depende. Há povos selvagens sem governante, leis ou mesmo assentamentos, mas nunca sem algum deus que adoram com oração e sacrifício.
+> Mesmo entre os pagãos mais selvagens, remotos, e degradados, invariavelmente se encontra a adoração de alguma divindade reconhecida como suprema, da qual o homem depende. Há povos selvagens sem governante, leis, ou mesmo assentamentos, mas nunca sem algum deus que adoram com oração e sacrifício.
 
 
 **O que queremos dizer quando dizemos que Deus é o Ser Supremo?**
@@ -39,7 +39,7 @@
 
 2. Anjos e demônios são espíritos puros. Os homens são apenas parcialmente espirituais, porque têm um corpo. A alma do homem é um espírito, absolutamente independente da matéria, e pelas criaturas indestrutível.
 
-> Como espíritos, Deus e os homens têm isto em comum, embora em graus diferentes: todos têm entendimento, intelecto e livre-arbítrio. Pelo seu livre-arbítrio, o homem pode até desafiar seu Criador, Deus.
+> Como espíritos, Deus e os homens têm isto em comum, embora em graus diferentes: todos têm entendimento, intelecto, e livre-arbítrio. Pelo seu livre-arbítrio, o homem pode até desafiar seu Criador, Deus.
 
 
 **O que queremos dizer quando dizemos que Deus é auto-existente?**
@@ -52,7 +52,7 @@
 
 2. O homem nunca pode ter um conhecimento completo de Deus. O homem é finito e não pode compreender plenamente o infinito. Um copo pode conter a imensidão do oceano mais facilmente do que o homem pode compreender plenamente o Deus Infinito.
 
-> Conhecemos Deus apenas parcialmente, da ordem, harmonia e existência das coisas, de nossa consciência, e das revelações de Deus ao homem.
+> Conhecemos Deus apenas parcialmente, da ordem, harmonia, e existência das coisas, de nossa consciência, e das revelações de Deus ao homem.
 
 
 **O que queremos dizer quando dizemos que Deus é infinitamente perfeito?**
@@ -63,7 +63,7 @@
 
 1. Deus é tão grande e maravilhoso que não precisa de nada para Se tornar maior ou mais maravilhoso. Ele possui todas as perfeições, incontáveis, inumeráveis, ilimitadas, sem fronteiras.
 
-> Deus não pode ser melhor, mais santo ou mais perfeito do que já é. Está no ápice da perfeição, o incriado, o Infinito. "O céu e o céu dos céus não Te podem conter" (3 Reis 8:27).
+> Deus não pode ser melhor, mais santo, ou mais perfeito do que já é. Está no ápice da perfeição, o incriado, o Infinito. "O céu e o céu dos céus não Te podem conter" (3 Reis 8:27).
 
 2. Tão perfeito é Deus que é infinitamente incompreensível, incapaz de ser completamente compreendido. A razão pode verificar a revelação que Deus fez de Si mesmo. Mas quando fazemos nossa razão ou nossas emoções a autoridade final, nos fazemos nosso próprio deus, e fechamos o caminho para o sobrenatural, o Infinito.
 
@@ -74,6 +74,6 @@
 
 **Quais são algumas das perfeições de Deus?**
 
-— Algumas das perfeições de Deus são: Deus é eterno, todo-bom, todo-sabedor, onipresente e todo-poderoso.
+— Algumas das perfeições de Deus são: Deus é eterno, todo-bom, todo-sabedor, onipresente, e todo-poderoso.
 
 > As perfeições de Deus não existem separadamente n'Ele, mas são uma e idêntica com Si mesmo. São apenas várias manifestações de Sua única natureza e perfeição. Em Deus, por exemplo, Sua bondade é una com Sua sabedoria e poder. Suas perfeições, além de serem una e a mesma n'Ele, são também idênticas com Ele: isto é, o Próprio Deus é infinitude, sabedoria, bondade, poder.

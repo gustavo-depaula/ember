@@ -26,7 +26,7 @@
 
 3. Mais especificamente, o primeiro grande mandamento abrange os primeiros três dos Dez Mandamentos; o segundo grande mandamento abrange os últimos sete.
 
-> Os dois grandes mandamentos afetam e controlam todos os poderes do homem: sua vontade, seu entendimento, suas emoções e suas ações. Não teríamos um mundo perfeito, não precisando de outras leis, se todos os homens obedecessem estritamente a estes dois mandamentos? Por esta razão, Nosso Senhor disse: "Destes dois mandamentos depende toda a Lei" (Mat. 22:40).
+> Os dois grandes mandamentos afetam e controlam todos os poderes do homem: sua vontade, seu entendimento, suas emoções, e suas ações. Não teríamos um mundo perfeito, não precisando de outras leis, se todos os homens obedecessem estritamente a estes dois mandamentos? Por esta razão, Nosso Senhor disse: "Destes dois mandamentos depende toda a Lei" (Mat. 22:40).
 
 
 **Por que devemos amar a Deus?**
@@ -71,7 +71,7 @@
 
 1. Mostramos nosso amor mais por obras do que por palavras. São João diz: "Meus queridos filhos, não amemos em palavra, nem com a língua, mas em obra" (1 João 3:18).
 
-> O amor de Deus não é um mero deleite em pensar n'Ele; consiste antes num ato da vontade, de viver uma vida piedosa por causa daquele amor. Contudo, o amor de Deus também nos faz falar e pensar n'Ele frequentemente, já que é traço humano fazer assim com respeito ao objeto de afeição. Aquele que ama a Deus está unido com Ele a cada momento em cada fibra de seu ser: em pensamento, palavra e obra. "Onde está teu tesouro, aí estará também teu coração" (Mat. 6:21).
+> O amor de Deus não é um mero deleite em pensar n'Ele; consiste antes num ato da vontade, de viver uma vida piedosa por causa daquele amor. Contudo, o amor de Deus também nos faz falar e pensar n'Ele frequentemente, já que é traço humano fazer assim com respeito ao objeto de afeição. Aquele que ama a Deus está unido com Ele a cada momento em cada fibra de seu ser: em pensamento, palavra, e obra. "Onde está teu tesouro, aí estará também teu coração" (Mat. 6:21).
 
 2. Mostramos maior amor, quando não apenas evitamos o que Deus proíbe, mas fazemos o que Lhe dará prazer.
 

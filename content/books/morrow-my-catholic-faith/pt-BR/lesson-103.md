@@ -40,7 +40,7 @@
 
 > Pais que voam em fúria sobre uma falta num dia e riem da mesma falta no outro dia dificilmente podem esperar que sua criança os respeite. Pais que são demasiado "bons" para corrigir, repreender ou punir uma criança que cometeu faltas graves são ou estúpidos ou preguiçosos. São maus pais, falhando em seus deveres para com Deus.
 
-4. Os pais devem dar bom exemplo à criança. Obras são mais poderosas que palavras. Se os pais negligenciam os sacramentos, Missa e outros deveres religiosos, não podem bem esperar que seu filho seja fiel.
+4. Os pais devem dar bom exemplo à criança. Obras são mais poderosas que palavras. Se os pais negligenciam os sacramentos, Missa, e outros deveres religiosos, não podem bem esperar que seu filho seja fiel.
 
 > Alguns pais pensam que apenas porque enviam seu filho a uma boa escola católica, não têm mais responsabilidade sobre seu treinamento. Por melhor que seja uma escola, Deus não deu uma criança aos seus cuidados independentes, mas aos dos pais. Os pais devem treinar seus filhos não apenas por preceito, mas principalmente por exemplo. Pelo fruto a árvore é conhecida.
 

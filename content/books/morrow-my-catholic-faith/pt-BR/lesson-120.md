@@ -35,7 +35,7 @@ Aqueles de saúde fraca, os doentes, os convalescentes, mulheres amamentando, os
 
 — Um dia de abstinência é um dia no qual não nos é permitido o uso de carne. Em tais dias nos é proibida toda carne, mas isto não se aplica a produtos lácteos, ovos, ou condimentos e gorduras feitos de gorduras animais. Carne é a carne de animais terrestres de sangue quente, incluindo aves e galináceos.
 
-> Peixe, caracóis, rãs, ostras, camarões e caranguejos podem ser tomados nos dias de abstinência, assim como leite, manteiga, queijo, ovos e alimentos similares. Banha e gordura de quaisquer animais podem ser usadas em cozinhar e temperar. Num dia de abstinência, a menos que seja também um dia de jejum, apenas a qualidade, não a quantidade, de alimento é regulada.
+> Peixe, caracóis, rãs, ostras, camarões, e caranguejos podem ser tomados nos dias de abstinência, assim como leite, manteiga, queijo, ovos, e alimentos similares. Banha e gordura de quaisquer animais podem ser usadas em cozinhar e temperar. Num dia de abstinência, a menos que seja também um dia de jejum, apenas a qualidade, não a quantidade, de alimento é regulada.
 
 
 **Quem é obrigado a observar os dias de abstinência da Igreja?**
@@ -82,4 +82,4 @@ Desde então, os dias de jejum e abstinência que todos os católicos são obrig
 
 > Contudo, por conta da tradição apostólica e do uso venerável das idades passadas de fé, é fortemente recomendado que os fiéis também observem os seguintes dias de jejum e abstinência:
 
-Dias de jejum altamente aconselhados são: (a) Os dias das Têmperas. Estes são doze em número, sendo três por estação, a saber, as Quartas-feiras, Sextas-feiras e Sábados após: o primeiro Domingo da Quaresma, Pentecostes, terceira semana de Setembro, e após o terceiro Domingo do Advento em Dezembro. (b) Todas as Sextas-feiras da Quaresma. (c) As Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal. 2) Dias de abstinência altamente aconselhados são: Os dias das Têmperas e Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal.
+Dias de jejum altamente aconselhados são: (a) Os dias das Têmperas. Estes são doze em número, sendo três por estação, a saber, as Quartas-feiras, Sextas-feiras, e Sábados após: o primeiro Domingo da Quaresma, Pentecostes, terceira semana de Setembro, e após o terceiro Domingo do Advento em Dezembro. (b) Todas as Sextas-feiras da Quaresma. (c) As Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal. 2) Dias de abstinência altamente aconselhados são: Os dias das Têmperas e Vigílias de Pentecostes, Todos os Santos, Imaculada Conceição e Natal.

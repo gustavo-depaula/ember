@@ -60,7 +60,7 @@
 
 (12) E a vida eterna. Amém.
 
-> Os doze artigos do Credo dos Apóstolos contêm o mistério da Santíssima Trindade, um Deus em três Pessoas Divinas distintas — Pai, Filho e Espírito Santo — com as operações particulares atribuídas a cada Pessoa. O Credo contém três partes distintas. A primeira parte trata de Deus Pai e a criação. A segunda parte trata de Deus Filho e nossa redenção. E a terceira parte trata de Deus Espírito Santo e nossa santificação.
+> Os doze artigos do Credo dos Apóstolos contêm o mistério da Santíssima Trindade, um Deus em três Pessoas Divinas distintas — Pai, Filho, e Espírito Santo — com as operações particulares atribuídas a cada Pessoa. O Credo contém três partes distintas. A primeira parte trata de Deus Pai e a criação. A segunda parte trata de Deus Filho e nossa redenção. E a terceira parte trata de Deus Espírito Santo e nossa santificação.
 
 
 **Que ato de religião fazemos quando dizemos o Credo dos Apóstolos?**
@@ -71,7 +71,7 @@
 
 > Por exemplo, cremos em Deus, embora não O possamos ver. Cremos na Trindade, embora esteja além de nosso entendimento. "Sem fé é impossível agradar a Deus" (Heb. 11:6).
 
-2. A fé não nos exige crer em algo contrário à razão. Quando cremos no que não podemos perceber ou compreender, agimos segundo a razão, que nos diz que Deus não pode errar, mentir ou enganar-nos. Pomos, pois, nossa confiança na palavra de Deus.
+2. A fé não nos exige crer em algo contrário à razão. Quando cremos no que não podemos perceber ou compreender, agimos segundo a razão, que nos diz que Deus não pode errar, mentir, ou enganar-nos. Pomos, pois, nossa confiança na palavra de Deus.
 
 > Em muitas coisas naturais frequentemente cremos no que não vemos, como ondas sonoras e átomos, no testemunho dos cientistas que os estudaram. Assim agimos dentro da razão; mas quanto mais razoável é crer na palavra de Deus!
 
@@ -79,6 +79,6 @@
 
 > Todos os Apóstolos sofreram perseguição, e todos exceto São João sofreram morte por martírio, por sua fé. São João Batista foi decapitado porque censurou Herodes por violar a lei do matrimônio. São João Nepomuceno foi morto porque recusou violar o selo da confissão. "Portanto, todo aquele que me confessar diante dos homens, também eu o confessarei diante de meu Pai que está nos céus" (Mat. 10:32).
 
-4. A negligência do estudo das verdades de nossa religião é frequentemente a causa da tibieza, de uma vida má, e final apostasia e impenitência. Devemos ser zelosos no estudo da doutrina cristã, nas lições de catecismo e religião, nos sermões, missões e retiros.
+4. A negligência do estudo das verdades de nossa religião é frequentemente a causa da tibieza, de uma vida má, e final apostasia e impenitência. Devemos ser zelosos no estudo da doutrina cristã, nas lições de catecismo e religião, nos sermões, missões, e retiros.
 
 > Se tivermos alguma dúvida, devemos consultar nossos padres; Deus não perdoará a ignorância se voluntariamente negligenciarmos os meios que Ele concedeu para dissipá-la.

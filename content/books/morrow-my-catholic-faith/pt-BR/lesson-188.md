@@ -17,11 +17,11 @@
 
 2. Ao fazer a Via-Sacra, visitamos as estações consecutivamente parando em cada uma, e meditando na cena que é representada pela estação.
 
-> É aconselhável e usual ir de estação a estação na igreja. É suficiente meditar sobre a Paixão, sem dizer qualquer fixa oração, embora seja usual recitar um Pai-Nosso, uma Ave-Maria e um Glória ao Pai em cada estação. Uma favorita ejaculação dita no início da meditação antes de cada estação é: "Adoramo-Vos, ó Cristo, e Vos bendizemos. Porque por Vossa santa cruz remistes o mundo."
+> É aconselhável e usual ir de estação a estação na igreja. É suficiente meditar sobre a Paixão, sem dizer qualquer fixa oração, embora seja usual recitar um Pai-Nosso, uma Ave-Maria, e um Glória ao Pai em cada estação. Uma favorita ejaculação dita no início da meditação antes de cada estação é: "Adoramo-Vos, ó Cristo, e Vos bendizemos. Porque por Vossa santa cruz remistes o mundo."
 
 3. A Via-Sacra é uma mui proveitosa devoção. Meditação sobre a Paixão de Nosso Senhor leva-nos à contrição e prática da virtude. Uma indulgência plenária está anexada a esta devoção.
 
-> Se somos impedidos por doença, longa distância da igreja, ou qualquer outro obstáculo de suficiente natureza, de fazer a via-sacra, podemos ganhar a indulgência recitando vinte vezes o Pai-Nosso, Ave-Maria e Glória ao Pai, segurando enquanto isso um crucifixo propriamente abençoado para as estações.
+> Se somos impedidos por doença, longa distância da igreja, ou qualquer outro obstáculo de suficiente natureza, de fazer a via-sacra, podemos ganhar a indulgência recitando vinte vezes o Pai-Nosso, Ave-Maria, e Glória ao Pai, segurando enquanto isso um crucifixo propriamente abençoado para as estações.
 
 > Os muito doentes ganham a indulgência apenas segurando o crucifixo e fazendo um ato de contrição, ou um sinal de pesar.
 
@@ -47,7 +47,7 @@
 
 1. Na maioria dos lugares Missões são realizadas pelo menos uma vez por ano. Usualmente duram uma semana, e terminam numa geral comunhão de todos que participaram.
 
-> O regular programa de uma Missão inclui diários sermões, meditação e congregacional canto.
+> O regular programa de uma Missão inclui diários sermões, meditação, e congregacional canto.
 
 2. Durante a Missão devemos, tanto quanto possível, retirar-nos de mundanos divertimentos e gastar tanto tempo quanto podemos com Nosso Senhor, ou meditando em espirituais coisas, especialmente nos tópicos trazidos nos sermões.
 
@@ -64,7 +64,7 @@
 
 **O que são retiros?**
 
-— Retiros são uma série de espirituais exercícios e religiosos serviços realizados em conventos, escolas e similares instituições, para uma certa classe de pessoas, sejam padres, freiras, escolares, leigos ou leigas.
+— Retiros são uma série de espirituais exercícios e religiosos serviços realizados em conventos, escolas e similares instituições, para uma certa classe de pessoas, sejam padres, freiras, escolares, leigos, ou leigas.
 
 1. O retiro é similar a uma Missão, e tem cerca do mesmo efeito. É melhor que uma Missão no sentido que o mestre do retiro pode particularizar seus discursos, já que aqueles presentes supõem-se pertencer a apenas uma classe de indivíduos tendo similares gostos e similares problemas.
 

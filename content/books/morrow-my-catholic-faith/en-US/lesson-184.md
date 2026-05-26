@@ -60,7 +60,7 @@
 
 **What is the "Hail Holy Queen?"**
 
-— The Hail Holy Queen or *Salve Regina* is one of the most common prayers to Mary, composed in the year 100 by Blessed Herman.
+— The Hail Holy Queen or *Salve Regina* is one of the most common prayers to Mary, composed in the eleventh century by Blessed Herman.
 
 > St. Bernard added the words at the end: "O clement, O loving, O sweet Virgin Mary!"
 

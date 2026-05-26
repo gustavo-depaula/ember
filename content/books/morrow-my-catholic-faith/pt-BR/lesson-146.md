@@ -18,7 +18,7 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 **Quando o pesar pelo pecado é verdadeira contrição?**
 
-— É verdadeira contrição quando é interior, sobrenatural, suprema e universal.
+— É verdadeira contrição quando é interior, sobrenatural, suprema, e universal.
 
 1. Nosso pesar é interior quando vem de nosso coração, não meramente de nossos lábios.
 
@@ -58,7 +58,7 @@ Deus não nos perdoará nenhum pecado, seja mortal ou venial, a menos que tenham
 
 **Por que devemos ter contrição pelo pecado mortal?**
 
-— Devemos ter contrição pelo pecado mortal porque é o maior de todos os males, ofende gravemente a Deus, mantém-nos fora do céu e condena-nos para sempre ao inferno.
+— Devemos ter contrição pelo pecado mortal porque é o maior de todos os males, ofende gravemente a Deus, mantém-nos fora do céu, e condena-nos para sempre ao inferno.
 
 > Pecado é o maior de todos os males porque seus efeitos duram mais tempo e tem os resultados mais terríveis. Saúde abalada, pobreza e outros males materiais duram apenas por um tempo; na morte todos terminarão para sempre e teremos nossa libertação deles. Mas o pecado? Os males surgindo do pecado mortal, além daqueles que nos perseguem nesta vida, nos perseguirão até a eternidade.
 

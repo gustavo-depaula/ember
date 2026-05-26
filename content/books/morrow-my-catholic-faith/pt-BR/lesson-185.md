@@ -2,12 +2,12 @@
 
 ![](../images/lesson-185.webp)
 
-*O Rosário é dividido nos mistérios gozosos, dolorosos e gloriosos. Nos mistérios gozosos, meditamos sobre: (1) a Anunciação; (2) A Visitação; (3) O Nascimento de Jesus; (4) A Apresentação; e (5) O Achamento no Templo. Nos mistérios dolorosos meditamos sobre (1) A Agonia no Jardim; (2) O Açoitamento; (3) A Coroa de Espinhos; (4) O Carregamento da Cruz, e (5) A Crucificação. Nos mistérios gloriosos meditamos sobre (1) A Ressurreição; (2) A Ascensão; (3) A Descida do Espírito Santo; (4) A Assunção; e (5) A Coroação da Santíssima Virgem.*
+*O Rosário é dividido nos mistérios gozosos, dolorosos, e gloriosos. Nos mistérios gozosos, meditamos sobre: (1) a Anunciação; (2) A Visitação; (3) O Nascimento de Jesus; (4) A Apresentação; e (5) O Achamento no Templo. Nos mistérios dolorosos meditamos sobre (1) A Agonia no Jardim; (2) O Açoitamento; (3) A Coroa de Espinhos; (4) O Carregamento da Cruz, e (5) A Crucificação. Nos mistérios gloriosos meditamos sobre (1) A Ressurreição; (2) A Ascensão; (3) A Descida do Espírito Santo; (4) A Assunção; e (5) A Coroação da Santíssima Virgem.*
 
 
 **O que é o Rosário?**
 
-— O Rosário é uma oração em honra à Santíssima Virgem, consistindo de cento e cinqüenta Ave-Marias e quinze Pai-Nossos, acompanhados por meditação sobre a vida, paixão e glória de Cristo.
+— O Rosário é uma oração em honra à Santíssima Virgem, consistindo de cento e cinqüenta Ave-Marias e quinze Pai-Nossos, acompanhados por meditação sobre a vida, paixão, e glória de Cristo.
 
 1. Nos primeiros séculos do Cristianismo havia muitos eremitas que não podiam ler os salmos no saltério. Então costumavam substituir um Pai-Nosso e uma Ave-Maria por cada salmo. Para notar o número, usavam pedras ou sementes enfiadas num cordão.
 
@@ -44,7 +44,7 @@
 
 > Enquanto recitando o Rosário, cada um deve segurar seu próprio rosário em sua mão e tocar as contas enquanto diz as orações. Se vários estão dizendo o Rosário juntos, apenas um precisa ter um rosário em sua mão para regular o número de orações.
 
-3. Enquanto dizemos cada dezena, devemos meditar sobre um mistério de nossa fé. O Rosário é dividido nos mistérios gozosos, dolorosos e gloriosos, cada honrando respectivamente a vida, a paixão e a glorificação de Nosso Senhor.
+3. Enquanto dizemos cada dezena, devemos meditar sobre um mistério de nossa fé. O Rosário é dividido nos mistérios gozosos, dolorosos, e gloriosos, cada honrando respectivamente a vida, a paixão, e a glorificação de Nosso Senhor.
 
 > A objeção é frequentemente feita por não católicos de que o Rosário não é uma louvável oração porque nele uma oração, a Ave-Maria, é repetida tão frequentemente. Em resposta a esta objeção, diríamos que aquele que tem um sentimento muito no coração geralmente repete uma e outra vez certas palavras que dão expressão àquele sentimento. Notai uma criança implorando por algo. Além disto, esta prática tem a própria Sagrada Escritura e mesmo Nosso Senhor por modelo: nos Salmos, as palavras "Sua misericórdia dura para sempre" são repetidas em apenas um salmo até vinte e sete vezes; os anjos insinuam que seu cântico de "Santo, santo, santo, Senhor Deus dos exércitos" é incessante; no Jardim, Nosso Senhor repetiu Sua oração.
 

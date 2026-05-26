@@ -38,7 +38,7 @@
 
 1. Às primeiras três questões, respondemos através de nossos padrinhos no Batismo, "Eu o renuncio" (ou "os renuncio"). Às últimas três questões respondemos, "Eu creio."
 
-> (1) Renuncias Satanás? (2) E todas as suas obras? (3) E todas as suas pompas? (4) Crês em Deus Pai todo-poderoso, criador do céu e da terra? (5) Crês em Jesus Cristo, Seu único Filho, nosso Senhor, Que nasceu e padeceu por nós? (6) Crês também no Espírito Santo, na Santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição do corpo, e na vida eterna?
+> (1) Renuncias Satanás? (2) E todas as suas obras? (3) E todas as suas pompas? (4) Crês em Deus Pai todo-poderoso, criador do céu e da terra? (5) Crês em Jesus Cristo, Seu único Filho, nosso Senhor, Que nasceu e padeceu por nós? (6) Crês também no Espírito Santo, na Santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição do corpo e na vida eterna?
 
 2. Devemos renovar os votos batismais em nossa Primeira Comunhão. É também louvável renová-los todo ano no Dia de Ano Novo ou na Epifania, e após uma missão ou retiro espiritual.
 

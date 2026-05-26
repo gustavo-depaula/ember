@@ -9,7 +9,7 @@
 
 — Os principais deveres daqueles que exercem cargo público são: ser justos com todos no exercício de sua autoridade, e promover o bem-estar geral.
 
-1. Oficiais públicos têm uma grave responsabilidade diante de Deus. Quanto mais alto o posto, maior a responsabilidade. Legisladores, membros do gabinete, juízes, todos os detentores de cargo — todos do mais baixo ao mais alto terão que dar uma prestação de contas rígida a Deus de tudo que pensaram, disseram, fizeram ou omitiram, cada lei aprovada, cada voto dado.
+1. Oficiais públicos têm uma grave responsabilidade diante de Deus. Quanto mais alto o posto, maior a responsabilidade. Legisladores, membros do gabinete, juízes, todos os detentores de cargo — todos do mais baixo ao mais alto terão que dar uma prestação de contas rígida a Deus de tudo que pensaram, disseram, fizeram, ou omitiram, cada lei aprovada, cada voto dado.
 
 > "Um juízo muito severo será para aqueles que exercem o governo" (Sab. 6:6). Aqueles em alto ofício devem considerá-lo como meramente confiado aos seus cuidados por um curto tempo.
 
@@ -53,7 +53,7 @@
 
 1. Empregadores devem ser considerados para com seus inferiores. Não devem oprimir seus empregados, nem reter seus salários, nem explorá-los de qualquer modo.
 
-> Opressão dos pobres, da viúva e do órfão, e defraudar trabalhadores de seus salários, são pecados que clamam ao céu por vingança. Alguns empregadores fazem seu povo trabalhar em salas insalubres e superlotadas; dificilmente lhes dão algum tempo para repouso e para suas refeições; requerem deles mais trabalho do que podem fazer.
+> Opressão dos pobres, da viúva, e do órfão, e defraudar trabalhadores de seus salários, são pecados que clamam ao céu por vingança. Alguns empregadores fazem seu povo trabalhar em salas insalubres e superlotadas; dificilmente lhes dão algum tempo para repouso e para suas refeições; requerem deles mais trabalho do que podem fazer.
 
 2. Empregadores devem dar a seus empregados um salário digno; isto é, suficiente para eles e suas famílias viverem decentemente. Devem permitir-lhes amplas facilidades para cumprir deveres religiosos.
 
@@ -62,7 +62,7 @@
 
 **Que proíbe o quarto mandamento?**
 
-— O quarto mandamento proíbe desrespeito, rudeza e desobediência a nossos pais e superiores legítimos.
+— O quarto mandamento proíbe desrespeito, rudeza, e desobediência a nossos pais e superiores legítimos.
 
 1. Desrespeito inclui toda irreverência e teimosia contra autoridade legítima. Alguém ofende contra o respeito devido a seus pais quando responde de volta a eles, recusa sua correção, ridiculariza-os ou bate neles.
 

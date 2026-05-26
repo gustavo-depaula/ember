@@ -2,7 +2,7 @@
 
 ![](../images/lesson-028.webp)
 
-*Através dos séculos, Deus enviou profetas para predizer diferentes eventos e fatos concernentes ao Salvador prometido. Entre os mais importantes profetas estavam Jeremias, Isaías, Daniel e Ezequiel. Daniel predisse o tempo exato do nascimento do Redentor. Disse que Seu reino não teria fim, e abraçaria todos os reinos. Isaías profetizou que o Messias nasceria de uma virgem, seria tanto Deus quanto Homem, e morreria paciente e voluntariamente como um cordeiro por nossos pecados.*
+*Através dos séculos, Deus enviou profetas para predizer diferentes eventos e fatos concernentes ao Salvador prometido. Entre os mais importantes profetas estavam Jeremias, Isaías, Daniel, e Ezequiel. Daniel predisse o tempo exato do nascimento do Redentor. Disse que Seu reino não teria fim, e abraçaria todos os reinos. Isaías profetizou que o Messias nasceria de uma virgem, seria tanto Deus quanto Homem, e morreria paciente e voluntariamente como um cordeiro por nossos pecados.*
 
 
 **Qual é o principal ensinamento da Igreja Católica sobre Jesus Cristo?**
@@ -17,7 +17,7 @@
 
 Estes milagres Cristo operou em Seu próprio nome, não como Seus seguidores fizeram, que operavam em nome de Deus. Ele simplesmente disse: "Quero, sê limpo" (Mat. 8:3).
 
-> O Próprio Cristo apelou a Seus milagres como testemunho da verdade de Suas doutrinas e divindade, dizendo: "Se não quereis crer em Mim, crede nas obras" (João 10:38). Cristo predisse eventos futuros. Entre outras coisas, predisse Sua paixão, morte e ressurreição, a traição de Judas e a perpetuidade de Sua Igreja.
+> O Próprio Cristo apelou a Seus milagres como testemunho da verdade de Suas doutrinas e divindade, dizendo: "Se não quereis crer em Mim, crede nas obras" (João 10:38). Cristo predisse eventos futuros. Entre outras coisas, predisse Sua paixão, morte, e ressurreição, a traição de Judas e a perpetuidade de Sua Igreja.
 
 3. Os Apóstolos, os seguidores do Próprio Cristo, claramente ensinaram que Cristo é Deus, e morreram em testemunho de sua fé.
 
@@ -78,4 +78,4 @@ b. Curou num instante os doentes, os cegos, os coxos. Expulsou demônios.
 
 c. Ressuscitou os mortos; como a filha de Jairo, o filho da viúva de Naim e Lázaro. Mesmo Seus inimigos reconheceram Seus milagres. Os fariseus planejaram matar Lázaro, porque os judeus criam em Jesus como resultado do milagre.
 
-d. Operou milagres sobre Sua Própria Pessoa, como na Transfiguração, Ressurreição e Ascensão.
+d. Operou milagres sobre Sua Própria Pessoa, como na Transfiguração, Ressurreição, e Ascensão.
