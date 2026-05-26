@@ -42,7 +42,7 @@
 
 (3) Que foi concebido pelo Espírito Santo, nasceu da Virgem Maria;
 
-(4) Padeceu sob Pôncio Pilatos, foi crucificado, morto, e sepultado.
+(4) Padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado.
 
 (5) Desceu aos infernos; ao terceiro dia ressuscitou dos mortos;
 
