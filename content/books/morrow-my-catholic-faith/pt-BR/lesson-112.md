@@ -13,7 +13,7 @@
 
 1. Se nós, sem saber, por compra ou dom, obtivemos posse de propriedade roubada, somos obrigados a restituí-la ao legítimo proprietário, assim que soubermos a verdade.
 
-> Somos possuidores justos apenas enquanto não sabemos que os bens foram roubados. Assim que nos tornamos conscientes daquele fato, devemos abandonar a propriedade. "O princípio de um bom caminho é fazer justiça; e isto é mais aceitável a Deus, do que oferecer sacrifícios. . . . Melhor é um pouco com justiça, do que grandes rendas com iniqüidade" (Prov. 16:5, 8).
+> Somos possuidores justos apenas enquanto não sabemos que os bens foram roubados. Assim que nos tornamos conscientes daquele fato, devemos abandonar a propriedade. "O princípio de um bom caminho é fazer justiça; e isto é mais aceitável a Deus, do que oferecer sacrifícios. . . . Melhor é um pouco com justiça, do que grandes rendas com iniquidade" (Prov. 16:5, 8).
 
 2. Se alguém recusa restaurar propriedade roubada ou reparar dano que injustamente fez à propriedade de outros, não pode ser perdoado. Não obterá perdão de Deus, nem absolvição do padre, mesmo que confesse seu pecado uma e outra vez.
 

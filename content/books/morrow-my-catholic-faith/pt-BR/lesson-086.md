@@ -53,7 +53,7 @@
 
 1. Nosso corpo está unido à nossa alma, e é instrumento da alma para o bem, para a obtenção de nosso fim, a felicidade eterna.
 
-> Deus não nos criou como almas desencarnadas; é Sua vontade que trabalhemos nossa salvação neste mundo, habitando nossas almas nosso corpo. Como instrumento da alma, o corpo não deve ser mal usado: "Portanto não reine o pecado em vosso corpo mortal. . . . E não entregueis vossos membros ao pecado como armas de iniqüidade, mas apresentai vossos membros como armas de justiça para Deus" (Rom. 6:12-13).
+> Deus não nos criou como almas desencarnadas; é Sua vontade que trabalhemos nossa salvação neste mundo, habitando nossas almas nosso corpo. Como instrumento da alma, o corpo não deve ser mal usado: "Portanto não reine o pecado em vosso corpo mortal. . . . E não entregueis vossos membros ao pecado como armas de iniquidade, mas apresentai vossos membros como armas de justiça para Deus" (Rom. 6:12-13).
 
 2. Devemos ter o maior respeito e reverência por nosso corpo. Nunca devemos contaminá-lo com pecado, pois é destinado a viver para sempre no céu.
 

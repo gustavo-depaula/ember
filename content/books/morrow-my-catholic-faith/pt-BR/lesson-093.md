@@ -19,7 +19,7 @@
 
 > A investigação preliminar usualmente não tem lugar até pelo menos cinquenta anos após a morte da pessoa. Antes da beatificação, dois milagres certos e inquestionáveis devem ser operados pela intercessão daquele cuja causa está sendo considerada. Estes milagres provam sua presença no céu. Aquele que é beatificado é chamado Bem-Aventurado. Uma devoção pública limitada a ele é permitida.
 
-3. Canonização é a declaração solene de que uma pessoa levou uma vida heróica, está no céu, e portanto pode ser publicamente venerada por toda a Igreja. Após a canonização, uma pessoa é chamada Santo.
+3. Canonização é a declaração solene de que uma pessoa levou uma vida heroica, está no céu, e portanto pode ser publicamente venerada por toda a Igreja. Após a canonização, uma pessoa é chamada Santo.
 
 > Após a beatificação, dois milagres adicionais devem ser operados pela intercessão do Bem-Aventurado, antes que possa ser canonizado. Canonização certamente não é uma demanda para entrada no céu. A Igreja meramente declara que uma pessoa já está lá. A santidade da vida da pessoa é provada no exame estrito antes da beatificação. O fato de estar no céu é provado pelos milagres operados por sua intercessão.
 

@@ -42,7 +42,7 @@
 
 3. Internacionais Congressos Eucarísticos foram realizados: Roma em 1922, Amsterdã em 1924, Chicago em 1926, Sydney em 1928, Cartago em 1930, Dublin em 1932, Buenos Aires em 1934, Manila em 1937, e Budapeste em 1938. É seguramente um sinal de honra para uma cidade ser escolhida sede de um Internacional Congresso Eucarístico. O 35º Internacional Congresso deveria ter sido realizado em Nice, França, em 1940, mas foi suspenso por causa da guerra.
 
-> De todos os Internacionais Congressos Eucarísticos, aquele de Manila foi provavelmente o mais internacional, peregrinos vindo para representar cinqüenta e quatro nações da Ásia, Europa, Américas e Austrália. No último dia, a solene procissão do Santíssimo Sacramento ocorreu ao longo da Dewey Boulevard junto ao mar, terminando no monumental altar no Novo Luneta. É oficialmente estimado que sobre 600.000 pessoas reuniram-se para esta última cerimônia para honrar nosso Senhor Eucarístico.
+> De todos os Internacionais Congressos Eucarísticos, aquele de Manila foi provavelmente o mais internacional, peregrinos vindo para representar cinquenta e quatro nações da Ásia, Europa, Américas e Austrália. No último dia, a solene procissão do Santíssimo Sacramento ocorreu ao longo da Dewey Boulevard junto ao mar, terminando no monumental altar no Novo Luneta. É oficialmente estimado que sobre 600.000 pessoas reuniram-se para esta última cerimônia para honrar nosso Senhor Eucarístico.
 
 
 **O que são Congressos Católicos?**

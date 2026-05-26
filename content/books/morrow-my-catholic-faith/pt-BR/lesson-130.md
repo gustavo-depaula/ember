@@ -34,7 +34,7 @@
 
 — Os propósitos do sacrifício são: dar honra ou adoração a Deus, oferecer-Lhe graças, implorar um favor, ou fazer propiciação.
 
-> Em outras palavras, os propósitos do sacrifício são: adoração, ação de graças, petição, e expiação. É natural para o homem dar expressão exterior aos sentimentos que movem seu ser interior. Por esta razão, ele irrompe em louvor quando pensa na grandeza e santidade de Deus; deve renunciar algo como sinal de gratidão: deve oferecer um dom quando sente sua insignificância implorando um favor; e tenta todos os tipos de obras penitenciais quando percebe suas iniqüidades.
+> Em outras palavras, os propósitos do sacrifício são: adoração, ação de graças, petição, e expiação. É natural para o homem dar expressão exterior aos sentimentos que movem seu ser interior. Por esta razão, ele irrompe em louvor quando pensa na grandeza e santidade de Deus; deve renunciar algo como sinal de gratidão: deve oferecer um dom quando sente sua insignificância implorando um favor; e tenta todos os tipos de obras penitenciais quando percebe suas iniquidades.
 
 
 **De que formas o sacrifício é oferecido?**

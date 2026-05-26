@@ -2,7 +2,7 @@
 
 ![](../images/lesson-184.webp)
 
-*1. "O anjo Gabriel foi enviado por Deus a uma cidade da Galiléia chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de David, e o nome da virgem era Maria. E ele disse: Ave, cheia de graça, o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1:27-28).*
+*1. "O anjo Gabriel foi enviado por Deus a uma cidade da Galileia chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de David, e o nome da virgem era Maria. E ele disse: Ave, cheia de graça, o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1:27-28).*
 
 *2. Maria foi visitar sua prima Isabel: "E Isabel foi cheia do Espírito Santo e clamou em alta voz dizendo: Bendita és tu entre as mulheres, e bendito é o fruto de teu ventre" (Lucas 1:41-42). Quando oramos a "Ave-Maria," estes dois belos eventos vêm à mente.*
 
@@ -16,7 +16,7 @@
 
 — A primeira parte da Ave-Maria é: "Ave Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus."
 
-1. A primeira parte da Ave-Maria é uma oração de louvor. É composta de (a) as palavras do Arcanjo Gabriel a Maria; e (b) as palavras de Santa Isabel a Maria. Porque a oração começa com as palavras do Anjo, a "Ave-Maria" é em Inglês denominada Angelical Saudação. É chamada *Ave Maria* em Latim.
+1. A primeira parte da Ave-Maria é uma oração de louvor. É composta de (a) as palavras do Arcanjo Gabriel a Maria; e (b) as palavras de Santa Isabel a Maria. Porque a oração começa com as palavras do Anjo, a "Ave-Maria" também é denominada Saudação Angelical. É chamada *Ave Maria* em Latim.
 
 > O anjo Gabriel disse: "Ave, cheia de graça, o Senhor está contigo; bendita és tu entre as mulheres" (Lucas 1:28). As palavras de Santa Isabel são "Bendita és tu entre as mulheres, e bendito é o fruto de teu ventre" (Lucas 1:42).
 

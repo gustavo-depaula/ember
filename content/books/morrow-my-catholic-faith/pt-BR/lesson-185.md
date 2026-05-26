@@ -7,7 +7,7 @@
 
 **O que é o Rosário?**
 
-— O Rosário é uma oração em honra à Santíssima Virgem, consistindo de cento e cinqüenta Ave-Marias e quinze Pai-Nossos, acompanhados por meditação sobre a vida, paixão, e glória de Cristo.
+— O Rosário é uma oração em honra à Santíssima Virgem, consistindo de cento e cinquenta Ave-Marias e quinze Pai-Nossos, acompanhados por meditação sobre a vida, paixão, e glória de Cristo.
 
 1. Nos primeiros séculos do Cristianismo havia muitos eremitas que não podiam ler os salmos no saltério. Então costumavam substituir um Pai-Nosso e uma Ave-Maria por cada salmo. Para notar o número, usavam pedras ou sementes enfiadas num cordão.
 
@@ -32,7 +32,7 @@
 
 **Como é dito o Rosário?**
 
-— Ordinariamente, apenas um terço do Rosário é dito: cinqüenta Ave-Marias e cinco Pai-Nossos orados numa corda de contas deslizada através dos dedos.
+— Ordinariamente, apenas um terço do Rosário é dito: cinquenta Ave-Marias e cinco Pai-Nossos orados numa corda de contas deslizada através dos dedos.
 
 > O Rosário combina oração vocal com mental. É um resumo das mais importantes partes dos Evangelhos, uma mui útil e poderosa oração. Católicos não devem falhar em dizer pelo menos cinco dezenas do Rosário cada dia.
 

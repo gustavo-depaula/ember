@@ -53,7 +53,7 @@
 
 > Graça sacramental consiste em ajuda divina para o cumprimento dos deveres impostos pelo sacramento particular. Por exemplo, a graça sacramental do Matrimônio dá um direito à assistência de Deus no cumprimento dos deveres do estado matrimonial.
 
-3. Se recebidos com as disposições próprias, os sacramentos sempre dão graça. Derivam sua eficácia de Cristo; conseqüentemente dão graça por si mesmos, desde que tenhamos as retas disposições.
+3. Se recebidos com as disposições próprias, os sacramentos sempre dão graça. Derivam sua eficácia de Cristo; consequentemente dão graça por si mesmos, desde que tenhamos as retas disposições.
 
 > Os sacramentos são meios seguros de graça, meios certos de salvação. Por eles somos unidos a Cristo Nosso Senhor. Por eles Ele nos dá Sua mão para segurar, para que possamos caminhar através da vida e todas suas provações sem fraqueza e sem medo.
 
