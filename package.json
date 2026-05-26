@@ -44,5 +44,10 @@
   },
   "lint-staged": {
     "*.{ts,tsx}": "biome check --write --no-errors-on-unmatched"
+  },
+  "pnpm": {
+    "overrides": {
+      "expo-crypto": "56.0.3"
+    }
   }
 }
