@@ -6,17 +6,17 @@
  * background via expo-glass-effect; everywhere else falls back to expo-blur.
  */
 
-import { BlurView } from 'expo-blur'
-import { GlassView, isLiquidGlassAvailable } from 'expo-glass-effect'
 import { Image } from 'expo-image'
 import { Link, usePathname } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { ActivityIndicator, Platform, Pressable, View } from 'react-native'
+import { ActivityIndicator, Pressable, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, useThemeName, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
+import { BOTTOM_NAV_HEIGHT, navBarBottom } from '@/components/BottomTabBar'
+import { GlassSurface } from '@/components/GlassSurface'
 import { bareId } from '@/content/contentIndex'
 import { NOW_PLAYING_BAR_HEIGHT, useCreatorsStore } from '@/stores/creatorsStore'
 
@@ -24,10 +24,15 @@ const PILL_HEIGHT = NOW_PLAYING_BAR_HEIGHT
 const PILL_RADIUS = PILL_HEIGHT / 2
 const ARTWORK_SIZE = PILL_HEIGHT - 16
 const HORIZONTAL_INSET = 12
-const BOTTOM_GAP = 12
 const ARTWORK_LEFT_PADDING = 14
 
-const liquidGlassAvailable = Platform.OS === 'ios' && isLiquidGlassAvailable()
+const pillStyle = {
+  flexDirection: 'row' as const,
+  alignItems: 'center' as const,
+  height: PILL_HEIGHT,
+  borderRadius: PILL_RADIUS,
+  overflow: 'hidden' as const,
+}
 
 export function NowPlayingBar() {
   const { t } = useTranslation()
@@ -56,12 +61,12 @@ export function NowPlayingBar() {
         position: 'absolute',
         left: 0,
         right: 0,
-        bottom: insets.bottom + BOTTOM_GAP,
+        bottom: navBarBottom(insets.bottom) + BOTTOM_NAV_HEIGHT + 8,
         paddingHorizontal: HORIZONTAL_INSET,
         zIndex: 100,
       }}
     >
-      <GlassPill isDark={isDark}>
+      <GlassSurface isDark={isDark} style={pillStyle}>
         <Link
           href={{
             pathname: '/creators/[creatorId]/episode/[itemId]',
@@ -165,40 +170,7 @@ export function NowPlayingBar() {
         >
           <X size={20} color={theme.colorSecondary.val} />
         </Pressable>
-      </GlassPill>
+      </GlassSurface>
     </View>
-  )
-}
-
-function GlassPill({ isDark, children }: { isDark: boolean; children: React.ReactNode }) {
-  const shared = {
-    flexDirection: 'row' as const,
-    alignItems: 'center' as const,
-    height: PILL_HEIGHT,
-    borderRadius: PILL_RADIUS,
-    overflow: 'hidden' as const,
-  }
-  if (liquidGlassAvailable) {
-    return (
-      <GlassView
-        glassEffectStyle="regular"
-        isInteractive
-        colorScheme={isDark ? 'dark' : 'light'}
-        style={shared}
-      >
-        {children}
-      </GlassView>
-    )
-  }
-  // expo-blur on Android falls back to a semi-transparent overlay (no real
-  // blur). Acceptable for a single floating pill.
-  return (
-    <BlurView
-      tint={isDark ? 'systemThickMaterialDark' : 'systemThickMaterialLight'}
-      intensity={80}
-      style={shared}
-    >
-      {children}
-    </BlurView>
   )
 }

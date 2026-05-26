@@ -1,3 +1,5 @@
+import { BottomTabBar } from './BottomTabBar'
+
 export function AppFrame() {
-  return null
+  return <BottomTabBar />
 }

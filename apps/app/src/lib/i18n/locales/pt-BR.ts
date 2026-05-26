@@ -1,4 +1,10 @@
 export default {
+  nav: {
+    home: 'Início',
+    new: 'Novidades',
+    library: 'Biblioteca',
+    searchPlaceholder: 'Buscar',
+  },
   home: {
     greetingMorning: 'Bom dia',
     greetingAfternoon: 'Boa tarde',

@@ -8,7 +8,11 @@ import { ScrollView, YStack } from 'tamagui'
 
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 
+import { BOTTOM_NAV_HEIGHT } from './BottomTabBar'
+
 const scrollContentStyle = { flexGrow: 1 }
+// The bottom nav bar is always visible; reserve space so content clears it.
+const navClearance = BOTTOM_NAV_HEIGHT + 12
 
 export function ScreenLayout({
   children,
@@ -39,7 +43,7 @@ export function ScreenLayout({
       flex={1}
       backgroundColor="$background"
       paddingTop={insets.top}
-      paddingBottom={insets.bottom + nowPlayingClearance}
+      paddingBottom={insets.bottom + navClearance + nowPlayingClearance}
     >
       <Animated.View style={[{ flex: 1 }, fadeStyle]}>
         <YStack

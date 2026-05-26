@@ -1,4 +1,10 @@
 export default {
+  nav: {
+    home: 'Home',
+    new: 'New',
+    library: 'Library',
+    searchPlaceholder: 'Search',
+  },
   home: {
     greetingMorning: 'Good morning',
     greetingAfternoon: 'Good afternoon',
