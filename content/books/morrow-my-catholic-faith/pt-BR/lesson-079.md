@@ -55,9 +55,9 @@
 
 > É melhor dar à caridade o dinheiro gasto em exibição ociosa e mundana, que não pode ajudar as almas pobres. Ao invés de enviar coroas caras à família de um amigo falecido, é um excelente costume ao invés disto ter Missas oferecidas por sua alma.
 
-4. O Ato Heróico. Por este Ato uma pessoa rende, em nome das almas no purgatório, toda a satisfação feita a Deus por suas boas obras, incluindo qualquer satisfação que possa ser oferecida por ele por outros durante sua vida e após.
+4. O Ato Heroico. Por este Ato uma pessoa rende, em nome das almas no purgatório, toda a satisfação feita a Deus por suas boas obras, incluindo qualquer satisfação que possa ser oferecida por ele por outros durante sua vida e após.
 
-> O Ato Heróico é enriquecido com favores preciosos. Aquele que faz o Ato pode aplicar cada indulgência ganha às almas pobres no purgatório. Pode ganhar uma indulgência plenária aplicável apenas às almas pobres: (1) cada vez que recebe a Santa Comunhão: (2) toda segunda-feira ouvindo Missa em nome das almas pobres. Para ganhar estas indulgências, deve rezar na igreja pelas intenções do Papa.
+> O Ato Heroico é enriquecido com favores preciosos. Aquele que faz o Ato pode aplicar cada indulgência ganha às almas pobres no purgatório. Pode ganhar uma indulgência plenária aplicável apenas às almas pobres: (1) cada vez que recebe a Santa Comunhão: (2) toda segunda-feira ouvindo Missa em nome das almas pobres. Para ganhar estas indulgências, deve rezar na igreja pelas intenções do Papa.
 
 É um erro supor que alguém que desiste de seus méritos, ou oferece orações e boas obras pelas almas pobres, assim perde algo para si mesmo.
 

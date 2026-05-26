@@ -2,7 +2,7 @@
 
 ![](../images/lesson-154.webp)
 
-*Na Igreja primitiva, as penitências canônicas eram severas. Pecados graves, como apostasia, eram punidos com uma penitência de sete anos. Durante todo este tempo o penitente era excluído da companhia dos fiéis. Ajoelhava-se na entrada da igreja, pedindo as orações daqueles que entravam. Ouvia apenas a primeira parte da Missa, isto é, a Missa dos Catecúmenos e, sendo excluído da segunda parte, isto é, a Missa dos Fiéis; e conseqüentemente não era permitido receber a Santa Comunhão. Em dias fixos durante o período de sua penitência, era obrigado a jejuar a pão e água. Mas se aqueles fiéis intercediam, ao penitente era concedida uma indulgência; sua penitência era encurtada.*
+*Na Igreja primitiva, as penitências canônicas eram severas. Pecados graves, como apostasia, eram punidos com uma penitência de sete anos. Durante todo este tempo o penitente era excluído da companhia dos fiéis. Ajoelhava-se na entrada da igreja, pedindo as orações daqueles que entravam. Ouvia apenas a primeira parte da Missa, isto é, a Missa dos Catecúmenos e, sendo excluído da segunda parte, isto é, a Missa dos Fiéis; e consequentemente não era permitido receber a Santa Comunhão. Em dias fixos durante o período de sua penitência, era obrigado a jejuar a pão e água. Mas se aqueles fiéis intercediam, ao penitente era concedida uma indulgência; sua penitência era encurtada.*
 
 
 **O que é uma indulgência plenária?**
@@ -64,7 +64,7 @@
 
 2. A Santa Sé sozinha pode conceder indulgências aplicáveis aos mortos. Todas as indulgências papais podem ser aplicadas às almas no purgatório, a menos que de outro modo declarado.
 
-> A maioria das indulgências são hoje aplicáveis aos mortos. Pessoas que fizeram o Ato Heróico podem aplicar cada indulgência às almas pobres (veja página 59).
+> A maioria das indulgências são hoje aplicáveis aos mortos. Pessoas que fizeram o Ato Heroico podem aplicar cada indulgência às almas pobres (veja página 59).
 
 
 **Como pode a Igreja conceder indulgências para os mortos?**

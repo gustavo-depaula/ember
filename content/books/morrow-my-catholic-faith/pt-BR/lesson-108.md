@@ -15,7 +15,7 @@
 
 2. Nosso Senhor condenou o escândalo em termos não incertos, dizendo: "Ai daquele por quem vem o escândalo! E se tua mão ou teu pé é ocasião de pecado para ti, corta-os e lança-os fora de ti! É melhor para ti entrar na vida manco ou aleijado, do que, tendo duas mãos ou dois pés, seres lançado ao fogo eterno" (Mat. 18:7-8).
 
-> Grave de fato deve ser o escândalo, para fazer nosso manso Senhor usar tais fortes palavras de condenação. "O Filho do homem enviará Seus anjos, e recolherão de Seu reino todos os escândalos e aqueles que praticam a iniqüidade, e os lançarão na fornalha de fogo" (Mat. 13:41-42).
+> Grave de fato deve ser o escândalo, para fazer nosso manso Senhor usar tais fortes palavras de condenação. "O Filho do homem enviará Seus anjos, e recolherão de Seu reino todos os escândalos e aqueles que praticam a iniquidade, e os lançarão na fornalha de fogo" (Mat. 13:41-42).
 
 3. Alguns modos de dar mau exemplo ou escândalo são: por conversa indecente, vendendo ou circulando livros ou quadros maus, cantando canções impróprias, vestindo-se imodestamente, aparecendo em público em estado de embriaguez, por profanação e maldição, fazendo trabalho servil publicamente no Domingo, comportando-se indecorosamente na igreja, ridicularizando religião e padres, escrevendo contra religião, violando publicamente um dos mandamentos de Deus ou da Igreja, etc.
 

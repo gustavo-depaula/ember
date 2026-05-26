@@ -11,7 +11,7 @@
 
 > "Deus não permita que eu me glorie senão na cruz de Nosso Senhor Jesus Cristo pela qual o mundo está crucificado para mim e eu para o mundo" (Gal. 6:14).
 
-1. Nada na Igreja é começado, realizado, ou completado, sem o sinal da cruz. É usado em inúmeras bênçãos e cerimoniais da Igreja. Apenas na Missa é usado cinqüenta e uma vezes.
+1. Nada na Igreja é começado, realizado, ou completado, sem o sinal da cruz. É usado em inúmeras bênçãos e cerimoniais da Igreja. Apenas na Missa é usado cinquenta e uma vezes.
 
 > O sinal da cruz é o mais comum modo de confessar nossa fé. Por ele podemos conhecer católicos de não católicos. Acredita-se que teve sua origem nos tempos apostólicos.
 

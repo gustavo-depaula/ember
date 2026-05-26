@@ -30,7 +30,7 @@
 
 — Alguns dos requisitos são: um excelente caráter, a idade e instrução prescritas, a intenção de dedicar sua vida ao sagrado ministério, e um estado de graça.
 
-> Não é necessário, para tornar-se um padre digno, receber um chamado direto de Deus; é provável que daqueles que estão agora no sacerdócio, nem um teve uma aparição visível para informá-lo de sua vocação ao sacerdócio. Enquanto sentirdes uma atração espiritual à vida de um padre, se admirardes padres heróicos e santos, então isto é suficiente chamado, se juntado às outras qualificações para entrar no sacerdócio.
+> Não é necessário, para tornar-se um padre digno, receber um chamado direto de Deus; é provável que daqueles que estão agora no sacerdócio, nem um teve uma aparição visível para informá-lo de sua vocação ao sacerdócio. Enquanto sentirdes uma atração espiritual à vida de um padre, se admirardes padres heroicos e santos, então isto é suficiente chamado, se juntado às outras qualificações para entrar no sacerdócio.
 
 1. Um homem deve ser de excelente caráter. Isto implica boa vontade e conduta virtuosa, assim como bom senso.
 
