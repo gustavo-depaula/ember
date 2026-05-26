@@ -5,9 +5,11 @@ import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
+import { loadCreator } from '@/content/resolver'
 import { getFeedItem } from '@/db/repositories/feedItems'
 import { AudioPlayerScreen } from '@/features/creators/audio/AudioPlayerScreen'
 import { pinnedMediaUri } from '@/features/creators/pinning/mediaDownload'
+import { localizeContent } from '@/lib/i18n'
 import { useCreatorsStore } from '@/stores/creatorsStore'
 
 export default function EpisodeDetail() {
@@ -29,10 +31,13 @@ export default function EpisodeDetail() {
     if (!item?.mediaUrl) return
     if (nowPlayingId === item.itemId) return
     const localUri = item.mediaHash ? pinnedMediaUri(item.mediaHash) : undefined
+    const manifest = loadCreator(item.creatorId)
+    const creatorName = manifest ? localizeContent(manifest.name) : undefined
     void play({
       itemId: item.itemId,
       creatorId: item.creatorId,
       title: item.title,
+      creatorName,
       durationS: item.durationS,
       imageUri: item.imageUrl,
       mediaUrl: localUri ?? item.mediaUrl,

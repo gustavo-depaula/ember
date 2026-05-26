@@ -11,6 +11,8 @@ export type NowPlayingItem = {
   itemId: string
   creatorId: string
   title: string
+  /** Localized creator display name. Surfaced on the lock screen as the artist. */
+  creatorName?: string
   imageUri?: string
   durationS?: number
   /** Resolved playback URI: `file://…` for pinned media, otherwise the stream URL. */
@@ -22,10 +24,20 @@ export type NowPlayingItem = {
   publishedAt?: number
 }
 
+/** Metadata used to populate iOS lock-screen / Control Center / CarPlay. */
+export type AudioBackendMetadata = {
+  title: string
+  artist?: string
+  albumTitle?: string
+  artworkUrl?: string
+}
+
 export type AudioBackend = {
   /** `itemId` lets the backend track which item it's playing without
-   * reading from the store mid-flight (the store updates after load). */
-  load: (uri: string, itemId: string) => Promise<void>
+   * reading from the store mid-flight (the store updates after load).
+   * `metadata` is passed at load time so the lock-screen controls appear
+   * immediately, before the user taps play. */
+  load: (uri: string, itemId: string, metadata?: AudioBackendMetadata) => Promise<void>
   play: () => Promise<void>
   pause: () => Promise<void>
   seek: (s: number) => Promise<void>
@@ -49,6 +61,10 @@ let backend: AudioBackend = noopBackend
 type CreatorsState = {
   nowPlaying?: NowPlayingItem
   isPlaying: boolean
+  /** True while the player is loading / buffering the audio. Drives the
+   * spinner state on the play/pause controls so the user has feedback
+   * during the gap between tap and audible playback. */
+  isBuffering: boolean
   positionS: number
   speed: number
   setBackend: (backend: AudioBackend) => void
@@ -58,11 +74,18 @@ type CreatorsState = {
   setSpeed: (rate: number) => Promise<void>
   stop: () => Promise<void>
   onTick: (positionS: number) => void
+  /** Sync the play/pause flag from the backend — used when the user toggles
+   * playback from the lock screen, Control Center, or AirPods, so the UI
+   * reflects native state without going through `togglePlay`. */
+  setIsPlaying: (isPlaying: boolean) => void
+  setIsBuffering: (isBuffering: boolean) => void
   reset: () => void
 }
 
 export const NOW_PLAYING_BAR_HEIGHT = 56
-const NOW_PLAYING_BAR_GAP = 8
+// The pill floats with a 12pt margin above the safe area; we add a small
+// extra cushion so the last item in a scroll list doesn't visually touch it.
+const NOW_PLAYING_BAR_GAP = 16
 
 /**
  * Vertical space ScrollViews must reserve so the mini-bar doesn't occlude
@@ -76,6 +99,7 @@ export const useCreatorsStore = create<CreatorsState>()(
   immer((set, get) => ({
     nowPlaying: undefined,
     isPlaying: false,
+    isBuffering: false,
     positionS: 0,
     speed: 1,
 
@@ -86,25 +110,41 @@ export const useCreatorsStore = create<CreatorsState>()(
     async play(item) {
       const prev = get().nowPlaying
       if (prev?.itemId === item.itemId) {
-        await backend.play()
         set((s) => {
           s.isPlaying = true
         })
+        await backend.play()
         return
       }
-      if (prev) await backend.unload()
-      await backend.load(item.mediaUrl, item.itemId)
-      // Set nowPlaying BEFORE play() so any subscriber reacting to state
-      // (mini-bar, position slider) sees the new item before audio starts.
+      // Optimistic: render the player UI immediately so the user never sees
+      // "nothing playing" → play → pause flicker while load + play resolve.
+      // `isBuffering = true` keeps the spinner showing until the player's
+      // status listener reports the buffer is ready and playback has begun.
       set((s) => {
         s.nowPlaying = item
-        s.isPlaying = false
+        s.isPlaying = true
+        s.isBuffering = true
         s.positionS = 0
       })
-      await backend.play()
-      set((s) => {
-        s.isPlaying = true
-      })
+      try {
+        if (prev) await backend.unload()
+        await backend.load(item.mediaUrl, item.itemId, {
+          title: item.title,
+          artist: item.creatorName,
+          albumTitle: item.creatorName,
+          artworkUrl: item.imageUri,
+        })
+        await backend.play()
+      } catch (err) {
+        await backend.unload().catch(() => undefined)
+        set((s) => {
+          s.nowPlaying = undefined
+          s.isPlaying = false
+          s.isBuffering = false
+          s.positionS = 0
+        })
+        throw err
+      }
     },
 
     async togglePlay() {
@@ -142,6 +182,7 @@ export const useCreatorsStore = create<CreatorsState>()(
       set((s) => {
         s.nowPlaying = undefined
         s.isPlaying = false
+        s.isBuffering = false
         s.positionS = 0
       })
     },
@@ -155,11 +196,26 @@ export const useCreatorsStore = create<CreatorsState>()(
       })
     },
 
+    setIsPlaying(isPlaying) {
+      if (get().isPlaying === isPlaying) return
+      set((s) => {
+        s.isPlaying = isPlaying
+      })
+    },
+
+    setIsBuffering(isBuffering) {
+      if (get().isBuffering === isBuffering) return
+      set((s) => {
+        s.isBuffering = isBuffering
+      })
+    },
+
     reset() {
       backend = noopBackend
       set((s) => {
         s.nowPlaying = undefined
         s.isPlaying = false
+        s.isBuffering = false
         s.positionS = 0
         s.speed = 1
       })

@@ -1,7 +1,7 @@
 import { Image } from 'expo-image'
-import { ChevronLeft, ExternalLink, Pause, Play, RotateCcw, RotateCw } from 'lucide-react-native'
+import { ChevronDown, ExternalLink, Pause, Play, RotateCcw, RotateCw } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { ActivityIndicator, Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
@@ -28,6 +28,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
   const theme = useTheme()
   const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
   const isPlaying = useCreatorsStore((s) => s.isPlaying)
+  const isBuffering = useCreatorsStore((s) => s.isBuffering)
   const positionS = useCreatorsStore((s) => s.positionS)
   const speed = useCreatorsStore((s) => s.speed)
   const togglePlay = useCreatorsStore((s) => s.togglePlay)
@@ -66,7 +67,7 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
           accessibilityRole="button"
           accessibilityLabel={t('creators.back')}
         >
-          <ChevronLeft size={26} color={theme.accent.val} />
+          <ChevronDown size={28} color={theme.accent.val} />
         </Pressable>
 
         <YStack alignItems="center" gap="$md">
@@ -134,11 +135,15 @@ export function AudioPlayerScreen({ onBack }: { onBack: () => void }) {
           </Pressable>
           <Pressable
             onPress={() => void togglePlay()}
+            disabled={isBuffering}
             hitSlop={16}
             accessibilityRole="button"
             accessibilityLabel={isPlaying ? t('creators.pause') : t('creators.play')}
+            style={{ width: 64, height: 64, alignItems: 'center', justifyContent: 'center' }}
           >
-            {isPlaying ? (
+            {isBuffering ? (
+              <ActivityIndicator size="large" color={theme.accent.val} />
+            ) : isPlaying ? (
               <Pause size={56} color={theme.accent.val} />
             ) : (
               <Play size={56} color={theme.accent.val} />
