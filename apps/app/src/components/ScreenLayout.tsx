@@ -1,51 +1,51 @@
 import type { ReactNode } from 'react'
-import { useEffect } from 'react'
 import { RefreshControl } from 'react-native'
 import { KeyboardAvoidingView } from 'react-native-keyboard-controller'
-import Animated, { useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated'
+import Animated, { FadeIn } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 
-import { BOTTOM_NAV_HEIGHT } from './BottomTabBar'
-
 const scrollContentStyle = { flexGrow: 1 }
-// The bottom nav bar is always visible; reserve space so content clears it.
-const navClearance = BOTTOM_NAV_HEIGHT + 12
+// Native iOS 26 glass tab bar content height + breathing room, so the last
+// scroll item clears the bar on tab screens.
+const nativeTabBarClearance = 56
 
 export function ScreenLayout({
   children,
   scroll = true,
   padded = true,
+  tabBar = false,
   refreshing,
   onRefresh,
 }: {
   children: ReactNode
   scroll?: boolean
   padded?: boolean
+  /**
+   * Set on screens hosted directly by the native tab bar. Reserves bottom
+   * clearance for the bar and makes ScreenLayout's manual safe-area padding
+   * authoritative (NativeTabs otherwise auto-adjusts the scroll content inset,
+   * which double-pads and pushes notch-bleeding decorations down).
+   */
+  tabBar?: boolean
   /** Pull-to-refresh: when provided, the scroll view shows a RefreshControl. */
   refreshing?: boolean
   onRefresh?: () => void | Promise<void>
 }) {
   const insets = useSafeAreaInsets()
   const nowPlayingClearance = useNowPlayingClearance()
-  const opacity = useSharedValue(0)
-
-  useEffect(() => {
-    opacity.value = withTiming(1, { duration: 250 })
-  }, [opacity])
-
-  const fadeStyle = useAnimatedStyle(() => ({ opacity: opacity.value }))
+  const bottomClearance = (tabBar ? nativeTabBarClearance : 0) + nowPlayingClearance
 
   const inner = (
     <YStack
       flex={1}
       backgroundColor="$background"
       paddingTop={insets.top}
-      paddingBottom={insets.bottom + navClearance + nowPlayingClearance}
+      paddingBottom={insets.bottom + bottomClearance}
     >
-      <Animated.View style={[{ flex: 1 }, fadeStyle]}>
+      <Animated.View entering={FadeIn.duration(250)} style={{ flex: 1 }}>
         <YStack
           flex={1}
           width="100%"
@@ -73,6 +73,7 @@ export function ScreenLayout({
         contentContainerStyle={scrollContentStyle}
         keyboardShouldPersistTaps="handled"
         automaticallyAdjustKeyboardInsets
+        contentInsetAdjustmentBehavior={tabBar ? 'never' : undefined}
         refreshControl={refreshControl}
       >
         {inner}

@@ -66,8 +66,8 @@ import {
 import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-const frameCornerDark = require('../../assets/textures/frame_corner_dark.png')
-const frameCornerLight = require('../../assets/textures/frame_corner_light.png')
+const frameCornerDark = require('../../../assets/textures/frame_corner_dark.png')
+const frameCornerLight = require('../../../assets/textures/frame_corner_light.png')
 // Matches ScreenLayout's content column maxWidth; clamping avoids the flourish
 // blowing up to full browser width on the web while the column stays centered.
 const cornerMaxWidth = 640
@@ -172,7 +172,7 @@ export default function HomeScreen() {
   const cornerHeight = cornerWidth / (isDark ? darkCornerAspect : lightCornerAspect)
 
   return (
-    <ScreenLayout>
+    <ScreenLayout tabBar>
       <View
         position="absolute"
         top={noNotchTopPad - (isDark ? 78 : 73)}

@@ -36,7 +36,6 @@ import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider, Theme } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
-import { AppFrame } from '@/components/AppFrame'
 import { BootLoadingScreen } from '@/components/BootLoadingScreen'
 import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
@@ -328,7 +327,7 @@ export default function RootLayout() {
                   contentStyle: { backgroundColor: rootBg },
                 }}
               >
-                <Stack.Screen name="index" options={{ title: i18n.t('a11y.home') }} />
+                <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
                 <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
                 <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
                 <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
@@ -342,7 +341,6 @@ export default function RootLayout() {
               </Stack>
               <FloatingOfflineChip />
               <NowPlayingBar />
-              <AppFrame />
               <ConfirmHost />
             </Theme>
           </TamaguiProvider>

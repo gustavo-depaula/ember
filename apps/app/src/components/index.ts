@@ -1,7 +1,6 @@
 export { AnimatedCheckbox } from './AnimatedCheckbox'
 export { AnimatedPressable } from './AnimatedPressable'
 export { BottomSheet, useBottomSheetSettled } from './BottomSheet'
-export { BOTTOM_NAV_HEIGHT, BottomTabBar, navBarBottom } from './BottomTabBar'
 export { CandleFlame } from './CandleFlame'
 export { Card } from './Card'
 export { ConfirmHost, confirm } from './ConfirmSheet'
