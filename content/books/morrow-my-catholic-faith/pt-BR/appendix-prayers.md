@@ -20,22 +20,22 @@ Ave Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mul
 
 **A Doxologia**
 
-Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre, e por todos os séculos. Amém.
+Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre, e por todos os séculos dos séculos. Amém.
 
 
 **O Credo dos Apóstolos**
 
-Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, Seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos; foi crucificado, morto, e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso; donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.
+Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, Seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos; foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai Todo-Poderoso; donde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos santos; na remissão dos pecados; na ressurreição da carne; na vida eterna. Amém.
 
 
 **O Confiteor**
 
-CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra, e obra, por minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição, e a remissão de todos os meus pecados. Amém.
+CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra e obra, por minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição e a remissão de todos os meus pecados. Amém.
 
 
 **Ato de Fé**
 
-Ó MEU Deus, eu firmemente creio que sois um só Deus em três Divinas Pessoas, Pai, Filho, e Espírito Santo; creio que Vosso Divino Filho se fez homem, e morreu por nossos pecados, e que há de vir a julgar os vivos e os mortos. Creio estas e todas as verdades que a Santa Igreja Católica ensina, porque Vós as revelastes, Vós que não podeis enganar-Vos nem ser enganado.
+Ó MEU Deus, eu firmemente creio que sois um só Deus em três Divinas Pessoas, Pai, Filho e Espírito Santo; creio que Vosso Divino Filho se fez homem, e morreu por nossos pecados, e que há de vir a julgar os vivos e os mortos. Creio estas e todas as verdades que a Santa Igreja Católica ensina, porque Vós as revelastes, Vós que não podeis enganar-Vos nem ser enganado.
 
 > (Indulgência de três anos)
 
@@ -63,7 +63,7 @@ CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado
 
 **A "Salve Rainha"**
 
-Salve, Rainha, Mãe de misericórdia; vida, doçura, e esperança nossa, salve! A Vós bradamos, pobres filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
 
 > (Indulgência de cinco anos)
 
@@ -112,7 +112,7 @@ Guardião das Virgens e pai, São José, a cujos fiéis cuidados Cristo Jesus, a
 
 **Oração ao Anjo da Guarda**
 
-Anjo de Deus, meu santo Anjo, a quem o amor de Deus a mim me deu, ficai sempre ao meu lado, para me clarear, guardar, reger e guiar, de todo o pecado me livrai, e na hora da morte me ajudai. Amém.
+Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina, sempre me rege, me guarda, me governa e ilumina. Amém.
 
 
 **Os Louvores Divinos**
@@ -226,7 +226,7 @@ Das profundezas clamei a Vós, ó Senhor! Senhor, ouvi a minha voz. Estejam aten
 
 **Oração Diante do Crucifixo**
 
-Olhai para mim, ó bom e gentil Jesus, enquanto diante de Vossa face humildemente me ajoelho, e com alma ardente oro e Vos suplico que fixeis profundamente em meu coração vivos sentimentos de fé, esperança, e caridade, verdadeira contrição pelos meus pecados, e um firme propósito de emenda; enquanto contemplo com grande amor e terna piedade Vossas cinco chagas, meditando sobre elas dentro de mim, trazendo à mente as palavras que David, Vosso profeta, disse de Vós, meu bom Jesus: "Transpassaram Minhas mãos e Meus pés; contaram todos os Meus ossos."
+Olhai para mim, ó bom e gentil Jesus, enquanto diante de Vossa face humildemente me ajoelho, e com alma ardente oro e Vos suplico que fixeis profundamente em meu coração vivos sentimentos de fé, esperança e caridade, verdadeira contrição pelos meus pecados, e um firme propósito de emenda; enquanto contemplo com grande amor e terna piedade Vossas cinco chagas, meditando sobre elas dentro de mim, trazendo à mente as palavras que David, Vosso profeta, disse de Vós, meu bom Jesus: "Transpassaram Minhas mãos e Meus pés; contaram todos os Meus ossos."
 
 
 **Anima Christi**
@@ -267,7 +267,7 @@ Jesus, Maria, José, dou-Vos o meu coração e a minha alma.
 
 Jesus, Maria, José, assisti-me em minha última agonia.
 
-Jesus, Maria, José, possa eu exhalar minha alma em paz convosco.
+Jesus, Maria, José, possa eu exalar minha alma em paz convosco.
 
 
 **Oração a Cristo Rei**
