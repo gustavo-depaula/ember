@@ -1,3 +1,4 @@
+import { usePathname } from 'expo-router'
 import { NativeTabs } from 'expo-router/unstable-native-tabs'
 import { useTranslation } from 'react-i18next'
 import { DynamicColorIOS, Platform } from 'react-native'
@@ -13,6 +14,7 @@ import { useCreatorsStore } from '@/stores/creatorsStore'
 // the bar and persists across navigation (detail routes are nested in (home)).
 export default function TabsLayout() {
   const { t } = useTranslation()
+  const pathname = usePathname()
   const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
 
   const tintColor =
@@ -20,9 +22,13 @@ export default function TabsLayout() {
       ? DynamicColorIOS({ light: lightTheme.accent, dark: darkTheme.accent })
       : lightTheme.accent
 
+  // Hide the accessory entirely on the playing item's own page (the full
+  // player is shown there) — otherwise the accessory renders an empty pill.
+  const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
+
   return (
     <NativeTabs tintColor={tintColor}>
-      {nowPlaying ? (
+      {showPlayer ? (
         <NativeTabs.BottomAccessory>
           <NowPlayingBar />
         </NativeTabs.BottomAccessory>
