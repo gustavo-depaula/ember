@@ -1,5 +1,5 @@
 import type { ImageSource } from 'expo-image'
-import { hearthUrl } from '@/lib/hearth'
+import { hearthAssetUrl } from '@/lib/hearth'
 
 export type Saint = {
   id: string
@@ -11,7 +11,7 @@ export type Saint = {
 }
 
 function saintImage(id: string): ImageSource {
-  return { uri: hearthUrl(`saints/${id}.webp`) }
+  return { uri: hearthAssetUrl(`saints/${id}.webp`) }
 }
 
 export const saints: Saint[] = [

@@ -35,6 +35,15 @@ export function hearthUrl(path: string): string {
   return `${getBaseUrl()}/${path}`
 }
 
+// Static published assets (e.g. saint card images) live in the deployed
+// corpus's static tree, which the local dev hearth does not serve — only the
+// catalog and hash-addressed blobs are built locally. Always resolve these
+// against the remote so they load in dev too (mirrors fetchHearth's
+// local→remote fallback, which plain <Image> URIs can't do on their own).
+export function hearthAssetUrl(path: string): string {
+  return `${remoteUrl}/${path}`
+}
+
 export async function fetchHearth<T>(
   path: string,
   { networkFirst = false }: { networkFirst?: boolean } = {},
