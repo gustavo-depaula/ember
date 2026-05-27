@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
+import { StainedGlassBacklight } from './StainedGlassBacklight'
 
 const scrollContentStyle = { flexGrow: 1 }
 // Native iOS 26 glass tab bar content height + breathing room. Every screen is
@@ -33,12 +34,7 @@ export function ScreenLayout({
   const bottomClearance = nativeTabBarClearance + nowPlayingClearance
 
   const inner = (
-    <YStack
-      flex={1}
-      backgroundColor="$background"
-      paddingTop={insets.top}
-      paddingBottom={insets.bottom + bottomClearance}
-    >
+    <YStack flex={1} paddingTop={insets.top} paddingBottom={insets.bottom + bottomClearance}>
       <Animated.View entering={FadeIn.duration(250)} style={{ flex: 1 }}>
         <YStack
           flex={1}
@@ -53,17 +49,18 @@ export function ScreenLayout({
     </YStack>
   )
 
-  if (!scroll) return inner
-
   const refreshControl = onRefresh ? (
     <RefreshControl refreshing={!!refreshing} onRefresh={onRefresh} />
   ) : undefined
 
-  return (
+  // The opaque base lives on the root so the stained-glass band can sit between
+  // it and the (now transparent) content — visible only in the empty strip the
+  // floating tab bar hovers over, where its liquid glass refracts it.
+  const body = scroll ? (
     <KeyboardAvoidingView style={{ flex: 1 }} behavior="padding">
       <ScrollView
         flex={1}
-        backgroundColor="$background"
+        backgroundColor="transparent"
         contentContainerStyle={scrollContentStyle}
         keyboardShouldPersistTaps="handled"
         automaticallyAdjustKeyboardInsets
@@ -73,5 +70,14 @@ export function ScreenLayout({
         {inner}
       </ScrollView>
     </KeyboardAvoidingView>
+  ) : (
+    inner
+  )
+
+  return (
+    <YStack flex={1} backgroundColor="$background">
+      <StainedGlassBacklight />
+      {body}
+    </YStack>
   )
 }
