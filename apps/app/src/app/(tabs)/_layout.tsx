@@ -27,7 +27,7 @@ export default function TabsLayout() {
   const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
 
   return (
-    <NativeTabs tintColor={tintColor}>
+    <NativeTabs tintColor={tintColor} minimizeBehavior="onScrollDown">
       {showPlayer ? (
         <NativeTabs.BottomAccessory>
           <NowPlayingBar />
