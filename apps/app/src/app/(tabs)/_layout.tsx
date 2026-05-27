@@ -34,27 +34,34 @@ export default function TabsLayout() {
         </NativeTabs.BottomAccessory>
       ) : null}
 
-      {/* Edge-to-edge so the home flourish can bleed up into the notch;
-          ScreenLayout's manual safe-area padding owns the insets. */}
-      <NativeTabs.Trigger name="(home)" disableAutomaticContentInsets>
+      {/* Today/Explore/Library/You all resolve to the shared array group
+          (today,explore,library,you); edge-to-edge so the Today flourish can
+          bleed up into the notch — ScreenLayout's manual safe-area padding owns
+          the insets. */}
+      <NativeTabs.Trigger name="(today)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon sf={{ default: 'house', selected: 'house.fill' }} md="home" />
-        <NativeTabs.Trigger.Label>{t('nav.home')}</NativeTabs.Trigger.Label>
+        <NativeTabs.Trigger.Label>{t('nav.today')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
-      <NativeTabs.Trigger name="new" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon
-          sf={{ default: 'square.grid.2x2', selected: 'square.grid.2x2.fill' }}
-          md="grid_view"
-        />
-        <NativeTabs.Trigger.Label>{t('nav.new')}</NativeTabs.Trigger.Label>
+      <NativeTabs.Trigger name="(explore)" disableAutomaticContentInsets>
+        <NativeTabs.Trigger.Icon sf={{ default: 'safari', selected: 'safari.fill' }} md="explore" />
+        <NativeTabs.Trigger.Label>{t('nav.explore')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
-      <NativeTabs.Trigger name="library" disableAutomaticContentInsets>
+      <NativeTabs.Trigger name="(library)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           sf={{ default: 'books.vertical', selected: 'books.vertical.fill' }}
           md="library_books"
         />
         <NativeTabs.Trigger.Label>{t('nav.library')}</NativeTabs.Trigger.Label>
+      </NativeTabs.Trigger>
+
+      <NativeTabs.Trigger name="(you)" disableAutomaticContentInsets>
+        <NativeTabs.Trigger.Icon
+          sf={{ default: 'person.crop.circle', selected: 'person.crop.circle.fill' }}
+          md="person"
+        />
+        <NativeTabs.Trigger.Label>{t('nav.you')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="search" role="search">

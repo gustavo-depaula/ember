@@ -18,9 +18,7 @@ import {
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
-import { LatestRow } from '@/features/creators/home/LatestRow'
 import {
-  AppShortcuts,
   Aspiratio,
   type CarouselPage,
   CelebrationOfDay,
@@ -199,14 +197,6 @@ export default function HomeScreen() {
           <FadeInView>
             <DailyCarousel pages={carouselPages} />
           </FadeInView>
-        </YStack>
-
-        <YStack gap="$md">
-          <FadeInView>
-            <AppShortcuts />
-          </FadeInView>
-
-          <LatestRow />
         </YStack>
 
         <YStack gap="$md">

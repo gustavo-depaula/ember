@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { ScrollView } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
-import { AnimatedPressable, PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable } from '@/components'
 import { getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -66,7 +66,12 @@ function localeMatches(entry: CatalogEntry, currentLang: string): boolean {
   return langs.includes(currentLang)
 }
 
-export default function PrayDiscoveryScreen() {
+// The curated catalog browse sections (hero spotlight, daily, formation,
+// themes, genres, schools, patrimony, liturgical year + "all collections").
+// Returned without an outer ScreenLayout/header so callers can compose it —
+// the /browse landing wraps it with a PageHeader, the Explore tab prepends a
+// "latest from followed creators" feed.
+export function DiscoverySections() {
   const { t } = useTranslation()
   const router = useRouter()
   const catalogVersion = useCatalogVersion()
@@ -94,88 +99,84 @@ export default function PrayDiscoveryScreen() {
   }, [catalogVersion])
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <PageHeader title={t('catalog.title')} />
+    <>
+      <YStack paddingHorizontal="$md">
+        <HeroCard collectionId={spotlight.collectionId} taglineKey={spotlight.taglineKey} />
+      </YStack>
 
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.daily')} />
         <YStack paddingHorizontal="$md">
-          <HeroCard collectionId={spotlight.collectionId} taglineKey={spotlight.taglineKey} />
-        </YStack>
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.daily')} />
-          <YStack paddingHorizontal="$md">
-            {dailyIds.map((id) => (
-              <CollectionCard key={id} collectionId={id} width="100%" />
-            ))}
-          </YStack>
-        </YStack>
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.formation')} />
-          <CardRow ids={formationIds} />
-        </YStack>
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.themes')} />
-          <CardRow ids={themeIds} />
-        </YStack>
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.genres')} />
-          <CardRow ids={genreIds} />
-        </YStack>
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.schools')} />
-          <CardRow ids={schoolIds} />
-        </YStack>
-
-        {visiblePatrimony.length > 0 && (
-          <YStack gap="$sm">
-            <SectionHeading text={t('pray.section.patrimony')} />
-            <CardRow ids={visiblePatrimony} />
-          </YStack>
-        )}
-
-        <YStack gap="$sm">
-          <SectionHeading text={t('pray.section.liturgicalYear')} />
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            contentContainerStyle={{ paddingHorizontal: 12, gap: 12 }}
-          >
-            {seasonOrder.map((key) => (
-              <SeasonCard key={key} season={key} active={key === currentSeasonKey} />
-            ))}
-          </ScrollView>
-        </YStack>
-
-        <YStack paddingHorizontal="$md" paddingTop="$md">
-          <AnimatedPressable
-            onPress={() => router.push('/browse/all')}
-            accessibilityRole="link"
-            accessibilityLabel={t('pray.allCollections')}
-          >
-            <YStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$lg"
-              borderWidth={1}
-              borderColor="$borderColor"
-              paddingHorizontal="$md"
-              paddingVertical="$md"
-              alignItems="center"
-            >
-              <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                {t('pray.allCollections')}
-              </Text>
-              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {t('pray.allCollectionsHint')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
+          {dailyIds.map((id) => (
+            <CollectionCard key={id} collectionId={id} width="100%" />
+          ))}
         </YStack>
       </YStack>
-    </ScreenLayout>
+
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.formation')} />
+        <CardRow ids={formationIds} />
+      </YStack>
+
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.themes')} />
+        <CardRow ids={themeIds} />
+      </YStack>
+
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.genres')} />
+        <CardRow ids={genreIds} />
+      </YStack>
+
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.schools')} />
+        <CardRow ids={schoolIds} />
+      </YStack>
+
+      {visiblePatrimony.length > 0 && (
+        <YStack gap="$sm">
+          <SectionHeading text={t('pray.section.patrimony')} />
+          <CardRow ids={visiblePatrimony} />
+        </YStack>
+      )}
+
+      <YStack gap="$sm">
+        <SectionHeading text={t('pray.section.liturgicalYear')} />
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={{ paddingHorizontal: 12, gap: 12 }}
+        >
+          {seasonOrder.map((key) => (
+            <SeasonCard key={key} season={key} active={key === currentSeasonKey} />
+          ))}
+        </ScrollView>
+      </YStack>
+
+      <YStack paddingHorizontal="$md" paddingTop="$md">
+        <AnimatedPressable
+          onPress={() => router.push('/browse/all')}
+          accessibilityRole="link"
+          accessibilityLabel={t('pray.allCollections')}
+        >
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            borderWidth={1}
+            borderColor="$borderColor"
+            paddingHorizontal="$md"
+            paddingVertical="$md"
+            alignItems="center"
+          >
+            <Text fontFamily="$heading" fontSize="$2" color="$accent">
+              {t('pray.allCollections')}
+            </Text>
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+              {t('pray.allCollectionsHint')}
+            </Text>
+          </YStack>
+        </AnimatedPressable>
+      </YStack>
+    </>
   )
 }
