@@ -31,7 +31,7 @@ import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
-import { AppState, InteractionManager, LogBox, useColorScheme } from 'react-native'
+import { Appearance, AppState, InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider, Theme } from 'tamagui'
@@ -299,9 +299,15 @@ export default function RootLayout() {
 
   // Paint the native root view so it isn't the default white — otherwise it
   // peeks through during native transitions (Link.AppleZoom, swipe-back).
+  // Also push the resolved theme into the native UIKit appearance: without this
+  // the native layer follows the *device* (userInterfaceStyle: automatic), so an
+  // explicit light pref on a dark device leaves freshly-attached tab VCs and the
+  // Liquid Glass bar resolving dark for a frame on tab switch. 'unspecified' clears
+  // the override so 'system' keeps following the device (and useColorScheme stays true).
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
-  }, [rootBg])
+    Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
+  }, [rootBg, themePreference])
 
   if (!coreReady) return undefined
 
