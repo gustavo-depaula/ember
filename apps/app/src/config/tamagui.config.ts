@@ -1,7 +1,13 @@
 import { createTamagui } from 'tamagui'
 
 import { bodyFont, displayFont, headingFont, scriptFont, titleFont } from './fonts'
-import { darkTheme, lightTheme, liturgicalSubThemes, liturgicalSubThemesDark } from './themes'
+import {
+  darkTheme,
+  illuminatedTheme,
+  lightTheme,
+  liturgicalSubThemes,
+  liturgicalSubThemesDark,
+} from './themes'
 import { tokens } from './tokens'
 
 export const config = createTamagui({
@@ -9,6 +15,7 @@ export const config = createTamagui({
   themes: {
     light: lightTheme,
     dark: darkTheme,
+    illuminated: illuminatedTheme,
     light_advent: { ...lightTheme, ...liturgicalSubThemes.advent },
     dark_advent: { ...darkTheme, ...liturgicalSubThemesDark.advent },
     light_christmas: { ...lightTheme, ...liturgicalSubThemes.christmas },

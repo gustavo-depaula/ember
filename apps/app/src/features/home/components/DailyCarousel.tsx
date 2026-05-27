@@ -1,62 +1,104 @@
-import { LinearGradient } from 'expo-linear-gradient'
 import { type ReactNode, useEffect, useMemo, useRef, useState } from 'react'
 import {
   type LayoutChangeEvent,
   type NativeScrollEvent,
   type NativeSyntheticEvent,
   ScrollView,
+  StyleSheet,
 } from 'react-native'
-import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
+import { Text, Theme, View, XStack, YStack } from 'tamagui'
 
 export type CardTone = 'gold' | 'burgundy' | 'blue' | 'green'
-export type CarouselPage = { key: string; node: ReactNode; tone?: CardTone }
+export type CarouselPage = { key: string; node: ReactNode; tone?: CardTone; watermark?: string }
 
 const autoAdvanceMs = 6000
 const pauseAfterInteractionMs = 8000
+const watermarkFontSize = 64
 
-// Each card type gets its own hue (the user wants them distinct). The tint is
-// laid over the surface at low alpha so the ink stays readable on top.
-function tintFor(theme: ReturnType<typeof useTheme>, tone: CardTone | undefined): string {
-  switch (tone) {
-    case 'burgundy':
-      return theme.colorBurgundy?.val
-    case 'blue':
-      return theme.colorMutedBlue?.val
-    case 'green':
-      return theme.colorGreen?.val
-    default:
-      return theme.goldBright?.val
-  }
+// Deep illuminated-manuscript jewel grounds (rich corner → deeper corner). The
+// cards stay vivid in both app themes; their content is wrapped in the dark
+// theme below so cream-and-gold lettering reads against the jewel ground.
+const cardGrounds: Record<CardTone, [string, string]> = {
+  blue: ['#22427A', '#152C52'], // lapis / ultramarine
+  burgundy: ['#7A1C2B', '#4C1019'], // crimson
+  green: ['#1E5038', '#123626'], // verdigris / forest
+  gold: ['#9A7415', '#6B4E0E'], // burnished gold
 }
 
-/** Rounded, softly-tinted gradient surface behind a carousel card. */
+/**
+ * Vivid jewel-ground card with a diagonal gradient, drawn with react-native-svg
+ * (already bundled for icons) so it needs no extra native module. We measure the
+ * card and size the SVG in pixels so the gradient fills edge to edge — a "100%"
+ * SVG height was leaving a seam. Content is themed dark for light/gold lettering.
+ */
 function CardSurface({
   tone,
   fullBleedPage,
+  watermark,
   children,
 }: {
   tone?: CardTone
   fullBleedPage?: boolean
+  watermark?: string
   children: ReactNode
 }) {
-  const theme = useTheme()
-  const tint = tintFor(theme, tone)
+  const [layout, setLayout] = useState({ w: 0, h: 0 })
+  const [from, to] = cardGrounds[tone ?? 'burgundy']
+  const gradientId = `card-${tone ?? 'burgundy'}`
   return (
-    <LinearGradient
-      // ~22% tint at the top-left easing into the surface keeps text legible.
-      colors={[`${tint}38`, theme.backgroundSurface?.val]}
-      start={{ x: 0, y: 0 }}
-      end={{ x: 1, y: 1 }}
-      style={{
-        marginHorizontal: fullBleedPage ? 24 : 0,
-        borderRadius: 18,
-        borderWidth: 1,
-        borderColor: `${tint}33`,
-        overflow: 'hidden',
+    <View
+      onLayout={(e) => {
+        const { width, height } = e.nativeEvent.layout
+        setLayout((l) => (l.w !== width || l.h !== height ? { w: width, h: height } : l))
       }}
+      marginHorizontal={fullBleedPage ? '$lg' : 0}
+      borderRadius={12}
+      backgroundColor={from}
+      overflow="hidden"
     >
-      {children}
-    </LinearGradient>
+      {layout.w > 0 && (
+        <Svg width={layout.w} height={layout.h} style={StyleSheet.absoluteFill}>
+          <Defs>
+            <LinearGradient id={gradientId} x1="0" y1="0" x2="1" y2="1">
+              <Stop offset="0" stopColor={from} />
+              <Stop offset="1" stopColor={to} />
+            </LinearGradient>
+          </Defs>
+          <Rect width={layout.w} height={layout.h} fill={`url(#${gradientId})`} />
+        </Svg>
+      )}
+      {/* Fraktur watermark of the card's title — a faint texture that wraps and
+          clips against the card edges (no ellipsis), not meant to be read. */}
+      {watermark && layout.h > 0 && (
+        <View
+          position="absolute"
+          top={0}
+          bottom={0}
+          left={12}
+          right={0}
+          alignContent="center"
+          justifyContent="center"
+          pointerEvents="none"
+          accessibilityElementsHidden
+          importantForAccessibility="no-hide-descendants"
+        >
+          <Text
+            fontFamily="$display"
+            color="#F5EEE1"
+            opacity={0.06}
+            style={{
+              fontSize: watermarkFontSize,
+              lineHeight: watermarkFontSize + 5,
+              // textTransform: 'uppercase',
+            }}
+          >
+            {watermark}
+          </Text>
+        </View>
+      )}
+      <Theme name="illuminated">{children}</Theme>
+    </View>
   )
 }
 
@@ -77,9 +119,9 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
   const slides = useMemo<CarouselPage[]>(() => {
     if (n <= 1) return pages
     return [
-      { key: `head-${pages[n - 1].key}`, node: pages[n - 1].node },
+      { ...pages[n - 1], key: `head-${pages[n - 1].key}` },
       ...pages,
-      { key: `tail-${pages[0].key}`, node: pages[0].node },
+      { ...pages[0], key: `tail-${pages[0].key}` },
     ]
   }, [pages, n])
 
@@ -102,13 +144,10 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
 
   if (n === 1) {
     return (
-      <YStack
-        paddingVertical="$md"
-        borderTopWidth={0.5}
-        borderBottomWidth={0.5}
-        borderColor="$accentSubtle"
-      >
-        {pages[0].node}
+      <YStack paddingVertical="$md">
+        <CardSurface tone={pages[0].tone} watermark={pages[0].watermark}>
+          {pages[0].node}
+        </CardSurface>
       </YStack>
     )
   }
@@ -137,13 +176,7 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
   }
 
   return (
-    <YStack
-      paddingVertical="$md"
-      borderTopWidth={0.5}
-      borderBottomWidth={0.5}
-      borderColor="$accentSubtle"
-      gap="$sm"
-    >
+    <YStack paddingVertical="$md" gap="$sm">
       <ScrollView
         ref={scrollRef}
         horizontal
@@ -162,7 +195,9 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
       >
         {slides.map((slide) => (
           <View key={slide.key} width={width || undefined} justifyContent="center">
-            {slide.node}
+            <CardSurface tone={slide.tone} watermark={slide.watermark} fullBleedPage>
+              {slide.node}
+            </CardSurface>
           </View>
         ))}
       </ScrollView>

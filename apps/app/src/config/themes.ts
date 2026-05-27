@@ -66,6 +66,20 @@ export const darkTheme = {
   goldBright: '#D4A63A',
 }
 
+// Lettering palette for the vivid jewel-ground cards (home carousel). Based on
+// the dark theme but brighter across the board so cream/gold/parchment text
+// stays legible on deep saturated grounds — the dark theme's muted secondary
+// (tuned for a near-black background) was too dim on a mid-tone jewel ground.
+export const illuminatedTheme = {
+  ...darkTheme,
+  color: '#F5EEE1',
+  colorSecondary: '#DACAB2',
+  accent: '#E6C158',
+  accentHover: '#E6C158',
+  accentSubtle: '#C2A24E',
+  colorBurgundy: '#EAAAB2',
+}
+
 export const liturgicalSubThemes = {
   advent: { accent: '#5B2C6F', accentSubtle: '#9B7DB8' },
   christmas: { accent: '#C9A84C', accentSubtle: '#D4C088' },

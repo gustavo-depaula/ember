@@ -67,7 +67,7 @@ export function CelebrationOfDay({ date }: { date: Date }) {
       accessibilityRole="link"
       accessibilityLabel={t('a11y.viewCalendar')}
     >
-      <YStack gap="$sm" paddingHorizontal="$md">
+      <YStack gap="$sm" paddingHorizontal="$lg" paddingVertical="$md">
         <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={1}>
           {t('home.celebrationOfDay')}
         </Text>

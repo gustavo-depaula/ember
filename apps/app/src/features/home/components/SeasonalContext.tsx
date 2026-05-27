@@ -35,7 +35,7 @@ export function SeasonalContext({ date }: { date: Date }) {
       accessibilityRole="link"
       accessibilityLabel={t('a11y.viewCalendar')}
     >
-      <YStack gap="$sm" paddingHorizontal="$lg">
+      <YStack gap="$sm" paddingHorizontal="$lg" paddingVertical="$md">
         <Text
           fontFamily="$heading"
           fontSize="$1"

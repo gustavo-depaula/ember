@@ -29,7 +29,7 @@ export function DiesDevotion({ date }: { date: Date }) {
       accessibilityLabel={t('diesDomini.title')}
       hitSlop={6}
     >
-      <YStack gap="$sm" paddingHorizontal="$lg">
+      <YStack gap="$sm" paddingHorizontal="$lg" paddingVertical="$md">
         <Typography variant="marker" textAlign="left" fontSize="$1" letterSpacing={2.5}>
           {t('diesDomini.title')}
         </Typography>

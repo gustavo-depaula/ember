@@ -56,6 +56,7 @@ import {
 } from '@/features/plan-of-life'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
+import { localizeContent } from '@/lib/i18n'
 import {
   getCelebrationsForDate,
   getLiturgicalSeason,
@@ -117,7 +118,7 @@ export default function HomeScreen() {
   const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
-  const hasUpcomingFeast = !!useUpcomingCelebration(14)
+  const upcomingFeast = useUpcomingCelebration(14)
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -126,12 +127,48 @@ export default function HomeScreen() {
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
 
+  const principalFeast = scheduleCtx?.dayCalendar?.principal
+  // The devotion card's subject changes by weekday; derive it from the day's
+  // line ("Today, Saint Joseph." → "Saint Joseph") for the watermark.
+  const devotionDayKey = [
+    'sunday',
+    'monday',
+    'tuesday',
+    'wednesday',
+    'thursday',
+    'friday',
+    'saturday',
+  ][now.getDay()]
+  const devotionSubject = t(`diesDomini.days.${devotionDayKey}.line`)
+    .replace(/^[^,]*,\s*/, '')
+    .replace(/\.+$/, '')
   const carouselPages: CarouselPage[] = [
-    { key: 'devotion', node: <DiesDevotion date={now} /> },
-    ...(scheduleCtx?.dayCalendar?.principal
-      ? [{ key: 'celebration', node: <CelebrationOfDay date={now} /> }]
+    {
+      key: 'devotion',
+      tone: 'blue',
+      watermark: devotionSubject,
+      node: <DiesDevotion date={now} />,
+    },
+    ...(principalFeast
+      ? [
+          {
+            key: 'celebration',
+            tone: 'burgundy' as const,
+            watermark: localizeContent(principalFeast.entry.name),
+            node: <CelebrationOfDay date={now} />,
+          },
+        ]
       : []),
-    ...(hasUpcomingFeast ? [{ key: 'seasonal', node: <SeasonalContext date={now} /> }] : []),
+    ...(upcomingFeast
+      ? [
+          {
+            key: 'seasonal',
+            tone: 'green' as const,
+            watermark: localizeContent(upcomingFeast.entry.name),
+            node: <SeasonalContext date={now} />,
+          },
+        ]
+      : []),
   ]
 
   const completionsBySlot = useCompletionDatesBySlot()
@@ -204,7 +241,7 @@ export default function HomeScreen() {
 
         <YStack>
           <FadeInView index={1}>
-            <YStack paddingTop="$md">
+            <YStack>
               <Pressable
                 onPress={() => router.push('/plan')}
                 accessibilityRole="link"
