@@ -35,7 +35,7 @@ export function SeasonalContext({ date }: { date: Date }) {
       accessibilityRole="link"
       accessibilityLabel={t('a11y.viewCalendar')}
     >
-      <YStack alignItems="center" gap="$sm" paddingHorizontal="$lg">
+      <YStack gap="$sm" paddingHorizontal="$lg">
         <Text
           fontFamily="$heading"
           fontSize="$1"
@@ -45,17 +45,10 @@ export function SeasonalContext({ date }: { date: Date }) {
         >
           {t('home.upcomingLabel')}
         </Text>
-        <Text
-          fontFamily="$body"
-          fontSize="$3"
-          color="$color"
-          fontStyle="italic"
-          textAlign="center"
-          maxWidth={420}
-        >
+        <Text fontFamily="$body" fontSize="$3" color="$color" fontStyle="italic" maxWidth={420}>
           {feastName}
         </Text>
-        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
           {when}
         </Text>
         {description && (
@@ -63,7 +56,6 @@ export function SeasonalContext({ date }: { date: Date }) {
             fontFamily="$body"
             fontSize="$2"
             color="$colorSecondary"
-            textAlign="center"
             maxWidth={520}
             numberOfLines={3}
           >

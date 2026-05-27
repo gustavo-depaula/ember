@@ -1,3 +1,4 @@
+import { LinearGradient } from 'expo-linear-gradient'
 import { type ReactNode, useEffect, useMemo, useRef, useState } from 'react'
 import {
   type LayoutChangeEvent,
@@ -5,12 +6,59 @@ import {
   type NativeSyntheticEvent,
   ScrollView,
 } from 'react-native'
-import { Text, View, XStack, YStack } from 'tamagui'
+import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
-export type CarouselPage = { key: string; node: ReactNode }
+export type CardTone = 'gold' | 'burgundy' | 'blue' | 'green'
+export type CarouselPage = { key: string; node: ReactNode; tone?: CardTone }
 
 const autoAdvanceMs = 6000
 const pauseAfterInteractionMs = 8000
+
+// Each card type gets its own hue (the user wants them distinct). The tint is
+// laid over the surface at low alpha so the ink stays readable on top.
+function tintFor(theme: ReturnType<typeof useTheme>, tone: CardTone | undefined): string {
+  switch (tone) {
+    case 'burgundy':
+      return theme.colorBurgundy?.val
+    case 'blue':
+      return theme.colorMutedBlue?.val
+    case 'green':
+      return theme.colorGreen?.val
+    default:
+      return theme.goldBright?.val
+  }
+}
+
+/** Rounded, softly-tinted gradient surface behind a carousel card. */
+function CardSurface({
+  tone,
+  fullBleedPage,
+  children,
+}: {
+  tone?: CardTone
+  fullBleedPage?: boolean
+  children: ReactNode
+}) {
+  const theme = useTheme()
+  const tint = tintFor(theme, tone)
+  return (
+    <LinearGradient
+      // ~22% tint at the top-left easing into the surface keeps text legible.
+      colors={[`${tint}38`, theme.backgroundSurface?.val]}
+      start={{ x: 0, y: 0 }}
+      end={{ x: 1, y: 1 }}
+      style={{
+        marginHorizontal: fullBleedPage ? 24 : 0,
+        borderRadius: 18,
+        borderWidth: 1,
+        borderColor: `${tint}33`,
+        overflow: 'hidden',
+      }}
+    >
+      {children}
+    </LinearGradient>
+  )
+}
 
 export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
   const [width, setWidth] = useState(0)
@@ -95,15 +143,19 @@ export function DailyCarousel({ pages }: { pages: CarouselPage[] }) {
       borderBottomWidth={0.5}
       borderColor="$accentSubtle"
       gap="$sm"
-      onLayout={onLayout}
     >
       <ScrollView
         ref={scrollRef}
         horizontal
         pagingEnabled
+        // Break out of the screen's horizontal padding ($lg = 24) so a page slides
+        // all the way off the edge while cycling; the cards keep their inner padding.
+        // RN ScrollView ignores Tamagui style tokens, so this goes through `style`.
+        style={{ marginHorizontal: -24 }}
         showsHorizontalScrollIndicator={false}
         snapToInterval={width || undefined}
         decelerationRate="fast"
+        onLayout={onLayout}
         onScrollBeginDrag={pauseAutoplay}
         onMomentumScrollEnd={onMomentumEnd}
         accessibilityRole="adjustable"

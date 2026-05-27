@@ -12,6 +12,7 @@ import {
   GreenWall,
   ObligationBadges,
   PageBreakOrnament,
+  PageHeader,
   ScreenLayout,
   SectionDivider,
   Typography,
@@ -186,6 +187,7 @@ export default function HomeScreen() {
           accessibilityElementsHidden
         />
       </View>
+
       <YStack gap="$lg" paddingTop={5 + noNotchTopPad} paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader
@@ -200,24 +202,18 @@ export default function HomeScreen() {
           </FadeInView>
         </YStack>
 
-        <YStack gap="$md">
+        <YStack>
           <FadeInView index={1}>
-            <YStack alignItems="center" gap="$sm">
+            <YStack paddingTop="$md">
               <Pressable
                 onPress={() => router.push('/plan')}
                 accessibilityRole="link"
                 accessibilityLabel={t('a11y.viewPlanOfLife')}
               >
-                <Typography variant="marker" fontSize="$5">
+                <Typography variant="screen-title" tone="muted" fontSize="$5">
                   {t('home.ruleOfLife')}
                 </Typography>
               </Pressable>
-              <View
-                width={120}
-                borderBottomWidth={0.5}
-                borderColor="$accentSubtle"
-                marginTop="$xs"
-              />
             </YStack>
           </FadeInView>
 

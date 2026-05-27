@@ -61,7 +61,7 @@ export default {
     pray: 'Orar',
     reading: 'Leitura',
     fidelity: 'Fidelidade',
-    ruleOfLife: 'Seu Plano de Vida',
+    ruleOfLife: 'Hoje, com Deus.',
     ruleOfLifeSubtitle: 'uma regra de vida',
     resolutionLabel: 'Resolução de hoje',
     resolutionAttribution: 'o propósito de hoje',

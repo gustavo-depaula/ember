@@ -61,7 +61,7 @@ export default {
     pray: 'Pray',
     reading: 'Reading',
     fidelity: 'Fidelity',
-    ruleOfLife: 'Your Rule of Life',
+    ruleOfLife: 'Today, with God.',
     ruleOfLifeSubtitle: 'a rule of life',
     resolutionLabel: 'Today’s resolution',
     resolutionAttribution: 'today’s resolve',

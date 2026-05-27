@@ -29,26 +29,14 @@ export function DiesDevotion({ date }: { date: Date }) {
       accessibilityLabel={t('diesDomini.title')}
       hitSlop={6}
     >
-      <YStack alignItems="center" gap="$sm" paddingHorizontal="$lg">
-        <Typography variant="marker" fontSize="$1" letterSpacing={2.5}>
+      <YStack gap="$sm" paddingHorizontal="$lg">
+        <Typography variant="marker" textAlign="left" fontSize="$1" letterSpacing={2.5}>
           {t('diesDomini.title')}
         </Typography>
-        <Typography
-          variant="whisper"
-          color="$color"
-          fontSize="$3"
-          textAlign="center"
-          maxWidth={420}
-        >
+        <Typography variant="whisper" color="$color" fontSize="$3" maxWidth={420}>
           {line}
         </Typography>
-        <Typography
-          variant="whisper"
-          fontSize="$2"
-          textAlign="center"
-          maxWidth={520}
-          numberOfLines={4}
-        >
+        <Typography variant="whisper" fontSize="$2" maxWidth={520} numberOfLines={4}>
           {description}
         </Typography>
       </YStack>
