@@ -26,9 +26,10 @@ import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
 import { MutationCache, QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
-import { Stack } from 'expo-router'
+import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
+import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
 import { AppState, InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
@@ -50,7 +51,6 @@ import { useDbInit } from '@/db/client'
 import { listCommitments, reconcileAbandonedSessions } from '@/db/repositories/custody'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
-import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
 import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
 import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
 import { installCreatorPinning } from '@/features/creators/pinning/install'
@@ -297,6 +297,12 @@ export default function RootLayout() {
   const { themeName } = useLiturgicalTheme()
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
+  // Paint the native root view so it isn't the default white — otherwise it
+  // peeks through during native transitions (Link.AppleZoom, swipe-back).
+  useEffect(() => {
+    SystemUI.setBackgroundColorAsync(rootBg)
+  }, [rootBg])
+
   if (!coreReady) return undefined
 
   if (!ready) {
@@ -310,6 +316,15 @@ export default function RootLayout() {
     )
   }
 
+  // Paint the navigation container background so it isn't React Navigation's
+  // default white, which otherwise peeks through during native transitions
+  // (Link.AppleZoom, interactive swipe-back).
+  const baseNavTheme = resolvedTheme === 'dark' ? DarkTheme : DefaultTheme
+  const navTheme = {
+    ...baseNavTheme,
+    colors: { ...baseNavTheme.colors, background: rootBg, card: rootBg },
+  }
+
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
       <KeyboardProvider>
@@ -319,28 +334,19 @@ export default function RootLayout() {
             {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
             <Theme name={themeName as any}>
               <StatusBar hidden />
-              <Stack
-                screenOptions={{
-                  headerShown: false,
-                  animation: 'fade',
-                  animationDuration: 200,
-                  contentStyle: { backgroundColor: rootBg },
-                }}
-              >
-                <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
-                <Stack.Screen name="plan" options={{ title: i18n.t('home.planOfLife') }} />
-                <Stack.Screen name="bible" options={{ title: i18n.t('home.sacredScripture') }} />
-                <Stack.Screen name="catechism" options={{ title: i18n.t('home.catechism') }} />
-                <Stack.Screen name="saints" options={{ title: i18n.t('saints.title') }} />
-                <Stack.Screen name="settings" options={{ title: i18n.t('settings.title') }} />
-                <Stack.Screen name="pray" options={{ title: i18n.t('home.pray') }} />
-                <Stack.Screen name="practices" options={{ title: i18n.t('practices.title') }} />
-                <Stack.Screen name="browse" options={{ title: i18n.t('browse.title') }} />
-                <Stack.Screen name="creators" options={{ title: i18n.t('creators.title') }} />
-                <Stack.Screen name="piano" options={{ title: 'Piano' }} />
-              </Stack>
+              <ThemeProvider value={navTheme}>
+                <Stack
+                  screenOptions={{
+                    headerShown: false,
+                    animation: 'fade',
+                    animationDuration: 200,
+                    contentStyle: { backgroundColor: rootBg },
+                  }}
+                >
+                  <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+                </Stack>
+              </ThemeProvider>
               <FloatingOfflineChip />
-              <NowPlayingBar />
               <ConfirmHost />
             </Theme>
           </TamaguiProvider>

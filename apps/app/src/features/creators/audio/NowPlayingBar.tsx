@@ -11,7 +11,6 @@ import { Link, usePathname } from 'expo-router'
 import { Pause, Play, X } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { ActivityIndicator, Pressable, View } from 'react-native'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, useThemeName, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
@@ -24,9 +23,6 @@ const PILL_RADIUS = PILL_HEIGHT / 2
 const ARTWORK_SIZE = PILL_HEIGHT - 16
 const HORIZONTAL_INSET = 12
 const ARTWORK_LEFT_PADDING = 14
-// Float the pill just above the native (iOS 26 glass) tab bar. The bar's own
-// content height is ~50pt; the home-indicator inset is added on top.
-const NATIVE_TAB_BAR_HEIGHT = 50
 
 const pillStyle = {
   flexDirection: 'row' as const,
@@ -39,7 +35,6 @@ const pillStyle = {
 export function NowPlayingBar() {
   const { t } = useTranslation()
   const theme = useTheme()
-  const insets = useSafeAreaInsets()
   const pathname = usePathname()
   const isDark = useThemeName().startsWith('dark')
   const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
@@ -57,17 +52,7 @@ export function NowPlayingBar() {
   const accessibilityLabel = t('creators.openPlayer', { title: nowPlaying.title })
 
   return (
-    <View
-      pointerEvents="box-none"
-      style={{
-        position: 'absolute',
-        left: 0,
-        right: 0,
-        bottom: insets.bottom + NATIVE_TAB_BAR_HEIGHT + 8,
-        paddingHorizontal: HORIZONTAL_INSET,
-        zIndex: 100,
-      }}
-    >
+    <View style={{ paddingHorizontal: HORIZONTAL_INSET }}>
       <GlassSurface isDark={isDark} style={pillStyle}>
         <Link
           href={{

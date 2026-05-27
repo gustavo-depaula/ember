@@ -21,7 +21,7 @@ export default function SearchScreen() {
           },
         }}
       />
-      <ScreenLayout tabBar>
+      <ScreenLayout>
         <YStack flex={1} alignItems="center" justifyContent="center" paddingTop="$xl">
           <Text fontFamily="$heading" fontSize="$5" color="$color">
             {query.trim() ? query : t('nav.searchPlaceholder')}

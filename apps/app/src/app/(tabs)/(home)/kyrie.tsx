@@ -120,6 +120,7 @@ export default function KyrieScreen() {
             >
               <Text
                 fontFamily="$display"
+                // biome-ignore lint/suspicious/noExplicitAny: oversized display token not in the generated fontSize union
                 fontSize={'$7' as any}
                 color="rgba(245,240,224,0.95)"
                 letterSpacing={2}

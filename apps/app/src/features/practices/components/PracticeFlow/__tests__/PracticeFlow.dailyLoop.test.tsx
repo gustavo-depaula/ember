@@ -25,7 +25,7 @@ describe('daily resolution loop — Examen → next-day Morning Offering', () =>
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(home)/pray/[practiceId]'),
         },
       ],
     })

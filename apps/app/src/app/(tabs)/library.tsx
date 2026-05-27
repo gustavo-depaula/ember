@@ -6,7 +6,7 @@ import { ScreenLayout } from '@/components'
 export default function LibraryScreen() {
   const { t } = useTranslation()
   return (
-    <ScreenLayout tabBar>
+    <ScreenLayout>
       <YStack flex={1} alignItems="center" justifyContent="center" paddingTop="$xl">
         <Text fontFamily="$heading" fontSize="$5" color="$color">
           {t('nav.library')}

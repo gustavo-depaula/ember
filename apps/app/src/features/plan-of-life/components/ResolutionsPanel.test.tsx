@@ -23,7 +23,7 @@ describe('ResolutionsPanel — daily TODAY card', () => {
       routes: [
         {
           pattern: '/plan',
-          loader: () => import('@/app/plan/index'),
+          loader: () => import('@/app/(tabs)/(home)/plan/index'),
         },
       ],
     })

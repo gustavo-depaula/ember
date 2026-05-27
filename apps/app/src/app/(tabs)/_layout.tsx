@@ -3,12 +3,17 @@ import { useTranslation } from 'react-i18next'
 import { DynamicColorIOS, Platform } from 'react-native'
 
 import { darkTheme, lightTheme } from '@/config/themes'
+import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
+import { useCreatorsStore } from '@/stores/creatorsStore'
 
 // Native iOS 26 Liquid Glass tab bar (and native selection morph) come for
 // free from UITabBarController; the search role gives the separate circular
 // search affordance that expands into a field, exactly like Apple Podcasts.
+// The now-playing pill lives in the BottomAccessory so it stays anchored above
+// the bar and persists across navigation (detail routes are nested in (home)).
 export default function TabsLayout() {
   const { t } = useTranslation()
+  const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
 
   const tintColor =
     Platform.OS === 'ios'
@@ -17,14 +22,20 @@ export default function TabsLayout() {
 
   return (
     <NativeTabs tintColor={tintColor}>
+      {nowPlaying ? (
+        <NativeTabs.BottomAccessory>
+          <NowPlayingBar />
+        </NativeTabs.BottomAccessory>
+      ) : null}
+
       {/* Edge-to-edge so the home flourish can bleed up into the notch;
           ScreenLayout's manual safe-area padding owns the insets. */}
-      <NativeTabs.Trigger name="index" disableAutomaticContentInsets>
+      <NativeTabs.Trigger name="(home)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon sf={{ default: 'house', selected: 'house.fill' }} md="home" />
         <NativeTabs.Trigger.Label>{t('nav.home')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
-      <NativeTabs.Trigger name="new">
+      <NativeTabs.Trigger name="new" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           sf={{ default: 'square.grid.2x2', selected: 'square.grid.2x2.fill' }}
           md="grid_view"
@@ -32,7 +43,7 @@ export default function TabsLayout() {
         <NativeTabs.Trigger.Label>{t('nav.new')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
-      <NativeTabs.Trigger name="library">
+      <NativeTabs.Trigger name="library" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           sf={{ default: 'books.vertical', selected: 'books.vertical.fill' }}
           md="library_books"

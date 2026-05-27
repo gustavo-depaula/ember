@@ -7,6 +7,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0E0D0C",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "me.dpgu.ember",

@@ -132,6 +132,7 @@ export default function PracticeDetailScreen() {
             group={group}
             activeVariant={activeVariant}
             onSelect={(id) =>
+              // biome-ignore lint/style/noNonNullAssertion: guarded by the early loading return above
               updatePractice.mutate({ id: practiceId!, data: { activeVariant: id } })
             }
           />
@@ -230,6 +231,7 @@ export default function PracticeDetailScreen() {
                 return (
                   <TrackPicker
                     key={trackName}
+                    // biome-ignore lint/style/noNonNullAssertion: guarded by the early loading return above
                     practiceId={activeVariant!}
                     trackDef={def}
                     trackState={{ track: trackName, current_index: position.index ?? 0 }}

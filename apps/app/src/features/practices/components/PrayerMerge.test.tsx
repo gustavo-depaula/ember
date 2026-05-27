@@ -36,7 +36,7 @@ describe('Prayer/practice merge — end-to-end render', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(home)/pray/[practiceId]'),
         },
       ],
     })
@@ -61,7 +61,7 @@ describe('Prayer/practice merge — end-to-end render', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(home)/pray/[practiceId]'),
         },
       ],
     })

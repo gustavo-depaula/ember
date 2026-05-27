@@ -20,7 +20,7 @@ describe('MovementScreen — /intentions', () => {
       routes: [
         {
           pattern: '/intentions',
-          loader: () => import('@/app/intentions/index'),
+          loader: () => import('@/app/(tabs)/(home)/intentions/index'),
         },
       ],
     })
@@ -46,7 +46,7 @@ describe('MovementScreen — /intentions', () => {
       routes: [
         {
           pattern: '/intentions',
-          loader: () => import('@/app/intentions/index'),
+          loader: () => import('@/app/(tabs)/(home)/intentions/index'),
         },
       ],
     })

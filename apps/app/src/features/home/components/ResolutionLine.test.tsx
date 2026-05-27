@@ -16,7 +16,7 @@ describe('ResolutionLine on /', () => {
   it('stays hidden when there is no active daily resolution', async () => {
     const { screen } = await renderApp({
       route: '/',
-      routes: [{ pattern: '/', loader: () => import('@/app/index') }],
+      routes: [{ pattern: '/', loader: () => import('@/app/(tabs)/(home)/index') }],
     })
 
     // Wait for the home header to mount before asserting absence — otherwise
@@ -29,7 +29,7 @@ describe('ResolutionLine on /', () => {
   it('surfaces the active daily resolution after capture', async () => {
     const { screen } = await renderApp({
       route: '/',
-      routes: [{ pattern: '/', loader: () => import('@/app/index') }],
+      routes: [{ pattern: '/', loader: () => import('@/app/(tabs)/(home)/index') }],
     })
 
     const todayStart = getToday().getTime()

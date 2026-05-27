@@ -121,6 +121,7 @@ export default function OratioScreen() {
           <YStack alignItems="center" gap="$sm">
             <Text
               fontFamily="$display"
+              // biome-ignore lint/suspicious/noExplicitAny: oversized display token not in the generated fontSize union
               fontSize={'$6' as any}
               color="rgba(245,240,224,0.9)"
               letterSpacing={2}
