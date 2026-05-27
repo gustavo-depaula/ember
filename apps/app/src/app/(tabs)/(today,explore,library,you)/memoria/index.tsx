@@ -1,16 +1,6 @@
 import { format, isSameDay, isToday, isYesterday } from 'date-fns'
 import { useRouter } from 'expo-router'
-import {
-  BookOpen,
-  Check,
-  ChevronLeft,
-  Flame,
-  Heart,
-  Key,
-  type LucideIcon,
-  Sparkles,
-  Sunrise,
-} from 'lucide-react-native'
+import { BookOpen, ChevronLeft } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
@@ -18,10 +8,15 @@ import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout } from '@/components'
-import { getManifest } from '@/content/resolver'
-import { type MemoriaEntry, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
+import {
+  EntryRow,
+  getEntryBody,
+  getEntryIcon,
+  type MemoriaEntry,
+  useMemoriaEntries,
+  useOnThisDayEntries,
+} from '@/features/memoria'
 import { useToday } from '@/hooks/useToday'
-import { localizeContent } from '@/lib/i18n'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
 type Filter = 'all' | 'prayers' | 'intentions' | 'gratitudes'
@@ -222,38 +217,6 @@ function DayHeading({ label }: { date: Date; label: string }) {
   )
 }
 
-function EntryRow({
-  entry,
-  locale,
-}: {
-  entry: MemoriaEntry
-  locale: ReturnType<typeof getDateLocale>
-}) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const time = format(entry.timestamp, 'p', { locale })
-  const icon = getEntryIcon(entry.kind, theme.accent?.val ?? '#888')
-  const body = getEntryBody(entry, t)
-
-  return (
-    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
-      <XStack gap="$md" alignItems="flex-start" paddingVertical="$xs">
-        <YStack width={20} paddingTop={2} alignItems="center">
-          {icon}
-        </YStack>
-        <YStack flex={1} gap={2}>
-          <Text fontFamily="$body" fontSize="$2" color="$color">
-            {body}
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-            {time}
-          </Text>
-        </YStack>
-      </XStack>
-    </Animated.View>
-  )
-}
-
 function OnThisDayRow({
   entry,
   locale,
@@ -287,42 +250,4 @@ function OnThisDayRow({
       </XStack>
     </Animated.View>
   )
-}
-
-function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNode {
-  const icons: Record<MemoriaEntry['kind'], LucideIcon> = {
-    completion: Check,
-    'intention-raised': Heart,
-    'intention-closed': Sparkles,
-    thanksgiving: Flame,
-    'day-offered': Sunrise,
-    confession: Key,
-  }
-  const Icon = icons[kind]
-  const fill = kind === 'intention-closed' ? color : undefined
-  return <Icon size={14} color={color} fill={fill} />
-}
-
-function getEntryBody(entry: MemoriaEntry, t: ReturnType<typeof useTranslation>['t']): string {
-  switch (entry.kind) {
-    case 'completion':
-      return t('memoria.completion', {
-        name: getPracticeDisplayName(entry.completion.practice_id),
-      })
-    case 'intention-raised':
-      return t('memoria.intentionOffered', { text: entry.movement.text })
-    case 'intention-closed':
-      return t('memoria.intentionAnswered', { text: entry.movement.text })
-    case 'thanksgiving':
-      return t('memoria.gratitude', { text: entry.movement.text })
-    case 'day-offered':
-      return t('memoria.dayOffered')
-    case 'confession':
-      return t('memoria.confession')
-  }
-}
-
-function getPracticeDisplayName(practiceId: string): string {
-  const manifest = getManifest(practiceId)
-  return manifest ? localizeContent(manifest.name) : practiceId
 }

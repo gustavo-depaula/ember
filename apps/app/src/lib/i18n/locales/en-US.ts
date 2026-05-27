@@ -27,6 +27,11 @@ export default {
     custody: 'Custody',
     custodyHint: 'Commitments & guardrails',
     settingsHint: 'Preferences, theme & language',
+    carrying: 'Carrying',
+    chronicle: 'Chronicle',
+    chronicleSeeAll: 'See all',
+    commitmentsActive_one: '{{count}} active commitment',
+    commitmentsActive_other: '{{count}} active commitments',
   },
   search: {
     sectionPray: 'Pray',

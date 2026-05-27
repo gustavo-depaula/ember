@@ -8,11 +8,13 @@ export function ShortcutRow({
   leading,
   title,
   tagline,
+  trailing,
   onPress,
 }: {
   leading: ReactNode
   title: string
   tagline: string
+  trailing?: ReactNode
   onPress: () => void
 }) {
   const theme = useTheme()
@@ -45,6 +47,7 @@ export function ShortcutRow({
               {tagline}
             </Text>
           </YStack>
+          {trailing}
           <ChevronRight size={16} color={theme.accent?.val} />
         </XStack>
       </AnimatedPressable>

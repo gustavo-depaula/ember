@@ -27,6 +27,11 @@ export default {
     custody: 'Custódia',
     custodyHint: 'Compromissos e proteções',
     settingsHint: 'Preferências, tema e idioma',
+    carrying: 'O que você carrega',
+    chronicle: 'Crônica',
+    chronicleSeeAll: 'Ver tudo',
+    commitmentsActive_one: '{{count}} compromisso ativo',
+    commitmentsActive_other: '{{count}} compromissos ativos',
   },
   search: {
     sectionPray: 'Rezar',

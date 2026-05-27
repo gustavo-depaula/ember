@@ -7,11 +7,8 @@ import {
   CircleDot,
   Compass,
   Flame,
-  Heart,
-  HeartHandshake,
   Mic2,
   Music,
-  ScrollText,
   ShieldCheck,
   Skull,
   Sparkle,
@@ -103,33 +100,6 @@ export default function SearchScreen() {
                 title={t('memento.title')}
                 tagline={t('memento.subtitle')}
                 onPress={() => router.push('/memento')}
-              />
-            </Section>
-
-            <Section title={t('search.sectionCapture')}>
-              <ShortcutRow
-                leading={ic(Heart)}
-                title={t('intentions.title')}
-                tagline={t('you.intentionsHint')}
-                onPress={() => router.push('/intentions')}
-              />
-              <ShortcutRow
-                leading={ic(Sparkle)}
-                title={t('gratias.title')}
-                tagline={t('you.gratiasHint')}
-                onPress={() => router.push('/gratias')}
-              />
-              <ShortcutRow
-                leading={ic(ScrollText)}
-                title={t('memoria.title')}
-                tagline={t('you.journalHint')}
-                onPress={() => router.push('/memoria')}
-              />
-              <ShortcutRow
-                leading={ic(HeartHandshake)}
-                title={t('confessio.title')}
-                tagline={t('confessio.subtitle')}
-                onPress={() => router.push('/confessio')}
               />
             </Section>
 
