@@ -1,43 +1,53 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static parsed markdown nodes never reorder
 import type { BilingualText } from '@ember/content-engine'
 import { Fragment } from 'react'
-import { Text as RNText } from 'react-native'
+import { Text as RNText, type TextStyle } from 'react-native'
 import { Text, YStack } from 'tamagui'
 import { bodyFont } from '@/config/fonts'
+import { useReadingStyle } from '@/hooks/useReadingStyle'
+import { Typography } from '../typography'
 import { ImageBlock } from './ImageBlock'
 import type { InlineNode } from './parseMarkdown'
 import { parseMarkdown } from './parseMarkdown'
 
 export { parseMarkdown }
 
-// React Native's Text ignores inherited fontWeight/fontStyle when setting fontFamily,
-// so nested <Text fontWeight="700"> inside Tamagui Text doesn't swap the font face.
-// Resolve the concrete RN font family directly from the font's face map.
-function bodyFace(weight: 400 | 700, italic: boolean): string {
-  const variants = bodyFont.face?.[weight]
-  return (italic ? variants?.italic : variants?.normal) ?? bodyFont.family
+// React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
+// set, so nested emphasis must resolve a concrete face. EB Garamond ships
+// bold/italic faces; the other reading fonts load only Regular, so fall back to
+// synthetic weight/style on the base family.
+function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
+  if (baseFamily.startsWith('EBGaramond')) {
+    const variants = bodyFont.face?.[weight]
+    return { fontFamily: (italic ? variants?.italic : variants?.normal) ?? baseFamily }
+  }
+  return {
+    fontFamily: baseFamily,
+    ...(weight === 700 ? { fontWeight: '700' } : {}),
+    ...(italic ? { fontStyle: 'italic' } : {}),
+  }
 }
 
-function InlineText({ nodes }: { nodes: InlineNode[] }) {
+function InlineText({ nodes, baseFamily }: { nodes: InlineNode[]; baseFamily: string }) {
   return (
     <>
       {nodes.map((node, i) => {
         switch (node.type) {
           case 'bold':
             return (
-              <RNText key={i} style={{ fontFamily: bodyFace(700, false) }}>
+              <RNText key={i} style={emphasisStyle(baseFamily, 700, false)}>
                 {node.text}
               </RNText>
             )
           case 'italic':
             return (
-              <RNText key={i} style={{ fontFamily: bodyFace(400, true) }}>
+              <RNText key={i} style={emphasisStyle(baseFamily, 400, true)}>
                 {node.text}
               </RNText>
             )
           case 'bolditalic':
             return (
-              <RNText key={i} style={{ fontFamily: bodyFace(700, true) }}>
+              <RNText key={i} style={emphasisStyle(baseFamily, 700, true)}>
                 {node.text}
               </RNText>
             )
@@ -51,6 +61,9 @@ function InlineText({ nodes }: { nodes: InlineNode[] }) {
 
 export function ProseBlock({ text }: { text: BilingualText }) {
   const nodes = parseMarkdown(text.primary)
+  // Long-form prose (books, catechism) follows the reader's font/size/leading.
+  const reading = useReadingStyle()
+  const baseFamily = reading.fontFamily as unknown as string
 
   return (
     <YStack gap="$md">
@@ -59,15 +72,9 @@ export function ProseBlock({ text }: { text: BilingualText }) {
           case 'heading': {
             const fontSize = node.level === 1 ? '$5' : node.level === 2 ? '$4' : '$3'
             return (
-              <Text
-                key={i}
-                fontFamily="$heading"
-                fontSize={fontSize as '$3' | '$4' | '$5'}
-                color="$colorBurgundy"
-                letterSpacing={0.5}
-              >
+              <Typography variant="label" key={i} fontSize={fontSize as '$3' | '$4' | '$5'}>
                 {node.text}
-              </Text>
+              </Typography>
             )
           }
           case 'blockquote': {
@@ -98,14 +105,8 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                 gap="$sm"
               >
                 {paragraphs.map((para, pi) => (
-                  <Text
-                    key={pi}
-                    fontFamily="$body"
-                    fontSize="$3"
-                    fontStyle="italic"
-                    color="$colorSecondary"
-                  >
-                    <InlineText nodes={para} />
+                  <Text key={pi} {...reading} fontStyle="italic" color="$colorSecondary">
+                    <InlineText nodes={para} baseFamily={baseFamily} />
                   </Text>
                 ))}
               </YStack>
@@ -115,9 +116,9 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             return (
               <YStack key={i} gap="$xs" paddingLeft="$md">
                 {node.items.map((item, j) => (
-                  <Text key={j} fontFamily="$body" fontSize="$3" color="$color">
-                    {node.ordered ? `${j + 1}. ` : '\u2022 '}
-                    <InlineText nodes={item} />
+                  <Text key={j} {...reading} color="$color">
+                    {node.ordered ? `${j + 1}. ` : '• '}
+                    <InlineText nodes={item} baseFamily={baseFamily} />
                   </Text>
                 ))}
               </YStack>
@@ -126,8 +127,8 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             return <ImageBlock key={i} src={node.src} />
           default:
             return (
-              <Text key={i} fontFamily="$body" fontSize="$3" color="$color">
-                <InlineText nodes={node.children} />
+              <Text key={i} {...reading} color="$color">
+                <InlineText nodes={node.children} baseFamily={baseFamily} />
               </Text>
             )
         }

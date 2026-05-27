@@ -1,8 +1,9 @@
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, XStack } from 'tamagui'
+import { XStack } from 'tamagui'
 
+import { Typography } from '@/components'
 import { useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
 
@@ -59,15 +60,9 @@ export function Aspiratio({ date }: { date?: Date }) {
       accessibilityHint={t('a11y.nextAspiration')}
     >
       <XStack justifyContent="center" paddingVertical="$sm" paddingHorizontal="$lg">
-        <Text
-          fontFamily="$body"
-          fontSize="$2"
-          color="$colorSecondary"
-          textAlign="center"
-          opacity={0.75}
-        >
+        <Typography variant="whisper" fontSize="$2" textAlign="center" opacity={0.75}>
           {aspiration}
-        </Text>
+        </Typography>
       </XStack>
     </Pressable>
   )

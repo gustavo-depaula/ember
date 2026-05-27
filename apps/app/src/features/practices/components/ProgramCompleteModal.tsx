@@ -10,7 +10,13 @@ import Animated, {
 } from 'react-native-reanimated'
 import { Text, YStack } from 'tamagui'
 
-import { AnimatedPressable, ManuscriptFrame, OrnamentalRule, ScreenLayout } from '@/components'
+import {
+  AnimatedPressable,
+  ManuscriptFrame,
+  OrnamentalRule,
+  ScreenLayout,
+  Typography,
+} from '@/components'
 import { calmSpring } from '@/config/animation'
 import { successBuzz } from '@/lib/haptics'
 
@@ -62,15 +68,15 @@ export function ProgramCompleteModal({
             <ManuscriptFrame>
               <YStack alignItems="center" gap="$md" paddingVertical="$lg" paddingHorizontal="$md">
                 <ModalFadeIn index={1}>
-                  <Text fontFamily="$display" fontSize="$5" color="$accent" textAlign="center">
+                  <Typography variant="ceremonial" fontSize="$5" textAlign="center">
                     ✠
-                  </Text>
+                  </Typography>
                 </ModalFadeIn>
 
                 <ModalFadeIn index={2}>
-                  <Text fontFamily="$display" fontSize="$4" color="$accent" textAlign="center">
+                  <Typography variant="sacred-title" fontSize="$4" color="$accent">
                     {t('program.complete')}
-                  </Text>
+                  </Typography>
                 </ModalFadeIn>
 
                 <ModalFadeIn index={3}>
@@ -84,14 +90,9 @@ export function ProgramCompleteModal({
                 </ModalFadeIn>
 
                 <ModalFadeIn index={5}>
-                  <Text
-                    fontFamily="$script"
-                    fontSize="$3"
-                    color="$colorSecondary"
-                    textAlign="center"
-                  >
+                  <Typography variant="whisper" fontSize="$3" textAlign="center">
                     {t('program.completeCelebration')}
-                  </Text>
+                  </Typography>
                 </ModalFadeIn>
 
                 <ModalFadeIn index={6}>
@@ -113,9 +114,9 @@ export function ProgramCompleteModal({
                           paddingHorizontal="$lg"
                           alignItems="center"
                         >
-                          <Text fontFamily="$heading" fontSize="$3" color="white">
+                          <Typography fontSize="$3" fontWeight="500" color="white">
                             {t('program.restart')}
-                          </Text>
+                          </Typography>
                         </YStack>
                       </AnimatedPressable>
                     )}
@@ -126,9 +127,9 @@ export function ProgramCompleteModal({
                       accessibilityLabel={t('program.done')}
                     >
                       <YStack paddingVertical="$sm" paddingHorizontal="$lg" alignItems="center">
-                        <Text fontFamily="$heading" fontSize="$3" color="$accent">
+                        <Typography fontSize="$3" fontWeight="500" color="$accent">
                           {t('program.done')}
-                        </Text>
+                        </Typography>
                       </YStack>
                     </AnimatedPressable>
                   </YStack>

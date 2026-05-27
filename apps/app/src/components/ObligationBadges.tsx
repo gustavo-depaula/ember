@@ -14,6 +14,7 @@ import { lightTap } from '@/lib/haptics'
 import type { AbstinenceLevel } from '@/lib/liturgical'
 import { AnimatedPressable } from './AnimatedPressable'
 import { ManuscriptFrame } from './ManuscriptFrame'
+import { Typography } from './typography'
 
 type Badge = { key: string; label: string; note: string; explanation: string }
 
@@ -163,9 +164,9 @@ function ObligationModal({
               <ManuscriptFrame backgroundColor="$background">
                 <YStack alignItems="center" gap="$md" paddingVertical="$md" paddingHorizontal="$sm">
                   <ModalFadeIn index={0}>
-                    <Text fontFamily="$display" fontSize="$5" color="$accent" textAlign="center">
+                    <Typography variant="ceremonial" fontSize="$5" textAlign="center">
                       ✠
-                    </Text>
+                    </Typography>
                   </ModalFadeIn>
 
                   {badges.map((b, i) => (

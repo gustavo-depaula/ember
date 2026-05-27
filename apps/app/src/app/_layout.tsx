@@ -19,6 +19,10 @@ import {
   EBGaramond_700Bold,
   EBGaramond_700Bold_Italic,
 } from '@expo-google-fonts/eb-garamond'
+import {
+  IMFellEnglish_400Regular,
+  IMFellEnglish_400Regular_Italic,
+} from '@expo-google-fonts/im-fell-english'
 import { LibreBaskerville_400Regular } from '@expo-google-fonts/libre-baskerville'
 import { Lora_400Regular } from '@expo-google-fonts/lora'
 import { Merriweather_400Regular } from '@expo-google-fonts/merriweather'
@@ -122,7 +126,19 @@ export default function RootLayout() {
     LibreBaskerville_400Regular,
     SourceSerif4_400Regular,
     Merriweather_400Regular,
+    IMFellEnglish_400Regular,
+    IMFellEnglish_400Regular_Italic,
     UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
+    Junicode: require('../../assets/fonts/Junicode.ttf'),
+    Junicode_Italic: require('../../assets/fonts/Junicode-Italic.ttf'),
+    Junicode_Light: require('../../assets/fonts/Junicode-Light.ttf'),
+    Junicode_LightItalic: require('../../assets/fonts/Junicode-LightItalic.ttf'),
+    Junicode_Medium: require('../../assets/fonts/Junicode-Medium.ttf'),
+    Junicode_MediumItalic: require('../../assets/fonts/Junicode-MediumItalic.ttf'),
+    Junicode_SemiBold: require('../../assets/fonts/Junicode-SemiBold.ttf'),
+    Junicode_SemiBoldItalic: require('../../assets/fonts/Junicode-SemiBoldItalic.ttf'),
+    Junicode_Bold: require('../../assets/fonts/Junicode-Bold.ttf'),
+    Junicode_BoldItalic: require('../../assets/fonts/Junicode-BoldItalic.ttf'),
   })
 
   const { success: dbReady } = useDbInit()

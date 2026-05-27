@@ -6,6 +6,7 @@ import type { VersesPrimitive } from '@/content/primitives'
 import { PrayerText } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { ResponseMark } from './prayer/ResponseMark'
+import { Typography } from './typography'
 
 export function VersesBlock({ header, items, style = 'numbered', fallback }: VersesPrimitive) {
   const { t } = useTranslation()
@@ -53,7 +54,7 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
         <BilingualBlock
           content={header}
           renderText={(text) => (
-            <Text fontFamily="$body" fontSize="$2" color="$colorMutedBlue" fontWeight="500">
+            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontWeight="500">
               {text}
             </Text>
           )}
@@ -62,15 +63,9 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
       {items.map((item, i) => (
         <XStack key={`v-${i}`} gap="$sm" alignItems="flex-start">
           {item.num !== undefined && (
-            <Text
-              fontFamily="$body"
-              fontSize="$1"
-              color="$colorMutedBlue"
-              fontWeight="600"
-              width={36}
-            >
+            <Typography variant="verse-number" fontSize="$1" fontWeight="600" width={36}>
               {item.num}
-            </Text>
+            </Typography>
           )}
           <BilingualBlock
             content={item.text}

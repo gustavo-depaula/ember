@@ -6,7 +6,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, ScreenLayout, Typography } from '@/components'
 import { openExternalUrl } from '@/config/links'
 import { bareId } from '@/content/contentIndex'
 import type { CreatorChannel, CreatorChannelKind } from '@/content/manifestTypes'
@@ -153,8 +153,8 @@ export default function CreatorProfile() {
             )}
           </YStack>
 
-          <Text
-            fontFamily="$display"
+          <Typography
+            variant="sacred-title"
             fontSize="$5"
             color="$color"
             textAlign="center"
@@ -162,7 +162,7 @@ export default function CreatorProfile() {
             marginTop="$xs"
           >
             {name}
-          </Text>
+          </Typography>
 
           {manifest.byline && (
             <Text

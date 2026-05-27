@@ -6,6 +6,7 @@ import { Text, XStack, YStack } from 'tamagui'
 import { useProperForSlot } from '@/lib/mass-propers'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
+import { Typography } from '../typography'
 import { BilingualBlock } from './BilingualBlock'
 import { ResponseMark } from './ResponseMark'
 
@@ -175,9 +176,9 @@ export function ProperSlot({
           accessibilityLabel={t('common.retry')}
           hitSlop={8}
         >
-          <Text fontFamily="$heading" fontSize="$2" color="$accent">
+          <Typography fontSize="$2" fontWeight="500" color="$accent">
             {t('common.retry')}
-          </Text>
+          </Typography>
         </AnimatedPressable>
       </XStack>
     )
@@ -203,17 +204,7 @@ export function ProperSlot({
 
   return (
     <YStack gap="$sm">
-      {proper.citation && (
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color="$accent"
-          letterSpacing={1}
-          textTransform="uppercase"
-        >
-          {proper.citation}
-        </Text>
-      )}
+      {proper.citation && <Typography variant="reference">{proper.citation}</Typography>}
       <BilingualBlock
         content={proper.text}
         renderText={(t) => (

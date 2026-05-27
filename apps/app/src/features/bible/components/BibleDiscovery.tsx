@@ -13,7 +13,7 @@ export function BibleDiscovery() {
   return (
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg">
-        <PageHeader title={t('bible.discovery.title')} />
+        <PageHeader title={t('bible.discovery.title')} variant="sacred" />
         <GospelOfTheDay />
         <OpenBibleCard />
         <ThemedReadings />

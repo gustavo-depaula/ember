@@ -1,6 +1,6 @@
 import { createTamagui } from 'tamagui'
 
-import { bodyFont, displayFont, headingFont, scriptFont } from './fonts'
+import { bodyFont, displayFont, headingFont, scriptFont, titleFont } from './fonts'
 import { darkTheme, lightTheme, liturgicalSubThemes, liturgicalSubThemesDark } from './themes'
 import { tokens } from './tokens'
 
@@ -32,6 +32,7 @@ export const config = createTamagui({
   },
   fonts: {
     display: displayFont,
+    title: titleFont,
     heading: headingFont,
     body: bodyFont,
     script: scriptFont,

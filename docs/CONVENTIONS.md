@@ -84,6 +84,32 @@ export function PracticeList({ date }: { date: string }) {
 }
 ```
 
+## Typography — use the Ladder, never raw fonts
+
+- **Never set raw `fontFamily` / `fontSize` for text.** Reach for `<Typography variant="…">`
+  from `@/components` (the "Ladder of Reverence" — the whole ladder is one component, and
+  the `variant` is the rung). Setting fonts inline is how the old system drifted into one
+  font doing four jobs.
+- Pick the **`variant` by what the text is**, not how you want it to look. The only modifier
+  is `tone="muted"` (de-emphasize any variant); everything else (`fontSize`, `color`,
+  `textAlign`…) is a normal pass-through `Text` prop.
+
+| Text is… | `variant` | Rung |
+|----------|-----------|------|
+| Functional chrome (button, tab, setting, schedule, count, time, date) | `interface` (default; `tone="muted"` to mute) | 1 |
+| A utility screen title (Settings, Library) | `screen-title` (or `PageHeader`) | 1 |
+| A liturgical instruction ("All stand") | `rubric` | 2a |
+| A verse #, citation, caption, or devotional whisper | `verse-number` / `reference` / `caption` / `whisper` (`annotation` base) | 2b |
+| Long-form reading body | *(separate component: `PrayerText`)* | 3 |
+| Text to be prayed/recited | *(separate component: `PrayerLines`)* | 4 |
+| A section/structure label ("Psalmody", a feast banner) | `label` (`marker` for major divisions) | 5 |
+| The name of a sacred/content thing (feast, hour, book, creator) | `sacred-title` (or `PageHeader variant="sacred"`) | 6 |
+| A ceremonial flourish (✠, fleuron, illuminated initial) | `ceremonial` / `drop-cap` | 7 |
+
+- **Discipline:** default to the lowest adequate rung; **one rung-7 peak per screen**;
+  gold (`$accent`) = preciousness only, burgundy (`$colorBurgundy`) = sacred labels/rubrics
+  only, UI stays neutral. See `docs/design/design-system.md` § Typography for the full rationale.
+
 ## Ternaries
 
 - Single-level only in non-JSX code

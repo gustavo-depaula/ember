@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
-import { AnimatedCheckbox, PracticeIcon } from '@/components'
+import { AnimatedCheckbox, PracticeIcon, Typography } from '@/components'
 import { tierConfig } from '@/config/constants'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import type { BlockState } from '@/features/plan-of-life/timeBlocks'
@@ -62,9 +62,9 @@ export function TimeBlockSection({
           >
             {label}
           </Text>
-          <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
+          <Typography tone="muted" fontSize="$1">
             {completed}/{total}
-          </Text>
+          </Typography>
           {allDone && <Check size={14} color={theme.accent.val} />}
         </XStack>
       </Pressable>
@@ -91,9 +91,9 @@ export function TimeBlockSection({
             >
               {label}
             </Text>
-            <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
+            <Typography tone="muted" fontSize="$1">
               {completed}/{total}
-            </Text>
+            </Typography>
           </XStack>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" opacity={0.6}>
             {items.map((i) => i.name).join(' · ')}
@@ -128,9 +128,9 @@ export function TimeBlockSection({
             >
               {label}
             </Text>
-            <Text fontFamily="$script" fontSize="$1" color="$colorSecondary">
+            <Typography tone="muted" fontSize="$1">
               {completed}/{total}
-            </Text>
+            </Typography>
           </XStack>
         </YStack>
       </Pressable>

@@ -61,7 +61,7 @@ Inspired by Gothic architecture stained glass (Sainte-Chapelle), memento mori, c
 - **Burgundy** — hour titles in PrayerFlow, canticle/hymn titles, HeroCTA office label
 - **Muted blue** — psalm references, Bible references, CCC paragraph numbers
 - **Cloister green** — "Completed" state, "Done" badges, GreenWall full intensity
-- **Gold** — RubricLabel (italic, Missal-style), SectionDivider, active tab, primary buttons, HeroCTA border
+- **Gold** — SectionDivider, active tab, primary buttons, HeroCTA border (rubrics are **burgundy**, not gold — see the Ladder)
 - **Subtle gold** — ornamental rules, card top borders, ornamental separators
 
 ### Fidelity Wall (Multi-Hue Contribution Heatmap)
@@ -107,37 +107,79 @@ Light and dark modes use separate liturgical accent values — dark mode accents
 
 ---
 
-## Typography (4-tier font system)
+## Typography — the Ladder of Reverence
 
-### Font Families
+Type is a **sign system for use and reverence**, not decoration. A glance should tell
+the reader *how to use* a piece of text (pray it / read it / do it / tap it) before
+they read a word — the way a missal's red ink, versals, and inscriptional caps do.
 
-| Tier | Font | Tamagui Key | Role | Weight |
-|------|------|-------------|------|--------|
-| Display | UnifrakturMaguntia | `$display` | Decorative moments, major titles | 400 |
-| Heading | Cinzel | `$heading` | Section headers, rubric labels, tab labels | 400, 700 |
-| Body | EB Garamond | `$body` | Prayer text, readings, UI text | 400, 400i, 500, 600 |
-| Script | Pinyon Script | `$script` | Sublabels, date lines, blessings | 400 |
+The app is **all-serif by design.** A quiet sans (Alegreya Sans) was tried for the
+interface rung and rejected — it sucked the soul out, reading as generic-app chrome
+against the manuscript character. So chrome recedes via *size, weight, color, and case*,
+never by switching typeface. Four type families do everything: **EB Garamond** (reading,
+prayer, and quiet UI), **Cinzel** (labels), the **medievalist** face (sacred titles), and
+**UnifrakturMaguntia** blackletter (the rare ceremonial peak) — plus Pinyon Script kept
+as a single exception (the home date carousel only).
 
-### Where Each Font Appears
-- **UnifrakturMaguntia**: PrayerFlow hour title ("Morning Prayer"), HeroCTA office label, "Day complete" text
-- **Cinzel**: subheading labels ("Psalmody", "Hymn"), time block labels, tab labels, office hour card titles, "Begin" text
-- **Reading font** (user-configurable, default EB Garamond): PrayerText, psalm content, Bible readings, catechism text — all reading body copy. See `docs/features/features-overview.md` for reading config details
-- **EB Garamond**: UI text, practice names, settings, non-reading body copy
-- **Pinyon Script**: date display on home screen, "Lauds"/"Vespers"/"Compline" sublabels, "Your next practice", "Rest well. See you tomorrow."
+These map onto semantic **rungs**, ordered from quiet interface up to sacred peak. The
+whole ladder is **one component** — `Typography` (`apps/app/src/components/typography/`) —
+whose **`variant` prop is the rung**. Screens reach for `<Typography variant="…">`, never
+raw `fontFamily`/`fontSize`; that single, typed surface is what keeps the system from
+drifting. (The reading & prayer body, rungs 3–4, is the one carve-out: `PrayerText` /
+`PrayerLines` stay their own components because they consume the user's reading prefs via
+`useReadingStyle`, and a styled component can't call hooks.)
 
-### Scale
+| Rung | Register | Typeface → token | Color rule | `variant` |
+|------|----------|------------------|------------|-----------|
+| 1 | **Interface** — tabs, buttons, settings, toggles, schedules, counts/times/dates | EB Garamond (quiet) → `$body` | neutral (`$color`/`$colorSecondary`); **never** gold/burgundy | `interface` (default); utility screen hero → `screen-title` |
+| 2a | **Rubric** — liturgical instructions ("All stand") | EB Garamond italic → `$body` | **burgundy** (the missal's red ink) | `rubric` |
+| 2b | **Apparatus** — verse #, citations, captions, devotional whispers | small `$body` | **muted** (`$colorSecondary`); not red/gold | `annotation`, `reference`, `verse-number`, `caption`, `whisper` |
+| 3 | **Reading** — books, catechism, scripture body, articles | EB Garamond (user-configurable) → `$body` | ink (`$color`) | *(separate: `PrayerText`)* |
+| 4 | **Prayer** — prayers, psalms, antiphons | same reading serif, **line-set** + air + optional drop-cap | ink (`$color`) | *(separate: `PrayerLines`)* |
+| 5 | **Liturgical label** — section labels, hours, feast banners | Cinzel → `$heading` | burgundy, tracked caps | `label`; major division ("PSALMODY") → `marker` |
+| 6 | **Sacred title** — feast/season names, hour titles, sacred screen heroes, book titles, **sacred page-header titles** | medievalist → `$title` | burgundy/ink, mixed case | `sacred-title` |
+| 7 | **Ceremonial peak** (≤1/screen) — illuminated drop-cap, ✠/fleurons, Fraktur season hero | `$title` / UnifrakturMaguntia `$display` | gold = preciousness | `ceremonial` (✠/Fraktur), `drop-cap` |
 
-EB Garamond has a smaller x-height (~65-70%) than system fonts like SF Pro (~78-80%), so sizes are bumped to compensate for perceived size. Line height ratios target 1.4+ for comfortable serif reading.
+The one orthogonal modifier is **`tone`** (`default` | `muted`): it drops any variant's
+ink to `$colorSecondary` for de-emphasized chrome or muted labels, without a manual color.
+Every other style (`fontSize`, `color`, `textAlign`, `letterSpacing`…) is a pass-through
+`Text` prop — variants set sensible defaults that call sites override per context (a hero
+`sacred-title` at `$5`, the same in a list row at `$3`).
 
-| Element | Token | Size | Line Height | LH Ratio |
-|---------|-------|------|-------------|----------|
-| Display title (PrayerFlow) | display `$5` | 36px | 42px | 1.17 |
-| Screen title | display `$4` | 28px | 34px | 1.21 |
-| Section heading | heading `$4` | 22px | 29px | 1.32 |
-| Body text | body `$3` | 19px | 27px | 1.42 |
-| Prayer text | reading scale | 22px default | user-configurable | — |
-| Labels / secondary text | body `$2` | 16px | 23px | 1.44 |
-| Caption / metadata | body `$1` | 14px | 20px | 1.43 |
+Rungs **2 and 4 are treatments, not new fonts.** Reading is a *river* (paragraphs,
+measure, flow); prayer is *architecture* (sense-lines, air, a versal opening).
+
+**`$title` is wired to both Junicode and IM FELL English**, selected by
+`flags.sacredTitleFace` (`'junicode' | 'imfell'`) — both load every boot, so flipping
+the flag swaps the face on a real screen to compare, then keep one. The full Junicode
+family (Light→Bold + italics) ships as local OFL assets under `assets/fonts/`; IM FELL
+English is an `@expo-google-fonts/*` package.
+
+### Governing disciplines
+1. **Default to the lowest adequate rung** — ~90% of pixels are rungs 1–3.
+2. **One peak per screen** — at most one rung-7 element visible. `variant="drop-cap"` / `variant="ceremonial"` are opt-in, never auto-applied.
+3. **Color is a second reverence channel, rationed like ornament:** gold (`$accent`) = preciousness only; burgundy (`$colorBurgundy`) = sacred labels/rubrics only; UI stays neutral. *Exception:* tappable cross-reference links keep `$colorMutedBlue` as a link affordance.
+4. **Ornament marks beginnings and ends, never the middle.**
+5. **No font does two jobs** — reach for `<Typography variant="…">`, never raw `fontFamily`/`fontSize`.
+
+### Axis 2 — per-screen choreography
+The deeper into prayer, the higher the screen's center of gravity climbs the ladder and
+the more rung-1 chrome recedes:
+- **Home** — interface-dominant: quiet EB Garamond chrome, the one peak being the Fraktur season name + the Pinyon date carousel.
+- **Reader** (Bible/book) — reading-dominant: header selectors recede to quiet `variant="interface"`; verse numbers are muted, not gold; the column is capped to a comfortable measure (~34em) on wide screens.
+- **Prayer flow** — prayer-dominant: chrome nearly vanishes; `variant="sacred-title"` hour, `variant="label"` parts, burgundy `variant="rubric"`, line-set prayer text, and a single ✠/drop-cap peak.
+
+### Scale & leading
+EB Garamond has a smaller x-height (~65-70%) than a system sans, so reading sizes run
+generous to compensate for perceived size. **Reading leading is a ratio** (`leadingRatio`, default
+≈ 1.5) applied to the chosen font size — `lineHeight = round(fontSize × ratio)` — so it
+stays comfortable at every size instead of cramping at large sizes (the old absolute-px
+array hit ~1.1). `useReadingMaxWidth()` caps the reading column at ~34em on wide screens.
+
+The one sanctioned exception to the ladder: **Pinyon Script** survives only on the home
+day carousel (`DateScrubber`), where it's subtle. Every other former `$script` use was
+rehomed (counts → `variant="interface"`, whispers → `variant="whisper"`, blessings →
+`variant="sacred-title"`).
 
 ---
 
@@ -253,13 +295,13 @@ The prayer experience should feel like reading from a beautiful breviary:
 
 ```
 ┌─────────────────────────────┐
-│         ~flourish~          │  <- HeaderFlourish SVG
-│     Morning Prayer          │  <- UnifrakturMaguntia, burgundy
-│     Wednesday, March 25     │  <- Pinyon Script, secondary
+│            ✠                │  <- variant="ceremonial" (the one peak)
+│     Morning Prayer          │  <- variant="sacred-title" (medievalist), burgundy
+│     Wednesday, March 25     │  <- variant="interface" tone="muted" (rung 1 data)
 │                             │
 │  ——◆—— ✠ ——◆——             │  <- OrnamentalRule (SVG + cross)
 │                             │
-│  OPENING VERSE              │  <- Cinzel, gold, uppercase
+│  OPENING VERSE              │  <- variant="label" (Cinzel), burgundy
 │                             │
 │  O God, come to my          │
 │  assistance. O Lord, make   │  <- EB Garamond, generous line height

@@ -79,7 +79,9 @@ export default function BookReaderScreen() {
   const readerConfig = useMemo<ReaderConfig>(
     () => ({
       fontSizePx: readingScale.fontSize[fontSizeStep - 1],
-      lineHeightPx: readingScale.lineHeight[lineHeightStep - 1],
+      lineHeightPx: Math.round(
+        readingScale.fontSize[fontSizeStep - 1] * readingScale.leadingRatio[lineHeightStep - 1],
+      ),
       textAlign,
       margin,
     }),

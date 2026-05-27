@@ -5,7 +5,7 @@ import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useThemeName, View, YStack } from 'tamagui'
+import { useThemeName, View, YStack } from 'tamagui'
 
 import {
   FadeInView,
@@ -14,6 +14,7 @@ import {
   PageBreakOrnament,
   ScreenLayout,
   SectionDivider,
+  Typography,
 } from '@/components'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
@@ -207,16 +208,9 @@ export default function HomeScreen() {
                 accessibilityRole="link"
                 accessibilityLabel={t('a11y.viewPlanOfLife')}
               >
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$5"
-                  color="$color"
-                  textAlign="center"
-                  letterSpacing={3}
-                  textTransform="uppercase"
-                >
+                <Typography variant="marker" fontSize="$5">
                   {t('home.ruleOfLife')}
-                </Text>
+                </Typography>
               </Pressable>
               <View
                 width={120}
@@ -245,12 +239,12 @@ export default function HomeScreen() {
                 accessibilityLabel={t('home.emptyPlanAction')}
               >
                 <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
-                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
+                  <Typography tone="muted" fontSize="$2" textAlign="center">
                     {t('home.emptyPlan')}
-                  </Text>
-                  <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                  </Typography>
+                  <Typography fontSize="$2" fontWeight="500" color="$accent">
                     {t('home.emptyPlanAction')}
-                  </Text>
+                  </Typography>
                 </YStack>
               </Pressable>
             </FadeInView>
@@ -307,21 +301,21 @@ export default function HomeScreen() {
             <SectionDivider />
             <FadeInView index={activeBlocks.length + 3}>
               <YStack alignItems="center" gap="$sm">
-                <Text fontFamily="$heading" fontSize="$2" color="$accent">
+                <Typography variant="label" fontSize="$2">
                   {t('home.fidelity')}
-                </Text>
+                </Typography>
                 <GreenWall data={wallData} weeks={10} tiered />
                 {totalSlots > 0 && completedCount === totalSlots && (
-                  <Text fontFamily="$script" fontSize="$3" color="$accent" fontStyle="italic">
+                  <Typography variant="sacred-title" fontSize="$3" color="$accent">
                     Pax Christi.
-                  </Text>
+                  </Typography>
                 )}
-                <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                <Typography tone="muted" fontSize="$1">
                   {t('home.todayProgress', {
                     completed: completedCount,
                     total: totalSlots,
                   })}
-                </Text>
+                </Typography>
               </YStack>
             </FadeInView>
           </>

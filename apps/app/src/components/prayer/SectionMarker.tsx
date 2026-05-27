@@ -1,5 +1,6 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Text, useTheme, View, XStack, YStack } from 'tamagui'
+import { useTheme, View, XStack, YStack } from 'tamagui'
+import { Typography } from '../typography'
 import { useLiturgicalColor } from './LiturgicalColorContext'
 
 const COLOR_HEX: Record<string, string> = {
@@ -39,17 +40,9 @@ export function SectionMarker({ title, color }: { title: BilingualText; color?: 
     <YStack alignItems="center" gap="$xs" marginVertical="$lg">
       <XStack alignItems="center" gap="$sm" width="100%">
         <View flex={1} height={1} backgroundColor={ruleColor} opacity={ruleOpacity} />
-        <Text
-          fontFamily="$heading"
-          fontSize="$3"
-          color="$colorBurgundy"
-          letterSpacing={2}
-          textTransform="uppercase"
-          textAlign="center"
-          flexShrink={0}
-        >
+        <Typography variant="marker" flexShrink={0}>
           {title.primary}
-        </Text>
+        </Typography>
         <View flex={1} height={1} backgroundColor={ruleColor} opacity={ruleOpacity} />
       </XStack>
     </YStack>

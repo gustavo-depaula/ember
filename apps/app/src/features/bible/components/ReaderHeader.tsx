@@ -1,7 +1,9 @@
 import { ChevronDown } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack } from 'tamagui'
+import { useTheme, XStack } from 'tamagui'
+
+import { Typography } from '@/components'
 
 export function ReaderHeader({
   bookName,
@@ -26,9 +28,9 @@ export function ReaderHeader({
         accessibilityLabel={t('a11y.selectBook')}
       >
         <XStack alignItems="center" gap="$xs">
-          <Text fontFamily="$heading" fontSize="$5" color="$color" numberOfLines={1} flexShrink={1}>
+          <Typography fontSize="$5" fontWeight="500" numberOfLines={1} flexShrink={1}>
             {bookName}
-          </Text>
+          </Typography>
           <ChevronDown size={18} color={theme.color.val} />
         </XStack>
       </Pressable>
@@ -39,9 +41,9 @@ export function ReaderHeader({
         accessibilityRole="button"
         accessibilityLabel={t('a11y.selectChapter')}
       >
-        <Text fontFamily="$heading" fontSize="$5" color="$colorSecondary">
+        <Typography fontSize="$5" tone="muted">
           {chapter}
-        </Text>
+        </Typography>
       </Pressable>
     </XStack>
   )

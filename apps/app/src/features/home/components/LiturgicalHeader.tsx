@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
+import { Typography } from '@/components'
 import {
   getLiturgicalDayName,
   type LiturgicalCalendarForm,
@@ -56,15 +57,15 @@ export function LiturgicalHeader({
         <DateScrubber today={today} onSelectDate={onSelectDate} />
       </View>
 
-      <Text
-        fontFamily="$heading"
+      <Typography
+        variant="label"
+        tone="muted"
         fontSize="$3"
-        color="$color"
         textAlign="center"
         maxWidth={isDark ? '60%' : '45%'}
       >
         {prefix}
-      </Text>
+      </Typography>
 
       <Pressable
         onPress={() => router.push('/calendar')}
@@ -72,21 +73,15 @@ export function LiturgicalHeader({
         accessibilityLabel={t('a11y.viewCalendar')}
         hitSlop={8}
       >
+        {/* Sanctioned rung-7 peak: the Fraktur season hero, in the seasonal accent. */}
         <Text fontFamily="$display" fontSize={'$6' as any} color="$accent" paddingVertical="$sm">
           {seasonDisplay}
         </Text>
       </Pressable>
 
-      <Text
-        fontFamily="$body"
-        fontSize="$2"
-        color="$accent"
-        textAlign="center"
-        fontStyle="italic"
-        paddingHorizontal="$lg"
-      >
+      <Typography variant="whisper" fontSize="$2" textAlign="center" paddingHorizontal="$lg">
         {t(`home.seasonDescription.${season}`)}
-      </Text>
+      </Typography>
     </YStack>
   )
 }

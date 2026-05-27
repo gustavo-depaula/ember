@@ -12,7 +12,7 @@ import Animated, {
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
 const targets = [33, 50, 100, 150] as const
@@ -82,9 +82,14 @@ export default function KyrieScreen() {
         >
           <X size={22} color="rgba(245,240,224,0.5)" />
         </Pressable>
-        <Text fontFamily="$display" fontSize="$5" color="rgba(245,240,224,0.85)" letterSpacing={1}>
+        <Typography
+          variant="sacred-title"
+          fontSize="$5"
+          color="rgba(245,240,224,0.85)"
+          letterSpacing={1}
+        >
           {t('kyrie.title')}
-        </Text>
+        </Typography>
         <Pressable
           onPress={onReset}
           hitSlop={12}
@@ -118,15 +123,15 @@ export default function KyrieScreen() {
               alignItems="center"
               justifyContent="center"
             >
-              <Text
-                fontFamily="$display"
+              <Typography
+                variant="sacred-title"
                 // biome-ignore lint/suspicious/noExplicitAny: oversized display token not in the generated fontSize union
                 fontSize={'$7' as any}
                 color="rgba(245,240,224,0.95)"
                 letterSpacing={2}
               >
                 {count}
-              </Text>
+              </Typography>
               <Text
                 fontFamily="$body"
                 fontSize="$2"

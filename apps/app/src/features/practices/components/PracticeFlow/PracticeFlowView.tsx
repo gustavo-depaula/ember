@@ -11,6 +11,7 @@ import {
   PrimitiveBlock,
   ScreenLayout,
   Threshold,
+  Typography,
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import type { PracticeManifest } from '@/content/manifestTypes'
@@ -113,16 +114,16 @@ function PracticeReady({
               paddingHorizontal={readingMargin}
             >
               {manifest.theme !== 'office' && (
-                <Text fontFamily="$display" fontSize="$5" color="$accent">
+                <Typography variant="ceremonial" fontSize="$5">
                   ✠
-                </Text>
+                </Typography>
               )}
-              <Text fontFamily="$display" fontSize="$5" color="$colorBurgundy">
+              <Typography variant="sacred-title" fontSize="$5" color="$colorBurgundy">
                 {practiceName}
-              </Text>
-              <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary" letterSpacing={1}>
+              </Typography>
+              <Typography tone="muted" fontSize="$2" letterSpacing={1}>
                 {formattedDate}
-              </Text>
+              </Typography>
             </YStack>
 
             <YStack gap="$md">
@@ -153,9 +154,9 @@ function PracticeReady({
                     alignItems="center"
                     opacity={completion.isCompleting ? 0.6 : 1}
                   >
-                    <Text fontFamily="$heading" fontSize="$3" color="$background">
+                    <Typography fontSize="$3" fontWeight="500" color="$background">
                       {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                    </Text>
+                    </Typography>
                   </YStack>
                 </AnimatedPressable>
               </YStack>

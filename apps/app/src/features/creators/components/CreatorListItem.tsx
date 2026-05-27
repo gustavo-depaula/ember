@@ -11,7 +11,7 @@ import { ChevronRight, Mic2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import { bareId, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorRole } from '@/content/manifestTypes'
 import { getCreatorImage } from '@/db/repositories/creatorMeta'
@@ -90,9 +90,15 @@ export function CreatorListItem({ creatorId }: { creatorId: string }) {
           )}
         </YStack>
         <YStack flex={1} gap={2}>
-          <Text fontFamily="$display" fontSize="$3" color="$color" numberOfLines={1}>
+          <Typography
+            variant="sacred-title"
+            fontSize="$3"
+            color="$color"
+            numberOfLines={1}
+            textAlign="left"
+          >
             {name}
-          </Text>
+          </Typography>
           {roleLabel && (
             <Text
               fontFamily="$heading"

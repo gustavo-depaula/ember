@@ -1,5 +1,6 @@
 import type { BilingualText } from '@ember/content-engine'
-import { Text, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
+import { Typography } from '../typography'
 import { LiturgicalColorDot } from './LiturgicalColorDot'
 
 /**
@@ -24,27 +25,27 @@ export function CelebrationBanner({
     <YStack gap="$xxs" marginBottom="$sm">
       <XStack alignItems="center" gap="$sm">
         {color && <LiturgicalColorDot color={color} size={14} />}
-        <Text
-          fontFamily="$heading"
-          fontSize="$5"
+        <Typography
+          variant="sacred-title"
+          fontSize="$4"
           color="$colorBurgundy"
-          letterSpacing={0.3}
+          textAlign="left"
           flexShrink={1}
         >
           {title.primary}
-        </Text>
+        </Typography>
       </XStack>
       {subtitle && (
-        <Text
-          fontFamily="$heading"
+        <Typography
+          variant="label"
+          tone="muted"
           fontSize="$1"
-          color="$colorSecondary"
           letterSpacing={1}
           textTransform="uppercase"
           paddingLeft={color ? 22 : 0}
         >
           {subtitle}
-        </Text>
+        </Typography>
       )}
     </YStack>
   )

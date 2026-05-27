@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { ScrollView, useWindowDimensions } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout } from '@/components'
+import { AnimatedPressable, ScreenLayout, Typography } from '@/components'
 import { openExternalUrl, SUGGEST_CREATOR_URL } from '@/config/links'
 import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorLanguage } from '@/content/manifestTypes'
@@ -133,9 +133,9 @@ export default function CreatorsDirectory() {
       <YStack paddingVertical="$lg" gap="$xl">
         {/* Header */}
         <YStack gap="$xs">
-          <Text fontFamily="$display" fontSize="$5" color="$color">
+          <Typography variant="sacred-title" fontSize="$5" color="$color" textAlign="left">
             {t('creators.title')}
-          </Text>
+          </Typography>
           <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" lineHeight={22}>
             {t('creators.tagline')}
           </Text>
@@ -169,9 +169,9 @@ export default function CreatorsDirectory() {
           sections.map((section) => (
             <YStack key={section.lang} gap="$md">
               <XStack alignItems="baseline" justifyContent="space-between">
-                <Text fontFamily="$display" fontSize="$3" color="$color">
+                <Typography variant="sacred-title" fontSize="$3" color="$color" textAlign="left">
                   {t(SECTION_LABEL_KEY[section.lang])}
-                </Text>
+                </Typography>
                 <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
                   {section.rows.length}
                 </Text>

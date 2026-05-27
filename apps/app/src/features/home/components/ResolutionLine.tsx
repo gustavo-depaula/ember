@@ -1,8 +1,9 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 
+import { Typography } from '@/components'
 import { useActiveResolution } from '@/features/resolutions'
 import { lightTap } from '@/lib/haptics'
 
@@ -24,20 +25,18 @@ export function ResolutionLine() {
       hitSlop={8}
     >
       <YStack alignItems="center" gap="$xs" paddingHorizontal="$lg">
-        <Text
-          fontFamily="$body"
+        <Typography
+          variant="whisper"
           fontSize="$3"
-          color="$colorSecondary"
-          fontStyle="italic"
           textAlign="center"
           maxWidth={420}
           numberOfLines={3}
         >
           {resolution.text}
-        </Text>
-        <Text fontFamily="$script" fontSize="$1" color="$colorSecondary" textAlign="center">
+        </Typography>
+        <Typography variant="whisper" fontSize="$1" textAlign="center">
           — {t('home.resolutionAttribution')}
-        </Text>
+        </Typography>
       </YStack>
     </Pressable>
   )

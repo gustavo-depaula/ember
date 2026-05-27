@@ -2,7 +2,7 @@ import { ExternalLink } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import { openExternalUrl } from '@/config/links'
 import type { CreatorChannel } from '@/content/manifestTypes'
 import type { FeedItemRow } from '@/db/repositories/feedItems'
@@ -22,9 +22,9 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
     return (
       <YStack flex={1} backgroundColor="$background">
         <YStack padding="$lg" gap="$sm">
-          <Text fontFamily="$display" fontSize="$5" color="$color">
+          <Typography variant="sacred-title" fontSize="$5" color="$color" textAlign="left">
             {item.title}
-          </Text>
+          </Typography>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
             {date}
           </Text>
@@ -37,9 +37,9 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
   return (
     <ScrollView flex={1} backgroundColor="$background">
       <YStack padding="$lg" gap="$md">
-        <Text fontFamily="$display" fontSize="$5" color="$color">
+        <Typography variant="sacred-title" fontSize="$5" color="$color" textAlign="left">
           {item.title}
-        </Text>
+        </Typography>
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
           {date}
         </Text>

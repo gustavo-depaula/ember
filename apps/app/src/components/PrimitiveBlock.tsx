@@ -27,7 +27,7 @@ import { ProseBlock } from './prayer/ProseBlock'
 import { SectionHeading } from './prayer/SectionHeading'
 import { SectionMarker } from './prayer/SectionMarker'
 import { SelectBlock } from './prayer/SelectBlock'
-import { RubricLabel } from './RubricLabel'
+import { Typography } from './typography'
 import { VersesBlock } from './VersesBlock'
 
 type Props = {
@@ -68,7 +68,7 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       return <SectionHeading>{primitive.text.primary}</SectionHeading>
 
     case 'rubric':
-      return <RubricLabel>{primitive.text.primary}</RubricLabel>
+      return <Typography variant="rubric">{primitive.text.primary}</Typography>
 
     case 'divider':
       return (

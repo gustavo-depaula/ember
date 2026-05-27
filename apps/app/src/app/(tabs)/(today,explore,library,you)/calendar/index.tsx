@@ -3,7 +3,7 @@ import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider } from '@/components'
+import { AnimatedPressable, ScreenLayout, SectionDivider, Typography } from '@/components'
 import { useMonthCelebrationMap, useYearCalendar } from '@/features/calendar'
 import { CalendarGrid, DayDetail } from '@/features/calendar/components'
 import { useToday } from '@/hooks/useToday'
@@ -45,9 +45,9 @@ export default function CalendarScreen() {
   return (
     <ScreenLayout>
       <YStack gap="$md" paddingVertical="$lg">
-        <Text fontFamily="$display" fontSize="$5" color="$accent" textAlign="center">
+        <Typography variant="sacred-title" fontSize="$5" color="$accent" textAlign="center">
           {t('calendar.title')}
-        </Text>
+        </Typography>
 
         <XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$md">
           <AnimatedPressable

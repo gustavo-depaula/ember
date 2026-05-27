@@ -3,8 +3,9 @@ import { Check, Cloud } from 'lucide-react-native'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack } from 'tamagui'
+import { useTheme, XStack } from 'tamagui'
 
+import { Typography } from '@/components'
 import { computePlanCoverage } from '@/features/pinning/coverage'
 import { usePinnedItems } from '@/features/pinning/hooks'
 import { useAllSlots } from '@/features/plan-of-life'
@@ -50,9 +51,9 @@ export function OfflineCoverageLine() {
     >
       <XStack alignItems="center" justifyContent="center" gap="$xs" paddingVertical="$xs">
         <Icon size={12} color={theme.colorSecondary?.val} />
-        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" opacity={0.75}>
+        <Typography tone="muted" fontSize="$1" opacity={0.75}>
           {label}
-        </Text>
+        </Typography>
       </XStack>
     </Pressable>
   )

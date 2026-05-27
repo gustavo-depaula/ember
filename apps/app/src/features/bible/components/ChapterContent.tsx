@@ -1,7 +1,8 @@
 import { useTranslation } from 'react-i18next'
 import { Text, YStack } from 'tamagui'
 
-import { useReadingMargin, useReadingStyle } from '@/hooks/useReadingStyle'
+import { Typography } from '@/components'
+import { useReadingMargin, useReadingMaxWidth, useReadingStyle } from '@/hooks/useReadingStyle'
 import type { Verse } from '@/lib/content'
 
 export function ChapterContent({
@@ -18,18 +19,26 @@ export function ChapterContent({
   const { t } = useTranslation()
   const readingStyle = useReadingStyle()
   const readingMargin = useReadingMargin()
+  const maxWidth = useReadingMaxWidth()
 
   if (verses.length === 0) return undefined
 
   return (
-    <YStack gap="$xs" paddingVertical="$lg" paddingHorizontal={readingMargin}>
+    <YStack
+      gap="$xs"
+      paddingVertical="$lg"
+      paddingHorizontal={readingMargin}
+      width="100%"
+      maxWidth={maxWidth}
+      alignSelf="center"
+    >
       <YStack alignItems="center" gap="$md" paddingBottom="$md">
-        <Text fontFamily="$heading" fontSize="$5" color="$colorSecondary" textAlign="center">
+        <Typography variant="label" tone="muted" fontSize="$5" textAlign="center">
           {bookName}
-        </Text>
-        <Text fontFamily="$heading" fontSize="$4" color="$colorSecondary">
+        </Typography>
+        <Typography variant="label" tone="muted" fontSize="$4">
           {t('position.chapter', { n: chapter })}
-        </Text>
+        </Typography>
       </YStack>
 
       {fallback ? (
@@ -40,13 +49,9 @@ export function ChapterContent({
 
       {verses.map((v) => (
         <Text key={v.verse} color="$color" {...readingStyle}>
-          <Text
-            fontSize={Math.round(readingStyle.fontSize * 0.5)}
-            color="$accent"
-            fontFamily="$heading"
-          >
+          <Typography variant="verse-number" fontSize={Math.round(readingStyle.fontSize * 0.55)}>
             {v.verse}
-          </Text>
+          </Typography>
           {'  '}
           {v.text}
         </Text>

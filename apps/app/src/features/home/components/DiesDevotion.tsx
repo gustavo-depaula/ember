@@ -1,7 +1,9 @@
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
+
+import { Typography } from '@/components'
 
 const dayKeys = [
   'sunday',
@@ -28,35 +30,27 @@ export function DiesDevotion({ date }: { date: Date }) {
       hitSlop={6}
     >
       <YStack alignItems="center" gap="$sm" paddingHorizontal="$lg">
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color="$accent"
-          letterSpacing={2.5}
-          textTransform="uppercase"
-        >
+        <Typography variant="marker" fontSize="$1" letterSpacing={2.5}>
           {t('diesDomini.title')}
-        </Text>
-        <Text
-          fontFamily="$body"
-          fontSize="$3"
+        </Typography>
+        <Typography
+          variant="whisper"
           color="$color"
-          fontStyle="italic"
+          fontSize="$3"
           textAlign="center"
           maxWidth={420}
         >
           {line}
-        </Text>
-        <Text
-          fontFamily="$body"
+        </Typography>
+        <Typography
+          variant="whisper"
           fontSize="$2"
-          color="$colorSecondary"
           textAlign="center"
           maxWidth={520}
           numberOfLines={4}
         >
           {description}
-        </Text>
+        </Typography>
       </YStack>
     </Pressable>
   )

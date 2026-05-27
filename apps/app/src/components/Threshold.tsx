@@ -8,6 +8,7 @@ import Animated, {
 import { Text, YStack } from 'tamagui'
 
 import { ScreenLayout } from './ScreenLayout'
+import { Typography } from './typography'
 
 export function Threshold({ word, subtitle }: { word: string; subtitle?: string }) {
   const opacity = useSharedValue(0)
@@ -22,15 +23,9 @@ export function Threshold({ word, subtitle }: { word: string; subtitle?: string 
     <ScreenLayout>
       <YStack flex={1} alignItems="center" justifyContent="center" gap="$sm" padding="$xl">
         <Animated.View style={style}>
-          <Text
-            fontFamily="$script"
-            fontSize={'$5' as any}
-            color="$accent"
-            letterSpacing={2}
-            textAlign="center"
-          >
+          <Typography variant="sacred-title" fontSize="$5" color="$accent" letterSpacing={2}>
             {word}
-          </Text>
+          </Typography>
         </Animated.View>
         {subtitle && (
           <Animated.View style={style}>

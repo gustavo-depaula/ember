@@ -6,7 +6,7 @@ import { Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, CandleFlame } from '@/components'
+import { AnimatedPressable, CandleFlame, Typography } from '@/components'
 import { lightTap, successBuzz } from '@/lib/haptics'
 
 type Phase = 'setup' | 'running' | 'done'
@@ -85,9 +85,14 @@ export default function OratioScreen() {
         >
           <X size={22} color="rgba(245,240,224,0.5)" />
         </Pressable>
-        <Text fontFamily="$display" fontSize="$5" color="rgba(245,240,224,0.85)" letterSpacing={1}>
+        <Typography
+          variant="sacred-title"
+          fontSize="$5"
+          color="rgba(245,240,224,0.85)"
+          letterSpacing={1}
+        >
           {t('oratio.title')}
-        </Text>
+        </Typography>
         <YStack width={22} />
       </XStack>
 
@@ -96,14 +101,14 @@ export default function OratioScreen() {
 
         {phase === 'running' && (
           <YStack alignItems="center" gap="$sm">
-            <Text
-              fontFamily="$display"
+            <Typography
+              variant="sacred-title"
               fontSize="$5"
               color="rgba(245,240,224,0.92)"
               letterSpacing={2}
             >
               {formatRemaining(remaining)}
-            </Text>
+            </Typography>
             <Text
               fontFamily="$body"
               fontSize="$1"
@@ -119,15 +124,15 @@ export default function OratioScreen() {
 
         {phase === 'done' && (
           <YStack alignItems="center" gap="$sm">
-            <Text
-              fontFamily="$display"
+            <Typography
+              variant="sacred-title"
               // biome-ignore lint/suspicious/noExplicitAny: oversized display token not in the generated fontSize union
               fontSize={'$6' as any}
               color="rgba(245,240,224,0.9)"
               letterSpacing={2}
             >
               {t('oratio.amenHeading')}
-            </Text>
+            </Typography>
             <Text
               fontFamily="$body"
               fontSize="$2"

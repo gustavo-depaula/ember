@@ -20,7 +20,7 @@ export default function SaintsScreen() {
   return (
     <ScreenLayout scroll={false}>
       <YStack gap="$lg" flex={1} paddingVertical="$lg">
-        <PageHeader title={t('saints.title')} />
+        <PageHeader title={t('saints.title')} variant="sacred" />
 
         <SaintCardGrid onSelectSaint={handleSelectSaint} />
       </YStack>

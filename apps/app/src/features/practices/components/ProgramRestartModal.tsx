@@ -8,6 +8,7 @@ import {
   ManuscriptFrame,
   OrnamentalRule,
   ScreenLayout,
+  Typography,
 } from '@/components'
 
 export function ProgramRestartModal({
@@ -30,9 +31,9 @@ export function ProgramRestartModal({
           <ManuscriptFrame>
             <YStack alignItems="center" gap="$md" paddingVertical="$lg" paddingHorizontal="$md">
               <FadeInView index={1}>
-                <Text fontFamily="$display" fontSize="$4" color="$accent" textAlign="center">
+                <Typography variant="sacred-title" fontSize="$4" color="$accent" textAlign="center">
                   {t('program.restartModal.title')}
-                </Text>
+                </Typography>
               </FadeInView>
 
               <FadeInView index={2}>

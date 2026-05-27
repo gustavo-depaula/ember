@@ -69,6 +69,9 @@ importers:
       '@expo-google-fonts/eb-garamond':
         specifier: ^0.4.2
         version: 0.4.2
+      '@expo-google-fonts/im-fell-english':
+        specifier: ^0.4.0
+        version: 0.4.0
       '@expo-google-fonts/libre-baskerville':
         specifier: ^0.4.3
         version: 0.4.3
@@ -1174,6 +1177,9 @@ packages:
 
   '@expo-google-fonts/eb-garamond@0.4.2':
     resolution: {integrity: sha512-tkw/RNj3sLpOfasAYF1wrh8XnKspHXmoNf6StJ4LDvFlRpDCXXtG8sxkyjab1ncnlgK8iRUC8FugmYMr55YCHw==}
+
+  '@expo-google-fonts/im-fell-english@0.4.0':
+    resolution: {integrity: sha512-3T3k+eFGndWH7RfnKm0R+/AAcUIf1W0WEaPOzVZhffQvqYvz5RDuIxWXjIRXSzQMWk/Ak/Re7pLGXAFHfAxiKw==}
 
   '@expo-google-fonts/libre-baskerville@0.4.3':
     resolution: {integrity: sha512-EUd0gcmJ2C9ZzobNFe5ohFEOyfZFAy5rA8qluzl32VJCqdysRO1RjU2uxmK4g5EUxwCq4UHVHVzp3sPS7+Ubrw==}
@@ -6886,6 +6892,8 @@ snapshots:
   '@expo-google-fonts/crimson-pro@0.4.2': {}
 
   '@expo-google-fonts/eb-garamond@0.4.2': {}
+
+  '@expo-google-fonts/im-fell-english@0.4.0': {}
 
   '@expo-google-fonts/libre-baskerville@0.4.3': {}
 

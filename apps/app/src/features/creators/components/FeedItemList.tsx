@@ -15,7 +15,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import type { FeedItemRow } from '@/db/repositories/feedItems'
 import { usePinFeedItem, useUnpinFeedItem } from '@/features/creators/hooks'
 import { useCreatorsStore } from '@/stores/creatorsStore'
@@ -159,15 +159,16 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
                   >
                     {date}
                   </Text>
-                  <Text
-                    fontFamily="$display"
+                  <Typography
+                    variant="sacred-title"
                     fontSize="$3"
                     color="$color"
                     numberOfLines={2}
                     lineHeight={22}
+                    textAlign="left"
                   >
                     {item.title}
-                  </Text>
+                  </Typography>
                   {summaryText.length > 0 && (
                     <Text
                       fontFamily="$body"
