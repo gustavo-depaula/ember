@@ -201,7 +201,7 @@
 
 **The Seven Sorrows of the Blessed Virgin Mary,** September 15.
 
-> This is the second of the feasts celebrated to honor the sorrows of Our Blessed Mother, the first feast being on the Friday of Passion Week. The seven sorrows thus honoured are: Simeon's prophecy (Luke 2:15), the flight into Egypt, the three days' loss of the Child Jesus (Luke 2:42-46), the way to Calvary, the Crucifixion, the taking down of Our Lord's Body from the cross, and the burial of Our Blessed Lord.
+> This is the second of the feasts celebrated to honor the sorrows of Our Blessed Mother, the first feast being on the Friday of Passion Week. The seven sorrows thus honoured are: Simeon's prophecy (Luke 2:34-35), the flight into Egypt, the three days' loss of the Child Jesus (Luke 2:42-46), the way to Calvary, the Crucifixion, the taking down of Our Lord's Body from the cross, and the burial of Our Blessed Lord.
 
 
 **Feast of the Guardian Angels,** October 2.

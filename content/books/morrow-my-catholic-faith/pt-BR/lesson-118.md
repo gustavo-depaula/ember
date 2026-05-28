@@ -19,7 +19,7 @@
 
 2. A lei civil não reconhece como dias santos alguns dos dias santos de obrigação da Igreja; fábricas, escritórios, e escolas ficam abertos naqueles dias. Mas mesmo se católicos devem ir trabalhar em tais dias santos, devem ao menos tentar ouvir Missa. Numerosas igrejas celebram Missa numa hora cedo da manhã, como também à noite.
 
-> Pessoas não obrigadas a trabalhar nos dias santos de obrigação devem evitar fazê-lo. Mas aqueles que devem trabalhar precisam lembrar apenas as palavras de Nosso Senhor: "O Sábado foi feito para o homem, e não o homem para o Sábado. Portanto o Filho do Homem é Senhor mesmo do Sábado" (Mar. 3:4-5).
+> Pessoas não obrigadas a trabalhar nos dias santos de obrigação devem evitar fazê-lo. Mas aqueles que devem trabalhar precisam lembrar apenas as palavras de Nosso Senhor: "O Sábado foi feito para o homem, e não o homem para o Sábado. Portanto o Filho do Homem é Senhor mesmo do Sábado" (Mar. 2:27-28).
 
 
 **Quais são os dias santos de obrigação na Igreja Universal?**

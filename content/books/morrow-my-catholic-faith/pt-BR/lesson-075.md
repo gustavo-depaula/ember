@@ -66,7 +66,7 @@
 
 — Sim, todos os pecados, por maiores que sejam, podem ser perdoados, através dos méritos infinitos de Cristo, Que é Deus.
 
-> Ao pecador arrependido é dito na Escritura: "Se vossos pecados forem como escarlate, serão tornados brancos como a neve" (Is. 1:17).
+> Ao pecador arrependido é dito na Escritura: "Se vossos pecados forem como escarlate, serão tornados brancos como a neve" (Is. 1:18).
 
 1. Deus está sempre pronto a perdoar nossos pecados, não importa quão grandes ou quantos sejam, se estivermos verdadeiramente arrependidos deles. Nenhum pecado atual pode ser perdoado sem dor e arrependimento da parte do pecador.
 

@@ -59,7 +59,7 @@ These virtues render us capable of being good and doing good for the love and se
 
 4. Without faith, it is impossible to be saved.
 
-> We must not cease praying for an increase of faith, for it is necessary for salvation. "He that believeth not shall be condemned" (Matt. 16:16). "Without faith, it is impossible to please God" (Heb. 11:6).
+> We must not cease praying for an increase of faith, for it is necessary for salvation. "He that believeth not shall be condemned" (Mark 16:16). "Without faith, it is impossible to please God" (Heb. 11:6).
 
 5. Our faith must be firm and complete; that is, both certain and all-encompassing.
 

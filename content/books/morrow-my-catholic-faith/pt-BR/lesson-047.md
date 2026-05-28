@@ -124,7 +124,7 @@ d. Tinham poder de oferecer sacrifício, quando na Última Ceia, Cristo, após i
 
 ### 6. Perdão dos Pecados
 
-**Igreja Apostólica.** Os Apóstolos foram capacitados por nosso Salvador a perdoar pecados: "Àqueles cujos pecados perdoardes, ser-lhes-ão perdoados" (João 20:23). "Deus," diz São Paulo, "nos deu o ministério da reconciliação" (2 Cor. 7:10-11).
+**Igreja Apostólica.** Os Apóstolos foram capacitados por nosso Salvador a perdoar pecados: "Àqueles cujos pecados perdoardes, ser-lhes-ão perdoados" (João 20:23). "Deus," diz São Paulo, "nos deu o ministério da reconciliação" (2 Cor. 5:18).
 
 **Igreja Católica.** Os Bispos e Padres da Igreja Católica, como herdeiros das prerrogativas apostólicas, exercem o ministério da reconciliação e perdoam pecados em nome de Cristo.
 

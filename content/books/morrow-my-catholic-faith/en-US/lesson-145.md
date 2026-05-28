@@ -40,7 +40,7 @@ To receive the sacrament of Penance worthily, we must imitate the Prodigal Son;
 
 1. Before our examination of conscience we should ask God's help to know our sins and to confess them with sincere sorrow. Without His grace, we can neither know our sins nor feel sorrow for them.
 
-> "As I live, saith the Lord God, I desire not the death of the wicked, but that the wicked turn from his way and live" (Ex. 33:11).
+> "As I live, saith the Lord God, I desire not the death of the wicked, but that the wicked turn from his way and live" (Ezech. 33:11).
 
 2. The examination of conscience is important, for by it we learn to know ourselves, and so find means of improvement. How many men there are who know innumerable things about nature, science, literature, and law, and yet have never even peered into their own souls!
 

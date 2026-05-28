@@ -61,7 +61,7 @@
 
 Não é de admirar que procurando alívio, o homem frequentemente, contudo inconscientemente, busca motivos para não aceitar a Igreja que ordena a seus membros obedecer tais preceitos, aceitar tais doutrinas.
 
-> Quando Nosso Senhor primeiro anunciou a instituição da Santa Eucaristia, muitos dos discípulos disseram: "Duro é este discurso. Quem pode ouvi-lo?" (João 6:62) E não mais iam com Jesus.
+> Quando Nosso Senhor primeiro anunciou a instituição da Santa Eucaristia, muitos dos discípulos disseram: "Duro é este discurso. Quem pode ouvi-lo?" (João 6:61) E não mais iam com Jesus.
 
 2. Católicos devem acima de tudo tentar dar bom exemplo; nada é mais eficaz aos olhos de não-Católicos que as vidas exemplares levadas por bons Católicos.
 

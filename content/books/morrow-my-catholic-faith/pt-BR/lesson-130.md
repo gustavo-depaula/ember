@@ -47,7 +47,7 @@
 
 2. Os pagãos, com ideias pervertidas, ofereciam sacrifícios humanos a seus ídolos.
 
-> O Rei de Moab (4 Reis 5:27) ofereceu seu próprio filho como sacrifício, para obter ajuda contra os Israelitas. Como São Paulo diz, "O que os Gentios sacrificam, sacrificam aos demônios e não a Deus" (1 Cor. 10:20).
+> O Rei de Moab (4 Reis 3:27) ofereceu seu próprio filho como sacrifício, para obter ajuda contra os Israelitas. Como São Paulo diz, "O que os Gentios sacrificam, sacrificam aos demônios e não a Deus" (1 Cor. 10:20).
 
 ![](../images/lesson-130c.webp)
 

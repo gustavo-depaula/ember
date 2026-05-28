@@ -26,7 +26,7 @@
 
 — Por tomar o nome de Deus em vão entende-se que o nome de Deus ou o santo nome de Jesus Cristo é usado sem reverência: por exemplo, para expressar surpresa ou ira.
 
-> "E não seja usual em tua boca o nome de Deus, nem te mistures com os nomes dos santos, pois não escaparás livre deles" (Ecli. 25:10).
+> "E não seja usual em tua boca o nome de Deus, nem te mistures com os nomes dos santos, pois não escaparás livre deles" (Ecli. 23:10).
 
 1. Profanação é o uso de linguagem irreverente. Não devemos usar nomes sagrados em impaciência, brincadeira, mera surpresa, ou hábito, sem ideia de prestar honra a Deus. O hábito mostra falta de devida reverência.
 

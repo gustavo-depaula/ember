@@ -17,7 +17,7 @@
 
 2. We must endure with serenity all trials, not merely a part of them, in order to be truly patient.
 
-> For instance, some are patient with sickness, but keep lamenting their being a burden to others on its account. Some are patient with others, but have no patience with themselves: for example, they feel irritated if they fall back into old sins. Such persons are not truly patient and meek; they show traces of pride, believing themselves too good to relapse into old sins. "Through many tribulations, we must enter into the kingdom of God" (Acts 16:21).
+> For instance, some are patient with sickness, but keep lamenting their being a burden to others on its account. Some are patient with others, but have no patience with themselves: for example, they feel irritated if they fall back into old sins. Such persons are not truly patient and meek; they show traces of pride, believing themselves too good to relapse into old sins. "Through many tribulations, we must enter into the kingdom of God" (Acts 14:22).
 
 3. The patient and meek man shows no anger when wrong is done him. He is a peacemaker at heart. However, although we should forgive and forget wrongs for the sake of peace, we must not give in to sin just to avoid opposing others; this would be sinful. Let us keep the peace with all when there is no good reason to break it; this should be our policy.
 

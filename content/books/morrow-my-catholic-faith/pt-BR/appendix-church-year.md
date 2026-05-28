@@ -201,7 +201,7 @@
 
 **As Sete Dores da Santíssima Virgem Maria,** 15 de setembro.
 
-> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2:15), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2:42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz, e o sepultamento de Nosso Senhor.
+> Esta é a segunda das festas celebradas para honrar as dores de Nossa Santíssima Mãe, sendo a primeira festa na sexta-feira da Semana da Paixão. As sete dores assim honradas são: a profecia de Simeão (Lucas 2:34-35), a fuga para o Egito, os três dias de perda do Menino Jesus (Lucas 2:42-46), o caminho do Calvário, a Crucificação, a descida do Corpo de Nosso Senhor da cruz, e o sepultamento de Nosso Senhor.
 
 
 **Festa dos Santos Anjos da Guarda,** 2 de outubro.

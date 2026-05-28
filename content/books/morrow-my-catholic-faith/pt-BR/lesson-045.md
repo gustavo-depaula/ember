@@ -17,7 +17,7 @@
 
 2. Devemos suportar com serenidade todas as provações, não meramente uma parte delas, para ser verdadeiramente pacientes.
 
-> Por exemplo, alguns são pacientes com a doença, mas continuam lamentando seu ser um fardo para outros por causa dela. Alguns são pacientes com os outros, mas não têm paciência consigo mesmos: por exemplo, sentem-se irritados se recaem em pecados antigos. Tais pessoas não são verdadeiramente pacientes e mansas; mostram traços de orgulho, crendo-se boas demais para recair em pecados antigos. "Por muitas tribulações devemos entrar no reino de Deus" (Atos 16:21).
+> Por exemplo, alguns são pacientes com a doença, mas continuam lamentando seu ser um fardo para outros por causa dela. Alguns são pacientes com os outros, mas não têm paciência consigo mesmos: por exemplo, sentem-se irritados se recaem em pecados antigos. Tais pessoas não são verdadeiramente pacientes e mansas; mostram traços de orgulho, crendo-se boas demais para recair em pecados antigos. "Por muitas tribulações devemos entrar no reino de Deus" (Atos 14:22).
 
 3. O homem paciente e manso não mostra ira quando o mal lhe é feito. É um pacificador no coração. Contudo, embora devamos perdoar e esquecer ofensas por amor da paz, não devemos ceder ao pecado apenas para evitar opor-nos a outros; isto seria pecaminoso. Mantenhamos a paz com todos quando não há boa razão para rompê-la; esta deve ser nossa política.
 

@@ -19,7 +19,7 @@
 
 2. The civil law does not recognize as holydays some of the Church holydays of obligation; factories, offices, and schools keep open on those days. But even if Catholics must go to work on such holydays, they should at least try to hear Mass. Numerous churches celebrate Mass at an early hour in the morning, as also in the evening.
 
-> Persons not obliged to work on holydays of obligation should avoid doing so. But those who must work need remember only Our Lord's words: "The Sabbath was made for man, and not man for the Sabbath. Therefore the Son of Man is Lord even of the Sabbath" (Mark 3:4-5).
+> Persons not obliged to work on holydays of obligation should avoid doing so. But those who must work need remember only Our Lord's words: "The Sabbath was made for man, and not man for the Sabbath. Therefore the Son of Man is Lord even of the Sabbath" (Mark 2:27-28).
 
 
 **Which are the holydays of obligation in the Universal Church?**

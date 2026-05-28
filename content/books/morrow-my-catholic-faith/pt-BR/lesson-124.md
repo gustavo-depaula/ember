@@ -13,7 +13,7 @@
 
 1. O sacramento do Batismo foi instituído por Cristo em Seu próprio Batismo, e comandado em Sua Ascensão.
 
-> Ele disse aos Apóstolos: "Ide portanto e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28:19). Os Apóstolos obedeceram Seu comando no próprio dia de Pentecostes. Em resposta à pergunta das multidões, "Que faremos?" após o primeiro sermão de Pedro, Pedro disse, "Arrependei-vos, e seja batizado cada um de vós em nome de Jesus Cristo, para a remissão de vossos pecados" (Atos 2:58). Cerca de 3000 pessoas foram batizadas.
+> Ele disse aos Apóstolos: "Ide portanto e fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo" (Mat. 28:19). Os Apóstolos obedeceram Seu comando no próprio dia de Pentecostes. Em resposta à pergunta das multidões, "Que faremos?" após o primeiro sermão de Pedro, Pedro disse, "Arrependei-vos, e seja batizado cada um de vós em nome de Jesus Cristo, para a remissão de vossos pecados" (Atos 2:38). Cerca de 3000 pessoas foram batizadas.
 
 2. A matéria e forma do sacramento consistem na ablução com água juntamente com a pronunciação das palavras: "Eu te batizo em nome do Pai, e do Filho, e do Espírito Santo"
 

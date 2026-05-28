@@ -66,7 +66,7 @@
 
 — Yes, all sins, however great, can be forgiven, through the infinite merits of Christ, Who is God.
 
-> The repentant sinner is told in Scripture: "If your sins be as scarlet, they shall be made white as snow" (Is. 1:17).
+> The repentant sinner is told in Scripture: "If your sins be as scarlet, they shall be made white as snow" (Is. 1:18).
 
 1. God is always ready to forgive our sins, no matter how great or how many they are, if we are truly sorry for them. No actual sin can be forgiven without sorrow and repentance on the part of the sinner.
 

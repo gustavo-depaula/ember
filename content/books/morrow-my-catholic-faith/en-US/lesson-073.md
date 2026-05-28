@@ -61,7 +61,7 @@
 
 No wonder in looking for relief, man often, however unconsciously, seeks motives for not accepting the Church that commands its members to obey such precepts, to accept such doctrines.
 
-> When Our Lord first announced the institution of the Holy Eucharist, many of the disciples said, "This is a hard saying. Who can listen to it?" (John 6:62) And they no longer went with Jesus.
+> When Our Lord first announced the institution of the Holy Eucharist, many of the disciples said, "This is a hard saying. Who can listen to it?" (John 6:61) And they no longer went with Jesus.
 
 2. Catholics should above all try to give good example; nothing is more effective in the eyes of non-Catholics than the exemplary lives led by good Catholics.
 
