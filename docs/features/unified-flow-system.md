@@ -132,7 +132,7 @@ type RenderedSelect = {
 | `dayOfMonth` | string | `Date` | `"1"` - `"31"` |
 | `timeOfDay` | string | current time | `"morning"` / `"afternoon"` / `"evening"` / `"night"` |
 | `liturgicalCalendar` | string | user preference | `"of"` / `"ef"` |
-| `liturgicalSeason` | string | computed from date (EF calendar) | `"advent"` / `"christmas"` / `"epiphany"` / `"septuagesima"` / `"lent"` / `"easter"` / `"post-pentecost"` |
+| `liturgicalSeason` | string | computed from date (user's selected calendar form; defaults to OF) | `"advent"` / `"christmas"` / `"epiphany"` / `"septuagesima"` / `"lent"` / `"easter"` / `"ordinary"` / `"post-pentecost"` |
 | `programDay` | string | program state | `"0"` - `"N"` |
 | `numbering` | string | user preference | `"mt"` / `"lxx"` |
 | `hour` | string | current time | `"0"` - `"23"` |

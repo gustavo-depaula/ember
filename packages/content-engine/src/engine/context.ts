@@ -1,4 +1,4 @@
-import type { PsalmRef, ReadingReference } from '@ember/liturgical'
+import type { LiturgicalCalendarForm, PsalmRef, ReadingReference } from '@ember/liturgical'
 import { getLiturgicalSeason } from '@ember/liturgical'
 import { getDate, getDay } from 'date-fns'
 import type {
@@ -110,7 +110,7 @@ export type ResolutionLite = {
 export type FlowContext = {
   date: Date
   numbering?: string
-  liturgicalCalendar?: string
+  liturgicalCalendar?: LiturgicalCalendarForm
   trackDefs?: Record<string, LectioTrackDef>
   trackState?: Record<string, { current_index: number }>
   cycleData?: Record<string, CycleData>
@@ -150,7 +150,7 @@ export function getContextValue(context: FlowContext, key: string): string | und
       return `${m}-${d}`
     }
     case 'liturgicalSeason':
-      return getLiturgicalSeason(context.date, 'ef')
+      return getLiturgicalSeason(context.date, context.liturgicalCalendar)
     default:
       return undefined
   }
