@@ -30,7 +30,7 @@ Creio em Deus Pai Todo-Poderoso, Criador do céu e da terra; e em Jesus Cristo, 
 
 **O Confiteor**
 
-CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra e obra, por minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição e a remissão de todos os meus pecados. Amém.
+CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que pequei muitas vezes por pensamento, palavra e obra, por minha culpa, minha culpa, minha tão grande culpa. Portanto, rogo à bem-aventurada Virgem Maria, ao bem-aventurado São Miguel Arcanjo, ao bem-aventurado São João Batista, aos santos Apóstolos Pedro e Paulo, e a todos os Santos, que roguem ao Senhor nosso Deus por mim. Deus Todo-Poderoso tenha misericórdia de mim, perdoe os meus pecados e me conduza à vida eterna. Amém. O Senhor onipotente e misericordioso me conceda o perdão, a absolvição e a remissão de todos os meus pecados. Amém.
 
 
 **Ato de Fé**

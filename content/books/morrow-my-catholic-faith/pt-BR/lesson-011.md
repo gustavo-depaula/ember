@@ -62,6 +62,6 @@ Falamos de três "Pessoas" em Deus porque a cada uma pertence algo que não pode
 
 > Por nós Deus o Filho Se rebaixou, tomando a forma de servo, ..."feito obediente até a morte, e morte de cruz" (Fil. 2:8). Na Santa Comunhão, estamos unidos com Ele, pois Ele mesmo disse: "Quem come Minha carne e bebe Meu sangue, permanece em Mim e Eu nele" (João 6:57). Em retorno devemos ser "outros Cristos", e, como o Apóstolo exortou, "andar como também Ele andou".
 
-3. O Espírito Santo é Deus e a Terceira Pessoa da Santíssima Trindade. Ele Se manifesta em nós particularmente em nossa santificação. A palavra "Espírito" aplicada à Terceira Pessoa significa "Espírito".
+3. O Espírito Santo é Deus e a Terceira Pessoa da Santíssima Trindade. Ele Se manifesta em nós particularmente em nossa santificação. A palavra inglesa "Ghost", aplicada à Terceira Pessoa, significa "Espírito".
 
 > Em nosso Batismo Deus o Espírito Santo nos purifica de todo pecado e enche nossas almas com graça divina, de modo que nos tornamos verdadeiramente filhos de Deus, filhos e herdeiros, e co-herdeiros com Jesus Cristo. Pelo Batismo nos tornamos templos vivos do Espírito Santo: "Ou não sabeis que vossos membros são templo do Espírito Santo, que está em vós?" (1 Cor. 6:19). Em retorno por tais benefícios, devemos fazer nosso corpo instrumento para a glória de Deus, guardando-o de toda mancha de pecado, adornando-o com virtudes. "Glorificai a Deus e levai-O em vosso corpo" (1 Cor. 6:20). Guardemos nossas almas como santuário para o Espírito Santo, para que Deus Se alegre em habitar em nós.

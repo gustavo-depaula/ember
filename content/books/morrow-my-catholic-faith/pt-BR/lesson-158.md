@@ -4,7 +4,7 @@
 
 *1. As cerimônias para sepultamento incluem serviços na igreja. Variam das muito elaboradas às mais simples. Água benta e velas acesas expressam nosso desejo de ver o falecido limpo e admitido no reino da luz. Incenso simboliza nosso desejo de que orações ascendam a Deus.*
 
-*2. O corpo do católico falecido é levado em procissão ao cemitério. Num funeral, é errado rir ou conversar; devemos orar pelo repouso da alma partida. Um pequeno cartão de condolências anuncia uma boa oferta que se pode fazer a uma família enlutada: Santas Missas pelo falecido.*
+2. O corpo do católico falecido é levado em procissão ao cemitério. Num funeral, é errado rir ou conversar; devemos orar pelo repouso da alma partida. Um pequeno cartão de condolências anuncia uma boa oferta que se pode fazer a uma família enlutada: Santas Missas pelo falecido.
 
 
 **Como deve o corpo de uma pessoa morta ser preparado para sepultamento?**

@@ -62,7 +62,7 @@
 
 1. Um voto é feito somente a Deus, não a qualquer outra pessoa. O objeto do voto não deve ser uma mera bagatela, mas algo bom em si mesmo, e melhor que seu oposto. Um voto é a mais solene promessa que podemos fazer.
 
-> Um voto feito sob compulsão é inválido. Um voto de fazer algo que ofenderá a Deus não deve ser cumprido. Em geral, devemos consultar nosso confessor antes de fazer um voto. "É melhor não fazer voto, do que após o voto não cumprir as coisas prometidas" (Ecli. 5:4). Às vezes votos são acompanhados de certas condições. Por exemplo, em 1248, São Luís da França fez voto de liderar uma Cruzada se recuperasse de uma enfermidade severa. Em nossos dias, pessoas fazem voto de ir a peregrinações especificadas, para serem curadas de enfermidade, etc.
+> Um voto feito sob compulsão é inválido. Um voto de fazer algo que ofenderá a Deus não deve ser cumprido. Em geral, devemos consultar nosso confessor antes de fazer um voto. "É melhor não fazer voto, do que após o voto não cumprir as coisas prometidas" (Ecl. 5:4). Às vezes votos são acompanhados de certas condições. Por exemplo, em 1248, São Luís da França fez voto de liderar uma Cruzada se recuperasse de uma enfermidade severa. Em nossos dias, pessoas fazem voto de ir a peregrinações especificadas, para serem curadas de enfermidade, etc.
 
 2. Não devemos confundir votos e juramentos com meras promessas ou resoluções. Estas últimas não obrigam sob pena de pecado.
 

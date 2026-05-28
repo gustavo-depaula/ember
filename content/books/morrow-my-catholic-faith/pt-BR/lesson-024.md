@@ -57,11 +57,11 @@
 
 1. São chamados pecados capitais, não porque são os maiores pecados em si, mas porque são as principais razões pelas quais os homens cometem pecado. São a origem de todo pecado, todos os outros pecados surgindo deles como de sua nascente.
 
-> Estes pecados são chamados mortais, porque são ou mortais de sua própria natureza, ou podem facilmente tornar-se mortais. Podem ser mortais ou veniais segundo a matéria seja séria ou menos séria.
+> Estes pecados são chamados mortíferos, porque são ou mortais de sua própria natureza, ou podem facilmente tornar-se mortais. Podem ser mortais ou veniais segundo a matéria seja séria ou menos séria.
 
 2. Estes pecados são chamados vícios, porque produzem desordens permanentes na alma. São as sete doenças fatais da alma, que terminam em morte.
 
-> Quem quiser ser amigo de Deus deve despojar-se destes vícios. Antes que possamos plantar o belo jardim das virtudes, devemos arrancar os espinhos e ervas daninhas que crescem destes pecados mortais.
+> Quem quiser ser amigo de Deus deve despojar-se destes vícios. Antes que possamos plantar o belo jardim das virtudes, devemos arrancar os espinhos e ervas daninhas que crescem destes pecados mortíferos.
 
 
 **Deus pune o pecado?**

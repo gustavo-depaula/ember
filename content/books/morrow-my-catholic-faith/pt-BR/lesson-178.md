@@ -31,7 +31,7 @@
 
 6. A Igreja, pelo uso de sacramentais, ensina aos fiéis as verdades da religião, além de excitar bons pensamentos e aumentar devoção. As verdades de nossa fé são ensinadas por sacramentais através da faculdade da visão, como explicações as ensinam através da audição. Assim, sacramentais são como livros de figuras que são usados como auxílios no ensino da religião.
 
-> Um, contudo, simples e iletrado que se ajoelha diante de um crucifixo e sabe sobre a morte de Nosso Senhor na cruz será melhor capaz de realizar Seu amor e sacrifício, que se o catequista meramente repetisse uma e outra vez que Jesus sofreu e morreu por nós.
+> Um, contudo, simples e iletrado que se ajoelha diante de um crucifixo e sabe sobre a morte de Nosso Senhor na cruz será melhor capaz de compreender Seu amor e sacrifício, que se o catequista meramente repetisse uma e outra vez que Jesus sofreu e morreu por nós.
 
 
 **Como os sacramentais obtêm favores de Deus?**

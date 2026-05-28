@@ -15,7 +15,7 @@
 
 > A Igreja comemora a entrada em Jerusalém no Domingo de Ramos. Naquele dia, palmas são abençoadas, e há uma procissão, em memória das palmas que o povo alegre acenou na entrada em Jerusalém de Nosso Senhor. O Domingo de Ramos é o domingo antes da Páscoa. A semana seguinte é chamada Semana Santa.
 
-2. Na quinta-feira após Sua entrada em Jerusalém, Jesus comeu a Ceia Pascal com Seus Apóstolos. Chamamo-la Última Ceia, pois foi a última refeição que comeu antes de Sua morte.
+2. Na quinta-feira à noite após Sua entrada em Jerusalém, Jesus comeu a Ceia Pascal com Seus Apóstolos. Chamamo-la Última Ceia, pois foi a última refeição que comeu antes de Sua morte.
 
 > Os judeus celebravam a festa da Páscoa em memória de sua libertação do Egito. Haviam sido salvos pelo sangue do cordeiro pascal.
 
