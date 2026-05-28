@@ -48,7 +48,7 @@ export function CollapsiblePrayer<T>({
       </Pressable>
       {expanded && (
         <YStack paddingLeft="$lg" gap="$sm">
-          {sections && renderSection ? (
+          {sections && sections.length > 0 && renderSection ? (
             sections.map((s, i) => renderSection(s, i))
           ) : (
             <BilingualBlock content={text} renderText={(t) => <PrayerLines text={t} />} />
