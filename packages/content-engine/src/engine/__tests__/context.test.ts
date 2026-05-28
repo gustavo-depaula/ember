@@ -62,31 +62,37 @@ describe('getContextValue', () => {
     )
   })
 
-  it('returns liturgicalSeason using EF calendar', () => {
-    // Advent
-    expect(getContextValue(makeContext({ date: new Date(2025, 11, 10) }), 'liturgicalSeason')).toBe(
-      'advent',
-    )
-    // Christmas
-    expect(getContextValue(makeContext({ date: new Date(2025, 11, 26) }), 'liturgicalSeason')).toBe(
-      'christmas',
-    )
-    // Lent
-    expect(getContextValue(makeContext({ date: new Date(2025, 2, 10) }), 'liturgicalSeason')).toBe(
-      'lent',
-    )
-    // Easter
-    expect(getContextValue(makeContext({ date: new Date(2025, 3, 20) }), 'liturgicalSeason')).toBe(
-      'easter',
-    )
-    // Post-Pentecost (summer/fall — no ambiguity with EF)
-    expect(getContextValue(makeContext({ date: new Date(2025, 6, 15) }), 'liturgicalSeason')).toBe(
-      'post-pentecost',
-    )
-    // Epiphany (pre-Lent — no ambiguity with EF)
-    expect(getContextValue(makeContext({ date: new Date(2025, 1, 15) }), 'liturgicalSeason')).toBe(
-      'epiphany',
-    )
+  it('resolves liturgicalSeason using the EF calendar when selected', () => {
+    const ef = (date: Date) =>
+      getContextValue(makeContext({ date, liturgicalCalendar: 'ef' }), 'liturgicalSeason')
+    expect(ef(new Date(2025, 11, 10))).toBe('advent')
+    expect(ef(new Date(2025, 11, 26))).toBe('christmas')
+    expect(ef(new Date(2025, 2, 10))).toBe('lent')
+    expect(ef(new Date(2025, 3, 20))).toBe('easter')
+    // Post-Pentecost (summer/fall — EF-only season)
+    expect(ef(new Date(2025, 6, 15))).toBe('post-pentecost')
+    // Epiphany (pre-Lent — EF-only season)
+    expect(ef(new Date(2025, 1, 15))).toBe('epiphany')
+  })
+
+  it('defaults liturgicalSeason to the OF calendar', () => {
+    // No liturgicalCalendar set → OF. Easter 2026 = Apr 5, Pentecost = May 24.
+    const of = (date: Date) => getContextValue(makeContext({ date }), 'liturgicalSeason')
+    // Pentecost Sunday: still Eastertide → Regina Caeli
+    expect(of(new Date(2026, 4, 24))).toBe('easter')
+    // Days after Pentecost: OF Eastertide has ended → Angelus
+    expect(of(new Date(2026, 4, 28))).toBe('ordinary')
+  })
+
+  it('extends EF Eastertide through the Pentecost octave', () => {
+    const ef = (date: Date) =>
+      getContextValue(makeContext({ date, liturgicalCalendar: 'ef' }), 'liturgicalSeason')
+    // Within the Pentecost octave the EF keeps Eastertide → Regina Caeli
+    expect(ef(new Date(2026, 4, 28))).toBe('easter')
+    // Saturday after Pentecost (octave day, Easter + 55) is still Eastertide
+    expect(ef(new Date(2026, 4, 30))).toBe('easter')
+    // Trinity Sunday — octave over → post-pentecost
+    expect(ef(new Date(2026, 4, 31))).toBe('post-pentecost')
   })
 
   it('returns undefined for unknown keys', () => {

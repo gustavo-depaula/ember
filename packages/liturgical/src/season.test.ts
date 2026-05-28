@@ -33,6 +33,19 @@ describe('getLiturgicalSeason', () => {
   it('returns ordinary time between Baptism and Ash Wednesday', () => {
     expect(getLiturgicalSeason(new Date(2025, 1, 15))).toBe('ordinary')
   })
+
+  // Eastertide ends at different points in each form. Easter 2026 = Apr 5,
+  // Pentecost Sunday = May 24 (Easter + 49), Saturday after = May 30 (Easter + 55).
+  it('ends OF Eastertide at Pentecost Sunday', () => {
+    expect(getLiturgicalSeason(new Date(2026, 4, 24), 'of')).toBe('easter')
+    expect(getLiturgicalSeason(new Date(2026, 4, 25), 'of')).toBe('ordinary')
+  })
+
+  it('extends EF Eastertide through the Pentecost octave', () => {
+    expect(getLiturgicalSeason(new Date(2026, 4, 24), 'ef')).toBe('easter')
+    expect(getLiturgicalSeason(new Date(2026, 4, 30), 'ef')).toBe('easter')
+    expect(getLiturgicalSeason(new Date(2026, 4, 31), 'ef')).toBe('post-pentecost')
+  })
 })
 
 describe('getLiturgicalColor', () => {
