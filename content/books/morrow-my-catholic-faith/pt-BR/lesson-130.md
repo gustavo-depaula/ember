@@ -51,7 +51,7 @@
 
 ![](../images/lesson-130c.webp)
 
-*Deus deu a Moisés instruções detalhadas sobre ofertas sacrificiais (Lev. 1-7; 16; 22). Entre os Judeus, o sumo-sacerdote, em nome do povo, oferecia de manhã e à tarde um sacrifício não-sangrento de incenso, farinha, óleo, e incenso. Então oferecia um sacrifício sangrento de um cordeiro, juntamente com comida e bebida. No Sábado, dois cordeiros, com pão e vinho, eram oferecidos além disto como sacrifício.*
+*Deus deu a Moisés instruções detalhadas sobre ofertas sacrificiais (Lev. 1-7; 16; 22). Entre os Judeus, o sumo-sacerdote, em nome do povo, oferecia de manhã e à tarde um sacrifício não-sangrento de incenso, farinha, óleo, e olíbano. Então oferecia um sacrifício sangrento de um cordeiro, juntamente com comida e bebida. No Sábado, dois cordeiros, com pão e vinho, eram oferecidos além disto como sacrifício.*
 
 *Em certas festas solenes, os Judeus sacrificavam centenas de vítimas em meio a cerimônias impressionantes. Suas festas principais eram: (a) a Páscoa ou Passagem, que comemorava sua libertação do Egito; (b) o Pentecostes, em lembrança da Lei recebida no Monte Sinai; (c) os Tabernáculos, para comemorar suas peregrinações no deserto; e (d) a Expiação ou Propiciação, na qual o padre sacrificava por seus próprios pecados e os do povo. Estes sacrifícios tipificavam o sacrifício de Cristo.*
 

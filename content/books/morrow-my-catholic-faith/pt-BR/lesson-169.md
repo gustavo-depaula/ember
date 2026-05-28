@@ -30,7 +30,7 @@
 
 > Se jovens lembrarem que casamento é para a vida, exercerão maior prudência no namoro. Com aquela prudência, pela graça de Deus, um homem pode certamente encontrar uma parceira da qual pode ser dito: "Ela é uma ajuda semelhante a si mesmo e um pilar de descanso" (Eclo. 36:26).
 
-2. Pode-se melhor julgar o caráter e virtudes de um futuro esposo na igreja e em casa que no piso de salões de baile. O conselho, "Escolhei vosso parceiro no coroamento da comunhão" é muito sadio.
+2. Pode-se melhor julgar o caráter e virtudes de um futuro esposo na igreja e em casa que no piso de salões de baile. O conselho, "Escolhei vosso parceiro na grade da comunhão" é muito sadio.
 
 > Uma realizada moça estava noiva para casar com um proeminente jovem. No dia antes do casamento, uma festa foi dada na casa da moça. A conversa voltou-se para religião; o jovem falou com aberto desprezo de todas as crenças, vangloriando-se de ser uma pessoa de "mente aberta" do século 20 e livre de todas "noções medievais" e cerimoniais "inventados por padres".
 

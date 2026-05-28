@@ -4,7 +4,7 @@
 
 *1. Toda família católica deve ter a Sagrada Família de Nazaré, Jesus, Maria, e José, como seu modelo, e viver em santidade e amor mútuo.*
 
-*2. Toda família deve preservar o costume de ter orações em família em alguma hora da manhã ou tarde, orando como um, numa unidade de culto.*
+2. Toda família deve preservar o costume de ter orações em família em alguma hora da manhã ou tarde, orando como um, numa unidade de culto.
 
 
 **Qual é o principal dever de marido e mulher no estado matrimonial?**

@@ -26,7 +26,7 @@
 
 — Os condenados no inferno sofrerão a dor da perda e a dor dos sentidos.
 
-> Mas ninguém pode jamais descrever ou compreender adequadamente os tormentos do inferno, assim como ninguém pode realizar a bem-aventurança do céu.
+> Mas ninguém pode jamais descrever ou compreender adequadamente os tormentos do inferno, assim como ninguém pode conceber a bem-aventurança do céu.
 
 1. A dor da perda. Os ímpios no inferno sabem o que rejeitaram e perderam: Deus. Esta dor será o maior tormento do inferno, pois a alma humana é feita para Deus. (a) Sentem desespero, remorso, inveja, e desesperança, porque sabem que nunca podem obter a única coisa necessária para a felicidade: nunca podem ver Deus.
 

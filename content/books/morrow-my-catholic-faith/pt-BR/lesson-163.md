@@ -4,7 +4,7 @@
 
 *1. O casamento cristão une um homem e uma mulher para a vida. Cada casal deve imitar a paz e amor que reinaram no lar da Santíssima Virgem e São José, os modelos de esposos cristãos.*
 
-*2. Cristo elevou o casamento à dignidade de um sacramento. Foi nas bodas de Caná que operou Seu primeiro milagre, assim honrando a ocasião e proclamando a santidade do estado matrimonial.*
+2. Cristo elevou o casamento à dignidade de um sacramento. Foi nas bodas de Caná que operou Seu primeiro milagre, assim honrando a ocasião e proclamando a santidade do estado matrimonial.
 
 
 **O que é o sacramento do Matrimônio?**

@@ -4,7 +4,7 @@
 
 *Uma boa vida é usualmente uma garantia de uma morte feliz. Aquele que viveu todos os seus dias num esforço para agradar a Deus não é provável que se torne um pecador impenitente no último momento.*
 
-*2. Uma vida má é usualmente uma previsão de uma morte má. Um pecador endurecido recusa os Últimos Sacramentos. Oremos todos a Deus para nos livrar de uma morte má.*
+2. Uma vida má é usualmente uma previsão de uma morte má. Um pecador endurecido recusa os Últimos Sacramentos. Oremos todos a Deus para nos livrar de uma morte má.
 
 
 **Quais são os Últimos Sacramentos?**

@@ -329,3 +329,55 @@ appendix-church-year) — to the book-wide colon style `(Luc. 10:2)`,
 - lesson-073: image/heading order flipped to heading-first to match every other
   chapter (and the pt-BR).
 
+## Second review pass (full 195-chapter re-audit vs en-US)
+
+A second exhaustive per-chapter pass (16 parallel agents) confirmed the corpus is
+in good shape — the vast majority of chapters were clean. Residual objective
+defects fixed:
+
+- **False-cognate "realize"** (= compreender/conceber, not *realizar*): lesson-082
+  ("conceber a bem-aventurança"), lesson-178 ("compreender Seu amor"). The earlier
+  pass had caught the same verb elsewhere (lesson-146 → "perceber").
+- **"communion rail" residual**: lesson-169 "coroamento da comunhão"→"grade da
+  comunhão" — the same mistranslation the first pass fixed in lesson-142, missed here.
+- **English-only gloss made tautological**: lesson-011 `A palavra "Espírito"…
+  significa "Espírito"` → `A palavra inglesa "Ghost"… significa "Espírito"` (the
+  source explains the *Ghost* vs *Spirit* English doublet, meaningless once both
+  become "Espírito").
+- **False etymology**: lesson-031 `A palavra "Natal" vem de Cristo e Missa` →
+  scoped to the English word (`A palavra inglesa "Christmas" vem de "Christ"… e
+  "Mass"…`); "Natal" derives from Latin *natalis*, not "Cristo + Missa".
+- **"deadly" vs "mortal" conflation**: lesson-024 capital sins "termed deadly"
+  rendered "mortais" then said to be "mortais ou veniais" (contradiction). Since
+  "deadly" has no distinct Portuguese counterpart (English "deadly sins" = pt
+  "pecados capitais"), the blockquote was reframed to explain the *capitais*
+  naming — "São chamados capitais — do latim *caput*, 'cabeça' — porque são a
+  cabeça de que brotam os demais pecados" — keeping the mortal/venial
+  clarification; and "these deadly sins" (item 2) → "pecados capitais".
+- **"over" → "sobre"**: lesson-187 "sobre 500"/"Sobre 900.000" → "mais de".
+- **Dropped words**: lesson-034 "à noite" (Thursday *evening*); lesson-141
+  "saber o *quê* e Quem vai receber".
+- **Wrong Bible book**: lesson-099 `(Ecli. 5:4)` (Eclesiástico) → `(Ecl. 5:4)`
+  (Eclesiastes, per en-US). NB: `Ecli.`/`Eclo.` for Eclesiástico are correct
+  elsewhere (lesson-023/076/185).
+- **Duplicate in list**: lesson-130 "incenso, farinha, óleo, e incenso" → last
+  item is *frankincense* = "olíbano".
+- **Confiteor**: appendix-prayers restored the middle beat — "por minha culpa,
+  minha culpa, minha tão grande culpa" (triple *mea culpa*).
+- **Stray italics** on the second intro caption line (`*2. …*` should be plain,
+  matching en-US): lesson-105, lesson-157, lesson-158, lesson-163, lesson-164.
+
+### Deliberately NOT changed
+- **"Resumi brevemente"** (lesson-058) is the archaic *vós* imperative
+  ("Summarize ye…"), consistent with the book's register (*Escolhei, Levantai-vos,
+  Sede*) — not a 1st-person past tense.
+- **`A.C.` → `a.C.`** (BC) appears book-wide (lesson-031, lesson-091, …); left as a
+  systematic capitalization decision rather than a one-off edit.
+- Several Scripture refs where pt-BR silently **corrects** an en-US misprint were
+  left as-is (pt-BR is right): lesson-145 `Ez.`(not `Ex.`) 33:11, lesson-154 `Lucas`
+  (not John) 23:42-43, lesson-164 `Tob.`(not Job) 8:5, lesson-153/165 completed
+  `(2 Cor.)`/`(1 Cor.)`, lesson-088 `(1 João)`, lesson-124 inherited `Atos 2:58`.
+- Bible-abbreviation style (`Tia.` for Tiago, `Deut.` for Deuteronômio) and
+  fuller-than-source Scripture quotations (lesson-005, lesson-032) flagged for an
+  editorial convention decision, not auto-changed.
+

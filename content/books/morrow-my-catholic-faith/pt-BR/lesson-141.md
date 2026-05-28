@@ -38,7 +38,7 @@
 
 > O sétimo ano começa no sexto aniversário, quando a criança completa seis anos de vida. O pleno uso da razão não é requerido para a primeira Comunhão.
 
-3. A criança deve ser devidamente preparada para receber o sacramento. Não precisa saber o catecismo inteiro. É suficiente que tenha um conhecimento geral das verdades necessárias para a salvação e uma devoção adequada. Acima de tudo, deve saber o e Quem vai receber.
+3. A criança deve ser devidamente preparada para receber o sacramento. Não precisa saber o catecismo inteiro. É suficiente que tenha um conhecimento geral das verdades necessárias para a salvação e uma devoção adequada. Acima de tudo, deve saber o quê e Quem vai receber.
 
 > O Papa Pio X é chamado "o Papa das crianças" porque reviveu o costume dos primeiros cristãos de permitir às crianças receber a Santa Comunhão quando atingiam o uso da razão. Em alguns países a prática tinha sido introduzida de fazer as crianças esperar até que tivessem doze anos antes de lhes ser permitido receber a Santa Comunhão.
 

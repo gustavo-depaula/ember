@@ -4,7 +4,7 @@
 
 *1. Entre os deveres cívicos está o de votar. Todos a quem é concedido este direito devem exercê-lo. Não devem prostituir seu direito, mas usá-lo justamente para o bem de todos.*
 
-*2. É dever de cada cidadão ser leal a seu país, apoiar suas instituições, e respeitar suas leis e sua bandeira. Um bom católico é um bom cidadão.*
+2. É dever de cada cidadão ser leal a seu país, apoiar suas instituições, e respeitar suas leis e sua bandeira. Um bom católico é um bom cidadão.
 
 
 **Quais são os deveres de um cidadão para com seu país?**

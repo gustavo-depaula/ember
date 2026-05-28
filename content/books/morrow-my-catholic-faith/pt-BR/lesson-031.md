@@ -27,7 +27,7 @@
 
 5. A Igreja celebra a Natividade em 25 de dezembro. A festa é chamada Natal. Neste dia, todo padre tem o privilégio de dizer três Missas: uma em comemoração do nascimento eterno de Cristo de Deus o Pai; outra em lembrança de Seu nascimento temporal da Santíssima Virgem Maria; e uma terceira para recordar Seu nascimento espiritual nos corações dos fiéis.
 
-> A palavra "Natal" vem de Cristo e Missa. A festa é assim chamada porque naquele dia a Missa, comemorando o nascimento de Cristo é dita.
+> A palavra inglesa "Christmas" vem de "Christ" (Cristo) e "Mass" (Missa). A festa recebe em inglês esse nome porque nesse dia se diz a Missa que comemora o nascimento de Cristo.
 
 6. Um anjo apareceu aos pastores e lhes contou da Natividade. Uma estrela guiou três Magos (Sábios) a Belém.
 
