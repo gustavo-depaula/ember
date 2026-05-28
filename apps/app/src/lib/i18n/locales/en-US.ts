@@ -1074,6 +1074,14 @@ export default {
       fri: 'The Sacred Heart',
       sat: 'Our Lady',
     },
+    fromRome: 'From Rome',
+    rome: {
+      videos: 'Videos',
+      news: 'Vatican News',
+      holySee: 'The Holy See',
+      media: 'Vatican Media',
+      more: 'More from Vatican News',
+    },
     season: {
       advent: 'Advent',
       christmas: 'Christmastide',

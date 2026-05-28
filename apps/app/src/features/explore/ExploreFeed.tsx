@@ -17,6 +17,7 @@ import { artFor } from './artMap'
 import { toneByIndex, toneForCelebration, toneForSeason } from './bgColor'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
+import { FromRome } from './FromRome'
 import { pickFeatured, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
@@ -143,6 +144,9 @@ export function ExploreFeed() {
               subtitle={entry.author ? localizeContent(entry.author) : undefined}
               image={artFor(id)}
               tone={toneByIndex(i)}
+              size={118}
+              aspectRatio={1.5}
+              radius={4}
               onPress={() => goBook(id)}
             />
           ))}
@@ -184,6 +188,8 @@ export function ExploreFeed() {
           ))}
         </ArtCarousel>
       )}
+
+      <FromRome />
     </>
   )
 }

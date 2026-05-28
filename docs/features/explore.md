@@ -31,16 +31,27 @@ Top-to-bottom:
    tracked-caps label + manuscript headline + tap target; no border (flat, rounded).
    The Gospel block pulls today's Gospel from `useGospelOfTheDay` (the `mass-of` source) —
    citation as headline, text preview as subtitle — and links to the gospel practice.
-3. **The Library** — carousel of square cover cards → book reader.
+3. **The Library** — carousel of book-shaped cover cards (taller, squared corners) → book reader.
 4. **Voices** — carousel of square creator cards (reuses `CreatorGridCard`) → creator pages.
-5. **Collection rows** — Devotions + Schools & Traditions, as cover cards.
+5. **Collection rows** — Devotions + Schools & Traditions, as square cover cards.
+6. **From Rome** — Vatican News rendered **natively** (`FromRome`), not embedded. `vaticanContent.ts`
+   fetches the official widget fragment (`widget.{lang}.html`, CORS-open + cacheable) and parses
+   it with `htmlparser2` into videos / featured + news / Holy See acts / outlet tiles. Stacked
+   editorial sections in Ember's voice: videos play inline via the shared `YouTubePlayer`; links
+   open in an in-app bottom-sheet browser (native) / new tab (web). The `VaticanNews` embed
+   (WebView native / `<iframe srcDoc>` web, with shadow-DOM-aware link interception + auto-height)
+   remains as the **automatic fallback** when parsing returns nothing.
+
+Cover cards (`ArtCoverCard`) take real PD-Art paintings from `artMap`, falling back to an
+illuminated initial on a jewel-tone block. Books pass `aspectRatio`/`radius` for the book
+shape; collections stay square.
 
 **Weekday devotion (dies domini):** `pickFeatured.weekdayDevotion(date)` maps Mon→Holy Souls
 (`for-the-dead`), Thu→Blessed Sacrament (`eucharistic`), Fri→Sacred Heart (`sacred-heart`),
 Sat→Our Lady (`marian`); other days fall back to the seasonal block.
 
-(Future slots, not built: From Rome / Vatican News, new encyclicals, on-this-day history,
-personalization to the rule of life.)
+(Future slots, not built: new encyclicals, on-this-day history, personalization to the
+rule of life.)
 
 ## Daily-fresh logic
 
