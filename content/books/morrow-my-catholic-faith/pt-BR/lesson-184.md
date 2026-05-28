@@ -69,7 +69,7 @@
 
 — O *Angelus* é uma oração recitada manhã, meio-dia e tarde em honra a Maria e do mistério da Encarnação.
 
-1. Esta oração é chamada o *Angelus* porque sua primeira palavra em Latim é "*Angelus*," significando Anjo. Na estação da Páscoa, o *Regina Coeli* é substituído pelo *Angelus*; ambas as orações são ricamente indulgenciadas.
+1. Esta oração é chamada o *Angelus* porque sua primeira palavra em Latim é "*Angelus*," significando Anjo. Na estação da Páscoa, o *Regina Coeli* substitui o *Angelus*; ambas as orações são ricamente indulgenciadas.
 
 > O costume de tocar o sino para o *Angelus* data do décimo primeiro século, durante as Cruzadas, para advertir os fiéis a orar pela vitória dos cruzados.
 

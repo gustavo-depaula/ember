@@ -381,3 +381,37 @@ defects fixed:
   fuller-than-source Scripture quotations (lesson-005, lesson-032) flagged for an
   editorial convention decision, not auto-changed.
 
+## Third review pass (13 parallel agents, full 195-chapter re-audit vs en-US)
+
+Another exhaustive per-chapter pass. Corpus remains in excellent shape — ~180 of
+195 chapters fully clean. Residual objective defects fixed:
+
+- **Meaning reversals**: lesson-184 "o *Regina Coeli* é substituído pelo *Angelus*"
+  → "o *Regina Coeli* substitui o *Angelus*" (en-US: Regina Coeli replaces the
+  Angelus in Eastertide; pt-BR said the opposite). lesson-093 double-negative "A
+  Igreja omite nenhuma oportunidade" (reads "omits *some*") → "não perde nenhuma
+  oportunidade" (en-US "omits no opportunity").
+- **Word doubling**: lesson-013 "vazia e vazia" (×2) → "sem forma e vazia" (en-US
+  "void and empty"); lesson-116 "palhas de palha" (×2) → "palhas" (en-US "blades
+  of straw").
+- **Gender/agreement typos**: lesson-057 "um concordata"→"uma concordata";
+  lesson-063 "uma empreendimento"→"um empreendimento"; lesson-065 "civilizaram os
+  bárbaros"→"civilizou os bárbaros" (subject "A Igreja" is singular).
+- **Calque**: lesson-057 "Assume um novo nome sobre sua eleição" (upon)→"ao ser
+  eleito".
+- **Clitic hyphen**: lesson-097 "Lembremonos"→"Lembremo-nos".
+- **Wrong accent**: lesson-156 "Daquí" (×2)→"Daqui".
+- **Reduplication**: lesson-158 "A santa Santa Mônica"→"A piedosa Santa Mônica"
+  (en-US "the holy St. Monica").
+- **Stray italics** on the second intro caption line: lesson-149 (`*2. …*`→plain),
+  continuing the pattern fixed in the second pass (105/157/158/163/164).
+- **Salve Rainha punctuation**: appendix-prayers closing "…doce sempre Virgem
+  Maria." → "…!" (matches en-US and the standard liturgical form).
+
+### Deliberately NOT changed (third pass)
+- **lesson-174 "um virgem"** (×3, for Joseph/Christ/St. John) vs "uma virgem" for
+  Mary — the masculine form deliberately agrees with the male referent; kept.
+- Suspect Scripture refs that originate in en-US and are faithfully mirrored
+  (lesson-041 Matt. 16:16, 044 Matt. 8:11, 045 Acts 16:21, 075 Is. 1:17, 081
+  Matt. 25:41, 130 4 Kings 5:27) — not pt-BR defects.
+

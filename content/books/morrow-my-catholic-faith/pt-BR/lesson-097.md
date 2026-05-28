@@ -39,7 +39,7 @@ Nosso Senhor disse claramente, "Buscai primeiro o reino de Deus e sua justiça, 
 
 2. Quando tentados ao desespero, lembremo-nos de que Deus é infinitamente misericordioso, que Ele está mais próximo quando nossa necessidade d'Ele é maior, e que não há pecado que Ele não perdoará se formos a Ele com coração arrependido.
 
-> Para evitar o pecado, podemos meditar sobre a justiça de Deus e o temor de Deus; mas uma vez que caímos no pecado, meditemos sobre Sua infinita misericórdia. Lembremonos de que Deus é o Bom Pastor Que sai para buscar Sua ovelha que caiu entre os espinhos da vida. São João Crisóstomo diz, "Como uma faísca é para o oceano, assim é 'a maldade do homem comparada à misericórdia de Deus'."
+> Para evitar o pecado, podemos meditar sobre a justiça de Deus e o temor de Deus; mas uma vez que caímos no pecado, meditemos sobre Sua infinita misericórdia. Lembremo-nos de que Deus é o Bom Pastor Que sai para buscar Sua ovelha que caiu entre os espinhos da vida. São João Crisóstomo diz, "Como uma faísca é para o oceano, assim é 'a maldade do homem comparada à misericórdia de Deus'."
 
 
 **Quais são os principais pecados contra a caridade?**

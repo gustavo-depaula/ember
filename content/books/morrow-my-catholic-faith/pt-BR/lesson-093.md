@@ -75,6 +75,6 @@
 
 > Membros do mesmo corpo dão ajuda mútua uns aos outros; os santos ajudam-nos com suas orações diante de Deus. De nossa parte, honramos e imitamo-os.
 
-2. A Igreja omite nenhuma oportunidade de exortar-nos à veneração dos santos. No Batismo recebemos o nome de um santo. Cada dia do ano um ou mais santos são comemorados. Imagens e quadros dos santos são colocados nas igrejas. Santos são invocados na Missa, ladainhas, e outras orações públicas.
+2. A Igreja não perde nenhuma oportunidade de exortar-nos à veneração dos santos. No Batismo recebemos o nome de um santo. Cada dia do ano um ou mais santos são comemorados. Imagens e quadros dos santos são colocados nas igrejas. Santos são invocados na Missa, ladainhas, e outras orações públicas.
 
 > A Igreja adora a Deus, e honra os santos como amigos e servos de Deus. Assim igrejas e altares são dedicados e consagrados a Deus sozinho embora nomeados em honra dos santos e colocados sob sua proteção. O Santo Sacrifício da Missa é oferecido a Deus sozinho, embora possa ser celebrado em memória dos santos. Ao rezar, dizemos a Deus, "Tende misericórdia de nós", mas aos santos, "Rogai por nós", assim como o diríamos a um amigo querido.
