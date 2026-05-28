@@ -14,7 +14,7 @@ import { Image, type ImageSource } from 'expo-image'
 import * as WebBrowser from 'expo-web-browser'
 import { type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, ScrollView, useWindowDimensions } from 'react-native'
+import { Platform, useWindowDimensions } from 'react-native'
 import { useTheme, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
@@ -24,6 +24,7 @@ import { hearthUrl } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { ArtCoverCard } from './ArtCoverCard'
 import { type BlockTone, blockInk, toneByIndex } from './bgColor'
+import { CardRow } from './CardRow'
 import { VaticanNews } from './VaticanNews'
 import {
   fetchNewsImages,
@@ -242,28 +243,18 @@ export function FromRome() {
       {data.videos.length > 0 && (
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.videos')}</SubHeader>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            style={{ marginHorizontal: -24 }}
-            contentContainerStyle={{ paddingHorizontal: 24, gap: 14 }}
-          >
+          <CardRow>
             {data.videos.map((v) => (
               <VideoCard key={v.id} video={v} onPress={() => openVideo(v.id)} />
             ))}
-          </ScrollView>
+          </CardRow>
         </YStack>
       )}
 
       {(featured || data.news.length > 0) && (
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.news')}</SubHeader>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            style={{ marginHorizontal: -24 }}
-            contentContainerStyle={{ paddingHorizontal: 24, gap: 14 }}
-          >
+          <CardRow>
             {(featured ? [featured, ...data.news] : data.news).slice(0, 10).map((it, i) => (
               <NewsTile
                 key={it.url}
@@ -273,7 +264,7 @@ export function FromRome() {
                 onPress={() => openArticle(it.url)}
               />
             ))}
-          </ScrollView>
+          </CardRow>
           <AnimatedPressable
             onPress={() => openArticle(newsHub)}
             accessibilityRole="link"
@@ -289,12 +280,7 @@ export function FromRome() {
       {data.holySee.length > 0 && (
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.holySee')}</SubHeader>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            style={{ marginHorizontal: -24 }}
-            contentContainerStyle={{ paddingHorizontal: 24, gap: 14, alignItems: 'stretch' }}
-          >
+          <CardRow stretch>
             {data.holySee.slice(0, 10).map((it, i) => (
               <HolySeeCard
                 key={it.url}
@@ -303,19 +289,14 @@ export function FromRome() {
                 onPress={() => openArticle(it.url)}
               />
             ))}
-          </ScrollView>
+          </CardRow>
         </YStack>
       )}
 
       {data.outlets.length > 0 && (
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.media')}</SubHeader>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            style={{ marginHorizontal: -24 }}
-            contentContainerStyle={{ paddingHorizontal: 24, gap: 14 }}
-          >
+          <CardRow>
             {data.outlets.map((o, i) => (
               <ArtCoverCard
                 key={o.url}
@@ -325,7 +306,7 @@ export function FromRome() {
                 onPress={() => openArticle(o.url)}
               />
             ))}
-          </ScrollView>
+          </CardRow>
         </YStack>
       )}
 

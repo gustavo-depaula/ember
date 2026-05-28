@@ -1,4 +1,5 @@
 import { useRouter } from 'expo-router'
+import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
@@ -24,6 +25,13 @@ import { useSaintOfDay } from './useSaintOfDay'
 const dayMs = 86_400_000
 const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 
+// Resolve a list of collection ids against the live catalog, dropping any that
+// aren't present yet (or aren't collections). Pure — depends only on the catalog.
+const collectionRow = (ids: string[]) =>
+  ids
+    .map((id) => [id, getEntry(id)] as const)
+    .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
+
 /**
  * The Explore feed body: a featured carousel (Gospel of the Day → Saint of the
  * Day → today's weekday devotion → For this Season → Featured Reading), then
@@ -34,7 +42,7 @@ const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 export function ExploreFeed() {
   const router = useRouter()
   const { t } = useTranslation()
-  useCatalogVersion()
+  const catalogVersion = useCatalogVersion()
   const today = useToday()
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const season = getLiturgicalSeason(today, form)
@@ -43,14 +51,28 @@ export function ExploreFeed() {
   const featured = pickFeatured(season, today)
   const dayIndex = Math.floor(today.getTime() / dayMs)
 
-  const books = getEntriesByKind('book').filter(([id]) => !isMeta(id))
-  const creators = getEntriesByKind('creator').filter(([id]) => !isMeta(id))
-  const collectionRow = (ids: string[]) =>
-    ids
-      .map((id) => [id, getEntry(id)] as const)
-      .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
-  const devotions = collectionRow(featured.devotionRow)
-  const traditions = collectionRow(featured.traditionRow)
+  // Re-derive only when the catalog warms in (catalogVersion), not on every
+  // unrelated re-render (clock tick, theme, gospel/saint query settling).
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const books = useMemo(
+    () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
+    [catalogVersion],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const creators = useMemo(
+    () => getEntriesByKind('creator').filter(([id]) => !isMeta(id)),
+    [catalogVersion],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const devotions = useMemo(
+    () => collectionRow(featured.devotionRow),
+    [catalogVersion, featured.devotionRow],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const traditions = useMemo(
+    () => collectionRow(featured.traditionRow),
+    [catalogVersion, featured.traditionRow],
+  )
 
   const goBook = (id: string) =>
     router.push({ pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } })

@@ -21,16 +21,12 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, BottomSheet } from '@/components'
 import { Typography } from '@/components/typography'
 import i18n from '@/lib/i18n'
+import { vaticanWidgetLang } from './vaticanContent'
 
 const widgetOrigin = 'https://www.vaticannews.va'
 const minHeight = 480
 const maxHeight = 4000
 const clampHeight = (v: number) => Math.min(Math.max(Math.round(v), minHeight), maxHeight)
-
-function widgetLang(): string {
-  // Vatican News widget language codes (it/en/es/pt/fr/de…).
-  return (i18n.language || 'en-US').startsWith('pt') ? 'pt' : 'en'
-}
 
 function isDarkHex(hex: string | undefined): boolean {
   if (!hex || hex[0] !== '#') return false
@@ -95,7 +91,7 @@ function hostOf(url: string): string {
 export function VaticanNews() {
   const theme = useTheme()
   const dark = isDarkHex(theme.background?.val)
-  const lang = widgetLang()
+  const lang = vaticanWidgetLang(i18n.language)
   const html = useMemo(() => widgetHtml(lang, dark), [lang, dark])
   const [height, setHeight] = useState(minHeight)
   const [article, setArticle] = useState<string | undefined>()
