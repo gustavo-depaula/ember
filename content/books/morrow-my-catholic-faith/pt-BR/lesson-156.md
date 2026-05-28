@@ -32,7 +32,7 @@
 
 — Todos os católicos que atingiram o uso da razão e estão em perigo de morte por doença, acidente ou velhice devem receber a Extrema-Unção.
 
-1. Como o propósito primário do sacramento é restaurar a alma enfraquecida pelo pecado e tentação, aqueles que nunca foram capazes de pecar não podem recebê-lo. Daquí idiotas e crianças sob a idade da razão não podem receber Extrema-Unção.
+1. Como o propósito primário do sacramento é restaurar a alma enfraquecida pelo pecado e tentação, aqueles que nunca foram capazes de pecar não podem recebê-lo. Daqui idiotas e crianças sob a idade da razão não podem receber Extrema-Unção.
 
 > Como o perigo de morte deve surgir de dentro, soldados indo à batalha, prisioneiros prestes a ser executados, passageiros num navio prestes a naufragar, etc., não podem receber o sacramento.
 
@@ -40,7 +40,7 @@
 
 > O sacramento deve ser administrado assim que houver perigo de morte. Aqueles que atendem pessoas doentes não devem esperar até que a pessoa esteja realmente morrendo antes de chamar o padre. Geralmente, a restauração à saúde frequentemente operada pela Extrema-Unção não é produzida miraculosamente, daí a recepção do sacramento não deve ser adiada.
 
-3. Extrema-Unção é um sacramento dos vivos. Daquí a pessoa deve estar no estado de graça. Antes de sua recepção, portanto, é costume ir à confissão, a menos que incapaz de fazê-lo.
+3. Extrema-Unção é um sacramento dos vivos. Daqui a pessoa deve estar no estado de graça. Antes de sua recepção, portanto, é costume ir à confissão, a menos que incapaz de fazê-lo.
 
 > Extrema-Unção, que significa "Última Unção", é assim chamada porque é a última das unções sacramentais usadas pela Igreja, não porque deva ser adiada até o último momento quando os doentes estão no ponto de morte.
 

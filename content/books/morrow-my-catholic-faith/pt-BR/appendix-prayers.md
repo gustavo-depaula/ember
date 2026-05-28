@@ -63,7 +63,7 @@ CONFESSO a Deus Todo-Poderoso, à bem-aventurada Virgem Maria, ao bem-aventurado
 
 **A "Salve Rainha"**
 
-Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+Salve, Rainha, Mãe de misericórdia; vida, doçura e esperança nossa, salve! A Vós bradamos, os degredados filhos de Eva; a Vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei; e depois deste desterro mostrai-nos Jesus, bendito fruto do Vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria!
 
 > (Indulgência de cinco anos)
 

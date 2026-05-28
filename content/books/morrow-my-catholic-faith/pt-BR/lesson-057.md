@@ -38,7 +38,7 @@
 
 > Em 1870, Roma mesma foi tomada, e feita capital da Itália, e o Papa tornou-se virtualmente um prisioneiro em seu próprio palácio.
 
-4. Em 1929, o Tratado de Latrão assinado entre a Santa Sé e a coroa da Itália reconheceu o poder temporal do Papa e sua soberania sobre a Cidade do Vaticano, por um concordata formal entre o Papa e a coroa da Itália.
+4. Em 1929, o Tratado de Latrão assinado entre a Santa Sé e a coroa da Itália reconheceu o poder temporal do Papa e sua soberania sobre a Cidade do Vaticano, por uma concordata formal entre o Papa e a coroa da Itália.
 
 > A Cidade do Vaticano é o menor estado soberano no mundo. No tempo da assinatura do Tratado de Latrão, tinha uma população de 532, apenas 250 dos quais eram residentes. É quase inteiramente cercada por altas muralhas, e compreende 110 acres.
 
@@ -55,7 +55,7 @@
 
 > Por causa das palavras de Nosso Senhor a Pedro: "Bem-aventurado és tu," dirigimo-nos ao Papa Beatissime Pater (Santíssimo Padre). O ofício é chamado a Sé de Pedro, Santa Sé, ou Sé Apostólica, ou a Cátedra de Pedro. O Papa é chamado de sua sé, o Papa de Roma, e a Igreja Católica sob ele é frequentemente chamada Igreja Católica Romana.
 
-3. Assume um novo nome sobre sua eleição, como São Pedro recebeu um novo nome por Nosso Senhor. Desde o décimo século, tem sido o costume escolher o nome dentre aqueles de Papas anteriores, sendo o de São Pedro excetuado por reverência.
+3. Assume um novo nome ao ser eleito, como São Pedro recebeu um novo nome por Nosso Senhor. Desde o décimo século, tem sido o costume escolher o nome dentre aqueles de Papas anteriores, sendo o de São Pedro excetuado por reverência.
 
 > Usa a tiara, uma coroa tripla, o símbolo de sua preeminência no tríplice ofício de Mestre, Sacerdote, e Pastor. Usa uma batina de seda branca, usa sapatos de seda branca, e um báculo encimado por uma cruz. Emite medalhas, confere cavalaria. Envia embaixadores. Tem um estandarte dourado-e-branco.
 

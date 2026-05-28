@@ -19,9 +19,9 @@
 
 > Deus criou tudo por um ato de Sua vontade. "Ele falou e foram feitos; Ele ordenou e foram criados" (Sl. 32:9).
 
-3. Em seu primeiro livro, Gênesis, a Sagrada Escritura conta a história da Criação. No princípio toda a terra era vazia e vazia e as trevas estavam sobre todas as coisas; isto é, Deus criou as coisas num estado informe. Então desta informidade Deus trouxe ordem e lei, criando o céu e a terra.
+3. Em seu primeiro livro, Gênesis, a Sagrada Escritura conta a história da Criação. No princípio toda a terra era sem forma e vazia e as trevas estavam sobre todas as coisas; isto é, Deus criou as coisas num estado informe. Então desta informidade Deus trouxe ordem e lei, criando o céu e a terra.
 
-> "No princípio, Deus criou o céu e a terra. E a terra era vazia e vazia, e as trevas estavam sobre a face do abismo; e o espírito de Deus pairava sobre as águas" (Gên. 1:1-2).
+> "No princípio, Deus criou o céu e a terra. E a terra era sem forma e vazia, e as trevas estavam sobre a face do abismo; e o espírito de Deus pairava sobre as águas" (Gên. 1:1-2).
 
 
 **Em quantos dias Deus criou o mundo?**

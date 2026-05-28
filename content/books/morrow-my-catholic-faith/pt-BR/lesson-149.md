@@ -4,7 +4,7 @@
 
 *1. Faz uma confissão má quem deliberadamente esconde um pecado mortal. Longe de ser perdoado de qualquer de seus pecados, assim comete um novo pecado mortal, sacrilégio. Se alguém tem vergonha de confessar seus pecados mortais diante de seu confessor ordinário, está sempre em liberdade de ir a outro padre, um que não o conhece. Mas de modo algum deve esconder um pecado mortal. "Aquele que esconde seus pecados não prosperará" (Prov. 28:13).*
 
-*2. Se fazemos uma boa confissão, nossas almas são limpas e somos restaurados à graça santificante, à amizade de Deus. Também recebemos graças atuais que nos ajudam em nossa luta contra o mal.*
+2. Se fazemos uma boa confissão, nossas almas são limpas e somos restaurados à graça santificante, à amizade de Deus. Também recebemos graças atuais que nos ajudam em nossa luta contra o mal.
 
 
 **O que é confissão?**
