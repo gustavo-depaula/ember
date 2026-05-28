@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PNG Transparency Creator</title>
+<style>
+  :root {
+    --bg1: #f7f8fb;
+    --bg2: #eef1f7;
+    --ink: #1e2433;
+    --muted: #6b7488;
+    --line: #e6e9f0;
+    --card: #ffffff;
+    --accent: #6366f1;
+    --accent2: #8b5cf6;
+    --accent-soft: #eef0fe;
+    --shadow: 0 18px 40px -18px rgba(30, 36, 51, 0.28);
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    background: radial-gradient(1200px 600px at 50% -10%, #ffffff, var(--bg1) 45%, var(--bg2));
+    -webkit-font-smoothing: antialiased;
+    padding: 40px 22px 90px;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; }
+
+  header { text-align: center; margin-bottom: 32px; }
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-size: 13px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
+    color: var(--accent); background: var(--accent-soft);
+    padding: 6px 14px; border-radius: 999px; margin-bottom: 16px;
+  }
+  header h1 {
+    font-size: 40px; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 10px;
+    background: linear-gradient(95deg, var(--ink), #46506b);
+    -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  header p { max-width: 620px; margin: 0 auto; color: var(--muted); font-size: 17px; line-height: 1.55; }
+
+  .panels { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 20px;
+    box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column;
+  }
+  .card-head {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 18px 22px 14px;
+  }
+  .card-head h3 {
+    margin: 0; font-size: 17px; font-weight: 700; letter-spacing: -0.01em;
+    display: flex; align-items: center; gap: 9px;
+  }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); }
+  .card-head .note { color: var(--muted); font-size: 13.5px; }
+
+  .stage {
+    position: relative; margin: 0 18px; border-radius: 14px; padding: 14px;
+    min-height: 320px; display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+    background-image:
+      linear-gradient(45deg, #e7e9ef 25%, transparent 25%),
+      linear-gradient(-45deg, #e7e9ef 25%, transparent 25%),
+      linear-gradient(45deg, transparent 75%, #e7e9ef 75%),
+      linear-gradient(-45deg, transparent 75%, #e7e9ef 75%);
+    background-size: 20px 20px;
+    background-position: 0 0, 0 10px, 10px -10px, -10px 0;
+    background-color: #f4f6fa;
+    border: 1px solid var(--line);
+  }
+  .holder { position: relative; line-height: 0; max-width: 100%; }
+  .holder canvas { display: block; max-width: 100%; height: auto; border-radius: 6px; }
+  #inputCanvas { cursor: crosshair; }
+
+  .dropzone {
+    position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center;
+    justify-content: center; gap: 12px; color: var(--muted); cursor: pointer; padding: 24px;
+    text-align: center;
+  }
+  .dropzone svg { opacity: .55; }
+  .dropzone b { color: var(--ink); font-weight: 600; }
+  .dropzone small { font-size: 13px; }
+
+  /* crop overlay */
+  .crop-layer { position: absolute; inset: 0; cursor: crosshair; display: none; }
+  .crop-layer.active { display: block; }
+  .crop-sel {
+    position: absolute; border: 1.5px solid #fff; border-radius: 2px;
+    box-shadow: 0 0 0 9999px rgba(17, 24, 39, 0.55); pointer-events: none;
+  }
+  .crop-sel::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background-image: linear-gradient(#fff7 1px, transparent 1px), linear-gradient(90deg, #fff7 1px, transparent 1px);
+    background-size: 33.33% 33.33%;
+  }
+  .crop-handle {
+    position: absolute; width: 12px; height: 12px; background: #fff;
+    border: 1.5px solid var(--accent); border-radius: 3px;
+    box-shadow: 0 1px 4px rgba(17,24,39,.35);
+  }
+  .h-nw { left: -6px;  top: -6px; }
+  .h-ne { right: -6px; top: -6px; }
+  .h-sw { left: -6px;  bottom: -6px; }
+  .h-se { right: -6px; bottom: -6px; }
+  .h-n  { left: 50%; top: -6px;    transform: translateX(-50%); }
+  .h-s  { left: 50%; bottom: -6px; transform: translateX(-50%); }
+  .h-w  { top: 50%;  left: -6px;   transform: translateY(-50%); }
+  .h-e  { top: 50%;  right: -6px;  transform: translateY(-50%); }
+
+  .toolbar {
+    display: flex; align-items: center; gap: 8px; padding: 16px 18px 18px; flex-wrap: wrap;
+  }
+  .spacer { flex: 1; }
+  button {
+    font: inherit; cursor: pointer; border: none; border-radius: 11px;
+    display: inline-flex; align-items: center; gap: 7px; padding: 10px 15px;
+    font-size: 14px; font-weight: 600; color: var(--ink);
+    background: #f1f3f8; border: 1px solid transparent; transition: .15s ease;
+  }
+  button:hover { background: #e9ecf4; }
+  button svg { width: 16px; height: 16px; }
+  button.primary {
+    color: #fff; background: linear-gradient(95deg, var(--accent), var(--accent2));
+    box-shadow: 0 8px 18px -8px rgba(99, 102, 241, .7);
+  }
+  button.primary:hover { filter: brightness(1.05); }
+  button.ghost { background: transparent; color: var(--muted); }
+  button.ghost:hover { background: #f1f3f8; color: var(--ink); }
+
+  /* segmented control */
+  .seg { background: #eef1f7; border-radius: 12px; padding: 4px; display: inline-flex; gap: 3px; }
+  .seg button { background: transparent; border: none; padding: 8px 14px; color: var(--muted); }
+  .seg button.active { background: #fff; color: var(--ink); box-shadow: 0 2px 8px -2px rgba(30,36,51,.18); }
+  .seg button:hover:not(.active) { color: var(--ink); }
+
+  .crop-toolbar .ct-hint { color: var(--muted); font-size: 13.5px; }
+
+  /* options */
+  .opts-card { margin-top: 24px; }
+  .opts {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 4px 24px 26px;
+  }
+  .opts h4 {
+    margin: 0 0 14px; font-size: 13px; font-weight: 700; letter-spacing: .05em;
+    text-transform: uppercase; color: var(--muted);
+  }
+  .field { margin-bottom: 16px; }
+  .field:last-child { margin-bottom: 0; }
+  .field .desc { color: var(--muted); font-size: 13px; margin-top: 6px; line-height: 1.45; }
+  .colorrow { display: flex; gap: 9px; }
+  .colorrow input[type=text] {
+    flex: 1; font: inherit; font-size: 15px; padding: 11px 13px;
+    border: 1px solid var(--line); border-radius: 11px; background: #fbfcfe; color: var(--ink);
+  }
+  input[type=color] {
+    width: 46px; padding: 0; border: 1px solid var(--line); border-radius: 11px;
+    background: #000; cursor: pointer;
+  }
+  input[type=number] {
+    width: 100%; font: inherit; font-size: 15px; padding: 11px 13px;
+    border: 1px solid var(--line); border-radius: 11px; background: #fbfcfe; color: var(--ink);
+  }
+  input:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); }
+
+  /* slider rows */
+  .slider-row { display: flex; align-items: center; gap: 12px; }
+  .slider-row input[type=range] { flex: 1; accent-color: var(--accent); }
+  .slider-row .val {
+    min-width: 44px; text-align: center; font-size: 14px; font-weight: 600;
+    background: var(--accent-soft); color: var(--accent); border-radius: 8px; padding: 5px 0;
+  }
+  .slider-row input.val {
+    width: 62px; flex: none; border: 1px solid transparent; padding: 6px 6px;
+  }
+  .slider-row input.val:focus { outline: 2px solid var(--accent-soft); border-color: var(--accent); background: #fff; }
+  .slider-row input.val::-webkit-outer-spin-button,
+  .slider-row input.val::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+
+  /* toggle */
+  .toggle { display: flex; align-items: center; gap: 11px; cursor: pointer; user-select: none; }
+  .toggle input { position: absolute; opacity: 0; pointer-events: none; }
+  .switch {
+    width: 42px; height: 24px; border-radius: 999px; background: #d4d9e4; position: relative;
+    transition: .18s; flex: none;
+  }
+  .switch::after {
+    content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;
+    border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,.25); transition: .18s;
+  }
+  .toggle input:checked + .switch { background: linear-gradient(95deg, var(--accent), var(--accent2)); }
+  .toggle input:checked + .switch::after { transform: translateX(18px); }
+  .toggle .tlabel { font-size: 14.5px; font-weight: 600; }
+
+  .flash {
+    position: fixed; left: 50%; bottom: 30px; transform: translateX(-50%) translateY(8px);
+    background: var(--ink); color: #fff; padding: 11px 20px; border-radius: 12px; font-size: 14px;
+    font-weight: 500; opacity: 0; transition: .22s; pointer-events: none; box-shadow: var(--shadow);
+  }
+  .flash.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  @media (max-width: 880px) {
+    .panels { grid-template-columns: 1fr; }
+    .opts { grid-template-columns: 1fr; gap: 24px; }
+    header h1 { font-size: 32px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <span class="eyebrow">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6 4.5 2.3 7.1L12 16.5 5.7 21l2.3-7.1-6-4.5h7.6z"/></svg>
+      PNG Tool
+    </span>
+    <h1>PNG Transparency Creator</h1>
+    <p>Import an image, click a color to knock it out, crop it to size, and download a clean transparent PNG. Everything runs locally in your browser.</p>
+  </header>
+
+  <div class="panels">
+    <!-- INPUT -->
+    <div class="card">
+      <div class="card-head">
+        <h3><span class="dot"></span> Input</h3>
+        <span class="note" id="inputNote">Click a color to remove it</span>
+      </div>
+      <div class="stage" id="inputStage">
+        <div class="holder" id="inputHolder">
+          <canvas id="inputCanvas" width="600" height="300"></canvas>
+          <div class="crop-layer" id="cropLayer"></div>
+        </div>
+        <div class="dropzone" id="dropzone">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M17 8l-5-5-5 5"/><path d="M12 3v12"/></svg>
+          <div><b>Import an image</b></div>
+          <small>Click to browse, or drag &amp; drop / paste a file</small>
+        </div>
+      </div>
+
+      <div class="toolbar" id="inputToolbar">
+        <button data-act="import" class="primary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M17 8l-5-5-5 5"/><path d="M12 3v12"/></svg>
+          Import
+        </button>
+        <div class="seg">
+          <button data-act="mode-pick" class="active">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m2 22 1-1h3l9-9"/><path d="M3 21v-3l9-9"/><path d="m15 6 3.4-3.4a2.1 2.1 0 0 1 3 3L18 9l.4.4a2.1 2.1 0 0 1 0 3 2.1 2.1 0 0 1-3 0l-7-7a2.1 2.1 0 0 1 0-3 2.1 2.1 0 0 1 3 0L15 6Z"/></svg>
+            Pick color
+          </button>
+          <button data-act="mode-crop">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2v14a2 2 0 0 0 2 2h14"/><path d="M18 22V8a2 2 0 0 0-2-2H2"/></svg>
+            Crop
+          </button>
+        </div>
+        <span class="spacer"></span>
+        <button data-act="save" class="ghost">Save</button>
+      </div>
+
+      <div class="toolbar crop-toolbar" id="cropToolbar" hidden>
+        <span class="ct-hint">Drag the corner &amp; edge handles to set the crop area</span>
+        <span class="spacer"></span>
+        <button data-act="crop-apply" class="primary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          Apply crop
+        </button>
+        <button data-act="crop-cancel" class="ghost">Cancel</button>
+      </div>
+    </div>
+
+    <!-- OUTPUT -->
+    <div class="card">
+      <div class="card-head">
+        <h3><span class="dot" style="background:var(--accent2)"></span> Result</h3>
+        <span class="note">Transparent PNG</span>
+      </div>
+      <div class="stage" id="outputStage">
+        <div class="holder">
+          <canvas id="outputCanvas" width="600" height="300"></canvas>
+        </div>
+        <div class="dropzone" id="outputHint" style="cursor:default">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m3 16 5-5 4 4 3-3 6 6"/></svg>
+          <small>Your transparent PNG appears here</small>
+        </div>
+      </div>
+      <div class="toolbar">
+        <button data-act="download" class="primary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>
+          Download PNG
+        </button>
+        <button data-act="copy">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          Copy
+        </button>
+        <span class="spacer"></span>
+        <button data-act="reset" class="ghost">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+          Clear
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- OPTIONS -->
+  <div class="card opts-card">
+    <div class="card-head">
+      <h3><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1Z"/></svg> Tool Options</h3>
+    </div>
+    <div class="opts">
+      <div>
+        <h4>Transparency Color</h4>
+        <div class="field">
+          <div class="colorrow">
+            <input type="text" id="colorText" value="rgb(0, 0, 0)">
+            <input type="color" id="colorSwatch" value="#000000">
+          </div>
+          <div class="desc">Color to make transparent — or click a pixel in the input image.</div>
+        </div>
+        <div class="field">
+          <div class="slider-row">
+            <input type="range" id="tolerance" min="0" max="1" step="0.01" value="0.7">
+            <input type="number" class="val" id="toleranceVal" min="0" max="1" step="0.01" value="0.70">
+          </div>
+          <div class="desc">Tolerance — match similar color tones (0 = exact, 1 = everything).</div>
+        </div>
+        <div class="field">
+          <label class="toggle"><input type="checkbox" id="outerOnly"><span class="switch"></span><span class="tlabel">Match outer pixels only</span></label>
+          <div class="desc">Only clear the background connected to the image edges.</div>
+        </div>
+      </div>
+
+      <div>
+        <h4>Refine Edges</h4>
+        <div class="field">
+          <label class="toggle"><input type="checkbox" id="smoothEdges" checked><span class="switch"></span><span class="tlabel">Smooth edges</span></label>
+          <div class="desc">Feather the cutout so edges aren't jagged.</div>
+        </div>
+        <div class="field">
+          <div class="slider-row">
+            <input type="range" id="smoothRadius" min="0" max="10" step="1" value="1">
+            <span class="val" id="smoothRadiusVal">1</span>
+          </div>
+          <div class="desc">Edge smoothing radius (pixels).</div>
+        </div>
+      </div>
+
+      <div>
+        <h4>Preview</h4>
+        <div class="field">
+          <label class="toggle"><input type="checkbox" id="previewMask"><span class="switch"></span><span class="tlabel">Preview mask</span></label>
+          <div class="desc">Show which pixels will become transparent — white = removed.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<input type="file" id="fileInput" accept="image/*" style="display:none">
+<div class="flash" id="flash"></div>
+
+<script>
+(() => {
+  "use strict";
+  const $ = (id) => document.getElementById(id);
+
+  const inputCanvas  = $("inputCanvas");
+  const outputCanvas = $("outputCanvas");
+  const ictx = inputCanvas.getContext("2d", { willReadFrequently: true });
+  const octx = outputCanvas.getContext("2d");
+  const cropLayer = $("cropLayer");
+
+  const state = {
+    sourceData: null,
+    width: 0,
+    height: 0,
+    target: [0, 0, 0],
+    mode: "pick",          // "pick" | "crop"
+    fileName: undefined,
+  };
+
+  // ---------- color helpers ----------
+  const clamp255 = (n) => Math.max(0, Math.min(255, Math.round(n)));
+  const toHex = ([r,g,b]) => "#" + [r,g,b].map(v => clamp255(v).toString(16).padStart(2,"0")).join("");
+  const toRgbStr = ([r,g,b]) => `rgb(${clamp255(r)}, ${clamp255(g)}, ${clamp255(b)})`;
+
+  function parseColor(str){
+    if (!str) return undefined;
+    str = str.trim();
+    let m = str.match(/^#?([0-9a-f]{6})$/i);
+    if (m){ const h = m[1]; return [parseInt(h.slice(0,2),16), parseInt(h.slice(2,4),16), parseInt(h.slice(4,6),16)]; }
+    m = str.match(/^#?([0-9a-f]{3})$/i);
+    if (m){ const h = m[1]; return [parseInt(h[0]+h[0],16), parseInt(h[1]+h[1],16), parseInt(h[2]+h[2],16)]; }
+    m = str.match(/rgba?\(([^)]+)\)/i);
+    const parts = (m ? m[1] : str).split(/[\s,]+/).filter(Boolean).map(Number);
+    if (parts.length >= 3 && parts.slice(0,3).every(n => !isNaN(n)))
+      return [clamp255(parts[0]), clamp255(parts[1]), clamp255(parts[2])];
+    return undefined;
+  }
+
+  function setTarget(rgb, syncText = true){
+    state.target = rgb;
+    $("colorSwatch").value = toHex(rgb);
+    if (syncText) $("colorText").value = toRgbStr(rgb);
+    process();
+  }
+
+  // ---------- loading ----------
+  function setSource(imageData, w, h){
+    inputCanvas.width = w; inputCanvas.height = h;
+    outputCanvas.width = w; outputCanvas.height = h;
+    ictx.putImageData(imageData, 0, 0);
+    state.sourceData = imageData; state.width = w; state.height = h;
+    $("dropzone").style.display = "none";
+    $("outputHint").style.display = "none";
+    inputCanvas.style.display = "block";
+    outputCanvas.style.display = "block";
+    process();
+  }
+
+  function loadImageFromSrc(src){
+    const img = new Image();
+    img.onload = () => {
+      const maxDim = 2200;
+      let w = img.naturalWidth, h = img.naturalHeight;
+      const scale = Math.min(1, maxDim / Math.max(w, h));
+      w = Math.round(w * scale); h = Math.round(h * scale);
+      inputCanvas.width = w; inputCanvas.height = h;
+      ictx.clearRect(0, 0, w, h);
+      ictx.drawImage(img, 0, 0, w, h);
+      setSource(ictx.getImageData(0, 0, w, h), w, h);
+    };
+    img.onerror = () => alert("Could not load that image.");
+    img.src = src;
+  }
+
+  function loadFile(file){
+    if (!file || !file.type.startsWith("image/")) return;
+    state.fileName = file.name || undefined;
+    const r = new FileReader();
+    r.onload = e => loadImageFromSrc(e.target.result);
+    r.readAsDataURL(file);
+  }
+
+  function resultName(){
+    const base = (state.fileName || "image.png").replace(/\.[^.]+$/, "");
+    return "transparent_" + base + ".png";
+  }
+
+  // ---------- processing ----------
+  function process(){
+    if (!state.sourceData) return;
+    const { width: w, height: h } = state;
+    const src = state.sourceData.data;
+    const N = w * h;
+
+    const tol = clampNum(parseFloat($("tolerance").value), 0, 1, 0.5);
+    const [tr, tg, tb] = state.target;
+    const outerOnly = $("outerOnly").checked;
+    const smooth = $("smoothEdges").checked;
+    const radius = Math.round(clampNum(parseFloat($("smoothRadius").value), 0, 50, 1));
+    const previewMask = $("previewMask").checked;
+    const MAXD = Math.sqrt(3) * 255;
+
+    const matched = new Uint8Array(N);
+    for (let p = 0, i = 0; p < N; p++, i += 4){
+      const dr = src[i]-tr, dg = src[i+1]-tg, db = src[i+2]-tb;
+      if (Math.sqrt(dr*dr + dg*dg + db*db) / MAXD <= tol) matched[p] = 1;
+    }
+
+    const remove = outerOnly ? floodFromBorder(matched, w, h) : matched;
+
+    const alpha = new Float32Array(N);
+    for (let p = 0; p < N; p++) alpha[p] = remove[p] ? 0 : 1;
+    const finalAlpha = (smooth && radius > 0) ? boxBlur(alpha, w, h, radius) : alpha;
+
+    const out = octx.createImageData(w, h);
+    const od = out.data;
+    if (previewMask){
+      for (let p = 0, i = 0; p < N; p++, i += 4){
+        const v = Math.round((1 - finalAlpha[p]) * 255);
+        od[i] = od[i+1] = od[i+2] = v; od[i+3] = 255;
+      }
+    } else {
+      for (let p = 0, i = 0; p < N; p++, i += 4){
+        od[i] = src[i]; od[i+1] = src[i+1]; od[i+2] = src[i+2];
+        od[i+3] = Math.round(src[i+3] * finalAlpha[p]);
+      }
+    }
+    octx.putImageData(out, 0, 0);
+  }
+
+  const clampNum = (n, lo, hi, fb) => isNaN(n) ? fb : Math.max(lo, Math.min(hi, n));
+
+  function floodFromBorder(matched, w, h){
+    const reached = new Uint8Array(w * h);
+    const stack = [];
+    const push = (x, y) => { const p = y*w + x; if (matched[p] && !reached[p]){ reached[p] = 1; stack.push(p); } };
+    for (let x = 0; x < w; x++){ push(x, 0); push(x, h-1); }
+    for (let y = 0; y < h; y++){ push(0, y); push(w-1, y); }
+    while (stack.length){
+      const p = stack.pop(); const x = p % w, y = (p - x) / w;
+      if (x > 0) push(x-1, y); if (x < w-1) push(x+1, y);
+      if (y > 0) push(x, y-1); if (y < h-1) push(x, y+1);
+    }
+    return reached;
+  }
+
+  function boxBlur(srcArr, w, h, radius){
+    const tmp = new Float32Array(w*h), out = new Float32Array(w*h), win = radius*2 + 1;
+    for (let y = 0; y < h; y++){
+      const row = y*w; let sum = 0;
+      for (let k = -radius; k <= radius; k++) sum += srcArr[row + Math.min(w-1, Math.max(0, k))];
+      for (let x = 0; x < w; x++){
+        tmp[row + x] = sum / win;
+        sum += srcArr[row + Math.min(w-1, x+radius+1)] - srcArr[row + Math.max(0, x-radius)];
+      }
+    }
+    for (let x = 0; x < w; x++){
+      let sum = 0;
+      for (let k = -radius; k <= radius; k++) sum += tmp[Math.min(h-1, Math.max(0, k))*w + x];
+      for (let y = 0; y < h; y++){
+        out[y*w + x] = sum / win;
+        sum += tmp[Math.min(h-1, y+radius+1)*w + x] - tmp[Math.max(0, y-radius)*w + x];
+      }
+    }
+    return out;
+  }
+
+  // ---------- crop ----------
+  const HANDLES = [
+    { id: "nw", sides: ["top","left"] },    { id: "ne", sides: ["top","right"] },
+    { id: "sw", sides: ["bottom","left"] }, { id: "se", sides: ["bottom","right"] },
+    { id: "n", sides: ["top"] },  { id: "s", sides: ["bottom"] },
+    { id: "w", sides: ["left"] }, { id: "e", sides: ["right"] },
+  ];
+  const CURSORS = { nw:"nwse-resize", se:"nwse-resize", ne:"nesw-resize", sw:"nesw-resize",
+                    n:"ns-resize", s:"ns-resize", e:"ew-resize", w:"ew-resize" };
+  const HIT = 11;
+
+  let cropSelEl = null, cropSel = null;            // {x,y,w,h} in display px
+  let cropAction = null, cropStart = null, cropOrig = null, resizeSides = null;
+
+  function setMode(mode){
+    state.mode = mode;
+    $("inputToolbar").querySelector('[data-act=mode-pick]').classList.toggle("active", mode === "pick");
+    $("inputToolbar").querySelector('[data-act=mode-crop]').classList.toggle("active", mode === "crop");
+    const cropping = mode === "crop";
+    cropLayer.classList.toggle("active", cropping);
+    $("cropToolbar").hidden = !cropping;
+    $("inputToolbar").hidden = cropping;
+    $("inputNote").textContent = cropping ? "Drag the handles inward to crop" : "Click a color to remove it";
+    cropAction = null;
+    if (cropping && state.sourceData){
+      const r = cropLayer.getBoundingClientRect();
+      cropSel = { x: 0, y: 0, w: r.width, h: r.height };
+      renderSel();
+    } else {
+      clearCropSel();
+    }
+  }
+
+  function clearCropSel(){ cropSel = null; renderSel(); }
+
+  function renderSel(){
+    if (!cropSel){ if (cropSelEl){ cropSelEl.remove(); cropSelEl = null; } return; }
+    if (!cropSelEl){
+      cropSelEl = document.createElement("div");
+      cropSelEl.className = "crop-sel";
+      for (const h of HANDLES){
+        const d = document.createElement("div");
+        d.className = "crop-handle h-" + h.id;
+        cropSelEl.appendChild(d);
+      }
+      cropLayer.appendChild(cropSelEl);
+    }
+    Object.assign(cropSelEl.style, {
+      left: cropSel.x+"px", top: cropSel.y+"px", width: cropSel.w+"px", height: cropSel.h+"px",
+    });
+  }
+
+  function layerPoint(e){
+    const r = cropLayer.getBoundingClientRect();
+    return {
+      x: Math.max(0, Math.min(r.width,  e.clientX - r.left)),
+      y: Math.max(0, Math.min(r.height, e.clientY - r.top)),
+      W: r.width, H: r.height,
+    };
+  }
+
+  function hitHandle(p){
+    if (!cropSel) return undefined;
+    const { x, y, w, h } = cropSel;
+    const pts = {
+      nw:[x,y], n:[x+w/2,y], ne:[x+w,y], e:[x+w,y+h/2],
+      se:[x+w,y+h], s:[x+w/2,y+h], sw:[x,y+h], w:[x,y+h/2],
+    };
+    for (const hd of HANDLES){
+      const [hx, hy] = pts[hd.id];
+      if (Math.abs(p.x - hx) <= HIT && Math.abs(p.y - hy) <= HIT) return hd;
+    }
+    return undefined;
+  }
+
+  const insideSel = (p) => cropSel &&
+    p.x >= cropSel.x && p.x <= cropSel.x + cropSel.w &&
+    p.y >= cropSel.y && p.y <= cropSel.y + cropSel.h;
+
+  cropLayer.addEventListener("mousedown", (e) => {
+    if (!state.sourceData) return;
+    const p = layerPoint(e);
+    const hd = hitHandle(p);
+    if (hd){ cropAction = "resize"; resizeSides = hd.sides; }
+    else if (insideSel(p)){ cropAction = "move"; }
+    else { cropAction = "draw"; cropSel = { x: p.x, y: p.y, w: 0, h: 0 }; }
+    cropStart = p;
+    cropOrig = cropSel ? { ...cropSel } : undefined;
+    renderSel();
+    e.preventDefault();
+  });
+
+  document.addEventListener("mousemove", (e) => {
+    if (state.mode !== "crop") return;
+    if (!cropAction){
+      if (state.sourceData){
+        const p = layerPoint(e);
+        const hd = hitHandle(p);
+        cropLayer.style.cursor = hd ? CURSORS[hd.id] : (insideSel(p) ? "move" : "crosshair");
+      }
+      return;
+    }
+    const p = layerPoint(e);
+    if (cropAction === "draw"){
+      cropSel = {
+        x: Math.min(cropStart.x, p.x), y: Math.min(cropStart.y, p.y),
+        w: Math.abs(p.x - cropStart.x), h: Math.abs(p.y - cropStart.y),
+      };
+    } else if (cropAction === "move"){
+      const nx = Math.max(0, Math.min(p.W - cropOrig.w, cropOrig.x + (p.x - cropStart.x)));
+      const ny = Math.max(0, Math.min(p.H - cropOrig.h, cropOrig.y + (p.y - cropStart.y)));
+      cropSel = { x: nx, y: ny, w: cropOrig.w, h: cropOrig.h };
+    } else if (cropAction === "resize"){
+      let left = cropOrig.x, right = cropOrig.x + cropOrig.w;
+      let top  = cropOrig.y, bottom = cropOrig.y + cropOrig.h;
+      if (resizeSides.includes("left"))   left   = p.x;
+      if (resizeSides.includes("right"))  right  = p.x;
+      if (resizeSides.includes("top"))    top    = p.y;
+      if (resizeSides.includes("bottom")) bottom = p.y;
+      cropSel = {
+        x: Math.min(left, right), y: Math.min(top, bottom),
+        w: Math.abs(right - left), h: Math.abs(bottom - top),
+      };
+    }
+    renderSel();
+  });
+
+  document.addEventListener("mouseup", () => {
+    if (!cropAction) return;
+    const wasDraw = cropAction === "draw";
+    cropAction = null;
+    if (wasDraw && cropSel && cropSel.w < 4 && cropSel.h < 4) clearCropSel();
+  });
+
+  function applyCrop(){
+    if (!cropSel || cropSel.w < 4 || cropSel.h < 4){ flash("Drag a region first"); return; }
+    const rect = cropLayer.getBoundingClientRect();
+    const sx = state.width / rect.width, sy = state.height / rect.height;
+    let ix = Math.round(cropSel.x * sx), iy = Math.round(cropSel.y * sy);
+    let iw = Math.round(cropSel.w * sx), ih = Math.round(cropSel.h * sy);
+    ix = Math.max(0, Math.min(state.width  - 1, ix));
+    iy = Math.max(0, Math.min(state.height - 1, iy));
+    iw = Math.max(1, Math.min(state.width  - ix, iw));
+    ih = Math.max(1, Math.min(state.height - iy, ih));
+
+    const tmp = document.createElement("canvas");
+    tmp.width = state.width; tmp.height = state.height;
+    tmp.getContext("2d").putImageData(state.sourceData, 0, 0);
+    const cropped = tmp.getContext("2d").getImageData(ix, iy, iw, ih);
+    setSource(cropped, iw, ih);
+    setMode("pick");
+    flash("Cropped to " + iw + " × " + ih);
+  }
+
+  // ---------- export ----------
+  function downloadCanvas(canvas, name){
+    canvas.toBlob(blob => {
+      if (!blob) return;
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url; a.download = name;
+      document.body.appendChild(a); a.click(); a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    }, "image/png");
+  }
+  async function copyCanvas(canvas){
+    try {
+      const blob = await new Promise(res => canvas.toBlob(res, "image/png"));
+      await navigator.clipboard.write([ new ClipboardItem({ "image/png": blob }) ]);
+      flash("Copied to clipboard");
+    } catch (e){ alert("Copy failed: " + e.message); }
+  }
+
+  let flashTimer;
+  function flash(msg){
+    const el = $("flash");
+    el.textContent = msg; el.classList.add("show");
+    clearTimeout(flashTimer);
+    flashTimer = setTimeout(() => el.classList.remove("show"), 1500);
+  }
+
+  function reset(){
+    state.sourceData = null; state.width = state.height = 0;
+    inputCanvas.style.display = "none"; outputCanvas.style.display = "none";
+    $("dropzone").style.display = "flex"; $("outputHint").style.display = "flex";
+    state.fileName = undefined;
+    $("fileInput").value = ""; setMode("pick");
+  }
+
+  // ---------- wiring ----------
+  const openFile = () => $("fileInput").click();
+
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-act]");
+    if (!btn) return;
+    const act = btn.dataset.act;
+    if (act === "import") openFile();
+    else if (act === "mode-pick") setMode("pick");
+    else if (act === "mode-crop"){ if (!state.sourceData){ flash("Import an image first"); return; } setMode("crop"); }
+    else if (act === "crop-apply") applyCrop();
+    else if (act === "crop-cancel") setMode("pick");
+    else if (act === "save") state.sourceData && downloadCanvas(inputCanvas, "image.png");
+    else if (act === "download") state.sourceData && downloadCanvas(outputCanvas, resultName());
+    else if (act === "copy") state.sourceData && copyCanvas(outputCanvas);
+    else if (act === "reset") reset();
+  });
+
+  $("dropzone").addEventListener("click", openFile);
+  $("fileInput").addEventListener("change", e => loadFile(e.target.files[0]));
+
+  inputCanvas.addEventListener("click", (e) => {
+    if (state.mode !== "pick" || !state.sourceData) return;
+    const rect = inputCanvas.getBoundingClientRect();
+    const x = Math.floor((e.clientX - rect.left) / rect.width  * state.width);
+    const y = Math.floor((e.clientY - rect.top)  / rect.height * state.height);
+    if (x < 0 || y < 0 || x >= state.width || y >= state.height) return;
+    const i = (y * state.width + x) * 4, d = state.sourceData.data;
+    setTarget([d[i], d[i+1], d[i+2]]);
+  });
+
+  $("colorText").addEventListener("change", () => {
+    const c = parseColor($("colorText").value);
+    if (c){ $("colorText").value = toRgbStr(c); setTarget(c, false); }
+  });
+  $("colorSwatch").addEventListener("input", () => {
+    const c = parseColor($("colorSwatch").value);
+    if (c) setTarget(c);
+  });
+
+  $("tolerance").addEventListener("input", () => { $("toleranceVal").value = parseFloat($("tolerance").value).toFixed(2); process(); });
+  $("toleranceVal").addEventListener("input", () => {
+    const v = parseFloat($("toleranceVal").value);
+    if (isNaN(v)) return;
+    $("tolerance").value = Math.max(0, Math.min(1, v));
+    process();
+  });
+  $("toleranceVal").addEventListener("change", () => {
+    const v = clampNum(parseFloat($("toleranceVal").value), 0, 1, 0.7);
+    $("toleranceVal").value = v.toFixed(2);
+    $("tolerance").value = v;
+    process();
+  });
+  $("smoothRadius").addEventListener("input", () => { $("smoothRadiusVal").textContent = $("smoothRadius").value; process(); });
+  ["outerOnly","smoothEdges","previewMask"].forEach(id => $(id).addEventListener("change", process));
+
+  ["dragover","drop"].forEach(ev => document.addEventListener(ev, e => e.preventDefault()));
+  document.addEventListener("drop", e => { const f = e.dataTransfer.files && e.dataTransfer.files[0]; if (f) loadFile(f); });
+  document.addEventListener("paste", e => {
+    const items = e.clipboardData && e.clipboardData.items; if (!items) return;
+    for (const it of items) if (it.type.startsWith("image/")){ loadFile(it.getAsFile()); break; }
+  });
+
+  // init
+  inputCanvas.style.display = "none";
+  outputCanvas.style.display = "none";
+})();
+</script>
+</body>
+</html>
