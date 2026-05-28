@@ -348,8 +348,12 @@ defects fixed:
   scoped to the English word (`A palavra inglesa "Christmas" vem de "Christ"… e
   "Mass"…`); "Natal" derives from Latin *natalis*, not "Cristo + Missa".
 - **"deadly" vs "mortal" conflation**: lesson-024 capital sins "termed deadly"
-  rendered "mortais" then said to be "mortais ou veniais" (contradiction) →
-  "mortíferos", preserving the deadly/capital/vice triad.
+  rendered "mortais" then said to be "mortais ou veniais" (contradiction). Since
+  "deadly" has no distinct Portuguese counterpart (English "deadly sins" = pt
+  "pecados capitais"), the blockquote was reframed to explain the *capitais*
+  naming — "São chamados capitais — do latim *caput*, 'cabeça' — porque são a
+  cabeça de que brotam os demais pecados" — keeping the mortal/venial
+  clarification; and "these deadly sins" (item 2) → "pecados capitais".
 - **"over" → "sobre"**: lesson-187 "sobre 500"/"Sobre 900.000" → "mais de".
 - **Dropped words**: lesson-034 "à noite" (Thursday *evening*); lesson-141
   "saber o *quê* e Quem vai receber".
