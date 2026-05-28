@@ -3,9 +3,14 @@ import { Library as LibraryIcon, Mic2, Sparkle } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
-import { PageHeader, ScreenLayout } from '@/components'
+import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { ContinueReading } from '@/features/bible/components/ContinueReading'
 import { ShortcutRow } from '@/features/home'
+
+const flourishDark = require('../../../../assets/textures/notch_library_dark.png')
+const flourishLight = require('../../../../assets/textures/notch_library_light.png')
+const flourishAspect = 2172 / 481
+const flourishLightAspect = 2142 / 397
 
 // Library tab root (Phase 1 skeleton): the user's saved/collected content.
 // Continue-reading resumes the Bible; the rows below reach the collection of
@@ -18,7 +23,13 @@ export default function LibraryScreen() {
 
   return (
     <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
+      <PageFlourish
+        dark={flourishDark}
+        light={flourishLight}
+        aspectRatio={flourishAspect}
+        lightAspectRatio={flourishLightAspect}
+      />
+      <YStack gap="$lg" paddingTop="$sm" paddingBottom="$lg">
         <PageHeader title={t('nav.library')} />
 
         <ContinueReading />

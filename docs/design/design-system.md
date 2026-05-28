@@ -231,6 +231,17 @@ rehomed (counts → `variant="interface"`, whispers → `variant="whisper"`, ble
 - Stylized icons (sunrise, book, rosary, moon, quill, cross) rendered as multi-layer SVG
 - Watercolor effect with theme-aware colors
 
+### Page Flourish (`PageFlourish` component)
+- Rectangular `expo-image` banner that bleeds up into the safe-area notch as a tab's
+  header art; the page title renders **below** it in normal flow.
+- One transparent PNG per tab in `assets/textures/` (`notch_{explore,library,search,you}_dark.png`).
+  Theme-aware via a `dark`/optional `light` pair; until the light art is generated,
+  `light` falls back to `dark` on both themes.
+- Full-bleed: `marginTop={-insets.top}` pulls it into the notch, `marginHorizontal="$-lg"`
+  breaks out of `ScreenLayout`'s side padding (capped at the 640px column on web/desktop).
+- Distinct from the Today screen's corner flourish (`frame_corner_{dark,light}.png`), whose
+  shape is a baked-in transparent **cutout** rather than a rectangle.
+
 ### Section Divider (`SectionDivider` component)
 - Simple horizontal lines with centered fleuron (`✦`)
 - Used on non-prayer screens (home, plan of life)

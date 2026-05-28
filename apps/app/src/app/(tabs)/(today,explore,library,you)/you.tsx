@@ -7,6 +7,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 
 import {
   AnimatedPressable,
+  PageFlourish,
   PageHeader,
   ScreenLayout,
   SectionDivider,
@@ -21,6 +22,11 @@ import { useActiveIntentionsCount, useActiveThanksgivingsCount } from '@/feature
 import { RuleOfLifeSections } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
+
+const flourishDark = require('../../../../assets/textures/notch_you_dark.png')
+const flourishLight = require('../../../../assets/textures/notch_you_light.png')
+const flourishAspect = 2172 / 457
+const flourishLightAspect = 2172 / 386
 
 // You tab root: who you are across time. The rule-of-life config is the page's
 // primary job (front-and-center); beneath it sits the standing interior state —
@@ -53,7 +59,13 @@ export default function YouScreen() {
 
   return (
     <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
+      <PageFlourish
+        dark={flourishDark}
+        light={flourishLight}
+        aspectRatio={flourishAspect}
+        lightAspectRatio={flourishLightAspect}
+      />
+      <YStack gap="$lg" paddingTop="$sm" paddingBottom="$lg">
         <PageHeader
           title={t('nav.you')}
           action={

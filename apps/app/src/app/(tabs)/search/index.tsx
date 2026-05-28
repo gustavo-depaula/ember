@@ -19,10 +19,15 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
+import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { flags } from '@/config/flags'
 import { ShortcutRow } from '@/features/home'
 import { SearchAutocomplete } from '@/features/practices/components'
+
+const flourishDark = require('../../../../assets/textures/notch_search_dark.png')
+const flourishLight = require('../../../../assets/textures/notch_search_light.png')
+const flourishAspect = 2172 / 478
+const flourishLightAspect = 2153 / 334
 
 // Search tab: the iOS 26 header search bar morphs out of the tab. With a query
 // it runs live corpus search (practices/books/collections); empty, it's the
@@ -44,6 +49,9 @@ export default function SearchScreen() {
         options={{
           headerTransparent: true,
           headerTitle: '',
+          // Search's nav-bar context triggers iOS 26's automatic top scroll-edge
+          // effect — a soft gradient over the notch atop the flourish. Hide it.
+          scrollEdgeEffects: { top: 'hidden' },
           headerSearchBarOptions: {
             placeholder: t('nav.searchPlaceholder'),
             onChangeText: (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
@@ -51,12 +59,21 @@ export default function SearchScreen() {
         }}
       />
       <ScreenLayout>
+        {!isSearching && (
+          <PageFlourish
+            dark={flourishDark}
+            light={flourishLight}
+            aspectRatio={flourishAspect}
+            lightAspectRatio={flourishLightAspect}
+          />
+        )}
         {isSearching ? (
           <YStack paddingVertical="$lg">
             <SearchAutocomplete query={query} />
           </YStack>
         ) : (
-          <YStack gap="$lg" paddingVertical="$lg">
+          <YStack gap="$lg" paddingTop="$sm" paddingBottom="$lg">
+            <PageHeader title={t('nav.searchPlaceholder')} />
             <Section title={t('search.sectionPray')}>
               <ShortcutRow
                 leading={ic(Church)}

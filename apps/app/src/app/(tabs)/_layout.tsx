@@ -64,7 +64,7 @@ export default function TabsLayout() {
         <NativeTabs.Trigger.Label>{t('nav.you')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
-      <NativeTabs.Trigger name="search" role="search">
+      <NativeTabs.Trigger name="search" role="search" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon sf="magnifyingglass" md="search" />
         <NativeTabs.Trigger.Label>{t('nav.searchPlaceholder')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>

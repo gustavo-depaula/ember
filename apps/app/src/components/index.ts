@@ -18,6 +18,7 @@ export {
   VineBar,
 } from './Ornament'
 export { FloralCorner, FloralVineBorder, SeasonalIcon, WatercolorIcon } from './ornaments'
+export { PageFlourish } from './PageFlourish'
 export { PageHeader } from './PageHeader'
 export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
