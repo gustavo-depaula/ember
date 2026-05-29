@@ -56,7 +56,7 @@ Por esse motivo, antes da Morte e Ressurreição de Cristo, as portas do céu n�
 
 Outra razão, afinal, por que Cristo Nosso Senhor desceu aos infernos, era a de manifestar ali Sua força e poder, como [o fez] no céu e na terra, para que de maneira absoluta "se curvasse a Seu nome todo joelho no céu, na terra e nos infernos".[^331]
 
-Nesta altura, quem deixaria, pois, de admirar a suprema bondade de Deus para com o gênero humano? Quem não se tomará de espanto ao verificar que, por amor de nós, [Cristo] não só quis sofrer uma morte cruelíssima, mas até penetrar nas maiores profundezas da terra, para dali arrancar, e introduzir na glória as almas que tanto amava?
+Nesta altura, quem deixaria, pois, de admirar a suprema bondade de Deus para com o gênero humano? Quem não se tomará de espanto ao verificar que, por amor de nós, [Cristo] não só quis sofrer uma morte crudelíssima, mas até penetrar nas maiores profundezas da terra, para dali arrancar, e introduzir na glória as almas que tanto amava?
 
 ## Ressuscitou ao terceiro dia
 

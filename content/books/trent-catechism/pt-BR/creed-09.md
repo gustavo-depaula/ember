@@ -316,7 +316,7 @@ Por isso é que Cristo nos prescreveu uma fórmula de oração em que devíamos 
 
 ### A imagem da Cabeça e dos membros
 
-Para dar uma idea desta comunhão de bens, as Escrituras recorrem muitas vezes a uma comparação muito própria com os membros do corpo humano.[^614]
+Para dar uma ideia desta comunhão de bens, as Escrituras recorrem muitas vezes a uma comparação muito própria com os membros do corpo humano.[^614]
 
 Muitos são os membros do corpo. Apesar de serem muitos, formam todavia um só corpo, no qual cada [membro] tem sua função própria, e todos não exercem a mesma atividade.
 

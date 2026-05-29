@@ -176,7 +176,7 @@ Ensinam-nos ainda os exemplos dos Santos que devemos rezar também pelas pessoas
 
 Uma tradição abonada por Santo Agostinho[^65] faz remontar aos Apóstolos o costume de se oferecer orações e sacrifícios pelos que estão fora da Igreja: para que os infiéis consigam a fé; que os idólatras se livrem de suas ímpias aberrações; que os judeus, dissipadas as trevas de seu espírito, recebam a luz da verdade; que os hereges retornem ao bom-senso, e aprendam os princípios da doutrina católica; que os cismáticos, apartados da comunhão da Santíssima Madre Igreja, voltem a unir-se com ela, pelo vínculo da verdadeira caridade.[^66]
 
-A grande eficácia destas orações, que de bom grado se fazem na intenção de tais homens, provam-na muitos exemplos de pessoas de todas as condições, que Deus diariamente arranca do poder das trevas, para as colocar no Reino de Seu Filho dileto[^67], transformando-as, de vasos de cólera, em vasos de misericórdia.[^68] E ninguém pode honestamente duvidar que para isso muito contribuem as orações dos justos.
+A grande eficácia destas orações, que de bom grado se fazem na intenção de tais homens, provam-na muitos exemplos de pessoas de todas as condições, que Deus diariamente arranca do poder das trevas, para as colocar no Reino de Seu Filho diletíssimo[^67], transformando-as, de vasos de cólera, em vasos de misericórdia.[^68] E ninguém pode honestamente duvidar que para isso muito contribuem as orações dos justos.
 
 [4] As orações que se fazem pelos defuntos, a fim de livrá-los do fogo do Purgatório, constituem uma prática já instituída pelos Apóstolos. Porém sobre este ponto já dissemos o que se fazia mister no tratado do Sacrifício da Missa.[^69]
 

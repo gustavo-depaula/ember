@@ -80,7 +80,7 @@ A Santa Igreja e os Concílios[^19] sempre ensinaram que essa é a matéria do S
 
 [8] Com efeito, melhor do que o Crisma, não podia nenhuma matéria exprimir as graças próprias deste Sacramento.
 
-O azeite doce, cuja natureza gordurosa tem a propriedade de fixar-se e difundir-se, exprime a plenitude da graça que o Espírito Santo faz transbordar de Cristo, a Cabeça, sobre os outros [que são seus membros], e a derrama "como o unguento que goteja pela barba de Aarão até a oria de sua veste".[^22] Na verdade, "Deus ungiu-O com o óleo da alegria, de preferência aos Seus companheiros".[^23] E "de Sua plenitude é que todos nós recebemos [a nossa parte]".[^24]
+O azeite doce, cuja natureza gordurosa tem a propriedade de fixar-se e difundir-se, exprime a plenitude da graça que o Espírito Santo faz transbordar de Cristo, a Cabeça, sobre os outros [que são seus membros], e a derrama "como o unguento que goteja pela barba de Aarão até a orla de sua veste".[^22] Na verdade, "Deus ungiu-O com o óleo da alegria, de preferência aos Seus companheiros".[^23] E "de Sua plenitude é que todos nós recebemos [a nossa parte]".[^24]
 
 #### b) O bálsamo
 
