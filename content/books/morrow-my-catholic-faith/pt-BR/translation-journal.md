@@ -411,7 +411,57 @@ Another exhaustive per-chapter pass. Corpus remains in excellent shape — ~180 
 ### Deliberately NOT changed (third pass)
 - **lesson-174 "um virgem"** (×3, for Joseph/Christ/St. John) vs "uma virgem" for
   Mary — the masculine form deliberately agrees with the male referent; kept.
-- Suspect Scripture refs that originate in en-US and are faithfully mirrored
-  (lesson-041 Matt. 16:16, 044 Matt. 8:11, 045 Acts 16:21, 075 Is. 1:17, 081
-  Matt. 25:41, 130 4 Kings 5:27) — not pt-BR defects.
+- Suspect Scripture refs that originate in en-US and are faithfully mirrored were
+  left for a dedicated pass — now handled in the Bible-reference sweep below.
+
+## Bible-reference sweep (13 parallel agents, all 955 citations vs the quoted text)
+
+A correctness audit of every parenthetical Scripture citation across all 195
+chapters in both languages, verifying each reference against the text it quotes.
+The book uses the **Douay-Rheims** Bible, so Vulgate/Septuagint versification is
+canonical (Psalms numbered the Douay way; 1-4 Kings = 1-2 Samuel + 1-2 Kings;
+Apocalypse = Revelation). Genuine errors fixed in **both** languages:
+
+- lesson-022 Job 12:10 → **Tob. 12:10** ("enemies to their own soul").
+- lesson-041 Matt. 16:16 → **Mark 16:16** ("he that believeth not shall be condemned").
+- lesson-045 Acts 16:21 → **Acts 14:22** ("through many tribulations").
+- lesson-047 2 Cor. 7:10,11 → **2 Cor. 5:18** ("ministry of reconciliation").
+- lesson-073 John 6:62 → **John 6:61** ("a hard saying", DR numbering).
+- lesson-075 Is. 1:17 → **Is. 1:18** ("sins as scarlet… white as snow").
+- lesson-081 first Matt. 25:41 → **Matt. 25:34** ("Come, ye blessed"; the second
+  Matt. 25:41 "Depart from me" is correct and kept).
+- lesson-098 Eccles./Ecli. 25:10 → **Ecclus./Ecli. 23:10** (swearing / naming God;
+  en-US book was Ecclesiastes — impossible, ch. 25; verse 25→23 in both).
+- lesson-114 1 Tim. 4:6 → **1 Thess. 4:6** ("circumvent his brother in business").
+- lesson-116 Ecclus./Ecli. 7:6 → **Eccles./Ecl. 7:6** ("rebuked by a wise man" is
+  Ecclesiastes, not Ecclesiasticus); 1 Cor. 15:5 → **1 Cor. 13:5** ("charity
+  thinketh no evil").
+- lesson-118 Mark 3:4-5 → **Mark 2:27-28** ("the sabbath was made for man").
+- lesson-124 Acts 2:58 → **Acts 2:38** (impossible verse; "repent and be baptized").
+- lesson-130 4 Kings 5:27 → **4 Kings 3:27** (King of Moab sacrificing his son).
+- appendix-church-year Luke 2:15 → **Luke 2:34-35** (Simeon's prophecy; 2:15 is the
+  shepherds).
+- lesson-037 "(John 14:16; 2 Cor. 1:7)" → **"(John 14:2; 2 Cor. 5:1)"** ("gone home
+  to prepare a place for men in heaven"). Both cited verses were one digit off from
+  a perfect match — John 14:2 "I go to prepare a place for you" and 2 Cor. 5:1 "a
+  house not made with hands, eternal in heaven" — the signature of OCR corruption
+  on import, not an authorial double error.
+
+Fixed in **en-US only** (pt-BR already correct):
+- lesson-088 John 3:14-15 → **1 John 3:14-15** ("everyone who hates his brother").
+- lesson-145 Ex. 33:11 → **Ezech. 33:11** ("I desire not the death of the wicked").
+- lesson-154 John 23:42-43 → **Luke 23:42-43** (John has only 21 chapters).
+- lesson-164 Job. 8:5 → **Tob. 8:5** ("we are the children of saints").
+- lesson-185 Ecc. 24:18 → **Ecclus. 24:18** ("palm tree in Cades"; Ecclesiastes
+  has no ch. 24).
+
+### Deliberately NOT changed (Bible sweep)
+- **Ecclesiasticus/Sirach off-by-one or chapter renumbering** flagged by agents in
+  lesson-169 (Ecclus. 36:26) and lesson-180 (Ecclus. 35:19/35:21) — Sirach
+  numbering varies by edition; the current values match the Challoner DR (35:21 is
+  exact), so the agents' "33:x/34:x" proposals were rejected.
+- **lesson-112 Prov. 16:5** ("the beginning of a good way is to do justice…") — this
+  is correct **Vulgate** Proverbs numbering (the Masoretic ordering differs); kept.
+- **lesson-044 Matt. 8:11** (centurion) — imprecise but within the correct passage
+  (Matt. 8:5-13); not wrong.
 

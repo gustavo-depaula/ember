@@ -21,7 +21,7 @@
 
 > (a) by not exposing working men to dangerous occasions of sin and to evil influences; (b) by giving them time to comply with their religious and family duties; and (c) by discouraging all signs of neglect of the family and squandering of earnings.
 
-4. Pay a living wage; that is, enough to support the employees and their families in decency, and enable them to educate their children properly. "Let no man circumvent his brother in business, because God is the avenger of these things" (1 Tim. 4:6).
+4. Pay a living wage; that is, enough to support the employees and their families in decency, and enable them to educate their children properly. "Let no man circumvent his brother in business, because God is the avenger of these things" (1 Thess. 4:6).
 
 > This is a right, dictated by natural justice. If the employee is forced to accept harder conditions, because the employer will give no better, injustice is committed. It is a grievous sin not to pay a just wage to employees. It is theft and a sort of murder to keep back the wages of a poor labourer. "Thou shalt not refuse the hire of the needy and the poor, but thou shalt pay him the hire of his labour ... lest he cry against thee to the Lord" (Deut. 24:14).
 

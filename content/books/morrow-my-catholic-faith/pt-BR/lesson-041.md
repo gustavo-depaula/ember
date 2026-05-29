@@ -59,7 +59,7 @@ Estas virtudes nos tornam capazes de ser bons e fazer o bem pelo amor e serviço
 
 4. Sem fé, é impossível ser salvo.
 
-> Não devemos cessar de rezar por um aumento da fé, pois é necessária para a salvação. "Aquele que não crer será condenado" (Mat. 16:16). "Sem fé, é impossível agradar a Deus" (Heb. 11:6).
+> Não devemos cessar de rezar por um aumento da fé, pois é necessária para a salvação. "Aquele que não crer será condenado" (Mar. 16:16). "Sem fé, é impossível agradar a Deus" (Heb. 11:6).
 
 5. Nossa fé deve ser firme e completa; isto é, tanto certa quanto abrangente.
 

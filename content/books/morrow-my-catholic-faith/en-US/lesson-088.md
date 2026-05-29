@@ -15,7 +15,7 @@
 
 2. Christ has given us the supreme example. Our heavenly Father Himself gives us the example, for He makes the sun to shine on the just and the unjust alike. From the cross Our Lord prayed for His enemies: "Father, forgive them, for they know not what they do."
 
-> He who loves his enemy for God's sake is like God; he is like his Father in heaven (Matt. 5:45). He follows the example of Christ, who prayed and died for His enemies. He is like the saints, who have always loved their enemies, for the love of God. "For I have given you an example, that as I have done to you, so you also should do" (John 13:15). "He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life" (John 3:14-15).
+> He who loves his enemy for God's sake is like God; he is like his Father in heaven (Matt. 5:45). He follows the example of Christ, who prayed and died for His enemies. He is like the saints, who have always loved their enemies, for the love of God. "For I have given you an example, that as I have done to you, so you also should do" (John 13:15). "He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life" (1 John 3:14-15).
 
 3. We ask God to forgive us. In the "Our Father" we say; "Forgive us our trespasses as we forgive those who trespass against us." Thus we ask God to treat us as we treat our enemies. If we do not forgive them, He will not forgive us.
 

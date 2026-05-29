@@ -122,7 +122,7 @@ d. They had power to offer sacrifice, when at the Last Supper, Christ, after ins
 
 ### 6. Forgiveness of Sins
 
-**Apostolic Church.** The Apostles were empowered by our Saviour to forgive sins: "Whose sins you shall forgive, they are forgiven them" (John 20:23). "God," says St. Paul, "hath given to us the ministry of reconciliation" (2 Cor. 7:10,11).
+**Apostolic Church.** The Apostles were empowered by our Saviour to forgive sins: "Whose sins you shall forgive, they are forgiven them" (John 20:23). "God," says St. Paul, "hath given to us the ministry of reconciliation" (2 Cor. 5:18).
 
 **Catholic Church.** The Bishops and Priests of the Catholic Church, as the inheritors of Apostolic prerogatives, exercise the ministry of reconciliation and forgive sins in the name of Christ.
 

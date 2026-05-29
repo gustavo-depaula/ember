@@ -26,7 +26,7 @@
 
 — By taking God's name in vain is meant that the name of God or the holy name of Jesus Christ is used without reverence: for example, to express surprise or anger.
 
-> "And let not the naming of God be usual in thy mouth, and meddle not with the names of saints, for thou shalt not escape free from them" (Eccles. 25:10).
+> "And let not the naming of God be usual in thy mouth, and meddle not with the names of saints, for thou shalt not escape free from them" (Ecclus. 23:10).
 
 1. Profanity is the use of irreverent language. We should not use sacred names in impatience, jest, mere surprise, or habit, with no idea of paying God honour. The habit shows a lack of proper reverence.
 

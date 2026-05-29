@@ -21,7 +21,7 @@
 
 > (a) não expondo homens trabalhadores a ocasiões perigosas de pecado e a más influências; (b) dando-lhes tempo para cumprir seus deveres religiosos e familiares; e (c) desencorajando todos os sinais de negligência da família e desperdício de ganhos.
 
-4. Pagar um salário digno; isto é, suficiente para sustentar os empregados e suas famílias em decência, e habilitá-los a educar seus filhos propriamente. "Ninguém defraude a seu irmão nos negócios, porque Deus é o vingador destas coisas" (1 Tim. 4:6).
+4. Pagar um salário digno; isto é, suficiente para sustentar os empregados e suas famílias em decência, e habilitá-los a educar seus filhos propriamente. "Ninguém defraude a seu irmão nos negócios, porque Deus é o vingador destas coisas" (1 Tess. 4:6).
 
 > Isto é um direito, ditado pela justiça natural. Se o empregado é forçado a aceitar condições mais duras, porque o empregador não dará melhores, injustiça é cometida. É um pecado grave não pagar um salário justo aos empregados. É furto e uma espécie de assassinato reter os salários de um pobre trabalhador. "Não recusarás o salário do necessitado e do pobre, mas pagar-lhe-ás o salário de seu trabalho. . . . para que não clame contra ti ao Senhor" (Deut. 24:14).
 

@@ -61,7 +61,7 @@ SEVENTH AND TWELFTH ARTICLES OF THE APOSTLES' CREED
 
 > Then wilt the unjust say these words, as I have consider the just: "These are they whom we had some time in derision, and for a parable of reproach. We fools esteemed their life madness, and their end without honour. Behold how they are numbered among the children of God, and their lot is among the saints. ... What hath pride profited us? or what advantage hath the boasting of riches brought us? All those things are passed away" (Wis. 5:3-9).
 
-3. Our Lord will place the good on His right hand, and the wicked on His left. To the just Christ will say: "Come, blessed of my Father, take possession of the kingdom prepared for you from the foundation of the world" (Matt. 25:41). To the wicked He will say: "Depart from me, accursed ones, into the everlasting fire" (Matt. 25:41).
+3. Our Lord will place the good on His right hand, and the wicked on His left. To the just Christ will say: "Come, blessed of my Father, take possession of the kingdom prepared for you from the foundation of the world" (Matt. 25:34). To the wicked He will say: "Depart from me, accursed ones, into the everlasting fire" (Matt. 25:41).
 
 > A great fear and instant realization of their sentence will fall upon the wicked. And they will say to the mountains and the rocks: "Fall upon us and hide us from the face of him who sits upon the throne, and from the wrath of the Lamb" (Apoc. 6:16). Immediately the good will go body and soul to heaven, and the wicked will fall body and soul into hell. "And these will go into everlasting punishment, but the just into everlasting life" (Matt. 25:46).
 

@@ -61,7 +61,7 @@ SÉTIMO E DÉCIMO SEGUNDO ARTIGOS DO CREDO DOS APÓSTOLOS
 
 > Então os injustos dirão estas palavras, como considerei os justos: "Estes são aqueles que tivemos algum tempo em zombaria, e para parábola de opróbrio. Nós tolos estimávamos sua vida loucura, e seu fim sem honra. Eis como são numerados entre os filhos de Deus, e sua sorte está entre os santos. . . . Que nos aproveitou o orgulho? ou que vantagem nos trouxe a ostentação das riquezas? Todas aquelas coisas passaram" (Sab. 5:3-9).
 
-3. Nosso Senhor colocará os bons à Sua direita, e os ímpios à Sua esquerda. Aos justos Cristo dirá: "Vinde, benditos de Meu Pai, possuí o reino preparado para vós desde a fundação do mundo" (Mat. 25:41). Aos ímpios Ele dirá: "Apartai-vos de Mim, malditos, para o fogo eterno" (Mat. 25:41).
+3. Nosso Senhor colocará os bons à Sua direita, e os ímpios à Sua esquerda. Aos justos Cristo dirá: "Vinde, benditos de Meu Pai, possuí o reino preparado para vós desde a fundação do mundo" (Mat. 25:34). Aos ímpios Ele dirá: "Apartai-vos de Mim, malditos, para o fogo eterno" (Mat. 25:41).
 
 > Um grande medo e realização instantânea de sua sentença cairá sobre os ímpios. E dirão às montanhas e às rochas: "Caí sobre nós e escondei-nos da face d'Aquele que está assentado sobre o trono, e da ira do Cordeiro" (Apoc. 6:16). Imediatamente os bons irão corpo e alma ao céu, e os ímpios cairão corpo e alma no inferno. "E estes irão para o castigo eterno, mas os justos para a vida eterna" (Mat. 25:46).
 

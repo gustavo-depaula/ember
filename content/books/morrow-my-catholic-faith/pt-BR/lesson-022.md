@@ -71,7 +71,7 @@ Terceiro, o pecador deve plenamente consentir a isso. — Deve fazê-lo de sua p
 
 — Pecado mortal é um grande mal, o maior mal do mundo, um mal maior que doença, pobreza, ou guerra, porque nos separa de Deus.
 
-> "Mas os que cometem pecado e iniquidade são inimigos de sua própria alma" (Jó 12:10).
+> "Mas os que cometem pecado e iniquidade são inimigos de sua própria alma" (Tob. 12:10).
 
 1. É uma rebelião contra e desprezo de Deus, a mais negra ingratidão para com Ele.
 

@@ -46,7 +46,7 @@
 
 2. The heathen, with perverted ideas, offered human sacrifices to their idols.
 
-> The King of Moab (4 Kings 5:27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10:20).
+> The King of Moab (4 Kings 3:27) offered his own son as a sacrifice, to obtain help against the Israelites. As St. Paul says, "What the Gentiles sacrifice, they sacrifice to devils and not to God" (1 Cor. 10:20).
 
 ![](../images/lesson-130c.webp)
 

@@ -19,14 +19,14 @@
 
 2. Adulação consiste em louvar uma pessoa imoderadamente, contra a própria convicção, por um motivo ulterior. Um adulador mente para assegurar uma vantagem para si mesmo.
 
-> "O homem que fala a seu amigo com palavras lisonjeiras e dissimuladas estende uma rede para seus pés" (Prov. 29:5). "Melhor é ser repreendido por um homem sábio do que ser enganado pela adulação de tolos" (Ecli. 7:6). "Ai de vós que chamais o mal bem!" (Is. 5:20). Aduladores criticam e ridicularizam um homem pelas costas, mas louvam-no diante de seu rosto.
+> "O homem que fala a seu amigo com palavras lisonjeiras e dissimuladas estende uma rede para seus pés" (Prov. 29:5). "Melhor é ser repreendido por um homem sábio do que ser enganado pela adulação de tolos" (Ecl. 7:6). "Ai de vós que chamais o mal bem!" (Is. 5:20). Aduladores criticam e ridicularizam um homem pelas costas, mas louvam-no diante de seu rosto.
 
 
 **Quando uma pessoa comete o pecado de juízo temerário?**
 
 — Uma pessoa comete o pecado de juízo temerário quando, sem razão suficiente, crê algo prejudicial ao caráter de outrem.
 
-> Pessoas julgam outras por si mesmas; aquele que não é mau menos provavelmente pensará mal rapidamente de outros; aquele que é pecador interpretará as ações de outros de modo mau de imediato. O juízo de alguém sobre outros é um reflexo de seu próprio caráter. "A caridade não pensa mal" (1 Cor. 15:5). Uma pessoa justa, mesmo quando vê o mal, tenta evitar pensar nele, e deixa o juízo a Deus. Uma pessoa é culpada de suspeita temerária quando suspeita em fundamentos insuficientes. "Não julgueis, para que não sejais julgados. Pois com o juízo com que julgais, sereis julgados" (Mat. 7:1-2).
+> Pessoas julgam outras por si mesmas; aquele que não é mau menos provavelmente pensará mal rapidamente de outros; aquele que é pecador interpretará as ações de outros de modo mau de imediato. O juízo de alguém sobre outros é um reflexo de seu próprio caráter. "A caridade não pensa mal" (1 Cor. 13:5). Uma pessoa justa, mesmo quando vê o mal, tenta evitar pensar nele, e deixa o juízo a Deus. Uma pessoa é culpada de suspeita temerária quando suspeita em fundamentos insuficientes. "Não julgueis, para que não sejais julgados. Pois com o juízo com que julgais, sereis julgados" (Mat. 7:1-2).
 
 
 **Quando uma pessoa comete o pecado de detratação?**

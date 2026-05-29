@@ -51,7 +51,7 @@
 
 3. Os discípulos retornaram a Jerusalém com grande alegria. Seu Mestre havia retornado ao céu em glória, e Sua chegada lá havia aberto a Seus seguidores as portas celestiais.
 
-> Havia merecido para os homens graça infinita, de modo que eram agora capazes de atingir a amizade do Próprio Deus. Cristo o Rei havia ido para casa preparar um lugar para os homens no céu (João 14:16; 2 Cor. 1:7). Celebramos a festa da Ascensão quarenta dias após a Páscoa, na Quinta-feira da Ascensão.
+> Havia merecido para os homens graça infinita, de modo que eram agora capazes de atingir a amizade do Próprio Deus. Cristo o Rei havia ido para casa preparar um lugar para os homens no céu (João 14:2; 2 Cor. 5:1). Celebramos a festa da Ascensão quarenta dias após a Páscoa, na Quinta-feira da Ascensão.
 
 
 **O que queremos dizer quando dizemos que Cristo está assentado à direita de Deus, o Pai Todo-Poderoso?**

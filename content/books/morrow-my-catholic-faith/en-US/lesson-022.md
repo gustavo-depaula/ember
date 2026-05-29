@@ -71,7 +71,7 @@ Third, the sinner must fully consent to it. - He must do it of his own free will
 
 — Mortal sin is a great evil, the greatest evil in the world, a greater evil than disease, poverty, or war, because it separates us from God.
 
-> "But they that commit sin and iniquity are enemies to their own soul" (Job. 12:10).
+> "But they that commit sin and iniquity are enemies to their own soul" (Tob. 12:10).
 
 1. It is a rebellion against and contempt of God, the blackest ingratitude towards Him.
 

@@ -13,7 +13,7 @@
 
 1. The sacrament of Baptism was instituted by Christ at His own Baptism, and commanded at His Ascension.
 
-> He said to the Apostles: "Going therefore make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Ghost" (Matt. 28:19). The Apostles obeyed His command on the very day of Pentecost. In answer to the question of the multitudes, "What shall we do?" after Peter's first sermon, Peter said, "Repent, and be baptised every one of you in the name of Jesus Christ, for the forgiveness of your sins" (Acts 2:58). About 3000 persons were baptised.
+> He said to the Apostles: "Going therefore make disciples of all nations, baptising them in the name of the Father, and of the Son, and of the Holy Ghost" (Matt. 28:19). The Apostles obeyed His command on the very day of Pentecost. In answer to the question of the multitudes, "What shall we do?" after Peter's first sermon, Peter said, "Repent, and be baptised every one of you in the name of Jesus Christ, for the forgiveness of your sins" (Acts 2:38). About 3000 persons were baptised.
 
 2. The matter and form of the sacrament consist in the ablution with water together with the pronouncing of the words: "I baptise thee in the name of the Father, and of the Son, and of the Holy Ghost"
 

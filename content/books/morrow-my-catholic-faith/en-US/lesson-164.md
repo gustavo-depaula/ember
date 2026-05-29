@@ -21,7 +21,7 @@
 
 3. The spouses should always live together, and have a real Christian family life. They must however remember that all marital relations must be in accord with divine and natural law in the "faithfulness of chastity."
 
-> Their affection should not be purely human, but holy and supernatural, in accordance with the purpose of their state, which was instituted by God. "For we are the children of saints: and we must not be joined together like heathens that know not God" (Job. 8:5).
+> Their affection should not be purely human, but holy and supernatural, in accordance with the purpose of their state, which was instituted by God. "For we are the children of saints: and we must not be joined together like heathens that know not God" (Tob. 8:5).
 
 4. For its type and models marriage has the Mystical Union between Christ and His Church. The husband should love his wife as Christ loves the Church, with a holy and supernatural love, as his own self. The wife should love and obey her husband as the head of the family.
 
