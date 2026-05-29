@@ -45,7 +45,7 @@
 
 3. The disciples returned to Jerusalem with great joy. Their Master had returned to heaven in glory, and His arrival there had opened to His followers the heavenly gates.
 
-> He had earned for men infinite grace, so that they were now able to attain the friendship of God Himself. Christ the King had gone home to prepare a place for men in heaven (John 14:16; 2 Cor. 1:7). We celebrate the feast of the Ascension forty days after Easter, on Ascension Thursday.
+> He had earned for men infinite grace, so that they were now able to attain the friendship of God Himself. Christ the King had gone home to prepare a place for men in heaven (John 14:2; 2 Cor. 5:1). We celebrate the feast of the Ascension forty days after Easter, on Ascension Thursday.
 
 
 **What do we mean when we say that Christ sits at the right hand of God, the Father Almighty?**

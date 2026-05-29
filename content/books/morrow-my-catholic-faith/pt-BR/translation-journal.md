@@ -441,6 +441,11 @@ Apocalypse = Revelation). Genuine errors fixed in **both** languages:
 - lesson-130 4 Kings 5:27 → **4 Kings 3:27** (King of Moab sacrificing his son).
 - appendix-church-year Luke 2:15 → **Luke 2:34-35** (Simeon's prophecy; 2:15 is the
   shepherds).
+- lesson-037 "(John 14:16; 2 Cor. 1:7)" → **"(John 14:2; 2 Cor. 5:1)"** ("gone home
+  to prepare a place for men in heaven"). Both cited verses were one digit off from
+  a perfect match — John 14:2 "I go to prepare a place for you" and 2 Cor. 5:1 "a
+  house not made with hands, eternal in heaven" — the signature of OCR corruption
+  on import, not an authorial double error.
 
 Fixed in **en-US only** (pt-BR already correct):
 - lesson-088 John 3:14-15 → **1 John 3:14-15** ("everyone who hates his brother").
@@ -457,9 +462,6 @@ Fixed in **en-US only** (pt-BR already correct):
   exact), so the agents' "33:x/34:x" proposals were rejected.
 - **lesson-112 Prov. 16:5** ("the beginning of a good way is to do justice…") — this
   is correct **Vulgate** Proverbs numbering (the Masoretic ordering differs); kept.
-- **lesson-037 "(John 14:16; 2 Cor. 1:7)"** for "gone home to prepare a place" —
-  the relevant verse is John 14:2, but this is a two-reference citation that
-  couldn't be confidently rewritten; left for human review.
 - **lesson-044 Matt. 8:11** (centurion) — imprecise but within the correct passage
   (Matt. 8:5-13); not wrong.
 
