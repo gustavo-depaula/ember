@@ -36,7 +36,7 @@ Os párocos ensinarão, outrossim, quais são as partes deste Sacramento, digamo
 
 Esta matéria assinala, com muita propriedade, o efeito intrínseco que o Sacramento produz na alma. Pois, assim como o azeite doce serve, ótimamente, para mitigar as dores do corpo, assim também a virtude do Sacramento atenua a dor e aflição da alma.
 
-O azeite tem ainda por efeito restituir a saúde, despertar alegria, alimentar o clarão e a luz; presta-se, também, para revigorar o corpo aquebrantado pela fadiga.
+O azeite tem ainda por efeito restituir a saúde, despertar alegria, alimentar o clarão e a luz; presta-se, também, para revigorar o corpo alquebrado pela fadiga.
 
 Ora, todas estas qualidades [do azeite] simbolizam os efeitos que, por virtude divina, produz no enfermo a administração deste Sacramento. Tanto basta acerca da matéria.
 

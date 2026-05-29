@@ -341,7 +341,7 @@ Esta é a doutrina que a Igreja sempre manteve como certa. Pode, por sua vez, se
 
 Com efeito, em sua natureza normal, o homem sente a máxima repugnância em comer carne humana ou tomar sangue humano. Foi, portanto, uma traça de infinita sabedoria, que Deus nos fizesse administrar o Santíssimo Corpo e Sangue nas espécies de pão e de vinho, que são os mais acessíveis e mais deleitáveis de nossos alimentos cotidianos.
 
-Aqui entram também em consideração duas outras vantagens. A primeira é ficarmos a coberto de alcivosas acusações, a que dificilmente poderíamos escapar, se os incrédulos nos vissem comer a Carne de Nosso Senhor em sua forma natural.
+Aqui entram também em consideração duas outras vantagens. A primeira é ficarmos a coberto de aleivosas acusações, a que dificilmente poderíamos escapar, se os incrédulos nos vissem comer a Carne de Nosso Senhor em sua forma natural.
 
 A segunda é que essa maneira de tomar o Corpo e o Sangue de Nosso Senhor promove, em grau eminente, a fé de nossos próprios corações, porque não podemos averiguar, com os sentidos, a realidade de Sua presença. A isto se refere aquela frase tão conhecida de São Gregório: “Não há lugar para merecimento, onde a certeza provém da própria razão humana”.
 

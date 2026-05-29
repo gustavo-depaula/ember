@@ -150,7 +150,7 @@ Para o conseguirmos na realidade, as Sagradas Escrituras, como já foi dito[^374
 
 Ora, estando quase que arraigado no coração dos homens o instinto de vingança, faça o pároco todo o possível, não só para ensinar que o cristão deve perdoar e esquecer as injúrias, como também por deixar os fiéis plenamente persuadidos de tal obrigação.
 
-Desse ponto falam muito os escritores eclesiásticos. Deve o pároco consultá-los, a fim de poder quebrar a pertinácia daqueles que se obstinaram e empedernecidos no desejo de vingança. Tenha sempre à mão aqueles fortíssimos e oportuníssimos argumentos que os Santos Padres usavam com religiosa convicção, quando tratavam da presente matéria.
+Desse ponto falam muito os escritores eclesiásticos. Deve o pároco consultá-los, a fim de poder quebrar a pertinácia daqueles que se obstinaram e empederniram no desejo de vingança. Tenha sempre à mão aqueles fortíssimos e oportuníssimos argumentos que os Santos Padres usavam com religiosa convicção, quando tratavam da presente matéria.
 
 ### 2. Motivação dessa caridade
 

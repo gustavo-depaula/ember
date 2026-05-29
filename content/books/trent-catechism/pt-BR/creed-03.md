@@ -92,7 +92,7 @@ A história do natal de Cristo foi amplamente descrita pelo santo Evangelista.[^
 
 ## Frutos deste mistério
 
-[11] Como estes mistérios "foram escritos para nosso ensinamento"[^243], faça o pároco por inculá-los profundamente no espírito e no coração dos fiéis. Antes de tudo, para que a recordação de tão grande benefício os leve a render graças a Deus, que é o Seu autor. Depois, para que tenham diante dos olhos, e tratem de imitar este egrégio e singular exemplo de humildade.
+[11] Como estes mistérios "foram escritos para nosso ensinamento"[^243], faça o pároco por incuti-los profundamente no espírito e no coração dos fiéis. Antes de tudo, para que a recordação de tão grande benefício os leve a render graças a Deus, que é o Seu autor. Depois, para que tenham diante dos olhos, e tratem de imitar este egrégio e singular exemplo de humildade.
 
 Realmente, que pode haver de mais útil e mais próprio, para sofrear nosso orgulho e arrogância espiritual, do que considerar muitas vezes como Deus Se humilha, a ponto de tomar sobre Si a fraqueza e fragilidade humana; como Deus Se fez homem, e põe a serviço do homem Sua soberana e infinita majestade, a cujo aceno — no dizer da Escritura — as colunas do céu vacilam e tremem de pavor[^244]; como veio afinal nascer na terra Aquele, a quem os Anjos adoram nos céus.[^245]
 

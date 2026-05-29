@@ -50,7 +50,7 @@ Portanto, o que vai fazer oração, ponha-se cheio de fé e confiança diante de
 
 [4] Como derradeiro termo da Oração Dominical, o "amém" encerra, como que em embrião, muitas das verdades e sugestões que acabamos de apresentar.[^529]
 
-Com efeito, esse termo hebraico era tão frequente na boca do Salvador, que ao Espírito Santo aprouve, por isso mesmo, conservá-lo na Igreja de Deus. Ela quer dizer, mais ou menos, o seguinte: Fica ciente de que as tuas orações foram atendidas.
+Com efeito, esse termo hebraico era tão frequente na boca do Salvador, que ao Espírito Santo aprouve, por isso mesmo, conservá-la na Igreja de Deus. Ela quer dizer, mais ou menos, o seguinte: Fica ciente de que as tuas orações foram atendidas.
 
 ### Resposta de Deus
 
