@@ -7,9 +7,11 @@ import { PracticeFlowView } from './PracticeFlowView'
 export function PracticeFlow({
   practiceId,
   programDay: programDayProp,
+  slotId,
 }: {
   practiceId: string
   programDay?: number
+  slotId?: string
 }) {
   const { selectOverrides, handleSelectOverride } = useSelectOverrides(practiceId, programDayProp)
   const contentQuery = usePracticeContent(practiceId, programDayProp, selectOverrides)
@@ -17,6 +19,7 @@ export function PracticeFlow({
     practiceId,
     programDayProp,
     contentQuery.data?.renderedSections ?? [],
+    slotId,
   )
   const thresholdElapsed = useMinElapsed(900)
 

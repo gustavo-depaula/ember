@@ -52,6 +52,7 @@ export function usePracticeCompletion(
   practiceId: string,
   programDayProp: number | undefined,
   renderedSections: RenderedSection[],
+  slotId?: string,
 ) {
   const { t } = useTranslation()
   const router = useRouter()
@@ -65,7 +66,7 @@ export function usePracticeCompletion(
 
   const handleComplete = useCallback(() => {
     const today = format(new Date(), 'yyyy-MM-dd')
-    const subId = parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
+    const subId = slotId ?? parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
 
     logCompletionMutation.mutate(
       { practiceId, date: today, subId },
@@ -110,6 +111,7 @@ export function usePracticeCompletion(
     )
   }, [
     practiceId,
+    slotId,
     currentSlot?.id,
     logCompletionMutation,
     trackDefs,

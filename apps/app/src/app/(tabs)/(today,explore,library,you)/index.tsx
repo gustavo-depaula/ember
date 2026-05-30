@@ -54,6 +54,7 @@ import {
   useSlots,
   useToggleSlot,
 } from '@/features/plan-of-life'
+import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -102,7 +103,9 @@ export default function HomeScreen() {
   const restartNeededIds = useRestartNeededPractices()
 
   const handlePressItem = useCallback(
-    (practiceId: string) => {
+    (item: ChecklistItem) => {
+      const practiceId = item.practice_id
+      const slotId = parseSlotKey(item.id).slotId
       const practice = useEventStore.getState().practices.get(practiceId)
       const resolvedId = practice?.active_variant ?? practiceId
       const manifest = getManifest(resolvedId)
@@ -110,7 +113,10 @@ export default function HomeScreen() {
         router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
         return
       }
-      router.push({ pathname: '/pray/[practiceId]', params: { practiceId: resolvedId } })
+      router.push({
+        pathname: '/pray/[practiceId]',
+        params: { practiceId: resolvedId, slotId },
+      })
     },
     [router],
   )
