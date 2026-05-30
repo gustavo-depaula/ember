@@ -7,7 +7,7 @@ import {
   setAutoPinCount,
   unfollowCreator,
 } from '@/db/repositories/creators'
-import { getRecentForFollowed } from '@/db/repositories/feedItems'
+import { getInProgressFeedItems, getRecentForFollowed } from '@/db/repositories/feedItems'
 
 import { refreshCreator } from './feeds/fetcher'
 import { type PinResult, pinFeedItem, unpinFeedItem } from './pinning/feedItemPin'
@@ -63,6 +63,15 @@ export function useLatestForFollowed(limit = 8) {
   return useQuery({
     queryKey: ['creators', 'latest', limit],
     queryFn: () => getRecentForFollowed(limit),
+    staleTime: 30_000,
+  })
+}
+
+/** Started-but-unfinished feed items for the Library "Continue" strip. */
+export function useInProgressMedia(limit = 12) {
+  return useQuery({
+    queryKey: ['creators', 'in-progress', limit],
+    queryFn: () => getInProgressFeedItems(limit),
     staleTime: 30_000,
   })
 }

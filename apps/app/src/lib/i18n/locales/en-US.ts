@@ -7,13 +7,22 @@ export default {
     searchPlaceholder: 'Search',
   },
   library: {
+    tagline: 'Your shelf',
+    continue: 'Continue',
+    savedBooks: 'Saved books',
+    savedPrayers: 'Saved prayers & practices',
+    savedCollections: 'Saved collections',
+    voices: 'Voices you follow',
+    holyCards: 'Holy cards',
+    emptyTitle: 'Your shelf is bare',
+    emptyBody:
+      'Pin a book, prayer, or collection to keep it here for offline — and follow the voices you love.',
     saints: 'Saints',
     saintsHint: 'Your collection of holy cards',
     creators: 'Creators',
     creatorsHint: 'Voices you follow',
     browse: 'Browse the library',
     browseHint: 'Books, prayers & collections',
-    soon: 'Your shelf, pinned books, and saved prayers will gather here.',
   },
   you: {
     rule: 'Rule of Life',

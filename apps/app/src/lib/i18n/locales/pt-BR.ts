@@ -7,13 +7,22 @@ export default {
     searchPlaceholder: 'Buscar',
   },
   library: {
+    tagline: 'Sua estante',
+    continue: 'Continuar',
+    savedBooks: 'Livros salvos',
+    savedPrayers: 'Orações e práticas salvas',
+    savedCollections: 'Coleções salvas',
+    voices: 'Vozes que você segue',
+    holyCards: 'Santinhos',
+    emptyTitle: 'Sua estante está vazia',
+    emptyBody:
+      'Fixe um livro, oração ou coleção para guardá-lo aqui para uso offline — e siga as vozes que você ama.',
     saints: 'Santos',
     saintsHint: 'Sua coleção de santinhos',
     creators: 'Criadores',
     creatorsHint: 'Vozes que você segue',
     browse: 'Explorar a biblioteca',
     browseHint: 'Livros, orações e coleções',
-    soon: 'Sua estante, livros fixados e orações salvas se reunirão aqui.',
   },
   you: {
     rule: 'Plano de Vida',

@@ -196,6 +196,24 @@ export async function getRecentFeedItems(limit = 8): Promise<FeedItemRow[]> {
   return rows.map(rowToItem)
 }
 
+/**
+ * Feed items the user has started but not finished — drives the Library's
+ * "Continue" strip. Joins media_progress (the playback cursor) to feed_items so
+ * a single query returns everything needed to render and route the card. A
+ * `position_s > 5` floor skips items barely touched (an accidental tap), and
+ * `completed_at IS NULL` drops finished ones. Newest activity first.
+ */
+export async function getInProgressFeedItems(limit = 12): Promise<FeedItemRow[]> {
+  const rows = await getDb().getAllAsync<Row>(
+    `SELECT fi.* FROM feed_items fi
+     INNER JOIN media_progress mp ON mp.item_id = fi.item_id
+     WHERE mp.completed_at IS NULL AND mp.position_s > 5
+     ORDER BY mp.updated_at DESC LIMIT ?`,
+    [limit],
+  )
+  return rows.map(rowToItem)
+}
+
 export async function getRecentForFollowed(limit = 8): Promise<FeedItemRow[]> {
   const rows = await getDb().getAllAsync<Row>(
     `SELECT fi.* FROM feed_items fi
