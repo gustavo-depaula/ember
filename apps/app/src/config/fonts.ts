@@ -1,7 +1,5 @@
 import { createFont } from 'tamagui'
 
-import { flags } from './flags'
-
 export const displayFont = createFont({
   family: 'UnifrakturMaguntia',
   size: {
@@ -125,28 +123,12 @@ export const scriptFont = createFont({
 })
 
 // Rung 6 — the sacred-title voice: warm, mixed-case, manuscript-flavored
-// headlines (feast/season names, hour titles, sacred screen heroes). Both
-// medievalist faces are loaded; `flags.sacredTitleFace` picks which backs the
-// $title token so they can be judged on real screens. Scale defines 1–7 to
-// cover hero sizes; leading is display-tight since these set large.
-const isImfell = flags.sacredTitleFace === 'imfell'
-const titleNormal = isImfell ? 'IMFellEnglish_400Regular' : 'Junicode'
-
-// Junicode ships the full normal-width weight range (Light→Bold + italics), all
-// bundled locally. IM FELL English ships only Regular + Italic, so every weight
-// falls back to those when that face is selected.
-const titleFace = isImfell
-  ? { 400: { normal: 'IMFellEnglish_400Regular', italic: 'IMFellEnglish_400Regular_Italic' } }
-  : {
-      300: { normal: 'Junicode_Light', italic: 'Junicode_LightItalic' },
-      400: { normal: 'Junicode', italic: 'Junicode_Italic' },
-      500: { normal: 'Junicode_Medium', italic: 'Junicode_MediumItalic' },
-      600: { normal: 'Junicode_SemiBold', italic: 'Junicode_SemiBoldItalic' },
-      700: { normal: 'Junicode_Bold', italic: 'Junicode_BoldItalic' },
-    }
-
+// headlines (feast/season names, hour titles, sacred screen heroes). Junicode
+// ships the full normal-width weight range (Light→Bold + italics), all bundled
+// locally. Scale defines 1–7 to cover hero sizes; leading is display-tight
+// since these set large.
 export const titleFont = createFont({
-  family: titleNormal,
+  family: 'Junicode',
   size: {
     1: 16,
     2: 20,
@@ -175,5 +157,11 @@ export const titleFont = createFont({
     7: '700',
     true: '400',
   },
-  face: titleFace,
+  face: {
+    300: { normal: 'Junicode_Light', italic: 'Junicode_LightItalic' },
+    400: { normal: 'Junicode', italic: 'Junicode_Italic' },
+    500: { normal: 'Junicode_Medium', italic: 'Junicode_MediumItalic' },
+    600: { normal: 'Junicode_SemiBold', italic: 'Junicode_SemiBoldItalic' },
+    700: { normal: 'Junicode_Bold', italic: 'Junicode_BoldItalic' },
+  },
 })

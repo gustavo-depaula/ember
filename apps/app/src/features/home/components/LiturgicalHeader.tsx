@@ -5,6 +5,7 @@ import { Pressable } from 'react-native'
 import { Text, useThemeName, View, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { useSeasonAccentColor } from '@/hooks/useSeasonAccentColor'
 import {
   getLiturgicalDayName,
   type LiturgicalCalendarForm,
@@ -48,6 +49,7 @@ export function LiturgicalHeader({
 
   const themeName = useThemeName()
   const isDark = themeName.startsWith('dark')
+  const seasonColor = useSeasonAccentColor(season, date)
 
   const router = useRouter()
 
@@ -73,8 +75,14 @@ export function LiturgicalHeader({
         accessibilityLabel={t('a11y.viewCalendar')}
         hitSlop={8}
       >
-        {/* Sanctioned rung-7 peak: the Fraktur season hero, in the seasonal accent. */}
-        <Text fontFamily="$display" fontSize={'$6' as any} color="$accent" paddingVertical="$sm">
+        {/* Sanctioned rung-7 peak: the Fraktur season hero. The one element still
+            tinted by the liturgical season (the rest of the app is season-neutral). */}
+        <Text
+          fontFamily="$display"
+          fontSize={'$6' as any}
+          color={seasonColor}
+          paddingVertical="$sm"
+        >
           {seasonDisplay}
         </Text>
       </Pressable>

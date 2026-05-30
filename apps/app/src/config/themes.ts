@@ -1,3 +1,5 @@
+import type { LiturgicalSeason } from '@/lib/liturgical'
+
 export const lightTheme = {
   background: '#FFFFFF',
   backgroundSurface: '#F5F5F5',
@@ -41,7 +43,9 @@ export const darkTheme = {
   accentHover: '#B8902A',
   accentSubtle: '#6E5C32',
   borderColor: '#5C5248',
-  colorBurgundy: '#C75B6B',
+  // Liturgical rubric red on the near-black page — a clear missal red, not a muddy
+  // rose, so rubrics and burgundy labels read legibly in dark mode.
+  colorBurgundy: '#D45A4C',
   colorMutedBlue: '#7A9EC8',
   colorGreen: '#52A878',
   colorDestructive: '#D4584E',
@@ -80,56 +84,18 @@ export const illuminatedTheme = {
   colorBurgundy: '#EAAAB2',
 }
 
-export const liturgicalSubThemes = {
-  advent: { accent: '#5B2C6F', accentSubtle: '#9B7DB8' },
-  christmas: { accent: '#C9A84C', accentSubtle: '#D4C088' },
-  epiphany: { accent: '#2D6A4F', accentSubtle: '#7AAF94' },
-  septuagesima: { accent: '#5B2C6F', accentSubtle: '#9B7DB8' },
-  lent: {
-    accent: '#7D3C98',
-    accentSubtle: '#B088C8',
-    wallEssential2: '#7D3C98',
-    wallFull: '#5B2C6F',
-    wallHigh: '#7D5A98',
-    wallPerfect: '#5B2C6F',
-  },
-  easter: {
-    accent: '#C9A84C',
-    accentSubtle: '#D4C088',
-    wallEssential2: '#C9A84C',
-    wallFull: '#B8962A',
-    wallHigh: '#C9A84C',
-    wallPerfect: '#8B6914',
-  },
-  ordinary: { accent: '#2D6A4F', accentSubtle: '#7AAF94' },
-  'post-pentecost': { accent: '#2D6A4F', accentSubtle: '#7AAF94' },
-  martyr: { accent: '#922B21', accentSubtle: '#C87070' },
-  rose: { accent: '#C27083', accentSubtle: '#D8A0AE' },
-}
-
-export const liturgicalSubThemesDark = {
-  advent: { accent: '#7B3E9A', accentSubtle: '#4A2860' },
-  christmas: { accent: '#D4A63A', accentSubtle: '#5C4D2A' },
-  epiphany: { accent: '#3A8A5A', accentSubtle: '#1E4A32' },
-  septuagesima: { accent: '#7B3E9A', accentSubtle: '#4A2860' },
-  lent: {
-    accent: '#9B50B8',
-    accentSubtle: '#4A2860',
-    wallEssential2: '#8B48A8',
-    wallFull: '#6A3080',
-    wallHigh: '#8050A0',
-    wallPerfect: '#9B50B8',
-  },
-  easter: {
-    accent: '#D4A63A',
-    accentSubtle: '#5C4D2A',
-    wallEssential2: '#C49A30',
-    wallFull: '#A88020',
-    wallHigh: '#C49A30',
-    wallPerfect: '#D4A63A',
-  },
-  ordinary: { accent: '#3A8A5A', accentSubtle: '#1E4A32' },
-  'post-pentecost': { accent: '#3A8A5A', accentSubtle: '#1E4A32' },
-  martyr: { accent: '#B83828', accentSubtle: '#5A1A14' },
-  rose: { accent: '#D98A9A', accentSubtle: '#5A3040' },
+// The app no longer re-themes itself by liturgical season — the only thing that
+// still shifts color by season is the Fraktur season hero in the home
+// LiturgicalHeader. This is its palette: the vestment-ish accent per season
+// (plus `rose` for Gaudete / Laetare), in light and dark.
+export const seasonalAccent: Record<LiturgicalSeason | 'rose', { light: string; dark: string }> = {
+  advent: { light: '#5B2C6F', dark: '#7B3E9A' },
+  christmas: { light: '#C9A84C', dark: '#D4A63A' },
+  epiphany: { light: '#2D6A4F', dark: '#3A8A5A' },
+  septuagesima: { light: '#5B2C6F', dark: '#7B3E9A' },
+  lent: { light: '#7D3C98', dark: '#9B50B8' },
+  easter: { light: '#C9A84C', dark: '#D4A63A' },
+  ordinary: { light: '#2D6A4F', dark: '#3A8A5A' },
+  'post-pentecost': { light: '#2D6A4F', dark: '#3A8A5A' },
+  rose: { light: '#C27083', dark: '#D98A9A' },
 }

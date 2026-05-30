@@ -19,10 +19,6 @@ import {
   EBGaramond_700Bold,
   EBGaramond_700Bold_Italic,
 } from '@expo-google-fonts/eb-garamond'
-import {
-  IMFellEnglish_400Regular,
-  IMFellEnglish_400Regular_Italic,
-} from '@expo-google-fonts/im-fell-english'
 import { LibreBaskerville_400Regular } from '@expo-google-fonts/libre-baskerville'
 import { Lora_400Regular } from '@expo-google-fonts/lora'
 import { Merriweather_400Regular } from '@expo-google-fonts/merriweather'
@@ -38,7 +34,7 @@ import { useEffect, useState } from 'react'
 import { Appearance, AppState, InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
-import { TamaguiProvider, Theme } from 'tamagui'
+import { TamaguiProvider } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
 import { BootLoadingScreen } from '@/components/BootLoadingScreen'
@@ -65,7 +61,6 @@ import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
 import { useExpirySweep } from '@/features/movements'
 import { pinnedHashes, rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
-import { useLiturgicalTheme } from '@/hooks/useLiturgicalTheme'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
@@ -126,8 +121,6 @@ export default function RootLayout() {
     LibreBaskerville_400Regular,
     SourceSerif4_400Regular,
     Merriweather_400Regular,
-    IMFellEnglish_400Regular,
-    IMFellEnglish_400Regular_Italic,
     UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
     Junicode: require('../../assets/fonts/Junicode.ttf'),
     Junicode_Italic: require('../../assets/fonts/Junicode-Italic.ttf'),
@@ -310,7 +303,6 @@ export default function RootLayout() {
   }, [coreReady])
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
-  const { themeName } = useLiturgicalTheme()
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
   // Paint the native root view so it isn't the default white — otherwise it
@@ -330,10 +322,7 @@ export default function RootLayout() {
   if (!ready) {
     return (
       <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-        {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
-        <Theme name={themeName as any}>
-          <BootLoadingScreen status={bootStatus} />
-        </Theme>
+        <BootLoadingScreen status={bootStatus} />
       </TamaguiProvider>
     )
   }
@@ -353,24 +342,21 @@ export default function RootLayout() {
         <QueryClientProvider client={queryClient}>
           <CrossTabSync />
           <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
-            {/* biome-ignore lint/suspicious/noExplicitAny: Tamagui sub-theme names are dynamically composed */}
-            <Theme name={themeName as any}>
-              <StatusBar hidden />
-              <ThemeProvider value={navTheme}>
-                <Stack
-                  screenOptions={{
-                    headerShown: false,
-                    animation: 'fade',
-                    animationDuration: 200,
-                    contentStyle: { backgroundColor: rootBg },
-                  }}
-                >
-                  <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
-                </Stack>
-              </ThemeProvider>
-              <FloatingOfflineChip />
-              <ConfirmHost />
-            </Theme>
+            <StatusBar hidden />
+            <ThemeProvider value={navTheme}>
+              <Stack
+                screenOptions={{
+                  headerShown: false,
+                  animation: 'fade',
+                  animationDuration: 200,
+                  contentStyle: { backgroundColor: rootBg },
+                }}
+              >
+                <Stack.Screen name="(tabs)" options={{ title: i18n.t('a11y.home') }} />
+              </Stack>
+            </ThemeProvider>
+            <FloatingOfflineChip />
+            <ConfirmHost />
           </TamaguiProvider>
         </QueryClientProvider>
       </KeyboardProvider>

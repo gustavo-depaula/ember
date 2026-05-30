@@ -1,13 +1,7 @@
 import { createTamagui } from 'tamagui'
 
 import { bodyFont, displayFont, headingFont, scriptFont, titleFont } from './fonts'
-import {
-  darkTheme,
-  illuminatedTheme,
-  lightTheme,
-  liturgicalSubThemes,
-  liturgicalSubThemesDark,
-} from './themes'
+import { darkTheme, illuminatedTheme, lightTheme } from './themes'
 import { tokens } from './tokens'
 
 export const config = createTamagui({
@@ -16,26 +10,6 @@ export const config = createTamagui({
     light: lightTheme,
     dark: darkTheme,
     illuminated: illuminatedTheme,
-    light_advent: { ...lightTheme, ...liturgicalSubThemes.advent },
-    dark_advent: { ...darkTheme, ...liturgicalSubThemesDark.advent },
-    light_christmas: { ...lightTheme, ...liturgicalSubThemes.christmas },
-    dark_christmas: { ...darkTheme, ...liturgicalSubThemesDark.christmas },
-    light_epiphany: { ...lightTheme, ...liturgicalSubThemes.epiphany },
-    dark_epiphany: { ...darkTheme, ...liturgicalSubThemesDark.epiphany },
-    light_septuagesima: { ...lightTheme, ...liturgicalSubThemes.septuagesima },
-    dark_septuagesima: { ...darkTheme, ...liturgicalSubThemesDark.septuagesima },
-    light_lent: { ...lightTheme, ...liturgicalSubThemes.lent },
-    dark_lent: { ...darkTheme, ...liturgicalSubThemesDark.lent },
-    light_easter: { ...lightTheme, ...liturgicalSubThemes.easter },
-    dark_easter: { ...darkTheme, ...liturgicalSubThemesDark.easter },
-    light_ordinary: { ...lightTheme, ...liturgicalSubThemes.ordinary },
-    dark_ordinary: { ...darkTheme, ...liturgicalSubThemesDark.ordinary },
-    'light_post-pentecost': { ...lightTheme, ...liturgicalSubThemes['post-pentecost'] },
-    'dark_post-pentecost': { ...darkTheme, ...liturgicalSubThemesDark['post-pentecost'] },
-    light_martyr: { ...lightTheme, ...liturgicalSubThemes.martyr },
-    dark_martyr: { ...darkTheme, ...liturgicalSubThemesDark.martyr },
-    light_rose: { ...lightTheme, ...liturgicalSubThemes.rose },
-    dark_rose: { ...darkTheme, ...liturgicalSubThemesDark.rose },
   },
   fonts: {
     display: displayFont,

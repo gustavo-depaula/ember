@@ -14,11 +14,11 @@ The design system is implemented as a Tamagui configuration — a single `create
 
 Key Tamagui concepts used:
 - **Tokens** — design primitives (colors, spacing, radii, font sizes) accessible via `$tokenName`
-- **Themes** — named sets of semantic color mappings (light, dark, advent, lent, etc.) that cascade and compose
+- **Themes** — named sets of semantic color mappings (`light`, `dark`, `illuminated`) that cascade and compose
 - **Fonts** — font family + weight + size + line-height definitions, loaded via expo-font
 - **styled()** — creates themed components that resolve `$tokens` at build time via the compiler
 
-All custom components (SectionDivider, GreenWall, etc.) are built with Tamagui's `styled()` and reference theme tokens, so they automatically adapt to light/dark/liturgical themes.
+All custom components (SectionDivider, GreenWall, etc.) are built with Tamagui's `styled()` and reference theme tokens, so they automatically adapt to the light/dark/illuminated themes.
 
 ---
 
@@ -91,19 +91,24 @@ Individual practice detail views use a legacy single-color green wall:
 
 ### Liturgical Season Accents
 
-Light and dark modes use separate liturgical accent values — dark mode accents are brighter to remain visible against the near-black background.
+The app **does not** re-theme itself by liturgical season — the whole palette (gold
+`$accent`, burgundy, walls, etc.) is season-neutral, the same all year. The *only* element
+still tinted by the season is the **Fraktur season hero** in the home `LiturgicalHeader`,
+which paints itself with the color below via `useSeasonAccentColor` (`seasonalAccent` map
+in `config/themes.ts`). Light and dark use separate values — dark accents are brighter to
+stay visible against the near-black background.
 
-| Season | Light | Dark | Usage | Forms |
-|--------|-------|------|-------|-------|
-| Advent | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override | both |
-| Christmas | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override | both |
-| Epiphany | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | EF only |
-| Septuagesima | `#5B2C6F` | `#7B3E9A` (amethyst) | accent override | EF only |
-| Lent | `#7D3C98` | `#9B50B8` (violet glass) | accent override | both |
-| Easter | `#C9A84C` | `#D4A63A` (reliquary gold) | accent override | both |
-| Ordinary Time | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | OF only |
-| Post-Pentecost | `#2D6A4F` | `#3A8A5A` (bright cloister) | accent override | EF only |
-| Martyrs/feasts | `#922B21` | `#B83828` (blood red) | accent override | both |
+| Season | Light | Dark |
+|--------|-------|------|
+| Advent | `#5B2C6F` | `#7B3E9A` (amethyst) |
+| Christmas | `#C9A84C` | `#D4A63A` (reliquary gold) |
+| Epiphany | `#2D6A4F` | `#3A8A5A` (bright cloister) |
+| Septuagesima | `#5B2C6F` | `#7B3E9A` (amethyst) |
+| Lent | `#7D3C98` | `#9B50B8` (violet glass) |
+| Easter | `#C9A84C` | `#D4A63A` (reliquary gold) |
+| Ordinary Time | `#2D6A4F` | `#3A8A5A` (bright cloister) |
+| Post-Pentecost | `#2D6A4F` | `#3A8A5A` (bright cloister) |
+| Rose (Gaudete / Laetare) | `#C27083` | `#D98A9A` |
 
 ---
 
@@ -149,11 +154,9 @@ Every other style (`fontSize`, `color`, `textAlign`, `letterSpacing`…) is a pa
 Rungs **2 and 4 are treatments, not new fonts.** Reading is a *river* (paragraphs,
 measure, flow); prayer is *architecture* (sense-lines, air, a versal opening).
 
-**`$title` is wired to both Junicode and IM FELL English**, selected by
-`flags.sacredTitleFace` (`'junicode' | 'imfell'`) — both load every boot, so flipping
-the flag swaps the face on a real screen to compare, then keep one. The full Junicode
-family (Light→Bold + italics) ships as local OFL assets under `assets/fonts/`; IM FELL
-English is an `@expo-google-fonts/*` package.
+**`$title` is Junicode.** The full family (Light→Bold + italics) ships as local OFL
+assets under `assets/fonts/`. (IM FELL English was trialed as an alternate behind a
+flag and dropped — Junicode is warmer and carries the full weight range.)
 
 ### Governing disciplines
 1. **Default to the lowest adequate rung** — ~90% of pixels are rungs 1–3.
