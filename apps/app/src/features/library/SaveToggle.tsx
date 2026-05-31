@@ -13,9 +13,8 @@ type SaveToggleProps = {
 
 /**
  * One-tap "Save to library" toggle — the curation gesture, distinct from
- * `PinToggle` (offline). Instant, no download. A bookmark when unsaved; a filled
- * bookmark + accent when saved. Mirrors PinToggle's pill so the two controls
- * read as siblings wherever they sit side by side.
+ * offline pinning. Instant, no download. A bookmark when unsaved; a filled
+ * bookmark + accent when saved.
  */
 export function SaveToggle({ itemId, kind }: SaveToggleProps) {
   const { t } = useTranslation()
