@@ -1,0 +1,129 @@
+{
+  "id": "plan-of-life-template/byzantine",
+  "name": {
+    "en-US": "Byzantine",
+    "pt-BR": "Bizantina"
+  },
+  "description": {
+    "en-US": "The prayer of the heart, the way of the East.",
+    "pt-BR": "A oração do coração, o caminho do Oriente."
+  },
+  "manifesto": {
+    "en-US": "A plan rooted in the Christian East and its hesychast tradition — offered here for Eastern Catholics and for Roman Catholics drawn to the East. Its horizon is theosis, divinization: becoming by grace what Christ is by nature. Its method is hesychia, the stillness and watchfulness of the heart, with the body a full participant — the breath, the bow, the prostration.\n\nThe Jesus Prayer runs through the whole day as ceaseless prayer — \"Lord Jesus Christ, Son of God, have mercy on me, a sinner\" — often counted on a knotted prayer rope. The Divine Liturgy when it can be reached, a nightly examination of the heart, and confession deeply prepared. The liturgical year, with its great fasts and feasts, becomes the actual structure of the interior life, and the icons are windows onto heaven.\n\nFor Eastern Catholics of every Church, for the Roman Catholic who longs for a more bodily prayer and a stronger calendar, for anyone who wants the year itself to pray.",
+    "pt-BR": "Um plano enraizado no Oriente cristão e em sua tradição hesicasta — oferecido aqui aos católicos orientais e aos católicos latinos atraídos pelo Oriente. Seu horizonte é a theosis, a divinização: tornar-se pela graça o que Cristo é por natureza. Seu método é a hesychia, a quietude e a vigilância do coração, com o corpo participando por inteiro — a respiração, a inclinação, a prostração.\n\nA Oração de Jesus percorre o dia todo como oração incessante — \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador\" — muitas vezes contada num cordão de nós. A Divina Liturgia quando se pode alcançá-la, o exame do coração a cada noite, e a confissão preparada com profundidade. O ano litúrgico, com seus grandes jejuns e festas, torna-se a estrutura real da vida interior, e os ícones são janelas para o céu.\n\nPara os católicos orientais de toda Igreja, para o católico latino que anseia por uma oração mais corporal e um calendário mais forte, para quem deseja que o próprio ano reze."
+  },
+  "attribution": {
+    "en-US": "The Philokalia; The Way of a Pilgrim",
+    "pt-BR": "A Filocalia; Relatos de um Peregrino Russo"
+  },
+  "icon": "cross",
+  "tags": ["byzantine", "eastern", "hesychasm"],
+  "practices": [
+    {
+      "ref": "jesus-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The Jesus Prayer as ceaseless prayer through the day — \"Lord Jesus Christ, Son of God, have mercy on me, a sinner\" — often counted on a knotted prayer rope.",
+        "pt-BR": "A Oração de Jesus como oração incessante ao longo do dia — \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador\" — muitas vezes contada num cordão de nós."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Morning & Evening Prayers",
+        "pt-BR": "Orações da Manhã e da Tarde"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diárias"
+      },
+      "icon": "candle",
+      "note": {
+        "en-US": "The daily prayer rule of the East — the Trisagion prayers, Psalm 50, the Creed, and intercessions — opening and closing the day before the icons.",
+        "pt-BR": "A regra de oração diária do Oriente — as orações do Trisságio, o Salmo 50, o Credo e as intercessões — que abre e fecha o dia diante dos ícones."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [0] },
+      "note": {
+        "en-US": "The Divine Liturgy, attended when it can be reached — the East's celebration of the Eucharist and foretaste of the heavenly worship.",
+        "pt-BR": "A Divina Liturgia, frequentada quando se pode alcançá-la — a celebração eucarística do Oriente e antegozo do culto celeste."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Kathisma of the Psalter",
+        "pt-BR": "Cátisma do Saltério"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diária"
+      },
+      "icon": "scroll",
+      "note": {
+        "en-US": "A daily kathisma from the Byzantine Psalter, which is divided into twenty sections that rotate the whole book of Psalms through one's prayer.",
+        "pt-BR": "Uma cátisma diária do Saltério bizantino, dividido em vinte seções que fazem girar todo o livro dos Salmos pela própria oração."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The nightly examination of the heart, the watchfulness — nepsis — that guards the prayer of the heart.",
+        "pt-BR": "O exame do coração a cada noite, a vigilância — nepsis — que guarda a oração do coração."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Confession, often less frequent than in the Roman practice but more deeply prepared, before one's spiritual father.",
+        "pt-BR": "A confissão, muitas vezes menos frequente que na prática latina mas preparada com mais profundidade, diante do pai espiritual."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Wednesday & Friday Fast",
+        "pt-BR": "Jejum de Quarta e Sexta"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Weekly",
+        "pt-BR": "Semanal"
+      },
+      "icon": "cross",
+      "note": {
+        "en-US": "The weekly fast of the East on Wednesday and Friday, in memory of the betrayal and the Cross — strict forms abstain from meat, dairy, oil, and wine.",
+        "pt-BR": "O jejum semanal do Oriente na quarta e na sexta, em memória da traição e da Cruz — as formas estritas abstêm-se de carne, laticínios, azeite e vinho."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "The Great Fasts",
+        "pt-BR": "Os Grandes Jejuns"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "The four seasons of fasting",
+        "pt-BR": "As quatro estações de jejum"
+      },
+      "icon": "cross",
+      "note": {
+        "en-US": "The four great fasts of the Byzantine year — Great Lent before Pascha, the Apostles' Fast, the Dormition Fast, and the Nativity Fast — each with its own discipline and proper liturgies.",
+        "pt-BR": "Os quatro grandes jejuns do ano bizantino — a Grande Quaresma antes da Páscoa, o Jejum dos Apóstolos, o Jejum da Dormição e o Jejum da Natividade — cada um com sua disciplina e liturgias próprias."
+      }
+    }
+  ]
+}

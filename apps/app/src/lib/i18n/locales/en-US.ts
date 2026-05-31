@@ -33,6 +33,8 @@ export default {
     browseHint: 'Books, prayers & collections',
   },
   you: {
+    tagline: 'Your life of prayer',
+    pageTitle: 'You, with God',
     rule: 'Rule of Life',
     ruleHint: 'Build and tend your plan',
     fidelity: 'Fidelity',
@@ -691,8 +693,12 @@ export default {
 
   plan: {
     title: 'Plan of Life',
+    fidelityLabel: 'Fidelity',
     emptyWall: 'Complete your daily practices to fill the wall',
     dayStreak: 'Day Streak',
+    dayStreakCount_one: '{{count}} day',
+    dayStreakCount_other: '{{count}} days',
+    thisMonth: 'this month',
     completion: 'Completion',
     today: 'Today',
     preview: 'Preview',
@@ -719,6 +725,13 @@ export default {
     pinAll: 'Make plan available offline',
     pinAllInProgress: 'Saving for offline… {{done}} of {{total}}',
     planOffline: 'Plan is available offline',
+    offlineTitle: 'Available offline',
+    offlineHint: 'Download your rule so you can pray it without a connection.',
+    offlineNone: 'Nothing in your rule needs downloading yet.',
+    offlineRemove: 'Remove from offline',
+    moreOptions: '··· more options',
+    inspireTradition: 'Find a tradition',
+    cadence: 'Cadence',
   },
 
   editor: {
@@ -1093,6 +1106,24 @@ export default {
     deleteConfirm: 'Delete this collection? Its items stay in your library.',
     empty: 'Nothing here yet',
     emptyHint: 'Add prayers, books, or collections from anywhere with “Add to collection”.',
+  },
+
+  templates: {
+    title: 'Traditions',
+    subtitle: 'Choose a rule to live by',
+    entry: 'Draw from a tradition',
+    proposedPractices: 'What it proposes',
+    adopt: 'Adopt',
+    adoptTitle: 'Adopt · {{name}}',
+    adoptHint: 'Check what you wish to add to your rule.',
+    alreadyInRule: 'already in your rule',
+    comingSoon: 'coming soon',
+    adoptCta_one: 'Add {{count}} practice',
+    adoptCta_other: 'Add {{count}} practices',
+    adoptCtaEmpty: 'Nothing to add',
+    notFound: 'This tradition could not be found.',
+    anytime: 'anytime',
+    perDayCount: '{{count}}×/day',
   },
 
   explore: {

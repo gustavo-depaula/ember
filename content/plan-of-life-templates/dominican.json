@@ -1,0 +1,108 @@
+{
+  "id": "plan-of-life-template/dominican",
+  "name": {
+    "en-US": "Dominican",
+    "pt-BR": "Dominicana"
+  },
+  "description": {
+    "en-US": "Truth as a path to holiness.",
+    "pt-BR": "A verdade como caminho de santidade."
+  },
+  "manifesto": {
+    "en-US": "The plan of the Lay Fraternities of St. Dominic, built as a four-legged stool — prayer, study, community, apostolate. Remove any leg and the stool falls. Its motto is Veritas, and its conviction is that theological study is itself prayer, not a preparation for it.\n\nThe Liturgy of the Hours and the Rosary — to which the Dominicans gave its modern form — anchor the day, alongside Mass and mental prayer. Then comes the distinctive pillar: daily study of Scripture and the doctors, especially St. Thomas, taken in small steady portions. Contemplata aliis tradere — to contemplate, and to hand on to others the fruits of contemplation.\n\nFor catechists, teachers, the theologically curious — anyone whose love of God is mediated through the mind.",
+    "pt-BR": "O plano das Fraternidades Leigas de São Domingos, erguido como um banco de quatro pernas — oração, estudo, comunidade e apostolado. Tire uma perna e o banco cai. Seu lema é Veritas, e sua convicção é que o estudo teológico é, ele mesmo, oração, e não preparação para ela.\n\nA Liturgia das Horas e o Rosário — ao qual os dominicanos deram sua forma moderna — ancoram o dia, ao lado da Missa e da oração mental. Vem então a perna distintiva: o estudo diário da Escritura e dos doutores, sobretudo São Tomás, tomado em pequenas porções constantes. Contemplata aliis tradere — contemplar e transmitir aos outros os frutos da contemplação.\n\nPara catequistas, professores, os curiosos da teologia — quem ama a Deus por mediação da inteligência."
+  },
+  "attribution": {
+    "en-US": "Rule of the Lay Fraternities of St. Dominic; St. Thomas Aquinas, Summa Theologiae",
+    "pt-BR": "Regra das Fraternidades Leigas de São Domingos; São Tomás de Aquino, Suma Teológica"
+  },
+  "icon": "scroll",
+  "tags": ["dominican", "study", "veritas"],
+  "practices": [
+    {
+      "ref": "divine-office",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The Liturgy of the Hours, the first pillar of prayer — Lay Dominicans pray at minimum Lauds, Vespers, and Compline, sanctifying the day's hinges.",
+        "pt-BR": "A Liturgia das Horas, primeiro pilar da oração — os dominicanos leigos rezam ao menos Laudes, Vésperas e Completas, santificando os eixos do dia."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "The daily Eucharist when possible — the truth contemplated in study made present and received at the altar.",
+        "pt-BR": "A Eucaristia diária quando possível — a verdade contemplada no estudo feita presente e recebida no altar."
+      }
+    },
+    {
+      "ref": "mental-prayer",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "08:00",
+      "note": {
+        "en-US": "Daily mental prayer, where the fruits of study ripen into contemplation before they are handed on to others.",
+        "pt-BR": "A oração mental diária, onde os frutos do estudo amadurecem em contemplação antes de serem transmitidos aos outros."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "The pillar of Study — daily Scripture and the doctors, especially St. Thomas, taken in small steady portions, for among Dominicans study is itself prayer.",
+        "pt-BR": "O pilar do Estudo — a Escritura diária e os doutores, sobretudo São Tomás, tomados em pequenas porções constantes, pois entre os dominicanos o estudo é, ele mesmo, oração."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The daily Rosary, the prayer to which the Order of Preachers gave its modern form — Veritas contemplated through the eyes of the Mother.",
+        "pt-BR": "O Rosário diário, a oração à qual a Ordem dos Pregadores deu sua forma moderna — a Veritas contemplada pelos olhos da Mãe."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The nightly examen, a truthful accounting of the day — for the love of truth begins with the truth about oneself.",
+        "pt-BR": "O exame da noite, um ajuste de contas verdadeiro do dia — pois o amor à verdade começa pela verdade sobre si mesmo."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "note": {
+        "en-US": "Frequent confession, keeping the preacher's heart clear so that what is handed on rings true.",
+        "pt-BR": "A confissão frequente, que mantém claro o coração do pregador para que o que se transmite soe verdadeiro."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Fraternity chapter",
+        "pt-BR": "Capítulo da fraternidade"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Monthly",
+        "pt-BR": "Mensal"
+      },
+      "icon": "scroll",
+      "note": {
+        "en-US": "The monthly chapter meeting of the lay fraternity — the pillar of Community, where spiritual friendship and fraternal correction keep the four-legged stool from falling.",
+        "pt-BR": "A reunião mensal do capítulo da fraternidade leiga — o pilar da Comunidade, onde a amizade espiritual e a correção fraterna impedem que o banco de quatro pernas caia."
+      }
+    }
+  ]
+}

@@ -33,6 +33,8 @@ export default {
     browseHint: 'Livros, orações e coleções',
   },
   you: {
+    tagline: 'A sua vida de oração',
+    pageTitle: 'Você, com Deus',
     rule: 'Plano de Vida',
     ruleHint: 'Monte e cuide do seu plano',
     fidelity: 'Fidelidade',
@@ -699,8 +701,12 @@ export default {
 
   plan: {
     title: 'Plano de Vida',
+    fidelityLabel: 'A Fidelidade',
     emptyWall: 'Complete suas pr\u00e1ticas di\u00e1rias para preencher o mural',
     dayStreak: 'Sequ\u00eancia de Dias',
+    dayStreakCount_one: '{{count}} dia',
+    dayStreakCount_other: '{{count}} dias',
+    thisMonth: 'este m\u00eas',
     completion: 'Conclus\u00e3o',
     today: 'Hoje',
     preview: 'Prévia',
@@ -727,6 +733,13 @@ export default {
     pinAll: 'Tornar plano disponível offline',
     pinAllInProgress: 'Salvando para offline… {{done}} de {{total}}',
     planOffline: 'Plano disponível offline',
+    offlineTitle: 'Disponível offline',
+    offlineHint: 'Baixe a sua regra para rezá-la sem conexão.',
+    offlineNone: 'Nada na sua regra precisa ser baixado por enquanto.',
+    offlineRemove: 'Remover do offline',
+    moreOptions: '··· mais opções',
+    inspireTradition: 'Inspirar-se numa tradição',
+    cadence: 'Cadência',
   },
 
   editor: {
@@ -1100,6 +1113,24 @@ export default {
     deleteConfirm: 'Excluir esta coleção? Os itens permanecem na sua biblioteca.',
     empty: 'Nada aqui ainda',
     emptyHint: 'Adicione orações, livros ou coleções de qualquer lugar com “Adicionar à coleção”.',
+  },
+
+  templates: {
+    title: 'Tradições de Vida',
+    subtitle: 'Escolha uma regra para viver',
+    entry: 'Inspirar-se numa tradição',
+    proposedPractices: 'O que ela propõe',
+    adopt: 'Adotar',
+    adoptTitle: 'Adotar · {{name}}',
+    adoptHint: 'Marque o que deseja acrescentar à sua regra.',
+    alreadyInRule: 'já na sua regra',
+    comingSoon: 'em breve',
+    adoptCta_one: 'Acrescentar {{count}} prática',
+    adoptCta_other: 'Acrescentar {{count}} práticas',
+    adoptCtaEmpty: 'Nada a acrescentar',
+    notFound: 'Esta tradição não foi encontrada.',
+    anytime: 'qualquer hora',
+    perDayCount: '{{count}}×/dia',
   },
 
   explore: {

@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en-US": "The Beginner's Minimum",
+    "pt-BR": "O Mínimo do Iniciante"
+  },
+  "description": {
+    "en-US": "Simple, faithful — start here.",
+    "pt-BR": "Simples, fiel — comece aqui."
+  },
+  "manifesto": {
+    "en-US": "This is not a school of holiness; it is a starting line for consistency. A morning offering, an Our Father, a sixty-second examination at night, Sunday Mass, monthly confession — that is all. The point is not asceticism but proof: that a plan of life can be kept at all.\n\nBetter to live this faithfully for a year than to fail at a heroic rule in a month. When it has become second nature, the door to every other tradition stands open.",
+    "pt-BR": "Esta não é uma escola de santidade; é uma linha de partida para a constância. Um oferecimento ao amanhecer, um Pai-Nosso, um exame de sessenta segundos à noite, a Missa dominical, a confissão mensal — e nada mais. O objetivo não é a ascese, mas a prova: a de que um plano de vida pode, sim, ser cumprido.\n\nMelhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês. Quando se tornar segunda natureza, a porta de toda outra tradição estará aberta."
+  },
+  "icon": "sunrise",
+  "tags": ["beginner", "essential"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "A single sentence to begin the day with God — the smallest seed of a life of prayer, and the easiest to keep.",
+        "pt-BR": "Uma única frase para começar o dia com Deus — a menor semente de uma vida de oração, e a mais fácil de manter."
+      }
+    },
+    {
+      "ref": "our-father",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "One prayer, the one the Lord Himself taught — enough to anchor the day, with no risk of being too much to sustain.",
+        "pt-BR": "Uma só oração, a que o próprio Senhor ensinou — basta para ancorar o dia, sem risco de ser demais para sustentar."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "22:00",
+      "note": {
+        "en-US": "Sixty seconds at night — where did I love today, where did I fall short, thank you and sorry — and nothing more demanding than that.",
+        "pt-BR": "Sessenta segundos à noite — onde amei hoje, onde falhei, obrigado e perdão — e nada mais exigente do que isso."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "essential",
+      "schedule": { "type": "days-of-week", "days": [0] },
+      "note": {
+        "en-US": "Sunday Mass — the one true non-negotiable of the Catholic week, the rock on which every fuller rule is later built.",
+        "pt-BR": "A Missa dominical — o único inegociável da semana católica, a rocha sobre a qual toda regra mais ampla se edifica depois."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "ideal",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Confession once a month, even when there is nothing big — kept simply to keep the habit alive.",
+        "pt-BR": "A confissão uma vez por mês, mesmo quando não há nada de grave — mantida apenas para conservar viva a prática."
+      }
+    }
+  ],
+  "resolutions": [
+    {
+      "title": {
+        "en-US": "Read one spiritual book this year",
+        "pt-BR": "Ler um livro espiritual neste ano"
+      },
+      "text": {
+        "en-US": "Choose a single book — Story of a Soul, Introduction to the Devout Life, He Leadeth Me — and read it slowly, no deadline.",
+        "pt-BR": "Escolher um único livro — História de uma Alma, Filoteia, Ele me Conduz — e lê-lo devagar, sem prazo."
+      }
+    }
+  ]
+}

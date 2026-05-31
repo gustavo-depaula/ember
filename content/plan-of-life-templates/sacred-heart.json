@@ -1,0 +1,70 @@
+{
+  "name": {
+    "en-US": "Sacred Heart",
+    "pt-BR": "Sagrado Coração"
+  },
+  "description": {
+    "en-US": "Reparation and consolation of the Heart of Jesus.",
+    "pt-BR": "Reparação e consolo ao Coração de Jesus."
+  },
+  "manifesto": {
+    "en-US": "This rule lives the spiritual life as friendship with the wounded, loving Heart of Jesus, and answers His desire revealed to St. Margaret Mary: reparation and consolation. Through the Apostleship of Prayer it takes a lay, daily, accessible form.\n\nEach morning is offered to the Sacred Heart for the Holy Father's monthly intention; Mass and Communion are offered in reparation; the Thursday holy hour keeps watch as in Gethsemane; the first Friday of nine consecutive months is kept for the Great Promise. The aspiration runs under it all: Sacred Heart of Jesus, I trust in You.\n\nFor anyone moved by reparation, whose prayer is by nature intercessory, who wants the Pope's intentions woven into their days.",
+    "pt-BR": "Esta regra vive a vida espiritual como amizade com o Coração ferido e amoroso de Jesus, e responde ao desejo que Ele revelou a Santa Margarida Maria: reparação e consolo. Pelo Apostolado da Oração, ela toma forma leiga, diária e acessível.\n\nCada manhã é oferecida ao Sagrado Coração pela intenção mensal do Santo Padre; a Missa e a Comunhão são oferecidas em reparação; a hora santa de quinta-feira vela como no Getsêmani; a primeira sexta-feira de nove meses consecutivos é guardada pela Grande Promessa. Por baixo de tudo corre a jaculatória: Sagrado Coração de Jesus, eu confio em Vós.\n\nPara quem se comove com a reparação, cuja oração é por natureza intercessora, que deseja entretecer nos seus dias as intenções do Papa."
+  },
+  "attribution": {
+    "en-US": "St. Margaret Mary Alacoque; Pius XII, Haurietis Aquas",
+    "pt-BR": "Santa Margarida Maria Alacoque; Pio XII, Haurietis Aquas"
+  },
+  "icon": "sacred-heart",
+  "tags": ["sacred-heart", "reparation", "apostleship-of-prayer"],
+  "practices": [
+    {
+      "ref": "morning-offering-sacred-heart",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The day given to the Sacred Heart for the Holy Father's monthly intention, joining every action to Christ's continual self-offering for the world.",
+        "pt-BR": "O dia entregue ao Sagrado Coração pela intenção mensal do Santo Padre, unindo cada ação ao contínuo oferecimento de Cristo pelo mundo."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Mass and Communion offered in reparation, consoling the Heart that loved so much and is so little loved in return.",
+        "pt-BR": "A Missa e a Comunhão oferecidas em reparação, consolando o Coração que tanto amou e tão pouco é amado em retorno."
+      }
+    },
+    {
+      "ref": "holy-hour-sacred-heart",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [4] },
+      "time": "20:00",
+      "note": {
+        "en-US": "The Thursday holy hour, keeping watch with the Lord in Gethsemane as He asked of St. Margaret Mary.",
+        "pt-BR": "A hora santa de quinta-feira, velando com o Senhor no Getsêmani como Ele pediu a Santa Margarida Maria."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Frequent confession, the work of reparation begun in one's own heart before it is offered for others.",
+        "pt-BR": "A confissão frequente, a obra de reparação começada no próprio coração antes de ser oferecida pelos outros."
+      }
+    },
+    {
+      "ref": "first-friday-devotion",
+      "tier": "essential",
+      "schedule": { "type": "nth-weekday", "n": 1, "day": 5 },
+      "note": {
+        "en-US": "The Communion of Reparation on nine consecutive first Fridays, kept for the Great Promise made to St. Margaret Mary.",
+        "pt-BR": "A Comunhão reparadora em nove primeiras sextas-feiras consecutivas, guardada pela Grande Promessa feita a Santa Margarida Maria."
+      }
+    }
+  ],
+  "collections": ["collection/sacred-heart"]
+}

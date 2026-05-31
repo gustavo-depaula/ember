@@ -21,6 +21,7 @@ export type CatalogItemKind =
   | 'of-eucharistic-prayer'
   | 'of-data'
   | 'collection'
+  | 'plan-of-life-template'
   | 'checkup'
   | 'creator'
 
@@ -250,6 +251,73 @@ export type CollectionItemManifest = {
   defaults?: { autoSeed?: boolean }
   prologue?: CollectionProseBody
   sections: CollectionSection[]
+}
+
+// --- Plan of Life Templates ---
+//
+// A plan-of-life template is a starter pack for a rule of life: a set of
+// practice refs with their default tier / schedule / time-block, plus a
+// manifesto framing the school of holiness it embodies. Adopting a template
+// is non-destructive cherry-pick — each checked practice becomes a slot.
+
+/** A real corpus practice the template pins into the rule. */
+export type PlanOfLifeTemplatePracticeRef = {
+  ref: string
+  tier: Tier
+  schedule: Schedule
+  time?: string
+  enabled?: boolean
+  /** One sentence on this practice's role in *this* rule — the why/what. */
+  note?: LocalizedText
+}
+
+/**
+ * A practice the tradition genuinely prescribes that the corpus does not host
+ * yet (e.g. Lectio Divina, the Franciscan Crown, a praesidium meeting). Shown in
+ * the rule for fidelity but NOT adoptable — a content placeholder, never
+ * approximated by substituting a different real practice.
+ */
+export type PlanOfLifeTemplatePlaceholder = {
+  placeholder: true
+  name: LocalizedText
+  tier?: Tier
+  /** Human cadence string, since a placeholder carries no Schedule. */
+  cadence?: LocalizedText
+  /** Optional one-line gloss of what it is. */
+  note?: LocalizedText
+  icon?: string
+}
+
+export type PlanOfLifeTemplatePractice =
+  | PlanOfLifeTemplatePracticeRef
+  | PlanOfLifeTemplatePlaceholder
+
+/** Narrow a proposed practice to its placeholder form. */
+export function isTemplatePlaceholder(
+  p: PlanOfLifeTemplatePractice,
+): p is PlanOfLifeTemplatePlaceholder {
+  return 'placeholder' in p && p.placeholder === true
+}
+
+export type PlanOfLifeTemplateResolution = {
+  title: LocalizedText
+  text: LocalizedText
+}
+
+export type PlanOfLifeTemplateManifest = {
+  id: string
+  name: LocalizedText
+  /** Short blurb for browse/list rendering. */
+  description: LocalizedText
+  /** 1–3 paragraphs: what this rule is and who it's for. */
+  manifesto: LocalizedText
+  attribution?: LocalizedText
+  icon?: string
+  tags?: string[]
+  practices: PlanOfLifeTemplatePractice[]
+  resolutions?: PlanOfLifeTemplateResolution[]
+  /** Collection refs (e.g. `collection/carmelite`) to pre-pin alongside the plan. */
+  collections?: string[]
 }
 
 // --- Creators ---

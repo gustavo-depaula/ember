@@ -62,16 +62,6 @@ export function PracticeChecklist({
                   </Text>
                 )}
               </YStack>
-              {item.tier === 'essential' && (
-                <Text fontFamily="$body" fontSize={28} color="#EF4444">
-                  !!
-                </Text>
-              )}
-              {item.tier === 'ideal' && (
-                <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
-                  !
-                </Text>
-              )}
               {readOnly ? (
                 <Text fontSize="$2" fontFamily="$body" color={done ? '$accent' : '$colorSecondary'}>
                   {done ? '✓' : '–'}

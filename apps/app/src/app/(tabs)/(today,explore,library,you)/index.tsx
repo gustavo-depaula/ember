@@ -9,13 +9,13 @@ import { useThemeName, View, YStack } from 'tamagui'
 
 import {
   FadeInView,
-  GreenWall,
   ObligationBadges,
   PageBreakOrnament,
   PageHeader,
   ScreenLayout,
   SectionDivider,
   Typography,
+  VotiveWall,
 } from '@/components'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
@@ -343,7 +343,7 @@ export default function HomeScreen() {
                 <Typography variant="label" fontSize="$2">
                   {t('home.fidelity')}
                 </Typography>
-                <GreenWall data={wallData} weeks={10} tiered />
+                <VotiveWall data={wallData} weeks={10} tiered />
                 {totalSlots > 0 && completedCount === totalSlots && (
                   <Typography variant="sacred-title" fontSize="$3" color="$accent">
                     Pax Christi.

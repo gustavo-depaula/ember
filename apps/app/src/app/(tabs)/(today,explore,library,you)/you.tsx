@@ -8,7 +8,6 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   PageFlourish,
-  PageHeader,
   ScreenLayout,
   SectionDivider,
   Typography,
@@ -19,7 +18,7 @@ import { useCommitments } from '@/features/custody'
 import { ShortcutRow } from '@/features/home'
 import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
 import { useActiveIntentionsCount, useActiveThanksgivingsCount } from '@/features/movements'
-import { RuleOfLifeSections } from '@/features/plan-of-life'
+import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
@@ -66,53 +65,19 @@ export default function YouScreen() {
         lightAspectRatio={flourishLightAspect}
       />
       <YStack gap="$lg" paddingTop="$sm" paddingBottom="$lg">
-        <PageHeader
-          title={t('nav.you')}
-          action={
-            <Pressable
-              onPress={() => router.push('/settings')}
-              hitSlop={8}
-              accessibilityRole="button"
-              accessibilityLabel={t('settings.title')}
-            >
-              <Settings size={22} color={theme.accent?.val} />
-            </Pressable>
-          }
-        />
+        <XStack alignItems="center" justifyContent="space-between">
+          <YouMasthead />
+          <Pressable
+            onPress={() => router.push('/settings')}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('settings.title')}
+          >
+            <Settings size={28} color={theme.accent?.val} />
+          </Pressable>
+        </XStack>
 
         <RuleOfLifeSections />
-
-        {flags.custody && (
-          <>
-            <SectionDivider />
-            <AnimatedPressable
-              onPress={() => router.push('/custody')}
-              accessibilityRole="link"
-              accessibilityLabel={t('custody.title')}
-            >
-              <XStack
-                alignItems="center"
-                gap="$md"
-                padding="$md"
-                borderWidth={0.5}
-                borderColor="$borderColor"
-                borderRadius="$lg"
-                backgroundColor="$backgroundSurface"
-              >
-                <Shield size={22} color={theme.accent?.val} />
-                <YStack flex={1} gap={2}>
-                  <Typography variant="label">{t('custody.title')}</Typography>
-                  <Typography tone="muted" fontSize="$1">
-                    {activeCommitments > 0
-                      ? t('you.commitmentsActive', { count: activeCommitments })
-                      : t('custody.tagline')}
-                  </Typography>
-                </YStack>
-                <Typography tone="muted">›</Typography>
-              </XStack>
-            </AnimatedPressable>
-          </>
-        )}
 
         <SectionDivider />
 
@@ -132,6 +97,18 @@ export default function YouScreen() {
             trailing={<Typography tone="muted">{thanksgivingsCount}</Typography>}
             onPress={() => router.push('/gratias')}
           />
+          {flags.custody && (
+            <ShortcutRow
+              leading={<Shield size={22} color={theme.accent?.val} />}
+              title={t('custody.title')}
+              tagline={
+                activeCommitments > 0
+                  ? t('you.commitmentsActive', { count: activeCommitments })
+                  : t('custody.tagline')
+              }
+              onPress={() => router.push('/custody')}
+            />
+          )}
           <ShortcutRow
             leading={<Key size={22} color={theme.accent?.val} />}
             title={t('confessio.title')}

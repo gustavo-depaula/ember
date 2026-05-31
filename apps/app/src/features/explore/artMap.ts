@@ -26,11 +26,31 @@ const artFiles: Record<string, string> = {
   'collection/montfort-spirituality': 'montfort.jpg',
   'collection/novenas': 'novenas.jpg',
   'collection/litanies': 'litanies.jpg',
+
+  // Plan-of-life templates. Marian-consecration and sacred-heart reuse the
+  // collection paintings; the rest have their own (fetched as tpl-*.jpg).
+  'plan-of-life-template/beginner-minimum': 'tpl-beginner-minimum.jpg',
+  'plan-of-life-template/salesian': 'tpl-salesian.jpg',
+  'plan-of-life-template/opus-dei': 'tpl-opus-dei.jpg',
+  'plan-of-life-template/ignatian': 'tpl-ignatian.jpg',
+  'plan-of-life-template/little-way': 'tpl-little-way.jpg',
+  'plan-of-life-template/marian-consecration': 'marian.jpg',
+  'plan-of-life-template/sacred-heart': 'sacred-heart.jpg',
+  // Second wave. Carmelite reuses St Teresa; legion-of-mary reuses the Marian
+  // Immaculate Conception.
+  'plan-of-life-template/carmelite': 'carmelite.jpg',
+  'plan-of-life-template/dominican': 'tpl-dominican.jpg',
+  'plan-of-life-template/franciscan': 'tpl-franciscan.jpg',
+  'plan-of-life-template/benedictine': 'tpl-benedictine.jpg',
+  'plan-of-life-template/cursillo': 'tpl-cursillo.jpg',
+  'plan-of-life-template/legion-of-mary': 'marian.jpg',
+  'plan-of-life-template/sulpician': 'tpl-sulpician.png',
+  'plan-of-life-template/byzantine': 'tpl-byzantine.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
 // by URL, so the `?v` query busts the stale disk-cached image.
-const artVersion = 2
+const artVersion = 3
 
 export function artFor(id: string | undefined): ImageSource | undefined {
   if (!id) return undefined

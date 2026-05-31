@@ -46,19 +46,19 @@ export const tokens = createTokens({
     floralOrangeDark: '#B87830',
     vineGreenDarkMode: '#2D6840',
 
-    // Green wall — light
-    wallEmptyLight: '#E8E4D9',
-    wallLowLight: '#C5D5C0',
-    wallMediumLight: '#8FB88A',
-    wallHighLight: '#5A9A55',
-    wallFullLight: '#2D6A4F',
+    // Votive wall — light (ember on cream)
+    wallEmptyLight: '#ECE6DA',
+    wallLowLight: '#E6CF9A',
+    wallMediumLight: '#D9A94E',
+    wallHighLight: '#C2832C',
+    wallFullLight: '#A8651C',
 
-    // Green wall — dark
-    wallEmptyDark: '#252220',
-    wallLowDark: '#1E3A2E',
-    wallMediumDark: '#286848',
-    wallHighDark: '#388A58',
-    wallFullDark: '#48A868',
+    // Votive wall — dark (warm gold flames on near-black)
+    wallEmptyDark: '#2A2320',
+    wallLowDark: '#7A4E1E',
+    wallMediumDark: '#C8862E',
+    wallHighDark: '#E0A23A',
+    wallFullDark: '#F0BE55',
 
     // Liturgical
     advent: '#5B2C6F',

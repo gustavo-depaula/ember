@@ -1,0 +1,221 @@
+{
+  "name": {
+    "en-US": "Opus Dei",
+    "pt-BR": "Opus Dei"
+  },
+  "description": {
+    "en-US": "Sanctify your work.",
+    "pt-BR": "Santificar o trabalho."
+  },
+  "manifesto": {
+    "en-US": "The norms of piety are the most explicit and most imitated modern plan of life — a fixed daily, weekly, monthly, and yearly rule for laypeople pursuing sanctity in ordinary work. Its foundation is divine filiation: you are a child of God, and so there is no sacred and secular, only one life offered whole.\n\nTwo periods of mental prayer, Holy Mass, the Rosary, spiritual reading, a visit to the Blessed Sacrament, the examination of conscience — and through it all, the little duty of each moment, done well for love. The norms are not suggestions; failures are confessed.\n\nFor working laypeople with a stomach for structure who want a complete, lived rule. The soul who reads The Way and says: yes, this.",
+    "pt-BR": "As normas de piedade formam o plano de vida moderno mais explícito e mais imitado — uma regra fixa, diária, semanal, mensal e anual, para leigos que buscam a santidade no trabalho ordinário. Seu fundamento é a filiação divina: você é filho de Deus, e por isso não há sagrado e profano, mas uma só vida oferecida por inteiro.\n\nDois períodos de oração mental, a Santa Missa, o Rosário, a leitura espiritual, a visita ao Santíssimo Sacramento, o exame de consciência — e, através de tudo, o pequeno dever de cada instante, feito bem por amor. As normas não são sugestões; as faltas confessam-se.\n\nPara leigos trabalhadores com têmpera para a estrutura, que desejam uma regra completa e vivida. A alma que lê Caminho e diz: sim, é isto."
+  },
+  "attribution": {
+    "en-US": "St. Josemaría Escrivá, The Way; Christ is Passing By",
+    "pt-BR": "São Josemaria Escrivá, Caminho; É Cristo que Passa"
+  },
+  "icon": "sunrise",
+  "tags": ["opus-dei", "laity", "structured"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The day's first act as a child of God — work, rest, and every ordinary task offered whole, so that nothing is left outside the one life given to the Father.",
+        "pt-BR": "O primeiro ato do dia como filho de Deus — o trabalho, o descanso e cada tarefa comum oferecidos por inteiro, para que nada fique de fora da única vida entregue ao Pai."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The root and center of the interior life, from which the sanctification of the whole working day draws its sap.",
+        "pt-BR": "A raiz e o centro da vida interior, de onde a santificação de toda a jornada de trabalho extrai a sua seiva."
+      }
+    },
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "The first of two daily half-hours of conversation with God — the norm Opus Dei holds most jealously, where divine filiation becomes a lived intimacy and not a mere idea.",
+        "pt-BR": "A primeira das duas meias-horas diárias de conversa com Deus — a norma que o Opus Dei guarda com mais zelo, onde a filiação divina se torna intimidade vivida e não mera ideia."
+      }
+    },
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "19:00",
+      "note": {
+        "en-US": "The second period of mental prayer, gathering the work of the day back to God so that labor and prayer become a single offering.",
+        "pt-BR": "O segundo período de oração mental, recolhendo a Deus o trabalho do dia para que labor e oração se tornem um só oferecimento."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "A few minutes of the New Testament and a spiritual book each day — steady formation that keeps the rule from hardening into routine.",
+        "pt-BR": "Alguns minutos do Novo Testamento e de um livro espiritual a cada dia — formação constante que impede a regra de endurecer em rotina."
+      }
+    },
+    {
+      "ref": "angelus",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "12:00",
+      "note": {
+        "en-US": "A pause at midday to recall the Incarnation, breaking the morning's work to remember whose child you are and for whom you labor.",
+        "pt-BR": "Uma pausa ao meio-dia para recordar a Encarnação, interrompendo o trabalho da manhã para lembrar de quem você é filho e por quem trabalha."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The daily Marian devotion St. Josemaría called a powerful weapon — Our Lady's hand resting on the ordinary day.",
+        "pt-BR": "A devoção mariana diária que São Josemaria chamou de arma poderosa — a mão de Nossa Senhora pousada sobre o dia comum."
+      }
+    },
+    {
+      "ref": "visit-blessed-sacrament",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "A brief stop before the Tabernacle in the midst of errands and work — a son returning, even for a moment, to his Father's house.",
+        "pt-BR": "uma breve parada diante do Sacrário em meio às tarefas e ao trabalho — um filho que volta, mesmo por um instante, à casa do Pai."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "22:00",
+      "note": {
+        "en-US": "The night's accounting of how the little duty of each moment was kept or missed — for in this rule, failures are not shrugged off but confessed.",
+        "pt-BR": "A prestação de contas noturna sobre como o pequeno dever de cada instante foi cumprido ou falhado — pois nesta regra as faltas não se relevam, confessam-se."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Frequent sacramental confession, the weekly washing that keeps a soul pursuing sanctity in the world honest and clean.",
+        "pt-BR": "A confissão sacramental frequente, a lavagem semanal que mantém íntegra e limpa a alma que busca a santidade no mundo."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "The Preces",
+        "pt-BR": "As Preces"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diário"
+      },
+      "icon": "scroll",
+      "note": {
+        "en-US": "The vocal prayers of the Work, prayed each day — a litany that binds the member to the whole of Opus Dei, to the Church, the Pope, and the souls entrusted to its apostolate.",
+        "pt-BR": "As orações vocais da Obra, rezadas a cada dia — uma ladainha que une o membro a todo o Opus Dei, à Igreja, ao Papa e às almas confiadas ao seu apostolado."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Three Hail Marys",
+        "pt-BR": "Três Ave-Marias"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Daily, before sleep",
+        "pt-BR": "Diário, antes de dormir"
+      },
+      "icon": "rosary",
+      "note": {
+        "en-US": "Three Hail Marys before sleep, asking Our Lady for the gift of holy purity to guard the day just ended and the one to come.",
+        "pt-BR": "Três Ave-Marias antes de dormir, pedindo a Nossa Senhora o dom da santa pureza para guardar o dia que termina e o que há de vir."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Circle of formation",
+        "pt-BR": "Círculo de formação"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Weekly",
+        "pt-BR": "Semanal"
+      },
+      "icon": "book",
+      "note": {
+        "en-US": "The weekly formation meeting — a short meditation, points of Christian and doctrinal formation, and a brief examination — that keeps the plan of life from drifting and feeds it with sound teaching.",
+        "pt-BR": "A reunião semanal de formação — uma breve meditação, pontos de formação cristã e doutrinal e um exame breve — que impede o plano de vida de se desviar e o nutre com doutrina sólida."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Friday mortification",
+        "pt-BR": "Mortificação de sexta-feira"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Weekly, Friday",
+        "pt-BR": "Semanal, sexta-feira"
+      },
+      "icon": "cross",
+      "note": {
+        "en-US": "A penance offered each Friday in memory of the Passion — small, hidden, and concrete, so that love is proven in the body and not only intended.",
+        "pt-BR": "Uma penitência oferecida em cada sexta-feira em memória da Paixão — pequena, oculta e concreta, para que o amor se prove no corpo e não fique apenas na intenção."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Day of recollection",
+        "pt-BR": "Dia de recolhimento"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Monthly",
+        "pt-BR": "Mensal"
+      },
+      "icon": "candle",
+      "note": {
+        "en-US": "A half-day of silence each month — meditation, spiritual reading, and the Blessed Sacrament — to take stock of the soul before God and begin again.",
+        "pt-BR": "Uma manhã ou tarde de silêncio a cada mês — meditação, leitura espiritual e o Santíssimo Sacramento — para examinar a alma diante de Deus e recomeçar."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Annual retreat",
+        "pt-BR": "Retiro anual"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Yearly",
+        "pt-BR": "Anual"
+      },
+      "icon": "candle",
+      "note": {
+        "en-US": "Several days of silence each year, closing with the renewal of one's plan of life before a spiritual director — the rule re-chosen, not merely inherited.",
+        "pt-BR": "Alguns dias de silêncio a cada ano, encerrando com a renovação do plano de vida diante de um diretor espiritual — a regra reescolhida, não apenas herdada."
+      }
+    }
+  ]
+}

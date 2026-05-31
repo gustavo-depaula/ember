@@ -1,0 +1,90 @@
+{
+  "name": {
+    "en-US": "Ignatian",
+    "pt-BR": "Inaciana"
+  },
+  "description": {
+    "en-US": "Discernment and the daily Examen.",
+    "pt-BR": "Discernimento e o exame diário."
+  },
+  "manifesto": {
+    "en-US": "The plan that orbits the Spiritual Exercises of St. Ignatius. The Examen is its load-bearing practice — prayed twice, midday and night — and it is not a tally of sins but a noticing of where God moved during the day and where you resisted.\n\nThe Gospel of the day is met with the imagination: place yourself in the scene, look, listen, speak to the Lord. Behind it all runs the discernment of spirits, agere contra against disordered attachment, and the magis — always the greater good, the more loving response.\n\nFor decision-makers, intellectuals, anyone in a season of transition. The plan of the discerner.",
+    "pt-BR": "O plano que gravita em torno dos Exercícios Espirituais de Santo Inácio. O Exame é a sua prática mestra — rezado duas vezes, ao meio-dia e à noite — e não é um inventário de pecados, mas o reparar onde Deus se moveu ao longo do dia e onde você resistiu.\n\nO Evangelho do dia é acolhido com a imaginação: coloque-se na cena, olhe, escute, fale com o Senhor. Por baixo de tudo corre o discernimento dos espíritos, o agere contra à afeição desordenada, e o magis — sempre o maior bem, a resposta mais amorosa.\n\nPara os que decidem, para os intelectuais, para quem atravessa uma estação de transição. O plano de quem discerne."
+  },
+  "attribution": {
+    "en-US": "St. Ignatius of Loyola, Spiritual Exercises",
+    "pt-BR": "Santo Inácio de Loyola, Exercícios Espirituais"
+  },
+  "icon": "scroll",
+  "tags": ["ignatian", "jesuit", "discernment"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The morning oblation — offering the whole day's liberty, memory, and will to God before discernment begins.",
+        "pt-BR": "A oblação matinal — oferecer a Deus toda a liberdade, a memória e a vontade do dia antes que comece o discernimento."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "Daily Mass and Communion when possible, uniting one's small choices to the one perfect self-offering of Christ.",
+        "pt-BR": "A Missa e a Comunhão diárias quando possível, unindo as pequenas escolhas ao único oferecimento perfeito de Cristo."
+      }
+    },
+    {
+      "ref": "gospel-of-the-day",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "Met with the imagination as Ignatius taught — place yourself in the scene, look, listen, and speak with the Lord in colloquy.",
+        "pt-BR": "Acolhido com a imaginação, como ensinou Inácio — coloque-se na cena, olhe, escute e fale com o Senhor em colóquio."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "13:00",
+      "note": {
+        "en-US": "The midday particular examen, watching the one disordered attachment chosen for combat — agere contra, acting against it by name.",
+        "pt-BR": "O exame particular do meio-dia, vigiando a única afeição desordenada escolhida para o combate — agere contra, agindo contra ela pelo nome."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "22:00",
+      "note": {
+        "en-US": "The load-bearing practice of the whole rule — not a tally of sins but a noticing of where God moved during the day and where you resisted.",
+        "pt-BR": "A prática que sustenta toda a regra — não um inventário de pecados, mas o reparar onde Deus se moveu ao longo do dia e onde você resistiu."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Daily reading that feeds discernment, schooling the heart to recognize the difference between the spirits that draw it and those that drain it.",
+        "pt-BR": "A leitura diária que alimenta o discernimento, educando o coração a reconhecer a diferença entre os espíritos que o atraem e os que o esgotam."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "note": {
+        "en-US": "Regular confession, the sacramental clearing that keeps discernment honest and the will free to choose the magis.",
+        "pt-BR": "A confissão regular, a limpeza sacramental que mantém o discernimento honesto e a vontade livre para escolher o magis."
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "plan-of-life-template/sulpician",
+  "name": {
+    "en-US": "Sulpician",
+    "pt-BR": "Sulpiciana"
+  },
+  "description": {
+    "en-US": "Putting on the mysteries of Christ.",
+    "pt-BR": "Revestir-se dos mistérios de Cristo."
+  },
+  "manifesto": {
+    "en-US": "The plan of Jean-Jacques Olier and the French school of spirituality — the school that formed Vincent de Paul, John Eudes, and centuries of priests. Its heart is a Christ-centric mysticism: the spiritual life is lived not as the abstract pursuit of virtues but as putting on the very mysteries of Christ — his Incarnation, his hidden life, his Passion, his Eucharistic life.\n\nIts signature is mental prayer in three movements. Adoration: Jesus before our eyes, contemplated in a mystery. Communion: Jesus in our hearts, received and identified with in that mystery. Cooperation: Jesus in our hands, a concrete resolution to live that mystery today. Around this turn the Mass, spiritual reading, recollection that keeps one thinking with Christ through the day, and the night examen.\n\nFor those with a mystical and Christological pull, anyone formed in the priestly tradition, the soul who wants not virtues in the abstract but Christ himself, mystery by mystery.",
+    "pt-BR": "O plano de Jean-Jacques Olier e da escola francesa de espiritualidade — a escola que formou Vicente de Paulo, João Eudes e séculos de sacerdotes. Seu coração é uma mística cristocêntrica: a vida espiritual não se vive como a busca abstrata de virtudes, mas como revestir-se dos próprios mistérios de Cristo — sua Encarnação, sua vida oculta, sua Paixão, sua vida eucarística.\n\nSua marca é a oração mental em três movimentos. Adoração: Jesus diante dos nossos olhos, contemplado num mistério. Comunhão: Jesus em nossos corações, recebido e a Ele unidos nesse mistério. Cooperação: Jesus em nossas mãos, uma resolução concreta de viver hoje esse mistério. Em torno disto giram a Missa, a leitura espiritual, o recolhimento que faz pensar com Cristo ao longo do dia, e o exame da noite.\n\nPara os de inclinação mística e cristológica, para quem foi formado na tradição sacerdotal, para a alma que não quer virtudes no abstrato, mas o próprio Cristo, mistério a mistério."
+  },
+  "attribution": {
+    "en-US": "Jean-Jacques Olier, Catechism of the Interior Life; the French School of Spirituality",
+    "pt-BR": "Jean-Jacques Olier, Catecismo da Vida Interior; a Escola Francesa de Espiritualidade"
+  },
+  "icon": "monstrance",
+  "tags": ["sulpician", "christocentric", "mental-prayer"],
+  "practices": [
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "Mental prayer in the Sulpician three movements — Adoration, Communion, Cooperation — Jesus before our eyes, in our hearts, and in our hands.",
+        "pt-BR": "A oração mental nos três movimentos sulpicianos — Adoração, Comunhão, Cooperação — Jesus diante dos olhos, no coração e nas mãos."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The daily Eucharist, his Eucharistic life among the mysteries of Christ that the soul is called to put on.",
+        "pt-BR": "A Eucaristia diária, sua vida eucarística entre os mistérios de Cristo dos quais a alma é chamada a revestir-se."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Spiritual reading in the French school — Olier, Bérulle, and the masters who teach the interior life as adherence to Christ.",
+        "pt-BR": "A leitura espiritual na escola francesa — Olier, Bérulle e os mestres que ensinam a vida interior como adesão a Cristo."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The night examen, measuring the day against the resolution born in the morning's Cooperation.",
+        "pt-BR": "O exame da noite, medindo o dia pela resolução nascida da Cooperação da manhã."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Weekly confession, clearing the soul to live more purely in adherence to the mysteries of Christ.",
+        "pt-BR": "A confissão semanal, que limpa a alma para viver mais puramente aderida aos mistérios de Cristo."
+      }
+    }
+  ]
+}

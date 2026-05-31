@@ -1,17 +1,8 @@
 import { format, subWeeks } from 'date-fns'
 import { useRouter } from 'expo-router'
-import {
-  AlertTriangle,
-  BookOpen,
-  Check,
-  ChevronRight,
-  CloudDownload,
-  Library,
-  Loader,
-} from 'lucide-react-native'
-import { useCallback, useMemo, useState } from 'react'
+import { ChevronRight, CloudDownload, Plus, Sparkles } from 'lucide-react-native'
+import { type ReactNode, useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, View } from 'react-native'
 import Animated, {
   FadeIn,
   FadeOut,
@@ -22,42 +13,30 @@ import Animated, {
 } from 'react-native-reanimated'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, GreenWall, SectionDivider } from '@/components'
+import {
+  AnimatedPressable,
+  ManuscriptFrame,
+  SectionDivider,
+  Typography,
+  VotiveWall,
+} from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { calmSpring } from '@/config/animation'
-import { tierConfig } from '@/config/constants'
 import { getManifest } from '@/content/resolver'
-import type { SlotState } from '@/db/events'
-import { useEventStore } from '@/db/events'
-import type { Tier, UserPractice } from '@/db/schema'
-import { usePinPractices } from '@/features/pinning/hooks'
+import type { UserPractice } from '@/db/schema'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
-import { getPracticeIconKey } from '../getPracticeName'
-import {
-  useArchivedPractices,
-  useCompletionRange,
-  useRestartNeededPractices,
-  useSlots,
-} from '../hooks'
+import { useArchivedPractices, useCompletionRange, useSlots } from '../hooks'
 import {
   buildTieredWallData,
   type DayCompletion,
   getCompletionRate,
   getCurrentStreak,
 } from '../utils'
+import { PlanOfflineSheet } from './PlanOfflineSheet'
 import { ResolutionsPanel } from './ResolutionsPanel'
-import { TierBadge } from './TierBadge'
-
-type PracticeGroup = {
-  practiceId: string
-  name: string
-  icon: string
-  tier: Tier
-  slotCount: number
-  enabled: boolean
-}
+import { RuleTree } from './RuleTree'
 
 function getPracticeDisplayName(practiceId: string, practice: UserPractice | undefined): string {
   const manifest = getManifest(practiceId)
@@ -65,56 +44,45 @@ function getPracticeDisplayName(practiceId: string, practice: UserPractice | und
   return practice?.custom_name ?? practiceId
 }
 
-function PinPlanButton({ practiceIds }: { practiceIds: string[] }) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const { allPinned, eligibleCount, isWorking, progress, pinAll } = usePinPractices(practiceIds)
-
-  // Nothing to pin (no corpus practices in plan): hide.
-  if (eligibleCount === 0) return null
-
-  const Icon = isWorking ? Loader : allPinned ? Check : CloudDownload
-  const label = isWorking
-    ? t('plan.pinAllInProgress', {
-        done: progress?.done ?? 0,
-        total: progress?.total ?? eligibleCount,
-      })
-    : allPinned
-      ? t('plan.planOffline')
-      : t('plan.pinAll')
-
-  const tinted = allPinned || isWorking
-
+// The two doorways under the Plano de Vida title: one into the traditions, one
+// to add a practice. A quiet illuminated surface — gold mark over a tracked-caps
+// label — not a bordered box.
+function PlanCard({
+  icon,
+  label,
+  onPress,
+}: {
+  icon: ReactNode
+  label: string
+  onPress: () => void
+}) {
   return (
-    <Pressable
-      onPress={() => {
-        if (allPinned || isWorking) return
-        lightTap()
-        pinAll()
-      }}
-      disabled={allPinned || isWorking}
-      accessibilityRole="button"
-      accessibilityState={{ disabled: allPinned, busy: isWorking }}
-      accessibilityLabel={label}
-    >
-      <XStack
-        alignSelf="center"
-        gap="$xs"
-        alignItems="center"
-        paddingHorizontal="$md"
-        paddingVertical="$xs"
-        borderRadius="$md"
-        borderWidth={0.5}
-        borderColor={tinted ? '$accent' : '$accentSubtle'}
-        backgroundColor={tinted ? '$accentSubtle' : 'transparent'}
-        opacity={isWorking ? 0.85 : 1}
+    <YStack flex={1}>
+      <AnimatedPressable
+        onPress={() => {
+          lightTap()
+          onPress()
+        }}
+        accessibilityRole="link"
+        accessibilityLabel={label}
       >
-        <Icon size={14} color={tinted ? theme.accent.val : theme.colorSecondary.val} />
-        <Text fontFamily="$body" fontSize="$1" color={tinted ? '$accent' : '$colorSecondary'}>
-          {label}
-        </Text>
-      </XStack>
-    </Pressable>
+        <YStack
+          alignItems="center"
+          justifyContent="center"
+          gap="$sm"
+          paddingVertical="$lg"
+          paddingHorizontal="$md"
+          minHeight={100}
+          borderRadius="$lg"
+          backgroundColor="$backgroundSurface"
+        >
+          {icon}
+          <Typography variant="label" textAlign="center" numberOfLines={2}>
+            {label}
+          </Typography>
+        </YStack>
+      </AnimatedPressable>
+    </YStack>
   )
 }
 
@@ -132,8 +100,6 @@ export function RuleOfLifeSections() {
   const theme = useTheme()
 
   const slots = useSlots()
-  const practices = useEventStore((s) => s.practices)
-  const restartNeededIds = useRestartNeededPractices()
   const rangeStart = useMemo(() => format(subWeeks(new Date(), 20), 'yyyy-MM-dd'), [])
   const today = useMemo(() => format(new Date(), 'yyyy-MM-dd'), [])
   const rangeLogs = useCompletionRange(rangeStart, today)
@@ -161,43 +127,12 @@ export function RuleOfLifeSections() {
     }
   }, [rangeLogs, slots])
 
-  // Group slots into practices
-  const practiceGroups = useMemo(() => {
-    const byPractice = new Map<string, SlotState[]>()
-    for (const s of slots) {
-      const existing = byPractice.get(s.practice_id) ?? []
-      existing.push(s)
-      byPractice.set(s.practice_id, existing)
-    }
-
-    const groups: PracticeGroup[] = []
-    for (const [practiceId, practiceSlots] of byPractice) {
-      const first = practiceSlots[0]
-      groups.push({
-        practiceId,
-        name: getPracticeDisplayName(practiceId, practices.get(practiceId)),
-        icon: getPracticeIconKey(first),
-        tier: first.tier,
-        slotCount: practiceSlots.length,
-        enabled: practiceSlots.some((s) => s.enabled === 1),
-      })
-    }
-
-    return groups
-  }, [slots, practices])
-
-  const grouped = useMemo(() => {
-    const groups: Record<Tier, PracticeGroup[]> = { essential: [], ideal: [], extra: [] }
-    for (const p of practiceGroups) {
-      if (p.tier in groups) groups[p.tier].push(p)
-    }
-    return groups
-  }, [practiceGroups])
-
-  const tierSections: Tier[] = ['essential', 'ideal', 'extra']
+  // Distinct corpus/custom practice ids in the plan — drives the offline-pin button.
+  const practiceIds = useMemo(() => [...new Set(slots.map((s) => s.practice_id))], [slots])
 
   const archivedPractices = useArchivedPractices()
   const [archivedExpanded, setArchivedExpanded] = useState(false)
+  const [offlineOpen, setOfflineOpen] = useState(false)
   const chevronRotation = useSharedValue(0)
   const chevronStyle = useAnimatedStyle(() => ({
     transform: [{ rotate: `${chevronRotation.value}deg` }],
@@ -212,217 +147,89 @@ export function RuleOfLifeSections() {
 
   return (
     <>
+      <ManuscriptFrame light>
+        <YStack gap="$md" alignItems="center">
+          <Typography variant="marker">{t('plan.fidelityLabel')}</Typography>
+          <VotiveWall data={wallData} tiered />
+          {stats.streak === 0 && stats.rate === 0 ? (
+            <Typography tone="muted" fontSize="$2" textAlign="center">
+              {t('plan.emptyWall')}
+            </Typography>
+          ) : (
+            <Typography tone="muted" fontSize="$2" textAlign="center">
+              <Typography color="$accent">
+                {t('plan.dayStreakCount', { count: stats.streak })}
+              </Typography>
+              {' · '}
+              <Typography color="$accent">{Math.round(stats.rate * 100)}%</Typography>{' '}
+              {t('plan.thisMonth')}
+            </Typography>
+          )}
+        </YStack>
+      </ManuscriptFrame>
+
       <ResolutionsPanel />
 
-      <YStack alignItems="center">
-        <GreenWall data={wallData} tiered />
-      </YStack>
-
-      {stats.streak === 0 && stats.rate === 0 && (
-        <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
-          {t('plan.emptyWall')}
-        </Text>
-      )}
-
-      <XStack gap="$md">
-        <YStack
-          flex={1}
-          alignItems="center"
-          gap="$xs"
-          borderWidth={0.5}
-          borderColor="$accentSubtle"
-          borderRadius="$md"
-          padding="$md"
-        >
-          <Text fontFamily="$heading" fontSize="$5" color="$accent">
-            {stats.streak}
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {t('plan.dayStreak')}
-          </Text>
-        </YStack>
-        <YStack
-          flex={1}
-          alignItems="center"
-          gap="$xs"
-          borderWidth={0.5}
-          borderColor="$accentSubtle"
-          borderRadius="$md"
-          padding="$md"
-        >
-          <Text fontFamily="$heading" fontSize="$5" color="$accent">
-            {Math.round(stats.rate * 100)}%
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            {t('plan.completion')}
-          </Text>
-        </YStack>
-      </XStack>
-
-      <XStack gap="$md" justifyContent="center">
-        <View style={{ flex: 1 }}>
-          <AnimatedPressable
-            onPress={() => router.push('/browse')}
-            accessibilityRole="link"
-            accessibilityLabel={t('browse.title')}
-          >
-            <YStack
-              alignItems="center"
-              justifyContent="center"
-              gap="$sm"
-              padding="$md"
-              borderWidth={0.5}
-              borderColor="$borderColor"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-            >
-              <Library size={22} color={theme.accent.val} />
-              <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
-                {t('browse.title')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
-        </View>
-        <View style={{ flex: 1 }}>
-          <AnimatedPressable
-            onPress={() => router.push('/practices')}
-            accessibilityRole="link"
-            accessibilityLabel={t('catalog.title')}
-          >
-            <YStack
-              alignItems="center"
-              justifyContent="center"
-              gap="$sm"
-              padding="$md"
-              borderWidth={0.5}
-              borderColor="$borderColor"
-              borderRadius="$lg"
-              backgroundColor="$backgroundSurface"
-            >
-              <BookOpen size={22} color={theme.accent.val} />
-              <Text fontFamily="$heading" fontSize="$1" color="$color" textAlign="center">
-                {t('catalog.title')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
-        </View>
-      </XStack>
-
-      {practiceGroups.length > 0 && (
-        <PinPlanButton practiceIds={practiceGroups.map((g) => g.practiceId)} />
-      )}
+      <PlanOfflineSheet
+        practiceIds={practiceIds}
+        open={offlineOpen}
+        onClose={() => setOfflineOpen(false)}
+      />
 
       <SectionDivider />
 
-      {practiceGroups.length === 0 && (
+      <YStack gap="$md">
+        <XStack alignItems="center" justifyContent="space-between" paddingHorizontal="$xs">
+          <Typography variant="screen-title">{t('plan.title')}</Typography>
+          {practiceIds.length > 0 ? (
+            <AnimatedPressable
+              onPress={() => {
+                lightTap()
+                setOfflineOpen(true)
+              }}
+              hitSlop={12}
+              accessibilityRole="button"
+              accessibilityLabel={t('plan.offlineTitle')}
+            >
+              <CloudDownload size={26} color={theme.accent.val} />
+            </AnimatedPressable>
+          ) : undefined}
+        </XStack>
+        <XStack gap="$md">
+          <PlanCard
+            icon={<Sparkles size={24} color={theme.accent.val} />}
+            label={t('templates.title')}
+            onPress={() => router.push('/templates' as never)}
+          />
+          <PlanCard
+            icon={<Plus size={24} color={theme.accent.val} />}
+            label={t('plan.addCustom')}
+            onPress={() => router.push('/practices')}
+          />
+        </XStack>
+      </YStack>
+
+      {slots.length === 0 ? (
         <AnimatedPressable
           onPress={() => router.push('/practices')}
           accessibilityRole="button"
           accessibilityLabel={t('plan.emptyStateAction')}
         >
-          <YStack
-            alignItems="center"
-            gap="$sm"
-            paddingVertical="$xl"
-            paddingHorizontal="$lg"
-            borderRadius="$lg"
-            borderWidth={1}
-            borderColor="$borderColor"
-            borderStyle="dashed"
-            backgroundColor="$backgroundSurface"
-          >
-            <Text fontFamily="$heading" fontSize="$3" color="$color" textAlign="center">
+          <YStack alignItems="center" gap="$sm" paddingVertical="$xl" paddingHorizontal="$lg">
+            <Typography variant="sacred-title" fontSize="$3">
               {t('plan.emptyState')}
-            </Text>
-            <Text
-              fontFamily="$body"
-              fontSize="$2"
-              color="$colorSecondary"
-              textAlign="center"
-              fontStyle="italic"
-            >
+            </Typography>
+            <Typography tone="muted" fontSize="$2" textAlign="center" fontStyle="italic">
               {t('plan.emptyStateDescription')}
-            </Text>
-            <Text fontFamily="$heading" fontSize="$2" color="$accent">
+            </Typography>
+            <Typography variant="label" color="$accent">
               {t('plan.emptyStateAction')}
-            </Text>
+            </Typography>
           </YStack>
         </AnimatedPressable>
+      ) : (
+        <RuleTree slots={slots} />
       )}
-
-      {tierSections.map((tier) => {
-        const practices = grouped[tier]
-        if (practices.length === 0) return null
-
-        return (
-          <YStack key={tier} gap="$sm">
-            <XStack alignItems="center" gap="$sm" paddingHorizontal="$xs">
-              <TierBadge tier={tier} />
-              <Text fontFamily="$heading" fontSize="$3" color="$color">
-                {t(`tier.${tier}`)}
-              </Text>
-            </XStack>
-
-            {practices.map((group) => (
-              <AnimatedPressable
-                key={group.practiceId}
-                onPress={() =>
-                  router.push({
-                    pathname: '/plan/[practiceId]',
-                    params: { practiceId: group.practiceId },
-                  })
-                }
-                accessibilityRole="link"
-                accessibilityLabel={group.name}
-              >
-                <XStack
-                  backgroundColor="$backgroundSurface"
-                  borderRadius="$lg"
-                  padding="$md"
-                  alignItems="center"
-                  gap="$md"
-                  borderLeftWidth={3}
-                  borderLeftColor={tierConfig[group.tier].color}
-                >
-                  <PracticeIcon name={group.icon} size={20} />
-                  <YStack flex={1} gap={2}>
-                    <Text fontFamily="$body" fontSize="$3" color="$color">
-                      {group.name}
-                    </Text>
-                    {restartNeededIds.has(group.practiceId) ? (
-                      <XStack alignItems="center" gap={4}>
-                        <AlertTriangle size={12} color={theme.accent.val} />
-                        <Text fontFamily="$body" fontSize="$1" color="$accent">
-                          {t('program.restartNeeded')}
-                        </Text>
-                      </XStack>
-                    ) : (
-                      group.slotCount > 1 && (
-                        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                          {group.slotCount} slots
-                        </Text>
-                      )
-                    )}
-                  </YStack>
-                  {group.tier === 'essential' && (
-                    <Text fontFamily="$body" fontSize={28} color="#EF4444">
-                      !!
-                    </Text>
-                  )}
-                  {group.tier === 'ideal' && (
-                    <Text fontFamily="$body" fontSize={28} color="$colorMutedBlue">
-                      !
-                    </Text>
-                  )}
-                  <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-                    ›
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-            ))}
-          </YStack>
-        )
-      })}
 
       {archivedPractices.length > 0 && (
         <>

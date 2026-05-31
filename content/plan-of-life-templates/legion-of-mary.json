@@ -1,0 +1,130 @@
+{
+  "id": "plan-of-life-template/legion-of-mary",
+  "name": {
+    "en-US": "Legion of Mary",
+    "pt-BR": "Legião de Maria"
+  },
+  "description": {
+    "en-US": "Mary's apostles, sent two by two.",
+    "pt-BR": "Os apóstolos de Maria, enviados dois a dois."
+  },
+  "manifesto": {
+    "en-US": "The codified plan of the active Marian apostle. The word \"Legion\" is military-Marian: Mary is the commander, the legionary her instrument, and allegiance her keynote. What sets this rule apart is that the apostolic work itself is a required weekly commitment, not a daily aspiration — spirituality here is inseparable from systematic outreach.\n\nThe daily core is the full five-decade Rosary, non-negotiable, joined to the Catena Legionis — the Magnificat with its antiphon and prayers, prayed at midday — and the morning offering. Around it turn the weekly praesidium meeting and its allotted hours of apostolic work, and the annual Acies, the renewal of consecration to Mary as Mediatrix near the feast of the Annunciation.\n\nFor the temperamentally apostolic — those who want a rule with concrete external deliverables and not only interior ones, and who are blessed with an active praesidium nearby.",
+    "pt-BR": "O plano codificado do apóstolo mariano em ação. A palavra \"Legião\" é militar e mariana: Maria é a comandante, o legionário seu instrumento, e a fidelidade sua nota dominante. O que distingue esta regra é que o próprio trabalho apostólico é um compromisso semanal obrigatório, não uma aspiração diária — aqui a espiritualidade é inseparável do apostolado sistemático.\n\nO núcleo diário é o Rosário inteiro de cinco dezenas, inegociável, unido à Catena Legionis — o Magnificat com sua antífona e preces, rezado ao meio-dia — e ao oferecimento da manhã. Em torno dele giram a reunião semanal do presídio com as horas de trabalho apostólico designadas, e a Acies anual, a renovação da consagração a Maria Medianeira junto à festa da Anunciação.\n\nPara os de têmpera apostólica — quem deseja uma regra com entregas externas concretas, e não apenas interiores, e tem a graça de um presídio ativo por perto."
+  },
+  "attribution": {
+    "en-US": "The Official Handbook of the Legion of Mary (Frank Duff)",
+    "pt-BR": "O Manual Oficial da Legião de Maria (Frank Duff)"
+  },
+  "icon": "mary",
+  "tags": ["legion-of-mary", "marian", "apostolic"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The morning offering, placing the day at the service of Mary, the legionary's commander.",
+        "pt-BR": "O oferecimento da manhã, pondo o dia a serviço de Maria, a comandante do legionário."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The Eucharist when possible, the strength of the apostle sent out to labor in Mary's name.",
+        "pt-BR": "A Eucaristia quando possível, a força do apóstolo enviado a trabalhar em nome de Maria."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Catena Legionis",
+        "pt-BR": "Catena Legionis"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily, at midday",
+        "pt-BR": "Diária, ao meio-dia"
+      },
+      "icon": "mary",
+      "note": {
+        "en-US": "The Legion's daily chain prayer — the Magnificat framed by its antiphon, versicles, and collect — binding every legionary to Mary at midday.",
+        "pt-BR": "A oração-cadeia diária da Legião — o Magnificat emoldurado por sua antífona, versículos e oração — que prende cada legionário a Maria ao meio-dia."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The full five-decade Rosary, non-negotiable — the legionary's daily weapon and the Legion's first duty.",
+        "pt-BR": "O Rosário inteiro de cinco dezenas, inegociável — a arma diária do legionário e o primeiro dever da Legião."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Praesidium meeting",
+        "pt-BR": "Reunião do presídio"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Weekly",
+        "pt-BR": "Semanal"
+      },
+      "icon": "mary",
+      "note": {
+        "en-US": "The Legion's weekly cell meeting — prayer, report, allocation of work, and spiritual reading from the Handbook; a non-negotiable of the rule.",
+        "pt-BR": "A reunião semanal da célula da Legião — oração, relato, distribuição do trabalho e leitura espiritual do Manual; um dever inegociável da regra."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Apostolic work",
+        "pt-BR": "Trabalho apostólico"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Weekly, about two hours",
+        "pt-BR": "Semanal, cerca de duas horas"
+      },
+      "icon": "mary",
+      "note": {
+        "en-US": "The weekly hours of active apostolate allocated at the meeting — door-to-door visits, hospital and parish work; in the Legion the work itself is required, not optional.",
+        "pt-BR": "As horas semanais de apostolado ativo designadas na reunião — visitas de porta em porta, trabalho em hospitais e na paróquia; na Legião o trabalho é obrigatório, não opcional."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "ideal",
+      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "note": {
+        "en-US": "Frequent confession, recommended for the apostle who must carry grace to others.",
+        "pt-BR": "A confissão frequente, recomendada ao apóstolo que deve levar a graça aos outros."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Acies (consecration renewal)",
+        "pt-BR": "Acies (renovação da consagração)"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Annually, near March 25",
+        "pt-BR": "Anual, junto a 25 de março"
+      },
+      "icon": "mary",
+      "note": {
+        "en-US": "The annual gathering near the Annunciation where legionaries renew their consecration to Mary as Mediatrix — the Legion's central act of allegiance.",
+        "pt-BR": "O encontro anual junto à Anunciação em que os legionários renovam sua consagração a Maria Medianeira — o ato central de fidelidade da Legião."
+      }
+    }
+  ]
+}

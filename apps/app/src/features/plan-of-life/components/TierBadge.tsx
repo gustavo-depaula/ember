@@ -1,24 +1,23 @@
 import { useTranslation } from 'react-i18next'
-import { Text, YStack } from 'tamagui'
 
+import { Typography } from '@/components'
 import { tierConfig } from '@/config/constants'
 import type { Tier } from '@/db/schema'
 
+// A tracked-caps signpost in the tier's liturgical color — no filled pill.
 export function TierBadge({ tier }: { tier: Tier }) {
   const { t } = useTranslation()
   const config = tierConfig[tier]
 
   return (
-    <YStack
-      backgroundColor={config.color}
-      borderRadius="$sm"
-      paddingHorizontal="$xs"
-      paddingVertical={2}
-      opacity={0.85}
+    <Typography
+      fontFamily="$heading"
+      fontSize="$1"
+      color={config.color}
+      textTransform="uppercase"
+      letterSpacing={1.5}
     >
-      <Text fontFamily="$body" fontSize="$1" color="white" textTransform="uppercase">
-        {t(`tier.${tier}`)}
-      </Text>
-    </YStack>
+      {t(`tier.${tier}`)}
+    </Typography>
   )
 }

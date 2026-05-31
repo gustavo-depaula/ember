@@ -7,7 +7,7 @@
 // Re-runnable: pass a comma-list of ids to refetch just those, else fetches all.
 //   node scripts/fetch-explore-art.mjs [collection/sacred-heart,...]
 
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -36,6 +36,58 @@ const targets = [
   { id: 'collection/montfort-spirituality', slug: 'montfort', q: 'Coronation of the Virgin Velázquez' },
   { id: 'collection/novenas', slug: 'novenas', q: 'Annunciation Fra Angelico' },
   { id: 'collection/litanies', slug: 'litanies', q: 'Madonna of the Rosary painting' },
+
+  // Plan-of-life templates. Each names the canonical PD masterpiece of its
+  // school. Modern founders (Josemaría, Thérèse photos) aren't PD, so the work
+  // is chosen by charism, not portrait: the Angelus for sanctified work, etc.
+  // Marian-consecration and sacred-heart reuse the collection paintings
+  // (mapped directly in artMap), so they're not refetched here.
+  {
+    id: 'plan-of-life-template/beginner-minimum',
+    slug: 'tpl-beginner-minimum',
+    q: 'Good Shepherd Murillo',
+  },
+  // Salesian — *Introduction to the Devout Life* is a gentle guide to devotion
+  // in the world; Sassoferrato's serene Virgin in Prayer matches its sweetness
+  // far better than a bishop's portrait.
+  {
+    id: 'plan-of-life-template/salesian',
+    slug: 'tpl-salesian',
+    q: 'Virgin in Prayer Sassoferrato',
+  },
+  { id: 'plan-of-life-template/opus-dei', slug: 'tpl-opus-dei', q: 'The Angelus Jean-François Millet' },
+  {
+    id: 'plan-of-life-template/ignatian',
+    slug: 'tpl-ignatian',
+    q: 'Saint Ignatius of Loyola Rubens',
+  },
+  // Little Way — spiritual childhood and trust; Bloch's children-of-Christ scene
+  // embodies it better than a roses still-life.
+  {
+    id: 'plan-of-life-template/little-way',
+    slug: 'tpl-little-way',
+    q: 'Carl Bloch Suffer the Little Children to Come unto Me',
+  },
+  // Second-wave traditions. Carmelite reuses carmelite.jpg (St Teresa) and
+  // legion-of-mary reuses marian.jpg — mapped directly in artMap, not refetched.
+  { id: 'plan-of-life-template/dominican', slug: 'tpl-dominican', q: 'Fra Angelico Saint Dominic' },
+  {
+    id: 'plan-of-life-template/franciscan',
+    slug: 'tpl-franciscan',
+    q: 'Saint Francis of Assisi in Ecstasy Caravaggio',
+  },
+  {
+    id: 'plan-of-life-template/benedictine',
+    slug: 'tpl-benedictine',
+    q: 'Angelico Perugia Altarpiece Saint Benedict',
+  },
+  { id: 'plan-of-life-template/cursillo', slug: 'tpl-cursillo', q: 'Supper at Emmaus Caravaggio' },
+  {
+    id: 'plan-of-life-template/sulpician',
+    slug: 'tpl-sulpician',
+    q: 'Adoration of the Name of Jesus El Greco',
+  },
+  { id: 'plan-of-life-template/byzantine', slug: 'tpl-byzantine', q: 'Christ Pantocrator Sinai' },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'
@@ -126,13 +178,27 @@ async function run() {
     }
   }
 
+  // Merge with any existing CREDITS so a filtered run (only some ids) updates
+  // just those lines and never drops the others' attributions.
+  const lineFor = (c) =>
+    `- **${c.id}** → \`${c.file}\` — ${c.artist}. *${c.title.replace('File:', '')}* (${c.lic}).`
+  const byId = new Map()
+  try {
+    const prev = await readFile(resolve(contentDir, 'CREDITS.md'), 'utf8')
+    for (const l of prev.split('\n')) {
+      const m = l.match(/^- \*\*(.+?)\*\*/)
+      if (m) byId.set(m[1], l)
+    }
+  } catch {}
+  for (const c of credits) byId.set(c.id, lineFor(c))
+
   const creditsMd = [
     '# Explore art credits',
     '',
     'Public-domain sacred paintings (PD-Art) sourced from Wikimedia Commons for the',
     'Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.',
     '',
-    ...credits.map((c) => `- **${c.id}** → \`${c.file}\` — ${c.artist}. *${c.title.replace('File:', '')}* (${c.lic}).`),
+    ...byId.values(),
     '',
   ].join('\n')
   await writeFile(resolve(contentDir, 'CREDITS.md'), creditsMd)

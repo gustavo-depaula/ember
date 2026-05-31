@@ -1,0 +1,80 @@
+{
+  "name": {
+    "en-US": "Salesian",
+    "pt-BR": "Salesiana"
+  },
+  "description": {
+    "en-US": "The devout life in the world.",
+    "pt-BR": "A vida devota no mundo."
+  },
+  "manifesto": {
+    "en-US": "St. Francis de Sales wrote his Introduction to the Devout Life for courtiers, mothers, soldiers, and merchants — the first plan of life made for the laity. Its conviction is that devotion should make you more joyful, more loving, more attractive to those around you, not less.\n\nThe day is framed by morning meditation and the preparation of the day; a single phrase is carried like a nosegay through the hours; the heart returns often to God's presence. Gentle perseverance over heroic feats; the little virtues — gentleness, humility, patience — over grand austerities.\n\nFor beginners, for families, for anyone burned by rigorism, or for the rare soul who wants their rule to make them kinder.",
+    "pt-BR": "São Francisco de Sales escreveu a sua Filoteia para cortesãos, mães, soldados e mercadores — o primeiro plano de vida feito para os leigos. Sua convicção é que a devoção deve tornar-nos mais alegres, mais amorosos, mais agradáveis aos que nos cercam, e não o contrário.\n\nO dia é emoldurado pela meditação da manhã e pela preparação da jornada; uma única frase é levada como um ramalhete pelas horas; o coração retorna com frequência à presença de Deus. Perseverança suave acima de feitos heroicos; as pequenas virtudes — mansidão, humildade, paciência — acima das grandes austeridades.\n\nPara iniciantes, para famílias, para quem se feriu no rigorismo, ou para a alma rara que deseja que sua regra a torne mais bondosa."
+  },
+  "attribution": {
+    "en-US": "St. Francis de Sales, Introduction to the Devout Life",
+    "pt-BR": "São Francisco de Sales, Filoteia (Introdução à Vida Devota)"
+  },
+  "icon": "candle",
+  "tags": ["salesian", "laity", "beginner-friendly"],
+  "practices": [
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The half-hour of morning meditation from which one phrase is gathered like a nosegay to be carried, breathed in, through the whole day.",
+        "pt-BR": "A meia-hora de meditação matinal de onde se colhe uma única frase, como um ramalhete, para ser levada e respirada ao longo de todo o dia."
+      }
+    },
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The preparation of the day — foreseeing its occasions of virtue and of sin, and giving the hours to God before they begin.",
+        "pt-BR": "A preparação do dia — prever as suas ocasiões de virtude e de pecado, e entregar as horas a Deus antes que comecem."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "The Eucharist when one's state in life allows — for St. Francis pressed frequent Communion on the laity against the rigorists of his age.",
+        "pt-BR": "A Eucaristia quando o estado de vida permite — pois São Francisco insistia na Comunhão frequente dos leigos, contra os rigoristas de sua época."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "A daily page from a devout book, the gentle nourishment that keeps the heart tender and the little virtues growing.",
+        "pt-BR": "Uma página diária de um livro devoto, o alimento suave que mantém o coração terno e as pequenas virtudes em crescimento."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "A brief, kindly review at evening — never harsh, for the devout life should leave one more joyful and loving, not anxious.",
+        "pt-BR": "Uma revisão breve e bondosa ao entardecer — nunca dura, pois a vida devota deve deixar-nos mais alegres e amorosos, não ansiosos."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "ideal",
+      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "note": {
+        "en-US": "Frequent confession, weekly or fortnightly, sought as a sweetness and a renewal rather than endured as a reckoning.",
+        "pt-BR": "A confissão frequente, semanal ou quinzenal, buscada como doçura e renovação, e não suportada como ajuste de contas."
+      }
+    }
+  ]
+}

@@ -9,10 +9,10 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   confirm,
-  GreenWall,
   PrayButton,
   ScreenLayout,
   SectionDivider,
+  VotiveWall,
 } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/resolver'
@@ -177,7 +177,7 @@ export default function PracticeDetailScreen() {
         ) : null}
 
         <YStack alignItems="center">
-          <GreenWall data={wallData} />
+          <VotiveWall data={wallData} />
         </YStack>
 
         <SectionDivider />

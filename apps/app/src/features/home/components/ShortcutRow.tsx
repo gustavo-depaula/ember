@@ -26,16 +26,7 @@ export function ShortcutRow({
         accessibilityLabel={title}
         accessibilityHint={tagline}
       >
-        <XStack
-          alignItems="center"
-          gap="$md"
-          paddingVertical="$sm"
-          paddingHorizontal="$md"
-          borderRadius="$lg"
-          backgroundColor="$backgroundSurface"
-          borderWidth={1}
-          borderColor="$borderColor"
-        >
+        <XStack alignItems="center" gap="$md" paddingVertical="$sm" paddingHorizontal="$xs">
           <YStack width={28} height={48} alignItems="center" justifyContent="center">
             {leading}
           </YStack>

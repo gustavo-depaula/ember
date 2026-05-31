@@ -1,0 +1,18 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Settle into stillness, and slowly repeat:",
+				"pt-BR": "Aquiete-se em silêncio e repita lentamente:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, have mercy on me, a sinner.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador."
+			}
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "plan-of-life-template/franciscan",
+  "name": {
+    "en-US": "Franciscan",
+    "pt-BR": "Franciscana"
+  },
+  "description": {
+    "en-US": "Conversion, littleness, and joy.",
+    "pt-BR": "Conversão, pequenez e alegria."
+  },
+  "manifesto": {
+    "en-US": "The plan of the Secular Franciscan Order, rooted in the Rule of St. Francis and the canonical Rule of Paul VI (1978). Its central category is conversion — metanoia — for the Rule calls Franciscans \"penitents,\" those forever turning back to the Gospel as their rule and life.\n\nThe Liturgy of the Hours, at minimum Lauds and Vespers; the Eucharist; the Gospel read and lived; a nightly examination; and Marian devotion in the Franciscan key. Through it all runs minoritas — being little, being last, refusing prestige — and a joy in poverty that treats creation as sister and brother, never as a resource to be used.\n\nFor anyone moved by Francis: the simple, the activist, those drawn to voluntary poverty and peace, the soul who wants their rule of life to also be a quiet protest against the consumer life.",
+    "pt-BR": "O plano da Ordem Franciscana Secular, enraizado na Regra de São Francisco e na Regra canônica de Paulo VI (1978). Sua categoria central é a conversão — metanoia — pois a Regra chama os franciscanos de \"penitentes\", os que sempre retornam ao Evangelho como sua regra e vida.\n\nA Liturgia das Horas, ao menos Laudes e Vésperas; a Eucaristia; o Evangelho lido e vivido; o exame de cada noite; e a devoção mariana no tom franciscano. Por tudo isso corre a minoritas — ser pequeno, ser o último, recusar o prestígio — e uma alegria na pobreza que trata a criação como irmã e irmão, jamais como recurso a ser usado.\n\nPara todo aquele tocado por Francisco: os simples, os engajados, os atraídos pela pobreza voluntária e pela paz, a alma que deseja que sua regra de vida seja também um protesto silencioso contra a vida do consumo."
+  },
+  "attribution": {
+    "en-US": "Rule of the Secular Franciscan Order (Paul VI, 1978); the Earlier and Later Rule of St. Francis",
+    "pt-BR": "Regra da Ordem Franciscana Secular (Paulo VI, 1978); a Primeira e a Segunda Regra de São Francisco"
+  },
+  "icon": "cross",
+  "tags": ["franciscan", "penance", "simplicity"],
+  "practices": [
+    {
+      "ref": "divine-office",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The Liturgy of the Hours — the OFS Rule names Lauds and Vespers explicitly as the secular Franciscan's minimum.",
+        "pt-BR": "A Liturgia das Horas — a Regra da OFS nomeia explicitamente Laudes e Vésperas como o mínimo do franciscano secular."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "The daily Eucharist when possible, the center toward which the penitent's conversion is forever turning.",
+        "pt-BR": "A Eucaristia diária quando possível, o centro para o qual a conversão do penitente sempre se volta."
+      }
+    },
+    {
+      "ref": "gospel-of-the-day",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "08:00",
+      "note": {
+        "en-US": "The Gospel of the day read and lived — to observe the Gospel as one's rule and life is the whole of the Franciscan vocation.",
+        "pt-BR": "O Evangelho do dia lido e vivido — observar o Evangelho como regra e vida é toda a vocação franciscana."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Franciscan Crown",
+        "pt-BR": "Coroa Franciscana"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diária"
+      },
+      "icon": "rosary",
+      "note": {
+        "en-US": "The Crown of the Seven Joys of Our Lady — the proper Franciscan rosary, recalling the Annunciation, Visitation, Nativity, Adoration of the Magi, Finding in the Temple, Resurrection, and Assumption.",
+        "pt-BR": "A Coroa dos Sete Gozos de Nossa Senhora — o rosário próprio dos franciscanos, que recorda a Anunciação, a Visitação, o Natal, a Adoração dos Magos, o Reencontro no Templo, a Ressurreição e a Assunção."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The nightly examination, the penitent's daily metanoia — turning back, again, to the Gospel and to littleness.",
+        "pt-BR": "O exame de cada noite, a metanoia diária do penitente — voltar-se, de novo, ao Evangelho e à pequenez."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Regular confession — fitting for an order that calls its members penitents, those who never stop turning back to the Lord.",
+        "pt-BR": "A confissão regular — própria de uma ordem que chama seus membros de penitentes, os que nunca cessam de voltar-se ao Senhor."
+      }
+    }
+  ]
+}

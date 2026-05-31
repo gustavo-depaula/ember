@@ -126,10 +126,18 @@ function rewriteImagePaths(value: unknown, refs: Map<string, string>): void {
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
 const CRITICAL_KINDS = ['practice'] as const
-const DEFERRED_KINDS = ['chapter', 'book', 'collection', 'creator'] as const
+const DEFERRED_KINDS = [
+  'chapter',
+  'book',
+  'collection',
+  'plan-of-life-template',
+  'creator',
+] as const
 
 async function warmKinds(
-  kinds: ReadonlyArray<'practice' | 'chapter' | 'book' | 'collection' | 'creator'>,
+  kinds: ReadonlyArray<
+    'practice' | 'chapter' | 'book' | 'collection' | 'plan-of-life-template' | 'creator'
+  >,
 ): Promise<void> {
   const hashes: string[] = []
   for (const kind of kinds) {

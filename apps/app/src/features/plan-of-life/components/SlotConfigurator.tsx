@@ -1,8 +1,7 @@
-import DateTimePicker from '@react-native-community/datetimepicker'
 import { Bell, ChevronRight, Clock, Plus, Trash2, X } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, Switch } from 'react-native'
+import { Switch } from 'react-native'
 import Animated, {
   FadeIn,
   FadeOut,
@@ -15,18 +14,16 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm } from '@/components'
 import { calmSpring } from '@/config/animation'
-import { tierConfig } from '@/config/constants'
 import type { SlotState } from '@/db/events'
 import type { NotifyConfig, NotifyReminder, Tier } from '@/db/schema'
 import { lightTap, mediumTap } from '@/lib/haptics'
 import { enrichSlot } from '../getPracticeName'
 import { describeLeadTime, parseNotifyConfig, REMINDER_PRESETS } from '../notify'
 import { parseSchedule } from '../schedule'
-import { deriveTimeBlock } from '../timeBlocks'
 import { SchedulePicker } from './SchedulePicker'
 import { TierBadge } from './TierBadge'
-
-const tierEntries = Object.entries(tierConfig) as [Tier, { color: string }][]
+import { TierSelector } from './TierSelector'
+import { TimeInput } from './TimeInput'
 
 function useReminderLabel() {
   const { t } = useTranslation()
@@ -151,169 +148,6 @@ function NotificationsSection({
         </Animated.View>
       )}
     </YStack>
-  )
-}
-
-function TierSelector({ value, onChange }: { value: Tier; onChange: (tier: Tier) => void }) {
-  const { t } = useTranslation()
-  return (
-    <XStack gap="$sm">
-      {tierEntries.map(([tier, config]) => (
-        <AnimatedPressable
-          key={tier}
-          onPress={() => {
-            lightTap()
-            onChange(tier)
-          }}
-          style={{ flex: 1 }}
-          accessibilityRole="radio"
-          accessibilityLabel={t(`tier.${tier}`)}
-          accessibilityState={{ selected: value === tier }}
-        >
-          <YStack
-            paddingVertical="$sm"
-            paddingHorizontal="$md"
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor={value === tier ? config.color : '$borderColor'}
-            backgroundColor={value === tier ? config.color : 'transparent'}
-            alignItems="center"
-            opacity={value === tier ? 1 : 0.7}
-          >
-            <Text fontFamily="$body" fontSize="$3" color={value === tier ? 'white' : '$color'}>
-              {t(`tier.${tier}`)}
-            </Text>
-          </YStack>
-        </AnimatedPressable>
-      ))}
-    </XStack>
-  )
-}
-
-function TimeInput({
-  value,
-  onChange,
-}: {
-  value: string | null
-  onChange: (time: string | null) => void
-}) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const [showPicker, setShowPicker] = useState(false)
-
-  const date = useMemo(() => {
-    if (!value) return new Date(2000, 0, 1, 8, 0)
-    const [h, m] = value.split(':').map(Number)
-    return new Date(2000, 0, 1, h || 0, m || 0)
-  }, [value])
-
-  const blockLabel = value ? deriveTimeBlock(value) : 'flexible'
-
-  if (!value) {
-    return (
-      <AnimatedPressable
-        onPress={() => {
-          lightTap()
-          onChange('08:00')
-          if (Platform.OS !== 'ios') setShowPicker(true)
-        }}
-        accessibilityRole="button"
-        accessibilityLabel={t('editor.setTime')}
-      >
-        <XStack
-          alignItems="center"
-          gap="$sm"
-          paddingVertical="$sm"
-          paddingHorizontal="$md"
-          borderRadius="$md"
-          borderWidth={1}
-          borderColor="$borderColor"
-          borderStyle="dashed"
-        >
-          <Clock size={18} color={theme.accent.val} />
-          <Text fontFamily="$body" fontSize="$3" color="$accent">
-            {t('editor.setTime')}
-          </Text>
-        </XStack>
-      </AnimatedPressable>
-    )
-  }
-
-  return (
-    <XStack alignItems="center" gap="$md">
-      {Platform.OS === 'ios' ? (
-        <DateTimePicker
-          value={date}
-          mode="time"
-          display="compact"
-          onChange={(_, selected) => {
-            if (selected) {
-              const hh = String(selected.getHours()).padStart(2, '0')
-              const mm = String(selected.getMinutes()).padStart(2, '0')
-              onChange(`${hh}:${mm}`)
-            }
-          }}
-        />
-      ) : (
-        <>
-          <AnimatedPressable
-            onPress={() => {
-              lightTap()
-              setShowPicker(true)
-            }}
-            accessibilityRole="button"
-            accessibilityLabel={t('editor.timeOfDay')}
-            accessibilityValue={{ text: value }}
-          >
-            <XStack
-              alignItems="center"
-              gap="$sm"
-              paddingVertical="$sm"
-              paddingHorizontal="$md"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$accent"
-            >
-              <Clock size={18} color={theme.accent.val} />
-              <Text fontFamily="$body" fontSize="$3" color="$accent">
-                {value}
-              </Text>
-            </XStack>
-          </AnimatedPressable>
-          {showPicker && (
-            <DateTimePicker
-              value={date}
-              mode="time"
-              display="default"
-              onChange={(_, selected) => {
-                setShowPicker(false)
-                if (selected) {
-                  const hh = String(selected.getHours()).padStart(2, '0')
-                  const mm = String(selected.getMinutes()).padStart(2, '0')
-                  onChange(`${hh}:${mm}`)
-                }
-              }}
-            />
-          )}
-        </>
-      )}
-      <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
-        {t(`timeBlock.${blockLabel}`)}
-      </Text>
-      <AnimatedPressable
-        onPress={() => {
-          lightTap()
-          onChange(null)
-        }}
-        hitSlop={12}
-        accessibilityRole="button"
-        accessibilityLabel={t('common.clear')}
-      >
-        <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-          {t('common.clear')}
-        </Text>
-      </AnimatedPressable>
-    </XStack>
   )
 }
 

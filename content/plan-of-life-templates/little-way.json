@@ -1,0 +1,93 @@
+{
+  "name": {
+    "en-US": "The Little Way",
+    "pt-BR": "O Caminho da Infância"
+  },
+  "description": {
+    "en-US": "Confidence, littleness, small acts of love.",
+    "pt-BR": "Confiança, pequenez, pequenos atos de amor."
+  },
+  "manifesto": {
+    "en-US": "St. Thérèse of Lisieux offers not so much a method as a temper — childhood of soul. To be little is a vocation, not a defeat; to do ordinary things with great love is the surest path to God.\n\nThe rule is deliberately gentle. A short mental prayer or Gospel reading — ten minutes is enough, for Thérèse herself struggled with longer. A morning offering through Mary, the Rosary or a part of it, and above all the small acts named through the day: a swallowed retort, a hidden kindness, a smile when it costs. Confession is kept gently, against scrupulosity.\n\nFor beginners, for recovering scrupulants, for mothers of small children, for the chronically ill — for anyone whose honest temptation is to make their plan too heroic to keep.",
+    "pt-BR": "Santa Teresinha do Menino Jesus oferece menos um método do que um temperamento — a infância espiritual. Ser pequeno é uma vocação, não uma derrota; fazer as coisas comuns com grande amor é o caminho mais seguro para Deus.\n\nA regra é deliberadamente suave. Uma breve oração mental ou leitura do Evangelho — dez minutos bastam, pois a própria Teresinha lutava com tempos mais longos. Um oferecimento matinal por Maria, o Rosário ou parte dele, e sobretudo os pequenos atos nomeados ao longo do dia: uma réplica engolida, uma bondade escondida, um sorriso quando custa. A confissão se mantém com brandura, contra a escrupulosidade.\n\nPara iniciantes, para quem se cura do escrúpulo, para mães de crianças pequenas, para os enfermos crônicos — para todo aquele cuja tentação sincera é tornar o próprio plano heroico demais para ser cumprido."
+  },
+  "attribution": {
+    "en-US": "St. Thérèse of Lisieux, Story of a Soul",
+    "pt-BR": "Santa Teresa de Lisieux, História de uma Alma"
+  },
+  "icon": "candle",
+  "tags": ["little-way", "carmelite", "gentle", "beginner-friendly"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The day surrendered to Jesus through Mary with a child's trust, asking only to do little things with great love.",
+        "pt-BR": "O dia entregue a Jesus por Maria com a confiança de uma criança, pedindo apenas fazer as pequenas coisas com grande amor."
+      }
+    },
+    {
+      "ref": "gospel-of-the-day",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "A short, unhurried reading — ten minutes is enough, for Thérèse herself found long mental prayer hard, and trust matters more than length.",
+        "pt-BR": "Uma leitura breve e sem pressa — dez minutos bastam, pois a própria Teresinha achava difícil a oração mental longa, e a confiança vale mais que a duração."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Communion received as the little child receives from her Father's hand — not earned by feats, but given out of love.",
+        "pt-BR": "A Comunhão recebida como a criança pequena recebe da mão do Pai — não conquistada por feitos, mas dada por amor."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The Rosary, or a part of it — kept gently, since for the Little Way faithfulness in small measure outweighs anxious abundance.",
+        "pt-BR": "O Rosário, ou parte dele — mantido com brandura, pois para o Caminho da Infância a fidelidade na pequena medida vale mais que a abundância ansiosa."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "A gentle evening glance at the day's little fidelities and falls — the hidden kindnesses and swallowed retorts offered, the failures met with trust, not scruple.",
+        "pt-BR": "Um olhar suave ao entardecer sobre as pequenas fidelidades e quedas do dia — as bondades escondidas e réplicas engolidas oferecidas, as faltas acolhidas com confiança, não com escrúpulo."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "ideal",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Confession kept simply and without scrupulosity, which Thérèse warned was itself an obstacle to the mercy it doubts.",
+        "pt-BR": "A confissão mantida com simplicidade e sem escrupulosidade, que Teresinha advertia ser ela mesma um obstáculo à misericórdia de que duvida."
+      }
+    }
+  ],
+  "resolutions": [
+    {
+      "title": {
+        "en-US": "Offer a hidden act of love each day",
+        "pt-BR": "Oferecer um ato de amor escondido a cada dia"
+      },
+      "text": {
+        "en-US": "Name one small sacrifice daily — a swallowed retort, a kindness no one sees, a smile when it costs — and offer it for a soul.",
+        "pt-BR": "Nomear a cada dia um pequeno sacrifício — uma réplica engolida, uma bondade que ninguém vê, um sorriso que custa — e oferecê-lo por uma alma."
+      }
+    }
+  ],
+  "collections": ["collection/spiritual-classics"]
+}

@@ -2,7 +2,7 @@ import { addDays, format, startOfWeek, subWeeks } from 'date-fns'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { useTheme, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 export type WallEntry = { date: string; value: number }
 
@@ -28,28 +28,68 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
   return columns
 }
 
-const cellConfig = { size: 12, gap: 2, radius: 6 }
+// `size` is the fixed layout box (= the largest star); `minStar` is the glyph
+// size for a missed day. Fuller days grow toward `size`, so the wall reads as
+// small embers swelling into large lit stars.
+const cellConfig = { size: 18, minStar: 8, gap: 2 }
+const starGlyph = '✦' // ✦ — the app's fleuron, here as a wall of lit stars
 
-function Cell({ color, date, onPress }: { color: string; date: string; onPress?: () => void }) {
+// Star size scales with intensity: a missed day is a small ember, a kept day a
+// full star. `value` is a 0-based intensity index into the ramp.
+function cellStarSize(value: number, max: number): number {
+  if (max <= 1) return cellConfig.size
+  const t = value / (max - 1)
+  return Math.round(cellConfig.minStar + (cellConfig.size - cellConfig.minStar) * t)
+}
+
+// The brightest steps get a soft gold halo so kept days glow like lit stars.
+function cellGlow(value: number, max: number, accent: string) {
+  if (value < max - 1) return undefined
+  return {
+    textShadowColor: accent,
+    textShadowRadius: value === max - 1 ? 3 : 6,
+    textShadowOffset: { width: 0, height: 0 },
+  }
+}
+
+// Each day is a ✦ star, inked by the ember ramp and sized by fidelity — faint
+// and small for missed days, warm gold and large (glowing) for kept ones.
+function Cell({
+  color,
+  date,
+  size,
+  glow,
+  onPress,
+}: {
+  color: string
+  date: string
+  size: number
+  glow?: ReturnType<typeof cellGlow>
+  onPress?: () => void
+}) {
   const { t } = useTranslation()
-  const square = (
+  const star = (
     <YStack
       width={cellConfig.size}
       height={cellConfig.size}
-      borderRadius={cellConfig.radius}
-      backgroundColor={color}
-    />
+      alignItems="center"
+      justifyContent="center"
+    >
+      <Text fontSize={size} lineHeight={size} color={color} style={glow}>
+        {starGlyph}
+      </Text>
+    </YStack>
   )
 
   if (onPress) {
     return (
       <Pressable onPress={onPress} accessibilityLabel={t('a11y.wallDay', { date })}>
-        {square}
+        {star}
       </Pressable>
     )
   }
 
-  return square
+  return star
 }
 
 function useWallColors(tiered: boolean) {
@@ -75,7 +115,7 @@ function useWallColors(tiered: boolean) {
   ]
 }
 
-export function GreenWall({
+export function VotiveWall({
   data,
   onDayPress,
   weeks = 20,
@@ -88,6 +128,8 @@ export function GreenWall({
 }) {
   const grid = useMemo(() => buildWeekGrid(data, weeks), [data, weeks])
   const colors = useWallColors(tiered)
+  const theme = useTheme()
+  const accent = theme.accent.val
 
   return (
     <XStack gap={cellConfig.gap} justifyContent="flex-end">
@@ -97,6 +139,8 @@ export function GreenWall({
             <Cell
               key={entry.date}
               color={colors[entry.value] ?? colors[0]}
+              size={cellStarSize(entry.value, colors.length)}
+              glow={cellGlow(entry.value, colors.length, accent)}
               date={entry.date}
               onPress={onDayPress ? () => onDayPress(entry.date) : undefined}
             />

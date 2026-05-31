@@ -17,3 +17,14 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/montfort-spirituality** → `montfort.jpg` — Diego Velázquez. *Diego Velázquez - Coronation of the Virgin - Prado.jpg* (Public domain).
 - **collection/novenas** → `novenas.jpg` — Fra Angelico. *La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg* (Public domain).
 - **collection/litanies** → `litanies.jpg` — Caravaggio. *Michelangelo Merisi, called Caravaggio - Madonna of the Rosary - Google Art Project.jpg* (Public domain).
+- **plan-of-life-template/beginner-minimum** → `tpl-beginner-minimum.jpg` — Bartolomé Esteban Murillo. *BuenPastorMurillo1660.jpg* (Public domain).
+- **plan-of-life-template/salesian** → `tpl-salesian.jpg` — Giovanni Battista Salvi da Sassoferrato. *Sassoferrato - Jungfrun i bön.jpg* (Public domain).
+- **plan-of-life-template/opus-dei** → `tpl-opus-dei.jpg` — Jean-François Millet. *Jean-François Millet Angelus.jpg* (Public domain).
+- **plan-of-life-template/ignatian** → `tpl-ignatian.jpg` — Peter Paul Rubens. *Detail - Glory of St Ignatius of Loyola - Rubens - 1616 - KHM - Vienna.jpg* (Public domain).
+- **plan-of-life-template/little-way** → `tpl-little-way.jpg` — Carl Bloch. *Let the Little Children Come unto Jesus.jpg* (Public domain).
+- **plan-of-life-template/dominican** → `tpl-dominican.jpg` — Fra Angelico. *Fra Angelico - Saint Dominic Adoring the Crucifixion - WGA00562.jpg* (Public domain).
+- **plan-of-life-template/franciscan** → `tpl-franciscan.jpg` — Caravaggio. *Saint Francis of Assisi in Ecstasy-Caravaggio (c.1595).jpg* (Public domain).
+- **plan-of-life-template/cursillo** → `tpl-cursillo.jpg` — Caravaggio. *Supper at Emmaus-Caravaggio (1606).jpg* (Public domain).
+- **plan-of-life-template/sulpician** → `tpl-sulpician.png` — El Greco. *El Greco, The Adoration of the Name of Jesus.png* (Public domain).
+- **plan-of-life-template/byzantine** → `tpl-byzantine.jpg` — Unknown authorUnknown author. *Christ Icon Sinai 6th century.jpg* (Public domain).
+- **plan-of-life-template/benedictine** → `tpl-benedictine.jpg` — Fra Angelico. *Angelico - Perugia Altarpiece – Saint Benedict and Peter the Martyr.jpg* (Public domain).

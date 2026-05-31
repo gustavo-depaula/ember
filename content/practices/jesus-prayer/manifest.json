@@ -1,0 +1,45 @@
+{
+	"id": "jesus-prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "The Jesus Prayer",
+		"pt-BR": "Oração de Jesus"
+	},
+	"categories": [
+		"daily"
+	],
+	"estimatedMinutes": 5,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The short, repeated prayer of the Christian East: \"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\" Prayed slowly and often, it draws the mind down into the heart.",
+		"pt-BR": "A breve oração repetida do Oriente cristão: \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador.\" Rezada lentamente e com frequência, faz descer a mente ao coração."
+	},
+	"history": {
+		"en-US": "The Jesus Prayer is the heart of the hesychast tradition, distilled from the Gospel cries for mercy and the counsel of the Desert Fathers to \"pray without ceasing.\" Refined in the monasteries of Sinai and Mount Athos and gathered in the Philokalia, it became the people's prayer through The Way of a Pilgrim. A knotted prayer rope (chotki) is often used to count the repetitions.",
+		"pt-BR": "A Oração de Jesus é o coração da tradição hesicasta, destilada dos clamores por misericórdia do Evangelho e do conselho dos Padres do Deserto de \"orar sem cessar\". Refinada nos mosteiros do Sinai e do Monte Atos e reunida na Filocalia, tornou-se a oração do povo através do livro Relatos de um Peregrino Russo. Um cordão de nós (chotki) é frequentemente usado para contar as repetições."
+	},
+	"howToPray": {
+		"en-US": "Sit or stand in stillness. Slowly repeat the prayer, uniting the words to your breath if it helps — \"Lord Jesus Christ, Son of God\" as you breathe in, \"have mercy on me, a sinner\" as you breathe out. Let the words rest in the heart rather than the mind. Begin with a fixed number — a decade of the rope, or one hundred — and let the prayer accompany you through the day.",
+		"pt-BR": "Sente-se ou permaneça de pé em silêncio. Repita lentamente a oração, unindo as palavras à respiração, se ajudar — \"Senhor Jesus Cristo, Filho de Deus\" ao inspirar, \"tende misericórdia de mim, pecador\" ao expirar. Deixe as palavras repousarem no coração, e não na mente. Comece com um número fixo — uma dezena do cordão, ou cem — e deixe a oração acompanhá-lo ao longo do dia."
+	},
+	"tags": [
+		"byzantine",
+		"eastern",
+		"hesychasm",
+		"mercy",
+		"contemplative"
+	],
+	"defaults": {
+		"sortOrder": 1,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "essential"
+			}
+		]
+	}
+}

@@ -23,18 +23,32 @@ export function ManuscriptFrame({
   contentPadding?: number | string
   backgroundColor?: string
 }) {
-  const { showCorners, outerBorder, innerBorder, innerPadding } = (() => {
+  const { showCorners, outerBorder, outerBorderColor, innerBorder, innerPadding } = (() => {
     if (light) {
-      return { showCorners: false, outerBorder: 0.5, innerBorder: 0, innerPadding: 0 }
+      // A quiet, near-transparent hairline so the frame reads as a faint edge,
+      // not a drawn box.
+      return {
+        showCorners: false,
+        outerBorder: 0.5,
+        outerBorderColor: '$accentSubtle',
+        innerBorder: 0,
+        innerPadding: 0,
+      }
     }
 
-    return { showCorners: true, outerBorder: 0.5, innerBorder: 0.25, innerPadding: 4 }
+    return {
+      showCorners: true,
+      outerBorder: 0.5,
+      outerBorderColor: '$accent',
+      innerBorder: 0.25,
+      innerPadding: 4,
+    }
   })()
 
   return (
     <YStack
       borderWidth={outerBorder}
-      borderColor={'$accent'}
+      borderColor={outerBorderColor}
       padding={innerPadding}
       position="relative"
       overflow="visible"

@@ -1,18 +1,33 @@
-import { Text } from 'tamagui'
+import {
+  Bell,
+  BookOpen,
+  Clock,
+  Flame,
+  HeartHandshake,
+  type LucideIcon,
+  Moon,
+  ScrollText,
+  Sparkles,
+  Sunrise,
+} from 'lucide-react-native'
+import { useTheme } from 'tamagui'
 
 import { type IconName, WatercolorIcon } from './ornaments/WatercolorIcon'
 
-const emojiIcons: Record<string, string> = {
-  sunrise: '\u{1F305}',
-  prayer: '\u{1F64F}',
-  bell: '\u{1F514}',
-  candle: '\u{1F56F}',
-  moon: '\u{1F319}',
-  angel: '\u{1F47C}',
-  scroll: '\u{1F4DC}',
-  clock: '\u{1F552}',
-  reading: '\u{1F4D6}',
-  book: '\u{1F4D6}',
+// Gold-tinted lucide glyphs replace the old system-emoji fallback so the rule
+// tree and the Today checklist stay inside the illuminated idiom. Sparkles is
+// the fleuron-ish final fallback.
+const lucideIcons: Record<string, LucideIcon> = {
+  sunrise: Sunrise,
+  prayer: HeartHandshake,
+  bell: Bell,
+  candle: Flame,
+  moon: Moon,
+  angel: Sparkles,
+  scroll: ScrollText,
+  clock: Clock,
+  reading: BookOpen,
+  book: BookOpen,
 }
 
 const watercolorIcons = new Set<string>([
@@ -28,10 +43,12 @@ const watercolorIcons = new Set<string>([
 ])
 
 export function PracticeIcon({ name, size = 20 }: { name: string; size?: number }) {
+  const theme = useTheme()
+
   if (watercolorIcons.has(name)) {
     return <WatercolorIcon name={name as IconName} size={size} />
   }
 
-  const emoji = emojiIcons[name] ?? '\u2728'
-  return <Text fontSize={size}>{emoji}</Text>
+  const Icon = lucideIcons[name] ?? Sparkles
+  return <Icon size={size} color={theme.accent.val} />
 }

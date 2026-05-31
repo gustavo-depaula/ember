@@ -1,0 +1,79 @@
+{
+  "name": {
+    "en-US": "Marian Total Consecration",
+    "pt-BR": "Consagração Total a Maria"
+  },
+  "description": {
+    "en-US": "To Jesus through Mary.",
+    "pt-BR": "A Jesus por Maria."
+  },
+  "manifesto": {
+    "en-US": "Here the consecration is not one devotion among many; it is the whole spiritual life, and everything else flows from it. St. Louis de Montfort called the way through Mary the shortest, easiest, and surest road to Christ — per Mariam ad Jesum.\n\nThe day is given to Our Lady at its dawn and renewed throughout: the Rosary, the morning offering through her hands, Mass offered through her, small mortifications laid at her feet for souls. The year turns on Marian feasts, and each can be prepared by Montfort's thirty-three days.\n\nFor anyone with a deep Marian pull — and especially fitting in the lands where she is most loved. Often lived alongside another tradition's rule.",
+    "pt-BR": "Aqui a consagração não é uma devoção entre muitas; é a vida espiritual inteira, e tudo o mais dela decorre. São Luís Maria de Montfort chamou o caminho por Maria de a via mais curta, mais fácil e mais segura até Cristo — per Mariam ad Jesum.\n\nO dia é entregue a Nossa Senhora ao amanhecer e renovado ao longo das horas: o Rosário, o oferecimento matinal por suas mãos, a Missa oferecida por ela, pequenas mortificações depositadas a seus pés pelas almas. O ano gira sobre as festas marianas, e cada uma pode ser preparada pelos trinta e três dias de Montfort.\n\nPara quem tem um profundo apelo mariano — e de modo especial nas terras onde ela é mais amada. Vivida, muitas vezes, ao lado da regra de outra tradição."
+  },
+  "attribution": {
+    "en-US": "St. Louis de Montfort, True Devotion to Mary",
+    "pt-BR": "São Luís Maria de Montfort, Tratado da Verdadeira Devoção à Santíssima Virgem"
+  },
+  "icon": "candle",
+  "tags": ["marian", "montfort", "consecration"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The renewal of the consecration at dawn — I am all yours, my Queen and my Mother — placing the whole day into Our Lady's hands.",
+        "pt-BR": "A renovação da consagração ao amanhecer — Tudo vosso sou, minha Rainha e minha Mãe — depositando o dia inteiro nas mãos de Nossa Senhora."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The daily Rosary, the very heart of the Montfortian way and the chain of love that binds the soul to Mary hour by hour.",
+        "pt-BR": "O Rosário diário, o próprio coração da via montfortiana e a corrente de amor que liga a alma a Maria hora a hora."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Mass and Communion offered through Mary's hands, so that what is given to Christ passes first through the purest of hearts.",
+        "pt-BR": "A Missa e a Comunhão oferecidas pelas mãos de Maria, para que o que se dá a Cristo passe primeiro pelo mais puro dos corações."
+      }
+    },
+    {
+      "ref": "little-office-bvm",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "note": {
+        "en-US": "The Saturday devotion to Our Lady, keeping her own day with the Office that has praised her across the centuries.",
+        "pt-BR": "A devoção de sábado a Nossa Senhora, guardando o dia que é dela com o Ofício que a louva através dos séculos."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Frequent confession, keeping the soul a clean and worthy dwelling for the One whom Mary forms within it.",
+        "pt-BR": "A confissão frequente, conservando a alma como morada limpa e digna daquele que Maria nela forma."
+      }
+    },
+    {
+      "ref": "total-consecration",
+      "tier": "extra",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Montfort's thirty-three day preparation — knowledge of self, of Mary, of Jesus through Mary — by which the consecration is renewed and deepened toward each Marian feast.",
+        "pt-BR": "A preparação de trinta e três dias de Montfort — conhecimento de si, de Maria, de Jesus por Maria — pela qual a consagração se renova e se aprofunda rumo a cada festa mariana."
+      }
+    }
+  ],
+  "collections": ["collection/marian", "collection/montfort-spirituality"]
+}

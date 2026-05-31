@@ -1,0 +1,88 @@
+{
+  "id": "plan-of-life-template/benedictine",
+  "name": {
+    "en-US": "Benedictine Oblate",
+    "pt-BR": "Oblato Beneditino"
+  },
+  "description": {
+    "en-US": "Ora et labora — pray and work.",
+    "pt-BR": "Ora et labora — reza e trabalha."
+  },
+  "manifesto": {
+    "en-US": "The plan of the Benedictine Oblate — a layperson affiliated to a monastery, living the Rule of St. Benedict in the world. Two mottos drive every choice: Ora et Labora, pray and work, and Stabilitas, stability. The day is shaped by the bell, not the to-do list; time itself becomes liturgical.\n\nThe Liturgy of the Hours is the Benedictine opus Dei, the work of God to which nothing is preferred; Oblates commit at minimum to Lauds and Vespers. Then lectio divina — slow, prayerful reading of Scripture in its four movements — the Eucharist when possible, work offered as prayer, silence kept at set times, and hospitality that receives every guest as Christ.\n\nFor the soul drawn to rhythm and place rather than feats: homemakers, retirees, the monastic-leaning, anyone living near an abbey, anyone whose conversion will come through faithfulness to a settled round.",
+    "pt-BR": "O plano do Oblato Beneditino — um leigo agregado a um mosteiro, que vive a Regra de São Bento no mundo. Dois lemas regem cada escolha: Ora et Labora, reza e trabalha, e Stabilitas, estabilidade. O dia é moldado pelo sino, não pela lista de tarefas; o próprio tempo se torna litúrgico.\n\nA Liturgia das Horas é o opus Dei beneditino, a obra de Deus à qual nada se antepõe; os oblatos comprometem-se ao menos com Laudes e Vésperas. Vem então a lectio divina — leitura lenta e orante da Escritura em seus quatro movimentos — a Eucaristia quando possível, o trabalho oferecido como oração, o silêncio guardado em horas determinadas e a hospitalidade que recebe cada hóspede como a Cristo.\n\nPara a alma atraída pelo ritmo e pelo lugar mais que pelos feitos: donas de casa, aposentados, os de inclinação monástica, quem vive perto de uma abadia, quem encontrará a conversão na fidelidade a um giro estável."
+  },
+  "attribution": {
+    "en-US": "The Rule of St. Benedict (esp. ch. 4, 19, 48, 53, 73)",
+    "pt-BR": "A Regra de São Bento (esp. cap. 4, 19, 48, 53, 73)"
+  },
+  "icon": "bell",
+  "tags": ["benedictine", "monastic", "stability"],
+  "practices": [
+    {
+      "ref": "divine-office",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The Liturgy of the Hours — the Benedictine opus Dei, the work of God to which nothing is preferred; Oblates commit at minimum to Lauds and Vespers.",
+        "pt-BR": "A Liturgia das Horas — o opus Dei beneditino, a obra de Deus à qual nada se antepõe; os oblatos comprometem-se ao menos com Laudes e Vésperas."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Lectio Divina",
+        "pt-BR": "Lectio Divina"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diária"
+      },
+      "icon": "book",
+      "note": {
+        "en-US": "Slow, prayerful reading of Scripture in its four movements — lectio, meditatio, oratio, contemplatio — the heart of the Benedictine day.",
+        "pt-BR": "A leitura lenta e orante da Escritura em seus quatro movimentos — lectio, meditatio, oratio, contemplatio — o coração do dia beneditino."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "08:00",
+      "note": {
+        "en-US": "The daily Eucharist when possible, the summit of the monastic round that the bell orders all day long.",
+        "pt-BR": "A Eucaristia diária quando possível, o cume do giro monástico que o sino ordena o dia inteiro."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Reading from the Rule of St. Benedict and the monastic tradition — the Rule itself prescribes a cycle that re-reads it three times a year.",
+        "pt-BR": "A leitura da Regra de São Bento e da tradição monástica — a própria Regra prescreve um ciclo que a relê três vezes por ano."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:00",
+      "note": {
+        "en-US": "The nightly examen before Compline, the daily conversatio morum — the steady conversion of one's manners of life.",
+        "pt-BR": "O exame da noite antes das Completas, a conversatio morum diária — a conversão constante dos costumes de vida."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "note": {
+        "en-US": "Regular confession, the humility of the Rule's twelve steps brought to the sacrament of mercy.",
+        "pt-BR": "A confissão regular, a humildade dos doze graus da Regra levada ao sacramento da misericórdia."
+      }
+    }
+  ]
+}

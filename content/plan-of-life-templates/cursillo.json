@@ -1,0 +1,151 @@
+{
+  "id": "plan-of-life-template/cursillo",
+  "name": {
+    "en-US": "Cursillo",
+    "pt-BR": "Cursilho"
+  },
+  "description": {
+    "en-US": "The tripod: piety, study, action.",
+    "pt-BR": "O tripé: piedade, estudo, ação."
+  },
+  "manifesto": {
+    "en-US": "The plan of life of one who has made the Cursillo weekend, built on three legs — piety, study, and action. Remove any leg and the stool falls. It is irreducibly social: the solitary Cursillista is considered incomplete, and every daily practice carries a dimension of witness.\n\nPiety: the morning offering, Mass when possible, mental prayer or spiritual reading, the Rosary, a visit to the Blessed Sacrament, the night examen, frequent confession. Study: a daily portion of intentional formation, so as to understand the faith well enough to live and share it. Action: a chosen apostolic act in one's own environment — family, work, friendships.\n\nFor extroverts, for married couples who can live the tripod together, for anyone for whom \"just me and God\" has always felt like half the story. Make a friend, be a friend, bring your friend to Christ.",
+    "pt-BR": "O plano de vida de quem fez o fim de semana do Cursilho, erguido sobre três pernas — piedade, estudo e ação. Tire uma perna e o banco cai. É irredutivelmente social: o cursilhista solitário é tido por incompleto, e cada prática diária carrega uma dimensão de testemunho.\n\nPiedade: o oferecimento da manhã, a Missa quando possível, a oração mental ou a leitura espiritual, o Rosário, uma visita ao Santíssimo, o exame da noite, a confissão frequente. Estudo: uma porção diária de formação intencional, para compreender a fé o bastante para vivê-la e partilhá-la. Ação: um ato apostólico escolhido no próprio ambiente — família, trabalho, amizades.\n\nPara os extrovertidos, para os casais que vivem o tripé juntos, para quem sempre sentiu que \"só eu e Deus\" é metade da história. Faz um amigo, sê um amigo, leva teu amigo a Cristo."
+  },
+  "attribution": {
+    "en-US": "Eduardo Bonnín, History and Memory of Cursillo; the Cursillo Foundational Charter",
+    "pt-BR": "Eduardo Bonnín, História e Memória do Cursilho; a Carta Fundacional do Cursilho"
+  },
+  "icon": "sunrise",
+  "tags": ["cursillo", "community", "apostolic"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:30",
+      "note": {
+        "en-US": "The morning offering, first leg of Piety — handing the whole day to God before the world claims it.",
+        "pt-BR": "O oferecimento da manhã, primeira parte da Piedade — entregar o dia inteiro a Deus antes que o mundo o reivindique."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The Eucharist when possible, the encounter with Christ that the Cursillista carries out into every environment.",
+        "pt-BR": "A Eucaristia quando possível, o encontro com Cristo que o cursilhista leva para cada ambiente."
+      }
+    },
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "A daily minimum of mental prayer, the inner conversation with Christ that makes a friend before one can bring a friend.",
+        "pt-BR": "Um mínimo diário de oração mental, a conversa interior com Cristo que faz um amigo antes de poder levar um amigo."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "The leg of Study — a daily portion of intentional formation, so as to understand the faith well enough to live it and share it.",
+        "pt-BR": "A perna do Estudo — uma porção diária de formação intencional, para compreender a fé o bastante para vivê-la e partilhá-la."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The daily Rosary, or a single decade for beginners — Mary's company on the road of the apostle.",
+        "pt-BR": "O Rosário diário, ou uma só dezena para quem começa — a companhia de Maria na estrada do apóstolo."
+      }
+    },
+    {
+      "ref": "visit-blessed-sacrament",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "A brief visit to the Blessed Sacrament, the heart returning to its Friend in the midst of the day's work.",
+        "pt-BR": "Uma breve visita ao Santíssimo, o coração voltando ao seu Amigo no meio do trabalho do dia."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The night examen, reviewing the day's piety, study, and action — the three legs measured against the tripod.",
+        "pt-BR": "O exame da noite, repassando a piedade, o estudo e a ação do dia — as três pernas medidas pelo tripé."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Frequent confession, keeping the apostle's own conversion fresh so the witness rings true.",
+        "pt-BR": "A confissão frequente, que mantém viva a própria conversão do apóstolo para que o testemunho soe verdadeiro."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Apostolic action",
+        "pt-BR": "Ação apostólica"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily",
+        "pt-BR": "Diária"
+      },
+      "icon": "sunrise",
+      "note": {
+        "en-US": "The leg of Action — a chosen apostolic act in one's own environment of family, work, and friendship; Cursillo is irreducibly missionary.",
+        "pt-BR": "A perna da Ação — um ato apostólico escolhido no próprio ambiente de família, trabalho e amizade; o Cursilho é irredutivelmente missionário."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Group Reunion",
+        "pt-BR": "Reunião de Grupo"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Weekly",
+        "pt-BR": "Semanal"
+      },
+      "icon": "sunrise",
+      "note": {
+        "en-US": "The weekly Friendship Group of three to five, sharing what worked and what didn't on the tripod that week — the communal heart of the rule.",
+        "pt-BR": "O Grupo de Amizade semanal de três a cinco, partilhando o que deu certo e o que falhou no tripé naquela semana — o coração comunitário da regra."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Ultreya",
+        "pt-BR": "Ultreia"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Monthly",
+        "pt-BR": "Mensal"
+      },
+      "icon": "sunrise",
+      "note": {
+        "en-US": "The larger community gathering of several Friendship Groups — the wider fellowship that keeps the solitary Cursillista from going it alone.",
+        "pt-BR": "O encontro comunitário maior de vários Grupos de Amizade — a comunhão ampla que impede o cursilhista solitário de seguir sozinho."
+      }
+    }
+  ]
+}

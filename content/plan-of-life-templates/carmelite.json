@@ -1,0 +1,100 @@
+{
+  "id": "plan-of-life-template/carmelite",
+  "name": {
+    "en-US": "Carmelite",
+    "pt-BR": "Carmelita"
+  },
+  "description": {
+    "en-US": "Interior prayer as the spine.",
+    "pt-BR": "A oração interior como espinha dorsal."
+  },
+  "manifesto": {
+    "en-US": "The Teresian plan, rooted in St. Teresa of Ávila and St. John of the Cross. Here mental prayer is not one practice among many — it is the spine, and everything else exists to make a daily hour of interior prayer possible.\n\nMental prayer for an hour, uninterrupted and preferably at dawn; the Liturgy of the Hours; Scripture and a Carmelite master read slowly; the Rosary or the Brown Scapular; and silence cultivated through the day as a positive good, not a deprivation. The goal is the friendship of which Teresa speaks: \"taking time frequently to be alone with Him who we know loves us.\"\n\nFor contemplatives in the world — the introverted, the artistic, the soul that wants depth over breadth, anyone who read the Interior Castle and felt seen.",
+    "pt-BR": "O plano teresiano, enraizado em Santa Teresa de Ávila e São João da Cruz. Aqui a oração mental não é uma prática entre outras — é a espinha dorsal, e tudo o mais existe para tornar possível uma hora diária de oração interior.\n\nUma hora de oração mental, ininterrupta e de preferência ao amanhecer; a Liturgia das Horas; a Escritura e um mestre carmelita lidos com vagar; o Rosário ou o Escapulário do Carmo; e o silêncio cultivado ao longo do dia como um bem positivo, não como privação. A meta é a amizade de que fala Teresa: \"tratar de amizade, estando muitas vezes a sós com quem sabemos que nos ama.\"\n\nPara os contemplativos no mundo — os introvertidos, os de alma artística, quem prefere a profundidade à amplitude, quem leu o Castelo Interior e se sentiu compreendido."
+  },
+  "attribution": {
+    "en-US": "St. Teresa of Ávila, Interior Castle; St. John of the Cross, Ascent of Mount Carmel",
+    "pt-BR": "Santa Teresa de Ávila, Castelo Interior; São João da Cruz, Subida do Monte Carmelo"
+  },
+  "icon": "candle",
+  "tags": ["carmelite", "contemplative", "mental-prayer"],
+  "practices": [
+    {
+      "ref": "mental-prayer",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "06:00",
+      "note": {
+        "en-US": "An uninterrupted hour of interior prayer at dawn — the spine of the Teresian life, taking time frequently to be alone with Him who we know loves us.",
+        "pt-BR": "Uma hora ininterrupta de oração interior ao amanhecer — a espinha dorsal da vida teresiana, tratar de amizade estando muitas vezes a sós com quem sabemos que nos ama."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The daily Eucharist, source and summit of the contemplative day, where the friendship sought in prayer is given in the flesh.",
+        "pt-BR": "A Eucaristia diária, fonte e cume do dia contemplativo, onde a amizade buscada na oração é dada em carne."
+      }
+    },
+    {
+      "ref": "divine-office",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:30",
+      "note": {
+        "en-US": "The Liturgy of the Hours — Lay Carmelites pray at minimum Lauds and Vespers — joining one's voice to the Church's unceasing praise.",
+        "pt-BR": "A Liturgia das Horas — os carmelitas leigos rezam ao menos Laudes e Vésperas — unindo a própria voz ao louvor incessante da Igreja."
+      }
+    },
+    {
+      "ref": "spiritual-reading",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Scripture and a Carmelite master — Teresa, John of the Cross, Thérèse, Elizabeth of the Trinity, Edith Stein — read slowly, as fuel for the hour of prayer.",
+        "pt-BR": "A Escritura e um mestre carmelita — Teresa, João da Cruz, Teresinha, Isabel da Trindade, Edith Stein — lidos com vagar, como alimento para a hora de oração."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The daily Rosary, the Carmelite's Marian thread woven through the day — Our Lady of Mount Carmel watches over those clothed in her Scapular.",
+        "pt-BR": "O Rosário diário, o fio mariano do carmelita tecido pelo dia — Nossa Senhora do Carmo vela por quem se reveste de seu Escapulário."
+      }
+    },
+    {
+      "ref": "examination-of-conscience",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "21:30",
+      "note": {
+        "en-US": "The nightly examen, the recollected soul's quiet accounting before sleep, keeping watch over the interior castle.",
+        "pt-BR": "O exame da noite, o sereno ajuste de contas da alma recolhida antes do sono, guardando vigilância sobre o castelo interior."
+      }
+    },
+    {
+      "ref": "holy-hour",
+      "tier": "ideal",
+      "schedule": { "type": "days-of-week", "days": [0] },
+      "note": {
+        "en-US": "A weekly Holy Hour before the Blessed Sacrament — silence and adoration as positive goods, the deepening of mental prayer in His Eucharistic presence.",
+        "pt-BR": "Uma Hora Santa semanal diante do Santíssimo — o silêncio e a adoração como bens positivos, o aprofundamento da oração mental em sua presença eucarística."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "note": {
+        "en-US": "Frequent confession, clearing the soul of attachments so the work of detachment — nada — may go on unhindered.",
+        "pt-BR": "A confissão frequente, que limpa a alma dos apegos para que a obra do desapego — o nada — prossiga sem estorvo."
+      }
+    }
+  ]
+}

@@ -44,6 +44,7 @@ export const RESIDENT_KINDS = [
   'chapter',
   'book',
   'collection',
+  'plan-of-life-template',
   'creator',
 ] as const satisfies ReadonlyArray<CatalogItemKind>
 

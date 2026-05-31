@@ -163,13 +163,32 @@ export function usePinPractices(practiceIds: string[]) {
     mutation.mutate()
   }, [mutation, pendingIds.length])
 
+  const unpinMutation = useMutation({
+    mutationFn: async () => {
+      await Promise.all(
+        eligibleIds.map((id) =>
+          unpinItem(id).catch((err) => console.warn('[pinning] failed to unpin', id, err)),
+        ),
+      )
+    },
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['pinned-items'] })
+    },
+  })
+
+  const unpinAll = useCallback(() => {
+    if (unpinMutation.isPending || eligibleIds.length === 0) return
+    unpinMutation.mutate()
+  }, [unpinMutation, eligibleIds])
+
   return {
     allPinned,
     eligibleCount: eligibleIds.length,
     pendingCount: pendingIds.length,
-    isWorking: mutation.isPending,
+    isWorking: mutation.isPending || unpinMutation.isPending,
     progress,
     pinAll,
+    unpinAll,
   }
 }
 

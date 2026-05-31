@@ -564,6 +564,69 @@ def build_collections(b: Builder) -> None:
         b.add_catalog(f"collection/{cid}", catalog_entry)
 
 
+def build_templates(b: Builder) -> None:
+    """Plan-of-life templates — starter packs for a rule of life.
+
+    Each lives in `content/plan-of-life-templates/<id>.json`:
+      - name / description / manifesto (localized)
+      - practices[] with ref + tier + schedule (+ optional time / enabled)
+      - optional resolutions[] and collections[] to pre-pin
+
+    Published as `plan-of-life-template/<id>` corpus items; warmed like
+    collections after boot.
+    """
+    src = CONTENT / "plan-of-life-templates"
+    if not src.is_dir():
+        return
+    for f in sorted(src.glob("*.json")):
+        tid = f.stem
+        with f.open(encoding="utf-8") as fh:
+            data = json.load(fh)
+
+        if not isinstance(data.get("practices"), list) or not data["practices"]:
+            raise ValueError(
+                f"plan-of-life-template {tid}: `practices[]` is required and non-empty"
+            )
+        for p in data["practices"]:
+            if not isinstance(p, dict):
+                raise ValueError(f"plan-of-life-template {tid}: each practice must be an object")
+            # A placeholder names a prescribed practice the corpus doesn't host
+            # yet (e.g. Lectio Divina) — it carries a name, not a ref/schedule,
+            # and is never approximated by a different real practice.
+            if p.get("placeholder") is True:
+                if not isinstance(p.get("name"), dict):
+                    raise ValueError(
+                        f"plan-of-life-template {tid}: a placeholder practice needs a localized `name`"
+                    )
+                continue
+            if not p.get("ref"):
+                raise ValueError(
+                    f"plan-of-life-template {tid}: each practice needs a `ref` (or `placeholder: true`)"
+                )
+            if p.get("tier") not in ("essential", "ideal", "extra"):
+                raise ValueError(
+                    f"plan-of-life-template {tid}: practice {p.get('ref')} has invalid tier"
+                )
+            if not isinstance(p.get("schedule"), dict) or not p["schedule"].get("type"):
+                raise ValueError(
+                    f"plan-of-life-template {tid}: practice {p.get('ref')} needs a schedule"
+                )
+
+        data["id"] = f"plan-of-life-template/{tid}"
+
+        h, size = b.write_json_blob(data)
+        catalog_entry = {"kind": "plan-of-life-template", "hash": h, "size": size}
+        if isinstance(data.get("name"), dict):
+            catalog_entry["name"] = data["name"]
+        if isinstance(data.get("description"), dict):
+            catalog_entry["description"] = data["description"]
+        if "tags" in data:
+            catalog_entry["tags"] = data["tags"]
+        if "icon" in data:
+            catalog_entry["icon"] = data["icon"]
+        b.add_catalog(f"plan-of-life-template/{tid}", catalog_entry)
+
+
 def build_checkup(b: Builder) -> None:
     """Spiritual-checkup data — published as `checkup/<name>` corpus items."""
     src = CONTENT / "checkup"
@@ -698,6 +761,8 @@ def main(argv: list[str]) -> int:
     build_of_data(b)
     print("[corpus] collections...")
     build_collections(b)
+    print("[corpus] plan-of-life templates...")
+    build_templates(b)
     print("[corpus] checkup...")
     build_checkup(b)
     print("[corpus] creators...")
