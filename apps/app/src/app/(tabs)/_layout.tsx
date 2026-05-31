@@ -88,7 +88,7 @@ export default function TabsLayout() {
 
       {/* role="search" keeps the circular expand-into-search-field affordance;
           the custom icon overrides the system glyph. */}
-      <NativeTabs.Trigger name="search" role="search" disableAutomaticContentInsets>
+      <NativeTabs.Trigger name="(search)" role="search" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           src={require('../../../assets/nav-icons/search.png')}
           renderingMode="original"

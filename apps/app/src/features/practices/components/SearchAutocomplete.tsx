@@ -35,18 +35,7 @@ function takeTopByScore<T>(scored: Scored<T>[]): T[] {
     .map((s) => s.item)
 }
 
-export function SearchAutocomplete({
-  query,
-  nested = false,
-}: {
-  query: string
-  /**
-   * When rendered in the standalone `search` tab (its own native stack outside
-   * the shared content group), push detail routes into the search-local stack
-   * so back/swipe returns to search rather than leaking into the Today tab.
-   */
-  nested?: boolean
-}) {
+export function SearchAutocomplete({ query }: { query: string }) {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -135,26 +124,14 @@ export function SearchAutocomplete({
 
   function handlePress(result: SearchResult) {
     if (result.kind === 'practice') {
-      router.push(
-        nested
-          ? { pathname: '/search/practices/[manifestId]', params: { manifestId: result.id } }
-          : { pathname: '/practices/[manifestId]', params: { manifestId: result.id } },
-      )
+      router.push({ pathname: '/practices/[manifestId]', params: { manifestId: result.id } })
       return
     }
     if (result.kind === 'book') {
-      router.push(
-        nested
-          ? { pathname: '/search/browse/book/[bookId]', params: { bookId: result.id } }
-          : { pathname: '/browse/book/[bookId]', params: { bookId: result.id } },
-      )
+      router.push({ pathname: '/browse/book/[bookId]', params: { bookId: result.id } })
       return
     }
-    router.push(
-      nested
-        ? { pathname: '/search/browse/[collectionId]', params: { collectionId: result.id } }
-        : { pathname: '/browse/[collectionId]', params: { collectionId: result.id } },
-    )
+    router.push({ pathname: '/browse/[collectionId]', params: { collectionId: result.id } })
   }
 
   function renderRow(result: SearchResult, isLast: boolean) {

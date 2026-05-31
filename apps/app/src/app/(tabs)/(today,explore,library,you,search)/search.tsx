@@ -133,6 +133,10 @@ export default function SearchScreen() {
     <>
       <Stack.Screen
         options={{
+          // The shared group hides headers by default; the search portfolio is
+          // the one screen that needs the native header to host the iOS 26
+          // search bar that morphs out of the search tab.
+          headerShown: true,
           headerTransparent: true,
           headerTitle: '',
           // Search's nav-bar context triggers iOS 26's automatic top scroll-edge
@@ -155,7 +159,7 @@ export default function SearchScreen() {
         )}
         {isSearching ? (
           <YStack paddingVertical="$lg">
-            <SearchAutocomplete query={query} nested />
+            <SearchAutocomplete query={query} />
           </YStack>
         ) : (
           <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
