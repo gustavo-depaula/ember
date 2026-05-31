@@ -1,4 +1,4 @@
-# ST. AUGUSTINE, Apostle of England
+# May 26.—ST. AUGUSTINE, Apostle of England
 
 AUGUSTINE was prior of the monastery of St. Andrew on the Cœlian, and was appointed by St. Gregory the great chief of the missionaries whom he sent to England. St. Augustine and his companions, having heard on their journey many reports of the barbarism and ferocity of the pagan English, were afraid, and wished to turn back. But St. Gregory replied, "Go on, in God's name! The greater your hardships, the greater your crown. May the grace of Almighty God protect you, and give me to see the fruit of your labor in the heavenly country! If I cannot share your toil, I shall yet share the harvest, for God knows that it is not good-will which is wanting." The band of missionaries went on in obedience.
 

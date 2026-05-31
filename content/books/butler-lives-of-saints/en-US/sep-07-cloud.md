@@ -4,4 +4,4 @@ ST. CLOUD is the first and most illustrious Saint among the princes of the royal
 
 ## Reflection
 
-Let us remember that "the just shall live for evermore; they shall receive a kingdom of glory, and a grown of beauty at the hand of the Lord."
+Let us remember that "the just shall live for evermore; they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord."

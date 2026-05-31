@@ -4,4 +4,4 @@ SIMON was born in the county of Kent, England, and left his home when he was but
 
 ## Reflection
 
-To enjoy the privileges of the scapular, it is sufficient that it be received lawfully and worn devoutly. How, then, can any one fail to profit by a devotion so easy, so simple, and so wonderfully blessed? "He that shall overcome, shall thus be clothed in white garments, and I will not blot out his name out of the book of life, and I will confess his name before My Father and before His angels" (Apoc. iii. 5) .
+To enjoy the privileges of the scapular, it is sufficient that it be received lawfully and worn devoutly. How, then, can any one fail to profit by a devotion so easy, so simple, and so wonderfully blessed? "He that shall overcome, shall thus be clothed in white garments, and I will not blot out his name out of the book of life, and I will confess his name before My Father and before His angels" (Apoc. iii. 5).

@@ -4,4 +4,4 @@ ABOUT the year 361, Julian, uncle to the emperor of that name, and like his neph
 
 ## Reflection
 
-Those who do not go down to hell in spirit are very likely to go there in reality. Take care to meditate upon the four last things, and to live in holy fear. You will learn to love God better by thinking how tae punishes those who do not love Him.
+Those who do not go down to hell in spirit are very likely to go there in reality. Take care to meditate upon the four last things, and to live in holy fear. You will learn to love God better by thinking how He punishes those who do not love Him.

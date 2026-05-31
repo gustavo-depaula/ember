@@ -1,8 +1,6 @@
 # September 16.—ST. CYPRIAN, Bishop, Martyr
 
-CYPRIAN was an African of noble birth, but of evil life, a pagan, and a teacher of rhetoric. In middle life he was converted to Christianity, and shortly after his baptism was ordained priest, and made Bishop of Carthage, notwithstanding his resistance. When the persecution of Decius broke out, he fled from his episcopal city, that he might be the better able to minister to the wants of his flock, but returned on occasion of a pestilence. Later on he was banished, and saw in a vision his future martyrdom.
-
-[paragraph continues] Being recalled from exile, sentence of death was pronounced against him, which he received with the words "Thanks be to God." His great desire was to die whilst in the act of preaching the faith of Christ, and he had the consolation of being surrounded at his martyrdom by crowds of his faithful children. He was beheaded on the 14th of September, 258, and was buried with great solemnity. Even the pagans respected his memory.
+CYPRIAN was an African of noble birth, but of evil life, a pagan, and a teacher of rhetoric. In middle life he was converted to Christianity, and shortly after his baptism was ordained priest, and made Bishop of Carthage, notwithstanding his resistance. When the persecution of Decius broke out, he fled from his episcopal city, that he might be the better able to minister to the wants of his flock, but returned on occasion of a pestilence. Later on he was banished, and saw in a vision his future martyrdom. Being recalled from exile, sentence of death was pronounced against him, which he received with the words "Thanks be to God." His great desire was to die whilst in the act of preaching the faith of Christ, and he had the consolation of being surrounded at his martyrdom by crowds of his faithful children. He was beheaded on the 14th of September, 258, and was buried with great solemnity. Even the pagans respected his memory.
 
 ## Reflection
 

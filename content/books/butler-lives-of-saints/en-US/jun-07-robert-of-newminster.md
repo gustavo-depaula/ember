@@ -4,4 +4,4 @@ IN 1132 Robert was a monk at Whitby, England, when news arrived that thirteen re
 
 ## Reflection
 
-Reason and authority prove that virtue aught to be practised. But facts alone prove that it is practised; and this is why examples have more power to move our souls, and why our individual actions are of such fearful importance for ethers as well as for ourselves.
+Reason and authority prove that virtue ought to be practised. But facts alone prove that it is practised; and this is why examples have more power to move our souls, and why our individual actions are of such fearful importance for others as well as for ourselves.

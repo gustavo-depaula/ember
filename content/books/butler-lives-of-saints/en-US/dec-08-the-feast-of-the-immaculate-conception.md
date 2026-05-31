@@ -4,4 +4,4 @@ ON this day, so dear to every Catholic heart, we celebrate, in the first place, 
 
 ## Reflection
 
-Let us repeat frequently these words applied by the Church to the Blessed Virgin: "Thou art all fair, O Mary? and there is not a spot in thee" (Cant. iv. 7).
+Let us repeat frequently these words applied by the Church to the Blessed Virgin: "Thou art all fair, O Mary, and there is not a spot in thee" (Cant. iv. 7).

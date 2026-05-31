@@ -4,4 +4,4 @@ ST. HOSPITIUS shut himself up in the ruins of an old tower near Villafranca, one
 
 ## Reflection
 
-If we do not love penitence for its own sake, let us love it on account of our sins; for we should " work out our salvation in fear and trembling."
+If we do not love penitence for its own sake, let us love it on account of our sins; for we should "work out our salvation in fear and trembling."

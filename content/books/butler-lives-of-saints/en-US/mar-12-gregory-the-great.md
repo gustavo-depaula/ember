@@ -4,4 +4,4 @@ GREGORY was a Roman of noble birth, and while still young was governor of Rome. 
 
 ## Reflection
 
-The champions of faith prove the truth of their teaching no less by the holiness of their lives than by the force of their arguments. Never forget that to con Pert others you must first see to your own soul.
+The champions of faith prove the truth of their teaching no less by the holiness of their lives than by the force of their arguments. Never forget that to convert others you must first see to your own soul.

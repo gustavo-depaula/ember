@@ -4,6 +4,4 @@ His father was an officer in the armies of King Dagobert, and the Saint spent so
 
 ## Reflection
 
-In every age the Catholic Church is a missionary church. She has received the world for her inheritance, and in our own days many missioners have watered with their blood the lands in which they labored.
-
-[paragraph continues] Help the propagation of the faith by alms, and above all by prayers. You will quicken your own faith and gain a part in the merits of the glorious apostolate.
+In every age the Catholic Church is a missionary church. She has received the world for her inheritance, and in our own days many missioners have watered with their blood the lands in which they labored. Help the propagation of the faith by alms, and above all by prayers. You will quicken your own faith and gain a part in the merits of the glorious apostolate.

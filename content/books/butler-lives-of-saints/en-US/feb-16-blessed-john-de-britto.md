@@ -4,4 +4,4 @@ DON PEDRO II. of Portugal, when a child, had among his little pages a modest boy
 
 ## Reflection
 
-"It is a great honor, a great glory to serve; God, and to contemn all things for God. They will have a great grace who freely subject themselves to God's most holy will."—*The Imitation of Christ*.
+"It is a great honor, a great glory to serve God, and to contemn all things for God. They will have a great grace who freely subject themselves to God's most holy will."—*The Imitation of Christ*.

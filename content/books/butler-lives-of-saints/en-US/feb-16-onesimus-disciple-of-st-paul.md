@@ -1,4 +1,4 @@
-# ST. ONESIMUS, Disciple of St. Paul
+# February 16.—ST. ONESIMUS, Disciple of St. Paul
 
 HE was a Phrygian by birth, slave to Philemon, a person of note of the city of Colossæ, converted to the faith by St. Paul. Having robbed his master and being obliged to fly, he providentially met with St. Paul, then a prisoner for the faith at Rome, who there converted and baptized him, and sent him with his canonical letter of recommendation to Philemon, by whom he was pardoned, set at liberty, and sent back to his spiritual father, whom he afterwards faithfully served. That apostle made him, with Tychicus, the bearer of his Epistle to the Colossians, and afterwards, as St. Jerome and other Fathers witness, a preacher of the Gospel and a bishop. He was crowned with martyrdom under Domitian in the year 95.
 

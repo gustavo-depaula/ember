@@ -4,4 +4,4 @@ ST. EULOGIUS was of a senatorian family of Cordova, at that time the capital of 
 
 ## Reflection
 
-Beg of God, through the intercession of these holy martyrs, the gift of perseverance. Their example will supply you with an admirable rule for obtain., ing this crowning gift. Remember that you have renounced the world and the devil once for all at your Baptism. Do not hesitate; do not look back; do not listen to suggestions against faith or virtue; but advance, day by day, along the road which you have chosen, to Gods Who is your portion forever.
+Beg of God, through the intercession of these holy martyrs, the gift of perseverance. Their example will supply you with an admirable rule for obtaining this crowning gift. Remember that you have renounced the world and the devil once for all at your Baptism. Do not hesitate; do not look back; do not listen to suggestions against faith or virtue; but advance, day by day, along the road which you have chosen, to God Who is your portion forever.

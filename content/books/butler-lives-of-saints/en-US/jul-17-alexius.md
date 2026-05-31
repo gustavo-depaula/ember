@@ -4,4 +4,4 @@ ST. ALEXIUS was the only son of parents pre-eminent among the Roman nobles for v
 
 ## Reflection
 
-We must always be ready to sacrifice our dearest and best natural affections in obedience to the call of our heavenly Father. "Call none your father upon earth, for one is your Father in heaven" (Matt. xxiii. 9) . Our Lord has taught us this not by words only, but by His own example and by that of His Saints.
+We must always be ready to sacrifice our dearest and best natural affections in obedience to the call of our heavenly Father. "Call none your father upon earth, for one is your Father in heaven" (Matt. xxiii. 9). Our Lord has taught us this not by words only, but by His own example and by that of His Saints.

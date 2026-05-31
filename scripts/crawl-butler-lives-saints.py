@@ -184,12 +184,17 @@ def normalize_whitespace(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
-def parse_chapter(html: str) -> tuple[str, str, str]:
+def parse_chapter(html: str, fallback_heading: str = "") -> tuple[str, str, str]:
     """Return (heading, body_markdown, raw_text).
 
     heading: the saint/feast heading text (without trailing period).
     body_markdown: cleaned markdown (paragraphs separated by blank lines).
     raw_text: plain text dump for the archive .txt.
+
+    A few pages (e.g. lots392.htm, St. Servulus) ship without the usual
+    centered <h3> chapter heading. For those we fall back to `fallback_heading`
+    (synthesized from the index TOC entry) and begin collecting body text after
+    the centered "by Alban Butler" preamble instead of after the <h3>.
     """
     soup = BeautifulSoup(html, "html.parser")
 
@@ -200,19 +205,31 @@ def parse_chapter(html: str) -> tuple[str, str, str]:
     if h3 is not None:
         heading = h3.get_text(separator=" ", strip=True)
         heading = re.sub(r"\s+", " ", heading).strip().rstrip(".")
+    if not heading:
+        heading = fallback_heading
+    has_h3 = h3 is not None
 
     # Find the chapter's containing paragraph stream.
     # Strategy: walk the document's tags in order; start collecting only AFTER
     # we pass the chapter heading <h3>, then stop at the footer nav.
     body = soup.body or soup
-    paragraphs: list[str] = []
+    paragraphs: list[tuple[str, bool]] = []
     started = False
     for el in body.find_all(True):
         name = el.name.lower()
         if not started:
-            if name == "h3":
-                started = True
-            continue
+            if has_h3:
+                if name == "h3":
+                    started = True
+                continue
+            # No <h3> on this page: skip the leading centered "by Alban Butler"
+            # preamble, then begin collecting at the first real body <p> (which
+            # is processed below — do not `continue` past it).
+            if name != "p":
+                continue
+            if el.get("align", "").upper() == "CENTER":
+                continue
+            started = True
         # Detect end of body (footer nav)
         if name == "nav":
             break
@@ -228,8 +245,16 @@ def parse_chapter(html: str) -> tuple[str, str, str]:
         # If this <p> wraps a filenav div, it's the footer
         if el.find("div", class_="filenav") is not None:
             break
+        # Sacred-texts flags a paragraph split across a page break with a
+        # <span class="contnote">[paragraph continues]</span> prefix. Detect it,
+        # strip the marker text, and remember to rejoin this fragment onto the
+        # preceding paragraph below.
+        is_cont = el.find("span", class_="contnote") is not None
         text_md = inline_to_md(el).strip()
         text_norm = normalize_whitespace(text_md)
+        if is_cont or text_norm.lstrip("*").startswith("[paragraph continues]"):
+            is_cont = True
+            text_norm = re.sub(r"^\**\s*\[paragraph continues\]\**\s*", "", text_norm)
         if not text_norm:
             continue
         # Drop pure page-marker paragraphs
@@ -238,20 +263,23 @@ def parse_chapter(html: str) -> tuple[str, str, str]:
         # Drop bare punctuation paragraphs
         if text_norm in (".", "·"):
             continue
-        paragraphs.append(text_norm)
+        paragraphs.append((text_norm, is_cont))
 
     # Merge paragraphs that were split across page breaks: if a paragraph
     # ends without terminal punctuation AND the next starts with a lowercase
     # letter (or a non-letter that suggests continuation), merge them.
     merged: list[str] = []
-    for para in paragraphs:
+    for para, is_cont in paragraphs:
         if merged:
             prev = merged[-1]
             last_char = prev[-1] if prev else ""
             first_char = para[0] if para else ""
             terminal = last_char in '.!?":;)”’'
             continues = first_char.islower() or first_char in ",;:)”’"
-            if not terminal and continues:
+            # Paragraphs flagged "[paragraph continues]" in the source are an
+            # explicit page-break split: always rejoin, regardless of the
+            # surrounding punctuation/case heuristic.
+            if is_cont or (not terminal and continues):
                 merged[-1] = prev + " " + para
                 continue
         merged.append(para)
@@ -307,7 +335,14 @@ def main() -> None:
             chap_id = entry["chapter_id"]
             print(f"[{i:>3}/{total}] {entry['href']} → {chap_id}")
             html = fetch(url)
-            heading, body_md, raw_text = parse_chapter(html)
+            # Synthesize a heading for the rare page that ships without an <h3>
+            # (e.g. St. Servulus / lots392.htm), from this index TOC entry.
+            name_part = re.sub(r"^\d+\.\s*", "", entry["title"]).strip()
+            if entry.get("day") is not None:
+                fallback_heading = f"{sec['section']} {entry['day']}.—{name_part.upper()}"
+            else:
+                fallback_heading = name_part.upper()
+            heading, body_md, raw_text = parse_chapter(html, fallback_heading)
             entry["heading"] = heading
 
             md_path = EN_DIR / f"{chap_id}.md"

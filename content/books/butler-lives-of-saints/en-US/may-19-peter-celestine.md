@@ -4,4 +4,4 @@ AS a child, Peter had visions of our blessed Lady, and of the angels and saints.
 
 ## Reflection
 
-"Whose," says the *Imitation of Christ*, "withdraweth himself from acquaintances and friends, to him will God draw near with His holy angels."
+"Whoso," says the *Imitation of Christ*, "withdraweth himself from acquaintances and friends, to him will God draw near with His holy angels."

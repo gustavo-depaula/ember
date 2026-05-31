@@ -4,4 +4,4 @@ ST. JOHN FRANCIS REGIS was born in Languedoc, in 1597. From his tenderest years 
 
 ## Reflection
 
-When St. John Francis was struck in the face by a sinner whom he was reproving, he replied, "If you only knew me, you would give me much more than that" His meekness converted the man, and it is in this spirit that he teaches us to win souls to God. How much might we do if we could forget our own wants in remembering those of others, and put our trust in God!
+When St. John Francis was struck in the face by a sinner whom he was reproving, he replied, "If you only knew me, you would give me much more than that." His meekness converted the man, and it is in this spirit that he teaches us to win souls to God. How much might we do if we could forget our own wants in remembering those of others, and put our trust in God!
