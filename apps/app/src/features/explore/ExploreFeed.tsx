@@ -7,6 +7,7 @@ import { bareId, ensureManifestBody, getEntriesByKind, getEntry } from '@/conten
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
+import { saintOfDayNames } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason, type LiturgicalCalendarForm } from '@/lib/liturgical'
@@ -116,13 +117,32 @@ export function ExploreFeed() {
 
   if (saint) {
     blocks.push({
-      key: 'saint',
-      label: t('explore.saintOfDay'),
+      key: 'celebration',
+      label: t('explore.celebrationOfDay'),
       title: localizeContent(saint.celebration.entry.name),
       subtitle: t(`calendar.rank.${saint.celebration.rank}`),
       image: saint.image,
       tone: toneForCelebration(saint.celebration.entry.category, season),
       onPress: () => router.push('/saints/today'),
+    })
+  }
+
+  // Saint of the Day — the fixed day-by-day saint from Pictorial Lives of the
+  // Saints (distinct from the liturgical celebration above). Opens the
+  // `saint-of-the-day` practice (today's life + reflection from the book).
+  const saintReadingName =
+    saintOfDayNames[
+      `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`
+    ]
+  if (saintReadingName) {
+    blocks.push({
+      key: 'saint',
+      label: t('explore.saintOfDay'),
+      title: saintReadingName,
+      subtitle: t('explore.saintReadingTagline'),
+      tone: toneForKey('saint-of-the-day'),
+      onPress: () =>
+        router.push({ pathname: '/pray/[practiceId]', params: { practiceId: 'saint-of-the-day' } }),
     })
   }
 

@@ -13,6 +13,7 @@ export {
   QuickCaptureChips,
   ResolutionLine,
   RestartNeededList,
+  SaintOfDayCard,
   SeasonalContext,
   ShortcutRow,
   TimeBlockSection,

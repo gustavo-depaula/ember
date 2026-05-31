@@ -30,6 +30,7 @@ import {
   MementoLine,
   ResolutionLine,
   RestartNeededList,
+  SaintOfDayCard,
   SeasonalContext,
   TimeBlockSection,
 } from '@/features/home'
@@ -53,6 +54,7 @@ import {
   useToggleSlot,
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
+import { useSaintOfDayReading } from '@/features/saints'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -123,6 +125,7 @@ export default function HomeScreen() {
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
   const upcomingFeast = useUpcomingCelebration(14)
+  const saintReading = useSaintOfDayReading()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -170,6 +173,16 @@ export default function HomeScreen() {
             tone: 'green' as const,
             watermark: localizeContent(upcomingFeast.entry.name),
             node: <SeasonalContext date={now} />,
+          },
+        ]
+      : []),
+    ...(saintReading
+      ? [
+          {
+            key: 'saint',
+            tone: 'gold' as const,
+            watermark: saintReading.name,
+            node: <SaintOfDayCard />,
           },
         ]
       : []),

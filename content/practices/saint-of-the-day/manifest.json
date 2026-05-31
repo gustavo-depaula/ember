@@ -1,0 +1,43 @@
+{
+  "id": "saint-of-the-day",
+  "icon": "book",
+  "name": {
+    "en-US": "Saint of the Day",
+    "pt-BR": "Santo do Dia"
+  },
+  "subtitle": {
+    "en-US": "Pictorial Lives of the Saints",
+    "pt-BR": "Vidas Ilustradas dos Santos"
+  },
+  "description": {
+    "en-US": "Read today's saint from the Pictorial Lives of the Saints — a short life and a reflection for every day of the year.",
+    "pt-BR": "Leia o santo de hoje nas Vidas Ilustradas dos Santos — uma breve vida e uma reflexão para cada dia do ano."
+  },
+  "categories": [
+    "devotion",
+    "daily",
+    "saints"
+  ],
+  "estimatedMinutes": 4,
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "saints",
+    "daily",
+    "reading",
+    "devotion"
+  ],
+  "defaults": {
+    "sortOrder": 55,
+    "slots": [
+      {
+        "schedule": {
+          "type": "daily"
+        },
+        "tier": "extra",
+        "enabled": false
+      }
+    ]
+  }
+}

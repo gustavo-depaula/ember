@@ -1,0 +1,5737 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "dateKey",
+      "default": "01-01",
+      "map": {
+        "01-01": "01-01",
+        "01-02": "01-02",
+        "01-03": "01-03",
+        "01-04": "01-04",
+        "01-05": "01-05",
+        "01-06": "01-06",
+        "01-07": "01-07",
+        "01-08": "01-08",
+        "01-09": "01-09",
+        "01-10": "01-10",
+        "01-11": "01-11",
+        "01-12": "01-12",
+        "01-13": "01-13",
+        "01-14": "01-14",
+        "01-15": "01-15",
+        "01-16": "01-16",
+        "01-17": "01-17",
+        "01-18": "01-18",
+        "01-19": "01-19",
+        "01-20": "01-20",
+        "01-21": "01-21",
+        "01-22": "01-22",
+        "01-23": "01-23",
+        "01-24": "01-24",
+        "01-25": "01-25",
+        "01-26": "01-26",
+        "01-27": "01-27",
+        "01-28": "01-28",
+        "01-29": "01-29",
+        "01-30": "01-30",
+        "01-31": "01-31",
+        "02-01": "02-01",
+        "02-02": "02-02",
+        "02-03": "02-03",
+        "02-04": "02-04",
+        "02-05": "02-05",
+        "02-06": "02-06",
+        "02-07": "02-07",
+        "02-08": "02-08",
+        "02-09": "02-09",
+        "02-10": "02-10",
+        "02-11": "02-11",
+        "02-12": "02-12",
+        "02-13": "02-13",
+        "02-14": "02-14",
+        "02-15": "02-15",
+        "02-16": "02-16",
+        "02-17": "02-17",
+        "02-18": "02-18",
+        "02-19": "02-19",
+        "02-20": "02-20",
+        "02-21": "02-21",
+        "02-22": "02-22",
+        "02-23": "02-23",
+        "02-24": "02-24",
+        "02-25": "02-25",
+        "02-26": "02-26",
+        "02-27": "02-27",
+        "02-28": "02-28",
+        "02-29": "02-29",
+        "03-01": "03-01",
+        "03-02": "03-02",
+        "03-03": "03-03",
+        "03-04": "03-04",
+        "03-05": "03-05",
+        "03-06": "03-06",
+        "03-07": "03-07",
+        "03-08": "03-08",
+        "03-09": "03-09",
+        "03-10": "03-10",
+        "03-11": "03-11",
+        "03-12": "03-12",
+        "03-13": "03-13",
+        "03-14": "03-14",
+        "03-15": "03-15",
+        "03-16": "03-16",
+        "03-17": "03-17",
+        "03-18": "03-18",
+        "03-19": "03-19",
+        "03-20": "03-20",
+        "03-21": "03-21",
+        "03-22": "03-22",
+        "03-23": "03-23",
+        "03-24": "03-24",
+        "03-25": "03-25",
+        "03-26": "03-26",
+        "03-27": "03-27",
+        "03-28": "03-28",
+        "03-29": "03-29",
+        "03-30": "03-30",
+        "03-31": "03-31",
+        "04-01": "04-01",
+        "04-02": "04-02",
+        "04-03": "04-03",
+        "04-04": "04-04",
+        "04-05": "04-05",
+        "04-06": "04-06",
+        "04-07": "04-07",
+        "04-08": "04-08",
+        "04-09": "04-09",
+        "04-10": "04-10",
+        "04-11": "04-11",
+        "04-12": "04-12",
+        "04-13": "04-13",
+        "04-14": "04-14",
+        "04-15": "04-15",
+        "04-16": "04-16",
+        "04-17": "04-17",
+        "04-18": "04-18",
+        "04-19": "04-19",
+        "04-20": "04-20",
+        "04-21": "04-21",
+        "04-22": "04-22",
+        "04-23": "04-23",
+        "04-24": "04-24",
+        "04-25": "04-25",
+        "04-26": "04-26",
+        "04-27": "04-27",
+        "04-28": "04-28",
+        "04-29": "04-29",
+        "04-30": "04-30",
+        "05-01": "05-01",
+        "05-02": "05-02",
+        "05-03": "05-03",
+        "05-04": "05-04",
+        "05-05": "05-05",
+        "05-06": "05-06",
+        "05-07": "05-07",
+        "05-08": "05-08",
+        "05-09": "05-09",
+        "05-10": "05-10",
+        "05-11": "05-11",
+        "05-12": "05-12",
+        "05-13": "05-13",
+        "05-14": "05-14",
+        "05-15": "05-15",
+        "05-16": "05-16",
+        "05-17": "05-17",
+        "05-18": "05-18",
+        "05-19": "05-19",
+        "05-20": "05-20",
+        "05-21": "05-21",
+        "05-22": "05-22",
+        "05-23": "05-23",
+        "05-24": "05-24",
+        "05-25": "05-25",
+        "05-26": "05-26",
+        "05-27": "05-27",
+        "05-28": "05-28",
+        "05-29": "05-29",
+        "05-30": "05-30",
+        "05-31": "05-31",
+        "06-01": "06-01",
+        "06-02": "06-02",
+        "06-03": "06-03",
+        "06-04": "06-04",
+        "06-05": "06-05",
+        "06-06": "06-06",
+        "06-07": "06-07",
+        "06-08": "06-08",
+        "06-09": "06-09",
+        "06-10": "06-10",
+        "06-11": "06-11",
+        "06-12": "06-12",
+        "06-13": "06-13",
+        "06-14": "06-14",
+        "06-15": "06-15",
+        "06-16": "06-16",
+        "06-17": "06-17",
+        "06-18": "06-18",
+        "06-19": "06-19",
+        "06-20": "06-20",
+        "06-21": "06-21",
+        "06-22": "06-22",
+        "06-23": "06-23",
+        "06-24": "06-24",
+        "06-25": "06-25",
+        "06-26": "06-26",
+        "06-27": "06-27",
+        "06-28": "06-28",
+        "06-29": "06-29",
+        "06-30": "06-30",
+        "07-01": "07-01",
+        "07-02": "07-02",
+        "07-03": "07-03",
+        "07-04": "07-04",
+        "07-05": "07-05",
+        "07-06": "07-06",
+        "07-07": "07-07",
+        "07-08": "07-08",
+        "07-09": "07-09",
+        "07-10": "07-10",
+        "07-11": "07-11",
+        "07-12": "07-12",
+        "07-13": "07-13",
+        "07-14": "07-14",
+        "07-15": "07-15",
+        "07-16": "07-16",
+        "07-17": "07-17",
+        "07-18": "07-18",
+        "07-19": "07-19",
+        "07-20": "07-20",
+        "07-21": "07-21",
+        "07-22": "07-22",
+        "07-23": "07-23",
+        "07-24": "07-24",
+        "07-25": "07-25",
+        "07-26": "07-26",
+        "07-27": "07-27",
+        "07-28": "07-28",
+        "07-29": "07-29",
+        "07-30": "07-30",
+        "07-31": "07-31",
+        "08-01": "08-01",
+        "08-02": "08-02",
+        "08-03": "08-03",
+        "08-04": "08-04",
+        "08-05": "08-05",
+        "08-06": "08-06",
+        "08-07": "08-07",
+        "08-08": "08-08",
+        "08-09": "08-09",
+        "08-10": "08-10",
+        "08-11": "08-11",
+        "08-12": "08-12",
+        "08-13": "08-13",
+        "08-14": "08-14",
+        "08-15": "08-15",
+        "08-16": "08-16",
+        "08-17": "08-17",
+        "08-18": "08-18",
+        "08-19": "08-19",
+        "08-20": "08-20",
+        "08-21": "08-21",
+        "08-22": "08-22",
+        "08-23": "08-23",
+        "08-24": "08-24",
+        "08-25": "08-25",
+        "08-26": "08-26",
+        "08-27": "08-27",
+        "08-28": "08-28",
+        "08-29": "08-29",
+        "08-30": "08-30",
+        "08-31": "08-31",
+        "09-01": "09-01",
+        "09-02": "09-02",
+        "09-03": "09-03",
+        "09-04": "09-04",
+        "09-05": "09-05",
+        "09-06": "09-06",
+        "09-07": "09-07",
+        "09-08": "09-08",
+        "09-09": "09-09",
+        "09-10": "09-10",
+        "09-11": "09-11",
+        "09-12": "09-12",
+        "09-13": "09-13",
+        "09-14": "09-14",
+        "09-15": "09-15",
+        "09-16": "09-16",
+        "09-17": "09-17",
+        "09-18": "09-18",
+        "09-19": "09-19",
+        "09-20": "09-20",
+        "09-21": "09-21",
+        "09-22": "09-22",
+        "09-23": "09-23",
+        "09-24": "09-24",
+        "09-25": "09-25",
+        "09-26": "09-26",
+        "09-27": "09-27",
+        "09-28": "09-28",
+        "09-29": "09-29",
+        "09-30": "09-30",
+        "10-01": "10-01",
+        "10-02": "10-02",
+        "10-03": "10-03",
+        "10-04": "10-04",
+        "10-05": "10-05",
+        "10-06": "10-06",
+        "10-07": "10-07",
+        "10-08": "10-08",
+        "10-09": "10-09",
+        "10-10": "10-10",
+        "10-11": "10-11",
+        "10-12": "10-12",
+        "10-13": "10-13",
+        "10-14": "10-14",
+        "10-15": "10-15",
+        "10-16": "10-16",
+        "10-17": "10-17",
+        "10-18": "10-18",
+        "10-19": "10-19",
+        "10-20": "10-20",
+        "10-21": "10-21",
+        "10-22": "10-22",
+        "10-23": "10-23",
+        "10-24": "10-24",
+        "10-25": "10-25",
+        "10-26": "10-26",
+        "10-27": "10-27",
+        "10-28": "10-28",
+        "10-29": "10-29",
+        "10-30": "10-30",
+        "10-31": "10-31",
+        "11-01": "11-01",
+        "11-02": "11-02",
+        "11-03": "11-03",
+        "11-04": "11-04",
+        "11-05": "11-05",
+        "11-06": "11-06",
+        "11-07": "11-07",
+        "11-08": "11-08",
+        "11-09": "11-09",
+        "11-10": "11-10",
+        "11-11": "11-11",
+        "11-12": "11-12",
+        "11-13": "11-13",
+        "11-14": "11-14",
+        "11-15": "11-15",
+        "11-16": "11-16",
+        "11-17": "11-17",
+        "11-18": "11-18",
+        "11-19": "11-19",
+        "11-20": "11-20",
+        "11-21": "11-21",
+        "11-22": "11-22",
+        "11-23": "11-23",
+        "11-24": "11-24",
+        "11-25": "11-25",
+        "11-26": "11-26",
+        "11-27": "11-27",
+        "11-28": "11-28",
+        "11-29": "11-29",
+        "11-30": "11-30",
+        "12-01": "12-01",
+        "12-02": "12-02",
+        "12-03": "12-03",
+        "12-04": "12-04",
+        "12-05": "12-05",
+        "12-06": "12-06",
+        "12-07": "12-07",
+        "12-08": "12-08",
+        "12-09": "12-09",
+        "12-10": "12-10",
+        "12-11": "12-11",
+        "12-12": "12-12",
+        "12-13": "12-13",
+        "12-14": "12-14",
+        "12-15": "12-15",
+        "12-16": "12-16",
+        "12-17": "12-17",
+        "12-18": "12-18",
+        "12-19": "12-19",
+        "12-20": "12-20",
+        "12-21": "12-21",
+        "12-22": "12-22",
+        "12-23": "12-23",
+        "12-24": "12-24",
+        "12-25": "12-25",
+        "12-26": "12-26",
+        "12-27": "12-27",
+        "12-28": "12-28",
+        "12-29": "12-29",
+        "12-30": "12-30",
+        "12-31": "12-31"
+      },
+      "options": [
+        {
+          "id": "01-01",
+          "label": {
+            "en-US": "The Circumcision of our Lord"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-01-the-circumcision-of-our-lord",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-02",
+          "label": {
+            "en-US": "St. Fulgentius, Bishop · St. Macarius of Alexandria"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-02-fulgentius",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-02-macarius-of-alexandria",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-03",
+          "label": {
+            "en-US": "St. Genevieve, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-03-genevieve",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-04",
+          "label": {
+            "en-US": "St. Titus, Bishop · St. Gregory, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-04-titus",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-04-gregory",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-05",
+          "label": {
+            "en-US": "St. Simeon Stylites"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-05-simeon-stylites",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-06",
+          "label": {
+            "en-US": "The Epiphany of Our Lord"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-06-the-epiphany-of-our-lord",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-07",
+          "label": {
+            "en-US": "St. Lucian, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-07-lucian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-08",
+          "label": {
+            "en-US": "St. Apollinaris, the Apologist, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-08-apollinaris-the-apologist",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-09",
+          "label": {
+            "en-US": "Ss. Julian and Basilissa, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-09-ss-julian-and-basilissa",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-10",
+          "label": {
+            "en-US": "St. William, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-10-william",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-11",
+          "label": {
+            "en-US": "St. Theodosius, The Cenobiarch"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-11-theodosius-the-cenobiarch",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-12",
+          "label": {
+            "en-US": "St. Aelred, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-12-aelred",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-13",
+          "label": {
+            "en-US": "St. Veronica of Milan"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-13-veronica-of-milan",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-14",
+          "label": {
+            "en-US": "St. Hilary of Poitiers"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-14-hilary-of-poitiers",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-15",
+          "label": {
+            "en-US": "St. Paul, the First Hermit"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-15-paul-the-first",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-16",
+          "label": {
+            "en-US": "St. Honoratus, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-16-honoratus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-17",
+          "label": {
+            "en-US": "St. Antony, Patriarch of Monks"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-17-antony",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-18",
+          "label": {
+            "en-US": "St. Peter's Chair at Rome"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-18-peters-chair-at-rome",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-19",
+          "label": {
+            "en-US": "St. Canutus, King, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-19-canutus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-20",
+          "label": {
+            "en-US": "St. Sebastian, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-20-sebastian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-21",
+          "label": {
+            "en-US": "St. Agnes, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-21-agnes",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-22",
+          "label": {
+            "en-US": "St. Vincent, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-22-vincent",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-23",
+          "label": {
+            "en-US": "St. Raymund of Pennafort"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-23-raymund-of-pennafort",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-24",
+          "label": {
+            "en-US": "St. Timothy, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-24-timothy",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-25",
+          "label": {
+            "en-US": "The Conversion of St. Paul"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-25-the-conversion-of-st-paul",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-26",
+          "label": {
+            "en-US": "St. Polycarp, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-26-polycarp",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-27",
+          "label": {
+            "en-US": "St. John Chrysostom"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-27-john-chrysostom",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-28",
+          "label": {
+            "en-US": "St. Cyril of Alexandria"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-28-cyril-of-alexandria",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-29",
+          "label": {
+            "en-US": "St. Francis of Sales"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-29-francis-of-sales",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-30",
+          "label": {
+            "en-US": "St. Bathildes, Queen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-30-bathildes",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "01-31",
+          "label": {
+            "en-US": "St. Marcella, Widow"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jan-31-marcella",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-01",
+          "label": {
+            "en-US": "St. Bridgid, Abbess, and Patroness of Ireland · St. Ignatius, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-01-bridgid",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-01-ignatius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-02",
+          "label": {
+            "en-US": "The Purification, Commonly Called Candlemas-Day"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-02-the-purification-commonly-called-candlemas-day",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-03",
+          "label": {
+            "en-US": "St. Blase, Bishop and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-03-blase",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-04",
+          "label": {
+            "en-US": "St. Jane of Valois"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-04-jane-of-valois",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-05",
+          "label": {
+            "en-US": "St. Agatha, Virgin, Martyr · The Martyrs of Japan"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-05-agatha",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-05-the-martyrs-of-japan",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-06",
+          "label": {
+            "en-US": "St. Dorothy, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-06-dorothy",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-07",
+          "label": {
+            "en-US": "St. Romuald, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-07-romuald",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-08",
+          "label": {
+            "en-US": "St. John of Matha"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-08-john-of-matha",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-09",
+          "label": {
+            "en-US": "St. Apollonia and the Martyrs of Alexandria"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-09-apollonia-and-the",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-10",
+          "label": {
+            "en-US": "St. Scholastica, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-10-scholastica",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-11",
+          "label": {
+            "en-US": "St. Severinus, Abbot of Agaunum"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-11-severinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-12",
+          "label": {
+            "en-US": "St. Benedict of Anian"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-12-benedict-of-anian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-13",
+          "label": {
+            "en-US": "St. Catherine of Ricci"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-13-catherine-of-ricci",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-14",
+          "label": {
+            "en-US": "St. Valentine, Priest and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-14-valentine",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-15",
+          "label": {
+            "en-US": "Sts. Faustinus and Jovita, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-15-sts-faustinus-and-jovita",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-16",
+          "label": {
+            "en-US": "Blessed John de Britto, Martyr · St. Onesimus, Disciple of St. Paul"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-16-blessed-john-de-britto",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-16-onesimus-disciple-of-st-paul",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-17",
+          "label": {
+            "en-US": "St. Flavian, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-17-flavian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-18",
+          "label": {
+            "en-US": "St. Simeon, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-18-simeon",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-19",
+          "label": {
+            "en-US": "St. Barbatus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-19-barbatus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-20",
+          "label": {
+            "en-US": "St. Eucherius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-20-eucherius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-21",
+          "label": {
+            "en-US": "St. Severianus, Martyr, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-21-severianus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-22",
+          "label": {
+            "en-US": "St. Peter's Chair at Antioch"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-22-peters-chair-at-antioch",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-23",
+          "label": {
+            "en-US": "St. Peter Damian · St. Serenus, a Gardener, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-23-peter-damian",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-23-serenus-a-gardener",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-24",
+          "label": {
+            "en-US": "St. Matthias, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-24-matthias",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-25",
+          "label": {
+            "en-US": "St. Tarasius"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-25-tarasius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-26",
+          "label": {
+            "en-US": "St. Porphyry, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-26-porphyry",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-27",
+          "label": {
+            "en-US": "St. Leander, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-27-leander",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-28",
+          "label": {
+            "en-US": "Sts. Romanus and Lupicinus, Abbots"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-28-sts-romanus-and-lupicinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "02-29",
+          "label": {
+            "en-US": "St. Oswald, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "feb-29-oswald",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-01",
+          "label": {
+            "en-US": "St. David, Bishop · St. Albinus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-01-david",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-01-albinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-02",
+          "label": {
+            "en-US": "St. Simplicius, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-02-simplicius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-03",
+          "label": {
+            "en-US": "St. Cunegundes, Empress"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-03-cunegundes",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-04",
+          "label": {
+            "en-US": "St. Casimir, King"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-04-casimir",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-05",
+          "label": {
+            "en-US": "Sts. Adrian and Eubulus, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-05-sts-adrian-and-eubulus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-06",
+          "label": {
+            "en-US": "St. Colette, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-06-colette",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-07",
+          "label": {
+            "en-US": "St. Thomas Aquinas"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-07-thomas-aquinas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-08",
+          "label": {
+            "en-US": "St. John of God"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-08-john-of-god",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-09",
+          "label": {
+            "en-US": "St. Frances of Rome"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-09-frances-of-rome",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-10",
+          "label": {
+            "en-US": "The Forty Martyrs of Sebaste"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-10-the-forty",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-11",
+          "label": {
+            "en-US": "St. Eulogius, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-11-eulogius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-12",
+          "label": {
+            "en-US": "St. Gregory the Great"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-12-gregory-the-great",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-13",
+          "label": {
+            "en-US": "St. Euphrasia, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-13-euphrasia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-14",
+          "label": {
+            "en-US": "St. Maud. Queen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-14-maud",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-15",
+          "label": {
+            "en-US": "St. Zachary, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-15-zachary",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-16",
+          "label": {
+            "en-US": "Sts. Abraham and Mary"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-16-sts-abraham-and-mary",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-17",
+          "label": {
+            "en-US": "St. Patrick, Bishop, Apostle of Ireland"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-17-patrick",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-18",
+          "label": {
+            "en-US": "St. Cyril of Jerusalem"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-18-cyril-of-jerusalem",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-19",
+          "label": {
+            "en-US": "St. Joseph, Spouse of the Blessed Virgin and Patron of the Universal Church"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-19-joseph-spouse-of-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-20",
+          "label": {
+            "en-US": "St. Wulfran, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-20-wulfran",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-21",
+          "label": {
+            "en-US": "St. Benedict, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-21-benedict",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-22",
+          "label": {
+            "en-US": "St. Catharine of Sweden, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-22-catharine-of-sweden",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-23",
+          "label": {
+            "en-US": "Sts. Victorian and Others, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-23-sts-victorian-and-others",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-24",
+          "label": {
+            "en-US": "St. Simon, Infant Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-24-simon-infant",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-25",
+          "label": {
+            "en-US": "The Annunciation of the Blessed Virgin Mary"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-25-the-annunciation-of-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-26",
+          "label": {
+            "en-US": "St. Ludger, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-26-ludger",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-27",
+          "label": {
+            "en-US": "St. John of Egypt"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-27-john-of-egypt",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-28",
+          "label": {
+            "en-US": "St. Gontran, King"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-28-gontran",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-29",
+          "label": {
+            "en-US": "Sts. Jonas, Barachisius, and their Companions, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-29-sts-jonas-barachisius-and-their-companions",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-30",
+          "label": {
+            "en-US": "St. John Climacus"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-30-john-climacus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "03-31",
+          "label": {
+            "en-US": "St. Benjamin, Deacon, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "mar-31-benjamin",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-01",
+          "label": {
+            "en-US": "St. Hugh, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-01-hugh",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-02",
+          "label": {
+            "en-US": "St. Francis of Paula"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-02-francis-of-paula",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-03",
+          "label": {
+            "en-US": "St. Richard of Chichester"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-03-richard-of-chichester",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-04",
+          "label": {
+            "en-US": "St. Isidore, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-04-isidore",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-05",
+          "label": {
+            "en-US": "St. Vincent Ferrer"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-05-vincent-ferrer",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-06",
+          "label": {
+            "en-US": "St. Celestine, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-06-celestine",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-07",
+          "label": {
+            "en-US": "St. Hegesippus, a Primitive Father · Blessed Herman Joseph of Steinfeld"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-07-hegesippus-a-primitive-father",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-07-blessed-herman-joseph-of-steinfeld",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-08",
+          "label": {
+            "en-US": "St. Perpetuus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-08-perpetuus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-09",
+          "label": {
+            "en-US": "St. Mary of Egypt · St. John the Almoner"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-09-mary-of-egypt",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-09-john-the-almoner",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-10",
+          "label": {
+            "en-US": "St. Bademus, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-10-bademus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-11",
+          "label": {
+            "en-US": "St. Leo the Great"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-11-leo-the-great",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-12",
+          "label": {
+            "en-US": "St. Julius, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-12-julius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-13",
+          "label": {
+            "en-US": "St. Hermenegild, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-13-hermenegild",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-14",
+          "label": {
+            "en-US": "St. Benezet, or Little Bennet"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-14-benezet-or-little-bennet",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-15",
+          "label": {
+            "en-US": "St. Paternus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-15-paternus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-16",
+          "label": {
+            "en-US": "Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-16-eighteen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-17",
+          "label": {
+            "en-US": "St. Anicetus, Pope, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-17-anicetus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-18",
+          "label": {
+            "en-US": "St. Apollonius, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-18-apollonius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-19",
+          "label": {
+            "en-US": "St. Elphege, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-19-elphege",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-20",
+          "label": {
+            "en-US": "St. Marcellinus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-20-marcellinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-21",
+          "label": {
+            "en-US": "St. Anselm, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-21-anselm",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-22",
+          "label": {
+            "en-US": "St. Soter, Pope, Martyr · St. Leonides, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-22-soter",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-22-leonides",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-23",
+          "label": {
+            "en-US": "St. George, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-23-george",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-24",
+          "label": {
+            "en-US": "St. Fidelis of Sigmaringen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-24-fidelis-of-sigmaringen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-25",
+          "label": {
+            "en-US": "St. Mark, Evangelist"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-25-mark",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-26",
+          "label": {
+            "en-US": "Sts. Cletus and Marcellinus, Popes, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-26-sts-cletus-and-marcellinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-27",
+          "label": {
+            "en-US": "St. Zita, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-27-zita",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-28",
+          "label": {
+            "en-US": "St. Paul of the Cross · St. Vitalis, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-28-paul-of-the-cross",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-28-vitalis",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-29",
+          "label": {
+            "en-US": "St. Peter, Martyr · St. Hugh, Abbot of Cluny"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-29-peter",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-29-hugh",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "04-30",
+          "label": {
+            "en-US": "St. Catherine of Siena"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "apr-30-catherine-of-siena",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-01",
+          "label": {
+            "en-US": "Sts. Philip and James, Apostles"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-01-sts-philip-and-james",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-02",
+          "label": {
+            "en-US": "St. Athanasius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-02-athanasius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-03",
+          "label": {
+            "en-US": "The Discovery of the Holy Cross"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-03-the-discovery-of-the-holy-cross",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-04",
+          "label": {
+            "en-US": "St. Monica"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-04-monica",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-05",
+          "label": {
+            "en-US": "St. Pius V"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-05-pius-v",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-06",
+          "label": {
+            "en-US": "St. John Before the Latin Gate"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-06-john-before-the-latin-gate",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-07",
+          "label": {
+            "en-US": "St. Stanislas, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-07-stanislas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-08",
+          "label": {
+            "en-US": "The Apparition of St. Michael the Archangel"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-08-the-apparition-of-st-michael-the-archangel",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-09",
+          "label": {
+            "en-US": "St. Gregory Nazianzen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-09-gregory-nazianzen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-10",
+          "label": {
+            "en-US": "St. Antoninus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-10-antoninus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-11",
+          "label": {
+            "en-US": "St. Mammertus, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-11-mammertus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-12",
+          "label": {
+            "en-US": "St. Epiphanius, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-12-epiphanius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-13",
+          "label": {
+            "en-US": "St. John the Silent"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-13-john-the-silent",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-14",
+          "label": {
+            "en-US": "St. Pachomius, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-14-pachomius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-15",
+          "label": {
+            "en-US": "Sts. Peter and Dionysia"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-15-sts-peter-and-dionysia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-16",
+          "label": {
+            "en-US": "St. John Nepomucen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-16-john-nepomucen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-17",
+          "label": {
+            "en-US": "St. Paschal Baylon"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-17-paschal-baylon",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-18",
+          "label": {
+            "en-US": "St. Venantius, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-18-venantius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-19",
+          "label": {
+            "en-US": "St. Peter Celestine"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-19-peter-celestine",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-20",
+          "label": {
+            "en-US": "St. Bernardine of Siena"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-20-bernardine-of-siena",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-21",
+          "label": {
+            "en-US": "St. Hospitius, Recluse"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-21-hospitius-recluse",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-22",
+          "label": {
+            "en-US": "St. Yvo, Confessor"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-22-yvo",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-23",
+          "label": {
+            "en-US": "St. Julia, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-23-julia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-24",
+          "label": {
+            "en-US": "Sts. Donatian and Rogatian, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-24-sts-donatian-and-rogatian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-25",
+          "label": {
+            "en-US": "St. Gregory VII"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-25-gregory-vii",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-26",
+          "label": {
+            "en-US": "St. Philip Neri · St. Augustine, Apostle of England"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-26-philip-neri",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-26-augustine",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-27",
+          "label": {
+            "en-US": "St. Mary Magdalen of Pazzi · Venerable Bede"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-27-mary-magdalen-of-pazzi",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-27-venerable-bede",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-28",
+          "label": {
+            "en-US": "St. Germanus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-28-germanus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-29",
+          "label": {
+            "en-US": "St. Cyril, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-29-cyril",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-30",
+          "label": {
+            "en-US": "St. Felix I., Pope and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-30-felix-i",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "05-31",
+          "label": {
+            "en-US": "St. Petronilla, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "may-31-petronilla",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-01",
+          "label": {
+            "en-US": "St. Justin, Martyr · St. Pamphilus, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-01-justin",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-01-pamphilus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-02",
+          "label": {
+            "en-US": "Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyon"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-02-sts-pothinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-03",
+          "label": {
+            "en-US": "St. Clotilda, Queen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-03-clotilda",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-04",
+          "label": {
+            "en-US": "St. Francis Caracciolo"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-04-francis-caracciolo",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-05",
+          "label": {
+            "en-US": "St. Boniface, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-05-boniface",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-06",
+          "label": {
+            "en-US": "St. Norbert, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-06-norbert",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-07",
+          "label": {
+            "en-US": "St. Robert of Newminster · St. Claude, Archbishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-07-robert-of-newminster",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-07-claude",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-08",
+          "label": {
+            "en-US": "St. Medard, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-08-medard",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-09",
+          "label": {
+            "en-US": "Sts. Primus and Felicianus, Martyrs · St. Columba, or Columkille, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-09-sts-primus-and-felicianus",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-09-columba-or-columkille",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-10",
+          "label": {
+            "en-US": "St. Margaret of Scotland"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-10-margaret-of-scotland",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-11",
+          "label": {
+            "en-US": "St. Barnabas, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-11-barnabas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-12",
+          "label": {
+            "en-US": "St. John of St. Fagondez"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-12-john-of-st-fagondez",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-13",
+          "label": {
+            "en-US": "St. Antony of Padua"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-13-antony-of-padua",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-14",
+          "label": {
+            "en-US": "St. Basil the Great"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-14-basil-the-great",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-15",
+          "label": {
+            "en-US": "Sts. Vitus, Crescentia, and Modestus, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-15-sts-vitus-crescentia-and-modestus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-16",
+          "label": {
+            "en-US": "St. John Francis Regis"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-16-john-francis-regis",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-17",
+          "label": {
+            "en-US": "St. Avitus, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-17-avitus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-18",
+          "label": {
+            "en-US": "Sts. Marcus and Marcellianus, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-18-sts-marcus-and-marcellianus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-19",
+          "label": {
+            "en-US": "St. Juliana Falconieri"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-19-juliana-falconieri",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-20",
+          "label": {
+            "en-US": "St. Silverius, Pope and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-20-silverius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-21",
+          "label": {
+            "en-US": "St. Aloysius Gonzaga"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-21-aloysius-gonzaga",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-22",
+          "label": {
+            "en-US": "St. Paulinus of Nola"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-22-paulinus-of-nola",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-23",
+          "label": {
+            "en-US": "St. Etheldreda, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-23-etheldreda",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-24",
+          "label": {
+            "en-US": "St. John the Baptist"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-24-john-the-baptist",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-25",
+          "label": {
+            "en-US": "St. Prosper of Aquitaine. St William of Monte-Vergine"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-26",
+          "label": {
+            "en-US": "Sts. John and Paul, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-26-sts-john-and-paul",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-27",
+          "label": {
+            "en-US": "St. Ladislas, King"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-27-ladislas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-28",
+          "label": {
+            "en-US": "St. Irenæus, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-28-iren-us",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-29",
+          "label": {
+            "en-US": "St. Peter, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-29-peter",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "06-30",
+          "label": {
+            "en-US": "St. Paul"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jun-30-paul",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-01",
+          "label": {
+            "en-US": "St. Gal, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-01-gal",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-02",
+          "label": {
+            "en-US": "The Visitation of the Blessed Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-02-the-visitation-of-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-03",
+          "label": {
+            "en-US": "St. Heliodorus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-03-heliodorus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-04",
+          "label": {
+            "en-US": "St. Bertha, Widow, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-04-bertha",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-05",
+          "label": {
+            "en-US": "St. Peter of Luxemburg"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-05-peter-of-luxemburg",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-06",
+          "label": {
+            "en-US": "St. Goar, Priest · St. Palladius, Bishop, Apostle of the Scots"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-06-goar",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-06-palladius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-07",
+          "label": {
+            "en-US": "St. Pantænus, Father of the Church"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-07-pant-nus-father-of-the-church",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-08",
+          "label": {
+            "en-US": "St. Elizabeth of Portugal"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-08-elizabeth-of-portugal",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-09",
+          "label": {
+            "en-US": "St. Ephrem, Deacon"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-09-ephrem",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-10",
+          "label": {
+            "en-US": "The Seven Brothers, Martyrs, and St. Felicitas, their Mother"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-10-the-seven-brothers",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-11",
+          "label": {
+            "en-US": "St. James, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-11-james",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-12",
+          "label": {
+            "en-US": "St. John Gualbert"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-12-john-gualbert",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-13",
+          "label": {
+            "en-US": "St. Eugenius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-13-eugenius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-14",
+          "label": {
+            "en-US": "St. Bonaventure"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-14-bonaventure",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-15",
+          "label": {
+            "en-US": "St. Henry, Emperor"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-15-henry-emperor",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-16",
+          "label": {
+            "en-US": "St. Simon Stock"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-16-simon-stock",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-17",
+          "label": {
+            "en-US": "St. Alexius"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-17-alexius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-18",
+          "label": {
+            "en-US": "St. Camillus Of Lellis"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-18-camillus-of-lellis",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-19",
+          "label": {
+            "en-US": "St. Vincent of Paul"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-19-vincent-of-paul",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-20",
+          "label": {
+            "en-US": "St. Margaret, Virgin and Martyr · St. Jerome Emiliani"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-20-margaret",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-20-jerome-emiliani",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-21",
+          "label": {
+            "en-US": "St. Victor, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-21-victor",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-22",
+          "label": {
+            "en-US": "St. Mary Magdalen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-22-mary-magdalen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-23",
+          "label": {
+            "en-US": "St. Apollinaris, Bishop and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-23-apollinaris",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-24",
+          "label": {
+            "en-US": "St. Christina, Virgin and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-24-christina",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-25",
+          "label": {
+            "en-US": "St. James, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-25-james",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-26",
+          "label": {
+            "en-US": "St. Anne"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-26-anne",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-27",
+          "label": {
+            "en-US": "St. Pantaleon, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-27-pantaleon",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-28",
+          "label": {
+            "en-US": "Sts. Nazarius and Celsus, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-28-sts-nazarius-and-celsus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-29",
+          "label": {
+            "en-US": "St. Martha, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-29-martha",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-30",
+          "label": {
+            "en-US": "St. Germanus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-30-germanus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "07-31",
+          "label": {
+            "en-US": "St. Ignatius of Loyola"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "jul-31-ignatius-of-loyola",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-01",
+          "label": {
+            "en-US": "St. Peter's Chains"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-01-peters-chains",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-02",
+          "label": {
+            "en-US": "St. Stephen, Pope and Martyr · St. Alphonsus Liguori"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-02-stephen",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-02-alphonsus-liguori",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-03",
+          "label": {
+            "en-US": "The Finding of St. Stephen's Relics"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-03-the-finding-of-st-stephens-relics",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-04",
+          "label": {
+            "en-US": "St. Dominic"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-04-dominic",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-05",
+          "label": {
+            "en-US": "The Dedication of St. Mary ad Nives"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-05-the-dedication-of-st-mary-ad-nives",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-06",
+          "label": {
+            "en-US": "The Transfiguration of Our Lord"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-06-the-transfiguration-of-our-lord",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-07",
+          "label": {
+            "en-US": "St. Cajetan"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-07-cajetan",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-08",
+          "label": {
+            "en-US": "St. Cyriacus and His Companions, Martyrs · Blessed Peter Favre"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-08-cyriacus-and-his-companions",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-08-blessed-peter-favre",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-09",
+          "label": {
+            "en-US": "St. Romanus, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-09-romanus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-10",
+          "label": {
+            "en-US": "St. Laurence, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-10-laurence",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-11",
+          "label": {
+            "en-US": "Sts. Tiburtius and Susanna, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-11-sts-tiburtius-and-susanna",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-12",
+          "label": {
+            "en-US": "St. Clare, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-12-clare",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-13",
+          "label": {
+            "en-US": "St. Radegundes, Queen"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-13-radegundes",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-14",
+          "label": {
+            "en-US": "St. Eusebius, Priest"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-14-eusebius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-15",
+          "label": {
+            "en-US": "The Assumption of the Blessed Virgin Mary"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-15-the-assumption-of-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-16",
+          "label": {
+            "en-US": "St. Hyacinth"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-16-hyacinth",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-17",
+          "label": {
+            "en-US": "St. Liberatus, Abbot, and Six Monks, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-17-liberatus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-18",
+          "label": {
+            "en-US": "St. Helena, Empress; St. Agapetus, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-18-helena",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-19",
+          "label": {
+            "en-US": "St. Louis, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-19-louis",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-20",
+          "label": {
+            "en-US": "St. Bernard"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-20-bernard",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-21",
+          "label": {
+            "en-US": "St. Jane Frances de Chantal"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-21-jane-frances-de-chantal",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-22",
+          "label": {
+            "en-US": "St. Symphorian, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-22-symphorian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-23",
+          "label": {
+            "en-US": "St. Philip Benizi"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-23-philip-benizi",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-24",
+          "label": {
+            "en-US": "St. Bartholomew, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-24-bartholomew",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-25",
+          "label": {
+            "en-US": "St. Louis, King"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-25-louis",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-26",
+          "label": {
+            "en-US": "St. Zephyrinus, Pope and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-26-zephyrinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-27",
+          "label": {
+            "en-US": "St. Joseph Calasanctius"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-27-joseph-calasanctius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-28",
+          "label": {
+            "en-US": "St. Augustine of Hippo"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-28-augustine-of-hippo",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-29",
+          "label": {
+            "en-US": "The Beheading of St. John the Baptist"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-29-the-beheading-of-st-john-the-baptist",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-30",
+          "label": {
+            "en-US": "St. Rose of Lima · St. Fiaker, Anchorite"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-30-rose-of-lima",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-30-fiaker-anchorite",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "08-31",
+          "label": {
+            "en-US": "St. Raymund Nonnatus"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "aug-31-raymund-nonnatus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-01",
+          "label": {
+            "en-US": "St. Giles, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-01-giles",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-02",
+          "label": {
+            "en-US": "St. Stephen, King"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-02-stephen",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-03",
+          "label": {
+            "en-US": "St. Seraphia, Virgin and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-03-seraphia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-04",
+          "label": {
+            "en-US": "St. Rosalia, Virgin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-04-rosalia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-05",
+          "label": {
+            "en-US": "St. Laurence Justinian"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-05-laurence-justinian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-06",
+          "label": {
+            "en-US": "St. Eleutherius, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-06-eleutherius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-07",
+          "label": {
+            "en-US": "St. Cloud, Confessor"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-07-cloud",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-08",
+          "label": {
+            "en-US": "The Nativity of the Blessed Virgin · The Festival, on the Sunday Within the Octa"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-08-the-nativity-of-the-blessed",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-08-the-festival-on-the-sunday-within-the-octave-of-her-nativity-of-the-holy-name-of-mary",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-09",
+          "label": {
+            "en-US": "St. Omer, Bishop · Saint Peter Claver"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-09-omer",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-09-saint-peter-claver",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-10",
+          "label": {
+            "en-US": "St. Nicholas of Tolentino"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-10-nicholas-of-tolentino",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-11",
+          "label": {
+            "en-US": "St. Paphnutius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-11-paphnutius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-12",
+          "label": {
+            "en-US": "St. Guy of Anderlecht"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-12-guy-of-anderlecht",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-13",
+          "label": {
+            "en-US": "St. Eulogius, Patriarch of Alexandria"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-13-eulogius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-14",
+          "label": {
+            "en-US": "The Exaltation of the Holy Cross of Our Lord Jesus Christ"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-14-the-exaltation-of-the-holy-cross-of-our-lord-jesus-christ",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-15",
+          "label": {
+            "en-US": "St. Catherine of Genoa"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-15-catherine-of-genoa",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-16",
+          "label": {
+            "en-US": "St. Cyprian, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-16-cyprian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-17",
+          "label": {
+            "en-US": "St. Lambert, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-17-lambert",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-18",
+          "label": {
+            "en-US": "St. Thomas of Villanova"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-18-thomas-of-villanova",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-19",
+          "label": {
+            "en-US": "St. Januarius, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-19-januarius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-20",
+          "label": {
+            "en-US": "Sts. Eustachius and Companions, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-20-sts-eustachius-and-companions",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-21",
+          "label": {
+            "en-US": "St. Matthew, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-21-matthew",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-22",
+          "label": {
+            "en-US": "The Theban Legion"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-22-the-theban-legion",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-23",
+          "label": {
+            "en-US": "St. Thecla, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-23-thecla",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-24",
+          "label": {
+            "en-US": "The Blessed Virgin Mary of Mercy"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-24-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-25",
+          "label": {
+            "en-US": "St. Firmin, Bishop, Martyr. St. Finbarr, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-25-firmin",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-26",
+          "label": {
+            "en-US": "Sts. Cyprian and Justina, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-26-sts-cyprian-and-justina",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-27",
+          "label": {
+            "en-US": "Sts. Cosmas and Damian, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-27-sts-cosmas-and-damian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-28",
+          "label": {
+            "en-US": "St. Wenceslas, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-28-wenceslas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-29",
+          "label": {
+            "en-US": "St. Michael, Archangel"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-29-michael-archangel",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "09-30",
+          "label": {
+            "en-US": "St. Jerome, Doctor"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "sep-30-jerome",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-01",
+          "label": {
+            "en-US": "St. Remigius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-01-remigius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-02",
+          "label": {
+            "en-US": "The Holy Guardian Angels"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-02-the-holy-guardian-angels",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-03",
+          "label": {
+            "en-US": "St. Gerard, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-03-gerard",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-04",
+          "label": {
+            "en-US": "St. Francis of Assisi"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-04-francis-of-assisi",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-05",
+          "label": {
+            "en-US": "St. Placid, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-05-placid",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-06",
+          "label": {
+            "en-US": "St. Bruno"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-06-bruno",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-07",
+          "label": {
+            "en-US": "St. Mark, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-07-mark",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-08",
+          "label": {
+            "en-US": "St. Bridget of Sweden"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-08-bridget-of-sweden",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-09",
+          "label": {
+            "en-US": "St. Dionysius and his Companions, Martyrs. St. Louis Bertrand"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-09-dionysius-and-his-companions",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-10",
+          "label": {
+            "en-US": "St. Francis Borgia"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-10-francis-borgia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-11",
+          "label": {
+            "en-US": "St. Tarachus and his Companions"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-11-tarachus-and-his-companions",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-12",
+          "label": {
+            "en-US": "St. Wilfrid, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-12-wilfrid",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-13",
+          "label": {
+            "en-US": "St. Edward the Confessor"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-13-edward-the",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-14",
+          "label": {
+            "en-US": "St. Callistus, Pope, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-14-callistus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-15",
+          "label": {
+            "en-US": "St. Teresa"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-15-teresa",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-16",
+          "label": {
+            "en-US": "St. Gall, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-16-gall",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-17",
+          "label": {
+            "en-US": "St. Hedwige. Saint Margaret Mary Alacoque"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-17-hedwige-saint-margaret-mary-alacoque",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-18",
+          "label": {
+            "en-US": "St. Luke"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-18-luke",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-19",
+          "label": {
+            "en-US": "St. Peter of Alcantara"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-19-peter-of-alcantara",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-20",
+          "label": {
+            "en-US": "St. John Cantius"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-20-john-cantius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-21",
+          "label": {
+            "en-US": "St. Ursula, Virgin and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-21-ursula",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-22",
+          "label": {
+            "en-US": "St. Mello, Bishop. St. Hilarion, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-22-mello",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-23",
+          "label": {
+            "en-US": "St. Theodoret, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-23-theodoret",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-24",
+          "label": {
+            "en-US": "St. Magloire, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-24-magloire",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-25",
+          "label": {
+            "en-US": "Sts. Crispin and Crispinian, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-25-sts-crispin-and-crispinian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-26",
+          "label": {
+            "en-US": "St. Evaristus, Pope and Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-26-evaristus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-27",
+          "label": {
+            "en-US": "St. Frumentius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-27-frumentius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-28",
+          "label": {
+            "en-US": "Sts. Simon and Jude"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-28-sts-simon-and-jude",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-29",
+          "label": {
+            "en-US": "St. Narcissus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-29-narcissus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-30",
+          "label": {
+            "en-US": "St. Marcellus, the Centurion, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-30-marcellus-the-centurion",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "10-31",
+          "label": {
+            "en-US": "St. Quintin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "oct-31-quintin",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-01",
+          "label": {
+            "en-US": "All-Saints"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-01-all-saints",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-02",
+          "label": {
+            "en-US": "All-Souls · St. Malachi, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-02-all-souls",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-02-malachi",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-03",
+          "label": {
+            "en-US": "St. Hubert, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-03-hubert",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-04",
+          "label": {
+            "en-US": "St. Charles Borromeo"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-04-charles-borromeo",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-05",
+          "label": {
+            "en-US": "St. Bertille, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-05-bertille",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-06",
+          "label": {
+            "en-US": "St. Leonard"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-06-leonard",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-07",
+          "label": {
+            "en-US": "St. Willibrord"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-07-willibrord",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-08",
+          "label": {
+            "en-US": "The Feast of the Holy Relics"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-08-the-feast-of-the-holy-relics",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-09",
+          "label": {
+            "en-US": "St. Theodore Tyro, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-09-theodore-tyro",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-10",
+          "label": {
+            "en-US": "10: St. Andrew Avellino"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-10-st-andrew-avellino",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-11",
+          "label": {
+            "en-US": "St. Martin of Tours"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-11-martin-of-tours",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-12",
+          "label": {
+            "en-US": "St. Martin, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-12-martin",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-13",
+          "label": {
+            "en-US": "St. Stanislas Kostka"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-13-stanislas-kostka",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-14",
+          "label": {
+            "en-US": "St. Didacus · St. Laurence O'Toole, Archbishop of Dublin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-14-didacus",
+              "langPolicy": "book-default"
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-14-laurence-otoole",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-15",
+          "label": {
+            "en-US": "St. Gertrude, Abbess"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-15-gertrude",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-16",
+          "label": {
+            "en-US": "St. Edmund of Canterbury"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-16-edmund-of-canterbury",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-17",
+          "label": {
+            "en-US": "St. Gregory Thaumaturgus"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-17-gregory-thaumaturgus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-18",
+          "label": {
+            "en-US": "St. Odo of Cluny"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-18-odo-of-cluny",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-19",
+          "label": {
+            "en-US": "St. Elizabeth of Hungary"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-19-elizabeth-of-hungary",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-20",
+          "label": {
+            "en-US": "St. Felix of Valois"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-20-felix-of-valois",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-21",
+          "label": {
+            "en-US": "The Presentation of the Blessed Virgin Mary"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-21-the-presentation-of-the-blessed",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-22",
+          "label": {
+            "en-US": "St. Cecilia, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-22-cecilia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-23",
+          "label": {
+            "en-US": "St. Clement of Rome"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-23-clement-of-rome",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-24",
+          "label": {
+            "en-US": "St. John of the Cross"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-24-john-of-the-cross",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-25",
+          "label": {
+            "en-US": "St. Catherine of Alexandria"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-25-catherine-of-alexandria",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-26",
+          "label": {
+            "en-US": "St. Peter of Alexandria, Bishop, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-26-peter-of-alexandria",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-27",
+          "label": {
+            "en-US": "St. Maximus, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-27-maximus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-28",
+          "label": {
+            "en-US": "St. James of La Marca of Ancona"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-28-james-of-la-marca-of-ancona",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-29",
+          "label": {
+            "en-US": "St. Saturninus, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-29-saturninus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "11-30",
+          "label": {
+            "en-US": "St. Andrew, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "nov-30-andrew",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-01",
+          "label": {
+            "en-US": "St. Eligius"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-01-eligius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-02",
+          "label": {
+            "en-US": "St. Bibiana, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-02-bibiana",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-03",
+          "label": {
+            "en-US": "St. Francis Xavier"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-03-francis-xavier",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-04",
+          "label": {
+            "en-US": "St. Barbara, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-04-barbara",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-05",
+          "label": {
+            "en-US": "St. Sabas, Abbot"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-05-sabas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-06",
+          "label": {
+            "en-US": "St. Nicholas of Bari"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-06-nicholas-of-bari",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-07",
+          "label": {
+            "en-US": "St. Ambrose, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-07-ambrose",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-08",
+          "label": {
+            "en-US": "The Feast of the Immaculate Conception"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-08-the-feast-of-the-immaculate-conception",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-09",
+          "label": {
+            "en-US": "St. Leocadia, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-09-leocadia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-10",
+          "label": {
+            "en-US": "St. Eulalia, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-10-eulalia",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-11",
+          "label": {
+            "en-US": "St. Damasus, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-11-damasus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-12",
+          "label": {
+            "en-US": "St. Valery, Abbot. St. Finian, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-12-valery",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-13",
+          "label": {
+            "en-US": "St. Lucy, Virgin, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-13-lucy",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-14",
+          "label": {
+            "en-US": "St. Nicasius, Archbishop, and his Companions, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-14-nicasius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-15",
+          "label": {
+            "en-US": "St. Mesmin"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-15-mesmin",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-16",
+          "label": {
+            "en-US": "St. Eusebius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-16-eusebius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-17",
+          "label": {
+            "en-US": "St. Olympias, Widow"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-17-olympias",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-18",
+          "label": {
+            "en-US": "St. Gatian, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-18-gatian",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-19",
+          "label": {
+            "en-US": "St. Nemesion, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-19-nemesion",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-20",
+          "label": {
+            "en-US": "St. Philogonius, Bishop"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-20-philogonius",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-21",
+          "label": {
+            "en-US": "St. Thomas, Apostle"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-21-thomas",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-22",
+          "label": {
+            "en-US": "St. Ischyrion, Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-22-ischyrion",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-23",
+          "label": {
+            "en-US": "St. Servulus"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-23-servulus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-24",
+          "label": {
+            "en-US": "St. Delphinus, Bishop. Sts. Thrasilla and Emiliana, Virgins"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-24-delphinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-25",
+          "label": {
+            "en-US": "The Nativity of Christ, or Christmas Day"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-25-the-nativity-of-christ-or-christmas-day",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-26",
+          "label": {
+            "en-US": "St. Stephen, First Martyr"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-26-stephen-first",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-27",
+          "label": {
+            "en-US": "St. John, Evangelist"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-27-john",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-28",
+          "label": {
+            "en-US": "The Holy Innocents"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-28-the-holy-innocents",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-29",
+          "label": {
+            "en-US": "St. Thomas of Canterbury"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-29-thomas-of-canterbury",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-30",
+          "label": {
+            "en-US": "St. Sabinus, Bishop, and his Companions, Martyrs"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-30-sabinus",
+              "langPolicy": "book-default"
+            }
+          ]
+        },
+        {
+          "id": "12-31",
+          "label": {
+            "en-US": "St. Sylvester, Pope"
+          },
+          "sections": [
+            {
+              "type": "prose",
+              "book": "pictorial-lives-of-saints",
+              "chapter": "dec-31-sylvester",
+              "langPolicy": "book-default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
