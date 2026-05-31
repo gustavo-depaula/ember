@@ -26,8 +26,12 @@ export default function TabsLayout() {
   // player is shown there) — otherwise the accessory renders an empty pill.
   const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
 
+  // Slide the tab bar away on the praying screen (Apple's "hide bottom bar when
+  // pushed" pattern) — that screen carries its own glass back / settings buttons.
+  const hideTabBar = pathname?.includes('/pray/') ?? false
+
   return (
-    <NativeTabs tintColor={tintColor} minimizeBehavior="onScrollDown">
+    <NativeTabs tintColor={tintColor} minimizeBehavior="onScrollDown" hidden={hideTabBar}>
       {showPlayer ? (
         <NativeTabs.BottomAccessory>
           <NowPlayingBar />

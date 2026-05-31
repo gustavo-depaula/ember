@@ -2,14 +2,15 @@
 
 import type { UseQueryResult } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { Type } from 'lucide-react-native'
-import { useState } from 'react'
+import { ChevronLeft, Type } from 'lucide-react-native'
+import { type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Pressable, type StyleProp, type ViewStyle } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useTheme, View, YStack } from 'tamagui'
+import { Text, useTheme, useThemeName, YStack } from 'tamagui'
 import {
   AnimatedPressable,
+  GlassSurface,
   ManuscriptFrame,
   PrimitiveBlock,
   ScreenLayout,
@@ -102,6 +103,7 @@ function PracticeReady({
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   const { t } = useTranslation()
+  const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const now = useToday()
@@ -178,31 +180,84 @@ function PracticeReady({
           )}
         </ScreenLayout>
 
-        {/* Reading & language settings — pinned outside the scroll so it stays put. */}
-        <AnimatedPressable
+        {/* The native tab bar is hidden on this screen (see (tabs)/_layout). These
+            two Liquid Glass buttons replace it: back on the left, reading &
+            language settings on the right. */}
+        <GlassIconButton
+          onPress={() => {
+            lightTap()
+            router.back()
+          }}
+          accessibilityLabel={t('common.back')}
+          style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
+        >
+          <ChevronLeft size={22} color={theme.color.val} />
+        </GlassIconButton>
+
+        <GlassIconButton
           onPress={() => {
             lightTap()
             setSettingsOpen(true)
           }}
-          accessibilityRole="button"
           accessibilityLabel={t('readingConfig.reading')}
-          style={{ position: 'absolute', top: insets.top + 4, right: 12, zIndex: 10 }}
+          style={{ position: 'absolute', bottom: insets.bottom + 12, right: 16, zIndex: 10 }}
         >
-          <View
-            width={36}
-            height={36}
-            borderRadius={18}
-            alignItems="center"
-            justifyContent="center"
-            backgroundColor="$backgroundSurface"
-          >
-            <Type size={18} color={theme.accent.val} />
-          </View>
-        </AnimatedPressable>
+          <Type size={20} color={theme.color.val} />
+        </GlassIconButton>
 
         <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
       </YStack>
     </ImageViewerProvider>
+  )
+}
+
+const glassButtonStyle = {
+  width: 52,
+  height: 52,
+  borderRadius: 26,
+  alignItems: 'center',
+  justifyContent: 'center',
+  overflow: 'hidden',
+} as const
+
+// Subtle drop shadow so the floating button reads against varied prayer content.
+const glassShadowStyle = {
+  shadowColor: '#000',
+  shadowOpacity: 0.1,
+  shadowRadius: 6,
+  shadowOffset: { width: 0, height: 2 },
+  elevation: 2,
+} as const
+
+// A floating circular Liquid Glass button. Plain Pressable (not AnimatedPressable)
+// because animating opacity on a glass surface or its parent kills the effect;
+// GlassSurface's own `isInteractive` provides the native press highlight. No color
+// tint (kept clean) — the soft shadow gives the glass a defined edge so it reads
+// over the prayer text.
+function GlassIconButton({
+  onPress,
+  accessibilityLabel,
+  style,
+  children,
+}: {
+  onPress: () => void
+  accessibilityLabel: string
+  style: StyleProp<ViewStyle>
+  children: ReactNode
+}) {
+  const isDark = useThemeName().startsWith('dark')
+  return (
+    <Pressable
+      onPress={onPress}
+      hitSlop={8}
+      accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel}
+      style={[style, glassShadowStyle]}
+    >
+      <GlassSurface isDark={isDark} style={glassButtonStyle}>
+        {children}
+      </GlassSurface>
+    </Pressable>
   )
 }
 
