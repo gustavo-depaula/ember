@@ -14,5 +14,5 @@ import { Typography } from '../typography'
  * and the `sacred-title` variant (rung 6 — the unique name of a feast/hour).
  */
 export function SectionHeading(props: ComponentProps<typeof Typography>) {
-  return <Typography variant="label" paddingTop="$sm" {...props} />
+  return <Typography variant="section-title" paddingTop="$sm" {...props} />
 }

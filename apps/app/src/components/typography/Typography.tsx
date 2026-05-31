@@ -59,7 +59,6 @@ export const Typography = styled(Text, {
       label: {
         fontFamily: '$heading',
         fontSize: '$3',
-        color: '$colorBurgundy',
         letterSpacing: 0.5,
       },
       marker: {
@@ -71,6 +70,11 @@ export const Typography = styled(Text, {
         textAlign: 'center',
       },
       'sacred-title': { fontFamily: '$title', fontSize: '$4', textAlign: 'center' },
+      'section-title': {
+        fontFamily: '$title',
+        fontSize: '$4',
+        fontStyle: 'italic',
+      },
       ceremonial: { fontFamily: '$display', color: '$accent' },
       'drop-cap': {
         fontFamily: '$title',
