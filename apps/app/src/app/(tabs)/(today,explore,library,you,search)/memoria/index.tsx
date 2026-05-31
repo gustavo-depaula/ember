@@ -25,7 +25,7 @@ const filters: Filter[] = ['all', 'prayers', 'intentions', 'gratitudes']
 function matchesFilter(entry: MemoriaEntry, filter: Filter): boolean {
   if (filter === 'all') return true
   const kinds: Record<Exclude<Filter, 'all'>, ReadonlySet<MemoriaEntry['kind']>> = {
-    prayers: new Set(['completion', 'day-offered', 'confession']),
+    prayers: new Set(['completion', 'day-offered']),
     intentions: new Set(['intention-raised', 'intention-closed']),
     gratitudes: new Set(['thanksgiving']),
   }

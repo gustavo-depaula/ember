@@ -29,13 +29,13 @@ export function QuickCaptureChips() {
         leading={<IntentionHeart active={openIntentions > 0} />}
         label={t('intentions.title')}
         count={openIntentions}
-        onPress={() => router.push('/intentions')}
+        onPress={() => router.push('/altar')}
       />
       <Chip
         leading={<Flame size={16} color={theme.accent?.val} />}
-        label={t('gratias.title')}
+        label={t('altar.gratitude')}
         count={gratitudes}
-        onPress={() => router.push('/gratias')}
+        onPress={() => router.push({ pathname: '/altar', params: { tab: 'gratitude' } })}
       />
       {memoriaCount > 0 && (
         <Chip

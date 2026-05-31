@@ -23,7 +23,13 @@ export function Threshold({ word, subtitle }: { word: string; subtitle?: string 
     <ScreenLayout>
       <YStack flex={1} alignItems="center" justifyContent="center" gap="$sm" padding="$xl">
         <Animated.View style={style}>
-          <Typography variant="sacred-title" fontSize="$5" color="$accent" letterSpacing={2}>
+          <Typography
+            fontFamily="$script"
+            fontSize={60}
+            lineHeight={76}
+            color="$accent"
+            textAlign="center"
+          >
             {word}
           </Typography>
         </Animated.View>

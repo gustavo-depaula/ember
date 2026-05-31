@@ -2,7 +2,6 @@ export type { CarouselPage } from './components'
 export {
   Aspiratio,
   CelebrationOfDay,
-  ConfessioLine,
   DailyCarousel,
   DateScrubber,
   DiesDevotion,

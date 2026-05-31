@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 
 import { useEventStore } from '@/db/events'
-import type { ConfessionState, Movement } from '@/db/events/state'
+import type { Movement } from '@/db/events/state'
 import type { Completion } from '@/db/schema'
 
 export type MemoriaEntry =
@@ -10,13 +10,11 @@ export type MemoriaEntry =
   | { kind: 'intention-closed'; id: string; timestamp: number; movement: Movement }
   | { kind: 'thanksgiving'; id: string; timestamp: number; movement: Movement }
   | { kind: 'day-offered'; id: string; timestamp: number; date: string }
-  | { kind: 'confession'; id: string; timestamp: number; confession: ConfessionState }
 
 export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
   const movements = useEventStore((s) => s.movements)
   const offeredDays = useEventStore((s) => s.offeredDays)
-  const confessions = useEventStore((s) => s.confessions)
 
   return useMemo(() => {
     const entries: MemoriaEntry[] = []
@@ -56,26 +54,14 @@ export function useMemoriaEntries(limit = 200): MemoriaEntry[] {
     for (const [date, offeredAt] of offeredDays) {
       entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
     }
-    for (const c of confessions.values()) {
-      entries.push({
-        kind: 'confession',
-        id: `cf:${c.id}`,
-        timestamp: c.recorded_at,
-        confession: c,
-      })
-    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries.slice(0, limit)
-  }, [completions, movements, offeredDays, confessions, limit])
+  }, [completions, movements, offeredDays, limit])
 }
 
 export function useMemoriaEntriesCount(): number {
   return useEventStore(
-    (s) =>
-      s.completions.size +
-      countMovementEntries(s.movements) +
-      s.offeredDays.size +
-      s.confessions.size,
+    (s) => s.completions.size + countMovementEntries(s.movements) + s.offeredDays.size,
   )
 }
 
@@ -83,7 +69,6 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
   const completions = useEventStore((s) => s.completions)
   const movements = useEventStore((s) => s.movements)
   const offeredDays = useEventStore((s) => s.offeredDays)
-  const confessions = useEventStore((s) => s.confessions)
 
   return useMemo(() => {
     const month = now.getMonth()
@@ -117,19 +102,9 @@ export function useOnThisDayEntries(now: Date): MemoriaEntry[] {
         entries.push({ kind: 'day-offered', id: `d:${date}`, timestamp: offeredAt, date })
       }
     }
-    for (const c of confessions.values()) {
-      if (onPriorAnniversary(c.recorded_at)) {
-        entries.push({
-          kind: 'confession',
-          id: `cf:${c.id}`,
-          timestamp: c.recorded_at,
-          confession: c,
-        })
-      }
-    }
     entries.sort((a, b) => b.timestamp - a.timestamp)
     return entries
-  }, [completions, movements, offeredDays, confessions, now])
+  }, [completions, movements, offeredDays, now])
 }
 
 function isPriorAnniversary(timestamp: number, month: number, day: number, year: number): boolean {

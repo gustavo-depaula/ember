@@ -1,6 +1,5 @@
-export { MovementCaptureSheet } from './components/MovementCaptureSheet'
+export { CadenceToggle } from './components/CadenceToggle'
 export { MovementList } from './components/MovementList'
-export { MovementScreen } from './components/MovementScreen'
 export { PinPracticeSheet } from './components/PinPracticeSheet'
 export { RenderedCaptureMovementBlock } from './components/RenderedCaptureMovementBlock'
 export {

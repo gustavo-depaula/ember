@@ -1,5 +1,4 @@
 export { clearCache, getCached, setCache } from './cache'
-export { recordConfession, removeConfession } from './confessio'
 export type { FollowRecord } from './creators'
 export {
   followCreator,

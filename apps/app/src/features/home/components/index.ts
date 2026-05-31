@@ -1,6 +1,5 @@
 export { Aspiratio } from './Aspiratio'
 export { CelebrationOfDay } from './CelebrationOfDay'
-export { ConfessioLine } from './ConfessioLine'
 export type { CarouselPage } from './DailyCarousel'
 export { DailyCarousel } from './DailyCarousel'
 export { DateScrubber } from './DateScrubber'

@@ -1,6 +1,5 @@
-import { differenceInCalendarDays, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
-import { Flame, Heart, Key, Settings, Shield } from 'lucide-react-native'
+import { Flame, Settings, Shield } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -13,12 +12,8 @@ import {
   Typography,
 } from '@/components'
 import { flags } from '@/config/flags'
-import { useLastConfession } from '@/features/confessio'
-import { useCommitments } from '@/features/custody'
-import { ShortcutRow } from '@/features/home'
 import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
-import { useActiveIntentionsCount, useActiveThanksgivingsCount } from '@/features/movements'
-import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
+import { PlanCard, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
@@ -28,10 +23,10 @@ const flourishAspect = 2172 / 457
 const flourishLightAspect = 2172 / 386
 
 // You tab root: who you are across time. The rule-of-life config is the page's
-// primary job (front-and-center); beneath it sits the standing interior state —
-// the spiritual battle (custody), what you're carrying (intentions, thanks,
-// confession cadence), and a peek at your chronicle. Today is "this day"; You is
-// "the long arc." Settings lives in the header gear.
+// primary job (front-and-center). Right below the votive wall sit two doorways —
+// the Altar (what you lay before God: intentions, thanks, today's resolution)
+// and Custody (the spiritual battle) — then a peek at your chronicle. Today is
+// "this day"; You is "the long arc." Settings lives in the header gear.
 export default function YouScreen() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -39,22 +34,27 @@ export default function YouScreen() {
   const now = useToday()
   const locale = getDateLocale()
 
-  const intentionsCount = useActiveIntentionsCount()
-  const thanksgivingsCount = useActiveThanksgivingsCount()
-  const lastConfession = useLastConfession()
-  const { data: commitments } = useCommitments({ includeArchived: false })
   const recentEntries = useMemoriaEntries(3)
   const onThisDay = useOnThisDayEntries(now)
 
-  const confessionLabel = (() => {
-    if (!lastConfession) return undefined
-    const days = differenceInCalendarDays(now, parseISO(lastConfession.date))
-    if (days === 0) return t('confessio.homeToday')
-    if (days === 1) return t('confessio.homeYesterday')
-    return t('confessio.homeSince', { count: days })
-  })()
-
-  const activeCommitments = commitments?.length ?? 0
+  const interiorCards = (
+    <XStack gap="$md">
+      <PlanCard
+        icon={<Flame size={28} color={theme.accent?.val} />}
+        label={t('altar.title')}
+        subtitle={t('altar.cardSubtitle')}
+        onPress={() => router.push('/altar')}
+      />
+      {flags.custody && (
+        <PlanCard
+          icon={<Shield size={28} color={theme.accent?.val} />}
+          label={t('custody.title')}
+          subtitle={t('you.custodyHint')}
+          onPress={() => router.push('/custody')}
+        />
+      )}
+    </XStack>
+  )
 
   return (
     <ScreenLayout>
@@ -77,48 +77,7 @@ export default function YouScreen() {
           </Pressable>
         </XStack>
 
-        <RuleOfLifeSections />
-
-        <SectionDivider />
-
-        <YStack gap="$sm">
-          <Typography variant="label">{t('you.carrying')}</Typography>
-          <ShortcutRow
-            leading={<Heart size={22} color={theme.accent?.val} />}
-            title={t('intentions.title')}
-            tagline={t('you.intentionsHint')}
-            trailing={<Typography tone="muted">{intentionsCount}</Typography>}
-            onPress={() => router.push('/intentions')}
-          />
-          <ShortcutRow
-            leading={<Flame size={22} color={theme.accent?.val} />}
-            title={t('gratias.title')}
-            tagline={t('you.gratiasHint')}
-            trailing={<Typography tone="muted">{thanksgivingsCount}</Typography>}
-            onPress={() => router.push('/gratias')}
-          />
-          {flags.custody && (
-            <ShortcutRow
-              leading={<Shield size={22} color={theme.accent?.val} />}
-              title={t('custody.title')}
-              tagline={
-                activeCommitments > 0
-                  ? t('you.commitmentsActive', { count: activeCommitments })
-                  : t('custody.tagline')
-              }
-              onPress={() => router.push('/custody')}
-            />
-          )}
-          <ShortcutRow
-            leading={<Key size={22} color={theme.accent?.val} />}
-            title={t('confessio.title')}
-            tagline={t('you.confessionHint')}
-            trailing={
-              confessionLabel ? <Typography tone="muted">{confessionLabel}</Typography> : undefined
-            }
-            onPress={() => router.push('/confessio')}
-          />
-        </YStack>
+        <RuleOfLifeSections belowWall={interiorCards} />
 
         <SectionDivider />
 

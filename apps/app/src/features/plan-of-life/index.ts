@@ -1,4 +1,10 @@
-export { DayCarousel, PracticeChecklist, RuleOfLifeSections, YouMasthead } from './components'
+export {
+  DayCarousel,
+  PlanCard,
+  PracticeChecklist,
+  RuleOfLifeSections,
+  YouMasthead,
+} from './components'
 export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
 export {
   useAddSlot,

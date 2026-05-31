@@ -35,7 +35,6 @@ import {
   getCurrentStreak,
 } from '../utils'
 import { PlanOfflineSheet } from './PlanOfflineSheet'
-import { ResolutionsPanel } from './ResolutionsPanel'
 import { RuleTree } from './RuleTree'
 
 function getPracticeDisplayName(practiceId: string, practice: UserPractice | undefined): string {
@@ -44,16 +43,18 @@ function getPracticeDisplayName(practiceId: string, practice: UserPractice | und
   return practice?.custom_name ?? practiceId
 }
 
-// The two doorways under the Plano de Vida title: one into the traditions, one
-// to add a practice. A quiet illuminated surface — gold mark over a tracked-caps
-// label — not a bordered box.
-function PlanCard({
+// A doorway card — a quiet illuminated surface with the gold mark to the left of
+// a tracked-caps title and a muted subtitle, not a bordered box. Used for the
+// interior-life pair (Altar / Custody) and the rule pair (Traditions / Add).
+export function PlanCard({
   icon,
   label,
+  subtitle,
   onPress,
 }: {
   icon: ReactNode
   label: string
+  subtitle?: string
   onPress: () => void
 }) {
   return (
@@ -63,13 +64,14 @@ function PlanCard({
           lightTap()
           onPress()
         }}
+        style={{ flex: 1 }}
         accessibilityRole="link"
         accessibilityLabel={label}
       >
-        <YStack
+        <XStack
+          flex={1}
           alignItems="center"
-          justifyContent="center"
-          gap="$sm"
+          gap="$md"
           paddingVertical="$lg"
           paddingHorizontal="$md"
           minHeight={100}
@@ -77,10 +79,17 @@ function PlanCard({
           backgroundColor="$backgroundSurface"
         >
           {icon}
-          <Typography variant="label" textAlign="center" numberOfLines={2}>
-            {label}
-          </Typography>
-        </YStack>
+          <YStack flex={1} gap="$xs">
+            <Typography variant="label" numberOfLines={2}>
+              {label}
+            </Typography>
+            {subtitle ? (
+              <Typography variant="caption" tone="muted" numberOfLines={2}>
+                {subtitle}
+              </Typography>
+            ) : undefined}
+          </YStack>
+        </XStack>
       </AnimatedPressable>
     </YStack>
   )
@@ -94,7 +103,7 @@ function PlanCard({
  * own `ScreenLayout`/`PageHeader` and outer `YStack gap="$lg"`. (Pre-Typography
  * code kept verbatim.)
  */
-export function RuleOfLifeSections() {
+export function RuleOfLifeSections({ belowWall }: { belowWall?: ReactNode }) {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
@@ -168,7 +177,7 @@ export function RuleOfLifeSections() {
         </YStack>
       </ManuscriptFrame>
 
-      <ResolutionsPanel />
+      {belowWall}
 
       <PlanOfflineSheet
         practiceIds={practiceIds}
@@ -197,13 +206,15 @@ export function RuleOfLifeSections() {
         </XStack>
         <XStack gap="$md">
           <PlanCard
-            icon={<Sparkles size={24} color={theme.accent.val} />}
+            icon={<Sparkles size={28} color={theme.accent.val} />}
             label={t('templates.title')}
+            subtitle={t('templates.subtitle')}
             onPress={() => router.push('/templates' as never)}
           />
           <PlanCard
-            icon={<Plus size={24} color={theme.accent.val} />}
+            icon={<Plus size={28} color={theme.accent.val} />}
             label={t('plan.addCustom')}
+            subtitle={t('plan.addCustomHint')}
             onPress={() => router.push('/practices')}
           />
         </XStack>

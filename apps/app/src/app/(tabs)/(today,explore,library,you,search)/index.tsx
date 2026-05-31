@@ -24,12 +24,10 @@ import {
   Aspiratio,
   type CarouselPage,
   CelebrationOfDay,
-  ConfessioLine,
   DailyCarousel,
   DiesDevotion,
   LiturgicalHeader,
   MementoLine,
-  OfflineCoverageLine,
   ResolutionLine,
   RestartNeededList,
   SeasonalContext,
@@ -249,7 +247,7 @@ export default function HomeScreen() {
           <FadeInView index={1}>
             <YStack>
               <Pressable
-                onPress={() => router.push('/plan')}
+                onPress={() => router.navigate('/(tabs)/(you)/you')}
                 accessibilityRole="link"
                 accessibilityLabel={t('a11y.viewPlanOfLife')}
               >
@@ -273,7 +271,7 @@ export default function HomeScreen() {
           {todaySlots.length === 0 ? (
             <FadeInView index={2}>
               <Pressable
-                onPress={() => router.push('/plan')}
+                onPress={() => router.navigate('/(tabs)/(you)/you')}
                 accessibilityRole="link"
                 accessibilityLabel={t('home.emptyPlanAction')}
               >
@@ -323,15 +321,11 @@ export default function HomeScreen() {
           )}
 
           <RestartNeededList ids={restartNeededIds} />
-
-          <OfflineCoverageLine />
         </YStack>
 
         <PageBreakOrnament />
 
         <Aspiratio date={now} />
-
-        <ConfessioLine />
 
         <MementoLine />
 

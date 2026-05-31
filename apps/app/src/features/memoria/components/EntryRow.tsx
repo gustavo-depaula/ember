@@ -1,5 +1,5 @@
 import { format } from 'date-fns'
-import { Check, Flame, Heart, Key, type LucideIcon, Sparkles, Sunrise } from 'lucide-react-native'
+import { Check, Flame, Heart, type LucideIcon, Sparkles, Sunrise } from 'lucide-react-native'
 import type React from 'react'
 import { useTranslation } from 'react-i18next'
 import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
@@ -50,7 +50,6 @@ export function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.R
     'intention-closed': Sparkles,
     thanksgiving: Flame,
     'day-offered': Sunrise,
-    confession: Key,
   }
   const Icon = icons[kind]
   const fill = kind === 'intention-closed' ? color : undefined
@@ -74,8 +73,6 @@ export function getEntryBody(
       return t('memoria.gratitude', { text: entry.movement.text })
     case 'day-offered':
       return t('memoria.dayOffered')
-    case 'confession':
-      return t('memoria.confession')
   }
 }
 

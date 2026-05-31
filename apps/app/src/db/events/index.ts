@@ -1,5 +1,4 @@
 export type {
-  ConfessionState,
   EventStoreState,
   Movement,
   MovementClosureKind,

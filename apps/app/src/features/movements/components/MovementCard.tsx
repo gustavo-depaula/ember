@@ -1,12 +1,14 @@
 import type { Locale } from 'date-fns'
-import { Calendar, Check, Hash, Tag } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, Typography } from '@/components'
 import type { Movement } from '@/db/events'
 import { formatSoftRelative } from '@/lib/softRelative'
 
+// A petition / thanksgiving as a quiet manuscript line — a gold fleuron, the
+// text, and a muted footnote (when raised, its term, how it closed). No bordered
+// surface box; the list reads like the chronicle.
 export function MovementCard({
   movement,
   locale,
@@ -19,7 +21,6 @@ export function MovementCard({
   onPrimary?: () => void
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const closed = movement.state === 'closed'
   const ts = closed ? (movement.closed_at ?? movement.recorded_at) : movement.recorded_at
   const ago = formatSoftRelative(ts, {
@@ -30,6 +31,10 @@ export function MovementCard({
 
   const primary =
     !closed && onPrimary && movement.kind === 'intention' && movement.cadence === 'goal'
+  const boundedDate =
+    movement.kind === 'intention' && movement.cadence === 'bounded' && movement.bounded_until
+      ? new Date(movement.bounded_until).toLocaleDateString()
+      : undefined
 
   return (
     <AnimatedPressable
@@ -37,84 +42,38 @@ export function MovementCard({
       accessibilityRole="button"
       accessibilityLabel={movement.text}
     >
-      <YStack
-        gap="$sm"
-        padding="$md"
-        borderRadius="$md"
-        borderWidth={closed ? 0 : 1}
-        borderColor="$borderColor"
-        backgroundColor="$backgroundSurface"
-        opacity={closed ? 0.7 : 1}
-      >
-        <Text
-          selectable
-          fontFamily="$body"
-          fontSize="$3"
-          color="$color"
-          textDecorationLine={closed ? 'line-through' : 'none'}
-        >
-          {movement.text}
-        </Text>
-
-        <XStack alignItems="center" gap="$sm" flexWrap="wrap">
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-            {ago}
-          </Text>
-          {movement.subject ? (
-            <XStack alignItems="center" gap="$xs">
-              <Tag size={10} color={theme.colorSecondary?.val} />
-              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {movement.subject}
-              </Text>
-            </XStack>
-          ) : undefined}
-          {movement.kind === 'intention' &&
-          movement.cadence === 'bounded' &&
-          movement.bounded_until ? (
-            <XStack alignItems="center" gap="$xs">
-              <Calendar size={10} color={theme.colorSecondary?.val} />
-              <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                {new Date(movement.bounded_until).toLocaleDateString()}
-              </Text>
-            </XStack>
-          ) : undefined}
-          {closed && movement.closure_kind ? (
-            <XStack alignItems="center" gap="$xs">
-              <Hash size={10} color={theme.accent?.val} />
-              <Text fontFamily="$body" fontSize="$1" color="$accent">
-                {t(`movements.closure.${movement.closure_kind}`)}
-              </Text>
-            </XStack>
-          ) : undefined}
-          {primary ? (
-            <XStack flex={1} justifyContent="flex-end">
-              <AnimatedPressable
-                onPress={(e) => {
-                  e.stopPropagation?.()
-                  onPrimary()
-                }}
-                accessibilityRole="button"
-                accessibilityLabel={t('movements.actions.markAnswered')}
-              >
-                <XStack
-                  alignItems="center"
-                  gap="$xs"
-                  paddingVertical="$xs"
-                  paddingHorizontal="$sm"
-                  borderRadius="$sm"
-                  borderWidth={1}
-                  borderColor="$accent"
-                >
-                  <Check size={12} color={theme.accent?.val} />
-                  <Text fontFamily="$heading" fontSize="$1" color="$accent" letterSpacing={0.5}>
-                    {t('movements.actions.answered')}
-                  </Text>
-                </XStack>
-              </AnimatedPressable>
-            </XStack>
-          ) : undefined}
-        </XStack>
-      </YStack>
+      <XStack gap="$sm" alignItems="baseline" paddingVertical="$sm" opacity={closed ? 0.6 : 1}>
+        <Typography color="$accent">⟢</Typography>
+        <YStack flex={1} gap={2}>
+          <Typography fontSize="$4" textDecorationLine={closed ? 'line-through' : 'none'}>
+            {movement.text}
+          </Typography>
+          <XStack alignItems="center" gap="$xs" flexWrap="wrap">
+            <Typography variant="caption">{ago}</Typography>
+            {boundedDate ? <Typography variant="caption">· {boundedDate}</Typography> : undefined}
+            {closed && movement.closure_kind ? (
+              <Typography variant="caption" color="$accent">
+                · {t(`movements.closure.${movement.closure_kind}`)}
+              </Typography>
+            ) : undefined}
+          </XStack>
+        </YStack>
+        {primary ? (
+          <AnimatedPressable
+            onPress={(e) => {
+              e.stopPropagation?.()
+              onPrimary()
+            }}
+            hitSlop={8}
+            accessibilityRole="button"
+            accessibilityLabel={t('movements.actions.markAnswered')}
+          >
+            <Typography variant="label" fontSize="$1" color="$accent">
+              {t('movements.actions.answered')}
+            </Typography>
+          </AnimatedPressable>
+        ) : undefined}
+      </XStack>
     </AnimatedPressable>
   )
 }

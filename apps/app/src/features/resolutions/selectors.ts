@@ -16,6 +16,25 @@ export function pickActive(
   return best
 }
 
+// Every resolution active in the window (not just the latest) — oldest first.
+// Lets a level (e.g. daily) hold several resolutions at once.
+export function pickAllActive(
+  resolutions: Map<string, Resolution>,
+  ids: Set<string> | undefined,
+  now: number,
+): Resolution[] {
+  if (!ids) return []
+  const out: Resolution[] = []
+  for (const id of ids) {
+    const r = resolutions.get(id)
+    if (!r || r.archived_at !== undefined) continue
+    if (now < r.starts_at || now > r.ends_at) continue
+    out.push(r)
+  }
+  out.sort((a, b) => a.recorded_at - b.recorded_at)
+  return out
+}
+
 export function pickPending(
   resolutions: Map<string, Resolution>,
   reviews: Map<string, ResolutionReview[]>,

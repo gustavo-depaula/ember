@@ -2,6 +2,7 @@ export { RenderedCaptureResolutionBlock } from './components/RenderedCaptureReso
 export { RenderedReviewResolutionBlock } from './components/RenderedReviewResolutionBlock'
 export {
   useActiveResolution,
+  useActiveResolutions,
   useArchiveResolution,
   useCheckinResolution,
   usePendingResolution,

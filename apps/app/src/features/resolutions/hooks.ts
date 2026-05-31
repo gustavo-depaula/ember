@@ -14,11 +14,18 @@ import {
 } from '@/db/repositories'
 import { useToday } from '@/hooks/useToday'
 
-import { pickActive, pickPending } from './selectors'
+import { pickActive, pickAllActive, pickPending } from './selectors'
 
 export function useActiveResolution(level: ResolutionLevel): Resolution | undefined {
   const now = useToday().getTime()
   return useEventStore((s) => pickActive(s.resolutions, s.resolutionsByLevel.get(level), now))
+}
+
+export function useActiveResolutions(level: ResolutionLevel): Resolution[] {
+  const now = useToday().getTime()
+  return useEventStore(
+    useShallow((s) => pickAllActive(s.resolutions, s.resolutionsByLevel.get(level), now)),
+  )
 }
 
 export function usePendingResolution(level: ResolutionLevel): Resolution | undefined {

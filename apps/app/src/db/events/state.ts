@@ -46,12 +46,6 @@ export type Movement = {
   from_intention?: string
 }
 
-export type ConfessionState = {
-  id: number
-  date: string
-  recorded_at: number
-}
-
 export type Resolution = {
   id: string
   text: string
@@ -102,12 +96,8 @@ export type EventStoreState = {
   // Oblatio (date → offered-at timestamp)
   offeredDays: Map<string, number>
 
-  // Confessio (sacrament of penance records)
-  confessions: Map<number, ConfessionState>
-
   // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
-  nextConfessionId: number
 
   // Actions
   apply: (event: AppEvent) => void
@@ -131,9 +121,7 @@ function emptyState() {
     resolutionReviews: new Map<string, ResolutionReview[]>(),
     resolutionsByLevel: new Map<ResolutionLevel, Set<string>>(),
     offeredDays: new Map<string, number>(),
-    confessions: new Map<number, ConfessionState>(),
     nextCompletionId: 1,
-    nextConfessionId: 1,
   }
 }
 
