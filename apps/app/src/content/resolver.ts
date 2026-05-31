@@ -4,6 +4,7 @@
  * content on demand.
  */
 
+import { getCached } from '@/db/repositories/cache'
 import { batchedLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
@@ -48,10 +49,19 @@ export type PrayerAsset = {
   source?: LocalizedText
 }
 
-export async function loadCatalogFromHearth(): Promise<Catalog> {
-  const catalog = await fetchHearth<Catalog>('catalog.json', { networkFirst: true })
+export async function loadCatalogFromHearth({
+  networkFirst = true,
+}: {
+  networkFirst?: boolean
+} = {}): Promise<Catalog> {
+  const catalog = await fetchHearth<Catalog>('catalog.json', { networkFirst })
   setCatalog(catalog)
   return catalog
+}
+
+/** Returning launches have the catalog cached in SQLite; first launch does not. */
+export async function hasCachedCatalog(): Promise<boolean> {
+  return (await getCached<Catalog>('hearth:catalog.json')) !== undefined
 }
 
 const PRACTICE_FRAGMENTS_CACHE = new Map<string, FlowDefinition>()

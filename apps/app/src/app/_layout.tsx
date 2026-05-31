@@ -42,6 +42,7 @@ import { flags } from '@/config/flags'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import {
+  hasCachedCatalog,
   loadCatalogFromHearth,
   warmCriticalManifests,
   warmDeferredManifests,
@@ -154,6 +155,11 @@ export default function RootLayout() {
 
   const [seeded, setSeeded] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
+  // undefined until detected. Returning launches (cached catalog) boot from
+  // local cache and keep the native splash up; only a true first launch shows
+  // the branded loader.
+  const [firstLaunch, setFirstLaunch] = useState<boolean | undefined>(undefined)
+  const [graceExpired, setGraceExpired] = useState(false)
 
   // 200MB cap. Pinned blobs are skipped during eviction; the cap is a soft
   // ceiling (pinned content can exceed it without dropping anything).
@@ -189,8 +195,12 @@ export default function RootLayout() {
         await initHearth()
         mark('initHearth done')
 
+        setFirstLaunch(!(await hasCachedCatalog()))
+
         setBootStatus(i18n.t('boot.fetchingCatalog'))
-        await loadCatalogFromHearth().catch((err) => {
+        // Cache-first on boot: returning users render from the cached catalog
+        // without a network wait. The background refresh below revalidates.
+        await loadCatalogFromHearth({ networkFirst: false }).catch((err) => {
           console.warn('[startup] catalog fetch failed; proceeding with cached catalog:', err)
         })
         mark('catalog loaded')
@@ -297,10 +307,22 @@ export default function RootLayout() {
   // show a custom loading screen while the corpus warms.
   const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && catechismHydrated && dbReady
   const ready = coreReady && seeded
+  // First launch must download content (show the loader immediately); a
+  // returning launch only reveals it if warming overruns the grace window.
+  const showBootScreen = coreReady && !seeded && (firstLaunch === true || graceExpired)
+
+  // A returning launch warms from local cache; if it hasn't seeded within the
+  // grace window, reveal the boot loader rather than holding the native splash
+  // indefinitely.
+  useEffect(() => {
+    if (firstLaunch !== false || !coreReady || seeded) return
+    const t = setTimeout(() => setGraceExpired(true), 450)
+    return () => clearTimeout(t)
+  }, [firstLaunch, coreReady, seeded])
 
   useEffect(() => {
-    if (coreReady) SplashScreen.hideAsync()
-  }, [coreReady])
+    if (ready || showBootScreen) SplashScreen.hideAsync()
+  }, [ready, showBootScreen])
 
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
@@ -319,7 +341,11 @@ export default function RootLayout() {
 
   if (!coreReady) return undefined
 
-  if (!ready) {
+  // Keep the native splash up (render nothing) until we either reach the app or
+  // decide to show the loader — so fast cached boots never flash the Ember loader.
+  if (!ready && !showBootScreen) return undefined
+
+  if (showBootScreen) {
     return (
       <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
         <BootLoadingScreen status={bootStatus} />
