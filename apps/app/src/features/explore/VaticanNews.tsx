@@ -7,19 +7,19 @@
  *
  * The widget renders into an OPEN Shadow DOM, so the injected click interceptor
  * walks `composedPath()` (not `closest`) to find anchors across the shadow
- * boundary. Intercepted links open in an in-app bottom-sheet browser on native /
- * a new tab on web (news pages typically block being framed). The widget has no
+ * boundary. Intercepted links open in the native in-app browser
+ * (SFSafariViewController / Custom Tabs) on native — mirroring `FromRome` — or a
+ * new tab on web (news pages typically block being framed). The widget has no
  * dark-mode attribute — its `type="grey"` is the dark variant — and no intrinsic
  * sizing, so it reports its height back and we grow the container to fit (and
  * disable inner scroll, so it scrolls with the page).
  */
 
+import * as WebBrowser from 'expo-web-browser'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Platform, View } from 'react-native'
-import { useTheme, XStack, YStack } from 'tamagui'
+import { useTheme } from 'tamagui'
 
-import { AnimatedPressable, BottomSheet } from '@/components'
-import { Typography } from '@/components/typography'
 import i18n from '@/lib/i18n'
 import { vaticanWidgetLang } from './vaticanContent'
 
@@ -80,35 +80,36 @@ ${hostScript}
 // biome-ignore lint/suspicious/noExplicitAny: WebView type not exported
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
-function hostOf(url: string): string {
-  try {
-    return new URL(url).host.replace(/^www\./, '')
-  } catch {
-    return 'vaticannews.va'
-  }
-}
-
 export function VaticanNews() {
   const theme = useTheme()
   const dark = isDarkHex(theme.background?.val)
   const lang = vaticanWidgetLang(i18n.language)
   const html = useMemo(() => widgetHtml(lang, dark), [lang, dark])
   const [height, setHeight] = useState(minHeight)
-  const [article, setArticle] = useState<string | undefined>()
 
-  const onMessage = useCallback((event: { nativeEvent: { data: string } }) => {
-    try {
-      const msg = JSON.parse(event.nativeEvent.data) as {
-        type?: string
-        url?: string
-        value?: number
+  const onMessage = useCallback(
+    (event: { nativeEvent: { data: string } }) => {
+      try {
+        const msg = JSON.parse(event.nativeEvent.data) as {
+          type?: string
+          url?: string
+          value?: number
+        }
+        // Open intercepted article links in the native in-app browser
+        // (SFSafariViewController / Custom Tabs), matching FromRome.
+        if (msg.type === 'open' && msg.url) {
+          WebBrowser.openBrowserAsync(msg.url, {
+            presentationStyle: WebBrowser.WebBrowserPresentationStyle.PAGE_SHEET,
+            controlsColor: theme.accent?.val,
+            toolbarColor: theme.background?.val,
+          })
+        } else if (msg.type === 'height' && msg.value) setHeight(clampHeight(msg.value))
+      } catch {
+        // Ignore non-JSON postMessage noise.
       }
-      if (msg.type === 'open' && msg.url) setArticle(msg.url)
-      else if (msg.type === 'height' && msg.value) setHeight(clampHeight(msg.value))
-    } catch {
-      // Ignore non-JSON postMessage noise.
-    }
-  }, [])
+    },
+    [theme.accent?.val, theme.background?.val],
+  )
 
   // Web: receive the iframe's height postMessages.
   useEffect(() => {
@@ -135,51 +136,19 @@ export function VaticanNews() {
   }
 
   return (
-    <>
-      <View style={{ width: '100%', height, borderRadius: 12, overflow: 'hidden' }}>
-        <WebView
-          source={{ html, baseUrl: `${widgetOrigin}/` }}
-          style={{ flex: 1, backgroundColor: 'transparent' }}
-          originWhitelist={['*']}
-          javaScriptEnabled
-          domStorageEnabled
-          scrollEnabled={false}
-          scalesPageToFit={false}
-          allowsInlineMediaPlayback
-          mediaPlaybackRequiresUserAction
-          onMessage={onMessage}
-        />
-      </View>
-
-      <BottomSheet visible={!!article} onClose={() => setArticle(undefined)} expand>
-        <XStack alignItems="center" justifyContent="space-between" gap="$md">
-          <Typography variant="reference" numberOfLines={1} flex={1}>
-            {article ? hostOf(article) : ''}
-          </Typography>
-          <AnimatedPressable
-            onPress={() => setArticle(undefined)}
-            accessibilityRole="button"
-            accessibilityLabel={i18n.t('common.done', { defaultValue: 'Done' })}
-          >
-            <Typography variant="label">
-              {i18n.t('common.done', { defaultValue: 'Done' })}
-            </Typography>
-          </AnimatedPressable>
-        </XStack>
-        <YStack flex={1} borderRadius={12} overflow="hidden">
-          {article && (
-            <WebView
-              source={{ uri: article }}
-              style={{ flex: 1, backgroundColor: 'transparent' }}
-              originWhitelist={['*']}
-              javaScriptEnabled
-              domStorageEnabled
-              allowsInlineMediaPlayback
-              allowsBackForwardNavigationGestures
-            />
-          )}
-        </YStack>
-      </BottomSheet>
-    </>
+    <View style={{ width: '100%', height, borderRadius: 12, overflow: 'hidden' }}>
+      <WebView
+        source={{ html, baseUrl: `${widgetOrigin}/` }}
+        style={{ flex: 1, backgroundColor: 'transparent' }}
+        originWhitelist={['*']}
+        javaScriptEnabled
+        domStorageEnabled
+        scrollEnabled={false}
+        scalesPageToFit={false}
+        allowsInlineMediaPlayback
+        mediaPlaybackRequiresUserAction
+        onMessage={onMessage}
+      />
+    </View>
   )
 }

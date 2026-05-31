@@ -1,9 +1,11 @@
+import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { Check, Star, Trash2, X } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Text, useTheme, XStack } from 'tamagui'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, BottomSheet, confirm } from '@/components'
+import { AnimatedPressable, confirm } from '@/components'
 import type { Movement } from '@/db/events'
 
 import {
@@ -33,6 +35,7 @@ export function MovementActionMenu({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
+  const insets = useSafeAreaInsets()
 
   const markAnswered = useMarkIntentionAnswered()
   const retireIntention = useRetireIntention()
@@ -84,57 +87,69 @@ export function MovementActionMenu({
 
   return (
     <>
-      <BottomSheet visible={visible} onClose={onClose} animation="fade">
-        <Text fontFamily="$heading" fontSize="$3" color="$color">
-          {movement.text}
-        </Text>
-        {actions.map((a) => (
+      <BottomSheet
+        index={visible ? 0 : -1}
+        enablePanDownToClose
+        onClose={onClose}
+        backgroundStyle={{ backgroundColor: theme.background?.val }}
+      >
+        <YStack
+          paddingHorizontal="$lg"
+          paddingTop="$md"
+          paddingBottom={insets.bottom + 16}
+          gap="$md"
+        >
+          <Text fontFamily="$heading" fontSize="$3" color="$color">
+            {movement.text}
+          </Text>
+          {actions.map((a) => (
+            <AnimatedPressable
+              key={a.key}
+              onPress={() => handle(a)}
+              accessibilityRole="button"
+              accessibilityLabel={t(a.labelKey)}
+            >
+              <XStack
+                alignItems="center"
+                gap="$sm"
+                paddingVertical="$md"
+                paddingHorizontal="$md"
+                borderRadius="$md"
+                borderWidth={1}
+                borderColor={a.destructive ? '$colorDestructive' : '$borderColor'}
+              >
+                <a.icon
+                  size={16}
+                  color={a.destructive ? theme.colorDestructive?.val : theme.color?.val}
+                />
+                <Text
+                  fontFamily="$heading"
+                  fontSize="$2"
+                  color={a.destructive ? '$colorDestructive' : '$color'}
+                  letterSpacing={0.5}
+                >
+                  {t(a.labelKey)}
+                </Text>
+              </XStack>
+            </AnimatedPressable>
+          ))}
           <AnimatedPressable
-            key={a.key}
-            onPress={() => handle(a)}
+            onPress={onClose}
             accessibilityRole="button"
-            accessibilityLabel={t(a.labelKey)}
+            accessibilityLabel={t('common.cancel')}
           >
             <XStack
-              alignItems="center"
-              gap="$sm"
+              justifyContent="center"
               paddingVertical="$md"
-              paddingHorizontal="$md"
               borderRadius="$md"
-              borderWidth={1}
-              borderColor={a.destructive ? '$colorDestructive' : '$borderColor'}
+              backgroundColor="$backgroundSurface"
             >
-              <a.icon
-                size={16}
-                color={a.destructive ? theme.colorDestructive?.val : theme.color?.val}
-              />
-              <Text
-                fontFamily="$heading"
-                fontSize="$2"
-                color={a.destructive ? '$colorDestructive' : '$color'}
-                letterSpacing={0.5}
-              >
-                {t(a.labelKey)}
+              <Text fontFamily="$heading" fontSize="$2" color="$color" letterSpacing={1}>
+                {t('common.cancel')}
               </Text>
             </XStack>
           </AnimatedPressable>
-        ))}
-        <AnimatedPressable
-          onPress={onClose}
-          accessibilityRole="button"
-          accessibilityLabel={t('common.cancel')}
-        >
-          <XStack
-            justifyContent="center"
-            paddingVertical="$md"
-            borderRadius="$md"
-            backgroundColor="$backgroundSurface"
-          >
-            <Text fontFamily="$heading" fontSize="$2" color="$color" letterSpacing={1}>
-              {t('common.cancel')}
-            </Text>
-          </XStack>
-        </AnimatedPressable>
+        </YStack>
       </BottomSheet>
       <PinPracticeSheet
         movementId={pinSheetOpen ? movement.id : undefined}

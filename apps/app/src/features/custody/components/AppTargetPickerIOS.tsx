@@ -1,8 +1,6 @@
 import { Platform } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
-import { useBottomSheetSettled } from '@/components'
-
 import { getCustodyNative } from '../native'
 import { selectionIdFor } from '../native/ios'
 import type { Target } from '../types'
@@ -48,11 +46,6 @@ export function AppTargetPickerIOS({
   onChange: (next: Target[]) => void
 }) {
   const native = getCustodyNative()
-  // The SwiftUI picker lays itself out synchronously at full size when
-  // mounted — if we mount it mid sheet-slide, the user sees the picker pop
-  // into existence above the still-sliding sheet. Defer mount until the
-  // sheet reports settled.
-  const settled = useBottomSheetSettled()
 
   if (Platform.OS !== 'ios' || !native.isSupported() || !DeviceActivitySelectionViewPersisted) {
     return (
@@ -75,12 +68,6 @@ export function AppTargetPickerIOS({
 
   const others = targets.filter((t) => t.kind !== 'ios-app' && t.kind !== 'ios-category')
   const selectionId = selectionIdFor(commitmentId)
-
-  if (!settled) {
-    // Placeholder while the sheet animates in. Roughly matches the picker
-    // footprint so the layout doesn't jump on settle.
-    return <YStack flex={1} borderRadius={14} backgroundColor="$backgroundSurface" opacity={0.4} />
-  }
 
   return (
     <DeviceActivitySelectionViewPersisted

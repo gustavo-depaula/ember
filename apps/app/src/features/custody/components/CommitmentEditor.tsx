@@ -1,12 +1,12 @@
+import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import type { TFunction } from 'i18next'
 import { ChevronDown, ChevronRight, X } from 'lucide-react-native'
 import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, TextInput } from 'react-native'
+import { Pressable, ScrollView, TextInput, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, View, XStack, YStack } from 'tamagui'
-import { BottomSheet } from '@/components'
 import { randomId } from '@/lib/id'
 
 import { useCommitment, useCreateCommitment, useUpdateCommitment } from '../hooks'
@@ -173,6 +173,7 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
+  const { height } = useWindowDimensions()
   const { t } = useTranslation()
   const { template: templateParam } = useLocalSearchParams<{ template?: string }>()
 
@@ -397,30 +398,61 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
       </YStack>
 
       {/* Sheets — sub-pickers.
-          The targets sheet uses `expand` so the iOS FamilyActivityPicker has
-          the whole screen to breathe; the override sheet stays
-          content-hugging because it's short. */}
-      <BottomSheet visible={openSheet === 'targets'} onClose={() => setOpenSheet(null)} expand>
-        <SheetHeader title={t('custody.editor.sheet.targets')} onClose={() => setOpenSheet(null)} />
-        <TargetPicker
-          commitmentId={draftId}
-          targets={state.targets}
-          onChange={(targets) => setState((s) => ({ ...s, targets }))}
-        />
+          The targets sheet takes a tall fixed detent so the iOS
+          FamilyActivityPicker has the whole screen to breathe; its content gets
+          an explicit height so the picker's flex:1 fills (a native sheet gives
+          flex children no height bound). The override sheet stays
+          content-hugging via dynamic sizing because it's short. */}
+      <BottomSheet
+        index={openSheet === 'targets' ? 0 : -1}
+        snapPoints={['92%']}
+        enablePanDownToClose
+        onClose={() => setOpenSheet(null)}
+        backgroundStyle={{ backgroundColor: theme.background?.val }}
+      >
+        <YStack
+          height={height * 0.92}
+          paddingHorizontal="$lg"
+          paddingTop="$xs"
+          paddingBottom={insets.bottom + 16}
+          gap="$md"
+        >
+          <SheetHeader
+            title={t('custody.editor.sheet.targets')}
+            onClose={() => setOpenSheet(null)}
+          />
+          <TargetPicker
+            commitmentId={draftId}
+            targets={state.targets}
+            onChange={(targets) => setState((s) => ({ ...s, targets }))}
+          />
+        </YStack>
       </BottomSheet>
 
-      <BottomSheet visible={openSheet === 'override'} onClose={() => setOpenSheet(null)}>
-        <SheetHeader
-          title={t('custody.editor.sheet.override')}
-          onClose={() => setOpenSheet(null)}
-        />
-        <FrictionPicker
-          value={state.friction}
-          config={state.frictionConfig}
-          onChange={(friction, frictionConfig) =>
-            setState((s) => ({ ...s, friction, frictionConfig }))
-          }
-        />
+      <BottomSheet
+        index={openSheet === 'override' ? 0 : -1}
+        enablePanDownToClose
+        onClose={() => setOpenSheet(null)}
+        backgroundStyle={{ backgroundColor: theme.background?.val }}
+      >
+        <YStack
+          paddingHorizontal="$lg"
+          paddingTop="$xs"
+          paddingBottom={insets.bottom + 16}
+          gap="$md"
+        >
+          <SheetHeader
+            title={t('custody.editor.sheet.override')}
+            onClose={() => setOpenSheet(null)}
+          />
+          <FrictionPicker
+            value={state.friction}
+            config={state.frictionConfig}
+            onChange={(friction, frictionConfig) =>
+              setState((s) => ({ ...s, friction, frictionConfig }))
+            }
+          />
+        </YStack>
       </BottomSheet>
     </YStack>
   )

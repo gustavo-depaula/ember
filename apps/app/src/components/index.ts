@@ -1,6 +1,5 @@
 export { AnimatedCheckbox } from './AnimatedCheckbox'
 export { AnimatedPressable } from './AnimatedPressable'
-export { BottomSheet, useBottomSheetSettled } from './BottomSheet'
 export { CandleFlame } from './CandleFlame'
 export { Card } from './Card'
 export { ConfirmHost, confirm } from './ConfirmSheet'
