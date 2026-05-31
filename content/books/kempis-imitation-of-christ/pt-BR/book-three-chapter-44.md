@@ -1,0 +1,5 @@
+# Que se não devem tomar a peito as coisas exteriores
+
+Jesus: Filho, convém fazeres-te ignorante em muitas coisas, e reputares-te como que morto sobre a terra, para que todo o mundo te esteja crucificado. Importa também que te faças surdo a muitas coisas, cuidando antes do que serve à tua paz. Mais útil é desviares os olhos do que não te agrada e deixares a cada um seu parecer, do que entrares em discussões. Se estiveres bem com Deus e considerares seus juízos, não te será custoso dares-te por vencido.
+
+A alma: Ah! Senhor, a que chegamos? Eis que choramos uma perda temporal, trabalhamos e corremos para ganhar mesquinho lucro, mas do dano espiritual nos esquecemos e mal nos lembramos, ou tarde. Olha-se muito pelo que pouco ou nada vale, e não se faz caso do que é sumamente necessário, porque o homem inteiramente se entrega às coisas exteriores, e, se prontamente não se recolher, nela descansa com prazer.

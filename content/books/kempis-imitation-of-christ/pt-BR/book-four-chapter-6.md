@@ -1,0 +1,7 @@
+# Pergunta concernente ao exercício antes da comunhão
+
+**Voz do discípulo**
+
+Senhor, quando considero vossa dignidade e minha baixeza, tremo de medo e me envergonho diante de mim mesmo. Porque, se me não chego a vós, fujo da vida, e se me apresento indignamente, incorro em vossa indignação. Que farei, pois, Deus meu, meu auxílio e conselheiro em meu apuros?
+
+Ensinai-me vós o caminho direto, mostrai-me algum breve exercício. Porque me é útil saber de que modo devo, com devoção e respeito, preparar o meu coração para receber com fruto vosso Sacramento ou celebrar tão grande e divino sacrifício.
