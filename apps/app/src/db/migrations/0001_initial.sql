@@ -151,3 +151,43 @@ CREATE TABLE IF NOT EXISTS custody_sessions (
   ended_reason    TEXT CHECK (ended_reason IN ('completed', 'aborted', 'app-killed'))
 );
 CREATE INDEX IF NOT EXISTS custody_sessions_recent ON custody_sessions(started_at DESC);
+
+-- saved_items: the user's library shelf. A lightweight, instant "keep this"
+-- (ref + timestamp), decoupled from offline availability (pinned-items, which
+-- prefetches blobs). `kind` is denormalized from the catalog entry so shelves
+-- group by kind without a lookup, and so a synthetic 'usercollection' kind can
+-- sit on the shelf without any catalog entry. Saving is free and instant;
+-- making something offline is a separate, optional act (see pinningManager).
+CREATE TABLE IF NOT EXISTS saved_items (
+  item_id  TEXT PRIMARY KEY,
+  kind     TEXT NOT NULL,
+  saved_at INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS saved_items_by_kind ON saved_items (kind, saved_at DESC);
+
+-- user_collections: collections the user authors. They render through the same
+-- viewer as corpus collections (CollectionHero + SectionList) — only the storage
+-- and authoring are local. The ref form on the Saved shelf is usercollection/<id>.
+CREATE TABLE IF NOT EXISTS user_collections (
+  id          TEXT PRIMARY KEY,
+  name        TEXT NOT NULL,
+  description TEXT,
+  cover_tone  INTEGER NOT NULL DEFAULT 0,
+  created_at  INTEGER NOT NULL,
+  updated_at  INTEGER NOT NULL
+);
+
+-- user_collection_items: ordered membership. section_id groups items into the
+-- sections of the assembled CollectionItemManifest; position orders within a
+-- section. v1 uses a single 'default' section, but the shape supports more.
+CREATE TABLE IF NOT EXISTS user_collection_items (
+  collection_id TEXT NOT NULL REFERENCES user_collections(id) ON DELETE CASCADE,
+  ref           TEXT NOT NULL,
+  section_id    TEXT NOT NULL DEFAULT 'default',
+  label         TEXT,
+  position      INTEGER NOT NULL,
+  added_at      INTEGER NOT NULL,
+  PRIMARY KEY (collection_id, ref, section_id)
+);
+CREATE INDEX IF NOT EXISTS user_collection_items_order
+  ON user_collection_items (collection_id, section_id, position);

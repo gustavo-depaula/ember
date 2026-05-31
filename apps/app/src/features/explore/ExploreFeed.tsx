@@ -16,7 +16,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { ArtCarousel } from './ArtCarousel'
 import { ArtCoverCard } from './ArtCoverCard'
 import { artFor } from './artMap'
-import { toneByIndex, toneForCelebration, toneForSeason } from './bgColor'
+import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
 import { FromRome } from './FromRome'
@@ -105,7 +105,7 @@ export function ExploreFeed() {
       label: t('bible.discovery.gospelOfTheDay'),
       title: gospel.citation ?? t('bible.discovery.gospelOfTheDay'),
       subtitle: preview,
-      tone: toneByIndex(6),
+      tone: toneForKey('gospel-of-the-day'),
       onPress: () =>
         router.push({
           pathname: '/pray/[practiceId]',
@@ -135,7 +135,7 @@ export function ExploreFeed() {
       title: localizeContent(wdColl.name ?? {}),
       subtitle: t(`explore.devotionTheme.${wd.themeKey}`),
       image: artFor(wd.collectionId),
-      tone: toneByIndex(today.getDay()),
+      tone: toneForKey(wd.collectionId),
       onPress: () => goCollection(wd.collectionId),
     })
   }
@@ -164,7 +164,7 @@ export function ExploreFeed() {
       title: localizeContent(bookEntry.name ?? bookEntry.title ?? {}),
       subtitle: bookEntry.author ? localizeContent(bookEntry.author) : undefined,
       image: artFor(bookId),
-      tone: toneByIndex(weekIndex),
+      tone: toneForKey(bookId),
       onPress: () => goBook(bookId),
     })
   }
@@ -175,13 +175,13 @@ export function ExploreFeed() {
 
       {books.length > 0 && (
         <ArtCarousel title={t('explore.theLibrary')}>
-          {books.slice(0, 18).map(([id, entry], i) => (
+          {books.slice(0, 18).map(([id, entry]) => (
             <ArtCoverCard
               key={id}
               title={localizeContent(entry.name ?? entry.title ?? {})}
               subtitle={entry.author ? localizeContent(entry.author) : undefined}
               image={artFor(id)}
-              tone={toneByIndex(i)}
+              tone={toneForKey(id)}
               size={118}
               aspectRatio={1.5}
               radius={4}
@@ -201,12 +201,12 @@ export function ExploreFeed() {
 
       {devotions.length > 0 && (
         <ArtCarousel title={t('explore.devotions')}>
-          {devotions.map(([id, entry], i) => (
+          {devotions.map(([id, entry]) => (
             <ArtCoverCard
               key={id}
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
-              tone={toneByIndex(i + 2)}
+              tone={toneForKey(id)}
               href={collectionHref(id)}
               onPress={() => warmCollection(id)}
             />
@@ -216,12 +216,12 @@ export function ExploreFeed() {
 
       {traditions.length > 0 && (
         <ArtCarousel title={t('explore.traditions')}>
-          {traditions.map(([id, entry], i) => (
+          {traditions.map(([id, entry]) => (
             <ArtCoverCard
               key={id}
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
-              tone={toneByIndex(i + 5)}
+              tone={toneForKey(id)}
               href={collectionHref(id)}
               onPress={() => warmCollection(id)}
             />

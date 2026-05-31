@@ -6,7 +6,7 @@ import { routeFor } from '@/features/creators/components/feedItemRoute'
 import { useInProgressMedia } from '@/features/creators/hooks'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
-import { toneByIndex } from '@/features/explore/bgColor'
+import { toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 import { useBibleStore } from '@/stores/bibleStore'
 
@@ -36,12 +36,12 @@ export function ContinueRow() {
         <ArtCoverCard
           title={`${bookName} ${chapter}`}
           subtitle={t('bible.discovery.continueReading')}
-          tone={toneByIndex(0)}
+          tone={toneForKey(`bible/${bookId}`)}
           size={140}
           onPress={() => router.push('/bible/reader')}
         />
       )}
-      {mediaItems.map((item, i) => {
+      {mediaItems.map((item) => {
         const creator = getEntry(item.creatorId)
         return (
           <ArtCoverCard
@@ -49,7 +49,7 @@ export function ContinueRow() {
             title={item.title}
             subtitle={creator ? localizeContent(creator.name ?? {}) : undefined}
             image={item.imageUrl ? { uri: item.imageUrl } : undefined}
-            tone={toneByIndex(i + 1)}
+            tone={toneForKey(item.itemId)}
             size={140}
             onPress={() => router.push(routeFor(item))}
           />

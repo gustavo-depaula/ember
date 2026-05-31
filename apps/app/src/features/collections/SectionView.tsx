@@ -97,6 +97,9 @@ export function SectionView({
 }
 
 function SectionMarker({ title, depth }: { title: string; depth: number }) {
+  // An untitled section (e.g. a user collection's single default section) reads
+  // as a flat jewel grid — no fleuron heading.
+  if (!title) return null
   if (depth > 0) {
     return (
       <Typography variant="label" fontSize="$2" paddingTop="$sm">

@@ -25,6 +25,7 @@ import type {
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
 import { pinnedFeedItemHashes } from '@/db/repositories/feedItems'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
+import { saveItem } from '@/db/repositories/savedItems'
 
 const PINNED_KEY = 'pinned-items'
 
@@ -165,6 +166,18 @@ export async function pinItem(
   if (!pinned.some((p) => p.id === id)) {
     pinned = [...pinned, { id, pinnedAt: Date.now() }]
     await persist()
+  }
+
+  // Offline implies in-library: an item you keep for offline is always saved.
+  // (The reverse does not hold — saving never pins.) Best-effort — a failure to
+  // mirror into the Saved shelf must not fail the pin itself.
+  const entry = getEntry(id)
+  if (entry) {
+    try {
+      await saveItem(id, entry.kind)
+    } catch (err) {
+      console.warn('[pinning] could not mirror pin into saved items:', err)
+    }
   }
 }
 

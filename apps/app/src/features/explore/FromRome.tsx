@@ -23,7 +23,7 @@ import { YouTubePlayer } from '@/features/creators/video/YouTubePlayer'
 import { hearthUrl } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { ArtCoverCard } from './ArtCoverCard'
-import { type BlockTone, blockInk, toneByIndex } from './bgColor'
+import { type BlockTone, blockInk, toneForKey } from './bgColor'
 import { CardRow } from './CardRow'
 import { VaticanNews } from './VaticanNews'
 import {
@@ -255,11 +255,11 @@ export function FromRome() {
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.news')}</SubHeader>
           <CardRow>
-            {(featured ? [featured, ...data.news] : data.news).slice(0, 10).map((it, i) => (
+            {(featured ? [featured, ...data.news] : data.news).slice(0, 10).map((it) => (
               <NewsTile
                 key={it.url}
                 item={it}
-                tone={toneByIndex(i)}
+                tone={toneForKey(it.url)}
                 image={newsImages?.[it.url]}
                 onPress={() => openArticle(it.url)}
               />
@@ -281,11 +281,11 @@ export function FromRome() {
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.holySee')}</SubHeader>
           <CardRow stretch>
-            {data.holySee.slice(0, 10).map((it, i) => (
+            {data.holySee.slice(0, 10).map((it) => (
               <HolySeeCard
                 key={it.url}
                 item={it}
-                tone={toneByIndex(i + 2)}
+                tone={toneForKey(it.url)}
                 onPress={() => openArticle(it.url)}
               />
             ))}
@@ -297,12 +297,12 @@ export function FromRome() {
         <YStack gap="$sm">
           <SubHeader>{t('explore.rome.media')}</SubHeader>
           <CardRow>
-            {data.outlets.map((o, i) => (
+            {data.outlets.map((o) => (
               <ArtCoverCard
                 key={o.url}
                 title={o.label}
                 image={outletImage(o.label)}
-                tone={toneByIndex(i + 1)}
+                tone={toneForKey(o.url)}
                 onPress={() => openArticle(o.url)}
               />
             ))}

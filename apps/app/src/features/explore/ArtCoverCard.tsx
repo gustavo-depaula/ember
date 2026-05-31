@@ -1,5 +1,6 @@
 import { Image, type ImageSource } from 'expo-image'
 import type { Href } from 'expo-router'
+import type { ReactNode } from 'react'
 import { StyleSheet } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
@@ -28,6 +29,7 @@ export function ArtCoverCard({
   aspectRatio = 1,
   radius = 14,
   rank,
+  glyph,
 }: {
   title: string
   subtitle?: string
@@ -40,6 +42,8 @@ export function ArtCoverCard({
   aspectRatio?: number
   radius?: number
   rank?: number
+  /** Centered cover mark shown instead of the title's versal initial (no image). */
+  glyph?: ReactNode
 }) {
   const initial = Array.from(title.trim())[0]?.toUpperCase() ?? '✠'
   const height = Math.round(size * aspectRatio)
@@ -72,6 +76,8 @@ export function ArtCoverCard({
               cachePolicy="memory-disk"
               accessibilityLabel={title}
             />
+          ) : glyph ? (
+            glyph
           ) : (
             <Text
               fontFamily="$heading"
