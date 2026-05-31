@@ -56,6 +56,7 @@ function PrologueProse({ text }: { text: string }) {
         <Typography
           // biome-ignore lint/suspicious/noArrayIndexKey: positional paragraphs
           key={i}
+          selectable
           variant="interface"
           fontSize={18}
           lineHeight={27}

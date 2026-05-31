@@ -98,7 +98,7 @@ export function RenderedCaptureResolutionBlock({
                 {t('resolutions.capture.recorded')}
               </Text>
             </XStack>
-            <Text fontFamily="$body" fontSize="$3" color="$color">
+            <Text selectable fontFamily="$body" fontSize="$3" color="$color">
               {savedText}
             </Text>
             <AnimatedPressable

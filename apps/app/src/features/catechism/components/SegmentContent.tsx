@@ -17,7 +17,7 @@ function InBriefContent({
   return (
     <YStack gap="$xs">
       {paragraphs.map((p) => (
-        <Text key={p.number} color="$color" {...readingStyle}>
+        <Text key={p.number} selectable color="$color" {...readingStyle}>
           <Text
             fontSize={Math.round(readingStyle.fontSize * 0.5)}
             color="$accent"
@@ -86,7 +86,7 @@ export function SegmentContent({
         <InBriefContent paragraphs={paragraphs} readingStyle={readingStyle} />
       ) : (
         paragraphs.map((p) => (
-          <Text key={p.number} color="$color" {...readingStyle}>
+          <Text key={p.number} selectable color="$color" {...readingStyle}>
             <Text
               fontSize={Math.round(readingStyle.fontSize * 0.5)}
               color="$accent"

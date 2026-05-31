@@ -92,6 +92,7 @@ function BlockView({
       // adds the engraved-on-stone feel.
       return (
         <Text
+          selectable
           fontFamily="$heading"
           fontWeight="700"
           fontSize="$4"
@@ -111,6 +112,7 @@ function BlockView({
       // weight. Same Roman caps face so the two read as a pair.
       return (
         <Text
+          selectable
           fontFamily="$heading"
           fontSize="$3"
           color="$colorBurgundy"
@@ -125,7 +127,13 @@ function BlockView({
       // CCC paragraph number marker — appears just before the source's intro
       // quote for a chapter. Small + muted so it doesn't distract.
       return (
-        <Text fontFamily="$heading" fontSize="$1" color="$colorSecondary" letterSpacing={1}>
+        <Text
+          selectable
+          fontFamily="$heading"
+          fontSize="$1"
+          color="$colorSecondary"
+          letterSpacing={1}
+        >
           {block.text}
         </Text>
       )

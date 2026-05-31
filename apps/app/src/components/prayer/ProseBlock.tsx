@@ -105,7 +105,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
                 gap="$sm"
               >
                 {paragraphs.map((para, pi) => (
-                  <Text key={pi} {...reading} fontStyle="italic" color="$colorSecondary">
+                  <Text key={pi} selectable {...reading} fontStyle="italic" color="$colorSecondary">
                     <InlineText nodes={para} baseFamily={baseFamily} />
                   </Text>
                 ))}
@@ -116,7 +116,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             return (
               <YStack key={i} gap="$xs" paddingLeft="$md">
                 {node.items.map((item, j) => (
-                  <Text key={j} {...reading} color="$color">
+                  <Text key={j} selectable {...reading} color="$color">
                     {node.ordered ? `${j + 1}. ` : '• '}
                     <InlineText nodes={item} baseFamily={baseFamily} />
                   </Text>
@@ -127,7 +127,7 @@ export function ProseBlock({ text }: { text: BilingualText }) {
             return <ImageBlock key={i} src={node.src} />
           default:
             return (
-              <Text key={i} {...reading} color="$color">
+              <Text key={i} selectable {...reading} color="$color">
                 <InlineText nodes={node.children} baseFamily={baseFamily} />
               </Text>
             )

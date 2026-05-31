@@ -48,7 +48,7 @@ export function ChapterContent({
       ) : undefined}
 
       {verses.map((v) => (
-        <Text key={v.verse} color="$color" {...readingStyle}>
+        <Text key={v.verse} selectable color="$color" {...readingStyle}>
           <Typography variant="verse-number" fontSize={Math.round(readingStyle.fontSize * 0.55)}>
             {v.verse}
           </Typography>

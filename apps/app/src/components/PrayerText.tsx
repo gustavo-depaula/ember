@@ -9,7 +9,7 @@ import { ResponseMark } from './prayer/ResponseMark'
 
 export function PrayerText(props: ComponentProps<typeof Text>) {
   const style = useReadingStyle()
-  return <Text userSelect="text" color="$color" {...style} {...props} />
+  return <Text selectable userSelect="text" color="$color" {...style} {...props} />
 }
 
 export function PrayerLines({

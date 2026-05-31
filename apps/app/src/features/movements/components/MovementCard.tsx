@@ -47,6 +47,7 @@ export function MovementCard({
         opacity={closed ? 0.7 : 1}
       >
         <Text
+          selectable
           fontFamily="$body"
           fontSize="$3"
           color="$color"

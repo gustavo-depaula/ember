@@ -57,7 +57,14 @@ export function PrayDwell({
         <Text fontFamily="$heading" fontSize="$4" color="$color" textAlign="center">
           {t(`custody.prayer.${prayerKey}.title`)}
         </Text>
-        <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center" lineHeight={28}>
+        <Text
+          selectable
+          fontFamily="$body"
+          fontSize="$3"
+          color="$color"
+          textAlign="center"
+          lineHeight={28}
+        >
           {t(`custody.prayer.${prayerKey}.text`)}
         </Text>
       </YStack>

@@ -31,7 +31,7 @@ export function AnchorPreview({ anchor }: { anchor: Anchor | null }) {
   }
   if (anchor.kind === 'prayer') {
     return (
-      <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
+      <Text selectable fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
         {anchor.rendered}
       </Text>
     )
@@ -39,7 +39,7 @@ export function AnchorPreview({ anchor }: { anchor: Anchor | null }) {
   if (anchor.kind === 'lectio') {
     return (
       <YStack gap="$xs" alignItems="center">
-        <Text fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
+        <Text selectable fontFamily="$body" fontSize="$3" color="$color" textAlign="center">
           {anchor.rendered}
         </Text>
         <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">

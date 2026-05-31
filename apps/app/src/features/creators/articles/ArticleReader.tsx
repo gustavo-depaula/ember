@@ -43,7 +43,7 @@ export function ArticleReader({ item, channel }: { item: FeedItemRow; channel: C
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
           {date}
         </Text>
-        <Text fontFamily="$body" fontSize="$2" color="$color" lineHeight={24}>
+        <Text selectable fontFamily="$body" fontSize="$2" color="$color" lineHeight={24}>
           {summary || t('creators.noSummary')}
         </Text>
         {item.webUrl && (

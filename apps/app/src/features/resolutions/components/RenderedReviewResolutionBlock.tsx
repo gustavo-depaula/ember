@@ -81,7 +81,7 @@ export function RenderedReviewResolutionBlock({
               {prompt}
             </Text>
           ) : undefined}
-          <Text fontFamily="$body" fontSize="$3" color="$color">
+          <Text selectable fontFamily="$body" fontSize="$3" color="$color">
             {resolution.text}
           </Text>
         </YStack>
