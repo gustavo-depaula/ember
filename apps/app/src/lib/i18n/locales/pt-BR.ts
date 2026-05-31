@@ -932,6 +932,7 @@ export default {
 
   readingConfig: {
     reading: 'Leitura',
+    language: 'Idioma',
     size: 'Tamanho',
     spacing: 'Espa\u00e7amento',
     align: 'Alinhar',

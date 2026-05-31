@@ -184,6 +184,18 @@ day carousel (`DateScrubber`), where it's subtle. Every other former `$script` u
 rehomed (counts → `variant="interface"`, whispers → `variant="whisper"`, blessings →
 `variant="sacred-title"`).
 
+### Drift to clean up (deferred audit)
+A typography survey (2026-05-30) flagged the following for a future consolidation pass.
+None block today's work; logged here so the cleanup isn't rediscovered from scratch:
+- **6 fonts loaded at boot but never wired into tokens** (`apps/app/src/app/_layout.tsx`):
+  Crimson Pro, Lora, Cormorant Garamond, Libre Baskerville, Source Serif 4, Merriweather.
+  Remove, or document why they're kept (A/B candidates?).
+- **`$script` (Pinyon)** is down to the single `DateScrubber` use — either formalize that
+  or retire the token.
+- **Raw `fontFamily=` instead of a `Typography` variant** in a few blocks: `VersesBlock`,
+  `ProducerHtmlBlock`, `LiturgicalColorBlock`, `ChoiceRichTextBlock`. Fold into variants
+  (possibly new micro-variants) to keep the "always reach for a variant" discipline.
+
 ---
 
 ## Illuminated Manuscript Ornament

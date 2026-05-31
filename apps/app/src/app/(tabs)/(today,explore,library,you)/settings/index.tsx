@@ -1,4 +1,3 @@
-import type { ContentLanguage } from '@ember/content-engine'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
@@ -8,7 +7,14 @@ import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, Switch } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
-import { confirm, PageHeader, ScreenLayout, SectionDivider } from '@/components'
+import {
+  confirm,
+  LanguageSettings,
+  PageHeader,
+  PillSelector,
+  ScreenLayout,
+  SectionDivider,
+} from '@/components'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
@@ -16,7 +22,6 @@ import { CreatorsStorageSection } from '@/features/creators/settings/CreatorsSto
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
-import { supportedLanguages } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const themeOptions = [
@@ -25,63 +30,9 @@ const themeOptions = [
   { value: 'system' as const, labelKey: 'settings.themeSystem' },
 ]
 
-function PillSelector<T extends string>({
-  label,
-  options,
-  value,
-  onChange,
-}: {
-  label: string
-  options: Array<{ value: T; label: string }>
-  value: T
-  onChange: (value: T) => void
-}) {
-  return (
-    <YStack gap="$xs">
-      <Text fontFamily="$body" fontSize="$2" color="$color">
-        {label}
-      </Text>
-      <XStack gap="$sm">
-        {options.map((opt) => {
-          const selected = value === opt.value
-          return (
-            <Pressable
-              key={opt.value}
-              onPress={() => onChange(opt.value)}
-              accessibilityRole="radio"
-              accessibilityLabel={opt.label}
-              accessibilityState={{ selected }}
-            >
-              <YStack
-                backgroundColor={selected ? '$accent' : '$backgroundSurface'}
-                borderRadius="$lg"
-                paddingVertical="$sm"
-                paddingHorizontal="$md"
-                alignItems="center"
-              >
-                <Text fontFamily="$body" fontSize="$2" color={selected ? '$background' : '$color'}>
-                  {opt.label}
-                </Text>
-              </YStack>
-            </Pressable>
-          )
-        })}
-      </XStack>
-    </YStack>
-  )
-}
-
 export default function SettingsScreen() {
   const { t } = useTranslation()
   const translation = usePreferencesStore((s) => s.translation)
-  const language = usePreferencesStore((s) => s.language)
-  const setLanguage = usePreferencesStore((s) => s.setLanguage)
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
-  const setContentLanguage = usePreferencesStore((s) => s.setContentLanguage)
-  const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
-  const setSecondaryLanguage = usePreferencesStore((s) => s.setSecondaryLanguage)
-  const displayMode = usePreferencesStore((s) => s.displayMode)
-  const setDisplayMode = usePreferencesStore((s) => s.setDisplayMode)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
@@ -92,22 +43,6 @@ export default function SettingsScreen() {
   const [translationModalVisible, setTranslationModalVisible] = useState(false)
   const themePreference = usePreferencesStore((s) => s.theme)
   const setTheme = usePreferencesStore((s) => s.setTheme)
-
-  const contentLanguageOptions = [
-    { value: 'en-US' as const, label: t('languages.en-US') },
-    { value: 'pt-BR' as const, label: t('languages.pt-BR') },
-    { value: 'la' as const, label: t('languages.la') },
-  ]
-
-  const secondaryOptions = [
-    { value: '' as const, label: t('settings.none') },
-    ...contentLanguageOptions.filter((o) => o.value !== contentLanguage),
-  ]
-
-  const displayModeOptions = [
-    { value: 'side-by-side' as const, label: t('settings.sideBySide') },
-    { value: 'tap-to-switch' as const, label: t('settings.tapToSwitch') },
-  ]
 
   return (
     <ScreenLayout>
@@ -166,35 +101,7 @@ export default function SettingsScreen() {
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('settings.languagesSection')}
           </Text>
-          <PillSelector
-            label={t('settings.language')}
-            options={supportedLanguages.map((l) => ({ value: l.code, label: l.label }))}
-            value={language}
-            onChange={setLanguage}
-          />
-
-          <PillSelector
-            label={t('settings.contentLanguage')}
-            options={contentLanguageOptions}
-            value={contentLanguage}
-            onChange={setContentLanguage}
-          />
-
-          <PillSelector
-            label={t('settings.secondaryLanguage')}
-            options={secondaryOptions}
-            value={secondaryLanguage ?? ''}
-            onChange={(v) => setSecondaryLanguage((v || undefined) as ContentLanguage | undefined)}
-          />
-
-          {secondaryLanguage && (
-            <PillSelector
-              label={t('settings.displayMode')}
-              options={displayModeOptions}
-              value={displayMode}
-              onChange={setDisplayMode}
-            />
-          )}
+          <LanguageSettings />
         </YStack>
 
         <SectionDivider />

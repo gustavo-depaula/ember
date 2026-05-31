@@ -923,6 +923,7 @@ export default {
 
   readingConfig: {
     reading: 'Reading',
+    language: 'Language',
     size: 'Size',
     spacing: 'Spacing',
     align: 'Align',

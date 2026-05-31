@@ -2,9 +2,12 @@
 
 import type { UseQueryResult } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
+import { Type } from 'lucide-react-native'
+import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { Text, useTheme, View, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   ManuscriptFrame,
@@ -16,8 +19,10 @@ import {
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
+import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
 import { useToday } from '@/hooks/useToday'
+import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { usePractice } from './hooks/usePractice'
@@ -97,36 +102,34 @@ function PracticeReady({
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   const { t } = useTranslation()
+  const theme = useTheme()
+  const insets = useSafeAreaInsets()
   const now = useToday()
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
+  const [settingsOpen, setSettingsOpen] = useState(false)
 
   return (
     <ImageViewerProvider>
-      <ScreenLayout>
-        <YStack gap="$lg" paddingVertical="$lg">
-          <ManuscriptFrame>
-            <YStack
-              alignItems="center"
-              gap="$xs"
-              paddingVertical="$md"
-              paddingHorizontal={readingMargin}
-            >
-              {manifest.theme !== 'office' && (
+      <YStack flex={1}>
+        <ScreenLayout>
+          <YStack gap="$lg" paddingVertical="$lg">
+            <ManuscriptFrame>
+              <YStack alignItems="center" gap="$xs" paddingVertical="$md">
                 <Typography variant="ceremonial" fontSize="$5">
                   ✠
                 </Typography>
-              )}
-              <Typography variant="sacred-title" fontSize="$5" color="$colorBurgundy">
-                {practiceName}
-              </Typography>
-              <Typography tone="muted" fontSize="$2" letterSpacing={1}>
-                {formattedDate}
-              </Typography>
-            </YStack>
+                <Typography variant="screen-title" fontSize="$5">
+                  {practiceName}
+                </Typography>
+                <Typography variant="label" tone="muted" fontSize="$2" letterSpacing={1}>
+                  {formattedDate}
+                </Typography>
+              </YStack>
+            </ManuscriptFrame>
 
-            <YStack gap="$md">
+            <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
               {sections.map((primitive, index) => (
                 <PrimitiveBlock
                   key={`${primitive.type}-${index}`}
@@ -163,18 +166,42 @@ function PracticeReady({
             )}
 
             <YStack paddingBottom="$lg" />
-          </ManuscriptFrame>
-        </YStack>
+          </YStack>
 
-        {completion.showCompleteModal && manifest.program && (
-          <ProgramCompleteModal
-            practiceName={practiceName}
-            showRestart={manifest.program.completionBehavior === 'offer-restart'}
-            onRestart={completion.onRestart}
-            onDone={completion.dismissCompleteModal}
-          />
-        )}
-      </ScreenLayout>
+          {completion.showCompleteModal && manifest.program && (
+            <ProgramCompleteModal
+              practiceName={practiceName}
+              showRestart={manifest.program.completionBehavior === 'offer-restart'}
+              onRestart={completion.onRestart}
+              onDone={completion.dismissCompleteModal}
+            />
+          )}
+        </ScreenLayout>
+
+        {/* Reading & language settings — pinned outside the scroll so it stays put. */}
+        <AnimatedPressable
+          onPress={() => {
+            lightTap()
+            setSettingsOpen(true)
+          }}
+          accessibilityRole="button"
+          accessibilityLabel={t('readingConfig.reading')}
+          style={{ position: 'absolute', top: insets.top + 4, right: 12, zIndex: 10 }}
+        >
+          <View
+            width={36}
+            height={36}
+            borderRadius={18}
+            alignItems="center"
+            justifyContent="center"
+            backgroundColor="$backgroundSurface"
+          >
+            <Type size={18} color={theme.accent.val} />
+          </View>
+        </AnimatedPressable>
+
+        <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+      </YStack>
     </ImageViewerProvider>
   )
 }
