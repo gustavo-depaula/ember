@@ -8,6 +8,7 @@ import { getCached } from '@/db/repositories/cache'
 import { batchedLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
+import { fuzzyMatches, normalizeForSearch } from '@/lib/search'
 import {
   canonicalize,
   ensureManifestBody,
@@ -210,11 +211,11 @@ export function getManifestCategories(): string[] {
 }
 
 export function searchManifests(query: string): PracticeManifest[] {
-  const q = query.toLowerCase()
+  const q = normalizeForSearch(query)
   return getAllManifests().filter((m) => {
-    if (localizeContent(m.name).toLowerCase().includes(q)) return true
-    if (m.tags?.some((t) => t.toLowerCase().includes(q))) return true
-    if (m.description && localizeContent(m.description).toLowerCase().includes(q)) return true
+    if (fuzzyMatches(localizeContent(m.name), q)) return true
+    if (m.tags?.some((t) => normalizeForSearch(t).includes(q))) return true
+    if (m.description && fuzzyMatches(localizeContent(m.description), q)) return true
     return false
   })
 }

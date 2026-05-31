@@ -69,3 +69,22 @@ export const paletteTones: BlockTone[] = [burgundy, marian, green, gold, violet,
 export function toneByIndex(i: number): BlockTone {
   return paletteTones[i % paletteTones.length]
 }
+
+/**
+ * A stable jewel-tone index per catalog id — the frontispiece ground when no art
+ * is mapped. The same id always lands on the same tone, so a collection or
+ * practice keeps its color as the catalog warms in.
+ */
+export function toneIndexForId(id: string): number {
+  let h = 0
+  for (let i = 0; i < id.length; i++) h = (h + id.charCodeAt(i)) | 0
+  return Math.abs(h)
+}
+
+/**
+ * A stable jewel tone keyed on a string (a card's name or id), so a card keeps
+ * the same color wherever it sits — never tied to its position in a list.
+ */
+export function toneForKey(key: string): BlockTone {
+  return toneByIndex(toneIndexForId(key))
+}

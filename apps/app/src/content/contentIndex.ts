@@ -6,6 +6,7 @@
  * merged map for every read.
  */
 
+import { normalizeForSearch } from '@/lib/search'
 import type {
   Catalog,
   CatalogEntry,
@@ -182,12 +183,12 @@ export function canonicalize(id: string, hintKind?: CatalogItemKind): string | u
 function localizedMatches(text: unknown, q: string): boolean {
   if (!text || typeof text !== 'object') return false
   return Object.values(text as Record<string, unknown>).some(
-    (v) => typeof v === 'string' && v.toLowerCase().includes(q),
+    (v) => typeof v === 'string' && normalizeForSearch(v).includes(q),
   )
 }
 
 export function search(query: string, kindFilter?: CatalogItemKind): CatalogEntry[] {
-  const q = query.toLowerCase()
+  const q = normalizeForSearch(query)
   const results: CatalogEntry[] = []
   for (const [, entry] of getAllEntries()) {
     if (kindFilter && entry.kind !== kindFilter) continue
@@ -195,7 +196,7 @@ export function search(query: string, kindFilter?: CatalogItemKind): CatalogEntr
       localizedMatches(entry.name, q) ||
       localizedMatches(entry.title, q) ||
       localizedMatches(entry.description, q) ||
-      entry.tags?.some((t) => t.toLowerCase().includes(q))
+      entry.tags?.some((t) => normalizeForSearch(t).includes(q))
     ) {
       results.push(entry)
     }
