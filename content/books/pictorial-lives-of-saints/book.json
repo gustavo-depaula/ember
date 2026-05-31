@@ -1,0 +1,2665 @@
+{
+  "id": "pictorial-lives-of-saints",
+  "name": {
+    "en-US": "Pictorial Lives of the Saints"
+  },
+  "author": {
+    "en-US": "John Gilmary Shea (ed.)"
+  },
+  "description": {
+    "en-US": "John Gilmary Shea's illustrated lives of the saints (Benziger Brothers, 1878–1887), arranged for every day of the year and compiled from Butler's Lives and other approved sources. This edition adds meditations on the movable feasts, the lives of the American saints, and the saints canonized in 1881 by Pope Leo XIII, paired with the original wood-engravings. Each entry closes with a brief Reflection."
+  },
+  "composed": "1878–1887",
+  "languages": [
+    "en-US"
+  ],
+  "image": "cover-frontispiece.webp",
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://sacred-texts.com/chr/lots/index.htm",
+      "description": "Internet Sacred Text Archive — Benziger Bros. ed.; text transcription."
+    },
+    {
+      "language": "en-US",
+      "url": "https://archive.org/details/pictoriallives00unknuoft",
+      "description": "Internet Archive scan of the illustrated 1878/1887 edition — source of the wood-engravings."
+    }
+  ],
+  "toc": [
+    {
+      "id": "movable-feasts",
+      "title": {
+        "en-US": "The Movable Feasts"
+      },
+      "children": [
+        {
+          "id": "advent",
+          "title": {
+            "en-US": "Advent"
+          }
+        },
+        {
+          "id": "quinquagesima-forty-hours",
+          "title": {
+            "en-US": "Quinquagesima Sunday — The Forty Hours' Devotion"
+          }
+        },
+        {
+          "id": "ash-wednesday",
+          "title": {
+            "en-US": "Ash Wednesday"
+          }
+        },
+        {
+          "id": "the-five-wounds",
+          "title": {
+            "en-US": "The Five Wounds of Our Lord"
+          }
+        },
+        {
+          "id": "the-most-precious-blood",
+          "title": {
+            "en-US": "The Most Precious Blood of Our Lord Jesus Christ"
+          }
+        },
+        {
+          "id": "seven-dolors",
+          "title": {
+            "en-US": "The Seven Dolors of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "the-crown-of-thorns",
+          "title": {
+            "en-US": "The Most Holy Crown of Thorns of Our Lord Jesus Christ"
+          }
+        },
+        {
+          "id": "palm-sunday",
+          "title": {
+            "en-US": "Palm Sunday"
+          }
+        },
+        {
+          "id": "maundy-thursday",
+          "title": {
+            "en-US": "Maundy Thursday"
+          }
+        },
+        {
+          "id": "good-friday",
+          "title": {
+            "en-US": "Good Friday"
+          }
+        },
+        {
+          "id": "holy-saturday",
+          "title": {
+            "en-US": "Holy Saturday"
+          }
+        },
+        {
+          "id": "easter-sunday",
+          "title": {
+            "en-US": "Easter Sunday"
+          }
+        },
+        {
+          "id": "the-ascension",
+          "title": {
+            "en-US": "The Ascension"
+          }
+        },
+        {
+          "id": "whit-sunday-pentecost",
+          "title": {
+            "en-US": "Whit-Sunday (Pentecost)"
+          }
+        },
+        {
+          "id": "trinity-sunday",
+          "title": {
+            "en-US": "Trinity Sunday"
+          }
+        },
+        {
+          "id": "corpus-christi",
+          "title": {
+            "en-US": "Corpus Christi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jan",
+      "title": {
+        "en-US": "January"
+      },
+      "children": [
+        {
+          "id": "jan-01-the-circumcision-of-our-lord",
+          "title": {
+            "en-US": "1. The Circumcision of our Lord"
+          }
+        },
+        {
+          "id": "jan-02-fulgentius",
+          "title": {
+            "en-US": "2. St. Fulgentius, Bishop"
+          }
+        },
+        {
+          "id": "jan-02-macarius-of-alexandria",
+          "title": {
+            "en-US": "2. St. Macarius of Alexandria"
+          }
+        },
+        {
+          "id": "jan-03-genevieve",
+          "title": {
+            "en-US": "3. St. Genevieve, Virgin"
+          }
+        },
+        {
+          "id": "jan-04-titus",
+          "title": {
+            "en-US": "4. St. Titus, Bishop"
+          }
+        },
+        {
+          "id": "jan-04-gregory",
+          "title": {
+            "en-US": "4. St. Gregory, Bishop"
+          }
+        },
+        {
+          "id": "jan-05-simeon-stylites",
+          "title": {
+            "en-US": "5. St. Simeon Stylites"
+          }
+        },
+        {
+          "id": "jan-06-the-epiphany-of-our-lord",
+          "title": {
+            "en-US": "6. The Epiphany of Our Lord"
+          }
+        },
+        {
+          "id": "jan-07-lucian",
+          "title": {
+            "en-US": "7. St. Lucian, Martyr"
+          }
+        },
+        {
+          "id": "jan-08-apollinaris-the-apologist",
+          "title": {
+            "en-US": "8. St. Apollinaris, the Apologist, Bishop"
+          }
+        },
+        {
+          "id": "jan-09-ss-julian-and-basilissa",
+          "title": {
+            "en-US": "9. Ss. Julian and Basilissa, Martyrs"
+          }
+        },
+        {
+          "id": "jan-10-william",
+          "title": {
+            "en-US": "10. St. William, Archbishop"
+          }
+        },
+        {
+          "id": "jan-11-theodosius-the-cenobiarch",
+          "title": {
+            "en-US": "11. St. Theodosius, The Cenobiarch"
+          }
+        },
+        {
+          "id": "jan-12-aelred",
+          "title": {
+            "en-US": "12. St. Aelred, Abbot"
+          }
+        },
+        {
+          "id": "jan-13-veronica-of-milan",
+          "title": {
+            "en-US": "13. St. Veronica of Milan"
+          }
+        },
+        {
+          "id": "jan-14-hilary-of-poitiers",
+          "title": {
+            "en-US": "14. St. Hilary of Poitiers"
+          }
+        },
+        {
+          "id": "jan-15-paul-the-first",
+          "title": {
+            "en-US": "15. St. Paul, the First Hermit"
+          }
+        },
+        {
+          "id": "jan-16-honoratus",
+          "title": {
+            "en-US": "16. St. Honoratus, Archbishop"
+          }
+        },
+        {
+          "id": "jan-17-antony",
+          "title": {
+            "en-US": "17. St. Antony, Patriarch of Monks"
+          }
+        },
+        {
+          "id": "jan-18-peters-chair-at-rome",
+          "title": {
+            "en-US": "18. St. Peter's Chair at Rome"
+          }
+        },
+        {
+          "id": "jan-19-canutus",
+          "title": {
+            "en-US": "19. St. Canutus, King, Martyr"
+          }
+        },
+        {
+          "id": "jan-20-sebastian",
+          "title": {
+            "en-US": "20. St. Sebastian, Martyr"
+          }
+        },
+        {
+          "id": "jan-21-agnes",
+          "title": {
+            "en-US": "21. St. Agnes, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "jan-22-vincent",
+          "title": {
+            "en-US": "22. St. Vincent, Martyr"
+          }
+        },
+        {
+          "id": "jan-23-raymund-of-pennafort",
+          "title": {
+            "en-US": "23. St. Raymund of Pennafort"
+          }
+        },
+        {
+          "id": "jan-24-timothy",
+          "title": {
+            "en-US": "24. St. Timothy, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "jan-25-the-conversion-of-st-paul",
+          "title": {
+            "en-US": "25. The Conversion of St. Paul"
+          }
+        },
+        {
+          "id": "jan-26-polycarp",
+          "title": {
+            "en-US": "26. St. Polycarp, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "jan-27-john-chrysostom",
+          "title": {
+            "en-US": "27. St. John Chrysostom"
+          }
+        },
+        {
+          "id": "jan-28-cyril-of-alexandria",
+          "title": {
+            "en-US": "28. St. Cyril of Alexandria"
+          }
+        },
+        {
+          "id": "jan-29-francis-of-sales",
+          "title": {
+            "en-US": "29. St. Francis of Sales"
+          }
+        },
+        {
+          "id": "jan-30-bathildes",
+          "title": {
+            "en-US": "30. St. Bathildes, Queen"
+          }
+        },
+        {
+          "id": "jan-31-marcella",
+          "title": {
+            "en-US": "31. St. Marcella, Widow"
+          }
+        }
+      ]
+    },
+    {
+      "id": "feb",
+      "title": {
+        "en-US": "February"
+      },
+      "children": [
+        {
+          "id": "feb-01-bridgid",
+          "title": {
+            "en-US": "1. St. Bridgid, Abbess, and Patroness of Ireland"
+          }
+        },
+        {
+          "id": "feb-01-ignatius",
+          "title": {
+            "en-US": "1. St. Ignatius, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "feb-02-the-purification-commonly-called-candlemas-day",
+          "title": {
+            "en-US": "2. The Purification, Commonly Called Candlemas-Day"
+          }
+        },
+        {
+          "id": "feb-03-blase",
+          "title": {
+            "en-US": "3. St. Blase, Bishop and Martyr"
+          }
+        },
+        {
+          "id": "feb-04-jane-of-valois",
+          "title": {
+            "en-US": "4. St. Jane of Valois"
+          }
+        },
+        {
+          "id": "feb-05-agatha",
+          "title": {
+            "en-US": "5. St. Agatha, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "feb-05-the-martyrs-of-japan",
+          "title": {
+            "en-US": "5. The Martyrs of Japan"
+          }
+        },
+        {
+          "id": "feb-06-dorothy",
+          "title": {
+            "en-US": "6. St. Dorothy, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "feb-07-romuald",
+          "title": {
+            "en-US": "7. St. Romuald, Abbot"
+          }
+        },
+        {
+          "id": "feb-08-john-of-matha",
+          "title": {
+            "en-US": "8. St. John of Matha"
+          }
+        },
+        {
+          "id": "feb-09-apollonia-and-the",
+          "title": {
+            "en-US": "9. St. Apollonia and the Martyrs of Alexandria"
+          }
+        },
+        {
+          "id": "feb-10-scholastica",
+          "title": {
+            "en-US": "10. St. Scholastica, Abbess"
+          }
+        },
+        {
+          "id": "feb-11-severinus",
+          "title": {
+            "en-US": "11. St. Severinus, Abbot of Agaunum"
+          }
+        },
+        {
+          "id": "feb-12-benedict-of-anian",
+          "title": {
+            "en-US": "12. St. Benedict of Anian"
+          }
+        },
+        {
+          "id": "feb-13-catherine-of-ricci",
+          "title": {
+            "en-US": "13. St. Catherine of Ricci"
+          }
+        },
+        {
+          "id": "feb-14-valentine",
+          "title": {
+            "en-US": "14. St. Valentine, Priest and Martyr"
+          }
+        },
+        {
+          "id": "feb-15-sts-faustinus-and-jovita",
+          "title": {
+            "en-US": "15. Sts. Faustinus and Jovita, Martyrs"
+          }
+        },
+        {
+          "id": "feb-16-blessed-john-de-britto",
+          "title": {
+            "en-US": "16. Blessed John de Britto, Martyr"
+          }
+        },
+        {
+          "id": "feb-16-onesimus-disciple-of-st-paul",
+          "title": {
+            "en-US": "16. St. Onesimus, Disciple of St. Paul"
+          }
+        },
+        {
+          "id": "feb-17-flavian",
+          "title": {
+            "en-US": "17. St. Flavian, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "feb-18-simeon",
+          "title": {
+            "en-US": "18. St. Simeon, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "feb-19-barbatus",
+          "title": {
+            "en-US": "19. St. Barbatus, Bishop"
+          }
+        },
+        {
+          "id": "feb-20-eucherius",
+          "title": {
+            "en-US": "20. St. Eucherius, Bishop"
+          }
+        },
+        {
+          "id": "feb-21-severianus",
+          "title": {
+            "en-US": "21. St. Severianus, Martyr, Bishop"
+          }
+        },
+        {
+          "id": "feb-22-peters-chair-at-antioch",
+          "title": {
+            "en-US": "22. St. Peter's Chair at Antioch"
+          }
+        },
+        {
+          "id": "feb-23-peter-damian",
+          "title": {
+            "en-US": "23. St. Peter Damian"
+          }
+        },
+        {
+          "id": "feb-23-serenus-a-gardener",
+          "title": {
+            "en-US": "23. St. Serenus, a Gardener, Martyr"
+          }
+        },
+        {
+          "id": "feb-24-matthias",
+          "title": {
+            "en-US": "24. St. Matthias, Apostle"
+          }
+        },
+        {
+          "id": "feb-25-tarasius",
+          "title": {
+            "en-US": "25. St. Tarasius"
+          }
+        },
+        {
+          "id": "feb-26-porphyry",
+          "title": {
+            "en-US": "26. St. Porphyry, Bishop"
+          }
+        },
+        {
+          "id": "feb-27-leander",
+          "title": {
+            "en-US": "27. St. Leander, Bishop"
+          }
+        },
+        {
+          "id": "feb-28-sts-romanus-and-lupicinus",
+          "title": {
+            "en-US": "28. Sts. Romanus and Lupicinus, Abbots"
+          }
+        },
+        {
+          "id": "feb-29-oswald",
+          "title": {
+            "en-US": "29. St. Oswald, Bishop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mar",
+      "title": {
+        "en-US": "March"
+      },
+      "children": [
+        {
+          "id": "mar-01-david",
+          "title": {
+            "en-US": "1. St. David, Bishop"
+          }
+        },
+        {
+          "id": "mar-01-albinus",
+          "title": {
+            "en-US": "1. St. Albinus, Bishop"
+          }
+        },
+        {
+          "id": "mar-02-simplicius",
+          "title": {
+            "en-US": "2. St. Simplicius, Pope"
+          }
+        },
+        {
+          "id": "mar-03-cunegundes",
+          "title": {
+            "en-US": "3. St. Cunegundes, Empress"
+          }
+        },
+        {
+          "id": "mar-04-casimir",
+          "title": {
+            "en-US": "4. St. Casimir, King"
+          }
+        },
+        {
+          "id": "mar-05-sts-adrian-and-eubulus",
+          "title": {
+            "en-US": "5. Sts. Adrian and Eubulus, Martyrs"
+          }
+        },
+        {
+          "id": "mar-06-colette",
+          "title": {
+            "en-US": "6. St. Colette, Virgin"
+          }
+        },
+        {
+          "id": "mar-07-thomas-aquinas",
+          "title": {
+            "en-US": "7. St. Thomas Aquinas"
+          }
+        },
+        {
+          "id": "mar-08-john-of-god",
+          "title": {
+            "en-US": "8. St. John of God"
+          }
+        },
+        {
+          "id": "mar-09-frances-of-rome",
+          "title": {
+            "en-US": "9. St. Frances of Rome"
+          }
+        },
+        {
+          "id": "mar-10-the-forty",
+          "title": {
+            "en-US": "10. The Forty Martyrs of Sebaste"
+          }
+        },
+        {
+          "id": "mar-11-eulogius",
+          "title": {
+            "en-US": "11. St. Eulogius, Martyr"
+          }
+        },
+        {
+          "id": "mar-12-gregory-the-great",
+          "title": {
+            "en-US": "12. St. Gregory the Great"
+          }
+        },
+        {
+          "id": "mar-13-euphrasia",
+          "title": {
+            "en-US": "13. St. Euphrasia, Virgin"
+          }
+        },
+        {
+          "id": "mar-14-maud",
+          "title": {
+            "en-US": "14. St. Maud. Queen"
+          }
+        },
+        {
+          "id": "mar-15-zachary",
+          "title": {
+            "en-US": "15. St. Zachary, Pope"
+          }
+        },
+        {
+          "id": "mar-16-sts-abraham-and-mary",
+          "title": {
+            "en-US": "16. Sts. Abraham and Mary"
+          }
+        },
+        {
+          "id": "mar-17-patrick",
+          "title": {
+            "en-US": "17. St. Patrick, Bishop, Apostle of Ireland"
+          }
+        },
+        {
+          "id": "mar-18-cyril-of-jerusalem",
+          "title": {
+            "en-US": "18. St. Cyril of Jerusalem"
+          }
+        },
+        {
+          "id": "mar-19-joseph-spouse-of-the-blessed",
+          "title": {
+            "en-US": "19. St. Joseph, Spouse of the Blessed Virgin and Patron of the Universal Church"
+          }
+        },
+        {
+          "id": "mar-20-wulfran",
+          "title": {
+            "en-US": "20. St. Wulfran, Archbishop"
+          }
+        },
+        {
+          "id": "mar-21-benedict",
+          "title": {
+            "en-US": "21. St. Benedict, Abbot"
+          }
+        },
+        {
+          "id": "mar-22-catharine-of-sweden",
+          "title": {
+            "en-US": "22. St. Catharine of Sweden, Virgin"
+          }
+        },
+        {
+          "id": "mar-23-sts-victorian-and-others",
+          "title": {
+            "en-US": "23. Sts. Victorian and Others, Martyrs"
+          }
+        },
+        {
+          "id": "mar-24-simon-infant",
+          "title": {
+            "en-US": "24. St. Simon, Infant Martyr"
+          }
+        },
+        {
+          "id": "mar-25-the-annunciation-of-the-blessed",
+          "title": {
+            "en-US": "25. The Annunciation of the Blessed Virgin Mary"
+          }
+        },
+        {
+          "id": "mar-26-ludger",
+          "title": {
+            "en-US": "26. St. Ludger, Bishop"
+          }
+        },
+        {
+          "id": "mar-27-john-of-egypt",
+          "title": {
+            "en-US": "27. St. John of Egypt"
+          }
+        },
+        {
+          "id": "mar-28-gontran",
+          "title": {
+            "en-US": "28. St. Gontran, King"
+          }
+        },
+        {
+          "id": "mar-29-sts-jonas-barachisius-and-their-companions",
+          "title": {
+            "en-US": "29. Sts. Jonas, Barachisius, and their Companions, Martyrs"
+          }
+        },
+        {
+          "id": "mar-30-john-climacus",
+          "title": {
+            "en-US": "30. St. John Climacus"
+          }
+        },
+        {
+          "id": "mar-31-benjamin",
+          "title": {
+            "en-US": "31. St. Benjamin, Deacon, Martyr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "apr",
+      "title": {
+        "en-US": "April"
+      },
+      "children": [
+        {
+          "id": "apr-01-hugh",
+          "title": {
+            "en-US": "1. St. Hugh, Bishop"
+          }
+        },
+        {
+          "id": "apr-02-francis-of-paula",
+          "title": {
+            "en-US": "2. St. Francis of Paula"
+          }
+        },
+        {
+          "id": "apr-03-richard-of-chichester",
+          "title": {
+            "en-US": "3. St. Richard of Chichester"
+          }
+        },
+        {
+          "id": "apr-04-isidore",
+          "title": {
+            "en-US": "4. St. Isidore, Archbishop"
+          }
+        },
+        {
+          "id": "apr-05-vincent-ferrer",
+          "title": {
+            "en-US": "5. St. Vincent Ferrer"
+          }
+        },
+        {
+          "id": "apr-06-celestine",
+          "title": {
+            "en-US": "6. St. Celestine, Pope"
+          }
+        },
+        {
+          "id": "apr-07-hegesippus-a-primitive-father",
+          "title": {
+            "en-US": "7. St. Hegesippus, a Primitive Father"
+          }
+        },
+        {
+          "id": "apr-07-blessed-herman-joseph-of-steinfeld",
+          "title": {
+            "en-US": "7. Blessed Herman Joseph of Steinfeld"
+          }
+        },
+        {
+          "id": "apr-08-perpetuus",
+          "title": {
+            "en-US": "8. St. Perpetuus, Bishop"
+          }
+        },
+        {
+          "id": "apr-09-mary-of-egypt",
+          "title": {
+            "en-US": "9. St. Mary of Egypt"
+          }
+        },
+        {
+          "id": "apr-09-john-the-almoner",
+          "title": {
+            "en-US": "9. St. John the Almoner"
+          }
+        },
+        {
+          "id": "apr-10-bademus",
+          "title": {
+            "en-US": "10. St. Bademus, Martyr"
+          }
+        },
+        {
+          "id": "apr-11-leo-the-great",
+          "title": {
+            "en-US": "11. St. Leo the Great"
+          }
+        },
+        {
+          "id": "apr-12-julius",
+          "title": {
+            "en-US": "12. St. Julius, Pope"
+          }
+        },
+        {
+          "id": "apr-13-hermenegild",
+          "title": {
+            "en-US": "13. St. Hermenegild, Martyr"
+          }
+        },
+        {
+          "id": "apr-14-benezet-or-little-bennet",
+          "title": {
+            "en-US": "14. St. Benezet, or Little Bennet"
+          }
+        },
+        {
+          "id": "apr-15-paternus",
+          "title": {
+            "en-US": "15. St. Paternus, Bishop"
+          }
+        },
+        {
+          "id": "apr-16-eighteen",
+          "title": {
+            "en-US": "16. Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "apr-17-anicetus",
+          "title": {
+            "en-US": "17. St. Anicetus, Pope, Martyr"
+          }
+        },
+        {
+          "id": "apr-18-apollonius",
+          "title": {
+            "en-US": "18. St. Apollonius, Martyr"
+          }
+        },
+        {
+          "id": "apr-19-elphege",
+          "title": {
+            "en-US": "19. St. Elphege, Archbishop"
+          }
+        },
+        {
+          "id": "apr-20-marcellinus",
+          "title": {
+            "en-US": "20. St. Marcellinus, Bishop"
+          }
+        },
+        {
+          "id": "apr-21-anselm",
+          "title": {
+            "en-US": "21. St. Anselm, Archbishop"
+          }
+        },
+        {
+          "id": "apr-22-soter",
+          "title": {
+            "en-US": "22. St. Soter, Pope, Martyr"
+          }
+        },
+        {
+          "id": "apr-22-leonides",
+          "title": {
+            "en-US": "22. St. Leonides, Martyr"
+          }
+        },
+        {
+          "id": "apr-23-george",
+          "title": {
+            "en-US": "23. St. George, Martyr"
+          }
+        },
+        {
+          "id": "apr-24-fidelis-of-sigmaringen",
+          "title": {
+            "en-US": "24. St. Fidelis of Sigmaringen"
+          }
+        },
+        {
+          "id": "apr-25-mark",
+          "title": {
+            "en-US": "25. St. Mark, Evangelist"
+          }
+        },
+        {
+          "id": "apr-26-sts-cletus-and-marcellinus",
+          "title": {
+            "en-US": "26. Sts. Cletus and Marcellinus, Popes, Martyrs"
+          }
+        },
+        {
+          "id": "apr-27-zita",
+          "title": {
+            "en-US": "27. St. Zita, Virgin"
+          }
+        },
+        {
+          "id": "apr-28-paul-of-the-cross",
+          "title": {
+            "en-US": "28. St. Paul of the Cross"
+          }
+        },
+        {
+          "id": "apr-28-vitalis",
+          "title": {
+            "en-US": "28. St. Vitalis, Martyr"
+          }
+        },
+        {
+          "id": "apr-29-peter",
+          "title": {
+            "en-US": "29. St. Peter, Martyr"
+          }
+        },
+        {
+          "id": "apr-29-hugh",
+          "title": {
+            "en-US": "29. St. Hugh, Abbot of Cluny"
+          }
+        },
+        {
+          "id": "apr-30-catherine-of-siena",
+          "title": {
+            "en-US": "30. St. Catherine of Siena"
+          }
+        }
+      ]
+    },
+    {
+      "id": "may",
+      "title": {
+        "en-US": "May"
+      },
+      "children": [
+        {
+          "id": "may-01-sts-philip-and-james",
+          "title": {
+            "en-US": "1. Sts. Philip and James, Apostles"
+          }
+        },
+        {
+          "id": "may-02-athanasius",
+          "title": {
+            "en-US": "2. St. Athanasius, Bishop"
+          }
+        },
+        {
+          "id": "may-03-the-discovery-of-the-holy-cross",
+          "title": {
+            "en-US": "3. The Discovery of the Holy Cross"
+          }
+        },
+        {
+          "id": "may-04-monica",
+          "title": {
+            "en-US": "4. St. Monica"
+          }
+        },
+        {
+          "id": "may-05-pius-v",
+          "title": {
+            "en-US": "5. St. Pius V"
+          }
+        },
+        {
+          "id": "may-06-john-before-the-latin-gate",
+          "title": {
+            "en-US": "6. St. John Before the Latin Gate"
+          }
+        },
+        {
+          "id": "may-07-stanislas",
+          "title": {
+            "en-US": "7. St. Stanislas, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "may-08-the-apparition-of-st-michael-the-archangel",
+          "title": {
+            "en-US": "8. The Apparition of St. Michael the Archangel"
+          }
+        },
+        {
+          "id": "may-09-gregory-nazianzen",
+          "title": {
+            "en-US": "9. St. Gregory Nazianzen"
+          }
+        },
+        {
+          "id": "may-10-antoninus",
+          "title": {
+            "en-US": "10. St. Antoninus, Bishop"
+          }
+        },
+        {
+          "id": "may-11-mammertus",
+          "title": {
+            "en-US": "11. St. Mammertus, Archbishop"
+          }
+        },
+        {
+          "id": "may-12-epiphanius",
+          "title": {
+            "en-US": "12. St. Epiphanius, Archbishop"
+          }
+        },
+        {
+          "id": "may-13-john-the-silent",
+          "title": {
+            "en-US": "13. St. John the Silent"
+          }
+        },
+        {
+          "id": "may-14-pachomius",
+          "title": {
+            "en-US": "14. St. Pachomius, Abbot"
+          }
+        },
+        {
+          "id": "may-15-sts-peter-and-dionysia",
+          "title": {
+            "en-US": "15. Sts. Peter and Dionysia"
+          }
+        },
+        {
+          "id": "may-16-john-nepomucen",
+          "title": {
+            "en-US": "16. St. John Nepomucen"
+          }
+        },
+        {
+          "id": "may-17-paschal-baylon",
+          "title": {
+            "en-US": "17. St. Paschal Baylon"
+          }
+        },
+        {
+          "id": "may-18-venantius",
+          "title": {
+            "en-US": "18. St. Venantius, Martyr"
+          }
+        },
+        {
+          "id": "may-19-peter-celestine",
+          "title": {
+            "en-US": "19. St. Peter Celestine"
+          }
+        },
+        {
+          "id": "may-20-bernardine-of-siena",
+          "title": {
+            "en-US": "20. St. Bernardine of Siena"
+          }
+        },
+        {
+          "id": "may-21-hospitius-recluse",
+          "title": {
+            "en-US": "21. St. Hospitius, Recluse"
+          }
+        },
+        {
+          "id": "may-22-yvo",
+          "title": {
+            "en-US": "22. St. Yvo, Confessor"
+          }
+        },
+        {
+          "id": "may-23-julia",
+          "title": {
+            "en-US": "23. St. Julia, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "may-24-sts-donatian-and-rogatian",
+          "title": {
+            "en-US": "24. Sts. Donatian and Rogatian, Martyrs"
+          }
+        },
+        {
+          "id": "may-25-gregory-vii",
+          "title": {
+            "en-US": "25. St. Gregory VII"
+          }
+        },
+        {
+          "id": "may-26-philip-neri",
+          "title": {
+            "en-US": "26. St. Philip Neri"
+          }
+        },
+        {
+          "id": "may-26-augustine",
+          "title": {
+            "en-US": "26. St. Augustine, Apostle of England"
+          }
+        },
+        {
+          "id": "may-27-mary-magdalen-of-pazzi",
+          "title": {
+            "en-US": "27. St. Mary Magdalen of Pazzi"
+          }
+        },
+        {
+          "id": "may-27-venerable-bede",
+          "title": {
+            "en-US": "27. Venerable Bede"
+          }
+        },
+        {
+          "id": "may-28-germanus",
+          "title": {
+            "en-US": "28. St. Germanus, Bishop"
+          }
+        },
+        {
+          "id": "may-29-cyril",
+          "title": {
+            "en-US": "29. St. Cyril, Martyr"
+          }
+        },
+        {
+          "id": "may-30-felix-i",
+          "title": {
+            "en-US": "30. St. Felix I., Pope and Martyr"
+          }
+        },
+        {
+          "id": "may-31-petronilla",
+          "title": {
+            "en-US": "31. St. Petronilla, Virgin"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jun",
+      "title": {
+        "en-US": "June"
+      },
+      "children": [
+        {
+          "id": "jun-01-justin",
+          "title": {
+            "en-US": "1. St. Justin, Martyr"
+          }
+        },
+        {
+          "id": "jun-01-pamphilus",
+          "title": {
+            "en-US": "1. St. Pamphilus, Martyr"
+          }
+        },
+        {
+          "id": "jun-02-sts-pothinus",
+          "title": {
+            "en-US": "2. Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons"
+          }
+        },
+        {
+          "id": "jun-03-clotilda",
+          "title": {
+            "en-US": "3. St. Clotilda, Queen"
+          }
+        },
+        {
+          "id": "jun-04-francis-caracciolo",
+          "title": {
+            "en-US": "4. St. Francis Caracciolo"
+          }
+        },
+        {
+          "id": "jun-05-boniface",
+          "title": {
+            "en-US": "5. St. Boniface, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "jun-06-norbert",
+          "title": {
+            "en-US": "6. St. Norbert, Bishop"
+          }
+        },
+        {
+          "id": "jun-07-robert-of-newminster",
+          "title": {
+            "en-US": "7. St. Robert of Newminster"
+          }
+        },
+        {
+          "id": "jun-07-claude",
+          "title": {
+            "en-US": "7. St. Claude, Archbishop"
+          }
+        },
+        {
+          "id": "jun-08-medard",
+          "title": {
+            "en-US": "8. St. Medard, Bishop"
+          }
+        },
+        {
+          "id": "jun-09-sts-primus-and-felicianus",
+          "title": {
+            "en-US": "9. Sts. Primus and Felicianus, Martyrs"
+          }
+        },
+        {
+          "id": "jun-09-columba-or-columkille",
+          "title": {
+            "en-US": "9. St. Columba, or Columkille, Abbot"
+          }
+        },
+        {
+          "id": "jun-10-margaret-of-scotland",
+          "title": {
+            "en-US": "10. St. Margaret of Scotland"
+          }
+        },
+        {
+          "id": "jun-11-barnabas",
+          "title": {
+            "en-US": "11. St. Barnabas, Apostle"
+          }
+        },
+        {
+          "id": "jun-12-john-of-st-fagondez",
+          "title": {
+            "en-US": "12. St. John of St. Fagondez"
+          }
+        },
+        {
+          "id": "jun-13-antony-of-padua",
+          "title": {
+            "en-US": "13. St. Antony of Padua"
+          }
+        },
+        {
+          "id": "jun-14-basil-the-great",
+          "title": {
+            "en-US": "14. St. Basil the Great"
+          }
+        },
+        {
+          "id": "jun-15-sts-vitus-crescentia-and-modestus",
+          "title": {
+            "en-US": "15. Sts. Vitus, Crescentia, and Modestus, Martyrs"
+          }
+        },
+        {
+          "id": "jun-16-john-francis-regis",
+          "title": {
+            "en-US": "16. St. John Francis Regis"
+          }
+        },
+        {
+          "id": "jun-17-avitus",
+          "title": {
+            "en-US": "17. St. Avitus, Abbot"
+          }
+        },
+        {
+          "id": "jun-18-sts-marcus-and-marcellianus",
+          "title": {
+            "en-US": "18. Sts. Marcus and Marcellianus, Martyrs"
+          }
+        },
+        {
+          "id": "jun-19-juliana-falconieri",
+          "title": {
+            "en-US": "19. St. Juliana Falconieri"
+          }
+        },
+        {
+          "id": "jun-20-silverius",
+          "title": {
+            "en-US": "20. St. Silverius, Pope and Martyr"
+          }
+        },
+        {
+          "id": "jun-21-aloysius-gonzaga",
+          "title": {
+            "en-US": "21. St. Aloysius Gonzaga"
+          }
+        },
+        {
+          "id": "jun-22-paulinus-of-nola",
+          "title": {
+            "en-US": "22. St. Paulinus of Nola"
+          }
+        },
+        {
+          "id": "jun-23-etheldreda",
+          "title": {
+            "en-US": "23. St. Etheldreda, Abbess"
+          }
+        },
+        {
+          "id": "jun-24-john-the-baptist",
+          "title": {
+            "en-US": "24. St. John the Baptist"
+          }
+        },
+        {
+          "id": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+          "title": {
+            "en-US": "25. St. Prosper of Aquitaine. St William of Monte-Vergine"
+          }
+        },
+        {
+          "id": "jun-26-sts-john-and-paul",
+          "title": {
+            "en-US": "26. Sts. John and Paul, Martyrs"
+          }
+        },
+        {
+          "id": "jun-27-ladislas",
+          "title": {
+            "en-US": "27. St. Ladislas, King"
+          }
+        },
+        {
+          "id": "jun-28-iren-us",
+          "title": {
+            "en-US": "28. St. Irenæus, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "jun-29-peter",
+          "title": {
+            "en-US": "29. St. Peter, Apostle"
+          }
+        },
+        {
+          "id": "jun-30-paul",
+          "title": {
+            "en-US": "30. St. Paul"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jul",
+      "title": {
+        "en-US": "July"
+      },
+      "children": [
+        {
+          "id": "jul-01-gal",
+          "title": {
+            "en-US": "1. St. Gal, Bishop"
+          }
+        },
+        {
+          "id": "jul-02-the-visitation-of-the-blessed",
+          "title": {
+            "en-US": "2. The Visitation of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "jul-03-heliodorus",
+          "title": {
+            "en-US": "3. St. Heliodorus, Bishop"
+          }
+        },
+        {
+          "id": "jul-04-bertha",
+          "title": {
+            "en-US": "4. St. Bertha, Widow, Abbess"
+          }
+        },
+        {
+          "id": "jul-05-peter-of-luxemburg",
+          "title": {
+            "en-US": "5. St. Peter of Luxemburg"
+          }
+        },
+        {
+          "id": "jul-06-goar",
+          "title": {
+            "en-US": "6. St. Goar, Priest"
+          }
+        },
+        {
+          "id": "jul-06-palladius",
+          "title": {
+            "en-US": "6. St. Palladius, Bishop, Apostle of the Scots"
+          }
+        },
+        {
+          "id": "jul-07-pant-nus-father-of-the-church",
+          "title": {
+            "en-US": "7. St. Pantænus, Father of the Church"
+          }
+        },
+        {
+          "id": "jul-08-elizabeth-of-portugal",
+          "title": {
+            "en-US": "8. St. Elizabeth of Portugal"
+          }
+        },
+        {
+          "id": "jul-09-ephrem",
+          "title": {
+            "en-US": "9. St. Ephrem, Deacon"
+          }
+        },
+        {
+          "id": "jul-10-the-seven-brothers",
+          "title": {
+            "en-US": "10. The Seven Brothers, Martyrs, and St. Felicitas, their Mother"
+          }
+        },
+        {
+          "id": "jul-11-james",
+          "title": {
+            "en-US": "11. St. James, Bishop"
+          }
+        },
+        {
+          "id": "jul-12-john-gualbert",
+          "title": {
+            "en-US": "12. St. John Gualbert"
+          }
+        },
+        {
+          "id": "jul-13-eugenius",
+          "title": {
+            "en-US": "13. St. Eugenius, Bishop"
+          }
+        },
+        {
+          "id": "jul-14-bonaventure",
+          "title": {
+            "en-US": "14. St. Bonaventure"
+          }
+        },
+        {
+          "id": "jul-15-henry-emperor",
+          "title": {
+            "en-US": "15. St. Henry, Emperor"
+          }
+        },
+        {
+          "id": "jul-16-simon-stock",
+          "title": {
+            "en-US": "16. St. Simon Stock"
+          }
+        },
+        {
+          "id": "jul-17-alexius",
+          "title": {
+            "en-US": "17. St. Alexius"
+          }
+        },
+        {
+          "id": "jul-18-camillus-of-lellis",
+          "title": {
+            "en-US": "18. St. Camillus Of Lellis"
+          }
+        },
+        {
+          "id": "jul-19-vincent-of-paul",
+          "title": {
+            "en-US": "19. St. Vincent of Paul"
+          }
+        },
+        {
+          "id": "jul-20-margaret",
+          "title": {
+            "en-US": "20. St. Margaret, Virgin and Martyr"
+          }
+        },
+        {
+          "id": "jul-20-jerome-emiliani",
+          "title": {
+            "en-US": "20. St. Jerome Emiliani"
+          }
+        },
+        {
+          "id": "jul-21-victor",
+          "title": {
+            "en-US": "21. St. Victor, Martyr"
+          }
+        },
+        {
+          "id": "jul-22-mary-magdalen",
+          "title": {
+            "en-US": "22. St. Mary Magdalen"
+          }
+        },
+        {
+          "id": "jul-23-apollinaris",
+          "title": {
+            "en-US": "23. St. Apollinaris, Bishop and Martyr"
+          }
+        },
+        {
+          "id": "jul-24-christina",
+          "title": {
+            "en-US": "24. St. Christina, Virgin and Martyr"
+          }
+        },
+        {
+          "id": "jul-25-james",
+          "title": {
+            "en-US": "25. St. James, Apostle"
+          }
+        },
+        {
+          "id": "jul-26-anne",
+          "title": {
+            "en-US": "26. St. Anne"
+          }
+        },
+        {
+          "id": "jul-27-pantaleon",
+          "title": {
+            "en-US": "27. St. Pantaleon, Martyr"
+          }
+        },
+        {
+          "id": "jul-28-sts-nazarius-and-celsus",
+          "title": {
+            "en-US": "28. Sts. Nazarius and Celsus, Martyrs"
+          }
+        },
+        {
+          "id": "jul-29-martha",
+          "title": {
+            "en-US": "29. St. Martha, Virgin"
+          }
+        },
+        {
+          "id": "jul-30-germanus",
+          "title": {
+            "en-US": "30. St. Germanus, Bishop"
+          }
+        },
+        {
+          "id": "jul-31-ignatius-of-loyola",
+          "title": {
+            "en-US": "31. St. Ignatius of Loyola"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aug",
+      "title": {
+        "en-US": "August"
+      },
+      "children": [
+        {
+          "id": "aug-01-peters-chains",
+          "title": {
+            "en-US": "1. St. Peter's Chains"
+          }
+        },
+        {
+          "id": "aug-02-stephen",
+          "title": {
+            "en-US": "2. St. Stephen, Pope and Martyr"
+          }
+        },
+        {
+          "id": "aug-02-alphonsus-liguori",
+          "title": {
+            "en-US": "2. St. Alphonsus Liguori"
+          }
+        },
+        {
+          "id": "aug-03-the-finding-of-st-stephens-relics",
+          "title": {
+            "en-US": "3. The Finding of St. Stephen's Relics"
+          }
+        },
+        {
+          "id": "aug-04-dominic",
+          "title": {
+            "en-US": "4. St. Dominic"
+          }
+        },
+        {
+          "id": "aug-05-the-dedication-of-st-mary-ad-nives",
+          "title": {
+            "en-US": "5. The Dedication of St. Mary ad Nives"
+          }
+        },
+        {
+          "id": "aug-06-the-transfiguration-of-our-lord",
+          "title": {
+            "en-US": "6. The Transfiguration of Our Lord"
+          }
+        },
+        {
+          "id": "aug-07-cajetan",
+          "title": {
+            "en-US": "7. St. Cajetan"
+          }
+        },
+        {
+          "id": "aug-08-cyriacus-and-his-companions",
+          "title": {
+            "en-US": "8. St. Cyriacus and His Companions, Martyrs"
+          }
+        },
+        {
+          "id": "aug-08-blessed-peter-favre",
+          "title": {
+            "en-US": "8. Blessed Peter Favre"
+          }
+        },
+        {
+          "id": "aug-09-romanus",
+          "title": {
+            "en-US": "9. St. Romanus, Martyr"
+          }
+        },
+        {
+          "id": "aug-10-laurence",
+          "title": {
+            "en-US": "10. St. Laurence, Martyr"
+          }
+        },
+        {
+          "id": "aug-11-sts-tiburtius-and-susanna",
+          "title": {
+            "en-US": "11. Sts. Tiburtius and Susanna, Martyrs"
+          }
+        },
+        {
+          "id": "aug-12-clare",
+          "title": {
+            "en-US": "12. St. Clare, Abbess"
+          }
+        },
+        {
+          "id": "aug-13-radegundes",
+          "title": {
+            "en-US": "13. St. Radegundes, Queen"
+          }
+        },
+        {
+          "id": "aug-14-eusebius",
+          "title": {
+            "en-US": "14. St. Eusebius, Priest"
+          }
+        },
+        {
+          "id": "aug-15-the-assumption-of-the-blessed",
+          "title": {
+            "en-US": "15. The Assumption of the Blessed Virgin Mary"
+          }
+        },
+        {
+          "id": "aug-16-hyacinth",
+          "title": {
+            "en-US": "16. St. Hyacinth"
+          }
+        },
+        {
+          "id": "aug-17-liberatus",
+          "title": {
+            "en-US": "17. St. Liberatus, Abbot, and Six Monks, Martyrs"
+          }
+        },
+        {
+          "id": "aug-18-helena",
+          "title": {
+            "en-US": "18. St. Helena, Empress; St. Agapetus, Martyr"
+          }
+        },
+        {
+          "id": "aug-19-louis",
+          "title": {
+            "en-US": "19. St. Louis, Bishop"
+          }
+        },
+        {
+          "id": "aug-20-bernard",
+          "title": {
+            "en-US": "20. St. Bernard"
+          }
+        },
+        {
+          "id": "aug-21-jane-frances-de-chantal",
+          "title": {
+            "en-US": "21. St. Jane Frances de Chantal"
+          }
+        },
+        {
+          "id": "aug-22-symphorian",
+          "title": {
+            "en-US": "22. St. Symphorian, Martyr"
+          }
+        },
+        {
+          "id": "aug-23-philip-benizi",
+          "title": {
+            "en-US": "23. St. Philip Benizi"
+          }
+        },
+        {
+          "id": "aug-24-bartholomew",
+          "title": {
+            "en-US": "24. St. Bartholomew, Apostle"
+          }
+        },
+        {
+          "id": "aug-25-louis",
+          "title": {
+            "en-US": "25. St. Louis, King"
+          }
+        },
+        {
+          "id": "aug-26-zephyrinus",
+          "title": {
+            "en-US": "26. St. Zephyrinus, Pope and Martyr"
+          }
+        },
+        {
+          "id": "aug-27-joseph-calasanctius",
+          "title": {
+            "en-US": "27. St. Joseph Calasanctius"
+          }
+        },
+        {
+          "id": "aug-28-augustine-of-hippo",
+          "title": {
+            "en-US": "28. St. Augustine of Hippo"
+          }
+        },
+        {
+          "id": "aug-29-the-beheading-of-st-john-the-baptist",
+          "title": {
+            "en-US": "29. The Beheading of St. John the Baptist"
+          }
+        },
+        {
+          "id": "aug-30-rose-of-lima",
+          "title": {
+            "en-US": "30. St. Rose of Lima"
+          }
+        },
+        {
+          "id": "aug-30-fiaker-anchorite",
+          "title": {
+            "en-US": "30. St. Fiaker, Anchorite"
+          }
+        },
+        {
+          "id": "aug-31-raymund-nonnatus",
+          "title": {
+            "en-US": "31. St. Raymund Nonnatus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sep",
+      "title": {
+        "en-US": "September"
+      },
+      "children": [
+        {
+          "id": "sep-01-giles",
+          "title": {
+            "en-US": "1. St. Giles, Abbot"
+          }
+        },
+        {
+          "id": "sep-02-stephen",
+          "title": {
+            "en-US": "2. St. Stephen, King"
+          }
+        },
+        {
+          "id": "sep-03-seraphia",
+          "title": {
+            "en-US": "3. St. Seraphia, Virgin and Martyr"
+          }
+        },
+        {
+          "id": "sep-04-rosalia",
+          "title": {
+            "en-US": "4. St. Rosalia, Virgin"
+          }
+        },
+        {
+          "id": "sep-05-laurence-justinian",
+          "title": {
+            "en-US": "5. St. Laurence Justinian"
+          }
+        },
+        {
+          "id": "sep-06-eleutherius",
+          "title": {
+            "en-US": "6. St. Eleutherius, Abbot"
+          }
+        },
+        {
+          "id": "sep-07-cloud",
+          "title": {
+            "en-US": "7. St. Cloud, Confessor"
+          }
+        },
+        {
+          "id": "sep-08-the-nativity-of-the-blessed",
+          "title": {
+            "en-US": "8. The Nativity of the Blessed Virgin"
+          }
+        },
+        {
+          "id": "sep-08-the-festival-on-the-sunday-within-the-octave-of-her-nativity-of-the-holy-name-of-mary",
+          "title": {
+            "en-US": "8. The Festival, on the Sunday Within the Octave of Her Nativity, of The Holy Name of Mary"
+          }
+        },
+        {
+          "id": "sep-09-omer",
+          "title": {
+            "en-US": "9. St. Omer, Bishop"
+          }
+        },
+        {
+          "id": "sep-09-saint-peter-claver",
+          "title": {
+            "en-US": "9. Saint Peter Claver"
+          }
+        },
+        {
+          "id": "sep-10-nicholas-of-tolentino",
+          "title": {
+            "en-US": "10. St. Nicholas of Tolentino"
+          }
+        },
+        {
+          "id": "sep-11-paphnutius",
+          "title": {
+            "en-US": "11. St. Paphnutius, Bishop"
+          }
+        },
+        {
+          "id": "sep-12-guy-of-anderlecht",
+          "title": {
+            "en-US": "12. St. Guy of Anderlecht"
+          }
+        },
+        {
+          "id": "sep-13-eulogius",
+          "title": {
+            "en-US": "13. St. Eulogius, Patriarch of Alexandria"
+          }
+        },
+        {
+          "id": "sep-14-the-exaltation-of-the-holy-cross-of-our-lord-jesus-christ",
+          "title": {
+            "en-US": "14. The Exaltation of the Holy Cross of Our Lord Jesus Christ"
+          }
+        },
+        {
+          "id": "sep-15-catherine-of-genoa",
+          "title": {
+            "en-US": "15. St. Catherine of Genoa"
+          }
+        },
+        {
+          "id": "sep-16-cyprian",
+          "title": {
+            "en-US": "16. St. Cyprian, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "sep-17-lambert",
+          "title": {
+            "en-US": "17. St. Lambert, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "sep-18-thomas-of-villanova",
+          "title": {
+            "en-US": "18. St. Thomas of Villanova"
+          }
+        },
+        {
+          "id": "sep-19-januarius",
+          "title": {
+            "en-US": "19. St. Januarius, Martyr"
+          }
+        },
+        {
+          "id": "sep-20-sts-eustachius-and-companions",
+          "title": {
+            "en-US": "20. Sts. Eustachius and Companions, Martyrs"
+          }
+        },
+        {
+          "id": "sep-21-matthew",
+          "title": {
+            "en-US": "21. St. Matthew, Apostle"
+          }
+        },
+        {
+          "id": "sep-22-the-theban-legion",
+          "title": {
+            "en-US": "22. The Theban Legion"
+          }
+        },
+        {
+          "id": "sep-23-thecla",
+          "title": {
+            "en-US": "23. St. Thecla, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "sep-24-the-blessed",
+          "title": {
+            "en-US": "24. The Blessed Virgin Mary of Mercy"
+          }
+        },
+        {
+          "id": "sep-25-firmin",
+          "title": {
+            "en-US": "25. St. Firmin, Bishop, Martyr. St. Finbarr, Bishop"
+          }
+        },
+        {
+          "id": "sep-26-sts-cyprian-and-justina",
+          "title": {
+            "en-US": "26. Sts. Cyprian and Justina, Martyrs"
+          }
+        },
+        {
+          "id": "sep-27-sts-cosmas-and-damian",
+          "title": {
+            "en-US": "27. Sts. Cosmas and Damian, Martyrs"
+          }
+        },
+        {
+          "id": "sep-28-wenceslas",
+          "title": {
+            "en-US": "28. St. Wenceslas, Martyr"
+          }
+        },
+        {
+          "id": "sep-29-michael-archangel",
+          "title": {
+            "en-US": "29. St. Michael, Archangel"
+          }
+        },
+        {
+          "id": "sep-30-jerome",
+          "title": {
+            "en-US": "30. St. Jerome, Doctor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oct",
+      "title": {
+        "en-US": "October"
+      },
+      "children": [
+        {
+          "id": "oct-01-remigius",
+          "title": {
+            "en-US": "1. St. Remigius, Bishop"
+          }
+        },
+        {
+          "id": "oct-02-the-holy-guardian-angels",
+          "title": {
+            "en-US": "2. The Holy Guardian Angels"
+          }
+        },
+        {
+          "id": "oct-03-gerard",
+          "title": {
+            "en-US": "3. St. Gerard, Abbot"
+          }
+        },
+        {
+          "id": "oct-04-francis-of-assisi",
+          "title": {
+            "en-US": "4. St. Francis of Assisi"
+          }
+        },
+        {
+          "id": "oct-05-placid",
+          "title": {
+            "en-US": "5. St. Placid, Martyr"
+          }
+        },
+        {
+          "id": "oct-06-bruno",
+          "title": {
+            "en-US": "6. St. Bruno"
+          }
+        },
+        {
+          "id": "oct-07-mark",
+          "title": {
+            "en-US": "7. St. Mark, Pope"
+          }
+        },
+        {
+          "id": "oct-08-bridget-of-sweden",
+          "title": {
+            "en-US": "8. St. Bridget of Sweden"
+          }
+        },
+        {
+          "id": "oct-09-dionysius-and-his-companions",
+          "title": {
+            "en-US": "9. St. Dionysius and his Companions, Martyrs. St. Louis Bertrand"
+          }
+        },
+        {
+          "id": "oct-10-francis-borgia",
+          "title": {
+            "en-US": "10. St. Francis Borgia"
+          }
+        },
+        {
+          "id": "oct-11-tarachus-and-his-companions",
+          "title": {
+            "en-US": "11. St. Tarachus and his Companions"
+          }
+        },
+        {
+          "id": "oct-12-wilfrid",
+          "title": {
+            "en-US": "12. St. Wilfrid, Bishop"
+          }
+        },
+        {
+          "id": "oct-13-edward-the",
+          "title": {
+            "en-US": "13. St. Edward the Confessor"
+          }
+        },
+        {
+          "id": "oct-14-callistus",
+          "title": {
+            "en-US": "14. St. Callistus, Pope, Martyr"
+          }
+        },
+        {
+          "id": "oct-15-teresa",
+          "title": {
+            "en-US": "15. St. Teresa"
+          }
+        },
+        {
+          "id": "oct-16-gall",
+          "title": {
+            "en-US": "16. St. Gall, Abbot"
+          }
+        },
+        {
+          "id": "oct-17-hedwige-saint-margaret-mary-alacoque",
+          "title": {
+            "en-US": "17. St. Hedwige. Saint Margaret Mary Alacoque"
+          }
+        },
+        {
+          "id": "oct-18-luke",
+          "title": {
+            "en-US": "18. St. Luke"
+          }
+        },
+        {
+          "id": "oct-19-peter-of-alcantara",
+          "title": {
+            "en-US": "19. St. Peter of Alcantara"
+          }
+        },
+        {
+          "id": "oct-20-john-cantius",
+          "title": {
+            "en-US": "20. St. John Cantius"
+          }
+        },
+        {
+          "id": "oct-21-ursula",
+          "title": {
+            "en-US": "21. St. Ursula, Virgin and Martyr"
+          }
+        },
+        {
+          "id": "oct-22-mello",
+          "title": {
+            "en-US": "22. St. Mello, Bishop. St. Hilarion, Abbot"
+          }
+        },
+        {
+          "id": "oct-23-theodoret",
+          "title": {
+            "en-US": "23. St. Theodoret, Martyr"
+          }
+        },
+        {
+          "id": "oct-24-magloire",
+          "title": {
+            "en-US": "24. St. Magloire, Bishop"
+          }
+        },
+        {
+          "id": "oct-25-sts-crispin-and-crispinian",
+          "title": {
+            "en-US": "25. Sts. Crispin and Crispinian, Martyrs"
+          }
+        },
+        {
+          "id": "oct-26-evaristus",
+          "title": {
+            "en-US": "26. St. Evaristus, Pope and Martyr"
+          }
+        },
+        {
+          "id": "oct-27-frumentius",
+          "title": {
+            "en-US": "27. St. Frumentius, Bishop"
+          }
+        },
+        {
+          "id": "oct-28-sts-simon-and-jude",
+          "title": {
+            "en-US": "28. Sts. Simon and Jude"
+          }
+        },
+        {
+          "id": "oct-29-narcissus",
+          "title": {
+            "en-US": "29. St. Narcissus, Bishop"
+          }
+        },
+        {
+          "id": "oct-30-marcellus-the-centurion",
+          "title": {
+            "en-US": "30. St. Marcellus, the Centurion, Martyr"
+          }
+        },
+        {
+          "id": "oct-31-quintin",
+          "title": {
+            "en-US": "31. St. Quintin, Martyr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nov",
+      "title": {
+        "en-US": "November"
+      },
+      "children": [
+        {
+          "id": "nov-01-all-saints",
+          "title": {
+            "en-US": "1. All-Saints"
+          }
+        },
+        {
+          "id": "nov-02-all-souls",
+          "title": {
+            "en-US": "2. All-Souls"
+          }
+        },
+        {
+          "id": "nov-02-malachi",
+          "title": {
+            "en-US": "2. St. Malachi, Bishop"
+          }
+        },
+        {
+          "id": "nov-03-hubert",
+          "title": {
+            "en-US": "3. St. Hubert, Bishop"
+          }
+        },
+        {
+          "id": "nov-04-charles-borromeo",
+          "title": {
+            "en-US": "4. St. Charles Borromeo"
+          }
+        },
+        {
+          "id": "nov-05-bertille",
+          "title": {
+            "en-US": "5. St. Bertille, Abbess"
+          }
+        },
+        {
+          "id": "nov-06-leonard",
+          "title": {
+            "en-US": "6. St. Leonard"
+          }
+        },
+        {
+          "id": "nov-07-willibrord",
+          "title": {
+            "en-US": "7. St. Willibrord"
+          }
+        },
+        {
+          "id": "nov-08-the-feast-of-the-holy-relics",
+          "title": {
+            "en-US": "8. The Feast of the Holy Relics"
+          }
+        },
+        {
+          "id": "nov-09-theodore-tyro",
+          "title": {
+            "en-US": "9. St. Theodore Tyro, Martyr"
+          }
+        },
+        {
+          "id": "nov-10-st-andrew-avellino",
+          "title": {
+            "en-US": "10: St. Andrew Avellino"
+          }
+        },
+        {
+          "id": "nov-11-martin-of-tours",
+          "title": {
+            "en-US": "11. St. Martin of Tours"
+          }
+        },
+        {
+          "id": "nov-12-martin",
+          "title": {
+            "en-US": "12. St. Martin, Pope"
+          }
+        },
+        {
+          "id": "nov-13-stanislas-kostka",
+          "title": {
+            "en-US": "13. St. Stanislas Kostka"
+          }
+        },
+        {
+          "id": "nov-14-didacus",
+          "title": {
+            "en-US": "14. St. Didacus"
+          }
+        },
+        {
+          "id": "nov-14-laurence-otoole",
+          "title": {
+            "en-US": "14. St. Laurence O'Toole, Archbishop of Dublin"
+          }
+        },
+        {
+          "id": "nov-15-gertrude",
+          "title": {
+            "en-US": "15. St. Gertrude, Abbess"
+          }
+        },
+        {
+          "id": "nov-16-edmund-of-canterbury",
+          "title": {
+            "en-US": "16. St. Edmund of Canterbury"
+          }
+        },
+        {
+          "id": "nov-17-gregory-thaumaturgus",
+          "title": {
+            "en-US": "17. St. Gregory Thaumaturgus"
+          }
+        },
+        {
+          "id": "nov-18-odo-of-cluny",
+          "title": {
+            "en-US": "18. St. Odo of Cluny"
+          }
+        },
+        {
+          "id": "nov-19-elizabeth-of-hungary",
+          "title": {
+            "en-US": "19. St. Elizabeth of Hungary"
+          }
+        },
+        {
+          "id": "nov-20-felix-of-valois",
+          "title": {
+            "en-US": "20. St. Felix of Valois"
+          }
+        },
+        {
+          "id": "nov-21-the-presentation-of-the-blessed",
+          "title": {
+            "en-US": "21. The Presentation of the Blessed Virgin Mary"
+          }
+        },
+        {
+          "id": "nov-22-cecilia",
+          "title": {
+            "en-US": "22. St. Cecilia, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "nov-23-clement-of-rome",
+          "title": {
+            "en-US": "23. St. Clement of Rome"
+          }
+        },
+        {
+          "id": "nov-24-john-of-the-cross",
+          "title": {
+            "en-US": "24. St. John of the Cross"
+          }
+        },
+        {
+          "id": "nov-25-catherine-of-alexandria",
+          "title": {
+            "en-US": "25. St. Catherine of Alexandria"
+          }
+        },
+        {
+          "id": "nov-26-peter-of-alexandria",
+          "title": {
+            "en-US": "26. St. Peter of Alexandria, Bishop, Martyr"
+          }
+        },
+        {
+          "id": "nov-27-maximus",
+          "title": {
+            "en-US": "27. St. Maximus, Bishop"
+          }
+        },
+        {
+          "id": "nov-28-james-of-la-marca-of-ancona",
+          "title": {
+            "en-US": "28. St. James of La Marca of Ancona"
+          }
+        },
+        {
+          "id": "nov-29-saturninus",
+          "title": {
+            "en-US": "29. St. Saturninus, Martyr"
+          }
+        },
+        {
+          "id": "nov-30-andrew",
+          "title": {
+            "en-US": "30. St. Andrew, Apostle"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dec",
+      "title": {
+        "en-US": "December"
+      },
+      "children": [
+        {
+          "id": "dec-01-eligius",
+          "title": {
+            "en-US": "1. St. Eligius"
+          }
+        },
+        {
+          "id": "dec-02-bibiana",
+          "title": {
+            "en-US": "2. St. Bibiana, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "dec-03-francis-xavier",
+          "title": {
+            "en-US": "3. St. Francis Xavier"
+          }
+        },
+        {
+          "id": "dec-04-barbara",
+          "title": {
+            "en-US": "4. St. Barbara, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "dec-05-sabas",
+          "title": {
+            "en-US": "5. St. Sabas, Abbot"
+          }
+        },
+        {
+          "id": "dec-06-nicholas-of-bari",
+          "title": {
+            "en-US": "6. St. Nicholas of Bari"
+          }
+        },
+        {
+          "id": "dec-07-ambrose",
+          "title": {
+            "en-US": "7. St. Ambrose, Bishop"
+          }
+        },
+        {
+          "id": "dec-08-the-feast-of-the-immaculate-conception",
+          "title": {
+            "en-US": "8. The Feast of the Immaculate Conception"
+          }
+        },
+        {
+          "id": "dec-09-leocadia",
+          "title": {
+            "en-US": "9. St. Leocadia, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "dec-10-eulalia",
+          "title": {
+            "en-US": "10. St. Eulalia, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "dec-11-damasus",
+          "title": {
+            "en-US": "11. St. Damasus, Pope"
+          }
+        },
+        {
+          "id": "dec-12-valery",
+          "title": {
+            "en-US": "12. St. Valery, Abbot. St. Finian, Bishop"
+          }
+        },
+        {
+          "id": "dec-13-lucy",
+          "title": {
+            "en-US": "13. St. Lucy, Virgin, Martyr"
+          }
+        },
+        {
+          "id": "dec-14-nicasius",
+          "title": {
+            "en-US": "14. St. Nicasius, Archbishop, and his Companions, Martyrs"
+          }
+        },
+        {
+          "id": "dec-15-mesmin",
+          "title": {
+            "en-US": "15. St. Mesmin"
+          }
+        },
+        {
+          "id": "dec-16-eusebius",
+          "title": {
+            "en-US": "16. St. Eusebius, Bishop"
+          }
+        },
+        {
+          "id": "dec-17-olympias",
+          "title": {
+            "en-US": "17. St. Olympias, Widow"
+          }
+        },
+        {
+          "id": "dec-18-gatian",
+          "title": {
+            "en-US": "18. St. Gatian, Bishop"
+          }
+        },
+        {
+          "id": "dec-19-nemesion",
+          "title": {
+            "en-US": "19. St. Nemesion, Martyr"
+          }
+        },
+        {
+          "id": "dec-20-philogonius",
+          "title": {
+            "en-US": "20. St. Philogonius, Bishop"
+          }
+        },
+        {
+          "id": "dec-21-thomas",
+          "title": {
+            "en-US": "21. St. Thomas, Apostle"
+          }
+        },
+        {
+          "id": "dec-22-ischyrion",
+          "title": {
+            "en-US": "22. St. Ischyrion, Martyr"
+          }
+        },
+        {
+          "id": "dec-23-servulus",
+          "title": {
+            "en-US": "23. St. Servulus"
+          }
+        },
+        {
+          "id": "dec-24-delphinus",
+          "title": {
+            "en-US": "24. St. Delphinus, Bishop. Sts. Thrasilla and Emiliana, Virgins"
+          }
+        },
+        {
+          "id": "dec-25-the-nativity-of-christ-or-christmas-day",
+          "title": {
+            "en-US": "25. The Nativity of Christ, or Christmas Day"
+          }
+        },
+        {
+          "id": "dec-26-stephen-first",
+          "title": {
+            "en-US": "26. St. Stephen, First Martyr"
+          }
+        },
+        {
+          "id": "dec-27-john",
+          "title": {
+            "en-US": "27. St. John, Evangelist"
+          }
+        },
+        {
+          "id": "dec-28-the-holy-innocents",
+          "title": {
+            "en-US": "28. The Holy Innocents"
+          }
+        },
+        {
+          "id": "dec-29-thomas-of-canterbury",
+          "title": {
+            "en-US": "29. St. Thomas of Canterbury"
+          }
+        },
+        {
+          "id": "dec-30-sabinus",
+          "title": {
+            "en-US": "30. St. Sabinus, Bishop, and his Companions, Martyrs"
+          }
+        },
+        {
+          "id": "dec-31-sylvester",
+          "title": {
+            "en-US": "31. St. Sylvester, Pope"
+          }
+        }
+      ]
+    },
+    {
+      "id": "saints-canonized-1881",
+      "title": {
+        "en-US": "Saints Canonized in 1881 by Pope Leo XIII"
+      },
+      "children": [
+        {
+          "id": "clare-of-montefalco",
+          "title": {
+            "en-US": "St. Clare of Montefalco"
+          }
+        },
+        {
+          "id": "laurence-of-brindisi",
+          "title": {
+            "en-US": "St. Laurence of Brindisi"
+          }
+        },
+        {
+          "id": "benedict-joseph-labre",
+          "title": {
+            "en-US": "St. Benedict Joseph Labre"
+          }
+        },
+        {
+          "id": "john-baptist-de-rossi",
+          "title": {
+            "en-US": "St. John Baptist de Rossi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lives-of-certain-saints",
+      "title": {
+        "en-US": "Lives of Certain Saints"
+      },
+      "children": [
+        {
+          "id": "cert-philip-of-jesus",
+          "title": {
+            "en-US": "St. Philip of Jesus"
+          }
+        },
+        {
+          "id": "cert-turribius-archbishop-of-lima",
+          "title": {
+            "en-US": "St. Turribius, Archbishop of Lima"
+          }
+        },
+        {
+          "id": "cert-francis-solano",
+          "title": {
+            "en-US": "St. Francis Solano"
+          }
+        },
+        {
+          "id": "cert-teresa-of-the-infant-jesus",
+          "title": {
+            "en-US": "St. Teresa of the Infant Jesus"
+          }
+        },
+        {
+          "id": "cert-joan-of-arc",
+          "title": {
+            "en-US": "St. Joan of Arc"
+          }
+        },
+        {
+          "id": "cert-rita-of-cascia-widow",
+          "title": {
+            "en-US": "St. Rita of Cascia, Widow"
+          }
+        },
+        {
+          "id": "cert-gabriel-of-the-sorrowful-mother",
+          "title": {
+            "en-US": "St. Gabriel of the Sorrowful Mother"
+          }
+        }
+      ]
+    }
+  ]
+}

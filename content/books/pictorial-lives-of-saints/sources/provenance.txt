@@ -1,0 +1,13 @@
+# Provenance — Pictorial Lives of the Saints
+
+**Work:** *Pictorial Lives of the Saints, with Reflections for Every Day in the Year*, edited by John Gilmary Shea, LL.D. Benziger Brothers, New York/Cincinnati. Imprimaturs 1875 & 1887; copyrights 1878 & 1887.
+
+**Source scan:** Internet Archive item `pictoriallives00unknuoft` (https://archive.org/details/pictoriallives00unknuoft).
+
+## How this book was assembled
+
+- **Daily-calendar text (Jan 1 – Dec 31) and the "Lives of Certain Saints" appendix** were reused verbatim from the previously-imported clean transcription (the former `butler-lives-of-saints`, sourced from sacred-texts.com). That transcription is the *same* Benziger/Shea edition: a content-anchored equality gate confirmed 390/399 entries match the IA OCR at ≥80% fuzzy coverage (median 0.97); the rest were verified present. Reusing the clean transcription avoids OCR noise.
+- **The Movable Feasts meditations and the four saints canonized in 1881 by Leo XIII** are not in the sacred-texts transcription. They were OCR-cleaned from the IA scan (`pictoriallives00unknuoft_djvu`/EPUB text), repairing drop-caps, hyphenation splits, and OCR substitutions while preserving the text faithfully.
+- **Wood-engravings** were extracted from the IA EPUB (`*_00.jpeg` per leaf) and matched to entries using the ABBYY FineReader picture-block placements (`pictoriallives00unknuoft_abbyy.gz`) plus reading-order heading logic; assignments were spot-checked visually. Images were resized to ~1000px and converted to WebP (q80). Coverage is partial by design (~255 daily entries + 8 movable feasts illustrated; the rest are text-only, as in the original).
+
+`pictorial-lives-ocr.txt` is the raw IA OCR dump kept for archival reference (do not edit).

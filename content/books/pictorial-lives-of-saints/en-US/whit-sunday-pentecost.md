@@ -1,0 +1,11 @@
+# Whit-Sunday (Pentecost)
+
+![](../images/whit-sunday-pentecost.webp)
+
+Fifty days after Easter, the apostles and disciples of Jesus Christ were assembled in an upper chamber, engaged in prayer, according to the recommendation of the Divine Master, and awaiting the accomplishment of the promise He had made to them, of sending them a Comforting Spirit, the Paraclete, who should teach them all things. Lo! a great noise, as of a rushing tempest, was suddenly heard, the house was rocked to and fro, and tongues of fire were seen resting on the head of each one. At once all were changed into new men, their minds being endowed with full understanding of the Scriptures and of the wonders they had hitherto witnessed without comprehending, and their souls were filled with strength from on high; thenceforth they belonged no more to themselves but to the work of the Gospel. From that time forth this Divine Spirit has not ceased to pour itself forth upon the Church to enlighten, confirm, protect, and guide; it has not ceased communicating itself to each of the faithful individually, either by means of the sacraments or by grace, whenever it has found hearts well disposed.
+
+The Fathers of the Church and all theologians are of one mind in recognizing, in the workings of the Holy Ghost in the hearts of the faithful, seven chief gifts: Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, and the Fear of the Lord. The gift of Wisdom helps us to judge healthily of all things concerning our last end; the gift of Understanding, to apprehend the truths revealed and to submit our hearts thereto; the gift of Counsel, to choose in all things the part best fitted for the sanctification of our souls; the gift of Fortitude, to resist temptations and overcome dangers; the gift of Knowledge, to discern the best means of sanctifying ourselves; the gift of Piety, or Godliness, causes us to love religion and the practices having reference to Divine Worship; the gift of the Fear of the Lord turns us aside from sin and from whatever may displease God.
+
+## Reflection
+
+"They that are according to the flesh mind the things that are of the flesh; but they that are according to the Spirit mind the things that are of the Spirit. For the wisdom of the flesh is death; but the wisdom of the Spirit is life and peace."
