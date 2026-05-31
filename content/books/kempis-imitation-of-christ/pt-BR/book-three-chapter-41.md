@@ -1,0 +1,7 @@
+# Do desprezo de toda honra temporal
+
+Jesus: Filho, não te entristeças por veres os outros honrados e exaltados, ao passo que tu és desprezado e humilhado. Ergue a mim o teu coração até ao céu, e não te entristecerá o desprezo humano na terra.
+
+A alma: Senhor, vivemos na cegueira, e facilmente nos engana a vaidade. Se bem me examino, nunca recebi injúria de criatura alguma; não tenho, pois, motivo de justa queixa contra vós.
+
+Mas, porque cometi tantos pecados, e tão graves, contra vós, é justo que contra mim se armem todas as criaturas. A mim, pois, com muita razão, cabe confusão e desprezo, a vós, porém, louvor, honra e glória. E enquanto não estiver disposto a querer de bom grado ser desprezado e abandonado de todas as criaturas, e ser tido absolutamente em nada, não haverá em mim paz e tranqüilidade interior, nem serei espiritualmente iluminado, nem perfeitamente unido a vós.
