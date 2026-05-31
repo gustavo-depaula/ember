@@ -8,20 +8,13 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { Typography } from '@/components/typography'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { CollectionItemManifest } from '@/content/manifestTypes'
-import { CollectionHero, SectionList } from '@/features/collections'
+import { CollectionHero, PrologueProse, SectionList } from '@/features/collections'
 import { artFor } from '@/features/explore/artMap'
-import { toneByIndex } from '@/features/explore/bgColor'
+import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
 
 const nativeTabBarClearance = 56
-
-// A stable jewel tone per collection — the hero ground when no art is mapped.
-function toneIndexForId(id: string): number {
-  let h = 0
-  for (let i = 0; i < id.length; i++) h = (h + id.charCodeAt(i)) | 0
-  return Math.abs(h)
-}
 
 /** Quiet placeholder while an unwarmed collection's manifest fetches. */
 function CollectionSkeleton() {
@@ -39,33 +32,6 @@ function CollectionSkeleton() {
           />
         ))}
       </XStack>
-    </YStack>
-  )
-}
-
-/** The prologue: a justified paragraph (or two) at a comfortable reading leading. */
-function PrologueProse({ text }: { text: string }) {
-  const paras = text
-    .split(/\n{2,}/)
-    .map((p) => p.trim())
-    .filter(Boolean)
-  if (paras.length === 0) return null
-  return (
-    <YStack gap="$sm">
-      {paras.map((p, i) => (
-        <Typography
-          // biome-ignore lint/suspicious/noArrayIndexKey: positional paragraphs
-          key={i}
-          selectable
-          variant="interface"
-          fontSize={18}
-          lineHeight={27}
-          textAlign="justify"
-          color="$color"
-        >
-          {p}
-        </Typography>
-      ))}
     </YStack>
   )
 }

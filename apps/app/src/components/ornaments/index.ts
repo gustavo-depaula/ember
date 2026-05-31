@@ -1,4 +1,5 @@
 export { FloralCorner } from './FloralCorner'
 export { FloralVineBorder } from './FloralVineBorder'
+export { GlassCircle, textShadow } from './GlassCircle'
 export { SeasonalIcon } from './SeasonalIcon'
 export { WatercolorIcon } from './WatercolorIcon'

@@ -1,12 +1,14 @@
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
+import { ChevronRight } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { useTheme, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, PrayButton, ScreenLayout, SectionDivider } from '@/components'
-import { PracticeIcon } from '@/components/PracticeIcon'
+import { AnimatedPressable, SectionDivider } from '@/components'
+import { Typography } from '@/components/typography'
 import { getCollectionsForItem, getEntry } from '@/content/contentIndex'
 import {
   findGroupMemberInSet,
@@ -17,7 +19,8 @@ import {
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
-import { PinToggle } from '@/features/pinning/PinToggle'
+import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
+import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { isPinned } from '@/features/pinning/pinningManager'
 import {
   useCreatePractice,
@@ -33,14 +36,26 @@ import {
   type PracticeFormData,
 } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
-import { PracticeTeachingContent } from '@/features/practices/components'
+import { PracticeHero, PracticeTeachingContent } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
+import { useNowPlayingClearance } from '@/stores/creatorsStore'
+
+const nativeTabBarClearance = 56
 
 export default function CatalogDetailScreen() {
   const { t } = useTranslation()
   const { manifestId } = useLocalSearchParams<{ manifestId: string }>()
   const router = useRouter()
   const theme = useTheme()
+  const insets = useSafeAreaInsets()
+  const nowPlaying = useNowPlayingClearance()
+  const background = theme.background?.val ?? '#000000'
+
+  // Drive the hero's stretch-on-pull-down off the scroll offset.
+  const scrollY = useSharedValue(0)
+  const onScroll = useAnimatedScrollHandler((e) => {
+    scrollY.value = e.contentOffset.y
+  })
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const slotsForManifest = useSlotsForPractice(manifestId)
@@ -66,6 +81,7 @@ export default function CatalogDetailScreen() {
   const unarchivePractice = useUnarchivePractice()
   const restartProgramMutation = useRestartProgram()
   const [showEditor, setShowEditor] = useState(false)
+  const [addingToCollection, setAddingToCollection] = useState(false)
   const programProgress = useProgramProgress(manifest?.id ?? '', manifest?.program)
   const group = useMemo(
     () => (manifestId ? getAlternativeGroup(manifestId) : undefined),
@@ -90,18 +106,29 @@ export default function CatalogDetailScreen() {
 
   if (!manifestId || !manifest) {
     return (
-      <ScreenLayout>
-        <YStack flex={1} alignItems="center" justifyContent="center">
-          <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-            {t('plan.practiceNotFound')}
-          </Text>
-        </YStack>
-      </ScreenLayout>
+      <YStack flex={1} backgroundColor="$background" alignItems="center" justifyContent="center">
+        <Typography variant="interface" tone="muted">
+          {t('plan.practiceNotFound')}
+        </Typography>
+      </YStack>
     )
   }
 
   const iconKey = getManifestIconKey(manifest.id)
   const isProgram = !!manifest.program
+
+  const metaParts: string[] = []
+  if (isProgram) {
+    if (manifest.program?.totalDays) {
+      metaParts.push(t('program.durationDays', { count: manifest.program.totalDays }))
+    }
+  } else if ((manifest.estimatedMinutes ?? 0) > 0) {
+    metaParts.push(t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes }))
+  }
+  for (const cat of manifest.categories ?? []) {
+    metaParts.push(t(`category.${cat}`, { defaultValue: cat }))
+  }
+  const metadata = metaParts.join(' · ') || undefined
 
   function handleAddToPlan() {
     const practice = manifestId ? getPractice(manifestId) : undefined
@@ -185,76 +212,66 @@ export default function CatalogDetailScreen() {
   }
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <XStack alignItems="center" gap="$md">
-          <Pressable
-            onPress={() => router.back()}
-            hitSlop={8}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.goBack')}
-          >
-            <ChevronLeft size={24} color={theme.color.val} />
-          </Pressable>
-          <PracticeIcon name={iconKey} size={28} />
-          <YStack flex={1} gap={2}>
-            <Text fontFamily="$heading" fontSize="$5" color="$color">
-              {localizeContent(manifest.name)}
-            </Text>
-            <XStack gap="$sm">
-              {isProgram ? (
-                <Text fontFamily="$body" fontSize="$1" color="$accent">
-                  {t('program.durationDays', { count: manifest.program?.totalDays })}
-                </Text>
-              ) : (
-                (manifest.estimatedMinutes ?? 0) > 0 && (
-                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                    {t('catalog.estimatedTime', { minutes: manifest.estimatedMinutes })}
-                  </Text>
-                )
-              )}
-              {(manifest.categories ?? []).map((cat) => (
-                <Text key={cat} fontFamily="$body" fontSize="$1" color="$colorSecondary">
-                  {t(`category.${cat}`, { defaultValue: cat })}
-                </Text>
-              ))}
-            </XStack>
-            {collectionLabels.length > 0 && (
-              <XStack gap="$xs" flexWrap="wrap" marginTop={2}>
-                {collectionLabels.map((label) => (
-                  <Text
-                    key={label}
-                    fontFamily="$body"
-                    fontSize="$1"
-                    color="$colorSecondary"
-                    fontStyle="italic"
-                  >
-                    {label}
-                  </Text>
-                ))}
-                {collectionPinned && (
-                  <Text fontFamily="$body" fontSize="$1" color="$accent">
-                    · ↓ offline
-                  </Text>
-                )}
-              </XStack>
-            )}
-          </YStack>
-        </XStack>
+    <>
+      <Animated.ScrollView
+        onScroll={onScroll}
+        scrollEventThrottle={16}
+        style={{ flex: 1, backgroundColor: background }}
+        contentContainerStyle={{
+          paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
+        }}
+        contentInsetAdjustmentBehavior="never"
+      >
+        <PracticeHero
+          iconKey={iconKey}
+          name={localizeContent(manifest.name)}
+          metadata={metadata}
+          tone={toneByIndex(toneIndexForId(manifest.id))}
+          scrollY={scrollY}
+          onPray={
+            isProgram
+              ? undefined
+              : () =>
+                  router.push({
+                    pathname: '/pray/[practiceId]',
+                    params: { practiceId: manifest.id },
+                  })
+          }
+        />
 
-        {!isProgram && <PrayButton practiceId={manifest.id} />}
+        {/* Opaque column over the hero's lower bleed; paddingTop clears the
+            floating Rezar capsule that straddles the seam. */}
+        <YStack
+          width="100%"
+          maxWidth={640}
+          alignSelf="center"
+          paddingHorizontal="$lg"
+          paddingTop={40}
+          gap="$lg"
+          backgroundColor="$background"
+        >
+          {/* manifest.id is the canonical kind-prefixed id (`practice/...`). The
+              route param can arrive bare or prefixed depending on the entry
+              point, so never re-prefix it — use the manifest's own id. */}
+          <LibraryActionRow
+            itemId={manifest.id}
+            kind="practice"
+            onAddToCollection={() => setAddingToCollection(true)}
+          />
 
-        <XStack alignItems="center" gap="$sm">
-          <PinToggle itemId={`practice/${manifest.id}`} />
-        </XStack>
+          {collectionLabels.length > 0 && (
+            <Typography variant="caption" fontSize="$1" textAlign="center">
+              {collectionLabels.join(' · ')}
+              {collectionPinned ? ' · ↓ offline' : ''}
+            </Typography>
+          )}
 
-        {group && (
-          <YStack gap="$sm">
-            <XStack gap="$xs" flexWrap="wrap">
+          {group && (
+            <XStack gap="$md" flexWrap="wrap" justifyContent="center">
               {group.members.map((member) => {
                 const isActive = member.manifest.id === manifest.id
                 return (
-                  <AnimatedPressable
+                  <Pressable
                     key={member.manifest.id}
                     onPress={() =>
                       router.push({
@@ -263,38 +280,69 @@ export default function CatalogDetailScreen() {
                       })
                     }
                     disabled={isActive}
+                    hitSlop={8}
                     accessibilityRole="radio"
                     accessibilityLabel={member.label}
                     accessibilityState={{ selected: isActive }}
                   >
-                    <XStack
-                      paddingHorizontal="$sm"
-                      paddingVertical="$xs"
-                      borderRadius="$sm"
-                      borderWidth={1}
-                      borderColor={isActive ? '$accent' : '$borderColor'}
-                      backgroundColor={isActive ? '$accent' : 'transparent'}
+                    <Typography
+                      variant="label"
+                      fontSize="$2"
+                      color={isActive ? '$accent' : '$colorSecondary'}
                     >
-                      <Text
-                        fontFamily="$heading"
-                        fontSize="$1"
-                        color={isActive ? '$background' : '$colorSecondary'}
-                      >
-                        {member.label}
-                      </Text>
-                    </XStack>
-                  </AnimatedPressable>
+                      {member.label}
+                    </Typography>
+                  </Pressable>
                 )
               })}
             </XStack>
-          </YStack>
-        )}
+          )}
 
-        {isProgram ? (
-          isInPlan ? (
-            programProgress?.isComplete ? (
-              <YStack gap="$sm">
-                <AnimatedPressable
+          {isProgram ? (
+            isInPlan ? (
+              programProgress?.isComplete ? (
+                <YStack gap="$sm">
+                  <PrimaryCapsule
+                    label={
+                      programProgress.completionBehavior === 'offer-restart'
+                        ? t('program.restart')
+                        : t('program.complete')
+                    }
+                    onPress={() =>
+                      programProgress.completionBehavior === 'offer-restart'
+                        ? restartProgramMutation.mutate({ practiceId: manifest.id })
+                        : router.push({
+                            pathname: '/practices/[manifestId]/program',
+                            params: { manifestId: manifest.id },
+                          })
+                    }
+                    accessibilityRole={
+                      programProgress.completionBehavior === 'offer-restart' ? 'button' : 'link'
+                    }
+                  />
+                  {programProgress.completionBehavior === 'offer-restart' && (
+                    <TextLink
+                      label={t('program.complete')}
+                      onPress={() =>
+                        router.push({
+                          pathname: '/practices/[manifestId]/program',
+                          params: { manifestId: manifest.id },
+                        })
+                      }
+                      accessibilityRole="link"
+                    />
+                  )}
+                </YStack>
+              ) : (
+                <PrimaryCapsule
+                  label={
+                    programProgress
+                      ? t('program.dayOf', {
+                          day: programProgress.programDay + 1,
+                          total: programProgress.totalDays,
+                        })
+                      : t('catalog.alreadyInPlan')
+                  }
                   onPress={() =>
                     router.push({
                       pathname: '/practices/[manifestId]/program',
@@ -302,154 +350,47 @@ export default function CatalogDetailScreen() {
                     })
                   }
                   accessibilityRole="link"
-                  accessibilityLabel={t('program.complete')}
-                >
-                  <YStack
-                    backgroundColor="$backgroundSurface"
-                    borderRadius="$md"
-                    borderWidth={1}
-                    borderColor="$accent"
-                    paddingVertical="$sm"
-                    alignItems="center"
-                  >
-                    <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                      {t('program.complete')}
-                    </Text>
-                  </YStack>
-                </AnimatedPressable>
-
-                {programProgress.completionBehavior === 'offer-restart' && (
-                  <AnimatedPressable
-                    onPress={() =>
-                      restartProgramMutation.mutate({
-                        practiceId: manifest.id,
-                      })
-                    }
-                    accessibilityRole="button"
-                    accessibilityLabel={t('program.restart')}
-                  >
-                    <YStack
-                      backgroundColor="$accent"
-                      borderRadius="$md"
-                      paddingVertical="$sm"
-                      alignItems="center"
-                    >
-                      <Text fontFamily="$heading" fontSize="$3" color="white">
-                        {t('program.restart')}
-                      </Text>
-                    </YStack>
-                  </AnimatedPressable>
-                )}
-              </YStack>
+                />
+              )
             ) : (
-              <AnimatedPressable
-                onPress={() =>
-                  router.push({
-                    pathname: '/practices/[manifestId]/program',
-                    params: { manifestId: manifest.id },
-                  })
-                }
-                accessibilityRole="link"
-                accessibilityLabel={
-                  programProgress
-                    ? t('program.dayOf', {
-                        day: programProgress.programDay + 1,
-                        total: programProgress.totalDays,
-                      })
-                    : t('catalog.alreadyInPlan')
-                }
-              >
-                <YStack
-                  backgroundColor="$accent"
-                  borderRadius="$md"
-                  paddingVertical="$sm"
-                  alignItems="center"
-                  gap={4}
-                >
-                  <Text fontFamily="$heading" fontSize="$3" color="white">
-                    {programProgress
-                      ? t('program.dayOf', {
-                          day: programProgress.programDay + 1,
-                          total: programProgress.totalDays,
-                        })
-                      : t('catalog.alreadyInPlan')}
-                  </Text>
-                </YStack>
-              </AnimatedPressable>
+              <PrimaryCapsule
+                label={t('program.begin')}
+                onPress={handleBeginProgram}
+                accessibilityRole="button"
+              />
             )
+          ) : isInPlan ? (
+            <TextLink
+              label={t('catalog.alreadyInPlan')}
+              onPress={() =>
+                router.push({
+                  pathname: '/plan/[practiceId]',
+                  params: { practiceId: planPracticeId },
+                })
+              }
+              accessibilityRole="link"
+              chevron
+            />
           ) : (
-            <AnimatedPressable
-              onPress={handleBeginProgram}
+            <TextLink
+              label={t('catalog.addToPlan')}
+              onPress={handleAddToPlan}
               accessibilityRole="button"
-              accessibilityLabel={t('program.begin')}
-            >
-              <YStack
-                backgroundColor="$accent"
-                borderRadius="$md"
-                paddingVertical="$sm"
-                alignItems="center"
-              >
-                <Text fontFamily="$heading" fontSize="$3" color="white">
-                  {t('program.begin')}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          )
-        ) : isInPlan ? (
-          <Pressable
-            onPress={() =>
-              router.push({
-                pathname: '/plan/[practiceId]',
-                params: { practiceId: planPracticeId },
-              })
-            }
-            accessibilityRole="link"
-            accessibilityLabel={t('catalog.alreadyInPlan')}
-          >
-            <XStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$accent"
-              paddingVertical="$sm"
-              justifyContent="center"
-              alignItems="center"
-              gap="$sm"
-            >
-              <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                {t('catalog.alreadyInPlan')}
-              </Text>
-              <Text fontFamily="$body" fontSize="$2" color="$accent">
-                ›
-              </Text>
-            </XStack>
-          </Pressable>
-        ) : (
-          <AnimatedPressable
-            onPress={handleAddToPlan}
-            accessibilityRole="button"
-            accessibilityLabel={t('catalog.addToPlan')}
-            testID="add-to-plan-button"
-          >
-            <YStack
-              backgroundColor="$backgroundSurface"
-              borderRadius="$md"
-              borderWidth={1}
-              borderColor="$accent"
-              paddingVertical="$sm"
-              alignItems="center"
-            >
-              <Text fontFamily="$heading" fontSize="$3" color="$accent">
-                {t('catalog.addToPlan')}
-              </Text>
-            </YStack>
-          </AnimatedPressable>
-        )}
+              testID="add-to-plan-button"
+            />
+          )}
 
-        <SectionDivider />
+          <SectionDivider />
 
-        <PracticeTeachingContent manifest={manifest} defaultExpanded />
-      </YStack>
+          <PracticeTeachingContent manifest={manifest} defaultExpanded />
+        </YStack>
+      </Animated.ScrollView>
+
+      <AddToCollectionSheet
+        itemRef={manifest.id}
+        open={addingToCollection}
+        onClose={() => setAddingToCollection(false)}
+      />
 
       <Modal
         visible={showEditor}
@@ -478,6 +419,70 @@ export default function CatalogDetailScreen() {
           />
         </YStack>
       </Modal>
-    </ScreenLayout>
+    </>
+  )
+}
+
+/** The plan's live primary action — a filled gold capsule, centered. */
+function PrimaryCapsule({
+  label,
+  onPress,
+  accessibilityRole,
+}: {
+  label: string
+  onPress: () => void
+  accessibilityRole: 'button' | 'link'
+}) {
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole={accessibilityRole}
+      accessibilityLabel={label}
+    >
+      <XStack
+        alignSelf="center"
+        backgroundColor="$accent"
+        borderRadius={9999}
+        paddingVertical="$sm"
+        paddingHorizontal="$xl"
+        justifyContent="center"
+      >
+        <Typography variant="label" fontSize="$3" color="$background">
+          {label}
+        </Typography>
+      </XStack>
+    </AnimatedPressable>
+  )
+}
+
+/** A quiet, borderless plan affordance — gold type, optional trailing chevron. */
+function TextLink({
+  label,
+  onPress,
+  accessibilityRole,
+  chevron,
+  testID,
+}: {
+  label: string
+  onPress: () => void
+  accessibilityRole: 'button' | 'link'
+  chevron?: boolean
+  testID?: string
+}) {
+  const theme = useTheme()
+  return (
+    <AnimatedPressable
+      onPress={onPress}
+      accessibilityRole={accessibilityRole}
+      accessibilityLabel={label}
+      testID={testID}
+    >
+      <XStack alignSelf="center" alignItems="center" gap="$xs" paddingVertical="$sm">
+        <Typography variant="label" fontSize="$3" color="$accent">
+          {label}
+        </Typography>
+        {chevron && <ChevronRight size={16} color={theme.accent.val} />}
+      </XStack>
+    </AnimatedPressable>
   )
 }

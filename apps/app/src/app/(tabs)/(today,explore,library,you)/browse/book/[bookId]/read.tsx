@@ -1,6 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
-import { useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft, List, Type } from 'lucide-react-native'
+import { useLocalSearchParams, useNavigation, useRouter } from 'expo-router'
+import { Bookmark, BookmarkCheck, ChevronLeft, List, Type } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useColorScheme } from 'react-native'
@@ -24,6 +24,7 @@ import {
 import { ReaderTocSheet } from '@/features/books/ReaderTocSheet'
 import type { ReaderMessage, ReaderWebViewHandle } from '@/features/books/ReaderWebView'
 import { ReaderWebView } from '@/features/books/ReaderWebView'
+import { useSaveToggle } from '@/features/library'
 import { readingScale } from '@/hooks/useReadingStyle'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -35,10 +36,27 @@ function cursorId(bookId: string) {
 }
 
 export default function BookReaderScreen() {
-  const { bookId } = useLocalSearchParams<{ bookId: string }>()
+  const { bookId, chapter } = useLocalSearchParams<{ bookId: string; chapter?: string }>()
   const router = useRouter()
+  const navigation = useNavigation()
   const theme = useTheme()
+
+  // The reader WebView owns horizontal swipes (chapter nav); the iOS root-stack
+  // edge-swipe would otherwise fire too and close the book. Disable the root
+  // gesture only while the reader is mounted, so swipe-back works on the
+  // frontispiece and everywhere else. (Moved here from browse/book/_layout so
+  // the frontispiece keeps its swipe-back.)
+  useEffect(() => {
+    // biome-ignore lint/suspicious/noExplicitAny: walk up the navigator tree
+    let root: any = navigation
+    while (root?.getParent?.()) root = root.getParent()
+    root?.setOptions?.({ gestureEnabled: false })
+    return () => {
+      root?.setOptions?.({ gestureEnabled: true })
+    }
+  }, [navigation])
   const { t } = useTranslation()
+  const { saved, toggle: toggleSave } = useSaveToggle(bookId ? `book/${bookId}` : undefined, 'book')
   const insets = useSafeAreaInsets()
   const systemScheme = useColorScheme()
   const themePreference = usePreferencesStore((s) => s.theme)
@@ -89,9 +107,16 @@ export default function BookReaderScreen() {
   )
   const initialConfigRef = useRef(readerConfig)
 
-  // Load saved reading position
+  // Load reading position: an explicit `chapter` (from the frontispiece's TOC)
+  // wins over the saved cursor; otherwise restore where the reader left off.
   useEffect(() => {
     if (!bookId || leaves.length === 0) return
+    if (chapter && leaves.some((l) => l.id === chapter)) {
+      setCurrentChapterId(chapter)
+      setInitialChapterId((prev) => prev ?? chapter)
+      setPositionLoaded(true)
+      return
+    }
     const cursor = getCursor(cursorId(bookId))
     if (cursor) {
       try {
@@ -115,7 +140,7 @@ export default function BookReaderScreen() {
       setInitialChapterId((prev) => prev ?? leaves[0].id)
     }
     setPositionLoaded(true)
-  }, [bookId, leaves])
+  }, [bookId, leaves, chapter])
 
   // Save reading position
   const savePosition = useCallback(() => {
@@ -358,6 +383,19 @@ export default function BookReaderScreen() {
                 {title}
               </Text>
             </YStack>
+            <Pressable
+              onPress={toggleSave}
+              hitSlop={8}
+              accessibilityRole="switch"
+              accessibilityState={{ checked: saved }}
+              accessibilityLabel={saved ? t('library.saved') : t('library.save')}
+            >
+              {saved ? (
+                <BookmarkCheck size={20} color={theme.accent.val} />
+              ) : (
+                <Bookmark size={20} color={theme.color.val} />
+              )}
+            </Pressable>
             <Pressable
               onPress={() => setConfigVisible(true)}
               hitSlop={8}

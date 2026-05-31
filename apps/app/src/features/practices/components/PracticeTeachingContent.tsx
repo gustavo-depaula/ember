@@ -2,12 +2,15 @@ import { ChevronDown, ChevronRight } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { useTheme, XStack, YStack } from 'tamagui'
 
 import { SectionDivider } from '@/components'
+import { Typography } from '@/components/typography'
 import type { PracticeManifest } from '@/content/types'
+import { PrologueProse } from '@/features/collections'
 import { localizeContent } from '@/lib/i18n'
 
+/** A collapsible teaching section, introduced by an illuminated fleuron marker. */
 function CollapsibleSection({
   title,
   content,
@@ -19,7 +22,7 @@ function CollapsibleSection({
 }) {
   const [expanded, setExpanded] = useState(defaultExpanded)
   const theme = useTheme()
-  const Icon = expanded ? ChevronDown : ChevronRight
+  const Chevron = expanded ? ChevronDown : ChevronRight
 
   return (
     <YStack gap="$sm">
@@ -31,17 +34,15 @@ function CollapsibleSection({
         accessibilityState={{ expanded }}
       >
         <XStack alignItems="center" gap="$sm">
-          <Icon size={16} color={theme.accent.val} />
-          <Text fontFamily="$heading" fontSize="$3" color="$accent">
+          <Typography fontSize="$1">✦</Typography>
+          <Typography variant="screen-title" fontSize="$4" textAlign="left">
             {title}
-          </Text>
+          </Typography>
+          <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
+          <Chevron size={18} color={theme.accent.val} />
         </XStack>
       </Pressable>
-      {expanded && (
-        <Text fontFamily="$body" fontSize="$3" color="$color" paddingLeft="$lg">
-          {content}
-        </Text>
-      )}
+      {expanded && <PrologueProse text={content} />}
     </YStack>
   )
 }
@@ -63,20 +64,11 @@ export function PracticeTeachingContent({
 
   return (
     <YStack gap="$lg">
-      {description && (
-        <YStack gap="$sm">
-          <Text fontFamily="$heading" fontSize="$3" color="$accent">
-            {t('catalog.about')}
-          </Text>
-          <Text fontFamily="$body" fontSize="$3" color="$color">
-            {description}
-          </Text>
-        </YStack>
-      )}
+      {description && <PrologueProse text={description} />}
 
       {history && (
         <>
-          <SectionDivider />
+          {description && <SectionDivider />}
           <CollapsibleSection
             title={t('catalog.history')}
             content={history}
@@ -87,7 +79,7 @@ export function PracticeTeachingContent({
 
       {howToPray && (
         <>
-          <SectionDivider />
+          {(description || history) && <SectionDivider />}
           <CollapsibleSection
             title={t('catalog.howToPray')}
             content={howToPray}
