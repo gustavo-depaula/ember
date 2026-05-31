@@ -1,0 +1,9 @@
+# 26 de maio — SANTO AGOSTINHO, Apóstolo da Inglaterra
+
+AGOSTINHO era prior do mosteiro de Santo André no Célio, e foi designado por São Gregório o Grande chefe dos missionários que ele enviou à Inglaterra. Santo Agostinho e seus companheiros, tendo ouvido durante a viagem muitos relatos da barbárie e ferocidade dos pagãos ingleses, atemorizaram-se e desejaram voltar atrás. Mas São Gregório replicou: "Prossegui, em nome de Deus! Quanto maiores forem vossas penas, maior será vossa coroa. Que a graça de Deus Todo-Poderoso vos proteja, e me conceda ver o fruto de vosso labor na pátria celeste! Se não puder partilhar de vosso esforço, partilharei ainda da colheita, pois Deus sabe que não é a boa vontade que falta." A tropa de missionários prosseguiu em obediência.
+
+Desembarcando em Ebbsfleet, entre Sandwich e Ramsgate, encontraram o Rei Etelberto e seus thanes sob um grande carvalho em Minster, e anunciaram-lhe o Evangelho de Jesus Cristo. Êxito instantâneo e completo acompanhou sua pregação. No domingo de Pentecostes de 596, o Rei Etelberto foi batizado, e seu exemplo foi seguido pela maior parte de seus nobres e de seu povo. Gradualmente a Fé difundiu-se por toda parte, e Agostinho, como Legado Papal, partiu numa visitação da Britânia. Falhou em sua tentativa de alistar os bretões do ocidente na obra de seu apostolado, por causa de sua obstinada inveja e orgulho; mas seu êxito foi triunfante de sul a norte. Santo Agostinho faleceu após oito anos de labores evangélicos. A Igreja anglo-saxônica, que ele fundou, é ainda famosa por sua erudição, zelo e devoção à Santa Sé, enquanto seu calendário comemora nada menos que 300 Santos, metade dos quais de estirpe real.
+
+## Reflexão
+
+A obra de um apóstolo é a obra da destra de Deus. Ele muitas vezes escolhe instrumentos fracos para Seus mais poderosos desígnios. O mais seguro augúrio de êxito duradouro no labor missionário é a obediência aos superiores e a desconfiança de si mesmo.

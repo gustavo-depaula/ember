@@ -1,0 +1,11 @@
+# Domingo de Ramos
+
+![](../images/palm-sunday.webp)
+
+Lições sem fim, ao mesmo tempo sublimes e santificantes, poderiam ser deduzidas da entrada triunfal de Jesus Cristo em Jerusalém, celebrada pela Igreja neste dia; limitamo-nos, contudo, a considerar o acontecimento sob um único aspecto, a fim de dele extrair uma lição moral para a nossa instrução espiritual. Jesus Cristo entra em Jerusalém, e o povo logo improvisa um triunfo tanto mais nobre por não haver custado nem sangue nem lágrimas, e tanto mais tocante por ser espontâneo. A cidade inteira está em comoção, o caminho está juncado de ramos e coberto com as vestes dos circunstantes, cada boca ressoando aclamações, e bênçãos, e louvores. Jesus Cristo é proclamado o filho de Davi, o Rei da nação e o Messias. Antes que poucos dias se escoem, o mesmo povo que o aclamara clama agora por sua morte, amaldiçoa-O e insulta-O, e assiste à sua aviltante morte com diabólicos brados de triunfo.
+
+Assim mesmo passam as glórias do mundo, seus gozos, suas posses, a própria vida. Hoje no auge da grandeza, amanhã no mais profundo aviltamento; ainda ontem o ídolo de uma nação, hoje o objeto de seu ódio; ora cercado de prosperidade, e dentro de pouco, prostrado pelo infortúnio; um dia cheio de vida e vigor, e no seguinte entregue ao túmulo. Insensatos, pois, são os que dariam algum valor, ou se apegariam, a coisas perecíveis! Que amargos despertares não têm de esperar tais pobres iludidos, e que desgostos e lacrimosas decepções não criam para si mesmos! O cristão que coloca o alvo de suas esperanças e o centro de suas afeições em uma esfera mais elevada é ao mesmo tempo mais sábio e mais feliz. A prosperidade não o cega nem o embriaga, pois ele a sabe caprichosa e mutável; a fortuna adversa não o sobrepuja, porque para ela estava preparado e a esperava com serenidade. Só o imprevisto oferece algum fundamento para o temor; e para o cristão fiel não há nada que seja imprevisto.
+
+## Reflexão
+
+A recomendação dada pelo grande Apóstolo pode ser oportunamente trazida à memória: "E os que choram, como se não chorassem; e os que se alegram, como se não se alegrassem; e os que usam deste mundo, como se dele não usassem; porque passa a figura deste mundo."

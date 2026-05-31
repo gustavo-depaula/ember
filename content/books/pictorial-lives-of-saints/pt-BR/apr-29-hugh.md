@@ -1,0 +1,5 @@
+# SANTO HUGO, Abade de Cluny
+
+![](../images/apr-29-hugh.webp)
+
+SANTO HUGO era um príncipe aparentado com a soberana casa dos duques da Borgonha, e teve sua educação sob a tutela de sua piedosa Mãe, e sob os cuidados de Hugo, Bispo de Auxerre, seu tio-avô. Desde a infância dava-se extremamente à oração e à meditação, e sua vida era notavelmente inocente e santa. Certo dia, ao ouvir um relato da admirável santidade dos monges de Cluny, sob Santo Odilon, comoveu-se de tal modo que partiu naquele instante, e, dirigindo-se para lá, humildemente pediu o hábito monástico. Após um rigoroso noviciado, fez sua profissão em 1039, tendo dezesseis anos de idade. Sua virtude extraordinária, especialmente sua admirável humildade, obediência, caridade, doçura, prudência e zelo, granjearam-lhe o respeito de toda a comunidade; e, à morte de Santo Odilon, em 1049, embora tivesse apenas vinte e cinco anos, sucedeu no governo daquela grande abadia, que dirigiu por sessenta e dois anos. Recebeu à profissão religiosa Hugo, Duque da Borgonha, e morreu no dia vinte e nove de abril, em 1109, aos oitenta e cinco anos. Foi canonizado doze anos após sua morte pelo Papa Calixto II.
