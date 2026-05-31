@@ -91,7 +91,7 @@ export function ObligationBadges({
         accessibilityLabel={badges.map((b) => b.label).join(', ')}
         accessibilityHint={t('obligations.tapToLearnMore')}
       >
-        <XStack alignSelf="center" alignItems="center" gap="$md" paddingHorizontal="$md">
+        <XStack alignSelf="flex-start" gap="$md">
           <Text fontFamily="$heading" fontSize="$3" color="$colorBurgundy">
             ✠
           </Text>
