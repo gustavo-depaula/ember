@@ -324,6 +324,7 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 - **Active state:** Gold accent fill or stroke
 - **Inactive state:** Secondary text color
 - **Size:** 24px for navigation, 20px for inline, 32px for feature cards
+- **Bottom tab bar is the exception** — the five tabs use full-color *illuminated medallion* PNGs (`assets/nav-icons/`, masters in `nav-icons/source/`), not line icons, rendered inside `NativeTabs` with `renderingMode="original"` (so they keep their gold/bronze color instead of being tinted). Labels are Junicode via `NativeTabs labelStyle` using the font's **PostScript name** (`Junicode-Light`), not the `useFonts` key or the `$title` token. See the 2026-05-31 journal entry for the API details and gotchas.
 
 ---
 

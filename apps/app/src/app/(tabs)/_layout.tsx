@@ -31,7 +31,17 @@ export default function TabsLayout() {
   const hideTabBar = pathname?.includes('/pray/') ?? false
 
   return (
-    <NativeTabs tintColor={tintColor} minimizeBehavior="onScrollDown" hidden={hideTabBar}>
+    <NativeTabs
+      tintColor={tintColor}
+      // Junicode italic on every tab label. NOTE: a NATIVE tab-bar label resolves
+      // fontFamily via UIKit, which knows the font by its PostScript name (hyphen:
+      // 'Junicode-MediumItalic') — NOT the expo-font useFonts key (underscore:
+      // 'Junicode_MediumItalic'), which silently falls back to the system font.
+      // tintColor still owns the selected gold, so we set family + size only.
+      labelStyle={{ fontFamily: 'Junicode-Light', fontSize: 12 }}
+      minimizeBehavior="onScrollDown"
+      hidden={hideTabBar}
+    >
       {showPlayer ? (
         <NativeTabs.BottomAccessory>
           <NowPlayingBar />
@@ -42,34 +52,47 @@ export default function TabsLayout() {
           (today,explore,library,you); edge-to-edge so the Today flourish can
           bleed up into the notch — ScreenLayout's manual safe-area padding owns
           the insets. */}
+      {/* Full-color illuminated icons. renderingMode="original" is essential —
+          the default ("template") would tint these to a flat gold silhouette. */}
       <NativeTabs.Trigger name="(today)" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon sf={{ default: 'house', selected: 'house.fill' }} md="home" />
+        <NativeTabs.Trigger.Icon
+          src={require('../../../assets/nav-icons/today.png')}
+          renderingMode="original"
+        />
         <NativeTabs.Trigger.Label>{t('nav.today')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="(explore)" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon sf={{ default: 'safari', selected: 'safari.fill' }} md="explore" />
+        <NativeTabs.Trigger.Icon
+          src={require('../../../assets/nav-icons/explore.png')}
+          renderingMode="original"
+        />
         <NativeTabs.Trigger.Label>{t('nav.explore')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="(library)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
-          sf={{ default: 'books.vertical', selected: 'books.vertical.fill' }}
-          md="library_books"
+          src={require('../../../assets/nav-icons/library.png')}
+          renderingMode="original"
         />
         <NativeTabs.Trigger.Label>{t('nav.library')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="(you)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
-          sf={{ default: 'person.crop.circle', selected: 'person.crop.circle.fill' }}
-          md="person"
+          src={require('../../../assets/nav-icons/you.png')}
+          renderingMode="original"
         />
         <NativeTabs.Trigger.Label>{t('nav.you')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
+      {/* role="search" keeps the circular expand-into-search-field affordance;
+          the custom icon overrides the system glyph. */}
       <NativeTabs.Trigger name="search" role="search" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon sf="magnifyingglass" md="search" />
+        <NativeTabs.Trigger.Icon
+          src={require('../../../assets/nav-icons/search.png')}
+          renderingMode="original"
+        />
         <NativeTabs.Trigger.Label>{t('nav.searchPlaceholder')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
     </NativeTabs>
