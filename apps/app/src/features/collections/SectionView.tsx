@@ -1,30 +1,28 @@
 /**
- * Recursive section renderer for a Collection. Top-level usage:
+ * Flat, open renderer for a Collection — the "curated room". No accordion:
+ * every section is always visible, introduced by an illuminated marker (a gold
+ * fleuron + tracked caps + a thin rule) and a quiet intro line.
  *
- *   <SectionList collectionId={collectionId} sections={manifest.sections} ... />
- *
- * Each section renders as a tappable header (chevron + title + leaf-item
- * count) followed by, when expanded, its blocks. Blocks may be:
- *   - { kind: 'item' }    → <ItemCard>
- *   - { kind: 'section' } → nested <SectionView> (depth-2 cap, set by author)
- *   - { kind: 'prose' }   → not rendered in Phase 1 (selective prose ships
- *                           in Phase 3)
+ * Items render as self-contained jewel tiles (see CollectionTile): a section of
+ * readings becomes a horizontal cover shelf; a section of practices becomes a
+ * two-column grid of square cards. Any non-item blocks (prose, nested section,
+ * editorial todo) stack vertically beneath.
  */
 
-import { ChevronDown, ChevronRight } from 'lucide-react-native'
-import { Pressable, type View } from 'react-native'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
 import { ProseBlock as PrayerProseBlock } from '@/components/prayer'
+import { Typography } from '@/components/typography'
 import type {
   CollectionBlock,
+  CollectionItem,
   CollectionProseBody,
   CollectionSection,
 } from '@/content/manifestTypes'
+import { CardRow } from '@/features/explore/CardRow'
 import { localizeContent } from '@/lib/i18n'
 
-import { collapseKey, useCollapseStore } from './collapseStore'
-import { ItemCard } from './ItemCard'
+import { CollectionTile } from './CollectionTile'
 import { TodoCard } from './TodoCard'
 
 export function CollectionProse({ prose }: { prose: CollectionProseBody }) {
@@ -33,38 +31,19 @@ export function CollectionProse({ prose }: { prose: CollectionProseBody }) {
   return <PrayerProseBlock text={{ primary: text }} />
 }
 
-function countLeafItems(blocks: CollectionBlock[] | undefined): number {
-  if (!blocks) return 0
-  let n = 0
-  for (const b of blocks) {
-    if (b.kind === 'item') n++
-    else if (b.kind === 'section') n += countLeafItems(b.blocks)
-  }
-  return n
-}
+type ItemBlock = { kind: 'item' } & CollectionItem
 
 export function SectionList({
   collectionId,
   sections,
-  onSeeAlsoTap,
-  registerItemRef,
 }: {
   collectionId: string
   sections: CollectionSection[]
-  onSeeAlsoTap: (ref: string) => void
-  registerItemRef?: (ref: string, node: View | null) => void
 }) {
   return (
-    <YStack gap="$md">
+    <YStack gap="$xl">
       {sections.map((section) => (
-        <SectionView
-          key={section.id}
-          collectionId={collectionId}
-          section={section}
-          depth={0}
-          onSeeAlsoTap={onSeeAlsoTap}
-          registerItemRef={registerItemRef}
-        />
+        <SectionView key={section.id} collectionId={collectionId} section={section} depth={0} />
       ))}
     </YStack>
   )
@@ -74,69 +53,65 @@ export function SectionView({
   collectionId,
   section,
   depth,
-  onSeeAlsoTap,
-  registerItemRef,
 }: {
   collectionId: string
   section: CollectionSection
   depth: number
-  onSeeAlsoTap: (ref: string) => void
-  registerItemRef?: (ref: string, node: View | null) => void
 }) {
-  const theme = useTheme()
-  const key = collapseKey(collectionId, section.id)
-  const defaultCollapsed = section.defaultCollapsed ?? false
-  const collapsed = useCollapseStore((s) => s.isCollapsed(key, defaultCollapsed))
-  const toggle = useCollapseStore((s) => s.toggle)
-
-  const titleSize = depth === 0 ? '$4' : '$3'
-  const itemCount = countLeafItems(section.blocks)
+  const itemBlocks = section.blocks.filter((b): b is ItemBlock => b.kind === 'item')
+  const otherBlocks = section.blocks.filter((b) => b.kind !== 'item')
 
   return (
-    <YStack gap="$sm" paddingLeft={depth > 0 ? '$md' : 0}>
-      <Pressable
-        onPress={() => toggle(key, defaultCollapsed)}
-        accessibilityRole="button"
-        accessibilityState={{ expanded: !collapsed }}
-        accessibilityLabel={localizeContent(section.title)}
-      >
-        <XStack alignItems="center" gap="$sm" paddingVertical="$xs">
-          {collapsed ? (
-            <ChevronRight size={18} color={theme.colorSecondary?.val} />
-          ) : (
-            <ChevronDown size={18} color={theme.colorSecondary?.val} />
-          )}
-          <Text flex={1} fontFamily="$heading" fontSize={titleSize} color="$color">
-            {localizeContent(section.title)}
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-            ({itemCount})
-          </Text>
-        </XStack>
-      </Pressable>
-      {!collapsed && (
+    <YStack gap="$md" paddingLeft={depth > 0 ? '$md' : 0}>
+      <SectionMarker title={localizeContent(section.title)} depth={depth} />
+
+      {section.description && (
+        <Typography variant="interface" tone="muted" fontSize={15} fontStyle="italic">
+          {localizeContent(section.description.body)}
+        </Typography>
+      )}
+
+      {itemBlocks.length > 0 && (
+        <CardRow>
+          {itemBlocks.map((b) => (
+            <CollectionTile key={b.ref} item={b} width={140} aspectRatio={10 / 12} />
+          ))}
+        </CardRow>
+      )}
+
+      {otherBlocks.length > 0 && (
         <YStack gap="$sm">
-          {section.description && (
-            <YStack paddingBottom="$xs">
-              <CollectionProse prose={section.description} />
-            </YStack>
-          )}
-          <YStack gap="$xs">
-            {section.blocks.map((block, idx) => (
-              <BlockView
-                // biome-ignore lint/suspicious/noArrayIndexKey: blocks are positional; refs may repeat
-                key={idx}
-                collectionId={collectionId}
-                block={block}
-                depth={depth}
-                onSeeAlsoTap={onSeeAlsoTap}
-                registerItemRef={registerItemRef}
-              />
-            ))}
-          </YStack>
+          {otherBlocks.map((block, idx) => (
+            <BlockView
+              // biome-ignore lint/suspicious/noArrayIndexKey: positional editorial blocks
+              key={idx}
+              collectionId={collectionId}
+              block={block}
+              depth={depth}
+            />
+          ))}
         </YStack>
       )}
     </YStack>
+  )
+}
+
+function SectionMarker({ title, depth }: { title: string; depth: number }) {
+  if (depth > 0) {
+    return (
+      <Typography variant="label" fontSize="$2" paddingTop="$sm">
+        {title}
+      </Typography>
+    )
+  }
+  return (
+    <XStack alignItems="center" gap="$sm" paddingTop="$sm">
+      <Typography fontSize="$1">✦</Typography>
+      <Typography variant="screen-title" fontSize="$4" textAlign="left">
+        {title}
+      </Typography>
+      <YStack flex={1} height={1} backgroundColor="$accentSubtle" />
+    </XStack>
   )
 }
 
@@ -144,33 +119,15 @@ function BlockView({
   collectionId,
   block,
   depth,
-  onSeeAlsoTap,
-  registerItemRef,
 }: {
   collectionId: string
   block: CollectionBlock
   depth: number
-  onSeeAlsoTap: (ref: string) => void
-  registerItemRef?: (ref: string, node: View | null) => void
 }) {
-  if (block.kind === 'item') {
-    return (
-      <YStack ref={(node) => registerItemRef?.(block.ref, node as unknown as View | null)}>
-        <ItemCard item={block} onSeeAlsoTap={onSeeAlsoTap} />
-      </YStack>
-    )
-  }
   if (block.kind === 'section') {
-    return (
-      <SectionView
-        collectionId={collectionId}
-        section={block}
-        depth={depth + 1}
-        onSeeAlsoTap={onSeeAlsoTap}
-        registerItemRef={registerItemRef}
-      />
-    )
+    return <SectionView collectionId={collectionId} section={block} depth={depth + 1} />
   }
+
   if (block.kind === 'prose') {
     return (
       <YStack paddingVertical="$xs">
@@ -178,8 +135,10 @@ function BlockView({
       </YStack>
     )
   }
+
   if (block.kind === 'todo') {
     return <TodoCard todo={block} />
   }
+
   return null
 }
