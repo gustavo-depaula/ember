@@ -298,8 +298,20 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 
 ### Animations (Reanimated + Moti)
 - Smooth, gentle transitions (200-300ms)
-- Fade in/out for screen transitions
 - No bouncy or playful animations — everything should feel measured and calm
+- **Screen transitions** carry hierarchy — never a blanket fade:
+  - **Drill-down (new page)** → native platform push (slide-from-right +
+    parallax + interactive swipe-back). This is the default; the stacks set no
+    `animation` override (only `contentStyle` to avoid a white flash mid-slide).
+  - **Hero → detail** → iOS zoom-morph via `ZoomLink` (`Link.AppleZoom`): the
+    tapped cover/tile/card morphs into its detail screen. Used for collection
+    tiles/cards, book covers, and saint cards. Child must be a single pressable
+    that forwards onPress (e.g. `AnimatedPressable`).
+  - **Player / editor** → `presentation: 'fullScreenModal'` (slides up, covers
+    the tab bar, swipe-down to dismiss) — audio player, custody editor, saint
+    viewer. Zoom morphs pair cleanly with this.
+  - **Tab switches** → handled natively by `NativeTabs`; the stack does not
+    animate them.
 - Checkbox toggle: subtle scale + color fill animation (Moti `AnimatePresence`)
 - Green wall cells: gentle fade-in when data loads (Moti `MotiView` with staggered delay)
 - Use Moti's declarative API for simple animations, Reanimated worklets for gesture-driven or complex ones

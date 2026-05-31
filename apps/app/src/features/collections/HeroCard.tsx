@@ -1,8 +1,7 @@
-import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, ZoomLink } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
@@ -20,7 +19,6 @@ export function HeroCard({
   collectionId: string
   taglineKey: string
 }) {
-  const router = useRouter()
   const { t } = useTranslation()
   const theme = useTheme()
   const entry = getEntry(collectionId) as CatalogEntry | undefined
@@ -29,55 +27,56 @@ export function HeroCard({
   const icon = (entry as { icon?: string }).icon ?? 'prayer'
 
   return (
-    <AnimatedPressable
-      onPress={() =>
-        router.push({
-          pathname: '/browse/[collectionId]',
-          params: { collectionId: bareId(collectionId) },
-        })
-      }
-      accessibilityRole="link"
-      accessibilityLabel={localizeContent(entry.name ?? {})}
+    <ZoomLink
+      href={{
+        pathname: '/browse/[collectionId]',
+        params: { collectionId: bareId(collectionId) },
+      }}
     >
-      <YStack
-        backgroundColor="$accentSubtle"
-        borderRadius="$lg"
-        borderWidth={1}
-        borderColor={theme.accent?.val}
-        paddingHorizontal="$lg"
-        paddingVertical="$lg"
-        gap="$sm"
+      <AnimatedPressable
+        accessibilityRole="link"
+        accessibilityLabel={localizeContent(entry.name ?? {})}
       >
-        <Text
-          fontFamily="$heading"
-          fontSize="$1"
-          color="$accent"
-          letterSpacing={2}
-          textTransform="uppercase"
+        <YStack
+          backgroundColor="$accentSubtle"
+          borderRadius="$lg"
+          borderWidth={1}
+          borderColor={theme.accent?.val}
+          paddingHorizontal="$lg"
+          paddingVertical="$lg"
+          gap="$sm"
         >
-          {t('pray.todayInChurch')}
-        </Text>
-        <YStack flexDirection="row" alignItems="center" gap="$md">
-          <YStack
-            width={48}
-            height={48}
-            alignItems="center"
-            justifyContent="center"
-            backgroundColor="$background"
-            borderRadius="$md"
+          <Text
+            fontFamily="$heading"
+            fontSize="$1"
+            color="$accent"
+            letterSpacing={2}
+            textTransform="uppercase"
           >
-            <PracticeIcon name={icon} size={28} />
-          </YStack>
-          <YStack flex={1} gap={2}>
-            <Text fontFamily="$heading" fontSize="$5" color="$color">
-              {localizeContent(entry.name ?? {})}
-            </Text>
-            <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
-              {t(taglineKey)}
-            </Text>
+            {t('pray.todayInChurch')}
+          </Text>
+          <YStack flexDirection="row" alignItems="center" gap="$md">
+            <YStack
+              width={48}
+              height={48}
+              alignItems="center"
+              justifyContent="center"
+              backgroundColor="$background"
+              borderRadius="$md"
+            >
+              <PracticeIcon name={icon} size={28} />
+            </YStack>
+            <YStack flex={1} gap={2}>
+              <Text fontFamily="$heading" fontSize="$5" color="$color">
+                {localizeContent(entry.name ?? {})}
+              </Text>
+              <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" fontStyle="italic">
+                {t(taglineKey)}
+              </Text>
+            </YStack>
           </YStack>
         </YStack>
-      </YStack>
-    </AnimatedPressable>
+      </AnimatedPressable>
+    </ZoomLink>
   )
 }

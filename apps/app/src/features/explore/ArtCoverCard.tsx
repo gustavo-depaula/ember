@@ -1,8 +1,9 @@
 import { Image, type ImageSource } from 'expo-image'
+import type { Href } from 'expo-router'
 import { StyleSheet } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, ZoomLink } from '@/components'
 import { type BlockTone, blockInk } from './bgColor'
 
 /**
@@ -11,12 +12,17 @@ import { type BlockTone, blockInk } from './bgColor'
  * corners). With art it's the painting; without, an illuminated versal (the
  * title's initial) on a jewel-toned block, so an unsourced row still reads as
  * deliberate. Title + subtitle sit beneath.
+ *
+ * Pass `href` to navigate with an iOS zoom-morph (the cover morphs into its
+ * detail screen); `onPress` then fires alongside the press (e.g. to warm a
+ * manifest). Without `href`, `onPress` handles navigation directly.
  */
 export function ArtCoverCard({
   title,
   subtitle,
   image,
   tone,
+  href,
   onPress,
   size = 150,
   aspectRatio = 1,
@@ -27,7 +33,8 @@ export function ArtCoverCard({
   subtitle?: string
   image?: ImageSource
   tone: BlockTone
-  onPress: () => void
+  href?: Href
+  onPress?: () => void
   size?: number
   /** Height = width × aspectRatio. 1 = square; ~1.5 = book. */
   aspectRatio?: number
@@ -36,8 +43,12 @@ export function ArtCoverCard({
 }) {
   const initial = Array.from(title.trim())[0]?.toUpperCase() ?? '✠'
   const height = Math.round(size * aspectRatio)
-  return (
-    <AnimatedPressable onPress={onPress} accessibilityRole="link" accessibilityLabel={title}>
+  const card = (
+    <AnimatedPressable
+      onPress={href ? undefined : onPress}
+      accessibilityRole="link"
+      accessibilityLabel={title}
+    >
       <YStack width={size} gap="$sm">
         <YStack
           width={size}
@@ -104,4 +115,11 @@ export function ArtCoverCard({
       </YStack>
     </AnimatedPressable>
   )
+  if (href)
+    return (
+      <ZoomLink href={href} onPress={onPress}>
+        {card}
+      </ZoomLink>
+    )
+  return card
 }

@@ -3,6 +3,7 @@ import { useCallback } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import { Text, View } from 'tamagui'
+import { ZoomLink } from '@/components'
 import { type Saint, saints } from '../data/saints'
 
 const gap = 12
@@ -11,57 +12,54 @@ const numColumns = 2
 function GridItem({
   saint,
   itemWidth,
-  onPress,
+  index,
   label,
 }: {
   saint: Saint
   itemWidth: number
-  onPress: () => void
+  index: number
   label: string
 }) {
   const itemHeight = itemWidth * 1.5
 
   return (
-    <Pressable
-      onPress={onPress}
-      style={styles.gridItem}
-      accessibilityRole="button"
-      accessibilityLabel={label}
-    >
-      <View
-        width={itemWidth}
-        height={itemHeight}
-        borderRadius="$md"
-        overflow="hidden"
-        borderWidth={1.5}
-        borderColor="$accent"
-      >
-        <Image source={saint.image} style={styles.image} contentFit="cover" />
+    <ZoomLink href={{ pathname: '/saints/[index]', params: { index } }}>
+      <Pressable style={styles.gridItem} accessibilityRole="link" accessibilityLabel={label}>
         <View
-          position="absolute"
-          bottom={0}
-          left={0}
-          right={0}
-          paddingVertical={4}
-          paddingHorizontal={6}
-          backgroundColor="rgba(0,0,0,0.5)"
+          width={itemWidth}
+          height={itemHeight}
+          borderRadius="$md"
+          overflow="hidden"
+          borderWidth={1.5}
+          borderColor="$accent"
         >
-          <Text
-            fontFamily="$heading"
-            fontSize="$1"
-            color="#F5F0E0"
-            textAlign="center"
-            numberOfLines={1}
+          <Image source={saint.image} style={styles.image} contentFit="cover" />
+          <View
+            position="absolute"
+            bottom={0}
+            left={0}
+            right={0}
+            paddingVertical={4}
+            paddingHorizontal={6}
+            backgroundColor="rgba(0,0,0,0.5)"
           >
-            {label}
-          </Text>
+            <Text
+              fontFamily="$heading"
+              fontSize="$1"
+              color="#F5F0E0"
+              textAlign="center"
+              numberOfLines={1}
+            >
+              {label}
+            </Text>
+          </View>
         </View>
-      </View>
-    </Pressable>
+      </Pressable>
+    </ZoomLink>
   )
 }
 
-export function SaintCardGrid({ onSelectSaint }: { onSelectSaint: (index: number) => void }) {
+export function SaintCardGrid() {
   const { t } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
   const contentWidth = Math.min(screenWidth - 48, 640)
@@ -69,14 +67,9 @@ export function SaintCardGrid({ onSelectSaint }: { onSelectSaint: (index: number
 
   const renderItem = useCallback(
     ({ item, index }: { item: Saint; index: number }) => (
-      <GridItem
-        saint={item}
-        itemWidth={itemWidth}
-        onPress={() => onSelectSaint(index)}
-        label={t(item.nameKey)}
-      />
+      <GridItem saint={item} itemWidth={itemWidth} index={index} label={t(item.nameKey)} />
     ),
-    [itemWidth, onSelectSaint, t],
+    [itemWidth, t],
   )
 
   const keyExtractor = useCallback((item: Saint) => item.id, [])

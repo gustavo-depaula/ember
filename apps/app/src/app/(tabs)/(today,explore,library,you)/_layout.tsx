@@ -21,8 +21,8 @@ export default function TabStackLayout() {
     <Stack
       screenOptions={{
         headerShown: false,
-        animation: 'fade',
-        animationDuration: 200,
+        // Native push (slide-from-right + parallax + interactive swipe-back).
+        // contentStyle paints the background so no white flash peeks mid-slide.
         contentStyle: { backgroundColor: theme.background?.val },
       }}
     />

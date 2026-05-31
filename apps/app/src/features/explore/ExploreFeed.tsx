@@ -1,8 +1,9 @@
+import type { Href } from 'expo-router'
 import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
-import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
+import { bareId, ensureManifestBody, getEntriesByKind, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
@@ -74,10 +75,25 @@ export function ExploreFeed() {
     [catalogVersion, featured.traditionRow],
   )
 
-  const goBook = (id: string) =>
-    router.push({ pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } })
-  const goCollection = (id: string) =>
-    router.push({ pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } })
+  const bookHref = (id: string): Href => ({
+    pathname: '/browse/book/[bookId]',
+    params: { bookId: bareId(id) },
+  })
+  const collectionHref = (id: string): Href => ({
+    pathname: '/browse/[collectionId]',
+    params: { collectionId: bareId(id) },
+  })
+  // Warm the manifest while the navigation transition runs, so the collection
+  // screen has its sections ready instead of waiting on the background warmer.
+  const warmCollection = (id: string) => {
+    const entry = getEntry(id)
+    if (entry) void ensureManifestBody(entry.hash).catch(() => {})
+  }
+  const goBook = (id: string) => router.push(bookHref(id))
+  const goCollection = (id: string) => {
+    warmCollection(id)
+    router.push(collectionHref(id))
+  }
 
   const blocks: FeatureBlockData[] = []
 
@@ -169,7 +185,7 @@ export function ExploreFeed() {
               size={118}
               aspectRatio={1.5}
               radius={4}
-              onPress={() => goBook(id)}
+              href={bookHref(id)}
             />
           ))}
         </ArtCarousel>
@@ -191,7 +207,8 @@ export function ExploreFeed() {
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
               tone={toneByIndex(i + 2)}
-              onPress={() => goCollection(id)}
+              href={collectionHref(id)}
+              onPress={() => warmCollection(id)}
             />
           ))}
         </ArtCarousel>
@@ -205,7 +222,8 @@ export function ExploreFeed() {
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
               tone={toneByIndex(i + 5)}
-              onPress={() => goCollection(id)}
+              href={collectionHref(id)}
+              onPress={() => warmCollection(id)}
             />
           ))}
         </ArtCarousel>

@@ -9,6 +9,13 @@ export default function SaintsLayout() {
         headerShown: false,
         contentStyle: { backgroundColor: theme.background.val },
       }}
-    />
+    >
+      {/* Full-cover card viewer; fullScreenModal lets the grid card zoom-morph
+          in (Link.AppleZoom) and keeps swipe-down-to-dismiss. */}
+      <Stack.Screen
+        name="[index]"
+        options={{ presentation: 'fullScreenModal', gestureEnabled: true }}
+      />
+    </Stack>
   )
 }
