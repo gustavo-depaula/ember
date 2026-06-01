@@ -52,24 +52,24 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "prayer-before-crucifix"
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Pause for the Litany of the Sacred Heart — pinned in the *Go Deeper* section of today's collection. Pray it now if you have the time; the Act of Reparation that follows belongs with it.",
-				"pt-BR": "Pause para a Ladainha do Sagrado Coração — fixada na seção *Aprofundar* da coleção de hoje. Reze-a agora se tiver tempo; o Ato de Reparação que segue lhe pertence."
-			}
+			"ref": "prayer-before-crucifix",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
 		},
 		{
 			"type": "prayer",
-			"ref": "act-of-reparation"
+			"ref": "litany-sacred-heart",
+			"defaultOpen": true
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "act-of-reparation",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"

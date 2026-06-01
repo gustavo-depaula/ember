@@ -12,14 +12,16 @@ export function CollapsiblePrayer<T>({
   count,
   sections,
   renderSection,
+  defaultOpen,
 }: {
   title: BilingualText
   text: BilingualText
   count?: number
   sections?: T[]
   renderSection?: (section: T, index: number) => React.ReactNode
+  defaultOpen?: boolean
 }) {
-  const [expanded, setExpanded] = useState(false)
+  const [expanded, setExpanded] = useState(defaultOpen ?? false)
   const theme = useTheme()
 
   return (

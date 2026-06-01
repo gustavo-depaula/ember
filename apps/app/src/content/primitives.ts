@@ -185,7 +185,13 @@ export type ContainerBehavior =
     }
   | { kind: 'options'; label: BilingualText; pickerStyle?: PickerStyle; options: ContainerOption[] }
   | { kind: 'color-scope'; color: LiturgicalColor }
-  | { kind: 'prayer'; title: BilingualText; text: BilingualText; count?: number }
+  | {
+      kind: 'prayer'
+      title: BilingualText
+      text: BilingualText
+      count?: number
+      defaultOpen?: boolean
+    }
   | { kind: 'liturgical-prayer'; speaker: 'priest' | 'people' | 'all'; text: BilingualText }
   | {
       kind: 'choice-rich-text'

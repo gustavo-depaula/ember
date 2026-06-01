@@ -191,6 +191,7 @@ async function preprocessSection(
             title: section.title,
             text: section.text,
             count: section.count,
+            defaultOpen: section.defaultOpen,
           },
           children,
         }

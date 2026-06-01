@@ -182,6 +182,7 @@ function renderContainer(
           title={behavior.title}
           text={behavior.text}
           count={behavior.count}
+          defaultOpen={behavior.defaultOpen}
           sections={children}
           renderSection={renderChild}
         />
