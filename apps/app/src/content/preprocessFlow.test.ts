@@ -3,8 +3,17 @@
 
 import type { RenderedSection } from '@ember/content-engine'
 import { QueryClient } from '@tanstack/react-query'
-import { describe, expect, it } from 'vitest'
+import { describe, expect, it, vi } from 'vitest'
+import { registerSource, unregisterSource } from '@/sources'
 import { type PreprocessContext, preprocessFlow } from './preprocessFlow'
+
+// Include resolution touches the SQLite-backed cache, which isn't initialized
+// in unit tests. Stub the repo so source fetches run and we observe their
+// inputs/outputs directly (date-in-cache-key still routes through React Query).
+vi.mock('@/db/repositories/externalContent', () => ({
+  getExternalContent: async () => undefined,
+  putExternalContent: async () => {},
+}))
 
 function ctx(): PreprocessContext {
   return {
@@ -176,6 +185,74 @@ describe('preprocessFlow — primitive mapping', () => {
         ctx(),
       )
       expect(primitive).toMatchObject({ type: 'gallery', display: 'carousel' })
+    })
+  })
+
+  describe('include resolution', () => {
+    it('degrades a failing include to a placeholder without breaking siblings', async () => {
+      registerSource({
+        id: 'test/boom',
+        version: '1',
+        prefsDeps: [],
+        fetch: async () => {
+          throw new Error('boom')
+        },
+      })
+      try {
+        const result = await preprocessFlow(
+          [{ type: 'include', ref: 'test/boom' }, { type: 'divider' }],
+          ctx(),
+        )
+        expect(result).toHaveLength(2)
+        expect(result[0]).toMatchObject({ type: 'text', style: 'italic' })
+        expect(result[1]).toEqual({ type: 'divider' })
+      } finally {
+        unregisterSource('test/boom')
+      }
+    })
+
+    it('stamps the logical date into params for dateScoped sources', async () => {
+      const seen: Array<unknown> = []
+      registerSource({
+        id: 'test/dated',
+        version: '1',
+        prefsDeps: [],
+        dateScoped: true,
+        fetch: async (c) => {
+          seen.push(c.params.date)
+          return { type: 'text', text: { primary: String(c.params.date) } }
+        },
+      })
+      try {
+        const c = ctx()
+        c.date = new Date(2026, 4, 31) // 2026-05-31 local
+        const [primitive] = await preprocessFlow([{ type: 'include', ref: 'test/dated' }], c)
+        expect(primitive).toMatchObject({ type: 'text', text: { primary: '2026-05-31' } })
+        expect(seen).toEqual(['2026-05-31'])
+      } finally {
+        unregisterSource('test/dated')
+      }
+    })
+
+    it('leaves params untouched for non-dateScoped sources', async () => {
+      let received: Record<string, unknown> = {}
+      registerSource({
+        id: 'test/plain',
+        version: '1',
+        prefsDeps: [],
+        fetch: async (c) => {
+          received = c.params
+          return { type: 'divider' }
+        },
+      })
+      try {
+        const c = ctx()
+        c.date = new Date(2026, 4, 31)
+        await preprocessFlow([{ type: 'include', ref: 'test/plain', params: { x: 1 } }], c)
+        expect(received).toEqual({ x: 1 })
+      } finally {
+        unregisterSource('test/plain')
+      }
     })
   })
 

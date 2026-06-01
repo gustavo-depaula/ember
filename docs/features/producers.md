@@ -175,8 +175,8 @@ Internally calls `massOfSource.load(ctx)` (existing, in `packages/mass-of/src/so
 | `producer/mass-flow` | `packages/mass-of` + new code | Spec'd above. Consolidates the Mass flow. |
 | `producer/ccc-chapter` | vatican.va CCC | First external book. Replaces `apps/app/src/lib/catechism.ts` + `app/catechism/index.tsx`. |
 | `producer/breviary-of-the-day` | iBreviary (https://www.ibreviary.org/en/tools/ibreviary-on-your-website.html) | Friendly integration — lang/rite/hour parameters. |
-| `producer/gospel-of-the-day` | Catholic readings API (TBD source) | Composable example. |
-| `producer/word-of-the-pope` | vaticannews.va word-of-the-day | Composable example. |
+| `producer/gospel-of-the-day` | vaticannews.va word-of-the-day | ✅ **Shipped** — `apps/app/src/sources/vatican-news/`. Today's Gospel (citation + passage) from Vatican News on native; **falls back to the offline `mass-of` Gospel** on web (CORS) or any fetch failure, so the tab is always populated; `dateScoped`. |
+| `producer/word-of-the-pope` | vaticannews.va word-of-the-day | ✅ **Shipped** — `apps/app/src/sources/vatican-news/`. Imports only the "words of the Popes" reflection; native-only + web text fallback; `dateScoped`. Shares the daily-page fetch with `gospel-of-the-day` (in-flight dedup). Both surface as tabs inside the `gospel-of-the-day` practice. |
 | `producer/encyclical-section` | vatican.va archives | Shared producer package with `ccc-chapter`. |
 | `producer/lirio-chapter` | liriocatolico.com.br | Partnership-gated. |
 | `producer/escriva-chapter` | escrivaworks.org | Legal-gated. |

@@ -1,67 +1,12 @@
-import type { ContentLanguage } from '@ember/content-engine'
-import { getDataSource } from '@ember/content-engine'
-import type { Celebration, DayLiturgies, Formulary } from '@ember/mass-of'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
+import { Platform } from 'react-native'
 import { useToday } from '@/hooks/useToday'
+import { fetchVaticanGospelText, narrowLang } from '@/sources/vatican-news'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { emberLang, type GospelOfDay, loadGospelOfDay } from './gospelOfDay'
 
-type EmberLang = 'la' | 'es' | 'en' | 'pt-BR' | 'it' | 'fr' | 'de'
-
-function pickGospelText(formulary: Formulary, lang: EmberLang): string | undefined {
-  const readings = formulary.readings as Record<string, unknown> | undefined
-  if (!readings) return undefined
-  const cycleKeys = Object.keys(readings)
-  for (const cycle of cycleKeys) {
-    const cycleEntry = readings[cycle] as Record<string, unknown> | undefined
-    const gospel = cycleEntry?.gospel as
-      | {
-          body?: {
-            plain?: Record<string, string>
-            lines?: Record<string, unknown>
-          }
-          alternatives?: Array<{
-            body?: { plain?: Record<string, string> }
-          }>
-        }
-      | undefined
-    if (!gospel) continue
-    const direct = gospel.body?.plain?.[lang]
-    if (typeof direct === 'string' && direct.trim()) return direct
-    const alt = gospel.alternatives?.[0]?.body?.plain?.[lang]
-    if (typeof alt === 'string' && alt.trim()) return alt
-  }
-  return undefined
-}
-
-function pickGospelCitation(formulary: Formulary, lang: EmberLang): string | undefined {
-  const readings = formulary.readings as Record<string, unknown> | undefined
-  if (!readings) return undefined
-  for (const cycle of Object.keys(readings)) {
-    const gospel = (readings[cycle] as Record<string, unknown> | undefined)?.gospel as
-      | {
-          citation?: Record<string, string>
-          alternatives?: Array<{ citation?: Record<string, string> }>
-        }
-      | undefined
-    if (!gospel) continue
-    const direct = gospel.citation?.[lang]
-    if (typeof direct === 'string' && direct.trim()) return direct
-    const alt = gospel.alternatives?.[0]?.citation?.[lang]
-    if (typeof alt === 'string' && alt.trim()) return alt
-  }
-  return undefined
-}
-
-function emberLang(lang: ContentLanguage): EmberLang {
-  return (lang === 'en-US' ? 'en' : lang) as EmberLang
-}
-
-export type GospelOfTheDay = {
-  text: string
-  citation?: string
-  celebration?: Celebration
-}
+export type GospelOfTheDay = GospelOfDay
 
 /**
  * Fetch today's Gospel via the registered `mass-of` DataSource — the
@@ -82,29 +27,13 @@ export function useGospelOfTheDay(): {
   const query = useQuery({
     queryKey: ['gospel-of-the-day', dateKey, lang],
     queryFn: async (): Promise<GospelOfTheDay | null> => {
-      const source = getDataSource('mass-of')
-      if (!source) return null
-      const day = (await source.load(
-        { calendar: 'of' },
-        {
-          fetchOwnAsset: async () => undefined,
-          localize: (text) => ({
-            primary:
-              typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),
-          }),
-          t: (key) => key,
-          now: () => today,
-        },
-      )) as DayLiturgies | undefined
-      const celebration = day?.celebrations?.[0]
-      if (!celebration) return null
-      const text = pickGospelText(celebration.primary, lang)
-      if (!text) return null
-      return {
-        text,
-        citation: pickGospelCitation(celebration.primary, lang),
-        celebration,
+      // Prefer Vatican News (native) so this card matches the practice's
+      // Gospel tab; fall back to the offline mass-of Gospel on web/failure.
+      if (Platform.OS !== 'web') {
+        const vn = await fetchVaticanGospelText(narrowLang(contentLanguage), today)
+        if (vn) return vn
       }
+      return (await loadGospelOfDay(today, lang)) ?? null
     },
     staleTime: 60 * 60 * 1000,
     gcTime: 24 * 60 * 60 * 1000,

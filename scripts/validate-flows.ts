@@ -57,6 +57,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'holy-card',
   'fragment',
   'call',
+  'include',
   'choice-rich-text',
   'liturgical-color',
   'liturgical-color-scope',
@@ -96,6 +97,13 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
           message: `${obj.type}.ref="${ref}" — no fragment with that id is defined in this flow`,
         })
       }
+    }
+    if (obj.type === 'include' && typeof obj.ref !== 'string') {
+      issues.push({
+        file: ctx.file,
+        path,
+        message: `include missing string \`ref\` field`,
+      })
     }
     if (obj.type === 'choice-rich-text') {
       if (typeof obj.slot !== 'string') {

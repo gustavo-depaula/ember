@@ -1,38 +1,39 @@
 {
-  "load": [
-    {
-      "as": "day",
-      "source": "mass-of",
-      "calendar": "of"
-    }
-  ],
   "sections": [
     {
       "type": "select",
-      "from": "day.celebrations",
-      "as": "celebration",
-      "idFrom": "id",
-      "labelFrom": "title",
+      "as": "view",
       "label": {
-        "en-US": "Liturgy",
-        "pt-BR": "Liturgia"
+        "en-US": "Gospel of the Day",
+        "pt-BR": "Evangelho do Dia"
       },
-      "hideIfSingle": true,
-      "body": [
+      "default": "gospel",
+      "options": [
         {
-          "type": "heading",
-          "text": {
-            "en-US": "Gospel of the Day",
-            "pt-BR": "Evangelho do Dia"
-          }
-        },
-        {
-          "type": "choice-rich-text",
+          "id": "gospel",
           "label": {
             "en-US": "Gospel",
             "pt-BR": "Evangelho"
           },
-          "slot": "readings.default.gospel"
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/gospel-of-the-day"
+            }
+          ]
+        },
+        {
+          "id": "pope",
+          "label": {
+            "en-US": "Word of the Pope",
+            "pt-BR": "Palavra do Papa"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/word-of-the-pope"
+            }
+          ]
         }
       ]
     }

@@ -18,6 +18,30 @@ export type PreprocessContext = {
   programDay?: number
 }
 
+// Local YYYY-MM-DD for the logical day. Date-scoped sources fold this into
+// their cache key so each calendar day fetches fresh and past days stay cached.
+function ymd(date: Date): string {
+  const m = String(date.getMonth() + 1).padStart(2, '0')
+  const d = String(date.getDate()).padStart(2, '0')
+  return `${date.getFullYear()}-${m}-${d}`
+}
+
+function scopedParams(
+  source: ContentSource,
+  params: Record<string, unknown>,
+  date: Date,
+): Record<string, unknown> {
+  return source.dateScoped ? { ...params, date: ymd(date) } : params
+}
+
+function includeErrorPlaceholder(lang: string): Primitive {
+  const message =
+    lang === 'pt-BR'
+      ? 'Não foi possível carregar esta seção. Reabra para tentar novamente.'
+      : 'Couldn’t load this section. Reopen to try again.'
+  return { type: 'text', text: { primary: message }, style: 'italic' }
+}
+
 export async function preprocessFlow(
   sections: RenderedSection[],
   ctx: PreprocessContext,
@@ -34,7 +58,16 @@ async function preprocessSection(
 ): Promise<Primitive | Primitive[]> {
   switch (section.type) {
     case 'include':
-      return fetchFromSource(section.ref, section.params ?? {}, ctx, accessor)
+      // A failing external producer must not nuke the whole practice (sibling
+      // sections resolve via Promise.all). Degrade just this node to a
+      // placeholder; the source threw rather than caching, so reopening
+      // retries. Scoped to `include` — local section types shouldn't be
+      // silently swallowed.
+      try {
+        return await fetchFromSource(section.ref, section.params ?? {}, ctx, accessor)
+      } catch {
+        return includeErrorPlaceholder(ctx.prefs.lang)
+      }
 
     case 'rubric':
       return { type: 'rubric', text: section.label }
@@ -298,7 +331,7 @@ async function preprocessSection(
       // mapping here or the engine will silently dead-end.
       const _exhaustive: never = section
       throw new Error(
-        `preprocessFlow: unhandled section type ${(section as { type: string }).type}`,
+        `preprocessFlow: unhandled section type ${(_exhaustive as { type: string }).type}`,
       )
     }
   }
@@ -319,8 +352,9 @@ function bilingualLines(text: BilingualText): { text: BilingualText }[] {
 function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
   const accessor: SourceAccessor = {
     fetch: async (otherSource, otherParams) => {
+      const params = scopedParams(otherSource as ContentSource, otherParams ?? {}, ctx.date)
       const otherCtx: SourceFetchContext = {
-        params: otherParams ?? {},
+        params,
         prefs: ctx.prefs,
         date: ctx.date,
         programDay: ctx.programDay,
@@ -331,7 +365,7 @@ function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
           'source',
           otherSource.id,
           otherSource.version,
-          cacheKeyFor(otherSource as ContentSource, otherParams ?? {}, ctx.prefs),
+          cacheKeyFor(otherSource as ContentSource, params, ctx.prefs),
         ] as const,
         queryFn: () => runCachedSource(otherSource as ContentSource, otherCtx),
         staleTime: Number.POSITIVE_INFINITY,
@@ -346,13 +380,14 @@ function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
 
 async function fetchFromSource(
   ref: string,
-  params: Record<string, unknown>,
+  rawParams: Record<string, unknown>,
   ctx: PreprocessContext,
   accessor: SourceAccessor,
 ): Promise<Primitive | Primitive[]> {
   const source = getSource(ref)
   if (!source) throw new Error(`preprocessFlow: unknown source ${ref}`)
 
+  const params = scopedParams(source, rawParams, ctx.date)
   const fetchCtx: SourceFetchContext = {
     params,
     prefs: ctx.prefs,

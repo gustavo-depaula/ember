@@ -29,5 +29,10 @@ export type ContentSource<T extends Primitive | Primitive[] = Primitive | Primit
   version: string
   // Declarative — runtime composes the cache key from prefs[prefsDeps[i]].
   prefsDeps: (keyof ProducerPrefs)[]
+  // Date-specific sources (today's reflection, today's office) must fold the
+  // logical date into their cache key, else the first day fetched is served
+  // forever. When set, the runtime stamps `params.date` with the logical
+  // YYYY-MM-DD before computing the cache key and calling fetch.
+  dateScoped?: boolean
   fetch: (ctx: SourceFetchContext) => Promise<T>
 }
