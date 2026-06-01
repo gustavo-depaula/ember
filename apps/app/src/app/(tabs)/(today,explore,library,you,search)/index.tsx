@@ -56,13 +56,12 @@ import {
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useSaintOfDayReading } from '@/features/saints'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
-import { useToday } from '@/hooks/useToday'
+import { useStableToday, useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import {
   getCelebrationsForDate,
   getLiturgicalSeason,
   type LiturgicalCalendarForm,
-  normalizeDate,
   useObligations,
 } from '@/lib/liturgical'
 import { parseSlotKey } from '@/lib/slotKey'
@@ -78,8 +77,6 @@ const lightCornerAspect = 1584 / 672
 
 export default function HomeScreen() {
   const { t } = useTranslation()
-  const realNow = normalizeDate(new Date())
-  const realToday = format(realNow, 'yyyy-MM-dd')
   const now = useToday()
   const selectedDate = format(now, 'yyyy-MM-dd')
   const currentBlock = getCurrentTimeBlock(useCurrentHour())
@@ -87,8 +84,7 @@ export default function HomeScreen() {
   const liturgicalCalendar = usePreferencesStore(
     (s) => s.liturgicalCalendar,
   ) as LiturgicalCalendarForm
-  const persistedTimeTravelDate = usePreferencesStore((s) => s.persistedTimeTravelDate)
-  const anchorDate = persistedTimeTravelDate ?? realToday
+  const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const router = useRouter()
   const slots = useSlots()
