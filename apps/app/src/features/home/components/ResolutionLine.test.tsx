@@ -16,7 +16,12 @@ describe('ResolutionLine on /', () => {
   it('stays hidden when there is no active daily resolution', async () => {
     const { screen } = await renderApp({
       route: '/',
-      routes: [{ pattern: '/', loader: () => import('@/app/(tabs)/(home)/index') }],
+      routes: [
+        {
+          pattern: '/',
+          loader: () => import('@/app/(tabs)/(today,explore,library,you,search)/index'),
+        },
+      ],
     })
 
     // Wait for the home header to mount before asserting absence — otherwise
@@ -29,7 +34,12 @@ describe('ResolutionLine on /', () => {
   it('surfaces the active daily resolution after capture', async () => {
     const { screen } = await renderApp({
       route: '/',
-      routes: [{ pattern: '/', loader: () => import('@/app/(tabs)/(home)/index') }],
+      routes: [
+        {
+          pattern: '/',
+          loader: () => import('@/app/(tabs)/(today,explore,library,you,search)/index'),
+        },
+      ],
     })
 
     const todayStart = getToday().getTime()
@@ -43,7 +53,7 @@ describe('ResolutionLine on /', () => {
 
     // The epigraph body renders the resolution text directly.
     expect((await screen.findAllByText('Pause before answering'))[0]).toBeInTheDocument()
-    // A script attribution sits beneath the epigraph.
-    expect((await screen.findAllByText(/today’s resolve/i))[0]).toBeInTheDocument()
+    // A "Resolutions" label sits beneath the epigraph (post-Altar unification).
+    expect((await screen.findAllByText(/resolutions/i))[0]).toBeInTheDocument()
   }, 30_000)
 })

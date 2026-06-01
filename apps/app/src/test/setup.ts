@@ -49,8 +49,19 @@ vi.mock('expo-crypto', () => ({
   },
 }))
 
-beforeAll(() => {
+beforeAll(async () => {
   installHearthFetch()
+  // react-native-web's AccessibilityInfo lacks the iOS-only
+  // `isReduceTransparencyEnabled` that GlassSurface probes — stub it.
+  // try/catch so test files that locally `vi.mock('react-native')` without
+  // AccessibilityInfo (whose mock throws on the missing export) just skip it.
+  try {
+    const RN = (await import('react-native')) as unknown as Record<string, unknown>
+    const ai = RN.AccessibilityInfo as Record<string, unknown> | undefined
+    if (ai && typeof ai.isReduceTransparencyEnabled !== 'function') {
+      ai.isReduceTransparencyEnabled = async () => false
+    }
+  } catch {}
 })
 
 // jsdom doesn't ship matchMedia, ResizeObserver, or scrollTo — Tamagui's
@@ -129,7 +140,22 @@ vi.mock('react-native-reanimated', async () => {
   // Each method returns the same builder so chaining (`FadeIn.duration(...).delay(...)`)
   // works without modeling Reanimated's real layout-animation type.
   const layoutAnimationBuilder: Record<string, (..._args: unknown[]) => unknown> = {}
-  const layoutMethods = ['duration', 'delay', 'springify', 'easing', 'damping']
+  const layoutMethods = [
+    'duration',
+    'delay',
+    'springify',
+    'easing',
+    'damping',
+    'withInitialValues',
+    'withCallback',
+    'reduceMotion',
+    'randomDelay',
+    'stiffness',
+    'mass',
+    'restDisplacementThreshold',
+    'restSpeedThreshold',
+    'rotate',
+  ]
   for (const m of layoutMethods) layoutAnimationBuilder[m] = () => layoutAnimationBuilder
   return {
     default: Animated,
@@ -162,6 +188,14 @@ vi.mock('react-native-reanimated', async () => {
     SlideOutRight: layoutAnimationBuilder,
     SlideOutUp: layoutAnimationBuilder,
     SlideOutDown: layoutAnimationBuilder,
+    FadeInUp: layoutAnimationBuilder,
+    FadeInDown: layoutAnimationBuilder,
+    FadeInLeft: layoutAnimationBuilder,
+    FadeInRight: layoutAnimationBuilder,
+    FadeOutUp: layoutAnimationBuilder,
+    FadeOutDown: layoutAnimationBuilder,
+    FadeOutLeft: layoutAnimationBuilder,
+    FadeOutRight: layoutAnimationBuilder,
     LinearTransition: layoutAnimationBuilder,
   }
 })
@@ -379,6 +413,50 @@ vi.mock('expo-image', async () => {
   }
 })
 
+vi.mock('react-native-keyboard-controller', async () => {
+  const React = await import('react')
+  const RN = await import('react-native')
+  const Passthrough = (props: Record<string, unknown>) =>
+    React.createElement(RN.View, props as never)
+  return {
+    KeyboardProvider: Passthrough,
+    KeyboardAvoidingView: Passthrough,
+    KeyboardAwareScrollView: (props: Record<string, unknown>) =>
+      React.createElement(RN.ScrollView, props as never),
+  }
+})
+
+vi.mock('@expo/ui/community/bottom-sheet', async () => {
+  const React = await import('react')
+  return {
+    BottomSheet: (props: Record<string, unknown>) =>
+      props.isOpened
+        ? React.createElement(
+            'div',
+            { 'data-testid': 'mock-bottom-sheet' },
+            props.children as never,
+          )
+        : null,
+  }
+})
+
+vi.mock('expo-glass-effect', async () => {
+  const React = await import('react')
+  return {
+    GlassView: (props: Record<string, unknown>) =>
+      React.createElement('div', { 'data-testid': 'mock-glass-view' }, props.children as never),
+    isLiquidGlassAvailable: () => false,
+  }
+})
+
+vi.mock('expo-blur', async () => {
+  const React = await import('react')
+  return {
+    BlurView: (props: Record<string, unknown>) =>
+      React.createElement('div', { 'data-testid': 'mock-blur-view' }, props.children as never),
+  }
+})
+
 vi.mock('react-native-webview', async () => {
   const React = await import('react')
   return {
@@ -470,51 +548,17 @@ vi.mock('react-native-safe-area-context', async () => {
 
 // --- lucide-react-native: thousands of per-icon files turn into a 30s import
 // here. Stubbing each named icon used in app code as a null-component. ---
+// Every icon name resolves to a no-op component, so new icons never break tests.
+// Return undefined for symbols / `then` so vitest's module interop (thenable
+// check, Symbol.toStringTag) doesn't mistake an icon function for a promise.
 vi.mock('lucide-react-native', () => {
   const Icon = () => null
-  return {
-    default: Icon,
-    AlertTriangle: Icon,
-    AlignJustify: Icon,
-    AlignLeft: Icon,
-    Bell: Icon,
-    Book: Icon,
-    BookMarked: Icon,
-    BookOpen: Icon,
-    Check: Icon,
-    ChevronDown: Icon,
-    ChevronLeft: Icon,
-    ChevronRight: Icon,
-    ChevronsDownUp: Icon,
-    ChevronsUpDown: Icon,
-    Calendar: Icon,
-    CircleDashed: Icon,
-    CircleDot: Icon,
-    CircleSlash: Icon,
-    Clock: Icon,
-    Cloud: Icon,
-    CloudDownload: Icon,
-    Compass: Icon,
-    FileText: Icon,
-    Flame: Icon,
-    Heart: Icon,
-    Home: Icon,
-    Hash: Icon,
-    Library: Icon,
-    List: Icon,
-    Loader: Icon,
-    Minus: Icon,
-    Pencil: Icon,
-    Plus: Icon,
-    RotateCcw: Icon,
-    Search: Icon,
-    Sparkle: Icon,
-    Sparkles: Icon,
-    Square: Icon,
-    Star: Icon,
-    Tag: Icon,
-    Trash2: Icon,
-    Type: Icon,
-    X: Icon,
-  }
+  return new Proxy(
+    {},
+    {
+      // `then` must stay undefined so vitest doesn't treat the module as a thenable.
+      get: (_t, key) => (key === 'then' ? undefined : Icon),
+      has: () => true,
+    },
+  )
 })

@@ -26,7 +26,7 @@ describe('examination-of-conscience flow', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/(tabs)/(home)/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(today,explore,library,you,search)/pray/[practiceId]'),
         },
       ],
     })
@@ -49,7 +49,7 @@ describe('examination-of-conscience flow', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/(tabs)/(home)/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(today,explore,library,you,search)/pray/[practiceId]'),
         },
       ],
     })
