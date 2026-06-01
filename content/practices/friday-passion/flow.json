@@ -52,7 +52,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "prayer-before-crucifix"
+			"inline": {
+				"en-US": "Behold, O good and most sweet Jesus,\nI cast myself upon my knees in Thy sight,\nand with the most fervent desire of my soul\nI pray and beseech Thee\nthat Thou wouldst impress upon my heart\nlively sentiments of faith, hope, and charity,\nwith true contrition for my sins\nand a firm purpose of amendment;\n\nwhile with deep affection and grief of soul\nI ponder within myself\nand mentally contemplate Thy five most precious wounds,\nhaving before my eyes\nthe words which David, the prophet, spoke concerning Thee, O good Jesus:\n\n'They have pierced my hands and my feet;\nthey have numbered all my bones.' (Psalm 21:17–18)",
+				"pt-BR": "Eis-me aqui, ó bom e dulcíssimo Jesus,\nprostrado diante de Vossa presença,\ncom o mais vivo fervor da alma\nrogo-Vos e suplico\nque Vos digneis imprimir em meu coração\nvivos sentimentos de fé, esperança e caridade,\nverdadeiro arrependimento dos meus pecados\ne firmíssimo propósito de emenda;\n\nenquanto, com grande afeto e dor da alma,\nconsidero em meu íntimo\ne contemplo mentalmente as Vossas cinco preciosíssimas chagas,\ntendo diante dos olhos\no que já de Vós, ó bom Jesus, dizia o profeta Davi:\n\n'Traspassaram minhas mãos e meus pés,\ncontaram todos os meus ossos.' (Salmo 21, 17–18)",
+				"la": "En ego, o bone et dulcissime Iesu,\nante conspectum tuum genibus me provolvo\nac maximo animi ardore te oro atque obtestor,\nut meum in cor vividos fidei, spei et caritatis sensus,\natque veram peccatorum meorum paenitentiam,\neaque emendandi firmissimam voluntatem velis imprimere;\n\ndum magno animi affectu et dolore\ntua quinque vulnera mecum ipse considero\nac mente contemplor,\nillud prae oculis habens,\nquod iam in ore ponebat tuo David propheta de te, o bone Iesu:\n\n'Foderunt manus meas et pedes meos;\ndinumeraverunt omnia ossa mea.'"
+			}
 		},
 		{
 			"type": "divider"
@@ -68,8 +72,38 @@
 			"type": "divider"
 		},
 		{
+			"type": "heading",
+			"text": {
+				"en-US": "Act of Reparation to the Sacred Heart",
+				"pt-BR": "Ato de Desagravo ao Sagrado Coração de Jesus"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Kneel and pray devoutly, offering this act of reparation for the offenses committed against the Sacred Heart of Jesus.",
+				"pt-BR": "Ajoelhe-se e reze devotamente, oferecendo este ato de desagravo pelas ofensas cometidas contra o Sagrado Coração de Jesus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
 			"type": "prayer",
-			"ref": "act-of-reparation"
+			"inline": {
+				"en-US": "Most sweet Jesus, whose overflowing charity for men is requited by so much forgetfulness, negligence and contempt, behold us prostrate before Thee, eager to repair by a special act of homage the cruel indifference and injuries to which Thy loving Heart is everywhere subjected.\n\nMindful, alas! that we ourselves have had a share in such great indignities, which we now deplore from the depths of our hearts, we humbly ask Thy pardon and declare our readiness to atone by voluntary expiation, not only for our own personal offenses, but also for the sins of those who, straying far from the path of salvation, refuse in their obstinate infidelity to follow Thee, their Shepherd and Leader, or, renouncing the promises of their baptism, have cast off the sweet yoke of Thy law.\n\nWe are now resolved to expiate each and every deplorable outrage committed against Thee; we are now determined to make amends for the manifold offenses against Christian modesty in unbecoming dress and behavior, for all the foul seductions laid to ensnare the feet of the innocent, for the contempt of Thy Sundays and holy days, and the shocking blasphemies uttered against Thee and Thy Saints. We offer Thee in reparation these prayers and acts of atonement, and we wish to make amends for the insults so often offered to Thy Vicar on earth and to Thy priests.\n\nO loving Jesus, through the intercession of the Blessed Virgin Mary, our model in reparation, deign to receive the voluntary offering we make of this act of expiation; and by the crowning gift of perseverance, keep us faithful unto death in our duty and the allegiance we owe to Thee, so that we may one day come to that happy home, where Thou with the Father and the Holy Spirit livest and reignest, God, world without end. Amen.",
+				"pt-BR": "Dulcíssimo Jesus, cuja caridade transbordante para com os homens é tão pouco correspondida pelo esquecimento, negligência e desprezo, eis-nos prostrados diante de Vós, desejando reparar com um ato especial de homenagem a cruel indiferença e as injúrias a que Vosso Coração amoroso é por toda parte submetido.\n\nLembrando, porém, que nós mesmos tivemos parte em tantas indignidades, que agora deploramos do fundo do coração, humildemente Vos pedimos perdão e declaramos nossa prontidão para reparar, por expiação voluntária, não só os nossos pecados pessoais, mas também os pecados daqueles que, afastando-se do caminho da salvação, recusam em sua obstinada infidelidade seguir-Vos como Pastor e Guia, ou, renunciando às promessas do batismo, sacudiram o suave jugo da Vossa lei.\n\nEstamos agora resolvidos a expiar cada uma das deploráveis ofensas cometidas contra Vós; estamos determinados a reparar as múltiplas ofensas contra a modéstia cristã em trajes e comportamentos indecorosos, todas as torpes seduções armadas para os pés dos inocentes, o desprezo dos Vossos domingos e dias santos, e as horrendas blasfêmias proferidas contra Vós e Vossos Santos. Oferecemos-Vos em reparação estas orações e atos de expiação, e desejamos reparar os insultos tantas vezes dirigidos ao Vosso Vigário na terra e aos Vossos sacerdotes.\n\nÓ amoroso Jesus, pela intercessão da Bem-aventurada Virgem Maria, nosso modelo de reparação, dignai-Vos receber a oferenda voluntária que fazemos deste ato de expiação; e pelo dom supremo da perseverança, conservai-nos fiéis até a morte no nosso dever e na lealdade que Vos devemos, para que possamos um dia chegar àquela pátria feliz, onde Vós com o Pai e o Espírito Santo viveis e reinais, Deus, por todos os séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Sacred Heart of Jesus, have mercy on us. Amen.",
+				"pt-BR": "Sagrado Coração de Jesus, tende piedade de nós. Amém."
+			}
 		},
 		{
 			"type": "divider"

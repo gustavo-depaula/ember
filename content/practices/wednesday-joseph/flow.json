@@ -45,7 +45,10 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "memorare-st-joseph"
+			"inline": {
+				"en-US": "Remember, O most pure spouse of the Virgin Mary, my loving protector, Saint Joseph, that never has it been heard that anyone invoked thy protection and besought thy aid without being comforted. Inspired by this confidence, I come to thee, and with fervor commend myself to thee. Despise not, O foster father of the Redeemer, my humble supplication, but graciously hear and grant my prayer. Amen.",
+				"pt-BR": "Lembrai-vos, ó puríssimo Esposo da Virgem Maria, meu amável protetor, São José, que nunca se ouviu dizer que algum daqueles que recorreram à vossa proteção e imploraram o vosso socorro fosse por vós desamparado. Animado com esta confiança, venho à vossa presença e a vós com fervor me recomendo. Não desprezeis a minha súplica, ó Pai adotivo do Redentor, mas acolhei-a benigno e atendei-a. Amém."
+			}
 		},
 		{
 			"type": "divider"

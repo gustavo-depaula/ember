@@ -25,7 +25,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "sub-tuum-praesidium"
+			"inline": {
+				"en-US": "We fly to thy patronage, O holy Mother of God. Despise not our petitions in our necessities, but deliver us always from all dangers, O glorious and blessed Virgin. Amen.",
+				"pt-BR": "A vossa proteção recorremos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita. Amém.",
+				"la": "Sub tuum praesidium confugimus, sancta Dei Genitrix. Nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta. Amen."
+			}
 		},
 		{
 			"type": "divider"
@@ -41,8 +45,39 @@
 			"type": "divider"
 		},
 		{
+			"type": "rubric",
+			"text": {
+				"en-US": "A devotion taught by St. Mechtilde and promoted by St. Anthony Mary Claret. Pray three Hail Marys in honor of the three Divine Persons who have so loved Mary and clothed her with their gifts.",
+				"pt-BR": "Devoção ensinada por Santa Mectildes e promovida por Santo Antônio Maria Claret. Rezem-se três Ave-Marias em honra das três Divinas Pessoas que tanto amaram a Maria e a revestiram de seus dons."
+			}
+		},
+		{
 			"type": "prayer",
-			"ref": "three-hail-marys"
+			"inline": {
+				"en-US": "To the Eternal Father, for the gift of memory He gave to Mary, that she may obtain for me a lively remembrance of God in all things:\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+				"pt-BR": "Ao Eterno Pai, pelo dom da memória que concedeu a Maria, para que me alcance viva lembrança de Deus em todas as coisas:\n\nAve Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "To the Eternal Son, for the gift of understanding He gave to His Mother, that she may obtain for me a true knowledge of God and of His holy will:\n\nHail Mary…",
+				"pt-BR": "Ao Eterno Filho, pelo dom do entendimento que concedeu a sua Mãe, para que me alcance verdadeiro conhecimento de Deus e de sua santa vontade:\n\nAve Maria…"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "To the Holy Spirit, for the gift of will with which He filled the Heart of Mary, kindling in her so great a love of God, that she may obtain for me to love Him above all things:\n\nHail Mary…",
+				"pt-BR": "Ao Espírito Santo, pelo dom da vontade com que encheu o Coração de Maria, acendendo nela tão grande amor a Deus, para que me alcance amá-Lo sobre todas as coisas:\n\nAve Maria…"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my Queen, O my Mother, remember I am thine. Keep me, guard me as thy property and possession. Amen.",
+				"pt-BR": "Ó minha Senhora, ó minha Mãe, lembrai-vos de que sou vosso. Guardai-me, defendei-me como coisa e propriedade vossa. Amém."
+			}
 		},
 		{
 			"type": "divider"
@@ -65,7 +100,21 @@
 						"pt-BR": "Alma Redemptoris Mater (Advento–Apresentação)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "alma-redemptoris-mater" }
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "The Marian antiphon sung at Compline from the First Sunday of Advent through the Feast of the Presentation (February 2).",
+								"pt-BR": "Antífona mariana cantada nas Completas desde o I Domingo do Advento até a Festa da Apresentação do Senhor (2 de fevereiro)."
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Loving Mother of the Redeemer,\nwho remainest the ever-open gate of heaven,\nand star of the sea:\nsuccor thy people who fall,\nyet strive to rise again.\nThou who, to the wonderment of nature,\ndidst bring forth thy holy Creator,\nremaining a Virgin after as before,\nwho from Gabriel's lips didst receive that joyful greeting,\nhave mercy upon us sinners.",
+								"pt-BR": "Augusta Mãe do Redentor,\nó porta sempre aberta do céu,\nestrela do mar, vinde socorrer\no povo que cai e luta por se reerguer.\nVós que, para admiração da natureza,\ngerastes o vosso santo Criador,\nVirgem antes e depois do parto,\nque recebestes de Gabriel o feliz anúncio,\ntende piedade de nós pecadores.",
+								"la": "Alma Redemptóris Mater, quæ pérvia cæli\nporta manes, et stella maris, succúrre cadénti,\nsúrgere qui curat, pópulo: tu quæ genuísti,\nnatúra miránte, tuum sanctum Genitórem,\nVirgo prius ac postérius, Gabriélis ab ore\nsumens illud Ave, peccatórum miserére."
+							}
+						}
 					]
 				},
 				{
@@ -75,7 +124,21 @@
 						"pt-BR": "Ave Regina Caelorum (Apresentação–Quarta-feira Santa)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "ave-regina-caelorum" }
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "The Marian antiphon sung at Compline from the day after the Presentation (February 3) through Holy Wednesday.",
+								"pt-BR": "Antífona mariana cantada nas Completas do dia seguinte à Apresentação (3 de fevereiro) até a Quarta-feira Santa."
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Hail, O Queen of heaven enthroned!\nHail, by Angels Mistress owned!\nRoot of Jesse, Gate of morn,\nwhence the world's true Light was born:\nGlorious Virgin, joy to thee,\nloveliest whom in heaven they see;\nfairest thou where all are fair,\nplead with Christ our sins to spare.",
+								"pt-BR": "Ave, Rainha dos Céus,\nAve, Senhora dos Anjos.\nSalve, raiz; salve, porta\nde onde nasceu a Luz do mundo.\nAlegrai-vos, Virgem gloriosa,\nmais bela do que todas as outras.\nSalve, ó toda formosa,\ne rogai a Cristo por nós.",
+								"la": "Ave, Regína cælórum,\nAve, Dómina Angelórum:\nSalve, radix, salve, porta\nex qua mundo lux est orta:\nGaude, Virgo gloriósa,\nsuper omnes speciósa,\nVale, o valde decóra,\net pro nobis Christum exóra."
+							}
+						}
 					]
 				},
 				{
@@ -85,7 +148,50 @@
 						"pt-BR": "Regina Caeli (Tempo Pascal)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "regina-caeli" }
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Queen of Heaven, rejoice, alleluia:\nfor He whom thou wast made worthy to bear, alleluia,\nis risen, as He said, alleluia.\nPray for us to God, alleluia.",
+								"pt-BR": "Rainha do Céu, alegra-te, aleluia:\npois aquele que mereceste trazer no teu seio, aleluia,\nressuscitou como disse, aleluia.\nRoga por nós a Deus, aleluia.",
+								"la": "Regina caeli, laetare, alleluia:\nquia quem meruisti portare, alleluia,\nresurrexit sicut dixit, alleluia.\nOra pro nobis Deum, alleluia."
+							}
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "response",
+							"verses": [
+								{
+									"v": {
+										"en-US": "Rejoice and be glad, O Virgin Mary, alleluia.",
+										"pt-BR": "Alegra-te e exulta, Virgem Maria, aleluia."
+									},
+									"r": {
+										"en-US": "For the Lord is truly risen, alleluia.",
+										"pt-BR": "Porque o Senhor ressuscitou verdadeiramente, aleluia."
+									}
+								}
+							]
+						},
+						{
+							"type": "divider"
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Let us pray.",
+								"pt-BR": "Oremos."
+							}
+						},
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant, we beseech Thee, that through His Mother, the Virgin Mary, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen.",
+								"la": "Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es: praesta, quaesumus; ut per eius Genetricem Virginem Mariam, perpetuae capiamus gaudia vitae. Per eundem Christum Dominum nostrum. Amen.",
+								"pt-BR": "Ó Deus, que pela ressurreição de Vosso Filho, Nosso Senhor Jesus Cristo, destes alegria ao mundo inteiro, concedei-nos, por intercessão de Sua Mãe, a Virgem Maria, alcançar a alegria da vida eterna. Pelo mesmo Cristo Nosso Senhor. Amém."
+							}
+						}
 					]
 				},
 				{
@@ -95,7 +201,14 @@
 						"pt-BR": "Salve Rainha (Tempo Comum)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "hail-holy-queen" }
+						{
+							"type": "prayer",
+							"inline": {
+								"en-US": "Hail, Holy Queen, Mother of mercy,\nour life, our sweetness, and our hope.\nTo thee do we cry, poor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us.\nAnd after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.",
+								"pt-BR": "Salve, Rainha, Mãe de misericórdia,\nvida, doçura e esperança nossa, salve!\nA vós bradamos, os degredados filhos de Eva.\nA vós suspiramos, gemendo e chorando\nneste vale de lágrimas.\nEia, pois, advogada nossa,\nesses vossos olhos misericordiosos a nós volvei.\nE depois deste desterro,\nmostrai-nos Jesus, bendito fruto do vosso ventre.\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria.",
+								"la": "Salve, Regína, Mater misericórdiæ,\nvita, dulcédo, et spes nostra, salve.\nAd te clamámus, éxsules fílii Evæ.\nAd te suspirámus, geméntes et flentes\nin hac lacrimárum valle.\nEia ergo, advocáta nostra,\nillos tuos misericórdes óculos ad nos convérte.\nEt Iesum, benedíctum fructum ventris tui,\nnobis post hoc exsílium osténde.\nO clemens, o pia, o dulcis Virgo María."
+							}
+						}
 					]
 				}
 			]
@@ -105,7 +218,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "memorare"
+			"inline": {
+				"en-US": "Remember, O most gracious Virgin Mary,\nthat never was it known\nthat anyone who fled to thy protection,\nimplored thy help, or sought thy intercession,\nwas left unaided.\n\nInspired by this confidence,\nI fly unto thee,\nO Virgin of virgins, my Mother;\nto thee do I come,\nbefore thee I stand, sinful and sorrowful.\n\nO Mother of the Word Incarnate,\ndespise not my petitions,\nbut in thy mercy hear and answer me. Amen.",
+				"pt-BR": "Lembrai-vos, ó piíssima Virgem Maria,\nque nunca se ouviu dizer\nque algum daqueles que recorreram à vossa proteção,\nimplorado o vosso auxílio\nou pedido vossa intercessão,\nfosse por Vós desamparado.\n\nAnimado eu, pois, de igual confiança,\na Vós, Virgem entre todas singular,\ncomo a Mãe recorro,\nde Vós me valho\ne, gemendo sob o peso de meus pecados,\nme prostro a vossos pés.\n\nNão desprezeis as minhas súplicas,\nó Mãe do Verbo encarnado,\nmas dignai-vos de ouvi-las propícia,\ne mostrai-vos sempre minha advogada\njunto ao divino Filho Jesus. Amém.",
+				"la": "Memorare, O piissima Virgo Maria,\nnon esse auditum a saeculo,\nquemquam ad tua currentem praesidia,\ntua implorantem auxilia,\ntua petentem suffragia,\nesse derelictum.\n\nEgo tali animatus confidentia,\nad te, Virgo Virginum, Mater,\ncurro, ad te venio,\ncoram te gemens peccator assisto.\n\nNoli, Mater Verbi,\nverba mea despicere,\nsed audi propitia et exaudi. Amen."
+			}
 		},
 		{
 			"type": "divider"

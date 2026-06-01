@@ -102,7 +102,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "angele-dei"
+			"inline": {
+				"en-US": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide. Amen.",
+				"pt-BR": "Santo Anjo do Senhor, meu zeloso guardador,\nse a ti me confiou a piedade divina,\nsempre me rege, me guarda, me governa e me ilumina. Amém.",
+				"la": "Angele Dei, qui custos es mei,\nme tibi commissum pietate superna,\nhodie illumina, custodi, rege et guberna. Amen."
+			}
 		},
 		{
 			"type": "rubric",

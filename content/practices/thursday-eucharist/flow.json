@@ -18,7 +18,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "o-salutaris-hostia"
+			"inline": {
+				"en-US": "O saving Victim, opening wide\nthe gate of heaven to us below;\nour foes press hard on every side,\nThine aid supply, Thy strength bestow.\n\nTo Thy great name be endless praise,\nimmortal Godhead, One in Three.\nO grant us endless length of days\nin our true native land with Thee. Amen.",
+				"pt-BR": "Ó Hóstia salutar,\nque do céu nos abris a porta,\nos inimigos nos oprimem:\ndai-nos força, trazei-nos socorro.\n\nAo Senhor Uno e Trino\nseja dada sempiterna glória;\nque nos conceda a vida sem fim,\nna pátria, juntamente. Amém.",
+				"la": "O salutaris Hostia,\nquae caeli pandis ostium:\nbella premunt hostilia,\nda robur, fer auxilium.\n\nUni trinoque Domino\nsit sempiterna gloria,\nqui vitam sine termino\nnobis donet in patria. Amen."
+			}
 		},
 		{
 			"type": "divider"
@@ -35,7 +39,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "adoro-te-devote"
+			"inline": {
+				"en-US": "Godhead here in hiding, whom I do adore,\nmasked by these bare shadows, shape and nothing more,\nsee, Lord, at thy service low lies here a heart\nlost, all lost in wonder at the God thou art.\n\nSeeing, touching, tasting are in thee deceived;\nhow says trusty hearing? that shall be believed;\nwhat God's Son has told me, take for truth I do;\ntruth himself speaks truly or there's nothing true.\n\nOn the cross thy Godhead made no sign to men;\nhere thy very manhood steals from human ken:\nboth are my confession, both are my belief,\nand I pray the prayer of the dying thief.\n\nI am not like Thomas, wounds I cannot see,\nbut can plainly call thee Lord and God as he;\nthis faith each day deeper be my holding of,\ndaily make me harder hope and dearer love.\n\nO thou our reminder of Christ crucified,\nliving Bread the life of us for whom he died,\nlend this life to me then: feed and feast my mind,\nthere be thou the sweetness man was meant to find.\n\nBring the tender tale true of the Pelican;\nbathe me, Jesu Lord, in what thy bosom ran —\nblood whereof a single drop has power to win\nall the world forgiveness of its world of sin.\n\nJesu, whom I look at shrouded here below,\nI beseech thee send me what I thirst for so,\nsome day to gaze on thee face to face in light\nand be blest for ever with thy glory's sight. Amen.",
+				"pt-BR": "Eu Vos adoro com devoção, Deus escondido,\noculto verdadeiramente sob estas aparências.\nA Vós se submete meu coração por inteiro,\npois, contemplando-Vos, tudo desfalece.\n\nA vista, o tato, o paladar, em Vós se enganam,\nmas só pelo ouvido se crê com segurança.\nCreio em tudo o que disse o Filho de Deus;\nnada é mais verdadeiro do que esta Palavra de Verdade.\n\nNa cruz ocultava-se só a Divindade,\nmas aqui se oculta também a Humanidade.\nContudo, crendo e confessando ambas,\npeço o que pediu o bom ladrão arrependido.\n\nAs chagas, como Tomé, eu não vejo;\nentretanto confesso-Vos meu Deus.\nFazei que eu creia mais e mais em Vós,\nque em Vós tenha esperança e que Vos ame.\n\nÓ memorial da morte do Senhor,\nPão vivo que dá a vida ao homem:\nfazei que a minha alma de Vós viva\ne que sempre ache suavidade em Vós.\n\nÓ piedoso Pelicano, Senhor Jesus,\npurificai-me, a mim imundo, com Vosso Sangue,\ndo qual uma só gota pode salvar\no mundo inteiro de todo o pecado.\n\nJesus, a quem agora vejo oculto,\nrogo se cumpra o que tanto desejo:\nque, contemplando-Vos com a face descoberta,\nseja feliz na visão da vossa glória. Amém.",
+				"la": "Adoro te devote, latens Deitas,\nquae sub his figuris vere latitas;\ntibi se cor meum totum subiicit,\nquia te contemplans totum deficit.\n\nVisus, tactus, gustus in te fallitur,\nsed auditu solo tuto creditur;\ncredo quidquid dixit Dei Filius;\nnil hoc verbo Veritatis verius.\n\nIn cruce latebat sola Deitas,\nat hic latet simul et humanitas;\nambo tamen credens atque confitens,\npeto quod petivit latro paenitens.\n\nPlagas, sicut Thomas, non intueor;\nDeum tamen meum te confiteor;\nfac me tibi semper magis credere,\nin te spem habere, te diligere.\n\nO memoriale mortis Domini,\npanis vivus, vitam praestans homini,\npraesta meae menti de te vivere,\net te illi semper dulce sapere.\n\nPie pellicane, Iesu Domine,\nme immundum munda tuo sanguine,\ncuius una stilla salvum facere\ntotum mundum quit ab omni scelere.\n\nIesu, quem velatum nunc aspicio,\noro fiat illud, quod tam sitio:\nut te revelata cernens facie,\nvisu sim beatus tuae gloriae. Amen."
+			}
 		},
 		{
 			"type": "divider"
@@ -66,7 +74,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "divine-praises"
+			"inline": {
+				"en-US": "Blessed be God.\nBlessed be His Holy Name.\nBlessed be Jesus Christ, true God and true Man.\nBlessed be the Name of Jesus.\nBlessed be His Most Sacred Heart.\nBlessed be His Most Precious Blood.\nBlessed be Jesus in the Most Holy Sacrament of the Altar.\nBlessed be the Holy Spirit, the Paraclete.\nBlessed be the great Mother of God, Mary most Holy.\nBlessed be her Holy and Immaculate Conception.\nBlessed be her Glorious Assumption.\nBlessed be the name of Mary, Virgin and Mother.\nBlessed be Saint Joseph, her most chaste spouse.\nBlessed be God in His Angels and in His Saints.",
+				"pt-BR": "Bendito seja Deus.\nBendito seja o seu santo Nome.\nBendito seja Jesus Cristo, verdadeiro Deus e verdadeiro Homem.\nBendito seja o Nome de Jesus.\nBendito seja o seu Sacratíssimo Coração.\nBendito seja o seu Preciosíssimo Sangue.\nBendito seja Jesus no Santíssimo Sacramento do Altar.\nBendito seja o Espírito Santo Paráclito.\nBendita seja a grande Mãe de Deus, Maria Santíssima.\nBendita seja a sua santa e imaculada Conceição.\nBendita seja a sua gloriosa Assunção.\nBendito seja o nome de Maria, Virgem e Mãe.\nBendito seja São José, seu castíssimo Esposo.\nBendito seja Deus nos seus Anjos e nos seus Santos.",
+				"la": "Benedíctus Deus.\nBenedíctum Nomen Sanctum eius.\nBenedíctus Iesus Christus, verus Deus et verus homo.\nBenedíctum Nomen Iesu.\nBenedíctum Cor eius sacratíssimum.\nBenedíctus Sanguis eius pretiosíssimus.\nBenedíctus Iesus in sanctíssimo altáris Sacraménto.\nBenedíctus Sanctus Spíritus, Paráclitus.\nBenedícta excélsa Mater Dei, María sanctíssima.\nBenedícta sancta eius et immaculáta Concéptio.\nBenedícta eius gloriósa Assúmptio.\nBenedíctum nomen Maríæ, Vírginis et Matris.\nBenedíctus sanctus Ioseph, eius castíssimus sponsus.\nBenedíctus Deus in Angelis suis, et in Sanctis suis."
+			}
 		},
 		{
 			"type": "divider"
@@ -90,7 +102,11 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "anima-christi"
+			"inline": {
+				"en-US": "Soul of Christ, sanctify me.\nBody of Christ, save me.\nBlood of Christ, inebriate me.\nWater from the side of Christ, wash me.\nPassion of Christ, strengthen me.\nO good Jesus, hear me.\nWithin Thy wounds hide me.\nPermit me not to be separated from Thee.\nFrom the malignant enemy defend me.\nIn the hour of my death call me,\nand bid me come to Thee,\nthat with Thy saints I may praise Thee\nforever and ever. Amen.",
+				"pt-BR": "Alma de Cristo, santificai-me.\nCorpo de Cristo, salvai-me.\nSangue de Cristo, embriagai-me.\nÁgua do lado de Cristo, lavai-me.\nPaixão de Cristo, confortai-me.\nÓ bom Jesus, escutai-me.\nNas Vossas chagas escondei-me.\nNão permitais que me separe de Vós.\nDo maligno defendei-me.\nNa hora da minha morte chamai-me\ne mandai-me vir a Vós,\npara que com os Vossos santos Vos louve\npelos séculos dos séculos. Amém.",
+				"la": "Anima Christi, sanctifica me.\nCorpus Christi, salva me.\nSanguis Christi, inebria me.\nAqua lateris Christi, lava me.\nPassio Christi, conforta me.\nO bone Iesu, exaudi me.\nIntra tua vulnera absconde me.\nNe permittas me separari a te.\nAb hoste maligno defende me.\nIn hora mortis meae voca me.\nEt iube me venire ad te.\nUt cum sanctis tuis laudem te\nin saecula saeculorum. Amen."
+			}
 		},
 		{
 			"type": "prayer",
