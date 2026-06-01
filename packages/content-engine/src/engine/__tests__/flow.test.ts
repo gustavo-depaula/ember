@@ -317,6 +317,54 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
     )
   })
 
+  it('preloads only the selected option of a silent select, not every option', async () => {
+    // Regression: saint-of-the-day is a 366-option silent select where each
+    // option loads a distinct book chapter. Preloading every option's chapter
+    // fires one sequential fetch per option and hangs the load. Only the
+    // selected option is ever resolved, so only its chapter should be fetched.
+    const loadedChapters: string[] = []
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      loadBookChapterTextAsync: async (_book, chapter) => {
+        loadedChapters.push(chapter)
+        return { 'pt-BR': `Text ${chapter}` }
+      },
+    }
+
+    const result = await resolveFlowAsync(
+      flowDef({
+        sections: [
+          {
+            type: 'select',
+            default: 'b',
+            options: [
+              {
+                id: 'a',
+                label: { 'pt-BR': 'A' },
+                sections: [{ type: 'prose', book: 'saints', chapter: 'chap-a' }],
+              },
+              {
+                id: 'b',
+                label: { 'pt-BR': 'B' },
+                sections: [{ type: 'prose', book: 'saints', chapter: 'chap-b' }],
+              },
+              {
+                id: 'c',
+                label: { 'pt-BR': 'C' },
+                sections: [{ type: 'prose', book: 'saints', chapter: 'chap-c' }],
+              },
+            ],
+          },
+        ],
+      }),
+      makeContext(),
+      engineContext,
+    )
+
+    expect(loadedChapters).toEqual(['chap-b'])
+    expect(result).toEqual([{ type: 'prose', text: { primary: 'Text chap-b' } }])
+  })
+
   it('uses resolve-step calendar override instead of context liturgicalCalendar', async () => {
     const date = new Date('2026-02-10T12:00:00Z')
     const liturgicalMap = {

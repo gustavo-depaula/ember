@@ -242,10 +242,21 @@ function collectBookChapterRefs(
       case 'select':
         if ('from' in section) {
           for (const s of section.body) walkSection(s)
-        } else {
+        } else if (section.label) {
+          // Visible picker: every branch is materialized and switchable
+          // client-side, so all options' chapters must be preloaded.
           for (const opt of section.options) {
             if (opt.sections) for (const s of opt.sections) walkSection(s)
           }
+        } else {
+          // Silent dispatch (e.g. saint-of-the-day's 366-day map): only the
+          // selected option is ever resolved. Preloading every option would
+          // fire one sequential chapter fetch per option (366 of them) and hang
+          // the load — so mirror resolveSection and collect only the selected
+          // option's chapters.
+          const { selectedId } = computeSelectedId(section, context)
+          const selected = section.options.find((o) => o.id === selectedId) ?? section.options[0]
+          if (selected?.sections) for (const s of selected.sections) walkSection(s)
         }
         break
     }
