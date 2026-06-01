@@ -189,6 +189,10 @@ export function resolveOfDay(date: Date, entries: LiturgicalEntry[]): OfDay {
   const sanctorals: OfCelebration[] = []
   for (const entry of entries) {
     if (!entry.of) continue
+    // Temporal celebrations are computed from the liturgical position, not the
+    // calendar entries — skip any tempore.* ids that the generated OF calendar
+    // may carry, so they aren't double-counted against the computed temporal.
+    if (entry.id.startsWith('tempore.')) continue
     // A celebration can resolve into a neighbouring calendar year (e.g. an
     // easter_relative date late in a year); check both this year and last.
     const resolved =
