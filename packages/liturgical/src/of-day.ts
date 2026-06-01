@@ -12,7 +12,7 @@ import { resolveDate } from './resolve-date'
  * with the sanctoral celebrations (the generated calendar entries) and ranks
  * them on a single scale, so callers never re-derive precedence. This replaces
  * the old Sunday-only suppression in the calendar and the string-heuristic
- * `applyPrecedence` in `@ember/mass-of`.
+ * `applyPrecedence` in `@ember/mass`.
  *
  * Each celebration carries the canonical ember-extra id, which is also its
  * Mass-proper id (`tempore.solemnity.most-holy-trinity` → `mass/of/tempore/...`;

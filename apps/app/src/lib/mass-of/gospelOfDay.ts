@@ -1,6 +1,6 @@
 import type { ContentLanguage } from '@ember/content-engine'
 import { getDataSource } from '@ember/content-engine'
-import type { Celebration, DayLiturgies, Formulary } from '@ember/mass-of'
+import type { Celebration, DayLiturgies, Formulary } from '@ember/mass'
 
 export type EmberLang = 'la' | 'es' | 'en' | 'pt-BR' | 'it' | 'fr' | 'de'
 

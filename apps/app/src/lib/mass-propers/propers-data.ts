@@ -1,4 +1,4 @@
-import type { RawProperFile } from '@ember/mass-propers'
+import type { RawProperFile } from '@ember/mass'
 import { fetchHearth } from '@/lib/hearth'
 
 export async function loadTempora(id: string): Promise<RawProperFile | undefined> {

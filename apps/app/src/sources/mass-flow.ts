@@ -6,7 +6,7 @@ import {
   getDataSource,
   resolveFlowAsync,
 } from '@ember/content-engine'
-import { buildMassFlow, type DayLiturgies } from '@ember/mass-of'
+import { buildMassFlow, type DayLiturgies } from '@ember/mass'
 import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'

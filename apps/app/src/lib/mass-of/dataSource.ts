@@ -10,7 +10,7 @@
  */
 
 import type { LiturgicalEntry } from '@ember/liturgical'
-import type { MassOfDataSource } from '@ember/mass-of'
+import type { MassOfDataSource } from '@ember/mass'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import { normalizeLangKeys } from '@/content/langAliases'
 import type { DataItemManifest } from '@/content/manifestTypes'

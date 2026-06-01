@@ -16,9 +16,8 @@
   "dependencies": {
     "@ember/content-engine": "workspace:*",
     "@ember/liturgical": "workspace:*",
-    "@ember/mass-of": "workspace:*",
-    "@ember/mass-propers": "workspace:*",
-    "@expo-google-fonts/cinzel": "^0.4.2",
+    "@ember/mass": "workspace:*",
+        "@expo-google-fonts/cinzel": "^0.4.2",
     "@expo-google-fonts/cormorant-garamond": "^0.4.1",
     "@expo-google-fonts/crimson-pro": "^0.4.2",
     "@expo-google-fonts/eb-garamond": "^0.4.2",

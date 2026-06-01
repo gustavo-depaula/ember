@@ -12,7 +12,7 @@ import { computeEaster, getFirstSundayOfAdvent } from './season'
  * the nativity vigil. The first id is the principal one.
  *
  * This is the single source of the temporal id mapping, owned by the calendar
- * (it was previously duplicated inside `@ember/mass-of`).
+ * (it was previously duplicated inside `@ember/mass`).
  */
 export function ofTemporeIds(date: Date): string[] {
   const month = getMonth(date) + 1

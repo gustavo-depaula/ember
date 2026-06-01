@@ -16,7 +16,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 // grid: it carries the temporal feasts (Christmas, Easter, Epiphany, …) and the
 // holy-day-of-obligation flags that ember-extra's data doesn't. The Mass uses a
 // different, propers-aligned source — the generated liturgical/of-calendar.json
-// via @ember/mass-of's resolveOfDay — so the two stay decoupled by purpose.
+// via @ember/mass's resolveOfDay — so the two stay decoupled by purpose.
 function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
   return fetchHearth<LiturgicalEntry[]>('liturgical/entries.json')
 }

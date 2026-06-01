@@ -1,5 +1,5 @@
 {
-  "name": "@ember/mass-propers",
+  "name": "@ember/mass",
   "version": "0.0.1",
   "private": true,
   "main": "src/index.ts",
@@ -8,6 +8,8 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@ember/liturgical": "workspace:*"
+    "@ember/content-engine": "workspace:*",
+    "@ember/liturgical": "workspace:*",
+    "date-fns": "*"
   }
 }

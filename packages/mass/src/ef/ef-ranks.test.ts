@@ -5,7 +5,7 @@ import { chooseProperSourceByRank } from './resolve'
 
 // DO occurrence values extracted by scripts/build-ef-ranks.mjs.
 const ranks: Record<string, number> = JSON.parse(
-  readFileSync(new URL('../../../content/propers/ef-ranks.json', import.meta.url), 'utf-8'),
+  readFileSync(new URL('../../../../content/propers/ef-ranks.json', import.meta.url), 'utf-8'),
 )
 
 const choose = (y: number, m: number, d: number) =>

@@ -1,5 +1,5 @@
 import { liturgicalDaySource, registerDataSource } from '@ember/content-engine'
-import { createMassOfSource } from '@ember/mass-of'
+import { createMassOfSource } from '@ember/mass'
 import { createCorpusMassOfDataSource } from '@/lib/mass-of/dataSource'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 

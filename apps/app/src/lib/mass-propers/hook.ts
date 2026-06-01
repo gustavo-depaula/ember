@@ -1,5 +1,5 @@
 import type { BilingualText } from '@ember/content-engine'
-import { getRawProperForSlot } from '@ember/mass-propers'
+import { getRawProperForSlot } from '@ember/mass'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useTodayCelebration } from '@/features/calendar/hooks'
