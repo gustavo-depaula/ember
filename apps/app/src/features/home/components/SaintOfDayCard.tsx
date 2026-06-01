@@ -34,7 +34,7 @@ export function SaintOfDayCard() {
           {reading.name}
         </Typography>
         <Typography variant="whisper" fontSize="$2" maxWidth={520} numberOfLines={3}>
-          {t('explore.saintReadingTagline')}
+          {reading.reflection ?? t('explore.saintReadingTagline')}
         </Typography>
       </YStack>
     </Pressable>
