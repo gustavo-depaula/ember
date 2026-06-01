@@ -59,3 +59,10 @@ Target: en-US
 | esprits forts | freethinkers | 18th-century term for skeptics |
 | pièce de batterie | weapon / instrument | military metaphor |
 | tenir le milieu | hold the middle ground | |
+
+## Cross-language review (fr ↔ en ↔ pt)
+
+- **§115 (Fourth Decade):** restored the Latin PSALTERIUM acrostic (*Peccatoribus praestat poenitentiam … Mortuis mittit misericordiam per modum suffragii*), which had been dropped in favor of an English-only paraphrase; the English now follows as a gloss.
+- **Latin-alone citations** are rendered in *italics* without surrounding quotes (e.g. *Sic orabitis: Pater noster*, *Gloria Patri*) — the convention to which the pt-BR text was aligned.
+- **§138:** corrected "an \"respectable person\"" → "a \"respectable person\"".
+- **rose-rouge §3:** French "pauvres pécheurs et pécheresses" is rendered "poor sinners" — English "sinners" is gender-inclusive, so the explicit feminine doubling is idiomatically dropped (deliberate, not an omission).
