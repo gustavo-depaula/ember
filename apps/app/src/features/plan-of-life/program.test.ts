@@ -5,6 +5,7 @@ import {
   computeMissedDays,
   computeProgramProgress,
   computeShouldRestart,
+  projectProgramAtDate,
   resolveCalendarDay,
   selectEnrollmentSchedule,
 } from './program'
@@ -282,6 +283,220 @@ describe('selectEnrollmentSchedule', () => {
     const daily: Schedule = { type: 'daily' }
     const result = selectEnrollmentSchedule('restart', daily, 9, '2026-01-01')
     expect(result).toEqual({ type: 'fixed-program', totalDays: 9, startDate: '2026-01-01' })
+  })
+})
+
+// --- projectProgramAtDate ---
+
+describe('projectProgramAtDate', () => {
+  const waitProgram: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'wait',
+    completionBehavior: 'auto-disable',
+  }
+  const continueProgram: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'auto-disable',
+  }
+  const dailySchedule: Schedule = { type: 'daily' }
+  const fixedSchedule: Schedule = {
+    type: 'fixed-program',
+    totalDays: 9,
+    startDate: '2026-06-01',
+  }
+  const cursor = { started_at: '2026-06-01' }
+
+  describe('wait policy', () => {
+    const completions = ['2026-06-01', '2026-06-03', '2026-06-05']
+    const realToday = date(2026, 6, 6)
+
+    it('hides before start date', () => {
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 5, 30),
+      })
+      expect(p.visible).toBe(false)
+    })
+
+    it('past in window shows count up to that date', () => {
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 3),
+      })
+      expect(p.visible).toBe(true)
+      expect(p.programDay).toBe(2) // 2 completions by Jun 3 → working on day 3
+    })
+
+    it('today shows current count', () => {
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: realToday,
+      })
+      expect(p.visible).toBe(true)
+      expect(p.programDay).toBe(3)
+      expect(p.isProjection).toBe(false)
+    })
+
+    it('future projects on-track from today', () => {
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 9),
+      })
+      expect(p.visible).toBe(true)
+      expect(p.programDay).toBe(6) // 3 + 3 days ahead
+      expect(p.isProjection).toBe(true)
+    })
+
+    it('future hides when projected end reached', () => {
+      // 3 done + 6 days ahead = 9 (= totalDays) → complete → hide
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 12),
+      })
+      expect(p.visible).toBe(false)
+      expect(p.isComplete).toBe(true)
+    })
+
+    it('caps programDay at totalDays - 1 on the last visible day', () => {
+      // 3 done + 5 days ahead = 8 (= totalDays - 1) → still visible
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 11),
+      })
+      expect(p.visible).toBe(true)
+      expect(p.programDay).toBe(8)
+    })
+
+    it('past hides after the user finished the novena', () => {
+      const done = Array.from({ length: 9 }, (_, i) => `2026-06-0${i + 1}`)
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor,
+        completionDatesAsc: done,
+        realToday: date(2026, 6, 15),
+        targetDate: date(2026, 6, 12),
+      })
+      expect(p.visible).toBe(false)
+    })
+
+    it('hides when no cursor', () => {
+      const p = projectProgramAtDate({
+        program: waitProgram,
+        schedule: dailySchedule,
+        cursor: null,
+        completionDatesAsc: [],
+        realToday,
+        targetDate: realToday,
+      })
+      expect(p.visible).toBe(false)
+    })
+  })
+
+  describe('continue/restart policy', () => {
+    const realToday = date(2026, 6, 6)
+    const completions = ['2026-06-01', '2026-06-02', '2026-06-03', '2026-06-04', '2026-06-05']
+
+    it('hides before start date', () => {
+      const p = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 5, 25),
+      })
+      expect(p.visible).toBe(false)
+    })
+
+    it('within window uses calendar day', () => {
+      const p = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 5),
+      })
+      expect(p.visible).toBe(true)
+      expect(p.programDay).toBe(4)
+    })
+
+    it('hides past end of window', () => {
+      const p = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday,
+        targetDate: date(2026, 6, 10),
+      })
+      // June 1 + 9 days = June 10 (day 9 = out of range)
+      expect(p.visible).toBe(false)
+    })
+
+    it('forward projection suppresses missed/restart diagnostics', () => {
+      const restartCfg: ProgramConfig = {
+        ...continueProgram,
+        progressPolicy: 'restart',
+        restartThreshold: 1,
+      }
+      // 2 completions, real today is day 5 — restart should fire today
+      const p = projectProgramAtDate({
+        program: restartCfg,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: ['2026-06-01', '2026-06-02'],
+        realToday: date(2026, 6, 5),
+        targetDate: date(2026, 6, 7),
+      })
+      expect(p.isProjection).toBe(true)
+      expect(p.missedDays).toBe(0)
+      expect(p.shouldPromptRestart).toBe(false)
+    })
+
+    it('today on restart-needed program flags restart', () => {
+      const restartCfg: ProgramConfig = {
+        ...continueProgram,
+        progressPolicy: 'restart',
+        restartThreshold: 1,
+      }
+      const p = projectProgramAtDate({
+        program: restartCfg,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: ['2026-06-01', '2026-06-02'],
+        realToday: date(2026, 6, 5),
+        targetDate: date(2026, 6, 5),
+      })
+      expect(p.shouldPromptRestart).toBe(true)
+      expect(p.missedDays).toBeGreaterThan(0)
+    })
   })
 })
 

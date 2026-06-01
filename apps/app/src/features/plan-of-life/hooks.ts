@@ -26,12 +26,12 @@ import {
   updateSlot,
 } from '@/db/repositories'
 import type { Completion, UserPractice } from '@/db/schema'
-import { getToday } from '@/hooks/useToday'
+import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 import { composeSlotKey } from '@/lib/slotKey'
 
-import { computeProgramProgress, resolveCalendarDay } from './program'
+import { projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
 import { getPracticeStreak } from './utils'
 
@@ -157,7 +157,18 @@ export function usePracticeCompletionStats(practiceId: string) {
   }, [completionsByPractice, completions, practiceId])
 }
 
+function sortedCompletionDates(
+  ids: Set<number> | undefined,
+  completions: Map<number, Completion>,
+): string[] {
+  const dates = new Set<string>()
+  for (const c of resolveCompletions(ids, completions)) dates.add(c.date)
+  return [...dates].sort()
+}
+
 export function useRestartNeededPractices(): Set<string> {
+  const realToday = useStableToday()
+  const realKey = realToday.getTime()
   const { slots, practices, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
       slots: s.slots,
@@ -168,8 +179,8 @@ export function useRestartNeededPractices(): Set<string> {
     })),
   )
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: realKey gates recomputation; realToday is captured by closure
   return useMemo(() => {
-    const today = getToday()
     const result = new Set<string>()
 
     for (const slot of slots.values()) {
@@ -184,28 +195,32 @@ export function useRestartNeededPractices(): Set<string> {
       const cursor = cursors.get(`program/${slot.practice_id}`)
       if (!cursor) continue
 
-      const resolved = resolveCompletions(completionsByPractice.get(slot.practice_id), completions)
-      const dates = new Set<string>()
-      for (const c of resolved) {
-        if (c.date >= cursor.started_at) dates.add(c.date)
-      }
-      const completionCount = dates.size
-
-      const calendarDay = resolveCalendarDay(
-        parseSchedule(slot.schedule),
+      const projection = projectProgramAtDate({
+        program,
+        schedule: parseSchedule(slot.schedule),
         cursor,
-        today,
-        program.totalDays,
-      )
-      const progress = computeProgramProgress({ program, completionCount, calendarDay })
-      if (progress.shouldPromptRestart) result.add(slot.practice_id)
+        completionDatesAsc: sortedCompletionDates(
+          completionsByPractice.get(slot.practice_id),
+          completions,
+        ),
+        realToday,
+        targetDate: realToday,
+      })
+      if (projection.shouldPromptRestart) result.add(slot.practice_id)
     }
 
     return result
-  }, [slots, practices, cursors, completionsByPractice, completions])
+  }, [slots, practices, cursors, completionsByPractice, completions, realKey])
 }
 
-export function useProgramProgress(practiceId: string, program: ProgramConfig | undefined) {
+export function useProgramProgress(
+  practiceId: string,
+  program: ProgramConfig | undefined,
+  targetDate?: Date,
+) {
+  const fallbackTarget = useToday()
+  const realToday = useStableToday()
+  const target = targetDate ?? fallbackTarget
   const { slots, cursors, completionsByPractice, completions } = useEventStore(
     useShallow((s) => ({
       slots: s.slots,
@@ -215,34 +230,75 @@ export function useProgramProgress(practiceId: string, program: ProgramConfig | 
     })),
   )
 
+  // Date refs change every render; the primitive *Key derived from getTime()
+  // is the stable cache key. `realToday` / `target` are read from the closure.
+  const targetKey = target.getTime()
+  const realKey = realToday.getTime()
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: targetKey/realKey gate recomputation; the Date refs are captured by closure
   return useMemo(() => {
     if (!program) return undefined
 
-    const cursor = cursors.get(`program/${practiceId}`)
+    const cursor = cursors.get(`program/${practiceId}`) ?? null
+    const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
+    if (!slot) return undefined
 
-    const resolved = resolveCompletions(completionsByPractice.get(practiceId), completions)
-    const startDate = cursor?.started_at ?? '1970-01-01'
-    const dates = new Set<string>()
-    for (const c of resolved) {
-      if (c.date >= startDate) dates.add(c.date)
+    return projectProgramAtDate({
+      program,
+      schedule: parseSchedule(slot.schedule),
+      cursor,
+      completionDatesAsc: sortedCompletionDates(completionsByPractice.get(practiceId), completions),
+      realToday,
+      targetDate: target,
+    })
+  }, [slots, cursors, completionsByPractice, completions, practiceId, program, targetKey, realKey])
+}
+
+export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
+  const realToday = useStableToday()
+  const { slots, practices, cursors, completionsByPractice, completions } = useEventStore(
+    useShallow((s) => ({
+      slots: s.slots,
+      practices: s.practices,
+      cursors: s.cursors,
+      completionsByPractice: s.completionsByPractice,
+      completions: s.completions,
+    })),
+  )
+
+  const realKey = realToday.getTime()
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: realKey gates recomputation; realToday is captured by closure
+  return useMemo(() => {
+    const result = new Set<string>()
+    const targetDate = new Date(`${dateStr}T00:00:00`)
+
+    for (const slot of slots.values()) {
+      if (!slot.enabled) continue
+      const practice = practices.get(slot.practice_id)
+      if (practice?.archived) continue
+
+      const manifest = getManifest(slot.practice_id)
+      const program = manifest?.program
+      if (!program) continue
+
+      const cursor = cursors.get(`program/${slot.practice_id}`) ?? null
+      const projection = projectProgramAtDate({
+        program,
+        schedule: parseSchedule(slot.schedule),
+        cursor,
+        completionDatesAsc: sortedCompletionDates(
+          completionsByPractice.get(slot.practice_id),
+          completions,
+        ),
+        realToday,
+        targetDate,
+      })
+      if (!projection.visible) result.add(slot.id)
     }
-    const completionCount = dates.size
 
-    let calendarDay: number | undefined
-    if (program.progressPolicy !== 'wait') {
-      const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
-      if (slot) {
-        calendarDay = resolveCalendarDay(
-          parseSchedule(slot.schedule),
-          cursor ?? null,
-          getToday(),
-          program.totalDays,
-        )
-      }
-    }
-
-    return computeProgramProgress({ program, completionCount, calendarDay })
-  }, [slots, cursors, completionsByPractice, completions, practiceId, program])
+    return result
+  }, [slots, practices, cursors, completionsByPractice, completions, dateStr, realKey])
 }
 
 // --- Archive reads ---

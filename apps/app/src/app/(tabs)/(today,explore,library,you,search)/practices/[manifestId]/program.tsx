@@ -18,7 +18,7 @@ import {
 } from '@/features/plan-of-life'
 import { computeAllDayStates } from '@/features/plan-of-life/program'
 import { ProgramRestartModal } from '@/features/practices/components'
-import { getToday } from '@/hooks/useToday'
+import { getToday, useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 
 function getDayTitles(cycleData: Record<string, CycleData> | undefined): string[] {
@@ -43,7 +43,8 @@ export default function ProgramDetailScreen() {
   const theme = useTheme()
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
-  const progress = useProgramProgress(manifest?.id ?? '', manifest?.program)
+  const today = useToday()
+  const progress = useProgramProgress(manifest?.id ?? '', manifest?.program, today)
   const restartProgramMutation = useRestartProgram()
   const backfillMutation = useBackfillMissedDays()
 
@@ -64,7 +65,14 @@ export default function ProgramDetailScreen() {
     )
   }
 
-  const { programDay, totalDays, isComplete, completionBehavior, shouldPromptRestart } = progress
+  const {
+    programDay,
+    totalDays,
+    isComplete,
+    completionBehavior,
+    shouldPromptRestart,
+    isProjection,
+  } = progress
   const dayStates = computeAllDayStates(progress)
   const iconKey = getManifestIconKey(manifest.id)
   const progressPercent = isComplete ? 100 : ((programDay + 1) / totalDays) * 100
@@ -164,7 +172,7 @@ export default function ProgramDetailScreen() {
           </YStack>
         )}
 
-        {shouldPromptRestart && !isComplete && (
+        {shouldPromptRestart && !isComplete && !isProjection && (
           <ProgramRestartModal
             practiceName={localizeContent(manifest.name)}
             missedDays={progress.missedDays}
@@ -197,7 +205,7 @@ export default function ProgramDetailScreen() {
                 isMissed={state.isMissed}
                 missedLabel={t('program.missed')}
                 onPress={
-                  shouldPromptRestart
+                  shouldPromptRestart || isProjection
                     ? undefined
                     : () =>
                         router.push({

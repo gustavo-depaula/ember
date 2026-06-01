@@ -1,3 +1,5 @@
+import { differenceInCalendarDays, parseISO, startOfDay } from 'date-fns'
+
 import type { ProgramConfig } from '@/content/manifestTypes'
 
 import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './schedule'
@@ -13,6 +15,11 @@ export type ProgramProgress = {
   completionBehavior: ProgramConfig['completionBehavior']
   missedDays: number
   shouldPromptRestart: boolean
+  isProjection: boolean
+}
+
+export type ProjectedProgramState = ProgramProgress & {
+  visible: boolean
 }
 
 export type DayState = {
@@ -66,6 +73,105 @@ export function computeProgramProgress(params: {
     isComplete,
     policy: program.progressPolicy,
     completionBehavior: program.completionBehavior,
+    missedDays,
+    shouldPromptRestart,
+    isProjection: false,
+  }
+}
+
+// --- Date-aware projection (carousel time-travel) ---
+
+/**
+ * Compute a program's state as it would appear on `targetDate`, given the
+ * user's real present (`realToday`). Forward dates project on the assumption
+ * the user stays on track — for `wait` policy this means today's completion
+ * count plus the gap to the target. Diagnostics that describe real state
+ * (`missedDays`, `shouldPromptRestart`) are zeroed on projected dates.
+ *
+ * `visible` answers the plan-of-life filter: hide before start, hide after
+ * the program's projected end.
+ */
+export function projectProgramAtDate(args: {
+  program: ProgramConfig
+  schedule: Schedule
+  cursor: { started_at: string } | null
+  completionDatesAsc: string[]
+  realToday: Date
+  targetDate: Date
+}): ProjectedProgramState {
+  const { program, schedule, cursor, completionDatesAsc, realToday, targetDate } = args
+  const totalDays = program.totalDays
+  const target = startOfDay(targetDate)
+  const today = startOfDay(realToday)
+  const isProjection = differenceInCalendarDays(target, today) > 0
+  const policy = program.progressPolicy
+
+  const empty: ProjectedProgramState = {
+    visible: false,
+    programDay: 0,
+    totalDays,
+    completionCount: 0,
+    isComplete: false,
+    policy,
+    completionBehavior: program.completionBehavior,
+    missedDays: 0,
+    shouldPromptRestart: false,
+    isProjection,
+  }
+
+  if (!cursor) return empty
+  const startedAt = parseISO(cursor.started_at)
+  if (differenceInCalendarDays(target, startedAt) < 0) return empty
+
+  const countUpTo = (d: Date) => {
+    const startStr = cursor.started_at
+    const upTo = d.toISOString().slice(0, 10)
+    let n = 0
+    for (const c of completionDatesAsc) {
+      if (c >= startStr && c <= upTo) n++
+    }
+    return n
+  }
+
+  if (policy === 'wait') {
+    const baseCount = countUpTo(today)
+    const rawProgramDay = isProjection
+      ? baseCount + differenceInCalendarDays(target, today)
+      : countUpTo(target)
+    const isComplete = rawProgramDay >= totalDays
+    const programDay = Math.min(rawProgramDay, totalDays - 1)
+    return {
+      ...empty,
+      visible: !isComplete,
+      programDay,
+      completionCount: baseCount,
+      isComplete,
+    }
+  }
+
+  // continue / restart: calendar-anchored. Visibility window is governed by
+  // the schedule's own `isApplicableOn`, but we mirror its logic here so the
+  // hook is the single source of truth.
+  const calendarDay = resolveCalendarDay(schedule, cursor, target, totalDays)
+  if (calendarDay === undefined) return empty
+
+  const baseCount = countUpTo(today)
+  const programDay = Math.min(calendarDay, totalDays - 1)
+  const isComplete = baseCount >= totalDays
+
+  let missedDays = 0
+  let shouldPromptRestart = false
+  if (!isProjection && !isComplete) {
+    missedDays = computeMissedDays(policy, calendarDay, baseCount)
+    shouldPromptRestart = computeShouldRestart(policy, missedDays, program.restartThreshold ?? 1)
+  }
+
+  return {
+    ...empty,
+    visible: !isComplete,
+    programDay,
+    completionCount: baseCount,
+    isComplete,
     missedDays,
     shouldPromptRestart,
   }

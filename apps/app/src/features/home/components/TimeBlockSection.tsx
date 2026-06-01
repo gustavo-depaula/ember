@@ -23,6 +23,7 @@ export function TimeBlockSection({
   state,
   completed,
   total,
+  readOnly,
   onToggle,
   onToggleCollapse,
   onPressItem,
@@ -34,6 +35,7 @@ export function TimeBlockSection({
   state: BlockState
   completed: number
   total: number
+  readOnly?: boolean
   onToggle: (item: ChecklistItem, completed: boolean) => void
   onToggleCollapse: () => void
   onPressItem?: (item: ChecklistItem) => void
@@ -149,6 +151,17 @@ export function TimeBlockSection({
             <XStack paddingVertical="$md" paddingHorizontal="$xs" alignItems="center" gap="$md">
               {needsRestart ? (
                 <AlertTriangle size={22} color={theme.accent?.val} />
+              ) : readOnly ? (
+                <View width={24} height={24} alignItems="center" justifyContent="center">
+                  <Text
+                    fontFamily="$body"
+                    fontSize="$3"
+                    color={done ? '$accent' : '$colorSecondary'}
+                    opacity={0.5}
+                  >
+                    {done ? '✓' : '–'}
+                  </Text>
+                </View>
               ) : (
                 <View width={24} height={24} alignItems="center" justifyContent="center">
                   <AnimatedCheckbox
