@@ -125,7 +125,8 @@ export function resolveSection(
       ]
 
     case 'prayer':
-      if ('ref' in section) return resolvePrayerRef(section.ref, context, ec, resolveSection)
+      if ('ref' in section)
+        return resolvePrayerRef(section.ref, context, ec, resolveSection, section.defaultOpen)
       if ('inline' in section) return [resolveInlinePrayer(section.inline, ec, section.speaker)]
       if ('title' in section && 'sections' in section) {
         const resolved = section.sections.flatMap((s) => resolveSection(s, context, ec))
@@ -135,6 +136,7 @@ export function resolveSection(
             title: ec.localize(section.title),
             text: bilingualEmpty,
             sections: resolved,
+            ...(section.defaultOpen ? { defaultOpen: true } : {}),
           },
         ]
       }

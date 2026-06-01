@@ -108,6 +108,46 @@ describe('resolveFlow — collapsible primitive', () => {
   })
 })
 
+describe('resolveFlow — prayer ref defaultOpen', () => {
+  function ecWithPrayer() {
+    const ec = makeEngineContext()
+    ec.prayers = {
+      'te-deum': {
+        title: { 'pt-BR': 'Te Deum' },
+        body: [{ type: 'prayer', inline: { 'pt-BR': 'Te Deum laudamus...' } }],
+      },
+    }
+    return ec
+  }
+
+  it('omits defaultOpen by default (asset stays collapsed)', () => {
+    const result = resolveFlow(
+      flow({ type: 'prayer', ref: 'te-deum' }),
+      makeContext(),
+      ecWithPrayer(),
+    )
+    expect((result[0] as { defaultOpen?: boolean }).defaultOpen).toBeUndefined()
+  })
+
+  it('carries defaultOpen: true into the rendered prayer section', () => {
+    const result = resolveFlow(
+      flow({ type: 'prayer', ref: 'te-deum', defaultOpen: true }),
+      makeContext(),
+      ecWithPrayer(),
+    )
+    expect((result[0] as { defaultOpen?: boolean }).defaultOpen).toBe(true)
+  })
+
+  it('carries defaultOpen onto an unknown-ref placeholder too', () => {
+    const result = resolveFlow(
+      flow({ type: 'prayer', ref: 'no-such-prayer', defaultOpen: true }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect((result[0] as { defaultOpen?: boolean }).defaultOpen).toBe(true)
+  })
+})
+
 describe('resolveFlow — prose with resolvedProse', () => {
   it('silently skips missing prose keys when resolvedProse is set', () => {
     expect(

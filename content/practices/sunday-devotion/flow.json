@@ -45,7 +45,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "te-deum"
+			"ref": "te-deum",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"

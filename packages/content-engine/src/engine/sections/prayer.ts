@@ -12,7 +12,9 @@ export function resolvePrayerRef(
   context: FlowContext,
   ec: EngineContext,
   resolveSection: SectionResolver,
+  defaultOpen?: boolean,
 ): RenderedSection[] {
+  const openProp = defaultOpen ? { defaultOpen: true } : {}
   const asset = ec.prayers[ref]
   if (!asset) {
     return [
@@ -20,6 +22,7 @@ export function resolvePrayerRef(
         type: 'prayer',
         title: bilingualOf(ref),
         text: bilingualOf(`[Unknown prayer ref: ${ref}]`),
+        ...openProp,
       },
     ]
   }
@@ -30,6 +33,7 @@ export function resolvePrayerRef(
         type: 'prayer',
         title: ec.localize(asset.title),
         text: ec.localize(asset.body as unknown as LocalizedContent),
+        ...openProp,
       },
     ]
   }
@@ -37,7 +41,7 @@ export function resolvePrayerRef(
   // Single inline prayer: attach the asset title for collapsible rendering
   const first = resolved[0]
   if (resolved.length === 1 && first?.type === 'prayer') {
-    return [{ ...first, title: ec.localize(asset.title) }]
+    return [{ ...first, title: ec.localize(asset.title), ...openProp }]
   }
   // Multi-section prayer: wrap in a prayer section with nested sections
   return [
@@ -46,6 +50,7 @@ export function resolvePrayerRef(
       title: ec.localize(asset.title),
       text: bilingualEmpty,
       sections: resolved,
+      ...openProp,
     },
   ]
 }

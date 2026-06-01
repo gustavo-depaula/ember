@@ -25,7 +25,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "sub-tuum-praesidium"
+			"ref": "sub-tuum-praesidium",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -42,7 +43,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "three-hail-marys"
+			"ref": "three-hail-marys",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -65,7 +67,11 @@
 						"pt-BR": "Alma Redemptoris Mater (Advento–Apresentação)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "alma-redemptoris-mater" }
+						{
+							"type": "prayer",
+							"ref": "alma-redemptoris-mater",
+							"defaultOpen": true
+						}
 					]
 				},
 				{
@@ -75,7 +81,11 @@
 						"pt-BR": "Ave Regina Caelorum (Apresentação–Quarta-feira Santa)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "ave-regina-caelorum" }
+						{
+							"type": "prayer",
+							"ref": "ave-regina-caelorum",
+							"defaultOpen": true
+						}
 					]
 				},
 				{
@@ -85,7 +95,11 @@
 						"pt-BR": "Regina Caeli (Tempo Pascal)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "regina-caeli" }
+						{
+							"type": "prayer",
+							"ref": "regina-caeli",
+							"defaultOpen": true
+						}
 					]
 				},
 				{
@@ -95,7 +109,11 @@
 						"pt-BR": "Salve Rainha (Tempo Comum)"
 					},
 					"sections": [
-						{ "type": "prayer", "ref": "hail-holy-queen" }
+						{
+							"type": "prayer",
+							"ref": "hail-holy-queen",
+							"defaultOpen": true
+						}
 					]
 				}
 			]
@@ -105,7 +123,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "memorare"
+			"ref": "memorare",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"

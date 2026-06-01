@@ -18,7 +18,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "de-profundis"
+			"ref": "de-profundis",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -112,14 +113,16 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "st-gertrude-souls"
+			"ref": "st-gertrude-souls",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
 		},
 		{
 			"type": "prayer",
-			"ref": "eternal-rest"
+			"ref": "eternal-rest",
+			"defaultOpen": true
 		},
 		{
 			"type": "prayer",

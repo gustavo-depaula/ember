@@ -18,7 +18,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "o-salutaris-hostia"
+			"ref": "o-salutaris-hostia",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -35,24 +36,16 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "adoro-te-devote"
+			"ref": "adoro-te-devote",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
 		},
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "A Spiritual Communion — for when sacramental communion is not possible.",
-				"pt-BR": "Comunhão Espiritual — para quando a comunhão sacramental não é possível."
-			}
-		},
-		{
 			"type": "prayer",
-			"inline": {
-				"en-US": "My Jesus, I believe that Thou art present in the Most Holy Sacrament. I love Thee above all things, and I desire to receive Thee into my soul. Since I cannot at this moment receive Thee sacramentally, come at least spiritually into my heart. I embrace Thee as if Thou wert already there, and unite myself wholly to Thee. Never permit me to be separated from Thee. Amen.",
-				"pt-BR": "Meu Jesus, creio que estais real e verdadeiramente presente no Santíssimo Sacramento. Amo-Vos sobre todas as coisas e desejo receber-Vos em minha alma. Já que não Vos posso agora receber sacramentalmente, vinde ao menos espiritualmente ao meu coração. Eu Vos abraço como se já estivésseis presente e me uno inteiramente a Vós. Nunca permitais que me separe de Vós. Amém."
-			}
+			"ref": "spiritual-communion",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -66,7 +59,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "divine-praises"
+			"ref": "divine-praises",
+			"defaultOpen": true
 		},
 		{
 			"type": "divider"
@@ -90,7 +84,8 @@
 		},
 		{
 			"type": "prayer",
-			"ref": "anima-christi"
+			"ref": "anima-christi",
+			"defaultOpen": true
 		},
 		{
 			"type": "prayer",

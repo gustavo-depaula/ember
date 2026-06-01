@@ -86,9 +86,14 @@ export type FlowSection = { lang?: string } & (
       from?: string
     }
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
-  | { type: 'prayer'; ref: string }
+  // `defaultOpen: true` renders the embedded prayer expanded on first paint
+  // (still tappable to collapse). Use when the prayer isn't reliably known by
+  // heart and the text being on the page matters — Te Deum, Anima Christi,
+  // litanies, Marian antiphons, the Leonine St. Michael, the *En ego*, etc.
+  // Default collapsed is right for Hail Mary, Sign of the Cross, Glory Be.
+  | { type: 'prayer'; ref: string; defaultOpen?: boolean }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
-  | { type: 'prayer'; title: LocalizedText; sections: FlowSection[] }
+  | { type: 'prayer'; title: LocalizedText; sections: FlowSection[]; defaultOpen?: boolean }
   | { type: 'hymn'; ref: string }
   | { type: 'hymn'; inline: LocalizedContent }
   | { type: 'canticle'; ref: string }
@@ -331,6 +336,7 @@ export type RenderedSection =
       count?: number
       speaker?: 'priest' | 'people' | 'all'
       sections?: RenderedSection[]
+      defaultOpen?: boolean
     }
   | { type: 'hymn'; title: BilingualText; text: BilingualText }
   | {
