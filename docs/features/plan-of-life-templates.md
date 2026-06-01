@@ -170,7 +170,7 @@ The plan organized around devotion to the Sacred Heart, reparation, and the *pro
 
 | Cadence | Practices |
 |---|---|
-| Daily | **Morning Offering** to the Sacred Heart for the Pope's monthly intention (`morning-offering-sacred-heart`) · Mass + Communion offered in reparation · Aspirations to the Sacred Heart ("Sacred Heart of Jesus, I trust in You" — the Divine Mercy chaplet is a related though distinct devotion: `chaplet-of-divine-mercy`) · Brief evening review of the day's reparation |
+| Daily | **Morning Offering** to the Sacred Heart for the Pope's monthly intention (`morning-offering-sacred-heart`) · Mass + Communion offered in reparation · Aspirations to the Sacred Heart ("Sacred Heart of Jesus, have mercy on us"; "Sweet Heart of Jesus, be my love") · Brief evening review of the day's reparation |
 | Weekly | Confession · **Thursday Holy Hour** (St. Margaret Mary's "Hour of Reparation," 11pm–midnight in the original; a Thursday evening adaptation works) · Friday voluntary penance for reparation |
 | Monthly | **First Friday Communion of Reparation** — the nine-month classical sequence; once completed, kept up perpetually (`first-friday-devotion`) · Reading on the Sacred Heart (St. John Eudes, St. Margaret Mary's *Autobiography*, Garrigou-Lagrange's *Three Ages*) |
 | Annually | Solemnity of the Sacred Heart (movable, Friday after Corpus Christi octave) — major spiritual moment · **Enthronement of the Sacred Heart in the home** — annual renewal |
@@ -183,7 +183,28 @@ The plan organized around devotion to the Sacred Heart, reparation, and the *pro
 
 ---
 
-## 10. Cursillo — The Tripod (Piety, Study, Action)
+## 10. Divine Mercy — St. Faustina
+
+> "The greater the sinner, the greater the right he has to My mercy." — *Diary*, §723
+
+The plan rooted in the *Diary* of St. Faustina Kowalska (Poland, 1905–1938) and the apparitions of the Merciful Jesus at Płock and Vilnius. Distinct enough from the Sacred Heart plan to ship separately: where Margaret Mary's tradition is reparation-centered (consoling the wounded Christ), Faustina's is trust-centered (throwing oneself into the wounded Christ's mercy). Codified through her *Diary*, given a Universal Church shape by John Paul II's 2000 canonization, the institution of Divine Mercy Sunday, and *Dives in Misericordia*.
+
+| Cadence | Practices |
+|---|---|
+| Daily | Morning consecration with the trust formula ("Jesus, I trust in You") · Mass + Communion when possible · **The Chaplet of Divine Mercy** at the **Hour of Mercy** (3:00 PM, the hour of Christ's death) — Faustina's *Diary* §1320: "at three o'clock implore My mercy, especially for sinners" (`chaplet-of-divine-mercy`) · **Three daily acts of mercy** — one of word, one of deed, one of prayer (*Diary* §742 — "I demand from you deeds of mercy, which are to arise out of love for Me") · Veneration of the Image of Divine Mercy in the home · Examen at night focused on trust and mercy received/given |
+| Weekly | Confession (frequent — Faustina's spirituality requires a clean heart for the trust to be operative) · Friday: meditation on the Passion and the Image |
+| Monthly | First Friday Communion (pairs naturally with the Sacred Heart practice — many practitioners live both devotions side by side) · A *Divine Mercy* reading from the *Diary* (it is long enough to last years at small daily doses) |
+| Annually | **Divine Mercy Novena** beginning Good Friday — nine days, each with a specific group offered: all humankind / priests and religious / devout and faithful / those who do not know Jesus / separated brethren / meek and humble souls / souls in Purgatory / souls who venerate the Mercy / lukewarm souls (`divine-mercy-novena`) · **Divine Mercy Sunday** (Octave of Easter) — plenary indulgence under the usual conditions, received in the spirit of trust and mercy · Pilgrimage to the Shrine of Divine Mercy at Łagiewniki (Kraków) when possible |
+
+**Distinctive emphasis.** *Trust* as the keystone virtue and as the implicit measure of every other practice ("the graces of My mercy are drawn by means of one vessel only, and that is — trust" — *Diary* §1578). Christ's mercy is greater than any sin; the worst sinners therefore have the most right to it. The plan replaces fear with abandonment. The Image is a quasi-sacramental sign (Christ in white with red and pale rays from His side), placed in the home and venerated daily.
+
+**Best for.** The over-scrupulous (Faustina is the patron saint of the recovering scrupulant). Converts and reverts coming from far away ("the greater the sinner..."). The dying and those who pray for them — Faustina was given the Chaplet of Divine Mercy explicitly for the dying. **Strongly pt-BR-relevant** — Brazil is one of the heartlands of the devotion alongside Poland and the US. Pairs naturally with a Marian plan rather than competing with it.
+
+**Sources.** **St. Faustina Kowalska, *Diary: Divine Mercy in My Soul*** (the foundational text; the Chaplet, the Image, the Hour, the Novena, and Divine Mercy Sunday all originate here). John Paul II, *Dives in Misericordia* (1980). Ignacy Różycki, *Theological Analysis of the Divine Mercy Devotion* (the assessment commissioned for the cause of canonization — the authoritative theological framing). George Kosicki, *Divine Mercy Minutes with Jesus*. Robert Stackpole, *Divine Mercy: A Guide from Genesis to Benedict XVI*.
+
+---
+
+## 11. Cursillo — The Tripod (Piety, Study, Action)
 
 Plan of life developed in mid-20th-century Spain for laypeople who have made the Cursillo weekend. Built on three legs ("the tripod") — remove any leg and the stool falls. Distinctively post-conciliar in tone and explicitly evangelical.
 
@@ -203,7 +224,7 @@ Plan of life developed in mid-20th-century Spain for laypeople who have made the
 
 ---
 
-## 11. Legion of Mary
+## 12. Legion of Mary
 
 A specific, codified plan for active Marian apostles. Distinctive in that the *apostolic work itself* is a weekly required commitment — not a daily aspiration.
 
@@ -222,7 +243,7 @@ A specific, codified plan for active Marian apostles. Distinctive in that the *a
 
 ---
 
-## 12. Sulpician — Adoration / Communion / Cooperation
+## 13. Sulpician — Adoration / Communion / Cooperation
 
 The plan developed by Jean-Jacques Olier at the French school of spirituality (17th c.), formative for Vincent de Paul, Jean Eudes, and centuries of seminarian and priestly formation. Lay-adaptable.
 
@@ -241,7 +262,7 @@ The plan developed by Jean-Jacques Olier at the French school of spirituality (1
 
 ---
 
-## 13. The Little Way (Thérèse of Lisieux)
+## 14. The Little Way (Thérèse of Lisieux)
 
 Not a separate canonical plan but a *temper* applied to any other plan. Sufficiently distinct to ship as its own starter — many users want exactly this and would be put off by Opus Dei's rigor or the Legion's outward push.
 
@@ -260,7 +281,7 @@ Not a separate canonical plan but a *temper* applied to any other plan. Sufficie
 
 ---
 
-## 14. Byzantine / Eastern Catholic
+## 15. Byzantine / Eastern Catholic
 
 A plan rooted in the Christian East — particularly the hesychast tradition. Ember would offer this as an Eastern Catholic option (the same plan works in Orthodox practice but Ember is a Catholic app).
 
@@ -279,7 +300,7 @@ A plan rooted in the Christian East — particularly the hesychast tradition. Em
 
 ---
 
-## 15. The Beginner's Bare Minimum
+## 16. The Beginner's Bare Minimum
 
 Not a tradition but a deliberately small starter plan. Indispensable: the first-week user, the lapsed Catholic returning, the curious. A plan they can actually keep, sized to *prove* that a plan of life is possible.
 
@@ -317,7 +338,7 @@ A template in Ember is *not* a unique data model — it is a starter pack compos
 3. **Optionally, suggested seasonal / annual resolutions** to pre-fill in the Resolutions panel ([[project-primitives-renderer]]; see `docs/features/spiritual-threads/04-plan-of-life.md`).
 4. **Optionally, a recommended collection** of books / chapters / propers to pin alongside (e.g., the Carmelite template pins *Interior Castle*, *Story of a Soul*, *Ascent of Mount Carmel*).
 
-What's already in the corpus today (`content/practices/*`) covers the spine of most templates: `mass`, `rosary`, `examination-of-conscience`, `mental-prayer`, `morning-offering`, `morning-offering-sacred-heart`, `angelus`, `confession`, `holy-hour`, `little-office-bvm`, `gospel-of-the-day`, `first-friday-devotion`, `total-consecration`, the litanies, the acts, etc. The Liturgy of the Hours story (`dwdo`, the eventual real `breviary`) covers Benedictine, Dominican, Franciscan, Carmelite. The Eastern template is the only one with significant *new content* to author: a daily morning prayer rule, a Jesus Prayer practice, a *Trisagion* prayer, a Byzantine fasting calendar.
+What's already in the corpus today (`content/practices/*`) covers the spine of most templates: `mass`, `rosary`, `examination-of-conscience`, `mental-prayer`, `morning-offering`, `morning-offering-sacred-heart`, `angelus`, `confession`, `holy-hour`, `little-office-bvm`, `gospel-of-the-day`, `first-friday-devotion`, `total-consecration`, `chaplet-of-divine-mercy`, `divine-mercy-novena`, the litanies, the acts, etc. The Liturgy of the Hours story (`dwdo`, the eventual real `breviary`) covers Benedictine, Dominican, Franciscan, Carmelite. The Eastern template is the only one with significant *new content* to author: a daily morning prayer rule, a Jesus Prayer practice, a *Trisagion* prayer, a Byzantine fasting calendar.
 
 A first-cut template ordering for v1, sized to the user's likely audience:
 
@@ -327,15 +348,16 @@ A first-cut template ordering for v1, sized to the user's likely audience:
 4. **Ignatian** (the discerner's plan)
 5. **The Little Way** (the gentle / scrupulous user's plan)
 6. **Marian Total Consecration** (very-pt-BR-relevant)
-7. **Sacred Heart / First Fridays** (pairs well with pt-BR devotion)
-8. **Carmelite**
-9. **Dominican**
-10. **Franciscan**
-11. **Benedictine Oblate**
-12. **Cursillo** (pt-BR strong — Brazil has a deep Cursillo culture)
-13. **Legion of Mary**
-14. **Sulpician**
-15. **Byzantine** (Eastern Catholic users)
+7. **Divine Mercy** (very-pt-BR-relevant; pairs with Marian or Sacred Heart)
+8. **Sacred Heart / First Fridays** (pairs well with pt-BR devotion)
+9. **Carmelite**
+10. **Dominican**
+11. **Franciscan**
+12. **Benedictine Oblate**
+13. **Cursillo** (pt-BR strong — Brazil has a deep Cursillo culture)
+14. **Legion of Mary**
+15. **Sulpician**
+16. **Byzantine** (Eastern Catholic users)
 
 Each ships as a JSON file under `content/plan-of-life-templates/<id>/manifest.json` (proposed location — finalize when the feature is specced). The corpus pipeline (`scripts/build-corpus.py`) extends to index these as another first-class corpus kind, served at `/hearth/v2/plan-of-life-templates/`. The onboarding flow asks the user three questions (state-of-life, temperament, time available) and recommends 2–3; the user can always browse the full list.
 
