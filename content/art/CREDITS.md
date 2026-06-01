@@ -35,3 +35,4 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/dies-thursday** → `dies-thursday.jpg` — Juan de Juanes. *El Salvador con la Eucaristía entre Melquisedec y Aarón (Museo del Prado).jpg* (Public domain).
 - **collection/dies-friday** → `dies-friday.jpg` — Diego Velázquez. *Cristo crucificado.jpg* (Public domain).
 - **collection/dies-saturday** → `dies-saturday.jpg` — Sandro Botticelli. *Madonna of the Magnificat* (c. 1481, Uffizi, Florence). Source photo by Livioandronico2013 on Wikimedia Commons (Public domain).
+- **plan-of-life-template/divine-mercy** → `tpl-divine-mercy.jpg` — Eugeniusz Kazimirowski. *Kazimirowski Eugeniusz, Divine Mercy, 1934.jpg* (Public domain).

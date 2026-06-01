@@ -1,0 +1,144 @@
+{
+  "name": {
+    "en-US": "Divine Mercy",
+    "pt-BR": "Divina Misericórdia"
+  },
+  "description": {
+    "en-US": "Trust in Jesus, rich in mercy.",
+    "pt-BR": "Confiança em Jesus, rico em misericórdia."
+  },
+  "manifesto": {
+    "en-US": "This rule lives the spiritual life as confident trust in Jesus, rich in mercy, and answers His request revealed to St. Faustina Kowalska: that the world know the depth of His mercy and surrender to it. Where the Sacred Heart devotion consoles the wounded Christ in reparation, this devotion throws itself into His wounded side, drinking from the ocean of mercy that flows from it.\n\nEach afternoon at three o'clock — the Hour of Mercy, when Jesus breathed His last — the Chaplet is prayed for sinners and for the dying. Three acts of mercy are offered each day: one by word, one by deed, one by prayer, as Jesus asked Faustina in §742 of her Diary. The Image of Divine Mercy is venerated in the home, inscribed with the words Jesus, I trust in You. Confession is kept frequently, so that the cup of trust remains clean. Once a year, from Good Friday through Divine Mercy Sunday, the Novena Jesus Himself dictated is prayed for nine groups of souls.\n\nFor the over-scrupulous; for converts and reverts who come from far away; for the dying and those who pray for them; for anyone whose temptation is to despair of God's mercy because the idea of their own sin has grown larger than the wound of Christ's side. The greater the sinner, the greater the right he has to Christ's mercy.",
+    "pt-BR": "Esta regra vive a vida espiritual como confiança certa em Jesus, rico em misericórdia, e responde ao pedido revelado a Santa Faustina Kowalska: que o mundo conheça a profundidade de Sua misericórdia e a ela se entregue. Onde a devoção ao Sagrado Coração consola o Cristo ferido em reparação, esta devoção se lança no Seu lado ferido, bebendo do oceano de misericórdia que dali brota.\n\nCada tarde, às três horas — a Hora da Misericórdia, em que Jesus expirou —, reza-se o Terço pelos pecadores e pelos moribundos. Oferecem-se diariamente três atos de misericórdia: um por palavra, um por obra, um por oração, como Jesus pediu a Faustina no §742 de seu Diário. A Imagem da Divina Misericórdia é venerada em casa, inscrita com as palavras Jesus, eu confio em Vós. A confissão é mantida com frequência, para que o cálice da confiança permaneça limpo. Uma vez por ano, da Sexta-Feira Santa até o Domingo da Divina Misericórdia, reza-se a Novena ditada pelo próprio Jesus, por nove grupos de almas.\n\nPara os que sofrem de escrúpulo; para convertidos e reconciliados que vêm de longe; para os moribundos e para quantos rezam por eles; para todo aquele cuja tentação é desesperar da misericórdia de Deus porque a ideia que faz do próprio pecado se tornou maior do que a chaga do lado de Cristo. Quanto maior o pecador, maior o seu direito à misericórdia de Cristo."
+  },
+  "attribution": {
+    "en-US": "St. Faustina Kowalska, Diary; St. John Paul II, Dives in Misericordia",
+    "pt-BR": "Santa Faustina Kowalska, Diário; São João Paulo II, Dives in Misericordia"
+  },
+  "icon": "mercy",
+  "tags": ["divine-mercy", "trust", "faustina"],
+  "practices": [
+    {
+      "ref": "morning-offering",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "07:00",
+      "note": {
+        "en-US": "The day surrendered to Jesus with the trust formula — Jesus, I trust in You — naming Him as the source of every grace the day will draw.",
+        "pt-BR": "O dia entregue a Jesus com a fórmula da confiança — Jesus, eu confio em Vós —, nomeando-O como a fonte de toda graça que o dia há de receber."
+      }
+    },
+    {
+      "ref": "chaplet-of-divine-mercy",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "15:00",
+      "note": {
+        "en-US": "The Chaplet at the Hour of Mercy — three in the afternoon, the hour Jesus breathed His last — pleading the Father by the Sorrowful Passion of His Son.",
+        "pt-BR": "O Terço na Hora da Misericórdia — às três da tarde, a hora em que Jesus expirou —, suplicando ao Pai pela Dolorosa Paixão de Seu Filho."
+      }
+    },
+    {
+      "ref": "three-oclock-prayer",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "15:00",
+      "note": {
+        "en-US": "A brief two-minute immersion in the Passion when the full Chaplet cannot be prayed — the bare observance Jesus explicitly asked of Faustina in Diary §1320.",
+        "pt-BR": "Uma breve imersão de dois minutos na Paixão, quando não se pode rezar o Terço inteiro — a observância nua que Jesus pediu explicitamente a Faustina no §1320 do Diário."
+      }
+    },
+    {
+      "ref": "mass",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "note": {
+        "en-US": "Mass and Communion offered in trust, drinking from the Heart of Christ the mercy poured out from His side at this same hour each day.",
+        "pt-BR": "A Missa e a Comunhão oferecidas em confiança, bebendo do Coração de Cristo a misericórdia derramada do Seu lado, à mesma hora, cada dia."
+      }
+    },
+    {
+      "ref": "confession",
+      "tier": "essential",
+      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "note": {
+        "en-US": "Frequent confession, the cup made clean to receive — for trust without conversion is presumption, and Faustina warned against both.",
+        "pt-BR": "A confissão frequente, o cálice purificado para receber — pois confiança sem conversão é presunção, e Faustina advertiu contra ambas."
+      }
+    },
+    {
+      "ref": "divine-mercy-novena",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "enabled": false,
+      "note": {
+        "en-US": "The Novena Jesus Himself dictated, prayed from Good Friday through the eve of Divine Mercy Sunday for nine groups of souls — enabled annually as Holy Week approaches.",
+        "pt-BR": "A Novena ditada pelo próprio Jesus, rezada da Sexta-Feira Santa à véspera do Domingo da Divina Misericórdia por nove grupos de almas — ativada anualmente ao aproximar-se a Semana Santa."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Three daily acts of mercy",
+        "pt-BR": "Três atos diários de misericórdia"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Daily — one by word, one by deed, one by prayer",
+        "pt-BR": "Diária — um por palavra, um por obra, um por oração"
+      },
+      "icon": "mercy",
+      "note": {
+        "en-US": "Required of every Divine Mercy practitioner in Diary §742: I demand from you deeds of mercy, which are to arise out of love for Me. Not yet a guided practice in Ember; carried as a daily intention until it is.",
+        "pt-BR": "Exigido de todo praticante da Divina Misericórdia no Diário §742: Exijo de ti obras de misericórdia, que devem brotar do amor por Mim. Ainda não é uma prática guiada em Ember; conserva-se como intenção diária até que o seja."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Veneration of the Image of Divine Mercy",
+        "pt-BR": "Veneração da Imagem da Divina Misericórdia"
+      },
+      "tier": "ideal",
+      "cadence": {
+        "en-US": "Daily, before the Image in the home",
+        "pt-BR": "Diária, diante da Imagem em casa"
+      },
+      "icon": "mercy",
+      "note": {
+        "en-US": "Jesus asked Faustina (Diary §47–48) that the Image be venerated, with the inscription Jesus, I trust in You. The rule assumes the Image is kept in the home and that the practitioner pauses before it daily.",
+        "pt-BR": "Jesus pediu a Faustina (Diário §47–48) que a Imagem fosse venerada, com a inscrição Jesus, eu confio em Vós. A regra supõe que a Imagem seja conservada em casa e que diante dela se faça pausa diária."
+      }
+    },
+    {
+      "placeholder": true,
+      "name": {
+        "en-US": "Divine Mercy Sunday",
+        "pt-BR": "Domingo da Divina Misericórdia"
+      },
+      "tier": "essential",
+      "cadence": {
+        "en-US": "Annually, the Octave of Easter",
+        "pt-BR": "Anual, no Oitavo Dia da Páscoa"
+      },
+      "icon": "mercy",
+      "note": {
+        "en-US": "The feast instituted by St. John Paul II in 2000, with plenary indulgence under the usual conditions for souls who venerate the Image and receive Communion in the spirit of trust.",
+        "pt-BR": "A festa instituída por São João Paulo II em 2000, com indulgência plenária nas condições habituais para quem venera a Imagem e comunga no espírito da confiança."
+      }
+    }
+  ],
+  "resolutions": [
+    {
+      "title": {
+        "en-US": "An act of mercy by word, by deed, and by prayer each day",
+        "pt-BR": "Um ato de misericórdia por palavra, por obra e por oração a cada dia"
+      },
+      "text": {
+        "en-US": "Each day, name one work of mercy in each of the three modes — word, deed, prayer — as Jesus asked of Faustina in Diary §742, and offer them with the formula: Jesus, I trust in You.",
+        "pt-BR": "A cada dia, nomear uma obra de misericórdia em cada um dos três modos — palavra, obra e oração — como Jesus pediu a Faustina no Diário §742, e oferecê-las com a fórmula: Jesus, eu confio em Vós."
+      }
+    }
+  ],
+  "collections": ["collection/divine-mercy"]
+}
