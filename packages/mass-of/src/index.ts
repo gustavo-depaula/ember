@@ -1,3 +1,4 @@
+export { buildMassFlow } from './buildMassFlow'
 export { pickCycle } from './calendar'
 export type { MassOfDataSource } from './dataSource'
 export { createMassOfSource } from './source'
