@@ -19,6 +19,7 @@ import {
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { createProgramCursor, getPractice } from '@/db/repositories'
+import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { isPinned } from '@/features/pinning/pinningManager'
@@ -227,6 +228,7 @@ export default function CatalogDetailScreen() {
           name={localizeContent(manifest.name)}
           metadata={metadata}
           tone={toneByIndex(toneIndexForId(manifest.id))}
+          image={artFor(manifest.id)}
           scrollY={scrollY}
           onPray={
             isProgram

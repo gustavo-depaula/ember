@@ -97,7 +97,7 @@ const targets = [
   { id: 'collection/dies-wednesday', slug: 'dies-wednesday', q: 'Murillo Saint Joseph Christ Child' },
   { id: 'collection/dies-thursday', slug: 'dies-thursday', q: 'Juan de Juanes Salvador Eucaristía' },
   { id: 'collection/dies-friday', slug: 'dies-friday', q: 'Velázquez Cristo crucificado' },
-  { id: 'collection/dies-saturday', slug: 'dies-saturday', q: 'Filippo Lippi Madonna Child Two Angels' },
+  { id: 'collection/dies-saturday', slug: 'dies-saturday', q: 'Botticelli Madonna Magnificat Uffizi' },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'

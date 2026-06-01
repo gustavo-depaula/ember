@@ -34,4 +34,4 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **collection/dies-wednesday** → `dies-wednesday.jpg` — Bartolomé Esteban Murillo. *Murillo - Saint Joseph and the Christ Child, ca. 1670-75.jpg* (Public domain).
 - **collection/dies-thursday** → `dies-thursday.jpg` — Juan de Juanes. *El Salvador con la Eucaristía entre Melquisedec y Aarón (Museo del Prado).jpg* (Public domain).
 - **collection/dies-friday** → `dies-friday.jpg` — Diego Velázquez. *Cristo crucificado.jpg* (Public domain).
-- **collection/dies-saturday** → `dies-saturday.jpg` — Filippo Lippi. *Fra Filippo Lippi - Madonna and Child Enthroned with Two Angels - WGA13175.jpg* (Public domain).
+- **collection/dies-saturday** → `dies-saturday.jpg` — Sandro Botticelli. *Madonna of the Magnificat* (c. 1481, Uffizi, Florence). Source photo by Livioandronico2013 on Wikimedia Commons (Public domain).
