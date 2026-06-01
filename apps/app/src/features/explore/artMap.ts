@@ -54,6 +54,17 @@ const artFiles: Record<string, string> = {
   'collection/dies-thursday': 'dies-thursday.jpg',
   'collection/dies-friday': 'dies-friday.jpg',
   'collection/dies-saturday': 'dies-saturday.jpg',
+
+  // Day-devotion practices reuse their collection's painting as the practice
+  // hero — accepted as `practice/...` *or* bare id, since the detail screen
+  // reads from `manifest.id` (prefixed) and tile lookups use raw refs.
+  'practice/sunday-devotion': 'dies-sunday.jpg',
+  'practice/monday-souls': 'dies-monday.jpg',
+  'practice/tuesday-angels': 'dies-tuesday.jpg',
+  'practice/wednesday-joseph': 'dies-wednesday.jpg',
+  'practice/thursday-eucharist': 'dies-thursday.jpg',
+  'practice/friday-passion': 'dies-friday.jpg',
+  'practice/saturday-mary': 'dies-saturday.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches
