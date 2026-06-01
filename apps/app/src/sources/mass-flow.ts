@@ -7,12 +7,17 @@ import {
   resolveFlowAsync,
 } from '@ember/content-engine'
 import { buildMassFlow, type DayLiturgies } from '@ember/mass'
-import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
-import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { fetchHearth } from '@/lib/hearth'
 import type { ContentSource, SourceFetchContext } from './types'
+
+// `@/content/preprocessFlow` imports the source registry (it resolves `include`s),
+// so importing it here statically would create a registry → mass-flow →
+// preprocessFlow → registry cycle (massFlowSource undefined at registration).
+// Load these lazily inside fetch instead — they're only needed there.
+const lazyEngine = () =>
+  Promise.all([import('@/content/preprocessFlow'), import('@/content/engineContext')])
 
 type MassFragments = { fragments: Record<string, FlowSection[]> }
 
@@ -65,6 +70,7 @@ export const massFlowSource: ContentSource<Primitive[]> = {
       numbering: getPsalmNumbering(ctx.prefs.translation),
       flowData: { day },
     }
+    const [{ preprocessFlow }, { createEngineContext, withSpiritualThreads }] = await lazyEngine()
     const ec = withSpiritualThreads(
       createEngineContext(undefined, { contentLanguage: ctx.prefs.lang as ContentLanguage }),
     )
