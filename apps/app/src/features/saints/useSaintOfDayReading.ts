@@ -1,5 +1,6 @@
 import { useToday } from '@/hooks/useToday'
-import { saintOfDayNames } from './data/saintOfDayNames'
+import { localizeContent } from '@/lib/i18n'
+import { saintOfDay } from './data/saintOfDayNames'
 
 /**
  * Today's primary saint as titled in Pictorial Lives of the Saints, looked up
@@ -7,9 +8,13 @@ import { saintOfDayNames } from './data/saintOfDayNames'
  * `saint-of-the-day` practice (the full life + reflection from the book).
  * Returns undefined only if today's date somehow has no mapped entry.
  */
-export function useSaintOfDayReading(): { name: string } | undefined {
+export function useSaintOfDayReading(): { name: string; reflection?: string } | undefined {
   const today = useToday()
   const key = `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`
-  const name = saintOfDayNames[key]
-  return name ? { name } : undefined
+  const entry = saintOfDay[key]
+  if (!entry) return undefined
+  return {
+    name: localizeContent(entry.name),
+    reflection: entry.reflection ? localizeContent(entry.reflection) : undefined,
+  }
 }
