@@ -1,0 +1,27 @@
+{
+	"id": "alma-redemptoris-mater",
+	"name": {
+		"en-US": "Loving Mother of the Redeemer",
+		"pt-BR": "Augusta Mãe do Redentor",
+		"la": "Alma Redemptóris Mater"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "The Marian antiphon sung at Compline from the First Sunday of Advent through the Feast of the Presentation (February 2).",
+					"pt-BR": "Antífona mariana cantada nas Completas desde o I Domingo do Advento até a Festa da Apresentação do Senhor (2 de fevereiro)."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Loving Mother of the Redeemer,\nwho remainest the ever-open gate of heaven,\nand star of the sea:\nsuccor thy people who fall,\nyet strive to rise again.\nThou who, to the wonderment of nature,\ndidst bring forth thy holy Creator,\nremaining a Virgin after as before,\nwho from Gabriel's lips didst receive that joyful greeting,\nhave mercy upon us sinners.",
+					"pt-BR": "Augusta Mãe do Redentor,\nó porta sempre aberta do céu,\nestrela do mar, vinde socorrer\no povo que cai e luta por se reerguer.\nVós que, para admiração da natureza,\ngerastes o vosso santo Criador,\nVirgem antes e depois do parto,\nque recebestes de Gabriel o feliz anúncio,\ntende piedade de nós pecadores.",
+					"la": "Alma Redemptóris Mater, quæ pérvia cæli\nporta manes, et stella maris, succúrre cadénti,\nsúrgere qui curat, pópulo: tu quæ genuísti,\nnatúra miránte, tuum sanctum Genitórem,\nVirgo prius ac postérius, Gabriélis ab ore\nsumens illud Ave, peccatórum miserére."
+				}
+			}
+		]
+	}
+}

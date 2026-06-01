@@ -1,0 +1,65 @@
+{
+	"id": "collection/dies-thursday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Thursday — The Holy Eucharist",
+		"pt-BR": "Quinta-feira — A Santíssima Eucaristia"
+	},
+	"description": {
+		"en-US": "*In hoc Sacramento.* The day of the Last Supper. The day for adoration, reparation, and prayer for priests.",
+		"pt-BR": "*Neste Sacramento.* O dia da Última Ceia. O dia da adoração, da reparação, e da oração pelos sacerdotes."
+	},
+	"icon": "host",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "thursday", "eucharist", "adoration", "priests"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "*Pridie quam pateretur* — on the night before he suffered. The Eucharist is not a memorial of an absence; it is a Presence. The same Body broken and Blood poured out on Calvary is given in every Mass, by the hands of every priest, in every tabernacle where the lamp still burns. Thursday is the night of the Last Supper, of Gethsemane's *non potuistis una hora vigilare mecum* — could you not watch one hour with me? The Church responds with adoration, with reparation for the world's indifference, and with prayer for those whom Christ has bound to himself in the priesthood.",
+			"pt-BR": "*Pridie quam pateretur* — na noite antes de padecer. A Eucaristia não é a lembrança de uma ausência; é uma Presença. O mesmo Corpo entregue e Sangue derramado no Calvário é dado em toda Missa, pelas mãos de todo sacerdote, em todo sacrário onde a lâmpada ainda arde. A quinta-feira é a noite da Última Ceia, do *non potuistis una hora vigilare mecum* do Getsêmani — não pudestes vigiar uma hora comigo? A Igreja responde com adoração, com reparação pela indiferença do mundo, e com oração pelos que Cristo ligou a si no sacerdócio."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "A ten-minute Thursday guide — the O Salutaris, a reading on the Real Presence, the Adoro Te Devote of St. Thomas, a Spiritual Communion, the Divine Praises, a prayer for priests, and the Anima Christi.",
+					"pt-BR": "Um guia de dez minutos para quinta — o O Salutaris, leitura sobre a Presença Real, o Adoro Te Devote de São Tomás, a Comunhão Espiritual, os Louvores Divinos, oração pelos sacerdotes, e a Anima Christi."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/thursday-eucharist" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Thursday — a full Holy Hour, the Litany of the Blessed Sacrament, the great Eucharistic hymns of Aquinas, and a visit to the Blessed Sacrament.",
+					"pt-BR": "Para uma quinta-feira mais longa — uma Hora Santa completa, a Ladainha do Santíssimo Sacramento, os grandes hinos eucarísticos de Aquino, e a visita ao Santíssimo Sacramento."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour",
+					"seeAlso": ["collection/eucharistic"]
+				},
+				{ "kind": "item", "ref": "practice/litany-blessed-sacrament" },
+				{ "kind": "item", "ref": "practice/tantum-ergo" },
+				{ "kind": "item", "ref": "practice/visit-blessed-sacrament" },
+				{ "kind": "item", "ref": "practice/prayers-st-thomas-aquinas" }
+			]
+		}
+	]
+}

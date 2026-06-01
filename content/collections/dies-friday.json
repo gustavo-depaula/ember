@@ -1,0 +1,77 @@
+{
+	"id": "collection/dies-friday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Friday — The Passion & the Sacred Heart",
+		"pt-BR": "Sexta-feira — A Paixão e o Sagrado Coração"
+	},
+	"description": {
+		"en-US": "*Per crucem ad lucem.* The day of the Cross. The day of penance, fasting, and reparation to the Heart that was opened for us.",
+		"pt-BR": "*Pela cruz à luz.* O dia da Cruz. O dia da penitência, do jejum, e da reparação ao Coração que se abriu por nós."
+	},
+	"icon": "cross",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "friday", "passion", "sacred-heart", "reparation"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "*We adore Thee, O Christ, and we bless Thee, because by Thy holy Cross Thou hast redeemed the world.* Every Friday the Church remembers a Friday. The Lord did not redeem us in private; the wood of the Cross was set up in public, and that public hour is the center of the world's history. On Fridays the faithful keep a small fast, recall the Passion, and offer reparation to the Heart that was opened for them with the lance. The First Friday of each month adds the Great Promise given to Margaret Mary at Paray-le-Monial — nine consecutive First Fridays, and the grace of final perseverance.",
+			"pt-BR": "*Nós Vos adoramos, ó Cristo, e Vos bendizemos, porque pela Vossa santa Cruz remistes o mundo.* Toda sexta-feira a Igreja recorda uma sexta-feira. O Senhor não nos redimiu em segredo; o madeiro da Cruz foi erguido em público, e essa hora pública é o centro da história do mundo. Às sextas-feiras os fiéis fazem um pequeno jejum, recordam a Paixão, e oferecem reparação ao Coração que se abriu por eles com a lança. A Primeira Sexta-feira de cada mês acrescenta a Grande Promessa dada a Margarida Maria em Paray-le-Monial — nove primeiras sextas-feiras consecutivas, e a graça da perseverança final."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "A nine-minute Friday guide — the Stations refrain, a Passion meditation, the *En ego* prayed before a crucifix, the Litany of the Sacred Heart, and Pius XI's Act of Reparation.",
+					"pt-BR": "Um guia de nove minutos para sexta — refrão da Via-Sacra, meditação da Paixão, o *En ego* rezado diante de um crucifixo, a Ladainha do Sagrado Coração, e o Ato de Reparação de Pio XI."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/friday-passion" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Friday — the Stations, the Holy Hour of Reparation, the Seven Sorrows of Mary at the Cross, and on the First Friday the great devotion of the Nine.",
+					"pt-BR": "Para uma sexta-feira mais longa — a Via-Sacra, a Hora Santa de Reparação, as Sete Dores de Maria ao pé da Cruz, e na Primeira Sexta-feira a grande devoção dos Nove."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/stations-cross",
+					"seeAlso": ["collection/way-of-the-cross"]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-hour-sacred-heart",
+					"seeAlso": ["collection/sacred-heart"]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-sorrows",
+					"seeAlso": ["collection/marian"]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/first-friday-devotion",
+					"seeAlso": ["collection/sacred-heart"]
+				},
+				{ "kind": "item", "ref": "practice/prayer-before-crucifix" }
+			]
+		}
+	]
+}

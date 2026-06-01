@@ -1,0 +1,20 @@
+{
+	"id": "divine-praises",
+	"name": {
+		"en-US": "The Divine Praises",
+		"pt-BR": "Louvores Divinos",
+		"la": "Laudes Divinæ"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Blessed be God.\nBlessed be His Holy Name.\nBlessed be Jesus Christ, true God and true Man.\nBlessed be the Name of Jesus.\nBlessed be His Most Sacred Heart.\nBlessed be His Most Precious Blood.\nBlessed be Jesus in the Most Holy Sacrament of the Altar.\nBlessed be the Holy Spirit, the Paraclete.\nBlessed be the great Mother of God, Mary most Holy.\nBlessed be her Holy and Immaculate Conception.\nBlessed be her Glorious Assumption.\nBlessed be the name of Mary, Virgin and Mother.\nBlessed be Saint Joseph, her most chaste spouse.\nBlessed be God in His Angels and in His Saints.",
+					"pt-BR": "Bendito seja Deus.\nBendito seja o seu santo Nome.\nBendito seja Jesus Cristo, verdadeiro Deus e verdadeiro Homem.\nBendito seja o Nome de Jesus.\nBendito seja o seu Sacratíssimo Coração.\nBendito seja o seu Preciosíssimo Sangue.\nBendito seja Jesus no Santíssimo Sacramento do Altar.\nBendito seja o Espírito Santo Paráclito.\nBendita seja a grande Mãe de Deus, Maria Santíssima.\nBendita seja a sua santa e imaculada Conceição.\nBendita seja a sua gloriosa Assunção.\nBendito seja o nome de Maria, Virgem e Mãe.\nBendito seja São José, seu castíssimo Esposo.\nBendito seja Deus nos seus Anjos e nos seus Santos.",
+					"la": "Benedíctus Deus.\nBenedíctum Nomen Sanctum eius.\nBenedíctus Iesus Christus, verus Deus et verus homo.\nBenedíctum Nomen Iesu.\nBenedíctum Cor eius sacratíssimum.\nBenedíctus Sanguis eius pretiosíssimus.\nBenedíctus Iesus in sanctíssimo altáris Sacraménto.\nBenedíctus Sanctus Spíritus, Paráclitus.\nBenedícta excélsa Mater Dei, María sanctíssima.\nBenedícta sancta eius et immaculáta Concéptio.\nBenedícta eius gloriósa Assúmptio.\nBenedíctum nomen Maríæ, Vírginis et Matris.\nBenedíctus sanctus Ioseph, eius castíssimus sponsus.\nBenedíctus Deus in Angelis suis, et in Sanctis suis."
+				}
+			}
+		]
+	}
+}

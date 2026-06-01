@@ -88,6 +88,16 @@ const targets = [
     q: 'Adoration of the Name of Jesus El Greco',
   },
   { id: 'plan-of-life-template/byzantine', slug: 'tpl-byzantine', q: 'Christ Pantocrator Sinai' },
+
+  // Dies Domini — one painting per weekday devotion. The query for each names
+  // the canonical pre-1900 PD master for that day's theme.
+  { id: 'collection/dies-sunday', slug: 'dies-sunday', q: 'Piero della Francesca Resurrection' },
+  { id: 'collection/dies-monday', slug: 'dies-monday', q: 'Cristóbal Rojas Purgatorio' },
+  { id: 'collection/dies-tuesday', slug: 'dies-tuesday', q: 'Guido Reni Saint Michael Archangel' },
+  { id: 'collection/dies-wednesday', slug: 'dies-wednesday', q: 'Murillo Saint Joseph Christ Child' },
+  { id: 'collection/dies-thursday', slug: 'dies-thursday', q: 'Juan de Juanes Salvador Eucaristía' },
+  { id: 'collection/dies-friday', slug: 'dies-friday', q: 'Velázquez Cristo crucificado' },
+  { id: 'collection/dies-saturday', slug: 'dies-saturday', q: 'Filippo Lippi Madonna Child Two Angels' },
 ]
 
 const api = 'https://commons.wikimedia.org/w/api.php'

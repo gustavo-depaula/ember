@@ -1,0 +1,46 @@
+{
+	"id": "three-hail-marys",
+	"name": {
+		"en-US": "The Three Hail Marys",
+		"pt-BR": "As Três Ave-Marias"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "A devotion taught by St. Mechtilde and promoted by St. Anthony Mary Claret. Pray three Hail Marys in honor of the three Divine Persons who have so loved Mary and clothed her with their gifts.",
+					"pt-BR": "Devoção ensinada por Santa Mectildes e promovida por Santo Antônio Maria Claret. Rezem-se três Ave-Marias em honra das três Divinas Pessoas que tanto amaram a Maria e a revestiram de seus dons."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "To the Eternal Father, for the gift of memory He gave to Mary, that she may obtain for me a lively remembrance of God in all things:\n\nHail Mary, full of grace, the Lord is with thee; blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+					"pt-BR": "Ao Eterno Pai, pelo dom da memória que concedeu a Maria, para que me alcance viva lembrança de Deus em todas as coisas:\n\nAve Maria, cheia de graça, o Senhor é convosco; bendita sois Vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora de nossa morte. Amém."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "To the Eternal Son, for the gift of understanding He gave to His Mother, that she may obtain for me a true knowledge of God and of His holy will:\n\nHail Mary…",
+					"pt-BR": "Ao Eterno Filho, pelo dom do entendimento que concedeu a sua Mãe, para que me alcance verdadeiro conhecimento de Deus e de sua santa vontade:\n\nAve Maria…"
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "To the Holy Spirit, for the gift of will with which He filled the Heart of Mary, kindling in her so great a love of God, that she may obtain for me to love Him above all things:\n\nHail Mary…",
+					"pt-BR": "Ao Espírito Santo, pelo dom da vontade com que encheu o Coração de Maria, acendendo nela tão grande amor a Deus, para que me alcance amá-Lo sobre todas as coisas:\n\nAve Maria…"
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "O my Queen, O my Mother, remember I am thine. Keep me, guard me as thy property and possession. Amen.",
+					"pt-BR": "Ó minha Senhora, ó minha Mãe, lembrai-vos de que sou vosso. Guardai-me, defendei-me como coisa e propriedade vossa. Amém."
+				}
+			}
+		]
+	}
+}

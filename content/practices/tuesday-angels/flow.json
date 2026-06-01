@@ -1,0 +1,87 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "St. Michael the Archangel — Guido Reni (1635)",
+				"pt-BR": "São Miguel Arcanjo — Guido Reni (1635)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The angels are not a poetic flourish. They are mighty intellectual creatures of pure act — far stronger than we are — and they have been assigned to us in love. *Behold, I send My angel before thee, to keep thee in the way* (Ex 23:20). The tradition, following Pseudo-Dionysius and St. Thomas, sees them ordered in nine choirs: the Seraphim, Cherubim, and Thrones, who burn before the face of God; the Dominions, Virtues, and Powers, who govern creation; and the Principalities, Archangels, and Angels, who carry God's word and care to the world and to each of us by name. Today the Church commends herself to all of them — and to the angel whom God set beside you at your baptism, and who has never since left.",
+				"pt-BR": "Os anjos não são um floreio poético. São poderosas criaturas intelectuais de ato puro — muito mais fortes do que nós — e nos foram designados em amor. *Eis que envio o meu anjo diante de ti, para te guardar no caminho* (Ex 23,20). A tradição, seguindo Pseudo-Dionísio e Santo Tomás, vê-os ordenados em nove coros: os Serafins, Querubins e Tronos, que ardem ante a face de Deus; as Dominações, Virtudes e Potestades, que governam a criação; e os Principados, Arcanjos e Anjos, que levam a palavra e o cuidado de Deus ao mundo e a cada um de nós pelo nome. Hoje a Igreja se confia a todos eles — e ao anjo que Deus pôs ao seu lado no seu batismo, e que desde então nunca se afastou."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The cry of the Seraphim before the throne (Isaiah 6:3).",
+				"pt-BR": "O grito dos Serafins ante o trono (Isaías 6,3)."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy, Holy, Holy, Lord God of Hosts.\nHeaven and earth are full of Thy glory.\nGlory be to Thee, O Lord most high.",
+				"pt-BR": "Santo, Santo, Santo, é o Senhor Deus dos Exércitos.\nO céu e a terra proclamam a vossa glória.\nGlória a Vós, Senhor altíssimo.",
+				"la": "Sanctus, Sanctus, Sanctus, Dóminus Deus Sábaoth.\nPleni sunt cæli et terra glória tua.\nGlória tibi, Dómine altíssime."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "prayer-st-michael"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "angele-dei"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pause one minute in silence with your guardian angel.",
+				"pt-BR": "Pause um minuto em silêncio com o seu anjo da guarda."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "A closing invocation of the three named archangels.",
+				"pt-BR": "Invocação final aos três arcanjos nomeados."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Saint Michael the Archangel, defend us in battle.\nSaint Gabriel the Archangel, herald of the Word made flesh, strengthen our faith.\nSaint Raphael the Archangel, healer and companion on the way, guide us safely home.\nAll you Holy Angels and Archangels, pray for us. Amen.",
+				"pt-BR": "São Miguel Arcanjo, defendei-nos no combate.\nSão Gabriel Arcanjo, arauto do Verbo encarnado, fortalecei a nossa fé.\nSão Rafael Arcanjo, médico e companheiro de caminho, conduzi-nos com segurança ao Lar.\nTodos os Santos Anjos e Arcanjos, rogai por nós. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "Madonna and Child Enthroned with Two Angels — Filippo Lippi (c. 1465)",
+				"pt-BR": "Madona e Menino entronizados com dois anjos — Filippo Lippi (c. 1465)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The oldest known Marian prayer — found on a third-century Greek papyrus from Egypt.",
+				"pt-BR": "A oração mariana mais antiga conhecida — encontrada num papiro grego do século III, vindo do Egito."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sub-tuum-praesidium"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Between Good Friday and Easter Sunday, the faith of the whole Church was held by a single heart. On that Holy Saturday she stood, knowing the promise, holding the apostles in her silence. The tradition gave her every Saturday for this. *Theotokos* — Mother of God — the title fixed at Ephesus in 431, is not a Marian title only; it is a Christological one. To say that Mary bore God in the flesh is to say that the flesh she gave was God's. And so the Church goes to her on Saturday, before the day of the Resurrection, to entrust the week to her hands.",
+				"pt-BR": "Entre a Sexta-feira Santa e o Domingo de Páscoa, a fé de toda a Igreja foi sustida por um único coração. Naquele Sábado Santo ela permaneceu, conhecendo a promessa, mantendo os apóstolos no seu silêncio. A tradição lhe deu cada sábado por isto. *Theotókos* — Mãe de Deus —, o título fixado em Éfeso em 431, não é apenas um título mariano; é um título cristológico. Dizer que Maria gerou Deus na carne é dizer que a carne que ela deu era de Deus. E assim a Igreja vai a ela no sábado, antes do dia da Ressurreição, para entregar-lhe a semana nas mãos."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "three-hail-marys"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "select",
+			"on": "liturgicalSeason",
+			"map": {
+				"advent": "alma",
+				"christmas": "alma",
+				"lent": "ave",
+				"easter": "regina-caeli"
+			},
+			"default": "salve",
+			"options": [
+				{
+					"id": "alma",
+					"label": {
+						"en-US": "Alma Redemptoris Mater (Advent–Candlemas)",
+						"pt-BR": "Alma Redemptoris Mater (Advento–Apresentação)"
+					},
+					"sections": [
+						{ "type": "prayer", "ref": "alma-redemptoris-mater" }
+					]
+				},
+				{
+					"id": "ave",
+					"label": {
+						"en-US": "Ave Regina Caelorum (Candlemas–Holy Wednesday)",
+						"pt-BR": "Ave Regina Caelorum (Apresentação–Quarta-feira Santa)"
+					},
+					"sections": [
+						{ "type": "prayer", "ref": "ave-regina-caelorum" }
+					]
+				},
+				{
+					"id": "regina-caeli",
+					"label": {
+						"en-US": "Regina Caeli (Eastertide)",
+						"pt-BR": "Regina Caeli (Tempo Pascal)"
+					},
+					"sections": [
+						{ "type": "prayer", "ref": "regina-caeli" }
+					]
+				},
+				{
+					"id": "salve",
+					"label": {
+						"en-US": "Salve Regina (Ordinary Time)",
+						"pt-BR": "Salve Rainha (Tempo Comum)"
+					},
+					"sections": [
+						{ "type": "prayer", "ref": "hail-holy-queen" }
+					]
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "memorare"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "An act of entrustment — name the week that is coming, the people you will meet, the work you will do, and lay them in her hands.",
+				"pt-BR": "Um ato de entrega — nomeie a semana que vem, as pessoas que encontrará, o trabalho que fará, e deposite-os nas suas mãos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My Queen and my Mother, I give myself entirely to thee; and to show my devotion to thee, I consecrate to thee this day my eyes, my ears, my mouth, my heart, my whole being without reserve. Wherefore, good Mother, as I am thine own, keep me, guard me, as thy property and possession. Amen.",
+				"pt-BR": "Ó minha Senhora e minha Mãe, eu me ofereço inteiramente a Vós, e para Vos provar a minha devoção, Vos consagro neste dia meus olhos, meus ouvidos, minha boca, meu coração, todo o meu ser. Já que sou Vosso, ó incomparável Mãe, guardai-me e defendei-me como coisa e propriedade Vossa. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

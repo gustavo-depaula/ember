@@ -1,0 +1,36 @@
+{
+	"id": "saturday-mary",
+	"icon": "mary",
+	"name": {
+		"en-US": "Saturday — Our Lady",
+		"pt-BR": "Sábado — Nossa Senhora"
+	},
+	"categories": ["dies-domini", "marian"],
+	"estimatedMinutes": 9,
+	"description": {
+		"en-US": "The Saturday devotion — *Maria die suo*. The most ancient Marian prayer, a brief reading on the Theotokos, the Three Hail Marys, the Marian antiphon for the season, the Memorare, and a closing entrustment of the coming week.",
+		"pt-BR": "Devoção de sábado — *Maria, no dia seu*. A oração mariana mais antiga, breve leitura sobre a Theotókos, as Três Ave-Marias, a antífona mariana da estação, o Memorare, e uma entrega da semana que vem."
+	},
+	"history": {
+		"en-US": "The dedication of Saturday to Our Lady is ancient — the *Missale Romanum* of St. Pius V provides a votive Mass of the Blessed Virgin for every Saturday on which no higher feast falls. Tradition gives two reasons. First, the *Sabbatum sanctum* — that Saturday between Good Friday and Easter — when, according to St. Ambrose and the Fathers, the faith of the whole Church was held by one heart, Mary's. Second, Saturday prepares Sunday: she who first received the risen Christ now leads us into his day.",
+		"pt-BR": "A dedicação do sábado a Nossa Senhora é antiga — o *Missal Romano* de São Pio V dá uma Missa votiva da Bem-aventurada Virgem para todo sábado em que não caia festa maior. A tradição dá duas razões. Primeiro, o *Sabbatum sanctum* — aquele sábado entre a Sexta-feira Santa e a Páscoa — quando, segundo Santo Ambrósio e os Padres, a fé de toda a Igreja foi sustida por um único coração, o de Maria. Segundo, o sábado prepara o domingo: aquela que primeiro recebeu o Cristo ressuscitado agora nos conduz para o seu dia."
+	},
+	"howToPray": {
+		"en-US": "The Marian antiphon at the end of this flow follows the season: *Alma Redemptoris Mater* from Advent through Candlemas, *Ave Regina Caelorum* from Candlemas through Holy Wednesday, *Regina Caeli* during Eastertide, and *Salve Regina* the rest of the year.",
+		"pt-BR": "A antífona mariana ao fim deste fluxo segue a estação: *Alma Redemptoris Mater* do Advento à Apresentação, *Ave Regina Caelorum* da Apresentação à Quarta-feira Santa, *Regina Caeli* no Tempo Pascal, e *Salve Regina* no resto do ano."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "saturday", "marian", "theotokos"],
+	"defaults": {
+		"sortOrder": 76,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["saturday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

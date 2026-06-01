@@ -1,0 +1,36 @@
+{
+	"id": "tuesday-angels",
+	"icon": "angel",
+	"name": {
+		"en-US": "Tuesday — The Holy Angels",
+		"pt-BR": "Terça-feira — Os Santos Anjos"
+	},
+	"categories": ["dies-domini", "angels", "protection"],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Tuesday devotion — *Cum angelis et archangelis*. A brief reading on the nine choirs, the Trisagion of the Seraphim, the Leonine Prayer to St. Michael, the Angele Dei, and a closing invocation of the three named archangels.",
+		"pt-BR": "Devoção de terça-feira — *Com os anjos e arcanjos*. Breve leitura sobre os nove coros, o Trisagion dos Serafins, a Oração Leonina a São Miguel, o Angele Dei, e invocação final aos três arcanjos nomeados."
+	},
+	"history": {
+		"en-US": "Devotion to the Holy Angels — and especially to one's guardian angel — runs through Scripture and the Fathers. The nine choirs (Seraphim, Cherubim, Thrones; Dominions, Virtues, Powers; Principalities, Archangels, Angels) are named by St. Paul and ordered by Pseudo-Dionysius in *The Celestial Hierarchy*. Tuesday's dedication grew alongside Michaelmas (29 September) and the Feast of the Guardian Angels (2 October). Leo XIII's prayer to St. Michael was composed in 1886 after he received, in tradition, a vision of the coming trials of the Church.",
+		"pt-BR": "A devoção aos Santos Anjos — e especialmente ao próprio anjo da guarda — atravessa a Escritura e os Padres. Os nove coros (Serafins, Querubins, Tronos; Dominações, Virtudes, Potestades; Principados, Arcanjos, Anjos) são nomeados por São Paulo e ordenados por Pseudo-Dionísio em *A Hierarquia Celeste*. A dedicação da terça-feira cresceu junto com São Miguel Arcanjo (29 de setembro) e a Festa dos Anjos da Guarda (2 de outubro). A oração de Leão XIII a São Miguel foi composta em 1886, após o Papa, segundo a tradição, ter tido uma visão das provações futuras da Igreja."
+	},
+	"howToPray": {
+		"en-US": "After the Angele Dei, pause for a minute of silence and speak with your guardian angel about the day. He has been with you since your baptism.",
+		"pt-BR": "Após o Angele Dei, faça um minuto de silêncio e fale com o seu anjo da guarda sobre o dia. Ele está consigo desde o seu batismo."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "tuesday", "angels", "michael", "guardian-angel"],
+	"defaults": {
+		"sortOrder": 72,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["tuesday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

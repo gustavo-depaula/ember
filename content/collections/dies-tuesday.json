@@ -1,0 +1,65 @@
+{
+	"id": "collection/dies-tuesday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Tuesday — The Holy Angels",
+		"pt-BR": "Terça-feira — Os Santos Anjos"
+	},
+	"description": {
+		"en-US": "*Cum angelis et archangelis.* The day to commend ourselves to the heavenly hosts.",
+		"pt-BR": "*Com os anjos e arcanjos.* O dia de nos confiarmos aos exércitos celestes."
+	},
+	"icon": "angel",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "tuesday", "angels", "michael", "guardian-angel"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "*Behold, I send My angel before thee, to keep thee in the way* (Ex 23:20). The angels are not a poetic flourish. They are mighty intellectual creatures of pure act, far stronger than we are, and assigned to us in love. On this day the Church commends herself to the heavenly armies — to St. Michael who casts down the dragon, to St. Gabriel who carried the Word, to St. Raphael who walked with Tobias, and to the angel whom God set beside you at your baptism and who has never since left.",
+			"pt-BR": "*Eis que envio o meu anjo diante de ti, para te guardar no caminho* (Ex 23,20). Os anjos não são um floreio poético. São poderosas criaturas intelectuais de ato puro, muito mais fortes do que nós, e nos foram designados em amor. Neste dia a Igreja se confia aos exércitos celestes — a São Miguel que derruba o dragão, a São Gabriel que levou o Verbo, a São Rafael que caminhou com Tobias, e ao anjo que Deus pôs ao seu lado no seu batismo e que desde então nunca se afastou."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "An eight-minute Tuesday guide — a reading on the nine choirs, the Trisagion of the Seraphim, the long Leonine Prayer to St. Michael, the Angele Dei, and an invocation of the three named archangels.",
+					"pt-BR": "Um guia de oito minutos para terça — leitura sobre os nove coros, o Trisagion dos Serafins, a Oração Leonina longa a São Miguel, o Angele Dei, e invocação dos três arcanjos nomeados."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/tuesday-angels" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Tuesday — the foundational angel prayers and the novena to St. Michael.",
+					"pt-BR": "Para uma terça-feira mais longa — as orações fundamentais aos anjos e a novena a São Miguel."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{ "kind": "item", "ref": "practice/prayer-st-michael" },
+				{ "kind": "item", "ref": "practice/st-michael" },
+				{ "kind": "item", "ref": "practice/angele-dei" },
+				{ "kind": "item", "ref": "practice/guardian-angel" },
+				{
+					"kind": "item",
+					"ref": "practice/st-michael-novena",
+					"seeAlso": ["collection/novenas"]
+				}
+			]
+		}
+	]
+}

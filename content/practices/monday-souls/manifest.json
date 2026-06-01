@@ -1,0 +1,36 @@
+{
+	"id": "monday-souls",
+	"icon": "candle",
+	"name": {
+		"en-US": "Monday — The Holy Souls",
+		"pt-BR": "Segunda-feira — As Almas do Purgatório"
+	},
+	"categories": ["dies-domini", "purgatory", "intercession"],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Monday devotion — *De profundis*. Psalm 130, a brief reading on Purgatory, a litany of remembrance for the souls we have loved, St. Gertrude's prayer for the Holy Souls, and Eternal Rest.",
+		"pt-BR": "Devoção de segunda-feira — *Das profundezas*. Salmo 129, breve leitura sobre o Purgatório, ladainha de recordação pelas almas que amamos, a oração de Santa Gertrudes pelas almas do Purgatório, e o Descanso Eterno."
+	},
+	"history": {
+		"en-US": "Praying for the dead is older than the Church — 2 Maccabees 12 shows Judas Maccabeus offering sacrifice for the fallen so that they might be loosed from their sins. The Roman Canon has remembered the faithful departed since the earliest centuries. The dedication of Monday to the Holy Souls became widespread in the later Middle Ages, encouraged by Benedictines and Dominicans for whom the cleansing fire of Purgatory was a major theme of preaching.",
+		"pt-BR": "Rezar pelos mortos é mais antigo que a Igreja — 2 Macabeus 12 mostra Judas Macabeu oferecendo sacrifício pelos caídos para que fossem libertados de seus pecados. O Cânon Romano recorda os fiéis defuntos desde os primeiros séculos. A dedicação da segunda-feira às Almas do Purgatório tornou-se difusa na Baixa Idade Média, encorajada por beneditinos e dominicanos para quem o fogo purificador do Purgatório era tema central da pregação."
+	},
+	"howToPray": {
+		"en-US": "Hold the dead by name. In the litany of remembrance, pause after each category and bring the faces and the names before God before continuing.",
+		"pt-BR": "Mantenha os defuntos pelo nome. Na ladainha de recordação, pause após cada categoria e traga os rostos e os nomes diante de Deus antes de continuar."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "monday", "dead", "purgatory", "intercession", "de-profundis"],
+	"defaults": {
+		"sortOrder": 71,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["monday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

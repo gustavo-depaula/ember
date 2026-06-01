@@ -1,0 +1,69 @@
+{
+	"id": "collection/dies-monday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Monday — The Holy Souls",
+		"pt-BR": "Segunda-feira — As Almas do Purgatório"
+	},
+	"description": {
+		"en-US": "*De profundis clamavi ad te, Domine.* The day to hold the dead we have loved before God.",
+		"pt-BR": "*De profundis clamavi ad te, Domine.* O dia de manter ante Deus os defuntos que amamos."
+	},
+	"icon": "candle",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "monday", "dead", "purgatory"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "The souls in Purgatory cannot pray for themselves. They are held in the certainty of God's love and the certainty of his fire, being purified for the face they will see. The Church has prayed for them since the catacombs; Scripture itself shows Judas Maccabeus offering sacrifice for the fallen, so that they might be loosed from their sins. There is nothing we can do for the dead we have loved that is greater than to keep their names before God — and to trust that, when our turn comes, others will hold ours.",
+			"pt-BR": "As almas do Purgatório não podem rezar por si mesmas. São sustidas na certeza do amor de Deus e na certeza do seu fogo, sendo purificadas para o rosto que verão. A Igreja rezou por elas desde as catacumbas; a própria Escritura mostra Judas Macabeu oferecendo sacrifício pelos caídos, para que fossem libertos de seus pecados. Nada de mais podemos fazer pelos defuntos que amamos do que conservar seus nomes diante de Deus — e confiar que, quando chegar a nossa vez, outros conservarão os nossos."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "An eight-minute Monday guide — the De Profundis, a reading on Purgatory, a litany of remembrance for the souls we have loved, St. Gertrude's prayer, and Eternal Rest.",
+					"pt-BR": "Um guia de oito minutos para segunda — o De Profundis, uma leitura sobre o Purgatório, uma ladainha de recordação pelas almas que amamos, a oração de Santa Gertrudes, e o Descanso Eterno."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/monday-souls" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Monday — the Office of the Dead, the foundational prayers for the departed, and St. Joseph, patron of a happy death.",
+					"pt-BR": "Para uma segunda-feira mais longa — o Ofício dos Defuntos, as orações fundamentais pelos defuntos, e São José, padroeiro da boa morte."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/odod",
+					"seeAlso": ["collection/for-the-dead", "collection/anglican-patrimony"]
+				},
+				{ "kind": "item", "ref": "practice/de-profundis" },
+				{ "kind": "item", "ref": "practice/eternal-rest" },
+				{ "kind": "item", "ref": "practice/st-gertrude-souls" },
+				{
+					"kind": "item",
+					"ref": "practice/st-joseph-novena",
+					"seeAlso": ["collection/dies-wednesday"]
+				}
+			]
+		}
+	]
+}

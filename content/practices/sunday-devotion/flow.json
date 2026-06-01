@@ -1,0 +1,88 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "The Resurrection — after Piero della Francesca (c. 1463)",
+				"pt-BR": "A Ressurreição — segundo Piero della Francesca (c. 1463)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "This is the day which the Lord hath made;",
+						"pt-BR": "Este é o dia que o Senhor fez;",
+						"la": "Hæc est dies quam fecit Dóminus;"
+					},
+					"r": {
+						"en-US": "let us be glad and rejoice therein.",
+						"pt-BR": "alegremo-nos e exultemos nele.",
+						"la": "exsultémus et lætémur in ea."
+					}
+				}
+			]
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Sunday is the eighth day. The early Christians did not move the Sabbath; they began counting the week again. On the first day of the week the women came to the tomb, and on that day — and on every first day after — the bread was broken in remembrance of Him. *We hold our common assembly on Sunday,* wrote Justin Martyr around the year 155, *because it is the day on which God transformed darkness and matter and made the world, and Jesus Christ our Saviour on the same day rose from the dead.* Every Sunday is a little Easter; every Sunday the world is made new.",
+				"pt-BR": "O domingo é o oitavo dia. Os primeiros cristãos não mudaram o sábado; recomeçaram a contar a semana. No primeiro dia da semana as mulheres vieram ao túmulo, e nesse dia — e em todo primeiro dia depois — o pão foi partido em memória dele. *Reunimo-nos todos no domingo*, escreveu Justino Mártir por volta do ano 155, *porque é o dia em que Deus, transformando as trevas e a matéria, fez o mundo, e em que Jesus Cristo nosso Salvador ressuscitou dentre os mortos.* Todo domingo é uma pequena Páscoa; todo domingo o mundo é feito novo."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "te-deum"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Pray the Trinitarian doxology three times — slowly, as the Church has done at the close of every psalm for sixteen centuries.",
+				"pt-BR": "Reze a doxologia trinitária três vezes — pausadamente, como a Igreja o faz no fim de cada salmo há dezesseis séculos."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be",
+			"count": 3
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The Collect of Trinity Sunday.",
+				"pt-BR": "Coleta do Domingo da Santíssima Trindade."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Almighty and everlasting God, who hast granted unto Thy servants in the confession of the true Faith to acknowledge the glory of the eternal Trinity, and in the power of the Divine Majesty to adore the Unity: grant, we beseech Thee, that by steadfastness in the same Faith, we may evermore be defended from all adversities. Through our Lord Jesus Christ, Thy Son, who liveth and reigneth with Thee in the unity of the Holy Ghost, God, world without end. Amen.",
+				"pt-BR": "Ó Deus onipotente e eterno, que destes a Vossos servos, na confissão da verdadeira fé, reconhecer a glória da Trindade eterna e, no poder da Divina Majestade, adorar a Unidade: concedei, Vos pedimos, que pela firmeza nesta mesma fé, sejamos sempre defendidos de toda adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, que conVosco vive e reina, na unidade do Espírito Santo, Deus, por todos os séculos dos séculos. Amém.",
+				"la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei ætérnæ Trinitátis glóriam agnóscere, et in poténtia maiestátis adoráre Unitátem: quǽsumus, ut eiúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis. Per Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum. Amen."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

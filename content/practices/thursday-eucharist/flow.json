@@ -1,0 +1,90 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "The Savior with the Eucharist — Juan de Juanes (c. 1545)",
+				"pt-BR": "O Salvador com a Eucaristia — Juan de Juanes (c. 1545)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"ref": "o-salutaris-hostia"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "*Pridie quam pateretur* — on the night before he suffered. The Eucharist is not a memorial of an absence; it is a Presence. The same Body broken and Blood poured out on Calvary is given in every Mass, by the hands of every priest, in every tabernacle of every parish where the lamp still burns. *Could you not watch one hour with me?* — Gethsemane is the question every tabernacle asks of every passerby. Today the Church responds, with adoration, with reparation for the world's indifference, and with prayer for those whom Christ has bound to himself in the priesthood.",
+				"pt-BR": "*Pridie quam pateretur* — na noite antes de padecer. A Eucaristia não é a lembrança de uma ausência; é uma Presença. O mesmo Corpo entregue e Sangue derramado no Calvário é dado em toda Missa, pelas mãos de todo sacerdote, em todo sacrário de toda paróquia onde a lâmpada ainda arde. *Não pudestes vigiar uma hora comigo?* — o Getsêmani é a pergunta que todo sacrário faz a todo passante. Hoje a Igreja responde, com adoração, com reparação pela indiferença do mundo, e com oração pelos que Cristo ligou a si no sacerdócio."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "adoro-te-devote"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "spiritual-communion"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The Divine Praises, prayed in reparation for blasphemy and the profanation of the holy name.",
+				"pt-BR": "Os Louvores Divinos, rezados em reparação pelas blasfêmias e profanações do santo nome."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "divine-praises"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Bring before the Lord, one by one, the priest who said your last Mass, the priest who heard your last confession, and the priest most in need of grace today.",
+				"pt-BR": "Apresentai ao Senhor, um a um, o sacerdote que disse a sua última Missa, o sacerdote que ouviu a sua última confissão, e o sacerdote que hoje mais precisa de graça."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Jesus, Eternal High Priest, keep Thy priests within the shelter of Thy Sacred Heart, where none may touch them. Keep unstained their anointed hands, which daily touch Thy sacred Body. Keep unsullied their lips, daily empurpled with Thy precious Blood. Keep pure and unworldly their hearts, sealed with the sublime marks of Thy glorious priesthood. Bless their labors with abundant fruit, and may the souls to whom they minister be their joy and consolation here and their everlasting crown hereafter. Amen.",
+				"pt-BR": "Ó Jesus, Eterno Sumo Sacerdote, guardai os Vossos sacerdotes no abrigo do Vosso Sagrado Coração, onde ninguém possa tocá-los. Conservai imaculadas suas mãos ungidas, que diariamente tocam o Vosso Sagrado Corpo. Conservai puros os seus lábios, diariamente purpurinados com o Vosso precioso Sangue. Conservai puro e desprendido o coração deles, selado com os sublimes sinais do Vosso glorioso sacerdócio. Abençoai os seus trabalhos com fruto abundante, e que as almas a quem servem sejam sua alegria e consolação aqui, e sua coroa eterna depois. Amém."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "anima-christi"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

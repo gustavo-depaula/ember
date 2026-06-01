@@ -1,0 +1,18 @@
+{
+	"id": "st-gertrude-souls",
+	"name": {
+		"en-US": "St. Gertrude Prayer for the Holy Souls",
+		"pt-BR": "Oração de Santa Gertrudes pelas Almas"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Eternal Father, I offer Thee the most precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy souls in purgatory, for sinners everywhere, for sinners in the universal church, for those in my own home, and within my family. Amen.",
+					"pt-BR": "Eterno Pai, eu Vos ofereço o Preciosíssimo Sangue do Vosso Divino Filho Jesus, em união com as missas celebradas hoje no mundo inteiro, por todas as Almas Santas do Purgatório, pelos pecadores em toda parte, pelos pecadores na Igreja universal, pelos da minha casa e de minha família. Amém."
+				}
+			}
+		]
+	}
+}

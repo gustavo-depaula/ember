@@ -28,3 +28,10 @@ Explore feature blocks and cover rows. See `scripts/fetch-explore-art.mjs`.
 - **plan-of-life-template/sulpician** → `tpl-sulpician.png` — El Greco. *El Greco, The Adoration of the Name of Jesus.png* (Public domain).
 - **plan-of-life-template/byzantine** → `tpl-byzantine.jpg` — Unknown authorUnknown author. *Christ Icon Sinai 6th century.jpg* (Public domain).
 - **plan-of-life-template/benedictine** → `tpl-benedictine.jpg` — Fra Angelico. *Angelico - Perugia Altarpiece – Saint Benedict and Peter the Martyr.jpg* (Public domain).
+- **collection/dies-sunday** → `dies-sunday.jpg` — Nicholas Lochoff. *Nicolas Lokhoff. Copy of the picture, The Resurrection of Christ by Piero della Francesca.jpg* (Public domain).
+- **collection/dies-monday** → `dies-monday.jpg` — Cristóbal Rojas (1858-1890). *Cristobal Rojas 2012 033.JPG* (Public domain).
+- **collection/dies-tuesday** → `dies-tuesday.jpg` — Guido Reni. *GuidoReni MichaelDefeatsSatan.jpg* (Public domain).
+- **collection/dies-wednesday** → `dies-wednesday.jpg` — Bartolomé Esteban Murillo. *Murillo - Saint Joseph and the Christ Child, ca. 1670-75.jpg* (Public domain).
+- **collection/dies-thursday** → `dies-thursday.jpg` — Juan de Juanes. *El Salvador con la Eucaristía entre Melquisedec y Aarón (Museo del Prado).jpg* (Public domain).
+- **collection/dies-friday** → `dies-friday.jpg` — Diego Velázquez. *Cristo crucificado.jpg* (Public domain).
+- **collection/dies-saturday** → `dies-saturday.jpg` — Filippo Lippi. *Fra Filippo Lippi - Madonna and Child Enthroned with Two Angels - WGA13175.jpg* (Public domain).
