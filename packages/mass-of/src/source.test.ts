@@ -9,6 +9,7 @@ type DataMap = {
   ordinaries?: Record<string, unknown>
   prefaces?: Record<string, unknown>
   ofData?: Record<string, unknown>
+  calendar?: unknown[]
 }
 
 function makeData(map: DataMap): MassOfDataSource {
@@ -17,6 +18,7 @@ function makeData(map: DataMap): MassOfDataSource {
     fetchOrdinary: async (id) => map.ordinaries?.[id],
     fetchPreface: async (id) => map.prefaces?.[id],
     fetchOfData: async (id) => map.ofData?.[id],
+    fetchOfCalendar: async () => (map.calendar ?? []) as never,
   }
 }
 

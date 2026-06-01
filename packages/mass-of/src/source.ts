@@ -1,6 +1,6 @@
 import type { DataSource, SourceContext } from '@ember/content-engine'
-import { format } from 'date-fns'
-import { enumerateCelebrations, pickCycle } from './calendar'
+import { type OfDay, resolveOfDay } from '@ember/liturgical'
+import { pickCycle } from './calendar'
 import type { MassOfDataSource } from './dataSource'
 import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
 import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
@@ -15,9 +15,12 @@ import type {
 } from './types'
 
 const ORDINARY_ID = 'of/ordinary/ordinario'
-const SANCTORALE_INDEX_ID = 'of-data/calendar/sanctorale/_index'
 
-type SanctoralIndex = { count: number; ids: string[] }
+// Above this position on the GIRM Table of Liturgical Days the day is "fixed":
+// only the principal Mass is celebrated (a solemnity, feast, Feast of the Lord,
+// privileged day, or Sunday). At or below it (memorials, ferias) the celebrant
+// may choose between the saint(s) and the weekday, so those surface as options.
+const FIXED_DAY_MAX_PRECEDENCE = 7
 
 function massProperIdFor(formularyId: string): string | undefined {
   if (formularyId.startsWith('preface.')) return undefined
@@ -38,65 +41,6 @@ function prefaceIdFor(formularyId: string): string {
     : formularyId
   return `of/preface/${bare}`
 }
-
-/**
- * Liturgical precedence: tempore IDs that suppress sanctoral celebrations
- * entirely (Holy Week, Easter Octave, Christmas Day, etc.). On these days
- * the saint's feast is omitted regardless of rank.
- */
-function tempoireSuppressesSanctoral(temporeIds: string[]): boolean {
-  return temporeIds.some(
-    (id) =>
-      id.startsWith('tempore.holy-week.') ||
-      // Easter Octave (Mon–Sat after Easter Sunday) — all solemnity-rank in
-      // the universal calendar; ember-extra tags them rank=null, so we
-      // suppress sanctoral here explicitly.
-      id.startsWith('tempore.easter.week-1.') ||
-      id.startsWith('tempore.christmas.nativity-') ||
-      id.startsWith('tempore.christmas.day-117') ||
-      id.startsWith('tempore.christmas.day-118') ||
-      id.startsWith('tempore.christmas.day-119') ||
-      id === 'tempore.christmas.epiphany',
-  )
-}
-
-const REGION_SCOPES = new Set([
-  'africa',
-  'argentina',
-  'australia',
-  'austria',
-  'brazil',
-  'canada',
-  'chile',
-  'colombia',
-  'cuba',
-  'dominican-republic',
-  'ecuador',
-  'el-salvador',
-  'england-and-wales',
-  'france',
-  'german-speaking',
-  'guatemala',
-  'haiti',
-  'honduras',
-  'ireland',
-  'italy',
-  'mexico',
-  'nicaragua',
-  'nigeria',
-  'panama',
-  'paraguay',
-  'peru',
-  'philippines',
-  'portugal',
-  'puerto-rico',
-  'scotland',
-  'spain',
-  'switzerland',
-  'united-states',
-  'uruguay',
-  'venezuela',
-])
 
 const PREFACE_TITLE_HEADER_RE = /^(?:PREF[ÁA]CIO\s+D[AOE]\s+|PREFACE\s+OF\s+|PRAEFATIO\s+DE\s+)/i
 const PREFACE_TITLE_RE = /^(.+?)\s+(I{1,4}V?|IV|VI{0,4}|IX|X)\b\s*(.*)$/
@@ -148,8 +92,8 @@ function localizedAbbreviate(
 
 /**
  * Whether the Gloria is recited at this formulary's Mass. Gloria is sung on:
- * - Solemnities and feasts (always; suppressed sanctoral feasts on Sundays
- *   are handled upstream in applyPrecedence, so they never reach this path).
+ * - Solemnities and feasts (always; suppressed sanctoral feasts never reach
+ *   this path — the day resolver omits them upstream).
  * - Sundays outside Advent and Lent.
  * - Holy Thursday (both Chrism Mass and Mass of the Lord's Supper).
  * - Easter Vigil (rank=solemnity, covered above).
@@ -176,62 +120,6 @@ function deriveIncludeGloria(formulary: Formulary): boolean {
 }
 
 /**
- * Apply liturgical precedence to the celebration picker.
- *
- * Rules (simplified from GIRM/UNLY):
- * - Sanctoral solemnity always takes precedence — the tempore Mass is
- *   removed from the picker (still available inside the saint's Mass as an
- *   alternate).
- * - Sanctoral feast on a weekday in OT suppresses the tempore weekday.
- * - Sanctoral feast on a Sunday loses to the Sunday.
- * - Sanctoral memorial / optional memorial on a Sunday is fully suppressed
- *   (saint's Mass not celebrated, not even as an alternate).
- * - Memorial / optional memorial on a weekday: both surface as alternates.
- *
- * We don't override Advent/Lent/Easter Sunday rules at this layer — Holy
- * Week and Christmas Octave already suppress sanctoral entirely upstream.
- */
-function applyPrecedence(celebrations: Celebration[], temporeIds: string[]): Celebration[] {
-  const sanctoralSolemnity = celebrations.find(
-    (c) => c.id.startsWith('sanctorale.') && c.rank === 'solemnity',
-  )
-  if (sanctoralSolemnity) {
-    return celebrations.filter((c) => !c.id.startsWith('tempore.'))
-  }
-
-  const sundayInTempore = temporeIds.some((id) => id.endsWith('.sunday'))
-
-  const sanctoralFeast = celebrations.find(
-    (c) => c.id.startsWith('sanctorale.') && c.rank === 'feast',
-  )
-  if (sanctoralFeast && !sundayInTempore) {
-    return celebrations.filter((c) => !c.id.startsWith('tempore.'))
-  }
-
-  // On Sundays, memorials and optional memorials are entirely suppressed.
-  // The Sunday Mass is celebrated; the saint is omitted as a top-level
-  // celebration AND removed from the alternates of remaining tempore
-  // celebrations (no Tmp/Snt chip toggle for memorials on Sundays).
-  if (sundayInTempore) {
-    return celebrations
-      .filter(
-        (c) => !c.id.startsWith('sanctorale.') || c.rank === 'feast' || c.rank === 'solemnity',
-      )
-      .map((c) => ({
-        ...c,
-        alternates: c.alternates.filter(
-          (alt) =>
-            !(alt as { id?: string; rank?: string }).id?.startsWith?.('sanctorale.') ||
-            (alt as { rank?: string }).rank === 'feast' ||
-            (alt as { rank?: string }).rank === 'solemnity',
-        ),
-      }))
-  }
-
-  return celebrations
-}
-
-/**
  * Build a `mass-of` DataSource against the supplied typed data accessor.
  *
  * The returned DataSource resolves today's Mass content from the corpus —
@@ -239,52 +127,20 @@ function applyPrecedence(celebrations: Celebration[], temporeIds: string[]): Cel
  * ids into corpus reads (data originally sourced from the `ember-extra`
  * upstream submodule).
  *
- * Returns DayLiturgies (one or more celebrations + the Order of Mass parts +
- * lectionary cycle). The flow's top-level select renders the celebration
- * picker over `day.celebrations`; per-slot pickers (choice-rich-text) draw
- * options from each celebration's primary + alternates.
+ * Precedence is decided by `@ember/liturgical`'s `resolveOfDay`; this source
+ * only builds the Mass(es) it selects. Returns DayLiturgies (one or more
+ * self-contained celebrations + the Order of Mass parts + lectionary cycle).
+ * The flow's top-level select offers the celebrant's legitimate choices (e.g.
+ * saint vs weekday on a memorial day) and never mixes readings across Masses.
  */
 export function createMassOfSource(data: MassOfDataSource): DataSource {
-  let sanctoralIndexCache: Promise<SanctoralIndex | undefined> | undefined
+  let calendarCache: Promise<Awaited<ReturnType<MassOfDataSource['fetchOfCalendar']>>> | undefined
 
-  async function loadSanctoralIndex(): Promise<SanctoralIndex | undefined> {
-    if (!sanctoralIndexCache) {
-      sanctoralIndexCache = data
-        .fetchOfData(SANCTORALE_INDEX_ID)
-        .then((d) => d as SanctoralIndex | undefined)
-        .catch(() => undefined)
+  function loadOfCalendar() {
+    if (!calendarCache) {
+      calendarCache = data.fetchOfCalendar().catch(() => [])
     }
-    return sanctoralIndexCache
-  }
-
-  /**
-   * Find sanctoral formulary IDs assigned to the given calendar date. Most
-   * days have 0–1 entries; some have multiple due to optional memorials or
-   * regional variants (e.g. May 13 → universal Our Lady of Fatima + Brazil).
-   *
-   * For now we surface universal (non-scoped) IDs. Region-scoped IDs (those
-   * containing a "." after the date) are filtered out — region selection
-   * requires a user preference that is not yet wired.
-   */
-  async function sanctoralIdsForDate(date: Date): Promise<string[]> {
-    const index = await loadSanctoralIndex()
-    if (!index) return []
-    const mmdd = format(date, 'MM-dd')
-    const prefix = `sanctorale.${mmdd}`
-    const exactPrefix = `${prefix}.`
-    const out: string[] = []
-    for (const id of index.ids) {
-      if (id === prefix) {
-        out.push(id)
-      } else if (id.startsWith(exactPrefix)) {
-        // Skip region-scoped variants (e.g. "sanctorale.05-13.brazil") for now.
-        const tail = id.slice(exactPrefix.length)
-        // Some IDs use a non-region disambiguator like "sebastian" — keep
-        // those, drop the region-named ones (united-states, france, brazil...).
-        if (!REGION_SCOPES.has(tail)) out.push(id)
-      }
-    }
-    return out
+    return calendarCache
   }
 
   async function fetchFormulary(id: string): Promise<Formulary | undefined> {
@@ -382,52 +238,51 @@ export function createMassOfSource(data: MassOfDataSource): DataSource {
   return {
     async load(_args, ctx: SourceContext): Promise<DayLiturgies> {
       const date = ctx.now()
-      const enumerated = enumerateCelebrations(date)
-      const temporeIdList = enumerated.map((e) => e.primaryId)
-      const sanctoralIds = tempoireSuppressesSanctoral(temporeIdList)
-        ? []
-        : await sanctoralIdsForDate(date)
+      const day = resolveOfDay(date, await loadOfCalendar())
 
-      // Memorial-day fold-in: when a sanctoral entry exists for today, expose
-      // both the tempore Mass (with the saint as alternate) and the saint's
-      // Mass (with the tempore as alternate). Users pick the celebration in
-      // the top-level chip, then mix slots inside via Tmp/Snt chips.
-      const expanded: { primaryId: string; alternateIds: string[] }[] = []
-      if (sanctoralIds.length === 0) {
-        expanded.push(...enumerated)
-      } else {
-        // 1) Tempore celebrations carry sanctoral ids as alternates.
-        for (const e of enumerated) {
-          expanded.push({
-            primaryId: e.primaryId,
-            alternateIds: [...e.alternateIds, ...sanctoralIds],
-          })
-        }
-        // 2) Each sanctoral celebration gets the tempore ids as alternates.
-        const temporeIds = enumerated.map((e) => e.primaryId)
-        for (const sanctoralId of sanctoralIds) {
-          expanded.push({
-            primaryId: sanctoralId,
-            alternateIds: temporeIds,
-          })
-        }
-      }
-
+      // The unified resolver decides precedence; we just build the Mass(es) it
+      // selects. Each is self-contained (no cross-Mass alternates) — the flow's
+      // top-level picker lets the celebrant choose between legitimate options
+      // (e.g. saint vs weekday on a memorial day), never mixing readings.
       const celebrations: Celebration[] = []
-      for (const e of expanded) {
-        const c = await buildCelebration(e.primaryId, e.alternateIds)
+      for (const id of celebrationFormularyIds(day)) {
+        const c = await buildCelebration(id, [])
         if (c) celebrations.push(c)
       }
-
-      const filtered = applyPrecedence(celebrations, temporeIdList)
 
       const ordinary = ((await data.fetchOrdinary(ORDINARY_ID)) as OrdinaryParts | undefined) ?? {}
 
       return {
-        celebrations: filtered,
+        celebrations,
         ordinary,
         cycle: pickCycle(date),
       }
     },
   }
+}
+
+/**
+ * The Mass-formulary id(s) to celebrate, decided by the unified day resolver.
+ *
+ * - A "fixed" day (solemnity, feast, Feast of the Lord, privileged day, Sunday)
+ *   celebrates only the principal — expanded to its multi-Mass formularies on
+ *   Christmas (vigil/night/dawn/day) and Holy Thursday (chrism + Lord's Supper).
+ * - A memorial / ferial day offers the celebrant's legitimate choices as
+ *   separate top-level celebrations: the principal plus the ferial Mass and any
+ *   sanctoral memorials. Suppressed feasts/solemnities never appear.
+ */
+function celebrationFormularyIds(day: OfDay): string[] {
+  const { principal, others } = day
+  if (principal.precedence <= FIXED_DAY_MAX_PRECEDENCE) {
+    return principal.formularyIds ?? [principal.id]
+  }
+  const offered = [principal, ...others].filter(
+    (c) => c.kind === 'temporal' || c.rank === 'memorial' || c.rank === 'optional_memorial',
+  )
+  const ids: string[] = []
+  for (const c of offered) {
+    const id = c.kind === 'temporal' ? (c.formularyIds?.[0] ?? c.id) : c.id
+    if (!ids.includes(id)) ids.push(id)
+  }
+  return ids
 }

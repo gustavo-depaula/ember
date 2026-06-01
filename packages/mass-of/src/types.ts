@@ -66,12 +66,3 @@ export type DayLiturgies = {
   ordinary: OrdinaryParts
   cycle: CycleId
 }
-
-/**
- * Result of enumerating today's applicable formularies before fetching their
- * full contents. Each entry names the primary formulary plus any alternates.
- */
-export type EnumeratedCelebration = {
-  primaryId: string
-  alternateIds: string[]
-}

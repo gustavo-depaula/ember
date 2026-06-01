@@ -9,12 +9,14 @@
  * see the same `pt-BR`/`en-US` shape as the rest of the corpus.
  */
 
+import type { LiturgicalEntry } from '@ember/liturgical'
 import type { MassOfDataSource } from '@ember/mass-of'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import { normalizeLangKeys } from '@/content/langAliases'
 import type { DataItemManifest } from '@/content/manifestTypes'
 import { loadMassProper } from '@/content/resolver'
 import { getJson } from '@/content/store'
+import { fetchHearth } from '@/lib/hearth'
 
 /**
  * Build a `MassOfDataSource` whose lang preferences are resolved at the
@@ -39,5 +41,6 @@ export function createCorpusMassOfDataSource(getLangs: () => string[]): MassOfDa
       const data = item.data ? await getJson(item.data.hash) : item
       return normalizeLangKeys(data)
     },
+    fetchOfCalendar: () => fetchHearth<LiturgicalEntry[]>('liturgical/of-calendar.json'),
   }
 }
