@@ -111,6 +111,25 @@ app / reference data to verify safely:
   `Tabulae/Kalendaria`), giving EF a `resolveEfDay` mirror.
 - **Code-built `producer/mass`** emitting `FlowBlock[]` for both forms, retiring
   the split-brain `mass/flow.json` fragments and the EF `ProperSlot` path.
-- **Package consolidation** (merge `mass-of` + `mass-propers` into the calendar
-  package). The architectural win — eliminating the three-way precedence
-  duplication — is already done; this is packaging elegance.
+## Package layering — why it stays three packages
+
+The original "one package for calendar + Mass" idea is **not** advisable: it would
+create a circular dependency. The current layering is a clean DAG and must stay
+that way:
+
+```
+@ember/liturgical      (calendar primitives; depends on nothing internal)
+        ▲        ▲
+        │        │
+@ember/content-engine  │   (flow engine; depends on liturgical)
+        ▲        │
+        │        │
+@ember/mass-of / @ember/mass-propers   (Mass sources; depend on BOTH)
+```
+
+`content-engine` imports `@ember/liturgical`; `mass-of` imports *both*
+`@ember/content-engine` and `@ember/liturgical`. Folding `mass-of` into
+`liturgical` would make `liturgical → content-engine → liturgical`. So the
+three packages are correct. The real architectural win — eliminating the
+three-way precedence duplication that caused the bug — is **already done**;
+physical consolidation would regress the dependency graph, not improve it.
