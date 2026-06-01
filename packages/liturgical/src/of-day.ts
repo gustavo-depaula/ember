@@ -95,19 +95,25 @@ function sanctoralPrecedence(rank: RankOF | undefined, id: string): number {
  * GIRM precedence of the temporal day. The temporal cycle ranges from the
  * Triduum down to ordinary ferias.
  */
-function temporalPrecedence(date: Date, position: OfLiturgicalPosition): number {
+function temporalPrecedence(
+  date: Date,
+  position: OfLiturgicalPosition,
+  temporalId: string,
+): number {
   const { season, specialDay, dayOfWeek, week } = position
   const month = getMonth(date) + 1
   const day = getDate(date)
 
-  // Movable solemnities of the Lord in Ordinary Time.
-  if (
-    specialDay === 'trinity-sunday' ||
-    specialDay === 'corpus-christi' ||
-    specialDay === 'sacred-heart'
-  ) {
-    return girm.solemnity
-  }
+  // The movable solemnities of the Lord (Trinity, Corpus Christi, Sacred Heart,
+  // Christ the King) carry a `tempore.solemnity.*` id — the single robust signal
+  // (of-position flags only some of them as specialDays).
+  if (temporalId.startsWith('tempore.solemnity.')) return girm.solemnity
+
+  // Solemnity of the BVM on the temporal cycle (Jan 1 has a Christmas-octave id).
+  if (specialDay === 'mary-mother-of-god') return girm.solemnity
+
+  // Baptism of the Lord is a Feast of the Lord.
+  if (specialDay === 'baptism-of-the-lord') return girm.feastOfTheLord
 
   // Triduum.
   if (specialDay === 'good-friday' || specialDay === 'holy-saturday') return girm.triduum
@@ -179,7 +185,7 @@ export function resolveOfDay(date: Date, entries: LiturgicalEntry[]): OfDay {
     candidates.push({
       id: formularyIds[0],
       kind: 'temporal',
-      precedence: temporalPrecedence(date, position),
+      precedence: temporalPrecedence(date, position, formularyIds[0]),
       rank: undefined,
       name: undefined,
       formularyIds,
