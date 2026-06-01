@@ -142,6 +142,8 @@ The cache lives **only on-device**. Hearth never holds third-party bytes — tha
 
 ## Mass producer
 
+✅ **Shipped** as `producer/mass` — but assembled slightly differently from this original spec. The builders live in **`@ember/mass`** (`buildMassFlow(day)` for OF, `buildEFFlow()` for EF), not a new `mass-producer` package; the thin app-side ContentSource is `apps/app/src/sources/mass-flow.ts` (id `producer/mass`). OF/EF is **one producer with a form branch** (resolved below), dispatched via the include `params.form`. The liturgical *text* stays as declarative fragments (`mass-fragments.json`) the builders `call` — only the assembly/branching moved to code. The rest of this section is the original spec, kept for context.
+
 New built-in producer `producer/mass-flow` in `packages/mass-producer/` (new package). Consolidates the split-brain between code and JSON.
 
 **Producer surface:**
@@ -160,7 +162,7 @@ Internally calls `massOfSource.load(ctx)` (existing, in `packages/mass-of/src/so
 
 **Runtime dispatch.** The `include` primitive in the flow engine sees `ref: 'producer/mass-flow'`, looks up the producer in the registry, inlines the returned blocks. No new mass-specific runtime path — the same machinery composable producers use.
 
-**Rite split (OF vs EF):** the spec leaves the mechanic open. Options: one producer with a rite branch, or two producer ids (`producer/mass-of-flow`, `producer/mass-ef-flow`) selected by the manifest based on user preference. Recommend the latter — `mass-of` is already a self-contained package; an EF flavor lives parallel.
+**Rite split (OF vs EF):** ✅ resolved as **one producer with a form branch** (not two ids). `flow.json` is a form `select` whose OF/EF options each `include producer/mass` with `params.form` (`'of'`/`'ef'`); the producer dispatches to `buildMassFlow` or `buildEFFlow`. OF binds the `mass-of` day in `flowData`; EF is slot-centric (propers resolve per-slot via `ProperSlot`).
 
 **Migration.** Register the producer behind a flag (e.g. catalog entry exists but `flow.json` still uses fragments). Diff producer output against the current rendered shape day-by-day across a representative liturgical year (Christmas, Holy Week, Easter Vigil, Pentecost, Corpus Christi, weekday OT, sanctoral solemnity vs Sunday, etc.). Once parity holds, replace `flow.json` with the single `include` and delete the fragments.
 
@@ -172,7 +174,7 @@ Internally calls `massOfSource.load(ctx)` (existing, in `packages/mass-of/src/so
 
 | Producer id | Source | Notes |
 |---|---|---|
-| `producer/mass-flow` | `packages/mass-of` + new code | Spec'd above. Consolidates the Mass flow. |
+| `producer/mass` | `@ember/mass` (`buildMassFlow`/`buildEFFlow`) | ✅ **Shipped** — form-aware (OF + EF) via `params.form`; `flow.json` is a thin form select. |
 | `producer/ccc-chapter` | vatican.va CCC | First external book. Replaces `apps/app/src/lib/catechism.ts` + `app/catechism/index.tsx`. |
 | `producer/breviary-of-the-day` | iBreviary (https://www.ibreviary.org/en/tools/ibreviary-on-your-website.html) | Friendly integration — lang/rite/hour parameters. |
 | `producer/gospel-of-the-day` | vaticannews.va word-of-the-day | ✅ **Shipped** — `apps/app/src/sources/vatican-news/`. Today's Gospel (citation + passage) from Vatican News on native; **falls back to the offline `mass-of` Gospel** on web (CORS) or any fetch failure, so the tab is always populated; `dateScoped`. |

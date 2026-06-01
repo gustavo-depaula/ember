@@ -51,12 +51,9 @@ importers:
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../../packages/liturgical
-      '@ember/mass-of':
+      '@ember/mass':
         specifier: workspace:*
-        version: link:../../packages/mass-of
-      '@ember/mass-propers':
-        specifier: workspace:*
-        version: link:../../packages/mass-propers
+        version: link:../../packages/mass
       '@expo-google-fonts/cinzel':
         specifier: ^0.4.2
         version: 0.4.2
@@ -335,7 +332,7 @@ importers:
 
   packages/liturgical: {}
 
-  packages/mass-of:
+  packages/mass:
     dependencies:
       '@ember/content-engine':
         specifier: workspace:*
@@ -346,12 +343,6 @@ importers:
       date-fns:
         specifier: '*'
         version: 4.1.0
-
-  packages/mass-propers:
-    dependencies:
-      '@ember/liturgical':
-        specifier: workspace:*
-        version: link:../liturgical
 
 packages:
 

@@ -9,6 +9,12 @@ export type RawProperFile = Record<string, RawSection>
 export type PropersDataSource = {
   loadTempora(id: string): Promise<RawProperFile | undefined>
   loadSancti(id: string): Promise<RawProperFile | undefined>
+  /**
+   * Optional DO precedence index (id→number) from `content/propers/ef-ranks.json`.
+   * When provided, tempora-vs-sancti is decided by Divinum Officium's own
+   * occurrence value (higher wins) instead of the hand-authored calendar category.
+   */
+  loadRanks?(): Promise<Record<string, number> | undefined>
 }
 
 export type LocalizeContent = (text: { 'en-US'?: string; 'pt-BR'?: string }) => string
@@ -32,6 +38,22 @@ export function chooseProperSource(
   if (!dayCalendar?.principal) return 'tempora'
   const category = dayCalendar.principal.entry.category
   return temporaCategories.has(category) ? 'tempora' : 'sancti'
+}
+
+/**
+ * Decide tempora vs sancti from Divinum Officium's own occurrence values: the
+ * higher-ranked celebration's Mass is said. Ferial days (rank 1) yield to any
+ * saint; Sundays (rank ~6.x) yield only to a strictly higher feast. Ties and
+ * missing sancti stay on tempora (the Sunday/feria Mass, saint commemorated).
+ */
+export function chooseProperSourceByRank(
+  temporaId: string | undefined,
+  sanctiId: string,
+  ranks: Record<string, number>,
+): 'tempora' | 'sancti' {
+  const tempora = temporaId ? (ranks[temporaId] ?? 0) : 0
+  const sancti = ranks[sanctiId] ?? 0
+  return sancti > tempora ? 'sancti' : 'tempora'
 }
 
 /**
@@ -118,9 +140,15 @@ async function loadRawProperDay(
   dayCalendar: DayCalendar | undefined,
   dataSource: PropersDataSource,
 ): Promise<RawProperFile | undefined> {
-  const source = chooseProperSource(date, dayCalendar)
   const temporaId = getDoTemporaId(date)
   const sanctiId = getDoSanctiId(date)
+
+  // Prefer Divinum Officium's own occurrence values when available; fall back to
+  // the calendar-category heuristic.
+  const ranks = dataSource.loadRanks ? await dataSource.loadRanks() : undefined
+  const source = ranks
+    ? chooseProperSourceByRank(temporaId, sanctiId, ranks)
+    : chooseProperSource(date, dayCalendar)
 
   const dayTempora = temporaId ? await dataSource.loadTempora(temporaId) : undefined
   const sancti = await dataSource.loadSancti(sanctiId)

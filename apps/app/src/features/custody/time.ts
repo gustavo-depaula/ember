@@ -7,6 +7,8 @@
 export function parseHHmm(value: string): { hours: number; minutes: number } | undefined {
   const parts = value.split(':')
   if (parts.length !== 2) return undefined
+  // Reject any non-digit (parseInt is lenient — '6x' → 6).
+  if (!/^\d+$/.test(parts[0]) || !/^\d+$/.test(parts[1])) return undefined
   const hours = Number.parseInt(parts[0], 10)
   const minutes = Number.parseInt(parts[1], 10)
   if (Number.isNaN(hours) || Number.isNaN(minutes)) return undefined

@@ -1,0 +1,98 @@
+{
+  "fragments": {
+    "of-lord-be-with-you": [
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "The Lord be with you.",
+          "la": "Dóminus vobíscum.",
+          "pt-BR": "O Senhor esteja convosco."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "And with your spirit.",
+          "la": "Et cum spíritu tuo.",
+          "pt-BR": "Ele está no meio de nós."
+        }
+      }
+    ],
+    "of-preface-dialogue": [
+      {
+        "type": "subheading",
+        "text": {
+          "en-US": "Preface Dialogue",
+          "pt-BR": "Diálogo do Prefácio"
+        }
+      },
+      { "type": "call", "ref": "of-lord-be-with-you" },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Lift up your hearts.",
+          "la": "Sursum corda.",
+          "pt-BR": "Corações ao alto."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "We lift them up to the Lord.",
+          "la": "Habémus ad Dóminum.",
+          "pt-BR": "O nosso coração está em Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "priest",
+        "inline": {
+          "en-US": "Let us give thanks to the Lord our God.",
+          "la": "Grátias agámus Dómino Deo nostro.",
+          "pt-BR": "Demos graças ao Senhor, nosso Deus."
+        }
+      },
+      {
+        "type": "prayer",
+        "speaker": "people",
+        "inline": {
+          "en-US": "It is right and just.",
+          "la": "Dignum et justum est.",
+          "pt-BR": "É nosso dever e nossa salvação."
+        }
+      }
+    ],
+    "of-sanctus": [
+      {
+        "type": "prayer",
+        "speaker": "all",
+        "inline": {
+          "en-US": "Holy, Holy, Holy Lord God of hosts.\nHeaven and earth are full of your glory.\nHosanna in the highest.\nBlessed is he who comes in the name of the Lord.\nHosanna in the highest.",
+          "la": "Sanctus, Sanctus, Sanctus Dóminus Deus Sábaoth.\nPleni sunt cæli et terra glória tua.\nHosánna in excélsis.\nBenedíctus qui venit in nómine Dómini.\nHosánna in excélsis.",
+          "pt-BR": "Santo, Santo, Santo, Senhor, Deus do universo!\nO céu e a terra proclamam a vossa glória.\nHosana nas alturas!\nBendito o que vem em nome do Senhor!\nHosana nas alturas!"
+        }
+      }
+    ],
+    "of-day-preface": [
+      {
+        "type": "choice-rich-text",
+        "label": {
+          "en-US": "Preface of the day",
+          "pt-BR": "Prefácio do dia"
+        },
+        "slot": "preface",
+        "pickerStyle": "cards",
+        "defaultBlank": true
+      }
+    ],
+    "of-ep-day-preface-head": [
+      { "type": "call", "ref": "of-preface-dialogue" },
+      { "type": "call", "ref": "of-day-preface" },
+      { "type": "call", "ref": "of-sanctus" }
+    ]
+  }
+}

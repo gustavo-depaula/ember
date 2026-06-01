@@ -1,119 +1,4 @@
 {
-  "load": [
-    {
-      "as": "day",
-      "source": "mass-of",
-      "calendar": "of"
-    }
-  ],
-  "fragments": {
-    "of-lord-be-with-you": [
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "The Lord be with you.",
-          "la": "Dóminus vobíscum.",
-          "pt-BR": "O Senhor esteja convosco."
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "people",
-        "inline": {
-          "en-US": "And with your spirit.",
-          "la": "Et cum spíritu tuo.",
-          "pt-BR": "Ele está no meio de nós."
-        }
-      }
-    ],
-    "of-preface-dialogue": [
-      {
-        "type": "subheading",
-        "text": {
-          "en-US": "Preface Dialogue",
-          "pt-BR": "Diálogo do Prefácio"
-        }
-      },
-      {
-        "type": "call",
-        "ref": "of-lord-be-with-you"
-      },
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "Lift up your hearts.",
-          "la": "Sursum corda.",
-          "pt-BR": "Corações ao alto."
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "people",
-        "inline": {
-          "en-US": "We lift them up to the Lord.",
-          "la": "Habémus ad Dóminum.",
-          "pt-BR": "O nosso coração está em Deus."
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "priest",
-        "inline": {
-          "en-US": "Let us give thanks to the Lord our God.",
-          "la": "Grátias agámus Dómino Deo nostro.",
-          "pt-BR": "Demos graças ao Senhor, nosso Deus."
-        }
-      },
-      {
-        "type": "prayer",
-        "speaker": "people",
-        "inline": {
-          "en-US": "It is right and just.",
-          "la": "Dignum et justum est.",
-          "pt-BR": "É nosso dever e nossa salvação."
-        }
-      }
-    ],
-    "of-sanctus": [
-      {
-        "type": "prayer",
-        "speaker": "all",
-        "inline": {
-          "en-US": "Holy, Holy, Holy Lord God of hosts.\nHeaven and earth are full of your glory.\nHosanna in the highest.\nBlessed is he who comes in the name of the Lord.\nHosanna in the highest.",
-          "la": "Sanctus, Sanctus, Sanctus Dóminus Deus Sábaoth.\nPleni sunt cæli et terra glória tua.\nHosánna in excélsis.\nBenedíctus qui venit in nómine Dómini.\nHosánna in excélsis.",
-          "pt-BR": "Santo, Santo, Santo, Senhor, Deus do universo!\nO céu e a terra proclamam a vossa glória.\nHosana nas alturas!\nBendito o que vem em nome do Senhor!\nHosana nas alturas!"
-        }
-      }
-    ],
-    "of-day-preface": [
-      {
-        "type": "choice-rich-text",
-        "label": {
-          "en-US": "Preface of the day",
-          "pt-BR": "Prefácio do dia"
-        },
-        "slot": "preface",
-        "pickerStyle": "cards",
-        "defaultBlank": true
-      }
-    ],
-    "of-ep-day-preface-head": [
-      {
-        "type": "call",
-        "ref": "of-preface-dialogue"
-      },
-      {
-        "type": "call",
-        "ref": "of-day-preface"
-      },
-      {
-        "type": "call",
-        "ref": "of-sanctus"
-      }
-    ]
-  },
   "sections": [
     {
       "type": "select",
@@ -133,114 +18,9 @@
           },
           "sections": [
             {
-              "type": "select",
-              "from": "day.celebrations",
-              "as": "celebration",
-              "idFrom": "id",
-              "labelFrom": "title",
-              "label": {
-                "en-US": "Today's Liturgy",
-                "pt-BR": "Liturgia de Hoje"
-              },
-              "hideIfSingle": true,
-              "body": [
-                {
-                  "type": "liturgical-color-scope",
-                  "from": "celebration.primary.liturgicalColor",
-                  "sections": [
-                    {
-                      "type": "celebration-banner",
-                      "from": "celebration.primary",
-                      "cycleFrom": "day.cycle"
-                    },
-                    {
-                      "type": "select",
-                      "on": "celebration.rite",
-                      "default": "mass",
-                      "options": [
-                        {
-                          "id": "mass",
-                          "label": {
-                            "en-US": "Mass",
-                            "pt-BR": "Missa"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-mass-rite-body"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "easter-vigil",
-                          "label": {
-                            "en-US": "Easter Vigil",
-                            "pt-BR": "Vigília Pascal"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-easter-vigil-rite-body"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "celebration-of-the-passion",
-                          "label": {
-                            "en-US": "Good Friday",
-                            "pt-BR": "Sexta-feira da Paixão"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-celebration-of-the-passion-rite-body"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lords-supper",
-                          "label": {
-                            "en-US": "Lord's Supper",
-                            "pt-BR": "Ceia do Senhor"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-lords-supper-rite-body"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "chrism-mass",
-                          "label": {
-                            "en-US": "Chrism Mass",
-                            "pt-BR": "Missa do Crisma"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-chrism-mass-rite-body"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "mass-with-procession",
-                          "label": {
-                            "en-US": "Palm Sunday",
-                            "pt-BR": "Domingo de Ramos"
-                          },
-                          "sections": [
-                            {
-                              "type": "call",
-                              "ref": "of-mass-with-procession-rite-body"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+              "type": "include",
+              "ref": "producer/mass",
+              "params": { "form": "of" }
             }
           ]
         },
@@ -252,46 +32,13 @@
           },
           "sections": [
             {
-              "type": "call",
-              "ref": "ef-form-body"
+              "type": "include",
+              "ref": "producer/mass",
+              "params": { "form": "ef" }
             }
           ]
         }
       ]
     }
-  ],
-  "fragmentSources": [
-    "fragments/of-special-rites.json",
-    "fragments/of-eucharistic-prayers.json",
-    "fragments/of-rite-bodies.json",
-    "fragments/ef-form-body.json",
-    "fragments/of-introductory-rites.json",
-    "fragments/of-liturgy-of-the-word.json",
-    "fragments/of-liturgy-of-the-eucharist.json",
-    "fragments/of-communion-rite.json",
-    "fragments/of-concluding-rites.json",
-    "fragments/ef-extraordinary-view.json",
-    "fragments/ef-extraordinary-propers-view.json",
-    "fragments/ef-extraordinary-readings-view.json",
-    "fragments/of-blessing-advent.json",
-    "fragments/of-blessing-christmas.json",
-    "fragments/of-blessing-lent.json",
-    "fragments/of-blessing-easter.json",
-    "fragments/of-blessing-ordinary-time.json",
-    "fragments/of-blessing-default.json",
-    "fragments/ef-prayers-at-the-foot-of-the-altar.json",
-    "fragments/ef-kyrie.json",
-    "fragments/ef-gloria.json",
-    "fragments/ef-liturgy-of-the-word.json",
-    "fragments/ef-credo.json",
-    "fragments/ef-offertory.json",
-    "fragments/ef-preface.json",
-    "fragments/ef-canon-of-the-mass.json",
-    "fragments/ef-communion-rite.json",
-    "fragments/ef-dismissal.json",
-    "fragments/ef-last-gospel.json",
-    "fragments/ef-lord-be-with-you.json",
-    "fragments/ef-asperges.json",
-    "fragments/ef-leonine-prayers.json"
   ]
 }

@@ -15,6 +15,8 @@
  * The accessor returns the multilingual JSON body merged across `langs`
  * (those it has available), or `undefined` if the item is unknown.
  */
+import type { LiturgicalEntry } from '@ember/liturgical'
+
 export type MassOfDataSource = {
   /** Fetch an OF Mass proper by corpus id (e.g. `mass/of/tempore/holy-week/chrism-mass`). */
   fetchMassProper(id: string): Promise<unknown | undefined>
@@ -24,4 +26,9 @@ export type MassOfDataSource = {
   fetchPreface(id: string): Promise<unknown | undefined>
   /** Fetch an OF data blob by corpus id (e.g. `of-data/calendar/sanctorale/_index`). */
   fetchOfData(id: string): Promise<unknown | undefined>
+  /**
+   * Fetch the generated OF calendar entries (sanctoral + movable) used by the
+   * unified day resolver to decide precedence. Corpus id `liturgical/of-calendar`.
+   */
+  fetchOfCalendar(): Promise<LiturgicalEntry[]>
 }

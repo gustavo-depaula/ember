@@ -16,7 +16,7 @@ import {
 } from './resolve'
 
 const entries: LiturgicalEntry[] = JSON.parse(
-  readFileSync(resolve(__dirname, '../../../content/liturgical/entries.json'), 'utf8'),
+  readFileSync(resolve(__dirname, '../../../../content/liturgical/entries.json'), 'utf8'),
 )
 
 const calendar2026 = buildYearCalendar({ year: 2026, form: 'ef', entries })

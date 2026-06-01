@@ -1,6 +1,7 @@
 export { getDoSanctiId, getDoTemporaId, getDoTemporaSundayId } from './do-file-id'
 export {
   chooseProperSource,
+  chooseProperSourceByRank,
   getProperDay,
   getProperForSlot,
   getRawProperForSlot,

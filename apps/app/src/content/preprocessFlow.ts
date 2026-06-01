@@ -364,6 +364,7 @@ function makeSourceAccessor(ctx: PreprocessContext): SourceAccessor {
         date: ctx.date,
         programDay: ctx.programDay,
         sources: accessor,
+        queryClient: ctx.queryClient,
       }
       const cached = await ctx.queryClient.fetchQuery({
         queryKey: [
@@ -399,6 +400,7 @@ async function fetchFromSource(
     date: ctx.date,
     programDay: ctx.programDay,
     sources: accessor,
+    queryClient: ctx.queryClient,
   }
   const cached = await ctx.queryClient.fetchQuery({
     queryKey: [

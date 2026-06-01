@@ -2,6 +2,7 @@
 // declarative cache deps (prefsDeps), source composition via injected accessor.
 // No `kind` discriminator: a source's typed output is the contract.
 
+import type { QueryClient } from '@tanstack/react-query'
 import type { Primitive } from '@/content/primitives'
 
 export type ProducerPrefs = {
@@ -22,6 +23,10 @@ export type SourceFetchContext = {
   date: Date
   programDay?: number
   sources: SourceAccessor
+  // For flow-composing producers (e.g. producer/mass): the react-query client,
+  // so a producer can resolve + preprocess a computed sub-flow (and its nested
+  // includes — bible readings, psalmody, …) into final primitives.
+  queryClient: QueryClient
 }
 
 export type ContentSource<T extends Primitive | Primitive[] = Primitive | Primitive[]> = {

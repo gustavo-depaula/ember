@@ -6,6 +6,7 @@ import type {
   PickerStyle,
   RichTextLine,
 } from '@ember/content-engine'
+import { useEffect, useState } from 'react'
 import { Text, XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
@@ -48,7 +49,17 @@ export function ChoiceRichTextBlock({
   pickerStyle?: PickerStyle
   hideLabel?: boolean
 }) {
-  const current = selectedId ? options.find((o) => o.id === selectedId) : undefined
+  // All option bodies are always built (the picker needs them), so switching is
+  // a local toggle — no re-resolution, which is what lets a cached producer emit
+  // these slots and still have them switch. onSelect still fires to persist.
+  const [localId, setLocalId] = useState(selectedId)
+  useEffect(() => setLocalId(selectedId), [selectedId])
+  const handleSelect = (id: string) => {
+    setLocalId(id)
+    onSelect(id)
+  }
+
+  const current = localId ? options.find((o) => o.id === localId) : undefined
   if (options.length === 0) return null
 
   const renderBody = (opt: Option) => (
@@ -89,7 +100,7 @@ export function ChoiceRichTextBlock({
               label={opt.label.primary}
               excerpt={opt.excerpt?.primary}
               isSelected={opt.id === current?.id}
-              onPress={() => onSelect(opt.id)}
+              onPress={() => handleSelect(opt.id)}
             />
           ))}
         </YStack>
@@ -101,7 +112,7 @@ export function ChoiceRichTextBlock({
               return (
                 <AnimatedPressable
                   key={opt.id}
-                  onPress={() => onSelect(opt.id)}
+                  onPress={() => handleSelect(opt.id)}
                   accessibilityRole="tab"
                   accessibilityLabel={opt.label.primary}
                   accessibilityState={{ selected: isSelected }}

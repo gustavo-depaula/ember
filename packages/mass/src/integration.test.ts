@@ -63,6 +63,13 @@ const fixtureDataSource: MassOfDataSource = {
     const p = ofDataPath(id)
     return p ? readJsonAt(p) : undefined
   },
+  fetchOfCalendar: async () => {
+    const raw = await readFile(
+      resolve(__dirname, '../../../content/liturgical/of-calendar.json'),
+      'utf-8',
+    )
+    return JSON.parse(raw)
+  },
 }
 
 function makeEngineContext(): EngineContext {
@@ -80,6 +87,11 @@ function makeEngineContext(): EngineContext {
     prayers: {},
     canticles: {},
     prose: {},
+    contentSources: {
+      bibleChapter: 'producer/bible-chapter',
+      cccChapter: 'producer/ccc-chapter',
+      psalmody: 'producer/psalmody',
+    },
     fetchOwnAsset: () => Promise.resolve(undefined),
   }
 }
@@ -458,5 +470,36 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
     const ids = select.options.map((o) => o.id)
     expect(ids).toContain('sanctorale.06-13')
     expect(ids.some((id) => id.startsWith('tempore.ordinary-time.'))).toBe(true)
+  })
+
+  it('Holy Trinity suppresses the Visitation feast — single celebration, no bifurcation (2026-05-31)', async () => {
+    // The reported bug: a Solemnity (Trinity, Easter+56) coincides with the
+    // Visitation feast (fixed May 31). The solemnity must win outright; the
+    // feast is omitted — not offered as a top-level option nor a slot alternate.
+    const date = new Date(2026, 4, 31)
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          label: { 'pt-BR': 'Liturgia' },
+          hideIfSingle: true,
+          body: [{ type: 'heading' as const, text: { 'pt-BR': '{{celebration.id}}' } }],
+        },
+      ],
+    }
+    const result = await resolveFlowAsync(flow, makeContext(date), makeEngineContext())
+    // A single celebration → hideIfSingle hides the picker and renders the body
+    // once. No select, no Visitation.
+    const headings = result.filter((s) => s.type === 'heading')
+    expect(headings.length).toBe(1)
+    expect((headings[0] as { text: { primary: string } }).text.primary).toBe(
+      'tempore.solemnity.most-holy-trinity',
+    )
+    expect(result.some((s) => s.type === 'select')).toBe(false)
   })
 })
