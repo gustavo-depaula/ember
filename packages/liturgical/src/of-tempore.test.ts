@@ -20,6 +20,14 @@ describe('ofTemporeIds', () => {
     ])
   })
 
+  it('Pentecost yields the day Mass + the Vigil Mass (2026)', () => {
+    // Easter 2026 = Apr 5; Pentecost = Easter+49 = May 24.
+    expect(ofTemporeIds(d(2026, 5, 24))).toEqual([
+      'tempore.easter.week-8.sunday',
+      'tempore.easter.week-8.sunday.a',
+    ])
+  })
+
   it('Holy Thursday yields chrism + Lord’s Supper (2026)', () => {
     // Easter 2026 = Apr 5; Holy Thursday = Apr 2.
     expect(ofTemporeIds(d(2026, 4, 2))).toEqual([

@@ -77,13 +77,38 @@ workflow so it can't drift from the upstream.
 
 ## OF Mass flow
 
-`@ember/mass-of`'s `createMassOfSource` asks `resolveOfDay` which celebration
+`@ember/mass`'s `createMassOfSource` asks `resolveOfDay` which celebration
 wins, then builds *only* that Mass (self-contained, no cross-Mass alternates — so
 no mixed readings). A "fixed" day (precedence ≤ 7: solemnity/feast/Sunday)
-celebrates the principal alone (expanded to multi-Mass formularies on Christmas
-and Holy Thursday); a memorial/ferial day offers the celebrant's legitimate
-choices (saint vs weekday) as separate top-level options. The app's
-`MassOfDataSource` provides `fetchOfCalendar()` → `liturgical/of-calendar.json`.
+celebrates the principal alone (expanded to multi-Mass formularies on Christmas,
+Holy Thursday, and Pentecost — see below); a memorial/ferial day offers the
+celebrant's legitimate choices (saint vs weekday) as separate top-level options.
+The app's `MassOfDataSource` provides `fetchOfCalendar()` →
+`liturgical/of-calendar.json`.
+
+**Outranked feasts as alternates.** On a fixed day, a coinciding Feast or
+Solemnity that precedence *suppressed* is still offered as an additional Mass to
+*view* — the principal is the default chip, the suppressed celebration a second
+chip — mirroring how multiple saints on a memorial day each get a chip. This is a
+devotional affordance (read the Mass that "would have been"), not a rubrical
+claim: the principal remains the only Mass said. Lesser suppressed days
+(memorials, ferias, an outranked Sunday/weekday) stay hidden. Example: on Trinity
+Sunday 2026-05-31 the picker shows **Holy Trinity** (default) + **The Visitation**
+(`celebrationFormularyIds` in `packages/mass/src/source.ts`).
+
+**Multi-Mass days.** `ofTemporeIds` yields several formularies for a few days, all
+surfaced as chips: Christmas (vigil/night/dawn/day), Holy Thursday (chrism +
+Lord's Supper), and **Pentecost** (the day Mass + the extended **Vigil Mass**,
+which ember-extra files as the `tempore.easter.week-8.sunday.a` variant). The
+Pentecost Vigil shares the day Mass's localized title upstream (only `fr`/`de`
+differ), so `titleOverrides` in `source.ts` gives its chip a distinct label.
+
+**Mass view switcher.** The normal OF Mass body wraps a `View` select — **Full
+Mass** (the whole Order of Mass) or **Readings Only** (just the Lectionary slots,
+cycle-bound) — mirroring the EF view switch. Special rites (Easter Vigil, Good
+Friday, …) render their own body with no switcher. Built in `buildMassFlow`; the
+non-default branch resolves at engine time (it's a labeled select) so the
+Readings tab is populated before it's opened.
 
 ## EF path
 

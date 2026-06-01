@@ -9,7 +9,8 @@ import { computeEaster, getFirstSundayOfAdvent } from './season'
  *
  * Most days yield one id. Holy Thursday yields two (chrism + Lord's Supper);
  * Christmas Day yields four (vigil/night/dawn/day); Dec 24 yields the ferial +
- * the nativity vigil. The first id is the principal one.
+ * the nativity vigil; Pentecost yields the day Mass + its extended Vigil Mass.
+ * The first id is the principal one.
  *
  * This is the single source of the temporal id mapping, owned by the calendar
  * (it was previously duplicated inside `@ember/mass`).
@@ -20,6 +21,13 @@ export function ofTemporeIds(date: Date): string[] {
 
   // ── Movable solemnities (override the season-week-weekday id) ──
   const easter = computeEaster(date.getFullYear())
+  // Pentecost (Easter+49): the day Mass plus the extended Vigil Mass, which
+  // ember-extra files as an `.a` variant of Pentecost Sunday. Surfaced together
+  // like Christmas Day's Masses so the Vigil is reachable (its own readings,
+  // collect, etc.) rather than hidden behind the day Mass.
+  if (isSameDay(date, addDays(easter, 49))) {
+    return ['tempore.easter.week-8.sunday', 'tempore.easter.week-8.sunday.a']
+  }
   if (isSameDay(date, addDays(easter, 56))) return ['tempore.solemnity.most-holy-trinity']
   if (isSameDay(date, addDays(easter, 60))) return ['tempore.solemnity.corpus-christi']
   // Brazil's transferred Corpus Christi (Sunday after Trinity, Easter + 63)

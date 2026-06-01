@@ -19,6 +19,44 @@ function callRefs(sections: unknown[]): string[] {
   return refs
 }
 
+// Collect every `choice-rich-text` slot the builder emits, at any depth.
+function slots(sections: unknown[]): string[] {
+  const out: string[] = []
+  const walk = (node: unknown) => {
+    if (!node || typeof node !== 'object') return
+    if (Array.isArray(node)) {
+      node.forEach(walk)
+      return
+    }
+    const obj = node as Record<string, unknown>
+    if (obj.type === 'choice-rich-text' && typeof obj.slot === 'string') out.push(obj.slot)
+    for (const value of Object.values(obj)) walk(value)
+  }
+  sections.forEach(walk)
+  return out
+}
+
+// The View select wrapping a normal Mass body, if present.
+function viewSelect(
+  sections: unknown[],
+): { options: { id: string; sections: unknown[] }[] } | undefined {
+  let found: { options: { id: string; sections: unknown[] }[] } | undefined
+  const walk = (node: unknown) => {
+    if (!node || typeof node !== 'object') return
+    if (Array.isArray(node)) {
+      node.forEach(walk)
+      return
+    }
+    const obj = node as Record<string, unknown>
+    if (obj.type === 'select' && (obj.as === 'ofView' || obj.default === 'ordinary')) {
+      found = obj as never
+    }
+    for (const value of Object.values(obj)) walk(value)
+  }
+  sections.forEach(walk)
+  return found
+}
+
 function day(rite: string, season?: string): DayLiturgies {
   return {
     celebrations: [
@@ -56,5 +94,28 @@ describe('buildMassFlow — assembly computed in code', () => {
     // fall back to the general blessing.
     expect(callRefs(buildMassFlow(day('mass', 'holy-week')))).toContain('of-blessing-default')
     expect(callRefs(buildMassFlow(day('mass', undefined)))).toContain('of-blessing-default')
+  })
+
+  it('wraps a normal Mass in a View switcher (Full Mass / Readings Only)', () => {
+    const view = viewSelect(buildMassFlow(day('mass', 'ordinary-time')))
+    expect(view).toBeDefined()
+    expect(view!.options.map((o) => o.id)).toEqual(['ordinary', 'ordinary-readings'])
+  })
+
+  it('the Readings Only view exposes the Lectionary slots, cycle-bound', () => {
+    const view = viewSelect(buildMassFlow(day('mass', 'ordinary-time')))!
+    const readings = view.options.find((o) => o.id === 'ordinary-readings')!
+    expect(slots(readings.sections)).toEqual([
+      'readings.{{day.cycle}}.firstReading',
+      'readings.{{day.cycle}}.responsorialPsalm',
+      'readings.{{day.cycle}}.secondReading',
+      'readings.{{day.cycle}}.sequentia',
+      'readings.{{day.cycle}}.gospelAcclamation',
+      'readings.{{day.cycle}}.gospel',
+    ])
+  })
+
+  it('special rites have no View switcher (Easter Vigil renders its own body)', () => {
+    expect(viewSelect(buildMassFlow(day('easter-vigil', 'easter')))).toBeUndefined()
   })
 })

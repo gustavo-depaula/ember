@@ -7,12 +7,15 @@ import { resolve } from 'node:path'
 import {
   type EngineContext,
   type FlowContext,
+  getDataSource,
   registerDataSource,
   resolveFlowAsync,
 } from '@ember/content-engine'
 import { afterAll, beforeAll, describe, expect, it } from 'vitest'
+import { buildMassFlow } from './buildMassFlow'
 import type { MassOfDataSource } from './dataSource'
 import { createMassOfSource } from './source'
+import type { DayLiturgies } from './types'
 
 // Read directly from the vendored ember-extra submodule.
 const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
@@ -472,10 +475,73 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
     expect(ids.some((id) => id.startsWith('tempore.ordinary-time.'))).toBe(true)
   })
 
-  it('Holy Trinity suppresses the Visitation feast — single celebration, no bifurcation (2026-05-31)', async () => {
-    // The reported bug: a Solemnity (Trinity, Easter+56) coincides with the
-    // Visitation feast (fixed May 31). The solemnity must win outright; the
-    // feast is omitted — not offered as a top-level option nor a slot alternate.
+  it('buildMassFlow exposes a View switcher whose Readings tab resolves the Lectionary (OT Sunday)', async () => {
+    // 2026-06-14 — Sunday in OT (year B). The producer loads the day, then
+    // buildMassFlow wraps the Mass in a View select; the "Readings Only" tab
+    // must resolve populated choice-rich-text (not empty) even though it's the
+    // non-default branch — the engine materializes every labeled-select branch.
+    const sunday = new Date(2026, 5, 14)
+    const day = (await getDataSource('mass-of')!.load(
+      { calendar: 'of' },
+      {
+        fetchOwnAsset: async () => undefined,
+        localize: (text) => ({ primary: (text as Record<string, string>)['pt-BR'] ?? '' }),
+        t: (key) => key,
+        now: () => sunday,
+      },
+    )) as DayLiturgies
+    const flow = { fragments: {}, sections: buildMassFlow(day) }
+    const context: FlowContext = { date: sunday, flowData: { day } }
+    const result = await resolveFlowAsync(flow, context, makeEngineContext())
+
+    // The View select is nested under the (hidden) celebration picker's
+    // color-scope — find it at any depth.
+    type ViewSelect = { options: { id: string; sections: unknown[] }[] }
+    const findViewSelect = (node: unknown): ViewSelect | undefined => {
+      if (!node || typeof node !== 'object') return undefined
+      if (Array.isArray(node)) {
+        for (const n of node) {
+          const hit = findViewSelect(n)
+          if (hit) return hit
+        }
+        return undefined
+      }
+      const obj = node as Record<string, unknown>
+      if (
+        obj.type === 'select' &&
+        Array.isArray(obj.options) &&
+        (obj.options as { id?: string }[]).some((o) => o.id === 'ordinary-readings')
+      ) {
+        return obj as unknown as ViewSelect
+      }
+      for (const value of Object.values(obj)) {
+        const hit = findViewSelect(value)
+        if (hit) return hit
+      }
+      return undefined
+    }
+
+    const view = findViewSelect(result)
+    expect(view).toBeDefined()
+    expect(view!.options.map((o) => o.id)).toEqual(['ordinary', 'ordinary-readings'])
+
+    // The Readings tab must carry resolved readings, not an empty branch.
+    const readings = view!.options.find((o) => o.id === 'ordinary-readings')!
+    const richTexts = (readings.sections as { type: string }[]).filter(
+      (s): s is { type: 'choice-rich-text'; options: { body: { primary: string } }[] } =>
+        s.type === 'choice-rich-text',
+    )
+    expect(richTexts.length).toBeGreaterThan(0)
+    // At least one reading (the gospel) has a non-empty body.
+    expect(richTexts.some((rt) => rt.options.some((o) => o.body.primary.length > 0))).toBe(true)
+  })
+
+  it('Holy Trinity is the principal; the suppressed Visitation feast is offered as an alternate (2026-05-31)', async () => {
+    // Trinity (Solemnity, Easter+56) coincides with the Visitation feast (fixed
+    // May 31). The solemnity wins precedence — it's the principal / default — but
+    // the feast is no longer hidden: it's surfaced as a second selectable Mass
+    // to view, like multiple saints on a memorial day. (Still no per-slot
+    // bifurcation: each Mass is self-contained.)
     const date = new Date(2026, 4, 31)
     const flow = {
       load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
@@ -493,13 +559,77 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
       ],
     }
     const result = await resolveFlowAsync(flow, makeContext(date), makeEngineContext())
-    // A single celebration → hideIfSingle hides the picker and renders the body
-    // once. No select, no Visitation.
+    // Two celebrations → the picker is visible with Trinity first (default) and
+    // the Visitation as the alternate chip.
+    const select = result.find(
+      (s): s is Extract<typeof s, { type: 'select' }> => s.type === 'select',
+    )
+    expect(select).toBeDefined()
+    const ids = select!.options.map((o) => o.id)
+    expect(ids).toEqual(['tempore.solemnity.most-holy-trinity', 'sanctorale.05-31'])
+    expect(select!.selectedId).toBe('tempore.solemnity.most-holy-trinity')
+  })
+
+  it('Pentecost surfaces both the day Mass and the Vigil, with distinct chip titles (2026-05-24)', async () => {
+    // ember-extra files the Pentecost Vigil as `week-8.sunday.a`, sharing the
+    // day Mass's en/pt title. Both must appear as separate chips, and the Vigil
+    // must read distinctly (not a second "Pentecost Sunday").
+    const pentecost = new Date(2026, 4, 24)
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          label: { 'pt-BR': 'Liturgia' },
+          hideIfSingle: true,
+          body: [{ type: 'heading' as const, text: { 'pt-BR': '{{celebration.id}}' } }],
+        },
+      ],
+    }
+    const result = await resolveFlowAsync(flow, makeContext(pentecost), makeEngineContext())
+    const select = result.find(
+      (s): s is Extract<typeof s, { type: 'select' }> => s.type === 'select',
+    )
+    expect(select).toBeDefined()
+    expect(select!.options.map((o) => o.id)).toEqual([
+      'tempore.easter.week-8.sunday',
+      'tempore.easter.week-8.sunday.a',
+    ])
+    const [day, vigil] = select!.options
+    // The day Mass is the default; the Vigil is labelled distinctly.
+    expect(select!.selectedId).toBe('tempore.easter.week-8.sunday')
+    expect(vigil.label.primary).not.toBe(day.label.primary)
+    expect(vigil.label.primary.toLowerCase()).toContain('vigília')
+  })
+
+  it('a memorial coinciding with a Solemnity stays suppressed (no alternate chip)', async () => {
+    // Only Feasts/Solemnities surface as alternates under a higher celebration;
+    // a memorial or optional memorial that precedence suppressed must NOT appear.
+    // 2026-06-24 — Birth of John the Baptist (solemnity); no coinciding feast,
+    // and the tempore weekday (a feria) must not surface either.
+    const date = new Date(2026, 5, 24)
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          label: { 'pt-BR': 'Liturgia' },
+          hideIfSingle: true,
+          body: [{ type: 'heading' as const, text: { 'pt-BR': '{{celebration.id}}' } }],
+        },
+      ],
+    }
+    const result = await resolveFlowAsync(flow, makeContext(date), makeEngineContext())
     const headings = result.filter((s) => s.type === 'heading')
     expect(headings.length).toBe(1)
-    expect((headings[0] as { text: { primary: string } }).text.primary).toBe(
-      'tempore.solemnity.most-holy-trinity',
-    )
-    expect(result.some((s) => s.type === 'select')).toBe(false)
+    expect((headings[0] as { text: { primary: string } }).text.primary).toBe('sanctorale.06-24')
   })
 })

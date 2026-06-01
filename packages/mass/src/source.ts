@@ -3,7 +3,7 @@ import { type OfDay, resolveOfDay } from '@ember/liturgical'
 import { pickCycle } from './calendar'
 import type { MassOfDataSource } from './dataSource'
 import { prefaceBodyExcerpts } from './prefaceBodyExcerpt'
-import { prettifyCelebrationTitle } from './prettifyCelebrationTitle'
+import { type CelebrationTitle, prettifyCelebrationTitle } from './prettifyCelebrationTitle'
 import { transformFormularyReadings } from './transformReadings'
 import type {
   Celebration,
@@ -15,6 +15,18 @@ import type {
 } from './types'
 
 const ORDINARY_ID = 'of/ordinary/ordinario'
+
+// A few ember-extra formularies share their localized title with the day Mass
+// they accompany (only `fr`/`de` differ), so as separate picker chips they'd be
+// indistinguishable. Give those a distinct label. The Pentecost Vigil is an
+// `.a` variant of Pentecost Sunday with the identical en/pt/la title.
+const titleOverrides: Record<string, CelebrationTitle> = {
+  'tempore.easter.week-8.sunday.a': {
+    'en-US': 'Pentecost — Vigil Mass',
+    'pt-BR': 'Pentecostes — Missa da Vigília',
+    la: 'Vigilia Pentecostes',
+  },
+}
 
 // Above this position on the GIRM Table of Liturgical Days the day is "fixed":
 // only the principal Mass is celebrated (a solemnity, feast, Feast of the Lord,
@@ -200,9 +212,9 @@ export function createMassOfSource(data: MassOfDataSource): DataSource {
     const primary = await fetchFormulary(primaryId)
     if (!primary) return undefined
 
-    const prettyTitle = prettifyCelebrationTitle(
-      (primary.title as Record<string, string | undefined>) ?? {},
-    )
+    const prettyTitle =
+      titleOverrides[primaryId] ??
+      prettifyCelebrationTitle((primary.title as Record<string, string | undefined>) ?? {})
     const hydratedPrimary = await hydratePreface({
       ...primary,
       title: prettyTitle,
@@ -267,14 +279,24 @@ export function createMassOfSource(data: MassOfDataSource): DataSource {
  * - A "fixed" day (solemnity, feast, Feast of the Lord, privileged day, Sunday)
  *   celebrates only the principal — expanded to its multi-Mass formularies on
  *   Christmas (vigil/night/dawn/day) and Holy Thursday (chrism + Lord's Supper).
+ *   A coinciding Feast or Solemnity that precedence suppressed (the Visitation
+ *   under Trinity Sunday) is still offered as an alternate Mass to *view* —
+ *   mirroring how multiple saints on a memorial day each get a chip. Lesser
+ *   suppressed days (memorials, ferias, an outranked Sunday/weekday) stay hidden.
  * - A memorial / ferial day offers the celebrant's legitimate choices as
  *   separate top-level celebrations: the principal plus the ferial Mass and any
- *   sanctoral memorials. Suppressed feasts/solemnities never appear.
+ *   sanctoral memorials.
  */
 function celebrationFormularyIds(day: OfDay): string[] {
   const { principal, others } = day
   if (principal.precedence <= FIXED_DAY_MAX_PRECEDENCE) {
-    return principal.formularyIds ?? [principal.id]
+    const ids = [...(principal.formularyIds ?? [principal.id])]
+    for (const c of others) {
+      if (c.kind === 'sanctoral' && (c.rank === 'feast' || c.rank === 'solemnity')) {
+        if (!ids.includes(c.id)) ids.push(c.id)
+      }
+    }
+    return ids
   }
   const offered = [principal, ...others].filter(
     (c) => c.kind === 'temporal' || c.rank === 'memorial' || c.rank === 'optional_memorial',
