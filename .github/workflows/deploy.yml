@@ -41,6 +41,9 @@ jobs:
       - name: Fetch CCC from upstream
         run: npx tsx scripts/fetch-ccc.ts
 
+      - name: Generate OF liturgical calendar from ember-extra
+        run: node scripts/build-of-calendar.mjs
+
       - name: Stage Hearth files
         run: |
           cp -r content _site_hearth

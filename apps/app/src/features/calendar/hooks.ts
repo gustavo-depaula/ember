@@ -12,8 +12,14 @@ import { useToday } from '@/hooks/useToday'
 import { fetchHearth } from '@/lib/hearth'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-function fetchLiturgicalEntries(): Promise<LiturgicalEntry[]> {
-  return fetchHearth<LiturgicalEntry[]>('liturgical/entries.json')
+// The OF calendar is generated from the canonical ember-extra data
+// (scripts/build-of-calendar.mjs → liturgical/of-calendar.json); the EF half is
+// still the hand-authored entries.json until the EF calendar is generated from
+// Divinum Officium. Per-form sources keep each calendar in lockstep with its
+// own propers.
+function fetchLiturgicalEntries(form: 'of' | 'ef'): Promise<LiturgicalEntry[]> {
+  const path = form === 'of' ? 'liturgical/of-calendar.json' : 'liturgical/entries.json'
+  return fetchHearth<LiturgicalEntry[]>(path)
 }
 
 export function useYearCalendar(year?: number) {
@@ -25,7 +31,7 @@ export function useYearCalendar(year?: number) {
   return useQuery({
     queryKey: ['calendar', resolvedYear, form, jurisdiction],
     queryFn: async () => {
-      const entries = await fetchLiturgicalEntries()
+      const entries = await fetchLiturgicalEntries(form)
       return buildYearCalendar({ year: resolvedYear, form, entries, jurisdiction })
     },
     staleTime: Number.POSITIVE_INFINITY,
