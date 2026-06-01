@@ -1,4 +1,4 @@
-import type { FlowSection } from '@ember/content-engine'
+import type { FlowSection, LocalizedText } from '@ember/content-engine'
 import type { DayLiturgies } from './types'
 
 /**
@@ -60,8 +60,35 @@ function celebrationBody(day: DayLiturgies): FlowSection[] {
   const special = riteBodyFragment[rite]
   if (special) return [call(special)]
 
-  // The Ordinary Form Mass: the Order of Mass as content fragments, with the
-  // seasonal blessing chosen here rather than via a 6-way select.
+  // The Ordinary Form Mass with a View switcher (mirrors the EF view switch):
+  // the full Order of Mass, or just the Lectionary readings for quick reference.
+  // Every branch resolves at engine time (it's a labeled select), so the Readings
+  // tab is populated even before it's opened.
+  return [
+    {
+      type: 'select',
+      as: 'ofView',
+      label: { 'en-US': 'View', 'pt-BR': 'Visualização' },
+      default: 'ordinary',
+      options: [
+        {
+          id: 'ordinary',
+          label: { 'en-US': 'Full Mass', 'pt-BR': 'Missa Completa' },
+          sections: fullMassBody(day),
+        },
+        {
+          id: 'ordinary-readings',
+          label: { 'en-US': 'Readings Only', 'pt-BR': 'Leituras' },
+          sections: readingsBody(),
+        },
+      ],
+    },
+  ]
+}
+
+// The full Order of Mass as content fragments, with the seasonal blessing chosen
+// here rather than via a 6-way select.
+function fullMassBody(day: DayLiturgies): FlowSection[] {
   return [
     call('of-introductory-rites'),
     call('of-liturgy-of-the-word'),
@@ -71,6 +98,48 @@ function celebrationBody(day: DayLiturgies): FlowSection[] {
     call(blessingFragment(day)),
     call('of-dismissal'),
   ]
+}
+
+// Lectionary-only view: the day's readings, resolved per-cycle against the bound
+// celebration's formulary. `{{day.cycle}}` picks the Sunday cycle (A/B/C) / weekday
+// cycle (I/II) from the loaded day.
+function readingsBody(): FlowSection[] {
+  const cycle = '{{day.cycle}}'
+  return [
+    reading('First Reading', 'Primeira Leitura', `readings.${cycle}.firstReading`),
+    divider,
+    reading('Responsorial Psalm', 'Salmo Responsorial', `readings.${cycle}.responsorialPsalm`),
+    divider,
+    reading(
+      'Second Reading (Sundays and Solemnities)',
+      'Segunda Leitura (Domingos e Solenidades)',
+      `readings.${cycle}.secondReading`,
+    ),
+    reading('Sequence', 'Sequência', `readings.${cycle}.sequentia`),
+    divider,
+    heading('Gospel Acclamation', 'Aclamação ao Evangelho'),
+    reading(
+      'Gospel Acclamation verse',
+      'Versículo da Aclamação ao Evangelho',
+      `readings.${cycle}.gospelAcclamation`,
+    ),
+    divider,
+    reading('Gospel of the day', 'Evangelho do dia', `readings.${cycle}.gospel`),
+  ]
+}
+
+const divider: FlowSection = { type: 'divider' }
+
+function bilingual(en: string, pt: string): LocalizedText {
+  return { 'en-US': en, 'pt-BR': pt }
+}
+
+function reading(en: string, pt: string, slot: string): FlowSection {
+  return { type: 'choice-rich-text', label: bilingual(en, pt), slot }
+}
+
+function heading(en: string, pt: string): FlowSection {
+  return { type: 'heading', text: bilingual(en, pt) }
 }
 
 const blessingSeasons = new Set(['advent', 'christmas', 'lent', 'easter', 'ordinary-time'])
