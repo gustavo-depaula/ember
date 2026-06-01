@@ -606,6 +606,67 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
     expect(vigil.label.primary.toLowerCase()).toContain('vigília')
   })
 
+  it('the eve of Pentecost offers the ferial Mass + the Vigil to be said that evening (2026-05-23)', async () => {
+    // The Saturday before Pentecost: the ferial Mass is the default, with the
+    // Pentecost Vigil offered as the evening alternative — like Dec 24.
+    const eve = new Date(2026, 4, 23)
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          label: { 'pt-BR': 'Liturgia' },
+          hideIfSingle: true,
+          body: [{ type: 'heading' as const, text: { 'pt-BR': '{{celebration.id}}' } }],
+        },
+      ],
+    }
+    const result = await resolveFlowAsync(flow, makeContext(eve), makeEngineContext())
+    const select = result.find(
+      (s): s is Extract<typeof s, { type: 'select' }> => s.type === 'select',
+    )
+    expect(select).toBeDefined()
+    expect(select!.options.map((o) => o.id)).toEqual([
+      'tempore.easter.week-7.saturday',
+      'tempore.easter.week-8.sunday.a',
+    ])
+    expect(select!.selectedId).toBe('tempore.easter.week-7.saturday')
+  })
+
+  it('Dec 24 offers the ferial/Advent Mass + the Nativity Vigil (2026-12-24)', async () => {
+    // The vigil that may be said on Christmas Eve now surfaces as a chip on the
+    // 24th itself, not only among Christmas Day's Masses.
+    const eve = new Date(2026, 11, 24)
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          label: { 'pt-BR': 'Liturgia' },
+          hideIfSingle: true,
+          body: [{ type: 'heading' as const, text: { 'pt-BR': '{{celebration.id}}' } }],
+        },
+      ],
+    }
+    const result = await resolveFlowAsync(flow, makeContext(eve), makeEngineContext())
+    const select = result.find(
+      (s): s is Extract<typeof s, { type: 'select' }> => s.type === 'select',
+    )
+    expect(select).toBeDefined()
+    const ids = select!.options.map((o) => o.id)
+    expect(ids).toContain('tempore.christmas.nativity-vigil')
+    // The ferial Advent weekday is the default, not the vigil.
+    expect(select!.selectedId).toBe('tempore.advent.dec-24')
+  })
+
   it('a memorial coinciding with a Solemnity stays suppressed (no alternate chip)', async () => {
     // Only Feasts/Solemnities surface as alternates under a higher celebration;
     // a memorial or optional memorial that precedence suppressed must NOT appear.

@@ -28,6 +28,12 @@ export function ofTemporeIds(date: Date): string[] {
   if (isSameDay(date, addDays(easter, 49))) {
     return ['tempore.easter.week-8.sunday', 'tempore.easter.week-8.sunday.a']
   }
+  // The eve of Pentecost (Easter+48, the Saturday before): the ferial Mass plus
+  // the Pentecost Vigil that may be said that evening — mirroring how Dec 24
+  // carries its ferial/Advent Mass plus the Nativity Vigil.
+  if (isSameDay(date, addDays(easter, 48))) {
+    return ['tempore.easter.week-7.saturday', 'tempore.easter.week-8.sunday.a']
+  }
   if (isSameDay(date, addDays(easter, 56))) return ['tempore.solemnity.most-holy-trinity']
   if (isSameDay(date, addDays(easter, 60))) return ['tempore.solemnity.corpus-christi']
   // Brazil's transferred Corpus Christi (Sunday after Trinity, Easter + 63)

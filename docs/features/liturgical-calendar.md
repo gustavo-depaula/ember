@@ -103,6 +103,14 @@ which ember-extra files as the `tempore.easter.week-8.sunday.a` variant). The
 Pentecost Vigil shares the day Mass's localized title upstream (only `fr`/`de`
 differ), so `titleOverrides` in `source.ts` gives its chip a distinct label.
 
+**Vigils on the eve.** A vigil Mass that may be said the evening *before* its feast
+also surfaces on that preceding day, as a second chip after the day's ferial Mass:
+**Dec 24** carries its Advent/ferial Mass + the Nativity Vigil, and the **Saturday
+before Pentecost** (Easter+48) carries its ferial Mass + the Pentecost Vigil. The
+ferial is the default; the vigil is the alternate. (`ofTemporeIds` appends the
+vigil id on the eve; `celebrationFormularyIds`'s memorial/ferial branch offers
+*every* formulary of the temporal day, not just the first.)
+
 **Mass view switcher.** The normal OF Mass body wraps a `View` select — **Full
 Mass** (the whole Order of Mass) or **Readings Only** (just the Lectionary slots,
 cycle-bound) — mirroring the EF view switch. Special rites (Easter Vigil, Good

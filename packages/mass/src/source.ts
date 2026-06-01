@@ -303,8 +303,13 @@ function celebrationFormularyIds(day: OfDay): string[] {
   )
   const ids: string[] = []
   for (const c of offered) {
-    const id = c.kind === 'temporal' ? (c.formularyIds?.[0] ?? c.id) : c.id
-    if (!ids.includes(id)) ids.push(id)
+    // A temporal day can carry a following feast's Vigil Mass to celebrate that
+    // evening (Dec 24 → Nativity Vigil; Pentecost eve → Pentecost Vigil), so
+    // offer every formulary, not just the ferial — the vigil is the extra chip.
+    const fromCelebration = c.kind === 'temporal' ? (c.formularyIds ?? [c.id]) : [c.id]
+    for (const id of fromCelebration) {
+      if (!ids.includes(id)) ids.push(id)
+    }
   }
   return ids
 }
