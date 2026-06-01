@@ -16,3 +16,14 @@ export async function loadSancti(id: string): Promise<RawProperFile | undefined>
     return undefined
   }
 }
+
+// Divinum Officium occurrence values (id→number) used to decide tempora vs
+// sancti by DO's own precedence. Fetched once and memoized for the session.
+let ranksCache: Promise<Record<string, number> | undefined> | undefined
+
+export function loadRanks(): Promise<Record<string, number> | undefined> {
+  if (!ranksCache) {
+    ranksCache = fetchHearth<Record<string, number>>('propers/ef-ranks.json').catch(() => undefined)
+  }
+  return ranksCache
+}

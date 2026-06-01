@@ -14,6 +14,7 @@
     "android": "pnpm --filter @ember/app run android",
     "parse-propers": "pnpm --filter @ember/app run parse-propers",
     "build:of-calendar": "node scripts/build-of-calendar.mjs",
+    "build:ef-ranks": "node scripts/build-ef-ranks.mjs",
     "build:corpus": "node scripts/build-of-calendar.mjs && python3 scripts/build-corpus.py _site/hearth/v2",
     "validate-flows": "tsx scripts/validate-flows.ts",
     "hearth:clean": "rm -rf _site/hearth",
