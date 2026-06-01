@@ -23,7 +23,7 @@ import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
-import { useToday } from '@/hooks/useToday'
+import { useStableToday, useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
@@ -112,6 +112,8 @@ function PracticeReady({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const now = useToday()
+  const realToday = useStableToday()
+  const isFutureDate = now.getTime() > realToday.getTime()
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
@@ -162,7 +164,7 @@ function PracticeReady({
                 ))}
               </YStack>
 
-              {manifest.completion !== 'manual' && (
+              {manifest.completion !== 'manual' && !isFutureDate && (
                 <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
                   <AnimatedPressable
                     onPress={completion.handleComplete}
