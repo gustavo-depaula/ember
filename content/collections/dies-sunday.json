@@ -1,0 +1,60 @@
+{
+	"id": "collection/dies-sunday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Sunday — The Trinity & the Resurrection",
+		"pt-BR": "Domingo — A Trindade e a Ressurreição"
+	},
+	"description": {
+		"en-US": "The Lord's Day. The eighth day. *Haec dies quam fecit Dominus* — this is the day the Lord has made.",
+		"pt-BR": "O Dia do Senhor. O oitavo dia. *Haec dies quam fecit Dominus* — este é o dia que o Senhor fez."
+	},
+	"icon": "trinity",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "sunday", "trinity", "resurrection"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "*Haec dies quam fecit Dominus.* Sunday is not the seventh day rebranded — it is the eighth, the day after the Sabbath, the day of the Resurrection, the day the world was made new. Every Sunday is a little Easter, and the great act of every Sunday is the Mass. What follows is not its substitute; only what the tradition has prayed on Sundays for sixteen centuries — glorification of the Trinity, thanksgiving for the empty tomb, and the great hymn that has closed Matins on every Sunday since the time of Ambrose.",
+			"pt-BR": "*Haec dies quam fecit Dominus.* O domingo não é o sétimo dia rebatizado — é o oitavo, o dia depois do sábado, o dia da Ressurreição, o dia em que o mundo foi feito novo. Todo domingo é uma pequena Páscoa, e o grande ato de todo domingo é a Missa. O que segue não é seu substituto; apenas o que a tradição rezou aos domingos durante dezesseis séculos — a glorificação da Trindade, a ação de graças pelo túmulo vazio, e o grande hino que encerra as Matinas de todo domingo desde o tempo de Ambrósio."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "An eight-minute Sunday guide — an opening from Psalm 118, a reading on the eighth day, the Te Deum, the doxology three times, and the collect of Trinity Sunday.",
+					"pt-BR": "Um guia dominical de oito minutos — abertura do Salmo 117, leitura sobre o oitavo dia, o Te Deum, a doxologia três vezes, e a coleta da Santíssima Trindade."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/sunday-devotion" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Sunday — the day's Mass, the Trisagion of the seraphim, and the great hymn of thanksgiving itself.",
+					"pt-BR": "Para um domingo mais longo — a Missa do dia, o Trisagion dos serafins, e o próprio grande hino de ação de graças."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{ "kind": "item", "ref": "practice/mass" },
+				{ "kind": "item", "ref": "practice/te-deum" },
+				{ "kind": "item", "ref": "practice/holy-god" },
+				{ "kind": "item", "ref": "practice/gospel-of-the-day" }
+			]
+		}
+	]
+}

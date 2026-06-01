@@ -593,6 +593,7 @@ export default {
       },
     },
     restOfWeek: 'The rest of the week',
+    begin: 'Begin',
   },
 
   kyrie: {
@@ -1132,7 +1133,10 @@ export default {
     bioStub: 'A fuller life of this saint is coming soon.',
     todaysDevotion: "Today's Devotion",
     devotionTheme: {
+      sun: 'The Trinity & the Resurrection',
       mon: 'The Holy Souls',
+      tue: 'The Holy Angels',
+      wed: 'St. Joseph',
       thu: 'The Blessed Sacrament',
       fri: 'The Sacred Heart',
       sat: 'Our Lady',

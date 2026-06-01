@@ -1,0 +1,64 @@
+{
+	"id": "collection/dies-wednesday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Wednesday — St. Joseph",
+		"pt-BR": "Quarta-feira — São José"
+	},
+	"description": {
+		"en-US": "*Ite ad Joseph.* The day to bring our difficulty to the silent guardian of the Holy Family.",
+		"pt-BR": "*Ide a José.* O dia de levar a nossa dificuldade ao guardião silencioso da Sagrada Família."
+	},
+	"icon": "prayer",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "wednesday", "joseph", "patron"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "*Ite ad Joseph* — go to Joseph. Pharaoh said it of the patriarch in Genesis; the Church has said it of his namesake for centuries. Joseph speaks not a single word in the Gospels — and that silence is the form of his obedience. He guards what is most precious without commentary. He is patron of fathers, of workers, of the universal Church, and above all of the dying, because (in tradition) he died between Mary and Jesus, the only soul ever to die so. Wednesday is his day. Bring him your difficulty.",
+			"pt-BR": "*Ite ad Ioseph* — ide a José. O Faraó o disse do patriarca no Gênesis; a Igreja o disse do seu homônimo durante séculos. José não diz uma única palavra nos Evangelhos — e esse silêncio é a forma da sua obediência. Guarda o que há de mais precioso sem comentário. É padroeiro dos pais, dos trabalhadores, da Igreja universal, e acima de tudo dos moribundos, porque (segundo a tradição) morreu entre Maria e Jesus, a única alma a morrer assim. A quarta-feira é seu dia. Leve-lhe a sua dificuldade."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "A ten-minute Wednesday guide — a reading on Joseph's silence, the Memorare to St. Joseph, the Litany of St. Joseph, and Leo XIII's *Ad te beate Ioseph*.",
+					"pt-BR": "Um guia de dez minutos para quarta — leitura sobre o silêncio de José, o Memorare a São José, a Ladainha de São José, e o *Ad te beate Ioseph* de Leão XIII."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/wednesday-joseph" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Wednesday — the litany and novena, the great prayer of Leo XIII, and the Memorare.",
+					"pt-BR": "Para uma quarta-feira mais longa — a ladainha e a novena, a grande oração de Leão XIII, e o Memorare."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{ "kind": "item", "ref": "practice/litany-st-joseph" },
+				{ "kind": "item", "ref": "practice/prayer-st-joseph" },
+				{ "kind": "item", "ref": "practice/memorare-st-joseph" },
+				{
+					"kind": "item",
+					"ref": "practice/st-joseph-novena",
+					"seeAlso": ["collection/novenas"]
+				}
+			]
+		}
+	]
+}

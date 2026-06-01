@@ -1,0 +1,36 @@
+{
+	"id": "friday-passion",
+	"icon": "cross",
+	"name": {
+		"en-US": "Friday — The Passion & the Sacred Heart",
+		"pt-BR": "Sexta-feira — A Paixão e o Sagrado Coração"
+	},
+	"categories": ["dies-domini", "passion", "sacred-heart", "reparation"],
+	"estimatedMinutes": 9,
+	"description": {
+		"en-US": "The Friday devotion — *Per crucem ad lucem*. The Stations refrain, a Passion meditation, the *En ego* prayer before a crucifix, the Litany of the Sacred Heart, and Pius XI's Act of Reparation.",
+		"pt-BR": "Devoção de sexta-feira — *Pela cruz à luz*. Refrão da Via-Sacra, meditação da Paixão, a oração *En ego* diante do crucifixo, a Ladainha do Sagrado Coração, e o Ato de Reparação de Pio XI."
+	},
+	"history": {
+		"en-US": "Every Friday the Church remembers a Friday. The Code of Canon Law still names Friday a day of penance throughout the year (CIC §1250–1251). The devotion to the Sacred Heart, revealed to St. Margaret Mary Alacoque at Paray-le-Monial (1673–1675), gave Friday a second face: reparation to the Heart pierced for love of us. The First Friday devotion — nine consecutive First Fridays with Communion — carries the Great Promise of final perseverance.",
+		"pt-BR": "Toda sexta-feira a Igreja recorda uma sexta-feira. O Código de Direito Canônico ainda nomeia a sexta-feira como dia de penitência ao longo de todo o ano (CIC §1250–1251). A devoção ao Sagrado Coração, revelada a Santa Margarida Maria Alacoque em Paray-le-Monial (1673–1675), deu à sexta-feira um segundo rosto: a reparação ao Coração trespassado por amor de nós. A devoção das Primeiras Sextas-feiras — nove primeiras sextas consecutivas com Comunhão — traz a Grande Promessa da perseverança final."
+	},
+	"howToPray": {
+		"en-US": "Pray the *En ego* kneeling before a crucifix if one is at hand — it is the traditional posture, and the indulgence is attached to that form. End the day with a small fast or mortification offered for the conversion of sinners.",
+		"pt-BR": "Reze o *En ego* ajoelhado diante de um crucifixo, se houver um à mão — é a postura tradicional, e a indulgência está ligada a essa forma. Termine o dia com um pequeno jejum ou mortificação oferecidos pela conversão dos pecadores."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "friday", "passion", "sacred-heart", "reparation", "crucifix"],
+	"defaults": {
+		"sortOrder": 75,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["friday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

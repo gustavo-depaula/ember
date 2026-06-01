@@ -1,0 +1,129 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "Souls in Purgatory — Cristóbal Rojas (1890)",
+				"pt-BR": "Almas do Purgatório — Cristóbal Rojas (1890)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "prayer",
+			"ref": "de-profundis"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The fire of Purgatory is not the fire of hell. It is the same fire as the burning bush — the fire of God's own love, encountered by a soul not yet wholly able to bear it. The dead we have loved are held there in the certainty of his mercy and the certainty of his purifying. They cannot pray for themselves. They wait for us. *There is nothing we can do for the dead we have loved that is greater than to keep their names before God — and to trust that, when our turn comes, others will keep ours.*",
+				"pt-BR": "O fogo do Purgatório não é o fogo do inferno. É o mesmo fogo da sarça ardente — o fogo do próprio amor de Deus, encontrado por uma alma ainda não inteiramente capaz de suportá-lo. Os defuntos que amamos são ali sustidos na certeza de sua misericórdia e na certeza de sua purificação. Não podem rezar por si mesmos. Esperam por nós. *Nada de mais podemos fazer pelos defuntos que amamos do que conservar seus nomes diante de Deus — e confiar que, quando chegar a nossa vez, outros conservarão os nossos.*"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Litany of remembrance. After each invocation, name the dead silently — then make the response.",
+				"pt-BR": "Ladainha de recordação. Após cada invocação, nomeie os defuntos em silêncio — depois faça a resposta."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "For my own family departed —",
+						"pt-BR": "Pelos meus familiares falecidos —",
+						"la": "Pro fidelibus familiæ meæ defunctis —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz.",
+						"la": "Réquiem ætérnam dona eis, Dómine, et lux perpétua lúceat eis."
+					}
+				},
+				{
+					"v": {
+						"en-US": "For the priests who baptized me, who married me, who heard my confessions —",
+						"pt-BR": "Pelos sacerdotes que me batizaram, que me casaram, que ouviram minhas confissões —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz."
+					}
+				},
+				{
+					"v": {
+						"en-US": "For the friends I have outlived —",
+						"pt-BR": "Pelos amigos que sobrevivi —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz."
+					}
+				},
+				{
+					"v": {
+						"en-US": "For the soul who has no one left to remember them —",
+						"pt-BR": "Pela alma que não tem mais ninguém para recordá-la —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz."
+					}
+				},
+				{
+					"v": {
+						"en-US": "For the soul who will die alone today —",
+						"pt-BR": "Pela alma que morrerá hoje sozinha —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz."
+					}
+				},
+				{
+					"v": {
+						"en-US": "For the soul most in need of God's mercy in this hour —",
+						"pt-BR": "Pela alma que mais precisa da misericórdia de Deus nesta hora —"
+					},
+					"r": {
+						"en-US": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them.",
+						"pt-BR": "Dai-lhes, Senhor, o eterno descanso, entre os esplendores da Vossa luz."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "st-gertrude-souls"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "eternal-rest"
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

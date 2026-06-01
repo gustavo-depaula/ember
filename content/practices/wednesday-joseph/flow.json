@@ -1,0 +1,86 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "St. Joseph with the Christ Child — Bartolomé Esteban Murillo (c. 1670)",
+				"pt-BR": "São José com o Menino Jesus — Bartolomé Esteban Murillo (c. 1670)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Go to Joseph,",
+						"pt-BR": "Ide a José,",
+						"la": "Ite ad Ioseph,"
+					},
+					"r": {
+						"en-US": "and do whatever he shall say to you.",
+						"pt-BR": "e fazei tudo o que ele vos disser.",
+						"la": "et quidquid ipse vobis díxerit, fácite."
+					}
+				}
+			]
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Joseph speaks not a single word in the Gospels. That silence is the form of his obedience. He hears an angel in a dream and rises and takes the Child; he hears a second and rises and goes down into Egypt; he hears a third and rises and comes back. He does not argue. He does not explain. He guards what is most precious in the world without commentary. The tradition has given him to fathers and to workers and to the dying — but above all, to those entrusted with a hidden task. *Ite ad Joseph*. Bring him today's difficulty.",
+				"pt-BR": "José não diz uma única palavra nos Evangelhos. Esse silêncio é a forma da sua obediência. Ouve um anjo em sonho e se levanta e toma o Menino; ouve um segundo e se levanta e desce ao Egito; ouve um terceiro e se levanta e volta. Não discute. Não explica. Guarda o que há de mais precioso no mundo sem comentário. A tradição o deu aos pais e aos trabalhadores e aos moribundos — mas acima de tudo aos que recebem uma tarefa escondida. *Ite ad Ioseph*. Leve-lhe a dificuldade de hoje."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "memorare-st-joseph"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "litany-st-joseph"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The great Leonine prayer to St. Joseph in time of trial, from the encyclical *Quamquam Pluries* (1889).",
+				"pt-BR": "A grande oração leonina a São José em tempo de provação, da encíclica *Quamquam Pluries* (1889)."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "prayer-st-joseph"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Saint Joseph, patron of a holy death, pray for us — that we may live as you lived, and die between Jesus and Mary as you did. Amen.",
+				"pt-BR": "São José, padroeiro da boa morte, rogai por nós — para que vivamos como vivestes, e morramos entre Jesus e Maria como morrestes. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

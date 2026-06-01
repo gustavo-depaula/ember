@@ -3,9 +3,10 @@ import { useRouter } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
-import { bareId, ensureManifestBody, getEntriesByKind, getEntry } from '@/content/contentIndex'
+import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { collectionHref, warmCollection } from '@/features/collections'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { saintOfDayNames } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
@@ -80,16 +81,6 @@ export function ExploreFeed() {
     pathname: '/browse/book/[bookId]',
     params: { bookId: bareId(id) },
   })
-  const collectionHref = (id: string): Href => ({
-    pathname: '/browse/[collectionId]',
-    params: { collectionId: bareId(id) },
-  })
-  // Warm the manifest while the navigation transition runs, so the collection
-  // screen has its sections ready instead of waiting on the background warmer.
-  const warmCollection = (id: string) => {
-    const entry = getEntry(id)
-    if (entry) void ensureManifestBody(entry.hash).catch(() => {})
-  }
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {
     warmCollection(id)
@@ -147,8 +138,8 @@ export function ExploreFeed() {
   }
 
   const wd = weekdayDevotion(today)
-  const wdColl = wd ? getEntry(wd.collectionId) : undefined
-  if (wd && wdColl) {
+  const wdColl = getEntry(wd.collectionId)
+  if (wdColl) {
     blocks.push({
       key: 'weekday',
       label: t('explore.todaysDevotion'),

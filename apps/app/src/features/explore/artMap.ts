@@ -46,6 +46,14 @@ const artFiles: Record<string, string> = {
   'plan-of-life-template/legion-of-mary': 'marian.jpg',
   'plan-of-life-template/sulpician': 'tpl-sulpician.png',
   'plan-of-life-template/byzantine': 'tpl-byzantine.jpg',
+
+  'collection/dies-sunday': 'dies-sunday.jpg',
+  'collection/dies-monday': 'dies-monday.jpg',
+  'collection/dies-tuesday': 'dies-tuesday.jpg',
+  'collection/dies-wednesday': 'dies-wednesday.jpg',
+  'collection/dies-thursday': 'dies-thursday.jpg',
+  'collection/dies-friday': 'dies-friday.jpg',
+  'collection/dies-saturday': 'dies-saturday.jpg',
 }
 
 // Bump when a painting is replaced at an existing filename — expo-image caches

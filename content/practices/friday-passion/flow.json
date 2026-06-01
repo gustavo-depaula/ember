@@ -1,0 +1,86 @@
+{
+	"sections": [
+		{
+			"type": "image",
+			"src": "images/hero.jpg",
+			"caption": {
+				"en-US": "Christ Crucified — Diego Velázquez (1632)",
+				"pt-BR": "Cristo crucificado — Diego Velázquez (1632)"
+			},
+			"attribution": {
+				"en-US": "Public Domain · Wikimedia Commons",
+				"pt-BR": "Domínio Público · Wikimedia Commons"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "We adore Thee, O Christ, and we bless Thee;",
+						"pt-BR": "Nós Vos adoramos, ó Cristo, e Vos bendizemos;",
+						"la": "Adorámus te, Christe, et benedícimus tibi;"
+					},
+					"r": {
+						"en-US": "because by Thy holy Cross Thou hast redeemed the world.",
+						"pt-BR": "porque pela Vossa santa Cruz remistes o mundo.",
+						"la": "quia per sanctam crucem tuam redemísti mundum."
+					}
+				}
+			]
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The Lord did not redeem us in private. The wood of the Cross was set up in public, on a hill outside a city gate, between two condemned men, in the middle of the afternoon. *Surely he hath borne our griefs, and carried our sorrows… he was wounded for our iniquities, he was bruised for our sins* (Is 53). Every Friday the Church returns to that hour — the center of the world's history — and stands beneath it. Today, with her, recall the seven last words; recall the lance and the open side; and let the Heart that was opened for you teach you to be wounded for love.",
+				"pt-BR": "O Senhor não nos redimiu em segredo. O madeiro da Cruz foi erguido em público, num monte fora da cidade, entre dois condenados, no meio da tarde. *Verdadeiramente Ele tomou sobre si as nossas enfermidades e carregou as nossas dores… foi ferido pelos nossos pecados, esmagado pelas nossas iniquidades* (Is 53). Toda sexta-feira a Igreja volta àquela hora — o centro da história do mundo — e permanece sob ela. Hoje, com ela, recorde as sete últimas palavras; recorde a lança e o lado aberto; e deixe que o Coração aberto por si lhe ensine a deixar-se ferir por amor."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "*En ego, O bone et dulcissime Iesu* — the great traditional prayer prayed kneeling before a crucifix, especially after Communion. Indulgenced.",
+				"pt-BR": "*En ego, O bone et dulcissime Iesu* — a grande oração tradicional rezada ajoelhado diante de um crucifixo, especialmente após a Comunhão. Indulgenciada."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "prayer-before-crucifix"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "litany-sacred-heart"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"ref": "act-of-reparation"
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Choose now a small mortification for the rest of this day — a fast from food, from speech, from a comfort — and offer it for the conversion of sinners. This is the great intention of the Sacred Heart.",
+				"pt-BR": "Escolha agora uma pequena mortificação para o restante deste dia — um jejum de alimento, de palavra, de um conforto — e ofereça-a pela conversão dos pecadores. Esta é a grande intenção do Sagrado Coração."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sign-of-cross"
+		}
+	]
+}

@@ -50,6 +50,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-gertrude-souls"
 				}
 			]
 		},
@@ -170,18 +174,6 @@
 					"notes": {
 						"en-US": "Offering of all merits and satisfactions to the souls in Purgatory (St. Gertrude / Bl. Mary Magdalen of the Most Blessed Trinity).",
 						"pt-BR": "Oferecimento de todos os méritos e satisfações às almas do Purgatório (Santa Gertrudes / Bem-aventurada Maria Madalena da Santíssima Trindade)."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "St. Gertrude prayer for the Holy Souls",
-						"pt-BR": "Oração de Santa Gertrudes pelas Almas Benditas"
-					},
-					"notes": {
-						"en-US": "*Eternal Father, I offer Thee the most precious blood of Thy divine Son…* — the indulgenced form Christ gave St. Gertrude.",
-						"pt-BR": "*Eterno Pai, eu Vos ofereço o Preciosíssimo Sangue do Vosso divino Filho…* — forma indulgenciada que Cristo lhe deu."
 					},
 					"proposedKind": "prayer"
 				},

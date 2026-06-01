@@ -1,0 +1,73 @@
+{
+	"id": "collection/dies-saturday",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Saturday — Our Lady",
+		"pt-BR": "Sábado — Nossa Senhora"
+	},
+	"description": {
+		"en-US": "*Maria die suo.* The day of Mary's faith, when only she kept it. The day to entrust the coming week into her hands.",
+		"pt-BR": "*Maria, no dia seu.* O dia da fé de Maria, quando só ela a manteve. O dia de entregar nas suas mãos a semana que vem."
+	},
+	"icon": "mary",
+	"languages": ["en-US", "pt-BR"],
+	"tags": ["dies-domini", "saturday", "marian", "theotokos"],
+	"defaults": { "autoSeed": false },
+	"prologue": {
+		"body": {
+			"en-US": "Between Good Friday and Easter, the faith of the whole Church was held by one heart. On that Holy Saturday she stood — knowing the promise, holding the apostles in her silence. The tradition gave her every Saturday for this. In the *Missale Romanum* of St. Pius V there is a votive Mass of Our Lady for every Saturday on which no higher feast falls; the *Officium parvum BMV* has been prayed on Saturdays for a thousand years. Saturday is the day to entrust the coming Sunday — and the week beyond it — into her hands.",
+			"pt-BR": "Entre a Sexta-feira Santa e a Páscoa, a fé de toda a Igreja foi sustida por um único coração. Naquele Sábado Santo ela permaneceu — conhecendo a promessa, mantendo os apóstolos no seu silêncio. A tradição lhe deu cada sábado por isto. No *Missal Romano* de São Pio V há uma Missa votiva de Nossa Senhora para todo sábado em que não caia festa maior; o *Officium parvum BMV* é rezado aos sábados há mil anos. O sábado é o dia de entregar o domingo que vem — e a semana que vem depois dele — nas mãos dela."
+		}
+	},
+	"sections": [
+		{
+			"id": "today",
+			"title": {
+				"en-US": "Today",
+				"pt-BR": "Hoje"
+			},
+			"description": {
+				"body": {
+					"en-US": "A nine-minute Saturday guide — the most ancient Marian prayer, a reading on the Theotokos, the Three Hail Marys, the Marian antiphon for the season, the Memorare, and a closing entrustment.",
+					"pt-BR": "Um guia de nove minutos para sábado — a oração mariana mais antiga, leitura sobre a Theotókos, as Três Ave-Marias, a antífona mariana da estação, o Memorare, e uma entrega final."
+				}
+			},
+			"blocks": [
+				{ "kind": "item", "ref": "practice/saturday-mary" }
+			]
+		},
+		{
+			"id": "go-deeper",
+			"title": {
+				"en-US": "Go Deeper",
+				"pt-BR": "Aprofundar"
+			},
+			"description": {
+				"body": {
+					"en-US": "For a longer Saturday — the Rosary (Joyful or Glorious mysteries traditionally), the Litany of Loreto, the Little Office, and Montfort's total consecration.",
+					"pt-BR": "Para um sábado mais longo — o Rosário (Mistérios Gozosos ou Gloriosos tradicionalmente), a Ladainha de Loreto, o Pequeno Ofício, e a consagração total de Montfort."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/rosary",
+					"seeAlso": ["collection/marian"]
+				},
+				{ "kind": "item", "ref": "practice/litany-loreto" },
+				{ "kind": "item", "ref": "practice/little-office-bvm" },
+				{
+					"kind": "item",
+					"ref": "practice/total-consecration",
+					"seeAlso": ["collection/montfort-spirituality"]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-sorrows",
+					"seeAlso": ["collection/marian"]
+				}
+			]
+		}
+	]
+}

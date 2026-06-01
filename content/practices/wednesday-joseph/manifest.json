@@ -1,0 +1,36 @@
+{
+	"id": "wednesday-joseph",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Wednesday — St. Joseph",
+		"pt-BR": "Quarta-feira — São José"
+	},
+	"categories": ["dies-domini", "saints", "family"],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "The Wednesday devotion — *Ite ad Joseph*. Brief reading on the silence of Joseph, the Memorare to St. Joseph, the Litany of St. Joseph, and Leo XIII's prayer *Ad te beate Ioseph*.",
+		"pt-BR": "Devoção de quarta-feira — *Ide a José*. Breve leitura sobre o silêncio de José, o Memorare a São José, a Ladainha de São José, e a oração de Leão XIII *Ad te beate Ioseph*."
+	},
+	"history": {
+		"en-US": "Devotion to St. Joseph grew through the Middle Ages, was championed by St. Teresa of Ávila (who attributed her healing to his intercession), and reached full liturgical voice in modern times. Pius IX declared him Patron of the Universal Church in 1870. Leo XIII's 1889 encyclical *Quamquam Pluries* fixed the great Leonine prayer to Joseph. Pope Francis added his name to every Eucharistic Prayer in 2013 and proclaimed the Year of St. Joseph in 2020. Wednesday's dedication is traditional in the Church of Rome.",
+		"pt-BR": "A devoção a São José cresceu durante a Idade Média, foi defendida por Santa Teresa de Ávila (que atribuiu sua cura à intercessão dele) e ganhou plena voz litúrgica nos tempos modernos. Pio IX o declarou Padroeiro da Igreja Universal em 1870. A encíclica *Quamquam Pluries* de Leão XIII, de 1889, fixou a grande oração leonina a José. O Papa Francisco acrescentou seu nome a todas as Orações Eucarísticas em 2013 e proclamou o Ano de São José em 2020. A dedicação da quarta-feira é tradicional na Igreja de Roma."
+	},
+	"howToPray": {
+		"en-US": "Bring Joseph your difficulty — by name. He is patron of fathers, of workers, of the dying, and of the universal Church.",
+		"pt-BR": "Traga a São José a sua dificuldade — pelo nome. Ele é padroeiro dos pais, dos trabalhadores, dos moribundos e da Igreja universal."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "wednesday", "joseph", "patron", "family"],
+	"defaults": {
+		"sortOrder": 73,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["wednesday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

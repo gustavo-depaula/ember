@@ -1,0 +1,27 @@
+{
+	"id": "ave-regina-caelorum",
+	"name": {
+		"en-US": "Hail, Queen of Heaven",
+		"pt-BR": "Ave, Rainha dos Céus",
+		"la": "Ave Regína Cælórum"
+	},
+	"flow": {
+		"sections": [
+			{
+				"type": "rubric",
+				"text": {
+					"en-US": "The Marian antiphon sung at Compline from the day after the Presentation (February 3) through Holy Wednesday.",
+					"pt-BR": "Antífona mariana cantada nas Completas do dia seguinte à Apresentação (3 de fevereiro) até a Quarta-feira Santa."
+				}
+			},
+			{
+				"type": "prayer",
+				"inline": {
+					"en-US": "Hail, O Queen of heaven enthroned!\nHail, by Angels Mistress owned!\nRoot of Jesse, Gate of morn,\nwhence the world's true Light was born:\nGlorious Virgin, joy to thee,\nloveliest whom in heaven they see;\nfairest thou where all are fair,\nplead with Christ our sins to spare.",
+					"pt-BR": "Ave, Rainha dos Céus,\nAve, Senhora dos Anjos.\nSalve, raiz; salve, porta\nde onde nasceu a Luz do mundo.\nAlegrai-vos, Virgem gloriosa,\nmais bela do que todas as outras.\nSalve, ó toda formosa,\ne rogai a Cristo por nós.",
+					"la": "Ave, Regína cælórum,\nAve, Dómina Angelórum:\nSalve, radix, salve, porta\nex qua mundo lux est orta:\nGaude, Virgo gloriósa,\nsuper omnes speciósa,\nVale, o valde decóra,\net pro nobis Christum exóra."
+				}
+			}
+		]
+	}
+}

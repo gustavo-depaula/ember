@@ -34,19 +34,22 @@ const traditionRow = [
   'collection/litanies',
 ]
 
-// The traditional weekly devotional cycle (dies domini). Only the days with a
-// matching collection are surfaced; the rest lean on the seasonal pick.
+// The traditional weekly devotional cycle (dies domini) — one curated
+// collection per weekday, each with its own short prayer guide + go-deeper.
 export type WeekdayDevotion = { collectionId: string; themeKey: string }
 
 const weekdayDevotions: Record<number, WeekdayDevotion> = {
-  1: { collectionId: 'collection/for-the-dead', themeKey: 'mon' }, // Holy Souls
-  4: { collectionId: 'collection/eucharistic', themeKey: 'thu' }, // Blessed Sacrament
-  5: { collectionId: 'collection/sacred-heart', themeKey: 'fri' }, // Sacred Heart / Passion
-  6: { collectionId: 'collection/marian', themeKey: 'sat' }, // Our Lady
+  0: { collectionId: 'collection/dies-sunday', themeKey: 'sun' },
+  1: { collectionId: 'collection/dies-monday', themeKey: 'mon' },
+  2: { collectionId: 'collection/dies-tuesday', themeKey: 'tue' },
+  3: { collectionId: 'collection/dies-wednesday', themeKey: 'wed' },
+  4: { collectionId: 'collection/dies-thursday', themeKey: 'thu' },
+  5: { collectionId: 'collection/dies-friday', themeKey: 'fri' },
+  6: { collectionId: 'collection/dies-saturday', themeKey: 'sat' },
 }
 
-/** The day's traditional devotion, when one is mapped to an available collection. */
-export function weekdayDevotion(date: Date): WeekdayDevotion | undefined {
+/** The day's traditional devotion. Defined for every day of the week. */
+export function weekdayDevotion(date: Date): WeekdayDevotion {
   return weekdayDevotions[date.getDay()]
 }
 

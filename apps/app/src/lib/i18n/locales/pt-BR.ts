@@ -600,6 +600,7 @@ export default {
       },
     },
     restOfWeek: 'O restante da semana',
+    begin: 'Começar',
   },
 
   kyrie: {
@@ -1139,7 +1140,10 @@ export default {
     bioStub: 'Uma vida mais completa deste santo está a caminho.',
     todaysDevotion: 'Devoção de Hoje',
     devotionTheme: {
+      sun: 'A Trindade e a Ressurreição',
       mon: 'As Almas do Purgatório',
+      tue: 'Os Santos Anjos',
+      wed: 'São José',
       thu: 'O Santíssimo Sacramento',
       fri: 'O Sagrado Coração',
       sat: 'Nossa Senhora',

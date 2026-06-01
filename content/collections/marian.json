@@ -57,6 +57,10 @@
 				},
 				{
 					"kind": "item",
+					"ref": "practice/three-hail-marys"
+				},
+				{
+					"kind": "item",
 					"ref": "practice/fatima-prayer"
 				}
 			]
@@ -118,11 +122,19 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "Four antiphons close the day across the year — *Alma Redemptoris Mater* (Advent–Christmas, **TODO source**), *Ave Regina Caelorum* (Lent, **TODO source**), *Regina Caeli* (Easter), and *Salve Regina* / *Hail Holy Queen* (the rest of the year).",
-					"pt-BR": "Quatro antífonas encerram o dia ao longo do ano — *Alma Redemptoris Mater* (Advento–Natal, **a incluir**), *Ave Regina Caelorum* (Quaresma, **a incluir**), *Regina Caeli* (Páscoa) e *Salve Regina* (o restante do ano)."
+					"en-US": "Four antiphons close the day across the year — *Alma Redemptoris Mater* (Advent–Christmas), *Ave Regina Caelorum* (Lent), *Regina Caeli* (Easter), and *Salve Regina* / *Hail Holy Queen* (the rest of the year).",
+					"pt-BR": "Quatro antífonas encerram o dia ao longo do ano — *Alma Redemptoris Mater* (Advento–Natal), *Ave Regina Caelorum* (Quaresma), *Regina Caeli* (Páscoa) e *Salve Regina* (o restante do ano)."
 				}
 			},
 			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/alma-redemptoris-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-regina-caelorum"
+				},
 				{
 					"kind": "item",
 					"ref": "practice/regina-caeli"
@@ -326,30 +338,6 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Alma Redemptoris Mater",
-						"pt-BR": "Alma Redemptoris Mater"
-					},
-					"notes": {
-						"en-US": "Marian antiphon for Advent–Christmas.",
-						"pt-BR": "Antífona mariana do Advento–Natal."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Ave Regina Caelorum",
-						"pt-BR": "Ave Regina Caelorum"
-					},
-					"notes": {
-						"en-US": "Marian antiphon for Lent.",
-						"pt-BR": "Antífona mariana da Quaresma."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Akathist Hymn to the Theotokos",
 						"pt-BR": "Hino Acatisto à Theotokos"
 					},
@@ -364,18 +352,6 @@
 					"title": {
 						"en-US": "Brown Scapular: enrollment, Promise, Sabbatine Privilege",
 						"pt-BR": "Escapulário do Carmo: imposição, Promessa, Privilégio Sabatino"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Three Hail Marys daily devotion",
-						"pt-BR": "Devoção das Três Ave-Marias diárias"
-					},
-					"notes": {
-						"en-US": "St. Mechtilde, St. Anthony Mary Claret.",
-						"pt-BR": "Santa Mectildes, Santo Antônio Maria Claret."
 					},
 					"proposedKind": "practice"
 				},

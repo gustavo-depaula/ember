@@ -1,0 +1,36 @@
+{
+	"id": "thursday-eucharist",
+	"icon": "host",
+	"name": {
+		"en-US": "Thursday — The Holy Eucharist",
+		"pt-BR": "Quinta-feira — A Santíssima Eucaristia"
+	},
+	"categories": ["dies-domini", "eucharist", "adoration"],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "The Thursday devotion — *In hoc Sacramento*. The O Salutaris, a brief reading on the Real Presence, the Adoro Te Devote of St. Thomas, a Spiritual Communion, the Divine Praises, a prayer for priests, and the Anima Christi.",
+		"pt-BR": "Devoção de quinta-feira — *Neste Sacramento*. O Salutaris, breve leitura sobre a Presença Real, o Adoro Te Devote de São Tomás, a Comunhão Espiritual, os Louvores Divinos, oração pelos sacerdotes, e a Anima Christi."
+	},
+	"history": {
+		"en-US": "Thursday is the day of the Last Supper and the institution of the Eucharist and the priesthood. *Pridie quam pateretur* — on the night before he suffered. The Holy Hour of Eucharistic adoration takes its character from Gethsemane: *Could you not watch one hour with me?* Devotion to Thursday as the Eucharistic day grew with the medieval feast of Corpus Christi (instituted 1264, with the office composed by St. Thomas Aquinas — *Adoro Te*, *Pange Lingua*, *Lauda Sion*, *Verbum Supernum*).",
+		"pt-BR": "A quinta-feira é o dia da Última Ceia e da instituição da Eucaristia e do sacerdócio. *Pridie quam pateretur* — na noite antes de padecer. A Hora Santa de adoração eucarística toma seu caráter do Getsêmani: *Não pudestes vigiar uma hora comigo?* A devoção da quinta-feira como dia eucarístico cresceu com a festa medieval de Corpus Christi (instituída em 1264, com o ofício composto por São Tomás de Aquino — *Adoro Te*, *Pange Lingua*, *Lauda Sion*, *Verbum Supernum*)."
+	},
+	"howToPray": {
+		"en-US": "If you can, pray this before the Blessed Sacrament — in a church, before a chapel, or at home. Otherwise let the Spiritual Communion be the heart of the hour.",
+		"pt-BR": "Se possível, reze diante do Santíssimo Sacramento — numa igreja, numa capela, ou em casa. Senão, que a Comunhão Espiritual seja o coração da hora."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "thursday", "eucharist", "adoration", "priests"],
+	"defaults": {
+		"sortOrder": 74,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["thursday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"id": "sunday-devotion",
+	"icon": "trinity",
+	"name": {
+		"en-US": "Sunday — The Trinity & the Resurrection",
+		"pt-BR": "Domingo — A Trindade e a Ressurreição"
+	},
+	"categories": ["dies-domini", "trinity", "resurrection"],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The Lord's Day devotion — *Haec dies quam fecit Dominus*. A short Sunday guide: an opening acclamation from Psalm 118, a brief reading on the eighth day, the Te Deum, the Trinitarian doxology, and the collect of Trinity Sunday.",
+		"pt-BR": "Devoção do Dia do Senhor — *Haec dies quam fecit Dominus*. Um breve guia dominical: aclamação de abertura do Salmo 117, leitura sobre o oitavo dia, o Te Deum, a doxologia trinitária e a coleta da Santíssima Trindade."
+	},
+	"history": {
+		"en-US": "From the apostolic age the Christians broke bread on the first day of the week — the day of the Resurrection. St. Justin Martyr (c. 155) describes the Sunday assembly in his *First Apology* §67. The Epistle of Barnabas (early 2nd c.) calls it the eighth day — the day after the Sabbath, the day the world was made new. The Te Deum has closed Matins on Sundays and feasts since the time of Ambrose.",
+		"pt-BR": "Desde a idade apostólica os cristãos partiram o pão no primeiro dia da semana — o dia da Ressurreição. São Justino Mártir (c. 155) descreve a assembleia dominical em sua *Primeira Apologia* §67. A Epístola de Barnabé (início do séc. II) o chama de oitavo dia — o dia depois do sábado, o dia em que o mundo foi feito novo. O Te Deum encerra as Matinas dos domingos e festas desde o tempo de Ambrósio."
+	},
+	"howToPray": {
+		"en-US": "Sunday's chief act is the Mass — this short devotion is not its substitute, but its companion. Pray it before or after Mass, or as the day begins.",
+		"pt-BR": "O ato principal do domingo é a Missa — esta breve devoção não é seu substituto, mas sua companhia. Reze-a antes ou depois da Missa, ou ao começar o dia."
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": ["dies-domini", "sunday", "trinity", "resurrection", "te-deum"],
+	"defaults": {
+		"sortOrder": 70,
+		"slots": [
+			{
+				"schedule": { "type": "weekly", "weekdays": ["sunday"] },
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
