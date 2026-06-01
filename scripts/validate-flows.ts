@@ -5,6 +5,7 @@
  * Catches the silent-typo class that bit Divinum Officium for years:
  *  - unknown section `type`
  *  - `call.ref` pointing at a fragment that doesn't exist in scope
+ *  - `prayer.ref` pointing at a practice id that doesn't exist
  *  - `from:` referencing a key that no resolve/load step provides
  *  - `data:` references in manifest.json without a corresponding file
  *  - missing required fields per section type
@@ -17,10 +18,40 @@ import { dirname, join, relative, resolve } from 'node:path'
 import { validateGallery as validateGalleryRules } from './validate-flows-rules'
 
 const REPO_ROOT = resolve(__dirname, '..')
-const CONTENT_ROOTS = [
-  join(REPO_ROOT, 'content', 'practices'),
-  join(REPO_ROOT, 'content', 'chapters'),
-]
+const PRACTICES_ROOT = join(REPO_ROOT, 'content', 'practices')
+const CONTENT_ROOTS = [PRACTICES_ROOT, join(REPO_ROOT, 'content', 'chapters')]
+
+// Mirrors `canticleRefs` in apps/app/src/content/resolver.ts: the runtime
+// resolves these via `resolveCanticle`, so `{type:"prayer", ref:"magnificat"}`
+// silently returns undefined and the section disappears at render time.
+const CANTICLE_REFS = new Set(['magnificat', 'benedictus', 'nunc-dimittis'])
+
+function collectPracticeIds(): Set<string> {
+  const ids = new Set<string>()
+  if (!existsSync(PRACTICES_ROOT)) return ids
+  for (const name of readdirSync(PRACTICES_ROOT)) {
+    const manifestPath = join(PRACTICES_ROOT, name, 'manifest.json')
+    if (!existsSync(manifestPath)) continue
+    try {
+      const m = JSON.parse(readFileSync(manifestPath, 'utf-8')) as { id?: unknown }
+      if (typeof m.id === 'string') ids.add(m.id)
+    } catch {
+      // Malformed manifests are reported by validateManifest below.
+    }
+  }
+  return ids
+}
+
+// Matches the `canonicalize(ref, 'practice')` branch in
+// apps/app/src/content/contentIndex.ts: strip any leading `kind/` prefix, then
+// check the bare id against the practice catalog.
+function resolvePrayerRef(ref: string, practiceIds: Set<string>): 'ok' | 'unknown' | 'canticle' {
+  const bare = ref.replace(/^[^/]+\//, '')
+  if (CANTICLE_REFS.has(bare)) return 'canticle'
+  return practiceIds.has(bare) ? 'ok' : 'unknown'
+}
+
+const practiceIds = collectPracticeIds()
 
 type Issue = {
   file: string
@@ -105,6 +136,23 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
         message: `include missing string \`ref\` field`,
       })
     }
+    if (obj.type === 'prayer' && typeof obj.ref === 'string' && !obj.ref.includes('{{')) {
+      const ref = obj.ref
+      const status = resolvePrayerRef(ref, ctx.practiceIds)
+      if (status === 'unknown') {
+        issues.push({
+          file: ctx.file,
+          path,
+          message: `prayer.ref="${ref}" — no practice with that id exists in content/practices/`,
+        })
+      } else if (status === 'canticle') {
+        issues.push({
+          file: ctx.file,
+          path,
+          message: `prayer.ref="${ref}" is a canticle — use type="canticle" instead (the runtime returns undefined for canticle refs typed as "prayer")`,
+        })
+      }
+    }
     if (obj.type === 'choice-rich-text') {
       if (typeof obj.slot !== 'string') {
         issues.push({
@@ -157,6 +205,7 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
 type WalkCtx = {
   file: string
   fragmentRefs: Set<string>
+  practiceIds: Set<string>
 }
 
 function validateFlow(file: string): void {
@@ -214,7 +263,7 @@ function validateFlow(file: string): void {
     }
   }
 
-  const ctx: WalkCtx = { file, fragmentRefs }
+  const ctx: WalkCtx = { file, fragmentRefs, practiceIds }
 
   if (Array.isArray(parsed.sections)) visit(parsed.sections, '$.sections', ctx)
   if (parsed.fragments) visit(parsed.fragments, '$.fragments', ctx)
