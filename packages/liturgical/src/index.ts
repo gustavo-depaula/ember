@@ -42,6 +42,7 @@ export {
   type OfDay,
   resolveOfDay,
 } from './of-day'
+export { ofTemporeIds } from './of-tempore'
 export { applySundaySuppression, compareRank, sortByPrecedence } from './precedence'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'

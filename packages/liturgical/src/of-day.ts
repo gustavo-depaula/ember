@@ -1,8 +1,8 @@
-import { addDays, getDate, getMonth, isSameDay, subDays } from 'date-fns'
+import { getDate, getMonth, isSameDay } from 'date-fns'
 import type { LiturgicalDate, LiturgicalEntry, RankOF } from './calendar-types'
 import { getOfLiturgicalPosition, type OfLiturgicalPosition } from './of-position'
+import { ofTemporeIds } from './of-tempore'
 import { resolveDate } from './resolve-date'
-import { computeEaster, getFirstSundayOfAdvent } from './season'
 
 /**
  * Unified Ordinary Form day resolver.
@@ -30,6 +30,12 @@ export type OfCelebration = {
   precedence: number
   rank: RankOF | undefined
   name: Record<string, string> | undefined
+  /**
+   * Mass-formulary ids for a temporal celebration. Usually `[id]`, but multi-Mass
+   * days yield several (Christmas: vigil/night/dawn/day; Holy Thursday: chrism +
+   * Lord's Supper). Undefined for sanctoral celebrations.
+   */
+  formularyIds?: string[]
   /** Present for sanctoral celebrations. */
   entry?: LiturgicalEntry
 }
@@ -41,16 +47,6 @@ export type OfDay = {
   /** Lower-precedence celebrations on the day (suppressed or commemorated). */
   others: OfCelebration[]
 }
-
-const weekdayNames = [
-  'sunday',
-  'monday',
-  'tuesday',
-  'wednesday',
-  'thursday',
-  'friday',
-  'saturday',
-] as const
 
 // ── GIRM Table of Liturgical Days ──
 // Lower number = higher precedence. Both temporal and sanctoral celebrations
@@ -93,25 +89,7 @@ function sanctoralPrecedence(rank: RankOF | undefined, id: string): number {
   }
 }
 
-// ── Temporal celebration (id + GIRM precedence) from the liturgical position ──
-
-/**
- * Map a date to its principal tempore formulary id (canonical ember-extra id).
- * Mirrors the temporal cycle; movable solemnities override the season-week-weekday id.
- */
-function temporalId(date: Date, position: OfLiturgicalPosition): string {
-  const easter = computeEaster(date.getFullYear())
-  if (isSameDay(date, addDays(easter, 56))) return 'tempore.solemnity.most-holy-trinity'
-  if (isSameDay(date, addDays(easter, 60))) return 'tempore.solemnity.corpus-christi'
-  if (isSameDay(date, addDays(easter, 68))) return 'tempore.solemnity.sacred-heart-of-jesus'
-  const advent1 = getFirstSundayOfAdvent(date.getFullYear())
-  if (isSameDay(date, subDays(advent1, 7))) return 'tempore.solemnity.christ-the-king'
-
-  const wd = weekdayNames[date.getDay()]
-  const season = position.season === 'ordinary' ? 'ordinary-time' : position.season
-  if (position.week > 0) return `tempore.${season}.week-${position.week}.${wd}`
-  return `tempore.${season}.${wd}`
-}
+// ── Temporal celebration GIRM precedence from the liturgical position ──
 
 /**
  * GIRM precedence of the temporal day. The temporal cycle ranges from the
@@ -192,12 +170,20 @@ export function resolveOfDay(date: Date, entries: LiturgicalEntry[]): OfDay {
   const year = date.getFullYear()
   const position = getOfLiturgicalPosition(date)
 
-  const temporal: OfCelebration = {
-    id: temporalId(date, position),
-    kind: 'temporal',
-    precedence: temporalPrecedence(date, position),
-    rank: undefined,
-    name: undefined,
+  // ofTemporeIds returns [] on days where the sanctoral takes over entirely
+  // (Dec 26-28: St Stephen / St John / Holy Innocents) — then there is no
+  // temporal candidate and a sanctoral is always the principal.
+  const formularyIds = ofTemporeIds(date)
+  const candidates: OfCelebration[] = []
+  if (formularyIds.length > 0) {
+    candidates.push({
+      id: formularyIds[0],
+      kind: 'temporal',
+      precedence: temporalPrecedence(date, position),
+      rank: undefined,
+      name: undefined,
+      formularyIds,
+    })
   }
 
   const sanctorals: OfCelebration[] = []
@@ -218,7 +204,7 @@ export function resolveOfDay(date: Date, entries: LiturgicalEntry[]): OfDay {
     })
   }
 
-  const all = [temporal, ...sanctorals].sort((a, b) => a.precedence - b.precedence)
+  const all = [...candidates, ...sanctorals].sort((a, b) => a.precedence - b.precedence)
   const [principal, ...others] = all
   return { date, principal, others }
 }
