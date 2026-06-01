@@ -5,7 +5,12 @@
 // Sources output Primitives (or Primitive[]). Authors compose Primitives in
 // flow JSON, with `Include` as the one node that defers to a ContentSource.
 
-import type { BilingualRichText, BilingualText, PickerStyle } from '@ember/content-engine'
+import type {
+  BilingualRichText,
+  BilingualText,
+  PickerStyle,
+  RenderedSection,
+} from '@ember/content-engine'
 
 type LiturgicalColor = 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
 
@@ -196,7 +201,13 @@ export type ContainerOption = {
   id: string
   label: BilingualText
   excerpt?: BilingualText
+  // Preprocessed body. For `select` options, only the initially-selected
+  // branch is preprocessed eagerly; the rest carry `rawSections` and are
+  // preprocessed on demand (see SelectBranch).
   children: Primitive[]
+  // Un-preprocessed engine output for a `select` branch, kept so non-selected
+  // branches can be preprocessed lazily client-side without a full re-resolve.
+  rawSections?: RenderedSection[]
 }
 
 export type ChoiceRichTextOption = {

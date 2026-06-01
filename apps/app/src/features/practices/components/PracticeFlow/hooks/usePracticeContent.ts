@@ -26,10 +26,14 @@ export type PracticeContent = {
 //
 // `withSpiritualThreads(createEngineContext(...))` runs INSIDE queryFn so the
 // store snapshot is fresh per resolve — same semantics as the prior effect.
+//
+// Select tabs are intentionally NOT an input here: the flow resolves with the
+// engine's auto/default pick and materializes every select branch's structure.
+// Switching a tab is handled client-side (SelectBranch) so it never re-resolves
+// the whole practice. See docs/journal.md.
 export function usePracticeContent(
   practiceId: string,
   programDayProp: number | undefined,
-  selectOverrides: Record<string, string>,
 ): UseQueryResult<PracticeContent> {
   const queryClient = useQueryClient()
   const { flow, programDay } = usePractice(practiceId, programDayProp)
@@ -58,7 +62,6 @@ export function usePracticeContent(
       trackDefs,
       trackState,
       cycleData,
-      selectOverrides,
       flow,
     ] as const,
     queryFn: async (): Promise<PracticeContent> => {
@@ -71,7 +74,7 @@ export function usePracticeContent(
         trackState,
         cycleData,
         programDay,
-        selectOverrides,
+        selectOverrides: {},
       }
       const ec = withSpiritualThreads(
         createEngineContext(undefined, { contentLanguage, secondaryLanguage }),

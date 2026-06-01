@@ -12,38 +12,9 @@ import {
 } from '@/features/plan-of-life'
 import { successBuzz } from '@/lib/haptics'
 import { parseSlotKey } from '@/lib/slotKey'
+import { findTrackIds } from '../findTrackIds'
 import { usePractice } from './usePractice'
 import { usePracticeTracks } from './usePracticeTracks'
-
-// Walks the engine's pre-preprocess output for include sections with a
-// lectio trackId. Primitives drop track metadata during preprocess, so this
-// has to traverse the engine-level tree.
-function* walkRendered(sections: RenderedSection[]): Generator<RenderedSection> {
-  for (const s of sections) {
-    yield s
-    switch (s.type) {
-      case 'select':
-      case 'options':
-        for (const opt of s.options) yield* walkRendered(opt.sections)
-        break
-      case 'collapsible':
-      case 'liturgical-color-scope':
-        yield* walkRendered(s.sections)
-        break
-      case 'prayer':
-        if (s.sections) yield* walkRendered(s.sections)
-        break
-    }
-  }
-}
-
-function findTrackIds(sections: RenderedSection[]): string[] {
-  const ids = new Set<string>()
-  for (const s of walkRendered(sections)) {
-    if (s.type === 'include' && s.trackId) ids.add(s.trackId)
-  }
-  return Array.from(ids)
-}
 
 // Owns the write side: log a completion, advance reading cursors, finalize the
 // program if this is the final day. Sibling hooks (usePractice,
@@ -52,6 +23,7 @@ export function usePracticeCompletion(
   practiceId: string,
   programDayProp: number | undefined,
   renderedSections: RenderedSection[],
+  selectOverrides: Record<string, string>,
   slotId?: string,
 ) {
   const { t } = useTranslation()
@@ -75,7 +47,7 @@ export function usePracticeCompletion(
           successBuzz()
           try {
             if (trackDefs) {
-              const trackIds = findTrackIds(renderedSections)
+              const trackIds = findTrackIds(renderedSections, selectOverrides)
               await Promise.all(
                 trackIds.map((id) =>
                   advanceCursor.mutateAsync({
@@ -116,6 +88,7 @@ export function usePracticeCompletion(
     logCompletionMutation,
     trackDefs,
     renderedSections,
+    selectOverrides,
     advanceCursor,
     manifest,
     programProgress,

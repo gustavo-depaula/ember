@@ -14,11 +14,12 @@ export function PracticeFlow({
   slotId?: string
 }) {
   const { selectOverrides, handleSelectOverride } = useSelectOverrides(practiceId, programDayProp)
-  const contentQuery = usePracticeContent(practiceId, programDayProp, selectOverrides)
+  const contentQuery = usePracticeContent(practiceId, programDayProp)
   const completion = usePracticeCompletion(
     practiceId,
     programDayProp,
     contentQuery.data?.renderedSections ?? [],
+    selectOverrides,
     slotId,
   )
   const thresholdElapsed = useMinElapsed(900)

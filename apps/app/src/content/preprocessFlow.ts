@@ -241,11 +241,16 @@ async function preprocessSection(
     }
 
     case 'select': {
+      // Eager-preprocess only the initially-selected branch so it paints with
+      // the rest of the flow; the others carry their raw engine output and are
+      // preprocessed lazily (and prefetched) when the user switches tabs — see
+      // SelectBranch. This keeps a tab switch from re-resolving the whole flow.
       const options: ContainerOption[] = await Promise.all(
         section.options.map(async (o) => ({
           id: o.id,
           label: o.label,
-          children: await preprocessFlow(o.sections, ctx),
+          children: o.id === section.selectedId ? await preprocessFlow(o.sections, ctx) : [],
+          rawSections: o.sections,
         })),
       )
       return {

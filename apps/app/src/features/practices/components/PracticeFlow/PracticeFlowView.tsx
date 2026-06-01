@@ -1,9 +1,9 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static prayer sections never reorder
 
-import type { UseQueryResult } from '@tanstack/react-query'
+import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { ChevronLeft, Type } from 'lucide-react-native'
-import { type ReactNode, useState } from 'react'
+import { type ReactNode, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, type StyleProp, type ViewStyle } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -19,6 +19,7 @@ import {
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import type { PracticeManifest } from '@/content/manifestTypes'
+import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { ProgramCompleteModal } from '@/features/practices/components/ProgramCompleteModal'
 import { ReadingSettingsSheet } from '@/features/practices/components/ReadingSettingsSheet'
 import { useReadingMargin } from '@/hooks/useReadingStyle'
@@ -26,6 +27,7 @@ import { useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './hooks/usePractice'
 import type { usePracticeCompletion } from './hooks/usePracticeCompletion'
 import type { PracticeContent } from './hooks/usePracticeContent'
@@ -52,7 +54,7 @@ export function PracticeFlowView({
 }: Props) {
   const { t } = useTranslation()
   const router = useRouter()
-  const { manifest, flow, flowQuery } = usePractice(practiceId, programDayProp)
+  const { manifest, flow, flowQuery, programDay } = usePractice(practiceId, programDayProp)
 
   const status = derivePracticeFlowStatus({
     manifest,
@@ -81,6 +83,7 @@ export function PracticeFlowView({
         <PracticeReady
           manifest={manifest}
           practiceId={practiceId}
+          programDay={programDay}
           sections={contentQuery.data?.primitives ?? []}
           completion={completion}
           onSelectOverride={onSelectOverride}
@@ -92,12 +95,14 @@ export function PracticeFlowView({
 function PracticeReady({
   manifest,
   practiceId,
+  programDay,
   sections,
   completion,
   onSelectOverride,
 }: {
   manifest: PracticeManifest
   practiceId: string
+  programDay: number | undefined
   sections: PracticeContent['primitives']
   completion: CompletionApi
   onSelectOverride: (overrideKey: string, nextId: string) => void
@@ -112,102 +117,118 @@ function PracticeReady({
   const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
   const [settingsOpen, setSettingsOpen] = useState(false)
 
-  return (
-    <ImageViewerProvider>
-      <YStack flex={1}>
-        <ScreenLayout>
-          <YStack gap="$lg" paddingVertical="$lg">
-            <ManuscriptFrame>
-              <YStack alignItems="center" gap="$xs" paddingVertical="$md">
-                <Typography variant="ceremonial" fontSize="$5">
-                  ✠
-                </Typography>
-                <Typography variant="screen-title" fontSize="$5">
-                  {practiceName}
-                </Typography>
-                <Typography variant="label" tone="muted" fontSize="$2" letterSpacing={1}>
-                  {formattedDate}
-                </Typography>
-              </YStack>
-            </ManuscriptFrame>
+  // Runtime for lazily preprocessing a select branch the user switches to.
+  const queryClient = useQueryClient()
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  const translation = usePreferencesStore((s) => s.translation)
+  const preprocessCtx = useMemo(
+    () => ({
+      queryClient,
+      prefs: { lang: contentLanguage, translation },
+      date: now,
+      programDay,
+    }),
+    [queryClient, contentLanguage, translation, now, programDay],
+  )
 
-            <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
-              {sections.map((primitive, index) => (
-                <PrimitiveBlock
-                  key={`${primitive.type}-${index}`}
-                  primitive={primitive}
-                  practiceId={practiceId}
-                  onSelectOverride={onSelectOverride}
-                />
-              ))}
+  return (
+    <PreprocessProvider value={preprocessCtx}>
+      <ImageViewerProvider>
+        <YStack flex={1}>
+          <ScreenLayout>
+            <YStack gap="$lg" paddingVertical="$lg">
+              <ManuscriptFrame>
+                <YStack alignItems="center" gap="$xs" paddingVertical="$md">
+                  <Typography variant="ceremonial" fontSize="$5">
+                    ✠
+                  </Typography>
+                  <Typography variant="screen-title" fontSize="$5">
+                    {practiceName}
+                  </Typography>
+                  <Typography variant="label" tone="muted" fontSize="$2" letterSpacing={1}>
+                    {formattedDate}
+                  </Typography>
+                </YStack>
+              </ManuscriptFrame>
+
+              <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
+                {sections.map((primitive, index) => (
+                  <PrimitiveBlock
+                    key={`${primitive.type}-${index}`}
+                    primitive={primitive}
+                    practiceId={practiceId}
+                    onSelectOverride={onSelectOverride}
+                  />
+                ))}
+              </YStack>
+
+              {manifest.completion !== 'manual' && (
+                <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                  <AnimatedPressable
+                    onPress={completion.handleComplete}
+                    disabled={completion.isCompleting}
+                    accessibilityRole="button"
+                    accessibilityLabel={t('office.amen')}
+                  >
+                    <YStack
+                      backgroundColor="$accent"
+                      borderRadius="$md"
+                      borderWidth={1}
+                      borderColor="$accentSubtle"
+                      paddingVertical="$md"
+                      alignItems="center"
+                      opacity={completion.isCompleting ? 0.6 : 1}
+                    >
+                      <Typography fontSize="$3" fontWeight="500" color="$background">
+                        {completion.isCompleting ? t('office.completing') : t('office.amen')}
+                      </Typography>
+                    </YStack>
+                  </AnimatedPressable>
+                </YStack>
+              )}
+
+              <YStack paddingBottom="$lg" />
             </YStack>
 
-            {manifest.completion !== 'manual' && (
-              <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
-                <AnimatedPressable
-                  onPress={completion.handleComplete}
-                  disabled={completion.isCompleting}
-                  accessibilityRole="button"
-                  accessibilityLabel={t('office.amen')}
-                >
-                  <YStack
-                    backgroundColor="$accent"
-                    borderRadius="$md"
-                    borderWidth={1}
-                    borderColor="$accentSubtle"
-                    paddingVertical="$md"
-                    alignItems="center"
-                    opacity={completion.isCompleting ? 0.6 : 1}
-                  >
-                    <Typography fontSize="$3" fontWeight="500" color="$background">
-                      {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                    </Typography>
-                  </YStack>
-                </AnimatedPressable>
-              </YStack>
+            {completion.showCompleteModal && manifest.program && (
+              <ProgramCompleteModal
+                practiceName={practiceName}
+                showRestart={manifest.program.completionBehavior === 'offer-restart'}
+                onRestart={completion.onRestart}
+                onDone={completion.dismissCompleteModal}
+              />
             )}
+          </ScreenLayout>
 
-            <YStack paddingBottom="$lg" />
-          </YStack>
-
-          {completion.showCompleteModal && manifest.program && (
-            <ProgramCompleteModal
-              practiceName={practiceName}
-              showRestart={manifest.program.completionBehavior === 'offer-restart'}
-              onRestart={completion.onRestart}
-              onDone={completion.dismissCompleteModal}
-            />
-          )}
-        </ScreenLayout>
-
-        {/* The native tab bar is hidden on this screen (see (tabs)/_layout). These
+          {/* The native tab bar is hidden on this screen (see (tabs)/_layout). These
             two Liquid Glass buttons replace it: back on the left, reading &
             language settings on the right. */}
-        <GlassIconButton
-          onPress={() => {
-            lightTap()
-            router.back()
-          }}
-          accessibilityLabel={t('common.back')}
-          style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
-        >
-          <ChevronLeft size={22} color={theme.color.val} />
-        </GlassIconButton>
+          <GlassIconButton
+            onPress={() => {
+              lightTap()
+              router.back()
+            }}
+            accessibilityLabel={t('common.back')}
+            style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
+          >
+            <ChevronLeft size={22} color={theme.color.val} />
+          </GlassIconButton>
 
-        <GlassIconButton
-          onPress={() => {
-            lightTap()
-            setSettingsOpen(true)
-          }}
-          accessibilityLabel={t('readingConfig.reading')}
-          style={{ position: 'absolute', bottom: insets.bottom + 12, right: 16, zIndex: 10 }}
-        >
-          <Type size={20} color={theme.color.val} />
-        </GlassIconButton>
+          <GlassIconButton
+            onPress={() => {
+              lightTap()
+              setSettingsOpen(true)
+            }}
+            accessibilityLabel={t('readingConfig.reading')}
+            style={{ position: 'absolute', bottom: insets.bottom + 12, right: 16, zIndex: 10 }}
+          >
+            <Type size={20} color={theme.color.val} />
+          </GlassIconButton>
 
-        <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
-      </YStack>
-    </ImageViewerProvider>
+          <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+        </YStack>
+      </ImageViewerProvider>
+    </PreprocessProvider>
   )
 }
 

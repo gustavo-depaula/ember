@@ -118,7 +118,7 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       return renderCallout(primitive)
 
     case 'container':
-      return renderContainer(primitive, renderChild, onSelectOverride)
+      return renderContainer(primitive, renderChild, onSelectOverride, practiceId)
 
     case 'interaction':
       return renderInteraction(primitive, practiceId)
@@ -147,6 +147,7 @@ function renderContainer(
   p: Extract<Primitive, { type: 'container' }>,
   renderChild: (c: Primitive, i: number) => React.ReactNode,
   onSelectOverride: (overrideKey: string, nextId: string) => void,
+  practiceId: string,
 ) {
   const { behavior } = p
   const children = p.children ?? []
@@ -205,12 +206,10 @@ function renderContainer(
       return (
         <SelectBlock
           label={behavior.label.primary}
+          overrideKey={behavior.overrideKey}
           selectedId={behavior.selectedId}
-          options={behavior.options.map((o) => ({
-            id: o.id,
-            label: o.label.primary,
-            sections: o.children,
-          }))}
+          options={behavior.options}
+          practiceId={practiceId}
           onSelect={(nextId) => onSelectOverride(behavior.overrideKey, nextId)}
           renderSection={renderChild}
         />

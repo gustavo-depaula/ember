@@ -310,7 +310,7 @@ describe('resolveFlow — select: silent conditional', () => {
 // --- select: default + override (label present) ---
 
 describe('resolveFlow — select: default + override', () => {
-  it('emits rendered select with all options and auto-selected ID', () => {
+  it('emits rendered select with every option materialized and auto-selected ID', () => {
     expect(
       resolveFlow(
         flow({
@@ -349,7 +349,7 @@ describe('resolveFlow — select: default + override', () => {
           {
             id: 'sorrowful',
             label: { primary: 'Dolorosos' },
-            sections: [],
+            sections: [{ type: 'heading', text: { primary: 'S' } }],
           },
         ],
       },
@@ -916,7 +916,7 @@ describe('resolveFlow — select with from-data (celebration picker)', () => {
           {
             id: 'tempore.chrism-mass',
             label: { primary: 'Chrism Mass' },
-            sections: [],
+            sections: [{ type: 'heading', text: { primary: 'Chrism Mass' } }],
           },
         ],
       },
@@ -958,7 +958,10 @@ describe('resolveFlow — select with from-data (celebration picker)', () => {
       type: 'select',
       selectedId: 'tempore.chrism-mass',
       options: [
-        { id: 'tempore.lords-supper', sections: [] },
+        {
+          id: 'tempore.lords-supper',
+          sections: [{ type: 'heading', text: { primary: 'Mass of the Lords Supper' } }],
+        },
         {
           id: 'tempore.chrism-mass',
           sections: [{ type: 'heading', text: { primary: 'Chrism Mass' } }],

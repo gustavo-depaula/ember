@@ -111,6 +111,34 @@ describe('preprocessFlow — primitive mapping', () => {
     expect(behaviorKinds).toEqual(['collapsible', 'color-scope', 'options'])
   })
 
+  it('select preprocesses only the selected branch and keeps the rest raw for lazy loading', async () => {
+    const sections: RenderedSection[] = [
+      {
+        type: 'select',
+        label: text,
+        overrideKey: 'view',
+        selectedId: 'a',
+        options: [
+          { id: 'a', label: text, sections: [{ type: 'divider' }] },
+          { id: 'b', label: text, sections: [{ type: 'heading', text }] },
+        ],
+      } as RenderedSection,
+    ]
+    const [primitive] = await preprocessFlow(sections, ctx())
+    if (primitive.type !== 'container' || primitive.behavior.kind !== 'select') {
+      throw new Error('expected select container')
+    }
+    const [optA, optB] = primitive.behavior.options
+    // Selected branch is preprocessed into renderable primitives now.
+    expect(optA.children).toEqual([{ type: 'divider' }])
+    // Non-selected branch is NOT preprocessed eagerly, but carries its raw
+    // engine output so SelectBranch can preprocess it on demand.
+    expect(optB.children).toEqual([])
+    expect(optB.rawSections).toEqual([{ type: 'heading', text }])
+    // Every branch keeps its raw output (the selected one too, harmlessly).
+    expect(optA.rawSections).toEqual([{ type: 'divider' }])
+  })
+
   describe('gallery', () => {
     it('emits a single gallery primitive (no flattening)', async () => {
       const sections: RenderedSection[] = [

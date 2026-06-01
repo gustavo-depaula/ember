@@ -127,37 +127,40 @@ export function resolveSelectFromData(
   if (items.length === 0) return []
 
   const idFrom = section.idFrom ?? 'id'
-  const { selectedId, overrideKey, item } = selectedItemAndId(section, items, context)
+  const { selectedId, overrideKey } = selectedItemAndId(section, items, context)
 
-  // Bind the chosen item under section.as so descendants can path-access it.
-  const downstreamContext: FlowContext = {
-    ...context,
-    flowData: { ...context.flowData, [section.as]: item },
+  // Resolve one item's body with that item bound under section.as so the body
+  // can path-access it. Substitution happens here because top-level
+  // substitution in resolveFlowWithContext can't see this per-item binding.
+  const resolveItemBody = (it: unknown): RenderedSection[] => {
+    const downstreamContext: FlowContext = {
+      ...context,
+      flowData: { ...context.flowData, [section.as]: it },
+    }
+    const downstreamVars = composeVars(downstreamContext)
+    return section.body.flatMap((s) => {
+      const substituted = substituteInFlowSection(s, downstreamVars)
+      return resolveSection(substituted, downstreamContext, ec)
+    })
   }
-  // Substitute the body now that the item is bound — top-level substitution in
-  // resolveFlowWithContext can't see this binding because it happens after.
-  const downstreamVars = composeVars(downstreamContext)
-  const body = section.body.flatMap((s) => {
-    const substituted = substituteInFlowSection(s, downstreamVars)
-    return resolveSection(substituted, downstreamContext, ec)
-  })
 
   // Hide picker when only one item applies and hideIfSingle is set (the common case).
   const hideIfSingle = section.hideIfSingle ?? false
   if (items.length === 1 && hideIfSingle) {
-    return body
+    return resolveItemBody(items[0])
   }
 
-  // Otherwise emit a visible select with options for the chip header. Only
-  // the selected item's body is materialized; the renderer triggers a
-  // re-resolve via selectOverrides on click for the others.
+  // Otherwise emit a visible select. Materialize every item's body (cheap —
+  // structure only; include/reading fetches stay lazy per branch in
+  // preprocessFlow) so the renderer can switch tabs client-side without a
+  // full re-resolve.
   const optionLabels = items.map((it, i) => {
     const rawLabel = getItemLabel(it, section.labelFrom)
     const label = typeof rawLabel === 'string' ? bilingualOf(rawLabel) : ec.localize(rawLabel)
     return {
       id: getItemId(it, idFrom, i),
       label,
-      sections: getItemId(it, idFrom, i) === selectedId ? body : [],
+      sections: resolveItemBody(it),
     }
   })
 

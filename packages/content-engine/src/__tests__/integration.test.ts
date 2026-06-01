@@ -230,7 +230,7 @@ describe('integration: Rosary — select + repeat from + flow.data', () => {
 })
 
 describe('integration: Confession — manual select', () => {
-  it('renders picker with both modes', () => {
+  it('renders picker with every branch materialized (lazy network fetch is deferred to preprocessFlow per branch)', () => {
     expect(
       resolveFlow(
         flow({
@@ -274,7 +274,7 @@ describe('integration: Confession — manual select', () => {
           {
             id: 'thanks',
             label: { primary: 'Ação de Graças' },
-            sections: [],
+            sections: [{ type: 'heading', text: { primary: 'Thanks' } }],
           },
         ],
       },

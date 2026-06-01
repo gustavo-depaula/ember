@@ -369,12 +369,18 @@ export function resolveSection(
 
       const { selectedId, overrideKey } = computeSelectedId(section, context)
 
-      const downstreamContext = section.as
-        ? { ...context, templateVars: { ...context.templateVars, [section.as]: selectedId } }
-        : context
+      // Bind the option being resolved under section.as so its body can
+      // path-access the choice. Each option resolves with its own id bound.
+      const contextFor = (optionId: string) =>
+        section.as
+          ? { ...context, templateVars: { ...context.templateVars, [section.as]: optionId } }
+          : context
 
       if (section.label) {
-        // Visible picker: resolve only selected option sections for responsiveness.
+        // Visible picker: materialize every option's body (cheap — structure
+        // only, no network) so the renderer can switch tabs client-side without
+        // a full re-resolve. The expensive include/reading fetches stay lazy in
+        // preprocessFlow, per branch.
         return [
           {
             type: 'select' as const,
@@ -384,10 +390,9 @@ export function resolveSection(
             options: section.options.map((opt) => ({
               id: opt.id,
               label: ec.localize(opt.label),
-              sections:
-                opt.id === selectedId
-                  ? (opt.sections ?? []).flatMap((s) => resolveSection(s, downstreamContext, ec))
-                  : [],
+              sections: (opt.sections ?? []).flatMap((s) =>
+                resolveSection(s, contextFor(opt.id), ec),
+              ),
             })),
           },
         ]
@@ -395,7 +400,7 @@ export function resolveSection(
       // Silent: resolve only the selected option
       const selected = section.options.find((o) => o.id === selectedId) ?? section.options[0]
       if (!selected?.sections?.length) return []
-      return selected.sections.flatMap((s) => resolveSection(s, downstreamContext, ec))
+      return selected.sections.flatMap((s) => resolveSection(s, contextFor(selected.id), ec))
     }
 
     case 'fragment': {
