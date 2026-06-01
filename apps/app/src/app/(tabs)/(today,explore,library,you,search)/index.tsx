@@ -49,6 +49,7 @@ import {
   useCompletionDatesBySlot,
   useCompletionRange,
   useCompletionsForDate,
+  useProgramHidesForDate,
   useRestartNeededPractices,
   useSlots,
   useToggleSlot,
@@ -85,6 +86,7 @@ export default function HomeScreen() {
     (s) => s.liturgicalCalendar,
   ) as LiturgicalCalendarForm
   const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
+  const isFutureDate = selectedDate > anchorDate
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const router = useRouter()
   const slots = useSlots()
@@ -185,9 +187,13 @@ export default function HomeScreen() {
   ]
 
   const completionsBySlot = useCompletionDatesBySlot()
+  const programHides = useProgramHidesForDate(selectedDate)
   const todaySlots = useMemo(
-    () => filterSlotsForDate(slots, selectedDate, scheduleCtx, completionsBySlot),
-    [slots, selectedDate, scheduleCtx, completionsBySlot],
+    () =>
+      filterSlotsForDate(slots, selectedDate, scheduleCtx, completionsBySlot).filter(
+        (s) => !programHides.has(s.id),
+      ),
+    [slots, selectedDate, scheduleCtx, completionsBySlot, programHides],
   )
   const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
@@ -312,6 +318,7 @@ export default function HomeScreen() {
                       state={state}
                       completed={completed}
                       total={total}
+                      readOnly={isFutureDate}
                       onToggle={(item, done) =>
                         toggle.mutate({
                           practiceId: item.practice_id,
