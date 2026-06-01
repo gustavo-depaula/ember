@@ -19,14 +19,34 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
  * See `features/angelus/hooks.ts` for the pattern.
  */
 export function useToday(): Date {
-  const timeTravelDate = usePreferencesStore((s) => s.timeTravelDate)
-  if (timeTravelDate) return normalizeDate(parseISO(timeTravelDate))
+  const ephemeral = usePreferencesStore((s) => s.timeTravelDate)
+  const stable = useStableToday()
+  if (ephemeral) return normalizeDate(parseISO(ephemeral))
+  return stable
+}
+
+/**
+ * Like {@link useToday}, but ignores the ephemeral overlay set by transient
+ * UI (e.g. the day scrubber's pan-driven selection). Use this for anchors
+ * that must stay put while the user scrubs — re-centering a carousel on a
+ * date that moves with every snap would yank the strip under their finger.
+ */
+export function useStableToday(): Date {
+  const persisted = usePreferencesStore((s) => s.persistedTimeTravelDate)
+  if (persisted) return normalizeDate(parseISO(persisted))
   return logicalDay(new Date())
 }
 
 /** Non-hook version of {@link useToday}. Same 4am-cutoff + midnight caveat. */
 export function getToday(): Date {
-  const timeTravelDate = usePreferencesStore.getState().timeTravelDate
-  if (timeTravelDate) return normalizeDate(parseISO(timeTravelDate))
+  const ephemeral = usePreferencesStore.getState().timeTravelDate
+  if (ephemeral) return normalizeDate(parseISO(ephemeral))
+  return getStableToday()
+}
+
+/** Non-hook version of {@link useStableToday}. */
+export function getStableToday(): Date {
+  const persisted = usePreferencesStore.getState().persistedTimeTravelDate
+  if (persisted) return normalizeDate(parseISO(persisted))
   return logicalDay(new Date())
 }
