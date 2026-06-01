@@ -1,0 +1,25 @@
+{
+  "fragments": {
+    "of-concluding-frame": [
+      {
+        "type": "section-marker",
+        "title": {
+          "en-US": "Concluding Rites",
+          "pt-BR": "Ritos Finais"
+        },
+        "colorFrom": "celebration.primary.liturgicalColor"
+      },
+      {
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Priest, extending his hands, greets the people. Then, joining his hands and placing his left hand on his breast, he raises his right hand and blesses the people, making the Sign of the Cross over them.",
+          "pt-BR": "O sacerdote, abrindo os braços, saúda o povo. Depois, juntando as mãos e colocando a mão esquerda sobre o peito, levanta a mão direita e abençoa o povo, fazendo o Sinal da Cruz sobre eles."
+        }
+      }
+    ]
+  }
+}
