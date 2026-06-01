@@ -4,6 +4,4 @@ AUGUSTINE was prior of the monastery of St. Andrew on the Cœlian, and was appoi
 
 Landing at Ebbsfleet, between Sandwich and Ramsgate, they met King Ethelbert and his thanes under a great oak-tree at Minster, and announced to him the Gospel of Jesus Christ. Instant and complete success attended their preaching. On Whit-Sunday, 596, King Ethelbert was baptized, and his example was followed by the greater number of his nobles and people. By degrees the Faith spread far and wide, and Augustine, as Papal Legate, set out on a visitation of Britain. He failed in his attempt to enlist the Britons of the west in the work of his apostolate through their obstinate jealousy and pride; but his success was triumphant from south to north. St. Augustine died after eight years of evangelical labors. The Anglo-Saxon Church, which he founded, is still famous for its learning, zeal, and devotion to the Holy See, while its calendar commemorates no less than 300 Saints, half of whom were of royal birth.
 
-## Reflection
-
-The work of an apostle is the work of the right hand of God. He often chooses weak instruments for His mightiest purposes. The most sure augury of lasting success in missionary labor is obedience to superiors and diffidence in self.
+**Reflection**—The work of an apostle is the work of the right hand of God. He often chooses weak instruments for His mightiest purposes. The most sure augury of lasting success in missionary labor is obedience to superiors and diffidence in self.

@@ -14,6 +14,4 @@ A cerimônia deste dia foi encerrada por um terceiro mistério — o encontro no
 
 Esta festa é chamada CANDELÁRIA porque a Igreja abençoa as velas que hão de ser levadas na procissão do dia.
 
-## Reflexão
-
-Esforcemo-nos por imitar a humildade da sempre bendita Mãe de Deus, lembrando-nos de que a humildade é o caminho que conduz à paz permanente e nos aproxima das consolações de Deus.
+**Reflexão**—Esforcemo-nos por imitar a humildade da sempre bendita Mãe de Deus, lembrando-nos de que a humildade é o caminho que conduz à paz permanente e nos aproxima das consolações de Deus.

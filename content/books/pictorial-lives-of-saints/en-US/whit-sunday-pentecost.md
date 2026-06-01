@@ -6,6 +6,4 @@ Fifty days after Easter, the apostles and disciples of Jesus Christ were assembl
 
 The Fathers of the Church and all theologians are of one mind in recognizing, in the workings of the Holy Ghost in the hearts of the faithful, seven chief gifts: Wisdom, Understanding, Counsel, Fortitude, Knowledge, Piety, and the Fear of the Lord. The gift of Wisdom helps us to judge healthily of all things concerning our last end; the gift of Understanding, to apprehend the truths revealed and to submit our hearts thereto; the gift of Counsel, to choose in all things the part best fitted for the sanctification of our souls; the gift of Fortitude, to resist temptations and overcome dangers; the gift of Knowledge, to discern the best means of sanctifying ourselves; the gift of Piety, or Godliness, causes us to love religion and the practices having reference to Divine Worship; the gift of the Fear of the Lord turns us aside from sin and from whatever may displease God.
 
-## Reflection
-
-"They that are according to the flesh mind the things that are of the flesh; but they that are according to the Spirit mind the things that are of the Spirit. For the wisdom of the flesh is death; but the wisdom of the Spirit is life and peace."
+**Reflection**—"They that are according to the flesh mind the things that are of the flesh; but they that are according to the Spirit mind the things that are of the Spirit. For the wisdom of the flesh is death; but the wisdom of the Spirit is life and peace."

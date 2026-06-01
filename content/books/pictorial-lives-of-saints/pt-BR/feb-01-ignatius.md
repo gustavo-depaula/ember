@@ -6,6 +6,4 @@ SANTO INÁCIO, Bispo de Antioquia, foi discípulo de São João. Quando Domician
 
 Ele viajou para Roma, guardado por soldados, e sem outro temor senão o de perder a coroa do martírio. Foi devorado por leões no anfiteatro romano. As feras nada deixaram de seu corpo, exceto alguns ossos, que foram reverentemente guardados em Antioquia, até a sua remoção para a Igreja de São Clemente, em Roma, no ano 637. Após a morte do mártir, vários cristãos o viram em visão de pé diante de Cristo, intercedendo por eles.
 
-## Reflexão
-
-Peça a Santo Inácio que lhe obtenha a graça de aproveitar tudo o que tiver de sofrer, e de alegrar-se nisso como um meio de semelhança com o seu Redentor crucificado.
+**Reflexão**—Peça a Santo Inácio que lhe obtenha a graça de aproveitar tudo o que tiver de sofrer, e de alegrar-se nisso como um meio de semelhança com o seu Redentor crucificado.

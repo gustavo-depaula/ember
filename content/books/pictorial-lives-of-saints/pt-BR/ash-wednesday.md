@@ -10,6 +10,4 @@ O costume de pôr cinzas sobre a cabeça em sinal de penitência é ainda mais a
 
 Nada há, de fato, mais apto a levar o pecador a entrar em si mesmo do que a lembrança de seu último fim. Nada há mais próprio a abater o orgulho e a pôr freio aos projetos fúteis e aos propósitos culpados do que o terrível e triste memento: "Lembra-te de que não passas de pó." Impérios, riquezas, honras e dignidades, palácios resplandecentes, carros triunfais, belos adornos, beleza, vigor e poder, tudo se desmorona, e o próprio possuidor não é senão uma ruína, e, antes que poucos dias se escoem, terá esmaecido em pó.
 
-## Reflexão
-
-Trazei, pois, sempre na memória, homens e pecadores, que "sois pó, e ao pó haveis de tornar."
+**Reflexão**—Trazei, pois, sempre na memória, homens e pecadores, que "sois pó, e ao pó haveis de tornar."

@@ -14,6 +14,4 @@ The ceremony of this day was closed by a third mystery—the meeting in the Temp
 
 This feast is called CANDLEMAS, because the Church blesses the candles to be borne in the procession of the day.
 
-## Reflection
-
-Let us strive to imitate the humility of the ever-blessed Mother of God, remembering that humility is the path which leads to abiding peace and brings us near to the consolations of God.
+**Reflection**—Let us strive to imitate the humility of the ever-blessed Mother of God, remembering that humility is the path which leads to abiding peace and brings us near to the consolations of God.

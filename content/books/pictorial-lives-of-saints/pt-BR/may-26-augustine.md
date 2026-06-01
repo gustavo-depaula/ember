@@ -4,6 +4,4 @@ AGOSTINHO era prior do mosteiro de Santo André no Célio, e foi designado por S
 
 Desembarcando em Ebbsfleet, entre Sandwich e Ramsgate, encontraram o Rei Etelberto e seus thanes sob um grande carvalho em Minster, e anunciaram-lhe o Evangelho de Jesus Cristo. Êxito instantâneo e completo acompanhou sua pregação. No domingo de Pentecostes de 596, o Rei Etelberto foi batizado, e seu exemplo foi seguido pela maior parte de seus nobres e de seu povo. Gradualmente a Fé difundiu-se por toda parte, e Agostinho, como Legado Papal, partiu numa visitação da Britânia. Falhou em sua tentativa de alistar os bretões do ocidente na obra de seu apostolado, por causa de sua obstinada inveja e orgulho; mas seu êxito foi triunfante de sul a norte. Santo Agostinho faleceu após oito anos de labores evangélicos. A Igreja anglo-saxônica, que ele fundou, é ainda famosa por sua erudição, zelo e devoção à Santa Sé, enquanto seu calendário comemora nada menos que 300 Santos, metade dos quais de estirpe real.
 
-## Reflexão
-
-A obra de um apóstolo é a obra da destra de Deus. Ele muitas vezes escolhe instrumentos fracos para Seus mais poderosos desígnios. O mais seguro augúrio de êxito duradouro no labor missionário é a obediência aos superiores e a desconfiança de si mesmo.
+**Reflexão**—A obra de um apóstolo é a obra da destra de Deus. Ele muitas vezes escolhe instrumentos fracos para Seus mais poderosos desígnios. O mais seguro augúrio de êxito duradouro no labor missionário é a obediência aos superiores e a desconfiança de si mesmo.

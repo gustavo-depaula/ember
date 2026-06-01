@@ -10,6 +10,4 @@ The custom of putting ashes on the head in token of penitence is even more ancie
 
 Nothing is, in fact, more calculated to lead the sinner to enter into himself than the remembrance of his last end. Nothing is better fitted to beat down pride and put a check on futile projects and guilty purposes than the terrible and sad memento, "Remember that thou art but dust." Empires, riches, honors, and dignities, resplendent palaces, triumphal cars, fair adornments, beauty, strength, and power, all crumble away, and their very possessor is but a ruin, and, ere a few days have sped, will have dwindled into dust.
 
-## Reflection
-
-Bear ever in mind, then, men and sinners, that "you are dust, and unto dust you shall return."
+**Reflection**—Bear ever in mind, then, men and sinners, that "you are dust, and unto dust you shall return."

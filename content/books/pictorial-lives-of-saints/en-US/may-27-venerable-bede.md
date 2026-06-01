@@ -4,6 +4,4 @@ VENERABLE BEDE, the illustrious ornament of the Anglo-Saxon Church and the first
 
 The Saint was employed in translating the Gospel of St. John from the Greek up to the hour of his death, which took place on Ascension Day, 735. "He spent that day joyfully," writes one of his scholars. And in the evening the boy who attended him said, "Dear master, there is yet one sentence unwritten." He answered, "Write it quickly." Presently the youth said, "Now it is written." He replied, "Good! thou hast said the truth—*consummatum est;* take my head into thy hands, for it is very pleasant to me to sit facing my old praying-place, and there to call upon my Father." And so on the floor of his cell he sang, "Glory be to the Father, Son, and Holy Ghost;" and just as he said "Holy Ghost," he breathed his last, and went to the realms above.
 
-## Reflection
-
-"The more," says the Imitation of Christ, "a man is united within himself and interiorly simple, so much the more and deeper things doth he understand without labor; for he receiveth the light of understanding from on high."
+**Reflection**—"The more," says the *Imitation of Christ*, "a man is united within himself and interiorly simple, so much the more and deeper things doth he understand without labor; for he receiveth the light of understanding from on high."

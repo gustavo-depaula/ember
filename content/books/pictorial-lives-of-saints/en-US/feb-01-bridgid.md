@@ -16,6 +16,4 @@ After seventy years devoted to the practice of the most sublime virtues, corpora
 
 In the ninth century, the country being desolated by the Danes, the remains of St. Bridgid were removed in order to secure them from irreverence; and, being transferred to Down-Patrick, were deposited in the same grave with those of the glorious St. Patrick. Their bodies, together with that of St. Columba, were translated afterwards to the cathedral of the same city, but their monument was destroyed in the reign of King Henry VIII. The head of St. Bridgid is now kept in the church of the Jesuits at Lisbon.
 
-## Reflection
-
-Outward resemblance to Our Lady was St. Bridgid's peculiar privilege; but all are bound to grow like her in interior purity of heart. This grace St. Bridgid has obtained in a wonderful degree for the daughters of her native land, and will never fail to procure for all her devout clients.
+**Reflection**—Outward resemblance to Our Lady was St. Bridgid's peculiar privilege; but all are bound to grow like her in interior purity of heart. This grace St. Bridgid has obtained in a wonderful degree for the daughters of her native land, and will never fail to procure for all her devout clients.

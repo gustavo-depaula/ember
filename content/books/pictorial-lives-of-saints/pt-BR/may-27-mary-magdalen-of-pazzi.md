@@ -6,6 +6,4 @@ SANTA MARIA MADALENA DE PAZZI, de uma ilustre casa de Florença, nasceu no ano d
 
 Deus a elevou a altos estados de oração e lhe deu raros dons, capacitando-a a ler os pensamentos de suas noviças, e enchendo-a de sabedoria para dirigi-las retamente. Foi por duas vezes escolhida mestra de noviças, e depois feita superiora, quando Deus a tomou para Si, a 25 de maio de 1607. Seu corpo está incorrupto.
 
-## Reflexão
-
-Santa Maria Madalena de Pazzi estava de tal modo cheia do amor de Deus que suas irmãs no mosteiro o observavam em seu amor por elas, e a chamavam "a Mãe da Caridade" e "a Caridade do Mosteiro."
+**Reflexão**—Santa Maria Madalena de Pazzi estava de tal modo cheia do amor de Deus que suas irmãs no mosteiro o observavam em seu amor por elas, e a chamavam "a Mãe da Caridade" e "a Caridade do Mosteiro."

@@ -8,6 +8,4 @@ A graver trouble soon arose. In 448 Flavian had to condemn the rising heresy of 
 
 The fury of Dioscorus reached its height when Flavian appealed to the Holy See. Then it was that he so forgot his apostolic office as to lay violent hands on his adversary. St. Flavian was set upon by Dioscorus and others, thrown down, beaten, kicked, and finally carried into banishment. Let us contrast their ends. Flavian clung to the teaching of the Roman Pontiff, and sealed his faith with his blood. Dioscorus excommunicated the Vicar of Christ, and died obstinate and impenitent in the heresy of Eutyches.
 
-## Reflection
-
-By his unswerving loyalty to the Vicar of Christ, Flavian held fast to the truth and gained the martyr's crown. Let us learn from him to turn instinctively to that one true guide in all matters concerning our salvation.
+**Reflection**—By his unswerving loyalty to the Vicar of Christ, Flavian held fast to the truth and gained the martyr's crown. Let us learn from him to turn instinctively to that one true guide in all matters concerning our salvation.

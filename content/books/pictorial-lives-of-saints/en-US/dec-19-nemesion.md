@@ -2,8 +2,10 @@
 
 ![](../images/dec-19-nemesion.webp)
 
-IN the persecution of Decius, Nemesion, an Egyptian, was apprehended at Alexandria upon an indictment for theft. The servant of Christ easily cleared himself of that charge, but was immediately accused of being a Christian, and after being scourged and tormented more than the thieves, was condemned to be burnt with the robbers and other malefactors. There stood at the same time near the prefect's tribunal four soldiers and another person, who, being Christians, boldly encouraged a confessor who was hanging on the rack. They were taken before the judge, who condemned them to be beheaded, but was astonished to see the joy with which they walked to the place of execution. Heron, Ater, and Isidore, all Egyptians, with Dioscorus, a youth only fifteen years old, were committed at Alexandria in the same persecution. After enduring the most cruel rending and disjointing of their limbs, they were burnt alive, with the exception of Dioscorus, whom the judge discharged on account of the tenderness of his years.
+IN the persecution of Decius, Nemesion, an Egyptian, was apprehended at Alexandria upon an indictment for theft. The servant of Christ easily cleared himself of that charge, but was immediately accused of being a Christian, and after being scourged and tormented more than the thieves, was condemned to be burnt with the robbers and other malefactors.
 
-## Reflection
+There stood at the same time near the prefect's tribunal four soldiers and another person, who, being Christians, boldly encouraged a confessor who was hanging on the rack. They were taken before the judge, who condemned them to be beheaded, but was astonished to see the joy with which they walked to the place of execution.
 
-Can we call to mind the fervor of the Saints in laboring and suffering cheerfully for God, and not feel a holy ardor glow in our own breasts, and our souls strongly affected with their heroic sentiments of virtue?
+Heron, Ater, and Isidore, all Egyptians, with Dioscorus, a youth only fifteen years old, were committed at Alexandria in the same persecution. After enduring the most cruel rending and disjointing of their limbs, they were burnt alive, with the exception of Dioscorus, whom the judge discharged on account of the tenderness of his years.
+
+**Reflection**—Can we call to mind the fervor of the Saints in laboring and suffering cheerfully for God, and not feel a holy ardor glow in our own breasts, and our souls strongly affected with their heroic sentiments of virtue?

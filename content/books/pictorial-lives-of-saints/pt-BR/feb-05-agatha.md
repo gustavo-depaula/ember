@@ -6,6 +6,4 @@ E Nosso Senhor de fato preservou aquela que se entregara tão inteiramente a Ele
 
 Santa Ágata entregou-se sem reservas a Jesus Cristo; seguiu-O na pureza virginal, e então a Ele recorreu por proteção. E até o dia de hoje Cristo tem mostrado o seu terno cuidado pelo próprio corpo de Santa Ágata. Vezes sem conta, durante as erupções do Monte Etna, o povo de Catânia expôs o seu véu à veneração pública, e por este meio encontrou segurança; e, em tempos modernos, ao abrir o túmulo em que jaz o seu corpo aguardando a ressurreição, contemplaram a pele ainda íntegra, e sentiram a doce fragrância que emanava deste templo do Espírito Santo.
 
-## Reflexão
-
-A pureza é um dom de Deus: só podemos obtê-la e conservá-la pelo cuidado e pela diligência em evitar tudo o que possa ser um incentivo ao pecado.
+**Reflexão**—A pureza é um dom de Deus: só podemos obtê-la e conservá-la pelo cuidado e pela diligência em evitar tudo o que possa ser um incentivo ao pecado.

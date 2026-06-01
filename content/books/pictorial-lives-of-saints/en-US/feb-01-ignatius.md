@@ -6,6 +6,4 @@ ST. IGNATIUS, Bishop of Antioch, was the disciple of St. John. When Domitian per
 
 He journeyed to Rome, guarded by soldiers, and with no fear except of losing the martyr's crown. He was devoured by lions in the Roman amphitheatre. The wild beasts left nothing of his body, except a few bones, which were reverently treasured at Antioch, until their removal to the Church of St. Clement at Rome, in 637. After the martyr's death, several Christians saw him in vision standing before Christ, and interceding for them.
 
-## Reflection
-
-Ask St. Ignatius to obtain for you the grace of profiting by all you have to suffer, and rejoicing in it as a means of likeness to your crucified Redeemer.
+**Reflection**—Ask St. Ignatius to obtain for you the grace of profiting by all you have to suffer, and rejoicing in it as a means of likeness to your crucified Redeemer.

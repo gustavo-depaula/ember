@@ -17,6 +17,4 @@ Many particulars are related of the labors of St. Patrick, which we pass over. I
 
 Ireland is the nursery whence St. Patrick sent forth his missionaries and teachers. Glastonbury and Lindisfarne, Ripon and Malmesbury, bear testimony to the labors of Irish priests and bishops for the conversion of England. Iona is to this day the most venerated spot in Scotland. Columban, Fiacre, Gall, and many others evangelized the "rough places" of France and Switzerland. America and Australia, in modern times, owe their Christianity to the faith and zeal of the sons and daughters of St. Patrick.
 
-## Reflection
-
-By the instrumentality of St. Patrick the Faith is now as fresh in Ireland, even in this cold nineteenth century, as when it was first planted. Ask him to obtain for you the special grace of his children—to prefer the loss of every earthly good to the least compromise in matters of faith.
+**Reflection**—By the instrumentality of St. Patrick the Faith is now as fresh in Ireland, even in this cold nineteenth century, as when it was first planted. Ask him to obtain for you the special grace of his children—to prefer the loss of every earthly good to the least compromise in matters of faith.

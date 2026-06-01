@@ -6,6 +6,4 @@ And Our Lord did indeed preserve one who had given herself so utterly to Him. He
 
 St. Agatha gave herself without reserve to Jesus Christ; she followed Him in virginal purity, and then looked to Him for protection. And down to this day Christ has shown His tender regard for the very body of St. Agatha. Again and again, during the eruptions of Mount Etna, the people of Catania have exposed her veil for public veneration, and found safety by this means; and in modern times, on opening the tomb in which her body lies waiting for the resurrection, they beheld the skin still entire, and felt the sweet fragrance which issued from this temple of the Holy Ghost.
 
-## Reflection
-
-Purity is a gift of God: we can gain it and preserve it only by care and diligence in avoiding all that may prove an incentive to sin.
+**Reflection**—Purity is a gift of God: we can gain it and preserve it only by care and diligence in avoiding all that may prove an incentive to sin.

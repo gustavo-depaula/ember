@@ -8,6 +8,4 @@ She was stretched upon the rack, and offered marriage if she would consent to sa
 
 St. Dorothy suffered in the dead of winter, and it is said that on the road to her passion a lawyer called Theophilus, who had been used to calumniate and persecute the Christians, asked her, in mockery, to send him "apples or roses from the garden of her Spouse." The Saint promised to grant his request, and, just before she died, a little child stood by her side bearing three apples and three roses. She bade him take them to Theophilus and tell him this was the present which he sought from the garden of her Spouse. St. Dorothy had gone to heaven, and Theophilus was still making merry over his challenge to the Saint when the child entered his room. He saw that the child was an angel in disguise, and the fruit and flowers of no earthly growth. He was converted to the faith, and then shared in the martyrdom of St. Dorothy.
 
-## Reflection
-
-Do you wish to be safe in the pleasures and happy in the troubles of the world? Pray for heavenly desires, and say, with St. Philip, "Paradise, Paradise!"
+**Reflection**—Do you wish to be safe in the pleasures and happy in the troubles of the world? Pray for heavenly desires, and say, with St. Philip, "Paradise, Paradise!"

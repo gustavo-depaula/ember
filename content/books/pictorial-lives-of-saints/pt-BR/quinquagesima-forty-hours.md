@@ -6,6 +6,4 @@ O Domingo da Quinquagésima é o terceiro dia que precede a Quarta-feira de Cinz
 
 Foi o piedoso Cardeal Gabriel Paleotti, Arcebispo de Bolonha, quem, no século dezesseis, primeiro deu origem à admirável devoção das Quarenta Horas. Seu objetivo nesta solene exposição do Santíssimo Sacramento era oferecer à Divina Majestade alguma compensação pelos pecados do homem, e, no exato momento em que o mundo mais se ocupava em merecer a sua ira, aplacá-la pela vista de seu próprio Filho, o Mediador entre o céu e a terra. O Papa Bento XIV concedeu muitas indulgências a todos os fiéis dos Estados Pontifícios que, durante esses dias, visitassem Nosso Senhor neste mistério de seu amor, e orassem pelo perdão dos pecadores. Este favor, a princípio tão restrito, foi depois estendido pelo Papa Clemente XIII à Igreja Universal. Assim, a Devoção das Quarenta Horas espalhou-se por todo o mundo e tornou-se uma das mais solenes expressões da piedade católica.
 
-## Reflexão
-
-Retiremo-nos, então, por ao menos uma breve hora, da dissipação dos gozos terrenos, e, ajoelhados na presença de nosso Jesus, mereçamos a graça de conservar nossos corações inocentes e desapegados.
+**Reflexão**—Retiremo-nos, então, por ao menos uma breve hora, da dissipação dos gozos terrenos, e, ajoelhados na presença de nosso Jesus, mereçamos a graça de conservar nossos corações inocentes e desapegados.

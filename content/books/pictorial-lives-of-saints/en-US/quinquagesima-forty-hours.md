@@ -6,6 +6,4 @@ Quinquagesima Sunday is the third day preceding Ash Wednesday. That holy season 
 
 It was the pious Cardinal Gabriel Paleotti, Archbishop of Bologna, who, in the sixteenth century, first originated the admirable devotion of the Forty Hours. His object in this solemn exposition of the Most Blessed Sacrament was to offer to the Divine Majesty some compensation for the sins of man, and, at the very time when the world was busiest in deserving His anger, to appease it by the sight of His own Son, the Mediator between heaven and earth. Pope Benedict XIV. granted many indulgences to all the faithful of the Papal States who, during these days, should visit Our Lord in this mystery of His love, and should pray for the pardon of sinners. This favor, at first so restricted, afterward was extended by Pope Clement XIII. to the Universal Church. Thus the Forty Hours' Devotion has spread throughout the whole world and become one of the most solemn expressions of Catholic piety.
 
-## Reflection
-
-Let us then go apart, for at least one short hour, from the dissipation of earthly enjoyments, and, kneeling in the presence of our Jesus, merit the grace to keep our hearts innocent and detached.
+**Reflection**—Let us then go apart, for at least one short hour, from the dissipation of earthly enjoyments, and, kneeling in the presence of our Jesus, merit the grace to keep our hearts innocent and detached.

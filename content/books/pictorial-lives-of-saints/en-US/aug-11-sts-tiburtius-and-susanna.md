@@ -6,6 +6,4 @@ AGRESTIUS CHROMATIUS was vicar to the prefect of Rome, and had condemned several
 
 ST. SUSANNA was nobly born in Rome, and is said to have been niece to Pope Caius. Having made a vow of virginity, she refused to marry, on which account she was impeached as a Christian, and suffered with heroic constancy a cruel martyrdom. St. Susanna suffered towards the beginning of Diocletian's reign, about the year 295.
 
-## Reflection
-
-Sufferings were to the martyrs the most distinguishing mercy, extraordinary graces, and sources of the greatest crowns and glory. All afflictions which God sends are in like manner the greatest mercies and blessings; they are the most precious talents to be improved by us to the increasing of our love and affection to God, and the exercise of the most heroic virtues of self-denial, patience, humility, resignation, and penance.
+**Reflection**—Sufferings were to the martyrs the most distinguishing mercy, extraordinary graces, and sources of the greatest crowns and glory. All afflictions which God sends are in like manner the greatest mercies and blessings; they are the most precious talents to be improved by us to the increasing of our love and affection to God, and the exercise of the most heroic virtues of self-denial, patience, humility, resignation, and penance.

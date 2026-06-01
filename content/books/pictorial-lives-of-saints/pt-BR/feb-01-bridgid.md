@@ -16,6 +16,4 @@ Após setenta anos consagrados à prática das mais sublimes virtudes, as enferm
 
 No século nono, sendo o país devastado pelos dinamarqueses, os restos de Santa Brígida foram removidos a fim de protegê-los da irreverência; e, transferidos para Down-Patrick, foram depositados na mesma sepultura que os do glorioso São Patrício. Os seus corpos, juntamente com o de São Columba, foram depois trasladados para a catedral da mesma cidade, mas o seu monumento foi destruído no reinado do Rei Henrique VIII. A cabeça de Santa Brígida é hoje conservada na igreja dos jesuítas em Lisboa.
 
-## Reflexão
-
-A semelhança exterior com Nossa Senhora foi o privilégio peculiar de Santa Brígida; mas todos estão obrigados a crescer como ela na pureza interior do coração. Esta graça Santa Brígida obteve em grau admirável para as filhas de sua terra natal, e jamais deixará de obtê-la para todos os seus devotos clientes.
+**Reflexão**—A semelhança exterior com Nossa Senhora foi o privilégio peculiar de Santa Brígida; mas todos estão obrigados a crescer como ela na pureza interior do coração. Esta graça Santa Brígida obteve em grau admirável para as filhas de sua terra natal, e jamais deixará de obtê-la para todos os seus devotos clientes.

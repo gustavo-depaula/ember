@@ -1,3 +1,7 @@
 # 22 de abril — SÃO SÓTERO, Papa, Mártir
 
-SÃO SÓTERO foi elevado ao papado por ocasião da morte de Santo Aniceto, em 173. Pela doçura de seus discursos, consolava a todos com a ternura de um pai, e socorria os indigentes com liberais esmolas, especialmente os que sofriam pela fé. Estendia liberalmente suas caridades, segundo o costume de seus predecessores, às igrejas distantes, particularmente à de Corinto, à qual dirigiu uma excelente carta, como testemunha São Dionísio de Corinto em sua carta de agradecimento, que acrescenta que sua carta foi julgada digna de ser lida para edificação deles aos domingos, em suas assembleias para celebrar os divinos mistérios, juntamente com a carta de São Clemente, papa. São Sótero opôs-se vigorosamente à heresia de Montano, e governou a Igreja até o ano 177.
+SÃO SÓTERO foi elevado ao papado por ocasião da morte de Santo Aniceto, em 173. Pela doçura de seus discursos, consolava a todos com a ternura de um pai, e socorria os indigentes com liberais esmolas, especialmente os que sofriam pela fé.
+
+Estendia liberalmente suas caridades, segundo o costume de seus predecessores, às igrejas distantes, particularmente à de Corinto, à qual dirigiu uma excelente carta, como testemunha São Dionísio de Corinto em sua carta de agradecimento, que acrescenta que sua carta foi julgada digna de ser lida para edificação deles aos domingos, em suas assembleias para celebrar os divinos mistérios, juntamente com a carta de São Clemente, papa.
+
+São Sótero opôs-se vigorosamente à heresia de Montano, e governou a Igreja até o ano 177.

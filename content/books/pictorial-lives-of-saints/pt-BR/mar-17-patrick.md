@@ -17,6 +17,4 @@ Muitos pormenores se relatam dos labores de São Patrício, que passamos em sil�
 
 A Irlanda é o viveiro de onde São Patrício enviou seus missionários e mestres. Glastonbury e Lindisfarne, Ripon e Malmesbury, dão testemunho dos labores de sacerdotes e bispos irlandeses pela conversão da Inglaterra. Iona é até hoje o lugar mais venerado da Escócia. Columbano, Fiacre, Galo e muitos outros evangelizaram os "lugares ásperos" da França e da Suíça. A América e a Austrália, nos tempos modernos, devem seu cristianismo à fé e ao zelo dos filhos e filhas de São Patrício.
 
-## Reflexão
-
-Pela instrumentalidade de São Patrício, a Fé está hoje tão viva na Irlanda, mesmo neste frio século dezenove, como quando foi plantada pela primeira vez. Pedi-lhe que vos obtenha a graça especial de seus filhos — preferir a perda de todo bem terreno ao menor compromisso em matéria de fé.
+**Reflexão**—Pela instrumentalidade de São Patrício, a Fé está hoje tão viva na Irlanda, mesmo neste frio século dezenove, como quando foi plantada pela primeira vez. Pedi-lhe que vos obtenha a graça especial de seus filhos — preferir a perda de todo bem terreno ao menor compromisso em matéria de fé.

@@ -8,6 +8,4 @@ Logo surgiu um problema mais grave. Em 448, Flaviano teve de condenar a nascente
 
 A fúria de Dióscoro atingiu o seu auge quando Flaviano apelou para a Santa Sé. Foi então que ele de tal modo se esqueceu de seu ofício apostólico a ponto de lançar mãos violentas sobre o seu adversário. São Flaviano foi atacado por Dióscoro e outros, derrubado, espancado, escoiceado e, por fim, levado ao desterro. Contrastemos os seus fins. Flaviano apegou-se ao ensino do Pontífice Romano, e selou a sua fé com o seu sangue. Dióscoro excomungou o Vigário de Cristo, e morreu obstinado e impenitente na heresia de Êutiques.
 
-## Reflexão
-
-Por sua inabalável lealdade ao Vigário de Cristo, Flaviano apegou-se firmemente à verdade e ganhou a coroa do martírio. Aprendamos com ele a voltar-nos instintivamente para aquele único guia verdadeiro em todas as matérias concernentes à nossa salvação.
+**Reflexão**—Por sua inabalável lealdade ao Vigário de Cristo, Flaviano apegou-se firmemente à verdade e ganhou a coroa do martírio. Aprendamos com ele a voltar-nos instintivamente para aquele único guia verdadeiro em todas as matérias concernentes à nossa salvação.

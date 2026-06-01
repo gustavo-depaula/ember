@@ -4,6 +4,4 @@ O VENERÁVEL BEDA, ilustre ornamento da Igreja anglo-saxônica e primeiro histor
 
 O Santo estava ocupado em traduzir o Evangelho de São João do grego até a hora de sua morte, que se deu no dia da Ascensão de 735. "Passou aquele dia em júbilo," escreve um de seus discípulos. E ao anoitecer o menino que o assistia disse: "Caro mestre, resta ainda uma sentença por escrever." Ele respondeu: "Escreve-a depressa." Logo depois o jovem disse: "Agora está escrita." Ele replicou: "Bem! disseste a verdade — *consummatum est;* toma minha cabeça em tuas mãos, pois é muito agradável para mim sentar-me voltado para meu antigo lugar de oração, e ali invocar meu Pai." E assim, no chão de sua cela, cantou: "Glória ao Pai, ao Filho e ao Espírito Santo"; e logo ao dizer "Espírito Santo", exalou o último suspiro, e foi para as regiões do alto.
 
-## Reflexão
-
-"Quanto mais," diz a Imitação de Cristo, "um homem é unido dentro de si mesmo e interiormente simples, tanto mais e mais profundas coisas compreende sem esforço; pois recebe do alto a luz do entendimento."
+**Reflexão**—"Quanto mais," diz a *Imitação de Cristo*, "um homem é unido dentro de si mesmo e interiormente simples, tanto mais e mais profundas coisas compreende sem esforço; pois recebe do alto a luz do entendimento."

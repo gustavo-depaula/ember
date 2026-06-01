@@ -6,6 +6,4 @@ AGRÉSTIO CROMÁCIO era vigário do prefeito de Roma, e havia condenado vários 
 
 SANTA SUSANA nasceu nobremente em Roma, e diz-se ter sido sobrinha do Papa Caio. Tendo feito um voto de virgindade, recusou-se a casar, motivo pelo qual foi denunciada como cristã, e sofreu com heroica constância um cruel martírio. Santa Susana sofreu por volta do início do reinado de Diocleciano, cerca do ano 295.
 
-## Reflexão
-
-Os sofrimentos foram para os mártires a mais distinta misericórdia, graças extraordinárias, e fontes das maiores coroas e glória. Todas as aflições que Deus envia são, de igual modo, as maiores misericórdias e bênçãos; são os mais preciosos talentos a serem aproveitados por nós para o crescimento de nosso amor e afeição a Deus, e o exercício das mais heroicas virtudes da abnegação, paciência, humildade, resignação, e penitência.
+**Reflexão**—Os sofrimentos foram para os mártires a mais distinta misericórdia, graças extraordinárias, e fontes das maiores coroas e glória. Todas as aflições que Deus envia são, de igual modo, as maiores misericórdias e bênçãos; são os mais preciosos talentos a serem aproveitados por nós para o crescimento de nosso amor e afeição a Deus, e o exercício das mais heroicas virtudes da abnegação, paciência, humildade, resignação, e penitência.

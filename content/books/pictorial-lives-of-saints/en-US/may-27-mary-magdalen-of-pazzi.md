@@ -6,6 +6,4 @@ ST. MARY MAGDALEN OF PAZZI, of an illustrious house in Florence, was born in the
 
 God raised her to high states of prayer, and gave her rare gifts, enabling her to read the thoughts of her novices, and filling her with wisdom to direct them aright. She was twice chosen mistress of novices, and then made superioress, when God took her to Himself, May 25, 1607. Her body is incorrupt.
 
-## Reflection
-
-St. Mary Magdalen of Pazzi was so filled with the love of God that her sisters in the monastery observed it in her love of themselves, and called her "the Mother of Charity" and "the Charity of the Monastery."
+**Reflection**—St. Mary Magdalen of Pazzi was so filled with the love of God that her sisters in the monastery observed it in her love of themselves, and called her "the Mother of Charity" and "the Charity of the Monastery."

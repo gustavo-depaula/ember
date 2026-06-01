@@ -10,6 +10,4 @@ O anjo, para acalmá-la, diz: "Não temas, Maria, pois achaste graça diante de 
 
 Em submissão, portanto, à vontade de Deus, sem nenhuma outra indagação, ela exprime o seu assentimento nestas humildes mas poderosas palavras: "Eis aqui a serva do Senhor; faça-se em mim segundo a Tua palavra." Que fé e que confiança exprime a sua resposta! que profunda humildade e que perfeita obediência!
 
-## Reflexão
-
-Do exemplo da Santíssima Virgem neste mistério, quão ardente amor devemos conceber pela pureza e pela humildade! O Espírito Santo é convidado pela pureza a habitar nas almas, mas é expulso pela imundície do vício contrário. A humildade é o fundamento da vida espiritual. Por ela foi Maria preparada para as graças extraordinárias e todas as virtudes com que foi enriquecida, e para a eminente dignidade de Mãe de Deus.
+**Reflexão**—Do exemplo da Santíssima Virgem neste mistério, quão ardente amor devemos conceber pela pureza e pela humildade! O Espírito Santo é convidado pela pureza a habitar nas almas, mas é expulso pela imundície do vício contrário. A humildade é o fundamento da vida espiritual. Por ela foi Maria preparada para as graças extraordinárias e todas as virtudes com que foi enriquecida, e para a eminente dignidade de Mãe de Deus.

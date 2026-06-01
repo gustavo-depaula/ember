@@ -6,6 +6,4 @@ SANTA EDVIGES, esposa de Henrique, Duque da Silésia, e mãe de seus seis filhos
 
 MARGARIDA MARIA nasceu em Terreau, na Borgonha, em 22 de julho de 1647. Durante sua infância, mostrou um horror maravilhosamente sensível à própria ideia do pecado. Em 1671 entrou na Ordem da Visitação, em Paray-le-Monial, e fez profissão no ano seguinte. Após purificá-la por muitas provações, Jesus apareceu-lhe em numerosas visões, mostrando-lhe Seu Sagrado Coração, ora ardendo como uma fornalha, ora dilacerado e sangrando por causa da frieza e dos pecados dos homens. Em 1675 foi-lhe feita a grande revelação de que ela, em união com o Padre de la Colombière, da Companhia de Jesus, havia de ser o principal instrumento para instituir a festa do Sagrado Coração e para difundir essa devoção por todo o mundo. Morreu em 17 de outubro de 1690.
 
-## Reflexão
-
-O amor pelo Sagrado Coração honra de modo especial a Encarnação, e faz a alma crescer rapidamente em humildade, generosidade, paciência e união com o seu Amado.
+**Reflexão**—O amor pelo Sagrado Coração honra de modo especial a Encarnação, e faz a alma crescer rapidamente em humildade, generosidade, paciência e união com o seu Amado.

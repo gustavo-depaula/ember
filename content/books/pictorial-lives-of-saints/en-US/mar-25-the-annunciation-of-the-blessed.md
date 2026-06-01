@@ -10,6 +10,4 @@ The angel, to calm her, says: "Fear not, Mary, for thou hast found favor before 
 
 In submission, therefore, to God's will, without any further inquiries, she expresses her assent in these humble but powerful words: "Behold the handmaid of the Lord; be it done to me according to Thy word" What faith and confidence does her answer express! what profound humility and perfect obedience!
 
-## Reflection
-
-From the example of the Blessed Virgin in this mystery, how ardent a love ought we to conceive of purity and humility! The Holy Ghost is invited by purity to dwell in souls, but is chased away by the filth of the contrary vice. Humility is the foundation of a spiritual life. By it Mary was prepared for the extraordinary graces and all virtues with which she was enriched, and for the eminent dignity of Mother of God.
+**Reflection**—From the example of the Blessed Virgin in this mystery, how ardent a love ought we to conceive of purity and humility! The Holy Ghost is invited by purity to dwell in souls, but is chased away by the filth of the contrary vice. Humility is the foundation of a spiritual life. By it Mary was prepared for the extraordinary graces and all virtues with which she was enriched, and for the eminent dignity of Mother of God.
