@@ -36,7 +36,7 @@ const artFiles: Record<string, string> = {
   'plan-of-life-template/little-way': 'tpl-little-way.jpg',
   'plan-of-life-template/marian-consecration': 'marian.jpg',
   'plan-of-life-template/sacred-heart': 'sacred-heart.jpg',
-  'plan-of-life-template/divine-mercy': 'divine-mercy.jpg',
+  'plan-of-life-template/divine-mercy': 'tpl-divine-mercy.jpg',
   // Second wave. Carmelite reuses St Teresa; legion-of-mary reuses the Marian
   // Immaculate Conception.
   'plan-of-life-template/carmelite': 'carmelite.jpg',

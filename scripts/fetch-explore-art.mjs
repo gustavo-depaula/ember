@@ -88,6 +88,17 @@ const targets = [
     q: 'Adoration of the Name of Jesus El Greco',
   },
   { id: 'plan-of-life-template/byzantine', slug: 'tpl-byzantine', q: 'Christ Pantocrator Sinai' },
+  // Divine Mercy — the canonical Hyła Image (1943) is still in copyright
+  // (Hyła †1965, PL life+70 expires ~2036). Kazimirowski's 1934 Vilnius Image
+  // — the original painted under Faustina's direct supervision — is in the
+  // public domain (Kazimirowski †1939, PL life+70 expired 2010) and is the
+  // theologically correct choice anyway. Falls back to the Crucifixion if the
+  // PD check on the Kazimirowski file fails.
+  {
+    id: 'plan-of-life-template/divine-mercy',
+    slug: 'tpl-divine-mercy',
+    q: 'Eugeniusz Kazimirowski Divine Mercy Vilnius',
+  },
 
   // Dies Domini — one painting per weekday devotion. The query for each names
   // the canonical pre-1900 PD master for that day's theme.
