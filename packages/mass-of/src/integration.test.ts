@@ -9,10 +9,13 @@ import {
   type FlowContext,
   registerDataSource,
   resolveFlowAsync,
+  type SourceContext,
 } from '@ember/content-engine'
 import { afterAll, beforeAll, describe, expect, it } from 'vitest'
+import { buildMassFlow } from './buildMassFlow'
 import type { MassOfDataSource } from './dataSource'
 import { createMassOfSource } from './source'
+import type { DayLiturgies } from './types'
 
 // Read directly from the vendored ember-extra submodule.
 const BASE_OF_ROOT = resolve(__dirname, '../../../vendor/ember-extra/novus-ordo-missae/data')
@@ -501,5 +504,29 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
       'tempore.solemnity.most-holy-trinity',
     )
     expect(result.some((s) => s.type === 'select')).toBe(false)
+  })
+
+  it('buildMassFlow assembles the celebration body + propers, resolved through the engine (2026-06-14)', async () => {
+    // OT Sunday, Year B — the code-built assembler emits the celebration banner
+    // and the day's proper slots; the engine resolves them against the loaded
+    // day exactly as the static flow.json did.
+    const date = new Date(2026, 5, 14)
+    const sourceCtx: SourceContext = {
+      now: () => date,
+      localize: (t) => ({ primary: t['pt-BR'] ?? t['en-US'] ?? '' }),
+      t: (k) => k,
+      fetchOwnAsset: async () => undefined,
+    }
+    const day = (await createMassOfSource(fixtureDataSource).load({}, sourceCtx)) as DayLiturgies
+
+    const flow = {
+      load: [{ as: 'day', source: 'mass-of', calendar: 'of' }],
+      sections: buildMassFlow(day),
+    }
+    const result = await resolveFlowAsync(flow, makeContext(date), makeEngineContext())
+
+    const json = JSON.stringify(result)
+    expect(json).toContain('celebration-banner')
+    expect(json).toContain('choice-rich-text')
   })
 })
