@@ -118,14 +118,27 @@ Done since the original design (see `docs/journal.md`, 2026-05-31):
 - ✅ **EF precedence from canonical data** — `chooseProperSourceByRank` over the
   generated `ef-ranks.json` (Divinum Officium occurrence values).
 
-The one item that genuinely remains needs the running app to verify safely:
+### Why the code-built `producer/mass` is *not* worth doing
 
-- **Code-built `producer/mass`** emitting `FlowBlock[]` for both forms, retiring
-  the OF `mass/flow.json` fragments and the EF `ProperSlot` path. This changes
-  Mass-rendering UI; the `FlowBlock` output is unit-testable through the engine,
-  but the final visual/interaction layer needs an expo launch to confirm — and
-  the app-level Mass-render tests are themselves broken by unrelated
-  nav-restructure debris. Deferred until verifiable.
+`docs/features/producers.md` lists a code-built `producer/mass` (emitting
+`FlowBlock[]`, retiring `mass/flow.json` + the EF `ProperSlot`) to fix the Mass
+"split-brain". **That split-brain no longer exists**, so the rewrite is now a net
+negative:
+
+- The flow makes **no decisions** — it `load`s `mass-of` and binds to *data*:
+  `celebration.rite`, `celebration.primary.includeGloria`,
+  `celebration.primary.season`, `day.celebrations`, `day.cycle`. The precedence,
+  Gloria, season, and celebration decisions all live in code now
+  (`resolveOfDay`, `deriveIncludeGloria`, `chooseProperSourceByRank`).
+- `flow.json` + the 32 fragments are pure declarative **content** — the Order of
+  Mass text, seasonal blessings, prefaces. That is exactly the kind of thing that
+  *should* be data, not code.
+
+Converting readable declarative liturgical content into imperative
+`FlowBlock`-building TypeScript would remove zero duplication, fix zero bugs, and
+make the content harder to edit. The correct architecture — **decisions in code,
+content in data, the flow binding the two** — is already in place. So this item is
+closed as *won't-do*, not deferred.
 ## Package layering — why it stays three packages
 
 The original "one package for calendar + Mass" idea is **not** advisable: it would
