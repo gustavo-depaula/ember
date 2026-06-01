@@ -36,6 +36,12 @@ export type {
   ResolvedCelebration,
 } from './calendar-types'
 export { type AbstinenceLevel, type DayObligations, getDayObligations } from './obligations'
+export {
+  type OfCelebration,
+  type OfCelebrationKind,
+  type OfDay,
+  resolveOfDay,
+} from './of-day'
 export { applySundaySuppression, compareRank, sortByPrecedence } from './precedence'
 export { formatPsalmRef, formatPsalmRefs, type PsalmRef, parsePsalmRef } from './psalter'
 export { rankColors } from './rank-colors'
