@@ -19,7 +19,8 @@
           "sections": [
             {
               "type": "include",
-              "ref": "producer/mass"
+              "ref": "producer/mass",
+              "params": { "form": "of" }
             }
           ]
         },
@@ -31,32 +32,13 @@
           },
           "sections": [
             {
-              "type": "call",
-              "ref": "ef-form-body"
+              "type": "include",
+              "ref": "producer/mass",
+              "params": { "form": "ef" }
             }
           ]
         }
       ]
     }
-  ],
-  "fragmentSources": [
-    "fragments/ef-form-body.json",
-    "fragments/ef-extraordinary-view.json",
-    "fragments/ef-extraordinary-propers-view.json",
-    "fragments/ef-extraordinary-readings-view.json",
-    "fragments/ef-prayers-at-the-foot-of-the-altar.json",
-    "fragments/ef-kyrie.json",
-    "fragments/ef-gloria.json",
-    "fragments/ef-liturgy-of-the-word.json",
-    "fragments/ef-credo.json",
-    "fragments/ef-offertory.json",
-    "fragments/ef-preface.json",
-    "fragments/ef-canon-of-the-mass.json",
-    "fragments/ef-communion-rite.json",
-    "fragments/ef-dismissal.json",
-    "fragments/ef-last-gospel.json",
-    "fragments/ef-lord-be-with-you.json",
-    "fragments/ef-asperges.json",
-    "fragments/ef-leonine-prayers.json"
   ]
 }

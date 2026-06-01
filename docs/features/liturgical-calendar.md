@@ -118,32 +118,36 @@ Done since the original design (see `docs/journal.md`, 2026-05-31):
 - ✅ **EF precedence from canonical data** — `chooseProperSourceByRank` over the
   generated `ef-ranks.json` (Divinum Officium occurrence values).
 
-### Why the code-built `producer/mass` is *not* worth doing
+### The code-built `producer/mass` (built, form-aware)
 
-`docs/features/producers.md` lists a code-built `producer/mass` (emitting
-`FlowBlock[]`, retiring `mass/flow.json` + the EF `ProperSlot`) to fix the Mass
-"split-brain". **That split-brain no longer exists**, so the rewrite is now a net
-negative:
+A prior pass argued the producer was *won't-do* (the split-brain was already
+fixed; the fragments are good declarative content). The user reversed that: the
+Mass **assembly** is now built in code so `flow.json` is a thin form `select` of
+`{ include: producer/mass, params: { form } }`.
 
-- The flow makes **no decisions** — it `load`s `mass-of` and binds to *data*:
-  `celebration.rite`, `celebration.primary.includeGloria`,
-  `celebration.primary.season`, `day.celebrations`, `day.cycle`. The precedence,
-  Gloria, season, and celebration decisions all live in code now
-  (`resolveOfDay`, `deriveIncludeGloria`, `chooseProperSourceByRank`).
-- `flow.json` + the 32 fragments are pure declarative **content** — the Order of
-  Mass text, seasonal blessings, prefaces. That is exactly the kind of thing that
-  *should* be data, not code.
+- **`buildMassFlow(day)`** (`@ember/mass`) — OF: celebration picker, rite
+  dispatch, seasonal blessing.
+- **`buildEFFlow()`** (`@ember/mass`) — EF: the view switch (Full Mass / Propers
+  Only / Readings Only) + the Order-of-Mass sequence.
+- **`producer/mass`** (`apps/app/src/sources/mass-flow.ts`) dispatches on the
+  include `params.form`; OF loads the day via the `mass-of` DataSource and binds
+  it in `flowData`, EF is slot-centric (no day object). Both fetch the
+  Order-of-Mass content fragments from `liturgical/mass-fragments.json`, resolve
+  the computed flow through the engine, and return primitives.
 
-Converting readable declarative liturgical content into imperative
-`FlowBlock`-building TypeScript would remove zero duplication, fix zero bugs, and
-make the content harder to edit. The correct architecture — **decisions in code,
-content in data, the flow binding the two** — is already in place. So this item is
-closed as *won't-do*, not deferred.
-## Package layering — why it stays three packages
+The liturgical **text** stays declarative — the builders `call` the `of-*` /
+`ef-*` content fragments and emit `proper` slots; only the *assembly/branching*
+moved to code. The four EF assembly fragments (`ef-form-body`,
+`ef-extraordinary-*-view`) are retired; EF propers still resolve per-slot via
+`ProperSlot` (moving that into the producer is a follow-up). See the dev-journal
+entry "Liturgical calendar + Mass: one source-driven authority".
 
-The original "one package for calendar + Mass" idea is **not** advisable: it would
-create a circular dependency. The current layering is a clean DAG and must stay
-that way:
+## Package layering — calendar, engine, and one Mass package
+
+The "one package for calendar + Mass" idea would create a circular dependency, so
+`@ember/liturgical` stays separate. What *was* consolidated (at the user's
+direction): the two Mass packages `mass-of` + `mass-propers` merged into one
+**`@ember/mass`**. The layering is a clean DAG:
 
 ```
 @ember/liturgical      (calendar primitives; depends on nothing internal)
@@ -152,12 +156,11 @@ that way:
 @ember/content-engine  │   (flow engine; depends on liturgical)
         ▲        │
         │        │
-@ember/mass-of / @ember/mass-propers   (Mass sources; depend on BOTH)
+@ember/mass            │   (OF + EF Mass; depends on BOTH)
 ```
 
-`content-engine` imports `@ember/liturgical`; `mass-of` imports *both*
-`@ember/content-engine` and `@ember/liturgical`. Folding `mass-of` into
-`liturgical` would make `liturgical → content-engine → liturgical`. So the
-three packages are correct. The real architectural win — eliminating the
-three-way precedence duplication that caused the bug — is **already done**;
-physical consolidation would regress the dependency graph, not improve it.
+`content-engine` imports `@ember/liturgical`; `mass` imports *both*
+`@ember/content-engine` and `@ember/liturgical`. Folding `mass` into `liturgical`
+would make `liturgical → content-engine → liturgical` — which is why `liturgical`
+can't absorb the Mass code. Merging the two *Mass* packages had no such cycle, so
+they're now one.

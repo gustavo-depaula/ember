@@ -6,7 +6,7 @@ import {
   getDataSource,
   resolveFlowAsync,
 } from '@ember/content-engine'
-import { buildMassFlow, type DayLiturgies } from '@ember/mass'
+import { buildEFFlow, buildMassFlow, type DayLiturgies } from '@ember/mass'
 import type { Primitive } from '@/content/primitives'
 import { getPsalmNumbering } from '@/lib/bolls'
 import { fetchHearth } from '@/lib/hearth'
@@ -26,49 +26,61 @@ function emberLang(lang: string): string {
 }
 
 /**
- * producer/mass — the OF Mass as a code-built flow.
+ * producer/mass — the Mass as a code-built flow, form-aware.
  *
- * The assembly that used to live as nested selects + 32 fragments in
- * `content/practices/mass/flow.json` is now `buildMassFlow` (the celebration
- * picker, rite dispatch, and seasonal blessing — all decided in code). This
- * producer loads the day via the `mass-of` DataSource, fetches the Order-of-Mass
- * content fragments, resolves the computed flow through the engine, and returns
- * the final primitives. The practice's flow.json collapses to
- * `{ include: producer/mass }`.
+ * The assembly that used to live as nested selects + fragments in
+ * `content/practices/mass/flow.json` is now `buildMassFlow` (OF: celebration
+ * picker, rite dispatch, seasonal blessing) and `buildEFFlow` (EF: the view
+ * switch + Order-of-Mass sequence) — all decided in code. The form is passed via
+ * the include `params.form` ('of' | 'ef'). For OF this loads the day via the
+ * `mass-of` DataSource and binds it in flowData; EF is slot-centric (no day
+ * object — propers resolve per-slot at render). Either way it fetches the
+ * Order-of-Mass content fragments, resolves the computed flow through the engine,
+ * and returns the final primitives. The practice's flow.json collapses to a form
+ * `select` of `{ include: producer/mass, params: { form } }`.
  */
 export const massFlowSource: ContentSource<Primitive[]> = {
   id: 'producer/mass',
-  version: '1',
+  version: '2',
   prefsDeps: ['lang', 'translation'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
-    const massOf = getDataSource('mass-of')
-    if (!massOf) return []
-
-    const lang = emberLang(ctx.prefs.lang)
-    const day = (await massOf.load(
-      { calendar: 'of' },
-      {
-        fetchOwnAsset: async () => undefined,
-        localize: (text) => ({
-          primary: typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),
-        }),
-        t: (key) => key,
-        now: () => ctx.date,
-      },
-    )) as DayLiturgies | undefined
-    if (!day?.celebrations?.length) return []
-
+    const form = ctx.params.form === 'ef' ? 'ef' : 'of'
     const { fragments } = await fetchHearth<MassFragments>('liturgical/mass-fragments.json')
 
-    const flow: FlowDefinition = { fragments, sections: buildMassFlow(day) }
-    // Preset `day` in flowData so the select/banner/slots bind to it without a
-    // second load step.
+    let sections: FlowSection[]
+    let flowData: Record<string, unknown> = {}
+    if (form === 'ef') {
+      sections = buildEFFlow()
+    } else {
+      const massOf = getDataSource('mass-of')
+      if (!massOf) return []
+      const lang = emberLang(ctx.prefs.lang)
+      const day = (await massOf.load(
+        { calendar: 'of' },
+        {
+          fetchOwnAsset: async () => undefined,
+          localize: (text) => ({
+            primary:
+              typeof text === 'string' ? text : ((text as Record<string, string>)[lang] ?? ''),
+          }),
+          t: (key) => key,
+          now: () => ctx.date,
+        },
+      )) as DayLiturgies | undefined
+      if (!day?.celebrations?.length) return []
+      sections = buildMassFlow(day)
+      // Preset `day` in flowData so the select/banner/slots bind to it without a
+      // second load step.
+      flowData = { day }
+    }
+
+    const flow: FlowDefinition = { fragments, sections }
     const flowContext: FlowContext = {
       date: ctx.date,
-      liturgicalCalendar: 'of',
+      liturgicalCalendar: form,
       numbering: getPsalmNumbering(ctx.prefs.translation),
-      flowData: { day },
+      flowData,
     }
     const [{ preprocessFlow }, { createEngineContext, withSpiritualThreads }] = await lazyEngine()
     const ec = withSpiritualThreads(

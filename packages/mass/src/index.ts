@@ -1,8 +1,10 @@
 // ── Ordinary Form ──
+
+// ── Extraordinary Form (Divinum Officium propers) ──
+export { buildEFFlow } from './buildEFFlow'
 export { buildMassFlow } from './buildMassFlow'
 export { pickCycle } from './calendar'
 export type { MassOfDataSource } from './dataSource'
-// ── Extraordinary Form (Divinum Officium propers) ──
 export * from './ef'
 export { createMassOfSource } from './source'
 export type {
