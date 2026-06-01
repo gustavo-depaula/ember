@@ -90,9 +90,18 @@ choices (saint vs weekday) as separate top-level options. The app's
 The EF side is already singly-authored (it never had the OF duplication): the EF
 display calendar is `buildYearCalendar(form: 'ef')` over `entries.json`'s EF half,
 and the EF Mass (`@ember/mass-propers`) maps date → Divinum Officium file-id
-(`do-file-id.ts`) → parsed propers in `content/propers/`, choosing tempora vs
-sancti from `dayCalendar.principal.entry.category`. Rendered via `ProperSlot` +
-the static `ef-*.json` flow fragments.
+(`do-file-id.ts`) → parsed propers in `content/propers/`.
+
+The EF Mass's **tempora-vs-sancti choice is data-driven from Divinum Officium's
+own occurrence values** (mirroring how the OF Mass now derives precedence from
+canonical data). `scripts/build-ef-ranks.mjs` extracts every Mass day's `[Rank]`
+number — the 1962/`rubrica 1960` value (Feria 1, Duplex 3, Sunday 6.9, Duplex I
+classis 6.5) — into `content/propers/ef-ranks.json`, and `chooseProperSourceByRank`
+picks the higher-ranked celebration's Mass. This replaces the old reliance on the
+hand-authored `entries.json` *category*; the precedence is now DO's data, not an
+invented rubric. (`loadRanks` is optional on `PropersDataSource`, so callers
+without the index fall back to the category heuristic.) Rendered via `ProperSlot`
++ the static `ef-*.json` flow fragments.
 
 ## Holy days of obligation
 
@@ -102,15 +111,21 @@ them), which is one reason the display calendar stays curated.
 
 ## Staged / not yet done
 
-The following were designed (see `docs/journal.md`, 2026-05-31) but are deferred
-because they change Mass-rendering UI or encode EF rubrics that need the running
-app / reference data to verify safely:
+Done since the original design (see `docs/journal.md`, 2026-05-31):
 
-- **EF calendar generation** from Divinum Officium (extend `parse-do-propers.ts`
-  to keep the `[Rank]` lines it currently discards at line 302 + parse
-  `Tabulae/Kalendaria`), giving EF a `resolveEfDay` mirror.
+- ✅ **OF precedence from canonical data** — `resolveOfDay` over the generated
+  `of-calendar.json`; bifurcation bug fixed; full-year GIRM tests.
+- ✅ **EF precedence from canonical data** — `chooseProperSourceByRank` over the
+  generated `ef-ranks.json` (Divinum Officium occurrence values).
+
+The one item that genuinely remains needs the running app to verify safely:
+
 - **Code-built `producer/mass`** emitting `FlowBlock[]` for both forms, retiring
-  the split-brain `mass/flow.json` fragments and the EF `ProperSlot` path.
+  the OF `mass/flow.json` fragments and the EF `ProperSlot` path. This changes
+  Mass-rendering UI; the `FlowBlock` output is unit-testable through the engine,
+  but the final visual/interaction layer needs an expo launch to confirm — and
+  the app-level Mass-render tests are themselves broken by unrelated
+  nav-restructure debris. Deferred until verifiable.
 ## Package layering — why it stays three packages
 
 The original "one package for calendar + Mass" idea is **not** advisable: it would
