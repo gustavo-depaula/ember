@@ -319,6 +319,13 @@ export type FlowSection = { lang?: string } & (
       pickerStyle?: PickerStyle
       // Suppress the renderer-derived heading when an outer `subheading` already names the slot.
       hideLabel?: boolean
+      // Static people's response rendered between the slot's `introduction`
+      // and `body`. Used on the Gospel slot, where the missal places the
+      // people's "Glory to you, O Lord." response immediately after the
+      // priest's "✠ A reading from the holy Gospel..." announcement.
+      // The slot's own `response` field still renders after `conclusion`
+      // (the post-body "Praise to you, Lord Jesus Christ" response).
+      precedingResponse?: LocalizedText
     }
 )
 
@@ -465,6 +472,7 @@ export type RenderedSection =
       selectedId?: string
       pickerStyle?: PickerStyle
       hideLabel?: boolean
+      precedingResponse?: BilingualText
       options: {
         id: string
         label: BilingualText

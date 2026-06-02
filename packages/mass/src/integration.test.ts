@@ -693,4 +693,171 @@ describe('integration: mass-of + engine + ember-extra fixtures', () => {
     expect(headings.length).toBe(1)
     expect((headings[0] as { text: { primary: string } }).text.primary).toBe('sanctorale.06-24')
   })
+
+  it('on a ferial day with an optional memorial, the saint Mass surfaces the ferial readings as an alternate', async () => {
+    // 2026-06-02 — Sts Marcellinus & Peter (optional memorial) on a Tuesday OT
+    // week 9. The saint formulary has no proper readings, so when the user
+    // picks the saint Mass the choice-rich-text resolver must fall through to
+    // the ferial formulary (passed as an alternate) and surface that day's
+    // first reading under a "Tmp" chip.
+    const date = new Date(2026, 5, 2)
+    const day = (await getDataSource('mass-of')!.load(
+      { calendar: 'of' },
+      {
+        fetchOwnAsset: async () => undefined,
+        localize: (text) => ({ primary: (text as Record<string, string>)['pt-BR'] ?? '' }),
+        t: (key) => key,
+        now: () => date,
+      },
+    )) as DayLiturgies
+
+    // Sanity: the day has both the saint AND the ferial as separate celebrations.
+    const ids = day.celebrations.map((c) => c.id)
+    expect(ids).toContain('sanctorale.06-02')
+    expect(ids).toContain('tempore.ordinary-time.week-9.tuesday')
+
+    const saint = day.celebrations.find((c) => c.id === 'sanctorale.06-02')!
+    expect(saint.alternates.map((a) => a.id)).toContain('tempore.ordinary-time.week-9.tuesday')
+
+    // Resolve a flow that picks the saint celebration as default and asks for
+    // its First Reading via the cycle-bound slot.
+    const flow = {
+      fragments: {},
+      sections: [
+        {
+          type: 'select' as const,
+          from: 'day.celebrations',
+          as: 'celebration',
+          idFrom: 'id',
+          labelFrom: 'title',
+          default: 'sanctorale.06-02',
+          hideIfSingle: true,
+          body: [
+            {
+              type: 'choice-rich-text' as const,
+              label: { 'pt-BR': 'Primeira Leitura' },
+              slot: 'readings.{{day.cycle}}.firstReading',
+            },
+            {
+              type: 'choice-rich-text' as const,
+              label: { 'pt-BR': 'Evangelho' },
+              slot: 'readings.{{day.cycle}}.gospel',
+            },
+          ],
+        },
+      ],
+    }
+    const context: FlowContext = { date, flowData: { day } }
+    const result = await resolveFlowAsync(flow, context, makeEngineContext())
+
+    type RichTextSelect = {
+      type: 'select'
+      options: {
+        id: string
+        sections: { type: string; options: { body: { primary: string } }[] }[]
+      }[]
+    }
+    const celebSelect = result[0] as unknown as RichTextSelect
+    expect(celebSelect.type).toBe('select')
+    // The saint Mass branch must carry readings (sourced from the ferial alternate).
+    const saintBranch = celebSelect.options.find((o) => o.id === 'sanctorale.06-02')!
+    const firstReading = saintBranch.sections.find(
+      (s): s is { type: 'choice-rich-text'; options: { body: { primary: string } }[] } =>
+        s.type === 'choice-rich-text',
+    )
+    expect(firstReading).toBeDefined()
+    expect(firstReading!.options.length).toBeGreaterThan(0)
+    expect(firstReading!.options.some((o) => o.body.primary.length > 0)).toBe(true)
+  })
+
+  it('Readings Only tab on a memorial/ferial day renders the ferial readings (2026-06-02)', async () => {
+    // The user-facing bug: on a Tuesday OT-week-9 with an optional memorial
+    // saint, the "Leituras" tab was rendering empty even when the ferial Mass
+    // was selected. Verify the View switcher's Readings branch surfaces real
+    // reading content for the ferial.
+    const date = new Date(2026, 5, 2)
+    const day = (await getDataSource('mass-of')!.load(
+      { calendar: 'of' },
+      {
+        fetchOwnAsset: async () => undefined,
+        localize: (text) => ({ primary: (text as Record<string, string>)['pt-BR'] ?? '' }),
+        t: (key) => key,
+        now: () => date,
+      },
+    )) as DayLiturgies
+    const flow = { fragments: {}, sections: buildMassFlow(day) }
+    const context: FlowContext = { date, flowData: { day } }
+    const result = await resolveFlowAsync(flow, context, makeEngineContext())
+
+    type ViewSelect = { options: { id: string; sections: unknown[] }[] }
+    const findFirstViewSelect = (node: unknown): ViewSelect | undefined => {
+      if (!node || typeof node !== 'object') return undefined
+      if (Array.isArray(node)) {
+        for (const n of node) {
+          const hit = findFirstViewSelect(n)
+          if (hit) return hit
+        }
+        return undefined
+      }
+      const obj = node as Record<string, unknown>
+      if (
+        obj.type === 'select' &&
+        Array.isArray(obj.options) &&
+        (obj.options as { id?: string }[]).some((o) => o.id === 'ordinary-readings')
+      ) {
+        return obj as unknown as ViewSelect
+      }
+      for (const value of Object.values(obj)) {
+        const hit = findFirstViewSelect(value)
+        if (hit) return hit
+      }
+      return undefined
+    }
+
+    // Verify both the saint-Mass branch and the ferial-Mass branch each have a
+    // populated Readings tab. Walk the celebration select's options.
+    type CelebSelect = { options: { id: string; sections: unknown[] }[] }
+    const findCelebSelect = (node: unknown): CelebSelect | undefined => {
+      if (!node || typeof node !== 'object') return undefined
+      if (Array.isArray(node)) {
+        for (const n of node) {
+          const hit = findCelebSelect(n)
+          if (hit) return hit
+        }
+        return undefined
+      }
+      const obj = node as Record<string, unknown>
+      if (
+        obj.type === 'select' &&
+        Array.isArray(obj.options) &&
+        (obj.options as { id?: string }[]).some(
+          (o) => (o.id ?? '').startsWith('tempore.') || (o.id ?? '').startsWith('sanctorale.'),
+        )
+      ) {
+        return obj as unknown as CelebSelect
+      }
+      for (const value of Object.values(obj)) {
+        const hit = findCelebSelect(value)
+        if (hit) return hit
+      }
+      return undefined
+    }
+
+    const celebSelect = findCelebSelect(result)
+    expect(celebSelect).toBeDefined()
+    const ferialBranch = celebSelect!.options.find((o) =>
+      o.id.startsWith('tempore.ordinary-time.week-9.tuesday'),
+    )
+    expect(ferialBranch).toBeDefined()
+
+    const view = findFirstViewSelect(ferialBranch!.sections)
+    expect(view).toBeDefined()
+    const readingsTab = view!.options.find((o) => o.id === 'ordinary-readings')!
+    const richTexts = (readingsTab.sections as { type: string }[]).filter(
+      (s): s is { type: 'choice-rich-text'; options: { body: { primary: string } }[] } =>
+        s.type === 'choice-rich-text',
+    )
+    expect(richTexts.length).toBeGreaterThan(0)
+    expect(richTexts.some((rt) => rt.options.some((o) => o.body.primary.length > 0))).toBe(true)
+  })
 })

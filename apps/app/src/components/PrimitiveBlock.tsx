@@ -223,6 +223,7 @@ function renderContainer(
           selectedId={behavior.selectedId}
           pickerStyle={behavior.pickerStyle}
           hideLabel={behavior.hideLabel}
+          precedingResponse={behavior.precedingResponse}
           options={behavior.options}
           onSelect={(id) => onSelectOverride(behavior.overrideKey, id)}
         />
