@@ -298,6 +298,9 @@ export function resolveChoiceRichText(
       selectedId,
       ...(section.pickerStyle ? { pickerStyle: section.pickerStyle } : {}),
       ...(section.hideLabel ? { hideLabel: true } : {}),
+      ...(section.precedingResponse
+        ? { precedingResponse: ec.localize(section.precedingResponse) }
+        : {}),
       options,
     },
   ]

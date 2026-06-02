@@ -253,12 +253,19 @@ export function createMassOfSource(data: MassOfDataSource): DataSource {
       const day = resolveOfDay(date, await loadOfCalendar())
 
       // The unified resolver decides precedence; we just build the Mass(es) it
-      // selects. Each is self-contained (no cross-Mass alternates) — the flow's
-      // top-level picker lets the celebrant choose between legitimate options
-      // (e.g. saint vs weekday on a memorial day), never mixing readings.
+      // selects. The top-level picker lets the celebrant choose between
+      // legitimate options (saint vs weekday on a memorial day). On a
+      // memorial/ferial day, the sanctoral formulary rarely ships its own
+      // readings — the rubric assumes the ferial-day lectionary is used. We
+      // therefore pass the temporal formulary id as an `alternate` on the
+      // sanctoral celebration so the choice-rich-text slot resolver finds
+      // readings under the ferial alternate when the saint formulary is silent.
+      const ids = celebrationFormularyIds(day)
+      const temporalAlternates = ids.filter((id) => id.startsWith('tempore.'))
       const celebrations: Celebration[] = []
-      for (const id of celebrationFormularyIds(day)) {
-        const c = await buildCelebration(id, [])
+      for (const id of ids) {
+        const alts = id.startsWith('tempore.') ? [] : temporalAlternates.filter((t) => t !== id)
+        const c = await buildCelebration(id, alts)
         if (c) celebrations.push(c)
       }
 

@@ -72,10 +72,6 @@
         "hideLabel": true
       },
       {
-        "type": "call",
-        "ref": "of-lord-be-with-you"
-      },
-      {
         "type": "subheading",
         "text": {
           "en-US": "Gospel",
@@ -85,17 +81,19 @@
       {
         "type": "rubric",
         "text": {
-          "en-US": "The Priest opens the book and, with hands joined, says the greeting. Then he makes the Sign of the Cross with his thumb on the book and on his forehead, mouth, and breast, which everyone else does as well.",
-          "pt-BR": "O sacerdote abre o livro e, de mãos juntas, diz a saudação. Depois faz o Sinal da Cruz com o polegar sobre o livro, na fronte, na boca e no peito, e todos fazem o mesmo."
+          "en-US": "The Priest, at the ambo, joins his hands and greets the people.",
+          "pt-BR": "O sacerdote, no ambão, de mãos juntas, saúda o povo."
         }
       },
       {
-        "type": "prayer",
-        "speaker": "people",
-        "inline": {
-          "en-US": "Glory to you, O Lord.",
-          "la": "Glória tibi, Dómine.",
-          "pt-BR": "Glória a vós, Senhor."
+        "type": "call",
+        "ref": "of-lord-be-with-you"
+      },
+      {
+        "type": "rubric",
+        "text": {
+          "en-US": "The Priest then announces the Gospel, making the Sign of the Cross with his thumb on the book and on his forehead, mouth, and breast, which everyone else does as well. The people respond after the announcement.",
+          "pt-BR": "Em seguida o sacerdote anuncia o Evangelho, fazendo o Sinal da Cruz com o polegar sobre o livro, na fronte, na boca e no peito, e todos fazem o mesmo. O povo responde após o anúncio."
         }
       },
       {
@@ -105,7 +103,12 @@
           "pt-BR": "Evangelho do dia"
         },
         "slot": "readings.{{day.cycle}}.gospel",
-        "hideLabel": true
+        "hideLabel": true,
+        "precedingResponse": {
+          "en-US": "℟. Glory to you, O Lord.",
+          "la": "℟. Glória tibi, Dómine.",
+          "pt-BR": "℟. Glória a vós, Senhor."
+        }
       },
       {
         "type": "subheading",

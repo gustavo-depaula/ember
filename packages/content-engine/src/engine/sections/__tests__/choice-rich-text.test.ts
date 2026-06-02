@@ -257,4 +257,57 @@ describe('resolveFlow — choice-rich-text (per-slot picker)', () => {
       },
     ])
   })
+
+  it('passes through precedingResponse (localized) on the rendered section', () => {
+    // The Gospel slot uses precedingResponse to render the people's "Glory to
+    // you, O Lord." between the priest's introduction and the body. Verify
+    // the engine localizes the field and forwards it on the rendered output.
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Evangelho' },
+        slot: 'gospel',
+        precedingResponse: {
+          'en-US': '℟. Glory to you, O Lord.',
+          'pt-BR': '℟. Glória a vós, Senhor.',
+        },
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              gospel: { body: { plain: { 'pt-BR': 'Naquele tempo...' } } },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    expect(choice.precedingResponse?.primary).toBe('℟. Glória a vós, Senhor.')
+  })
+
+  it('omits precedingResponse when not set on the input section', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'choice-rich-text',
+        label: { 'pt-BR': 'Coleta' },
+        slot: 'collect',
+      }),
+      makeContext({
+        flowData: {
+          celebration: {
+            primary: {
+              source: 'tempore',
+              collect: { body: { plain: { 'pt-BR': 'Pai nosso...' } } },
+            },
+          },
+        },
+      }),
+      makeEngineContext(),
+    )
+    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
+    expect(choice.precedingResponse).toBeUndefined()
+  })
 })

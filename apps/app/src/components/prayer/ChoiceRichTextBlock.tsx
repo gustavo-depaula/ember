@@ -41,6 +41,7 @@ export function ChoiceRichTextBlock({
   onSelect,
   pickerStyle = 'chips',
   hideLabel = false,
+  precedingResponse,
 }: {
   label: BilingualText
   selectedId?: string
@@ -48,6 +49,12 @@ export function ChoiceRichTextBlock({
   onSelect: (optionId: string) => void
   pickerStyle?: PickerStyle
   hideLabel?: boolean
+  // Static people's response rendered between `introduction` and `body`.
+  // Used on the Gospel slot for the missal's "℟. Glory to you, O Lord."
+  // (the people's response immediately after the priest's announcement).
+  // Doesn't replace the slot's own `response` field, which still renders
+  // after `conclusion` (the post-body "Praise to you, Lord Jesus Christ").
+  precedingResponse?: BilingualText
 }) {
   // All option bodies are always built (the picker needs them), so switching is
   // a local toggle — no re-resolution, which is what lets a cached producer emit
@@ -79,6 +86,7 @@ export function ChoiceRichTextBlock({
           {opt.introduction.primary}
         </PrayerText>
       )}
+      {precedingResponse && <PrayerText>{precedingResponse.primary}</PrayerText>}
       <RichTextBody body={opt.body} />
       {opt.conclusion && (
         <PrayerText color="$colorBurgundy" fontStyle="italic">

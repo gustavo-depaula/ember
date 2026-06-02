@@ -276,6 +276,7 @@ async function preprocessSection(
           selectedId: section.selectedId,
           pickerStyle: section.pickerStyle,
           hideLabel: section.hideLabel,
+          precedingResponse: section.precedingResponse,
           options: section.options,
         },
       }

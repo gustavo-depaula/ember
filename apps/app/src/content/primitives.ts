@@ -200,6 +200,7 @@ export type ContainerBehavior =
       selectedId?: string
       pickerStyle?: PickerStyle
       hideLabel?: boolean
+      precedingResponse?: BilingualText
       options: ChoiceRichTextOption[]
     }
 
