@@ -12,13 +12,13 @@
 
 > ^34:3^ And you shall not escape out of his hand, but you shall surely be captured, and you shall be handed over into his hand; and your eyes shall see the eyes of the king of Babylon, and his mouth shall speak with your mouth, and you shall go to Babylon.
 
-> ^34:4^ Yet hear the word of the Lord, O Zedekiah, king of Judah: thus says the Lord unto you:Heb. עָלֶ֔יךָ: *concerning you*. you shall not die by the sword.
+> ^34:4^ Yet hear the word of the Lord, O Zedekiah, king of Judah: thus says the Lord unto you: *(Heb. עָלֶ֔יךָ: *concerning you*.)* you shall not die by the sword.
 
-> ^34:5^ But you shall die in peace, and according to the burnings of your fathers, the former kings that were before you, so shall they burn you:Heb. יִשְׂרְפוּ־לָ֔ךְ: *they shall burn (incense) for you*. and they shall mourn for you, saying, ‘Alas, lord!’ For I have spoken the word, says the Lord.
+> ^34:5^ But you shall die in peace, and according to the burnings of your fathers, the former kings that were before you, so shall they burn you: *(Heb. יִשְׂרְפוּ־לָ֔ךְ: *they shall burn (incense) for you*.)* and they shall mourn for you, saying, ‘Alas, lord!’ For I have spoken the word, says the Lord.
 
 > ^34:6^ And Jeremiah the prophet spoke all these words to Zedekiah, king of Judah in Jerusalem.
 
-> ^34:7^ And the army of the king of Babylon fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azeka; for these remained of the cities of Judah, walled cities.Heb. עָרֵ֥י מִבְצָֽר: *cities of fortification*.
+> ^34:7^ And the army of the king of Babylon fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azeka; for these remained of the cities of Judah, walled cities. *(Heb. עָרֵ֥י מִבְצָֽר: *cities of fortification*.)*
 
 > **184**. Because the Jews were so obstinate, inasmuch as they were neither frightened by severity nor turned by gladness, he rightly sets forth his threat and consolation, and, for the third time, the contradiction of those who were listening:
 
@@ -60,11 +60,11 @@ Lecture 2
 
 ***Liberation of Hebrew slaves***
 
-^34:8^ The word that came to Jeremiah from the Lord, after king Zedekiah had made a covenant with all the people in Jerusalem making a proclamation:Heb. לִקְרֹ֥א לָהֶ֖ם דְּרֹֽור: *to proclaim liberty to them*.  
+^34:8^ The word that came to Jeremiah from the Lord, after king Zedekiah had made a covenant with all the people in Jerusalem making a proclamation: *(Heb. לִקְרֹ֥א לָהֶ֖ם דְּרֹֽור: *to proclaim liberty to them*.)*  
 
-> ^34:9^ that every man should let his manservant, and every man his maidservant, who is a Hebrew man or a Hebrew woman, go free; and that they should not have dominion over them, that is, over the Jews their brethren.Heb. לְבִלְתִּ֧י עֲבָד־בָּ֛ם בִּיהוּדִ֥י אָחִ֖יהוּ אִֽישׁ: *that no one among the Jews should serve his brother*.
+> ^34:9^ that every man should let his manservant, and every man his maidservant, who is a Hebrew man or a Hebrew woman, go free; and that they should not have dominion over them, that is, over the Jews their brethren. *(Heb. לְבִלְתִּ֧י עֲבָד־בָּ֛ם בִּיהוּדִ֥י אָחִ֖יהוּ אִֽישׁ: *that no one among the Jews should serve his brother*.)*
 
-> ^34:10^ And all the princes and all the people who entered into the covenant heard that every man should let his manservant, and every man his maidservant go free, and that they should no more have mastery over them:Heb. לְבִלְתִּ֥י עֲבָד־בָּ֖ם עֹ֑וד: *that he should serve them anymore*. and they obeyed, and let them go free.
+> ^34:10^ And all the princes and all the people who entered into the covenant heard that every man should let his manservant, and every man his maidservant go free, and that they should no more have mastery over them: *(Heb. לְבִלְתִּ֥י עֲבָד־בָּ֖ם עֹ֑וד: *that he should serve them anymore*.)* and they obeyed, and let them go free.
 
 > ^34:11^ But afterwards they turned and brought back again their manservants and their maidservants, whom they had set free, and brought them into subjection as menservants and maidservants.
 
@@ -94,11 +94,11 @@ Lecture 3
 
 > ^34:15^ And you turned today, and did that which was upright in my eyes, in proclaiming liberty, every one to his brother; and you made a covenant before me, in the house upon which my name is called.
 
-> ^34:16^ But you have turned back and have polluted my name; and each one of you has brought back his manservant, and each one his maidservant, whom you released that they should be free, and under their own power,Heb. אֲשֶׁר־שִׁלַּחְתֶּ֥ם חָפְשִׁ֖ים לְנַפְשָׁ֑ם: *whom you sent out free, according to their own soul*. and you have subjugated them to be your manservants and your maidservants.
+> ^34:16^ But you have turned back and have polluted my name; and each one of you has brought back his manservant, and each one his maidservant, whom you released that they should be free, and under their own power, *(Heb. אֲשֶׁר־שִׁלַּחְתֶּ֥ם חָפְשִׁ֖ים לְנַפְשָׁ֑ם: *whom you sent out free, according to their own soul*.)* and you have subjugated them to be your manservants and your maidservants.
 
 > ^34:17^ Therefore, thus says the Lord: you have not hearkened to me, that each man should proclaim liberty to his brother, and each man to his friend. Behold, says the Lord, I proclaim freedom to the sword, and the plague, and the famine, and I shall make you a terror to all the kingdoms of the earth.
 
-> ^34:18^ And I shall give the men that have transgressed my covenant, and have not observed the words of the covenant to which they gave their assent in my presence,Heb. אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י: *which they made before me*. when they cut the calf in two and passed between the parts thereof:
+> ^34:18^ And I shall give the men that have transgressed my covenant, and have not observed the words of the covenant to which they gave their assent in my presence, *(Heb. אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י: *which they made before me*.)* when they cut the calf in two and passed between the parts thereof:
 
 > ^34:19^ the princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land that passed between the parts of the calf:
 
@@ -122,7 +122,7 @@ Second, he threatens punishment: ***therefore, thus says the Lord***. And concer
 
 First, he gives the punishment communally with regard to everyone when he predicts slaughter: ***behold, I proclaim freedom***, that you should be freely killed. Above: ***those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity*** (Jer 15:2).  
 
-And the bondage of those who remain: ***and I shall give the men . . . the calf***, that is, the covenant which they established by the division of a calf offered in sacrifice to God.Reminiscent of Abraham’s covenant of the parts; cf. Genesis 15:1–15. This manner of speaking, “to strike a covenant” (*percutere foedus* or *ferire foedus*) grew up from this custom.*Percutere* or *ferire* by themselves can mean “to strike,” “to cut,” “to slay,” etc., but when they take *foedus*, “covenant,” as an object, they signify making a pact or treaty, for an animal was often slain to ratify such an event. The idiom is the same in Hebrew as well. *The Lord gave me into a hand from which I shall not be able to escape* (Lam 1:14).  
+And the bondage of those who remain: ***and I shall give the men . . . the calf***, that is, the covenant which they established by the division of a calf offered in sacrifice to God. *(Reminiscent of Abraham’s covenant of the parts; cf. Genesis 15:1–15.)* This manner of speaking, “to strike a covenant” (*percutere foedus* or *ferire foedus*) grew up from this custom. *(*Percutere* or *ferire* by themselves can mean “to strike,” “to cut,” “to slay,” etc., but when they take *foedus*, “covenant,” as an object, they signify making a pact or treaty, for an animal was often slain to ratify such an event. The idiom is the same in Hebrew as well.)* *The Lord gave me into a hand from which I shall not be able to escape* (Lam 1:14).  
 
 He predicts also that their dead bodies shall be devoured: ***and their dead bodies shall be for meat to the birds of the air***. *They made the bodies of your servants food for the birds of the sky, and meat for the beasts of the earth* (Ps 78:2).  
 

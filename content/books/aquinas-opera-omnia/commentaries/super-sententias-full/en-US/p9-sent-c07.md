@@ -2,13 +2,13 @@
 
 ***The marital debt***
 
-After the Master has considered the goods of the union by which the marital act is excused, here he considers the act itself according as it takes on the character of something owed through the goods of the union; and this is divided into two parts: in the first he shows that both of the spouses are bound to render the debt to each other; and in the second he shows that requesting the debt is impeded by a solemn time, at: *and although the debt is always to be satisfied to one asking for it, yet it is not lawful to ask every day*.*Sententiae* IV, 32.3 (192). 1.  
+After the Master has considered the goods of the union by which the marital act is excused, here he considers the act itself according as it takes on the character of something owed through the goods of the union; and this is divided into two parts: in the first he shows that both of the spouses are bound to render the debt to each other; and in the second he shows that requesting the debt is impeded by a solemn time, at: *and although the debt is always to be satisfied to one asking for it, yet it is not lawful to ask every day*. *(*Sententiae* IV, 32.3 (192). 1.)*  
 
-The first part is divided into two: in the first part he shows that husband and wife are equals in the rendering of the debt; second, he proves a certain thing which had been supposed, at: *that the husband may not practice continence without the wife’s consent is proved by the testimonies below*.*Sent*. IV, 32.2 (191). 1.  
+The first part is divided into two: in the first part he shows that husband and wife are equals in the rendering of the debt; second, he proves a certain thing which had been supposed, at: *that the husband may not practice continence without the wife’s consent is proved by the testimonies below*. *(*Sent*. IV, 32.2 (191). 1.)*  
 
-*And although the debt is always to be satisfied to one asking for it, yet it is not lawful to ask every day*. Here he considers the times in which the marital act is forbidden, and regarding this he does two things: first, he shows that a certain time impedes the requesting of the debt; second, he shows that something may also impede the celebration of marriage, at: *times are to be observed not only with regard to the work of the flesh, but also in the celebration of nuptials*.*Sent*. IV, 32.4 (193). 1.  
+*And although the debt is always to be satisfied to one asking for it, yet it is not lawful to ask every day*. Here he considers the times in which the marital act is forbidden, and regarding this he does two things: first, he shows that a certain time impedes the requesting of the debt; second, he shows that something may also impede the celebration of marriage, at: *times are to be observed not only with regard to the work of the flesh, but also in the celebration of nuptials*. *(*Sent*. IV, 32.4 (193). 1.)*  
 
-About the first he does two things: first, he shows the truth; second, he excludes a certain objection, at: *as for what was said earlier, that to render the debt is not a sin, it seems to be contradicted by what Jerome says*.*Sent*. IV, 32.3 (192). 2.  
+About the first he does two things: first, he shows the truth; second, he excludes a certain objection, at: *as for what was said earlier, that to render the debt is not a sin, it seems to be contradicted by what Jerome says*. *(*Sent*. IV, 32.3 (192). 2.)*  
 
 Question 1  
 
@@ -25,13 +25,13 @@ first, whether both spouses are always bound to render the debt to each other by
 - Article 1
 Whether both spouses are always bound to render the debt to each other by the necessity of a precept  
 
-Obj. 1: To the first question, we proceed thus.Parallel: below, a. 4; *Super I Cor.* 7, lec. 1. Proceeding to the first, it seems that one spouse is not bound to pay the debt to the other spouse by the necessity of a precept. For no one is prohibited from partaking of the Eucharist on account of having fulfilled a precept. But he who pays the debt to his wife is not permitted to eat the flesh of the Lamb, as Jerome says in the text.Jerome, *De exodo, in vigilia Paschae* (CCSL 78:540). Therefore, to pay the debt is not of the necessity of precept.  
+Obj. 1: To the first question, we proceed thus. *(Parallel: below, a. 4; *Super I Cor.* 7, lec. 1.)* Proceeding to the first, it seems that one spouse is not bound to pay the debt to the other spouse by the necessity of a precept. For no one is prohibited from partaking of the Eucharist on account of having fulfilled a precept. But he who pays the debt to his wife is not permitted to eat the flesh of the Lamb, as Jerome says in the text. *(Jerome, *De exodo, in vigilia Paschae* (CCSL 78:540).)* Therefore, to pay the debt is not of the necessity of precept.  
 
 Obj. 2: Furthermore, anyone can licitly abstain from those things that are harmful to his person. But sometimes, to render the debt to the one asking might be injurious to the person, either by reason of infirmity, or by reason of payment already made. Therefore, it seems that the debt may licitly be denied to the one asking.  
 
 Obj. 3: Furthermore, anyone who makes himself powerless to do what he is bound to do by a precept, sins. If, therefore, someone were bound to pay the debt by necessity of a precept, it seems that he would sin if, due to fasting or any other weakening of his body, he rendered himself powerless to pay the debt; which does not seem to be true.  
 
-Obj. 4: Furthermore, marriage, according to the Philosopher, is ordained to the procreation and education of children, as well as to a shared life.Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a15ff.). But leprosy is contrary to both ends of marriage, because, since it is a contagious disease, a woman is not bound to live together with a leper; and similarly, too, that disease is frequently transmitted to children. Therefore, it seems that a wife is not bound to pay the debt to a leprous husband.  
+Obj. 4: Furthermore, marriage, according to the Philosopher, is ordained to the procreation and education of children, as well as to a shared life. *(Aristotle, *Nicomachean Ethics*, Bk. 8, ch. 12 (1162a15ff.).)* But leprosy is contrary to both ends of marriage, because, since it is a contagious disease, a woman is not bound to live together with a leper; and similarly, too, that disease is frequently transmitted to children. Therefore, it seems that a wife is not bound to pay the debt to a leprous husband.  
 
 On the contrary (1), as a slave is in the power of his master, so also is one spouse in the power of the other, as is clear from 1 Corinthians 7. But a slave is bound by the necessity of a precept to render any debt of servitude to his master, as is clear from Romans 13:7: *render your debts to all men: tribute to whom tribute is due*. Therefore one spouse is also bound by the necessity of a precept to render the debt to the other.  
 
@@ -39,7 +39,7 @@ Furthermore (2), marriage is ordained to the avoidance of fornication, as is cle
 
 I answer that, marriage was principally instituted as an office of nature, and therefore in its act the movement of nature must be considered, by which the nutritive gives to the generative only what is not needed for the conservation of the individual. For this is the natural order, that first something should be perfected in itself, and afterward communicate its perfection to another. The order of charity is also characterized by this, that it perfects nature. Therefore, since a wife does not have power over a husband except as to the faculty of generation, but not as to those things which are ordained to the conservation of the individual, the man is bound to render to his wife what he owes in all that regards the generation of children, although preserving first the safety of his person.  
 
-Reply Obj. 1: Someone fulfilling a certain precept can be rendered incapable of carrying out a certain sacred office, as a judge who condemns a man to death is made irregular by fulfilling a precept. Likewise too that man who, fulfilling a precept, pays the debt, is made unfit for executing the divine office; not because that act is a sin, but by reason of the carnality of the act.The text refers to married priests of the Eastern rites of the Church, who are required to abstain from conjugal relations the night before they consecrate the Eucharist. Thus, as the Master says, Jerome speaks only about the ministers of the Church, but not about others who are to be left to their own judgment: for they can either forego out of devotion, or consume the body of Christ without sin.  
+Reply Obj. 1: Someone fulfilling a certain precept can be rendered incapable of carrying out a certain sacred office, as a judge who condemns a man to death is made irregular by fulfilling a precept. Likewise too that man who, fulfilling a precept, pays the debt, is made unfit for executing the divine office; not because that act is a sin, but by reason of the carnality of the act. *(The text refers to married priests of the Eastern rites of the Church, who are required to abstain from conjugal relations the night before they consecrate the Eucharist.)* Thus, as the Master says, Jerome speaks only about the ministers of the Church, but not about others who are to be left to their own judgment: for they can either forego out of devotion, or consume the body of Christ without sin.  
 
 Reply Obj. 2: The wife’s power over the body of the man does not extend to the endangerment of his person, as was said. For this reason if she should make demands beyond this, it is not a requesting of a debt, but an unjust exaction from him, and for this reason, the man is not bound to satisfy her.  
 
@@ -67,15 +67,15 @@ Furthermore (2), a prelate is bound to apply the remedy of correction against th
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that it is licit for a menstruating woman to request the debt. For under the Old Law, just as a menstruating woman was unclean, so also was a man suffering an outflowing of semen.See, e.g., Leviticus 15. But a man suffering in this way can request the debt. Therefore, by the same reasoning, during menstruation a woman can as well.  
+Obj. 1: Moreover, it seems that it is licit for a menstruating woman to request the debt. For under the Old Law, just as a menstruating woman was unclean, so also was a man suffering an outflowing of semen. *(See, e.g., Leviticus 15.)* But a man suffering in this way can request the debt. Therefore, by the same reasoning, during menstruation a woman can as well.  
 
 Obj. 2: Again, leprosy is a greater infirmity than suffering a menstrual period. And it seems that it causes a greater corruption in the child. But a leper may request the debt. Therefore, etc.  
 
 Obj. 3: Again, if a menstruating woman is not permitted to request the debt, this is only because of a defect that is feared in the child. But if the woman were barren, such a defect would not be feared. Therefore, it seems that at least a barren woman may request the debt during menstruation.  
 
-On the contrary (1), Leviticus 18:19 says*: you shall not approach a woman . . . while she is in her menstrual uncleanness*. To which Augustine adds, *although he had sufficiently prohibited it, here again he repeats, so that it would not perhaps seem to be taken figuratively about higher things*.This is not how Augustine words it, but the thought is the same: see Augustine, *Quaestionum in heptateuchum* (CCSL 33), Bk. 3, *Quaest. Levitici*, q. 64.  
+On the contrary (1), Leviticus 18:19 says*: you shall not approach a woman . . . while she is in her menstrual uncleanness*. To which Augustine adds, *although he had sufficiently prohibited it, here again he repeats, so that it would not perhaps seem to be taken figuratively about higher things*. *(This is not how Augustine words it, but the thought is the same: see Augustine, *Quaestionum in heptateuchum* (CCSL 33), Bk. 3, *Quaest. Levitici*, q. 64.)*  
 
-Again (2), according to Isaiah 64:6: *all of your justices are like the rags of a menstruous woman*. About which Jerome says: *during that period men were supposed to abstain from their wives, because the children conceived are damaged in their members—blind, lame, leprous; so that since the parents were not ashamed to commingle in their chamber, their sins might be evident to all, and that they might be more openly rebuked in their little ones*.See the *Glossa ordinaria*, PL 113:1308. A text like this is found in Jerome on Ezekiel: see PL 25:173. And thus the same conclusion as above.  
+Again (2), according to Isaiah 64:6: *all of your justices are like the rags of a menstruous woman*. About which Jerome says: *during that period men were supposed to abstain from their wives, because the children conceived are damaged in their members—blind, lame, leprous; so that since the parents were not ashamed to commingle in their chamber, their sins might be evident to all, and that they might be more openly rebuked in their little ones*. *(See the *Glossa ordinaria*, PL 113:1308. A text like this is found in Jerome on Ezekiel: see PL 25:173.)* And thus the same conclusion as above.  
 
 Quaestiuncula 3  
 
@@ -97,7 +97,7 @@ Reply Obj. 1: The time is not only determined by when it is requested, but whene
 
 Reply Obj. 2: A man can make this assumption about his wife when he does not see in her signs to the contrary. But when he does see them, it would be a stupid assumption.  
 
-Reply Obj. 3: A master is not so embarrassed to ask from a slave what is due from his servitude as a wife is to ask her husband for the conjugal debt. If, however, the master did not ask because of ignorance or another cause, nevertheless the servant would be bound to fulfill it, if danger were imminent: for this would be ‘not to serve the eye,’ which the Apostle commands to slaves.See Ephesians 6:6 and Colossians 3:22.  
+Reply Obj. 3: A master is not so embarrassed to ask from a slave what is due from his servitude as a wife is to ask her husband for the conjugal debt. If, however, the master did not ask because of ignorance or another cause, nevertheless the servant would be bound to fulfill it, if danger were imminent: for this would be ‘not to serve the eye,’ which the Apostle commands to slaves. *(See Ephesians 6:6 and Colossians 3:22.)*  
 
 Reply Obj. 4: A man should not turn aside his wife when she requests the debt, unless for some good reason; and then he should not turn her aside with much insistence, on account of the dangers that threaten.  
 
@@ -111,7 +111,7 @@ Reply Obj. 1: The flow of semen in a man proceeds from an infirmity, and semen f
 
 And by this the answer the second objection is also resolved.  
 
-Reply Obj. 3: As long as a woman undergoes menstruation, one cannot be certain that she is barren. Certain women are barren in their youth, who become fertile by the process of time, and vice versa, as is stated in Book 10 of the *History of Animals*.See Aristotle, *History of Animals*, Bk. 10, ch. 5.  
+Reply Obj. 3: As long as a woman undergoes menstruation, one cannot be certain that she is barren. Certain women are barren in their youth, who become fertile by the process of time, and vice versa, as is stated in Book 10 of the *History of Animals*. *(See Aristotle, *History of Animals*, Bk. 10, ch. 5.)*  
 
 Response to Quaestiuncula 3  
 
@@ -129,7 +129,7 @@ Article 3
 
 ***Whether in rendering the debt husband and wife are equals***
 
-Obj. 1: To the third question, we proceed thus.Parallel: *In IV Sent.* d. 15, q. 2, a. 5, qa. 1, ad 1; d. 36, a. 3, ad 3; *Super I Cor.* 7, lec. 1. It seems that man and woman are not equals in the marital act. For what is active is nobler than what is acted upon, as Augustine says, in Book 12 of *On the Literal Meaning of Genesis*, Chapter 16.Augustine, *On the Literal Meaning of Genesis*, Bk. 12, par. 16 (CSEL 28.1:401–2). But in the conjugal act the man is related as the active party, and the woman as the passive.See Aristotle, *Generation of Animals*, Bk. 1, chs. 20–21. Therefore, they are not equals in the conjugal act.  
+Obj. 1: To the third question, we proceed thus. *(Parallel: *In IV Sent.* d. 15, q. 2, a. 5, qa. 1, ad 1; d. 36, a. 3, ad 3; *Super I Cor.* 7, lec. 1.)* It seems that man and woman are not equals in the marital act. For what is active is nobler than what is acted upon, as Augustine says, in Book 12 of *On the Literal Meaning of Genesis*, Chapter 16. *(Augustine, *On the Literal Meaning of Genesis*, Bk. 12, par. 16 (CSEL 28.1:401–2).)* But in the conjugal act the man is related as the active party, and the woman as the passive. *(See Aristotle, *Generation of Animals*, Bk. 1, chs. 20–21.)* Therefore, they are not equals in the conjugal act.  
 
 Obj. 2: Furthermore, the wife is not bound to render the debt to the husband unless he asks; the husband on the other hand is bound to render it to the wife, as was said. Therefore, they are not equals in the marital act.  
 
@@ -155,7 +155,7 @@ Article 4
 
 Whether one party without consent of the other could take a vow by which rendering of the debt would be impeded  
 
-Obj. 1: To the fourth question, we proceed thus.Parallel: below, d. 38, q. 1, a. 1, qa. 3, ad 4. It seems that a husband and wife may take a vow against the marital debt without each other’s consent. For the husband and wife are equally obligated to the payment of the debt, as was said. But it is permissible for the man, even with his wife forbidding it, to undertake a crusade in the defense of the Holy Land. Therefore, this is also permitted to the wife, and thus since by this vow the rendering of the debt would be impeded, either spouse may take the vow mentioned without the consent of the other.  
+Obj. 1: To the fourth question, we proceed thus. *(Parallel: below, d. 38, q. 1, a. 1, qa. 3, ad 4.)* It seems that a husband and wife may take a vow against the marital debt without each other’s consent. For the husband and wife are equally obligated to the payment of the debt, as was said. But it is permissible for the man, even with his wife forbidding it, to undertake a crusade in the defense of the Holy Land. Therefore, this is also permitted to the wife, and thus since by this vow the rendering of the debt would be impeded, either spouse may take the vow mentioned without the consent of the other.  
 
 Obj. 2: Furthermore, no vow should depend upon the consent of someone who cannot dissent without sin. But one of the spouses cannot dissent without sin if the other should vow continence, either simply or for a time. For to impede spiritual progress is a sin against the Holy Spirit. Therefore, one can vow a vow of continence simply or for a time without the consent of the other.  
 
@@ -193,7 +193,7 @@ On the contrary, just as some places are sacred, for they are set aside for sacr
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that someone who requests the debt during sacred times sins mortally. For Gregory says in Book 1 of the *Dialogues* that that woman who was known by her husband during the night, was seized by the devil when she joined the Church procession in the morning.Gregory the Great, *Dialogues* (SChr 260), Bk. 1, ch. 10. But this would not have happened unless she had sinned mortally. Therefore, etc.  
+Obj. 1: Moreover, it seems that someone who requests the debt during sacred times sins mortally. For Gregory says in Book 1 of the *Dialogues* that that woman who was known by her husband during the night, was seized by the devil when she joined the Church procession in the morning. *(Gregory the Great, *Dialogues* (SChr 260), Bk. 1, ch. 10.)* But this would not have happened unless she had sinned mortally. Therefore, etc.  
 
 Obj. 2: Furthermore, whoever does something against a divine precept sins mortally. But the Lord commanded in Exodus 19:15, when they were about to receive the law: *do not approach your wives*. Therefore, much more do they sin mortally if, at the time intended for the sacraments of the New Law, men should commingle with their wives.  
 
@@ -243,7 +243,7 @@ Reply Obj. 2: There is no determined hour for praying which cannot be compensate
 
 Response to Quaestiuncula 4  
 
-To the fourth question, it should be said that when new brides are given to their husbands, the souls of the spouses are more greatly occupied by physical things because of this very newness, and that is why one typically sees many signs of unbridled rejoicing at weddings. And because of this, it is prohibited for weddings to be celebrated at those times when people should particularly elevate themselves to spiritual things. Now this is from Advent until Epiphany because of the reception of communion, which, according to the ancient canons, customarily and appropriately happens during the period of the Nativity; and from Septuagesima until the octave of Easter, because of the Easter communion; and from three days before the Ascension until the octave of Pentecost, because of preparation for consuming communion at that time.The Synod of Agde in 506 stipulated that the faithful were to receive communion three times a year: at Christmas, Easter, and Pentecost. See Ian Christopher Levy, “The Eucharist and Canon Law in the High Middle Ages,” in *A Companion to the Eucharist in the Middle Ages*, ed. Ian Levy et al. (Leiden: Brill, 2011), 399–445, at 407.  
+To the fourth question, it should be said that when new brides are given to their husbands, the souls of the spouses are more greatly occupied by physical things because of this very newness, and that is why one typically sees many signs of unbridled rejoicing at weddings. And because of this, it is prohibited for weddings to be celebrated at those times when people should particularly elevate themselves to spiritual things. Now this is from Advent until Epiphany because of the reception of communion, which, according to the ancient canons, customarily and appropriately happens during the period of the Nativity; and from Septuagesima until the octave of Easter, because of the Easter communion; and from three days before the Ascension until the octave of Pentecost, because of preparation for consuming communion at that time. *(The Synod of Agde in 506 stipulated that the faithful were to receive communion three times a year: at Christmas, Easter, and Pentecost. See Ian Christopher Levy, “The Eucharist and Canon Law in the High Middle Ages,” in *A Companion to the Eucharist in the Middle Ages*, ed. Ian Levy et al. (Leiden: Brill, 2011), 399–445, at 407.)*  
 
 Reply Obj. 1: The celebration of matrimony has something of worldly and carnal rejoicing joined to it, which is present not in the other sacraments. Therefore, it is not the same.  
 
@@ -253,6 +253,6 @@ Reply Obj. 3: Since time is not of the essence of matrimony, if it is contracted
 
 Exposition of the Text  
 
-*If he should first allow and then forbid*.*Sententiae* IV, 32.2 (191). 4, Cf. Num. 30, 16. It seems from this that the man may call his wife back to himself, even if, of his own freedom, he has vowed chastity. And the words of Augustine are understood as applying to the case when the man has dissembled before full deliberation, which dissimulation indeed seems to be a kind of consent. If, however, he had expressly consented, he may not revoke the vow. This is why he speaks about the judgment of the Church, when the promise cannot be proved. Therefore, because of this danger, such secret vows are not approved.  
+*If he should first allow and then forbid*. *(*Sententiae* IV, 32.2 (191). 4, Cf. Num. 30, 16.)* It seems from this that the man may call his wife back to himself, even if, of his own freedom, he has vowed chastity. And the words of Augustine are understood as applying to the case when the man has dissembled before full deliberation, which dissimulation indeed seems to be a kind of consent. If, however, he had expressly consented, he may not revoke the vow. This is why he speaks about the judgment of the Church, when the promise cannot be proved. Therefore, because of this danger, such secret vows are not approved.  
 
-*“Nor eat the flesh of the Lamb*.”*Sent*. IV, 32.3 (192). 2, Jerome, *De exodo, in vigilia Paschae*. On the impediment to the consumption of the Eucharist because of carnal pleasure in sleep, see above, Distinction 9.
+*“Nor eat the flesh of the Lamb*.” *(*Sent*. IV, 32.3 (192). 2, Jerome, *De exodo, in vigilia Paschae*.)* On the impediment to the consumption of the Eucharist because of carnal pleasure in sleep, see above, Distinction 9.

@@ -16,7 +16,7 @@
 
 > ^38:5^ And king Zedekiah said, ‘Behold, he is in your hands, for it is not permitted for the king to deny you anything.’
 
-> ^38:6^ Therefore, they took Jeremiah and cast him into the pit of Milchiah, the son of Amelech,As noted above, Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” Milchiah is another of the king’s sons. which was in the courtyard of the king. And they lowered Jeremiah down with ropes into the pit, in which there was no water, but mud. And so Jeremiah went down into the mud.
+> ^38:6^ Therefore, they took Jeremiah and cast him into the pit of Milchiah, the son of Amelech, *(As noted above, Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” Milchiah is another of the king’s sons.)* which was in the courtyard of the king. And they lowered Jeremiah down with ropes into the pit, in which there was no water, but mud. And so Jeremiah went down into the mud.
 
 > ^38:7^ Now Ebed-Melech the Ethiopian, a eunuch man who was in the house of the king, heard that they had put Jeremiah into the pit. Moreover, the king was sitting in the gate of Benjamin.
 

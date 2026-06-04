@@ -1,8 +1,8 @@
 # Chapter 54
 
-^54:1^ Give praise, O you barren, that bear not: sing forth praise, and whinny,*Hinni*. DR: “make a joyful noise.” you that didst not travail with child: for many are the children of the desolate, more than of her that has a husband, says the Lord.  
+^54:1^ Give praise, O you barren, that bear not: sing forth praise, and whinny, *(*Hinni*. DR: “make a joyful noise.”)* you that didst not travail with child: for many are the children of the desolate, more than of her that has a husband, says the Lord.  
 
-> ^54:2^ Enlarge the place of your tent, and stretch out the skins of your tabernacles, spare not: lengthen your cords, and strengthen your nails.*Clavos*. DR: “stakes.”
+> ^54:2^ Enlarge the place of your tent, and stretch out the skins of your tabernacles, spare not: lengthen your cords, and strengthen your nails. *(*Clavos*. DR: “stakes.”)*
 
 > ^54:3^ For you shall pass on to the right hand, and to the left: and your seed shall inherit the Gentiles, and shall inhabit the desolate cities.
 
@@ -26,13 +26,13 @@
 
 > ^54:13^ All your children shall be taught of the Lord: and great shall be the peace of your children.
 
-> ^54:14^ And you shall be founded in justice: depart far from calumny,*Calumnia*. DR: “oppression.” for you shall not fear; and from terror, for it shall not come near you.
+> ^54:14^ And you shall be founded in justice: depart far from calumny, *(*Calumnia*. DR: “oppression.”)* for you shall not fear; and from terror, for it shall not come near you.
 
 > ^54:15^ Behold, an inhabitant shall come, who was not with me, he that was a stranger to you before, shall be joined to you.
 
 > ^54:16^ Behold, I have created the smith that blows the coals in the fire, and brings forth an instrument for his work, and I have created the killer to destroy.
 
-> ^54:17a^ No vessel*Vas*. DR: “weapon.” that is formed against you shall prosper: and every tongue that resists you in judgment, you shall condemn.
+> ^54:17a^ No vessel *(*Vas*. DR: “weapon.”)* that is formed against you shall prosper: and every tongue that resists you in judgment, you shall condemn.
 
 > **976**. ***Give praise, O you barren***. Here against the dejection of their affairs, he promises the remedy of exaltation.
 
@@ -110,7 +110,7 @@ And he explains the metaphor as to the teaching of divine knowledge, ***all your
 
 **987**. Second, as to freedom from evils,  
 
-first, promising deliverance from dangers: ***depart***, that is, you shall depart, for you shall not suffer calumny: *he shall humble the calumniators* (Ps 71[72]:4);*Calumniatores*. Vg.: *calumniatorem*. DR: “oppressor.”  
+first, promising deliverance from dangers: ***depart***, that is, you shall depart, for you shall not suffer calumny: *he shall humble the calumniators* (Ps 71[72]:4); *(*Calumniatores*. Vg.: *calumniatorem*. DR: “oppressor.”)*  
 
 second, the adherence of strangers: ***behold, an inhabitant shall come***, for many from the gentiles adhered to them when they came out of captivity, below: ***let not the son of the stranger, that adheres to the Lord, speak, saying: the Lord will divide and separate me from his people*** (Isa 56:3);  
 

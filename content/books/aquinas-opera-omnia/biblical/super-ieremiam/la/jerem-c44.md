@@ -38,7 +38,7 @@ Primo petunt orationis suffragia: ubi ponitur petitio: ***cadat oratio nostra in
 
 ***et annuntiet***: in quo expetitur orationis fructus. ***Dominus***. Isa. 8: *numquid non populus a Deo suo requiret visionem pro vivis, ac mortuis? **Viam***, quia non in Aegyptum ire decreverant. Supra 10: ***non est hominis via ejus, nec viri est ut ambulat, et dirigat gressus suos***. 2 Paral. 20: *cum ignoremus quid agere debeamus, hoc solum habemus residui ut oculos nostros dirigamus ad te*.  
 
-Ponitur etiam prophetae promissio, ibi, ***dixit***.Here, the Parma edition reads *dicit*, “he says,” in place of *dixit*, “he said.” Promittit autem orationes, ***ecce ego***. 1 Reg. 12: *absit a me peccatum hoc in Domino, ut cessem orare pro vobis*. Et denuntiationem: ***omne verbum quodcumque responderit mihi, indicabo vobis***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.  
+Ponitur etiam prophetae promissio, ibi, ***dixit***. *(Here, the Parma edition reads *dicit*, “he says,” in place of *dixit*, “he said.”)* Promittit autem orationes, ***ecce ego***. 1 Reg. 12: *absit a me peccatum hoc in Domino, ut cessem orare pro vobis*. Et denuntiationem: ***omne verbum quodcumque responderit mihi, indicabo vobis***. Act. 20: *non enim subterfugi quominus annuntiarem omne consilium Dei vobis*.  
 
 Secundo promittunt obedientiam, quam tamen servaturi non erant: ***et illi dixerunt***. Simile Exod. 19: *cuncta quae locutus est nobis Dominus, faciemus*.  
 

@@ -22,7 +22,7 @@ and second, the time of the prophecy, at ***the word of the Lord which came to h
 
 The author is described in three ways.  
 
-First, by name, at ***the words of Jeremiah***, which is translated as “highness to the Lord,”The name יִרְמְיָהוּ can be translated more precisely as “the Lord exalts.” which is fitting for the eminence of his contemplation.  
+First, by name, at ***the words of Jeremiah***, which is translated as “highness to the Lord,” *(The name יִרְמְיָהוּ can be translated more precisely as “the Lord exalts.”)* which is fitting for the eminence of his contemplation.  
 
 Second, from the prophetic line, ***the son of Hilkiah***, which, according to the rule of Jerome, we are to understand as meaning that wherever the name of a prophet’s father is put in the title, he also was a prophet. And from the priestly line, ***from the priests***, whose responsibility it was to know the Law: *ask the law of the priest* (Hag 2:12).  
 
@@ -120,17 +120,17 @@ First, the time. And it seems that before the infusion of the soul, sanctificati
 
 Further, it says here: ***before I formed you in the womb, I knew you***. Here, it is understood that he is speaking of spiritual knowledge, which is approbation. Therefore, before his formation he had grace.  
 
-On the other hand, it seems he did not before he was born from the womb, because Augustine says, *no one can be reborn unless he has already been born*.*Ita qui natus non fuerit renasci non potest* (Augustine, *De peccatorum meritis* 2.27 [CSEL 28:863; PL 42:551]). No one has grace unless he has been reborn, because he becomes the son of God through grace; therefore, he does not even have the grace of sanctification.  
+On the other hand, it seems he did not before he was born from the womb, because Augustine says, *no one can be reborn unless he has already been born*. *(*Ita qui natus non fuerit renasci non potest* (Augustine, *De peccatorum meritis* 2.27 [CSEL 28:863; PL 42:551]).)* No one has grace unless he has been reborn, because he becomes the son of God through grace; therefore, he does not even have the grace of sanctification.  
 
 To this it is to be said that the sanctification about which we are speaking occurs through grace whose subject is the soul, and that, therefore, it cannot exist before the infusion of the soul. But here it happens by a special privilege after the infusion of the soul, but before he is born from the womb.  
 
-To the first point, one must say that here the spirit of life is externally called air, freely breathed. Alternatively, the spirit*Spiritus* originally denoted breathing, while *anima* referred to the air that is breathed. of life is said to be within when one notes if breath is drawn.  
+To the first point, one must say that here the spirit of life is externally called air, freely breathed. Alternatively, the spirit *(*Spiritus* originally denoted breathing, while *anima* referred to the air that is breathed.)* of life is said to be within when one notes if breath is drawn.  
 
 To the other point, it is to be said that what is understood by a notion of approbation is said in reference to predestination to grace, and not present justice.  
 
 As to the other point, one must say that no one is able to be reborn by general law, by that regeneration which comes through the sacraments before he is born, because he is not yet able to be subject to the operations of the ministers of the Church, through whom grace of this sort is dispensed. But God does not bind his power with the sacraments, and therefore he is able to sanctify someone in the womb by a special privilege.  
 
-Second, one asks, to whom is this sanctification fitting? It seems that it is fitting to Christ, of whom it is said in the gloss, that before he came forth from the womb he was sanctified in the belly.*Glossa Interlinearis*, at Song of Songs 1:15.  
+Second, one asks, to whom is this sanctification fitting? It seems that it is fitting to Christ, of whom it is said in the gloss, that before he came forth from the womb he was sanctified in the belly. *(*Glossa Interlinearis*, at Song of Songs 1:15.)*  
 
 On the contrary, however, to sanctify is to make holy what was unholy. But he was never unholy, therefore, etc.  
 
@@ -180,7 +180,7 @@ Lecture 4
 
 ***Vision of the rod***
 
-^1:11^ And the word of the Lord came to me, saying: what do you see, Jeremiah? And I said: I see a rod watching.Jerome, working from an unvocalized text, construed the Hebrew שקד as שָקַד, “watching,” instead of the more usual reading of this verse as שָקֵד, “almond tree.” He seems to be creating a wordplay in the Latin to echo the play on words in the Hebrew, where in the next verse God says, “I will keep watch” (שֹׁקֵד).  
+^1:11^ And the word of the Lord came to me, saying: what do you see, Jeremiah? And I said: I see a rod watching. *(Jerome, working from an unvocalized text, construed the Hebrew שקד as שָקַד, “watching,” instead of the more usual reading of this verse as שָקֵד, “almond tree.” He seems to be creating a wordplay in the Latin to echo the play on words in the Hebrew, where in the next verse God says, “I will keep watch” (שֹׁקֵד).)*  
 
 > ^1:12^ And the Lord said to me: you have seen well, because I will keep watch over my word to do it.
 

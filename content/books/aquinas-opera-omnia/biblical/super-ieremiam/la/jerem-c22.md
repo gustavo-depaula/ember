@@ -24,7 +24,7 @@ Circa primum duo.
 
 Primo comminatur contra principes Judaici populi;  
 
-secundo contra illos, et alios, infra 25 cap: ***verbum quod factum est ad Jeremiam a Domino***.The Sixto-Clementine Vulgate omits *a Domino*.  
+secundo contra illos, et alios, infra 25 cap: ***verbum quod factum est ad Jeremiam a Domino***. *(The Sixto-Clementine Vulgate omits *a Domino*.)*  
 
 Prima in duas.  
 

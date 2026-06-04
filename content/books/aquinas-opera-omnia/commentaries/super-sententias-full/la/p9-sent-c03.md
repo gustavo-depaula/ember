@@ -26,7 +26,7 @@ Ad primum sic proceditur. Videtur quod juramentum adjunctum consensui per verba 
 
 Praeterea, veritas divina est fortior quam veritas humana. Sed per juramentum veritate divina firmatur aliquid. Cum ergo verba exprimentia consensum de praesenti, in quibus est sola humana veritas, matrimonium perficiant; videtur quod multo amplius id efficere possint verba de futuro, juramento firmata.  
 
-Praeterea, secundum apostolum ad Hebr., *omnis controversiae finis . . . est juramentum*. Ergo in judicio saltem plus standum est juramento quam simplici verbo. Si ergo aliquis simplici verbo consentiat in aliquam per verba de futuro,*futuro.—presenti, postquam consentit in aliquam per verba de futuro* PLE. juramento firmata, videtur quod judicio Ecclesiae debeat compelli stare cum prima, et non cum secunda.  
+Praeterea, secundum apostolum ad Hebr., *omnis controversiae finis . . . est juramentum*. Ergo in judicio saltem plus standum est juramento quam simplici verbo. Si ergo aliquis simplici verbo consentiat in aliquam per verba de futuro, *(*futuro.—presenti, postquam consentit in aliquam per verba de futuro* PLE.)* juramento firmata, videtur quod judicio Ecclesiae debeat compelli stare cum prima, et non cum secunda.  
 
 Praeterea, verba de futuro simpliciter prolata, sponsalia faciunt. Sed juramentum ibi aliquid operatur. Ergo facit plus quam sponsalia. Sed ultra sponsalia non est nisi matrimonium. Ergo facit matrimonium.  
 

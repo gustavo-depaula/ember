@@ -2,7 +2,7 @@
 
 ***^10:1^ Woe to them that make wicked laws: and when they write, write injustice:***
 
-> ^10:2^ to oppress the poor in judgment, and do violence to the cause of the humble of my people: that widows might be their prey, and that they might rob orphans.DR: “the fatherless.”
+> ^10:2^ to oppress the poor in judgment, and do violence to the cause of the humble of my people: that widows might be their prey, and that they might rob orphans. *(DR: “the fatherless.”)*
 
 > ^10:3^ What will you do in the day of visitation, and of the calamity which comes from afar? To whom will you flee for help? And where will you leave your glory?
 
@@ -12,21 +12,21 @@
 
 > ^10:6 ^I will send him to a deceitful nation, and I will give him a charge against the people of my wrath, to take away the spoils, and to lay hold on the prey, and to tread them down like the mire of the streets.
 
-> ^10:7^ But he shall not take it so, and his heart shall not think so: but his heart shall be set to grind to pieces,*Conterendum*. DR: “destroy.” and to cut off nations not a few.
+> ^10:7^ But he shall not take it so, and his heart shall not think so: but his heart shall be set to grind to pieces, *(*Conterendum*. DR: “destroy.”)* and to cut off nations not a few.
 
 > ^10:8^ For he shall say:
 
 > ^10:9^ are not my princes as so many kings? Is not Calano as Charcamis: and Emath as Arphad? Is not Samaria as Damascus?
 
-> ^10:10^ How*Quomodo*. DR: “as.” my hand has found the kingdoms of the idol, so also their images*Simulacra*. DR: “idols.” of Jerusalem, and of Samaria.
+> ^10:10^ How *(*Quomodo*. DR: “as.”)* my hand has found the kingdoms of the idol, so also their images *(*Simulacra*. DR: “idols.”)* of Jerusalem, and of Samaria.
 
-> ^10:11^ Shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her images?*Simulacris*. DR: “idols.”
+> ^10:11^ Shall I not, as I have done to Samaria and her idols, so do to Jerusalem and her images? *(*Simulacris*. DR: “idols.”)*
 
 > ^10:12^ And it shall come to pass, that when the Lord shall have performed all his works in mount Zion, and in Jerusalem, I will visit the fruit of the proud heart of the king of Assyria, and the glory of the haughtiness of his eyes.
 
 > ^10:13^ For he has said: by the strength of my own hand I have done it, and by my own wisdom I have understood: and I have removed the bounds of the people, and have taken the spoils of the princes, and as a mighty man has pulled down them that sat on high.
 
-> ^10:14^ And my hand has found the strength of the people as a nest; and as eggs are gathered, that are left, so have I gathered all the earth: and there was none that moved the wing, or opened the mouth, or whimpered.*Ganniret*. DR: “made the least noise.”
+> ^10:14^ And my hand has found the strength of the people as a nest; and as eggs are gathered, that are left, so have I gathered all the earth: and there was none that moved the wing, or opened the mouth, or whimpered. *(*Ganniret*. DR: “made the least noise.”)*
 
 > ^10:15^ Shall the axe boast itself against him that cuts with it? Or shall the saw exalt itself against him by whom it is drawn? As if a rod should lift itself up against him that lifts it up, and a staff exalt itself, which is but wood.
 
@@ -42,9 +42,9 @@
 
 > ^10:21^ The remnant shall be converted, the remnant, I say, of Jacob, to the mighty God.
 
-> ^10:22^ For if your people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the end*Consummatio*. DR: “consumption.” abridged shall overflow with justice.
+> ^10:22^ For if your people, O Israel, shall be as the sand of the sea, a remnant of them shall be converted, the end *(*Consummatio*. DR: “consumption.”)* abridged shall overflow with justice.
 
-> ^10:23^ For the Lord God of hosts shall make an end,*Consummatio*. DR: “consumption.” and an abridgment in the midst of all the land.
+> ^10:23^ For the Lord God of hosts shall make an end, *(*Consummatio*. DR: “consumption.”)* and an abridgment in the midst of all the land.
 
 > ^10:24^ Therefore, thus says the Lord the God of hosts: O my people that dwell in Zion, be not afraid of the Assyrian: he shall strike you with his rod, and he shall lift up his staff over you in the way of Egypt.
 
@@ -58,7 +58,7 @@
 
 > ^10:29^ They have passed in haste, Gaba is our lodging: Rama was astonished, Gabaath of Saul fled away.
 
-> ^10:30^ Whinny with your voice,*Hinni voce tua*. DR: “lift up thy voice.” O daughter of Gallim, attend, O Laisa, poor Anathoth.
+> ^10:30^ Whinny with your voice, *(*Hinni voce tua*. DR: “lift up thy voice.”)* O daughter of Gallim, attend, O Laisa, poor Anathoth.
 
 > ^10:31^ Medemena is removed: you inhabitants of Gabim, take courage.
 
@@ -110,7 +110,7 @@ He denounces the fault of the princes as to two things.
 
 As to perverse lawgiving: ***woe to them that make wicked laws***, in as far as the law is established by the decree of the prince, ***and when they write***, in as far as it is confirmed in writing: *for they, not knowing the justice of God and seeking to establish their own, have not submitted themselves to the justice of God* (Rom 10:3); *why do your disciples transgress* (Matt 15:2).  
 
-Second, as to the intention of oppressing those who are powerless, either because of poverty: ***the poor***, or because of low rank: ***humble***: *they crush as the dust* (Amos 2:7); or because of weakness of sex: ***widows***; or because of age: ***orphans***. Above: ***they judge not for orphans***DR: “the fatherless.” (Isa 1:23).  
+Second, as to the intention of oppressing those who are powerless, either because of poverty: ***the poor***, or because of low rank: ***humble***: *they crush as the dust* (Amos 2:7); or because of weakness of sex: ***widows***; or because of age: ***orphans***. Above: ***they judge not for orphans*** *(DR: “the fatherless.”)* (Isa 1:23).  
 
 **325**. ***What will you do?*** Here he threatens punishment,  
 
@@ -170,7 +170,7 @@ and the scourging: ***my indignation*** is fulfilled through them, below: ***the
 
 **330**. ***I will send him to a deceitful nation***. Here he describes the one who is deserving of scourges, both as to the fault: ***a deceitful nation***, because it does not keep its promise: *all that the Lord has spoken, we will do* (Exod 19:8); and as to the sentence, ***the people of my wrath***, that is, whom I have already judged fit to be punished, ***I will send***, I will inspire you to be fit to be punished: *the Lord said to me: go up to this land, and destroy it* (2 Kgs 18:25); ***to***, that is, against.  
 
-**331**. ***To take away***. Here he sets out the mode of scourging as to the taking away of their things: ***take away spoils***; as to detention, ***lay hold***; as to the oppression of men: ***tread them down like the mire***, for their baseness: *I shall bring them to naught, like the mireDR: “dirt.” in the streets* (Ps 17:43).  
+**331**. ***To take away***. Here he sets out the mode of scourging as to the taking away of their things: ***take away spoils***; as to detention, ***lay hold***; as to the oppression of men: ***tread them down like the mire***, for their baseness: *I shall bring them to naught, like the mire *(DR: “dirt.”)* in the streets* (Ps 17:43).  
 
 **332**. ***But he shall not take it so***. Here the abuse of the power conceded to the Assyrian is set out, insofar as he exceeded the ends of the mandate;  
 
@@ -194,7 +194,7 @@ Concerning the first, he first argues the servitude of kings: ***are not my prin
 
 Second, the subjugation of cities: ***is not Calano as Charcamis***, below: ***for of a truth, O Lord, the kings of the Assyrians have laid waste lands, and their countries*** (Isa 37:18).  
 
-Third, the destruction of idols: ***how my hand has found the kingdoms of the idol***: wonderingly, as if to say: how was it that their gods did not resist me: *who are they among all the gods of the nations that have delivered their country out of my hand, that God*Deus*. Vg.: *Dominus*. DR: “the Lord.” may deliver Jerusalem out of my hand?* (2 Kgs 18:35).  
+Third, the destruction of idols: ***how my hand has found the kingdoms of the idol***: wonderingly, as if to say: how was it that their gods did not resist me: *who are they among all the gods of the nations that have delivered their country out of my hand, that God *(*Deus*. Vg.: *Dominus*. DR: “the Lord.”)* may deliver Jerusalem out of my hand?* (2 Kgs 18:35).  
 
 **334**. ***So shall I do to Jerusalem and her images***. Here he concludes  
 
@@ -274,7 +274,7 @@ in their trust in the nations: ***upon him that strikes them***, because even th
 
 and first, he sets out the promise: ***the end abridged***, that is, the destruction made brief in the army of Sennacherib, ***shall overflow with justice***, that is, he will make justice overflow in the people, below: ***let us have pity on the wicked, but he will not learn justice: in the land of the saints he has done wicked things*** (Isa 26:10).  
 
-Second, he places the confirmation: ***for the Lord God of hosts shall make an end***: *with a flood that passes by, he will make an utter end of the place thereof* (Nah 1:8); ***in the midst of all the land***, that is, in Jerusalem, which is in the middle of the land: *this is Jerusalem, I have set her in the midst of the nations, and the lands*Terrae*. DR: “countries.” round about her* (Ezek 5:5). Romans 9:27 interprets this as concerning the remnant of those to be saved; and the ***abridged word***, as the Septuagint reads,Septuagint (LXX): λόγον συντετμημένον. is the word of the Gospel: *on these two commandments depends the whole law and the prophets* (Matt 22:40); or the Word incarnate.  
+Second, he places the confirmation: ***for the Lord God of hosts shall make an end***: *with a flood that passes by, he will make an utter end of the place thereof* (Nah 1:8); ***in the midst of all the land***, that is, in Jerusalem, which is in the middle of the land: *this is Jerusalem, I have set her in the midst of the nations, and the lands *(*Terrae*. DR: “countries.”)* round about her* (Ezek 5:5). Romans 9:27 interprets this as concerning the remnant of those to be saved; and the ***abridged word***, as the Septuagint reads, *(Septuagint (LXX): λόγον συντετμημένον.)* is the word of the Gospel: *on these two commandments depends the whole law and the prophets* (Matt 22:40); or the Word incarnate.  
 
 **346**. ***Therefore, thus says the Lord***. Here the strengthening of the people is set out, and concerning this, he does two things.  
 
@@ -296,7 +296,7 @@ Concerning which is first noted hastening: ***yet a little*** in relation to ete
 
 second, the magnitude of the punishment: ***my indignation shall cease***, as to punishment, ***wrath***, as to vengeance;  
 
-third, the ease of punishing, ***my*** < . . . >The text may be corrupt here. (Judg 7:25); ***and over the sea***, the Red Sea: ***and he shall lift it up*** (Exod 14:21–29), against you, first, ***in the way of Egypt***, because you trusted in the Egyptians.  
+third, the ease of punishing, ***my*** < . . . > *(The text may be corrupt here.)* (Judg 7:25); ***and over the sea***, the Red Sea: ***and he shall lift it up*** (Exod 14:21–29), against you, first, ***in the way of Egypt***, because you trusted in the Egyptians.  
 
 **348**. Third, the liberation that follows is set out,  
 
@@ -340,7 +340,7 @@ second, because he cleanses: *the vapor of the fire wastes his flesh, and he fig
 
 third, because he devastates: *a fire is kindled in my wrath, and shall burn even to the lowest hell* (Deut 32:22).  
 
-Fourth, because he is light:I.e., not heavy (*levis*).  
+Fourth, because he is light: *(I.e., not heavy (*levis*).)*  
 
 and this is so, first, because of his motion, for *the Lord has made all things for himself* (Prov 16:4);  
 

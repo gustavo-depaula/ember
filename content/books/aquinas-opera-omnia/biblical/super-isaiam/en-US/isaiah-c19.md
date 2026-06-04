@@ -8,9 +8,9 @@
 
 > ^17:4^ And it shall come to pass in that day, that the glory of Jacob shall be made thin, and the fatness of his flesh shall grow lean.
 
-> ^17:5^ And it shall be as when one gathers in the harvest that which remains, and his arm shall pick outDR: “gather.” the ears of corn: and it shall be as he that seeks ears in the vale of Raphaim.
+> ^17:5^ And it shall be as when one gathers in the harvest that which remains, and his arm shall pick out *(DR: “gather.”)* the ears of corn: and it shall be as he that seeks ears in the vale of Raphaim.
 
-> ^17:6^ And the fruit thereof that shall be left upon it, shall be as one cluster of grapes, and as the shaking of the olive,*Olea*. DR: “olive tree.” two or three berries in the top of a bough, or four or five upon the top of the tree, says the Lord the God of Israel.
+> ^17:6^ And the fruit thereof that shall be left upon it, shall be as one cluster of grapes, and as the shaking of the olive, *(*Olea*. DR: “olive tree.”)* two or three berries in the top of a bough, or four or five upon the top of the tree, says the Lord the God of Israel.
 
 > ^17:7^ In that day man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel.
 
@@ -18,7 +18,7 @@
 
 > ^17:9^ In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and you shall be desolate.
 
-> ^17:10^ Because you have forgotten God your savior, and have not remembered your strong helper: therefore shall you plant unfaithful*Infidelem*. Vg.: *fidelem*. DR: “good.” plants, and shall sow strange seed.
+> ^17:10^ Because you have forgotten God your savior, and have not remembered your strong helper: therefore shall you plant unfaithful *(*Infidelem*. Vg.: *fidelem*. DR: “good.”)* plants, and shall sow strange seed.
 
 > ^17:11^ In the day of your planting shall be the wild grape, and in the morning your seed shall flourish: the harvest is taken away in the day of inheritance, and shall grieve you much.
 
@@ -26,7 +26,7 @@
 
 > ^17:13^ Nations shall make a noise like the noise of waters overflowing. But he shall rebuke him, and he shall flee far off: and he shall be carried away as the dust of the mountains before the wind, and as a whirlwind before a tempest.
 
-> ^17:14^ In the time of the evening, behold there shall be a whirling:*Turbatio*. DR: “trouble.” the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.
+> ^17:14^ In the time of the evening, behold there shall be a whirling: *(*Turbatio*. DR: “trouble.”)* the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.
 
 > **460**. ***The burden of Damascus***. Here he begins to threaten against those who prepared an occasion of sin for the people of God when, through trust in their help, they cared not to trust in God. And this is divided into two parts:
 
@@ -80,11 +80,11 @@ first, against their vainglory: ***the glory of Jacob shall be made thin***, tha
 
 Second, against the opulence of their riches: ***and the fatness of his flesh***, that is, the riches with which they delicately nourished their flesh, above: ***the sovereign Lord shall send, shall break the earthen vessel with terror, and the tall of stature shall be cut down, and the lofty shall be humbled*** (Isa 10:16, 33).  
 
-Third, against the abundance of the people, he threatens scarcity of people, which he describes under a threefold metaphor, as the blessing of Jacob consisted in the abundance of three things: *abundance of corn and wine and oil*Vg. omits “and oil.” (Gen 27:28).  
+Third, against the abundance of the people, he threatens scarcity of people, which he describes under a threefold metaphor, as the blessing of Jacob consisted in the abundance of three things: *abundance of corn and wine and oil* *(Vg. omits “and oil.”)* (Gen 27:28).  
 
 **464**. As to the first, he sets out scarcity of ears of corn after the harvest, which are gathered by the harvester himself, and thus, the scarcity of the remnant of the ten tribes, ***shall be*** as when someone ***gathers in the harvest that which remains*** from the first reaping, ***and***, from those gathered, ***his arm shall pick out the ears of corn***, that is, collect them. And this one who gathers was Ezechias, who called together the remnant of the ten tribes, as is written in 2 Chronicles 30. Or also those which are gathered by someone poor, like it says in Ruth 2:3: *I will go into the field to glean the ears of corn*; and as to this, he says: ***it shall be as he that seeks ears in the vale of Raphaim***, a certain valley which is very fertile.  
 
-**465**. Against abundance of wine, he sets out scarcity of grapes after the grape harvest: ***and the fruit thereof that shall be left upon it, shall be as one cluster of grapes***: *woe is me, for I am become as one that gleans in autumn the grapes of the vintage* (Mic 7:1). Against abundance of oil, he sets out scarcity of olives after the shaking of ***the olive***. The olive,*Olea*. as Papias says, is the fruit of the olive tree;*Olivarum*. but here, according to the explanation of the Gloss, it seems to be used to mean the tree itself on whose top remains a small amount of fruit which the harvesters are not able to reach; concerning this scarcity, see Deuteronomy 28:62: *you shall remain few in number*.  
+**465**. Against abundance of wine, he sets out scarcity of grapes after the grape harvest: ***and the fruit thereof that shall be left upon it, shall be as one cluster of grapes***: *woe is me, for I am become as one that gleans in autumn the grapes of the vintage* (Mic 7:1). Against abundance of oil, he sets out scarcity of olives after the shaking of ***the olive***. The olive, *(*Olea*.)* as Papias says, is the fruit of the olive tree; *(*Olivarum*.)* but here, according to the explanation of the Gloss, it seems to be used to mean the tree itself on whose top remains a small amount of fruit which the harvesters are not able to reach; concerning this scarcity, see Deuteronomy 28:62: *you shall remain few in number*.  
 
 **466**. Note on the words, ***and the fatness of his flesh*** (Isa 17:4), that riches are called fatness,  
 
@@ -108,7 +108,7 @@ First, he shows the useless labor of cultivation, as to their vineyards: ***unfa
 
 Second, as to the ruin of the fruit: ***in the day of your planting***, that is, when you ought to have taken up the fruit from your planting, and this as to the vineyards; as to the fields, ***in the morning your seed shall flourish***, that is, it will be beautiful at first, that you may mourn more, or because it will flower before the proper season and be useless: *the inheritance gotten hastily in the beginning, in the end shall be without a blessing* (Prov 20:21). ***The harvest is taken away***, by enemies, ***in the day of inheritance***, when it ought to be put away in the barn, like the fruit of their inheritance: *they have sown wheat, and reaped thorns* (Jer 12:13).  
 
-Third, he threatens sorrow for the loss: ***it shall grieve you***,*Dolebit*. who sowed; or ***you shall grieve***.*Dolebis tu*.  
+Third, he threatens sorrow for the loss: ***it shall grieve you***, *(*Dolebit*.)* who sowed; or ***you shall grieve***. *(*Dolebis tu*.)*  
 
 **470**. ***Woe to the multitude***. Here he threatens the destruction of the Assyrians, and concerning this he sets out three things.  
 
@@ -130,7 +130,7 @@ first, through the adherence of faith, below: ***your eyes shall see your teache
 
 second, because of the expectation of hope: *the eyes of all hope in you, O Lord* (Ps 144[145]:15);  
 
-third, because of the contemplation of love: *from thence she contemplates*Contemplabitur*. DR: “looketh for.” the prey, and her eyes behold afar off* (Job 39:29);  
+third, because of the contemplation of love: *from thence she contemplates *(*Contemplabitur*. DR: “looketh for.”)* the prey, and her eyes behold afar off* (Job 39:29);  
 
 fourth, because of the enjoyment of glory: *blessed are your eyes* (Matt 13:16).  
 

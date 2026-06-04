@@ -4,13 +4,13 @@
 
 ^3:1 ^For behold the sovereign Lord of hosts shall take away from Jerusalem, and from Judah the valiant and the strong, the whole strength of bread, and the whole strength of water.  
 
-> ^3:2^ The strong man, and the man of war, the judge, and the prophet and the diviner,*Ariolum*. DR: “cunning man.” and the ancient.
+> ^3:2^ The strong man, and the man of war, the judge, and the prophet and the diviner, *(*Ariolum*. DR: “cunning man.”)* and the ancient.
 
-> ^3:3^ The prince*Principem*. DR: “captain.” over fifty, and the honorable in countenance, and the counsellor, and the architect, and the skillful in mysticalVg.: *mystici*. DR: “eloquent.” speech.
+> ^3:3^ The prince *(*Principem*. DR: “captain.”)* over fifty, and the honorable in countenance, and the counsellor, and the architect, and the skillful in mystical *(Vg.: *mystici*. DR: “eloquent.”)* speech.
 
 > ^3:4 ^And I will give children to be their princes, and the effeminate shall rule over them.
 
-> ^3:5^ And the people shall fall*Corruet*. Vg.: *irruet*. DR: “rush.” one to*Ad*. DR: “upon.” another, and every man to*Ad*. DR: “against.” his neighbor: the child shall make a tumult against the ancient, and the base against the honorable.
+> ^3:5^ And the people shall fall *(*Corruet*. Vg.: *irruet*. DR: “rush.”)* one to *(*Ad*. DR: “upon.”)* another, and every man to *(*Ad*. DR: “against.”)* his neighbor: the child shall make a tumult against the ancient, and the base against the honorable.
 
 > ^3:6 ^For a man shall take hold of his brother, one of the house of his father, saying: you have a garment, be you our ruler, and let this ruin be under your hand.
 
@@ -58,7 +58,7 @@ in the third part, as to authority, where it says, ***the ancient*** (Isa 3:2).
 
 **98**. Power is required in a leader or king for directing the wars of the people and for restraining insolence: *seek not to be made a judge, unless you have strength enough to extirpate iniquities* (Sir 7:6).  
 
-This power consists in three things, according to which the first part is divided into three parts, namely, in strength of body, which consists in three things, namely, in vigor of constitution, and as to this, he says: I warn you to cease, ***for***, that is, because, ***behold***, it is near, ***he shall take away the valiant***, that is, he who is strong in health of constitution; in strength of limbs, and thus, he says, ***the strong***, because strength consists in bones and sinews, as the Philosopher says.*Topics* 3.1 (116b20). Again, in plenty of food, and thus he says, ***the whole strength of bread***, in which all food and drink is signified: *the chief thing for man’s life is water and bread, and clothing* (Sir 29:28[21]).  
+This power consists in three things, according to which the first part is divided into three parts, namely, in strength of body, which consists in three things, namely, in vigor of constitution, and as to this, he says: I warn you to cease, ***for***, that is, because, ***behold***, it is near, ***he shall take away the valiant***, that is, he who is strong in health of constitution; in strength of limbs, and thus, he says, ***the strong***, because strength consists in bones and sinews, as the Philosopher says. *(*Topics* 3.1 (116b20).)* Again, in plenty of food, and thus he says, ***the whole strength of bread***, in which all food and drink is signified: *the chief thing for man’s life is water and bread, and clothing* (Sir 29:28[21]).  
 
 Second, power consists in constancy of heart, and thus he says, ***the strong man***, as far as it comes from the strength which is a power of the soul.  
 
@@ -78,11 +78,11 @@ in maturity of countenance: ***the honorable in countenance***.
 
 **101**. Some princes are useful for the government of the people, or for dealing with doubtful affairs, and as to this he says, ***and the counsellor***; or for constructing buildings: ***the architect***, which comes from *archos*, which means “prince,” and *techne*, which means “art,” especially mechanical art. The architect is said to be the principal artist, who directs the other artists to introduce the form and prepare the matter, according to the consideration of the end, which he has knowledge of in use or reason.  
 
-**102**. But wisdom, according to the Philosopher, is said to be twofold: namely, universal and particular.*Nicomachean Ethics* 6.5 (1141a9).  
+**102**. But wisdom, according to the Philosopher, is said to be twofold: namely, universal and particular. *(*Nicomachean Ethics* 6.5 (1141a9).)*  
 
 In defining particular wisdom, he says that it is the virtue through which man is placed in the utmost of any art, such as medicine, and that doctor is called wise who is most certain in things that pertain to medicine; and a builder is called wise similarly, and thus for others. And it is in this way that it is understood here.  
 
-Universal wisdom is that which is the utmost in all arts and sciences, and it is by this that man is raised to knowledge of the noblest things, that is, of separated, or spiritual, substances; and this, according to the Philosopher,Cf. Aristotle, *Metaphysics* 6.1 (1026a16), and St. Thomas, *Super Boet. De Trin*. q. 5, a. 4. is metaphysics, and, according to us, is theology.  
+Universal wisdom is that which is the utmost in all arts and sciences, and it is by this that man is raised to knowledge of the noblest things, that is, of separated, or spiritual, substances; and this, according to the Philosopher, *(Cf. Aristotle, *Metaphysics* 6.1 (1026a16), and St. Thomas, *Super Boet. De Trin*. q. 5, a. 4.)* is metaphysics, and, according to us, is theology.  
 
 **103**. Third, someone is necessary for teaching divine things, and as to this, he says: ***and the skillful in mystical speech***; “mystical” comes from *mystim*, which means “secret,” that is, pertaining to divine words which are secret. And concerning all these things it is stated in 2 Kings 24:15 that they were carried away by Nebuchadnezzar into Babylon: *and he carried away Joachin into Babylon, and the king’s mother, and the king’s wives, and his eunuchs: and the judges of the land he carried into captivity*.  
 
@@ -92,11 +92,11 @@ in the first is placed the authority of unworthy men;
 
 in the second, the consequent disturbance of the people, where it says, ***and the people shall fall one upon another*** (Isa 3:5).  
 
-Now, they are unworthy as to lack of wisdom and of age, and thus he says ***I will give children to be their princes***; and as to lack of virtue, and thus he says: ***and the effeminate shall rule over them***, that is, the lustful and the weak: *I will give you kings*Reges*. Vg.: *regem*. DR: “a king.” in my wrath* (Hos 13:11).  
+Now, they are unworthy as to lack of wisdom and of age, and thus he says ***I will give children to be their princes***; and as to lack of virtue, and thus he says: ***and the effeminate shall rule over them***, that is, the lustful and the weak: *I will give you kings *(*Reges*. Vg.: *regem*. DR: “a king.”)* in my wrath* (Hos 13:11).  
 
 **105**. The effect of the government in the disturbance of the people is touched on in three ways.  
 
-First, universal dissension, hence he says: ***the people shall fall***, from the unity of peace through which they are a people, ***one toAd*. ***another***, that is, one against*Contra*. another: *where there is no governor, the people shall fall* (Prov 11:14); *they were led away as a flock: they shall be afflicted, because they have no shepherd* (Zech 10:2).  
+First, universal dissension, hence he says: ***the people shall fall***, from the unity of peace through which they are a people, ***one to*** *(*Ad*.)* ***another***, that is, one against *(*Contra*.)* another: *where there is no governor, the people shall fall* (Prov 11:14); *they were led away as a flock: they shall be afflicted, because they have no shepherd* (Zech 10:2).  
 
 Second, dissolution of friendship: ***every man to his neighbor***, that is, against his neighbor: *every brother will utterly supplant, and every friend will walk deceitfully* (Jer 9:4).  
 
@@ -110,7 +110,7 @@ in the second, the refusal of the one elected, where it says, ***and in that day
 
 Concerning the first, three things are set out, namely, the election itself, the occasion of the election, and the charge of office.  
 
-The election is irregular, because it is by only one; hence he says, there will be a tumult, ***for***, that is, because, they did not elect in common; but ***a man shall take hold of his brother***, that is, one joined by blood, ***one of the house of his father***, that is, one accepted in familiarity, even though he is base: *he that builds up*Aedificat*. Vg.: *aedificatis*. DR: “you that build up.” Zion with blood, and Jerusalem with iniquity* (Mic 3:10). And this is against the form observed in Numbers 1 in the election of princes done by the precept of the Lord, the authority of the superior, and the consent of the multitude.  
+The election is irregular, because it is by only one; hence he says, there will be a tumult, ***for***, that is, because, they did not elect in common; but ***a man shall take hold of his brother***, that is, one joined by blood, ***one of the house of his father***, that is, one accepted in familiarity, even though he is base: *he that builds up *(*Aedificat*. Vg.: *aedificatis*. DR: “you that build up.”)* Zion with blood, and Jerusalem with iniquity* (Mic 3:10). And this is against the form observed in Numbers 1 in the election of princes done by the precept of the Lord, the authority of the superior, and the consent of the multitude.  
 
 But the occasion is base, because it is on account of riches; hence he says: ***you have a garment***, for he hopes for temporal assistance; and this is against the form handed on in Exodus 18:21–22: *and provide out of all the people able men, such as fear God, in whom there is truth, and that hate avarice, and appoint of them rulers of thousands, and of hundreds . . . who may judge the people at all times*.  
 
@@ -130,9 +130,9 @@ Lecture 2
 
 ^3:8^ For Jerusalem is ruined, and Judah is fallen: because their tongue, and their devices are against the Lord, to provoke the eyes of his majesty.  
 
-> ^3:9^ The show of their countenance has answered them: and they have proclaimed abroad their sin as Sodom, and they have not hid it: woe to their souls, for evils have been rendered*Reddita sunt*. DR: “are rendered.” to them.
+> ^3:9^ The show of their countenance has answered them: and they have proclaimed abroad their sin as Sodom, and they have not hid it: woe to their souls, for evils have been rendered *(*Reddita sunt*. DR: “are rendered.”)* to them.
 
-> ^3:10^ Say to the just man that it is well, for he shall eat the fruit of his devices.*Adinventionum*. DR: “doings.”
+> ^3:10^ Say to the just man that it is well, for he shall eat the fruit of his devices. *(*Adinventionum*. DR: “doings.”)*
 
 > ^3:11 ^Woe to the wicked unto evil: for the reward of his hands shall be given him.
 
@@ -200,9 +200,9 @@ The false prophets were deceiving the people to despoil them, and therefore they
 
 Concerning the first, he does three things.  
 
-First, the judge is introduced; hence he says: ***the Lord stands up to judge***: *he shall judgeVg. adds *inter*. DR: “judge among.” many peoples* (Mic 4:3); *the judgment sat, and the books were opened* (Dan 7:10).  
+First, the judge is introduced; hence he says: ***the Lord stands up to judge***: *he shall judge *(Vg. adds *inter*. DR: “judge among.”)* many peoples* (Mic 4:3); *the judgment sat, and the books were opened* (Dan 7:10).  
 
-Second, the matter is introduced; hence he says: ***the Lord will enter into judgment with the ancients of his people***, namely, with the priests, ***and its princes***, kings and leaders: *behold I will judge*Judicabo*. Vg.: *judico*. DR: “I judge.” between cattle and cattle, between rams and he goats* (Ezek 34:17).*Et inter arietem et hircum*. Vg.: *arietum et hircorum*. DR: “of rams and of he-goats.”  
+Second, the matter is introduced; hence he says: ***the Lord will enter into judgment with the ancients of his people***, namely, with the priests, ***and its princes***, kings and leaders: *behold I will judge *(*Judicabo*. Vg.: *judico*. DR: “I judge.”)* between cattle and cattle, between rams and he goats* (Ezek 34:17). *(*Et inter arietem et hircum*. Vg.: *arietum et hircorum*. DR: “of rams and of he-goats.”)*  
 
 Third, the cause is set out: and first, the accusation of the plaintiff is introduced, when he says, ***you have devoured***: *they have eaten the flesh of my people* (Mic 3:3); second, the rebuke of the judge is set out, when he says: ***why do you consume my people***, afflicting them, ***and grind the faces of the poor***, weakening them by hunger? *You that oppress the needy, and crush the poor* (Amos 4:1). For God himself will be both plaintiff and judge.  
 
@@ -228,7 +228,7 @@ Lecture 3
 
 > ^3:21 ^and rings, and jewels hanging on the forehead,
 
-> ^3:22^ and changes of apparel, and cloaks,*Pallia*. Vg.: *palliola*. DR: “short cloaks.” and fine linen, and crisping pins,
+> ^3:22^ and changes of apparel, and cloaks, *(*Pallia*. Vg.: *palliola*. DR: “short cloaks.”)* and fine linen, and crisping pins,
 
 > ^3:23 ^and looking-glasses, and lawns, and headbands, and fine veils.
 
@@ -310,27 +310,27 @@ first, he takes away things which pertain to the lower parts of the body;
 
 second, things which pertain especially to the parts of the head, where it says, ***and headbands*** (Isa 3:23).  
 
-**120**. Therefore, he first says, as to the feet, ***the ornaments of shoes***, of any kind, and especially, ***little moons***, that is, certain pictures on shoes made from gilded leather: *how beautiful are your feet*Pedes*. Vg.: *gressus*. DR: “steps.” in shoes, O prince’s daughter* (Song 7:1).  
+**120**. Therefore, he first says, as to the feet, ***the ornaments of shoes***, of any kind, and especially, ***little moons***, that is, certain pictures on shoes made from gilded leather: *how beautiful are your feet *(*Pedes*. Vg.: *gressus*. DR: “steps.”)* in shoes, O prince’s daughter* (Song 7:1).  
 
 Second, as to the neck: ***chains***, certain adornments of the neck, which hang down to the breast and are given in honor of a victory: *that grace may be added to your head, and a chain of gold to your neck* (Prov 1:9).  
 
-Third, as to the breast, he says, ***necklaces***, any adornments, but especially buckles by which the breast is secured, lest a garment be opened: *the joints of your thighs are like necklaces,DR: “jewels.” that are made by the hand of a skillful workman*. (Song 7:1).  
+Third, as to the breast, he says, ***necklaces***, any adornments, but especially buckles by which the breast is secured, lest a garment be opened: *the joints of your thighs are like necklaces, *(DR: “jewels.”)* that are made by the hand of a skillful workman*. (Song 7:1).  
 
 Fourth, as to the arms, he says, ***bracelets*** [*armilla*], adornments of the arms, named from *armus* (“shoulder,” usually of an animal): *both men and women gave bracelets . . . to make the work of the tabernacle of the testimony* (Exod 32:21–22).  
 
-**121**. ***And bonnets***.*Mitra*. Here he places adornments of the head;  
+**121**. ***And bonnets***. *(*Mitra*.)* Here he places adornments of the head;  
 
 and first, those for the top of the head: ***bonnets***, adornments of the head like a crown: *she put a bonnet upon her head* (Jdt 10:3).  
 
-Second, as to the hair, he says, ***bodkins***,*Discriminalia*. certain instruments of silver or gold made like sharpened sticks, by which women divide the hair before their brows, as is said of Judith in the same place: *she plaited*Discriminavit*. the hair of her head* (Jdt 10:3).  
+Second, as to the hair, he says, ***bodkins***, *(*Discriminalia*.)* certain instruments of silver or gold made like sharpened sticks, by which women divide the hair before their brows, as is said of Judith in the same place: *she plaited *(*Discriminavit*.)* the hair of her head* (Jdt 10:3).  
 
 **122**. Third, as to the neck, he touches on two things.  
 
-First, ***ornaments of the legs*** [*periscelides*], from *peri*, which means “around,” and *colon*, which means “member,” as if to say, “adorned around a member.” Haymo says that it is made from gold, similar to bracelets, and it is placed around the neck.PL 116, 741C. The Gloss says that it is worn above the foot, like a bracelet; others says that they are certain adornments placed around the borders of garments like golden fringe, or some hides, or something of this kind. And this can stand with either of these meanings, because thus they are both around the neck and around the feet; for garments have such adornments both on the hood and on the lower edges, and thus they adorn the neck mediately: *therefore we offer as gifts to the Lord what gold every one of us could find in the booty, in ornaments of the legsDR: “garters.” and bracelets,DR: “tablets.” rings* (Num 31:50).  
+First, ***ornaments of the legs*** [*periscelides*], from *peri*, which means “around,” and *colon*, which means “member,” as if to say, “adorned around a member.” Haymo says that it is made from gold, similar to bracelets, and it is placed around the neck. *(PL 116, 741C.)* The Gloss says that it is worn above the foot, like a bracelet; others says that they are certain adornments placed around the borders of garments like golden fringe, or some hides, or something of this kind. And this can stand with either of these meanings, because thus they are both around the neck and around the feet; for garments have such adornments both on the hood and on the lower edges, and thus they adorn the neck mediately: *therefore we offer as gifts to the Lord what gold every one of us could find in the booty, in ornaments of the legs *(DR: “garters.”)* and bracelets, *(DR: “tablets.”)* rings* (Num 31:50).  
 
-**123**. Second, he places immediate adornments of the neck, when he says, ***tablets***,*Murenulas*. namely, certain chains, with gold and silver rods like the larvae of a moray eel,*Murenae*. which are placed around the neck: *we will make you tablets of gold, with larvae of silver* (Song 1:10).DR: “we will make thee chains of gold, inlaid with silver.” And because the neck is between the head and the body, its adornment redounds to both, and therefore it may be placed with either.  
+**123**. Second, he places immediate adornments of the neck, when he says, ***tablets***, *(*Murenulas*.)* namely, certain chains, with gold and silver rods like the larvae of a moray eel, *(*Murenae*.)* which are placed around the neck: *we will make you tablets of gold, with larvae of silver* (Song 1:10). *(DR: “we will make thee chains of gold, inlaid with silver.”)* And because the neck is between the head and the body, its adornment redounds to both, and therefore it may be placed with either.  
 
-**124**. ***And sweet balls***.*Olfactoria*. Here is placed things which pertain to the sense organs,  
+**124**. ***And sweet balls***. *(*Olfactoria*.)* Here is placed things which pertain to the sense organs,  
 
 and first, as to smell: ***sweet balls***, certain small boxes in which they placed musk and things of this kind; or also certain vessels, like an apple made from silver, perforated like a thurible, in which is placed fire and something odiferous: *we will run after you to the odor of your ointments* (Song 1:3).  
 
@@ -344,23 +344,23 @@ Fourth, as to sight: ***jewels hanging on the forehead***, with which the women 
 
 and first, those for clothing the body, and thus he says, ***changes of apparel***, that is, various pairs of garments: *have clothed you with change of garments. And he said: put a miter* (Zech 3:4–5).  
 
-Second, those for covering the body, and thus he says, ***cloaks***: *but she quickly took her cloak, and covered*Cooperuit*. Vg.: *operuit*. herself* (Gen 24:65).  
+Second, those for covering the body, and thus he says, ***cloaks***: *but she quickly took her cloak, and covered *(*Cooperuit*. Vg.: *operuit*.)* herself* (Gen 24:65).  
 
 Third, those for lying in, and thus he says, ***fine linen***: *then comes Peter . . . and went into the sepulcher: and saw the linen cloths lying* (John 20:6).  
 
-**126**. ***And crisping pins***.*Acus*. Here he places things which pertain to the care of adornments.  
+**126**. ***And crisping pins***. *(*Acus*.)* Here he places things which pertain to the care of adornments.  
 
-And first, things for arranging them: ***crisping pins***: *it is easier for a camel to pass through the eye of a needle,*Acus*. than for a rich man to enter into the kingdom of heaven* (Matt 19:24).  
+And first, things for arranging them: ***crisping pins***: *it is easier for a camel to pass through the eye of a needle, *(*Acus*.)* than for a rich man to enter into the kingdom of heaven* (Matt 19:24).  
 
-Second, things for discerning them, ***and looking-glasses***, by which women discern whether they are well adorned: *he made also the laver of brass, with the foot thereof, of the looking-glassesDR: “mirrors.” of the women that watched at the door of the tabernacle* (Exod 38:8).  
+Second, things for discerning them, ***and looking-glasses***, by which women discern whether they are well adorned: *he made also the laver of brass, with the foot thereof, of the looking-glasses *(DR: “mirrors.”)* of the women that watched at the door of the tabernacle* (Exod 38:8).  
 
 Third, things for covering adornments;  
 
-and first, things for covering adornments of the shoulders: ***and lawns***,“Lawn” is a fine linen or cotton fabric. fine-spun veils with which the shoulders are covered, as are made by women in Campania: *she made fine linen, and sold it, and delivered a girdle to the Chanaanite* (Prov 31:24).  
+and first, things for covering adornments of the shoulders: ***and lawns***, *(“Lawn” is a fine linen or cotton fabric.)* fine-spun veils with which the shoulders are covered, as are made by women in Campania: *she made fine linen, and sold it, and delivered a girdle to the Chanaanite* (Prov 31:24).  
 
-Second, for covering the adornments of the head: ***headbands***, that is, pepla;According to du Cange, et al., *Glossarium mediae et infimae latinitatis*, a *peplum* is “a linen garment worn by nuns under the chin.” or better, what are called *ligamenta*, with which women bind*Ligant*. their hair, made like a net; and thus may be taken Exodus 28:37: *and you shall tie it with a violet headband*,DR: “fillet.” namely, *a plate of purest gold* (Exod 28:36), where was written the holy name of the Lord.  
+Second, for covering the adornments of the head: ***headbands***, that is, pepla; *(According to du Cange, et al., *Glossarium mediae et infimae latinitatis*, a *peplum* is “a linen garment worn by nuns under the chin.”)* or better, what are called *ligamenta*, with which women bind *(*Ligant*.)* their hair, made like a net; and thus may be taken Exodus 28:37: *and you shall tie it with a violet headband*, *(DR: “fillet.”)* namely, *a plate of purest gold* (Exod 28:36), where was written the holy name of the Lord.  
 
-Third, for covering the adornments of the whole body, he says, ***fine veils*** [*therista*]. The Gloss says, *the most fine of feminine garments, pervious to sight, suitable for summer, from which it gets its name, for “theria” means “summer”*. And women were especially accustomed to carry such things over silk garments: *she put off the garments of her widowhood, and took a veil**Theristrum*. (Gen 38:14). About many of these, it is said in Ezekiel 16:10–12: *I clothed you with embroidery, and shod you with violet colored shoes: and I girded you about with fine linen, and clothed you with fine garments . . . and put bracelets on your hands, and a chain about your neck, and I put a jewel upon your forehead and earrings in your ears, and a beautiful crown upon your head*.  
+Third, for covering the adornments of the whole body, he says, ***fine veils*** [*therista*]. The Gloss says, *the most fine of feminine garments, pervious to sight, suitable for summer, from which it gets its name, for “theria” means “summer”*. And women were especially accustomed to carry such things over silk garments: *she put off the garments of her widowhood, and took a veil* *(*Theristrum*.)* (Gen 38:14). About many of these, it is said in Ezekiel 16:10–12: *I clothed you with embroidery, and shod you with violet colored shoes: and I girded you about with fine linen, and clothed you with fine garments . . . and put bracelets on your hands, and a chain about your neck, and I put a jewel upon your forehead and earrings in your ears, and a beautiful crown upon your head*.  
 
 **127**. ***And instead of a sweet smell there shall be***. Here, the adornments of lasciviousness having been taken away, he exchanges them for the care of misery.  
 
@@ -378,7 +378,7 @@ Women delight in the beauty of men, and as to this, he says: ***your fairest men
 
 Second, in their fortitude, and as to this, he says, ***and your valiant ones***, below: ***they have led away the strong ones thereof into captivity* **(Isa 23:13).  
 
-Third, delight in their dignity, and as to this, he says: ***her gates***, that is, the judges sitting in the gates, ***shall lament***, inwardly, ***and mourn***, outwardly: *her gates are destroyed*Destructae*. Vg.: *defixae*. DR: “sunk.” in the ground: he has destroyed, and broken her bars, her king* (Lam 2:9).  
+Third, delight in their dignity, and as to this, he says: ***her gates***, that is, the judges sitting in the gates, ***shall lament***, inwardly, ***and mourn***, outwardly: *her gates are destroyed *(*Destructae*. Vg.: *defixae*. DR: “sunk.”)* in the ground: he has destroyed, and broken her bars, her king* (Lam 2:9).  
 
 Fourth, they delight in the joyfulness of men, and as to this, he says: ***and she shall sit desolate on the ground***: *he has made me desolate, wasted with sorrow all the day long* (Lam 1:13).  
 
@@ -388,19 +388,19 @@ According to this it seems that it may be lawful to inquire into future things b
 
 Moreover, the same thing seems to follow from the Gloss, which says diviners sometimes speak truths; but truth is to be received from wherever it comes, therefore it should also be received from diviners.  
 
-Moreover, since demons are clearest mirrors according to intellect, as Dionysius says,*De div. nom*. 4.22. it seems that, at least in things that pertain to knowledge, it may not be evil to receive from them, and it will be lawful to turn thus to divination, and especially since no knowledge is evil, and divination may relate knowledge.  
+Moreover, since demons are clearest mirrors according to intellect, as Dionysius says, *(*De div. nom*. 4.22.)* it seems that, at least in things that pertain to knowledge, it may not be evil to receive from them, and it will be lawful to turn thus to divination, and especially since no knowledge is evil, and divination may relate knowledge.  
 
 **129**. To this is to be said that divination, by its name, signifies a usurpation of a divine act, and this especially in the knowledge of future things which cannot be known naturally.  
 
 For there are certain future things which have determinate causes in nature, from which they arise necessarily, like an eclipse of the sun; and divination does not concern these things.  
 
-Other things also have determinate causes, from which they arise, as in many things, like drought in the dog days of summer;Literally: “in the summer under the dog [star].” hence, divination does not concern these things (for such are the prognoses of doctors concerning health or death, and of mariners concerning a coming storm), unless perhaps they are foretold as if coming in immovable truth, for this belongs only to God.  
+Other things also have determinate causes, from which they arise, as in many things, like drought in the dog days of summer; *(Literally: “in the summer under the dog [star].”)* hence, divination does not concern these things (for such are the prognoses of doctors concerning health or death, and of mariners concerning a coming storm), unless perhaps they are foretold as if coming in immovable truth, for this belongs only to God.  
 
 There are also certain future things which do not have determinate causes in nature, and especially those which come to be from free will; and of these causes no one has foreknowledge except God, to whom all things are present because of the stability of his eternity, or someone who learns them from God. And if indeed such things are predicted by divine inspiration, it is prophecy, not divination; if, however, someone predicts by his own devising, deceptively, for the sake of some profit, as little old women do, it is called divination; and it is a sin, because it is a lie, since they assert uncertainties as true, and because it is deception, and because it is a usurpation of divinity.  
 
 **130**. Similarly, a prediction is called divination if it comes to be in any way whatsoever from the counsel of demons, who indeed are able to predict some future things, either because they themselves are the causes of them, or because they themselves know them through the revelation of good angels, or because they foreknow by natural knowledge in those things which have determinate causes in nature that are hidden from us and known to them because of the perspicacity of their intelligence and because of their long experience.  
 
-And nevertheless it is always a sin to inquire from them, and apostasy from faith, as Augustine says.Augustine, *De doctrina Christiana* 2.23.36 (PL 34, 53; CCL 32, 58). And this is so for three reasons: first, because, although they may speak truths, nevertheless their intention is always to deceive; second, because they are not able to have certain knowledge, except of those things which they know through revelation; third, because we are not able to be at the same time sharers in the gifts of God and of the devil; and among all these, this last reason is foremost. And although it may be a benefit simply, nevertheless it is a punishment to those who follow such things, because it is contrary to their will.  
+And nevertheless it is always a sin to inquire from them, and apostasy from faith, as Augustine says. *(Augustine, *De doctrina Christiana* 2.23.36 (PL 34, 53; CCL 32, 58).)* And this is so for three reasons: first, because, although they may speak truths, nevertheless their intention is always to deceive; second, because they are not able to have certain knowledge, except of those things which they know through revelation; third, because we are not able to be at the same time sharers in the gifts of God and of the devil; and among all these, this last reason is foremost. And although it may be a benefit simply, nevertheless it is a punishment to those who follow such things, because it is contrary to their will.  
 
 **131**. Next we consider dancing games: whether they may be practiced without sin, because of what it says in 3:16, ***and they made a noise as they walked with their feet and moved in a set pace***: for he denounces it as sin.  
 

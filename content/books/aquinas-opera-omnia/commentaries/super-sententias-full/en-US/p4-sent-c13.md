@@ -10,79 +10,79 @@ In the first, he inquires if original sin is one, being caused and introduced by
 
 And he shows that it is introduced from the sin of our first parent alone.  
 
-In the second, he inquires if any punishment redounds to the children from the sin of the immediate parents, at *and although children are not bound by the sins of parents, other than Adam’s, nevertheless it is not to be denied that the sins of parents redound upon their children*.*Sent*. II, 33.5(225).1.  
+In the second, he inquires if any punishment redounds to the children from the sin of the immediate parents, at *and although children are not bound by the sins of parents, other than Adam’s, nevertheless it is not to be denied that the sins of parents redound upon their children*. *(*Sent*. II, 33.5(225).1.)*  
 
 The first part is divided into two parts.  
 
 In the first, he shows that from the sin of our first parent alone all his posterity is infected by original sin.  
 
-In the second, he inquires about that first sin, as to what sort it was, at *here it is usual to ask whether the sin of Adam’s transgression, from which proceeded original sin . . . was graver than other sins*.*Sent*. II, 33.3(223).1.  
+In the second, he inquires about that first sin, as to what sort it was, at *here it is usual to ask whether the sin of Adam’s transgression, from which proceeded original sin . . . was graver than other sins*. *(*Sent*. II, 33.3(223).1.)*  
 
 The first part is divided into three parts.  
 
 In the first, he raises the question.  
 
-In the second, he introduces a proof on the side of falsity to show that the sins of previous ancestors pass into children, at *Augustine speaks about this ambiguously in the* Enchiridion.*Sent*. II, 33.1(221).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255).  
+In the second, he introduces a proof on the side of falsity to show that the sins of previous ancestors pass into children, at *Augustine speaks about this ambiguously in the* Enchiridion. *(*Sent*. II, 33.1(221).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255).)*  
 
-In the third, he introduces a proof on the side of truth, at *he next discusses the sins of the ancestors who have gone before and whether they are imputed to children; he does so more by way of offering an opinion than by assertion*.*Sent*. II, 33.2(222).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255).  
+In the third, he introduces a proof on the side of truth, at *he next discusses the sins of the ancestors who have gone before and whether they are imputed to children; he does so more by way of offering an opinion than by assertion*. *(*Sent*. II, 33.2(222).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255).)*  
 
 Now as to the fact that original sin is caused by several sins and not only from the one sin of our first parent, he shows this in three ways in the second part.  
 
 First, he shows it from the authority of Exodus 20:5: *I the Lord your God am a jealous God, visiting the iniquity of the fathers upon the children to the third and the fourth generation of those who hate me*.  
 
-Second, he shows it from the fact that in Scripture original sin is signified in the plural, at *as for the view that it is not the transgression of the first man alone which binds children, but also other crimes, those who hold this view confirm it by the fact that children, too . . . are said to be baptized ‘for the remission of sins.’**Sent*. II, 33.1(221).3.  
+Second, he shows it from the fact that in Scripture original sin is signified in the plural, at *as for the view that it is not the transgression of the first man alone which binds children, but also other crimes, those who hold this view confirm it by the fact that children, too . . . are said to be baptized ‘for the remission of sins.’* *(*Sent*. II, 33.1(221).3.)*  
 
-Third, he shows it from the multiplicity of Adam’s own sin, at *but Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*.*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 45 (CCSL 46; PL 40:254).  
+Third, he shows it from the multiplicity of Adam’s own sin, at *but Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*. *(*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 45 (CCSL 46; PL 40:254).)*  
 
-*He next discusses the sins of the ancestors who have gone before and whether they are imputed to children; he does so more by way of offering an opinion than by assertion*.*Sent*. II, 33.2(222).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255). Here he introduces what is directed to the contrary side.  
+*He next discusses the sins of the ancestors who have gone before and whether they are imputed to children; he does so more by way of offering an opinion than by assertion*. *(*Sent*. II, 33.2(222).2, quoting Augustine, *Enchiridion on Faith, Hope, and Charity*, ch. 47 (CCSL 46; PL 40:255).)* Here he introduces what is directed to the contrary side.  
 
 First, he shows that even what was said before by Augustine has been handed down in doubting manner.  
 
-Second, he shows that it would even contradict his opinion if it were posited in such a way, at *otherwise, he would be shown to be contradicting himself*.*Sent*. II, 33.2(222).4. In this passage, he also gives a solution of what is introduced for the other side, at *if this is so, then they are not bound by the sins of their forefathers other than Adam*.*Sent*. II, 33.2(222).5.  
+Second, he shows that it would even contradict his opinion if it were posited in such a way, at *otherwise, he would be shown to be contradicting himself*. *(*Sent*. II, 33.2(222).4.)* In this passage, he also gives a solution of what is introduced for the other side, at *if this is so, then they are not bound by the sins of their forefathers other than Adam*. *(*Sent*. II, 33.2(222).5.)*  
 
-*Here it is usual to ask whether the sin of Adam’s transgression . . . was graver than other sins*.*Sent*. II, 33.3(223).1. Here he inquires what kind of sin was that one sin of Adam, which infected the whole human nature. And this is divided into two parts.  
+*Here it is usual to ask whether the sin of Adam’s transgression . . . was graver than other sins*. *(*Sent*. II, 33.3(223).1.)* Here he inquires what kind of sin was that one sin of Adam, which infected the whole human nature. And this is divided into two parts.  
 
 In the first, he inquires about its gravity, namely, whether it was graver than other sins.  
 
-In the second, he inquires about its remission, namely, whether it was remitted in the case of our first parents, at *but if it is asked whether that sin was remitted to the first parents, we say that they received forgiveness through penance*.*Sent*. II, 33.4(224).1.  
+In the second, he inquires about its remission, namely, whether it was remitted in the case of our first parents, at *but if it is asked whether that sin was remitted to the first parents, we say that they received forgiveness through penance*. *(*Sent*. II, 33.4(224).1.)*  
 
 Concerning the first, he does three things.  
 
 First, he raises the question.  
 
-Second, he introduces a certain opinion and its proof, at *such seems to be the case to some*.*Sent*. II, 33.3(223).2.  
+Second, he introduces a certain opinion and its proof, at *such seems to be the case to some*. *(*Sent*. II, 33.3(223).2.)*  
 
-Third, he introduces a solution to this proof, at *to this it can be said*.*Sent*. II, 33.3(223).4.  
+Third, he introduces a solution to this proof, at *to this it can be said*. *(*Sent*. II, 33.3(223).4.)*  
 
-*And although children are not bound by the sins of parents, other than Adam’s, nevertheless it is not to be denied that the sins of parents redound upon their children*.*Sent*. II, 33.5(225).1. Having shown that the sins of the immediate parents do not redound to their children as regards the infection of the original stain, here he inquires whether they somehow redound to them as regards a punishment. And it is divided into two parts.  
+*And although children are not bound by the sins of parents, other than Adam’s, nevertheless it is not to be denied that the sins of parents redound upon their children*. *(*Sent*. II, 33.5(225).1.)* Having shown that the sins of the immediate parents do not redound to their children as regards the infection of the original stain, here he inquires whether they somehow redound to them as regards a punishment. And it is divided into two parts.  
 
 In the first, he raises the doubt.  
 
-In the second, he addresses it, at *but, as Jerome says . . . let us note the end of that authority*.*Sent*. II, 33.5(225).3, quoting Jerome, *Commentary on Ezekiel*, bk. 6, ch. 18 (CCSL 75; PL 25:169C).  
+In the second, he addresses it, at *but, as Jerome says . . . let us note the end of that authority*. *(*Sent*. II, 33.5(225).3, quoting Jerome, *Commentary on Ezekiel*, bk. 6, ch. 18 (CCSL 75; PL 25:169C).)*  
 
 And it is divided into two parts.  
 
 First, he addresses it by explaining the authorities in the literal sense.  
 
-In the second part, he does so by explaining them in a mystical sense, at *it is clear that it is also to be understood mystically*.*Sent*. II, 33.5(225).5.  
+In the second part, he does so by explaining them in a mystical sense, at *it is clear that it is also to be understood mystically*. *(*Sent*. II, 33.5(225).5.)*  
 
 Concerning the first, he does two things.  
 
 First, he puts forth the authorities and the exposition whereby they are harmonized.  
 
-Second, he rules out a certain objection, at *and yet, if that statement is to be taken of the imitators of evil people, why did he mention only the third and fourth generation?**Sent*. II, 33.5(225).4.  
+Second, he rules out a certain objection, at *and yet, if that statement is to be taken of the imitators of evil people, why did he mention only the third and fourth generation?* *(*Sent*. II, 33.5(225).4.)*  
 
-*It is clear that it is also to be understood mystically*.*Sent*. II, 33.5(225).5. Here he addresses the doubt with reference to the mystical way of putting things.  
+*It is clear that it is also to be understood mystically*. *(*Sent*. II, 33.5(225).5.)* Here he addresses the doubt with reference to the mystical way of putting things.  
 
 And he first puts forward the exposition.  
 
-Second, he introduces a proof of what he had supposed, at *as Jerome says, ‘To prove that the first impulse of thought is not punished eternally by God, that text of Genesis is to be adduced.’**Sent*. II, 33.5(225).6, quoting Jerome, *Commentary on Ezekiel*, bk. 18, ch. 2 (CCSL 75; PL 25:167).  
+Second, he introduces a proof of what he had supposed, at *as Jerome says, ‘To prove that the first impulse of thought is not punished eternally by God, that text of Genesis is to be adduced.’* *(*Sent*. II, 33.5(225).6, quoting Jerome, *Commentary on Ezekiel*, bk. 18, ch. 2 (CCSL 75; PL 25:167).)*  
 
 Here there are two questions.  
 
-First, on the unity of original sin.Q. 1.  
+First, on the unity of original sin. *(Q. 1.)*  
 
-Second, on the punishment of the same sin.Q. 2.  
+Second, on the punishment of the same sin. *(Q. 2.)*  
 
 Question 1  
 
@@ -100,11 +100,11 @@ Article 1
 
 ***Whether one contracts the stain from his immediate parents***
 
-To the first we proceed as follows.Parallel texts: *ST* I-II.81.1, 2; *SCG* IV.52; *On Evil*, q. 4, a. 8; *Compendium theologiae*, ch. 197; *Commentary on Romans*, ch. 5, lect. 3. It seems that one contracts the stain by way of origin from his immediate parents.  
+To the first we proceed as follows. *(Parallel texts: *ST* I-II.81.1, 2; *SCG* IV.52; *On Evil*, q. 4, a. 8; *Compendium theologiae*, ch. 197; *Commentary on Romans*, ch. 5, lect. 3.)* It seems that one contracts the stain by way of origin from his immediate parents.  
 
 Obj. 1: For in successive human generation, to the degree that a begetter is more immediate, the more effectively does it introduce its own likeness in the offspring. Hence children resemble their fathers more than their grandfathers, great-grandfathers, and so forth. But the passing-down of original sin is according to the likening of the begetter to the begotten. For one born in original sin also begets in original sin. Therefore, the child contracts original sin more through that of his proximate parent than through Adam’s sin.  
 
-Obj. 2: Furthermore, as Augustine said above, original sin remains in the offspring from the lust of intercourse.Rather: Fulgentius, *De fide ad Petrum*, ch. 2, para. 16 (CCSL 91A; PL 40:758); see above, d. 31, q. 1, a. 2, obj. 5. But, no matter in which sense we take it, this lust belongs to the immediate parent. Therefore, the offspring is infected by origin from the sins of the immediate parents.  
+Obj. 2: Furthermore, as Augustine said above, original sin remains in the offspring from the lust of intercourse. *(Rather: Fulgentius, *De fide ad Petrum*, ch. 2, para. 16 (CCSL 91A; PL 40:758); see above, d. 31, q. 1, a. 2, obj. 5.)* But, no matter in which sense we take it, this lust belongs to the immediate parent. Therefore, the offspring is infected by origin from the sins of the immediate parents.  
 
 Obj. 3: Furthermore, everything agreeing in species has the same relation to the nature of the species. But all men agree in species. Therefore, if Adam could corrupt human nature through his own proper act, it seems that others, too, corrupt human nature in themselves through actual sins. But the child receives human nature from the father. Therefore, the infection of original fault in the offspring must follow from the actual sin of the immediate parent.  
 
@@ -138,11 +138,11 @@ Article 2
 
 Whether the fault of the immediate parents redounds to their children as far as punishment is concerned  
 
-To the second we proceed as follows.Parallel text: *ST* I-II.81.2. It seems that the immediate parents’ fault redounds to their children as regards punishment.  
+To the second we proceed as follows. *(Parallel text: *ST* I-II.81.2.)* It seems that the immediate parents’ fault redounds to their children as regards punishment.  
 
 Obj. 1: This is, first, because of Exodus 20:5: *I am a jealous God, visiting the iniquity of the fathers upon the children*. And here it is speaking of the visitation of correction that takes place through punishment. Therefore, children are punished for the sins of their parents.  
 
-Obj. 2: One might say that this is understood only of those who imitate their fathers’ sins, as it says in the text.*Sent*. II, 33.5(225).3.  
+Obj. 2: One might say that this is understood only of those who imitate their fathers’ sins, as it says in the text. *(*Sent*. II, 33.5(225).3.)*  
 
 *On the contrary*, the very imitation whereby someone imitates a sinner is a kind of sin, and it is not the sin of the one who is imitated, but of the one who imitates. Therefore, if children are punished for imitating their fathers’ sins, God is not visiting the fathers’ sins upon them, as Scripture says, but their own sins instead.  
 
@@ -156,7 +156,7 @@ On the contrary, *the son shall not bear the iniquity of the father* (Ezek 18:20
 
 Furthermore, punishment corresponds to fault. But the father’s actual fault is not transferred to the child. Therefore, it is unjust for the child to be punished for the fault of the father.  
 
-I answer that we can consider the child in two ways: as a given person, or as something of the parent’s. For when it comes to civil happiness, among the other goods of fortune that bestow happiness in an instrumental way, the Philosopher includes children.Aristotle, *Nicomachean Ethics* 1.8, 1099b4. Now, a child is something of the parent’s as regards his body, which he has from his parent, and as regards worldly affairs, in which the child is bound to assist his father. But as regards the soul, which is created immediately by God, the child is not something of the parent’s, but belongs to God himself. This is what Ezekiel 18:4 means: *the soul of the father as well as the soul of the son is mine*.  
+I answer that we can consider the child in two ways: as a given person, or as something of the parent’s. For when it comes to civil happiness, among the other goods of fortune that bestow happiness in an instrumental way, the Philosopher includes children. *(Aristotle, *Nicomachean Ethics* 1.8, 1099b4.)* Now, a child is something of the parent’s as regards his body, which he has from his parent, and as regards worldly affairs, in which the child is bound to assist his father. But as regards the soul, which is created immediately by God, the child is not something of the parent’s, but belongs to God himself. This is what Ezekiel 18:4 means: *the soul of the father as well as the soul of the son is mine*.  
 
 Therefore, it should be known that there are two punishments that follow on sin. One is the essential punishment, which pertains to the soul—both in the present, such as the loss of grace, a troubled conscience, and things of this sort; and in the future, such as the punishment of hell. And a child is never punished with this kind of punishment for his father’s sin, since this punishment does not regard him insofar as he is something of his father’s. The other punishment follows on sin, as it were, incidentally, such as bodily infirmities and other temporal punishments. Hence it is also not the case that such punishments are always inflicted on those who sin. Rather, this takes place in accord with the direction of divine providence, which governs all things. And a child is sometimes punished with this kind of punishment for his father’s sin, unless there is an impediment on the child’s part, such as being contrary to the father’s sin by way of a good life. For this punishment befalls him as being something of his father’s, just as for a man’s sin animals are sometimes killed and houses demolished, and there is no fault in these.  
 
@@ -168,17 +168,17 @@ Reply Obj. 3: There are two reasons why a child who imitates his father’s sin 
 
 Reply Obj. 4: Human justice does not punish the child for the father’s sin in what the child has already received from the father, but in that which he would be going to receive, as regards either body or possessions. For just because his father sins, a child already born is not maimed, nor is a child who is a minor disinherited. But incidentally a father’s punishment does redound to the child, when what was supposed to go to the child from the father is taken away from the father, such as an inheritance or even a limb, since from maimed people a maimed person is born.  
 
-Reply Obj. 5: The people is something of the king’s, and so the people is punished that in its punishment the king may be punished. And this is especially the case, as Gregory says,Gregory the Great, *Moralia in Job*, bk. 25, ch. 16 (CCSL 143B; PL 76:343). when the people’s sins deserve having a sinful king established over them or having a king who is permitted to fall into sin, as Job 34:30 says: *who makes a hypocrite to reign on account of the people’s sins*.RSV reads *that a godless man should not reign, that he should not ensnare the people*. And so it is clear that the people is also punished for its own sin.  
+Reply Obj. 5: The people is something of the king’s, and so the people is punished that in its punishment the king may be punished. And this is especially the case, as Gregory says, *(Gregory the Great, *Moralia in Job*, bk. 25, ch. 16 (CCSL 143B; PL 76:343).)* when the people’s sins deserve having a sinful king established over them or having a king who is permitted to fall into sin, as Job 34:30 says: *who makes a hypocrite to reign on account of the people’s sins*. *(RSV reads *that a godless man should not reign, that he should not ensnare the people*.)* And so it is clear that the people is also punished for its own sin.  
 
 Article 3  
 
 ***Whether original sin is only one***
 
-To the third we proceed as follows.Parallel texts: below, exposition of the text; *ST* I-II.82.2; *On Evil*, q. 4, a. 8, ad 1; *Commentary on Psalms*, Psalm 31, Psalm 50; *Commentary on Romans*, ch. 4, lect. 1; ch. 5, lect. 3. It seems that original sin is not only one.  
+To the third we proceed as follows. *(Parallel texts: below, exposition of the text; *ST* I-II.82.2; *On Evil*, q. 4, a. 8, ad 1; *Commentary on Psalms*, Psalm 31, Psalm 50; *Commentary on Romans*, ch. 4, lect. 1; ch. 5, lect. 3.)* It seems that original sin is not only one.  
 
-Obj. 1: For what is signified in the plural cannot be only one. But when the saints speak of original sin, they signify it in the plural, as when Rabanus saysSee *Decretum magistri Gratiani*, d. 6, “De Poenitentia,” ch. 1 (col. 1618), from Rabanus’s Gloss on Matthew 28:34. that a man who goes back to sin has not only the sins that he performed after baptism imputed to him for punishment, but also the original sins that were forgiven him in baptism.*See Sent*. IV, 22.1(125).3. Therefore, original sin is not only one.  
+Obj. 1: For what is signified in the plural cannot be only one. But when the saints speak of original sin, they signify it in the plural, as when Rabanus says *(See *Decretum magistri Gratiani*, d. 6, “De Poenitentia,” ch. 1 (col. 1618), from Rabanus’s Gloss on Matthew 28:34.)* that a man who goes back to sin has not only the sins that he performed after baptism imputed to him for punishment, but also the original sins that were forgiven him in baptism. *(*See Sent*. IV, 22.1(125).3.)* Therefore, original sin is not only one.  
 
-Obj. 2: Furthermore, it is impossible for a single habit to incline to all acts of sin, especially since some are mutually contrary. But, according to Anselm,Anselm, *De conceptu virginali et de originali peccato*, ch. 7 (PL 158:441). original sin is a propensity to every evil. Therefore, it is impossible for it to be one only.  
+Obj. 2: Furthermore, it is impossible for a single habit to incline to all acts of sin, especially since some are mutually contrary. But, according to Anselm, *(Anselm, *De conceptu virginali et de originali peccato*, ch. 7 (PL 158:441).)* original sin is a propensity to every evil. Therefore, it is impossible for it to be one only.  
 
 Obj. 3: Furthermore, one fault is due one punishment. But multiple punishments are due to original sin, such as lacking the vision of God, the necessity of dying, and so forth. Therefore, it is not only one fault.  
 
@@ -186,9 +186,9 @@ Obj. 4: Furthermore, it is impossible for the same accident to be in the soul an
 
 Obj. 5: Furthermore, different powers have different privations and habits. But all the soul’s powers are corrupted by original sin. Therefore, it is impossible for original sin to be only one.  
 
-On the contrary, in a gloss on Romans 5, it says: *one man sent one sin into the world*,Peter Lombard, *Commentary on Romans*, at Romans 5:19 (PL 191:1397). speaking of original sin. Therefore, original sin is one.  
+On the contrary, in a gloss on Romans 5, it says: *one man sent one sin into the world*, *(Peter Lombard, *Commentary on Romans*, at Romans 5:19 (PL 191:1397).)* speaking of original sin. Therefore, original sin is one.  
 
-Furthermore, the subject of original sin is the soul’s essence, as was said above.See above, d. 31, q. 2, a. 1. But the soul has only one essence. Therefore, original sin is only one.  
+Furthermore, the subject of original sin is the soul’s essence, as was said above. *(See above, d. 31, q. 2, a. 1.)* But the soul has only one essence. Therefore, original sin is only one.  
 
 I answer that in something that has more than one part, there can be two sorts of corruption in the parts: either from the dissolution of the equality whereby all the parts enjoyed a good relation to one another, or from the dissolution of something among them that served a determinate part, as is clear in the body. For it is the case that weakness occurs among the parts of the body due to the dissolution of equality of the composure whereby there was strength in all the body’s parts, as happens in a fever. Thus, there is one fever whereby all the body’s parts are weakened, not individual fevers in the individual parts. It is also the case that parts of the body are weakened by the fact that there is a deficiency of something in which a limb’s strength consisted. And in this case there must be different corruptions corresponding to the different parts, such as the fact that an eye is bleary, a foot is lame, and so forth.  
 
@@ -200,7 +200,7 @@ Reply Obj. 2: Just as there are two kinds of mover, one essentially and another 
 
 Reply Obj. 3: The punishment that essentially corresponds to original sin is the lack of the vision of God, whereas the other punishments follow on this, as it were, incidentally. For from the subtraction of original justice, which subjected the body to the soul, man’s life must continue according to the body’s requirement. Hence the necessity of dying follows, since the body is composed of contraries. And likewise for the rest.  
 
-Reply Obj. 4: The subject of original fault is not the flesh, but the soul. For privation and habit must be in the same subject. Hence just as the original justice that was in the soul preserved the body from death by the power of the soul possessing justice, so too from the privation in the soul results each deficiency in the body, and this deficiency was not in the flesh prior to the soul’s infusion actually, but only virtually, as was said above.Above: d. 30, q. 1, a. 2, ad 4.  
+Reply Obj. 4: The subject of original fault is not the flesh, but the soul. For privation and habit must be in the same subject. Hence just as the original justice that was in the soul preserved the body from death by the power of the soul possessing justice, so too from the privation in the soul results each deficiency in the body, and this deficiency was not in the flesh prior to the soul’s infusion actually, but only virtually, as was said above. *(Above: d. 30, q. 1, a. 2, ad 4.)*  
 
 Reply Obj. 5: The response to the fifth objection is clear through what has been said above.  
 
@@ -220,19 +220,19 @@ Article 1
 
 To the first we proceed as follows. It seems that a sensible punishment is due original sin in itself.  
 
-Obj. 1: For Augustine says: *hold most firmly and in no way doubt that little children who have passed from this world without the sacrament of baptism will be punished with eternal pain*.Rather: Fulgentius, *De fide ad Petrum*, ch. 27 (CCSL 91A; PL 40:774). But “pain” denotes a sensible punishment. Therefore, little children who will be punished for original sin alone will undergo a sensible punishment.  
+Obj. 1: For Augustine says: *hold most firmly and in no way doubt that little children who have passed from this world without the sacrament of baptism will be punished with eternal pain*. *(Rather: Fulgentius, *De fide ad Petrum*, ch. 27 (CCSL 91A; PL 40:774).)* But “pain” denotes a sensible punishment. Therefore, little children who will be punished for original sin alone will undergo a sensible punishment.  
 
-Obj. 2: Furthermore, a greater fault is due a greater punishment. But original sin is greater than venial sin, since it contains a greater turning away,In this article and elsewhere, Aquinas uses the nouns *aversio* and *conversio*, which could be transliterated into English as the abstract nouns “aversion’” and “conversion”; we have instead translated these words as “turning away” and “turning toward” to make the meaning of the words more concrete, but it should be noted that Aquinas often leaves out the object of what is turned from or what is turned toward, which can sometimes make the translation somewhat difficult to follow; that being said, in discussing the nature of sin, he lays out the objects of these turnings above, at d. 30, q. 1, a. 3, resp. Here, the turning away is a turning away from the unchangeable good that is God. Aquinas’s usage mirrors the frequent Old Testament expression *shuv* (Heb. שׁוּב) that means “return” (“turn back”) but is a clear metaphor for repentance; see, for instance, Joel 2:12 and 2 Chronicles 7:14. by the fact that it takes away grace, whereas venial sin is compatible with grace. Again, original sin is punished with an eternal punishment, but venial sin with a temporal punishment. Therefore, since venial sin is due a sensible punishment, much more is original sin.  
+Obj. 2: Furthermore, a greater fault is due a greater punishment. But original sin is greater than venial sin, since it contains a greater turning away, *(In this article and elsewhere, Aquinas uses the nouns *aversio* and *conversio*, which could be transliterated into English as the abstract nouns “aversion’” and “conversion”; we have instead translated these words as “turning away” and “turning toward” to make the meaning of the words more concrete, but it should be noted that Aquinas often leaves out the object of what is turned from or what is turned toward, which can sometimes make the translation somewhat difficult to follow; that being said, in discussing the nature of sin, he lays out the objects of these turnings above, at d. 30, q. 1, a. 3, resp. Here, the turning away is a turning away from the unchangeable good that is God. Aquinas’s usage mirrors the frequent Old Testament expression *shuv* (Heb. שׁוּב) that means “return” (“turn back”) but is a clear metaphor for repentance; see, for instance, Joel 2:12 and 2 Chronicles 7:14.)* by the fact that it takes away grace, whereas venial sin is compatible with grace. Again, original sin is punished with an eternal punishment, but venial sin with a temporal punishment. Therefore, since venial sin is due a sensible punishment, much more is original sin.  
 
 Obj. 3: Furthermore, sins are punished more seriously after this life than in this life, where there is room for mercy. But in this life a sensible punishment corresponds to original sin. For children who have only original sin undergo many sensible punishments, and not unjustly. Therefore, a sensible punishment is also due after this life.  
 
-Obj. 4: Furthermore, just as in actual sin there is a turning away and a turning toward,That is, a turning away from God and a turning toward a created thing. so also in original sin there is something corresponding to turning away, namely, the privation of original justice, and something corresponding to turning toward, namely, concupiscence. But by reason of the turning toward, actual sin is due a sensible punishment. Therefore, original sin is also due one by reason of concupiscence.  
+Obj. 4: Furthermore, just as in actual sin there is a turning away and a turning toward, *(That is, a turning away from God and a turning toward a created thing.)* so also in original sin there is something corresponding to turning away, namely, the privation of original justice, and something corresponding to turning toward, namely, concupiscence. But by reason of the turning toward, actual sin is due a sensible punishment. Therefore, original sin is also due one by reason of concupiscence.  
 
 Obj. 5: Furthermore, after the resurrection, children’s bodies will either be passible or impassible. If they are impassible (and no human body can be impassible except either through the dowry of impassibility, as in the case of the blessed, or by reason of original justice, as in the state of innocence), then either children’s bodies will have the dowry of impassibility, and so will be glorious, and there will not be a difference between baptized and unbaptized children, which is heretical, or they will have original justice, and in this case will lack original sin, nor will they be punished for original sin, which is likewise heretical. On the other hand, if they are passible (and whatever is passible necessarily suffers when an agent is present), then when sensible bodies are present as agents, they will suffer a sensible punishment.  
 
-On the contrary, Augustine saysAugustine, *Enchiridion de fide, spe, et caritate*, ch. 93 (CCSL 46; PL 40:275). that the punishment of little children, bound to original sin alone, is the most mild of all. But this would not be the case if they were tormented by sensible punishment, since hell’s punishment of fire is quite serious. Therefore, they will not undergo a sensible punishment.  
+On the contrary, Augustine says *(Augustine, *Enchiridion de fide, spe, et caritate*, ch. 93 (CCSL 46; PL 40:275).)* that the punishment of little children, bound to original sin alone, is the most mild of all. But this would not be the case if they were tormented by sensible punishment, since hell’s punishment of fire is quite serious. Therefore, they will not undergo a sensible punishment.  
 
-Furthermore, the harshness of sensible punishment corresponds to the pleasure of fault. *As she glorified herself and played the wanton, so give her a like measure of torment and mourning* (Rev 18:7). But there is no pleasure in original sin, just as there is no activity. For pleasure follows on activity, as is clear in the *Ethics* 10.Aristotle, *Nicomachean Ethics* 1.4, 1175a5. Therefore, original sin is not due a sensible punishment.  
+Furthermore, the harshness of sensible punishment corresponds to the pleasure of fault. *As she glorified herself and played the wanton, so give her a like measure of torment and mourning* (Rev 18:7). But there is no pleasure in original sin, just as there is no activity. For pleasure follows on activity, as is clear in the *Ethics* 10. *(Aristotle, *Nicomachean Ethics* 1.4, 1175a5.)* Therefore, original sin is not due a sensible punishment.  
 
 I answer that punishment should be proportionate to fault, as it says: *measure by measure, by exile you did contend with them* (Isa 27:8). Now, the deficiency passed down by origin that has the account of a fault occurs not through the subtraction or corruption of a good that follows on human nature from its own principles, but through the subtraction or corruption of a good that was super-added to the nature. And this fault does not pertain to this individual man except as possessing the kind of nature that is bereft of this good that was meant to be in him and could have been preserved. Thus, no punishment is due it other than the privation of the end to which the subtracted gift was ordering the nature, one to which gift human nature cannot attain by itself. This is the vision of God, and thus, lacking this vision is the proper and sole punishment of original sin after death. For if another, sensible punishment were inflicted after death for original sin, a human being would be punished not as having had a fault, since sensible punishment pertains to what is proper to the person, since this kind of punishment exists by way of a particular individual’s suffering. Hence just as the fault was not through his own activity, neither is he due punishment by way of his own suffering. Instead, he is only due punishment by way of falling short of that to which his nature was of itself insufficient. As for the other perfections and aspects of goodness that follow on human nature from its principles, those who are damned for original sin will undergo no detriment.  
 
@@ -252,7 +252,7 @@ Article 2
 
 To the second we proceed as follows. It seems that unbaptized children feel spiritual affliction in their soul.  
 
-Obj. 1: For, just as Chrysostom says,John Chrysostom, *Homiliae XC in Matthaeum*, homily 23 (PG 57:307). in the damned, the fact that they will lack the vision of God will be a more serious punishment than the fact that they will be burned by the fire below. But children will lack the vision of God. Therefore, they will feel spiritual affliction from this.  
+Obj. 1: For, just as Chrysostom says, *(John Chrysostom, *Homiliae XC in Matthaeum*, homily 23 (PG 57:307).)* in the damned, the fact that they will lack the vision of God will be a more serious punishment than the fact that they will be burned by the fire below. But children will lack the vision of God. Therefore, they will feel spiritual affliction from this.  
 
 Obj. 2: Furthermore, lacking what one wants to have cannot exist without affliction. But children would want to possess the vision of God. Otherwise their will would actually be perverse. Therefore, since they lack it, it seems that they feel affliction from that fact.  
 
@@ -264,9 +264,9 @@ Obj. 4: Furthermore, unbaptized children are to Adam’s merits as baptized chil
 
 Obj. 5: Furthermore, one cannot be absent from something he loves without pain. But the children will have natural knowledge of God and for the same reason will naturally love him. Therefore, since they are separated from him forever, it seems that they cannot suffer this without pain.  
 
-On the contrary, if unbaptized children had internal pain after death, they will experience pain either from fault or punishment. If it is from fault, then since they cannot be further cleansed from this fault, the pain will lead to despair. But this kind of pain is the worm of conscience in the damned. Therefore, the children would have the worm of conscience, and in this case their punishment would not be the most mild, as it says in the text.*Sent*. II, 33.2(222).5. Alternatively, if they experienced pain from punishment, then since their punishment is justly from God, their will would be opposed to divine justice, and in this case it would actually be deformed, which we are not granting here. Therefore, they will feel no internal pain.  
+On the contrary, if unbaptized children had internal pain after death, they will experience pain either from fault or punishment. If it is from fault, then since they cannot be further cleansed from this fault, the pain will lead to despair. But this kind of pain is the worm of conscience in the damned. Therefore, the children would have the worm of conscience, and in this case their punishment would not be the most mild, as it says in the text. *(*Sent*. II, 33.2(222).5.)* Alternatively, if they experienced pain from punishment, then since their punishment is justly from God, their will would be opposed to divine justice, and in this case it would actually be deformed, which we are not granting here. Therefore, they will feel no internal pain.  
 
-Furthermore, right reason cannot bear someone’s being distressed over what he did not have in himself the ability to avoid. For this reason Seneca provesSeneca, *Letter 85*, and *On Wrath*, bk. 2, ch. 6. that distress does not befall the wise person. But in these children there is right reason that is not obscured by any actual sin. Therefore, they will not be troubled by the fact that they undergo a punishment that they had no way of avoiding.  
+Furthermore, right reason cannot bear someone’s being distressed over what he did not have in himself the ability to avoid. For this reason Seneca proves *(Seneca, *Letter 85*, and *On Wrath*, bk. 2, ch. 6.)* that distress does not befall the wise person. But in these children there is right reason that is not obscured by any actual sin. Therefore, they will not be troubled by the fact that they undergo a punishment that they had no way of avoiding.  
 
 I answer that there are three opinions concerning this.  
 
@@ -282,7 +282,7 @@ Therefore, I say that every man possessing the use of free decision is proportio
 
 Reply Obj. 1: In those damned for actual sin, who had the use of free decision, there was an aptitude for obtaining eternal life, whereas there is not in the children, as was said. Thus, the account of both cases is not similar.  
 
-Reply Obj. 2: Although the will is for what is possible and what is impossible, as it says in the *Ethics* 3,Aristotle, *Nicomachean Ethics* 3.2, 1111b20–23. the ordered and complete will is only for that to which one has in some way been ordered. If they fall short in such a will, human beings experience pain, but not if they fall short of the will for what is impossible, which should really be called a “velleity” rather than a will. For one is not willing the thing simply, but would will it if it were possible.That is, in Latin, the will for what is impossible ought to be called *velleitas* rather than *voluntas*, since one does not will it (*vult*), simply speaking, but would will it (*vellet*), were it possible.  
+Reply Obj. 2: Although the will is for what is possible and what is impossible, as it says in the *Ethics* 3, *(Aristotle, *Nicomachean Ethics* 3.2, 1111b20–23.)* the ordered and complete will is only for that to which one has in some way been ordered. If they fall short in such a will, human beings experience pain, but not if they fall short of the will for what is impossible, which should really be called a “velleity” rather than a will. For one is not willing the thing simply, but would will it if it were possible. *(That is, in Latin, the will for what is impossible ought to be called *velleitas* rather than *voluntas*, since one does not will it (*vult*), simply speaking, but would will it (*vellet*), were it possible.)*  
 
 Reply Obj. 3: Everyone is ordered to possess his own patrimony or the limbs of his own body. Thus, it is no wonder if someone experiences pain at losing them, whether he is deprived of them by his own fault or someone else’s. Hence it is clear that the argument does not proceed from a similar case.  
 
@@ -292,18 +292,18 @@ Reply Obj. 5: Even though unbaptized children are separated from God as far as t
 
 Exposition of the text  
 
-*But Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*.*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion de fide, spe et caritate*, ch. 47 (CCSL 46; PL 40:255). Therefore, it should be known that in a given sin we can identify the deformities of more than one sin in two ways: either properly, and in this way the deformities of pride, gluttony, disobedience, and so forth, appear in Adam’s sin; or else, as it were, metaphorically. And in this latter way, we see in it the deformity of homicide, since he spiritually killed himself, and of fornication, since he spiritually committed fornication by withdrawing from God. Yet, there is only one single sin possessing these deformities from the different circumstances while retaining the species of sin from its last end. Thus, the original sin caused by it also does not need to be many.  
+*But Augustine, in the* Enchiridion*, indicates that many sins can be identified in the actual sin of Adam*. *(*Sent*. II, 33.2(222).1, quoting Augustine, *Enchiridion de fide, spe et caritate*, ch. 47 (CCSL 46; PL 40:255).)* Therefore, it should be known that in a given sin we can identify the deformities of more than one sin in two ways: either properly, and in this way the deformities of pride, gluttony, disobedience, and so forth, appear in Adam’s sin; or else, as it were, metaphorically. And in this latter way, we see in it the deformity of homicide, since he spiritually killed himself, and of fornication, since he spiritually committed fornication by withdrawing from God. Yet, there is only one single sin possessing these deformities from the different circumstances while retaining the species of sin from its last end. Thus, the original sin caused by it also does not need to be many.  
 
-*‘Yet it is not to be held to have been graver than the sin against the Holy Spirit*.’*Sent*. II, 33.3(223).4, quoting Augustine, *The City of God*, bk. 14, ch. 12 (CCSL 48; PL 41:420). The first man had less inducing him to sin than subsequent human beings. But the less the temptation under which one falls, the more gravely he sins. Therefore, the first man sinned more gravely than other subsequent human beings.  
+*‘Yet it is not to be held to have been graver than the sin against the Holy Spirit*.’ *(*Sent*. II, 33.3(223).4, quoting Augustine, *The City of God*, bk. 14, ch. 12 (CCSL 48; PL 41:420).)* The first man had less inducing him to sin than subsequent human beings. But the less the temptation under which one falls, the more gravely he sins. Therefore, the first man sinned more gravely than other subsequent human beings.  
 
 Furthermore, what does more harm is a greater evil. Now, that sin did more harm than the rest. Therefore, it was worse.  
 
-It should be said that it can happen that one sin is lighter simply than another that is graver as regards a given circumstance, as was said above when dealing with Adam’s sin,See above, d. 22, q. 1, a. 3. by virtue of the fact that a sin is said to be graver simply when it possesses greater gravity from its species, or is made graver by many circumstances, or even from one circumstances that greatly deforms the act. Hence many other sins are simply graver than the first sin of Adam, both because they arise from greater contempt, and because they possess greater turpitude from their species. But as regards the circumstance that Adam fell when assaulted by external temptation alone, it is graver than sins to which internal temptation also impels. Hence the reply to the first is clear.  
+It should be said that it can happen that one sin is lighter simply than another that is graver as regards a given circumstance, as was said above when dealing with Adam’s sin, *(See above, d. 22, q. 1, a. 3.)* by virtue of the fact that a sin is said to be graver simply when it possesses greater gravity from its species, or is made graver by many circumstances, or even from one circumstances that greatly deforms the act. Hence many other sins are simply graver than the first sin of Adam, both because they arise from greater contempt, and because they possess greater turpitude from their species. But as regards the circumstance that Adam fell when assaulted by external temptation alone, it is graver than sins to which internal temptation also impels. Hence the reply to the first is clear.  
 
 To the second, it should be said that it is incidental that this kind of harm befell human nature, namely, that it was the first sin that vitiated human nature and disrupted the soul’s order to God in the one from whom all human beings generated through intercourse have taken human nature. Now, no matter what other sin had been first in this manner, it would also have had a similar effect, whether it had been a sin of the work or of the will. Yet some say otherwise, stating that if Adam had sinned in some other way, he would not have incurred the necessity of dying, since this punishment seems to have been ordained by God for this fault alone, when he says: *in the day that you eat of it you shall die* (Gen 2:17). But this very fact shows that if Adam had committed other sins, he would have born a similar punishment, as if arguing from the lesser. For it is graver to transgress a precept of the natural law whereby what is evil in itself is prohibited than to transgress a disciplinary precept prohibiting what is only evil because of the prohibition.  
 
-*But if it is asked whether that sin was remitted to the first parents, we say that they received forgiveness through penance*.*Sent*. II, 33.4(224).1. It seems that our first parents did not make satisfaction for their sin. For since good is stronger than evil, as Dionysius proves, if our first parents infected the whole human race by their sin, then if they had made satisfaction, all the more would they have wiped away the stain they had introduced.  
+*But if it is asked whether that sin was remitted to the first parents, we say that they received forgiveness through penance*. *(*Sent*. II, 33.4(224).1.)* It seems that our first parents did not make satisfaction for their sin. For since good is stronger than evil, as Dionysius proves, if our first parents infected the whole human race by their sin, then if they had made satisfaction, all the more would they have wiped away the stain they had introduced.  
 
 But it should be said that the first sin was able to disrupt the right order of human reason to God, by reason of which the necessity was introduced of the body’s order to the soul being disrupted by death. And in this way, the vice of the person was able to redound to the nature. But the person’s penitence was unable to make it so that the order had not been disrupted, because what was done as regards the one infected cannot be held on to. Hence he was not able to restore what sin had taken away as regards the nature, but only as regards the person, which is purged from the actual guilt by penitence. For nature can only be called back to a higher state through what surpasses the whole nature. Thus, for nature to be cured, there had to be a God-man who would perfectly cure the nature. But this pertains more to Book III.  
 
-*Sinful flesh, even if man lives justly in it after the remission of sins, does not necessarily deserve not to suffer that death which it has derived from the propagation of sin*.*Sent*. II, 33.4(224).1. This is the case because, although the infection of original fault is purged by man’s justice, with reference to the fact that it redounds from the nature to the person, it is still not purged as regards the nature itself absolutely. Thus, the punishments that are due the nature itself are not remitted as long as the infection remains in such a nature, even if a man died a hundred times and rose in pristine condition. For if the infection of the nature remains, the obligation to punishment always remains.
+*Sinful flesh, even if man lives justly in it after the remission of sins, does not necessarily deserve not to suffer that death which it has derived from the propagation of sin*. *(*Sent*. II, 33.4(224).1.)* This is the case because, although the infection of original fault is purged by man’s justice, with reference to the fact that it redounds from the nature to the person, it is still not purged as regards the nature itself absolutely. Thus, the punishments that are due the nature itself are not remitted as long as the infection remains in such a nature, even if a man died a hundred times and rose in pristine condition. For if the infection of the nature remains, the obligation to punishment always remains.

@@ -1,12 +1,12 @@
 # Chapter 29
 
-^29:1^ Woe to Ariel, to Ariel the city which David took: year is added to year: the solemnities have been unrolled.*Evolutae sunt*. DR: “are at an end.”  
+^29:1^ Woe to Ariel, to Ariel the city which David took: year is added to year: the solemnities have been unrolled. *(*Evolutae sunt*. DR: “are at an end.”)*  
 
 > ^29:2^ And I will make a trench about Ariel, and it shall be in sorrow and mourning, and it shall be to me as Ariel.
 
-> ^29:3^ And I will encircle you like a sphere round about you,*Circumdabo quasi sphaeram in circuitu tuo*. DR: “make a circle round about thee.” and I will cast up a rampart against you, and raise up bulwarks to besiege you.
+> ^29:3^ And I will encircle you like a sphere round about you, *(*Circumdabo quasi sphaeram in circuitu tuo*. DR: “make a circle round about thee.”)* and I will cast up a rampart against you, and raise up bulwarks to besiege you.
 
-> ^29:4^ You shall be humbled,*Humiliaberis*. DR: “brought down.” you shall speak out of the earth, and your speech shall be heard out of the ground: and your voice shall be from the earth like that of the python, and out of the earth your speech shall mutter.
+> ^29:4^ You shall be humbled, *(*Humiliaberis*. DR: “brought down.”)* you shall speak out of the earth, and your speech shall be heard out of the ground: and your voice shall be from the earth like that of the python, and out of the earth your speech shall mutter.
 
 > ^29:5^ And the multitude of them that fan you, shall be like small dust: and as ashes passing away, the multitude of them that have prevailed against you.
 
@@ -32,7 +32,7 @@
 
 > ^29:16^ This thought of yours is perverse: as if the clay should think against the potter, and the work should say to the maker thereof: you made me not: or the thing framed should say to him that fashioned it: you understand not.
 
-> ^29:17^ Is it not yet a very little while, and Libanus shall be turned into Carmel,*Carmel*. DR: “Charmel.” and Carmel shall be esteemed as a forest?
+> ^29:17^ Is it not yet a very little while, and Libanus shall be turned into Carmel, *(*Carmel*. DR: “Charmel.”)* and Carmel shall be esteemed as a forest?
 
 > ^29:18^ And in that day the deaf shall hear the words of the book, and out of darkness and obscurity the eyes of the blind shall see.
 
@@ -68,7 +68,7 @@ in the second, destruction by the Romans: ***and I will encircle you like a sphe
 
 **652**. Concerning the first, he does three things.  
 
-First, he recalls their former dignity: ***Ariel***, that is, lion of God, for by the power of God in the time of David and Solomon they feared no one, like a lion: *a lion, the strongest of beasts, who has no fear of any thing he meets* (Prov 30:30); or because of the altar of holocausts, which was there in Jerusalem, because, like a lion, it consumed animals, and this is understood from Ezekiel 43:15; or perhaps because of its shape, for it was situated in the manner of a lion. ***The city which David took***: *for I have taken*Expugnavi*. Vg.: *interfeci*. DR: “killed.” both a lion and a bear* (1 Sam 17:36).  
+First, he recalls their former dignity: ***Ariel***, that is, lion of God, for by the power of God in the time of David and Solomon they feared no one, like a lion: *a lion, the strongest of beasts, who has no fear of any thing he meets* (Prov 30:30); or because of the altar of holocausts, which was there in Jerusalem, because, like a lion, it consumed animals, and this is understood from Ezekiel 43:15; or perhaps because of its shape, for it was situated in the manner of a lion. ***The city which David took***: *for I have taken *(*Expugnavi*. Vg.: *interfeci*. DR: “killed.”)* both a lion and a bear* (1 Sam 17:36).  
 
 **653**. Second, he sets out the destruction, setting out three things:  
 
@@ -120,7 +120,7 @@ second, he assigns the reason for it: ***and the Lord said*** (Isa 29:13).
 
 **659**. Concerning the first, he does three things.  
 
-First, he foretells the blinding, setting out those things which confused the judgment of their reason: ***be astonished***, from consideration of the guilt of the wicked or of their punishment: *be astonished, O you heavens, at this, and you gates thereof, be very desolate* (Jer 2:12); ***and wonder***, from consideration of great things: *wonderful are your works* (Ps 138[139]:14); ***waver***, from uncertainty in choosing: *for he that wavers is like a wave of the sea, which is moved and carried about by the wind* (Jas 1:6); ***stagger***, from inconstancy of intention: *your hands*Manus*. Vg.: *sermones*. DR: “words.” have confirmed them that were staggering* (Job 4:4); ***be drunk***, from anxiety of sorrows: *drink you also, and fall fast asleep: the cup of the right hand of the Lord shall compass you* (Hab 2:16).  
+First, he foretells the blinding, setting out those things which confused the judgment of their reason: ***be astonished***, from consideration of the guilt of the wicked or of their punishment: *be astonished, O you heavens, at this, and you gates thereof, be very desolate* (Jer 2:12); ***and wonder***, from consideration of great things: *wonderful are your works* (Ps 138[139]:14); ***waver***, from uncertainty in choosing: *for he that wavers is like a wave of the sea, which is moved and carried about by the wind* (Jas 1:6); ***stagger***, from inconstancy of intention: *your hands *(*Manus*. Vg.: *sermones*. DR: “words.”)* have confirmed them that were staggering* (Job 4:4); ***be drunk***, from anxiety of sorrows: *drink you also, and fall fast asleep: the cup of the right hand of the Lord shall compass you* (Hab 2:16).  
 
 Second, he sets out the manner of blinding: ***for the Lord has mingled for you the spirit of a deep sleep***, that is, as if he offered mixed wine to drink; ***he will shut up your eyes***, namely, the prophets, above: ***the Lord has mingled in the midst thereof the spirit of giddiness*** (Isa 19:14).  
 
@@ -140,16 +140,16 @@ Second, the punishment: ***therefore behold***; ***great***, according to their 
 
 **661**. ***Woe to you that are deep of heart***. Here he sets out their sin on the part of the intellect, for they did not believe in the providence of God, that he knew what happens among us. And concerning this, he does two things.  
 
-First, the devising of error is set out, and they said this was hidden from God because of the depth of their heart, where they handled their wicked counsels; hence he says: ***woe to you that are deep of heart***: *the heart is deep*Profundum*. Vg.: *pravum*. DR: “perverse.” above all things, and unsearchable, who can know it?* (Jer 17:9); and because of the darkness of the places in which they carried out wicked deeds; hence he says: ***their works are in the dark***: *every one that doth evil hates the light* (John 3:20); *say not: I shall be hidden from God* (Sir 16:16).  
+First, the devising of error is set out, and they said this was hidden from God because of the depth of their heart, where they handled their wicked counsels; hence he says: ***woe to you that are deep of heart***: *the heart is deep *(*Profundum*. Vg.: *pravum*. DR: “perverse.”)* above all things, and unsearchable, who can know it?* (Jer 17:9); and because of the darkness of the places in which they carried out wicked deeds; hence he says: ***their works are in the dark***: *every one that doth evil hates the light* (John 3:20); *say not: I shall be hidden from God* (Sir 16:16).  
 
 **662**. Second, the just rebuke is set out, ***this thought of yours is perverse*. *You made me not***, for God knows a thing in as much as he is its cause, below: ***woe to him that gainsays his maker*** (Isa 45:9), below: ***and now, O Lord, you are our father, and we are clay: and you are our maker, and we all are the works of your hands*** (Isa 64:8).  
 
 **663**. ***Is it not yet a very little while?*** Here he foretells the conversion of the gentiles, and concerning this, he does three things.  
 
-First, he foretells their conversion to grace: ***Libanus***, a gentile people, for the mountain was in the land of the gentiles; ***into Carmel***, into grace, which the Jews had through circumcision, because ***Carmel*** means “knowledge of circumcision”;Cf. Jerome, *De nominibus Hebraicis* (PL 864), and *In Isaiam* (PL 335B). ***as a forest***, that is, as barrenness, which the gentiles were in before, below (Isa 32:15) has the same thing. To sacred knowledge: ***the deaf***, namely, the gentiles, who had not heard the words of the law before: *the blind see* (Matt 11:5); *for judgment I am come into this world: that they who see not may see; and they who see may become blind* (John 9:39). To spiritual joy: ***and the meek shall increase their joy***: *I will be glad, and rejoice in you: I will sing to your name, O you Most High* (Ps 9:3[2]).  
+First, he foretells their conversion to grace: ***Libanus***, a gentile people, for the mountain was in the land of the gentiles; ***into Carmel***, into grace, which the Jews had through circumcision, because ***Carmel*** means “knowledge of circumcision”; *(Cf. Jerome, *De nominibus Hebraicis* (PL 864), and *In Isaiam* (PL 335B).)* ***as a forest***, that is, as barrenness, which the gentiles were in before, below (Isa 32:15) has the same thing. To sacred knowledge: ***the deaf***, namely, the gentiles, who had not heard the words of the law before: *the blind see* (Matt 11:5); *for judgment I am come into this world: that they who see not may see; and they who see may become blind* (John 9:39). To spiritual joy: ***and the meek shall increase their joy***: *I will be glad, and rejoice in you: I will sing to your name, O you Most High* (Ps 9:3[2]).  
 
 **664**. Second, he indicates the occasion or the reason of their conversion: from the fall of the devil: ***for he that did prevail***, by power, ***has failed*, *the scorner***, the deceiver by cunning, above: ***the wretch is consumed: he has failed, that trod the earth under foot*** (Isa 16:4); from the blindness of the Jewish people, *that blindness in part has happened in Israel, until the fullness of the Gentiles should come in* (Rom 11:25). ***They are cut off that watched***: zeal to do evil: *for they sleep not, except they have done evil* (Prov 4:16). ***That made men sin***, by wicked example and teaching; ***that reproved them in the gate***, as to contempt of instruction: *they have hated him that rebukes in the gate* (Amos 5:10); ***and declined in vain from the just***, as to the vanity of sin, for that is vain, which fails to attain its end: *what has pride profited us? Or what advantage has the boasting of riches brought us?* (Wis 5:8).  
 
-**665**. Third, he sets out the conversion of the Jews at the end of the world, when he says: ***therefore thus says the Lord that redeemed Abraham***, Genesis 11; ***Jacob shall not now***, that is, at this time, ***be confounded***, by a good confounding: *there is a confounding*Confusio*. DR: “shame.” that brings glory and grace* (Sir 4:25). ***His children***, the Apostles. ***They that murmured***, that is, who at first murmured, above: ***when they shall rush out fromEgredientur impetu a*. Vg.: *ingrediuntur impetu ad*. DR: “they shall rush in unto.” ***Jacob, Israel shall blossom*** (Isa 27:6).  
+**665**. Third, he sets out the conversion of the Jews at the end of the world, when he says: ***therefore thus says the Lord that redeemed Abraham***, Genesis 11; ***Jacob shall not now***, that is, at this time, ***be confounded***, by a good confounding: *there is a confounding *(*Confusio*. DR: “shame.”)* that brings glory and grace* (Sir 4:25). ***His children***, the Apostles. ***They that murmured***, that is, who at first murmured, above: ***when they shall rush out from*** *(*Egredientur impetu a*. Vg.: *ingrediuntur impetu ad*. DR: “they shall rush in unto.”)* ***Jacob, Israel shall blossom*** (Isa 27:6).  
 
 **666**. Or this may be otherwise explained as concerning the prosperity that was promised to them when Sennacherib or Nabuchodonosor were destroyed: ***Carmel shall be esteemed as a forest*** (Isa 29:17), that is, the fertility of the land of the promise will be such that the fertility of Carmel will be reckoned barrenness in comparison to it; ***the scorner*** (Isa 29:20), Sennacherib or Nabuchodonosor; ***he shall see his children . . . sanctifying my name*** (Isa 29:23), the three children in the furnace of fire; or that their children will praise my name, because they themselves in their youth did not.

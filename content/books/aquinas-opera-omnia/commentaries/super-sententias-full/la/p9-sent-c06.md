@@ -209,7 +209,7 @@ Ad primum ergo dicendum, quod tunc voluptates meretricias vir in uxore quaerit q
 
 Ad secundum dicendum, quod consensus in delectationem concubitus qui est mortale peccatum, est mortale peccatum; non autem talis est delectatio matrimonialis actus.  
 
-Ad tertium dicendum, quod quamvis delectationem non referat actu in Deum, tamen non ponit in ea ultimum voluntatis finem; alias eam ubicumque indifferenter quaereret; et ideo non oportet quod creatura fruatur, sed utitur creatura propter se;*se.—se actu* PLE. se autem habitualiter propter Deum, quamvis non actu.  
+Ad tertium dicendum, quod quamvis delectationem non referat actu in Deum, tamen non ponit in ea ultimum voluntatis finem; alias eam ubicumque indifferenter quaereret; et ideo non oportet quod creatura fruatur, sed utitur creatura propter se; *(*se.—se actu* PLE.)* se autem habitualiter propter Deum, quamvis non actu.  
 
 Ad quartum dicendum, quod hoc non dicitur propter hoc quod ex hoc peccato homo excommunicationem mereatur; sed quia spiritualibus se reddit inhabilem, propter hoc quod in actu illo homo efficitur totus caro.  
 

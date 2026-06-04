@@ -12,7 +12,7 @@ Circa primum duo facit: primo ostendit quod post hanc vitam aliqua peccata dimit
 
 *Post haec autem considerandum est*, etc. Hic movet quaestiones circa determinata prius de confessione: et primo ex parte confitentis; secundo ex parte confessoris, qui scilicet confessionem audit, ibi: *caveat autem sacerdos ne peccata confitentium aliis prodat*.  
 
-Circa primum duo quaerit: primo utrum quis debeat singula peccata confiteri quae*confiteri quae.—confiteri quae fecit; secundo, utrum debeat confiteri quae* PLE. non fecit, ibi: *sicut autem poenitens celare non debet peccatum suum, quia superbia est; ita nec humilitatis causa fateri se reum illius quod se non commisisse noscit*.  
+Circa primum duo quaerit: primo utrum quis debeat singula peccata confiteri quae *(*confiteri quae.—confiteri quae fecit; secundo, utrum debeat confiteri quae* PLE.)* non fecit, ibi: *sicut autem poenitens celare non debet peccatum suum, quia superbia est; ita nec humilitatis causa fateri se reum illius quod se non commisisse noscit*.  
 
 *Caveat autem sacerdos ne peccata poenitentium aliis prodat*. Hic etiam duo determinat ex parte confessoris: primo ut peccatum celet; secundo quod non quisque sacerdos confessionem cujuslibet audiat, ibi: *quod vero dictum est, ut poenitens eligat sacerdotem scientem ligare et solvere, videtur contrarium ei quod in canonibus reperitur*.  
 
@@ -208,7 +208,7 @@ Quaestiuncula 2
 
 Ulterius. Videtur quod ignis purgatorius non liberet a reatu poenae. Omnis enim purgatio respicit foeditatem. Sed poena non importat aliquam foeditatem. Ergo ignis purgatorius non liberat a poena.  
 
-Praeterea, contrarium non purgatur nisi per suum contrarium. Sed poena contrariatur*poena contrariatur.—poena non contrariatur* PLE. poenae. Ergo per poenam purgatorii non purgatur aliquis a reatu poenae.  
+Praeterea, contrarium non purgatur nisi per suum contrarium. Sed poena contrariatur *(*poena contrariatur.—poena non contrariatur* PLE.)* poenae. Ergo per poenam purgatorii non purgatur aliquis a reatu poenae.  
 
 Praeterea, 1 Corinth. 3, super illud: *salvus erit, sic tamen* etc., dicit *Glossa*: *ignis iste est tentatio tribulationis, de qua scriptum est: vasa figuli probat fornax*; Eccli. 27, 6. Ergo homo expiatur ab omni poena per poenas hujus mundi saltem per mortem, quae est maxima poenarum, et non per purgatorium ignem.  
 

@@ -8,7 +8,7 @@ Glory be to the Father, and to the Son, * and to the Holy Spirit.
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*.Although practice varied according to place and time, the antiphon in the medieval liturgy was often only sung in its entirety after the Psalm. Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]  
+*Antiphon*. *(Although practice varied according to place and time, the antiphon in the medieval liturgy was often only sung in its entirety after the Psalm.)* Christ the Lord, a priest forever after the order of Melchizedech, offered bread and wine. [Ps 109 (110):4b; Heb 5:6; Gen 14:18]  
 
 Sung to *Gloria tibi Trinitas* from the feast of the Trinity.  
 
@@ -177,7 +177,7 @@ Praise, my tongue, the mystery of the glorious Body and of the precious Blood, w
 
 ℣. You have furnished them with the bread of heaven, alleluia.  
 
-℟. Having in it every delight, alleluia.BNF 1143 has no indications for the music for this versicle or for any of the versicles that follow. Thus the music here has been adapted from Cambrai, Médiathèque d’agglomération, Ms. 38.  
+℟. Having in it every delight, alleluia. *(BNF 1143 has no indications for the music for this versicle or for any of the versicles that follow. Thus the music here has been adapted from Cambrai, Médiathèque d’agglomération, Ms. 38.)*  
 
 Magnificat  
 

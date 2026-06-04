@@ -24,7 +24,7 @@
 
 > ^27:9^ Do not, therefore, listen to your prophets, and your soothsayers, and your dreamers, and your augurs, and your sorcerers, who say to you, ‘You shall not serve the king of Babylon,’
 
-> ^27:10^ because they prophesy a lie to you, to drive you far from your land, and to cast you out,In the Hebrew, this verb refers to the divine first person, וְהִדַּחְתִּי אֶתְכֶם, *that I should drive you out*. so that you perish.
+> ^27:10^ because they prophesy a lie to you, to drive you far from your land, and to cast you out, *(In the Hebrew, this verb refers to the divine first person, וְהִדַּחְתִּי אֶתְכֶם, *that I should drive you out*.)* so that you perish.
 
 > ^27:11^ Further, the nation which shall bow its neck under the yoke of the king of Babylon, and shall serve him, I shall send them back to their own land, says the Lord, and they shall till it, and shall dwell in it.
 

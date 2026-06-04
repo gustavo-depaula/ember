@@ -44,13 +44,13 @@ in tertia supplet quoddam ad suam expositionem, quod in aliis expositionibus tan
 
 et primo ostendit quod secundum animam;  
 
-secundo ostendit quod hujusPLE: *hujus*; Mandonnet: *hujusmodi*. indicium etiam in corpore ostenditur, ibi: *sed in corpore quamdam habet proprietatem quae hoc indicat*.  
+secundo ostendit quod hujus *(PLE: *hujus*; Mandonnet: *hujusmodi*.)* indicium etiam in corpore ostenditur, ibi: *sed in corpore quamdam habet proprietatem quae hoc indicat*.  
 
 Circa primum duo facit:  
 
 primo ponit hominem esse ad imaginem Trinitatis, non solum Patris vel Filii, ut alii dicebant, et hoc secundum animam;  
 
-secundo ostendit quomodo differenter imago homini secundum animamParma adds *homini*. et Filio Dei conveniat, ibi: *quocirca homo et imago et ad imaginem dicitur; Filius autem imago, non ad imaginem*.  
+secundo ostendit quomodo differenter imago homini secundum animam *(Parma adds *homini*.)* et Filio Dei conveniat, ibi: *quocirca homo et imago et ad imaginem dicitur; Filius autem imago, non ad imaginem*.  
 
 Quaestio 1  
 
@@ -76,11 +76,11 @@ Cujuscumque enim est aliqua imago creata, ei contingit aliquam imaginem ponere. 
 
 Praeterea, proprietates unius non inveniuntur in alio. Sed imago indicat proprietatem Filii, ut in primo dictum est, qui increatus est. Ergo nulli creaturae convenit.  
 
-Praeterea, in imagine importatur convenientia quaedam inPLE: *in*; Mandonnet: *cum*. aliquo uno; unde dicit Hilarius, lib. *De synod*., imaginem esse speciem non differentem ejus rei ad quam imaginatur. Sed quaecumque conveniunt in aliquo uno, habent aliquid prius et simplicius se, sive sit convenientia analogiae, sive univocationis:Parma and PLE: *univocationis*; Mandonnet: *unionis*. est enim ens prius substantia et accidente, sicut animal prius homine et equo. Deo autem nihil est prius et simplicius. Ergo non potest esse ejus imago in creatura.  
+Praeterea, in imagine importatur convenientia quaedam in *(PLE: *in*; Mandonnet: *cum*.)* aliquo uno; unde dicit Hilarius, lib. *De synod*., imaginem esse speciem non differentem ejus rei ad quam imaginatur. Sed quaecumque conveniunt in aliquo uno, habent aliquid prius et simplicius se, sive sit convenientia analogiae, sive univocationis: *(Parma and PLE: *univocationis*; Mandonnet: *unionis*.)* est enim ens prius substantia et accidente, sicut animal prius homine et equo. Deo autem nihil est prius et simplicius. Ergo non potest esse ejus imago in creatura.  
 
-Praeterea, de ratione imaginis est aequalitas; dicit enim Hilarius, ubi supra, imaginem esse rei ad rem coaequandam.Migne: *rei ad rem coaequandae*, etc. Sed nulla aequalitas potest esse creaturae ad Deum. Ergo nec imago ejus esse potest.  
+Praeterea, de ratione imaginis est aequalitas; dicit enim Hilarius, ubi supra, imaginem esse rei ad rem coaequandam. *(Migne: *rei ad rem coaequandae*, etc.)* Sed nulla aequalitas potest esse creaturae ad Deum. Ergo nec imago ejus esse potest.  
 
-Item, infinite distantium non potest esse indiscretio et unio. Sed imago, ut dicit Hilarius, ibid., est similitudo discretaMigne: *imaginata et indiscreta similitudo*. et unita. Ergo creatura non potest esse ad imaginem Dei, a quo in infinitum distat.  
+Item, infinite distantium non potest esse indiscretio et unio. Sed imago, ut dicit Hilarius, ibid., est similitudo discreta *(Migne: *imaginata et indiscreta similitudo*.)* et unita. Ergo creatura non potest esse ad imaginem Dei, a quo in infinitum distat.  
 
 Contra est quod habetur Genes. 1:26: *faciamus hominem ad imaginem et similitudinem nostram*.  
 
@@ -88,7 +88,7 @@ Praeterea ad perfectionem operis exigitur ut perducatur in similitudinem agentis
 
 Respondeo dicendum, quod imago proprie dicitur quod ad alterius imitationem est: nec tamen quaelibet imitatio rationem imaginis perficit; ut si hoc sit album et illud album, non ex hoc dicitur ejus imago: sed ad rationem imaginis exigitur imitatio in aliquo quod speciem exprimat et essentiam: propter quod ab Hilario dicitur species indifferens. Et inde est quod in corporalibus secundum imitationem figurae potissimum imago attenditur, quia figura est quasi certum signum ostendens unitatem et differentiam speciei.  
 
-Haec autem imitatio potest esse dupliciter: aut simul quantum ad speciem et signum speciei, et sic imago hominis est in filio suo, qui ipsum in humana specie et figura imitatur, et haec est perfecta imago: aut quantum ad signum tantum, et non quantum ad veritatem speciei, sicut imago hominis est inParma omits *in*. statua lapidea; et haec est imperfecta imago. Et primo modo Filius est imago Patris, sicut in natura communicans; secundo autem modo imago Dei est in creaturis; et ideo creatura potest esse imago Dei, licet non perfecta.  
+Haec autem imitatio potest esse dupliciter: aut simul quantum ad speciem et signum speciei, et sic imago hominis est in filio suo, qui ipsum in humana specie et figura imitatur, et haec est perfecta imago: aut quantum ad signum tantum, et non quantum ad veritatem speciei, sicut imago hominis est in *(Parma omits *in*.)* statua lapidea; et haec est imperfecta imago. Et primo modo Filius est imago Patris, sicut in natura communicans; secundo autem modo imago Dei est in creaturis; et ideo creatura potest esse imago Dei, licet non perfecta.  
 
 Ad primum ergo dicendum, quod propheta loquitur contra idololatras, qui Deum in corporalibus figuris imaginari nitebantur; et ideo non est ad propositum.  
 
@@ -122,17 +122,17 @@ Praeterea, quanto aliqua creatura est perfectior, tanto est Deo similior. Sed in
 
 Respondeo dicendum, quod, ut dictum est, illa imitatio rationem imaginis constituit quae est in aliquo ad speciem pertinente. Ex primo autem et communi nihil sortitur speciem, sed ex ultimo et proprio, sicut est differentia constitutiva.  
 
-Consideratis autem divinae bonitatis processibus in creaturis, quibus naturae creatae constituuntur in similitudinem naturae increatae, ultima invenitur intellectualis dignitatis participatio, et quae omnes alias praesupponat: et ideo intellectualis natura attingit ad imitationem divinam, in hoc in quoPLE: *in hoc in quo*; Mandonnet: *in qua*. quodammodo consistit species naturae ejus; et inde est quod in eadem operatione ponimus ultimam felicitatem intellectualis creaturae, in qua est felicitas Dei, scilicet in contemplatione intellectiva; et ideo sola intellectualis creatura rationabiliter ad imaginem Dei dicitur esse.  
+Consideratis autem divinae bonitatis processibus in creaturis, quibus naturae creatae constituuntur in similitudinem naturae increatae, ultima invenitur intellectualis dignitatis participatio, et quae omnes alias praesupponat: et ideo intellectualis natura attingit ad imitationem divinam, in hoc in quo *(PLE: *in hoc in quo*; Mandonnet: *in qua*.)* quodammodo consistit species naturae ejus; et inde est quod in eadem operatione ponimus ultimam felicitatem intellectualis creaturae, in qua est felicitas Dei, scilicet in contemplatione intellectiva; et ideo sola intellectualis creatura rationabiliter ad imaginem Dei dicitur esse.  
 
 Ad primum ergo dicendum, quod quamvis quaelibet creatura aliquid participet de ratione similitudinis divinae, non tamen potest dici ejus imago ratione praedicta.  
 
 Ad secundum dicendum, quod similitudo operis potest dici ad operantem dupliciter: aut quantum ad id quod habet in natura sua, sicut homo generat hominem; aut quantum ad id quod habet in intellectu suo, sicut artificiatum ab artifice in similitudinem artis suae procedit. Utroque modo procedit creatura a Deo in similitudinem ejus. Primo modo, quia ab ente sunt entia, et a vivo viventia. Secundo modo, quia procedunt a rationibus idealibus. Cum ergo unaquaeque res pertingat ad perfectam imitationem ejus quod est in intellectu divino, quia talis est qualem eam esse disposuit; ideo quantum ad hunc modum similitudinis quaelibet creatura potest dici imago ideae in mente divina existentis; unde dicit Boetius, in lib. *De Trinit*., cap. 2, quod formae quae sunt in materia possunt dici imagines, eo quod ab his formis venerunt quae sine materia sunt; sed quantum ad alium modum sola intellectualis natura pertingit ad ultimum gradum imitationis, ut dictum est; et ideo ipsa sola dicitur imago Dei.  
 
-Ad tertium dicendum, quod similitudo divinae bonitatis, quantum ad nobilissimas participationes ipsius, non resultat in universo nisi ratione nobilissimarum partium ejus, quae sunt intellectuales naturae: nec per se de toto potest dici, et primo, quodAl.: *quia*. non convenit sibi ratione omnium partium, ut in 6 *Physic*. dicitur frequenter: et ideo universum non potest dici imago Dei, sed intellectualis natura.  
+Ad tertium dicendum, quod similitudo divinae bonitatis, quantum ad nobilissimas participationes ipsius, non resultat in universo nisi ratione nobilissimarum partium ejus, quae sunt intellectuales naturae: nec per se de toto potest dici, et primo, quod *(Al.: *quia*.)* non convenit sibi ratione omnium partium, ut in 6 *Physic*. dicitur frequenter: et ideo universum non potest dici imago Dei, sed intellectualis natura.  
 
 Ad quartum dicendum, quod similitudo radii solaris ad divinam bonitatem tota attenditur quantum ad causalitatem, et non quantum ad dignitatem naturae, quae rationem imaginis perficit.  
 
-Ad quintum dicendum, quod proprietates divinae ostenduntur in creaturis dupliciter: vel secundum similitudinem analogiae, sicut vita, sapientia et hujusmodi, quae analogice Deo et creaturis conveniunt, et sic divinae proprietates praecipue ostenduntur in rationali natura; vel secundum similitudinem proportionalitatis,Parma: *proportionis*. secundum quod spirituales proprietates corporalibus metaphorice designantur, et hoc modo in igne ostenduntur proprietates divinae, ut in 1 lib. dictum est. Sed haec similitudo non facit rationem imaginis; unde Dionysius vocat eam, in 2 cap. *Caelest. hierar*., dissimilem similitudinem.  
+Ad quintum dicendum, quod proprietates divinae ostenduntur in creaturis dupliciter: vel secundum similitudinem analogiae, sicut vita, sapientia et hujusmodi, quae analogice Deo et creaturis conveniunt, et sic divinae proprietates praecipue ostenduntur in rationali natura; vel secundum similitudinem proportionalitatis, *(Parma: *proportionis*.)* secundum quod spirituales proprietates corporalibus metaphorice designantur, et hoc modo in igne ostenduntur proprietates divinae, ut in 1 lib. dictum est. Sed haec similitudo non facit rationem imaginis; unde Dionysius vocat eam, in 2 cap. *Caelest. hierar*., dissimilem similitudinem.  
 
 Articulus 3  
 
@@ -158,9 +158,9 @@ Respondeo dicendum, quod de imagine possumus loqui dupliciter: aut quantum ad id
 
 et sic cum natura intellectualis multo sit dignior in angelis quam in homine, eo quod propter obumbrationem intellectualis luminis homo rationalis dicitur, cum ratio sit quidam intellectus obumbratus; oportet quod in angelis sit expressior Dei imago quam in anima, et in angelis superioribus quam in inferioribus, et in viro quam in muliere: quamvis illa diversitas sit minor quam prima, quia non sequitur diversitatem naturae secundum speciem.  
 
-Assignatur etiam imago Dei in homine, sed non ita proprie, quantum ad aliquas proprietates consequentes, sicut quod homo dominatur inferioribus creaturis, sicut etiam Deus in toto universo, et est quodammodo finis earum: et hoc innuitur Gen. 1:26, ubi post id quod dictum est: *faciamus hominem ad imaginem et similitudinem nostram*, subjungitur: *ut praesit*Vulg.: *et praesit*. *piscibus maris, et volatilibus caeli, et bestiis, universaeque terrae, omnique reptili quod movetur in terra*. Et similiter sicut Deus est totus in qualibet parte universi, ita anima totaParma omits *tota*. in qualibet parte corporis;  
+Assignatur etiam imago Dei in homine, sed non ita proprie, quantum ad aliquas proprietates consequentes, sicut quod homo dominatur inferioribus creaturis, sicut etiam Deus in toto universo, et est quodammodo finis earum: et hoc innuitur Gen. 1:26, ubi post id quod dictum est: *faciamus hominem ad imaginem et similitudinem nostram*, subjungitur: *ut praesit* *(Vulg.: *et praesit*.)* *piscibus maris, et volatilibus caeli, et bestiis, universaeque terrae, omnique reptili quod movetur in terra*. Et similiter sicut Deus est totus in qualibet parte universi, ita anima tota *(Parma omits *tota*.)* in qualibet parte corporis;  
 
-et secundum hocPLE: *haec*. et hujusmodi alia nihil prohibet hominem magis ad imaginem Dei esse quam angelum. Sed hoc est secundum quid, et non simpliciter: quia judicium similitudinis vel diversitatis quod sumitur ab essentialibus rei, est multo firmius.  
+et secundum hoc *(PLE: *haec*.)* et hujusmodi alia nihil prohibet hominem magis ad imaginem Dei esse quam angelum. Sed hoc est secundum quid, et non simpliciter: quia judicium similitudinis vel diversitatis quod sumitur ab essentialibus rei, est multo firmius.  
 
 Ad primum ergo dicendum, quod ea quae consequuntur naturam aequaliter inveniuntur in omnibus habentibus naturam illam aequaliter. Natura autem intellectualis non aequaliter invenitur in angelis et in hominibus, sed in angelis multo nobilior.  
 
@@ -170,7 +170,7 @@ Ad tertium dicendum, quod inter mentem nostram et Deum nihil est medium quasi ob
 
 Augustinus etiam dicit, 12 *Confess*., cap. 7, angelum prope Deum factum, et materiam prope nihil. Et ideo objectio nulla est.  
 
-Ad quartum dicendum, quod natura humana quam Christus assumpsit est multo nobilior quam quaelibet creatura; sed hoc habet ex unione divinitatis, et non ex principiis essentialibus; et ideo non sequitur similis ratio de mentibus humanis non unitis. Assumpsit enim Dei Filius humanam naturam, ut Damascenus, lib. 3, cap. 11, dicit, in atomo, id est in individuo, et non in specie; et sic etiam natura mentis humanae in Glossa praedictaAl.: *in gloria praedicta*. accipitur.  
+Ad quartum dicendum, quod natura humana quam Christus assumpsit est multo nobilior quam quaelibet creatura; sed hoc habet ex unione divinitatis, et non ex principiis essentialibus; et ideo non sequitur similis ratio de mentibus humanis non unitis. Assumpsit enim Dei Filius humanam naturam, ut Damascenus, lib. 3, cap. 11, dicit, in atomo, id est in individuo, et non in specie; et sic etiam natura mentis humanae in Glossa praedicta *(Al.: *in gloria praedicta*.)* accipitur.  
 
 Ad quintum dicendum, quod exaltatio Beatae Virginis super choros angelorum non fuit naturae, sed gratiae; et ideo per hoc nihil probatur.  
 
@@ -180,11 +180,11 @@ Articulus 4
 
 Ad quartum sic proceditur. Videtur quod inconvenienter imago et similitudo in littera distinguantur.  
 
-Illud enim quod ponitur in definitione alicujus ut genus, non distinguitur ab ipso, sicut animal ab homine. Sed secundum Hilarium, lib. *De synod. advers. Arian*.: *imago est rei ad rem coaequandam*Migne: *coaequandae*. *imaginata et indiscreta similitudo*. Ergo imago et similitudo distingui non debent.  
+Illud enim quod ponitur in definitione alicujus ut genus, non distinguitur ab ipso, sicut animal ab homine. Sed secundum Hilarium, lib. *De synod. advers. Arian*.: *imago est rei ad rem coaequandam* *(Migne: *coaequandae*.)* *imaginata et indiscreta similitudo*. Ergo imago et similitudo distingui non debent.  
 
 Praeterea, secundum quorumdam opinionem in gratuitis creatus non est. Sed innocentia et justitia ad gratiam pertinent. Ergo inconvenienter similitudo, in qua homo factus est, per justitiam et innocentiam exponitur in littera.  
 
-Praeterea, cognitio et amor nominant actum vel passionem. Sed actus et passio non semper remanent in anima.Parma: *animo*. Cum ergo imago semper maneat, videtur quod inconvenienter imago secundum dilectionem vel cognitionem assignetur.  
+Praeterea, cognitio et amor nominant actum vel passionem. Sed actus et passio non semper remanent in anima. *(Parma: *animo*.)* Cum ergo imago semper maneat, videtur quod inconvenienter imago secundum dilectionem vel cognitionem assignetur.  
 
 Praeterea, amor ad voluntatem pertinet. Voluntas autem est pars imaginis. Ergo inconvenienter distinguitur similitudo ab imagine per hoc quod similitudo in amore virtutis consistit.  
 
@@ -206,7 +206,7 @@ Ad secundum dicendum, quod etiamsi ponatur homo non creatus in habitibus gratuit
 
 Ad tertium dicendum, quod potentiae innotescunt per actus et passiones: et ideo per cognitionem et amorem debet intelligi potentia cognoscitiva et amativa, quae est voluntas.  
 
-Ad quartum dicendum, quod ratio illa non valet, quia procedit ex diversis distinctionibus: nec est inconveniens ut secundum unam distinctionem aliquid pertineat ad imaginem, et secundum aliam pertineat ad similitudinem: quia in una comparatione potest aliquid accipi ut prius aliquo, quod in alia accipitur ut posterius respectu alterius: secundum quem modum possunt comparari potentiae intellectivae naturae ad habitus, quibus inveniuntur priores, vel una ad alteram, et sic est una prior altera. Et ita sicut aliquid est prius et posterius in diversa comparationeParma: *aliqua . . . diversimode*. acceptum, ita etiam potest ad imaginem et similitudinem pertinere ratione praedicta.  
+Ad quartum dicendum, quod ratio illa non valet, quia procedit ex diversis distinctionibus: nec est inconveniens ut secundum unam distinctionem aliquid pertineat ad imaginem, et secundum aliam pertineat ad similitudinem: quia in una comparatione potest aliquid accipi ut prius aliquo, quod in alia accipitur ut posterius respectu alterius: secundum quem modum possunt comparari potentiae intellectivae naturae ad habitus, quibus inveniuntur priores, vel una ad alteram, et sic est una prior altera. Et ita sicut aliquid est prius et posterius in diversa comparatione *(Parma: *aliqua . . . diversimode*.)* acceptum, ita etiam potest ad imaginem et similitudinem pertinere ratione praedicta.  
 
 Et similiter dicendum est ad quintum.  
 
@@ -214,7 +214,7 @@ Ad sextum dicendum, quod intellectualitas, quamvis pertineat ad essentiam natura
 
 Expositio textus  
 
-*Quare creatus sit homo*, id est causa finalis hominis, et *qualiter institutus*, quia ex anima et corpore: haec duo in prima distinctione hujus libri dicta sunt; *et qualiter et quomodo factus*, hic incipit hincParma omits *hinc*. prosequi; *deinde qualiter sit lapsus*, hoc prosequitur 21 distinctione, et deinceps; *postremo qualiter et per quam sit reparatus*, hoc in 3 lib. et in 4.  
+*Quare creatus sit homo*, id est causa finalis hominis, et *qualiter institutus*, quia ex anima et corpore: haec duo in prima distinctione hujus libri dicta sunt; *et qualiter et quomodo factus*, hic incipit hinc *(Parma omits *hinc*.)* prosequi; *deinde qualiter sit lapsus*, hoc prosequitur 21 distinctione, et deinceps; *postremo qualiter et per quam sit reparatus*, hoc in 3 lib. et in 4.  
 
 *Quae in mente rationali naturaliter sunt*. Hoc potest intelligi etiam de habitibus gratuitis, ad quos anima naturaliter est ordinata, non quod per principia naturae causentur; vel potest intelligi de habitibus innatis, sicut Philosophus in 6 *Ethic*., cap. 11, ponit etiam quasdam virtutes naturales.  
 

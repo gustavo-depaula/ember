@@ -112,7 +112,7 @@ First, he gives his own lament, and then sets forth the discord of the enemy: **
 
 Second, he speaks of the consolation of the Lord: ***the Lord says***.  
 
-First, with regard to his own safety in the advancement of himself and his relatives in goods: ***with your remnant***, that is, with those who cleave to you—for he did not have any children, as is shown below (Jer 16:2); ***it shall surely be well***, that is, they will be well. This is aposiopesis,The figure of speech in which a sentence is deliberately and suddenly broken off. so one must supply: “I am not believed.” And with regard to deliverance from evils: ***I shall surely help***—I am prepared to help. *Blessed be the God, and Father of our Lord Jesus Christ, the father of mercies, and the God of all consolation, who consoles us in all our tribulation* (2 Cor 1:3–4).  
+First, with regard to his own safety in the advancement of himself and his relatives in goods: ***with your remnant***, that is, with those who cleave to you—for he did not have any children, as is shown below (Jer 16:2); ***it shall surely be well***, that is, they will be well. This is aposiopesis, *(The figure of speech in which a sentence is deliberately and suddenly broken off.)* so one must supply: “I am not believed.” And with regard to deliverance from evils: ***I shall surely help***—I am prepared to help. *Blessed be the God, and Father of our Lord Jesus Christ, the father of mercies, and the God of all consolation, who consoles us in all our tribulation* (2 Cor 1:3–4).  
 
 Second, with regard to the affliction of the enemy, he threatens an implacable enemy.  
 

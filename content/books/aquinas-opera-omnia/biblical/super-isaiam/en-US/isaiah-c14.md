@@ -1,12 +1,12 @@
 # Chapter 12
 
-^12:1^ And you shall say in that day: I will confessDR: “give thanks.” to you, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me.  
+^12:1^ And you shall say in that day: I will confess *(DR: “give thanks.”)* to you, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me.  
 
 > ^12:2^ Behold, God is my savior, I will deal confidently, and will not fear: because the Lord is my strength, and my praise, and he is become my salvation.
 
 > ^12:3 ^You shall draw waters with joy out of the savior’s fountains:
 
-> ^12:4^ And you shall say in that day: confessDR: “praise.” the Lord, and call upon his name: make his works known among the people: remember that his name is high.
+> ^12:4^ And you shall say in that day: confess *(DR: “praise.”)* the Lord, and call upon his name: make his works known among the people: remember that his name is high.
 
 > ^12:5 ^Sing to the Lord, for he has done great things: show this forth in all the earth.
 
@@ -78,7 +78,7 @@ second, of eternal life: *they have forsaken me, the fountain of living water* (
 
 third, from the body of Christ: *in that day there shall be a fountain open to the house of David* (Zech 13:1).  
 
-**393**. Note on the words, ***his worksAdinventiones*. (Isa 12:4), that Christ found out*Adinvenit*.  
+**393**. Note on the words, ***his works*** *(*Adinventiones*.)* (Isa 12:4), that Christ found out *(*Adinvenit*.)*  
 
 first, a brief word of salvation: *he found out all the way of knowledge, and gave it to Jacob his servant, and to Israel his beloved* (Bar 3:37);  
 

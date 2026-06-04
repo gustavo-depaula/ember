@@ -36,7 +36,7 @@ Lecture 3
 
 > ^8:6^ I attended and listened; no one speaks what is good; there is no one who does penance for his sin, saying, ‘What have I done?’ All have turned to their own course, as a horse rushing in attack to do battle.
 
-> ^8:7^ The kiteHeb. חֲסִידָה: *stork*. in the heavens knows his season; the turtle dove, the swallow, and the storkHeb. עָגוּר: a kind of bird, perhaps a *crane*. have kept the time of their coming; but my people have not known the judgment of the Lord.
+> ^8:7^ The kite *(Heb. חֲסִידָה: *stork*.)* in the heavens knows his season; the turtle dove, the swallow, and the stork *(Heb. עָגוּר: a kind of bird, perhaps a *crane*.)* have kept the time of their coming; but my people have not known the judgment of the Lord.
 
 > **57**. Here, he shows their obstinacy and hardness in sin. For this reason, it is separated from everything that has come before.
 
@@ -136,7 +136,7 @@ Lecture 7
 
 > ^8:16^ From Dan was heard the snorting of his horses; by the sound of the neighing of his warriors the whole earth was moved; they have come and devoured the earth and the fullness thereof; the city, and those who dwell therein.
 
-> ^8:17^ For behold, I will send the basiliskHeb. נְחָשִׁים צִפְעֹנִים: identification dubious, possibly the horned viper, or desert cobra. among you, for which there is no charm, and they shall bite you, says the Lord.
+> ^8:17^ For behold, I will send the basilisk *(Heb. נְחָשִׁים צִפְעֹנִים: identification dubious, possibly the horned viper, or desert cobra.)* among you, for which there is no charm, and they shall bite you, says the Lord.
 
 > ^8:18^ My sorrow is above sorrow; my heart mourns within me.
 
@@ -144,25 +144,25 @@ Lecture 7
 
 > ^8:20^ ‘The harvest has passed, the summer is ended, yet we are not saved.’
 
-> ^8:21^ For the affliction of the daughter of my people am I broken, I am afflicted,Heb. קָדַ֕רְתִּי: *I am black*. and astonishment has taken hold of me.
+> ^8:21^ For the affliction of the daughter of my people am I broken, I am afflicted, *(Heb. קָדַ֕רְתִּי: *I am black*.)* and astonishment has taken hold of me.
 
-> ^8:22^ Is there no balmResin derived from the tree, *commiphora opobalsamum*, used widely for its antiseptic and medicinal properties. in Gilead, or no physician there? Why, therefore, is the scar of the daughter of my people not covered?
+> ^8:22^ Is there no balm *(Resin derived from the tree, *commiphora opobalsamum*, used widely for its antiseptic and medicinal properties.)* in Gilead, or no physician there? Why, therefore, is the scar of the daughter of my people not covered?
 
 > **61**. Here, Jeremiah speaks of a punishment similar to the punishment mentioned above.
 
 First, he speaks of the judgment of the Lord with regard to the affliction of men: ***I shall surely gather***, in Jerusalem, by besieging it. ***Gather them like a flock to the sacrifice, and sanctify them for the day of slaughter*** (Jer 12:3). And as for the plundering of their fruits: ***there is not a grape***, for you, but for the enemy, who shall eat up all that is yours while you watch. ***Passed away***, from them into the hands of the enemy. *The fig will not blossom, and there will be no bud on the vines* (Hab 3:17).  
 
-Second, the misery of the people: ***why shall we sit?*** Alternatively, he speaks of their preparation, and gives here their exhortation to one another: ***why shall we sit*** in the houses of the city as though neutral.Although *quietus* can mean “quiet” or “restful,” in the context of war it often means “neutral,” taking no part in the fighting. ***Let us be silent***, as though astonished, or from the tumult of war. ***Gather together, and let us enter the fortified cities*** (Jer 4:5). And the reason of those giving the exhortation is that they foresee punishment: ***because the Lord our God has made us silent***, with astonishment. *He has filled me with bitterness, and made me drunk with wormwood* (Lam 3:15). And they confess fault: ***we have sinned***. *We have sinned with our fathers, we have acted unjustly, we have done iniquity* (Ps 105:6).  
+Second, the misery of the people: ***why shall we sit?*** Alternatively, he speaks of their preparation, and gives here their exhortation to one another: ***why shall we sit*** in the houses of the city as though neutral. *(Although *quietus* can mean “quiet” or “restful,” in the context of war it often means “neutral,” taking no part in the fighting.)* ***Let us be silent***, as though astonished, or from the tumult of war. ***Gather together, and let us enter the fortified cities*** (Jer 4:5). And the reason of those giving the exhortation is that they foresee punishment: ***because the Lord our God has made us silent***, with astonishment. *He has filled me with bitterness, and made me drunk with wormwood* (Lam 3:15). And they confess fault: ***we have sinned***. *We have sinned with our fathers, we have acted unjustly, we have done iniquity* (Ps 105:6).  
 
 And they recognize the folly of waiting: ***we waited***, according to the words of the false prophets; ***good***, the reward of peace. *The expectation of the just is joy, but the hope of the wicked will perish* (Prov 10:28).  
 
-He mentions also the pursuit of the enemy and their reputation, ***from Dan***. Above: ***a voice of one announcing*** (Jer 4:15). He also speaks of the effect of their reputation: ***by the sound of the neighing of his warriors the whole earth was moved***—hyperbolically, or metonymically.*Metonymy* is a rhetorical figure of speech whereby one word is replaced by another word connected to it. For example, a part could substitute for a whole or vice versa, as in the text here (this example would be a specific type of metonymy, *synecdoche*). *The earth was moved and shook* (Ps 17:7). And even the punishment inflicted by them: ***they have come and devoured the earth and the fullness thereof***, that is, the produce of the earth. *They have devoured Jacob, and laid waste his dwelling place* (Ps 78:7).  
+He mentions also the pursuit of the enemy and their reputation, ***from Dan***. Above: ***a voice of one announcing*** (Jer 4:15). He also speaks of the effect of their reputation: ***by the sound of the neighing of his warriors the whole earth was moved***—hyperbolically, or metonymically. *(*Metonymy* is a rhetorical figure of speech whereby one word is replaced by another word connected to it. For example, a part could substitute for a whole or vice versa, as in the text here (this example would be a specific type of metonymy, *synecdoche*).)* *The earth was moved and shook* (Ps 17:7). And even the punishment inflicted by them: ***they have come and devoured the earth and the fullness thereof***, that is, the produce of the earth. *They have devoured Jacob, and laid waste his dwelling place* (Ps 78:7).  
 
 And he excludes a remedy: ***for behold I will send the basilisk***—the Chaldeans—***among you, for which there is no charm***, because they cannot be placated by any means. *Their fury is according to the likeness of a serpent, as a deaf adder, which blocks her ears* (Ps 57:4). *Their pain is like the pain of a scorpion, when it stings a man* (Rev 9:5).  
 
 Third, he speaks of the pity of the compassionate.  
 
-And first, he speaks about the compassion for the affliction of the people, ***sorrow***, from the person of the Lord; this is an anthropopathism;A literary device whereby human affections are ascribed to a non-human being, in this case, God. alternatively, from the person of the prophet: *O all you who pass by the way, give heed, and see if there be any sorrow like unto my sorrow* (Lam 1:12).  
+And first, he speaks about the compassion for the affliction of the people, ***sorrow***, from the person of the Lord; this is an anthropopathism; *(A literary device whereby human affections are ascribed to a non-human being, in this case, God.)* alternatively, from the person of the prophet: *O all you who pass by the way, give heed, and see if there be any sorrow like unto my sorrow* (Lam 1:12).  
 
 And the affliction of the people: ***behold the voice***, of the enemy, ***from a far country***, or of the people against that same enemy, or from the land of their captivity. ***I heard the voice as of a woman giving birth*** (Jer 4:31). And the reason of the affliction: ***is the Lord not in Zion?*** Indeed, God himself is able to give counsel, aid, and answer; for this reason, they have no cause to seek other gods. *Is there not a God in Israel, that you should go to inquire of Beelzebub, the god of Ekron* (2 Kgs 1:16).  
 

@@ -66,7 +66,7 @@ Lectio 2
 
 > ^13:17^ Quod si hoc non audieritis; in abscondito plorabit anima mea a facie superbiae. Plorans plorabit, et deducet oculus meus lacrimam, quia captus est grex Domini.
 
-> ^13:18^ Dic regi, et dominatrici: humiliamini, sedete in terra,The Sixto-Clementine Vulgate omits *in terra*. quoniam descendit de capite vestro corona gloriae vestrae.
+> ^13:18^ Dic regi, et dominatrici: humiliamini, sedete in terra, *(The Sixto-Clementine Vulgate omits *in terra*.)* quoniam descendit de capite vestro corona gloriae vestrae.
 
 > ^13:19^ Civitates austri clausae sunt, et non est qui aperiat. Translata est omnis Juda transmigratione perfecta.
 

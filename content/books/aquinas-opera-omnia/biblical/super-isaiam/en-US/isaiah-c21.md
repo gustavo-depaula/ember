@@ -1,6 +1,6 @@
 # Chapter 19
 
-^19:1^ The burden of Egypt. Behold the Lord will ascend upon a light*Levem*. DR: “swift.” cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst thereof.  
+^19:1^ The burden of Egypt. Behold the Lord will ascend upon a light *(*Levem*. DR: “swift.”)* cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst thereof.  
 
 > ^19:2^ And I will set the Egyptians to fight against the Egyptians: and they shall fight brother against brother, and friend against friend, city against city, kingdom against kingdom.
 
@@ -18,13 +18,13 @@
 
 > ^19:9^ They shall be confounded that wrought in flax, combing and weaving fine linen.
 
-> ^19:10^ And its watery places shall be flaccid,*Flaccentia*. DR: “dry.” all they shall mourn that made pools to take fishes.
+> ^19:10^ And its watery places shall be flaccid, *(*Flaccentia*. DR: “dry.”)* all they shall mourn that made pools to take fishes.
 
 > ^19:11^ The princes of Tanis are become fools, the wise counsellors of Pharaoh have given foolish counsel: how will you say to Pharaoh: I am the son of the wise, the son of ancient kings?
 
 > ^19:12^ Where are now your wise men? Let them tell you, and show what the Lord of hosts has purposed upon Egypt.
 
-> ^19:13^ The princes of Tanis are become fools, the princes of Memphis have withered away;*Emarcuerunt*. DR: “are gone astray.” they have deceived Egypt, the angle*Angulum*. DR: “stay.” of the people thereof.
+> ^19:13^ The princes of Tanis are become fools, the princes of Memphis have withered away; *(*Emarcuerunt*. DR: “are gone astray.”)* they have deceived Egypt, the angle *(*Angulum*. DR: “stay.”)* of the people thereof.
 
 > ^19:14^ The Lord has mingled in the midst thereof the spirit of giddiness: and they have caused Egypt to err in all its works, as a drunken man staggers and vomits.
 
@@ -86,11 +86,11 @@ from the second cloud proceeds the bread of consolation: *a cloud overshadowed t
 
 from the third cloud proceeds the lightning of preaching: *corn desires clouds, and the clouds spread their light* (Job 37:11);  
 
-from the fourth cloud proceeds the storm of damnation: *behold he shall come up as a cloud* (Num 5Rather, Jeremiah 4:13.); *his power is in the clouds* (Ps 67:35[68:34]).  
+from the fourth cloud proceeds the storm of damnation: *behold he shall come up as a cloud* (Num 5 *(Rather, Jeremiah 4:13.)*); *his power is in the clouds* (Ps 67:35[68:34]).  
 
 **491**. Likewise, note on the words, ***a light cloud*** (Isa 19:1),  
 
-that the first cloud is called light because of eminence of dignity: *lo, one like the Son of man came in*In*. Vg.: *cum*. DR: “with.” the clouds of heaven* (Dan 7:13);  
+that the first cloud is called light because of eminence of dignity: *lo, one like the Son of man came in *(*In*. Vg.: *cum*. DR: “with.”)* the clouds of heaven* (Dan 7:13);  
 
 the second cloud is called light because of purity of virginity: *behold a white cloud and upon the cloud one sitting like to the Son of man* (Rev 14:14);  
 
@@ -160,7 +160,7 @@ And first, the threefold sign of their conversion;
 
 the first of which is an oath: ***swearing***, below: ***he shall swear by God, amen: because the former distresses are forgotten*** (Isa 65:16); ***the city of the sun***, Heliopolis, ***the language of Chanaan***, which is close to the language of the Jews, so that even in language they will agree with the people of God; for some Syrians, who kept their own language, were transplanted in these cities by Nabuchodonosor.  
 
-**499**. The second sign is a sacred building: ***an altar of the Lord***; ***and a monument***, for they worshipped many gods, as it says in Acts 17. Some say that this was fulfilled in the time of the Maccabees, when many Jews were fleeing into Egypt, and Onias, wishing to fulfill this prophecy, built an altar against the precept of the law. Which is against Deuteronomy 12:Cf. Deuteronomy 12:13. *you shall not build an altar to me*; and which is denounced in Daniel 11:14, *and the children of prevaricators of your people shall lift up themselves to fulfill the vision, and they shall fall*; hence it is clear that this can only be understood of the building of altars for Christian worship.  
+**499**. The second sign is a sacred building: ***an altar of the Lord***; ***and a monument***, for they worshipped many gods, as it says in Acts 17. Some say that this was fulfilled in the time of the Maccabees, when many Jews were fleeing into Egypt, and Onias, wishing to fulfill this prophecy, built an altar against the precept of the law. Which is against Deuteronomy 12: *(Cf. Deuteronomy 12:13.)* *you shall not build an altar to me*; and which is denounced in Daniel 11:14, *and the children of prevaricators of your people shall lift up themselves to fulfill the vision, and they shall fall*; hence it is clear that this can only be understood of the building of altars for Christian worship.  
 
 **500**. The third sign is that they call on the help of God, ***they shall cry to the Lord*; *a Savior***, Jesus: *he shall cry to me, and I will hear him* (Ps 90[91]:15).  
 

@@ -130,7 +130,7 @@ Ad quartam quaestionem dicendum, quod hoc sacramentum principaliter consistit in
 
 Ad primum ergo dicendum, quod alia sacramenta non ordinantur principaliter ad effectus similes potestati secundum quam sacramenta dispensantur, sicut hoc sacramentum; et ideo in hoc sacramento est quasi quaedam communicatio univoca. Unde in aliis sacramentis exprimitur aliquid ex parte divinae virtutis, cui effectus sacramenti assimilatur; non autem in hoc sacramento.  
 
-Ad secundum dicendum, quod propter causam specialem hoc sacramentum prae ceteris per modum imperativum exhibetur. Quamvis enim in episcopo, qui est minister hujus sacramenti, non sit auctoritas respectu collationis hujus sacramenti; tamen habet aliquam potestatem*potestatem.—auctoritatem* PLE. respectu potestatis ordinis quae confertur per ipsum, inquantum a sua potestate derivatur.  
+Ad secundum dicendum, quod propter causam specialem hoc sacramentum prae ceteris per modum imperativum exhibetur. Quamvis enim in episcopo, qui est minister hujus sacramenti, non sit auctoritas respectu collationis hujus sacramenti; tamen habet aliquam potestatem *(*potestatem.—auctoritatem* PLE.)* respectu potestatis ordinis quae confertur per ipsum, inquantum a sua potestate derivatur.  
 
 Ad tertium dicendum, quod usus potestatis est effectus potestatis in genere causae efficientis; et sic non habet quod in definitione ordinis ponatur; sed est quodammodo causa in genere causae finalis; et ideo secundum hanc rationem poni potest in definitione ordinis.  
 
@@ -310,7 +310,7 @@ Respondeo dicendum ad primam quaestionem, quod, sicut Dionysius dicit, *ut subti
 
 Ad primum ergo dicendum, quod sicut vera sacramenta sunt quae peccator dispensat, ita verum sacramentum ordinis recipit; et sicut indigne dispensat, ita indigne recipit.  
 
-Ad secundum dicendum, quod illud ministerium erat tantum in executione corporalis obsequii, quod etiam licite peccatores facere possunt; secus autem est de ministerio spirituali ad quod applicantur ordinati, quia per ipsum efficiuntur medii inter Deum et plebem; et ideo debent bona conscientia nitere quo ad*quo ad.—quo ad deum et bona fama quo ad homines* PLE. homines.  
+Ad secundum dicendum, quod illud ministerium erat tantum in executione corporalis obsequii, quod etiam licite peccatores facere possunt; secus autem est de ministerio spirituali ad quod applicantur ordinati, quia per ipsum efficiuntur medii inter Deum et plebem; et ideo debent bona conscientia nitere quo ad *(*quo ad.—quo ad deum et bona fama quo ad homines* PLE.)* homines.  
 
 Ad tertium dicendum, quod aliquae medicinae sunt quae exigunt robur naturae, alias cum periculo mortis assumuntur; et aliae sunt quae debilibus dari possunt. Ita etiam in spiritualibus quaedam sacramenta sunt ordinata ad remedium peccati; et talia peccatoribus sunt exhibenda, sicut baptismus, et poenitentia; illa vero quae perfectionem gratiae conferunt, requirunt hominem per gratiam confortatum.  
 
@@ -334,7 +334,7 @@ Ad secundum dicendum, quod res naturales efficiuntur in gradu super alia secundu
 
 Quaestiuncula 4  
 
-Ad quartam quaestionem dicendum, quod a Domino describitur *fidelis servus qui est constitutus super familiam, ut det illis tritici mensuram*; et ideo infidelitatis reus est qui aliter*aliter.—alicui* PLE. supra mensuram ejus divina tradit. Hoc autem facit quicumque indignum promovet; et ideo mortale crimen committit, quasi summo Domino infidelis; et praecipue cum hoc in detrimentum Ecclesiae vergat, et honoris divini, qui per bonos ministros promovetur. Esset enim infidelis domino terreno qui in ejus officio aliquos inutiles poneret.  
+Ad quartam quaestionem dicendum, quod a Domino describitur *fidelis servus qui est constitutus super familiam, ut det illis tritici mensuram*; et ideo infidelitatis reus est qui aliter *(*aliter.—alicui* PLE.)* supra mensuram ejus divina tradit. Hoc autem facit quicumque indignum promovet; et ideo mortale crimen committit, quasi summo Domino infidelis; et praecipue cum hoc in detrimentum Ecclesiae vergat, et honoris divini, qui per bonos ministros promovetur. Esset enim infidelis domino terreno qui in ejus officio aliquos inutiles poneret.  
 
 Ad primum ergo dicendum, quod Deus nunquam ita deserit Ecclesiam suam quin inveniantur idonei ministri sufficienter ad necessitatem plebis, si digni promoverentur, et indigni repellerentur. Et si non possent tot ministri inveniri quot modo sunt, *melius esset habere paucos ministros bonos quam multos malos*, ut dicit beatus Clemens.  
 
@@ -536,7 +536,7 @@ primo, de corona;
 
 ***Quaestiuncula 1***
 
-Ad primum sic proceditur. Videtur quod ordinati non debeant coronae tonsuram habere. Quia Dominus captivitatem comminatur et dispersionem his qui sic attenduntur,*attenduntur.—attondentur* PLE. ut patet Deuter. 32, 42: *de captivitate nudati inimicorum capitis*; et Hierem. 49, 32: *dispergam in omnem ventum eos qui in comam attonsi sunt*. Sed ministris Christi non debetur captivitas, sed libertas. Ergo corona, tonsura et rasura eis non competit.  
+Ad primum sic proceditur. Videtur quod ordinati non debeant coronae tonsuram habere. Quia Dominus captivitatem comminatur et dispersionem his qui sic attenduntur, *(*attenduntur.—attondentur* PLE.)* ut patet Deuter. 32, 42: *de captivitate nudati inimicorum capitis*; et Hierem. 49, 32: *dispergam in omnem ventum eos qui in comam attonsi sunt*. Sed ministris Christi non debetur captivitas, sed libertas. Ergo corona, tonsura et rasura eis non competit.  
 
 Praeterea, veritas debet respondere figurae. Sed figura coronae praecessit in veteri lege in tonsura Nazaraeorum, sicut in littera dicitur. Cum ergo Nazaraei non essent ordinati ad ministerium divinum, videtur quod ministris Ecclesiae non debeatur tonsura, vel rasura coronae; et hoc etiam videtur per hoc quod conversi, qui non sunt ministri Ecclesiae, tondentur in religionibus.  
 
@@ -668,7 +668,7 @@ Ad primum ergo dicendum, quod quamvis omnibus apostolis data sit communiter pote
 
 Ad secundum dicendum, quod ritus Judaeorum non erat diffusus in diversis regnis et provinciis, sed tantum in una gente; et ideo non oportebat quod sub eo qui habebat potestatem principalem alii pontifices distinguerentur. Sed Ecclesiae ritus sicut et gentilium, per diversas nationes diffunditur; et ideo oportet quod quantum ad hoc magis gentilium ritui quam Judaeorum, status Ecclesiae conformetur.  
 
-Ad tertium dicendum, quod potestas episcopi*potestas episcopi.—potestas sacerdotis exceditur a potestate episcopi quasi a potestate alterius generis sed potestatis episcopi* PLE. exceditur a potestate Papae quasi a potestate ejusdem generis; et ideo omnem actum hierarchicum quem potest facere Papa in ministratione sacramentorum, potest facere episcopus; non autem omnem actum quem potest facere episcopus, potest facere sacerdos in sacramentorum collatione; et ideo quantum ad ea quae sunt episcopalis ordinis, omnes episcopi sunt aequales; et propter hoc quilibet alium potest consecrare.  
+Ad tertium dicendum, quod potestas episcopi *(*potestas episcopi.—potestas sacerdotis exceditur a potestate episcopi quasi a potestate alterius generis sed potestatis episcopi* PLE.)* exceditur a potestate Papae quasi a potestate ejusdem generis; et ideo omnem actum hierarchicum quem potest facere Papa in ministratione sacramentorum, potest facere episcopus; non autem omnem actum quem potest facere episcopus, potest facere sacerdos in sacramentorum collatione; et ideo quantum ad ea quae sunt episcopalis ordinis, omnes episcopi sunt aequales; et propter hoc quilibet alium potest consecrare.  
 
 Articulus 3  
 

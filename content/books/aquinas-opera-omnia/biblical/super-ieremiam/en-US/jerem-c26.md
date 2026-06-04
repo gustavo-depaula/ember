@@ -6,7 +6,7 @@
 
 ***Two baskets of figs***
 
-^24:1^ The Lord showed me and behold, two baskets full of figs set before the temple of the Lord, after that Nebuchadnezzar, the king of Babylon, had taken away Jekoniah, the son of Jehoiakim, the king of Israel, and his princes, and the craftsman, and the engraverHeb. מַסְגֵּר: *smith*. from Jerusalem, and led them to Babylon.  
+^24:1^ The Lord showed me and behold, two baskets full of figs set before the temple of the Lord, after that Nebuchadnezzar, the king of Babylon, had taken away Jekoniah, the son of Jehoiakim, the king of Israel, and his princes, and the craftsman, and the engraver *(Heb. מַסְגֵּר: *smith*.)* from Jerusalem, and led them to Babylon.  
 
 > ^24:2^ And one basket contained exceedingly good figs, as figs of the first season, and one basket contained exceedingly bad figs, which could not be eaten, because they were bad.
 

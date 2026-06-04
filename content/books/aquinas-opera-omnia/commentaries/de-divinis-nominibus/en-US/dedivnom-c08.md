@@ -134,7 +134,7 @@ first, he posits the procession of angelic knowledge from God, and he says that 
 
 Whereas in judgment, we proceed from some common principle to the aforementioned many and divisible things or particulars and signs of its effect.  
 
-Yet excluding both of those from the angels, he says that the intellects of angels do not gather, as we do, ***divine knowledge***, considering ***in divisible*** diverse things what they already know or acquiring science from ***divisible things*** of this sort: ***divisible things*** I say ***or senses***, as regards sensible things, ***or diffuse speeches***, that is, ***reasons***, as another translation has;John Duns Scotus. for *logos* in Greek signifies reason and speech; and there is said diffuse reason, on account of the procession from one to another. For also the aforementioned intellectual virtues, similarly as in us, are driven ***from some common thing to those*** many and divided things, but since they are pure ***from all*** matter, through which they differ from senses and sensible things, and ***multitude***, through which they differ from diffuse reasons, ***they understand the intelligibles of divine things*** not sensibly nor rationally, but ***intellectually***; but ***and immaterially*** unto the difference of sense and ***uniformly*** unto the difference of reason.  
+Yet excluding both of those from the angels, he says that the intellects of angels do not gather, as we do, ***divine knowledge***, considering ***in divisible*** diverse things what they already know or acquiring science from ***divisible things*** of this sort: ***divisible things*** I say ***or senses***, as regards sensible things, ***or diffuse speeches***, that is, ***reasons***, as another translation has; *(John Duns Scotus.)* for *logos* in Greek signifies reason and speech; and there is said diffuse reason, on account of the procession from one to another. For also the aforementioned intellectual virtues, similarly as in us, are driven ***from some common thing to those*** many and divided things, but since they are pure ***from all*** matter, through which they differ from senses and sensible things, and ***multitude***, through which they differ from diffuse reasons, ***they understand the intelligibles of divine things*** not sensibly nor rationally, but ***intellectually***; but ***and immaterially*** unto the difference of sense and ***uniformly*** unto the difference of reason.  
 
 **712**. Third, at ***and there is for those intellectual virtue***, he assigns the cause of so excellent a knowledge in the angels:  
 
@@ -284,7 +284,7 @@ and first, about reason;
 
 second, about truth and faith, at ***this reason is the simple and existing truth***.  
 
-**735**. Therefore he says, first, that ***God is praised*** in Sacred Scripture as ***reason***, which especially can be received from the Sacred Scriptures in that God is called *Word*, according to John 1:1: *and the Word was God*. For *logos* in Greek, as Augustine says, signifies both reason and word.Augustine, *Eighty-Three Questions,* q. 63.  
+**735**. Therefore he says, first, that ***God is praised*** in Sacred Scripture as ***reason***, which especially can be received from the Sacred Scriptures in that God is called *Word*, according to John 1:1: *and the Word was God*. For *logos* in Greek, as Augustine says, signifies both reason and word. *(Augustine, *Eighty-Three Questions,* q. 63.)*  
 
 Yet from the name of reason, four things are understood:  
 

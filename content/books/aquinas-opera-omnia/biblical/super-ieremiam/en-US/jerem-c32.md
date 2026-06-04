@@ -50,7 +50,7 @@ Lecture 2
 
 > ^30:5^ for thus says the Lord: we have heard a voice of terror, fear, and there was no peace.
 
-> ^30:6^ Ask, and see if a man gives birth. Why, therefore, do I see the hand of every man upon his loins as though he were a woman in labor, and why have all their faces turned sickly?Heb. יֵרָקוֺן: paleness.
+> ^30:6^ Ask, and see if a man gives birth. Why, therefore, do I see the hand of every man upon his loins as though he were a woman in labor, and why have all their faces turned sickly? *(Heb. יֵרָקוֺן: paleness.)*
 
 > ^30:7^ Woe! For it is that great day, and there is none like it; it is also a time of tribulation for Jacob, and he shall be saved from it.
 
@@ -72,7 +72,7 @@ Concerning the first, there are two points.
 
 First, he sets forth the former oppression, which he signifies when he sets forth the fear caused by the enemy: ***we have heard a voice of terror***, foretold before by the prophets; ***fear, and there was no peace***, from someone bringing assistance. *The sound of terror is always in his ears, and when there is peace he always suspects treachery* (Job 15:21).  
 
-The expression of fear from the posture of the body, for they were turned into the likeness of a woman in labor with her hands upon her loins, because of astonishment: ***ask***. *There, suffering like one in labor* (Ps 47:7). And from the loss of strength: ***and why have all their faces turned sickly***, which is the color black mixed with red, as when one is angry. And it comes from the burning wind.*Aurugo* simply means “pale” or “sickly” in this context, but Thomas Aquinas’s interpretation here may perhaps be due to a misunderstanding of such passages as are found in Haggai and Amos: *I have struck you with a burning wind, and I have struck all the works of your hands with mildew* (*aurugine*) *and hail* (Hag 2:18); *I have struck you with a burning wind and with mildew* (*aurugine*) (Amos 4:9). It is also possible that there may be a confusion here between the words *aurugo* and *aerugo*. *Aurugo* signifies “jaundice” and “sickliness” (and hence can also signify “paleness” and “mildew”), and its meaning is derived from the color of gold (*aurum*); *aerugo* denotes “rust,” as in the rust of copper (*aer*). See note in ch. 5, lect. 1, above. *Their countenances shall be as faces burnt* (Isa 13:8). *All their faces shall be made like a kettle* (Joel 2:6).  
+The expression of fear from the posture of the body, for they were turned into the likeness of a woman in labor with her hands upon her loins, because of astonishment: ***ask***. *There, suffering like one in labor* (Ps 47:7). And from the loss of strength: ***and why have all their faces turned sickly***, which is the color black mixed with red, as when one is angry. And it comes from the burning wind. *(*Aurugo* simply means “pale” or “sickly” in this context, but Thomas Aquinas’s interpretation here may perhaps be due to a misunderstanding of such passages as are found in Haggai and Amos: *I have struck you with a burning wind, and I have struck all the works of your hands with mildew* (*aurugine*) *and hail* (Hag 2:18); *I have struck you with a burning wind and with mildew* (*aurugine*) (Amos 4:9). It is also possible that there may be a confusion here between the words *aurugo* and *aerugo*. *Aurugo* signifies “jaundice” and “sickliness” (and hence can also signify “paleness” and “mildew”), and its meaning is derived from the color of gold (*aurum*); *aerugo* denotes “rust,” as in the rust of copper (*aer*). See note in ch. 5, lect. 1, above.)* *Their countenances shall be as faces burnt* (Isa 13:8). *All their faces shall be made like a kettle* (Joel 2:6).  
 
 He also sets forth the magnitude of their fear and anxiety: ***woe, for it is that great***, in magnitude of tribulation, ***day***, the day of the capture of Jerusalem. *The voice of the day of the Lord is bitter; then shall there be a mighty tribulation. A day of wrath is that day, a day of tribulation and distress; a day of calamity and misery; a day of darkness and gloom, a day of smoke and the whirlwind, a day of the trumpet and noise* (Zeph 1:14–15).  
 
@@ -112,9 +112,9 @@ Lecture 3
 
 > ^30:17^ For I will cover up your scar, and heal you of your wounds, says the Lord. Because they have called you, O Zion, an outcast: ‘This is she, who has none to seek after her.’
 
-> ^30:18^ Thus says the Lord: behold, I shall turn the turnings of the tents of Jacob,Heb. הִנְנִי־שָׁב֙ שְׁבוּת֙ אָהֳלֵ֣י יַֽעֲקֹ֔וב: *behold, I shall bring back the captivity of the tents of Jacob*. and shall have mercy on his houses, and the city shall be built on its high place, and the templeHeb. אַרְמוֺן: *citadel*. shall be established according to the order thereof.
+> ^30:18^ Thus says the Lord: behold, I shall turn the turnings of the tents of Jacob, *(Heb. הִנְנִי־שָׁב֙ שְׁבוּת֙ אָהֳלֵ֣י יַֽעֲקֹ֔וב: *behold, I shall bring back the captivity of the tents of Jacob*.)* and shall have mercy on his houses, and the city shall be built on its high place, and the temple *(Heb. אַרְמוֺן: *citadel*.)* shall be established according to the order thereof.
 
-> ^30:19^ And praiseHeb. תּוֹדָ֖ה: *thanksgiving*. shall go forth from them, and the voice of those who play. And I shall multiply them, and they shall not be diminished; and I shall glorify them, and they shall not be lessened.
+> ^30:19^ And praise *(Heb. תּוֹדָ֖ה: *thanksgiving*.)* shall go forth from them, and the voice of those who play. And I shall multiply them, and they shall not be diminished; and I shall glorify them, and they shall not be lessened.
 
 > ^30:20^ And their children shall be as they were in the beginning, and their assembly shall remain before me, and I shall visit against all who trouble them.
 
@@ -164,7 +164,7 @@ Lecture 4
 
 ^30:23^ Behold, the whirlwind of the Lord, his fury going forth, a rushing storm; it shall rest upon the head of the wicked.  
 
-> ^30:24^ The Lord shall not turn aside the wrath of his indignation until he has done and accomplished the thought of his heart; in the end you will understand these things.Heb. תִּתְבּוֹנְנוּ בָהּ: *you shall consider it*.
+> ^30:24^ The Lord shall not turn aside the wrath of his indignation until he has done and accomplished the thought of his heart; in the end you will understand these things. *(Heb. תִּתְבּוֹנְנוּ בָהּ: *you shall consider it*.)*
 
 > **157**. Here, he speaks of the manner of vindication.
 

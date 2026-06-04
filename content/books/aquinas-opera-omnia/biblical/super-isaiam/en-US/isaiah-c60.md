@@ -12,7 +12,7 @@
 
 > ^58:6^ Is not this rather the fast that I have chosen? Loose the bands of wickedness, undo the bundles that oppress, let them that are broken go free, and break asunder every burden.
 
-> ^58:7^ Break your bread for the hungry,*Frange esurienti panem tuum*. DR: “deal thy bread to the hungry.” and bring the needy and the harborless into your house: when you shall see one naked, cover him, and despise not your own flesh.
+> ^58:7^ Break your bread for the hungry, *(*Frange esurienti panem tuum*. DR: “deal thy bread to the hungry.”)* and bring the needy and the harborless into your house: when you shall see one naked, cover him, and despise not your own flesh.
 
 > ^58:8^ Then shall your light break forth as the morning, and your health shall speedily arise, and your justice shall go before your face, and the glory of the Lord shall gather you up.
 
@@ -30,7 +30,7 @@
 
 > **1022**. ***Cry, cease not***. Here he excludes a useless remedy, by which they wished to prepare themselves for salvation.
 
-And first, he enjoins the duty of announcing, setting out the manner of announcing, that it be loud without fear suppressing it: ***cry***, above: ***lift up your voice with strength, you that bring good tidings to ZionZion*. Vg.: *Jerusalem*. (Isa 40:9); that it be continuous: ***cease not***, below: ***upon your walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace*** (Isa 62:6); that it be clear and open: ***like a trumpet***: *let there be a trumpet in your throat* (Hos 8:1). And the message of the announcement: ***show my people their wicked doings***, as to greater sins, ***sins***, as to common sins, above: ***to them that rejoice upon the brick walls, tell their stripes*** (Isa 16:7).  
+And first, he enjoins the duty of announcing, setting out the manner of announcing, that it be loud without fear suppressing it: ***cry***, above: ***lift up your voice with strength, you that bring good tidings to Zion*** *(*Zion*. Vg.: *Jerusalem*.)* (Isa 40:9); that it be continuous: ***cease not***, below: ***upon your walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace*** (Isa 62:6); that it be clear and open: ***like a trumpet***: *let there be a trumpet in your throat* (Hos 8:1). And the message of the announcement: ***show my people their wicked doings***, as to greater sins, ***sins***, as to common sins, above: ***to them that rejoice upon the brick walls, tell their stripes*** (Isa 16:7).  
 
 **1023**. Second, the prophet, in the person of the Lord, excludes the useless remedy: ***for they seek me from day to day***. And concerning this, he does two things:  
 
@@ -58,7 +58,7 @@ Concerning the first, he does two things.
 
 First, he sets out the counsel of piety, that calumnies should cease: ***loose the bands of wickedness***, the false lawsuits, by which, like usurers, they cunningly bound the poor, ***undo the bundles***, referring to the same thing, ***that oppress***, as to the punishments to which they bound them; ***them that are broken***, by long servitude; ***break asunder every burden***, of servitude: *they bind heavy and insupportable burdens, but with a finger of their own they will not move them* (Matt 23:4).  
 
-And that they extend mercies, exhorting them to mercy as to the hungry: ***break your bread for the hungry***, that is, if you have little; as to the homeless: ***and bring the needy and the harborless into your house***; as to the naked, ***when you shall see one naked, cover him***: *if I have denied to the poor what they desired* (Job 31:16). And he sets out the cause of his exhortation: ***and despise not your own flesh***, namely, because he is of the same species as you: *visiting your species**Speciem*. DR: “beauty.” (Job 5:24).  
+And that they extend mercies, exhorting them to mercy as to the hungry: ***break your bread for the hungry***, that is, if you have little; as to the homeless: ***and bring the needy and the harborless into your house***; as to the naked, ***when you shall see one naked, cover him***: *if I have denied to the poor what they desired* (Job 31:16). And he sets out the cause of his exhortation: ***and despise not your own flesh***, namely, because he is of the same species as you: *visiting your species* *(*Speciem*. DR: “beauty.”)* (Job 5:24).  
 
 **1028**. Second, he shows the fruit of this counsel: ***then shall your light break forth***.  
 
@@ -88,7 +88,7 @@ first, because it rouses to life: *for the trumpet shall sound and the dead shal
 
 second, because it exhorts to battle: *if the trumpet give an uncertain sound, who shall prepare himself to the battle?* (1 Cor 14:8);  
 
-third, because it announces the approach of a man, above: ***a noise shall be made with great trumpetsTubis*. Vg:. *tuba*. DR: “trumpet.” (Isa 27:13);  
+third, because it announces the approach of a man, above: ***a noise shall be made with great trumpets*** *(*Tubis*. Vg:. *tuba*. DR: “trumpet.”)* (Isa 27:13);  
 
 fourth, because it calls to counsel: *let there be a trumpet in your throat* (Hos 8:1);  
 
@@ -100,7 +100,7 @@ first, of piety: *for which I am an ambassador in a chain* (Eph 6:20);
 
 second, of iniquity: *for they were all bound together with one chain of darkness* (Wis 17:17);  
 
-third, of poverty: *if they be conquered**Vincti*. Vg.: *in catenis*. DR: “in chains.” (Job 36:8);  
+third, of poverty: *if they be conquered* *(*Vincti*. Vg.: *in catenis*. DR: “in chains.”)* (Job 36:8);  
 
 fourth, of servitude: *you have broken chains of wood* (Jer 28:13);  
 

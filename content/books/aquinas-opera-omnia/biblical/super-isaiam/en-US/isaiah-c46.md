@@ -8,7 +8,7 @@
 
 > ^44:4^ And they shall spring up among the herbs, as willows beside the running waters.
 
-> ^44:5^ One shall say: I am the Lord’s, and another shall call himself by the name of Jacob, and another shall write*Scribet*. DR: “subscribe.” with his hand: to the Lord, and shall be made like in the name of Israel.*In nomine Israel assimilabitur*. DR: “surname himself by the name of Israel.”
+> ^44:5^ One shall say: I am the Lord’s, and another shall call himself by the name of Jacob, and another shall write *(*Scribet*. DR: “subscribe.”)* with his hand: to the Lord, and shall be made like in the name of Israel. *(*In nomine Israel assimilabitur*. DR: “surname himself by the name of Israel.”)*
 
 > ^44:6^ Thus says the Lord the king of Israel, and his redeemer the Lord of hosts: I am the first, and I am the last, and besides me there is no God.
 
@@ -20,7 +20,7 @@
 
 > ^44:10^ Who has formed a god, and made a graven thing that is profitable for nothing?
 
-> ^44:11^ Behold, all the partakers thereof shall be confounded: for the makers are from men:*Ex hominibus*. DR omits “from.” when they all come,*Cum venient omnes*. Vg.: *convenient omnes*. DR: “they shall all assemble together.” they shall stand and fear, and shall be confounded together.
+> ^44:11^ Behold, all the partakers thereof shall be confounded: for the makers are from men: *(*Ex hominibus*. DR omits “from.”)* when they all come, *(*Cum venient omnes*. Vg.: *convenient omnes*. DR: “they shall all assemble together.”)* they shall stand and fear, and shall be confounded together.
 
 > ^44:12^ The smith has wrought with his file, with coals, and with hammers he has formed it, and has wrought with the strength of his arm: he shall hunger and faint, he shall drink no water, and shall be weary.
 
@@ -100,9 +100,9 @@ second, he applies a test, ***who is like to me?***
 
 First, he sets out the divine act in announcing future things and the order of past things: ***let him call and declare***, predestining, etc. *All things were known to the Lord God, before they were created* (Sir 23:29[20]).  
 
-Second, he indicates the sign of his divinity confirmed by witnesses: ***fear not***, as if to say: be not worried for me, as if I would fail in a test of my divinity, below: ***I have made you to hear new things*** (Isa 48:6).*Audita feci tibi nova*. DR: “I have shown thee new things.”  
+Second, he indicates the sign of his divinity confirmed by witnesses: ***fear not***, as if to say: be not worried for me, as if I would fail in a test of my divinity, below: ***I have made you to hear new things*** (Isa 48:6). *(*Audita feci tibi nova*. DR: “I have shown thee new things.”)*  
 
-Third, he deduces the defect of the idols: ***is there a God besides me***, and first, he sets out the question: ***is there a God besides me***, *see that I alone am, and there is no other God besides me* (Deut 32:39); second, he shows the unsuitableness of their witnesses: ***the makers** (**plastae**See above on 45:21.) **of idols*, *are all of them nothing***, of no power, above: ***all nations are before him as if they had no being at all*** (Isa 40:17), or because they do not obtain their intention, wishing to form a god with their hands, as the idol also is nothing (1 Cor 8:4), *let the companions of him that is not, dwell in his tabernacle* (Job 18:15); ***their best beloved things***, the idols, which are either large and greatly to be revered or made from precious materials; third, he shows the falsehood of their testimony: ***they are their witnesses*, *that they do not see***, namely, of the idols, calling them gods: *a false witness shall not be unpunished* (Prov 19:5).  
+Third, he deduces the defect of the idols: ***is there a God besides me***, and first, he sets out the question: ***is there a God besides me***, *see that I alone am, and there is no other God besides me* (Deut 32:39); second, he shows the unsuitableness of their witnesses: ***the makers** (**plastae** *(See above on 45:21.)*) **of idols*, *are all of them nothing***, of no power, above: ***all nations are before him as if they had no being at all*** (Isa 40:17), or because they do not obtain their intention, wishing to form a god with their hands, as the idol also is nothing (1 Cor 8:4), *let the companions of him that is not, dwell in his tabernacle* (Job 18:15); ***their best beloved things***, the idols, which are either large and greatly to be revered or made from precious materials; third, he shows the falsehood of their testimony: ***they are their witnesses*, *that they do not see***, namely, of the idols, calling them gods: *a false witness shall not be unpunished* (Prov 19:5).  
 
 **851**. ***Who has formed***. Here he shows from their formation that they are not gods. And concerning this, he does two things:  
 
@@ -136,7 +136,7 @@ Third, he invites all creation to give thanks for the return: ***shout with joy,
 
 **854**. ***Thus says the Lord***. Here he promises the benefit of liberation to those who return to him. And concerning this he does two things.  
 
-First, he shows the power of the liberator through the benefit which he conferred on them: ***your redeemer***, from evils, ***and your maker***, in good things, below: ***thus says the Lord, that formed me from the womb*** (Isa 49:5); as to the creatures, which he made: ***I am the Lord, that make all things***: *he makes the earth by his power* (Jer 10:12). As to the wise, whom has made fools, some of whom professed to know divine things: ***that make void the tokens of diviners***: *a sword upon her diviners, and they shall be foolish* (Jer 50:36); some of whom professed to know things of the world: ***that turn the wise backward***: *has not God made foolish the wisdom of this world?* (1 Cor 1:20). And as to the fulfillment of promises: ***that raise up the word***, fulfilling it, ***of my servant***, the prophet, or Moses, or Christ: *raise up the prophets**Praedicatores*. Vg.: *praedicationes*. DR: “prophecies.” (Sir 36:17[20]).  
+First, he shows the power of the liberator through the benefit which he conferred on them: ***your redeemer***, from evils, ***and your maker***, in good things, below: ***thus says the Lord, that formed me from the womb*** (Isa 49:5); as to the creatures, which he made: ***I am the Lord, that make all things***: *he makes the earth by his power* (Jer 10:12). As to the wise, whom has made fools, some of whom professed to know divine things: ***that make void the tokens of diviners***: *a sword upon her diviners, and they shall be foolish* (Jer 50:36); some of whom professed to know things of the world: ***that turn the wise backward***: *has not God made foolish the wisdom of this world?* (1 Cor 1:20). And as to the fulfillment of promises: ***that raise up the word***, fulfilling it, ***of my servant***, the prophet, or Moses, or Christ: *raise up the prophets* *(*Praedicatores*. Vg.: *praedicationes*. DR: “prophecies.”)* (Sir 36:17[20]).  
 
 Second, he promises liberation,  
 
@@ -146,7 +146,7 @@ second, as to the destruction of their enemies: ***who say to the deep***, that 
 
 third, as to the exaltation of the liberator: ***who say to Cyrus: you are my shepherd***, feeding my sheep: *he shall feed them, and he shall be their shepherd* (Ezek 34:23);  
 
-fourth, as to the reestablishment of the temple: ***who say to Jerusalem***; ***your foundations shall be laid***, for in the time of Cyrus, only the foundations of the temple remained standing: *Jerusalem will be built up again* (Jer 30:18).Cf. Daniel 9:25.  
+fourth, as to the reestablishment of the temple: ***who say to Jerusalem***; ***your foundations shall be laid***, for in the time of Cyrus, only the foundations of the temple remained standing: *Jerusalem will be built up again* (Jer 30:18). *(Cf. Daniel 9:25.)*  
 
 **855**. The Spirit is given (see 44:3),  
 

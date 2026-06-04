@@ -10,7 +10,7 @@
 
 > ^22:5^ For it is a day of slaughter and of treading down, and of weeping to the Lord the God of hosts in the valley of vision, searching the wall, and magnificent upon the mountain.
 
-> ^22:6^ And Elam took the quiver, the chariot of the horseman, and the shield laid bare*Nudavit*. DR: “was taken down from.” the wall.
+> ^22:6^ And Elam took the quiver, the chariot of the horseman, and the shield laid bare *(*Nudavit*. DR: “was taken down from.”)* the wall.
 
 > ^22:7^ And your choice valleys shall be full of chariots, and the horsemen shall place themselves in the gate.
 
@@ -20,9 +20,9 @@
 
 > ^22:10^ And have numbered the houses of Jerusalem, and broken down houses to fortify the wall.
 
-> ^22:11^ And you made a lake*Lacum*. DR: “ditch.” between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.
+> ^22:11^ And you made a lake *(*Lacum*. DR: “ditch.”)* between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.
 
-> ^22:12^ And the Lord, the God of hosts, in that day shall call to weeping, and to beating,*Planctum*. DR: “mourning.” to baldness, and to girding with sackcloth:
+> ^22:12^ And the Lord, the God of hosts, in that day shall call to weeping, and to beating, *(*Planctum*. DR: “mourning.”)* to baldness, and to girding with sackcloth:
 
 > ^22:13^ And behold joy and gladness, killing calves, and slaying rams, eating flesh, and drinking wine: let us eat and drink; for tomorrow we shall die.
 
@@ -44,7 +44,7 @@
 
 > ^22:22^ And I will lay the key of the house of David upon his shoulder: and he shall open, and none shall shut: and he shall shut, and none shall open.
 
-> ^22:23^ And I will fasten him as a peg in the place of the faithful,*Loco fidelium*. Vg.: *loco fideli*. DR: “in a sure place.” and he shall be for a throne of glory to the house of his father.
+> ^22:23^ And I will fasten him as a peg in the place of the faithful, *(*Loco fidelium*. Vg.: *loco fideli*. DR: “in a sure place.”)* and he shall be for a throne of glory to the house of his father.
 
 > ^22:24^ And they shall hang upon him all the glory of his father’s house, diverse kinds of vessels, every little vessel, from the vessels of cups even to every instrument of music.
 
@@ -84,7 +84,7 @@ and the fullness of joys: ***a joyous city***, formerly, in the time of Solomon 
 
 **529**. ***Your slain***. Here he sets out the punishment.  
 
-And first, he threatens the destruction of men as to the besieged who died by hunger: ***your slain are not slain by the sword***, but by hunger and thirst: *it was better with them that were slain by the sword, than with them that died with hunger* (Lam 4:9). As to fugitives, namely the princes who were taken and ***bound***, as it says in Jeremiah 52; ***all the princes***: *her princes are become like rams that find no pastures* (Lam 1:6); as to those taken in the city, who were similarly captured: ***all that were found, they are fled far off***, led into captivity to a far off land: *the Lord will bring you to a far off nation* (Deut 28:49).*Deducet Dominus in gentem longinquam*. Vg.: a*dducet Dominus super te gentem de longinquo*. DR: “the Lord will bring upon thee a nation from afar.”  
+And first, he threatens the destruction of men as to the besieged who died by hunger: ***your slain are not slain by the sword***, but by hunger and thirst: *it was better with them that were slain by the sword, than with them that died with hunger* (Lam 4:9). As to fugitives, namely the princes who were taken and ***bound***, as it says in Jeremiah 52; ***all the princes***: *her princes are become like rams that find no pastures* (Lam 1:6); as to those taken in the city, who were similarly captured: ***all that were found, they are fled far off***, led into captivity to a far off land: *the Lord will bring you to a far off nation* (Deut 28:49). *(*Deducet Dominus in gentem longinquam*. Vg.: a*dducet Dominus super te gentem de longinquo*. DR: “the Lord will bring upon thee a nation from afar.”)*  
 
 **530**. Second, he sets out the inconsolable compassion of the prophet: ***depart***, you who console the prophet, ***labor not***, in the manner of those who console: *who will give water to my head, and a fountain of tears to my eyes that I may weep for the slain of my people* (Jer 9:1).  
 
@@ -100,7 +100,7 @@ First, as to the destruction of their properties: ***your choice valleys shall b
 
 Second, as to the taking of their cities: ***the horsemen shall place themselves in the gate***, lest anyone escape: *all the princes of Babylon came in, and sat in the middle gate* (Jer 39:3).  
 
-Third, as to the profanation of holy things: ***and the covering***, that is, the holy things formerly hidden, which no one but the priest was allowed to see, ***of Judah shall be discovered***, that is, laid bare: *the gentiles have seen your shame* (Lam 1:8).*Viderunt gentes ignominiam tuam*. Vg.: *viderunt ignominiam ejus*. DR: “they have seen her shame.”  
+Third, as to the profanation of holy things: ***and the covering***, that is, the holy things formerly hidden, which no one but the priest was allowed to see, ***of Judah shall be discovered***, that is, laid bare: *the gentiles have seen your shame* (Lam 1:8). *(*Viderunt gentes ignominiam tuam*. Vg.: *viderunt ignominiam ejus*. DR: “they have seen her shame.”)*  
 
 Fourth, as to the destruction of their armory: ***you shall see in that day the armory***, that is, ***the house of the forest***, in which arms were hidden, overthrown; concerning this building, see 1 Kings 7. ***The city of David***, most strongly, or Jerusalem itself with a strong wall in many places: *the tower of David, which is built with bulwarks* (Song 4:3).  
 
@@ -112,11 +112,11 @@ second, he sets out the divine sentence against them: ***and the voice of the Lo
 
 Their pertinacity is denounced as to two things.  
 
-First, as to divine help, which they did not invoke, trusting in their own men and clever devices: ***you have gathered together***, in one place within the city, through a hidden channel, ***the waters of the lower pool***, which had waters flowing from the earth that nevertheless could be hindered by enemies. ***And have numbered the houses of Jerusalem***, that water may be dispensed by number and measure; ***and have broken down*** houses which were next to the wall, so that they wouldn’t impede the defenders. ***And you made a lake***, of the lower pool, to flow ***between the two walls***, which encircled the city, and ***the water***, namely, you have restored; ***nor regarded him***, namely, God, ***that wrought it***, the water: *they have not called upon God**Deum*. Vg.: *Dominum*. DR: “the Lord.” (Ps 13:5[14:4]).  
+First, as to divine help, which they did not invoke, trusting in their own men and clever devices: ***you have gathered together***, in one place within the city, through a hidden channel, ***the waters of the lower pool***, which had waters flowing from the earth that nevertheless could be hindered by enemies. ***And have numbered the houses of Jerusalem***, that water may be dispensed by number and measure; ***and have broken down*** houses which were next to the wall, so that they wouldn’t impede the defenders. ***And you made a lake***, of the lower pool, to flow ***between the two walls***, which encircled the city, and ***the water***, namely, you have restored; ***nor regarded him***, namely, God, ***that wrought it***, the water: *they have not called upon God* *(*Deum*. Vg.: *Dominum*. DR: “the Lord.”)* (Ps 13:5[14:4]).  
 
 **535**. Second, as to divine counsel, which they held in contempt: ***and he shall call***. And concerning this, he sets out three things.  
 
-First, the counsel itself: ***to weeping***, of the eyes; ***to beating***, of the hands; ***to baldness***, according to the custom of the ancients, who did these things in sadness: *be converted to me with all your heart, in fasting, and in weeping, and beating**Planctum*. DR: “mourning.” (Joel 2:12).  
+First, the counsel itself: ***to weeping***, of the eyes; ***to beating***, of the hands; ***to baldness***, according to the custom of the ancients, who did these things in sadness: *be converted to me with all your heart, in fasting, and in weeping, and beating* *(*Planctum*. DR: “mourning.”)* (Joel 2:12).  
 
 Second, he sets out their contempt for this counsel: ***and behold joy***, above: ***the harp, and the lyre are in your feasts*** (Isa 5:12).  
 
@@ -154,7 +154,7 @@ Third, the punishment of deposition, ***and I will drive you out from your stati
 
 His election: ***I will call***, one of the twenty-four mentioned in 1 Chronicles 25; *I will raise me up a faithful priest, who shall do according to my heart* (1 Sam 2:35).  
 
-Second, his consecration: ***and I will clothe him***, for they were consecrated with pontifical garments, as is evident from Leviticus 18,Better, Leviticus 21:10. concerning these garments, and Exodus 28.  
+Second, his consecration: ***and I will clothe him***, for they were consecrated with pontifical garments, as is evident from Leviticus 18, *(Better, Leviticus 21:10.)* concerning these garments, and Exodus 28.  
 
 Third, he confers jurisdiction on him: ***and I will give your power into his hand***.  
 

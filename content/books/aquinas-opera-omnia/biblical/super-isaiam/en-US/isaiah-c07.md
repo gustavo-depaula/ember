@@ -2,7 +2,7 @@
 
 ***Lecture 1***
 
-^5:1^ I will sing to my beloved the canticle of my cousin concerning his vineyard. A vineyard was made for my belovedDR: “my beloved had a vineyard.” on a hornDR: “on a hill.” The Vulgate retains the Hebrew idiom. in a son of oil.DR: “a fruitful place.” The Vulgate retains the Hebrew idiom.  
+^5:1^ I will sing to my beloved the canticle of my cousin concerning his vineyard. A vineyard was made for my beloved *(DR: “my beloved had a vineyard.”)* on a horn *(DR: “on a hill.” The Vulgate retains the Hebrew idiom.)* in a son of oil. *(DR: “a fruitful place.” The Vulgate retains the Hebrew idiom.)*  
 
 > ^5:2 ^And he fenced it in, and picked the stones out of it, and planted it with the choicest vines, and built a tower in the midst thereof, and set up a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
 
@@ -14,13 +14,13 @@
 
 > ^5:6 ^And I will make it desolate: it shall not be pruned, and it shall not be dug: but briers and thorns shall come up: and I will command the clouds to rain no rain upon it.
 
-> ^5:7^ For the vineyard of the Lord of hosts is the house of Israel: and the men*Viri*. Vg.: *vir*. DR: “man.” of Judah, his pleasant plant: and I looked that he should do judgment, and behold iniquity: and do justice, and behold a cry.
+> ^5:7^ For the vineyard of the Lord of hosts is the house of Israel: and the men *(*Viri*. Vg.: *vir*. DR: “man.”)* of Judah, his pleasant plant: and I looked that he should do judgment, and behold iniquity: and do justice, and behold a cry.
 
 > ^5:8 ^Woe to you that join house to house and lay field to field, even to the end of the place: shall you alone dwell in the midst of the earth?
 
-> ^5:9^ These things of the Lord of hosts are in my ears:*In auribus meis sunt haec Domini exercituum*; Vg.: i*n auribus meis sunt, dicit Dominus exercituum*; DR: “these things are in my ears, saith the Lord of hosts.” unless many great and fair houses shall become desolate, without an inhabitant.
+> ^5:9^ These things of the Lord of hosts are in my ears: *(*In auribus meis sunt haec Domini exercituum*; Vg.: i*n auribus meis sunt, dicit Dominus exercituum*; DR: “these things are in my ears, saith the Lord of hosts.”)* unless many great and fair houses shall become desolate, without an inhabitant.
 
-> ^5:10^ For ten jugeraDR: “acres.” of vineyard shall yield one little measure, and thirty bushels of seed shall yield three bushels.
+> ^5:10^ For ten jugera *(DR: “acres.”)* of vineyard shall yield one little measure, and thirty bushels of seed shall yield three bushels.
 
 > **152**. ***I will sing to my beloved***. Here he denounces the third sin of the two tribes, which they committed in abuse of things, under a certain metaphor; and this is divided into two parts:
 
@@ -32,7 +32,7 @@ in the second, it is explained: ***for the vineyard of the Lord*** (Isa 5:7).
 
 First, he sets out the title, saying, ***I will sing***, that is, I will proclaim loudly and openly, below: ***lift up your voice with strength*** (Isa 40:9): ***to my beloved***, that is, to the people of the Jews, ***the canticle of my cousin***, that is, of the son of my uncle, ***concerning his vineyard***, that is, what he did concerning his vineyard. For sometimes the prophets take up similitudes to their prophecies from such deeds, as is evident in Jeremiah 32:7 concerning the sale of the field, *behold, Hanameel the son of Sellum your cousin shall come to you, saying: buy you my field, which is in Anathoth, for it is your right to buy it*. So also it may have happened that literally some cousin of his had composed a similar song concerning his vineyard.  
 
-**154**. Or it may be understood otherwise: ***I will sing the canticle in the beloved***,The form “dilecto” may be either dative (“to my beloved”) or ablative (“in my beloved” or “by my beloved”). namely, in God, that is, in the person of God, I will sing to his vineyard.  
+**154**. Or it may be understood otherwise: ***I will sing the canticle in the beloved***, *(The form “dilecto” may be either dative (“to my beloved”) or ablative (“in my beloved” or “by my beloved”).)* namely, in God, that is, in the person of God, I will sing to his vineyard.  
 
 Or otherwise, ***to the beloved***, namely, to God, ***the canticle of my cousin***, that is, concerning my cousin, namely the people of the Jews, for we descend from the same ancestors, ***concerning his vineyard***, that is, he who is my cousin is the vineyard of God the beloved.  
 
@@ -58,7 +58,7 @@ And the diligence of his cultivation is shown from three things: in preparation 
 
 **156**. Now the preparation of the location is shown in three ways.  
 
-First, as to the richness of the location; hence he says: ***a vineyard***, of which it says in Psalm 79:9[80:8]: *you have brought a vineyard out of Egypt: you have cast out the Gentiles and planted it*; ***was made for my beloved***, that is, for God, acquisitively, or by God,As above, “dilecto” may be taken as dative or ablative. ***on a horn***, that is, in a prominent location, in which is noted the mountainous nature of land for establishing a good vineyard, because it is shined upon by the sun; ***a son of oil***, that is, land so rich that it would suffice for a multitude of oil. It is an idiom of the Hebrew language that someone is said to be the son of a thing in which he abounds, as is said in 1 Samuel 26:16: *as the Lord lives, you are the sons of death*. And in this is designated the goodness of the land that was given to the Jews, of which Ezekiel 20:6 says: *I lifted up my hand for them to bring them out of the land of Egypt, into a land which I had provided for them, flowing with milk and honey, which excelled amongst all lands*.  
+First, as to the richness of the location; hence he says: ***a vineyard***, of which it says in Psalm 79:9[80:8]: *you have brought a vineyard out of Egypt: you have cast out the Gentiles and planted it*; ***was made for my beloved***, that is, for God, acquisitively, or by God, *(As above, “dilecto” may be taken as dative or ablative.)* ***on a horn***, that is, in a prominent location, in which is noted the mountainous nature of land for establishing a good vineyard, because it is shined upon by the sun; ***a son of oil***, that is, land so rich that it would suffice for a multitude of oil. It is an idiom of the Hebrew language that someone is said to be the son of a thing in which he abounds, as is said in 1 Samuel 26:16: *as the Lord lives, you are the sons of death*. And in this is designated the goodness of the land that was given to the Jews, of which Ezekiel 20:6 says: *I lifted up my hand for them to bring them out of the land of Egypt, into a land which I had provided for them, flowing with milk and honey, which excelled amongst all lands*.  
 
 Second, the diligence of his preparation is set out as to the fortification of the location; hence he says, ***and he fenced it in***: *I will hedge up your way with thorns* (Hos 2:6), in which is signified the guardianship of angels and good men.  
 
@@ -80,7 +80,7 @@ First, he beseeches the judges, saying: therefore, because I did what I ought to
 
 First, whether he had sinned from negligence; hence he says: ***what is there that I ought to do more***, beyond what has been said? *O my people, what have I done to you, or in what have I molested you? Answer you me* (Mic 6:3).  
 
-Second, whether he had sinned in the cultivation of the vineyard from excessive care; hence he says: perhaps I seem to have done contrary to what was due in that ***I looked***, tending it well, ***that it should bring forth grapes, and it has brought forth wild grapes?*** As if to say: in this I seem rather to be excessive, that I have applied such cultivation to my vineyard, below: ***O* *Lord, you have been favorable to the nation: are you glorified?*** (Isa 26:15); and: ***I* *have called you a transgressor from the womb*Ventre*. Vg.: *utero*. for my name’s sake*** (Isa 48:8–9); *at the noise of a word, a great fire was kindled in it, and the branches thereof are burnt* (Jer 11:16).  
+Second, whether he had sinned in the cultivation of the vineyard from excessive care; hence he says: perhaps I seem to have done contrary to what was due in that ***I looked***, tending it well, ***that it should bring forth grapes, and it has brought forth wild grapes?*** As if to say: in this I seem rather to be excessive, that I have applied such cultivation to my vineyard, below: ***O* *Lord, you have been favorable to the nation: are you glorified?*** (Isa 26:15); and: ***I* *have called you a transgressor from the womb *(*Ventre*. Vg.: *utero*.)* for my name’s sake*** (Isa 48:8–9); *at the noise of a word, a great fire was kindled in it, and the branches thereof are burnt* (Jer 11:16).  
 
 **161**. Note on the words, ***my beloved had a vineyard*** (Isa 5:1), that the vineyard is manifold.  
 
@@ -126,7 +126,7 @@ And first, he takes away the benefit which pertains to protection, which is twof
 
 **167**. Second, he takes away the benefit which pertains to diligence of cultivation; hence he says: ***and I will make it desolate***, that is, I will leave it uncultivated like a desert; ***it shall not be pruned***, by the lash of admonition or correction when they sin, ***and it shall not be dug***, that occasions of evil might be taken away from them like weeds; ***but briers and thorns shall come up***, that is, major and minor sins; or ***briers*** of sins, ***thorns*** of tribulations, below: ***for briers and thorns shall be in all the land*** (Isa 7:24).  
 
-**168**. Third, he takes away the benefit of fertility, against which he sets out lack of rain; hence he says: ***and I will command the clouds to rain no rain upon it***, literally; or the clouds represent preachers,Cf. Augustine, *Enarr. in Ps*. 35.8, 56.17, 134.17; *Conf*. 13.15.18; Gregory, *Moral*. 17.26. below: ***who are these, that fly as clouds, and as doves to their windows?*** (Isa 60:8); *therefore the showers were withholden, and there was no lateward rain* (Jer 3:3).  
+**168**. Third, he takes away the benefit of fertility, against which he sets out lack of rain; hence he says: ***and I will command the clouds to rain no rain upon it***, literally; or the clouds represent preachers, *(Cf. Augustine, *Enarr. in Ps*. 35.8, 56.17, 134.17; *Conf*. 13.15.18; Gregory, *Moral*. 17.26.)* below: ***who are these, that fly as clouds, and as doves to their windows?*** (Isa 60:8); *therefore the showers were withholden, and there was no lateward rain* (Jer 3:3).  
 
 **169**. ***For the vineyard of the Lord of hosts***. Here he explains the metaphor:  
 
@@ -136,7 +136,7 @@ second as to the trial of the vineyard, where it says, ***I looked that he shoul
 
 Concerning the first, he explains the vineyard saying, ***for the vineyard of the Lord of hosts is the house of Israel***, either all of Israel, or as to the ten tribes, which were called Israel after the separation of the kingdom because of their multitude (1 Kgs 12; 2 Chr 10).  
 
-Second, as to the plant*Germen*. or branches, ***men of Judah***, that is, the two tribes in which the worship of God was still observed: *if you play the harlot, O Israel, at least let not Judah offend* (Hos 4:15); or because the princes came from Judah: *but of the race of Judah, who was the strongest among his brethren, came*Germinati sunt*. the princes* (1 Chr 5:2).  
+Second, as to the plant *(*Germen*.)* or branches, ***men of Judah***, that is, the two tribes in which the worship of God was still observed: *if you play the harlot, O Israel, at least let not Judah offend* (Hos 4:15); or because the princes came from Judah: *but of the race of Judah, who was the strongest among his brethren, came *(*Germinati sunt*.)* the princes* (1 Chr 5:2).  
 
 **170**. ***I looked that he should do judgment***. Here he explains the trial of the vineyard, which consists in the fault and the punishment that follows upon the fault. Hence it is divided into three parts:  
 
@@ -164,7 +164,7 @@ in the second part, as to the abuse of food, which occurs through gluttony, wher
 
 **172**. Concerning the first, he sets out three things.  
 
-First, their superfluous multiplication of possessions is denounced, whence he says: ***woe to you that join house to house and lay field to field, even to the end*Terminum*. of the place***, as to the public road: *the princes of Judah are become as they that take up the bound*Terminum*. upon them* (Hos 5:10); *woe to him that builds up his house by injustice, and his chambers not in judgment: that will oppress his friend without cause, and will not pay him his wages. Who says: I will build me a wide house, and large chambers* (Jer 22:13–14); *and they have coveted fields, and taken them by violence, and houses they have forcibly taken away: and oppressed a man and his house, a man and his inheritance* (Mic 2:2).  
+First, their superfluous multiplication of possessions is denounced, whence he says: ***woe to you that join house to house and lay field to field, even to the end *(*Terminum*.)* of the place***, as to the public road: *the princes of Judah are become as they that take up the bound *(*Terminum*.)* upon them* (Hos 5:10); *woe to him that builds up his house by injustice, and his chambers not in judgment: that will oppress his friend without cause, and will not pay him his wages. Who says: I will build me a wide house, and large chambers* (Jer 22:13–14); *and they have coveted fields, and taken them by violence, and houses they have forcibly taken away: and oppressed a man and his house, a man and his inheritance* (Mic 2:2).  
 
 **173**. Second, the interpretation of the judge is set out: ***shall you alone dwell in the midst of the earth***, which is broad and spacious and given in possession to many: *increase and multiply, and fill the earth* (Gen 1:28).  
 
@@ -182,7 +182,7 @@ Third, as to the loss of seed: ***and thirty bushels of seed shall yield three b
 
 Lecture 2  
 
-^5:11^ Woe to you that rise up early in the morning to follow drunkenness, and to drink until*Usque ad*. DR: “in.” the evening, to be inflamed with wine.  
+^5:11^ Woe to you that rise up early in the morning to follow drunkenness, and to drink until *(*Usque ad*. DR: “in.”)* the evening, to be inflamed with wine.  
 
 > ^5:12^ The harp, and the lyre, and, the timbrel and the pipe, and wine are in your feasts: and the work of the Lord you regard not, nor do you consider the works of his hands.
 
@@ -220,7 +220,7 @@ As to “greedily,” he says, ***to follow***.
 
 As to “too much,” he says, ***and to drink until the evening***: *who has woe? Whose father has woe? Who has contentions? Who falls into pits? Who has wounds without cause? Who has redness of eyes? Surely they that pass their time in wine, and study to drink off their cups* (Prov 23:29–30); ***to be inflamed with wine***, with lust, and to all the vices.  
 
-As to “daintily,” he says, ***the harp* and *wine***, sought out daintily,*Studiose*. with great eagerness*Studio*. because they prepare for themselves pleasure in food.  
+As to “daintily,” he says, ***the harp* and *wine***, sought out daintily, *(*Studiose*.)* with great eagerness *(*Studio*.)* because they prepare for themselves pleasure in food.  
 
 As to “sumptuously,” he says, ***in your feasts***, in which there were great pomps and choice foods: *you that eat the lambs out of the flock, and the calves out of the midst of the herd; you that sing to the sound of the psaltery: they have thought themselves to have instruments of music like David; that drink wine in bowls, and anoint themselves with the best ointments* (Amos 6:4–6).  
 
@@ -294,13 +294,13 @@ third, to the destruction of eternal death: *deliver them that are led to death:
 
 first, of the imitation of divine truth: *all men are vain, in whom there is not the knowledge of God* (Wis 13:1);  
 
-second, of the attainment of the end we hope for: *but to the sinner he has given vexation, and superfluous care, to heap up and to gather together, and to give it to him that has pleased God: but these*Haec*. Vg.: *hoc*. DR: “this.” also are vanity, and a fruitless solicitude of the mind* (Eccl 2:26);  
+second, of the attainment of the end we hope for: *but to the sinner he has given vexation, and superfluous care, to heap up and to gather together, and to give it to him that has pleased God: but these *(*Haec*. Vg.: *hoc*. DR: “this.”)* also are vanity, and a fruitless solicitude of the mind* (Eccl 2:26);  
 
 third, of long length of time: *the son of man is not immortal, and they are delighted with the vanity of evil* (Sir 17:29); *all those things are passed away like a shadow, and like a post that runs on* (Wis 5:9).  
 
 **190**. Third, sin is called a bond: and this is because it binds  
 
-first, the intellect so that it may not see: *for while the wicked thought to be able to have dominion over the holy nation, they themselves being fettered with the bonds of darkness, and a long night, shut up in their houses, exiled, they pleased the eternal providence.*Perpetuae providentiae placuerunt*. Vg.: *fugitivi perpetuae providentiae jacuerunt*. DR: “lay there exiled from eternal providence.” And while they thought to lie hid in their obscure sins, they were scattered under a dark veil of forgetfulness* (Wis 17:2–3);  
+first, the intellect so that it may not see: *for while the wicked thought to be able to have dominion over the holy nation, they themselves being fettered with the bonds of darkness, and a long night, shut up in their houses, exiled, they pleased the eternal providence. *(*Perpetuae providentiae placuerunt*. Vg.: *fugitivi perpetuae providentiae jacuerunt*. DR: “lay there exiled from eternal providence.”)* And while they thought to lie hid in their obscure sins, they were scattered under a dark veil of forgetfulness* (Wis 17:2–3);  
 
 second, it binds the hand so that it may not do good;  
 
@@ -314,7 +314,7 @@ first, with the burden of servitude: *and there you shall serve strange gods day
 
 second, with fear of the heart: *for whereas wickedness is fearful, it bears witness of its condemnation* (Wis 17:10);  
 
-third, with uneasiness of conscience, below: ***but the heart of the wicked is like*Impii autem cor quasi*. Vg.: *impii autem quasi*. DR: “the wicked are like.” the raging sea, which cannot rest*** (Isa 57:20).  
+third, with uneasiness of conscience, below: ***but the heart of the wicked is like *(*Impii autem cor quasi*. Vg.: *impii autem quasi*. DR: “the wicked are like.”)* the raging sea, which cannot rest*** (Isa 57:20).  
 
 Lecture 3  
 
@@ -340,7 +340,7 @@ third, as to the affections: ***that put bitter for sweet***, thinking the life 
 
 **193**. ***Woe to you that are wise***. Here he sets out the third vanity as to the presumption of their sinning, which concerns three things.  
 
-First, wisdom of heart, both in speculative things: ***you that are wise***: *be not wise in your own conceit* (Prov 3:7); and in practical things: ***prudent***: *be not prudentDR: “wise.” in your own conceits* (Rom 12:16).  
+First, wisdom of heart, both in speculative things: ***you that are wise***: *be not wise in your own conceit* (Prov 3:7); and in practical things: ***prudent***: *be not prudent *(DR: “wise.”)* in your own conceits* (Rom 12:16).  
 
 Second, as to the power of the body for sinning: ***you that are mighty to drink***; they boast that they are able to drink much and to become drunk, because of the custom of the land in which mixed wine is drunk, below: ***let the islands keep silence before me, and the nations take new strength*** (Isa 41:1); *they are glad when they have done evil, and rejoice in the most wicked things* (Prov 2:14).  
 
@@ -376,7 +376,7 @@ Lecture 4
 
 > ^5:28 ^Their arrows are sharp, and all their bows are bent. The hoofs of their horses shall be like the flint, and their wheels like the violence of a tempest.
 
-> ^5:29^ Their roaring like that of a lion, they shall roar like young lions: yea they shall gnash their teeth,*Frendet*. DR: “roar.” and take hold of the prey, and they shall keep fast hold of it, and there shall be none to deliver it.
+> ^5:29^ Their roaring like that of a lion, they shall roar like young lions: yea they shall gnash their teeth, *(*Frendet*. DR: “roar.”)* and take hold of the prey, and they shall keep fast hold of it, and there shall be none to deliver it.
 
 > ^5:30 ^And they shall make a noise against them that day, like the roaring of the sea; we shall look towards the land, and behold darkness of tribulation, and the light is darkened with the mist thereof.
 
@@ -392,9 +392,9 @@ Concerning the first, three things are set out.
 
 First, the indignation of the one who gathers the army together: ***for after this***, as if to say: just as you add sins to sins, so he will add punishment to punishment, below: ***no man shall spare his brother. And he shall turn to the right hand, and shall be hungry: and shall eat on the left hand, and shall not be filled*** (Isa 9:19–20).  
 
-Second, the raising of the standard, ***and he will lift up a sign***, that is, a standard: *set up the signDR: “standard.” in Zion. Strengthen yourselves, stay not: for I bring evil from the north, and great destruction* (Jer 4:6).  
+Second, the raising of the standard, ***and he will lift up a sign***, that is, a standard: *set up the sign *(DR: “standard.”)* in Zion. Strengthen yourselves, stay not: for I bring evil from the north, and great destruction* (Jer 4:6).  
 
-Third, the calling together of the army, ***and will whistle***, that is, he will blow upon, below: ***and it shall come to pass in that day, that the Lord shall whistleDR: “hiss.” for the fly, that is in the uttermost parts of the rivers of Egypt, and for the bee that is in the land of Assyria. And they shall come, and shall all of them rest in the torrents of the valleys*** (Isa 7:18–19). And to frighten them more, he adds the foreignness of the people, as to cult: ***to the nations***, so that they do not revere your holy things; and as to language, ***afar off***, lest they be appeased by words; and as to customs: ***from the ends of the earth***, lest they make an alliance with them.  
+Third, the calling together of the army, ***and will whistle***, that is, he will blow upon, below: ***and it shall come to pass in that day, that the Lord shall whistle *(DR: “hiss.”)* for the fly, that is in the uttermost parts of the rivers of Egypt, and for the bee that is in the land of Assyria. And they shall come, and shall all of them rest in the torrents of the valleys*** (Isa 7:18–19). And to frighten them more, he adds the foreignness of the people, as to cult: ***to the nations***, so that they do not revere your holy things; and as to language, ***afar off***, lest they be appeased by words; and as to customs: ***from the ends of the earth***, lest they make an alliance with them.  
 
 **198**. ***Behold they shall come with speed swiftly***. Here the disposition of the army is set out.  
 
@@ -414,7 +414,7 @@ first, that which may occur from infirmity of nature, against which he says: ***
 
 Second, against that impediment which may arise from the will, he says: ***they shall not slumber***, through laziness, so that, namely, they would go lazily, ***nor sleep***, so that they would recover their senses: *slothfulness casts into a deep sleep, and an idle soul shall suffer hunger* (Prov 19:15).  
 
-Third, he removes the impediment that arises from the need for things: ***neither shall the girdle of their loins be loosed***, and he sets out those things by which travelers are usually impeded from their journey; as though all these things will last longer than usual: *I have brought*Adduxi*. Vg.: *adduxit*. DR: “he hath.” you forty years through the desert: your garments are not worn out, neither are the shoes of your feet consumed with age* (Deut 29:5).  
+Third, he removes the impediment that arises from the need for things: ***neither shall the girdle of their loins be loosed***, and he sets out those things by which travelers are usually impeded from their journey; as though all these things will last longer than usual: *I have brought *(*Adduxi*. Vg.: *adduxit*. DR: “he hath.”)* you forty years through the desert: your garments are not worn out, neither are the shoes of your feet consumed with age* (Deut 29:5).  
 
 **200**. ***Their arrows are sharp***. Here he shows that they are armed for fighting.  
 

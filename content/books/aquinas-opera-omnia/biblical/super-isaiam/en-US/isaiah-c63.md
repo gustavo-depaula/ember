@@ -10,7 +10,7 @@
 
 > ^61:5^ And strangers shall stand and shall feed your flocks: and the sons of strangers shall be your husbandman, and the dressers of your vines.
 
-> ^61:6^ But you shall be called the priests of the Lord: to you it shall be said: you ministers of our God: you shall eat the strength*Fortitudinem*. DR: “riches.” of the Gentiles, and you shall pride yourselves in their glory.
+> ^61:6^ But you shall be called the priests of the Lord: to you it shall be said: you ministers of our God: you shall eat the strength *(*Fortitudinem*. DR: “riches.”)* of the Gentiles, and you shall pride yourselves in their glory.
 
 > ^61:7^ For your double confusion and shame, they shall praise their part: therefore shall they receive double in their land, everlasting joy shall be unto them.
 
@@ -60,7 +60,7 @@ second, with the oil of royal power, as a king to govern: *I anointed you king* 
 
 third, the oil of immense strength, as a boxer to fight: *how was the shield of the valiant cast away, the shield of Saul as though he had not been anointed with oil?* (2 Sam 1:21);  
 
-fourth, the oil of eminent gladness, as a liberal man to have mercy: *glad**Jucundus*. DR: “acceptable.” *is the man that shows mercy and lends* (Ps 111[112]:5); *God, your God, has anointed you with the oil of gladness above your fellows* (Ps 44:8).  
+fourth, the oil of eminent gladness, as a liberal man to have mercy: *glad* *(*Jucundus*. DR: “acceptable.”)* *is the man that shows mercy and lends* (Ps 111[112]:5); *God, your God, has anointed you with the oil of gladness above your fellows* (Ps 44:8).  
 
 **1080**. Likewise, the devout servant anoints Christ:  
 
@@ -92,6 +92,6 @@ Second, he confesses the divine benefit,
 
 and first, under the likeness of clothing, inasmuch as the divine benefits protect them from sufferings: ***for he has clothed me with the garments of salvation***, above: ***put on the garments*** (Isa 52:1) of your joy.  
 
-Second, under the likeness of adornments, inasmuch as they adorn them: ***as a bridegroom***. Mystically, as to the perfect in the Church, taking the place of Christ; ***and as a bride***, as to the imperfect: *I will clothe you**Circumdabo te*. Vg.: *cirbumdabit te Deus*. DR: “God will clothe thee.” *with the double garment* (Bar 5:2).  
+Second, under the likeness of adornments, inasmuch as they adorn them: ***as a bridegroom***. Mystically, as to the perfect in the Church, taking the place of Christ; ***and as a bride***, as to the imperfect: *I will clothe you* *(*Circumdabo te*. Vg.: *cirbumdabit te Deus*. DR: “God will clothe thee.”)* *with the double garment* (Bar 5:2).  
 
 Third, under the likeness of buds, as to their fruits: ***for as the earth brings forth her bud***, above: ***it shall bud forth and blossom, and shall rejoice with joy and praise*** (Isa 35:2).

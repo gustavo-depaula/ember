@@ -40,7 +40,7 @@ Lecture 2
 
 ^41:4^ And on the second day after he had slain Gedaliah, while as yet no one knew of it,  
 
-> ^41:5^ men came from Shechem, and Shiloh, and from Samaria, eighty men with shaven beards, and torn and soiled garments. And they brought giftsHeb. מִנְחָה: specifically refers to any one of four grain offerings; cf. Leviticus 2. and incense to offer in the house of the Lord.
+> ^41:5^ men came from Shechem, and Shiloh, and from Samaria, eighty men with shaven beards, and torn and soiled garments. And they brought gifts *(Heb. מִנְחָה: specifically refers to any one of four grain offerings; cf. Leviticus 2.)* and incense to offer in the house of the Lord.
 
 > ^41:6^ And Ishmael, the son of Nathaniah, went out to meet them from Mizpah, weeping as he went. And when he had met them, he said to them, ‘Come to Gedaliah, the son of Ahicam.’
 

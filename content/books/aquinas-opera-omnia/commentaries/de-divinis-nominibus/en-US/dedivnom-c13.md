@@ -94,7 +94,7 @@ Whereas as regards the third, he says, ***and true fortitude and not prevailing 
 
 And that this is of the *ratio* of domination he proves through the derivation of the name, because this which signifies ***to make dominion***, in Greek, from which there is denominated ***domination and lord and dominating***, signifies the aforementioned things.  
 
-**948**. Then when he says, ***yet deity***, he shows what is deity. And because, as Damascene says, this name *Theos* which in Greek signifies God, is said from *theasthe*, that is, by considering all things, for this reason here Denys expounds the name of deity according to the *ratio* of providence.John Damascene, *On the Orthodox Faith,* bk. 1, c. 9. Yet in the name of providence there is understood knowledge not through the mode of speculation only, but according as it is directive and inclining to the government of things.  
+**948**. Then when he says, ***yet deity***, he shows what is deity. And because, as Damascene says, this name *Theos* which in Greek signifies God, is said from *theasthe*, that is, by considering all things, for this reason here Denys expounds the name of deity according to the *ratio* of providence. *(John Damascene, *On the Orthodox Faith,* bk. 1, c. 9.)* Yet in the name of providence there is understood knowledge not through the mode of speculation only, but according as it is directive and inclining to the government of things.  
 
 And therefore in the name of deity,  
 

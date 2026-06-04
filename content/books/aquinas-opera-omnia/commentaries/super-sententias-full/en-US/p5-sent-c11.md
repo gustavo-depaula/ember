@@ -10,79 +10,79 @@ Now, this is divided into two parts.
 
 First, he asks whether things that appear to pertain to human nature’s dignity belong to Christ by reason of his human nature.  
 
-Second, he asks the same thing about the things that pertain to its defect, at *it also usual to ask whether it ought simply to be said and granted that Christ was made, or created, or is a creature*.*Sent.* III, 11.1(32).1.  
+Second, he asks the same thing about the things that pertain to its defect, at *it also usual to ask whether it ought simply to be said and granted that Christ was made, or created, or is a creature*. *(*Sent.* III, 11.1(32).1.)*  
 
 The first is divided into two:  
 
 first, he asks about the things that pertain to the natural dignity of human nature, such as his personhood;  
 
-second, he inquires about the things that pertain to the dignity of grace, at *but if it is asked whether Christ is an adoptive son according to his being a man or in another manner, we answer that Christ is not an adoptive son in any manner*.*Sent*. III, 10.2(30).1.  
+second, he inquires about the things that pertain to the dignity of grace, at *but if it is asked whether Christ is an adoptive son according to his being a man or in another manner, we answer that Christ is not an adoptive son in any manner*. *(*Sent*. III, 10.2(30).1.)*  
 
 Regarding the first, he does two things:  
 
 first, he proposes the question;  
 
-second, he objects on either side and then resolves it, at *that he is a person, they argue with the following reasons*. *Sent*. III, 10.1(29).2.  
+second, he objects on either side and then resolves it, at *that he is a person, they argue with the following reasons*. *(*Sent*. III, 10.1(29).2.)*  
 
 And this latter part is divided into two, following the two paths on which the one argues about the proposed question;  
 
-the second begins at *but they strive to prove in yet another way that Christ, according to his being man, is a person*.*Sent*. III, 10.1(29).5.  
+the second begins at *but they strive to prove in yet another way that Christ, according to his being man, is a person*. *(*Sent*. III, 10.1(29).5.)*  
 
 Regarding the first, he does two things:  
 
 first he proposes the objection,  
 
-and second, he resolves it, at *because of these and other unsuitable conclusions*.*Sent*. III, 10.1(29).3.  
+and second, he resolves it, at *because of these and other unsuitable conclusions*. *(*Sent*. III, 10.1(29).3.)*  
 
 As regards the first, he does two things:  
 
 first, he objects on the affirmative side;  
 
-second, on the negative side, at *but conversely*, *if, according to his being man, he is a person, then either he is the third person of the Trinity or some other person*.*Sent*. III, 10.1(29).2.  
+second, on the negative side, at *but conversely*, *if, according to his being man, he is a person, then either he is the third person of the Trinity or some other person*. *(*Sent*. III, 10.1(29).2.)*  
 
-*Because of these and other unsuitable conclusions, some say that Christ, according to his being man, is not a person*.*Sent*. III, 10.1(29).3. He resolves this here, and regarding this he does two things:  
+*Because of these and other unsuitable conclusions, some say that Christ, according to his being man, is not a person*. *(*Sent*. III, 10.1(29).3.)* He resolves this here, and regarding this he does two things:  
 
 first, he answers the question,  
 
-and second, the objections, at *and yet, what was adduced in the above argumentation does not follow*.*Sent*. III, 10.1(29).4.  
+and second, the objections, at *and yet, what was adduced in the above argumentation does not follow*. *(*Sent*. III, 10.1(29).4.)*  
 
-*But they strive to prove in yet another way that Christ, according to his being man, is a person*.*Sent*. III, 10.1(29).5. Here he states another objection.  
+*But they strive to prove in yet another way that Christ, according to his being man, is a person*. *(*Sent*. III, 10.1(29).5.)* Here he states another objection.  
 
 And first, he makes the objection,  
 
-and second, he answers it, at *to which it can be said*.*Sent*. III, 10.1(29).5.  
+and second, he answers it, at *to which it can be said*. *(*Sent*. III, 10.1(29).5.)*  
 
-*But if is is asked whether Christ is an adoptive son according to his being man or in another manner, we answer that Christ is not an adoptive son in any manner*.*Sent*. III, 10.2(30).1. Here he inquires about the things that pertain to the dignity of grace,  
+*But if is is asked whether Christ is an adoptive son according to his being man or in another manner, we answer that Christ is not an adoptive son in any manner*. *(*Sent*. III, 10.2(30).1.)* Here he inquires about the things that pertain to the dignity of grace,  
 
 and first, about filiation according to adoption,  
 
-and second, about his predestination, at *if it is then asked*.*Sent*. III. 10. 3(31).  
+and second, about his predestination, at *if it is then asked*. *(*Sent*. III. 10. 3(31).)*  
 
 Regarding the first, he does two things:  
 
 first, he shows that Christ is not an adoptive son;  
 
-second, he objects to the contrary, at *but the following objection is made*.*Sent*. III, 10.2(30).3.  
+second, he objects to the contrary, at *but the following objection is made*. *(*Sent*. III, 10.2(30).3.)*  
 
 And regarding this latter, he does three things:  
 
 first, he states the objection;  
 
-second, he answers it, at *to which it can be said*;*Sent*. III, 10.2(30).2.  
+second, he answers it, at *to which it can be said*; *(*Sent*. III, 10.2(30).2.)*  
 
 third, he presents a confirmation of the resolution with respect to two things:  
 
-first, with respect to the fact that Christ is the natural son of the Virgin, at *Augustine, in the* book On Faith to Peter*, shows that he is naturally Son of man*;*Sent*. III, 10.2(30).4.  
+first, with respect to the fact that Christ is the natural son of the Virgin, at *Augustine, in the* book On Faith to Peter*, shows that he is naturally Son of man*; *(*Sent*. III, 10.2(30).4.)*  
 
-second, with respect to the fact that he is not a son by adoption, at *but that he is not an adoptive son, and yet is a son by grace, is proved by the following testimonies*.*Sent*. III, 10.2(30).5.  
+second, with respect to the fact that he is not a son by adoption, at *but that he is not an adoptive son, and yet is a son by grace, is proved by the following testimonies*. *(*Sent*. III, 10.2(30).5.)*  
 
 There are three questions here.  
 
-First, what belongs to Christ insofar as he is a man.Q. 1.  
+First, what belongs to Christ insofar as he is a man. *(Q. 1.)*  
 
-Second, about his adoption.Q. 2.  
+Second, about his adoption. *(Q. 2.)*  
 
-Third, about his predestination.Q. 3.  
+Third, about his predestination. *(Q. 3.)*  
 
 Question 1  
 
@@ -100,9 +100,9 @@ Article 1
 
 ***Quaestiuncula 1***
 
-To the first, we proceed as follows.Parallel: *ST* III.16.2. It appears that Christ is God insofar as he is a man.  
+To the first, we proceed as follows. *(Parallel: *ST* III.16.2.)* It appears that Christ is God insofar as he is a man.  
 
-Obj. 1: For Philippians 2:9 says, he *bestowed on him the name that is above every name*. A Gloss says: *insofar as he is man, he assumed the name of God without usurpation, but in truth*.Cf. *Glossa ordinaria*, at Philippians 2:11, 5.586. But a name that one has truly is truly said of him. Therefore it is truly said that Christ, insofar as he is a man, is God.  
+Obj. 1: For Philippians 2:9 says, he *bestowed on him the name that is above every name*. A Gloss says: *insofar as he is man, he assumed the name of God without usurpation, but in truth*. *(Cf. *Glossa ordinaria*, at Philippians 2:11, 5.586.)* But a name that one has truly is truly said of him. Therefore it is truly said that Christ, insofar as he is a man, is God.  
 
 Obj. 2: Furthermore, Christ is God by the grace of the union. But the grace of the union belongs to him only as man. Therefore he is God insofar as he is a man.  
 
@@ -120,7 +120,7 @@ Obj. 2: Furthermore, Christ lacks a mother insofar as he is God. Therefore if Ch
 
 Obj. 3: Furthermore, if one removes that in virtue of which something belongs to someone, then it no longer belongs to him. But if being a man is removed from Christ, being God still belongs to him. For he was God from eternity, but he was not this man from eternity. Therefore Christ is not God insofar as he is this man.  
 
-On the contrary, as was said above,Above*,* d. 7, q. 1, a. 1. the proposition, “this man is God,” is not an accidental predication, but an essential one. But an essential predicate can be predicated of any subject as a repetition, such as “Socrates insofar as he is a man is an animal,” since through itself “animal” is predicated of “man.” Therefore this is true: “Christ insofar as he is this man is God.”  
+On the contrary, as was said above, *(Above*,* d. 7, q. 1, a. 1.)* the proposition, “this man is God,” is not an accidental predication, but an essential one. But an essential predicate can be predicated of any subject as a repetition, such as “Socrates insofar as he is a man is an animal,” since through itself “animal” is predicated of “man.” Therefore this is true: “Christ insofar as he is this man is God.”  
 
 Furthermore, “this man” indicates the eternal supposit. But this is true: "Christ insofar as he is an eternal supposit is God." Therefore this also is true: "Christ insofar as he is this man is God."  
 
@@ -130,7 +130,7 @@ Obj. 1: Moreover, it appears that Chirst was not predestined insofar as he is a 
 
 Obj. 2: Furthermore, the effect of predestination conforms to the predestination, otherwise the predestination would be false. But since Christ was predestined to be the Son of God, the effect of this predestination is his being the Son of God. Therefore if Christ is not the Son of God insofar as he is a man, then neither insofar as he is a man was he predestined.  
 
-On the contrary, Christ was predestined, as the Apostle says in Romans 1:4. But this was not insofar as he is God, as is clear from things said in Distinction 7.Above*,* d. 7, q. 3, a. 1. Therefore it was insofar as he is a man.  
+On the contrary, Christ was predestined, as the Apostle says in Romans 1:4. But this was not insofar as he is God, as is clear from things said in Distinction 7. *(Above*,* d. 7, q. 3, a. 1.)* Therefore it was insofar as he is a man.  
 
 Response to Quaestiuncula 1  
 
@@ -140,7 +140,7 @@ And something can be attributed to Christ, and to any man, by reason of all of t
 
 Therefore, according to this, one should say to the first question that when one says, “Christ is God insofar as he is a man,” the word “man” can be repeated by reason of the nature; and then it is false, since it does not belong to human nature in itself that it be united to the divine. However, if it be repeated by reason of its supposit, then it will be true, since in Christ the supposit of the human nature is the eternal supposit to which being God belongs through itself. Yet because the name “man” does not bring in any determinate supposit of the human nature except with an added demonstrative, and only for a certain determinate supposit of human nature does being God belong through itself, therefore unless something else is added or understood, it should simply speaking not be granted that "Christ is God insofar as he is man."  
 
-Reply Obj. 1: As was said above,Above*,* d. 5, q. 2, a. 1. “taking up” signifies by way of motion. Now, being a thing does not belong to something to that is through itself moving toward that thing. For example, to move toward whiteness belongs through itself to what is black, yet it does not belong through itself to what is white. Likewise, to take up the name “God” can belong to Christ insofar as he is a man, and yet to be God does not belong to him insofar as he is a man.  
+Reply Obj. 1: As was said above, *(Above*,* d. 5, q. 2, a. 1.)* “taking up” signifies by way of motion. Now, being a thing does not belong to something to that is through itself moving toward that thing. For example, to move toward whiteness belongs through itself to what is black, yet it does not belong through itself to what is white. Likewise, to take up the name “God” can belong to Christ insofar as he is a man, and yet to be God does not belong to him insofar as he is a man.  
 
 Reply Obj. 2: The name “Christ” signifies the person in the two natures, so the fact that he is God does not belong to him through a grace, but from eternity, yet the fact that he is at once God and man is through the grace of the union. Or it should be said that, although the grace of the union makes the man God, still the grace of the union and being God do not refer to the same thing. For to be God belongs to this man by reason of the person, but the grace arises for him by reason of the nature. Whence insofar as he is man he has the grace of the union, if the repetition occurs by reason of the human nature, but he is not God insofar as he is a man, but insofar as he is this person.  
 
@@ -150,11 +150,11 @@ Response to Quaestiuncula 2
 
 To the second question, it should be said that for a predication to be “through itself” it is not necessary that the predicate belong to the subject through itself with respect to everything that is implied in the subject’s name. Rather, it is enough if it does so with respect to some of the things that belong to the subject through itself. For example, to reason belongs to man through itself, not insofar as he has a body, but insofar as he has a soul, and this is why “man reasons” is through itself. However, when one says “this man,” meaning Christ, there is included, by the power of the demonstrative adjective, a determinate supposit of human nature, which is the eternal supposit, according to the second opinion, to which supposit being God belongs through itself. This is why, according to the second opinion, “this man is God” is predication through itself. And because for the truth of an expression of this sort one needs only that the predicate belongs through itself to what it is repeated, therefore this is true: Christ is God insofar as he is this man.  
 
-Reply Obj. 1: Just as something can be of the definition of the species that is not of the definition of the genus, so too something might be of the definition of the individual—if it were to be defined—that is not of the definition of the species, such as part of its matter, as the Philosopher says.Aristotle, *Metaphysics* 7.3, 1029a2; Aquinas, *In Metaph.*, bk. 7, lect. 2, nn. 1276–79. Whence although “God” is not part of the definition of man, yet he would be part of the definition of “this man Christ,” if he could be defined, by reason of the person of the Word. Whence it is clear that it is through itself.  
+Reply Obj. 1: Just as something can be of the definition of the species that is not of the definition of the genus, so too something might be of the definition of the individual—if it were to be defined—that is not of the definition of the species, such as part of its matter, as the Philosopher says. *(Aristotle, *Metaphysics* 7.3, 1029a2; Aquinas, *In Metaph.*, bk. 7, lect. 2, nn. 1276–79.)* Whence although “God” is not part of the definition of man, yet he would be part of the definition of “this man Christ,” if he could be defined, by reason of the person of the Word. Whence it is clear that it is through itself.  
 
 Reply Obj. 2: When one says “this man,” the supposit of the two natures is being indicated, each of which would fall in his definition, if he could be defined. And therefore the things that belong to each nature belong to him through himself, and therefore Christ is God insofar as he is this man, and he is man insofar as he is this man. And the account of other things that follow on either nature would be similar. This is why insofar as he is this man he both possesses a mother and lacks a mother. Nor does the one exclude the other, since they are not opposed, as they do not come together in reference to the same thing.  
 
-Reply Obj. 3: If what is brought in when one says “this man” were removed from the whole Christ, then being God would not belong to him, since the divine and human natures are included there, as has been said. But if one of them, namely the human nature, were removed, it follows that the Son of God could not be called “this man.” Yet the above stated expression [that “Christ is God insofar as he is that man”] does not become true by reason of the human nature. And it is like if one were to say, “Peter senses insofar as he is a man,” since if “rational” were removed in understanding, he will not be a man, and yet he will remain sensitive, as is said in the *Book of Causes*.Proclus (pseudo-Aristotle), *Liber de causis*, prop. 1.  
+Reply Obj. 3: If what is brought in when one says “this man” were removed from the whole Christ, then being God would not belong to him, since the divine and human natures are included there, as has been said. But if one of them, namely the human nature, were removed, it follows that the Son of God could not be called “this man.” Yet the above stated expression [that “Christ is God insofar as he is that man”] does not become true by reason of the human nature. And it is like if one were to say, “Peter senses insofar as he is a man,” since if “rational” were removed in understanding, he will not be a man, and yet he will remain sensitive, as is said in the *Book of Causes*. *(Proclus (pseudo-Aristotle), *Liber de causis*, prop. 1.)*  
 
 Response to Quaestiuncula 3  
 
@@ -170,15 +170,15 @@ Article 2
 
 ***Quaestiuncula 1***
 
-To the second we proceed as follows.Parallels: *ST* III.16.12; *Super Rom.* 1, lect. 3. It appears that Christ is a person insofar as he is a man.  
+To the second we proceed as follows. *(Parallels: *ST* III.16.12; *Super Rom.* 1, lect. 3.)* It appears that Christ is a person insofar as he is a man.  
 
-Obj. 1: For a person, as Boethius says,Boethius, *On the Person and the Two Nature*s, ch. 3 (PL 64:1343). is an individual substance of the rational nature. But Christ is such insofar as he is a man. Therefore he is a person insofar as he is a man.  
+Obj. 1: For a person, as Boethius says, *(Boethius, *On the Person and the Two Nature*s, ch. 3 (PL 64:1343).)* is an individual substance of the rational nature. But Christ is such insofar as he is a man. Therefore he is a person insofar as he is a man.  
 
 Obj. 2: Furthermore, what belongs to someone insofar as he is a man belongs to every man insofar as he is a man. But Peter is a person insofar as he is a man. Therefore so too Christ.  
 
 Obj. 3: Furthermore, we say that Christ does something insofar as he is a man: for example, he eats, and likewise something insofar as he is God: for example, that he raises the dead. Nor does it follow, because of this, that he is two things. Therefore it appears that, if we likewise say that Christ is a person insofar as he is a man and likewise insofar as he is God, it does not follow that he is two things. And so too no other problem follows.  
 
-On the contrary, whatever belongs to Christ insofar as he is a man is assumed. But being a person was not assumed, as is clear from Distinction 5.Above, d. 5, q. 2, a. 1. Therefore Christ is not a person insofar as he is a man.  
+On the contrary, whatever belongs to Christ insofar as he is a man is assumed. But being a person was not assumed, as is clear from Distinction 5. *(Above, d. 5, q. 2, a. 1.)* Therefore Christ is not a person insofar as he is a man.  
 
 Furthermore, it is impossible that numerically the same thing belongs to something in virtue of two diverse natures. But in Christ there is only one person. Therefore, since being a person belongs to him in virtue of his divine nature, it does not belong to him in virtue of his human nature. And thus, he will not be a person insofar as he is a man.  
 
@@ -206,7 +206,7 @@ Furthermore, in Christ there is only one supposit. But Christ is a supposit inso
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that in Christ there is only one person, the one who is from eternity. Now, nothing eternal belongs to Christ insofar as he is a man, properly speaking, as is clear from things said before.Above, d. 5, q. 1, a. 1. Whence “Christ is a person insofar as he is a man” is not true, unless [“man”] is replaced with by “supposit of man,” as if to say, “Christ is a person insofar as he is this man,” for this is true.  
+To the first question, I answer that in Christ there is only one person, the one who is from eternity. Now, nothing eternal belongs to Christ insofar as he is a man, properly speaking, as is clear from things said before. *(Above, d. 5, q. 1, a. 1.)* Whence “Christ is a person insofar as he is a man” is not true, unless [“man”] is replaced with by “supposit of man,” as if to say, “Christ is a person insofar as he is this man,” for this is true.  
 
 Reply Obj. 1: Christ is a substance of the rational nature insofar as he is a man, but he is an individual substance of the rational nature insofar as he is this man. Whence he is a person insofar as he is this man, just as he is God insofar as he is this man.  
 
@@ -216,7 +216,7 @@ Reply Obj. 3: From the fact that Christ does things insofar as he is a man and i
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that, as was said above,Above, d. 6, q. 1, a. 1. the individual is found in both substances and accidents. Now, insofar as it is in substances it has it that it subsist from its notion, but this is not so insofar as it is found in accidents; and it is found in Christ in both ways, though it is predicated only in the first way. For the human nature in Christ is a certain individual, but Christ is not that individual; rather, he is the subsistent individual. And in this way of taking “individual”—insofar as it is predicated of Christ—in Christ there is only one individual, as also there is one person. This is why, just as Christ is not a person insofar as he is a man, so neither is he an individual.  
+To the second question, it should be said that, as was said above, *(Above, d. 6, q. 1, a. 1.)* the individual is found in both substances and accidents. Now, insofar as it is in substances it has it that it subsist from its notion, but this is not so insofar as it is found in accidents; and it is found in Christ in both ways, though it is predicated only in the first way. For the human nature in Christ is a certain individual, but Christ is not that individual; rather, he is the subsistent individual. And in this way of taking “individual”—insofar as it is predicated of Christ—in Christ there is only one individual, as also there is one person. This is why, just as Christ is not a person insofar as he is a man, so neither is he an individual.  
 
 Reply Obj. 1: Chris is something insofar as he is a man. But it does not follow that therefore he is something universal or particular insofar as he is a man. For being universal or particular is accidental to “man,” so “man is something particular” is by accident, whereas “this man is something particular” is through itself. Whence Christ is not something particular insofar as he is a man, but insofar as he is this man.  
 
@@ -266,21 +266,21 @@ Quaestiuncula 2
 
 Obj. 1: Moreover, it appears that only God the Father adopts. For according to the laws, adoption is done by those to who beget sons. But in the Trinity, only the Father begets a natural Son. Therefore only he adopts sons.  
 
-Obj. 2: Further, by adoption we are made Christ’s brothers: *in order that he might be the first-born among many brethren* (Rom 8:29). But Christ is the Son only of God the Father, as was said above.Above, d. 3, q. 1, a. 2. Therefore by adoption we too are sons only of the Father.  
+Obj. 2: Further, by adoption we are made Christ’s brothers: *in order that he might be the first-born among many brethren* (Rom 8:29). But Christ is the Son only of God the Father, as was said above. *(Above, d. 3, q. 1, a. 2.)* Therefore by adoption we too are sons only of the Father.  
 
-Obj. 3: As was said above,Above, d. 1, q. 2, a. 2. the only Son became incarnate so that the name “son” might not be transferred to another [divine person]. But it is not more problematic that the name “son” be transferred to another divine person than the name “father” might be. Therefore only God the Father should be said to adopt, so that the name “father” not be transferred to another person.  
+Obj. 3: As was said above, *(Above, d. 1, q. 2, a. 2.)* the only Son became incarnate so that the name “son” might not be transferred to another [divine person]. But it is not more problematic that the name “son” be transferred to another divine person than the name “father” might be. Therefore only God the Father should be said to adopt, so that the name “father” not be transferred to another person.  
 
 On the contrary, every name said of God signifying an effect in a created thing is common to the entire Trinity. But “to adopt” indicates an effect in a created thing. Therefore it belongs to the entire Trinity.  
 
-Furthermore, insofar as we are adopted as sons of God, God is called our Father. But the entire Trinity is called “our Father,” as was said in Book I.*In I Sent.,* d. 18, q. 1, a. 5, ad 3. Therefore the entire Trinity adopts.  
+Furthermore, insofar as we are adopted as sons of God, God is called our Father. But the entire Trinity is called “our Father,” as was said in Book I. *(*In I Sent.,* d. 18, q. 1, a. 5, ad 3.)* Therefore the entire Trinity adopts.  
 
 Quaestiuncula 3  
 
 Obj. 1: Moreover, it appears that adoption occurs only through the Son, because of what is said in Galatians 4:4: *for God sent forth his Son, born of a woman . . . so that we might receive adoption as sons*.  
 
-Obj. 2: Furthermore, according to the Philosopher in the *Metaphysics* 5,Aristotle, *Metaphysics* 2.1, 993b24–26; Aquinas, *In Metaph.*, bk. 2, lect. 2, nn. 292–93. what is first in any genus is the cause of the things after it. But sonship is first found in the Son. Therefore all are made sons through him, just as all are made good through the goodness of the Son of God, and in this way from the heavenly Father *all fatherhood in heaven and on earth is named* (Eph 3:15).RSV says “every family”; this follows the Greek. The Vulgate says “paternitas” (“fatherhood”).  
+Obj. 2: Furthermore, according to the Philosopher in the *Metaphysics* 5, *(Aristotle, *Metaphysics* 2.1, 993b24–26; Aquinas, *In Metaph.*, bk. 2, lect. 2, nn. 292–93.)* what is first in any genus is the cause of the things after it. But sonship is first found in the Son. Therefore all are made sons through him, just as all are made good through the goodness of the Son of God, and in this way from the heavenly Father *all fatherhood in heaven and on earth is named* (Eph 3:15). *(RSV says “every family”; this follows the Greek. The Vulgate says “paternitas” (“fatherhood”).)*  
 
-On the contrary, it appears that it occurs through the Holy Spirit, because of what is said in Romans 8:15: *you have received the spirit of the adoption of sons*.The RSV says “spirit of sonship”; both the Greek and the Vulgate, however, do say “adoption.” *When we cry, 'Abba! Father!' it is the Spirit himself bearing witness with our spirit that we are children of God*.  
+On the contrary, it appears that it occurs through the Holy Spirit, because of what is said in Romans 8:15: *you have received the spirit of the adoption of sons*. *(The RSV says “spirit of sonship”; both the Greek and the Vulgate, however, do say “adoption.”)* *When we cry, 'Abba! Father!' it is the Spirit himself bearing witness with our spirit that we are children of God*.  
 
 Furthermore, by charity we are made sons of God: *see what love the Father has given us, that we should be called children of God; and so we are* (1 John 3:1). But charity is the Holy Spirit. Therefore we are adopted through him.  
 
@@ -316,7 +316,7 @@ Whether being adopted belongs to all created things, and whether God adopts men 
 
 ***Quaestiuncula 1***
 
-To the second we proceed as follows.Parallel: *ST* III.23.3. It appears that being adopted belongs to all created things.  
+To the second we proceed as follows. *(Parallel: *ST* III.23.3.)* It appears that being adopted belongs to all created things.  
 
 Obj. 1: For God is called “our Father” because he created us, as it is said in Deuteronomy 32:6: *is he not your father, who created you?* But he is not the father of created things by nature, since in this way he is the father of Christ alone. Therefore he is their father by adoption, and therefore being adopted belongs to all created things.  
 
@@ -324,13 +324,13 @@ Obj. 2: Furthermore, from the fact that God creates something he takes it up int
 
 Obj. 3: Furthermore, from creation itself God impresses his own image on the rational creature, in virtue of which he is called a “son of God.” But he adopts us only insofar he makes us his sons. Therefore from creation itself he adopts at least men.  
 
-On the contrary, as is clear from things said,Above, a. 1, resp. 3. the adoption of sons occurs through the Holy Spirit. But the Holy Spirit is not given by reason of creation. Therefore neither is there adoption by reason of mere creation.  
+On the contrary, as is clear from things said, *(Above, a. 1, resp. 3.)* the adoption of sons occurs through the Holy Spirit. But the Holy Spirit is not given by reason of creation. Therefore neither is there adoption by reason of mere creation.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that being adopted does not belong to the angels.Parallel: *ST* III.23.3.ad 2. For being adopted belongs to one who is not in the house of the paterfamilias, and is brought into it. But the angels always were in the house of God, since they were created in the empyrean heaven. Therefore being adopted does not belong to them.  
+Obj. 1: Moreover, it appears that being adopted does not belong to the angels. *(Parallel: *ST* III.23.3.ad 2.)* For being adopted belongs to one who is not in the house of the paterfamilias, and is brought into it. But the angels always were in the house of God, since they were created in the empyrean heaven. Therefore being adopted does not belong to them.  
 
-Obj. 2: Furthermore, as is said in the text,*Sent*. III, 10.2(30).2, referring to Ephesians 2:3 and John 1:12. *we are called 'adoptive sons of God' because, while we were born sons of wrath, by grace we were made to be sons of God*. But the angels were never sons of wrath. Therefore they were never not sons, at least according to those who say that the angels were created in grace. Therefore being adopted does not belong to the angels.  
+Obj. 2: Furthermore, as is said in the text, *(*Sent*. III, 10.2(30).2, referring to Ephesians 2:3 and John 1:12.)* *we are called 'adoptive sons of God' because, while we were born sons of wrath, by grace we were made to be sons of God*. But the angels were never sons of wrath. Therefore they were never not sons, at least according to those who say that the angels were created in grace. Therefore being adopted does not belong to the angels.  
 
 Obj. 3: Furthermore, Galatians 4:4–5 says: *God sent forth his Son . . . so that we might receive adoption as sons*. But the Son of God was not sent to the angels, since he was not made an angel, the way he was made a man, in virtue of which he is said said to have been “sent to men.” Therefore adopting does not befit the angels.  
 
@@ -340,7 +340,7 @@ Furthermore, the angels are said to be our brothers and consorts. But this can b
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it also appears that Christ is an adopted son.Parallels: above, d. 4, q. 1, a. 2; below, d. 11, a. 3, ad 2; *ST* III.23.4; *SCG* IV.4; *De veritate*, q. 29, a. 1, ad 1. For Hilary says, *the dignity of his power is not given up when the humility of flesh is adopted*,Hilary, *On the Trinity*, bk. 2, ch. 27 (CCSL 62; PL 10:68). and he is speaking about Christ’s humanity. Therefore Christ, as man, is an adopted son.  
+Obj. 1: Moreover, it also appears that Christ is an adopted son. *(Parallels: above, d. 4, q. 1, a. 2; below, d. 11, a. 3, ad 2; *ST* III.23.4; *SCG* IV.4; *De veritate*, q. 29, a. 1, ad 1.)* For Hilary says, *the dignity of his power is not given up when the humility of flesh is adopted*, *(Hilary, *On the Trinity*, bk. 2, ch. 27 (CCSL 62; PL 10:68).)* and he is speaking about Christ’s humanity. Therefore Christ, as man, is an adopted son.  
 
 Obj. 2: Furthermore, nothing problematic appears to follow if we call Christ an “adoptive son.” For it neither follows that he was a son of wrath nor that at some time he was not a son, for the angels were never sons of wrath and yet they are called “adoptive sons.” Therefore nothing prevents us from calling Christ an “adoptive son.”  
 
@@ -348,15 +348,15 @@ Obj. 3: Furthermore, the dignity of an adopted son is greater than that of a ser
 
 Obj. 4: Furthermore, a man is made an adoptive son through the indwelling of the Holy Spirit. But the Holy Spirit rested upon Christ, as is said in Isaiah 11:2. Therefore he ought to be called an “adoptive son.”  
 
-Obj. 5: Furthermore, Augustine says, *from the beginning of his faith, any man becomes a Christian by that same grace as that by which this man, from his own beginning, was made the Christ*.Augustine, *De praedestinatione sanctorum*, ch. 16, n. 31 (PL 44:982). But any man who becomes a Christian does so from the beginning through the grace of adoption. Therefore also that man was made the Christ through the grace of adoption, and so is an adoptive son.  
+Obj. 5: Furthermore, Augustine says, *from the beginning of his faith, any man becomes a Christian by that same grace as that by which this man, from his own beginning, was made the Christ*. *(Augustine, *De praedestinatione sanctorum*, ch. 16, n. 31 (PL 44:982).)* But any man who becomes a Christian does so from the beginning through the grace of adoption. Therefore also that man was made the Christ through the grace of adoption, and so is an adoptive son.  
 
-On the contrary, Ambrose comments on Romans 1:4: *designated Son of God in power*, saying that: *I have gone through the Scriptures again and again, and I have never found Christ called an adoptive son*.This passage is not found in Ambrose; but see his *De incarnationis dominicae sacramento*, ch. 8, para. 87 (PL 16:817): “we do not call one who is a son by nature an ‘adoptive son’; rather, on who we call a ‘son by nature’ is a the one who is the true son.” (Adoptivum filium non dicimus filium esse natura, sed eum dicimus natura esse, qui verus est filius.) Therefore he should not be called a adoptive son.  
+On the contrary, Ambrose comments on Romans 1:4: *designated Son of God in power*, saying that: *I have gone through the Scriptures again and again, and I have never found Christ called an adoptive son*. *(This passage is not found in Ambrose; but see his *De incarnationis dominicae sacramento*, ch. 8, para. 87 (PL 16:817): “we do not call one who is a son by nature an ‘adoptive son’; rather, on who we call a ‘son by nature’ is a the one who is the true son.” (Adoptivum filium non dicimus filium esse natura, sed eum dicimus natura esse, qui verus est filius.))* Therefore he should not be called a adoptive son.  
 
-Furthermore, adopting belongs to the whole Trinity. Therefore if Christ were an adoptive son, he would be a son of the Trinity. And this cannot be, as was said above, in Distinction 4.Above*,* d. 4, q. 1, a. 2, resp. 1.  
+Furthermore, adopting belongs to the whole Trinity. Therefore if Christ were an adoptive son, he would be a son of the Trinity. And this cannot be, as was said above, in Distinction 4. *(Above*,* d. 4, q. 1, a. 2, resp. 1.)*  
 
 Response to Quaestiuncula 1  
 
-I answer that, as was said above,Above, d. 8, a. 1, ad 5. it is of the notion of sonship, or filiation, that a son is produced in the likeness of the begetter’s very species. However, insofar as man is produced, by his creation, in a participation of intellect, he is produced, as it were, in a likeness of God’s very species. For intellectuality is the greatest of the things in virtue of which a created nature might participate in the likeness of the uncreated nature. This is why only the rational creature is said to be “according to the image,” as was said in Book II,*In II Sent.*, d. 16, q. 1, a. 2. and whence only the rational creature by its creation receives the name of “sonship.” But adoption, as was said,Above, a. 1, resp. 1. requires that the one adopted acquires the right to the inheritance of the one adopting. Now, the inheritance of God himself is his own beatitude, for which only the rational creature has the capacity, and neither does it acquire this from its very creation, but rather from the gift of the Holy Spirit, as was said.Above, a. 1, resp. 3. Therefore it is clear that creation gives irrational creatures neither adoption nor sonship, whereas it indeed gives sonship to the rational creature, but not adoption.  
+I answer that, as was said above, *(Above, d. 8, a. 1, ad 5.)* it is of the notion of sonship, or filiation, that a son is produced in the likeness of the begetter’s very species. However, insofar as man is produced, by his creation, in a participation of intellect, he is produced, as it were, in a likeness of God’s very species. For intellectuality is the greatest of the things in virtue of which a created nature might participate in the likeness of the uncreated nature. This is why only the rational creature is said to be “according to the image,” as was said in Book II, *(*In II Sent.*, d. 16, q. 1, a. 2.)* and whence only the rational creature by its creation receives the name of “sonship.” But adoption, as was said, *(Above, a. 1, resp. 1.)* requires that the one adopted acquires the right to the inheritance of the one adopting. Now, the inheritance of God himself is his own beatitude, for which only the rational creature has the capacity, and neither does it acquire this from its very creation, but rather from the gift of the Holy Spirit, as was said. *(Above, a. 1, resp. 3.)* Therefore it is clear that creation gives irrational creatures neither adoption nor sonship, whereas it indeed gives sonship to the rational creature, but not adoption.  
 
 Reply Obj. 1: Sonship through adoption adds something over and above sonship through creation the way the perfect adds something over and above the lesser, and as grace does over and above nature. This is why a man is made neither a natural son nor an adoptive son through creation, but is called only a “son by creation,” whereas irrational created things are sons in no way at all.  
 
@@ -370,9 +370,9 @@ To the second question, it should be said that just as blessed enjoyment exceeds
 
 Reply Obj. 1: The Empyrean heaven is not called “God’s house” insofar as adoptive sons are brought into it, but insofar as it is the divine beatitude itself in virtue of which God rests in his very self, and causes others to rest in him. And they were not always in this house, since they were not created blessed.  
 
-Reply Obj. 2: It is accidental to adoption that the one adopted was a son of wrath, or that he was not a son at a prior time. Whence that is pointed out in the text*Sent*. III, 10.2(30).2. more for the sake of making the adoption evident than by any necessity. But it is necessary for adoption that one is not by nature a son before he is made a son, such that the sonship does not belong to him from his own nature, but from some grace given to him. And this is indeed found in the angel.  
+Reply Obj. 2: It is accidental to adoption that the one adopted was a son of wrath, or that he was not a son at a prior time. Whence that is pointed out in the text *(*Sent*. III, 10.2(30).2.)* more for the sake of making the adoption evident than by any necessity. But it is necessary for adoption that one is not by nature a son before he is made a son, such that the sonship does not belong to him from his own nature, but from some grace given to him. And this is indeed found in the angel.  
 
-Reply Obj. 3: Although the sending of the Son into flesh was not brought about for the sake of the angels, nonetheless a sending that occurs in the mind was brought about for them, as was said in Book I.*In I Sent*., d. 15, q. 5, a. 1, resp. 3.  
+Reply Obj. 3: Although the sending of the Son into flesh was not brought about for the sake of the angels, nonetheless a sending that occurs in the mind was brought about for them, as was said in Book I. *(*In I Sent*., d. 15, q. 5, a. 1, resp. 3.)*  
 
 Response to Quaestiuncula 3  
 
@@ -398,7 +398,7 @@ Question 3
 
 ***Quaestiuncula 1***
 
-Obj. 1: Next we ask about Christ’s predestination.Parallels: *In I Sent*., d. 40, a. 2; below, d. 11, a. 4, ad 4; *ST* III.24.1; *Super Rom.* 1, lect. 3. And it appears that it is not a predestination of the person. For Christ’s predestination is to his sonship, since he was *predestined Son of God in power* (Rom 1:4).For “predestined” the RSV has “designated.” But sonship does not belong to the [divine] nature, so the predestination is not of his nature.  
+Obj. 1: Next we ask about Christ’s predestination. *(Parallels: *In I Sent*., d. 40, a. 2; below, d. 11, a. 4, ad 4; *ST* III.24.1; *Super Rom.* 1, lect. 3.)* And it appears that it is not a predestination of the person. For Christ’s predestination is to his sonship, since he was *predestined Son of God in power* (Rom 1:4). *(For “predestined” the RSV has “designated.”)* But sonship does not belong to the [divine] nature, so the predestination is not of his nature.  
 
 Obj. 2: Furthermore, it appears that his being predestined belongs to what can act, since becoming happy also belongs to this. But to act belongs to a supposit, not to a nature. Therefore predestination is not something of the nature.  
 
@@ -410,7 +410,7 @@ Furthermore, something is predestined from the fact that it is foreseen to be un
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that Christ’s predestination is not of the same form as our predestination.Parallels: *ST* III.24.3; *Super Rom.* 1, lect. 3. For according to Augustine,Augustine, *De praedestinatione sanctorum*, cc. 3, 17 (PL 44:965, 985–86); also, *Ad Simplicianum*, bk. 2, q. 2 (PL 40:138); *Contra duas Epist. Pelag*., bk. 2, cc. 9–10 (PL 44:586). the predestination by which we are predestined is given to those who are wretched. But this does not befit Christ’s predestination, since he was never wretched. Therefore his predestination and ours are not of one notion.  
+Obj. 1: Moreover, it appears that Christ’s predestination is not of the same form as our predestination. *(Parallels: *ST* III.24.3; *Super Rom.* 1, lect. 3.)* For according to Augustine, *(Augustine, *De praedestinatione sanctorum*, cc. 3, 17 (PL 44:965, 985–86); also, *Ad Simplicianum*, bk. 2, q. 2 (PL 40:138); *Contra duas Epist. Pelag*., bk. 2, cc. 9–10 (PL 44:586).)* the predestination by which we are predestined is given to those who are wretched. But this does not befit Christ’s predestination, since he was never wretched. Therefore his predestination and ours are not of one notion.  
 
 Obj. 2: Furthermore, grace is the effect of predestination. But Christ’s grace is of a different notion than ours, since our grace is not one of union in a person, as is his. Therefore neither is his predestination and ours of the same notion.  
 
@@ -418,11 +418,11 @@ Obj. 3: Furthermore, activities differ according to their termini. But natural s
 
 On the contrary, one definition belongs to both predestinations, namely: predestination is the preparation for grace in the present, and for glory in the future. Therefore they are of one notion.  
 
-Furthermore, the Gloss on Romans 1:4 says that the most luminous exemplar of our predestination came first in Christ.*Glossa ordinaria,* at Romans 1:4, 6.17 (PL 114:470), which refers to Augustine, *De praedestinatione sanctorum*, ch. 15 (PL 44:981). Therefore it is of one notion, since an exemplar and what is modeled on it are of one notion.  
+Furthermore, the Gloss on Romans 1:4 says that the most luminous exemplar of our predestination came first in Christ. *(*Glossa ordinaria,* at Romans 1:4, 6.17 (PL 114:470), which refers to Augustine, *De praedestinatione sanctorum*, ch. 15 (PL 44:981).)* Therefore it is of one notion, since an exemplar and what is modeled on it are of one notion.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that his predestination is the efficient cause of our predestination.Parallel: *ST* III.24.4. For Ephesians 1:5 says: *he destined us . . . to be his sons through Jesus Christ*. But “through” denotes an efficient cause when the Father is said to work through the Son. Therefore his predestination is the efficient cause of our predestination.  
+Obj. 1: Moreover, it appears that his predestination is the efficient cause of our predestination. *(Parallel: *ST* III.24.4.)* For Ephesians 1:5 says: *he destined us . . . to be his sons through Jesus Christ*. But “through” denotes an efficient cause when the Father is said to work through the Son. Therefore his predestination is the efficient cause of our predestination.  
 
 Obj. 2: In addition, it appears that it is the exemplar cause, because of what is said in Romans 8:29: *those whom he foreknew he also predestined to be conformed to the image of his Son*. But an image pertains to exemplarity. Therefore he is the exemplar cause of our predestination, just as also his Resurrection is of our resurrection.  
 
@@ -456,22 +456,22 @@ Reply Obj. 1–3: And thereby, the resolution of the objections is clear.
 
 Exposition of the text  
 
-*Christ, according to his being a man, is a person, or even is anything*.*Sentences* III.10. 1(29). 1. The first of these is granted by every opinion, but the second is not, but only by the third opinion. For the first two opinions say that Christ, insofar as he is a man, is something. But to deny this is an error.  
+*Christ, according to his being a man, is a person, or even is anything*. *(*Sentences* III.10. 1(29). 1.)* The first of these is granted by every opinion, but the second is not, but only by the third opinion. For the first two opinions say that Christ, insofar as he is a man, is something. But to deny this is an error.  
 
-*For 'according' has a manifold function*.*Sent*. III, 10.1(29).3. This division is taken from a comparison of the repetition of the proposition’s subject. For the repetition can be made of what precedes the subject, and thus it points to a cause, or of what follows it, and thus it points to a habit or any whatever accident—but it specifically names a habit for the account of the third opinion, or of the subject itself, and this would be either with respect to the nature, and thus it expresses the condition of the nature, or with respect to the supposit, and thus it indicates the unity of the person in Christ.  
+*For 'according' has a manifold function*. *(*Sent*. III, 10.1(29).3.)* This division is taken from a comparison of the repetition of the proposition’s subject. For the repetition can be made of what precedes the subject, and thus it points to a cause, or of what follows it, and thus it points to a habit or any whatever accident—but it specifically names a habit for the account of the third opinion, or of the subject itself, and this would be either with respect to the nature, and thus it expresses the condition of the nature, or with respect to the supposit, and thus it indicates the unity of the person in Christ.  
 
-*But that description of person is not given for those three persons [of the Trinity]*.*Sent*. III, 10.1(29).4. This is against what Boethius directly states about this matter in *On the Two Natures*.Boethius, *On the Person and the Two Nature*s, ch. 4 (PL 64:1345–47). It should be said that what the Master says is true, if the things that are asserted in the division are taken strictly. But Boethius takes them more broadly; this is clear in Book I.*In I Sent*., d. 25, q. 1, a. 1.  
+*But that description of person is not given for those three persons [of the Trinity]*. *(*Sent*. III, 10.1(29).4.)* This is against what Boethius directly states about this matter in *On the Two Natures*. *(Boethius, *On the Person and the Two Nature*s, ch. 4 (PL 64:1345–47).)* It should be said that what the Master says is true, if the things that are asserted in the division are taken strictly. But Boethius takes them more broadly; this is clear in Book I. *(*In I Sent*., d. 25, q. 1, a. 1.)*  
 
-*But he is not called son by nature*.*Sent*. III, 10.2(30).1. For he is called “God” by nature formally, but he is called “son” by nature, not formally, but according to his mode of origin, since he proceeds through the mode of nature.  
+*But he is not called son by nature*. *(*Sent*. III, 10.2(30).1.)* For he is called “God” by nature formally, but he is called “son” by nature, not formally, but according to his mode of origin, since he proceeds through the mode of nature.  
 
-*Christ was never not a son*,*Sent*. III, 10.2(30).2. not before in time, as with us, nor prior by nature or understanding, as with the angels, if they were created in grace.  
+*Christ was never not a son*, *(*Sent*. III, 10.2(30).2.)* not before in time, as with us, nor prior by nature or understanding, as with the angels, if they were created in grace.  
 
-*Christ is the son of the Virgin by nature or naturally and by grace*.*Sent*. III, 10.2(30).3. Against this, nature and grace are divided as opposites, so what is by grace is not by nature. Further, Christ is the son of his mother, as is any other man, but other men are not sons of their mothers by grace, so neither is Christ. It should be said, to the first, that the grace of union is not opposed to nature. For through it one person comes to be of two natures, and thus what is in him though the grace of union is in him through one of the natures naturally. To the second, it should be said that Christ as man being born of his mother was not by grace, but being born at once God and man was. And this was through the grace of union.  
+*Christ is the son of the Virgin by nature or naturally and by grace*. *(*Sent*. III, 10.2(30).3.)* Against this, nature and grace are divided as opposites, so what is by grace is not by nature. Further, Christ is the son of his mother, as is any other man, but other men are not sons of their mothers by grace, so neither is Christ. It should be said, to the first, that the grace of union is not opposed to nature. For through it one person comes to be of two natures, and thus what is in him though the grace of union is in him through one of the natures naturally. To the second, it should be said that Christ as man being born of his mother was not by grace, but being born at once God and man was. And this was through the grace of union.  
 
-*Not as he is a son*.*Sent*. III, 10.2(30).5, quoting Hilary, *On the Trinity*, bk. 3, ch. 11 (PL 10:82). Therefore it appears that “sonship” is said equivocally here. It should be said that it is said neither univocally nor equivocally, but analogically, as are the other things that are said of God and creatures.  
+*Not as he is a son*. *(*Sent*. III, 10.2(30).5, quoting Hilary, *On the Trinity*, bk. 3, ch. 11 (PL 10:82).)* Therefore it appears that “sonship” is said equivocally here. It should be said that it is said neither univocally nor equivocally, but analogically, as are the other things that are said of God and creatures.  
 
-*By origin, not adoption*.Sent. III, 10.2(30).5, quoting Hilary, On the Trinity, bk. 3, ch. 11 (PL 10:82). This is said against Nestorius, who, because he asserted that there are two persons in Christ, could not assert any union but one through grace. And thus it would follow that the person of the man would be a son of God only through the habitual grace of adoption, as we are.  
+*By origin, not adoption*. *(Sent. III, 10.2(30).5, quoting Hilary, On the Trinity, bk. 3, ch. 11 (PL 10:82).)* This is said against Nestorius, who, because he asserted that there are two persons in Christ, could not assert any union but one through grace. And thus it would follow that the person of the man would be a son of God only through the habitual grace of adoption, as we are.  
 
-*In truth, not in name only*.*Sent*. III, 10.2(30).5, quoting Hilary, *On the Trinity*, bk. 3, ch. 11 (PL 10:82). This is said against Sabellius, who asserted that the persons are distinct only in name.  
+*In truth, not in name only*. *(*Sent*. III, 10.2(30).5, quoting Hilary, *On the Trinity*, bk. 3, ch. 11 (PL 10:82).)* This is said against Sabellius, who asserted that the persons are distinct only in name.  
 
-*By birth, not by creation*.Sent. III, 10.2(30).5, quoting Hilary, On the Trinity, bk. 3, ch. 11 (PL 10:82). This is said against Arius, who said the Son of God was a created thing.
+*By birth, not by creation*. *(Sent. III, 10.2(30).5, quoting Hilary, On the Trinity, bk. 3, ch. 11 (PL 10:82).)* This is said against Arius, who said the Son of God was a created thing.

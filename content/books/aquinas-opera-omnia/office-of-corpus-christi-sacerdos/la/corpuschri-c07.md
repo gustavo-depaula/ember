@@ -127,7 +127,7 @@ Contra *Scala caelo* de sancto Dominico.
 
 ***1 Cor 11:26***
 
-QuotiensVulg.: *quotiescumque*. manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat.  
+Quotiens *(Vulg.: *quotiescumque*.)* manducabitis panem hunc et calicem bibetis, mortem Domini annuntiabitis donec veniat.  
 
 > Responsorium
 

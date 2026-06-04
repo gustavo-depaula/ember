@@ -285,13 +285,13 @@ venit ad vitae vesperam.
   se moriens in pretium  
   se regnans dat in praemium.
 - O salutaris Hostia  
-  quae caeli pandis hostiumThe manuscript indeed reads *hostium* rather than *ostium* here.  
+  quae caeli pandis hostium *(The manuscript indeed reads *hostium* rather than *ostium* here.)*  
   bella premunt hostilia  
   da robur, fer auxilium.
 - Uni trinoque Domino  
   sit sempiterna gloria  
   qui vitam sine termino  
-  nobis donet in patria. Amen.Music for the “amen” is not found in the manuscript.
+  nobis donet in patria. Amen. *(Music for the “amen” is not found in the manuscript.)*
 - Contra *Aeterne rex altissime* de Ascensione.
 
 ***Versiculus***

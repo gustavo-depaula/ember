@@ -14,7 +14,7 @@ Circa primum duo facit: primo ostendit veritatem; secundo excludit errorem, ibi:
 
 *Solet quaeri de illis qui jam sanctificati spiritu, cum fide et caritate ad baptismum accedunt*. Hic determinat de baptismo eorum qui prius rem sacramenti acceperant; et circa hoc duo facit: primo ostendit effectum baptismi in eis; secundo significationem, ibi: *si quaeritur cujus rei baptismus ille sit sacramentum qui datur jam justo; dicimus*, etc.  
 
-Hic est triplex quaestio. Primo de effectu qui est in baptismo sacramentum et res, scilicet de charactere. Secundo de eo quod est res tantum, scilicet effectu ultimo baptismi. Tertio de suscipientibus alterum vel utrumque: quia de eo quod est sacramentum tantum, in praecedenti*praecedenti.—praecedenti distinctione* PLE. dictum est.  
+Hic est triplex quaestio. Primo de effectu qui est in baptismo sacramentum et res, scilicet de charactere. Secundo de eo quod est res tantum, scilicet effectu ultimo baptismi. Tertio de suscipientibus alterum vel utrumque: quia de eo quod est sacramentum tantum, in praecedenti *(*praecedenti.—praecedenti distinctione* PLE.)* dictum est.  
 
 Quaestio 1  
 
@@ -103,7 +103,7 @@ Praeterea, contrarium distinguit sufficienter a suo contrario. Sed fides infidel
 
 Quaestiuncula 1  
 
-Respondeo dicendum ad primam quaestionem, quod illa definitio nusquam invenitur a Dionysio posita, sed potest accipi ex verbis ejus supra inductis; et acciperetur adhuc convenientius si sic diceretur: *character est signum communionis potestatis**potestatis.—partis* PLE. *divinorum, et sacrae ordinationis fidelium, datum a divina beatitudine*. Et tangit quatuor causas. Primo genus characteris inquantum est character, scilicet signum, quod pertinet ad causam formalem. Secundo finem: datur enim hoc signum ad duo, ut scilicet recipiens configuretur quasi ascriptus ad communicandum divinis sacramentis, et actionibus sacris; et quantum ad hoc dicit: *communionis divinorum potestatis*;*potestatis.—partis* PLE. et ut configuretur coordinandus aliis, quibus eadem potestas data est, quod tangit in hoc quod dicit: *et sacrae ordinationis fidelium*; quae duo excommunicatio suspendit ad tempus: quia privat hominem participatione divinorum et communione fidelium. Tertio ponit materiam in qua, in hoc quod dicit: *datum a sacerdote*. Quarto efficiens, scilicet *a divina beatitudine*.  
+Respondeo dicendum ad primam quaestionem, quod illa definitio nusquam invenitur a Dionysio posita, sed potest accipi ex verbis ejus supra inductis; et acciperetur adhuc convenientius si sic diceretur: *character est signum communionis potestatis* *(*potestatis.—partis* PLE.)* *divinorum, et sacrae ordinationis fidelium, datum a divina beatitudine*. Et tangit quatuor causas. Primo genus characteris inquantum est character, scilicet signum, quod pertinet ad causam formalem. Secundo finem: datur enim hoc signum ad duo, ut scilicet recipiens configuretur quasi ascriptus ad communicandum divinis sacramentis, et actionibus sacris; et quantum ad hoc dicit: *communionis divinorum potestatis*; *(*potestatis.—partis* PLE.)* et ut configuretur coordinandus aliis, quibus eadem potestas data est, quod tangit in hoc quod dicit: *et sacrae ordinationis fidelium*; quae duo excommunicatio suspendit ad tempus: quia privat hominem participatione divinorum et communione fidelium. Tertio ponit materiam in qua, in hoc quod dicit: *datum a sacerdote*. Quarto efficiens, scilicet *a divina beatitudine*.  
 
 Tamen definitio prius posita potest etiam sustineri, ut in idem redeat cum ista; ut hoc quod dicit: *communionis fidei*, referatur ad participationem sacramentorum et actionum fidelium. Quod autem dicit: *et sanctae ordinationis*, ponitur coordinatio ejus ad alios: *accedenti datum a hierarcha* ponitur quantum ad causam efficientem instrumentalem scilicet ministrum, qui configuratione exteriori figurat interiorem.  
 
@@ -119,7 +119,7 @@ Ad quintum dicendum quod hoc quod dicitur: *datum accedenti a hierarcha*, non po
 
 Quaestiuncula 2  
 
-Ad secundam quaestionem dicendum, quod in illa etiam definitione tanguntur quatuor causae characteris. Nam causa formalis tangitur in hoc quod ponitur genus, cum dicit, *distinctio*, id est distinctivum signum; et est genus*genus in.—genus magis proximum quam genus in* PLE. in praecedenti definitione positum. Causa efficiens tangitur in hoc quod dicit: *charactere aeterno*, idest filio, qui est figura substantiae patris; Hebr. 1. Causa autem materialis in qua ponitur cum dicit: *animae rationali impressa secundum imaginem*. Causa vero finalis ponitur duplex, scilicet configuratio, in hoc quod dicit: *consignans trinitatem creatam Trinitati creanti et recreanti*, idest configurans; et distinctio in hoc quod dicit: *et distinguens a non configuratis secundum statum fidei*. Et sicut hic ponitur genus proximum, ita finis proximus, et subjectum proximum, et efficiens appropriatum: in quo excedit praedictam definitionem haec definitio, inquantum per causas magis proximas datur.  
+Ad secundam quaestionem dicendum, quod in illa etiam definitione tanguntur quatuor causae characteris. Nam causa formalis tangitur in hoc quod ponitur genus, cum dicit, *distinctio*, id est distinctivum signum; et est genus *(*genus in.—genus magis proximum quam genus in* PLE.)* in praecedenti definitione positum. Causa efficiens tangitur in hoc quod dicit: *charactere aeterno*, idest filio, qui est figura substantiae patris; Hebr. 1. Causa autem materialis in qua ponitur cum dicit: *animae rationali impressa secundum imaginem*. Causa vero finalis ponitur duplex, scilicet configuratio, in hoc quod dicit: *consignans trinitatem creatam Trinitati creanti et recreanti*, idest configurans; et distinctio in hoc quod dicit: *et distinguens a non configuratis secundum statum fidei*. Et sicut hic ponitur genus proximum, ita finis proximus, et subjectum proximum, et efficiens appropriatum: in quo excedit praedictam definitionem haec definitio, inquantum per causas magis proximas datur.  
 
 Ad primum ergo dicendum quod character non est signum tantum ut distinctionis nota, sed ut distinctionem causans, sicut et alia sacramentalia signa; et ideo eo indigetur ad distinctionem faciendam.  
 
@@ -127,7 +127,7 @@ Ad secundum dicendum, quod istud distinctionis signum est et propter ipsum homin
 
 Ad tertium dicendum, quod configuratio ista attenditur ad Deum secundum participationem divinae potestatis, quae non est neque per gratiam virtutum, neque per naturam.  
 
-Ad quartum dicendum, quod fides hominis nota est, caritas autem incerta. Nihil enim est alicui certius sua fide, ut Augustinus dicit; sed an habeat caritatem non est alicui certum, et ideo distinctio*distinctio.—definitio* PLE. data magis respicit fidem quam caritatem vel alias virtutes. Vel dicendum, quod ista distinctio*distinctio.—definitio* PLE. praecipue attenditur quantum ad operationes, et receptiones, quae sunt in sacramentis, in quibus maxime operatur fides.  
+Ad quartum dicendum, quod fides hominis nota est, caritas autem incerta. Nihil enim est alicui certius sua fide, ut Augustinus dicit; sed an habeat caritatem non est alicui certum, et ideo distinctio *(*distinctio.—definitio* PLE.)* data magis respicit fidem quam caritatem vel alias virtutes. Vel dicendum, quod ista distinctio *(*distinctio.—definitio* PLE.)* praecipue attenditur quantum ad operationes, et receptiones, quae sunt in sacramentis, in quibus maxime operatur fides.  
 
 Ad quintum dicendum, quod fides sufficienter distinguit fideles ab infidelibus quantum ad actus fidei, non tamen quantum ad actus spirituales qui competunt fidelibus, quia ad hoc oportet quod spiritualis potentia addatur.  
 
@@ -337,7 +337,7 @@ Quaestiuncula 1
 
 Respondeo dicendum ad primam quaestionem, quod in generatione qualibet per introductionem formae omnis contraria forma expellitur, et etiam dispositio ad formam contrariam, nisi quandoque relinquatur ex indispositione recipientis formam. Unde cum baptismus sit regeneratio in vitam spiritualem, omne quod est vitae spirituali contrarium, quod scilicet cum gratia stare non potest, quae est spiritualis vitae principium per baptismum tollitur; et ideo baptismus delet et originalem et actualem culpam mortalem, et quantum est de se etiam venialem, quae disponit ad privationem gratiae; quamvis quandoque culpa venialis remaneat post baptismum mortali remota propter indispositionem recipientis baptismum.  
 
-Ad primum ergo dicendum, quod baptismus non requirit contritionem quasi continuam*continuam.—concausam* PLE. ad destructionem peccati actualis quasi de se ad hoc non sufficiat, sed solum ad removendam fictionem quae est contraria dispositio impediens effectum baptismi.  
+Ad primum ergo dicendum, quod baptismus non requirit contritionem quasi continuam *(*continuam.—concausam* PLE.)* ad destructionem peccati actualis quasi de se ad hoc non sufficiat, sed solum ad removendam fictionem quae est contraria dispositio impediens effectum baptismi.  
 
 Ad secundum dicendum, quod baptismus non ordinatur tantum contra culpam originalem alias circumcisis in primitiva ecclesia non fuisset necessarius baptismus, sed ordinatur ad destruendum omnem culpam quam inveniat, et ad regenerandum in novam vitam destructa omni vetustate; et ideo est sicut totum potentiale habens completam potentiam ad destruendum totaliter peccatum. Sed poenitentia participat aliquid de potentia, quasi pars potentialis ordinata contra alia peccata, scilicet actualia; quia baptismus iterari non potest.  
 
@@ -497,7 +497,7 @@ Ulterius. Videtur quod etiam aequalis gratia omnibus in baptismo conferatur, qui
 
 Praeterea, ad baptismi effectum capiendum non requiritur alia concausa, sed solum ut impedimentum removeatur. Sed nullus recipit gratiam in baptismo nisi ab eo sit impedimentum remotum. Ergo omnes recipiunt gratiam aequalem.  
 
-Sed contra, Damascenus dicit, quod peccatorum remissio cunctis aequaliter in baptismo datur, gratia autem Spiritus Sancti secundum proportionem fidei, et secundum*secundum.—per* PLE. purgationem. Sed non omnes cum aequali fide nec aequaliter praeparati ad baptismum accedunt. Ergo non omnes aequaliter gratiam consequuntur.  
+Sed contra, Damascenus dicit, quod peccatorum remissio cunctis aequaliter in baptismo datur, gratia autem Spiritus Sancti secundum proportionem fidei, et secundum *(*secundum.—per* PLE.)* purgationem. Sed non omnes cum aequali fide nec aequaliter praeparati ad baptismum accedunt. Ergo non omnes aequaliter gratiam consequuntur.  
 
 Quaestiuncula 3  
 
@@ -511,7 +511,7 @@ Quaestiuncula 1
 
 Respondeo dicendum, ad primam quaestionem, quod baptismus universaliter aufert in eo qui non ficte accedit, culpam personam inficientem, quam invenit, ut dictum est, et sic accedit ad terminum. Ea autem quae in termino sunt, intensionem non recipiunt; et ideo quantum ad remotionem culpae, aequalem effectum habet in omnibus baptismus; et similiter est de poena personali, quae respondet culpae originali prout est inficiens personam, scilicet carentia divinae visionis. Sed contra aliam poenam ex principiis naturae corruptae consequentem, sicut est concupiscentia vel fomes, remedium adhibetur in baptismo, ut non dominentur per gratiam in baptismo collatam; et ideo simile est de poena illa et de gratia.  
 
-Ad primum ergo dicendum, quod hoc non est de efficacia baptismi quod non tot peccata destruit in uno quot in alio:*alio.—alio, sed quia non tot invenit in uno quot in alio*; PLE. in quolibet enim destruit omnia quae invenit.  
+Ad primum ergo dicendum, quod hoc non est de efficacia baptismi quod non tot peccata destruit in uno quot in alio: *(*alio.—alio, sed quia non tot invenit in uno quot in alio*; PLE.)* in quolibet enim destruit omnia quae invenit.  
 
 Ad secundum dicendum, quod illa objectio procedit de secunda poena, quae habet reprimi per baptismum ex parte gratiae collatae.  
 
@@ -686,7 +686,7 @@ Ad primum ergo dicendum, quod baptismus non habet efficaciam solum ex opere oper
 
 Ad secundum dicendum, quod baptismus recedente fictione habet illum effectum quem prius habuisset, si fictio non fuisset; et ideo peccata praecedentia baptismum remittit et quo ad culpam et quo ad poenam; sed peccata sequentia remittuntur virtute contritionis quae fictionem amovet, quantum ad culpam, sed non quantum ad poenam totaliter.  
 
-Ad tertium dicendum, quod in Eucharistia non imprimitur character cujus virtute possit aliquis virtutem*virtutem.—efficaciam* PLE. sacramenti percipere fictione recedente; et ideo non est simile.  
+Ad tertium dicendum, quod in Eucharistia non imprimitur character cujus virtute possit aliquis virtutem *(*virtutem.—efficaciam* PLE.)* sacramenti percipere fictione recedente; et ideo non est simile.  
 
 Articulus 3  
 
@@ -754,7 +754,7 @@ Ad tertium dicendum, quod duo baptismata de quibus Magister facit mentionem in l
 
 Quaestiuncula 2  
 
-Ad secundam quaestionem dicendum, quod aliquid dicitur ad salutem*salutem dupliciter.—salutem sufficere dupliciter* PLE. dupliciter. Uno modo simpliciter et absolute; et sic baptismus poenitentiae sine baptismo aquae non sufficit ad salutem. Alio modo secundum quid et in casu; et sic sufficit, quando articulus necessitatis sacramentum excludit ne actu percipi possit. Tunc enim quamvis sit poenitentia sine baptismo in actu est tamen cum desiderio et proposito baptismi; et voluntas pro facto reputatur ei qui non habet tempus operandi.  
+Ad secundam quaestionem dicendum, quod aliquid dicitur ad salutem *(*salutem dupliciter.—salutem sufficere dupliciter* PLE.)* dupliciter. Uno modo simpliciter et absolute; et sic baptismus poenitentiae sine baptismo aquae non sufficit ad salutem. Alio modo secundum quid et in casu; et sic sufficit, quando articulus necessitatis sacramentum excludit ne actu percipi possit. Tunc enim quamvis sit poenitentia sine baptismo in actu est tamen cum desiderio et proposito baptismi; et voluntas pro facto reputatur ei qui non habet tempus operandi.  
 
 Ad primum ergo dicendum, quod eadem ratio est de charactere baptismali, et de ablutione aquae exteriori: quia utrumque simpliciter est necessarium ad salutem, sed in casu sufficit propositum, quando articulus necessitatis sacramentum excludit.  
 
@@ -786,7 +786,7 @@ Expositio textus
 
 *Nisi poeniteat, eum veteris vitae*. Contra. Ergo baptismus non est primum sacramentum, sed poenitentia. Et dicendum, quod loquitur de poenitentia prout est virtus, non prout est sacramentum.  
 
-*Non**Non*.—*Nam* PLE. *redire dimissa* etc., hoc qualiter verum sit, infra, dist. 22, quaest. 1, art. 1, in corp., dicetur.  
+*Non* *(*Non*.—*Nam* PLE.)* *redire dimissa* etc., hoc qualiter verum sit, infra, dist. 22, quaest. 1, art. 1, in corp., dicetur.  
 
 *Induunt homines Christum aliquando*, etc. Induere Christum nihil aliud est quam Christi similitudinem assumere; quod contingit exterius per sacramentalem repraesentationem, et interius per realem imitationem.  
 

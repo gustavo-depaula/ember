@@ -32,7 +32,7 @@
 
 > ^66:16^ For the Lord shall judge by fire, and by his sword unto all flesh, and the slain of the Lord shall be many.
 
-> ^66:17^ They that were sanctified, thought themselves clean in the gardens behind one woman*Post unam*. Vg.: *post januam*. DR: “behind the gate.” within, they that did eat swine’s flesh, and the abomination, and the mouse: they shall be consumed together, says the Lord.
+> ^66:17^ They that were sanctified, thought themselves clean in the gardens behind one woman *(*Post unam*. Vg.: *post januam*. DR: “behind the gate.”)* within, they that did eat swine’s flesh, and the abomination, and the mouse: they shall be consumed together, says the Lord.
 
 > ^66:18^ But I know their works, and their thoughts: I come that I may gather them together with all nations and tongues: and they shall come and shall see my glory.
 
@@ -46,7 +46,7 @@
 
 > ^66:23^ And there shall be month after month, and sabbath after sabbath: and all flesh shall come to adore before my face, says the Lord.
 
-> ^66:24^ And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a satisfying*Usque ad satietatem*. DR: “loathsome.” sight to all flesh.
+> ^66:24^ And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a satisfying *(*Usque ad satietatem*. DR: “loathsome.”)* sight to all flesh.
 
 > **1136**. ***Thus says the Lord***. Here he determines the manner of execution of the sentence.
 
@@ -102,7 +102,7 @@ And he introduces the wondering question: ***who has ever heard such a thing***,
 
 **1141**. Second, he promises immense comfort to the gathered Jews.  
 
-And first, he invites others to congratulation: ***rejoice with Jerusalem, and be glad with*In*. her***, as in the object of joy, setting out the condition of congratulation as to affection: ***all you that love her***: *eat, O friends, and drink, and be inebriated, my dearly beloved* (Song 5:1); as to the sign of affection: ***all you that mourn for her***: *blessed are they that mourn: for they shall be comforted* (Matt 5:5). And the fruit of congratulation as to participation in her gladness or peace: ***that you may suck***: *your breasts are better than wine* (Song 1:1); as to participation in her glory, ***that you may milk out***, as though extracting milk: *then shall you abound in delights in the Almighty* (Job 22:6).  
+And first, he invites others to congratulation: ***rejoice with Jerusalem, and be glad with *(*In*.)* her***, as in the object of joy, setting out the condition of congratulation as to affection: ***all you that love her***: *eat, O friends, and drink, and be inebriated, my dearly beloved* (Song 5:1); as to the sign of affection: ***all you that mourn for her***: *blessed are they that mourn: for they shall be comforted* (Matt 5:5). And the fruit of congratulation as to participation in her gladness or peace: ***that you may suck***: *your breasts are better than wine* (Song 1:1); as to participation in her glory, ***that you may milk out***, as though extracting milk: *then shall you abound in delights in the Almighty* (Job 22:6).  
 
 **1142**. Second, he promises an abundant gathering of peace: ***for thus says the Lord: behold I will bring upon her***, so that an overflowing is called, as a river descending with great force comes and does not overflow; and of glory: ***and as an overflowing torrent***, above: ***your peace had been as a river*** (Isa 48:18).  
 
@@ -124,7 +124,7 @@ And first, he threatens punishment, setting out the indignation of the judge: **
 
 And first, he decrees universal judgment: ***I know their works, and their thoughts***, as though judging them for both; ***I come***, in the day of judgment, or the various kingdoms of your enemies destroying also the wicked among you; *they shall come*, into Jerusalem after your return, either to judgment, or to faith: *behold, I will raise them up out of the place wherein you have sold them* (Joel 3:7).  
 
-**1147**. Second, he sets out the summons to judgment: ***and I will set a sign***, the edict of Cyrus, ***among them***, that is, the Jews who were with Zorobabel and the other leaders; ***to the Gentiles***, to the nations whom the Jews had been dispersed; ***Lydia them that draw the bow***, for they are good archers; ***my glory***, which will appear in your liberation, above: ***he shall set up a sign***DR: “standard.” ***unto the nations*** (Isa 11:12). Or he sets the ***sign*** of the cross on the apostles, so that they might convert all nations to God, as though prepared for judgment.  
+**1147**. Second, he sets out the summons to judgment: ***and I will set a sign***, the edict of Cyrus, ***among them***, that is, the Jews who were with Zorobabel and the other leaders; ***to the Gentiles***, to the nations whom the Jews had been dispersed; ***Lydia them that draw the bow***, for they are good archers; ***my glory***, which will appear in your liberation, above: ***he shall set up a sign*** *(DR: “standard.”)* ***unto the nations*** (Isa 11:12). Or he sets the ***sign*** of the cross on the apostles, so that they might convert all nations to God, as though prepared for judgment.  
 
 **1148**. Third, he sets out the preparation of those to be judged.  
 

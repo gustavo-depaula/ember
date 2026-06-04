@@ -14,13 +14,13 @@ Delectat suaviter sua utilitate, Psalm.: *quam dulcia faucibus meis eloquia tua*
 
 Flectit efficaciter sua auctoritate, Ier. XXIII: *nunquid non verba mea sunt quasi ignis, dicit Dominus?*  
 
-Et ideo Sacra Scriptura in verbo propositoEstler: *verbis propositis*. commendatur a tribus.  
+Et ideo Sacra Scriptura in verbo proposito *(Estler: *verbis propositis*.)* commendatur a tribus.  
 
-Primo ab auctoritate quaEstler: *quae*. flectit, cum dicit: ***hic est liber mandatorum Dei***.  
+Primo ab auctoritate qua *(Estler: *quae*.)* flectit, cum dicit: ***hic est liber mandatorum Dei***.  
 
-Secundo, ab aeterna veritate quaEstler: *quae*. instruit, cum dicit: ***et lex quae est in aeternum***.  
+Secundo, ab aeterna veritate qua *(Estler: *quae*.)* instruit, cum dicit: ***et lex quae est in aeternum***.  
 
-Tertio, ab utilitate quaEstler: *quae*. allicit, cum dicit: ***omnes qui tenent eam pervenient ad vitam***.  
+Tertio, ab utilitate qua *(Estler: *quae*.)* allicit, cum dicit: ***omnes qui tenent eam pervenient ad vitam***.  
 
 Auctoritas Sacrae Scripturae  
 
@@ -40,13 +40,13 @@ Et hoc necesse est quia omnes habuerunt unum magistrum, Matth. XXIII: *unus est 
 
 Veritas Sacrae Scripturae  
 
-Veritas Scripturae huius doctrinae est immutabilis et aeterna. Unde sequitur: ***et lex quae est in aeternum***. Luc. XXI: *caelum et terra transibunt; verba autem mea non transibunt*.Estler: *transient*.  
+Veritas Scripturae huius doctrinae est immutabilis et aeterna. Unde sequitur: ***et lex quae est in aeternum***. Luc. XXI: *caelum et terra transibunt; verba autem mea non transibunt*. *(Estler: *transient*.)*  
 
 Permanet autem in aeternum haec lex propter tria.  
 
 Primo, propter legislatoris potestatem, Isa. XIV: *Deus exercituum decrevit, et quis poterit infirmare?*  
 
-Secundo, propter eius immutabilitatem, Malach. III: *ego Deus et non mutor*. Num. XXIII: *non est Dominus*Estler: *Deus*. *quasi homo ut mentiatur; nec ut filius hominis ut mutetur*.  
+Secundo, propter eius immutabilitatem, Malach. III: *ego Deus et non mutor*. Num. XXIII: *non est Dominus* *(Estler: *Deus*.)* *quasi homo ut mentiatur; nec ut filius hominis ut mutetur*.  
 
 Tertio, propter legis veritatem, Psal.: *omnia mandata tua veritas*. Prov. XII: *labium veritatis firmum erit in perpetuum*. III Esdr. IV: *veritas manet et invalescit in aeternum*.  
 
@@ -98,13 +98,13 @@ Lex
 
 Prima autem pars, quae legem continet, in duas partes dividitur; secundum quod duplex est lex, scilicet, publica et privata.  
 
-Privata lex est quae uni personae vel familiae imponitur observanda.Estler: adds *[Et talis lex est quae uni persone vel familie imponitur observanda]*. Et talis lex in Genesi continetur, ut patet de primo praecepto homini dato, Gen. II 17: *de ligno scientiae boni et mali ne comedas*; et Noe, Gen. IX 4: *carnem cum sanguine non comedetis*; et Abrahae: Gen. XVII 9: *custodies pactum meum et semen tuum post te in generationibus suis*.  
+Privata lex est quae uni personae vel familiae imponitur observanda. *(Estler: adds *[Et talis lex est quae uni persone vel familie imponitur observanda]*.)* Et talis lex in Genesi continetur, ut patet de primo praecepto homini dato, Gen. II 17: *de ligno scientiae boni et mali ne comedas*; et Noe, Gen. IX 4: *carnem cum sanguine non comedetis*; et Abrahae: Gen. XVII 9: *custodies pactum meum et semen tuum post te in generationibus suis*.  
 
-Lex autem publica est quae populo traditur. Lex enimEstler: *autem*. divina populo Iudaeorum tradita est per mediatorem, quia non erat idoneus populus ut immediate a Deo susciperet, Deut. V, unde: *ego sequester fui et medius inter vos et Dominum*.Estler: *Deum*.  
+Lex autem publica est quae populo traditur. Lex enim *(Estler: *autem*.)* divina populo Iudaeorum tradita est per mediatorem, quia non erat idoneus populus ut immediate a Deo susciperet, Deut. V, unde: *ego sequester fui et medius inter vos et Dominum*. *(Estler: *Deum*.)*  
 
 Gal. III: *lex ordinata est per angelos in manu mediatoris*. Et ideo in legislatione duplex gradus attenditur.  
 
-Unus quo lex a DominoEstler: *Deo*. ad mediatorem pervenit, et hoc pertinet ad tres libros, scilicet: Exodum, Leviticum, Numeros.Estler: *Exodus, Leviticus, Numeri*. Unde frequenter in illis libris legitur: *locutus est Deus ad Moysen*.  
+Unus quo lex a Domino *(Estler: *Deo*.)* ad mediatorem pervenit, et hoc pertinet ad tres libros, scilicet: Exodum, Leviticum, Numeros. *(Estler: *Exodus, Leviticus, Numeri*.)* Unde frequenter in illis libris legitur: *locutus est Deus ad Moysen*.  
 
 Secundus gradus est quo lex per mediatorem populo exponitur; et hoc pertinet ad Deuteronomium, ut patet ex hoc quod in eius principio dicitur: *locutus est Moyses*, et cetera.  
 
@@ -132,13 +132,13 @@ In aliis autem libris qui communiter prophetarum dicuntur, prophetae posuerunt d
 
 Et hoc dicitur, primo in communi; et hoc in prophetis maioribus qui ad totum populum mittebantur et ad totius legis observantiam inducebant;  
 
-secundo in particulari; et hoc in prophetis minoribus, quorum diversi, propter diversa ad speciales gentes mittebantur, sicut Osee ad decem tribus; Ioel ad senes Israel;Estler: omits *ad senes Israel*. Ionas ad Ninivitas; et sic de aliis.  
+secundo in particulari; et hoc in prophetis minoribus, quorum diversi, propter diversa ad speciales gentes mittebantur, sicut Osee ad decem tribus; Ioel ad senes Israel; *(Estler: omits *ad senes Israel*.)* Ionas ad Ninivitas; et sic de aliis.  
 
-Prophetae autem maiores dividuntur secundum ea quibus ad observantiam legis prophetae populum induxerunt, scilicet: blandiendo per promissiones beneficiorum; terrendo per comminationemEstler: *comminationes*. paenarum; arguendo per vituperationes peccatorum.  
+Prophetae autem maiores dividuntur secundum ea quibus ad observantiam legis prophetae populum induxerunt, scilicet: blandiendo per promissiones beneficiorum; terrendo per comminationem *(Estler: *comminationes*.)* paenarum; arguendo per vituperationes peccatorum.  
 
-Quamvis haec tria in singulis prophetarum inveniantur, tamen Isaias principaliter blanditur; de quo diciturEstler: *dicit*. Eccli. XLVIII: *consolatus est lugentes in Sion*; Ieremias vero comminatur, unde dicebat: *de industria dissolvit manus virorum bellantium* Ier. XXXVIII; sed Ezechiel arguit et vituperat, Ezech. XVI: *pater tuus Amorrhaeus et mater tua Cethaea*.  
+Quamvis haec tria in singulis prophetarum inveniantur, tamen Isaias principaliter blanditur; de quo dicitur *(Estler: *dicit*.)* Eccli. XLVIII: *consolatus est lugentes in Sion*; Ieremias vero comminatur, unde dicebat: *de industria dissolvit manus virorum bellantium* Ier. XXXVIII; sed Ezechiel arguit et vituperat, Ezech. XVI: *pater tuus Amorrhaeus et mater tua Cethaea*.  
 
-PotestEstler: *possunt*. tamen aliter distingui, ut dicatur quod Isaias praenunciat principaliter Incarnationis mysterium, unde tempore adventus in Ecclesia legitur; Ieremias vero mysterium Passionis, unde legitur tempore Passionis; Ezechiel mysterium Resurrectionis, unde in resurrectione ossium et templi reparatione librum suum finit; Daniel autem secundum quod inter prophetas computatur ex hoc quod spiritu prophetico praedixit futura, quamvis non ex persona Domini populo loqueretur, prosequiturEstler: *profert*. de divinitate Christi, ut quatuor prophetae quatuor evangelistis respondeant, vel etiamEstler: *autem*. de advocationeEstler: *advocato*. ad iudicium.  
+Potest *(Estler: *possunt*.)* tamen aliter distingui, ut dicatur quod Isaias praenunciat principaliter Incarnationis mysterium, unde tempore adventus in Ecclesia legitur; Ieremias vero mysterium Passionis, unde legitur tempore Passionis; Ezechiel mysterium Resurrectionis, unde in resurrectione ossium et templi reparatione librum suum finit; Daniel autem secundum quod inter prophetas computatur ex hoc quod spiritu prophetico praedixit futura, quamvis non ex persona Domini populo loqueretur, prosequitur *(Estler: *profert*.)* de divinitate Christi, ut quatuor prophetae quatuor evangelistis respondeant, vel etiam *(Estler: *autem*.)* de advocatione *(Estler: *advocato*.)* ad iudicium.  
 
 Agiographa et Apocrypha  
 
@@ -146,7 +146,7 @@ Tertia autem pars, quae continet agiographos et apocryphos libros, in duo distin
 
 Facto autem dupliciter.  
 
-Uno modo instruendo de futuro ad cautelam; et hoc est in Iosue, quem Hieronymus inter agiographos ponit. Quamvis enim propheta ex dono prophetiae esset, non tamen ex officio; quia non fuit a Domino missusEstler: *amissus*. ad prophetandum populo. Unde quod Sap. VIII dicitur,Estler: *dicit*. de eo intelligi potest: *signa et monstra scit antequam fiant*.  
+Uno modo instruendo de futuro ad cautelam; et hoc est in Iosue, quem Hieronymus inter agiographos ponit. Quamvis enim propheta ex dono prophetiae esset, non tamen ex officio; quia non fuit a Domino missus *(Estler: *amissus*.)* ad prophetandum populo. Unde quod Sap. VIII dicitur, *(Estler: *dicit*.)* de eo intelligi potest: *signa et monstra scit antequam fiant*.  
 
 Alio modo narrando ad exemplum virtutis praeterita. Virtutes autem principales sunt quattuor, scilicet:  
 
@@ -196,7 +196,7 @@ Origo autem gratiae Christus est, Ioan. I: *de plenitudine eius omnes accepimus,
 
 In Christo autem est considerare duplicem naturam, scilicet:  
 
-divinam: et de hocEstler: *hac*. est principaliter Evangelium Ioannis, unde incipit: *in principio erat Verbum et Verbum erat apud Deum, et Deus erat Verbum*;  
+divinam: et de hoc *(Estler: *hac*.)* est principaliter Evangelium Ioannis, unde incipit: *in principio erat Verbum et Verbum erat apud Deum, et Deus erat Verbum*;  
 
 et humanam: et de hac principaliter tractant alii evangelistae, qui distinguuntur secundum tres dignitates, quae Christo homini competunt.  
 
@@ -216,4 +216,4 @@ Primo Ecclesiae initium; et de hoc agitur in Actibus Apostolorum; unde dicit Hie
 
 Secundo Ecclesiae profectum; et ad hunc ordinatur instructio apostolica in epistolis canonicis.  
 
-Tertio Ecclesiae terminum; in quo totius Sacrae Scripturae continentiam Apocalypsis concludit, quousque sponsaEstler: *introducatur sponsa*. in thalamum Iesu Christi ad vitam gloriosam participandam; ad quam nos perducat ipse Iesus Christus, benedictus in saecula saeculorum. Amen.
+Tertio Ecclesiae terminum; in quo totius Sacrae Scripturae continentiam Apocalypsis concludit, quousque sponsa *(Estler: *introducatur sponsa*.)* in thalamum Iesu Christi ad vitam gloriosam participandam; ad quam nos perducat ipse Iesus Christus, benedictus in saecula saeculorum. Amen.

@@ -1,18 +1,18 @@
 # D. 16 - Parts of penance
 
-After the Master has examined penance in general, here he moves to the parts of penance; and this is divided into two parts: in the first, the parts of penance are distinguished; in the second, he raises certain questions comparing the parts of penance with each other, at Distinction 17: *here arises a manifold question*.*Sententiae* IV, 17.1 (92). 1.  
+After the Master has examined penance in general, here he moves to the parts of penance; and this is divided into two parts: in the first, the parts of penance are distinguished; in the second, he raises certain questions comparing the parts of penance with each other, at Distinction 17: *here arises a manifold question*. *(*Sententiae* IV, 17.1 (92). 1.)*  
 
-The first is in two parts: in the first, he distinguishes the parts that are, as it were, integral parts of penance, namely, contrition, confession, and satisfaction; in the second, he distinguishes the parts that are like subjective parts, at: *to the foregoing it must be added*, etc.*Sent*. IV, 16.3 (88). 1.  
+The first is in two parts: in the first, he distinguishes the parts that are, as it were, integral parts of penance, namely, contrition, confession, and satisfaction; in the second, he distinguishes the parts that are like subjective parts, at: *to the foregoing it must be added*, etc. *(*Sent*. IV, 16.3 (88). 1.)*  
 
-The first is in two parts: in the first, the parts of penance are distinguished; in the second, he teaches the manner of repenting according to those parts, at: *and so discretion is most necessary for the penitent*.*Sent*. IV, 16.2 (87). 1.  
+The first is in two parts: in the first, the parts of penance are distinguished; in the second, he teaches the manner of repenting according to those parts, at: *and so discretion is most necessary for the penitent*. *(*Sent*. IV, 16.2 (87). 1.)*  
 
-Concerning the first, he does two things: first, he shows the number of parts; second, he examines the individual parts in detail, at: *compunction is commended to us there*.*Sent*. IV, 16.1 (86). 3.  
+Concerning the first, he does two things: first, he shows the number of parts; second, he examines the individual parts in detail, at: *compunction is commended to us there*. *(*Sent*. IV, 16.1 (86). 3.)*  
 
-*And so discretion is most necessary for the penitent*. Here he shows the manner of repenting, and concerning this he does two things: first, he shows the manner of a worthy penance; second, the manner of a false one, at: *and just as there are worthy fruits of penance and true satisfaction, so there are unworthy fruits*.*Sent*. IV, 16.3 (88). 1.  
+*And so discretion is most necessary for the penitent*. Here he shows the manner of repenting, and concerning this he does two things: first, he shows the manner of a worthy penance; second, the manner of a false one, at: *and just as there are worthy fruits of penance and true satisfaction, so there are unworthy fruits*. *(*Sent*. IV, 16.3 (88). 1.)*  
 
-Concerning the first, he does three things: first, he assigns the manner of penance from the words of Augustine as to the contrition of the heart; second, as to the confession of the mouth, at: *let him beware lest, because of shame, he splits up his confession*;*Sent*. IV, 16.2 (87). 5 Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31. third, as to making satisfaction by the work of abstaining from sacred things and from illicit things, at: *let him beware, too, lest he come to the Lord’s body before he is strengthened by a good conscience*.*Sent*. VI, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31..  
+Concerning the first, he does three things: first, he assigns the manner of penance from the words of Augustine as to the contrition of the heart; second, as to the confession of the mouth, at: *let him beware lest, because of shame, he splits up his confession*; *(*Sent*. IV, 16.2 (87). 5 Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31.)* third, as to making satisfaction by the work of abstaining from sacred things and from illicit things, at: *let him beware, too, lest he come to the Lord’s body before he is strengthened by a good conscience*. *(*Sent*. VI, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31..)*  
 
-*To the foregoing it must be added*, etc. Here he assigns other subjective parts, as it were, of penance. And concerning this he does two things: first, he distinguishes them, second, he examines each of them in detail, and namely, the penance for venial sins, which involves a particular doubt, at: *as to what is sufficient for venial sins, Augustine indicates*.*Sent*. IV, 16.6 (91). 1.  
+*To the foregoing it must be added*, etc. Here he assigns other subjective parts, as it were, of penance. And concerning this he does two things: first, he distinguishes them, second, he examines each of them in detail, and namely, the penance for venial sins, which involves a particular doubt, at: *as to what is sufficient for venial sins, Augustine indicates*. *(*Sent*. IV, 16.6 (91). 1.)*  
 
 Here four questions arise. First, about the parts of penance. Second, about the remission of venial sins in this life, which pertains to one part of penance. Third, about the circumstances of sin, according to which the manner of penance should be formed. Fourth, of impediments to true penance.  
 
@@ -31,7 +31,7 @@ first, the parts of penance that are integral to it;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first we proceed thus.Parallel: *ST* III, q. 90, a. 1. It seems that penance does not have parts. For nothing simple has parts. But according to Ambrose, every sacrament is simple.This statement cannot be found in the works of Ambrose. Therefore, penance, since it is a sacrament, does not have parts.  
+Obj. 1: To the first we proceed thus. *(Parallel: *ST* III, q. 90, a. 1.)* It seems that penance does not have parts. For nothing simple has parts. But according to Ambrose, every sacrament is simple. *(This statement cannot be found in the works of Ambrose.)* Therefore, penance, since it is a sacrament, does not have parts.  
 
 Obj. 2: Furthermore, baptism is more manifold in power than penance: for it completely takes away original and actual sin as to guilt and punishment, which is not true of penance. Therefore, since parts are not assigned to baptism, neither should parts be assigned to penance.  
 
@@ -43,7 +43,7 @@ Furthermore (2), spiritual sickness should be more carefully healed than physica
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that these three parts are inappropriately assigned to it: namely, contrition, confession, and satisfaction.Parallels: below, d. 17, q. 3, a. 3, qa. 4; d. 22, q. 2, a. 1, qa. 2, ad 3; *ST* III, q. 90, a. 2; *SCG* IV, ch. 72; *de Eccles. sacram*. For every part of a sacrament is conferred by ministers of the Church. But no minister of the Church confers contrition on a penitent. Therefore, it is not a part of the sacrament of penance.  
+Obj. 1: Moreover, it seems that these three parts are inappropriately assigned to it: namely, contrition, confession, and satisfaction. *(Parallels: below, d. 17, q. 3, a. 3, qa. 4; d. 22, q. 2, a. 1, qa. 2, ad 3; *ST* III, q. 90, a. 2; *SCG* IV, ch. 72; *de Eccles. sacram*.)* For every part of a sacrament is conferred by ministers of the Church. But no minister of the Church confers contrition on a penitent. Therefore, it is not a part of the sacrament of penance.  
 
 Obj. 2: Furthermore, sin is forgiven by the sacrament of penance. But sometimes sin is forgiven before confession, as the Master shows below, in the following distinction. Therefore, confession is not a part of penance.  
 
@@ -53,7 +53,7 @@ Obj. 4: Furthermore, the fruit of a thing and its part are not the same. But sat
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that they are subjective parts.Parallel: *ST* III, q. 90, a. 3. For those parts of penance, as is clear from the text, are taken according to the sins of the heart, the mouth, and works. But these are the subjective parts of sin. Therefore, any parts assigned to penance are also subjective parts of it.  
+Obj. 1: Moreover, it seems that they are subjective parts. *(Parallel: *ST* III, q. 90, a. 3.)* For those parts of penance, as is clear from the text, are taken according to the sins of the heart, the mouth, and works. But these are the subjective parts of sin. Therefore, any parts assigned to penance are also subjective parts of it.  
 
 Obj. 2: Furthermore, the complete whole does not result from its part, for it does not follow that if there is a wall, there is a house. But penance results from every one of the parts assigned: for it follows that a person who is contrite repents therefore; and similarly with the others. Therefore, they are not integral parts, but subjective ones.  
 
@@ -65,7 +65,7 @@ Furthermore (2), no individual thing has subjective parts; for example, one anim
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it seems that they are also parts of the virtue of penance.Parallel: *ST* III, q. 90, aa. 1–2. As it says in the *Ethics* 10,Aristotle, *Nicomachean Ethics*, Bk. 10, ch. 8, 1178a34–35. for the perfection of moral virtue an inward and an outward act is required. But penance is a moral virtue, since it is a part of justice. Therefore, for its perfection there is an interior contrition, and a confession, and an outward satisfaction; and these are also the parts of the sacrament of penance.  
+Obj. 1: Moreover, it seems that they are also parts of the virtue of penance. *(Parallel: *ST* III, q. 90, aa. 1–2.)* As it says in the *Ethics* 10, *(Aristotle, *Nicomachean Ethics*, Bk. 10, ch. 8, 1178a34–35.)* for the perfection of moral virtue an inward and an outward act is required. But penance is a moral virtue, since it is a part of justice. Therefore, for its perfection there is an interior contrition, and a confession, and an outward satisfaction; and these are also the parts of the sacrament of penance.  
 
 Obj. 2: Furthermore, satisfaction is the act of a certain virtue, and that virtue is none but penance; and likewise with the other acts. Therefore, they are parts of the virtue of repentance, not only the sacrament of penance.  
 
@@ -73,7 +73,7 @@ Obj. 3: Furthermore, justice requires that someone be punished by the same thing
 
 On the contrary (1), an act is not a part of a habit. But the virtue of penance is a habit, while these three things are acts. Therefore, they are not parts of the virtue of repentance.  
 
-Furthermore (2), the subject of virtue is the mind, according to Augustine.See the note at d. 14, q. 1, a. 1, qa. 1, obj. 1, for a discusssion of the “Augustinian” definition of virtue. But confession is not in the mind as its subject, and likewise neither is satisfaction. Therefore, they are not parts of the virtue of repentance.  
+Furthermore (2), the subject of virtue is the mind, according to Augustine. *(See the note at d. 14, q. 1, a. 1, qa. 1, obj. 1, for a discusssion of the “Augustinian” definition of virtue.)* But confession is not in the mind as its subject, and likewise neither is satisfaction. Therefore, they are not parts of the virtue of repentance.  
 
 Response to Quaestiuncula 1  
 
@@ -83,7 +83,7 @@ Reply Obj. 1: There is some doubt about that citation, whether it is from Ambros
 
 Reply Obj. 2: Parts are not assigned to penance with regard to sacramental power, but with regard to what is material in it. Now in baptism the mater is an external thing, in which there is only one existing thing to consider. And so parts are not assigned to baptism, for although there is a certain act of ours in baptism, it is not of the essence of baptism, but a disposition to baptism.  
 
-Reply Obj. 3: Good, according to Dionysius, is caused by a single and integral cause; but evil arises from individual lacks.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 30 (PG 3:730). And so, for the completeness of sin it is enough for a failing to be found in any step of a human act. And because of this, nothing like integral parts are assigned to sin, as to penance, which repairs the good lost.  
+Reply Obj. 3: Good, according to Dionysius, is caused by a single and integral cause; but evil arises from individual lacks. *(Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 30 (PG 3:730).)* And so, for the completeness of sin it is enough for a failing to be found in any step of a human act. And because of this, nothing like integral parts are assigned to sin, as to penance, which repairs the good lost.  
 
 Response to Quaestiuncula 2  
 
@@ -139,19 +139,19 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second question we proceed thus.Parallel: *ST* III, q. 90, a. 4. It seems that the penance that precedes baptism should not be included as a part of penance. For baptism is the door to all the sacraments, and penance is called the second plank in relation to baptism. But the second is not before the first. Therefore, penance is not something before baptism.  
+Obj. 1: To the second question we proceed thus. *(Parallel: *ST* III, q. 90, a. 4.)* It seems that the penance that precedes baptism should not be included as a part of penance. For baptism is the door to all the sacraments, and penance is called the second plank in relation to baptism. But the second is not before the first. Therefore, penance is not something before baptism.  
 
 Obj. 2: Furthermore, the actions of a certain nature do not belong to someone who has not been generated in that nature. But baptism is a kind of generation into spiritual life. Therefore, no action of the spiritual life pertains to someone who is not baptized. But penance is this kind of action, since it is a sacrament. Therefore, it cannot belong to someone before baptism.  
 
 Obj. 3: Furthermore, penance is ordered only against fault. But actual fault is sufficiently washed away in baptism. Therefore, penance does not need to precede baptism.  
 
-On the contrary (1), commenting upon the text, *then the people of Jerusalem and all Judea were going out to him* (Matt 3:5), the Gloss says, *then the example was given to those to be baptized of confessing their sins, and promising better things*.*Glossa*, PL 114:79. But this belongs to penance. Therefore, before baptism there should be penance.  
+On the contrary (1), commenting upon the text, *then the people of Jerusalem and all Judea were going out to him* (Matt 3:5), the Gloss says, *then the example was given to those to be baptized of confessing their sins, and promising better things*. *(*Glossa*, PL 114:79.)* But this belongs to penance. Therefore, before baptism there should be penance.  
 
-Furthermore (2), commenting on Psalm 4:4: *the things you say in your hearts, be sorry for them upon your beds*, the Gloss says, *so that when the old man has been destroyed through penance, we may offer the sacrifice of justice by the regeneration of the new man*.*Glossa*, PL 113:849. But regeneration pertains to baptism. Therefore, there is a penance that is before baptism.  
+Furthermore (2), commenting on Psalm 4:4: *the things you say in your hearts, be sorry for them upon your beds*, the Gloss says, *so that when the old man has been destroyed through penance, we may offer the sacrifice of justice by the regeneration of the new man*. *(*Glossa*, PL 113:849.)* But regeneration pertains to baptism. Therefore, there is a penance that is before baptism.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that penance before baptism is not only about actual sin, but also about original sin. For in his book *On Penance*, Augustine says, speaking about the penance before baptism, *except for children, no one passes into Christ unless he begins to be what he was not, unless he repents of what he was*.Augustine, *Sermon* 351, ch. 2 (PL 39:1537). But everyone was infected not only with actual sin, but also with original sin: for unless this was the infection he was speaking about, he would not have excepted children, who have no other infection. Therefore, there should be penance for original sin before baptism.  
+Obj. 1: Moreover, it seems that penance before baptism is not only about actual sin, but also about original sin. For in his book *On Penance*, Augustine says, speaking about the penance before baptism, *except for children, no one passes into Christ unless he begins to be what he was not, unless he repents of what he was*. *(Augustine, *Sermon* 351, ch. 2 (PL 39:1537).)* But everyone was infected not only with actual sin, but also with original sin: for unless this was the infection he was speaking about, he would not have excepted children, who have no other infection. Therefore, there should be penance for original sin before baptism.  
 
 Obj. 2: Furthermore, the penitent bears his own punishment, so that he will avoid the one to be inflicted on him by God. But for original sin a punishment is inflicted by God. Therefore he should do penance for it.  
 
@@ -163,19 +163,19 @@ Furthermore (2), medicine should correspond to the sickness. But original sin is
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that after baptism no penance should be distinguished for venial sins.Parallel: *ST* III, q. 90, a. 4. For it is superfluous to do by many things what can be done by one. But venial sin is healed by the Eucharist. Therefore, it is superfluous that penance is ordered toward healing it.  
+Obj. 1: Moreover, it seems that after baptism no penance should be distinguished for venial sins. *(Parallel: *ST* III, q. 90, a. 4.)* For it is superfluous to do by many things what can be done by one. But venial sin is healed by the Eucharist. Therefore, it is superfluous that penance is ordered toward healing it.  
 
 Obj. 2: Furthermore, for things that are not in our power, penance is not required. But it is not in our power to avoid venial sins: for no one can avoid all venial sins. Therefore, there is no penance for venial sins.  
 
-Obj. 3: Furthermore, there are different medicines for different diseases, for according to Jerome, *what heals the heel does not heal the eye*.Pseudo-Jerome, *Exposition of the Gospel of Mark*, on 9:28 (CCSL 82:42). But penance is a remedy against mortal sin. Therefore, since venial sin differs infinitely from mortal sin, as the penalty shows, it seems that it is not ordered against venial sin, but against mortal.  
+Obj. 3: Furthermore, there are different medicines for different diseases, for according to Jerome, *what heals the heel does not heal the eye*. *(Pseudo-Jerome, *Exposition of the Gospel of Mark*, on 9:28 (CCSL 82:42).)* But penance is a remedy against mortal sin. Therefore, since venial sin differs infinitely from mortal sin, as the penalty shows, it seems that it is not ordered against venial sin, but against mortal.  
 
 On the contrary (1), what can do something greater can also do something lesser. But penance destroys mortal sin, which is more difficult. Therefore, it also destroys venial sin.  
 
-Furthermore (2), according to Augustine *penance is someone punishing himself in retribution for what he regrets having committed*.Pseudo-Augustine, *On True and False Repentance*, ch. 8 (PL 40:1120). But someone should regret committing venial sins and punish these in himself. Therefore, there is a penance for venial sins.  
+Furthermore (2), according to Augustine *penance is someone punishing himself in retribution for what he regrets having committed*. *(Pseudo-Augustine, *On True and False Repentance*, ch. 8 (PL 40:1120).)* But someone should regret committing venial sins and punish these in himself. Therefore, there is a penance for venial sins.  
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it seems that we are bound to do penance for venial sins.Parallel: *ST* III, q. 90, a. 4. For just as a man is bound to strive for glory, in the same way he is bound to remove an impediment to glory. But a man cannot attain glory unless his venial sins are forgiven. Therefore, since they cannot be forgiven without penance, it seems that a man is bound to do penance for venial sins.  
+Obj. 1: Moreover, it seems that we are bound to do penance for venial sins. *(Parallel: *ST* III, q. 90, a. 4.)* For just as a man is bound to strive for glory, in the same way he is bound to remove an impediment to glory. But a man cannot attain glory unless his venial sins are forgiven. Therefore, since they cannot be forgiven without penance, it seems that a man is bound to do penance for venial sins.  
 
 Obj. 2: Furthermore, certain venial sins are done with mortal consent: for consenting to the enjoyment of mortal sin is a mortal sin. But a man is bound to avoid mortal sin. Therefore, he is bound to dissent from venial sin sometimes. But dissenting from sin belongs to penance. Therefore, a man is bound to do penance for venial sin sometimes.  
 
@@ -183,9 +183,9 @@ On the contrary, no one is bound to undo deeds done that he was not bound to avo
 
 Quaestiuncula 5  
 
-Obj. 1: Moreover, it seems that those three parts are not sufficient.Parallel: *ST* III, q. 90, a. 3. For just as mortal and venial sins are committed after baptism, so also before baptism. But after baptism the penances for mortal and venial sins are distinguished from each other. Therefore, also before baptism; and so there are four parts.  
+Obj. 1: Moreover, it seems that those three parts are not sufficient. *(Parallel: *ST* III, q. 90, a. 3.)* For just as mortal and venial sins are committed after baptism, so also before baptism. But after baptism the penances for mortal and venial sins are distinguished from each other. Therefore, also before baptism; and so there are four parts.  
 
-Obj. 2: Furthermore, punishment is farther from fault than venial sin is from mortal. But it is necessary to do penance for the punishments of this present misery, as Augustine says in his book *On Penance*.Augustine, *Sermon* 351, PL 39:1537. Therefore, since the penance for venial sins is distinguished from the penance for mortal sins, there should also be a distinction between the penance by which we repent of the punishments of earthly pilgrimage, and the penance for venial sins.  
+Obj. 2: Furthermore, punishment is farther from fault than venial sin is from mortal. But it is necessary to do penance for the punishments of this present misery, as Augustine says in his book *On Penance*. *(Augustine, *Sermon* 351, PL 39:1537.)* Therefore, since the penance for venial sins is distinguished from the penance for mortal sins, there should also be a distinction between the penance by which we repent of the punishments of earthly pilgrimage, and the penance for venial sins.  
 
 Obj. 3: Furthermore, solemn penance is a certain mode of penance, as was said above, Distinction 14, Question 1, Article 5. Therefore, since he did not make mention of it, it seems the parts are insufficiently listed.  
 
@@ -256,7 +256,7 @@ first, the mode of remission;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first we proceed thus.Parallel: *ST* III, q. 87, a. 1. It seems that venial sin can be forgiven while the will is still set on it. For the willing of venial sin does not exclude grace. But there is no venial sin that grace cannot forgive, since mortal sin, which is much more difficult, is forgiven by the power of grace. Therefore, venial sin can be forgiven while the will is still set on it.  
+Obj. 1: To the first we proceed thus. *(Parallel: *ST* III, q. 87, a. 1.)* It seems that venial sin can be forgiven while the will is still set on it. For the willing of venial sin does not exclude grace. But there is no venial sin that grace cannot forgive, since mortal sin, which is much more difficult, is forgiven by the power of grace. Therefore, venial sin can be forgiven while the will is still set on it.  
 
 Obj. 2: Furthermore, as mortal sin is opposed to charity, so is venial sin opposed to the fervor of charity. But what is compatible with charity does not impede the remission of mortal sin. Therefore, since the fervor of charity is compatible with a will permanently in venial sin, it seems that it can forgive venial sin in someone who has a will still clinging to it.  
 
@@ -268,7 +268,7 @@ Furthermore (2), the affection for an act has the nature of sin, just as so does
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that one venial sin cannot be remitted without another.Parallel: *ST* III, q. 87, a. 3, ad 2. For just as was said in the preceding distinction, anyone the Lord cured, he freed in every way. But no one can be forgiven venial sin unless the Lord cures him. Therefore, if he is absolved from one venial sin, he is absolved from all.  
+Obj. 1: Moreover, it seems that one venial sin cannot be remitted without another. *(Parallel: *ST* III, q. 87, a. 3, ad 2.)* For just as was said in the preceding distinction, anyone the Lord cured, he freed in every way. But no one can be forgiven venial sin unless the Lord cures him. Therefore, if he is absolved from one venial sin, he is absolved from all.  
 
 Obj. 2: Furthermore, venial sin adheres more than mortal, which is why venial sin remains when the mortal sin has been forgiven. But one mortal sin cannot be remitted unless all others are. Therefore, neither can one venial sin be remitted without the others.  
 
@@ -278,13 +278,13 @@ On the contrary, it takes more grace to remit mortal sin than venial. But one ve
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that venial sin can be remitted without mortal sin being forgiven.Parallel: *ST* III, q. 87, a. 4. For commenting on the text, *whoever is without sin among you, let him cast the first stone* (John 8:7), Augustine says that *all of them were in mortal sin, for venial sin was forgiven them by their ceremonies*.Pseudo-Augustine, *On True and False Repentance*, ch. 20, PL 40:1129. Therefore, venial sin can be forgiven without mortal sin being forgiven.  
+Obj. 1: Moreover, it seems that venial sin can be remitted without mortal sin being forgiven. *(Parallel: *ST* III, q. 87, a. 4.)* For commenting on the text, *whoever is without sin among you, let him cast the first stone* (John 8:7), Augustine says that *all of them were in mortal sin, for venial sin was forgiven them by their ceremonies*. *(Pseudo-Augustine, *On True and False Repentance*, ch. 20, PL 40:1129.)* Therefore, venial sin can be forgiven without mortal sin being forgiven.  
 
 Obj. 2: Furthermore, mortal and venial sin are divided against each other. But mortal sin can be forgiven without venial. Therefore, venial sin can be forgiven without mortal.  
 
-Obj. 3: Furthermore, for sin that was sufficiently punished, no other penalty is owed: for God does not take a double vengeance.See Nahum 1:9 (LXX). But someone who has mortal sin can sufficiently punish venial sin in himself, since a finite penalty is owed for it. Therefore, it will not be kept further for punishment. But a person is never absolved from the debt of punishment unless he is first absolved from his guilt; otherwise unordered guilt would remain unpunished. Therefore, while mortal sin remains, venial sin can be remitted.  
+Obj. 3: Furthermore, for sin that was sufficiently punished, no other penalty is owed: for God does not take a double vengeance. *(See Nahum 1:9 (LXX).)* But someone who has mortal sin can sufficiently punish venial sin in himself, since a finite penalty is owed for it. Therefore, it will not be kept further for punishment. But a person is never absolved from the debt of punishment unless he is first absolved from his guilt; otherwise unordered guilt would remain unpunished. Therefore, while mortal sin remains, venial sin can be remitted.  
 
-On the contrary, Gregory says that venial sin overshadows the mind, but mortal sin completely darkens it.See Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 4, pars. 4–5, 16, and vicinity. But shadows are only removed by light. Now the spiritual light is grace, which also clears away mortal sin. Therefore, venial sin cannot be forgiven without the remission of mortal sin.  
+On the contrary, Gregory says that venial sin overshadows the mind, but mortal sin completely darkens it. *(See Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 4, pars. 4–5, 16, and vicinity.)* But shadows are only removed by light. Now the spiritual light is grace, which also clears away mortal sin. Therefore, venial sin cannot be forgiven without the remission of mortal sin.  
 
 Response to Quaestiuncula 1  
 
@@ -296,7 +296,7 @@ Reply Obj. 2: Any mortal sin whatsoever is opposed to any little charity; but no
 
 And thus not all fervor is opposed to every venial sin, which is why the comparison of mortal sin and charity to venial sin and the fervor of charity is not the same.  
 
-Reply Obj. 3: The will that was fixed on something is only removed from it by actual assent, if it occurs to the memory; otherwise a habitual assent suffices,Moos notes that St. Thomas later disagreed with this point. At *ST* III, q. 87, a. 1, Thomas writes: “For the remission of venial sins, habitual displeasure does not suffice.” as also happens with mortal sins that, though forgotten, are forgiven.  
+Reply Obj. 3: The will that was fixed on something is only removed from it by actual assent, if it occurs to the memory; otherwise a habitual assent suffices, *(Moos notes that St. Thomas later disagreed with this point. At *ST* III, q. 87, a. 1, Thomas writes: “For the remission of venial sins, habitual displeasure does not suffice.”)* as also happens with mortal sins that, though forgotten, are forgiven.  
 
 Response to Quaestiuncula 2  
 
@@ -332,7 +332,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second we proceed thus.Parallels: below, d. 21, q. 2, a. 1; *ST* III, q. 87, a. 2; a. 4, ad 2; *de Malo,* q. 7, a. 11. It seems that venial sin cannot be forgiven without an infusion of new grace. For when the act of venial sin passes, the guilt remains in the soul. But the guilt is founded on a stain. Therefore, since a stain cannot be wiped away from the soul by anything but grace, just as neither can darkness be driven out by anything but light, it seems that venial sin cannot be forgiven without an infusion of grace.  
+Obj. 1: To the second we proceed thus. *(Parallels: below, d. 21, q. 2, a. 1; *ST* III, q. 87, a. 2; a. 4, ad 2; *de Malo,* q. 7, a. 11.)* It seems that venial sin cannot be forgiven without an infusion of new grace. For when the act of venial sin passes, the guilt remains in the soul. But the guilt is founded on a stain. Therefore, since a stain cannot be wiped away from the soul by anything but grace, just as neither can darkness be driven out by anything but light, it seems that venial sin cannot be forgiven without an infusion of grace.  
 
 Obj. 2: Furthermore, venial sin consists in the fact that God is loved less than he should be. But this lessening can only be removed by an increase in charity, which only happens by a new sending of the Holy Spirit, as was said in Book I, Distinction 15, Question 5, Article 1, Subquestion 2; and consequently a new grace. Therefore, venial sin cannot be remitted without an infusion of grace.  
 
@@ -340,7 +340,7 @@ On the contrary, the addition of new grace increases the grace that was already 
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that venial sin can be remitted by grace without contrition.Parallels: *ST* III, q. 87, a. 3. For as Gregory says, what water is to a furnace, venial sin is to the fervor of charity.See Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 16, par. 67. But the fervor of charity can exist without contrition: for someone can be fervently converted to God, and nevertheless, not grieve for his sins, which is to have contrition. Therefore, venial sin can be forgiven without contrition.  
+Obj. 1: Moreover, it seems that venial sin can be remitted by grace without contrition. *(Parallels: *ST* III, q. 87, a. 3.)* For as Gregory says, what water is to a furnace, venial sin is to the fervor of charity. *(See Gregory the Great, *Moralia in Iob* (CCSL 143A), Bk. 16, par. 67.)* But the fervor of charity can exist without contrition: for someone can be fervently converted to God, and nevertheless, not grieve for his sins, which is to have contrition. Therefore, venial sin can be forgiven without contrition.  
 
 Obj. 2: Furthermore, contrition does not only denote sorrow for past sins, but also the resolution of not sinning again. But venial sins are forgiven someone who does not have such a resolution, since he knows that he cannot lead the present life without venial sin. Therefore, venial sin can be forgiven without contrition.  
 
@@ -350,17 +350,17 @@ On the contrary, if grace could forgive venial sin without anything attached to 
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that a man is also bound to confess his venial sins: *confess your sins to one another* (Jas 5:16), where the command of confession is given, as it says in the text.Parallels: below, q. 3, a. 2, qa. 5; d. 17, q. 3, a. 3, qa. 3. But according to the Gloss, it speaks about the confession of venial and mortal sins; for it says that *the greater should be confessed to priests alone, but the lesser may be confessed to one’s companions*.The *Gloss*, that is, of Bede; PL 13:40. Therefore, we are bound to confess venial sins.  
+Obj. 1: Moreover, it seems that a man is also bound to confess his venial sins: *confess your sins to one another* (Jas 5:16), where the command of confession is given, as it says in the text. *(Parallels: below, q. 3, a. 2, qa. 5; d. 17, q. 3, a. 3, qa. 3.)* But according to the Gloss, it speaks about the confession of venial and mortal sins; for it says that *the greater should be confessed to priests alone, but the lesser may be confessed to one’s companions*. *(The *Gloss*, that is, of Bede; PL 13:40.)* Therefore, we are bound to confess venial sins.  
 
 Obj. 2: Furthermore, a man is bound to make satisfaction for venial sins: for satisfaction is an act of justice, but we are bound to acts of justice. But satisfaction should be made according to the judgment of the priest, who holds the place of God; but this can only be done if one first confesses. Therefore, a man is bound to confess venial sins.  
 
-Obj. 3: Furthermore, it is a command of the Church that *a man confess at least once per year*.As dictated by Canon 21 of the Fourth Lateran Council, “Omnis utriusque sexus.” But some people have only venial sins. Therefore, they are bound to confess those.  
+Obj. 3: Furthermore, it is a command of the Church that *a man confess at least once per year*. *(As dictated by Canon 21 of the Fourth Lateran Council, “Omnis utriusque sexus.”)* But some people have only venial sins. Therefore, they are bound to confess those.  
 
 On the contrary, no one is bound to the impossible. But to confess all venial sins is impossible, since they escape our awareness. Therefore we are not bound to confess them.  
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it seems that by a bishop’s blessing, holy water, and things like that, venial sin cannot be forgiven.Parallels: *ST* III, q. 87, a. 3; *de Malo*, q. 7, a. 12. For something comes to be and corrupts from the same causes, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b7. But venial sin is caused by our acts. Therefore, it is necessary that there be something in us by which it is remitted, and so since those things are external, venial sin cannot be remitted by them.  
+Obj. 1: Moreover, it seems that by a bishop’s blessing, holy water, and things like that, venial sin cannot be forgiven. *(Parallels: *ST* III, q. 87, a. 3; *de Malo*, q. 7, a. 12.)* For something comes to be and corrupts from the same causes, as it says in the *Ethics* 2. *(Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 1, 1103b7.)* But venial sin is caused by our acts. Therefore, it is necessary that there be something in us by which it is remitted, and so since those things are external, venial sin cannot be remitted by them.  
 
 Obj. 2: Furthermore, venial sin, as was said, is not remitted without contrition. But contrition suffices in itself for its remission. Therefore, none of the things mentioned work to its forgiveness.  
 
@@ -421,33 +421,33 @@ first, about the circumstances in themselves;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first question we proceed thus.Parallels: *ST* I-II, q. 7, a. 1; q. 18, a. 3. It seems that circumstances are not properties of a moral act, or conditions of one. For Boethius says in his commentary on the *Topics* 4 that *circumstances are that which make fitting the substance of the rhetorical question*.Boethius, *de Topicis differentiis* (ed. Nikitas), Bk. 4, ch. 10, par. 1. But a rhetorical question does not pertain to the genus of morals, but rather to the genus of rational philosophy. Therefore, circumstances are not the condition of a moral act.  
+Obj. 1: To the first question we proceed thus. *(Parallels: *ST* I-II, q. 7, a. 1; q. 18, a. 3.)* It seems that circumstances are not properties of a moral act, or conditions of one. For Boethius says in his commentary on the *Topics* 4 that *circumstances are that which make fitting the substance of the rhetorical question*. *(Boethius, *de Topicis differentiis* (ed. Nikitas), Bk. 4, ch. 10, par. 1.)* But a rhetorical question does not pertain to the genus of morals, but rather to the genus of rational philosophy. Therefore, circumstances are not the condition of a moral act.  
 
 Obj. 2: Furthermore, what is surrounding something is not in it. But the condition of a moral act is in it. Therefore such a condition cannot be called circumstances, ‘what stands around.’  
 
-Obj. 3: Furthermore, moral acts themselves are a kind of circumstance by which a rhetorician’s speech is strengthened; for *it is circumstances*, according to Cicero, *from which argumentation takes its trust and authority, and a speech adds support*.This seems to be a misquotation. The text of Cicero reads: “Confirmatio est, per quam argumentando nostrae causae fidem et auctoritatem et firmamentum adiungit oratio” (*de Inventione* [Teubner, ed. Stroebel], Bk. 1, ch. 24, par. 34, p. 31. But circumstances do not have their own circumstances, just as neither do accidents have their own accidents; otherwise it would go on infinitely. Therefore, circumstances are not a condition or property of a moral act.  
+Obj. 3: Furthermore, moral acts themselves are a kind of circumstance by which a rhetorician’s speech is strengthened; for *it is circumstances*, according to Cicero, *from which argumentation takes its trust and authority, and a speech adds support*. *(This seems to be a misquotation. The text of Cicero reads: “Confirmatio est, per quam argumentando nostrae causae fidem et auctoritatem et firmamentum adiungit oratio” (*de Inventione* [Teubner, ed. Stroebel], Bk. 1, ch. 24, par. 34, p. 31.)* But circumstances do not have their own circumstances, just as neither do accidents have their own accidents; otherwise it would go on infinitely. Therefore, circumstances are not a condition or property of a moral act.  
 
 On the contrary (1), ignorance of the circumstances excuses a moral act from sin. But this would not be the case unless they were conditions of a moral act. Therefore, they are conditions or properties of a moral act.  
 
-Furthermore (2), the mean of virtue pertains to the genus of morals. But the mean in moral virtues is taken according to the due limitation of the circumstances, like when it is appropriate, and where, and how, as the Philosopher teaches in the *Ethics* 3.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a3–5. Therefore, they are conditions of a moral act.  
+Furthermore (2), the mean of virtue pertains to the genus of morals. But the mean in moral virtues is taken according to the due limitation of the circumstances, like when it is appropriate, and where, and how, as the Philosopher teaches in the *Ethics* 3. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a3–5.)* Therefore, they are conditions of a moral act.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that the circumstances were unfittingly enumerated in this verse: *who, what, where, by what means, why, how, when*.Parallels: *ST* I-II, q. 7, a. 2; *de Malo*, q. 2, a. 6; *Super III Ethic*., lec. 3. For that which is the cause of a thing cannot be its circumstances, because the cause is prior while the circumstances come after, like properties. But the acting person (who is referred to when it says *who*) is the cause of a moral act. Therefore, he should not be included as a circumstance.  
+Obj. 1: Moreover, it seems that the circumstances were unfittingly enumerated in this verse: *who, what, where, by what means, why, how, when*. *(Parallels: *ST* I-II, q. 7, a. 2; *de Malo*, q. 2, a. 6; *Super III Ethic*., lec. 3.)* For that which is the cause of a thing cannot be its circumstances, because the cause is prior while the circumstances come after, like properties. But the acting person (who is referred to when it says *who*) is the cause of a moral act. Therefore, he should not be included as a circumstance.  
 
 Obj. 2: Furthermore, the same thing cannot be the circumstance of itself. But *what* denotes the substance of a moral act, whose circumstances are being considered. Therefore, it should not be counted among the circumstances.  
 
-Obj. 3: Furthermore, the same thing cannot be the circumstance of a thing and what gives that thing its species, for that is intrinsic to the thing. But moral acts receive their species from their end; which is why Ambrose says, *the intention imposes the name on your work*.This appears to be a misquotation, as Ambrose writes: “Adfectus tuus nomen imponit operi tuo: quomodo a te proficiscitur sic aestimatur” (*de Officiis* [CCSL 15], Bk. 1, ch. 30, par. 147, p. 53). Therefore, *why*, which denotes the end, should not be called a circumstance.  
+Obj. 3: Furthermore, the same thing cannot be the circumstance of a thing and what gives that thing its species, for that is intrinsic to the thing. But moral acts receive their species from their end; which is why Ambrose says, *the intention imposes the name on your work*. *(This appears to be a misquotation, as Ambrose writes: “Adfectus tuus nomen imponit operi tuo: quomodo a te proficiscitur sic aestimatur” (*de Officiis* [CCSL 15], Bk. 1, ch. 30, par. 147, p. 53).)* Therefore, *why*, which denotes the end, should not be called a circumstance.  
 
 Obj. 4: Furthermore, what contains other things should not be enumerated with them. But in the mode, all the other circumstances are included. Therefore, *how* should not be included among the other circumstances.  
 
-On the contrary (5), it seems that there are more circumstances. For the Philosopher in the *Ethics* 3 includes *concerning what* and *with what instrument*.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a4–5. Now these things are not contained in the verse. Therefore, it seems they are insufficiently numbered.  
+On the contrary (5), it seems that there are more circumstances. For the Philosopher in the *Ethics* 3 includes *concerning what* and *with what instrument*. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a4–5.)* Now these things are not contained in the verse. Therefore, it seems they are insufficiently numbered.  
 
 Furthermore (6), they are called circumstances because of this, that the mean of virtue varies according to them. But the mean of virtue varies according to how much and how often. Therefore, they are circumstances. Therefore, since these are not contained in the verse mentioned, it seems that the circumstances are insufficiently enumerated.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that the circumstances that Augustine names in the text are inappropriately listed.Parallels: *ST* I-II, q. 7, a. 2; *de Malo*, q. 2, a. 6. For circumstances, as was said, are the condition of a moral act. But the fact that someone continues a long time in sin has more to do with the state of the sinner than the act. Therefore, it should not be called a circumstance.  
+Obj. 1: Moreover, it seems that the circumstances that Augustine names in the text are inappropriately listed. *(Parallels: *ST* I-II, q. 7, a. 2; *de Malo*, q. 2, a. 6.)* For circumstances, as was said, are the condition of a moral act. But the fact that someone continues a long time in sin has more to do with the state of the sinner than the act. Therefore, it should not be called a circumstance.  
 
 Obj. 2: Furthermore, an attack or previous temptation is sometimes not in our power, namely, when the temptation comes from the Enemy. But circumstances, since they are conditions of a moral act, are in our power as it seems. Therefore, how much temptation befell someone should not be included among the circumstances.  
 
@@ -455,7 +455,7 @@ Obj. 3: Furthermore, punishment consequent on sin is not a circumstance of sin. 
 
 Obj. 4: Furthermore, one sin is not the circumstance of another. But ingratitude is a sin in itself. Therefore, it should not be included as a circumstance of sin.  
 
-Obj. 5: Furthermore, those circumstances are not included by the Philosopher in the *Ethics* 3, nor by Cicero in his *Rhetoric*, nor by Boethius in the *Topics* 4.See the preceding citations for these passages. Therefore it seems they are unfittingly listed by Augustine.  
+Obj. 5: Furthermore, those circumstances are not included by the Philosopher in the *Ethics* 3, nor by Cicero in his *Rhetoric*, nor by Boethius in the *Topics* 4. *(See the preceding citations for these passages.)* Therefore it seems they are unfittingly listed by Augustine.  
 
 Response to Quaestiuncula 1  
 
@@ -477,11 +477,11 @@ Reply Obj. 1: Those circumstances that are taken on the part of the agent have m
 
 Reply Obj. 2: Certain acts are good or bad by their genus, and so the circumstances of a moral act can be taken from the very genus of the act. Now that by which the act is placed in such and such a genus, although it is of the substance of it inasmuch as it is in the genus of the moral, yet it is outside its substance if the very substance of the act is considered absolutely; and so certain acts are the same in natural species that differ in moral species, like fornication and the marital act.  
 
-Reply Obj. 3: The end is two-fold, namely, the last end and the proximate end. Now the last end cannot be included as a circumstance, because all circumstances are taken in proportion to it. The proximate end is also two-fold. There is a certain one that is the work’s end, in accord with which the Philosopher says in the *Ethics* 2Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 6, 1107a9. that some works are joined to a bad end, and this end gives the act its species. Hence either this is not a circumstance, if the moral genus alone is considered; or in reference to the very substance of the act, it is included in the circumstance *what*. Now the other end is the end of agent, who sometimes intends good from a bad act, or vice versa; and this end is called the circumstance *why*. Now, the act does not receive its proper species from this, but something like a common species, according as acts commanded take on the species of the virtue or vice that commands them above the species that they have from the habit eliciting them.  
+Reply Obj. 3: The end is two-fold, namely, the last end and the proximate end. Now the last end cannot be included as a circumstance, because all circumstances are taken in proportion to it. The proximate end is also two-fold. There is a certain one that is the work’s end, in accord with which the Philosopher says in the *Ethics* 2 *(Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 6, 1107a9.)* that some works are joined to a bad end, and this end gives the act its species. Hence either this is not a circumstance, if the moral genus alone is considered; or in reference to the very substance of the act, it is included in the circumstance *what*. Now the other end is the end of agent, who sometimes intends good from a bad act, or vice versa; and this end is called the circumstance *why*. Now, the act does not receive its proper species from this, but something like a common species, according as acts commanded take on the species of the virtue or vice that commands them above the species that they have from the habit eliciting them.  
 
 Reply Obj. 4: The mode of a thing is in the thing itself as a result of its substance. And since some circumstances are taken from what is outside a thing, but some from the very species of the act (which two things do not pertain to the mode); for this reason not every other circumstance is included in mode, if mode is taken properly.  
 
-Reply Obj. 5: In the *Ethics* 3,Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a3–5. the Philosopher also assigns seven circumstances, but his designation differs from the designation given in two things. First, because the Philosopher includes two circumstances, *what* and *concerning what*, which are included as one in Cicero’s designation, because the object called *concerning what* gives a rationale to the act that is called *what*. But the Philosopher distinguishes them, for besides the whole account of the object which gives its species to the act, special conditions can be considered in the object which diversify an act in goodness or badness among those acts that do not involve badness in themselves, among which acts they also diversify the amount of badness. Second, because the Philosopher sets down *when* and *where* as one circumstance, because both of them are taken from an extrinsic measure; but in the designation above they are distinguished because of the different characters of the measure. However, when the Philosopher says, *by what instrument*, it is the same as Cicero’s saying, *by what means*, since all the means are like the instruments of action, which the agent uses for his end.  
+Reply Obj. 5: In the *Ethics* 3, *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a3–5.)* the Philosopher also assigns seven circumstances, but his designation differs from the designation given in two things. First, because the Philosopher includes two circumstances, *what* and *concerning what*, which are included as one in Cicero’s designation, because the object called *concerning what* gives a rationale to the act that is called *what*. But the Philosopher distinguishes them, for besides the whole account of the object which gives its species to the act, special conditions can be considered in the object which diversify an act in goodness or badness among those acts that do not involve badness in themselves, among which acts they also diversify the amount of badness. Second, because the Philosopher sets down *when* and *where* as one circumstance, because both of them are taken from an extrinsic measure; but in the designation above they are distinguished because of the different characters of the measure. However, when the Philosopher says, *by what instrument*, it is the same as Cicero’s saying, *by what means*, since all the means are like the instruments of action, which the agent uses for his end.  
 
 Reply Obj. 6: Since mode implies a measure, all the things that pertain to a measure either by the mode of continuous quantity or discrete quantity, are implied in *how*, ‘quomodo.’ Or it could be said that the act’s quantity can be measured by three things. First, by the act’s very intensity, and then this is the same as *how*; second, from the quantity of the object, and then it is included in *what*; third, from the time; and then it is included in *when*: for *how many times* is also reducible to mode.  
 
@@ -505,11 +505,11 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 73, a. 7; *de Malo*, q. 2, a. 7. It seems that circumstances do not worsen sin. For nothing increases except by more of the same; and that is why the concentration of a quality does not increase physical quantity, but only the addition of another body. But circumstances are not sins, but certain accidents of sin. Therefore, they do not make sin more serious.  
+Obj. 1: To the second question we proceed thus. *(Parallels: *ST* I-II, q. 73, a. 7; *de Malo*, q. 2, a. 7.)* It seems that circumstances do not worsen sin. For nothing increases except by more of the same; and that is why the concentration of a quality does not increase physical quantity, but only the addition of another body. But circumstances are not sins, but certain accidents of sin. Therefore, they do not make sin more serious.  
 
 Obj. 2: Furthermore, the whole account of evil in sin is on the part of the turning away, not on the part of what is turned to. But all circumstances accompany sin on the part of what is turned toward. Therefore, they do not worsen the badness of the sin.  
 
-Obj. 3: Furthermore, privations are neither intensified nor diminished. But evil is a certain privation of good, as Augustine says in Book 3, Chapter 7 of his *Confessions*, and in his *Enchiridion*.Augustine, *Enchiridion de fide, spe et caritate* (CCSL 46), ch. 3 and ch. 8; *Confessions* (CCSL 27), Bk. 3, ch. 7. Therefore, the badness of a sin cannot be extended by circumstances.  
+Obj. 3: Furthermore, privations are neither intensified nor diminished. But evil is a certain privation of good, as Augustine says in Book 3, Chapter 7 of his *Confessions*, and in his *Enchiridion*. *(Augustine, *Enchiridion de fide, spe et caritate* (CCSL 46), ch. 3 and ch. 8; *Confessions* (CCSL 27), Bk. 3, ch. 7.)* Therefore, the badness of a sin cannot be extended by circumstances.  
 
 On the contrary (1), whatever something is caused by, it is also increased by. But sin happens from inordinate circumstances, inasmuch as a defect of circumstance destroys the mean of virtue. Therefore circumstances worsen sin.  
 
@@ -517,7 +517,7 @@ Furthermore (2), rhetoricians draw their arguments for accusing and excusing, pr
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that among all circumstances, *place* and *time* worsen sin the most.Parallel: *ST* I-II, q. 7, a. 4. For as the Philosopher says in the *Ethics* 3, speaking about circumstances like this, *they are the principal things in which the act exists*.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a20. But ‘in which’ signifies the very time and place. Therefore, since the principal circumstances make sin more serious, it seems that time and place make it most serious.  
+Obj. 1: Moreover, it seems that among all circumstances, *place* and *time* worsen sin the most. *(Parallel: *ST* I-II, q. 7, a. 4.)* For as the Philosopher says in the *Ethics* 3, speaking about circumstances like this, *they are the principal things in which the act exists*. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a20.)* But ‘in which’ signifies the very time and place. Therefore, since the principal circumstances make sin more serious, it seems that time and place make it most serious.  
 
 Obj. 2: Furthermore, it seems that *who* does. For sin arises chiefly from the will. But the will is maintained on the part of the agent. Therefore, the condition of the person worsens sin more.  
 
@@ -527,21 +527,21 @@ Obj. 4: Furthermore, it seems that previous temptation does. For sin is made the
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that circumstances cannot draw an act into a different species or genus of sin.Parallels: *ST* I-II, q. 17, a. 3; *de Malo*, q. 2, a. 4, ad 5. For accidents do not change the species of something. But circumstances are accidents of an act, as was said. Therefore, the species of sin is not changed by them.  
+Obj. 1: Moreover, it seems that circumstances cannot draw an act into a different species or genus of sin. *(Parallels: *ST* I-II, q. 17, a. 3; *de Malo*, q. 2, a. 4, ad 5.)* For accidents do not change the species of something. But circumstances are accidents of an act, as was said. Therefore, the species of sin is not changed by them.  
 
 Obj. 2: Furthermore, an act has its species from its object. But different circumstances do not change the object of an act. Therefore, they do not draw the act into another genus of sin.  
 
 Obj. 3: Furthermore, just as circumstances concur in an act of sin, so they also do in an act of virtue. But acts of virtue do not change in species. Therefore, neither does an act of sin.  
 
-On the contrary (1), what is the cause of something can change its species. For from different causes, different effects follow. But circumstances that are lacking are the cause of sins; and so according to Dionysius, *evil happens from particular defects*.Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 30 (PG 3:730). Therefore, a difference in circumstances can change the species.  
+On the contrary (1), what is the cause of something can change its species. For from different causes, different effects follow. But circumstances that are lacking are the cause of sins; and so according to Dionysius, *evil happens from particular defects*. *(Pseudo-Dionysius, *On the Divine Names*, ch. 4, n. 30 (PG 3:730).)* Therefore, a difference in circumstances can change the species.  
 
 Furthermore (2), *hastily, sumptuously, excessively, greedily, fussily*, are different species of gluttony. But they are taken according to different circumstances, as is self-evident. Therefore, circumstances change the species of sin.  
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it seems that circumstances can make a sin infinitely more serious.Parallels: *In II Sent*. d. 7, q. 1, a. 2; below, d. 32, a. 5, qa. 2; *ST* II-II, q. 110, a. 4, ad 5; *de Malo*, q. 2, a. 8. For one circumstance corrupts virtue. But virtue is only corrupted by mortal sin, which has infinite quantity. Therefore, circumstances worsen a sin infinitely.  
+Obj. 1: Moreover, it seems that circumstances can make a sin infinitely more serious. *(Parallels: *In II Sent*. d. 7, q. 1, a. 2; below, d. 32, a. 5, qa. 2; *ST* II-II, q. 110, a. 4, ad 5; *de Malo*, q. 2, a. 8.)* For one circumstance corrupts virtue. But virtue is only corrupted by mortal sin, which has infinite quantity. Therefore, circumstances worsen a sin infinitely.  
 
-Obj. 2: Furthermore, according to Augustine nothing is so venial that it cannot become mortal when it pleases.Moos does not know where this text comes from; it does not appear to be in the works of Augustine. But pleasure is a certain circumstance, and it is reduced to *how*. Therefore, circumstances make venial sin mortal, and so they make it infinitely worse.  
+Obj. 2: Furthermore, according to Augustine nothing is so venial that it cannot become mortal when it pleases. *(Moos does not know where this text comes from; it does not appear to be in the works of Augustine.)* But pleasure is a certain circumstance, and it is reduced to *how*. Therefore, circumstances make venial sin mortal, and so they make it infinitely worse.  
 
 Obj. 3: Furthermore, an act of virtue is farther from an act of mortal sin than an act of venial sin from one of mortal sin. But one circumstance changed makes an act of virtue an act of mortal sin, like to know one’s own wife or someone else’s. Therefore, much more does it make venial sin mortal; and so the same as above.  
 
@@ -551,21 +551,21 @@ Furthermore (5), those things that differ infinitely do not share a genus. But o
 
 Quaestiuncula 5  
 
-Obj. 1: Moreover, it seems that all circumstances must be confessed.Parallels: below, d. 41, a. 4, qa. 1; *de Malo*, q. 2, a. 6, ad 2. For in Genesis 19:17, Lot is commanded to leave Sodom, so that he should not die in any place surrounding the region. But someone repenting of Sodom, that is, sin, leaves by confessing. Therefore, not only sin but all the circumstances surrounding it should be confessed.  
+Obj. 1: Moreover, it seems that all circumstances must be confessed. *(Parallels: below, d. 41, a. 4, qa. 1; *de Malo*, q. 2, a. 6, ad 2.)* For in Genesis 19:17, Lot is commanded to leave Sodom, so that he should not die in any place surrounding the region. But someone repenting of Sodom, that is, sin, leaves by confessing. Therefore, not only sin but all the circumstances surrounding it should be confessed.  
 
 Obj. 2: Furthermore, a penitent should confess his sin to a priest, so that he can receive from him the manner of making satisfaction. But a greater satisfaction is enjoined for a graver sin. Therefore, he should make known to the priest the circumstances by which the quality of the sin may be considered.  
 
 Obj. 3: Furthermore, confession should correspond to contrition. But a man must be contrite about individual circumstances, as Augustine says in the text. Therefore, it seems that all should be confessed.  
 
-On the contrary (4), according to the Philosopher in the *Ethics* 3,Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 12, 1119a31–32. the more the pleasures of the flesh are considered in particular, the more they move the appetite. But a man must flee the appetite for such pleasure, by the counsel of the Apostle in 1 Corinthians 6:18. Therefore, it seems that at least with sins of the flesh, a person should not confess all individual circumstances.  
+On the contrary (4), according to the Philosopher in the *Ethics* 3, *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 12, 1119a31–32.)* the more the pleasures of the flesh are considered in particular, the more they move the appetite. But a man must flee the appetite for such pleasure, by the counsel of the Apostle in 1 Corinthians 6:18. Therefore, it seems that at least with sins of the flesh, a person should not confess all individual circumstances.  
 
 Furthermore (5), sometimes from reciting the circumstances another person’s sin is made known. But in confession a man should accuse himself, not defame another. Therefore, it seems that we should not confess the circumstances.  
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that, as Augustine says in *On the Trinity* 6, *among those things that are not great in mass, being greater is the same as being better*,Augustine, *On the Trinity* (CCSL 50), Bk. 6, ch. 8. among good things, just as also similarly among bad things being greater is the same as being worse. Now badness in an act of sin is from its failing the due proportion to the end, to which it is made proportionate by the commensuration of circumstances with the act, as has been said. And so the lack of due circumstances causes badness in an act. And since by one circumstance lacking or opposed, the term becomes farther from the due proportion to the end, this is why a circumstance makes an act more or less bad; and according to this it is said to worsen the sin.  
+To the first question, I answer that, as Augustine says in *On the Trinity* 6, *among those things that are not great in mass, being greater is the same as being better*, *(Augustine, *On the Trinity* (CCSL 50), Bk. 6, ch. 8.)* among good things, just as also similarly among bad things being greater is the same as being worse. Now badness in an act of sin is from its failing the due proportion to the end, to which it is made proportionate by the commensuration of circumstances with the act, as has been said. And so the lack of due circumstances causes badness in an act. And since by one circumstance lacking or opposed, the term becomes farther from the due proportion to the end, this is why a circumstance makes an act more or less bad; and according to this it is said to worsen the sin.  
 
-Reply Obj. 1: That argument holds among those things that are increased by addition, for among things in which increase is by intensity, it is not necessary to add something similar in species, just as it is not necessary to add white to whiteness in order to make it more white, as it says in the *Physics* 4.Aristotle, *Physics*, Bk. 5, ch. 4, 227b9–10. And likewise it is not necessary for sin to be added to sin to make it a greater sin.  
+Reply Obj. 1: That argument holds among those things that are increased by addition, for among things in which increase is by intensity, it is not necessary to add something similar in species, just as it is not necessary to add white to whiteness in order to make it more white, as it says in the *Physics* 4. *(Aristotle, *Physics*, Bk. 5, ch. 4, 227b9–10.)* And likewise it is not necessary for sin to be added to sin to make it a greater sin.  
 
 Reply Obj. 2: From turning to a changeable good in a disordered way, an act is rendered unproportioned for turning to the end. And so in sin the foundation of turning away is turning toward, and because of this the circumstances that hold on the part of the turning-toward can increase the badness of a sin.  
 
@@ -573,11 +573,11 @@ Reply Obj. 3: Although privations cannot be intensified in themselves, neverthel
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that *good is said according to the order to the end*, as it says in the *Metaphysics* 3.Aristotle, *Metaphysics*, Bk. 3, ch. 2, 996a25. Therefore, since evil is a privation of good, evil can happen in two ways: either according to the act’s very relation to the end, or according to the aptitude of its relation to the end. And so sin happens in two ways, either from the act not being proportionate to the end, as among those things that are evil in themselves; or because it is referred to the end in a disordered way, as is seen among those things that are done with an evil intention, even if what is being done is good in itself. And since *that on account of which something is what it is is even more so*,Aristotle, *Posterior Analytics*, Bk. 1, ch. 2, 72a29–30. Or, as the Oxford translation has it: “A thing always belongs better to that thing because of which it belongs—e.g., that because of which we love is better loved.” therefore quantity of badness in a sin is considered greater by a disordered relation to the end than even a lack of proportion to the end.  
+To the second question, it should be said that *good is said according to the order to the end*, as it says in the *Metaphysics* 3. *(Aristotle, *Metaphysics*, Bk. 3, ch. 2, 996a25.)* Therefore, since evil is a privation of good, evil can happen in two ways: either according to the act’s very relation to the end, or according to the aptitude of its relation to the end. And so sin happens in two ways, either from the act not being proportionate to the end, as among those things that are evil in themselves; or because it is referred to the end in a disordered way, as is seen among those things that are done with an evil intention, even if what is being done is good in itself. And since *that on account of which something is what it is is even more so*, *(Aristotle, *Posterior Analytics*, Bk. 1, ch. 2, 72a29–30. Or, as the Oxford translation has it: “A thing always belongs better to that thing because of which it belongs—e.g., that because of which we love is better loved.”)* therefore quantity of badness in a sin is considered greater by a disordered relation to the end than even a lack of proportion to the end.  
 
-Now *for the sake of which* pertains to the order to the end; and so it must be considered above all others in judging the gravity of a sin. Now, for the act to be unproportioned to the end pertains to this circumstance *what*, which denotes the account of evil in the act. And so all those things that can contribute to the species of the sin are included in this circumstance, and these are the ones in which a moral act consists as to its goodness or badness. And so this is the second circumstance that makes it more serious, and because of this the Philosopher says in the *Ethics* 3, that *the chief things in an act are those in which the act consists, and for the sake of which*.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a18.  
+Now *for the sake of which* pertains to the order to the end; and so it must be considered above all others in judging the gravity of a sin. Now, for the act to be unproportioned to the end pertains to this circumstance *what*, which denotes the account of evil in the act. And so all those things that can contribute to the species of the sin are included in this circumstance, and these are the ones in which a moral act consists as to its goodness or badness. And so this is the second circumstance that makes it more serious, and because of this the Philosopher says in the *Ethics* 3, that *the chief things in an act are those in which the act consists, and for the sake of which*. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1, 1111a18.)*  
 
-Now other circumstances make an act more or less serious as they are more or less close to these; and so time and place are bound to worsen it less, since they are entirely extrinsic. But among them the condition of the person does it more, for the agent is more directly related to the end; and after this *how*, which pertains to the act, and after this the instrument, which pertains to the manner of acting. And this indeed should be taken as being so for the most part; nevertheless, nothing prevents things from standing differently in a given case. For in morality verbal expressions have nothing determinate, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 2, 1104a1–5.  
+Now other circumstances make an act more or less serious as they are more or less close to these; and so time and place are bound to worsen it less, since they are entirely extrinsic. But among them the condition of the person does it more, for the agent is more directly related to the end; and after this *how*, which pertains to the act, and after this the instrument, which pertains to the manner of acting. And this indeed should be taken as being so for the most part; nevertheless, nothing prevents things from standing differently in a given case. For in morality verbal expressions have nothing determinate, as it says in the *Ethics* 2. *(Aristotle, *Nicomachean Ethics*, Bk. 2, ch. 2, 1104a1–5.)*  
 
 Reply Obj. 1: The Philosopher does not mean the most important things are those in which the act exists as though in the things that measure it, but as in the things that complete its account.  
 
@@ -605,7 +605,7 @@ And by this the answer to the third objection is clear.
 
 Response to Quaestiuncula 4  
 
-To the fourth question, it should be said that a circumstance, as is clear from what has been said,In the preceding response. sometimes worsens sin and changes its species, but sometimes it worsens the sin without changing its species. Now when it does not change the species, but worsens the sin, then it still retains the character of a circumstance and cannot increase the quantity of sin infinitely, so that it would make a venial sin mortal. For, as was said, a circumstance that worsens sin on the supposition of a previous deformity has the nature of a greater deformity by virtue of that previous deformity; and so if that were finite, it could not add an infinite deformity. But if it changed species, then it could make the sin infinitely more serious, but it does not always do this. For when a circumstance has a direct opposition to charity from a special deformity that it adds, which is shown in the fact that it is directly against a precept of the law, whose end is charity, then it adds an infinite gravity, namely, the gravity of mortal sin.  
+To the fourth question, it should be said that a circumstance, as is clear from what has been said, *(In the preceding response.)* sometimes worsens sin and changes its species, but sometimes it worsens the sin without changing its species. Now when it does not change the species, but worsens the sin, then it still retains the character of a circumstance and cannot increase the quantity of sin infinitely, so that it would make a venial sin mortal. For, as was said, a circumstance that worsens sin on the supposition of a previous deformity has the nature of a greater deformity by virtue of that previous deformity; and so if that were finite, it could not add an infinite deformity. But if it changed species, then it could make the sin infinitely more serious, but it does not always do this. For when a circumstance has a direct opposition to charity from a special deformity that it adds, which is shown in the fact that it is directly against a precept of the law, whose end is charity, then it adds an infinite gravity, namely, the gravity of mortal sin.  
 
 But when that deformity does not directly have opposition to the law, so that it is against it, but is beside it, then it does not worsen the sin infinitely, whether it is a venial sin to which it is added, or a mortal sin; just as to the act of gluttony which is eating too hastily, the circumstance of ‘sumptuously’ adds a special deformity, which would also make it a sin by itself. But it is not directly against the law, and so it does not infinitely worsen it. And since the circumstances that change the species are no longer counted as circumstances, as was said, therefore it is said by the masters that circumstances do not worsen sin infinitely.  
 
@@ -629,7 +629,7 @@ Reply Obj. 2: Specific quantities of sin cannot be made known to the priest, for
 
 Reply Obj. 3: Nor is it necessary that the penitent grieve over individual circumstances in contrition, as concerns what is necessary for salvation. But it is necessary that he grieve over individual sins at least in his first contrition, and over the circumstances that changed the species of the sin. But what Augustine says pertains to the perfection of contrition.  
 
-Reply Obj. 4: But since the other arguments seem to conclude that circumstances should not be confessed at all, therefore it should be said to the fourth that particular circumstances of carnal sin, which draw the act into another species of mortal sin, must always be confessed. For the grace that is given in the sacrament of penance restores, if by it the inclination to sin from thinking about such things springs up either in the one confessing or in the priest. And so Gregory says in his *Pastoral Rule*,Gregory the Great, *Pastoral Rule* (CCSL 141), Pt. 2, ch. 5, line 75ff. *it happens often that when the soul of the rector learns another’s trials, he himself is also struck by the temptations that he hears. But these by no means should frighten the pastor: for they will be as easily swept away from him, the more mercifully he wearies of the other’s temptation*. Still, if someone sees that the priest is lustful and prone to sins like this, he should get permission to confess to another priest; and if it be not given, he should resort to the priest’s superior. But if the circumstances do not worsen the sin infinitely by confering a new species of mortal sin on it, sometimes the circumstances can be praiseworthily left unsaid, applying due discretion, according to the consideration of their baseness and the tendency to incline to sin from its confession in the one confessing or in the priest.  
+Reply Obj. 4: But since the other arguments seem to conclude that circumstances should not be confessed at all, therefore it should be said to the fourth that particular circumstances of carnal sin, which draw the act into another species of mortal sin, must always be confessed. For the grace that is given in the sacrament of penance restores, if by it the inclination to sin from thinking about such things springs up either in the one confessing or in the priest. And so Gregory says in his *Pastoral Rule*, *(Gregory the Great, *Pastoral Rule* (CCSL 141), Pt. 2, ch. 5, line 75ff.)* *it happens often that when the soul of the rector learns another’s trials, he himself is also struck by the temptations that he hears. But these by no means should frighten the pastor: for they will be as easily swept away from him, the more mercifully he wearies of the other’s temptation*. Still, if someone sees that the priest is lustful and prone to sins like this, he should get permission to confess to another priest; and if it be not given, he should resort to the priest’s superior. But if the circumstances do not worsen the sin infinitely by confering a new species of mortal sin on it, sometimes the circumstances can be praiseworthily left unsaid, applying due discretion, according to the consideration of their baseness and the tendency to incline to sin from its confession in the one confessing or in the priest.  
 
 Reply Obj. 5: A man should protect the reputation of others as much as he can, but he should purify his own conscience more. And if a circumstance that leads to the recognition of a person should be necessary to the confession, according to the rule given, then it should be confessed while hiding the identity of the person as much as possible. But if it is not necessary to confess it, it should be omitted, lest it should reveal the sin of another.  
 
@@ -648,7 +648,7 @@ first, about hypocrisy, which impedes it inwardly;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first we proceed thus.Parallels: *ST* II-II, q. 111; *Super Thren.* 4. It seems that hypocrisy is not a sin. For the second plank after the shipwreck is not called a sin. But according to Jerome, *the second plank after the shipwreck is to conceal sin*,Jerome, *Commentary on Isaiah* (CCSL 73), Bk. 2, ch. 3. The actual words of Jerome are rather different than what the objector quotes: “secunda enim post naufragium tabula paenitentiae est et consolatio miseriarum, impietatem suam abscondere.” which pertains to hypocrisy. Therefore, it is not a sin.  
+Obj. 1: To the first we proceed thus. *(Parallels: *ST* II-II, q. 111; *Super Thren.* 4.)* It seems that hypocrisy is not a sin. For the second plank after the shipwreck is not called a sin. But according to Jerome, *the second plank after the shipwreck is to conceal sin*, *(Jerome, *Commentary on Isaiah* (CCSL 73), Bk. 2, ch. 3. The actual words of Jerome are rather different than what the objector quotes: “secunda enim post naufragium tabula paenitentiae est et consolatio miseriarum, impietatem suam abscondere.”)* which pertains to hypocrisy. Therefore, it is not a sin.  
 
 Obj. 2: Furthermore, everyone should avoid scandalizing his neighbors and should protect his own reputation. But these things are done by hypocrisy. Therefore, it is not a sin.  
 
@@ -656,19 +656,19 @@ On the contrary, commenting on Matthew 6:16: *do not look sad, like the hypocrit
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that it is not a specific sin.Parallel: *ST* II-II, q. 111, a. 3. For the sin of pretence is divided against the sin of open malice. But open malice is not a specific sin. Therefore, neither is hypocrisy.  
+Obj. 1: Moreover, it seems that it is not a specific sin. *(Parallel: *ST* II-II, q. 111, a. 3.)* For the sin of pretence is divided against the sin of open malice. But open malice is not a specific sin. Therefore, neither is hypocrisy.  
 
-Obj. 2: Furthermore, every specific sin consists especially in certain acts. But hypocrisy exists in all the acts of the virtues, and particularly in prayer, fasting, and almsgiving, as is clear in the Gospel of Matthew.See chapter 6. Therefore, hypocrisy is not a specific sin.  
+Obj. 2: Furthermore, every specific sin consists especially in certain acts. But hypocrisy exists in all the acts of the virtues, and particularly in prayer, fasting, and almsgiving, as is clear in the Gospel of Matthew. *(See chapter 6.)* Therefore, hypocrisy is not a specific sin.  
 
-On the contrary, the sin of pretence is opposed to the virtue that is called truth. But truth is a specific virtue, as is clear in the *Ethics* 4.Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7. Therefore pretending, or hypocrisy, is also a specific sin.  
+On the contrary, the sin of pretence is opposed to the virtue that is called truth. But truth is a specific virtue, as is clear in the *Ethics* 4. *(Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 7.)* Therefore pretending, or hypocrisy, is also a specific sin.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that it is always a mortal sin.Parallel: *ST* II-II, q. 111, a. 4. For venial sin does not impede the forgiveness of mortal sins. But hypocrisy does impede it, as is clear from the text. Therefore, it is a mortal sin.  
+Obj. 1: Moreover, it seems that it is always a mortal sin. *(Parallel: *ST* II-II, q. 111, a. 4.)* For venial sin does not impede the forgiveness of mortal sins. But hypocrisy does impede it, as is clear from the text. Therefore, it is a mortal sin.  
 
-Obj. 2: Furthermore, Jerome says that in the comparison of two evils, *it is less serious to sin openly than to feign sanctity*.Jerome, *Commentary on Isaiah* (CCSL 73), Bk. 6, ch. 16, par. 14. But to sin openly is a mortal sin. Therefore, so is feigning sanctity, always.  
+Obj. 2: Furthermore, Jerome says that in the comparison of two evils, *it is less serious to sin openly than to feign sanctity*. *(Jerome, *Commentary on Isaiah* (CCSL 73), Bk. 6, ch. 16, par. 14.)* But to sin openly is a mortal sin. Therefore, so is feigning sanctity, always.  
 
-Obj. 3: Furthermore, the Philosopher saysAristotle, *Nicomachean Ethics*, Bk. 9, ch. 3, 1165b10. that those who fake friendship are more to be accused than those who counterfeit money, as they commit fraud against something better. But those who counterfeit money always sin mortally. Therefore, so do hypocrites.  
+Obj. 3: Furthermore, the Philosopher says *(Aristotle, *Nicomachean Ethics*, Bk. 9, ch. 3, 1165b10.)* that those who fake friendship are more to be accused than those who counterfeit money, as they commit fraud against something better. But those who counterfeit money always sin mortally. Therefore, so do hypocrites.  
 
 Obj. 4: Furthermore, everything that excludes someone from the vision of God is a mortal sin. But hypocrisy does this, as is clear from Job 13:16: *every hypocrite shall not come before his sight*. Therefore, it is always a mortal sin.  
 
@@ -678,13 +678,13 @@ Quaestiuncula 4
 
 Obj. 1: Moreover, it seems that hypocrisy should not be considered an impediment to penance more than other vices. For the more serious any sin is, the more it impedes penance. But certain other interior sins are greater than hypocrisy. Therefore, they should be considered greater impediments to penance.  
 
-Obj. 2: Furthermore, hypocrisy, according to Gregory, is the daughter of vainglory.Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 31, par. 45. But the cause works more of something than the effect. Therefore, vainglory should be considered more of an impediment to penance than hypocrisy.  
+Obj. 2: Furthermore, hypocrisy, according to Gregory, is the daughter of vainglory. *(Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 31, par. 45.)* But the cause works more of something than the effect. Therefore, vainglory should be considered more of an impediment to penance than hypocrisy.  
 
 On the contrary is what appears in the text.  
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that ‘hypocrite’ properly means someone who displays himself as another person, as though put forth or substituted for another. And this is why in theaters, those who acted as depicting the persons of others were called hypocrites; and this is how the Philosopher takes hypocrites in the *Ethics* 3.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 2, 1111b24. And therefore someone who, although he is not virtuous, displays the person of a virtuous man, is called a hypocrite, for *hypocrita* in Greek means *pretender* in Latin. And so to display oneself as better than one is is a vice of boasting, whether it is done in words or in deeds, as it says in the *Ethics* 4;Aristotle, *Nicomachean Ethics*, Bk. 4, 1127a20ff. and so hypocrisy is always a sin.  
+To the first question, I answer that ‘hypocrite’ properly means someone who displays himself as another person, as though put forth or substituted for another. And this is why in theaters, those who acted as depicting the persons of others were called hypocrites; and this is how the Philosopher takes hypocrites in the *Ethics* 3. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 2, 1111b24.)* And therefore someone who, although he is not virtuous, displays the person of a virtuous man, is called a hypocrite, for *hypocrita* in Greek means *pretender* in Latin. And so to display oneself as better than one is is a vice of boasting, whether it is done in words or in deeds, as it says in the *Ethics* 4; *(Aristotle, *Nicomachean Ethics*, Bk. 4, 1127a20ff.)* and so hypocrisy is always a sin.  
 
 Reply Obj. 1: It is one thing to not make a hidden sin known, which belongs to discretion, and is called the second plank in the way discussed above in Distinction 14, Question 1, Article 2, Question 3; and another thing to display a virtue when someone is hiding a sin, which is hypocrisy.  
 
@@ -696,7 +696,7 @@ To the second question, it should be said that privations are specified by their
 
 Reply Obj. 1: Openness does not carry any specific character of sin, and so open malice is not called a specific sin, like feigning, which does carry a specific character of sin.  
 
-Reply Obj. 2: It is not unfitting that some specific sin or specific virtue be materially used in acts of other virtues or vices, as magnanimity uses for all other acts of virtue, so that it works great things in them, as is said in the *Ethics* 4.Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 3, 1124a1ff. And likewise since hypocrisy is a particular species of boasting, for it does not boast of just anything, but of sanctity, it uses all the acts that can display sanctity, and particularly those in which sanctity is most shown, like prayer, fasting, and almsgiving.  
+Reply Obj. 2: It is not unfitting that some specific sin or specific virtue be materially used in acts of other virtues or vices, as magnanimity uses for all other acts of virtue, so that it works great things in them, as is said in the *Ethics* 4. *(Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 3, 1124a1ff.)* And likewise since hypocrisy is a particular species of boasting, for it does not boast of just anything, but of sanctity, it uses all the acts that can display sanctity, and particularly those in which sanctity is most shown, like prayer, fasting, and almsgiving.  
 
 Response to Quaestiuncula 3  
 
@@ -724,7 +724,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second question we proceed thus.Parallels: *ST* I-II, q. 1, a. 6, ad 1; *ST* II-II, q. 168, aa. 2–4; *SCG* III, ch. 25, 6th arg.; *Super Is.* 3, at the end. It seems that playing does not outwardly impede penance. For what virtue can consist in does not impede penance. But the virtue of eutrapelia consists in games, as is clear from the *Ethics* 4.Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 8, 1128a9–10. Therefore, a game does not impede penance.  
+Obj. 1: To the second question we proceed thus. *(Parallels: *ST* I-II, q. 1, a. 6, ad 1; *ST* II-II, q. 168, aa. 2–4; *SCG* III, ch. 25, 6th arg.; *Super Is.* 3, at the end.)* It seems that playing does not outwardly impede penance. For what virtue can consist in does not impede penance. But the virtue of eutrapelia consists in games, as is clear from the *Ethics* 4. *(Aristotle, *Nicomachean Ethics*, Bk. 4, ch. 8, 1128a9–10.)* Therefore, a game does not impede penance.  
 
 Obj. 2: Furthermore, it is necessary to intersperse laborious works with rest, by the fact that it is impossible to act continuously. But playing is a kind of rest. Therefore, it is necessary sometimes to play between works of penance; therefore, playing does not impede penance.  
 
@@ -732,17 +732,17 @@ On the contrary, the time for laughing is described as different from the time f
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that shows do not impede penance.Parallels: *ST* II-II, q. 167, a. 2, corp. and ad 2. For shows were instituted for their usefulness to man. But penance does not shear away useful things, but only superfluous ones. Therefore penance is not impeded by shows.  
+Obj. 1: Moreover, it seems that shows do not impede penance. *(Parallels: *ST* II-II, q. 167, a. 2, corp. and ad 2.)* For shows were instituted for their usefulness to man. But penance does not shear away useful things, but only superfluous ones. Therefore penance is not impeded by shows.  
 
 Obj. 2: Furthermore, in watching something there cannot be anything but curiosity. But other curiosities, like those of the sciences, are not considered impediments to penance. Therefore, neither should a show be called an impediment to penance.  
 
 Obj. 3: Furthermore, other things are much more serious sins than shows and games. Therefore, those things should be included much more than these as impediments to penance.  
 
-On the contrary, whatever makes a man a sinner does not befit a penitent. But these shows make the spectators of such things shameless and impure, as Chrysostom says.John Chrysostom, *Homilies on Matthew*, nn. 7 and 8 (PG 56:373). Therefore, they do not befit a penitent.  
+On the contrary, whatever makes a man a sinner does not befit a penitent. But these shows make the spectators of such things shameless and impure, as Chrysostom says. *(John Chrysostom, *Homilies on Matthew*, nn. 7 and 8 (PG 56:373).)* Therefore, they do not befit a penitent.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that military exercises or business matters do not impede penance.Parallel: *ST* II-II, q. 40, a. 2. For those things that the republic cannot be conserved without are not vices, but rather ordered to virtue. But it cannot be preserved without a military, by which enemies are driven back; or without business, by which necessities are procured for the people. Therefore, such duties can be exercised without sin; therefore, they do not impede penance.  
+Obj. 1: Moreover, it seems that military exercises or business matters do not impede penance. *(Parallel: *ST* II-II, q. 40, a. 2.)* For those things that the republic cannot be conserved without are not vices, but rather ordered to virtue. But it cannot be preserved without a military, by which enemies are driven back; or without business, by which necessities are procured for the people. Therefore, such duties can be exercised without sin; therefore, they do not impede penance.  
 
 Obj. 2: Furthermore, John taught repentance, as is seen in Matthew 3:2. But he did not forbid men from the military, nor publicans from their duties, as is seen in Luke 3:12–15. Therefore, it seems that such duties do not impede penance.  
 
@@ -750,7 +750,7 @@ On the contrary, is what Gregory says in the text.
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that there are three different kinds of playing. For there is the play that has a disgracefulness in itself, like the games that were held in the theaters to provoke lust; and this kind of playing should be avoided by everyone, and particularly by penitents who should correct their sins by tears. There is another kind of playing that proceeds from the joy of devotion, as David said, *I will play and make myself abased before my Lord* (2 Sam 6:21–22). And this kind of playing is not to be avoided, but praised and emulated. But there is another kind of playing that contains no disgrace, which the Philosopher calls a liberal pursuit; and this is the matter of a virtue, namely, eutrapelia. And so, if all due circumstances are preserved, it can be done praiseworthily for proper rest, and for spending time agreeably with others. But it can have sin in it when due circumstances are not preserved; and so in this kind of play, something is suitable for one person that is not suitable for another. And a penitent is differently related to this kind of playing than other people, inasmuch as penance requires tears. Still, he can enjoy them moderately, according as they pertain to the recreation of the soul, or to the society of others with whom he lives. And this is why Seneca says, *conduct yourself wisely in such a way that no one hold you harsh, lest he condemn you as mean*.Moos notes that this sentence is not from Seneca but from Martin, sixth-century Abbot of Dumiens and Bishop of Braga, in the chapter on continence from a treatise *de Quatuor Virtutibus*, which had been published among the works of Seneca.  
+To the first question, I answer that there are three different kinds of playing. For there is the play that has a disgracefulness in itself, like the games that were held in the theaters to provoke lust; and this kind of playing should be avoided by everyone, and particularly by penitents who should correct their sins by tears. There is another kind of playing that proceeds from the joy of devotion, as David said, *I will play and make myself abased before my Lord* (2 Sam 6:21–22). And this kind of playing is not to be avoided, but praised and emulated. But there is another kind of playing that contains no disgrace, which the Philosopher calls a liberal pursuit; and this is the matter of a virtue, namely, eutrapelia. And so, if all due circumstances are preserved, it can be done praiseworthily for proper rest, and for spending time agreeably with others. But it can have sin in it when due circumstances are not preserved; and so in this kind of play, something is suitable for one person that is not suitable for another. And a penitent is differently related to this kind of playing than other people, inasmuch as penance requires tears. Still, he can enjoy them moderately, according as they pertain to the recreation of the soul, or to the society of others with whom he lives. And this is why Seneca says, *conduct yourself wisely in such a way that no one hold you harsh, lest he condemn you as mean*. *(Moos notes that this sentence is not from Seneca but from Martin, sixth-century Abbot of Dumiens and Bishop of Braga, in the chapter on continence from a treatise *de Quatuor Virtutibus*, which had been published among the works of Seneca.)*  
 
 And by this the solutions to the objections are clear.  
 
@@ -766,17 +766,17 @@ Reply Obj. 3: Those sins seem to proceed especially from foolish celebrating; an
 
 Response to Quaestiuncula 3  
 
-To the third question, it should be said that military and business duties, and the office of tax-collectors who exact public taxes, have sin closely connected with them, although they can be exercised without sin sometimes. And since penitents should avoid the occasion of sin while they are making their satisfaction, it is also praiseworthy if they shun such duties. Nevertheless, this is not necessary to penance: for a penitent cannot avoid all occasions of sin while he lives in this world. And therefore it suffices if he avoids the sin risked in these duties, so that a soldier, according to John’s counsel,See Luke 3:14. strikes no one and is content with a just wage, and does not use his military office to his ostentation, but for the benefit of Church and state, and for the exercise of his energies. And a merchant should not have a condition in himself which would prohibit him from this duty, in the way that business dealings are not permitted to clerics and monks, although they may sell their belongings; and if they have their dealings at the proper time, not on feast days, or at a time that could introduce sneakiness, such an office may be exercised; and the due mode, so that it is done without fraud, and according to a licit contract. But among tax-collectors, it should be done so that they receive the tolls by the authority of the head of state, and for the sake of the common benefit, namely, for the defense of the land and not immoderately. But what Gregory says in the text should be understood thus: not that it cannot be done without sin, but that it frequently involves one in sin.  
+To the third question, it should be said that military and business duties, and the office of tax-collectors who exact public taxes, have sin closely connected with them, although they can be exercised without sin sometimes. And since penitents should avoid the occasion of sin while they are making their satisfaction, it is also praiseworthy if they shun such duties. Nevertheless, this is not necessary to penance: for a penitent cannot avoid all occasions of sin while he lives in this world. And therefore it suffices if he avoids the sin risked in these duties, so that a soldier, according to John’s counsel, *(See Luke 3:14.)* strikes no one and is content with a just wage, and does not use his military office to his ostentation, but for the benefit of Church and state, and for the exercise of his energies. And a merchant should not have a condition in himself which would prohibit him from this duty, in the way that business dealings are not permitted to clerics and monks, although they may sell their belongings; and if they have their dealings at the proper time, not on feast days, or at a time that could introduce sneakiness, such an office may be exercised; and the due mode, so that it is done without fraud, and according to a licit contract. But among tax-collectors, it should be done so that they receive the tolls by the authority of the head of state, and for the sake of the common benefit, namely, for the defense of the land and not immoderately. But what Gregory says in the text should be understood thus: not that it cannot be done without sin, but that it frequently involves one in sin.  
 
 And by this the solutions to the objections are clear.  
 
 Exposition of the Text  
 
-*Perfect penance compels the sinner to bear all things gladly*.*Sententiae* IV, 16.1 (86). 1. This should be understood about those things that are necessary for the remission of sin; and so it is an accommodated distribution.  
+*Perfect penance compels the sinner to bear all things gladly*. *(*Sententiae* IV, 16.1 (86). 1.)* This should be understood about those things that are necessary for the remission of sin; and so it is an accommodated distribution.  
 
-*There are three varieties of sin*,*Sent*. IV, 16.2 (86). 2. etc. To the contrary, he omits sin of the mouth.  
+*There are three varieties of sin*, *(*Sent*. IV, 16.2 (86). 2.)* etc. To the contrary, he omits sin of the mouth.  
 
-Furthermore, commenting on the text, *why did I not die in the womb?* (Job 3:11), Gregory adds a fourth, namely, kindling adulation.Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 4, par. 27, n. 53.  
+Furthermore, commenting on the text, *why did I not die in the womb?* (Job 3:11), Gregory adds a fourth, namely, kindling adulation. *(Gregory the Great, *Moralia in Iob* (CCSL 143), Bk. 4, par. 27, n. 53.)*  
 
 And it should be said that this division of sins differs from the first, for the first is according to the diversity of instruments, but this one is according to the progress of sin, which is first from within; second, proceeds outward; and third, is confirmed by habit. And this is adapted to the parts of penance: for contrition hides in the heart, confession manifests repentance outwardly, but satisfaction adds the habit of good works. Nevertheless, this is not to be understood as though each part of penance corresponded to one condition of sin, but by adaptation, as has also been said about other things.  
 
@@ -784,19 +784,19 @@ To the first it should be said that words have the same position as regards mani
 
 To the second it should be said that what Gregory adds is not in the sinner himself, but in another person; and so Augustine leaves it out.  
 
-*Satisfaction is ordered by John*, etc.,*Sent*. IV, 16.2 (86). 3. not that John the Baptist was the author of this precept, but the announcer; for Christ was the institutor of the sacrament, and of its parts.  
+*Satisfaction is ordered by John*, etc., *(*Sent*. IV, 16.2 (86). 3.)* not that John the Baptist was the author of this precept, but the announcer; for Christ was the institutor of the sacrament, and of its parts.  
 
-*Let him place himself entirely at the judgment and in the power of a priest*.*Sent*. IV, 16.2 (87). 3. Therefore, it seems that if a priest imposes on someone that he enter religious life, he is bound to do it; and particularly because certain canons seem to fix this as a penance. And likewise, that however great a penance he imposes for a small sin, the penitent is bound to do it. And it should be said that it should be understood as about those things that the priest enjoins inasmuch as he has the key of knowledge and authority through the divine judgment, and not according to human error. Now entrance into religious life, since it belongs to the will, cannot be enjoined on anyone; and if some canons are found that impose it, it is more as a counsel than a command: for no matter what penance is required, the easiest religious life is a greater satisfaction, inasmuch as a man gives up his own will, than which nothing is dearer to a man.  
+*Let him place himself entirely at the judgment and in the power of a priest*. *(*Sent*. IV, 16.2 (87). 3.)* Therefore, it seems that if a priest imposes on someone that he enter religious life, he is bound to do it; and particularly because certain canons seem to fix this as a penance. And likewise, that however great a penance he imposes for a small sin, the penitent is bound to do it. And it should be said that it should be understood as about those things that the priest enjoins inasmuch as he has the key of knowledge and authority through the divine judgment, and not according to human error. Now entrance into religious life, since it belongs to the will, cannot be enjoined on anyone; and if some canons are found that impose it, it is more as a counsel than a command: for no matter what penance is required, the easiest religious life is a greater satisfaction, inasmuch as a man gives up his own will, than which nothing is dearer to a man.  
 
-*“Let him beware lest because of shame, he splits up his confession*.”*Sent*. IV, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31. This inquiry will be taken up when we come to the question on confession.  
+*“Let him beware lest because of shame, he splits up his confession*.” *(*Sent*. IV, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31.)* This inquiry will be taken up when we come to the question on confession.  
 
-*Let him beware too lest he come to the Lord’s body before he is strengthened by a good conscience*.*Sent*. IV, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31. He is strengthened by a good conscience when he can guess by certain signs that his sin is forgiven; and this when he does what is in himself; and so someone who has access to a priest, and is not compelled by necessity to receive Communion, as parish priests are compelled, should not receive before confession. But also after contrition and confession of serious sins, it seems to be Augustine’s counsel that he not receive immediately, out of reverence for the sacrament, and so that he can be more sure.  
+*Let him beware too lest he come to the Lord’s body before he is strengthened by a good conscience*. *(*Sent*. IV, 16.2 (87). 5 citing Pseudo-Augustine, *De vera et falsa poenitentia*, c15 n31.)* He is strengthened by a good conscience when he can guess by certain signs that his sin is forgiven; and this when he does what is in himself; and so someone who has access to a priest, and is not compelled by necessity to receive Communion, as parish priests are compelled, should not receive before confession. But also after contrition and confession of serious sins, it seems to be Augustine’s counsel that he not receive immediately, out of reverence for the sacrament, and so that he can be more sure.  
 
-*We call penances false which are not imposed in conformity with the authority of the saints*.*Sent*. IV, 16.3 (88). 1. Nevertheless, it is not necessary that the penances imposed in the canons be always observed to the letter, but penances are to be modified, having considered the conditions of the sin and the sinner.  
+*We call penances false which are not imposed in conformity with the authority of the saints*. *(*Sent*. IV, 16.3 (88). 1.)* Nevertheless, it is not necessary that the penances imposed in the canons be always observed to the letter, but penances are to be modified, having considered the conditions of the sin and the sinner.  
 
-*Which is done for those sins which are contained in the law of the Decalogue*,*Sent*. IV, 16.4 (89). 2. as directly against the moral precepts of the Decalogue; but not as aside from the precepts, such as are venial sins.  
+*Which is done for those sins which are contained in the law of the Decalogue*, *(*Sent*. IV, 16.4 (89). 2.)* as directly against the moral precepts of the Decalogue; but not as aside from the precepts, such as are venial sins.  
 
-*So also one truly says: as we forgive our debtors*. *Sent*. IV, 16.6 (91). 1 citing Augustine, *Enchiridion*, c71.It seems that someone who does not have any sin, sins by saying, *Our Father*,*Sent*. IV, 16.6 (91). 1 citing Mt. 6,9. for he confesses himself to have debts that he does not have.  
+*So also one truly says: as we forgive our debtors*.  *(*Sent*. IV, 16.6 (91). 1 citing Augustine, *Enchiridion*, c71.)*It seems that someone who does not have any sin, sins by saying, *Our Father*, *(*Sent*. IV, 16.6 (91). 1 citing Mt. 6,9.)* for he confesses himself to have debts that he does not have.  
 
 Furthermore, it seems the same for the person who does not forgive debts, that he sins by saying an *Our Father*.  
 

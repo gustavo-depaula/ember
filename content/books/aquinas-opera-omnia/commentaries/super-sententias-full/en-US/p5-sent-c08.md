@@ -10,101 +10,101 @@ And this is divided into two parts:
 
 in the first he explains them according to each opinion;  
 
-in the second he leaves the stated opinions to the reader’s judgment, at *with sufficient diligence, I have treated the question posed above according to the views of different people, without prejudice or assertion of my own*.*Sentences* III, 7.3(25).3.  
+in the second he leaves the stated opinions to the reader’s judgment, at *with sufficient diligence, I have treated the question posed above according to the views of different people, without prejudice or assertion of my own*. *(*Sentences* III, 7.3(25).3.)*  
 
 The first is divided into three parts:  
 
 in the first he explains the expressions according to the first opinion;  
 
-in the second, according to the second, at *but in the second view, the reason for this statement is as follows*;*Sent*. III, 7.1(23).4.  
+in the second, according to the second, at *but in the second view, the reason for this statement is as follows*; *(*Sent*. III, 7.1(23).4.)*  
 
-in the third, according to the third, at *and so, in this view, ‘God was made man’ is said because he took human form*.*Sent*. III, 7.1(23).16.  
+in the third, according to the third, at *and so, in this view, ‘God was made man’ is said because he took human form*. *(*Sent*. III, 7.1(23).16.)*  
 
 Regarding the first he does two things:  
 
 first, he explains the stated propositions according to the first opinion;  
 
-second, he objects against it, at *the following objection is made to this view*.*Sent*. III, 7.1(23).2.  
+second, he objects against it, at *the following objection is made to this view*. *(*Sent*. III, 7.1(23).2.)*  
 
-However, in the first part he explains those propositions wherein the mutual predication of “God” and “man” occurs with the mediating participle “made,” which latter he explains first; and then those propositions in which the predication occurs with the mediating participle “predestined,” which he explains second, at *this by grace, not by nature*. However, he lays out the resolution of the objection at *these say that*.*Sent*. III, 7.1(23).5.  
+However, in the first part he explains those propositions wherein the mutual predication of “God” and “man” occurs with the mediating participle “made,” which latter he explains first; and then those propositions in which the predication occurs with the mediating participle “predestined,” which he explains second, at *this by grace, not by nature*. However, he lays out the resolution of the objection at *these say that*. *(*Sent*. III, 7.1(23).5.)*  
 
 *But in the second view, the reason for this statement is as follows*. Here he explains them according to the second opinion.  
 
 And first he explains the propositions;  
 
-second, he resolves things that appear to be opposed to this opinion, at *they also determine the authorities which agree with the first view, and which appear to contradict this one*.*Sent*. III, 7.1(23).6.  
+second, he resolves things that appear to be opposed to this opinion, at *they also determine the authorities which agree with the first view, and which appear to contradict this one*. *(*Sent*. III, 7.1(23).6.)*  
 
 Regarding the first he does three things:  
 
 first, he explains those expressions wherein the predication occurs with the mediating participle “made”;  
 
-second, those where it occurs with the mediating word “is,” at *but the meaning is changed*;*Sent*. III, 7.1(23).4.  
+second, those where it occurs with the mediating word “is,” at *but the meaning is changed*; *(*Sent*. III, 7.1(23).4.)*  
 
-third, those where the predication occurs with the mediating participle “predestined,” a *these say that Christ is predestined*.*Sent*. III, 7.1(23).5.  
+third, those where the predication occurs with the mediating participle “predestined,” a *these say that Christ is predestined*. *(*Sent*. III, 7.1(23).5.)*  
 
-*They also determine the authorities which agree with the first view, and which appear to contradict this one*.*Sent*. III, 7.1(23).6. Here he resolves three things that appear to be opposed to the second opinion. And he does three things regarding this:  
+*They also determine the authorities which agree with the first view, and which appear to contradict this one*. *(*Sent*. III, 7.1(23).6.)* Here he resolves three things that appear to be opposed to the second opinion. And he does three things regarding this:  
 
 he responds, first, to the authorities that appear to prove that the man was assumed;  
 
-second, to those that appear to prove that Christ is two things, at *but these appear to be contradicted by what is contained in the chapters below*;*Sent*. III, 7.1(23).8.  
+second, to those that appear to prove that Christ is two things, at *but these appear to be contradicted by what is contained in the chapters below*; *(*Sent*. III, 7.1(23).8.)*  
 
-and third, those that prove that the person is not composite, at *there is also another text which appears to run very much counter to this view*.*Sent*. III, 7.1(23).13.  
+and third, those that prove that the person is not composite, at *there is also another text which appears to run very much counter to this view*. *(*Sent*. III, 7.1(23).13.)*  
 
 The second part is divided into two parts:  
 
 in the first he responds to the authorities that say Christ is one thing and another thing, from which it follows that he is two things;  
 
-in the second, he responds to the ones that say Christ is two things, or Christ is each of two things, at *and what was said earlier, ‘Christ is both and one person,’ may trouble the reader*.*Sent*. III, 7.1(23).11.  
+in the second, he responds to the ones that say Christ is two things, or Christ is each of two things, at *and what was said earlier, ‘Christ is both and one person,’ may trouble the reader*. *(*Sent*. III, 7.1(23).11.)*  
 
 Regarding the first he does three things:  
 
 first, he states the objection;  
 
-second, he resolves it, at *and they determine these [arguments] in the following way*;*Sent*. III, 7.1(23).9.  
+second, he resolves it, at *and they determine these [arguments] in the following way*; *(*Sent*. III, 7.1(23).9.)*  
 
-third, he confirms his resolution, at *for Hilary says clearly*.*Sent*. III, 7.1(23).10.  
+third, he confirms his resolution, at *for Hilary says clearly*. *(*Sent*. III, 7.1(23).10.)*  
 
 And the second part is divided in the same way,  
 
 because first he objects,  
 
-and second, he resolves it, at *but they hand down that all these things would have been said from the following sense*;*Sent*. III, 7.1(23).12.  
+and second, he resolves it, at *but they hand down that all these things would have been said from the following sense*; *(*Sent*. III, 7.1(23).12.)*  
 
-third, he confirms this answer, at *for as Jerome says, ‘the Word is God, not the flesh that was taken.’**Sent*. III, 7.1(23).12, quoting Jerome, *Epistola 9*, *ad Paulam et Eustochium*, n. 12 (PL 30:135).  
+third, he confirms this answer, at *for as Jerome says, ‘the Word is God, not the flesh that was taken.’* *(*Sent*. III, 7.1(23).12, quoting Jerome, *Epistola 9*, *ad Paulam et Eustochium*, n. 12 (PL 30:135).)*  
 
-*There is also another text which appears to run very much counter to this view*.*Sent*. III, 7.1(23).13. Here he objects against the composition of the person.  
+*There is also another text which appears to run very much counter to this view*. *(*Sent*. III, 7.1(23).13.)* Here he objects against the composition of the person.  
 
 First he objects,  
 
-and then he resolves it, at: *to which also they say*.*Sent*. III, 7.1(23).14.  
+and then he resolves it, at: *to which also they say*. *(*Sent*. III, 7.1(23).14.)*  
 
-*And so, in this view, ‘God was made man’ is said because he took human form*.*Sent*. III, 7.1(23).16. Here he explains the stated propositions according to the third opinion, and it is divided into two parts:  
+*And so, in this view, ‘God was made man’ is said because he took human form*. *(*Sent*. III, 7.1(23).16.)* Here he explains the stated propositions according to the third opinion, and it is divided into two parts:  
 
 in the first he explains the propositions,  
 
-and in the second he infers a corollary from the things said, at *and because the manner of the Incarnation is to be taken according to habit, therefore they hand down that he is called God made man, not a deified man*.*Sent*. III, 7.2(24).4.  
+and in the second he infers a corollary from the things said, at *and because the manner of the Incarnation is to be taken according to habit, therefore they hand down that he is called God made man, not a deified man*. *(*Sent*. III, 7.2(24).4.)*  
 
 Regarding the first, he does three things:  
 
 first, he explains how God is said to have been made man;  
 
-second, how Christ is said to have been predestined, at *according to them, Christ, insofar as he is a man, is said to be predestined to be Son of God*;*Sent*. III, 7.2(24).1.  
+second, how Christ is said to have been predestined, at *according to them, Christ, insofar as he is a man, is said to be predestined to be Son of God*; *(*Sent*. III, 7.2(24).1.)*  
 
-third, how he is said to be less than himself, at: *and when Christ is said to be less than the Father according to his being a man, they understand this to be said according to habit*.*Sent*. III, 7.2(24).3.  
+third, how he is said to be less than himself, at: *and when Christ is said to be less than the Father according to his being a man, they understand this to be said according to habit*. *(*Sent*. III, 7.2(24).3.)*  
 
-*And because the manner of the Incarnation is to be taken according to habit, therefore they hand down that he is called God made man, and not a deified man*.*Sent*. III, 7.2(24).4. Here he concludes from the things said that “man” can be denominatively predicated of God in such a way that he can be called the “humanized God,” but “God” cannot be [denominatively predicated] of the man. Regarding this he does two things:  
+*And because the manner of the Incarnation is to be taken according to habit, therefore they hand down that he is called God made man, and not a deified man*. *(*Sent*. III, 7.2(24).4.)* Here he concludes from the things said that “man” can be denominatively predicated of God in such a way that he can be called the “humanized God,” but “God” cannot be [denominatively predicated] of the man. Regarding this he does two things:  
 
 first, he shows that [Christ] cannot be called the “Deified man,”  
 
-and second, that he cannot be called a “lordly man,”Or "the Lord's man." at *and although he is called ‘man God,’ yet he is not fittingly called ‘the Lord’s man.’**Sent*. III, 7.3(25).1.  
+and second, that he cannot be called a “lordly man,” *(Or "the Lord's man.")* at *and although he is called ‘man God,’ yet he is not fittingly called ‘the Lord’s man.’* *(*Sent*. III, 7.3(25).1.)*  
 
 Here the question is about statements that express the union.  
 
-And first one asks about statements expressing the union simply through the word “is”;Q. 1.  
+And first one asks about statements expressing the union simply through the word “is”; *(Q. 1.)*  
 
-second, about ones that express the union with the participle “made”;Q. 2.  
+second, about ones that express the union with the participle “made”; *(Q. 2.)*  
 
-third, about ones that express the union with the participle “predestined.”Q. 3.  
+third, about ones that express the union with the participle “predestined.” *(Q. 3.)*  
 
 Question 1  
 
@@ -120,7 +120,7 @@ Article 1
 
 ***Whether this is true: “God is a man”***
 
-To the first we proceed as follows.Parallels: *ST* III.16.1, 2; *De rationibus fidei,* ch. 6. It appears that “God is a man” is false.  
+To the first we proceed as follows. *(Parallels: *ST* III.16.1, 2; *De rationibus fidei,* ch. 6.)* It appears that “God is a man” is false.  
 
 Obj. 1: For things that are united in one person and in one nature are more together than are things that are united in the person but not in one nature. But the soul and body are united in one nature and one person, whereas God and man are united in the person but not in the nature. Therefore since “soul” cannot be predicated of the body, nor vice versa, it appears that “God” cannot be predicated of the man, nor vice versa.  
 
@@ -128,23 +128,23 @@ Obj. 2: Furthermore, the unity of the three persons of the Trinity in the divine
 
 Obj. 3: Furthermore, nothing is predicated univocally of the Creator and the created thing. But “man” is predicated univocally of Christ and us. Therefore it is not predicated of God.  
 
-Obj. 4: Furthermore, whatever is predicated of God is either absolute or relative. But “man” is not relative, because it not said toward-something;*Ad aliquid* is the Latin cognate for Aristotle's logical category of relation, *pros ti*. For the sake of capturing its concretion, we have translated it with the hyphenated "toward-something." and furthermore, it predicates something, according to two of the opinions, and this does not happen with relative names, which according to Augustine,In fact, Alcuinus, *De fide sanctae trinitatis et de incarnatione Christi (De fide sanctae et indiuiduae trinitatis)*, bk. 1, ch. 7 (CCCM 249:41; PL 101:18). do not predicate something but toward-something. Neither can it be predicated of God as an absolute, since the absolutes that come into divine predication are said of the three persons, which is not the case with this name “man.” Therefore we cannot say that God is a man.  
+Obj. 4: Furthermore, whatever is predicated of God is either absolute or relative. But “man” is not relative, because it not said toward-something; *(*Ad aliquid* is the Latin cognate for Aristotle's logical category of relation, *pros ti*. For the sake of capturing its concretion, we have translated it with the hyphenated "toward-something.")* and furthermore, it predicates something, according to two of the opinions, and this does not happen with relative names, which according to Augustine, *(In fact, Alcuinus, *De fide sanctae trinitatis et de incarnatione Christi (De fide sanctae et indiuiduae trinitatis)*, bk. 1, ch. 7 (CCCM 249:41; PL 101:18).)* do not predicate something but toward-something. Neither can it be predicated of God as an absolute, since the absolutes that come into divine predication are said of the three persons, which is not the case with this name “man.” Therefore we cannot say that God is a man.  
 
 Obj. 5: Furthermore, what is predicated is predicated either through itself or accidentally. But “man” is not predicated of God through itself, since then it would belong to every supposit of the divine nature. But neither is it predicated accidentally, since nothing is accidental to God. Therefore in no way is “man” predicated of God.  
 
-Obj. 6: Furthermore, every predication is either by essence, such as “man is an animal,” or by inherence, such as “man is white,” or by causality, such as “the day is the sun illuminating the earth.” But when one says that “God is a man,” this is not a predication through a cause, so that the sense would be “God is the cause of man”; for then we could also say “God is a lion” or “a star.” Neither is this a predication by inherence, since humanity does not accidentally inhere in God, as was said above.*In III Sent*., d. 6, q. 3, a. 2. And neither is it by essence, because man’s essence is other than God’s essence. Therefore the proposition is false.  
+Obj. 6: Furthermore, every predication is either by essence, such as “man is an animal,” or by inherence, such as “man is white,” or by causality, such as “the day is the sun illuminating the earth.” But when one says that “God is a man,” this is not a predication through a cause, so that the sense would be “God is the cause of man”; for then we could also say “God is a lion” or “a star.” Neither is this a predication by inherence, since humanity does not accidentally inhere in God, as was said above. *(*In III Sent*., d. 6, q. 3, a. 2.)* And neither is it by essence, because man’s essence is other than God’s essence. Therefore the proposition is false.  
 
-Obj. 7: Furthermore, according to the Philosopher’s craftAristotle, *Topics* 1.4, 101b17–30; *ars philosophi* seems to be an allusion to logic. there are four kinds of predicate: namely, the non-convertible but essential, such as a genus; the convertible essential, such as a definition; the non-convertible accidental, such as an accident; and the convertible accidental, such as a property. But in none of these ways does “man” relate to God, as is clear through itself. Therefore in no way can it be predicated of him.  
+Obj. 7: Furthermore, according to the Philosopher’s craft *(Aristotle, *Topics* 1.4, 101b17–30; *ars philosophi* seems to be an allusion to logic.)* there are four kinds of predicate: namely, the non-convertible but essential, such as a genus; the convertible essential, such as a definition; the non-convertible accidental, such as an accident; and the convertible accidental, such as a property. But in none of these ways does “man” relate to God, as is clear through itself. Therefore in no way can it be predicated of him.  
 
 Obj. 8: Furthermore, a proposition is said to be in a remote matter when the forms being signified are diverse. But the forms signified by the name “God” and the name “man” are diverse with the greatest diversity. Therefore this proposition, “God is a man,” is in a remote matter. Therefore it is false, since all affirmatives in remote matter are false.  
 
 On the contrary, *theirs are the patriarchs, from whom the Christ came, according to the flesh, and who is the blessed God forever* (Rom 9:5). But the Christ born according to the flesh is a certain man. Therefore a man is God.  
 
-Furthermore, Bernard says, in *On Consideration*,Bernard, *De consideratione libri V,* vol. 3, bk. 5, ch. 9, para. 21 (PL 182:800). that *the person presents in himself so great and express a power of union, by which God and the man are the one Christ, that if you predicate either of the other, you will not err*. Therefore God is a man, and vice versa.  
+Furthermore, Bernard says, in *On Consideration*, *(Bernard, *De consideratione libri V,* vol. 3, bk. 5, ch. 9, para. 21 (PL 182:800).)* that *the person presents in himself so great and express a power of union, by which God and the man are the one Christ, that if you predicate either of the other, you will not err*. Therefore God is a man, and vice versa.  
 
 Furthermore, whatever things are the same as one and the same thing, are also the same as each other. But Christ is God and he is also a man. Therefore God is a man.  
 
-Furthermore, whenever things are one in supposit, the one can be predicated of the other. But the supposit of God and the man is the same, as was said above.Above, d. 6, q. 1, a. 1, resp. 2. Therefore God is a man.  
+Furthermore, whenever things are one in supposit, the one can be predicated of the other. But the supposit of God and the man is the same, as was said above. *(Above, d. 6, q. 1, a. 1, resp. 2.)* Therefore God is a man.  
 
 I answer that the proposition “God is a man” is granted by everyone, but in diverse ways by diverse people.  
 
@@ -156,7 +156,7 @@ But according to the first opinion, this is a predication by identity, but not b
 
 But this cannot stand. For what this opinion says—that the two supposits are the same person—can be understood only in two ways.  
 
-First, such that one person is constituted from the two supposits. And in this way neither of those supposits would be that person, since what is constituted from certain things is not predicated of them, as was said in Distinction 6.Above, d. 6, q. 1, a. 1. Whence its interpretation of the statement “God is a man,” as “he who is God is a man,” will be false in reference to both parts, since neither would God be that person, nor would that person be God. But this is not the way to understand it, since it is not asserting a composite person, but a simple one. The other way it can be understood is such that the supposit of the divine nature is that person who is simple according to reality, and that simple person is that supposit of human nature, which latter comes to it by its assumption.  
+First, such that one person is constituted from the two supposits. And in this way neither of those supposits would be that person, since what is constituted from certain things is not predicated of them, as was said in Distinction 6. *(Above, d. 6, q. 1, a. 1.)* Whence its interpretation of the statement “God is a man,” as “he who is God is a man,” will be false in reference to both parts, since neither would God be that person, nor would that person be God. But this is not the way to understand it, since it is not asserting a composite person, but a simple one. The other way it can be understood is such that the supposit of the divine nature is that person who is simple according to reality, and that simple person is that supposit of human nature, which latter comes to it by its assumption.  
 
 But this latter is wholly impossible, since it would imply a contradiction: namely, that what comes to him is distinct in its own singularity, and is the same as the existing thing to which it comes. For what is one in substance is the same thing, but the one is what is undivided in itself and yet divided from others. Whence the supposit of the human nature that comes to the divine person would be distinct from the divine person, insofar as it is a singular through itself, and also it would not be distinct from it, insofar as it is the same as it. Thus, that person is found to be identical with one of the supposits, namely the supposit of the divine nature, but not with the supposit of the human nature.  
 
@@ -186,13 +186,13 @@ Article 2
 
 ***Whether Christ can be called the "lordly man"***
 
-To the second we proceed as follows.Parallel: *ST* III.16.3. It appears that Christ can be called the “lordly man.”  
+To the second we proceed as follows. *(Parallel: *ST* III.16.3.)* It appears that Christ can be called the “lordly man.”  
 
-Obj. 1: For Augustine says in *Eighty-three Questions*, *one should recall that those eternal goods that are hoped for are the ones that were in the lordly man*,Augustine, *De diuersis quaestionibus octoginta tribus*, q. 36 (CCSL 44A; PL 40:26). and he is speaking of Christ. Therefore he can be called “lordly.”  
+Obj. 1: For Augustine says in *Eighty-three Questions*, *one should recall that those eternal goods that are hoped for are the ones that were in the lordly man*, *(Augustine, *De diuersis quaestionibus octoginta tribus*, q. 36 (CCSL 44A; PL 40:26).)* and he is speaking of Christ. Therefore he can be called “lordly.”  
 
-Obj. 2: Furthermore, Jesus Christ the man participates more in the divine goodness than do all the other saints. But on account of their participation in the divine goodness the other saints are called “lordly,” as is clear from the Gloss on 1 Sam 1:20: *who is such a man but a lordly man?**Glossa ordinaria,* at 1 Samuel 1:20, 2.319 (PL 113:541). In 1 Samuel 1:15 and 26, Hannah calls Eli “my lord.” Therefore much more can Christ be called the “lordly man.”  
+Obj. 2: Furthermore, Jesus Christ the man participates more in the divine goodness than do all the other saints. But on account of their participation in the divine goodness the other saints are called “lordly,” as is clear from the Gloss on 1 Sam 1:20: *who is such a man but a lordly man?* *(*Glossa ordinaria,* at 1 Samuel 1:20, 2.319 (PL 113:541). In 1 Samuel 1:15 and 26, Hannah calls Eli “my lord.”)* Therefore much more can Christ be called the “lordly man.”  
 
-Obj. 3: Furthermore, just as “lordly” is said denominatively from “lord,” so is “divine” said denominatively from “God.” But Dionysius frequently calls Christ *the most divine Jesus.*Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 4, n. 4 (PG 3:478). Therefore he can also be called “lordly.”  
+Obj. 3: Furthermore, just as “lordly” is said denominatively from “lord,” so is “divine” said denominatively from “God.” But Dionysius frequently calls Christ *the most divine Jesus.* *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 4, n. 4 (PG 3:478).)* Therefore he can also be called “lordly.”  
 
 Obj. 4: Furthermore, just as “God is a man” is true, so too is “this man is God.” But we call him the “manned God.” Therefore we can call him the “lordly man.”  
 
@@ -200,19 +200,19 @@ Obj. 5: Furthermore, the condition of servitude is better expressed by the name 
 
 On the contrary, what is predicated of something essentially cannot be predicated of it denominatively. But “God” is predicated of Christ the man essentially, since this is true: “this man is God.” Therefore it appears that it should not be predicated denominatively.  
 
-Furthermore, the authority of Augustine quoted in the text*Sent*. III, 7.2(25).1, referring to Augustine, *Retractationum libri duo*, bk. 1, ch. 19 (CCSL 57; PL 32:616). supports the same thing.  
+Furthermore, the authority of Augustine quoted in the text *(*Sent*. III, 7.2(25).1, referring to Augustine, *Retractationum libri duo*, bk. 1, ch. 19 (CCSL 57; PL 32:616).)* supports the same thing.  
 
 I answer that this adjective “lordly” can bring in two things: in one way, what has any participation in a lord, and in another way, a thing that is a lord’s as his possession, either as his effect, as his words are called “lordly,” or as his part, as his foot is called “lordly.” Therefore, as far as pertains to the second opinion, in no way can this man be called the “lordly man.” For “man” brings in the eternal supposit to whom the nature of being lord belongs essentially, and not by participation. Nor is he, as it were, a possession or effect or part of the Lord, but he himself is the Lord, because the Father is Lord, the Son is Lord, and the Holy Spirit is Lord. Likewise also, since the third opinion asserts that the man is united to the Son of God as his condition, it cannot assert that the man would be denominated by “God,” but rather God would be denominated by “man,” since a condition denominates the one who has it, but not vice versa. Yet insofar as “lordly” is said possessively, [this opinion] could assert that the man is “lordly,” just as one might say the clothes are “Socratic.” But the first opinion could assert that the man might be called “lordly” even by participation, insofar as the eternal supposit is not being brought in by the name “man,” according to them.  
 
-Reply Obj. 1: Augustine retracted that, as the Master notes in the text.*Sent*. III, 7.2(25).1, citing Augustine, *Retractationum libri du*o, bk. 1, ch. 19, n. 8 (CCSL 57; PL 32:616). And when he said it, he did not understand it as though [the man] would be called “lordly” by reason of the supposit, but by reason of the [human] nature, which comes to participate in the Lord, just as it comes to participate in the divinity, insofar as it is assumed into the unity with the person of the Son of God, who is God and Lord.  
+Reply Obj. 1: Augustine retracted that, as the Master notes in the text. *(*Sent*. III, 7.2(25).1, citing Augustine, *Retractationum libri du*o, bk. 1, ch. 19, n. 8 (CCSL 57; PL 32:616).)* And when he said it, he did not understand it as though [the man] would be called “lordly” by reason of the supposit, but by reason of the [human] nature, which comes to participate in the Lord, just as it comes to participate in the divinity, insofar as it is assumed into the unity with the person of the Son of God, who is God and Lord.  
 
-Reply Obj. 2: That man does not, properly speaking, participate in the divinity and lordship, but is fully Lord. For “man” indicates the eternal supposit, as was said.Above, and in d. 6, q. 1, a. 3, ad 3. And therefore the account of this is not like that of the other men.  
+Reply Obj. 2: That man does not, properly speaking, participate in the divinity and lordship, but is fully Lord. For “man” indicates the eternal supposit, as was said. *(Above, and in d. 6, q. 1, a. 3, ad 3.)* And therefore the account of this is not like that of the other men.  
 
 Reply Obj. 3: Something can be called “divine” even if it possesses the full notion of the divinity, for we call the essence “divine” and the persons “divine.” And therefore this man, since he is a divine person, can also be called “divine.” But “lordly” is not said of those who possess the full notion of being lord, for we do not call the persons “lordly.”  
 
-Reply Obj. 4: Because the human nature in Christ bears a certain likeness to a condition, as was said before,Above, d. 6, q. 3, a. 2, ad 1. therefore things that pertain to the human nature are sometimes found predicated of Christ in the manner of a condition. But they are not properly predicated this way, and therefore Cassiodorus adds, *if I might speak this way*. Nevertheless, the account is not similar on the other side, since the divine nature bears no likeness to a condition. Or it should be said that when is God called “manned,” “manned” is not being taken with the force of a denominative name, but with the force of a participle; in this way “manned” is valid, inasmuch as he was made man. And this is clear by Damascene’s authority quoted in the text.*Sent*. III, 7.1(23).9, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:987).  
+Reply Obj. 4: Because the human nature in Christ bears a certain likeness to a condition, as was said before, *(Above, d. 6, q. 3, a. 2, ad 1.)* therefore things that pertain to the human nature are sometimes found predicated of Christ in the manner of a condition. But they are not properly predicated this way, and therefore Cassiodorus adds, *if I might speak this way*. Nevertheless, the account is not similar on the other side, since the divine nature bears no likeness to a condition. Or it should be said that when is God called “manned,” “manned” is not being taken with the force of a denominative name, but with the force of a participle; in this way “manned” is valid, inasmuch as he was made man. And this is clear by Damascene’s authority quoted in the text. *(*Sent*. III, 7.1(23).9, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 3 (PG 94:987).)*  
 
-Reply Obj. 5: The Apostle does not say that Christ, or the Son of God, is a servant, but that he took the form of a servant, since, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 21 (PG 94:1086). if Christ’s human nature were separated, in subtle thought, from the Son of God, it is both servile and ignorant. And therefore the adjective “lordly” can indeed be said of that nature, so that it could be called a “lordly nature.”  
+Reply Obj. 5: The Apostle does not say that Christ, or the Son of God, is a servant, but that he took the form of a servant, since, as Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 21 (PG 94:1086).)* if Christ’s human nature were separated, in subtle thought, from the Son of God, it is both servile and ignorant. And therefore the adjective “lordly” can indeed be said of that nature, so that it could be called a “lordly nature.”  
 
 Question 2  
 
@@ -248,9 +248,9 @@ Furthermore, everything that is, and was not before, is said to have been made. 
 
 I answer that when one says that “God was made man,” this participle “made” can mean three things in this expression. In one way, such that it is applied to the entire proposition, so that the sense is: “it was made so that God be a man.” And this is true, although this understanding cannot be held according to what is proper to the expression—both because this interpretation is not one of those statements that carry any determinate composition, as do the necessary and the contingent, and also because, since [“made”] is an adjective of the masculine gender, it requires a [masculine] substantive. Second, the aforesaid participle [“made”] can determine absolutely either extreme of the composition. And in this way—namely, such that it determines the predicate or the subject—the expression is false. For any determination can be predicated of the thing being determined. But this is false: “God is made,” as is likewise, “that man is made,” indicating Christ, unless one add something else, because it supposes the eternal supposit, according to the second opinion. In the third way, this participle can determine the subject in its relation to the predicate. And in this way the expression is true, according to all the opinions.  
 
-And it is not an obstacle that this appears to put coming to be in God, since the coming to be that the participle brings in is only a coming to be according to reason. For it was said aboveAbove, d. 2, q. 2, a. 2, resp. 3, ad 2. that the union by which God is said to be a man is in the human nature according to reality, but in God according to reason, as are other relations that are said of God in reference to time. And since he is said to be “made man” only insofar as the relation of union comes to him anew, after it was not, therefore just as that relation does not place some new reality in God, but is said only according to the reason of the one understanding it, so too “made” imports in God only a coming to be of reason. This is like when it is said, *Lord, you have been made our refuge* (Ps 90:1).  
+And it is not an obstacle that this appears to put coming to be in God, since the coming to be that the participle brings in is only a coming to be according to reason. For it was said above *(Above, d. 2, q. 2, a. 2, resp. 3, ad 2.)* that the union by which God is said to be a man is in the human nature according to reality, but in God according to reason, as are other relations that are said of God in reference to time. And since he is said to be “made man” only insofar as the relation of union comes to him anew, after it was not, therefore just as that relation does not place some new reality in God, but is said only according to the reason of the one understanding it, so too “made” imports in God only a coming to be of reason. This is like when it is said, *Lord, you have been made our refuge* (Ps 90:1).  
 
-Reply Obj. 1: “Change” properly speaks of the departure from the starting-point, but “coming to be” speaks of the approach to the end-point. Therefore since nothing departs from God, either according to a reality or according to reason, but something does come to him according to reason, though not according to a reality, thus he can be said to “come to be” but not to “change.” This is also the like the way a knower does not, properly speaking, change when he considers something; rather, he is perfected, as the Philosopher says.Aristotle, *On the Soul* 2.5, 417b2–30; Aquinas, *Sent. De anima,* bk. 2, lect. 11, nn. 365–370.  
+Reply Obj. 1: “Change” properly speaks of the departure from the starting-point, but “coming to be” speaks of the approach to the end-point. Therefore since nothing departs from God, either according to a reality or according to reason, but something does come to him according to reason, though not according to a reality, thus he can be said to “come to be” but not to “change.” This is also the like the way a knower does not, properly speaking, change when he considers something; rather, he is perfected, as the Philosopher says. *(Aristotle, *On the Soul* 2.5, 417b2–30; Aquinas, *Sent. De anima,* bk. 2, lect. 11, nn. 365–370.)*  
 
 Reply Obj. 2: This coming to be is only one of reason, and therefore it is not a problem that one assert it about God.  
 
@@ -264,19 +264,19 @@ Article 2
 
 ***Whether this is true: “a man was made God”***
 
-To the second we proceed as follows.Parallels: *ST* III.16.7; 33.3; *Contra errores Graecorum*, ch. 21; *Super Rom.* 1, lect. 2. It appears that this is not true: “a man was made God.”  
+To the second we proceed as follows. *(Parallels: *ST* III.16.7; 33.3; *Contra errores Graecorum*, ch. 21; *Super Rom.* 1, lect. 2.)* It appears that this is not true: “a man was made God.”  
 
-Obj. 1: For Damascene says, and it is noted in the text,*Sent*. III, 7.2(24).4, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:987). that *we do not call the man deified.* But it is the same thing to say “deified man” and “made God.” Therefore, man was not made God.  
+Obj. 1: For Damascene says, and it is noted in the text, *(*Sent*. III, 7.2(24).4, quoting John Damascene, *On the Orthodox Faith*, bk. 3, ch. 2 (PG 94:987).)* that *we do not call the man deified.* But it is the same thing to say “deified man” and “made God.” Therefore, man was not made God.  
 
 Obj. 2: Furthermore, when it is said, “a man was made God,” “man” is being taken either as the nature or for the person. If it is taken as the nature, it is false, because the human nature was not made God, since it never is nor was God. If it is taken as the person, then in no way is it true that “a man was made God,” since the person of the Son of God always was God.  
 
-Obj. 3: Furthermore, according to Damascene,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 4 (PG 94:998). the man and God share their properties with each other, so that whatever is said of the man can be said of the Son of God. But “the Son of God was made God” is false. Therefore “a man was made God” is also false.  
+Obj. 3: Furthermore, according to Damascene, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 4 (PG 94:998).)* the man and God share their properties with each other, so that whatever is said of the man can be said of the Son of God. But “the Son of God was made God” is false. Therefore “a man was made God” is also false.  
 
 Obj. 4: Furthermore, because God was made man, I can argue that God is a new man. Therefore if the man was made God, the man will be a new God. But this is opposed to the Psalm: *there shall not be among you any new god; you shall not bow down to a foreign god* (Ps 81:9).  
 
 Obj. 5: Furthermore, what is said to come to be something is, in thought, presupposed to what it is said to come to be. But Christ is not understood to be a man before he is God. Therefore it cannot be said that “a man was made God.”  
 
-On the contrary (6), Augustine says, *such was the union that made a man God and God a man*.Augustine, *On the Trinity*, bk. 1, ch. 13 (CCSL 50; PL 42:840).  
+On the contrary (6), Augustine says, *such was the union that made a man God and God a man*. *(Augustine, *On the Trinity*, bk. 1, ch. 13 (CCSL 50; PL 42:840).)*  
 
 Furthermore (7), a man is God and he was not always God. Therefore he was made God.  
 
@@ -300,9 +300,9 @@ Reply Obj. 2: The first opinion would say that [“man”] is being taken as the
 
 Reply Obj. 3: This ought to be understood of things that belong to the nature according to itself, and that are not repugnant to the other nature. However, the saying “being made God” does not belong to the [human] nature according to itself, but by reason of the union. This is why “a man was made God, so the Son of God was made God” does not follow, just as “a man was united to God, so God was united to God” does not follow.  
 
-Reply Obj. 4: “God was made man, so he is a new man” does not follow from the force of the statement. For if the assumed man, according to the first opinion, or the human nature, was from eternity, it would still be said that “God was made man.” This is why, as is said in the text,*Sent.* III, 7.1(23).4. it does not follow that he is a new God, but that he is now God, that is, newly. And this is not a problem, according to the first opinion.  
+Reply Obj. 4: “God was made man, so he is a new man” does not follow from the force of the statement. For if the assumed man, according to the first opinion, or the human nature, was from eternity, it would still be said that “God was made man.” This is why, as is said in the text, *(*Sent.* III, 7.1(23).4.)* it does not follow that he is a new God, but that he is now God, that is, newly. And this is not a problem, according to the first opinion.  
 
-Reply Obj. 5: With respect to the third understanding of the stated proposition, that argument follows. Whence the first opinion, which grants the proposition according to that understanding, says that “man” is understood in advance to the union, as has been said at the beginning of Distinction 6.See d. 6, prologue. However, according to the first sense, according to which the second and third opinions grant the proposition, it does not follow.  
+Reply Obj. 5: With respect to the third understanding of the stated proposition, that argument follows. Whence the first opinion, which grants the proposition according to that understanding, says that “man” is understood in advance to the union, as has been said at the beginning of Distinction 6. *(See d. 6, prologue.)* However, according to the first sense, according to which the second and third opinions grant the proposition, it does not follow.  
 
 Reply Sed Contra 6: Augustine’s assertion should be understood according to the first mode, since that union made it so that God would be a man, and vice versa.  
 
@@ -324,7 +324,7 @@ Article 1
 
 ***Whether Christ the man was predestined to be Son of God***
 
-To the first we proceed as follows.Parallels: below, d. 11, a. 4, ad 4; *In I Sent.*, d. 40, q. 2, a. 1; *ST* III.24.1; *Super Rom*. 1, lect. 3. It appears that Christ was not predestined to be the Son of God.  
+To the first we proceed as follows. *(Parallels: below, d. 11, a. 4, ad 4; *In I Sent.*, d. 40, q. 2, a. 1; *ST* III.24.1; *Super Rom*. 1, lect. 3.)* It appears that Christ was not predestined to be the Son of God.  
 
 Obj. 1: Because just as what always was does not come to be, so too what always was is not predestined to be, since predestination signifies coming beforehand. But “Christ the man” supposes the eternal supposit that was always the Son of God. Therefore just as for that very reason one cannot say that the man was made God, so too one cannot say that he was predestined to be the Son of God.  
 
@@ -348,7 +348,7 @@ Moreover, the second condition of predestination, according to the second and th
 
 Likewise also the third condition, according to the first opinion, belongs to the man by reason of the human nature’s supposit, which was not always the Son of God. However, according to the second and third opinions, predestination belongs to the man not by reason of the supposit, but by reason of the nature. For that supposit always was the Son of God, but it was not always subsisting in the humanity.  
 
-Whence with respect to the two last conditions, the aforesaid expression is more proper according to the first opinion than according to the others. But with respect to the first condition, it is proper according to the other opinions, but not according to the first, according to which, as was said above,Above, q. 1, a. 1. “man” cannot properly be predicated of God, or vice versa.  
+Whence with respect to the two last conditions, the aforesaid expression is more proper according to the first opinion than according to the others. But with respect to the first condition, it is proper according to the other opinions, but not according to the first, according to which, as was said above, *(Above, q. 1, a. 1.)* “man” cannot properly be predicated of God, or vice versa.  
 
 Reply Obj. 1: A diversity of consideration changes nothing about things in reality, but it does change things that pertain to an act of the soul. However, this participle “made” is imposed from an act that is in reality. Therefore since being made God does not belong to the eternal supposit in itself, neither would it belong to it when considered as subsisting in the human nature. However, “predestined” is a participle imposed from an act of the soul, namely foreseeing or preordaining, and therefore although being predestined to be the Son of God does not belong to the eternal supposit in itself, nonetheless it does belong to it insofar as it is the supposit of a human nature. This is just as, if a man becomes white, this is false: “then the white man begins to be a man”; but this can be true: “then the white man begins to be considered as man.”  
 
@@ -408,7 +408,7 @@ Reply Obj. 3: Although being a man was not a grace for the Son of God, still he 
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that in Sacred Scripture sometimes something is said “to come to be so” when it is made known. Therefore the expression “to be the Son of God” can be taken either according to reality or according to its evidence, that is, insofar as it is being manifested. If it be taken in the first way, then it is false to say, “the Son of God was predestined to be the Son of God,” since in the expression nothing is asserted that the predestination could come before, which the word contains. However, if it is taken in the second way, in this way the Gloss on Romans 1:4,Oecumenius, *Pauli Epistola ad Romanos*, ch. 1 (PG 118:326). *who was predestioned to be the Son of God in power,* does grant that the Son of God was predestined to be the Son of God—that is, that he would appear to be so evidentially. This was what happened in the Resurrection; which is why he also said at that time, *all power in heaven and earth has been given to me* (Matt 28:18). And according to this sense, the account here is the same as that in the preceding article, since “predestination,” simply speaking, brings in a preordination. Therefore with regard to the first sense, this is false: “the Son of God was predestined to be the Son of God.”  
+To the second question, it should be said that in Sacred Scripture sometimes something is said “to come to be so” when it is made known. Therefore the expression “to be the Son of God” can be taken either according to reality or according to its evidence, that is, insofar as it is being manifested. If it be taken in the first way, then it is false to say, “the Son of God was predestined to be the Son of God,” since in the expression nothing is asserted that the predestination could come before, which the word contains. However, if it is taken in the second way, in this way the Gloss on Romans 1:4, *(Oecumenius, *Pauli Epistola ad Romanos*, ch. 1 (PG 118:326).)* *who was predestioned to be the Son of God in power,* does grant that the Son of God was predestined to be the Son of God—that is, that he would appear to be so evidentially. This was what happened in the Resurrection; which is why he also said at that time, *all power in heaven and earth has been given to me* (Matt 28:18). And according to this sense, the account here is the same as that in the preceding article, since “predestination,” simply speaking, brings in a preordination. Therefore with regard to the first sense, this is false: “the Son of God was predestined to be the Son of God.”  
 
 Reply Obj. 1: Of the things that are said of the man, only the ones that are not repugnant in their notions to the Son of God can be said of the Son of God. But being “predestined” bears such a repugnance, since the Son of God is eternal, whereas “predestination” carries with it a coming beforehand, which is not possible relative to the eternal.  
 
@@ -428,14 +428,14 @@ Reply Obj. 3: Although there is only one supposit, still it is the supposit of t
 
 Exposition of the text  
 
-*He was made, undoubtedly, that which he was not before*.*Sent*. III, 7.1(23).2, quoting Origen, *In Epistulam Pauli ad Romanos explanationum libri*, ch. 1 (PG 14:848). This statement is improper, since it cannot be understood either of the nature, since God was not made a human nature, or of the person or supposit, since that supposit always was, according to the second opinion. Whence “that which he was not before” should be interpreted as “one who has a nature that he did not have before.”  
+*He was made, undoubtedly, that which he was not before*. *(*Sent*. III, 7.1(23).2, quoting Origen, *In Epistulam Pauli ad Romanos explanationum libri*, ch. 1 (PG 14:848).)* This statement is improper, since it cannot be understood either of the nature, since God was not made a human nature, or of the person or supposit, since that supposit always was, according to the second opinion. Whence “that which he was not before” should be interpreted as “one who has a nature that he did not have before.”  
 
-*Because God took on man*,*Sent*. III, 7.1(23).4. that is, a human nature, as was glossed above in Distinction 5;Above, d. 5, q. 3, a. 2. otherwise this would be against the opinion that says, “a man was not assumed, but rather a human nature.”  
+*Because God took on man*, *(*Sent*. III, 7.1(23).4.)* that is, a human nature, as was glossed above in Distinction 5; *(Above, d. 5, q. 3, a. 2.)* otherwise this would be against the opinion that says, “a man was not assumed, but rather a human nature.”  
 
-*But the meaning is changed in saying, 'God is man' and 'man is God.'**Sent*. III, 7.1(23).4. The reason for the change is that the divine nature is predicated of the person of Christ, but the human nature is not.  
+*But the meaning is changed in saying, 'God is man' and 'man is God.'* *(*Sent*. III, 7.1(23).4.)* The reason for the change is that the divine nature is predicated of the person of Christ, but the human nature is not.  
 
-*And what was said earlier, ‘Christ is both and one person,’ may trouble the reader*.*Sent*. III, 7.1(23).11, referring to the citation, in *Sent*. III, 7.1(23).8, quoting *Contra Felicianum Arianum de unitate Trinitatis*, ch. 12 (PL 42:1165–1166); although included among the works of Augustine, the Patrologia Latina indicates that this should be attributed to Vigilius of Thapse. This is placed above, under the heading: *But these appear to be contradicted*.*Sent*. III, 7.1(23).8.  
+*And what was said earlier, ‘Christ is both and one person,’ may trouble the reader*. *(*Sent*. III, 7.1(23).11, referring to the citation, in *Sent*. III, 7.1(23).8, quoting *Contra Felicianum Arianum de unitate Trinitatis*, ch. 12 (PL 42:1165–1166); although included among the works of Augustine, the Patrologia Latina indicates that this should be attributed to Vigilius of Thapse.)* This is placed above, under the heading: *But these appear to be contradicted*. *(*Sent*. III, 7.1(23).8.)*  
 
-*And when Christ is said to be less than the Father according to his being a man, they understand this to be said according to habit*.*Sent*. III, 7.2(24).3. He explains this expression according to this [second] opinion, since this opinion cannot accept it. For above Augustine had said in Book I*Sent*. I. 16. prologue and exposition of the text. that the Holy Spirit is not less than himself on account of the dove under which he appeared visibly.  
+*And when Christ is said to be less than the Father according to his being a man, they understand this to be said according to habit*. *(*Sent*. III, 7.2(24).3.)* He explains this expression according to this [second] opinion, since this opinion cannot accept it. For above Augustine had said in Book I *(*Sent*. I. 16. prologue and exposition of the text.)* that the Holy Spirit is not less than himself on account of the dove under which he appeared visibly.  
 
-*Always holding firmly that . . . ‘God took on man.’**Sent*. III, 7.3(25).3. This should be explained as was done above, such that “man” is be used for the human nature, as [the Master] himself taught that it should be explained, in Distinction 5.*Sent.* III, 5.3(16).1–4.
+*Always holding firmly that . . . ‘God took on man.’* *(*Sent*. III, 7.3(25).3.)* This should be explained as was done above, such that “man” is be used for the human nature, as [the Master] himself taught that it should be explained, in Distinction 5. *(*Sent.* III, 5.3(16).1–4.)*

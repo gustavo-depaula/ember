@@ -8,7 +8,7 @@ Postquam determinavit Magister de scientia et omnipotentia Dei hic tertio determ
 
 Prima in duas: in prima determinat de voluntate Dei quid sit et quot modis dicatur; in secunda inquirit de efficacia ejus, 46 dist., ibi: *hic oritur quaestio*.  
 
-Prima dividitur in tres: in prima determinat de voluntate secundum ipsius quidditatem; in secunda determinat causalitatem ejus, ibi: *haec itaque summe bona voluntas causa est omnium quae naturaliter fiunt*; in tertia assignat voluntatis multiplicitatem,Parma: *multitudinem*. quantum ad acceptionem nominis, ibi: *hic non est praetereundum nobis quod Sacra Scriptura de voluntate Dei variis modis loqui consuevit*.  
+Prima dividitur in tres: in prima determinat de voluntate secundum ipsius quidditatem; in secunda determinat causalitatem ejus, ibi: *haec itaque summe bona voluntas causa est omnium quae naturaliter fiunt*; in tertia assignat voluntatis multiplicitatem, *(Parma: *multitudinem*.)* quantum ad acceptionem nominis, ibi: *hic non est praetereundum nobis quod Sacra Scriptura de voluntate Dei variis modis loqui consuevit*.  
 
 Prima in duas: in prima ostendit quod voluntas Dei sit sua essentia; in secunda ponit objectionem in contrarium, et solvit, ibi: *et licet idem sit Deo velle quod esse, non tamen dicendum est Deum esse omnia quae vult*.  
 
@@ -20,7 +20,7 @@ Circa secundam partem duo facit: primo ostendit voluntatem signi multipliciter d
 
 Et circa hoc duo facit: primo prosequitur de tribus signis quae pertinent ad faciendum vel non faciendum; secundo prosequitur de aliis duobus, quae pertinent ad id quod in praesenti fit, ibi: *permissio quoque Dei et operatio voluntas Dei appellantur*.  
 
-Circa primum triaAl.: *duo*. facit: primo assignat rationem quare haec signa voluntatis dici voluntas possunt; secundo confirmat per auctoritatem, quod voluntates dicantur, ibi: *pro praecepto Dei atque consilio potest accipi voluntas*; tertio ostendit distantiam inter haec signa et beneplaciti voluntatem, ibi: *et si illa tria dicuntur Dei voluntas, ideo quia signa sunt divinae voluntatis, non est tamen intelligendum, Deum omne illud fieri velle quod cuicumque praecepit vel non fieri quod prohibuit*.  
+Circa primum tria *(Al.: *duo*.)* facit: primo assignat rationem quare haec signa voluntatis dici voluntas possunt; secundo confirmat per auctoritatem, quod voluntates dicantur, ibi: *pro praecepto Dei atque consilio potest accipi voluntas*; tertio ostendit distantiam inter haec signa et beneplaciti voluntatem, ibi: *et si illa tria dicuntur Dei voluntas, ideo quia signa sunt divinae voluntatis, non est tamen intelligendum, Deum omne illud fieri velle quod cuicumque praecepit vel non fieri quod prohibuit*.  
 
 Quaestio 1  
 
@@ -30,7 +30,7 @@ Quaestio 1
 
 primo utrum in Deo sit voluntas;  
 
-secundo utrum voluntas sit sui ipsius tantum sicutParma omits *sui* and *sicut*. objecti vel etiam aliorum;  
+secundo utrum voluntas sit sui ipsius tantum sicut *(Parma omits *sui* and *sicut*.)* objecti vel etiam aliorum;  
 
 tertio utrum voluntas sua sit causa eorum quae fiunt;  
 
@@ -46,7 +46,7 @@ Voluntas enim appetitus quidam est. Sed omnis appetitus est imperfecti; unde eti
 
 Praeterea, actus voluntatis est tendere in finem, qui est ejus objectum. Sed ei quod est finis ultimus, non competit tendere in finem. Ergo cum Deus sit finis omnium, videtur quod sibi voluntas non competat.  
 
-Praeterea, secundum Philosophum in 3 *De anima*, voluntas est movens motum; etParma: *quia*. movetur a volito. Sed secundum Boetium, 3 lib. *De consolat*., Deus immobilis manens dat cuncta moveri; unde etiam in 9 *Metaph*. dicitur quod movet sicut desideratum. Desideratum autem non motum movet desiderium. Ergo videtur quod voluntas sibi non competat.  
+Praeterea, secundum Philosophum in 3 *De anima*, voluntas est movens motum; et *(Parma: *quia*.)* movetur a volito. Sed secundum Boetium, 3 lib. *De consolat*., Deus immobilis manens dat cuncta moveri; unde etiam in 9 *Metaph*. dicitur quod movet sicut desideratum. Desideratum autem non motum movet desiderium. Ergo videtur quod voluntas sibi non competat.  
 
 Praeterea, secundum Philosophum, in 3 *De anima*, et etiam secundum Damascenum, 2 *Fid. ort*., cap. 22, voluntas est in ratione. Sed ratio nominat obumbratam cognitionem, quia oritur in umbra intelligentiae, ut dicit Isaac in libro *Definitionum*; qualis cognitio Deo non competit. Ergo videtur quod nec voluntas.  
 
@@ -58,7 +58,7 @@ Praeterea, omnes qui Deum confitentur, eum felicissimum ponunt. Sed felicitas si
 
 Respondeo dicendum, quod in omni natura ubi invenitur cognitio, invenitur etiam voluntas et delectatio. Cujus ratio est, quia omne quod habet virtutem cognoscitivam, potest dijudicare conveniens et repugnans; et quod apprehenditur ut conveniens oportet esse volitum vel appetitum. Et ideo in nobis secundum duplicem cognitionem sensus et intellectus est duplex appetitiva: una quae sequitur apprehensionem intellectus, quae voluntas dicitur; alia quae sequitur apprehensionem sensus, quae dividitur in irascibilem et concupiscibilem. Unde cum in Deo, ut supra ostensum est, sit intellectualis cognitio, oportet quod in eo etiam sit voluntas et delectatio, secundum quod una et simplici operatione Deus gaudet, ut in 7 *Ethic*., cap. 14, dicit Philosophus. In omni enim natura cognoscente operatio perfecta et naturalis delectabilis est.  
 
-Ad primum ergo dicendum, quod quamvis in Deo dicatur esse voluntas, non tamen conceditur ibi esse appetitus: quia, secundum Augustinum, *In psal*. 118, appetitus proprie est rei non habitae. Deus autem totum suum bonum in se habet. Unde nec etiam in nobis proprie voluntatis actus appetitus est quando volito conjunctusParma: v*oluntas appetitus . . . conjuncta*. est. Sed amor est rei jam habitae, secundum Augustinum, ibid.  
+Ad primum ergo dicendum, quod quamvis in Deo dicatur esse voluntas, non tamen conceditur ibi esse appetitus: quia, secundum Augustinum, *In psal*. 118, appetitus proprie est rei non habitae. Deus autem totum suum bonum in se habet. Unde nec etiam in nobis proprie voluntatis actus appetitus est quando volito conjunctus *(Parma: v*oluntas appetitus . . . conjuncta*.)* est. Sed amor est rei jam habitae, secundum Augustinum, ibid.  
 
 Et per hoc patet etiam responsio ad secundum. Quia tendere in finem accidit voluntati secundum quod est distans a fine; sed operationem habere circa finem, hoc est voluntati essentiale; et haec praecipue Deo convenit, qui se amat et in se delectatur.  
 
@@ -90,7 +90,7 @@ Ad primum ergo dicendum, quod in objecto alicujus potentiae est duo considerare:
 
 Ad secundum dicendum, quod illud quod est volitum sicut finis est movens voluntatem, et perficiens eam: et sic nihil movet voluntatem divinam nisi Deus: sed illud quod est ordinatum ad finem est volitum ab eo sicut effectum a voluntate, et motum ab ea; sicut patet in voluntate artificis quae est principium operationum ordinatarum in finem.  
 
-Ad tertium dicendum, quod voluntas Dei non est nisi ejus quod est suum bonum; sed tamen non eodem modo sicut in voluntate nostra, quae vult bonum suum, quo scilicet perficitur sicut fine, vel per quod finem consequitur; sed voluntas divina vult bonum suum quod est ipsa et quod ab ea est, et non per quod juvatur; et ideo non referturParma: *refert ad ipsius*, omitting *non*. ad ipsius perfectionem, utrum volitum ab eo sit vel non sit.  
+Ad tertium dicendum, quod voluntas Dei non est nisi ejus quod est suum bonum; sed tamen non eodem modo sicut in voluntate nostra, quae vult bonum suum, quo scilicet perficitur sicut fine, vel per quod finem consequitur; sed voluntas divina vult bonum suum quod est ipsa et quod ab ea est, et non per quod juvatur; et ideo non refertur *(Parma: *refert ad ipsius*, omitting *non*.)* ad ipsius perfectionem, utrum volitum ab eo sit vel non sit.  
 
 Ad quartum dicendum, quod Deus non ordinat creaturas in finem bonitatis suae, quasi per eas bonitatem suam assequatur, sed ut ipsae creaturae divina operatione similitudinem aliquam divinae bonitatis acquirant, quod esse non posset, nisi eo volente et faciente.  
 
@@ -116,17 +116,17 @@ Praeterea, Dionysius dicit in 4 cap. *De div. nomin*.: *amor trahit superiora in
 
 Respondeo dicendum, quod opus determinatum non progreditur nisi a determinato agente; et inde est quod illud quod est tantum in potentia, non agit, quia se habet indeterminate ad multa; sed forma quae est terminans potentiam materiae principium actionis dicitur; et ideo in omnibus quorum potentia activa determinata est ad unum effectum nihil requiritur ex parte agentis ad agendum supra potentiam completam, dummodo non sit impedimentum ex defectu recipientis ad hoc quod sequatur effectus: sicut patet in omnibus agentibus ex necessitate naturae.  
 
-Potentia autem Dei cum sit infinita, non magis determinatur ad hoc quam ad illud: nec ex parte operisParma: *materiae opus*. ejus determinationem recipere potest, quia ipse etiam materiam et formam producit. Unde oportet quod supra rationem potentiae sit aliquid aliud per quod opus determinetur. Hoc autem fit per scientiam, quae propriam rationem rei cognoscit. Sed quia scientia se habet ad opposita, est enim et bonorum et malorum, ideo oportet aliquid adhuc addere in quo perficiatur ratio causae; et hoc est voluntas quae determinate accipit unum ex duobus quae scit vel quae potest. Unde perfecta ratio causalitatis in his quae non agunt ex necessitate naturae, invenitur primo in voluntate, ut dicit Philosophus, in 9 *Metaph*.: et hoc convenit voluntati, inquantum objectum ejus est finis, qui est causa causarum, et a quo sumitur determinatio operis, ut patet ex 2 *Physic*.; et ideo voluntati divinae ascribitur causalitas rerum.  
+Potentia autem Dei cum sit infinita, non magis determinatur ad hoc quam ad illud: nec ex parte operis *(Parma: *materiae opus*.)* ejus determinationem recipere potest, quia ipse etiam materiam et formam producit. Unde oportet quod supra rationem potentiae sit aliquid aliud per quod opus determinetur. Hoc autem fit per scientiam, quae propriam rationem rei cognoscit. Sed quia scientia se habet ad opposita, est enim et bonorum et malorum, ideo oportet aliquid adhuc addere in quo perficiatur ratio causae; et hoc est voluntas quae determinate accipit unum ex duobus quae scit vel quae potest. Unde perfecta ratio causalitatis in his quae non agunt ex necessitate naturae, invenitur primo in voluntate, ut dicit Philosophus, in 9 *Metaph*.: et hoc convenit voluntati, inquantum objectum ejus est finis, qui est causa causarum, et a quo sumitur determinatio operis, ut patet ex 2 *Physic*.; et ideo voluntati divinae ascribitur causalitas rerum.  
 
 Ad primum ergo dicendum, quod in scientia non perficitur ratio causalitatis, ut dictum est, nisi adjuncta voluntate: ideo voluntas potius dicitur causa quam scientia.  
 
 Ad secundum dicendum, quod voluntas est principium operationis, ut primum imperans opus; sed potentia in his quae agunt per voluntatem est principium operis, ut exsequens: et in hoc consistit ratio potentiae ut sit proximum principium operis, et non primum: et sic voluntas Dei potius dicitur causa rerum quam potentia.  
 
-Ad tertium dicendum, quod voluntas divina libertatem habet et ex hoc convenit sibi quod sit ad utrumlibet; sed super hoc habet immutabilitatem, ut ei quod vult, immobiliter adhaereat, ex quo illud velle ponitur:Al.: *vitae ponitur*. et hanc immobilitatem imitantur ea quae sunt necessaria in entibus, quamvis non ipsam adaequent: et propter hoc non est dicendum, quod sit causa contingens, quia contingentia mutabilitatem important.  
+Ad tertium dicendum, quod voluntas divina libertatem habet et ex hoc convenit sibi quod sit ad utrumlibet; sed super hoc habet immutabilitatem, ut ei quod vult, immobiliter adhaereat, ex quo illud velle ponitur: *(Al.: *vitae ponitur*.)* et hanc immobilitatem imitantur ea quae sunt necessaria in entibus, quamvis non ipsam adaequent: et propter hoc non est dicendum, quod sit causa contingens, quia contingentia mutabilitatem important.  
 
 Ad quartum dicendum, quod causalitas divinae voluntatis non excludit omnes causas proximas rerum; nec hoc est ex insufficientia voluntatis, sed ex ordine sapientiae ejus quae effectus mediantibus aliis causis provenire disposuit, ut sic etiam causandi dignitas creaturis communicaretur.  
 
-Ad quintum dicendum, quod demonstratio quae facit scientiam de re, sumitur ex causis proximis rei; et ideo oportet ad scientiam de rebus habendam nobis alias rationes quaerere post voluntatem ejus,Al.: *et potest voluntatem*, etc. quae est causa prima rerum et communis; et praecipue cum voluntatem ejus non plene cognoscamus, ut in ea propriam rei rationem videamus, sicut ipse videt qui in se omnia cognoscit.  
+Ad quintum dicendum, quod demonstratio quae facit scientiam de re, sumitur ex causis proximis rei; et ideo oportet ad scientiam de rebus habendam nobis alias rationes quaerere post voluntatem ejus, *(Al.: *et potest voluntatem*, etc.)* quae est causa prima rerum et communis; et praecipue cum voluntatem ejus non plene cognoscamus, ut in ea propriam rei rationem videamus, sicut ipse videt qui in se omnia cognoscit.  
 
 Articulus 4  
 
@@ -140,7 +140,7 @@ Praeterea, omne signum cui non respondet signatum est signum falsum. Sed istis s
 
 Praeterea, sicut invenitur bonum et melius, ita invenitur malum et pejus, ut veniale et mortale. Sed respectu horum duorum fiendorum est tantum unum signum, scilicet prohibitio. Ergo videtur quod etiam bonorum esse debeat unum tantum signum et non duo, scilicet praeceptum et consilium.  
 
-Praeterea, objectum voluntatis est bonum. Sed malum fieri non est bonum, ut infra dicetur. Ergo maliParma: *hujus*. respectu nullum signum voluntatis divinae debet esse: et ita permissio superfluit.  
+Praeterea, objectum voluntatis est bonum. Sed malum fieri non est bonum, ut infra dicetur. Ergo mali *(Parma: *hujus*.)* respectu nullum signum voluntatis divinae debet esse: et ita permissio superfluit.  
 
 Praeterea, sicut signa voluntatis respiciunt diversa, ita et voluntas beneplaciti est diversorum. Si ergo assignantur diversa signa voluntatis propter diversitatem eorum, videtur quod etiam voluntas beneplaciti multiplicari debeat; aut si non hoc, nec illud.  
 
@@ -154,11 +154,11 @@ Ad finem autem consequendum providentiae est duo largiri: ea scilicet quibus res
 
 Si autem pertinet ad executionem ordinis, hoc potest esse dupliciter. Aut secundum quod tendit in id ad quod ordinatum est, bonum faciendo: et respectu hujus est hoc signum quod est operatio: quia Deus in nobis omnia bona operatur. Aut etiam exeundo ab illo ordine, mala faciendo, qui etiam exitus providentiae subjacet non ut provisus sed ut ordinatus: et respectu hujus est permissio.  
 
-Vel potest sumi meliusAl.: *levius*. sic: quia vel signum voluntatis est respectu praesentium; et sic respectu bonorum est operatio, respectu malorum permissio; vel est futurorum; et sic respectu malorum est prohibitio; respectu boni ad quod omnes tenentur, praeceptum; sed respectu perfectioris boni quod non omnes attingunt, est consilium: et continentur hoc versu: *praecipit ac prohibet, permittit*,Al.: *ac pluribus permittit, et consulit*. *consulit, implet*.  
+Vel potest sumi melius *(Al.: *levius*.)* sic: quia vel signum voluntatis est respectu praesentium; et sic respectu bonorum est operatio, respectu malorum permissio; vel est futurorum; et sic respectu malorum est prohibitio; respectu boni ad quod omnes tenentur, praeceptum; sed respectu perfectioris boni quod non omnes attingunt, est consilium: et continentur hoc versu: *praecipit ac prohibet, permittit*, *(Al.: *ac pluribus permittit, et consulit*.)* *consulit, implet*.  
 
 Ad primum ergo dicendum, quod scientia Dei vere et perfecte est omnium, sed non voluntas: et ideo quaedam metaphorice dicitur velle quae simpliciter non vult, propter quod voluntas signi assignatur.  
 
-Ad secundum dicendum quod effectus qui est signum alicujus secundum proprietatem in uno, est signum ejusdem secundum similitudinem in altero, in omnibus quae metaphorice dicuntur; sicut punitio est signum irae in homine, et in Deo est signum voluntatis puniendi, quae per similitudinem ira dicitur. Et similiter dico quod istis signis respondet aliquid in Deo, quod per similitudinem dicitur voluntas hujus rei, ut praecepto voluntasAl.: *praeceptum*. praecipiendi et ordinandi naturam rationalem in finem, et sic de aliis. Unde patet quod haec signa non sunt falsa.  
+Ad secundum dicendum quod effectus qui est signum alicujus secundum proprietatem in uno, est signum ejusdem secundum similitudinem in altero, in omnibus quae metaphorice dicuntur; sicut punitio est signum irae in homine, et in Deo est signum voluntatis puniendi, quae per similitudinem ira dicitur. Et similiter dico quod istis signis respondet aliquid in Deo, quod per similitudinem dicitur voluntas hujus rei, ut praecepto voluntas *(Al.: *praeceptum*.)* praecipiendi et ordinandi naturam rationalem in finem, et sic de aliis. Unde patet quod haec signa non sunt falsa.  
 
 Ad tertium dicendum, quod sicut in dispositione naturarum dantur a Deo diversae virtutes, quarum una est nobilior altera, ut sic una res perfectius consequatur finem quam alia, ita etiam in dispositione hominum sunt diversa ordinantia in finem: unum communiter omnium, scilicet praeceptum, et alterum perfectorum, scilicet consilium. Sed omne peccatum est in exeundo ab ordine finis; et ideo cuilibet peccatum quodlibet vitandum est. Nec in hoc ad diversos gradus hominum attenditur; et propter hoc unum signum tantum datur de hoc, scilicet prohibitio.  
 
@@ -168,6 +168,6 @@ Ad quintum dicendum, quod voluntas divina, quamvis sit plurium volitorum, non ta
 
 Expositio textus  
 
-*Ideoque placuit vanitati philosophorum etiam causis aliis ea attribuere*. Hoc dicit quantum ad illos qui causam agentem negabant, et ponebant mundum factum esse casu, et quod omnia procederent ex necessitate materiae;Parma: *naturae*. vel quantum ad illos qui ponunt Deum non immediate operari in omnibus, sed in uno tantum, quod est primum creatum.  
+*Ideoque placuit vanitati philosophorum etiam causis aliis ea attribuere*. Hoc dicit quantum ad illos qui causam agentem negabant, et ponebant mundum factum esse casu, et quod omnia procederent ex necessitate materiae; *(Parma: *naturae*.)* vel quantum ad illos qui ponunt Deum non immediate operari in omnibus, sed in uno tantum, quod est primum creatum.  
 
 *Itaque non nisi Dei voluntas causa prima est sanitatis et aegritudinis, praemiorum atque poenarum, gratiarum et retributionum*. Per hoc non excluduntur aliae causae a causalitate, sed ab hoc quod est esse primam causam.

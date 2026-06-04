@@ -54,7 +54,7 @@
 
 > ^28:27^ For gith shall not be thrashed with saws, neither shall the cart wheel turn about upon cummin: but gith shall be beaten out with a rod, and cummin with a staff.
 
-> ^28:28^ But bread*Panis*. DR: “breadcorn.” shall be broken small: but the thrasher shall not thrash it for ever, neither shall the cart wheel hurt it, nor break it with its teeth.
+> ^28:28^ But bread *(*Panis*. DR: “breadcorn.”)* shall be broken small: but the thrasher shall not thrash it for ever, neither shall the cart wheel hurt it, nor break it with its teeth.
 
 > ^28:29^ This also is come forth from the Lord God of hosts, to make his counsel wonderful, and magnify justice.
 
@@ -74,7 +74,7 @@ in the second, against those from the two tribes: ***but these also*** (Isa 28:7
 
 First, he denounces the sin of pride: ***woe to the crown***, for they were proud of their multitude, which is the crown or glory of a king (Prov 14:28);  
 
-second, the sin of gluttony: ***to the drunkards of Ephraim***, Nahum: *with glory you have made me drunk*, ***to the fading flower the glory his joy, who were on the head of the fat valley***, who, in the time of David and Solomon, coming from the heat, established tents of idolatry in the valley of Gethsemane; ***staggering with wine***, namely, idolatry: *the rod has blossomed, the almond tree*Amygdalus*. Vg.: *superbia*. DR: “pride” (cf. Sirach 12:5). has budded* (Ezek 7:10).  
+second, the sin of gluttony: ***to the drunkards of Ephraim***, Nahum: *with glory you have made me drunk*, ***to the fading flower the glory his joy, who were on the head of the fat valley***, who, in the time of David and Solomon, coming from the heat, established tents of idolatry in the valley of Gethsemane; ***staggering with wine***, namely, idolatry: *the rod has blossomed, the almond tree *(*Amygdalus*. Vg.: *superbia*. DR: “pride” (cf. Sirach 12:5).)* has budded* (Ezek 7:10).  
 
 **635**. Second, he threatens punishment: ***behold the Lord is mighty***; and concerning this, he does two things.  
 
@@ -88,7 +88,7 @@ As to the joy of the people, ***a crown***, which is of gold or silver, in contr
 
 As to the justice of the king: ***and he***, the Lord himself, ***shall be a spirit of judgment***: *a king shall reign, and shall be wise: and shall execute judgment and justice in the earth* (Jer 23:5).  
 
-As to the might of their soldiers: ***and strength***, for the Lord will fight for them, above: ***because you have been my strength*** (Isa 25:4).*Fortitudo mea*. Vg.: *fortitudo pauperi*. DR: “a strength to the poor.”  
+As to the might of their soldiers: ***and strength***, for the Lord will fight for them, above: ***because you have been my strength*** (Isa 25:4). *(*Fortitudo mea*. Vg.: *fortitudo pauperi*. DR: “a strength to the poor.”)*  
 
 **637**. ***But these also***. Here he threatens against those among the two tribes who disdain the predictions of the prophets;  
 
@@ -120,7 +120,7 @@ First, he denounces their fault, first setting out the error of them all togethe
 
 second, the fault of their teachers: ***the priest and the prophet have been ignorant***, as to ignorance of what is to be believed; ***they have gone astray***, as to ignorance of what is to be done; ***him that sees***, that is, God who sees all things. Hence the explanation of this can be found in: *her priests have despised my law, and have defiled my sanctuaries* (Ezek 22:26).  
 
-Third, he sets out the manner of their ignorance: ***for all the tables were full of vomit***, for they gorged themselves in their temples until they vomited, as if they were devoted entirely to idols; ***and filth***, namely, of all their shameful vices: *as a dog that returns to his vomit* (Prov 26:11),Cf. 2 Peter 2:22. and the sow that was washed to her wallowing in the mire.  
+Third, he sets out the manner of their ignorance: ***for all the tables were full of vomit***, for they gorged themselves in their temples until they vomited, as if they were devoted entirely to idols; ***and filth***, namely, of all their shameful vices: *as a dog that returns to his vomit* (Prov 26:11), *(Cf. 2 Peter 2:22.)* and the sow that was washed to her wallowing in the mire.  
 
 **639**. Second, he threatens the punishment of blindness: ***whom shall he teach?***  
 
@@ -140,9 +140,9 @@ fourth, of divine punishment: *he has inebriated me with wormwood* (Lam 3:15).
 
 The saints are also inebriated,  
 
-first, with the tears of compunction, above: ***I will inebriate*Inebriabo*. DR: “water.” you with my tears*** (Isa 16:9);  
+first, with the tears of compunction, above: ***I will inebriate *(*Inebriabo*. DR: “water.”)* you with my tears*** (Isa 16:9);  
 
-second, with the chalice of suffering: *your*Tuus*. Vg.: *meus*. DR: “my.” chalice which inebriates me, how goodly is it* (Ps 22[23]:5);  
+second, with the chalice of suffering: *your *(*Tuus*. Vg.: *meus*. DR: “my.”)* chalice which inebriates me, how goodly is it* (Ps 22[23]:5);  
 
 third, with the incentive of love: *eat, O friends, and drink, and be inebriated* (Song 5:1);  
 
@@ -166,7 +166,7 @@ second, a triumphal crown: *he will not be crowned, except he strive lawfully* (
 
 third, a royal crown, below: ***you shall be a crown of glory in the hand of the Lord*** (Isa 62:3); *you, O Lord, have set on his head a crown of precious stones* (Ps 20:4[21:3]);  
 
-fourth, a priestly crown: *and a crown of gold upon his head*Caput*. Vg.: *mitram*. DR: “mitre.” wherein was engraved holiness* (Sir 45:14[12]).  
+fourth, a priestly crown: *and a crown of gold upon his head *(*Caput*. Vg.: *mitram*. DR: “mitre.”)* wherein was engraved holiness* (Sir 45:14[12]).  
 
 **643**. Note also on the words, ***them that are weaned from the milk*** (Isa 28:9), that there is a certain milk that ought to be abandoned, and this is manifold:  
 
@@ -178,15 +178,15 @@ third, of rudimentary doctrine: *as unto little ones in Christ, I gave you milk 
 
 There is also a milk that ought to be embraced:  
 
-first, of a pure conscience: *whiter than snow, brighter*Nitidiores*. DR: “purer.” than milk* (Lam 4:7), because of its brightness;  
+first, of a pure conscience: *whiter than snow, brighter *(*Nitidiores*. DR: “purer.”)* than milk* (Lam 4:7), because of its brightness;  
 
-second, of sound doctrine, because of its sweetness: *honey and milk are under her*Ejus*. Vg.: *tua*. DR: “thy.” tongue* (Song 4:11);  
+second, of sound doctrine, because of its sweetness: *honey and milk are under her *(*Ejus*. Vg.: *tua*. DR: “thy.”)* tongue* (Song 4:11);  
 
 third, of eternal glory, because it easy to swallow: *possess their land flowing with milk and honey* (Lev 20:24).  
 
 **644**. ***For command***. Here he sets out their contempt of teaching,  
 
-and first, through the blasphemy by which they derided the prophets, saying, ***command***, for they used these words in threatening, above: ***I will command the army*** (13)Cf. 13:3–4. of heaven: *I will command the clouds* (Jer 3);Cf. above 5:6. ***expect***, here, in promising: *if it make any delay, wait for*Expecta*. it: for it shall surely come* (Hab 2:3). And he adds the punishment: ***for with the speech of lips, and with another tongue***, that is, you shall so lack understanding of the prophets as if someone were speaking to you, with only the movement of the lips, and in a foreign tongue; or right away he will inflict wounds on you. And of this kind of speaking: *let us examine him by outrages and tortures* (Wis 2:19).  
+and first, through the blasphemy by which they derided the prophets, saying, ***command***, for they used these words in threatening, above: ***I will command the army*** (13) *(Cf. 13:3–4.)* of heaven: *I will command the clouds* (Jer 3); *(Cf. above 5:6.)* ***expect***, here, in promising: *if it make any delay, wait for *(*Expecta*.)* it: for it shall surely come* (Hab 2:3). And he adds the punishment: ***for with the speech of lips, and with another tongue***, that is, you shall so lack understanding of the prophets as if someone were speaking to you, with only the movement of the lips, and in a foreign tongue; or right away he will inflict wounds on you. And of this kind of speaking: *let us examine him by outrages and tortures* (Wis 2:19).  
 
 **645**. Second, as to disobedience, ***to whom he said***.  
 
@@ -194,7 +194,7 @@ Hence he first sets out the precept, ***this is my rest, refresh the weary***: *
 
 second, their contempt, ***and they would not hear***: *but the house of Israel will not hearken to you: because they will not hearken to me* (Ezek 3:7).  
 
-Third, he threatens destruction: ***and the word shall be to them***, that is, they will suffer this punishment for their own words: *by your words*, *I judge you, you wicked servant* (Matt 12:37);Luke 19:22. ***that they may go***, to destruction.  
+Third, he threatens destruction: ***and the word shall be to them***, that is, they will suffer this punishment for their own words: *by your words*, *I judge you, you wicked servant* (Matt 12:37); *(Luke 19:22.)* ***that they may go***, to destruction.  
 
 **646**. ***Wherefore***. Here he excludes remedy.  
 

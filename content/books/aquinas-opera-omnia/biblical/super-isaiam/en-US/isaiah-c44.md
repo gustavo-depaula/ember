@@ -18,9 +18,9 @@
 
 > ^42:9^ The things that were first, behold they are come: and new things do I declare: before they spring forth, I will make you hear them.
 
-> ^42:10^ Sing to the Lord a new song, his praise is from the ends of the earth: you that go down to the sea, and the fullness thereof:*Plenitudo ejus*. DR: “all that are therein.” you islands, and you inhabitants of them.
+> ^42:10^ Sing to the Lord a new song, his praise is from the ends of the earth: you that go down to the sea, and the fullness thereof: *(*Plenitudo ejus*. DR: “all that are therein.”)* you islands, and you inhabitants of them.
 
-> ^42:11^ Let the desert and the cities thereof raise:*Levet*. Vg.: *sublevetur*. DR: “be exalted.” Cedar shall dwell in houses: you inhabitants of Petra, give praise, they shall cry from the top of the mountains.
+> ^42:11^ Let the desert and the cities thereof raise: *(*Levet*. Vg.: *sublevetur*. DR: “be exalted.”)* Cedar shall dwell in houses: you inhabitants of Petra, give praise, they shall cry from the top of the mountains.
 
 > ^42:12^ They shall give glory to the Lord, and shall declare his praise in the islands.
 
@@ -44,7 +44,7 @@
 
 > ^42:22^ But this is a people that is robbed and wasted: they are all the snare of young men, and they are hid in the houses of prisons: they are made a prey, and there is none to deliver them: a spoil, and there is none that says: restore.
 
-> ^42:23^ Who is there among you that will give ear to this, that will attend and hearken to things*Ausculta futura*. DR: “hearken for times.” to come?
+> ^42:23^ Who is there among you that will give ear to this, that will attend and hearken to things *(*Ausculta futura*. DR: “hearken for times.”)* to come?
 
 > ^42:24^ Who has given Jacob for a spoil, and Israel to robbers? Has not the Lord himself, against whom we have sinned? And they would not walk in his ways, and they have not hearkened to his law.
 
@@ -74,13 +74,13 @@ third, he invites to thanksgiving: ***sing to the Lord*** (Isa 42:10).
 
 **818**. Concerning the first, he does three things.  
 
-First, he shows his fullness of grace as to the grace of union: ***I will uphold him*; *my servant***, according to his human nature: *he has upheld*Suscepit*. DR: “received.” Israel his servant* (Luke 1:54); as to the grace of the head: ***my elect***, that he may be the head of the Church, *chosen out of thousands* (Song 5:10); *blessed is he whom you have chosen and taken to you* (Ps 64:5[65:4); ***my soul delights in him***: *this is my beloved Son, in whom I am well pleased* (Matt 17:5); as to the habitual grace, which was in him alone: ***I have given my spirit***, above: ***the spirit of the Lord shall rest upon him*** (Isa 11:2).  
+First, he shows his fullness of grace as to the grace of union: ***I will uphold him*; *my servant***, according to his human nature: *he has upheld *(*Suscepit*. DR: “received.”)* Israel his servant* (Luke 1:54); as to the grace of the head: ***my elect***, that he may be the head of the Church, *chosen out of thousands* (Song 5:10); *blessed is he whom you have chosen and taken to you* (Ps 64:5[65:4); ***my soul delights in him***: *this is my beloved Son, in whom I am well pleased* (Matt 17:5); as to the habitual grace, which was in him alone: ***I have given my spirit***, above: ***the spirit of the Lord shall rest upon him*** (Isa 11:2).  
 
 **819**. Second, he shows the equity of his judgment as to three things:  
 
 namely, the authority to judge, ***he shall bring forth judgment to the Gentiles***: *give to the king your judgment, O God* (Ps 71:2[72:1]); *the Father has given all judgment to the Son* (John 5:22). To which he joins his meekness: ***he shall not cry***: *the words of the wise are heard in silence, more than the cry of a prince among fools* (Eccl 9:17).  
 
-Second, he shows the equality of the judge: ***nor have respect to person***: *God is not a respecter of persons* (Acts 10:34); to which he joins his piety*Pietas*, in the sense of dutiful conduct with respect to one’s parents, country, etc. in coming to help: ***neither shall his voice***, the voice of his preaching, ***be heard abroad***, outside Judea, so that he should first come to the aid of those to whom he was sent (Matt 15:24): *to day if you shall hear his voice, harden not your hearts* (Ps 94[95]:8). And in dissembling: ***the bruised reed***, namely, the kingdom of the Jews, ***smoking flax***,Or linen, from which priestly vestments were made. of the priests: *that which was broken you have not bound up* (Ezek 34:4).  
+Second, he shows the equality of the judge: ***nor have respect to person***: *God is not a respecter of persons* (Acts 10:34); to which he joins his piety *(*Pietas*, in the sense of dutiful conduct with respect to one’s parents, country, etc.)* in coming to help: ***neither shall his voice***, the voice of his preaching, ***be heard abroad***, outside Judea, so that he should first come to the aid of those to whom he was sent (Matt 15:24): *to day if you shall hear his voice, harden not your hearts* (Ps 94[95]:8). And in dissembling: ***the bruised reed***, namely, the kingdom of the Jews, ***smoking flax***, *(Or linen, from which priestly vestments were made.)* of the priests: *that which was broken you have not bound up* (Ezek 34:4).  
 
 Third, he shows the truth of his judgment: ***he shall bring forth judgment unto truth***: *he shall judge the world with justice, and the people with his truth* (Ps 95[96]:13). To which he joins his pleasantness: ***he shall not be sad***, in his heart, ***nor troublesome***, in his face, for he was always cheerful and pleasant, keeping evenness of mind, even if, as to the sensible part, there was the suffering of sadness, not indeed of necessity, but of will; thus, *my soul is sorrowful even unto death* (Matt 26:38); *the joyfulness of the heart* (Sir 30:23[22]).  
 
@@ -108,7 +108,7 @@ Second, he foretells the spreading of divine praise: ***they shall give glory to
 
 **823**. ***The Lord shall go forth as a mighty man***. Here he foretells the coming fall of the wicked through the coming of Christ; and concerning this, he sets out four things.  
 
-First, power: ***the Lord shall go forth as a mighty man***, to fight against the Jews through the Romans: *the Lord is as a man of war* (Exod 15:3); ***zeal***, for vengeance: *the zeal*Zelus*. DR: “jealousy.” and rage of the husband will not spare in the day of revenge* (Prov 6:34);  
+First, power: ***the Lord shall go forth as a mighty man***, to fight against the Jews through the Romans: *the Lord is as a man of war* (Exod 15:3); ***zeal***, for vengeance: *the zeal *(*Zelus*. DR: “jealousy.”)* and rage of the husband will not spare in the day of revenge* (Prov 6:34);  
 
 second, he sets out wrath: ***he shall shout***, through the tribulations which he sends upon them; against what is said above, ***he shall not cry*** (Isa 42:2); for he first shows meekness when he comes, but he shows indignation to those who disdain him: *he shall thunder with the voice of his majesty* (Job 37:4).  
 
@@ -134,7 +134,7 @@ third, obstinate between scourges: ***who is there among you*** (Isa 42:23).
 
 Concerning the first, he does two things:  
 
-first, he shows their ingratitude: ***these things***,Literally, “words.” namely, the aforementioned benefits. ***They are turned back***, from me: *you have forsaken me, says the Lord, you are gone backward* (Jer 15:6);  
+first, he shows their ingratitude: ***these things***, *(Literally, “words.”)* namely, the aforementioned benefits. ***They are turned back***, from me: *you have forsaken me, says the Lord, you are gone backward* (Jer 15:6);  
 
 second, he calls down confusion on them: ***let them be greatly confounded***: *let all them be confounded* (Ps 24:4).  
 

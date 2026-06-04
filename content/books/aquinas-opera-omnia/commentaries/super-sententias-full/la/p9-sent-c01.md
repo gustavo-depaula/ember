@@ -220,7 +220,7 @@ Articulus 3
 
 Ad tertium sic proceditur. Videtur quod matrimonium non conferat gratiam. Quia secundum Hugonem, sacramenta ex sanctificatione invisibilem gratiam conferunt. Sed matrimonium non habet aliquam sanctificationem quae sit de essentia ejus. Ergo non confertur gratia in ipso.  
 
-Praeterea, omne sacramentum conferens gratiam, confert ipsam ex materia et forma sua. Sed actus qui sunt materia in hoc sacramento, non sunt causa gratiae:*gratiae.—gratiae, quia hoc esset Pelagiana heresis quod actus nostri sint causa gratiae* PLE. verba etiam exprimentia consensum non sunt causa gratiae, cum ex eis non sit aliqua sanctificatio. Ergo in matrimonio nullo modo gratia datur.  
+Praeterea, omne sacramentum conferens gratiam, confert ipsam ex materia et forma sua. Sed actus qui sunt materia in hoc sacramento, non sunt causa gratiae: *(*gratiae.—gratiae, quia hoc esset Pelagiana heresis quod actus nostri sint causa gratiae* PLE.)* verba etiam exprimentia consensum non sunt causa gratiae, cum ex eis non sit aliqua sanctificatio. Ergo in matrimonio nullo modo gratia datur.  
 
 Praeterea, gratia ordinata contra vulnus peccati est necessaria omnibus habentibus vulnus illud. Sed in omnibus invenitur concupiscentiae vulnus. Si ergo in matrimonio detur gratia contra vulnus concupiscentiae, debent omnes homines matrimonium contrahere; et sic esset valde stultum a matrimonio abstinere.  
 
@@ -240,7 +240,7 @@ Unde alii dicunt quod matrimonium, inquantum in fide Christi contrahitur, habet 
 
 Ad primum ergo dicendum, quod sicut aqua baptismi habet quod corpus tangat et cor abluat ex tactu carnis Christi; ita matrimonium hoc habet ex hoc quod Christus sua passione illud repraesentavit; et non principaliter ex aliqua sanctificatione sacerdotis.  
 
-Ad secundum dicendum, quod sicut aqua baptismi vel*vel.—cum* PLE. forma verborum non operatur ad gratiam immediate, sed ad characterem; ita actus exteriores et verba exprimentia consensum directe faciunt nexum quemdam, qui est sacramentum matrimonii; et hujusmodi nexus ex virtute divinae institutionis dispositive operatur ad gratiam.  
+Ad secundum dicendum, quod sicut aqua baptismi vel *(*vel.—cum* PLE.)* forma verborum non operatur ad gratiam immediate, sed ad characterem; ita actus exteriores et verba exprimentia consensum directe faciunt nexum quemdam, qui est sacramentum matrimonii; et hujusmodi nexus ex virtute divinae institutionis dispositive operatur ad gratiam.  
 
 Ad tertium dicendum, quod ratio illa procederet, nisi contra concupiscentiae morbum posset aliquod efficacius remedium adhiberi. Adhibetur autem majus remedium per opera spiritualia et carnis mortificationem ab illis qui matrimonio non utuntur.  
 

@@ -6,7 +6,7 @@
 
 > ^14:3^ And it shall come to pass in that day, that when God shall give you rest from your labor, and from your vexation, and from the hard bondage, wherewith you didst serve before,
 
-> ^14:4^ you shall take up this parable against the king of Babylon, and shall say: how is the exactor*Exactor*. DR: “oppressor.” come to nothing, the tribute has ceased?
+> ^14:4^ you shall take up this parable against the king of Babylon, and shall say: how is the exactor *(*Exactor*. DR: “oppressor.”)* come to nothing, the tribute has ceased?
 
 > ^14:5^ The Lord has broken the staff of the wicked, the rod of the rulers,
 
@@ -16,7 +16,7 @@
 
 > ^14:8 ^The fir trees also have rejoiced over you, and the cedars of Libanus, saying: since you have slept, there has none come up to cut us down.
 
-> ^14:9^ Hell below was in an uproar to meet you at your coming, it will stir up*Suscitabit*. Vg.: *suscitavit*. the giants for you. All the princes of the earth are risen up from their thrones, all the princes of nations.
+> ^14:9^ Hell below was in an uproar to meet you at your coming, it will stir up *(*Suscitabit*. Vg.: *suscitavit*.)* the giants for you. All the princes of the earth are risen up from their thrones, all the princes of nations.
 
 > ^14:10 ^All shall answer, and say to you: you also are wounded as well as we, you are become like unto us.
 
@@ -30,7 +30,7 @@
 
 > ^14:15 ^But yet you shall be brought down to hell, into the depth of the pit.
 
-> ^14:16^ They that shall see you, shall bend to*Inclinabitur*. DR: “turn toward.” you, and behold you. Is this the man that troubled the earth, that shook kingdoms,
+> ^14:16^ They that shall see you, shall bend to *(*Inclinabitur*. DR: “turn toward.”)* you, and behold you. Is this the man that troubled the earth, that shook kingdoms,
 
 > ^14:17 ^That made the world a wilderness, and destroyed the cities thereof, that opened not the prison to his prisoners?
 
@@ -40,7 +40,7 @@
 
 > ^14:20 ^You shall not keep company with them, even in burial: for you have destroyed your land, you have slain your people: the seed of the wicked shall not be named for ever.
 
-> ^14:21^ Prepare his children for slaughter in*In*. DR: “for.” the iniquity of their fathers: they shall not rise up, nor inherit the land, nor fill the face of the world with cities.
+> ^14:21^ Prepare his children for slaughter in *(*In*. DR: “for.”)* the iniquity of their fathers: they shall not rise up, nor inherit the land, nor fill the face of the world with cities.
 
 > ^14:22 ^And I will rise up against them, says the Lord of hosts: and I will destroy the name of Babylon, and the remains, and the bud, and the offspring, says the Lord.
 
@@ -126,7 +126,7 @@ second, of the others: ***they that shall see you*** (Isa 14:16).
 
 Concerning the first, he does two things.  
 
-First, he sets out the meeting with the lower regions, as to the ministers of punishments or officials: ***hell***, that is, the devil, who is set over hell, ***below***, for hell is below, ***was in an uproar***, that is, turned to tumult, as if this could happen, below (ch. 30).Perhaps this refers to 30:12: “you have trusted in oppression and tumult,” as B. Spina conjectures. Likewise as to other powers rushing in: ***it will stir up the giants for you***, as though to rise to you with them; ***giants***, as to the strong in body, below: ***let not the dead live, let not the giants rise again*** (Isa 26:14).  
+First, he sets out the meeting with the lower regions, as to the ministers of punishments or officials: ***hell***, that is, the devil, who is set over hell, ***below***, for hell is below, ***was in an uproar***, that is, turned to tumult, as if this could happen, below (ch. 30). *(Perhaps this refers to 30:12: “you have trusted in oppression and tumult,” as B. Spina conjectures.)* Likewise as to other powers rushing in: ***it will stir up the giants for you***, as though to rise to you with them; ***giants***, as to the strong in body, below: ***let not the dead live, let not the giants rise again*** (Isa 26:14).  
 
 ***All the princes of the earth***, as to kings, to whom it belongs to sit in thrones; ***the princes of the nations***, as other power; but they ***are risen up***.  
 
@@ -134,7 +134,7 @@ First, he sets out the meeting with the lower regions, as to the ministers of pu
 
 **414**. Second, he sets out their reproach. And they reproach him with three things:  
 
-namely, the punishment which he found, as to his death: ***you also are wounded***, in death, by the force of divine power: *you have humbled the proud one, as one that is wounded**Vulneratum*. DR: “slain.” (Ps 88:11[89:10]). Then as to the humiliation of the dead man, both in soul, ***your pride is brought down to hell***, and in body, ***your carcass*** of death ***is fallen down***; then also as to the affliction of the dead man in hell: ***under you shall the moth be strewed**; **worms***, in which all the punishments of hell are designated: *he will give fire, and worms into their flesh, that they may burn, and may feel for ever* (Jdt 16:21).  
+namely, the punishment which he found, as to his death: ***you also are wounded***, in death, by the force of divine power: *you have humbled the proud one, as one that is wounded* *(*Vulneratum*. DR: “slain.”)* (Ps 88:11[89:10]). Then as to the humiliation of the dead man, both in soul, ***your pride is brought down to hell***, and in body, ***your carcass*** of death ***is fallen down***; then also as to the affliction of the dead man in hell: ***under you shall the moth be strewed**; **worms***, in which all the punishments of hell are designated: *he will give fire, and worms into their flesh, that they may burn, and may feel for ever* (Jdt 16:21).  
 
 **415**. Second, they reproach him with the glory he has lost. Both as to the dignity of the king: ***O Lucifer***, beautiful among all other kings, ***in the morning***, monarch before all others; and as to the power of war: ***how are you fallen to the earth***: *you, therefore, are the head of gold. And after you shall rise up another kingdom, inferior to you* (Dan 2:38–39).  
 
@@ -196,7 +196,7 @@ And first, the loss of his kingdom: ***the seed of the wicked***, that is, the s
 
 Second, the killing of his sons by the Medes and Persians: ***prepare his children for slaughter in the iniquity***, that is, for the iniquity, ***of their fathers***.  
 
-Third, the impossibility of recovery, ***they shall not rise up*; *the face of the world***, that is, of Babylon, which above (Isa 13:11) was referred to as the world: *I am a jealous God, visiting the iniquity of the fathers upon the children* (Exod 20:5); *from the unlawful iniquity is born* (Wis 4:6).*Ex iniquis nascetur iniquitas*. Vg.: *ex iniquis enim somnis filii qui nascuntur*. DR: “for the children that are born of unlawful beds.”  
+Third, the impossibility of recovery, ***they shall not rise up*; *the face of the world***, that is, of Babylon, which above (Isa 13:11) was referred to as the world: *I am a jealous God, visiting the iniquity of the fathers upon the children* (Exod 20:5); *from the unlawful iniquity is born* (Wis 4:6). *(*Ex iniquis nascetur iniquitas*. Vg.: *ex iniquis enim somnis filii qui nascuntur*. DR: “for the children that are born of unlawful beds.”)*  
 
 **424**. ***And I will rise up***. Here the divine purpose to fulfill the prophecy is set out.  
 
@@ -234,7 +234,7 @@ second, the destruction which they suffered under the Assyrians, where it says, 
 
 For first, he excludes foolish joy: ***rejoice not you***, over this, namely, that ***the rod***, that is, the power, ***of him that struck you***, that is, Achaz, ***is broken in pieces***, by death: *laughter I counted error* (Eccl 2:2).  
 
-Second, he threatens an increase of the punishment: ***for out of the root of the serpent shall come forth a basilisk***, as if to say: as the basilisk does more harm than another serpent, for even with its sight and breath it kills not just land animals, but also flying birds, just so, Ezechias, the son of Achaz shall afflict you more than others: *my father put a heavy burden*Onus*. Vg.: *jugum*. DR: “yoke.” upon you, but I will add to your burden* (1 Kgs 12:11).  
+Second, he threatens an increase of the punishment: ***for out of the root of the serpent shall come forth a basilisk***, as if to say: as the basilisk does more harm than another serpent, for even with its sight and breath it kills not just land animals, but also flying birds, just so, Ezechias, the son of Achaz shall afflict you more than others: *my father put a heavy burden *(*Onus*. Vg.: *jugum*. DR: “yoke.”)* upon you, but I will add to your burden* (1 Kgs 12:11).  
 
 Third, he foretells the effect of the punishment, in all things as to the fruitfulness of the land: ***and the firstborn of the poor shall be fed***, that is, the Jews, about which it says in Exodus 4:22: *Israel is my firstborn*; and as to the security of peace: ***shall rest with confidence***, below: ***my people shall sit in the beauty of peace, and in the tabernacles of confidence*** (Isa 32:18); and the effect on the Philistines by the opposite of these, namely, famine, against the first: ***I will make your root perish with famine***, that is, those also who ought to furnish nourishment to others; and killing, against the second: ***and your remnant***, left by Ezechias, ***I will kill***, through the Assyrians and Chaldeans, below: ***my servants shall eat, and you shall be hungry: my servants shall drink, and you shall be thirsty*** (Isa 65:13).  
 

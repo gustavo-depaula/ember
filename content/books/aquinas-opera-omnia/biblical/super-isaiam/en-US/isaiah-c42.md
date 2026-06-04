@@ -50,7 +50,7 @@
 
 > ^40:25^ And to whom have you likened me, or made me equal, says the Holy One?
 
-> ^40:26^ Lift up your eyes on high, and see who has created these things: who brings out their host in*In*. DR: “by.” number, and calls them all by their names: by the greatness of his might, and strength, and power, not one of them was missing.
+> ^40:26^ Lift up your eyes on high, and see who has created these things: who brings out their host in *(*In*. DR: “by.”)* number, and calls them all by their names: by the greatness of his might, and strength, and power, not one of them was missing.
 
 > ^40:27^ Why say you, O Jacob, and speak, O Israel: my way is hid from the Lord, and my judgment is passed over from my God?
 
@@ -60,7 +60,7 @@
 
 > ^40:30^ Youths shall faint, and labor, and young men shall fall by infirmity.
 
-> ^40:31^ But they that hope in the Lord shall change*Mutabunt*. DR: “renew.” their strength, they shall take wings as eagles, they shall run and not labor,*Laborabunt*. DR: “be weary.” they shall walk and not faint.
+> ^40:31^ But they that hope in the Lord shall change *(*Mutabunt*. DR: “renew.”)* their strength, they shall take wings as eagles, they shall run and not labor, *(*Laborabunt*. DR: “be weary.”)* they shall walk and not faint.
 
 > **785**. ***Be comforted, be comforted***. This the second principle part of this book, in which he principally intends the comfort of the people through many promised benefits. And it is divided into two parts:
 
@@ -166,7 +166,7 @@ Concerning the first, he does three things.
 
 First, he shows divine power together with divine wisdom in the ease with which he measures and creates all things: for he makes all things in number, as to the multitude of principles; in measure, as to determination of each under its particular being; in weight, as to the inclination of each to its end (Wis 11:21). ***In the hollow***, that is, easily, like what is measured by the hollow, which is a closed hand; ***with his palm***, that is, easily, with the palm, which is an open hand; ***who has poised with three fingers the bulk of the earth**, upon nothing* (Job 26:7), for it is supported by nothing outside it, otherwise the repose of the earth would be forced, *over the waters* (Ps 135[136]:6), as to the place, for it is surrounded by waters, *upon its own bases* (Ps 103[104]:5), as to the proper cause of its repose, which is its own nature; ***with three fingers***, that is, easily; or, with three properties: weight, dryness, and immobility; ***weighed***, he makes each to be weighed by its proper weight.  
 
-**794**. Second, he shows the sufficiency of his power, that he needs no helper: ***who has forwarded***, against the philosophers who posit that the last creatures were created by the mediation of the first creatures; of his wisdom, that he needs no counsel: ***or who has been his counsellor***, that he would give the Lord counsel; ***with whom has he consulted***, that the Lord would ask counsel of him; ***who has instructed him***, of the form of his work; ***the path of*** natural ***justice***, which he set before all things, so that nothing exceeds the bounds of its nature; ***knowledge***, of the knowledge of created things, both universals and particulars, against the philosophers; ***the way of understanding***,*Prudentiae*. as to the government of the world: *whose helper are you? Is it of him that is weak? And dost you hold up the arm of him that has no strength?* (Job 26:2).  
+**794**. Second, he shows the sufficiency of his power, that he needs no helper: ***who has forwarded***, against the philosophers who posit that the last creatures were created by the mediation of the first creatures; of his wisdom, that he needs no counsel: ***or who has been his counsellor***, that he would give the Lord counsel; ***with whom has he consulted***, that the Lord would ask counsel of him; ***who has instructed him***, of the form of his work; ***the path of*** natural ***justice***, which he set before all things, so that nothing exceeds the bounds of its nature; ***knowledge***, of the knowledge of created things, both universals and particulars, against the philosophers; ***the way of understanding***, *(*Prudentiae*.)* as to the government of the world: *whose helper are you? Is it of him that is weak? And dost you hold up the arm of him that has no strength?* (Job 26:2).  
 
 **795**. Third, he shows its excellence, that it exceeds all the multitude of nations: ***behold the Gentiles are as a drop***, a little spot, ***of a bucket***, falling from a bucket, which is a vessel of water fit for the thirsty, which is accounted as nothing; ***the smallest grain***, which is between the arms of a balance and is easily inclined to either: *seeing we have heard scarce a little drop of his word, who shall be able to behold the thunder of his greatness?* (Job 26:14).  
 
@@ -216,7 +216,7 @@ which he shows failing first: ***youths shall faint***, who are in the state of 
 
 second, the greatness of the strength given by God: ***but they that hope in the Lord shall change their strength***, namely, from natural to divine, so that they are not tired in ascending: ***they shall take wings***: *they shall make themselves wings like those of an eagle* (Prov 23:5); nor in swift progress: ***they shall run***; nor in continuous advancing: ***they shall walk***, above: ***there is none that shall faint, nor labor*** (Isa 5:27).  
 
-**802**. The Spirit of the Lord is helped (see 40:13) not in creation, but in justification, Augustine: *he who created you without you, will not justify you without you*.Sermon 169.11.13 (PL 38, 923).  
+**802**. The Spirit of the Lord is helped (see 40:13) not in creation, but in justification, Augustine: *he who created you without you, will not justify you without you*. *(Sermon 169.11.13 (PL 38, 923).)*  
 
 By preaching: *for we are God’s coadjutors* (1 Cor 3:9);  
 

@@ -2,7 +2,7 @@
 
 ***The Resurrection of the Body***
 
-Not only does the Holy Spirit sanctify the Church as regards the souls of its members, but our bodies also will rise again by his power: *we believe in him that raised up Jesus Christ, our Lord, from the dead* (Rom 4:24); and: *by a man came death: and by a man the resurrection of the dead* (1 Cor 15:21).Parallel texts: *ST* I.97.3; III.2.6, ad 2; *SCG* II.44; *ST Supplement*, q. 75, a. 1; *SCG* IV.79, 80, 81; *Compendium theologiae*, cc. 151, 154. Thus, we believe according to our faith in the future resurrection of the dead. In this there are four considerations:  
+Not only does the Holy Spirit sanctify the Church as regards the souls of its members, but our bodies also will rise again by his power: *we believe in him that raised up Jesus Christ, our Lord, from the dead* (Rom 4:24); and: *by a man came death: and by a man the resurrection of the dead* (1 Cor 15:21). *(Parallel texts: *ST* I.97.3; III.2.6, ad 2; *SCG* II.44; *ST Supplement*, q. 75, a. 1; *SCG* IV.79, 80, 81; *Compendium theologiae*, cc. 151, 154.)* Thus, we believe according to our faith in the future resurrection of the dead. In this there are four considerations:  
 
 first, the benefits which proceed from our faith in the resurrection;  
 
@@ -12,7 +12,7 @@ third, the condition of the blessed;
 
 fourth, the condition of the damned in particular.  
 
-Concerning the first, our faith and hope in the resurrection is beneficial in four ways.Parallel texts: *ST* III.56.1; *ST Supplement*, q. 76, a. 1; *SCG* IV.79; *Compendium theologiae*, ch. 239.  
+Concerning the first, our faith and hope in the resurrection is beneficial in four ways. *(Parallel texts: *ST* III.56.1; *ST Supplement*, q. 76, a. 1; *SCG* IV.79; *Compendium theologiae*, ch. 239.)*  
 
 First, it takes away the sorrow which we feel for the departed. It is impossible for one not to grieve over the death of a relative or friend. Yet the hope that such a one will rise again greatly tempers the pain of parting: *and we will not have you ignorant, brethren, concerning those who are asleep, that you be not sorrowful, as others who have no hope* (1 Thess 4:12).  
 
@@ -22,7 +22,7 @@ Third, it makes us watchful and careful to live uprightly. If, however, this lif
 
 Fourth, it withdraws us from evil. Just as the hope of reward urges us to do good, so also the fear of punishment, which we believe is reserved for wicked deeds, keeps us from evil: *but they who have done good things shall come forth unto the resurrection of life; but they who have done evil, unto the resurrection of judgment* (John 5:29).  
 
-Concerning the second, it should be known that a fourfold condition can be observed in the resurrection.Parallel texts: *ST Supplement*, q. 79, a. 1; *SCG* IV.80, 81; *Commentary on Aristotle’s On the Soul*, a. 19, ad 13; *Compendium theologiae*, ch. 153; *Quodlibet XI*, q. 6; *ST Supplement*, qq. 80–87.  
+Concerning the second, it should be known that a fourfold condition can be observed in the resurrection. *(Parallel texts: *ST Supplement*, q. 79, a. 1; *SCG* IV.80, 81; *Commentary on Aristotle’s On the Soul*, a. 19, ad 13; *Compendium theologiae*, ch. 153; *Quodlibet XI*, q. 6; *ST Supplement*, qq. 80–87.)*  
 
 The first regards the identity of the bodies of the risen: it will be the same body as it is now, both as regards its flesh and its bones. Some, indeed, have said that it will not be this same body which is corrupted that will be raised up. Yet such a view is contrary to the Apostle: *for this corruptible must put on incorruption* (1 Cor 15:53). And likewise, the Holy Scripture says that by the power of God this same body will rise to life: *and I shall be clothed again with my skin; and in my flesh I shall see my God* (Job 19:26).  
 

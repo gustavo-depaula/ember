@@ -1,6 +1,6 @@
 # Chapter 34
 
-^34:1^ Come near, you Gentiles, and hear, and hearken, you people: let the earth hear, and its fullness,*Plentitudino ejus*. DR: “all that is therein.” the world, and every thing that comes forth of it.  
+^34:1^ Come near, you Gentiles, and hear, and hearken, you people: let the earth hear, and its fullness, *(*Plentitudino ejus*. DR: “all that is therein.”)* the world, and every thing that comes forth of it.  
 
 > ^34:2^ For the indignation of the Lord is upon all nations, and his fury upon all their armies: he has killed them, and delivered them to slaughter.
 
@@ -26,7 +26,7 @@
 
 > ^34:13^ And thorns and nettles shall grow up in its houses, and the thistle in the fortresses thereof: and it shall be the habitation of dragons, and the pasture of ostriches.
 
-> ^34:14^ And demons and onocentaurs*Onocentauris*. DR: “monsters.” shall meet, and the hairy ones shall cry out one to another, there has the lamia lain down, and found rest for herself.
+> ^34:14^ And demons and onocentaurs *(*Onocentauris*. DR: “monsters.”)* shall meet, and the hairy ones shall cry out one to another, there has the lamia lain down, and found rest for herself.
 
 > ^34:15^ There has the hedgehog had its hole, and brought up its young ones, and has dug round about, and cherished them in the shadow thereof: thither are the kites gathered together one to another.
 
@@ -64,13 +64,13 @@ first, he threatens the slaughter of their men;
 
 second, the destruction of their land: ***and the streams thereof shall be turned into pitch*** (Isa 34:9);  
 
-third, he sets out the confirmation of both of these threats, where it says, ***search*Respicite*. Vg.: *requirite*. diligently in the book of the Lord*** (Isa 34:16).  
+third, he sets out the confirmation of both of these threats, where it says, ***search *(*Respicite*. Vg.: *requirite*.)* diligently in the book of the Lord*** (Isa 34:16).  
 
 **738**. Concerning the first, he does three things.  
 
 First, he describes the fairness of the punishment: ***behold it shall come down upon Idumea***, to crush them; ***the people of my slaughter***, deserving to be slaughtered by me: *I have brought the destruction of Esau upon him* (Jer 49:8).  
 
-Second, he describes the killing as to those of middle rank, setting out the diversity of those killed: ***the sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams***, through all of which are to be understood the various ranks of those killed: *this is the sword of a great slaughter* (Ezek 21:14); and the magnitude of the killing: ***there is a victim of the Lord in Bosra and a great slaughter in the land of Edom***, that is, many animals are killed, as in a banquet of a great king: *I slay for you a great victim* (Ezek 39:17). And as to the great, setting out their killing: ***and the unicorns***, a fierce animal the size of a cat, with one horn, and thus it signifies the powerful and monarchs, ***shall go down***, into death, above: ***their strong ones, and their high and glorious ones shall go down into it*** (Isa 5:14); and the magnitude of the killing, ***their land shall be soaked with blood***: *the land was killed*Interfecta*. Vg.: *infecta*. DR: “polluted.” with blood* (Ps 105[106]:38).  
+Second, he describes the killing as to those of middle rank, setting out the diversity of those killed: ***the sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams***, through all of which are to be understood the various ranks of those killed: *this is the sword of a great slaughter* (Ezek 21:14); and the magnitude of the killing: ***there is a victim of the Lord in Bosra and a great slaughter in the land of Edom***, that is, many animals are killed, as in a banquet of a great king: *I slay for you a great victim* (Ezek 39:17). And as to the great, setting out their killing: ***and the unicorns***, a fierce animal the size of a cat, with one horn, and thus it signifies the powerful and monarchs, ***shall go down***, into death, above: ***their strong ones, and their high and glorious ones shall go down into it*** (Isa 5:14); and the magnitude of the killing, ***their land shall be soaked with blood***: *the land was killed *(*Interfecta*. Vg.: *infecta*. DR: “polluted.”)* with blood* (Ps 105[106]:38).  
 
 Third, he sets out the reason of the punishment: ***for it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Zion***, namely, that Zion be vindicated against the Idumeans, below: ***the day of vengeance is in my heart, the year of my redemption is come*** (Isa 63:4); but, according to the Gloss: ***the judgment of Zion***, that is, against Zion; hence it explains everything that follows as concerning the destruction of Jerusalem by the Romans.  
 
@@ -90,13 +90,13 @@ Second, he places the duration of the punishment: ***it shall not be quenched***
 
 **740**. ***It shall lie waste for ever and ever***. Here he sets out the desolation of the land,  
 
-and first, he foretells the desolation itself as to inhabitants: ***it shall lie waste***: *he has made me desolate* (Lam 1:13); as to travelers, ***none shall pass through it***: *no man shall abide there, nor son of man inhabit it* (Jer 49:33). As to the free habitation of beasts: ***the bittern***, which is the same as the pelican, ***shall possess it***, as if without fear, ***and the ibis***, a bird hostile to snakes:Cf. Herodotus 2.76; Pliny the Elder, *N.H*. 10.40; Isidore, *Etymologies* 12.7.33. “ibex, ibicis” is a four-footed beast; “ibis, ibidis” is a bird, and the ibis is envious: *the highest of them is the house of the heron . . . the rock is a refuge for the irchins* (Ps 103[104]:17–18).  
+and first, he foretells the desolation itself as to inhabitants: ***it shall lie waste***: *he has made me desolate* (Lam 1:13); as to travelers, ***none shall pass through it***: *no man shall abide there, nor son of man inhabit it* (Jer 49:33). As to the free habitation of beasts: ***the bittern***, which is the same as the pelican, ***shall possess it***, as if without fear, ***and the ibis***, a bird hostile to snakes: *(Cf. Herodotus 2.76; Pliny the Elder, *N.H*. 10.40; Isidore, *Etymologies* 12.7.33.)* “ibex, ibicis” is a four-footed beast; “ibis, ibidis” is a bird, and the ibis is envious: *the highest of them is the house of the heron . . . the rock is a refuge for the irchins* (Ps 103[104]:17–18).  
 
 Second, he sets out the fairness of the desolation,  
 
 and first, the judgment of fairness: ***and a line shall be stretched upon it***, the measure of the punishment against the measure of their fault, ***a plummet***, the rule of the stone-cutter, above: ***in measure against measure*** (Isa 27:8);  
 
-second, he sets out the manner of judgment: ***the nobles thereof***, in whom they boasted: *I will take away out of the midst of you your proud boasters* (Zeph 3:11). ***And thorns and nettles shall grow up in its houses***, which they built so carefully, ***and the thistle***,*Palliurus*. a kind of plant with many thorns, which sticks to cloaks,*Pallia*. having broad leaves: *nettles shall inherit their beloved silver, the bur shall be in their tabernacles* (Hos 9:6), so that *as much as she has glorified herself and lived in delicacies, so much torment shall she have* (Rev 18:7).  
+second, he sets out the manner of judgment: ***the nobles thereof***, in whom they boasted: *I will take away out of the midst of you your proud boasters* (Zeph 3:11). ***And thorns and nettles shall grow up in its houses***, which they built so carefully, ***and the thistle***, *(*Palliurus*.)* a kind of plant with many thorns, which sticks to cloaks, *(*Pallia*.)* having broad leaves: *nettles shall inherit their beloved silver, the bur shall be in their tabernacles* (Hos 9:6), so that *as much as she has glorified herself and lived in delicacies, so much torment shall she have* (Rev 18:7).  
 
 **741**. ***And it shall be the habitation of dragons***. Here he shows the horror of the desolation from the monsters which dwelt there: ***demons***, monsters of demons, which appear most in deserts; ***onocentaur***, which is half ass and half ox, or this is the illusion of a demon rather than a natural animal; ***the hairy ones***, an ape, or a wild man, or a demon incubus; ***lamia***, having the feet of a horse and the other members of a woman; cried out ***one to another***, above: ***wild beasts shall rest there*** (Isa 13:21).  
 
@@ -112,4 +112,4 @@ through the ministry of obedience: *the sons of Sadoc, who among the sons of Lev
 
 through the expectation of firm confidence: *come to her as one that ploughs, and sows* (Sir 6:19);  
 
-through the spirit of concord: *you have**Habetis*. Vg.: *habemus* DR: “we have.” *access in one Spirit to the Father* (Eph 2:18).
+through the spirit of concord: *you have* *(*Habetis*. Vg.: *habemus* DR: “we have.”)* *access in one Spirit to the Father* (Eph 2:18).

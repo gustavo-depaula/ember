@@ -48,7 +48,7 @@
   integer accipitur.
 - Sumit unus, sumunt mille,  
   quantum isti, tantum ille,  
-  nec sumptus consumitur.The manuscript BNF 1143 (Bibliothèque Nationale de France, Lat. 1143) reads *absumitur* instead of *consumitur*.
+  nec sumptus consumitur. *(The manuscript BNF 1143 (Bibliothèque Nationale de France, Lat. 1143) reads *absumitur* instead of *consumitur*.)*
 - Sumunt boni, sumunt mali:  
   sorte tamen inaequali,  
   vitae vel interitus.
@@ -78,7 +78,7 @@
   in terra viventium.
 - Tu qui cuncta scis et vales,  
   qui nos pascis hic mortales:  
-  tu nosBNF 1143 reads *tuos* instead of *tu nos*. ibi commensales,  
+  tu nos *(BNF 1143 reads *tuos* instead of *tu nos*.)* ibi commensales,  
   coheredes, et sodales  
   fac sanctorum civium. Amen.
 - {modern chant_Lauda}

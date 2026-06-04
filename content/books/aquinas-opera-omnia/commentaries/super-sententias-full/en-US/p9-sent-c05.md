@@ -2,17 +2,17 @@
 
 ***On the impediment of error***
 
-After the Master has shown that matrimonial consent is impeded by compulsion, here he shows that it is impeded by error; and this distinction is divided into three parts: in the first, he considers the impediment of error; in the second, the consent that existed in the Blessed Virgin’s marriage, at: *to what was said earlier must be added something*;*Sententiae* IV, 30.2 (178). 1. in the third part, the final cause of matrimony, at: *after expounding what the efficient cause of marriage is, it remains to show the cause for which marriage is or ought to be contracted*.*Sent*. IV, 30.3 (180). 1.  
+After the Master has shown that matrimonial consent is impeded by compulsion, here he shows that it is impeded by error; and this distinction is divided into three parts: in the first, he considers the impediment of error; in the second, the consent that existed in the Blessed Virgin’s marriage, at: *to what was said earlier must be added something*; *(*Sententiae* IV, 30.2 (178). 1.)* in the third part, the final cause of matrimony, at: *after expounding what the efficient cause of marriage is, it remains to show the cause for which marriage is or ought to be contracted*. *(*Sent*. IV, 30.3 (180). 1.)*  
 
-About this he does three things. First, he shows which error impedes marriage; second, he objects to the contrary, at: *but an objection is made concerning Jacob*, etc.;*Sent*. IV, 30.3 (179). 1. third, he resolves it, at: *but what was done in that case is not improperly said to have been carried out as a mystery*.*Sent*. IV, 30.1 (178). 3.  
+About this he does three things. First, he shows which error impedes marriage; second, he objects to the contrary, at: *but an objection is made concerning Jacob*, etc.; *(*Sent*. IV, 30.3 (179). 1.)* third, he resolves it, at: *but what was done in that case is not improperly said to have been carried out as a mystery*. *(*Sent*. IV, 30.1 (178). 3.)*  
 
-*To what was said earlier must be added something*. Here he considers the consent that existed in the marriage of the Blessed Virgin; and concerning this he does two things: first, he shows what kind of consent that was; second, he shows that the marriage was complete, at: *and between them, as Augustine says, there was a perfect marriage*.*Sent*. IV, 30.2 (179). 3.  
+*To what was said earlier must be added something*. Here he considers the consent that existed in the marriage of the Blessed Virgin; and concerning this he does two things: first, he shows what kind of consent that was; second, he shows that the marriage was complete, at: *and between them, as Augustine says, there was a perfect marriage*. *(*Sent*. IV, 30.2 (179). 3.)*  
 
-*After expounding what the efficient cause of marriage is*, etc. Here he considers the final cause of marriage, and first, concerning the causes of marriage in general; second, the causes of the Blessed Virgin’s marriage, at: *the marriage of Mary and Joseph also had some other special causes*.*Sent*. IV, 30. 4 (181). 2.  
+*After expounding what the efficient cause of marriage is*, etc. Here he considers the final cause of marriage, and first, concerning the causes of marriage in general; second, the causes of the Blessed Virgin’s marriage, at: *the marriage of Mary and Joseph also had some other special causes*. *(*Sent*. IV, 30. 4 (181). 2.)*  
 
-Concerning the first he does two things: first, he sets forth the final causes of marriage, both principal and secondary; second, he excludes an error, at: *nor are we to agree with those who say that it is not a marriage if it is contracted because of these less honorable causes*.*Sent*. IV, 30.3 (180). 3.  
+Concerning the first he does two things: first, he sets forth the final causes of marriage, both principal and secondary; second, he excludes an error, at: *nor are we to agree with those who say that it is not a marriage if it is contracted because of these less honorable causes*. *(*Sent*. IV, 30.3 (180). 3.)*  
 
-There he does two things: first, he shows that an evil aim does not mean that there will not be a valid marriage; second, he shows that it does not mean that it will not be a good marriage, at: *and even if marriage is contracted for an end which is not good, as when the beauty of the other party moves the spirit, yet marriage itself is good*.*Sent*. IV, 30.4 (181). 1.  
+There he does two things: first, he shows that an evil aim does not mean that there will not be a valid marriage; second, he shows that it does not mean that it will not be a good marriage, at: *and even if marriage is contracted for an end which is not good, as when the beauty of the other party moves the spirit, yet marriage itself is good*. *(*Sent*. IV, 30.4 (181). 1.)*  
 
 Here there are two questions. First, concerning marriage in general. Second, concerning the marriage of the Blessed Virgin.  
 
@@ -30,17 +30,17 @@ first, whether error impedes marriage by its very nature;
 
 ***Whether error impedes marriage by its very nature***
 
-Obj. 1: To the first question, we proceed thus. It seems that error should not be considered an impediment to marriage *per se*. For consent, which is the efficient cause of marriage, is impeded in the same way as the voluntary. But the voluntary, according to the Philosopher in the *Ethics* 3, is considered to be impeded by ignorance, which is not the same thing as error:Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1. since ignorance means no knowledge, while error does not: for error is to take false things for true, according to Augustine.Augustine, *Enchiridion de fide, spe et caritate* (CCSL 46), chs. 6 and 7 (chs. 17 and 19 in older editions); cf. *De Trinitate*, Bk. 9, ch. 11. Therefore, not error, but rather ignorance, should have been counted here as an impediment to marriage.  
+Obj. 1: To the first question, we proceed thus. It seems that error should not be considered an impediment to marriage *per se*. For consent, which is the efficient cause of marriage, is impeded in the same way as the voluntary. But the voluntary, according to the Philosopher in the *Ethics* 3, is considered to be impeded by ignorance, which is not the same thing as error: *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1.)* since ignorance means no knowledge, while error does not: for error is to take false things for true, according to Augustine. *(Augustine, *Enchiridion de fide, spe et caritate* (CCSL 46), chs. 6 and 7 (chs. 17 and 19 in older editions); cf. *De Trinitate*, Bk. 9, ch. 11.)* Therefore, not error, but rather ignorance, should have been counted here as an impediment to marriage.  
 
 Obj. 2: Furthermore, what can impede marriage by its very nature is what is contrary to the goods of marriage. But error is not. Therefore, error does not of its own nature impede marriage.  
 
 Obj. 3: Furthermore, as consent is required for marriage, so also is intention required for baptism. But if someone baptizes John and believes that he baptizes Peter, nevertheless John is validly baptized. Therefore, error does not exclude marriage.  
 
-Obj. 4: Furthermore, between Leah and Jacob there was a valid marriage. But there was an error there.See Genesis 29. Therefore, error does not exclude marriage.  
+Obj. 4: Furthermore, between Leah and Jacob there was a valid marriage. But there was an error there. *(See Genesis 29.)* Therefore, error does not exclude marriage.  
 
-On the contrary (1), it says in the *Digests*: *what is so contrary to consent as error?**Digests*, Bk. 2, tit. 1, leg. 15, “Si per errorem.” But consent is required for matrimony. Therefore, error impedes matrimony.  
+On the contrary (1), it says in the *Digests*: *what is so contrary to consent as error?* *(*Digests*, Bk. 2, tit. 1, leg. 15, “Si per errorem.”)* But consent is required for matrimony. Therefore, error impedes matrimony.  
 
-Furthermore (2), consent is called something voluntary. But error impedes the voluntary, since the voluntary, according to the Philosopher,Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1 (1111a22). and Gregory of Nyssa,Cf. Nemesius, *On the Nature of Man*, ch. 32 (PG 40:728). and John Damascene,John Damascene, *On the Orthodox Faith*, Bk. 2, ch. 24 (PG 94:953). is what has its principle in someone knowing particulars, for an action is about particulars. And this is not the case in someone who errs. Therefore, error impedes matrimony.  
+Furthermore (2), consent is called something voluntary. But error impedes the voluntary, since the voluntary, according to the Philosopher, *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1 (1111a22).)* and Gregory of Nyssa, *(Cf. Nemesius, *On the Nature of Man*, ch. 32 (PG 40:728).)* and John Damascene, *(John Damascene, *On the Orthodox Faith*, Bk. 2, ch. 24 (PG 94:953).)* is what has its principle in someone knowing particulars, for an action is about particulars. And this is not the case in someone who errs. Therefore, error impedes matrimony.  
 
 I answer that, whatever impedes a cause, of its very nature likewise impedes the effect. But consent is the cause of matrimony, as was said; and therefore, whatever does away with consent does away with marriage. But consent is an act of the will, which presupposes the act of the intellect. Now when the first is lacking, the second will necessarily not happen. Therefore, when error impedes knowledge, a defect of consent results as well, and consequently, a defect in the marriage. And therefore, by natural law, error can nullify a marriage.  
 
@@ -60,7 +60,7 @@ Obj. 1: To the second article we proceed thus. It seems that every error impedes
 
 Obj. 2: Furthermore, if error impedes marriage because of the kind of thing it is, then a greater error should impede more greatly. But the error of faith, which is in heretics who do not believe in this sacrament, is greater than the error of the person. Therefore, it should impede more than an error about the person.  
 
-Obj. 3: Furthermore, error does not void marriage except insofar as it takes away the voluntary. But ignorance of any circumstance whatsoever destroys the voluntary, as is evident in the *Ethics* 3.Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1. Therefore, not only the errors of person or of condition impede matrimony.  
+Obj. 3: Furthermore, error does not void marriage except insofar as it takes away the voluntary. But ignorance of any circumstance whatsoever destroys the voluntary, as is evident in the *Ethics* 3. *(Aristotle, *Nicomachean Ethics*, Bk. 3, ch. 1.)* Therefore, not only the errors of person or of condition impede matrimony.  
 
 Obj. 4: Furthermore, just as the condition of slavery is accidental to a person, so also is the quality of the body or of the soul. But the error of condition impedes marriage. Therefore, by the same reasoning, so does an error about a quality or fortune.  
 
@@ -88,7 +88,7 @@ Reply Obj. 5: An error about nobility as such does not nullify marriage for the 
 
 Reply Obj. 6: An error concerning those impediments to marriage that make persons ineligible also impedes marriage. But he does not mention errors concerning those things, because they impede marriage whether there be an error or not. For example, if someone contracts with a subdeacon, there is no marriage, whether she knows it or not. But the condition of slavery does not impede, if the slavery is known, and therefore there is no comparison.  
 
-Reply Obj. 7: Money is received in contracts as the measure of other things, and not as if it were sought for its own sake, as is clear from the *Ethics* 5.Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 5 (1133a19). And therefore, if that money which is owed is not given, but rather some equivalent thing, nothing stands in the way of the contract. But if there were an error about something sought for itself, it would impede the contract, as if, for example, a donkey were sold in place of a horse. And it is likewise in the case proposed.  
+Reply Obj. 7: Money is received in contracts as the measure of other things, and not as if it were sought for its own sake, as is clear from the *Ethics* 5. *(Aristotle, *Nicomachean Ethics*, Bk. 5, ch. 5 (1133a19).)* And therefore, if that money which is owed is not given, but rather some equivalent thing, nothing stands in the way of the contract. But if there were an error about something sought for itself, it would impede the contract, as if, for example, a donkey were sold in place of a horse. And it is likewise in the case proposed.  
 
 Reply Obj. 8: No matter how long he may have been with her, unless he wants to consent anew, there is no marriage.  
 
@@ -104,7 +104,7 @@ Obj. 2: Furthermore, the union of marriage is from God, as is clear from Matthew
 
 Obj. 3: Furthermore, in other sacraments, if the intention of the Church is not preserved, it is not a valid sacrament. But the intention of the Church in the sacrament of marriage is not directed to any base motive. Therefore, if marriage is contracted for some base reason, it will not be true marriage.  
 
-Obj. 4: Furthermore, according to Boethius, *what has a good end is itself good*.Boethius, *De topicis differentiis*, Bk. 2, ch. 7, par. 25 (ed. Nikitas, p. 35; or PL 64:1189). Therefore, it is not marriage if it is entered for an evil end.  
+Obj. 4: Furthermore, according to Boethius, *what has a good end is itself good*. *(Boethius, *De topicis differentiis*, Bk. 2, ch. 7, par. 25 (ed. Nikitas, p. 35; or PL 64:1189).)* Therefore, it is not marriage if it is entered for an evil end.  
 
 Obj. 5: Furthermore, marriage signifies the union of Christ and the Church. But no baseness exists there. Therefore, neither can marriage be contracted for a base reason.  
 
@@ -140,19 +140,19 @@ first, concerning the Blessed Virgin’s vow and marriage;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first question, we proceed thus.Parallel: *ST* III, q. 28, a. 4. It seems that the Blessed Virgin should not have vowed virginity. For in the law a curse was due to those who do not leave any of their seed upon the earth, as is clear from Deuteronomy 7. But when she made that vow, the age of the law was still ongoing. Therefore, she should not have vowed virginity.  
+Obj. 1: To the first question, we proceed thus. *(Parallel: *ST* III, q. 28, a. 4.)* It seems that the Blessed Virgin should not have vowed virginity. For in the law a curse was due to those who do not leave any of their seed upon the earth, as is clear from Deuteronomy 7. But when she made that vow, the age of the law was still ongoing. Therefore, she should not have vowed virginity.  
 
-Obj. 2: Furthermore, the vow of virginity belongs to the counsels of perfection.The counsels of perfection, or evangelical counsels, are the vows of poverty, chastity, and obedience, as counseled by Christ in Matt 19:21. “Counsel” is here distinguished from precept. But such perfection should have been begun by Christ, who came to complete the Law with the counsels. Therefore, before the coming of Christ she should not have vowed virginity.  
+Obj. 2: Furthermore, the vow of virginity belongs to the counsels of perfection. *(The counsels of perfection, or evangelical counsels, are the vows of poverty, chastity, and obedience, as counseled by Christ in Matt 19:21. “Counsel” is here distinguished from precept.)* But such perfection should have been begun by Christ, who came to complete the Law with the counsels. Therefore, before the coming of Christ she should not have vowed virginity.  
 
 On the contrary, every perfection should have been in the mother of Christ. But a vow of virginity is one of the greatest perfections. Therefore, it should not have been lacking from her.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that she should not have been joined in matrimony, since, for those vowing virginity, not only marrying but even wishing to marry is blamable, as JeromeThe Vives edition notes that this statement is not from Jerome but rather from Augustine, *On the Good of Widowhood*, ch. 9, par. 12: “in coniugali quippe uinculo si pudicitia conseruatur, damnatio non timetur; sed in uiduali et uirginali continentia excellentia muneris amplioris expetitur: qua expetita et electa et uoti debito oblata iam non solum capessere nuptias, sed etiamsi non nubatur, nubere uelle damnabile est” (CSEL 41:317). says.Parallel: *ST* III, q. 29, a. 1; *Super Matt*. 1. But nothing blamable should have been in the Blessed Virgin. Therefore, after she vowed virginity, she should not have married.  
+Obj. 1: Moreover, it seems that she should not have been joined in matrimony, since, for those vowing virginity, not only marrying but even wishing to marry is blamable, as Jerome *(The Vives edition notes that this statement is not from Jerome but rather from Augustine, *On the Good of Widowhood*, ch. 9, par. 12: “in coniugali quippe uinculo si pudicitia conseruatur, damnatio non timetur; sed in uiduali et uirginali continentia excellentia muneris amplioris expetitur: qua expetita et electa et uoti debito oblata iam non solum capessere nuptias, sed etiamsi non nubatur, nubere uelle damnabile est” (CSEL 41:317).)* says. *(Parallel: *ST* III, q. 29, a. 1; *Super Matt*. 1.)* But nothing blamable should have been in the Blessed Virgin. Therefore, after she vowed virginity, she should not have married.  
 
 Obj. 2: Furthermore, vowing virginity would expose one to danger, if one were to hand oneself over to the power of a man. But this is a sin. Therefore, the Blessed Virgin should not have handed herself over to the power of another in marriage; therefore, neither should she have married.  
 
-Obj. 3: Furthermore, whoever consents in marriage, consents in some way to physical intimacy, at least implicitly. But consenting to physical intimacy diminishes in some degree the purity of virginity, at least as regards the spirit of virginity. Since then, such purity was due to the Mother of God that greater purity beneath God could not be conceived, as Anselm says,Anselm, *De conceptu virginali*, ch. 18: “Nempe decens erat ut ea puritate, qua maior sub deo nequit intelligi” (*Opera omnia*, ed. Schmitt, 2:159). it seems that she should not have married.  
+Obj. 3: Furthermore, whoever consents in marriage, consents in some way to physical intimacy, at least implicitly. But consenting to physical intimacy diminishes in some degree the purity of virginity, at least as regards the spirit of virginity. Since then, such purity was due to the Mother of God that greater purity beneath God could not be conceived, as Anselm says, *(Anselm, *De conceptu virginali*, ch. 18: “Nempe decens erat ut ea puritate, qua maior sub deo nequit intelligi” (*Opera omnia*, ed. Schmitt, 2:159).)* it seems that she should not have married.  
 
 On the contrary (1), it says in Matthew 1:18: *when Mary, the mother of Jesus, was espoused to Joseph*, in the text and in the gloss.  
 
@@ -160,7 +160,7 @@ Furthermore (2), Christ by his birth had to make virginity commendable in such a
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that the reasons given for her marriage in the text are not fitting.Parallel: *ST* III, q. 29, a. 1; *Super Matt*. 1. For the devil, since he had natural lucidity, could understand more things by natural understanding than man. But even man can know through his senses whether someone is a virgin. Therefore, much more powerfully was the devil able to know this.  
+Obj. 1: Moreover, it seems that the reasons given for her marriage in the text are not fitting. *(Parallel: *ST* III, q. 29, a. 1; *Super Matt*. 1.)* For the devil, since he had natural lucidity, could understand more things by natural understanding than man. But even man can know through his senses whether someone is a virgin. Therefore, much more powerfully was the devil able to know this.  
 
 Obj. 2: Furthermore, the devil knows well that that girl is a virgin who has never been united with a man. But the devil could have known that Joseph never had been united with her carnally. Therefore, the Mother of God’s virginity was not hidden from him by the fact that she was married.  
 
@@ -174,7 +174,7 @@ Obj. 6: Besides, Christ came so that he might endure our toils, and by this fact
 
 Response to Quaestiuncula 1  
 
-I answer that, everything belonging to perfection ought to have been displayed in the Blessed Virgin. At the time, however, marriage was preferred to virginity (although in itself the best) because of the expectation of the blessed seedThat is, Christ the promised savior. coming by way of generation. Therefore, the Blessed Virgin vowed virginity as the most excellent thing and the thing most acceptable to herself, yet not simply speaking, but under the most honorable condition—that is, unless God should will otherwise. Nor was that condition added as though she were unsure whether she wanted to remain a virgin, but whether she ought; and this is what Augustine says in the text, that she proposed that she would persevere as a virgin, unless God should arrange otherwise.See Gratian, *Decretum*, ch. 27, q. 2, c. 3; cf. Augustine, *De sancta virginitate*, ch. 4, n. 4; *Homily* 225, ch. 2; *Homily* 291, n. 5.  
+I answer that, everything belonging to perfection ought to have been displayed in the Blessed Virgin. At the time, however, marriage was preferred to virginity (although in itself the best) because of the expectation of the blessed seed *(That is, Christ the promised savior.)* coming by way of generation. Therefore, the Blessed Virgin vowed virginity as the most excellent thing and the thing most acceptable to herself, yet not simply speaking, but under the most honorable condition—that is, unless God should will otherwise. Nor was that condition added as though she were unsure whether she wanted to remain a virgin, but whether she ought; and this is what Augustine says in the text, that she proposed that she would persevere as a virgin, unless God should arrange otherwise. *(See Gratian, *Decretum*, ch. 27, q. 2, c. 3; cf. Augustine, *De sancta virginitate*, ch. 4, n. 4; *Homily* 225, ch. 2; *Homily* 291, n. 5.)*  
 
 Reply Obj. 1: The Blessed Virgin was the threshold between the Old Law and the New, as dawn is between night and day; and thus in her vow she resembled the New Law, inasmuch as she vowed virginity, as well as the old, inasmuch as she attached conditions to it.  
 
@@ -200,9 +200,9 @@ And the answer to the second objection is similar.
 
 Reply Obj. 3: Even through the other miracles, he could not manifestly recognize Jesus as the Son of God, since he saw in him signs of weakness and of strength at the same time. Therefore, if sometimes he confessed something of his divinity, it proceeded more from presumption than from certitude. But this virginal birth, because of the preceding prophecy, would have been the most certain sign of the Son of the living God.  
 
-Reply Obj. 4: This is to be understood of the stoning of disrepute;See Deuteronomy 22:21. or, because she was of priestly lineage on her mother’s side (which is clear from the fact that Elizabeth, who was of the daughters of Aaron, is said to have been related to her, in Luke 1:36), and the daughter of a priest, apprehended in unchastity, even if unmarried, was to be burned, as is clear from Leviticus 21:9.That is, if Mary’s descent from a priestly family is considered, the penalty of stoning would not have applied to her, but rather, burning. But on her father’s side, she was of the line of David. For the daughters of Aaron were able to be joined in marriage with those of the royal tribe or also with any of the other tribes, by the fact that they did not receive an inheritance separate from the other tribes, and so from this fact no confusion could have arisen over the inheritance, which was the reason for the prohibition against contracting marriage between members of different tribes.  
+Reply Obj. 4: This is to be understood of the stoning of disrepute; *(See Deuteronomy 22:21.)* or, because she was of priestly lineage on her mother’s side (which is clear from the fact that Elizabeth, who was of the daughters of Aaron, is said to have been related to her, in Luke 1:36), and the daughter of a priest, apprehended in unchastity, even if unmarried, was to be burned, as is clear from Leviticus 21:9. *(That is, if Mary’s descent from a priestly family is considered, the penalty of stoning would not have applied to her, but rather, burning.)* But on her father’s side, she was of the line of David. For the daughters of Aaron were able to be joined in marriage with those of the royal tribe or also with any of the other tribes, by the fact that they did not receive an inheritance separate from the other tribes, and so from this fact no confusion could have arisen over the inheritance, which was the reason for the prohibition against contracting marriage between members of different tribes.  
 
-Reply Obj. 5: The Lord preferred to permit the Jews to be uncertain of his own divinity rather than of the chastity of his mother, for he knew that the reputation of virginity is fragile, as Ambrose says.Ambrose, *Exposition on the Gospel of Luke* (CCSL 14), Bk. 2, line 15.  
+Reply Obj. 5: The Lord preferred to permit the Jews to be uncertain of his own divinity rather than of the chastity of his mother, for he knew that the reputation of virginity is fragile, as Ambrose says. *(Ambrose, *Exposition on the Gospel of Luke* (CCSL 14), Bk. 2, line 15.)*  
 
 Reply Obj. 6: Christ did not of necessity have to refuse comfort, since this is more an act of perversity than of humility.  
 
@@ -210,7 +210,7 @@ Article 2
 
 ***Whether this marriage was complete***
 
-Obj. 1: To the second question, we proceed thus.Parallel: *ST* III, q. 29, a. 2; *Super Matt.* 1. It seems that the marriage described was not complete. For a complete marriage proceeds from absolute consent. But the Blessed Virgin does not seem to have consented absolutely in matrimony, as neither did she vow absolutely, since in both she committed herself to divine governance, as is said in the text. Therefore, it was not a complete marriage.  
+Obj. 1: To the second question, we proceed thus. *(Parallel: *ST* III, q. 29, a. 2; *Super Matt.* 1.)* It seems that the marriage described was not complete. For a complete marriage proceeds from absolute consent. But the Blessed Virgin does not seem to have consented absolutely in matrimony, as neither did she vow absolutely, since in both she committed herself to divine governance, as is said in the text. Therefore, it was not a complete marriage.  
 
 Obj. 2: Furthermore, the signification belongs to the essence of marriage, inasmuch as it is a sacrament. But that marriage was not complete in its signification, as it says in the text. Therefore, it was not a perfect sacrament.  
 
@@ -240,7 +240,7 @@ Article 3
 
 ***Whether it was ever consummated***
 
-Obj. 1: To the third question, we proceed thus.Parallels: generally, *ST* III, qq. 28–29; more specifically, q. 28, aa. 1 and 3. It seems that this marriage was consummated at some time. For it says in Matthew 1:18: *before they came together, she was found to be with child by the Holy Spirit*. And in verse 25*, he did not know her until she had given birth to her firstborn son*. Therefore, it seems that afterward he did know her.  
+Obj. 1: To the third question, we proceed thus. *(Parallels: generally, *ST* III, qq. 28–29; more specifically, q. 28, aa. 1 and 3.)* It seems that this marriage was consummated at some time. For it says in Matthew 1:18: *before they came together, she was found to be with child by the Holy Spirit*. And in verse 25*, he did not know her until she had given birth to her firstborn son*. Therefore, it seems that afterward he did know her.  
 
 Obj. 2: Furthermore, ‘the first’ is said with respect to a second. But Christ is called the firstborn son of the Virgin by the authorities brought forth. Therefore, after the first child, she had another; and thus this marriage, at least after the birth of Christ, was consummated.  
 
@@ -252,13 +252,13 @@ Obj. 5: Furthermore, two bodies cannot be in the same place at the same time. Th
 
 Obj. 6: Furthermore, Abraham and other fathers who enjoyed marriage had the greatest of dignity. Therefore, nothing would have been lost to the mother of Christ, if she had consummated her marriage.  
 
-Obj. 7: Furthermore, Helvidius objects: *if it is a base thing for Christ that his mother be known after his birth, how much more so for him to have been born through the genitals of a virgin?*See Jerome, *Adversus Helvidium* (PL 23:212).  
+Obj. 7: Furthermore, Helvidius objects: *if it is a base thing for Christ that his mother be known after his birth, how much more so for him to have been born through the genitals of a virgin?* *(See Jerome, *Adversus Helvidium* (PL 23:212).)*  
 
 On the contrary (1), virginity is preferred to corruption. But the mother of Christ had to be in the most excellent state. Therefore, she had to be a virgin, and thus her marriage could not have been consummated.  
 
-Furthermore (2), it is not probable that Joseph would dare to approach the womb that he knew was a temple of God, as Jerome says.Ibid., 190.  
+Furthermore (2), it is not probable that Joseph would dare to approach the womb that he knew was a temple of God, as Jerome says. *(Ibid., 190.)*  
 
-I answer that, the mother of Christ remained a virgin before the birth, and in the birth, and after the birth for all eternity. But the Jews and the Ebionites detract from her virginity before the birth, saying that Christ was born from the seed of Joseph. The philosophers, on the other hand, dispute her virginity during the birth, saying that two bodies cannot be in the same place. But Helvidius, a certain idiot and priest, dared to calumniate her virginity after the birth; for, believing garrulousness to be eloquence, and having found a subject to disagree about, he began with blasphemies against the Mother of God, saying that she had been known by Joseph after the birth of Christ. And against him, Jerome composed a book.Namely, *Adversus Helvidium de Mariae virginitate perpetua* (PL 23:193–216).  
+I answer that, the mother of Christ remained a virgin before the birth, and in the birth, and after the birth for all eternity. But the Jews and the Ebionites detract from her virginity before the birth, saying that Christ was born from the seed of Joseph. The philosophers, on the other hand, dispute her virginity during the birth, saying that two bodies cannot be in the same place. But Helvidius, a certain idiot and priest, dared to calumniate her virginity after the birth; for, believing garrulousness to be eloquence, and having found a subject to disagree about, he began with blasphemies against the Mother of God, saying that she had been known by Joseph after the birth of Christ. And against him, Jerome composed a book. *(Namely, *Adversus Helvidium de Mariae virginitate perpetua* (PL 23:193–216).)*  
 
 Reply Obj. 1: ‘Before’ does not always denote an order to what is in the future according to the truth of the matter, but sometimes it is said regarding what is expected in the future according to the usual course of things—as in, “before he had reached twenty years of age, he was dead.” And so it is in the case at hand. And likewise with ‘until,’ for sometimes it means that what preceded will be terminated by this coming thing that is expected, as when it is said, “Sit here, until I come.” But sometimes not like this, as when it says in 1 Corinthians 15:25: *he must reign until he has put all his enemies under his feet*—not that the time of his reign will be finished at the subjection of his enemies, but rather, the subjection of the enemies is included in the time of the reign.  
 
@@ -266,20 +266,20 @@ Reply Obj. 2: ‘Firstborn’ is said of the one before whom there is no one, no
 
 Reply Obj. 3: The Gospel writers left what is more believable to be understood from what is less believable. It is less believable that a virgin should conceive (which the Gospel writers said), than that after the birth she should have been preserved a virgin; and therefore, they did not take the trouble to say it.  
 
-Reply Obj. 4: Joseph is called the ‘foster father’ of Christ, as is evident from Luke 3:23. And again, Christ was made his adopted son, as certain people say. Others, though, were called the ‘brothers’ of Jesus by reason of family relation, since they were of the same family: since neither did Mary have another son, nor did Joseph, who was also a virgin, as it is said.Thomas might also have noted here, as he does elsewhere (*ST* III, q. 28, a. 3, ad 5), that Scripture uses the term “brethren” in a broad sense.  
+Reply Obj. 4: Joseph is called the ‘foster father’ of Christ, as is evident from Luke 3:23. And again, Christ was made his adopted son, as certain people say. Others, though, were called the ‘brothers’ of Jesus by reason of family relation, since they were of the same family: since neither did Mary have another son, nor did Joseph, who was also a virgin, as it is said. *(Thomas might also have noted here, as he does elsewhere (*ST* III, q. 28, a. 3, ad 5), that Scripture uses the term “brethren” in a broad sense.)*  
 
 Reply Obj. 5: This is true according to nature; but by a miracle it can happen that two bodies are in the same place at the same time (as will be shown in Distinction 44)—and that birth and conception were entirely miraculous. Indeed, some say that Christ assumed the gift of subtlety at that time; yet the first account is better.  
 
 Reply Obj. 6: However good might be the state of consummated marriage, nonetheless the state of virginity is much higher. And this befitted the Mother of God.  
 
-Reply Obj. 7: According to Jerome, *the more humiliating things he suffered for me, the more I owe him*,Jerome, *Adversus Helvidium* (PL 23:202). provided that nothing in these things detracts from the perfection of his virtue. But the privation of virginity would take away from the perfection of his mother as regards the virtue of her soul.  
+Reply Obj. 7: According to Jerome, *the more humiliating things he suffered for me, the more I owe him*, *(Jerome, *Adversus Helvidium* (PL 23:202).)* provided that nothing in these things detracts from the perfection of his virtue. But the privation of virginity would take away from the perfection of his mother as regards the virtue of her soul.  
 
 Exposition of the Text  
 
-*If the devil, transforming himself into an angel of light, is believed to be good, it is not a dangerous error*.*Sententiae* IV, 30.2 (178). 4. This should be understood, when it does not proceed to the point of adoration, or, if it should, only under the supposition that it was Christ; otherwise, it would pose the danger of idolatry.  
+*If the devil, transforming himself into an angel of light, is believed to be good, it is not a dangerous error*. *(*Sententiae* IV, 30.2 (178). 4.)* This should be understood, when it does not proceed to the point of adoration, or, if it should, only under the supposition that it was Christ; otherwise, it would pose the danger of idolatry.  
 
-*If some heretic, in the name of Augustine or Ambrose should present himself to a Catholic, and invite him to imitate his faith, if the Catholic should assent, to whose definition of faith would he be said to have assented?**Sent*. IV, 30.1 (178). 4. This is true when it has not proceeded to the point of the expression of some error; otherwise, there would have been the danger of infidelity, if someone assented to him.  
+*If some heretic, in the name of Augustine or Ambrose should present himself to a Catholic, and invite him to imitate his faith, if the Catholic should assent, to whose definition of faith would he be said to have assented?* *(*Sent*. IV, 30.1 (178). 4.)* This is true when it has not proceeded to the point of the expression of some error; otherwise, there would have been the danger of infidelity, if someone assented to him.  
 
-*She consented to carnal union*,*Sent*. IV, 30.2 (179). 2. not explicitly but implicitly, as was said.  
+*She consented to carnal union*, *(*Sent*. IV, 30.2 (179). 2.)* not explicitly but implicitly, as was said.  
 
-*Jacob . . . who loved Rachel of the beautiful face and shapely aspect*.*Sent*. IV, 30.3 (180). 3, Gen. 29:17. It should be known that comeliness of face was not a principal reason, but a secondary one; and this can exist perfectly well without sin, and sometimes even without venial sin. However, if sensual desire for her beauty were the principal cause, he would not have been excused from mortal sin, if it were unbridled sensual desire.
+*Jacob . . . who loved Rachel of the beautiful face and shapely aspect*. *(*Sent*. IV, 30.3 (180). 3, Gen. 29:17.)* It should be known that comeliness of face was not a principal reason, but a secondary one; and this can exist perfectly well without sin, and sometimes even without venial sin. However, if sensual desire for her beauty were the principal cause, he would not have been excused from mortal sin, if it were unbridled sensual desire.

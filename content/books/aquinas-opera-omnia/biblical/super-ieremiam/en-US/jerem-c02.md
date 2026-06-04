@@ -8,7 +8,7 @@ He began to prophesy when still a boy, and he saw the captivity of Judah not onl
 
 For this reason, he prophesied only against Judah and Benjamin, and composed an acrostic elegy consisting of four-verse strophes mourning the destruction of his city, which we have rendered with verses in a measured meter.  
 
-Moreover, we have corrected the order of the visions, which among the Greeks and the Latins has been entirely confused,In this matter, Jerome is probably mistaken. Manuscript evidence from the Judean desert corroborates the order of the visions in the Septuagint and Old Latin versions as being the more ancient. back to their original exactness.  
+Moreover, we have corrected the order of the visions, which among the Greeks and the Latins has been entirely confused, *(In this matter, Jerome is probably mistaken. Manuscript evidence from the Judean desert corroborates the order of the visions in the Septuagint and Old Latin versions as being the more ancient.)* back to their original exactness.  
 
 We have passed over the book of Baruch, which among the Hebrews is neither read, nor held to be canonical, standing ready because of these things for the curses of my adversaries, to whom it is necessary for me to respond for every little work I undertake. These things I suffer because you force me.  
 
@@ -52,9 +52,9 @@ Third, from the integrity of the flesh, ***virginity***, which is proven from wh
 
 ***His elegy***, in Lamentations.  
 
-***We have rendered with verses in a measured meter***.From Jerome’s introduction to *Lamentations*, which renders the Hebrew *qinah* with metered verses. Here, he makes them well-disposed to his person by three devices.  
+***We have rendered with verses in a measured meter***. *(From Jerome’s introduction to *Lamentations*, which renders the Hebrew *qinah* with metered verses.)* Here, he makes them well-disposed to his person by three devices.  
 
-First, from the good things he has done without arrogance, saying, ***which we have rendered with verses in measured meter***, that is, writing letters in order before each series of verses for Lamentations,Here Jerome is speaking of the fact that four out of the five chapters of Lamentations are acrostic compositions with each verse in each four-verse strophe beginning with the same letter of the Hebrew alphabet. Psalm 119 is another example of Hebrew acrostic poetry. and for the book of Jeremiah.  
+First, from the good things he has done without arrogance, saying, ***which we have rendered with verses in measured meter***, that is, writing letters in order before each series of verses for Lamentations, *(Here Jerome is speaking of the fact that four out of the five chapters of Lamentations are acrostic compositions with each verse in each four-verse strophe beginning with the same letter of the Hebrew alphabet. Psalm 119 is another example of Hebrew acrostic poetry.)* and for the book of Jeremiah.  
 
 Second, he softens the reproach he has given, by excusing himself for his treatment of Baruch, whom he has omitted. ***We have passed over the book of Baruch, which among the Hebrews is neither read nor held to be canonical***.  
 

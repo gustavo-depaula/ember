@@ -130,9 +130,9 @@ Lecture 5
 
 > ^26:22^ And Jehoiakim, the king, sent men into Egypt, Elnathan, the son of Achbor, and men with him, into Egypt.
 
-> ^26:23^ And they took Uriah out of Egypt, and brought him to king Jehoiakim, and struck him with the sword, and cast his body into the graves of the common people.Heb. אֶל־קִבְרֵ֖י בְּנֵ֥י הָעָֽם: *into the graves of the children of the people*.
+> ^26:23^ And they took Uriah out of Egypt, and brought him to king Jehoiakim, and struck him with the sword, and cast his body into the graves of the common people. *(Heb. אֶל־קִבְרֵ֖י בְּנֵ֥י הָעָֽם: *into the graves of the children of the people*.)*
 
-> ^26:24^ Therefore, the hand of Ahicam, the son of Shaphan,This is the same Shapan of 2 Chronicles 34 and 2 Kings 22, a scribe who was instrumental in the restoration of the Temple. was with Jeremiah, that they should not give him into the hands of the people, to put him to death.
+> ^26:24^ Therefore, the hand of Ahicam, the son of Shaphan, *(This is the same Shapan of 2 Chronicles 34 and 2 Kings 22, a scribe who was instrumental in the restoration of the Temple.)* was with Jeremiah, that they should not give him into the hands of the people, to put him to death.
 
 > **139**. Here is given the calming of the people’s fury against Jeremiah, by the words of the elders.
 

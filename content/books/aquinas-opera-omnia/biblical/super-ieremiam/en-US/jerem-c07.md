@@ -6,7 +6,7 @@
 
 ***Jerusalem without holy men***
 
-^5:1^ Go through the streets of Jerusalem, look and consider, seek in her broad places a man who carries out judgment, who seeks faith, and I will be graciousHeb. וְאֶסְלַ֖ח: *I will pardon*. to her.I.e., Jerusalem.  
+^5:1^ Go through the streets of Jerusalem, look and consider, seek in her broad places a man who carries out judgment, who seeks faith, and I will be gracious *(Heb. וְאֶסְלַ֖ח: *I will pardon*.)* to her. *(I.e., Jerusalem.)*  
 
 > ^5:2^ Even if they say, ‘As the Lord lives,’ they swear falsely.
 
@@ -48,7 +48,7 @@ Second, the prophet confirms the judgment of the Lord.
 
 First, he discusses the truth of the sentence: ***Lord, your eyes behold faith***, that is, what is right; it is as though he were saying, “You have judged rightly.” *Every way of a man lies open to his eyes, the Lord is a weigher of spirits* (Prov 16:2). *Your eyes are clean lest they should see evil, and to look upon iniquity you will not be able* (Hab 1:13).  
 
-Second, he adds the incorrigibility of the people, for they are not corrected even by being struck: ***you have struck them***, with light chastisements, ***and they have not been sorry***, for their sins; ***you have crushed them***, with death and captivity. As it says above, ***in vain have I struck your children; they have not received correction*** (Jer 2:30). *I have struck you with a burning wind, and I have struck all the works of your hands with mildew*In this quotation of the passage from Haggai, the Parma edition has *aerugine*, “rust,” instead of *aurugine*, “mildew.” But perhaps this is how Thomas Aquinas read the passage; see notes in ch. 30, lect. 2, below. *and hail; and there was none among you who would turn back to me, says the Lord* (Hag 2:18). Nor because of shame: ***they have hardened***; it is as though he were saying, “They are not changed by the feeling of shame.” *Indeed, the whole house of Israel has a hard forehead, and a stiff heart* (Ezek 3:7).  
+Second, he adds the incorrigibility of the people, for they are not corrected even by being struck: ***you have struck them***, with light chastisements, ***and they have not been sorry***, for their sins; ***you have crushed them***, with death and captivity. As it says above, ***in vain have I struck your children; they have not received correction*** (Jer 2:30). *I have struck you with a burning wind, and I have struck all the works of your hands with mildew* *(In this quotation of the passage from Haggai, the Parma edition has *aerugine*, “rust,” instead of *aurugine*, “mildew.” But perhaps this is how Thomas Aquinas read the passage; see notes in ch. 30, lect. 2, below.)* *and hail; and there was none among you who would turn back to me, says the Lord* (Hag 2:18). Nor because of shame: ***they have hardened***; it is as though he were saying, “They are not changed by the feeling of shame.” *Indeed, the whole house of Israel has a hard forehead, and a stiff heart* (Ezek 3:7).  
 
 Lecture 2  
 
@@ -82,19 +82,19 @@ Lecture 4
 
 ***Israel’s sins enumerated***
 
-^5:7^ For what shall I be able to be gracious to you? Your children have abandoned me and have sworn by them which are no gods. I have filled them, and they have been adulterous, they would sportHeb. יִתְגֹּדָֽדוּ: *gather by troops*. in the house of the harlot.  
+^5:7^ For what shall I be able to be gracious to you? Your children have abandoned me and have sworn by them which are no gods. I have filled them, and they have been adulterous, they would sport *(Heb. יִתְגֹּדָֽדוּ: *gather by troops*.)* in the house of the harlot.  
 
 > ^5:8^ They have become as amorous horses with women; they have been sent out, each one neighing at the wife of his neighbor.
 
 > ^5:9^ Shall I not visit you for these things, says the Lord, and on such a nation shall my soul not be avenged?
 
-> ^5:10^ Go upon her walls,Heb. בְשָׁרוֹתֶיהָ: *into her rows*. and destroy, but do not make an end; take away her shoots, because they are not of the Lord.
+> ^5:10^ Go upon her walls, *(Heb. בְשָׁרוֹתֶיהָ: *into her rows*.)* and destroy, but do not make an end; take away her shoots, because they are not of the Lord.
 
 > ^5:11^ With rebellion the house of Israel and the house of Judah have rebelled against me, says the Lord.
 
 > ^5:12^ They have denied the Lord, and said, ‘He is not; neither shall evil come upon us; we shall not see the sword or famine.’
 
-> ^5:13^ There were prophets, and they spoke into the wind,Heb. יִהְיוּ לְרוּחַ: *they shall become wind*. and there was no response in them; therefore, these things shall come upon them.
+> ^5:13^ There were prophets, and they spoke into the wind, *(Heb. יִהְיוּ לְרוּחַ: *they shall become wind*.)* and there was no response in them; therefore, these things shall come upon them.
 
 > ^5:14^ Thus says the Lord God of hosts: because you have spoken this word, behold I give my words in your mouth as fire, and this people as wood, and it will devour them.
 
@@ -124,13 +124,13 @@ Concerning the first point, there are three things.
 
 First, he accuses the people of the crime of idolatry: ***for what shall I be able to be gracious to you?*** That is, what reasonable cause will I be able to find for sparing you? ***Have sworn***, offering divine honor to them. *They have provoked me with what was not God; and incited me with their vanities; I also will provoke them with what is not a people* (Deut 32:21).  
 
-Second, he accuses them of the fault of wantonness when he speaks of the commission of sin, or the occasion of sin: ***I have filled them***, by conferring a wealth of temporal goods. From the Gloss: *without Ceres and Bacchus, Venus has nothing to do; for the stomach and the genitals are friends*.In the *Summa theologiae* II-II, q. 147, a. 1, Thomas Aquinas cites Jerome for the same quotation. Jerome, in turn, cites a *comicus*, a comic poet. Cf. *Adversus Jovinianum* 2.7 (PL 23) and *Epistulae* 54.9 (CSEL 54:476; PL 22:325). ***They have been adulterous***, committed adultery, ***in the house of the harlot***. The vileness of the sin is increased by the place itself. *This was the sin of Sodom, your sister: pride and fullness of bread, abundance and leisure for herself, and for her daughters; and she did not stretch out her hand for the needy; they became haughty, and committed abominations before me, and I took them away as you have seen* (Ezek 16:49).  
+Second, he accuses them of the fault of wantonness when he speaks of the commission of sin, or the occasion of sin: ***I have filled them***, by conferring a wealth of temporal goods. From the Gloss: *without Ceres and Bacchus, Venus has nothing to do; for the stomach and the genitals are friends*. *(In the *Summa theologiae* II-II, q. 147, a. 1, Thomas Aquinas cites Jerome for the same quotation. Jerome, in turn, cites a *comicus*, a comic poet. Cf. *Adversus Jovinianum* 2.7 (PL 23) and *Epistulae* 54.9 (CSEL 54:476; PL 22:325).)* ***They have been adulterous***, committed adultery, ***in the house of the harlot***. The vileness of the sin is increased by the place itself. *This was the sin of Sodom, your sister: pride and fullness of bread, abundance and leisure for herself, and for her daughters; and she did not stretch out her hand for the needy; they became haughty, and committed abominations before me, and I took them away as you have seen* (Ezek 16:49).  
 
 He speaks also of the fervor of their lust: ***as amorous horses***, that is, at the time of their sporting, ***sent out***, because the beasts of burden are specifically sent out to pasture for this purpose. ***Neighing***, as one mad with lust. *Do not be as a horse or mule, in whom there is no understanding* (Ps 31:9).  
 
 He speaks also of the recompense of punishment when he threatens vengeance: ***shall I not visit you for these things***, by correcting their sins with punishments; ***my soul***, the affections. *I will visit the men settled in their lees* (Zeph 1:12).  
 
-And he specifies their punishment with regard to the destruction of the walls: ***go upon her walls***, O Chaldeans; and regarding the destruction of men: ***take away her shoots***, that is, the sons who are propagated from these people, as vines from a slip. *Your strong and lofty walls, in which you put your trust, will be torn down throughout all your land* (Deut 28:52). Now he takes up the cause of their punishment again: ***because they are not of the Lord***—they have been estranged from him by sin. *The prevaricators have prevaricated, and with the prevarication of transgressors they have prevaricated* (Isa 24:16).The Hebrew has a somewhat different sense here: בֹּגְדִים בָּגָדוּ וּבֶגֶד בּוֹגְדִים בָּגָדוּ: *the treacherous have acted treacherously, and with the treachery of the treacherous, they have been treacherous*. While the Hebrew connotes betrayal, the Latin *praevaricatio* denotes more of a failure in duty, a violation of law, apostasy.  
+And he specifies their punishment with regard to the destruction of the walls: ***go upon her walls***, O Chaldeans; and regarding the destruction of men: ***take away her shoots***, that is, the sons who are propagated from these people, as vines from a slip. *Your strong and lofty walls, in which you put your trust, will be torn down throughout all your land* (Deut 28:52). Now he takes up the cause of their punishment again: ***because they are not of the Lord***—they have been estranged from him by sin. *The prevaricators have prevaricated, and with the prevarication of transgressors they have prevaricated* (Isa 24:16). *(The Hebrew has a somewhat different sense here: בֹּגְדִים בָּגָדוּ וּבֶגֶד בּוֹגְדִים בָּגָדוּ: *the treacherous have acted treacherously, and with the treachery of the treacherous, they have been treacherous*. While the Hebrew connotes betrayal, the Latin *praevaricatio* denotes more of a failure in duty, a violation of law, apostasy.)*  
 
 Third, he accuses them of the sin of blasphemy.  
 
@@ -166,7 +166,7 @@ Lecture 5
 
 > ^5:23^ But a rebellious, and unbelieving heart has been given to this people; they have turned back, and gone away.
 
-> ^5:24^ And they did not say in their heart, ‘Let us fear the Lord our God, who has given us the early, and the latter rain in its season, guarding the fullness of the year’s harvestHeb. שְׁבֻעֹת חֻקּוֹת קָצִיר: *the appointed weeks of the harvest*. for us.’
+> ^5:24^ And they did not say in their heart, ‘Let us fear the Lord our God, who has given us the early, and the latter rain in its season, guarding the fullness of the year’s harvest *(Heb. שְׁבֻעֹת חֻקּוֹת קָצִיר: *the appointed weeks of the harvest*.)* for us.’
 
 > ^5:25^ Your iniquities have turned these away, and your sins have kept good from you.
 
@@ -226,9 +226,9 @@ Lecture 8
 
 ***Lies of prophets and priests***
 
-^5:30^ Wondrous and amazing things are done in the land:Heb. שַׁמָּה֙ וְשַׁ֣עֲרוּרָ֔ה נִהְיְתָ֖ה בָּאָֽרֶץ: *an astonishing and horrible thing has been committed in the land*.  
+^5:30^ Wondrous and amazing things are done in the land: *(Heb. שַׁמָּה֙ וְשַׁ֣עֲרוּרָ֔ה נִהְיְתָ֖ה בָּאָֽרֶץ: *an astonishing and horrible thing has been committed in the land*.)*  
 
-> ^5:31^ The prophets prophesy a lie, and the priests clap with their hands,Heb. וְהַכֹּהֲנִים֙ יִרְדּ֣וּ עַל־יְדֵיהֶ֔ם: *and the priests rule by their own hands*. and my people delight in such things. What then shall be doneHeb. תַּעֲשׂ֖וּ: *will you (pl.) do*. in the end thereof?
+> ^5:31^ The prophets prophesy a lie, and the priests clap with their hands, *(Heb. וְהַכֹּהֲנִים֙ יִרְדּ֣וּ עַל־יְדֵיהֶ֔ם: *and the priests rule by their own hands*.)* and my people delight in such things. What then shall be done *(Heb. תַּעֲשׂ֖וּ: *will you (pl.) do*.)* in the end thereof?
 
 > **39**. Here, he declares the perversity of their doctrine.
 

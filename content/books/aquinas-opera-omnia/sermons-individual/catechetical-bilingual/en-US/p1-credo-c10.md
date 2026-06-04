@@ -1,14 +1,14 @@
 # A. 9 - The Holy Catholic Church
 
-We see that in a man there is one soul and one body, and of his body there are many members.Parallel texts: *ST* II-II.81.8; III.8.1 and following; *ST Supplement* 83.3, ad 2. So also the Catholic Church is one body and has different members. The soul which animates this body is the Holy Spirit.Parallel texts: *ST* II-II.1.9, s.c.; *ST Supplement*, q. 25, a. 1, s.c. 2. Hence, after confessing our faith in the Holy Spirit, we are bid to believe in the Holy Catholic Church. Thus, in the Creed it is said: ***the Holy Catholic Church***.  
+We see that in a man there is one soul and one body, and of his body there are many members. *(Parallel texts: *ST* II-II.81.8; III.8.1 and following; *ST Supplement* 83.3, ad 2.)* So also the Catholic Church is one body and has different members. The soul which animates this body is the Holy Spirit. *(Parallel texts: *ST* II-II.1.9, s.c.; *ST Supplement*, q. 25, a. 1, s.c. 2.)* Hence, after confessing our faith in the Holy Spirit, we are bid to believe in the Holy Catholic Church. Thus, in the Creed it is said: ***the Holy Catholic Church***.  
 
 It must be known that ***Church*** is the same as assembly. So, the holy Church is the same as the assembly of the faithful, and every Christian is a member of this Church, of which it is written: *draw near to me, you unlearned, and gather yourselves together into the house of discipline* (Sir 51:31).  
 
 The holy Church has four essential conditions: she is one, she is holy, she is Catholic, that is, universal, and she is strong and firm.  
 
-Of the first, it must be known that although various heretics have founded various sects, they do not belong to the Church, since they are divided into parts: but the Church is ***one***: *one is my dove, my perfect one* (Song 6:8).Parallel texts: *ST* II-II.39.1; 2, ad 2. The unity of the Church arises from three sources.  
+Of the first, it must be known that although various heretics have founded various sects, they do not belong to the Church, since they are divided into parts: but the Church is ***one***: *one is my dove, my perfect one* (Song 6:8). *(Parallel texts: *ST* II-II.39.1; 2, ad 2.)* The unity of the Church arises from three sources.  
 
-The first is the unity of faith.Parallel texts: *ST* III.35.7, ad 3; 49.1; 64.1, ad 2; 64.2, ad 3; 66.10, s.c.; 72.12, s.c.; 73.3; *ST Supplement*, q. 25, a. 1, s.c. 2; q. 29, a. 3, s.c. 2; q. 40, a. 61; q. 65, a. 1; q. 66, a. 3; a. 5, ad 2; q. 77, a. 2; q. 95, a. 3, ad 1; *SCG* IV.76, 83. All Christians who are of the body of the Church believe the same doctrine. *I beseech you that you all speak the same thing and that there be no schisms among you* (1 Cor 1:10); and: *one Lord, one faith, one baptism* (Eph 4:5).  
+The first is the unity of faith. *(Parallel texts: *ST* III.35.7, ad 3; 49.1; 64.1, ad 2; 64.2, ad 3; 66.10, s.c.; 72.12, s.c.; 73.3; *ST Supplement*, q. 25, a. 1, s.c. 2; q. 29, a. 3, s.c. 2; q. 40, a. 61; q. 65, a. 1; q. 66, a. 3; a. 5, ad 2; q. 77, a. 2; q. 95, a. 3, ad 1; *SCG* IV.76, 83.)* All Christians who are of the body of the Church believe the same doctrine. *I beseech you that you all speak the same thing and that there be no schisms among you* (1 Cor 1:10); and: *one Lord, one faith, one baptism* (Eph 4:5).  
 
 The second is the unity of hope. All are strengthened in one hope of arriving at eternal life. Hence, the Apostle says: *one body and one Spirit, as you are called in one hope of your calling* (Eph 4:4).  
 
@@ -16,7 +16,7 @@ The third is the unity of charity. All are joined together in the love of God an
 
 Concerning the second mark, holiness, it must be known that there is indeed another assembly, but it consists of the wicked: *I hate the assembly of the wicked* (Ps 26 [25]:5). But such a one is evil. The Church of Christ, however, is holy: *for the temple of God is holy, which you are* (1 Cor 3:17). Hence, it is said: ***the holy Church***.  
 
-The faithful of this Church are made holy because of three things.Thus reads the Latin text, although four things are listed below.  
+The faithful of this Church are made holy because of three things. *(Thus reads the Latin text, although four things are listed below.)*  
 
 The first is because, just as a church is cleansed materially when it is consecrated, so also the faithful are washed in the blood of Christ: *who hath loved us and washed us from our sins in his own blood* (Rev 1:5); *that he might sanctify the people by his blood, he suffered outside the gate* (Heb 13:12).  
 

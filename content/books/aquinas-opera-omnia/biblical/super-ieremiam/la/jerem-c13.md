@@ -120,7 +120,7 @@ Primo commemorat pristinam gloriam: ***olivam uberem***, quantum ad abundantiam 
 
 Secundo praedicit futuram poenam,  
 
-primo proponens ipsam poenam: ***ad vocem loquelae***, idest ad imperium Nabuchodonosor, ***in ea***,Here, the Parma edition reads *vinea*, “vine,” in place of *in ea*, “in her.” idest domus Israel, ***exarsit in ea ignis***, ad litteram, ***fructeta***, scilicet homines, et ea quae ad eos pertinebant. Vel ***loquelae grandis***, quia ex tali vocatione grandia de te sensisti, et ideo poenam meruisti. Is. 27: *in praelio gradiar super eam, succendam eam pariter*.  
+primo proponens ipsam poenam: ***ad vocem loquelae***, idest ad imperium Nabuchodonosor, ***in ea***, *(Here, the Parma edition reads *vinea*, “vine,” in place of *in ea*, “in her.”)* idest domus Israel, ***exarsit in ea ignis***, ad litteram, ***fructeta***, scilicet homines, et ea quae ad eos pertinebant. Vel ***loquelae grandis***, quia ex tali vocatione grandia de te sensisti, et ideo poenam meruisti. Is. 27: *in praelio gradiar super eam, succendam eam pariter*.  
 
 Secundo punientis potentiam, ***Dominus exercituum***. 1 Reg. 2: *Dominus mortificat et vivificat, deducit ad inferos et reducit*, etc.  
 

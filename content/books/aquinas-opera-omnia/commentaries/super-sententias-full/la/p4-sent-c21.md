@@ -4,7 +4,7 @@
 
 ***Divisio textus***
 
-Ostenso quod ex simpliciParma: *finis*.  intentione vel voluntate actus exterior habet malitiam et bonitatem, hic determinat quamdam quaestionemParma and PLE: *quasdam quaestiones*.  circa praedeterminata; et dividitur in partes duas:  
+Ostenso quod ex simplici *(Parma: *finis*.)* intentione vel voluntate actus exterior habet malitiam et bonitatem, hic determinat quamdam quaestionem *(Parma and PLE: *quasdam quaestiones*.)* circa praedeterminata; et dividitur in partes duas:  
 
 in prima inquirit de actu peccati per comparationem ad intentionem;  
 
@@ -82,7 +82,7 @@ Respondeo dicendum, quod rectum dicitur esse cujus medium non exit ab extremis. 
 
 Finis autem humanorum actuum potest accipi dupliciter: vel finis proprius et proximus; vel communis et ultimus, et hic est duplex. Quia vel excedit facultatem naturae, sicut felicitas futura in patria, et in hunc finem ostendendo dirigit fides, et inclinando dirigit caritas, sicut aliqua forma naturalis inclinat in suum finem, quia ad hunc finem non sufficit dirigere naturalis potentia neque per se, neque perfecta per habitum naturalem vel acquisitum; et quia ad hunc finem, cum sit ultimus, sunt omnes alii fines ordinati; ideo fides et caritas dicuntur dirigere intentionem universaliter in omnibus.  
 
-In finem autem communem proportionatum humanae facultati dirigit ratio, ostendendo perfectaNicolaï: *secundum quod est perfecta*.  per habitumPLE: *perfecta habitu*. sapientiae acquisitae cujus actus est felicitas contemplativa, ut in 10 *Ethic*., cap. 7 et 8, dicitur: vel perfecta per habitum prudentiae, cujus actus est felicitas civilis; inclinando autem virtus appetitiva, secundum quod est perfecta habitibus virtutum moralium.  
+In finem autem communem proportionatum humanae facultati dirigit ratio, ostendendo perfecta *(Nicolaï: *secundum quod est perfecta*.)* per habitum *(PLE: *perfecta habitu*.)* sapientiae acquisitae cujus actus est felicitas contemplativa, ut in 10 *Ethic*., cap. 7 et 8, dicitur: vel perfecta per habitum prudentiae, cujus actus est felicitas civilis; inclinando autem virtus appetitiva, secundum quod est perfecta habitibus virtutum moralium.  
 
 Ad primum ergo dicendum, quod diversorum specie non potest esse idem regulans proprium, sed potest esse idem commune: et sic fides dirigit, inquantum ordinat in finem ultimum.  
 
@@ -94,33 +94,33 @@ Ad quartum dicendum, quod lex dirigit sicut ostendens qualis debeat esse actus p
 
 Ad quintum dicendum, quod in fide sunt duo, scilicet cognitio et aenigma, vel obscuritas sive imperfectio. Fides autem habet dirigere non ratione obscuritatis, sed ratione cognitionis: et ideo cum Christus habuerit perfectam cognitionem, in eo fuit perfecte rectitudo intentionis.  
 
-Ad sextum dicendum, quod inclinatio naturalis in finem praesupponit quemdam intellectum praestituentem finem naturae, et dantem sibi inclinationem in finem illumParma: *ultimum*.  et ita etiam inclinationem moralis virtutis in finem praecedit prudentia quasi ostendens et dirigens in finem; et sic singulae virtutes inclinando dirigunt in fines proximos, non autem in finem ultimum.  
+Ad sextum dicendum, quod inclinatio naturalis in finem praesupponit quemdam intellectum praestituentem finem naturae, et dantem sibi inclinationem in finem illum *(Parma: *ultimum*.)* et ita etiam inclinationem moralis virtutis in finem praecedit prudentia quasi ostendens et dirigens in finem; et sic singulae virtutes inclinando dirigunt in fines proximos, non autem in finem ultimum.  
 
 Articulus 2  
 
 ***Utrum aliquis actus hominis infidelis possit esse bonus***
 
-Ad secundum sic proceditur. Videtur quod actusParma adds *nullum*. infidelis hominis bonus esse nonPLE: *non*; Mandonnet omits. possit.  
+Ad secundum sic proceditur. Videtur quod actus *(Parma adds *nullum*.)* infidelis hominis bonus esse non *(PLE: *non*; Mandonnet omits.)* possit.  
 
 Quia, ut dicitur in Glossa, Rom. 10, omnis vita infidelium peccatum est. Sed non potest esse simul peccatum et bonus actus. Ergo nullus actus infidelis bonus est.  
 
 Praeterea, omnis actus bonus est rectus. Sed omnis actus rectus procedit ab intentione recta. Cum igitur fides intentionem dirigat, videtur quod ubi non est fides actus bonus esse non possit.  
 
-Praeterea, omne bonum Deo placet, et est sibi acceptum. Sed vita infidelium non est Deo accepta, quae gratia caret.Parma: *quia gratia carent*.  Ergo in eis actus bonus non est.  
+Praeterea, omne bonum Deo placet, et est sibi acceptum. Sed vita infidelium non est Deo accepta, quae gratia caret. *(Parma: *quia gratia carent*.)* Ergo in eis actus bonus non est.  
 
-Praeterea, illud proprie dicitur malum quod caret aliqua perfectione quam natum est et debet habere. Sed omnis actus humanus natus est in ultimum finem beatitudinis referri, nisi sit per se malus, et debet in ipsum referri,Parma and PLE: *nisi sit per se malus, et debet in ipsum referri*; Mandonnet omits. ut ex dictis patet. Cum ergo actus infidelium in ultimum finem non referatur, in quem fides dirigit, ut dictum est, videtur quod omnis actus infidelium sit malus.  
+Praeterea, illud proprie dicitur malum quod caret aliqua perfectione quam natum est et debet habere. Sed omnis actus humanus natus est in ultimum finem beatitudinis referri, nisi sit per se malus, et debet in ipsum referri, *(Parma and PLE: *nisi sit per se malus, et debet in ipsum referri*; Mandonnet omits.)* ut ex dictis patet. Cum ergo actus infidelium in ultimum finem non referatur, in quem fides dirigit, ut dictum est, videtur quod omnis actus infidelium sit malus.  
 
 Praeterea, infidelitas fidei opponitur. Sed fideles per fidem diriguntur in finem aliquem. Ergo infideles per infidelitatem in oppositum finem diriguntur. Sed omnes actus fidelium sunt boni per hoc quod ordinati sunt in finem in quem dirigit fides. Ergo eadem ratione omnis actus infidelium est malus.  
 
 Sed contra, non est consilium nisi de bono. Sed infidelibus consulitur ut aliqua de genere bonorum faciant. Ergo illorum actus non omnes sunt mali.  
 
-Praeterea, nihil laudabile est vel laudatur,Parma and PLE: *laudatur*; Mandonnet: *laudabatur*. nisi bonum. Sed sancti, ut Hieronymus et Augustinus, saepe laudant aliquos gentiles de aliquibus operibus. Ergo aliqua opera ipsorum fuerunt bona.  
+Praeterea, nihil laudabile est vel laudatur, *(Parma and PLE: *laudatur*; Mandonnet: *laudabatur*.)* nisi bonum. Sed sancti, ut Hieronymus et Augustinus, saepe laudant aliquos gentiles de aliquibus operibus. Ergo aliqua opera ipsorum fuerunt bona.  
 
-Respondeo dicendum, quod sicut in rebus naturalibus una perfectio alteri superadditur, sic ut quaedam res habeant unam illarum et quaedam duas, et sic deinceps, ita etiam in moralibus contingit in actu considerare aliquam perfectionem alii superadditam, ex quarum unaquaque dicitur actus bonus; et si aliqua illarum perfectionum desit, deerit bonitas quae est secundum perfectionem illam. Verbi gratia, omnis actus, inquantum est actus, habet quamdam essentialem bonitatem, secundum quod omne ens bonum est; sed in aliquibus superadditur quaedam bonitas ex proportione actus ad debitum objectum, et secundum hoc dicitur actus bonus ex genere; et ulterius ex debita commensuratione circumstantiarum dicetur bonus ex circumstantia, et sic deinceps, quousque perveniatur ad ultimam bonitatem, cujus humanus actus est susceptivus, quae est ex ordine in finem ultimum per habitum gratiae velParma: *et*.  caritatis; et ideo actus illorum qui gratiam et caritatem non habent, hoc modo bonus esse non potest, et haec est bonitas secundum quam actus meritorius dicitur. Sed, subtracto posteriori, nihilominus remanet prius, ut in lib. *De causis*, dicitur; unde quamvis ab infidelium actibus subtrahatur ista bonitas, secundum quam actus meritorius dicitur, remanet tamen bonitas alia vel virtutis politicaeParma and PLE: *virtutis politicae*; Mandonnet: *virtus politice*. vel ex circumstantia, vel ex genere; et ideo non oportet quod omnis eorum actus sit malus, sed solum quod sit deficientis bonitatis; sicut quamvis equus deficiat a rationalitate quam homo habet, non tamen ideo malus est, sed habet bonitatem deficientem a bonitate hominis.  
+Respondeo dicendum, quod sicut in rebus naturalibus una perfectio alteri superadditur, sic ut quaedam res habeant unam illarum et quaedam duas, et sic deinceps, ita etiam in moralibus contingit in actu considerare aliquam perfectionem alii superadditam, ex quarum unaquaque dicitur actus bonus; et si aliqua illarum perfectionum desit, deerit bonitas quae est secundum perfectionem illam. Verbi gratia, omnis actus, inquantum est actus, habet quamdam essentialem bonitatem, secundum quod omne ens bonum est; sed in aliquibus superadditur quaedam bonitas ex proportione actus ad debitum objectum, et secundum hoc dicitur actus bonus ex genere; et ulterius ex debita commensuratione circumstantiarum dicetur bonus ex circumstantia, et sic deinceps, quousque perveniatur ad ultimam bonitatem, cujus humanus actus est susceptivus, quae est ex ordine in finem ultimum per habitum gratiae vel *(Parma: *et*.)* caritatis; et ideo actus illorum qui gratiam et caritatem non habent, hoc modo bonus esse non potest, et haec est bonitas secundum quam actus meritorius dicitur. Sed, subtracto posteriori, nihilominus remanet prius, ut in lib. *De causis*, dicitur; unde quamvis ab infidelium actibus subtrahatur ista bonitas, secundum quam actus meritorius dicitur, remanet tamen bonitas alia vel virtutis politicae *(Parma and PLE: *virtutis politicae*; Mandonnet: *virtus politice*.)* vel ex circumstantia, vel ex genere; et ideo non oportet quod omnis eorum actus sit malus, sed solum quod sit deficientis bonitatis; sicut quamvis equus deficiat a rationalitate quam homo habet, non tamen ideo malus est, sed habet bonitatem deficientem a bonitate hominis.  
 
 Ad primum ergo dicendum, quod cum dicitur, omnis vita infidelium peccatum est, non est intelligendum hoc modo quod omnis actus eorum peccatum sit, sed quia semper cum peccato vivunt: quia infidelitas est tale peccatum, quo retento, nullum aliorum dimittitur.  
 
-Vel dicendum quod intelligitur de illis actibus ad quos ex sua infidelitate impelluntur, ut est adorare idola, et abstinere a cibis prohibitis in lege, quibusParma: *quasi non*.  non sit eis licitum vesci, et hoc videtur intendere Apostolus.  
+Vel dicendum quod intelligitur de illis actibus ad quos ex sua infidelitate impelluntur, ut est adorare idola, et abstinere a cibis prohibitis in lege, quibus *(Parma: *quasi non*.)* non sit eis licitum vesci, et hoc videtur intendere Apostolus.  
 
 Ad secundum dicendum, quod fides dirigit intentionem in finem ultimum, sed ratio naturalis vel prudentia potest dirigere in aliquem finem proximum; et quia ille finis proximus est ordinabilis in finem ultimum, etiamsi actu non ordinetur, ideo in infidelibus, quorum actus per vim rationis in talem finem diriguntur, possunt aliqui actus esse boni, sed deficientes a perfecta bonitate, secundum quam actus est meritorius.  
 
@@ -168,7 +168,7 @@ Ad primum ergo dicendum, quod malum non est volitum per se; nullus enim ad malum
 
 Ad secundum dicendum, quod sicut habitus virtutis politicae non acquiritur subito, quia una dies non facit ver, ut in 1 *Ethic*., cap. 7, dicitur, ita etiam nec subito habitus ille destruitur; ideo dicit Philosophus, 2 *Ethic*., cap. 5, quod ex quo aliquis habitum vitiosum acquisivit, non est in potestate ejus ut statim habitum deponat; sed tamen est in ejus potestate ut statim non secundum illum habitum operetur: quia habitus voluntarii non inclinant necessario ad actus, et sic etiam per exercitium operum poterit ex toto habitus ille malus consumi; et ita constat quod peccatum illius qui vitiosum habitum habet, voluntarii rationem non perdidit.  
 
-Ad tertium dicendum, quod quando per ignorantiam peccatur, illud quod est peccatum, non est omnino ignoratum, sed est ignoratum secundum quid, quia nescitur de illo actu quod malus sit, et secundum hoc quod est malum non erat ratio volendi: et ideo talis ignorantia voluntarium non tollit. Et praeterea ipsa ignorantia quodammodo voluntaria est: quia ignorat ea quae scire tenetur et potest. Si autem scire non posset, tunc voluntarie quidem faceret actum, sed non voluntarie peccaret: et talis ignorantia invincibilis, quam vitare non posset, peccatum excusaret.Parma: *invincibilis est, quam si . . . ut jam peccatum non est*, “if one could not avoid it, it would excuse the sin so that it would no longer be a sin.”  
+Ad tertium dicendum, quod quando per ignorantiam peccatur, illud quod est peccatum, non est omnino ignoratum, sed est ignoratum secundum quid, quia nescitur de illo actu quod malus sit, et secundum hoc quod est malum non erat ratio volendi: et ideo talis ignorantia voluntarium non tollit. Et praeterea ipsa ignorantia quodammodo voluntaria est: quia ignorat ea quae scire tenetur et potest. Si autem scire non posset, tunc voluntarie quidem faceret actum, sed non voluntarie peccaret: et talis ignorantia invincibilis, quam vitare non posset, peccatum excusaret. *(Parma: *invincibilis est, quam si . . . ut jam peccatum non est*, “if one could not avoid it, it would excuse the sin so that it would no longer be a sin.”)*  
 
 Ad quartum dicendum, quod secundum eos qui dicunt quod in peccato omissionis non exigitur actus voluntatis, peccatum illud dicitur voluntarium non propter actum voluntatis in omissionem transeuntem, sed inquantum omissio in potestate omittentis est, quia potest omittere et non omittere.  
 
@@ -218,14 +218,14 @@ Expositio textus
 
 *Falsa virtus est etiam in optimis moribus*, quia scilicet non ducit ad aeternam felicitatem, ad quam virtus perfecta et vera per actus meritorios ducere potest.  
 
-*Sine caritate nullum mandatorum custoditur*. Verum est quantum ad intentionem praecipientis, sed non quantum ad substantiam praecepti; et hoc habitum est dist. 28.PLE: *XXVIII*; Mandonnet: *XXVII*.  
+*Sine caritate nullum mandatorum custoditur*. Verum est quantum ad intentionem praecipientis, sed non quantum ad substantiam praecepti; et hoc habitum est dist. 28. *(PLE: *XXVIII*; Mandonnet: *XXVII*.)*  
 
 *Bonum enim multipliciter accipitur*. Bonum, secundum Philosophum, dividitur in utile, delectabile et honestum. Ergo cum hic istae differentiae non ponantur, videtur insufficienter distinguere.  
 
 Sed dicendum quod Philosophus assignat partes boni quae sunt ipsius secundum se; hic autem assignantur partes boni in ordine ad aliud. Potest autem aliquid accipi esse bonum in ordine ad tria. Primo modo in ordine ad finem: et sic respectu cujusque finis dicitur utile; respectu autem finis ultimi, qui est vita aeterna, dicitur bonum remunerabile, quod est bonum honestum meritorium.  
 
-Secundo modo in ordine ad aliquod bonum simile adPLE: *ad*; Parma: *illi*; Mandonnet omits. quod ordinatur: vel sicut signum, et sic signum boni dicitur bonum, ut patet in sacramentis legalibus; vel sicut praetendensAl.: *praecedens*.  ejus similitudinem, et sic bonum apparens dicitur bonum: et hoc praecipue est bonum delectabile. Tertio modo in ordine ad praeceptum, et sic dicitur bonum simpliciter quod lege praecipitur, et hoc est etiam remunerabile et honestum: et secundario dicitur licitum bonum quod nullo praecepto prohibetur. Unde modi Aristotelis quodammodo includuntur in istis.  
+Secundo modo in ordine ad aliquod bonum simile ad *(PLE: *ad*; Parma: *illi*; Mandonnet omits.)* quod ordinatur: vel sicut signum, et sic signum boni dicitur bonum, ut patet in sacramentis legalibus; vel sicut praetendens *(Al.: *praecedens*.)* ejus similitudinem, et sic bonum apparens dicitur bonum: et hoc praecipue est bonum delectabile. Tertio modo in ordine ad praeceptum, et sic dicitur bonum simpliciter quod lege praecipitur, et hoc est etiam remunerabile et honestum: et secundario dicitur licitum bonum quod nullo praecepto prohibetur. Unde modi Aristotelis quodammodo includuntur in istis.  
 
 *Peccatum quippe illud cogitandum est quod tantummodo peccatum est*. Ista solutio procedit, si accipiatur voluntarium simpliciter et perfecte, quod non in omni peccato invenitur; sed si accipiatur voluntarium quocumque modo, sic invenitur in quolibet peccato, ut ipse in processu solutionis ostendit.  
 
-*Quid enim, ut ait Augustinus, tam in voluntate*PLE: *quid tam in voluntate*; Al.: *quod tamen in voluntate*. *quam ipsa voluntas?* Voluntas dicitur esse in voluntate, dum actus voluntatis proximus in potestate ipsius potentiae existit: utrumque enim dicitur voluntas, scilicet potentia et actus.
+*Quid enim, ut ait Augustinus, tam in voluntate* *(PLE: *quid tam in voluntate*; Al.: *quod tamen in voluntate*.)* *quam ipsa voluntas?* Voluntas dicitur esse in voluntate, dum actus voluntatis proximus in potestate ipsius potentiae existit: utrumque enim dicitur voluntas, scilicet potentia et actus.

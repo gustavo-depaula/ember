@@ -10,25 +10,25 @@ It is divided into two parts.
 
 In the first he considers what belong to the one nature from its union with the other.  
 
-In the second, he considers what belongs to the person by reason of the nature assumed, at *it is also usual for someone to ask whether Christ, according to his being a man, is a person, or even is anything*.*Sentences* III, 10.1(29).1.  
+In the second, he considers what belongs to the person by reason of the nature assumed, at *it is also usual for someone to ask whether Christ, according to his being a man, is a person, or even is anything*. *(*Sentences* III, 10.1(29).1.)*  
 
 The first is divided into two.  
 
 In the first, he considers what belongs to the divine nature from its union to the human.  
 
-In the second, he considers what belongs to the human nature from its union to the divine, at *moreover, it is necessary to investigate whether the flesh and soul of Christ must be adored by one and the same adoration as the Word*.*Sent*. III, 9.1(28).1.  
+In the second, he considers what belongs to the human nature from its union to the divine, at *moreover, it is necessary to investigate whether the flesh and soul of Christ must be adored by one and the same adoration as the Word*. *(*Sent*. III, 9.1(28).1.)*  
 
 The first is divided into two parts.  
 
 In the first he asks whether the divine nature should be called “born in Christ,” due to its union with the human nature.  
 
-In the second, how Christ is called “born,” at *it is also usual to ask whether Christ ought to be said to have been begotten twice*.*Sent*. III, 8.2(27).1  
+In the second, how Christ is called “born,” at *it is also usual to ask whether Christ ought to be said to have been begotten twice*. *(*Sent*. III, 8.2(27).1)*  
 
 Concerning the first, he does two things.  
 
 First, he states the question and resolves it.  
 
-Second, he proposes an objection to it, and then resolves that, at *and yet it appears that it can be proved that it was born of the Virgin*.*Sent*. III, 8.1(26).1.  
+Second, he proposes an objection to it, and then resolves that, at *and yet it appears that it can be proved that it was born of the Virgin*. *(*Sent*. III, 8.1(26).1.)*  
 
 Question 1  
 
@@ -50,7 +50,7 @@ Article 1
 
 ***Whether there is birth only among living things***
 
-To the first we proceed as follows.Parallel: *ST* I.27.2. It appears that “birth” need not be said only of living things.  
+To the first we proceed as follows. *(Parallel: *ST* I.27.2.)* It appears that “birth” need not be said only of living things.  
 
 Obj. 1: For it appears that being born is the same as being begotten or generated. But generation is found in all bodies beneath the sphere of the moon, and not all of them are alive. Therefore it appears that birth is not only something belonging to living things.  
 
@@ -58,7 +58,7 @@ Obj. 2: Furthermore, “to arise” appears to be the same thing as “to be bor
 
 Obj. 3: Furthermore, only substances live. But to be born, or to arise, is found even in accidents, for we say that splendor arises from the sun, and heat from fire. Therefore not only living things are born.  
 
-Obj. 4: Furthermore, only what is not born is unbegotten. But only things that always were are called “unbegotten,” as the Philosopher assertsAristotle, *On the Heavens* 1.12, 282a22–b20. that the heavens are unbegotten because, according to him, they always were. Therefore only those things are not born [are unbegotten], and therefore any things that begin to be are said to be “born.”  
+Obj. 4: Furthermore, only what is not born is unbegotten. But only things that always were are called “unbegotten,” as the Philosopher asserts *(Aristotle, *On the Heavens* 1.12, 282a22–b20.)* that the heavens are unbegotten because, according to him, they always were. Therefore only those things are not born [are unbegotten], and therefore any things that begin to be are said to be “born.”  
 
 On the contrary (5), it appears that not all living things are born. For birth causes filiation. But filiation is not found in plants, yet they live. Therefore neither is birth.  
 
@@ -70,7 +70,7 @@ Furthermore (8), the Holy Spirit proceeds from the Father as a living thing from
 
 I answer that, although generation is common to all corruptible bodies, nevertheless in animate bodies there is a special mode of generation. And on account of this, among the other powers of the soul they also have the generative power in a special way.  
 
-For, first, in living things there is something separated from the one that generates that is sufficient for generating as to both the active and passive principles. Yet in some the generating organism that furnishes both principles is the same, as in plants, which do not have distinct sexes; whereas in others, the ones that do have distinct sexes, the male provides the active principle and the female the material principle, and the animals, in the coupling, are, according to the Philosopher,Aristotle, *On the Generation of Animals* 1.23, 731a9–15. like one generating principle; as it says in Genesis 11:24: *the two will be one flesh*. And therefore, secondly, it follows that generation occurs by way of a coming forth from the one generating, which is not the case in the generation of inanimate things. Now, a third result is that the thing generated coming forth from its generator adheres to it in the beginning of its generation, and is within it, either by contact or by cohesion, as the Philosopher says;Aristotle, *Metaphysics* 5.4, 1014b20–q30; Aquinas, *In Metaph.*, bk. 5, lect. 5, ns. 811-15. this is seen in fruit, which is attached to the plant, and in an embryo, which adheres to the womb as through contact. And with respect to these three conditions, a living thing, as generated, has three names proper to it. For insofar as principles sufficient for its generation are provided by its generator, it is said to be “brought forth” or “begotten”; insofar as it is generated by way of a coming forth, it is said to “arise”; but insofar as it is generated as joined to its generator, it is said to be “born.” For in this way the generator and the thing generated are as though one thing, and therefore, since the name “nature” is taken from “nascence,” those things are said to be “by nature” whose principle of motion is within them. And in this way it is clear that to be “born,” properly speaking, signifies what comes forth from the generator joined to it, and having its principles sufficient for generation from it.  
+For, first, in living things there is something separated from the one that generates that is sufficient for generating as to both the active and passive principles. Yet in some the generating organism that furnishes both principles is the same, as in plants, which do not have distinct sexes; whereas in others, the ones that do have distinct sexes, the male provides the active principle and the female the material principle, and the animals, in the coupling, are, according to the Philosopher, *(Aristotle, *On the Generation of Animals* 1.23, 731a9–15.)* like one generating principle; as it says in Genesis 11:24: *the two will be one flesh*. And therefore, secondly, it follows that generation occurs by way of a coming forth from the one generating, which is not the case in the generation of inanimate things. Now, a third result is that the thing generated coming forth from its generator adheres to it in the beginning of its generation, and is within it, either by contact or by cohesion, as the Philosopher says; *(Aristotle, *Metaphysics* 5.4, 1014b20–q30; Aquinas, *In Metaph.*, bk. 5, lect. 5, ns. 811-15.)* this is seen in fruit, which is attached to the plant, and in an embryo, which adheres to the womb as through contact. And with respect to these three conditions, a living thing, as generated, has three names proper to it. For insofar as principles sufficient for its generation are provided by its generator, it is said to be “brought forth” or “begotten”; insofar as it is generated by way of a coming forth, it is said to “arise”; but insofar as it is generated as joined to its generator, it is said to be “born.” For in this way the generator and the thing generated are as though one thing, and therefore, since the name “nature” is taken from “nascence,” those things are said to be “by nature” whose principle of motion is within them. And in this way it is clear that to be “born,” properly speaking, signifies what comes forth from the generator joined to it, and having its principles sufficient for generation from it.  
 
 Reply Obj. 1: What is begotten, insofar as it is the same as what is born, is not named from “generating,” but from “being brought forth.” Whence, although inanimate things are properly called “generated,” still they are not properly called “begotten” or “born.”  
 
@@ -78,33 +78,33 @@ Reply Obj. 2: The sun and a spring’s waters are said to "arise” according to
 
 Reply Obj. 3: Accidents, insofar as they are within the power of their essential principles, are likewise caused by way of a coming forth. And therefore they too are said to “arise” through a likeness, and can even be said to be “born,” insofar as they adhere to something underlying that is their cause.  
 
-Reply Obj. 4: As Damascene says,John Damascene, *On the Orthodox Faith*, bk. 1, ch. 8 (PG 94:818). *'ingennitum' (ungenerated) spelled with a double 'n' is the same as 'uncreated,'* or “eternal,” and this is the way that the Philosopher is taking it. However, '*ingenitum' (unbegotten) spelled with one 'n' is the same as whatever is not generated*, and this is the way we are speaking here.Moos notes here that actually the inverse of this position is true (and Damascene's text as well); that is, *ingenitum* spelled with one "n" indicates that which is not generated, while *ingennitum* spelled with a double "n" signifies the uncreated.  
+Reply Obj. 4: As Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 1, ch. 8 (PG 94:818).)* *'ingennitum' (ungenerated) spelled with a double 'n' is the same as 'uncreated,'* or “eternal,” and this is the way that the Philosopher is taking it. However, '*ingenitum' (unbegotten) spelled with one 'n' is the same as whatever is not generated*, and this is the way we are speaking here. *(Moos notes here that actually the inverse of this position is true (and Damascene's text as well); that is, *ingenitum* spelled with one "n" indicates that which is not generated, while *ingennitum* spelled with a double "n" signifies the uncreated.)*  
 
 Reply Sed Contra 5: More is required for filiation than for birth or arising, insofar as what comes forth from the generator in a generation is something complete in the species of the generator. Therefore the fruit of trees, birds’ eggs, hair, and things of this sort do not have the notion of filiation, even though they are said to be “born.”  
 
 Reply Sed Contra 6: The one begotten comes forth from the generator in two ways. In one way, insofar as it proceeds from the generator into a distinct existence, yet while it is contained within the boundaries of the generator, and this is properly called “conception.” In another way, insofar as it proceeds into a distinct and manifest existence. And because a thing is named insofar as it is apparent, therefore the latter mode of coming forth constitutes “birth” according to the common way of speaking, although the first also in a certain way constitutes a birth. So “birth” is said to be of two sorts: one within the womb and one out of the womb. And since in plants something proceeds into a distinct and manifest existence simultaneously, thus there is not properly a conception in them, but only a birth. And therefore a word too, insofar as it is distinguished in the intellect, is said to be “conceived,” but insofar as it is pronounced outwardly, it can be said to be “born,” by way of a likeness.  
 
-Reply Sed Contra 7: In animals generated from putrefaction, the power of the sun and other celestial bodies supply the office of the formative power that is in seed in the generation of things that are born of seed. And since these powers of the celestial bodies are diffused throughout all the lower bodies, therefore the Philosopher saysAristotle, *On the Generation of Animals* 3.11, 762a21. that all things are full of the powers of the soul. And therefore, just as the animals generated from seed are related to the female, so too are the ones generated without seed related to earth, and just as the former are related to the father, so are the latter related to the celestial bodies. On account of this, a certain philosopher saidAristotle, *On the Generation of Animals* 1.2, 716a15–17. that the sun is the father of the plants, and earth their mother. Whence it is clear that the sorts of things that are generated without seed, whether they be plants or animals, are properly said to be “born,” to “arise,” and to be “brought forth.”  
+Reply Sed Contra 7: In animals generated from putrefaction, the power of the sun and other celestial bodies supply the office of the formative power that is in seed in the generation of things that are born of seed. And since these powers of the celestial bodies are diffused throughout all the lower bodies, therefore the Philosopher says *(Aristotle, *On the Generation of Animals* 3.11, 762a21.)* that all things are full of the powers of the soul. And therefore, just as the animals generated from seed are related to the female, so too are the ones generated without seed related to earth, and just as the former are related to the father, so are the latter related to the celestial bodies. On account of this, a certain philosopher said *(Aristotle, *On the Generation of Animals* 1.2, 716a15–17.)* that the sun is the father of the plants, and earth their mother. Whence it is clear that the sorts of things that are generated without seed, whether they be plants or animals, are properly said to be “born,” to “arise,” and to be “brought forth.”  
 
-Reply Sed Contra 8: Although the Holy Spirit proceeds as a living thing from a living thing, still this does not belong to him according to the common notion of his procession. For it proceeds as love, but love, when considered in its genus as love, does not have the notion of something living, but rather of a living thing’s activity or passion. Yet it does have the notion that it is a living and subsisting thing, insofar as it is the divine love. And therefore he is not said to be “born,” as was said in Book I.*In I Sent.*, d. 13, q. 1, a. 3, ad 3.  
+Reply Sed Contra 8: Although the Holy Spirit proceeds as a living thing from a living thing, still this does not belong to him according to the common notion of his procession. For it proceeds as love, but love, when considered in its genus as love, does not have the notion of something living, but rather of a living thing’s activity or passion. Yet it does have the notion that it is a living and subsisting thing, insofar as it is the divine love. And therefore he is not said to be “born,” as was said in Book I. *(*In I Sent.*, d. 13, q. 1, a. 3, ad 3.)*  
 
 Article 2  
 
 ***Whether the human nature in Christ was born***
 
-To the second we proceed as follows.Parallel: *ST* III.35.1. It appears that the human nature in Christ was born.  
+To the second we proceed as follows. *(Parallel: *ST* III.35.1.)* It appears that the human nature in Christ was born.  
 
-Obj. 1: For, as was said above, the things that are said of the person or supposit, and not of the nature, belong only to what exists through itself, such as “hypostasis,” “thing of a nature,” and the like. But being born does not belong only to things existing through themselves, since it also belongs to its parts, for above it was noted that hair too is born.Above, d. 4, exposition of the text; also above*,* d. 8, a. 1, ad 5. Therefore being born belongs not only to the person or supposit alone, but even to a nature.  
+Obj. 1: For, as was said above, the things that are said of the person or supposit, and not of the nature, belong only to what exists through itself, such as “hypostasis,” “thing of a nature,” and the like. But being born does not belong only to things existing through themselves, since it also belongs to its parts, for above it was noted that hair too is born. *(Above, d. 4, exposition of the text; also above*,* d. 8, a. 1, ad 5.)* Therefore being born belongs not only to the person or supposit alone, but even to a nature.  
 
-Obj. 2: Furthermore, what is intended through itself by the generating nature is said to be “born” most truly. But although the nature generates this man, yet it intends to generate man, as Avicenna says.Find source However, “man” signifies the common nature. Therefore being born belongs most of all to the human nature.  
+Obj. 2: Furthermore, what is intended through itself by the generating nature is said to be “born” most truly. But although the nature generates this man, yet it intends to generate man, as Avicenna says. *(Find source)* However, “man” signifies the common nature. Therefore being born belongs most of all to the human nature.  
 
-Obj. 3: Furthermore, according to the Philosopher,Aristotle, *Physics* 2.7, 198a26; Aquinas, *In Physic.*, bk. 2, lect. 11, n. 2. what generates and what is generated are the same in species. But to generate belongs to the nature. Therefore to be generated or born also belongs to it.  
+Obj. 3: Furthermore, according to the Philosopher, *(Aristotle, *Physics* 2.7, 198a26; Aquinas, *In Physic.*, bk. 2, lect. 11, n. 2.)* what generates and what is generated are the same in species. But to generate belongs to the nature. Therefore to be generated or born also belongs to it.  
 
 Obj. 4: Furthermore, Christ is said to be born of the Virgin only with respect to what he receives from the Virgin. But he receives only his human nature. Therefore the human nature is said to be “born” of the Virgin.  
 
 Obj. 5: Furthermore, everything that takes existence from some matter is said to be “generated.” But the human nature in Christ takes existence from some matter. Therefore the human nature in Christ is said to be “born.”  
 
-On the contrary, Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 4, ch. 7 (PG 94:1114). that to be born belongs to the hypostasis alone. Therefore it does not belong to the nature.  
+On the contrary, Damascene says *(John Damascene, *On the Orthodox Faith*, bk. 4, ch. 7 (PG 94:1114).)* that to be born belongs to the hypostasis alone. Therefore it does not belong to the nature.  
 
 Furthermore, just as Christ’s divine nature relates to his eternal generation, so too does his human nature to his temporal generation. But the divine nature is not born with an eternal generation, so neither his human nature with a temporal one.  
 
@@ -114,11 +114,11 @@ Reply Obj. 1: There are two sorts of parts. For there is the substance’s part 
 
 There are also a substance’s parts into which the whole is divided according to its notion, such as its matter and form. And parts of this sort, since they do not subsist either in act or in potency, are not said to “come to be” through themselves, unless if by chance the form is subsistent, as is the soul. This is said to “come to be” by creation, besides the making by which the composite comes to be by generation. However, a human nature, which is signified as a part, is not naturally apt to subsist, since it can exist in the nature of things only in an individual, that is, in its supposit. And therefore it cannot be said to be “born.”  
 
-Reply Obj. 2: The way we are speaking here, “man” does not signify only the human nature, as is clear from things said before.Above, d. 5, q. 1, a. 3. And therefore the argument does not follow. For a nature intends to produce the nature only in a supposit, and therefore it does not intend to generate humanity but a man.  
+Reply Obj. 2: The way we are speaking here, “man” does not signify only the human nature, as is clear from things said before. *(Above, d. 5, q. 1, a. 3.)* And therefore the argument does not follow. For a nature intends to produce the nature only in a supposit, and therefore it does not intend to generate humanity but a man.  
 
 Reply Obj. 3: Just as existence belongs to the supposit, so too does acting. And therefore just as it belongs to the nature to generate—not as though it itself does the generating, but because generation occurs by its power—so too it does not belong to the nature itself to be generated, as though it itself were being generated, but rather [it is generated] because it is received through the generation.  
 
-Reply Obj. 4: Just as Christ is called a “man” by reason of his human nature, and yet his human nature is not a man, so too he is said to be “born” by reason of the human nature that he receives from the Virgin, and yet the human nature itself is not generated. For just as Dionysius says,Pseudo-Dionysius, *On the Divine Names*, ch. 2, n. 7 (PG 3:931). it is not necessary that the cause and the thing caused receive the predication of some genus or species in the same way, just as heat is that by which something is called “hot,” and yet it itself is not called “hot,” but “heat.”  
+Reply Obj. 4: Just as Christ is called a “man” by reason of his human nature, and yet his human nature is not a man, so too he is said to be “born” by reason of the human nature that he receives from the Virgin, and yet the human nature itself is not generated. For just as Dionysius says, *(Pseudo-Dionysius, *On the Divine Names*, ch. 2, n. 7 (PG 3:931).)* it is not necessary that the cause and the thing caused receive the predication of some genus or species in the same way, just as heat is that by which something is called “hot,” and yet it itself is not called “hot,” but “heat.”  
 
 Reply Obj. 5: Since existence belongs not to the nature but to the supposit, the human nature does not properly take existence but Christ takes existence in the human nature. And thus, the nature takes existence as a consequence.  
 
@@ -128,21 +128,21 @@ Article 3
 
 To the third we proceed as follows. It appears that the divine nature in Christ was born of the Virgin.  
 
-Obj. 1: For the Son of God is said to be “born of the Virgin” only insofar as he is incarnate. But the divine nature is said to be incarnate, as was said above.Above, d. 5, q. 2, a. 2, ad 4. Therefore it should be said to be “born of the Virgin.”  
+Obj. 1: For the Son of God is said to be “born of the Virgin” only insofar as he is incarnate. But the divine nature is said to be incarnate, as was said above. *(Above, d. 5, q. 2, a. 2, ad 4.)* Therefore it should be said to be “born of the Virgin.”  
 
 Obj. 2: Furthermore, whatever is directly predicated of Peter is said to have been born when he was born. For it follows that if Peter is born, therefore so is the man, therefore the animal, and therefore the substance. But the divine nature is directly predicated of the Son of God. Therefore since the Son of God is born of the Virgin, so too should the divine nature be said to be “born of the Virgin.”  
 
 Obj. 3: Furthermore, in the Son of God there is only the essence and the property. But it would be absurd to say that he be said to be “born of the Virgin” only by reason of the property. For the property is the relation in virtue of which he is referred to the Father, who generates him without a mother. Therefore he was born by reason of the divine nature. And thus the same thing as before follows.  
 
-Obj. 4: Furthermore, Bernard saysBernard, *Homiliae super ‘Missus est’* (*In laudibus Uirginis Matris*), hom. 2, para. 9 (PL 183:65). that in the Incarnation “strength was weakened.” But to be weakened is more remote from the divine nature than is being born. Therefore also it can be said to be born.  
+Obj. 4: Furthermore, Bernard says *(Bernard, *Homiliae super ‘Missus est’* (*In laudibus Uirginis Matris*), hom. 2, para. 9 (PL 183:65).)* that in the Incarnation “strength was weakened.” But to be weakened is more remote from the divine nature than is being born. Therefore also it can be said to be born.  
 
-On the contrary, the divine nature is more in accord with Christ’s eternal generation than with his temporal generation. But it is not born with the eternal generation, as was said in Book I.*In I Sent*., d. 5, q. 2, a. 3, ad 2, 3. Therefore much less is it born with the temporal generation.  
+On the contrary, the divine nature is more in accord with Christ’s eternal generation than with his temporal generation. But it is not born with the eternal generation, as was said in Book I. *(*In I Sent*., d. 5, q. 2, a. 3, ad 2, 3.)* Therefore much less is it born with the temporal generation.  
 
 Furthermore, in human generation a human nature is not properly said to be “born.” Therefore much less the divine nature.  
 
-I answer that, although the human nature in Christ is not properly said to be “born” of the Virgin, insofar as being born is not something that happens to a nature but to a hypostasis, nevertheless it is related to the generation as a consequence, since it is received through the generation. However, Christ does not receive the divine nature through the temporal generation. Whence in no way should it be said to be “born of the Virgin,” either through itself or consequently—if “nature” is being taken properly, insofar as it stands for the essence. Yet because sometimes it is improperly extended to stand for the person, as was said above in Book I,*In I Sent.,* d. 5, q. 1, a. 2. therefore also sometimes one finds [it said] that “the divine nature is born,” as is clear in the text.*Sent*. III, 8.1(26).2. Whence it should be interpreted as the Master interprets it.  
+I answer that, although the human nature in Christ is not properly said to be “born” of the Virgin, insofar as being born is not something that happens to a nature but to a hypostasis, nevertheless it is related to the generation as a consequence, since it is received through the generation. However, Christ does not receive the divine nature through the temporal generation. Whence in no way should it be said to be “born of the Virgin,” either through itself or consequently—if “nature” is being taken properly, insofar as it stands for the essence. Yet because sometimes it is improperly extended to stand for the person, as was said above in Book I, *(*In I Sent.,* d. 5, q. 1, a. 2.)* therefore also sometimes one finds [it said] that “the divine nature is born,” as is clear in the text. *(*Sent*. III, 8.1(26).2.)* Whence it should be interpreted as the Master interprets it.  
 
-Reply Obj. 1: The Son of God united the human nature to himself and in himself, since the union was completed at the person. However, this is not so for the divine nature, as is clear from things said above.*In III Sent*., d. 1, q. 2, a. 1. Whence the case is not similar.  
+Reply Obj. 1: The Son of God united the human nature to himself and in himself, since the union was completed at the person. However, this is not so for the divine nature, as is clear from things said above. *(*In III Sent*., d. 1, q. 2, a. 1.)* Whence the case is not similar.  
 
 Reply Obj. 2: The divine nature is directly predicated of the person of the Son of God not insofar as it is a nature, but rather by reason of the divine simplicity, which does not allow any real diversity in him. But they differ in their mode of signifying, which prevents what is said of the person from being said of the nature.  
 
@@ -156,7 +156,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-To the fourth we proceed as follows.Parallels: *ST* III.35.2; *De unione Verbi,* a. 2, ad 16; *Compend. theol.*, ch. 212. It appears that one should not assert two births of Christ.  
+To the fourth we proceed as follows. *(Parallels: *ST* III.35.2; *De unione Verbi,* a. 2, ad 16; *Compend. theol.*, ch. 212.)* It appears that one should not assert two births of Christ.  
 
 Obj. 1: For being born does not belong to a nature but to a person. But in Christ there is only one person. Therefore also one birth.  
 
@@ -178,11 +178,11 @@ On the contrary, this adverb “twice” numbers the act to which it is joined. 
 
 Response to Quaestiuncula 1  
 
-I answer that Christ has proceeded from the Father eternally and from his mother temporally, and each procession has the notion of a birth. For according to the eternal procession the Son is of the substance of the Father, and he goes forth from him unto a distinct person, and yet he is joined to the Father on account of their substance’s undividedness, since *the Word is with God*. Whence it is clear that the three things that earlierSee above, a. 1. were said to belong to the notion of “birth” are preserved here, in their own way, and on account of this he is said to “arise,” to be “brought forth,” and to be “born.” But his temporal procession, by which he proceeds from his mother, has the notion of “birth” as does that of anyone else who is born from his mother. This is why, just as his processions are two, as was said in Book I,*In I Sent.*, d. 14, q. 1, a. 2. so too his births are two.  
+I answer that Christ has proceeded from the Father eternally and from his mother temporally, and each procession has the notion of a birth. For according to the eternal procession the Son is of the substance of the Father, and he goes forth from him unto a distinct person, and yet he is joined to the Father on account of their substance’s undividedness, since *the Word is with God*. Whence it is clear that the three things that earlier *(See above, a. 1.)* were said to belong to the notion of “birth” are preserved here, in their own way, and on account of this he is said to “arise,” to be “brought forth,” and to be “born.” But his temporal procession, by which he proceeds from his mother, has the notion of “birth” as does that of anyone else who is born from his mother. This is why, just as his processions are two, as was said in Book I, *(*In I Sent.*, d. 14, q. 1, a. 2.)* so too his births are two.  
 
 Reply Obj. 1: Although being born belongs to the person, nonetheless this is so by reason of his nature. Whence according to the two natures that he receives through generation he has two births.  
 
-Reply Obj. 2: Although in Christ there is one existence, still according to that existence he has reference to two natures, as was said above in Distinction 6.Above, d. 6, q. 2, a. 2. And thus his birth is double according to the double reference the person acquires to the two natures received through generation.  
+Reply Obj. 2: Although in Christ there is one existence, still according to that existence he has reference to two natures, as was said above in Distinction 6. *(Above, d. 6, q. 2, a. 2.)* And thus his birth is double according to the double reference the person acquires to the two natures received through generation.  
 
 Reply Obj. 3: Although it is not one notion by a univocal use of “birth” for the eternal and temporal, still it is one by analogy.  
 
@@ -202,19 +202,19 @@ Article 5
 
 ***Whether in Christ there are two filiations***
 
-To the fifth we proceed as follows.Parallels: *ST* III.35.5; *Quodl.* I, q. 2, a. 1; IX, q. 2, a. 3; *Compendium theol.,* ch. 212. It appears that in Christ there are two filiations.  
+To the fifth we proceed as follows. *(Parallels: *ST* III.35.5; *Quodl.* I, q. 2, a. 1; IX, q. 2, a. 3; *Compendium theol.,* ch. 212.)* It appears that in Christ there are two filiations.  
 
 Obj. 1: For if a cause is multiplied, its effect is multiplied. But birth is the cause of filiation. Therefore since there are two births in Christ, there will be two filiations in him.  
 
-Obj. 2: Furthermore, relations belong to things whose existence is to be oriented toward another.Aristotle, *Categories* 7, 6a36. But the existence of the eternal filiation is not an orientation toward Christ’s mother, so he is not referred to the mother by it. But by some filiation he is referred to his mother. Therefore in Christ there are two filiations.  
+Obj. 2: Furthermore, relations belong to things whose existence is to be oriented toward another. *(Aristotle, *Categories* 7, 6a36.)* But the existence of the eternal filiation is not an orientation toward Christ’s mother, so he is not referred to the mother by it. But by some filiation he is referred to his mother. Therefore in Christ there are two filiations.  
 
 Obj. 3: Furthermore, when relations are asserted, they assert each other, and when eliminated, they eliminate each other. But if maternity were eliminated from the Virgin, the eternal filiation would not be eliminated. Therefore one must assert another filiation that is asserted when the maternity is asserted, one that would be eliminated if the latter were eliminated.  
 
 Obj. 4: Furthermore, motions are distinguished by their termini. But just as a motion has its species from its termini, so too does a relation. Therefore since Christ is the Son of the Father and of the mother, it must be that he is referred to each by a distinct filiation.  
 
-Obj. 5: Furthermore, the Philosopher provesAristotle, *Metaphysics* 5.15, 1021a29–33; Aquinas, *In Metaph.,* bk. 5, lect. 17, nn. 1026–29. that knowledge is not related to the knower. For since it is related to the knowable, and this is its existence as toward-something, then if it were also said to be toward the knower, it would have to have a double existence. Therefore if by filiation Christ is related to the Father and to the mother, there would have to be two existing filiations.  
+Obj. 5: Furthermore, the Philosopher proves *(Aristotle, *Metaphysics* 5.15, 1021a29–33; Aquinas, *In Metaph.,* bk. 5, lect. 17, nn. 1026–29.)* that knowledge is not related to the knower. For since it is related to the knowable, and this is its existence as toward-something, then if it were also said to be toward the knower, it would have to have a double existence. Therefore if by filiation Christ is related to the Father and to the mother, there would have to be two existing filiations.  
 
-Obj. 6: Furthermore, as the Master said above,*Sent*. III. 1. 2. the Father would have been able to assume flesh. But if he were to assume flesh from the Virgin, he would be called the “son of the Virgin.” However, he would not be referred to the Virgin by an eternal filiation, since he does not have one. Therefore it would be by a temporal filiation. Therefore for the same reason one must assert a temporal filiation in Christ.  
+Obj. 6: Furthermore, as the Master said above, *(*Sent*. III. 1. 2.)* the Father would have been able to assume flesh. But if he were to assume flesh from the Virgin, he would be called the “son of the Virgin.” However, he would not be referred to the Virgin by an eternal filiation, since he does not have one. Therefore it would be by a temporal filiation. Therefore for the same reason one must assert a temporal filiation in Christ.  
 
 On the contrary, filiation is a personal property. But in Christ there is only one person. Therefore only one filiation.  
 
@@ -224,7 +224,7 @@ Furthermore, in the same subject there cannot be two accidents of the same notio
 
 Furthermore, any continuous thing is greater than any of its parts. But in every continuous thing there is potentially an infinity of parts. Therefore, for something to be related to diverse things by diverse relations, there must be an infinity of relations in that continuous thing. But this is a problem, and so too is that in any continuous thing there are as many equalities as there are things [a part] is equal to.  
 
-I answer that, as has been said above in Book I,*In I Sent.,* d. 26, q. 2, a. 2. a relation is something in the nature of things not because it is spoken of as toward-another, but rather because what causes a relation is in the thing that is spoken of as toward-another. And because a thing has unity and multiplicity from the fact that it has existence, therefore one should make a judgment about whether a thing is one or many in reality according to that on which the relation is based.  
+I answer that, as has been said above in Book I, *(*In I Sent.,* d. 26, q. 2, a. 2.)* a relation is something in the nature of things not because it is spoken of as toward-another, but rather because what causes a relation is in the thing that is spoken of as toward-another. And because a thing has unity and multiplicity from the fact that it has existence, therefore one should make a judgment about whether a thing is one or many in reality according to that on which the relation is based.  
 
 Therefore there are certain relations that are based upon quantity, such as equality, which is based on unity in quantity. And since there is only one unity of a quantity in one thing, so it is that by one equality a thing is equal to all the things that it is said to be equal to.  
 
@@ -236,7 +236,7 @@ Whence, since Christ is not related to the Father’s active generation and the 
 
 Whence I grant that in Christ there is only one real filiation, the one by which he is referred to the Father, and a certain relation of reason by which he is referred to his mother. Nevertheless, the first opinion, which asserts two supposits [in Christ], could assert two filiations; yet it would not assert that he is “two sons,” in the masculine, but “two offsprings,” in the neuter, if it were said in Latin.  
 
-Reply Obj. 1: Christ’s temporal birth, that is, his passive generation, is a certain passion that in reality is founded on the human nature. And he is said to be “born” due to this, just as he is also said to be a “man” due to this. But the subject of the filiation cannot be the nature, since the filiation belongs to what has the completion of the species, as was said above.Above, a. 1, ad 5. And therefore the two births cause two filiations, but only one according to reality, whereas the other is according to reason only.  
+Reply Obj. 1: Christ’s temporal birth, that is, his passive generation, is a certain passion that in reality is founded on the human nature. And he is said to be “born” due to this, just as he is also said to be a “man” due to this. But the subject of the filiation cannot be the nature, since the filiation belongs to what has the completion of the species, as was said above. *(Above, a. 1, ad 5.)* And therefore the two births cause two filiations, but only one according to reality, whereas the other is according to reason only.  
 
 Reply Obj. 2: The Philosopher is not taking “existence” insofar as names the act of a being; for in that way a relation does not have existence from what it is said to be “toward,” but from its subject, as with all other accidents. Rather, he is taking “existence” to mean what a thing is, or the notion that its definition signifies. Now, the notion of a relation is from reference toward another. Whence, it is not necessary that the Son of God, because he is referred to his mother, must have another relation in reality, but only that he have another reference of relation.  
 
@@ -250,4 +250,4 @@ Reply Obj. 6: If the Father were to have assumed flesh from the Virgin, he would
 
 Exposition of the text  
 
-*For God to be born of the Virgin is this: namely to take on human form*.*Sent.* III, 8.1(26).1. This is true if the human nature is being called a “man,”Although the Silano translation says “human form,” the Latin literally says “man” (*hominem*) here. and if “taking on” means taking to oneself and into oneself what does not belong to the divine nature.
+*For God to be born of the Virgin is this: namely to take on human form*. *(*Sent.* III, 8.1(26).1.)* This is true if the human nature is being called a “man,” *(Although the Silano translation says “human form,” the Latin literally says “man” (*hominem*) here.)* and if “taking on” means taking to oneself and into oneself what does not belong to the divine nature.

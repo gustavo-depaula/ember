@@ -1,14 +1,14 @@
 # Chapter 21
 
-^21:1^ The burden of the desert of the sea. As whirlwinds come from Africa,*Africo*. DR: “the south.” it comes from the desert from a terrible land.  
+^21:1^ The burden of the desert of the sea. As whirlwinds come from Africa, *(*Africo*. DR: “the south.”)* it comes from the desert from a terrible land.  
 
-> ^21:2^ A hard*Dura*. DR: “grievous.” vision is told me: he that is unfaithful deals unfaithfully: and he that is a spoiler, spoils. Go up, O Elam, besiege, O Medaba:*Medaba*. Vg.: *Mede*. DR: “Mede.” I have made all the mourning thereof to cease.
+> ^21:2^ A hard *(*Dura*. DR: “grievous.”)* vision is told me: he that is unfaithful deals unfaithfully: and he that is a spoiler, spoils. Go up, O Elam, besiege, O Medaba: *(*Medaba*. Vg.: *Mede*. DR: “Mede.”)* I have made all the mourning thereof to cease.
 
 > ^21:3^ Therefore are my loins filled with pain, anguish has taken hold of me, as the anguish of a woman in labor: I fell down at the hearing of it, I was troubled at the seeing of it.
 
-> ^21:4^ My heart failed, darkness amazed me: Babylon my beloved is set in a wonder to me.*Posita est mihi in miraculum*. DR: “is become a wonder to me.”
+> ^21:4^ My heart failed, darkness amazed me: Babylon my beloved is set in a wonder to me. *(*Posita est mihi in miraculum*. DR: “is become a wonder to me.”)*
 
-> ^21:5^ Prepare the table, contemplate*Contemplare*. DR: “behold.” in the watchtower them that eat and drink: arise, you princes, take up the shield.
+> ^21:5^ Prepare the table, contemplate *(*Contemplare*. DR: “behold.”)* in the watchtower them that eat and drink: arise, you princes, take up the shield.
 
 > ^21:6^ For thus has the Lord said to me: go, and set a watchman: and whatsoever he shall see, let him tell.
 
@@ -22,7 +22,7 @@
 
 > ^21:11^ The burden of Duma calls to me out of Seir: watchman, what of the night? Watchman, what of the night?
 
-> ^21:12^ The watchman said: the morning comes, also the night: if you seek, seek: be converted,*Convertimini*. DR: “return.” come.
+> ^21:12^ The watchman said: the morning comes, also the night: if you seek, seek: be converted, *(*Convertimini*. DR: “return.”)* come.
 
 > ^21:13^ The burden in Arabia. In the forest at evening you shall sleep, in the paths of Dodanim.
 
@@ -64,7 +64,7 @@ First, he designates the gravity of the tribulation, presenting a similitude: **
 
 **510**. Second, he designates the devastator.  
 
-And first, as to the condition of their leader: in infidelity. Cyrus, ***he that is unfaithful***, that is, unfaithful to his lord Baltasar, rebelling, and besieging Babylon, trusting in his effeminacy, ***deals unfaithfully***, that is, he will deal unfaithfully, seeing that the city cannot be taken by force, fraudulently making peace and commanding homage to the king of Babylon. When the king of Babylon invited him to a banquet (concerning which, see Daniel 5), he killed him and took the city, bringing his soldiers in through a hole in the city wall, through which a stream flowed, after they had divided its water into many parts.Cf. Hugo referencing “Orosium,” which he read in S. Langton (ms. f. 195rb). In cruelty: ***he that is a spoiler***; hence in punishment for his cruelty he was suffocated in blood, and it was said to him: you thirsted for blood, so drink blood;Cf. Hugo on Isaiah 52:14, from P. Comestor *Hist. scholastica* Daniel chapter 19 (PL 198, 1474C). *behold, he that is unbelieving, his soul shall not be right in himself* (Hab 2:4).  
+And first, as to the condition of their leader: in infidelity. Cyrus, ***he that is unfaithful***, that is, unfaithful to his lord Baltasar, rebelling, and besieging Babylon, trusting in his effeminacy, ***deals unfaithfully***, that is, he will deal unfaithfully, seeing that the city cannot be taken by force, fraudulently making peace and commanding homage to the king of Babylon. When the king of Babylon invited him to a banquet (concerning which, see Daniel 5), he killed him and took the city, bringing his soldiers in through a hole in the city wall, through which a stream flowed, after they had divided its water into many parts. *(Cf. Hugo referencing “Orosium,” which he read in S. Langton (ms. f. 195rb).)* In cruelty: ***he that is a spoiler***; hence in punishment for his cruelty he was suffocated in blood, and it was said to him: you thirsted for blood, so drink blood; *(Cf. Hugo on Isaiah 52:14, from P. Comestor *Hist. scholastica* Daniel chapter 19 (PL 198, 1474C).)* *behold, he that is unbelieving, his soul shall not be right in himself* (Hab 2:4).  
 
 Second, as to his departure from the region: ***go up, O Elam***, a Persian city and province; ***Medaba***, a city in Media, ***besiege*** Babylon: speaking in the voice of the Lord: *go up against her, all nations* (Jer 51:28).  
 
@@ -74,13 +74,13 @@ Third, the power of the enemy: ***I have made all the mourning thereof***, that 
 
 Second, as to the affections: ***my heart***, that is, the affections, ***failed***, in sadness: *my bowels are in pain* (Jer 4:19).  
 
-Third, as to astounded understanding: ***darkness***, that is, the troubles I have foreseen, ***amazed me***, as if I were in darkness: *every one that shall pass by Babylon, shall be astonished, and shall hiss at all her plagues* (Jer 50:13). ***Babylon my beloved***, at that time, although afterwards, Babylon was an enemy, ***is set in a wonder***, that is, in astonishment. *And I wondered, when I had seen her, with great astonishment**Admiratione*. DR: “admiration.” (Rev 17:6).  
+Third, as to astounded understanding: ***darkness***, that is, the troubles I have foreseen, ***amazed me***, as if I were in darkness: *every one that shall pass by Babylon, shall be astonished, and shall hiss at all her plagues* (Jer 50:13). ***Babylon my beloved***, at that time, although afterwards, Babylon was an enemy, ***is set in a wonder***, that is, in astonishment. *And I wondered, when I had seen her, with great astonishment* *(*Admiratione*. DR: “admiration.”)* (Rev 17:6).  
 
 **512**. Fourth, he designates the manner and condition of the destruction, saying: O Babylon, ***prepare the table***, inviting Cyrus and Darius to the banquet, ***contemplate***, that is, see, ***in the watchtower***, that is, in the writing of the hand that writes, *Mane, Thecel, Phares* (Dan 5:25) in the clear light of the Lord; ***you princes***, namely, O Cyrus, O Darius, ***that eat and drink***, with him, ***arise***, strengthened by the vision, ***take up the shield*** and kill him: *prepare the shield and buckler* (Jer 46:3).  
 
 **513**. Or otherwise, the words of the Lord: O prophet, ***prepare the table***, that is, announce that it is prepared, ***in the watchtower***, that is, in the spirit of prophecy, as above. Or the words of Cyrus: ***prepare the table***, make haste, you Persians, give your horses their ration, that you may be prepared; you, watchman, ***contemplate***, what may happen in the treatise; you, my ***princes*, *eat***. And this stands even if it is not maintained that Cyrus and Darius were at the banquet, as some say, maintaining that the festival happened in the city, and was given over to pleasure; either they reclined at table because of the festival, or because of a truce, or once they had the victory, or because of the help that they had received, at night they attacked the city.  
 
-**514**. Note on the words, ***contemplate in the watchtower***,*Specula*. that man ought to contemplate in the mirror*Speculo*. of the mind  
+**514**. Note on the words, ***contemplate in the watchtower***, *(*Specula*.)* that man ought to contemplate in the mirror *(*Speculo*.)* of the mind  
 
 first, the sins which he has committed, that he may mourn: *set you up a watchtower, make to you bitterness: direct your heart into the right way* (Jer 31:21);  
 
@@ -148,7 +148,7 @@ third, considering the fruit of the striking: *for that which is at present mome
 
 **524**. ***The burden in Arabia***. Here he threatens against the Arabs.  
 
-And first, he indicates the cause of destruction: that when they offered bread to the fleeing sons of Israel, they took away their water. Hence he places the flight of the Jews: O you, Jews, ***in the forest***, of Arabia, ***of Dodanim***, the name of the place: *they wandered in a wilderness, in a place without water: they found not the way of a city* (Ps 106[107]:4). He exhorts them to mercy: ***meeting***, you Arabs; ***the land of the south***, that is, of the noon,*Meridies*, which can mean “south” or “noon.” below: ***deal your bread to the hungry*** (Isa 58:7). And he places the cause of mercy: ***for they are fled from before the swords***, that they might be moved to mercy: *at the voice of the horsemen, and the archers, all the city is fled away* (Jer 4:29).  
+And first, he indicates the cause of destruction: that when they offered bread to the fleeing sons of Israel, they took away their water. Hence he places the flight of the Jews: O you, Jews, ***in the forest***, of Arabia, ***of Dodanim***, the name of the place: *they wandered in a wilderness, in a place without water: they found not the way of a city* (Ps 106[107]:4). He exhorts them to mercy: ***meeting***, you Arabs; ***the land of the south***, that is, of the noon, *(*Meridies*, which can mean “south” or “noon.”)* below: ***deal your bread to the hungry*** (Isa 58:7). And he places the cause of mercy: ***for they are fled from before the swords***, that they might be moved to mercy: *at the voice of the horsemen, and the archers, all the city is fled away* (Jer 4:29).  
 
 **525**. Second, because they refuse to do this, he threatens punishment: ***for thus says the Lord***.  
 

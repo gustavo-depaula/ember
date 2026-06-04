@@ -8,7 +8,7 @@
 
 > ^59:4^ There is none that calls upon justice, neither is there any one that judges truly: but they trust in a mere nothing, and speak vanities: they have conceived labor, and brought forth iniquity.
 
-> ^59:5^ They have broken the eggs of asps, and have woven the webs of spiders: he that shall eat of their eggs, shall die: and that which is nurtured,*Confotum est*. DR: “brought out.” shall be hatched into a basilisk.
+> ^59:5^ They have broken the eggs of asps, and have woven the webs of spiders: he that shall eat of their eggs, shall die: and that which is nurtured, *(*Confotum est*. DR: “brought out.”)* shall be hatched into a basilisk.
 
 > ^59:6^ Their webs shall not be for clothing, neither shall they cover themselves with their works: their works are unprofitable works, and the work of iniquity is in their hands.
 
@@ -22,7 +22,7 @@
 
 > ^59:11^ We shall roar all of us like bears, and shall lament as mournful doves. We have looked for judgment, and there is none: for salvation, and it is far from us.
 
-> ^59:12^ For our iniquities are multiplied before you, and our sins have answered us:*Responderunt nobis*. DR: “testified against us.” for our wicked doings are with us, and have known our iniquities:
+> ^59:12^ For our iniquities are multiplied before you, and our sins have answered us: *(*Responderunt nobis*. DR: “testified against us.”)* for our wicked doings are with us, and have known our iniquities:
 
 > ^59:13^ In sinning and lying against the Lord: and we have turned away so that we went not after our God, but spoke calumny and transgression: we have conceived, and uttered from the heart, words of falsehood.
 
@@ -80,7 +80,7 @@ And first, he sets out the metaphor itself as to their cunning, both as to their
 
 **1041**. Second, he explains the metaphor.  
 
-And first, as to action: ***their works are unprofitable***, as to one part, ***the work of iniquity***, as to the other, above: ***their works shall not profit them*** (Isa 57:12).*Opera eorum non proderunt eis*. Vg.: *opera tua non proderunt tibi*. DR: “thy works shall not profit you.”  
+And first, as to action: ***their works are unprofitable***, as to one part, ***the work of iniquity***, as to the other, above: ***their works shall not profit them*** (Isa 57:12). *(*Opera eorum non proderunt eis*. Vg.: *opera tua non proderunt tibi*. DR: “thy works shall not profit you.”)*  
 
 Second, as to thoughts: ***their feet***, that is, their affections, as to one part: *their feet run to evil* (Prov 1:16); ***their thoughts***, as to the other: *woe to you that devise that which is unprofitable* (Mic 2:1).  
 

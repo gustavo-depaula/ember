@@ -2,15 +2,15 @@
 
 ^60:1^ Arise, be enlightened, O Jerusalem: for your light is come, and the glory of the Lord is risen upon you.  
 
-> ^60:2^ For behold darkness shall cover the earth, and a mist the peoples:*Populos*. DR: “people.” but the Lord shall arise upon you, and his glory shall be seen upon you.
+> ^60:2^ For behold darkness shall cover the earth, and a mist the peoples: *(*Populos*. DR: “people.”)* but the Lord shall arise upon you, and his glory shall be seen upon you.
 
 > ^60:3^ And the Gentiles shall walk in your light, and kings in the brightness of your rising.
 
-> ^60:4^ Lift up your eyes round about, and see: all these are gathered together, they are come to you: your sons shall come from afar, and your daughters shall suck*Sugent*. VgClem.: *surgent*. DR: “rise up.” from your side.*De latere*. DR: “at your side.”
+> ^60:4^ Lift up your eyes round about, and see: all these are gathered together, they are come to you: your sons shall come from afar, and your daughters shall suck *(*Sugent*. VgClem.: *surgent*. DR: “rise up.”)* from your side. *(*De latere*. DR: “at your side.”)*
 
 > ^60:5^ Then shall you see, and abound, and your heart shall wonder and be enlarged, when the multitude of the sea shall be converted to you, the strength of the Gentiles shall come to you.
 
-> ^60:6^ The flood*Inundatio*. DR: “multitude.” of camels shall cover you, the dromedaries of Madian and Epha: all they from Saba shall come, bringing gold and frankincense: and showing forth praise to the Lord.
+> ^60:6^ The flood *(*Inundatio*. DR: “multitude.”)* of camels shall cover you, the dromedaries of Madian and Epha: all they from Saba shall come, bringing gold and frankincense: and showing forth praise to the Lord.
 
 > ^60:7^ All the flocks of Cedar shall be gathered together unto you, the rams of Nabaioth shall minister to you: they shall be offered upon my acceptable altar, and I will glorify the house of my majesty.
 
@@ -28,7 +28,7 @@
 
 > ^60:14^ And the children of them that afflict you, shall come bowing down to you, and all that slandered you shall worship the steps of your feet, and shall call you the city of the Lord, the Zion of the Holy One of Israel.
 
-> ^60:15^ Because you were forsaken, and hated, and there was none that passed through you, I will make you to be into the pride of ages,*In superbiam saeculorum*. DR: “an everlasting glory.” a joy unto generation and generation:
+> ^60:15^ Because you were forsaken, and hated, and there was none that passed through you, I will make you to be into the pride of ages, *(*In superbiam saeculorum*. DR: “an everlasting glory.”)* a joy unto generation and generation:
 
 > ^60:16^ And you shall suck the milk of the Gentiles, and you shall be nursed with the breasts of kings: and you shall know that I am the Lord your Savior, and your Redeemer, the Mighty One of Jacob.
 
@@ -86,7 +86,7 @@ And first, as to merchandise, he sets out beasts of burden: ***the flood***, tha
 
 first, of sacred doctrine: *the commandment is a lamp, and the law a light* (Prov 6:23);  
 
-second, of spiritual understanding: *God, who commanded the light to shine in*In*. Vg.: *de*. DR: “out of.” the darkness, has shined in our hearts* (2 Cor 4:6);  
+second, of spiritual understanding: *God, who commanded the light to shine in *(*In*. Vg.: *de*. DR: “out of.”)* the darkness, has shined in our hearts* (2 Cor 4:6);  
 
 third, of grace: *but if we walk in the light, as he also is in the light, we have fellowship one with another* (1 John 1:7);  
 
@@ -108,7 +108,7 @@ Concerning the first, he sets out two things.
 
 **1060**. First, he sets out the restoration of the city as to the uniting of its inhabitants, setting out the manner of arriving under admiration: ***as clouds***, because they come swiftly, without impediment, ***and as doves to their windows***, that is, to their holes, for the same reason. Or this refers to the nations that were swiftly converted to the faith: *who will give me wings like a dove, and I will fly and be at rest?* (Ps 54:7[55:6]).  
 
-And he sets out the help in coming, which they had from the gentiles: ***the islands***, the various nations by the sea, and even far off, ***wait for me***, as though subject to the choice of my will; ***the ships of the sea from*A*. Vg.: *in*. the beginning*** of the place in which they were held captive, for perhaps some returned through the sea, or the Lord was able to lead them back thus. Or, mystically, ***the islands***, the various nations; ***the ships***, the churches; ***in the beginning***, of faith, above: ***the islands shall wait for his law*** (Isa 42:4).  
+And he sets out the help in coming, which they had from the gentiles: ***the islands***, the various nations by the sea, and even far off, ***wait for me***, as though subject to the choice of my will; ***the ships of the sea from *(*A*. Vg.: *in*.)* the beginning*** of the place in which they were held captive, for perhaps some returned through the sea, or the Lord was able to lead them back thus. Or, mystically, ***the islands***, the various nations; ***the ships***, the churches; ***in the beginning***, of faith, above: ***the islands shall wait for his law*** (Isa 42:4).  
 
 And he sets out the treasure of those who come, which they carried with themselves: ***their silver***; ***to the name***, that is, to the glory and service of the name: *he brought them out with silver and gold* (Ps 104[105]:37). Mystically, ***silver***, the eloquence; ***gold***, the wisdom of converts to the faith.  
 
@@ -162,7 +162,7 @@ And first, he sets out the ending of their sadness: ***and the days of your mour
 
 Second, he sets out the observance of justice: ***and your people shall be all just***; ***to glorify*** me, above: ***every one that calls upon my name, I have created him for my glory*** (Isa 43:7). ***They shall inherit the land for ever***, as long as they remain in justice; but mystically, this clearly refers to the blessed saints.  
 
-Third, the multiplication of their descendants: ***the least shall become a thousand***, that is, from one man, so many shall be born successively, just as one nation came from Abraham. Mystically, one person from the Church will be put in charge as superior over ***a nation***, Psalm:Perhaps this refers to Wisdom 3:7–8: “the just . . . shall judge nations.” *the saints shall judge nations*. ***In its time***, that is, the time of Christ, or at the time foreordained; ***suddenly***, as though all this that has been said shall happen was not foreseen.  
+Third, the multiplication of their descendants: ***the least shall become a thousand***, that is, from one man, so many shall be born successively, just as one nation came from Abraham. Mystically, one person from the Church will be put in charge as superior over ***a nation***, Psalm: *(Perhaps this refers to Wisdom 3:7–8: “the just . . . shall judge nations.”)* *the saints shall judge nations*. ***In its time***, that is, the time of Christ, or at the time foreordained; ***suddenly***, as though all this that has been said shall happen was not foreseen.  
 
 **1071**. Note on the words, ***who are these, that fly as clouds, and as doves?*** (Isa 60:8), that the apostles are called clouds  
 
@@ -182,4 +182,4 @@ second, because their simplicity of life: *be therefore wise as serpents and sim
 
 third, because of the height or swiftness of their contemplation: *who will give me wings like a dove, and I will fly and be at rest?* (Ps 54:7[55:6]);  
 
-fourth, because of their purity of conscience: *your**Tui*. Vg.: *ejus*. DR: “his.” *eyes as doves* (Song 5:12); *your eyes are doves’ eyes* (Song 4:1).
+fourth, because of their purity of conscience: *your* *(*Tui*. Vg.: *ejus*. DR: “his.”)* *eyes as doves* (Song 5:12); *your eyes are doves’ eyes* (Song 4:1).

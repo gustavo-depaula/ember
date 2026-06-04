@@ -108,7 +108,7 @@ Lecture 4
 
 ***God’s power to create***
 
-^10:11^ Therefore, thus shall you speak to them: may the gods, who did not make the heavens and the earth, perish from the earth, and from those places which are under heaven.This verse is remarkable inasmuch as it does not appear to have been originally written in Hebrew (as Thomas Aquinas notes below), but in Chaldean (Aramaic).  
+^10:11^ Therefore, thus shall you speak to them: may the gods, who did not make the heavens and the earth, perish from the earth, and from those places which are under heaven. *(This verse is remarkable inasmuch as it does not appear to have been originally written in Hebrew (as Thomas Aquinas notes below), but in Chaldean (Aramaic).)*  
 
 > ^10:12^ He who makes the earth by his might, and prepares the world by his wisdom, and by his knowledge stretches out the heavens.
 
@@ -124,7 +124,7 @@ first, with regard to creation of the essential parts of the world: ***he who ma
 
 Second, with regard to the passions of the air, so that not only would it be believed that prior things come to be from first things, as certain philosophers say, but further, that he is the author of all things and at work in all things.  
 
-First, with regard to those things which come to be from moist matter, such as clouds and rain: ***at his word***, at his command, ***from the ends***, because of the abundance of water around the earth.The ocean which ancient Greeks and Romans believed flowed around the *orbis terrarum*, “circle of the lands,” like a river.  
+First, with regard to those things which come to be from moist matter, such as clouds and rain: ***at his word***, at his command, ***from the ends***, because of the abundance of water around the earth. *(The ocean which ancient Greeks and Romans believed flowed around the *orbis terrarum*, “circle of the lands,” like a river.)*  
 
 Second, with regard to those things which are made of moist and dry matter: ***lightning***. He changes the order, because rain frequently follows lightning.  
 
@@ -198,7 +198,7 @@ Lecture 8
 
 ***Noise from the north***
 
-^10:22^ Behold, the sound of a noise comes, and a great shaking from the land of the north, that he may turn the cities of Judah into wilderness and the habitation of dragons.Heb. תַּנִּין: *serpent, dragon, sea-monster*.  
+^10:22^ Behold, the sound of a noise comes, and a great shaking from the land of the north, that he may turn the cities of Judah into wilderness and the habitation of dragons. *(Heb. תַּנִּין: *serpent, dragon, sea-monster*.)*  
 
 > **75**. Here, he determines the order of the punishment, pre-signifying the enemy who is to come from the north. ***From the north shall spread every evil upon the inhabitants of the land*** (Jer 1:14).
 
@@ -210,13 +210,13 @@ Lecture 9
 
 > ^10:24^ Correct me, O Lord, but with judgment, and not in your wrath, lest you bring me to nothing.
 
-> ^10:25^ Pour forth your indignation upon the nations which have not known you, and upon the provinces which have not called upon your name, for they have eaten up Jacob, and devoured him; they have consumed him, and wasted his beauty.Heb. וְאֶת־נָוֵ֖הוּ הֵשַֽׁמּוּ: *and have laid waste his habitation*.
+> ^10:25^ Pour forth your indignation upon the nations which have not known you, and upon the provinces which have not called upon your name, for they have eaten up Jacob, and devoured him; they have consumed him, and wasted his beauty. *(Heb. וְאֶת־נָוֵ֖הוּ הֵשַֽׁמּוּ: *and have laid waste his habitation*.)*
 
 > **76**. Here, he seeks mercy.
 
 First, he shows the necessity of seeking it: ***a man’s way is not his own***, with regard to choice; ***to walk***, with regard to execution; ***direct***, with regard to ordering his steps to an end. And so it is in our power neither to resist nor to attack the Chaldean, but all depends upon your disposition. *With the Lord are a man’s steps directed, and he shall delight in his way* (Ps 36:23). *The heart of man sets his way in order, but it is the Lord’s to direct his steps* (Prov 16:9).  
 
-Second, he gives the petition by which he seeks mercy for the people: ***correct me with judgment***, with your wonted mercy, and not with the condemnation, of which the Psalm speaks: *do not enter into judgment with your servant, O Lord, for no one living will be justified in your sight* (Ps 142:2); ***and not in your wrath***, according to the measure of due retribution, ***lest you bring me to nothing***, for it would be just for one who sins against God to be forsaken by him, and thus to tend towards nothingness. In saying this, he does not act contrary to the commandment given above; ***you, therefore, do not pray for the good of this people*** (Jer 14:11),*Tu ergo*, “you, therefore,” does not appear at Jeremiah 14:11, though it does appear at 7:16 and 11:14. for he does not pray that they should not be punished, but that they should not be utterly annihilated. *Lord, do not rebuke me in your fury, nor chasten me in your wrath* (Ps 37:1).  
+Second, he gives the petition by which he seeks mercy for the people: ***correct me with judgment***, with your wonted mercy, and not with the condemnation, of which the Psalm speaks: *do not enter into judgment with your servant, O Lord, for no one living will be justified in your sight* (Ps 142:2); ***and not in your wrath***, according to the measure of due retribution, ***lest you bring me to nothing***, for it would be just for one who sins against God to be forsaken by him, and thus to tend towards nothingness. In saying this, he does not act contrary to the commandment given above; ***you, therefore, do not pray for the good of this people*** (Jer 14:11), *(*Tu ergo*, “you, therefore,” does not appear at Jeremiah 14:11, though it does appear at 7:16 and 11:14.)* for he does not pray that they should not be punished, but that they should not be utterly annihilated. *Lord, do not rebuke me in your fury, nor chasten me in your wrath* (Ps 37:1).  
 
 But he seeks wrath for the enemy: ***pour forth your indignation***, and he gives the reason: ***for they have eaten up***. *Pour forth your wrath upon the nations which have not known you, and upon the kingdoms that have not called upon your name; because they have eaten up Jacob, and laid waste his dwelling place* (Ps 78:6–7).  
 

@@ -10,43 +10,43 @@ Now, this part is divided into two:
 
 first, he considers the merit of Christ himself insofar as it is ordered toward attaining a good;  
 
-second, he considers it insofar as it is ordered to removing an evil, in Distinction 19, at *and so let us now ask how, by his death, we are redeemed from the devil, from sin, and from punishment*.*Sent.* III, 19.1(55).1.  
+second, he considers it insofar as it is ordered to removing an evil, in Distinction 19, at *and so let us now ask how, by his death, we are redeemed from the devil, from sin, and from punishment*. *(*Sent.* III, 19.1(55).1.)*  
 
 Moreover, the first is divided into two parts:  
 
 first, he considers Christ’s merit insofar as he merited something for himself;  
 
-second, his merit insofar as he merited for us, at *to what end did he will to suffer?**Sent*. III, 18.5(54).1.  
+second, his merit insofar as he merited for us, at *to what end did he will to suffer?* *(*Sent*. III, 18.5(54).1.)*  
 
 The first is divided into two:  
 
 first, he shows what he merited for himself;  
 
-second, he asks whether he could have had this without merit, at *if we ask whether Christ*.*Sent*. III, 18.4(53).1.  
+second, he asks whether he could have had this without merit, at *if we ask whether Christ*. *(*Sent*. III, 18.4(53).1.)*  
 
 The first is divided into two:  
 
 first, he shows what he merited for himself in his very self;  
 
-second, what he merited in others, namely, manifestation, at *nor did he merit only the glory of impassibility, and immortality, but also that to him should be given 'the name that is above all other names.'**Sent*. III, 18.3(52).1, quoting Phil 2:8–9  
+second, what he merited in others, namely, manifestation, at *nor did he merit only the glory of impassibility, and immortality, but also that to him should be given 'the name that is above all other names.'* *(*Sent*. III, 18.3(52).1, quoting Phil 2:8–9)*  
 
 The first is divided into two:  
 
 first, he shows how Christ merited for himself the glorification of his body, and the impassibility of the soul and body in the instant of his conception;  
 
-second, he shows how he merited this through the Passion, at *nor did Christ merit these things only*.*Sent*. III, 18.2(51).1.  
+second, he shows how he merited this through the Passion, at *nor did Christ merit these things only*. *(*Sent*. III, 18.2(51).1.)*  
 
 As regards the first of these, he does two things:  
 
 first, he determines the truth;  
 
-second, he proposes a certain doubt, at *authority offers us no certainty as to whether the soul became impassible when the flesh became immortal*.*Sent*. III, 18.1(50).5.  
+second, he proposes a certain doubt, at *authority offers us no certainty as to whether the soul became impassible when the flesh became immortal*. *(*Sent*. III, 18.1(50).5.)*  
 
-*To what end, then, did he will to suffer and die?**Sent*. III, 18.5(54).1. Here he shows what he merited for us through his Passion. Regarding this, he does two things:  
+*To what end, then, did he will to suffer and die?* *(*Sent*. III, 18.5(54).1.)* Here he shows what he merited for us through his Passion. Regarding this, he does two things:  
 
 first, he enumerates the benefits that arise for us from Christ’s Passion;  
 
-second, he follows out one, which pertains to the attainment of the good, at *God had decreed 'in mystery.'**Sent*. III, 18.5(54).2, quoting Ambrosiaster, *Commentarius in Pauli epistulam ad Romanos (recensio gamma*), ch. 5, v. 14 (CSEL 81.1; PL 17:94).  
+second, he follows out one, which pertains to the attainment of the good, at *God had decreed 'in mystery.'* *(*Sent*. III, 18.5(54).2, quoting Ambrosiaster, *Commentarius in Pauli epistulam ad Romanos (recensio gamma*), ch. 5, v. 14 (CSEL 81.1; PL 17:94).)*  
 
 Question 1  
 
@@ -70,15 +70,15 @@ Article 1
 
 ***Whether in Christ there is any activity besides the divine***
 
-To the first let us proceed as follows.Parallels: *ST* III.19.1; *SCG* IV.36; *De veritate*, q. 20, a.1, ad 2: *De unione Verbi*, q. 1, a. 1, ad 16; a. 5; *Compendium theol.*, ch. 212. It appears that in Christ there is only one action.  
+To the first let us proceed as follows. *(Parallels: *ST* III.19.1; *SCG* IV.36; *De veritate*, q. 20, a.1, ad 2: *De unione Verbi*, q. 1, a. 1, ad 16; a. 5; *Compendium theol.*, ch. 212.)* It appears that in Christ there is only one action.  
 
-Obj. 1: For Dionysius names Christ’s action “theandric,” that is, “God-human.”Pseudo-Dionysius, *Epistolae*, letter 4, *Caio Monacho* (PG 3:1071). Now, this signifies not diverse actions but one. Therefore in Christ there is only one action of the divinity and the humanity.  
+Obj. 1: For Dionysius names Christ’s action “theandric,” that is, “God-human.” *(Pseudo-Dionysius, *Epistolae*, letter 4, *Caio Monacho* (PG 3:1071).)* Now, this signifies not diverse actions but one. Therefore in Christ there is only one action of the divinity and the humanity.  
 
-Obj. 2: Furthermore, as the Philosopher says,Aristotle, *Metaphysics* 1.1, 981a17; Aquinas, *In Metaph.*, bk. 1, lect. 1, n. 21. actions are of singular supposits. But in Christ there is only one supposit. Therefore there is only one action.  
+Obj. 2: Furthermore, as the Philosopher says, *(Aristotle, *Metaphysics* 1.1, 981a17; Aquinas, *In Metaph.*, bk. 1, lect. 1, n. 21.)* actions are of singular supposits. But in Christ there is only one supposit. Therefore there is only one action.  
 
 Obj. 3: Furthermore, what exists is what acts. But in Christ, on account of the unity of the hypostasis, there is only one existence. Therefore there is only one action.  
 
-Obj. 4: Furthermore, there is only one action of the instrument and the principal agent. But, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 19 (PG 94:1079). *his flesh is divinity’s instrument*. Therefore there is one action of Christ in virtue of his divinity and humanity.  
+Obj. 4: Furthermore, there is only one action of the instrument and the principal agent. But, as Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 19 (PG 94:1079).)* *his flesh is divinity’s instrument*. Therefore there is one action of Christ in virtue of his divinity and humanity.  
 
 Obj. 5: Furthermore, where the deed is the same thing, the action is also the same. But in Christ the divinity’s and the humanity’s accomplished work is the same thing; for example, the cleansing of the leper, whom the divinity cleansed by the bodily touch, as is said in Matthew 8:3. Therefore in him there is only one action.  
 
@@ -90,13 +90,13 @@ Furthermore, the action of the divine nature is the divine essence itself, and i
 
 I answer that some have denied that there are two actions in Christ, and to assert this diverse men have been moved by diverse arguments.  
 
-For some Eutychians said that in Christ there is only one nature composed from the divine and the human, and therefore it followed also that Christ had only one composite action. But from this it follows that his action would be neither divine nor human, nor would he be like us or the Father, and thus the work of redemption—for which both a divine action and a human one is required—would be frustrated. Whence this is heretical, as was said in Book I.*In I Sent.*, d. 5, q. 1, a. 1.  
+For some Eutychians said that in Christ there is only one nature composed from the divine and the human, and therefore it followed also that Christ had only one composite action. But from this it follows that his action would be neither divine nor human, nor would he be like us or the Father, and thus the work of redemption—for which both a divine action and a human one is required—would be frustrated. Whence this is heretical, as was said in Book I. *(*In I Sent.*, d. 5, q. 1, a. 1.)*  
 
-Others denied that there are two actions in Christ, saying that in comparison with the divine, the human activity should not be called an “action,” but rather a “passion” or “undergoing.” Damascene rebuts this,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 19 (PG 94:1079). because if for this reason Christ’s human activity should not be called an “action”—that is, because his action is divine—for the same reason his human nature would not be good, because the divine nature is good. For it need not be that, if the divine nature exceeds the human in goodness, therefore the human nature is evil or not good.  
+Others denied that there are two actions in Christ, saying that in comparison with the divine, the human activity should not be called an “action,” but rather a “passion” or “undergoing.” Damascene rebuts this, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 19 (PG 94:1079).)* because if for this reason Christ’s human activity should not be called an “action”—that is, because his action is divine—for the same reason his human nature would not be good, because the divine nature is good. For it need not be that, if the divine nature exceeds the human in goodness, therefore the human nature is evil or not good.  
 
 But others see that an action depends on a nature, which is the principle of action, and that from which a person acts. Therefore they want that in Christ one should not say that there is one action, lest we might appear to assert a unity of nature—and likewise, nor are they many, lest we might appear to assert a plurality of persons. But from this it follows, as Damascene says, that Christ is neither of one nor of two natures, which is absurd.  
 
-And on account of this, it should be said that one must simply concede that in Christ there are two actions, because upon the diversity of causes there follows a diversity in effects. Now, the cause of an action is the species, as is said in the *Physics* 3,Aristotle, *Physics* 3.2, 202a9; Aquinas, *In Physic.*, bk. 3, lect. 4, n. 6. for each thing acts by reason of some form it has. And therefore where there are diverse forms, there are also diverse actions, just as fire dries and heats through its heat and dryness, and a man hears and sees through sight and hearing. And likewise, by reason of his diverse natures Christ has diverse actions.  
+And on account of this, it should be said that one must simply concede that in Christ there are two actions, because upon the diversity of causes there follows a diversity in effects. Now, the cause of an action is the species, as is said in the *Physics* 3, *(Aristotle, *Physics* 3.2, 202a9; Aquinas, *In Physic.*, bk. 3, lect. 4, n. 6.)* for each thing acts by reason of some form it has. And therefore where there are diverse forms, there are also diverse actions, just as fire dries and heats through its heat and dryness, and a man hears and sees through sight and hearing. And likewise, by reason of his diverse natures Christ has diverse actions.  
 
 Reply Obj. 1: Dionysius calls Christ’s action God-human, not because there is simply one action of the Godhead and the humanity in Christ, but because the actions of the two natures are united in three respects. First, with respect to the very supposit performing the divine and human action, which supposit is one. Second, they are united with respect to the one effect, which according to Damascene is called “the work performed,” or the *apotelesma*, for example, the cleansing of the leper. Third, with respect to the fact that the human action of Christ himself participated in something of the perfection of the divine nature, just as his intellect understood more eminently than others, due to the power of the divine intellect joined to him in the person. However, the divine action was in no way weakened by its partnership with the human.  
 
@@ -124,7 +124,7 @@ Article 2
 
 ***Whether Christ was able to merit***
 
-To the second we proceed as follows.Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.,* ch. 231. It appears that Christ did not merit.  
+To the second we proceed as follows. *(Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.,* ch. 231.)* It appears that Christ did not merit.  
 
 Obj. 1: For Christ was always a comprehensor. But a comprehensor, who is at the goal, does not merit, because merit is the path to the goal. Therefore Christ did not merit.  
 
@@ -140,7 +140,7 @@ Obj. 6: Furthermore, no one merits what is his own; and on account of this, with
 
 Obj. 7: Furthermore, no one merits from his very self. But whoever merits, merits something from the Son of God. Therefore, since Christ is the Son of God, he himself could in no way merit.  
 
-On the contrary, on Psalm 16:1, *preserve me, O God, for in thee I take refuge*, a Gloss says, *behold the merit by which one ought to be preserved*,source and it is speaking about Christ. Therefore Christ merited something.  
+On the contrary, on Psalm 16:1, *preserve me, O God, for in thee I take refuge*, a Gloss says, *behold the merit by which one ought to be preserved*, *(source)* and it is speaking about Christ. Therefore Christ merited something.  
 
 Furthermore, every wayfarer who possesses charity merits. But Christ was of this sort. Therefore.  
 
@@ -160,7 +160,7 @@ Reply Obj. 3: Christ now is only a comprehensor, but then he was both a wayfarer
 
 Reply Obj. 4: He who merits need not progress with respect to the notion of meriting—for this happens to him because the root of the meriting, namely charity—is not itself something he merits. Rather, it is necessary that everyone who merits progress with respect to the reward that he merits, such that he causes it to be owed to him, either simply speaking or in some respect in which it was not owed to him before.  
 
-Reply Obj. 5: Christ’s free decision was not determined to numerically one thing, but to generically one thing—namely, the good. For he could not do evil. But nevertheless, he can do this and not do this, and this does not exclude the freedom of decision, since to be able to sin is not a freedom of decision, nor a part of freedom, as Anselm says.Anselm, *Dialogo de libertate arbitrii*, ch. 1 (PL 158:489). And this determination of the perfection of free decision happens insofar as, through the possession of grace and glory, it is at the end to which it is naturally ordered—the good. For free decision, although in us it is related to good and evil, it is nevertheless not for the sake of evil, but for the sake of the good. Or it should be said that, even if it were determined to numerically one thing, such as to loving God—which he cannot not do—still he does not lose freedom thereby, or the notion of praise or merit, for he stretches toward it not by any coercion but spontaneously, and thus he is the lord of his own acts.  
+Reply Obj. 5: Christ’s free decision was not determined to numerically one thing, but to generically one thing—namely, the good. For he could not do evil. But nevertheless, he can do this and not do this, and this does not exclude the freedom of decision, since to be able to sin is not a freedom of decision, nor a part of freedom, as Anselm says. *(Anselm, *Dialogo de libertate arbitrii*, ch. 1 (PL 158:489).)* And this determination of the perfection of free decision happens insofar as, through the possession of grace and glory, it is at the end to which it is naturally ordered—the good. For free decision, although in us it is related to good and evil, it is nevertheless not for the sake of evil, but for the sake of the good. Or it should be said that, even if it were determined to numerically one thing, such as to loving God—which he cannot not do—still he does not lose freedom thereby, or the notion of praise or merit, for he stretches toward it not by any coercion but spontaneously, and thus he is the lord of his own acts.  
 
 Reply Obj. 6: Christ did not merit in in virtue of his divinity, in virtue of which he has all things as his own. Rather, he merits in virtue of his humanity, from which not all things are his own.  
 
@@ -170,7 +170,7 @@ Article 3
 
 ***Whether Christ was able to merit from the instant of his conception***
 
-To the third we proceed as follows.Parallels: *ST* III.34.3; *De veritate*, q. 29, a. 8. It appears that Christ was not able to merit in the instant of his conception.  
+To the third we proceed as follows. *(Parallels: *ST* III.34.3; *De veritate*, q. 29, a. 8.)* It appears that Christ was not able to merit in the instant of his conception.  
 
 Obj. 1: For no one merits except by acting. But a thing’s existence is prior to its acting. Therefore in the first instant of his conception, when Christ first had existence according to his human nature, he was not able to merit.  
 
@@ -182,7 +182,7 @@ Obj. 4: Furthermore, just as merit is through free decision, so too is sin. But 
 
 Obj. 5: Furthermore, with respect to his body, Christ as an infant was like other infants. But other infants, on account of the feebleness of their bodily organs, did not have a perfect imagination, nor a use of free decision. Therefore consequently neither did Christ, and thus it appears that he could not then merit.  
 
-On the contrary, Christ was a man in the first instant of his conception: *the Lord has created a new thing on the earth: a woman protects a man* (Jer 31:22).The Latin for *circumdabit virum* could also be translated “encloses a man.” But meriting belongs to a perfect man. Therefore Christ in the first instant of his conception was able to merit.  
+On the contrary, Christ was a man in the first instant of his conception: *the Lord has created a new thing on the earth: a woman protects a man* (Jer 31:22). *(The Latin for *circumdabit virum* could also be translated “encloses a man.”)* But meriting belongs to a perfect man. Therefore Christ in the first instant of his conception was able to merit.  
 
 Furthermore, a soul perfected with the first and second perfection is more perfect than one perfected only with the first perfection. But no spiritual perfection was added to Christ. Therefore since an activity is a second perfection, and habit is a first perfection, whenever he had the habit of a virtue, he had its act. But he merited by the act of virtue. Therefore Christ merited in the instant of his conception.  
 
@@ -194,7 +194,7 @@ However, some say that in the first instant of his conception he did not merit, 
 
 Reply Obj. 1: Existence is prior in its nature to acting, but not necessarily prior in time.  
 
-Reply Obj. 2: Deliberation and taking counsel, as the Philosopher says,Aristotle, *Nicomachean Ethics* 3.3, 1112b11. *are not about the end, but about the things that are for the sake of the end*, when it is not certain which things are expedient for the intended end. Now, something is merited in the very intention of the end, whence one does not need deliberation for merit, even in other men, as regards the desire for the end. And furthermore, in Christ he did not need deliberation even with regard to things that are for the end, since he was certain about them.  
+Reply Obj. 2: Deliberation and taking counsel, as the Philosopher says, *(Aristotle, *Nicomachean Ethics* 3.3, 1112b11.)* *are not about the end, but about the things that are for the sake of the end*, when it is not certain which things are expedient for the intended end. Now, something is merited in the very intention of the end, whence one does not need deliberation for merit, even in other men, as regards the desire for the end. And furthermore, in Christ he did not need deliberation even with regard to things that are for the end, since he was certain about them.  
 
 Reply Obj. 3: That which Christ possessed in the first instant of his conception, namely merit, he had both from another, inasmuch as grace is required, and from his very self, inasmuch as merit proceeds from a free decision. For it is not always necessary that the cause precede the effect in time, but sometimes it is enough that it precede it by its nature.  
 
@@ -208,7 +208,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-To the fourth we proceed as follows.Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.*, ch. 231. It appears that Christ did not merit for himself the immortality of his body.  
+To the fourth we proceed as follows. *(Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.*, ch. 231.)* It appears that Christ did not merit for himself the immortality of his body.  
 
 Obj. 1: For meriting is for an outsider, one to whom the reward is owed only through the merit; for example, being adopted happens to an outsider, to whom the inheritance is owed only through an adoption. But to attain the goods of his Father, which are Christ’s own, Christ is not said to be adopted, as though he were an outsider. Therefore for the same reason neither does he merit immortality, or anything of this sort.  
 
@@ -216,7 +216,7 @@ Obj. 2: Furthermore, the reward is of the same dignity as the merit. But the goo
 
 Obj. 3: Furthermore, Christ did not owe a death, since he had no sin, which is what makes us owe death. Therefore since no one merits the avoidance of some evil that he is not obligated to, it appears that he did not merit immortality.  
 
-On the contrary, there is what is said in the text,*Sent*. III, 18.1(50).2. that the brilliance of his body is the reward of its humiliation. But the immortality of the body pertains to the brilliance of the body. Therefore he merited even immortality.  
+On the contrary, there is what is said in the text, *(*Sent*. III, 18.1(50).2.)* that the brilliance of his body is the reward of its humiliation. But the immortality of the body pertains to the brilliance of the body. Therefore he merited even immortality.  
 
 Furthermore, no created thing has the goods of glory without merit. But immortality pertains to glory. Therefore Christ merited it.  
 
@@ -224,7 +224,7 @@ Quaestiuncula 2
 
 Obj. 1: Moreover, it appears that Christ did not merit his soul’s inability to suffer. For what is natural to us we do not merit. But the soul, in virtue of its own nature, is unable to suffer. Therefore it did not merit impassibility.  
 
-Obj. 2: Furthermore, everything that is present in something accidentally will not be in it if it is removed accidentally. But the soul suffers just as it also is moved, accidentally—namely, through the body. Therefore from the fact that it is separated from the body it becomes unable to suffer. But Christ did not merit the soul being separated from the body, since sin is what merits death, as is said in Romans 6.See especially Romans 6:20–23. Therefore he did not merit the impassibility of his soul.  
+Obj. 2: Furthermore, everything that is present in something accidentally will not be in it if it is removed accidentally. But the soul suffers just as it also is moved, accidentally—namely, through the body. Therefore from the fact that it is separated from the body it becomes unable to suffer. But Christ did not merit the soul being separated from the body, since sin is what merits death, as is said in Romans 6. *(See especially Romans 6:20–23.)* Therefore he did not merit the impassibility of his soul.  
 
 Obj. 3: Furthermore, the impassibility of the soul pertains to the beatitude of the soul, just as the impassibility of the body pertains to the beatitude of the body. But Christ’s soul was beatified from the beginning. Therefore he did not merit the impassibility of the soul.  
 
@@ -234,7 +234,7 @@ Furthermore, the souls of the damned are able to suffer, since they did not meri
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that he did not merit exaltation.Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.*, ch. 231. For in human nature’s being assumed it was exalted, and the name of divinity is owed to it. But he did not merit that assumption, as was said above in Distinction 4.Above, d. 4, q. 3, a. 2, resp. 1, ad 1. Therefore neither did he merit exaltation.  
+Obj. 1: Moreover, it appears that he did not merit exaltation. *(Parallels: *ST* III.19.3; *De veritate*, q. 29, a. 6; *Compendium theol.*, ch. 231.)* For in human nature’s being assumed it was exalted, and the name of divinity is owed to it. But he did not merit that assumption, as was said above in Distinction 4. *(Above, d. 4, q. 3, a. 2, resp. 1, ad 1.)* Therefore neither did he merit exaltation.  
 
 Obj. 2: Furthermore, the name that is above every name is the name at which every knee bends. But this name is “Jesus,” as is said in Philippians 2:9–11. Therefore, since he did not merit this name, as it was given him before his conception, it appears that he did not merit the name that is above every name.  
 
@@ -262,7 +262,7 @@ Furthermore, from the fact that his intellect was joined to God in his person, f
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that, as was said,Above, a. 2. merit according to itself is the activity of one who receives justice, in virtue of which he makes his own what should be rendered to him. Now, nothing is given to someone who [already] possesses it in the way in which he possesses it, nor does someone make his own what is [already] his own in the way it is his own. Whence four things are required for merit, in the way theologians speak of it, in its order to things that are good simply speaking, relative to what someone is said to “merit.” The first is that it is among things pertaining to beatitude. The second is that what should be rendered, through the merit, by the mediation of justice is not [already] possessed. Third, that which someone makes owed to him through his merit is not [already] owed. Fourth, what someone is said to merit follows the merit itself, at least by the order of nature; and therefore grace, which is the principle of meriting, and other natural things that are required for merit, do not fall under merit.  
+To the first question, I answer that, as was said, *(Above, a. 2.)* merit according to itself is the activity of one who receives justice, in virtue of which he makes his own what should be rendered to him. Now, nothing is given to someone who [already] possesses it in the way in which he possesses it, nor does someone make his own what is [already] his own in the way it is his own. Whence four things are required for merit, in the way theologians speak of it, in its order to things that are good simply speaking, relative to what someone is said to “merit.” The first is that it is among things pertaining to beatitude. The second is that what should be rendered, through the merit, by the mediation of justice is not [already] possessed. Third, that which someone makes owed to him through his merit is not [already] owed. Fourth, what someone is said to merit follows the merit itself, at least by the order of nature; and therefore grace, which is the principle of meriting, and other natural things that are required for merit, do not fall under merit.  
 
 Now, these four things are found in Christ’s immortality. For it is among things that pertain to the beatitude of the body. He also did not always possess it, since he assumed a mortal body at the beginning. Further, it was not owed to him by reason of his nature, although it would be owed to him by reason of his person. Last, the immortality was not required for the meriting. And on account of this he merited immortality.  
 
@@ -270,11 +270,11 @@ Reply Obj. 1: Although immortality—and all the other goods that are within the
 
 Reply Obj. 2: Although the act of the mind by which Christ merited was simply better than the immortality of his body, nonetheless the latter is better as regards his state, insofar as it pertain to the state of beatitude. In fact, the act of the mind, insofar as merit consists in it, pertains to the state of the wayfarer. Or it should be said that this is true as regards the substantial reward of the soul, and not as regards the others.  
 
-Reply Obj. 3: Although Christ did not need to die because of sin, still he did need to from his natural principles, as was said above.Above, d. 16, q. 1, a. 2. And therefore immortality was not owed to the human nature in Christ. Or it should be said that the lack of fault, although it removes the merit of death, still does not give an immortality by which it is impossible to die, the sort of immortality that Christ merited. This is clear in Adam, in his first state, in whom the such an immortality was not present.  
+Reply Obj. 3: Although Christ did not need to die because of sin, still he did need to from his natural principles, as was said above. *(Above, d. 16, q. 1, a. 2.)* And therefore immortality was not owed to the human nature in Christ. Or it should be said that the lack of fault, although it removes the merit of death, still does not give an immortality by which it is impossible to die, the sort of immortality that Christ merited. This is clear in Adam, in his first state, in whom the such an immortality was not present.  
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that the soul is said to be “able to suffer” in two ways. In one way, according to divine justice, as it suffers in hell from the bodily fire; and this is common to the soul and to every created spirit considered only in things that are natural to it. In another way, the soul is said to be able to suffer in virtue of its nature, and this is either by accident, from the suffering of the body—as was said above,Above, d. 15, q. 2, a. 3. that the body’s wound in a certain manner touches the soul insofar as the latter is the form of the former—or through its own activity, whether that be common to the soul and body, such as delights and sorrows, which happen in the sensitive part, or it be proper to the soul itself, such as in delights and sorrows of the intellectual part. Now, because the soul in virtue of its nature is the body’s form, whereas it belongs to form that it be proportioned to its matter, therefore in the soul’s very nature, even when existing without the body, it is naturally apt to suffer at the suffering of the body; however, it does not actually suffer without the body relative to those sufferings that can naturally be present in it, either due to the body or with the body. Now, this aptitude is not taken away by grace, that through which its nature is reformed. For although through grace a man is reformed with respect to his personal acts, nonetheless he is reformed with respect to his nature only through glory, which destroys all the defects of his nature. A sign of this is that those reformed through grace do actually suffer a natural defect, for they generate in original sin.  
+To the second question, it should be said that the soul is said to be “able to suffer” in two ways. In one way, according to divine justice, as it suffers in hell from the bodily fire; and this is common to the soul and to every created spirit considered only in things that are natural to it. In another way, the soul is said to be able to suffer in virtue of its nature, and this is either by accident, from the suffering of the body—as was said above, *(Above, d. 15, q. 2, a. 3.)* that the body’s wound in a certain manner touches the soul insofar as the latter is the form of the former—or through its own activity, whether that be common to the soul and body, such as delights and sorrows, which happen in the sensitive part, or it be proper to the soul itself, such as in delights and sorrows of the intellectual part. Now, because the soul in virtue of its nature is the body’s form, whereas it belongs to form that it be proportioned to its matter, therefore in the soul’s very nature, even when existing without the body, it is naturally apt to suffer at the suffering of the body; however, it does not actually suffer without the body relative to those sufferings that can naturally be present in it, either due to the body or with the body. Now, this aptitude is not taken away by grace, that through which its nature is reformed. For although through grace a man is reformed with respect to his personal acts, nonetheless he is reformed with respect to his nature only through glory, which destroys all the defects of his nature. A sign of this is that those reformed through grace do actually suffer a natural defect, for they generate in original sin.  
 
 Whence one must say that the habit of glory takes away from the soul this natural aptitude, through which habit the soul is perfected not only in its powers relative to personal acts, but inasmuch as it is a certain nature. Whence from the soul itself being glorified, glory overflows into the body. Also, the possession of glory excludes also the sorrow of the intellectual part, and even the possibility of sinning, through which the possibility of suffering due to divine justice exists. Whence it is certain that the soul’s inability to suffer pertains to its glory, and that Christ did not have the glory of the soul inasmuch as it is the nature of a body from the beginning of his conception, since his body was able to suffer. However, he did have a glorified soul with respect to the activities by which he enjoyed God. Therefore just as he merited the immortality of his body, so too he also merited the impassibility of his soul.  
 
@@ -286,7 +286,7 @@ Reply Obj. 3: The impassibility of the soul pertains to the beatitude of the sou
 
 Response to Quaestiuncula 3  
 
-To the third question, it should be said that, as the Philosopher says in the *Ethics* 1,Aristotle, *Nicomachean Ethic*s 1.10, 1100b8‒10. in happiness something is found that is essential to it—such as the virtues, which make one’s activity perfect—and also something that makes for the well-being of the happiness—such as riches, and friends, and things of this sort. Similarly, I say that there are certain things that are of the substance of beatitude—such as the dowries of the soul and body—and also something that is for the well-being of it—such as the manifestation of this beatitude to others, in which the glory also consists, since glory is *luminous knowledge with praise*, as the Gloss on the end of Romans says;source at Romans 16:27 ; this definition is Augustine's in *Contra Maximinum*, bk. 2, ch. 13, para. 2 (PL 40:770). and the Philosopher also saysAristotle, *Nicomachean Ethics* 1.11, 1101b1‒9. that it belongs to the well-being of happiness itself that the happy man lives even after death in the memories of men.  
+To the third question, it should be said that, as the Philosopher says in the *Ethics* 1, *(Aristotle, *Nicomachean Ethic*s 1.10, 1100b8‒10.)* in happiness something is found that is essential to it—such as the virtues, which make one’s activity perfect—and also something that makes for the well-being of the happiness—such as riches, and friends, and things of this sort. Similarly, I say that there are certain things that are of the substance of beatitude—such as the dowries of the soul and body—and also something that is for the well-being of it—such as the manifestation of this beatitude to others, in which the glory also consists, since glory is *luminous knowledge with praise*, as the Gloss on the end of Romans says; *(source at Romans 16:27 ; this definition is Augustine's in *Contra Maximinum*, bk. 2, ch. 13, para. 2 (PL 40:770).)* and the Philosopher also says *(Aristotle, *Nicomachean Ethics* 1.11, 1101b1‒9.)* that it belongs to the well-being of happiness itself that the happy man lives even after death in the memories of men.  
 
 Therefore, because in Christ there should be the most complete beatitude, he was beatified not only in his very self, but, for the perfection of his beatitude, his beatitude was also shown to others. And according to this, he is said to have merited exaltation, which exaltation consists in three things: in the knowledge of the heart, in virtue of which he is said to have received *the name above every name*, since a name makes one know a thing; and in the reverence of his body, with respect to the bending of the knee; and in the confession of the mouth, and thus the Apostle says, *and every tongue confess that Jesus Christ is Lord, to the glory of God the Father* (Phil 2:11).  
 
@@ -306,13 +306,13 @@ Reply Obj. 1: The fact that Christ did not merit for himself the beatitude that 
 
 Reply Obj. 2: What Christ had from his very self, due to the union, he had more so than anyone might have whatever he acquires from some activity. For he had it naturally. And therefore he had the fruition even more gloriously than anyone else.  
 
-Reply Obj. 3: According to that opinion, the angels did not always have beatitude, nor again was there anything in them whence it would be owed to them. And therefore they were able to merit and receive grace at the same time, as was said in Book II.*In II Sent.*, d. 5, q. 2, a. 2. However, this is not so in Christ, who was always blessed in his soul, and to whom glory was owed from that very union.  
+Reply Obj. 3: According to that opinion, the angels did not always have beatitude, nor again was there anything in them whence it would be owed to them. And therefore they were able to merit and receive grace at the same time, as was said in Book II. *(*In II Sent.*, d. 5, q. 2, a. 2.)* However, this is not so in Christ, who was always blessed in his soul, and to whom glory was owed from that very union.  
 
 Article 5  
 
 ***Whether Christ merited for himself through his Passion***
 
-To the fifth we proceed as follows.Parallels: *ST* III.49,6; *De veritate*, q. 26, a. 6, ad 4; *Compendium theol.*, ch. 240. It appears that Christ did not merit for himself through his Passion.  
+To the fifth we proceed as follows. *(Parallels: *ST* III.49,6; *De veritate*, q. 26, a. 6, ad 4; *Compendium theol.*, ch. 240.)* It appears that Christ did not merit for himself through his Passion.  
 
 Obj. 1: For to merit is to cause something to be owed to oneself. But he who once causes something to be owed to himself, such as by paying for it, does not pay again. Therefore also he who has merited something once, cannot merit it again. But Christ from the instant of his conception merited for himself the things said. Therefore he merited nothing for himself through his Passion.  
 
@@ -320,19 +320,19 @@ Obj. 2: Furthermore, merit causes something to be owed that was not already owed
 
 Obj. 3: Furthermore, the Passion was in Christ’s body. But merit is only in the soul. Therefore Christ merited nothing for himself through his Passion.  
 
-Obj. 4: Furthermore, the principle of merit is within us, since the voluntary is that whose principle is within, as is said in the *Ethics* 3.Aristotle, *Nicomachean Ethics* 3.1, 1111a22–23. But the principle of suffering is not in the one suffering, but in the agent. Therefore Christ did not merit through his Passion.  
+Obj. 4: Furthermore, the principle of merit is within us, since the voluntary is that whose principle is within, as is said in the *Ethics* 3. *(Aristotle, *Nicomachean Ethics* 3.1, 1111a22–23.)* But the principle of suffering is not in the one suffering, but in the agent. Therefore Christ did not merit through his Passion.  
 
 Obj. 5: Every merit consists in charity. But to endure sufferings in a praiseworthy way is not a work of charity, but of patience or fortitude. Therefore Christ did not merit through his Passion.  
 
-On the contrary, it is said in the text*Sent*. III, 18.1(50).2. that *the Passion is the merit of brilliance*.  
+On the contrary, it is said in the text *(*Sent*. III, 18.1(50).2.)* that *the Passion is the merit of brilliance*.  
 
 Furthermore, we merit by the acts of the virtues. But Christ suffered from the greatest charity: *greater love has no man than this* (John 15:13). Therefore he merited through his Passion.  
 
-Furthermore, his Passion was greater than the sufferings of the other saints, as was said above.Above*,* d. 15, q. 2, a. 3, resp. 3. (sol. 3) But the other saints merited by their sufferings. Therefore Christ too merited through his own Passion.  
+Furthermore, his Passion was greater than the sufferings of the other saints, as was said above. *(Above*,* d. 15, q. 2, a. 3, resp. 3. (sol. 3))* But the other saints merited by their sufferings. Therefore Christ too merited through his own Passion.  
 
 I answer that to merit, as was said, is to cause something to be owed to oneself. Now, this happens in three ways. In one way, when someone causes something to be owed that was not owed before, as someone by the first motion of charity merits eternal life, causing to be owed to him what before was not owed to him. In another way, by causing what before was less owed to him now to be more owed to him, which happens in one in whom charity grows. It happens a third way when he causes something that is in one way owed to him now to be owed to him in a different way, as happens with a baptized infant—to whom eternal life is owed from the possession of grace infused in baptism—when he begins to have the use of free decision, causes this to be owed to him from his own actions. In the first way, Christ merited the brilliance of his body in the first instant of his conception; this was not owed to him either from the condition of his nature considered in itself, nor did it follow of necessity from the union, as did the glory of fruition, as was said. In the second way, Christ was not able to merit, since the charity in Christ could not grow. In the third way, he did merit in all his acts after the first instant of his conception, since he, by certain acts, caused to be owed to him what before was not owed to him by other acts. Now, the act by which someone merits is one over which the agent has dominion, and which is proportioned to the wage merited. However, a man has dominion over his acts through his will, which, because charity perfects it in its order to the ultimate end, then makes the act proportioned to the end—namely, beatitude, which is properly speaking the wage for our merits. And therefore every voluntary act informed by charity is meritorious.  
 
-Therefore, because Christ endured his Passion voluntarily—*for he was offered because he himself willed it* (Isa 53:7)The Vulgate differs significantly from the Hebrew here; following the latter, the RSV reads *He was oppressed, and he was afflicted*.—and such a will was informed by charity, there is no doubt that he merited through his Passion.  
+Therefore, because Christ endured his Passion voluntarily—*for he was offered because he himself willed it* (Isa 53:7) *(The Vulgate differs significantly from the Hebrew here; following the latter, the RSV reads *He was oppressed, and he was afflicted*.)*—and such a will was informed by charity, there is no doubt that he merited through his Passion.  
 
 Reply Obj. 1: Buying is principally for the sake of having the thing that is paid for, and therefore after it has been paid for once, one does not pay for it any further. But the action by which one merits is not principally for the sake of acquiring a reward, but for the sake of the good of charity. Whence a man possessing charity acts even if no repayment would result, which is also why after he has merited he would still do things, and that which was first owed to him in the one way, afterward is owed to him in another way.  
 
@@ -350,7 +350,7 @@ Article 6
 
 ***Quaestiuncula 1***
 
-To the sixth we proceed as follow.Parallels: *ST* I-II.114.6; III.19.4; 48.1; *De veritate*, q. 29, a. 7; *Compendium theol.*, ch. 231. It appears that Christ was not able to merit for us.  
+To the sixth we proceed as follow. *(Parallels: *ST* I-II.114.6; III.19.4; 48.1; *De veritate*, q. 29, a. 7; *Compendium theol.*, ch. 231.)* It appears that Christ was not able to merit for us.  
 
 Obj. 1: For just as praise requires the voluntary, so too does merit. But because praise requires something voluntary in the one praised, therefore one is not praised on account of someone else’s act. Therefore likewise neither can one merit for someone else, and thus Christ merited nothing for us.  
 
@@ -364,7 +364,7 @@ Furthermore, no one attains glory without merit. But baptized infants attain glo
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that he did not merit for us the opening of the gates.Parallels: *ST* III.49.5; *In Symbolorum Apostolorum*, a. 4. For Enoch and Elijah entered paradise before Christ’s Incarnation. Therefore the gates were open before Christ.  
+Obj. 1: Moreover, it appears that he did not merit for us the opening of the gates. *(Parallels: *ST* III.49.5; *In Symbolorum Apostolorum*, a. 4.)* For Enoch and Elijah entered paradise before Christ’s Incarnation. Therefore the gates were open before Christ.  
 
 Obj. 2: Furthermore, whoever merits paradise also merits the opening of the gates of paradise. But the patriarchs merited paradise, since they had charity as perfect as do we, and since they did all things for the sake of paradise. Therefore they merited the opening of the gates of paradise.  
 
@@ -376,7 +376,7 @@ Furthermore, through the sin of Adam the gates of paradise were closed, as is cl
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that Christ did not merit the opening of the gates for us only through his Passion.Parallels: below, d. 22, q. 3, a. 1, ad 4; *In IV Sent*., d. 4, q. 2, a. 2, resp. 6; *ST* III.39.5, ad 3; 49.5; *In Symbolorum Apostolorum*, a. 4. For his charity in the Passion was not greater than before it. Therefore if he merited through the Passion, he also merited beforehand.  
+Obj. 1: Moreover, it appears that Christ did not merit the opening of the gates for us only through his Passion. *(Parallels: below, d. 22, q. 3, a. 1, ad 4; *In IV Sent*., d. 4, q. 2, a. 2, resp. 6; *ST* III.39.5, ad 3; 49.5; *In Symbolorum Apostolorum*, a. 4.)* For his charity in the Passion was not greater than before it. Therefore if he merited through the Passion, he also merited beforehand.  
 
 Obj. 2: Furthermore, in his baptism *the heavens were opened over him*. But his baptism preceded his Passion. Therefore he merited for us the opening of heaven before his Passion.  
 
@@ -388,7 +388,7 @@ Furthermore, the closing of the gates was the decree made against us. But Christ
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 15 (PG 94:1005). Christ’s flesh and soul were, as it were, the instrument of the Godhead. Whence, although the activities of God and the man were other, still the human activity had within itself the power of the divinity, just as an instrument acts by the power of its principal agent. On account of this, Damascene says that *the things that were of man he did in a way that is above man*.Missing citation. This is why even Christ’s action was meritorious; although it was a human action, still he acted in the divine power. And therefore he had a power over the entire nature, which could not be the case for any activity of a mere man, for an individual man is of less dignity than the common nature, since the good of the nation is more divine than is the good of one man.Aristotle, *Nicomachean Ethics* 1.2, 1094b9–10. And because all men are one man in their common nature, as Porphyry says,Porphyry, *Isagoge*, ch. 2, para. 616. so too Christ’s merit, which extends to the nature, could extend even to the individuals. And thereby he was able to merit for us.  
+To the first question, I answer that, as Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 15 (PG 94:1005).)* Christ’s flesh and soul were, as it were, the instrument of the Godhead. Whence, although the activities of God and the man were other, still the human activity had within itself the power of the divinity, just as an instrument acts by the power of its principal agent. On account of this, Damascene says that *the things that were of man he did in a way that is above man*. *(Missing citation.)* This is why even Christ’s action was meritorious; although it was a human action, still he acted in the divine power. And therefore he had a power over the entire nature, which could not be the case for any activity of a mere man, for an individual man is of less dignity than the common nature, since the good of the nation is more divine than is the good of one man. *(Aristotle, *Nicomachean Ethics* 1.2, 1094b9–10.)* And because all men are one man in their common nature, as Porphyry says, *(Porphyry, *Isagoge*, ch. 2, para. 616.)* so too Christ’s merit, which extends to the nature, could extend even to the individuals. And thereby he was able to merit for us.  
 
 Reply Obj. 1: Christ meriting for another is said in two ways. The first is such that he merits in the place of another, that is, what pertains to the other to merit; and in this way Christ did not merit for others, since it is necessary that merit proceed from the will of the one meriting, as the objection points out. But the other is such that he merits something for another under whose merit it does not fall; and in this way Christ did merit for others what they were not able to merit for themselves.  
 
@@ -408,9 +408,9 @@ Reply Obj. 3: Although the impediment that was on the side of our nature was rem
 
 Response to Quaestiuncula 3  
 
-To the third question, it should be said that the obstacle that closed the gates of paradise was, as was said, the sin infecting the entire nature. And because sin is destroyed through making satisfaction, neither was satisfaction capable of occurring congruently other than through Christ’s Passion, as will be explained below.*In III Sent.,* d. 19. Therefore the gates were opened to us only through his Passion, and not through the other things that he did beforehand. Still, through those other things he did before he did merit for us our conversion to him, inasmuch as he merited his being made manifest to us, and through this we profit, but he does not.  
+To the third question, it should be said that the obstacle that closed the gates of paradise was, as was said, the sin infecting the entire nature. And because sin is destroyed through making satisfaction, neither was satisfaction capable of occurring congruently other than through Christ’s Passion, as will be explained below. *(*In III Sent.,* d. 19.)* Therefore the gates were opened to us only through his Passion, and not through the other things that he did beforehand. Still, through those other things he did before he did merit for us our conversion to him, inasmuch as he merited his being made manifest to us, and through this we profit, but he does not.  
 
-Reply Obj. 1: The merit of satisfaction does not consist in charity alone, but also requires Christ’s Passion, as will be explained below.Below*,* d. 19, a. 1. However, it was necessary that the gates be opened for us through his satisfaction.  
+Reply Obj. 1: The merit of satisfaction does not consist in charity alone, but also requires Christ’s Passion, as will be explained below. *(Below*,* d. 19, a. 1.)* However, it was necessary that the gates be opened for us through his satisfaction.  
 
 Reply Obj. 2: In his baptism the heavens have been opened because baptism is that whereby we are made participants in Christ’s Passion, and *buried with him . . . into death* (Rom 6:4). Whence baptism opens the gates only on the supposition of the Passion.  
 
@@ -418,16 +418,16 @@ Reply Obj. 3: The Ascension did not open the gates as regards what is the essent
 
 Exposition of the text  
 
-*So that, with the removal of the flaming sword*.*Sent.* III, 18.1(50).1. This was placed in the earthly paradise, and signified the impediment that prevented the entrance into the heavenly paradise.  
+*So that, with the removal of the flaming sword*. *(*Sent.* III, 18.1(50).1.)* This was placed in the earthly paradise, and signified the impediment that prevented the entrance into the heavenly paradise.  
 
-*But the soul was endowed with impassibility either soon after separation from the flesh*.*Sent*. III, 17.1(50).5. This is the more probable view, because even the other souls of the saints, which had nothing to be purged, became impassible soon after separation from the body.  
+*But the soul was endowed with impassibility either soon after separation from the flesh*. *(*Sent*. III, 17.1(50).5.)* This is the more probable view, because even the other souls of the saints, which had nothing to be purged, became impassible soon after separation from the body.  
 
-*The form in which he was crucified was the form in which he was exalted*.*Sent*. III, 18.3(52).2, quoting Augustine, *Contra Maximinum*, bk. 1, ch. 5 (CCSL 87A:503; PL 42:686). On the contrary, his exaltation takes him all the way to equality with the Father, which does not belong to him according to his human nature, in which he was crucified. It should be said that his exaltation can be understood in two ways: either with regard to our knowledge, and in this way it is owed to the person by reason of both natures, or with regard to the reality. And in this latter way, since exaltation imports two things, a terminus toward-which and the motion toward it, the terminus belongs to the person insofar as he is said to be exalted to equality with the Father, and to the assumed nature insofar as it is said to be exalted to the more principal goods of the Father—whereas the motion belongs to the nature alone. And therefore the exaltation belongs to the person by reason of the nature.  
+*The form in which he was crucified was the form in which he was exalted*. *(*Sent*. III, 18.3(52).2, quoting Augustine, *Contra Maximinum*, bk. 1, ch. 5 (CCSL 87A:503; PL 42:686).)* On the contrary, his exaltation takes him all the way to equality with the Father, which does not belong to him according to his human nature, in which he was crucified. It should be said that his exaltation can be understood in two ways: either with regard to our knowledge, and in this way it is owed to the person by reason of both natures, or with regard to the reality. And in this latter way, since exaltation imports two things, a terminus toward-which and the motion toward it, the terminus belongs to the person insofar as he is said to be exalted to equality with the Father, and to the assumed nature insofar as it is said to be exalted to the more principal goods of the Father—whereas the motion belongs to the nature alone. And therefore the exaltation belongs to the person by reason of the nature.  
 
-*Among men, none was found through whom this might be fulfilled*.*Sent*. III, 18.5(54).2 For the merit of one mere man was not capable of [affecting] the entire nature.  
+*Among men, none was found through whom this might be fulfilled*. *(*Sent*. III, 18.5(54).2)* For the merit of one mere man was not capable of [affecting] the entire nature.  
 
-*Each one’s virtue and humility was scarcely sufficient for himself*.*Sent*. III, 18.5(54).2. For our just acts have imperfection mixed into them, and therefore they scarcely avail for personal merit, and in no way are they enough for meriting on behalf of the entire nature.  
+*Each one’s virtue and humility was scarcely sufficient for himself*. *(*Sent*. III, 18.5(54).2.)* For our just acts have imperfection mixed into them, and therefore they scarcely avail for personal merit, and in no way are they enough for meriting on behalf of the entire nature.  
 
-*Much more able was Christ’s humility . . . to open the entrance . . . by the fulfillment of God’s decree*.*Sent*. III, 18.5(54).2; reading “decree” for “degree.” By “decree” is meant the precept of God that Adam transgressed, which Christ fulfilled by his obedience. Or the “decree” is meant as the sentence of death that was borne in Adam, and this decree too Christ fulfilled when he endured death. However, the “chirograph”*Sent*. III, 18.5(54).2, referring to Colossians 2:14. indicates the memory of the violation of Adam, or his guilt, which Christ destroyed by making satisfaction for us.  
+*Much more able was Christ’s humility . . . to open the entrance . . . by the fulfillment of God’s decree*. *(*Sent*. III, 18.5(54).2; reading “decree” for “degree.”)* By “decree” is meant the precept of God that Adam transgressed, which Christ fulfilled by his obedience. Or the “decree” is meant as the sentence of death that was borne in Adam, and this decree too Christ fulfilled when he endured death. However, the “chirograph” *(*Sent*. III, 18.5(54).2, referring to Colossians 2:14.)* indicates the memory of the violation of Adam, or his guilt, which Christ destroyed by making satisfaction for us.  
 
-*So great was our sin, that we could not be saved, unless the only-begotten Son of God should die for us*.*Sent*. III, 18.5(54).3, quoting Ambrosiaster (rather, Alcuin), *In Hebraeos* 9:15. Concerning this, see below, Distinction 20.
+*So great was our sin, that we could not be saved, unless the only-begotten Son of God should die for us*. *(*Sent*. III, 18.5(54).3, quoting Ambrosiaster (rather, Alcuin), *In Hebraeos* 9:15.)* Concerning this, see below, Distinction 20.

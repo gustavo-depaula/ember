@@ -12,7 +12,7 @@
 
 > ^35:3^ And I took Jaazaniah, the son of Jeremiah, the son of Habazzinaiah, and his brothers, and all his sons, and the whole house of the Rechabites,
 
-> ^35:4^ and I brought them into the house of the Lord to the treasury of the sons of Hanan, the son of Igdaliah, the man of God, which was near the treasury of the princes, above the treasure of Maaseiah, the son of Shallum, who was the keeper of the vestibule.Heb. שֹׁמֵ֥ר הַסַּֽף: *keeper of the door*.
+> ^35:4^ and I brought them into the house of the Lord to the treasury of the sons of Hanan, the son of Igdaliah, the man of God, which was near the treasury of the princes, above the treasure of Maaseiah, the son of Shallum, who was the keeper of the vestibule. *(Heb. שֹׁמֵ֥ר הַסַּֽף: *keeper of the door*.)*
 
 > ^35:5^ And I set goblets and cups full of wine before the sons of the house of the Rechabites, and I said to them, ‘Drink wine.’
 
@@ -36,11 +36,11 @@ second is given the condemnation of disobedience, at ***and the word of the Lord
 
 Concerning the former, there are three points.  
 
-First, the command to test them is given by the Lord to the prophet: ***go to the house of the Rechabites***, who were given to the study of Scripture and therefore abstained from wine, concerning whom we read: *the family of scribes dwelling in Jabez, singing and making melody, who dwell in tents. These are the Kennites, who came of Calor, father of the house of Rechab* (1 Chron 2:55).A more literal translation of this verse from the Hebrew might be rendered as follows: *and the families of scribes that dwelled at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kennites who came from Hammath, the father of the house of Rechab*. ***Chamber***—something like a room outside the main building. ***You shall give***, proving their obedience. Above: ***I have set you as an assayer over my people; and you shall know, and prove their way*** (Jer 6:27).  
+First, the command to test them is given by the Lord to the prophet: ***go to the house of the Rechabites***, who were given to the study of Scripture and therefore abstained from wine, concerning whom we read: *the family of scribes dwelling in Jabez, singing and making melody, who dwell in tents. These are the Kennites, who came of Calor, father of the house of Rechab* (1 Chron 2:55). *(A more literal translation of this verse from the Hebrew might be rendered as follows: *and the families of scribes that dwelled at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kennites who came from Hammath, the father of the house of Rechab*.)* ***Chamber***—something like a room outside the main building. ***You shall give***, proving their obedience. Above: ***I have set you as an assayer over my people; and you shall know, and prove their way*** (Jer 6:27).  
 
 ***And I took and brought them into the house of the Lord to the treasury*** (*gazophylacium*), in which the riches of the temple were kept; in Greek, ***Gaza*** means “riches,” and ***phylaxa*** means “keeping.” ***Maaseiah***, who received this ministry in the time of David (1 Chron 24:3–18); ***of the vestibule***, the atrium. Because the house in front of the principle chamber, where clothing (*vestes*) is kept, is called the vestibule, it became the custom to call every atrium a vestibule.  
 
-***Cups***, for water. ***Drink wine***, that he might make a trial of the mysteries.The private rites and practices of the Rechabites. *Eat my bread, and drink the wine which I have mixed for you* (Prov 9:5).  
+***Cups***, for water. ***Drink wine***, that he might make a trial of the mysteries. *(The private rites and practices of the Rechabites.)* *Eat my bread, and drink the wine which I have mixed for you* (Prov 9:5).  
 
 Third, their declaration of obedience is given: ***but they responded***.  
 

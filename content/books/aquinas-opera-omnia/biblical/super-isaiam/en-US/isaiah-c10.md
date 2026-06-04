@@ -56,9 +56,9 @@ Third, that which is to be written, namely, the name of him who will lay waste, 
 
 first, the begetting of the child: ***and I went***;  
 
-second, the naming of the begotten, ***call his name, hasten***, as if to say: make haste to do it; ***take away the spoils***,*Detrahe spolia*. as above (Isa 8:1).  
+second, the naming of the begotten, ***call his name, hasten***, as if to say: make haste to do it; ***take away the spoils***, *(*Detrahe spolia*.)* as above (Isa 8:1).  
 
-Or according to another version of Jerome: ***hasten, the spoils take away***;*Spolia detrahe*. and this is better, since, according to this, there is nothing more in the name than in what was written in the book.  
+Or according to another version of Jerome: ***hasten, the spoils take away***; *(*Spolia detrahe*.)* and this is better, since, according to this, there is nothing more in the name than in what was written in the book.  
 
 **268**. Against this, some object in many ways that it should not be understood literally,  
 
@@ -68,7 +68,7 @@ second, because it is not probable that the prophet, a decent man, would have br
 
 third, because Urias made an altar of idols like the altar of Damascus in the temple of the Lord (2 Kgs 16:15–16), and thus he was not a faithful witness;  
 
-fourth, because Zachariah was not alive then, for Zachariah the son of Joiada had been killed long before by Joas, king of Judah (2 Chr 24:22); another man is called Zachariah, who was one of the twelve prophets, and he lived long after, during the return of the people from captivity, as is clear from Zechariah 1:1 and through the whole book: therefore, the prophet could not have taken Zachariah as a witness; and moreover there remains a similar objection as exists with the first sign,See above on 7:14. that the child himself was born before the death of Phacee: therefore, as was proved above, he was at least nineteen years old at the capture of Samaria, and therefore what is said in 8:4 is false: ***before the child know to call his father and his mother***.  
+fourth, because Zachariah was not alive then, for Zachariah the son of Joiada had been killed long before by Joas, king of Judah (2 Chr 24:22); another man is called Zachariah, who was one of the twelve prophets, and he lived long after, during the return of the people from captivity, as is clear from Zechariah 1:1 and through the whole book: therefore, the prophet could not have taken Zachariah as a witness; and moreover there remains a similar objection as exists with the first sign, *(See above on 7:14.)* that the child himself was born before the death of Phacee: therefore, as was proved above, he was at least nineteen years old at the capture of Samaria, and therefore what is said in 8:4 is false: ***before the child know to call his father and his mother***.  
 
 **269**. And thus they hold that this is understood only of Christ, just as the first sign; that, by ***the great book***, Sacred Scripture is signified, about which it says in Baruch 4:1: *this is the book of the commandments of God, and the law, that is for ever*; by ***the man’s pen***, the manner of prophecy, that it is not altogether clear to everyone, but only to the rational, who can conceive things signified from figures: *I have multiplied visions, and I have used similitudes by the ministry of the prophets* (Hos 12:10).  
 
@@ -92,7 +92,7 @@ To the fifth is to be said that this is not a similar objection, for it is neces
 
 **271**. It is to be noted on the words, ***a great book*** (Isa 8:1), that the Sacred Page is a book that is said to be,  
 
-first, ***great***, as to the greatness of its content: *hear me,Vg. omits “me.” for I will speak of great things: and my lips shall be opened to preach right things* (Prov 8:6).  
+first, ***great***, as to the greatness of its content: *hear me, *(Vg. omits “me.”)* for I will speak of great things: and my lips shall be opened to preach right things* (Prov 8:6).  
 
 Second, it is ***sealed***, as to vision, below: ***and the vision of all shall be unto you as the words of a book that is sealed*** (Isa 29:11).  
 
@@ -118,15 +118,15 @@ Lecture 2
 
 > ^8:8^ And shall pass through Judah, overflowing, and going over shall reach even to the neck. And the stretching out of his wings shall fill the breadth of your land, O Emmanuel.
 
-> ^8:9^ Gather yourselves together, O you peoples,*Populi*. DR: “people.” and be overcome, and give ear, all you lands afar off: strengthen yourselves, and be overcome, gird yourselves, and be overcome.
+> ^8:9^ Gather yourselves together, O you peoples, *(*Populi*. DR: “people.”)* and be overcome, and give ear, all you lands afar off: strengthen yourselves, and be overcome, gird yourselves, and be overcome.
 
 > ^8:10^ Take counsel together, and it shall be defeated: speak a word, and it shall not be done: because God is with us.
 
-> ^8:11^ For the Lord says these things to me:*Haec enim ait Dominus ad me*. DR: “for thus saith the Lord to me.” as he has taught me, with a strong hand,*Manu*. DR: “arm.” that I should not walk in the way of this people, saying:
+> ^8:11^ For the Lord says these things to me: *(*Haec enim ait Dominus ad me*. DR: “for thus saith the Lord to me.”)* as he has taught me, with a strong hand, *(*Manu*. DR: “arm.”)* that I should not walk in the way of this people, saying:
 
 > ^8:12^ Say not: a conspiracy: for all that this people speaks, is a conspiracy: neither fear their fear, nor be afraid.
 
-> ^8:13^ Sanctify the Lord of hosts himself: and let him be your dread,*Pavor*. DR: “fear.” and let him be your terror.*Terror*. DR: “dread.”
+> ^8:13^ Sanctify the Lord of hosts himself: and let him be your dread, *(*Pavor*. DR: “fear.”)* and let him be your terror. *(*Terror*. DR: “dread.”)*
 
 > **272**. ***For before the child know***. Here the interpretation of the sign is set out; and it is already clear according to the literal interpretation. According to the other interpretation, however: ***for before the child know***, by created knowledge, ***his father***, his putative father Joseph, or God; ***the strength of Damascus, and the spoils of Samaria shall be taken away***, according to this, this can also be referred to the captivity of Samaria.
 
@@ -190,9 +190,9 @@ Second, it grows strong in the fortitude of body and soul of those who fight, an
 
 Third, it grows strong in the protection of arms: ***gird yourselves***, which pertains properly to swords, but is taken from there to apply to all arms: *gird yourselves, and be valiant men, and be ready against the morning, that you may fight with these nations that are assembled against us to destroy us and our sanctuary* (1 Macc 3:58).  
 
-**280**. As to counsel: ***take counsel together, and it shall be defeated***: *who catches*Comprehendit*. Vg.: *apprehendit*. the wise in their craftiness, and scatters*Dissipat*. DR: “disappointeth.” the counsel of the wicked* (Job 5:13); *there is no wisdom, there is no prudence, there is no counsel against the Lord* (Prov 21:30).  
+**280**. As to counsel: ***take counsel together, and it shall be defeated***: *who catches *(*Comprehendit*. Vg.: *apprehendit*.)* the wise in their craftiness, and scatters *(*Dissipat*. DR: “disappointeth.”)* the counsel of the wicked* (Job 5:13); *there is no wisdom, there is no prudence, there is no counsel against the Lord* (Prov 21:30).  
 
-**281**. As to the commands of lords concerning these things which are chosen after counsel: ***speak a word, and it shall not be done***, above: ***let us make him king in the midst thereof*** (Isa 7:6). For the kings would announce what they chose to the people, as Homer says.In Aristotle, *Nicomachean Ethics* 3.9 (1113a8).  
+**281**. As to the commands of lords concerning these things which are chosen after counsel: ***speak a word, and it shall not be done***, above: ***let us make him king in the midst thereof*** (Isa 7:6). For the kings would announce what they chose to the people, as Homer says. *(In Aristotle, *Nicomachean Ethics* 3.9 (1113a8).)*  
 
 **282**. He sets out the reason by translating the name Emmanuel, ***because God is with us***: *if God be for us, who is against us?* (Rom 8:31); *and they shall fight against you, and shall not prevail: for I am with you to save you, and to deliver you, says the Lord* (Jer 15:20).  
 
@@ -212,13 +212,13 @@ And he proves in two ways that enemies are not to be feared.
 
 First, through the precept of the Lord; hence he says: you will be overcome thus, O enemies, ***for***, that is, because, ***the Lord says these things***, which have been spoken, ***to me***, and therefore, do not fear: *God is not a man, that he should lie, nor as the son of man, that he should be changed* (Num 23:19).  
 
-Second, by his own example: he says: ***the Lord says***, I say, ***to me***; ***saying*** to you what follows to teach you, ***as he has taught me***, that is, that I not imitate them in their malice; and this ***with a strong hand***, that is, with tribulation. Or not only teaching what is to be done, but also giving the grace of virtue to carry it out: *from above he has sent fire into my bones, and has taught*Erudivit*. DR: “chastised.” me* (Lam 1:13).  
+Second, by his own example: he says: ***the Lord says***, I say, ***to me***; ***saying*** to you what follows to teach you, ***as he has taught me***, that is, that I not imitate them in their malice; and this ***with a strong hand***, that is, with tribulation. Or not only teaching what is to be done, but also giving the grace of virtue to carry it out: *from above he has sent fire into my bones, and has taught *(*Erudivit*. DR: “chastised.”)* me* (Lam 1:13).  
 
 **284**. ***Say not***. Here the teaching itself is set out.  
 
-And first, he prohibits the word of fear: ***say not: a conspiracy***, of two nations, as if it is to be feared by us; ***for all that this people speaks, is a conspiracy***, against me. Hence if they join me to you in conspiracy, they will know that I am joined to you in defense: *your murmuring is not against us, but against God**Deum*. Vg.: *Dominum*. DR: “the Lord.” (Exod 16:8); below: ***let us stand together. Who is my adversary? Let him come near to me*** (Isa 50:8).  
+And first, he prohibits the word of fear: ***say not: a conspiracy***, of two nations, as if it is to be feared by us; ***for all that this people speaks, is a conspiracy***, against me. Hence if they join me to you in conspiracy, they will know that I am joined to you in defense: *your murmuring is not against us, but against God* *(*Deum*. Vg.: *Dominum*. DR: “the Lord.”)* (Exod 16:8); below: ***let us stand together. Who is my adversary? Let him come near to me*** (Isa 50:8).  
 
-Second, he prohibits the movement of passion: ***neither fear their fear***. Fear*Timor*. and dread*Pavor*. differ as more and less: for fear causes movement of the heart by way of contraction, but dread, as it were, immobilizes the heart: *if armies in camp should stand together against me, my heart shall not fear* (Ps 26[27]:3).  
+Second, he prohibits the movement of passion: ***neither fear their fear***. Fear *(*Timor*.)* and dread *(*Pavor*.)* differ as more and less: for fear causes movement of the heart by way of contraction, but dread, as it were, immobilizes the heart: *if armies in camp should stand together against me, my heart shall not fear* (Ps 26[27]:3).  
 
 **285**. ***Sanctify the Lord of hosts***. Here he instructs them how the Lord is to be feared:  
 
@@ -242,7 +242,7 @@ First is the hand of divine power, and this is threefold:
 
 first, the hand of God creating: *your hands have made me, and fashioned me* (Job 10:8);  
 
-second, containing: *in your hand, Lord,*In manu tua, Domine*. Vg.: *in manu ejus sunt*. DR: “in his hand.” are all the ends of the earth* (Ps 94[95]:4);  
+second, containing: *in your hand, Lord, *(*In manu tua, Domine*. Vg.: *in manu ejus sunt*. DR: “in his hand.”)* are all the ends of the earth* (Ps 94[95]:4);  
 
 third, protecting, below: ***in the shadow of his hand he has protected me*** (Isa 49:2).  
 
@@ -250,7 +250,7 @@ The second hand is the hand of justice, and this is threefold:
 
 first, touching to test: *the hand of the Lord has touched me* (Job 19:21);  
 
-second, scourging to cleanse: *for though, for the present time, I should be delivered from the punishments of men, yet should I not escape the hands*Manus*. Vg.: *manum*. DR: “hand.” of the Almighty neither alive nor dead* (2 Macc 6:26);  
+second, scourging to cleanse: *for though, for the present time, I should be delivered from the punishments of men, yet should I not escape the hands *(*Manus*. Vg.: *manum*. DR: “hand.”)* of the Almighty neither alive nor dead* (2 Macc 6:26);  
 
 third, crushing to condemn: *it is a fearful thing to fall into the hands of the living God* (Heb 10:31).  
 
@@ -264,7 +264,7 @@ third, crowning: *they shall receive a kingdom of glory, and a crown of beauty a
 
 Lecture 3  
 
-^8:14^ And he shall be a sanctification to you. But for a stone of offense,*Offensionis*. DR: “stumbling.” and for a rock of scandal*Scandali*. DR: “offense.” to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem.  
+^8:14^ And he shall be a sanctification to you. But for a stone of offense, *(*Offensionis*. DR: “stumbling.”)* and for a rock of scandal *(*Scandali*. DR: “offense.”)* to the two houses of Israel, for a snare and a ruin to the inhabitants of Jerusalem.  
 
 > ^8:15^ And very many of them shall stumble and fall, and shall be broken in pieces, and shall be snared, and taken.
 
@@ -272,17 +272,17 @@ Lecture 3
 
 > ^8:17^ And I will wait for the Lord, who has hid his face from the house of Jacob, and I will look for him.
 
-> ^8:18^ Behold I and my children, whom the Lord has given me for a sign, and for a portent*Portentum*. DR: “wonder.” in Israel from the Lord of hosts, who dwells in mount Zion.
+> ^8:18^ Behold I and my children, whom the Lord has given me for a sign, and for a portent *(*Portentum*. DR: “wonder.”)* in Israel from the Lord of hosts, who dwells in mount Zion.
 
-> ^8:19^ And when they shall say to you: seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living and the dead?*Pro vivis ac mortuis*. Vg.: *pro vivis a mortuis*. DR: “for the living of the dead.”
+> ^8:19^ And when they shall say to you: seek of pythons, and of diviners, who mutter in their enchantments: should not the people seek of their God, for the living and the dead? *(*Pro vivis ac mortuis*. Vg.: *pro vivis a mortuis*. DR: “for the living of the dead.”)*
 
 > ^8:20^ To the law rather, and to the testimony. And if they speak not according to this word, they shall not have the morning light.
 
-> ^8:21^ And itDR: “they.” All the verbs in this verse are singular, but St. Thomas seems to interpret the first as applying to the light (i.e., Christ) and the rest as applying to Israel, consistent with DR, which translates them all as plural. shall pass by them,*Eam*. they shall fall, and be hungry: and when they shall be hungry, they will be angry, and curse their king, and their God, and look upwards.
+> ^8:21^ And it *(DR: “they.” All the verbs in this verse are singular, but St. Thomas seems to interpret the first as applying to the light (i.e., Christ) and the rest as applying to Israel, consistent with DR, which translates them all as plural.)* shall pass by them, *(*Eam*.)* they shall fall, and be hungry: and when they shall be hungry, they will be angry, and curse their king, and their God, and look upwards.
 
 > ^8:22^ And they shall look to the earth, and behold trouble and darkness, weakness and distress, and a mist following them, and they cannot fly away from their distress.
 
-> **287**. ***And he shall be***. Here he sets out the fruit of obedience: ***sanctification to you***, I will make you holy: *I am the Lord who sanctify you**Vos*. Vg.: *eos*. DR: “them.” (Lev 22:9). ***For a stone***, he sets out the punishment of impeding rebels under the metaphor of travelers;
+> **287**. ***And he shall be***. Here he sets out the fruit of obedience: ***sanctification to you***, I will make you holy: *I am the Lord who sanctify you* *(*Vos*. Vg.: *eos*. DR: “them.”)* (Lev 22:9). ***For a stone***, he sets out the punishment of impeding rebels under the metaphor of travelers;
 
 and first, he sets out the occasion,  
 
@@ -294,29 +294,29 @@ first, as to the people;
 
 second, as to the princes: ***for a snare***.  
 
-He shows the first under the metaphor of a stone lying in the way, which impedes the traveler in two ways: namely, by injuring his foot, and by being an occasion of his falling; and similarly, Christ was to the unbelievers among the Jews an occasion of injury and falling, not from his fault but from theirs. Therefore he says: ***to the two houses of Israel***, that is, to the unfaithful of the ten and the two tribes, or to the scribes and Pharisees, ***for a stone of offense***, as to injury: *for they were offended at the stone of offense*DR: “for they stumbled at the stumblingstone.” (Rom 9:32); ***and for a rock of scandal***, on which the foot strikes, leading to a fall: in Greek, ***scandal*** means a stumbling of the foot: *but we preach Christ crucified: unto the Jews indeed a scandal,*Scandalum*. DR: “stumblingblock.” and unto the Gentiles foolishness* (1 Cor 1:23).  
+He shows the first under the metaphor of a stone lying in the way, which impedes the traveler in two ways: namely, by injuring his foot, and by being an occasion of his falling; and similarly, Christ was to the unbelievers among the Jews an occasion of injury and falling, not from his fault but from theirs. Therefore he says: ***to the two houses of Israel***, that is, to the unfaithful of the ten and the two tribes, or to the scribes and Pharisees, ***for a stone of offense***, as to injury: *for they were offended at the stone of offense* *(DR: “for they stumbled at the stumblingstone.”)* (Rom 9:32); ***and for a rock of scandal***, on which the foot strikes, leading to a fall: in Greek, ***scandal*** means a stumbling of the foot: *but we preach Christ crucified: unto the Jews indeed a scandal, *(*Scandalum*. DR: “stumblingblock.”)* and unto the Gentiles foolishness* (1 Cor 1:23).  
 
-**288**. And because the princes resisted Christ more, he weighs down regarding them: ***to the inhabitants of Jerusalem***, which was the city of their princes, ***for a snare***—like animals they are captured by a snare—and this is weightier than offense, below: ***he that shall rid himself out of the pit, shall be taken in the snare*** (Isa 24:18); ***and a ruin***, which is more than a simple fall: *behold this child is set for the ruin**Ruinam*. DR: “fall.” (Luke 2:34).  
+**288**. And because the princes resisted Christ more, he weighs down regarding them: ***to the inhabitants of Jerusalem***, which was the city of their princes, ***for a snare***—like animals they are captured by a snare—and this is weightier than offense, below: ***he that shall rid himself out of the pit, shall be taken in the snare*** (Isa 24:18); ***and a ruin***, which is more than a simple fall: *behold this child is set for the ruin* *(*Ruinam*. DR: “fall.”)* (Luke 2:34).  
 
-**289**. And because sometimes someone avoids occasions and does not run into them, he therefore removes this and shows the reception of the punishment and says, ***and very many of them shall stumble***, against the ***offense*** he spoke of above, through faithlessness; indeed against the scandal they ***fall*** from worthiness of the kingdom: *but the children of the kingdom shall be cast out into the exterior darkness* (Matt 8:12). ***They shall be broken in pieces***, as to the ruin of punishment, famine and sword, Matthew 21:44: *whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it shall break him to pieces*.*Conteret*. DR: “grind him to powder.” As to the snare he says, they ***shall be snared***, by the ropes of sins and perplexities, which shall not be broken, and so they shall be ***taken*** by the Romans: *he is fast bound with the ropes of his own sins* (Prov 5:22).  
+**289**. And because sometimes someone avoids occasions and does not run into them, he therefore removes this and shows the reception of the punishment and says, ***and very many of them shall stumble***, against the ***offense*** he spoke of above, through faithlessness; indeed against the scandal they ***fall*** from worthiness of the kingdom: *but the children of the kingdom shall be cast out into the exterior darkness* (Matt 8:12). ***They shall be broken in pieces***, as to the ruin of punishment, famine and sword, Matthew 21:44: *whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it shall break him to pieces*. *(*Conteret*. DR: “grind him to powder.”)* As to the snare he says, they ***shall be snared***, by the ropes of sins and perplexities, which shall not be broken, and so they shall be ***taken*** by the Romans: *he is fast bound with the ropes of his own sins* (Prov 5:22).  
 
 **290**. ***Bind up the testimony***. Here he sets out the closing of the law,  
 
-and first, he sets out the hiding of the law, where it says, ***bind up the testimony***, that is, roll up the prophecy of Christ in obscurity, lest the Jews see, for they are unworthy. ***Seal the law***. To seal*Signa*. signifies two things:  
+and first, he sets out the hiding of the law, where it says, ***bind up the testimony***, that is, roll up the prophecy of Christ in obscurity, lest the Jews see, for they are unworthy. ***Seal the law***. To seal *(*Signa*.)* signifies two things:  
 
 sometimes it signifies to close under a seal, and thus he says: ***seal the*** old ***law***, under figures, ***among my disciples***, that is, until my disciples open it by preaching throughout the world: *shut up the words, and seal the book, even to the time appointed* (Dan 12:4); or hide it ***among my disciples***.  
 
-Sometimes it signifies the expression of a figure: *the light of your countenance, O Lord, is sealed*Signatum*. DR: “signed.” upon us* (Ps 4:7). And thus ***seal*** in the soul of ***my disciples***.  
+Sometimes it signifies the expression of a figure: *the light of your countenance, O Lord, is sealed *(*Signatum*. DR: “signed.”)* upon us* (Ps 4:7). And thus ***seal*** in the soul of ***my disciples***.  
 
 Second, the awaiting of what is hidden, ***and I will wait***: *but I will look towards the Lord, I will wait for God* (Mic 7:7).  
 
 Third, the presentation of what is awaited, ***behold I***, namely, Christ, ***and my children***, the apostles, ***whom the Lord has given me***: *thine they were: and to me you gave them* (John 17:6); ***for a sign***, that is, that they may do signs, ***and for a portent***, a wonder, which by its magnitude portends; and this comes to be ***from the Lord, who dwells***, by worship or by faith, ***in Zion***, the Church: *hear, O Jesus you high priest, you and your friends that dwell before you, for they are portending men* (Zech 3:8).  
 
-**291**. Some explain this as concerning Isaiah: ***and my children***, the prophets, according to this, below: ***as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portentPortentum*. DR: “wonder.” ***of three years upon Egypt, and upon Ethiopia*** (Isa 20:3). Others explain this as the sons of Isaiah, and this is false.  
+**291**. Some explain this as concerning Isaiah: ***and my children***, the prophets, according to this, below: ***as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portent*** *(*Portentum*. DR: “wonder.”)* ***of three years upon Egypt, and upon Ethiopia*** (Isa 20:3). Others explain this as the sons of Isaiah, and this is false.  
 
 **292**. ***And when they shall say to you***. Here he removes the communication of diviners; and concerning this, he does three things.  
 
-First, false communication is set out: ***and when they***, your enemies, ***shall say*: *seek of pythons***, which foretell evil things for you and good things for us. The word for ***python*** in Hebrew means “mouth of the abyss.” And JeromeRather, Isidore, *Etymologies* 8.9.21 (PL 82, 313), as cited by St. Thomas, *ST* II-II.95.3. says that they are named after Pythian Apollo, because he invented this kind of magical art, through which the dead seem to be raised and things about the future seem to be predicted, as is read in 1 Samuel 28:8. RabanusAs asserted by S. Langton (ms. F. 184 va), Hugo, Albert (ed. Col. P. 132, 74); cf. Rabanus *In IV Reg*. I c.29 (PL 109, 67B), mentioning Augustine, *De div. quaest. ad Simplicianum* II q. 2 (PL 40, 162). says that it is the name of a malign spirit; likewise, JeromeAs cited by Hugo on this verse; cf. Jerome: “ventriloquists [literally, those who speak from the belly], which we understand to be meant by ‘pythons’” (123B; 12). says that one is called a python who has a devil in his belly. ***And of diviners***, because they claim for themselves an act of God in predicting future things, and especially as to the worship of false gods; ***who mutter***, as though insane: *so they cried with a loud voice, and cut themselves after their manner with knives and lancets, till they were all covered with blood* (1 Kgs 18:28); *let there be no wizard, nor charmer, nor any one that consults pythonic spirits, or fortune tellers, or that seeks the truth from the dead. For the Lord abhors all these things* (Deut 18:10–12).  
+First, false communication is set out: ***and when they***, your enemies, ***shall say*: *seek of pythons***, which foretell evil things for you and good things for us. The word for ***python*** in Hebrew means “mouth of the abyss.” And Jerome *(Rather, Isidore, *Etymologies* 8.9.21 (PL 82, 313), as cited by St. Thomas, *ST* II-II.95.3.)* says that they are named after Pythian Apollo, because he invented this kind of magical art, through which the dead seem to be raised and things about the future seem to be predicted, as is read in 1 Samuel 28:8. Rabanus *(As asserted by S. Langton (ms. F. 184 va), Hugo, Albert (ed. Col. P. 132, 74); cf. Rabanus *In IV Reg*. I c.29 (PL 109, 67B), mentioning Augustine, *De div. quaest. ad Simplicianum* II q. 2 (PL 40, 162).)* says that it is the name of a malign spirit; likewise, Jerome *(As cited by Hugo on this verse; cf. Jerome: “ventriloquists [literally, those who speak from the belly], which we understand to be meant by ‘pythons’” (123B; 12).)* says that one is called a python who has a devil in his belly. ***And of diviners***, because they claim for themselves an act of God in predicting future things, and especially as to the worship of false gods; ***who mutter***, as though insane: *so they cried with a loud voice, and cut themselves after their manner with knives and lancets, till they were all covered with blood* (1 Kgs 18:28); *let there be no wizard, nor charmer, nor any one that consults pythonic spirits, or fortune tellers, or that seeks the truth from the dead. For the Lord abhors all these things* (Deut 18:10–12).  
 
 **293**. Second, the response is taught: ***should not the*** faithful ***people seek of their*** true ***God, for the living and the dead***, that is, for the salvation of the living and the dead: *is it because there was no God in Israel, that you send to Beelzebub, the god of Accaron?* (2 Kgs 1:6). Or for ***the living and the dead***, that is, in place of your gods, who were made in imitation of men, both dead and living. Or we seek a vision for ***the living and the dead***, just as you do, namely, from your gods, who are like the dead. ***To the law rather***, which prohibits such things, or which teaches what is to be awaited; ***the testimony*** of Scripture.  
 
@@ -328,13 +328,13 @@ second, impatience in punishment: ***and when they shall be hungry*** (Isa 8:21)
 
 third, the sadness of despair: ***and they shall look upwards*** (Isa 8:21).  
 
-Therefore, he first says: ***and if they speak not according to this word***, namely, responding to it, we shall make it so that ***they shall not have the morning light***, that is, Christ expelling the darkness: *that was the true light, which enlightens every man that comes into this world* (John 1:9). ***And it shall pass by them***, the congregation, to others, not remaining among them, below: ***here I am*** (Isa 58:9), for I the Lord your God am merciful; ***they shall fall*** into condemnation, ***and they shall be hungry*** for the word of God: *behold I will send forth a famine into the land: not a famine of bread, nor a thirst of water, but of hearing the word of God**Dei*. Vg.: *Domini*. DR: “the Lord.” (Amos 8:11). Or ***the light*** of consolation; ***and they shall fall*** into condemnation, above: ***Jerusalem is ruined, and Judah is fallen*** (Isa 3:8); ***and be hungry***, for bread.  
+Therefore, he first says: ***and if they speak not according to this word***, namely, responding to it, we shall make it so that ***they shall not have the morning light***, that is, Christ expelling the darkness: *that was the true light, which enlightens every man that comes into this world* (John 1:9). ***And it shall pass by them***, the congregation, to others, not remaining among them, below: ***here I am*** (Isa 58:9), for I the Lord your God am merciful; ***they shall fall*** into condemnation, ***and they shall be hungry*** for the word of God: *behold I will send forth a famine into the land: not a famine of bread, nor a thirst of water, but of hearing the word of God* *(*Dei*. Vg.: *Domini*. DR: “the Lord.”)* (Amos 8:11). Or ***the light*** of consolation; ***and they shall fall*** into condemnation, above: ***Jerusalem is ruined, and Judah is fallen*** (Isa 3:8); ***and be hungry***, for bread.  
 
 **295**. ***And when they shall be hungry***. Here he threatens impatience in punishment, as to wrath of the heart: ***they will be angry***: *they shall murmur if they be not filled* (Ps 58:16[59:15]); as to blasphemy of the mouth, ***and curse***: *and they blasphemed the God of heaven, because of their pains and wounds: and did not penance for their works* (Rev 16:11).  
 
 **296**. ***And look upwards***. Here he sets out the sadness of despair,  
 
-and first, the expectation of help: ***look upwards***, seeking help from heaven. ***And they shall look to the earth***, to help from earth; above: ***they shall look*Aspiciet*. Vg.: *aspiciemus*. DR: “we shall look.” towards the land, and behold darkness of tribulation*** (Isa 5:30).  
+and first, the expectation of help: ***look upwards***, seeking help from heaven. ***And they shall look to the earth***, to help from earth; above: ***they shall look *(*Aspiciet*. Vg.: *aspiciemus*. DR: “we shall look.”)* towards the land, and behold darkness of tribulation*** (Isa 5:30).  
 
 Second, the imminence of danger: ***and behold trouble***, foreseen, ***and darkness***, as to counsel of resistance, ***weakness***, against strengthening, ***and distress***, as to perplexity, ***and a mist following them***, as to persecution: *and his kingdom became dark* (Rev 16:10).  
 

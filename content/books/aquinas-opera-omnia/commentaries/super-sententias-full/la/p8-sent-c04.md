@@ -102,7 +102,7 @@ Ad primum ergo dicendum, quod vocatio ibi praeponitur justificationi: quia prius
 
 Ad secundum dicendum, quod objectio procedit de primis duabus justificationibus, non de tertia.  
 
-Ad tertium dicendum, quod ille non justificat*ille non justificat.—ille qui justificatur non justificatur* PLE. quantum ad terminum a quo erat distans, sed quantum ad terminum ad quem est prope; et hoc competit ei quod dictum est.  
+Ad tertium dicendum, quod ille non justificat *(*ille non justificat.—ille qui justificatur non justificatur* PLE.)* quantum ad terminum a quo erat distans, sed quantum ad terminum ad quem est prope; et hoc competit ei quod dictum est.  
 
 Quaestiuncula 3  
 
@@ -362,7 +362,7 @@ Et per hoc patet responsio ad objecta.
 
 Quaestiuncula 3  
 
-Ad tertiam quaestionem dicendum, quod motus liberi arbitrii,*arbitrii.—arbitrii in Deum* PLE. ut ex dictis patet, directe respondet gratiae infusioni; motus autem liberi arbitrii in peccatum directe respondet remissioni culpae; unde eadem ratio est de ordine istorum ad invicem, et de ordine remissionis culpae ad infusionem gratiae.  
+Ad tertiam quaestionem dicendum, quod motus liberi arbitrii, *(*arbitrii.—arbitrii in Deum* PLE.)* ut ex dictis patet, directe respondet gratiae infusioni; motus autem liberi arbitrii in peccatum directe respondet remissioni culpae; unde eadem ratio est de ordine istorum ad invicem, et de ordine remissionis culpae ad infusionem gratiae.  
 
 Ad primum ergo dicendum, quod Augustinus loquitur de timore servili, cujus actus non est motus liberi arbitrii qui est simul cum justificatione: quia timor servilis non est simul cum gratia, qua iste motus informatur; et ideo ratio non est ad propositum.  
 
@@ -562,7 +562,7 @@ Ad primum ergo dicendum, quod non est simile de fide et contritione, ut dictum e
 
 Ad secundum dicendum, quod remota privatione a materia quae manet perfectione adveniente, formatur materia illa; sed dolor ille qui erat informis, non manet caritate adveniente; et ideo formari non potest. Vel dicendum, quod materiae essentia non habet originem a forma, sicut actus habet originem ab habitu quo formatur; unde non est inconveniens materiam informari aliqua forma de novo, qua prius non informabatur; sed hoc de actu est impossibile, sicut impossibile est quod aliquid idem numero oriatur a principio a quo prius non oriebatur; quia res semel tantum in esse procedit.  
 
-Ad tertium dicendum, quod quamvis motus intellectus et voluntatis habeat totam suam speciem in uno instanti, sicut et res permanent;*res permanent.—res permanens* PLE. tamen secundum accidens mensuratur tempore, secundum quod causae suae variabiles sunt per tempus. Sic enim esse hominem, quod est in instanti, tempore mensuratur; et quamdiu causae esse hominis manent eaedem, et ipsum esse manet; sed mutatis causis, mutatur illud esse, priori destructo: quia generatio unius est corruptio alterius. Et similiter ipsa dispositio voluntatis quae talem actum causabat, mutatur et transit, et actus ille idem non manet, nec semel transiens potest iterum resumi.  
+Ad tertium dicendum, quod quamvis motus intellectus et voluntatis habeat totam suam speciem in uno instanti, sicut et res permanent; *(*res permanent.—res permanens* PLE.)* tamen secundum accidens mensuratur tempore, secundum quod causae suae variabiles sunt per tempus. Sic enim esse hominem, quod est in instanti, tempore mensuratur; et quamdiu causae esse hominis manent eaedem, et ipsum esse manet; sed mutatis causis, mutatur illud esse, priori destructo: quia generatio unius est corruptio alterius. Et similiter ipsa dispositio voluntatis quae talem actum causabat, mutatur et transit, et actus ille idem non manet, nec semel transiens potest iterum resumi.  
 
 Articulus 2  
 
@@ -656,7 +656,7 @@ Ad quartum dicendum, quod post contritionem de mortali potest remanere veniale, 
 
 Quaestiuncula 4  
 
-Ad quartam quaestionem dicendum, quod in omnibus motoribus et mobilibus ordinatis ita est quod motor inferior habet motum proprium, et praeter hoc sequitur in aliquo motum superioris motoris; sicut patet in motu planetarum, qui praeter motus proprios sequuntur motum primi orbis. Omnibus autem virtutibus moralibus motor est ipsa prudentia, quae dicitur auriga virtutum; et ideo quaelibet virtus moralis cum motu proprio habet aliquid de motu prudentiae; et ideo, cum poenitentia sit quaedam virtus moralis, quia est pars justitiae, cum actu proprio consequitur prudentiae motum. Proprius autem actus ejus est in objectum proprium, quod est peccatum commissum; et ideo ejus actus principalis, scilicet contritio, secundum suam speciem respicit tantum peccatum praeteritum; sed ex consequenti respicit futurum, secundum quod habet aliquid de actu prudentiae adjunctum, et non tantum*tantum.—tamen* PLE. in illud futurum rationem*rationem.—secundum rationem* PLE. propriae speciei movetur; et propter hoc ille qui conteritur, dolet de peccato praeterito, et cavet futurum: sed non dicitur esse contritio de peccato futuro, sed magis cautio, quae est pars prudentiae contritioni adjuncta.  
+Ad quartam quaestionem dicendum, quod in omnibus motoribus et mobilibus ordinatis ita est quod motor inferior habet motum proprium, et praeter hoc sequitur in aliquo motum superioris motoris; sicut patet in motu planetarum, qui praeter motus proprios sequuntur motum primi orbis. Omnibus autem virtutibus moralibus motor est ipsa prudentia, quae dicitur auriga virtutum; et ideo quaelibet virtus moralis cum motu proprio habet aliquid de motu prudentiae; et ideo, cum poenitentia sit quaedam virtus moralis, quia est pars justitiae, cum actu proprio consequitur prudentiae motum. Proprius autem actus ejus est in objectum proprium, quod est peccatum commissum; et ideo ejus actus principalis, scilicet contritio, secundum suam speciem respicit tantum peccatum praeteritum; sed ex consequenti respicit futurum, secundum quod habet aliquid de actu prudentiae adjunctum, et non tantum *(*tantum.—tamen* PLE.)* in illud futurum rationem *(*rationem.—secundum rationem* PLE.)* propriae speciei movetur; et propter hoc ille qui conteritur, dolet de peccato praeterito, et cavet futurum: sed non dicitur esse contritio de peccato futuro, sed magis cautio, quae est pars prudentiae contritioni adjuncta.  
 
 Ad primum ergo dicendum, quod liberum arbitrium dicitur esse de contingentibus futuris, secundum quod est de actibus, sed non secundum quod est de objectis actuum; quia homo potest cogitare ex libero arbitrio de rebus praeteritis et necessariis; sed tamen ipse actus cogitationis, secundum quod sub libero arbitrio cadit, contingens futurum est; et sic etiam actus contritionis contingens futurum est, secundum quod sub libero arbitrio cadit; sed objectum ejus potest esse praeteritum.  
 
@@ -750,7 +750,7 @@ Ad secundum dicendum, quod ratio illa procedit de dolore qui est in ratione; ter
 
 Quaestiuncula 3  
 
-Ad tertiam quaestionem dicendum, quod de contritione dupliciter possumus loqui. Uno modo secundum quod singillatim singulis peccatis respondet: et sic quantum ad dolorem superioris affectus requiritur quod de majori peccato quis doleat magis; quia ratio doloris est major in uno quam in alio, scilicet offensa Dei; ex magis enim inordinato actu Deus magis offenditur. Similiter etiam cum majori culpae major poena debeatur, etiam dolor sensitivae partis, secundum quod pro peccato ex electione assumitur poena peccati, quasi*assumitur poena peccati, quasi.—assumitur quasi poena peccati* PLE. debet esse major de majori peccato: secundum autem quod ex impressione superioris appetitus nascitur, in inferiori attenditur quantitas doloris secundum dispositionem partis ad recipiendam impressionem a superiori, et non secundum quantitatem peccati. Alio modo potest accipi contritio secundum quod est simul de omnibus, sicut in actu justificationis; et haec quidem contritio vel ex singulorum consideratione peccatorum procedit; et sic quamvis sit actus unus, tamen distinctio peccatorum manet virtute in ipso; vel ad minus habet propositum de singulis cogitandi annexum; et sic etiam habitualiter est magis de uno quam de alio.  
+Ad tertiam quaestionem dicendum, quod de contritione dupliciter possumus loqui. Uno modo secundum quod singillatim singulis peccatis respondet: et sic quantum ad dolorem superioris affectus requiritur quod de majori peccato quis doleat magis; quia ratio doloris est major in uno quam in alio, scilicet offensa Dei; ex magis enim inordinato actu Deus magis offenditur. Similiter etiam cum majori culpae major poena debeatur, etiam dolor sensitivae partis, secundum quod pro peccato ex electione assumitur poena peccati, quasi *(*assumitur poena peccati, quasi.—assumitur quasi poena peccati* PLE.)* debet esse major de majori peccato: secundum autem quod ex impressione superioris appetitus nascitur, in inferiori attenditur quantitas doloris secundum dispositionem partis ad recipiendam impressionem a superiori, et non secundum quantitatem peccati. Alio modo potest accipi contritio secundum quod est simul de omnibus, sicut in actu justificationis; et haec quidem contritio vel ex singulorum consideratione peccatorum procedit; et sic quamvis sit actus unus, tamen distinctio peccatorum manet virtute in ipso; vel ad minus habet propositum de singulis cogitandi annexum; et sic etiam habitualiter est magis de uno quam de alio.  
 
 Ad primum ergo dicendum, quod Paula non laudatur de hoc quod de omnibus peccatis doleret aequaliter; sed quia de parvis peccatis tantum dolebat ac si essent magna, per comparationem ad alios qui de peccatis dolent; sed ipsa multo amplius de majoribus doluisset.  
 
@@ -958,7 +958,7 @@ Quaestiuncula 4
 
 Ulterius. Videtur quod statim teneatur confiteri. Dicit enim Hugo de sancto Victore: *si necessitas non est quae praetendatur, contemptus non excusatur*. Sed quilibet tenetur vitare contemptum. Ergo quilibet tenetur statim confiteri cum potest.  
 
-Praeterea, quilibet tenetur plus facere ad evadendum a morbo spirituali quam ad evadendum a morbo corporali. Sed aliquis infirmus corporaliter non sine detrimento salutis medicum requirere tardat. Ergo videtur quod non possit esse sine detrimento salutis quod aliquis sacerdoti cujus copiam habet*habet.—habet, de peccato non statim* PLE. confiteatur.  
+Praeterea, quilibet tenetur plus facere ad evadendum a morbo spirituali quam ad evadendum a morbo corporali. Sed aliquis infirmus corporaliter non sine detrimento salutis medicum requirere tardat. Ergo videtur quod non possit esse sine detrimento salutis quod aliquis sacerdoti cujus copiam habet *(*habet.—habet, de peccato non statim* PLE.)* confiteatur.  
 
 Praeterea, illud quod sine termino debetur, statim debetur. Sed sine termino debet homo confessionem Deo. Ergo tenetur ad statim.  
 
@@ -1056,7 +1056,7 @@ Praeterea, actus virtutis magis potest convenire innocenti quam ei qui peccavit.
 
 Praeterea, gratia quae est in sacramentis, aliquo modo differt a gratia quae est in virtutibus et donis, ut in prima distinctione dictum est. Sed confessio est sacramenti pars. Ergo non est actus virtutis.  
 
-Sed contra, non*contra, non.—contra, praecepta legis sunt de actibus virtutum. Sed confessio cadit sub praecepto; ergo est actus virtutis. Praeterea, non* PLE. meremur nisi actibus virtutum. Sed confessio est meritoria, quia aperit caelum, ut in littera Magister dicit. Ergo videtur quod sit actus virtutis.  
+Sed contra, non *(*contra, non.—contra, praecepta legis sunt de actibus virtutum. Sed confessio cadit sub praecepto; ergo est actus virtutis. Praeterea, non* PLE.)* meremur nisi actibus virtutum. Sed confessio est meritoria, quia aperit caelum, ut in littera Magister dicit. Ergo videtur quod sit actus virtutis.  
 
 Quaestiuncula 3  
 
@@ -1254,7 +1254,7 @@ Quaestiuncula 2
 
 Ulterius. Videtur quod non oporteat confessionem esse integram, ut scilicet omnia peccata uni sacerdoti confiteatur aliquis. Quia erubescentia facit ad diminutionem poenae. Sed quanto pluribus sacerdotibus quis confitetur; tanto majorem erubescentiam patitur. Ergo fructuosior erit confessio, si pluribus sacerdotibus dividat.  
 
-Praeterea, confessio ad hoc necessaria est in poenitentia, ut poena secundum arbitrium sacerdotis, peccato taxetur. Sed sufficiens poena potest imponi a sacerdotibus*a sacerdotibus.—a diversis sacerdotibus* PLE. de diversis peccatis. Ergo non oportet uni sacerdoti omnia peccata confiteri.  
+Praeterea, confessio ad hoc necessaria est in poenitentia, ut poena secundum arbitrium sacerdotis, peccato taxetur. Sed sufficiens poena potest imponi a sacerdotibus *(*a sacerdotibus.—a diversis sacerdotibus* PLE.)* de diversis peccatis. Ergo non oportet uni sacerdoti omnia peccata confiteri.  
 
 Praeterea, potest contingere quod post confessionem factam et satisfactionem perfectam recordetur quis alicujus peccati mortalis, quod dum confitebatur, in memoria non habebat; et tunc copiam proprii sacerdotis, cui primo confessus fuerit, habere non poterit. Ergo poterit illud solum peccatum alteri confiteri; et sic diversa peccata diversis sacerdotibus confitebitur.  
 
@@ -1354,7 +1354,7 @@ Quaestiuncula 2
 
 Ulterius. Videtur quod confessio non liberet aliquo modo a poena. Quia peccato non debetur nisi poena aeterna, vel temporalis. Sed poena aeterna per contritionem dimittitur, poena autem temporalis per satisfactionem. Ergo per confessionem nihil dimittitur de poena.  
 
-Praeterea, *voluntas pro facto reputatur*, ut in littera dicitur. Sed ille qui confessus*confessus.—contritus* PLE. est, habuit propositum confitendi. Ergo tantum valuit sibi sicut si fuisset confessus; et ita per confessionem quam postea facit, nihil de poena dimittitur.  
+Praeterea, *voluntas pro facto reputatur*, ut in littera dicitur. Sed ille qui confessus *(*confessus.—contritus* PLE.)* est, habuit propositum confitendi. Ergo tantum valuit sibi sicut si fuisset confessus; et ita per confessionem quam postea facit, nihil de poena dimittitur.  
 
 Sed contra, confessio poenam habet. Sed per alia opera poenalia expiatur poena peccato debita. Ergo et per confessionem.  
 
@@ -1438,6 +1438,6 @@ Expositio textus
 
 *Quanto pluribus confitetur*: non dividens peccata, sed integre omnibus. Consequitur autem majorem veniam saltem propter erubescentiam et sacerdotis intercessionem; vel etiam ex vi clavium, ut quidam dicunt. Sed de hoc in propinqua dist. dicetur.  
 
-*Qui sciat ligare et solvere*. Haec scientia, etsi non sit major, tamen tanta debet esse ut sciat distinguere inter peccatum et non peccatum, et peccatum mortale et veniale; et si in aliquo esset dubitatio, posset ad discretiores recurrere. Ponuntur autem multae conditiones aliae, quae ad confessorem requiruntur, ut confitentes alliciat, quae his versibus continentur: *confessor dulcis, affabilis, atque suavis, prudens, discretus, mitis, plus*,*plus.—pius* PLE. *atque benignus*.  
+*Qui sciat ligare et solvere*. Haec scientia, etsi non sit major, tamen tanta debet esse ut sciat distinguere inter peccatum et non peccatum, et peccatum mortale et veniale; et si in aliquo esset dubitatio, posset ad discretiores recurrere. Ponuntur autem multae conditiones aliae, quae ad confessorem requiruntur, ut confitentes alliciat, quae his versibus continentur: *confessor dulcis, affabilis, atque suavis, prudens, discretus, mitis, plus*, *(*plus.—pius* PLE.)* *atque benignus*.  
 
 *Non petat sacerdotes per aliquam culpam ab Ecclesiae unitate divisos*: quia tales executionem ordinis non habent, et jurisdictione carent; et loquitur de divisione per haeresim, aut schisma, aut excommunicationem.

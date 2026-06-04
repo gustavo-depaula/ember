@@ -26,7 +26,7 @@ Term 4
 
 ***Calipso***
 
-Calipso's warning was this: keep your ship out of the surf and spray. Homer, *Odyssey* 12.219.  
+Calipso's warning was this: keep your ship out of the surf and spray.  *(Homer, *Odyssey* 12.219.)*  
 
 Term 5  
 

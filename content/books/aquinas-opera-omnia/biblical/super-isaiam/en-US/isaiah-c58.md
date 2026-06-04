@@ -88,9 +88,9 @@ Second, he sets out the order of fulfillment, and first, as to the worship of th
 
 first, from predestination, above: ***the Lord has called me from the womb, from the bowels of my mother he has been mindful of my name*** (Isa 49:1);  
 
-second, from divine obtaining,*Adeptione*, but perhaps we should read *adoptione*. *behold what manner of charity the Father has bestowed upon us, that we should be called and should be the sons of God* (1 John 3:1);  
+second, from divine obtaining, *(*Adeptione*, but perhaps we should read *adoptione*.)* *behold what manner of charity the Father has bestowed upon us, that we should be called and should be the sons of God* (1 John 3:1);  
 
-third, from the infusion of grace: *you have a name and hold fast my name* (Rev 2:13);Cf. Rev 3:1.  
+third, from the infusion of grace: *you have a name and hold fast my name* (Rev 2:13); *(Cf. Rev 3:1.)*  
 
 fourth, from the renewal of their minds: *I will give him a white counter: and in the counter, a new name written* (Rev 2:17).  
 

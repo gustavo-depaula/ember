@@ -42,7 +42,7 @@ corda, voces, et opera.
 - Te, trina deitas unaque, poscimus,  
   sicut nos visitas, sicut te colimus,  
   per tuas semitas duc nos, quo tendimus,  
-  ad lucem, quam inhabitas. Amen.Music for the “amen” is not found in the manuscript.
+  ad lucem, quam inhabitas. Amen. *(Music for the “amen” is not found in the manuscript.)*
 - In primo nocturno
 
 ***{image-209}***

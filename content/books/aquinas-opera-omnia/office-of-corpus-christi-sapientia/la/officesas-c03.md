@@ -72,7 +72,7 @@ Venit ad vitae vesperam.
 - Uni trinoque Domino  
   sit sempiterna gloria  
   qui vitam sine termino  
-  nobis donet in patria. Amen.Music for the “amen” is not found in the manuscript.
+  nobis donet in patria. Amen. *(Music for the “amen” is not found in the manuscript.)*
 - Versiculus
 
 ***℣. Omnia a te expectant, alleluia.***

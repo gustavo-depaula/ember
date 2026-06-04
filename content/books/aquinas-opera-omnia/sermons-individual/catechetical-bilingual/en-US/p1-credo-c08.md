@@ -2,7 +2,7 @@
 
 ***From Thence He Shall Come to Judge the Living and the Dead***
 
-It is of the office of a king and lord to pronounce judgment: *the king who sits on the throne of judgment scatters away all evil with his look* (Prov 20:8).Parallel texts: *ST* III.59.1, 2; *In IV Sent*. 47.1.2, qa. 3; *In IV Sent*. 48.1.1, ad 4; *SCG* IV.96; *Compendium theologiae*, ch. 241, *Quodlibet X*, q. 1, a. 2; *Commentary on Matthew*, ch. 25; *Commentary on John*, ch. 5, lect. 4–5. Since Christ, therefore, ascended into heaven and sits at the right hand of God as Lord of all, it is clear that his is the office of judge. For this reason, we say in the rule of Catholic faith that ***he shall come to judge the living and the dead***. Indeed, the angels have said: *this Jesus who has been taken up from you into heaven shall come again as you have seen him going into heaven* (Acts 1:11).  
+It is of the office of a king and lord to pronounce judgment: *the king who sits on the throne of judgment scatters away all evil with his look* (Prov 20:8). *(Parallel texts: *ST* III.59.1, 2; *In IV Sent*. 47.1.2, qa. 3; *In IV Sent*. 48.1.1, ad 4; *SCG* IV.96; *Compendium theologiae*, ch. 241, *Quodlibet X*, q. 1, a. 2; *Commentary on Matthew*, ch. 25; *Commentary on John*, ch. 5, lect. 4–5.)* Since Christ, therefore, ascended into heaven and sits at the right hand of God as Lord of all, it is clear that his is the office of judge. For this reason, we say in the rule of Catholic faith that ***he shall come to judge the living and the dead***. Indeed, the angels have said: *this Jesus who has been taken up from you into heaven shall come again as you have seen him going into heaven* (Acts 1:11).  
 
 We will consider three facts about the judgment.  
 

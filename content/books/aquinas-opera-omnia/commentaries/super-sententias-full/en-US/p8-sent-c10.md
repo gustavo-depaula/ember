@@ -2,13 +2,13 @@
 
 ***On extreme unction***
 
-After the Master has examined baptism, which is the sacrament of those entering, and confirmation, Eucharist, and penance, which are sacraments of those progressing, here in the fifth place he considers extreme unction, which is the sacrament of those departing. And this is divided into two parts: in the first he considers the sacrament itself; in the second, its use, at: *some ask whether this sacrament can be repeated*.*Sententiae* IV, 23.4 (130). 1.  
+After the Master has examined baptism, which is the sacrament of those entering, and confirmation, Eucharist, and penance, which are sacraments of those progressing, here in the fifth place he considers extreme unction, which is the sacrament of those departing. And this is divided into two parts: in the first he considers the sacrament itself; in the second, its use, at: *some ask whether this sacrament can be repeated*. *(*Sententiae* IV, 23.4 (130). 1.)*  
 
-The first is in two parts: in the first part he distinguishes this sacrament from other anointings; in the second, he determines all the things that pertain to this sacrament, at: *we read that this sacrament of anointing the sick was instituted by the Apostles*.*Sent*. IV, 23.3 (129). 1.  
+The first is in two parts: in the first part he distinguishes this sacrament from other anointings; in the second, he determines all the things that pertain to this sacrament, at: *we read that this sacrament of anointing the sick was instituted by the Apostles*. *(*Sent*. IV, 23.3 (129). 1.)*  
 
-And concerning this he does three things: first, he examines its institution; second, its effect, at: *in this passage, it is shown that this sacrament was instituted for a double cause*;*Sent*. IV, 23.3 (129). 2. third, the resemblance of this sacrament to the others, at: *And as in other sacraments, so also in this one, the sacrament is one thing, the thing of the sacrament is another*.*Sent*. IV, 23.3 (129). 3.  
+And concerning this he does three things: first, he examines its institution; second, its effect, at: *in this passage, it is shown that this sacrament was instituted for a double cause*; *(*Sent*. IV, 23.3 (129). 2.)* third, the resemblance of this sacrament to the others, at: *And as in other sacraments, so also in this one, the sacrament is one thing, the thing of the sacrament is another*. *(*Sent*. IV, 23.3 (129). 3.)*  
 
-*Some ask whether this sacrament can be repeated*. Here he considers the use of this sacrament; and it is divided into two according to the two opinions he touches on concerning the repetition of this sacrament, and of others as a result; the second opinion is shown here: *but some want it to be understood that each and every sacrament is not to be repeated*.*Sent*. IV, 23.4 (130). 4.  
+*Some ask whether this sacrament can be repeated*. Here he considers the use of this sacrament; and it is divided into two according to the two opinions he touches on concerning the repetition of this sacrament, and of others as a result; the second opinion is shown here: *but some want it to be understood that each and every sacrament is not to be repeated*. *(*Sent*. IV, 23.4 (130). 4.)*  
 
 Here there are two questions. First, concerning the sacrament of extreme unction itself; second, its administration and use.  
 
@@ -29,11 +29,11 @@ first, about extreme unction itself;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 65, a. 1. It seems that extreme unction is not a sacrament. For just as oil is used for the sick, so also for catechumens. But the anointing that is done with oil for catechumens is not a sacrament. Therefore, neither is extreme unction, which is done with oil for the sick.  
+Obj. 1: To the first question we proceed thus. *(Parallels: *ST* III, q. 65, a. 1.)* It seems that extreme unction is not a sacrament. For just as oil is used for the sick, so also for catechumens. But the anointing that is done with oil for catechumens is not a sacrament. Therefore, neither is extreme unction, which is done with oil for the sick.  
 
 Obj. 2: Furthermore, the sacraments of the old law were signs of the sacraments of the new law. But extreme unction does not have any prefiguring in the old law. Therefore, it is not a sacrament of the new law.  
 
-Obj. 3: Furthermore, according to Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1 (PG 3:503). every sacrament is either for purifying or illuminating or perfecting. But extreme unction is not considered as purifying, nor as illuminating, for this is only attributed to baptism; nor as perfecting, for this, according to him, pertains to chrismation and Eucharist. Therefore, extreme unction is not a sacrament.  
+Obj. 3: Furthermore, according to Dionysius, *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1 (PG 3:503).)* every sacrament is either for purifying or illuminating or perfecting. But extreme unction is not considered as purifying, nor as illuminating, for this is only attributed to baptism; nor as perfecting, for this, according to him, pertains to chrismation and Eucharist. Therefore, extreme unction is not a sacrament.  
 
 On the contrary (1), the Church’s sacraments sufficiently supply the defects of men according to every state. But for those departing, there is no other help but extreme unction. Therefore, it is a sacrament.  
 
@@ -53,7 +53,7 @@ Furthermore (2), if it were not one sacrament, then once the first anointing was
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that this sacrament was not instituted by Christ.Parallel: *In IV Sent*. d. 2, q. 1, a. 4, qa. 4, ad 1. For the institution of those sacraments that Christ instituted is mentioned in the Gospel, as is the case with the Eucharist and baptism. But no mention is made of extreme unction. Therefore, it was not instituted by Christ.  
+Obj. 1: Moreover, it seems that this sacrament was not instituted by Christ. *(Parallel: *In IV Sent*. d. 2, q. 1, a. 4, qa. 4, ad 1.)* For the institution of those sacraments that Christ instituted is mentioned in the Gospel, as is the case with the Eucharist and baptism. But no mention is made of extreme unction. Therefore, it was not instituted by Christ.  
 
 Obj. 2: Furthermore, the Master expressly says in the text that it was instituted by the apostles. Therefore, Christ did not institute it himself.  
 
@@ -69,7 +69,7 @@ To the first question, I answer that some of those things that the Church works 
 
 Reply Obj. 1: The oil that catechumens are anointed with does not lead to the remission of sins by its anointing, for this pertains to baptism, but this anointing disposes in some way to baptism, as was said above in Distinction 6. And therefore that anointing is not a sacrament like extreme unction.  
 
-Reply Obj. 2: This sacrament immediately disposes a person to glory, since it is given to those departing from the body. And since in the old law it was still not the time for attaining glory, since the law led no one to glory,A variant reading has *perfectum* instead of *gloriam*, being thus reminiscent of Hebrews 7:19. therefore, that sacrament did not have to be prefigured by any sacrament corresponding to it as by a figure of the same genus, although it was figured in a certain way by remote figures in all the cures that are read about in the Old Testament.  
+Reply Obj. 2: This sacrament immediately disposes a person to glory, since it is given to those departing from the body. And since in the old law it was still not the time for attaining glory, since the law led no one to glory, *(A variant reading has *perfectum* instead of *gloriam*, being thus reminiscent of Hebrews 7:19.)* therefore, that sacrament did not have to be prefigured by any sacrament corresponding to it as by a figure of the same genus, although it was figured in a certain way by remote figures in all the cures that are read about in the Old Testament.  
 
 Reply Obj. 3: Dionysius does not make any mention of extreme unction, nor of penance or matrimony, because he did not intend to define the sacraments except insofar as he could make known by them the ordered disposition of the ecclesiastical hierarchy as to the ministers and actions of the ministers, and their recipients. Nevertheless, since by extreme unction a person obtains grace and the remission of sins, there is no doubt that it has illuminative and purifying power like baptism, although not so fully.  
 
@@ -99,7 +99,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second question we proceed thus.Parallels: above, d. 17, q. 3, a. 3, qa. 3, ad 2; d. 2, q. 1, a. 1, qa. 4; *SCG* IV, ch. 73; *de Malo*, q. 7, a. 11, ad 14. It seems that extreme unction does not avail to the remission of sins. For when one thing can bring about an effect, another is not required. But in someone who receives extreme unction, penance is required for the remission of sins. Therefore, sins are not forgiven by extreme unction.  
+Obj. 1: To the second question we proceed thus. *(Parallels: above, d. 17, q. 3, a. 3, qa. 3, ad 2; d. 2, q. 1, a. 1, qa. 4; *SCG* IV, ch. 73; *de Malo*, q. 7, a. 11, ad 14.)* It seems that extreme unction does not avail to the remission of sins. For when one thing can bring about an effect, another is not required. But in someone who receives extreme unction, penance is required for the remission of sins. Therefore, sins are not forgiven by extreme unction.  
 
 Obj. 2: Furthermore, in sin there are only three things: the stain, the obligation to punishment, and the remains of sin. But by extreme unction sin is not forgiven in its stain without contrition, which forgives even without an anointing; nor again as to punishment, for if he recovers afterward, he is bound to complete the satisfaction enjoined; nor as to what sin leaves behind, for the dispositions left from the previous acts still remain, as is seen after the recovery. Therefore, the remission of sins does not happen in any way by extreme unction.  
 
@@ -111,7 +111,7 @@ Furthermore (2), every sacrament of the new law confers grace. But the remission
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that physical health is not an effect of this sacrament.Parallel: *SCG* IV, ch. 73. For every sacrament is a spiritual medicine. But spiritual medicine is ordered to spiritual health, just as physical medicine is to physical health. Therefore, physical health is not an effect of this sacrament.  
+Obj. 1: Moreover, it seems that physical health is not an effect of this sacrament. *(Parallel: *SCG* IV, ch. 73.)* For every sacrament is a spiritual medicine. But spiritual medicine is ordered to spiritual health, just as physical medicine is to physical health. Therefore, physical health is not an effect of this sacrament.  
 
 Obj. 2: Furthermore, a sacrament always has its effect in anyone who does not receive it falsely. But sometimes the person receiving this sacrament is not physically healed, although he receives it devoutly. Therefore, physical health is not its effect.  
 
@@ -123,7 +123,7 @@ Furthermore (2), the sacraments effect by signifying. But baptism signifies and 
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that this sacrament impresses a character.Parallel: below, q. 2, a. 1, qa. 3, ad 1. For a character is a distinctive sign. But as the baptized is distinguished from the non-baptized, so is the anointed distinguished from the unanointed. Therefore, as baptism impresses a character, so does extreme unction.  
+Obj. 1: Moreover, it seems that this sacrament impresses a character. *(Parallel: below, q. 2, a. 1, qa. 3, ad 1.)* For a character is a distinctive sign. But as the baptized is distinguished from the non-baptized, so is the anointed distinguished from the unanointed. Therefore, as baptism impresses a character, so does extreme unction.  
 
 Obj. 2: Furthermore, in the sacraments of holy orders and confirmation there is an anointing, just as in this sacrament. But in them a character is imprinted. Therefore, also in this sacrament.  
 
@@ -173,7 +173,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the third question we proceed thus.Parallel: *SCG* IV, ch. 73. It seems that olive oil is not the appropriate matter for this sacrament. For this sacrament orders one immediately to incorruption. But incorruption is signified by balsam, which is used in chrism. Therefore, chrism would be more appropriate matter for this sacrament.  
+Obj. 1: To the third question we proceed thus. *(Parallel: *SCG* IV, ch. 73.)* It seems that olive oil is not the appropriate matter for this sacrament. For this sacrament orders one immediately to incorruption. But incorruption is signified by balsam, which is used in chrism. Therefore, chrism would be more appropriate matter for this sacrament.  
 
 Obj. 2: Furthermore, this sacrament is a spiritual medication. But spiritual medication is signified by the application of wine, as is clear from Luke 10:34, in the parable of the Good Samaritan. Therefore, wine would be a more appropriate matter for this sacrament.  
 
@@ -185,7 +185,7 @@ Furthermore (2), spiritual healing is signified by the anointing of oil, as is c
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that it need not be consecrated oil.Parallel: *ST* III, q. 72, a. 3. For this sacrament has one sanctification, by the form of words at its use. Therefore, another sanctification would be superfluous, if it were done to its matter.  
+Obj. 1: Moreover, it seems that it need not be consecrated oil. *(Parallel: *ST* III, q. 72, a. 3.)* For this sacrament has one sanctification, by the form of words at its use. Therefore, another sanctification would be superfluous, if it were done to its matter.  
 
 Obj. 2: Furthermore, sacraments have efficacy and signification in their very matter. But the signification of the effect of this sacrament is suited to oil by its natural property, while its efficacy is from divine institution. Therefore, no sanctification of the matter is necessary  
 
@@ -197,7 +197,7 @@ Quaestiuncula 3
 
 Obj. 1: Moreover, it seems that it is not necessary for the matter of this sacrament to be consecrated by a bishop. For the consecration of the matter in the sacrament of the Eucharist is nobler than in this sacrament. But a priest can consecrate the matter in the Eucharist. Therefore, also in this sacrament.  
 
-Obj. 2: Furthermore, in physical operations, the nobler art never prepares the matter for a lower one, for it is nobler to use the matter than to prepare it, as is said in the *Physics* 2.Aristotle, *Physics*, Bk. 2, ch. 2, 194b1–7. But a bishop is above a priest. Therefore, he does not prepare the matter for a sacrament that a priest uses. But a priest administers this sacrament, as will be said. Therefore, the consecration of the matter does not pertain to a bishop.  
+Obj. 2: Furthermore, in physical operations, the nobler art never prepares the matter for a lower one, for it is nobler to use the matter than to prepare it, as is said in the *Physics* 2. *(Aristotle, *Physics*, Bk. 2, ch. 2, 194b1–7.)* But a bishop is above a priest. Therefore, he does not prepare the matter for a sacrament that a priest uses. But a priest administers this sacrament, as will be said. Therefore, the consecration of the matter does not pertain to a bishop.  
 
 On the contrary, in other anointings the matter is consecrated by a bishop. Therefore, he should do so in this one.  
 
@@ -205,7 +205,7 @@ Response to Quaestiuncula 1
 
 To the first question, I answer that the spiritual healing that is obtained in the end must be complete, for after it no other remains; as well as gentle, so that hope, which is most necessary to those departing, may not be shattered, but encouraged. Now olive is softening, and penetrates to the innermost parts, and is also easily spreadable; and therefore as to both of the qualities mentioned it is the appropriate matter for this sacrament. And because oil is chiefly named from the olive fluid, for other fluids take the name of oil from their likeness to it, this is also why olive oil should be taken as the matter of this sacrament.  
 
-Reply Obj. 1: The incorruption of glory is the reality not contained in this sacrament; nor is it necessary that the signification of such a reality correspond to the matter. Therefore, it is not necessary that balsam be included in the matter of this sacrament, for because of its fragrance balsam pertains to good reputation, which those who are departing do not need anymore in itself, but they need only clarity of conscience, which is signified by oil.See Gregory IX, *Decretals*, Bk. 1, tit. 15, ch. 1, ‘Cum venisset.’  
+Reply Obj. 1: The incorruption of glory is the reality not contained in this sacrament; nor is it necessary that the signification of such a reality correspond to the matter. Therefore, it is not necessary that balsam be included in the matter of this sacrament, for because of its fragrance balsam pertains to good reputation, which those who are departing do not need anymore in itself, but they need only clarity of conscience, which is signified by oil. *(See Gregory IX, *Decretals*, Bk. 1, tit. 15, ch. 1, ‘Cum venisset.’)*  
 
 Reply Obj. 2: Wine treats by eating away, oil by softening. And so healing with wine pertains more to penance than to this sacrament.  
 
@@ -225,7 +225,7 @@ Response to Quaestiuncula 3
 
 To the third question, it should be said that the minister of the sacrament does not bring about the sacrament’s effect by his own power like a principal agent, but by the efficacy of the sacrament that he administers; and this efficacy is first from Christ, and from him it descends in order to all others, namely, to the people by means of the ministers who administer the sacrament, and to the lower ministers by means of the higher ones who sanctify the matter. And therefore in all sacraments that require a sanctified matter, the matter’s sanctification is first done by the bishop, and sometimes the use is through the priest, so that priestly power may be shown to be derived from episcopal power, according to Psalm 133(132):2: *it is like the precious oil on the head*, which first runs down upon the beard, and then to the collar of the robe.  
 
-Reply Obj. 1: The sacrament of the Eucharist consists in the very sanctification of the matter, not in its use; and therefore, properly speaking, what is the matter of the sacrament is not what is consecrated. For this reason no previous sanctification done by the bishop upon the matter is required, but the sanctification of the altar is required, and other things like it, and even of the priest himself, which cannot be done by anyone but a bishop. Therefore in that sacrament also the priestly power is shown to be derived from the bishop, as Dionysius says.Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 3 (PG 3:506). And this why a priest can do that consecration of the matter that is in itself a sacrament, and not the consecration that is a kind of sacramental ordered to a sacrament that consists in its use by the faithful; for with regard to the true body of Christ no orders are above priestly orders, but as to the mystical body of Christ, episcopal orders are above priestly orders, as will be said in the following distinction.  
+Reply Obj. 1: The sacrament of the Eucharist consists in the very sanctification of the matter, not in its use; and therefore, properly speaking, what is the matter of the sacrament is not what is consecrated. For this reason no previous sanctification done by the bishop upon the matter is required, but the sanctification of the altar is required, and other things like it, and even of the priest himself, which cannot be done by anyone but a bishop. Therefore in that sacrament also the priestly power is shown to be derived from the bishop, as Dionysius says. *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 3 (PG 3:506).)* And this why a priest can do that consecration of the matter that is in itself a sacrament, and not the consecration that is a kind of sacramental ordered to a sacrament that consists in its use by the faithful; for with regard to the true body of Christ no orders are above priestly orders, but as to the mystical body of Christ, episcopal orders are above priestly orders, as will be said in the following distinction.  
 
 Reply Obj. 2: The matter of the sacrament is not the kind of matter in which anything is done by the person who uses it, as in the mechanical arts, but something is done by its power. And so it partakes somewhat of the nature of an agent cause, inasmuch as it is a certain instrument of divine operation, as was said above in Distinction 1, Question 1, Article 4, Subquestion 1. And thus it is necessary that the matter acquire this power from a higher art or power, for in agent causes the more prior the agent is, the more perfect he is. But in purely material causes, the more prior the agent, the more imperfect it is.  
 
@@ -247,7 +247,7 @@ Furthermore (2), pertinent to this is the rite of the universal Church, which us
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that the form of this sacrament should be uttered by indicative speech,Parallel: *de Forma absol*., ch. 1. not as an entreaty.The traditional formula is given below in SC 1. For every sacrament of the new law has an effect that is certain. But the certainty of the effect is only expressed in the forms of sacraments by indicative speech, as is said, *this is my body*; or, *I baptize you*. Therefore, a prayer in the indicative should be the form of this sacrament.  
+Obj. 1: Moreover, it seems that the form of this sacrament should be uttered by indicative speech, *(Parallel: *de Forma absol*., ch. 1.)* not as an entreaty. *(The traditional formula is given below in SC 1.)* For every sacrament of the new law has an effect that is certain. But the certainty of the effect is only expressed in the forms of sacraments by indicative speech, as is said, *this is my body*; or, *I baptize you*. Therefore, a prayer in the indicative should be the form of this sacrament.  
 
 Obj. 2: Furthermore, in the forms of the sacraments the intention of the minister should be expressed, which is required for the sacrament. But the intention of conferring the sacrament is only expressed by indicative speech. Therefore, etc.  
 
@@ -277,7 +277,7 @@ Reply Obj. 3: The matter of baptism has a certain sanctification in itself from 
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that the form of this sacrament is the prayer of entreaty, as is clear from James’s words (Jas 5:15), and from the use of the Roman Church, which only uses entreating words in the conferral of this sacrament.On the form of this sacrament in the use of various churches, see Martene, *de Antiquis eccles. ritibus*, Bk. 1, ch. 7, a. 4 (1:301b). And many reasons can be assigned for this. First, because the recipient of this sacrament is stripped of his own strength, which is why he needs prayers to be raised for him. Second, because it is given to those departing, who are already leaving the forum of the Church, and resting in the hand of God alone, which is also why they are committed to him by a prayer. Third, because this sacrament does not have any effect that always follows from the minister’s working once everything essential to the sacrament is duly performed, like the character in baptism and confirmation, and transubstantiation in the Eucharist, and the remission of sin in penance where contrition exists, which is essential to the sacrament of penance, but not to the essence of this sacrament. And so in this sacrament the form cannot be in the indicative mood as in the sacraments mentioned.  
+To the second question, it should be said that the form of this sacrament is the prayer of entreaty, as is clear from James’s words (Jas 5:15), and from the use of the Roman Church, which only uses entreating words in the conferral of this sacrament. *(On the form of this sacrament in the use of various churches, see Martene, *de Antiquis eccles. ritibus*, Bk. 1, ch. 7, a. 4 (1:301b).)* And many reasons can be assigned for this. First, because the recipient of this sacrament is stripped of his own strength, which is why he needs prayers to be raised for him. Second, because it is given to those departing, who are already leaving the forum of the Church, and resting in the hand of God alone, which is also why they are committed to him by a prayer. Third, because this sacrament does not have any effect that always follows from the minister’s working once everything essential to the sacrament is duly performed, like the character in baptism and confirmation, and transubstantiation in the Eucharist, and the remission of sin in penance where contrition exists, which is essential to the sacrament of penance, but not to the essence of this sacrament. And so in this sacrament the form cannot be in the indicative mood as in the sacraments mentioned.  
 
 Reply Obj. 1: This sacrament, like the ones mentioned, contains certainty in itself, but it can be impeded by deception in the recipient (even if he intentionally subjects himself to the sacrament) from having any effect. And because of this it is not the same in this sacrament as in the other sacraments in which some effect is always obtained.  
 
@@ -314,21 +314,21 @@ first, who is the minister of this sacrament;
 
 Obj. 1: To the first question we proceed thus. It seems that a lay person can also confer this sacrament. For this sacrament has its efficacy from the prayer, as James says (Jas 5:15). But the prayer of a lay person is sometimes equally acceptable to God as the prayer of a priest. Therefore, he can confer this sacrament.  
 
-Obj. 2: Furthermore, it is read of certain of the Egyptian fathers that they sent oil to the sick and they were healed.In the life of one John, we find several such anecdotes. Rufinus of Aquileia, *Vitae Patrum*, Bk. 2, ch. 1: “For he [John] did not allow petitioners to come to him, but instead blessed oil for them to be anointed with, by which means they were healed of all their disorders.” Again: “The husband duly presented this appeal to him [John], whereupon he prayed, blessed oil, and sent him [the husband] back to her. After applying this oil to her eyes for three days she recovered her sight and gave thanks to God.” Again: “He went on from there to give us a lengthy discourse upon mystical teaching, and finally blessed some oil and gave it to him. The sick man anointed himself with it and vomited out a great deal of poison, after which, restored to good health, he walked back to the guesthouse.” For additional examples, see *Vitae Patrum*, Bk. 4, ch. 52 (PL 73:846); Bk. 8, ch. 13 (PL 73:1104) and ch. 43 (PL 73:1143); Jerome, *Life of St. Hilarion*, n. 44 (PL 23:54). And likewise it is said of Blessed Genevieve that she anointed the sick with oil.See *Acta Sanctorum*, Januuary 3, First Life of St. Genevieve, ch. 10 (BL 1:142b); Second Life, ch. 10 (BL 1:147a). Thomas does not refer to Genevieve anywhere else in his works. Therefore, this sacrament can also be conferred by the laity.  
+Obj. 2: Furthermore, it is read of certain of the Egyptian fathers that they sent oil to the sick and they were healed. *(In the life of one John, we find several such anecdotes. Rufinus of Aquileia, *Vitae Patrum*, Bk. 2, ch. 1: “For he [John] did not allow petitioners to come to him, but instead blessed oil for them to be anointed with, by which means they were healed of all their disorders.” Again: “The husband duly presented this appeal to him [John], whereupon he prayed, blessed oil, and sent him [the husband] back to her. After applying this oil to her eyes for three days she recovered her sight and gave thanks to God.” Again: “He went on from there to give us a lengthy discourse upon mystical teaching, and finally blessed some oil and gave it to him. The sick man anointed himself with it and vomited out a great deal of poison, after which, restored to good health, he walked back to the guesthouse.” For additional examples, see *Vitae Patrum*, Bk. 4, ch. 52 (PL 73:846); Bk. 8, ch. 13 (PL 73:1104) and ch. 43 (PL 73:1143); Jerome, *Life of St. Hilarion*, n. 44 (PL 23:54).)* And likewise it is said of Blessed Genevieve that she anointed the sick with oil. *(See *Acta Sanctorum*, Januuary 3, First Life of St. Genevieve, ch. 10 (BL 1:142b); Second Life, ch. 10 (BL 1:147a). Thomas does not refer to Genevieve anywhere else in his works.)* Therefore, this sacrament can also be conferred by the laity.  
 
 On the contrary, the remission of sins happens in this sacrament. But lay people do not have the power for forgiving sins. Therefore, etc.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that deacons can confer this sacrament.Parallel: below, d. 24, q. 2, a. 2, ad 1. For according to Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:508). deacons have purifying power. But this sacrament was instituted only for purifying from illness of mind and body. Therefore, deacons can confer it.  
+Obj. 1: Moreover, it seems that deacons can confer this sacrament. *(Parallel: below, d. 24, q. 2, a. 2, ad 1.)* For according to Dionysius, *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, p. 1, n. 6 (PG 3:508).)* deacons have purifying power. But this sacrament was instituted only for purifying from illness of mind and body. Therefore, deacons can confer it.  
 
-Obj. 2: Furthermore, baptism is nobler than this sacrament we are considering. But deacons can baptize, as is seen in the case of blessed Laurence.See Jacobus de Voragine, *Golden Legend*, ch. 117, in which Laurence in prison baptizes the pagan Lucillus (Ryan ed., 2:65); *Acta Sanctorum*, August 10, *Acta S. Laurentii*, n. 3 (BL 36:518F); n. 7 (519C). Therefore, they can also confer this sacrament.  
+Obj. 2: Furthermore, baptism is nobler than this sacrament we are considering. But deacons can baptize, as is seen in the case of blessed Laurence. *(See Jacobus de Voragine, *Golden Legend*, ch. 117, in which Laurence in prison baptizes the pagan Lucillus (Ryan ed., 2:65); *Acta Sanctorum*, August 10, *Acta S. Laurentii*, n. 3 (BL 36:518F); n. 7 (519C).)* Therefore, they can also confer this sacrament.  
 
 On the contrary, it says in James 5:14: *call for the priests of the Church*.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that only the bishop can confer this sacrament.Parallel: *SCG* IV, ch. 73. For this sacrament is completed in anointing, just like confirmation. But only the bishop can confirm. Therefore, he alone can confer this sacrament.  
+Obj. 1: Moreover, it seems that only the bishop can confer this sacrament. *(Parallel: *SCG* IV, ch. 73.)* For this sacrament is completed in anointing, just like confirmation. But only the bishop can confirm. Therefore, he alone can confer this sacrament.  
 
 Obj. 2: Furthermore, anyone who cannot do what is lesser cannot do what is greater. But the use of sanctified matter is greater than its sanctification, for that is its end. Therefore, since the priest cannot sanctify the matter, neither can he use the matter once sanctified.  
 
@@ -336,7 +336,7 @@ On the contrary, the minister of this sacrament is to be called in for someone w
 
 Response to Quaestiuncula 1  
 
-To the first question, I answer that according to Dionysius in the *Ecclesiastical Hierarchy*,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 1 (PG 3:501). there are some people who exercise hierarchical actions, and some people, namely the laity, only receive them. And therefore no sacrament’s administering belongs to a lay person by his office, but the fact that they can baptize in an emergency is done by a divine dispensation so that no one may lack the faculty of spiritual regeneration.  
+To the first question, I answer that according to Dionysius in the *Ecclesiastical Hierarchy*, *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 1 (PG 3:501).)* there are some people who exercise hierarchical actions, and some people, namely the laity, only receive them. And therefore no sacrament’s administering belongs to a lay person by his office, but the fact that they can baptize in an emergency is done by a divine dispensation so that no one may lack the faculty of spiritual regeneration.  
 
 Reply Obj. 1: That prayer is not made by the priest in his own person, for since sometimes he is a sinner, he would not be heard, but it is made in the person of the whole Church, in whose person he can pray as a public person; but not a lay person, who is a private person.  
 
@@ -352,7 +352,7 @@ Reply Obj. 2: This sacrament is not a sacrament of necessity, like baptism. Ther
 
 Response to Quaestiuncula 3  
 
-To the third question, it should be said that according to Dionysius,Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 6 (PG 3:505). the bishop properly holds the office of perfecting, just as the priest holds the office of illuminating. Therefore, it is reserved to bishops alone to dispense those sacraments that place the receiver in a certain state of perfection above others. Now this is not the case in this sacrament, since it is given to everyone. And therefore it can be administered by simple priests.  
+To the third question, it should be said that according to Dionysius, *(Pseudo-Dionysius, *Ecclesiastical Hierarchy*, ch. 5, pt. 1, n. 6 (PG 3:505).)* the bishop properly holds the office of perfecting, just as the priest holds the office of illuminating. Therefore, it is reserved to bishops alone to dispense those sacraments that place the receiver in a certain state of perfection above others. Now this is not the case in this sacrament, since it is given to everyone. And therefore it can be administered by simple priests.  
 
 Reply Obj. 1: Confirmation imprints a character, by which a man is placed in a state of perfection, as was said above in Distinction 7, Question 2, Article 1, Subquestion 1. But this is not the case in this sacrament, and so it is not the same.  
 
@@ -364,7 +364,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second question we proceed thus.Parallel: *SCG* IV, ch. 73. It seems that this sacrament should also be conferred on the healthy. For the healing of mind is a more principal effect of this sacrament than healing of body, as was said. But those who are healthy in body also need the healing of the mind. Therefore, this sacrament should be conferred on them.  
+Obj. 1: To the second question we proceed thus. *(Parallel: *SCG* IV, ch. 73.)* It seems that this sacrament should also be conferred on the healthy. For the healing of mind is a more principal effect of this sacrament than healing of body, as was said. But those who are healthy in body also need the healing of the mind. Therefore, this sacrament should be conferred on them.  
 
 Obj. 2: Furthermore, this sacrament is for the departing, just as baptism is for those entering. But baptism is given to all who enter. Therefore, this sacrament should be given to all who depart. But sometimes those who are soon to depart are healthy, like those who are about to be decapitated. Therefore, this sacrament should be given to people like them.  
 
@@ -372,11 +372,11 @@ On the contrary, it is said in James 5:15: *are any among you sick?* etc. Theref
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that in any illness this sacrament can be given.Parallel: *SCG* IV, ch. 73. For in James 5, where the sacrament is handed down, no illness is specified. Therefore, in every illness this sacrament should be conferred.  
+Obj. 1: Moreover, it seems that in any illness this sacrament can be given. *(Parallel: *SCG* IV, ch. 73.)* For in James 5, where the sacrament is handed down, no illness is specified. Therefore, in every illness this sacrament should be conferred.  
 
 Obj. 2: Furthermore, the nobler the remedy is, the more generally available it should be. But this sacrament is nobler than physical medicine. Therefore, since physical medicine is given to all the sick, it seems that this sacrament should be too.  
 
-On the contrary, this sacrament is called ‘last anointing’ by everyone. But not every illness leads to the end of life, for some illnesses are causes of longer life, as the Philosopher says.Not precisely. Aristotle writes: “Perhaps in the case of certain maladies a diseased state of the body and shortness of life are interchangeable, while in the case of others ill-health is perfectly compatible with long life” (*On Length and Shortness of Life*, ch. 1, 465b27–31; Oxford ed.). Therefore, this sacrament should not be given to all the sick.  
+On the contrary, this sacrament is called ‘last anointing’ by everyone. But not every illness leads to the end of life, for some illnesses are causes of longer life, as the Philosopher says. *(Not precisely. Aristotle writes: “Perhaps in the case of certain maladies a diseased state of the body and shortness of life are interchangeable, while in the case of others ill-health is perfectly compatible with long life” (*On Length and Shortness of Life*, ch. 1, 465b27–31; Oxford ed.).)* Therefore, this sacrament should not be given to all the sick.  
 
 Quaestiuncula 3  
 
@@ -420,7 +420,7 @@ Reply Obj. 2: Baptism does not require a movement of the free will, for it is gi
 
 Response to Quaestiuncula 4  
 
-To the fourth question, it should be said that this sacrament requires active devotion in the recipient, just as the Eucharist does. Therefore, just as the Eucharist should not be given to children, so neither should this sacrament.It would seem that St. Thomas has in mind small children before the age of reason, since a child capable of receiving the Eucharist would also be capable of the devotion required to receive extreme unction.  
+To the fourth question, it should be said that this sacrament requires active devotion in the recipient, just as the Eucharist does. Therefore, just as the Eucharist should not be given to children, so neither should this sacrament. *(It would seem that St. Thomas has in mind small children before the age of reason, since a child capable of receiving the Eucharist would also be capable of the devotion required to receive extreme unction.)*  
 
 Reply Obj. 1: Infirmities in children are not caused by actual sin, as in adults; and this sacrament is especially given against those infirmities that are caused by sin, like traces left behind by sin.  
 
@@ -432,21 +432,21 @@ Article 3
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the third question we proceed thus. It seems that the whole body should be anointed with this sacrament. For according to Augustine, *the whole soul is in the whole body*.See Augustine, *On the Immortality of the Soul*, ch. 16 (PL 32:1034); *On the Trinity*, Bk. 6, ch. 6. But this sacrament is particularly given for healing the soul. Therefore, the anointing should be done to the whole body.  
+Obj. 1: To the third question we proceed thus. It seems that the whole body should be anointed with this sacrament. For according to Augustine, *the whole soul is in the whole body*. *(See Augustine, *On the Immortality of the Soul*, ch. 16 (PL 32:1034); *On the Trinity*, Bk. 6, ch. 6.)* But this sacrament is particularly given for healing the soul. Therefore, the anointing should be done to the whole body.  
 
 Obj. 2: Furthermore, the medicine should be applied where the sickness is. But sometimes the sickness affects the whole body, like fever. Therefore, the whole body should be anointed.  
 
 Obj. 3: Furthermore, the whole body is immersed in baptism. Therefore, here too the whole should be anointed.  
 
-On the contrary, according to the universal rite of the Church, a sick person is anointed only on specific parts of the body.This is no longer the universal rite, after the revision of the sacrament under Pope Paul VI. Nevertheless, those who continue to use the traditional sacrament of extreme unction still bless the five senses, hands, and feet.  
+On the contrary, according to the universal rite of the Church, a sick person is anointed only on specific parts of the body. *(This is no longer the universal rite, after the revision of the sacrament under Pope Paul VI. Nevertheless, those who continue to use the traditional sacrament of extreme unction still bless the five senses, hands, and feet.)*  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that these parts are inappropriately determined, namely, that an ailing person be anointed on his eyes, ears, nostrils, lips, hands, and feet.Parallel: *SCG* IV, ch. 73. For a wise doctor treats a sickness in its root. But *out of the heart come evil intentions . . . which defile men*, as it says in Matthew 15:19–20. Therefore, the anointing must be done on the chest.  
+Obj. 1: Moreover, it seems that these parts are inappropriately determined, namely, that an ailing person be anointed on his eyes, ears, nostrils, lips, hands, and feet. *(Parallel: *SCG* IV, ch. 73.)* For a wise doctor treats a sickness in its root. But *out of the heart come evil intentions . . . which defile men*, as it says in Matthew 15:19–20. Therefore, the anointing must be done on the chest.  
 
 Obj. 2: Furthermore, purity of mind is not less necessary to those departing than to those entering. But those entering are anointed with chrism on the head by the priest to signify purity of mind. Therefore, also in this sacrament, those departing should be anointed on the head.  
 
-Obj. 3: Furthermore, the remedy must be applied where the sickness has the most strength. But spiritual sickness particularly thrives in a man’s loins and a woman’s navel, as is seen from Job 40:16: *his strength is in his loins, and his force in the navel of his belly*, according to Gregory’s explanation.Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 32, par. 14. Therefore, there should be an anointing there.  
+Obj. 3: Furthermore, the remedy must be applied where the sickness has the most strength. But spiritual sickness particularly thrives in a man’s loins and a woman’s navel, as is seen from Job 40:16: *his strength is in his loins, and his force in the navel of his belly*, according to Gregory’s explanation. *(Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 32, par. 14.)* Therefore, there should be an anointing there.  
 
 Obj. 4: Furthermore, just as someone sins by his feet, so also by the other parts of the body. Therefore, just as feet are anointed, so also other parts of the body should be anointed.  
 
@@ -454,7 +454,7 @@ Quaestiuncula 3
 
 Obj. 1: Moreover, it seems that those who are maimed are not to be anointed with the anointings that pertain to those parts. For just as this sacrament requires a specific disposition in the recipient, namely, that he be sick, so also it requires a specific part. But someone who does not have an illness cannot be anointed. Therefore, neither should someone be who does not have that part on which the anointing should be done.  
 
-Obj. 2: Furthermore, someone who is blind from birth does not offend through his sight. But in the anointing that is done on the eyes, mention is made of the crimes committed through sight.“Through this holy anointing and through His tender mercy, may the Lord forgive thee whatever sins thou hast committed by the sense of sight. Amen.” Therefore, this anointing should not be done on someone born blind; and the same with the other parts.  
+Obj. 2: Furthermore, someone who is blind from birth does not offend through his sight. But in the anointing that is done on the eyes, mention is made of the crimes committed through sight. *(“Through this holy anointing and through His tender mercy, may the Lord forgive thee whatever sins thou hast committed by the sense of sight. Amen.”)* Therefore, this anointing should not be done on someone born blind; and the same with the other parts.  
 
 On the contrary, a defect of the body does not impede any other sacrament. Therefore, neither should it impede this one. But each of these anointings is necessary to this sacrament. Therefore, all of them should be done on someone maimed.  
 
@@ -470,9 +470,9 @@ Reply Obj. 3: Baptism is done by the mode of washing. Now physical washing does 
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that the principles of sinning in us are the same as the principles of acting: for sin consists in an act. Now three things are principles of acting in us. The first directs, namely, the cognitive power; the second commands, namely, the appetitive power; and the third executes, namely, the motive power. Now all our knowledge comes from the senses, and since where the first origin of sin exists in us, an ointment should be applied, for this reason the sites of the five senses are anointed, namely, eyes for vision, ears for hearing, nostrils for smelling, mouth for tasting, hands for touch, which particularly thrives in the tips of the fingers. But because of the appetitive power the loins are anointed by some people;The anointing of the loins was definitively set aside by the 1917 Pio-Benedictine Code of Canon Law. See Can. 947.2: “Unctio renum semper omittatur.” because of the motive power the feet are anointed, which are more chiefly its instrument. And since the first principle is cognitive, this is why the anointing that is done to the five senses is observed by all as necessary to the sacrament. But some people do not keep the other anointings, certain ones observing the anointing of the feet but not the loins, for the appetitive and motive powers are secondary principles.The *Rituale Romanum* states that the anointing of the feet may be omitted “ex qualibet rationabili causa,” which is repeated in the 1917 Code of Canon Law (Can. 947.3).  
+To the second question, it should be said that the principles of sinning in us are the same as the principles of acting: for sin consists in an act. Now three things are principles of acting in us. The first directs, namely, the cognitive power; the second commands, namely, the appetitive power; and the third executes, namely, the motive power. Now all our knowledge comes from the senses, and since where the first origin of sin exists in us, an ointment should be applied, for this reason the sites of the five senses are anointed, namely, eyes for vision, ears for hearing, nostrils for smelling, mouth for tasting, hands for touch, which particularly thrives in the tips of the fingers. But because of the appetitive power the loins are anointed by some people; *(The anointing of the loins was definitively set aside by the 1917 Pio-Benedictine Code of Canon Law. See Can. 947.2: “Unctio renum semper omittatur.”)* because of the motive power the feet are anointed, which are more chiefly its instrument. And since the first principle is cognitive, this is why the anointing that is done to the five senses is observed by all as necessary to the sacrament. But some people do not keep the other anointings, certain ones observing the anointing of the feet but not the loins, for the appetitive and motive powers are secondary principles. *(The *Rituale Romanum* states that the anointing of the feet may be omitted “ex qualibet rationabili causa,” which is repeated in the 1917 Code of Canon Law (Can. 947.3).)*  
 
-Reply Obj. 1: Thoughts do not leave the heart except through some imagination, which is the movement made by the senses, as it says in *On the Soul* 2.Rather, Aristotle, *On the Soul*, Bk. 3, ch. 3, 428b10–16; 429a1–3. And this is why the heart is not the first root of thinking, but the organs of the senses are, except to the extent that the heart is the principle of the whole body.As is suggested by Aristotle’s remarks in his treatise *On Youth, Old Age, Life and Death, and Respiration*, ch. 3, 468b28–23, and by St. Thomas in his *De Motu Cordis*. But this principle is a remote root.  
+Reply Obj. 1: Thoughts do not leave the heart except through some imagination, which is the movement made by the senses, as it says in *On the Soul* 2. *(Rather, Aristotle, *On the Soul*, Bk. 3, ch. 3, 428b10–16; 429a1–3.)* And this is why the heart is not the first root of thinking, but the organs of the senses are, except to the extent that the heart is the principle of the whole body. *(As is suggested by Aristotle’s remarks in his treatise *On Youth, Old Age, Life and Death, and Respiration*, ch. 3, 468b28–23, and by St. Thomas in his *De Motu Cordis*.)* But this principle is a remote root.  
 
 Reply Obj. 2: Those entering should acquire purity, but those departing should cleanse it. And so those departing should be anointed in those parts where purity of the mind becomes defiled.  
 
@@ -492,7 +492,7 @@ Article 4
 
 ***Quaestiuncula 1***
 
-Obj. 1: It seems that this sacrament should not be repeated.Parallel: *SCG* IV, ch. 73. For the anointing that is done to a man is nobler than what is done to a stone. But the anointing of an altar is not repeated, unless the altar has been broken. Therefore, nor should extreme unction, which is done to a man, be repeated.  
+Obj. 1: It seems that this sacrament should not be repeated. *(Parallel: *SCG* IV, ch. 73.)* For the anointing that is done to a man is nobler than what is done to a stone. But the anointing of an altar is not repeated, unless the altar has been broken. Therefore, nor should extreme unction, which is done to a man, be repeated.  
 
 Obj. 2: Furthermore, after the end there is nothing. But this anointing is called ‘last.’ Therefore, it should not be repeated.  
 
@@ -500,7 +500,7 @@ On the contrary, this sacrament is a certain spiritual treatment presented in th
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that it should not be repeated in the same illness.Parallel: above, d. 18, q. 1, a. 3, qa. 2, ad 4. For only one medicine is due for one illness. But this sacrament is a certain spiritual medicine. Therefore, it should not be repeated against one sickness.  
+Obj. 1: Moreover, it seems that it should not be repeated in the same illness. *(Parallel: above, d. 18, q. 1, a. 3, qa. 2, ad 4.)* For only one medicine is due for one illness. But this sacrament is a certain spiritual medicine. Therefore, it should not be repeated against one sickness.  
 
 Obj. 2: Furthermore, according to this someone sick can be anointed all day long, if anointing can be repeated for the same illness, which is absurd.  
 
@@ -522,12 +522,12 @@ And by this the solutions to the objections are clear.
 
 Exposition of the Text  
 
-*After the ones mentioned above, there is also another sacrament, namely, the anointing of the sick*.*Sententiae* IV, 23.1 (127). 1. It seems that this is badly ordered, for since this sacrament is given to those departing, it should have been placed at the end. And it should be said that the other two that follow are ordered to the common good of the Church or of the human species. Now the good of one is prior to the good of the many, which arises from individual goods. Therefore, this sacrament should have been listed last among those that are ordered to the good of one person, and before those that are ordered to the good of the multitude.  
+*After the ones mentioned above, there is also another sacrament, namely, the anointing of the sick*. *(*Sententiae* IV, 23.1 (127). 1.)* It seems that this is badly ordered, for since this sacrament is given to those departing, it should have been placed at the end. And it should be said that the other two that follow are ordered to the common good of the Church or of the human species. Now the good of one is prior to the good of the many, which arises from individual goods. Therefore, this sacrament should have been listed last among those that are ordered to the good of one person, and before those that are ordered to the good of the multitude.  
 
-*An anointing which is done with chrism, which is called the principal anointing*:*Sent*. IV, 23.2 (128). 1. for in it alone is a character impressed, and the fullness of the Holy Spirit is given for strength.  
+*An anointing which is done with chrism, which is called the principal anointing*: *(*Sent*. IV, 23.2 (128). 1.)* for in it alone is a character impressed, and the fullness of the Holy Spirit is given for strength.  
 
-*The heads of kings and bishops are anointed*.*Sent*. IV, 23.2 (128). 1. Against this is the fact that according to the custom of the Church kings are not anointed with chrism on the head, but with oil on the shoulders. And it should be said that the anointing of kings is not a sacrament; and so it can be done in different ways according to different customs. Or it should be said that it can be explained as *of kings and high priests*, that is, of those who have the royal priesthood, so that both groups are taken for the same.  
+*The heads of kings and bishops are anointed*. *(*Sent*. IV, 23.2 (128). 1.)* Against this is the fact that according to the custom of the Church kings are not anointed with chrism on the head, but with oil on the shoulders. And it should be said that the anointing of kings is not a sacrament; and so it can be done in different ways according to different customs. Or it should be said that it can be explained as *of kings and high priests*, that is, of those who have the royal priesthood, so that both groups are taken for the same.  
 
-*But if this sacrament is omitted because of contempt or negligence, this is dangerous and damnable*.*Sent*. IV, 23.3 (129). 3. To the contrary: negligence in those things that are not necessary to salvation is not damnable. But this sacrament is not necessary to salvation. And it should be said that this is more to be taken as linking than separating, for not every kind of negligence is damnable, but only the one proceeding from contempt or leading to contempt.  
+*But if this sacrament is omitted because of contempt or negligence, this is dangerous and damnable*. *(*Sent*. IV, 23.3 (129). 3.)* To the contrary: negligence in those things that are not necessary to salvation is not damnable. But this sacrament is not necessary to salvation. And it should be said that this is more to be taken as linking than separating, for not every kind of negligence is damnable, but only the one proceeding from contempt or leading to contempt.  
 
-*But the body of Christ cannot be confected, except from consecrated bread*:*Sent*. IV, 23.4 (130). 5. not that consecrated bread is the matter of the sacrament, but that the consecrated bread itself is the sacrament.
+*But the body of Christ cannot be confected, except from consecrated bread*: *(*Sent*. IV, 23.4 (130). 5.)* not that consecrated bread is the matter of the sacrament, but that the consecrated bread itself is the sacrament.

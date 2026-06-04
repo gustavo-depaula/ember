@@ -4,7 +4,7 @@
 
 ***Divisio textus***
 
-Postquam determinavitParma: *definivit*. Magister principium humanae perditionis et ex parte tentationis et ex parte peccantis; in parte ista determinat de permissione divina, quae quodammodo principium peccati dicitur, sicut causa sine qua non: si enim Deus non permisisset, homo non peccasset:  
+Postquam determinavit *(Parma: *definivit*.)* Magister principium humanae perditionis et ex parte tentationis et ex parte peccantis; in parte ista determinat de permissione divina, quae quodammodo principium peccati dicitur, sicut causa sine qua non: si enim Deus non permisisset, homo non peccasset:  
 
 et dividitur in quinque partes, secundum quinque quaestiones quas movet;  
 
@@ -30,7 +30,7 @@ Prima in duas:
 
 in prima ostendit quorum cognitionem homo in principio suae conditionis accepit;  
 
-in secunda ostendit qualem de his notitiam habuit, ibi: *rerum quippe cognitionem hominem accepisse*Al.: *homo accepisset*. *perspicuum est*.  
+in secunda ostendit qualem de his notitiam habuit, ibi: *rerum quippe cognitionem hominem accepisse* *(Al.: *homo accepisset*.)* *perspicuum est*.  
 
 Et circa hoc tria facit:  
 
@@ -60,7 +60,7 @@ Quaestio 1
 
 primo utrum Deus potuerit conferre alicui naturae creatae ut peccare non posset ex naturae conditione;  
 
-secundo utrum Deus debuerit permittere hominem tentari et peccare. Alia enim quae ad permissionem pertinent in 1 lib. tractata sunt.Parma omits *alia enim quae ad permissionem pertinent in I libro tractata sunt*.  
+secundo utrum Deus debuerit permittere hominem tentari et peccare. Alia enim quae ad permissionem pertinent in 1 lib. tractata sunt. *(Parma omits *alia enim quae ad permissionem pertinent in I libro tractata sunt*.)*  
 
 Articulus 1  
 
@@ -72,9 +72,9 @@ Primo per hoc quod Augustinus dicit in littera, scilicet quod illa natura quae p
 
 Praeterea, natura spiritualis est nobilior quam natura corporalis. Sed aliqua natura corporalis est in qua nullo modo peccatum vel error accidere potest, etiam secundum naturae suae conditionem, scilicet caelestis. Ergo multo fortius est aliqua spiritualis in qua nullo modo peccatum accidere posset secundum naturae suae conditionem.  
 
-Praeterea, ut Damascenus, dicit, lib. 1 *Orth. fid*. cap. 3, ex hoc quod creatura est ex nihilo, duplex varianilitasPLE: *variabilitas*; Mandonnet: *varietas*. sequitur ipsam in diversis: una secundum esse, sicut in his quae corrumpuntur; alia secundum electionem, sicut in his quae peccant. Sed alicui rei secundum naturae suae conditionem confertur ut sit invariabilis quantum ad esse, sicut substantiis spiritualibus et corporibus caelestibus. Ergo alicui naturae conferri potest quod secundum naturalem conditionem sit invariabilis quantum ad electionem.  
+Praeterea, ut Damascenus, dicit, lib. 1 *Orth. fid*. cap. 3, ex hoc quod creatura est ex nihilo, duplex varianilitas *(PLE: *variabilitas*; Mandonnet: *varietas*.)* sequitur ipsam in diversis: una secundum esse, sicut in his quae corrumpuntur; alia secundum electionem, sicut in his quae peccant. Sed alicui rei secundum naturae suae conditionem confertur ut sit invariabilis quantum ad esse, sicut substantiis spiritualibus et corporibus caelestibus. Ergo alicui naturae conferri potest quod secundum naturalem conditionem sit invariabilis quantum ad electionem.  
 
-Praeterea, constat quod voluntas divina hoc naturaliter habet quod peccare non potest. Cum ergo ipse sit summe bonus et summe potens, videtur quod alicui creaturae contulerit vel conferre potuerit in hocParma omits *in hoc*. suam similitudinem, ut per naturam suam peccare non posset.  
+Praeterea, constat quod voluntas divina hoc naturaliter habet quod peccare non potest. Cum ergo ipse sit summe bonus et summe potens, videtur quod alicui creaturae contulerit vel conferre potuerit in hoc *(Parma omits *in hoc*.)* suam similitudinem, ut per naturam suam peccare non posset.  
 
 Praeterea, constat quod alicui creaturae hoc confertur per gratiam quod peccare non possit. Sed potuit Deus facere ut ille habitus gratiae qui confirmationem in bono creat, alicui naturae pars essentialis esset, vel etiam aliquid illo habitu perfectius. Ergo videtur quod si esset talis natura, secundum naturale sibi principium haberet confirmationem in bono. Ergo videtur quod alicui creaturae conferri potuit ut peccare non posset.  
 
@@ -86,11 +86,11 @@ Respondeo dicendum, quod nulli creaturae communicatum est nec communicabile fuit
 
 Sed naturae divinae quae ex se rectitudinem habet, convenit per conditionem naturae suae ut deficere non possit, sicut ab nec esse, ita nec a rectitudine bonitatis; et quibuscumque hoc confertur ut per gratiam confirmentur in bono, habent per donum gratiae, per quod filii Dei efficiuntur, et quodammodo divinae naturae consortes.  
 
-Ad primum ergo dicendum, quod Augustinus non intendit dicere quod angeli hoc habeant ut peccare non possint per conditionem naturae suae, sed per donum gratiae. In hoc tamen ab hominibus secernuntur quod gratuitam confirmationem quasi a principio creationis acceperunt, quae hominibus postParma: *per*. longum tempus datur.  
+Ad primum ergo dicendum, quod Augustinus non intendit dicere quod angeli hoc habeant ut peccare non possint per conditionem naturae suae, sed per donum gratiae. In hoc tamen ab hominibus secernuntur quod gratuitam confirmationem quasi a principio creationis acceperunt, quae hominibus post *(Parma: *per*.)* longum tempus datur.  
 
-Ad secundum dicendum, quod natura spiritualis etiam in esse invariabilis est sicut natura corporalis; unde et in iis quae naturae sunt peccatum aliquod non potest in angelo vel in anima accidere, sicut nec in corporibus incorruptibilibus. Natura autem corporalis non habet electionem ut possit secundum hoc in ea esse peccatum; unde quantum ad peccatumParma omits much of the above and instead reads: . . . *sicut natura corporalis; sed habet electionem, ut possit secundum hoc in eo esse peccatum; unde quantum ad potentiam electionis*, etc.; “ . . . as a bodily nature; but it has choice, so that in this respect there can be sin in it. Hence with regard to the potential to choose, there is no comparison between bodily and spiritual creation.” electionis non stat comparatio inter corporalem et spiritualem creaturam.  
+Ad secundum dicendum, quod natura spiritualis etiam in esse invariabilis est sicut natura corporalis; unde et in iis quae naturae sunt peccatum aliquod non potest in angelo vel in anima accidere, sicut nec in corporibus incorruptibilibus. Natura autem corporalis non habet electionem ut possit secundum hoc in ea esse peccatum; unde quantum ad peccatum *(Parma omits much of the above and instead reads: . . . *sicut natura corporalis; sed habet electionem, ut possit secundum hoc in eo esse peccatum; unde quantum ad potentiam electionis*, etc.; “ . . . as a bodily nature; but it has choice, so that in this respect there can be sin in it. Hence with regard to the potential to choose, there is no comparison between bodily and spiritual creation.”)* electionis non stat comparatio inter corporalem et spiritualem creaturam.  
 
-Ad tertium dicendum, quod quaelibet res habet principia determinata ad suum esse et proprietates naturales; quae principia non sunt de illis quae suae potestati subjacent; et ideo aliqua creatura in illis invarietatem habet. Sed electio est eorum quae sunt in potestate ejus; unde quia in his creatura rationalis aliquo modo sibi relinquitur, ut dicitur Eccli. 15:14: *reliquit eum*Vulg.: *illum*. *in manu consilii sui*; ideo deficere potest.  
+Ad tertium dicendum, quod quaelibet res habet principia determinata ad suum esse et proprietates naturales; quae principia non sunt de illis quae suae potestati subjacent; et ideo aliqua creatura in illis invarietatem habet. Sed electio est eorum quae sunt in potestate ejus; unde quia in his creatura rationalis aliquo modo sibi relinquitur, ut dicitur Eccli. 15:14: *reliquit eum* *(Vulg.: *illum*.)* *in manu consilii sui*; ideo deficere potest.  
 
 Ad quartum dicendum, quod non est ex imperfectione potentiae divinae ut creaturae conferre non possit quantum ad hoc suam similitudinem, sed ex imperfectione creaturae; partim ex hoc quod recipere non potest, et partim ex hoc quod est quaedam impossibilitas in implicatione contradictionum, ut dictum est.  
 
@@ -124,11 +124,11 @@ Ad primum ergo dicendum, quod sapiens artifex non tantum considerat quid competa
 
 Ad secundum dicendum, quod nec etiam angeli de natura sua habent quod peccare non possint, quod aliquorum peccatum monstravit; sed per gratiam confirmationis quam statim post principium suae conditionis acceperunt, confirmati sunt ut peccare non possint; ita etiam homo, cum ad terminum viae recto tramite pervenerit, eamdem confirmationem consequitur. Sed quod angelo brevior assignata est via quam homini, diversitas naturarum facit, ut supra dictum est. Nec est necesse ut omnibus ordinatis in unum finem assignentur eadem perducentia in finem, et eodem modo; sed unicuique secundum suam conditionem.  
 
-Ad tertium dicendum, quod sapientis est removere hoc modo impedimentum quod natura reiParma omits *rei*. non tollatur: quod non fieret, si hominem vel angelum in peccatum cadere non permitteret, quamdiu est in statu viae.  
+Ad tertium dicendum, quod sapientis est removere hoc modo impedimentum quod natura rei *(Parma omits *rei*.)* non tollatur: quod non fieret, si hominem vel angelum in peccatum cadere non permitteret, quamdiu est in statu viae.  
 
 Ad quartum dicendum, quod non semper via brevior eligenda est, nisi quando per eam omnia quae ad rem pertinent, convenienter salvantur; et hoc non fieret, si hominem in peccatum non permitteret cadere.  
 
-Ad quintum dicendum, quod non tantum per prohibitionem peccati violentam tolleretur laus, sed etiam naturalis ordo rerum; quod nullo modo providentia divina patitur.Parma: *pateretur*.  
+Ad quintum dicendum, quod non tantum per prohibitionem peccati violentam tolleretur laus, sed etiam naturalis ordo rerum; quod nullo modo providentia divina patitur. *(Parma: *pateretur*.)*  
 
 Quaestio 2  
 
@@ -166,7 +166,7 @@ Respondeo dicendum, quod, sicut in littera dicitur, modus quo Adam Deum cognovit
 
 Sciendum autem quod tripliciter videri potest. Uno modo per suam essentiam; alio modo per effectum aliquem ejus effluentem in intellectum videntis; tertio modo per effectum aliquem extra intellectum videntis, in quo divina similitudo resultat. Hujus autem exemplum in visione corporali inspici potest.  
 
-Lux enim non videtur ab oculo per aliquam similitudinem sui in ipso relictam, sed per suam essentiam oculum informans; et huic comparatur primus modus divinae visionis, qui est per essentiam; et hic quidem modus ex conditione naturae suae, nulli naturae debetur, nisi divinae, in qua est idemAl. omit *idem*. sciens et scitum.  
+Lux enim non videtur ab oculo per aliquam similitudinem sui in ipso relictam, sed per suam essentiam oculum informans; et huic comparatur primus modus divinae visionis, qui est per essentiam; et hic quidem modus ex conditione naturae suae, nulli naturae debetur, nisi divinae, in qua est idem *(Al. omit *idem*.)* sciens et scitum.  
 
 Lapis autem videtur ab oculo corporali per similitudinem suam in ipso oculo relictam; et huic comparatur secundus modus, qui est per effectum relictum in intellectu videntis; et hic quidem modus videndi convenit angelo secundum conditionem naturae suae; quia, ut in lib. *De causis*, dicitur, omnis intelligentia scit quod est supra se, per illud quod est causa ei; unde cognoscens ipsum lumen naturae suae, quod est similitudo luminis increati, Deum videt.  
 
@@ -192,7 +192,7 @@ Articulus 2
 
 Ad secundum sic proceditur. Videtur quod Adam non habuit a creatione rerum perfectam cognitionem.  
 
-Quia, secundum Anselmum, lib. *De concept. Virg*., cap. 2, qualis fuit Adam in primo statu, tales etiam filios generasset. Sed supra habitum est quod pueri non fuissent nati perfecti in scientia secundum unam opinionem, cui Magister magis assentire visus est, dist. 20. Ergo nec Adam in scientia perfectus factusParma and PLE omit *factus*. fuisset.  
+Quia, secundum Anselmum, lib. *De concept. Virg*., cap. 2, qualis fuit Adam in primo statu, tales etiam filios generasset. Sed supra habitum est quod pueri non fuissent nati perfecti in scientia secundum unam opinionem, cui Magister magis assentire visus est, dist. 20. Ergo nec Adam in scientia perfectus factus *(Parma and PLE omit *factus*.)* fuisset.  
 
 Praeterea, Augustinus dicit, 8 *Sup. Genes*., cap. 8, quod Adam ideo positus est ad operandum in paradiso ut naturas rerum experiretur. Sed experimentum est principium cognitionis accipiendae a sensibilibus, et per inventionem. Ergo videtur quod non statim in principio perfectam rerum cognitionem habuisset.  
 
@@ -208,13 +208,13 @@ Praeterea, quanto aliquid est nobilius, tanto minus decet esse defectum in eo. S
 
 Respondeo dicendum, quod illam scientiam necesse est homini in primo statu attribuere sine qua imperfectus fuisset, et nihil amplius. Tunc autem alicujus scientia imperfecta dicitur, quando non novit aliquid eorum quae ad ipsum pertinent; et ideo nulla notitia eorum quae ad hominem pertinebant, in primo statu homini defuisset. Pertinebat autem ad ipsum dispositio sui ipsius in actibus propriis; et ideo dicitur cognitionem perfectam habuisse eorum quae ab ipso agenda vel vitanda erant. Similiter etiam ad ipsum pertinebant aliae creaturae, inquantum propter ipsum factae erant, ut vel ab ipsis emolumentum acciperet, vel eis praeesset, et eas gubernaret; et ideo tantum de unaquaque re cognoscebat, quantum ad usum hominis pertinebat. Nec oportet plus cognitionis sibi adscribere in primo statu.  
 
-Hanc autem cognitionem aliter Adam habuit, et aliter ad eam ejus posteri pervenissent: quia natura a perfectis exordium sumit, ut Boetius dicit, *De consolat. phil*., lib. 3, et *Dei perfecta sunt opera*, ut Deut. 32:4, dicitur. Ideo Adam, tamquam principium totius humani generis, omnem perfectionem quae naturae humanae competit, in suo primordio accepit, sicut secundum corpus, ita et secundum animam, ut esset potens ad propagandum alios corporaliter et instruendum intellectum. Filii autem ejus, quia cum originali justitia nascebantur, quae sine prudentia esse non potest, sicut nec aliqua virtus, ut in 6 *Ethic*., Philosophus dicit, ideo oportuit quod statim nati habitum habuissent cognitionis illius, per quam cognoscere possent quid agere et quid vitare deberent; quamvis forte usus rationis impediretur secundum unam opinionem, propter organorum indispositionem. Sed habitus cognitionis aliarum rerum non est necesse quod in sua nativitate habuissent, sed per inventionem et doctrinam, ut tamenParma: *tantum*. simul cum perfectione corporis et perfectio cognitionis compleretur; unde Philosophus, in 6 *Ethic*., ubi supra, dicit quod prudentia et habitus hujusmodiParma omits *hujusmodi*. ad cognitionem rerum a nobis agendarum pertinentesParma and PLE: *pertinentes*; Mandonnet: *participantes*. sunt nobis magis naturales quam scientia aliarum rerum. Quidam vero dicunt quod etiam habitus cognitionis omnium rerum mox nati accepissent; sed hoc non videtur necessarium neque quantum ad integritatem naturae, neque quantum ad originalem justitiam.  
+Hanc autem cognitionem aliter Adam habuit, et aliter ad eam ejus posteri pervenissent: quia natura a perfectis exordium sumit, ut Boetius dicit, *De consolat. phil*., lib. 3, et *Dei perfecta sunt opera*, ut Deut. 32:4, dicitur. Ideo Adam, tamquam principium totius humani generis, omnem perfectionem quae naturae humanae competit, in suo primordio accepit, sicut secundum corpus, ita et secundum animam, ut esset potens ad propagandum alios corporaliter et instruendum intellectum. Filii autem ejus, quia cum originali justitia nascebantur, quae sine prudentia esse non potest, sicut nec aliqua virtus, ut in 6 *Ethic*., Philosophus dicit, ideo oportuit quod statim nati habitum habuissent cognitionis illius, per quam cognoscere possent quid agere et quid vitare deberent; quamvis forte usus rationis impediretur secundum unam opinionem, propter organorum indispositionem. Sed habitus cognitionis aliarum rerum non est necesse quod in sua nativitate habuissent, sed per inventionem et doctrinam, ut tamen *(Parma: *tantum*.)* simul cum perfectione corporis et perfectio cognitionis compleretur; unde Philosophus, in 6 *Ethic*., ubi supra, dicit quod prudentia et habitus hujusmodi *(Parma omits *hujusmodi*.)* ad cognitionem rerum a nobis agendarum pertinentes *(Parma and PLE: *pertinentes*; Mandonnet: *participantes*.)* sunt nobis magis naturales quam scientia aliarum rerum. Quidam vero dicunt quod etiam habitus cognitionis omnium rerum mox nati accepissent; sed hoc non videtur necessarium neque quantum ad integritatem naturae, neque quantum ad originalem justitiam.  
 
 Ad primum ergo dicendum, quod, ut supra dictum est, non oportuit ut filii Adae sibi similarentur nisi in his quae ad speciem humanam pertinebant vel ex conditione naturae, vel ex Dei beneficio. Hoc autem quod Adam in primordio suae conditionis habitum omnium rerum accepit, non conveniebat sibi inquantum homo, sed inquantum homo humani generis principium; unde non oportet quod aliis convenisset.  
 
-Ad secundum dicendum, quod aliquis experitur aliquid dupliciter. Vel ut ex sensibilibus, quorum experientia habitum cognitionis acquirit; sicut in nobis fit, qui ex multis experimentis unum universale colligimus, quod est principium artis vel scientiae; et sic Adam experimento non indigebat. Alio modo ut illud quod quis per habitum cognitionis tenet, etiam in rebus videat; hoc enim scienti delectabile est; et sic Adam experimenta de naturis rerumParma omits *rerum*. sumpsisset.  
+Ad secundum dicendum, quod aliquis experitur aliquid dupliciter. Vel ut ex sensibilibus, quorum experientia habitum cognitionis acquirit; sicut in nobis fit, qui ex multis experimentis unum universale colligimus, quod est principium artis vel scientiae; et sic Adam experimento non indigebat. Alio modo ut illud quod quis per habitum cognitionis tenet, etiam in rebus videat; hoc enim scienti delectabile est; et sic Adam experimenta de naturis rerum *(Parma omits *rerum*.)* sumpsisset.  
 
-Ad tertium dicendum, quod intellectus noster, ut supra dictum est, indiget phantasmate, quod est objectum ejus, in duobus: scilicet in accipiendo scientiam secundum motum qui est a rebus ad animam, et in circumponendo illud quod apud se tenet, phantasmatibus, sicut in quibusdam exemplis,Al.: *sicut in quibusdam exemplis patet, secundum*, etc. secundum motum qui est ab anima ad res. Dico ergo quod intellectus Adae in primo statu non indigebat phantasmate quantum ad primum modum, sed quantum ad secundum, nec oportebat quod illud phantasma esset a sensu acceptum; alias non potuisset intelligere nisi rem quam prius vidisset. Contingit autem per operationem interiorum virtutum formari in imaginationeParma: *imagine*. aliquod phantasma quod nunquam per sensum est acceptum.  
+Ad tertium dicendum, quod intellectus noster, ut supra dictum est, indiget phantasmate, quod est objectum ejus, in duobus: scilicet in accipiendo scientiam secundum motum qui est a rebus ad animam, et in circumponendo illud quod apud se tenet, phantasmatibus, sicut in quibusdam exemplis, *(Al.: *sicut in quibusdam exemplis patet, secundum*, etc.)* secundum motum qui est ab anima ad res. Dico ergo quod intellectus Adae in primo statu non indigebat phantasmate quantum ad primum modum, sed quantum ad secundum, nec oportebat quod illud phantasma esset a sensu acceptum; alias non potuisset intelligere nisi rem quam prius vidisset. Contingit autem per operationem interiorum virtutum formari in imaginatione *(Parma: *imagine*.)* aliquod phantasma quod nunquam per sensum est acceptum.  
 
 Ad quartum dicendum, quod non propter hoc operationes sensuum in Adam frustra fuissent, si per eas cognitionem rerum ad se pertinentium non accepisset; quia per operationem sensus expertus fuisset exterius quod intellectus interius tenebat per habitum cognitionis innatae. Et praeterea hoc sibi supra conditionem naturae suae collatum fuerat ut scientiam non a sensibilibus acciperet; et ideo oportebat ut ea quae ad naturae perfectionem secundum sui conditionem conveniunt, ei non subtraherentur; sicut homini resurgenti membra apta ad comestionem non subtrahuntur, quamvis cibis ulterius non utatur.  
 
@@ -244,7 +244,7 @@ Ad primum ergo dicendum, quod, sicut supra dictum est, elatio quaedam mentem mul
 
 Ad secundum dicendum, quod mulier credidit serpentem usum loquendi divinitus accepisse, non quidem per conditionem naturae, sed per ministerium spiritualis creaturae; nec contulit utrum hoc fieret virtute boni vel mali angeli, aut utrum fieret Deo permittente, vel eo jubente.  
 
-Ad tertium dicendum, quod sicut divina providentia corpus hominis servasset illaesum ab omnibus exterioribus laesuris, ita etiam servasset intellectum hominis indeceptum in omnibus quae suam cognitionem excedebant,Parma: *impediebant*. ut statim falsum essePLE omits *esse*; Parma omits *falsum esse*. intelligeret, si quis falsum pro vero sibi diceret.  
+Ad tertium dicendum, quod sicut divina providentia corpus hominis servasset illaesum ab omnibus exterioribus laesuris, ita etiam servasset intellectum hominis indeceptum in omnibus quae suam cognitionem excedebant, *(Parma: *impediebant*.)* ut statim falsum esse *(PLE omits *esse*; Parma omits *falsum esse*.)* intelligeret, si quis falsum pro vero sibi diceret.  
 
 Ad quartum dicendum, quod quamvis a sensibus fuisset ei aliquid alio modo repraesentatum quam rei naturam haberet, non tamen in eo fuisset illa deceptio, nec quantum ad sensum, qui hoc modo recipiebat secundum proportionem suam ad sensibile, nec quantum ad intellectum, cujus judicio subjacebat illa discretio, quae inter sensum et rem erat, ut scilicet sciret quare aliter res videretur quam esset.  
 
@@ -252,16 +252,16 @@ Expositio textus
 
 *Sed non esse, laudabile homini, si ideo bene viveret, quia nemo male vivere suaderet*. Videtur hoc esse falsum: quia tunc, si nec angelus nec homo peccasset, actus hominis laudabilis non fuisset, cum tunc nullus esset ad malum persuasor.  
 
-SedPLE: *sed*; Mandonnet: *et*. dicendum quod hoc non est intelligendum ita quod laus humani actus dependeat a suasione mali, sed a potentiaAl.: *resistendi, suadendique in potentia*. resistendi suadenti; quae potentia manifestari potuit, si tentatus fuisset et vicisset. Unde signanter dicit: *si ideo*Al.: *et ideo*. *bene vivere posset, quia nemo male vivere suaderet*; ut quasi causa bene vivendi ostendatur hoc quod nullus ad malum persuadet.  
+Sed *(PLE: *sed*; Mandonnet: *et*.)* dicendum quod hoc non est intelligendum ita quod laus humani actus dependeat a suasione mali, sed a potentia *(Al.: *resistendi, suadendique in potentia*.)* resistendi suadenti; quae potentia manifestari potuit, si tentatus fuisset et vicisset. Unde signanter dicit: *si ideo* *(Al.: *et ideo*.)* *bene vivere posset, quia nemo male vivere suaderet*; ut quasi causa bene vivendi ostendatur hoc quod nullus ad malum persuadet.  
 
-*Et est gloriosius non consentire quam tentari non posse*. Videtur hoc esse falsum: quia cum Deus et angelus tentari non possint, aliquid esset in homine gloriosius quam in Deo vel angelo.Parma omits *vel angelo*.  
+*Et est gloriosius non consentire quam tentari non posse*. Videtur hoc esse falsum: quia cum Deus et angelus tentari non possint, aliquid esset in homine gloriosius quam in Deo vel angelo. *(Parma omits *vel angelo*.)*  
 
-SedPLE: *sed*; Mandonnet: *et*. dicendum quod hoc intelligendum est supposita conditione humanae naturae, per quam potest homo peccare et non peccare. Vel exponatur ut primum.  
+Sed *(PLE: *sed*; Mandonnet: *et*.)* dicendum quod hoc intelligendum est supposita conditione humanae naturae, per quam potest homo peccare et non peccare. Vel exponatur ut primum.  
 
 *Hanc autem scientiam homo peccando non perdidit*. Videtur falsum: quia nunc non habemus cognitionem omnium rerum, sicut Adam habuit.  
 
-SedPLE: *sed*; Mandonnet: *et*. dicendum quod etiam ista scientia aliquo modo per peccatum diminuta est, sed non adeo quod per hoc homo a via salutis impediatur; et ideo in salutari doctrina de hujusmodi instruendus non erat.  
+Sed *(PLE: *sed*; Mandonnet: *et*.)* dicendum quod etiam ista scientia aliquo modo per peccatum diminuta est, sed non adeo quod per hoc homo a via salutis impediatur; et ideo in salutari doctrina de hujusmodi instruendus non erat.  
 
 *Sed non habuit praescientiam eorum quae futura erant*. Videtur falsum: quia cum nos quorumdam futurorum praescientiam habeamus, cognitio ejus fuisset imperfectior quam nostra.  
 
-Sed dicendum quod nos non cognoscimus futura nisi prout quodammodo sunt praesentia in suis causis, quae sunt determinatae ad tales effectus, vel de necessitate, vel in majori parte; et sic etiam Adam in primo statu futurorum cognitionem habuisset multo plenius quam nos; non tamen eorum quae causas determinatas non habent, sicut ea quae ex libero arbitrio dependent, ut casus suus vel etiam status.Parma omits *vel etiam status*.
+Sed dicendum quod nos non cognoscimus futura nisi prout quodammodo sunt praesentia in suis causis, quae sunt determinatae ad tales effectus, vel de necessitate, vel in majori parte; et sic etiam Adam in primo statu futurorum cognitionem habuisset multo plenius quam nos; non tamen eorum quae causas determinatas non habent, sicut ea quae ex libero arbitrio dependent, ut casus suus vel etiam status. *(Parma omits *vel etiam status*.)*

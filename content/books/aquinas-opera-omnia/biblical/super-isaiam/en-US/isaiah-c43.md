@@ -4,7 +4,7 @@
 
 > ^41:2^ Who has raised up the just one from the east, has called him to follow him? He shall give the nations in his sight, and he shall rule over kings: he shall give them as the dust to his sword, as stubble driven by the wind, to his bow.
 
-> ^41:3^ He shall pursue them, he shall pass in peace, no path shall appear in*In*. DR: “after.” his feet.
+> ^41:3^ He shall pursue them, he shall pass in peace, no path shall appear in *(*In*. DR: “after.”)* his feet.
 
 > ^41:4^ Who has wrought and done these things, calling the generations from the beginning? I the Lord, I am the first and the last.
 
@@ -30,11 +30,11 @@
 
 > ^41:15^ I have made you as a new thrashing wain, with teeth like a saw: you shall thrash the mountains, and break them in pieces: and shall make the hills as chaff.
 
-> ^41:16^ You shall fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and you shall exult*Exultabis*. DR: “rejoice.” in the Lord, in the Holy One of Israel you shall be joyful.
+> ^41:16^ You shall fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and you shall exult *(*Exultabis*. DR: “rejoice.”)* in the Lord, in the Holy One of Israel you shall be joyful.
 
 > ^41:17^ The needy and the poor seek for waters, and there are none: their tongue has been dry with thirst. I the Lord will hear them, I the God of Israel will not forsake them.
 
-> ^41:18^ I will open rivers in the high*Supremis*. Vg.: *supinis*. hills, and fountains in the midst of the plains: I will turn the desert into pools of waters, and the impassable land into streams of waters.
+> ^41:18^ I will open rivers in the high *(*Supremis*. Vg.: *supinis*.)* hills, and fountains in the midst of the plains: I will turn the desert into pools of waters, and the impassable land into streams of waters.
 
 > ^41:19^ I will plant in the wilderness the cedar, and the thorn, and the myrtle, and the olive tree: I will set in the desert the fir tree, the elm, and the box tree together:
 
@@ -52,7 +52,7 @@
 
 > ^41:26^ Who has declared from the beginning, that we may know: and from time of old, that we may say: you are just. There is none that shows, nor that foretells, nor that hears your words.
 
-> ^41:27^ The first shall say to Zion: behold I am*Adsum*. Vg.: *adsunt*. DR: “they are.” here, and to Jerusalem I will give evangelists.*Evangelistas*. Vg.: *evangelistam*. DR: “an evangelist.”
+> ^41:27^ The first shall say to Zion: behold I am *(*Adsum*. Vg.: *adsunt*. DR: “they are.”)* here, and to Jerusalem I will give evangelists. *(*Evangelistas*. Vg.: *evangelistam*. DR: “an evangelist.”)*
 
 > ^41:28^ And I saw, and there was no one even among them to consult, or who, when I asked, could answer a word.
 
@@ -104,7 +104,7 @@ and first, as to freedom from evils, he excludes fear, because of the presence o
 
 **807**. Second, as to abundance of goods;  
 
-and first, against slavery, he sets out the very yoke of slavery: ***fear not, you worm***, as if to say: you who were thought vile and trampled on as a worm, and were reckoned for dead: *I am a worm, and no man* (Ps 21:7[22:6]); he also sets out divine help, below: ***I have helped you*** (50).Rather, this is the text from this verse. Cf. 49:8. He also sets out the benefit of exaltation as to the subjugation of enemies: ***I have made you as a new thrashing wain***, above: ***Moab shall be trodden down under him, as straw is broken in pieces with the wain*** (Isa 25:10); which perhaps was fulfilled in the time of the Maccabees; and as to their exaltation: ***and you shall exult***: *we will exult*Exultabimus*. DR: “be glad.” and rejoice in you* (Song 1:3[4]).  
+and first, against slavery, he sets out the very yoke of slavery: ***fear not, you worm***, as if to say: you who were thought vile and trampled on as a worm, and were reckoned for dead: *I am a worm, and no man* (Ps 21:7[22:6]); he also sets out divine help, below: ***I have helped you*** (50). *(Rather, this is the text from this verse. Cf. 49:8.)* He also sets out the benefit of exaltation as to the subjugation of enemies: ***I have made you as a new thrashing wain***, above: ***Moab shall be trodden down under him, as straw is broken in pieces with the wain*** (Isa 25:10); which perhaps was fulfilled in the time of the Maccabees; and as to their exaltation: ***and you shall exult***: *we will exult *(*Exultabimus*. DR: “be glad.”)* and rejoice in you* (Song 1:3[4]).  
 
 Second, against poverty,  
 
@@ -142,7 +142,7 @@ Third, he deduces their defect as to material cause: ***behold, you***, idols, *
 
 **811**. ***I have raised up***. Here he takes up a certain particular fact to argue against idols.  
 
-And first, he foretells something to come: ***from the north***, Chaldea; ***from the rising of the sun***,Or “from the east” (*ab oriente*). Persia, which subjugated to itself various lands and princes, ***potter** (plastes)*—*plasma*, a thing produced; mystically: he who comes from the north signifies the gentile; he who comes from the rising of the sun, Christ: *I shall bring them to naught, like the dirt in the streets* (Ps 17:43[18:42]).  
+And first, he foretells something to come: ***from the north***, Chaldea; ***from the rising of the sun***, *(Or “from the east” (*ab oriente*).)* Persia, which subjugated to itself various lands and princes, ***potter** (plastes)*—*plasma*, a thing produced; mystically: he who comes from the north signifies the gentile; he who comes from the rising of the sun, Christ: *I shall bring them to naught, like the dirt in the streets* (Ps 17:43[18:42]).  
 
 Second, from this, he sets out an argument under the form of a question: that he who can foretell this is justly called God; and he who cannot, is not: ***who has declared***, below: ***assemble yourselves together, all you, and hear*** (Isa 48:14).  
 

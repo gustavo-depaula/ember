@@ -8,17 +8,17 @@
 
 > ^62:4^ You shall no more be called Forsaken: and your land shall no more be called Desolate: but you shall be called My pleasure in her, and your land inhabited. Because the Lord has been well pleased with you: and your land shall be inhabited.
 
-> ^62:5^ For the young man shall dwell with the virgin, and your sons*Filii*. DR: “children.” shall dwell in you. And the bridegroom shall rejoice over the bride, and your God shall rejoice over you.
+> ^62:5^ For the young man shall dwell with the virgin, and your sons *(*Filii*. DR: “children.”)* shall dwell in you. And the bridegroom shall rejoice over the bride, and your God shall rejoice over you.
 
 > ^62:6^ Upon your walls, O Jerusalem, I have appointed watchmen all the day, and all the night, they shall never hold their peace. You that are mindful of the Lord, hold not your peace,
 
 > ^62:7^ and give him no silence till he establish, and till he make Jerusalem a praise in the earth.
 
-> ^62:8^ The Lord has sworn by his right hand, and by the arm of his strength: if I will give your corn to be meat for your enemies: and the sons of the strangers shall drink your wine,DR translates the idiomatic negative Hebrew oath: “surely I will no more give thy corn to be meat for thy enemies: and the sons of the strangers shall not drink thy wine.” (See Britt, *A Dictionary of the Vulgate Psalter*, Introduction, xxvi.) for which you have labored.
+> ^62:8^ The Lord has sworn by his right hand, and by the arm of his strength: if I will give your corn to be meat for your enemies: and the sons of the strangers shall drink your wine, *(DR translates the idiomatic negative Hebrew oath: “surely I will no more give thy corn to be meat for thy enemies: and the sons of the strangers shall not drink thy wine.” (See Britt, *A Dictionary of the Vulgate Psalter*, Introduction, xxvi.))* for which you have labored.
 
 > ^62:9^ For they that gather it, shall eat it, and shall praise the Lord: and they that bring it together, shall drink it in my holy courts.
 
-> ^62:10^ Go through, go through the gates, prepare the way for the people, make the road plain, pick out the stones, and lift up the signDR: “standard.” to the people.
+> ^62:10^ Go through, go through the gates, prepare the way for the people, make the road plain, pick out the stones, and lift up the sign *(DR: “standard.”)* to the people.
 
 > ^62:11^ Behold the Lord has made it to be heard in the ends of the earth, tell the daughter of Zion: behold your Savior comes: behold his reward is with him, and his work before him.
 
@@ -62,13 +62,13 @@ And he excludes disgrace, and in so doing again pronounces a new name, ***you sh
 
 And first, as to driving back their enemies: ***if***, supply: you do not trust in me, ***I will give your corn to be meat for your enemies***: *he that tills his ground* (Prov 28:19), and eats not the fruit from it.  
 
-Second, as to the liberation of captives, as to the preparation of the way: ***go through***, you messengers of Cyrus and Darius; ***pick out the stones***, impediments: *take the stones out of the way* (Jer 50:26); or you, watchmen of the walls: preachers. As to the granting of joy: ***lift up the sign***, the decree of Cyrus that all the captives could return, or ***the sign***, of the cross, above: ***he shall set up a sign***DR: “standard.” ***unto the nations*** (Isa 11:12). And as to the retribution of justice: ***tell the daughter of Zion***, the people of the Jews, ***behold your Savior***, God, or Cyrus; ***behold his reward is with him***, that he might repay good things to you and evil things to your enemies. Mystically, this refers to the coming of Christ to judge, above (Isa 40:9–10) has the same thing.  
+Second, as to the liberation of captives, as to the preparation of the way: ***go through***, you messengers of Cyrus and Darius; ***pick out the stones***, impediments: *take the stones out of the way* (Jer 50:26); or you, watchmen of the walls: preachers. As to the granting of joy: ***lift up the sign***, the decree of Cyrus that all the captives could return, or ***the sign***, of the cross, above: ***he shall set up a sign*** *(DR: “standard.”)* ***unto the nations*** (Isa 11:12). And as to the retribution of justice: ***tell the daughter of Zion***, the people of the Jews, ***behold your Savior***, God, or Cyrus; ***behold his reward is with him***, that he might repay good things to you and evil things to your enemies. Mystically, this refers to the coming of Christ to judge, above (Isa 40:9–10) has the same thing.  
 
 Third, where it says, ***and they shall call them***, he sets out the honor of the liberated people, who had a great reputation of holiness, because of the benefits given to them, above: ***after this you shall be called the city of the just, a faithful city*** (Isa 1:26). Mystically, this refers to the Church and the Christian people.  
 
 **1093**. Note on the words, ***for Zion’s sake I will not hold my peace*** (Isa 62:1), that the saints hold not their peace  
 
-first, because of the desire inflamed in them: *there came in my heart the word of the Lord*Vg. omits “the word of the Lord.” *as a burning fire* (Jer 20:9);  
+first, because of the desire inflamed in them: *there came in my heart the word of the Lord* *(Vg. omits “the word of the Lord.”)* *as a burning fire* (Jer 20:9);  
 
 second, because of the truth evident to them: *for we cannot but speak the things which we have seen* (Acts 4:20);  
 

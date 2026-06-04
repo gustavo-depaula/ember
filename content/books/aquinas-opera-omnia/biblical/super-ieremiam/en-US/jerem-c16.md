@@ -6,7 +6,7 @@
 
 ***Disaster of the drought***
 
-^14:1^ The word of the Lord which came to Jeremiah, concerning the words of the drought.Heb. עַל־דִּבְרֵ֖י הַבַּצָּרֹֽות: *concerning the matter of the drought*.  
+^14:1^ The word of the Lord which came to Jeremiah, concerning the words of the drought. *(Heb. עַל־דִּבְרֵ֖י הַבַּצָּרֹֽות: *concerning the matter of the drought*.)*  
 
 > ^14:2^ Judah has mourned, and her gates have fallen, and are darkened in the land, and the cry of Jerusalem is gone up.
 
@@ -38,7 +38,7 @@ First, he gives the title of the prophecy: this is ***the word***, of interior r
 
 Second, the inconvenience of the drought follows:  
 
-first, with regard to the affliction of men, specifically the lack of drinking water, he speaks of their sadness: ***Judah has mourned***, afflicted with thirst. *The vintage has mourned, the vine is weakened, and all who were joyful in heart have sighed* (Isa 24:7). ***Gates***, the judges who used to sit in the gates, ***have fallen***, from their original joy; ***are darkened***, that is, are shrouded in the darkness of tribulation. *He has struck her gates to the ground; he has destroyed and broken her bars* (Lam 2:2).Heb. מִבְצְרֵ֥י בַת־יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ: *he has struck down the strongholds of Judah; he has polluted her princes*. Alternatively, because the walls were becoming loose due to excessive dryness, when the gates collapsed it was not possible to repair them because of the shortage of water. ***The cry***, of complaint and lament. *There shall be a cry for wine in the streets; all happiness, and joy has been taken away from the land* (Isa 24:11).  
+first, with regard to the affliction of men, specifically the lack of drinking water, he speaks of their sadness: ***Judah has mourned***, afflicted with thirst. *The vintage has mourned, the vine is weakened, and all who were joyful in heart have sighed* (Isa 24:7). ***Gates***, the judges who used to sit in the gates, ***have fallen***, from their original joy; ***are darkened***, that is, are shrouded in the darkness of tribulation. *He has struck her gates to the ground; he has destroyed and broken her bars* (Lam 2:2). *(Heb. מִבְצְרֵ֥י בַת־יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ: *he has struck down the strongholds of Judah; he has polluted her princes*.)* Alternatively, because the walls were becoming loose due to excessive dryness, when the gates collapsed it was not possible to repair them because of the shortage of water. ***The cry***, of complaint and lament. *There shall be a cry for wine in the streets; all happiness, and joy has been taken away from the land* (Isa 24:11).  
 
 And he gives the cause of the sadness: ***the nobles have sent their inferiors to the water***. *The poor and needy seek water, and there is none; their tongue has become dry with thirst* (Isa 41:17). And with regard to the bareness of the land, a blow against their possessions: ***they were confounded and afflicted, and covered their heads***, as a sign of shame. ***You shall be ashamed of your fruits, because of the wrath of the fury of the Lord*** (Jer 12:13).  
 
@@ -122,7 +122,7 @@ First, he shows the falseness of the prophets with regard to the actions they ta
 
 Second, he threatens a punishment as much for the prophets who preach as for the people who believe: ***therefore, thus says the Lord***. *There will be those who bless this people and lead them astray, and those who are blessed will be cast down headlong* (Isa 9:16).  
 
-Third, the compassion of the prophet is made known to the people: ***and you shall speak to them: let my*** (or ***your***) ***eyes stream down tears***. And in this manner the lament of repentance is made known. *Stream down tears like a torrent* (Lam 2:18). The reason for this is given: ***for with destruction***, because of the multitude of the slain; ***terrible***, because of their incorrigibility; ***exceedingly***, because of its duration. *I shall break them small, as a clay jar is broken with a mighty destruction* (Isa 30:14).Thomas Aquinas here alters the subject and voice of the quotation.  
+Third, the compassion of the prophet is made known to the people: ***and you shall speak to them: let my*** (or ***your***) ***eyes stream down tears***. And in this manner the lament of repentance is made known. *Stream down tears like a torrent* (Lam 2:18). The reason for this is given: ***for with destruction***, because of the multitude of the slain; ***terrible***, because of their incorrigibility; ***exceedingly***, because of its duration. *I shall break them small, as a clay jar is broken with a mighty destruction* (Isa 30:14). *(Thomas Aquinas here alters the subject and voice of the quotation.)*  
 
 And he gives the manner of their destruction with regard to the punishment of slaughter: ***if I go out***, of doors, ***and if I go into***, by consideration. *Without, he shall slay them with the sword, and within, fear*—*the young man together with the virgin, the nursing mother, and the old man* (Deut 32:25). With regard to the captivity: ***the prophet also***. Above: ***I will scatter them among the nations, which they have not known, neither they nor their fathers*** (Jer 9:16).  
 

@@ -255,7 +255,7 @@ The brave man chooses the good of fortitude above the other goods which he may l
 
 It is not burdensome to show bravery against the weak and the difficult things which are honourable is not to be burdensome with anger.  
 
-The brave breath out harsh vigor through both nostrils, his blood is boiled, a sign of a man enraged. *Odyssey* 24.318.  
+The brave breath out harsh vigor through both nostrils, his blood is boiled, a sign of a man enraged.  *(*Odyssey* 24.318.)*  
 
 The truly brave act for the good of virtue, but raged beasts, just as raging men, act because of some agitation, which if they were not in the wood or swamp they would not encounter.  
 

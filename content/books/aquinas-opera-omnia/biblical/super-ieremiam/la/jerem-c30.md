@@ -40,7 +40,7 @@ Primo ponit falsae prophetiae titulum, in quo designatur tempus: ***in anno quar
 
 Secundo ponit falsum consolationis verbum: ***haec dicit Dominus***:  
 
-et primo promittit libertatem, ***contrivi***, destruxi: propter certitudinem dicitur in praeterito: ***jugum***,Here, the Parma edition reads *imperium*, “command,” in place of *iugum*, “yoke.” quod conterendum quidem erat, sed non tunc. Isa. 10: *computrescet jugum a facie olei*.  
+et primo promittit libertatem, ***contrivi***, destruxi: propter certitudinem dicitur in praeterito: ***jugum***, *(Here, the Parma edition reads *imperium*, “command,” in place of *iugum*, “yoke.”)* quod conterendum quidem erat, sed non tunc. Isa. 10: *computrescet jugum a facie olei*.  
 
 Secundo praedicit impletionis propinquitatem: ***adhuc duo anni dierum***, ne credantur anni annorum, sicut illud Ezech. 4: *diem pro anno, diem, inquam, pro anno dedi tibi*.  
 

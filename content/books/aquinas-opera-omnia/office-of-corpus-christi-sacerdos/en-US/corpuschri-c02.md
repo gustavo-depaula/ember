@@ -1,6 +1,6 @@
 # Compline
 
-[℣.Grant, Lord, a blessing.The hour of Compline is not found in BNF 1143. Instead, the hour has been adapted from the Inchcolm Antiphonary manuscript (MS 211.IV), in the Edinburgh University Library, which is a fragmentary manuscript that contains many of the same items as BNF 1143, though the antiphons for Compline are unique to it.  
+[℣.Grant, Lord, a blessing. *(The hour of Compline is not found in BNF 1143. Instead, the hour has been adapted from the Inchcolm Antiphonary manuscript (MS 211.IV), in the Edinburgh University Library, which is a fragmentary manuscript that contains many of the same items as BNF 1143, though the antiphons for Compline are unique to it.)*  
 *Benediction*. May almighty God grant us a quiet night and a perfect end. Amen.  
 
 *Short reading* (1 Pet 5:8–9)  
@@ -30,7 +30,7 @@ Glory be to the Father, and to the Son, * and to the Holy Spirit.
 
 As it was in the beginning, is now, * and ever shall be, world without end. Amen. Alleluia.]  
 
-*Antiphon*. Savior, have mercy on those singing the salubrious mystery of holy Zion, and to those standing by; give favor to your devoted ones and grant that it may profit the souls of all people.Another 13th century manuscript (Cambrai, Médiathèque d’agglomération, Ms. 38) instead indicates the first antiphon of the fourth nocturn: *memoriam fecit mirabilium suorum misericors et miserator Dominus, escam se dedit timentibus se, alleluia*, “he has made a memorial of his wonderful works, the gracious and merciful Lord; he himself has given food to those who fear him, alleluia.”  
+*Antiphon*. Savior, have mercy on those singing the salubrious mystery of holy Zion, and to those standing by; give favor to your devoted ones and grant that it may profit the souls of all people. *(Another 13th century manuscript (Cambrai, Médiathèque d’agglomération, Ms. 38) instead indicates the first antiphon of the fourth nocturn: *memoriam fecit mirabilium suorum misericors et miserator Dominus, escam se dedit timentibus se, alleluia*, “he has made a memorial of his wonderful works, the gracious and merciful Lord; he himself has given food to those who fear him, alleluia.”)*  
 
 Psalms 4, 30 (31), 90 (91), & 133 (134)  
 
@@ -138,7 +138,7 @@ Glory be, etc.
 
 Hymn  
 
-Before the ending of the day,Cambrai, Médiathèque d’agglomération, Ms. 38, indicates *Verbum Supernum* for the hymn for compline.  
+Before the ending of the day, *(Cambrai, Médiathèque d’agglomération, Ms. 38, indicates *Verbum Supernum* for the hymn for compline.)*  
 Creator of the world, we pray  
 That with your wonted favor thou  
 Wouldst be our guard and keeper now.  
@@ -163,7 +163,7 @@ Nunc dimittis
 
 ***Luke 2:29–32***
 
-*Antiphon for the Nunc dimittis*. O wonderful mystery, one consumes the Lord. The highest meal of eternal salvation has been obtained. Through it the poor man becomes rich in all good things. Holy Jesus, sweet Jesus Christ, strong and good shepherd, you who know all things and prevail, who thus nourishes mortals here, make us live with you. Alleluia, alleluia, alleluia.Cambrai, Médiathèque d’agglomération, Ms. 38, instead indicates the second antiphon of the fourth nocturn below: *memoria mea in generatione saeculorum: qui edunt me adhuc esurient, et qui bibunt me adhuc sitient, alleluia*; “he has made a memorial of his wonderful works, the gracious and merciful Lord. He himself has given food to those who fear him, alleluia.”  
+*Antiphon for the Nunc dimittis*. O wonderful mystery, one consumes the Lord. The highest meal of eternal salvation has been obtained. Through it the poor man becomes rich in all good things. Holy Jesus, sweet Jesus Christ, strong and good shepherd, you who know all things and prevail, who thus nourishes mortals here, make us live with you. Alleluia, alleluia, alleluia. *(Cambrai, Médiathèque d’agglomération, Ms. 38, instead indicates the second antiphon of the fourth nocturn below: *memoria mea in generatione saeculorum: qui edunt me adhuc esurient, et qui bibunt me adhuc sitient, alleluia*; “he has made a memorial of his wonderful works, the gracious and merciful Lord. He himself has given food to those who fear him, alleluia.”)*  
 
 Now you shall dismiss your servant, O Lord, * according to your word in peace;  
 

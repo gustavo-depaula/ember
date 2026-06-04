@@ -12,7 +12,7 @@
 
 > ^32:6^ For the fool will speak foolish things, and his heart will work iniquity, to practice hypocrisy, and speak to the Lord deceitfully, and to make empty the soul of the hungry, and take away drink from the thirsty.
 
-> ^32:7^ The vessels of the deceitful are most wicked: for he will frame*Concinnabit*. Vg.: *concinnavit*. DR: “ hath framed.” devices to destroy the meek, with lying words, when the poor man speaks judgment.
+> ^32:7^ The vessels of the deceitful are most wicked: for he will frame *(*Concinnabit*. Vg.: *concinnavit*. DR: “ hath framed.”)* devices to destroy the meek, with lying words, when the poor man speaks judgment.
 
 > ^32:8^ But the prince will devise such things as are worthy of a prince, and he shall stand above the rulers.
 
@@ -28,9 +28,9 @@
 
 > ^32:14^ For the house is forsaken, the multitude of the city is left, darkness and obscurity are come upon its dens for ever. A joy of wild asses, the pastures of flocks,
 
-> ^32:15^ Until the spirit be poured upon us from on high: and the desert shall be as Carmel,DR: “Charmel.” and Carmel shall be counted for a forest.
+> ^32:15^ Until the spirit be poured upon us from on high: and the desert shall be as Carmel, *(DR: “Charmel.”)* and Carmel shall be counted for a forest.
 
-> ^32:16^ And judgment shall dwell in the wilderness, and justice shall sit in Carmel.DR: “Charmel.”
+> ^32:16^ And judgment shall dwell in the wilderness, and justice shall sit in Carmel. *(DR: “Charmel.”)*
 
 > ^32:17^ And the work of justice shall be peace, and the service of justice quietness, and security for ever.
 
@@ -54,7 +54,7 @@ in the second, the destruction of their enemies: ***woe to you that spoils*** (c
 
 **700**. Concerning the first, he does two things.  
 
-First, he foretells the status of the liberated, as to the equity of the king: ***a king shall reign***, namely, Ezechias: *a king shall reign, and shall be wise* (Jer 23:5); as to the prosperity of the people: ***and princes shall rule in judgment***. As to consolation in tribulation: ***and a man shall be as when one is hid from the wind***, above: ***there shall be a tabernacle for a shade in the daytime from the heat*** (Isa 4:6). As to amendment in spiritual matters: ***the eyes of them that see***, namely, the prophets, ***shall not be dim***, as before, because of the sins of the king and the people, but shall receive clear visions from the Lord; ***and the ears***, namely, of their subjects, ***shall hearken***, fulfilling the precepts of the Lord given by the prophets. ***The heart of fools***, who formerly erred following idols; ***and the tongue of stammerers***, the prophets, who formerly spoke obscurely and enigmatically: *wisdom opened the mouth of the dumb, and made the tongues of infants eloquent* (Wis 10:21). And also as to their consequent liberty, namely, from tyrants: ***the fool shall no more be called prince***, namely, Sennacherib, to whom formerly they paid tribute, as is evident in 2 Kings 18:14. *I will deliver them out of the hand of the king of the Assyrians* (Ezek 24).Cf. Ezekiel 24:27; Isaiah 38:6.  
+First, he foretells the status of the liberated, as to the equity of the king: ***a king shall reign***, namely, Ezechias: *a king shall reign, and shall be wise* (Jer 23:5); as to the prosperity of the people: ***and princes shall rule in judgment***. As to consolation in tribulation: ***and a man shall be as when one is hid from the wind***, above: ***there shall be a tabernacle for a shade in the daytime from the heat*** (Isa 4:6). As to amendment in spiritual matters: ***the eyes of them that see***, namely, the prophets, ***shall not be dim***, as before, because of the sins of the king and the people, but shall receive clear visions from the Lord; ***and the ears***, namely, of their subjects, ***shall hearken***, fulfilling the precepts of the Lord given by the prophets. ***The heart of fools***, who formerly erred following idols; ***and the tongue of stammerers***, the prophets, who formerly spoke obscurely and enigmatically: *wisdom opened the mouth of the dumb, and made the tongues of infants eloquent* (Wis 10:21). And also as to their consequent liberty, namely, from tyrants: ***the fool shall no more be called prince***, namely, Sennacherib, to whom formerly they paid tribute, as is evident in 2 Kings 18:14. *I will deliver them out of the hand of the king of the Assyrians* (Ezek 24). *(Cf. Ezekiel 24:27; Isaiah 38:6.)*  
 
 **701**. Second, he describes the manner of liberation: ***for the fool***.  
 
@@ -70,11 +70,11 @@ second, the persecution: ***rise up, you rich women*** (Isa 32:9).
 
 Concerning the first, he sets out three things.  
 
-First, the wickedness of the king himself, as to the blasphemy of his mouth: ***the fool***, namely, Sennacherib, ***will speak foolish things***, blasphemous words, below (Isa 37:17). *The mouth of fools bubbles out folly* (Prov 15:2); as to the duplicity of his heart: ***his heart will work iniquity***, promising good land to the people, ***to the Lord deceitfully***, saying he has come by his command, below (Isa 36:10). *The thoughts of the just are counsels**Consilia*. Vg.: *judicia*. DR: “judgments.” (Prov 12:5); as to the cruelty of his work: ***to make empty the soul of the hungry***, despoiling them of the things by which they ought to have been nourished, against what it says in Proverbs 25:21: *if your enemy be hungry, give him to eat*.  
+First, the wickedness of the king himself, as to the blasphemy of his mouth: ***the fool***, namely, Sennacherib, ***will speak foolish things***, blasphemous words, below (Isa 37:17). *The mouth of fools bubbles out folly* (Prov 15:2); as to the duplicity of his heart: ***his heart will work iniquity***, promising good land to the people, ***to the Lord deceitfully***, saying he has come by his command, below (Isa 36:10). *The thoughts of the just are counsels* *(*Consilia*. Vg.: *judicia*. DR: “judgments.”)* (Prov 12:5); as to the cruelty of his work: ***to make empty the soul of the hungry***, despoiling them of the things by which they ought to have been nourished, against what it says in Proverbs 25:21: *if your enemy be hungry, give him to eat*.  
 
 **702**. Second, the malice of his princes: ***the vessels***, that is, the messengers and princes, ***of the deceitful***, namely, of Sennacherib: *a prince that gladly hears lying words, has all his servants wicked* (Prov 29:12); and the execution of their malice: ***for he***, namely, Rabsaces, about whom, see below (36), ***will frame*** (*concinnabit*), that is, compose, ***devices***—cinnus is a kind of drink composed of different kinds of things; ***the poor man***, the Jew: *your mouth has abounded with evil, and your tongue framed deceits* (Ps 49[50]:19).  
 
-**703**. Third, the prudence of Ezechias in his reign: ***the prince***, for Ezechias commanded that no one should respond to Sennacherib,2 Kings 18:36. above: ***I will restore your princes*Principes*. Vg.: *iudices*. DR: “judges.” as they were before*** (Isa 1:26).  
+**703**. Third, the prudence of Ezechias in his reign: ***the prince***, for Ezechias commanded that no one should respond to Sennacherib, *(2 Kings 18:36.)* above: ***I will restore your princes *(*Principes*. Vg.: *iudices*. DR: “judges.”)* as they were before*** (Isa 1:26).  
 
 **704**. ***Rich women***. Here he describes the persecution inflicted on them as to three things.  
 
@@ -82,7 +82,7 @@ First, as to the loss of fruits, stirring up attention: ***you women***, who cry
 
 **705**. Second, as to the devastation of the fields, he prescribes mourning, ***be astonished***: *I have put off the robe of peace* (Bar 4:20), above: ***and the Lord in that day shall call to weeping*** (Isa 22:12). And he foretells harm: ***upon the land***, above: ***briers and thorns shall come up*** (Isa 5:6) over it.  
 
-**706**. Third, as to the desolation of their cities and houses, he sets out the desolation itself: ***how much more***, namely, to be wept for, ***the city that rejoiced***, namely, Jerusalem, whose lower part was handed over to the Assyrians, above: ***a populous city, a joyous city*** (Isa 22:2). And the magnitude of the desolation as to the houses, for they were reduced to perpetual darkness, as happens to ruined buildings: ***and darkness***: *they shall grope in**In*. Vg.: *quasi in*. DR: “as in.” *the dark, and not in the light* (Job 12:25); and as to their fields: ***a joy of wild asses***, which dwell in great wildernesses: *a wild ass accustomed to the wilderness* (Jer 2:24).  
+**706**. Third, as to the desolation of their cities and houses, he sets out the desolation itself: ***how much more***, namely, to be wept for, ***the city that rejoiced***, namely, Jerusalem, whose lower part was handed over to the Assyrians, above: ***a populous city, a joyous city*** (Isa 22:2). And the magnitude of the desolation as to the houses, for they were reduced to perpetual darkness, as happens to ruined buildings: ***and darkness***: *they shall grope in* *(*In*. Vg.: *quasi in*. DR: “as in.”)* *the dark, and not in the light* (Job 12:25); and as to their fields: ***a joy of wild asses***, which dwell in great wildernesses: *a wild ass accustomed to the wilderness* (Jer 2:24).  
 
 **707**. ***Until the spirit be poured upon us***. Here he describes their liberation.  
 
@@ -106,7 +106,7 @@ First, divine consolation: these things, I say, will happen, when Sennacherib la
 
 **712**. Note on the words, ***the work of justice shall be peace***, that the peace of the saints in heaven will be beautiful,  
 
-first, because it will not be false (Wis 15Cf. Wisdom 3:3.);  
+first, because it will not be false (Wis 15 *(Cf. Wisdom 3:3.)*);  
 
 second, because it will not be interrupted, above: ***and there shall be no end of peace*** (Isa 9:7);  
 

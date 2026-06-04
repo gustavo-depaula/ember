@@ -306,7 +306,7 @@ Sed contra est quia ex tarditate eleemosynarum sequitur retardatio remedii, quo 
 
 Responsio. Dicendum quod in mora modici temporis non videtur esse magnum periculum; unde, si executor per modicum tempus eleemosynas differat ut, rebus defuncti melius venditis, ampliores eleemosynas dare possit, laudabiliter hoc facit. Si vero e converso per multum tempus differat eleemosynas distribuere, ut non multo ampliores eleemosynas faciat, non videtur esse absque culpa, quia forte defunctus a purgatorio liberaretur, in quo existenti remedium suffragiorum maxime necessarium erat. Haec autem requirit prudentis executoris examen, ut scilicet, consideratis dilatione temporis et conditione personae quae creditur citius vel tardius liberanda, et etiam quantitate augmenti eleemosynarum, faciat quod videbitur expedire defuncto.  
 
-[Et per hoc patet responsio ad obiecta.This text is not in the Leonine edition.]  
+[Et per hoc patet responsio ad obiecta. *(This text is not in the Leonine edition.)*]  
 
 ***Quaestio 9***
 

@@ -2,13 +2,13 @@
 
 ^27:1^ In that day the Lord with his hard, and great, and strong sword shall visit leviathan the bar serpent, and leviathan the crooked serpent, and shall slay the whale that is in the sea.  
 
-> ^27:2^ In that day the vineyard of pure wine shall sing to him.*Vinea meri cantabit ei*. DR: “there shall be singing to the vineyard of pure wine.”
+> ^27:2^ In that day the vineyard of pure wine shall sing to him. *(*Vinea meri cantabit ei*. DR: “there shall be singing to the vineyard of pure wine.”)*
 
 > ^27:3^ I am the Lord that keep it, I will suddenly give it drink: lest any hurt come to it, I keep it night and day.
 
-> ^27:4^ There is no indignation in me: who shall give to me*Mihi*. Vg.: *me*. DR: “make me.” a thorn and a brier in battle: shall I march against it, shall I set it on fire together?
+> ^27:4^ There is no indignation in me: who shall give to me *(*Mihi*. Vg.: *me*. DR: “make me.”)* a thorn and a brier in battle: shall I march against it, shall I set it on fire together?
 
-> ^27:5^ Or rather shall I take hold*Tenebo*. Vg.: *tenebit*. DR: “shall it take hold.” of my strength, shall it make peace with me, shall it make peace with me?
+> ^27:5^ Or rather shall I take hold *(*Tenebo*. Vg.: *tenebit*. DR: “shall it take hold.”)* of my strength, shall it make peace with me, shall it make peace with me?
 
 > ^27:6^ When they shall rush in unto Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed.
 
@@ -32,7 +32,7 @@ and first, by foreign scourges,
 
 second, by their own scourges: ***in that day*** (Isa 27:2); hence it said in Wisdom 11:11: *for you didst admonish and try them as a father*.  
 
-Concerning the first, he sets out the scourge of Babylon: ***with his sword***, namely, vengeance; ***Leviathan***, namely, Nabuchodonosor, because of the additionAccording to Jerome, *De nominibus Hebraicis* (PL 883–884), “Leviathan” means “their addition” (“additamentorum eorum”). Cf. Gregory, *Moralia*, 4.9.15, 33.9.17. to his kingdom that he subjugated to himself; ***the serpent***, because of his poisonous tyranny; ***bar***, because of the correction of the people by God, above: ***woe to the Assyrian, he is the rod of my anger*** (Isa 10:5); ***crooked***, because of their infidelity: *behold, he will drink up a river, and not wonder* (Job 40:18); ***the whale***: *I sit in the heart of the sea* (Ezek 28:2).  
+Concerning the first, he sets out the scourge of Babylon: ***with his sword***, namely, vengeance; ***Leviathan***, namely, Nabuchodonosor, because of the addition *(According to Jerome, *De nominibus Hebraicis* (PL 883–884), “Leviathan” means “their addition” (“additamentorum eorum”). Cf. Gregory, *Moralia*, 4.9.15, 33.9.17.)* to his kingdom that he subjugated to himself; ***the serpent***, because of his poisonous tyranny; ***bar***, because of the correction of the people by God, above: ***woe to the Assyrian, he is the rod of my anger*** (Isa 10:5); ***crooked***, because of their infidelity: *behold, he will drink up a river, and not wonder* (Job 40:18); ***the whale***: *I sit in the heart of the sea* (Ezek 28:2).  
 
 **621**. ***In that day***. Here correction by their own scourges is set out.  
 
@@ -48,7 +48,7 @@ second, the manner is examined: ***there is no indignation in me*** (Isa 27:4).
 
 Concerning the first, he does three things.  
 
-First, he foretells the song of sorrow: ***the vineyard***, formerly, in the prophets and patriarchs, ***of pure*** wine,*Vini meri.* above: ***for the vineyard of the Lord of hosts is the house of Israel*** (Isa 5:7).  
+First, he foretells the song of sorrow: ***the vineyard***, formerly, in the prophets and patriarchs, ***of pure*** wine, *(*Vini meri.*)* above: ***for the vineyard of the Lord of hosts is the house of Israel*** (Isa 5:7).  
 
 Second, he sets out the intention of the one who punishes: ***I am the Lord that keep it***, below: ***you have drunk at the hand of the Lord the cup of his wrath*** (Isa 51:17).  
 
@@ -66,7 +66,7 @@ First, he sets out severe judgment, setting out the wrath of rage: ***there is n
 
 **623**. Second, he sets out the moderation of the sentence: ***or rather shall I take hold of my strength?*** As if to say: ***I will restrain my wrath***; by way of contrast: *the Lord will not turn away the wrath of his indignation* (Jer 30:24). And he sets out the fruit of the moderation of the sentence as to the good, which all will bear in relation to God: ***shall it make peace with me***, as if to say: will he make peace with me by good works? Below: ***the work of justice shall be peace*** (Isa 32:17). In relation to himself, ***Israel shall blossom***, in faith, or in good intention, *and bud*, in completion of the work, below: ***Jerusalem shall flourish like the lily*** (Isa 35:1); and in relation to his neighbor: ***they shall fill the face of the world with seed*, *who shall rush in***, namely, the Apostles, above: ***the law shall come forth from Zion, and the word of the Lord from Jerusalem*** (Isa 2:3); *their sound has gone forth into all the earth: and their words unto the ends of the world* (Ps 18:5[19:4]).  
 
-**624**. And he sets out the supplementing of the punishment as to the ungrateful: ***has he struck him according to the stroke of him that struck him?*** Here he reproaches the benefit of the moderated punishment: *he has not dealt with us according to our sins* (Ps 102[103]:10). ***In measure***: here he threatens judgment adequate to their sin; ***when it shall be cast off***, from the worship of God through faithlessness, not believing in Christ: *according to the measure of the sin shall the measure also of the stripes be* (Deut 25:2); ***he has meditated***: here he shows the support of the sentence, ***with his severe spirit***, because it cannot be placated, above: ***cease therefore from the man, whose breath*Spiritus*. is in his nostrils*** (Isa 2:22).  
+**624**. And he sets out the supplementing of the punishment as to the ungrateful: ***has he struck him according to the stroke of him that struck him?*** Here he reproaches the benefit of the moderated punishment: *he has not dealt with us according to our sins* (Ps 102[103]:10). ***In measure***: here he threatens judgment adequate to their sin; ***when it shall be cast off***, from the worship of God through faithlessness, not believing in Christ: *according to the measure of the sin shall the measure also of the stripes be* (Deut 25:2); ***he has meditated***: here he shows the support of the sentence, ***with his severe spirit***, because it cannot be placated, above: ***cease therefore from the man, whose breath *(*Spiritus*.)* is in his nostrils*** (Isa 2:22).  
 
 **625**. Third, he explains the motive for moderating the punishment, so that he would not destroy them entirely at that time, namely, because Christ and the Apostles were to descend from that people, and through their preaching the worship of idols was to be abandoned; and this is what is meant by, ***when he shall have made all the stones of the altar, as burnt stones broken in pieces***, above: ***man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel*** (Isa 17:7).  
 
@@ -76,7 +76,7 @@ First, he sets out severe judgment, setting out the wrath of rage: ***there is n
 
 **628**. Third, the magnitude of the destruction, both as to universality of place: ***and it shall come to pass, that in that day the Lord will strike from the channel of the river even to the torrent of Egypt***, that is, from one end to the other, above: ***from the sole of the foot unto the top of the head, there is no soundness therein*** (Isa 1:6); and as to the small number of men who will remain: ***and you shall be gathered together one by one***: *you shall remain few in number* (Deut 28:62).  
 
-**629**. ***And it shall come to pass***. Here he sets out the consolation, through return to their land. ***A great trumpet***, the precept of the king, above: ***he shall set up a sign***DR: “standard.” ***unto the nations, and shall assemble the fugitives of Israel*** (Isa 11:12).  
+**629**. ***And it shall come to pass***. Here he sets out the consolation, through return to their land. ***A great trumpet***, the precept of the king, above: ***he shall set up a sign*** *(DR: “standard.”)* ***unto the nations, and shall assemble the fugitives of Israel*** (Isa 11:12).  
 
 **630**. Note on the words, ***the Lord with his sword shall visit*** (Isa 27:1), that the vengeance of God is called a sword that is:  
 
@@ -90,7 +90,7 @@ fourth, sharp, because it is piercing, even to the soul: *the word of God is liv
 
 fifth, shining, because of its evident fairness: *you shall perish by the sword, it shall devour you like the bruchus* (Nah 3:15).  
 
-**631**. Also on the word, ***Leviathan*** (Isa 27:1), note that the devil is called Leviathan, because he adds,See note on verse 1.  
+**631**. Also on the word, ***Leviathan*** (Isa 27:1), note that the devil is called Leviathan, because he adds, *(See note on verse 1.)*  
 
 first, to human wickedness: *add you iniquity upon their iniquity* (Ps 68:28[69:27]);  
 

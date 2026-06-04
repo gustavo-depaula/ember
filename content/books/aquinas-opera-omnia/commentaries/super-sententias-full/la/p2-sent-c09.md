@@ -4,11 +4,11 @@
 
 ***Divisio textus***
 
-Postquam determinavit de innascibilitate, quae est proprietas personae, sed non personalis, hic determinat de alia notione, quae non est proprietas personae, quia non uni tantum personae convenit, nec proprietas personalis, quia nullam personam constituit, scilicet de communi spiratione, quae designatur cum dicitur: Pater et Filius sunt principium Spiritus Sancti. Et dividitur in partes duas: in prima ostendit quomodo nomen principii de Deo dicatur, et quia quandoque dicitur ex tempore, quandoque ab aeterno principium, ideo in secunda ostendit qualiter aliquid de Deo ex tempore dici possit, 30 dist., ibi: *sunt enim quaedam quae ex tempore de Deo dicuntur*.Al.: *donum*.  
+Postquam determinavit de innascibilitate, quae est proprietas personae, sed non personalis, hic determinat de alia notione, quae non est proprietas personae, quia non uni tantum personae convenit, nec proprietas personalis, quia nullam personam constituit, scilicet de communi spiratione, quae designatur cum dicitur: Pater et Filius sunt principium Spiritus Sancti. Et dividitur in partes duas: in prima ostendit quomodo nomen principii de Deo dicatur, et quia quandoque dicitur ex tempore, quandoque ab aeterno principium, ideo in secunda ostendit qualiter aliquid de Deo ex tempore dici possit, 30 dist., ibi: *sunt enim quaedam quae ex tempore de Deo dicuntur*. *(Al.: *donum*.)*  
 
 Circa primum duo facit: primo ostendit quot modis Deus dicatur principium; secundo prosequitur divisionis partes, ibi: *et Pater ab aeterno principium est Filii*.  
 
-Et haec in duas: in prima ostendit qualiter Deus dicatur principium creaturae, quia non ab aeterno, sed ex tempore; et quia hoc commune est toti Trinitati, et quia est principium per creationem per aliquam operationem in creatura; in secunda ostendit qualiter dicatur principium divinae personae, ibi: *deinde*Al.: *demum*. *in eodem libro continuo ostendit quomodo Pater dicatur principium ad Filium et ad Spiritum Sanctum*.  
+Et haec in duas: in prima ostendit qualiter Deus dicatur principium creaturae, quia non ab aeterno, sed ex tempore; et quia hoc commune est toti Trinitati, et quia est principium per creationem per aliquam operationem in creatura; in secunda ostendit qualiter dicatur principium divinae personae, ibi: *deinde* *(Al.: *demum*.)* *in eodem libro continuo ostendit quomodo Pater dicatur principium ad Filium et ad Spiritum Sanctum*.  
 
 Et haec in duas: in prima ostendit quod Pater dicitur principium Filii; et ipse et Filius est principium Spiritus Sancti ab aeterno, non essentialiter, sed notionaliter; in secunda ostendit qua notione principium dicatur, ibi: *qua ergo notione est Pater, ea principium Filii dicitur*.  
 
@@ -52,7 +52,7 @@ Et ideo ad significandum ordinem talis originis, non competit nomen causae propt
 
 quia principium dicit ordinem originis absolute, non determinando aliquem modum qui ab origine personarum alienus sit. Invenitur enim aliquod principium quod non est extra essentiam principiati, sicut punctus a quo fluit linea; et quod non habet aliquam influentiam ad esse principiati, sicut terminus a quo dicitur principium motus, et sicut mane dicitur principium diei. Sed nomen auctoris addit super rationem principii hoc quod est non esse ab aliquo; et ideo solus Pater auctor dicitur, quamvis etiam Filius principium dicatur notionaliter.  
 
-Ad primum igitur dicendum, quod quia nomen principii impositum est secundum quod invenitur in creaturis, ubi principium est prius aliquo modo principiato, ideo a prioritate imponitur; sed tamen imponitur ad significandum illud a quo est aliquid. Unde quamvis quantum ad modum significandi divinis non competat, sicut et alia omniaParma adds *essentialia* and omits *omnia*. nomina quae a nobis imposita sunt, tamen quantum ad rem significandam propriissime ratio principii ibiParma: *sibi*. competit.  
+Ad primum igitur dicendum, quod quia nomen principii impositum est secundum quod invenitur in creaturis, ubi principium est prius aliquo modo principiato, ideo a prioritate imponitur; sed tamen imponitur ad significandum illud a quo est aliquid. Unde quamvis quantum ad modum significandi divinis non competat, sicut et alia omnia *(Parma adds *essentialia* and omits *omnia*.)* nomina quae a nobis imposita sunt, tamen quantum ad rem significandam propriissime ratio principii ibi *(Parma: *sibi*.)* competit.  
 
 Ad secundum dicendum, quod quamvis Pater dicatur principium Filii, non tamen dicendus est causa, nisi improprie, sicut Chrysostomus, *Hom*. 2 *super Joan*., utitur nomine causae, dicens Patrem causam Filii: principium enim in plus est quam causa, et causa in plus est quam elementum, sicut dicit Commentator, 5 *Metaph*. Unde omnis causa est principium, sed non convertitur.  
 
@@ -104,7 +104,7 @@ Articulus 3
 
 Utrum proprietas Patris et Filii, qua dicuntur principium Spiritus Sancti, sit tantum una  
 
-Ad tertium sic proceditur. Videtur quod non sitParma erroneously reads *nisi una*. una proprietas Patris et Filii, secundum quam dicuntur principium Spiritus Sancti.  
+Ad tertium sic proceditur. Videtur quod non sit *(Parma erroneously reads *nisi una*.)* una proprietas Patris et Filii, secundum quam dicuntur principium Spiritus Sancti.  
 
 Proprietas enim unitatem et multitudinem trahit a suppositis. Sed Pater et Filius non sunt unum suppositum. Ergo nec ipsorum est una proprietas.  
 
@@ -142,7 +142,7 @@ Praeterea, de Patre, et Filio, et Spiritu Sancto, ex eo quod sunt unum principiu
 
 Item, unitas causa est identitatis. Sed Pater et Filius non dicuntur idem principium Spiritus Sancti. Ergo nec unum.  
 
-Contra, sicut supra habitum est, in omnibus Pater et Filius unum sunt in quibusParma: *in quibus non distinguit relationis oppositio, et in quibus*, “wherein there is no opposition of relation, and wherein . . . .” hoc de illo dicitur. Sed Filius est principium de principio. Ergo Pater et Filius sunt unum principium.  
+Contra, sicut supra habitum est, in omnibus Pater et Filius unum sunt in quibus *(Parma: *in quibus non distinguit relationis oppositio, et in quibus*, “wherein there is no opposition of relation, and wherein . . . .”)* hoc de illo dicitur. Sed Filius est principium de principio. Ergo Pater et Filius sunt unum principium.  
 
 Praeterea, unius rei unum est principium. Sed Spiritus Sanctus est unus. Ergo unum ejus est principium.  
 
@@ -154,7 +154,7 @@ Et ideo alii dicunt, quod “unum” dicit unitatem notionis; et istud videtur e
 
 Ad primum igitur dicendum, quod ista divisio: aut sunt unum quod est Pater, aut sunt unum quod non est Pater, non est per contradictoria; unde utraque falsa est. Sed haec est vera: non sunt unum quod est Pater tantum; sed sunt unum quod est Pater et Filius; sicut sunt etiam unus Deus qui est Pater et Filius.  
 
-Ad secundum dicendum, quod quamvis dicantur unum principium Spiritus Sancti, non tamen dicuntur unus spirans vel unus spirator: quia hujusmodi distinctiones imponuntur ab actibus, qui semper significant ut adjacenter, et in talibus non attenditur in consignandoAl.: *consignificando*. pluraliter pluralitas formae significatae, sed suppositorum, ut supra dictum est.  
+Ad secundum dicendum, quod quamvis dicantur unum principium Spiritus Sancti, non tamen dicuntur unus spirans vel unus spirator: quia hujusmodi distinctiones imponuntur ab actibus, qui semper significant ut adjacenter, et in talibus non attenditur in consignando *(Al.: *consignificando*.)* pluraliter pluralitas formae significatae, sed suppositorum, ut supra dictum est.  
 
 Sed de creatione non est similis ratio ac de spiratione: quia spiratio praeexigit distinctionem in suppositis; unde est aliquo modo a pluribus suppositis inquantum distincta sunt, cum sit operatio personalis; sed creatio est opus essentiae divinae; unde est opus suppositi indistincti, prout essentia significatur id quod est, ut hoc nomine “Deus”; et ideo sicut Pater et Filius dicuntur unum, quod est unus Deus, ita et unus Creator; non tamen creans unus, quia participium est adjectivum.  
 
@@ -162,9 +162,9 @@ Ad tertium dicendum, quod non conceditur communiter, quod sint idem principium; 
 
 Expositio textus  
 
-*Pater est principium totius divinitatis*.Parma erroneously reads *deitatis*. Videtur esse falsum: quia aut divinitas sumitur pro essentia divina, aut pro personis. Si pro personis, sic non est principium totius divinitatis, id est omnium personarum, cum non sit principium sui ipsius. Si pro essentia, videtur falsum, quia non est principium essentiae. Et praeterea totalitas exigit aliquam distinctionem in partibus; in essentia autem nulla est distinctio. Respondeo dicendum, quod utroque modo accipi potest. Si enim accipiatur pro essentia, tunc totum non dicit integritatem partium, sed perfectionem naturae; et dicitur esse principium totius divinitatis, non quia Deitatem generet vel spiret; sed quia divinitatem, generando vel spirando, communicat; ut sit sensus: est principium divinitatis, id est ut Deitas habeatur. Sed sic etiam Filius posset dici principium divinitatis totius quia ab ipso perfecta divinitas est in Spiritu Sancto, nisi pro tanto quod non secundum omnem modum quo communicabilis est, et quia non per generationem. Si autem sumatur pro universitate personarum, tunc planius est; quia sic dicitur principium totius divinitatis, inquantum in omnibus personis divinis ipse est quasi principium a quo aliae personae fluunt, sicut punctum dicitur principium totius lineae, quamvis sui ipsius principium non sit.  
+*Pater est principium totius divinitatis*. *(Parma erroneously reads *deitatis*.)* Videtur esse falsum: quia aut divinitas sumitur pro essentia divina, aut pro personis. Si pro personis, sic non est principium totius divinitatis, id est omnium personarum, cum non sit principium sui ipsius. Si pro essentia, videtur falsum, quia non est principium essentiae. Et praeterea totalitas exigit aliquam distinctionem in partibus; in essentia autem nulla est distinctio. Respondeo dicendum, quod utroque modo accipi potest. Si enim accipiatur pro essentia, tunc totum non dicit integritatem partium, sed perfectionem naturae; et dicitur esse principium totius divinitatis, non quia Deitatem generet vel spiret; sed quia divinitatem, generando vel spirando, communicat; ut sit sensus: est principium divinitatis, id est ut Deitas habeatur. Sed sic etiam Filius posset dici principium divinitatis totius quia ab ipso perfecta divinitas est in Spiritu Sancto, nisi pro tanto quod non secundum omnem modum quo communicabilis est, et quia non per generationem. Si autem sumatur pro universitate personarum, tunc planius est; quia sic dicitur principium totius divinitatis, inquantum in omnibus personis divinis ipse est quasi principium a quo aliae personae fluunt, sicut punctum dicitur principium totius lineae, quamvis sui ipsius principium non sit.  
 
-*Vel, si melius dicitur, deitatis*.Parma erroneously reads *divinitatis*. Pro tanto melius, quia deitas dicitur a Deo, quod significat per se et essentialiter divinitatem habentem; sed divinitas dicitur a divino, quod est denominativum; unde potest etiam participationem divinitatis significare, secundum etiam quod dicitur perpetuitas specierum a philosophisParma: *a Philosopho*. divinum esse. Unde ad singularitatem excellentiae designandam, magis competit nomen deitatis quam divinitatis.Parma reads *magis competit nomen divinitatis quam deitatis*, which is precisely the opposite of what is being said here.  
+*Vel, si melius dicitur, deitatis*. *(Parma erroneously reads *divinitatis*.)* Pro tanto melius, quia deitas dicitur a Deo, quod significat per se et essentialiter divinitatem habentem; sed divinitas dicitur a divino, quod est denominativum; unde potest etiam participationem divinitatis significare, secundum etiam quod dicitur perpetuitas specierum a philosophis *(Parma: *a Philosopho*.)* divinum esse. Unde ad singularitatem excellentiae designandam, magis competit nomen deitatis quam divinitatis. *(Parma reads *magis competit nomen divinitatis quam deitatis*, which is precisely the opposite of what is being said here.)*  
 
 *Omnes naturas*, id est, omnes substantias; *et quae naturaliter sunt*, id est proprietates et operationes naturales.  
 

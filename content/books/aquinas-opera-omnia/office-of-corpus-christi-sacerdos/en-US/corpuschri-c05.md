@@ -131,7 +131,7 @@ Sung to *Adest dies* from the feast of St. Dominic.
 
 ***Isaiah 33:2***
 
-O Lord, have mercy on us:Indications for the chapter, responsory, and versicle for the hour of Prime do not appear in BNF 1143 and have thus been supplied from another 13th century manuscript (with later additions): Cambrai, Médiathèque d’agglomération, Ms. 38. This reading (Isaiah 33:2) is the reading indicated by the manuscript; a more common reading for Prime, however, would be 1 Timothy 1:17: *regi saeculorum immortali et invisibili, soli Deo honor et gloria in saecula saeculorum. Amen*. That is: “now to the king of ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.” for we have waited for you: be our arm in the morning, and our salvation in the time of trouble.  
+O Lord, have mercy on us: *(Indications for the chapter, responsory, and versicle for the hour of Prime do not appear in BNF 1143 and have thus been supplied from another 13th century manuscript (with later additions): Cambrai, Médiathèque d’agglomération, Ms. 38. This reading (Isaiah 33:2) is the reading indicated by the manuscript; a more common reading for Prime, however, would be 1 Timothy 1:17: *regi saeculorum immortali et invisibili, soli Deo honor et gloria in saecula saeculorum. Amen*. That is: “now to the king of ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.”)* for we have waited for you: be our arm in the morning, and our salvation in the time of trouble.  
 
 > [℟. Thanks be to God.]
 

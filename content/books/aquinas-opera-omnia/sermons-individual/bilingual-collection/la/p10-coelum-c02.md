@@ -22,7 +22,7 @@
 
 **2.4.** Immutabilitatis animae, sive vitae, sive sententiae, Ecclesiastes I: *terra vero in aeternum stat*. Et praemittitur: *generatio praeterit* bonorum *et generatio* iustorum *advenit*. Quare malus non corrigitur vel mutatur.  
 
-**3.** Descripta autem mundani hominis vilitate dignissima et iusti sublimitate mira, subditur utrorumque conversationis distinguenda qualitas sub verbo ***transeundi***. Notandum vero quod diversimode transire dicitur iustus et iniustus.Here ends the “M” text; the “P” text is supplied in the Latin below.  
+**3.** Descripta autem mundani hominis vilitate dignissima et iusti sublimitate mira, subditur utrorumque conversationis distinguenda qualitas sub verbo ***transeundi***. Notandum vero quod diversimode transire dicitur iustus et iniustus. *(Here ends the “M” text; the “P” text is supplied in the Latin below.)*  
 
 **3.1.** Transit enim iustus:  
 

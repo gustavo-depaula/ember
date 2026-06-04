@@ -8,53 +8,53 @@ After he has shown how original sin is passed down from the parents, here he sho
 
 In the first, he shows in what respect original sin is taken away in baptism and in what respect it remains.  
 
-In the second, he inquires what the cause is of the concupiscence that is not taken away by baptism but remains after baptism, at *moreover, it is usual to ask whether the concupiscence which remains after baptism . . . has God as its author or another*.*Sent*. II, 32.3(215).1.  
+In the second, he inquires what the cause is of the concupiscence that is not taken away by baptism but remains after baptism, at *moreover, it is usual to ask whether the concupiscence which remains after baptism . . . has God as its author or another*. *(*Sent*. II, 32.3(215).1.)*  
 
 The first part is divided into two parts.  
 
 In the first, he shows how original sin is remitted through baptism as regards the soul.  
 
-In the second, he inquires whether in baptism man is also purified of the uncleanness of the flesh, at *but it is usual to ask here whether even the flesh itself is purged in baptism of that uncleanness which it contracted at its conception from lustful concupiscence*.*Sent*. II, 32.2(214).1.  
+In the second, he inquires whether in baptism man is also purified of the uncleanness of the flesh, at *but it is usual to ask here whether even the flesh itself is purged in baptism of that uncleanness which it contracted at its conception from lustful concupiscence*. *(*Sent*. II, 32.2(214).1.)*  
 
 The first is divided into three parts.  
 
 In the first, he raises a doubt.  
 
-In the second, he poses a solution, showing that we speak of “original sin” in two ways, at *but although concupiscence remains after baptism, yet it does not dominate and reign as before*.*Sent*. II, 32.1(213).2.  
+In the second, he poses a solution, showing that we speak of “original sin” in two ways, at *but although concupiscence remains after baptism, yet it does not dominate and reign as before*. *(*Sent*. II, 32.1(213).2.)*  
 
-In the third, he further explains the ways and confirms them by authorities, at *and so original sin is said to be remitted in baptism by a double reason*.*Sent*. II, 32.1(213).3.  
+In the third, he further explains the ways and confirms them by authorities, at *and so original sin is said to be remitted in baptism by a double reason*. *(*Sent*. II, 32.1(213).3.)*  
 
 And he first shows that original sin is said to be absolved through baptism inasmuch as its guilt is taken away.  
 
-Second, it is said to be absolved inasmuch as concupiscence itself is lessened, at *then, he shows that it is also remitted in the sense that, by the grace of baptism, concupiscence itself is mitigated*.*Sent*. II, 32.1(213).5.  
+Second, it is said to be absolved inasmuch as concupiscence itself is lessened, at *then, he shows that it is also remitted in the sense that, by the grace of baptism, concupiscence itself is mitigated*. *(*Sent*. II, 32.1(213).5.)*  
 
-*Moreover, it is usual to ask whether the concupiscence which remains after baptism . . . has God as its author or another*.*Sent*. II, 32.3(215).1. Here he inquires whether God is the cause of the concupiscence that remains after baptism. And because concupiscence is contracted together with guilt and the infection of the stain, he thus does three things concerning this.  
+*Moreover, it is usual to ask whether the concupiscence which remains after baptism . . . has God as its author or another*. *(*Sent*. II, 32.3(215).1.)* Here he inquires whether God is the cause of the concupiscence that remains after baptism. And because concupiscence is contracted together with guilt and the infection of the stain, he thus does three things concerning this.  
 
 First, he inquires whether God is the author of this concupiscence.  
 
-Second, he inquires whether it befits the divine justice that a child should incur the guilt of punishment for the parent’s sin, at *it is also usual to ask by what justice a soul created innocent by God is bound by that sin*.*Sent*. II, 32.4(216).1.  
+Second, he inquires whether it befits the divine justice that a child should incur the guilt of punishment for the parent’s sin, at *it is also usual to ask by what justice a soul created innocent by God is bound by that sin*. *(*Sent*. II, 32.4(216).1.)*  
 
-Third, he inquires how it is becoming to the divine wisdom that its work, namely, the soul, should be infected immediately upon its creation, at *but if it is asked*.*Sent*. II, 32.6(218).1.  
+Third, he inquires how it is becoming to the divine wisdom that its work, namely, the soul, should be infected immediately upon its creation, at *but if it is asked*. *(*Sent*. II, 32.6(218).1.)*  
 
 Concerning the second, he does two things.  
 
 First, he addresses the principal question.  
 
-And because guilt follows on the voluntary element of sin, without which no one is obliged to punishment, he shows, second, how original sin can be called both “necessary” and “voluntary,” at *it may also not undeservedly be asked*.*Sent*. II, 32.5(217).1.  
+And because guilt follows on the voluntary element of sin, without which no one is obliged to punishment, he shows, second, how original sin can be called both “necessary” and “voluntary,” at *it may also not undeservedly be asked*. *(*Sent*. II, 32.5(217).1.)*  
 
 Concerning the third, he does three things.  
 
 First, he shows how it is becoming to the divine wisdom for the soul to be infected immediately with the stain of original sin from its being joined to its body.  
 
-Second, he inquires whether the soul remains at any time in its own purity wherein God created it, or whether it is stained immediately at the very beginning of its creation, at *here it is usual for some to ask*.*Sent*. II, 32.7(219).1.  
+Second, he inquires whether the soul remains at any time in its own purity wherein God created it, or whether it is stained immediately at the very beginning of its creation, at *here it is usual for some to ask*. *(*Sent*. II, 32.7(219).1.)*  
 
-Third, supposing that it is not, he inquires whether one soul is preferred over another in natural goodness from its very creation, at *it is also usual to ask, not unsuitably*.*Sent*. II, 32.8(220).1.  
+Third, supposing that it is not, he inquires whether one soul is preferred over another in natural goodness from its very creation, at *it is also usual to ask, not unsuitably*. *(*Sent*. II, 32.8(220).1.)*  
 
 Here there are two questions.  
 
-First, how original sin is taken away by God through baptism.Q. 1.  
+First, how original sin is taken away by God through baptism. *(Q. 1.)*  
 
-Second, regarding its cause, whether the fact that man incurs original sin is also likewise from God.Q. 2.  
+Second, regarding its cause, whether the fact that man incurs original sin is also likewise from God. *(Q. 2.)*  
 
 Question 1  
 
@@ -72,13 +72,13 @@ Article 1
 
 ***Whether original sin is taken away through baptism***
 
-To the first we proceed as follows.Parallel texts: *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 12, q. 2, a. 2, resp. and ad 3; d. 14, q. 2, a. 1, resp. and ad 3; d. 17, q. 2, a. 2, resp. and ad 3; *ST* III.69.1, ad 1; *SCG* IV.59, 72. It seems that original fault is not taken away through baptism.  
+To the first we proceed as follows. *(Parallel texts: *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 12, q. 2, a. 2, resp. and ad 3; d. 14, q. 2, a. 1, resp. and ad 3; d. 17, q. 2, a. 2, resp. and ad 3; *ST* III.69.1, ad 1; *SCG* IV.59, 72.)* It seems that original fault is not taken away through baptism.  
 
 Obj. 1: For a privation is only taken away if the opposing habit is restored. But original justice, of which original sin is the privation, is not restored through baptism, since the due order of the lower powers to reason does not remain. Therefore, neither is original sin taken away through baptism.  
 
 Obj. 2: Furthermore, there are two things in baptism: one that is a reality-and-sign, namely, the character, and another that is only a reality, namely, the grace. Therefore, if baptism destroys original sin, this will either be by the power of the character it imprints or by the power of the grace it confers. If it is by the power of the character, then since even those who approach in bad faith obtain the character, it would follow that they would also be forgiven original fault, and in this case someone in mortal sin would be purged of a fault, which is unfitting. If, alternatively, it is by the power of grace, then grace is frequently lost after baptism by mortal sin, and so original sin would have to come back through any subsequent mortal sin. But original sin can only be purged through baptism. Therefore, whenever anyone does penance for a mortal sin, he would also at the same time have to be baptized against original sin.  
 
-Obj. 3: Furthermore, just as the act in an actual sin has the role of underlying the deformity in a material sense, so also does concupiscence in original sin, as was said above.Above: d. 30, exposition of text. But the deformity of sin cannot be taken away while the act of sin remains, since they are acts of the kind that cannot be done in a good way. Therefore, it is also the case that when this kind of concupiscence remains, original fault cannot be destroyed.  
+Obj. 3: Furthermore, just as the act in an actual sin has the role of underlying the deformity in a material sense, so also does concupiscence in original sin, as was said above. *(Above: d. 30, exposition of text.)* But the deformity of sin cannot be taken away while the act of sin remains, since they are acts of the kind that cannot be done in a good way. Therefore, it is also the case that when this kind of concupiscence remains, original fault cannot be destroyed.  
 
 Obj. 4: One might say that it does not remain intense, but is lessened.  
 
@@ -88,15 +88,15 @@ Obj. 5: One might say that it is only absolved as regards guilt.
 
 *On the contrary*, guilt follows on the deformity of fault. For a punishment is inflicted for the purpose of ordering a fault’s deformity through punishment, which in itself is disordered. Therefore, if original sin is not taken away as regards the deformity of the stain, then it seems that neither can it be absolved as regards the guilt.  
 
-Obj. 6: Furthermore, habits give rise to acts like themselves, as it says in the *Ethics* 2.Aristotle, *Nicomachean Ethics* 2.4, 1105b5–11. But to desire with concupiscence, which proceeds from disordered concupiscent desire, is a sin after baptism as well as before. Therefore, the same concupiscence does not lose the account of a fault through baptism.  
+Obj. 6: Furthermore, habits give rise to acts like themselves, as it says in the *Ethics* 2. *(Aristotle, *Nicomachean Ethics* 2.4, 1105b5–11.)* But to desire with concupiscence, which proceeds from disordered concupiscent desire, is a sin after baptism as well as before. Therefore, the same concupiscence does not lose the account of a fault through baptism.  
 
-On the contrary, *he who has died* to sin *is justified from transgression* (Rom 6:7).RSV reads *he who has died is freed from sin*. But one who is baptized dies with Christ and is buried with him through baptism, as the Apostle says in the same place. Therefore, every sin of one’s past life must be destroyed through baptism, unless the effect of baptism is impeded on the part of the one being baptized.  
+On the contrary, *he who has died* to sin *is justified from transgression* (Rom 6:7). *(RSV reads *he who has died is freed from sin*.)* But one who is baptized dies with Christ and is buried with him through baptism, as the Apostle says in the same place. Therefore, every sin of one’s past life must be destroyed through baptism, unless the effect of baptism is impeded on the part of the one being baptized.  
 
 Furthermore, one cannot simultaneously be a child of grace and a child of wrath. But we are born as children of wrath through original sin, as Ephesians 2:3 says: *we were by nature children of wrath*. But through baptism we are regenerated as children of grace. Therefore, original fault cannot remain after baptism.  
 
 I answer that we must speak of the remission of original fault in proportion to the remission of actual fault. For the act of sin leaves two effects in the sinner: the privation of grace by reason of turning away from the end, and a kind of disposition to a similar act, which the act of sin introduces by reason of turning toward the object. And from the very fact that one is deprived of grace by his own will, he incurs the guilt of punishment. Hence when grace is restored to him, the stain that consisted in lacking grace and the obligation to punishment that we call “guilt” is simultaneously taken away. However, the disposition introduced by the act of sin is not totally taken away all at once. Rather, it is lessened inasmuch as grace inclines to the contrary of this disposition. But later through a custom of good works, the disposition is also taken away.  
 
-Likewise, too, from the act of nature that is the propagation of the flesh, there is left a kind of disposition inclining to evil in the very nature of the one generated, which we call concupiscence or the *fomes*.For an explanation of the use of the word *fomes*, see note above, at d. 30, q. 1, a. 3, as well as Aquinas’s explanation of the term in the exposition of the text of the same distinction. From the very fact that the corruption of the nature containing in itself the power of the sin whereby it was caused touches the person, it renders the person himself unworthy of God’s grace. Hence a stain and lack of grace are left in the soul, and thereby the person is also obliged to the guilt of punishment, namely, to lack the reward that was due to grace.  
+Likewise, too, from the act of nature that is the propagation of the flesh, there is left a kind of disposition inclining to evil in the very nature of the one generated, which we call concupiscence or the *fomes*. *(For an explanation of the use of the word *fomes*, see note above, at d. 30, q. 1, a. 3, as well as Aquinas’s explanation of the term in the exposition of the text of the same distinction.)* From the very fact that the corruption of the nature containing in itself the power of the sin whereby it was caused touches the person, it renders the person himself unworthy of God’s grace. Hence a stain and lack of grace are left in the soul, and thereby the person is also obliged to the guilt of punishment, namely, to lack the reward that was due to grace.  
 
 Now, grace is conferred through baptism, and by its power the infection that passed from the nature to the person is taken away from a human being. With respect to this, the soul is purged of the stain of fault and consequently absolved of the guilt of punishment. But the disposition to evil that we call the “*fomes”* and “concupiscence” is not totally taken away, because this disposition follows on the condition of the nature. However, baptism does not purge the nature except as pertaining to the infection of the person. Thus, this disposition is not totally taken away until the state of beatitude, wherein the nature will be perfectly cured. Even so, the disposition is lessened through baptism, inasmuch as the grace that one obtains in baptism inclines to the contrary of that to which the *fomes* disposed the person. In this way, the power of the *fomes* is lessened in us through the help of grace.  
 
@@ -116,9 +116,9 @@ Article 2
 
 ***Whether the punishment of original sin ought to remain after baptism***
 
-To the second we proceed as follows.Parallel texts: below, d. 44, q. 2, a. 2, ad 2, 3; *In III Sent*., d. 19, q. 1, a. 3, resp.; *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 46, q. 2, a. 2, resp. and ad 3; *ST* I-II.85.5, ad 2; 87.7, ad 1; 109.9; II-II.104.6, ad 1; III.49.3, ad 3; 52.5, ad 2; 69.3; 69.7, ad 3; *SCG* IV.55; *On Evil*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1. It seems that the punishment of original sin should not remain after baptism.  
+To the second we proceed as follows. *(Parallel texts: below, d. 44, q. 2, a. 2, ad 2, 3; *In III Sent*., d. 19, q. 1, a. 3, resp.; *In IV Sent*., d. 4, q. 2, a. 1, resp.; d. 46, q. 2, a. 2, resp. and ad 3; *ST* I-II.85.5, ad 2; 87.7, ad 1; 109.9; II-II.104.6, ad 1; III.49.3, ad 3; 52.5, ad 2; 69.3; 69.7, ad 3; *SCG* IV.55; *On Evil*, q. 4, a. 6, ad 4; *Quodl*. VI, q. 9, a. 1.)* It seems that the punishment of original sin should not remain after baptism.  
 
-Obj. 1: For it is unjust for someone to be punished without fault. But original fault is taken away through baptism, as was said.Above: d. 32, q. 1, a. 1. Therefore, it would be unjust for the punishment to remain.  
+Obj. 1: For it is unjust for someone to be punished without fault. But original fault is taken away through baptism, as was said. *(Above: d. 32, q. 1, a. 1.)* Therefore, it would be unjust for the punishment to remain.  
 
 Obj. 2: Furthermore, gratuitous justice is of greater account than original justice. But when original justice remained in the soul, there was nothing pertaining to punishment in it, no rebellion of the flesh against the spirit, corruption, or passibility. Therefore, since gratuitous justice is conferred through baptism, it seems that punishment should not remain after baptism.  
 
@@ -130,15 +130,15 @@ Obj. 4: One might say that punishment’s not being taken away would not imply a
 
 Obj. 5: Furthermore, the grace conferred in baptism lessens the *fomes*. But when the cause grows, the effect grows. Therefore, if greater grace is infused, the *fomes* will be lessened even more. Therefore, grace will only be able to grow to the point that the *fomes* is totally taken away.  
 
-On the contrary, *for the desires of the flesh are against the spirit, and the desires of the spirit are against the flesh* (Gal 5:17). Yet here he is speaking to those who have been reborn through baptism. Therefore, this kind of rebellion is not taken away through baptism. We have this, too, from the passage, *so then it is no longer I that do it, but sin which dwells within me* (Rom 7:17), where “sin” means the *fomes* of sin, as a gloss says.Peter Lombard, *Commentary on Romans*, at Romans 7:24 (PL 191:1430); Hervé de Bourg-Dieu (ca. 1080–1150 AD), *Commentary on Romans*, ch. 7 (PL 181:692).  
+On the contrary, *for the desires of the flesh are against the spirit, and the desires of the spirit are against the flesh* (Gal 5:17). Yet here he is speaking to those who have been reborn through baptism. Therefore, this kind of rebellion is not taken away through baptism. We have this, too, from the passage, *so then it is no longer I that do it, but sin which dwells within me* (Rom 7:17), where “sin” means the *fomes* of sin, as a gloss says. *(Peter Lombard, *Commentary on Romans*, at Romans 7:24 (PL 191:1430); Hervé de Bourg-Dieu (ca. 1080–1150 AD), *Commentary on Romans*, ch. 7 (PL 181:692).)*  
 
-Furthermore, original sin proceeds into the offspring from the parent’s concupiscence, as was said above.Above: d. 31, q. 1, a. 1. Therefore, if one who is baptized did not have the concupiscence of the *fomes* after baptism, no one would generate a child in original sin, and the Master disproved this above. Therefore, baptism does not totally take away concupiscence.  
+Furthermore, original sin proceeds into the offspring from the parent’s concupiscence, as was said above. *(Above: d. 31, q. 1, a. 1.)* Therefore, if one who is baptized did not have the concupiscence of the *fomes* after baptism, no one would generate a child in original sin, and the Master disproved this above. Therefore, baptism does not totally take away concupiscence.  
 
-I answer that original sin is primarily and essentially the infection of the nature, and it infects the person as a consequence, insofar as the nature’s disposition redounds to the person. With respect to this, original sin is due two punishments. One punishment is inasmuch as it infects the person, namely, the lack of the vision of God. For the vision of God denotes a kind of act, and every act belongs to a person because, as the Philosopher says,Aristotle, *Nicomachean Ethics* 2.7, 1107a30. individuals have acts. Hence lack of the vision should also be referred to the person, since opposites concern the same thing. The other punishment is due it inasmuch as it infects the nature, including such things as the necessity of dying, passibility, the rebellion of the flesh against the spirit, and other such things. All these are caused from the principles of the nature and accrue to the whole species unless it turns out otherwise by a miracle.  
+I answer that original sin is primarily and essentially the infection of the nature, and it infects the person as a consequence, insofar as the nature’s disposition redounds to the person. With respect to this, original sin is due two punishments. One punishment is inasmuch as it infects the person, namely, the lack of the vision of God. For the vision of God denotes a kind of act, and every act belongs to a person because, as the Philosopher says, *(Aristotle, *Nicomachean Ethics* 2.7, 1107a30.)* individuals have acts. Hence lack of the vision should also be referred to the person, since opposites concern the same thing. The other punishment is due it inasmuch as it infects the nature, including such things as the necessity of dying, passibility, the rebellion of the flesh against the spirit, and other such things. All these are caused from the principles of the nature and accrue to the whole species unless it turns out otherwise by a miracle.  
 
 Therefore, it should be said that baptism cleanses the infection of original sin insofar as the nature’s infection redounds to the person. Thus, through baptism the punishment due the person is taken away, namely, the lack of the vision of God, whereas baptism does not remove the infection of the nature as essentially referred to the nature, although this will take place in heaven, when our nature will be restored to perfect freedom. Thus, the punishment due original fault as infecting the nature must remain after baptism, and such punishment is the *fomes*, the necessity of dying, and things of this sort.  
 
-Reply Obj. 1: To the extent that fault is destroyed, the punishment corresponding to it is also taken away, as is clear from what has been said.Resp.; d. 31, q. 1, a. 1, ad 4. Thus, nothing unjust happens.  
+Reply Obj. 1: To the extent that fault is destroyed, the punishment corresponding to it is also taken away, as is clear from what has been said. *(Resp.; d. 31, q. 1, a. 1, ad 4.)* Thus, nothing unjust happens.  
 
 Reply Obj. 2: In every effect that belongs to justice essentially, gratuitous justice is of greater account than original justice. But excluding penalties of this sort is not an effect of justice precisely as justice. Rather, it was the effect of original justice by reason of a certain incidental element connected with it, namely, inasmuch as it was continued and not interrupted in human nature. For it was becoming that just as the soul was directed to God without interruption through justice, so also the body would totally obey the soul without interruption. Thus, this effect need not befit gratuitous justice, since there has been an interruption in the uprightness of human nature in relation to God.  
 
@@ -152,7 +152,7 @@ Article 3
 
 ***Whether the fomes is found to be greater in one person than in another***
 
-To the third we proceed as follows.Parallel text: *ST* I-II.82.4. It seems that the *fomes* and concupiscence is found to be more in some and less in others.  
+To the third we proceed as follows. *(Parallel text: *ST* I-II.82.4.)* It seems that the *fomes* and concupiscence is found to be more in some and less in others.  
 
 Obj. 1: For when the cause is multiplied, the effect is multiplied. But the infection of the *fomes* is caused by the uncleanness of intercourse. Therefore, since the greater the distance a person is from the first generator, the more of such infecting acts there are, it seems that we always discover greater infection of the *fomes* in the offspring than in the parent.  
 
@@ -164,7 +164,7 @@ Obj. 4: Furthermore, just as the corruption of the *fomes* proceeds from the sin
 
 Obj. 5: Furthermore, it is obvious that the other penalties are intensified and lessened in accord with different bodily makeups, which causes some to be more passible and have shorter lifespans than others. Therefore, if the *fomes* is found in us through the same cause whereby the other penalties are found, it seems that it is intensified and lessened in accord with people’s constitutions.  
 
-On the contrary, what follows on a nature is found equally in all who have the nature. But the *fomes* follows on human nature as a corruption of it, as was said.Above: d. 32, q. 1, a. 1. Therefore, since all human beings participate in human nature equally, it seems that they also equally incur the corruption of the *fomes*.  
+On the contrary, what follows on a nature is found equally in all who have the nature. But the *fomes* follows on human nature as a corruption of it, as was said. *(Above: d. 32, q. 1, a. 1.)* Therefore, since all human beings participate in human nature equally, it seems that they also equally incur the corruption of the *fomes*.  
 
 Furthermore, equality of punishment should correspond to equality of fault. Therefore, since there is not a greater original fault in one than in another (because all are due a single punishment for this fault, namely, lacking the vision of God), it seems that the infection of original sin is also not greater in one than in another.  
 
@@ -192,27 +192,27 @@ first, whether it is from God;
 
 second, whether it is becoming for the divine wisdom to permit the soul to be stained in this way;  
 
-third, whether souls are unequal from their creation, as the Master says in the text.*Sent*. II, 32.8(220).1: *not unreasonably, it seems to many that, from creation itself, some souls excel others in natural gifts, as in their essence; one is more acute than another and better able to understand and remember, in as much as it is endowed with a sharper mind and a more far-seeing intellect*.  
+third, whether souls are unequal from their creation, as the Master says in the text. *(*Sent*. II, 32.8(220).1: *not unreasonably, it seems to many that, from creation itself, some souls excel others in natural gifts, as in their essence; one is more acute than another and better able to understand and remember, in as much as it is endowed with a sharper mind and a more far-seeing intellect*.)*  
 
 Article 1  
 
 ***Whether the infection of original sin is from God***
 
-To the first we proceed as follows.Parallel text: *ST* I-II.89.1. It seems that the infection of original sin is from God.  
+To the first we proceed as follows. *(Parallel text: *ST* I-II.89.1.)* It seems that the infection of original sin is from God.  
 
-Obj. 1: For when the soul is created, it is infused, as Augustine says.The manuscripts do not indicate where this citation might be found, though Nicolaï refers to chapter 14 of *De Ecclesiasticis Dogmatibus*, which is now attributed to Gennadius of Massilia (d. ca. 496 AD). But the soul is stained at its infusion. Therefore, it is also stained at its creation, and so it has a stain from God.  
+Obj. 1: For when the soul is created, it is infused, as Augustine says. *(The manuscripts do not indicate where this citation might be found, though Nicolaï refers to chapter 14 of *De Ecclesiasticis Dogmatibus*, which is now attributed to Gennadius of Massilia (d. ca. 496 AD).)* But the soul is stained at its infusion. Therefore, it is also stained at its creation, and so it has a stain from God.  
 
-Obj. 2: Furthermore, the Master said above*Sent*. II, 3.4(16).7. that if an angel had been wicked at the beginning of its creation, it would follow that God is the author of evil. But the soul has been stained at the beginning of its creation. Therefore, it follows that God is the cause of this stain.  
+Obj. 2: Furthermore, the Master said above *(*Sent*. II, 3.4(16).7.)* that if an angel had been wicked at the beginning of its creation, it would follow that God is the author of evil. But the soul has been stained at the beginning of its creation. Therefore, it follows that God is the cause of this stain.  
 
-Obj. 3: Furthermore, as Augustine says, every punishment is from God.Augustine, *De libero arbitrio*, bk. 2, ch. 1 (CCSL 29; PL 32:1239). But this infection, particularly as remaining after baptism, is a kind of punishment. Therefore, it is from God.  
+Obj. 3: Furthermore, as Augustine says, every punishment is from God. *(Augustine, *De libero arbitrio*, bk. 2, ch. 1 (CCSL 29; PL 32:1239).)* But this infection, particularly as remaining after baptism, is a kind of punishment. Therefore, it is from God.  
 
-Obj. 4: Furthermore, whatever follows on the principles of a nature proceeds from the nature’s author. But this sort of disorder follows from the principles of the nature, as was said above,Above: d. 30, q. 1, a. 1. inasmuch as every power naturally tends to its own object. Therefore, it proceeds from God, who is the author of the nature.  
+Obj. 4: Furthermore, whatever follows on the principles of a nature proceeds from the nature’s author. But this sort of disorder follows from the principles of the nature, as was said above, *(Above: d. 30, q. 1, a. 1.)* inasmuch as every power naturally tends to its own object. Therefore, it proceeds from God, who is the author of the nature.  
 
 Obj. 5: Furthermore, nothing is ordered to the good unless it is from God. But the *fomes* incites to the good, most of all as it remains after baptism. Therefore, it is from God.  
 
-On the contrary, Damascene saysJohn Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1006). that Christ assumed what he implanted in our nature. But he did not assume the corruption of the *fomes*. Therefore, the *fomes* in our nature is not from him.  
+On the contrary, Damascene says *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1006).)* that Christ assumed what he implanted in our nature. But he did not assume the corruption of the *fomes*. Therefore, the *fomes* in our nature is not from him.  
 
-Furthermore, Augustine saysAugustine, *Book of Eighty-Three Different Questions*, q. 3 (CCSL 44A; PL 40:11). that what makes a person worse cannot be from God. But the whole human nature has been put into a worse state through the infection of the *fomes*. Therefore, this kind of infection is not from God.  
+Furthermore, Augustine says *(Augustine, *Book of Eighty-Three Different Questions*, q. 3 (CCSL 44A; PL 40:11).)* that what makes a person worse cannot be from God. But the whole human nature has been put into a worse state through the infection of the *fomes*. Therefore, this kind of infection is not from God.  
 
 I answer that, in the infection of original sin, we can consider both the account of fault and of punishment. It has the account of a fault inasmuch as this kind of deficiency has resulted from the disordered will of our first parent. Hence just as the same Adam’s own actual sin, whereby his will became disordered, does not have God as its author, neither is the whole resulting deficiency, insofar as it has the account of a fault, from him. On the other hand, if we consider it insofar as it falls short of a given perfection, then it is a punishment. And God is the cause of this sort of punishment.  
 
@@ -244,15 +244,15 @@ Obj. 3: Furthermore, spiritual infection is worse than bodily infection. But cou
 
 Obj. 4: Furthermore, no wise craftsman makes the kind of work from which his intention cannot be brought to completion. But the end for which God made man is to enjoy his beatitude. Therefore, since the soul incurs the guilt of lacking the vision of God by being infused into this kind of body, it seems that this is not becoming to God’s wisdom.  
 
-Obj. 5: Furthermore, as Fulgentius says, God is the avenger of what he does not author.Fulgentius, *Ad Monimum*, bk. 1, ch. 19 (CCSL 91; PL 40:167). Therefore, for the same reason, it necessarily results that he is not the author of that which he avenges. But the infection of original fault, which God avenges, necessarily follows from the union of the soul with this kind of body. Therefore, it is unbecoming for God to unite the soul to a body of this kind.  
+Obj. 5: Furthermore, as Fulgentius says, God is the avenger of what he does not author. *(Fulgentius, *Ad Monimum*, bk. 1, ch. 19 (CCSL 91; PL 40:167).)* Therefore, for the same reason, it necessarily results that he is not the author of that which he avenges. But the infection of original fault, which God avenges, necessarily follows from the union of the soul with this kind of body. Therefore, it is unbecoming for God to unite the soul to a body of this kind.  
 
 On the contrary, it is unbecoming for God to change his works. But God established that human beings would be generated through the mingling of the sexes and that a soul would be infused into the body resulting from insemination. Therefore, it did not become God to change this.  
 
 Furthermore, it is not characteristic of one who is wise to introduce a greater deficiency to avoid a lesser deficiency. But it would be a greater deficiency if the human race were not multiplied—seeing as it is through the multiplication of the human race that the number of the elect is filled up—than for a child to be born in original fault. Therefore, it is not becoming for God to put an end to the natural multiplication of the human race in order to avoid the infection of original sin.  
 
-I answer that, just as the good of the nation is more divine than the good of a single person, as it says in the *Ethics* 1,Aristotle, *Nicomachean Ethics* 1.2, 1094b7. so also the good of the universe has priority over the good of a particular thing and a specific nature. Hence, too, a deficiency that redounds to the universe is worse. But if the human race’s natural multiplication were taken away, it would redound as a deficiency to the whole universe. For either a given nature conferring a perfection on the universe would be removed from the universe, or the universe would also have its natural perfection taken away from part of it, insofar as each thing is made to generate something like itself. Both would redound as a deficiency to the universe. Thus, the natural process of human generation ought not have been interrupted to avoid the infection of original sin.  
+I answer that, just as the good of the nation is more divine than the good of a single person, as it says in the *Ethics* 1, *(Aristotle, *Nicomachean Ethics* 1.2, 1094b7.)* so also the good of the universe has priority over the good of a particular thing and a specific nature. Hence, too, a deficiency that redounds to the universe is worse. But if the human race’s natural multiplication were taken away, it would redound as a deficiency to the whole universe. For either a given nature conferring a perfection on the universe would be removed from the universe, or the universe would also have its natural perfection taken away from part of it, insofar as each thing is made to generate something like itself. Both would redound as a deficiency to the universe. Thus, the natural process of human generation ought not have been interrupted to avoid the infection of original sin.  
 
-Furthermore, it is the natural order in things that, when what is posterior is removed, what is prior remains and is not taken away at the former’s removal. And so, when you remove a vice, being remains, as it says in the *Book of Causes*.Proclus, *Book of Causes*, prop. 1. Now, natural goodness pre-exists all super-added goodness, whether acquired or conferred gratuitously. Hence when the goodness that God had conferred gratuitously on human nature, namely, original justice, is subtracted, it is not appropriate to the order that divine wisdom established for things that one of the elements pertaining to natural goodness be changed, particularly since there remains in the nature the faculty to recover what was lost or something more excellent than it.  
+Furthermore, it is the natural order in things that, when what is posterior is removed, what is prior remains and is not taken away at the former’s removal. And so, when you remove a vice, being remains, as it says in the *Book of Causes*. *(Proclus, *Book of Causes*, prop. 1.)* Now, natural goodness pre-exists all super-added goodness, whether acquired or conferred gratuitously. Hence when the goodness that God had conferred gratuitously on human nature, namely, original justice, is subtracted, it is not appropriate to the order that divine wisdom established for things that one of the elements pertaining to natural goodness be changed, particularly since there remains in the nature the faculty to recover what was lost or something more excellent than it.  
 
 Reply Obj. 1: Just as someone would not be wise if he put a treasure, one that could be kept safe in a clean place, in a place that was not clean, so also he would be very foolish if he refused to store his treasure in an unclean place if there were no other way to preserve it, especially if there remained the possibility of cleaning up the treasure. I say as well that the soul has the kind of nature that is meant to be united to this kind of body. Hence if it were not united to this kind of body, the soul would either have to be not created at all or would have a different nature. And if it had a different nature, it would not be this nature. Hence it is established that this is the only way to preserve this nature.  
 
@@ -272,19 +272,19 @@ To the third we proceed as follows. It seems that souls are equal from their cre
 
 Obj. 1: For a formal difference differentiates species. But the soul is the form of the body. Therefore, since all men belong to a single species, it seems that there is no difference among men on the part of the soul.  
 
-Obj. 2: Furthermore, Gregory says that all men are by nature equal.Gregory the Great, *Moralia in Job*, bk. 21, ch. 15 (CCSL 143A; PL 75:203). But we take note of a thing’s dignity especially in reference to its form. Therefore, if one man has a soul that is more noble than another’s soul from creation, one man will also enjoy preeminence over another by nature, which contradicts the authority just cited.  
+Obj. 2: Furthermore, Gregory says that all men are by nature equal. *(Gregory the Great, *Moralia in Job*, bk. 21, ch. 15 (CCSL 143A; PL 75:203).)* But we take note of a thing’s dignity especially in reference to its form. Therefore, if one man has a soul that is more noble than another’s soul from creation, one man will also enjoy preeminence over another by nature, which contradicts the authority just cited.  
 
-Obj. 3: Furthermore, as it says in *On Generation and Corruption* 2,Aristotle, *On Generation and Corruption* 2.10, 336a27. the same is always naturally apt to make the same. Hence from a uniform agent there must be a uniform effect. But the soul is created immediately by God. Therefore, since there is no differentiation in God, it seems that souls are not unequal from creation.  
+Obj. 3: Furthermore, as it says in *On Generation and Corruption* 2, *(Aristotle, *On Generation and Corruption* 2.10, 336a27.)* the same is always naturally apt to make the same. Hence from a uniform agent there must be a uniform effect. But the soul is created immediately by God. Therefore, since there is no differentiation in God, it seems that souls are not unequal from creation.  
 
 Obj. 4: One might say that, although they do not possess differentiation from the agent, they do have it from matter.  
 
-*On the contrary*, forms that are differentiated in accord with the differentiation of matter are educed from the matter’s potency, as is clear in bodily forms. But the rational soul is not educed from the potency of matter. For, as it says in *On the Generation of Animals* 2,Aristotle, *On the Generation of Animals* 2.3, 736b25–29. the intellect is from without. Therefore, neither can there be inequality among souls from the differentiation of matter.  
+*On the contrary*, forms that are differentiated in accord with the differentiation of matter are educed from the matter’s potency, as is clear in bodily forms. But the rational soul is not educed from the potency of matter. For, as it says in *On the Generation of Animals* 2, *(Aristotle, *On the Generation of Animals* 2.3, 736b25–29.)* the intellect is from without. Therefore, neither can there be inequality among souls from the differentiation of matter.  
 
-Obj. 5: Furthermore, the Philosopher says in the *Metaphysics* 3Aristotle, *Metaphysics* 3.3, 999a5–13. that we cannot make predications referring to “prior” and “posterior” among individuals of a single species. But there can, in fact, be this kind of predication among different species, as when we predicate a genus of them with reference to “prior” and “posterior.” But it seems especially the case that a species receives predication of a genus as prior when a more noble form or difference participates in the nature of the genus. Therefore, it is not the case among individuals that one man possesses a more noble form than another. Therefore, it seems that neither does one man have a more noble soul than another from creation.  
+Obj. 5: Furthermore, the Philosopher says in the *Metaphysics* 3 *(Aristotle, *Metaphysics* 3.3, 999a5–13.)* that we cannot make predications referring to “prior” and “posterior” among individuals of a single species. But there can, in fact, be this kind of predication among different species, as when we predicate a genus of them with reference to “prior” and “posterior.” But it seems especially the case that a species receives predication of a genus as prior when a more noble form or difference participates in the nature of the genus. Therefore, it is not the case among individuals that one man possesses a more noble form than another. Therefore, it seems that neither does one man have a more noble soul than another from creation.  
 
-On the contrary (6), commenting on *On the Soul* 1,Averroes, *Commentary on Aristotle’s On the Soul*, bk. 1, comm. 53. the Commentator says that matter’s differentiation proceeds from form’s differentiation. But we see great differences among men on the part of the body, in accord with which one is keener on good or evil than another, as is clear in the different human constitutions. Therefore, their souls must possess this differentiation from their creation.  
+On the contrary (6), commenting on *On the Soul* 1, *(Averroes, *Commentary on Aristotle’s On the Soul*, bk. 1, comm. 53.)* the Commentator says that matter’s differentiation proceeds from form’s differentiation. But we see great differences among men on the part of the body, in accord with which one is keener on good or evil than another, as is clear in the different human constitutions. Therefore, their souls must possess this differentiation from their creation.  
 
-Furthermore (7), we have observational evidence that some men have a better intellect than others. But goodness of intellect cannot be caused on the side of the body. For the intellect is separate from the body, as proved in *On the Soul* 3.Aristotle, *On the Soul* 3.4, 429a22–26. Therefore, this must occur from the differentiation possessed by souls from their creation.  
+Furthermore (7), we have observational evidence that some men have a better intellect than others. But goodness of intellect cannot be caused on the side of the body. For the intellect is separate from the body, as proved in *On the Soul* 3. *(Aristotle, *On the Soul* 3.4, 429a22–26.)* Therefore, this must occur from the differentiation possessed by souls from their creation.  
 
 I answer that there are two opinions about the soul and angels. Some say that the soul and angels are composed of form and matter or of two elements that are parts of their essence. According to this, we might perhaps find a way of assigning a difference between souls and angels so that there would be more than one in a single species of themselves, since the unity of the species will be from the formal principle in them, while the differentiation of individuals is from the differentiation of the material principle, and we could even note among them certain degrees of nobility. This is how it seems the Master’s words sound, who says that there is a difference among souls in the way there is among angels.  
 
@@ -292,7 +292,7 @@ But because it was said above, in accord with the other opinion, that souls and 
 
 Now, every differentiation of this kind is caused by matter, and thus, since the soul does not have matter as part of it, differences and distinction of degrees among souls must be caused by the body’s being different, such that the better the body has been put together, the more noble is the soul allotted to it, since everything that is received in another is received after the manner of the receiver.  
 
-Two signs make this clear. The first is from what differs in genus. For we find that each thing participates in the genus of soul more nobly the more noble is the bodily constitution that it attains, as in men, brute animals, and plants. Hence even among things belonging to a single genus, the fact of bodily differences leads to the differences among souls. This is also clear from the sign of a good intellect, which the Philosopher in *On the Soul* 2Aristotle, *On the Soul* 2.9, 421a22–25. gives by saying that those who have a good sense of touch and are soft of flesh are astute of mind. Now, goodness of touch occurs due to equality of makeup. For the instrument of touch must be as a mean between contrary tangible objects, and the closer it is to that mean, the better the sense of touch will be. Hence it is clear that differences among souls result from differences among bodies.  
+Two signs make this clear. The first is from what differs in genus. For we find that each thing participates in the genus of soul more nobly the more noble is the bodily constitution that it attains, as in men, brute animals, and plants. Hence even among things belonging to a single genus, the fact of bodily differences leads to the differences among souls. This is also clear from the sign of a good intellect, which the Philosopher in *On the Soul* 2 *(Aristotle, *On the Soul* 2.9, 421a22–25.)* gives by saying that those who have a good sense of touch and are soft of flesh are astute of mind. Now, goodness of touch occurs due to equality of makeup. For the instrument of touch must be as a mean between contrary tangible objects, and the closer it is to that mean, the better the sense of touch will be. Hence it is clear that differences among souls result from differences among bodies.  
 
 Reply Obj. 1: There are two kinds of formal differentiation. One belongs to form essentially, in accord with what pertains to the account of the form. This kind of differentiation of form leads to the species’ being different. But there is another kind of differentiation that belongs to form not essentially, but incidentally, one that results from matter’s differentiation, insofar as a form participates in a more outstanding way in matter that is better disposed. This way of being different does not differentiate the species. This is how souls are different.  
 
@@ -310,14 +310,14 @@ Reply Sed Contra 7: Although the intellect is separate from the body as regards 
 
 Exposition of the text  
 
-*So that it is not able to dominate afterwards*.*Sent*. II, 32.1(213).2. It seems from this that by going after concupiscences, one calls back the dominion of original sin, and thus, that from actual sin, original fault returns.  
+*So that it is not able to dominate afterwards*. *(*Sent*. II, 32.1(213).2.)* It seems from this that by going after concupiscences, one calls back the dominion of original sin, and thus, that from actual sin, original fault returns.  
 
 But it should be said that the dominion of concupiscence is called back through an actual sin in two ways: because grace, which mitigated the impulse of concupiscence, is taken away; and because by an actual sin propensity to sin is increased. Now, in neither way does original sin return, as is clear from the aforementioned. For even if grace is subtracted, this does not occur by an act of origination. Hence it is not an original stain but an actual one that follows. Likewise, too, it does not return from the fact that propensity is increased by custom because this pertains not to what belongs to nature, which is what original sin essentially regards, but instead follows on the person as what remains due to personal acts.  
 
-*Concupiscence passes away in guilt and remains in act*.*Sent*. II, 32.1(213).6. “Act” is not taken here in the sense of an activity.Latin: *operatio*. For in this way, original sin does not consist in an act. Rather, it is taken in the way that “act” is distinguished from “potency,” as that which is already present is said to be in act. For example, blindness is said to be in act when someone is actually blind.  
+*Concupiscence passes away in guilt and remains in act*. *(*Sent*. II, 32.1(213).6.)* “Act” is not taken here in the sense of an activity. *(Latin: *operatio*.)* For in this way, original sin does not consist in an act. Rather, it is taken in the way that “act” is distinguished from “potency,” as that which is already present is said to be in act. For example, blindness is said to be in act when someone is actually blind.  
 
-*It seems to some that, just as the soul is purified from guilt, so also the flesh is purged of that pollution*.*Sent*. II, 32.2(214).2. Both opinions are true when understood in a certain sense. For if we take “pollution of the flesh” as regards the person, then in baptism it is cleansed so that the soul of a given human being can no longer be infected by that pollution. But, inasmuch as it regards the nature, it is not purged, since the infection is propagated to the offspring from nature’s act.  
+*It seems to some that, just as the soul is purified from guilt, so also the flesh is purged of that pollution*. *(*Sent*. II, 32.2(214).2.)* Both opinions are true when understood in a certain sense. For if we take “pollution of the flesh” as regards the person, then in baptism it is cleansed so that the soul of a given human being can no longer be infected by that pollution. But, inasmuch as it regards the nature, it is not purged, since the infection is propagated to the offspring from nature’s act.  
 
-*No prejudice to the truth follows from this, they say*.*Sent*. II, 32.2(214).4. This is true if understood of the truth of the faith, because it is not contrary to the faith. But it is contrary to the truth that reason can discover and that experience teaches.  
+*No prejudice to the truth follows from this, they say*. *(*Sent*. II, 32.2(214).4.)* This is true if understood of the truth of the faith, because it is not contrary to the faith. But it is contrary to the truth that reason can discover and that experience teaches.  
 
-*Yet it shares pleasure with the flesh when it is infused in the body*.*Sent*. II, 32.4(216).2. This cannot be, since this pleasure would indicate either some kind of activity, and in this case it would be an actual sin, as the Master says. Or it would indicate the natural inclination whereby the soul is joined with the body, and there can be no sin in this because what is natural cannot be evil.
+*Yet it shares pleasure with the flesh when it is infused in the body*. *(*Sent*. II, 32.4(216).2.)* This cannot be, since this pleasure would indicate either some kind of activity, and in this case it would be an actual sin, as the Master says. Or it would indicate the natural inclination whereby the soul is joined with the body, and there can be no sin in this because what is natural cannot be evil.

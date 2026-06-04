@@ -88,7 +88,7 @@ Ad tertium dicendum, quod aliquando species nominatur ab eo quod est generis, pr
 
 Quaestiuncula 3  
 
-Ad tertiam quaestionem dicendum, quod, sicut supra dictum est, in matrimonio tria possunt considerari; scilicet causa ipsius, et essentia ejus, et effectus; et secundum hoc tres definitiones inveniuntur de matrimonio datae. Nam definitio Hugonis tangit causam, scilicet consensum, et per se non*non.—nota* PLE. est. Definitio autem in littera posita tangit essentiam matrimonii, scilicet conjunctionem, et addit determinatum subjectum in hoc quod dicit: *inter legitimas personas*. Ponit etiam differentiam contrahentem ad speciem in hoc quod dicit, *maritalis*: quia cum matrimonium sit conjunctio in ordine ad aliquod unum, talis conjunctio in speciem trahitur per illud ad quod ordinatur; et hoc est quod ad maritum pertinet. Ponit etiam virtutem hujus conjunctionis, quia indissolubilis est, in hoc quod dicit: *individuam vitae consuetudinem retinens*.  
+Ad tertiam quaestionem dicendum, quod, sicut supra dictum est, in matrimonio tria possunt considerari; scilicet causa ipsius, et essentia ejus, et effectus; et secundum hoc tres definitiones inveniuntur de matrimonio datae. Nam definitio Hugonis tangit causam, scilicet consensum, et per se non *(*non.—nota* PLE.)* est. Definitio autem in littera posita tangit essentiam matrimonii, scilicet conjunctionem, et addit determinatum subjectum in hoc quod dicit: *inter legitimas personas*. Ponit etiam differentiam contrahentem ad speciem in hoc quod dicit, *maritalis*: quia cum matrimonium sit conjunctio in ordine ad aliquod unum, talis conjunctio in speciem trahitur per illud ad quod ordinatur; et hoc est quod ad maritum pertinet. Ponit etiam virtutem hujus conjunctionis, quia indissolubilis est, in hoc quod dicit: *individuam vitae consuetudinem retinens*.  
 
 Sed alia definitio tangit effectum ad quem ordinatur matrimonium; scilicet *vitam communem in rebus domesticis*. Et quia omnis communicatio aliqua lege ordinatur; ideo ponitur ordinativum istius communionis, scilicet jus divinum et humanum: aliae enim communicationes, ut negotiatorum et commilitantium, solo jure humano institutae sunt.  
 
@@ -158,7 +158,7 @@ Respondeo dicendum ad primam quaestionem, quod in omnibus sacramentis est aliqua
 
 Ad primum ergo dicendum, quod sacramentorum prima causa est divina virtus, quae in eis operatur salutem; sed causae secundae instrumentales sunt materiales operationes ex divina institutione efficaciam habentes; et sic consensus in matrimonio est causa.  
 
-Ad secundum dicendum, quod matrimonium non est ipse consensus, sed quaedam unio ordinatorum ad invicem,*invicem.—unum* PLE. ut dictum est, quam consensus facit; nec consensus, proprie loquendo, conjunctionem Christi ad Ecclesiam significat, sed voluntatem ejus, qua factum est ut Ecclesiae conjungeretur.  
+Ad secundum dicendum, quod matrimonium non est ipse consensus, sed quaedam unio ordinatorum ad invicem, *(*invicem.—unum* PLE.)* ut dictum est, quam consensus facit; nec consensus, proprie loquendo, conjunctionem Christi ad Ecclesiam significat, sed voluntatem ejus, qua factum est ut Ecclesiae conjungeretur.  
 
 Ad tertium dicendum, quod sicut matrimonium est unum ex parte ejus in quod fit conjunctio, quamvis sit multiplex ex parte conjunctorum; ita etiam consensus est unus ex parte ejus in quod consentitur, scilicet praedictae conjunctionis, quamvis sit multiplex ex parte consentientium: nec est directe consensus in virum, sed in conjunctionem ad virum ex parte uxoris; et similiter ex parte viri consensus in conjunctionem ad uxorem.  
 
@@ -174,7 +174,7 @@ Ad tertium dicendum, quod, sicut dicit Hugo de sancto Vict., eos qui conjunguntu
 
 Quaestiuncula 3  
 
-Ad tertiam quaestionem dicendum, quod causae sacramentales significando efficiunt, unde efficiunt quod significant: et quia cum aliquis consensum suum per verba de futuro exprimit, non significat se facere matrimonium, sed promittit se facturum; ideo talis expressio consensus non facit matrimonium, sed dispositionem*dispositionem.—sponsionem* PLE. ejus, quae *sponsalia* nominantur.  
+Ad tertiam quaestionem dicendum, quod causae sacramentales significando efficiunt, unde efficiunt quod significant: et quia cum aliquis consensum suum per verba de futuro exprimit, non significat se facere matrimonium, sed promittit se facturum; ideo talis expressio consensus non facit matrimonium, sed dispositionem *(*dispositionem.—sponsionem* PLE.)* ejus, quae *sponsalia* nominantur.  
 
 Ad primum ergo dicendum, quod consensus exprimitur per verba de praesenti, et verba sunt praesentia, et in praesens consentitur pro eodem tempore; sed quando consensus fit per verba de futuro, verba sunt praesentia, sed consentitur in futurum; et ideo non pro eodem tempore; et propter hoc non est simile.  
 
@@ -324,13 +324,13 @@ Et quia ratio paulatim in homine convalescit, secundum quod quietantur motus, et
 
 Ad primum ergo dicendum, quod si ante annos pubertatis fiat contractus sponsalium per alium, ambo vel alter reclamare possunt: unde tunc nihil est actum, adeo quod nec aliqua affinitas ex hoc contrahatur; et ideo sponsalia quae inter aliquos per personas alias contrahuntur, robur habent, inquantum illi inter quos contrahuntur, ad aetatem debitam venientes, non reclamant, ex quo intelliguntur consentire his quae per alios facta sunt.  
 
-Ad secundum dicendum, quod quidam dicunt, quod ille puer de quo Gregorius narrat, non fuerit damnatus, nec mortaliter peccavit; sed visio illa ostensa fuit ad patrem contristandum, qui in illo peccato peccaverat non corrigens. Sed hoc est expresse contra intentionem Gregorii dicentis quod pater pueri*pueri.—prius* PLE. animam parvuli filii negligens, non parvum peccatorem Gehennae ignibus nutrivit. Et ideo dicendum, quod ad peccatum mortale sufficit etiam consensus praesens; sed in sponsalibus est consensus in futurum. Major autem rationis discretio requiritur ad providendum in futurum quam ad consentiendum in unum praesentem actum; et ideo ante potest homo peccare mortaliter quam possit se obligare ad aliquid futurum.  
+Ad secundum dicendum, quod quidam dicunt, quod ille puer de quo Gregorius narrat, non fuerit damnatus, nec mortaliter peccavit; sed visio illa ostensa fuit ad patrem contristandum, qui in illo peccato peccaverat non corrigens. Sed hoc est expresse contra intentionem Gregorii dicentis quod pater pueri *(*pueri.—prius* PLE.)* animam parvuli filii negligens, non parvum peccatorem Gehennae ignibus nutrivit. Et ideo dicendum, quod ad peccatum mortale sufficit etiam consensus praesens; sed in sponsalibus est consensus in futurum. Major autem rationis discretio requiritur ad providendum in futurum quam ad consentiendum in unum praesentem actum; et ideo ante potest homo peccare mortaliter quam possit se obligare ad aliquid futurum.  
 
 Ad tertium dicendum, quod in tempore contractus matrimonii non solum requiritur dispositio ex parte usus rationis, sed etiam ex parte corporis, ut sit tempus generationi aptum. Et quia puella in duodecimo anno ad hoc venit ut possit esse actui generationis apta, puer autem in fine secundi septennii, ut Philosophus dicit in 9 *de Animalibus*; simul autem usum discretionis accipiunt, qui tantum in sponsalibus requiritur; ideo in sponsalibus determinatur unum tempus utrique, non autem in matrimonio.  
 
 Ad quartum dicendum, quod illa placentia quae est in pueris ante septennium, non procedit ex perfectae rationis usu, cum nondum sint plene susceptibiles disciplinae; sed magis contingit ex motu naturae quam ex aliqua ratione; et ideo non sufficit talis placentia ad sponsalia contrahendum.  
 
-Ad quintum dicendum, quod quamvis per secundum contractum in casu illo non faciant matrimonium, tamen ostendunt se ratam habere priorem permissionem;*permissionem.—promissionem* PLE. et ideo prior contractus accipit firmitatem.  
+Ad quintum dicendum, quod quamvis per secundum contractum in casu illo non faciant matrimonium, tamen ostendunt se ratam habere priorem permissionem; *(*permissionem.—promissionem* PLE.)* et ideo prior contractus accipit firmitatem.  
 
 Ad sextum dicendum, quod trahentes navem agunt per modum unius causae; et ideo, quod deest uni, potest suppleri de altero: sed sponsalia contrahentes agunt ut distinctae personae, quia sponsalia non nisi inter duos esse possunt: unde in utroque requiritur quod sit sufficiens ad contrahendum; et ideo defectus unius sponsalia impedit, nec ex altero potest suppleri.  
 
@@ -506,7 +506,7 @@ Ad primum ergo dicendum, quod per illam decretalem ostenditur eadem esse difficu
 
 Ad secundum dicendum, quod hoc verum est quantum ad ea quae sunt de jure naturali, et quantum ad ea quae sunt de necessitate sacramentorum et fidei; sed in aliis quae sunt de institutione apostolorum, cum Ecclesia habeat nunc eamdem potestatem statuendi et destruendi quam tunc habuit, potest per eum qui primatum in Ecclesia tenet, dispensari.  
 
-Ad tertium dicendum, quod non quaelibet significatio est de essentia sacramenti, sed tantum illa quae pertinet ad officium*officium.—effectum* PLE. sacramenti; et talis non tollitur per irregularitatem.  
+Ad tertium dicendum, quod non quaelibet significatio est de essentia sacramenti, sed tantum illa quae pertinet ad officium *(*officium.—effectum* PLE.)* sacramenti; et talis non tollitur per irregularitatem.  
 
 Ad quartum dicendum, quod in particularibus non potest inveniri ratio quae omnibus competat aequaliter, propter eorum diversitatem; et ideo quod universaliter statutum est rationabiliter consideratis istis quae in pluribus accidunt, potest etiam per dispensationem rationabiliter removeri in aliquo casu determinato.  
 

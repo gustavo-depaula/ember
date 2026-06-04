@@ -6,7 +6,7 @@
 
 ***Benefits of the return***
 
-^4:1^ If you return, O Israel, says the Lord, to turn back to me, if you remove your offencesHeb. שִׁקּוּצֶ֛יךָ: *detestable things*, idols. from before my face, you will not be moved.  
+^4:1^ If you return, O Israel, says the Lord, to turn back to me, if you remove your offences *(Heb. שִׁקּוּצֶ֛יךָ: *detestable things*, idols.)* from before my face, you will not be moved.  
 
 > ^4:2^ And he has sworn: as the Lord lives, in truth, and in judgment, and in justice, and the nations shall bless him, and him shall they praise.
 
@@ -38,7 +38,7 @@ Lecture 2
 
 > ^4:5^ Announce it in Judah, and make it heard in Jerusalem; speak, and sound a trumpet in the land, cry loudly, and say: ‘Gather together, and let us enter the fortified cities.’
 
-> ^4:6^ Raise a sign in Zion, be strengthened,Heb. הָעִ֖יזוּ: *take refuge*. and do not stand, because I am bringing evil from the north, and great destruction.
+> ^4:6^ Raise a sign in Zion, be strengthened, *(Heb. הָעִ֖יזוּ: *take refuge*.)* and do not stand, because I am bringing evil from the north, and great destruction.
 
 > **24**. Here, he takes up the topic of their turning from punishment.
 
@@ -84,13 +84,13 @@ Lecture 3
 
 ***The coming enemy***
 
-^4:7^ The lion has come up from his den, and the robber of the nationsHeb. מַשְׁחִית גּוֹיִם: *destroyer of the nations*. has raised himself; he has gone forth from his place that he may make your land a wilderness, and that your cities may be laid waste, and remain without inhabitant.  
+^4:7^ The lion has come up from his den, and the robber of the nations *(Heb. מַשְׁחִית גּוֹיִם: *destroyer of the nations*.)* has raised himself; he has gone forth from his place that he may make your land a wilderness, and that your cities may be laid waste, and remain without inhabitant.  
 
 > ^4:8^ For this gird yourselves with sackcloth, mourn and wail; because the wrath of the Lord’s fury has not turned back from us.
 
 > ^4:9^ And it shall be in that day, says the Lord, the heart of the king shall fail, and the heart of the princes, and the priests shall be astonished, and the prophets shall be dismayed.
 
-> ^4:10^ And I said: alas, alas, alas,This phrase occurs only once in the Hebrew, not three times, as in the Latin. O Lord God. Why have you deceived this people and Jerusalem, saying, ‘You shall have peace? And behold the sword has come even unto the soul.’
+> ^4:10^ And I said: alas, alas, alas, *(This phrase occurs only once in the Hebrew, not three times, as in the Latin.)* O Lord God. Why have you deceived this people and Jerusalem, saying, ‘You shall have peace? And behold the sword has come even unto the soul.’
 
 > **25**. Here, he discusses the arrival of the enemy:
 
@@ -102,7 +102,7 @@ third, with regard to the end of their journey: ***behold, he shall arise as a c
 
 Concerning the first, there are two points.  
 
-First, he describes the condition of the approaching enemy with regard to its strength: ***the lion***, that is, Nebuchadnezzar, ***from his den***, from Babylon. *The lion is the strongest of beasts; he fears meeting no one* (Prov 30:30). As we see below: ***behold, as a lion ascends from the swelling of the Jordan, against the strong and beautiful*** (Jer 49:19).This verse, according to the Hebrew, reads, *as a lion comes up from the thickets of Jordan, to a rich pastureland*. With regard to their cruelty: ***the robber of the nations***. *The lion takes enough for his cubs, and kills for his lionesses* (Nah 2:12). With regard to their intention: ***that he may make your land a wilderness**. His heart will be for destruction, and for the slaying of many nations* (Isa 10:7). And with regard to the execution of his intention: ***your cities***. *Your land is desolate, your cities have been destroyed* (Isa 1:7).  
+First, he describes the condition of the approaching enemy with regard to its strength: ***the lion***, that is, Nebuchadnezzar, ***from his den***, from Babylon. *The lion is the strongest of beasts; he fears meeting no one* (Prov 30:30). As we see below: ***behold, as a lion ascends from the swelling of the Jordan, against the strong and beautiful*** (Jer 49:19). *(This verse, according to the Hebrew, reads, *as a lion comes up from the thickets of Jordan, to a rich pastureland*.)* With regard to their cruelty: ***the robber of the nations***. *The lion takes enough for his cubs, and kills for his lionesses* (Nah 2:12). With regard to their intention: ***that he may make your land a wilderness**. His heart will be for destruction, and for the slaying of many nations* (Isa 10:7). And with regard to the execution of his intention: ***your cities***. *Your land is desolate, your cities have been destroyed* (Isa 1:7).  
 
 Second, he discusses the astonishment of the Jews:  
 
@@ -116,7 +116,7 @@ Lecture 4
 
 ***The enemy’s march***
 
-^4:11^ At that time, it will be said to this people and to Jerusalem: a burning wind is on the roads, which are in the desert of the way of the daughter of my people,Heb. ר֣וּחַ צַ֤ח שְׁפָיִים֙ בַּמִּדְבָּ֔ר דֶּ֖רֶךְ בַּת־עַמִּ֑י: *a hot wind from the high places of the wilderness toward the daughter of my people*. not to winnow, or to cleanse.  
+^4:11^ At that time, it will be said to this people and to Jerusalem: a burning wind is on the roads, which are in the desert of the way of the daughter of my people, *(Heb. ר֣וּחַ צַ֤ח שְׁפָיִים֙ בַּמִּדְבָּ֔ר דֶּ֖רֶךְ בַּת־עַמִּ֑י: *a hot wind from the high places of the wilderness toward the daughter of my people*.)* not to winnow, or to cleanse.  
 
 > ^4:12^ A full wind from these will come to me. And now I; but I will speak my judgments with them.
 
@@ -128,7 +128,7 @@ Lecture 5
 
 ***The enemy’s arrival***
 
-^4:13^ Behold, he shall arise as a cloud,Plural in the Hebrew: כַּעֲנָנִים. and mount his chariots as the storm; his horses are swifter than eagles. Woe to us, for we are laid waste.  
+^4:13^ Behold, he shall arise as a cloud, *(Plural in the Hebrew: כַּעֲנָנִים.)* and mount his chariots as the storm; his horses are swifter than eagles. Woe to us, for we are laid waste.  
 
 > ^4:14^ Wash your heart from wickedness, O Jerusalem, that you may be saved. How long shall thoughts of harm abide with you?
 
@@ -144,13 +144,13 @@ Lecture 6
 
 ***Siege of the city***
 
-^4:15^ A voice of one announcing from Dan, and one making known the idolHeb. וּמַשְׁמִיעַ אָוֶן: *announces calamity*. from Mount Ephraim.  
+^4:15^ A voice of one announcing from Dan, and one making known the idol *(Heb. וּמַשְׁמִיעַ אָוֶן: *announces calamity*.)* from Mount Ephraim.  
 
 > ^4:16^ Stir up the people: behold, it has been heard in Jerusalem that watchers are come from a distant land to give out their voice against the cities of Judah.
 
 > ^4:17^ They are set around her as the keepers of the fields, because she provoked me to anger, says the Lord.
 
-> ^4:18^ Your ways and your thoughtsHeb. מַעֲלָלַיִךְ: *your doings*. have done these things to you; this is your wickedness, because it is bitter, because it has touched your bone.Heb. לִבֵּֽךְ: *your heart*.
+> ^4:18^ Your ways and your thoughts *(Heb. מַעֲלָלַיִךְ: *your doings*.)* have done these things to you; this is your wickedness, because it is bitter, because it has touched your bone. *(Heb. לִבֵּֽךְ: *your heart*.)*
 
 > **28**. Here, he predicts the siege:
 
@@ -166,11 +166,11 @@ Lecture 7
 
 ***The land laid waste***
 
-^4:19^ My stomach, my stomach, I am in pain, and the senses of my heartHeb. קִירֹ֥ות לִבִּ֛י: *the walls of my heart*. are troubled within me. I will not keep silence, because my soul has heard the voice of the trumpet, the cry of battle.  
+^4:19^ My stomach, my stomach, I am in pain, and the senses of my heart *(Heb. קִירֹ֥ות לִבִּ֛י: *the walls of my heart*.)* are troubled within me. I will not keep silence, because my soul has heard the voice of the trumpet, the cry of battle.  
 
 > ^4:20^ Destruction upon destruction is called forth, and the whole land is laid waste; my tents are destroyed suddenly and my skins in a moment.
 
-> ^4:21^ How long shall I see him fleeing,Heb. נֵּס: *standard, banner*. and hear the voice of the trumpet?
+> ^4:21^ How long shall I see him fleeing, *(Heb. נֵּס: *standard, banner*.)* and hear the voice of the trumpet?
 
 > ^4:22^ Because my people are foolish they did not know me. They are stupid and senseless children. They are wise to do evil, but they know not how to do good.
 
@@ -202,11 +202,11 @@ Lecture 8
 
 > ^4:25^ I looked, and behold there was no man; and every bird of heaven had fled away.
 
-> ^4:26^ I looked, and behold, CarmelHeb. הַכַּרְמֶל: while it is possible that the mountain is being referred to, it is more likely that the literal meaning of the word, “fruitful field,” is meant here. was deserted, and all its cities were destroyed from before the face of the Lord, and from the face of the wrath of his fury.
+> ^4:26^ I looked, and behold, Carmel *(Heb. הַכַּרְמֶל: while it is possible that the mountain is being referred to, it is more likely that the literal meaning of the word, “fruitful field,” is meant here.)* was deserted, and all its cities were destroyed from before the face of the Lord, and from the face of the wrath of his fury.
 
 > ^4:27^ For thus says the Lord: the whole land shall be desolate, but I will not make an end of it.
 
-> ^4:28^ The earth shall grieve, and the heavens above shall mourn,Heb. קָדְרוּ: *shall be black*. because I have spoken. I have purposed it, and it has not repented me, nor have I turned back from it.
+> ^4:28^ The earth shall grieve, and the heavens above shall mourn, *(Heb. קָדְרוּ: *shall be black*.)* because I have spoken. I have purposed it, and it has not repented me, nor have I turned back from it.
 
 > **30**. Here, he shows the effect of the destruction:
 
@@ -236,17 +236,17 @@ Lecture 9
 
 ***Abandonment of cities***
 
-^4:29^ Every city shall flee from the voice of the horseman, and from the one shooting the arrow; they have entered into steep places,Heb. בֶּעָבִים: *thickets*. and have gone up upon the cliffs; every city has been abandoned, and no man dwells in them.  
+^4:29^ Every city shall flee from the voice of the horseman, and from the one shooting the arrow; they have entered into steep places, *(Heb. בֶּעָבִים: *thickets*.)* and have gone up upon the cliffs; every city has been abandoned, and no man dwells in them.  
 
 > ^4:30^ But you have been laid waste, what will you do? Though you dressed yourself in scarlet, though you were bedecked with ornaments of gold, and painted your eyes with stibium, in vain have you arranged yourself; your lovers have despised you, they will seek your life.
 
-> ^4:31^ For I heard the voice as of a woman giving birth, the pains as of a woman in labor; it is the voice of the daughter of Zion among the dying,Heb. תִּתְיַפֵּחַ: *gasps for breath*. stretching forth her hands, ‘Woe to me, for my soul fails because of the slain!’Heb. לְהֹרְגִֽים: *because of the murderers*.
+> ^4:31^ For I heard the voice as of a woman giving birth, the pains as of a woman in labor; it is the voice of the daughter of Zion among the dying, *(Heb. תִּתְיַפֵּחַ: *gasps for breath*.)* stretching forth her hands, ‘Woe to me, for my soul fails because of the slain!’ *(Heb. לְהֹרְגִֽים: *because of the murderers*.)*
 
 > **31**. Here, he shows the effect of the destruction on the common people of the Jews.
 
 First, he discusses their fear, which he signifies by the desertion of the cities: ***of the horseman***, that is, of the Chaldeans. *They fled from the face of the swords, from the face of the sword near at hand, from the face of the drawn bow, from the face of heavy battle* (Isa 21:15). And with regard to the inhabitants of the mountains: ***they have entered into steep places***. As it says below: ***leave the cities and dwell in the rocks, you inhabitants of Moab, and be as the dove which makes her nest in the mouth of the hole in the highest place*** (Jer 48:28).  
 
-Second, he speaks of their vain hope in idols: ***but you who have been laid waste, what will you do? Though you dressed yourself***. As a harlot prepares herself so that she might please her lovers, so they bedecked the altars of their idols that they might please them, ***with stibium***, an unguent of yellow color*Stibium* is a synonym for antimony, but the meaning here is broader, referring to a kind of eye cosmetic, also called *kohl* in Arabic, usually used to color the eyebrows and eyelashes black. with which women dye their eyebrows, as it is said: *Jezebel painted her eyes with stibium, and bedecked her head* (2 Kgs 9:30). *A woman ran up to him dressed as a harlot* (Prov 7:10). And from their friends, especially the Egyptians, in whom they had trusted. ***Your lovers have despised you***. *All her friends have spurned her* (Lam 1:2).  
+Second, he speaks of their vain hope in idols: ***but you who have been laid waste, what will you do? Though you dressed yourself***. As a harlot prepares herself so that she might please her lovers, so they bedecked the altars of their idols that they might please them, ***with stibium***, an unguent of yellow color *(*Stibium* is a synonym for antimony, but the meaning here is broader, referring to a kind of eye cosmetic, also called *kohl* in Arabic, usually used to color the eyebrows and eyelashes black.)* with which women dye their eyebrows, as it is said: *Jezebel painted her eyes with stibium, and bedecked her head* (2 Kgs 9:30). *A woman ran up to him dressed as a harlot* (Prov 7:10). And from their friends, especially the Egyptians, in whom they had trusted. ***Your lovers have despised you***. *All her friends have spurned her* (Lam 1:2).  
 
 Third, he speaks of the pain by comparing it to a woman in labor: ***the voice as of a woman***, who brings forth her firstborn and suffers more grievously; and by comparing it to the death of a son, ***among the dying***. *There were pains as of one giving birth* (Ps 47:7).  
 

@@ -56,7 +56,7 @@ second, he takes away from the impious hope of deliverance: ***but draw near hit
 
 **1007**. Concerning the first, he does two things.  
 
-First, he sets out the tribulation of the just, because they are killed without any reckoning: ***men of mercy are taken away***, from the present life and from their land they are taken captive as if they were not just, ***from before the face of evil***, that is, from the presence of the wicked: *why look you upon the scorners,*Contemptores*. Vg.: *iniqua agentes*. DR: “them that do unjust things.” and hold your peace when the wicked devours the man that is more just than himself?* (Hab 1:13); or, ***from before the face of evil***, that is, lest they be changed to evil: *he was taken away, lest wickedness should alter his understanding* (Wis 4:11).  
+First, he sets out the tribulation of the just, because they are killed without any reckoning: ***men of mercy are taken away***, from the present life and from their land they are taken captive as if they were not just, ***from before the face of evil***, that is, from the presence of the wicked: *why look you upon the scorners, *(*Contemptores*. Vg.: *iniqua agentes*. DR: “them that do unjust things.”)* and hold your peace when the wicked devours the man that is more just than himself?* (Hab 1:13); or, ***from before the face of evil***, that is, lest they be changed to evil: *he was taken away, lest wickedness should alter his understanding* (Wis 4:11).  
 
 Second, he promises them rest: ***let peace come, let him rest in his bed***, that is, he will be secure in his own home, or in the repose of his own heart: *you shall know that your tabernacle is in peace* (Job 5:24).  
 
@@ -104,7 +104,7 @@ First, he describes the pleasantness of the places, either from the shade of tre
 
 Second, their love of sin: ***in the parts of the torrent is your portion***, as if to say: you have reckoned this to be your lot: *let none of us go without his part in luxury: let us every where leave tokens of joy: for this is our portion, and this our lot* (Wis 2:9).  
 
-Third, their offering of sacrifice: ***and you have poured out libations***, as to moist things, ***you have offered sacrifice***, as to dry things, above: ***you shall be confoundedConfundimini*. Vg.: *confundentur*. DR: “they shall be confounded.” ***for [your] idols*** (Isa 1:29).  
+Third, their offering of sacrifice: ***and you have poured out libations***, as to moist things, ***you have offered sacrifice***, as to dry things, above: ***you shall be confounded*** *(*Confundimini*. Vg.: *confundentur*. DR: “they shall be confounded.”)* ***for [your] idols*** (Isa 1:29).  
 
 Fourth, the just anger of God: ***shall I not be angry at these things?** Shall I not visit for these things, says the Lord?* (Jer 5:9).  
 
@@ -144,7 +144,7 @@ First, from divine gentleness, promising deliverance as to the restoration of th
 
 **1018**. Second, he assigns the reason from the purification of sin, promising forgiveness: ***for I will not contend for ever***: *he will not always be angry: nor will he threaten for ever* (Ps 102[103]:9). And he adds the reason, setting out justice fulfilled in punishing: ***for the iniquity of his covetousness I was angry, and I struck him*: *I hid my face***, that I might not give help, ***and he went away wandering***, like a sheep without a shepherd: *shall he reprove you for fear, and come with you into judgment, and not for your manifold wickedness and your infinite iniquities?* (Job 22:4–5). And he promises mercy in saving them, ***I saw his ways***, with eyes of mercy, ***and restored comforts to him***, as to the princes, ***and to them that mourn for him***, as to the people; or ***to him***, as to the Jews, or as to foreigners joined to them; or as to the land and its inhabitants: *who forgives all your iniquities: who heals all your diseases* (Ps 102[103]:3).  
 
-**1019**. Third, he confirms their deliverance from the predictions of the prophets: ***I created***, as though restoring them from nothing; ***the fruit of the lips***, of the prophets who foretold these things, ***peace to him that is far off***, dispersed in captivity: *and coming, he preached peace to them that were nigh: and to them that were afar off* (Eph 2:17).*Pacem his qui prope et his qui longe*. Vg.: *pacem vobis, qui longe fuistis, et pacem iis, qui prope*. DR: “peace to you that were afar off: and peace to them that were nigh.”  
+**1019**. Third, he confirms their deliverance from the predictions of the prophets: ***I created***, as though restoring them from nothing; ***the fruit of the lips***, of the prophets who foretold these things, ***peace to him that is far off***, dispersed in captivity: *and coming, he preached peace to them that were nigh: and to them that were afar off* (Eph 2:17). *(*Pacem his qui prope et his qui longe*. Vg.: *pacem vobis, qui longe fuistis, et pacem iis, qui prope*. DR: “peace to you that were afar off: and peace to them that were nigh.”)*  
 
 **1020**. ***But the wicked are like the raging sea***. Here he confirms what he had said about the wicked through a certain similitude.  
 
@@ -158,6 +158,6 @@ first, love, so as to love him in return: *put me as a seal upon your heart* (So
 
 second, bitterness, so as to sympathize with him: *remember my poverty, and transgression, the wormwood and the gall* (Lam 3:19);  
 
-third, fortitude, so as to suffer bravely: *for think diligently upon him that endured for you*Vg. omits “for you.” *such opposition from sinners against himself that you be not wearied, fainting in your minds* (Heb 12:3);  
+third, fortitude, so as to suffer bravely: *for think diligently upon him that endured for you* *(Vg. omits “for you.”)* *such opposition from sinners against himself that you be not wearied, fainting in your minds* (Heb 12:3);  
 
 fourth, its benefit, so as to give thanks: *I will go up into the palm tree, and will take hold of the fruit thereof* (Song 7:8).

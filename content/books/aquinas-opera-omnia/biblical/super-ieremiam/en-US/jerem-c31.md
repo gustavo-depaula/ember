@@ -26,7 +26,7 @@
 
 > ^29:10^ For thus says the Lord: when seventy years shall be fulfilled in Babylon, I shall visit you, and stir up my good word upon you, and lead you back to this place.
 
-> ^29:11^ For I know the thought which I think concerning you, says the Lord, thoughts of peace, and not of affliction, that I may give you an end and endurance.Heb. לָתֵת לָכֶם אַחֲרִית וְתִקְוָה: *to give you a future and a hope*.
+> ^29:11^ For I know the thought which I think concerning you, says the Lord, thoughts of peace, and not of affliction, that I may give you an end and endurance. *(Heb. לָתֵת לָכֶם אַחֲרִית וְתִקְוָה: *to give you a future and a hope*.)*
 
 > ^29:12^ And you shall call upon me, and go; and you shall worship me, and I will hear you.
 
@@ -50,13 +50,13 @@ First, he gives the title of the prophecy, in which he marks out three things.
 
 Namely, the manner of prophesying, that it is by way of a letter: ***the words of the book***, that is, of the letter. *Now, therefore, go in and write upon a box, and note it diligently in a book, and it shall be on the last days as a testimony forever* (Isa 30:8).  
 
-The time of the prophecy: ***after Jekoniah had gone forth***; as in 2 Kings 24.*Jekoniah, king of Judah, went forth* (*egressus*) *to the king of Babylon . . . and the king of Babylon received him in the eighth year of his reign. . . . And he carried away Jekoniah and the king’s mother and the king’s wives and his eunuchs into Babylon; and the judges of the land he carried into captivity from Jerusalem into Babylon. And all the strong men, seven thousand, and the artificers and a thousand smiths, all that were valiant men and fit for war: the king of Babylon also led them captives into Babylon* (2 Kings 24:12, 15–16). *Behold, the sovereign Lord of hosts shall take away from Jerusalem and from Judah, the valiant and the strong, every strength of bread, and every strength of water; and the strong man, and the man of war, the judge, and the prophet* (Isa 3:1–2).  
+The time of the prophecy: ***after Jekoniah had gone forth***; as in 2 Kings 24. *(*Jekoniah, king of Judah, went forth* (*egressus*) *to the king of Babylon . . . and the king of Babylon received him in the eighth year of his reign. . . . And he carried away Jekoniah and the king’s mother and the king’s wives and his eunuchs into Babylon; and the judges of the land he carried into captivity from Jerusalem into Babylon. And all the strong men, seven thousand, and the artificers and a thousand smiths, all that were valiant men and fit for war: the king of Babylon also led them captives into Babylon* (2 Kings 24:12, 15–16).)* *Behold, the sovereign Lord of hosts shall take away from Jerusalem and from Judah, the valiant and the strong, every strength of bread, and every strength of water; and the strong man, and the man of war, the judge, and the prophet* (Isa 3:1–2).  
 
 And the messenger of the prophesy: ***by the hand of Elasah, the son of Shaphan, and Gemariah, the son of Hilkiah***, whom he sent to make peace with the Chaldeans, terrified as they were by the death of the false consoler Hananiah and by the threat of Jeremiah. *When the wicked man is scourged, the fool shall be wiser* (Prov 19:25).  
 
 Second, he gives the content of the prophecy: ***thus says the Lord***. And concerning this, there are two points.  
 
-First, he gives them good and advantageous advice, that they should give their attention to those things which pertain to the demands of necessity: ***build houses***, which they were neglecting to do, believing that they would return quickly, according to the promises of the false prophets. *They have sown fields, and planted vineyards, and made the fruit of birth* (Ps 106:37).Heb. וַ֝יַּעֲשׂ֗וּ פְּרִ֣י תְבֽוּאָה: *and they yield the fruit of increase*.  
+First, he gives them good and advantageous advice, that they should give their attention to those things which pertain to the demands of necessity: ***build houses***, which they were neglecting to do, believing that they would return quickly, according to the promises of the false prophets. *They have sown fields, and planted vineyards, and made the fruit of birth* (Ps 106:37). *(Heb. וַ֝יַּעֲשׂ֗וּ פְּרִ֣י תְבֽוּאָה: *and they yield the fruit of increase*.)*  
 
 Also, that they should attend to those things which pertain to the production of children, ***take wives***. *Increase and multiply, and fill the earth* (Gen 1:22).  
 
@@ -94,9 +94,9 @@ Lecture 2
 
 > ^29:18^ And I shall follow them with the sword, and with famine, and with pestilence; and I shall make them a vexation to all the kingdoms of the earth, as a curse, and as an astonishment, and as a hissing, and as a reproach to all the nations to which I have driven them.
 
-> ^29:19^ Because they did not listen to my words, says the Lord, which I sent to them through my servants the prophets, arising by night and sending them; and you did not listen, says the Lord.The text omitted by the *Septuagint* here (Jer 29:19) is similar to Jeremiah 25:4.
+> ^29:19^ Because they did not listen to my words, says the Lord, which I sent to them through my servants the prophets, arising by night and sending them; and you did not listen, says the Lord. *(The text omitted by the *Septuagint* here (Jer 29:19) is similar to Jeremiah 25:4.)*
 
-> ^29:20^ Therefore, listen to word of the Lord, all you exiles, whom I have sent from Jerusalem to Babylon.The text omitted by the *Septuagint* here (Jer 29:20b) is similar to Jeremiah 24:5b.
+> ^29:20^ Therefore, listen to word of the Lord, all you exiles, whom I have sent from Jerusalem to Babylon. *(The text omitted by the *Septuagint* here (Jer 29:20b) is similar to Jeremiah 24:5b.)*
 
 > **148**. Here, he excludes false repentance, for they could, because of their long captivity, come to regret that they had given themselves up when they saw others still remaining in Jerusalem; and therefore those who remained are threatened with the grave punishment of death: ***behold, I shall send***. As it says above: ***he who shall dwell in this city shall die by the sword, and the famine, and the plague; but he who shall go out and flee over to the Chaldeans, who besiege you, shall live*** (Jer 21:9). And of affliction: ***I shall make***, that is, they shall not find favor with me, neither with those by whom they are held captive, just as bad figs do not please those who gather them. As it says above: ***as the bad figs, which cannot be eaten, because they are bad, thus says the Lord: so shall I make Zedekiah, the king of Judah, and his princes, and the remnant of Jerusalem, who remain in this city, and who dwell in the land of Egypt*** (Jer 24:8).
 
@@ -134,7 +134,7 @@ Second, the infliction of the punishment: ***and he shall strike***. As it says 
 
 Third, the resultant curse: ***and of them shall be taken up***.  
 
-Now the Hebrews say that these are the two elders of whom Daniel 13 speaks. Whence, from this section they wish to show that the other is fictitious.In the Jewish canon, the book of Daniel ends with chapter 12; in the Catholic canon, two other chapters, which are thought to be of later composition, are included. For there, they are said to have been killed by the people; but here, by Nebuchadnezzar.  
+Now the Hebrews say that these are the two elders of whom Daniel 13 speaks. Whence, from this section they wish to show that the other is fictitious. *(In the Jewish canon, the book of Daniel ends with chapter 12; in the Catholic canon, two other chapters, which are thought to be of later composition, are included.)* For there, they are said to have been killed by the people; but here, by Nebuchadnezzar.  
 
 And furthermore, there, they are said to have been stoned; but here, burned with fire.  
 
@@ -170,7 +170,7 @@ Lecture 6
 
 > ^29:25^ thus says the Lord of hosts, the God of Israel: because you sent books in my name to all the people who are in Jerusalem, and to Zephaniah, the son of Maasiah, the priest, and to all the priests, saying:
 
-> ^29:26^ the Lord has made you a priest in the place of Jehoiada the priest, that you may be the rulerHeb. לִהְיוֹת פְּקִדִים: *that there should be officers*. in the house of the Lord over every madman and prophet, that you may put them in the stocks and in prison.
+> ^29:26^ the Lord has made you a priest in the place of Jehoiada the priest, that you may be the ruler *(Heb. לִהְיוֹת פְּקִדִים: *that there should be officers*.)* in the house of the Lord over every madman and prophet, that you may put them in the stocks and in prison.
 
 > ^29:27^ And now, why have you not rebuked Jeremiah the Anathothite, who prophesies unto you?
 
@@ -216,7 +216,7 @@ First, he reproves Shemaiah’s guilt: ***because Shemaiah prophesied***. *We ha
 
 Second, he threatens punishment: ***therefore, thus says the Lord***.  
 
-First, with regard to the sons: ***there be not a man left to him***; it is as though he were saying, “He will not leave a survivor among the people.” *I am the Lord your God, the Mighty One, the Jealous One*,Heb. אֵל קַנָּא: *a jealous God*. This is one of the standard names of God, but in the Latin it has instead been broken up into two distinct epithets, *mighty* and *jealous*. *visiting the iniquity of the fathers upon the sons to the third and fourth generations of those who hate me* (Exod 20:5).  
+First, with regard to the sons: ***there be not a man left to him***; it is as though he were saying, “He will not leave a survivor among the people.” *I am the Lord your God, the Mighty One, the Jealous One*, *(Heb. אֵל קַנָּא: *a jealous God*. This is one of the standard names of God, but in the Latin it has instead been broken up into two distinct epithets, *mighty* and *jealous*.)* *visiting the iniquity of the fathers upon the sons to the third and fourth generations of those who hate me* (Exod 20:5).  
 
 Second, with regard to Shemaiah: ***and he may not see the good which I will do for my people***. As it says above: ***for he shall be like a tamarisk in the desert, and shall not see when good comes*** (Jer 17:6).  
 

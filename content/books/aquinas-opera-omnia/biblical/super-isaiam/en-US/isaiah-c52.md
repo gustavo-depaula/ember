@@ -8,7 +8,7 @@
 
 > ^50:4^ The Lord has given me a learned tongue, that I should know how to uphold by word him that is weary: he wakens in the morning, in the morning he wakens my ear, that I may hear him as a master.
 
-> ^50:5^ The Lord God has opened my ear, and I do not contradict:*Contradico*. DR: “resist.” I have not gone back.
+> ^50:5^ The Lord God has opened my ear, and I do not contradict: *(*Contradico*. DR: “resist.”)* I have not gone back.
 
 > ^50:6^ I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.
 
@@ -20,7 +20,7 @@
 
 > ^50:10^ Who is there among you that fears the Lord, that hears the voice of his servant, that has walked in darkness, and has no light? Let him hope in the name of the Lord, and lean upon his God.
 
-> ^50:11^ Behold all you that kindle a fire, girded*Accincti*. DR: “encompassed.” with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.
+> ^50:11^ Behold all you that kindle a fire, girded *(*Accincti*. DR: “encompassed.”)* with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.
 
 > **909**. ***Thus says the Lord: what is this***. Here he begins to remove the impediments to their liberation.
 
@@ -68,7 +68,7 @@ Second, he sets out a sign of divine power: ***behold***,
 
 first, in the waters: ***at my rebuke***, that is, my command, ***I will make the sea a desert***, if I wish, as I did when Israel came forth from Egypt (Exod 14:15–31); ***I will turn the rivers into dry land***, like the Arnon (Num 21:13–20) and the Jordan (Josh 4); ***the fishes shall rot***, as in Exodus 7:16–21, when the waters were turned into blood: *he rebuked the Red Sea and it was dried up* (Ps 105[106]:9).  
 
-Second, he shows signs of his power in the heavens: ***I will clothe the*** aerialCf. *ST* I.68.4, resp. ***heavens with darkness***, as in Egypt (Exod 10:21); *who covers the heaven with clouds* (Ps 146[147]:8).  
+Second, he shows signs of his power in the heavens: ***I will clothe the*** aerial *(Cf. *ST* I.68.4, resp.)* ***heavens with darkness***, as in Egypt (Exod 10:21); *who covers the heaven with clouds* (Ps 146[147]:8).  
 
 **913**. ***The Lord has given me***. Here he gives himself as an example.  
 
@@ -110,9 +110,9 @@ third, he sets out the power of the one who punishes: ***by my hand***, namely, 
 
 **918**. Note on the words, ***you are sold for your iniquities*** (Isa 50:1), that man sells many things for sins:  
 
-first, the virtue of his soul: *they have given all their precious things for vile things**Vili*. Vg.: *cibo*. DR: “food.” (Lam 1:11);  
+first, the virtue of his soul: *they have given all their precious things for vile things* *(*Vili*. Vg.: *cibo*. DR: “food.”)* (Lam 1:11);  
 
-second, his heavenly inheritance: *the Lord be merciful to me, and not let me sell**Vendam*. Vg.: *dem*. DR: “give.” *the inheritance of my fathers* (1 Kgs 21:3);  
+second, his heavenly inheritance: *the Lord be merciful to me, and not let me sell* *(*Vendam*. Vg.: *dem*. DR: “give.”)* *the inheritance of my fathers* (1 Kgs 21:3);  
 
 third, the liberty of his soul: *there is not a more wicked thing than to love money* (Sir 10:10);  
 
@@ -120,11 +120,11 @@ fourth, the honor of divine love: *the Lord loves the children of Israel* (Hos 3
 
 **919**. Also, on the words, ***and I do not contradict*** (Isa 50:5), note that they contradict God,  
 
-who, first, are unfaithful to divine truth: *in nowise contradict**Contradicas*. DR: “speak against.” *the truth* (Eccl 4:30);  
+who, first, are unfaithful to divine truth: *in nowise contradict* *(*Contradicas*. DR: “speak against.”)* *the truth* (Eccl 4:30);  
 
-second, those who are impatient with divine correction: *who contradict**Contradicit*. Vg.: *restitit*. DR: “ hath resisted.” *him, and has had peace?* (Job 9:4);  
+second, those who are impatient with divine correction: *who contradict* *(*Contradicit*. Vg.: *restitit*. DR: “ hath resisted.”)* *him, and has had peace?* (Job 9:4);  
 
-third, those who are impenitent toward the divine goodness, above: ***they shall be as nothing, and the men shall perish that contradictContradicunt*. DR: “strive against.” ***thee*** (Isa 41:11);  
+third, those who are impenitent toward the divine goodness, above: ***they shall be as nothing, and the men shall perish that contradict*** *(*Contradicunt*. DR: “strive against.”)* ***thee*** (Isa 41:11);  
 
 fourth, those who are disobedient toward divine authority: *your people are as they that contradict the priest* (Hos 4:4).  
 

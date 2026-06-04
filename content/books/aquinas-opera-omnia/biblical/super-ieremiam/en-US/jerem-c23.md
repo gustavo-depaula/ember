@@ -12,7 +12,7 @@
 
 > ^21:3^ And Jeremiah said to them: thus shall you say to Zedekiah:
 
-> ^21:4^ thus says the Lord, the God of Israel: behold I will turn the weapons of war, which are in your hands, and with which you fight against the king of Babylon, and the Chaldeans, who besiege you round about the walls,Heb. מִחוּץ לַחוֹמָה: *outside the wall*. and I will gather them in the midst of this city.
+> ^21:4^ thus says the Lord, the God of Israel: behold I will turn the weapons of war, which are in your hands, and with which you fight against the king of Babylon, and the Chaldeans, who besiege you round about the walls, *(Heb. מִחוּץ לַחוֹמָה: *outside the wall*.)* and I will gather them in the midst of this city.
 
 > ^21:5^ And I shall vanquish you with an outstretched hand, and with a mighty arm, and with fury, and indignation, and great wrath.
 
@@ -52,7 +52,7 @@ Lecture 2
 
 > ^21:12^ O house of David. Thus says the Lord: judge judgment early, and deliver him that is oppressed by violence from the hand of the oppressor, lest perhaps my indignation should go forth like fire and burn, and there be none who may extinguish it, because of the evil of your deeds.
 
-> ^21:13^ Behold I come to you that dwells in a valley upon a rock above a plain,Heb. יֹשֶׁ֧בֶת הָעֵ֛מֶק צ֥וּר הַמִּישֹׁ֖ר: *inhabitant of the valley of the rock of the plain*. says the Lord; and you say, ‘Who shall strike us?’ and, ‘Who shall enter our houses?’
+> ^21:13^ Behold I come to you that dwells in a valley upon a rock above a plain, *(Heb. יֹשֶׁ֧בֶת הָעֵ֛מֶק צ֥וּר הַמִּישֹׁ֖ר: *inhabitant of the valley of the rock of the plain*.)* says the Lord; and you say, ‘Who shall strike us?’ and, ‘Who shall enter our houses?’
 
 > ^21:14^ And I shall visit upon you according to the fruit of your doings, says the Lord; and I shall kindle a fire in the forest thereof, and it shall devour everything round about.
 

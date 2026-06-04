@@ -6,11 +6,11 @@
 
 ***Curses and blessings***
 
-^17:1^ The sin of Judah is written with an iron pen, and a nail of diamond,*Unguis* literally means “fingernail” or “claw”; the sharp point of a stylus is meant here. it is graven upon the breadth of their heart, and on the horns of their altars.  
+^17:1^ The sin of Judah is written with an iron pen, and a nail of diamond, *(*Unguis* literally means “fingernail” or “claw”; the sharp point of a stylus is meant here.)* it is graven upon the breadth of their heart, and on the horns of their altars.  
 
 > ^17:2^ When their sons shall remember their altars, and their groves, and their leafy trees, upon the high mountains,
 
-> ^17:3^ those sacrificing in the field; I will give your strength, and all your treasures as plunder; and your high places for sin in all your borders.The text omitted by the *Septuagint* here (Jer 17:3–4) is similar to Jeremiah 15:13–14.
+> ^17:3^ those sacrificing in the field; I will give your strength, and all your treasures as plunder; and your high places for sin in all your borders. *(The text omitted by the *Septuagint* here (Jer 17:3–4) is similar to Jeremiah 15:13–14.)*
 
 > ^17:4^ And you will be left stripped of your inheritance, which I gave to you, and I will make you serve your enemies in a land you know not, for you have kindled a fire in my wrath, and it shall burn forever.
 
@@ -70,7 +70,7 @@ second, he introduces the author of the distinction, at ***the heart of man is w
 
 Concerning the first idea, there are two points.  
 
-First, he speaks of the curse upon those who trust in human assistance, where he gives the curse: ***cursed***, as one who is “abandoned to evil.”The wordplay here is lost in translation: *maledictus*, “cursed”; *malo addictus*, “abandoned to evil.” ***And makes flesh his arm***, that is, his strength, in which the irrationality of hope is set down, because human frailty is signified by the flesh. ***And his heart departs from the Lord***, by which is shown the reason for the curse; for it is permitted to trust in man under God, but not in such a way that God is forsaken. And this is said because of the Jews who, having spurned God, put their hope in the Egyptians. *Woe to you who go down to Egypt for help, hoping in horses, and having confidence in chariots, because they are many, and in horsemen, because they are mighty; and have not trusted in the Holy One of Israel, and have not sought the Lord* (Isa 31:1). *Put not your trust in princes, in the sons of men, in whom there is no salvation* (Ps 145:3).  
+First, he speaks of the curse upon those who trust in human assistance, where he gives the curse: ***cursed***, as one who is “abandoned to evil.” *(The wordplay here is lost in translation: *maledictus*, “cursed”; *malo addictus*, “abandoned to evil.”)* ***And makes flesh his arm***, that is, his strength, in which the irrationality of hope is set down, because human frailty is signified by the flesh. ***And his heart departs from the Lord***, by which is shown the reason for the curse; for it is permitted to trust in man under God, but not in such a way that God is forsaken. And this is said because of the Jews who, having spurned God, put their hope in the Egyptians. *Woe to you who go down to Egypt for help, hoping in horses, and having confidence in chariots, because they are many, and in horsemen, because they are mighty; and have not trusted in the Holy One of Israel, and have not sought the Lord* (Isa 31:1). *Put not your trust in princes, in the sons of men, in whom there is no salvation* (Ps 145:3).  
 
 And he gives a simile for the curse: ***for he shall be like a tamarisk***, which are little valued. Simmachus: *like an unfruitful tree in the wilderness*. ***He shall not see***—before their liberation from captivity, almost all of them died. ***But he shall dwell***, by which is shown the horror for the place of their captivity, not because it was bad in itself, but for those who are oppressed with bondage; ***in a dry place in the desert***, which is not tilled, but has a dry air, which makes the trees unfruitful; ***in saltiness***, with regard to the dryness of the land, because of the evaporation of moisture by the sun. *He has set rivers in the desert, and a spring of waters in the dry place* (Ps 106:33).  
 
@@ -98,7 +98,7 @@ Lecture 2
 
 ^17:11^ As the partridge has hatched what she did not lay, so he who has gotten riches and not by judgment; he shall leave them in the midst of his days, and at the last he shall be a fool.  
 
-> ^17:12^ A high and glorious throne from the beginning is the place of our sanctification.Heb. כִּסֵּ֣א כָב֔וֹד מָר֖וֹם מֵֽרִאשׁ֑וֹן מְק֖וֹם מִקְדָּשֵֽׁנוּ: *a throne of glory, exalted from the beginning, is the place of our sanctification*.
+> ^17:12^ A high and glorious throne from the beginning is the place of our sanctification. *(Heb. כִּסֵּ֣א כָב֔וֹד מָר֖וֹם מֵֽרִאשׁ֑וֹן מְק֖וֹם מִקְדָּשֵֽׁנוּ: *a throne of glory, exalted from the beginning, is the place of our sanctification*.)*
 
 > ^17:13^ You are the expectation of Israel, O Lord, all who forsake you shall be put to shame; those who depart from you shall be inscribed in the land, for they have abandoned the Lord, the source of living waters.
 

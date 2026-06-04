@@ -182,7 +182,7 @@ Lectio 8
 
 ^10:22^ Vox auditionis ecce venit, et commotio magna de terra aquilonis, ut ponat civitates Juda solitudinem, et habitaculum draconum.  
 
-> **75**. Hic determinat ordinem poenae, praesignans hostem ab aquilone venientem. Supra 1: ***ab aquilone pandetur omne malum super omnes habitatores terrae***.Here, the Parma edition reads *cognationes terrae*, “families of the land,” in place of *habitatores terrae*, “inhabitants of the land.”
+> **75**. Hic determinat ordinem poenae, praesignans hostem ab aquilone venientem. Supra 1: ***ab aquilone pandetur omne malum super omnes habitatores terrae***. *(Here, the Parma edition reads *cognationes terrae*, “families of the land,” in place of *habitatores terrae*, “inhabitants of the land.”)*
 
 Lectio 9  
 
@@ -194,7 +194,7 @@ Lectio 9
 
 > **76**. Hic petit misericordiam:
 
-et primo ostendit petendi necessitatem: ***non est hominis via***, quantum ad electionem, ***ut ambulet***, quantum ad executionem, ***dirigat***, quantum ad ordinationem in finem; et ita nec in potestate nostra resistere, nec Chaldaei impugnare; sed totum dependet ex tua dispositione. Psal. 36: *apud Domino*Here, the Parma edition reads *a Domino*, “by the Lord,” in place of *apud Domino*, “with the Lord.” *gressus hominis dirigentur, et viam ejus volet*. Prov. 16: *cor hominis disponit viam suam; sed Domini est dirigere gressus ejus*.  
+et primo ostendit petendi necessitatem: ***non est hominis via***, quantum ad electionem, ***ut ambulet***, quantum ad executionem, ***dirigat***, quantum ad ordinationem in finem; et ita nec in potestate nostra resistere, nec Chaldaei impugnare; sed totum dependet ex tua dispositione. Psal. 36: *apud Domino* *(Here, the Parma edition reads *a Domino*, “by the Lord,” in place of *apud Domino*, “with the Lord.”)* *gressus hominis dirigentur, et viam ejus volet*. Prov. 16: *cor hominis disponit viam suam; sed Domini est dirigere gressus ejus*.  
 
 Secundo ponit petitionem qua petit populus misericordiam: ***corripe me in judicio***, consuetae misericordiae, non condemnationis, de quo in Psalm. 142: *non intres in judicium cum servo tuo Domine, quia non justificabitur in conspectu tuo omnis vivens: **et non in furore***, secundum debitae vindictae mensuram, ***ne forte ad nihilum redigas me***: justum enim esset ut peccans in Deum ab ipso relinqueretur, et sic in nihilum tenderet. Et sic non facit contra praeceptum Domini supra 14: ***tu ergo noli orare pro populo isto*** quia non petit ut non puniantur, sed ne omnino deleantur. Psalm. 37: *Domine ne in furore tuo arguas me, neque in ira tua corripias me*.  
 

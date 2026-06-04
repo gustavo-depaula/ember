@@ -16,7 +16,7 @@
 
 > ^63:8^ And he said: surely they are my people, children that will not deny: so he became their savior.
 
-> ^63:9^ In all their affliction he was not troubled, and the angel of his face*Faciei*. DR: “presence.” saved them: in his love, and in his mercy he redeemed them, and he carried them and lifted them up all the days of old.
+> ^63:9^ In all their affliction he was not troubled, and the angel of his face *(*Faciei*. DR: “presence.”)* saved them: in his love, and in his mercy he redeemed them, and he carried them and lifted them up all the days of old.
 
 > ^63:10^ But they provoked to wrath, and afflicted the spirit of his Holy One: and he was turned to be their enemy, and he fought against them.
 
@@ -58,9 +58,9 @@ First, he sets out the question;
 
 second, the response: ***I, that speak justice***.  
 
-And it should be known that all the saints agree in explaining these words as referring to Christ; and the question comes from the angels, who indeed did not fully understand the mystery of the Incarnation of Christ, and therefore they asked as though ignorant, as Jerome says.*Commentary on Isaiah* ad loc. (610D; 721).  
+And it should be known that all the saints agree in explaining these words as referring to Christ; and the question comes from the angels, who indeed did not fully understand the mystery of the Incarnation of Christ, and therefore they asked as though ignorant, as Jerome says. *(*Commentary on Isaiah* ad loc. (610D; 721).)*  
 
-But Augustine seems to say the opposite of this on Genesis,*De Genesi ad litteram* 5.19.38 (PL 34, 334; CSEL 81–1, 162). where he says that from the beginning of their creation the angels knew everything that God was going to do, whether he imparted the seminal virtues of things to the things, or retained to himself alone that they *would* come to be, although it would inhere in things that they *could* come to be; and thus, it seems that they did understand the mystery in this way.  
+But Augustine seems to say the opposite of this on Genesis, *(*De Genesi ad litteram* 5.19.38 (PL 34, 334; CSEL 81–1, 162).)* where he says that from the beginning of their creation the angels knew everything that God was going to do, whether he imparted the seminal virtues of things to the things, or retained to himself alone that they *would* come to be, although it would inhere in things that they *could* come to be; and thus, it seems that they did understand the mystery in this way.  
 
 **1097**. To which the Gloss on Ephesians 3:8, *to me, the least of all the saints*, responds, saying that the greater angels understood the mystery, but the lesser angels, whose voice this is, did not know of it. Nevertheless, Dionysius seems to say otherwise in *De Cael. Hier*. 7.3; for he thinks that this question belongs to the supreme angels, who receive illuminations immediately from God; thus, God immediately responds to them: ***I, that speak***, although from reverence for Christ, they ask each other, like disciples waiting for the response of their teacher. But although the supreme angels knew mysteries of this kind as to the substance of the deed, nevertheless, they did not know them perfectly as to their particular circumstances; thus, the mystery is seen even better by a superior perfect intellect, namely, the divine intellect, than an angelic intellect: therefore, they seek to be more illuminated above this, that they might understand more perfectly.  
 
@@ -68,7 +68,7 @@ But Augustine seems to say the opposite of this on Genesis,*De Genesi ad littera
 
 First, the coming of the victorious one: ***who is this that comes***, into heaven, ***from Edom***, earth, for “Edom” means “bloody” or “earthly”; ***with dyed garments from Bosra***, hell, formerly fortified by a guard of demons. “Bosra” is sometimes the proper name of a certain city in the land of Moab and is sometimes an appellative name, meaning a fortified land or city: thus, it is frequently used for the land of Idumea, which is fortified by mountains, but here it is used for Jerusalem, or hell. ***Garments***, that is, bodily members, ***dyed***, with the blood of his passion, above: ***behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment*** (Isa 34:5).  
 
-Second, they are amazed at the beauty of his appearance: ***this beautiful*** (*formosus*) ***one***, from “formo,” hot, and thus someone is “formosus” who is roused up because of heat;Cf. Isidore, *Etymologies* 10.100. or from “form,” and thus he is called “formosus” because of his shape, that is, the proper symmetry of his members; ***in his robe***, in the clothing of humanity: *on whom the angels desire to look* (1 Pet 1:12).  
+Second, they are amazed at the beauty of his appearance: ***this beautiful*** (*formosus*) ***one***, from “formo,” hot, and thus someone is “formosus” who is roused up because of heat; *(Cf. Isidore, *Etymologies* 10.100.)* or from “form,” and thus he is called “formosus” because of his shape, that is, the proper symmetry of his members; ***in his robe***, in the clothing of humanity: *on whom the angels desire to look* (1 Pet 1:12).  
 
 Third, they doubt his powerful advance, ***walking***, into heaven, not by angelic help, but by his own power, which was unheard of up to this point: *upholding all things by the word of his power* (Heb 1:3).  
 
@@ -96,7 +96,7 @@ second, he goes through the entire order of the matter: ***for the day of vengea
 
 **1102**. Concerning the first, he does three things.  
 
-First, he tells of his victory alone: ***the winepress***, namely, the cross on which he was pressed by the weight of his passion, ***I have trodden***, my enemies, ***alone***, suffering and conquering; ***and of the Gentiles there is not a man with me***, to help me, because everyone fled, abandoning him. And he says expressly, *not a man*,*Vir*. because of the Blessed Virgin, in whom faith never failed: *a cluster of cypress my love is to me, in the vineyards of Engaddi* (Song 1:13); *the Lord has trodden the winepress for the virgin daughter of Judah* (Lam 1:15).  
+First, he tells of his victory alone: ***the winepress***, namely, the cross on which he was pressed by the weight of his passion, ***I have trodden***, my enemies, ***alone***, suffering and conquering; ***and of the Gentiles there is not a man with me***, to help me, because everyone fled, abandoning him. And he says expressly, *not a man*, *(*Vir*.)* because of the Blessed Virgin, in whom faith never failed: *a cluster of cypress my love is to me, in the vineyards of Engaddi* (Song 1:13); *the Lord has trodden the winepress for the virgin daughter of Judah* (Lam 1:15).  
 
 Second, he touches on vengeance against his enemies: ***I have trampled on them***, the demons, or the Jews; ***in my wrath***, my enkindled anger: *you shall walk upon the asp and the basilisk: and you shall trample under foot the lion and the dragon* (Ps 90[91]:13).  
 
@@ -168,7 +168,7 @@ And first, he seeks a hearing: ***look down from heaven***: *you will hear from 
 
 Second, he provokes him to mercy: ***where is your zeal*** with which you loved us. *Lord, where are your ancient mercies?* (Ps 88:50[89:49]); *if he withhold the waters, all things shall be dried up* (Job 12:15).  
 
-Third, he sets out a cause for having mercy: ***for you are our father, and Abraham has not known us***, when he was still alive, because we did not then exist; or, even now, he is unwilling to pray for us, because we do not call upon him; or, according to Augustine,Cf. Augustine, *De cura pro mortuis* 15.18 (PL 40, 605). because the dead, even the saints, do not know what is to be done for the living: but this is to be understood as to the power of human knowledge, not as to the illumination of divine light: *he is your father, that has possessed you, and made you, and created you* (Deut 32:6).  
+Third, he sets out a cause for having mercy: ***for you are our father, and Abraham has not known us***, when he was still alive, because we did not then exist; or, even now, he is unwilling to pray for us, because we do not call upon him; or, according to Augustine, *(Cf. Augustine, *De cura pro mortuis* 15.18 (PL 40, 605).)* because the dead, even the saints, do not know what is to be done for the living: but this is to be understood as to the power of human knowledge, not as to the illumination of divine light: *he is your father, that has possessed you, and made you, and created you* (Deut 32:6).  
 
 **1111**. ***Why have you made us to err?*** Here he sets out the evils which they met.  
 

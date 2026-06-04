@@ -414,7 +414,7 @@ Lectio
 
 ***[Gratian, *De consecratione*, dist. II, can. 59]***
 
-Credere in Iesum Christum, hoc est manducare panem vinum. Qui credit, manducat invisibiliter saginatur, quia invisibiliter renascitur. Et qui manducat Carnem Christi, et bibit Sanguinem illius, vitam habet aeternam. Participatione enim Filii, quod est per unitatem Corporis et Sanguinis eius, homo manducans vivit, non sumens tantum in sacramento, quod et mali faciunt, sed usque ad spiritus participationem, ut in corpore Domini tamquam membrum maneat et eius Spiritu vegetetur, quodCorrigan reads *quo*. est dum eius mandata servat. Ad altare Dei invisibile, quo non accedit iniustus, ille pervenit, qui ad hoc praesens iustificatus accedit. Invenit illic vitam qui illic discernit causam suam.  
+Credere in Iesum Christum, hoc est manducare panem vinum. Qui credit, manducat invisibiliter saginatur, quia invisibiliter renascitur. Et qui manducat Carnem Christi, et bibit Sanguinem illius, vitam habet aeternam. Participatione enim Filii, quod est per unitatem Corporis et Sanguinis eius, homo manducans vivit, non sumens tantum in sacramento, quod et mali faciunt, sed usque ad spiritus participationem, ut in corpore Domini tamquam membrum maneat et eius Spiritu vegetetur, quod *(Corrigan reads *quo*.)* est dum eius mandata servat. Ad altare Dei invisibile, quo non accedit iniustus, ille pervenit, qui ad hoc praesens iustificatus accedit. Invenit illic vitam qui illic discernit causam suam.  
 
 Ieronimus; [Gratian,] *De con[secratione*,] dist. II, [can. 77]  
 

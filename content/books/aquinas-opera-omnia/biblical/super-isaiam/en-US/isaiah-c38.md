@@ -22,7 +22,7 @@
 
 > ^36:11^ And Eliacim, and Sobna, and Joahe said to Rabsaces: speak to your servants in the Syrian tongue: for we understand it: speak not to us in the Jews’ language in the hearing of the people, that are upon the wall.
 
-> ^36:12^ And Rabsaces said to them: has my master sent me to your master and to you, to speak all these words; and not rather to the men that sit on the wall; that they may eat their own dung, and drink the urine of their feetVg.: *urinam pedum*. DR: “urine.” with you?
+> ^36:12^ And Rabsaces said to them: has my master sent me to your master and to you, to speak all these words; and not rather to the men that sit on the wall; that they may eat their own dung, and drink the urine of their feet *(Vg.: *urinam pedum*. DR: “urine.”)* with you?
 
 > ^36:13^ Then Rabsaces stood, and cried out with a loud voice in the Jews’ language, and said: hear the words of the great king, the king of the Assyrians.
 
@@ -30,7 +30,7 @@
 
 > ^36:15^ And let not Ezechias make you trust in the Lord, saying: the Lord will surely deliver us, and this city shall not be given into the hands of the king of the Assyrians.
 
-> ^36:16^ Do not hearken to Ezechias: for thus said the king of the Assyrians: make a blessing with me,*Facite mecum benedictionem*. DR: “do with me that which is for your advantage.” and come out to me, and eat every one of his vine, and every one of his fig tree, and drink every one the water of his cistern,
+> ^36:16^ Do not hearken to Ezechias: for thus said the king of the Assyrians: make a blessing with me, *(*Facite mecum benedictionem*. DR: “do with me that which is for your advantage.”)* and come out to me, and eat every one of his vine, and every one of his fig tree, and drink every one the water of his cistern,
 
 > ^36:17^ till I come and take you away to a land, like to your own, a land of corn and of wine, a land of bread and vineyards.
 
@@ -78,7 +78,7 @@ Concerning the first, he does two things.
 
 First, the messenger of the Assyrians is described: ***Rabsaces***, whom some say was the son of Isaiah, others a Samaritan; ***by the conduit***, about which, see above (Isa 7:3).  
 
-Second, the messengers of the Jews are described: ***and there went out to him Eliacim***, who succeeded Sobna, who handed over the lower part of the city to the Assyrians, as above (Isa 22:15–25); ***Sobna***, not the one mentioned above; ***the recorder***, the secretary of the king, who committed deeds to writing for the king to remember—hence he is called *recorder* (*commentor*) from *comminiscor*.From *con* (= with) + *memini* (= remember).  
+Second, the messengers of the Jews are described: ***and there went out to him Eliacim***, who succeeded Sobna, who handed over the lower part of the city to the Assyrians, as above (Isa 22:15–25); ***Sobna***, not the one mentioned above; ***the recorder***, the secretary of the king, who committed deeds to writing for the king to remember—hence he is called *recorder* (*commentor*) from *comminiscor*. *(From *con* (= with) + *memini* (= remember).)*  
 
 **752**. ***And Rabsaces said to them***. Here the discussion of the messengers is set out. And concerning this, he sets out two things:  
 
@@ -90,7 +90,7 @@ Concerning the first, he does three things.
 
 First, the address of Rabsaces himself is set out, in which he intends to establish the weakness of Ezechias’s ability to resist, by excluding defense from the Egyptians: ***lo you trust upon this broken staff of a reed***, said mockingly, because there are many reeds in Egypt; he speaks the truth when he says that the Egyptians were like such reeds: *you have been a staff of a reed* (Ezek 29:6); but it is false that Ezechias trusted in them. And by excluding divine help: ***but if you will answer me: we trust in the Lord our God: is it not he whose high places and altars Ezechias has taken away?***; what Ezechias did for religion, Rabsaces perverts into sacrilege: *beware lest you offer your holocausts in every place that you shall see* (Deut 12:13). And by excluding their own strength: ***and now deliver yourself up***, as if to say: you have neither horses nor horsemen, that you might resist the armies of one prince, above: ***he has rejected the cities*** (Isa 33:8). He also establishes the power of Sennacherib to fight from divine command: ***but if you trust***, above: ***I will give him a charge against the people of my wrath*** (Isa 10:6).  
 
-Second, the response of the others is set out: ***and Eliacim, and Sobna, and Joahe said to Rabsaces*. *In the hearing of the people***, lest they be troubled, knowing what is said: *in the blessing*Benedictione*. Vg.: *bonis*. of the just, the city shall rejoice* (Prov 11:10).  
+Second, the response of the others is set out: ***and Eliacim, and Sobna, and Joahe said to Rabsaces*. *In the hearing of the people***, lest they be troubled, knowing what is said: *in the blessing *(*Benedictione*. Vg.: *bonis*.)* of the just, the city shall rejoice* (Prov 11:10).  
 
 Third, Rabsaces’s mockery of their response is set out: ***and Rabsaces said to them*; *urine of their feet***, which flowed at their feet: *they that were brought up in scarlet have embraced the dung* (Lam 4:5).  
 
@@ -98,7 +98,7 @@ Third, Rabsaces’s mockery of their response is set out: ***and Rabsaces said t
 
 And first, his foolish words are set out, in which he frightens them with threats: ***he shall not be able to deliver you***: *who is this, that says the children of Israel can resist king Nabuchodonosor?* (Jdt 5:27). He allures them with promises: ***thus said the king*; *a blessing***, that is, a pact, which will be turned to your blessing, or: bless me as your lord. ***Till I come***, from Egypt, ***to a land***, namely, of the Medes: *God give you of the dew of heaven, and of the fatness of the earth, abundance of corn and wine* (Gen 27:28). And he provokes them by examples: ***neither let Ezechias trouble you***: *he shall be lifted up, and shall magnify himself* (Dan 11:36).  
 
-Second, he sets out the silence of the people who heard him: *he that deceives*Decipit*. Vg.: *despicit*. DR: “despiseth.” his friend, is mean of heart: but the wise man will hold his peace* (Prov 11:12); *answer not a fool according to his folly* (Prov 26:4); ***for the king had commanded, saying: answer him not***, lest he multiply words of blasphemy or deceive the people.  
+Second, he sets out the silence of the people who heard him: *he that deceives *(*Decipit*. Vg.: *despicit*. DR: “despiseth.”)* his friend, is mean of heart: but the wise man will hold his peace* (Prov 11:12); *answer not a fool according to his folly* (Prov 26:4); ***for the king had commanded, saying: answer him not***, lest he multiply words of blasphemy or deceive the people.  
 
 **754**. ***And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in***. Here the departure of the messengers from each other is set out.  
 

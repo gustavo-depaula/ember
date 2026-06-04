@@ -56,7 +56,7 @@ Praeterea, effectus qui potest impediri, non debet poni in definitione causae, q
 
 Quaestiuncula 3  
 
-Ulterius. Videtur quod etiam inconvenienter assignetur definitio Dionysii, quam ponit 2 cap. *Cael. Hier*., ubi dicit: *quoddam ergo est principium sanctissimorum mandatorum sacrae actionis, ad aliorum divinorum eloquiorum et sacrarum actionum susceptivam opportunitatem, formans nostros animales habitus ad supercaelestis quietis anagogem, nostrum iter faciens, sacrae et divinissimae nostrae regenerationis traditio*. Principium enim reducitur ad genus principiatorum. Sed sacramentum non est in genere principii,*principii.—precepti* PLE. sed in genere sacramenti. Ergo non debet dici principium sanctissimorum mandatorum.  
+Ulterius. Videtur quod etiam inconvenienter assignetur definitio Dionysii, quam ponit 2 cap. *Cael. Hier*., ubi dicit: *quoddam ergo est principium sanctissimorum mandatorum sacrae actionis, ad aliorum divinorum eloquiorum et sacrarum actionum susceptivam opportunitatem, formans nostros animales habitus ad supercaelestis quietis anagogem, nostrum iter faciens, sacrae et divinissimae nostrae regenerationis traditio*. Principium enim reducitur ad genus principiatorum. Sed sacramentum non est in genere principii, *(*principii.—precepti* PLE.)* sed in genere sacramenti. Ergo non debet dici principium sanctissimorum mandatorum.  
 
 Praeterea, non dicitur esse principium sanctorum mandatorum nisi inquantum praeparat viam ad alia mandata. Ergo superfluum fuit postea addere: *ad susceptivam opportunitatem aliorum nos formans*.  
 
@@ -188,7 +188,7 @@ Quaestiuncula 4
 
 Ulterius. Videtur quod non possit fieri interpositio vel transpositio. Quia baptismus est unus actus: unus autem est actus qui est continuus, ut dicitur in 5 physicorum. Sed interruptio tollit continuitatem baptismi. Ergo tollit unitatem ejus; ergo non debet fieri aliqua interruptio.  
 
-Praeterea, sicut ad fidem Trinitatis pertinent tres personae, ita et personarum ordo. Sed in translatione*translatione.—transpositione* PLE. variatur ordo. Ergo corrumpitur forma.  
+Praeterea, sicut ad fidem Trinitatis pertinent tres personae, ita et personarum ordo. Sed in translatione *(*translatione.—transpositione* PLE.)* variatur ordo. Ergo corrumpitur forma.  
 
 Sed contra est, quia transposita nomina et verba idem significant.  
 
@@ -332,7 +332,7 @@ Ad sextum dicendum, quod ex latere Christi fluxit sanguis et aqua; sed sanguis a
 
 Quaestiuncula 2  
 
-Ad secundam quaestionem dicendum, quod permixtio aquae potest esse duplex. Una quae tollit speciem,*tollit speciem.—tollit aquae speciem* PLE. sicut quando per alterationem transit in aliam speciem, sicut per putrefactionem aliquam vel digestionem transit in vinum, aut etiam per additionem tantam alterius liquoris, quod solvatur species aquae, sicut si parum aquae multo vino admisceatur. Alia permixtio est quae non tollit speciem aquae; sicut quando alteratur aqua secundum aliquod accidens, et manet species, ut patet in aqua calefacta; vel quando additur aliquid aquae quod vel non commisceatur, sicut si aliqua solida ponantur in aqua; vel si sit commiscibile, sicut aliquod humidum, tamen est tam parvae quantitatis quod mixtionem non faciat, sed in aquam penitus convertatur.  
+Ad secundam quaestionem dicendum, quod permixtio aquae potest esse duplex. Una quae tollit speciem, *(*tollit speciem.—tollit aquae speciem* PLE.)* sicut quando per alterationem transit in aliam speciem, sicut per putrefactionem aliquam vel digestionem transit in vinum, aut etiam per additionem tantam alterius liquoris, quod solvatur species aquae, sicut si parum aquae multo vino admisceatur. Alia permixtio est quae non tollit speciem aquae; sicut quando alteratur aqua secundum aliquod accidens, et manet species, ut patet in aqua calefacta; vel quando additur aliquid aquae quod vel non commisceatur, sicut si aliqua solida ponantur in aqua; vel si sit commiscibile, sicut aliquod humidum, tamen est tam parvae quantitatis quod mixtionem non faciat, sed in aquam penitus convertatur.  
 
 In aqua ergo primo modo permixta non potest fieri baptismus, quia jam non est aqua; in aqua autem secundo modo potest fieri. Ut autem cognoscatur quando sic vel sic permixta est aqua, sciendum est, quod sicut diversitatem speciei in animalibus judicamus ex diversitate figurarum, ita etiam diversam speciem in elementis cognoscimus ex diversitate rari et densi; et ideo si fiat tanta alteratio vel permixtio aquae quod recedatur a termino raritatis et densitatis aquae vel in actu vel in potentia, signum est quod sit species aquae transmutata; et dico in potentia, quando humor aliquis non condensatur et rarefit calido vel frigido, sicut aqua; sed aliter, sicut patet in vino, oleo, lacte, et hujusmodi.  
 

@@ -42,7 +42,7 @@ Et quantum ad perversitatem actionis in his, si qua bona exterius videbantur: **
 
 Secundo propheta confirmat Domini sententiam:  
 
-et primo ponit sententiae veritatem: ***Domine, oculi tui***Here, the Parma edition reads *mei*, “my,” in place of *tui*, “your.” ***respiciunt fidem***, idest quod rectum est; quasi dicat: recte judicasti. Prov. 16: *omnes viae hominum patent oculis ejus, spirituum ponderator est Dominus*. Hab. 1: *mundi sunt oculi tui ne videas malum, et respicere ad iniquitatem non poteris*.  
+et primo ponit sententiae veritatem: ***Domine, oculi tui*** *(Here, the Parma edition reads *mei*, “my,” in place of *tui*, “your.”)* ***respiciunt fidem***, idest quod rectum est; quasi dicat: recte judicasti. Prov. 16: *omnes viae hominum patent oculis ejus, spirituum ponderator est Dominus*. Hab. 1: *mundi sunt oculi tui ne videas malum, et respicere ad iniquitatem non poteris*.  
 
 Secundo adjungit populi incorrigibilitatem, quia nec emendatur percussione: ***percussisti***, levibus flagellis, ***non doluerunt***, de peccatis suis: ***attrivisti***, morte et captivitate. Supra 2: ***frustra percussi filios vestros; disciplinam non receperunt***. Aggaei 2: *percussi vos vento urente, et aerugine et grandine omnia opera manuum vestrarum: et non fuit in vobis qui reverteretur ad me: dicit Dominus*. Nec confusione: ***induraverunt***; quasi dicat: non immutantur verecundia. Ezech. 3: *omnis quippe domus Israel attrita fronte est, et duro corde*.  
 

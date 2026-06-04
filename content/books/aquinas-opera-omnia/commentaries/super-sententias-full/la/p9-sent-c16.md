@@ -120,7 +120,7 @@ Ad primum ergo dicendum, quod sponsalia non sui ratione, sed ratione ejus ad quo
 
 Ad secundum dicendum, quod vir et mulier efficiuntur in carnali copula una caro per commixtionem seminum; unde, quantumcumque aliquis claustra pudoris invadat vel frangat, nisi commixtio seminum sequatur, non contrahitur ex hoc affinitas. Sed matrimonium affinitatem causat non solum ratione carnalis copulae, sed etiam ratione societatis conjugalis, secundum quam etiam matrimonium naturale est; unde et affinitas contrahitur ex ipso contractu matrimonii per verba de praesenti ante carnalem copulam; et similiter etiam ex sponsalibus, in quibus fit quaedam pactio conjugalis societatis, contrahitur aliquid affinitati simile, scilicet publicae honestatis justitia.  
 
-Ad tertium dicendum, quod omnia impedimenta quae faciunt sponsalia non esse sponsalia, non permittunt ex pactione nuptiarum affinitatem fieri; unde sive habens defectum aetatis, sive habens votum solemne continentiae, aut aliquod hujusmodi impedimentum, si sponsalia de facto contrahat, ex hoc non sequitur aliqua affinitas; quia sponsalia nulla sunt, nec aliquis affinitatis modus. Si tamen aliquis minor, frigidus vel maleficiatus habens impedimentum perpetuum, ante annos pubertatis post septennium contrahat sponsalia cum adulta, ex tali contractu contrahitur publicae honestatis justitia; quia adhuc non erat in actu impediendi, cum in aetate*in aetate.—in tali aetate* PLE. puer frigidus et non frigidus quantum ad actum illum sint aequaliter impotentes.  
+Ad tertium dicendum, quod omnia impedimenta quae faciunt sponsalia non esse sponsalia, non permittunt ex pactione nuptiarum affinitatem fieri; unde sive habens defectum aetatis, sive habens votum solemne continentiae, aut aliquod hujusmodi impedimentum, si sponsalia de facto contrahat, ex hoc non sequitur aliqua affinitas; quia sponsalia nulla sunt, nec aliquis affinitatis modus. Si tamen aliquis minor, frigidus vel maleficiatus habens impedimentum perpetuum, ante annos pubertatis post septennium contrahat sponsalia cum adulta, ex tali contractu contrahitur publicae honestatis justitia; quia adhuc non erat in actu impediendi, cum in aetate *(*in aetate.—in tali aetate* PLE.)* puer frigidus et non frigidus quantum ad actum illum sint aequaliter impotentes.  
 
 Quaestiuncula 5  
 
@@ -200,7 +200,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-Ad tertium sic proceditur. Videtur quod filii qui nascuntur extra verum matrimonium, non sint illegitimi. Quia secundum legem naturae*legem naturae.—legem* PLE. natus legitimus filius dicitur. Sed quilibet filius nascitur secundum legem ad minus naturae, quae est fortissima. Ergo quilibet filius est legitimus.  
+Ad tertium sic proceditur. Videtur quod filii qui nascuntur extra verum matrimonium, non sint illegitimi. Quia secundum legem naturae *(*legem naturae.—legem* PLE.)* natus legitimus filius dicitur. Sed quilibet filius nascitur secundum legem ad minus naturae, quae est fortissima. Ergo quilibet filius est legitimus.  
 
 Praeterea, communiter dicitur quod legitimus filius est qui est de legitimo matrimonio natus, vel de eo quod in facie Ecclesiae legitimum reputatur. Sed contingit quandoque quod aliquod matrimonium reputatur legitimum in facie Ecclesiae, quod habet impedimentum ne sit verum matrimonium; et tamen a contrahentibus in facie Ecclesiae scitur; et si occulte nubant, et impedimentum nesciant, legitimum videtur in facie Ecclesiae, ex quo per Ecclesiam non prohibentur. Ergo filii extra verum matrimonium nati, non sunt illegitimi.  
 

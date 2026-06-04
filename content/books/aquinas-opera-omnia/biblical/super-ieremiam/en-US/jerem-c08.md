@@ -50,17 +50,17 @@ Lecture 2
 
 First, the command to attack. ***Sanctify***, that is, prepare, or show that the war is sanctioned and just, as though undertaken by the will of God. It is the voice of the princes to the soldiers. *If someone does not give them something to eat, they sanctify a battle against him* (Mic 3:5).  
 
-Second, he speaks of the desire for battle, which is shown by three things. By mutual exhortation. ***Arise***—the words of the soldiers to one another—***let us go up***, to fight, as though it were set on a mountain; and because they are not deterred by the unsuitability of the time, or by the heat of the day, ***at midday***, or by the terror of the night, ***in the night***, and because they complain about the shortness of time: ***woe to us, because the day is far spent***—which was the appropriate time to wage war. ***Made longer***—the more the sun approaches its zenith,Thomas Aquinas’s *zenith capitis* appears to be a direct translation of the original Arabic term, *samt ar-ra’s*: *direction of the head*. the longer the shadow then becomes on the opposite side. *Be strong, it is yet day, to remain in Nobe* (Isa 10:32). But according to the Gloss, ***woe to us*** is spoken from the person of the people fearful of an ambush at night, because they were barely able to resist at midday.Jerome, *In Hieremiam*, 2.81.  
+Second, he speaks of the desire for battle, which is shown by three things. By mutual exhortation. ***Arise***—the words of the soldiers to one another—***let us go up***, to fight, as though it were set on a mountain; and because they are not deterred by the unsuitability of the time, or by the heat of the day, ***at midday***, or by the terror of the night, ***in the night***, and because they complain about the shortness of time: ***woe to us, because the day is far spent***—which was the appropriate time to wage war. ***Made longer***—the more the sun approaches its zenith, *(Thomas Aquinas’s *zenith capitis* appears to be a direct translation of the original Arabic term, *samt ar-ra’s*: *direction of the head*.)* the longer the shadow then becomes on the opposite side. *Be strong, it is yet day, to remain in Nobe* (Isa 10:32). But according to the Gloss, ***woe to us*** is spoken from the person of the people fearful of an ambush at night, because they were barely able to resist at midday. *(Jerome, *In Hieremiam*, 2.81.)*  
 
-Third, he shows the manner of attack: ***for thus says the Lord***; it is as though he were saying, “We are able to fight securely, because the Lord has commanded”; ***cut wood***, to make siege engines, ***cast up a mound***, which they had made for the defense of their walls, destroying it,The term *agger* is somewhat ambiguous. It generally means a mound raised around a besieged city by the enemy for the purpose of sustaining the various engines of war. However, the term can also refer to a defensive structure, something like a *vallum*. or ***cast up***, in the sense of raising a heap of earth upon which to mount the siege engines against the city. *He himself will laugh at all your defenses, and raise a mound, and capture it* (Hab 1:10).  
+Third, he shows the manner of attack: ***for thus says the Lord***; it is as though he were saying, “We are able to fight securely, because the Lord has commanded”; ***cut wood***, to make siege engines, ***cast up a mound***, which they had made for the defense of their walls, destroying it, *(The term *agger* is somewhat ambiguous. It generally means a mound raised around a besieged city by the enemy for the purpose of sustaining the various engines of war. However, the term can also refer to a defensive structure, something like a *vallum*.)* or ***cast up***, in the sense of raising a heap of earth upon which to mount the siege engines against the city. *He himself will laugh at all your defenses, and raise a mound, and capture it* (Hab 1:10).  
 
 Lecture 3  
 
 ***The heart’s coldness***
 
-^6:6b^ This is the city of visitation; in her midst is every cunning device.Heb. עֹ֥שֶׁק: *oppression, extortion*.  
+^6:6b^ This is the city of visitation; in her midst is every cunning device. *(Heb. עֹ֥שֶׁק: *oppression, extortion*.)*  
 
-> ^6:7^ As a cistern cools her water, even so she makes her wickedness cold. Iniquity and ruinHeb. חָמָ֣ס וָ֠שֹׁד: *violence and plundering*. will be heard in her; ever before me is sickness and affliction.
+> ^6:7^ As a cistern cools her water, even so she makes her wickedness cold. Iniquity and ruin *(Heb. חָמָ֣ס וָ֠שֹׁד: *violence and plundering*.)* will be heard in her; ever before me is sickness and affliction.
 
 > **42**. Here, he speaks of the cause of the siege by way of the sin which occasioned it; concerning this, he makes three points.
 
@@ -76,7 +76,7 @@ Lecture 4
 
 ^6:8^ Be instructed, O Jerusalem, lest perhaps my soul depart from you, lest I make you a deserted place, a land in which none may dwell.  
 
-> ^6:9^ Thus says the Lord of hosts: they shall glean the remnant of Israel as a vine to the last cluster.Heb. עוֹלֵ֛ל: *severely*. Turn your hand as a grape-gatherer to the basket.Heb. סַלְסִלּֽוֹת: *shoots*.
+> ^6:9^ Thus says the Lord of hosts: they shall glean the remnant of Israel as a vine to the last cluster. *(Heb. עוֹלֵ֛ל: *severely*.)* Turn your hand as a grape-gatherer to the basket. *(Heb. סַלְסִלּֽוֹת: *shoots*.)*
 
 > **43**. Here, he shows the destruction; concerning this, he makes three points.
 
@@ -98,7 +98,7 @@ Lecture 5
 
 ***Israel’s deafness***
 
-^6:10^ To whom shall I speak, and whom shall I call as a witness,Heb. וְאָעִ֙ידָה֙: *and give warning*. that he may hear? Behold, their ears are uncircumcised, and they cannot hear. Behold, the word of the Lord has become a reproach to them, and they receive it not.Heb. לֹ֥א יַחְפְּצוּ־בֹֽו: *they take no delight in it*.  
+^6:10^ To whom shall I speak, and whom shall I call as a witness, *(Heb. וְאָעִ֙ידָה֙: *and give warning*.)* that he may hear? Behold, their ears are uncircumcised, and they cannot hear. Behold, the word of the Lord has become a reproach to them, and they receive it not. *(Heb. לֹ֥א יַחְפְּצוּ־בֹֽו: *they take no delight in it*.)*  
 
 > **44**. Here, he shows their contempt for the advice that was given.
 
@@ -118,7 +118,7 @@ Lecture 6
 
 First, he shows them his zeal for justice: ***I am filled with the fury of the Lord***, with a fiery zeal for the justice of the Lord. *By my zeal was he stirred up against them, that I should not destroy them in my zeal* (Num 25:11).  
 
-Second, he gives the enemy the command to destroy: abundantly ***pour it out***, O Chaldean, ***wrath***,Here, Thomas Aquinas seems to interchange *iram*, “wrath,” with *furorem*, “fury,” which makes sense, given the quotation from Sirach and the commentary of Jerome. Cf. Jerome, *In Hieremiam* 1.84. that is, your abundant wrath, ***without***, in the streets and fields. *Stir up your fury and pour forth your wrath* (Sir 36:8). ***Upon the child***—let none be spared for his age.  
+Second, he gives the enemy the command to destroy: abundantly ***pour it out***, O Chaldean, ***wrath***, *(Here, Thomas Aquinas seems to interchange *iram*, “wrath,” with *furorem*, “fury,” which makes sense, given the quotation from Sirach and the commentary of Jerome. Cf. Jerome, *In Hieremiam* 1.84.)* that is, your abundant wrath, ***without***, in the streets and fields. *Stir up your fury and pour forth your wrath* (Sir 36:8). ***Upon the child***—let none be spared for his age.  
 
 Third, he speaks of the fulfillment of the command, both with regard to persons, and with regard to possessions. ***The man with the woman***, his wife. *Our inheritance has been turned over to strangers, our houses to foreigners* (Lam 5:2).  
 
@@ -128,7 +128,7 @@ Lecture 7
 
 ^6:13^ For from the least to the greatest they are all given over to greed, and from the prophet to the priest, they all deal fraudulently.  
 
-> ^6:14^ And they would heal the bruise of the daughter of my people with shame,Heb. נְקַלָּ֔ה: *slightly, superficially*. saying, ‘Peace, peace!’ And there was no peace.
+> ^6:14^ And they would heal the bruise of the daughter of my people with shame, *(Heb. נְקַלָּ֔ה: *slightly, superficially*.)* saying, ‘Peace, peace!’ And there was no peace.
 
 > ^6:15^ Were they ashamed because they committed abomination? Nay; rather, they were not ashamed of shame, and to blush they knew not how. For this reason, they will fall among them that fall, and in the time of their visitation they shall be cast down, says the Lord.
 
@@ -158,7 +158,7 @@ Lecture 8
 
 > ^6:17^ And I will set watchmen over you; attend to the voice of the trumpet. But they said, ‘We shall not attend.’
 
-> ^6:18^ Therefore, hear, O nations, and know, O congregation, what great things I will do to them.Heb. וּדְעִ֥י עֵדָ֖ה אֶת־אֲשֶׁר־בָּֽם: *and know, O congregation, what is against them*.
+> ^6:18^ Therefore, hear, O nations, and know, O congregation, what great things I will do to them. *(Heb. וּדְעִ֥י עֵדָ֖ה אֶת־אֲשֶׁר־בָּֽם: *and know, O congregation, what is against them*.)*
 
 > ^6:19^ Hear, O earth: behold, I will bring evils upon this people, the fruit of their thoughts; because they have not heard my words, but have cast off my law.
 
@@ -184,7 +184,7 @@ Lecture 9
 
 > **48**. Here he discusses the abuse of sacred things; insofar as they are polluted with sins, they presumed to offer sacrifices to God, which, because of this, had not been accepted; concerning this, he makes two points.
 
-First, he proves their guilt from the fact that their sacrifices were not accepted. And with regard to those things which were offered on the altar of incense: ***why do you bring me the frankincense of Sheba***, the region from which frankincense comes;Biblical Sheba was almost certainly the kingdom of Saba centered around the oasis of Marib in present day Yemen. ***calamus***, cinnamon,Heb. קָנֶה הַטּוֹב: *the goodly reed*. Most likely *acorus calamus*, sweet flag, an aromatic marsh plant. which was put in the incense whose composition is given in Exodus 30:34:Neither calamus nor cinnamon are listed as among the ingredients in the incense to be burned in the Tabernacle in Exodus 30:34; they are both, however, used in the anointing oil, described in Exodus 30:23. ***from a distant land***, that is, from India. *He who is mindful of frankincense is as one who blesses an idol* (Isa 66:3). And with regard to the altar of burnt offerings: ***your holocausts***. *I have refused your holocausts of rams, and the fat of your fattened beasts, and the blood of your calves, lambs and goats* (Isa 1:11).  
+First, he proves their guilt from the fact that their sacrifices were not accepted. And with regard to those things which were offered on the altar of incense: ***why do you bring me the frankincense of Sheba***, the region from which frankincense comes; *(Biblical Sheba was almost certainly the kingdom of Saba centered around the oasis of Marib in present day Yemen.)* ***calamus***, cinnamon, *(Heb. קָנֶה הַטּוֹב: *the goodly reed*. Most likely *acorus calamus*, sweet flag, an aromatic marsh plant.)* which was put in the incense whose composition is given in Exodus 30:34: *(Neither calamus nor cinnamon are listed as among the ingredients in the incense to be burned in the Tabernacle in Exodus 30:34; they are both, however, used in the anointing oil, described in Exodus 30:23.)* ***from a distant land***, that is, from India. *He who is mindful of frankincense is as one who blesses an idol* (Isa 66:3). And with regard to the altar of burnt offerings: ***your holocausts***. *I have refused your holocausts of rams, and the fat of your fattened beasts, and the blood of your calves, lambs and goats* (Isa 1:11).  
 
 Second, he speaks of their punishment. ***Therefore, thus says the Lord***. *The people will oppress each other, man against man and each one against his neighbor* (Isa 3:5).  
 
@@ -228,7 +228,7 @@ Lecture 11
 
 > ^6:28^ All these princes turn aside, walking fraudulently. Bronze and iron, all have been corrupted.
 
-> ^6:29^ The bellows have failed;Heb. נָחַ֣ר: *blown hot*. the lead is consumed in fire; in vain has the founder melted, for their wickedness is not consumed.
+> ^6:29^ The bellows have failed; *(Heb. נָחַ֣ר: *blown hot*.)* the lead is consumed in fire; in vain has the founder melted, for their wickedness is not consumed.
 
 > ^6:30^ Reprobate silver you shall call them, because the Lord has cast them off.
 
@@ -238,7 +238,7 @@ First, he brings up the testimony of the prophet: ***as an assayer***, so that y
 
 Second, he discusses their universal sin: ***all these princes turn aside. Bronze and iron***—it is as though he were saying, “Not only are they unclean, but they are covered in uncleanness,” as iron and bronze are impurities in silver. Alternatively, ***iron*** for its hardness, and ***bronze*** for its inability to bear anything, because it is brittle. *His bones are like reeds of bronze* (Job 40:18). *They are corrupt and have become abominable in their desires* (Ps 13:1).  
 
-Third, he gives an example of their incorrigibility: ***the bellows have failed***, for silver mixed with lead is first placed in the furnace, then while the silversmith works the bellows, the dross is consumed and the silver is improved, but the lead is diminished.Thomas Aquinas is perhaps speaking here of the process of refining galena, a lead ore containing significant quantities of silver. Now, these people were put in the furnace of tribulation, consumed with evil as with lead, but they were not corrected. ***In vain***, the word of God, ***has the founder***, God, or the preacher, ***melted***. *In fire are gold and silver tried, but acceptable men in the furnace of humiliation* (Sir 2:5).  
+Third, he gives an example of their incorrigibility: ***the bellows have failed***, for silver mixed with lead is first placed in the furnace, then while the silversmith works the bellows, the dross is consumed and the silver is improved, but the lead is diminished. *(Thomas Aquinas is perhaps speaking here of the process of refining galena, a lead ore containing significant quantities of silver.)* Now, these people were put in the furnace of tribulation, consumed with evil as with lead, but they were not corrected. ***In vain***, the word of God, ***has the founder***, God, or the preacher, ***melted***. *In fire are gold and silver tried, but acceptable men in the furnace of humiliation* (Sir 2:5).  
 
 Fourth, he concludes the argument for rejection: ***reprobate silver you shall call them***. *You have utterly rejected us, you are exceedingly angry with us* (Lam 5:22).  
 

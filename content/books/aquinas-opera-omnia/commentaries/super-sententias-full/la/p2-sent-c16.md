@@ -48,7 +48,7 @@ Contra, ad Hebr. 11:6: *credere oportet accedentem ad Deum, quia est, et quod di
 
 Praeterea, Deus habet de rebus scientiam practicam, quae est operationis principium. Sed operatio est circa singularia. Ergo videtur quod sua scientia sit etiam singularium.  
 
-Respondeo dicendum, quod Deus absque dubio omnium, et universalium et singularium, cognitionem habet. Sciendum tamen, quod circa hanc quaestionem diversi diversimode processerunt.Parma: *senserunt*.  
+Respondeo dicendum, quod Deus absque dubio omnium, et universalium et singularium, cognitionem habet. Sciendum tamen, quod circa hanc quaestionem diversi diversimode processerunt. *(Parma: *senserunt*.)*  
 
 Commentator enim, in 11 *Metaph*., videtur expresse negare Deo particularium cognitionem, nisi inquantum cognoscit essentiam suam, quae est principium omnis esse. Sed cum Deus non tantum sit causa esse rerum, sed omnium quae in rebus sunt, oportet ut cognitionem rerum non tantum in eo quod sunt habeat, sed etiam in eo quod sunt talia vel talia.  
 
@@ -56,9 +56,9 @@ Et ideo alii dixerunt, scilicet Avicenna, tract. 8 *Metaph*., cap. 7, et Algazel
 
 Cognoscit tamen particularia secundum particularitatem ipsorum. Unde dictum illud etiam est insufficiens. Cognoscere enim hoc modo singulare in universali, non est cognoscere propriam naturam hujus singularis vel illius; eo quod quocumque modo universalia aggregentur, nunquam ex eis fiet singulare, nisi per hoc quod individuantur per materiam. Et ideo ex hac etiam via sequeretur quod Deus non perfectam cognitionem de singularibus haberet. Universales enim causae non ducunt in cognitionem particularium, nisi secundum quod particularia participant naturam communem; et sic ex causis universalibus non sciretur de particulari nisi quod habet talem vel talem naturam communem, vel accidentaliter vel substantialiter.  
 
-Ideo alii dixerunt, sicut Rabbi Moyses, lib. 3 sui *Directorii*, cap. 17, quod Deus scit perfectissime singularia; et omnes rationes, quae in contrarium inducuntur, solvit per hoc quod dicit, scientiam Dei esse aequivocam scientiae nostrae; unde per conditiones scientiae nostrae non possumus aliquid de scientia Dei arguere: sicut enim esse Dei non comprehenditur a nobis, ita nec sua scientia. Hoc confirmat per id quod habetur per Isa. 55: *sicut exaltati sunt*Mandonnet offers the alternative text: *exaltantur*. *caeli a terra, sic exaltatae sunt viae meae a viis vestris*.  
+Ideo alii dixerunt, sicut Rabbi Moyses, lib. 3 sui *Directorii*, cap. 17, quod Deus scit perfectissime singularia; et omnes rationes, quae in contrarium inducuntur, solvit per hoc quod dicit, scientiam Dei esse aequivocam scientiae nostrae; unde per conditiones scientiae nostrae non possumus aliquid de scientia Dei arguere: sicut enim esse Dei non comprehenditur a nobis, ita nec sua scientia. Hoc confirmat per id quod habetur per Isa. 55: *sicut exaltati sunt* *(Mandonnet offers the alternative text: *exaltantur*.)* *caeli a terra, sic exaltatae sunt viae meae a viis vestris*.  
 
-Sed istud, quamvis sit verum, tamen oportet aliquid plus dicere: videlicet, quod quamvis scientia Dei sit alterius modi a scientia nostra, tamen per scientiam nostram aliqualiter devenimus in scientiam Dei; et sic scientia nostra non est penitus aequivocaParma: *univoca*. scientiae Dei, sed potius analogica, ut dictum est. Et ideo oportet dicere secundum quid scientia nostra imitatur scientiam Dei, et in quo deficit et quare; et ita rationes dissolvere.  
+Sed istud, quamvis sit verum, tamen oportet aliquid plus dicere: videlicet, quod quamvis scientia Dei sit alterius modi a scientia nostra, tamen per scientiam nostram aliqualiter devenimus in scientiam Dei; et sic scientia nostra non est penitus aequivoca *(Parma: *univoca*.)* scientiae Dei, sed potius analogica, ut dictum est. Et ideo oportet dicere secundum quid scientia nostra imitatur scientiam Dei, et in quo deficit et quare; et ita rationes dissolvere.  
 
 Unde procedendum est per viam quam docet Dionysius, 7 cap. *De div. nomin*. Dicit enim, quod cum Deus cognoscit res per essentiam suam quae est causa rerum, eodem modo cognoscit res quo modo esse rebus tradidit; unde si aliquid est in rebus non cognitum ab ipso, oportet quod circa illud vacet divina operatio, id est quod non sit operatum ab ipso; et ex hoc accidit difficultas philosophis propter duo: primo, quia quidam ipsorum non ponebant Deum operari immediate in rebus omnibus, sed ab ipso esse primas res, quibus mediantibus ab eo aliae producuntur; et ideo non poterant invenire qualiter cognosceret res quae sunt hic, nisi in primis causis universalibus: secundo, quia quidam eorum non ponebant materiam esse factam, sed Deum agere tantum inducendo formam. Et ideo cum materia sit principium individuationis, non poterat inveniri apud eos, quomodo Deus singularia, inquantum hujusmodi, cognoscat.  
 
@@ -90,13 +90,13 @@ Si dicas, quod cognoscit malum per bonum;
 
 Sed contra est quod in Psal. 68:6, dicitur: *Deus, tu scis insipientiam meam, et delicta mea a te non sunt abscondita*.  
 
-Praeterea, Philosophus dicit in 1 *De anima*, quod rectum est judex suiipsius et obliqui. Cum igitur malum sit obliquatio a rectitudine boni, videtur quod Deo, qui omnia bona perfecte cognoscit, notitia maliParma: *boni*. non desit.  
+Praeterea, Philosophus dicit in 1 *De anima*, quod rectum est judex suiipsius et obliqui. Cum igitur malum sit obliquatio a rectitudine boni, videtur quod Deo, qui omnia bona perfecte cognoscit, notitia mali *(Parma: *boni*.)* non desit.  
 
 Respondeo dicendum, quod nescire dicitur dupliciter: uno modo metaphorice ad similitudinem nescientis se habere; et sic ipsum reprobare Dei nescire dicitur, quia malos a gloria sua excludit; sicut aliquis ignotos a secretis suis excludit: et per oppositum Deus dicitur scire quae approbat, et sic verum est quod Deus dicitur nescire mala. Alio modo dicitur nescire proprie notitia rei carere, et per oppositum scire notitiam rei habere; et ita Deus novit et bona et mala cognoscendo essentiam suam, sicut tenebrae cognoscuntur per cognitionem lucis, ut dicit Dionysius, 7 cap. *De div. nom*.  
 
 Sed sciendum est, quod privatio non cognoscitur nisi per habitum oppositum: nec habitui opponitur privatio nisi circa idem subjectum considerata. Cum autem lucem divinae essentiae impossibile sit deficere, non opponitur sibi privatio aliqua. Unde malum non opponitur bono, prout in Deo est determinate; sed forte opponitur sibi secundum communem intentionem boni. Opponitur autem determinate bono quod est participatum in creaturis cui potest admisceri defectus. Unde per hoc quod Deus cognoscit essentiam suam cognoscit ea quae ab ipso sunt, et per ea cognoscit defectus ipsorum. Si autem essentiam suam cognosceret tantum, nullum malum vel privationem cognosceret nisi in communi.  
 
-Et ideo patet responsio ad primum: quia ex hoc quod Commentator ponit, 12 *Metaph*., quod nihil nisi essentiam suam cognoscit, sequitur quod mala nescit; unde ibidem subdit, quod nescit mala esse: unde eodem modo quo alia a se cognoscit, et privationes ipsorum novit: non quod privationes sint primum cognitum, quia in intellectu suo non potest esse aliqua privatio; sed ab eo suntParma*: non sicut primum cognitum, quia . . . , sed sicut*. secunda intellecta, ut ex praedictis patet.  
+Et ideo patet responsio ad primum: quia ex hoc quod Commentator ponit, 12 *Metaph*., quod nihil nisi essentiam suam cognoscit, sequitur quod mala nescit; unde ibidem subdit, quod nescit mala esse: unde eodem modo quo alia a se cognoscit, et privationes ipsorum novit: non quod privationes sint primum cognitum, quia in intellectu suo non potest esse aliqua privatio; sed ab eo sunt *(Parma*: non sicut primum cognitum, quia . . . , sed sicut*.)* secunda intellecta, ut ex praedictis patet.  
 
 Ad secundum dicendum, quod scientia Dei nullo modo a re causata est; nec tamen est causa omnium quae cognoscit, sed horum tantum quorum est per se cognitio, scilicet bonorum. Mala autem cognoscit per bona, ut dictum est.  
 
@@ -116,7 +116,7 @@ Si dicas, quod non sunt in eo per essentiam, sed per sui similitudinem:
 
 *contra*. Unaquaeque res verius est ubi est per suam essentiam, quam ubi est per suam similitudinem: quia ibi non videtur esse nisi secundum quid. Si igitur res in Deo non sunt nisi secundum sui similitudinem, videtur quod verius et melius sint in seipsis quam in Deo: quod est contra Augustinum, lib. 5 *Sup. Gen. ad lit*., cap. 15, et Anselmum, in *Monol*., cap. 34.  
 
-Praeterea, similitudo respondet ei cujus est similitudo. Sed res omnes non habent in se lucem et vitam. Cum igitur in Deo sint vita et lux, videtur quod non sint in Deo secundumParma: *per*. sui similitudinem.  
+Praeterea, similitudo respondet ei cujus est similitudo. Sed res omnes non habent in se lucem et vitam. Cum igitur in Deo sint vita et lux, videtur quod non sint in Deo secundum *(Parma: *per*.)* sui similitudinem.  
 
 Praeterea, ubi est res secundum sui similitudinem, ibi non attribuitur sibi operatio propria sua; lapis enim in oculo non movetur deorsum. Sed Act. 17:28, dicitur, quod *in ipso* Deo *vivimus, movemur et sumus*. Ergo videtur quod non sumus in Deo per similitudinem tantum.  
 
@@ -132,7 +132,7 @@ Ad primum ergo dicendum, quod in Deo nihil est diversum ab ipso; unde et creatur
 
 Ad secundum dicendum, quod esse creaturae potest quadrupliciter considerari: primo modo, secundum quod est in propria natura; secundo modo, prout est in cognitione nostra; tertio modo, prout est in Deo; quarto modo communiter, prout abstrahit ab omnibus his.  
 
-Cum ergo dicitur quod creatura verius esse habet in Deo quam in seipsa, comparatur primum et tertium esse respectu quarti: quia omnis comparatio est respectu alicujusParma omits *alicujus*. communis; et pro tanto dicitur quod in Deo habet verius esse, quia omne quod est in aliquo, est in eo per modum ejus in quo est, et non per modum sui; unde in Deo est per esse increatum, in se autem est per esse creatum, in quo minus est de veritate essendi quam in esse increato.  
+Cum ergo dicitur quod creatura verius esse habet in Deo quam in seipsa, comparatur primum et tertium esse respectu quarti: quia omnis comparatio est respectu alicujus *(Parma omits *alicujus*.)* communis; et pro tanto dicitur quod in Deo habet verius esse, quia omne quod est in aliquo, est in eo per modum ejus in quo est, et non per modum sui; unde in Deo est per esse increatum, in se autem est per esse creatum, in quo minus est de veritate essendi quam in esse increato.  
 
 Si autem comparetur esse primum ad secundum respectu quarti, inveniuntur se habere secundum excedentia et excessa; esse enim quod est in propria natura rei, in eo quod est substantiale, excedit esse rei in anima quod est accidentale; sed exceditur ab eo, secundum quod hoc est esse materiale, et illud intellectuale; et ita patet quod aliquando res verius esse habet ubi est per suam similitudinem quam in seipsa.  
 
@@ -162,9 +162,9 @@ Articulus 1
 
 ***Ad primum sic proceditur. Videtur ideas non esse.***
 
-Sicut enim dicit Philosophus in 1 *Metaph*.: *dicere ideas exemplaria esse*Al.: *dicere exemplaria esse*. *vaniloquium est, et poeticas metaphoras dicere*. Sed ideas exemplaria rerum dicimus. Ergo vanum est ideas dicere.  
+Sicut enim dicit Philosophus in 1 *Metaph*.: *dicere ideas exemplaria esse* *(Al.: *dicere exemplaria esse*.)* *vaniloquium est, et poeticas metaphoras dicere*. Sed ideas exemplaria rerum dicimus. Ergo vanum est ideas dicere.  
 
-Praeterea, perfectius est agens quod non eget in sua actione ad exemplar respicere, quam quod exemplari indiget. Sed Deus est perfectissimumParma: *perfectum*. agens. Ergo non est sibi opus ideis, ad quarum exemplar faciat res; unde ibidem Philosophus subdit: *nam quid est opus ad ideas respicere?*Nicolaï adds *operarium*.  
+Praeterea, perfectius est agens quod non eget in sua actione ad exemplar respicere, quam quod exemplari indiget. Sed Deus est perfectissimum *(Parma: *perfectum*.)* agens. Ergo non est sibi opus ideis, ad quarum exemplar faciat res; unde ibidem Philosophus subdit: *nam quid est opus ad ideas respicere?* *(Nicolaï adds *operarium*.)*  
 
 Praeterea, secundum Augustinum, melius scitur res per essentiam suam quam per similitudinem suam. Sed Deus nobilissime cognoscit res. Ergo scit eas per essentias earum, et non per aliquas similitudines ideales rerum.  
 
@@ -194,13 +194,13 @@ Articulus 2
 
 Idea enim dicitur similitudo per quam cognoscitur res. Sed, sicut supra habitum est, Deus cognoscit omnia per essentiam suam. Cum igitur essentia sua sit una, videtur quod idea sit tantum una.  
 
-Si dicas, quod sunt plures respectusParma: *propter respectus diversos*. ad res;  
+Si dicas, quod sunt plures respectus *(Parma: *propter respectus diversos*.)* ad res;  
 
 *contra*. Relationes quae sunt Dei ad creaturam, sunt realiter in creaturis, et non in Deo. Creaturae autem non fuerunt ab aeterno: ergo nec relationes Dei ad creaturam. Ergo ideae non fuerunt plures ab aeterno. Sed Deus non alio modo cognoscit res factas quam antequam faceret, ut habitum est ex verbis Augustini, lib. 5 *Super Gen. ad litt*., cap. 15. Ergo modo non cognoscit res per plures ideas, sed per unam tantum.  
 
 Praeterea, ut dictum est, idea se habet ad rem cujus est, sicut forma artis, quae est in mente artificis, ad artificiatum. Sed diversitas artificiatorum provenit ex pluralitate formarum quae sunt in mente artificis, et non e contrario. Ergo videtur quod nec diversitas rerum possit inducere pluralitatem idearum.  
 
-Praeterea, sicut idea dicitur relative ad ideatum, ita et scientia dicitur per respectum ad scibile. Sed quamvis sint plura scita a Deo, tamen est una tantumParma: *est una ejus*. scientia. Ergo rerum omnium quae ab ipso producuntur, est una tantum idea.  
+Praeterea, sicut idea dicitur relative ad ideatum, ita et scientia dicitur per respectum ad scibile. Sed quamvis sint plura scita a Deo, tamen est una tantum *(Parma: *est una ejus*.)* scientia. Ergo rerum omnium quae ab ipso producuntur, est una tantum idea.  
 
 Sed contra, illud in quo non est pluralitas aliqua, non potest pluraliter consignificari. Sed Augustinus, lib. *83 quaestion*., quaest. 46, pluraliter ideas nominat, dicens, quod ideae sunt rationes rerum stabiles, in mente divina existentes; et cum ipsae nec oriantur nec intereant, secundum eas tamen fit omne quod interit et oritur. Ergo ideae sunt plures.  
 
@@ -236,13 +236,13 @@ Praeterea, idea non est nisi alicujus quod eam per imitationem participat. Sed a
 
 Sed contra, omnis cognitio est per speciem aliquam cogniti in cognoscente. Sed species rerum in Deo existentes, ideae dicuntur. Ergo omnium cognitorum a Deo idea in ipso est.  
 
-Respondeo dicendum, quod, sicut ex auctoritate Dionysii, cap. 5 *De div. nom*., inducta patet, idea dicitur similitudo vel ratio rei in Deo existens, secundum quod est productiva ipsius rei et praedeterminativa;Parma: *determinativa*. et ideo unumquodque, secundum quod se habet ad hoc quod a Deo producatur, ita se habet ad hoc quod ipsius idea sit in eo. Omne autem quod ab aliquo per se agente producitur, oportet quod secundum hoc quod ab ipso effectumParma: *effectu*. est, ipsum imitetur; quia, ut probat Philosophus, 2 *De anima*, simile agit sibi simile, tam in his quae agunt per voluntatem quam in his quae agunt per necessitatem. Unde secundum id quod aliquid a Deo producitur, secundum hoc similitudinem in ipso habet, et secundum hoc est idea ipsius in Deo, et secundum hoc a Deo cognoscitur; et ideo cum omnis res a Deo producatur, oportet omnium rerum ideas in ipso esse.  
+Respondeo dicendum, quod, sicut ex auctoritate Dionysii, cap. 5 *De div. nom*., inducta patet, idea dicitur similitudo vel ratio rei in Deo existens, secundum quod est productiva ipsius rei et praedeterminativa; *(Parma: *determinativa*.)* et ideo unumquodque, secundum quod se habet ad hoc quod a Deo producatur, ita se habet ad hoc quod ipsius idea sit in eo. Omne autem quod ab aliquo per se agente producitur, oportet quod secundum hoc quod ab ipso effectum *(Parma: *effectu*.)* est, ipsum imitetur; quia, ut probat Philosophus, 2 *De anima*, simile agit sibi simile, tam in his quae agunt per voluntatem quam in his quae agunt per necessitatem. Unde secundum id quod aliquid a Deo producitur, secundum hoc similitudinem in ipso habet, et secundum hoc est idea ipsius in Deo, et secundum hoc a Deo cognoscitur; et ideo cum omnis res a Deo producatur, oportet omnium rerum ideas in ipso esse.  
 
 Ad primum ergo dicendum, quod malum, inquantum malum, nihil est, cum sit privatio quaedam, sicut caecitas; et ideo rei malae idea in Deo est, non quidem inquantum mala est, sed inquantum res est; et ipsum malum per oppositum bonum cognoscitur a Deo, a quo res privationi subjecta deficit.  
 
 Ad secundum dicendum, quod cum materia prima a Deo sit, oportet ideam ejus aliqualiter in Deo esse; et sicut attribuitur sibi esse, ita attribuitur sibi idea in Deo: quia omne esse, inquantum perfectum est, exemplariter ductum est ab esse divino. Esse autem perfectum, materiae non convenit in se, sed solum secundum quod est in composito; in se vero habet esse imperfectum secundum ultimum gradum essendi, qui est esse in potentia; et ideo perfectam rationem ideae non habet nisi secundum quod est in composito, quia sic sibi a Deo esse perfectum confertur; in se vero considerata, habet in Deo imperfectam rationem ideae; hoc est dictu, quia essentia divina est imitabilis a composito secundum esse perfectum, a materia secundum esse imperfectum, sed a privatione nullo modo. Et ideo compositum, secundum rationem suae formae, habet perfecte ideam in Deo, materia vero imperfecte, sed privatio nullo modo.  
 
-Ad tertium dicendum, quod particularia habent proprias ideas in Deo; unde alia est ratio Petri et Martini in Deo, sicut alia ratio hominis et equi. Sed tamen diversimode; quiaParma omits *diversimode; quia*. diversitas hominis et equi est secundum formam, cui perfecte respondet idea: sed distinctio singularium unius speciei essentialis est secundum materiam, quae non perfecte habet ideam; et ideo perfectior est distinctio rationum respondentium diversis speciebus quam diversis individuis; ita tamen quod imperfectio referatur ad res imitantes, et non ad essentiam divinam quam imitantur.  
+Ad tertium dicendum, quod particularia habent proprias ideas in Deo; unde alia est ratio Petri et Martini in Deo, sicut alia ratio hominis et equi. Sed tamen diversimode; quia *(Parma omits *diversimode; quia*.)* diversitas hominis et equi est secundum formam, cui perfecte respondet idea: sed distinctio singularium unius speciei essentialis est secundum materiam, quae non perfecte habet ideam; et ideo perfectior est distinctio rationum respondentium diversis speciebus quam diversis individuis; ita tamen quod imperfectio referatur ad res imitantes, et non ad essentiam divinam quam imitantur.  
 
 Ad quartum dicendum, quod accidentia etiam perfectum esse non habent; unde deficiunt a perfectione ideae: propter quod etiam Plato non posuit ideas accidentium, sed substantiarum tantum, ut 1 *Metaph*., dicitur. Tamen secundum quod esse habent per imitationem divinae essentiae, sic essentia divina est eorum idea.  
 

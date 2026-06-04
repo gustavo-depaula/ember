@@ -10,7 +10,7 @@
 
 > ^20:2^ And Pashhur struck Jeremiah the prophet, and put him in fetters, which were in the upper gate of Benjamin, in the house of the Lord.
 
-> ^20:3^ The next day, when it was light, Pashhur brought Jeremiah from prison, and Jeremiah said to him: the Lord has not called your name Pashhur,Heb. פַּשְׁחוּר: *liberation*. but Terror.Heb. מָגֹ֥ור מִסָּבִֽיב: *Terror-on-Every-Side*.
+> ^20:3^ The next day, when it was light, Pashhur brought Jeremiah from prison, and Jeremiah said to him: the Lord has not called your name Pashhur, *(Heb. פַּשְׁחוּר: *liberation*.)* but Terror. *(Heb. מָגֹ֥ור מִסָּבִֽיב: *Terror-on-Every-Side*.)*
 
 > ^20:4^ For thus says the Lord: behold, I will make you a terror to yourself and all your friends; and they will run from the sword of their enemies, and your eyes will see it; and I shall give all Judah into the hand of the king of Babylon, and he shall carry them into Babylon, and strike them with the sword.
 
@@ -74,15 +74,15 @@ Lecture 2
 
 ***Jeremiah’s complaint to the Lord***
 
-^20:7^ O Lord, you have deceived me, and I was deceived,Heb. פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת: this could also be read, *you have persuaded me, and I was persuaded*, or *you have seduced me, and I was seduced*. you were stronger than I, and you prevailed; I have become a laughingstock all the day; everyone mocks me.  
+^20:7^ O Lord, you have deceived me, and I was deceived, *(Heb. פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת: this could also be read, *you have persuaded me, and I was persuaded*, or *you have seduced me, and I was seduced*.)* you were stronger than I, and you prevailed; I have become a laughingstock all the day; everyone mocks me.  
 
 > ^20:8^ For I am speaking now this long time, crying out against iniquity, and I often proclaim destruction; and the word of the Lord has become a reproach to me, and a derision all the day.
 
 > ^20:9^ And I said: I shall not remember him, neither shall I speak any more in his name; and there came something like a fire burning in my heart, shut up in my bones; and I failed, unable to bear it.
 
-> ^20:10^ For I heard the reproaches of many, and terror round about: ‘Persecute him, and let us persecute him,’ from all men who were at peace with me, and guarded my side:Heb. כֹּל אֱנוֹשׁ שְׁלֹמִי שֹׁמְרֵי צַלְעִי: lit. *every man of my peace, those who guard my side*. ‘If some way he may be deceived, and we may prevail against him, and avenge ourselves on him.’
+> ^20:10^ For I heard the reproaches of many, and terror round about: ‘Persecute him, and let us persecute him,’ from all men who were at peace with me, and guarded my side: *(Heb. כֹּל אֱנוֹשׁ שְׁלֹמִי שֹׁמְרֵי צַלְעִי: lit. *every man of my peace, those who guard my side*.)* ‘If some way he may be deceived, and we may prevail against him, and avenge ourselves on him.’
 
-> ^20:11^ But the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understoodHeb. לֹ֣א הִשְׂכִּ֔ילוּ: a hiphil, 3rd person, plural meaning: *they did not have success*. Jerome, however, reads this as, *they have not understood*, and construes, כְּלִמַּת, *reproach*, as the direct object of הִשְׂכִּ֔ילוּ. In the Masoretic text, these two words are separated by a *zaqef qaton*, a major disjunctive accent, to prevent just such a reading. the eternal reproach, which shall never be blotted out.
+> ^20:11^ But the Lord is with me, as a mighty man of war; therefore, those who persecute me shall fall and be weak; they shall be greatly ashamed, for they have not understood *(Heb. לֹ֣א הִשְׂכִּ֔ילוּ: a hiphil, 3rd person, plural meaning: *they did not have success*. Jerome, however, reads this as, *they have not understood*, and construes, כְּלִמַּת, *reproach*, as the direct object of הִשְׂכִּ֔ילוּ. In the Masoretic text, these two words are separated by a *zaqef qaton*, a major disjunctive accent, to prevent just such a reading.)* the eternal reproach, which shall never be blotted out.
 
 > ^20:12^ And you, O Lord of hosts, are a tester of the just man; you who see the reins and heart, let me see, I pray, my vengeance upon them, for to you have I revealed my cause.
 
@@ -134,7 +134,7 @@ Lecture 3
 
 > ^20:15^ Cursed is the man who announced it to my father, saying: a man-child is born to you, and made him rejoice greatly.
 
-> ^20:16^ Let that man be as the cities which the Lord has overthrown and has not repented; let him hear a cry in the morning and wailingHeb. תְרוּעָה: a trumpet call consisting of a number of staccato blasts followed by a long high note used to sound an alarm. at noonday,
+> ^20:16^ Let that man be as the cities which the Lord has overthrown and has not repented; let him hear a cry in the morning and wailing *(Heb. תְרוּעָה: a trumpet call consisting of a number of staccato blasts followed by a long high note used to sound an alarm.)* at noonday,
 
 > ^20:17^ who did not kill me from the womb, so that the grave might become my mother and her womb an everlasting conception.
 
@@ -150,7 +150,7 @@ Furthermore, a day is a transitory thing, and it is foolish to apply the punishm
 
 Furthermore, no one should curse the innocent; but that man, insofar as he did not kill Jeremiah, was innocent; therefore, he sinned in cursing him.  
 
-To the first objection it is to be said that tribulations considered in themselves are an evil insofar as they are contrary to the nature of the good, as Augustine says;Augustine, *De natura boni* 20 (CSEL 41; PL 40:581). and thus to abhor them with a natural hatred is not a sin. If, however, because of them, an argument were to be drawn inductively from one’s own rectitude, this would be a sin. Considered, however, insofar as they move one toward the good, the saints glory in them as a sick man might in the amputation by which he is healed.  
+To the first objection it is to be said that tribulations considered in themselves are an evil insofar as they are contrary to the nature of the good, as Augustine says; *(Augustine, *De natura boni* 20 (CSEL 41; PL 40:581).)* and thus to abhor them with a natural hatred is not a sin. If, however, because of them, an argument were to be drawn inductively from one’s own rectitude, this would be a sin. Considered, however, insofar as they move one toward the good, the saints glory in them as a sick man might in the amputation by which he is healed.  
 
 To the second and third objections, it is to be said that he does not curse the day considered as to its nature, because this would be foolish and a sin, but insofar as it is evil, in that something bad happened in it; just as, to the contrary, a festival day is celebrated because of something good which happened on that day; and this is what that curse signifies. Gregory, however, considering the nature of the day itself, says that it cannot be understood literally.  
 

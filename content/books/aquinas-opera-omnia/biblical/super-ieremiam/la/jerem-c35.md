@@ -26,7 +26,7 @@ Primo ponit prophetiae titulum, in quo ponit prophetae carcerem: ***cum adhuc cl
 
 Secundo respectu praecedentis visionis secundo factae, promittentis auctoritatem: ***haec dicit Dominus, facturus***, sicut artifex praeparando materiam, ***formaturus***, ducendo ad complementum formae, ***paraturus***, ordinando ad finem: ***Dominus nomen ejus***: quia ipse singulariter Dominus omnium est. Psal. 82: *quoniam nomen tibi Dominus tu solus altissimus super omnem terram*.  
 
-Promissionis firmitatem, et magnitudinem: ***clama ad me***, pro populo orans, ***et exaudiam te***, non ut mala non inferam; sed ut post mala illata liberem. Et sic non est contrarium ei quod supra 7, dictum est: ***tu ergo noli orare pro populo hoc, et non assumas pro eis laudem, et orationem, et non obsistas mihi, quia non exaudiam te**. **Quia nescit***,The Sixto-Clementine Vulgate reads: *quae nescis*, “for you know not,” rather than *quae nescit*, “for he knows not.” idest non posset humana conjecturatione suspicari. Isa. 48: *audita tibi feci nova ex tunc, et conservata sunt quae nescis*.  
+Promissionis firmitatem, et magnitudinem: ***clama ad me***, pro populo orans, ***et exaudiam te***, non ut mala non inferam; sed ut post mala illata liberem. Et sic non est contrarium ei quod supra 7, dictum est: ***tu ergo noli orare pro populo hoc, et non assumas pro eis laudem, et orationem, et non obsistas mihi, quia non exaudiam te**. **Quia nescit***, *(The Sixto-Clementine Vulgate reads: *quae nescis*, “for you know not,” rather than *quae nescit*, “for he knows not.”)* idest non posset humana conjecturatione suspicari. Isa. 48: *audita tibi feci nova ex tunc, et conservata sunt quae nescis*.  
 
 Secundo ponit prophetiae verbum:  
 

@@ -1,6 +1,6 @@
 # Chapter 48
 
-^48:1^ Hear these things, O house of Jacob, you that are called by the name of Israel, and are come forth out of the waters of Judah, you who swear by the name of the Lord, and rememberDR: “make mention of the.” God of Israel, but not in truth, nor in justice.  
+^48:1^ Hear these things, O house of Jacob, you that are called by the name of Israel, and are come forth out of the waters of Judah, you who swear by the name of the Lord, and remember *(DR: “make mention of the.”)* God of Israel, but not in truth, nor in justice.  
 
 > ^48:2^ For they are called of the holy city, and are established upon the God of Israel: the Lord of hosts is his name.
 
@@ -10,7 +10,7 @@
 
 > ^48:5^ I foretold you of old, before they came to pass I told you, lest you should say: my idols have done these things, and my graven and molten things have commanded them.
 
-> ^48:6^ See now all the things which you have heard: but have you declared them? I have made you to hear new things*Audita feci tibi nova*. DR: “I have shown thee new things.” from that time, and things are kept which you know not.
+> ^48:6^ See now all the things which you have heard: but have you declared them? I have made you to hear new things *(*Audita feci tibi nova*. DR: “I have shown thee new things.”)* from that time, and things are kept which you know not.
 
 > ^48:7^ They are created now, and not of old: and before the day, when you heard them not, lest you should say: behold I knew them.
 
@@ -28,7 +28,7 @@
 
 > ^48:14^ Assemble yourselves together, all you, and hear: who among them has declared these things? The Lord has loved him, he will do his pleasure in Babylon, and his arm shall be on the Chaldeans.
 
-> ^48:15^ I, even I have spoken and called him: I have brought him, and his way is made right.*Directa*. DR: “prosperous.”
+> ^48:15^ I, even I have spoken and called him: I have brought him, and his way is made right. *(*Directa*. DR: “prosperous.”)*
 
 > ^48:16^ Come near unto me, and hear this: I have not spoken in secret from the beginning: from the time before it was done, I was there, and now the Lord God has sent me, and his spirit.
 
@@ -76,7 +76,7 @@ First, he assigns the reason for the foretelling of certain future things, setti
 
 **888**. Third, he excludes a certain objection: ***for my name’s sake***. For someone may ask: when they are so stubborn, why do you promise and do good things for them?  
 
-And he first sets out the response to this objection, recalling three benefits shown to them: ***for my name’s sake***, not because of your merits, ***I will remove my wrath far off***, or I have removed it, freeing you from punishment: *it is not for your sake that I will do this, O house of Israel, but for my holy name’s sake* (Ezek 36:22); ***and for my praise I will bridle you***, that is, I have bound you to my ceremonies and praises, lest you perish offering sacrifices to idols: *with bit and bridle bind fast their jaws* (Ps 31[32]:9). ***I have refined you***, wishing to cleanse you through trials, ***but not as silver***, which is cleansed, but you were not corrected: *the founder has melted in vain* (Jer 6:29); ***I have chosen you***, namely, cleansing you through poverty, punishing you by the plundering of your goods, Gregory: *those whom the sickness of habits wounds, the medicine of poverty heals*,Cf. *Homilies on the Gospels* 40.10 (PL 76, 1307D). and this by paternal correction.  
+And he first sets out the response to this objection, recalling three benefits shown to them: ***for my name’s sake***, not because of your merits, ***I will remove my wrath far off***, or I have removed it, freeing you from punishment: *it is not for your sake that I will do this, O house of Israel, but for my holy name’s sake* (Ezek 36:22); ***and for my praise I will bridle you***, that is, I have bound you to my ceremonies and praises, lest you perish offering sacrifices to idols: *with bit and bridle bind fast their jaws* (Ps 31[32]:9). ***I have refined you***, wishing to cleanse you through trials, ***but not as silver***, which is cleansed, but you were not corrected: *the founder has melted in vain* (Jer 6:29); ***I have chosen you***, namely, cleansing you through poverty, punishing you by the plundering of your goods, Gregory: *those whom the sickness of habits wounds, the medicine of poverty heals*, *(Cf. *Homilies on the Gospels* 40.10 (PL 76, 1307D).)* and this by paternal correction.  
 
 Second, he sets out the explanation of the response: ***for my own sake, that I may not be blasphemed***, as though I were powerless to save the people I have chosen for myself; ***and I will not give my glory to another***, lest, namely, idols be thought to be more powerful than I am, above: ***I will not give my glory to another, nor my praise to graven things*** (Isa 42:8).  
 
@@ -88,7 +88,7 @@ And first, he shows the hiding of this fact from others: ***who among them***, n
 
 Second, he foretells his prosperity: ***the Lord has loved him***, namely, Cyrus, advancing him into kingship; ***he will do his pleasure in Babylon***, capturing it; ***and his arm shall be on the Chaldeans***, that is, killing them by my power: *and truly doing you shall do, and prevailing you shall prevail* (1 Sam 26:25).  
 
-Third, he assigns the reason for his prosperity from divine help: ***I, even I***; ***his way is made right***, not absolutely, but so that he might destroy Babylon; otherwise, it cannot be explained of Cyrus, but only of Christ, as Jerome*In Isaiam* (461C; 530). says, for Cyrus was an idolater: *and he led them into the right way* (Ps 106[107]:7).  
+Third, he assigns the reason for his prosperity from divine help: ***I, even I***; ***his way is made right***, not absolutely, but so that he might destroy Babylon; otherwise, it cannot be explained of Cyrus, but only of Christ, as Jerome *(*In Isaiam* (461C; 530).)* says, for Cyrus was an idolater: *and he led them into the right way* (Ps 106[107]:7).  
 
 **891**. ***Come near unto me***. Here he promises liberation. And concerning this, he does three things.  
 
@@ -100,13 +100,13 @@ First, he stirs up attention, setting out divine authority: ***I have not spoken
 
 First, he proclaims to them their going forth from captivity, so certain of their liberation as if it were present: ***come forth***: *go out from her* (Rev 18:4); and he enjoins that they should declare the benefit of God: ***declare***: *the voice of them that flee, and of them that have escaped out of the land of Babylon: to declare in Zion the revenge of the Lord our God* (Jer 50:28).  
 
-Second, he designates to the liberated the past benefit of consolation: ***they thirsted not***, that is, the Lord will so provide for them in all things, as when they came forth from Egypt: *he struck the rock, and the waters gushed out* (Ps 77[78]:20), Numbers 21:16.Cf. Numbers 20:13.  
+Second, he designates to the liberated the past benefit of consolation: ***they thirsted not***, that is, the Lord will so provide for them in all things, as when they came forth from Egypt: *he struck the rock, and the waters gushed out* (Ps 77[78]:20), Numbers 21:16. *(Cf. Numbers 20:13.)*  
 
 Third, he removes the comfort of peace from the wicked: ***there is no peace***, below (Isa 57:21); *what have you to do with peace?* (2 Kgs 9:18).  
 
 **894**. Poverty confers (see 48:10),  
 
-recognition of sins, *if they are bound*,Cf. Job 36:13. etc.;  
+recognition of sins, *if they are bound*, *(Cf. Job 36:13.)* etc.;  
 
 conservation of virtues: *the poor man is glorified by his discipline and fear* (Sir 10:33);  
 

@@ -2,21 +2,21 @@
 
 ***On the effect of penance***
 
-After the Master has determined the time of penance, which is concomitant with penance itself, here he examines certain things that pertain to its effect, which is the remission of sins. And it is divided into two parts: in the first, he inquires whether the remission of sins is irrevocable, or whether forgiven sins may return one day; in the second, since in any sacrament the effect is the sacrament’s reality, he inquires what is the sacrament-and-reality in penance, at: *after the aforesaid, it remains to investigate*.*Sententiae* IV, 22.2 (126). 1.  
+After the Master has determined the time of penance, which is concomitant with penance itself, here he examines certain things that pertain to its effect, which is the remission of sins. And it is divided into two parts: in the first, he inquires whether the remission of sins is irrevocable, or whether forgiven sins may return one day; in the second, since in any sacrament the effect is the sacrament’s reality, he inquires what is the sacrament-and-reality in penance, at: *after the aforesaid, it remains to investigate*. *(*Sententiae* IV, 22.2 (126). 1.)*  
 
-Concerning the first he does three things: first, he raises the question; second, he sets down different opinions about the resolution of this question, at: *the solution to this question is obscure and complex*.*Sent*. IV, 22.1 (125). 1. Third, he pursues the opinions in detail, at: *those who say that remitted sins return fortify themselves with the authorities that follow*.*Sent*. IV, 22.2 (125). 2.  
+Concerning the first he does three things: first, he raises the question; second, he sets down different opinions about the resolution of this question, at: *the solution to this question is obscure and complex*. *(*Sent*. IV, 22.1 (125). 1.)* Third, he pursues the opinions in detail, at: *those who say that remitted sins return fortify themselves with the authorities that follow*. *(*Sent*. IV, 22.2 (125). 2.)*  
 
-And concerning this he does two things: first, he details the first opinion; second, the second opinion, at: *but because it seems incongruous that remitted sins should again be imputed, it pleases some to hold that no one is again punished by God for sins which have been remitted*.*Sent*. IV, 22.1 (125). 10.  
+And concerning this he does two things: first, he details the first opinion; second, the second opinion, at: *but because it seems incongruous that remitted sins should again be imputed, it pleases some to hold that no one is again punished by God for sins which have been remitted*. *(*Sent*. IV, 22.1 (125). 10.)*  
 
-Concerning the first he does three things: first, he cites authorities who confirm the first opinion; second, he objects to the contrary, at: *to them, it is objected*, etc.*Sent*. IV, 22.1 (125). 8. Third, their solution is set forth, at: *but to this it may be said*, etc.*Sent*. IV, 22.1 (125). 9.  
+Concerning the first he does three things: first, he cites authorities who confirm the first opinion; second, he objects to the contrary, at: *to them, it is objected*, etc. *(*Sent*. IV, 22.1 (125). 8.)* Third, their solution is set forth, at: *but to this it may be said*, etc. *(*Sent*. IV, 22.1 (125). 9.)*  
 
-*After the aforesaid it remains to investigate*, etc. Here he inquires what is the sacrament and what is the reality in penance; and concerning this he does two things: first, he raises the question; second, he resolves it, at: *some say that the sacrament here is that which is done outwardly alone*.*Sent*. IV, 22.2 (126). 2.  
+*After the aforesaid it remains to investigate*, etc. Here he inquires what is the sacrament and what is the reality in penance; and concerning this he does two things: first, he raises the question; second, he resolves it, at: *some say that the sacrament here is that which is done outwardly alone*. *(*Sent*. IV, 22.2 (126). 2.)*  
 
-And this is divided into two parts according to the two opinions that he cites. The second part begins at: *but some say that inward and outward penance are the sacrament*.*Sent*. IV, 22.2 (126). 5.  
+And this is divided into two parts according to the two opinions that he cites. The second part begins at: *but some say that inward and outward penance are the sacrament*. *(*Sent*. IV, 22.2 (126). 5.)*  
 
-Concerning this he does two things: first, he explains the opinion; second, he gives the objections to the contrary, at: *if that is so, then not every evangelical sacrament brings about that which it signifies*.*Sent*. IV, 22.2 (126). 3.  
+Concerning this he does two things: first, he explains the opinion; second, he gives the objections to the contrary, at: *if that is so, then not every evangelical sacrament brings about that which it signifies*. *(*Sent*. IV, 22.2 (126). 3.)*  
 
-And it is divided into two parts according to the two objections he has cited; the second begins at: *also, if outward penance is the sacrament and the inward one is the thing of the sacrament, the thing precedes the sacrament more often than the sacrament does the thing*.*Sent*. IV, 22.2 (126). 4. And both are divided into objection and solution, as is clear in itself.  
+And it is divided into two parts according to the two objections he has cited; the second begins at: *also, if outward penance is the sacrament and the inward one is the thing of the sacrament, the thing precedes the sacrament more often than the sacrament does the thing*. *(*Sent*. IV, 22.2 (126). 4.)* And both are divided into objection and solution, as is clear in itself.  
 
 Here there is a twofold question. First, about the return of sins. Second, about what is the sacrament or reality in penance.  
 
@@ -35,7 +35,7 @@ first, whether forgiven sins return;
 
 ***Whether forgiven sins return***
 
-Obj. 1: To the first we proceed thus.Parallels: *ST* III, q. 88, a. 1; *Super Matt.* 18, in fine. It seems that forgiven sins return in someone who relapses. For Pope Leo says: *what divine mercy soldered together, an itch casts back at it; for iniquity repeated drains away the mercy granted*.This quotation does not appear to be in the works of Pope Leo the Great; St. Thomas never quotes it elsewhere. Therefore, it seems that by falling back into sin, forgiven sins return.  
+Obj. 1: To the first we proceed thus. *(Parallels: *ST* III, q. 88, a. 1; *Super Matt.* 18, in fine.)* It seems that forgiven sins return in someone who relapses. For Pope Leo says: *what divine mercy soldered together, an itch casts back at it; for iniquity repeated drains away the mercy granted*. *(This quotation does not appear to be in the works of Pope Leo the Great; St. Thomas never quotes it elsewhere.)* Therefore, it seems that by falling back into sin, forgiven sins return.  
 
 Obj. 2: Furthermore, when a covering is removed, what was covered appears. But *charity covers a multitude of sins* (1 Pet 4:8). Therefore, when charity is removed by subsequent sin, the sins that were forgiven return.  
 
@@ -43,11 +43,11 @@ Obj. 3: Furthermore, Scripture says, *if the righteous man turns away from his r
 
 Obj. 4: Furthermore, someone who offends God sins more than someone who offends man. But if a person is freed by a certain master, he is brought back into slavery if he commits a new offense against him. All the more, therefore, if someone freed by divine grace from his servitude to sin should offend God by falling back into sin, is he recalled into his original slavery; and thus the sins remitted return.  
 
-Obj. 5: Furthermore, after true contrition for past sins, if someone should fall back into sin, and die suddenly, it is clear that he would go to hell. Therefore, he will be punished there for the sins that had been forgiven him, since his punishment was not entirely remitted. But he will be punished forever there, for *there is no redemption in hell*.From the seventh responsory of the traditional Office of the Dead. Therefore, he incurs the same debt of punishment that he had, and so it seems that in this person the forgiven sins return; and someone who has confessed and not done full satisfaction is in the same situation.  
+Obj. 5: Furthermore, after true contrition for past sins, if someone should fall back into sin, and die suddenly, it is clear that he would go to hell. Therefore, he will be punished there for the sins that had been forgiven him, since his punishment was not entirely remitted. But he will be punished forever there, for *there is no redemption in hell*. *(From the seventh responsory of the traditional Office of the Dead.)* Therefore, he incurs the same debt of punishment that he had, and so it seems that in this person the forgiven sins return; and someone who has confessed and not done full satisfaction is in the same situation.  
 
 Obj. 6: Furthermore, just as sins are forgiven by penance, so previous merits are put to death by actual sin. But by penance, which destroys sin, previous merits revive. Therefore, by the sin that destroys penance, in which sin is forgiven, forgiven sins revive.  
 
-On the contrary (1), Augustine in the book of his *Responses to Prosper* says, *if anyone withdraws from Christ and finishes this life estranged from grace, what does he do but enter into perdition? But he does not return to what had been forgiven, nor will he be damned by original sin*.Printed in the works of Prosper of Aquitaine: *Pro Augustino responsiones ad capitula objectionum Gallorum calumniantium*, response 2 (PL 51:158). Therefore, forgiven sins do not return.  
+On the contrary (1), Augustine in the book of his *Responses to Prosper* says, *if anyone withdraws from Christ and finishes this life estranged from grace, what does he do but enter into perdition? But he does not return to what had been forgiven, nor will he be damned by original sin*. *(Printed in the works of Prosper of Aquitaine: *Pro Augustino responsiones ad capitula objectionum Gallorum calumniantium*, response 2 (PL 51:158).)* Therefore, forgiven sins do not return.  
 
 Furthermore (2), one person does not because worse than another by the same, equal sin. But it happens that an innocent person and a penitent person may sin by the same and equal mortal sin. Therefore, the penitent does not become worse by this sin than the innocent person. However, he would if sins that had been forgiven returned. Therefore, they do not return.  
 
@@ -83,7 +83,7 @@ Article 2
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the second we proceed thus.Parallels: *ST* II-II, q. 107, a. 2, ad 1; *ST* III, q. 88, a. 4. It seems that ingratitude is not a specific sin. For what is found in every sin is not a specific sin. But we incur ingratitude by any sin, for we offend God, who is most generous to us, by any sin, as far as in us lies. Therefore, ingratitude is not a specific sin.  
+Obj. 1: To the second we proceed thus. *(Parallels: *ST* II-II, q. 107, a. 2, ad 1; *ST* III, q. 88, a. 4.)* It seems that ingratitude is not a specific sin. For what is found in every sin is not a specific sin. But we incur ingratitude by any sin, for we offend God, who is most generous to us, by any sin, as far as in us lies. Therefore, ingratitude is not a specific sin.  
 
 Obj. 2: Furthermore, every specific sin is opposed to a certain specific virtue. But no specific virtue can be assigned as opposed to ingratitude, since it is against all virtues, for all are conferred on us by God’s grace. Therefore, ingratitude is not a specific sin.  
 
@@ -99,7 +99,7 @@ On the contrary, it is right judgment that he should love more to whom more has 
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that as much guilt arises from the ingratitude of a person who relapses into sin as there was in his former sins.Parallel: *ST* III, q. 88, a. 3. For the ingratitude of the one who scorns something is as much as the original benefit was. But the benefit of the remission of sin is as great as the sin committed. Therefore, the ingratitude is as great, and so it seems that guilt arises equal to the forgiven sins according to the ingratitude of the subsequent sin.  
+Obj. 1: Moreover, it seems that as much guilt arises from the ingratitude of a person who relapses into sin as there was in his former sins. *(Parallel: *ST* III, q. 88, a. 3.)* For the ingratitude of the one who scorns something is as much as the original benefit was. But the benefit of the remission of sin is as great as the sin committed. Therefore, the ingratitude is as great, and so it seems that guilt arises equal to the forgiven sins according to the ingratitude of the subsequent sin.  
 
 Obj. 2: Furthermore, things can only be commensurate according to the quantity that they have. But the guilt of those who fall back into sin out of ingratitude is measured according to the quantity of the sins forgiven them. For the more and the greater the sins that are forgiven someone, the more ungrateful he becomes by scorning it. Therefore, the whole guilt of former sins returns through the ingratitude of someone who relapses.  
 
@@ -131,7 +131,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the third question we proceed thus.Parallels: *ST* III, q. 88, a. 2; *Super Matt.* 18, in fine. It seems that venial sins do not return through ingratitude. For just as venial sin returns through ingratitude, so also it makes others return through ingratitude. But venial sin does not make others return through ingratitude, otherwise forgiven sins would return all day long. Therefore, neither does venial sin itself return by ingratitude.  
+Obj. 1: To the third question we proceed thus. *(Parallels: *ST* III, q. 88, a. 2; *Super Matt.* 18, in fine.)* It seems that venial sins do not return through ingratitude. For just as venial sin returns through ingratitude, so also it makes others return through ingratitude. But venial sin does not make others return through ingratitude, otherwise forgiven sins would return all day long. Therefore, neither does venial sin itself return by ingratitude.  
 
 Obj. 2: Furthermore, a certain sin returns through ingratitude by the fact that it makes ingratitude greater. But forgiven venial sin does not make ingratitude greater, for it does not diminish charity. Therefore, neither does it return by ingratitude.  
 
@@ -177,19 +177,19 @@ And by this the answers to the objections are clear.
 
 Article 4  
 
-Whether someone relapsing is bound to confess sins that he had previously confessedMoos notes that many manuscripts lack this article, while others add it on the last page. The text has an unusually high number of variant readings, which Moos gives in his footnotes.  
+Whether someone relapsing is bound to confess sins that he had previously confessed *(Moos notes that many manuscripts lack this article, while others add it on the last page. The text has an unusually high number of variant readings, which Moos gives in his footnotes.)*  
 
 Obj. 1: To the fourth question we proceed thus. It seems that someone who falls back into sin is bound to confess prior sins he has already confessed. For ingratitude seems to be the worst sin, since by it other sins return in a certain way. But a person does not confess ingratitude, unless he confesses other sins whose forgiveness he was ungrateful for. Therefore, someone who relapses must confess his previous sins.  
 
 Obj. 2: Furthermore, by confession the amount of fault must be made known to the priest. But the quantity of sins previously forgiven remains in a certain way in the sin that someone relapses into, as was said before. Therefore, someone who confesses this sin must also confess the others.  
 
-Obj. 3: Furthermore, according to Gregory, one sin disposes to another, and in this way, one will be the cause of the other.Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 25, par. 9. But a remedy cannot be sufficiently applied to a disease unless the cause of the disease is known. Therefore, since confession is made so that the remedy may be applied to the disease exposed, it seems that someone relapsing is bound to confess his past sins, which were the cause of his relapse.  
+Obj. 3: Furthermore, according to Gregory, one sin disposes to another, and in this way, one will be the cause of the other. *(Gregory the Great, *Moralia in Iob* (CCSL 143B), Bk. 25, par. 9.)* But a remedy cannot be sufficiently applied to a disease unless the cause of the disease is known. Therefore, since confession is made so that the remedy may be applied to the disease exposed, it seems that someone relapsing is bound to confess his past sins, which were the cause of his relapse.  
 
 Obj. 4: Furthermore, it sometimes happens that a person relapses after confessing, but before completing the penance. But it is evident that after he has done penance for the relapse, he is bound to make satisfaction for those previous sins. Therefore, it seems that at least in this case one is bound to confess prior sins.  
 
 On the contrary (1), it is said in Nahum 1:9: *God will not judge twice in the same matter*. Therefore, if someone has been judged in the forum of conscience about a certain sin, it is not necessary that he be exposed to judgment again.  
 
-Furthermore (2), in the decrees on penance, distinction 1, it says: *it is not necessary that what we have confessed once to priests we confess again; but we must confess them before the true judge in the language of the heart, not of the flesh*.Gratian, *Decretals*, pt. 2, d. 1, ch. 87 (PL 187:1555), citing Pseudo-Chrysostom, *Opus imperf. in Matth*., hom. 40. Therefore, the same as before.  
+Furthermore (2), in the decrees on penance, distinction 1, it says: *it is not necessary that what we have confessed once to priests we confess again; but we must confess them before the true judge in the language of the heart, not of the flesh*. *(Gratian, *Decretals*, pt. 2, d. 1, ch. 87 (PL 187:1555), citing Pseudo-Chrysostom, *Opus imperf. in Matth*., hom. 40.)* Therefore, the same as before.  
 
 I answer that, concerning the opinion which holds that forgiven sins return either in guilt or in liability to punishment, it is necessary to say that someone relapsing is bound to confess previous sins again, since he has become subject to them as much after his relapse as before. But according to the other opinion which says that forgiven sins do not return except in ingratitude, there are two opinions.  
 
@@ -225,7 +225,7 @@ first, what is the reality here, and what is the sacrament;
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the first question we proceed thus.Parallels: *ST* III, q. 65, a. 1; q. 84, a. 1. It seems that outward penance is not a sacramental sign. For a sacramental sign, according to Hugh, is a material element.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317). But outward penance is not an element, but an act. Therefore, it is not a sacramental sign.  
+Obj. 1: To the first question we proceed thus. *(Parallels: *ST* III, q. 65, a. 1; q. 84, a. 1.)* It seems that outward penance is not a sacramental sign. For a sacramental sign, according to Hugh, is a material element. *(Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 9, ch. 2 (PL 176:317).)* But outward penance is not an element, but an act. Therefore, it is not a sacramental sign.  
 
 Obj. 2: Furthermore, sacramental signs of the new law are in a certain way a cause of grace. Therefore, if outward penance is a sacramental sign, it will therefore be a cause of grace, and thus grace will be from our acts, which is the Pelagian heresy.  
 
@@ -235,9 +235,9 @@ On the contrary, in every sacrament there must be some sign. But a sign is somet
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that inward penance is not the reality of this sacrament.Parallels: *ST* III, q. 84, a. 1, ad 3. For the reality of a sacrament is never the cause of the sacramental sign, but just the reverse sometimes. But interior penance is the cause of outward penance. Therefore, it is not its reality.  
+Obj. 1: Moreover, it seems that inward penance is not the reality of this sacrament. *(Parallels: *ST* III, q. 84, a. 1, ad 3.)* For the reality of a sacrament is never the cause of the sacramental sign, but just the reverse sometimes. But interior penance is the cause of outward penance. Therefore, it is not its reality.  
 
-Obj. 2: Furthermore, outward penance naturally signifies interior penance. But the reality behind the sacrament is signified through the sacrament by its institution, as is clear from Hugh’s definition in the place cited.Ibid. Therefore, the interior penance is not the reality behind the outward penance.  
+Obj. 2: Furthermore, outward penance naturally signifies interior penance. But the reality behind the sacrament is signified through the sacrament by its institution, as is clear from Hugh’s definition in the place cited. *(Ibid.)* Therefore, the interior penance is not the reality behind the outward penance.  
 
 Obj. 3: Furthermore, interior penance seems to be the same as contrition. But contrition is not the reality of this sacrament, since it is a part of the sacrament. Therefore, interior penance is not the reality of this sacrament.  
 
@@ -247,7 +247,7 @@ Furthermore (2), what immediately causes the sacrament’s effect is the reality
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that the remission of sins is not the reality behind this sacrament.Parallel: *ST* III, a. 84, a. 1, ad 3. For the efficacy of the sacrament and the ministry of its minister extend to the same thing. But the ministry of the priest does not extend to the remission of guilt, as the Master said above in Distinction 18.See d. 18, q. 1, a. 3, qa. 4, resp. Therefore, the remission of guilt is not the reality of this sacrament.  
+Obj. 1: Moreover, it seems that the remission of sins is not the reality behind this sacrament. *(Parallel: *ST* III, a. 84, a. 1, ad 3.)* For the efficacy of the sacrament and the ministry of its minister extend to the same thing. But the ministry of the priest does not extend to the remission of guilt, as the Master said above in Distinction 18. *(See d. 18, q. 1, a. 3, qa. 4, resp.)* Therefore, the remission of guilt is not the reality of this sacrament.  
 
 Obj. 2: Furthermore, in any sacrament the outward signs have a certain likeness with the reality behind the sacrament. But confession and satisfaction and contrition do not seem to have any likeness with the remission of sins. Therefore, this is not the reality in this sacrament.  
 
@@ -285,7 +285,7 @@ Response to Quaestiuncula 3
 
 To the third question, it should be said that the final reality of any sacrament is not only what it effects as actually performed, but also what it brings about by existing in intention, as is clear regarding baptism in adults. And therefore since penance as a sacrament existing in one’s intention effects the remission of sins not only as to the punishment but also as to the guilt, the remission of sins is the reality of the sacrament of penance itself in both ways, which sometimes precedes the outward sacrament in time, but sometimes is brought about about in the sacrament itself, for when someone approaches confession with attrition, not full contrition, if he places no obstacle, then in the very confession and absolution grace and the remission of sins is given to him. This is why commenting on Psalm 96:6: *confession and beauty are before him*, the Gloss says, *if you love beauty, confess, so that you may be beautiful*, that is, upright.  
 
-Reply Obj. 1: The power of the keys also extends in a certain way to the remission of guilt, according as it is in the intention, as was said above in Distinction 17, Question 3, Article 5, Subquestion 1.Moos gives as the reference dist. 18, q. 1, a. 3, qa. 4, in the response, at “Et ideo per baptismum.”  
+Reply Obj. 1: The power of the keys also extends in a certain way to the remission of guilt, according as it is in the intention, as was said above in Distinction 17, Question 3, Article 5, Subquestion 1. *(Moos gives as the reference dist. 18, q. 1, a. 3, qa. 4, in the response, at “Et ideo per baptismum.”)*  
 
 Reply Obj. 2: The remission of sins has a certain likeness with those things that are done in penance, for the infusion of grace which causes the remission of sin is represented by the absolution of the priest, and the preparation for grace as to the motion of free will against sin is represented by contrition. But as to the movement of free will toward God, it is represented by confession, in which one entrusts oneself to God for healing. But the treatment of the traces left behind by sin is both signified and effected by satisfaction.  
 
@@ -301,7 +301,7 @@ Obj. 1: To the second question we proceed thus. It seems that penance is not one
 
 Obj. 2: Furthermore, the acts of different agents are different acts. But for confession, the act of a penitent who has contrition and confesses and makes satisfaction must go together with the act of the priest who gives absolution. Therefore, since penance consists in an act, it seems that it is not one act, but many.  
 
-Obj. 3: Furthermore, the genus is not predicated of its many species in the singular, but in the plural. But above, in Distinction 16,See d. 16, q. 1, a. 2. three species of penance are assigned, namely, penance before baptism, penance after baptism for venial sins, and penance for mortal sins. Therefore, the species of penance mentioned are several, and not one sacrament.  
+Obj. 3: Furthermore, the genus is not predicated of its many species in the singular, but in the plural. But above, in Distinction 16, *(See d. 16, q. 1, a. 2.)* three species of penance are assigned, namely, penance before baptism, penance after baptism for venial sins, and penance for mortal sins. Therefore, the species of penance mentioned are several, and not one sacrament.  
 
 On the contrary (1), there are only seven sacraments. But if penance were several sacraments, there would be more than seven sacraments. Therefore, it is only one sacrament.  
 
@@ -309,7 +309,7 @@ Furthermore (2), the unity of the cause is inferred from the unity of effect. Bu
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it seems that this sacrament consists more in those things that are performed by the priest than in those things that are performed by the penitent. For sacrament is named from ‘making sacred,’ as was said above.At the start of dist. 1. But to consecrate belongs to a priest, who is called a priest (*sacerdos*) by the fact that he gives sacred things. Therefore, this sacrament consists more in the absolution of the priest than in the act of the penitent.  
+Obj. 1: Moreover, it seems that this sacrament consists more in those things that are performed by the priest than in those things that are performed by the penitent. For sacrament is named from ‘making sacred,’ as was said above. *(At the start of dist. 1.)* But to consecrate belongs to a priest, who is called a priest (*sacerdos*) by the fact that he gives sacred things. Therefore, this sacrament consists more in the absolution of the priest than in the act of the penitent.  
 
 Obj. 2: Furthermore, whoever approaches a sacrament is said to receive the sacrament. But the penitent is not said to receive confession, but absolution. Therefore, the sacrament consists more in absolution than in confession.  
 
@@ -317,7 +317,7 @@ On the contrary (3), the whole is the sum of the parts. But the parts of penance
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that the words of the absolving priest should be in the manner of a prayer.Parallels: *ST* III, q. 84, a. 3; *de Forma absol*. For Pope Leo says that *God’s indulgence cannot be obtained by anything but the prayers of a priest*;Leo the Great, *Epistle* 108, ad Theodorum Foroliviensem Episcopum (PL 54:1011). and he is speaking of the absolution given by priests. Therefore, the absolution should be made in the manner of a prayer.  
+Obj. 1: Moreover, it seems that the words of the absolving priest should be in the manner of a prayer. *(Parallels: *ST* III, q. 84, a. 3; *de Forma absol*.)* For Pope Leo says that *God’s indulgence cannot be obtained by anything but the prayers of a priest*; *(Leo the Great, *Epistle* 108, ad Theodorum Foroliviensem Episcopum (PL 54:1011).)* and he is speaking of the absolution given by priests. Therefore, the absolution should be made in the manner of a prayer.  
 
 Obj. 2: Furthermore, God alone remits sins. But penance is ordered to the remission of sins. Therefore, the absolution, from which penance has its efficacy, must be made in the manner of a prayer to God.  
 
@@ -355,7 +355,7 @@ Article 3
 
 ***Quaestiuncula 1***
 
-Obj. 1: To the third question we proceed thus.Parallel: *ST* III, q. 84, a. 7. It seems that the sacrament of penance does not have an institution. For what belongs to natural law does not need institution. But it is from the dictates of natural law that a man repents his wrongdoing. Therefore, it should not have an institution.  
+Obj. 1: To the third question we proceed thus. *(Parallel: *ST* III, q. 84, a. 7.)* It seems that the sacrament of penance does not have an institution. For what belongs to natural law does not need institution. But it is from the dictates of natural law that a man repents his wrongdoing. Therefore, it should not have an institution.  
 
 Obj. 2: Furthermore, the same penance is both a sacrament and a virtue. But the virtue of penance does not have institution, as neither do the other virtues. Therefore, neither does the sacrament of penance.  
 
@@ -375,7 +375,7 @@ Furthermore (2), the sacrament of penance has its efficacy from the keys of the 
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it seems that it was not instituted under the new law after Christ’s coming. For the new law is the law of remission and grace. But penance is the sacrament of punishment, for it is a certain veangance, as Augustine says.Pseudo-Augustine, *On true and false repentance*, ch. 8, n. 22 (PL 40:1120). Therefore, it did not have to be instituted in the new law.  
+Obj. 1: Moreover, it seems that it was not instituted under the new law after Christ’s coming. For the new law is the law of remission and grace. But penance is the sacrament of punishment, for it is a certain veangance, as Augustine says. *(Pseudo-Augustine, *On true and false repentance*, ch. 8, n. 22 (PL 40:1120).)* Therefore, it did not have to be instituted in the new law.  
 
 Obj. 2: Furthermore, since the institution of the sacraments pertains to the power of excellence, it belongs only to Christ. But Christ is not read to have instituted this sacrament, for it cannot be said that he instituted it where he says, *do penance* (Matt 3:2), for by the same argument John would have instituted it, for he preached this earlier. And also, the keys of the Church, which furnish efficacy to this sacrament, did not yet exist; nor again can it be said that it was instituted when he sent the lepers to the priests, for the administering of this sacrament does not pertain to priests of the law, to whom the lepers had been sent. Therefore, this sacrament was not instituted in the new law.  
 
@@ -393,7 +393,7 @@ Reply Obj. 2: Penance is a virtue as it is from the dictates of natural law. And
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that when something that belongs to the essence of a thing is changed, it is not the same thing in number. Therefore, since the determinate mode that is observed in the Church by penitents is of the essence of this sacrament, this sacrament did not exist before this mode of doing penance existed. And since this mode did not exist before the coming of Christ, therefore neither should the sacrament of penance be said to have existed beforehand; although something like it did exist before the coming of Christ, and some mode of doing penance. But in the law of Moses there was a determinate mode, but it was different than this mode. But in the time of the natural law there was no determinate mode, but everyone determined his own mode of doing penance, according to what came into his heart. For all sacraments of that time were celebrated by desire, according to Hugh.Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 11, ch. 3 (PL 176:343). And thus penance is a sacrament of both the old and the new law, and of natural law; and as it is a sacrament of the new law it was not instituted before the coming of Christ; inasmuch as it was a sacrament of the law of nature, it was not instituted in a determinate way, but man was incited to determine some mode of doing penance, which incitement indeed could not have existed before fault, after which the need for medicine is recognized. And so penance, even when it is not a sacrament of the new law, nevertheless was instituted before the coming of Christ in some way, but in no way before sin.  
+To the second question, it should be said that when something that belongs to the essence of a thing is changed, it is not the same thing in number. Therefore, since the determinate mode that is observed in the Church by penitents is of the essence of this sacrament, this sacrament did not exist before this mode of doing penance existed. And since this mode did not exist before the coming of Christ, therefore neither should the sacrament of penance be said to have existed beforehand; although something like it did exist before the coming of Christ, and some mode of doing penance. But in the law of Moses there was a determinate mode, but it was different than this mode. But in the time of the natural law there was no determinate mode, but everyone determined his own mode of doing penance, according to what came into his heart. For all sacraments of that time were celebrated by desire, according to Hugh. *(Hugh of St. Victor, *de Sacramentis fidei*, Bk. 1, pt. 11, ch. 3 (PL 176:343).)* And thus penance is a sacrament of both the old and the new law, and of natural law; and as it is a sacrament of the new law it was not instituted before the coming of Christ; inasmuch as it was a sacrament of the law of nature, it was not instituted in a determinate way, but man was incited to determine some mode of doing penance, which incitement indeed could not have existed before fault, after which the need for medicine is recognized. And so penance, even when it is not a sacrament of the new law, nevertheless was instituted before the coming of Christ in some way, but in no way before sin.  
 
 Reply Obj. 1: The sacrament of penance too was prepared before sin in God’s foreknowledge, but not in institution, just as also the punishment of hell was not ordered to man’s punishment before sin, but in God’s foreknowledge. But for the punishment of the demon, who had already sinned, it was also actually ordered.  
 
@@ -409,14 +409,14 @@ Reply Obj. 1: The punishment that is assumed in penance is like nothing in compa
 
 Reply Obj. 2: The Lord first instituted the sacrament of penance in Matt 3:2, as has been said, when he said: *do penance*. For repenting and doing penance is not the same: for to do penance means outwardly demonstrating the inner repentance. Nor did John institute it, although he likewise preached it: for John preached it as the king’s herald, while Christ preached it as our king and lawgiver, whose word had power, as it says in Matthew 7:26. But when he sent lepers to priests, he did not institute it, but prefigured the sacrament of penance.  
 
-Reply Obj. 3: Christ did not make use of any sacrament unless by taking it unto himself so as to give an example to others.Thomas clearly has in mind here the consuming of the Eucharist at the Last Supper, where Jesus gave an example of what the disciples were to do with the consecrated food and drink. The baptism of Jesus in the Jordan, while not the same as the Christian sacrament, would be another illustration of the same idea. This is why he also did not baptize, but his disciples did, as it says in John 4:2; and so since the use of penance did not apply to him for himself, who did not commit sin; therefore, neither did he use it for others. But as the Lord of the sacraments he supplied the effect of the sacrament without sacraments.  
+Reply Obj. 3: Christ did not make use of any sacrament unless by taking it unto himself so as to give an example to others. *(Thomas clearly has in mind here the consuming of the Eucharist at the Last Supper, where Jesus gave an example of what the disciples were to do with the consecrated food and drink. The baptism of Jesus in the Jordan, while not the same as the Christian sacrament, would be another illustration of the same idea.)* This is why he also did not baptize, but his disciples did, as it says in John 4:2; and so since the use of penance did not apply to him for himself, who did not commit sin; therefore, neither did he use it for others. But as the Lord of the sacraments he supplied the effect of the sacrament without sacraments.  
 
 Exposition of the Text  
 
-*He shall undoubtedly revoke the sentence*, etc:*Sententiae* IV, 22. 1 (125). 2 citing Ambrose, *On the letter to the Ephesians*, dist. 17. c. 4, n2.; cf. Gratian, *Decretum*, c 9, q 2, c 1. This is to be understood as referring to the last effect of mercy, which is eternal life.  
+*He shall undoubtedly revoke the sentence*, etc: *(*Sententiae* IV, 22. 1 (125). 2 citing Ambrose, *On the letter to the Ephesians*, dist. 17. c. 4, n2.; cf. Gratian, *Decretum*, c 9, q 2, c 1.)* This is to be understood as referring to the last effect of mercy, which is eternal life.  
 
-*But also the original sins which had been remitted to him in baptism*:*Sent*. IV, 22.1 (125). 3 citing text attributed to Rabanus but actually taken from Gratian, *Decretum*, de poenitentia, D4 c1. it is said in the plural because he inclines to different actual sins, as was said in Book II, Distinction 33.See Bk. 2, d. 33, q. 1, a. 3, ad 1.  
+*But also the original sins which had been remitted to him in baptism*: *(*Sent*. IV, 22.1 (125). 3 citing text attributed to Rabanus but actually taken from Gratian, *Decretum*, de poenitentia, D4 c1.)* it is said in the plural because he inclines to different actual sins, as was said in Book II, Distinction 33. *(See Bk. 2, d. 33, q. 1, a. 3, ad 1.)*  
 
-*But one who had not persevered did not make worthy and sufficient satisfaction*:*Sent*. IV, 22.1 (125). 9. This is true if it is understood about its sufficiency for obtaining glory. Otherwise, it is false; and it proceeds here according to the error that was disproved in Distinction 14, Question 1, Article 4, Subquestion 1, namely, that no one would fall, if it were true.  
+*But one who had not persevered did not make worthy and sufficient satisfaction*: *(*Sent*. IV, 22.1 (125). 9.)* This is true if it is understood about its sufficiency for obtaining glory. Otherwise, it is false; and it proceeds here according to the error that was disproved in Distinction 14, Question 1, Article 4, Subquestion 1, namely, that no one would fall, if it were true.  
 
-*Becomes as guilty as he was before*:*Sent*. IV, 22.1 (125). 10. The *as* does not mean equality, but likeness.
+*Becomes as guilty as he was before*: *(*Sent*. IV, 22.1 (125). 10.)* The *as* does not mean equality, but likeness.

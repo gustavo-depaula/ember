@@ -52,7 +52,7 @@ Quaestiuncula 3
 
 Ulterius. Videtur quod haeretici et schismatici et excommunicati consecrare non possint. Quia, sicut dicit canon 24, qu. 1, cap. *audivimus, quicumque fuerit ab unitate ecclesiae alienus, exercere potest, consecrare non valet*. Augustinus etiam dicit, quod extra ecclesiam non est locus veri sacrificii. Sed omnes praedicti sunt extra ecclesiam. Ergo non possunt consecrare.  
 
-Praeterea, hoc sacramentum pollui non potest. Sed secundum Hieronymum, haeretici panem pollutum comedunt. Ergo verum sacrificium*sacrificium.—sacramentum* PLE. non habent; ergo non consecrant.  
+Praeterea, hoc sacramentum pollui non potest. Sed secundum Hieronymum, haeretici panem pollutum comedunt. Ergo verum sacrificium *(*sacrificium.—sacramentum* PLE.)* non habent; ergo non consecrant.  
 
 Praeterea, hoc sacramentum est unionis ecclesiae; unde et *communio* dicitur. Sed omnes praedicti hac unione carent. Ergo consecrare non possunt.  
 
@@ -122,7 +122,7 @@ Ad tertium dicendum, quod non est essentiale ordini sacerdotali, quod judicio sa
 
 Quaestiuncula 5  
 
-Ad quintam quaestionem dicendum, quod de Missa possumus loqui dupliciter: aut quantum ad id quod est essentiale in ea, scilicet corpus Christi; et sic a quocumque dicatur, aequaliter*aequaliter bonum.—aequaliter bona est quia opus operatum aequaliter bonum* PLE. bonum est et virtuosum: vel quantum ad id quod est annexum sacramento, et quasi secundarium; et sic Missa boni sacerdotis melior est, quia non solum habet efficaciam ex opere operato, sed ex opere operante: et ideo ceteris paribus melius est audire Missam boni sacerdotis quam mali.  
+Ad quintam quaestionem dicendum, quod de Missa possumus loqui dupliciter: aut quantum ad id quod est essentiale in ea, scilicet corpus Christi; et sic a quocumque dicatur, aequaliter *(*aequaliter bonum.—aequaliter bona est quia opus operatum aequaliter bonum* PLE.)* bonum est et virtuosum: vel quantum ad id quod est annexum sacramento, et quasi secundarium; et sic Missa boni sacerdotis melior est, quia non solum habet efficaciam ex opere operato, sed ex opere operante: et ideo ceteris paribus melius est audire Missam boni sacerdotis quam mali.  
 
 Et per hoc patet solutio ad utramque partem.  
 
@@ -250,7 +250,7 @@ Ad primum ergo dicendum, quod leges divinae quae pertinent ad essentialem instit
 
 Ad secundum dicendum, quod significatio rei sacramentalis est de essentia sacramenti; et hoc sufficienter habetur per materiam; et ideo significatio quae superadditur in aliquo ritu, est de solemnitate, non de essentia sacramenti.  
 
-Ad tertium dicendum, quod sacramenta originem habent ex institutione divina; et ideo omissio alicujus quod sit ab ecclesia institutum, non potest impedire quin verum sacramentum fiat. Impediret autem, si sacramenta ex institutione ecclesiae efficaciam haberent, sicut actiones saeculares ex statutis*statutis ratificantur.—statutis principum ratificantur* PLE. ratificantur.  
+Ad tertium dicendum, quod sacramenta originem habent ex institutione divina; et ideo omissio alicujus quod sit ab ecclesia institutum, non potest impedire quin verum sacramentum fiat. Impediret autem, si sacramenta ex institutione ecclesiae efficaciam haberent, sicut actiones saeculares ex statutis *(*statutis ratificantur.—statutis principum ratificantur* PLE.)* ratificantur.  
 
 Articulus 3  
 
@@ -390,13 +390,13 @@ Sed contra, in epistola Clementis dicitur, quod primum locum in poenis habent qu
 
 Praeterea, Ambrosius dicit: *gravissime peccas, si ignoras*. Sed haeretici ignorantiam Dei habent. Ergo gravissime peccant.  
 
-Praeterea, Dionysius dicit, quod *ille qui habet participationem quamdam sacratissimarum consummationum, non est aequalis universaliter indocto, et non participanti aliquam divinarum teletarum*, idest consecrationum.*consecrationum.—sacramentorum* PLE. Sed tales sunt haeretici. Ergo alii peccatores non sunt eis aequandi in malo.  
+Praeterea, Dionysius dicit, quod *ille qui habet participationem quamdam sacratissimarum consummationum, non est aequalis universaliter indocto, et non participanti aliquam divinarum teletarum*, idest consecrationum. *(*consecrationum.—sacramentorum* PLE.)* Sed tales sunt haeretici. Ergo alii peccatores non sunt eis aequandi in malo.  
 
 Respondeo dicendum, quod unumquodque dicitur malum quia nocet. Unde cum haeresis plus noceat quam aliquod aliud peccatum, quia subvertit fundamentum omnium bonorum, sine quo nihil boni remanet; ideo haeresis est ex genere suo maximum peccatorum, quamvis ex accidenti aliquod peccatum possit esse gravius; sicut si multum cresceret contemptus Dei in aliquo quod etiam ex genere suo esset veniale. Sed *de eo quod est secundum accidens, non est curandum in arte*, ut Philosophus dicit in 5 *Ethic*.  
 
 Ad primum ergo dicendum, quod sicut secundum Philosophum in 7 *Ethic*., bestialitas ponitur extra numerum aliarum humanarum malitiarum, quia humanum modum transcendit; ita a sanctis ponitur haeresis extra numerum peccatorum, quae in fidelibus inveniuntur, quasi gravius eis; et ideo non computatur inter vitia capitalia, nec inter eorum filias: quia vitia capitalia, secundum Isidorum in Glossa Deuteronom. 7, signantur per septem populos, qui in terra promissionis non remanserunt. Tamen si ad aliquod de septem capitalibus reduci debeat, poterit ad superbiam reduci, ut per definitionem Augustini in littera positam patet.  
 
-Ad secundum dicendum, quod verbum Philosophi intelligendum est in his quae non sunt ordinata ad invicem, in quibus destructo uno alterum non destruitur. Sed in ordinatis ad invicem destructio prioris semper est pejor, sive illud sit melius, sive non; quia eo remoto consequentia removentur; sicut aegritudo est pejor quam sanitas.*quam sanitas.—quam cacexia quamvis euexia sit melior quam sanitas* PLE.  
+Ad secundum dicendum, quod verbum Philosophi intelligendum est in his quae non sunt ordinata ad invicem, in quibus destructo uno alterum non destruitur. Sed in ordinatis ad invicem destructio prioris semper est pejor, sive illud sit melius, sive non; quia eo remoto consequentia removentur; sicut aegritudo est pejor quam sanitas. *(*quam sanitas.—quam cacexia quamvis euexia sit melior quam sanitas* PLE.)*  
 
 Ad tertium dicendum, quod sicut fides habet aliquid in affectu, ita et haeresis; et quamvis ex illa parte qua habet ignorantiam in intellectu, aliquo modo excusare possit; tamen secundum quod habet duritiam in affectu ad non obediendum primae veritati, nihil prohibet eam esse maximum peccatorum.  
 
@@ -424,7 +424,7 @@ Praeterea, lupi sunt ab ovibus arcendi pastorum officio, ut patet Joan. 2. Sed h
 
 Praeterea, vita spiritualis est melior quam corporalis. Sed homicidae extirpantur, quia auferunt hominibus vitam corporalem. Ergo multo amplius haeretici, qui auferunt hominibus vitam spiritualem.  
 
-Respondeo dicendum, quod haeresis est infectivum vitium; unde 2 Timoth. 2, 16, dicitur, quod *multum proficiunt ad impietatem, et sermo eorum ut cancer serpit*; et ideo ecclesia eos a consortio fidelium excludit, et praecipue illos qui alios corrumpunt; ut simplices, qui de facili corrumpi possunt, ab eis sint segregati non solum mente, sed etiam corporaliter; unde per ecclesiam incarcerantur et expelluntur. Si autem alios non corrumperent, possent etiam celari.*celari.—tolerari* PLE. Sed illi qui sunt firmi in fide, possunt cum eis corpore conversari, ut eos convertant; non tamen in divinis, quia excommunicati sunt. Sed judicio saeculari possunt licite occidi, et a bonis suis spoliari, etsi alios non corrumpant; quia sunt blasphemi in Deum, et fidem falsam observant; unde magis possunt puniri juste isti quam illi qui sunt rei criminis laesae majestatis, et illi qui falsam monetam cudunt.  
+Respondeo dicendum, quod haeresis est infectivum vitium; unde 2 Timoth. 2, 16, dicitur, quod *multum proficiunt ad impietatem, et sermo eorum ut cancer serpit*; et ideo ecclesia eos a consortio fidelium excludit, et praecipue illos qui alios corrumpunt; ut simplices, qui de facili corrumpi possunt, ab eis sint segregati non solum mente, sed etiam corporaliter; unde per ecclesiam incarcerantur et expelluntur. Si autem alios non corrumperent, possent etiam celari. *(*celari.—tolerari* PLE.)* Sed illi qui sunt firmi in fide, possunt cum eis corpore conversari, ut eos convertant; non tamen in divinis, quia excommunicati sunt. Sed judicio saeculari possunt licite occidi, et a bonis suis spoliari, etsi alios non corrumpant; quia sunt blasphemi in Deum, et fidem falsam observant; unde magis possunt puniri juste isti quam illi qui sunt rei criminis laesae majestatis, et illi qui falsam monetam cudunt.  
 
 Ad primum ergo dicendum, quod Philosophus loquitur de opinionibus speculativis tantum. Sed consensus in unitate fidei est principium communionis in caritate; et ideo dissensus in fide excludit amicitiam familiaritatis.  
 

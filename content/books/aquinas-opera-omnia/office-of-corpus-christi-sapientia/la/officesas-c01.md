@@ -94,7 +94,7 @@ rex effudit gentium.
   salus, honor, virtus quoque  
   sit et benedictio:  
   procedentis ab utroque  
-  compar sit laudatio. Amen.Music for the “amen” is not found in the manuscript.
+  compar sit laudatio. Amen. *(Music for the “amen” is not found in the manuscript.)*
 - Versiculus
 
 ***℣. Aser pinguis panis eis, alleluia.***

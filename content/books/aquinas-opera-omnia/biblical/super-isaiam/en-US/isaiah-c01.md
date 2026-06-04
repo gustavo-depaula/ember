@@ -28,9 +28,9 @@ third, through the beauty of his words.
 
 And in these three ways this prophet surpasses the other prophets.  
 
-For he sets out beautiful and courtly similitudes, which indeed are necessary for us, because of the connaturality of sense to reason: for it is natural for our reason to receive from sensible objects; hence, it more clearly grasps things whose likenesses it sees by the senses. Hence Dionysius in his second Letter to Titus shows this, namely, that sensible figures are necessary in the Scriptures: *all those who hear plain things, weave in themselves a certain figure, which conducts them to an understanding of theology*,Pseudo-Dionysius the Areopagite, Letter 9.1 (PG 3, 1107B). and: *I have used similitudes by the hands of the prophets* (Hos 12:10).  
+For he sets out beautiful and courtly similitudes, which indeed are necessary for us, because of the connaturality of sense to reason: for it is natural for our reason to receive from sensible objects; hence, it more clearly grasps things whose likenesses it sees by the senses. Hence Dionysius in his second Letter to Titus shows this, namely, that sensible figures are necessary in the Scriptures: *all those who hear plain things, weave in themselves a certain figure, which conducts them to an understanding of theology*, *(Pseudo-Dionysius the Areopagite, Letter 9.1 (PG 3, 1107B).)* and: *I have used similitudes by the hands of the prophets* (Hos 12:10).  
 
-Isaiah also excels in the expression of thought, *so that he seems to compose not a prophecy, but a Gospel*, as is said in the Helmeted Prologue.The “Prologus Galeatus”: St. Jerome’s Preface to Samuel and Kings. However, these words appear in Letter 53.8 (PL 22, 547; CSEL 45, 460); cf. also the Prologue to Isaiah, below. Thus it is said to him below: ***lift up your voice, fear not. Say to the cities of Judah*** (Isa 40:9).  
+Isaiah also excels in the expression of thought, *so that he seems to compose not a prophecy, but a Gospel*, as is said in the Helmeted Prologue. *(The “Prologus Galeatus”: St. Jerome’s Preface to Samuel and Kings. However, these words appear in Letter 53.8 (PL 22, 547; CSEL 45, 460); cf. also the Prologue to Isaiah, below.)* Thus it is said to him below: ***lift up your voice, fear not. Say to the cities of Judah*** (Isa 40:9).  
 
 He also excels in beauty of words as *a man of noble and urbane eloquence*, as Jerome says in the Prologue; *the tongue of the wise adorns knowledge* (Prov 15:2).  
 
@@ -86,6 +86,6 @@ For the first appearance was at the end of the law, for *when the fullness of th
 
 The second appearance, however, was at the end of idolatry, as it says below: ***behold, the Lord will ascend upon a swift cloud, and will enter into Egypt, and the idols of Egypt shall be moved at his presence*** (Isa 19:1).  
 
-The third will be at the end of all misery, for *God shall wipe away [all tears] from the eyes of the saints, and there will no longer be mourning nor suffering, and neither shall there be any sorrow, for the former things have passed away* (Rev 21:4).Cf. *Breviarum S.O.P*., Responsory for the Common of Martyrs, “Absterget Deus.”  
+The third will be at the end of all misery, for *God shall wipe away [all tears] from the eyes of the saints, and there will no longer be mourning nor suffering, and neither shall there be any sorrow, for the former things have passed away* (Rev 21:4). *(Cf. *Breviarum S.O.P*., Responsory for the Common of Martyrs, “Absterget Deus.”)*  
 
 And these are the last things about which it is said of Isaiah: *with a great spirit he saw the last things, and comforted the mourners in Zion unto eternity, and he showed the future and hidden things before they came to pass* (Sir 48:24–25).

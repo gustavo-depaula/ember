@@ -52,7 +52,7 @@ Praeterea, Avicenna dicit in 6 *de Naturalibus*, quod anima non indiget imaginat
 
 Respondeo dicendum, quod ponentibus intellectum a potentiis sensitivis differre, necesse est ponere intellectus substantiam incorruptibilem esse, eo quod necesse est eum immaterialem ponere, nec a materia secundum esse dependentem. Omnem autem hujusmodi substantiam oportet incorruptibilem esse; quia materia, inquantum potest esse subjectum privationis et formae, est corruptionis causa in rebus materialibus. Unde dicit Philosophus in 1 *de Anima*, quod intellectus videtur esse substantia quaedam, et non corrumpi.  
 
-Quidam vero hunc intellectum corruptibilem*corruptibilem.—incorruptibilem* PLE. dixerunt non esse partem animae humanae, sed esse aliquam substantiam omnino a corpore separatam: animam vero humanam non dici intellectivam nisi secundum quamdam participationem intellectualitatis ex refulgentia intellectus separati super ipsam; unde destructo corpore anima humana nec remanebat, nec aliquid intelligere poterat. Sed hoc videtur esse contra intentionem Philosophi; dicit enim in 2 *de Anima*, de intellectu loquens, quod intellectus videtur esse alterum genus animae: et hoc solum contingit separari sicut perpetuum a corruptibili. 12 etiam *Metaph*., dicit, quod anima est talis dispositionis, ut scilicet possit separari non tota, sed intellectus. Ex quo patet quod intellectum, qui est pars animae, ponit a corpore separari; et ideo oportet animam intellectivam, quae est anima humana, post corpus remanere, sicut fides ponit: et per consequens necesse est quod intelligat, cum intelligere sit ejus propria operatio. Sed quomodo intelligat, diversimode a quibusdam ponitur.  
+Quidam vero hunc intellectum corruptibilem *(*corruptibilem.—incorruptibilem* PLE.)* dixerunt non esse partem animae humanae, sed esse aliquam substantiam omnino a corpore separatam: animam vero humanam non dici intellectivam nisi secundum quamdam participationem intellectualitatis ex refulgentia intellectus separati super ipsam; unde destructo corpore anima humana nec remanebat, nec aliquid intelligere poterat. Sed hoc videtur esse contra intentionem Philosophi; dicit enim in 2 *de Anima*, de intellectu loquens, quod intellectus videtur esse alterum genus animae: et hoc solum contingit separari sicut perpetuum a corruptibili. 12 etiam *Metaph*., dicit, quod anima est talis dispositionis, ut scilicet possit separari non tota, sed intellectus. Ex quo patet quod intellectum, qui est pars animae, ponit a corpore separari; et ideo oportet animam intellectivam, quae est anima humana, post corpus remanere, sicut fides ponit: et per consequens necesse est quod intelligat, cum intelligere sit ejus propria operatio. Sed quomodo intelligat, diversimode a quibusdam ponitur.  
 
 Quidam enim dicunt, quod anima separata, a rebus cognitionem accipit, sicut et nunc facit. Sed haec opinio videtur omnino irrationabilis: anima enim humana a corpore separata non poterit uti sensitivis potentiis, ut supra, dist. 44, qu. 3, art. 3, qu. 2, dictum est, cum harum potentiarum actus per organa corporea necesse sit exerceri; unde non erit nisi in usu potentiarum intellectivae partis. Intellectus autem non est natus accipere cognitionem a rebus sensibilibus immediate, sed mediantibus potentiis sensitivis; cum oporteat esse quamdam convenientiam inter recipiens et receptum. Species autem in sensibus existentes habent convenientiam et cum intellectu, inquantum sunt sine materia, et cum rebus materialibus, inquantum sunt cum conditionibus materiae; unde convenienter sensus a rebus materialibus accipit, et intellectus a sensibus: non autem intellectus immediate a rebus materialibus; et ideo non potest poni quod anima separata cognitionem a rebus materialibus accipiat. Nec sufficit ponere in ea cognitionem solum quae fuit a sensibus accepta in corpore, propter animas puerorum decedentium in maternis uteris, quae a sensibus cognitionem non acceperunt.  
 
@@ -72,7 +72,7 @@ Ad quintum dicendum, quod anima habet esse perfectius in corpore quam separata, 
 
 Ad sextum dicendum, quod animae puerorum quamvis non habeant formas innatas vel acquisitas, habebunt tamen aliquas formas intelligibiles ex influentia divini luminis, cooperante ministerio angelorum.  
 
-Ad septimum dicendum, quod anima ex hoc quod in corpore scientis perfecta fuit, etiam separata magis intelliget, ut infra dicetur: non tamen sequitur quod, si non fuerit in scientia perfecta,*perfecta.—perfecta quod separata* PLE. nullo modo intelligat.  
+Ad septimum dicendum, quod anima ex hoc quod in corpore scientis perfecta fuit, etiam separata magis intelliget, ut infra dicetur: non tamen sequitur quod, si non fuerit in scientia perfecta, *(*perfecta.—perfecta quod separata* PLE.)* nullo modo intelligat.  
 
 Articulus 2  
 
@@ -164,7 +164,7 @@ Ad quartum sic proceditur. Videtur quod localis distantia impediat cognitionem a
 
 Praeterea, naturalis cognitio animae separatae non est potior quam naturalis cognitio daemonis. Sed daemones naturali cognitione non cognoscunt absentia; unde Augustinus in libro de Divinatione daemonum, dicit, quod *ea quae etiam alibi fiunt, celeritate motus sui cito ad nos deferunt, ut quasi ea praedicere videantur quae nos postea nuntiantibus hominibus sumus scituri*. Ad hoc autem nihil faceret celeritas motus, si hic nobiscum existentes absentia cognoscere possent. Ergo anima separata non cognoscit absentia; et sic ejus cognitio per localem distantiam impeditur.  
 
-Praeterea, omnis cognoscens rem sub hic et nunc, aliter cognoscit sub hic et nunc*cognoscit sub hic et nunc.—cognoscit* PLE. quae sunt hic et quae sunt alibi. Sed anima separata cognoscit sub hic et nunc, quia cognoscit singularia, ut dictum est. Ergo aliter cognoscit propinqua et remota; et sic idem est quod prius.  
+Praeterea, omnis cognoscens rem sub hic et nunc, aliter cognoscit sub hic et nunc *(*cognoscit sub hic et nunc.—cognoscit* PLE.)* quae sunt hic et quae sunt alibi. Sed anima separata cognoscit sub hic et nunc, quia cognoscit singularia, ut dictum est. Ergo aliter cognoscit propinqua et remota; et sic idem est quod prius.  
 
 Praeterea, sicut est aliquid distans secundum tempus, ita est distans aliquid secundum locum. Sed anima separata non potest cognoscere distantia secundum tempus, ut puta futura: hoc enim solius Dei est, ut patet per id quod habetur Isa. 41, 23: *annuntiate nobis quae ventura sunt, et dicemus quia dii estis*. Ergo nec distantia secundum locum potest cognoscere.  
 
@@ -379,9 +379,9 @@ Ad tertium dicendum, quod tempus est causa oblivionis per accidens, inquantum mo
 
 Quaestiuncula 2  
 
-Ad secundam quaestionem dicendum, quod Deus potest considerari dupliciter. Uno modo secundum se, et secundum illud quod est ei proprium, scilicet esse totius bonitatis principium; et sic nullo modo*modo.—modo cogitari potest sine delectatione unde sic nullo modo* PLE. a damnatis cogitabitur. Alio modo secundum aliquid quod est ei quasi accidentale in effectibus suis, utpote punire, vel aliquid hujusmodi; et secundum hoc consideratio de eo potest tristitiam inducere; et hoc modo damnati de eo cogitabunt.  
+Ad secundam quaestionem dicendum, quod Deus potest considerari dupliciter. Uno modo secundum se, et secundum illud quod est ei proprium, scilicet esse totius bonitatis principium; et sic nullo modo *(*modo.—modo cogitari potest sine delectatione unde sic nullo modo* PLE.)* a damnatis cogitabitur. Alio modo secundum aliquid quod est ei quasi accidentale in effectibus suis, utpote punire, vel aliquid hujusmodi; et secundum hoc consideratio de eo potest tristitiam inducere; et hoc modo damnati de eo cogitabunt.  
 
-Ad primum ergo dicendum, quod damnati, ut dictum est, non habent odio Deum nisi ratione punitionis et prohibitionis ejus; quod malae*malae.—male* PLE. voluntati eorum consonat; unde non considerabunt eum nisi ut punitorem et prohibitorem.  
+Ad primum ergo dicendum, quod damnati, ut dictum est, non habent odio Deum nisi ratione punitionis et prohibitionis ejus; quod malae *(*malae.—male* PLE.)* voluntati eorum consonat; unde non considerabunt eum nisi ut punitorem et prohibitorem.  
 
 Et per hoc patet solutio ad secundum: quia conscientia non remordet de peccato nisi inquantum est divino praecepto contraria.  
 
@@ -415,7 +415,7 @@ Ulterius. Videtur quod vermis quo affliguntur damnati, sit corporalis. Quia caro
 
 Praeterea, Augustinus dicit 21 *de Civ. Dei*: *utrumque*, idest ignis et vermis, *poena erunt carnis*; et sic idem quod prius.  
 
-Sed contra est quod Augustinus dicit, 20 de civitate Dei: *in poenis malorum inextinguibilis ignis et vivacissimus vermis ab aliis aliter atque aliter est expositus. Alii utrumque ad corpus, alii utrumque ad animam retulerunt; alii proprie ad corpus ignem, topice**topice.—tropice* PLE. *ad animam vermem; quod esse credibilius videtur*.  
+Sed contra est quod Augustinus dicit, 20 de civitate Dei: *in poenis malorum inextinguibilis ignis et vivacissimus vermis ab aliis aliter atque aliter est expositus. Alii utrumque ad corpus, alii utrumque ad animam retulerunt; alii proprie ad corpus ignem, topice* *(*topice.—tropice* PLE.)* *ad animam vermem; quod esse credibilius videtur*.  
 
 Quaestiuncula 3  
 
@@ -473,7 +473,7 @@ Articulus 4
 
 ***Quaestiuncula 1***
 
-Ad quartum sic proceditur. Videtur quod beati qui erunt in patria, non videant poenas damnatorum. Major enim est distantia damnatorum a beatis quam viatorum. Sed beati semper viatorum*Sed beati semper viatorum.—Sed viatorum* PLE. facta non vident; unde Isai. 43, 16: *Abraham nescivit vos*, dicit Glossa: *nesciunt mortui, etiam sancti, quid faciunt vivi, etiam eorum filii*. Ergo multo minus vident poenam damnatorum.  
+Ad quartum sic proceditur. Videtur quod beati qui erunt in patria, non videant poenas damnatorum. Major enim est distantia damnatorum a beatis quam viatorum. Sed beati semper viatorum *(*Sed beati semper viatorum.—Sed viatorum* PLE.)* facta non vident; unde Isai. 43, 16: *Abraham nescivit vos*, dicit Glossa: *nesciunt mortui, etiam sancti, quid faciunt vivi, etiam eorum filii*. Ergo multo minus vident poenam damnatorum.  
 
 Praeterea, perfectio visionis dependet a perfectione visibilis; unde Philosophus dicit in 10 *Ethicor*., quod perfectissima sensus operatio est sensus optime dispositi ad pulcherrimum sub sensu jacentium. Ergo e contrario turpitudo visibilis redundat in imperfectionem visionis. Sed nulla imperfectio erit in beatis. Ergo non videbunt miserias damnatorum, in quibus est summa turpitudo.  
 

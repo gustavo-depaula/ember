@@ -8,7 +8,7 @@
 
 > ^9:3^ You have multiplied the nation, and have not increased the joy. They shall rejoice before you, as they that rejoice in the harvest, as conquerors rejoice after taking a prey, when they divide the spoils.
 
-> ^9:4^ For the yoke of their burden, and the rod of their shoulder, and the scepter of their exactor*Exactoris*. DR: “oppressor.” you have overcome, as in the day of Madian.
+> ^9:4^ For the yoke of their burden, and the rod of their shoulder, and the scepter of their exactor *(*Exactoris*. DR: “oppressor.”)* you have overcome, as in the day of Madian.
 
 > ^9:5 ^For every violent taking of spoils, with tumult, and garment mingled with blood, shall be burnt, and be fuel for the fire.
 
@@ -22,7 +22,7 @@ The first of these is divided into three, according to the three persecutions ma
 
 **298**. For first, Theglathphalasar, in the reign of Phacee in Samaria, captured the two and half tribes which were across the Jordan in respect to Jerusalem, and from the tribes of Zabulon and Nephtali, which were on the near side of the Jordan, only what could equal a half tribe. And as to this he says, ***at the first time***, that is, at the time of the first captivity, ***the land of Zabulon, and the land of Nephtali was lightly touched***, that is, was reduced in its inhabitants, which was perhaps not too grave for those who remained because more possessions remained for them. And this is spoken of in 2 Kings 15:29.  
 
-**299**. Second, Salmanasar came in the ninth year of Osee and captured the rest of the ten tribes, who were on the near side of the Jordan in respect to Judaea. And as to this he says, ***at the last***, that is, at the last general captivity of the ten tribes, ***the way of the sea***, that is, the region through which one goes to the sea of Genesareth; ***of the Galilee***, that is, which is in Galilee, ***of the Gentiles***, which is across the Jordan, in respect to the Assyrians, although on the near side in respect to Judaea; ***was heavily loaded***, that is, pressed by the heavy weight of tribulation. Now Galilee is divided in two: one part in the tribe of Zabulon, the other in the tribe of Nephtali, near Tyre, and it is said to be ***of the Gentiles***, either because of the many gentiles which lived there, or because it was ruled by gentiles, for Solomon had given it to the king of Tyre (2 Kings 17).Cf. 1 Kings 9:11.  
+**299**. Second, Salmanasar came in the ninth year of Osee and captured the rest of the ten tribes, who were on the near side of the Jordan in respect to Judaea. And as to this he says, ***at the last***, that is, at the last general captivity of the ten tribes, ***the way of the sea***, that is, the region through which one goes to the sea of Genesareth; ***of the Galilee***, that is, which is in Galilee, ***of the Gentiles***, which is across the Jordan, in respect to the Assyrians, although on the near side in respect to Judaea; ***was heavily loaded***, that is, pressed by the heavy weight of tribulation. Now Galilee is divided in two: one part in the tribe of Zabulon, the other in the tribe of Nephtali, near Tyre, and it is said to be ***of the Gentiles***, either because of the many gentiles which lived there, or because it was ruled by gentiles, for Solomon had given it to the king of Tyre (2 Kings 17). *(Cf. 1 Kings 9:11.)*  
 
 **300**. Third, Sennacherib came and took the cities of Judah and besieged Jerusalem, as is said in 2 Kings 18:13, 17. And the prophet speaks here of this third persecution saying, ***the people***, and he promises salvation to the Jews. Hence he does two things:  
 
@@ -50,7 +50,7 @@ First, as to the frustration of the enemy, and as to this he says, ***you have m
 
 Second, the plundering of the enemy, which happened when the people went out to collect their spoils after they had been killed by the angel, as is said below (Isa 37:36); hence they are compared to harvesters and victors: ***they shall rejoice***, below: ***they shall obtain joy and gladness, and sorrow and mourning shall flee away from them*** (Isa 35:10).  
 
-Third, the liberation of slaves: for tyrants burden with precepts, and as to this he says, ***for the yoke of their burden***, that which Sennacherib laid on them; they afflict with punishments, and as to this he says, ***and the rod of their shoulder***, that is, with which they beat their shoulders; they plunder goods, and therefore he says, ***the scepter of their exactor***, below: ***how is the exactor*Exactor*. DR: “oppressor.” come to nothing, the tribute has ceased?*** (Isa 14:4); this may happen so easily, ***as in the day of Madian***, that is, as Gideon overthrew the Madianites (Judg 7:19–22).  
+Third, the liberation of slaves: for tyrants burden with precepts, and as to this he says, ***for the yoke of their burden***, that which Sennacherib laid on them; they afflict with punishments, and as to this he says, ***and the rod of their shoulder***, that is, with which they beat their shoulders; they plunder goods, and therefore he says, ***the scepter of their exactor***, below: ***how is the exactor *(*Exactor*. DR: “oppressor.”)* come to nothing, the tribute has ceased?*** (Isa 14:4); this may happen so easily, ***as in the day of Madian***, that is, as Gideon overthrew the Madianites (Judg 7:19–22).  
 
 Fourth, as to the punishment of the enemy: and these things happen, ***for every violent taking of spoils, with tumult***, that is, violent despoilers, as to the damage which they inflict on goods, ***and garment mingled with blood***, of those whom they killed, as to damage inflicted on persons, ***shall be burnt***, for, literally, they were burnt, below: ***and under his glory shall be kindled a burning, as it were the burning of a fire*** (Isa 10:16).  
 
@@ -58,7 +58,7 @@ Lecture 2
 
 ^9:6^ For a child is born to us, and a son is given to us, and the government is upon his shoulder: and his name shall be called wonderful, counsellor, God the mighty, the father of the world to come, the prince of peace.  
 
-> ^9:7^ His empire shall be multiplied, and there shall be no end of peace: he shall sit upon the throne of David, and upon his kingdom; to establish it and strengthen it in*In*. DR: “with.” judgment and with justice, from henceforth and for ever: the zeal of the Lord of hosts will perform this.
+> ^9:7^ His empire shall be multiplied, and there shall be no end of peace: he shall sit upon the throne of David, and upon his kingdom; to establish it and strengthen it in *(*In*. DR: “with.”)* judgment and with justice, from henceforth and for ever: the zeal of the Lord of hosts will perform this.
 
 > **303**. ***For a child is born to us***. Here he describes the Savior.
 
@@ -70,7 +70,7 @@ third, as to his power, where it says, ***his empire shall be multiplied*** (Isa
 
 For we receive him in our nature in his birth: ***for a child is born to us***: *I bring you good tidings of great joy that shall be to all the people: for, this day is born to you a Savior, who is Christ the Lord, in the city of David* (Luke 2:10–11).  
 
-We receive him in our knowledge in the testimony of the Father: *this is my beloved Son, in whom I am well pleased: hear him* (Matt 17:5). Bernard: *lightly the boy is pleased, easily he pardons: we are poor and can give little; nevertheless for that child we can be reconciled to Christ the child if we wish*.*Serm. in Epiph*. 1.4 (PL 183, 144B). ***And a son is given***.  
+We receive him in our knowledge in the testimony of the Father: *this is my beloved Son, in whom I am well pleased: hear him* (Matt 17:5). Bernard: *lightly the boy is pleased, easily he pardons: we are poor and can give little; nevertheless for that child we can be reconciled to Christ the child if we wish*. *(*Serm. in Epiph*. 1.4 (PL 183, 144B).)* ***And a son is given***.  
 
 We receive him also in divine reverence through his passion, *that in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth* (Phil 2:10). ***And the government is upon his shoulder***, that is, the cross, through which he is raised up into government: *and bearing his own cross, he went forth to the place which is called Calvary* (John 19:17).  
 
@@ -78,7 +78,7 @@ We receive him also in divine reverence through his passion, *that in the name o
 
 and first, a name expressing divine wisdom: ***wonderful***: *your knowledge is become wonderful to me* (Ps 138[139]:6); hence all his works were wonderful, and especially in the union of natures in one person; as to human wisdom: ***counsellor***, adding counsels to precepts: *let one of a thousand be your counsellor* (Sir 6:6).  
 
-Expressing divine power: ***God***: below, ***verily you are a hidden God*** (Isa 45:15); human power: ***mighty***, in power:*Virtute*. *he is wise in heart, and mighty in strength* (Job 9:4).  
+Expressing divine power: ***God***: below, ***verily you are a hidden God*** (Isa 45:15); human power: ***mighty***, in power: *(*Virtute*.)* *he is wise in heart, and mighty in strength* (Job 9:4).  
 
 Third, a name expressing abundance of goodness as to his divine nature: ***father of the world to come***, that is, begetting sons into glory: *for it became him for whom are all things and by whom are all things, who had brought many children into glory, to perfect the author of their salvation, by his passion* (Heb 2:10); below: ***and he shall be as a father to the inhabitants of Jerusalem*** (Isa 22:21); as to his human nature, ***prince of peace***, inasmuch as he is mediator: *for he is our peace, who has made both one* (Eph 2:14); *you are a prince of God among us* (Gen 23:6).  
 
@@ -136,7 +136,7 @@ second, a key, as upon a priest: ***and I will lay the key of the house of David
 
 third, the government, as upon a ruler: ***the government is upon his shoulder*** (Isa 9:6);  
 
-fourth, glory, as upon a conqueror: ***and I shall hangSuspendam*. Vg.: *suspendent*. DR: “they shall hang.” ***upon him all the glory of his father’s house*** (Isa 22:24).  
+fourth, glory, as upon a conqueror: ***and I shall hang*** *(*Suspendam*. Vg.: *suspendent*. DR: “they shall hang.”)* ***upon him all the glory of his father’s house*** (Isa 22:24).  
 
 Lecture 3  
 
@@ -148,19 +148,19 @@ Lecture 3
 
 > ^9:11 ^And the Lord shall set up the enemies of Rasin over him, and shall bring on his enemies in a crowd.
 
-> ^9:12^ The Syrians from the east, and the Philistines from the west: and they shall devour Israel with their whole*Toto*. DR: “open.” mouth. For all this his indignation is not turned away, but his hand is stretched out still.
+> ^9:12^ The Syrians from the east, and the Philistines from the west: and they shall devour Israel with their whole *(*Toto*. DR: “open.”)* mouth. For all this his indignation is not turned away, but his hand is stretched out still.
 
 > ^9:13 ^And the people are not returned to him who has struck them, and have not sought after the Lord of hosts.
 
-> ^9:14^ And the Lord shall destroy out of Israel the head and the tail, him that bends down, and him that corrupts,*Depravantem*. Vg.: *refrenentem*. DR: “holdeth back.” in one day.
+> ^9:14^ And the Lord shall destroy out of Israel the head and the tail, him that bends down, and him that corrupts, *(*Depravantem*. Vg.: *refrenentem*. DR: “holdeth back.”)* in one day.
 
 > ^9:15 ^The aged and honorable, he is the head: and the prophet that teaches lies, he is the tail.
 
 > ^9:16 ^And they that call this people blessed, shall cause them to err: and they that are called blessed, shall be thrown down, headlong.
 
-> ^9:17^ Therefore the Lord shall have no joy in their young:*Adolescentuilis*. DR: “young men.” neither shall he have mercy on their orphans,*Pupillorum*. DR: “fatherless.” and widows: for every one is a hypocrite and wicked, and every mouth has spoken folly. For all this his indignation is not turned away, but his hand is stretched out still.
+> ^9:17^ Therefore the Lord shall have no joy in their young: *(*Adolescentuilis*. DR: “young men.”)* neither shall he have mercy on their orphans, *(*Pupillorum*. DR: “fatherless.”)* and widows: for every one is a hypocrite and wicked, and every mouth has spoken folly. For all this his indignation is not turned away, but his hand is stretched out still.
 
-> ^9:18^ For wickedness is kindled as a fire, it shall devour the brier and the thorn: and shall kindle in the thicket of the forest, and it shall be wrapped up in the pride of smoke.*In superbia fumi*. DR: “in smoke ascending on high.”
+> ^9:18^ For wickedness is kindled as a fire, it shall devour the brier and the thorn: and shall kindle in the thicket of the forest, and it shall be wrapped up in the pride of smoke. *(*In superbia fumi*. DR: “in smoke ascending on high.”)*
 
 > ^9:19 ^By the wrath of the Lord of hosts the land is troubled, and the people shall be as fuel for the fire: no man shall spare his brother.
 
@@ -178,7 +178,7 @@ And he denounces the fault in them in two ways.
 
 First, as to the transgression of divine precept; hence he says, ***the Lord sent a word into Jacob***, that is, into Judah, or into the whole people, as the leaders were appointed from Judah: *the scepter shall not be taken away from Judah, nor a ruler from his thigh* (Gen 49:10; cf. Judg 9; 1 Sam 15). ***And it has lighted upon Israel***, that is, it was frustrated in Israel, that is, in the ten tribes, who rejected the house of David (1 Kgs 12:19–20). Or the word of the law universally: *if you play the harlot, O Israel, at least let not Judah offend* (Hos 4:15).  
 
-**312**. Second, as to the excusing of the deed, inasmuch as they said that they had done well, being blinded by pride, for swelling of the mind is an obstacle to the truth,Gregory the Great, *Moralia* 23.17.31 (PL 76, 267C) as cited by St. Thomas, *ST* II-II.162.3, obj. 1. and therefore he says, ***and all the people of Ephraim***, that is, the ten tribes, ***and the inhabitants of Samaria***, as to the princes of the people, ***shall know***, that is, they shall recollect themselves and their fault in the punishment, for punishment opens the eyes which fault closes. ***That say in the pride and haughtiness of their heart***, inasmuch as in their heart they supposed that they were above others, ***and haughtiness***, as to the presumption of the great things they proposed. ***The bricks***, that is, the kings of Judah, who were weak, ***are fallen down***, away from us, ***but we will build*** our kingdom ***with square stones***, that is, strong kings from among ourselves. ***They***, namely, our enemies, as the Syrians, ***have cut down the sycamores***, that is, the unfruitful kings of Judah; ***we will change them***, that is, set up in their place, ***cedars***, that is, lofty men from among ourselves, above: ***and make the son of Tabeel king in the midst thereof*** (Isa 7:6). On their pride, below: ***woe to the crown of pride, to the drunkards of Ephraim*** (Isa 28:1).  
+**312**. Second, as to the excusing of the deed, inasmuch as they said that they had done well, being blinded by pride, for swelling of the mind is an obstacle to the truth, *(Gregory the Great, *Moralia* 23.17.31 (PL 76, 267C) as cited by St. Thomas, *ST* II-II.162.3, obj. 1.)* and therefore he says, ***and all the people of Ephraim***, that is, the ten tribes, ***and the inhabitants of Samaria***, as to the princes of the people, ***shall know***, that is, they shall recollect themselves and their fault in the punishment, for punishment opens the eyes which fault closes. ***That say in the pride and haughtiness of their heart***, inasmuch as in their heart they supposed that they were above others, ***and haughtiness***, as to the presumption of the great things they proposed. ***The bricks***, that is, the kings of Judah, who were weak, ***are fallen down***, away from us, ***but we will build*** our kingdom ***with square stones***, that is, strong kings from among ourselves. ***They***, namely, our enemies, as the Syrians, ***have cut down the sycamores***, that is, the unfruitful kings of Judah; ***we will change them***, that is, set up in their place, ***cedars***, that is, lofty men from among ourselves, above: ***and make the son of Tabeel king in the midst thereof*** (Isa 7:6). On their pride, below: ***woe to the crown of pride, to the drunkards of Ephraim*** (Isa 28:1).  
 
 **313**. ***And the Lord shall set up***. Here he describes the diversity of punishments as to three things which they trusted in.  
 

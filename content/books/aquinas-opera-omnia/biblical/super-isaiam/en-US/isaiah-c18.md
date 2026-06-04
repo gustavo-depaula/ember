@@ -1,6 +1,6 @@
 # Chapter 16
 
-^16:1^ Send forth, O Lord, the lamb, the ruler of the earth, from the rockDR: “Petra.” of the desert, to the mount of the daughter of Zion.  
+^16:1^ Send forth, O Lord, the lamb, the ruler of the earth, from the rock *(DR: “Petra.”)* of the desert, to the mount of the daughter of Zion.  
 
 > ^16:2^ And it shall come to pass, that as a bird fleeing away, and as young ones flying out of the nest, so shall the daughters of Moab be in the passage of Arnon.
 
@@ -16,11 +16,11 @@
 
 > ^16:8^ For the suburbs of Hesebon are desolate, and the lords of the nations have destroyed the vineyard of Sabama: the branches thereof have reached even to Jazer: they have wandered in the wilderness, the branches thereof are left, they are gone over the sea.
 
-> ^16:9^ Over this*Super hoc*. DR: “therefore.” I will lament with the weeping of Jazer the vineyard of Sabama: I will water you with my tears, O Hesebon, and Eleale: for the voice of the treaders has rushed in upon your vintage, and upon your harvest.
+> ^16:9^ Over this *(*Super hoc*. DR: “therefore.”)* I will lament with the weeping of Jazer the vineyard of Sabama: I will water you with my tears, O Hesebon, and Eleale: for the voice of the treaders has rushed in upon your vintage, and upon your harvest.
 
 > ^16:10^ And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away.
 
-> ^16:11^ Over this*Super hoc*. DR: “wherefore.” my bowels shall sound like a harp for Moab, and my inward parts for the brick wall.
+> ^16:11^ Over this *(*Super hoc*. DR: “wherefore.”)* my bowels shall sound like a harp for Moab, and my inward parts for the brick wall.
 
 > ^16:12^ And it shall come to pass, when it is seen that Moab is wearied on his high places, that he shall go in to his sanctuaries to pray, and shall not prevail.
 
@@ -58,7 +58,7 @@ in the third, the punishment of those who hold it in contempt, where it says, **
 
 Concerning the first, he sets out three things.  
 
-First, he exhorts them to deliberation: ***take counsel***, as if to say: deliberate over how you might be saved. The counsel is the question itself which is moved among those taking counsel; the council is the congregation of those taking counsel. ***Gather a council***, as though having a strict counsel: *there is safety where there is much counsel* (Prov 11:14); *do you everything with counsel,*Omnia fac cum consilio*. Vg.: *sine consilio nihil facias*. DR: “do thou nothing without counsel.” and you shall not repent when you have done* (Sir 32:24).  
+First, he exhorts them to deliberation: ***take counsel***, as if to say: deliberate over how you might be saved. The counsel is the question itself which is moved among those taking counsel; the council is the congregation of those taking counsel. ***Gather a council***, as though having a strict counsel: *there is safety where there is much counsel* (Prov 11:14); *do you everything with counsel, *(*Omnia fac cum consilio*. Vg.: *sine consilio nihil facias*. DR: “do thou nothing without counsel.”)* and you shall not repent when you have done* (Sir 32:24).  
 
 **448**. Second, he sets out the contents of the counsel: ***make your shadow as the night***, in which he exhorts them to two things.  
 

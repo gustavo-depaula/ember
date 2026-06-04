@@ -10,7 +10,7 @@ Prima in duas: in prima tangit ea quae sunt intra essentiam sacramenti, scilicet
 
 Et circa hoc tria facit: primo determinat ministrum hujus sacramenti; secundo effectum, ibi: *virtus autem hujus sacramenti est donatio Spiritus Sancti*; tertio ritum, ibi: *hoc sacramentum tantum a jejunis accipi, et jejunis tradi debet*.  
 
-Circa primum duo facit: primo determinat veritatem; secundo removet quamdam objectionem, ibi: *Melchiades*,*Melchiades*.—*Gregorius tamen* PLE. etc. Hic est triplex quaestio. Prima de ipso sacramento confirmationis. Secunda de effectu ejus. Tertia de celebratione ejus.  
+Circa primum duo facit: primo determinat veritatem; secundo removet quamdam objectionem, ibi: *Melchiades*, *(*Melchiades*.—*Gregorius tamen* PLE.)* etc. Hic est triplex quaestio. Prima de ipso sacramento confirmationis. Secunda de effectu ejus. Tertia de celebratione ejus.  
 
 Quaestio 1  
 
@@ -30,7 +30,7 @@ primo, utrum confirmatio sit sacramentum per se;
 
 Ad primum sic proceditur. Videtur quod confirmatio non sit sacramentum. Omne enim sacramentum efficaciam habet ab institutione divina. Sed confirmatio non legitur a Domino instituta. Ergo non est sacramentum.  
 
-Praeterea, illud cujus est usus in omnibus vel pluribus sacramentis, non videtur esse sacramentum per se. Sed, sicut dicit Dionysius, usus sacri unguenti, scilicet chrismatis, est in aliis sacramentis pluribus, sicut patet in baptismo, in quo infunditur chrisma in aqua baptismi, et baptizatus in vertice chrismate inungitur, et similiter pontifices chrismatis inunctione consecrantur, et altare etiam in quo Eucharistia consecranda est, chrismate linitur, et calix similiter. Ergo confirmatio, quae dicitur chrismatio, non est aliquod sacramentale.*aliquod sacramentale.—aliquod speciale sacramentum sed magis sacramentale* PLE.  
+Praeterea, illud cujus est usus in omnibus vel pluribus sacramentis, non videtur esse sacramentum per se. Sed, sicut dicit Dionysius, usus sacri unguenti, scilicet chrismatis, est in aliis sacramentis pluribus, sicut patet in baptismo, in quo infunditur chrisma in aqua baptismi, et baptizatus in vertice chrismate inungitur, et similiter pontifices chrismatis inunctione consecrantur, et altare etiam in quo Eucharistia consecranda est, chrismate linitur, et calix similiter. Ergo confirmatio, quae dicitur chrismatio, non est aliquod sacramentale. *(*aliquod sacramentale.—aliquod speciale sacramentum sed magis sacramentale* PLE.)*  
 
 Praeterea, sacramenta novae legis in veteri praefigurata fuerunt. Sed nulla figura confirmationis in lege veteri legitur praecessisse. Ergo confirmatio non est sacramentum.  
 
@@ -52,7 +52,7 @@ Praeterea gratia et virtus sufficiunt ad salutem. Sed in baptismo confertur grat
 
 Quaestiuncula 3  
 
-Ulterius. Videtur quod baptismus sit nobilius sacramentum quam confirmatio: quia essentialia rei accidentalibus digniora sunt, sicut substantia accidente. Sed baptismus essentialiter se habet ad salutem, cum sit sacramentum necessitatis; confirmatio autem*autem.—quasi* PLE. accidentaliter, cum non sit necessitatis sacramentum. Ergo baptismus est nobilius sacramentum confirmatione.  
+Ulterius. Videtur quod baptismus sit nobilius sacramentum quam confirmatio: quia essentialia rei accidentalibus digniora sunt, sicut substantia accidente. Sed baptismus essentialiter se habet ad salutem, cum sit sacramentum necessitatis; confirmatio autem *(*autem.—quasi* PLE.)* accidentaliter, cum non sit necessitatis sacramentum. Ergo baptismus est nobilius sacramentum confirmatione.  
 
 Praeterea, effectus proportionatur suae causae. Sed baptismus habet majorem efficaciam in efficiendo: quia delet omnem culpam et poenam, quod non facit confirmatio. Ergo est nobilius sacramentum.  
 
@@ -60,7 +60,7 @@ Sed contra, ad nobiliorem actionem ordinatur nobilius ministerium. Sed confirmat
 
 Quaestiuncula 1  
 
-Respondeo dicendum ad primam quaestionem, quod actiones quae sunt ordinatae ad aliquos effectus proprios et determinatos, recipiunt distinctionem secundum proportionem ad suos effectus; unde si ad duos effectus distinctos ordinentur, erunt duae diversae*diversae.—diversae distincte* PLE. actiones. Si autem ordinentur ad unum effectum, ita quod una disponat vel impedimentum removeat, et alia perficiat, et alia ornet perfectum; totum computatur pro una integra actione, sicut patet in operibus artificum. Unde cum sacramenta sint quaedam actiones hierarchicae secundum Dionysium, ordinatae ad aliquos effectus salutis, quando plures actiones sacramentales ordinantur ad unum effectum, una ut perficiens, alia ut disponens, vel impedimentum removens, vel aliquo modo ornans, tunc in illa quae efficit effectum principalem consistit essentialiter ratio sacramenti. Aliae autem non dicuntur per se sacramenta, sed sacramentalia quaedam, quasi sacramentis adjuncta, sicut patet ex his quae dicta sunt circa baptismum in exorcismo et catechismo et aliis hujusmodi concurrere. Quando autem sunt plures actiones ordinatae ad effectus omnino distinctos, tunc sunt diversa sacramenta. Et ideo cum confirmatio habeat per se effectum distinctum ab effectu baptismi, ut patebit, non est sacramentale baptismi, sed potius per se est principale sacramentum.  
+Respondeo dicendum ad primam quaestionem, quod actiones quae sunt ordinatae ad aliquos effectus proprios et determinatos, recipiunt distinctionem secundum proportionem ad suos effectus; unde si ad duos effectus distinctos ordinentur, erunt duae diversae *(*diversae.—diversae distincte* PLE.)* actiones. Si autem ordinentur ad unum effectum, ita quod una disponat vel impedimentum removeat, et alia perficiat, et alia ornet perfectum; totum computatur pro una integra actione, sicut patet in operibus artificum. Unde cum sacramenta sint quaedam actiones hierarchicae secundum Dionysium, ordinatae ad aliquos effectus salutis, quando plures actiones sacramentales ordinantur ad unum effectum, una ut perficiens, alia ut disponens, vel impedimentum removens, vel aliquo modo ornans, tunc in illa quae efficit effectum principalem consistit essentialiter ratio sacramenti. Aliae autem non dicuntur per se sacramenta, sed sacramentalia quaedam, quasi sacramentis adjuncta, sicut patet ex his quae dicta sunt circa baptismum in exorcismo et catechismo et aliis hujusmodi concurrere. Quando autem sunt plures actiones ordinatae ad effectus omnino distinctos, tunc sunt diversa sacramenta. Et ideo cum confirmatio habeat per se effectum distinctum ab effectu baptismi, ut patebit, non est sacramentale baptismi, sed potius per se est principale sacramentum.  
 
 Ad primum ergo dicendum, quod circa institutionem hujus sacramenti est triplex opinio. Una enim dicit, quod hoc sacramentum non fuit institutum nec a Christo nec ab apostolis, sed postea processu temporis in quodam Concilio; et dicunt quod Dominus rem sacramenti hujus sine sacramento conferebat manus imponendo, similiter et apostoli, eo quod ipsi confirmati fuerunt immediate a Spiritu Sancto. Sed hoc videtur valde absonum: quia secundum hoc ecclesia tota die posset nova sacramenta instituere, quod falsum est, cum ipsi non sint latores legis, sed ministri, et fundamentum cujuslibet legis in sacramentis consistit; et praeterea in littera dicitur quod *tempore apostolorum . . . non ab aliis quam ab apostolis fuit peractum*.  
 
@@ -194,7 +194,7 @@ Praeterea, per baptismum homo maxime configuratur passioni Christi. Sed in forma
 
 Praeterea, sicut confirmatio habet formam determinatam, ita et baptismus. Sed in baptismi forma non fit mentio de materia ipsius: non enim dicitur: *baptizo te aqua*. Ergo nec hic deberet fieri mentio de chrismate.  
 
-Praeterea, forma est de essentia sacramenti:*sacramenti.—sacramenti, sed res sacramenti non est de essentia sacramenti* PLE. quia multi accipiunt sacramentum qui non accipiunt rem sacramenti. Ergo non debet res sacramenti poni in forma, sicut hic ponitur, *chrismate salutis*.  
+Praeterea, forma est de essentia sacramenti: *(*sacramenti.—sacramenti, sed res sacramenti non est de essentia sacramenti* PLE.)* quia multi accipiunt sacramentum qui non accipiunt rem sacramenti. Ergo non debet res sacramenti poni in forma, sicut hic ponitur, *chrismate salutis*.  
 
 Quaestiuncula 3  
 
@@ -222,11 +222,11 @@ Ad primum ergo dicendum, quod baptismus est sacramentum necessitatis; et ideo in
 
 Ad secundum dicendum, quod consignatio quae ponitur in forma, non pertinet ad consignationem characteris, sed ad consignationem crucis, quae fit in fronte linitione chrismatis propter confessionem fidei crucis; et talis signatio non fit in baptismo, quia baptizatus non consecratur ad aliquid speciale, sed universaliter ad spiritualem vitam; consignatio autem importat quamdam ascriptionem, vel aliquid speciale, quod est in sacramento confirmationis.  
 
-Ad tertium dicendum, quod ille qui baptizatur, configuratur passioni Christi per fidem ejus, quam habere in corde debet; et ideo non exigitur aliqua consignatio crucis exterius, sed sufficit consignatio interior quae est per characterem et*et.—scilicet* PLE. conformatio ad passionem Christi in consepelitione aquae. Sed confirmatio est sacramentum confessionis passionis Christi, sicut baptismus sacramentum fidei; et ideo exterius in manifesto imprimitur crucis signaculum, et in forma exprimitur.  
+Ad tertium dicendum, quod ille qui baptizatur, configuratur passioni Christi per fidem ejus, quam habere in corde debet; et ideo non exigitur aliqua consignatio crucis exterius, sed sufficit consignatio interior quae est per characterem et *(*et.—scilicet* PLE.)* conformatio ad passionem Christi in consepelitione aquae. Sed confirmatio est sacramentum confessionis passionis Christi, sicut baptismus sacramentum fidei; et ideo exterius in manifesto imprimitur crucis signaculum, et in forma exprimitur.  
 
 Ad quartum dicendum quod in ipso actu baptizationis intelligitur determinata materia baptismi: non autem materia confirmationis intelligitur in ipso actu confirmandi; et ideo oportet quod materia addatur.  
 
-Ad quintum dicendum, quod in actu ablutionis magis expresse significatur res sacramenti in baptismo quam in linitione chrismatis; et ideo non*ideo non oportet.—ideo oportet* PLE. oportet quod addatur effectus salutis ad majorem expressionem.  
+Ad quintum dicendum, quod in actu ablutionis magis expresse significatur res sacramenti in baptismo quam in linitione chrismatis; et ideo non *(*ideo non oportet.—ideo oportet* PLE.)* oportet quod addatur effectus salutis ad majorem expressionem.  
 
 Quaestiuncula 3  
 
@@ -259,13 +259,13 @@ Praeterea, supra dictum est, quod character est spiritualis potestas. Sed potest
 
 Sed contra, character est signum conformans nos Trinitati. Sed sicut oportet nos conformari in sapientia et potentia, ita et in bonitate. Cum ergo in baptismo imprimatur character fidei, conformans nos divinae sapientiae, et in ordine character potestatis, conformans nos divinae potentiae; videtur quod in confirmatione imprimatur character plenitudinis Spiritus Sancti, conformans nos divinae bonitati.  
 
-Praeterea, per characterem quasi ascribimur ad familiam Jesu Christi. Sed Christus sicut est pater noster et sacerdos, ita est et rex noster. Cum ergo per characterem baptismalem ascribamur ei quasi patri filii regenerati per baptismum, et per characterem ordinis quasi ministri sacerdoti summo, videtur quod simili ratione in confirmatione debeat imprimi character, quo conformemur ei quasi minister*minister.—milites* PLE. regi.  
+Praeterea, per characterem quasi ascribimur ad familiam Jesu Christi. Sed Christus sicut est pater noster et sacerdos, ita est et rex noster. Cum ergo per characterem baptismalem ascribamur ei quasi patri filii regenerati per baptismum, et per characterem ordinis quasi ministri sacerdoti summo, videtur quod simili ratione in confirmatione debeat imprimi character, quo conformemur ei quasi minister *(*minister.—milites* PLE.)* regi.  
 
 Quaestiuncula 2  
 
 Ulterius. Videtur quod idem sit character confirmationis per essentiam, et baptismi. Quia ad eamdem formam seu speciem non potest esse nisi una assimilatio. Sed in Trinitate, ut Hilarius dicit, est species indifferens. Ergo cum character sit signum assimilans Trinitati, videtur quod character confirmationis non possit esse alius a charactere baptismi.  
 
-Praeterea, in corporibus*corporibus.—corporalibus* PLE. ita est quod duo characteres non possunt esse in eadem parte. Sed characteris subjectum est universaliter una pars animae, ut supra dictum est. Ergo post primum characterem non potest alius character superaddi.  
+Praeterea, in corporibus *(*corporibus.—corporalibus* PLE.)* ita est quod duo characteres non possunt esse in eadem parte. Sed characteris subjectum est universaliter una pars animae, ut supra dictum est. Ergo post primum characterem non potest alius character superaddi.  
 
 Praeterea, ad ea quae se necessario consequuntur, aliquis eodem charactere ascribitur; sicut idem character est in sacerdote ad conficiendum et ad absolvendum. Sed confessio fidei, cujus sacramentum est confirmatio, consequitur de necessitate ad fidem, cujus sacramentum est baptismus; quia *corde creditur ad justitiam, ore confessio fit ad salutem*; Rom. 10, 10. Ergo idem character est in baptismo et in confirmatione.  
 
@@ -287,7 +287,7 @@ Praeterea, baptismus dicitur esse principium spiritualis vitae, secundum Dionysi
 
 Quaestiuncula 1  
 
-Respondeo dicendum ad primam quaestionem, quod character est distinctivum signum, quo quis ab aliis distinguitur ad aliquid spirituale deputatus. Sed ad spirituale potest aliquis tripliciter deputari. Uno modo ut aliquis in se spiritualia participet; et ad hoc quis deputatur in baptismo, quia jam baptizatus potest esse particeps omnis spiritualis receptionis; unde character baptismalis, ut supra dictum est, est quasi quaedam spiritualis potentia passiva. Alio modo ut spiritualia quis in notitiam ducat per eorum*eorum.—Christi* PLE. fortem confessionem; et ad hoc quis deputatur in confirmatione; unde etiam tempore persecutionis eligebantur aliqui qui deberent in loco persecutionis remanere ad publice nomen Christi confitendum, aliis occulte credentibus, sicut patet in legenda beati Sebastiani. Tertio modo ut etiam spiritualia credentibus tradat; et ad hoc deputatur aliquis per sacramentum ordinis. Et ideo sicut in baptismo confertur character et in ordine, ita et in confirmatione.  
+Respondeo dicendum ad primam quaestionem, quod character est distinctivum signum, quo quis ab aliis distinguitur ad aliquid spirituale deputatus. Sed ad spirituale potest aliquis tripliciter deputari. Uno modo ut aliquis in se spiritualia participet; et ad hoc quis deputatur in baptismo, quia jam baptizatus potest esse particeps omnis spiritualis receptionis; unde character baptismalis, ut supra dictum est, est quasi quaedam spiritualis potentia passiva. Alio modo ut spiritualia quis in notitiam ducat per eorum *(*eorum.—Christi* PLE.)* fortem confessionem; et ad hoc quis deputatur in confirmatione; unde etiam tempore persecutionis eligebantur aliqui qui deberent in loco persecutionis remanere ad publice nomen Christi confitendum, aliis occulte credentibus, sicut patet in legenda beati Sebastiani. Tertio modo ut etiam spiritualia credentibus tradat; et ad hoc deputatur aliquis per sacramentum ordinis. Et ideo sicut in baptismo confertur character et in ordine, ita et in confirmatione.  
 
 Ad primum ergo dicendum, quod pugna spiritualis qua quis pugnat contra impedientes salutem sui ipsius, omnibus indicitur; sed ad hoc non datur sacramentum confirmationis, sed ad persistendum fortiter in pugna qua quis nomen Christi impugnat, et ut invictus confessor Christi permaneat; et huic pugnae non omnes exponuntur, sed solum confirmati.  
 
@@ -347,7 +347,7 @@ Quaestiuncula 3
 
 Ulterius. Videtur quod gratia confirmationis non perficiat gratiam baptismalem. Omnis enim perfectio quae confirmationi ascribitur, ad dona vel virtutes pertinet; sicut fortiter confiteri, et persistere, quod est fortitudinis virtutis vel doni. Sed in baptismo, ubi confertur gratia, conferuntur et virtutes et dona, quae in gratia connexionem habent, ut dictum est supra. Ergo gratia confirmationis non perficit gratiam baptismalem.  
 
-Praeterea, ex eodem habitus operatur*operatur.—generatur* PLE. et perficitur, ut dicitur in 2 *Ethic*. Sed gratia baptismalis per baptismum acquiritur. Ergo non perficitur per confirmationem.  
+Praeterea, ex eodem habitus operatur *(*operatur.—generatur* PLE.)* et perficitur, ut dicitur in 2 *Ethic*. Sed gratia baptismalis per baptismum acquiritur. Ergo non perficitur per confirmationem.  
 
 Praeterea, in augmento fit idem ex eo quod auget et quod augetur. Sed gratia baptismalis differt a gratia confirmationis. Ergo gratia confirmationis non perficit gratiam baptismalem.  
 
@@ -525,7 +525,7 @@ Articulus 3
 
 ***Quaestiuncula 1***
 
-Ad tertium sic proceditur. Videtur quod non exigatur quod aliquis tangat*tangat.—teneat* PLE. aliquem ad confirmationem. Ille enim qui habet immediatam relationem ad principem, sicut liberi, non oportet quod mediantibus aliquibus coram principe compareat, sicut servi comparent mediantibus dominis et filiifamilias mediantibus patribus. Sed confirmandus jam habet immediatam relationem ad principem ecclesiae, cum sit membrum ecclesiae per baptismum. Ergo quamvis baptizatus per alium debeat praesentari, tamen confirmandus nullo modo debet per alium ad confirmationem teneri, praecipue si sit adultus.  
+Ad tertium sic proceditur. Videtur quod non exigatur quod aliquis tangat *(*tangat.—teneat* PLE.)* aliquem ad confirmationem. Ille enim qui habet immediatam relationem ad principem, sicut liberi, non oportet quod mediantibus aliquibus coram principe compareat, sicut servi comparent mediantibus dominis et filiifamilias mediantibus patribus. Sed confirmandus jam habet immediatam relationem ad principem ecclesiae, cum sit membrum ecclesiae per baptismum. Ergo quamvis baptizatus per alium debeat praesentari, tamen confirmandus nullo modo debet per alium ad confirmationem teneri, praecipue si sit adultus.  
 
 Praeterea, fortitudo minus competit mulieribus quam viris. Prov. ultim. 10: *mulierem fortem quis inveniet?* Sed confirmatio est sacramentum fortitudinis, quia in eo datur Spiritus Sanctus ad robur. Ergo ad minus mulier non debet tenere virum ad confirmationem.  
 

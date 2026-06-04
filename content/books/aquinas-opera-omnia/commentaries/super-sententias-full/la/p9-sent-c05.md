@@ -166,7 +166,7 @@ Praeterea, mysterium divinitatis Christi non minus miraculis quam virginitate ma
 
 Item, si non esset nupta, non poterat lapidari propter suspicionem fornicationis, quasi adultera. Ergo videtur quod non propter hoc oportebat eam nubere.  
 
-Praeterea, ex hoc quod nupta*nupta.—non nupta* PLE. fuisset, Judaei magis aedificati fuissent ad fidem, qui scriptum invenerunt: *ecce virgo concipiet*; et ita virginitas matris non debuit vir per nuptias occultari.  
+Praeterea, ex hoc quod nupta *(*nupta.—non nupta* PLE.)* fuisset, Judaei magis aedificati fuissent ad fidem, qui scriptum invenerunt: *ecce virgo concipiet*; et ita virginitas matris non debuit vir per nuptias occultari.  
 
 Item, Christus venit ut labores nostros sustineret, et per hoc auferret. Ergo non oportuit quod haberet mater ejus virum ad ejus obsequia.  
 

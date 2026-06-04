@@ -108,7 +108,7 @@ Lecture 4
 
 ***Return of Rachel’s children***
 
-^31:15^ Thus says the Lord: a voice was heard on high:Heb. בְּרָמָה: *in Ramah*, a place on the border of Benjamin and Ephraim, some five miles north of Jerusalem. Rachel is here depicted as weeping because, as the mother of Benjamin, his descendants are her children. lamentation, grief, and wailing, Rachel weeping for her children, she refuses to be comforted for them, because they are not.  
+^31:15^ Thus says the Lord: a voice was heard on high: *(Heb. בְּרָמָה: *in Ramah*, a place on the border of Benjamin and Ephraim, some five miles north of Jerusalem. Rachel is here depicted as weeping because, as the mother of Benjamin, his descendants are her children.)* lamentation, grief, and wailing, Rachel weeping for her children, she refuses to be comforted for them, because they are not.  
 
 > ^31:16^ Thus says the Lord: let your voice be still from weeping, and your eyes from tears, for there is a reward for your work, says the Lord, and they shall come from the land of the enemy.
 
@@ -132,13 +132,13 @@ Lecture 5
 
 ^31:18^ For I have surely heard Ephraim going into exile: ‘You have chastised me, O Lord, and I was chastened, as an unbroken calf: turn me and I shall be turned, because you are the Lord my God.  
 
-> ^31:19^ After you turned me,Heb. שׁוּבִי: *I returned*. I repented; and after you showed me,Heb. הִוָּדְעִי: *I was instructed*. In this and the preceding verb, Jerome interprets the passage as having God as the subject, but in the Hebrew, Ephraim remains the subject. I struck my thigh. I was put to shame, and I blushed, for I have borne the reproach of my youth.’
+> ^31:19^ After you turned me, *(Heb. שׁוּבִי: *I returned*.)* I repented; and after you showed me, *(Heb. הִוָּדְעִי: *I was instructed*. In this and the preceding verb, Jerome interprets the passage as having God as the subject, but in the Hebrew, Ephraim remains the subject.)* I struck my thigh. I was put to shame, and I blushed, for I have borne the reproach of my youth.’
 
 > **162**. Here is given the acceptance of those who repent, to whom is promised an acknowledgement of their confession: ***I have surely heard***, that is, I have heard them mercifully. *I have surely seen the suffering of my people, who are in Egypt, and I have heard their cry* (Exod 3:7). And the confession is given: ***you have chastised me, O Lord, and I was chastened, as a calf***, who is corrected with difficulty and with many blows. *Only vexation gives understanding to hearing* (Isa 28:19).
 
 Second, the petition is given: ***turn me and I shall be turned***. *Turn us, O Lord, to yourself, and we shall be turned; renew our days as from the beginning* (Lam 5:21).  
 
-Third, the reason for the petition is given as arising from the repentance which he has begun.As noted above, in the Hebrew, the subject of this passage is more clearly Ephraim, who, by synecdoche, stands for the nation of Israel, whom Jeremiah will also call, *virgin Israel* (Jer 31:21), below.  
+Third, the reason for the petition is given as arising from the repentance which he has begun. *(As noted above, in the Hebrew, the subject of this passage is more clearly Ephraim, who, by synecdoche, stands for the nation of Israel, whom Jeremiah will also call, *virgin Israel* (Jer 31:21), below.)*  
 
 For this reason, he puts the punishment first: ***after you turned me***, by infusing grace, ***I struck my thigh***, signifying interior grief by an exterior blow, after the manner of a grieving person. Or, ***I struck my thigh***, by repressing carnal pleasures. *With the hearing of the ear I have heard you, but now my eye sees you* (Job 42:5).  
 
@@ -160,15 +160,15 @@ third, his calling back, at ***turn, O virgin Israel*** (Jer 31:21).
 
 Concerning the former, he makes two points.  
 
-First, he gives the reason for the mercy from the perspective of the people: ***is Ephraim a son who brings me honor***; it is as though he were saying, “Is he not an honorable son?” Because of the birthright: ***is he a delicate boy***, because of the tenderness of his age, because Joseph was, as it were, the youngest of the sons of Jacob,Only until the birth of Benjamin; cf. Genesis 35:24. and Ephraim was the younger of the sons of Joseph. And these two factors incite fathers more to have mercy. *Israel was a boy, and I loved him, and from Egypt have I called my son* (Hos 11:1). He also gives the reason from the perspective of God: ***for from the point when I spoke***; it is as though he were saying, “It is not fitting that the words of God should be made void”; ***I shall remember*** the words. *Has he said, and will not do it? Has he spoken and will he not fulfill it?* (Num 23:19).  
+First, he gives the reason for the mercy from the perspective of the people: ***is Ephraim a son who brings me honor***; it is as though he were saying, “Is he not an honorable son?” Because of the birthright: ***is he a delicate boy***, because of the tenderness of his age, because Joseph was, as it were, the youngest of the sons of Jacob, *(Only until the birth of Benjamin; cf. Genesis 35:24.)* and Ephraim was the younger of the sons of Joseph. And these two factors incite fathers more to have mercy. *Israel was a boy, and I loved him, and from Egypt have I called my son* (Hos 11:1). He also gives the reason from the perspective of God: ***for from the point when I spoke***; it is as though he were saying, “It is not fitting that the words of God should be made void”; ***I shall remember*** the words. *Has he said, and will not do it? Has he spoken and will he not fulfill it?* (Num 23:19).  
 
-Second, he shows his mercy: ***therefore, are my inward parts moved***—anthropopathism,A literary device whereby human affections are ascribed to a non-human being, in this case, God. in which there is an internal compassion; ***I shall surely have mercy***, in which there is an external bringing of aid. *My heart is turned within me; likewise my repentance is stirred up* (Hos 11:8).  
+Second, he shows his mercy: ***therefore, are my inward parts moved***—anthropopathism, *(A literary device whereby human affections are ascribed to a non-human being, in this case, God.)* in which there is an internal compassion; ***I shall surely have mercy***, in which there is an external bringing of aid. *My heart is turned within me; likewise my repentance is stirred up* (Hos 11:8).  
 
 Lecture 7  
 
 ***Call to the straight way***
 
-^31:21a^ Establish for yourself a watchtower; make bitternessHeb. תַּמְרוּרִים: *tamrurim*, a word of uncertain meaning, but probably meaning *signposts*. Jerome seems to have been confused by the word and to have arrived at his translation, *amaritudines*, by a spurious connection with a similar sounding word, *marar*, meaning “bitter.” for yourself; direct your heart to the straight way upon which you have walked.  
+^31:21a^ Establish for yourself a watchtower; make bitterness *(Heb. תַּמְרוּרִים: *tamrurim*, a word of uncertain meaning, but probably meaning *signposts*. Jerome seems to have been confused by the word and to have arrived at his translation, *amaritudines*, by a spurious connection with a similar sounding word, *marar*, meaning “bitter.”)* for yourself; direct your heart to the straight way upon which you have walked.  
 
 > **164**. Here, the instruction of the penitent is given: ***establish for yourself a watchtower*** (*speculam*), so that you may consider the prosperity which has been announced, or so that you may consider the way by which you may return; ***bitterness***, concern for the return; ***direct***, consider the way by which you came, that by it you may return.
 
@@ -192,7 +192,7 @@ Lecture 9
 
 ***Joy of Israel and Judah***
 
-^31:23^ Thus says the Lord of hosts, the God of Israel: they shall still say this word in the land of Judah, and in her cities, when I return their captivity, ‘May the Lord bless you, O beauty of justice,Heb. נְוֵה-צֶדֶק: *habitation of righteousness*. O holy mountain.’  
+^31:23^ Thus says the Lord of hosts, the God of Israel: they shall still say this word in the land of Judah, and in her cities, when I return their captivity, ‘May the Lord bless you, O beauty of justice, *(Heb. נְוֵה-צֶדֶק: *habitation of righteousness*.)* O holy mountain.’  
 
 > ^31:24^ And Judah shall dwell in it and all his cities together, the farmer, and the tender of the flocks.
 
@@ -254,7 +254,7 @@ Second, he speaks of the tenor of the covenant: ***but this shall be the covenan
 
 Third, he speaks of the usefulness of the covenant:  
 
-first, with regard to obedience: ***and I shall be to them a God***. The same point is made in Ezekiel 36.*You shall be my people, and I will be your God* (Ezek 36:28).  
+first, with regard to obedience: ***and I shall be to them a God***. The same point is made in Ezekiel 36. *(*You shall be my people, and I will be your God* (Ezek 36:28).)*  
 
 Second, with regard to wisdom: ***and no more shall a man teach his neighbor***, by which is excluded the necessity of teaching. And this is indeed fulfilled in the present time with regard to the fact that we have come to divine truth not by the reasons of the prophecy, nor by human inventions, nor even by Jewish traditions; but in the future, it shall be fulfilled entirely. *Do not be called Rabbi, for there is one who is your master* (Matt 23:8). And he gives the reason: ***for all shall know me***. *I shall grant that all your children shall be taught by the Lord, and I will give your children an abundance of peace* (Isa 54:13). *All things whatsoever I have heard from my father, I have made known to you* (John 15:15).  
 
@@ -264,7 +264,7 @@ Lecture 11
 
 ***Immutable as the heavens***
 
-^31:35^ Thus says the Lord, who gives the sun as the light of the day, the orderHeb. חֻקֹּת: *ordinances*, particularly those which the mind of man is incapable of comprehending. of the moon and the stars, as the light of the night; who stirs up the sea, and its waves roar; the Lord of hosts is his name:  
+^31:35^ Thus says the Lord, who gives the sun as the light of the day, the order *(Heb. חֻקֹּת: *ordinances*, particularly those which the mind of man is incapable of comprehending.)* of the moon and the stars, as the light of the night; who stirs up the sea, and its waves roar; the Lord of hosts is his name:  
 
 > ^31:36^ if these laws fail from before me, says the Lord, then the seed of Israel shall fail, that he should not be a nation before me all days.
 
@@ -290,16 +290,16 @@ Lecture 12
 
 > ^31:39^ And the measuring line shall go forth in his sight, upon the hill of Gareb, and shall go about Goatha,
 
-> ^31:40^ and all the valley of the dead bodies, and ash, and all the region of the dead,Heb. הַשְּׁדֵמוֹת: *fields*. Jerome seems to have speculated as to the meaning of *sheremoth* (הַשְּׁרֵמֹות) and arrived at *region of the dead*; in fact, it is a scribal error for *shedemoth*: *common-field*. as far as the brook Kedron, and as far as the corner of the eastern gate of horses. The holy place of the Lord shall not be pulled up or torn down again forever.
+> ^31:40^ and all the valley of the dead bodies, and ash, and all the region of the dead, *(Heb. הַשְּׁדֵמוֹת: *fields*. Jerome seems to have speculated as to the meaning of *sheremoth* (הַשְּׁרֵמֹות) and arrived at *region of the dead*; in fact, it is a scribal error for *shedemoth*: *common-field*.)* as far as the brook Kedron, and as far as the corner of the eastern gate of horses. The holy place of the Lord shall not be pulled up or torn down again forever.
 
 > **169**. Here is promised the restoration of the city.
 
 First, the rebuilding is promised: ***when the city shall be built***. *It is I who say to Jerusalem, ‘You shall be inhabited,’ and to the cities of Judah, ‘You shall be built’; and I shall raise up your waste places* (Isa 44:26).  
 
-Second, the enlargement is given: ***from the tower of Hananel***, which some say was in Anathoth, but Jerome excludes this in the Gloss,Jerome, *In Hieremiam*, 6.410. ***to the gate of the corner***, where two walls were joined together;  
+Second, the enlargement is given: ***from the tower of Hananel***, which some say was in Anathoth, but Jerome excludes this in the Gloss, *(Jerome, *In Hieremiam*, 6.410.)* ***to the gate of the corner***, where two walls were joined together;  
 
 the former ***measuring line shall go forth***, ***upon the hill of Gareb***, which is translated as “scab,” where perhaps the lepers stayed outside the city; ***Goatha***, which is translated as “sinful nation,” where those who were unclean because of some sin stayed;  
 
 ***the valley of the dead bodies***, where the graves of the people were; ***ash***, where ritually clean ashes were cast, as from sacrifices, or it refers to unclean ashes, as from the houses of lepers and others of this sort; ***of the dead***, where malefactors were put to death; ***as far as the corner of the eastern gate of horses***, for horses were not able to ascend from every direction because of the steepness of the mountain. *Enlarge the place of your tent, and stretch out the coverings of your tabernacles* (Isa 54:2).  
 
-Third, the duration is given: ***the holy place of the Lord shall not be pulled up***, that is, the sanctuary, the temple, or the whole city, which was sanctified to the Lord. Above: ***they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem*** (Jer 3:17). *A tabernacle which cannot be removed, neither shall its stakes ever be taken away, and none of its cords shall be broken* (Isa 33:20). The Jews expound this as referring to Jerusalem the golden, which Jerome disproves in the Gloss,Jerome, *In Hieremiam*, 6.410–11. and he expounds it as referring to the Church, which gathers within herself both the perfect and the imperfect, which is signified by the unclean places outside Jerusalem. It could also be said another way, that it was fulfilled under Ezra, as is seen in Nehemiah 3: *for they began to build Hananel*.The citation is uncertain here, but it is likely a variation or paraphrase of Nehemiah 3:1: *sanctificaverunt eam usque ad turrem Ananehel*, “They sanctified it to the tower of Hananel.” And literally, perhaps they added some space to the city. When it is said to abide forever, the condition is understood: if they do not sin. Above: ***if it does evil in my eyes, and does not hear my voice, then I will repent of the good which I have said I would do for it*** (Jer 18:10).
+Third, the duration is given: ***the holy place of the Lord shall not be pulled up***, that is, the sanctuary, the temple, or the whole city, which was sanctified to the Lord. Above: ***they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem*** (Jer 3:17). *A tabernacle which cannot be removed, neither shall its stakes ever be taken away, and none of its cords shall be broken* (Isa 33:20). The Jews expound this as referring to Jerusalem the golden, which Jerome disproves in the Gloss, *(Jerome, *In Hieremiam*, 6.410–11.)* and he expounds it as referring to the Church, which gathers within herself both the perfect and the imperfect, which is signified by the unclean places outside Jerusalem. It could also be said another way, that it was fulfilled under Ezra, as is seen in Nehemiah 3: *for they began to build Hananel*. *(The citation is uncertain here, but it is likely a variation or paraphrase of Nehemiah 3:1: *sanctificaverunt eam usque ad turrem Ananehel*, “They sanctified it to the tower of Hananel.”)* And literally, perhaps they added some space to the city. When it is said to abide forever, the condition is understood: if they do not sin. Above: ***if it does evil in my eyes, and does not hear my voice, then I will repent of the good which I have said I would do for it*** (Jer 18:10).

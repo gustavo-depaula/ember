@@ -10,7 +10,7 @@
 
 > ^22:2^ and say: hear the word of the Lord, O king of Judah, who sits upon the throne of David, you and your servants, and your people, who enter through these gates.
 
-> ^22:3^ Thus says the Lord: execute judgment and justice, and free the one oppressed by violence from the hand of the oppressor:Heb. וְהַצִּ֥ילוּ גָז֖וּל מִיַּ֣ד עָשֹׁ֑וק: *and deliver the plundered from the hand of the oppressor*. do not afflict the stranger, and the orphan, and the widow, and do not oppress them unjustly; do not shed innocent blood in this place.
+> ^22:3^ Thus says the Lord: execute judgment and justice, and free the one oppressed by violence from the hand of the oppressor: *(Heb. וְהַצִּ֥ילוּ גָז֖וּל מִיַּ֣ד עָשֹׁ֑וק: *and deliver the plundered from the hand of the oppressor*.)* do not afflict the stranger, and the orphan, and the widow, and do not oppress them unjustly; do not shed innocent blood in this place.
 
 > ^22:4^ For if you shall surely do this word, kings of the line of David sitting upon his throne shall enter through the gates of this house, and riding on chariots and horse, they and their servants and their people.
 
@@ -56,7 +56,7 @@ Second is mentioned the threat against the royal line:
 
 first, against Jehoiakim, the son of Josiah, at ***for thus says the Lord*** (Jer 22:11);  
 
-second, against Jotham, the son of Josiah,Throughout this section, Thomas Aquinas seems to mistake Jotham (died ca. 736–32 B.C.), son of Uzziah, for Jehoahaz (Shallum). It was Jehoahaz, not Jotham, who was taken into exile in Egypt. It would be impossible for the biblical Jotham to have been one of the four sons of Josiah, for he lived some 126 years before the period under discussion. See 2 Kings 15:30; 2 Chronicles 36:1 ff. at ***woe to him who builds his house by unrighteousness*** (Jer 22:13);  
+second, against Jotham, the son of Josiah, *(Throughout this section, Thomas Aquinas seems to mistake Jotham (died ca. 736–32 B.C.), son of Uzziah, for Jehoahaz (Shallum). It was Jehoahaz, not Jotham, who was taken into exile in Egypt. It would be impossible for the biblical Jotham to have been one of the four sons of Josiah, for he lived some 126 years before the period under discussion. See 2 Kings 15:30; 2 Chronicles 36:1 ff.)* at ***woe to him who builds his house by unrighteousness*** (Jer 22:13);  
 
 third, against Jekoniah, the son of Jehoiakim, at ***as I live says the Lord*** (Jer 22:24). 2 Kings 24 speaks of these things.  
 
@@ -64,27 +64,27 @@ Concerning the first point, there are two things.
 
 First is mentioned the threatening, where he forbids mourning for Josiah who has been killed: ***do not cry for the dead***, namely, Josiah. *Cry little for the dead, for they are at rest* (Sir 22:11). And he indicts a lament for Jotham [Jehoahaz], who has been taken captive by Pharaoh: ***mourn for him***. *The eye which saw him shall not see, neither shall his place behold him any more* (Job 20:9). It is called “weeping” when there is a profusion of tears; “mourning” adds a certain solemnity, but “lament” adds a further sense of complaining through words.  
 
-Second is posed the confirmation of the threat by divine sentence: ***for thus says the Lord to Shallum***, Jehoiakim, because all the sons of Josiah were called Shallum,Thomas Aquinas seems to be mistaken here. Shallum was the third son and immediate successor of Josiah. He took the name Jehoahaz, not Jehoiakim, upon ascending the throne in 609 B.C. Three months later he was deposed by the pharaoh, Necho II, who then made Eliakim, his older brother, king; Eliakim took the name of Jehoiakim. See 2 Chronicles 36:4. that is, “fulfillment,” because the kingdom came to an end in them. *The Lord will cast you like a ball into a wide and spacious land. There you will die* (Isa 22:18). And according to this, the entire prophecy of this chapter took place in the times of Jehoiakim; and he speaks of the captivity of Jotham [Jehoahaz] as though it was already past, and speaks of the captivity of others as though it were to come. But Jerome would have what has been said relate to Zedekiah, and that from the beginning of chapter 2 to this point the prophecy has taken place in the time of Zedekiah, and then Jehoiakim.  
+Second is posed the confirmation of the threat by divine sentence: ***for thus says the Lord to Shallum***, Jehoiakim, because all the sons of Josiah were called Shallum, *(Thomas Aquinas seems to be mistaken here. Shallum was the third son and immediate successor of Josiah. He took the name Jehoahaz, not Jehoiakim, upon ascending the throne in 609 B.C. Three months later he was deposed by the pharaoh, Necho II, who then made Eliakim, his older brother, king; Eliakim took the name of Jehoiakim. See 2 Chronicles 36:4.)* that is, “fulfillment,” because the kingdom came to an end in them. *The Lord will cast you like a ball into a wide and spacious land. There you will die* (Isa 22:18). And according to this, the entire prophecy of this chapter took place in the times of Jehoiakim; and he speaks of the captivity of Jotham [Jehoahaz] as though it was already past, and speaks of the captivity of others as though it were to come. But Jerome would have what has been said relate to Zedekiah, and that from the beginning of chapter 2 to this point the prophecy has taken place in the time of Zedekiah, and then Jehoiakim.  
 
 Lecture 2  
 
 ***Vanity of Jehoiakim’s works***
 
-^ 22:13^ Woe to him who builds his house by unrighteousness, and his chambersHeb. עֲלִיּוֹתָ֖יו: *his upper rooms*. by injustice, that will oppress his friend without cause, and not give him his wages.  
+^ 22:13^ Woe to him who builds his house by unrighteousness, and his chambers *(Heb. עֲלִיּוֹתָ֖יו: *his upper rooms*.)* by injustice, that will oppress his friend without cause, and not give him his wages.  
 
-> ^ 22:14^ Who says, ‘I shall build myself a broad house, and spacious chambers’; who opens windows for himself, and makes paneled roofs of cedar, and paints them with sinopia.Sinopia is a dark, reddish-brown, earth pigment, which is so-called from the name of the city where it was mined, Sinopis, in Cappadocia. See Pliny, *Natural History* 35.6.13.
+> ^ 22:14^ Who says, ‘I shall build myself a broad house, and spacious chambers’; who opens windows for himself, and makes paneled roofs of cedar, and paints them with sinopia. *(Sinopia is a dark, reddish-brown, earth pigment, which is so-called from the name of the city where it was mined, Sinopis, in Cappadocia. See Pliny, *Natural History* 35.6.13.)*
 
-> ^ 22:15^ Shall you reign because you compare yourself to the cedar?Heb. הֲתִֽמְלֹ֔ךְ כִּ֥י אַתָּ֖ה מְתַחֲרֶ֣ה בָאָ֑רֶז: *shall you reign because you enclose yourself in cedar?* Did not your father eat and drink, and execute judgment and justice, and then it was well with him?
+> ^ 22:15^ Shall you reign because you compare yourself to the cedar? *(Heb. הֲתִֽמְלֹ֔ךְ כִּ֥י אַתָּ֖ה מְתַחֲרֶ֣ה בָאָ֑רֶז: *shall you reign because you enclose yourself in cedar?*)* Did not your father eat and drink, and execute judgment and justice, and then it was well with him?
 
-> ^ 22:16^ He judged the cause of the poor, and the needy for his own good; was it not, therefore, because he knew me? says the Lord.Heb. הֲלֹוא־הִ֛יא הַדַּ֥עַת אֹתִ֖י: *was this not knowledge of me?*
+> ^ 22:16^ He judged the cause of the poor, and the needy for his own good; was it not, therefore, because he knew me? says the Lord. *(Heb. הֲלֹוא־הִ֛יא הַדַּ֥עַת אֹתִ֖י: *was this not knowledge of me?*)*
 
 > ^ 22:17^ But your eyes and heart are set upon greed, and spilling innocent blood, and calumny, and running after evil works.
 
 > ^ 22:18^ Because of these things the Lord says to Jehoiakim, son of Josiah, king of Judah: they shall not mourn him, ‘Alas, brother!’ and, ‘Alas sister!’ They shall not lament for him, ‘Alas, lord,’ and, ‘Alas, glorious one!’
 
-> ^ 22:19^ He shall be buried with the burial of a donkey, corruptedHeb. סָח֣וֹב: *dragged*. and cast outside the gates of Jerusalem.
+> ^ 22:19^ He shall be buried with the burial of a donkey, corrupted *(Heb. סָח֣וֹב: *dragged*.)* and cast outside the gates of Jerusalem.
 
-> ^ 22:20^ Go up to Lebanon, and shout, and in Bashan give your voice; and cry to those who are passing by,Heb. וְצַֽעֲקִי֙ מֵֽעֲבָרִ֔ים: *cry out from Avarim*, a place name. for all your lovers are destroyed.
+> ^ 22:20^ Go up to Lebanon, and shout, and in Bashan give your voice; and cry to those who are passing by, *(Heb. וְצַֽעֲקִי֙ מֵֽעֲבָרִ֔ים: *cry out from Avarim*, a place name.)* for all your lovers are destroyed.
 
 > ^ 22:21^ I spoke to you in your abundance, and you said, ‘I will not listen.’ This is your way from your youth, because you would not hear my voice.
 
@@ -108,9 +108,9 @@ First, with regard to the king himself, with the lack of mourning: ***they***, h
 
 And the lack of burial: ***he shall be buried with the burial of a donkey*** because he will be thrown out to be devoured by beasts. *All the kings of the nations, all have slept in glory, each man in his house; but you have been cast out of your tomb, like an unprofitable branch, defiled, and wrapped up with those who have been slain by the sword, and have gone down to the bottom of the pit* (Isa 14:19).  
 
-Various things in various places are said about Jehoiakim. For in 2 Kings 24:2 it is said that *the Lord sent robbers from the neighboring nations against him, to kill him; and he slept with his fathers*. But in 2 Chronicles 36, it is said that the king of Babylon came up against him and led him to Babylon as a captive. Josephus, however, says that when Nebuchadnezzar, or Nebuzaradan, had entered the city, he broke the treaty and killed many young men, among whom was also Jehoiakim.Josephus Scotus, *Epitome explanationum in Isaiam* (*Corpus Christianorum Continuatio Mediaevalis* [CCCM] 284), 5/6 on *Isaiah* 14, 18–20. Now this was said because he was unburied. And therefore, in order to bring all of this into harmony, one must know that Jehoiakim had been substituted for Jotham [Jehoahaz] his brother and that he reigned with the king of Egypt. Finally, in the eighth year of his reign, Nebuchadnezzar came against him, and Jehoiakim surrendered himself to him. He was also made tributary to him for two years. In the tenth year, however, he rebelled. For this reason, Nebuchadnezzar came against him and led him captive to Babylon; he made a treaty with him while en route, and he was returned to Jerusalem. But Nebuzaradan, having gathered together robbers from the neighboring nations, entered Jerusalem, and breaking the treaty, killed him; when he had been buried in the tombs of the kings by the people of the land, Nebuzaradan became indignant and had him dug up and thrown to the beasts to be devoured.  
+Various things in various places are said about Jehoiakim. For in 2 Kings 24:2 it is said that *the Lord sent robbers from the neighboring nations against him, to kill him; and he slept with his fathers*. But in 2 Chronicles 36, it is said that the king of Babylon came up against him and led him to Babylon as a captive. Josephus, however, says that when Nebuchadnezzar, or Nebuzaradan, had entered the city, he broke the treaty and killed many young men, among whom was also Jehoiakim. *(Josephus Scotus, *Epitome explanationum in Isaiam* (*Corpus Christianorum Continuatio Mediaevalis* [CCCM] 284), 5/6 on *Isaiah* 14, 18–20.)* Now this was said because he was unburied. And therefore, in order to bring all of this into harmony, one must know that Jehoiakim had been substituted for Jotham [Jehoahaz] his brother and that he reigned with the king of Egypt. Finally, in the eighth year of his reign, Nebuchadnezzar came against him, and Jehoiakim surrendered himself to him. He was also made tributary to him for two years. In the tenth year, however, he rebelled. For this reason, Nebuchadnezzar came against him and led him captive to Babylon; he made a treaty with him while en route, and he was returned to Jerusalem. But Nebuzaradan, having gathered together robbers from the neighboring nations, entered Jerusalem, and breaking the treaty, killed him; when he had been buried in the tombs of the kings by the people of the land, Nebuzaradan became indignant and had him dug up and thrown to the beasts to be devoured.  
 
-Second, against his princes, when he speaks of their destruction: ***go up to Lebanon***, the temple mount, ***in Bashan***, which lies next to the mount of Jerusalem.Figuratively. Bashan is a good distance north of Jerusalem to the east of the Sea of Galilee and south of Mt. Hermon in modern-day Syria. *You who tell good news to Zion go up a high mountain* (Isa 40:9). ***Lovers***, princes and defenders.  
+Second, against his princes, when he speaks of their destruction: ***go up to Lebanon***, the temple mount, ***in Bashan***, which lies next to the mount of Jerusalem. *(Figuratively. Bashan is a good distance north of Jerusalem to the east of the Sea of Galilee and south of Mt. Hermon in modern-day Syria.)* *You who tell good news to Zion go up a high mountain* (Isa 40:9). ***Lovers***, princes and defenders.  
 
 He also gives the reason here as arising from disobedience: ***I spoke to you in your abundance***, that is, when you abounded with good things given to you by me. As it says above: ***attend to the voice of the trumpet***. ***But they said, ‘We shall not attend’*** (Jer 6:17). And from ancient custom: ***this is your way***, namely, disobedience, ***from your youth***, from the time they came out of Egypt. *I have called you a transgressor from the womb* (Isa 48:8). As it says above: ***from of old you have broken my yoke, you have burst my chains asunder, and you have said, ‘I will not serve’*** (Jer 2:20).  
 
@@ -126,7 +126,7 @@ Lecture 3
 
 > ^22:25^ And I will give you into the hand of those who seek your soul, and into the hand of those whose face you fear, and into the hand of Nebuchadnezzar, king of Babylon, and into the hand of the Chaldeans.
 
-> ^22:26^ And I will send you,Heb. וְהֵֽטַלְתִּ֣י: *and I will hurl*. and your mother, who bore you, to a strange land, in which you were not born, and there you shall die:
+> ^22:26^ And I will send you, *(Heb. וְהֵֽטַלְתִּ֣י: *and I will hurl*.)* and your mother, who bore you, to a strange land, in which you were not born, and there you shall die:
 
 > ^22:27^ and they shall not return to the land unto which they lift up their soul to return there.
 

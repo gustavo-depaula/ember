@@ -48,7 +48,7 @@ First, because of the power of the lawgiver: *for the Lord of hosts has decreed,
 
 Second, because of his immutability: *I am God and I change not* (Mal 3:6); *the Lord is not a man, that he should lie, nor as the son of man, that he should be changed* (Num 23:19).  
 
-Third, because of the truth of the law: *all your commandments are truth* (Ps 118:86); *the lip of truth will be steadfast forever* (Prov 12:19); *truth remains and grows stronger eternally* (3 Ezra 4:38).3 Ezra is a deuterocanonical book featured in the Septuagint and again in the Vulgate translation that Thomas used.  
+Third, because of the truth of the law: *all your commandments are truth* (Ps 118:86); *the lip of truth will be steadfast forever* (Prov 12:19); *truth remains and grows stronger eternally* (3 Ezra 4:38). *(3 Ezra is a deuterocanonical book featured in the Septuagint and again in the Vulgate translation that Thomas used.)*  
 
 The Usefulness of Sacred Scripture  
 
@@ -82,7 +82,7 @@ The precepts of the king have two kinds: namely, one that establishes law; and a
 
 Hence, three kinds of precepts are distinguished, namely, the king’s, the herald’s, and the father’s.  
 
-And according to these three, the Old Testament is divided into three parts, as Jerome says in his prologue to the book of Kings.Jerome, "The Books of Samuel and Kings" (CPL 0591 R (A)).  
+And according to these three, the Old Testament is divided into three parts, as Jerome says in his prologue to the book of Kings. *(Jerome, "The Books of Samuel and Kings" (CPL 0591 R (A)).)*  
 
 The first part is contained in the law, which is as it were a precept proposed by the king himself: *the Lord is our king, the Lord is our lawgiver* (Isa 33:22).  
 
@@ -92,7 +92,7 @@ The third part is contained in the works of the hagiographers, who inspired by t
 
 Hence the hagiographers are called sacred writers or sacred scribes, from “agios” (that is, “sacred”) and “graphia” (that is, “writings”). And thus the precepts contained in them are as it were paternal: *my son, keep the commandments of your father* (Prov 6:20).  
 
-Jerome adds a fourth book as well, namely, the apocrypha, which is called apocrypha from “apo” (that is, “greatly”) and “cryphon” (that is, “obscure”) because there is doubt regarding their claims or authors.Jerome, "The Books of Samuel and Kings." Indeed, the Catholic Church receives some books in the number of Sacred Scriptures, whose claims are not doubted, but whose authors are. It is not that we are ignorant of who the authors of these books were, but because these men were not of noted authority. Therefore, they have their strength not from the authority of the authors, but more from the reception by the Church. Also because the same manner of speech is seen in them and in the hagiographies, they are reckoned with the same for the present.  
+Jerome adds a fourth book as well, namely, the apocrypha, which is called apocrypha from “apo” (that is, “greatly”) and “cryphon” (that is, “obscure”) because there is doubt regarding their claims or authors. *(Jerome, "The Books of Samuel and Kings.")* Indeed, the Catholic Church receives some books in the number of Sacred Scriptures, whose claims are not doubted, but whose authors are. It is not that we are ignorant of who the authors of these books were, but because these men were not of noted authority. Therefore, they have their strength not from the authority of the authors, but more from the reception by the Church. Also because the same manner of speech is seen in them and in the hagiographies, they are reckoned with the same for the present.  
 
 The Law  
 
@@ -126,7 +126,7 @@ first, the result of heredity, and this is in Joshua: *valiant in war was Joshua
 
 second, the destruction of armies, and this is in the book of Judges: *do to them as you did to Madian and to Sisara* (Ps 82:10);  
 
-third, the exaltation of the people, which is twofold, namely: privately of one person, and this is in Ruth; and publicly of all the people, even to the royal dignity, and this is in the book of Kings, which benefice God grants them: *and you were made exceeding beautiful* (Ezek 16:13). For these books are placed according to Jerome among the prophetic works.Jerome, "The Books of Samuel and Kings."  
+third, the exaltation of the people, which is twofold, namely: privately of one person, and this is in Ruth; and publicly of all the people, even to the royal dignity, and this is in the book of Kings, which benefice God grants them: *and you were made exceeding beautiful* (Ezek 16:13). For these books are placed according to Jerome among the prophetic works. *(Jerome, "The Books of Samuel and Kings.")*  
 
 In other books which are commonly called prophetic, the prophets declared divine rules for the observance of the law.  
 
@@ -146,13 +146,13 @@ The third part, which contains the hagiographic and the apocryphal books, is div
 
 By deeds, however, in two ways.  
 
-In one way, by instructing about the future through warning; and this is in Joshua, whom Jerome puts in the hagiographies.Jerome, "The Books of Samuel and Kings." For although one is a prophet because of the gift of prophecy, this is not his office, because he was not sent by the Lord to prophesy to the people. Hence what is said in Wisdom can be understood of him: *she knows signs and wonders before they be done* (Wis 8:8).  
+In one way, by instructing about the future through warning; and this is in Joshua, whom Jerome puts in the hagiographies. *(Jerome, "The Books of Samuel and Kings.")* For although one is a prophet because of the gift of prophecy, this is not his office, because he was not sent by the Lord to prophesy to the people. Hence what is said in Wisdom can be understood of him: *she knows signs and wonders before they be done* (Wis 8:8).  
 
 In another way, by speaking about the past as examples of virtue. There are four principal virtues, namely:  
 
 justice, which is the common good, an example of which is in Chronicles, in which the state of the whole people who are governed by justice is described.  
 
-Second is temperance, an example of which is in Judith; hence, Jerome says: *take Judith as the example of the chaste widow*.Jerome, *Prologue to Judith* (CPL 0591 R (A)). *You have done manfully because you have loved chastity* (Jdt 15:11).  
+Second is temperance, an example of which is in Judith; hence, Jerome says: *take Judith as the example of the chaste widow*. *(Jerome, *Prologue to Judith* (CPL 0591 R (A)).)* *You have done manfully because you have loved chastity* (Jdt 15:11).  
 
 Third is fortitude, which is composed of two things, namely, to attack; and an example of this is in the book of Maccabees; and to endure, and an example of this is in the book of Tobit: *now this trial the Lord therefore permitted to happen to him, that an example might be given to posterity of his patience* (Tob 2:12).  
 
@@ -168,11 +168,11 @@ one of which is to disclose the liar: and such is the book of Job, which destroy
 
 the other work is not to lie about that which it knows, and thus we are taught in two ways: because either wisdom is commended to us, and this is in the book of Wisdom; or the precepts of wisdom are explained, and this is in the three books of Solomon,  
 
-which indeed are divided according to the three levels of virtue that Plotinus distinguishes, because the principles of wisdom should be nothing but the acts of virtue.Plotinus, *Enneads*, *Ennead* 1, tr. 1, ch. 2, lin. 2–7.  
+which indeed are divided according to the three levels of virtue that Plotinus distinguishes, because the principles of wisdom should be nothing but the acts of virtue. *(Plotinus, *Enneads*, *Ennead* 1, tr. 1, ch. 2, lin. 2–7.)*  
 
 In the first level, according to him, are the political virtues, by which a man uses the things of this world with moderation and dwells among men, and this accords with the book of Proverbs.  
 
-In the second level, there are the purgative virtues, by which a men sets the things of this world aside with contempt, and this accords with Ecclesiastes which is ordered to contempt of the world, as Jerome states in his prologue.Jerome, "Preface to the Commentary on Ecclesiastes" (CPL 0583).  
+In the second level, there are the purgative virtues, by which a men sets the things of this world aside with contempt, and this accords with Ecclesiastes which is ordered to contempt of the world, as Jerome states in his prologue. *(Jerome, "Preface to the Commentary on Ecclesiastes" (CPL 0583).)*  
 
 In the third level, are virtues of the purged soul, by which a man, having thoroughly spurned the cares of the world, delights in only the contemplation of wisdom, and such an account is the Song of Songs.  
 
@@ -212,7 +212,7 @@ The Remaining Books of the New Testament
 
 The carrying out of the power of grace is shown in the progress of the Church, in which there are three things to consider.  
 
-First, the beginning of the Church; and this is treated in the Acts of the Apostles; hence, Jerome says: *the Acts of the Apostles seems to give the bare history and to clothe the infancy of the nascent Church*.The quote is actually located in Jerome, "To Paulinus" paragraph 9. See Jerome, *Epistulae* (CPL 0620), epist. 53, vol. 54, par. 9.  
+First, the beginning of the Church; and this is treated in the Acts of the Apostles; hence, Jerome says: *the Acts of the Apostles seems to give the bare history and to clothe the infancy of the nascent Church*. *(The quote is actually located in Jerome, "To Paulinus" paragraph 9. See Jerome, *Epistulae* (CPL 0620), epist. 53, vol. 54, par. 9.)*  
 
 Second, the progress of the Church; and the apostolic teaching in the canonical epistles is ordered to this.  
 

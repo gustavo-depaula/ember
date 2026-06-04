@@ -66,7 +66,7 @@ Lectio 2
 
 > ^16:16^ Ecce ego mittam piscatores multos, dicit Dominus, et piscabuntur eos. Et post haec mittam eis multos venatores, et venabuntur eos de omni monte et de omni colle, et de cavernis petrarum:
 
-> ^16:17^ quia oculi mei super omnesThe Sixto-Clementine Vulgate omits *omnes*. vias eorum. Non sunt absconditae a facie mea, et non fuit occultata iniquitas eorum ab oculis meis.
+> ^16:17^ quia oculi mei super omnes *(The Sixto-Clementine Vulgate omits *omnes*.)* vias eorum. Non sunt absconditae a facie mea, et non fuit occultata iniquitas eorum ab oculis meis.
 
 > ^16:18^ Et reddam primum duplices iniquitates, et peccata eorum, quia contaminaverunt terram meam in morticinis idolorum suorum et abominationibus suis impleverunt haereditatem meam.
 

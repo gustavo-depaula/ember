@@ -16,7 +16,7 @@
 
 > ^64:8^ And now, O Lord, you are our father, and we are clay: and you are our maker, and we all are the works of your hands.
 
-> ^64:9^ Be not angry enough,*Ne irascaris, Domine, satis*. DR: “be not very angry, O Lord.” O Lord, and remember no longer our iniquity: behold, see we are all your people.
+> ^64:9^ Be not angry enough, *(*Ne irascaris, Domine, satis*. DR: “be not very angry, O Lord.”)* O Lord, and remember no longer our iniquity: behold, see we are all your people.
 
 > ^64:10^ The city of your sanctuary is become a desert, Zion is made a desert, Jerusalem is desolate.
 
@@ -86,11 +86,11 @@ second, lack of divine help: ***you have hid your face***, of your mercy, ***and
 
 **1119**. ***And now, O Lord***. Here he sets out mercy. And concerning this, he does two things.  
 
-First, he asks for mercy, assigning the reason: ***you are our father***: *as clay is in the hand of the potter, so are we**Nos*. Vg.: *vos*. *in the hand of God**Manu Dei*. Vg.: *manu mea*. (Jer 18:6); *remember, I beseech you, that you have made me as the clay* (Job 10:9). And he offers the petition: ***be not angry enough***, that is, exceedingly, or according to what our merits demand: *remember not our former iniquities: let your mercies speedily prevent us* (Ps 78[79]:8).  
+First, he asks for mercy, assigning the reason: ***you are our father***: *as clay is in the hand of the potter, so are we* *(*Nos*. Vg.: *vos*.)* *in the hand of God* *(*Manu Dei*. Vg.: *manu mea*.)* (Jer 18:6); *remember, I beseech you, that you have made me as the clay* (Job 10:9). And he offers the petition: ***be not angry enough***, that is, exceedingly, or according to what our merits demand: *remember not our former iniquities: let your mercies speedily prevent us* (Ps 78[79]:8).  
 
-Second, he sets out their misery: ***behold***, Lord, ***see we*** are ***all***. ***The city of your sanctuary*** (*sancti*), that is, the sanctuary of the temple, namely, Jerusalem: *the enemy has put out his hand to all her desirable things* (Lam 1:10). And he wonders at his patience: ***will you refrain yourself, O Lord, upon these things?** Why look you upon our iniquities?**Iniquitates nostras*. Vg.: *iniqua agentes*. DR: “them that do unjust things.” (Hab 1:13).  
+Second, he sets out their misery: ***behold***, Lord, ***see we*** are ***all***. ***The city of your sanctuary*** (*sancti*), that is, the sanctuary of the temple, namely, Jerusalem: *the enemy has put out his hand to all her desirable things* (Lam 1:10). And he wonders at his patience: ***will you refrain yourself, O Lord, upon these things?** Why look you upon our iniquities?* *(*Iniquitates nostras*. Vg.: *iniqua agentes*. DR: “them that do unjust things.”)* (Hab 1:13).  
 
-**1120**. Note on the words, ***what things you have prepared for them that loveDiligentibus*. Vg.: *exspectantibus*. DR: “wait for.” ***thee*** (Isa 64:4), that God prepares for the saints,  
+**1120**. Note on the words, ***what things you have prepared for them that love*** *(*Diligentibus*. Vg.: *exspectantibus*. DR: “wait for.”)* ***thee*** (Isa 64:4), that God prepares for the saints,  
 
 first, a place of eternal rest: *if not, I would have told you: because I go to prepare a place for you* (John 14:2);  
 
@@ -104,7 +104,7 @@ fourth, a lamp of eternal light: *I have prepared a lamp for my anointed* (Ps 13
 
 first, of mortal stain: *you have stained your glory* (Sir 47:22[20]);  
 
-second, of negligence committed: *cursed be he that doth the work of the Lord negligently**Negligenter*. Vg.: *fraudulenter*. DR: “deceitfully.” (Jer 48:10);  
+second, of negligence committed: *cursed be he that doth the work of the Lord negligently* *(*Negligenter*. Vg.: *fraudulenter*. DR: “deceitfully.”)* (Jer 48:10);  
 
 third, of perverse intention: *if your eye scandalize you* (Matt 5:29);  
 

@@ -14,7 +14,7 @@ Prima in duas:
 
 in prima determinat principium peccati in primis parentibus;  
 
-in secunda autem principium quo contra peccatum juvabantur, circa medium 23The Mandonnet edition (1929) of Aquinas’s *Commentary on the Sentences* reads *XXXIII*. dist., ibi: *et quidem secundum animam rationalis fuit homo*.  
+in secunda autem principium quo contra peccatum juvabantur, circa medium 23 *(The Mandonnet edition (1929) of Aquinas’s *Commentary on the Sentences* reads *XXXIII*.)* dist., ibi: *et quidem secundum animam rationalis fuit homo*.  
 
 Prima in tres:  
 
@@ -54,7 +54,7 @@ unam, ibi: *ideoque serpens dictus est esse callidior cunctis animantibus terrae
 
 alteram, ibi: *hic quaeri solet quare mulier non horruit serpentem*.  
 
-Circa tertiumOther editions of Aquinas’s *Commentary on the Sentences* (hereafter, “Al.”) read *tria*. duo facit:  
+Circa tertium *(Other editions of Aquinas’s *Commentary on the Sentences* (hereafter, “Al.”) read *tria*.)* duo facit:  
 
 primo ostendit astutiam tentationis, investigando conditionem tentati;  
 
@@ -120,7 +120,7 @@ Respondeo dicendum, quod ad perfectam rationem tentationis tria concurrunt. Prim
 
 et secundum hunc modum invenitur tentatio in hominibus, secundum quod homo hominem tentat, ut experimentum sumat scientiae vel alterius quod in ipso est.  
 
-Sed aliquandoThe provisional Leonine edition of Aquinas’s *Commentary on the Sentences* (hereafter, “PLE”) reads *sed aliquando*, whereas Mandonnet reads *alia vero*. dicitur tentatio in qua salvantur duo ex his, scilicet manifestatio ignoti et intentio ejus: et hoc modo tentare dicitur Deus, ut patet in tentatione Abrahae; praeceptum enim de immolatione filii, tentatio ejus dicitur: quia per hoc manifestabatur qualis esset in obedientia et fide: hanc etiam manifestationem Deus intendebat. Sed tertium praedictorum huic tentationi defuit: non enim ad hoc tentavit Deus Abraham, ut fidei ejus cognitionem acciperet quam prius sciebat, sed ut aliis manifesta esset in exemplum.  
+Sed aliquando *(The provisional Leonine edition of Aquinas’s *Commentary on the Sentences* (hereafter, “PLE”) reads *sed aliquando*, whereas Mandonnet reads *alia vero*.)* dicitur tentatio in qua salvantur duo ex his, scilicet manifestatio ignoti et intentio ejus: et hoc modo tentare dicitur Deus, ut patet in tentatione Abrahae; praeceptum enim de immolatione filii, tentatio ejus dicitur: quia per hoc manifestabatur qualis esset in obedientia et fide: hanc etiam manifestationem Deus intendebat. Sed tertium praedictorum huic tentationi defuit: non enim ad hoc tentavit Deus Abraham, ut fidei ejus cognitionem acciperet quam prius sciebat, sed ut aliis manifesta esset in exemplum.  
 
 Alia vero tentatio est in qua salvatur unum tantum dictorum, scilicet manifestatio tentati, et sic dicitur caro tentare, vel mundus: quia in his cognoscitur manifeste virtus vel infirmitas mentis, sicut in bello cognoscitur virtus militis, quamvis hostes non impugnent ut cognoscant, sed ut vincant; unde ipsa impugnatio virtutis tentatio dicitur.  
 
@@ -132,7 +132,7 @@ Ad secundum dicendum, quod in tentatione daemonis est duplex finis. Unus ultimus
 
 Ad tertium et quartum patet solutio per illud quod jam supra dictum est, quia non salvatur ibi tentatio secundum quod includit omnia tria praedicta.  
 
-Ad quintum dicendum, quod solus diabolus dicitur tentare, non quia ipse sit semper immediatus tentator, sed quia ipse primo tentavit hominem, ex qua tentatione parata est aliis tentationibusThe Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *tentantibus*. via.  
+Ad quintum dicendum, quod solus diabolus dicitur tentare, non quia ipse sit semper immediatus tentator, sed quia ipse primo tentavit hominem, ex qua tentatione parata est aliis tentationibus *(The Parma edition (1856) of Aquinas’s *Commentary on the Sentences* here reads *tentantibus*.)* via.  
 
 Vel aliter dicendum quod diabolus solus dicitur tentare, quia illi soli et membris ejus convenit impugnare virtutem cum intentione occidendi hominem per peccatum; hoc autem caro non intendit, sed delectabili cognito perfrui: vel quia ipse utitur rebus mundi et carne sicut instrumentis ad tentandum hominem.  
 
@@ -142,7 +142,7 @@ Articulus 2
 
 Ad secundum sic proceditur. Videtur quod tentatio quae est ab hoste, etiam sit peccatum.  
 
-Potestas enim minor non potest intentionem potestatis majoris repellere. Sed potestas daemonis est major quam potestas hominis, ut dicitur Job 41:24: *non est super terram potestas quae ei possit comparari*.The Vulgate (Vulg.) reads: *comparetur ei*. Ergo cum intentio daemonis sit ut inducat homines ad peccandum, videtur quod homo semper quando ab eo tentatur peccet.  
+Potestas enim minor non potest intentionem potestatis majoris repellere. Sed potestas daemonis est major quam potestas hominis, ut dicitur Job 41:24: *non est super terram potestas quae ei possit comparari*. *(The Vulgate (Vulg.) reads: *comparetur ei*.)* Ergo cum intentio daemonis sit ut inducat homines ad peccandum, videtur quod homo semper quando ab eo tentatur peccet.  
 
 Praeterea, cum violentia excuset peccatum, ubi est major violentia, ibi minus peccatum. Sed, sicut in littera dicitur, gravior est tentatio quae est a carne quam ab hoste. Ergo cum illa quae est a carne sit peccatum, ut in littera dicitur, multo amplius illa quae est ab hoste, peccatum erit.  
 
@@ -158,11 +158,11 @@ Praeterea, ut Augustinus dicit, lib. 3 *De libero arbitrio*, cap. 18, *nullus pe
 
 Respondeo dicendum, quod peccatum unius non consistit in actu alterius, sed in actu proprio, prout dicitur Ezech. 18:20: *anima quae peccaverit, ipsa morietur*. In tentatione autem carnis, ipse appetitus illicitus, secundum quem aliquis tentari dicitur, est actus ejus qui tentatur; non enim sola caro concupiscit, sed conjunctum: et ideo talis tentatio est peccatum in eo qui tentatur. Tentatio autem quae est a mundo, vel ab hoste, est a principio extrinseco; unde actus non pertinet ad tentatum, sed passio tantum: et propter hoc non est peccatum in tali tentatione nisi per delectationem consensus, quia tunc tentatus incipit cooperari tentanti.  
 
-Ad primum ergo dicendum, quod quamvis potestas daemonis sit dupliciter major quam potestas hominis, tamen quantum ad aliquid non est major, scilicet quantum ad actus liberi arbitrii, qui cogi non possunt: quia horum actuum ipse homo dominus est, et non daemon; et ideo potest homo tentationi hostisParma: *ejus*. resistere.  
+Ad primum ergo dicendum, quod quamvis potestas daemonis sit dupliciter major quam potestas hominis, tamen quantum ad aliquid non est major, scilicet quantum ad actus liberi arbitrii, qui cogi non possunt: quia horum actuum ipse homo dominus est, et non daemon; et ideo potest homo tentationi hostis *(Parma: *ejus*.)* resistere.  
 
 Ad secundum dicendum, quod tentatio carnis pro tanto dicitur esse gravior, quia est ipsi tentato proximior, secundum quod per eam quodammodo in diversa desideria dividitur interioris et exterioris hominis. Nec tamen est ibi violentia absoluta: quia interior homo non cogitur sequi motum exterioris hominis; unde adhuc remanet ratio peccati, et magis quam in tentatione hostis, secundum quod ipsum desiderium est actus ipsius tentati, et quodammodo in potestate ejus.  
 
-Ad tertium dicendum, quod quamvis homo non possit vitare omnemParma omits *omnem*. tentationem carnis ita quod nullam habeat, potest tamen vitare hanc vel illam singulariter, et ita quodammodo est in potestate ejus. Sed tentatio quae est ab hoste, nullo modo.  
+Ad tertium dicendum, quod quamvis homo non possit vitare omnem *(Parma omits *omnem*.)* tentationem carnis ita quod nullam habeat, potest tamen vitare hanc vel illam singulariter, et ita quodammodo est in potestate ejus. Sed tentatio quae est ab hoste, nullo modo.  
 
 Ad quartum dicendum, quod daemon potestatem habet imprimendi in imaginationem, vel repraesentando aliqua sensibilia exterius, vel etiam turbando imaginationem interius: et quomodo hoc sit, supra in tractatu de angelis dictum est; et ideo secundum quod homo imprimit in nos, tentare dicitur. Haec autem impressio ex hoc non habet rationem peccati, cum non sit in appetitu, sed in apprehensione tantum; sed est tendens in peccatum quantum est de ratione tentantis.  
 
@@ -176,21 +176,21 @@ Articulus 3
 
 Primo per hoc quod dicitur Jacob 1:2: *omne gaudium existimate, fratres mei, cum in tentationes varias incideritis*. Sed illud de quo gaudendum est quando habetur, est appetendum quando non habetur. Ergo tentatio est appetenda.  
 
-Praeterea, illud in quo manifestatur bonum alicujus est appetendum. Sed virtus mentis in tentationibus ostenditur, et ibi quodammodo refloret. Ergo tentatio est appetenda.Parma: *ergo idem quod prius*, “the same follows as before.”  
+Praeterea, illud in quo manifestatur bonum alicujus est appetendum. Sed virtus mentis in tentationibus ostenditur, et ibi quodammodo refloret. Ergo tentatio est appetenda. *(Parma: *ergo idem quod prius*, “the same follows as before.”)*  
 
 Praeterea, illud quod est materia et organum virtutis, est appetendum. Sed sicut dicit Augustinus, tentatio cui non consentitur est materia exercendae virtutis. Ergo est appetenda.  
 
-Praeterea, illud sine quo non potest perveniri ad regnum est summoParma omits *summo*. studio appetendum. Sed tentatio est hujusmodi: quia *non* coronabitur *nisi* qui *legitime certaverit*, 2 Timoth. 2. Certamen autem spirituale sine tentatione non est. Ergo tentatio est appetenda.  
+Praeterea, illud sine quo non potest perveniri ad regnum est summo *(Parma omits *summo*.)* studio appetendum. Sed tentatio est hujusmodi: quia *non* coronabitur *nisi* qui *legitime certaverit*, 2 Timoth. 2. Certamen autem spirituale sine tentatione non est. Ergo tentatio est appetenda.  
 
 Praeterea, ut scribitur 2 Corinth. 12, Paulus petivit stimulum carnis a se removeri, per quem carnis tentatio intelligitur. Sed ibi dicit Glossa, quod ipse hoc petens nescivit quid peteret. Ergo videtur quod non est desiderandum extra tentationem esse.  
 
 Sed contra, illud quod debemus orare, debemus desiderare. Sed Dominus Matth. 6:13, docet nos orare, dicens: *et ne nos inducas in tentationem*. Ergo debemus desiderare tentationes a nobis removeri.  
 
-Praeterea, sicut voluntas nostra debet divinae voluntati esse conformis, ita a voluntate hostis debet esse discordans. Sed hostis vult et petit nos tentare, ut habetur Lucae 22:31: *ecce Satan*Vulg.: *Satanas*. *expetivit vos, ut cribraret sicut triticum*. Ergo tentationem velle non debemus.  
+Praeterea, sicut voluntas nostra debet divinae voluntati esse conformis, ita a voluntate hostis debet esse discordans. Sed hostis vult et petit nos tentare, ut habetur Lucae 22:31: *ecce Satan* *(Vulg.: *Satanas*.)* *expetivit vos, ut cribraret sicut triticum*. Ergo tentationem velle non debemus.  
 
-Respondeo dicendum, quod cum bonum sit objectum voluntatis et desiderii, eo modo aliquid est adamandum quo est bonum. Inter bona autem invenitur aliquod quod est bonum simpliciter et per se, sicut bona honesta, quae tamquam fines appetuntur sui gratia, etsi in aliud ducant: quia in omnibus honestis utilitas honestati coincidit, nisi in ultimo, quod est finis finium, quod propter se tantum cupiendumParma: *appetendum*. est.  
+Respondeo dicendum, quod cum bonum sit objectum voluntatis et desiderii, eo modo aliquid est adamandum quo est bonum. Inter bona autem invenitur aliquod quod est bonum simpliciter et per se, sicut bona honesta, quae tamquam fines appetuntur sui gratia, etsi in aliud ducant: quia in omnibus honestis utilitas honestati coincidit, nisi in ultimo, quod est finis finium, quod propter se tantum cupiendum *(Parma: *appetendum*.)* est.  
 
-Aliquid autem est quod in se bonitatem non habet unde appetatur,Parma: *aliquid tamen est quod in se bonitatem habet, non tamen appetitur*. si absolute consideretur, sed ex ordine ad finem bonitatem quamdam sortitur quae utilitas nominatur: et haec sunt tantum propter aliud appetenda, ut sectio membri propter sanitatem, et hujusmodi.  
+Aliquid autem est quod in se bonitatem non habet unde appetatur, *(Parma: *aliquid tamen est quod in se bonitatem habet, non tamen appetitur*.)* si absolute consideretur, sed ex ordine ad finem bonitatem quamdam sortitur quae utilitas nominatur: et haec sunt tantum propter aliud appetenda, ut sectio membri propter sanitatem, et hujusmodi.  
 
 Sed sciendum quod ad finem aliquem consequendum contingit aliquid dupliciter ordinari: per se scilicet et per accidens. Per se dico quod, quantum est in se, in finem debitum ductivum est; per accidens autem quod, quantum in se est, in aliud duceret, sed ex concursu alterius causae ducit ad finem ipsum; sicut qui comedit venenum ut moriatur, et contingit ex hoc sanitas. Cum ergo causa per accidens non sit proportionata ad effectum, sed solum causa per se, ex ordine ad finem qui est per accidens, non erit dicendum aliquid bonum vel appetibile simpliciter acceptum, sed solum concurrentibus omnibus quae ad hunc effectum determinant.  
 
@@ -226,7 +226,7 @@ Ad primum sic proceditur. Videtur non fuisse talis tentationis progressus, quali
 
 Invidia enim respectu superioris est; unde dicitur Job 5:2: *parvulum occidit invidia*. Sed Adam non erat superior daemone, ad minus reputatione daemonis, qui fuit superbissimus. Ergo non est ex invidia stimulatus ad tentandum.  
 
-Praeterea, in primo statu anima corpori omnino imperabat. Ergo diversitas quae erat ex parte corporis, nullo modo in animam redundabat. Sed mulier differebat a viro secundum corporis dispositionem; unde Philosophus, in 10 *Metaphysicor*. dicit quod mas et femina differunt differentiis materialibus. Ergo tunc temporis non oportebat quodPLE: *quod*; Mandonnet: *quo*. femina esset minus sapiens vel fortis quam vir; et ita nulla ratio videtur quare per mulierem ad virum tentando transierit.  
+Praeterea, in primo statu anima corpori omnino imperabat. Ergo diversitas quae erat ex parte corporis, nullo modo in animam redundabat. Sed mulier differebat a viro secundum corporis dispositionem; unde Philosophus, in 10 *Metaphysicor*. dicit quod mas et femina differunt differentiis materialibus. Ergo tunc temporis non oportebat quod *(PLE: *quod*; Mandonnet: *quo*.)* femina esset minus sapiens vel fortis quam vir; et ita nulla ratio videtur quare per mulierem ad virum tentando transierit.  
 
 Praeterea, tentatio est assimilatio boni ad fallendum, ut Cassiodorus, *Super Psal*., dicit. Si ergo iniquus persuasor tentare hominem disponebat, formam boni persuasoris, scilicet angeli, assumere debuit.  
 
@@ -242,7 +242,7 @@ Praeterea, ut Augustinus dicit, ordo tentationis interioris qui in nobis nunc ag
 
 Respondeo dicendum, quod, sicut Magister dixit, daemones quaedam possunt per naturae suae potestatem quae non possunt propter Dei vel angelorum cohibitionem; ita etiam et eorum astutia intellectus et nequitia voluntatis in multis impeditur, ut non faciant omne quod volunt, etiam quod ad finem suae intentionis conveniens astute vident; unde in tentatione primorum parentum diabolus aliquid fecit quod voluit, ut scilicet a muliere tentationem inciperet, et ut in aliena forma veniret; quod autem in forma serpentis veniret, non sponte elegit, sed ex permissione divina, quae eum alias species, in quibus magis posset latere, assumere prohibebat, ut in littera dicitur.  
 
-Ad primum ergo dicendum, quod diabolus homini invidebat, quem sibi superiorem futurum putabat, si illuc ascenderet unde ipse descenderat; et in hoc ipso jam superiorem quod ad bonum illud habendum paratus erat homo quod ipse daemon in perpetuum amiserat: nec in hoc aliquid ejus superbiae derogatur, quia superbia potius est in appetitu excellentiae quam in aestimatione, nisi prout aestimatio ex appetitu excellentiae nascitur, qui oculos mentis claudit. Unde superbi frequenter alios se superiores in multis aestimant, quae tamen multoPLE: *quae tamen multo*; Mandonnet: *qui tamen multa*. sibi magis digna esse cogitant, propter alia bona in quibus alios excedere videntur: et ideo ex ipsa superbia invidiae zelus oritur. Unde dicit Augustinus, 11 *Super Gen*., cap. 44: *amando quisque excellentiam suam, vel paribus invidet quod ei coaequantur, vel inferioribus ne sibi coaequentur, vel superioribus quod eis non coaequentur*.  
+Ad primum ergo dicendum, quod diabolus homini invidebat, quem sibi superiorem futurum putabat, si illuc ascenderet unde ipse descenderat; et in hoc ipso jam superiorem quod ad bonum illud habendum paratus erat homo quod ipse daemon in perpetuum amiserat: nec in hoc aliquid ejus superbiae derogatur, quia superbia potius est in appetitu excellentiae quam in aestimatione, nisi prout aestimatio ex appetitu excellentiae nascitur, qui oculos mentis claudit. Unde superbi frequenter alios se superiores in multis aestimant, quae tamen multo *(PLE: *quae tamen multo*; Mandonnet: *qui tamen multa*.)* sibi magis digna esse cogitant, propter alia bona in quibus alios excedere videntur: et ideo ex ipsa superbia invidiae zelus oritur. Unde dicit Augustinus, 11 *Super Gen*., cap. 44: *amando quisque excellentiam suam, vel paribus invidet quod ei coaequantur, vel inferioribus ne sibi coaequentur, vel superioribus quod eis non coaequentur*.  
 
 Ad secundum dicendum, quod alia est obedientia corporis ad animam in primo statu, et alia in ultimo. In primo enim statu sic erat subjectum corpus animae ut nihil in corpore contingere posset quod contra bonum animae foret vel quantum ad esse vel quantum ad operationem; nec tamen removebatur quin etiam tunc secundum diversitatem corporum diversa fuisset dignitas animarum, cum oporteat animae ad corpus proportionem esse, ut formae ad materiam, et motoris ad motum: et ideo mulier, etiam quantum ad animam, viro imperfectior erat. In ultimo vero statu talis erit subjectio ut etiam qualitas corporis sequatur virtutem mentis; unde secundum diversitatem meritorum erit anima unius alia dignior, et corpus gloriosius; unde non erit differentia propter sexum diversum.  
 
@@ -268,11 +268,11 @@ Praeterea, majori culpae major poena debetur. Sed peccatum Adae gravissime punit
 
 Praeterea, videtur quod etiam irremissibile fuerit. Quia bonum gratiae excedit bonum naturae. Angelus autem per peccatum a statu naturalium tantum cecidit, secundum opinionem illorum qui dicunt eos in naturalibus tantum creatos; homo autem etiam a statu gratiae cecidit. Cum ergo tantum casus sit gravior quantum gradus est altior, videtur quod irremissibilius fuerit peccatum Adae quam etiam daemonis.  
 
-Praeterea, bonum est potentiusAl.: *potius*. quam malum. Sed Adam per peccatum totam naturam humanam corrupit, quia in eo originaliter erat. Si ergo poenitere potuisset, et sic remedium peccati sui habere, videtur quod totam naturam humanam reintegrare potuisset: quod falsum est, quia hoc solus Filius Dei potuit. Ergo idem quod prius.  
+Praeterea, bonum est potentius *(Al.: *potius*.)* quam malum. Sed Adam per peccatum totam naturam humanam corrupit, quia in eo originaliter erat. Si ergo poenitere potuisset, et sic remedium peccati sui habere, videtur quod totam naturam humanam reintegrare potuisset: quod falsum est, quia hoc solus Filius Dei potuit. Ergo idem quod prius.  
 
 Sed contra, illud quod habet plures rationes mali, magis est malum. Sed Adam peccavit faciendo illud quod erat malum, solum quia prohibitum; multi autem peccant faciendo illud quod est utroque modo malum, et secundum se, et quia prohibitum. Ergo videtur quod multorum peccata graviora sint peccato Adae.  
 
-Praeterea, peccatum quod est ex certa malitia, gravius est peccato quod est per ignorantiam. Sed peccatum primum hominis fuit quodammodo per ignorantiam, ut infra patebit. Ergo videtur quod eo multa aliaPLE: *multa alia*; Mandonnet: *multa*. graviora sint, quae ex certa malitia geruntur.PLE: *geruntur*; Parma: *perpetrantur*; Mandonnet: *generantur*.  
+Praeterea, peccatum quod est ex certa malitia, gravius est peccato quod est per ignorantiam. Sed peccatum primum hominis fuit quodammodo per ignorantiam, ut infra patebit. Ergo videtur quod eo multa alia *(PLE: *multa alia*; Mandonnet: *multa*.)* graviora sint, quae ex certa malitia geruntur. *(PLE: *geruntur*; Parma: *perpetrantur*; Mandonnet: *generantur*.)*  
 
 Respondeo dicendum, quod in peccato possunt multa considerari, ex quibus peccatum gravitatem trahere potest; et contingit quod illud peccatum quod secundum unum est gravius, secundum aliud levius inveniatur. Illud tamen simpliciter gravius considerandum est quod secundum plura et potentiora gravius invenitur, et praecipue secundum speciem peccati: quia quantitas consequens speciem peccati, est peccato essentialior quam quae circumstantias peccati sequitur.  
 
@@ -286,7 +286,7 @@ Ad tertium dicendum, quod poena peccati Adae dupliciter sequitur. Una quae debet
 
 Ad quartum dicendum, quod quamvis gratia excedat naturam, tamen quia potentia naturalis est quae substantiam actus administrat, qui ex gratia informatur, ideo defectus naturalis boni magis excusat peccati actum quam etiam carentia gratiae; gratia enim non elevat hominem ut statim eliciat actum intellectus deiformis, quod tamen angelus ex natura habet: et ideo magis facit ad irremissibilitatem peccati superioritas naturae quam excessus gratiae. Causa tamen quare peccatum angeli est irremissibile, et non peccatum hominis, supra, in tractatu de angelis, dicta est.  
 
-Ad quintum dicendum, quod sicut homo per se gratiam amittere potest, nec tamen per se potest gratiam recuperare, quia gratia virtutem naturae excedit: ita etiam homo potuit integritatem innocentiae amittere, quae conditionem naturae excedebat, ut dictum est, nec tamen potuit eam recuperare nisi ille qui supra naturam erat: nam gratia quae postmodum Adae reddita creditur, non nisi ad actus personales se extendebat; unde naturam in illud quod supra se est, elevare non poterat, scilicet in originalem justitiam et impassibilitatem, quae supra conditionem principiorum naturae humanae erant.Parma and PLE: *erat*.  
+Ad quintum dicendum, quod sicut homo per se gratiam amittere potest, nec tamen per se potest gratiam recuperare, quia gratia virtutem naturae excedit: ita etiam homo potuit integritatem innocentiae amittere, quae conditionem naturae excedebat, ut dictum est, nec tamen potuit eam recuperare nisi ille qui supra naturam erat: nam gratia quae postmodum Adae reddita creditur, non nisi ad actus personales se extendebat; unde naturam in illud quod supra se est, elevare non poterat, scilicet in originalem justitiam et impassibilitatem, quae supra conditionem principiorum naturae humanae erant. *(Parma and PLE: *erat*.)*  
 
 Articulus 3  
 
@@ -302,7 +302,7 @@ Praeterea, quicumque potest id quod plus est, potest illud quod minus est. Sed p
 
 Praeterea, mortale peccatum magis repugnat rectitudini et gratiae, quam peccatum veniale. Sed rectitudo innocentiae non impediebat quin mortaliter peccare posset. Ergo multo minus impediebat quin etiam venialiter peccaret.  
 
-Praeterea, impossibile est quod aliquis credat vel aestimet illud de cujus contrario certus est. Sed Adam, ut dicit Augustinus, 14 *De civ. Dei*, cap. 11, credidit peccatum quod ipse committeret, veniale esse. Ergo ipse nesciebat se non posse venialiter peccare. Sed si non potuisset, scivisset se non posse: quia hoc nobilitatis in eo erat; et inconveniens est nos habere nobilissimos habitus et nos lateant,PLE: *et nos lateant*; Al.: *et nos latent*; Mandonnet: *qui nos lateant*. ut Philosophus dicit in 2 *Posterior*., c. 18. Ergo Adam venialiter peccare potuit.  
+Praeterea, impossibile est quod aliquis credat vel aestimet illud de cujus contrario certus est. Sed Adam, ut dicit Augustinus, 14 *De civ. Dei*, cap. 11, credidit peccatum quod ipse committeret, veniale esse. Ergo ipse nesciebat se non posse venialiter peccare. Sed si non potuisset, scivisset se non posse: quia hoc nobilitatis in eo erat; et inconveniens est nos habere nobilissimos habitus et nos lateant, *(PLE: *et nos lateant*; Al.: *et nos latent*; Mandonnet: *qui nos lateant*.)* ut Philosophus dicit in 2 *Posterior*., c. 18. Ergo Adam venialiter peccare potuit.  
 
 Si dicatur, quod non potuit peccare venialiter, quia non poterant inferiores vires averti nisi prius ratio superior averteretur;  
 
@@ -318,7 +318,7 @@ Ad primum ergo dicendum, quod duplex est dispositio. Quaedam est quae necessaria
 
 Ad secundum dicendum, quod Adam in primo statu habebat liberum arbitrium ad peccandum venialiter; sed hoc non poterat in actu exire, nisi prius peccaret mortaliter. Et ratio hujus dicta est.  
 
-Vel potest dici quod, comparando liberum arbitrium ad objectum suum, confirmatum non erat; sed comparando unum ordinem ad alium, habebat quamdam confirmationem, ut scilicet inferior ordo superiorem immobiliterParma: *inviolabiliter*. sequeretur.  
+Vel potest dici quod, comparando liberum arbitrium ad objectum suum, confirmatum non erat; sed comparando unum ordinem ad alium, habebat quamdam confirmationem, ut scilicet inferior ordo superiorem immobiliter *(Parma: *inviolabiliter*.)* sequeretur.  
 
 Ad tertium dicendum, quod differt in potentiis activis et passivis: quia in potentiis activis, quod potest in plus, etiam in minus potest; ut qui potest ferre centum libras, potest etiam ferre decem; in potentiis autem passivis est e converso: qui enim potest pati a parvo, potest etiam pati a majori, ut si aliquis potest vinci ab uno, potest etiam vinci a duobus; sed non convertitur: et talis potentia est potentia peccandi; qui enim peccat, a peccati sui concupiscentia vincitur.  
 

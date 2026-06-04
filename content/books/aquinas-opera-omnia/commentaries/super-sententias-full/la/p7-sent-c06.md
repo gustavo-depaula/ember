@@ -80,13 +80,13 @@ Sed tertio modo cooperatur aliqua creatura Deo in aliqua actione, non tamen in o
 
 Et quia recreatio animae rationalis creationi ipsius respondet, ideo in emundatione ipsius immediate operatur; nec aliquis ei quantum ad hoc cooperatur tertio modo, sed quarto; et hoc dupliciter: vel ex opere operante, sive docendo, sive merendo; et sic homines ei cooperantur in peccatorum remissione, de quibus dicitur 1 Corinth. 3, 9: *Dei adjutores sumus*, vel ex opere operato, sicut qui conferunt sacramenta, quae ad gratiam disponunt, per quam fit remissio peccatorum; et haec est cooperatio ministerii, quae ministris ecclesiae competit, de quibus dicitur 1 Corinth. 4, 1: *sic nos existimet homo ut ministros Christi*.  
 
-Ad primum ergo dicendum, quod potestas spiritualis quae ministris ecclesiae conceditur, ad aliquid interius se extendit, sicut virtus sacramentalis sed non ad collationem gratiae, per quam est remissio peccatorum, nisi dispensando,*dispensando*.—*disponendo* PLE. sicut et de sacramentis dictum est.  
+Ad primum ergo dicendum, quod potestas spiritualis quae ministris ecclesiae conceditur, ad aliquid interius se extendit, sicut virtus sacramentalis sed non ad collationem gratiae, per quam est remissio peccatorum, nisi dispensando, *(*dispensando*.—*disponendo* PLE.)* sicut et de sacramentis dictum est.  
 
 Unde patet solutio ad secundum.  
 
 Ad tertium dicendum, quod gratia non remittit culpam effective, sed formaliter, sicut albedo aufert nigredinem; et ideo non sequitur quod creaturae rationali competat, quae non est forma.  
 
-Ad quartum dicendum, quod est duplex operatio formae alicujus: scilicet prima, quae pertinet ad informationem subjecti sicut scientia et secunda, quae dicitur usus vel actio, sicut considerare. Primam ergo operationem non participat habens formam,*formam sed.—formam a forma sed* PLE. sed solum secundam. Remittere autem culpam competit gratiae quantum ad operationem primam; sicut albedo eadem ratione qua facit album, aufert et nigredinem a subjecto in quo est; et ideo non oportet quod habens gratiam, hoc per gratiam participet.  
+Ad quartum dicendum, quod est duplex operatio formae alicujus: scilicet prima, quae pertinet ad informationem subjecti sicut scientia et secunda, quae dicitur usus vel actio, sicut considerare. Primam ergo operationem non participat habens formam, *(*formam sed.—formam a forma sed* PLE.)* sed solum secundam. Remittere autem culpam competit gratiae quantum ad operationem primam; sicut albedo eadem ratione qua facit album, aufert et nigredinem a subjecto in quo est; et ideo non oportet quod habens gratiam, hoc per gratiam participet.  
 
 Ad quintum dicendum, quod purgatio, de qua Dionysius loquitur, est a tenebris ignorantiae, sicut ipsemet dicit; unde magis pertinet ad intellectum quam ad affectum.  
 
@@ -116,7 +116,7 @@ Praeterea, potestas excellentiae competit Christo secundum quod est caput eccles
 
 Sed contra, quidquid competit Christo secundum quod homo, potest et alii homini communicari. Sed potestas excellentiae, ut dictum est, competit Christo secundum quod homo est. Ergo potest aliis hominibus communicari.  
 
-Praeterea, ad potestatem excellentiae pertinet quod ad invocationem nominis Christi remissio peccatorum in ipso*ipso.—baptismo* PLE. detur. Sed potuit etiam hoc Deus conferre Petro vel Paulo, ut ad invocationem nominis ejus baptisma conferretur, ut dicit *Glossa* 1 Corinth., 1. Ergo potestas excellentiae potuit aliis conferri.  
+Praeterea, ad potestatem excellentiae pertinet quod ad invocationem nominis Christi remissio peccatorum in ipso *(*ipso.—baptismo* PLE.)* detur. Sed potuit etiam hoc Deus conferre Petro vel Paulo, ut ad invocationem nominis ejus baptisma conferretur, ut dicit *Glossa* 1 Corinth., 1. Ergo potestas excellentiae potuit aliis conferri.  
 
 Quaestiuncula 3  
 
@@ -144,7 +144,7 @@ Ad primum ergo dicendum, quod hoc intelligitur de potestate excellentiae quam Ch
 
 Ad secundum dicendum, quod auctoritas ibi accipitur non respectu emundationis, sed respectu institutionis sacramentorum, eis efficaciam praebendo per meritum baptizantis, quod ad potestatem excellentiae pertinet; et hoc potuit eis conferri. Vel dicendum, quod non loquitur de auctoritate prima sed de subauctoritate: quod patet ex eo quod sequitur in Glossa: *ita scilicet quod ipse principalis auctor existeret*.  
 
-Ad tertium dicendum, quod hominibus datur potestas expellendi daemones quantum ad effectum nocumenti corporalis, quem in vexatis faciunt, non autem quantum ad effectum spiritualis nocumenti, quod est peccatum*peccatum expellere.—peccatum quia hoc solius dei est peccatum* PLE. expellere, et a servitute daemonis liberare. Joan. 8, 36: *si Filius vos liberaverit, vere liberi eritis*.  
+Ad tertium dicendum, quod hominibus datur potestas expellendi daemones quantum ad effectum nocumenti corporalis, quem in vexatis faciunt, non autem quantum ad effectum spiritualis nocumenti, quod est peccatum *(*peccatum expellere.—peccatum quia hoc solius dei est peccatum* PLE.)* expellere, et a servitute daemonis liberare. Joan. 8, 36: *si Filius vos liberaverit, vere liberi eritis*.  
 
 Quaestiuncula 2  
 
@@ -180,7 +180,7 @@ Sed in creatione non sic est: quia non ens purum non est per se terminus creatio
 
 Vel dicendum, quod non est distantia infinita inter ens et non ens ex parte ipsius entis, nisi ens sit infinitum: quia tantum distat aliquid ab uno oppositorum, quantum participat de altero; unde non distat in infinitum a non esse nisi quod esse infinitum habet, scilicet Deus, cui quanto reliqua entia sunt proximiora, tanto magis a non esse distant, sicut Augustinus dicit in Lib. 12 *Confession*., quod angelus factus est prope Deum, materia prope nihil.  
 
-Sed verum est quod dicta distantia est quodammodo infinita ex parte non entis simpliciter, eo quod neque*neque.—omnem* PLE. determinatam distantiam ab aliquo ente signato transcendit, quia nihil potest magis distare ab ente quam non ens. Contingit enim aliquam distantiam esse infinitam ex una parte et finitam ex altera, sicut quandocumque fit comparatio finiti ad infinitum. Nisi enim esset aliquo modo talis distantia finita, non distaret minus una creatura a Deo quam altera; et nisi esset aliquo modo infinita, posset intelligi aliquid magis distans a creatura quacumque quam Deus. Creatio autem non respicit hanc distantiam ex parte non entis, sed magis ex parte entis, quod est creationis terminus.  
+Sed verum est quod dicta distantia est quodammodo infinita ex parte non entis simpliciter, eo quod neque *(*neque.—omnem* PLE.)* determinatam distantiam ab aliquo ente signato transcendit, quia nihil potest magis distare ab ente quam non ens. Contingit enim aliquam distantiam esse infinitam ex una parte et finitam ex altera, sicut quandocumque fit comparatio finiti ad infinitum. Nisi enim esset aliquo modo talis distantia finita, non distaret minus una creatura a Deo quam altera; et nisi esset aliquo modo infinita, posset intelligi aliquid magis distans a creatura quacumque quam Deus. Creatio autem non respicit hanc distantiam ex parte non entis, sed magis ex parte entis, quod est creationis terminus.  
 
 Ad sextum dicendum, quod latria debetur Creatori inquantum ipse est primum agens, cujus virtute omnia alia agunt, et ipse non agit virtute alterius; et hoc non potest alicui creaturae communicari.  
 

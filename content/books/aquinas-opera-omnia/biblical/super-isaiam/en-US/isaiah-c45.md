@@ -18,7 +18,7 @@
 
 > ^43:9^ All the nations are assembled together, and the tribes are gathered: who among you can declare this, and shall make us hear the former things? Let them bring forth their witnesses, let them be justified, and hear, and say: it is truth.
 
-> ^43:10^ You are my witnesses, says the Lord, and my servant whom I have chosen: that you may know, and believe me, and understand that I myself am. Before me there was no God who forms,*Formator*. Vg.: *formatus*. DR: “formed.” and after me there shall be none.
+> ^43:10^ You are my witnesses, says the Lord, and my servant whom I have chosen: that you may know, and believe me, and understand that I myself am. Before me there was no God who forms, *(*Formator*. Vg.: *formatus*. DR: “formed.”)* and after me there shall be none.
 
 > ^43:11^ I am, I am the Lord: and there is no savior besides me.
 
@@ -74,7 +74,7 @@ in the third, he sets out the sign of his love: ***thus says the Lord your redee
 
 **831**. Concerning the first, he promises them three remedies.  
 
-First, support in their punishments, excluding fear by the divine presence: ***that created you***, as to the principle of their substance: *is not he your father, that has possessed you, and made you, and created you?* (Deut 32:6), ***and formed you***, as to the form he gave them: *and the Lord God formed man* (Gen 2:7); ***I have redeemed you***, from evils: *I will deliver them out of the hand of death. I will redeem them from death* (Hos 13:14), ***and called you***, to grace: *I will call that which was not my people, my people* (Hos 1:9).Cf. Romans 9:25. He sets out the promise: ***when you shall pass through the waters***, the Egyptians; ***the rivers***, the Chaldeans; ***the fire***, the Greeks; ***the flames***, the Romans: for they were not entirely consumed: *we have passed through fire and water* (Ps 65[66]:12). And he assigns the reason for this: ***for I am the Lord***, above: ***for God himself is my savior*** (Isa 12:2).  
+First, support in their punishments, excluding fear by the divine presence: ***that created you***, as to the principle of their substance: *is not he your father, that has possessed you, and made you, and created you?* (Deut 32:6), ***and formed you***, as to the form he gave them: *and the Lord God formed man* (Gen 2:7); ***I have redeemed you***, from evils: *I will deliver them out of the hand of death. I will redeem them from death* (Hos 13:14), ***and called you***, to grace: *I will call that which was not my people, my people* (Hos 1:9). *(Cf. Romans 9:25.)* He sets out the promise: ***when you shall pass through the waters***, the Egyptians; ***the rivers***, the Chaldeans; ***the fire***, the Greeks; ***the flames***, the Romans: for they were not entirely consumed: *we have passed through fire and water* (Ps 65[66]:12). And he assigns the reason for this: ***for I am the Lord***, above: ***for God himself is my savior*** (Isa 12:2).  
 
 **832**. Second, he promises the commutation of their punishments, namely, that he would punish others in their place; and he sets out the commutation: ***I have given Egypt for your atonement***, that is, that I may be propitiated toward you, as though by the punishments of those who provoked you to sin by hoping in their help: ***Saba***, a city of Ethiopia: *the just is delivered out of distress: and the wicked shall be given up for him* (Prov 11:8). And he assigns the reason, namely, the love of God itself: ***since you became honorable***, that is, I made and reckoned you honorable; ***I will give men for you***, for your liberation: *surely Ephraim is an honorable son to me* (Jer 31:20).  
 
@@ -96,7 +96,7 @@ second, as to power: ***you are my witnesses*** (Isa 43:12).
 
 **835**. Concerning the first, he does two things.  
 
-First, he gives testimony, assigning men to give testimony: ***you are my witnesses***, ***my servant***, the people of Jacob, or Christ: *you shall be witnesses* (Acts 1:8); setting out the manner of knowing: ***that you may know***, as to those things which can be known about God by natural reason, ***and believe***, as to those things which are above reason, and thus, ***understand***, for ***unless you believe, you will not understand***, above (Isa 7:9), according to another reading;Namely, LXX. and setting out what is said by the witnesses, that he alone is God: ***that I***, alone, ***am***, God; ***there was no God who forms***, or formed, namely, no idol: *see that I alone am, and there is no other God besides me* (Deut 32:39). And that he alone is Lord: ***I am***, singularly, ***I am***, preeminently: *neither is there salvation in any other* (Acts 4:12).  
+First, he gives testimony, assigning men to give testimony: ***you are my witnesses***, ***my servant***, the people of Jacob, or Christ: *you shall be witnesses* (Acts 1:8); setting out the manner of knowing: ***that you may know***, as to those things which can be known about God by natural reason, ***and believe***, as to those things which are above reason, and thus, ***understand***, for ***unless you believe, you will not understand***, above (Isa 7:9), according to another reading; *(Namely, LXX.)* and setting out what is said by the witnesses, that he alone is God: ***that I***, alone, ***am***, God; ***there was no God who forms***, or formed, namely, no idol: *see that I alone am, and there is no other God besides me* (Deut 32:39). And that he alone is Lord: ***I am***, singularly, ***I am***, preeminently: *neither is there salvation in any other* (Acts 4:12).  
 
 Second, he gives a sign of his divinity: ***I have declared***, ***there was no strange one among you***, by which you could know: *O Israel, if you will hearken to me, there shall be no new god in you: neither shall you adore a strange god* (Ps 80:9–10[81:8–9]).  
 
@@ -142,7 +142,7 @@ Third, he shows that the benefit is given freely: ***I am***: *for your name’s
 
 **843**. The Lord liberates his saints from the fire (see 43:2),  
 
-of carnal temptation: *it is a fire that devours even to consumption**Consumptionem*. Vg.: *perditionem*. DR: “destruction.” (Job 31:12);  
+of carnal temptation: *it is a fire that devours even to consumption* *(*Consumptionem*. Vg.: *perditionem*. DR: “destruction.”)* (Job 31:12);  
 
 of temporal tribulation: *you have tried me by fire* (Ps 16[17]:3);  
 
@@ -168,7 +168,7 @@ of covetousness: *they sunk as lead in the mighty waters* (Exod 15:10), in which
 
 of adversity: *the waters are come in even unto my soul* (Ps 68:2[69:1]), in which they are suffocated by impatience;  
 
-of worldly power: *the waters over which she sits*. (Rev 17:1),*Aquae super quas sedet*. Vg.: *quae sedet super aquas multas*. DR: “who sitteth upon many waters.” in which they are suffocated by pride.  
+of worldly power: *the waters over which she sits*. (Rev 17:1), *(*Aquae super quas sedet*. Vg.: *quae sedet super aquas multas*. DR: “who sitteth upon many waters.”)* in which they are suffocated by pride.  
 
 **845**. We ought to put God in remembrance (see 43:26),  
 

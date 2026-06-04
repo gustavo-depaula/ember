@@ -38,7 +38,7 @@ But according to the second derivation, a prophet is so called because he is spe
 
 **19**. Concerning the second, it should be known that the modes of prophetic vision are distinguished according to those things in which foreknowledge of future contingencies are received.  
 
-This, however, is either an image*Species*. made in the senses and is called corporeal vision, because the senses accept images from the present bodies whose images they are; or it is an image received in the imagination and is called spiritual vision, because, in it, act and property are first manifested spiritually, which is to know a thing abstracted from matter; or it is an image existing only in the intellect and is called intellectual vision.  
+This, however, is either an image *(*Species*.)* made in the senses and is called corporeal vision, because the senses accept images from the present bodies whose images they are; or it is an image received in the imagination and is called spiritual vision, because, in it, act and property are first manifested spiritually, which is to know a thing abstracted from matter; or it is an image existing only in the intellect and is called intellectual vision.  
 
 And it should be known that prophecy is kept in these three as a potential whole in its parts, whose nature is that it is in one according its perfect power, and in the others there is a certain participation and mode of it; just as in the soul, because its whole power is preserved in the rational soul, the sensitive soul does not have the perfect power of the soul, and still less the vegetative soul. Because of this, Gregory says that plants do not live by soul but by vigor. Similarly, corporeal and spiritual (or imaginary) vision also are certain kinds of prophecy, but they cannot be called true prophecies unless intellectual vision is added, in which is the complete notion of prophecy: *for there is need of understanding in a vision* (Dan 10:1), which is preceded by: *and he* (that is, Daniel) *understood the word*. “Vision,” however, is first and properly applied to corporeal vision. And because all our knowledge comes from the senses, among which vision is the most powerful both in subtlety and universality, because it shows us more differences of things; therefore the name of seeing is transferred to other interior kinds of knowledge.  
 
@@ -72,7 +72,7 @@ To this is to be said that Isaiah prophesied principally against the two tribes,
 
 **25**. Likewise, it is asked why no mention is made of Manasseh king of Judah, under whom Isaiah also lived, when it is certain that he did not lose the spirit of prophecy.  
 
-To this is to be said that everything which was written in this book, he saw in the times of the prophets, but it was not fitting that a prophecy which is principally of consolation should be ended in a threat, or that the consolation of God should be preached in the time of a bad king who provoked the wrath of God: *I will give them up to the rage*Furorem*. Vulgate (Vg.): *fervorem*. of all the kingdoms of the earth* (Jer 15:4).  
+To this is to be said that everything which was written in this book, he saw in the times of the prophets, but it was not fitting that a prophecy which is principally of consolation should be ended in a threat, or that the consolation of God should be preached in the time of a bad king who provoked the wrath of God: *I will give them up to the rage *(*Furorem*. Vulgate (Vg.): *fervorem*.)* of all the kingdoms of the earth* (Jer 15:4).  
 
 Lecture 2  
 
@@ -84,7 +84,7 @@ Lecture 2
 
 > ^1:5 ^For what shall I strike you any more, you that increase transgression? The whole head is sick, and the whole heart is sad.
 
-> ^1:6 ^From the sole of the foot unto the top of the head, there is no soundness*Sanitas*. therein: wounds and bruises and swelling sores: they are not bound up, nor dressed, nor fomented with oil.
+> ^1:6 ^From the sole of the foot unto the top of the head, there is no soundness *(*Sanitas*.)* therein: wounds and bruises and swelling sores: they are not bound up, nor dressed, nor fomented with oil.
 
 > ^1:7 ^Your land is desolate, your cities are burnt with fire: your country strangers devour before your face, and it shall be desolate as when wasted by enemies.
 
@@ -140,13 +140,13 @@ in the second, he argues the deformity of the sin, where he says, ***I have brou
 
 in the third, he shows the incorrigibility of the sinners, where he says, ***for what shall I strike you any more, you that increase transgression?*** (Isa 1:5).  
 
-**28**. He asks creation to be witness to the judgment of the sin, which was also witness to the obligation of the precept: *hear, O you heavens, the things I speak* (Deut 32:1). For creation was witness of the obligation to the precept (Deut 32); now, however, it is invoked as judge of the transgression: *he shall call heaven from above, and the earth, to judge his people* (Ps 49[50]:4); but sometimes it is called as an instrument of divine vengeance: *creation*Douay-Rheims (DR): “the creature.” *serving its Creator*,*Creatori suo*. Vg.: *tibi factori*. *will blaze in punishment*Excandescet*. Vg.: *exardescit*. against the unjust* (Wis 16:24).  
+**28**. He asks creation to be witness to the judgment of the sin, which was also witness to the obligation of the precept: *hear, O you heavens, the things I speak* (Deut 32:1). For creation was witness of the obligation to the precept (Deut 32); now, however, it is invoked as judge of the transgression: *he shall call heaven from above, and the earth, to judge his people* (Ps 49[50]:4); but sometimes it is called as an instrument of divine vengeance: *creation* *(Douay-Rheims (DR): “the creature.”)* *serving its Creator*, *(*Creatori suo*. Vg.: *tibi factori*.)* *will blaze in punishment *(*Excandescet*. Vg.: *exardescit*.)* against the unjust* (Wis 16:24).  
 
 **29**. But it seems unsuitable that earth and heaven, which are insensible creatures, should be called to hear.  
 
 But it should be said that an insensible creature is called to things which are proper to a rational nature,  
 
-to show divine power: *I set my bounds*Conclusi*. Vg.: *circumdedit*. around it* (Job 38:10); and: *he calls those things that are not, as those that are* (Rom 4:17);  
+to show divine power: *I set my bounds *(*Conclusi*. Vg.: *circumdedit*.)* around it* (Job 38:10); and: *he calls those things that are not, as those that are* (Rom 4:17);  
 
 for evidence of a fact: *I will do this thing in the sight of all Israel, and in the sight of the sun* (2 Sam 12:12); and: *I say to you that if these remain silent, the stones will cry out* (Luke 19:40);  
 
@@ -212,7 +212,7 @@ and second, shows their turning away: ***they have forsaken the Lord***.
 
 He shows the confirmation first through the custom of sin, which gives rise to habit: hence he says, ***the sinful nation***; for a sinner is such out of habit just as a singer is such out of art or office, below: ***I have called you a transgressor from the womb*** (Isa 48:8).  
 
-Second, through the promptness of sin, which is like a sort of gravity in the sinner: Gregory: *a sin which is not washed away by penance quickly draws to another by its own weight*;*Moralia* 25.9 (PL 76, 334B–C). *their feet are swift to shed blood* (Ps 13:3).  
+Second, through the promptness of sin, which is like a sort of gravity in the sinner: Gregory: *a sin which is not washed away by penance quickly draws to another by its own weight*; *(*Moralia* 25.9 (PL 76, 334B–C).)* *their feet are swift to shed blood* (Ps 13:3).  
 
 Third, from the succession of sin, because, imitating the sins of their fathers, they have them as if from propagation; hence he says, ***a wicked seed***, that is, ***seed of the worst***, according to another translation: *we have sinned with our fathers: we have acted unjustly, we have wrought iniquity* (Ps 105[106]:6).  
 
@@ -226,7 +226,7 @@ Second, that which is through the counsel or help of a neighbor, where he says, 
 
 And he shows this as to the person of the king or prince, saying, ***the whole head is sick***: *when you were a little one in your own eyes, were you not made the head of the tribes of Israel?* (1 Sam 15:17).  
 
-As to the person of the priest, ***the whole heart is sad***: for the heart receives life first from the soul and transfuses it into the body, as a medium between the soul and the body; just so the priest is a medium between God and the people: *you will be to them**Tu eris ei*. Vg.: *esto tu populo*. DR: “be thou to the people.” *in those things that pertain to God* (Exod 18:19).  
+As to the person of the priest, ***the whole heart is sad***: for the heart receives life first from the soul and transfuses it into the body, as a medium between the soul and the body; just so the priest is a medium between God and the people: *you will be to them* *(*Tu eris ei*. Vg.: *esto tu populo*. DR: “be thou to the people.”)* *in those things that pertain to God* (Exod 18:19).  
 
 As to the person of the private individual, when he says, ***from the sole of the foot***, below: ***all have turned aside into their own way* **(Isa 56:11).  
 
@@ -246,13 +246,13 @@ second, any solace of consolation, where it says, ***except the Lord of hosts ha
 
 He sets out a threefold punishment.  
 
-First, as to the destruction of their possessions; hence he says, ***your land is desolate***, as to the plains, which thus uncultivated will be as the desert, below: ***for briers and thorns shall be in all the land*** (Isa 7:24). ***Your cities are burnt with fire***, as to the cities: *and I will send a fire into Moab, and it shall devour the houses of Jerusalem*Vg.: C*arioth*. (Amos 2:2); *I looked, and behold Carmel was a wilderness: and all its cities were destroyed at the presence of the Lord, and at the presence of the wrath of his indignation* (Jer 4:26).  
+First, as to the destruction of their possessions; hence he says, ***your land is desolate***, as to the plains, which thus uncultivated will be as the desert, below: ***for briers and thorns shall be in all the land*** (Isa 7:24). ***Your cities are burnt with fire***, as to the cities: *and I will send a fire into Moab, and it shall devour the houses of Jerusalem* *(Vg.: C*arioth*.)* (Amos 2:2); *I looked, and behold Carmel was a wilderness: and all its cities were destroyed at the presence of the Lord, and at the presence of the wrath of his indignation* (Jer 4:26).  
 
 The second punishment is as to the destruction of the products of the soil: hence he says, ***your country strangers devour before your face***, as to its fruit: *it will devour the fruit of your cattle, and the fruits of your land, until you be destroyed* (Deut 28:49). ***It shall be desolate***, as to the destruction of trees and vineyards: *woe unto us, for we are laid waste* (Jer 4:13).  
 
 Third, as to the captivity of men: hence he says, ***the daughter of Zion shall be left***, that is, Jerusalem or the temple, from which came the protection of the whole province, as it was solitary and ***as a covert in a vineyard*** after the harvest, below: ***for the vineyard of the Lord of hosts is the house of Israel: and the man of Judah, his pleasant plant*** (Isa 5:7); ***as a lodge in a garden of cucumbers***, after the last fruits have been collected, through which he signifies their fathers: *I saw their fathers like the first fruits of the fig tree in the top thereof* (Hos 9:10); ***as a city that is laid waste***, because it was the metropolis: *the city is laid waste* (Ezek 33:21), said he who had come from Jerusalem: *this is the city to be visited, all oppression is in the midst of her* (Jer 6:6).  
 
-**38**. ***Except the Lord of hosts had left us seed***. Here he sets out consolation from the promise to liberate their seed. The Lord, however, left to them the gathered seed of the flesh, below: ***I will bring your seed from the east, and gather you from the west*** (Isa 43:5); the promised seed of blessing: *to Abraham were the promises made and to his seed* (Gal 3:16); the scattered seed of preaching, below: ***when he shall rush out fromEgredietur impetu a*. Vg.: *ingredituntur impetu ad*. DR: “they shall rush in unto.” ***Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed*** (Isa 27:6); the new seed of the saints, below: ***as the new heavens, and the new earth, which I will make to stand before me, says the Lord: so shall your seed stand, and your name*** (Isa 66:22).  
+**38**. ***Except the Lord of hosts had left us seed***. Here he sets out consolation from the promise to liberate their seed. The Lord, however, left to them the gathered seed of the flesh, below: ***I will bring your seed from the east, and gather you from the west*** (Isa 43:5); the promised seed of blessing: *to Abraham were the promises made and to his seed* (Gal 3:16); the scattered seed of preaching, below: ***when he shall rush out from*** *(*Egredietur impetu a*. Vg.: *ingredituntur impetu ad*. DR: “they shall rush in unto.”)* ***Jacob, Israel shall blossom and bud, and they shall fill the face of the world with seed*** (Isa 27:6); the new seed of the saints, below: ***as the new heavens, and the new earth, which I will make to stand before me, says the Lord: so shall your seed stand, and your name*** (Isa 66:22).  
 
 **39**. ***I have brought up children*** (Isa 1:2). Here three things are to be noted: the benefit of their upbringing, the privilege of their exaltation, and the contempt of their ingratitude. Indeed, he brought them up in the time of the law, when the heir was still a little child (Gal 4:1):  
 
@@ -290,7 +290,7 @@ they kill his disciples: *behold I send you as sheep in the midst of wolves* (Ma
 
 Lecture 3  
 
-^1:10^ Hear the word of the Lord, you rulers of Sodom, receive with your ears*Percipite auribus*. DR: “give ear.” the law of your God, you people of Gomorrah.  
+^1:10^ Hear the word of the Lord, you rulers of Sodom, receive with your ears *(*Percipite auribus*. DR: “give ear.”)* the law of your God, you people of Gomorrah.  
 
 > ^1:11 ^To what purpose do you offer me the multitude of your victims, says the Lord? I am full, I desire not holocausts of rams, and fat of fatlings, and blood of calves, and lambs, and buck goats.
 
@@ -350,7 +350,7 @@ Next, he gives the reason for the rejection, saying, ***I am full***, either bec
 
 **45**. Second, he rejects the sacrifices which were offered wholly to God.  
 
-And first, he places the rejection of these three animals;I.e., sheep, cattle, and goats. and he mentions only three animals, because the sacrifices which were from the herd were made only from these; holocausts were also made from turtledoves and the young of doves, but these were because of the deprivation of poverty, as is evident from Leviticus 1 and 4 and many other passages; and again the use of these was not universal in all sacrifices, since peace offerings were not offered from them.  
+And first, he places the rejection of these three animals; *(I.e., sheep, cattle, and goats.)* and he mentions only three animals, because the sacrifices which were from the herd were made only from these; holocausts were also made from turtledoves and the young of doves, but these were because of the deprivation of poverty, as is evident from Leviticus 1 and 4 and many other passages; and again the use of these was not universal in all sacrifices, since peace offerings were not offered from them.  
 
 Next he sets out the reason for the rejection, where it says, ***when you came to appear before me, who required these things at your hands, that you should walk in my courts?*** As if to say, you offend me more walking in my courts and polluting them than your holocaust would please me, thus I do not accept this communion: *burnt offering and sin offering you didst not require* (Ps 39:7[40:6]); *I spoke not to your fathers, and I commanded them not, in the day that I brought them out of the land of Egypt, concerning the matter of burnt offerings and sacrifices. But this thing I commanded them, saying: hearken to my voice, and I will be your God, and you shall be my people* (Jer 7:22–23).  
 
@@ -380,7 +380,7 @@ Lecture 4
 
 ^1:13b^ The new moons, and the sabbaths and other festivals I will not abide, your assemblies are wicked.  
 
-> ^1:14 ^My soul hates your kalends,DR: “your new moons.” and your solemnities: they are become troublesome to me, I laborDR: “I am weary of.” bearing them.
+> ^1:14 ^My soul hates your kalends, *(DR: “your new moons.”)* and your solemnities: they are become troublesome to me, I labor *(DR: “I am weary of.”)* bearing them.
 
 > ^1:15 ^And when you stretch forth your hands, I will turn away my eyes from you: and when you multiply prayer, I will not hear: for your hands are full of blood.
 
@@ -398,13 +398,13 @@ Lecture 4
 
 And first, as to the future, he sets out a proposition of prohibition, saying, ***the new moons***: *blow up the trumpet on the new moon, on the noted day of your solemnity* (Ps 80:4[81:3]); ***sabbaths*** (Exod 20:8); ***other festivals***: *these are the feasts of the Lord which you shall call most solemn and most holy* (Lev 23:37). ***Your assemblies are wicked***, below: ***behold in the day of your fast your own will is found, and you exact of all your debtors*** (Isa 58:3).  
 
-Second, where it says, ***your kalends***, as to the present, he sets out hatred, saying: ***kalends***, which are called ***new moons*** above; hence, in another Psalm: *take up the trumpet at the beginning of the month* (80:4[81:3]).In the Roman Psalter, *Canite in initio mensis tuba*, as Introit for Ember Wednesday of September in the Dominican Gradual. *The Lord has caused feasts and sabbaths to be forgotten in Zion: and has delivered up king and priest to reproach, and to the indignation of his wrath* (Lam 2:6).  
+Second, where it says, ***your kalends***, as to the present, he sets out hatred, saying: ***kalends***, which are called ***new moons*** above; hence, in another Psalm: *take up the trumpet at the beginning of the month* (80:4[81:3]). *(In the Roman Psalter, *Canite in initio mensis tuba*, as Introit for Ember Wednesday of September in the Dominican Gradual.)* *The Lord has caused feasts and sabbaths to be forgotten in Zion: and has delivered up king and priest to reproach, and to the indignation of his wrath* (Lam 2:6).  
 
 Third, as to the past, he sets out weariness, saying, ***they are become troublesome to me***, and he sets out two things:  
 
 the gravity of the weight, ***they are become troublesome***: *as a heavy burden are become heavy upon me* (Ps 37:5);  
 
-second, the labor of the carrier: ***I labor bearing them***. Below: ***you have given me labor***DR: “wearied me.” ***with your iniquities*** (Isa 43:24).  
+second, the labor of the carrier: ***I labor bearing them***. Below: ***you have given me labor*** *(DR: “wearied me.”)* ***with your iniquities*** (Isa 43:24).  
 
 And he speaks of God according to human manner, because it is said to be heavy for man to labor in what does not please him.  
 
@@ -418,7 +418,7 @@ Concerning the first, he does two things:
 
 first, he rejects their prayers as to the sign of devotion, where it says, ***and when you stretch forth your hands***: *let us lift up our hearts with our hands to the Lord in the heavens* (Lam 3:41); and below: ***I have spread forth my hands all the day to an unbelieving people, who walk in a way that is not good*** (Isa 65:2);  
 
-second, as regards the length of prayer: he that turns away *his ear**Aurem*. Vg.: *aures*. DR: “ears.” *from hearing the law, his prayer shall be an abomination* (Prov 28:9).  
+second, as regards the length of prayer: he that turns away *his ear* *(*Aurem*. Vg.: *aures*. DR: “ears.”)* *from hearing the law, his prayer shall be an abomination* (Prov 28:9).  
 
 ***For your hands are full of blood***, which you have shed: *their feet are swift to shed blood* (Ps 13:3); *restrain your foot from their paths. For their feet run to evil, and make haste to shed blood* (Prov 1:15–16).  
 
@@ -456,7 +456,7 @@ second, that they fulfill it in deed, where it says, ***relieve the oppressed***
 
 For someone does good in ordering himself, and as to this he says, ***learn to do well***: *be you instructed, O Jerusalem, lest my soul depart from you, lest I make you desolate, a land uninhabited* (Jer 6:8); in regard to one’s neighbor, and he says, ***seek judgment***: *the cause which I knew not, I searched out most diligently* (Job 29:16); *stand on the ways, and see, and ask for the old paths* (Jer 6:16).  
 
-**54**. ***Relieve the oppressed***. Here he places the fulfillment of the work in assisting the needy. However, one can be made needy either by violence, and as to this he says, ***relieve the oppressed***: *deliver them that are led to death: and those that are drawn to death, forbear not to deliver* (Prov 24:11); or the ignorance of youth: ***judge for the fatherless***: in judging be to*Esto*. Vg.: *esto misericors*. DR: “be merciful to.” *the fatherless as a father* (Sir 4:10); or the weakness of one’s sex: ***defend the widow***: *the ear that heard me blessed me, and the eye that saw me gave witness to me* (Job 29:11).  
+**54**. ***Relieve the oppressed***. Here he places the fulfillment of the work in assisting the needy. However, one can be made needy either by violence, and as to this he says, ***relieve the oppressed***: *deliver them that are led to death: and those that are drawn to death, forbear not to deliver* (Prov 24:11); or the ignorance of youth: ***judge for the fatherless***: in judging be to *(*Esto*. Vg.: *esto misericors*. DR: “be merciful to.”)* *the fatherless as a father* (Sir 4:10); or the weakness of one’s sex: ***defend the widow***: *the ear that heard me blessed me, and the eye that saw me gave witness to me* (Job 29:11).  
 
 **55**. ***And then come***. Here he promises the effect, and concerning this he sets out three things.  
 
@@ -466,7 +466,7 @@ Second, the ending of evils: ***if your sins be as scarlet, they shall be made a
 
 that which is from burning love, which he indicates by scarlet because of its intense redness, against which he places the whiteness of cold snow: *if I be washed, as it were, with snow waters, and my hands shall shine ever clean* (Job 9:30–31);  
 
-and that which is from deadening fear, which is indicated by crimson, whose color approaches whiteness, against which he places wool: *in the multitude of diverse riches,Vg. adds *in vino pingui*. DR: “in rich wine.” in wool of the best color* (Ezek 27:18); *his garment was like white snow,*Sicut nix candidum*. Vg.: *candidum quasi nix*. DR: “white as snow.” and the hair of his head like clean wool* (Dan 7:9).  
+and that which is from deadening fear, which is indicated by crimson, whose color approaches whiteness, against which he places wool: *in the multitude of diverse riches, *(Vg. adds *in vino pingui*. DR: “in rich wine.”)* in wool of the best color* (Ezek 27:18); *his garment was like white snow, *(*Sicut nix candidum*. Vg.: *candidum quasi nix*. DR: “white as snow.”)* and the hair of his head like clean wool* (Dan 7:9).  
 
 Third, the restoration of good things is set out: ***if you be willing, and will hearken to me, you shall eat the good things of the land***. *I believe to see the good things of the Lord in the land of the living* (Ps 26[27]:13); ***you shall eat***, below: ***behold my servants shall eat, and you shall be hungry*** (Isa 65:13).  
 
@@ -488,7 +488,7 @@ Lecture 5
 
 > ^1:24 ^Therefore says the Lord the God of hosts, the mighty one of Israel: ah! I will comfort myself over my adversaries: and I will be revenged of my enemies.
 
-> ^1:25^ And I will turn my hand to you, and I will boil away unto purity*Excoquam ad puram*. DR: “I will clean purge away.” your dross, and I will take away all your tin.
+> ^1:25^ And I will turn my hand to you, and I will boil away unto purity *(*Excoquam ad puram*. DR: “I will clean purge away.”)* your dross, and I will take away all your tin.
 
 > ^1:26 ^And I will restore your judges as they were before, and your counsellors as of old. After this you shall be called the city of the just, a faithful city.
 
@@ -496,7 +496,7 @@ Lecture 5
 
 > ^1:28 ^And he shall destroy the wicked, and the sinners together: and they that have forsaken the Lord, shall be consumed.
 
-> ^1:29^ For they shall be confounded byDR: “for.” the idols, to which they have sacrificed: and you shall be ashamed of the gardens which you have chosen.
+> ^1:29^ For they shall be confounded by *(DR: “for.”)* the idols, to which they have sacrificed: and you shall be ashamed of the gardens which you have chosen.
 
 > ^1:30 ^When you shall be as an oak with the leaves falling off, and as a garden without water.
 
@@ -530,9 +530,9 @@ Second, in relaxing the severity of discipline, which is signified by wine, for 
 
 **59**. ***Your princes are faithless***. Here he denounces the sin of the princes.  
 
-And first, he shows that they are unfaithful in executing their office, because they do so for their own advantage and not that of the people: *that anoint themselves with the best ointments, that drink wine in bowls* (Amos 6:6); *woe to the shepherds of Israel, that feed*Pascunt*. Vg.: *pascebant*. DR: “fed.” themselves: should not the flocks be fed by the shepherds?* (Ezek 34:2); and because of this, he says they are ***faithless***.  
+And first, he shows that they are unfaithful in executing their office, because they do so for their own advantage and not that of the people: *that anoint themselves with the best ointments, that drink wine in bowls* (Amos 6:6); *woe to the shepherds of Israel, that feed *(*Pascunt*. Vg.: *pascebant*. DR: “fed.”)* themselves: should not the flocks be fed by the shepherds?* (Ezek 34:2); and because of this, he says they are ***faithless***.  
 
-Second, he shows that they are transgressors in receiving evildoers: ***companions of thieves***, defending them and pleading their causes: *like the jaws of highway robbers are the princes of the priests**Principes sacerdotum*. Vg.: *particeps sacerdotum*. DR: “they conspire with the priests.” (Hos 6:9); *son, walk not you with them* (Prov 1:15).  
+Second, he shows that they are transgressors in receiving evildoers: ***companions of thieves***, defending them and pleading their causes: *like the jaws of highway robbers are the princes of the priests* *(*Principes sacerdotum*. Vg.: *particeps sacerdotum*. DR: “they conspire with the priests.”)* (Hos 6:9); *son, walk not you with them* (Prov 1:15).  
 
 Third, he shows that they are corrupt in receiving bribes, below: ***woe to you that justify the wicked for gifts, and take away the justice of the just from him*** (Isa 5:23); hence he says, ***they all love bribes***, received, they run after rewards, promised or hoped for.  
 
@@ -546,9 +546,9 @@ second, of the subjects, where it says, ***and I will turn my hand to you*** (Is
 
 Concerning the first, he sets out three things.  
 
-First, the power of the one who punishes in authority, saying, ***the Lord***: *if I be a master, where is my fear, says the Lord* (Mal 1:6); in the multitude of his ministers: ***the God of hosts***: *is there any numbering of his soldiers?* (Job 25:3); in multitude,*Multitudine*, but some editions have *fortitudine*. ***the mighty one***: *he is wise in heart, and mighty in strength: who has resisted him, and has had peace?* (Job 9:4).  
+First, the power of the one who punishes in authority, saying, ***the Lord***: *if I be a master, where is my fear, says the Lord* (Mal 1:6); in the multitude of his ministers: ***the God of hosts***: *is there any numbering of his soldiers?* (Job 25:3); in multitude, *(*Multitudine*, but some editions have *fortitudine*.)* ***the mighty one***: *he is wise in heart, and mighty in strength: who has resisted him, and has had peace?* (Job 9:4).  
 
-Second, he sets out the will of the one who punishes: ***ah***, namely, to them, ***I will comfort myself***, because my comfort will be their punishment. Below: ***the day of vengeance is in my heart, the year of my retributionRetributionis*. Vg.: *redemptionis*. DR: “redemption.” ***is come*** (Isa 63:4).  
+Second, he sets out the will of the one who punishes: ***ah***, namely, to them, ***I will comfort myself***, because my comfort will be their punishment. Below: ***the day of vengeance is in my heart, the year of my retribution*** *(*Retributionis*. Vg.: *redemptionis*. DR: “redemption.”)* ***is come*** (Isa 63:4).  
 
 Third, he sets out the harshness of the punishment, where it says, ***and I will be revenged of my enemies***, as if to say, I will punish you like enemies: *I will render vengeance to my enemies, and repay them that hate me* (Deut 32:41).  
 
@@ -564,7 +564,7 @@ Third, the multitude of punishments: ***I will take away all your tin***, becaus
 
 And first, as to those corrected, renewal;  
 
-second, as to the obstinate, consumption, where it says, ***and he shall destroy the wicked*** (Isa 1:28): *for by the same fire*, as Augustine says, *gold is tested and chaff smokes*.*De civitate Dei* 1.8.2 (PL 41, 21A; CCL 47, 8).  
+second, as to the obstinate, consumption, where it says, ***and he shall destroy the wicked*** (Isa 1:28): *for by the same fire*, as Augustine says, *gold is tested and chaff smokes*. *(*De civitate Dei* 1.8.2 (PL 41, 21A; CCL 47, 8).)*  
 
 Concerning the first, he does three things:  
 
@@ -574,9 +574,9 @@ second, as to the restoration of their reputation, where it says, ***after this 
 
 third, as to the observation of justice, where it says, ***Zion shall be redeemed in judgment*** (Isa 1:27).  
 
-Therefore, he says, ***I will restore your judges***, as to the secular princes, to whom it belongs to judge the people, ***and your counselors***, that is, the priests, to whom it belongs to manifest the counsel of God to the people: *the lips of the priests*Sacerdotum*. Vg.: *sacerdotis*. shall keep knowledge, and they shall seek the law at his mouth: because he is the Angel of the Lord of hosts* (Mal 2:7); ***as they were before***, as Moses and Joshua, who pleased God: *I will give you pastors according to my own heart, and they shall feed you with knowledge and doctrine* (Jer 3:15). ***You shall be called***, that is, you will recover your reputation, so that you are said to be as you had been before, ***the city of the just***, that is, the city in which justice is observed, below: ***you shall no more be called Forsaken: and your land shall no more be called Desolate: but you shall be called my pleasure in her*** (Isa 62:4); ***Zion shall be redeemed***, from oppressors, ***in judgment***, through the execution of justice; ***and they shall bring her back in justice***, because judgment is the restoration of the equality in which justice consists: *to judge your people with justice, and your poor with judgment* (Ps 71[72]:2); *a king shall reign and shall execute judgment and justice in the earth* (Jer 23:5).  
+Therefore, he says, ***I will restore your judges***, as to the secular princes, to whom it belongs to judge the people, ***and your counselors***, that is, the priests, to whom it belongs to manifest the counsel of God to the people: *the lips of the priests *(*Sacerdotum*. Vg.: *sacerdotis*.)* shall keep knowledge, and they shall seek the law at his mouth: because he is the Angel of the Lord of hosts* (Mal 2:7); ***as they were before***, as Moses and Joshua, who pleased God: *I will give you pastors according to my own heart, and they shall feed you with knowledge and doctrine* (Jer 3:15). ***You shall be called***, that is, you will recover your reputation, so that you are said to be as you had been before, ***the city of the just***, that is, the city in which justice is observed, below: ***you shall no more be called Forsaken: and your land shall no more be called Desolate: but you shall be called my pleasure in her*** (Isa 62:4); ***Zion shall be redeemed***, from oppressors, ***in judgment***, through the execution of justice; ***and they shall bring her back in justice***, because judgment is the restoration of the equality in which justice consists: *to judge your people with justice, and your poor with judgment* (Ps 71[72]:2); *a king shall reign and shall execute judgment and justice in the earth* (Jer 23:5).  
 
-**63**. ***And he shall destroyConteret*. ***the wicked***. Here he places the destruction of the obstinate. And concerning this, he does three things:  
+**63**. ***And he shall destroy*** *(*Conteret*.)* ***the wicked***. Here he places the destruction of the obstinate. And concerning this, he does three things:  
 
 first, he proclaims their destruction;  
 
@@ -586,9 +586,9 @@ third, he takes away the hope of escape, where it says, ***and your strength sha
 
 And because the punishment is ordered against the fault, therefore, concerning the first, he touches on the fault in two ways.  
 
-On the part of turning toward, as to the wickedness of idolatry; hence he says, ***the wicked***; and as to the sin of pleasure and of lust; hence he says, ***sinners***, because men are most prone to such things; against which he ordains the punishment of destruction,*Contritionis*. in which the punishment is noted for the infliction: *with a double destruction, destroy them* (Jer 17:18), as if for a double sin.  
+On the part of turning toward, as to the wickedness of idolatry; hence he says, ***the wicked***; and as to the sin of pleasure and of lust; hence he says, ***sinners***, because men are most prone to such things; against which he ordains the punishment of destruction, *(*Contritionis*.)* in which the punishment is noted for the infliction: *with a double destruction, destroy them* (Jer 17:18), as if for a double sin.  
 
-Second, on the part of turning away, because ***they have forsaken the Lord***; against which he ordains the punishment of consumption, saying, ***they shall be consumed***; in which he indicates the punishment of desertion, because that which is consumed, goes into nothing, and *all things would tend towards nothing, unless the hand of the Lord preserved them*, as Gregory says.*Moralia* 16.37 (PL 75, 1143C). *O Lord, the hope of Israel: all that forsake you shall be confounded: they that depart from you, shall be written in the earth: because they have forsaken the Lord, the vein of living waters* (Jer 17:13).  
+Second, on the part of turning away, because ***they have forsaken the Lord***; against which he ordains the punishment of consumption, saying, ***they shall be consumed***; in which he indicates the punishment of desertion, because that which is consumed, goes into nothing, and *all things would tend towards nothing, unless the hand of the Lord preserved them*, as Gregory says. *(*Moralia* 16.37 (PL 75, 1143C).)* *O Lord, the hope of Israel: all that forsake you shall be confounded: they that depart from you, shall be written in the earth: because they have forsaken the Lord, the vein of living waters* (Jer 17:13).  
 
 **64**. ***For they shall be confounded***. Here he places the manner of destruction:  
 
@@ -600,7 +600,7 @@ Concerning the first, against idolatry, he ordains confusion, saying, ***they sh
 
 against pleasure, he ordains shame, when he says, ***you shall be ashamed of the gardens***, that is, the places of pleasure, ***which you have chosen***, of your lust: *what fruit had you in those things of which you are now ashamed?* (Rom 6:21).  
 
-For confusion relates more to evil; but shame to fault, for carnal sins, as Gregory says,*Moralia* 33.12 (PL 76, 688B–C). are of lesser fault and greater dishonor; and the reason is that they concern the faculties that are less honorable and most material; and nevertheless these faculties are innate and connatural and passible.  
+For confusion relates more to evil; but shame to fault, for carnal sins, as Gregory says, *(*Moralia* 33.12 (PL 76, 688B–C).)* are of lesser fault and greater dishonor; and the reason is that they concern the faculties that are less honorable and most material; and nevertheless these faculties are innate and connatural and passible.  
 
 **65**. ***When you shall be***. Here he places the subtraction of good.  
 

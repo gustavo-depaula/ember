@@ -4,11 +4,11 @@
 
 > ^20:2^ At that same time the Lord spoke by the hand of Isaiah the son of Amos, saying Go, and loose the sackcloth from off your loins, and take off your shoes from your feet. And he did so, and went naked, and barefoot.
 
-> ^20:3^ And the Lord said: as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portent*Portentum*. DR: “wonder.” of three years upon Egypt, and upon Ethiopia,
+> ^20:3^ And the Lord said: as my servant Isaiah has walked, naked and barefoot, it shall be a sign and a portent *(*Portentum*. DR: “wonder.”)* of three years upon Egypt, and upon Ethiopia,
 
 > ^20:4^ So shall the king of the Assyrians lead away the prisoners of Egypt, and the captivity of Ethiopia, young and old, naked and barefoot, with their buttocks uncovered to the shame of Egypt.
 
-> ^20:5^ And they shall be afraid, and confounded by*Confundentur ab*. DR: “ashamed of.” Ethiopia their hope, and by Egypt their glory.
+> ^20:5^ And they shall be afraid, and confounded by *(*Confundentur ab*. DR: “ashamed of.”)* Ethiopia their hope, and by Egypt their glory.
 
 > ^20:6^ And the inhabitants of this isle shall say in that day: lo this was our hope, to whom we fled for help, to deliver us from the face of the king of the Assyrians: and how shall we be able to escape?
 
@@ -22,7 +22,7 @@ third, he shows the effect of the thing signified: ***and they shall be afraid, 
 
 **504**. Concerning the first, he does three things.  
 
-First, the time of the prophecy is set out: ***in the year that Tharthan entered into Azotus***, a city of the Philistines, Amos 1:7–8: where also is Gaza, Geth, Accaron, Ascalon, Azotus. ***Sargon***, who is Sennacherib, according to Jerome, for he had six names, which were Sargon, Senach, Phua, Salmanasar, Theglathphalasar and Asarad. ***By the hand***, that is, in a work concordant with his words: *I have used similitudes by the hands*Manibus*. Vg.: *manu*. DR: “ministry.” of the prophets* (Hos 12:10).  
+First, the time of the prophecy is set out: ***in the year that Tharthan entered into Azotus***, a city of the Philistines, Amos 1:7–8: where also is Gaza, Geth, Accaron, Ascalon, Azotus. ***Sargon***, who is Sennacherib, according to Jerome, for he had six names, which were Sargon, Senach, Phua, Salmanasar, Theglathphalasar and Asarad. ***By the hand***, that is, in a work concordant with his words: *I have used similitudes by the hands *(*Manibus*. Vg.: *manu*. DR: “ministry.”)* of the prophets* (Hos 12:10).  
 
 Second, he sets out the divine command: ***go, and loose***: *and Ezechiel shall be unto you for a sign of things to come* (Ezek 24:24).  
 

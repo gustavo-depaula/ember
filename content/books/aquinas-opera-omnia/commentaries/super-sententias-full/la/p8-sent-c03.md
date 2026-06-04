@@ -229,7 +229,7 @@ Alia est ex suppositione alicujus finis; sicut dicitur aliquid esse necessarium 
 
 Ad primum ergo dicendum, quod si nunquam de venialibus poeniteat, potest ad vitam pervenire: quia etiam post hanc vitam venialia remittuntur, ut infra dicetur.  
 
-Ad secundum dicendum, quod dissensus dicit poenitentiam*poenitentiam.—renitentiam* PLE. ad peccatum futurum; sed poenitentia dicit displicentiam peccati praeteriti; et ideo non oportet quod dissensus ad poenitentiam pertineat.  
+Ad secundum dicendum, quod dissensus dicit poenitentiam *(*poenitentiam.—renitentiam* PLE.)* ad peccatum futurum; sed poenitentia dicit displicentiam peccati praeteriti; et ideo non oportet quod dissensus ad poenitentiam pertineat.  
 
 Quaestiuncula 5  
 

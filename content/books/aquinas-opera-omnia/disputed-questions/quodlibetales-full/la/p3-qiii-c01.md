@@ -112,7 +112,7 @@ Ad tertium sic proceditur. Videtur quod Christus post resurrectionem vere comede
 
 Quia, ut Augustinus dicit in libro *LXXXIII quaestionum*: *si fallit, veritas non est*; unde nulla fictio decet Christum, qui est veritas; esset autem fictio, si non vere sibi cibum incorporaret, quem ipse comedere videbatur; vere igitur comedit, incorporando sibi cibum.  
 
-Sed contra est quod Damascenus dicit in III libro, quod Christus, *etsi gustavit cibum post resurrectionem, sed non lege naturae . *. . , sed *dispensationis modo, veritatem credere faciens resurrectionis, quiaOther texts read *quod* here. haec eadem caro est quae passa est et resurrexit*.  
+Sed contra est quod Damascenus dicit in III libro, quod Christus, *etsi gustavit cibum post resurrectionem, sed non lege naturae . *. . , sed *dispensationis modo, veritatem credere faciens resurrectionis, quia *(Other texts read *quod* here.)* haec eadem caro est quae passa est et resurrexit*.  
 
 Responsio. Dicendum quod aliquid dicitur esse verum dupliciter: uno modo veritate significationis, alio modo veritate naturalis speciei. Sicut vox est vera veritate significationis quando significat esse quod est. Veritas autem naturalis speciei dependet ex principiis speciei, non autem ex effectibus vel ex his quae quocumque modo consequntur; unde vox dicitur vera veritate naturalis speciei quando formatur debitis instrumentis et ex ore *animalis* profertur *cum* quadam *imaginatione*, etiam si a nullo audiatur, quod est effectus consequens vocem.  
 

@@ -10,7 +10,7 @@
 
 > ^55:4^ Behold I have given him for a witness to the people, for a leader and a master to the Gentiles.
 
-> ^55:5^ Behold you shall call nations,*Gentes*. Vg.: *gentem*. DR: “a nation.” which you knew not: and the nations that knew not you shall run to you, because of the Lord your God, and for the Holy One of Israel, for he has glorified you.
+> ^55:5^ Behold you shall call nations, *(*Gentes*. Vg.: *gentem*. DR: “a nation.”)* which you knew not: and the nations that knew not you shall run to you, because of the Lord your God, and for the Holy One of Israel, for he has glorified you.
 
 > ^55:6^ Seek the Lord, while he may be found: call upon him, while he is near.
 
@@ -56,7 +56,7 @@ Third, he promises power.
 
 And first, he sets out a similitude: ***and I will make an everlasting covenant, the faithful mercies of David***, that is, as I made true promises to David that his seed would remain forever, so I will also do with you.  
 
-Second, he explains this similitude, showing what he did for David: ***behold I have given him for a witness to the people***: *a people which I knew not, has served me: at the hearing of the ear they have obeyed me* (Ps 17:45[18:44]). And what may be done for them: ***behold you shall call nations***, to fulfill your command, not by your own power, but ***because of the Lord***, above: ***and they shall adore for the sake of the Lord your God, who has chosen you*** (Isa 49:7).*Propter Dominum Deum tuum qui elegit te*. Vg.: *propter Dominum, quia fidelis est, et Sanctum Israel qui elegit te*. DR: “for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.”  
+Second, he explains this similitude, showing what he did for David: ***behold I have given him for a witness to the people***: *a people which I knew not, has served me: at the hearing of the ear they have obeyed me* (Ps 17:45[18:44]). And what may be done for them: ***behold you shall call nations***, to fulfill your command, not by your own power, but ***because of the Lord***, above: ***and they shall adore for the sake of the Lord your God, who has chosen you*** (Isa 49:7). *(*Propter Dominum Deum tuum qui elegit te*. Vg.: *propter Dominum, quia fidelis est, et Sanctum Israel qui elegit te*. DR: “for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.”)*  
 
 **991**. ***Seek the Lord***. Here he enjoins upon them preparation to obtain the promise.  
 
@@ -66,7 +66,7 @@ Second, he teaches the manner of seeking: ***let the wicked***, sinning against 
 
 Third, he sets out the fruit of returning, namely, mercy: ***and let him return to the Lord, and he will have mercy on him*; *for he is bountiful***, that is, of manifold mercy, ***to forgive***: *turn to the Lord your God: for he is gracious and merciful* (Joel 2:13–14).  
 
-Fourth, he excludes the obstacle to mercy: ***for my thoughts are not your thoughts***, as if to say: you are wicked,*Impii*. I am loving;*Pius*. you think of vengeance, I think of mercy: *is it my ways that are**Viae meae non sunt*. Vg.: *via mea non est*. DR: “my way that is.” *not right, and are not rather your ways perverse?* (Ezek 18:25).  
+Fourth, he excludes the obstacle to mercy: ***for my thoughts are not your thoughts***, as if to say: you are wicked, *(*Impii*.)* I am loving; *(*Pius*.)* you think of vengeance, I think of mercy: *is it my ways that are* *(*Viae meae non sunt*. Vg.: *via mea non est*. DR: “my way that is.”)* *not right, and are not rather your ways perverse?* (Ezek 18:25).  
 
 **992**. ***And as the rain and the snow***. Here he shows the firmness of the promise:  
 
@@ -74,7 +74,7 @@ And first, he sets out the efficacy of the divine word: ***it shall not return t
 
 Second, he sets out restraint as to their joyful release from Babylon, ***for you shall go out with joy***: *he brought forth his people with joy, and his chosen with gladness* (Ps 104[105]:43); as to the congratulations of others: ***the mountains and the hills***, the powerful and the common people, praising God in you; or this is hyperbole: your land congratulating your return. As to the multiplied restoration of goods: ***instead of the shrub, shall come up the fir tree***, that is, your former goods are few in comparison to what you will have: *the glory of this last house shall be more than of the first* (Hag 2:10[9]), above: ***I will plant in the wilderness the cedar*** (Isa 41:19). ***The shrub*** (*saliuncula*) from *saliendo* (“jumping”), which is called “hare thistle.”  
 
-Third, he sets out the glory of God following from this: ***and the Lord shall be named***, everywhere and forever glorious for your liberation, ***for an everlasting sign***, to which they will flee as a sign of salvation, above: ***behold I will lift up my sign***DR: “standard.” ***to the people*** (Isa 49:22).  
+Third, he sets out the glory of God following from this: ***and the Lord shall be named***, everywhere and forever glorious for your liberation, ***for an everlasting sign***, to which they will flee as a sign of salvation, above: ***behold I will lift up my sign*** *(DR: “standard.”)* ***to the people*** (Isa 49:22).  
 
 **993**. Note on the words, ***all you that thirst, come to the waters*** (Isa 55:1), that divine doctrine is first called water:  
 
@@ -90,7 +90,7 @@ and this is first because it stings in argument, above: ***your wine is mingled 
 
 second, because it inflames in exhortation: *the word of the Lord inflamed him* (Ps 104[105]:19);  
 
-third, because it inebriates in consolation, below: ***that you may be inebriatedInebriabimini*. Vg.: *repleamini*. DR: “filled.” ***with the breasts of her consolations*** (Isa 66:11).  
+third, because it inebriates in consolation, below: ***that you may be inebriated*** *(*Inebriabimini*. Vg.: *repleamini*. DR: “filled.”)* ***with the breasts of her consolations*** (Isa 66:11).  
 
 **995**. Third, it is called milk:  
 

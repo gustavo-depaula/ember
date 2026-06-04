@@ -118,7 +118,7 @@ Second is set down the conversion of the nations: ***to you shall the nations co
 
 And the refutation of their original error: ***shall man make gods for himself? And they are not gods***. *For how shall man make God like himself?* (Wis 15:16).  
 
-Third, he speaks of the resultant good of their conversion: ***therefore***, that is, so that the nations may be converted, ***to them***, to the Jews, ***this once***; it is as though he were saying, “I shall not withhold any longer” ***my hand*** of correction. Alternatively, ***to them***, the nations, ***my hand***, Christ. *The Lord who carries out judgment will be known, the sinner is taken in the works of his own hands* (Ps 9:17). Also: *send forth your hand from on high and rescue me, free me from the mighty waters, from the hand of strange children* (Ps 143:7).Heb. בְּנֵי נֵכָר: lit., *the sons of strangeness*, i.e., foreigners.  
+Third, he speaks of the resultant good of their conversion: ***therefore***, that is, so that the nations may be converted, ***to them***, to the Jews, ***this once***; it is as though he were saying, “I shall not withhold any longer” ***my hand*** of correction. Alternatively, ***to them***, the nations, ***my hand***, Christ. *The Lord who carries out judgment will be known, the sinner is taken in the works of his own hands* (Ps 9:17). Also: *send forth your hand from on high and rescue me, free me from the mighty waters, from the hand of strange children* (Ps 143:7). *(Heb. בְּנֵי נֵכָר: lit., *the sons of strangeness*, i.e., foreigners.)*  
 
 Collations  
 

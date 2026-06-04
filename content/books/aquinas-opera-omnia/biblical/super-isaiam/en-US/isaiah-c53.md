@@ -38,11 +38,11 @@
 
 > ^51:19^ There are two things that have happened to you: who shall be sorry for you? Desolation, and destruction, and the famine, and the sword, who shall comfort you?
 
-> ^51:20^ Your children are cast forth, they have slept at the head of all the ways, as the oryxDR: “wild ox.” that is snared: full of the indignation of the Lord, of the rebuke of your God.
+> ^51:20^ Your children are cast forth, they have slept at the head of all the ways, as the oryx *(DR: “wild ox.”)* that is snared: full of the indignation of the Lord, of the rebuke of your God.
 
 > ^51:21^ Therefore hear this, you poor little one, and you that are drunk but not with wine.
 
-> ^51:22^ Thus says your Sovereign the Lord, and your God, who has fought*Pugnavit*. Vg.: *pugnabit*. DR: “will fight.” for his people: behold I have taken out of your hand the cup of dead sleep, the dregs of the cup of my indignation, you shall not drink it again any more.
+> ^51:22^ Thus says your Sovereign the Lord, and your God, who has fought *(*Pugnavit*. Vg.: *pugnabit*. DR: “will fight.”)* for his people: behold I have taken out of your hand the cup of dead sleep, the dregs of the cup of my indignation, you shall not drink it again any more.
 
 > ^51:23^ And I will put it in the hand of them that have oppressed you, and have said to your soul: bow down, that we may go over: and you have laid your body as the ground, and as a way to them that went over.
 
@@ -66,7 +66,7 @@ third, he sets out the firmness of the promise, ***lift up your eyes to heaven**
 
 First, he gives an example: ***look unto the rock***, namely, Abraham, because of his old age, ***whence you are hewn***, as though violently, not according to the course of nature; ***and to the hole of the pit***, namely, Sarah, to whom *it had ceased to be after the manner of women* (Gen 18:11): *neither did he consider his own body, when it was already dead* (Rom 4:19), in which is shown that God has power to make fertile; ***for I called him alone*** (cf. Gen 12:1): *Abraham was one* (Ezek 33:24).  
 
-**924**. [Second,] he deduces the benefit of divine comfort: ***the Lord therefore will comfort***, as to the rebuilding of cities, ***all the ruins***: *you are comforted*Consolamini*. Vg.: *consolabimini*. DR: “you shall be comforted.” concerning the evil that I have brought upon Jerusalem, in all things* (Ezek 14:22); as to the cultivation of fields: ***and he will make her desert***, that is, your land, which formerly was desert: *their soul shall be as a watered garden* (Jer 31:12); and as to the gladness of men: ***joy***, above: ***you shall have a song*** (Isa 30:29).  
+**924**. [Second,] he deduces the benefit of divine comfort: ***the Lord therefore will comfort***, as to the rebuilding of cities, ***all the ruins***: *you are comforted *(*Consolamini*. Vg.: *consolabimini*. DR: “you shall be comforted.”)* concerning the evil that I have brought upon Jerusalem, in all things* (Ezek 14:22); as to the cultivation of fields: ***and he will make her desert***, that is, your land, which formerly was desert: *their soul shall be as a watered garden* (Jer 31:12); and as to the gladness of men: ***joy***, above: ***you shall have a song*** (Isa 30:29).  
 
 **925**. Third, he sets out the manner of execution: ***hearken unto me***.  
 
@@ -128,7 +128,7 @@ second, the response of the Lord: ***I myself*** (Isa 51:12).
 
 **930**. Concerning the first, he does two things.  
 
-First, he sets out his petition, in which he calls upon the arm of divine power: ***O you arm of the Lord***, that is, the power of God, ***arise***, as if from sleep: *arise, why sleep you, O Lord?* (Ps 43[44]:23); ***put on strength***, like soldiers put on arms of war, to fight our enemies: *the Lord is clothed with strength, and has girded himself with power*Vg. omits “with power.” (Ps 92[93]:1); *and have you an arm like God?* (Job 40:4). He also alleges a sign of divine strength in the killing of Pharaoh: ***have not you struck the proud one, and wounded the dragon?***, Pharaoh, about whom it says in Ezekiel 29:3: *behold, I come against you, Pharaoh king of Egypt, you great dragon*; and in the division of the sea: ***have not you dried up the sea***: *by his power the seas are suddenly gathered together* (Job 26:12).  
+First, he sets out his petition, in which he calls upon the arm of divine power: ***O you arm of the Lord***, that is, the power of God, ***arise***, as if from sleep: *arise, why sleep you, O Lord?* (Ps 43[44]:23); ***put on strength***, like soldiers put on arms of war, to fight our enemies: *the Lord is clothed with strength, and has girded himself with power* *(Vg. omits “with power.”)* (Ps 92[93]:1); *and have you an arm like God?* (Job 40:4). He also alleges a sign of divine strength in the killing of Pharaoh: ***have not you struck the proud one, and wounded the dragon?***, Pharaoh, about whom it says in Ezekiel 29:3: *behold, I come against you, Pharaoh king of Egypt, you great dragon*; and in the division of the sea: ***have not you dried up the sea***: *by his power the seas are suddenly gathered together* (Job 26:12).  
 
 **931**. Second, he announces to his people that the Lord has heard his petition: ***and now***, as it was when they came forth from Egypt, ***they that are redeemed***, from captivity in Babylon: *for the Lord will lead them back* (Bar 4:23).  
 
@@ -138,7 +138,7 @@ And first, he promises comfort: ***I will comfort***: *blessed be the God and Fa
 
 **933**. Second, he excludes fear of their enemies, setting out their fragility: ***who are you, that you should be afraid of a mortal man, and of the son of man, who shall wither away like grass***, above: ***all flesh is grass, and all the glory thereof as the flower of the field*** (Isa 40:6); and the power of God protecting them: ***and you have forgotten the Lord your maker?** You have forsaken the God that begot you, and have forgotten the Lord that created you* (Deut 32:18); and the mockery of the enemy: ***where is now the fury of the oppressor?***, Nabuchodonosor or Sennacherib: *if your pride mount up even to heaven* (Job 20:6).  
 
-**934**. Third, he shows the order of comfort: ***he shall quickly come***, namely, Cyrus, ***that is going to open***, the prison for the captives, ***and he shall not kill*** you, like the other kings of the Chaldeans, ***neither shall the bread*** of his sustenance ***fail*** you, above: ***bread is given him*** (Isa 33:16), above: ***and I have given you for a covenant of my***Vg. omits “my.” DR: “the.” ***people*** (Isa 42:6).  
+**934**. Third, he shows the order of comfort: ***he shall quickly come***, namely, Cyrus, ***that is going to open***, the prison for the captives, ***and he shall not kill*** you, like the other kings of the Chaldeans, ***neither shall the bread*** of his sustenance ***fail*** you, above: ***bread is given him*** (Isa 33:16), above: ***and I have given you for a covenant of my*** *(Vg. omits “my.” DR: “the.”)* ***people*** (Isa 42:6).  
 
 **935**. ***But I***. Here he excludes the impediment which could be believed to come from their dejection as pertains to the magnitude of their punishment.  
 

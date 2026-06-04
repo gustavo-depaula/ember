@@ -36,7 +36,7 @@ Venite, exsultemus Domino; iubilemus Deo salutari nostro; praeoccupemus faciem e
 
 ***{image 013}***
 
-Sacris solemniis iunctaFor the seventh syllable of each verse, Corrigan suggests including an extra note, namely, a “sol” moving down from the “la” to the “fa” in the eighth syllable, but it is not found in the manuscript. sint gaudia  
+Sacris solemniis iuncta *(For the seventh syllable of each verse, Corrigan suggests including an extra note, namely, a “sol” moving down from the “la” to the “fa” in the eighth syllable, but it is not found in the manuscript.)* sint gaudia  
 et ex praecordiis sonent praeconia  
 recedant vetera nova sint omnia  
 corda voces et opera.  
@@ -64,7 +64,7 @@ corda voces et opera.
 - Te trina Deitas unaque poscimus  
   sicut nos visitas sicut te colimus  
   per tuas semitas duc nos quo tendimus  
-  ad lucem, quam inhabitas. Amen.Music for the “amen” is not found in the manuscript.
+  ad lucem, quam inhabitas. Amen. *(Music for the “amen” is not found in the manuscript.)*
 - Contra *Sanctorum meritis*.
 
 ***In primo nocturno***
@@ -187,7 +187,7 @@ Responsorium
 
 ***{image 019}***
 
-℟. Immolabit haedum multitudo filiorum Israel ad vesperam Paschae, * et edent carnes et azymos panes.Corrigan has the first two notes of “panes” shifted down a step lower than the manuscript has them; we have followed the manuscript here.  
+℟. Immolabit haedum multitudo filiorum Israel ad vesperam Paschae, * et edent carnes et azymos panes. *(Corrigan has the first two notes of “panes” shifted down a step lower than the manuscript has them; we have followed the manuscript here.)*  
 
 ℣. Pascha nostrum immolatus est Christus, itaque epulemur in azymis sinceritatis et veritatis. * Et edent carnes et azymos panes.  
 
@@ -227,7 +227,7 @@ Responsorium
 
 ***{image 023}***
 
-℟. Respexit Elias ad caputCorrigan distributes the notes for “caput” slightly differently than the manuscript; we have followed the manuscript here. suum subcinericium panem qui surgens comedit et bibit. * Et ambulavit in fortitudine cibi illius usque * ad montem Dei.  
+℟. Respexit Elias ad caput *(Corrigan distributes the notes for “caput” slightly differently than the manuscript; we have followed the manuscript here.)* suum subcinericium panem qui surgens comedit et bibit. * Et ambulavit in fortitudine cibi illius usque * ad montem Dei.  
 
 ℣. Si quis manducaverit ex hoc pane vivet in aeternum. * Et ambulavit in fortitudine cibi illius usque. Gloria Patri et Filio et Spiritui Sancto. * Ad montem Dei.  
 
@@ -367,7 +367,7 @@ Responsorium
 
 ***{image 029}***
 
-℟. Panis quem ego dabo Caro mea est pro mundi vita. Litigabant ergo Iudaei dicentes:It should be noted that in the manuscript’s chant notation, the syllabification for the word “dicentes” is difficult to discern. * quomodo potest hic nobis dare carnem suam ad manducandum?  
+℟. Panis quem ego dabo Caro mea est pro mundi vita. Litigabant ergo Iudaei dicentes: *(It should be noted that in the manuscript’s chant notation, the syllabification for the word “dicentes” is difficult to discern.)* * quomodo potest hic nobis dare carnem suam ad manducandum?  
 
 ℣. Locutus est populus contra Dominum: anima nostra nauseat super cibo isto levissimo. * Quomodo potest hic nobis dare carnem suam ad manducandum?  
 
@@ -407,7 +407,7 @@ Responsorium
 
 ℟. Accepit Iesus calicem postquam cenavit dicens: hic calix Novum Testamentum est in meo Sanguine. * Hoc facite in meam * commemorationem.  
 
-℣. Memoria memor ero, et tabescet in me anima mea. * Hoc faciteIn the manuscript, the three notes of the repeated “facite” are raised a step, but this is likely a mistake. The chant above has been corrected. in meam. Gloria Patri et Filio et Spiritui Sancto. * Commemorationem.  
+℣. Memoria memor ero, et tabescet in me anima mea. * Hoc facite *(In the manuscript, the three notes of the repeated “facite” are raised a step, but this is likely a mistake. The chant above has been corrected.)* in meam. Gloria Patri et Filio et Spiritui Sancto. * Commemorationem.  
 
 Contra *Virtute multa* de sancto Bernardo.  
 
@@ -570,7 +570,7 @@ Responsorium
 
 ℟. Misit me Pater vivens et ego vivo propter Patrem. * Et qui manducat me, vivet propter me.  
 
-℣. Cibavit eumCorrigan shifts the last two notes down a step in the first syllable of “eum”; we have followed the manuscript here. Dominus pane vitae et intellectus. * Et qui manducat me, vivet propter me.  
+℣. Cibavit eum *(Corrigan shifts the last two notes down a step in the first syllable of “eum”; we have followed the manuscript here.)* Dominus pane vitae et intellectus. * Et qui manducat me, vivet propter me.  
 
 Contra *Verbum caro factum est* de Circumcisione.  
 
@@ -587,7 +587,7 @@ Responsorium
 
 ***{image 043}***
 
-℟. Unus panis et unum corpus multi sumus.Corrigan has raised the musical notation for the word “sumus” by a full third, and the chant above follows this change. This varies from the manuscript but is more characteristic of the mode. * Omnes qui de uno pane * et de uno calice participamus.  
+℟. Unus panis et unum corpus multi sumus. *(Corrigan has raised the musical notation for the word “sumus” by a full third, and the chant above follows this change. This varies from the manuscript but is more characteristic of the mode.)* * Omnes qui de uno pane * et de uno calice participamus.  
 
 ℣. Parasti in dulcedine tua pauperi Deus, qui habitare facis unanimes in domo. * Omnes qui de uno pane. Gloria Patri et Filio et Spiritui Sancto. * Et de uno calice participamus.  
 
@@ -737,7 +737,7 @@ Contra *Paradisi porta* de sancta Maria.
 
 > {image 092}
 
-*Antiphona*. MemoriaCorrigan includes a repeated note in the last syllable of “memoria.” mea in generationeThe manuscript does indeed read *generatione* rather than *generationes* here, though the plural noun would make more sense in this context. saeculorum. Qui edunt me adhuc esurient et qui bibunt me adhuc sitient, alleluia.  
+*Antiphona*. Memoria *(Corrigan includes a repeated note in the last syllable of “memoria.”)* mea in generatione *(The manuscript does indeed read *generatione* rather than *generationes* here, though the plural noun would make more sense in this context.)* saeculorum. Qui edunt me adhuc esurient et qui bibunt me adhuc sitient, alleluia.  
 
 Contra *Patefactae sunt ianuae coeli* de sancto Stephano.  
 

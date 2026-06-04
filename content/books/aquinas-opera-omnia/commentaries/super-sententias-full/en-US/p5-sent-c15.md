@@ -10,35 +10,35 @@ And it is divided into two parts.
 
 In the first, he compares the perfection of Christ’s soul to the divine perfection with respect to his knowledge,  
 
-and second, with respect to his power, at *but if it is asked why God did not give to it the power of making all things, as he did knowledge of them, it may be answered*.*Sent.* III, 14.2(40).1.  
+and second, with respect to his power, at *but if it is asked why God did not give to it the power of making all things, as he did knowledge of them, it may be answered*. *(*Sent.* III, 14.2(40).1.)*  
 
 The first is divided into two:  
 
 first, he states the question;  
 
-and second, he answers it, at *it pleases some to hold that neither has equal knowledge with God*.*Sent*. III, 14.1(39).2.  
+and second, he answers it, at *it pleases some to hold that neither has equal knowledge with God*. *(*Sent*. III, 14.1(39).2.)*  
 
 And this latter part is divided into two:  
 
 first, he lays out the view of others;  
 
-second, his own view, at *responding to them, we say*.*Sent*. III, 14.1(39).3.  
+second, his own view, at *responding to them, we say*. *(*Sent*. III, 14.1(39).3.)*  
 
 And regarding this, he does three things.  
 
 First, he answers the question and resolves the arguments proposed in favor the first view.  
 
-Second, he confirms his own view both through an argument brought in by others, which is opposed to the former ones, at *but as for that text of the Apostle which they adduce . . . , it supports our view*;*Sent*. III, 14.1(39).4. and also through an authority, at *in some sermon of his, Fulgentius also adduces many arguments*;*Sent*. III, 14.1(39).5. and from an argument, at *the point may also be proved by reason*.*Sent*. III, 14.1(39).5.  
+Second, he confirms his own view both through an argument brought in by others, which is opposed to the former ones, at *but as for that text of the Apostle which they adduce . . . , it supports our view*; *(*Sent*. III, 14.1(39).4.)* and also through an authority, at *in some sermon of his, Fulgentius also adduces many arguments*; *(*Sent*. III, 14.1(39).5.)* and from an argument, at *the point may also be proved by reason*. *(*Sent*. III, 14.1(39).5.)*  
 
-Third, he teaches one to avoid a certain problem to which that other view leads, if the soul of Christ were to know all things, at *but as to their saying . . . , we respond*.*Sent*. III, 14.1(39).6.  
+Third, he teaches one to avoid a certain problem to which that other view leads, if the soul of Christ were to know all things, at *but as to their saying . . . , we respond*. *(*Sent*. III, 14.1(39).6.)*  
 
-*But if it is asked why God did not give to it the power of making all things, as he did knowledge of them, it may be answered*.*Sent*. III. 2(40). 1. Here he relates Christ’s soul to God with respect to its power, and he does three things.  
+*But if it is asked why God did not give to it the power of making all things, as he did knowledge of them, it may be answered*. *(*Sent*. III. 2(40). 1.)* Here he relates Christ’s soul to God with respect to its power, and he does three things.  
 
 First, he presents the truth.  
 
-Second, he objects to the contrary, at *but if that soul does not have as much power as God, . . . how then is to be understood Ambrose’s statement?**Sent*. III, 14.2(40).2.  
+Second, he objects to the contrary, at *but if that soul does not have as much power as God, . . . how then is to be understood Ambrose’s statement?* *(*Sent*. III, 14.2(40).2.)*  
 
-Third, he resolves this, at *to this we say*.*Sent*. III, 14.2(40).3.  
+Third, he resolves this, at *to this we say*. *(*Sent*. III, 14.2(40).3.)*  
 
 Question 1  
 
@@ -48,7 +48,7 @@ Question 1
 
 firstly, what knowledge did he have;  
 
-and because he had divine and human, and the divine was treated in Book I,*In I Sent*., d. 35, a. 1. for that reason here we ask secondly about the perfection of his human knowledge, by which he sees the Word;  
+and because he had divine and human, and the divine was treated in Book I, *(*In I Sent*., d. 35, a. 1.)* for that reason here we ask secondly about the perfection of his human knowledge, by which he sees the Word;  
 
 thirdly, about the perfection of his knowledge by which he sees things in their proper kinds;  
 
@@ -60,7 +60,7 @@ Article 1
 
 ***Quaestiuncula 1***
 
-To the first we proceed as follows.Parallels: *ST* III.9.1; *De veritate*, q. 20, a. 1; *Compend. theol.,* ch. 216. It appears that in Christ there is not any created knowledge.  
+To the first we proceed as follows. *(Parallels: *ST* III.9.1; *De veritate*, q. 20, a. 1; *Compend. theol.,* ch. 216.)* It appears that in Christ there is not any created knowledge.  
 
 Obj. 1: For where there is perfect cognition there is no use for an imperfect cognition, just as someone who knows something by demonstration does not need to know it by a dialectical syllogism. But all created cognition is imperfect relative to the divine knowledge. Therefore since in Christ there is the uncreated knowledge of God, it appears one need not assert that there is any other knowledge in him.  
 
@@ -70,11 +70,11 @@ Obj. 3: Furthermore, every perfection is nobler than what is perfectible by it. 
 
 On the contrary, there is more congruence between the sensitive and intellectual natures in a man than between the divine and human natures in Christ. But the intellectual cognition in a man does not exclude the sensitive cognition in him, which is less perfect. Therefore neither does the divine cognition in Christ exclude the human.  
 
-Furthermore, there is no substance without its own activity, as both Damascene and the Philosopher say.John Damascene, *On the Orthodox Faith*, bk. 2, ch. 23 (PG 94:950); Aristotle, *On the Heavens* 2.3, 286a8. But in Christ there is a created intellect—namely, that of the rational soul. Therefore there is also a created cognition that is its activity.  
+Furthermore, there is no substance without its own activity, as both Damascene and the Philosopher say. *(John Damascene, *On the Orthodox Faith*, bk. 2, ch. 23 (PG 94:950); Aristotle, *On the Heavens* 2.3, 286a8.)* But in Christ there is a created intellect—namely, that of the rational soul. Therefore there is also a created cognition that is its activity.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that if there is in him any created cognition, it is not a habit but only an act.Parallels: *ST* III.11.5; *De veritate*, q. 20, a. 2. For on Hebrews 2 a Gloss says that in Christ there is nothing higher or more excellent than the nature of the human mind.*Glossa ordinaria*, at Hebrews 2:9, 6.813 (PL 114:647), referring to Augustine, *Contra Maximinum*, bk. 2, ch. 25 (CCSL 87A:660; PL 42:803). But certain created things, on account of their perfection, do not need any habit to know things, such as the angels, as Maximus says in *On the Heavenly Hierarchies of Dionysius*.Maximus, *Commentaria in Librum de Coelesti Hierarchia*, ch. 7 (PG 4:65). Therefore much less so does Christ’s soul.  
+Obj. 1: Moreover, it appears that if there is in him any created cognition, it is not a habit but only an act. *(Parallels: *ST* III.11.5; *De veritate*, q. 20, a. 2.)* For on Hebrews 2 a Gloss says that in Christ there is nothing higher or more excellent than the nature of the human mind. *(*Glossa ordinaria*, at Hebrews 2:9, 6.813 (PL 114:647), referring to Augustine, *Contra Maximinum*, bk. 2, ch. 25 (CCSL 87A:660; PL 42:803).)* But certain created things, on account of their perfection, do not need any habit to know things, such as the angels, as Maximus says in *On the Heavenly Hierarchies of Dionysius*. *(Maximus, *Commentaria in Librum de Coelesti Hierarchia*, ch. 7 (PG 4:65).)* Therefore much less so does Christ’s soul.  
 
 Obj. 2: Furthermore, Christ’s soul is nobler than the agent intellect of any other man. But the agent intellect does not perform its activity by the mediation of any habit. Therefore neither does Christ’s soul know by any habitual knowledge.  
 
@@ -86,31 +86,31 @@ Furthermore, Christ truly slept, nor did he then lose anything that he knew. The
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that Christ’s soul did not know the Word by any mediating habit.Parallel: *De veritate*, q. 20, a. 2. For cognition requires only that the knowable be united to the knower. But the Word was not united to Christ’s soul by any mediating habit. Therefore he did not know the Word by any mediating habit.  
+Obj. 1: Moreover, it appears that Christ’s soul did not know the Word by any mediating habit. *(Parallel: *De veritate*, q. 20, a. 2.)* For cognition requires only that the knowable be united to the knower. But the Word was not united to Christ’s soul by any mediating habit. Therefore he did not know the Word by any mediating habit.  
 
 Obj. 2: Furthermore, the habit of knowledge consists of the species that are likenesses of the very things known. But Christ’s soul does not see the Word through any likeness, but through his very self. Therefore it does not know him through any created habit.  
 
-Obj. 3: Furthermore, that on account of which something is such and such, is itself such more so.Aristotle, *Posterior Analytics* 1.2, 72a29. Therefore if Christ’s soul knows the Word by some mediating habit, then that habit knows the Word even better, and it will be closer to him than Christ’s soul is—which is a problem.  
+Obj. 3: Furthermore, that on account of which something is such and such, is itself such more so. *(Aristotle, *Posterior Analytics* 1.2, 72a29.)* Therefore if Christ’s soul knows the Word by some mediating habit, then that habit knows the Word even better, and it will be closer to him than Christ’s soul is—which is a problem.  
 
-On the contrary, glory corresponds to grace. But in Christ there was the habit of grace. Therefore so too was the habit of glory. But total glory consists in the vision of the Word, as Augustine says.Augustine, *Enarrationes in Psalmos*, Ps 90, serm. 2, para. 13 (CCSL 39; PL 37:1170); also, Ps 36, para. 8 (CCSL 38; PL 37:368). Therefore Christ’s soul knows the Word by some habit.  
+On the contrary, glory corresponds to grace. But in Christ there was the habit of grace. Therefore so too was the habit of glory. But total glory consists in the vision of the Word, as Augustine says. *(Augustine, *Enarrationes in Psalmos*, Ps 90, serm. 2, para. 13 (CCSL 39; PL 37:1170); also, Ps 36, para. 8 (CCSL 38; PL 37:368).)* Therefore Christ’s soul knows the Word by some habit.  
 
 Furthermore, Christ’s soul and our soul are of the same nature. But our soul cannot rise to seeing God through its natural powers. Therefore neither can Christ’s soul, and thus something must be added to his nature in virtue of which he sees God. And therefore he sees him by some mediating habit.  
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it appears that one must assert that the habit of knowledge by which he knows the Word is other than that by which he knows things in the Word.Parallel: *De veritate*, q. 20, a. 2. For the Word presents again the things that are known in him as a mirror presents again the forms reflected in it. But when one sees in a mirror, not only is there the mirror’s likeness in him, but also the likenesses of the realities reflected in the mirror. Therefore also in one who sees things in the Word one must assert that the habit of the species of things seen in the Word is other than the habit of the Word itself.  
+Obj. 1: Moreover, it appears that one must assert that the habit of knowledge by which he knows the Word is other than that by which he knows things in the Word. *(Parallel: *De veritate*, q. 20, a. 2.)* For the Word presents again the things that are known in him as a mirror presents again the forms reflected in it. But when one sees in a mirror, not only is there the mirror’s likeness in him, but also the likenesses of the realities reflected in the mirror. Therefore also in one who sees things in the Word one must assert that the habit of the species of things seen in the Word is other than the habit of the Word itself.  
 
 Obj. 2: Furthermore, every knowledge occurs in virtue of the knower becoming like the thing known, as the philosophers say. Therefore if someone sees other things in the Word, his intellect must become like those things; and thus, since a cognitive habit consists in the aforesaid becoming-like, which happens through the intellectual species, the same thing follows as before.  
 
 Obj. 3: Furthermore, let us assert that someone seeing in the Word ceases to see the Word (as happened to Paul, as is said); it is certain that he does not forget those things that he saw in the Word. Therefore he does not know them in the Word, since he does not see the Word. Therefore he knows them in their proper species, and thus the same thing follows as before.  
 
-On the contrary, wherever something is such and such on account of another, the latter is so much the more so, as the Philosopher says.Aristotle, *Topics* 3.2, 117a18. But one who sees things in the Word knows them only through the known Word. Therefore there is only one habit.  
+On the contrary, wherever something is such and such on account of another, the latter is so much the more so, as the Philosopher says. *(Aristotle, *Topics* 3.2, 117a18.)* But one who sees things in the Word knows them only through the known Word. Therefore there is only one habit.  
 
 Furthermore, where the act is one, the habits are not many. But the soul knows the Word and the things that it sees in the Word by the same act. Therefore in respect to this, there are not diverse habits.  
 
 Quaestiuncula 5  
 
-Obj. 1: Moreover, it appears that, besides the knowledge by which he knows things in the Word, Christ does not have any other knowledge of things.Parallels: *ST* III.9.3; 12.1; *De veritate*, q. 20, aa. 2, 3; *Compend. theol*., ch. 216. For there is only one perfection of a thing that is one both in virtue of the same thing and in relation to the same thing. But Christ has cognition in the Word about created things in virtue of his human nature. Therefore he does not have a different cognition or knowledge of the same things in virtue of his human nature.  
+Obj. 1: Moreover, it appears that, besides the knowledge by which he knows things in the Word, Christ does not have any other knowledge of things. *(Parallels: *ST* III.9.3; 12.1; *De veritate*, q. 20, aa. 2, 3; *Compend. theol*., ch. 216.)* For there is only one perfection of a thing that is one both in virtue of the same thing and in relation to the same thing. But Christ has cognition in the Word about created things in virtue of his human nature. Therefore he does not have a different cognition or knowledge of the same things in virtue of his human nature.  
 
 Obj. 2: Furthermore, *when the perfect comes, the imperfect will pass away* (1 Cor 13:10). But the cognition by which things are known in the Word is perfect in comparison to any other mode of cognition of things. Therefore along with it there is no other knowledge in Christ.  
 
@@ -132,11 +132,11 @@ Reply Obj. 3: Nothing prevents one from being of greater dignity than another in
 
 Response to Quaestiuncula 2  
 
-To the second question, it should be said that a passive power can go into act only if it is completed through the form of an active power, through which it comes to be in act. For nothing does anything except insofar as it is in act. However, the impressions of active powers can be in passive ones in two ways. In one way, through the mode of a passive receiving, namely when the passive power is being changed, and in another way, through the mode of a quality and form, when the impression of the active power was already made connatural to the passive power itself; thus, even the Philosopher, in the *Categories*,Aristotle, *Categories* 8, 9a28. distinguishes between an passive receiving and a passible quality.  
+To the second question, it should be said that a passive power can go into act only if it is completed through the form of an active power, through which it comes to be in act. For nothing does anything except insofar as it is in act. However, the impressions of active powers can be in passive ones in two ways. In one way, through the mode of a passive receiving, namely when the passive power is being changed, and in another way, through the mode of a quality and form, when the impression of the active power was already made connatural to the passive power itself; thus, even the Philosopher, in the *Categories*, *(Aristotle, *Categories* 8, 9a28.)* distinguishes between an passive receiving and a passible quality.  
 
 Now, sensation is a passive power, since it cannot be in act with respect to all the things to which its activity extends by the nature of its power. For nothing can have all colors in act, and therefore vision must be cognitive of all colors insofar as it is in a certain manner potentially all colors. And thus, by passively receiving from colors, it comes to be in act, and becomes like them, and it knows them.  
 
-Likewise also, the intellect is able to know all beings, since being and the true are convertible, the latter being the object of the intellect. However, nothing created can be in the act of the entirety of being, since it is a finite being; for this belongs to God alone, who is the font of all beings, in some way possessing within himself in advance all things, as Dionysius says.Pseudo-Dionysius, *On the Divine Names*, ch. 5, n. 1 (PG 3:815). And therefore no created thing can understand without some intellect, which is a passive—that is, receptive—power, and whence neither sensation nor the potential intellect can be active unless they are perfected or moved by their active powers.  
+Likewise also, the intellect is able to know all beings, since being and the true are convertible, the latter being the object of the intellect. However, nothing created can be in the act of the entirety of being, since it is a finite being; for this belongs to God alone, who is the font of all beings, in some way possessing within himself in advance all things, as Dionysius says. *(Pseudo-Dionysius, *On the Divine Names*, ch. 5, n. 1 (PG 3:815).)* And therefore no created thing can understand without some intellect, which is a passive—that is, receptive—power, and whence neither sensation nor the potential intellect can be active unless they are perfected or moved by their active powers.  
 
 But because a sense senses only at the presence of the sensible, thus for its complete activity the impression of its agent merely through the mode of a passive receiving is enough. However, in the intellect for its perfection the impression of its active power is required within it not only through the mode of a passive receiving, but also through the mode of a perfected connatural quality and form; and we call this form a “habit.” And because what is natural remains in a stable way, and is at the ready when a man uses his natural power, and it is pleasant for him to do so, since it befits his nature, therefore it is difficult to change a habit like knowledge, and a man can use it when he wishes, and its activity is pleasant.  
 
@@ -144,7 +144,7 @@ However, just as in sensation there is a twofold active power, one as the first 
 
 Reply Obj. 1: Man needs the intellectual light for knowing both in the natural cognition of natural things, so that they might become actually intelligible through it when they are potentially intelligible, and in supernatural cognition, so that through an infused light he might be elevated to things above him.  
 
-Now, an angel does not need a light in natural cognition, since it does not abstract species from phantasms; rather, it has them innately. Yet it does need it in supernatural cognition; whence Job 25:3 says, *is there any number to his armies? Upon whom does his light not arise?* And therefore in their natural cognition, angels do not stand in need of a habit insofar as a light is required for the habit, but it is demanded insofar as the species of things are required, because they have a limited existence. This is why it is said in the *Book of Causes*Proclus (pseudo-Aristotle), *Liber de causis*, prop. 10. that every intelligence is filled with forms.  
+Now, an angel does not need a light in natural cognition, since it does not abstract species from phantasms; rather, it has them innately. Yet it does need it in supernatural cognition; whence Job 25:3 says, *is there any number to his armies? Upon whom does his light not arise?* And therefore in their natural cognition, angels do not stand in need of a habit insofar as a light is required for the habit, but it is demanded insofar as the species of things are required, because they have a limited existence. This is why it is said in the *Book of Causes* *(Proclus (pseudo-Aristotle), *Liber de causis*, prop. 10.)* that every intelligence is filled with forms.  
 
 However, Christ’s soul is not superior to the angels on account of the soul’s nature, since then every soul would be superior to the angels. Likewise, neither is his body nobler than our souls on account of the body’s nature, but rather this is so on account of the union. Whence all things that are added by God in Christ’s soul and in the angels are more eminently in Christ’s soul than in the angels.  
 
@@ -180,7 +180,7 @@ Reply Obj. 3: Just as the impressions of the things remain when the sensible thi
 
 Response to Quaestiuncula 5  
 
-To the fifth question, it should be said that, according to the Philosopher,Aristotle, *On the Soul* 3.4, 429b30. the potential intellect is in potency to all things intelligible, but everything in potency to any form remains imperfect unless that form comes to be in it. Whence, since Christ’s intellect is not imperfect, the forms of the things to which his potential intellect is in potency must be written in it. But insofar as it knows the Word, there is neither a likeness of the Word depicted in it, nor are the things things that are seen in the Word, as was said. Whence, besides the vision by which he sees things in the Word, he must have another knowledge of things insofar as he knows them through their proper likenesses in their proper natures. And thus we have the three knowledges of Christ: one is divine, which is uncreated, another by which he knows things in the Word and the Word himself, which is the knowledge of a comprehensor, and a third by which he knows a thing in its proper nature, which belongs to him insofar as he is a man considered in merely his natural faculties.  
+To the fifth question, it should be said that, according to the Philosopher, *(Aristotle, *On the Soul* 3.4, 429b30.)* the potential intellect is in potency to all things intelligible, but everything in potency to any form remains imperfect unless that form comes to be in it. Whence, since Christ’s intellect is not imperfect, the forms of the things to which his potential intellect is in potency must be written in it. But insofar as it knows the Word, there is neither a likeness of the Word depicted in it, nor are the things things that are seen in the Word, as was said. Whence, besides the vision by which he sees things in the Word, he must have another knowledge of things insofar as he knows them through their proper likenesses in their proper natures. And thus we have the three knowledges of Christ: one is divine, which is uncreated, another by which he knows things in the Word and the Word himself, which is the knowledge of a comprehensor, and a third by which he knows a thing in its proper nature, which belongs to him insofar as he is a man considered in merely his natural faculties.  
 
 Reply Obj. 1: These two last knowledges are not of one notion, nor of one species. Therefore it is not a problem that they are in the same one and not of the same notion.  
 
@@ -194,35 +194,35 @@ Article 2
 
 ***Quaestiuncula 1***
 
-To the second we proceed as follows.Parallels: *ST* III.10.1; *De veritate*, q. 20, aa. 4, 5; *Compend. theol.*, ch. 216; *Super 1 Tim*. 6, lect. 3. It appears Christ’s soul comprehends the Word in seeing him.  
+To the second we proceed as follows. *(Parallels: *ST* III.10.1; *De veritate*, q. 20, aa. 4, 5; *Compend. theol.*, ch. 216; *Super 1 Tim*. 6, lect. 3.)* It appears Christ’s soul comprehends the Word in seeing him.  
 
-Obj. 1: For, as Isidore says,Isidore of Seville, *Sententiae*, bk. 1, ch. 3, sent. 1b (CCSL 111). the Trinity is known to itself alone, and to the assumed man. But the vision by which God is seen belongs to God alone and to no merely created thing, because it is a vision of comprehension. Therefore the assumed man comprehends the Trinity.  
+Obj. 1: For, as Isidore says, *(Isidore of Seville, *Sententiae*, bk. 1, ch. 3, sent. 1b (CCSL 111).)* the Trinity is known to itself alone, and to the assumed man. But the vision by which God is seen belongs to God alone and to no merely created thing, because it is a vision of comprehension. Therefore the assumed man comprehends the Trinity.  
 
-Obj. 2: Furthermore, it is greater to be united to God in the existence of the person than in vision. But, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1003). the entire divine nature was united to the flesh in the person of the Son. Therefore much more was the entire divine nature united to the soul as the visible, and thus Christ’s soul comprehends the Godhead of the Word.  
+Obj. 2: Furthermore, it is greater to be united to God in the existence of the person than in vision. But, as Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 6 (PG 94:1003).)* the entire divine nature was united to the flesh in the person of the Son. Therefore much more was the entire divine nature united to the soul as the visible, and thus Christ’s soul comprehends the Godhead of the Word.  
 
 Obj. 3: Furthermore, the Word is simple, not divisible. But the simple can only be received by someone as comprehended, since it cannot be partly in the receiver and partly not. Therefore since Christ’s soul receives the Word by seeing him, it appears that it comprehends him.  
 
-On the contrary, according to Augustine,Augustine, *Epistulae*, epist. 147: Ad Paulinam, ch. 9, para. 21 (CSEL 44:295; PL 33:606). what is properly speaking comprehended is that whose boundaries are beheld. But the boundaries of the Word cannot be beheld, since he is infinite. Therefore he cannot be comprehended by Christ’s soul.  
+On the contrary, according to Augustine, *(Augustine, *Epistulae*, epist. 147: Ad Paulinam, ch. 9, para. 21 (CSEL 44:295; PL 33:606).)* what is properly speaking comprehended is that whose boundaries are beheld. But the boundaries of the Word cannot be beheld, since he is infinite. Therefore he cannot be comprehended by Christ’s soul.  
 
 Furthermore, no power of a finite substance is infinite. But Christ’s soul, since it was created, is a finite substance. Therefore his every power is finite, and so is his capacity. But a finite capacity does not comprehend an infinite. Therefore, since the Word is infinite, it cannot be comprehended by Christ’s soul.  
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that he does not know in the Word all the things that the Word knows.Parallels: *ST* III.10.2 and 3; *De veritate*, q. 8, a. 4; *Compend. theol.*, ch. 216; *Quodl*. III, q. 2, a. 1. For Mark 13:32 says, *of that day . . . no one knows, . . . nor the Son, but only the Father*. But he is not speaking of the Son in reference to his divine nature, in virtue of which he has the same knowledge as the Father. Therefore he is speaking of the Son in reference to his human nature. And therefore Christ, in virtue of his soul, does not know all the things that God knows.  
+Obj. 1: Moreover, it appears that he does not know in the Word all the things that the Word knows. *(Parallels: *ST* III.10.2 and 3; *De veritate*, q. 8, a. 4; *Compend. theol.*, ch. 216; *Quodl*. III, q. 2, a. 1.)* For Mark 13:32 says, *of that day . . . no one knows, . . . nor the Son, but only the Father*. But he is not speaking of the Son in reference to his divine nature, in virtue of which he has the same knowledge as the Father. Therefore he is speaking of the Son in reference to his human nature. And therefore Christ, in virtue of his soul, does not know all the things that God knows.  
 
 Obj. 2: Furthermore, God knows an infinity of things. But Christ’s soul, since it is finite, cannot comprehend an infinity of things. Therefore it does not know all the things that God knows.  
 
 Obj. 3: Furthermore, from the infinity of the divine power arises the fact that he can do an infinity of things. But Christ’s soul does not comprehend the infinity of the divine power. Therefore it does not comprehend all the things that God can do. But God knows all the things that he can do. Therefore Christ’s soul does not have knowledge of all the things that God knows.  
 
-Obj. 4: Furthermore, to the degree that an intellect is higher, so can it know more things from one thing; on account of this, the knowledge of superior things is said, in the *Book of Causes* and by Dionysius,Proclus (pseudo-Aristotle), *Liber de causis*, prop. 4; Pseudo-Dionysius, *Celestial Hierarchy*, ch. 13, para. 3 (PG 3:299). to be more universal than that of inferior things. But the divine intellect is higher than Christ’s soul. Therefore from its very self it can know infinitely more things than can Christ’s soul due to the vision of the divine essence.  
+Obj. 4: Furthermore, to the degree that an intellect is higher, so can it know more things from one thing; on account of this, the knowledge of superior things is said, in the *Book of Causes* and by Dionysius, *(Proclus (pseudo-Aristotle), *Liber de causis*, prop. 4; Pseudo-Dionysius, *Celestial Hierarchy*, ch. 13, para. 3 (PG 3:299).)* to be more universal than that of inferior things. But the divine intellect is higher than Christ’s soul. Therefore from its very self it can know infinitely more things than can Christ’s soul due to the vision of the divine essence.  
 
-On the contrary, Revelation 5:12 says, *worthy is the Lamb who was slain, to receive . . . wisdom*, on which a Gloss says, *that is, all knowledge*.*Glossa ordinaria*, at Revelation 5:12, 6.1508 (PL 114:721). Therefore, since the lamb was slain in virtue of his human nature, it appears that Christ has all knowledge in virtue of his human nature.  
+On the contrary, Revelation 5:12 says, *worthy is the Lamb who was slain, to receive . . . wisdom*, on which a Gloss says, *that is, all knowledge*. *(*Glossa ordinaria*, at Revelation 5:12, 6.1508 (PL 114:721).)* Therefore, since the lamb was slain in virtue of his human nature, it appears that Christ has all knowledge in virtue of his human nature.  
 
 Furthermore, there is no good that Christ’s soul does not love, since it has perfect charity. But a thing is not loved unless it is known. Therefore there is no good that it does not know. But everything that is, insofar as it is, is good. Therefore it knows all things.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that he knows all things as clearly as God does.Parallels: *De veritate*, q. 20, a. 4; *Compendium theol*., ch. 216. For clearness of vision is impeded by the dimness of the seeing power or of the medium itself. But in Christ’s intellectual power there is no dimness, since his soul is the clearest and purest mirror, and the medium in which God and Christ’s very soul see is the same, namely, the divine essence itself. Therefore Christ’s soul sees no less clearly than does God.  
+Obj. 1: Moreover, it appears that he knows all things as clearly as God does. *(Parallels: *De veritate*, q. 20, a. 4; *Compendium theol*., ch. 216.)* For clearness of vision is impeded by the dimness of the seeing power or of the medium itself. But in Christ’s intellectual power there is no dimness, since his soul is the clearest and purest mirror, and the medium in which God and Christ’s very soul see is the same, namely, the divine essence itself. Therefore Christ’s soul sees no less clearly than does God.  
 
 Obj. 2: Furthermore, if God were to see more clearly than does Christ’s soul, one clarity would infinitely exceed another clarity. But between things infinitely distant there can be an infinity of intermediates. Therefore there can be an infinity of created things seeing more clearly than does Christ’s soul.  
 
@@ -234,7 +234,7 @@ Furthermore, a greater light causes a greater clarity of vision. But the uncreat
 
 Quaestiuncula 4  
 
-Obj. 1: Moreover, it appears that Christ’s soul does not see all things by that one look by which it knows them in the Word. For, as the Philosopher says,Aristotle, *Topics* 2.10, 114b35. we know the many, but we understand the one. But Christ’s soul sees things in the Word only by understanding them. Therefore it cannot see all things with one look.  
+Obj. 1: Moreover, it appears that Christ’s soul does not see all things by that one look by which it knows them in the Word. For, as the Philosopher says, *(Aristotle, *Topics* 2.10, 114b35.)* we know the many, but we understand the one. But Christ’s soul sees things in the Word only by understanding them. Therefore it cannot see all things with one look.  
 
 Obj. 2: Furthermore, Christ’s soul sees in the Word all the things that the Word sees. But the Word sees an infinity of things. Therefore also Christ’s soul sees an infinity of things. Therefore if it were actually to see all the things that it sees there, it would traverse an actual infinity, which is not possible.  
 
@@ -242,7 +242,7 @@ Obj. 3: Furthermore, the quantity of a power is commensurate with its activity. 
 
 Obj. 4: Furthermore, the blessed angels do not see simultaneously in act whatever they see in the Word; whence also one illuminates another. But the vision by which Christ’s soul sees in the Word is like that vision. Therefore it does not see simultaneously all the things it sees in the Word.  
 
-On the contrary, the Philosopher saysAristotle, *Nicomachean Ethics* 1.8, 1099a1. that happiness does not consist in a habit, but in an activity. But Christ is perfectly happy and blessed. Therefore he is in the act of [knowing] all the things that he he knows.  
+On the contrary, the Philosopher says *(Aristotle, *Nicomachean Ethics* 1.8, 1099a1.)* that happiness does not consist in a habit, but in an activity. But Christ is perfectly happy and blessed. Therefore he is in the act of [knowing] all the things that he he knows.  
 
 Furthermore, whatever things are known are known either by a habit or in act. But Christ does not see the things that he sees in the Word through any habit. Therefore if he does not see them in act, he would know them only in potency.  
 
@@ -280,7 +280,7 @@ Reply Obj. 2: God does not know an infinity of things through a knowledge of vis
 
 First, because it would not know this infinity, if generation were to continue forever, through an infinity of things, but through one, that is, the Word. Nor would it comprehend that Word, since from that one thing still many more could be brought forth, for he could make other species. Now, the infinity of things that are in the power of the created things he again knows by comprehending the creatures themselves, which are not infinite. However, the power of the knower is proportioned to the medium of knowing more than to the things known.  
 
-Second, because it is possible for a power to be limited as regards its existence, but not as regards the notion of that power, as was said above about grace.Above*,* d. 13, q. 1, a. 2, resp. 2. And since the notion of a power is determined to its object, thereby it is possible for some power, finite according to its essence, to be capable of acting on an infinity of objects, but not in an infinite way. For an infinite efficacy in acting can be due only to an infinite essence, since each thing acts insofar as it is a being in act, just as the power of the sun is related to producing an infinity of plants, since however many it produces, its power is never exhausted, yet an infinite efficacy does not act there. So too Christ’s soul, although in its essence it is finite, still nothing prevents from being able to know an infinity of things, but only from being able to know the infinity clearly.  
+Second, because it is possible for a power to be limited as regards its existence, but not as regards the notion of that power, as was said above about grace. *(Above*,* d. 13, q. 1, a. 2, resp. 2.)* And since the notion of a power is determined to its object, thereby it is possible for some power, finite according to its essence, to be capable of acting on an infinity of objects, but not in an infinite way. For an infinite efficacy in acting can be due only to an infinite essence, since each thing acts insofar as it is a being in act, just as the power of the sun is related to producing an infinity of plants, since however many it produces, its power is never exhausted, yet an infinite efficacy does not act there. So too Christ’s soul, although in its essence it is finite, still nothing prevents from being able to know an infinity of things, but only from being able to know the infinity clearly.  
 
 Reply Obj. 3: God can do many things that he never will do, and God knows those things with a knowledge of simple awareness, but not a knowledge of vision. However, the knowledge of Christ’s soul is not equal, even in the number of the things known, to the divine knowledge that is simple awareness, but only to the knowledge of vision, as was said.  
 
@@ -314,11 +314,11 @@ Whether Christ’s soul knows all things in virtue of that knowledge by which it
 
 ***Quaestiuncula 1***
 
-To the third we proceed as follows.Parallels: *ST* III.11.1; 12.1; *De veritate*, q. 20, a. 6; *Compendium theol.,* ch. 216. It appears that Christ’s soul knows all things in virtue of that knowledge by which it knows things in their proper natures.  
+To the third we proceed as follows. *(Parallels: *ST* III.11.1; 12.1; *De veritate*, q. 20, a. 6; *Compendium theol.,* ch. 216.)* It appears that Christ’s soul knows all things in virtue of that knowledge by which it knows things in their proper natures.  
 
-Obj. 1: For every power that is not brought to act is imperfect. But the potential intellect of Christ’s soul is in potency to all intelligible things, since it is in a certain manner able to become all things, as was said in *On the Soul* 3.Aristotle, *On the Soul* 3.5, 430a14. Therefore, if it were not to know all things through their proper likenesses, it would remain imperfect.  
+Obj. 1: For every power that is not brought to act is imperfect. But the potential intellect of Christ’s soul is in potency to all intelligible things, since it is in a certain manner able to become all things, as was said in *On the Soul* 3. *(Aristotle, *On the Soul* 3.5, 430a14.)* Therefore, if it were not to know all things through their proper likenesses, it would remain imperfect.  
 
-Obj. 2: Furthermore, the intellect’s nature, through which it differs from sensation, is this: to the degree that the intellect understands many, and more difficult things, so too can it understand better other, easier things.Aristotle, *On the Soul* 3.4, 429b3. But being of this sort in no way prevents it from being able of receiving all things. Therefore Christ’s soul knows all things even in their proper natures.  
+Obj. 2: Furthermore, the intellect’s nature, through which it differs from sensation, is this: to the degree that the intellect understands many, and more difficult things, so too can it understand better other, easier things. *(Aristotle, *On the Soul* 3.4, 429b3.)* But being of this sort in no way prevents it from being able of receiving all things. Therefore Christ’s soul knows all things even in their proper natures.  
 
 Obj. 3: Furthermore, opposite things more than anything else impede each other, so that they cannot be simultaneously. But the species of opposites do not impede each other from being in the soul simultaneously, for a man has knowledge of white and black at the same time. Therefore much less do other species impede each other such that they could not be together. And thus the same thing as before follows.  
 
@@ -328,23 +328,23 @@ Furthermore, Christ is conformed to us through that knowledge. But we cannot kno
 
 Quaestiuncula 2  
 
-Obj. 1: Moreover, it appears that Christ has this knowledge to a lesser degree than do the angels.Parallels: above, a. 1, resp. 2, ad 1; *ST* III.11.2, 4, 5; *De veritate*, q. 20, a. 4; *Compendium theol*., ch. 226. For to the degree that an intellect is simpler, so far is its natural knowledge greater. But the angelic intellect is simpler that Christ’s soul, since Christ’s intellect does not exceed the boundaries of human nature, beyond which lies the simplicity of the angelic intellect. Therefore the angelic intellect has a greater knowledge than the natural knowledge of Christ’s soul.  
+Obj. 1: Moreover, it appears that Christ has this knowledge to a lesser degree than do the angels. *(Parallels: above, a. 1, resp. 2, ad 1; *ST* III.11.2, 4, 5; *De veritate*, q. 20, a. 4; *Compendium theol*., ch. 226.)* For to the degree that an intellect is simpler, so far is its natural knowledge greater. But the angelic intellect is simpler that Christ’s soul, since Christ’s intellect does not exceed the boundaries of human nature, beyond which lies the simplicity of the angelic intellect. Therefore the angelic intellect has a greater knowledge than the natural knowledge of Christ’s soul.  
 
 Obj. 2: Furthermore, to the degree that an intellect is closer to matter, so far is it feebler in its knowing. But Christ’s intellect, since it is the form of Christ’s material body, is closer to matter than is an angelic intellect. Therefore it knows more feebly. And thus the same thing as before follows.  
 
-Obj. 3: Furthermore, as Isaac says,J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340. *reason arises in the shadow of intelligence*. However, he calls an angel an “intelligence.” Therefore, since Christ has a rational intellect, it appears that his knowledge is inferior to that of the angels.  
+Obj. 3: Furthermore, as Isaac says, *(J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340.)* *reason arises in the shadow of intelligence*. However, he calls an angel an “intelligence.” Therefore, since Christ has a rational intellect, it appears that his knowledge is inferior to that of the angels.  
 
-On the contrary, in Hebrews 2 it is said that Christ was made less than the angels only for the sake of his Passion.RSV for Hebrews 2:9 reads: *we see Jesus, who for a little while was made lower than the angels, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for every one*. Therefore he has a more powerful knowledge than they do.  
+On the contrary, in Hebrews 2 it is said that Christ was made less than the angels only for the sake of his Passion. *(RSV for Hebrews 2:9 reads: *we see Jesus, who for a little while was made lower than the angels, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for every one*.)* Therefore he has a more powerful knowledge than they do.  
 
-Furthermore, as Dionysius says,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210). Christ himself teaches the angels as man. Therefore he has a greater knowledge than them.  
+Furthermore, as Dionysius says, *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210).)* Christ himself teaches the angels as man. Therefore he has a greater knowledge than them.  
 
 Quaestiuncula 3  
 
-Obj. 1: Moreover, it appears that Christ did not have knowledge through a mode of synthesis.Parallels: *ST* III.11.3 and 5; *De veritate*, q. 20, a. 3, ad 1. For, as Damascene says,John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:947). in Christ we do not ask about counsel or choice. But these things pertain to the synthesis of practical reasoning. Therefore for the same reason there was in him no synthesis as regards speculative matters either.  
+Obj. 1: Moreover, it appears that Christ did not have knowledge through a mode of synthesis. *(Parallels: *ST* III.11.3 and 5; *De veritate*, q. 20, a. 3, ad 1.)* For, as Damascene says, *(John Damascene, *On the Orthodox Faith*, bk. 2, ch. 22 (PG 94:947).)* in Christ we do not ask about counsel or choice. But these things pertain to the synthesis of practical reasoning. Therefore for the same reason there was in him no synthesis as regards speculative matters either.  
 
 Obj. 2: Furthermore, the discourse of reason is opposed to deiformity. But Christ’s entire soul was deiformed. Therefore he did not have synthesized knowledge.  
 
-Obj. 3: Furthermore, the discourse of reason, as Isaac says,J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340. happens because it has a dim light. But there is no dimness or obscurity in Christ’s soul. Therefore neither did he have knowledge through the mode of synthesis.  
+Obj. 3: Furthermore, the discourse of reason, as Isaac says, *(J. T. Muckle, "Isaac Israeli Liber de definicionibus," *Archives d'histoire doctrinale et littéraire du Moyen Age* 11 (1937‒38): 299–340.)* happens because it has a dim light. But there is no dimness or obscurity in Christ’s soul. Therefore neither did he have knowledge through the mode of synthesis.  
 
 On the contrary, Christ assumed all natural properties that follow on human nature. Therefore he assumed reason. But the act of reason is to inquire and synthesize. Therefore he had synthetic knowledge.  
 
@@ -352,39 +352,39 @@ Furthermore, to object and respond pertain to synthetic knowledge. But Christ ex
 
 Quaestiuncula 4  
 
-Obj. 1: Furthermore, it appears that this knowledge was divided into several habits.Parallel: *ST* III.11.6. For his knowledge was univocal with our knowledge. But our knowledge is about all the things that Christ knew by several habits. Therefore so too was Christ’s knowledge.  
+Obj. 1: Furthermore, it appears that this knowledge was divided into several habits. *(Parallel: *ST* III.11.6.)* For his knowledge was univocal with our knowledge. But our knowledge is about all the things that Christ knew by several habits. Therefore so too was Christ’s knowledge.  
 
-Obj. 2: Furthermore, as the Philosopher says,Aristotle, *On the Soul* 3.8, 431b24. the sciences are divided the way realities are. But Christ had science, or knowledge, about diverse realities. Therefore he had the diverse habits of the sciences.  
+Obj. 2: Furthermore, as the Philosopher says, *(Aristotle, *On the Soul* 3.8, 431b24.)* the sciences are divided the way realities are. But Christ had science, or knowledge, about diverse realities. Therefore he had the diverse habits of the sciences.  
 
 Obj. 3: Furthermore, sciences are divided according to the diverse notions of knowing. But as far as pertains to this knowledge, he does not know all things by the same species or notion, but by many. Therefore he did not have only one habit of knowledge, but many.  
 
-On the contrary, Christ’s knowledge was the most perfect. But to the degree that knowledge is one, so far as is it more perfect, as is clear from Dionysius and the *Book of Causes*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 12 (PG 3:291); Proclus (pseudo-Aristotle), *Liber de causis*, prop. 10. Therefore he knew all things more through one habit.  
+On the contrary, Christ’s knowledge was the most perfect. But to the degree that knowledge is one, so far as is it more perfect, as is clear from Dionysius and the *Book of Causes*. *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 12 (PG 3:291); Proclus (pseudo-Aristotle), *Liber de causis*, prop. 10.)* Therefore he knew all things more through one habit.  
 
 Furthermore, a knowledge that rules several arts is not divided through those arts, but it is one habit, as is clear of the military knowledge relative to all the sciences subordinate to it. But Christ’s knowledge was ruling, and as it were architectonic, relative to all human knowledge. Therefore he knew through one habit all the things that pertain to this knowledge.  
 
 Quaestiuncula 5  
 
-Obj. 1: Moreover, it appears that he progressed in this knowledge.Parallels: *ST* III.12.2; 15.8; *Compendium theol*., ch. 216; *Super Ioan*. 4, lect. 1; *Super Heb*. 5, lect. 2. For Hebrews 5:8 says, *he learned obedience through what he suffered*. But to learn is to progress in knowledge. Therefore he progressed in knowledge.  
+Obj. 1: Moreover, it appears that he progressed in this knowledge. *(Parallels: *ST* III.12.2; 15.8; *Compendium theol*., ch. 216; *Super Ioan*. 4, lect. 1; *Super Heb*. 5, lect. 2.)* For Hebrews 5:8 says, *he learned obedience through what he suffered*. But to learn is to progress in knowledge. Therefore he progressed in knowledge.  
 
 Obj. 2: Furthermore, not to make progress in the things in which someone can make progress is a great defect. But in every knowledge in which someone does not know all things, he can make progress. Therefore, since Christ did not know all things in virtue of this knowledge, it appears that he could make progress, and thus he would make progress in it.  
 
 Obj. 3: Furthermore, his agent intellect abstracted species from phantasms, and this is its act, otherwise it would have been pointless to have assumed it. But the species abstracted from phantasms is received in his potential intellect. Therefore several species were always received in Christ’s potential intellect. Therefore he progressed in knowledge.  
 
-Obj. 4: Furthermore, this is clear from the authority of Ambrose noted above.*Sent*. III. 14. 2(40), 2, actually quoting Venerable Bede, *Homiliae*, bk. 1, hom. 1 (CCSL 122; PL 94:11).  
+Obj. 4: Furthermore, this is clear from the authority of Ambrose noted above. *(*Sent*. III. 14. 2(40), 2, actually quoting Venerable Bede, *Homiliae*, bk. 1, hom. 1 (CCSL 122; PL 94:11).)*  
 
-On the contrary, Damascene says, *those who say Christ progressed in wisdom and grace, such that he received addition, do not venerate the union that is according to the hypostasis*.John Damascene, *On the Orthodox Faith*, bk. 3, ch. 22 (PG 94:1087). But that union should be venerated wholly. Therefore we should not say that he progressed in knowledge.  
+On the contrary, Damascene says, *those who say Christ progressed in wisdom and grace, such that he received addition, do not venerate the union that is according to the hypostasis*. *(John Damascene, *On the Orthodox Faith*, bk. 3, ch. 22 (PG 94:1087).)* But that union should be venerated wholly. Therefore we should not say that he progressed in knowledge.  
 
 Quaestiuncula 6  
 
-Obj. 1: Moreover, it appears that, for this knowledge, he did receive from the angels.Parallels: above, d. 13, a. 2, resp. 2; *ST* III.12.4; 30.2.ad 1. For Dionysius says that *through the angels we see him ordained under the pattern of the laws*.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 4 (PG 3:182). But one ordained receives something from the one ordaining him. Therefore Christ received something from the angels.  
+Obj. 1: Moreover, it appears that, for this knowledge, he did receive from the angels. *(Parallels: above, d. 13, a. 2, resp. 2; *ST* III.12.4; 30.2.ad 1.)* For Dionysius says that *through the angels we see him ordained under the pattern of the laws*. *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 4 (PG 3:182).)* But one ordained receives something from the one ordaining him. Therefore Christ received something from the angels.  
 
 Obj. 2: Furthermore, Luke 22:43 says that *there appeared to him an angel from heaven, strengthening him*. But one being strengthened receives something from the one strengthening him. Therefore Christ too receives from the angel.  
 
-Obj. 3: Furthermore, Christ, while he was on earth, wished to be subject to the ordinances of the law, and *was born under the law* (Gal 4:4). But observance of the law is of less dignity than is the celestial hierarchy. Therefore he should also be subject to the celestial hierarchy. However, the law of the celestial hierarchy is that men receive from the angels, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 3 (PG 3:179). Therefore he receives from the angels.  
+Obj. 3: Furthermore, Christ, while he was on earth, wished to be subject to the ordinances of the law, and *was born under the law* (Gal 4:4). But observance of the law is of less dignity than is the celestial hierarchy. Therefore he should also be subject to the celestial hierarchy. However, the law of the celestial hierarchy is that men receive from the angels, as Dionysius says. *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 4, para. 3 (PG 3:179).)* Therefore he receives from the angels.  
 
 Obj. 4: Furthermore, his body receives an impression from the heavenly bodies. Therefore for a like reason it receives from the heavenly spirits.  
 
-On the contrary, a superior does not receive from an inferior. But Christ, even according to his human nature, was superior to the angels, and is their head, as was said above.Above*,* d. 13, q. 2, a. 2, resp. 2. Therefore he does not receive from them.  
+On the contrary, a superior does not receive from an inferior. But Christ, even according to his human nature, was superior to the angels, and is their head, as was said above. *(Above*,* d. 13, q. 2, a. 2, resp. 2.)* Therefore he does not receive from them.  
 
 Furthermore, what one immediately receives from the Word need not be received from the angels. But Christ’s soul immediately receives from the Word united to it. Therefore it does not receive from the angels.  
 
@@ -408,7 +408,7 @@ To the second question, it should be said that three things are required for int
 
 First, with respect to the efficacy of the knowing—namely, the certitude of the cognition, or the clarity, which is the same thing, that follows from the light itself. And in this way, since Christ had the light of grace more abundantly than did the angels, he had a clearer cognition than did the angels.  
 
-Second, one cognition can be more potent than another in virtue of the likeness of the things known, which is measured by the species. And with respect to this too, Christ had a more perfect cognition than did the angels, since the species of more things were infused in him than were created with or infused in the angels. Whence, even as regards things that pertain to the hierarchical illuminations, Christ illuminated the angels, as Dionysius says.Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210).  
+Second, one cognition can be more potent than another in virtue of the likeness of the things known, which is measured by the species. And with respect to this too, Christ had a more perfect cognition than did the angels, since the species of more things were infused in him than were created with or infused in the angels. Whence, even as regards things that pertain to the hierarchical illuminations, Christ illuminated the angels, as Dionysius says. *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210).)*  
 
 Third, one cognition can be nobler than another in virtue of the kind of cognition, which follows on the intellectual power. And since Christ knew by a potential intellect, the object of which is the phantasms, therefore he knew them with continuous quantity and time, using the phantasms as the objects of the intellect—not as receiving the species from them, but as placing the species on them. This is like what happens in one who has the habit [of knowledge] and actually considers these things. However, the angels do not know by this kind of knowledge, but by a higher one, according to the order of its nature—that is, without continuous quantity and time.  
 
@@ -420,7 +420,7 @@ Reply Obj. 3: That dimness is understood with respect to the fact that it unders
 
 Response to Quaestiuncula 3  
 
-To the third question, it should be said that from the very fact that our intellect receives from the phantasms, it follows that it has within it a synthetic knowledge, insofar as one memory arises from many sensations, and one experience from many memories, and one universal principle from many experiences, and it concludes other things from that. And this is how it acquires knowledge, as is said in the *Metaphysics* 1 and at the end of the *Posterior Analytics* 2.Aristotle, *Metaphysics* 1.1, 980b29‒981a16; *Posterior Analytics* 2.19, 100a3‒20; see Aquinas, *In Metaph.*, bk. 1, lect. 1, n. 17. Whence the way the intellect is related to the phantasms is the way it is related to synthesis. Now, it is related to the phantasms in two ways: in one way, as as receiving knowledge from them, which happens in those who do not yet have knowledge, in virtue of a motion from things to the soul; in the other way, in virtue of a motion that is from the soul to things, insofar as it uses the phantasms as examples, in which it sees what it contemplates—yet the knowledge of which it already had in a habit.  
+To the third question, it should be said that from the very fact that our intellect receives from the phantasms, it follows that it has within it a synthetic knowledge, insofar as one memory arises from many sensations, and one experience from many memories, and one universal principle from many experiences, and it concludes other things from that. And this is how it acquires knowledge, as is said in the *Metaphysics* 1 and at the end of the *Posterior Analytics* 2. *(Aristotle, *Metaphysics* 1.1, 980b29‒981a16; *Posterior Analytics* 2.19, 100a3‒20; see Aquinas, *In Metaph.*, bk. 1, lect. 1, n. 17.)* Whence the way the intellect is related to the phantasms is the way it is related to synthesis. Now, it is related to the phantasms in two ways: in one way, as as receiving knowledge from them, which happens in those who do not yet have knowledge, in virtue of a motion from things to the soul; in the other way, in virtue of a motion that is from the soul to things, insofar as it uses the phantasms as examples, in which it sees what it contemplates—yet the knowledge of which it already had in a habit.  
 
 Likewise also there are two sorts of synthesis: one by which a man proceeds from things known to the inquiry about something unkown—and such synthesis was not present in Christ—and the other according to which a man who, bringing into act the things he holds in a habit, contemplates conclusions from principles as effects from causes—and this synthetic knowledge was in Christ.  
 
@@ -448,7 +448,7 @@ Response to Quaestiuncula 5
 
 To the fifth question, it should be said that, since the eminence of knowledge, as was said, consists in the three things, Christ’s knowledge never grew with respect to the kind of the knowledge. For that kind of knowledge follows on his human nature, which always endured in him. Nor did it grow with regard to the number of things known, since from the first instant of his conception he knew all the things that pertain to this knowledge. However, it did grow with respect to a certain mode of certitude.  
 
-For since our soul by nature is a middle between a pure intellect, of the sort the angels have, and sensation, it becomes certain about things in two ways. In one way, from the light of the intellect; this is the sort of certitude found in demonstrations of things that are never seen. In the other way, from sensation, as when someone is certain of the things that he sees with his senses. And this latter certitude is acquired by someone, however much he might also know something through the most certain demonstration, when he sees sensibly what before he did not see; this is why the soul is pleased even in seeing things that it already knew. And this certitude is called “experiential.” And with respect to this, Christ’s knowledge did grow, insofar as he daily saw with his senses things that he had not seen before; however, it did not grow with regard to its essence.Concerning this solution, it should be carefully noted that Aquinas changed his own opinion in *ST* III.12.2, when he there proves that some habit of knowing which could be increased by the abstraction of species was in the soul of Christ, although some, such as Albert the Great, Alexander of Hales, St. Bonaventure and Aquinas himself, in resp. ad 2 and below d. 18, a. 3, ad 5, think otherwise.  
+For since our soul by nature is a middle between a pure intellect, of the sort the angels have, and sensation, it becomes certain about things in two ways. In one way, from the light of the intellect; this is the sort of certitude found in demonstrations of things that are never seen. In the other way, from sensation, as when someone is certain of the things that he sees with his senses. And this latter certitude is acquired by someone, however much he might also know something through the most certain demonstration, when he sees sensibly what before he did not see; this is why the soul is pleased even in seeing things that it already knew. And this certitude is called “experiential.” And with respect to this, Christ’s knowledge did grow, insofar as he daily saw with his senses things that he had not seen before; however, it did not grow with regard to its essence. *(Concerning this solution, it should be carefully noted that Aquinas changed his own opinion in *ST* III.12.2, when he there proves that some habit of knowing which could be increased by the abstraction of species was in the soul of Christ, although some, such as Albert the Great, Alexander of Hales, St. Bonaventure and Aquinas himself, in resp. ad 2 and below d. 18, a. 3, ad 5, think otherwise.)*  
 
 Reply Obj. 1: This learning should be referred to experience.  
 
@@ -456,11 +456,11 @@ Reply Obj. 2: Christ’s soul, although it did not know all things in this kind 
 
 Reply Obj. 3: In Christ’s potential intellect no species were newly received through the light of his agent intellect. Rather, [through it] was accomplished a new conversion to the species present in his imagination, as is the case in one who has the habit of knowing those things that he imagines or sees.  
 
-Reply Obj. 4: Ambrose understands the progress of Christ’s knowledge with reference to experience, according to the new conversion to a present sensible, or else as the Master considered it above.*Sent*. III, 14.2(40).3.  
+Reply Obj. 4: Ambrose understands the progress of Christ’s knowledge with reference to experience, according to the new conversion to a present sensible, or else as the Master considered it above. *(*Sent*. III, 14.2(40).3.)*  
 
 Response to Quaestiuncula 6  
 
-To the sixth question, it should be said that, according to Dionysius’s teaching in the *Heavenly Hierarchy*,Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210). the angels from whom the others receive knowledge are full of a more abundant light, as those who more closely contemplate the divine clarity. For the receiver must be in potency relative to the one from whom he receives, and thus is less in the actuality of what he must receive. Whence, since Christ’s soul had the intellectual light more abundantly than do the angels, as is clear from things said above, it is certain that Christ, even when bearing his mortal body, received no knowledge from the angels; rather, he—not only in virtue of his Godhead but even in virtue of his soul—illuminated all the angels, just as he illuminates them even now. For that soul was not of less glory or less knowledge in that state than it is now, since from the beginning of his conception he was a perfect comprehensor.  
+To the sixth question, it should be said that, according to Dionysius’s teaching in the *Heavenly Hierarchy*, *(Pseudo-Dionysius, *Celestial Hierarchy*, ch. 7, para. 3 (PG 3:210).)* the angels from whom the others receive knowledge are full of a more abundant light, as those who more closely contemplate the divine clarity. For the receiver must be in potency relative to the one from whom he receives, and thus is less in the actuality of what he must receive. Whence, since Christ’s soul had the intellectual light more abundantly than do the angels, as is clear from things said above, it is certain that Christ, even when bearing his mortal body, received no knowledge from the angels; rather, he—not only in virtue of his Godhead but even in virtue of his soul—illuminated all the angels, just as he illuminates them even now. For that soul was not of less glory or less knowledge in that state than it is now, since from the beginning of his conception he was a perfect comprehensor.  
 
 Reply Obj. 1: As Dionysius himself explains it in the same place, Christ is said to be ordered by the angels not because he received illumination from them, but because others were instructed by angels about deeds to be done that pertained to him—for example, they instructed Joseph about his flight into Egypt, and the return from Egypt, as is said in Matthew 2:12-19. For he himself did not want to instruct them through his very self in these things, so that externally he would not be different from other children, and further, so that the truth of his assumed nature would be shown.  
 
@@ -474,7 +474,7 @@ Article 4
 
 ***Whether Christ’s soul had omnipotence, as it had the knowledge of all things***
 
-To the fourth we proceed as follows.Parallels: above, d. 1, q. 1, a. 2, ad 2; *In I Sent*., d. 43, q. 1, a. 2, ad 2; *ST* III.13.1. It appears that Christ’s soul had omnipotence, just as it had knowledge of all things.  
+To the fourth we proceed as follows. *(Parallels: above, d. 1, q. 1, a. 2, ad 2; *In I Sent*., d. 43, q. 1, a. 2, ad 2; *ST* III.13.1.)* It appears that Christ’s soul had omnipotence, just as it had knowledge of all things.  
 
 Obj. 1: First, because this is what Matthew 28:18 says: *all authority in heaven and on earth has been given to me*, and it is speaking with reference to his human nature. Therefore he has omnipotence in his human nature.  
 
@@ -486,7 +486,7 @@ Obj. 4: Furthermore, just as God’s power is infinite, so too is his knowledge.
 
 Obj. 5: Furthermore, just as in a human soul there is the possibility of receiving all things through the potential intellect, by which it becomes all things, so too in it is the possibility of making all things through its agent intellect, by which it makes it all things. But the knowledge of all things is communicated to Christ insofar as his soul is receptive of all things. Therefore likewise omnipotence should be communicated to him.  
 
-On the contrary, a power has the notion of a principle, as the *Metaphysics* 5 says.Aristotle, *Metaphysics* 5.12, 1019a15; Aquinas, *In Metaph.*, bk. 5, lect. 14, n. 955. But being the principle of all things, which belongs to God alone, could not be communicated to Christ’s soul. Therefore omnipotence could not be communicated to him.  
+On the contrary, a power has the notion of a principle, as the *Metaphysics* 5 says. *(Aristotle, *Metaphysics* 5.12, 1019a15; Aquinas, *In Metaph.*, bk. 5, lect. 14, n. 955.)* But being the principle of all things, which belongs to God alone, could not be communicated to Christ’s soul. Therefore omnipotence could not be communicated to him.  
 
 Furthermore, Christ’s soul is conserved in existence though the power of God. But conserving itself in existence could not be communicated to it, since then it would not be a created thing. Therefore omnipotence could not be communicated to him.  
 
@@ -508,8 +508,8 @@ Reply Obj. 5: The power of the agent intellect is not so great that it can make 
 
 Exposition of the text  
 
-*The creature is in no way equated to the Creator*.*Sent.* III, 14.1(39).2, quoting Walter of Mortagne, *Epistola ad Hugonem de S. Victore*; see Augustine, *De natura et gratia*, ch. 33, n. 37 (CSEL 60:260; PL 44:265). This should be understood in reference to the notion of the thing possessed and in reference to the way of possessing it. For although something the same belongs to God and the created thing, it does not belong in the same way or according to the same notion.  
+*The creature is in no way equated to the Creator*. *(*Sent.* III, 14.1(39).2, quoting Walter of Mortagne, *Epistola ad Hugonem de S. Victore*; see Augustine, *De natura et gratia*, ch. 33, n. 37 (CSEL 60:260; PL 44:265).)* This should be understood in reference to the notion of the thing possessed and in reference to the way of possessing it. For although something the same belongs to God and the created thing, it does not belong in the same way or according to the same notion.  
 
-*No one knows the things that are God’s, other than the Spirit of God*.*Sent*. III. 14. 1(39), 2, quoting 1 Cor 2:10. The Father and the Son, who have the same knowledge as the Holy Spirit, are not being excluded in this.  
+*No one knows the things that are God’s, other than the Spirit of God*. *(*Sent*. III. 14. 1(39), 2, quoting 1 Cor 2:10.)* The Father and the Son, who have the same knowledge as the Holy Spirit, are not being excluded in this.  
 
-*It was naturally capable of knowledge*.*Sent*. III, 14.2(40).1. For the soul was made for knowing all things, but not for doing all things.
+*It was naturally capable of knowledge*. *(*Sent*. III, 14.2(40).1.)* For the soul was made for knowing all things, but not for doing all things.

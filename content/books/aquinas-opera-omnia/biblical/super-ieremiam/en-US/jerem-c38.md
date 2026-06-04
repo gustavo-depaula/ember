@@ -36,13 +36,13 @@ Lecture 2
 
 > ^36:6^ Therefore, you shall go, and read from the scroll in which you have written the words of the Lord from my mouth, while the people listen in the house of the Lord, on the fast day; and also you shall read to them in the hearing of all Judah, that come out of their cities.
 
-> ^36:7^ It may be that they present their petition before the Lord,Heb. אוּלַ֞י תִּפֹּ֤ל תְּחִנָּתָם֙ לִפְנֵ֣י יְהוָ֔ה: *perhaps their plea will fall before the Lord*. and each one turn from his own wicked way; for it is a great fury and indignation which the Lord has spoken against this people.
+> ^36:7^ It may be that they present their petition before the Lord, *(Heb. אוּלַ֞י תִּפֹּ֤ל תְּחִנָּתָם֙ לִפְנֵ֣י יְהוָ֔ה: *perhaps their plea will fall before the Lord*.)* and each one turn from his own wicked way; for it is a great fury and indignation which the Lord has spoken against this people.
 
 > ^36:8^ And Baruch, the son of Neriah, did according to all which Jeremiah commanded him when he read the words of the Lord from the scroll in the house of the Lord.
 
 > ^36:9^ Now it came to pass in the fifth year of Jehoiakim, the son of Josiah, king of Israel, in the ninth month, that they proclaimed a fast in the sight of the Lord for all the people in Jerusalem, and for the whole multitude which had come from the cities of Judah.
 
-> ^36:10^ And Baruch read the words of Jeremiah from the scroll in the house of the Lord, in the treasury of Gemariah, the son of Shaphan the scribe,Gemariah is the brother of Ahicam, who had protected Jeremiah from death (Jer 26:24). in the upper vestibule, in the opening of the new gate of the house of the Lord, in the hearing of all the people.
+> ^36:10^ And Baruch read the words of Jeremiah from the scroll in the house of the Lord, in the treasury of Gemariah, the son of Shaphan the scribe, *(Gemariah is the brother of Ahicam, who had protected Jeremiah from death (Jer 26:24).)* in the upper vestibule, in the opening of the new gate of the house of the Lord, in the hearing of all the people.
 
 > **190**. Here, the declaration is first given to the people;
 
@@ -150,7 +150,7 @@ Lecture 6
 
 ***Baruch and Jeremiah persecuted***
 
-^36:26^ And the king commanded Jerachmiel, the son of Amelech,Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.  
+^36:26^ And the king commanded Jerachmiel, the son of Amelech, *(Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.”)* and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.  
 
 > **194**. Here, the persecution of the authors is given:
 

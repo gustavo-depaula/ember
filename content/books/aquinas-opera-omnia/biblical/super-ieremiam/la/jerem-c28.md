@@ -12,7 +12,7 @@ Primo ponit titulum;
 
 secundo prophetiam, ibi, ***haec dicit Dominus***;  
 
-tertio epilogat, ibi (cap. 27): ***in principio regni Joakim***.Here, the Parma edition reads *Joachim*, in place of *Joakim*.  
+tertio epilogat, ibi (cap. 27): ***in principio regni Joakim***. *(Here, the Parma edition reads *Joachim*, in place of *Joakim*.)*  
 
 Titulus per se patet.  
 
@@ -58,7 +58,7 @@ Primo praedicationis auditum. ***Et audierunt***. Ezech. 33: *audiunt sermones t
 
 Secundo iniquum consilium: ***cumque complesset Jeremias . . . apprehenderunt eum sacerdotes***. Sap. 2: *morte turpissima condemnemus eum*. Amos 5: *odio habuerunt corripientem in porta, et loquentem perfecte, abominati sunt*.  
 
-Tertio suae nequitiae argumentum: ***quare***Here, the Parma edition reads *quia*, “because,” in place of *quare*, “why.” ***prophetavit***; quasi dicat: videtur falsum dicere, cum Dominus locum istum elegerit. 3 Reg. ult.: *ego odi eum, quia non prophetat mihi bonum, sed malum*.  
+Tertio suae nequitiae argumentum: ***quare*** *(Here, the Parma edition reads *quia*, “because,” in place of *quare*, “why.”)* ***prophetavit***; quasi dicat: videtur falsum dicere, cum Dominus locum istum elegerit. 3 Reg. ult.: *ego odi eum, quia non prophetat mihi bonum, sed malum*.  
 
 Quarto populi concursum: ***et congregatus est omnis populus***. Eccli. 10: *qualis rector est civitatis, tales et inhabitantes in ea*. Ibidem 7: *non te immittas in populum, neque alliges duplicia peccata*.  
 
@@ -126,7 +126,7 @@ Lectio 5
 
 Et primo proponunt exemplum justi ad imitandum circa factum Michaeae, ponentes ipsius praedicationem; ***Michaeas***; unus de duodecim prophetis minoribus, ***de Morasthi***, ad differentiam Michaeae filii Yela, de quo 3 Reg. ult.: ***Sion*** Michaeae 3: *audite principes Jacob, et duces domus Israel*. Supra 9: ***et dabo Jerusalem in acervos arenae, et cubilia draconum, et civitates Juda dabo in desolationem, eo quod non sit habitator***.  
 
-Et populi conversionem: ***numquid morte condemnavit eum?*** quasi dicat, non. Supra 6: ***interrogate de semitis antiquis quae sit via bona, et ambulate in ea; et invenietis refrigerium animabus vestris***. Et inducunt conclusionem: ***itaque nos***Here, the Parma edition reads *non*, “not,” in place of *nos*, “we.” ***faciamus***. Psal. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.  
+Et populi conversionem: ***numquid morte condemnavit eum?*** quasi dicat, non. Supra 6: ***interrogate de semitis antiquis quae sit via bona, et ambulate in ea; et invenietis refrigerium animabus vestris***. Et inducunt conclusionem: ***itaque nos*** *(Here, the Parma edition reads *non*, “not,” in place of *nos*, “we.”)* ***faciamus***. Psal. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*.  
 
 Secundo proponunt exemplum injustitiae ad cavendum, ne malis mala adjungant; ***fuit quoque vir prophetans***.  
 

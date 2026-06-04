@@ -6,7 +6,7 @@
 
 Ostenso quia Spiritus Sanctus procedit temporaliter et datur a Patre et Filio, hic inquirit, utrum etiam a seipso detur vel mittatur; et dividitur in partes duas: in prima ostendit quod Spiritus Sanctus datur et mittitur a seipso; in secunda inducit similitudinem de missione Filii, ibi: *ne autem mireris quod Spiritus Sanctus dicitur mitti vel procedere a se*.  
 
-Ostendit autem in prima parte dupliciterParma: *prima partes duas. Primo*. quod Spiritus Sanctus a se detur, scilicet per Augustini auctoritatem et per duas rationes: quarum una talis est. Quidquid potest Pater et Filius, potest et Spiritus Sanctus. Sed Pater et Filius possunt dare Spiritum Sanctum. Ergo, etc. Alia est: quidquid operatur Pater et Filius, operatur Spiritus Sanctus, et sic ut prius. Et rationes istae habent efficaciam propter effectum connotatum in missione et datione Spiritus Sancti ex parte creaturae. Operatio enim et potentia respectu creaturae est communis omnibus tribus personis.  
+Ostendit autem in prima parte dupliciter *(Parma: *prima partes duas. Primo*.)* quod Spiritus Sanctus a se detur, scilicet per Augustini auctoritatem et per duas rationes: quarum una talis est. Quidquid potest Pater et Filius, potest et Spiritus Sanctus. Sed Pater et Filius possunt dare Spiritum Sanctum. Ergo, etc. Alia est: quidquid operatur Pater et Filius, operatur Spiritus Sanctus, et sic ut prius. Et rationes istae habent efficaciam propter effectum connotatum in missione et datione Spiritus Sancti ex parte creaturae. Operatio enim et potentia respectu creaturae est communis omnibus tribus personis.  
 
 *Ne autem mireris quod Spiritus Sanctus dicitur mitti vel procedere a se*. Hic inducit missionem Filii ad notificandum missionem Spiritus Sancti, et dividitur in partes duas: in prima determinat de Filii missione in communi; in secunda quantum ad speciales modos, ibi: *hic quaeritur, utrum semel tantum missus sit Filius, an saepe mittatur*.  
 
@@ -46,7 +46,7 @@ Articulus 1
 
 Missio enim videtur dicere quamdam loci mutationem, secundum quod dicimus nuntium mitti ad aliquem locum. Sed divinis personis, quae ubique sunt, non convenit aliqua loci mutatio. Ergo nec missio.  
 
-Praeterea, super illud Ezech. 16:53: *convertens restituam eos*Mandonnet suggests the alternative text: *convertam restituens eos*. *conversione Sodomorum cum filiabus suis, et conversione Samariae et filiarum ejus*, dicit Hieronymus: *quod conjunctum est et in uno corpore copulatum, mitti non potest*. Sed una persona conjuncta est alii majori unione quam aliqua copulatio corporalis. Ergo una persona non potest mitti ab alia.  
+Praeterea, super illud Ezech. 16:53: *convertens restituam eos* *(Mandonnet suggests the alternative text: *convertam restituens eos*.)* *conversione Sodomorum cum filiabus suis, et conversione Samariae et filiarum ejus*, dicit Hieronymus: *quod conjunctum est et in uno corpore copulatum, mitti non potest*. Sed una persona conjuncta est alii majori unione quam aliqua copulatio corporalis. Ergo una persona non potest mitti ab alia.  
 
 Item, nihil pertinens ad inferioritatem potest dici de una persona respectu alterius, cum non sint gradus in Trinitate; unde dicit Damascenus, lib. 3 *Fid. orthod*., cap. 14, quod Christus non est obediens Patri nisi secundum quod homo. Missio autem et datio videntur importare quamdam inferioritatem in misso et dato. Ergo neutrum convenit divinae personae.  
 
@@ -84,7 +84,7 @@ Respondeo dicendum, quod quaedam nomina sunt in divinis quae significant tantum 
 
 Sed circa hoc est duplex opinio. Quidam enim dicunt, quod, principaliter significat notionem, et ex consequenti essentiam secundum effectum connotatum. Alii dicunt e converso; et hoc mihi videtur verius esse, considerata virtute vocabuli. Missio enim secundum rationem sui nominis non dicit exitum ab aliquo sicut a principio a quo missio esse habet; sed solum in ordine ad effectum missionis ponitur auctoritas alicujus ad missum. Servus enim qui mittitur a domino, non exit ab ipso secundum suum esse, sed sicut a principio movente ipsum per imperium ad hunc actum. Sed quia in divinis personis non potest esse auctoritas respectu missi, nisi secundum originem essendi, ideo ex consequenti importatur relatio originis in missione, secundum quam est notionale; et principaliter importatur ordo ad effectum missionis secundum quem est essentiale.  
 
-Sed in processione temporali est e converso: quia processio secundum notionem suam, prout sumitur in divinis, dicit exitum a principio originante, et non dicit ordinem ad effectum nisi ex consequenti; scilicet quantum ad modum processionis,Parma adds *qui est temporalis*, “which is temporal.” ut dictum est. Et ideo processio temporalis videtur esse principaliter notionale, et ex consequenti significare essentiam ratione connotati effectus. Datio autem accedit adhucParma: *dico autem, quod hic accedit plus*, “however, I say that this approaches closer to the essence.” plus ad essentiam quam missio, ut patet ex dictis.  
+Sed in processione temporali est e converso: quia processio secundum notionem suam, prout sumitur in divinis, dicit exitum a principio originante, et non dicit ordinem ad effectum nisi ex consequenti; scilicet quantum ad modum processionis, *(Parma adds *qui est temporalis*, “which is temporal.”)* ut dictum est. Et ideo processio temporalis videtur esse principaliter notionale, et ex consequenti significare essentiam ratione connotati effectus. Datio autem accedit adhuc *(Parma: *dico autem, quod hic accedit plus*, “however, I say that this approaches closer to the essence.”)* plus ad essentiam quam missio, ut patet ex dictis.  
 
 Et per hoc patet solutio ad tria prima argumenta.  
 
@@ -146,7 +146,7 @@ Dans enim semper videtur habere auctoritatem respectu dati. Sed nulla persona ha
 
 Item supra, dist. 14, dixit Magister, quod homines non possunt dare Spiritum Sanctum, quia ab eis non procedit. Sed nulla persona procedit a seipsa; alias esset principium sui ipsius. Ergo nulla persona seipsam dare potest.  
 
-Item, sicut dictum est, missio ponit exitum ipsius missi a mittente. Sed nulli personae convenit exire a seipsa. Ergo nulli personae convenitParma omits *exire a seipsa. Ergo nulli personae convenit*. mittere se.  
+Item, sicut dictum est, missio ponit exitum ipsius missi a mittente. Sed nulli personae convenit exire a seipsa. Ergo nulli personae convenit *(Parma omits *exire a seipsa. Ergo nulli personae convenit*.)* mittere se.  
 
 Item, sicut dictum est, processio principaliter importat respectum personae ad principium a quo distinguitur. Sed nulla persona divina distinguitur a seipsa. Ergo nec a se procedit.  
 
@@ -156,7 +156,7 @@ Contra, Augustinus, 4 *De Trinit*., cap. 20: *sicut generari est Filium esse a P
 
 Item, hoc videtur ex his quae in littera dicuntur.  
 
-Respondeo dicendum, quod secundum differentiam donationis, missionis et processionis superius assignatam, diversimode oportet in hac quaestione loqui. Si enim accipiamus dationem, de ratione dationis non videtur plus esse nisi quod datum libere a dante habeatur. Hoc autem potest esse dupliciter: aut sicut aliquis libere seipsum habet, vel aliquid quod in ipso est; aut sicut libere aliquis habet suam possessionem, vel id respectu cujus dominium habet, secundum quod habere multis modis dicitur. Unde de ratione dationis non est quod ponatur aliqua auctoritas respectu ipsius dati, potest enim aliquis et seipsum ex amore dare alicui in amicum, nisi specificetur datio secundum specialem modum habendi, qui est secundum dominium, qualisParma: *talis autem*. donatio nulla est respectu divinorum.  
+Respondeo dicendum, quod secundum differentiam donationis, missionis et processionis superius assignatam, diversimode oportet in hac quaestione loqui. Si enim accipiamus dationem, de ratione dationis non videtur plus esse nisi quod datum libere a dante habeatur. Hoc autem potest esse dupliciter: aut sicut aliquis libere seipsum habet, vel aliquid quod in ipso est; aut sicut libere aliquis habet suam possessionem, vel id respectu cujus dominium habet, secundum quod habere multis modis dicitur. Unde de ratione dationis non est quod ponatur aliqua auctoritas respectu ipsius dati, potest enim aliquis et seipsum ex amore dare alicui in amicum, nisi specificetur datio secundum specialem modum habendi, qui est secundum dominium, qualis *(Parma: *talis autem*.)* donatio nulla est respectu divinorum.  
 
 Et ideo datio non exigit aliquam rationem principii respectu ipsius dati. Unde dari, potest convenire et essentiae divinae, prout dicimus quod Pater dat essentiam suam Filio; et potest convenire Patri, ut dicatur Pater seipsum dare; et similiter Filio, et Spiritui Sancto. Nec notabitur aliqua distinctio dantis ad datum, nisi forte secundum rationem, sicut intelligentis ad intellectum. Et sic concedimus simpliciter quod persona dat se, et datur a se.  
 
@@ -194,9 +194,9 @@ Augustinus enim dicit, 2 *De Trinit*., cap. 5, quod “exire Filium a Patre et v
 
 Item, sicut Filius se habet ad Patrem, ita Spiritus Sanctus ad Filium. Sed Filius nullo modo mittit Patrem. Ergo nec Spiritus Sanctus Filium.  
 
-Contra Isa. 63:16: *et tunc*Mandonnet suggests the alternative text: *nunc*. *Dominus misit me et Spiritus ejus*; et exponit Glossa de Filio. Ergo mittitur a Patre et Spiritu Sancto.  
+Contra Isa. 63:16: *et tunc* *(Mandonnet suggests the alternative text: *nunc*.)* *Dominus misit me et Spiritus ejus*; et exponit Glossa de Filio. Ergo mittitur a Patre et Spiritu Sancto.  
 
-Item, Ambrosius, lib. 3, cap. 2, *De Spiritu Sancto*: *datus Filius est a Patre*, ut Isaias dicit, 9:6: *filius datus est nobis. Datus est, audeo dicere, et a*Migne: *et ab Spiritu, qui missus ab Spiritu est*. *Spiritu Sancto, quia a Spiritu Sancto missus est*. Ergo, etc.  
+Item, Ambrosius, lib. 3, cap. 2, *De Spiritu Sancto*: *datus Filius est a Patre*, ut Isaias dicit, 9:6: *filius datus est nobis. Datus est, audeo dicere, et a* *(Migne: *et ab Spiritu, qui missus ab Spiritu est*.)* *Spiritu Sancto, quia a Spiritu Sancto missus est*. Ergo, etc.  
 
 Respondeo dicendum, quod quidam distinguunt triplicem missionem Filii: unam qua missus est in carnem; aliam qua mittitur in mentem; tertiam qua mittitur ad praedicandum; et secundum hanc ultimam missionem dicunt Filium missum a Spiritu Sancto, non autem secundum duas primas, sed solum a Patre.  
 
@@ -250,7 +250,7 @@ Articulus 1
 
 Ad primum sic proceditur. Videtur quod Filius invisibiliter in mentem non mittatur.  
 
-Ad missionem enim divinae personae requiritur quod cognoscatur ipsa persona adveniens; et praecipue in missione sapientiae, quam nullus habens ignorat. Sed adveniente Filio, non cognoscitur ejus adventus. Job 9:11: *si venerit ad me, non intelligam; non videbo illum, si abierit*.Parma omits *non videbo illum, si abierit*. Ergo videtur quod Filius non mittatur in mentem.  
+Ad missionem enim divinae personae requiritur quod cognoscatur ipsa persona adveniens; et praecipue in missione sapientiae, quam nullus habens ignorat. Sed adveniente Filio, non cognoscitur ejus adventus. Job 9:11: *si venerit ad me, non intelligam; non videbo illum, si abierit*. *(Parma omits *non videbo illum, si abierit*.)* Ergo videtur quod Filius non mittatur in mentem.  
 
 Item, missio est idem quod processio temporalis, ut supra dictum est. Sed, sicut supra diximus, processio non habet quod dicatur temporalis, nisi secundum respectum in quem est; quem respectum habet processio Spiritus Sancti ex ipso modo processionis, inquantum procedit ut amor. Cum igitur processio Filii ex suo modo non habeat respectum ut in quem, sed solum ut a quo, videtur quod processio temporalis Filio non conveniat, et ita nec missio.  
 
@@ -258,15 +258,15 @@ Praeterea, persona divina non mittitur nisi in donis gratiae gratum facientis. S
 
 In contrarium est quod habetur Sap. 9:10: *mitte illam*, sapientiam, *de caelis*, scilicet tuis, *a sede magnitudinis tuae*. Non autem loquitur de sapientia essentialiter dicta; quia illa non mittitur, cum non sit ab alio. Ergo loquitur de sapientia genita, quae est Filius.  
 
-Item, Augustinus, libro 4 *De Trinit*., cap. 20: *sicut Filium generari est ipsum esse a Patre; ita Filium mitti est cognosci quod sit a Patre*.Migne: *sicut natum esse est Filio, a Patre esse; ita mitti, est cognosci quia ab illo procedat*. Hoc autem contingit. Ergo et Filium mitti.  
+Item, Augustinus, libro 4 *De Trinit*., cap. 20: *sicut Filium generari est ipsum esse a Patre; ita Filium mitti est cognosci quod sit a Patre*. *(Migne: *sicut natum esse est Filio, a Patre esse; ita mitti, est cognosci quia ab illo procedat*.)* Hoc autem contingit. Ergo et Filium mitti.  
 
-Respondeo dicendum, quod sicut in exitu rerum a principio dicitur bonitas divina in creaturas procedere, inquantum repraesentatur in creatura per similitudinem bonitatis divinaeParma: *bonitas divina . . . recepta*. in ipsa receptam; ita in reductione rationalis creaturae in Deum intelligitur processio divinae personae, quae et missio dicitur, inquantum propria relatio ipsius personae divinae repraesentatur in anima per similitudinem aliquam receptam, quae est exemplata et originata ab ipsa proprietate relationis aeternae; sicut proprius modus quo Spiritus Sanctus refertur ad Patrem, est amor, et proprius modus referendi Filium in Patrem est, quia est Verbum ipsius manifestans ipsum.  
+Respondeo dicendum, quod sicut in exitu rerum a principio dicitur bonitas divina in creaturas procedere, inquantum repraesentatur in creatura per similitudinem bonitatis divinae *(Parma: *bonitas divina . . . recepta*.)* in ipsa receptam; ita in reductione rationalis creaturae in Deum intelligitur processio divinae personae, quae et missio dicitur, inquantum propria relatio ipsius personae divinae repraesentatur in anima per similitudinem aliquam receptam, quae est exemplata et originata ab ipsa proprietate relationis aeternae; sicut proprius modus quo Spiritus Sanctus refertur ad Patrem, est amor, et proprius modus referendi Filium in Patrem est, quia est Verbum ipsius manifestans ipsum.  
 
 Unde sicut Spiritus Sanctus invisibiliter procedit in mentem per donum amoris, ita Filius per donum sapientiae; in quo est manifestatio ipsius Patris, qui est ultimum ad quod recurrimus. Et quia secundum receptionem horum duorum efficitur in nobis similitudo ad propria personarum; ideo secundum novum modum essendi, prout res est in sua similitudine, dicuntur personae divinae in nobis esse, secundum quod novo modo eis assimilamur; et secundum hoc utraque processio dicitur missio.  
 
 Ulterius, sicuti praedicta originantur ex propriis personarum, ita etiam effectum suum non consequuntur ut conjungantur fini, nisi virtute divinarum personarum; quia in forma impressa ab aliquo agente est virtus imprimentis. Unde in receptione hujusmodi donorum habentur personae divinae novo modo quasi ductrices in finem vel conjungentes. Et ideo utraque processio dicitur datio, inquantum est ibi novus modus habendi.  
 
-Ad primum ergo dicendum, quod ad rationem missionis non requiritur quod sit ibi cognitio actualis personae ipsius, sed tantum habitualis, inquantum scilicet in dono collato, quod est habitus, repraesentatur proprium divinae personae sicut in similitudine; et ita dicitur quod mitti est cognosci quod ab alio sit per modum repraesentationis, sicutParma: *repraesentationis. Sicut*. aliquid dicitur se manifestare vel facere cognitionem de se, inquantum se repraesentat in sui similitudine. Sed tamen me habere actuale donum, in quo persona divina detur, non possum scire certitudinaliter in actu, propter similitudinem actuum naturaliumParma: *moralium*. ad actus meritorios, etsi possim ex aliquibus signis conjicere, nisi per revelationem fiat certitudo; et ideo dicit Job: *si venerit ad me, non videbo eum; si abierit, non intelligam*; quia certitudinaliter gratia gratum faciens, in qua est adventus divinae personae, cognosci non potest; quamvis ipsum donum perceptum sit in se sufficienter ductivum in cognitionem advenientis personae.  
+Ad primum ergo dicendum, quod ad rationem missionis non requiritur quod sit ibi cognitio actualis personae ipsius, sed tantum habitualis, inquantum scilicet in dono collato, quod est habitus, repraesentatur proprium divinae personae sicut in similitudine; et ita dicitur quod mitti est cognosci quod ab alio sit per modum repraesentationis, sicut *(Parma: *repraesentationis. Sicut*.)* aliquid dicitur se manifestare vel facere cognitionem de se, inquantum se repraesentat in sui similitudine. Sed tamen me habere actuale donum, in quo persona divina detur, non possum scire certitudinaliter in actu, propter similitudinem actuum naturalium *(Parma: *moralium*.)* ad actus meritorios, etsi possim ex aliquibus signis conjicere, nisi per revelationem fiat certitudo; et ideo dicit Job: *si venerit ad me, non videbo eum; si abierit, non intelligam*; quia certitudinaliter gratia gratum faciens, in qua est adventus divinae personae, cognosci non potest; quamvis ipsum donum perceptum sit in se sufficienter ductivum in cognitionem advenientis personae.  
 
 Ad secundum dicendum, quod proprium Spiritus Sancti, quod est amor, potest dupliciter habere respectum ad creaturam, vel ut objectum, vel secundum rationem principii exemplaris ad principiatum exemplatum. Sed proprium Filii unam tantum habere potest relationum dictarum, scilicet illam quae est secundum rationem principii; et hoc sufficit ad processionem temporalem Filii, quamvis secundum plura possit attendi respectus temporalis in processione Spiritus Sancti: et ita etiam missio utrique convenire potest.  
 
@@ -292,7 +292,7 @@ Contra, missio Spiritus Sancti est ad sanctificandum creaturam, ut supra dixit M
 
 Respondeo dicendum, quod de distinctione missionum Filii et Spiritus Sancti tripliciter contingit loqui, aut quantum ad ipsarum diversitatem realem, aut quantum ad rationem missionis, aut quantum ad earum separationem.  
 
-Si primo modo, cum in missione duo considerentur: scilicet exitus personae missae ab alia, et effectus secundum quem novo modo in creatura persona divina esse dicitur; utroqueAl. add *autem*. modo missio Filii est alia a missione Spiritus Sancti secundum rem: quia et generatio qua Filius exit a Patre est alia a processione Spiritus Sancti, qua exit ab utroque. Similiter donum quodAl.: *secundum quod*. perficit intellectum, scilicet sapientia, secundum quod attenditur missio Filii, est aliud a dono quod perficit affectum vel voluntatem, secundum quod attenditur missio Spiritus Sancti.  
+Si primo modo, cum in missione duo considerentur: scilicet exitus personae missae ab alia, et effectus secundum quem novo modo in creatura persona divina esse dicitur; utroque *(Al. add *autem*.)* modo missio Filii est alia a missione Spiritus Sancti secundum rem: quia et generatio qua Filius exit a Patre est alia a processione Spiritus Sancti, qua exit ab utroque. Similiter donum quod *(Al.: *secundum quod*.)* perficit intellectum, scilicet sapientia, secundum quod attenditur missio Filii, est aliud a dono quod perficit affectum vel voluntatem, secundum quod attenditur missio Spiritus Sancti.  
 
 Si autem secundo modo de earum distinctione loquamur, hoc potest esse dupliciter; aut secundum rationem propriam utriusque, aut secundum communem. Si secundum communem, tunc eadem ratio est missionis Filii et Spiritus Sancti quantum ad utrumque; quia et esse ab alio commune est utrique et similiter esse novo modo in creatura. Sed secundum propriam rationem utrumque differt: quia et propria ratio processionis Filii non est propria ratio processionis Spiritus Sancti, cum ille procedat ut amor, et hic ut filius vel verbum; et similiter proprius modus quo Filius dicitur esse in creatura, non est proprius modus quo Spiritus Sanctus est; quinimmo unus per sapientiam, alter per amorem.  
 
@@ -372,7 +372,7 @@ Quaestiuncula 3
 
 Ulterius, quaeritur, utrum ad angelos et ad alios beatos fiat missio Spiritus Sancti. Videtur quod non.  
 
-Missio enim semper est secundum aliquem effectum gratiae in eo cuiAl.: *cui in eo*; Parma: *qui in ea*, “which is sent into them.” mittitur. Sed in angelis et beatis, qui devenerunt ad terminum vitae, neque datur de novo gratia neque augetur. Ergo ad eos non fit missio.  
+Missio enim semper est secundum aliquem effectum gratiae in eo cui *(Al.: *cui in eo*; Parma: *qui in ea*, “which is sent into them.”)* mittitur. Sed in angelis et beatis, qui devenerunt ad terminum vitae, neque datur de novo gratia neque augetur. Ergo ad eos non fit missio.  
 
 Item, non est idem nuntius et ad quem fit missio. Sed in missione Filii et Spiritus Sancti, angeli se habent ut nuntii, quia custodiunt et suggerunt. Ergo videtur quod ad eos non fiat missio, quia sic oporteret ire in infinitum.  
 
@@ -386,7 +386,7 @@ Missio enim semper est ad distans. Sed humana natura nunquam fuit in Christo dis
 
 Praeterea, missio est ad sanctificandum creaturam. Sanctificatur autem quod non est sanctum. Cum igitur Christus nunquam fuerit non sanctus, videtur quod ad eum non possit fieri missio.  
 
-Contra, missio Spiritus Sancti est ipsa datio. Sed Spiritus Sanctus datus est Christo, ut dicitur Joan. 3:34: *non ad mensuram dat Deus Spiritum*.Nicolaï adds *nempe Filio*. Ergo ad eum fit missio.  
+Contra, missio Spiritus Sancti est ipsa datio. Sed Spiritus Sanctus datus est Christo, ut dicitur Joan. 3:34: *non ad mensuram dat Deus Spiritum*. *(Nicolaï adds *nempe Filio*.)* Ergo ad eum fit missio.  
 
 Praeterea, missio visibilis est signum invisibilis. Sed ad Christum facta est missio visibilis Spiritus Sancti in columbae specie, Matth. 3. Ergo et invisibilis.  
 
@@ -446,7 +446,7 @@ Praeterea, Augustinus, lib. *De bono conjugali*, cap. 21, dicit quod caelibatus 
 
 Contra, Augustinus, 4 *De Trinit*., cap. 20, exponens illud Joan. 7:39: *nondum erat Spiritus datus, quia Jesus nondum erat glorificatus*, ait: *quomodo hoc intelligitur nisi quod illa datio Spiritus vel missio futura erat qualis nunquam ante fuerat? Non enim antea nulla erat, sed non talis erat*. Ergo videtur quod post Incarnationem plenior fuerit.  
 
-Praeterea, tempus Incarnationis dicitur *tempus penitudinis*, Galat. 4; non autem nisi propter plenitudinem gratiae. Ergo videtur quod plenius gratia collata sit, et missio facta hoc tempore quam ante.This second *sed contra*, which is found in all the manuscripts, is completely omitted in the Parma edition.  
+Praeterea, tempus Incarnationis dicitur *tempus penitudinis*, Galat. 4; non autem nisi propter plenitudinem gratiae. Ergo videtur quod plenius gratia collata sit, et missio facta hoc tempore quam ante. *(This second *sed contra*, which is found in all the manuscripts, is completely omitted in the Parma edition.)*  
 
 Respondeo dicendum, quod de missione possumus loqui dupliciter: vel ex parte ipsius mittentis, et sic cum apud ipsum nulla sit transmutatio, aequalis fit missio in omni tempore; nisi forte secundum praedeterminationem sapientiae et praescientiae suae, secundum quod praeordinavit sine sui mutatione, secundum diversas congruitates temporum, aliquid uno tempore facere, et non alio; vel ex parte eorum ad quos fit missio; et sic illi qui magis sunt parati ad perceptionem gratiae, pleniorem gratiam consequuntur.  
 
@@ -454,7 +454,7 @@ Dicendum igitur, quod quia per adventum Christi remotum est obstaculum antiquae 
 
 Ad primum igitur dicendum, quod illa ratio procedit ex parte ipsius mittentis, qui, quantum in se est, semper aequaliter se habet ad gratiam conferendam.  
 
-Ad secundum dicendum, quod sancti Veteris Testamenti dupliciter possunt considerari: vel quantum ad gratiam personalem, et sic per fidem Mediatoris consecuti sunt gratiam aeque plenam his qui sunt in Novo Testamento et multis plus et multis minus; vel secundum statum naturae illius temporis, et sic cum adhuc continerentur obnoxii divinae sententiae pro peccato primi parentis, nondum soluto pretio, erat in eis aliquod impedimentum, ut non ad eos ita plena missio fieret, sicut fit in Novo Testamento etiam per traductionem in gloriam, in qua omnis perfectioMandonnet: *perfectio*. naturae amovetur.  
+Ad secundum dicendum, quod sancti Veteris Testamenti dupliciter possunt considerari: vel quantum ad gratiam personalem, et sic per fidem Mediatoris consecuti sunt gratiam aeque plenam his qui sunt in Novo Testamento et multis plus et multis minus; vel secundum statum naturae illius temporis, et sic cum adhuc continerentur obnoxii divinae sententiae pro peccato primi parentis, nondum soluto pretio, erat in eis aliquod impedimentum, ut non ad eos ita plena missio fieret, sicut fit in Novo Testamento etiam per traductionem in gloriam, in qua omnis perfectio *(Mandonnet: *perfectio*.)* naturae amovetur.  
 
 Articulus 3  
 
@@ -472,7 +472,7 @@ Praeterea, nos dicimus angelos esse in aliquo loco propter hoc quod ibi operantu
 
 Contra, forma nunquam excedit id cujus est forma. Sed anima est forma essentialis corporis. Ergo non est essentialiter nisi ubi est corpus. Corpus autem nunquam est extra mundum, quamdiu vivimus. Ergo missio invisibilis non facit nos in hoc mundo non esse.  
 
-Respondeo dicendum, quod anima nostra comparatur ad duo: scilicet ad corpus, cui dat esse substantiale, per quod etiam ipsa est; non enim est aliud animae esse quam hoc quod corpori dat, ut supra dictum est. Comparatur etiam ad objectum suum, a quo recipit esse secundum perfectionem secundam, quod est esse accidentale. Et ideo anima essentialiter est ubi est corpus suum ad quod habet essentialem relationem. Ubi autem est objectum suum, non est essentialiter, sed solum per quamdam conformitatem: prout dicitur quod scientia est assimilatio scientis ad rem scitam. Et hoc modo intelligitur quod dicitur in littera: *secundum quod aliquod aeternum mente percipimus, non in hoc mundo sumus*; quia non conformatur affectus noster et intellectus mundanis rebus et caducis, sed caelestibus et aeternis; et sic etiam intelligendum est quod Apostolus dicit, loc. cit.: *nostra conversatio in caelis est*; ut patet ex cantu Ecclesiae, *cogitatione et amore in illa aeterna patria conversatio est*.Parma omits *ut patet ex cantu Ecclesiae, cogitatione et amore in illa aeterna patria conversatio est*.  
+Respondeo dicendum, quod anima nostra comparatur ad duo: scilicet ad corpus, cui dat esse substantiale, per quod etiam ipsa est; non enim est aliud animae esse quam hoc quod corpori dat, ut supra dictum est. Comparatur etiam ad objectum suum, a quo recipit esse secundum perfectionem secundam, quod est esse accidentale. Et ideo anima essentialiter est ubi est corpus suum ad quod habet essentialem relationem. Ubi autem est objectum suum, non est essentialiter, sed solum per quamdam conformitatem: prout dicitur quod scientia est assimilatio scientis ad rem scitam. Et hoc modo intelligitur quod dicitur in littera: *secundum quod aliquod aeternum mente percipimus, non in hoc mundo sumus*; quia non conformatur affectus noster et intellectus mundanis rebus et caducis, sed caelestibus et aeternis; et sic etiam intelligendum est quod Apostolus dicit, loc. cit.: *nostra conversatio in caelis est*; ut patet ex cantu Ecclesiae, *cogitatione et amore in illa aeterna patria conversatio est*. *(Parma omits *ut patet ex cantu Ecclesiae, cogitatione et amore in illa aeterna patria conversatio est*.)*  
 
 Unde patet responsio ad primum.  
 
@@ -488,10 +488,10 @@ Expositio secundae partis textus
 
 *Et tunc unicuique mittitur, cum a quoquam cognoscitur*. Hoc intelligendum est non tantum de cognitione speculativa, sed quae est etiam quodammodo experimentalis; quod ostendit hoc quod sequitur: *atque percipitur*, quod proprie experientiam in dono percepto demonstrat. Dicitur autem anima rationalis in Deum proficiens quantum ad statum viae, perfecta in Deo quantum ad statum patriae, ubi utraque missio complebitur propter perfectam cognitionem et perfectum amorem.  
 
-*Quomodo quotidie mittitur ad sanctos*. Non quod ei qui gratiam habet, quotidie missio fiat: sed per hoc ostenditur nullum tempus esse determinatum missioni Spiritus Sancti vel Filii, ad quod divina liberalitas coarctetur.Al.: *coaptetur*.  
+*Quomodo quotidie mittitur ad sanctos*. Non quod ei qui gratiam habet, quotidie missio fiat: sed per hoc ostenditur nullum tempus esse determinatum missioni Spiritus Sancti vel Filii, ad quod divina liberalitas coarctetur. *(Al.: *coaptetur*.)*  
 
 *Pater enim est . . . principium totius divinitatis*. Hoc potest exponi dupliciter.  
 
 Primo ut in totalitate Deitatis perfectio designetur; et sic principium totius Deitatis Pater dicitur, inquantum est principium Filii, in quo est perfecta Deitas. Sed hoc intentioni Augustini non competit: quia per hunc modum etiam Filius totius divinitatis principium diceretur; quia Spiritus Sanctus, cujus est principium, perfectam divinitatem habet.  
 
-Unde melius exponitur ut designetur totalitas divinarum personarum quantum ad numerum; ut sic intelligatur principium totius divinitatis, quia in omnibus personis divinis ipse est principium, non quod sui ipsiusParma omits *ipsius*. principium sit, sicut et fundamentum dicitur principium totius domus, quamvis non sui ipsius. Ideo vero melius dicitur principium Deitatis quam divinitatis quia divinum a Deo denominatur; unde divinitas importat participatam Deitatem et non per essentiam, qualiter in Deo est.
+Unde melius exponitur ut designetur totalitas divinarum personarum quantum ad numerum; ut sic intelligatur principium totius divinitatis, quia in omnibus personis divinis ipse est principium, non quod sui ipsius *(Parma omits *ipsius*.)* principium sit, sicut et fundamentum dicitur principium totius domus, quamvis non sui ipsius. Ideo vero melius dicitur principium Deitatis quam divinitatis quia divinum a Deo denominatur; unde divinitas importat participatam Deitatem et non per essentiam, qualiter in Deo est.

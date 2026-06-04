@@ -80,7 +80,7 @@ Secundo ponitur Domini responsio: ***haec dicit Dominus***.
 
 Et primo proponit culpam: ***qui dilexit movere pedes***, affectus, propter inconstantiam in bono, et de malo in malum. Prov. 7: *mulier vaga, quietis impatiens, nec valens in domo consistere pedibus suis*. Vel mittens in Aegyptum pro auxilio. Isa. 30: *Aegyptus frustra et vane auxiliabitur. Ideo clamavi super hoc: superbia tantum est; quiesce*.  
 
-Secundo comminatur poenam: ***nuncHere, the Parma edition reads *tunc*, “then,” in place of *nunc*, “now.” recordabitur***, poenam inferens. Psal. 88: *visitabo in virga iniquitates eorum, et in verberibus peccata eorum*.  
+Secundo comminatur poenam: ***nunc *(Here, the Parma edition reads *tunc*, “then,” in place of *nunc*, “now.”)* recordabitur***, poenam inferens. Psal. 88: *visitabo in virga iniquitates eorum, et in verberibus peccata eorum*.  
 
 Tertio excludit remedia:  
 

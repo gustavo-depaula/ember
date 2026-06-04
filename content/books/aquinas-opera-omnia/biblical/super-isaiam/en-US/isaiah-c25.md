@@ -2,7 +2,7 @@
 
 ^23:1^ The burden of Tyre. Howl, you ships of the sea, for the house is destroyed, from whence they were wont to come: from the land of Cethim it is revealed to them.  
 
-> ^23:2^ Be silent, you that dwell in the island: the trade*Negotiatio*. Vg.: *negotiatores*. DR: “merchants.” of Sidon passing over the sea, have filled you.
+> ^23:2^ Be silent, you that dwell in the island: the trade *(*Negotiatio*. Vg.: *negotiatores*. DR: “merchants.”)* of Sidon passing over the sea, have filled you.
 
 > ^23:3^ The seed of the Nile in many waters, the harvest of the river is her revenue: and she is become the mart of the nations.
 
@@ -12,7 +12,7 @@
 
 > ^23:6^ Pass over the seas, howl, you inhabitants of the island.
 
-> ^23:7^ Is not this yours,*Vestra*. DR: “your city.” which gloried from of old in her antiquity? Her feet shall carry her afar off to sojourn.
+> ^23:7^ Is not this yours, *(*Vestra*. DR: “your city.”)* which gloried from of old in her antiquity? Her feet shall carry her afar off to sojourn.
 
 > ^23:8^ Who has taken this counsel against Tyre, that was formerly crowned, whose merchants were princes, and her traders the nobles of the earth?
 
@@ -22,7 +22,7 @@
 
 > ^23:11^ He stretched out his hand over the sea, he troubled kingdoms: the Lord has given a charge against Chanaan, to destroy the strong ones thereof.
 
-> ^23:12^ And he said: you shall glory no more, O virgin daughter of Sidon, who sustain calumny:*Sustinens calumniam*. DR: “who art oppressed.” arise and sail over to Cethim, there also you shall have no rest.
+> ^23:12^ And he said: you shall glory no more, O virgin daughter of Sidon, who sustain calumny: *(*Sustinens calumniam*. DR: “who art oppressed.”)* arise and sail over to Cethim, there also you shall have no rest.
 
 > ^23:13^ Behold the land of the Chaldeans, there was not such a people, the Assyrians founded it: they have led away the strong ones thereof into captivity, they have destroyed the houses thereof, they have brought it to ruin.
 
@@ -92,7 +92,7 @@ And he adds the response: ***the Lord of hosts has designed it, to pull down the
 
 **553**. ***Pass your land***. Here he exhorts them to flee quickly.  
 
-And first, he sets out the exhortation: ***pass your land as a river***, which is crossed quickly by boat: *furnish yourself to go into exile,*Transmigrationis*. DR: “captivity.” you daughter inhabitant of Egypt* (Jer 46:19).  
+And first, he sets out the exhortation: ***pass your land as a river***, which is crossed quickly by boat: *furnish yourself to go into exile, *(*Transmigrationis*. DR: “captivity.”)* you daughter inhabitant of Egypt* (Jer 46:19).  
 
 Second, he assigns the reason on their own part: ***you have a girdle***, that is, strength, ***no more***: *behold I have made you small among the nations* (Obad 1:2). Otherwise, on the part of God: ***he stretched out his hand over the sea***, above: ***the Lord shall lay waste the tongue of the sea of Egypt*** (Isa 11:15).  
 
@@ -154,4 +154,4 @@ first, because of his greatness: *glorify the Lord as much as ever you can, for 
 
 second, because of the multitude of inward goods, *make melody, rejoice and sing* (Ps 97[98]:4);  
 
-third, because of the abundance of our sins: *seven times a day I have given praise to you . . . Lord God, destroy me not* (Ps 118[119]:164).Cf. Psalm 27[28]:3.
+third, because of the abundance of our sins: *seven times a day I have given praise to you . . . Lord God, destroy me not* (Ps 118[119]:164). *(Cf. Psalm 27[28]:3.)*

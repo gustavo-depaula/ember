@@ -4,7 +4,7 @@
 
 > ^37:2^ And he sent Eliacim who was over the house, and Sobna the scribe, and the ancients of the priests covered with sackcloth, to Isaiah the son of Amos the prophet.
 
-> ^37:3^ And they said to him: thus says Ezechias: this day is a day of tribulation, and of distress,Vg. omits “and of distress.” and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.
+> ^37:3^ And they said to him: thus says Ezechias: this day is a day of tribulation, and of distress, *(Vg. omits “and of distress.”)* and of rebuke, and of blasphemy: for the children are come to the birth, and there is not strength to bring forth.
 
 > ^37:4^ It may be the Lord your God will hear the words of Rabsaces, whom the king of the Assyrians his master has sent to blaspheme the living God, and to reproach with words which the Lord your God has heard: wherefore lift up your prayer for the remnant that is left.
 
@@ -42,7 +42,7 @@
 
 > ^37:21^ And Isaiah the son of Amos sent to Ezechias, saying: thus says the Lord the God of Israel: for the prayer you have made to me concerning Sennacherib the king of the Assyrians:
 
-> ^37:22^ This is the word which the Lord has spoken of him: the virgin the daughter of Zion has despised you, and laughed you to scorn: the daughter of Jerusalem will wag*Movet*. Vg. *movit*. DR: “ hath wagged.” the head after you.
+> ^37:22^ This is the word which the Lord has spoken of him: the virgin the daughter of Zion has despised you, and laughed you to scorn: the daughter of Jerusalem will wag *(*Movet*. Vg. *movit*. DR: “ hath wagged.”)* the head after you.
 
 > ^37:23^ Whom have you reproached, and whom have you blasphemed, and against whom have you exalted your voice, and lifted up your eyes on high? Against the Holy One of Israel.
 
@@ -52,7 +52,7 @@
 
 > ^37:26^ Hast you not heard what I have done to him of old? From the days of old I have formed it: and now I have brought it to effect: and it has come to pass that hills fighting together, and fenced cities should be destroyed.
 
-> ^37:27^ The inhabitants of them were short*Breviata*. DR: “weak.” of hand, they trembled, and were confounded: they became like the grass of the field, and the herb of the pasture, and like the grass of the housetops, which withered before it was ripe.
+> ^37:27^ The inhabitants of them were short *(*Breviata*. DR: “weak.”)* of hand, they trembled, and were confounded: they became like the grass of the field, and the herb of the pasture, and like the grass of the housetops, which withered before it was ripe.
 
 > ^37:28^ I know your dwelling, and your going out, and your coming in, and your rage against me.
 
@@ -96,7 +96,7 @@ First, he sets out his proud threat: ***and he heard say about Tharaca***, who c
 
 **759**. But since the tabernacle was arranged according to the pattern of the heavenly church, as can be seen from Exodus 25, it seems that he is wrongly said to sit upon the cherubim; rather he should be said to sit upon the thrones.  
 
-And to this it is to be said that he sits upon the cherubim, that is, over them, because he sits upon the seraphim, who are beyond them. Or, according to Gregory and Dionysius,Gregory, *In Evang*. II hom. 34 n. 14 (PL 76, 1255B–C); Dionysius, *De cael. hier*. 11.2 (PG 3, 285A; Dion. 932). nothing is possessed there individually, but what belongs to the lower is also eminently attributed to the higher: thus what is proper to the thrones, the cherubim have even more eminently. Or it is to be said that he sits upon the thrones as upon the seat of judgment, and upon the cherubim as upon the chair of a teacher, for “cherubim” is translated “pouring of wisdom”: and therefore it was fittingly said that answers were given from there.  
+And to this it is to be said that he sits upon the cherubim, that is, over them, because he sits upon the seraphim, who are beyond them. Or, according to Gregory and Dionysius, *(Gregory, *In Evang*. II hom. 34 n. 14 (PL 76, 1255B–C); Dionysius, *De cael. hier*. 11.2 (PG 3, 285A; Dion. 932).)* nothing is possessed there individually, but what belongs to the lower is also eminently attributed to the higher: thus what is proper to the thrones, the cherubim have even more eminently. Or it is to be said that he sits upon the thrones as upon the seat of judgment, and upon the cherubim as upon the chair of a teacher, for “cherubim” is translated “pouring of wisdom”: and therefore it was fittingly said that answers were given from there.  
 
 **760**. He also shows the power of God through the disposition of kingdoms: ***you alone are the God of all the kingdoms of the earth***: *till he knew that the most High ruled in the kingdom of men* (Dan 5:21); and he proves God’s power through the production of creatures: ***you have made heaven and earth***: *who made heaven and earth, the sea, and all things that are in them* (Ps 145[146]:6). And he accuses Sennacherib of blasphemy: ***incline, O Lord, your ear***: *O Lord God of heaven and earth, behold their pride* (Jdt 6:15). He proves with this the foolishness of his blasphemy: ***for of a truth, O Lord***: *the idols of the Gentiles are silver and gold, the works of the hands of men* (Ps 113:12[115:4]). Third, he asks also in this prayer for the mercy of salvation: ***and now, O Lord***: *that all nations may acknowledge that you are God, and there is no other besides you* (Jdt 9:19).  
 
@@ -140,9 +140,9 @@ Second, as to the temporal execution of his eternal intention: ***and now I have
 
 Third, as to the knowledge of all his deeds: ***your dwelling***, that is, the seat of the king, ***your coming in***, to the land of the Jews: *for his eyes are upon the ways of men, and he considers all their steps* (Job 34:21).  
 
-**764**. ***I will put a ring in your nose***. Here he infers the punishment: ***a ring in your nose***, like an ox,*Bubalo*. ***a bit between your lips***, like a horse, that is, the power of my divinity in curbing you: *he has opened his quiver, and has afflicted me, and has put a bridle into my mouth* (Job 30:11).  
+**764**. ***I will put a ring in your nose***. Here he infers the punishment: ***a ring in your nose***, like an ox, *(*Bubalo*.)* ***a bit between your lips***, like a horse, that is, the power of my divinity in curbing you: *he has opened his quiver, and has afflicted me, and has put a bridle into my mouth* (Job 30:11).  
 
-**765**. ***But to you this shall be a sign***. Here he sets out the sign. For the army of the Assyrians came when the harvest was imminent, and thus the Jews were not able to collect the fruit, and the Assyrians remained in the land until after the time of sowing, so they were also not able to sow. Thus therefore it is said to them that in the remaining part of the year, while Sennacherib was going to Egypt, they should eat ***the things that spring of themselves***, namely from the grain trampled by the hooves of the horses and chariots; or, as in 2 Kings 19:29, whatever you might have found in your barns before it was gathered for the siege; or, according to the Septuagint, ***what you had sown***, that is, what remained trampled in the fields. ***And in the second year***, while he remained in Egypt (for he stayed there through the year), because you will gather nothing when you have sown nothing, ***eat fruits***, or *things that spring of themselves*, as in 2 Kings 19:29, and in this second year Assyria will be destroyed; and thus, in the third year, you will be able to sow and gather freely. Or, according to Andrew,Andrew of St. Victor (ms. f. 89ra). this is counsel, and ***to you this shall be a sign*** refers to the preceding.  
+**765**. ***But to you this shall be a sign***. Here he sets out the sign. For the army of the Assyrians came when the harvest was imminent, and thus the Jews were not able to collect the fruit, and the Assyrians remained in the land until after the time of sowing, so they were also not able to sow. Thus therefore it is said to them that in the remaining part of the year, while Sennacherib was going to Egypt, they should eat ***the things that spring of themselves***, namely from the grain trampled by the hooves of the horses and chariots; or, as in 2 Kings 19:29, whatever you might have found in your barns before it was gathered for the siege; or, according to the Septuagint, ***what you had sown***, that is, what remained trampled in the fields. ***And in the second year***, while he remained in Egypt (for he stayed there through the year), because you will gather nothing when you have sown nothing, ***eat fruits***, or *things that spring of themselves*, as in 2 Kings 19:29, and in this second year Assyria will be destroyed; and thus, in the third year, you will be able to sow and gather freely. Or, according to Andrew, *(Andrew of St. Victor (ms. f. 89ra).)* this is counsel, and ***to you this shall be a sign*** refers to the preceding.  
 
 **766**. ***Shall take root***. Here he sets out the fruit of the destruction of their enemies,  
 
@@ -166,7 +166,7 @@ through eminence of contemplation: *I have lifted up my eyes to the mountains* (
 
 through fervor of affection: *let us lift up our hearts with our hands to the Lord in the heavens* (Lam 3:41);  
 
-through tears of compunction: *every night I will lift up**Levabo*. Vg.: *lavabo*. DR: “I will wash.” (Ps 6:7[6]); *lift up weeping* (Joel 1:5);  
+through tears of compunction: *every night I will lift up* *(*Levabo*. Vg.: *lavabo*. DR: “I will wash.”)* (Ps 6:7[6]); *lift up weeping* (Joel 1:5);  
 
 through zeal for good works: *the lifting up of my hands* (Ps 140[141]:2).  
 

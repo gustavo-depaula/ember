@@ -42,7 +42,7 @@ second, the prophet’s displeasing response to them, at ***and the word of the 
 
 Concerning the former, there are three points.  
 
-First, he describes the character of those who were consulting: ***whom Nebuchadnezzar had established as king***, as we also read in 2 Kgs 24.*He appointed Mattaniah his uncle in his stead; and he changed his name to Zedekiah* (2 Kgs 24:17).  
+First, he describes the character of those who were consulting: ***whom Nebuchadnezzar had established as king***, as we also read in 2 Kgs 24. *(*He appointed Mattaniah his uncle in his stead; and he changed his name to Zedekiah* (2 Kgs 24:17).)*  
 
 ***And he did not obey***, that he should dissolve the tribute to the king of Babylon and cease from sinning. *Render unto Caesar the things that are Caesar’s, and to God the things that are God’s* (Matt 22:21). ***Servants***, domestic servants; ***the people***: *as the judge of the people, so his servant, and as the ruler of a city, so the inhabitants thereof* (Sir 10:2).  
 
@@ -112,7 +112,7 @@ Lecture 5
 
 > ^37:19^ Now, therefore, hear, I beseech you, my lord the king. Let my prayer prevail in your sight, and do not send me back to the house of Jonathan the scribe, lest I die there.’
 
-> ^37:20^ Therefore, king Zedekiah commanded that Jeremiah should be handed over to the courtyard of the prison, and that he should be given loaves of bread every day, without condiment,Heb. מִחוּץ הָאֹפִים: *from the street of the bakers*. until all the bread of the city should be consumed. And Jeremiah remained in the vestibule of the prison.
+> ^37:20^ Therefore, king Zedekiah commanded that Jeremiah should be handed over to the courtyard of the prison, and that he should be given loaves of bread every day, without condiment, *(Heb. מִחוּץ הָאֹפִים: *from the street of the bakers*.)* until all the bread of the city should be consumed. And Jeremiah remained in the vestibule of the prison.
 
 > **200**. Here, the persecution is spoken of in three ways.
 

@@ -8,7 +8,7 @@
 
 ^19:1^ Thus says the Lord: go and take a potter’s earthen vessel from the elders of the people and from the elders of the priests,  
 
-> ^19:2^ And go out to the valley of the sons of Hinnom, which is near the entrance of the clay gate:Heb. שַ֣עַר הַחֲרָסוּת: *gate of the potsherds*, probably from the fact that they were thrown there. and you shall preach there the words which I shall speak to you.
+> ^19:2^ And go out to the valley of the sons of Hinnom, which is near the entrance of the clay gate: *(Heb. שַ֣עַר הַחֲרָסוּת: *gate of the potsherds*, probably from the fact that they were thrown there.)* and you shall preach there the words which I shall speak to you.
 
 > ^19:3^ And you shall say: hear the word of the Lord, O kings of Judah, and inhabitants of Jerusalem. Thus says the Lord of hosts, the God of Israel: behold, I will bring an affliction against this place, such that the ears of all who hear of it may tingle.
 

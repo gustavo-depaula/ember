@@ -10,7 +10,7 @@ Kyrie
 
 ***Mass II***
 
-*Kyrie*, font of goodness,Only the incipit for the music of the Kyrie is provided in the manuscript. Father unbegotten, from whom every good proceeds, *eleison*.  
+*Kyrie*, font of goodness, *(Only the incipit for the music of the Kyrie is provided in the manuscript.)* Father unbegotten, from whom every good proceeds, *eleison*.  
 
 > *Kyrie*, you who sent the Son to suffer for the offense of the world, that he might save it, *eleison*.
 
@@ -35,7 +35,7 @@ Kyrie
 
 ***Mass IV***
 
-Glory to God in the highest, and on earth peace to men of good will.While similar to the more modern Mass IV as found in the *Graduale Romanum*, there are a few differences; only the incipit of the music is found in the manuscript, however. We praise you. We bless you. We adore you. We glorify you. We give you thanks for your great glory. Lord God, heavenly king, God almighty Father. Lord Jesus Christ, only begotten Son. Lord God, lamb of God, Son of the Father. Who takes away the sins of the world, have mercy on us. Who takes away the sins of the world, receive our prayer. Who sits at the right hand of the Father, have mercy on us. For you alone are holy. You alone are Lord. You alone are most high, Jesus Christ. With the Holy Spirit in the glory of God the Father. Amen.  
+Glory to God in the highest, and on earth peace to men of good will. *(While similar to the more modern Mass IV as found in the *Graduale Romanum*, there are a few differences; only the incipit of the music is found in the manuscript, however.)* We praise you. We bless you. We adore you. We glorify you. We give you thanks for your great glory. Lord God, heavenly king, God almighty Father. Lord Jesus Christ, only begotten Son. Lord God, lamb of God, Son of the Father. Who takes away the sins of the world, have mercy on us. Who takes away the sins of the world, receive our prayer. Who sits at the right hand of the Father, have mercy on us. For you alone are holy. You alone are Lord. You alone are most high, Jesus Christ. With the Holy Spirit in the glory of God the Father. Amen.  
 
 > Collect
 
@@ -141,7 +141,7 @@ Sanctus
 
 ***Mass IV***
 
-Holy,Only the incipits for the Sanctus and the Agnus are provided in the manuscripts: Mass IV, as found in the *Graduale Romanum*, differs slightly from these incipits. holy, holy Lord God of Sabaoth. The heavens and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest.  
+Holy, *(Only the incipits for the Sanctus and the Agnus are provided in the manuscripts: Mass IV, as found in the *Graduale Romanum*, differs slightly from these incipits.)* holy, holy Lord God of Sabaoth. The heavens and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest.  
 
 > Agnus Dei
 

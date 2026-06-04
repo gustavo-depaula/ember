@@ -88,7 +88,7 @@ Articulus 3
 
 ***Utrum servitus matrimonio possit supervenire***
 
-Ad tertium sic proceditur. Videtur quod servitus matrimonio non possit supervenire, ut vir se alteri vendat in servum. Quia quod in fraudem et praejudicium alterius factum est, ratum esse non debet. Sed qui se in servum vendit, facit hoc quandoque in fraudem matrimonii, et*et.—et ad minus* PLE. ad detrimentum uxoris. Ergo non debet valere talis venditio ad servitutem inducendam.  
+Ad tertium sic proceditur. Videtur quod servitus matrimonio non possit supervenire, ut vir se alteri vendat in servum. Quia quod in fraudem et praejudicium alterius factum est, ratum esse non debet. Sed qui se in servum vendit, facit hoc quandoque in fraudem matrimonii, et *(*et.—et ad minus* PLE.)* ad detrimentum uxoris. Ergo non debet valere talis venditio ad servitutem inducendam.  
 
 Praeterea, duo favorabilia praejudicant uni non favorabili. Sed matrimonium et libertas sunt favorabilia, et repugnant servituti, quae non est favorabilis in jure. Ergo servitus talis debet penitus annullari.  
 

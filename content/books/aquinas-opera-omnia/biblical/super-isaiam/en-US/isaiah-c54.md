@@ -6,9 +6,9 @@
 
 > ^52:3^ For thus says the Lord: you were sold gratis, and you shall be redeemed, without money.
 
-> ^52:4^ For thus says the Lord God: my people went down into Egypt in*In*. DR: “at.” the beginning to be a colonist*Ut colonus esset*. DR: “to sojourn.” there: and the Assyrian has oppressed them without any cause at all.
+> ^52:4^ For thus says the Lord God: my people went down into Egypt in *(*In*. DR: “at.”)* the beginning to be a colonist *(*Ut colonus esset*. DR: “to sojourn.”)* there: and the Assyrian has oppressed them without any cause at all.
 
-> ^52:5^ And now what is this to me,*Quid mihi est hic*. DR: “have I here.” says the Lord: for my people is taken away gratis. They that rule over them treat them unjustly, says the Lord, and my name is continually blasphemed all the day long.
+> ^52:5^ And now what is this to me, *(*Quid mihi est hic*. DR: “have I here.”)* says the Lord: for my people is taken away gratis. They that rule over them treat them unjustly, says the Lord, and my name is continually blasphemed all the day long.
 
 > ^52:6^ Therefore my people shall know my name in that day: for I myself that spoke, behold I am here.
 
@@ -24,7 +24,7 @@
 
 > ^52:12^ For you shall not go out in a tumult, neither shall you make haste by flight: for the Lord will go before you, and the God of Israel will gather you together.
 
-> ^52:13^ Behold my servant shall understand, he shall be exalted, and lifted up,*Elevabitur*. DR: “extolled.” and shall be exceeding high.
+> ^52:13^ Behold my servant shall understand, he shall be exalted, and lifted up, *(*Elevabitur*. DR: “extolled.”)* and shall be exceeding high.
 
 > ^52:14^ As many have been astonished at you, so shall his visage be inglorious among men, and his form among the sons of men.
 
@@ -92,15 +92,15 @@ third, fragrant through the spreading of reputation: *the smell of your garments
 
 first, of worldly solicitude: *who has sent out the wild ass free, and who has loosed his bonds?* (Job 39:5);  
 
-second, of carnal love: *I have found a woman more bitter than death, and her bonds**Et vincula eius*. Vg.: *quae laquaeus venatorum est*. DR: “who is the hunter’s snare.” (Eccl 7:27);  
+second, of carnal love: *I have found a woman more bitter than death, and her bonds* *(*Et vincula eius*. Vg.: *quae laquaeus venatorum est*. DR: “who is the hunter’s snare.”)* (Eccl 7:27);  
 
 third, of perverse action: *he brought them out of darkness, and the shadow of death; and broke their bonds in sunder* (Ps 106[107]:14);  
 
-fourth, of vicious custom, above: ***woe to you that draw iniquity to iniquity***,*Ad iniquitatem*. Vg.: *in funiculis vanitatis*. DR: “with cords of vanity.” ***and sin as the rope of a cart*** (Isa 5:18).  
+fourth, of vicious custom, above: ***woe to you that draw iniquity to iniquity***, *(*Ad iniquitatem*. Vg.: *in funiculis vanitatis*. DR: “with cords of vanity.”)* ***and sin as the rope of a cart*** (Isa 5:18).  
 
 **951**. There are also bonds from which God does not loosen:  
 
-first, of love: *I drew them with the cords of love**In funiculis caritatis traxi eos*. Vg.: *in funiculis Adam traham eos, in vinculis caritatis*. DR: “I will draw them with the cords of Adam, with the bands of love.” (Hos 11:4);  
+first, of love: *I drew them with the cords of love* *(*In funiculis caritatis traxi eos*. Vg.: *in funiculis Adam traham eos, in vinculis caritatis*. DR: “I will draw them with the cords of Adam, with the bands of love.”)* (Hos 11:4);  
 
 second, of divine law: *of old time you have broken my yoke* (Jer 2:20);  
 
@@ -118,4 +118,4 @@ Third, he shows the manner of their flight, as to purity: ***be clean***, you pr
 
 And first, he describes the liberator as to eminence of grace: ***my servant shall understand***, as to the fullness of wisdom; ***servant***, Christ, according to the human nature he assumed: *taking the form of a servant* (Phil 2:7); *a wise servant is acceptable to the king* (Prov 14:35); and: *he that understands shall possess governments* (Prov 1:5). ***He shall be exalted***, as to the operation of his powers: *be you exalted, O Lord, in your own strength* (Ps 20:14[21:13]); ***and lifted up***, as to his ascension: *for your magnificence is elevated above the heavens* (Ps 8:2[1]); *he that descended is the same also that ascended* (Eph 4:10); ***and shall be exceeding high***, sitting at the right hand of the Father, above: ***the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high*** (Isa 4:2). And as to the ignominy of his passion: for ***as many have been astonished at you***, by your example, miracles and teachings: *and all the multitudes were amazed* (Matt 12:23) at his teaching and the miracles which he did, ***so shall his visage be inglorious***, in suffering, ***and his form***, his appearance or beauty: *I am a worm, and no man: the reproach of men, and the outcast of the people* (Ps 21:7[22:6]).  
 
-**954**. Second, he foretells liberation as to the remission of sins: ***he shall sprinkle***, with the sprinkling of his blood (1 Pet 1:2), and the water of baptism: *having our hearts sprinkled from an evil conscience and our bodies washed with clean water* (Heb 10:22); as to the veneration of him: ***kings shall shut their mouth at him***, silent, to listen, not presuming to discuss his secrets: *the princes ceased to speak* (Job 29:9); and as to the knowledge of truth: ***for they to whom***, namely, the gentiles, ***it was not told of him***, by the prophets, ***have seen***, in their hearts, ***and they that heard not***, him preaching in person, below: ***behold me, to nations that did not know me and that did not call upon my name*** (Isa 65:1).*Ad gentes quae nesciebant me et quae non invocabant nomen meum*. Vg.: *ad gentem quae non invocabat nomen meum*. DR: “to a nation that did not call upon my name.”
+**954**. Second, he foretells liberation as to the remission of sins: ***he shall sprinkle***, with the sprinkling of his blood (1 Pet 1:2), and the water of baptism: *having our hearts sprinkled from an evil conscience and our bodies washed with clean water* (Heb 10:22); as to the veneration of him: ***kings shall shut their mouth at him***, silent, to listen, not presuming to discuss his secrets: *the princes ceased to speak* (Job 29:9); and as to the knowledge of truth: ***for they to whom***, namely, the gentiles, ***it was not told of him***, by the prophets, ***have seen***, in their hearts, ***and they that heard not***, him preaching in person, below: ***behold me, to nations that did not know me and that did not call upon my name*** (Isa 65:1). *(*Ad gentes quae nesciebant me et quae non invocabant nomen meum*. Vg.: *ad gentem quae non invocabat nomen meum*. DR: “to a nation that did not call upon my name.”)*

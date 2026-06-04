@@ -260,7 +260,7 @@ First, he convicts them of guilt when he shows them the impossibility of denying
 
 And he considers the excuse of their guilt by setting forward two circumstances.  
 
-First, the place: ***consider the roads***, that is, the works, ***in the valley***, of the sons of Hinnom, where they worshiped idols. This place is watered by the springs of Siloam, and there was also a temple of Baal there, according to the Gloss.*Glossa Ordinaria*, at Jeremiah 7:31; Jerome, *In Hieremiam prophetam libri vi* 1.29 (CSEL 59:29; PL 24:679 [705]). Below: ***direct your heart to the straight way upon which you have walked*** (Jer 31:21).  
+First, the place: ***consider the roads***, that is, the works, ***in the valley***, of the sons of Hinnom, where they worshiped idols. This place is watered by the springs of Siloam, and there was also a temple of Baal there, according to the Gloss. *(*Glossa Ordinaria*, at Jeremiah 7:31; Jerome, *In Hieremiam prophetam libri vi* 1.29 (CSEL 59:29; PL 24:679 [705]).)* Below: ***direct your heart to the straight way upon which you have walked*** (Jer 31:21).  
 
 He also sets forth the manner of the sin.  
 
@@ -282,7 +282,7 @@ third, because they are not turned by kind deeds, where it says, ***see the word
 
 Concerning the first, there are three points.  
 
-First, he gives the admonition: ***keep back***; it is as though he were saying, “Cease from the sins for which you will be led barefoot and thirsting into captivity.” As it says in Isaiah: *as my servant Isaiah has walked naked and without shoes, so the king of Assyria will threaten*Heb. יִנְהַ֣ג: *shall lead away*. The Vulgate’s translation of יִנְהַ֣ג as *minabit(ur)* destroys the action of the sentence. The Septuagint correctly renders this verb as ἄξει. *the captivity of Egypt, and the exile of Ethiopia, the young men and the old, naked and barefoot, with uncovered buttocks to the shame of Egypt* (Isa 20:3).  
+First, he gives the admonition: ***keep back***; it is as though he were saying, “Cease from the sins for which you will be led barefoot and thirsting into captivity.” As it says in Isaiah: *as my servant Isaiah has walked naked and without shoes, so the king of Assyria will threaten* *(Heb. יִנְהַ֣ג: *shall lead away*. The Vulgate’s translation of יִנְהַ֣ג as *minabit(ur)* destroys the action of the sentence. The Septuagint correctly renders this verb as ἄξει.)* *the captivity of Egypt, and the exile of Ethiopia, the young men and the old, naked and barefoot, with uncovered buttocks to the shame of Egypt* (Isa 20:3).  
 
 Second, he shows the rebellion of the people: ***and you have said, ‘I have despaired, I have done wickedly.’*** ***Others***, idols. Below: ***we have no hope, we shall go after our own thoughts, and each one of us will do according to the perversity of his own wicked heart*** (Jer 18:12).  
 
@@ -318,7 +318,7 @@ Lecture 8
 
 ***Refusal of kindnesses***
 
-^2:31^ See the word of the Lord: have I become a wilderness to Israel, or a barren land?Literally, a late-ripening land. Why, therefore, has my people said, ‘We have withdrawn; we will come no more to you’?  
+^2:31^ See the word of the Lord: have I become a wilderness to Israel, or a barren land? *(Literally, a late-ripening land.)* Why, therefore, has my people said, ‘We have withdrawn; we will come no more to you’?  
 
 > ^2:32^ Can a virgin forget her ornament, or a bride the fillet about her breast? But my people have forgotten me days without number.
 
@@ -332,13 +332,13 @@ Lecture 9
 
 ***Murder of the poor***
 
-^2:33^ Why do you strive to show your way good to find love? Moreover you have taught malice to be your ways.Jerome seems to misconstrue the Hebrew significantly: מַה־תֵיטִ֥בִי דַרְכֵ֖ךְ לְבַקֵ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַ֣ם אֶת־הָרָעֹ֔ות לִמַ֖דְתְ אֶת־דְרָכָֽיִךְ: *why do you beautify your way to seek love; therefore, you have taught even wicked women your way*. His error was to read הָרָעֹ֔ות as a feminine plural adjective, here used substantively, as an adjective modifying דְרָכָֽיִךְ, a masculine singular noun. The resultant verse in Latin is nonsensical.  
+^2:33^ Why do you strive to show your way good to find love? Moreover you have taught malice to be your ways. *(Jerome seems to misconstrue the Hebrew significantly: מַה־תֵיטִ֥בִי דַרְכֵ֖ךְ לְבַקֵ֣שׁ אַהֲבָ֑ה לָכֵן֙ גַ֣ם אֶת־הָרָעֹ֔ות לִמַ֖דְתְ אֶת־דְרָכָֽיִךְ: *why do you beautify your way to seek love; therefore, you have taught even wicked women your way*. His error was to read הָרָעֹ֔ות as a feminine plural adjective, here used substantively, as an adjective modifying דְרָכָֽיִךְ, a masculine singular noun. The resultant verse in Latin is nonsensical.)*  
 
 > ^2:34^ And on your wings is the blood of the souls of the poor and the innocent found? I have not found them in ditches, but in every place which I mentioned above.
 
 > ^2:35^ And you said, ‘I am without sin and innocent, and so let your wrath be turned away from me.’ Behold, I will contend with you in judgment, because you said, ‘I have not sinned.’
 
-> ^2:36a^ How exceedingly vile have you become, going the same ways over again!Heb. לְשַׁנּוֹת אֶת-דַּרְכֵּךְ: *to change your way*.
+> ^2:36a^ How exceedingly vile have you become, going the same ways over again! *(Heb. לְשַׁנּוֹת אֶת-דַּרְכֵּךְ: *to change your way*.)*
 
 > **14**. Here, he accuses them of crimes against their neighbors.
 
@@ -368,7 +368,7 @@ Lecture 10
 
 > ^2:37^ For you will go forth from her, and your hands shall be upon your head, because the Lord has destroyed your confidence, and you shall have no prosperity in it.
 
-> **15**. Here, he threatens them with the punishment of humiliation: ***and you shall be confounded by Egypt***, on whose help you hoped, ***by Assyria***, because you sought the help of Egypt against the ten tribes, and the Assyrians.Cf. 2 Kings 16:7, 18:21.
+> **15**. Here, he threatens them with the punishment of humiliation: ***and you shall be confounded by Egypt***, on whose help you hoped, ***by Assyria***, because you sought the help of Egypt against the ten tribes, and the Assyrians. *(Cf. 2 Kings 16:7, 18:21.)*
 
 ***Your hands shall be upon your head***, as a sign of grief. *The strength of pharaoh shall be shame to you, and your trust in the shadow of Egypt, disgrace* (Isa 30:3).  
 

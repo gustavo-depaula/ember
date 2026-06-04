@@ -272,11 +272,11 @@ second, in terms of his singular power;
 
 third, in terms of his incomprehensible nature.  
 
-**266**. He describes the first when he says, ***Blessed***; for blessedness is a perfect action, which is distinctive of the supreme active power disposed in the best way: and this is our blessedness, whereas God’s blessedness is that by which he knows himself: for if God did not know himself, he would not be blessed. As Gregory says: *so long as God enjoys himself, he is perfectly glorious*.*Moralia in Job* 32.8.  
+**266**. He describes the first when he says, ***Blessed***; for blessedness is a perfect action, which is distinctive of the supreme active power disposed in the best way: and this is our blessedness, whereas God’s blessedness is that by which he knows himself: for if God did not know himself, he would not be blessed. As Gregory says: *so long as God enjoys himself, he is perfectly glorious*. *(*Moralia in Job* 32.8.)*  
 
 And it is fitting that the author of this coming be described as ***Blessed***, because the purpose of Christ’s coming is to lead us to blessedness: *happy shall I be, if there shall remain of my seed to see the glory of Jerusalem* (Tob 13:20).  
 
-**267**. In regard to the second he says, ***the only Mighty***: *you are mighty* (Ps 88:9). But why does he say, ***the only***? Do not all things have might? Yes, by participation; but God alone is mighty of himself and essentially. Hence he says, ***King of kings and Lord of lords***: *lord is a name of power, so also king*.Ambrose, *Exposition of the Christian Faith* 1.1.7. Therefore, one who has a lord and king over him is subject to power, and such a one is not powerful of himself, but purely of another. Therefore, if Christ is the ***King of kings and Lord of lords***, then he alone has power not from someone else, but all others from him.  
+**267**. In regard to the second he says, ***the only Mighty***: *you are mighty* (Ps 88:9). But why does he say, ***the only***? Do not all things have might? Yes, by participation; but God alone is mighty of himself and essentially. Hence he says, ***King of kings and Lord of lords***: *lord is a name of power, so also king*. *(Ambrose, *Exposition of the Christian Faith* 1.1.7.)* Therefore, one who has a lord and king over him is subject to power, and such a one is not powerful of himself, but purely of another. Therefore, if Christ is the ***King of kings and Lord of lords***, then he alone has power not from someone else, but all others from him.  
 
 And two of God’s powers are mentioned, namely, his governance of the world, when he says, ***King of kings***: *the king that sits on the throne of judgment scatters away all evil with his look* (Prov 20:8); and his creative power, when he says, ***Lord of lords***: *know that the Lord is God: he made us and not we ourselves* (Ps 99:3); *and he has on his garment and on his thigh written: king of kings, and lord of lords* (Rev 19:16).  
 
@@ -294,7 +294,7 @@ Then how can he be known? We arrive at knowing him in this life through grace, a
 
 **270**. But then how does God inhabit ***light inaccessible***? For it is said: *clouds and darkness are round about him* (Ps 96:2), and in Exodus: *Moses went into the dark cloud wherein God was* (Exod 20:21).  
 
-I answer with Dionysius: *every dark cloud is an inaccessible light*; therefore, what is light here is a dark cloud there: but it is a dark cloud inasmuch as it is invisible, and a light inasmuch as it is visible.*The Celestial Hierarchy* 1.3. and 15.6.  
+I answer with Dionysius: *every dark cloud is an inaccessible light*; therefore, what is light here is a dark cloud there: but it is a dark cloud inasmuch as it is invisible, and a light inasmuch as it is visible. *(*The Celestial Hierarchy* 1.3. and 15.6.)*  
 
 But something is invisible for two reasons: first, by reason of itself, as something opaque; second, by reason of its excessive brilliance, as the sun is invisible to the eye of an owl. Hence, some things are not visible to us on account of a deficiency within themselves, and others on account of their richness; which is the way God is inaccessible to us.  
 

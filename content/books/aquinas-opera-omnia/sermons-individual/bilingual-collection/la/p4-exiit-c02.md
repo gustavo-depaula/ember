@@ -52,7 +52,7 @@ Iovinianus venit Romam et praedicavit matrimonium esse aequandum virginitati; Ch
 
 **1.3.** Tertio scimus si semen est alicuius si ducit ad ipsum. Semen arboris virtutem habet ad producendum similem arborem, unde in Genesi: producat *terra herbam virentem et facientem semen iuxta genus suum*. Virtus generativa speciei manet in semine. Unde Iohannes: *illos dixit <deos> ad quos sermo Dei factus est*. Quando verbum Dei aure audis, corde diligis, opere imples, tunc sermo Dei factus est ad te. Sed verum est quod blasphematur vita sanctorum, unde in libro Sapientiae: *nos insensati vitam illorum estimabamus insaniam et finem illorum sine honore; ecce quomodo computati sunt inter filios Dei*. Sequitur: *ergo erravimus a via veritatis*. Conclusionem concedo. Debes ergo imitari Iesum Christum ut assimuleris ei.  
 
-Unde Augustinus, *De agone christiano*: *si multum de te sentis, non dedigneris imitari eum qui filius Altissimi vocabitur; si parum de te sentis, audeas imitari piscatoresLeonine had "peccatores." et publicanos qui Christum imitati sunt*.  
+Unde Augustinus, *De agone christiano*: *si multum de te sentis, non dedigneris imitari eum qui filius Altissimi vocabitur; si parum de te sentis, audeas imitari piscatores *(Leonine had "peccatores.")* et publicanos qui Christum imitati sunt*.  
 
 Patet ergo primum, scilicet de semine;  
 

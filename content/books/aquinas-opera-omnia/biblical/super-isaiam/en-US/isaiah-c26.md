@@ -8,7 +8,7 @@
 
 > ^24:4^ The earth mourned, and faded away, and is weakened: the world faded away, the height of the people of the earth is weakened.
 
-> ^24:5^ And the earth is killed*Interfecta*. Vg.: *infecta*. DR: “infected.” by the inhabitants thereof: because they have transgressed the laws, they have changed the ordinance, they have broken the everlasting covenant.
+> ^24:5^ And the earth is killed *(*Interfecta*. Vg.: *infecta*. DR: “infected.”)* by the inhabitants thereof: because they have transgressed the laws, they have changed the ordinance, they have broken the everlasting covenant.
 
 > ^24:6^ Therefore shall a curse devour the earth, and the inhabitants thereof shall sin: and therefore they that dwell therein shall be mad, and few men shall be left.
 
@@ -26,7 +26,7 @@
 
 > ^24:13^ For it shall be thus in the midst of the earth, in the midst of the people, as if a few olives, that remain, should be shaken out of the olive tree: or grapes, when the vintage is ended.
 
-> ^24:14^ These shall lift up their voice, and shall give praise: when the Lord shall be glorified, they shall whinny*Hinnient*. DR: “make a joyful noise.” from the sea.
+> ^24:14^ These shall lift up their voice, and shall give praise: when the Lord shall be glorified, they shall whinny *(*Hinnient*. DR: “make a joyful noise.”)* from the sea.
 
 > ^24:15^ Therefore glorify the Lord in instruction: the name of the Lord God of Israel in the islands of the sea.
 
@@ -62,9 +62,9 @@ third, a multitude of dangers: ***the prevaricators*** (Isa 24:16).
 
 **566**. Concerning the first, he does three things.  
 
-First, he threatens destruction: ***the Lord shall strip it***, purging it of inhabitants; ***lay waste***, depriving it of those who cultivate it; ***afflict***, with various punishments, ***the face***, that is, inhabitants on its surface; ***scatter abroad***, dividing them into various parts by captivity: *I have stripped you*Nudans spoliavi te*. Vg.: *nudans spoliavit eam*. DR: “he hath stripped it bare.” bare* (Joel 1:7).  
+First, he threatens destruction: ***the Lord shall strip it***, purging it of inhabitants; ***lay waste***, depriving it of those who cultivate it; ***afflict***, with various punishments, ***the face***, that is, inhabitants on its surface; ***scatter abroad***, dividing them into various parts by captivity: *I have stripped you *(*Nudans spoliavi te*. Vg.: *nudans spoliavit eam*. DR: “he hath stripped it bare.”)* bare* (Joel 1:7).  
 
-**567**. Second, the universality of destruction as to those punished, making equal those who differ in rank: ***as with the people*, *so with the priest***; in condition: ***as with the servant so with his master***; in possession of things: ***as with the buyer, so with the seller***: *the small and great are there, and the servant is free from his master* (Job 3:19). As to the diversity of punishments: ***with desolation***, setting out the loss as to immovable things: ***the earth shall be laid waste***; as to movable things: ***it shall be spoiled***: *with desolation is all the land made desolate* (Jer 12:11). As to the downfall of power, ***the earth mourned, and faded away***, using the past tense for the future, that is, it shall fade away, mourning for its weakness; and this is: ***is weakened***, that this may be said as to the common people; but as to the powerful, ***the world***, that is, leaders of the world, ***faded away***, above: ***I will visit the evils of the world*** (Isa 13:11). And he sets out the killing of men: ***and the earth is killed***: *the land was killed**Interfecta*. Vg.: *infecta*. DR: “polluted.” (Ps 105[106]:38).  
+**567**. Second, the universality of destruction as to those punished, making equal those who differ in rank: ***as with the people*, *so with the priest***; in condition: ***as with the servant so with his master***; in possession of things: ***as with the buyer, so with the seller***: *the small and great are there, and the servant is free from his master* (Job 3:19). As to the diversity of punishments: ***with desolation***, setting out the loss as to immovable things: ***the earth shall be laid waste***; as to movable things: ***it shall be spoiled***: *with desolation is all the land made desolate* (Jer 12:11). As to the downfall of power, ***the earth mourned, and faded away***, using the past tense for the future, that is, it shall fade away, mourning for its weakness; and this is: ***is weakened***, that this may be said as to the common people; but as to the powerful, ***the world***, that is, leaders of the world, ***faded away***, above: ***I will visit the evils of the world*** (Isa 13:11). And he sets out the killing of men: ***and the earth is killed***: *the land was killed* *(*Interfecta*. Vg.: *infecta*. DR: “polluted.”)* (Ps 105[106]:38).  
 
 **568**. Third, he shows the equity of the punishment: ***because they have transgressed***, and he does this by comparing it to their fault; hence he does two things.  
 
@@ -122,7 +122,7 @@ And first, he sets out this multitude: ***fear***. He speaks in likeness to thos
 
 **577**. Third, he shows the impossibility of reparation under a threefold similitude, namely,  
 
-of divided things, which are not restored: ***breaking***, as to division into large parts, ***crushing***, as to division into small parts: *behold the eyes of the Lord God are upon the sinful kingdom, and I will crush*Conteram*. DR: “destroy.” it from the face of the earth* (Amos 9:8);  
+of divided things, which are not restored: ***breaking***, as to division into large parts, ***crushing***, as to division into small parts: *behold the eyes of the Lord God are upon the sinful kingdom, and I will crush *(*Conteram*. DR: “destroy.”)* it from the face of the earth* (Amos 9:8);  
 
 and through the similitude of shaken things, which are not made stable: ***with trembling shall the earth be moved***, from place to place, ***shaken***, as if trembling in its own place, ***as a drunken man***, above: ***they have caused Egypt to err in all its works, as a drunken man staggers and vomits*** (Isa 19:14);  
 
@@ -138,7 +138,7 @@ First, he sets out their punishment: ***in that day***, of judgment; ***the Lord
 
 and first, of the judge: ***and the moon shall blush***, that is, its splendor shall be thought nothing in comparison to the splendor of the body of Christ: *the sun shall be turned into darkness, and the moon into blood: before the great and dreadful day of the Lord doth come* (Joel 2:31); or, the worshippers of the sun and moon.  
 
-Second, of the judge’s assessors: ***when the Lord of hosts shall reign . . . and shall be glorified in the sight of his ancients***, above: ***the Lord will enter into judgment with the senatorsSenatoribus*. Vg.: *senibus*. DR: “ancients.” (Isa 3:14).  
+Second, of the judge’s assessors: ***when the Lord of hosts shall reign . . . and shall be glorified in the sight of his ancients***, above: ***the Lord will enter into judgment with the senators*** *(*Senatoribus*. Vg.: *senibus*. DR: “ancients.”)* (Isa 3:14).  
 
 **581**. Note on the words, ***the drink shall be bitter*** (Isa 24:9), that the drink of sin is bitter:  
 

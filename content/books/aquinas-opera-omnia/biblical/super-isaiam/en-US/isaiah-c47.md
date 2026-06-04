@@ -6,7 +6,7 @@
 
 > ^45:3^ And I will give you hidden treasures, and the concealed riches of secret places: that you may know that I am the Lord who call you by your name, the God of Israel.
 
-> ^45:4^ For the sake of my servant Jacob, and Israel my elect, I have even called you by your name: I have made you like,*Assimilavi te*. DR: “made a likeness of thee.” and you have not known me.
+> ^45:4^ For the sake of my servant Jacob, and Israel my elect, I have even called you by your name: I have made you like, *(*Assimilavi te*. DR: “made a likeness of thee.”)* and you have not known me.
 
 > ^45:5^ I am the Lord, and there is none else: there is no god besides me: I girded you, and you have not known me:
 
@@ -26,7 +26,7 @@
 
 > ^45:13^ I have raised him up to justice, and I will direct all his ways: he shall build my city, and let go my captives, not for ransom, nor for presents, says the Lord of hosts.
 
-> ^45:14^ Thus says the Lord God: the labor of Egypt, and the business*Negotiatio*. DR: “merchandise.” of Ethiopia, and of Sabaim, men of stature shall come over to you, and shall be thine: they shall walk after you, they shall go bound with manacles: and they shall worship you, and shall make supplication to you: only in you is God, and there is no God besides you.
+> ^45:14^ Thus says the Lord God: the labor of Egypt, and the business *(*Negotiatio*. DR: “merchandise.”)* of Ethiopia, and of Sabaim, men of stature shall come over to you, and shall be thine: they shall walk after you, they shall go bound with manacles: and they shall worship you, and shall make supplication to you: only in you is God, and there is no God besides you.
 
 > ^45:15^ Verily you are a hidden God, the God of Israel the savior.
 
@@ -112,7 +112,7 @@ Second, he shows that this benefit is partly frustrated on the part of Cyrus him
 
 And first, he shows that in others he seeks the fruit of knowledge of him: ***who are from the rising of the sun***, that is, living throughout the entire world; and this was fulfilled in that, in his epistles, Cyrus wrote the praise of God everywhere; or because everyone praised God together seeing the liberation of the Jews: *and let them know that the Lord is your name: you alone are the most High over all the earth* (Ps 82:19[83:18]).  
 
-Second, he sets out the proof of his divinity, which can be known from the fact that he can afflict and liberate: ***I am the Lord***, etc. ***I form the light***, the day or consolation; ***I create evil***, of punishment: *is there*Est*. Vg.: *erit*. DR: “shall there be.” evil in a city, which the Lord has not done?* (Amos 3:6); *the Lord made all things double, one against another* (Sir 42:25[24]).  
+Second, he sets out the proof of his divinity, which can be known from the fact that he can afflict and liberate: ***I am the Lord***, etc. ***I form the light***, the day or consolation; ***I create evil***, of punishment: *is there *(*Est*. Vg.: *erit*. DR: “shall there be.”)* evil in a city, which the Lord has not done?* (Amos 3:6); *the Lord made all things double, one against another* (Sir 42:25[24]).  
 
 **861**. ***Drop down dew***. Here he describes the birth of Cyrus under the metaphor of the fruit of a tree, for whose generation the moisture of the earth and rain and dew from heaven are required; so in the birth of Cyrus, divine mercy, intending to liberate God’s people through him, coincides with lower nature, which is signified. Thus he does three things:  
 
@@ -122,7 +122,7 @@ the fruit of his birth, ***and let justice spring up***;
 
 and the first principle of his birth, ***I the Lord***.  
 
-***Let the clouds rain the just***, neuter or masculine.I.e., “the just” could refer to either that which is just or the just man. Or by heaven and the clouds is signified the prophets and the other just ones who by foretelling him and begging God for him with tears, in a certain manner rained him: *he shall come down like rain* (Ps 71[72]:6).  
+***Let the clouds rain the just***, neuter or masculine. *(I.e., “the just” could refer to either that which is just or the just man.)* Or by heaven and the clouds is signified the prophets and the other just ones who by foretelling him and begging God for him with tears, in a certain manner rained him: *he shall come down like rain* (Ps 71[72]:6).  
 
 **862**. ***Woe to him that gainsays***. Here he excludes the contradiction of the unbelievers.  
 
@@ -172,9 +172,9 @@ He enjoins the declaration of his praise: ***tell***, in which he enjoins the of
 
 **868**. Third, he invites the gentiles to conversion.  
 
-And first, the invitation is set out: ***be converted***: *be converted*Convertimini*. DR: “turn.” to me* (Zech 1:3).  
+And first, the invitation is set out: ***be converted***: *be converted *(*Convertimini*. DR: “turn.”)* to me* (Zech 1:3).  
 
-Second, he foretells their conversion, setting out the sign of adoration: ***I have sworn by myself***, for I have nothing greater by which I might swear (Heb 6:13); ***it shall not return***, without effect, below: ***so shall my word be, which shall go forth from my mouth: it shall not return to me void*** (Isa 55:11). ***Every knee shall be bowed to me***, by Christians, for this is the manner of adoring the Redeemer, according to John Damascene,L. *De fide orthodoxa* 4.12 (PG 94, 1133). *in the name of Jesus every knee should bow* (Phil 2:10); he also sets out the sign of swearing, ***every tongue shall swear***, for everyone swears by his god: *all they shall be praised that swear by him* (Ps 62:12[63:11]). He also sets out the sign of true confession: ***therefore shall he say: in the Lord***, that is, in the person of the Lord; ***my***, namely, God’s, ***justices and empire***: *to him be glory and empire* (Rev 1:6); or ***my***, namely, the Church’s, ***justices***, the figures of the law of the Jews.  
+Second, he foretells their conversion, setting out the sign of adoration: ***I have sworn by myself***, for I have nothing greater by which I might swear (Heb 6:13); ***it shall not return***, without effect, below: ***so shall my word be, which shall go forth from my mouth: it shall not return to me void*** (Isa 55:11). ***Every knee shall be bowed to me***, by Christians, for this is the manner of adoring the Redeemer, according to John Damascene, *(L. *De fide orthodoxa* 4.12 (PG 94, 1133).)* *in the name of Jesus every knee should bow* (Phil 2:10); he also sets out the sign of swearing, ***every tongue shall swear***, for everyone swears by his god: *all they shall be praised that swear by him* (Ps 62:12[63:11]). He also sets out the sign of true confession: ***therefore shall he say: in the Lord***, that is, in the person of the Lord; ***my***, namely, God’s, ***justices and empire***: *to him be glory and empire* (Rev 1:6); or ***my***, namely, the Church’s, ***justices***, the figures of the law of the Jews.  
 
 Third, he foretells the confusion of the unbelievers: ***they shall come to him***, as if to be judged, who will not come as believers, in the day of judgment.  
 

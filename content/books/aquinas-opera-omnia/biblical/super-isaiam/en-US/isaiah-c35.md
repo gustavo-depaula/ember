@@ -26,7 +26,7 @@
 
 > ^33:13^ Hear, you that are far off, what I have done, and you that are near know my strength.
 
-> ^33:14^ The sinners in Zion are broken,*Contriti*. Vg.: *conterriti*. DR: “afraid.” trembling has seized upon the hypocrites. Which of you can dwell with devouring fire? Which of you shall dwell with everlasting burnings?
+> ^33:14^ The sinners in Zion are broken, *(*Contriti*. Vg.: *conterriti*. DR: “afraid.”)* trembling has seized upon the hypocrites. Which of you can dwell with devouring fire? Which of you shall dwell with everlasting burnings?
 
 > ^33:15^ He that walks in justices, and speaks truth, that casts away avarice by oppression, and shakes his hands from all bribes, that stops his ears lest he hear blood, and shuts his eyes that he may see no evil.
 
@@ -40,7 +40,7 @@
 
 > ^33:20^ Look upon Zion the city of our solemnity: your eyes shall see Jerusalem, a rich habitation, a tabernacle that cannot be removed: neither shall the nails thereof be taken away for ever, neither shall any of the cords thereof be broken.
 
-> ^33:21^ Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars has passed*Transivit*. Vg.: *transibit*. DR: “shall pass.” by it, neither shall the great galley pass through it.
+> ^33:21^ Because only there our Lord is magnificent: a place of rivers, very broad and spacious streams: no ship with oars has passed *(*Transivit*. Vg.: *transibit*. DR: “shall pass.”)* by it, neither shall the great galley pass through it.
 
 > ^33:22^ For the Lord is our judge, the Lord is our lawgiver, the Lord is our king: he will save us.
 
@@ -82,17 +82,17 @@ second, that which they themselves inflicted: ***behold they that see*** (Isa 33
 
 First, he threatens the destruction of the Assyrians, setting out a question: ***shall not you yourself also be spoiled***, and the answer: ***when you shall have made an end, you shall be spoiled: being wearied***; as if to say: affected by tedium from so many victories: *with what measure you mete, it shall be measured to you again* (Matt 7:2); *he that shall kill by the sword* (Rev 13:10), shall be killed by the sword.  
 
-**717**. Second, in the person of the people, he asks for confirmation of the threat from God: ***O Lord, have mercy on us***: *glorify your hand and extend your arm* (Sir 36:7);*Glorifica manum et extende brachium*. Vg.: *glorifica manum et brachium dextrum*. DR: “glorify thy hand, and thy right arm.” *give us, O Lord, help from trouble* (Ps 59:13[60:11]).  
+**717**. Second, in the person of the people, he asks for confirmation of the threat from God: ***O Lord, have mercy on us***: *glorify your hand and extend your arm* (Sir 36:7); *(*Glorifica manum et extende brachium*. Vg.: *glorifica manum et brachium dextrum*. DR: “glorify thy hand, and thy right arm.”)* *give us, O Lord, help from trouble* (Ps 59:13[60:11]).  
 
 **718**. Third, he sets out the fulfillment of this petition,  
 
 first, setting out the destruction of the Assyrians as to the dispersion of their army: ***at the voice of the angel***, killing many, ***the people***, the Assyrians who were left remaining, above: ***and his princes fleeing shall be afraid*** (Isa 31:9). As to the plundering of their spoils: ***and***, you, O Assyrians, ***your spoils shall be gathered together***, by the Jews, above: ***they shall rejoice before you, as they that rejoice in taking a prey, when they divide the spoils*** (Isa 9:3).  
 
-Second, the fruit of the destruction, namely, the glory of God: ***the Lord is magnified***: *your mercy is magnified even to the heavens: and your truth unto the clouds* (Ps 56:11[57:10]); and the grace of men in rectitude of action, ***he***, namely, the Lord, ***has filled Zion with judgment***, which is the execution of justice. ***Faith***, which is the foundation of justice, above: ***Zion shall be redeemed in judgment*** (Isa 1:27); *I will espouse you to me in justice, and in faith* (Hos 2:19–20). As to the perfection of intellect: ***riches of salvation, wisdom***, in divine things, ***and knowledge***, in human things: *wisdom is more precious than all riches* (Prov 3:15). As to the ordering of the affections: ***the fear of the Lord***: *the fear of the Lord blots out*Delet*. Vg.: *expellit*. DR: “driveth out.” sin* (Sir 1:27).  
+Second, the fruit of the destruction, namely, the glory of God: ***the Lord is magnified***: *your mercy is magnified even to the heavens: and your truth unto the clouds* (Ps 56:11[57:10]); and the grace of men in rectitude of action, ***he***, namely, the Lord, ***has filled Zion with judgment***, which is the execution of justice. ***Faith***, which is the foundation of justice, above: ***Zion shall be redeemed in judgment*** (Isa 1:27); *I will espouse you to me in justice, and in faith* (Hos 2:19–20). As to the perfection of intellect: ***riches of salvation, wisdom***, in divine things, ***and knowledge***, in human things: *wisdom is more precious than all riches* (Prov 3:15). As to the ordering of the affections: ***the fear of the Lord***: *the fear of the Lord blots out *(*Delet*. Vg.: *expellit*. DR: “driveth out.”)* sin* (Sir 1:27).  
 
 **719**. Note on the words, ***riches of salvation***, that we have riches,  
 
-first, in God: *in him are hid all the treasures of wisdom and knowledge of God*Vg. omits “of God.” (Col 2:3);  
+first, in God: *in him are hid all the treasures of wisdom and knowledge of God* *(Vg. omits “of God.”)* (Col 2:3);  
 
 second, in himself: *wisdom is more precious than all riches* (Prov 3:15);  
 
@@ -100,7 +100,7 @@ third, in the fellowship of the saints, above: ***a man shall be more precious t
 
 **720**. ***Behold they that see shall cry***. Here he sets out the punishment which Assyria inflicted on others.  
 
-And first, he describes the punishment inflicted by them as to the disturbance of men: ***they that see*** the magnitude of the army ***shall cry without***, they who live in the suburbs, ***angels of peace***, envoys of Ezechias to Rabsaces, below (Isa 36:3). *Behold the voice of the daughter of my people from a far country* (Jer 8:19). As to the loneliness of the ways: ***the ways are made desolate***: *the ways of Zion mourn, because there are none that come to the solemn feast* (Lam 1:4); as to the breaking of covenants: ***the covenant is made void***, namely, the covenant by which Sennacherib had insured Ezechias, and therefore, ***he has rejected***, as if despising their friendship, ***he has not regarded***, because of the pride of his heart: *he swallows the ground, neither doth he regard*Reputat*. DR: “make account.” when the noise of the trumpet sounds* (Job 39:24). As to the destruction of regions: ***the land has mourned, and languished***, and he names especially fertile regions; above (Isa 24:4, 7) has the same thing.  
+And first, he describes the punishment inflicted by them as to the disturbance of men: ***they that see*** the magnitude of the army ***shall cry without***, they who live in the suburbs, ***angels of peace***, envoys of Ezechias to Rabsaces, below (Isa 36:3). *Behold the voice of the daughter of my people from a far country* (Jer 8:19). As to the loneliness of the ways: ***the ways are made desolate***: *the ways of Zion mourn, because there are none that come to the solemn feast* (Lam 1:4); as to the breaking of covenants: ***the covenant is made void***, namely, the covenant by which Sennacherib had insured Ezechias, and therefore, ***he has rejected***, as if despising their friendship, ***he has not regarded***, because of the pride of his heart: *he swallows the ground, neither doth he regard *(*Reputat*. DR: “make account.”)* when the noise of the trumpet sounds* (Job 39:24). As to the destruction of regions: ***the land has mourned, and languished***, and he names especially fertile regions; above (Isa 24:4, 7) has the same thing.  
 
 **721**. Second, he sets out divine resistance to his efforts: ***now will I rise up***. And concerning this, he sets out three things.  
 
@@ -176,7 +176,7 @@ Second, those who are eminent in eloquence, but not in wisdom: ***the people of 
 
 And first, as to its abundance of goods, setting out four things which are in the heavenly or the militant Church, namely,  
 
-joy of heart: ***the city of our solemnity***, above: ***as in the voiceVox*. Vg.: *nox*. DR: “night.” ***of the sanctified solemnity, and joy of heart*** (Isa 30:29).  
+joy of heart: ***the city of our solemnity***, above: ***as in the voice*** *(*Vox*. Vg.: *nox*. DR: “night.”)* ***of the sanctified solemnity, and joy of heart*** (Isa 30:29).  
 
 Wealth of goods: ***your eyes shall see Jerusalem, a rich habitation***, above: ***and my people shall sit in the beauty of peace, and in the tabernacles of confidence, and in wealthy rest*** (Isa 32:18).  
 
@@ -186,11 +186,11 @@ Abundance of waters: ***a place of rivers***, that is, of divine admonitions; **
 
 Nonetheless, the Jews fabulously refer all this to the golden age of Jerusalem.  
 
-**730**. Second, as to its freedom from evils: ***no ship with oars***, belonging to any of their enemies, who were accustomed to harass the promised land by way of the sea, ***has passed by it***, using the past tense for the future; ***the great galley** (trieris)*, a ship having three rows of oars. And he assigns the cause: ***for the Lord is our judge***, judging us by our adversaries: *behold your king comes to you, meek* (Zech 9:9).Cf. Matthew 21:5.  
+**730**. Second, as to its freedom from evils: ***no ship with oars***, belonging to any of their enemies, who were accustomed to harass the promised land by way of the sea, ***has passed by it***, using the past tense for the future; ***the great galley** (trieris)*, a ship having three rows of oars. And he assigns the cause: ***for the Lord is our judge***, judging us by our adversaries: *behold your king comes to you, meek* (Zech 9:9). *(Cf. Matthew 21:5.)*  
 
 **731**. ***Your tacklings are loosed***. Here he foretells the destruction of the ungrateful Jews, carried out afterwards by the Romans, and he sets out three things.  
 
-First, their powerlessness to resist: ***your tacklings are loosed***, that is, prepared, that you may defend yourself against the Romans. This is said according to a likeness of a ship which is prepared for the same. ***Your mast** (malus)*, the mast (*arbor*) of the ship, that is, the temple, in which the precious vessels and veils are known to have been: *the Lord has delivered me into a hand, out of which I am not able to flee**Fugere*. Vg.: *surgere*. DR: “rise.” (Lam 1:14).  
+First, their powerlessness to resist: ***your tacklings are loosed***, that is, prepared, that you may defend yourself against the Romans. This is said according to a likeness of a ship which is prepared for the same. ***Your mast** (malus)*, the mast (*arbor*) of the ship, that is, the temple, in which the precious vessels and veils are known to have been: *the Lord has delivered me into a hand, out of which I am not able to flee* *(*Fugere*. Vg.: *surgere*. DR: “rise.”)* (Lam 1:14).  
 
 **732**. Second, the plundering of spoils by enemies: ***then shall the spoils of much prey be divided***, by the Romans; ***the lame shall take the spoil***, as if to say: none will be so powerless among them that they will not be able to plunder your spoils: *let the weak say: I am strong* (Joel 3:10).  
 

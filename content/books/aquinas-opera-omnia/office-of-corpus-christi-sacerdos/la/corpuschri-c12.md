@@ -38,7 +38,7 @@ Kyrie, fons bonitatis, Pater ingenite, a quo bona cuncta procedunt, eleison.
 
 ***{image 077}***
 
-Gloria in excelsis Deo.Corrigan has the musical notation for “Deo” shifted down a step lower than the manuscript has it; we have followed the manuscript here. Et in terra pax hominibus bonae voluntatis. Laudamus te. Benedicimus te. Adoramus te. Glorificamus te. Gratias agimus tibi propter magnam gloriam tuam. Domine Deus, rex caelestis, Deus Pater omnipotens. Domine Fili unigenite Iesu Christe. Domine Deus, agnus Dei, Filius Patris. Qui tollis peccata mundi, miserere nobis. Qui tollis peccata mundi, suscipe deprecationem nostram. Qui sedes ad dexteram Patris, miserere nobis. Quoniam tu solus sanctus. Tu solus Dominus. Tu solus altissimus, Iesu Christe. Cum Sancto Spiritu in gloria Dei Patris. Amen.  
+Gloria in excelsis Deo. *(Corrigan has the musical notation for “Deo” shifted down a step lower than the manuscript has it; we have followed the manuscript here.)* Et in terra pax hominibus bonae voluntatis. Laudamus te. Benedicimus te. Adoramus te. Glorificamus te. Gratias agimus tibi propter magnam gloriam tuam. Domine Deus, rex caelestis, Deus Pater omnipotens. Domine Fili unigenite Iesu Christe. Domine Deus, agnus Dei, Filius Patris. Qui tollis peccata mundi, miserere nobis. Qui tollis peccata mundi, suscipe deprecationem nostram. Qui sedes ad dexteram Patris, miserere nobis. Quoniam tu solus sanctus. Tu solus Dominus. Tu solus altissimus, Iesu Christe. Cum Sancto Spiritu in gloria Dei Patris. Amen.  
 
 > Oratio
 
@@ -56,7 +56,7 @@ Fratres: ego accepi a Domino quod et tradidi vobis, quoniam Dominus noster Iesus
 
 ℟. Oculi omnium in te sperant, Domine, et tu das illis escam in tempore opportuno.  
 
-℣. Aperis tu manumCorrigan has the notes for the second syllable of “manum” shifted down a step lower than the manuscript has them; we have followed the manuscript here. tuam et imples omne animal benedictione.  
+℣. Aperis tu manum *(Corrigan has the notes for the second syllable of “manum” shifted down a step lower than the manuscript has them; we have followed the manuscript here.)* tuam et imples omne animal benedictione.  
 
 Alleluia  
 
@@ -128,7 +128,7 @@ Contra *Laudes crucis attolamus* de sancta Cruce.
 > animosa firmat fides
 > praeter rerum ordinem.
 
-> Sub diversisIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses. speciebus
+> Sub diversis *(In the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.)* speciebus
 > signis tantum et non rebus
 > latent res eximiae.
 
@@ -154,7 +154,7 @@ Contra *Laudes crucis attolamus* de sancta Cruce.
 
 > Fracto demum sacramento
 > ne vacilles sed memento
-> tantumThe music found in the manuscript differs from the chant above slightly at this point, but it is likely a mistake. esse sub fragmentoIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.
+> tantum *(The music found in the manuscript differs from the chant above slightly at this point, but it is likely a mistake.)* esse sub fragmento *(In the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.)*
 > quantum toto tegitur.
 
 > Nulla rei fit scissura
@@ -162,7 +162,7 @@ Contra *Laudes crucis attolamus* de sancta Cruce.
 > qua nec status nec statura
 > signati minuitur.
 
-> Ecce panis angelorumIn the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.
+> Ecce panis angelorum *(In the manuscript, the liquescent note in the chant above is indicated for the first verse only of this pair of verses.)*
 > factus cibus viatorum
 > vere panis filiorum
 > non mittendus canibus.

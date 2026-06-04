@@ -6,7 +6,7 @@
 
 ***Woe to evil shepherds***
 
-^23:1^ Woe to the shepherds who scatter and tear in piecesHeb. וּמְפִצִ֛ים: *and scatter*. the flock of my pasture! says the Lord.  
+^23:1^ Woe to the shepherds who scatter and tear in pieces *(Heb. וּמְפִצִ֛ים: *and scatter*.)* the flock of my pasture! says the Lord.  
 
 > ^23:2a^ Therefore, thus says the Lord, God of Israel to the shepherds who shepherd my people: you have scattered my flock and have driven them away, and have not visited them.
 
@@ -40,13 +40,13 @@ Lecture 2
 
 ^23:2b^ Behold, I shall visit upon you the wickedness of your deeds, says the Lord.  
 
-> ^23:3^ And I shall gather the remnants of my flock from all the lands to which I have driven them; and I shall bring them back to their own fields,Heb. נְוֵהֶ֖ן: *sheepfolds*. and they shall increase, and be multiplied.
+> ^23:3^ And I shall gather the remnants of my flock from all the lands to which I have driven them; and I shall bring them back to their own fields, *(Heb. נְוֵהֶ֖ן: *sheepfolds*.)* and they shall increase, and be multiplied.
 
 > ^23:4^ And I shall raise up shepherds over them, and they shall pasture them, and they shall not fear anymore, neither shall they be afraid, and none shall be lacking of their number, says the Lord.
 
 > ^23:5^ Behold, the days are coming, says the Lord, when I shall raise up from David a righteous shoot, and he shall reign as king, and will be wise, and he will execute judgment and righteousness in the land.
 
-> ^23:6^ In those days Judah will be saved, and Israel shall dwell confidently; and this is the name which they shall call him: the Lord our just one.Heb. יְהוָה צִדְקֵנוּ: *the Lord our righteousness*.
+> ^23:6^ In those days Judah will be saved, and Israel shall dwell confidently; and this is the name which they shall call him: the Lord our just one. *(Heb. יְהוָה צִדְקֵנוּ: *the Lord our righteousness*.)*
 
 > **120**. Here he threatens punishment.
 
@@ -104,7 +104,7 @@ second, the sin of the deceiving prophets, at ***for the prophet and the priest 
 
 Concerning the first, there are two points.  
 
-First, the compassion of the prophet concerning the future destruction, which he reveals by the breaking of his heart: ***my heart is broken***;The words here translated as “destruction” and “breaking” share the same root verb, *contrero*, which can signify “to grind,” “to break,” “to crumble,” “to destroy,” etc. by the trembling of his body: ***all my bones are shaken***, as regularly happens to those who are troubled; by the hindering of his thinking: ***I have become like a drunk man***, who does not have the use of his reason; and this, because of the magnitude of his shock: ***like a man sodden with wine***, who certainly has the use of his reason, but it is impeded by much drinking; ***from the face of the Lord***, from the presence of his revelation, which tells me he is angry with the Jews; ***his holy words***, by which he informed me of their guilt, and predicted punishment. *All my bones are scattered, my heart within me has become as melting wax in the midst of my bowels* (Ps 21:15). *Be astonished and wonder, waver and stagger, be drunk and not from wine, be moved and not from drunkenness* (Isa 29:9).  
+First, the compassion of the prophet concerning the future destruction, which he reveals by the breaking of his heart: ***my heart is broken***; *(The words here translated as “destruction” and “breaking” share the same root verb, *contrero*, which can signify “to grind,” “to break,” “to crumble,” “to destroy,” etc.)* by the trembling of his body: ***all my bones are shaken***, as regularly happens to those who are troubled; by the hindering of his thinking: ***I have become like a drunk man***, who does not have the use of his reason; and this, because of the magnitude of his shock: ***like a man sodden with wine***, who certainly has the use of his reason, but it is impeded by much drinking; ***from the face of the Lord***, from the presence of his revelation, which tells me he is angry with the Jews; ***his holy words***, by which he informed me of their guilt, and predicted punishment. *All my bones are scattered, my heart within me has become as melting wax in the midst of my bowels* (Ps 21:15). *Be astonished and wonder, waver and stagger, be drunk and not from wine, be moved and not from drunkenness* (Isa 29:9).  
 
 Second, he speaks of the dissipation of the people:  
 
@@ -124,7 +124,7 @@ Lecture 5
 
 > ^23:13^ And in the prophets of Samaria I have seen foolishness; they prophesied by Baal, and they deceived my people Israel.
 
-> ^23:14^ And in the prophets of Jerusalem I have seen the likeness of adulterers,Jerome’s Hebrew text appears to differ here from the Masoretic, in that it has a *tav* in place of the final *heh* of *sha’arurah*, שַעֲרוּרָת נָאֹוף. This slight variation, possibly a scribal error, effectively joins the two words, by putting *sha’arurah* in the construct state, making the phrase mean, *the horrible thing of committing adultery*. Such a reading is rendered impossible in the Masoretic text by the placement of the disjunctive accent, *revia*, over *sha’arurah*. a way of lies, and they have strengthened the hands of the wicked, so that each one might not be turned from his wickedness; they have all become to me like Sodom, and their inhabitants like Gomorrah.
+> ^23:14^ And in the prophets of Jerusalem I have seen the likeness of adulterers, *(Jerome’s Hebrew text appears to differ here from the Masoretic, in that it has a *tav* in place of the final *heh* of *sha’arurah*, שַעֲרוּרָת נָאֹוף. This slight variation, possibly a scribal error, effectively joins the two words, by putting *sha’arurah* in the construct state, making the phrase mean, *the horrible thing of committing adultery*. Such a reading is rendered impossible in the Masoretic text by the placement of the disjunctive accent, *revia*, over *sha’arurah*.)* a way of lies, and they have strengthened the hands of the wicked, so that each one might not be turned from his wickedness; they have all become to me like Sodom, and their inhabitants like Gomorrah.
 
 > ^23:15^ Therefore, thus says the Lord of hosts to the prophets: behold, I will feed them with wormwood, and make them drink gall; for defilement has come forth from the prophets of Jerusalem upon all the land.
 
@@ -156,11 +156,11 @@ Lecture 6
 
 > ^23:19^ Behold, the whirlwind of the Lord’s indignation shall go forth, and a storm breaking forth upon the head of the wicked shall come.
 
-> ^23:20^ The fury of the Lord shall not turn back until it shall do and accomplish the thought of his heart; you shall understand his counsel at the end of days.Heb. בְּאַחֲרִית הַיָּמִים: *in the end of days*, a common phrase among the prophets denoting the eschatological end of history or the time of messianic fulfillment.
+> ^23:20^ The fury of the Lord shall not turn back until it shall do and accomplish the thought of his heart; you shall understand his counsel at the end of days. *(Heb. בְּאַחֲרִית הַיָּמִים: *in the end of days*, a common phrase among the prophets denoting the eschatological end of history or the time of messianic fulfillment.)*
 
 > ^23:21^ I did not send prophets, yet they ran; I did not speak to them, yet they prophesied.
 
-> ^23:22^ If they had stood in my counsel, and had made note of my words to my people,In this verse, Jerome seems to mistake the subject and the meaning of וְיַשְׁמִ֤עוּ: *they would have caused [my people] to hear*. God is not here speaking of what he would have done, but rather, he is speaking of what the prophets would have done, had they heard his words. I should have certainly turned them from their evil ways, and from their wicked thoughts.
+> ^23:22^ If they had stood in my counsel, and had made note of my words to my people, *(In this verse, Jerome seems to mistake the subject and the meaning of וְיַשְׁמִ֤עוּ: *they would have caused [my people] to hear*. God is not here speaking of what he would have done, but rather, he is speaking of what the prophets would have done, had they heard his words.)* I should have certainly turned them from their evil ways, and from their wicked thoughts.
 
 > **124**. Here, he speaks of the diverse modes of deception.
 
@@ -226,7 +226,7 @@ And with regard to the intention of the work or of the worker: ***who wish to ma
 
 Third, he sets forth the precepts of true doctrine: ***let the prophet who has a dream***; it is as though he were saying, “whatever level of prophetic vision.” *To each one as God has divided the measure of faith* (Rom 12:3). And he gives the reason: ***what has the straw to do with the wheat?*** It is as though he were saying, “My words are wheat to restore your strength.” Above: ***your words were found, and I ate them; and your word has become the joy and gladness of my heart*** (Jer 15:16). *How sweet to my throat are your words, more than honey to my mouth* (Ps 118:103).  
 
-And ***fire***, to kindle. *Your word is kindled greatly* (Ps 118:140).Heb. צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד: *your word is purified greatly*. Apparently, the verb, צָרַף (*tsaraf*), *to refine, purify*, is here mistaken for a similar sounding verb, שָׂרָף (*saraf*), *to burn*. And again: *the word of the Lord inflamed him* (Ps 104:19).The same confusion as above also occurs in this verse. ***A hammer***, for softening hard hearts. *For this reason, I have hewed them by the prophets, and slain them by the words of my mouth* (Hos 6:5). And therefore, they are not to be mixed with thorns. *What fellowship has light with darkness, or the congregation of Christ with Belial* (2 Cor 6:15).Heb. בְלִיַּעַל: lit. *without worth*. Later understood as a personification of evil, the devil.  
+And ***fire***, to kindle. *Your word is kindled greatly* (Ps 118:140). *(Heb. צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד: *your word is purified greatly*. Apparently, the verb, צָרַף (*tsaraf*), *to refine, purify*, is here mistaken for a similar sounding verb, שָׂרָף (*saraf*), *to burn*.)* And again: *the word of the Lord inflamed him* (Ps 104:19). *(The same confusion as above also occurs in this verse.)* ***A hammer***, for softening hard hearts. *For this reason, I have hewed them by the prophets, and slain them by the words of my mouth* (Hos 6:5). And therefore, they are not to be mixed with thorns. *What fellowship has light with darkness, or the congregation of Christ with Belial* (2 Cor 6:15). *(Heb. בְלִיַּעַל: lit. *without worth*. Later understood as a personification of evil, the devil.)*  
 
 Lecture 8  
 
@@ -236,7 +236,7 @@ Lecture 8
 
 > ^23:31^ Behold, I am against the prophets, says the Lord, who take up their tongues and say, ‘The Lord says.’
 
-> ^23:32^ Behold, I am against the prophets who dream a lie, says the Lord, who tell them, and seduce my people with their lie and with their wonders,Heb. בְּשִׁקְרֵיהֶ֖ם וּבְפַחֲזוּתָ֑ם: *by their falsehoods and by their recklessness*. when I have not sent them, neither have I commanded them, who have profited this people nothing, says the Lord.
+> ^23:32^ Behold, I am against the prophets who dream a lie, says the Lord, who tell them, and seduce my people with their lie and with their wonders, *(Heb. בְּשִׁקְרֵיהֶ֖ם וּבְפַחֲזוּתָ֑ם: *by their falsehoods and by their recklessness*.)* when I have not sent them, neither have I commanded them, who have profited this people nothing, says the Lord.
 
 > **126**. Here, he recollects the three modes of deception.
 
@@ -250,7 +250,7 @@ Lecture 9
 
 ***The burden of the Lord***
 
-^23:33^ Therefore, if this people shall ask you, or a prophet, or a priest, saying, ‘What is the burdenJerome seems to have confused the word, מַשָּׂא, *oracle, revelation*, for a homonym meaning *burden*. of the Lord?’ you shall say to them, ‘You are the burden. I shall certainly cast you forth, says the Lord.’  
+^23:33^ Therefore, if this people shall ask you, or a prophet, or a priest, saying, ‘What is the burden *(Jerome seems to have confused the word, מַשָּׂא, *oracle, revelation*, for a homonym meaning *burden*.)* of the Lord?’ you shall say to them, ‘You are the burden. I shall certainly cast you forth, says the Lord.’  
 
 > ^23:34^ And the prophet, and the priest, and the people who say, ‘the burden of the Lord,’ I shall visit it upon that man, and upon his house.
 
@@ -290,4 +290,4 @@ Second, the punishment of shame: ***and I shall make you a reproach***; this may
 
 Collations  
 
-A note on the verse: ***behold, the days are coming*** (Jer 23:5, 7) The time of grace is called “day” because of the appearance of light: *the night is far spent, the day drawn close; let us therefore cast off the works of darkness, and put on the armor of light* (Rom 13:12); because of the heat of the sun: *tomorrowI.e., when the sun becomes hot. there shall be salvation for you* (1 Sam 11:9); because of the security of the journey: *if anyone walks in the day, he shall not stumble, because he sees the light of this world; but if he should walk at night, he stumbles, because the light is not in him* (John 11:9–10); because of vigilance and sobriety: *for those who sleep, sleep at night, and those who are drunk, are drunk at night* (1 Thess 5:7).
+A note on the verse: ***behold, the days are coming*** (Jer 23:5, 7) The time of grace is called “day” because of the appearance of light: *the night is far spent, the day drawn close; let us therefore cast off the works of darkness, and put on the armor of light* (Rom 13:12); because of the heat of the sun: *tomorrow *(I.e., when the sun becomes hot.)* there shall be salvation for you* (1 Sam 11:9); because of the security of the journey: *if anyone walks in the day, he shall not stumble, because he sees the light of this world; but if he should walk at night, he stumbles, because the light is not in him* (John 11:9–10); because of vigilance and sobriety: *for those who sleep, sleep at night, and those who are drunk, are drunk at night* (1 Thess 5:7).

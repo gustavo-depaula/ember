@@ -10,7 +10,7 @@
 
 > ^7:2^ stand in the gate of the house of the Lord, and preach there this word, and say: hear the word of the Lord, all Judah, who enter through these gates to worship the Lord.
 
-> ^7:3^ Thus says the Lord of hosts, the God of Israel: make your ways good, and your inclinations, and I will dwell with you in this place.Heb. וַאֲשַׁכְּנָ֣ה אֶתְכֶ֔ם בַּמָּקֹ֥ום הַזֶּֽה: *and I will cause you to dwell in this place*.
+> ^7:3^ Thus says the Lord of hosts, the God of Israel: make your ways good, and your inclinations, and I will dwell with you in this place. *(Heb. וַאֲשַׁכְּנָ֣ה אֶתְכֶ֔ם בַּמָּקֹ֥ום הַזֶּֽה: *and I will cause you to dwell in this place*.)*
 
 > ^7:4^ Trust not in lying words, which say, ‘The temple of the Lord, the temple of the Lord, it is the temple of the Lord.’
 
@@ -18,13 +18,13 @@
 
 > ^7:6^ If you do not oppress the stranger, the orphan, and the widow, and shed not innocent blood in this place, nor walk after strange gods to your own hurt,
 
-> ^7:7^ I will dwell with you in this place,Heb. וְשִׁכַּנְתִּ֤י אֶתְכֶם֙ בַּמָּקֹ֣ום הַזֶּ֔ה: *and I will cause you to dwell in this place*. in the land which I gave to your fathers forever.
+> ^7:7^ I will dwell with you in this place, *(Heb. וְשִׁכַּנְתִּ֤י אֶתְכֶם֙ בַּמָּקֹ֣ום הַזֶּ֔ה: *and I will cause you to dwell in this place*.)* in the land which I gave to your fathers forever.
 
 > ^7:8^ Behold, you trust in lying words, which cannot profit you:
 
-> ^7:9^ To steal, to kill, to commit adultery, to swear falsely, to pour out drink offerings to the Baalim, and to go after strange gods, whom you know not:Verses nine and ten are a question: הֲגָנֹב רָצֹחַ וְנָאֹף: *will you steal, murder, and commit adultery?*
+> ^7:9^ To steal, to kill, to commit adultery, to swear falsely, to pour out drink offerings to the Baalim, and to go after strange gods, whom you know not: *(Verses nine and ten are a question: הֲגָנֹב רָצֹחַ וְנָאֹף: *will you steal, murder, and commit adultery?*)*
 
-> ^7:10^ Yet you have come, and stood before me in this house, which is called by my name, and have said, ‘We are delivered, because we have done all these abominations.’Heb. לְמַ֣עַן עֲשֹׂ֔ות אֵ֥ת כָּל־הַתֹּועֵבֹ֖ות הָאֵֽלֶּה: *in order to do all these abominations?*
+> ^7:10^ Yet you have come, and stood before me in this house, which is called by my name, and have said, ‘We are delivered, because we have done all these abominations.’ *(Heb. לְמַ֣עַן עֲשֹׂ֔ות אֵ֥ת כָּל־הַתֹּועֵבֹ֖ות הָאֵֽלֶּה: *in order to do all these abominations?*)*
 
 > ^7:11^ Has not, then, this house become a den of thieves in your eyes, this house, which is called by my name? I, even I am; I have seen it, says the Lord.
 
@@ -98,11 +98,11 @@ Lecture 2
 
 ***Prayer forbidden***
 
-^7:16^ Therefore, you shall not pray for this people, neither take up praiseHeb. רִנָּ֥ה: *a cry*. or prayer for them and do not stand against me,Heb. וְאַל־תִּפְגַּע־בִּ֑י: *neither make intercession to me*. because I will not hear you.  
+^7:16^ Therefore, you shall not pray for this people, neither take up praise *(Heb. רִנָּ֥ה: *a cry*.)* or prayer for them and do not stand against me, *(Heb. וְאַל־תִּפְגַּע־בִּ֑י: *neither make intercession to me*.)* because I will not hear you.  
 
 > ^7:17^ Do you not see what they do in the cities of Judah and in the streets of Jerusalem?
 
-> ^7:18^ The sons gather wood, the fathers kindle the fire, and the women sprinkle the fat,Heb. וְהַנָּשִׁ֖ים לָשֹׁ֣ות בָּצֵ֑ק: *knead the dough*. to make cakes to the queen of heaven and to pour out drink offerings to strange gods and provoke me to anger.
+> ^7:18^ The sons gather wood, the fathers kindle the fire, and the women sprinkle the fat, *(Heb. וְהַנָּשִׁ֖ים לָשֹׁ֣ות בָּצֵ֑ק: *knead the dough*.)* to make cakes to the queen of heaven and to pour out drink offerings to strange gods and provoke me to anger.
 
 > ^7:19^ Do they provoke me to anger? says the Lord; do they not provoke themselves to the shame of their own faces?
 
@@ -110,7 +110,7 @@ Lecture 2
 
 > **52**. Here, he excludes the remedy of prayer.
 
-First, he sets forth the decree: ***neither take up***, even when asked by them, ***and do not stand against***, because the prayer of the saints in a certain sense delays and hinders the decree of God. *For a man without blame made haste to pray for the people, bringing forth the shield of his service*, *prayer, and by incense making supplication, withstood the wrath and put an end to the calamity, showing that he was your servant* (Wis 18:21).A reference to Aaron in Numbers 16:46, who stopped a plague by offering incense. *There is none who invokes your name, who may arise and take hold of you* (Isa 64:7).  
+First, he sets forth the decree: ***neither take up***, even when asked by them, ***and do not stand against***, because the prayer of the saints in a certain sense delays and hinders the decree of God. *For a man without blame made haste to pray for the people, bringing forth the shield of his service*, *prayer, and by incense making supplication, withstood the wrath and put an end to the calamity, showing that he was your servant* (Wis 18:21). *(A reference to Aaron in Numbers 16:46, who stopped a plague by offering incense.)* *There is none who invokes your name, who may arise and take hold of you* (Isa 64:7).  
 
 But on the contrary: *God, whose wrath no one can oppose* (Job 9:13).  
 
@@ -122,7 +122,7 @@ Second, he speaks of the case from the perspective of their guilt:
 
 first, noting their guilt and showing that it is manifest, because it was done publicly: ***do you not see?*** *Son of man, make Jerusalem to know her abominations* (Ezek 16:2).  
 
-Further, it is common to both sexes and all ages: ***the sons gather wood, the fathers kindle the fire, and the women sprinkle the fat, to make cakes to the queen of heaven***, that is, to the moon;Astarte/Ashtoreth, a Canaanite deity venerated as the goddess of the moon. or to the host of heaven and all the stars. As it says below: ***what of it if we sacrifice to the queen of heaven, and pour out drink offerings to her; did we make cakes to worship her without our husbands?*** (Jer 44:19).  
+Further, it is common to both sexes and all ages: ***the sons gather wood, the fathers kindle the fire, and the women sprinkle the fat, to make cakes to the queen of heaven***, that is, to the moon; *(Astarte/Ashtoreth, a Canaanite deity venerated as the goddess of the moon.)* or to the host of heaven and all the stars. As it says below: ***what of it if we sacrifice to the queen of heaven, and pour out drink offerings to her; did we make cakes to worship her without our husbands?*** (Jer 44:19).  
 
 Second, he shows the folly of those who sin, because they injured not God, but themselves: ***do they provoke me to anger?*** *If you sin will you do him harm?* (Job 35:6). *His sorrow shall be turned on his own head, and his iniquity shall descend upon his own crown* (Ps 7:17).  
 
@@ -176,7 +176,7 @@ Lecture 4
 
 ***Devastation of idols’ altars***
 
-^7:29^ Cut off your hair, and cast it aside, and take up your lamentation against the high places,Heb. וּשְׂאִ֥י עַל־שְׁפָיִ֖ם קִינָ֑ה: *and take up a lamentation on the high places*. for the Lord has cast off and forsaken the generation of his fury.  
+^7:29^ Cut off your hair, and cast it aside, and take up your lamentation against the high places, *(Heb. וּשְׂאִ֥י עַל־שְׁפָיִ֖ם קִינָ֑ה: *and take up a lamentation on the high places*.)* for the Lord has cast off and forsaken the generation of his fury.  
 
 > ^7:30^ For the sons of Judah have done evil in my eyes, says the Lord. They have put their abominations in the house called by my name to pollute it.
 

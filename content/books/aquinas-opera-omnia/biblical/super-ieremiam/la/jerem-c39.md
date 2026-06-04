@@ -14,7 +14,7 @@
 
 et primo ponitur persecutio ipsius propter falsam suspicionem;  
 
-secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***.Here, the Parma edition reads *Mahan*, in place of *Mathan*.  
+secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***. *(Here, the Parma edition reads *Mahan*, in place of *Mathan*.)*  
 
 Circa primum tria.  
 

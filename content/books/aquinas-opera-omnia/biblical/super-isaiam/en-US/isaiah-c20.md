@@ -2,7 +2,7 @@
 
 ^18:1^ Woe to the land, the winged cymbal, which is beyond the rivers of Ethiopia,  
 
-> ^18:2^ That sends ambassadors in*In*. DR: “by.” the sea, and in vessels of papyrus*Papyri*. DR: “bulrushes.” upon the waters. Go, you swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled, to the mountain of the name of the Lord of hosts, mount Zion.Vg. omits “to the mountain of the name of the Lord of hosts, mount Zion.” Cf. v. 7.
+> ^18:2^ That sends ambassadors in *(*In*. DR: “by.”)* the sea, and in vessels of papyrus *(*Papyri*. DR: “bulrushes.”)* upon the waters. Go, you swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled, to the mountain of the name of the Lord of hosts, mount Zion. *(Vg. omits “to the mountain of the name of the Lord of hosts, mount Zion.” Cf. v. 7.)*
 
 > ^18:3^ All you inhabitants of the world, who dwell on the earth, when the sign shall be lifted up on the mountains, you shall see, and you shall hear the sound of the trumpet.
 
@@ -36,7 +36,7 @@ First, he describes the location of the land which they trusted in proudly, sayi
 
 **476**. Second, he describes the help which they promised to the two tribes.  
 
-And first, he describes the manner of announcing, saying: ***they*** ***that***, namely, the Egyptian people, ***sends ambassadors***, that is, messengers, to the two tribes, ***in the sea***, that is, through the sea, ***and upon the waters***, of the river or the sea, ***in vessels of papyrus***, a kind of rush, from which they made small boxes for carrying letters, or reeds so large that they made ships from them, as is written in the history of Alexander:Cf. Haymo (805D) according to Hugo here. the word comes from *pyr*, which means “fire.”  
+And first, he describes the manner of announcing, saying: ***they*** ***that***, namely, the Egyptian people, ***sends ambassadors***, that is, messengers, to the two tribes, ***in the sea***, that is, through the sea, ***and upon the waters***, of the river or the sea, ***in vessels of papyrus***, a kind of rush, from which they made small boxes for carrying letters, or reeds so large that they made ships from them, as is written in the history of Alexander: *(Cf. Haymo (805D) according to Hugo here.)* the word comes from *pyr*, which means “fire.”  
 
 **477**. Second, he sets out the command given to the ambassadors, in which he determines two things.  
 
@@ -74,7 +74,7 @@ Third, he places the abandonment of the field itself: ***and they shall be left*
 
 **482**. Note on the words, ***it shall bud without perfect ripeness*** (Isa 18:5), that perfection is manifold:  
 
-first, the perfection of nature: *so the heavens and the earth were finished**Perfecti*. (Gen 2:1);  
+first, the perfection of nature: *so the heavens and the earth were finished* *(*Perfecti*.)* (Gen 2:1);  
 
 second, of knowledge: *can man be compared with God, even though he were of perfect knowledge?* (Job 22:2);  
 
@@ -96,7 +96,7 @@ fourth, of present consolation: *remember that you didst receive good things in 
 
 first, that of fervent love: *a secret present quenches anger* (Prov 21:14);  
 
-second, of devout prayer: *let my prayer rise*Ascendat*. Vg.: *dirigatur*. DR: “be directed.” as incense in your sight* (Ps 140[141]:2);  
+second, of devout prayer: *let my prayer rise *(*Ascendat*. Vg.: *dirigatur*. DR: “be directed.”)* as incense in your sight* (Ps 140[141]:2);  
 
 third, of perfect action: *I will not receive a gift of your hand* (Mal 1:10);  
 

@@ -66,11 +66,11 @@ Lecture 2
 
 ***Israel’s contempt***
 
-^3:5b^ Behold you have spoken, and you have done wickedness, and you were able.Heb. וַתּוּכָל: *and you were able*. In the Masoretic text, this word is separated from the preceding word, הָרָע֖וֹת, by the disjunctive accent, *tipchah*, giving the reading: *you have done evil things, as you have been able*.  
+^3:5b^ Behold you have spoken, and you have done wickedness, and you were able. *(Heb. וַתּוּכָל: *and you were able*. In the Masoretic text, this word is separated from the preceding word, הָרָע֖וֹת, by the disjunctive accent, *tipchah*, giving the reading: *you have done evil things, as you have been able*.)*  
 
 > ^3:6a^ The Lord said to me in the days of Josiah the king: have you not seen what rebellious Israel has done?
 
-> **17**. Here, he shows their contempt with regard to the sins of the mouth: ***behold you have spoken***, which refers to prideful words, etc. With regard to sins of commission: ***and you have done***, which corresponds to the phrase, ***you have satisfied wickedness***, with regard to the sin of the heart; ***and you were able***—to which he adds, ***and you have displayed***, as though you reveled in your power to sin. Now the phrase, ***and for your words***, is not in the Hebrew, or in ancient books, but appears to be a clarification of Jerome.The text Thomas Aquinas is working with is clearly causing some confusion here between the text of Jeremiah and the text of Jerome’s commentary. After Jeremiah 3:5 above, Jerome’s commentary reads: *pro verbis paenitentiae verbis superbiae blasphemasti et inplesti malam cogitationem tuam et ostendisti contra virum fortitudinem tuam*, “Instead of words of penitence, you have blasphemed with words of pride, and you have satisfied your wicked thought, and you have displayed your strength against man” (Jerome, *In Hieremiam*, 1.41). *God gave him a space to repent, but he abused it in his pride* (Job 24:23). *Woe to you who are mighty to drink wine, and strong men to mix drunkenness* (Isa 5:22).
+> **17**. Here, he shows their contempt with regard to the sins of the mouth: ***behold you have spoken***, which refers to prideful words, etc. With regard to sins of commission: ***and you have done***, which corresponds to the phrase, ***you have satisfied wickedness***, with regard to the sin of the heart; ***and you were able***—to which he adds, ***and you have displayed***, as though you reveled in your power to sin. Now the phrase, ***and for your words***, is not in the Hebrew, or in ancient books, but appears to be a clarification of Jerome. *(The text Thomas Aquinas is working with is clearly causing some confusion here between the text of Jeremiah and the text of Jerome’s commentary. After Jeremiah 3:5 above, Jerome’s commentary reads: *pro verbis paenitentiae verbis superbiae blasphemasti et inplesti malam cogitationem tuam et ostendisti contra virum fortitudinem tuam*, “Instead of words of penitence, you have blasphemed with words of pride, and you have satisfied your wicked thought, and you have displayed your strength against man” (Jerome, *In Hieremiam*, 1.41).)* *God gave him a space to repent, but he abused it in his pride* (Job 24:23). *Woe to you who are mighty to drink wine, and strong men to mix drunkenness* (Isa 5:22).
 
 Lecture 3  
 
@@ -80,13 +80,13 @@ Lecture 3
 
 > ^3:7^ And I said when she had done all these things, ‘Return to me,’ but she did not return. And Judah her treacherous sister saw,
 
-> ^3:8^ that because rebellious Israel had committed adultery, I sent her away, and gave her a bill of divorce.Jerome misses the verb וָאֵרֶא, *and I saw*, at the beginning of verse eight and misconstrues what follows as the object of the verb, וַתֵּרֶא, at the end of verse seven. In the Hebrew, however, it is God who sees that Israel has committed adultery. Yet treacherous Judah her sister did not fear, but strayed and even fornicated herself.
+> ^3:8^ that because rebellious Israel had committed adultery, I sent her away, and gave her a bill of divorce. *(Jerome misses the verb וָאֵרֶא, *and I saw*, at the beginning of verse eight and misconstrues what follows as the object of the verb, וַתֵּרֶא, at the end of verse seven. In the Hebrew, however, it is God who sees that Israel has committed adultery.)* Yet treacherous Judah her sister did not fear, but strayed and even fornicated herself.
 
 > ^3:9^ With the heedlessness of her fornication she polluted the earth, and committed adultery with stone and wood:
 
 > ^3:10^ In all these things, her treacherous sister Judah did not return to me with her whole heart, but with a lie, says the Lord.
 
-> ^3:11^ And the Lord said to me, rebellious Israel has justified her soul, by comparing herself to treacherous Judah.Heb. וַיֹּאמֶר יְהוָה אֵלַי צִדְּקָה נַפְשָׁהּ מְשֻׁבָה יִשְׂרָאֵל מִבֹּגֵדָה יְהוּדָה: *and the Lord said to me, rebellious Israel has proved her soul more righteous than treacherous Judah*.
+> ^3:11^ And the Lord said to me, rebellious Israel has justified her soul, by comparing herself to treacherous Judah. *(Heb. וַיֹּאמֶר יְהוָה אֵלַי צִדְּקָה נַפְשָׁהּ מְשֻׁבָה יִשְׂרָאֵל מִבֹּגֵדָה יְהוּדָה: *and the Lord said to me, rebellious Israel has proved her soul more righteous than treacherous Judah*.)*
 
 > **18**. Here, he calls them back by the example of the ten tribes: and concerning this he makes three points.
 
@@ -110,11 +110,11 @@ Lecture 4
 
 ***Call to return***
 
-^3:12^ Go and shout these words against the north wind,Heb. צָפוֹנָה: *to the north*. and say: return rebellious Israel, says the Lord, and I will not turn my face away from you, because I am holy,Heb. חָסִיד: *merciful*. says the Lord, and I will not be angry forever.  
+^3:12^ Go and shout these words against the north wind, *(Heb. צָפוֹנָה: *to the north*.)* and say: return rebellious Israel, says the Lord, and I will not turn my face away from you, because I am holy, *(Heb. חָסִיד: *merciful*.)* says the Lord, and I will not be angry forever.  
 
 > ^3:13^ But recognize your iniquity, that you have rebelled against the Lord your God, and scattered your ways to strangers under every green tree, and have not listened to my voice, says the Lord.
 
-> ^3:14a^ Turn back, returning children, says the Lord, because I am your husband.Heb. כִּי אָנֹכִי בָּעַלְתִּי בָכֶם: *for I rule as a lord among you*.
+> ^3:14a^ Turn back, returning children, says the Lord, because I am your husband. *(Heb. כִּי אָנֹכִי בָּעַלְתִּי בָכֶם: *for I rule as a lord among you*.)*
 
 > **19**. Here, he calls them back from the punishment of captivity.
 
@@ -146,7 +146,7 @@ Lecture 5
 
 > ^3:16^ And when you have multiplied, and grown numerous in the land in those days, says the Lord, they shall not say anymore, the ark of the covenant of the Lord, neither shall it come into their heart, neither shall there be remembrance of it, neither shall it be visited, or be anymore.
 
-> ^3:17^ In that time they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem, and they will not walk after the depravityHeb. שְׁרִירוּת: *stubbornness*. of their own wicked hearts.
+> ^3:17^ In that time they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem, and they will not walk after the depravity *(Heb. שְׁרִירוּת: *stubbornness*.)* of their own wicked hearts.
 
 > ^3:18^ In those days the house of Judah shall go forth to the house of Israel, and together they shall come from the land of the north to the land which I gave to your fathers.
 
@@ -168,7 +168,7 @@ Lecture 6
 
 ***Reason for mercy***
 
-^3:19^ But I said: how shall I set you among the sons, and give you a desirable land, an excellent inheritance from among the hosts of the nations?Although Jerome translates this phrase as a question, it is more likely an exclamation: *how I would set you among the sons*, etc. And I said: you will call me ‘Father,’ and you will not cease to walk after me.  
+^3:19^ But I said: how shall I set you among the sons, and give you a desirable land, an excellent inheritance from among the hosts of the nations? *(Although Jerome translates this phrase as a question, it is more likely an exclamation: *how I would set you among the sons*, etc.)* And I said: you will call me ‘Father,’ and you will not cease to walk after me.  
 
 > **21**. Here, he gives the reason for their being called back.
 
@@ -188,7 +188,7 @@ Lecture 7
 
 > ^3:23^ Surely the hills were deceitful, the multitude of the mountains; truly in the Lord our God is the salvation of Israel.
 
-> ^3:24^ ShameHeb. הַבֹּשֶׁת: *the shameful thing*; an idol. has devoured the labor of our fathers from our youth, their flocks and their herds, their sons and their daughters.
+> ^3:24^ Shame *(Heb. הַבֹּשֶׁת: *the shameful thing*; an idol.)* has devoured the labor of our fathers from our youth, their flocks and their herds, their sons and their daughters.
 
 > ^3:25^ We will sleep in our shame, and our disgrace shall cover us, for we have sinned against the Lord our God, we and our fathers, from our youth until this day, and we have not listened to the voice of the Lord our God.
 
@@ -214,4 +214,4 @@ Collations
 
 Note that God is called ***father*** (Jer 3:4) from his act of creating: *I confess to you Father, Lord of heaven and earth* (Matt 11:25). By adoption: *you have received the spirit of adoption of the sons of God, in whom we cry, Abba Father* (Rom 8:15). By instruction: *the father shall make known to his sons your truth* (Isa 38:19). By correction: *for whom the Lord loves, he chastens, and as a father a son in whom he delights* (Prov 3:12).  
 
-Note that the ***inheritance*** (Jer 3:19) of the heavenly homeland is in the bright splendor of the divine vision: *wisdom is bright and never fading, and easily seen by those who love her* (Wis 6:12). In the sweetness of divine love: *my intoxicating cup*—*how excellent it is* (Ps 23:5).Heb. כּוֹסִי רְוָיָה: *my cup overflows*. In familiarity with divine address: *renown in sharing her words* (Wis 8:18). In the magnificence of his work: *there are great and wondrous works* (Sir 43:27). In the greatness of exultation: *the house of Judah and the house of Israel will be for a blessing* (Zech 8:13). In the consolation of fellowship: *every tree of pleasure which was in the paradise of God* (Ezek 31:9).
+Note that the ***inheritance*** (Jer 3:19) of the heavenly homeland is in the bright splendor of the divine vision: *wisdom is bright and never fading, and easily seen by those who love her* (Wis 6:12). In the sweetness of divine love: *my intoxicating cup*—*how excellent it is* (Ps 23:5). *(Heb. כּוֹסִי רְוָיָה: *my cup overflows*.)* In familiarity with divine address: *renown in sharing her words* (Wis 8:18). In the magnificence of his work: *there are great and wondrous works* (Sir 43:27). In the greatness of exultation: *the house of Judah and the house of Israel will be for a blessing* (Zech 8:13). In the consolation of fellowship: *every tree of pleasure which was in the paradise of God* (Ezek 31:9).

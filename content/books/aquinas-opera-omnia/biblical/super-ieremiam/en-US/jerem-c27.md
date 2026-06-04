@@ -138,7 +138,7 @@ First, he gives the drink to the Jews: ***to Jerusalem***. *Begin from my sanctu
 
 Second, to friends coming from abroad, beginning with the Egyptians, in whom they had trusted: ***to pharaoh . . . of Ausitis*** (Jer 25:19–20), which by another name is called the land of Uz, in the boundaries of Edom and Arabia; ***and the remnant*** (Jer 25:20)—he says this regarding Gath, which is the fifth city of the Philistines; ***and to all the kingdoms*** (Jer 25:26). *This is the counsel which I have devised concerning the whole earth, and this is the hand stretched forth upon all nations* (Isa 14:26).  
 
-Third, to the Babylonians themselves: ***and king Sheshach***, that is, of Babylonia, which in Hebrew is called Babel. For this reason, in order to hide the name, he transposed the vowels, and changed the consonants joined to them, according to the custom of the Hebrews, who teach their children to say the first letter with the last, going backwards, and the second with the penultimate, and so on. For this reason, for a double *beth*, which is the second letter among the Hebrews, he put a *shin*, twice, which is the penultimate letter. And for the *lamed*, he put a *kaf*, which is joined to it according to the first reckoning. *The last enemy who will be destroyed is death* (1 Cor 15:26).The substitution procedure described here is called the Atbash cipher. Cf. Jeremiah 51:41, where Shishak and Babylon are equated. This cipher occurs here and in Jeremiah 51:4, where *leb kamai* is code for Chaldea.  
+Third, to the Babylonians themselves: ***and king Sheshach***, that is, of Babylonia, which in Hebrew is called Babel. For this reason, in order to hide the name, he transposed the vowels, and changed the consonants joined to them, according to the custom of the Hebrews, who teach their children to say the first letter with the last, going backwards, and the second with the penultimate, and so on. For this reason, for a double *beth*, which is the second letter among the Hebrews, he put a *shin*, twice, which is the penultimate letter. And for the *lamed*, he put a *kaf*, which is joined to it according to the first reckoning. *The last enemy who will be destroyed is death* (1 Cor 15:26). *(The substitution procedure described here is called the Atbash cipher. Cf. Jeremiah 51:41, where Shishak and Babylon are equated. This cipher occurs here and in Jeremiah 51:4, where *leb kamai* is code for Chaldea.)*  
 
 Lecture 4  
 
@@ -166,7 +166,7 @@ Lecture 5
 
 ***The roaring of the Lord***
 
-^25:30^ And you shall prophesy to them all these words, and you shall say to them: the Lord shall roar from on high, and from his holy habitation he shall give forth his voice; he shall surely roar upon the place of his beauty; and the shout*Celeuma* or *celeusma*: originally, a command or call given by the chief oarsman, which gave the time to the rowers. of those that tread grapes shall be given out against all the inhabitants of the earth.  
+^25:30^ And you shall prophesy to them all these words, and you shall say to them: the Lord shall roar from on high, and from his holy habitation he shall give forth his voice; he shall surely roar upon the place of his beauty; and the shout *(*Celeuma* or *celeusma*: originally, a command or call given by the chief oarsman, which gave the time to the rowers.)* of those that tread grapes shall be given out against all the inhabitants of the earth.  
 
 > ^25:31^ The sound shall reach to the ends of the earth, for the Lord enters into judgment with the nations; he enters into judgment with all flesh. The wicked I have given over to the sword, says the Lord.
 
@@ -204,7 +204,7 @@ Lecture 6
 
 > ^25:37^ And the pastures of peace were silent from before the wrath of the fury of the Lord.
 
-> ^25:38^ He has forsaken his covert as a lion, for their land has become a desolation from before the face of the wrath of the dove,The Latin, *columba*, is likely a mistranslation of הַיּוֺנָה, *oppressor*; there is a homonym that means “dove,” but such a reading seems improbable. and from before the face of the fury of the Lord.
+> ^25:38^ He has forsaken his covert as a lion, for their land has become a desolation from before the face of the wrath of the dove, *(The Latin, *columba*, is likely a mistranslation of הַיּוֺנָה, *oppressor*; there is a homonym that means “dove,” but such a reading seems improbable.)* and from before the face of the fury of the Lord.
 
 > **134**. Here, he threatens the princes and the nations.
 
@@ -220,4 +220,4 @@ First, by way of a metaphor, he speaks of the destruction of the cities: ***for 
 
 And with regard to the destruction of the temple: ***he has forsaken his covert***, that is, God has forsaken his temple, ***as a lion***, which no one hears approaching when he lies in wait. As it says above: ***I have left my house*** (Jer 12:7).  
 
-Second, he gives the exposition: ***for their land has become a desolation from before the face of the wrath of the dove***, namely, of God, who punishes without agitation; or of Jerusalem, which has grown angry because of the loss of God; or of Nebuchadnezzar, because of the folly of his pride: *Ephraim like a dove was led astray, having no heart* (Hos 7:11); or because there are doves in pastures; or because, like one grown gentle, he has fulfilled the command of the Lord. Or, by antiphrasis,Antiphrasis is the figure of speech whereby the word used is intended to signify the opposite of its usual meaning. because he was cruel.
+Second, he gives the exposition: ***for their land has become a desolation from before the face of the wrath of the dove***, namely, of God, who punishes without agitation; or of Jerusalem, which has grown angry because of the loss of God; or of Nebuchadnezzar, because of the folly of his pride: *Ephraim like a dove was led astray, having no heart* (Hos 7:11); or because there are doves in pastures; or because, like one grown gentle, he has fulfilled the command of the Lord. Or, by antiphrasis, *(Antiphrasis is the figure of speech whereby the word used is intended to signify the opposite of its usual meaning.)* because he was cruel.

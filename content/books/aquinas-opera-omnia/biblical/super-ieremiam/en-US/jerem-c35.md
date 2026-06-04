@@ -8,21 +8,21 @@
 
 ^33:1^ And the word of the Lord came to Jeremiah a second time, while he was still shut up in the court of the prison, saying:  
 
-> ^33:2^ thus says the Lord, who will do it, the Lord, and he will form it, and prepare it,Heb. כֹּֽה־אָמַ֥ר יְהוָ֖ה עֹשָׂ֑הּ יְהוָ֗ה יֹוצֵ֥ר אֹותָ֛הּ לַהֲכִינָ֖הּ יְהוָ֥ה שְׁמֹֽו: *thus says the Lord who makes, the Lord who forms her to establish her*. The direct object here is unclear: some translations supply *earth*; the Septuagint supplies *it*. the Lord is his name.
+> ^33:2^ thus says the Lord, who will do it, the Lord, and he will form it, and prepare it, *(Heb. כֹּֽה־אָמַ֥ר יְהוָ֖ה עֹשָׂ֑הּ יְהוָ֗ה יֹוצֵ֥ר אֹותָ֛הּ לַהֲכִינָ֖הּ יְהוָ֥ה שְׁמֹֽו: *thus says the Lord who makes, the Lord who forms her to establish her*. The direct object here is unclear: some translations supply *earth*; the Septuagint supplies *it*.)* the Lord is his name.
 
-> ^33:3^ Call to me and I shall hear you:Heb. וְאֶעֱנֶ֑ךָּ: *and I will answer you*. and I shall declare to you great and mighty thingsHeb. וּבְצֻר֖וֹת: *secrets, mysteries*. which you do not know.
+> ^33:3^ Call to me and I shall hear you: *(Heb. וְאֶעֱנֶ֑ךָּ: *and I will answer you*.)* and I shall declare to you great and mighty things *(Heb. וּבְצֻר֖וֹת: *secrets, mysteries*.)* which you do not know.
 
-> ^33:4^ For thus says the Lord, the God of Israel, to the houses of this city,Heb. עַל־בָּתֵּי֙ הָעִ֣יר הַזֹּ֔את: *concerning the houses of this city*. and to the houses of the king of Judah,Heb. מַלְכֵ֣י יְהוּדָ֑ה: *of the kings of Judah*. which have been destroyed, and to the bulwarks,Heb. הַסֹּלְל֖וֹת: *the siege mounds*. and to the sword.
+> ^33:4^ For thus says the Lord, the God of Israel, to the houses of this city, *(Heb. עַל־בָּתֵּי֙ הָעִ֣יר הַזֹּ֔את: *concerning the houses of this city*.)* and to the houses of the king of Judah, *(Heb. מַלְכֵ֣י יְהוּדָ֑ה: *of the kings of Judah*.)* which have been destroyed, and to the bulwarks, *(Heb. הַסֹּלְל֖וֹת: *the siege mounds*.)* and to the sword.
 
 > ^33:5^ Of those that come that they may fight with the Chaldeans, and to fill them with the bodies of the men whom I have struck in my fury and in my indignation when I hid my face from this city because of all their evil.
 
-> ^33:6^ Behold, I will close their wound and give them health, and I will heal them; and I shall reveal to them the prayer of peace and truth.Heb. הִנְנִ֧י מַעֲלֶה־לָּ֛הּ אֲרֻכָ֥ה וּמַרְפֵּ֖א וּרְפָאתִ֑ים וְגִלֵּיתִ֣י לָהֶ֔ם עֲתֶ֥רֶת שָׁלֹ֖ום וֶאֱמֶֽת: *behold, I shall bring upon her health and healing, and I shall heal them, and I shall reveal to them an abundance of peace and truth*.
+> ^33:6^ Behold, I will close their wound and give them health, and I will heal them; and I shall reveal to them the prayer of peace and truth. *(Heb. הִנְנִ֧י מַעֲלֶה־לָּ֛הּ אֲרֻכָ֥ה וּמַרְפֵּ֖א וּרְפָאתִ֑ים וְגִלֵּיתִ֣י לָהֶ֔ם עֲתֶ֥רֶת שָׁלֹ֖ום וֶאֱמֶֽת: *behold, I shall bring upon her health and healing, and I shall heal them, and I shall reveal to them an abundance of peace and truth*.)*
 
-> ^33:7^ And I will bring back the captivity of Judah and the captivity of Jerusalem:Heb. וְאֵ֖ת שְׁב֣וּת יִשְׂרָאֵ֑ל: *and the captivity of Israel*. and I will build them as in the beginning.
+> ^33:7^ And I will bring back the captivity of Judah and the captivity of Jerusalem: *(Heb. וְאֵ֖ת שְׁב֣וּת יִשְׂרָאֵ֑ל: *and the captivity of Israel*.)* and I will build them as in the beginning.
 
-> ^33:8^ And I will cleanse them from all their iniquity, by which they have sinned against me; and I will forgive all their iniquities, by which they have sinned against me and despised me.Heb. וַאֲשֶׁ֖ר פָּ֥שְׁעוּ בִֽי: *and by which they have rebelled against me*.
+> ^33:8^ And I will cleanse them from all their iniquity, by which they have sinned against me; and I will forgive all their iniquities, by which they have sinned against me and despised me. *(Heb. וַאֲשֶׁ֖ר פָּ֥שְׁעוּ בִֽי: *and by which they have rebelled against me*.)*
 
-> ^33:9^ And it shall be to me as a name, and a joy, and a praise, and a gladnessHeb. וּלְתִפְאֶ֔רֶת: *and for glory*. before all the nations of the earth, that shall hear of all the good things which I shall do to them; and they shall fear and be troubled for all the good things and for all the peace that I shall make for them.
+> ^33:9^ And it shall be to me as a name, and a joy, and a praise, and a gladness *(Heb. וּלְתִפְאֶ֔רֶת: *and for glory*.)* before all the nations of the earth, that shall hear of all the good things which I shall do to them; and they shall fear and be troubled for all the good things and for all the peace that I shall make for them.
 
 > **177**. Here, he offers consolation particularly to the two tribes, and especially with regard to Jerusalem, where the seat of the kingdom and of the priesthood was; concerning this, there are two points.
 
@@ -64,9 +64,9 @@ Lecture 2
 
 ***The voice of joy will return***
 
-^33:10^ Thus says the Lord: there shall yet be heard in this place, which you say is a ruin, because there is neither man nor beast in the cities of Judah and without Jerusalem,Heb. וּבְחֻצֹ֣ות יְרוּשָׁלִַ֔ם: *and in the streets of Jerusalem*. which are desolate without man, and without inhabitant, and without beast  
+^33:10^ Thus says the Lord: there shall yet be heard in this place, which you say is a ruin, because there is neither man nor beast in the cities of Judah and without Jerusalem, *(Heb. וּבְחֻצֹ֣ות יְרוּשָׁלִַ֔ם: *and in the streets of Jerusalem*.)* which are desolate without man, and without inhabitant, and without beast  
 
-> ^33:11^ the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those that say: give thanks to the Lord of hosts, for the Lord is good, for his mercy endures forever: and of those that bring their vowsHeb. תּוֹדָ֖ה: *thank offerings*. Cf. Leviticus 22:29. into the house of the Lord; for I will bring back the captivity of the land as in the beginning, says the Lord.
+> ^33:11^ the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride, the voice of those that say: give thanks to the Lord of hosts, for the Lord is good, for his mercy endures forever: and of those that bring their vows *(Heb. תּוֹדָ֖ה: *thank offerings*. Cf. Leviticus 22:29.)* into the house of the Lord; for I will bring back the captivity of the land as in the beginning, says the Lord.
 
 > **178**. Here, he promises their happiness:
 
@@ -82,7 +82,7 @@ Lecture 3
 
 ^33:12^ Thus says the Lord of hosts: there shall yet be in this place that is desolate without man, and without beast, and in all the cities thereof, a habitation of shepherds who make their flocks to lie down.  
 
-> ^33:13^ And in the cities of the mountain, and in the cities of the plains,Heb. הַשְּׁפֵלָה֙: *the Shephelah*, a narrow lowland region, west of the Judean mountains, near the coast, to the north of Carmel. and in the cities that are towards the south:Heb. וּבְעָרֵ֣י הַנֶּ֔גֶב: *and in the cities of the Negev*, the desert region in southern Judah. and in the land of Benjamin, and round about Jerusalem, and in the cities of Judah shall the flocks again pass under the hand of him that numbers them, says the Lord.
+> ^33:13^ And in the cities of the mountain, and in the cities of the plains, *(Heb. הַשְּׁפֵלָה֙: *the Shephelah*, a narrow lowland region, west of the Judean mountains, near the coast, to the north of Carmel.)* and in the cities that are towards the south: *(Heb. וּבְעָרֵ֣י הַנֶּ֔גֶב: *and in the cities of the Negev*, the desert region in southern Judah.)* and in the land of Benjamin, and round about Jerusalem, and in the cities of Judah shall the flocks again pass under the hand of him that numbers them, says the Lord.
 
 > **179**. Here, he promises them the tranquility of peace, which he signifies by their dwelling securely in their own land: ***the flocks pass under the hand of him that numbers them***; it is as though he were saying, “They shall have such great security that they will be able to freely number their sheep.” *In the most fertile meadows I shall feed them, and their pastures shall be on the highest mountains of Israel* (Ezek 34:14).
 
@@ -90,7 +90,7 @@ Lecture 4
 
 ***The shoot of justice***
 
-^33:14^ Behold, the days are coming, says the Lord, that I shall stir upHeb. וַהֲקִֽמֹתִי֙: *raise up, establish*. the good word that I spoke to the house of Israel, and to the house of Judah.The text omitted by the *Septuagint* here (Jer 33:14–16) is similar to Jeremiah 23:4–6.  
+^33:14^ Behold, the days are coming, says the Lord, that I shall stir up *(Heb. וַהֲקִֽמֹתִי֙: *raise up, establish*.)* the good word that I spoke to the house of Israel, and to the house of Judah. *(The text omitted by the *Septuagint* here (Jer 33:14–16) is similar to Jeremiah 23:4–6.)*  
 
 > ^33:15^ In those days, and at that time, I will make to spring forth for David the shoot of justice, and he shall execute judgment and justice in the earth.
 
@@ -124,7 +124,7 @@ Lecture 5
 
 ***Restoration of the priesthood***
 
-^33:18^ And of the priest and Levites there shall not perish a man from before my face, to offer holocausts, and to burn sacrifices,Heb. וּמַקְטִ֥יר מִנְחָ֛ה: *to make grain offerings to smoke*. and to slay offerings every day:  
+^33:18^ And of the priest and Levites there shall not perish a man from before my face, to offer holocausts, and to burn sacrifices, *(Heb. וּמַקְטִ֥יר מִנְחָ֛ה: *to make grain offerings to smoke*.)* and to slay offerings every day:  
 
 > **181**. Here, he speaks of the restoration of the priesthood. And as the kingdom is restored in Christ himself and in his members, so also the priesthood. For inasmuch as he is a king, he is also a priest. *You are priest forever according to the order of Melchizedek* (Ps 109:4). And he made his members kings and priests. *You have made us a kingdom and priests for our God* (Rev 5:10). *He offered himself as an offering to God, as a pleasing fragrance* (Eph 5:2). And he makes his members offer spiritual victims to God. *The priests and the Levites, the sons of Zadok, who kept the ceremonies of my sanctuary when the children of Israel wandered from me, they shall draw near to me to minister unto me, and they shall stand in my sight to offer me fat and blood, says the Lord God* (Ezek 44:15).
 
@@ -134,11 +134,11 @@ Lecture 6
 
 ***^33:19^ And the word of the Lord came to Jeremiah, saying:***
 
-> ^33:20^ thus says the Lord: if my covenant with the day can be broken,Heb. אִם־תָּפֵ֙רוּ֙ אֶת־בְּרִיתִ֣י: *if you can break my covenant*. and my covenant with the night, that there should not be day and night in their time,
+> ^33:20^ thus says the Lord: if my covenant with the day can be broken, *(Heb. אִם־תָּפֵ֙רוּ֙ אֶת־בְּרִיתִ֣י: *if you can break my covenant*.)* and my covenant with the night, that there should not be day and night in their time,
 
 > ^33:21^ so may my covenant with David my servant also be broken, that he should not have a son to rule upon his throne, and with the Levites and priests my ministers.
 
-> ^33:22^ As the starsHeb. צְבָ֣א הַשָּׁמַ֔יִם: *the host of heaven*. of heaven cannot be numbered, nor the sand of the sea be measured, so will I multiply the seed of David my servant, and the Levites my ministers.
+> ^33:22^ As the stars *(Heb. צְבָ֣א הַשָּׁמַ֔יִם: *the host of heaven*.)* of heaven cannot be numbered, nor the sand of the sea be measured, so will I multiply the seed of David my servant, and the Levites my ministers.
 
 > **182**. Here is given the confirmation of the promise:
 
@@ -154,7 +154,7 @@ Lecture 7
 
 > ^33:24^ have you not seen what this people has spoken, saying: the two families which the Lord had chosen are cast off; and they have despised my people, such that it is no longer a nation before them?
 
-> ^33:25^ Thus says the Lord: if I have not established my covenant between day and night, and given my laws to heaven and earth;The text omitted by the *Septuagint* here (Jer 33:25–26) is similar to Jeremiah 31:35–36.
+> ^33:25^ Thus says the Lord: if I have not established my covenant between day and night, and given my laws to heaven and earth; *(The text omitted by the *Septuagint* here (Jer 33:25–26) is similar to Jeremiah 31:35–36.)*
 
 > ^33:26^ surely I will also cast off the seed of Jacob, and of David my servant to take any of his seed to be rulers of the seed of Abraham, Isaac, and Jacob; for I will bring back their captivity, and shall have mercy on them.
 

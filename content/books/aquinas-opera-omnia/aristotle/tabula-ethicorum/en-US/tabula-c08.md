@@ -28,7 +28,7 @@ Homer called Jove, who was the king of Crete, 'father' because fatherly rule is 
 
 Homer called Agamemnon the shepherd of the people.  
 
-Homer called the girdle of the Cyrprian woman many-coloured, and this is a symbol of the bond of concupiscence with which the spirit of man is pulled this way and that. And that she craftily steals the wits of even the wise man. *Iliad* 14.214–17.  
+Homer called the girdle of the Cyrprian woman many-coloured, and this is a symbol of the bond of concupiscence with which the spirit of man is pulled this way and that. And that she craftily steals the wits of even the wise man.  *(*Iliad* 14.214–17.)*  
 
 Term 3  
 

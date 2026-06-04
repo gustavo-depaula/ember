@@ -1,8 +1,8 @@
 # Chapter 39
 
-^39:1^ At that time Merodach Baladan, the son of Baladan king of Babylon, sent books*Libros*. DR: “letters.” and presents to Ezechias: for he had heard that he had been sick and was recovered.  
+^39:1^ At that time Merodach Baladan, the son of Baladan king of Babylon, sent books *(*Libros*. DR: “letters.”)* and presents to Ezechias: for he had heard that he had been sick and was recovered.  
 
-> ^39:2^ And Ezechias rejoiced at their coming, and he showed them the storehouses of his aromatical spices, and of the silver, and of the gold, and of the sweet odors, and of the precious ointment, and all the storehouses of his furniture, and all things that were found in his treasures. There was no word*Non fuit verbum*. DR: “there was nothing.” in his house, nor in all his dominion that Ezechias showed them not.
+> ^39:2^ And Ezechias rejoiced at their coming, and he showed them the storehouses of his aromatical spices, and of the silver, and of the gold, and of the sweet odors, and of the precious ointment, and all the storehouses of his furniture, and all things that were found in his treasures. There was no word *(*Non fuit verbum*. DR: “there was nothing.”)* in his house, nor in all his dominion that Ezechias showed them not.
 
 > ^39:3^ Then Isaiah the prophet came to king Ezechias, and said to him: what said these men, and from whence came they to you? And Ezechias said: from a far country they came to me, from Babylon.
 
@@ -28,4 +28,4 @@ And first, he sets out the inquiry and the manifestation of his fault: ***there 
 
 Second, he threatens punishment: ***and Isaiah said***; as to the loss of his goods: ***all that is in your house***: *thus says the Lord to you: I have given all these lands into the hand of Nabuchodonosor king of Babylon* (Jer 27:6). As to the servitude of his children: ***and of your children***, which they say was fulfilled in Daniel and his companions, not because they were such in body, but in mind and office: *your sons and your daughters will be given to another people* (Deut 28:32).  
 
-Third, he sets out his acceptance of the punishment: ***and Ezechias said***; ***good***, just; ***peace***, from the Assyrians; ***truth***, of religion, above: ***Lord, you will give us peace*** (Isa 26:12).Cf. 26:3.
+Third, he sets out his acceptance of the punishment: ***and Ezechias said***; ***good***, just; ***peace***, from the Assyrians; ***truth***, of religion, above: ***Lord, you will give us peace*** (Isa 26:12). *(Cf. 26:3.)*

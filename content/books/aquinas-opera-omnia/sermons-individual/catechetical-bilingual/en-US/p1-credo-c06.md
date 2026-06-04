@@ -2,7 +2,7 @@
 
 ***He Descended into Hell; on the Third Day He Arose Again from the Dead***
 
-The death of Christ was the separation of his soul from his body as it is with other men.Parallel texts: *ST* III.52.1, 5, 6, 7; *In III Sent*. 22.2.1, qa. 1, 2; 22.2.2, qa. 1, 3; *Compendium theologiae*, ch. 235; *Commentary on Ephesians*, ch. 4, lect. 3. But the divinity was so indissolubly conjoined to Christ the man that although his soul and body were disunited, his divinity was always most perfectly united to both the soul and body. Therefore, in the sepulcher his body was together with the Son of God, and he descended with his soul to the underworld.  
+The death of Christ was the separation of his soul from his body as it is with other men. *(Parallel texts: *ST* III.52.1, 5, 6, 7; *In III Sent*. 22.2.1, qa. 1, 2; 22.2.2, qa. 1, 3; *Compendium theologiae*, ch. 235; *Commentary on Ephesians*, ch. 4, lect. 3.)* But the divinity was so indissolubly conjoined to Christ the man that although his soul and body were disunited, his divinity was always most perfectly united to both the soul and body. Therefore, in the sepulcher his body was together with the Son of God, and he descended with his soul to the underworld.  
 
 There are four reasons why Christ together with his soul descended to the underworld.  
 
@@ -34,7 +34,7 @@ Accordingly, God descended from heaven and became incarnate to teach us heavenly
 
 It is, therefore, necessary that we believe not only that Christ was made man, and died, but also that he arose again from the dead. Therefore, it is said in the Creed: ***the third day he arose again from the dead***.  
 
-We find that many arose from the dead, such as Lazarus, the son of the widow, and the daughter of the ruler of the synagogue. But the Resurrection of Christ differed from the resurrection of these and of all others in four points.Parallel texts: *ST* III.53.2, 4; *In III Sent*. 21.2.2; *In IV Sent*. 43.3, qa. 1, ad 1; *Compendium theologiae*, ch. 236; *Commentary on Psalms*, at Psalms 15, 40; *Commentary on John*, ch. 2, lect. 3; *Commentary on Romans*, ch. 4, lect. 3; *Commentary on 1 Corinthians*, ch. 15, lect. 2.  
+We find that many arose from the dead, such as Lazarus, the son of the widow, and the daughter of the ruler of the synagogue. But the Resurrection of Christ differed from the resurrection of these and of all others in four points. *(Parallel texts: *ST* III.53.2, 4; *In III Sent*. 21.2.2; *In IV Sent*. 43.3, qa. 1, ad 1; *Compendium theologiae*, ch. 236; *Commentary on Psalms*, at Psalms 15, 40; *Commentary on John*, ch. 2, lect. 3; *Commentary on Romans*, ch. 4, lect. 3; *Commentary on 1 Corinthians*, ch. 15, lect. 2.)*  
 
 First, Christ’s Resurrection differed from that of all others in its cause. Those others who arose did so not of their own power, but either by the power of Christ or through the prayers of some saint.  
 

@@ -22,7 +22,7 @@
 
 > ^32:8^ And Hananel, the son of my uncle, came to me, according to the word of the Lord, to the vestibule of the prison, and he said to me, take possession of my field which is in Anathoth, in the land of Benjamin, because the right of inheritance is yours, and you are next of kin that you should possess it. And I understood that this was the word of the Lord.
 
-> ^32:9^ And I bought the field from Hananel, the son of my uncle, which is in Anathoth, and I weighed out silver for it: seven staters and ten silver shekels.The Latin translation confuses the Hebrew somewhat by introducing two units of currency, while the Hebrew speaks of only one: שִׁבְעָה שְׁקָלִים וַעֲשָׂרָה הַכָּסֶף, *seven shekels and ten pieces of silver*.
+> ^32:9^ And I bought the field from Hananel, the son of my uncle, which is in Anathoth, and I weighed out silver for it: seven staters and ten silver shekels. *(The Latin translation confuses the Hebrew somewhat by introducing two units of currency, while the Hebrew speaks of only one: שִׁבְעָה שְׁקָלִים וַעֲשָׂרָה הַכָּסֶף, *seven shekels and ten pieces of silver*.)*
 
 > ^32:10^ And I wrote it in a book, and sealed it, and called witnesses, and weighed the silver in the scale.
 
@@ -56,7 +56,7 @@ He also speaks of the arrival of the one who invites him to buy: ***and Hananel,
 
 Second, the purchase is described: ***I understood***, by the prophetic spirit—otherwise it would have seemed foolish to buy a field at such a time, by which one may also note the prophet’s obedience. Above: ***and I am not troubled following you, my shepherd; and I have not desired the day of man, you know*** (Jer 17:16).  
 
-And the payment of the price is given: ***and I weighed out***, on the scales, ***seven staters***, that is, shekels, each one of which consisted of twenty obolsThe shekel consisted of twenty smaller coins, but they were not called *obols*, an Athenian unit currency, but *gerahs* (cf. Ex. 30:13; Ezek. 45:12). *of silver* (Ezek 45:12), these are the same as shekels.  
+And the payment of the price is given: ***and I weighed out***, on the scales, ***seven staters***, that is, shekels, each one of which consisted of twenty obols *(The shekel consisted of twenty smaller coins, but they were not called *obols*, an Athenian unit currency, but *gerahs* (cf. Ex. 30:13; Ezek. 45:12).)* *of silver* (Ezek 45:12), these are the same as shekels.  
 
 Third, the confirmation of the purchase is given: ***and I wrote it in a book, and sealed it***, with the seal of the seller and of the witnesses; ***stipulations***—when there is one who asks and another who responds, the contract is strengthened; ***the ratification***, the approval of the sale. *I have called to myself faithful witnesses* (Isa 8:2).  
 

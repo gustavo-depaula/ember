@@ -6,7 +6,7 @@
 
 > ^26:3^ The old error is passed away: you will keep peace: peace, because we have hoped in you.
 
-> ^26:4^ You have hoped in the Lord for eternal ages,*In saeculis aeternis*. DR: “for evermore.” in the Lord God mighty for ever.
+> ^26:4^ You have hoped in the Lord for eternal ages, *(*In saeculis aeternis*. DR: “for evermore.”)* in the Lord God mighty for ever.
 
 > ^26:5^ For he shall bring down them that dwell on high, the high city he shall lay low. He shall bring it down even to the ground, he shall pull it down even to the dust.
 
@@ -28,13 +28,13 @@
 
 > ^26:14^ Let not the dead live, let not the giants rise again: therefore have you visited and destroyed them, and have destroyed all their memory.
 
-> ^26:15^ You have indulged*Indulsisti*. DR: “been favourable to.” the nation, O Lord, you have indulged*Indulsisti*. DR: “been favourable to.” the nation: are you glorified? You have removed all the ends of the land*Terrae*. DR: “earth.” far off.
+> ^26:15^ You have indulged *(*Indulsisti*. DR: “been favourable to.”)* the nation, O Lord, you have indulged *(*Indulsisti*. DR: “been favourable to.”)* the nation: are you glorified? You have removed all the ends of the land *(*Terrae*. DR: “earth.”)* far off.
 
 > ^26:16^ Lord, they have sought after you in distress, in the tribulation of murmuring your instruction was with them.
 
 > ^26:17^ As a woman with child, when she draws near the time of her delivery, is in pain, and cries out in her pangs: so are we become in your presence, O Lord.
 
-> ^26:18^ We have conceived, and been as it were in labor, and have brought forth wind: we have not wrought justice*Iustitiam*. Vg.: *salutes*. DR: “salvation.” on the earth, therefore the inhabitants of the earth have not fallen.
+> ^26:18^ We have conceived, and been as it were in labor, and have brought forth wind: we have not wrought justice *(*Iustitiam*. Vg.: *salutes*. DR: “salvation.”)* on the earth, therefore the inhabitants of the earth have not fallen.
 
 > ^26:19^ Your dead men shall live, my slain shall rise again: awake, and give praise, you that dwell in the dust: for your dew is the dew of the light: and the land of the giants you shall pull down into ruin.
 
@@ -56,7 +56,7 @@ For first, he foretells the confidence of the just: ***in that day***, after the
 
 **599**. ***The old error***. Here he sets out the fruit of justice, namely, peace; for which is first set out the petition of the people, which contains three things.  
 
-For the suitableness of the petitioners is set out: ***the old error***, namely, of idolatry: *the old things are passed away* (2 Cor 5:17); the benefit of peace is asked for: ***you will keep peace***, of body and soul, below: ***my people shall sit in the beauty of peace*** (Isa 32:18); their meriting of peace is alleged: ***because we have hoped in you***: *who*Quis*. Vg.: *nullus*. DR: “no one.” has hoped in the Lord, and has been confounded?* (Sir 2:11).  
+For the suitableness of the petitioners is set out: ***the old error***, namely, of idolatry: *the old things are passed away* (2 Cor 5:17); the benefit of peace is asked for: ***you will keep peace***, of body and soul, below: ***my people shall sit in the beauty of peace*** (Isa 32:18); their meriting of peace is alleged: ***because we have hoped in you***: *who *(*Quis*. Vg.: *nullus*. DR: “no one.”)* has hoped in the Lord, and has been confounded?* (Sir 2:11).  
 
 **600**. Second, the response of the prophet is set out, who is the mediator between the people and God: ***you have hoped***. And this is divided into three parts:  
 
@@ -96,7 +96,7 @@ third, he determines the punishment: ***and he shall not see the glory of the Lo
 
 **603**. Now he provokes him to justice by setting out three things.  
 
-First, the rightness of justice: ***the way of the just***, that is, of justice: *the Lord*Dominus*. Vg.: *haec*. DR: “she” (i.e., Wisdom). conducted the just through the right ways* (Wis 10:10).  
+First, the rightness of justice: ***the way of the just***, that is, of justice: *the Lord *(*Dominus*. Vg.: *haec*. DR: “she” (i.e., Wisdom).)* conducted the just through the right ways* (Wis 10:10).  
 
 Second, the expectation of the afflicted, setting out three things:  
 
@@ -178,7 +178,7 @@ third, immobility: *in peace in the self same I will sleep, and I will rest* (Ps
 
 And first, he sets out the petition: ***let not the dead***, sinners, ***live***, in the life of glory, unless they repent; ***let not the giants***, glorying in their own power, ***rise again***, to glory: *the wicked shall not rise again in judgment* (Ps 1:5); *the ancient giants did not obtain pardon for their sins* (Sir 16:8[7]); or he asks that their fallen enemies not rise again further to power.  
 
-Second, he places the answer to the petition: ***therefore have you visited and destroyed them, and have destroyed all their memory***: *let their memory perish*Pereat*. Vg.: *periit*. DR: “their memory hath perished.” with a noise* (Ps 9:7[6]); *in the time of their visitation they shall fall* (Jer 8:12).  
+Second, he places the answer to the petition: ***therefore have you visited and destroyed them, and have destroyed all their memory***: *let their memory perish *(*Pereat*. Vg.: *periit*. DR: “their memory hath perished.”)* with a noise* (Ps 9:7[6]); *in the time of their visitation they shall fall* (Jer 8:12).  
 
 **615**. ***You have indulged***. Here he urges God to the work of justice from experience;  
 
@@ -206,6 +206,6 @@ First, the reason for the delay is shown: ***we have not wrought justice***, so 
 
 **619**. Third, the destruction of their enemies is shown, and first, he sets out the destruction itself: ***the land of the giants***, that is, of the proud and powerful, above: ***it shall be as a ruinous heap of stones*** (Isa 17:1).  
 
-Second, the immunity of the people of God: ***go, my people***; ***enter into your chambers***, tombs, or literally, the fortifications in which they sometimes carefully kept themselves, below: ***in a moment of indignation have I hid my face a little while from you, but with everlasting kindness have I had mercy on you*** (Isa 54:8); *and it was said to them that they should rest for a little time till the number of their brethren*Fratrum eorum*. Vg.: *conservi eorum, et fratres eorum*. DR: “their fellow servants and their brethren.” should be filled up* (Rev 6:11).  
+Second, the immunity of the people of God: ***go, my people***; ***enter into your chambers***, tombs, or literally, the fortifications in which they sometimes carefully kept themselves, below: ***in a moment of indignation have I hid my face a little while from you, but with everlasting kindness have I had mercy on you*** (Isa 54:8); *and it was said to them that they should rest for a little time till the number of their brethren *(*Fratrum eorum*. Vg.: *conservi eorum, et fratres eorum*. DR: “their fellow servants and their brethren.”)* should be filled up* (Rev 6:11).  
 
 Third, he sets out the order of destruction, for it comes through judgment; hence he sets out the coming of the judge: ***for behold the Lord will come***: *behold the Lord will come forth* (Mic 1:3), and all the angels with him; and the revealing of their crimes: ***and the earth shall disclose her blood***: *O earth, cover not you my blood, neither let my cry find a hiding place in you* (Job 16:19).

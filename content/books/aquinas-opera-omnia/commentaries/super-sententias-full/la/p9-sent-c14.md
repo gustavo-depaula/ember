@@ -6,7 +6,7 @@ Prima in duas: in prima determinat de matrimonio quod est in disparitate cultus 
 
 Prima in partes duas: in prima ostendit quod disparitas cultus praecedens matrimonium impedit contrahendum, et dirimit contractum; in secunda objicit in contrarium, ibi: *huic autem videtur obviare quod apostolus ait de imparibus conjugiis*. Et dividitur in duas: in prima ponit objectionem ex verbis apostoli; in secunda solvit, ibi: *sed aliud hoc esse, aliud illud, evidenter ostendit*.  
 
-Et circa hoc tria facit: primo ostendit quod verbum apostoli, scilicet quod fidelis habet potestatem commanendi vel non commanendi cum infideli, intelligitur de disparitate cultus qui*qui.—quae* PLE. sequitur matrimonium; in secunda inquirit, utrum propter alia peccata uxor possit dimitti, sicut propter infidelitatem, ibi: *si autem quaeris, an propter aliud vitium, nisi propter infidelitatem vel idolatriam possit dimitti; attende quid Augustinus ait*, tertio inquirit, utrum fidelis dimittens uxorem infidelem, possit alteram ducere, ibi: *hic quaeritur, si fidelis dimittat infidelem, vel infidelis a fideli discedat; an liceat fideli aliam ducere*.  
+Et circa hoc tria facit: primo ostendit quod verbum apostoli, scilicet quod fidelis habet potestatem commanendi vel non commanendi cum infideli, intelligitur de disparitate cultus qui *(*qui.—quae* PLE.)* sequitur matrimonium; in secunda inquirit, utrum propter alia peccata uxor possit dimitti, sicut propter infidelitatem, ibi: *si autem quaeris, an propter aliud vitium, nisi propter infidelitatem vel idolatriam possit dimitti; attende quid Augustinus ait*, tertio inquirit, utrum fidelis dimittens uxorem infidelem, possit alteram ducere, ibi: *hic quaeritur, si fidelis dimittat infidelem, vel infidelis a fideli discedat; an liceat fideli aliam ducere*.  
 
 Et circa hoc tria facit: primo ponit auctoritatem ad partem negativam; secundo ad affirmativam, ibi: *sed contra Ambrosius testatur*; tertio solvit ibi: *attende, haec praedictis contraria posse videri*.  
 
@@ -33,7 +33,7 @@ Praeterea, eadem est fides quam docet vetus lex et nova lex. Sed secundum vetere
 
 Praeterea, sponsalia ad matrimonium ordinantur. Sed inter fidelem et infidelem possunt in aliquo casu contrahi sponsalia cum conditione futurae conversionis. Ergo sub eadem conditione matrimonium potest contrahi inter eos.  
 
-Praeterea, omne impedimentum matrimonii est aliquo modo contra matrimonium. Sed infidelitas non est contraria matrimonio: quia matrimonium est in officium naturae, cujus dictamen fidem*fidem.—fides* PLE. excedit. Ergo disparitas fidei non impedit matrimonium.  
+Praeterea, omne impedimentum matrimonii est aliquo modo contra matrimonium. Sed infidelitas non est contraria matrimonio: quia matrimonium est in officium naturae, cujus dictamen fidem *(*fidem.—fides* PLE.)* excedit. Ergo disparitas fidei non impedit matrimonium.  
 
 Praeterea, disparitas fidei est etiam quandoque inter duos baptizatos, sicut quando aliquis post baptismum in haeresim labitur; et si talis cum aliqua fideli contrahat, nihilominus est verum matrimonium. Ergo disparitas cultus matrimonium non impedit.  
 
