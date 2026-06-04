@@ -1,303 +1,221 @@
-# C. 31 - The promise of salvation
+# C. 29 - The consolations of false prophets
 
 ***Lecture 1***
 
-***Everlasting love for Israel***
+***Liberation after seventy years***
 
-***^31:1^ At that time, says the Lord, I shall be God to all the families of Israel, and they shall be to me as a people.***
+***^29:1^ And these are the words of the book which Jeremiah the prophet sent from Jerusalem to the remnant of the elders of the exile, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had led from Jerusalem to Babylon,***
 
-> ^31:2^ Thus says the Lord: the people who remain from the sword have found favor in the wilderness. And shall Israel go to his rest?
+> ^29:2^ after Jekoniah the king had gone forth, and the queen, and the eunuchs, and the princes of Judah, and Jerusalem, and the workman and the engraver, from Jerusalem,
 
-> ^31:3^ From afar the Lord appeared to me. With an everlasting love have I loved you; therefore I have drawn you with mercy.
+> ^29:3^ By the hand of Elasah, the son of Shaphan, and Gemariah, the son of Hilkiah, whom Zedekiah, the king of Judah had sent to Nebuchadnezzar, king of Babylon, in Babylon, saying:
 
-> ^31:4^ I shall build you again, and you shall be built, O virgin of Israel; yet shall you be adorned with your timbrels, and yet shall you go forth in the dance of those who play.
+> ^29:4^ thus says the Lord of hosts, the God of Israel, to all the exiles whom I have taken from Jerusalem to Babylon:
 
-> ^31:5^ Yet shall you plant vineyards on the mountains of Samaria; yea, surely you shall plant them, and they shall not harvest until the time come.
+> ^29:5^ build houses and dwell in them, and plant gardens and eat the fruit thereof.
 
-> ^31:6^ For there shall be a day when the watchmen on mount Ephraim shall shout, ‘Arise, and let us go up to Zion, to the Lord our God.’
+> ^29:6^ Take wives and beget sons and daughters; and give wives to your sons, and give your daughters to husbands, and let them bear sons and daughters; and multiply there, and do not be few in number.
 
-> **158**. Here, he consoles them with the promise of prosperity. Concerning this, he makes two points.
+> ^29:7^ And seek the peace of the city to which I have caused you to remove, and pray for her to the Lord, because in her peace will be your peace.
 
-First, he promises the prosperity of the nation;  
+> ^29:8^ For thus says the Lord of hosts, the God of Israel: do not let your prophets and diviners who are in your midst deceive you, and do not attend to your dreams, which you dream.
 
-second, the enlargement of the city, at ***behold the days are coming*** (Jer 31:38).  
+> ^29:9^ For they prophesy falsely to you in my name, and I have not sent them, says the Lord.
 
-The former divides into three parts.  
+> ^29:10^ For thus says the Lord: when seventy years shall be fulfilled in Babylon, I shall visit you, and stir up my good word upon you, and lead you back to this place.
 
-In the first, he consoles the ten tribes;  
+> ^29:11^ For I know the thought which I think concerning you, says the Lord, thoughts of peace, and not of affliction, that I may give you an end and endurance.Heb. לָתֵת לָכֶם אַחֲרִית וְתִקְוָה: *to give you a future and a hope*.
 
-in the second, he consoles the two tribes, at ***thus says the Lord*** (Jer 31:23);  
+> ^29:12^ And you shall call upon me, and go; and you shall worship me, and I will hear you.
 
-in the third, both groups, at ***behold, the days are coming*** (Jer 31:27).  
+> ^29:13^ You shall seek me, and you shall find me. When you have sought me with your whole heart,
 
-The former divides into two points.  
+> ^29:14^ I shall be found by you, says the Lord. And I shall bring back your captivity, and I shall gather you from all the nations, and from all the places to which I drove you, says the Lord. And I shall cause you to return from the place to which I made you to remove.
 
-In the first, he speaks of the restoration of the destroyed people;  
+> ^29:15^ For you said, ‘The Lord has raised up prophets for us in Babylon.’
 
-in the second, the order of their restoration, at ***for thus says the Lord: exalt in joy, O Jacob*** (Jer 31:7).  
+> ^29:16^ For thus says the Lord to the king who sits upon the throne of David, and to all the people who inhabit this city, and to your brothers who have not gone forth with you into exile.
 
-Concerning the former, there are three points.  
+> **147**. Here, he excludes the false consolations of the prophets who were consoling the captives in Babylonia.
 
-First, he promises them a restoration to the practice of their religion: ***at that time***, or after the return from Babylon; ***to all***, with regard to those of the ten tribes who clung to the two tribes, or with regard to all, for all Israel shall be saved, after the fullness of the nations has entered (Rom 11:25–36). *They shall be his people, and God himself shall be with them as their God* (Rev 21:3).  
+First, he excludes their false consolations;  
 
-Second, he promises them restoration to the place of their birth, when he promises the kindness of calling them back: ***the people who remain from the sword***, of Babylon, ***in the wilderness***, in the land of their captivity, in which they will seem to have been deserted by God, through which they returned, having been cleansed, to their own land, as once through the desert they returned to the land of promise; ***have found favor***, that is, this mercy before God, because ***Israel shall go to his rest***, that is, to his own land, in which he shall rest peacefully; this may be interpreted mystically with regard to the peace which they had in the time of Simon Maccabeus (1 Macc 14:4–6). *My people shall dwell in the beauty of peace, and in the tents of confidence, and in abundant rest* (Isa 32:28).  
-
-He determines the time of their being called back: ***from afar***, before what is to come occurs; ***the Lord appeared***, revealing the future liberation. Above: ***I shall break the yoke of Nebuchadnezzar, king of Babylon, after two years of days from the neck of every nation*** (Jer 28:11). *For as yet the vision is far off, and it shall appear at the end, and shall not lie* (Hab 2:3). And he shows the disposition of the one who calls them back: ***with an everlasting love have I loved you***; it is as though he were saying, “He has granted you good things not for a time, but forever”; ***he has drawn***, to your place; ***with mercy***, filling them outwardly with mercy. *I shall draw them with the cords of a man, and with the bonds of love* (Hos 11:4). Above: ***I have remembered you, and taken mercy on your youth, and the love of your betrothal*** (Jer 2:2).  
-
-Third, he promises calling them back to their original state of prosperity.  
-
-First, he promises prosperity with regard to the renewal of the nation: ***I shall build again***, according to the metaphor by which Israel is called a house. Above: ***I shall build them up, and not pull them down; I shall plant them, and not root them up*** (Jer 24:6). With regard to cheerfulness of heart: ***O virgin of Israel, you shall be adorned with your timbrels***, that is, you shall go adorned to the pulse of the drum. *With gladness of heart, as one who plays upon the flute, when he enters the mountain of the Lord, the Mighty One of Israel* (Isa 30:29).  
-
-And with regard to the tranquility of peace: ***yet shall you plant vineyards on the mountains of Samaria***, near the three cities which were added to the Jews (1 Macc 10:72–89): ***they shall plant . . . until the time come***; it is as though he were saying, “They shall not anticipate the time of the grape harvest for fear of the enemy.” *And they shall plant vineyards, and eat the fruits thereof* (Isa 65:21).  
-
-Second, he gives the reason for their prosperity: ***for there shall be a day***, by which is signified a return to the worship of God, to which they exhort one another. ***To Zion***, and not to Bethel at the calves of Jeroboam: 1 Kings 12. And, *come, let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will teach us his ways, and we shall walk in his paths* (Isa 2:3).  
-
-Lecture 2  
-
-***Promise of reunion***
-
-***^31:7^ For thus says the Lord: exult in joy, O Jacob, and neigh against the head of the nations; make a sound, and sing, and say: O Lord, save your people, the remnant of Israel.***
-
-> ^31:8^ Behold, I shall lead them from the land of the north, and I shall gather them from the ends of the earth, among whom shall be the blind and the lame, the pregnant, and she that travails together, a great company of those who return to this place.
-
-> ^31:9^ They shall come with weeping, and I shall bring them back in mercy; and I shall bring them through the torrents of water on a straight path, and they shall not stumble upon it, for I have become a father to Israel, and Ephraim is my firstborn.
-
-> **159**. Here, he discusses the order of operation, and concerning this, there are two points.
-
-First, he incites them to exultation: ***exult in joy***. *Exult in God our help, sing to the God of Jacob* (Ps 80:2). For the sake of expressing this exultation, he intimates the insulting of the enemy: ***and neigh***, as an insult, ***against the head of the nations***, that is, against the king of Babylonia, or of the Assyrians, who held you captive. *Shall they not rise up suddenly that bite you, and those that tear you be stirred up, and you shall be prey for them?* (Hab 2:7). And also the divine praise: ***make a sound***, with psalteries, and instruments of this kind.  
-
-Second, he gives the order of the redemption: ***behold, I shall lead them***; describing the end from which the returning begins: ***from the land of the north***; and the company of those returning: ***among whom***; it is as though he were saying, “No one indeed shall be hindered by some bodily infirmity from returning.” *Then shall the lame man leap as a deer* (Isa 35:6).  
-
-And also the manner of return: ***with weeping***—some because of the joy of the return, and some when they saw the devastation of the land. *So that one could not distinguish the voice of the shout of joy, from the noise of the weeping of the people* (Ezra 3:13). ***And I shall bring them back in mercy***, from shame of mind. *I shall gather you with great mercies* (Isa 54:7). ***Through the torrents of water***—they travel easily sailing down them, and there are good roads next to them, by which is excluded the hardship of the journey and weariness. *You shall walk confidently in your way, and your foot shall not stumble* (Prov 3:23).  
-
-Third, he gives the reason from paternal affection, by which he is moved to them: ***for I have become a father***—for this reason, as a father I am not able to forgive except that I have mercy upon them. For among all the peoples, Israel was the firstborn (Exod 4:22). Now to the sons of Joseph were given the birthright, as it says in 1 Chronicles 5, in which Ephraim was set before Manasseh (Gen 48:13–19); for this reason, it is left to Ephraim to be the firstborn.  
-
-Lecture 3  
-
-***Praise on Mount Zion***
-
-***^31:10^ Hear the word of the Lord, O nations, and tell it in the islands which are afar off, and say: he who scattered Israel shall gather him, and he shall keep him as a shepherd his flock.***
-
-> ^31:11^ For the Lord has redeemed Jacob, and freed him from the hand of the more powerful.
-
-> ^31:12^ And they shall come, and they shall offer praise on Mount Zion, and they shall stream to the goodness of the Lord, for the grain and the wine and the oil and for the young of the cattle and the beasts of burden; and their soul shall be as a watered garden, and they shall thirst no more.
-
-> ^31:13^ Then the virgin shall rejoice in her dance, and the young man, and the old men together; and I shall turn their mourning into gladness, and I shall comfort them, and make them glad after their sorrow.
-
-> ^31:14^ And I shall make the soul of the priest drunk with fatness, and my people shall be filled with my goodness, says the Lord.
-
-> **160**. Here is given the publishing of the liberation.
-
-First, he rouses the nations to give heed. ***Hear***—that all would trust in him, who is able to free them in such a manner. *Hear O islands, and give heed, you people afar off* (Isa 49:1).  
-
-Second, he foretells the liberation of the people, provided it be not hindered by divine indignation, for ***he who scattered Israel shall gather him***. *He shall feed his flock as a shepherd; he shall gather the lambs in his arms, and in his bosom shall he carry those who are with young* (Isa 40:11).  
-
-Neither shall they be hindered by the power of their captors: ***the Lord has redeemed***, formerly from the Egyptians, and ***from the hand of the more powerful***, namely, the Chaldeans. *He freed the poor man from the powerful, and the poor man, who had no helper* (Ps 71:12).  
-
-Third, he promises the prosperity of liberty:  
-
-first, with regard to all, he promises the due observance of religion: ***on mount Zion***, not in Bethel to the calves. *Those who are redeemed by the Lord shall return, and they shall come to Zion with praise, and eternal gladness upon their heads* (Isa 51:11). And he promises the affluence of temporal goods, when he speaks of the abundance of good things, with regard to those things that grow from the earth, which are produced as our food and which are preserved, with regard to the animals. ***And they shall stream, and they shall praise***, God, ***for the grain and the wine***. *I have established him with grain, wine, and oil* (Gen 27:37). And the satiety of those who possess these things: ***their soul shall be as a watered garden***, which does not wait for the rain. This may be understood as regarding the spiritual goods gathered through Christ, which shall be fulfilled now in part, but in the future, entirely. *They shall not hunger or thirst anymore, neither shall the sun strike them, or any heat* (Rev 7:16).  
-
-And gladness of heart, with regard to the signs of gladness: ***the virgin shall rejoice***. Above: ***praise shall go forth from them, and the voice of those who play. And I shall multiply them*** (Jer 30:19). And with regard to the cessation of sorrow: ***I shall turn their mourning into gladness***. *After the storm you make a calm, and after crying and weeping, you pour in joyfulness* (Tob 3:22).  
-
-Second, with regard especially to the priests: ***I shall make them drunk***, that is, I shall abundantly satiate them, ***with fatness***, with an abundance of offerings, and sacrifices; ***and my people shall be filled***, so that they may be able to make offerings to God. Now, this is understood spiritually as referring to the fatness of devotion. *Let my soul be filled with marrow and fatness, and my mouth shall praise you with the lips of exultation* (Ps 62:6).  
-
-Lecture 4  
-
-***Return of Rachel’s children***
-
-***^31:15^ Thus says the Lord: a voice was heard on high:Heb. בְּרָמָה: *in Ramah*, a place on the border of Benjamin and Ephraim, some five miles north of Jerusalem. Rachel is here depicted as weeping because, as the mother of Benjamin, his descendants are her children. lamentation, grief, and wailing, Rachel weeping for her children, she refuses to be comforted for them, because they are not.***
-
-> ^31:16^ Thus says the Lord: let your voice be still from weeping, and your eyes from tears, for there is a reward for your work, says the Lord, and they shall come from the land of the enemy.
-
-> ^31:17^ And there is hope for your future, says the Lord, and your children shall come back to their borders.
-
-> **161**. Here is given the consolation of the nations.
-
-First, he introduces the weeping of a mother: ***Rachel***, who was the mother of Joseph, ***weeping***, for the destruction of her children. He is speaking figuratively—according to what is called hyperbole—of dead parents whose sadness overflows for the misfortune of their children. Or because in the Roman captivity, the Jewish captives were led by the tomb of Rachel and sold. Or because she is figuratively being said to mourn the children who were slain near her, since she was buried near Bethlehem (Gen 35:19); ***lamentation***, which is made with words expressing grief; ***wailing***, with regard to the shedding of tears; ***grief***, with regard to a certain observance in the expression of grief, as occurs in the changing of garments and things of this sort. Above: ***a voice was heard on the roads, the crying and the wailing of the children of Israel, for they have made their way wicked, and have forgotten the Lord their God*** (Jer 3:21). He excludes the remedy of consolation: ***and she refuses to be comforted for them, because they are not***, returned with the others, because they have been brought to nothing. *Consolation is hidden from my eyes, because he shall make a separation between brothers* (Hos 13:14–15).  
-
-Second, he applies the remedy of consolation: ***thus says the Lord: let your voice be still***, with regard to lamentation; ***eyes***, with regard to weeping. *God shall wipe every tear from the eyes of his saints; and death shall be no more, neither mourning, nor crying, nor grief anymore, for the former things have passed away* (Rev 21:4).  
-
-Third, he promises the benefit of liberation:  
-
-first, with regard to the end from which the liberation begins, for ***there is a reward***, by which is shown that they were freed by the merits of their holy fathers. ***The enemy***, the Chaldeans. *Behold, his reward is with him, and his work before him* (Isa 40:10).  
-
-Second, with regard to the end to which the liberation is directed: ***and there is hope for your future***, to signify that in the last times they shall be turned to the true faith and perhaps even to their own land, at the death of the antichrist. *The expectation of the just is gladness, but the hope of the wicked shall perish* (Prov 10:28).  
-
-Lecture 5  
-
-***Ephraim’s conversion***
-
-***^31:18^ For I have surely heard Ephraim going into exile: ‘You have chastised me, O Lord, and I was chastened, as an unbroken calf: turn me and I shall be turned, because you are the Lord my God.***
-
-> ^31:19^ After you turned me,Heb. שׁוּבִי: *I returned*. I repented; and after you showed me,Heb. הִוָּדְעִי: *I was instructed*. In this and the preceding verb, Jerome interprets the passage as having God as the subject, but in the Hebrew, Ephraim remains the subject. I struck my thigh. I was put to shame, and I blushed, for I have borne the reproach of my youth.’
-
-> **162**. Here is given the acceptance of those who repent, to whom is promised an acknowledgement of their confession: ***I have surely heard***, that is, I have heard them mercifully. *I have surely seen the suffering of my people, who are in Egypt, and I have heard their cry* (Exod 3:7). And the confession is given: ***you have chastised me, O Lord, and I was chastened, as a calf***, who is corrected with difficulty and with many blows. *Only vexation gives understanding to hearing* (Isa 28:19).
-
-Second, the petition is given: ***turn me and I shall be turned***. *Turn us, O Lord, to yourself, and we shall be turned; renew our days as from the beginning* (Lam 5:21).  
-
-Third, the reason for the petition is given as arising from the repentance which he has begun.As noted above, in the Hebrew, the subject of this passage is more clearly Ephraim, who, by synecdoche, stands for the nation of Israel, whom Jeremiah will also call, *virgin Israel* (Jer 31:21), below.  
-
-For this reason, he puts the punishment first: ***after you turned me***, by infusing grace, ***I struck my thigh***, signifying interior grief by an exterior blow, after the manner of a grieving person. Or, ***I struck my thigh***, by repressing carnal pleasures. *With the hearing of the ear I have heard you, but now my eye sees you* (Job 42:5).  
-
-Second, repentance, because from the punishment which he has endured, recognizing his sin, he has suffered shame, which was a sign of repentance: ***I was put to shame***, inwardly; ***I blushed***, outwardly, ***for I have borne the reproach***, that is, punishment and shame for the sins ***of my youth***. And he calls the time before his conversion “youth”; it is as though he is saying that he sinned out of ignorance. *You write bitter things against me, and wish to destroy me with the sins of my youth* (Job 13:26).  
-
-Lecture 6  
-
-***God promises mercy***
-
-***^31:20^ Is Ephraim a son who brings me honor, is he a delicate boy? For from the point when I spoke of him, I shall remember him still. Therefore, are my inward parts moved for him; I shall surely have mercy upon him, says the Lord.***
-
-> **163**. Here, he takes up the penitent.
-
-First is given the divine mercy;  
-
-second, the instruction of the penitent, at ***establish for yourself a watchtower*** (Jer 31:21);  
-
-third, his calling back, at ***turn, O virgin Israel*** (Jer 31:21).  
-
-Concerning the former, he makes two points.  
-
-First, he gives the reason for the mercy from the perspective of the people: ***is Ephraim a son who brings me honor***; it is as though he were saying, “Is he not an honorable son?” Because of the birthright: ***is he a delicate boy***, because of the tenderness of his age, because Joseph was, as it were, the youngest of the sons of Jacob,Only until the birth of Benjamin; cf. Genesis 35:24. and Ephraim was the younger of the sons of Joseph. And these two factors incite fathers more to have mercy. *Israel was a boy, and I loved him, and from Egypt have I called my son* (Hos 11:1). He also gives the reason from the perspective of God: ***for from the point when I spoke***; it is as though he were saying, “It is not fitting that the words of God should be made void”; ***I shall remember*** the words. *Has he said, and will not do it? Has he spoken and will he not fulfill it?* (Num 23:19).  
-
-Second, he shows his mercy: ***therefore, are my inward parts moved***—anthropopathism,A literary device whereby human affections are ascribed to a non-human being, in this case, God. in which there is an internal compassion; ***I shall surely have mercy***, in which there is an external bringing of aid. *My heart is turned within me; likewise my repentance is stirred up* (Hos 11:8).  
-
-Lecture 7  
-
-***Call to the straight way***
-
-***^31:21a^ Establish for yourself a watchtower; make bitternessHeb. תַּמְרוּרִים: *tamrurim*, a word of uncertain meaning, but probably meaning *signposts*. Jerome seems to have been confused by the word and to have arrived at his translation, *amaritudines*, by a spurious connection with a similar sounding word, *marar*, meaning “bitter.” for yourself; direct your heart to the straight way upon which you have walked.***
-
-> **164**. Here, the instruction of the penitent is given: ***establish for yourself a watchtower*** (*speculam*), so that you may consider the prosperity which has been announced, or so that you may consider the way by which you may return; ***bitterness***, concern for the return; ***direct***, consider the way by which you came, that by it you may return.
-
-Or a better interpretation: ***establish for yourself a mirror*** (*speculum*), of contemplation; ***bitterness***, for past sins; ***to the straight way***, that is, to the way of justice on which your fathers walked. *Remember from whence you are fallen, and repent, and do the first works* (Rev 2:5).  
-
-Lecture 8  
-
-***A woman shall encompass a man***
-
-***^31:21b^ Turn, O virgin of Israel; return to these your cities.***
-
-> ^31:22^ How long will you be dissolute in your delights, O errant daughter? For the Lord has created a new thing upon the earth: a woman shall encompass a man.
-
-> **165**. Here is put forth their calling back to their own land.
-
-First, the calling back is given: ***return . . . how long will you be dissolute in your delights, O errant daughter?*** This is said with regard to those who, absorbed with the delights of the Chaldeans, did not wish to return to the land of promise. These are rightly called women because of their effeminacy. Above: ***though you have fornicated with your many lovers, still, return to me, says the Lord, and I will take you*** (Jer 3:1).  
-
-Second, the reason for calling them back is given from the Incarnation of Christ, which ought to induce everyone to turn from their delights: ***for the Lord has created a new thing upon the earth***, because that conception occurred only by agency of divine power. ***A woman***, because of the condition of the fragile sex, ***shall encompass***, in her womb, ***a man***, Christ, perfect in knowledge and grace from the beginning of his conception. For this reason, you ought to hasten to the land in which this new thing must come to pass: *put on the new man, who, according to God, is created in justice and the holiness of truth* (Eph 4:24). *Behold the man, the Orient is his name, he shall rise under him; and he shall build a temple to the Lord* (Zech 6:12).  
-
-Lecture 9  
-
-***Joy of Israel and Judah***
-
-***^31:23^ Thus says the Lord of hosts, the God of Israel: they shall still say this word in the land of Judah, and in her cities, when I return their captivity, ‘May the Lord bless you, O beauty of justice,Heb. נְוֵה-צֶדֶק: *habitation of righteousness*. O holy mountain.’***
-
-> ^31:24^ And Judah shall dwell in it and all his cities together, the farmer, and the tender of the flocks.
-
-> ^31:25^ For I have made every weary soul drunk, and have satisfied every hungry soul.
-
-> ^31:26^ Therefore, I awoke from sleep, as it were, and saw, and my sleep was sweet to me.
-
-> **166**. Here is placed the consolation for the two tribes particularly:
-
-first, the glad annunciation, because he announces the holiness of the religion: ***they shall still say***, Lord, and praise his temple, not idols; ***beauty of justice, O holy mountain***, that is, Mount Zion, for from there the teaching of the Law, and judgment was spread through the whole kingdom, because of the priests and kings who dwelt there. *The Lord is great, and worthy to be praised, and of his greatness there is no end* (Ps 144:3). Or, ***mountain***, that is, Christ. *A stone cut from the mountain* (Dan 2:34).  
-
-He also promises the security of peace: ***and they shall dwell***. *No more shall you be called forsaken, nor shall your land any more be called desolate; but you shall be called, ‘My delight is in her,’ and your land shall be inhabited* (Isa 62:4).  
-
-He also promises an abundance of good things: ***for I have made drunk***, I have filled abundantly; ***weary soul***, from former tribulations. *For he has filled the empty soul, and the hungry soul he has filled with good things* (Ps 106:9).  
-
-Second is placed the exultation of the one announcing these things: ***therefore, I awoke from sleep, as it were***, by divine revelation; ***sweet***, because of the prosperity seen. These could also be the words of the people, and sleep could signify their preceding misery; ***sweet***, inasmuch as they obtain mercy. *I have slept, and taken my rest, and risen, for the Lord has upheld me* (Ps 3:6). *Sleep is sweet to the laborer, whether he eat little, or much* (Eccl 5:11).  
-
-Lecture 10  
-
-***The new covenant***
-
-***^31:27^ Behold, the days are coming, says the Lord, when I shall sow the house of Israel and the house of Judah with the seed of men and the seed of beasts.***
-
-> ^31:28^ And as I have kept watch upon them to pull up, and to tear down, and to scatter, and to destroy, and to afflict, so shall I keep watch over them, to build up, and to plant, says the Lord.
-
-> ^31:29^ In those days, they shall say no more: the fathers have eaten a bitter grape, and the teeth of their sons were set on edge.
-
-> ^31:30^ But each one shall die in his iniquity; every man who eats the bitter grape, his teeth shall be set on edge.
-
-> ^31:31^ Behold, the days shall come, says the Lord, when I shall make a new covenant with the house of Israel and with the house of Judah,
-
-> ^31:32^ not according to the covenant which I made with their fathers on the day when I took them by the hand, that I might lead them from the land of Egypt, a covenant which they have made void; and I had dominion over them, says the Lord.
-
-> ^31:33^ But this shall be the covenant which I shall make with the house of Israel after those days, says the Lord: I shall put my law in their bowels, and I shall write it in on their hearts, and I shall be to them a God, and they shall be to me a people.
-
-> ^31:34^ And no more shall a man teach his neighbor, and a man his brother, saying, ‘Know the Lord,’ for all shall know me, from the least of them to the greatest, says the Lord; for I will pardon their iniquity, and I shall remember their sin no more.
-
-> **167**. Here, he consoles both together.
-
-First is given the promise;  
-
-second, the confirmation of the promise, at ***thus says the Lord*** (Jer 31:35).  
+second, he inveighs against the false consolers themselves, at ***thus says the Lord*** (Jer 29:21).  
 
 Concerning the former, there are two points.  
 
-First, he promises temporal goods with regard to men and the multiplication of beasts: ***I shall sow***, I will multiply, by sowing, as it were. *Jerusalem shall be inhabited without walls for the multitude of men and beasts in her midst* (Zech 2:4).  
+First, he gives the title of the prophecy, in which he marks out three things.  
 
-With regard to the restoration of what has been destroyed: ***as I have kept watch***—I have diligently fulfilled what I threatened; ***to pull up***, by taking away all protection, by which they were made strong as by a root; ***to tear down***, with regard to the slaughter of men and the desolation of cities; ***to scatter***, by taking away the hedge of human and angelic assistance; ***to destroy***, by driving them into captivity in various places; ***to afflict*** those taken captive with the heavy burden of slavery. *As I thought to afflict you when your fathers provoked me to anger, says the Lord, and I did not have mercy; even so, having turned, have I thought in these days to do well to the house of Judah and Jerusalem* (Zech 8:14–15).  
+Namely, the manner of prophesying, that it is by way of a letter: ***the words of the book***, that is, of the letter. *Now, therefore, go in and write upon a box, and note it diligently in a book, and it shall be on the last days as a testimony forever* (Isa 30:8).  
 
-And with regard to immunity to punishment for the sins of their fathers: ***in those days***. *Why is it that, among you, you turn a parable into this proverb in the land of Israel, saying: The fathers have eaten a bitter grape, and the teeth of the sons are set on edge?* (Ezek 18:2).  
+The time of the prophecy: ***after Jekoniah had gone forth***; as in 2 Kings 24.*Jekoniah, king of Judah, went forth* (*egressus*) *to the king of Babylon . . . and the king of Babylon received him in the eighth year of his reign. . . . And he carried away Jekoniah and the king’s mother and the king’s wives and his eunuchs into Babylon; and the judges of the land he carried into captivity from Jerusalem into Babylon. And all the strong men, seven thousand, and the artificers and a thousand smiths, all that were valiant men and fit for war: the king of Babylon also led them captives into Babylon* (2 Kings 24:12, 15–16). *Behold, the sovereign Lord of hosts shall take away from Jerusalem and from Judah, the valiant and the strong, every strength of bread, and every strength of water; and the strong man, and the man of war, the judge, and the prophet* (Isa 3:1–2).  
 
-Second, he promises spiritual goods: ***behold, the days shall come***.  
+And the messenger of the prophesy: ***by the hand of Elasah, the son of Shaphan, and Gemariah, the son of Hilkiah***, whom he sent to make peace with the Chaldeans, terrified as they were by the death of the false consoler Hananiah and by the threat of Jeremiah. *When the wicked man is scourged, the fool shall be wiser* (Prov 19:25).  
 
-First, he promises the renewal of the covenant: ***days***, of grace; ***a new covenant***, a new testament—this is the Gospel.  
+Second, he gives the content of the prophecy: ***thus says the Lord***. And concerning this, there are two points.  
 
-***Dominion***, cruelly and powerfully taking vengeance. *I shall make an eternal covenant with you, the faithful mercies of David* (Isa 55:3).  
+First, he gives them good and advantageous advice, that they should give their attention to those things which pertain to the demands of necessity: ***build houses***, which they were neglecting to do, believing that they would return quickly, according to the promises of the false prophets. *They have sown fields, and planted vineyards, and made the fruit of birth* (Ps 106:37).Heb. וַ֝יַּעֲשׂ֗וּ פְּרִ֣י תְבֽוּאָה: *and they yield the fruit of increase*.  
 
-Second, he speaks of the tenor of the covenant: ***but this shall be the covenant . . . I shall put my law***, the Gospel, ***in their bowels***, not on tablets of stone. *I shall lead her into the wilderness, and I shall speak to her heart* (Hos 2:14).  
+Also, that they should attend to those things which pertain to the production of children, ***take wives***. *Increase and multiply, and fill the earth* (Gen 1:22).  
 
-Third, he speaks of the usefulness of the covenant:  
+And that they attend to those things which pertain to the tranquility of peace: ***and seek peace***. *Pray for the life of Nebuchadnezzar, king of Babylon, and for the life of Balthasar his son* (Bar 1:11). *I ask first of all that prayers, supplications and thanksgivings be made for all men, for all kings, and for all who are established on high, that we may lead a quiet and tranquil life, in all piety and chastity* (1 Tim 2:1–2).  
 
-first, with regard to obedience: ***and I shall be to them a God***. The same point is made in Ezekiel 36.*You shall be my people, and I will be your God* (Ezek 36:28).  
+Second, he excludes their false and useless counsel: ***for thus says the Lord***.  
 
-Second, with regard to wisdom: ***and no more shall a man teach his neighbor***, by which is excluded the necessity of teaching. And this is indeed fulfilled in the present time with regard to the fact that we have come to divine truth not by the reasons of the prophecy, nor by human inventions, nor even by Jewish traditions; but in the future, it shall be fulfilled entirely. *Do not be called Rabbi, for there is one who is your master* (Matt 23:8). And he gives the reason: ***for all shall know me***. *I shall grant that all your children shall be taught by the Lord, and I will give your children an abundance of peace* (Isa 54:13). *All things whatsoever I have heard from my father, I have made known to you* (John 15:15).  
+First, he excludes the vain confidence which they had conceived by the promises of the prophets;  
 
-Third, with regard to purity from sin: ***for I will pardon their iniquity***. *Who forgives all your iniquities, and heals all your infirmities* (Ps 102:3).  
+second, he excludes foolish repentance, at ***for thus says the Lord*** (Jer 29:16).  
 
-Lecture 11  
+Concerning the former, there are three points.  
 
-***Immutable as the heavens***
+First, he excludes the utterance of the prophets, who were promising a speedy liberation: ***do not let your prophets deceive you***, who speak to you in the name of the Lord, ***and diviners***, who furnish the responses of demons. *Woe to the foolish prophets, who follow their own spirit, and see nothing* (Ezek 13:3).  
 
-***^31:35^ Thus says the Lord, who gives the sun as the light of the day, the orderHeb. חֻקֹּת: *ordinances*, particularly those which the mind of man is incapable of comprehending. of the moon and the stars, as the light of the night; who stirs up the sea, and its waves roar; the Lord of hosts is his name:***
+Second, he speaks of the time of liberation, with regard to consolation: ***for thus says the Lord, I shall visit you***, when I console you, and afflict the enemy. As it says above: ***when the seventy years shall be accomplished, I shall visit upon the king of Babylon and upon that people, says the Lord, their iniquity*** (Jer 25:12). And with regard to the restitution to their native land: ***and stir up***—I will fulfill. *Stir up the prophecies, which the former prophets spoke in your name* (Sir 36:17).  
 
-> ^31:36^ if these laws fail from before me, says the Lord, then the seed of Israel shall fail, that he should not be a nation before me all days.
+Third, he gives the manner of their liberation.  
 
-> ^31:37^ Thus says the Lord: if the heavens above can be measured, and if the foundations of the earth below may be found out, I also shall cast away the whole seed of Israel for all that they have done, says the Lord.
+First, he promises that they will enjoy the state of their original prosperity, with regard to the tranquility of peace: ***for I know*** as no other. *The things which are of God no one knows except the Spirit of God* (1 Cor 2:11). *Eye has not seen, apart from you, what you have prepared for those who wait for you* (Isa 64:4). ***Thoughts of peace***, which I am preparing for you; ***an end***, of captivity; ***endurance***, of hardships, that you may bear them more easily. *They speak peace with their neighbor, but evil is in their hearts* (Ps 27:3).  
 
-> **168**. Here is given the confirmation of the promise.
+And with regard to the hearing of prayer: ***you shall call***, with your mouth; ***and you shall go***, with your mind; ***you shall worship***, with your body. Or, ***you shall go***, to the temple. *At the sound of your cry, as soon as he shall hear it, he shall answer you* (Isa 30:19). Another text has: ***you shall call upon me, and you shall live; and you shall pray to me, and I will hear you***. The sense is plain.  
 
-First, he confirms it by the immutability of created things when he sets forth the power of the one who promises: ***who gives the sun as the light of the day***. *Who makes the great lights, the sun to rule the day, and the moon and the stars to rule the night* (Ps 135:8–9). It is as though he were saying, “He who made these to be immovable shall also be able to make his promise sure.”  
+And with regard to the assistance of divine protection: ***you shall seek***, by desire and prayers, ***and you shall find***, ready to help; it is as though he were saying, “I offer myself.” *He who loves me will be loved by my Father, and I will love him, and I will reveal myself to him* (John 14:21). *Seek the Lord while he may be found; call upon him while he is near* (Isa 55:6).  
 
-And he gives a comparison: ***if these laws fail***; it is as though he were saying, “Just as they shall not fail until the end of the world, so neither shall the seed of Israel, with regard to those who are saved.” *As the new heavens, and the new earth, which I make to stand before me, says the Lord, so shall your seed, and your name stand* (Isa 66:22).  
+Second, he promises them the place of their birth: ***and I shall bring back***. *I shall surely take you from the nations, and I shall gather you from all the lands, and I shall lead you to your own land* (Ezek 36:24).  
 
-Second, from the immensity of created things: ***thus says the Lord***.  
+***For you said***—it is as though he were saying, “It was not necessary to write to you, because you trusted in false prophets.”  
 
-First, he describes the impossibility of measuring: ***if the heavens above can be measured***, by human ability. *Who has measured with his fist the waters, and weighed the heavens with his palm?* (Isa 40:12).  
+Lecture 2  
 
-Second, he sets forth the promise. ***I also shall cast away***; it is as though he were saying, “As that is impossible, so also is this”: ***the whole seed***, because he has cast away some of them. *For he has not willingly afflicted, nor cast off the children of men* (Lam 3:33).  
+***Death for those in Jerusalem***
 
-Lecture 12  
+***^29:17^ Thus says the Lord of hosts: behold, I shall send the sword among them, and famine, and pestilence; and I shall make them like bad figs, which cannot be eaten, because they are bad.***
 
-***Restoration of the city***
+> ^29:18^ And I shall follow them with the sword, and with famine, and with pestilence; and I shall make them a vexation to all the kingdoms of the earth, as a curse, and as an astonishment, and as a hissing, and as a reproach to all the nations to which I have driven them.
 
-***^31:38^ Behold, the days are coming, says the Lord, when the city shall be built for the Lord, from the tower of Hananel to the gate of the corner.***
+> ^29:19^ Because they did not listen to my words, says the Lord, which I sent to them through my servants the prophets, arising by night and sending them; and you did not listen, says the Lord.The text omitted by the *Septuagint* here (Jer 29:19) is similar to Jeremiah 25:4.
 
-> ^31:39^ And the measuring line shall go forth in his sight, upon the hill of Gareb, and shall go about Goatha,
+> ^29:20^ Therefore, listen to word of the Lord, all you exiles, whom I have sent from Jerusalem to Babylon.The text omitted by the *Septuagint* here (Jer 29:20b) is similar to Jeremiah 24:5b.
 
-> ^31:40^ and all the valley of the dead bodies, and ash, and all the region of the dead,Heb. הַשְּׁדֵמוֹת: *fields*. Jerome seems to have speculated as to the meaning of *sheremoth* (הַשְּׁרֵמֹות) and arrived at *region of the dead*; in fact, it is a scribal error for *shedemoth*: *common-field*. as far as the brook Kedron, and as far as the corner of the eastern gate of horses. The holy place of the Lord shall not be pulled up or torn down again forever.
+> **148**. Here, he excludes false repentance, for they could, because of their long captivity, come to regret that they had given themselves up when they saw others still remaining in Jerusalem; and therefore those who remained are threatened with the grave punishment of death: ***behold, I shall send***. As it says above: ***he who shall dwell in this city shall die by the sword, and the famine, and the plague; but he who shall go out and flee over to the Chaldeans, who besiege you, shall live*** (Jer 21:9). And of affliction: ***I shall make***, that is, they shall not find favor with me, neither with those by whom they are held captive, just as bad figs do not please those who gather them. As it says above: ***as the bad figs, which cannot be eaten, because they are bad, thus says the Lord: so shall I make Zedekiah, the king of Judah, and his princes, and the remnant of Jerusalem, who remain in this city, and who dwell in the land of Egypt*** (Jer 24:8).
 
-> **169**. Here is promised the restoration of the city.
+And he gives the reason: ***because they did not listen***, namely, that they should give themselves up to Nebuchadnezzar and cease from their sins. As it says above: ***rising early, I warned them, and said: listen to my voice. But they did not listen, nor did they incline their ear, but turned away, each one in the depravity of his own evil heart*** (Jer 11:7–8).  
 
-First, the rebuilding is promised: ***when the city shall be built***. *It is I who say to Jerusalem, ‘You shall be inhabited,’ and to the cities of Judah, ‘You shall be built’; and I shall raise up your waste places* (Isa 44:26).  
+Next, he introduces the intended conclusion: ***therefore, listen to the word of the Lord***, lest you surely suffer punishment, because you obeyed me in this. *Hear, O sons, the discipline of your father* (Prov 4:1).  
 
-Second, the enlargement is given: ***from the tower of Hananel***, which some say was in Anathoth, but Jerome excludes this in the Gloss,Jerome, *In Hieremiam*, 6.410. ***to the gate of the corner***, where two walls were joined together;  
+Lecture 3  
 
-the former ***measuring line shall go forth***, ***upon the hill of Gareb***, which is translated as “scab,” where perhaps the lepers stayed outside the city; ***Goatha***, which is translated as “sinful nation,” where those who were unclean because of some sin stayed;  
+***False prophets’ punishment***
 
-***the valley of the dead bodies***, where the graves of the people were; ***ash***, where ritually clean ashes were cast, as from sacrifices, or it refers to unclean ashes, as from the houses of lepers and others of this sort; ***of the dead***, where malefactors were put to death; ***as far as the corner of the eastern gate of horses***, for horses were not able to ascend from every direction because of the steepness of the mountain. *Enlarge the place of your tent, and stretch out the coverings of your tabernacles* (Isa 54:2).  
+***^29:21^ Thus says the Lord of hosts, the God of Israel, to Ahab, the son of Koliah, and to Zedekiah, the son of Maasiah, who prophesies to you falsely in my name: behold, I shall give them over into the hand of Nebuchadnezzar, king of Babylon, and he shall strike them before your eyes.***
 
-Third, the duration is given: ***the holy place of the Lord shall not be pulled up***, that is, the sanctuary, the temple, or the whole city, which was sanctified to the Lord. Above: ***they will call Jerusalem the throne of the Lord; and all nations shall be gathered together in her in the name of the Lord in Jerusalem*** (Jer 3:17). *A tabernacle which cannot be removed, neither shall its stakes ever be taken away, and none of its cords shall be broken* (Isa 33:20). The Jews expound this as referring to Jerusalem the golden, which Jerome disproves in the Gloss,Jerome, *In Hieremiam*, 6.410–11. and he expounds it as referring to the Church, which gathers within herself both the perfect and the imperfect, which is signified by the unclean places outside Jerusalem. It could also be said another way, that it was fulfilled under Ezra, as is seen in Nehemiah 3: *for they began to build Hananel*.The citation is uncertain here, but it is likely a variation or paraphrase of Nehemiah 3:1: *sanctificaverunt eam usque ad turrem Ananehel*, “They sanctified it to the tower of Hananel.” And literally, perhaps they added some space to the city. When it is said to abide forever, the condition is understood: if they do not sin. Above: ***if it does evil in my eyes, and does not hear my voice, then I will repent of the good which I have said I would do for it*** (Jer 18:10).
+> ^29:22^ And of them a curse shall be taken up by all the exiles of Judah, who are in Babylon, saying, ‘May the Lord make you as Zedekiah, and Ahab, whom the king of Babylon roasted in fire.’
+
+> **149**. Here, he inveighs against the false prophets themselves:
+
+first, against certain advocates of falsehood;  
+
+second, against a certain attacker of the truth, at ***and to Shemaiah*** (Jer 29:24).  
+
+Concerning the former, there are three points.  
+
+First, he threatens a punishment;  
+
+second, he reproves their fault, at ***because they committed folly in Israel*** (Jer 29:23);  
+
+third, he reproves the justice of their judgment, at ***I am judge, and witness*** (Jer 29:23).  
+
+Concerning the former, there are three points.  
+
+First, their descent into guilt is spoken of: ***I shall give them over***, so that he may have an occasion of punishing those whom he had in his power at first. *The Lord has given me into a hand from which I shall not be able to flee* (Lam 1:14).  
+
+Second, the infliction of the punishment: ***and he shall strike***. As it says below: ***your breach is incurable, your wound very grievous*** (Jer 30:12).  
+
+Third, the resultant curse: ***and of them shall be taken up***.  
+
+Now the Hebrews say that these are the two elders of whom Daniel 13 speaks. Whence, from this section they wish to show that the other is fictitious.In the Jewish canon, the book of Daniel ends with chapter 12; in the Catholic canon, two other chapters, which are thought to be of later composition, are included. For there, they are said to have been killed by the people; but here, by Nebuchadnezzar.  
+
+And furthermore, there, they are said to have been stoned; but here, burned with fire.  
+
+With regard to the first point, it must be said that both may be true, because Nebuchadnezzar killed by his authority those condemned by Daniel; and the people killed by executing the sentence.  
+
+With regard to the second point, it must be said that any punishment is called fire because of the pain, and this especially because of its likeness to the sin of adultery. *All adulterers are like an oven heated by the baker* (Hos 7:4). *It is a fire devouring even to destruction, and roots up all things which sprout* (Job 31:12).  
+
+Lecture 4  
+
+***False prophets’ guilt***
+
+***^29:23a^ Because they committed folly in Israel, and adultery with the wives of their friends, and spoke a word in my name falsely, which I did not send to them.***
+
+> **150**. Here, he speaks of their guilt:
+
+first, of adultery: ***folly***, that is, a foolish thing; ***and adultery***. *Thus you would do to the daughters of Israel, and they for fear would speak with you* (Dan 13:57). As it says above: ***each one neighing at the wife of his neighbor*** (Jer 5:8).  
+
+Second, the lie: ***and they spoke a word in my name falsely***, for they were saying that liberation was near, and that the Christ was to be born from them, so that they might in this way beguile the women into committing adultery. As it says above: ***I did not speak to them, yet they prophesied*** (Jer 23:21).  
+
+Lecture 5  
+
+***God is judge and witness***
+
+***^29:23b^ I am judge and witness, says the Lord.***
+
+> **151**. Here, he speaks of the justice of the judgment: ***judge***, to inflict punishment; ***witness***, to convict of guilt—because by divine assent, they were miraculously found out. *The Lord stirred up the spirit of a young boy, whose name was Daniel* (Dan 13:45).
+
+Lecture 6  
+
+***Rebuke of Shemaiah***
+
+***^29:24^ And to Shemaiah the Nehalamite, you shall say:***
+
+> ^29:25^ thus says the Lord of hosts, the God of Israel: because you sent books in my name to all the people who are in Jerusalem, and to Zephaniah, the son of Maasiah, the priest, and to all the priests, saying:
+
+> ^29:26^ the Lord has made you a priest in the place of Jehoiada the priest, that you may be the rulerHeb. לִהְיוֹת פְּקִדִים: *that there should be officers*. in the house of the Lord over every madman and prophet, that you may put them in the stocks and in prison.
+
+> ^29:27^ And now, why have you not rebuked Jeremiah the Anathothite, who prophesies unto you?
+
+> ^29:28^ For concerning this, he has sent to us in Babylon saying: it shall be long. Build houses, and dwell in them; and plant gardens, and eat the fruits thereof.
+
+> ^29:29^ Zephaniah the priest, therefore, read this book in the ears of Jeremiah the prophet.
+
+> **152**. Here, he inveighs against an attacker of the truth, because, insomuch as he was a false prophet and promised the people that liberation was at hand, he was angry with Jeremiah because of the letter that he had sent to Babylon, and he wrote a letter to Jerusalem, to the high priest, against Jeremiah.
+
+Concerning this, there are two points.  
+
+First, the attack against the truth is given;  
+
+second, the threat against him, at ***and the word of the Lord came to Jeremiah*** (Jer 29:30).  
+
+Concerning the former, there are two points.  
+
+First, he gives the sense of the letter: ***because you sent***. It is an incomplete statement; as though saying, “You will allow it,” because he will speak after interposing certain things.  
+
+In the letter, he makes three points.  
+
+First, he recalls the example of his predecessor: ***the Lord has made you a priest in the place of Jehoiada***, who slew the false prophets, as you should do to Jeremiah the false prophet (2 Kgs 11:18).  
+
+Second, he recalls his duty: ***that you may be the ruler in the house of the Lord over every madman***, who, caught up by an unclean spirit, usurps the function of the prophet. For it pertained to the office of the priest to discern between spirits. *Do not believe every spirit, but test the spirits, whether they be of God; for many false prophets have gone forth into the world* (1 John 4:1).  
+
+Third, he also reproaches certain things: ***for concerning this, he has sent to us in Babylon***, because he is not content for us to preach evil things. *They have hated the one who rebuked in the gate, and have abhorred the one who speaks perfectly* (Amos 5:10). *I hate him, because he does not prophesy good to me, but evil, Micah, the son of Imla* (1 Kgs 22:8).  
+
+Second, he shows how the prophet came to be aware of this: ***Zephaniah the priest, therefore, read this book in the ears of Jeremiah the prophet***, that he might reproach him. As it says above: ***the word of the Lord has become a reproach to me, and a derision all the day*** (Jer 20:8).  
+
+Lecture 7  
+
+***Threat against Shemaiah***
+
+***^29:30^ And the word of the Lord came to Jeremiah, saying:***
+
+> ^29:31^ send to all the exiles saying: thus says the Lord to Shemaiah the Nehalamite: because Shemaiah prophesied unto you, and I did not send him, and he made you to trust in a lie;
+
+> ^29:32^ therefore, thus says the Lord: behold, I shall visit this upon Shemaiah, and upon his seed, that there be not a man left to him dwelling in the midst of this people, and that he may not see the good which I will do for my people, says the Lord, for he has spoken rebellion against the Lord.
+
+> **153**. Here, he speaks of the threat against him.
+
+First, he reproves Shemaiah’s guilt: ***because Shemaiah prophesied***. *We have set a lie as our hope, and by a lie are we protected* (Isa 28:15). His oration is directed against the captives by some other letter.  
+
+Second, he threatens punishment: ***therefore, thus says the Lord***.  
+
+First, with regard to the sons: ***there be not a man left to him***; it is as though he were saying, “He will not leave a survivor among the people.” *I am the Lord your God, the Mighty One, the Jealous One*,Heb. אֵל קַנָּא: *a jealous God*. This is one of the standard names of God, but in the Latin it has instead been broken up into two distinct epithets, *mighty* and *jealous*. *visiting the iniquity of the fathers upon the sons to the third and fourth generations of those who hate me* (Exod 20:5).  
+
+Second, with regard to Shemaiah: ***and he may not see the good which I will do for my people***. As it says above: ***for he shall be like a tamarisk in the desert, and shall not see when good comes*** (Jer 17:6).  
+
+Third, he resumes his case: ***for he has spoken rebellion against the Lord***, because with his words he had rebelled against the Lord when he spoke, and promised prosperous times, when God had predicted the contrary. *Shall he who contends with God, so easily become quiet?* (Job 39:32).

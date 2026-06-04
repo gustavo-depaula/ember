@@ -630,6 +630,11 @@ def parse_catena_file(path: Path) -> list[dict]:
                 en_is_quote = en_td.find("blockquote") is not None
                 la = td_text(la_td)
                 en = td_text(en_td)
+                # Skip chapter-header rows (e.g. "Caput 1" / "CHAPTER I") —
+                # the chapter heading is already supplied by the markdown
+                # # heading from the outline.
+                if _is_catena_chapter_header(la, en):
+                    continue
                 if la_is_quote or en_is_quote:
                     if la or en:
                         current["rows"].append(("__scripture__", la, en))
@@ -644,6 +649,20 @@ def parse_catena_file(path: Path) -> list[dict]:
 
 
 _TOC_LINK_RE = re.compile(r"^[\s\*]*\d+[\s\*]*$")
+_CHAPTER_HDR_RE = re.compile(r"^[\s\*]*(?:Caput|Capitulum|CHAPTER|Chapter)\s+[IVXLCDM\d]+[\s\*]*\.?$", re.IGNORECASE)
+
+
+def _is_catena_chapter_header(la: str, en: str) -> bool:
+    """Detect rows that label the chapter (e.g. "Caput 1" / "CHAPTER I").
+    The markdown # heading from the outline already provides this label."""
+    la_clean = la.strip().strip("*").strip()
+    en_clean = en.strip().strip("*").strip()
+    matches = 0
+    if la_clean and _CHAPTER_HDR_RE.match(la_clean):
+        matches += 1
+    if en_clean and _CHAPTER_HDR_RE.match(en_clean):
+        matches += 1
+    return matches >= 1 and max(len(la_clean), len(en_clean)) < 40
 
 
 def _is_catena_toc_row(tds) -> bool:

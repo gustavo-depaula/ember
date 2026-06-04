@@ -1,123 +1,151 @@
-# C. 28 - The false prophet Hananiah
+# C. 26 - Conspiracy of the princes
 
 ***Lecture 1***
 
-***Hananiah’s false prophecy***
+***Title and date***
 
-***^28:1^ And it came to pass in that year, in the beginning of the reign of Zedekiah, king of Judah, in the fourth year, in the fifth month, that Hananiah son of Azur, a prophet of Gibeon, spoke to me in the house of the Lord before the priests and all the people, saying:***
+***^26:1^ In the beginning of the reign of Jehoiakim, the son of Josiah, king of Judah, this word came from the Lord, saying:***
 
-> ^28:2^ thus says the Lord of hosts, the God of Israel: I have broken the yoke of the king of Babylon.
+> **135**. Here is given the conspiracy of the princes against the prophet.
 
-> ^28:3^ Yet two years, and I shall cause all the vessels of the house of the Lord to be brought back to this place, which Nebuchadnezzar, king of Babylon, took from this place, and carried them to Babylon.
+It is divided into three parts.  
 
-> ^28:4^ And I shall bring back to this place, says the Lord, Jehoiakim, king of Judah, and all the exiles of Judah, who have gone to Babylon for I shall break the yoke of the king of Babylon.
+First, the title;  
 
-> **143**. Here, he descends particularly to certain false prophets:
+second, the prophecy, at ***thus says the Lord*** (Jer 26:2);  
 
-first, to one who was telling the future to the remnant of Jerusalem;  
+third, the epilogue, at ***in the beginning of the reign of Jehoiakim*** (Jer 27:1).  
 
-second, to certain men who were prophesying to the captives in Babylonia: ***and these are the words of the book which Jeremiah the prophet sent*** (Jer 29:1).  
-
-Concerning the former, there are two points.  
-
-First is given the false consolation of the false prophet;  
-
-second, the condemnation of the falsity through Jeremiah, at ***and the word of the Lord came to Jeremiah*** (Jer 28:12).  
-
-Concerning the former, there are two points.  
-
-First, the false consolation, which the false prophet had given by word;  
-
-second, that which he had given by deed, at ***and Hananiah the prophet took the chain from the neck of Jeremiah*** (Jer 28:10).  
-
-Concerning the former, there are two points.  
-
-First, the false consolation;  
-
-second, the response of Jeremiah, at ***and Jeremiah spoke*** (Jer 28:5).  
-
-Concerning the former, there are two points.  
-
-First, he provides the title of the false prophecy, in which is described: the time, ***in the fourth year***; the prophet, ***Hananiah, a prophet***, in reputation; the place, ***in the house of the Lord***. As above: ***I find their evil in my house, says the Lord*** (Jer 23:11).  
-
-Second, the word of the false consolation: ***thus says the Lord***.  
-
-And first, he promises liberty: ***I have broken***, I have destroyed—because of the certainty of the thing, it is spoken of in the past tense—***the yoke***, which was indeed to be broken, but not then. *The yoke shall spoil because of oil* (Isa 10:27).  
-
-Second, he predicts the nearness of its fulfillment: ***yet two years***, lest they should be believed to be years of years, as it says in Ezekiel 4:6, *a day for a year, yea, a day for a year, have I appointed to you*.  
-
-And first, with regard to the return of the vessels: ***and I shall cause all the vessels of the house of the Lord to be brought back to this place***. Lamentations 1:10 speaks of their capture: *the enemy put out his hand to all her desirable things*.  
-
-Second, with regard to the liberation of their princes: ***and Jehoiakim***, contrary to what was said above in the preceding chapter. As it says above: ***O earth, earth, earth, hear the word of the Lord*** (Jer 22:29).  
+The title is self-explanatory.  
 
 Lecture 2  
 
-***Jeremiah’s response***
+***Jeremiah in the temple***
 
-***^28:5^ And Jeremiah the prophet spoke to Hananiah the prophet, in the eyes of the priests and in the eyes of the entire people, which stood in the house of the Lord.***
+***^26:2^ Thus says the Lord: stand in the court of the house of the Lord and speak to all the cities of Judah, from which people come to worship in the house of the Lord, all the words which I have commanded you to speak unto them. Do not subtract a word.***
 
-> ^28:6^ And Jeremiah the prophet said, ‘Amen! May the Lord do so; may the Lord raise up your words, which you have prophesied, to bring back the vessels to the house of the Lord, and all the exiles from Babylon to this place.
+> ^26:3^ It may be that they hear and be turned, each one from his wicked way, and I repent of the evil which I think to do against them, because of the evil of their doings.
 
-> ^28:7^ But hear the word which I speak in your ears, and in the ears of all the people:
+> ^26:4^ And you shall say to them: thus says the Lord: if you will not hearken unto me, to walk in my law, which I have given you,
 
-> ^28:8^ the prophets who were before me and before you from the beginning, who prophesied against many lands, and against great kingdoms concerning war, and affliction, and famine.
+> ^26:5^ to hear the words of my servants the prophets, whom I have sent unto you, rising at night, and sending, and you did not hear,
 
-> ^28:9^ The prophet who foretold peace, when his word came to pass, he was known as a prophet whom the Lord had sent in truth.
+> ^26:6^ I shall make this house like Shiloh, and this city a curse to all the nations of the earth.
 
-> **144**. Here the response of Jeremiah is given.
+> **136**. Here the prophecy is given, and it is divided into three parts.
 
-And first, he shows his emotion when he desires that what he had said should be fulfilled: ***amen***, that is, let it be. *If only I were not a man who has the Spirit, and that I was rather speaking a lie* (Mic 2:11). He does not oppose this because he knew that the Lord wills the contrary, because this choice must be understood under the condition, namely, if God wills it, and in this he conforms his will to the divine, because he wills what God wills to be.  
+In the first, the occasion of the persecution;  
 
-Second, lest he should seem to consent to falsehood, he proposes a sign of truthfulness: ***but hear***. And this sign is taken from Deuteronomy 18:22: *whatever that prophet shall prophesy in the name of the Lord, and it does not come to pass, this the Lord has not spoken*.  
+in the second, the persecution, at ***and the priests heard*** (Jer 26:7);  
 
-But he himself seems to argue from the contrary sense, and it seems that the argument would be invalid because it is the fallacy of denying the antecedent,In other words, it appears as if Jeremiah might be arguing as follows: if it does not come pass, then the Lord has not spoken; but it has come to pass (denying the antecedent); therefore, the Lord has spoken. The conclusion is formally invalid, as it does not demonstratively follow from the premises. and therefore, the contrary is held in Deuteronomy 13:1–3: *if there arise in your midst a prophet, or one who says that he has seen a dream, and he should predict a sign and a portent, and what he says should come to pass, and he say to you, ‘Come, let us follow strange gods whom you do not know, and let us serve them,’ you shall not listen to the words of that prophet or dreamer*.  
+in the third, the liberation, at ***and the princes heard*** (Jer 26:10).  
 
-But it must be said that the argument is effective for showing his falsity, and this is what he intends.  
+Now, the occasion arose from his preaching;  
+
+for this reason, he first designates the place of the preaching: ***stand in the court***. As it says above: ***stand in the gate of the house of the Lord, and preach there this word*** (Jer 7:2).  
+
+Second, with regard to the fruit of emendation: ***do not subtract a word*** (Jer 26:2); with regard to the emendation of faults: ***and they may be turned***; and with regard to the remission of the punishment: ***and I repent***. As it says above: ***if that nation will repent of its evil, which I have spoken against it, then I also shall repent of the evil which I have thought to do against it*** (Jer 18:8).  
+
+Third, he gives the subject matter of the preaching: ***and you shall say***. As it says above: ***I shall do to this house, in which my name is invoked, and in which you have confidence, and to the place which I have given to you, and to your fathers, as I did to Shiloh; and I shall drive you from before my face, as I drove all your brothers, the whole seed of Ephraim*** (Jer 7:14–15).  
 
 Lecture 3  
 
-***Jeremiah’s chain broken***
+***Wrath against Jeremiah***
 
-***^28:10^ And Hananiah the prophet took the chain from the neck of Jeremiah, and broke it.***
+***^26:7^ And the priests heard, and the prophets, and all the people heard Jeremiah speaking these words in the house of the Lord.***
 
-> ^28:11^ And Hananiah spoke in the sight of all the people saying, ‘Thus says the Lord: thus shall I break the yoke of Nebuchadnezzar, king of Babylon, after two years of days from the neck of every nation.’
+> ^26:8^ And when Jeremiah had finished speaking everything which the Lord had commanded him to speak to all the people, the priests and the prophets, and all the people seized him, saying, ‘He shall surely die.
 
-> ^28:12a^ And Jeremiah went his own way.
+> ^26:9^ Why has he prophesied in the name of the Lord, saying, “This house shall be like Shiloh, and this city shall be laid waste, such that it have no inhabitant?”’ And all the people were gathered against Jeremiah in the house of the Lord.
 
-> **145**. Here, he confirms his own prophecy by action; and concerning this, there are three points.
+> **137**. Here, he speaks of the persecution; concerning this, he makes four points.
 
-First, he gives a similitude of the action: ***Hananiah took and broke***, as a sign of the breaking of the power of Babylonia.  
+First, the hearing of the preaching: ***and the priests heard***. *They hear your words, and do not do them, because they turn them into a song of their mouth* (Ezek 33:31).  
 
-Second, he explains the similitude: ***and Hananiah spoke***. This was to happen long after in the future. As it says below: ***I shall break his yoke from your neck, and I shall burst his bonds*** (Jer 30:8).  
+Second, their wicked counsel: ***and when Jeremiah had finished . . . the priests seized him***. *Let us condemn him to a most shameful death* (Wis 2:20). *They have hated him that rebukes in the gate, and abhorred him who speaks perfectly* (Amos 5:10).  
 
-Third, there is shown the humility of Jeremiah, because he patiently and willingly bore this ***and went his own way***. *I have become like a man who hears not, and has no reproofs in his mouth* (Ps 37:15).  
+Third, the evidence of their wickedness: ***why has he prophesied***; it is as though they were saying, “The Lord seems to have spoken falsely when he chose this place.” *I hate him, because he does not prophesy good to me, but evil* (1 Kgs 22:8).  
+
+Fourth, the assembling of the people: ***and all the people were gathered***. *As is the ruler of a city, so are the inhabitants thereof* (Sir 10:2). *Do not cast yourself against the people, nor bind sin to sin* (Sir 7:7–8).  
 
 Lecture 4  
 
-***Hananiah’s death***
+***Jeremiah’s trial***
 
-***^28:12b^ And the word of the Lord came to Jeremiah, after Hananiah the prophet had broken the yoke from the neck of Jeremiah the prophet, saying:***
+***^26:10^ And the princes of Judah heard these words, and came up from the house of the king into the house of the Lord, and sat in the entry of the new gate of the house of the Lord.***
 
-> ^28:13^ go, and say to Hananiah: thus says the Lord: you have broken chains of wood, and in their place you shall make chains of iron.
+> ^26:11^ And the priests, and the prophets spoke to the princes, and to all the people, saying, ‘There is a judgment of death against this man, because he has prophesied against this city, as you have heard with your own ears.’
 
-> ^28:14^ For thus says the Lord of hosts, the God of Israel: I have set a yoke of iron upon the neck of all these nations, that they may serve Nebuchadnezzar, king of Babylon, and they shall serve him; moreover, the beasts also have I given to him.
+> ^26:12^ And Jeremiah spoke to all the princes, and to all the people, saying: the Lord sent me to prophesy against this house and against this city all the words which you have heard.
 
-> ^28:15^ And Jeremiah the prophet spoke to Hananiah the prophet: hear, O Hananiah, the Lord has not sent you, and you have made this people to trust in a lie.
+> ^26:13^ Now, therefore, make your ways and your doings good, and hear the voice of the Lord your God, and the Lord shall repent of the evil which he has spoken against you.
 
-> ^28:16^ Therefore, thus says the Lord: behold I shall send you from the face of the earth. This year you shall die, for you have spoken against the Lord.
+> ^26:14^ But, behold, I am in your hands; do to me as seems good and right in your eyes.
 
-> ^28:17^ And Hananiah the prophet died that year, in the seventh month.
+> ^26:15^ But know of a surety that if you kill me, you bring innocent blood against you, and against this city, and against the inhabitants thereof; for in truth the Lord sent me to you, that I should speak all these words in your ears.
 
-> **146**. Here is given the condemnation of the falsehood.
+> ^26:16^ And the princes and all the people said to the priests and to the prophets, ‘There is no judgment of death against this man, for he has spoken to us in the name of the Lord our God.’
 
-And first, he excludes the false consolation, by the similitude of the act: ***you***, you Hananiah, ***have broken***; and you Jeremiah, ***shall make***, as a sign of the increase of the punishment. *They who fear the hoarfrost, upon them shall fall the snow* (Job 6:16).  
+> **138**. Here, the liberation is discussed; and concerning this, there are two points.
 
-And the exposition of the similitude: ***for thus says the Lord***; it is as if he were saying, “The yoke of bondage will be harsher than had been previously signified.” *His yoke is a yoke of iron, and his chain is a chain of bronze* (Sir 28:24).  
+First, the judgment of the princes for the liberation of Jeremiah;  
 
-Second is given the threat against his prophesying:  
+second, the calming of the furor of the people by the words of the elders, at ***therefore, certain of the elders of the land arose*** (Jer 26:17).  
 
-and first, the restraining of his fault is given: ***and Jeremiah spoke . . . the Lord has not sent you***. *We have made a lie our hope, and by a lie are we protected* (Isa 28:15).  
+Concerning the first, there are three points.  
 
-Second, the threat of punishment is given: ***therefore, I shall send you***; that is, I shall destroy you by death. *Not so the wicked, not so, but they are like the dust which the wind drives from the face of the earth* (Ps 1:4).  
+First, he mentions the foresight of the princes: ***and the princes came up into the house of the Lord*** to quell the dissension; ***new***, because it had been remade to house the trials of the priests and of those who pertained to the practice of religion. *You shall establish judges and magistrates in all your gates, which the Lord your God shall give you throughout all your tribes, to judge the people with just judgment; neither shall they turn aside to another place* (Deut 16:18–19).  
 
-Third, the fulfillment of the prophecy is given: ***and Hananiah died in the seventh month***—hence, he did not survive but by two months. *When they say, ‘peace and security,’ then shall destruction come upon them suddenly, as the pain of a woman in labor, and they shall not escape* (1 Thess 5:3).
+Second, he mentions the dispute of the parties with regard to the accusation: ***and the priests spoke***. And they strove to impose upon him something like the crime of blasphemy so that he would be killed. Likewise in Acts 6:13, *this man does not cease to speak words against this holy place and against the law*.  
+
+And with regard to the defense: ***and Jeremiah spoke***. Now, he responds prudently, because he exempts himself from guilt: ***the Lord sent me***; for this reason, I am not to be blamed for the things which I have spoken. *Do not stand in fear of your neighbor when he falls, nor hold your tongue in the time of salvation* (Sir 4:27). *And now the Lord and his Spirit sent me* (Isa 48:16).  
+
+And he softens their wrath when he points out the remedy: ***now, therefore, make your ways good***. As it says above: ***let each one turn from his wicked way, and direct your ways and your endeavors*** (Jer 18:11).  
+
+He responds humbly, because he recognizes their power: ***behold, I am in your hands***. *A mild answer breaks wrath, but a hard word stirs up fury* (Prov 15:1).  
+
+He also speaks consistently, because he forbids injustice: ***but know***. *The voice of your brother’s blood cries out to me from the earth* (Gen 4:10). And because he is confirming the sentence: ***in truth, the Lord sent me***. *Judge whether it is right in the sight of God to listen to you rather than to God* (Acts 4:19).  
+
+Third, the proclamation of the sentence is given: ***and the princes and all the people said***.  
+
+First, the sentence is proclaimed by the princes: ***there is no judgment of death against this man***. *Behold, nothing worthy of death has been done by him* (Luke 23:15).  
+
+Second, the sentence is confirmed by the elders, whose duty it is to know ancient precedents. *In the ancient is wisdom, and in much time prudence* (Job 12:12).  
+
+Lecture 5  
+
+***Intervention of the elders***
+
+***^26:17^ Therefore, certain of the elders of the land arose and spoke to the entire assembly of the people, saying:***
+
+> ^26:18^ ‘Micah the Morashite was a prophet in the days of Hezekiah, king of Judah, and he spoke to the entire people of Judah, saying, “Thus says the Lord of hosts: Zion shall be ploughed like a field, and Jerusalem shall be a heap of stones, and the mountain of the house of the Lord shall be as the high places of the forest.”
+
+> ^26:19^ Did Hezekiah, king of Judah, and all Judah, condemn him to death? Did they not fear the Lord, and entreat the face of the Lord, and the Lord repented of the evil which he has spoken against them? Therefore we are doing a great evil against our souls.’
+
+> ^26:20^ There was also a man prophesying in the name of the Lord, Uriah, the son of Shemaiah, from Kiriath-Jearim, and he prophesied against this city, and against this land, according to all the words of Jeremiah.
+
+> ^26:21^ And king Jehoiakim, and all the powerful, and his princes, heard these words, and the king sought to kill him: and Uriah heard it, and feared, and fled, and went into Egypt.
+
+> ^26:22^ And Jehoiakim, the king, sent men into Egypt, Elnathan, the son of Achbor, and men with him, into Egypt.
+
+> ^26:23^ And they took Uriah out of Egypt, and brought him to king Jehoiakim, and struck him with the sword, and cast his body into the graves of the common people.Heb. אֶל־קִבְרֵ֖י בְּנֵ֥י הָעָֽם: *into the graves of the children of the people*.
+
+> ^26:24^ Therefore, the hand of Ahicam, the son of Shaphan,This is the same Shapan of 2 Chronicles 34 and 2 Kings 22, a scribe who was instrumental in the restoration of the Temple. was with Jeremiah, that they should not give him into the hands of the people, to put him to death.
+
+> **139**. Here is given the calming of the people’s fury against Jeremiah, by the words of the elders.
+
+First, they set forth the example of the just, which they are to imitate, regarding the deed of Micah, when they make mention of his preaching; ***Micah***; one of the twelve minor prophets ***the Morashite***, to distinguish him from Micah, the son of Yemla (1 Kgs 22:8). ***Zion***: *hear your princes of Jacob, and leaders of the house of Israel* (Mic 3:1). As it says above: ***I will make Jerusalem to be heaps of sand and the lair of dragons; and the cities of Judah I will make desolate, so that there be no inhabitant*** (Jer 9:11).  
+
+And the conversion of the people: ***did Hezekiah condemn him to death?*** It is as though he were saying, “No.” As it says above: ***ask of the ancient paths, ‘Which is the good way?’ and walk thereon; and you shall find rest for your souls*** (Jer 6:16). And they infer the conclusion: ***therefore, we are doing*** (Jer 26:19). *His sorrow shall be turned on his own head, and his iniquity shall come down on his own crown* (Ps 7:17).  
+
+Second, they set forward an example of injustice of which they must beware, lest they join evils to evils; ***there was also a man prophesying***.  
+
+First, his preaching is given: ***and he prophesied***. *For he is not the God of dissension, but of peace* (1 Cor 14:33). And therefore, they all say the same thing.  
+
+Second is given his persecution and flight; ***and Uriah heard . . . and fled***. *If you are persecuted in one city, flee to another* (Matt 10:23).  
+
+Third, his slaying; ***and the king sent***; because he was allied to the Egyptians.  
+
+Therefore this one was slain, and Jeremiah was set free, because God permits some of his saints to be killed for the condemnation of the wicked and as an example of the patience of the righteous: *take, brothers, as an example of suffering evil, of labor and of patience, the prophets who spoke in the name of the Lord* (Jas 5:10). Likewise, Acts 12 where James is killed, and Peter is set free.  
+
+Third is given the execution of the sentence concerning the liberation of Jeremiah: ***therefore the hand of Ahicam, the son of Shaphan, was with Jeremiah***. And this is clear.

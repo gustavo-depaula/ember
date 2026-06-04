@@ -1,101 +1,135 @@
-# Chapter 18
+# Chapter 16
 
-> ^18:2^ That sends ambassadors in*In*. DR: “by.” the sea, and in vessels of papyrus*Papyri*. DR: “bulrushes.” upon the waters. Go, you swift angels, to a nation rent and torn in pieces: to a terrible people, after which there is no other: to a nation expecting and trodden underfoot, whose land the rivers have spoiled, to the mountain of the name of the Lord of hosts, mount Zion.Vg. omits “to the mountain of the name of the Lord of hosts, mount Zion.” Cf. v. 7.
+> ^16:2^ And it shall come to pass, that as a bird fleeing away, and as young ones flying out of the nest, so shall the daughters of Moab be in the passage of Arnon.
 
-> ^18:3^ All you inhabitants of the world, who dwell on the earth, when the sign shall be lifted up on the mountains, you shall see, and you shall hear the sound of the trumpet.
+> ^16:3^ Take counsel, gather a council: make your shadow as the night in the midday: hide them that flee, and betray not them that wander about.
 
-> ^18:4^ For thus says the Lord to me: I will take my rest, and consider in my place, as the noon light is clear, and as a cloud of dew in the day of harvest.
+> ^16:4^ My fugitives shall dwell with you: O Moab, be you a covert to them from the face of the destroyer: for the dust is at an end, the wretch is consumed: he has failed, that trod the earth under foot.
 
-> ^18:5^ For before the harvest it was all flourishing, and it shall bud without perfect ripeness, and the sprigs thereof shall be cut off with pruning hooks: and what is left shall be cut away and shaken out.
+> ^16:5^ And a throne shall be prepared in mercy, and one shall sit upon it in truth in the tabernacle of David, judging and seeking judgment and quickly rendering that which is just.
 
-> ^18:6^ And they shall be left together to the birds of the mountains, and the beasts of the earth: and the fowls shall be upon them all the summer, and all the beasts of the earth shall winter upon them.
+> ^16:6^ We have heard of the pride of Moab, he is exceeding proud: his pride and his arrogancy, and his indignation is more than his strength.
 
-> ^18:7^ At that time shall a present be brought to the Lord of hosts, from a people rent and torn in pieces: from a terrible people, after which there has been no other: from a nation expecting, expecting and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, to mount Zion.
+> ^16:7^ Therefore shall Moab howl to Moab, every one shall howl: to them that rejoice upon the brick walls, tell their stripes.
 
-> **474**. ***Woe to the land, the winged cymbal***. Here he threatens against the Egyptians.
+> ^16:8^ For the suburbs of Hesebon are desolate, and the lords of the nations have destroyed the vineyard of Sabama: the branches thereof have reached even to Jazer: they have wandered in the wilderness, the branches thereof are left, they are gone over the sea.
 
-And first, he threatens their punishment through comparison to what merits the punishment;  
+> ^16:9^ Over this*Super hoc*. DR: “therefore.” I will lament with the weeping of Jazer the vineyard of Sabama: I will water you with my tears, O Hesebon, and Eleale: for the voice of the treaders has rushed in upon your vintage, and upon your harvest.
 
-in the second part, he describes the manner of the punishment: ***the burden of Egypt*** (ch. 19);  
+> ^16:10^ And gladness and joy shall be taken away from Carmel, and there shall be no rejoicing nor shouting in the vineyards. He shall not tread out wine in the press that was wont to tread it out: the voice of the treaders I have taken away.
 
-in the third part, he designates the time of the punishment: ***in the year*** (ch. 20).  
+> ^16:11^ Over this*Super hoc*. DR: “wherefore.” my bowels shall sound like a harp for Moab, and my inward parts for the brick wall.
 
-Concerning the first, he sets out three things:  
+> ^16:12^ And it shall come to pass, when it is seen that Moab is wearied on his high places, that he shall go in to his sanctuaries to pray, and shall not prevail.
 
-first, he designates the fault, which merits the punishment;  
+> ^16:13^ This is the word, that the Lord spoke to Moab from that time:
 
-second, he threatens the punishment: ***all you inhabitants*** (Isa 18:3);  
+> ^16:14^ And now the Lord has spoken, saying: in three years, as the years of a hireling, the glory of Moab shall be taken away for all the multitude of the people, and it shall be left small and feeble, not many.
 
-third, he shows the fruit of the punishment: ***at that time*** (Isa 18:7).  
+> **444**. ***Send forth, O Lord, the lamb***. Here he describes the condition of their punishment, and he sets out two conditions:
 
-**475**. Concerning the first, he does two things.  
+first, equity on the part of the one who judges;  
 
-First, he describes the location of the land which they trusted in proudly, saying, ***woe***, namely, it is near at hand, ***to the land***, Egypt, ***the winged cymbal***, so-called because of the sound of the Nile, whose swiftness is compared to the movement of wings because of their swiftness, or because of the multitude of the peoples, or because of the help of protection, which they resounded to the people of the two tribes; ***which is beyond the rivers of Ethiopia***, that is, beyond the Nile, which comes from Ethiopia: *behold, I come against you, Pharaoh king of Egypt, you great dragon that lies in the midst of your rivers* (Ezek 29:3). Nevertheless, the Jews explain this as referring to Gog, who lives beyond Ethiopia, against whom the prophet Ezekiel testifies (Ezek 38).  
+second, deception on the part of the one who suffers the punishment: ***and it shall come to pass, when it is seen*** (Isa 16:12).  
 
-**476**. Second, he describes the help which they promised to the two tribes.  
+Now equity of punishment is disposed from the preceding fault, and therefore it orders the fault. And he sets out a double fault:  
 
-And first, he describes the manner of announcing, saying: ***they*** ***that***, namely, the Egyptian people, ***sends ambassadors***, that is, messengers, to the two tribes, ***in the sea***, that is, through the sea, ***and upon the waters***, of the river or the sea, ***in vessels of papyrus***, a kind of rush, from which they made small boxes for carrying letters, or reeds so large that they made ships from them, as is written in the history of Alexander:Cf. Haymo (805D) according to Hugo here. the word comes from *pyr*, which means “fire.”  
+first, against the contempt of the benefit they were promised;  
 
-**477**. Second, he sets out the command given to the ambassadors, in which he determines two things.  
+second, against the contempt of wholesome counsel they were given: ***take counsel*** (Isa 16:3).  
 
-First, the manner of announcing, saying: ***O angels***, that is, O my messengers, ***go, swift***, that is, swiftly.  
+**445**. Concerning the first, he does two things.  
 
-Second, the motive: ***to a nation***, namely, the nation of the two tribes, which he shows to be miserable from four things.  
+In the first, he promises the benefit of Christ to be born from their people, that they might receive some comfort. For Ruth the Moabitess married Booz, by whom she conceived Obed the father of Jesse, the father of David, from whom Christ was born, as it is said in Ruth 4:17. And therefore, he says: ***O Lord***, the Father, ***the lamb***, Christ (John 1:29); ***from the rock of the desert***, from Ruth the gentile, whose people were of stone, worshipping gods of stone, and because of this, deserted by God; ***to the mount***, Jerusalem, in which Christ was killed and rose again, or the Church; ***the ruler***: *to him that sits on the throne* (Rev 4:9).  
 
-First, from the magnitude of their affliction: ***rent***, from its proper strength by subjugation, ***and torn in pieces***, by affliction of punishment.  
+Second, the punishment of those who hold the promise in contempt is set out: ***and it shall come to pass, that as a bird fleeing away***, whence they fled or were led captive, above: ***my hand has found the strength of the people as a nest*** (Isa 10:14).  
 
-Second, from its former dignity: ***a terrible people***, formerly, ***after which there is no other***, to be compared in power, but now, ***expecting***, foreign help, ***trodden underfoot***, as though reduced to baseness.  
+**446**. Others wish, though it is tortured, to explain this literally of the tribute of lambs, which the king of Moab took from the king of Israel, as it says in 2 Kings 3:4, which the prophet foretells will be restored to the king of Jerusalem: ***the ruler***, as a sign of its lord; ***from Petra of the desert***, the place in which sheep are raised.  
 
-Third, from the power or iniquity of its enemies: ***whose land the rivers***, the kings of Assyria, ***have spoiled***, unjustly.  
+**447**. ***Take counsel***. Here he ordains the punishment against their contempt of the counsel they were given. And this is divided into three:  
 
-Fourth, from the holiness of the place: ***to the mountain***. And they were punished because they drew them away from the worship of God: *they shall be no more a confidence to the house of Israel* (Ezek 29:16).  
+in the first, he sets out the counsel;  
 
-**478**. ***All you inhabitants of the world***. Here he threatens the punishment, and concerning this, he does two things.  
+in the second, their contempt of the counsel: ***we have heard of the pride of Moab*** (Isa 16:6);  
 
-First, he shows the manifestation of the punishment: ***you shall see***, that is, it will be known to you, ***the sign***, the flag of Nabuchodonosor: *the nations have heard of your disgrace, and your howling has filled the land* (Jer 46:12); or, ***you shall see*** the abundance of the enemy, appearing in his army: *the strongest of nations, shall be brought to destroy the land* (Ezek 3:11).  
+in the third, the punishment of those who hold it in contempt, where it says, ***therefore shall Moab howl*** (Isa 16:7).  
 
-**479**. Second, he takes away their confidence in divine defense: ***for thus says the Lord***.  
+Concerning the first, he sets out three things.  
 
-And first, because he takes away the help of his defense from them: ***I will take my rest***, as though not helping you; ***and consider***, I will see what you can do: *I will consider what their last end shall be* (Deut 32:20).  
+First, he exhorts them to deliberation: ***take counsel***, as if to say: deliberate over how you might be saved. The counsel is the question itself which is moved among those taking counsel; the council is the congregation of those taking counsel. ***Gather a council***, as though having a strict counsel: *there is safety where there is much counsel* (Prov 11:14); *do you everything with counsel,*Omnia fac cum consilio*. Vg.: *sine consilio nihil facias*. DR: “do thou nothing without counsel.” and you shall not repent when you have done* (Sir 32:24).  
 
-Second, because he will give help to the enemy in fighting, as to counsel in doubtful things: ***as the noon light is clear***, so clearly will what they should do be shown to them; as to relief in labors, ***as a cloud***: *you have set up the right hand of them that oppress him* (Ps 88:43[89:42]).  
+**448**. Second, he sets out the contents of the counsel: ***make your shadow as the night***, in which he exhorts them to two things.  
 
-**480**. Third, where it says, ***before the harvest***, he describes a metaphor of the punishment, namely through the destruction of fruit in the field, and he sets out three things.  
+To receive the fleeing Jews, that they might prepare a hiding place: ***make your shadow as the night in the midday***, that is, prepare yourself to hide them so that they will be hidden in the day as if in the night; or ***in the midday***, in open persecution, that you might conceal ***them that flee***; ***hide them***, that hiding them, you might not reveal ***them that wander about***.  
 
-First, as to the ruin of the fruit which is ruined in the flower, when it begins to flower too quickly, ***for before the harvest it was all flourishing***; similarly, before Egypt had power, it showed the flower of its glory: concerning which it says below: ***all the glory thereof as the flower of the field*** (Isa 40:6). It is also ruined in the bud, when the humor from which the fruit ought to arise is not yet ripe: ***and it shall bud without perfect ripeness***; similarly, Egypt presumed beyond the power which it had. It is also ruined in the fruit, when the branches on which the fruit hangs are cut off: ***cut off***, before the maturation of the fruit: *he shall be blasted as a vine when its grapes are in the first flower* (Job 15:33); *substance got in haste shall be diminished* (Prov 13:11); *the inheritance gotten hastily in the beginning, in the end shall be without a blessing* (Prov 20:21).  
+He also exhorts them to amicably sustain those they have received: ***my fugitives shall dwell with you***, below: ***and a man shall be as when one is hid from the wind*** (Isa 32:2).  
 
-Second, he sets out removal of the remaining fruit: ***what is left*** finished by the Egyptians, by the Assyrians ***shall be cut away*** from its own strength, ***and shaken out*** from its place by the Chaldeans, below: ***as if a few olives, that remain, should be shaken out of the olive tree*** (Isa 24:13).  
+**449**. Third, he assigns the reason: ***for the dust is at an end***.  
 
-Third, he places the abandonment of the field itself: ***and they shall be left***, like an uncultivated field, which signifies the slaughter of men, after there were many beasts in the land of Egypt: *these things says the Lord God, say to every fowl, and to all the birds, and to all the beasts of the field: assemble yourselves, make haste, come together from every side to my victim, which I slay for you, a great victim upon the mountains of Israel: to eat flesh, and drink blood* (Ezek 39:17).  
+And first, as to the destruction of the enemy, lest they dismiss the Jews in the fear of them: ***the dust is at an end***, the multitude of the army of Sennacherib; ***consumed***, that is, killed by his sons, ***is the wretch***, Sennacherib, below: ***he has failed*** (Isa 37:38), as to power (Isa 14).  
 
-**481**. ***At that time***. Here the fruit of the punishment is set out, namely, that the people of the two tribes shall trust in God and shall call on his help with offerings of presents, above: ***and it shall come to pass in that day, that the remnant of Israel, and they that shall escape of the house of Jacob, shall lean no more upon him that strikes them: but they shall lean upon the Lord the Holy One of Israel*** (Isa 10:20).  
+Second, as to the restoration of the Jews, that they might do it freely; as to the preparation of the kingdom: ***a throne***, of the kings of the Judah, ***shall be prepared in mercy***, the mercy of God, or of a merciful king; as to the power of the king: ***one shall sit***, as if to say, he shall reign restfully; as to the equity of his judgments: ***in truth***; ***judging***, as to the pronouncing of sentences; ***seeking***, as to the examination of cases; ***rendering***, as to the execution of sentences. And this can be explained as referring to Ezechias or as referring to Christ, above: ***he shall sit upon the throne of David, and upon his kingdom*** (Isa 9:7).  
 
-**482**. Note on the words, ***it shall bud without perfect ripeness*** (Isa 18:5), that perfection is manifold:  
+**450**. Note on the words, ***send forth the lamb*** (Isa 16:1), that Christ is called a lamb  
 
-first, the perfection of nature: *so the heavens and the earth were finished**Perfecti*. (Gen 2:1);  
+first, because of the purity of his life: *it shall be a lamb without blemish, a male, of one year* (Exod 12:5);  
 
-second, of knowledge: *can man be compared with God, even though he were of perfect knowledge?* (Job 22:2);  
+second, because of the meekness of his death, below: ***as a lamb before his shearer, and he shall not open his mouth*** (Isa 53:7);  
 
-third, of grace: *perfect charity casts out fear* (1 John 4:18);  
+third, because of his expiation of sin: *behold the Lamb of God. Behold him who takes away the sin of the world* (John 1:29).  
 
-fourth, of glory: *but when that which is perfect is come, that which is in part shall be done away* (1 Cor 13:10).  
+**451**. Note on the words, ***from the rock of the desert*** (Isa 16:1), that the Blessed Virgin is called a rock  
 
-**483**. Note on the words, ***its bud***, that there is  
+first, because of the firmness of grace: *as everlasting foundations upon a solid rock* (Sir 26:24);  
 
-first, the bud of depraved authority: *woe to you, O land, when your king is a child, and when the princes eat in the morning* (Eccl 10:16);  
+second, because of the coolness of continence, below: ***as the shadow of a rock that stands out in a desert land*** (Isa 32:2);  
 
-second, of teaching of error: *but these men blaspheme whatever things they know not* (Jude 1:10);  
+third, because of the fruit of her womb: *the rock poured me out rivers of oil* (Job 29:6).  
 
-third, of presumptuous conjecture: *God has divided to every one* (Rom 12:3);  
+And note that this rock alone was of the desert,  
 
-fourth, of present consolation: *remember that you didst receive good things in your lifetime* (Luke 16:25).  
+because she was before all others, as to the first: *you are all fair, O my love* (Song 4:7);  
 
-**484**. Note on the words, ***shall a present be brought*** (Isa 18:6), that the present is manifold:  
+second, because she was first, as to the second: *we will run to the odor of your ointments* (Song 1:3);  
 
-first, that of fervent love: *a secret present quenches anger* (Prov 21:14);  
+she was a virgin, as to the third, above: ***behold a virgin shall conceive, and bear a son*** (Isa 7:14).  
 
-second, of devout prayer: *let my prayer rise*Ascendat*. Vg.: *dirigatur*. DR: “be directed.” as incense in your sight* (Ps 140[141]:2);  
+**452**. Note on the words, ***send forth*** (Isa 16:1), namely, you, Father, send the Son,  
 
-third, of perfect action: *I will not receive a gift of your hand* (Mal 1:10);  
+first, as the sun sends a ray: *the sun three times as much, burns the mountains* (Sir 43:4);  
 
-fourth, of due oblation: *vow and pay to the Lord your God: all you that are round about him bring presents. To him that is terrible* (Ps 75:12[76:11]).
+second, as a spring sends a stream: *I, like a channel of a river* (Sir 24:41);  
+
+third, as a father sends a son: *God so loved the world, as to give his only begotten Son* (John 3:16).  
+
+**453**. ***We have heard***. Here he sets out contempt of counsel proceeding from their pride. Hence he describes their pride as to three things:  
+
+first, as to its being made commonly known: ***we have heard***, as if it were public;  
+
+as to its quantity: ***he is exceeding proud***;  
+
+as to its exceeding their dignity: ***his pride***, by which he extolls himself as to the gifts he possesses, ***and his arrogancy***, by which he pretends to have gifts that he does not possess, ***and his indignation***, by which he presumptuously proposes vengeance, ***is more than his strength***.  
+
+**454**. ***Therefore***. Here he sets out the punishment of those who hold the counsel in contempt.  
+
+And first, the weeping of those to be punished: ***shall Moab howl to Moab***, that is, to each other, about which enough is said above (ch. 15).  
+
+Second, he describes the manner of punishment: ***to them that rejoice***; and he sets out three things.  
+
+First, the announcement of the punishment is proclaimed by prophets or messengers: ***them that rejoice***, they glory and trust in the fortifications of their brick walls: *if the watchman see the sword coming* (Ezek 33:6).  
+
+**455**. Second, the description of the punishment is set out as to the destruction of lands: ***Hesebon***, a city in whose territory wheat abounded; ***Sabama***, a neighboring city, in which wine abounded. As to the strength of their enemies: ***the lords of the nations***, that is, of Assyria or Chaldea, ruling over many nations; ***the branches***, that is, the shoots which are on the top of a vine, which metaphorically signify princes and distinguished persons; destroying, ***even to Jazer***—which is on the farthest border—as to the affliction of men, ***the lords of the nations have wandered***: *they wandered in a wilderness, in a place without water* (Ps 106[107]:4); the baseness of those who remain: ***the branches thereof***, which remain on the vine when the shoots have been cut off, without fruit or beauty: *leave the stump of its roots in the earth* (Dan 4:12); the removal of the captives: ***they are gone over the***, Moabitic, ***sea***, led captive into Babylon. Or ***the sea***, that is, the Euphrates, according to Hebrew usage: *they shall sell them to the Sabeans, a nation far off* (Joel 3:8); or this is interpreted as the Assyrians going over the sea and coming to destroy.  
+
+**456**. Third, the compassion of the prophet is set out.  
+
+And first, his compassion is set out: ***over this***, namely the misfortune of Moab, ***I will lament with the weeping of Jazer***, that is, weeping over that city of Moab, and similarly also ***the vineyard of Sabama, and Eleale***.  
+
+Second, the reason for his compassion is set out as to attack their enemies: ***the treaders***, that is, of the ravaging Assyrians. And as to the taking away of the joy that they had from abundance of grain: ***from Carmel***, that is, from fertility—for Carmel is not in Moab, but the Jews use proper nouns for appellatives; and the joy that they had in abundance of wine: ***in the vineyards*** (cf. Jer 48:33).  
+
+Third, the conclusion is inferred as from a proof: ***over this***, misfortune, ***my bowels***, that is, my senses, ***shall sound like a harp***, making a sound for lamentation, or because the harp increases joy in the cheerful and sadness in the sad, or because of the harmony of the virtues of the prophet.  
+
+**457**. ***And it shall come to pass***. Here he shows their frustration, concerning both the idols to which they sacrificed in high places and the idols to which they sacrificed in temples when they were in fear: *where are their gods, in whom they trusted?* (Deut 32:37).  
+
+**458**. ***This is the word***. Here is the epilogue. ***From that time***, from the death of the king Achaz.  
+
+**459**. ***And now***. Here he shows the shortness of the time: ***in three years***, which will be until their destruction and from the death of Achaz—in whose time was the vision of this second word—or in which your persecution or battle will last; ***the years of a hireling***, for after these, the Lord will repay to you the wages for your sins; or those who seem great are hirelings and small to the Lord: *the life of man upon earth is a warfare, and his days are like the days of a hireling* (Job 7:1).

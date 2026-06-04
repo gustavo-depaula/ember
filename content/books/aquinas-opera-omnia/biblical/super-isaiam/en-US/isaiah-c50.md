@@ -1,137 +1,133 @@
-# Chapter 50
+# Chapter 48
 
-> ^50:2^ Because I came, and there was not a man: I called, and there was none that would hear. Is my hand shortened and become little, that I cannot redeem? Or is there no strength in me to deliver? Behold at my rebuke I will make the sea a desert, I will turn the rivers into dry land: the fishes shall rot for want of water, and shall die for thirst.
+> ^48:2^ For they are called of the holy city, and are established upon the God of Israel: the Lord of hosts is his name.
 
-> ^50:3^ I will clothe the heavens with darkness, and will make sackcloth their covering.
+> ^48:3^ The former things of old, I have declared, and they went forth out of my mouth, and I have made them to be heard: I did them suddenly and they came to pass.
 
-> ^50:4^ The Lord has given me a learned tongue, that I should know how to uphold by word him that is weary: he wakens in the morning, in the morning he wakens my ear, that I may hear him as a master.
+> ^48:4^ For I knew that you are stubborn, and your neck is as an iron sinew, and your forehead as brass.
 
-> ^50:5^ The Lord God has opened my ear, and I do not contradict:*Contradico*. DR: “resist.” I have not gone back.
+> ^48:5^ I foretold you of old, before they came to pass I told you, lest you should say: my idols have done these things, and my graven and molten things have commanded them.
 
-> ^50:6^ I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.
+> ^48:6^ See now all the things which you have heard: but have you declared them? I have made you to hear new things*Audita feci tibi nova*. DR: “I have shown thee new things.” from that time, and things are kept which you know not.
 
-> ^50:7^ The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded.
+> ^48:7^ They are created now, and not of old: and before the day, when you heard them not, lest you should say: behold I knew them.
 
-> ^50:8^ He is near that justifies me, who will contend with me? Let us stand together. Who is my adversary? Let him come near to me.
+> ^48:8^ You have neither heard, nor known, neither was your ear opened of old. For I know that transgressing you will transgress, and I have called you a transgressor from the womb.
 
-> ^50:9^ Behold the Lord God is my helper: who is he that shall condemn me? Lo, they shall all be destroyed as a garment, the moth shall eat them up.
+> ^48:9^ For my name’s sake I will remove my wrath far off: and for my praise I will bridle you, lest you should perish.
 
-> ^50:10^ Who is there among you that fears the Lord, that hears the voice of his servant, that has walked in darkness, and has no light? Let him hope in the name of the Lord, and lean upon his God.
+> ^48:10^ Behold I have refined you, but not as silver, I have chosen you in the furnace of poverty.
 
-> ^50:11^ Behold all you that kindle a fire, girded*Accincti*. DR: “encompassed.” with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.
+> ^48:11^ For my own sake, for my own sake will I do it, that I may not be blasphemed: and I will not give my glory to another.
 
-> **909**. ***Thus says the Lord: what is this***. Here he begins to remove the impediments to their liberation.
+> ^48:12^ Hearken to me, O Jacob, and you Israel whom I call: I am he, I am the first, and I am the last.
 
-And first, he removes the impediments;  
+> ^48:13^ My hand also has founded the earth, and my right hand has measured the heavens: I shall call them, and they shall stand together.
 
-second, he applies the remedies: ***who has believed our report*** (ch. 53).  
+> ^48:14^ Assemble yourselves together, all you, and hear: who among them has declared these things? The Lord has loved him, he will do his pleasure in Babylon, and his arm shall be on the Chaldeans.
 
-Concerning the first, he removes three impediments:  
+> ^48:15^ I, even I have spoken and called him: I have brought him, and his way is made right.*Directa*. DR: “prosperous.”
 
-first, the lack of divine benefits;  
+> ^48:16^ Come near unto me, and hear this: I have not spoken in secret from the beginning: from the time before it was done, I was there, and now the Lord God has sent me, and his spirit.
 
-second, the dejection of persons: ***give ear to me, you that follow*** (ch. 51);  
+> ^48:17^ Thus says the Lord your redeemer, the Holy One of Israel: I am the Lord your God that teach you profitable things, that govern you in the way that you walk.
 
-third, poverty of goods: ***arise, arise*** (ch. 52).  
+> ^48:18^ O that you had hearkened to my commandments: your peace had been as a river, and your justice as the waves of the sea.
 
-Concerning the first, he does three things:  
+> ^48:19^ And your seed had been as the sand, and the offspring of your bowels like the gravel thereof: his name should not have perished, nor have been destroyed from before my face.
 
-first, he excludes the impediment;  
+> ^48:20^ Come forth out of Babylon, flee from the Chaldeans, declare it with the voice of joy: make this to be heard, and speak it out even to the ends of the earth. Say: the Lord has redeemed his servant Jacob.
 
-second, he gives himself as an example: ***the Lord has given*** (Isa 50:4);  
+> ^48:21^ They thirsted not in the desert, when he led them out: he brought forth water out of the rock for them, and he clove the rock, and the waters gushed out.
 
-third, he deduces salutary counsel: ***who is there among you that fears the Lord*** (Isa 50:10).  
+> ^48:22^ There is no peace to the wicked, says the Lord.
+
+> **884**. ***Hear these things, O house of Jacob***. Here he promises the liberation of the people. And this is divided into two parts:
+
+in the first, he promises liberation;  
+
+in the second, he describes the order of liberation, below: ***give ear, you islands*** (Isa 49:1).  
+
+The first is divided into two.  
+
+In the first, he stirs up attention, recalling three things in which they gloried, namely, the dignity of their race, because they come from holy fathers: ***out of the waters***, that is, the seed, ***of Judah***, against which it is said in Matthew 3:9: *and think not to say within yourselves, we have Abraham for our father*; the privilege of divine knowledge: ***you who swear***, invoking his name, ***remember***, as to knowledge of him, ***but not in truth***, of heart, ***nor in justice***, of works, above: ***this people with their lips glorify me, but their heart is far from me*** (Isa 29:13). The cult of holy religion: ***the holy city***, namely, Jerusalem, in which was the cult of sacrifices; ***they are called*** Jerusalemites: *God did not choose the people for the place’s sake, but the place for the people’s sake* (2 Macc 5:19).  
+
+**885**. Second, he promises liberation: ***the former things of old***. And concerning this, he does three things:  
+
+first, he shows the majesty of God who promises it;  
+
+second, he shows the prosperity of Cyrus who executes it: ***assemble yourselves together, all you***, etc.;  
+
+third, he promises liberation: ***come near unto me*** (Isa 48:16).  
 
 Concerning the first, he does two things:  
 
-first, he excludes the lack of divine benefits on the part of the divine will;  
+first, he shows the majesty of God from the foretelling of future things;  
 
-second, on the part of the divine power: ***is my hand shortened*** (Isa 50:2).  
+second, from the creation of things: ***hearken to me, O Jacob*** (Isa 48:12).  
 
-**910**. Concerning the first, he does three things.  
+**886**. Concerning the first, he does three things.  
 
-First, he excludes the lack of divine will, as though of his own accord God did not wish to benefit them, excluding a twofold manner of alienation, namely, the manner of alienating a wife, which occurred through a bill of divorce, as is said in Deuteronomy 24:1, which indeed was permitted to them because of the hardness of their hearts (Matt 19:8). ***What is this bill of the divorce of your mother?***  
+First, he assigns the reason for the foretelling of certain future things, setting out the foretelling itself: ***the former things***, which, namely, have already passed, ***of old***, when they were still to come, ***suddenly***, in regard to others, by whom they were not foretold: *he declares the things that are past, and the things that are to come* (Sir 42:19). And he sets out the reason for this, which is taken from their condition, which he sets out first: ***for I knew***, from eternity; ***stubborn*** toward coming to your senses from evils; ***your neck***, that is, the stiff-necked obstinacy of your own understanding; ***an iron sinew***, which cannot be bent; ***your forehead as brass***, because of your immodesty: *you stiff-necked* (Acts 7:51); *for I know your obstinacy, and your most stiff neck* (Deut 31:27); *you had a harlot’s forehead* (Jer 3:3). And then from this, he draws the reason: ***I foretold***; as if to say: that you were prone to idolatry, I foretold, lest you ascribe my benefits to idols: *I will go after my lovers, that give me my bread* (Hos 2:5). He sets out also the manifestation of what was foretold: ***the things which you have heard***, foretold to you by me, ***see***, them fulfilled: *as we have heard, so have we seen* (Ps 47:9[48:8]).  
 
-But, on the contrary, Jeremiah 3:8 says, *because Israel had played the harlot, I had put her away*.  
+**887**. Second, he assigns the reason for the hiding of other future things, first setting out the hiding itself, as was said, ***I foretold*** certain future things, but other future things ***are kept***, that is, in my foreknowledge, ***which you know not***, because I have not revealed them to you. ***Now***, that is, in time, ***they are created***, that is, brought into effect, ***and not of old***, when I foreknew them, ***and before the day***, of their fulfillment, ***when you heard them not***, neither from me, nor from the idols: *the Lord has hid it from me, and has not told me* (2 Kgs 4:27). He also assigns the reason for this: ***lest you should say: behold I knew them***, as if to say: therefore, I have not revealed them so that you may perceive your weakness and that of your gods, in that you cannot foreknow about future things, except what I reveal to you; ***I knew them***, by my own skill. ***You have neither heard***, from idols, ***neither was your ear opened***, by me: *man shall come to a deep heart* (Ps 63:7–8[64:6–7]). He also sets out their condition, from which this reason is drawn: ***for I know*; *from the womb***, that is, from the time when I carried you through the desert as in the womb: *I see that this people is stiff-necked* (Exod 32:9), above: ***with the prevarication of transgressors*** (Isa 24:16).  
 
-And to this is to be said that the Lord, considered in himself, did not repudiate them, but rather they, through their sins, put God away. He also excludes the manner of alienating a possession: ***or who is my creditor, to whom I sold you***, as if to say: if I should sell you, who are my inheritance (Isa 19:25), to him, what should I repay, not having anything else? Thus it is clear, because I did not alienate you from my dominion, that I am ready to benefit you of my own accord.  
+**888**. Third, he excludes a certain objection: ***for my name’s sake***. For someone may ask: when they are so stubborn, why do you promise and do good things for them?  
 
-**911**. Second, he shows the sin of human will: ***behold you are sold for your iniquities***: *but I am a carnal man, sold under sin* (Rom 7:14).  
+And he first sets out the response to this objection, recalling three benefits shown to them: ***for my name’s sake***, not because of your merits, ***I will remove my wrath far off***, or I have removed it, freeing you from punishment: *it is not for your sake that I will do this, O house of Israel, but for my holy name’s sake* (Ezek 36:22); ***and for my praise I will bridle you***, that is, I have bound you to my ceremonies and praises, lest you perish offering sacrifices to idols: *with bit and bridle bind fast their jaws* (Ps 31[32]:9). ***I have refined you***, wishing to cleanse you through trials, ***but not as silver***, which is cleansed, but you were not corrected: *the founder has melted in vain* (Jer 6:29); ***I have chosen you***, namely, cleansing you through poverty, punishing you by the plundering of your goods, Gregory: *those whom the sickness of habits wounds, the medicine of poverty heals*,Cf. *Homilies on the Gospels* 40.10 (PL 76, 1307D). and this by paternal correction.  
 
-Third, he sets out the argument: ***because I came***, through inspiration, ***I called***, through the prophets: *I called, and you refused* (Prov 1:24).  
+Second, he sets out the explanation of the response: ***for my own sake, that I may not be blasphemed***, as though I were powerless to save the people I have chosen for myself; ***and I will not give my glory to another***, lest, namely, idols be thought to be more powerful than I am, above: ***I will not give my glory to another, nor my praise to graven things*** (Isa 42:8).  
 
-**912**. ***Is my hand shortened?*** Here he excludes lack on the part of divine power, first excluding lack of power: ***shortened***, that I cannot subject them to me even from afar; ***little***, against the powerful, below: ***behold the hand of the Lord is not shortened*** (Isa 59:1).  
+**889**. ***Hearken to me***. Here he shows the divine majesty from the creation of things. ***I shall call them***, placing on each its proper work, ***and they shall stand***, ready to obey, above: ***who has poised with three fingers the bulk of the earth?*** (Isa 40:12).  
 
-Second, he sets out a sign of divine power: ***behold***,  
+**890**. ***Assemble yourselves***. Here he foretells Cyrus’s prosperity.  
 
-first, in the waters: ***at my rebuke***, that is, my command, ***I will make the sea a desert***, if I wish, as I did when Israel came forth from Egypt (Exod 14:15–31); ***I will turn the rivers into dry land***, like the Arnon (Num 21:13–20) and the Jordan (Josh 4); ***the fishes shall rot***, as in Exodus 7:16–21, when the waters were turned into blood: *he rebuked the Red Sea and it was dried up* (Ps 105[106]:9).  
+And first, he shows the hiding of this fact from others: ***who among them***, namely, the idols, as if to say: none of them, above: ***who has declared from the beginning?*** (Isa 41:26).  
 
-Second, he shows signs of his power in the heavens: ***I will clothe the*** aerialCf. *ST* I.68.4, resp. ***heavens with darkness***, as in Egypt (Exod 10:21); *who covers the heaven with clouds* (Ps 146[147]:8).  
+Second, he foretells his prosperity: ***the Lord has loved him***, namely, Cyrus, advancing him into kingship; ***he will do his pleasure in Babylon***, capturing it; ***and his arm shall be on the Chaldeans***, that is, killing them by my power: *and truly doing you shall do, and prevailing you shall prevail* (1 Sam 26:25).  
 
-**913**. ***The Lord has given me***. Here he gives himself as an example.  
+Third, he assigns the reason for his prosperity from divine help: ***I, even I***; ***his way is made right***, not absolutely, but so that he might destroy Babylon; otherwise, it cannot be explained of Cyrus, but only of Christ, as Jerome*In Isaiam* (461C; 530). says, for Cyrus was an idolater: *and he led them into the right way* (Ps 106[107]:7).  
 
-And first, as to the grace of the benefit he received, both as to eloquence: ***a learned tongue, that I should know how to uphold***, with encouragements: *your words have confirmed them that were staggering* (Job 4:4); and as to wisdom: ***he wakens my ear***, to listen, ***in the morning***, from the beginning of my preaching, or from the beginning of his life, or because he was then alone to pray: *I will meditate on you in the morning* (Ps 62:7[63:6]). ***The Lord God has opened my ear***, to understand: *I will hear what the Lord God will speak in me* (Ps 84:9[85:8]); *one is your master, Christ* (Matt 23:10).  
+**891**. ***Come near unto me***. Here he promises liberation. And concerning this, he does three things.  
 
-**914**. Second, he gives himself as an example as to obedience, setting out his perfect obedience: ***and I do not resist***, but I receive and accept his inspiration; ***I have not gone back***, from my good intention, above: ***woe to him that gainsays his maker*** (Isa 45:9). He also sets out the constancy of his obedience, that he did not abandon his obedience for any danger: ***I have given my body***, that is, I exposed myself that I should suffer such things; or perhaps he literally suffered these things, but in Christ this was completely fulfilled (Matthew 26 and 27): *I have given my dear soul into the hand of enemies* (Jer 12:7).  
+First, he stirs up attention, setting out divine authority: ***I have not spoken in secret***, but *all the people saw the voices* (Exod 20:18), ***from the beginning*** of the law given, ***from the time***, past, ***before it was done***, what I foretell, ***I was there***, present to those future things, remaining through the same “now” of eternity in the whole succession of time; or in the person of the Son: ***I was there***, namely, in the Father according to his divinity: *when he balanced the foundations of the earth* (Prov 8:28); he sets out the truth of the prophet, who was sent by God: ***and now me***, Isaiah; or ***me***, Christ made man, ***the Lord God***, the Father, ***has sent, and his Spirit***; thus the three persons are designated, below: ***the spirit of the Lord is upon me*** (Isa 61:1).  
 
-**915**. Third, he gives himself as example as to the trust which he had in God,  
+**892**. Second, where it says, ***thus says the Lord***, he sets out the reason for their captivity, showing on the part of God, ready help: ***that teach***, against their ignorance, and ***that govern you in the way***, of works, against the weakness of their working: *I will give you understanding, and I will instruct you in this way, in which you shall go* (Ps 31[32]:8). He also shows the harm from the fault of the Jews: ***O that you had hearkened to my commandments***, keeping them; ***as a river***, abounding, ***as the waves***, the same: *if my people had heard me: if Israel had walked in my ways: I should soon have humbled their enemies, and laid my hand on them that troubled them* (Ps 80:14–15[81:13–14]).  
 
-first, setting out his ready defense: ***the Lord God is my helper***: *the Lord is with me as a strong warrior* (Jer 20:11);  
+**893**. Third, where it says, ***come forth***, he foretells their liberation. And concerning this, he does three things.  
 
-second, the security of his trust: and ***I set my face as a most hard rock***, that I might be moved by neither fear nor shame: *I have made your face like an adamant and like flint* (Ezek 3:9);  
+First, he proclaims to them their going forth from captivity, so certain of their liberation as if it were present: ***come forth***: *go out from her* (Rev 18:4); and he enjoins that they should declare the benefit of God: ***declare***: *the voice of them that flee, and of them that have escaped out of the land of Babylon: to declare in Zion the revenge of the Lord our God* (Jer 50:28).  
 
-third, he assigns the reason for this security from the power of the one who helps him: ***he is near that justifies me***, namely, God. ***Who will contend with me***, with words; ***let us stand together***: *set me beside you, O Lord, and let any man’s hand fight against me* (Job 17:3); ***who is my adversary***, with deeds. ***Who is he that shall condemn me***, with false judgments: *God is he that justifies: who is he that shall condemn?* (Rom 8:33–34);  
+Second, he designates to the liberated the past benefit of consolation: ***they thirsted not***, that is, the Lord will so provide for them in all things, as when they came forth from Egypt: *he struck the rock, and the waters gushed out* (Ps 77[78]:20), Numbers 21:16.Cf. Numbers 20:13.  
 
-again, he assigns the reason for this security from the weakness of those who attack him: ***lo, they shall all be destroyed as a garment***, with old age, in which is signified natural defect, ***the moth***, in which is signified the violent man: *who am to be consumed as rottenness, and as a garment that is moth-eaten* (Job 13:28); as if to say: from all these things, just as I, after the benefits I received, obey God and trust in him, so should you also.  
+Third, he removes the comfort of peace from the wicked: ***there is no peace***, below (Isa 57:21); *what have you to do with peace?* (2 Kgs 9:18).  
 
-**916**. ***Who is there among you?*** Here he deduces salutary counsel from his own example.  
+**894**. Poverty confers (see 48:10),  
 
-And first, he sets out the counsel;  
+recognition of sins, *if they are bound*,Cf. Job 36:13. etc.;  
 
-second, he sets out their contempt of this counsel: ***behold all you*** (Isa 50:11).  
+conservation of virtues: *the poor man is glorified by his discipline and fear* (Sir 10:33);  
 
-Now, he gives counsel that they should trust in God, and thus he does three things.  
+peace of heart: *our poverty was sufficient for us* (Tob 5:25);  
 
-First, he seeks after the fittingness of trust, which is from fear and obedience: ***that fears the Lord, that hears the voice of his servant***, Isaiah, or any other servant: *who is the man that fears the Lord?* (Ps 24[25]:12);  
+fulfillment of desire: *the Lord has heard the desire of the poor* (Ps 9:38[10:17]);  
 
-second, he shows the necessity of trust: ***that has walked in darkness***, of error, or adversity: *he who walks in the night, stumbles* (John 11:10);  
+participation in divine sweetness: *in your sweetness, O God, you have provided for the poor* (Ps 67:11[68:10]);  
 
-third, he sets out the counsel itself: ***let him hope in the name of the Lord***, above: ***the remnant of Israel*** (Isa 10:20).  
+exaltation: *he raises up the needy from the dust* (1 Sam 2:8);  
 
-**917**. ***Behold all you***. Here he sets out their contempt of this counsel, setting out three things.  
+a heavenly inheritance: *blessed are the poor in spirit: for theirs is the kingdom of heaven* (Matt 5:3).  
 
-First, their fault: ***you that kindle***, by your sins, ***a fire***, meriting it for yourselves, ***girded***, as though bound by your sins, or ready for sin, above: ***and your strength shall be as the ashes of tow*** (Isa 1:31);  
+**895**. The words of God are profitable (see 48:17),  
 
-second, he sets out the punishment: ***walk in the light of your fire***, as if to say: receive your punishment: *the sinner has been caught in the works of his own hands* (Ps 9:17[16]);  
+for the illumination of the intellect: *the commandment is a lamp* (Prov 6:23);  
 
-third, he sets out the power of the one who punishes: ***by my hand***, namely, by the power of God; ***you shall sleep***, in the sleep of death.  
+for the delight of the affections: *how sweet are your words to my palate* (Ps 118[119]:103);  
 
-**918**. Note on the words, ***you are sold for your iniquities*** (Isa 50:1), that man sells many things for sins:  
+for the kindling of love: *there came in my heart as a burning fire* (Jer 20:9); *the word of the Lord inflamed him* (Ps 104[105]:19);  
 
-first, the virtue of his soul: *they have given all their precious things for vile things**Vili*. Vg.: *cibo*. DR: “food.” (Lam 1:11);  
+for the uprightness of works: *direct me in your truth* (Ps 24[25]:5);  
 
-second, his heavenly inheritance: *the Lord be merciful to me, and not let me sell**Vendam*. Vg.: *dem*. DR: “give.” *the inheritance of my fathers* (1 Kgs 21:3);  
+for the obtainment of glory: *keep the law* (Prov 3:21);  
 
-third, the liberty of his soul: *there is not a more wicked thing than to love money* (Sir 10:10);  
-
-fourth, the honor of divine love: *the Lord loves the children of Israel* (Hos 3:1).  
-
-**919**. Also, on the words, ***and I do not contradict*** (Isa 50:5), note that they contradict God,  
-
-who, first, are unfaithful to divine truth: *in nowise contradict**Contradicas*. DR: “speak against.” *the truth* (Eccl 4:30);  
-
-second, those who are impatient with divine correction: *who contradict**Contradicit*. Vg.: *restitit*. DR: “ hath resisted.” *him, and has had peace?* (Job 9:4);  
-
-third, those who are impenitent toward the divine goodness, above: ***they shall be as nothing, and the men shall perish that contradictContradicunt*. DR: “strive against.” ***thee*** (Isa 41:11);  
-
-fourth, those who are disobedient toward divine authority: *your people are as they that contradict the priest* (Hos 4:4).  
-
-**920**. Note also on the words, ***you shall sleep in sorrows*** (Isa 50:11), that sinners are sorrowful in death:  
-
-first, because of the loss of bodily things: *the rich man when he shall sleep shall take away nothing with him* (Job 27:19);  
-
-second, because of the contradiction of their conscience: *repenting, and groaning for anguish of spirit* (Wis 5:3);  
-
-third, because of the despair of future glory: *the crown is fallen from our head: woe to us, because we have sinned* (Lam 5:16);  
-
-fourth, because of the fear of punishment: *there were pains as of a woman in labor* (Ps 47:7–8[48:6–7]).
+for the instruction of others: *all divine doctrine* (2 Tim 3:16).

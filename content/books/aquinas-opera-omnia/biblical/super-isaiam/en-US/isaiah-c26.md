@@ -1,209 +1,165 @@
-# Chapter 26
+# Chapter 24
 
-> ^26:2^ Open the gates, and let the just nation, that keeps the truth, enter in.
+> ^24:2^ And it shall be as with the people, so with the priest: and as with the servant so with his master: as with the handmaid, so with her mistress: as with the buyer, so with the seller: as with the lender, so with the borrower: as with him that calls for his money, so with him that owes.
 
-> ^26:3^ The old error is passed away: you will keep peace: peace, because we have hoped in you.
+> ^24:3^ With desolation shall the earth be laid waste, and it shall be utterly spoiled: for the Lord has spoken this word.
 
-> ^26:4^ You have hoped in the Lord for eternal ages,*In saeculis aeternis*. DR: “for evermore.” in the Lord God mighty for ever.
+> ^24:4^ The earth mourned, and faded away, and is weakened: the world faded away, the height of the people of the earth is weakened.
 
-> ^26:5^ For he shall bring down them that dwell on high, the high city he shall lay low. He shall bring it down even to the ground, he shall pull it down even to the dust.
+> ^24:5^ And the earth is killed*Interfecta*. Vg.: *infecta*. DR: “infected.” by the inhabitants thereof: because they have transgressed the laws, they have changed the ordinance, they have broken the everlasting covenant.
 
-> ^26:6^ The foot shall tread it down, the feet of the poor, the steps of the needy.
+> ^24:6^ Therefore shall a curse devour the earth, and the inhabitants thereof shall sin: and therefore they that dwell therein shall be mad, and few men shall be left.
 
-> ^26:7^ The way of the just is right, the path of the just is right to walk in.
+> ^24:7^ The vintage has mourned, the vine has languished away, all the merry have sighed.
 
-> ^26:8^ And in the way of your judgments, O Lord, we have patiently waited for you: your name, and your remembrance are the desire of the soul.
+> ^24:8^ The mirth of timbrels has ceased, the noise of them that rejoice is ended, the melody of the harp is silent.
 
-> ^26:9^ My soul has desired you in the night: yea, and with my spirit within me in the morning early I will watch to you. When you shall do your judgments on the earth, the inhabitants of the world shall learn justice.
+> ^24:9^ They shall not drink wine with a song: the drink shall be bitter to them that drink it.
 
-> ^26:10^ Let us have pity on the wicked, but he will not learn justice: in the land of the saints he has done wicked things, and he shall not see the glory of the Lord.
+> ^24:10^ The city of vanity is broken down, every house is shut up, no man comes in.
 
-> ^26:11^ Lord, let your hand be exalted, and let them not see: let the envious people see, and be confounded: and let fire devour your enemies.
+> ^24:11^ There shall be a crying for wine in the streets: all mirth is forsaken: the joy of the earth is gone away.
 
-> ^26:12^ Lord, you will give us peace: for you have wrought all our works for us.
+> ^24:12^ Desolation is left in the city, and calamity shall oppress the gates.
 
-> ^26:13^ O Lord our God, other lords besides you have had dominion over us, only in you let us remember your name.
+> ^24:13^ For it shall be thus in the midst of the earth, in the midst of the people, as if a few olives, that remain, should be shaken out of the olive tree: or grapes, when the vintage is ended.
 
-> ^26:14^ Let not the dead live, let not the giants rise again: therefore have you visited and destroyed them, and have destroyed all their memory.
+> ^24:14^ These shall lift up their voice, and shall give praise: when the Lord shall be glorified, they shall whinny*Hinnient*. DR: “make a joyful noise.” from the sea.
 
-> ^26:15^ You have indulged*Indulsisti*. DR: “been favourable to.” the nation, O Lord, you have indulged*Indulsisti*. DR: “been favourable to.” the nation: are you glorified? You have removed all the ends of the land*Terrae*. DR: “earth.” far off.
+> ^24:15^ Therefore glorify the Lord in instruction: the name of the Lord God of Israel in the islands of the sea.
 
-> ^26:16^ Lord, they have sought after you in distress, in the tribulation of murmuring your instruction was with them.
+> ^24:16^ From the ends of the earth we have heard praises, the glory of the just one. And I said: my secret to myself, my secret to myself, woe is me: the prevaricators have prevaricated, and with the prevarication of transgressors they have prevaricated.
 
-> ^26:17^ As a woman with child, when she draws near the time of her delivery, is in pain, and cries out in her pangs: so are we become in your presence, O Lord.
+> ^24:17^ Fear, and the pit, and the snare are upon you, O you inhabitant of the earth.
 
-> ^26:18^ We have conceived, and been as it were in labor, and have brought forth wind: we have not wrought justice*Iustitiam*. Vg.: *salutes*. DR: “salvation.” on the earth, therefore the inhabitants of the earth have not fallen.
+> ^24:18^ And it shall come to pass, that he that shall flee from the noise of the fear, shall fall into the pit: and he that shall rid himself out of the pit, shall be taken in the snare: for the flood-gates from on high are opened, and the foundations of the earth shall be shaken.
 
-> ^26:19^ Your dead men shall live, my slain shall rise again: awake, and give praise, you that dwell in the dust: for your dew is the dew of the light: and the land of the giants you shall pull down into ruin.
+> ^24:19^ With breaking shall the earth be broken, with crushing shall the earth be crushed, with trembling shall the earth be moved.
 
-> ^26:20^ Go, my people, enter into your chambers, shut your doors upon you, hide yourself a little for a moment, until the indignation pass away.
+> ^24:20^ With shaking shall the earth be shaken as a drunken man, and shall be removed as the tent of one night: and the iniquity thereof shall be heavy upon it, and it shall fall, and not rise again.
 
-> ^26:21^ For behold the Lord will come out of his place, to visit the iniquity of the inhabitant of the earth against him: and the earth shall disclose her blood, and shall cover her slain no more.
+> ^24:21^ And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth.
 
-> **597**. ***In that day***. In this part, he gives thanks for the justification of the people, and it is divided into two parts:
+> ^24:22^ And they shall be gathered together as in the gathering of one bundle into the pit, and they shall be shut up there in prison: and after many days they shall be visited.
 
-in the first, he foretells the state of the just;  
+> ^24:23^ And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Zion, and in Jerusalem, and shall be glorified in the sight of his ancients.
 
-in the second, he shows the fruit of justice: ***the old error*** (Isa 26:3).  
+> **565**. ***Behold the Lord***. In this part, he threatens the destruction of the entire earth, either that which was carried out in particular kingdoms and different regions, or that which is to come in the day of judgment, according to what is said above, ***this is the counsel, that I have purposed upon all the earth*** (Isa 14:26); however, some explain this as pertaining to the land of the Jews, or the land of Babylon, or the land of the Idumeans. And it is divided into two parts:
 
-Concerning the first, he does two things.  
+in the first, he threatens against the inhabitants of the land;  
 
-For first, he foretells the confidence of the just: ***in that day***, after the return from captivity and the affliction of the Moabites by the Maccabees, or after the coming of Christ; ***O Zion, the savior***, Christ, or Judas Maccabeus, is ***a city of strength*; *therein***, namely, in protection, ***a wall and a bulwark shall be set***, these only literally in the time of the Maccabees; or ***a wall***, Christ, ***a bulwark***, the prophets. Or otherwise: ***Zion*** is the city, ***the savior***, God, or Christ, or Judas Maccabeus, ***a wall***, that is, defending like a wall: *the name of the Lord is a strong tower* (Prov 18:10); *I will be to them, says the Lord, a wall of fire round about* (Zech 2:5).  
+in the second, against the rulers of the peoples: ***and it shall come to pass, that in that day*** (Isa 24:21).  
 
-**598**. Second, the Lord foretells their justice, saying to the angels: ***open the gates***, of heaven or of virtue, closed by sins; or, literally: it is not necessary for you to close the gates because of the unfaithful, for they are all just: *this is the gate of the Lord, the just shall enter into it* (Ps 117[118]:20).  
+Concerning the first, he sets out three things:  
 
-**599**. ***The old error***. Here he sets out the fruit of justice, namely, peace; for which is first set out the petition of the people, which contains three things.  
+first, the destruction of men;  
 
-For the suitableness of the petitioners is set out: ***the old error***, namely, of idolatry: *the old things are passed away* (2 Cor 5:17); the benefit of peace is asked for: ***you will keep peace***, of body and soul, below: ***my people shall sit in the beauty of peace*** (Isa 32:18); their meriting of peace is alleged: ***because we have hoped in you***: *who*Quis*. Vg.: *nullus*. DR: “no one.” has hoped in the Lord, and has been confounded?* (Sir 2:11).  
+second, the removal of joys, where it says: ***the vintage has mourned*** (Isa 24:7);  
 
-**600**. Second, the response of the prophet is set out, who is the mediator between the people and God: ***you have hoped***. And this is divided into three parts:  
+third, a multitude of dangers: ***the prevaricators*** (Isa 24:16).  
 
-in the first, the promise of peace is set out;  
+**566**. Concerning the first, he does three things.  
 
-in the second, the procurement of peace: ***the way of the just*** (Isa 26:7);  
+First, he threatens destruction: ***the Lord shall strip it***, purging it of inhabitants; ***lay waste***, depriving it of those who cultivate it; ***afflict***, with various punishments, ***the face***, that is, inhabitants on its surface; ***scatter abroad***, dividing them into various parts by captivity: *I have stripped you*Nudans spoliavi te*. Vg.: *nudans spoliavit eam*. DR: “he hath stripped it bare.” bare* (Joel 1:7).  
 
-in the third, the announcement of the procured peace: ***the inhabitants of the world shall learn justice*** (Isa 26:9).  
+**567**. Second, the universality of destruction as to those punished, making equal those who differ in rank: ***as with the people*, *so with the priest***; in condition: ***as with the servant so with his master***; in possession of things: ***as with the buyer, so with the seller***: *the small and great are there, and the servant is free from his master* (Job 3:19). As to the diversity of punishments: ***with desolation***, setting out the loss as to immovable things: ***the earth shall be laid waste***; as to movable things: ***it shall be spoiled***: *with desolation is all the land made desolate* (Jer 12:11). As to the downfall of power, ***the earth mourned, and faded away***, using the past tense for the future, that is, it shall fade away, mourning for its weakness; and this is: ***is weakened***, that this may be said as to the common people; but as to the powerful, ***the world***, that is, leaders of the world, ***faded away***, above: ***I will visit the evils of the world*** (Isa 13:11). And he sets out the killing of men: ***and the earth is killed***: *the land was killed**Interfecta*. Vg.: *infecta*. DR: “polluted.” (Ps 105[106]:38).  
 
-**601**. Concerning the first, he does three things.  
+**568**. Third, he shows the equity of the punishment: ***because they have transgressed***, and he does this by comparing it to their fault; hence he does two things.  
 
-First, he concedes their merit: ***you have hoped in the Lord for eternal ages***, that is, forever: *in him has my heart confided, and I have been helped* (Ps 27[28]:7).  
+First, he sets out their fault: ***they have transgressed the laws***, written or natural; ***the ordinance***, of custom; ***the covenant***, of friendship, ***everlasting***, because it is caused by likeness of kind: *they have transgressed my covenant, and have violated my law* (Hos 8:1); *they have polluted the sanctuary, they have acted unjustly against the law* (Zeph 3:4).  
 
-Second, he adds counsel: ***in the Lord God***, that is, hope ***in the Lord God***: *he that shall persevere unto the end, he shall be saved* (Matt 10:22).  
+**569**. Second, he threatens a fourfold punishment because of this fault:  
 
-Third, he promises the benefit of peace for the destruction of enemies: ***for he shall bring down them that dwell***. The Jews say this refers to the Romans, but it can refer to any of their enemies, or, mystically, to the Jews themselves, above: ***the bulwarks of your high walls shall fall*** (Isa 25:12). And he adds the condition of those who destroy them: ***the foot shall tread it down, the feet of the poor***, the Jews, who have little; ***the needy***, who need to have many things. Or, if taken mystically, he sets out the Jews’ meriting of destruction on account of the poor Christ, of whom it says in Psalm 69:6[70:5]: *but I am needy and poor*, and also: *but I am poor and sorrowful* (Ps 68:30[69:29]); ***the needy***, the disciples.  
+first, a divine curse: ***a curse***: *the land has mourned by reason of cursing* (Jer 23:10);  
 
-**602**. ***The way of the just***. Here is set out, as it were, a dispute of the prophet with the Lord, to obtain the petition of the people.  
+second, divine desertion: ***they shall sin***, as if the Lord has abandoned them: *for this cause, God delivered them up to shameful affections* (Rom 1:26); *he that is filthy, let him be filthy still* (Rev 22:11);  
 
-And first, he urges him by arguments to punish their enemies;  
+third, they shall be made foolish: ***therefore they shall be mad***: *they were turned aside into vanities* (Ps 77[78]:57);  
 
-second, he urges him from experience: ***you have indulged*** (Isa 26:15).  
+fourth, reduction in numbers: ***few men shall be left***: *you shall remain few in number* (Deut 28:62).  
 
-Concerning the first, he does two things:  
+**570**. ***The vintage has mourned***. Here he threatens the removal of joys as to the wicked;  
 
-first, he urges him to punish them;  
+and second, he sets out the joys of the good: ***as if a few olives*** (Isa 24:13).  
 
-second, to detain them in punishment: ***let not the dead live*** (Isa 26:14).  
+Concerning the first, he does three things.  
 
-Concerning the first, he does three things:  
+First, he sets out the ending of joy which came from three things:  
 
-first, he urges him to justice;  
+either in the fertility of things, ***the vintage has mourned***, failing, that is, it was the cause of mourning, above: ***there shall be no rejoicing nor shouting in the vineyards*** (Isa 16:10).  
 
-second, he excludes mercy: ***let us have pity*** (Isa 26:10);  
+Or in the playing of games: ***the mirth of timbrels has ceased***: *the voice of harpers, harping on their harps* (Rev 14:2).  
 
-third, he determines the punishment: ***and he shall not see the glory of the Lord*** (Isa 26:10).  
+Or in the pleasures of feasts: ***they shall not drink wine with a song***, above: ***the harp, and the lyre, and, the timbrel and the pipe, and wine are in your feasts*** (Isa 5:12).  
 
-**603**. Now he provokes him to justice by setting out three things.  
+**571**. Second, he sets out the recompense of sadness: ***the drink shall be bitter***, for in their feasts, they will have sadness, against the pleasures of feasts: *I will turn your feasts into mourning* (Amos 8:10). ***The city of vanity is broken down***, against the vanity of games, *all things are vanity* (Ps 38:6[39:5]); *vanity of vanities, and all is vanity* (Eccl 1:2); ***the city***, of Babylon, any soul. ***There shall be a crying***, of those lamenting over the lack of wine, against fertility: *in all vineyards there shall be wailing* (Amos 5:17).  
 
-First, the rightness of justice: ***the way of the just***, that is, of justice: *the Lord*Dominus*. Vg.: *haec*. DR: “she” (i.e., Wisdom). conducted the just through the right ways* (Wis 10:10).  
+**572**. Third, he concludes the exchange: ***all mirth is forsaken***, exchanged for sadness: *woe to you that laugh: for you shall weep* (Luke 6:25); *laughter shall be mingled with sorrow* (Prov 14:13).  
 
-Second, the expectation of the afflicted, setting out three things:  
+**573**. ***As if***. Here he places the joys of the good.  
 
-the expectation itself, ***in the way***, that is, through the punishment, ***of your judgments***, by which you vindicate and liberate us: *your justifications I will never forget: for by them you have given me life* (Ps 118[119]:93);  
+And first, he foretells the praise of those to come, whose salvation he foretells: ***as if a few***; few will be saved, in relation to the others, above: ***the fruit thereof that shall be left upon it, shall be as the shaking of the olive tree, two or three berries in the top of a bough*** (Isa 17:6). And he places their praise: ***these shall give praise*; *they shall whinny***, like horses to signify their great joy, below: ***the voice of your watchmen: they have lifted up their voice, they shall praise together*** (Isa 52:8).  
 
-the desire of those in expectation: ***your name***: *this is the name that they shall call him, the Lord our just one* (Jer 33:16).  
+**574**. Second, he introduces praise in the present: ***therefore***.  
 
-The constancy of the desire, ***for day and night***, that is, at all times, or in prosperity and adversity, ***my soul has desired you***: *in my bed I sought him whom my soul loves* (Song 3:1); *O God, my God, to you do I watch at break of day* (Ps 62:2[63:1]).  
+And first, he places the precept, ***glorify the Lord in instruction***, that is, in teaching others; another translation has: ***in praises***: *glorify the Lord as much as ever you can, for he will yet far exceed* (Sir 43:32[30]).  
 
-Third, he sets out the usefulness of justice: ***when you shall do your judgments on the earth, the inhabitants of the world shall learn justice***: *the Lord shall be known when he executes judgments* (Ps 9:17[16]).  
+Second, he designates the fulfillment of the precept: ***from the ends of the earth we have heard praises, the glory of the just one***, that is, Christ, below: ***behold the Lord has made it to be heard in the ends of the earth*** (Isa 62:11).  
 
-**604**. ***Let us have pity***. Here he excludes mercy, and concerning this, he does two things.  
+Third, the reward of those who fulfill it: ***and I said: my secret***, of their reward: *eye has not seen, nor ear heard: neither has it entered into the heart of man, what things God has prepared for them that love him* (1 Cor 2:9); ***to myself***, alone. ***Woe is me***, for I cannot tell of it to others: *I heard secret words which it is not granted to man to utter* (2 Cor 12:4). Of the punishments of the damned: ***woe is me***, such great punishments I see; and thus this belongs with the following part.  
 
-First, the Lord proposes mercy interrogatively: ***let us have pity***: *the earth is full of the mercy of the Lord* (Ps 32[33]:5).  
+**575**. ***The prevaricators***. Here he threatens a multitude of dangers, and concerning this, he does two things.  
 
-Second, the prophet excludes it, because of its uselessness: ***but he will not learn***: *because sentence is not speedily pronounced against the evil, the children of men commit evils without any fear* (Eccl 8:11); *a horse not broken becomes stubborn, and a child left to himself will become headstrong* (Sir 30:8); and because of the gravity of the sin, because it profanes a holy place: ***in the land of the saints he has done wicked things***: *O God, the heathens are come into your inheritance, they have defiled your holy temple* (Ps 78[79]:1); *what is the meaning that my beloved has wrought much wickedness in my house?* (Jer 11:15).  
+First, he denounces the diversity of their sins: ***prevaricators***, by omission, ***transgressors***, by commission, *I have accounted all the sinners of the earth prevaricators* (Ps 118[119]:119).  
 
-**605**. ***And he shall not see***. Here the dispute to determine the punishment is set out.  
+Second, he threatens a multitude of dangers.  
 
-And first, the Lord asks: ***and he shall not see the glory of the Lord***, as if to say, “should I give this punishment to him because he does not see?” Or forbearingly, “and this suffices for punishment.”  
+And first, he sets out this multitude: ***fear***. He speaks in likeness to those who flee pursuers because of fear, above: ***they shall fall, and shall be broken in pieces*** (Isa 8:15); *a voice of terror* (Jer 30:5).  
 
-**606**. Second, the prophet responds: ***Lord, let your hand be exalted***.  
+**576**. Second, the impossibility of escaping: ***and it shall come to pass, that he that shall flee from the noise of the fear, shall fall into the pit***: as if to say, he will decide upon Scylla, wanting to avoid Charybdis: *that which the palmerworm has left, the bruchus has eaten* (Joel 1:4). And he assigns the cause: for tribulation will come to them from both heaven and from earth, and this is ***the flood-gates***, that is, hidden channels through which water flows: *the floodgates of heaven were opened* (Gen 7:11).  
 
-**607**. Third, the Lord determines the spiritual punishment: ***let the envious people see, and be confounded***: *every eye shall see him* (Rev 1:7), in the glory of his humanity, not of his divinity; and the bodily punishment: ***let fire devour your enemies***: *they were cast alive into the pool of fire* (Rev 19:20).  
+**577**. Third, he shows the impossibility of reparation under a threefold similitude, namely,  
 
-**608**. Fourth, the prophet consents rejoicing, setting out two good consequences from these punishments: the peace of the people, therefore, ***Lord***, this having been done, ***you will give us peace***, and we hope for this from you: ***for all our works***: *it is God who works in you, both to will and to accomplish* (Phil 2:13), ***you have wrought***, the ***works***, that is, the punishments, by which you have sufficiently cleansed us, below: ***she has received of the hand of the Lord double*** (Isa 40:2).  
+of divided things, which are not restored: ***breaking***, as to division into large parts, ***crushing***, as to division into small parts: *behold the eyes of the Lord God are upon the sinful kingdom, and I will crush*Conteram*. DR: “destroy.” it from the face of the earth* (Amos 9:8);  
 
-Second, the praise of God: ***O Lord our God, other lords besides you have had dominion over us***, and therefore we could not give ourselves to praise of you; ***only in you***, to whom alone we give ourselves, having no other god: *servants have ruled over us* (Lam 5:8).  
+and through the similitude of shaken things, which are not made stable: ***with trembling shall the earth be moved***, from place to place, ***shaken***, as if trembling in its own place, ***as a drunken man***, above: ***they have caused Egypt to err in all its works, as a drunken man staggers and vomits*** (Isa 19:14);  
 
-**609**. Note on the words, ***the city of our strength*** (Isa 26:1), that Christ is the city of our strength, because he strengthens us:  
+and through the similitude of a traveler’s tent, which is not fixed firmly in the same place: ***as the tent***, below: ***my generation is at an end, and it is rolled away from me, as a shepherd’s tent*** (Isa 38:12). And he assigns the cause: ***and the iniquity thereof shall be heavy upon it***, like a heavy weight, so that it does not rise again: *what is heavier than lead?* (Sir 22:7[14]); *sin sits on a talent* (Zech 5:7); *my iniquities are as a heavy burden are become heavy upon me* (Ps 37:5[38:4]).  
 
-first, in faith: *other foundation no man can lay, but that which is laid: which is Christ Jesus* (1 Cor 3:11);  
+**578**. ***And it shall come to pass***. Here he threatens against the rulers of the people; and concerning this he sets out three things.  
 
-second, in hope: *we may have the strongest comfort, we who have fled for refuge to hold fast the hope set before us* (Heb 6:18);  
+First, he sets out their punishment: ***in that day***, of judgment; ***the Lord shall visit upon the host of heaven on high***, that is, the demons, ***and upon the kings of the earth***, these same demons: *now shall the prince of this world be cast out* (John 12:31); or also the wicked kings: ***and they shall be gathered together***, at the same time in hell: *which was prepared for the devil and his angels* (Matt 25:41); ***as in the gathering of one bundle***: *bind it into bundles to burn* (Matt 13:30), that they may be alike in punishment who were alike in sin: *I saw the beast and the kings of the earth and their armies, gathered together* (Rev 19:19). Or, ***in that day***, namely, the day of the destruction of particular kingdoms; ***the host of heaven on high***, the idols, namely, of the sun and moon and the other stars: *he adored all the host of heaven* (2 Kgs 21:3); ***and they shall be gathered together***, through destruction, below: ***all the host of the heavens shall pine away*** (Isa 34:4).  
 
-third, in charity: *being rooted and founded in charity* (Eph 3:17); *I am come to cast fire on the earth* (Luke 12:49);  
+**579**. Second, he designates the measure of the punishment as to time: ***and after many days they shall be visited***, for after however much time of torment, they shall be punished in eternity: *go, you cursed, into everlasting fire* (Matt 25:41); or in the day of judgment, that, when the judgment has been executed, they might return to hell immediately; or, according to another interpretation: they shall be consoled, for after the storm, he makes a calm for all (Tob 3:22).  
 
-fourth, in work: *it is God who works in you, both to will and to accomplish, according to his good will* (Phil 2:13);  
+**580**. Third, the glory of him who punishes,  
 
-fifth, in temptation: *God is faithful, who will not suffer you to be tempted above that which you are able* (1 Cor 10:13);  
+and first, of the judge: ***and the moon shall blush***, that is, its splendor shall be thought nothing in comparison to the splendor of the body of Christ: *the sun shall be turned into darkness, and the moon into blood: before the great and dreadful day of the Lord doth come* (Joel 2:31); or, the worshippers of the sun and moon.  
 
-sixth, in accusation: *we have an advocate with the Father, Jesus Christ* (1 John 2:1);  
+Second, of the judge’s assessors: ***when the Lord of hosts shall reign . . . and shall be glorified in the sight of his ancients***, above: ***the Lord will enter into judgment with the senatorsSenatoribus*. Vg.: *senibus*. DR: “ancients.” (Isa 3:14).  
 
-seventh, in reward: *I will make him a pillar in the temple of my God* (Rev 3:12).  
+**581**. Note on the words, ***the drink shall be bitter*** (Isa 24:9), that the drink of sin is bitter:  
 
-**610**. Note also on the words, ***open the gates*** (Isa 26:2), that we ought to open the gates through meditation,  
+first, because of the remorse of conscience: *her end is bitter* (Prov 5:4);  
 
-first, on the misery of hell, below: ***I shall go to the gates of hell*** (Isa 38:10);  
+second, because of the fear of death: *O death, how bitter is the remembrance of you* (Sir 41:1);  
 
-second, on the just life: *let her works praise her in the gates* (Prov 31:31);  
+third, because of the lack of divine sweetness: *know you, and see that it is an evil and a bitter thing for you, to have left the Lord your God* (Jer 2:19);  
 
-third, on the glory of heaven: *he has strengthened the bolts of your gates* (Ps 147:13).  
+fourth, because of the mourning of penance, below: ***I will recount to you all my years in the bitterness of my soul*** (Isa 38:15).  
 
-**611**. Note also on the word, ***peace*** (Isa 26:2), that there are three things that make peace in the present life:  
+**582**. Note on the word, ***secret*** (Isa 24:16), that the mighty works of God are secret:  
 
-first, contempt for temporal riches, below: ***but the wicked are like the raging sea, which cannot rest*** (Isa 57:20);  
+first, because of their greatness: *all men take not this word* (Matt 19:11); *if I have spoken to you earthly things, and you believe not: how will you believe, if I shall speak to you heavenly things?* (John 3:12);  
 
-second, subjugation of carnal concupiscence. *Living at peace in their houses* (Sir 44:6);  
+second, because of their dignity: *to you it is given to know the mysteries of the kingdom of heaven* (Matt 13:11), but to others, in parables;  
 
-third, contemplation of divine wisdom: *his place is in peace: and his abode in Zion* (Ps 75:3[76:2]).  
+third, because of the unsuitableness of others: *give not that which is holy to dogs* (Matt 7:6).  
 
-**612**. Note also on the words, ***the way of the just*** (Isa 26:7), that the way of justice is right:  
+**583**. Note on the words, ***and it shall come to pass, that in that day the Lord shall visit*** (Isa 24:21), that the visitation of the Lord is manifold:  
 
-first, because of the shortness of its course: *we have walked through hard ways* (Wis 5:7);  
+first, of condemnation: *in the time of their visitation they shall fall* (Jer 8:12);  
 
-second, because of the evenness of its site, whose mean does not vary: *knowing that he came from God and goes to God* (John 13:3);  
+second, of correction: *I will visit their iniquities with a rod* (Ps 88:33[89:32]);  
 
-third, because of its beauty: *the Lord bless you, the beauty of justice, the holy mountain* (Jer 31:23).  
-
-**613**. Note also on the word, ***peace*** (Isa 26:12), that there are three things that make peace in the future life:  
-
-first, the abundance of good things: *he has placed peace in your borders* (Ps 147:14);  
-
-second, freedom from evils, below: ***and my people shall sit in the tabernacles of confidence*** (Isa 32:18);  
-
-third, immobility: *in peace in the self same I will sleep, and I will rest* (Ps 4:9[8]).  
-
-**614**. ***Let not the dead live***. Here the prophet asks that God not free those punished from further punishment.  
-
-And first, he sets out the petition: ***let not the dead***, sinners, ***live***, in the life of glory, unless they repent; ***let not the giants***, glorying in their own power, ***rise again***, to glory: *the wicked shall not rise again in judgment* (Ps 1:5); *the ancient giants did not obtain pardon for their sins* (Sir 16:8[7]); or he asks that their fallen enemies not rise again further to power.  
-
-Second, he places the answer to the petition: ***therefore have you visited and destroyed them, and have destroyed all their memory***: *let their memory perish*Pereat*. Vg.: *periit*. DR: “their memory hath perished.” with a noise* (Ps 9:7[6]); *in the time of their visitation they shall fall* (Jer 8:12).  
-
-**615**. ***You have indulged***. Here he urges God to the work of justice from experience;  
-
-and first, from experience among the gentiles,  
-
-second, among to the Jews: ***as a woman with child*** (Isa 26:17).  
-
-Concerning the first, he does two things.  
-
-First, he demonstrates from the experience of the uselessness of mercy, both as to the remission of sins: ***you have indulged***, and as to the multiplication of good things: ***you have removed all the ends of the land far off***: *they become great and enriched, and they are grown gross and fat: and have most wickedly transgressed my words* (Jer 5:27–28); *the prosperity of fools shall destroy them* (Prov 1:32).  
-
-Second, the usefulness of avenging justice: ***Lord, they have sought after you in distress***: *in their affliction they will rise early to me* (Hos 6:1); *in the time of their affliction they will say: arise, and deliver us* (Jer 2:27).  
-
-**616**. ***As a woman with child***. Here he demonstrates the same thing from the experience among the Jews.  
-
-And first, he sets out the scourge of tribulation: ***as a woman with child***: *a woman, when she is in labor, has sorrow* (John 16:21); *there were pains as of a woman in labor* (Ps 47:7[48:6]).  
-
-Second, the fruit of amendment: ***so are we become in your presence***: *now all chastisement for the present indeed seems not to bring with it joy, but sorrow: but afterwards it will yield to them that are exercised by it the most peaceable fruit of justice* (Heb 12:11).  
-
-**617**. ***We have not wrought justice***. Here he announces the procured peace, and concerning this, he does three things.  
-
-First, the reason for the delay is shown: ***we have not wrought justice***, so that he alludes to what is said in Deuteronomy 28:7: *the Lord shall cause your enemies, that rise up against you, to fall down before your face*.  
-
-**618**. Second, the promise of restoration of the people through resurrection is set out, either bodily resurrection on the last day or resurrection from the misery of captivity. Hence resurrection is promised: ***your dead men shall live***, the voice of the prophet to the Lord (Ezek 37); the thanksgiving of the resurrected is announced: ***awake, and give praise***: *many of those that sleep in the dust of the earth, shall awake* (Dan 12:2); and the cause, or reason, of the resurrection is assigned: ***for your dew is the dew of the light***, namely, of divine kindness (Hos 6:3).  
-
-**619**. Third, the destruction of their enemies is shown, and first, he sets out the destruction itself: ***the land of the giants***, that is, of the proud and powerful, above: ***it shall be as a ruinous heap of stones*** (Isa 17:1).  
-
-Second, the immunity of the people of God: ***go, my people***; ***enter into your chambers***, tombs, or literally, the fortifications in which they sometimes carefully kept themselves, below: ***in a moment of indignation have I hid my face a little while from you, but with everlasting kindness have I had mercy on you*** (Isa 54:8); *and it was said to them that they should rest for a little time till the number of their brethren*Fratrum eorum*. Vg.: *conservi eorum, et fratres eorum*. DR: “their fellow servants and their brethren.” should be filled up* (Rev 6:11).  
-
-Third, he sets out the order of destruction, for it comes through judgment; hence he sets out the coming of the judge: ***for behold the Lord will come***: *behold the Lord will come forth* (Mic 1:3), and all the angels with him; and the revealing of their crimes: ***and the earth shall disclose her blood***: *O earth, cover not you my blood, neither let my cry find a hiding place in you* (Job 16:19).
+third, of consolation: *the Orient from on high has visited us* (Luke 1:78).

@@ -1,443 +1,563 @@
-# C. 12 - The New Life in Christ
+# C. 11 - Salvation of Both Jews and Gentiles
 
 ***Lectio 1***
 
-***Vita secundum gratiam***
+***Electio Dei reliquiarum Judaeorum***
 
-***^12:1^ Obsecro itaque vos fratres per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum. [n. 953]***
+***^11:1^ Dico ergo: numquid Deus repulit populum suum? Absit. Nam et ego Israëlita sum ex semine Abraham, de tribu Benjamin: [n. 859]***
 
-> ^12:2^ Et nolite conformari huic saeculo, sed reformamini in novitate sensus vestri: ut probetis quae sit voluntas Dei bona, et beneplacens, et perfecta. [n. 965]
+> ^11:2^ non repulit Deus plebem suam, quam praescivit. An nescitis in Elia quid dicit Scriptura? quemadmodum interpellat Deum adversum Israël: [n. 862]
 
-> ^12:3^ Dico enim per gratiam quae data est mihi, omnibus qui sunt inter vos, non plus sapere quam oportet sapere, sed sapere ad sobrietatem: et unicuique sicut Deus divisit mensuram fidei. [n. 968]
+> ^11:3^ Domine, *prophetas tuos occiderunt, altaria tua suffoderunt: et ego relictus sum solus, et quaerunt animam meam*. [n. 867]
 
-> **953**. Postquam Apostolus ostendit necessitatem virtutum et originem gratiae, hic docet gratiae usum, quod pertinet ad instructionem moralem.
+> ^11:4^ Sed quid dicit illi divinum responsum? *Reliqui* mihi *septem millia virorum, qui non curvaverunt genua ante Baal*. [n. 870]
 
-Et circa hoc duo facit.  
+> ^11:5^ Sic ergo et in hoc tempore reliquiae secundum electionem gratiae salvae factae sunt. [n. 871]
 
-Primo ponit doctrinam moralem in generali;  
+> ^11:6^ Si autem gratia, jam non ex operibus: alioquin gratia jam non est gratia.
 
-secundo specialiter descendit ad quaedam particularia pertinentia ad eos quibus scribit, circa medium XV cap., ibi ***certus sum autem***, et cetera.  
+> ^11:7^ Quid ergo? Quod quaerebat Israël, hoc non est consecutus: electio autem consecuta est: ceteri vero excaecati sunt: [n. 872]
 
-Circa primum duo facit.  
+> ^11:8^ sicut scriptum est: *dedit illis Deus spiritum compunctionis: oculos ut non videant, et aures ut non audiant, usque in hodiernum diem*. [n. 873]
 
-Primo docet usum gratiae, quantum ad hoc quod sit homo perfectus;  
+> ^11:9^ Et David dicit: *fiat mensa eorum in laqueum, et in captionem, et in scandalum, et in retributionem illis*. [n. 876]
 
-secundo quantum ad hoc quod perfectus imperfectum sustineat, XIV cap., ibi ***infirmum autem***, et cetera.  
+> ^11:10^ *Obscurentur oculi eorum ne videant: et dorsum eorum semper incurva*. [n. 877]
 
-Circa primum tria facit.  
+> **859**. Postquam Apostolus ostendit Iudaeorum casum esse miserandum, non tamen totaliter excusabilem, hic ostendit casum Iudaeorum non esse universalem.
 
-Primo inducit ad perfectionem vitae quantum ad sanctitatem quam homo servat Deo;  
+Et primo movet quaestionem;  
 
-secundo quantum ad iustitiam quam quis exhibet proximo, XIII cap., ibi ***omnis anima***, etc.;  
+secundo solvit, ibi ***absit***, etc.;  
 
-tertio quantum ad puritatem quam homo conservat in seipso, circa finem XIII capituli, ibi ***et hoc scientes***, et cetera.  
+tertio infert conclusionem, ibi ***quid ergo***, et cetera.  
 
-Circa primum duo facit.  
+**860**. Dicit ergo primo: ***dico***, ad haec inquirendo, ***numquid Deus repulit***, totaliter, ***populum suum?*** Scilicet Iudaeorum, quia vocat eum non credentem sed contradicentem. Et hoc Psalmista etiam inquirit dicens: *ut quid Deus, repulisti in finem?* Thr. II, 7: *repulit Dominus altare suum*.  
 
-Primo monet ut homo se exhibeat Deo sanctum;  
+**861**. Deinde, cum dicit ***absit***, etc., solvit quaestionem ostendens quod Deus non totaliter repulit populum Iudaeorum. Et hoc est quod dicit ***absit***, ut scilicet populus Iudaeorum sit totaliter repulsus. Et hoc quidem, primo, probat quantum ad personam suam, dicens: ***nam et ego***, scilicet in fide Christi existens, ***Israelita sum***, scilicet gente; II Cor. XI, 22: *Israelitae sunt et ego*.  
 
-secundo docet qualiter aliquis uti debeat donis gratiae Dei, quibus sanctificatur, ibi ***dico enim per gratiam***, et cetera.  
+Et quia in populo Israel erant aliqui proselyti, qui non descenderunt secundum carnem ex patriarchis, secundo, hoc de se excludit, subdens ***ex semine Abrahae***. II Cor. c. XI, 22: *semen Abrahae sunt, et ego*.  
 
-Circa primum duo facit.  
+Erant autem in populo Iudaeorum tribus distinctae secundum filios Iacob, quorum quidam fuerunt filii ancillarum, quidam uxorum. Ioseph autem et Beniamin filii Rachel, praedilectae uxoris. Unde, tertio, suam excellentiam in populo Iudaeorum ostendens dicit ***ex tribu Beniamin***. Phil. III, 5: *ex genere Israel, de tribu Beniamin*. Unde et de eo exponitur a quibusdam quod legitur Gen. penult.: *Beniamin, lupus rapax mane comedet praedam, et vespere dividet spolia*.  
 
-Primo docet qualiter aliquis se debeat exhibere Deo quantum ad corpus;  
+**862**. Secundo, ibi: ***non repulit***, etc., ostendit populum illum non esse repulsum a Deo etiam quantum ad multos electos suos.  
 
-secundo quantum ad animam, ibi ***et nolite conformari***, et cetera.  
+Et primo proponit quod intendit;  
 
-**954**. Circa primum duo facit.  
+secundo inducit similitudinem, dicens ***an nescitis***;  
 
-Primo inducit observantiam eorum quae docentur: et hoc dupliciter. Uno quidem modo ex parte sui ipsius, cum dicit ***obsecro itaque vos, fratres***, quasi dicat: dictum est incomprehensibilia esse iudicia Dei, et investigabiles vias eius, itaque ***obsecro vos, fratres***, ut scilicet observetis ea quae dicentur.  
+tertio adaptat eam, ibi ***sic ergo et in hoc tempore***, et cetera.  
 
-**955**. Utitur autem obsecratione propter tria.  
+**863**. Dicit ergo primo: non solum ego non sum repulsus sed ***Deus non repulit plebem suam***, totam, ***quam praescivit***, id est praedestinavit. Supra VIII, 29: ***quos praescivit, hos et praedestinavit***. Ps. XCIII, 14: *non repellet Dominus plebem suam*. Quod Apostolus hic exponit quantum ad praedestinatos.  
 
-Primo quidem ad demonstrandum suam humilitatem. Prov. XVIII, 23: *cum obsecrationibus loquitur pauper*, qui scilicet de sua abundantia non confidit, et ideo non ex eo quod suum est, sed ex eo quod Dei est, homines conatur inducere ad bonum. Nam obsecrare est ob sacra contestari.  
+**864**. Deinde, cum dicit ***an nescitis***, etc., inducit similitudinem de his quae contigerunt tempore Eliae, quando etiam totus populus videbatur a cultu unius Dei aberrasse.  
 
-Secundo ut magis ex amore moveat rogando, quam ex timore, auctoritative imperando. Unde dicitur ad Philem. 8 s.: *multam fiduciam habens in Christo Iesu imperandi tibi quod ad rem pertinet, propter caritatem magis obsecro*. Gal. ult.: *vos qui spirituales estis, huiusmodi instruite in spiritu lenitatis*.  
+Ubi primo ponit interpellationem Eliae;  
 
-Tertio propter reverentiam Romanorum quibus scribebat. I Tim. V, 1: *seniorem ne increpaveris, sed obsecra ut patrem*.  
+secundo responsionem Domini, ibi ***sed quid dicit Scriptura divina***, et cetera.  
 
-**956**. Alio modo inducit eos ex parte Dei, cum dicit ***per misericordiam Dei***, per quam scilicet salvati estis. Tit. II, 5: *secundum misericordiam suam salvos nos fecit*. Et ideo ex consideratione divinae misericordiae debemus facere quod monemur. Matth. c. XVIII, 33: *nonne oportuit et te misereri conservi tui, sicut et ego tui misertus sum?*  
+**865**. Dicit ergo primo ***an nescitis quid Scriptura* sacra *dicat in Elia***, id est de Elia III Reg. XIX, 10. Vel, ***in Elia*** id est in libro de Elia scripto.  
 
-Vel potest dici ***per misericordiam Dei***, id est auctoritate apostolatus mihi misericorditer commissi. I Cor. VII, 25: *misericordiam consecutus sum a Domino, ut sim fidelis*.  
+Totus enim liber regum est principaliter scriptus ad notificandum dicta et facta prophetarum. Unde et inter libros propheticos computatur, ut Hieron. dicit in prologo libri regum. ***Quemadmodum***, scilicet ipse Elias, ***interpellat Deum adversus Israel***.  
 
-**957**. Secundo ponit admonitionem, cum dicit ***ut exhibeatis corpora vestra***, et cetera.  
+**866**. Contra quod videtur esse verbum Samuelis dicentis I Reg. XII, 23: *absit hoc peccatum a me in Domino, ut cessem orare pro vobis*. Multo ergo minus est contra populum interpellandum.  
 
-Circa quod sciendum est quod, sicut Augustinus dicit X *de Civit. Dei*, visibile sacrificium, quod exterius Deo offertur, signum est invisibilis sacrificii, quo quis se et sua in Dei obsequium exhibet.  
+Sed intelligendum est quod prophetae contra populum aliquem interpellant tripliciter. Uno modo conformando voluntatem suam voluntati divinae eis revelatae, sicut et in Ps. LVII, 11 dicitur: *laetabitur iustus, cum viderit vindictam*. Alio modo interpellando contra regnum peccati, ut scilicet non homines, sed peccata hominum destruantur. Tertio modo ut interpellatio, vel oratio est interpretanda per modum denuntiationis, secundum illud Ier. XVII, 18: *confundantur qui me persequuntur*, id est confundentur.  
 
-**958**. Habet autem homo triplex bonum.  
+**867**. Duo autem in hac sua interpellatione contra eos allegat.  
 
-Primo quidem bonum animae, quod exhibet Deo per devotionis et contritionis humilitatem, secundum illud Ps. l, 19: *sacrificium Deo spiritus contribulatus*.  
+Primo quidem impietatem quam commiserant contra cultum Dei, uno quidem modo persequendo ministros eius, quod tangit dicens ***Domine, prophetas tuos occiderunt***. III Reg. XVIII, 13: *numquid non indicatum est tibi Domino meo quid fecerim, cum interficeret Iezabel prophetas Domini?* Act. VII, v. 52: *quem prophetarum non sunt persecuti patres vestri?* Alio modo quantum ad loca Deo sanctificata, secundum illud Ps. LXXIII, 7: *incenderunt igni sanctuarium tuum*. Et quantum ad hoc dicit: ***altaria tua suffoderunt***.  
 
-Secundo habet homo exteriora bona, quae exhibet Deo per eleemosynarum largitionem. Unde dicitur Hebr. ult.: *beneficentiae et communionis nolite oblivisci, talibus enim hostiis promeretur Deus*.  
+**868**. Unde notandum est quod, Deut. c. XII, 5, Dominus mandavit dicens: *ad locum quem elegerit Dominus Deus vester de cunctis tribubus vestris, ut ponat nomen suum ibi et habitet in eo, venietis et offeretis in illo loco holocausta et victimas vestras*. Tamen ante aedificationem templi permittebatur populo, ut in diversis locis altaria construeret ad cultum divinum; quod quia erat contra legem, aedificato iam templo, Ezechias rex piissimus omnia huiusmodi altaria destrui fecit. Et hoc est quod dicitur IV Reg. c. XVIII, 22: *nonne iste est Ezechias, qui abstulit excelsa et altaria, et praecepit Iudae et Ierusalem: ante altare hoc adorabitis in Ierusalem?* Quod ergo Ezechias fecit ex pietate, hoc fecit Achab et Iezabel ex impietate, volentes cultum Dei totaliter extirpare.  
 
-Tertio habet homo bonum proprii corporis: et quantum ad hoc dicit, ibi ***ut exhibeatis***, scilicet Deo, ***corpora vestra***, sicut quamdam spiritualem hostiam. Dicebatur autem animal Deo immolatum hostia, vel quia pro victoria hostium offerebatur, seu pro securitate ab hostibus, vel quia ad ostium tabernaculi immolabatur.  
+**869**. Tertio, allegat contra eos impietatem quam facere intendebant, dicens ***et relictus sum ego solus***, scilicet in cultu unius Dei; quod quidem dixit Elias, eo quod alii non ita aperte manifestabant se esse Dei cultores. Dicitur enim de eo Eccli. c. XLVIII, 1: *surrexit Elias propheta quasi ignis, et verbum illius quasi facula ardebat*. ***Et quaerunt animam meam***, scilicet ut auferant eam. Miserat enim Iezabel ad Eliam, IV Reg. XIX, 2, dicens: *haec mihi faciant dii, et haec addant, nisi hac hora cras posuero animam tuam sicut animam unius ex illis*, scilicet prophetis Baal, quos occiderat Elias.  
 
-**959**. Exhibet autem homo Deo corpus suum ut hostiam tripliciter.  
+**870**. Deinde, cum dicit ***sed quid dicit***, etc., ponit divinum responsum, dicens: ***sed quid dicit Scriptura*** ibidem, scilicet dixisse, ***illi***, scilicet Eliae, ***responsum divinum?*** Hoc inquam, quod sequitur: ***reliqui mihi***, id est in cultu meo non permittendo eos cadere in peccatum, ***septem millia virorum***, ponitur certum pro incerto propter perfectionem septenarii et miliarii, ***qui non curvaverunt genua ante Baal*** id est qui cultum Dei non deseruerunt. Is. XLVII, v. 7: *omnem qui invocat nomen meum, in gloriam meam creavi*, et cetera.  
 
-Uno quidem modo, quando aliquis corpus suum exponit passioni et morti propter Deum, sicut dicitur de Christo Eph. V, 2: *tradidit semetipsum oblationem et hostiam Deo*. Et Apostolus dicit de se Phil. II, 17: *si immolor supra sacrificium et obsequium fidei vestrae, gaudeo*.  
+**871**. Deinde, cum dicit ***sic ergo***, etc., adaptat quod dixerat ad propositum.  
 
-Secundo per hoc quod homo corpus suum ieiuniis et vigiliis macerat ad serviendum Deo, secundum illud I Cor. IX, 27: *castigo corpus meum, et in servitutem redigo*.  
+Et primo ponit adaptationem, dicens ***sic ergo et in hoc tempore***, in quo videtur multitudo populi deviasse, ***reliquiae***, id est multi qui sunt relicti ab illo excidio, ***salvae fient***, vel salvae factae sunt ***secundum electionem gratiae Dei***, id est secundum gratuitam electionem Dei. Io. XV, 16: *non me elegistis, sed ego elegi vos*.  
 
-Tertio per hoc quod homo corpus suum exhibet ad opera iustitiae et divini cultus exequenda. Supra VI, 19: ***exhibete membra vestra servire iustitiae in sanctificationem***.  
+Secundo ex hoc infert conclusionem, dicens ***si autem gratia***, salvi facti sunt, ***iam non ex operibus*** eorum. Tit. III, 5: *non ex operibus iustitiae quae fecimus nos, sed secundum suam misericordiam salvos nos fecit*.  
 
-**960**. Est autem considerandum, quod hostia quae Deo immolabatur, quatuor habebat.  
+Tertio ostendit sequi conclusionem ex praemissis, dicens ***alioquin***, scilicet si ***gratia*** est ex operibus, ***iam non est gratia***, quae dicitur ex eo quod gratis datur. Supra III, 24: ***Iustificati gratis per gratiam ipsius***.  
 
-Primo namque ipsa oblatio debebat esse integra et incorrupta. Unde dicitur Mal. I, v. 14: *maledictus dolosus, qui habet in grege suo masculum, et votum faciens immolat debile Domino*. Et propter hoc dicit ***viventem***, ut scilicet hostia nostri corporis quam Deo offerimus, sit vivens per fidem formatam caritate. Gal. II, 20: *quod nunc vivo in carne, in fide vivo Filii Dei*.  
+**872**. Deinde, cum dicit ***quid ergo***, etc., infert conclusionem intentam.  
 
-Est autem attendendum quod naturalis hostia quae prius viva erat, occidebatur, ut immolaretur, ad ostendendum quod adhuc mors regnabat in homine regnante peccato, ut supra V, 12 ss. dictum est. Sed haec hostia spiritualis semper vivit et in vita proficit, secundum illud Io. X, 10: *ego veni ut vitam habeant, et abundantius habeant*, quia iam peccatum ablatum est per Christum: nisi dicamus quod hostia corporis nostri vivit quidem Deo per iustitiam fidei, sed mortificatur concupiscentiis carnis. Col. III, 5: *mortificate membra vestra quae sunt super terram*.  
+Et, primo ponit eam, dicens ***quid ergo*** secundum praemissa ***dicemus?*** Hoc scilicet, quod ***Israel***, quantum ad maiorem multitudinem populi, ***non est consecutus quod quaerebat***, scilicet iustitiam. Et hoc modo intelligendum est quod supra IX, 31 dictum est ***Israel sectando legem iustitiae, in legem iustitiae non pervenit***. Io. VII, 34: *quaeretis me, et non invenietis*.  
 
-**961**. Secundo vero hostia Deo oblata in ipsa immolatione sanctificabatur. Unde dicitur Lev. XXII, 3: *Omnis homo qui accesserit de stirpe vestra ad ea quae consecrata sunt, et quae obtulerunt filii Israel Domino, in quo est immunditia, peribit coram Domino*. Et ideo subdit ***sanctam***, scilicet per devotionem, qua corpus nostrum Dei servitio mancipatur. Lev. XX, 7: *sanctificamini et estote sancti, quia ego sanctus Dominus Deus vester*. Proprie autem sanctitas dicitur per respectum ad Deum, inquantum scilicet homo servat ea quae sunt iusta, quoad Deum.  
+Ita tamen quod ***electio***, id est electi ex Iudaeis, ***consecuta est*** iustitiam, Eph. I, 4: *elegit nos in ipso, ut essemus sancti*, ***caeteri vero***, id est alia pars populi, ***excaecati sunt*** propter suam malitiam. Sap. II, 21: *excaecavit eos malitia eorum*.  
 
-**962**. Tertio quantum ad ipsam sacrificii consumptionem dicebatur sacrificium suave et acceptum Domino, secundum illud Lev. I, v. 9: *oblata omnia adolebit sacerdos super altare in holocaustum, et in odorem suavissimum Domino*. Unde hic dicit ***Deo placentem***, scilicet per rectitudinem intentionis. Ps. LV, 13: *ut placeam coram Deo in lumine viventium*.  
+**873**. Secundo, ibi ***sicut scriptum est***, etc., manifestat conclusionem quantum ad ultimam partem.  
 
-**963**. Quarto in ipsa sacrificii praeparatione apponebatur sal. Unde Lev. II, 13: *quicquid obtuleris sacrificii, sale condies*. Et Mc. IX, 48 dicitur: *omnis victima sale salietur*. Sal autem discretionem sapientiae significat. Unde dicitur Col. ult.: *in sapientia ambulate ad eos qui foris sunt, sermo vester semper in gratia sit sale conditus*.  
+Et primo per auctoritatem Isaiae;  
 
-Unde et hic sequitur ***rationabile obsequium vestrum***, scilicet cum discretione corpora vestra Deo exhibeatis hostiam, vel per martyrium vel per abstinentiam vel per quodcumque opus iustitiae. I Cor. XIV, 40: *omnia honeste et secundum ordinem fiant in vobis*. Et in Ps. XCVIII, 4: *honor regis iudicium diligit*.  
+secundo, per auctoritatem David, ibi ***et David dicit***.  
 
-**964**. Aliter se habet homo iustus ad interiores actus, quibus Deo obsequitur, et ad exteriores. Nam bonum hominis et iustitia eius principaliter in interioribus actibus consistit, quibus scilicet homo credit, sperat et diligit. Unde dicitur Lc. XVII, 21: *regnum Dei intra vos est*. Non autem principaliter consistit in exterioribus actibus. Infra XIV, v. 17: ***non est regnum Dei esca et potus***. Unde interiores actus se habent per modum finis, qui secundum se quaeritur: exteriores vero actus per quos Deo corpora exhibentur, se habent sicut ea quae sunt ad finem.  
+**874**. Circa primum notandum quod Apostolus componit auctoritatem ex duabus. Legitur enim Is. XIX, 10: *miscui vobis spiritum soporis*. Et quantum ad hoc dicit ***dedit Deus illis spiritum compunctionis***, quod pertinet ad perversitatem affectus.  
 
-In eo autem quod quaeritur tamquam finis nulla mensura adhibetur, sed quanto maius fuerit, tanto melius se habet. In eo autem quod quaeritur propter finem, adhibetur mensura secundum proportionem ad finem, sicut medicus sanitatem facit tantum quantum potest, medicinam autem non tantum dat quantum potest, sed quantum videt expedire ad sanitatem consequendam. Et similiter homo in fide, et spe, et in caritate nullam mensuram debet adhibere, sed quanto plus credit, sperat, et diligit, tanto melius est; propter quod dicitur Deut. IV, 5: *diliges Dominum Deum tuum*, et cetera.  
+Compunctio enim importat quamdam cordis punctionem sive dolorem. Est ergo quaedam bona compunctio qua quis dolet de propriis peccatis, secundum illud Ps. LIX, 5: *potasti nos vino compunctionis*. Est autem et mala compunctio, scilicet invidiae, qua quis dolet de bonis aliorum.  
 
-Sed in exterioribus actibus est adhibenda discretionis mensura per comparationem ad caritatem. Unde dicit Hieronymus: *nonne rationalis homo dignitatem amittit, qui ieiunium vel vigilias praefert sensu integritati, ut propter Psalmorum atque officiorum decantationem, amentiae vel tristitiae quis notam incurrat?*  
+Hunc ergo compunctionis, id est invidiae, spiritum eis dedit Deus, non quidem immittendo malitiam sed subtrahendo gratiam, sicut supra dictum est X, 19: ***ego ad aemulationem adducam vos in non gentem***.  
 
-**965**. Deinde cum dicit ***et nolite conformari***, etc., ostendit qualiter se debeat homo exhibere Deo quantum ad animam.  
+**875**. Item legitur Is. VI, 10: *excaeca cor populi huius, et aures eius aggrava, et oculos eius claude: ne forte videat oculis suis, et auribus suis audiat*. Et quantum ad hoc designans defectum cognitivae virtutis, subdit ***oculos, ut non videant***, scilicet per seipsos quantum ad miracula, quae Christus, eis videntibus, fecit, ***et aures, ut non audiant***, scilicet fructuose doctrinam Christi et apostolorum. Is. XLII, 20: *qui vides multa, nonne custodies? Qui apertas aures habes, nonne audies?*  
 
-Et primo prohibet saeculi conformitatem, cum dicit ***et nolite conformari huic saeculo***, id est, rebus quae temporaliter transeunt.  
+Addit autem Apostolus de suo ***usque in hodiernum diem***, quia in fine mundi videbunt et audient, quando convertentur corda filiorum ad patres eorum, ut dicitur Malach. Ult.  
 
-Nam saeculum praesens est quaedam mensura eorum quae temporaliter labuntur. Rebus autem temporalibus homo conformatur per affectum, eis amore inhaerendo. Os. IX, v. 10: *facti sunt abominabiles, sicut ea quae dilexerunt*. Iac. I, 27: *religio munda et immaculata apud Deum et Patrem haec est, immaculatum se custodire ab hoc saeculo*. Conformatur etiam huic saeculo qui vitam saeculariter viventium imitatur. Eph. IV, 17: *testificor in Domino, ut iam non amplius ambuletis, sicut et gentes ambulant*.  
+**876**. Deinde cum dicit ***et David dicit***, etc., ponit ad idem auctoritatem David.  
 
-**966**. Secundo mandat interiorem mentis reformationem, cum dicit ***sed reformamini in novitate sensus vestri***.  
+In qua, primo, tangit occasionem defectus Iudaeorum, dicens ***fiat mensa eorum***, id est malitia qua peccatores reficiuntur. Iob XX, v. 12: *cum dulce fuerit in ore eius malum, abscondet illud sub lingua sua*. Quae quidem mensa est coram ipsis quando ex certa malitia peccant. Hoc quidem fit ***in laqueum*** quando ex ea paratur tentatio ad peccandum, Is. XXIV, 18: *qui explicaverit se de fovea, tenebitur laqueo*, ***et in captionem***, quando delectationi succumbit per consensum, Is. c. VIII, 15: *capientur et irretientur*, ***et in scandalum***, id est in pactionem casus quando ruunt de peccato in peccatum, Ps. CXVIII, v. 165: *pax multa diligentibus legem tuam, et non est illis scandalum*, ***et in retributionem illis*** quando scilicet punientur pro suis peccatis. Vel quia hoc ipsum est retributio delictorum, quia Deus eos permittit sic cadere. Ps. XCIII, 2: *redde retributionem superbis*.  
 
-Sensus autem hominis hic dicitur ratio, secundum quod per eam homo iudicat de agendis. Hunc autem sensum homo in sua creatione habuit integrum et vigentem, unde dicitur Eccli. XVII, 6: *sensus implevit corda illorum, et bona, et mala ostendit illis*. Sed per peccatum hic sensus est corruptus, et quasi inveteratus, Bar. III, 11: *inveterasti in terra aliena*, et per consequens pulchritudinem et decorem suum amisit. Thren. I, 6: *egressus est a filia Sion omnis decor eius*.  
+Vel ***mensa*** est Sacra Scriptura Iudaeis apposita. Prov. IX, 2: *proposuit mensam suam*. Quae quidem fit ***in laqueum***, quando occurrit aliquod ambiguum, ***in captionem***, quando male intelligitur, ***in scandalum***, quando ruit in pertinaciam erroris, et ***retributionem***, ut supra.  
 
-Monet ergo Apostolus ut reformemur, id est, iterato formam et decorem mentis assumamus, quem nostra mens habuit, quod quidem fit per gratiam Spiritus Sancti, ad quam participando homo studium habere debet, ita scilicet ut qui eam nondum perceperunt, eam percipiant, et qui illam perceperunt, in ea proficiant. Eph. IV, 23: *renovamini spiritu mentis vestrae*. Ps. CII, 5: *renovabitur ut aquilae iuventus tua*.  
-
-Vel aliter ***renovamini***, scilicet in exterioribus actibus, ***in novitate sensus vestri***, id est secundum novitatem gratiae, quam mente percepistis.  
-
-**967**. Tertio assignat rationem admonitionis praedictae, cum dicit ***ut probetis quae sit voluntas***.  
-
-Circa quod considerandum est, quod, sicut homo qui habet gustum infectum, non habet rectum iudicium de saporibus sed ea quae sunt suavia interdum abominatur, ea vero quae sunt abominabilia appetit, qui autem habet gustum sanum, rectum iudicium de saporibus habet; ita homo qui habet corruptum affectum quasi conformatum rebus saecularibus, non habet rectum iudicium de bono; sed ille qui habet rectum et sanum affectum, sensu eius innovato per gratiam, rectum iudicium habet de bono.  
-
-Ideo ergo dixit: ***nolite conformari huic saeculo, sed renovamini in novitate sensus vestri, ut probetis***, id est, experimento cognoscatis—Ps. XXXIII, 9: *gustate et videte, quoniam suavis est Dominus*—***quae sit voluntas Dei***, qua scilicet vult vos esse salvos —I Thess. IV, 3: *haec est voluntas Dei, sanctificatio vestra*. ***Bona***, id est, vult bonum honestum nos velle, et ad hoc suis praeceptis nos inducit. Mich. VI, 8: *indicabo tibi, o homo, quid sit bonum, et quid Deus requirat a te*. ***Et beneplacens***, inquantum scilicet bene disposito est delectabile id, quod Deus vult nos velle. Ps. XVIII, v. 9: *iustitiae Domini rectae laetificantes corda*. Et non tantum utilis ad finem consequendum, sed etiam ***perfecta***, quasi coniungens nos fini. Matth. V, 48: *estote perfecti, sicut et Pater vester caelestis perfectus est*. Gen. XVII, 1: *ambula coram me, et esto perfectus*.  
-
-Talem ergo experiuntur Dei voluntatem illi, qui non conformantur huic saeculo, sed reformantur in novitate sensus sui. Illi autem qui in vetustate permanent, saeculo conformati, iudicant Dei voluntatem non esse bonam, sed gravem et inutilem. Eccli. VI, 21: *quam aspera est sapientia indoctis hominibus*.  
-
-**968**. Deinde, cum dicit ***dico enim per gratiam***, etc., docet qualiter donis Dei homo debeat uti.  
-
-Et primo docet hoc quantum ad dona quae non sunt omnibus communia, sicut sunt gratiae gratis datae;  
-
-secundo, quantum ad donum caritatis, quod est omnibus commune, ibi ***dilectio sine simulatione***, et cetera.  
-
-Circa primum duo facit.  
-
-Primo docet in generali, quomodo debeat homo uti gratiis gratis datis;  
-
-secundo exequitur hoc per partes ibi ***habentes autem donationes***.  
-
-Circa primum duo facit.  
-
-Primo proponit documentum;  
-
-secundo rationem assignat, ibi ***sicut enim in uno corpore***, et cetera.  
-
-**969**. Circa primum tria facit.  
-
-Primo excludit superfluum, dicens: monui quod reformemini in novitate sensus vestri, quod quidem moderate facere debetis, ***dico enim***, id est, mando, ***per gratiam***, apostolatus et auctoritate apostolica, ***quae data est mihi***. Gal. II, 9: *cum cognovissent gratiam quae data est mihi inter gentes*. Eph. III, 8: *mihi omnium sanctorum minimo data est gratia haec*, etc., ***omnibus qui sunt inter vos***, quia omnibus est hoc utile. I Cor. c. VII, 7: *volo omnes homines esse sicut meipsum*.  
-
-Hoc, inquam, mando, ***non plus sapere, quam oportet sapere***, id est, nullus praesumat, de sensu aut sapientia sua confidens supra suam mensuram. Eccle. VII, 17: *non plus sapias quam necesse est*. Ps. CXXX, 1: *neque ambulavi in magnis, neque in mirabilibus super me*.  
-
-**970**. Secundo hortatur ad id quod est medium dicens ***sed sapere ad sobrietatem***, scilicet mando vobis ut mensurate sapiatis secundum gratiam vobis datam. Sobrietas enim mensuram importat. Et quamvis proprie dicatur circa potum vini, potest tamen accipi circa quamlibet materiam, in qua homo debitam mensuram observat. Tit. II, v. 12: *sobrie et iuste et pie vivamus in hoc saeculo*.  
-
-**971**. Tertio docet secundum quid accipienda sit mensuram medii, dicens ***et hoc***, inquam, ***sicut Deus unicuique divisit***, id est distribuit, ***mensuram fidei***, id est mensuram donorum suorum, quae ordinatur ad fidei aedificationem. I Cor. XII, 7: *unicuique datur manifestatio Spiritus ad utilitatem*.  
-
-Dat enim Deus huiusmodi dona, non eadem omnibus, sed diversa diversis distribuit, secundum illud I Cor. XII, 4: *divisiones gratiarum sunt*. Nec omnibus aequaliter dat sed unicuique secundum certam mensuram. Eph. IV, 7: *unicuique nostrum data est gratia secundum mensuram donationis Christi*. Et ideo Apostolus sobrie sapiens secundum hanc mensuram dicebat II Cor. X, 13: *non autem in immensum gloriamur, sed secundum mensuram regulae, qua mensus est nobis Deus*. Soli autem Christo datus est Spiritus non ad mensuram, ut dicitur Io. III, 34.  
-
-Non solum autem alias gratias gratis datas dat Deus mensurate sed etiam ipsam fidem quae per dilectionem operatur. Unde Lc. XVII, v. 5 discipuli Christo dixerunt: *Domine, adauge nobis fidem*.  
+**877**. Secundo ponit ipsum defectum quantum ad cognitivam virtutem, cum dicit ***obscurentur oculi eorum ne videant***, quod magis praenuntiando quam optando dicitur. Eph. IV, 18: *tenebris obscuratum habentes intellectum*. Et quantum ad effectum cum dicit ***et dorsum eorum***, id est liberum arbitrium quod portat ad bona et ad mala, ***semper incurva***, id est incurvari permitte ab aeternis ad temporalia, a rectitudine iustitiae ad iniquitatem. Is. LI, 23: *incurvare ut transeamus*.  
 
 Lectio 2  
 
-***Membra Christi corporis***
+***Delictum Judaeorum pro salvationem gentium***
 
-***^12:4^ Sicut enim in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent: [n. 972]***
+***^11:11^ Dico ergo: numquid sic offenderunt ut caderent? Absit. Sed illorum delicto, salus est gentibus ut illos aemulentur. [n. 878]***
 
-> ^12:5^ ita multi unum corpus sumus in Christo, singuli autem alter alterius membra. [n. 974]
+> ^11:12^ Quod si delictum illorum divitiae sunt mundi, et diminutio eorum divitiae gentium: quanto magis plenitudo eorum? [n. 883]
 
-> ^12:6^ Habentes autem donationes secundum gratiam, quae data est nobis, differentes: sive prophetiam secundum rationem fidei, [n. 976]
+> ^11:13^ Vobis enim dico gentibus: quamdiu quidem ego sum gentium Apostolus, ministerium meum honorificabo, [n. 885]
 
-> ^12:7^ sive ministerium in ministrando, sive qui docet in doctrina, [n. 977]
+> ^11:14^ si quomodo ad aemulandum provocem carnem meam, et salvos faciam aliquos ex illis. [n. 888]
 
-> ^12:8^ qui exhortatur in exhortando, qui tribuit in simplicitate, qui praeest in sollicitudine, qui miseretur in hilaritate. [n. 981]
+> ^11:15^ Si enim amissio eorum, reconciliatio est mundi: quae assumptio, nisi vita ex mortuis? [n. 890]
 
-> ^12:9^ Dilectio sine simulatione: odientes malum, adhaerentes bono: [n. 983]
+> ^11:16^ Quod si delibatio sancta est, et massa: et si radix sancta, et rami. [n. 891]
 
-> ^12:10^ caritate fraternitatis invicem diligentes: honore invicem praevenientes: [n. 985]
+> **878**. Postquam Apostolus ostendit quod casus Iudaeorum non est universalis, hic incipit ostendere quod casus eorum non est inutilis neque irreparabilis.
 
-> ^12:11^ sollicitudine non pigri: spiritu ferventes: Domino servientes: [n. 987]
+Et circa hoc duo facit.  
 
-> ^12:12^ spe gaudentes: in tribulatione patientes: orationi instantes: [n. 990]
+Primo ostendit casum Iudaeorum esse utilem et reparabilem;  
 
-> ^12:13^ necessitatibus sanctorum communicantes: hospitalitatem sectantes. [n. 993]
+secundo excludit gloriam gentilium Iudaeis insultantium, ibi ***quod si aliqui ex ramis***, et cetera.  
 
-> **972**. Praemissa admonitione, hic Apostolus rationem assignat sumptam ex similitudine corporis mystici ad corpus naturale. Et primo in corpore naturali tangit tria. Primo quidem corporis unitatem, cum dicit ***sicut enim in uno corpore***; secundo, membrorum pluralitatem, cum dicit ***multa membra habemus***: est enim corpus humanum organicum ex diversitate membrorum constitutum; tertio officiorum diversitatem, cum dicit ***omnia autem membra non eumdem actum habent***. Frustra enim esset membrorum diversitas, nisi ad diversos actus ordinarentur.
+Circa primum duo facit.  
 
-**973**. Deinde aptat haec tria ad corpus Christi mysticum, quod est Ecclesia. Eph. I, v. 22: *ipsum dedit caput super omnem Ecclesiam, quae est corpus eius*.  
+Primo proponit quaestionem;  
 
-Circa quod etiam tria tangit.  
+secundo solvit, ibi ***absit***, et cetera.  
 
-Primo quidem fidelium quasi membrorum multitudinem, cum dicit ***ita multi***. Lc. XIV, v. 16: *homo quidam fecit coenam magnam, et vocavit multos*. Is. LIV, 1: *multi filii desertae*.  
+**879**. Dicit ergo primo: dictum est et probatum, quod caeteri Iudaei praeter electos sunt excaecati. Dicit ergo, quaestionem movens, ***numquid sic offenderunt ut caderent?***  
 
-Quamvis enim sint pauci per comparationem ad infructuosam multitudinem damnatorum, secundum illud Matth. VII, 14: *arcta est via quae ducit ad vitam, et pauci inveniunt eam*, tamen absolute loquendo sunt multi. Apoc. VII, 9: *post haec vidi turbam magnam, quam dinumerare nemo poterat*.  
+Quod potest dupliciter intelligi. Uno modo sic: numquid Deus permisit eos offendere solum ***ut caderent***, id est propter nullam aliam utilitatem inde consequentem, sed solum volens eos cadere? Quod quidem esset contra bonitatem divinam, quae tanta est, ut Augustinus dicit in Enchiridion, quod numquam permitteret aliquid mali fieri nisi propter bonum, quod ex malo elicit. Unde et Iob XXXIV, 24 dicitur: *conteret multos et innumerabiles, et stare faciet alios pro eis*. Et Apoc. III, 11 dicitur: *tene quod habes, ne alter accipiat coronam tuam*, quia scilicet Deus aliquos sic permittit cadere, ut quorumdam casus sit aliorum salutis occasio.  
 
-**974**. Secundo tangit corporis mystici unitatem, cum dicit ***unum corpus sumus***. Eph. II, 16: *ut reconciliet ambos in uno corpore*, et cetera.  
+Alio modo potest intelligi sic: ***numquid sic offenderunt ut caderent?*** Id est perpetuo in casu remanerent? Ps. XL, 9: *numquid qui dormit non adiiciet ut resurgat?*  
 
-Huius autem corporis mystici est unitas spiritualis, per quam fide et affectu caritatis invicem unimur Deo, secundum illud Eph. IV, 4: *unum corpus, et unus spiritus*. Et quia Spiritus unitatis a Christo in nos derivatur, supra VIII, 9: ***si quis Spiritum Christi non habet, hic non est eius*** ideo subdit ***in Christo***, qui per Spiritum suum, quem dat nobis, nos invicem unit et Deo. Io. XVII, 2 s.: *ut sint unum in nobis, sicut et nos unum sumus*.  
+**880**. Deinde cum dicit ***absit***, etc., solvit quaestionem.  
 
-**975**. Tertio tangit officiorum diversitatem ad utilitatem communem reductam, dicens ***singuli autem alter alterius membra***.  
+Et primo secundum primum intellectum ostendens casum Iudaeorum fuisse utilem;  
 
-Membrum enim quodlibet proprium actum habet et virtutem; inquantum ergo unum membrum sua virtute et actu alteri prodest, dicitur membrum alterius, sicut pes dicitur membrum oculi, inquantum oculum defert, et oculus dicitur membrum pedis, inquantum dirigit pedem. I Cor. XII, 2: *non potest dicere oculus manui: opera tua non indigeo*.  
+secundo solvit quaestionem quantum ad secundum intellectum, ostendens casum Iudaeorum esse reparabilem, ibi ***quod si delictum illorum***, et cetera.  
 
-Ita etiam in corpore mystico ille qui accepit gratiam prophetiae, indiget illo qui accepit gratiam sanitatum, et ita est in omnibus aliis. Unde dum unusquisque fidelis secundum gratiam sibi datam alteri servit, efficitur alterius membrum. Gal. ult.: *alter alterius onera portate*. I Petr. IV, 10: *unusquisque sicut accepit gratiam in alterutrum illam administrantes*.  
+**881**. Dicit ergo primo ***absit***, ut scilicet inutiliter caderent. ***Sed***, magis, ***illorum***, scilicet Iudaeorum, ***delicto, salus gentibus*** facta est occasionaliter. Unde et Dominus dicit Io. IV, 22: *salus ex Iudaeis est*.  
 
-**976**. Deinde, cum dicit ***habentes autem donationes***, exequitur per partes monitionem, quam supra posuerat de sobrio et moderato gratiae usu. Et primo ponit gratiarum diversitatem, dicens: ***sumus***, inquam, ***alter alterius membra***, non secundum eamdem gratiam, sed ***habentes*** diversas ***donationes differentes***, non ex diversitate meritorum, sed ***secundum gratiam*** quae data est nobis. I Cor. VII, 7: *unusquisque proprium donum habet ex Deo, unus quidem sic, alius vero sic*. Matth. XXV, 14 s.: *vocavit servos suos, et tradidit illis bona sua, et uni dedit quinque talenta, alii autem duo, alii vero unum*.  
+Quod quidem potest intelligi tripliciter. Primo modo, quia per ***delictum*** quod in occisione Christi commiserunt, est subsecuta salus gentium per redemptionem sanguinis Christi. I Petr. I, 18: *non enim corruptibilibus auro vel argento redempti estis de vana vestra conversatione paternae traditionis, sed pretioso sanguine agni immaculati*.  
 
-**977**. Secundo docet diversarum gratiarum usum, et, primo, in rebus divinis, quantum ad cognitionem quidem, dicens: ***sive prophetiam***, quam habentes, utamur ea ***secundum rationem fidei***.  
+Secundo modo potest intelligi de delicto quo doctrinam apostolorum repulerunt, ex quo confectum est ut apostoli gentibus praedicarent, secundum illud Act. XIII, 46: *vobis oportebat primum loqui verbum Dei, sed quoniam repulistis illud, ecce convertimur ad gentes*, et cetera.  
 
-**978**. Dicitur autem ***prophetia*** quaedam apparitio ex revelatione divina eorum quae sunt procul. Unde I Reg. IX, 9 dicitur: *qui propheta hodie dicitur, vocabatur olim videns*. Sunt autem procul a cognitione nostra, secundum se quidem futura contingentia, quae propter defectum sui esse cognoscibilia non sunt; sed res divinae sunt procul a nostra cognitione, non secundum se, cum sint maxime cognoscibiles, quia, ut dicitur I Io. I, 5: *Deus lux est, et tenebrae in eo non sunt ullae*, sed propter defectum intellectus nostri, qui se habet ad ea, quae sunt in seipsis manifestissima, sicut oculus noctuae ad lucem solis. Et quia unumquodque magis proprie dicitur tale, quod est secundum se tale, quam quod est est tale secundum aliud; inde est quod magis proprie dicuntur esse procul a cognitione nostra futura contingentia. Et propter hoc horum proprie est prophetia. Amos c. III, 7: *non faciet Dominus Deus verbum, nisi revelaverit secretum suum*. Dicitur tamen prophetia communiter etiam revelatio quorumcumque occultorum.  
+Tertio modo potest intelligi de hoc quod propter suam impoenitentiam sunt in omnes gentes dispersi. Et sic Christus et Ecclesia ubique a libris Iudaeorum testimonium habuit fidei Christianae, ad convertendos gentiles qui suspicari potuissent prophetias de Christo, quas praedicatores fidei inducebant, esse confictas, nisi probarentur testimonio Iudaeorum; unde in Ps. LVIII, 12 dicitur: *ostendit mihi super inimicos meos*, scilicet Iudaeos, *ne occidas eos, ne quando obliviscantur populi mei: disperge illos in virtute tua*.  
 
-Hoc autem donum prophetiae, non solum fuit in Veteri Testamento, sed etiam in Novo Ioel II, 28: *effundam de spiritu meo super omnem carnem, et prophetabunt filii vestri*. Dicuntur etiam prophetae in Novo Testamento, qui prophetica dicta exponunt, quia Sacra Scriptura eodem spiritu interpretatur quo est condita. Eccli. XXIV, 46: *adhuc doctrinam quasi prophetiam effundam*.  
+**882**. Sequitur ***ut illos aemulentur***.  
 
-**979**. Ordinatur autem prophetiae donum, sicut et aliae gratiae gratis datae, ad fidei aedificationem. I Cor. XII, 7: *unicuique datur manifestatio spiritus ad utilitatem*. Hebr. II, 3 s.: *confirmata est*, scilicet doctrina fidei, *contestante Deo signis et prodigiis, et variis virtutibus, et Spiritus Sancti distributionibus*. Et ideo prophetia est utendum ***secundum rationem fidei***, id est non in vanum sed ut per hoc fides confirmetur, non autem contra fidem. Unde dicitur Deut. XIII, v. 1: *si surrexerit in medio tui propheta, et dixerit tibi: eamus, et sequamur deos alienos; non audies verba prophetiae illius*, quia scilicet prophetizat contra rationem fidei.  
+Et quia non dicit qui vel quos, cum etiam sit duplex aemulatio, scilicet indignationis et imitationis, potest hoc quatuor modis exponi.  
 
-**980**. Quantum ad sacramenta ministranda subdit ***sive ministerium in ministrando***, id est, si quis accepit gratiam vel officium ministerii, puta ut sit episcopus vel sacerdos, qui dicuntur ministri Dei. Is. c. LXI, 6: *vos sacerdotes Domini vocabimini, ministri Dei nostri: dicetur vobis*, exequatur illud diligenter exequendo ***in ministrando***, II Tim. IV, 5: *ministerium tuum imple*.  
+Primo modo ut intelligatur sic ***ut***, gentiles, ***illos***, scilicet Iudaeos, ***aemulentur***, id est imitentur in cultu unius Dei. Eph. II, 12: *eratis in illo tempore sine Christo alienati a conversatione Israel*, et postea subdit: *nunc autem vos, qui aliquando eratis longe, facti estis prope in sanguine Christi*. I Thess. II, v. 14: *vos imitatores facti estis ecclesiarum Dei*, quae sunt in Iudaea.  
 
-**981**. Secundo tangit ea quae pertinent ad res humanas, in quibus potest aliquis alteri subvenire. Primo quidem quantum ad cognitionem vel speculativam vel practicam.  
+Vel ut gentiles aemulentur Iudaeos, id est indignentur contra eos propter incredulitatem eorum. Ps. CXVIII, 158: *vidi praevaricantes et tabescebam, quia eloquia tua non custodierunt*.  
 
-Quantum ergo ad speculativam primo dicit ***sive qui docet***, id est qui habet officium vel gratiam docendi, utatur ***doctrina***, id est ut studiose et fideliter doceat. Iob IV, 3: *ecce docuisti plurimos*. Matth. ult.: *euntes docete omnes gentes*.  
+Tertio modo potest intelligi sic: ut Iudaei aemulentur, id est imitentur gentiles quando ubique et nunc aliqui eorum particulariter convertuntur ad fidem, imitantes fidem gentium et finaliter omnis Israel salvus fiet cum plenitudo gentium intraverit et sic impleatur quod dicitur Deut. XXVIII, 44: *ille erit in caput, et tu eris in caudam*.  
 
-Quantum autem ad cognitionem practicam subdit ***qui exhortatur***, id est qui habet officium vel gratiam exhortandi homines ad bonum, utatur illo ***in exhortando***. Thess. II, v. 3: *exhortatio nostra non fuit de errore, neque de immunditia, neque in dolo*. Tit. II, v. 15: *haec loquere et exhortare*.  
+Quarto modo potest exponi sic: ut Iudaei aemulentur gentiles, id est contra eos ex invidia turbentur dum vident ad eos eorum gloriam translatam. Deut. XXXII, 21: *ego provocabo eos in eo qui non est populus*.  
 
-**982**. Deinde ponit ea quae pertinent ad exteriora opera, in quibus quandoque aliquis subvenit alicui aliquod donum dando, et quantum ad hoc dicit ***qui tribuit***, id est qui habet facultatem tribuendi et gratiam, exequatur hoc ***in simplicitate***, ut scilicet nihil mali ex illo intendat, quasi donis homines ad malum alliciens. Vel etiam cum aliquis ex modico dato intendit multo maiora acquirere. Eccli. XX, 14 s.: *datus insipientis non erit tibi utilis, oculi enim illius septemplices sunt. Exigua dabit, et multa improperabit*. Et Prov. c. XI, 28: *simplicitas iustorum dirigit eos*.  
+**883**. Deinde cum dicit ***quod si delictum eorum***, etc., solvit quaestionem quantum ad secundum intellectum, ostendens casum Iudaeorum esse reparabilem, quod quidem ostendit tripliciter.  
 
-Quandoque autem aliquis subvenit alteri, eius curam habendo, et quantum ad hoc dicit ***qui praeest***, id est qui est in praelationis officio constitutus, utatur illo officio ***in sollicitudine***. Hebr. ult.: *obedite praepositis vestris, et subiacete eis. Ipsi enim pervigilant quasi rationem reddituri pro animabus vestris*. II Cor. XI, 28: *sollicitudo omnium Ecclesiarum*.  
+Primo ex utilitate;  
 
-Quandoque autem subvenit aliquis alicui relevando eius miseriam, et quantum ad hoc dicit ***qui miseretur***, id est qui habet facultatem et affectum miserendi, exequatur hoc ***in hilaritate***, quasi libenter hoc faciens. II Cor. IX, 7: *non ex tristitia, aut ex necessitate. Hilarem enim datorem diligit Deus*. Eccli. XXXV, 11: *in omni dato hilarem fac vultum tuum*.  
+secundo ex Apostoli intentione, ibi ***vobis enim dico***, etc.,  
 
-**983**. Deinde cum dicit ***dilectio sine simulatione***, etc., docet usum doni gratuiti, quod est omnibus commune, scilicet caritatis.  
+tertio ex conditione illius populi, ibi ***quod si delibatio sancta***, et cetera.  
 
-Et primo ponit ea quae pertinent ad caritatem in generali;  
+**884**. Circa primum ponit talem rationem: bonum est potentius ad utilitatem inferendam quam malum; sed malum Iudaeorum magnam utilitatem gentibus contulit, ergo multo maiorem confert mundo eorum bonum. Hoc est ergo quod dicit: dictum est quod eorum delicto salus gentibus facta est, ***quod***, pro *sed*, ***illorum***, scilicet Iudaeorum, ***delictum divitiae sunt mundi***, id est, gentilium, quia scilicet delictum Iudaeorum redundavit in spirituales divitias gentilium, de quibus dicitur Is. XXXIII, 6: *divitiae salutis sapientia et scientia*, quod quidem refert ad eorum culpam. ***Et diminutio eorum***, qua scilicet decreverunt ab illa celsitudine gloriae quam habebant, quod pertinet ad poenam. Dan. III, 37: *imminuti sumus plusquam omnes gentes, sumusque humiles in universa terra hodie propter peccata nostra*. Sunt autem ***divitiae gentium*** per occasionem, ut dictum est. Vel ***diminutio eorum***, id est, aliqui minimi et abiecti ex Iudaeis gentes spiritualiter ditaverunt, scilicet apostoli, de quibus I Cor. I, 27: *infirma mundi elegit Deus, ut confundat fortia*. ***Quanto magis plenitudo eorum***, id est abundantia eorum spiritualis, vel multitudo eorum ad Deum conversa in divitias gentium redundabit? Eccli. c. XXIV, 16: *in plenitudine sanctorum detentio mea*.  
 
-secundo ponit quaedam specialiter pertinentia ad dilectionem quorumdam, ibi ***necessitatibus sanctorum***, et cetera.  
+Et sic, si Deus propter utilitatem totius mundi permisit Iudaeos delinquere et diminui, multo magis implebit ruinas eorum propter totius mundi utilitatem.  
 
-Circa primum tria facit.  
+**885**. Deinde cum dicit ***vobis enim dico gentilibus***, etc., ostendit idem ex sua intentione quam primo proponit;  
 
-Primo ostendit qualis debeat esse dilectio caritatis ex parte diligentis;  
+secundo eius rationem assignat, ibi ***si enim amissio***, et cetera.  
 
-secundo, qualiter se debeat habere ad proximum, ibi ***caritate fraternitatis***, etc.;  
+**886**. Circa primum considerandum est, quod cum in superioribus huius epistolae partibus locutus fuerit omnibus fidelibus existentibus Romae, sive fuerint ex gentibus, sive ex Iudaeis, nunc specialiter sermonem suum dirigit ad gentiles conversos.  
 
-tertio, qualiter se debeat habere ad Deum, ibi ***sollicitudine non pigri***.  
+**887**. Dicit ergo: dixi quod plenitudo eorum divitiae mundi essent. In huius enim signum ***dico vobis gentibus***, scilicet gentibus ad fidem conversis. Is. LXV, 1: *dixi, ecce ego ad gentes*, et cetera. Hoc, inquam, vobis dico ***quamdiu ego sum gentium apostolus***, quarum cura specialiter mihi incumbit ex iniuncto officio. Gal. II, 9: *dextras dederunt mihi et Barnabae societatis, ut nos in gentes, ipsi autem in circumcisionem*. I Tim. I, 7: *in quo positus sum ego praedicator et apostolus, veritatem enim dico in Christo Iesu, non mentior, doctor gentium in fide et veritate*. ***Ministerium meum honorificabo***, non quidem his quae ad saecularem honorem pertinent sed primo quidem ornando ipsum bonis moribus. II Cor. VI, 4: *in omnibus exhibeamus nosmetipsos sicut Dei ministros in multa patientia*. Secundo per supererogationem operum, ad quae non tenebatur. I Cor. IX, 18: *quae est ergo merces mea ut Evangelium Christi praedicans sine sumptu*, et cetera. Tertio ampliando sollicitudinem ad omnium salutem. II Cor. XI, 28: *praeter illa quae extrinsecus sunt instantia mea quotidiana sollicitudo omnium ecclesiarum*.  
 
-**984**. Circa qualitatem autem caritatis tria docet.  
+**888**. Unde et hic subdit ***si quo modo ad aemulandum provocem carnem meam***, id est Iudaeos, ***qui sunt mihi cognati secundum carnem***, ut supra IX, 3 dictum est. Is. LVIII, v. 7: *carnem tuam ne despexeris*. Et hoc ad aemulandum bona aemulatione, secundum illud I Cor. XII, 31: *aemulamini charismata meliora*. Et per hunc modum ***ut salvos faciam aliquos ex illis***, scilicet ex Iudaeis I Cor. X, 33: *non quaerens quod mihi utile est, sed quod multis, ut salvi fiant*.  
 
-Primo quidem, quod dilectio debet esse vera. Unde dicit ***dilectio sine simulatione***, ut scilicet non tantum in verbo, aut in exteriori apparentia, sed sit in vero cordis affectu, et efficacia operis. I Io. III, 18: *non diligamus verbo, neque lingua, sed opere et veritate*. Eccli. VI, 15: *amico fideli nulla est comparatio*.  
+**889**. Sed contra est quod ipse dicit II Cor. X, 13: *nos autem non in immensum gloriamur, sed secundum mensuram regulae, qua mensus est nobis Deus, mensuram pertingendi usque ad vos*. Non autem acceperat mensuram sui ministerii, nisi super gentes. Non ergo debebat se intromittere de Iudaeis.  
 
-Secundo docet quod dilectio debet esse pura, cum dicit ***odientes malum***. Tunc etiam est pura dilectio, quando homo non consentit amico suo in malum, sed ita diligit hominem, ut eius vitium odiat. Unde dicitur I Cor. XIII, 6: *non gaudet super iniquitate, congaudet autem veritati*. Ps. CXVIII, 113: *iniquos odio habui*.  
+Dicunt autem quidam quod Iudaei in Iudaea habitantes non pertinebant ad eius apostolatum, sed Petri, Iacobi et Ioannis, ut dicitur Gal. II, 7. Sed Iudaei inter gentes habitantes, ad eius apostolatum pertinebant, et eorum saluti insistebat.  
 
-Tertio docet quod dilectio debet esse honesta, cum dicit ***adhaerentes bono***, ut scilicet aliquis adhaereat alteri propter bonum virtutis. Gal. IV, 18: *bonum autem aemulamini in bono semper*. Haec est pulchra dilectio, de qua dicitur Eccli. XXIV, 24: *ego mater pulchrae dilectionis*.  
+Sed hoc videtur contra intentionem litterae. Si enim illi Iudaei ad eius apostolatum pertinebant in hoc quod eorum conversioni intendebat, non honorificasset suum ministerium.  
 
-**985**. Deinde, cum dicit ***caritate fraternitatis***, ostendit qualiter caritas se debeat habere ad proximum.  
+Et ideo dicendum est quod sic erat sibi commissa praedicatio gentilium, ut ad eam ex necessitate teneretur, sicut ipse dicit I Cor. c. IX, 16: *si non evangelizavero, vae mihi; necessitas enim mihi incumbit*; nec tamen erat ei prohibitum Iudaeis praedicare, quamvis ad hoc non teneretur. Et secundum hoc eorum saluti insistendo, ministerium suum honorificabat; quod quidem non faceret, si casum eorum irreparabilem reputaret.  
 
-Et primo quantum ad interiorem affectum, cum dicit ***caritate fraternitatis invicem diligentes***; ut scilicet non solum fratres diligamus per caritatem sed etiam diligamus ipsam caritatem, qua eos diligimus et ab eis diligimur. Sic enim si charam habemus caritatem, non de facili eam dissolvi faciemus. Hebr. ult.: *caritas fraternitatis maneat in vobis*. Cant. ult.: *si dederit homo omnem substantiam domus suae pro dilectione, tamquam nihil despiciet illam*.  
+Unde ipsum Apostoli studium quod adhibebat ad conversionem Iudaeorum, inducit pro signo quod casus Iudaeorum sit reparabilis.  
 
-**986**. Secundo, quantum ad exteriorem effectum, cum dicit ***honore invicem praevenientes***. In quo tria designantur.  
+**890**. Deinde cum dicit ***si enim***, etc. assignat rationem suae intentionis, quia scilicet videbat quod conversio Iudaeorum proveniebat in salutem gentium. Unde dicit ***si enim amissio eorum***, id est incredulitas et inobedientia eorum, sicut dicitur servus amissus quando sub cura et obedientia domini refugit esse. Ier. l, 6: *grex perditus factus est populus meus*. Si, inquam, ista Iudaeorum amissio est occasionaliter ***reconciliatio mundi***, inquantum per mortem Christi sumus reconciliati Deo, ***quae assumptio nisi vita ex mortuis?*** Id est, quod Iudaei reassumantur a Deo, secundum illud Zach. XI, 7: *sumpsi mihi duas virgas*. Quid, inquam, faciet talis assumptio, nisi quod gentiles resurgere faciat ad vitam?  
 
-Primo quidem quod homo proximum in reverentia debet habere, quod pertinet ad rationem honoris. Nullus enim potest vere diligere eum quem despicit. Phil. II, 3: *in humilitate, superiores invicem arbitrantes*. Quod quidem fit dum aliquis suum defectum considerat et bonum proximi. In honore autem non solum reverentia intelligitur, sed etiam necessariorum subventio, sicut, cum dicitur Ex. XX, 12: *honora patrem tuum, et matrem tuam*, praecipitur necessariorum subventio, sicut patet per hoc quod Dominus, Matth. XV, v. 3 ss., arguit Pharisaeos contra hoc praeceptum impedientes filios a subventione parentum.  
+Gentiles enim sunt fideles qui tepescent. Matth. XXIV, 12: *quoniam abundavit iniquitas refrigescet caritas multorum*. Vel etiam qui totaliter cadent decepti ab Antichristo, Iudaeis conversis in pristinum fervorem restituentur. Et etiam sicut Iudaeis cadentibus, gentiles post inimicitias sunt reconciliati, ita post conversionem Iudaeorum, imminente iam fine mundi, erit resurrectio generalis, per quam homines ex mortuis ad vitam immortalem redibunt.  
 
-Secundo designatur quod effectus dilectionis debet mutuo exhiberi, ut scilicet homo non solum velit beneficia recipere, sed etiam exhibere. Eccli. IV, 36: *non sit porrecta manus tua ad accipiendum, et ad dandum collecta*. Et XIV, 15 s.: *in divisione sortis da et accipe*. Et hoc designat, cum dicit ***invicem***.  
+**891**. Deinde cum dicit ***quod si delibatio***, etc. ostendit idem ex conditione ipsius gentis Iudaeorum.  
 
-Tertio designatur quod effectus dilectionis debet esse promptus et velox, quod designatur, cum dicit ***praevenientes***, ut scilicet aliquis praeveniat amicum in beneficiis. Eccli. c. XXXVII, 1: *omnis amicus dicet: et ego amicitiam copulavi*.  
+Et hoc quidem dupliciter.  
 
-**987**. Deinde, cum dicit ***sollicitudine***, etc., ostendit qualiter se debeat habere dilectio caritatis ad Deum.  
+Primo, ex parte apostolorum cum dicit ***quod si delibatio sancta est, et massa***.  
 
-Et primo incipit ab ipsa rationis attentione, cum dicit ***sollicitudine*** sitis ***non pigri***, scilicet ad serviendum Deo. Mich. VI, 8: *indicabo tibi, o homo, quid sit bonum, et quid Deus requirat a te*; postea subdit: *sollicite ambulare cum Deo tuo*. II Tim. II, 15: *sollicite cura teipsum probabilem exhibere Deo*.  
+Dicitur autem delibatio id quod ex massa pastae sumitur, quasi ad probandum. Sunt autem apostoli ex gente Iudaeorum assumpti a Deo, sicut delibatio ex massa. Et ideo si apostoli sunt sancti, consequens est quod gens Iudaeorum sit sancta. I Petr. II, 9: *gens sancta, populus acquisitionis*, et cetera.  
 
-**988**. Secundo, quantum ad effectum, cum dicit ***spiritu*** sitis ***ferventes***, scilicet in Dei dilectione.  
+**892**. Secundo probat idem ex parte patriarcharum, qui comparantur ad Iudaeos, sicut radix ad ramos, unde et Is. XI, 1 dicitur: *egredietur virga de radice Iesse*. Si ergo patriarchae, qui sunt radix, sunt sancti, et Iudaei, qui ex eis processerunt sicut rami, sunt sancti. Os. XIV, 6: *erumpet radix eius, ut Libani, ibunt rami*, et cetera.  
 
-Procedit autem fervor ex abundantia caloris, unde fervor spiritus dicitur, quia propter abundantiam divinae dilectionis totus homo fervet in Deum, Act. XVIII, 25 dicitur quod *Apollo fervens spiritu loquebatur*. I Thes. ult.: *Spiritum nolite extinguere*.  
+**893**. Sed contra est quod dicitur Ezech. c. XVIII, 5 s.: *vir si fuerit iustus, vita vivet*. Sic ergo non sequitur quod si radix est sancta, et rami. Ibidem etiam subditur quod *si filius videns peccata patris sui timuerit et non fecerit simile, non morietur, sed vita vivet*; unde etiam videtur non sequi quod si delibatio sancta est et massa.  
 
-**989**. Tertio, quantum ad exterius obsequium, cum dicit ***Domino servientes***, scilicet servitute latriae, quae soli Deo debetur. Deut. VI, 13: *Dominum Deum tuum adorabis, et illi soli servies*. Ps. II, 11: *servite Domino in timore*.  
+Sed dicendum quod Apostolus hic non loquitur de actuali sanctitate; non enim intendit ostendere Iudaeos incredulos esse sanctos sed de sanctitate potentiali. Nihil enim prohibet eos reparari in sanctitate, quorum patres et quorum filii sunt sancti.  
 
-Vel, secundum aliam litteram: *tempori servientes*, ut scilicet Dei servitium congruo tempore faciamus. Eccle. VIII, 6: *omni negotio tempus est, et opportunitas*.  
-
-**990**. Quarto, quantum ad mercedem servitutis, cum dicit ***spe gaudentes***, scilicet mercedis, quae est Dei fruitio. Gen. XV, 2: *ego Dominus merces tua magna nimis*. Supra V, 2: ***gloriamur in spe gloriae filiorum Dei***. Facit autem spes hominem gaudentem ratione certitudinis, sed tamen affligit ratione dilationis. Prov. XIII, 12: *spes quae differtur affligit animam*.  
-
-**991**. Quinto, quantum ad difficultatem quam homo patitur in Dei servitio. Unde subdit ***in tribulatione***, scilicet quam propter Deum sustinetis, sitis ***patientes***. Supra V, v. 3: ***tribulatio patientiam operatur***.  
-
-**992**. Sexto quantum ad omnia praedicta dicit ***orationi instantes***, in quo orationis assiduitas designatur. Lc. XVIII, 1: *oportet semper orare, et numquam deficere*. II Thess. V, 17: *sine intermissione orate*.  
-
-Per orationem enim in nobis sollicitudo excitatur, fervor accenditur, ad Dei servitium incitamur, gaudium spei in nobis augetur et auxilium in tribulatione promeremur. Ps. CXIX, 1: *ad Dominum, cum tribularer, clamavi, et exaudivit me*.  
-
-**993**. Deinde, cum dicit ***necessitatibus sanctorum***, etc., determinat de caritate quantum ad speciales quasdam personas.  
-
-Et primo quidem quantum ad indigentes;  
-
-secundo quantum ad inimicos, ibi ***benedicite persequentibus vos***.  
-
-**994**. Circa primum duo facit.  
-
-Primo inducit ad exhibenda beneficia caritatis indigentibus in universali, cum dicit ***necessitatibus sanctorum communicantes***. Ubi tria sunt notanda. Primo quidem quod eleemosynae ex caritate sunt impendendae indigentibus, sive necessitatem patientibus. Eph. IV, 28: *laboret operando manibus suis quod bonum est, ut habeat unde tribuat necessitatem patienti*.  
-
-Secundo, quod potius est subveniendum iustis et sanctis quam aliis. Unde dicit ***necessitatibus sanctorum***. Eccli. XII, 5: *da iusto, et non recipias peccatorem*. Quod quidem non sic est intelligendum, quin etiam in necessitatibus sit peccatoribus subveniendum, sed quia non est eis subveniendum ad fomentum peccati. Utilius tamen est subvenire iustis, quia talis eleemosyna fructuosa est, non solum ex parte dantis sed etiam ex suffragio recipientis. Lc. XVI, 9: *facite vobis amicos de mammona iniquitatis, ut cum defeceritis, recipiant vos in aeterna tabernacula*, scilicet suis suffragiis.  
-
-**995**. Secundo in speciali admonet ad hospitalitatem, dicens ***hospitalitatem sectantes***, quia scilicet in hoc misericordiae opere alia misericordiae opera includuntur. Nam hospes non solum domum exhibet ad manendum sed etiam alia necessaria subministrat. Hebr. ult.: *hospitalitatem nolite oblivisci*. I Petr. IV, 9: *hospitales invicem sine murmuratione*.  
+Vel potest dici quod illi sunt specialiter rami patriarcharum, qui eos imitantur, secundum illud Io. VIII, 39: *si filii estis Abrahae, opera Abrahae facite*.  
 
 Lectio 3  
 
-***Caritas ad inimicos***
+***Prohibitio gloriationis contra Judaeos***
 
-***^12:14^ Benedicite persequentibus vos: benedicite, et nolite maledicere. [n. 996]***
+***^11:17^ Quod si aliqui ex ramis fracti sunt, tu autem cum oleaster esses, insertus es in illis, et socius radicis, et pinguedinis olivae factus es, [n. 894]***
 
-> ^12:15^ Gaudere cum gaudentibus, flere cum flentibus: [n. 1003]
+> ^11:18^ noli gloriari adversus ramos. Quod si gloriaris: non tu radicem portas, sed radix te. [n. 897]
 
-> ^12:16^ idipsum invicem sentientes: non alta sapientes, sed humilibus consentientes. Nolite esse prudentes apud vosmetipsos: [n. 1005]
+> ^11:19^ Dices ergo: fracti sunt rami ut ego inserar. [n. 898]
 
-> ^12:17^ nulli malum pro malo reddentes: providentes bona non tantum coram Deo, sed etiam coram omnibus hominibus. [n. 1007]
+> ^11:20^ Bene: propter incredulitatem fracti sunt. Tu autem fide stas: noli altum sapere, sed time. [n. 900]
 
-> ^12:18^ Si fieri potest, quod ex vobis est, cum omnibus hominibus pacem habentes: [n. 1010]
+> ^11:21^ Si enim Deus naturalibus ramis non pepercit: ne forte nec tibi parcat. [n. 902]
 
-> ^12:19^ non vosmetipsos defendentes carissimi, sed date locum irae. [n. 1011] Scriptum est enim: *mihi vindicta: ego retribuam*, dicit Dominus. [n. 1013]
+> ^11:22^ Vide ergo bonitatem, et severitatem Dei: in eos quidem qui ceciderunt, severitatem: in te autem bonitatem Dei, [n. 903] si permanseris in bonitate, alioquin et tu excideris. [n. 906]
 
-> ^12:20^ Sed si esurierit inimicus tuus, ciba illum: si sitit, potum da illi: hoc enim faciens, carbones ignis congeres super caput ejus.
+> ^11:23^ Sed et illi, si non permanserint in incredulitate, inserentur: potens est enim Deus iterum inserere illos. [n. 908]
 
-> ^12:21^ Noli vinci a malo, sed vince in bono malum. [n. 1015]
+> ^11:24^ Nam si tu ex naturali excisus es oleastro, et contra naturam insertus es in bonam olivam: quanto magis ii qui secundum naturam inserentur suae olivae? [n. 910]
 
-> **996**. Supra Apostolus ostendit qualiter caritas sit exhibenda indigentibus, nunc ostendit qualiter sit exhibenda etiam inimicis.
+> **894**. Postquam Apostolus ostendit casum Iudaeorum fuisse utilem et reparabilem, hic excludit gloriationem gentilium contra Iudaeos.
 
-Et primo ponit admonitionem;  
+Et circa hoc duo facit.  
 
-secundo probat quod dixit, ibi ***scriptum est enim***, et cetera.  
+Primo ostendit gentilibus conversis, non esse gloriandum contra Iudaeos;  
 
-Circa primum considerandum est, quod ad caritatem tria pertinent. Primo quidem benevolentia, quae consistit in hoc quod aliquis velit bonum alteri et malum eius nolit; secundo concordia, quae consistit in hoc quod amicorum sit idem nolle et velle; tertio beneficentia, quae consistit in hoc quod aliquis benefaciat ei quem amat et eum non laedat.  
+secundo respondet obiectioni gentilium, ibi ***dices ergo: fracti sunt***, et cetera.  
 
-Primo ergo ponit ea quae pertinent ad benevolentiam;  
+Circa primum duo facit.  
 
-secundo ea quae pertinent ad concordiam, ibi ***gaudere cum gaudentibus***;  
+Primo prohibet gentiles contra Iudaeos gloriari;  
 
-tertio ea quae pertinent ad beneficentiam, ibi ***nulli malum***, et cetera.  
+secundo rationem prohibitionis assignat, ibi ***quod si gloriaris***, et cetera.  
 
-**997**. Circa primum duo facit.  
+**895**. Videbatur autem ex duabus partibus imminere gentilibus gloriandi occasio contra Iudaeos.  
 
-Primo monet ut benevolentia sit ampla, quae se extendat etiam ad inimicos, cum dicit ***benedicite persequentibus vos***.  
+Primo quidem ex defectu Iudaeorum, dicens: dictum est, quod si radix est sancta, et rami, sed ***si aliqui ex ramis***, id est Iudaeis, non omnes tamen, ***sunt fracti***, id est, divisi a fide patrum qui comparantur radici, ***noli*** scilicet ***gloriari***. Iob XV, 30: *ramos eius arefacit flamma*. Sap. IV, 5: *confringentur rami inconsumpti*.  
 
-Circa quod notandum est, quod benedicere est bonum dicere. Contingit autem bonum dicere tripliciter. Uno modo enuntiando, puta cum quis bonum alterius laudat. Eccli. c. XXXI, 28: *splendidum in panibus benedicent labia multorum et testimonium veritatis illius fidele*.  
+Secundo videtur eis imminere materia gloriandi ex parte promotionis eorum. Promotio autem alicuius tanto magis consuevit eum extollere in vanam gloriam, quanto ex viliori statu elevatur, secundum illud Prov. XXX, 21: *propter tria movetur terra, et quartum non poterit sustinere. Per servum cum regnaverit*, et cetera. Et ideo praemittit abiectum statum, de quo assumpti erant, dicens ***tu autem*** gentilis, ***cum*** in statu gentilitatis ***oleaster esses***, id est arbor infructuosa. Ier. XVII, 6: *erunt quasi myricae in deserto*. Matth. III, 10: *omnis arbor quae non facit fructum bonum, excidetur*, et cetera.  
 
-Alio modo imperando, et sic benedicere per auctoritatem, est proprium Dei, cuius imperio bonum ad creaturas derivatur: ministerium autem pertinet ad ministros Dei, qui nomen Domini super populum invocant. Num. VI, 22–26: *sic benedicetis filiis Israel, et dicetis eis: benedicat tibi Dominus, et custodiat te. Ostendat Dominus faciem suam tibi, et misereatur tui. Convertat Dominus vultum suum ad te, et det tibi pacem*. Et post: *invocabunt nomen meum super filios Israel, et ego benedicam eis*.  
+**896**. Deinde ponit eorum promotionem.  
 
-Tertio benedicit aliquis optando. Ps. CXXVIII, 8: *et non dixerunt qui praeteribant, benedictio Domini super vos*. Et secundum hoc benedicere est bonum alicui velle, et quasi bonum pro aliquo precari. Et hoc modo accipitur hic.  
+Et primo quidem quantum ad hoc quod sunt assumpti in dignitatem illius gentis, unde dicit ***insertus es in illis***, id est loco illorum. Iob XXXIV, 24: *conteret multos et innumerabiles, et stare faciet alios pro eis*.  
 
-**998**. Unde in hoc quod dicitur ***benedicite persequentibus vos***, datur intelligi quod etiam ad inimicos et persecutores debemus esse benevoli, eis bona optando et pro eis orando. Matth. V, 44: *diligite inimicos vestros, et orate pro persequentibus et calumniantibus vos*.  
+Secundo per hoc quod sunt consociati patriarchis, quos supra radici comparaverat unde dicit ***et socius radicis factus es***, id est, consociatus es patriarchis et prophetis. Matth. VIII, 11: *multi venient ab oriente, et recumbent cum Abraham, Isaac et Iacob in regno caelorum*.  
 
-Quod autem hic dicitur, quodam quidem modo est in praecepto, quodam autem modo est in consilio. Quod enim aliquis in generali dilectionis affectum impendat inimicis, non excludendo eos a communi dilectione proximorum et a communi oratione, quam quis pro fidelibus facit, pertinet ad necessitatem praecepti. Similiter etiam quod aliquis in articulo necessitatis inimico dilectionis effectum particulariter impendat, pertinet ad necessitatem praecepti. Unde dicitur Ex. c. XXIII, 4: *si occurreris bovi inimici tui, aut asino erranti, reducas eum*.  
+Tertio per comparationem ad gloriam apostolorum, cum dicit ***et socius pinguedinis olivae factus es***. Oliva quidem dicitur ipsa gens Iudaeorum propter uberes fructus spirituales, quos attulit. Ier. XI, 6: *olivam uberem, pulchram, fructiferam, speciosam vocavit Deus nomen tuum*; Ps. LI, 10: *ego autem sicut oliva fructifera in domo Dei*. Sicut autem huius olivae radix sunt patriarchae et prophetae, ita etiam pinguedo huius olivae est abundantia gratiae Spiritus Sancti, quam prae omnibus apostoli habuerunt, ut Glossa dicit. Unde Iud. IX, 9 oliva dixisse inducitur: *numquid possum deserere pinguedinem meam?* Ps. LXII, 6: *sicut adipe et pinguedine repleatur anima mea*. Sic ergo promoti sunt gentiles ad societatem illius populi, scilicet patriarcharum et apostolorum et prophetarum. Eph. II, 19 s.: *estis cives sanctorum et domestici Dei, superaedificati super fundamentum apostolorum et prophetarum*.  
 
-Sed quod aliquis in speciali dilectionis affectum et orationis suffragium, aut qualecumque subventionis beneficium exhibeat inimico, interdum etiam extra articulum manifestae necessitatis, pertinet ad perfectionem consiliorum: quia per hoc ostenditur tam perfecta caritas hominis ad Deum quod omne humanum odium superet. Ille autem qui poenitet et misericordiam petit, iam non est inter inimicos aut persecutores computandus. Unde ei absque omni difficultate sunt caritatis indicia ostendenda. Eccli. XXVIII, 2: *relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur*.  
+Et licet has occasiones gloriandi habere videaris, gentilis, ***noli tamen gloriari adversus ramos***, id est adversus Iudaeos. I Cor. c. V, 6: *non est bona gloriatio vestra*.  
 
-**999**. Secundo docet quod benevolentia sive benedictio sit pura, id est absque permixtione contrarii. Unde dicit ***benedicite, et nolite maledicere***, id est ita benedicatis quod nullo modo maledicatis. Quod est contra quosdam qui ore benedicunt et corde maledicunt, secundum illud Ps. XXVII, 3: *qui loquuntur pacem cum proximo suo, mala autem in cordibus eorum*. Et etiam contra illos qui quandoque benedicunt, quandoque maledicunt, vel quibusdam benedicunt, quibusdam maledicunt. Iac. III, 10: *ex ipso ore procedit benedictio et maledictio. Non oportet, fratres mei, haec ita fieri*. I Petr. III, 9: *non reddentes maledictum pro maledicto*.  
+**897**. Deinde cum dicit ***quod si gloriaris***, etc., assignat rationem suae admonitionis, dicens, ***quod si***, non obstante hac admonitione, ***gloriaris***, insultando Iudaeis stantibus vel excisis, hoc consideres, ad repressionem gloriae tuae, quod ***tu radicem non portas, sed radix te***, id est Iudaea non accepit a gentilitate salutem sed potius e converso. Io. IV, 22: *salus ex Iudaeis est*. Unde et Abrahae promissum est Gen. XXII, 18, quod in ipso benedicentur omnes cognationes terrae.  
 
-**1000**. Sed contra hoc videtur esse quod in Sacra Scriptura plures maledictiones inveniuntur. Dicit enim Deut. XXVII, 26: *maledictus qui non permanserit in sermonibus legis huius, nec eos opere perficit*.  
+**898**. Deinde cum dicit ***dicis ergo***, etc., excludit obiectionem gentilium.  
 
-Ad quod dicendum est quod maledicere est malum dicere: quod quidem tripliciter contingit, sicut et benedicere, scilicet enuntiando, imperando et optando; et secundum quodlibet horum modorum potest bene et male fieri.  
+Et primo proponit obiectionem;  
 
-Si enim id quod est materialiter malum, dicatur malum quolibet praedictorum modorum, sub ratione boni non est illicitum, quia hoc est magis benedicere, quam maledicere: unumquodque enim magis iudicatur secundum suam formam, quam secundum suam materiam. Si vero aliquis dicat malum sub ratione mali, formaliter maledicit; unde est omnino illicitum.  
+secundo excludit eam ex consideratione divini iudicii, ibi ***bene***, etc.;  
 
-Utrumque autem horum contingit in hoc, quod aliquis enuntiando malum profert.  
+tertio inducit eos in diligentem considerationem divinorum iudiciorum, ibi ***vide ergo bonitatem***, et cetera.  
 
-Quandoque enim aliquis enuntiat malum alicuius ad notificandum necessariam veritatem et sic dicit malum sub ratione veri necessarii, quod est bonum, unde est licitum. Et hoc modo Iob III, 1 s. dicitur, quod Iob maledixit diei suae, enuntians malitiam praesentis vitae, sicut Apostolus dicit Eph. V, 16: *redimentes tempus, quoniam dies mali sunt*.  
+**899**. Dicit ergo primo: ergo tu gentilis, qui gloriaris contra Iudaeos, forte dicis: ***fracti sunt rami ut ego inserar***, id est ad hoc Deus permisit Iudaeos a fide excidere, ut ego ad fidem intrarem.  
 
-Quandoque autem aliquis enuntiat malum alterius sub ratione mali, scilicet intentione detrahendi. Et hoc est illicitum. Dicitur enim I Cor. VI, 10: *neque maledici, neque rapaces regnum Dei possidebunt*.  
+Nullus autem sustinet detrimentum unius rei, nisi propter rem pretiosiorem et magis dilectam, sicut medicus permittit infirmitatem esse in pede ut sanet oculum. Sic igitur ex hoc ipso videtur gentilitas esse pretiosior et magis Deo accepta, quam Iudaea. Unde Mal. I, 10 s. dicitur: *non est mihi voluntas in vobis, dicit Dominus Deus, et munus non accipiam de manu vestra. Ab ortu autem solis usque ad occasum, magnum est nomen meum in gentibus*. Et Is. XLIX, 6: *parum est ut sis mihi servus ad suscitandas tribus Iacob. Dedi te in lucem gentium*.  
 
-**1001**. Similiter etiam in eo quod quis dicit malum imperando; contingit autem quandoque quod aliquis dicit id quod est materialiter malum sub ratione boni, puta cum ex imperio alicuius provenit alicui malum poenae propter iustitiam, quod quidem est licitum. Et hoc modo transgressores legis maledicuntur, id est, poenae secundum iustitiam deputantur.  
+**900**. Deinde cum dicit ***bene***, etc., excludit obiectionem.  
 
-Quandoque vero aliquis imperando dicit malum alterius iniuste, puta propter odium et vindictam. Et talis maledictio est illicita. Ex. XXI, 17: *qui maledixerit patri vel matri, morte moriatur*.  
+Et primo assignat causam defectus Iudaeorum et promotionis gentilium, dicens: ***bene*** in hoc dicis quod Deus permisit frangi ramos ut tu inseraris, sed considera causam fractionis ramorum: ***propter incredulitatem***, inquam, ***fracti sunt***, quia scilicet in Christum credere noluerunt. Ez. II, 6: *increduli et subversores sunt tecum*. Io. VIII, 46: *si veritatem dico vobis, quare non creditis mihi?* ***Tu autem***, scilicet gentilis, ***stas in fide***, id est credendo in Christum, in quo gratiam consecutus es. II Cor. I, 23: *nam fide statis*. I Cor. XV, 1: *notum facio vobis Evangelium, in quo statis, per quod et salvamini*.  
 
-**1002**. Et idem est etiam, circa id quod aliquis dicit malum optando. Si enim hoc optet sub ratione boni, puta ut per adversitatem alicuius perveniat ad spiritualem profectum, hoc licitum est. Iob V, 3: *vidi stultum firma radice, et maledixi pulchritudini eius statim*.  
+**901**. Secundo inducit admonitionem, dicens ***noli altum sapere***, id est noli de te ultra teipsum praesumere. Infra XII, 16: ***non alta sapientes, sed humilibus consentientes***. Ps. CXXX, 1: *Domine, non est exaltatum cor meum, neque elati sunt oculi mei*. ***Sed time***, ne scilicet etiam tu frangaris per incredulitatem, quod pertinet ad timorem castum. Prov. c. XXVIII, 14: *Beatus homo qui semper est pavidus, qui vero mentis est durae, corruet in malum*. Eccli. I, 27: *timor Domini expellit peccatum*.  
 
-Si vero hoc homo faciat propter odium vel vindictam, est omnino illicitum. I Reg. XVII, v. 43: *maledixit Philisthaeus David in diis suis*.  
+**902**. Tertio assignat rationem suae admonitionis, dicens ***si enim naturalibus ramis***, id est Iudaeis, qui ex naturali origine ex patriarchis descenderunt, ***non pepercit Deus***, quin eos frangi permitteret, ***time ne forte nec tibi parcat***, quin, scilicet te permittat per incredulitatem excidere. Prov. VI, v. 34: *zelus et furor viri non parcet in die vindictae*. Ier. XIII, 14: *non parcam, neque miserebor, ut non dispergam eos*.  
 
-**1003**. Deinde cum dicit ***gaudere cum gaudentibus***, etc., ponit ea quae pertinent ad concordiam.  
+In hoc ergo consistit solutio Apostoli quod cum aliquis videt se gratiam adeptum, alio cadente, non debet extolli contra cadentem, sed magis timere sibi ipsi, quia ipsa superbia est causa praecipitii et timor est causa custodiae et cautelae.  
 
-Et primo ponit concordiae documenta;  
+**903**. Deinde cum dicit ***vide ergo bonitatem et severitatem***, etc., inducit eos in diligentem considerationem divinorum iudiciorum.  
 
-secundo removet impedimenta, ibi ***non alta sapientes***, et cetera.  
+Et primo inducit eos ad considerandum;  
 
-**1004**. Concordia autem potest dupliciter attendi.  
+secundo instruit eos quasi per se considerare non valentes, ibi ***nolo enim vos ignorare, fratres***, etc.;  
 
-Uno modo quantum ad effectum in bonis et in malis. In bonis quidem, ut aliquis bonis aliorum congaudeat; unde dicit ***gaudere***, scilicet debetis, ***cum gaudentibus***. Phil. II, v. 17: *gaudeo et congratulor omnibus vobis*. Sed hoc est intelligendum, quando quis gaudet de bono. Sunt autem quidam qui gaudent de malo, secundum illud Prov. II, 14: *laetantur cum malefecerint, et exultant in rebus pessimis*. Et in istis non est congaudendum. I Cor. XIII, 6 dicitur de caritate, quod *non gaudet super iniquitate, congaudet autem veritati*.  
+tertio quasi nec ipse perfecte sufficeret ad istorum investigationem, exclamat admirando divinam sapientiam ibi ***O altitudo divitiarum***, et cetera.  
 
-In malis autem, ut aliquis tristetur de malis alterius. Unde subdit, ***flere***, scilicet debetis, ***cum flentibus***. Iob XXX, 25: *flebam quondam super eo, qui afflictus erat*. Eccli. c. VII, 38: *non desis plorantibus in consolatione, et cum lugentibus ambula*.  
+**904**. Circa primum tria facit. Primo ostendit quid considerari oporteat dicens ***vide ergo***, id est diligenter considera, ***bonitatem Dei***, miserentis; Ps. LXXII, 1: *quam bonus Israel Deus, his qui recto sunt corde*; supra II, 4: ***an divitias bonitatis eius contemnis? Et severitatem***, ipsius punientis; Ps. XCIII, 1: *Deus ultionum Dominus*. Nah. c. I, 2: *Deus aemulator et ulciscens Dominus*.  
 
-Ipsa enim compassio amici condolentis consolationem in tristitiis affert dupliciter: primo quidem, quia ex hoc colligitur efficax amicitiae argumentum. Eccli. XII, 9: *in malitia illius*, id est in infortunio, *amicus cognitus est*. Et hoc ipsum est delectabile cognoscere aliquem sibi esse verum amicum. Alio modo, quia ex hoc ipso quod amicus condolet, videtur se offerre ad simul portandum onus adversitatis, quod tristitiam causat. Et quidem levius portatur quod portatur a pluribus, quam ab uno solo.  
+Prima enim consideratio tribuit spem; secunda timorem, ut vitetur desperatio et praesumptio.  
 
-**1005**. Secundo, concordia consistit in unitate sententiae, et quantum ad hoc dicit ***idipsum***, id est idem sitis, ***invicem sentientes***, ut scilicet in eadem sententia conveniatis. I Cor. I, 10: *sitis perfecti in eodem sensu, et in eadem sententia*. Phil. II, 2: *eamdem caritatem habentes unanimes, idipsum sentientes*.  
+**905**. Secundo ostendit in quibus utrumque dictorum sit considerandum quantum ad praedicta, dicens ***in eos quidem***, scilicet Iudaeos, ***qui ceciderunt severitatem*** Thr. II 2, *praecipitavit Dominus, nec pepercit, omnia speciosa Iacob destruxit*, ***in te autem***, scilicet gentilem qui insertus es, ***bonitatem***. Ps. CXVIII, 65: *bonitatem fecisti cum servo tuo, Domine*.  
 
-Sciendum est tamen, quod duplex est sententia. Una quidem quae pertinet ad iudicium intellectus circa speculabilia, puta circa considerationes geometricas vel naturales: dissentire autem in talibus non repugnat amicitiae vel caritati, quia caritas in voluntate est. Huiusmodi autem iudicia non proveniunt ex voluntate, sed ex necessitate rationis.  
+**906**. Tertio ostendit quo tenore possint in praedictis haec considerari, quia non immobiliter sicut quod potest mutari in futurum.  
 
-Alia vero sententia pertinet ad iudicium rationis circa agenda, et in talibus dissensio amicitiae contrariatur: quia talis dissensio habet contrarietatem voluntatis. Et quia fides non solum est speculativa sed etiam practica, inquantum per dilectionem operatur, ut dicitur Gal. V, 6, ideo etiam dissentire a recta fide, est contrarium caritati.  
+**907**. Et primo ostendit quantum ad gentiles, dicens: ***in te***, dico, vide ***bonitatem Dei*** operantem, eo tamen tenore, ***si permanseris in bonitate***. Io. XV, 9: *manete in dilectione mea*. ***Alioquin***, si tu non dederis operam ad permanendum per timorem et humilitatem, ***et tu excideris***. Matth. III, 10: *omnis arbor quae non facit fructum bonum, excidetur*.  
 
-**1006**. Deinde cum dicit ***non alta sapientes***, etc., excludit impedimenta concordiae, quae quidem sunt duo.  
+**908**. Secundo ostendit idem quantum ad Iudaeos, et, primo, proponit quod intendit, dicens ***sed et illi***, scilicet Iudaei, ***si non permanserint in incredulitate, inserentur***, id est, in suum statum restituentur. Ier. III, 1: *fornicata es cum amatoribus multis, tamen revertere ad me, dicit Dominus*.  
 
-Primum est superbia, ex qua contingit quod dum aliquis inordinate suam excellentiam quaerit et subiectionem refugit, vult alium subiici et eius excellentiam impedire. Et ex hoc sequitur discordia. Prov. XIII, 10: *inter superbos semper iurgia sunt*. Et ideo ad hoc removendum dicit ***non sitis alta sapientes***, ut scilicet inordinate vestram excellentiam appetatis. Supra XI, 20: ***noli altum sapere, sed time***. Eccli. III, 22: *altiora te ne quaesieris*. ***Sed*** sitis ***consentientes humilibus***, id est his quae sunt humilia, id est quae abiecta videntur non recusetis cum oportuerit. Ps. LXXXIII, 11: *elegi abiectus esse in domo Dei mei*. I Petr. ult.: *humiliamini sub potenti manu Dei*, et cetera.  
+**909**. Secundo probat quod dixerat, et primo, ex divina potentia, dicens ***potens est enim Dominus Deus iterum inserere illos***; et ideo non est de eorum salute desperandum. Is. LIX, 1: *ecce non est abbreviata manus Domini, ut salvare non possit*.  
 
-Secundum impedimentum concordiae est praesumptio sapientiae, vel etiam prudentiae, ex qua contingit quod aliquis aliorum sententiae non credit. Ad quod removendum dicit ***nolite esse prudentes apud vosmetipsos***, ut scilicet iudicetis solum id esse prudentiae quod vobis videtur. Is. V, 21: *vae qui sapientes estis in oculis vestris, et coram vobismetipsis prudentes*. Supra XI, 25: ***ut non sitis vobismetipsis sapientes***.  
+**910**. Secundo probat idem per locum a minori, dicens ***nam si tu***, gentilis, ***excisus es ex naturali oleastro***, id est ex gentilitate quae naturaliter erat infructuosa, non quidem, prout Dominus fecit naturam, sed secundum quod corrupta est per peccatum. Sap. XII, 10: *iniqua est natio eorum, et naturalis malitia ipsorum*. Eph. II, 3: *eramus natura filii irae*. ***Et insertus in bonam olivam*** id est, in fide Iudaeorum, ***contra naturam***, id est contra communem cursum naturae. Non enim consuevit ramus arboris malae inseri in bonam arborem, sed potius e converso.  
 
-**1007**. Deinde, cum dicit ***nulli malum pro malo***, etc., docet illa quae pertinent ad beneficentiam, excludendo contrarium.  
+Id autem quod Deus facit, non est contra naturam, sed simpliciter est naturale. Dicimus enim esse naturale, quod fit ab agente, cui naturaliter subditur patiens, quamvis etiam non sit secundum propriam naturam patientis; sicut enim fluxus et refluxus maris est naturalis, propter hoc quod causatur ex motu lunae, cui naturaliter subditur aqua, quamvis non sit naturalis secundum formam aquae. Ita etiam cum omnis creatura sit naturaliter Deo subiecta, quicquid Deus facit in creatura, est simpliciter naturale, licet forte non sit naturale secundum propriam et particularem naturam rei in qua fit, puta cum caecus illuminatur et mortuus resuscitatur.  
 
-Et primo docet quod non sit alicui malefaciendum ratione vindictae;  
+**911**. Si, inquam, hoc factum est contra naturam, ***quanto magis hi qui sunt secundum naturam***, id est qui naturali origine pertinent ad gentem Iudaeorum, ***inserentur suae olivae***, id est reducentur ad dignitatem gentis suae, Mal. ult.: *convertet corda patrum ad filios, et corda filiorum ad patres eorum*.  
 
-secundo docet quod non sit alicui malefaciendum ratione defensionis, ibi ***non vosmetipsos defendentes***.  
+Lectio 4  
 
-**1008**. Circa primum tria facit. Primo prohibet vindictam dicens ***nulli malum pro malo reddentes***, scilicet sitis. Ps. VII, 5: *si reddidi retribuentibus mihi mala*. I Petr. III, v. 9: *non reddentes malum pro malo*.  
+***Incredulitas hominis est causa misericordiae divinae***
 
-Sed hoc est intelligendum formaliter, sicut supra dictum est de maledicto: prohibemur enim affectu odii vel invidiae reddere malum pro malo, ita quod in malo alterius delectemur. Sed si pro malo culpae quod quis facit, reddat iudex malum poenae secundum iustitiam ad compensandam malitiam, materialiter quidem infert malum, sed formaliter et per se infert bonum. Unde cum iudex suspendit latronem pro homicidio, non reddit malum pro malo sed magis bonum pro malo. Et hoc modo Apostolus quemdam pro peccato incestus tradidit *Satanae in interitum carnis, ut spiritus salvus fieret*, ut habetur I Cor. V, 5.  
+***^11:25^ Nolo enim vos ignorare, fratres, mysterium hoc (ut non sitis vobis ipsis sapientes), quia caecitas ex parte contigit in Israël, donec plenitudo gentium intraret, [n. 912]***
 
-**1009**. Secundo docet quod etiam bona sint proximis exhibenda, dicens ***providentes***, scilicet sitis, ***bona non tantum coram Deo***, ut scilicet curetis satisfacere conscientiae vestrae coram Deo, ***sed etiam coram omnibus hominibus***, ut scilicet ea faciatis quae hominibus placeant. I Cor. X, 32 s.: *sine offensione estote Iudaeis, et gentibus, et Ecclesiae Dei, sicut et ego per omnia omnibus placeo*. II Cor. VIII, 21: *providentes bona non solum coram Deo, sed etiam coram omnibus hominibus*.  
+> ^11:26^ et sic omnis Israël salvus fieret, sicut scriptum est: *veniet ex Sion, qui eripiat, et avertat impietatem a Jacob*. [n. 917]
 
-Hoc tamen contingit et bene et male fieri. Si enim hoc fiat propter favorem humanum, non bene agitur. Matth. VI, 1: *attendite ne iustitiam vestram faciatis coram hominibus, ut videamini ab eis*. Si autem hoc fiat ad gloriam Dei, bene agitur, secundum illud Matth. c. V, 6: *sic luceat lux vestra coram hominibus, ut videant opera vestra bona, et glorificent Patrem vestrum qui in caelis est*.  
+> ^11:27^ *Et hoc illis a me testamentum: cum abstulero peccata eorum*. [n. 920]
 
-**1010**. Tertio assignat rationem utriusque dictorum. Ad hoc enim debemus abstinere a retributione malorum, et coram hominibus bona providere, ut cum hominibus pacem habeamus, et ideo subdit ***cum omnibus hominibus pacem habentes***, Hebr. ult.: *pacem sequimini cum omnibus*.  
+> ^11:28^ Secundum Evangelium quidem, inimici propter vos: secundum electionem autem, carissimi propter patres. [n. 921]
 
-Sed hic addit duo, quorum primum est quod dicit ***si fieri potest***. Quandoque enim malitia aliorum impedit ne cum eis pacem habere possimus, quia scilicet cum eis pax haberi non potest, nisi eorum malitiae consentiatur, quam quidem pacem constat esse illicitam. Unde Dominus dicit Matth. X, 34: *non veni pacem mittere, sed gladium*.  
+> ^11:29^ Sine poenitentia enim sunt dona et vocatio Dei. [n. 924]
 
-Aliud autem addit dicens ***quod ex vobis est***, scilicet et si ipsi contra pacem agant, tamen quod in nobis est facere nos debemus, ut eorum pacem quaeramus. Ps. CXIX, 7: *cum his qui oderunt pacem eram pacificus*. Et alibi: *inquire pacem et persequere eam*.  
+> ^11:30^ Sicut enim aliquando et vos non credidistis Deo, nunc autem misericordiam consecuti estis propter incredulitatem illorum: [n. 930]
 
-**1011**. Deinde, cum dicit ***non vosmetipsos defendentes***, etc., ostendit quod non sunt mala proximis inferenda per modum defensionis.  
+> ^11:31^ ita et isti nunc non crediderunt in vestram misericordiam: ut et ipsi misericordiam consequantur.
 
-Et primo ponit documentum, dicens ***non*** sitis ***vosmetipsos defendentes***, o charissimi, sicut de Christo dicitur Is. l, 6: *dedi corpus meum percutientibus, et genas meas vellentibus*. Et Is. LIII, 7: *quasi agnus coram tondente se obmutuit*, et cetera. Unde et ipse Dominus mandavit Matth. V, 39: *si quis te percusserit in una maxilla, praebe ei etiam alteram*.  
+> ^11:32^ Conclusit enim Deus omnia in incredulitate, ut omnium misereatur. [n. 932]
 
-Sed, sicut Augustinus dicit in libro contra mendacium, ea quae in Novo Testamento a sanctis facta sunt, valent ad exempla intelligendarum Scripturarum, quae in praeceptis data sunt. Ipse autem Dominus cum alapa percussus esset, non ait: ecce altera maxilla; sed: *si male locutus sum, testimonium perhibe de malo; si autem bene, quid me caedis?* Ubi ostendit praeparationem alterius maxillae in corde esse faciendam. Paratus enim fuit Dominus non solum in altera caedi pro salute hominis, sed in toto corpore crucifigi. Et sicut Augustinus dicit ad Marcellinum, tunc quidem hoc mandatum recte fit cum ei creditur profuturum esse propter quem fit, ad operandam in eo correctionem atque concordiam, etiam si alius exitus consequatur. Sunt igitur ista praecepta patientiae semper in cordis praeparatione retinenda et ipsa benevolentia, ne reddatur malum pro malo, semper in voluntate complenda est. Agenda sunt autem et multa etiam cum invitis benigna quadam asperitate plectendis.  
+> **912**. Postquam Apostolus induxit gentiles in cognitionem divinorum iudiciorum, in quibus divina bonitas et severitas manifestatur, hic quasi eis adhuc non sufficientibus considerare praedicta, exponit quid sibi circa haec videatur.
 
-**1012**. Secundo assignat rationem, cum dicit ***sed date locum irae***, id est divino iudicio. Quasi diceret: committatis vos Deo, qui suo iudicio potest vos defendere et vindicare, secundum illud I Petr. ult.: *omnem sollicitudinem vestram proiicientes in eum, quoniam ipsi cura est de vobis*.  
+Et primo proponit factum;  
 
-Sed haec intelligenda sunt in casu in quo nobis non adest facultas aliter faciendi secundum iustitiam; sed quia, ut dicitur Deut. I, v. 17: *Domini est iudicium*, cum aliquis auctoritate iudicis, vel vindictam quaerit ad comprimendam malitiam et non propter odium, vel etiam cum auctoritate alicuius superioris suam defensionem procurat, intelligitur locum dare irae, id est divino iudicio, cuius ministri sunt principes, ut dicitur infra XIII, 4. Unde etiam Paulus procuravit se per armatos defendi contra insidias Iudaeorum, ut patet Act. XXIII, 12 ss.  
+secundo probat, ibi ***sicut scriptum est***, etc.;  
 
-**1013**. Deinde, cum dicit ***sicut scriptum est***, etc., probat quod dixerat.  
+tertio rationem assignat, ibi ***sicut enim***, et cetera.  
 
-Et primo per auctoritatem;  
+**913**. Circa primum tria facit.  
 
-secundo per rationem, ibi ***noli vinci a malo***, et cetera.  
+Primo proponit suam intentionem, dicens: ideo induxi vos ad considerandum bonitatem et severitatem Dei, ***nolo enim, O fratres, ignorare vos mysterium hoc***, non enim omnia mysteria capere potestis. Hoc est enim perfectorum, quibus Dominus dicit Lc. VIII, v. 10: *vobis datum est nosse mysterium regni Dei*. Sap. VI, 24: *non abscondam a vobis sacramenta Dei*. Sed ignorantia huius mysterii esset vobis damnosa. I Cor. XIV, v. 38: *si quis ignorat, ignorabitur*.  
 
-**1014**. Circa primum duo facit. Primo probat quod dictum est de prohibitione vindictae, dicens dictum est: ***date locum irae***, id est divino iudicio, ***scriptum est enim***, Deut. XXXII, 35, ***mihi vindictam***, scilicet servate, et ***ego retribuam, dicit Dominus***.  
+**914**. Secundo assignat suae intentionis rationem, ***ut non sitis vobismetipsis sapientes***, id est non de sensu vestro praesumatis et ex vestro sensu alios condemnantes, vos eis praeferatis. Infra XII, 16: ***nolite esse prudentes apud vosmetipsos***. Is. V, 21: *vae qui sapientes estis in oculis vestris, et coram vobismetipsis prudentes*.  
 
-Nostra littera sic habet: *mea est ultio, et ego retribuam eis in tempore*. Ps. XCIII, 1: *Deus ultionum Dominus*. Nahum I, 2: *Deus aemulator et ulciscens Dominus*.  
+**915**. Tertio proponit quod intendit.  
 
-Secundo probat per auctoritatem, quod dictum est de benevolentia exhibenda inimicis.  
+Primo quidem quantum ad casum particularium Iudaeorum, cum dicit ***quia caecitas contingit in Israel***, non universaliter sed ex aliqua parte ut supra ostensum est. Is. VI, v. 10: *excaeca cor populi huius*.  
 
-In qua quidem auctoritate, primo, ponit documentum ut subveniamus inimicis in articulo necessitatis, quia hoc est de necessitate praecepti, ut supra dictum est. Et hoc est quod dicit ***sed, si esurierit inimicus tuus, ciba illum; si sitit, potum da illi***. Matth. V, v. 44: *benefacite his qui oderunt vos*.  
+Secundo ponit terminum huius caecitatis, dicens ***donec intraret***, ad fidem, ***plenitudo gentium***, id est non solum aliqui particulariter ex gentibus, sicut tunc convertebantur sed, vel pro toto vel pro maiori parte, in omnibus gentibus Ecclesia fundaretur. Ps. XXIII, 1: *Domini est terra et plenitudo eius*.  
 
-Secundo rationem assignat, dicens ***hoc enim faciens, carbones ignis congeres super caput eius***. Quod quidem uno modo potest intelligi in malum, ut sit sensus: si tu ei benefacias, bonum tuum vertetur ei in malum, quia ex hoc incurret combustionem ignis aeterni per suam ingratitudinem. Sed iste sensus repugnat caritati, contra quam ageret, qui alicui subveniret ut ei proveniret in malum.  
+Dicuntur autem gentiles ad fidem conversi intrare, quasi ex exterioribus et visibilibus rebus quae venerabantur, in spirituali et voluntate divina. Ps. XCIX, 2: *introite in conspectu eius in exultatione*.  
 
-Et ideo est exponendum in bonum, ut sit sensus ***hoc enim faciens*** id est, in necessitate ei subveniens, ***carbones ignis***, id est amorem caritatis de qua dicitur Cant. VIII, v. 6: *lampades eius, ut lampades ignis atque flammarum* ***congeres***, id est, congregabis, ***super caput***, id est, super mentem ***eius***. Quia, ut Augustinus dicit in libro *de Catechizandis rudibus*, *nulla est maior provocatio ad amandum, quam praevenire amando. Nimis enim durus animus qui dilectionem: et si nolebat impendere, nolit rependere*.  
+**916**. Et est notandum quod hoc adverbium ***donec*** potest designare causam excaecationis Iudaeorum. Propter hoc enim permisit Deus eos excaecari, ut plenitudo gentium intraret, sicut patet ex supradictis.  
 
-**1015**. Deinde, cum dicit ***noli vinci a malo***, etc., probat quod dixit per rationem.  
+Potest etiam designare terminum, quia videlicet usque tunc caecitas Iudaeorum durabit, quousque plenitudo gentium ad fidem intrabit. Et huic concordat quod infra subdit de futuro remedio Iudaeorum, cum dicit ***et tunc***, scilicet cum plenitudo gentium intraverit, ***omnis Israel salvus fiet***, non particulariter sicut modo, sed universaliter omnes. Os. I, 7: *salvabo eos in Domino Deo suo*. Mich. ult.: *revertetur et miserebitur nostri*.  
 
-Naturale est enim homini ut velit adversarium vincere et non vinci ab eo. Illud autem ab aliquo vincitur, quod ad illud trahitur, sicut aqua vincitur ab igne quando trahitur ad calorem ignis. Si ergo bonus aliquis homo, propter malum quod sibi ab aliquo infertur, trahatur ad hoc quod ei male faciat, bonus a malo vincitur. Si autem e contrario propter beneficium quod bonus persecutori exhibet, eum ad suum amorem trahat, bonus malum vincit.  
+**917**. Deinde cum dicit ***sicut scriptum est***, etc., probat quod dixerat de futura salute Iudaeorum.  
 
-Dicit ergo ***noli vinci a malo***, scilicet eius qui te persequitur, ut tu eum persequaris, ***sed in bono tuo vince malum*** illius, ut scilicet ei benefaciendo, eum a malo trahas. I Io. ult.: *haec est victoria quae vincit mundum, fides nostra*. Ier. XV, 19: *ipsi convertentur ad te, et tu non converteris ad eos*.
+Et primo probat hoc per auctoritatem;  
+
+secundo per rationem, ibi ***secundum Evangelium meum***, et cetera.  
+
+**918**. Dicit ergo primo: dico quod ***omnis Israel salvus fiet, sicut scriptum est*** Is. LVI, 20 ubi nostra littera sic habet: *veniet ex Sion redemptor, et eis qui redeunt ad Iacob, hoc foedus meum cum eis, dicit Dominus*. Sed Apostolus hoc inducit secundum litteram LXX et tangit tria verba hic posita.  
+
+Primo salvatoris adventum, cum dicit ***veniet***, Deus scilicet humanatus ad salvandum nos, ***ex Sion***, id est ex populo Iudaeorum, qui significatur per Sion, quae erat arx Ierusalem, quae est metropolis Iudaeae. Unde dicitur Zachariae IX, 9: *exulta satis, filia Sion, iubila, filia Ierusalem, ecce rex tuus venit tibi*, et cetera. Io. IV, 22: *salus ex Iudaeis est*.  
+
+Vel dicit, ex Sion eum venire, non quia sit ibi natus sed quia inde doctrina eius exivit in universum mundum, per hoc quod apostoli in coenaculo Sion Spiritum Sanctum receperunt. Is. II, 3: *de Sion exibit lex*.  
+
+**919**. Secundo ponit salutem per Christum Iudaeis oblatam, dicens ***qui eripiat, et avertat impietatem a Iacob***. Et potest ereptio referri ad liberationem a poena. Ps. CXIV, 8: *eripiet animam meam de morte*. Quod vero dicit ***avertet impietatem a Iacob***, potest referri ad liberationem a culpa. Ps. XIII, 7: *avertet Dominus captivitatem plebi suae*.  
+
+Vel utrumque refertur ad liberationem a culpa sed dicit ***qui eripiat***, propter paucos, qui nunc difficulter quasi cum quadam violentia convertuntur. Amos III 12: *quomodo si eruat pastor de ore leonis duo crura, aut extremum auriculae, sic eruentur filii Israel*. Dicit autem ***avertet impietatem a Iacob***, ad ostendendum facilitatem conversionis Iudaeorum in fine mundi. Mich. ult.: *quis Deus similis tui, qui aufers iniquitatem, et transfers peccatum reliquiarum haereditatis tuae?*  
+
+**920**. Tertio ostendit modum salutis, cum dicit ***et hoc testamentum***, scilicet novum, erit ***illis a me cum abstulero peccata eorum***. Vetus enim testamentum peccata non auferebat, quia, ut dicitur Hebr. X, 4: *impossibile est sanguine taurorum et hircorum auferri peccata*. Et ideo propter imperfectionem Veteris Testamenti promittitur eis Novum Testamentum. Ier. XXXI, 31: *feriam domui Israel, et domui Iuda foedus novum*. Quod quidem habebit efficaciam ad remissionem peccati per sanguinem Christi. Matth. c. XXVI, 28: *hic sanguis meus Novi Testamenti, qui pro multis effundetur in remissionem peccatorum*. Mich. ult.: *deponet iniquitates nostras, et proiiciet in profundum maris omnia peccata nostra*.  
+
+**921**. Deinde, cum dicit ***secundum Evangelium meum***, etc., probat propositum per rationem.  
+
+Et primo inducit probationem;  
+
+secundo removet obiectionem, ibi ***sine poenitentia enim***.  
+
+**922**. Dicit ergo primo quod eorum peccata auferentur et quod postquam peccata habent, manifestum est quod sunt inimici Christi. ***Secundum Evangelium quidem inimici***, id est quantum ad doctrinam Evangelii pertinet, quam impugnant, ***propter vos***, id est ad utilitatem vestri cedit, ut supra dictum est. Unde dicitur Lc. XIX, 27: *verumtamen inimicos meos illos qui noluerunt me regnare super se, adducite huc, et interficite ante me*. Io. XV, 24: *nunc autem et viderunt, et oderunt me, et Patrem meum*.  
+
+Vel ***secundum Evangelium*** dicit, quod eorum inimicitia ad utilitatem Evangelii pertinet, cuius praedicatio, occasione talis inimicitiae, ubique diffunditur. Col. I, 5 s.: *in verbo veritatis Evangelii, quod pervenit ad vos, sicut et in universo mundo est, fructificat et crescit*.  
+
+**923**. Sed sunt ***charissimi*** Deo ***propter patres***, et hoc ***secundum electionem***, quia scilicet ob gratiam patrum eorum semen elegit. Deut. IV, 37: *dilexit patres tuos, et elegit semen eorum post eos*.  
+
+Quod non est sic intelligendum quasi merita praestita patribus fuerint causa aeternae electionis filiorum sed quia Deus ab aeterno elegit gratis et patres et filios, hoc tamen ordine ut filii propter patres consequerentur salutem, non quasi merita patrum sufficerent ad filiorum salutem, sed per quamdam abundantiam divinae gratiae et misericordiae hoc dicit, quae intantum patribus est exhibita, ut propter promissiones eis factas, etiam filii salvarentur.  
+
+Vel intelligendum est ***secundum electionem***, id est quantum ad electos ex illo populo, sicut supra dictum est, electio consecuta est. Si autem sunt Domino charissimi, rationabile est quod a Deo salventur, secundum illud Is. LXIV, 4: *oculus non vidit, Deus, absque te quae praeparasti*, et cetera.  
+
+**924**. Deinde cum dicit ***sine poenitentia enim sunt***, etc., excludit obviationem.  
+
+Posset enim aliquis obviando dicere quod Iudaei, et si olim fuerint charissimi propter patres, tamen inimicitia, quam contra Evangelium exercent, prohibet ne in futurum salventur. Sed hoc Apostolus falsum esse asserit, dicens ***sine poenitentia enim sunt***, scilicet ***dona et vocatio Dei***, quasi dicat: quod Deus aliquid aliquibus donet, vel aliquos vocet, hoc est ***sine poenitentia***, quia de hoc Deum non poenitet, secundum illud I Reg. c. XV, 29: *triumphator in Israel non parcet, nec poenitudine flectetur*. Ps. CIX, 5: *iuravit Dominus, et non poenitebit eum*.  
+
+**925**. Sed videtur falsum. Dicit enim Dominus Gen. VI, 6: *poenitet me fecisse hominem*. Et Ier. XVIII, 9 s.: *loquar de gente et de regno, ut aedificem et plantem illud. Si fecerit malum in oculis meis, poenitentiam agam super bonum quod locutus sum ut facerem ei*.  
+
+Sed dicendum est quod sicut Dominus irasci dicitur, non propter hoc quod in eo sit commotio irae sed quia ad modum irati se habet quantum ad punitionis effectum, ita quandoque poenitere dicitur, non quasi in eo sit poenitentiae commutatio sed quia ad modum poenitentis se habet dum mutat quod fecerat.  
+
+**926**. Sed adhuc videtur hoc quod dona et vocatio non sint sine poenitentia, quia dona divinitus concessa, frequenter amittuntur, secundum illud Matth. XXV, 28: *tollite itaque ab eo talentum, et date ei qui habet decem talenta*. Vocatio enim Dei etiam quandoque mutari videtur, cum scriptum sit Matth. XXII, 14: *multi sunt vocati, pauci vero electi*.  
+
+Sed dicendum est quod ***donum*** hic accipitur pro promissione, quae fit secundum Dei praescientiam vel praedestinationem. ***Vocatio*** autem hic accipitur pro electione, quia propter certitudinem utriusque, quod Deus promittit, iam quodammodo dat: et quos elegit, iam quodammodo vocat. Et tamen ipsum temporale Dei donum et temporalis vocatio, non irritatur per mutationem Dei quasi poenitentis sed per mutationem hominis, qui gratiam Dei abiicit, secundum illud Hebr. XII, v. 15: *contemplantes ne quis desit gratiae Dei*.  
+
+**927**. Potest etiam quod hic dicitur aliter intelligi, ut dicamus quod dona Dei quae dantur in baptismo et vocatio qua baptizatus vocatur ad gratiam, sunt sine poenitentia hominis baptizati, quod quidem hic inducitur, ne aliquis desperet de futura Iudaeorum salute, propter hoc quod non videntur de peccato suo poenitere.  
+
+Sed contra hoc quod dicitur, est quod Petrus dicit Act. II, 38: *poenitentiam agite, et baptizetur unusquisque vestrum*.  
+
+Sed dicendum est quod duplex est poenitentia: interior et exterior. Interior quidem consistit in contritione cordis, qua quis dolet de peccatis praeteritis, et talis poenitentia requiritur a baptizato, quia, ut Augustinus dicit in libro *de Poenitentia*: *nemo suae voluntatis arbiter constitutus, potest novam vitam inchoare, nisi poeniteat eum veteris vitae, alioquin fictus ad baptismum accedit*.  
+
+Exterior vero poenitentia consistit in exteriori satisfactione quae a baptizato non requiritur, quia per gratiam baptismalem liberatur homo non solum a culpa sed etiam a tota poena per virtutem passionis Christi, qui pro peccatis omnium satisfecit, sicut supra VI, 3 dictum est: ***quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus***. Unde dicitur Tit. III, 5 s.: *per lavacrum regenerationis et renovationis Spiritus Sancti, quem effudit in nos abunde*.  
+
+**928**. Sed cum claves Ecclesiae et omnia alia sacramenta in virtute passionis Christi operentur, videtur quod pari ratione omnia alia sacramenta liberent hominem a culpa et a tota poena.  
+
+Sed dicendum est, quod passio Christi operatur in baptismo per modum cuiusdam generationis, quae requirit ut homo totaliter priori vitae moriatur, ad hoc ut novam vitam accipiat. Et ideo tollitur in baptismo totus reatus poenae, qui pertinet ad vetustatem prioris vitae. Sed in aliis sacramentis operatur virtus passionis Christi per modum sanationis ut in poenitentia. Sanatio autem non requirit, ut statim omnes infirmitatis reliquiae auferantur. Et eadem ratio est in aliis sacramentis.  
+
+**929**. Sed cum confessio peccatorum pertineat ad exteriorem poenitentiam, quaeri potest utrum a baptizato confessio peccatorum requiratur: et videtur quod sic. Dicitur enim Matth. III, 6, quod baptizabantur homines a Ioanne, *confitentes peccata sua*.  
+
+Sed dicendum est quod baptismus Ioannis erat baptismus poenitentiae, quia scilicet accipiendo illum baptismum quodammodo se profitebantur poenitentiam accepturos de peccato suo et ideo conveniens erat ut confiterentur, ut secundum modum peccati eis poenitentia statueretur. Sed baptismus Christi est baptismus remissionis omnium peccatorum, ita quod non restat baptizato aliqua satisfactio pro peccatis praeteritis, propter quod nulla est confessionis vocalis necessitas. Ad hoc enim necessaria est confessio in sacramento poenitentiae, ut sacerdos per potestatem clavium convenienter poenitentem solvat vel liget.  
+
+**930**. Deinde cum dicit ***sicut enim aliquando***, etc., assignat rationem futurae salutis Iudaeorum post eorum incredulitatem.  
+
+Et primo ponit similitudinem inter utriusque populi salutem;  
+
+secundo huius similitudinis causam ostendit, ibi ***conclusit enim Deus***, et cetera.  
+
+**931**. Dicit ergo primo: ita dico quod omnis Israel salvus fiet, quamvis nunc sint inimici. ***Sicut enim et vos***, gentiles, ***aliquando non credidistis Deo***. Eph. II, 12: *eratis illo tempore sine Deo in hoc mundo*; ***nunc autem misericordiam consecuti estis***, infra c. XV, 9: ***gentes autem super misericordia honorare Deum***. Os. II, 23: *miserebor eius quae fuit absque misericordia*. Et hoc ***propter eorum incredulitatem***, quae scilicet fuit occasio vestrae salutis, ut supra dictum est.  
+
+***Ita et isti***, scilicet Iudaei, ***nunc***, scilicet tempore gratiae, ***non crediderunt***, scilicet Christo. Io. VIII, 43: *quare non creditis mihi?* Et hoc est quod subdit ***in vestram misericordiam***, id est in gratiam Christi, per quam misericordiam consecuti estis. Tit. III, v. 5: *secundum suam misericordiam salvos nos fecit*. Vel ***non crediderunt*** ut per hoc pervenirent in vestram misericordiam. Vel ***non crediderunt***, quod in vestram misericordiam occasionaliter cessit, ***ut et ipsi*** quandoque ***misericordiam consequantur***. Is. XIV, v. 1: *miserebitur Dominus Iacob*.  
+
+**932**. Deinde, cum dicit ***conclusit enim***, etc., assignat rationem huius similitudinis, quia scilicet Deus voluit, ut sua misericordia in omnibus locum haberet. Et hoc est quod subdit ***conclusit enim Deus***, id est concludi permisit, ***omnia***, id est omne hominum genus, tam Iudaeos quam gentiles, ***in incredulitate***, sicut in quadam catena erroris. Sap. XVII, 7: *una catena tenebrarum omnes erant colligati*. ***Ut omnium misereatur***, id est ut in omni genere hominum sua misericordia locum habeat. Sap. XI, 24: *misereris omnium, Domine*. Quod quidem non est extendendum ad daemones secundum errorem Origenis, nec etiam quantum ad omnes homines singillatim, sed ad omnia genera hominum. Fit enim hic distributio pro generibus singulorum et non pro singulis generum. Ideo autem Deus vult omnes per suam misericordiam salvari, ut ex hoc humilientur et suam salutem non sibi, sed Deo adscribant. Os. c. XIII, 9: *perditio tua in te, Israel, tantummodo ex me auxilium tuum*. Supra III, 19: ***ut omne os obstruatur, et subditus fiat omnis mundus Deo***.  
+
+Lectio 5  
+
+***Sapientia incomprehensibilia Dei***
+
+***^11:33^ O altitudo divitiarum sapientiae, et scientiae Dei: quam incomprehensibilia sunt judicia ejus, et investigabiles viae ejus! [n. 933]***
+
+> ^11:34^ Quis enim cognovit sensum Domini? aut quis consiliarius ejus fuit? [n. 938]
+
+> ^11:35^ aut quis prior dedit illi, et retribuetur ei? [n. 940]
+
+> ^11:36^ Quoniam ex ipso, et per ipsum, et in ipso sunt omnia: ipsi gloria in saecula. Amen. [n. 942]
+
+> **933**. Supra Apostolus conatus fuit assignare rationem divinorum iudiciorum quibus tam gentes, quam Iudaei post incredulitatem misericordiam consequuntur, nunc, quasi ad haec investiganda se insufficientem recognoscens, exclamando divinam excellentiam admiratur.
+
+Et primo admiratur divinam excellentiam;  
+
+secundo probat quod dixerat, ibi ***quis enim cognovit***, et cetera.  
+
+Circa primum duo facit.  
+
+Primo admiratur excellentiam divinae sapientiae secundum se consideratae;  
+
+secundo per comparationem ad nos, ibi ***quam incomprehensibilia***, et cetera.  
+
+**934**. Excellentiam divinae cognitionis admiratur. Primo quantum ad altitudinem, dicens ***O altitudo***. Eccle. VII, 25: *alta profunditas, quis inveniet eam?* Ier. XVII, 12: *solium gloriae altitudinis a principio*.  
+
+Haec autem altitudo attenditur quantum ad tria. Uno quidem modo quantum ad rem cognitam, inquantum scilicet Deus seipsum perfecte cognoscit. Eccli. XXIV, 5: *ego in altissimis habito*. Alio modo quantum ad modum cognoscendi, inquantum scilicet per seipsum omnia cognoscit. Ps. CI, 20: *prospexit de excelso sancto suo, Dominus de caelo in terram aspexit*. Tertio quantum ad certitudinem cognitionis. Eccli. XXIII, 28: *oculi Domini multo plus lucidiores sunt super solem*.  
+
+**935**. Secundo admiratur excellentiam divinae cognitionis quantum ad eius plenitudinem, cum dicit ***divitiarum***. Is. XXXIII, 6: *divitiae salutis sapientia et scientia*.  
+
+Quae quidem plenitudo attenditur in tribus. Uno modo in multitudine cognitorum, quia scilicet omnia novit. Ioan. ult.: *Domine, tu omnia scis*. Col. II, 3: *in ipso sunt omnes thesauri sapientiae Dei absconditi*. Alio modo quantum ad facilitatem cognoscendi, quia statim omnia intuetur sine inquisitione et difficultate. Hebr. IV, 13: *omnia nuda et aperta sunt oculis eius*. Tertio quantum ad copiam cognitionis, quia eam omnibus communicat affluenter. Iac. I, 5: *si quis vestrum indiget sapientia, postulet a Deo, qui dat omnibus affluenter*.  
+
+**936**. Tertio admiratur divinam excellentiam quantum ad perfectionem, cum dicit ***sapientiae et scientiae Dei***. Habet enim sapientiam de divinis, Iob XII, 16: *apud ipsum est fortitudo et sapientia*, et scientiam de rebus creatis, Bar. III, 32: *qui scit universa, novit eam*.  
+
+**937**. Deinde cum dicit ***quam incomprehensibilia***, etc., ostendit excellentiam divinae sapientiae per comparationem ad nostrum intellectum.  
+
+Et primo quantum ad sapientiam, ad quam pertinet iudicare et ordinare. Unde dicit ***quam incomprehensibilia sunt iudicia eius***, quia scilicet homo non potest comprehendere rationem divinorum iudiciorum, quia in sapientia Dei latent. Ps. XXXV, 7: *iudicia tua abyssus multa*. Iob XI, 7: *forsitan vestigia Dei comprehendes, et omnipotentem usque ad perfectum reperies*.  
+
+Secundo quantum ad scientiam, per quam in rebus operatur. Unde subdit ***et investigabiles***, id est non perfecte ab homine vestigabiles, ***viae eius***, id est processus eius, quibus in creaturis operatur. Et si ipsae creaturae sint homini notae, tamen modi quibus Deus in creaturis operatur ab homine comprehendi non possunt. Ps. LXXVI, 19: *in mari via tua et semitae tuae in aquis multis, et vestigia tua non cognoscentur*. Iob XXXVIII, v. 24: *per quam viam spargitur lux*, et cetera.  
+
+**938**. Deinde cum dicit ***quis enim***, etc., probat quod dixerat, ad quod inducit duas auctoritates, quarum una habetur Isaiae XL, v. 13 ubi secundum litteram nostram sic legitur: *quis adiuvit spiritum Domini, aut quis consiliarius eius fuit?* Loco cuius hic dicitur ***quis enim cognovit sensum Domini, aut quis consiliarius eius fuit?*** Alia auctoritas habetur Iob XLI, 2: *quis ante dedit mihi ut, reddam ei?* Ex loco cuius hic dicitur ***aut quis prior dedit illi, et retribuetur ei?***  
+
+In his autem verbis et sequentibus Apostolus tria facit.  
+
+**939**. Primo ostendit excellentiam divinae sapientiae per comparationem ad intellectum nostrum, dicens: dictum est quod ***incomprehensibilia sunt iudicia eius et investigabiles viae eius, quis enim cognovit sensum Domini***, per quem scilicet iudicat et operando procedit; quasi dicat: nullus, nisi eo revelante. Sap. IX: s*ensum tuum quis scire poterit, nisi tu dederis sapientiam, et miseris Spiritum Sanctum tuum de altissimis?* Et I Cor. II, 11: *quae sunt Dei nemo novit, nisi Spiritus Dei, nobis autem revelavit Deus per Spiritum suum*.  
+
+**940**. Secundo ostendit excellentiam divinae sapientiae, secundum quod in se habet altitudinem, quae quidem est altitudo, quae est supremi principii, ad quod duo pertinent:  
+
+primo quod non sit ab alio;  
+
+secundo quod alia sint ab eo, et haec ostendit, ibi ***quoniam ex ipso***.  
+
+**941**. Quod autem sapientia Dei non dependeat ab altiori principio, ostendit dupliciter.  
+
+Primo quidem per hoc quod non est instructa alieno consilio. Unde dicit ***aut quis consiliarius eius fuit?*** Quasi diceret: nullus. Ille enim consilio indiget, qui non plene cognoscit qualiter sit agendum, quod Deo non competit. Iob XXVI, 3: *cui dedisti consilium? Forsitan illi qui non habet sapientiam*. Ier. c. XXIII, 18: *quis affuit in consilio Domini?*  
+
+Secundo per hoc quod non est adiuta alieno dono. Unde subdit ***aut quis prior dedit illi***, et per hoc ***retribuetur ei?*** Quasi prius danti. Quasi dicat: nullus. Non enim potest homo dare Deo, nisi quae a Deo accepit. Par. ult.: *tua sunt omnia, et quae de manu tua accepimus, dedimus tibi*. Iob XXXV, 7: *porro si iuste egeris, quid donabis ei, aut quid de manu tua accipiet?*  
+
+**942**. Deinde cum dicit ***quoniam ex ipso***, etc., ostendit altitudinem Dei, quantum ad hoc quod in ipso sunt omnia.  
+
+Et primo ostendit eius causalitatem;  
+
+secundo eius dignitatem, ibi ***ipsi honor et gloria***;  
+
+tertio eius perpetuitatem, ibi ***in saecula saeculorum, amen***.  
+
+**943**. Dicit ergo primo: recte dixi quod nullus prior dedit illi, ***quia ex ipso, et per ipsum, et in ipso sunt omnia***. Et ita nihil potest esse nisi a Deo acceptum.  
+
+Ad designandum autem Dei causalitatem utitur tribus praepositionibus, quae sunt, ***ex***, ***per*** et ***in***.  
+
+Haec autem praepositio, *ex*, denotat principium motus; et hoc tripliciter: primo quidem ipsum principium agens, vel movens; alio modo, ipsam materiam; tertio modo, ipsum contrarium oppositorum, quod est terminus a quo incipit motus.  
+
+Dicimus enim cultellum fieri *ex* fabro et ferro et *ex* infigurato. Universitas autem creaturarum non est facta ex praeexistenti materia, quia et ipsa materia est effectus Dei. Et secundum hoc omnia creata non dicuntur ex aliquo esse sed, sicut ex opposito, dicuntur esse ex nullo, quia nihil erant antequam crearentur ut essent. Sap. II, 2: *ex nihilo nati sumus*. Ex Deo autem sunt omnia, sicut ex primo agente. I Cor. XI, 12: *omnia autem ex Deo*.  
+
+**944**. Notandum tamen quod haec praepositio *de*, easdem habitudines designare videtur, hoc tamen superaddit, quia semper designat causam consubstantialem. Dicimus enim cultellum esse *de* ferro, non autem *de* artifice; quia igitur Filius procedit a Patre ut ei consubstantialis, dicimus Filium esse de Patre. Creaturae vero non procedunt a Deo tamquam ei consubstantiales; unde non dicuntur esse de ipso, sed solum ex ipso.  
+
+**945**. Haec autem praepositio *per*, designat causam operationis, sed quia operatio est medium inter faciens et factum, dupliciter haec praepositio *per*, potest operationis causam designare.  
+
+Uno modo secundum quod operatio exit ab operante: sicut aliquid dicitur per se operari, quod est sibi causa ut operetur. Hoc autem est uno quidem modo forma, sicut dicimus quod ignis calefacit per calorem. Alio modo aliquid superius agens, puta si dicamus quod homo generat per virtutem solis, vel potius Dei.  
+
+Sic igitur omnia dicuntur dupliciter esse per ipsum. Uno modo, sicut per primum agens, cuius virtute omnia alia agunt. Prov. c. VIII, 15: *per me reges regnant*. Alio modo, inquantum eius sapientia, quae est eius essentia, est forma per quam Deus omnia fecit, secundum illud Prov. III, 19: *Dominus sapientiae fundavit terram*.  
+
+**946**. Alio vero modo haec praepositio *per*, designat causam operationis, non quidem secundum quod exit ab operante sed secundum quod terminatur ad opera, sicut dicimus quod faber facit cultellum per martellum, quod non est sic intelligendum, quod martellus sic cum fabro operetur, sicut in prioribus intelligebatur, sed quia cultellus fit ex operatione fabri per martellum. Et ideo dicitur quod haec praepositio *per*, quandoque designat auctoritatem in recto, sicut cum dicimus: rex operatur per balivum; quod pertinet ad hoc quod nunc dicitur. Quandoque autem in causali, sicut cum dicitur: balivus per regem operatur; quod pertinet ad praecedentem modum.  
+
+Hoc autem modo de quo nunc loquimur, dicuntur omnia esse facta a Patre per Filium, secundum illud Io. I, 3: *omnia per ipsum facta sunt*: non ita quod Pater habeat a Filio hoc quod facit res, sed potius, quia virtutem faciendi Filius accipit a Patre, non tamen instrumentalem, aut diminutam, aut aliam, sed principalem et aequalem, et eamdem. Io. V, v. 19: *quaecumque Pater facit, haec et Filius similiter facit*.  
+
+Unde licet omnia sint facta a Patre per Filium, non tamen Filius est instrumentum vel minister Patris.  
+
+**947**. Haec autem praepositio *in*, designat etiam triplicem habitudinem causae: uno quidem modo designat materiam, sicut dicimus animam esse in corpore et formam in materia, hoc autem modo non dicitur quod omnia sint in Deo, quia ipse non est causa materialis rerum.  
+
+Alio modo designat habitudinem causae efficientis, in cuius potestate est effectus suos disponere, et secundum hoc dicuntur omnia esse in ipso, secundum quod omnia in eius potestate et dispositione consistunt, secundum illud Ps. XCIV, 4: *in manu eius sunt omnes fines terrae*. Et Act. XVII, 28: *in ipso vivimus, movemur et sumus*.  
+
+Tertio modo designat habitudinem causae finalis, secundum quod totum bonum rei et conservatio ipsius consistit in suo optimo, et secundum hoc dicuntur omnia esse in Deo, sicut in bonitate conservante. Col. I, 17: *et omnia in ipso constant*.  
+
+**948**. Quod autem dicit ***omnia***, est absolute accipiendum pro omnibus, quae habent verum esse; peccata autem non habent verum esse, sed in quantum sunt peccata, dicuntur per defectum alicuius entis, eo quod malum nihil est nisi privatio boni.  
+
+Et ideo cum dicitur ***ex ipso, et per ipsum, et in ipso sunt omnia***, non est intelligendum de peccatis quia, secundum Augustinum, *peccatum nihil est, et nihil fiunt homines cum peccant*. Quicquid tamen entitatis est in peccato, totum est a Deo.  
+
+**949**. Sic igitur, secundum praemissa, omnia sunt ***ex ipso***, scilicet Deo, sicut ex prima operatrice potentia. Omnia autem sunt ***per ipsum***, inquantum omnia facit per suam sapientiam. Omnia sunt ***in ipso***, sicut in bonitate conservante.  
+
+Haec autem tria, scilicet potentia, sapientia et bonitas, communia sunt tribus personis. Unde hoc quod dicitur ***ex ipso, et per ipsum, et in ipso***, potest attribui cuilibet trium personarum, sed tamen potentia, quae habet rationem principii, appropriatur Patri, qui est principium totius divinitatis; sapientia Filio, qui procedit ut Verbum, quod nihil aliud est quam sapientia genita; bonitas appropriatur Spiritui Sancto, qui procedit ut amor, cuius obiectum est bonitas.  
+
+Et ideo appropriando dicere possumus: ***ex ipso***, scilicet ex Patre, ***per ipsum***, scilicet per Filium, ***in ipso***, scilicet in Spiritu Sancto, omnia sunt.  
+
+**950**. Deinde cum dicit ***ipsi honor et gloria***, ostendit Dei dignitatem, quae consistit in duobus quae praemissa sunt. Nam ex eo quod ***ex ipso et per ipsum, et in ipso sunt omnia***, debetur ei honor et reverentia et subiectio a tota creatura. Mal. I, 6: *si ego pater, ubi est honor meus?* Ex eo vero quod ab alio non accipitur nec consilium, nec donum, debetur ei gloria, sicut e contrario dicitur homini I Cor. IV, 7: *si accepisti, quid gloriaris, quasi non acceperis?* Et quia hoc est proprium Dei dicitur Is. XLII, 8: *gloriam meam alteri non dabo*.  
+
+**951**. Ultimo ponit eius aeternitatem, cum dicit ***in saecula saeculorum***, quia eius gloria non est transitoria, sicut gloria hominis, de qua dicitur Is. XL, 6: *omnis gloria eius quasi flos agri*, sed durat in saecula saeculorum, id est per omnia saecula succedentia saeculis, prout saeculum dicitur duratio uniuscuiusque rei.  
+
+Vel ***saecula saeculorum*** dicuntur saecula, id est durationes rerum incorruptibilium, quae continent saecula corruptibilium rerum, et praecipue ipsa Dei aeternitas, quae tamen pluraliter dici potest, licet in se sit una et simplex, propter multitudinem et diversitatem contentorum, ut sit sensus: in saecula contentiva saeculorum. Ps. CXLIV, 13: *regnum tuum, regnum omnium saeculorum*.  
+
+**952**. Addit autem ad confirmationem ***amen***, quasi dicat vere, ita est. Et sic accipitur in evangeliis, ubi dicitur *amen dico vobis*. Quandoque tamen accipitur pro fiat.  
+
+Unde in Psalterio Hieronymi dicitur *dicet omnis populus: amen, amen*, ubi nos habemus *fiat, fiat*.

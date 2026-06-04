@@ -1,183 +1,173 @@
-# Chapter 44
+# Chapter 42
 
-> ^44:2^ Thus says the Lord that made and formed you, your helper from the womb: fear not, O my servant Jacob, and you most righteous whom I have chosen.
+> ^42:2^ He shall not cry, nor have respect to person, neither shall his voice be heard abroad.
 
-> ^44:3^ For I will pour out waters upon the thirsty ground, and streams upon the dry land: I will pour out my spirit upon your seed, and my blessing upon your stock.
+> ^42:3^ The bruised reed he shall not break, and smoking flax he shall not quench, he shall bring forth judgment unto truth.
 
-> ^44:4^ And they shall spring up among the herbs, as willows beside the running waters.
+> ^42:4^ He shall not be sad, nor troublesome, till he set judgment in the earth, and the islands shall wait for his law.
 
-> ^44:5^ One shall say: I am the Lord’s, and another shall call himself by the name of Jacob, and another shall write*Scribet*. DR: “subscribe.” with his hand: to the Lord, and shall be made like in the name of Israel.*In nomine Israel assimilabitur*. DR: “surname himself by the name of Israel.”
+> ^42:5^ Thus says the Lord God that created the heavens, and stretched them out: that established the earth, and the things that spring out of it: that gives breath to the people upon it, and spirit to them that tread thereon.
 
-> ^44:6^ Thus says the Lord the king of Israel, and his redeemer the Lord of hosts: I am the first, and I am the last, and besides me there is no God.
+> ^42:6^ I the Lord have called you in justice, and taken you by the hand, and preserved you. And I have given you for a covenant of the people, for a light of the Gentiles:
 
-> ^44:7^ Who is like to me? Let him call and declare: and let him set before me the order, since I appointed the ancient people: and the things to come, and that shall be hereafter, let them show unto them.
+> ^42:7^ that you might open the eyes of the blind, and bring forth the prisoner out of prison, and them that sit in darkness out of the prison house.
 
-> ^44:8^ Fear not, neither be troubled from that time I have made you to hear, and have declared: you are my witnesses. Is there a God besides me, a maker, whom I have not known?
+> ^42:8^ I the Lord, this is my name: I will not give my glory to another, nor my praise to graven things.
 
-> ^44:9^ The makers of idols are all of them nothing, and their best beloved things shall not profit them. They are their witnesses, that they do not see, nor understand, that they may be ashamed.
+> ^42:9^ The things that were first, behold they are come: and new things do I declare: before they spring forth, I will make you hear them.
 
-> ^44:10^ Who has formed a god, and made a graven thing that is profitable for nothing?
+> ^42:10^ Sing to the Lord a new song, his praise is from the ends of the earth: you that go down to the sea, and the fullness thereof:*Plenitudo ejus*. DR: “all that are therein.” you islands, and you inhabitants of them.
 
-> ^44:11^ Behold, all the partakers thereof shall be confounded: for the makers are from men:*Ex hominibus*. DR omits “from.” when they all come,*Cum venient omnes*. Vg.: *convenient omnes*. DR: “they shall all assemble together.” they shall stand and fear, and shall be confounded together.
+> ^42:11^ Let the desert and the cities thereof raise:*Levet*. Vg.: *sublevetur*. DR: “be exalted.” Cedar shall dwell in houses: you inhabitants of Petra, give praise, they shall cry from the top of the mountains.
 
-> ^44:12^ The smith has wrought with his file, with coals, and with hammers he has formed it, and has wrought with the strength of his arm: he shall hunger and faint, he shall drink no water, and shall be weary.
+> ^42:12^ They shall give glory to the Lord, and shall declare his praise in the islands.
 
-> ^44:13^ The carpenter has stretched out his rule, he has formed it with a plane: he has made it with corners, and has fashioned it round with the compass: and he has made the image of a man as it were a beautiful man dwelling in a house.
+> ^42:13^ The Lord shall go forth as a mighty man, as a man of war shall he stir up zeal: he shall shout and cry: he shall prevail against his enemies.
 
-> ^44:14^ He has cut down cedars, taken the holm, and the oak that stood among the trees of the forest: he has planted the pine tree, which the rain has nourished.
+> ^42:14^ I have always held my peace, I have kept silence, I have been patient, I will speak now as a woman in labor: I will destroy, and swallow up at once.
 
-> ^44:15^ And it has served men for fuel: he took thereof, and warmed himself: and he kindled it, and baked bread: but of the rest he made a god, and adored it: he made a graven thing, and bowed down before it.
+> ^42:15^ I will lay waste the mountains and hills, and will make all their grass to wither: and I will turn rivers into islands, and will dry up the standing pools.
 
-> ^44:16^ Part of it he burnt with fire, and with part of it he dressed his meat: he boiled pottage, and was filled, and was warmed, and said: aha, I am warm, I have seen the fire.
+> ^42:16^ And I will lead the blind into the way which they know not: and in the paths which they were ignorant of I will make them walk: I will make darkness light before them, and crooked things straight: these things have I done to them, and have not forsaken them.
 
-> ^44:17^ But the residue thereof he made a god, and a graven thing for himself: he bows down before it, and adores it, and prays unto it, saying: deliver me, for you are my God.
+> ^42:17^ They are turned back: let them be greatly confounded, that trust in a graven thing, that say to a molten thing: You are our god.
 
-> ^44:18^ They have not known, nor understood: for their eyes are covered that they may not see, and that they may not understand with their heart.
+> ^42:18^ Hear, you deaf, and, you blind, behold that you may see.
 
-> ^44:19^ They do not consider in their mind, nor know, nor have the thought to say: I have burnt part of it in the fire, and I have baked bread upon the coals thereof: I have broiled flesh and have eaten, and of the residue thereof shall I make an idol? Shall I fall down before the stock of a tree?
+> ^42:19^ Who is blind, but my servant? Or deaf, but he to whom I have sent my messengers? Who is blind, but he that is sold? Or who is blind, but the servant of the Lord?
 
-> ^44:20^ Part thereof is ashes: his foolish heart adores it, and he will not save his soul, nor say: perhaps there is a lie in my right hand.
+> ^42:20^ You that see many things, will you not observe them? You that have ears open, will you not hear?
 
-> ^44:21^ Remember these things, O Jacob, and Israel, for you are my servant. I have formed you, you are my servant, O Israel, forget me not.
+> ^42:21^ And the Lord was willing to sanctify him, and to magnify the law, and exalt it.
 
-> ^44:22^ I have blotted out your iniquities as a cloud, and your sins as a mist: return to me, for I have redeemed you.
+> ^42:22^ But this is a people that is robbed and wasted: they are all the snare of young men, and they are hid in the houses of prisons: they are made a prey, and there is none to deliver them: a spoil, and there is none that says: restore.
 
-> ^44:23^ Give praise, O you heavens, for the Lord has shown mercy: shout with joy, you ends of the earth: you mountains, resound with praise, you, O forest, and every tree therein: for the Lord has redeemed Jacob, and Israel shall be glorified.
+> ^42:23^ Who is there among you that will give ear to this, that will attend and hearken to things*Ausculta futura*. DR: “hearken for times.” to come?
 
-> ^44:24^ Thus says the Lord your redeemer, and your maker, from the womb: I am the Lord, that make all things, that alone stretch out the heavens, that established the earth, and there is none with me.
+> ^42:24^ Who has given Jacob for a spoil, and Israel to robbers? Has not the Lord himself, against whom we have sinned? And they would not walk in his ways, and they have not hearkened to his law.
 
-> ^44:25^ That make void the tokens of diviners, and make the soothsayers mad. That turn the wise backward, and that make their knowledge foolish.
+> ^42:25^ And he has poured out upon him the indignation of his fury, and a strong battle, and has burnt him round about, and he knew not: and set him on fire, and he understood not.
 
-> ^44:26^ That raise up the word of my servant and perform the counsel of my messengers, who say to Jerusalem: you shall be inhabited: and to the cities of Judah: you shall be built, and I will raise up the wastes thereof.
+> **817**. ***Behold my servant***. Here he shows divine love from the Son, whom he promised: *God so loved the world, as to give his only begotten Son* (John 3:16).
 
-> ^44:27^ Who say to the deep: be you desolate, and I will dry up your rivers.
+And first, from such a benefit, he shows the love of God;  
 
-> ^44:28^ Who say to Cyrus: you are my shepherd, and you shall perform all my pleasure. Who say to Jerusalem: you shall be built: and to the temple: your foundations shall be laid.
+second, the perversity of the Jews: ***these things have I done to them*** (Isa 42:16).  
 
-> **846**. ***And now hear, O Jacob***. Here, third, he strengthens them from the worthlessness of the idols, lest perhaps they should believe that the divine promises could be impeded by them. And this is divided into two parts:
+Concerning the first, he does three things;  
 
-in the first, he excludes fear;  
+first, he foretells the coming of the Son of God;  
 
-in the second, he shows the worthlessness of the idols, where it says, ***thus says the Lord the king*** (Isa 44:6).  
+second, the fall of the wicked: ***the Lord shall go forth as a mighty man*** (Isa 42:13);  
 
-**847**. Concerning the first, he does three things.  
+third, the resurrection of the good: ***and I will lead the blind*** (Isa 42:16): *behold this child is set for the fall and for the resurrection of many in Israel* (Luke 2:34).  
 
-First, he rouses attention: ***hear, O Jacob whom I have chosen***, Esau having been rejected: *I have loved Jacob, but have hated Esau* (Mal 1:2–3).  
+Concerning the first, he does three things:  
 
-Second, he excludes fear: ***thus says the Lord that formed you***, below: ***thus says the Lord, that formed me*** (Isa 49:5); ***most righteous***, because the name “Israel” expresses this, as to its true signification, but, as though by its etymology, it is said to mean “man who sees God”: *is*, “man,” *rac*, “seeing,” *El*, “God.”  
+first, he describes the condition of the one who is to be sent;  
 
-Third, he sets out a promise, where it says, ***I will pour out***.  
+second, he foretells the sending: ***thus says the Lord God*** (Isa 42:5);  
 
-**848**. And first, he promises divine benefit as to temporal things: ***I will pour out waters***, that is, consolations: *I will pour upon you clean water* (Ezek 36:25); as to spiritual things, ***I will pour out my spirit***; ***and my blessing upon your stock***, as to the multiplication of gifts: *I will pour out my spirit upon all flesh* (Joel 2:28).  
+third, he invites to thanksgiving: ***sing to the Lord*** (Isa 42:10).  
 
-Second, he sets out the fruit of the benefit as to temporal goods: ***and they shall spring up***, namely, they will be multiplied out of the abundance of your prosperity, as a tree by a multitude of water, above: ***it shall bud forth and blossom*** (Isa 35:2); *and he shall be like a tree* (Ps 1:3).  
+**818**. Concerning the first, he does three things.  
 
-He also sets out the effect of the spiritual gifts: ***one shall say: I am the Lord’s***, for whoever confesses himself to be subject to God, ***shall write***, songs, ***to the Lord***, that is, to the honor of the Lord; or ***another shall write, the Lord’s***, namely, I am the Lord’s, ***on his hand***, carrying the Scripture, which pertains to the worship of God; ***he shall be made like in the name of Israel***, the foreigner in worshiping God; or he will be vigorous like Jacob: *you shall call me father and shall not cease to walk after me* (Jer 3:19).  
+First, he shows his fullness of grace as to the grace of union: ***I will uphold him*; *my servant***, according to his human nature: *he has upheld*Suscepit*. DR: “received.” Israel his servant* (Luke 1:54); as to the grace of the head: ***my elect***, that he may be the head of the Church, *chosen out of thousands* (Song 5:10); *blessed is he whom you have chosen and taken to you* (Ps 64:5[65:4); ***my soul delights in him***: *this is my beloved Son, in whom I am well pleased* (Matt 17:5); as to the habitual grace, which was in him alone: ***I have given my spirit***, above: ***the spirit of the Lord shall rest upon him*** (Isa 11:2).  
 
-**849**. ***Thus says the Lord***. Here he shows the worthlessness of the idols. And concerning this, he does three things:  
+**819**. Second, he shows the equity of his judgment as to three things:  
 
-first, he shows the defect of the idols;  
+namely, the authority to judge, ***he shall bring forth judgment to the Gentiles***: *give to the king your judgment, O God* (Ps 71:2[72:1]); *the Father has given all judgment to the Son* (John 5:22). To which he joins his meekness: ***he shall not cry***: *the words of the wise are heard in silence, more than the cry of a prince among fools* (Eccl 9:17).  
 
-second, from this, he recalls them to worship of himself: ***remember these things*** (Isa 44:21);  
+Second, he shows the equality of the judge: ***nor have respect to person***: *God is not a respecter of persons* (Acts 10:34); to which he joins his piety*Pietas*, in the sense of dutiful conduct with respect to one’s parents, country, etc. in coming to help: ***neither shall his voice***, the voice of his preaching, ***be heard abroad***, outside Judea, so that he should first come to the aid of those to whom he was sent (Matt 15:24): *to day if you shall hear his voice, harden not your hearts* (Ps 94[95]:8). And in dissembling: ***the bruised reed***, namely, the kingdom of the Jews, ***smoking flax***,Or linen, from which priestly vestments were made. of the priests: *that which was broken you have not bound up* (Ezek 34:4).  
 
-third, he promises the benefit of liberation to those who worship him: ***thus says the Lord your redeemer*** (Isa 44:24).  
+Third, he shows the truth of his judgment: ***he shall bring forth judgment unto truth***: *he shall judge the world with justice, and the people with his truth* (Ps 95[96]:13). To which he joins his pleasantness: ***he shall not be sad***, in his heart, ***nor troublesome***, in his face, for he was always cheerful and pleasant, keeping evenness of mind, even if, as to the sensible part, there was the suffering of sadness, not indeed of necessity, but of will; thus, *my soul is sorrowful even unto death* (Matt 26:38); *the joyfulness of the heart* (Sir 30:23[22]).  
+
+**820**. Third, he shows the power of the Lord: ***till he set*** the final ***judgment***, or his precept, by the preaching of the Apostles; ***his law***, the Gospel: *he shall be the expectation of nations* (Gen 49:10), below: ***for, the islands wait for me*** (Isa 60:9). Others explain these things of Darius the king of the Persians, who was meek, just and peaceful, and whom the Lord chose to liberate the Jews.  
+
+**821**. ***Thus says the Lord God***. Here he foretells the sending.  
+
+And first, he sets out the power of the one who sends as to the creation of heavenly things: ***that created the heavens***; as to the disposition of earthly things: ***that established the earth***; as to the animation of living things: ***that gives breath***, of natural life, ***and spirit***, freely: *the Lord, who stretches forth the heavens, and lays the foundations of the earth, and forms the spirit of man in him* (Zech 12:1).  
+
+Second, he foretells the sending, setting out the exaltation of the one sent: ***I the Lord have called you***, my Son, from eternity predestining to the unity of the divine person, ***in justice***, that is, that I may be just, fulfilling my promise: *who was predestined the Son of God* (Rom 1:4); ***and taken you by the hand***, as to his working: *the Father who abides in me, he doth the works* (John 14:10), ***and preserved you***, lest you be detained by death: *nor will you give your holy one to see corruption* (Ps 15[16]:10), below: ***I have called him and brought him*** (Isa 48:15).  
+
+He also sets out the injunction of his office: ***and I have given you for a covenant***, as a mediator: *I will set my bow in the clouds, and it shall be the sign of a covenant* (Gen 9:13), ***for a light***, as an illuminator, above: ***to them that dwelt in the region of the shadow of death, light is risen*** (Isa 9:2); *that was the true light* (John 1:9).  
+
+He also shows the use of his office against faithlessness: ***that you might open the eyes of the blind***: *for judgment I am come into this world: that they who see not may see; and they who see may become blind* (John 9:39); against the slavery of sin: ***and bring forth the prisoner out of prison***: *you also by the blood of your testament have sent forth your prisoners out of the pit* (Zech 9:11).  
+
+Third, from the sending he deduces the singularity of the divine majesty as to power: ***I the Lord***: *make a way for him who ascends upon the west: the Lord is his name* (Ps 67:5[68:4]); *my name Adonai* (Exod 6:3); ***my glory***, by which I am called Lord: *glory to God in the highest* (Luke 2:14). And as to knowledge: ***the things that were first***, etc., below: ***I foretold you of old*** (Isa 48:5). They also refer this to Darius.  
+
+**822**. ***Sing to the Lord***. Here he invites to thanksgiving.  
+
+And first, he enjoins praise, and especially upon the rustic, whether because of the distance of their habitation: ***from the ends of the earth***, above: ***from the ends of the earth we have heard praises*** (Isa 24:16); or because of they are confined by the sea: ***you that go down to the sea***, namely, sailors, ***and the fullness thereof***, namely, of the sea, that is, let everything with which it is filled praise God: *they that go down to the sea in ships* (Ps 106[107]:23–24).  
+
+Or because their way of life is in the desert: ***let the desert***, that is, its inhabitants, especially as to the Ishmaelites, ***raise***, its voice in praise of God; ***Cedar***, the son of Ishmael, ***shall dwell in houses***, according to the custom of other nations, for they were formerly wanderers through the desert, above: ***the land that was desolate and impassable shall be glad, and the wilderness shall rejoice*** (Isa 35:1); or because their habitation is in the mountains: ***give praise, you inhabitants of Petra***, the city in Palestine, which is built in the rocks; or any mountain, below: ***the mountains and the hills shall sing praise*** (Isa 55:12); and he invites these who seem less likely to be turned to praising God.  
+
+Second, he foretells the spreading of divine praise: ***they shall give glory to the Lord***, in others, not only in themselves, below: ***I will send of them that shall be saved, to the Gentiles*** (Isa 66:19). Mystically, all this refers to the conversion of the gentiles to the faith.  
+
+**823**. ***The Lord shall go forth as a mighty man***. Here he foretells the coming fall of the wicked through the coming of Christ; and concerning this, he sets out four things.  
+
+First, power: ***the Lord shall go forth as a mighty man***, to fight against the Jews through the Romans: *the Lord is as a man of war* (Exod 15:3); ***zeal***, for vengeance: *the zeal*Zelus*. DR: “jealousy.” and rage of the husband will not spare in the day of revenge* (Prov 6:34);  
+
+second, he sets out wrath: ***he shall shout***, through the tribulations which he sends upon them; against what is said above, ***he shall not cry*** (Isa 42:2); for he first shows meekness when he comes, but he shows indignation to those who disdain him: *he shall thunder with the voice of his majesty* (Job 37:4).  
+
+Third, he sets out justice, for it is just that when he has long waited for the impenitent, he should swallow them all up at once: ***I have always held my peace***: *have I not dissembled? Have I not kept silence?* (Job 3:26), ***I have been patient***, above: ***therefore the Lord waits that he may have mercy on you*** (Isa 30:18); ***as a woman in labor***, I will bring forth hidden pain, as a woman brings forth the infant she has conceived, or because ***as a woman in labor***, I will be pained at such a grave penalty.  
+
+Fourth, he sets out the punishment as to men: ***I will lay waste the mountains***, the great, ***hills***, the middle ranks, ***grass***, the common people: *and I will make mount Seir waste and desolate* (Ezek 35:7); and as to the removal of every teaching or consolation, ***I will turn rivers into islands***: *he has turned rivers into a wilderness: and the sources of waters into dry ground* (Ps 106[107]:33). This can also be referred to the destruction of the enemies of the Jews by Darius.  
+
+**824**. ***And I will lead***. Here he sets out the resurrection of the good as to three things:  
+
+first, as to the restoration of action: ***I will lead the blind***, namely, the gentiles, ***into the way***, Christ, or the precept of the law, or also the Jews, according to another explanation: *I will lead you by the paths of equity* (Prov 4:11);  
+
+second, as to the illumination of the intellect: ***I will make darkness light before them***: *to enlighten them that sit in darkness* (Luke 1:79);  
+
+third, as to the direction of the affections: ***and crooked things***, namely, their hearts, ***straight***, above: ***the crooked shall become straight*** (Isa 40:4).  
+
+**825**. ***These things have I done to them***. Here he shows the perversity of the Jews.  
+
+And first, he shows that they are ungrateful toward his benefits;  
+
+second, that they are hard-hearted toward his precepts: ***hear, you deaf*** (Isa 42:18);  
+
+third, obstinate between scourges: ***who is there among you*** (Isa 42:23).  
 
 Concerning the first, he does two things:  
 
-first, he argues against the idols from divine operation;  
+first, he shows their ingratitude: ***these things***,Literally, “words.” namely, the aforementioned benefits. ***They are turned back***, from me: *you have forsaken me, says the Lord, you are gone backward* (Jer 15:6);  
 
-second, from the formation of the idols, where it says, ***who has formed a god?*** (Isa 44:10).  
+second, he calls down confusion on them: ***let them be greatly confounded***: *let all them be confounded* (Ps 24:4).  
 
-Concerning the first, he does two things:  
+**826**. ***Hear, you deaf***. Here he shows that they are hard-hearted or disobedient toward his precepts.  
 
-first, he sets out the singularity of his own divinity: ***I am the first, and I am the last***: *I am Alpha and Omega, the beginning and the end* (Rev 1:8);  
+And first, he shows their hard-heartedness, calling them deaf and blind unitedly: *for their own malice blinded them* (Wis 2:21), though they may have the eyes and ears of the body, which shows that those who see take heed and those who have the ears of their hearts open obey. ***He that is sold***, as a slave of sin for love of temporal good: *you are sold, to do evil in the sight of the Lord* (1 Kgs 21:20). ***You that have ears open***: *hear, O foolish people, and without understanding: who have eyes, and see not: and ears, and hear not* (Jer 5:21); above: ***blind the heart of this people, and make their ears heavy*** (Isa 6:10).  
 
-second, he applies a test, ***who is like to me?***  
+Second, he shows the foolishness of the hard-hearted, because the Lord intended what is found in the precepts for their own advantage. Hence he sets out the intention of the Lord: ***and the Lord was willing to sanctify him***, the people, both that the people themselves should ***magnify the law*** of God in their hearts by keeping it, ***and that*** the Lord should ***exalt*** the people: *for this is the will of God, your sanctification* (1 Thess 4:3).  
 
-**850**. And concerning this, he does three things.  
+And he also shows their contradiction, because they sinned against themselves: ***but this is a people that is robbed***, by demons through various sins, ***and*** therefore they are ***wasted***, by enemies, above: ***from a people rent and torn in pieces*** (Isa 18:7); also by others who furnished the occasion of sin: ***the snare***, that is, the occasion of sin, ***of young men***, the foolish: *you have been a snare to them* (Hos 5:1); and because they hid their sins ***in the houses of prisons***, that is, in the secret of their hearts: *with a double heart have they spoken* (Ps 11:3[12:2]).  
 
-First, he sets out the divine act in announcing future things and the order of past things: ***let him call and declare***, predestining, etc. *All things were known to the Lord God, before they were created* (Sir 23:29[20]).  
+Third, he sets out the punishment: ***they are made a prey***, ***and there is none to deliver them***, by the power of wars, ***and there is none that says***, in the insistence of prayer: *they compassed me on every side, and there was no one that would help me* (Sir 51:10); or the punishment begins where it says: ***in the houses of prisons***, so that this is explained literally.  
 
-Second, he indicates the sign of his divinity confirmed by witnesses: ***fear not***, as if to say: be not worried for me, as if I would fail in a test of my divinity, below: ***I have made you to hear new things*** (Isa 48:6).*Audita feci tibi nova*. DR: “I have shown thee new things.”  
+**827**. ***Who is there among you***. Here he shows that they cannot be corrected by scourges, because they do not even recognize the cause of the scourges; and concerning this, he does three things.  
 
-Third, he deduces the defect of the idols: ***is there a God besides me***, and first, he sets out the question: ***is there a God besides me***, *see that I alone am, and there is no other God besides me* (Deut 32:39); second, he shows the unsuitableness of their witnesses: ***the makers** (**plastae**See above on 45:21.) **of idols*, *are all of them nothing***, of no power, above: ***all nations are before him as if they had no being at all*** (Isa 40:17), or because they do not obtain their intention, wishing to form a god with their hands, as the idol also is nothing (1 Cor 8:4), *let the companions of him that is not, dwell in his tabernacle* (Job 18:15); ***their best beloved things***, the idols, which are either large and greatly to be revered or made from precious materials; third, he shows the falsehood of their testimony: ***they are their witnesses*, *that they do not see***, namely, of the idols, calling them gods: *a false witness shall not be unpunished* (Prov 19:5).  
+First, he seeks those who perceive rightly, intimating their scarcity; ***things to come***, which I foretell concerning your punishments: *who is wise, and he shall understand these things?* (Hos 14:10).  
 
-**851**. ***Who has formed***. Here he shows from their formation that they are not gods. And concerning this, he does two things:  
+Second, he determines the truth as to the doer of the punishment: ***who has given Jacob for a spoil***, *the Lord kills and makes alive* (1 Sam 2:6); as to the fault: ***has not the Lord himself, against whom we have sinned***: *and they have not known his justices, nor walked by the ways of God’s commandments* (Bar 4:13). And as to the punishment, ***and he has poured out***: *pour out your indignation upon them* (Ps 68:25[69:24]), “pouring out” signifies its abundance.  
 
-first, he sets out their formation to exclude their divinity;  
+Third, he excludes knowledge of the truth: ***and has burnt him***, namely, with material fire through the wasting by their enemies, ***and he knew not***, that he was punished by God for his sins: *they have not known nor understood* (Ps 81[82]:5).  
 
-second, the manner of their formation to show their worthlessness: ***the smith*** (Isa 44:12).  
+**828**. There is the cry (see 42:2),  
 
-Concerning the first, he does two things.  
+of devout prayer: *with a strong cry and tears* (Heb 5:7);  
 
-First, he sets out their formation, intending this reasoning: what it is made by man is not God, etc. ***Who***, as if to say: no one; ***profitable for nothing else***: *they themselves that make them, are of no long continuance* (Bar 6:46).  
+of attentive preaching: *and on the last festival day, Jesus cried* (John 7:37);  
 
-Second, he foretells the confusion of the workers: ***behold, all the partakers***, of the worship of idols, ***when they come*** to judgment, ***shall stand***, as if to be judged; ***the makers are from men***, that is, from the number of men: *let them be all confounded that adore graven things* (Ps 96[97]:7).  
+of strife and contention, above: ***I looked that it should bring forth grapes, and it brought forth wild grapes*** (Isa 5:2).  
 
-**852**. ***The smith***. Here he shows their worthlessness, that not only are they not gods, but even worthless things.  
+Christ is given for a covenant (see 42:6),  
 
-And first, he sets out the manner of their formation as to idols made from metal: ***with the strength of his arm***, that is, striking strong blows; ***he shall hunger and faint***, as if to say: the god which he is making cannot help him, although it is especially bound to its maker, above: ***the coppersmith striking with the hammer*** (Isa 41:7).  
+of preserving salvation: *I will set my bow in the clouds, and it shall be the sign of my covenant* (Gen 9:13);  
 
-Second, as to idols which are made from wood: ***the carpenter***.  
+of fulfilling the promise: *for all the promises of God are in him* (2 Cor 1:20);  
 
-And first, he shows the worthlessness of the idol, setting out its efficient cause with his tools: ***his rule***, for making the wood straight; ***a plane***, an instrument curved back from the side for hollowing out wood; ***with corners***, that is, four-sided in shape, or this is the name of a tool for making shapes of this kind; ***the compass***, that is, the lathe; as to its formal cause: ***and he has made the image***. As to its material cause: ***he has cut down cedars***, which are also used for base purposes: *the works of the hand of the workman has cut a tree out of the forest* (Jer 10:3).  
+of divine love: *God so loved the world* (John 3:16);  
 
-Second, he shows the blindness of the craftsman: ***they have not known***. ***Part thereof***, of the wood from which the idol was made, now ***is ashes***, for it was burned. ***Perhaps there is a lie in my right hand***, that is, in my working: *he is not ashamed to speak to that which has no life* (Wis 13:17).  
-
-**853**. ***Remember these things***. Here he calls them back to worship of him.  
-
-And first, he assigns the reason, setting out the duty of servitude: ***remember these things***, that is, consider the worthlessness of idols; ***my servant***: *the portion of Jacob is not like them: for he that made all things he it is, and Israel is the scepter of his inheritance* (Jer 51:19). And as to the benefit presented, or promised: ***I have blotted out***, or I will blot out, ***your iniquities as a cloud***, that is, easily: *our life shall pass away as the trace of a cloud, and shall be dispersed as a mist* (Wis 2:3).  
-
-Second, he sets out the calling: ***return***: *return to me* (Jer 3:1).  
-
-Third, he invites all creation to give thanks for the return: ***shout with joy, you ends of the earth***: *let the heavens and the earth praise him; the sea* (Ps 68:35[69:34]).  
-
-**854**. ***Thus says the Lord***. Here he promises the benefit of liberation to those who return to him. And concerning this he does two things.  
-
-First, he shows the power of the liberator through the benefit which he conferred on them: ***your redeemer***, from evils, ***and your maker***, in good things, below: ***thus says the Lord, that formed me from the womb*** (Isa 49:5); as to the creatures, which he made: ***I am the Lord, that make all things***: *he makes the earth by his power* (Jer 10:12). As to the wise, whom has made fools, some of whom professed to know divine things: ***that make void the tokens of diviners***: *a sword upon her diviners, and they shall be foolish* (Jer 50:36); some of whom professed to know things of the world: ***that turn the wise backward***: *has not God made foolish the wisdom of this world?* (1 Cor 1:20). And as to the fulfillment of promises: ***that raise up the word***, fulfilling it, ***of my servant***, the prophet, or Moses, or Christ: *raise up the prophets**Praedicatores*. Vg.: *praedicationes*. DR: “prophecies.” (Sir 36:17[20]).  
-
-Second, he promises liberation,  
-
-first, as to the rebuilding of the cities: ***who say to Jerusalem***: *the cities of Judah shall be built up* (Ps 68:36[69:35]);  
-
-second, as to the destruction of their enemies: ***who say to the deep***, that is, the sea, namely, Babylon; thus, above: ***the burden of the desert of the sea*** (Isa 21:1), above: ***the water of the sea shall be dried up*** (Isa 19:5);  
-
-third, as to the exaltation of the liberator: ***who say to Cyrus: you are my shepherd***, feeding my sheep: *he shall feed them, and he shall be their shepherd* (Ezek 34:23);  
-
-fourth, as to the reestablishment of the temple: ***who say to Jerusalem***; ***your foundations shall be laid***, for in the time of Cyrus, only the foundations of the temple remained standing: *Jerusalem will be built up again* (Jer 30:18).Cf. Daniel 9:25.  
-
-**855**. The Spirit is given (see 44:3),  
-
-to beginners  
-
-for the principle of live-giving: *the spirit came into them, and they lived* (Ezek 37:10);  
-
-for the laver of renovation: *by the laver of regeneration and renovation of the Holy Spirit* (Titus 3:5–6);  
-
-for the privilege of adoption: *you have received the spirit of adoption* (Rom 8:15);  
-
-to those making progress  
-
-to instruct the intellect: *but the Paraclete, the Holy Spirit, whom the Father will send in my name, he will teach you all things* (John 14:26);  
-
-to refresh the affections: *my spirit is sweet above honey* (Sir 24:27[20]);  
-
-to assist action: *the Spirit also helps our infirmity* (Rom 8:26);  
-
-to the perfect  
-
-as the benefit of liberty: *where the Spirit of the Lord is, there is liberty* (2 Cor 3:17);  
-
-as the bond of unity: *careful to keep the unity of the Spirit in the bond of peace* (Eph 4:3);  
-
-as the pledge of their inheritance: *you were signed with the holy Spirit of promise, who is the pledge of our inheritance* (Eph 1:13–14).  
-
-**856**. The saints are (see 44:7),  
-
-elect through predestination: *he chose us* (Eph 1:4);  
-
-formed through the infusion of grace: *the Lord God formed man* (Gen 2:7);  
-
-righteous through love: *the righteous love you* (Song 1:3);  
-
-servants through the duty of work: *we are unprofitable servants* (Luke 17:10).
+of the law to cease: *burnt offering and sin offering you didst not desire* (Ps 39[40]:7).

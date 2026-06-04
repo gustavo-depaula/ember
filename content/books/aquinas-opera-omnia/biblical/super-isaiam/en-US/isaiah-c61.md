@@ -1,95 +1,143 @@
-# Chapter 61
+# Chapter 59
 
-> ^61:2^ To proclaim the acceptable year of the Lord, and the day of vengeance of our God: to comfort all that mourn:
+> ^59:2^ But your iniquities have divided between you and your God, and your sins have hid his face from you that he should not hear.
 
-> ^61:3^ To appoint to the mourners of Zion, and to give them a crown for ashes, the oil of joy for mourning, a garment of praise for the spirit of grief: and they shall be called in it the mighty ones of justice, the planting of the Lord to glorify him.
+> ^59:3^ For your hands are defiled with blood, and your fingers with iniquity: your lips have spoken lies, and your tongue utters iniquity.
 
-> ^61:4^ And they shall build the places that have been waste from of old, and shall raise up ancient ruins, and shall repair the desolate cities, that were destroyed for generation and generation.
+> ^59:4^ There is none that calls upon justice, neither is there any one that judges truly: but they trust in a mere nothing, and speak vanities: they have conceived labor, and brought forth iniquity.
 
-> ^61:5^ And strangers shall stand and shall feed your flocks: and the sons of strangers shall be your husbandman, and the dressers of your vines.
+> ^59:5^ They have broken the eggs of asps, and have woven the webs of spiders: he that shall eat of their eggs, shall die: and that which is nurtured,*Confotum est*. DR: “brought out.” shall be hatched into a basilisk.
 
-> ^61:6^ But you shall be called the priests of the Lord: to you it shall be said: you ministers of our God: you shall eat the strength*Fortitudinem*. DR: “riches.” of the Gentiles, and you shall pride yourselves in their glory.
+> ^59:6^ Their webs shall not be for clothing, neither shall they cover themselves with their works: their works are unprofitable works, and the work of iniquity is in their hands.
 
-> ^61:7^ For your double confusion and shame, they shall praise their part: therefore shall they receive double in their land, everlasting joy shall be unto them.
+> ^59:7^ Their feet run to evil, and make haste to shed innocent blood: their thoughts are unprofitable thoughts: wasting and destruction are in their ways.
 
-> ^61:8^ For I am the Lord that love judgment, and hate robbery in a holocaust: and I will make their work in truth, and I will make a perpetual covenant with them.
+> ^59:8^ They have not known the way of peace, and there is no judgment in their steps: their paths are become crooked to them, every one that treads in them knows no peace.
 
-> ^61:9^ And they shall know their seed among the Gentiles, and their offspring in the midst of peoples: all that shall see them, shall know them, that these are the seed which the Lord has blessed.
+> ^59:9^ Therefore is judgment far from us, and justice shall not overtake us. We looked for light, and behold darkness: brightness, and we have walked in the dark.
 
-> ^61:10^ I will greatly rejoice in the Lord, and my soul shall be joyful in my God: for he has clothed me with the garments of salvation: and with the robe of justice he has covered me, as a bridegroom decked with a crown, and as a bride adorned with her jewels.
+> ^59:10^ We have groped for the wall, and like the blind we have groped as if we had no eyes: we have stumbled at noonday as in darkness, we are in dark places, as dead men.
 
-> ^61:11^ For as the earth brings forth her bud, and as the garden causes her seed to shoot forth: so shall the Lord God make justice to spring forth, and praise before all the nations.
+> ^59:11^ We shall roar all of us like bears, and shall lament as mournful doves. We have looked for judgment, and there is none: for salvation, and it is far from us.
 
-> **1073**. ***The spirit of the Lord is upon me***. Here he promises joy to the people. And this is divided into two parts:
+> ^59:12^ For our iniquities are multiplied before you, and our sins have answered us:*Responderunt nobis*. DR: “testified against us.” for our wicked doings are with us, and have known our iniquities:
 
-in the first, he promises joy;  
+> ^59:13^ In sinning and lying against the Lord: and we have turned away so that we went not after our God, but spoke calumny and transgression: we have conceived, and uttered from the heart, words of falsehood.
 
-in the second, the people receive the promise and give thanks, where it says, ***I will greatly rejoice in the Lord*** (Isa 61:10).  
+> ^59:14^ And judgment is turned away backward, and justice has stood far off: because truth has fallen down in the street, and equity could not come in.
+
+> ^59:15^ And truth has been forgotten: and he that departed from evil, lay open to be a prey: and the Lord saw, and it appeared evil in his eyes, because there is no judgment.
+
+> ^59:16^ And he saw that there is not a man: and he stood astonished, because there is none to oppose himself: and his own arm brought salvation to him, and his own justice supported him.
+
+> ^59:17^ He put on justice as a breastplate, and a helmet of salvation upon his head: he put on the garments of vengeance, and was clad with zeal as with a cloak.
+
+> ^59:18^ As unto revenge, as it were to repay wrath to his adversaries, and a reward to his enemies: he will repay the like to the islands.
+
+> ^59:19^ And they from the west, shall fear the name of the Lord: and they from the rising of the sun, his glory, when he shall come as a violent stream, which the spirit of the Lord drives on:
+
+> ^59:20^ and there shall come a redeemer to Zion, and to them that return from iniquity in Jacob, says the Lord.
+
+> ^59:21^ This is my covenant with them, says the Lord: my spirit that is in you, and my words that I have put in your mouth, shall not depart out of your mouth, nor out of the mouth of your seed, says the Lord, from henceforth and for ever.
+
+> **1036**. ***Behold the hand of the Lord is not shortened***. Here he sets out the preparation for receiving salvation on the part of the Savior himself.
+
+And first, he sets out the necessity of salvation;  
+
+second, the preparation: ***and the Lord saw*** (Isa 59:15).  
 
 Concerning the first, he does two things:  
 
-first, he accepts the office of announcing joy;  
+first, in the person of the Lord, he shows the necessity of salvation, showing the misery of the people;  
 
-second, he foretells the reason or the matter of this joy: ***and they shall be called*** (Isa 61:3).  
+in the second, the people respond, recalling their misery: ***therefore is judgment far from us*** (Isa 59:9).  
 
-**1074**. Concerning the first, he does two things.  
+Concerning the first, he does two things:  
 
-First, the gift of prophecy is treated: ***the spirit of the Lord is upon me***, Isaiah, ***because the Lord has anointed me***, filling me with the gift of prophecy: *for prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Spirit* (2 Pet 1:21). Or, this concerns Christ, about whom it says above: ***the spirit of the Lord shall rest upon him*** (Isa 11:2), and in Psalm 44:8[45:7], *God, your God, has anointed you with the oil of gladness above your fellows*. *This day is fulfilled this scripture in your ears* (Luke 4:21).  
+first, he shows the cause of their misery;  
 
-**1075**. Second, the action of the prophet or Christ is treated, which is twofold:  
+second, the misery itself: ***wasting and destruction*** (Isa 59:7).  
 
-to foretell rewards to the good, ***to preach to the meek***: *with meekness receive the ingrafted word, which is able to save your souls* (Jas 1:21);  
+**1037**. Concerning the first, he does two things.  
 
-and to bring remedy to the suffering, as to those who are dejected with pusillanimity: ***to heal the contrite of heart***, by consoling them, or forgiving their sins, if this is referred to Christ: *who heals the broken of heart, and binds up their bruises* (Ps 146[147]:3); and as to those who were held in captivity, to whom he announces the benefit of liberation: ***and to preach a release to the captives***, literal captives; or those captive under the devil and their own errors, above: ***that you might say to them that are bound: come forth*** (Isa 49:9). And the time of liberation: ***to proclaim the acceptable year of the Lord***, as to the liberation of the Jews, ***and the day of vengeance***, as to the Chaldeans; or the time of grace, in which he takes vengeance upon the devil, curbing his power: *now is the judgment of the world: now shall the prince of this world be cast out* (John 12:31); *you shall bless the crown of the year of your goodness* (Ps 64:12[65:11]); *for the time is come* (Ps 101:14[102:13]).  
+First, he excludes a false cause, from lack of God’s power or understanding, because he would not rush to hear: ***neither is his ear heavy that it cannot hear***, above: ***is my hand shortened?*** (Isa 50:2).  
 
-**1076**. And as to those who are consumed with sadness, to whom he announces joy: ***to comfort all that mourn***, in general. ***To appoint to the mourners of Zion***, in particular: *with a great spirit he saw the things that are to come to pass at last, and comforted the mourners in Zion* (Sir 48:27); and the sign of joy, when the signs of sadness are turned to signs of gladness, and this is ***and to give them a crown for ashes***, above: ***in that day the Lord shall be a crown of glory*** (Isa 28:5).  
+Second, he adds the true cause, namely, their own fault, first touching upon their fault in general: ***but your iniquities***, as to great sins, ***have divided***, like a wall or clouds might be interposed, ***and your sins***, as to common sins: *he said: I will hide my face from them* (Deut 32:20).  
 
-**1077**. ***And they shall be called***. Here he foretells the matter of their joy.  
+Second, he describes their fault in particular: ***for your hands***. And he touches in particular upon their sins against their neighbor: for he touched upon their sins against God above (Isa 57:3–11), and their sins against themselves, above (Isa 56:11–12).  
 
-And first, as to the restoration of buildings, setting out the condition of the rebuilders: ***and they shall be called in it***, namely, Jerusalem, by the command and permission of Cyrus, ***the mighty ones of justice***, constant in doing justice, not shaken by the threats of their adversaries; or this can refer to the apostles: *as the rose planted by the brooks of waters* (Sir 39:17[13]). And the restoration of buildings, ***and they shall build***, these same men, or the apostles, above: ***and the places that have been desolate for ages shall be built in you*** (Isa 58:12).  
+**1038**. And he first touches upon the injustice by which they were oppressing others as to action: ***for your hands are defiled with blood***, of the innocent, whom you have killed, ***and your fingers***, as to lesser injustices, or as to the diligence of their action, above: ***for your hands are full of blood*** (Isa 1:15); as to speech: ***your lips have spoken lies, and your tongue utters iniquity***, so that the ugliness of injustice is added to the ugliness of lying: *and you shall not find iniquity in my tongue* (Job 6:30). And as to omission of justice: ***there is none that judges***, as to superiors, to whom it belongs to judge: *seek in the broad places thereof, if you can find a man that executes judgment* (Jer 5:1).  
 
-**1078**. Second, as to the keeping of their possessions: ***and strangers shall stand***. This could be fulfilled literally, as some foreigners were employed in these menial services, like the Gabaonites: *so let them live, as to serve the whole multitude* (Josh 9:21); or mystically: the gentile preachers, ***flocks***: the simple believers of the Church, and these keep and cultivate the Church herself by their merits and teaching.  
+**1039**. Second, he touches upon the cunning by which they deceived others.  
 
-**1079**. Note on the words, ***the Lord has anointed me*** (Isa 61:1), that God the Father anointed Christ,  
+And first, he touches upon the cunning itself, inasmuch as they intended their own advantage by it: ***but they trust in a mere nothing***, in vain counsels, or in idols, *and speak*, expressing the vanity of their hearts with words: *you that rejoice in a thing of naught* (Amos 6:14); and inasmuch as they intended the oppression of others by it: ***they have conceived labor***, that is, they have devised so to labor at ways of harming; or to bring about labor for others; ***and brought forth iniquity***, in the completion of their work: *he has conceived sorrow, and brought forth iniquity* (Ps 7:15[14]).  
 
-first, with the oil of priestly dignity, as a priest to offer sacrifices: *he anointed him with holy oil* (Sir 45:18[15]);  
+**1040**. Second, he applies a certain metaphor to this.  
 
-second, with the oil of royal power, as a king to govern: *I anointed you king* (2 Sam 12:7) and prince of my people;  
+And first, he sets out the metaphor itself as to their cunning, both as to their oppression of others: ***eggs of asps***, that is, counsels full of poison, ***they have broken***, namely, bringing their works in public: *their wine is the gall of dragons, and the venom of asps, which is incurable* (Deut 32:33); and as to their own advantage: ***and have woven the webs***, that is, thoughts useless for their own advantage: *for the calf of Samaria shall be turned to spiders’ webs* (Hos 8:6). He sets out the metaphor again as to the effect of their cunning, as to the first: ***he that shall eat***, sharing in their deeds, ***of their eggs***, their counsels, ***and that which is nurtured***, carefully prepared for a long time, ***shall be hatched into a basilisk***, as if to say, it will kill even from afar, flying in a certain manner, above: ***out of the root of the serpent shall come forth a basilisk*** (Isa 14:29). And as to the second: ***their webs shall not be for clothing***; that is, as spider webs do not avail for clothing, so their counsels avail nothing for them, if they gain no advantage, above: ***they shall be confounded that wrought in flax, combing and weaving fine linen*** (Isa 19:9).  
 
-third, the oil of immense strength, as a boxer to fight: *how was the shield of the valiant cast away, the shield of Saul as though he had not been anointed with oil?* (2 Sam 1:21);  
+**1041**. Second, he explains the metaphor.  
 
-fourth, the oil of eminent gladness, as a liberal man to have mercy: *glad**Jucundus*. DR: “acceptable.” *is the man that shows mercy and lends* (Ps 111[112]:5); *God, your God, has anointed you with the oil of gladness above your fellows* (Ps 44:8).  
+And first, as to action: ***their works are unprofitable***, as to one part, ***the work of iniquity***, as to the other, above: ***their works shall not profit them*** (Isa 57:12).*Opera eorum non proderunt eis*. Vg.: *opera tua non proderunt tibi*. DR: “thy works shall not profit you.”  
 
-**1080**. Likewise, the devout servant anoints Christ:  
+Second, as to thoughts: ***their feet***, that is, their affections, as to one part: *their feet run to evil* (Prov 1:16); ***their thoughts***, as to the other: *woe to you that devise that which is unprofitable* (Mic 2:1).  
 
-first, with the tears of compunction: *anoint your head, and wash your face* (Matt 6:17);  
+**1042**. ***Wasting***. Here he shows them their misery.  
 
-second, with the ointment of devotion: *but she with ointment has anointed my feet* (Luke 7:46);  
+And first, he sets out the magnitude of their misery: ***wasting***, as to injury to things, ***and destruction***, as to injury to persons, ***are in their ways***, that is, wasting and destruction by their enemies threaten them because of their evil ways.  
 
-third, with the oil of pure intention: *at all times let your garments be white, and let not oil depart from your head* (Eccl 9:8);  
+Second, the fairness of their misery, namely that they suffer the kinds of things that they do to others: ***the way of peace***, by which they might have set others in peace; ***there is no*** right ***judgment***, and therefore, ***their paths***, that is, the things they devise, ***are become crooked***, that is, they are made curved to them, because what they prepared for others, they themselves will suffer; ***every one that treads***, following them, ***knows no peace***, with the knowledge of experience: *destruction and unhappiness in their ways; and the way of peace they have not known* (Ps 13[14]:3).  
 
-fourth, with the oil of praise and thanksgiving: *Jacob arising in the morning, took the stone . . . and set it up for a title, pouring oil upon the top of it* (Gen 28:18).  
+**1043**. ***Therefore is judgment far from us***. Here the people confess.  
 
-**1081**. ***But you shall be called the priests***. Here he foretells the matter of joy as to the glory of men. And concerning this, he does three things.  
+And first, they confess their misery as to the injustice of the enemies oppressing them: ***judgment is far from us***, because God does not judge us from our adversaries: the contrary is found above: ***I have brought my justice near*** (Isa 46:13[12]); as to the distress of their tribulations, setting out the obscurity of tribulation under the metaphor of darkness: ***we looked for light***, divine consolation, ***and behold darknes*s**, of tribulation, above: ***we shall look towards the land, and behold darkness of tribulation*** (Isa 5:30). And the difficulty of deliberations: ***we have groped***, as though not knowing what to do, above: ***who is blind, but my servant?*** (Isa 42:19); and injury from dangers: ***we have stumbled at noonday***, on these things where there was a clear way for us to avoid them, ***we are in dark places***, that is, in doubts: *they shall meet with darkness in the day* (Job 5:14).  
 
-First, he shows the perfection of their glory, because they are glorious in spiritual things: ***priests***, as living a holy life worthy of priesthood, as 2 Kings 8:18 says of the sons of David: *how they are numbered among the children of God, and their lot is among the saints* (Wis 5:5); they are glorious, too, in temporal things: ***you shall eat the strength of the Gentiles***, that is, you shall be refreshed and sustained by the strength of the Persians and Medes; ***you shall pride yourselves***, you shall be exalted, above: ***when the multitude of the sea shall be converted to you, the strength of the Gentiles shall come to you*** (Isa 60:5). Mystically: the apostles are priests, as the teachers of the gentiles, and they delighted in the strength of the martyrs.  
+**1044**. They also confess their misery as to sadness of heart: ***we shall roar all of us like bears***, on account of their cruelty; ***as mournful doves***, on account of their lewdness: *mourning as doves* (Nah 2:7); and as to the absence of salvation: ***we have looked for judgment***, for ourselves: *we looked for peace and no good came* (Jer 8:15).  
 
-**1082**. And he assigns the reason for the perfection: ***for your double confusion***, as if to say: you had confusion from lack of spiritual and temporal things; ***they shall praise***, that is, your neighbors, seeing, ***their part***, the recompense of double goods, made to them by God: *I will render you double as I declare today* (Zech 9:12). Mystically: the Church receives rewards in the goods of soul and body for the double confusion from the faithlessness of the gentiles and the Jews.  
+**1045**. Second, they confess their fault.  
 
-**1083**. Second, he touches on the duration of their glory: ***everlasting joy***. This is true as long as they remained in justice, as Jeremiah 18:7–10 explains, above: ***everlasting joy shall be upon their heads: they shall obtain joy and gladness*** (Isa 35:10).  
+And first, the manifestation of their fault as to God: ***for our iniquities are multiplied before you***, in your sight: *all things are naked and open to his eyes* (Heb 4:13); and as to the people themselves: ***and our sins have answered us***, in punishments, ***for our wicked doings are with us***, because we do not make satisfaction or correct our ways, above: ***the show of their countenance has answered them*** (Isa 3:9).  
 
-And he assigns the reason: ***for I am the Lord***. And this is the sense: because the Lord loves justice, he will grant to you that you will be just, that thus you may be pleasing to him, and he will make a covenant with you of everlasting joy; ***I hate robbery in a holocaust***: *he that offers sacrifice of the goods of the poor, is as one that sacrifices the son in the presence of his father* (Sir 34:24); ***a perpetual covenant***: *and I will make a new covenant with the house of Israel, and with the house of Judah* (Jer 31:31).  
+Second, the variety of their sins, against God: ***in sinning***, in deed, ***and lying***, in speech, ***we have turned away***, in omission; and against their neighbor, in speech: ***but spoke calumny***, against our neighbor; and against the law: ***and transgression***: *from the heart come forth evil thoughts* (Matt 15:19). And as to action, ***and judgment is turned away backward***, that is, the judgment of God for saving us; ***in the street***, they carried out their injustices in public. ***He that departed from evil, lay open to be a prey***, for not only did they do wicked deeds, but they plundered those who would not: *there is no mercy* (Hos 4:1); *let us lie in wait for the just, because he is contrary to our doings* (Wis 2:12).  
 
-**1084**. Third, the divulging of their glory: ***and they shall know their seed among the Gentiles***. This refers either to the Jews who were known for their religious worship, or to the spiritual seed of the apostles: *and their children for their sakes remain for ever* (Sir 44:13).  
+**1046**. ***And the Lord saw***. Here he sets out the preparation of salvation on the part of the Savior.  
 
-**1085**. ***I will greatly rejoice***. Here the people receive the promise and give thanks. And concerning this, he does two things.  
+And first, he sets out the manner of preparation, speaking of God according to a human manner. He sets out his compassion: ***and the Lord saw***, with the eye of mercy, ***there is no judgment***, of anyone to save. ***And he saw that there is not a man***, saving the Jews, ***and he stood astonished***, saddened or distressed: *and I sought among them for a man* (Ezek 22:30). And he sets out the taking up of armor: ***and his own arm brought salvation to him***, that is, his power, that he should suffer nothing contrary, or the people to the worship of him; ***his own justice supported him***, that his vengeance be executed firmly; ***he put on justice as a breastplate***: for as a soldier is strengthened by armor, so his work is strengthened by justice and his intention to save: *his arm has wrought for him salvation* (Ps 97[98]:1); *he will put on justice as a breastplate* (Wis 5:19). And he sets out the execution of vengeance: ***to the islands***, the various peoples, ***the like***, for the wicked things which they did to the Jews: *let all men dread and fear the God of Daniel* (Dan 6:26).  
 
-First, in the person of the people or of the Church, he expresses joy of heart: ***I will greatly rejoice***: *but I will rejoice in the Lord: and I will joy in God my Jesus* (Hab 3:18).  
+**1047**. Second, he sets out the minister of salvation or vengeance: ***when he shall come as a violent stream***, because of the magnitude of his power and strength, or Christ, the minister: *the stream of the river makes the city of God joyful* (Ps 45:5[46:4]).  
 
-Second, he confesses the divine benefit,  
+Third, his pact of strength: ***this is my covenant with them, says the Lord: my spirit that is in you***, the spirit of prophecy; ***your seed***, as to the other prophets and the apostles upon whom his Spirit came like an inheritance through a succession of descendants: *I will pour out my spirit upon all flesh: and your sons and your daughters shall prophesy* (Joel 2:28).  
 
-and first, under the likeness of clothing, inasmuch as the divine benefits protect them from sufferings: ***for he has clothed me with the garments of salvation***, above: ***put on the garments*** (Isa 52:1) of your joy.  
+**1048**. Note on the words, ***your iniquities have divided between you and your God*** (Isa 59:2), that sin divides  
 
-Second, under the likeness of adornments, inasmuch as they adorn them: ***as a bridegroom***. Mystically, as to the perfect in the Church, taking the place of Christ; ***and as a bride***, as to the imperfect: *I will clothe you**Circumdabo te*. Vg.: *cirbumdabit te Deus*. DR: “God will clothe thee.” *with the double garment* (Bar 5:2).  
+first, from one’s neighbor through dissension: *every kingdom divided against itself shall be brought to desolation* (Luke 11:17);  
 
-Third, under the likeness of buds, as to their fruits: ***for as the earth brings forth her bud***, above: ***it shall bud forth and blossom, and shall rejoice with joy and praise*** (Isa 35:2).
+second, from oneself, through contrary affection: *their heart is divided: now they shall perish* (Hos 10:2);  
+
+third, from God, through aversion: *they have forsaken me, the fountain of living water, and have dug to themselves broken cisterns* (Jer 2:13);  
+
+fourth, from the kingdom, through disinheritance: *he shall separate him* (Luke 12:46);  
+
+fifth, from the assembly of the saints through dissimilarity, above: ***the Lord will divide and separate me from his people*** (Isa 56:3).  
+
+**1049**. Note also on the words, ***their paths are become crooked*** (Isa 59:8), that there is the crookedness  
+
+first, of guilt, above: ***bow down, that we may go over*** (Isa 51:23);  
+
+second, of misery: *I am become miserable, and am bowed down even to the end* (Ps 37:7[38:6]);  
+
+third, of sadness: *the soul that is sorrowful for the greatness of evil she has done, and goes bowed down* (Bar 2:18);  
+
+fourth, of fraud: *though he humble himself and go crouching, yet take good heed and beware of him* (Sir 12:11);  
+
+fifth, of justice: *God, whose wrath no man can resist, and under whom they stoop that bear up the world* (Job 9:13).  
+
+**1050**. Note also on the words, ***as a violent stream*** (Isa 59:19), that Christ is a violent stream:  
+
+first, because of the multitude of water: *the river of God is filled with water* (Ps 64:10[65:9]);  
+
+second, because of the fervor of love: *a swift stream of fire issued forth from before him* (Dan 7:10);  
+
+third, because of the swiftness of its course: *the stream of the river makes the city of God joyful* (Ps 45:5[46:4]);  
+
+fourth, because of the height of its source: *and he showed me a river of water of life, clear as crystal, proceeding from the throne of God and of the lamb* (Rev 22:1).

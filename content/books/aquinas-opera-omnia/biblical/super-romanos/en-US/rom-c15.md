@@ -1,367 +1,395 @@
-# C. 15 - The Gospel for Both Jews and Gentiles
+# C. 14 - Avoidance of Scandal
 
 ***Lecture 1***
 
-***The strong should bear the infirmity of the weak***
+***The Lord is the only judge***
 
-***^15:1^ Now, we who are stronger ought to bear the infirmities of the weak and not to please ourselves. [n. 1142]***
+***^14:1^ Now him who is weak in faith, take unto you: not in disputes about thoughts. [n. 1081]***
 
-> ^15:2^ Let every one of you please his neighbor unto good, unto edification. [n. 1143]
+> ^14:2^ For one believes that he may eat all things: but he who is weak, let him eat herbs. [n. 1083]
 
-> ^15:3^ For Christ did not please himself: but, as it is written: *the reproaches of those who reproached you fell upon me*. [n. 1145]
+> ^14:3^ Let him who eats despise not him who eats not: and he who eats not, let him not judge him that eats. For God has taken him to him. [n. 1089]
 
-> ^15:4^ For whatever things were written were written for our learning: that, through patience and the comfort of the Scriptures, we might have hope. [n. 1148]
+> ^14:4^ Who are you that judges another man’s servant? [n. 1092] To his own lord he stands or falls. And he shall stand: for God is able to make him stand. [n. 1094]
 
-> ^15:5^ Now may the God of patience and of comfort grant you to be of one mind, one towards another, according to Jesus Christ: [n. 1149]
+> ^14:5^ For one judges between day and day: and another judges every day. Let every man abound in his own sense. [n. 1097]
 
-> ^15:6^ That with one mind and with one mouth you may glorify God and the Father of our Lord Jesus Christ.
+> ^14:6^ He who regards the day regards it unto the Lord. And he who eats, eats to the Lord: for he gives thanks to God. And he who eats not, to the Lord he eats not and gives thanks to God. [n. 1099]
 
-> ^15:7^ Wherefore, receive one another, as Christ also has received you, unto the honor of God. [n. 1150]
+> ^14:7^ For none of us lives to himself: and no one dies to himself. [n. 1101]
 
-> ^15:8^ For I say that Christ Jesus was minister of the circumcision for the truth of God, to confirm the promises made unto the fathers: [n. 1153]
+> ^14:8^ For if we live, we live unto the Lord: or if we die, we die unto the Lord. Therefore, whether we live or whether we die, we are the Lord’s. [n. 1103]
 
-> ^15:9^ But that the gentiles are to glorify God for his mercy, as it is written: *therefore will I confess to you, O Lord, among the gentiles and will sing to your name*. [n. 1155]
+> ^14:9^ For to this end Christ died and rose again: that he might be Lord both of the dead and of the living. [n. 1104]
 
-> ^15:10^ And again he says: *rejoice you gentiles, with his people*. [n. 1159]
+> ^14:10^ But you, why do you judge your brother? Or you, why do you despise your brother? For we shall all stand before the judgment seat of Christ. [n. 1105]
 
-> ^15:11^ And again: *praise the Lord, all you gentiles: and magnify him, all you people*. [n. 1160]
+> ^14:11^ For it is written: *as I live, says the Lord, every knee shall bow to me and every tongue shall confess to God*. [n. 1106]
 
-> ^15:12^ And again, Isaiah says: *there shall be a root of Jesse; and he who shall rise up to rule the gentiles, in him the gentiles shall hope*. [n. 1161]
+> ^14:12^ Therefore every one of us shall render an account to God for himself. [n. 1112]
 
-> ^15:13^ Now may the God of hope fill you with all joy and peace in believing: that you may abound in hope and in the power of the Holy Spirit. [n. 1162]
+> ^14:13^ Let us not therefore judge one another any more. [n. 1114]
 
-> **1142**. The Apostle taught above that the stronger should avoid scandalizing the weak; here he teaches that the stronger should bear with the failings of the weak.
+> **1081**. After showing how one ought to become perfect, the Apostle now shows how the perfect should act toward the imperfect.
 
-In regard to this he does two things:  
+First, he shows that they ought not scandalize or judge them;  
 
-first, he proposes an admonition;  
-
-second, he clarifies it, at ***let every one of you***.  
-
-This admonition contains two parts: the first pertains to external behavior. Hence he says: not only should we avoid scandalizing the weak, but ***we who are stronger*** in faith ***ought to bear the infirmities of the weak***. For as in a material edifice certain stronger material is selected to support the edifice’s entire weight, upon which weaker material is set, as are the foundation and pillars, so in the spiritual edifice of the Church stronger men are not only chosen but made stronger to support the weight of the others. Hence it says in a psalm: *I have strengthened its pillars* (Ps 75:4) and in Galatians: *bear one another’s burdens* (Gal 6:2). But the stronger support the failings of the weak, when they endure the shortcomings of the weak patiently and, so far as they can, try to help them.  
-
-The second pertains to the internal intention. Hence it is said: ***and not to please ourselves***, i.e., always desire the fulfillment of what pleases us, but we should condescend to the wills of others, so as to do what pleases them and is useful to them: *just as I try to please all men in everything I do* (1 Cor 10:33).  
-
-**1143**. Then when he says, ***let every one of you***, he clarifies his admonition:  
-
-first, in regard to the second part;  
-
-second, in regard to the first, at ***wherefore, receive one another***.  
+second, that they ought to uphold them, at ***we that are stronger*** (Rom 15:1).  
 
 In regard to the first he does two things:  
 
-first, he explains what he had said;  
+first, he forbids improper judgments;  
 
-second, he presents a reason, ***for Christ did not please himself***.  
-
-**1144**. First, therefore, he says: it has been stated that we should not please ourselves, precisely because ***every one*** of us who are stronger, ought to ***please*** our weak ***neighbor***, i.e., condescend to him in matters that please him, but not in matters that are evil, as some request in Isaiah: *speak to us pleasing things* (Isa 30:10). Hence he adds: ***unto good***.  
-
-Similarly, we should not have the intention of pleasing men for the sake of human favor or glory, since it says in a psalm: *God will scatter the bones of those who please men* (Ps 53:5), but for the honor of God and the benefit of our neighbor. Hence he adds: ***unto edification*** i.e., because we condescend to their will, they are strengthened in the faith and love of Christ: ***let us follow after the things that are of peace and keep the things that are of edification, one towards another*** (Rom 14:19).  
-
-**1145**. Then when he says, ***for Christ***, he assigns the reason for what he had said and uses the example of Christ:  
-
-first, he mentions the example of Christ;  
-
-second, he shows that we should imitate this example, ***for whatever things were written***;  
-
-third, he adds a prayer so that we can fulfill it, at ***now the God of peace***.  
-
-**1146**. In regard to the first he does two things: first, he presents the example, saying: it has been stated that we should not please ourselves, i.e., according to our own private will; ***for Christ***, who is our head, ***did not please himself***, when he chose to suffer for our salvation and do things contrary to his own will, namely, his natural human will, in order to accomplish the divine will, which was common to him and the Father: *not my will but yours be done* (Matt 26:42).  
-
-**1147**. Second, he appeals to an authority, saying: ***but as it is written*** in a psalm in the person of Christ speaking to the Father: O Father, ***the reproaches of those***, i.e., the Jews, ***who reproached you***, i.e., blasphemed you by their evil works and by contradicting the truth of your doctrine, ***fell upon me***, because they willed to oppress me, because I instructed them about your will and rebuked their evil deeds: *they have hated both me and my Father* (John 15:24).  
-
-This can also refer to the sins of the whole human race, because all sins in a way reproach God, inasmuch as God’s law is scorned by them: *they have forsaken the Lord, they have blasphemed the holy one of Israel* (Isa 14:4). Thus, therefore, the reproaches of those reproaching God fell on Christ, inasmuch as he died for the sins of all: *the Lord has laid on him the iniquity of us all* (Isa 1:4); *he bore our sins in his body on the tree* (1 Pet 2:24).  
-
-**1148**. Then when he says, ***for whatever things were written***, he shows that we must imitate this example of Christ, saying: ***for whatever things were written*** in Sacred Scripture about Christ or his members ***were written for our learning***. There was no need to write this except for our instruction: *all Scripture is inspired by God and profitable for teaching, for correction, and for training in justice* (2 Tim 3:16).  
-
-But what is contained in Scripture for our instruction is shown when he says: ***that, through patience and the comfort of the Scriptures***, i.e., which the Scriptures contain. For in Sacred Scripture is contained the patience of the saints in enduring evils: *you have heard of the patience of Job* (Jas 5:11). In them is also contained consolation, which God gave them, as it says in a psalm: *when the cares of my heart are many, your consolations cheer my soul* (Ps 94:19). Hence it also says in 1 Peter: *predicting the sufferings of Christ*, which pertains to patience, *and the subsequent glory*, which pertains to consolation (1 Pet 1:11).  
-
-What the fruit of this doctrine will be for us he indicates when he says: ***that we might have hope***. For by the instruction from Sacred Scripture that those who suffered tribulations patiently for God were divinely consoled, we receive the hope that we ourselves will be consoled, if we have been patient in them: *if he should slay me, I will hope in him* (Job 13:15).  
-
-**1149**. Then when he says, ***now may the God of patience***, because it seemed exceedingly difficult for a mere man to be able to imitate the example of Christ, as it says in Ecclesiastes: *what is man that he should be able to follow the king, his maker?* (Eccl 2:12), he makes use of a prayer, saying: ***now may the God of patience***, i.e., the giver: *you are my patience* (Ps 71:5), ***and of comfort***, i.e., who bestows spiritual consolation: *the Father of mercies and God of all comfort* (2 Cor 1:3), ***grant you, from whom is every best gift* (Jas 1:17), that you ***be of one mind***, that is, agree with one another: *agree with one another, live in peace* (2 Cor 13:11), not consenting in sin, but ***according to Christ Jesus***, of whom it is said: *he is our peace, who has made us both one* (Eph 2:14). ***That***, by the fact that you agree on the same things, ***with one mind***, existing through faith and consensus of charity, as it says in a psalm: *who makes men of one mind to dwell in a house* (Ps 67:7), i.e., with one confession of the voice coming from unity of faith, 1 Corinthians: *I appeal that all of you agree* (1 Cor 1:10), that for the conformity of the heart, ***you may glorify God***, Creator of all things, he himself existing as ***the Father of our Lord Jesus Christ***, through whom he adopted us as his sons: *those who honor me I will honor* (1 Sam 2:30); *if I am a father, where is my honor?* (Mal 1:6)  
-
-**1150**. Then when he says, ***wherefore, receive one another***, he clarifies the first part of the admonition in which he had said that the stronger should bear with the failings of the weak.  
-
-In regard to this he does three things:  
-
-first, he resumes the admonition;  
-
-second, he presents a reason from the example of Christ, at ***as Christ also***;  
-
-third, he adds a reason, at ***now may the God of hope***.  
-
-**1151**. First, therefore, he says: ***wherefore***, i.e., because the things that have been written are directed to our instruction, namely, the examples of Christ and the other saints, ***receive one another*** in the love of charity, namely, so that one bears things that pertain to another, just as he would like to be helped as far as charity permits, and so that one may bear with another to help and enable him to advance: ***him who is weak in faith take unto you*** (Rom 14:1).  
-
-**1152**. Then when he says, ***as Christ also has received you***, he assigns a reason from the example of Christ.  
-
-First, he presents the example, saying: ***as Christ also has received you***, i.e., took you under his care and protection: *behold, my servant whom I uphold* (Isa 42:1); *he has helped Israel, his servant, in remembrance of his mercy* (Luke 1:54). And this ***unto the honor of God***, to whom he referred all things: *I honor my Father and you dishonor me* (John 8:49).  
-
-From this we are given to understand that we should bear up one another in things pertaining to the honor of God.  
-
-**1153**. Second, when he says, ***for I say that Christ***, he clarifies what he had said:  
-
-first, with respect to the Jews;  
-
-second, with respect to the gentiles, at ***but that the gentiles***.  
-
-**1154**. First, therefore, he says: it has been stated that Christ welcomed you who are assembled in the unity of faith composed of Jews and gentiles. And this is clear with respect to both: ***for I say***, therefore, ***that Christ Jesus was minister of the circumcision***, for he is the author of everyone’s faith, as it says in Hebrews: *looking to Jesus, the author and perfecter of our faith* (Heb 12:2). But he showed himself in person only to the Jews, as it says in Matthew: *I was sent only to the lost sheep of the house of Israel* (Matt 15:24); and in Isaiah: *his voice will not be heard outside* (Isa 42:2). And this ***for the truth of God***, i.e., that the truth of God’s promise may be acknowledged: ***God is truth*** (Rom 3:4). Hence he continues: ***to confirm the promises made unto the fathers***: *he has raised up a horn of salvation for us in the house of his servant David; as he spoke from the mouth of his holy prophets* (Luke 1:69); *for all the promises of God find their yes in him* (2 Cor 1:20).  
-
-**1155**. Then when he says, ***but that the gentiles***, he shows that even the gentiles were accepted by Christ:  
-
-first, he states his proposition;  
-
-second, he confirms it with an authority, at ***as it is written***.  
-
-**1156**. First, therefore, he says: It has been stated that Christ accepted the Jews in order that the promises made to the patriarchs be fulfilled. But the promises were not made to the gentiles. Hence, this does not apply to the gentiles, because they were accepted on account of mercy. And this is what he says: ***but that the gentiles are to glorify God for his mercy*** extended to them by Christ; because, although he did not preach to them in person, he sent them his disciples, who exercised their ministry among them as he had done among the Jews: *go, therefore, and teach all nations* (Matt 28:19); *the earth is full of the Lord’s mercy* (Ps 33:5); *his mercy is on those who fear him from generation to generation* (Luke 1:50).  
-
-**1157**. Thus, the Apostle attributes the conversion of the Jews to God’s truth but that of the gentiles to his mercy. But a psalm says: *all the ways of the Lord are mercy and truth* (Ps 25:10), which seems to contradict this.  
-
-The answer is that in ascribing the call of the Jews to God’s truth he does not exclude mercy, because the Apostle himself, who was born of the Jews, says: *I received mercy* (1 Tim 1:13). It was also an act of mercy that God made the promises to the patriarchs about the salvation of their descendants. Similarly, in ascribing the call of the gentiles to God’s mercy he does not exclude God’s truth entirely, because it also pertained to divine truth that he should fulfill his intention concerning the salvation of the gentiles. Of this intention the Apostle says in Ephesians: *it was a mystery hidden for ages in God* (Eph 3:9). But one form of truth, namely, the fulfillment of promises, is considered in the call of the Jews, that is not considered in the call of the gentiles, to whom the promises were not made.  
-
-**1158**. Then when he says, ***as it is written***, he confirms with an authority what he had said about the conversion of the gentiles.  
-
-For although the call had not been promised to the gentiles, it was not unplanned but was foretold by the predictions of the prophets.  
-
-He adduces four authorities, the first of which contains Christ’s thanksgiving to the Father for the conversion of the gentiles achieved by him. Hence he says: ***as it is written***, (Ps 18:50), *you made me the head of the gentiles; you exalted me above my adversaries*. O God the Father, ***I***, Christ, ***will praise you*** with thanksgiving ***among the gentiles***, for the conversion of the gentiles accomplished through me and ***and will sing*** with new exaltation of mind ***to your name***, which has been manifested to them, as it says in John: *I have manifested your name to the men whom you gave to me* (John 17:6).  
-
-Or in another way: ***I will confess to you among the gentiles***, i.e., I will make the gentiles confess to you with a confession of faith: *let the peoples praise you, O God, let all the peoples praise you* (Ps 67:5) *and I will sing to your name*, i.e., I will make the gentiles sing to you a song which consists in the exultation of a renewed spirit: *O, sing to the Lord a new song; sing to the Lord, all the earth* (Ps 96:1).  
-
-**1159**. The second authority contains the coalescence of gentiles and Jews. Hence, he says: ***and again he says***: *O gentiles, once alienated from the commonwealth of Israel* (Eph 2:12); ***rejoice, you gentiles, with his people***, i.e., adopt a common joy together with the Jews, who were once his people: *they rejoice before you as with joy at the harvest* (Isa 9:3); *there shall be one flock and one shepherd* (John 10:16). But our letter has: *rejoice with Jerusalem, and be glad with her, all you that love her* (Isa 66:10).  
-
-**1160**. The third authority contains the devotion of the gentiles to God. Hence he adds: ***and again*** it is written in a psalm: ***praise the Lord, all you gentiles*** (Ps 117:4), i.e., confess his goodness: *from the rising of the sun to its setting the name of the Lord is to be praised* (Ps 113:3); ***and all you people***, not only the Jewish people, ***and magnify him***, i.e., confess his greatness, i.e., that his greatness exceeds all praise: *when you praise the Lord, exalt him as much as you can; for he will surpass even that* (Sir 43:30); *from the rising of the sun to its setting my name is great among the gentiles* (Mal 1:11).  
-
-**1161**. The fourth authority contains the reverence of the gentiles toward Christ. Hence he continues: ***and again Isaiah says: the root of Jesse shall come*** (Isa 11:10). Here he foretells the origin of Jesus, that he will be born of the seed of Jesse. For Jesse was David’s father. Therefore he says: ***there shall be a root of Jesse***, from whose seed Christ will be born: *in that day the root of Jesse shall stand as an ensign to the people* (Isa 11:10). Or Christ will be the root of Jesse, because although he came from Jesse according to bodily origin, yet it was his power that sustained him and gave him grace: ***you do not bear the root but the root bears you*** (Rom 11:18).  
-
-Then he touches on Christ’s office, adding: ***he who shall rise up*** with such excellent grace that he is able ***to rule the gentiles*** by leading them to divine worship, which no one had been able to do previously: *I will make the gentiles your heritage. You shall rule them with a rod of iron* (Ps 2:8).  
-
-Finally, he mentions the devotion of the gentiles to Christ, saying: ***in him the gentiles shall hope***, i.e., to obtain through him the inheritance of heavenly glory: *we have been born anew to a living hope through the resurrection of Jesus Christ from the dead* (1 Pet 1:3).  
-
-**1162**. Then when he says, ***now may the God of hope***, he adds a prayer, saying: it has been stated that the gentiles will hope in Christ, ***the God of hope***, i.e., who pours this hope in us: *my hope, O Lord* (Ps 71:5). Or ***may the God of hope***, i.e., the one to hope in, ***fill you with all joy***, i.e., spiritual, which is concerned with God: *the joy of the Lord is your strength* (Neh 8:10), ***and peace***, through which a man is at peace in himself and with God and his neighbor: *great peace have they who love your law* (Ps 119:165), ***in believing***. As if to say: so that along with believing you may have peace and joy, which are effects of charity, as it says in Galatians: *the fruit of the Spirit is love, joy, peace* (Gal 5:22).  
-
-Hence it is clear that he wishes them to have from God, the giver of hope, not only faith but charity, through which faith works, as it says in Galatians (Gal 5:6), lest their faith be unformed and dead: *faith without works is dead* (Jas 2:26). ***So that*** by the fullness of these virtues ***you may abound***, by progressing from good to better, not only ***in hope*** but also ***in the power of the Holy Spirit***, i.e., in charity, which is poured forth in your hearts by the Holy Spirit, as was said above (Rom 5:5); *God is able to provide you with every grace in abundance* (2 Cor 7:8).  
-
-Lecture 2  
-
-***Paul is the apostle to the gentiles***
-
-***^15:14^ And I myself also, my brethren, am assured of you that you also are full of love, replenished with all knowledge, so that you are able to admonish one another. [n. 1163]***
-
-> ^15:15^ But I have written to you, brethren, more boldly in some sort, as it were putting you in mind, because of the grace [n. 1165] which was given me by God, [n. 1167]
-
-> ^15:16^ That I should be the minister of Christ Jesus among the gentiles: sanctifying the Gospel of God, that the oblation of the gentiles may be made acceptable and sanctified in the Holy Spirit.
-
-> ^15:17^ I have, therefore, glory in Christ Jesus towards God. [n. 1168]
-
-> ^15:18^ For I dare not speak of any of those things which Christ does not work by me, for the obedience of the gentiles, by word and deed, [n. 1171]
-
-> ^15:19^ By the power of signs and wonders, in the power of the Holy Spirit, so that from Jerusalem through the circumference, as far as unto Illyricum, I have replenished the Gospel of Christ. [n. 1172]
-
-> ^15:20^ And I have so preached this Gospel, not where Christ was named, lest I should build upon another man a foundation. [n. 1173]
-
-> ^15:21^ But as it is written: *they to whom he was not spoken of shall see: and they who have not heard shall understand*. [n. 1175]
-
-> **1163**. After instructing the Romans with general admonitions, the Apostle now begins to write certain familiar matters to them.
-
-First, matters pertaining to himself;  
-
-second, matters pertaining to others, at ***but I commend to you Phoebe*** (Rom 16:1).  
+second, he forbids placing stumbling blocks before the weak, at ***but judge this rather*** (Rom 14:13).  
 
 In regard to the first he does three things:  
 
-first, he excuses his presumption in instructing and correcting them;  
+first, he gives an admonition;  
 
-second, he excuses his tardiness in not visiting them, at ***for which cause also I was hindered*** (Rom 15:22);  
+second, he explains it, at ***for one believes***;  
 
-third, he seeks the favor of their prayers, at ***I beseech you therefore, brethren*** (Rom 15:30).  
+third, he assigns a reason, at ***for God has taken him to him***.  
 
-In regard to the first he does two things:  
+**1082**. In regard to the first it should be noted that in the early Church some of the Jews converted to Christ believed that the practices of the law must be observed along with the Gospel, as is clear from Acts (Acts 15:1). These the Apostle calls weak in the faith of Christ, as though not yet perfectly believing that faith in Christ is sufficient for salvation. He calls those perfect or strong in faith who believed that the faith of Christ was to be observed without the practices of the law. And there were some of both types among the believers in Rome.  
 
-first, he excludes a wrong interpretation of the reason for instructing and correcting them;  
+Therefore, the Apostle addresses the perfect in faith, saying: We have said that you should put on the Lord Jesus Christ, ***take unto you***, i.e., join to yourselves in a spirit of charity and support, ***the man who is weak in faith***, to whom can be applied the words of Wisdom: *I am a man who is weak and short-lived, with little understanding of judgment and laws* (Wis 9:5); ***welcome one another, therefore, as Christ has welcomed you*** (Rom 15:7); *help a poor man for the commandment’s sake* (Sir 29:9). ***But not for disputes of opinions***, i.e., not discussing the fact that one’s opinion is contrary to another’s. For those who observed the practices of the law considered as violators those who did not observe them; and those who did not observe them despised as errant and ignorant those who did observe them: ***their conflicting thoughts accuse or perhaps excuse them*** (Rom 2:15).  
 
-second, he assigns the true cause, at ***but I have written to you, brethren, more boldly***.  
+**1083**. Then when he says, ***for one believes***, he explains what he had said:  
 
-**1164**. In regard to the first it should be noted that someone could believe that the Apostle wrote to the Romans, because he thought there was no one there who could instruct and correct them. But he excludes this, saying: ***and I myself also, my brethren, am assured of you***, by things I have heard about you, that you are capable of admonishing those among you who need admonishing.  
+first, he shows who are weak in faith;  
 
-Two things are required of one who would admonish properly: first, that he admonish not from anger or hatred but from love, as it says in a psalm: *let a good man rebuke me in kindness* (Ps 141:5), and in Galatians: *you who are spiritual should restore him in a spirit of gentleness* (Gal 6:1). As to this he says: ***that you also are full of love***: *fill your hands with burning coals from between the cherubim*, i.e., with the fire of charity (Ezek 10:2).  
+second, how disputes over opinions are to be avoided, at ***let him who eats***.  
 
-Second, knowledge of the truth is required, because some have zeal for God in correcting, but it is not enlightened, as he said above (Rom 10:2). That is why he adds: ***replenished with all knowledge***, i.e., human and divine, of the old law and of the new: *in every way you were enriched with all speech and all knowledge* (1 Cor 1:5).  
+**1084**. In regard to the first it should be noted that among the observances of the law one dealt with distinguishing among foods, because some foods were forbidden in the law, as is clear from Leviticus 11:2 et seq.; and indeed every day it was necessary to apply this observance or not. Therefore, the Apostle mentions this in particular, saying: ***for one believes***, namely, the one perfect in faith, ***that he may eat all things***, since he does not consider himself bound to the observance of the law: *not what goes into the mouth defiles a man* (Matt 15:11); *everything created by God is good, and nothing is to be rejected if it is received with thanksgiving* (1 Tim 4:4).  
 
-From this he concludes: ***so that you are able*** on account of the love and knowledge, fittingly ***to admonish one another***. For because *we all offend in many ways* (Jas 3:2), it is fitting that we admonish one another, as it says in Sirach: *he gave commandment to each of them concerning his neighbor* (Sir 17:14).  
+**1085**. It was not because they were naturally unclean that certain foods were forbidden in the old law. For just as in the case of words, the word ‘fool’ signifies something not good, although the word itself is good, so in the case of animals, some animal is good according to its nature but evil in what it signifies, as a pig which signifies uncleanness. Therefore, the ancients were forbidden to eat its flesh, for in avoiding it they signified avoidance of uncleanness. For the entire life of that earlier people was centered on figures. But with the coming of Christ, who is the truth, the figures ceased.  
 
-**1165**. Then when he says, ***but I have written to you***, he gives the true cause why he had admonished and corrected them.  
+**1086**. He adds in regard to the weak: ***but he who is weak, let him eat herbs***. As if to say: he eats those foods which involve nothing unclean forbidden in the law. For among the classes of animals, say of land, sky, and water, some classes were permitted and some forbidden; but no herbs or trees were forbidden, as is clear in Leviticus (Lev 11).  
 
-In regard to this he does two things:  
+There can be two reasons for this: one is that the produce of the earth had been granted man to eat from the beginning: *behold, I have given you every plant yielding seed, which is upon the face of all the earth, and every tree with seed in its fruit; you shall have them for food* (Gen 1:29). But the first permission to eat flesh seems to have been granted after the flood. Hence it says in Genesis: *as I gave you the green plants, I give you everything* (Gen 9:3), i.e., types of animals.  
 
-first, he shows that this belongs to the authority committed to him by his apostolate;  
+The other reason is that in Paradise man had transgressed the first prohibition about abstaining from certain fruits of the earth, as is clear in Genesis 3; for this reason a similar prohibition was not repeated.  
 
-second, he shows how he used this power, at ***I have, therefore, glory***.  
+**1087**. But since the practices of the law ceased during the passion of Christ, it seems out of place for the Apostle to permit those weak in faith to abstain from foods forbidden in the law, a practice no longer granted to Christians by the Church.  
 
-**1166**. He says, therefore: ***more boldly***, i.e., securely, ***I have written to you*** by attacking your errors and shortcomings, which of course could be ascribed to bold presumption, inasmuch as I did not fear your displeasure: *he goes out boldly to meet the weapons* (Job 39:21).  
+But according to Augustine, three periods of time respecting the practices of the law must be distinguished. The first is the time before Christ, when the practices of the law were in full vigor and still alive. The second is the time after the passion of Christ but before the spreading of the Gospel, when the practices were dead, because no one was bound by them; and when they were practiced, no one benefited by them. Although dead, they were not death-dealing, because the Jews converted to Christ could practice them without sin. It is to this time that the Apostle refers here. The third is the time after the spreading of the Gospel, when the practices of the law were not only dead but death-dealing, so that whoever practiced them sinned mortally.  
 
-But this presumption is excused for three reasons: first, on account of the condition of those to whom he wrote, because even though among the Romans there were some to whom such rebukes seemed bold and presumptuous, there were others who needed a sharp rebuke on account of their insolent disposition: *rebuke them sharply* (Titus 1:13). And this is what he says: ***in some sort***. As if to say: my writing does not seem to be bold to all of you but only to a part of you. Or it can be understood as meaning, *on some points*, on which he rebukes them. But it can also mean some part of the Church, i.e., which is with me.  
+**1088**. The Gloss explains this in another way, namely, that the weak person is the one prone to fall into sensual vices. Such a person should be advised to eat vegetables, i.e., mild and meager foods, which do not foment vices, and to abstain from foods which stimulate sensual desire. But a stronger person believes that he can eat anything without danger. This difference appears between Christ’s disciples, who did not fast because they were strengthened by Christ’s presence, and the disciples of John the Baptist, who fasted. Hence, too, those who perform penances abstain from certain foods, not because they are unclean, but in order to restrain sensual desire.  
 
-Second, the boldness is excused because of the Apostle’s intention. For he was not writing to them as though he regarded them as ignorant, but in order to jog their memories. And this is what he adds: ***as it were putting you in mind***, as though they had forgotten things they once knew, as Philippians says: *you have been occupied* (Phil 4:10). *Recall the former days when, after you were enlightened, you endured a hard struggle with sufferings* (Heb 10:32).  
+**1089**. Then when he says, ***let him who eats***, he explains how to avoid differences of opinion.  
 
-Third, he is excused because of his apostolic authority which required this. Hence, he adds: ***because of the grace*** of the apostolate committed to me: *by the grace of God I am what I am* (1 Cor 15:10).  
+First, in regard to the perfect he says: ***let him who eats***, namely, with a secure conscience or even without danger of sensual desire, ***despise not him who eats not*** from certain foods, as weak in faith or prone to sensual vices: *woe to you, despiser, will you not be despised in turn?* (Isa 33:1); *he who rejects you rejects me* (Luke 10:16).  
 
-**1167**. First, he describes the author of this grace when he says: ***which was given me by God***. As if to say: not by men: *Paul an apostle, not from men nor through men* (Gal 1:1).  
+Second, in regard to the weak, saying: ***and he who eats not*** from certain foods, either because he is weak in faith, about which the Apostle speaks, or because he is prone to sensual desire, ***let him not judge him who eats*** as though he were a transgressor of the law or as rushing headlong into sensual vices: *judge not that you may not be judged* (Matt 7:1); ***you have no excuse, O man, when you judge another*** (Rom 2:1).  
 
-Second, he specifies that grace when he says: ***that I should be the minister of Christ Jesus among the gentiles***, i.e., to serve God in the conversion of the gentiles: *one should regard us as ministers of Christ* (1 Cor 4:11); ***as long indeed as I am the apostle of the gentiles, I will honor my ministry*** (Rom 11:13).  
+**1090**. Then when he says, ***for God has taken him to him***, he assigns three reasons why we should abstain from false judgment.  
 
-Third, he shows the function of this grace when he says: ***sanctifying the Gospel of God***, i.e., showing that it is holy by the word of truth and the work of a good life and of miracles: *in the word of truth, the Gospel which has come to you, as indeed in the whole world, is bearing fruit and growing* (Col 1:6); *all the words of my mouth are righteous* (Prov 8:8).  
+The second is given at ***his master***;  
 
-Fourth, he presents the end of this grace when he says: ***so that the oblation of the gentiles may be made***, i.e., the nations converted by my ministry, in which he offered, as it were, a sacrifice and oblation to God, as it says in Philippians: *even if I am to be poured as a libation upon the sacrificial offering of your faith, I am glad and rejoice with you all* (Phil 2:17). ***May be made acceptable***, namely, to God through a right intention: *then will you delight in right sacrifices, oblations and holocausts* (Ps 51:20)*—and sanctified in the Holy Spirit***, i.e., by charity and the other gifts of the Holy Spirit: *you were sanctified in the name of the Lord Jesus Christ and in the Spirit of our God* (1 Cor 6:11).  
+the third at ***you who judge***.  
 
-**1168**. Then when he says, ***I have, therefore, glory in Christ***, he shows how he used his apostolic authority.  
+The first reason is based on the authority of the one judging, hence:  
 
-First, he mentions the fruit it produced;  
+first, he shows that this authority belongs to God;  
 
-second, the greatness of this fruit, at ***so that***;  
+second, he concludes that judgment does not belong to men, at ***who are you***.  
 
-third, he shows the difficulty, at ***and I have so preached this Gospel***.  
+**1091**. First, therefore, he says: I have been correct in saying that one who eats should not judge him who does not, *for God has taken him to him*, namely, as a servant to be judged by him: *I took two rods*, i.e., two peoples (Zech 11:7); *he drew me out of many waters* (Ps 18:16).  
 
-**1169**. In regard to the first he does three things: first, he gives glory to God for the fruit he produced, saying: ***therefore***, because I have received such a grace and have carefully executed that for which it had been given to me, ***I have glory***, i.e., merit worthy of glory, as a faithful minister: *I would rather die than have anyone deprive me of my ground for boasting* (1 Cor 9:15). But I do not attribute this glory chiefly to myself; rather I have it ***in Christ Jesus***, i.e., through Christ Jesus, by whose power I was able to bring forth fruit: *without me you can do nothing* (John 15:5). And because all things were handed over to him by the Father, as it says in Matthew 11:27, the Father abiding in him also does the works (John 14:10). Therefore, he finally refers this glory to the Father, saying: ***towards God***, namely, the Father: *not to us, O Lord, not to us, but to your name give glory* (Ps 115:1).  
+But the one who is drawn to the judgment of a superior should not be judged by an inferior.  
 
-Then he assigns the reason for what he had said, saying: ***for I dare not speak of any of those things which Christ does not work by me***. As if to say: I will not speak about the fruit produced through me, because it was not produced by me. Otherwise, I would have no glory with God, even if with men. What I do relate are things not as accomplished chiefly through me, but as done by Christ though me: *O Lord, you have wrought for us all our works* (Isa 27:12).  
+**1092**. Therefore, he concludes, ***who are you***, i.e., of what authority and power are you, ***who judges another man’s servant?*** That is, your neighbor, who is a servant of God? For a judge must have authority, as it says in Exodus: *who made you a prince and a judge over us?* (Exod 2:14). *Man, who made me a judge or divider over you?* (Luke 12:14).  
 
-**1170**. Second, he mentions the fruit itself, saying: ***for the obedience of the gentiles***. As if to say: my glory is this, that I have made the gentiles obey the faith: ***for the obedience to the faith in all nations*** (Rom 1:5); *as soon as they heard of me they obeyed me* (Ps 18:44).  
+**1093**. But from this reasoning it seems to follow that a man’s judgment about another man is illicit.  
 
-**1171**. Third, he shows how he had brought the gentiles to this obedience. But because he had said above: ***faith comes by hearing, and that which is heard, through the word of Christ*** (Rom 10:17), he now says: ***by word***, i.e., by the word of preaching the faith.  
+The answer is that a man’s judgment is licit, as long as he acts with divinely granted authority. Hence, it says in Deuteronomy: *hear them and judge what is righteous* (Deut 1:16), and later he adds, *judgment is God’s*, i.e., passed with God’s authority. But if someone desires to usurp judgment over matters not divinely granted him to judge, the judgment is rash, just as if a judge delegated by the Pope wished to go beyond the limits of his mandate. But God has reserved to himself the judging of hidden things, which are mainly the thoughts of the heart and the future. Therefore, if anyone presumed to judge about these matters, the judgment would be rash. Hence Augustine says in *The Lord’s Sermon on the Mount*: *a judgment is rash in these two cases, since there is uncertainty about the intention with which something was done, or uncertainty about the future of one who now seems to be good or evil*.  
 
-But the arguments favoring the faith preached are the good life of the preachers; in regard to this he says: ***and by deed***, as though I brought you to the faith through right deeds: *that they may see your good works* (Matt 5:16); and miraculous works, by which God bears witness to the doctrine preached, as it says in Mark: *the Lord worked with them and confirmed the message by the signs that attended it* (Mark 16:20). Hence he adds: ***by the power of signs***, i.e., of minor miracles, such as healing the sick, ***and wonders***, i.e., major miracles, which portend or manifest something great from their grandeur.  
+**1094**. Then when he says: ***to his own lord he stands or falls***, he presents the second reason, which is taken from the end of merit or demerit.  
 
-But all this would be insufficient, unless the Holy Spirit stirred the hearts of their hearers to believe. Hence, it says in Acts that while Peter was speaking the words of faith, the Holy Spirit fell on all who heard the word (Acts 10:44). Therefore, he adds: ***by the power of the Holy Spirit***: *while God also bore witness by signs and wonders and by gifts of the Holy Spirit distributed according to his own will* (Heb 2:4).  
-
-**1172**. Then when he says, ***so that from Jerusalem***, he shows the magnitude of the fruit by the multitude of places in which he preached, saying: ***so that*** beginning ***from Jerusalem***, where at the commencement of his conversion he preached in the Jewish synagogues, as it says in Acts 9:28. Thus, he fulfilled the word in Isaiah: *out of Zion shall go forth the law, and the word of the law from Jerusalem* (Isa 2:30), ***as far as unto Illyricum***, which is on the Adriatic Sea across from Italy, ***I have replenished the Gospel of Christ***, i.e., I filled all those places with the preaching of the Gospel.  
-
-But lest anyone suppose that he followed a straight path from Jerusalem to Illyricum to preach the Gospel, he adds: from Jerusalem ***through the circumference*** of Illyricum, namely, because he preached to the gentiles in every direction around him and converted them to the faith: *who has cleft a channel for the torrents of rain?* (Job 38:25).  
-
-**1173**. Then when he says, ***and I have so preached***, he shows how difficult it is to produce this fruit, for it is difficult to convert those entirely ignorant to the faith.  
-
-First, therefore, he mentions the difficulty, saying: ***and I have so preached this Gospel, not***, indeed, ***where Christ was named***, i.e., not among those who had heard the name of Christ: *people whom I had not known served me* (Ps 18:43); *behold, you shall call nations that you know not, and nations that knew you not shall run to you* (Isa 55:5).  
-
-**1174**. Then he gives the reason, saying: ***lest I build on another man a foundation***.  
-
-***Another man a foundation*** can be interpreted in two ways: in one way heretical doctrine, which is alien to the foundation of the true faith: in this sense the word, ***lest***, is taken causally. For the Apostle willed to preach to those who had not heard the name of Christ with the intention, because if his hearers had heard the teachings of false apostles, it would have been more difficult to lead them back to the truth. Hence, it says in Matthew: *the man is foolish who builds his house on sand* (Matt 7:26), to which false doctrine is compared.  
-
-In another way, ***another man a foundation*** can mean the doctrine of the true faith preached by others. Then the word, ***lest***, is taken in a consecutive sense. For the Apostle did not avoid preaching to those to whom others had preached; thus he preached to the Romans, whom Peter had previously instructed. But when he preached to those who had heard nothing about Christ, the result was that he was not building on another’s foundation, but he himself laid the first foundation of the faith: *as a wise architect, I laid a foundation* (1 Cor 3:10).  
-
-**1175**. Second, he cites an authority for what he had said, saying: ***but as it is written: ‘they to whom he was not spoken of shall see: and they who have not heard shall understand’*** (Isa 52:15). In these words the prophet seems to predict that the gentiles will arrive at a more excellent way of knowing God than the Jews, who knew him before.  
-
-**1176**. First, therefore, he shows its excellence with respect to the knowledge’s cause which is twofold, namely, the words heard and the things seen. For these two senses are capable of discipline.  
-
-The Jews, therefore, arrived at a knowledge of Christ’s mysteries by words announced to them by the prophets: *the prophets who prophesied of the grace that was to be yours searched and inquired about this salvation; they inquired what person or time was indicated by the spirit of Christ within them when predicting the sufferings of Christ and the subsequent glory* (1 Pet 1:10).  
-
-But the gentiles see such mysteries of Christ really fulfilled; hence, he adds: because the gentiles ***to whom he was not spoken of*** by the prophets, i.e., concerning Christ, as it had been announced to the Jews, ***will see*** the things now fulfilled: *many prophets and kings desired to see what you see and did not see it* (Luke 10:24).  
-
-**1177**. Second, he shows its excellence in regard to the manner of knowing, because the Jews had only heard the announcements of the prophets: *we have heard tidings from God and a message has been sent among the nations* (Obad 1:1). But the gentiles obtained understanding from seeing. Hence, it is stated: ***and they***, namely, the gentiles, ***who*** previously ***have not heard*** about the Christ foretold by the prophets, ***shall understand***, namely, the truth of the faith: *and now, O kings, understand* (Ps 2:10).  
-
-Lecture 3  
-
-***Why Paul postponed his visit to the Romans***
-
-***^15:22^ For which cause also I was hindered very much from coming to you and have been prevented until now. [n. 1178]***
-
-> ^15:23^ But now, having no more place in these countries and having a great desire these many years past to come unto you, [n. 1180]
-
-> ^15:24^ When I shall begin to take my journey into Spain, I hope that, as I pass, I shall see you and be brought on my way thither by you: if first, in part, I shall have enjoyed you.
-
-> ^15:25^ But now I shall go to Jerusalem, to minister to the saints. [n. 1183]
-
-> ^15:26^ For it has pleased them of Macedonia and Achaia to make a contribution for the poor of the saints that are in Jerusalem. [n. 1184]
-
-> ^15:27^ For it has pleased them: and they are their debtors. For, if the gentiles have been made partakers of their spiritual things, they ought also in carnal things to minister to them. [n. 1185]
-
-> ^15:28^ When therefore I shall have accomplished this and consigned to them this fruit, I shall come by you into Spain. [n. 1186]
-
-> ^15:29^ But I know that when I come to you I shall come in the abundance of the blessing of the Gospel of Christ. [n. 1187]
-
-> ^15:30^ I beseech you therefore, brethren, through our Lord Jesus Christ and through the charity of the Holy Spirit, that you help me in your prayers for me to God, [n. 1188]
-
-> ^15:31^ That I may be delivered from the unbelievers that are in Judea and that the oblation of my service may be acceptable in Jerusalem to the saints. [n. 1191]
-
-> ^15:32^ That I may come to you with joy, by the will of God, and may be refreshed with you.
-
-> ^15:33^ Now the God of peace be with you all. Amen. [n. 1192]
-
-> **1178**. After excusing himself for the presumption which could have been ascribed to him for instructing and correcting the Romans, the Apostle now explains why he has postponed visiting them.
+For one could say that although a man has no authority to judge, he should involve himself in the judgment of another on account of the harm or benefit that comes from it. But the Apostle says here that this pertains to God rather than to man. And so even for this reason we should leave to God judgments about our neighbor, unless we are acting in his stead in judging by authority committed to us.  
 
 In regard to this he does three things:  
 
-first, he mentions a past hindrance;  
+first, he states his proposition;  
 
-second, his intention to visit, at ***but now***;  
+second, he gives an example, at ***for one judges between day and day***;  
 
-third, he promises some fruit from his visit, ***but I know***.  
+third, he proves the proposition, at ***he that regards the day***.  
 
-**1179**. First, therefore, he says: it has been stated that I have preached the Gospel in many places in which the name of Christ had not been known. ***For which cause also*** up to now ***I was hindered very much*** by such an occupation ***from coming to you***.  
+**1095**. In regard to the first he does two things: first, he proposes that whatever happens to man pertains to God when he says: ***to his own lord he stands***, i.e., by doing right: *our feet have been standing within your gates, O Jerusalem* (Ps 122:2), *or falls*, i.e., by sinning: *fallen, no more to rise is the virgin Israel* (Amos 5:1).  
 
-This hindrance has continued until now; hence he adds: ***and have been prevented until now***. This can refer to the vast number of occupations he had had in other places or even to divine providence, through which the Apostle was prevented from visiting them and also directed toward the salvation of others: *they went through the region of Phrygia and Galatia, having been forbidden by the Holy Spirit to speak the word in Asia* (Acts 16:6). Hence above he had said: ***I have often purposed to come unto you and have been hindered hitherto*** (Rom 1:13). And this is what is said in Job about the clouds, by which preachers are signified: *they turn round and round by his guidance, to accomplish all that he commands them* (Job 37:12).  
+He presents it as a disjunctive, ***stands or falls***, on account of the uncertainty, for many seem to fall who stand, and vice versa, as it says in Ecclesiastes: *then I saw the wicked buried; they used to go in and out of the holy place and were praised in the city, where they had done such things* (Eccl 8:10). But the Apostle is speaking here in terms of a likeness to a human servant, to whose master pertains everything done in regard to him.  
 
-**1180**. Then when he says, ***but now***, he clarifies his intention to visit them:  
+Nor should we suppose that God is harmed or benefited, if a man stands or falls. For it says in Job: *if you have sinned, what do you accomplish against him? If you are righteous, what do you give him?* (Job 35:6). But in relation to men acts of justice look to God’s glory: *that they may see your good works and give glory to your Father in heaven* (Matt 5:16). The fact that we fall by sinning is for men the occasion for blaspheming God: ***the name of God is blasphemed among the gentiles*** (Rom 2:24).  
 
-first, he promises to visit them;  
+Or the words ***to his own lord he stands or falls*** should be explained as regarding the judgment of his master: *the one who judges me is the Lord* (1 Cor 4:4).  
 
-second, he tells why he must delay, at ***but now I shall go***;  
+**1096**. Second, he shows that it pertains to God to judge a man, saying, ***and he will be upheld***. As if to say: even though someone now falls by sinning, it is possible that he will stand again. And this will certainly happen, if he has been predestined: *will he not rise again from where he lies?* (Ps 41:8); *rejoice not over me, O my enemy, when I fall, I shall rise* (Mic 7:8).  
 
-third, he mentions the goal of his visit, ***when therefore I shall have accomplished this***.  
+For this reason if we see someone obviously sinning, we should not despise him and rashly judge that he will never rise again; rather, we should presume that he will stand again, not considering the human condition but God’s power. Hence, when he says: ***for God is able to make him stand***, we should presume that he will make him stand again on account of his goodness: *the Spirit entered into me and set me upon my feet* (Ezek 3:24), just as Paul said earlier: ***and even the others, if they do not persist in their unbelief, will be grafted in, for God has the power to graft them in again*** (Rom 11:23).  
 
-**1181**. First, therefore, he says: until now I have been prevented, *but now*, having already traveled over all these places, *having no more place*, i.e., any need to remain ***in these countries***, in which the faith was established by me, ***and having a great desire these many years past to come unto you***, as he said above: ***I long to see you that I may impart unto you some spiritual grace*** (Rom 1:11); ***when I shall begin to take my journey to Spain*—**whither he planned to go in order to lay the foundations of the faith even in such a faraway place: *I will give you as a light to the nations that my salvation may reach to the end of the earth* (Isa 49:6)—***I hope that, as I pass, I shall see you***. Thus, he gives them to understand that he was not planning to go to them principally, because he considered that they had been sufficiently instructed by the teaching of Peter, who was the first apostle to preach to the Romans.  
+**1097**. Then when he says, ***for one judges***, he exemplifies what he had said. First, he proposes that human opinions vary, saying: I say that ***to his own lord he stands or falls . . . for one judges between day and day***, i.e., he judges between one day and another, so that he abstains on one day and not on another. This seems to refer to those weak in faith, who suppose that the practices of the law must still be observed. For it says in Leviticus: *on the tenth day of this seventh month is the day of atonement; and you shall afflict yourselves on this day* (Lev 23:27). And in Judith it is stated that Judith fasted all the days of her life, except on Sabbaths, new moons, and feasts of the house of Israel (Jdt 8:6).  
 
-And because the Romans then held dominion over the entire west, he hoped with their help and guidance to set out for Spain; hence, he adds: ***and be brought on my way thither by you***. Yet he intended to spend some time with them, because he adds: ***if I shall have enjoyed you***, i.e., been consoled, as he said: ***that I may be comforted together in you*** (Rom 1:12). And this ***in part***, i.e., a part of time, because he planned to be consoled with them for a time.  
+***And another judges every day*** alike as far as observing the practices of the law, because these had now ceased. Hence this seems to refer to the perfect in faith: *bless his name from day to day* (Ps 96:2).  
 
-**1182**. But against this is what Augustine says in his book *On Christian Doctrine*, that only those things should be enjoyed that make us blessed, namely the Father, the Son, and the Holy Spirit. Therefore it is unfitting for the Apostle to say that he will enjoy the Romans.  
+This can also refer to cases of abstaining performed to control sensual desires. Some abstain in this manner every day; for example, those who always abstain from meat or wine or fast, although some abstain on certain days and not on others: *for everything there is a season* (Eccl 3:1).  
 
-The answer is that, as Augustine says in the same place, a man should not be enjoyed in himself but in God, in line with the letter to Philemon: *yes, brother, I will enjoy you in the Lord*, which means to delight in a man on account of God. And this is how we should understand what is said here, ***if I shall have enjoyed you***, namely in God.  
+**1098**. Second, he shows that all these things can pertain to the glory of God, saying: ***let every man abound in his own sense***, i.e., be left to his own judgment: *God made man from the beginning and left him in the hand of his own counsel* (Sir 15:14). Or ***in his own sense***, i.e., according to his own mind let him be zealous to abound to the glory of God, according to 1 Corinthians: *seek to abound unto the edifying of the Church* (1 Cor 14:12).  
 
-Or ***in part*** can refer to the good, whom he could enjoy in God. For the other part, namely, the wicked, he could not enjoy but could grieve over, as it says in 2 Corinthians: *lest when I come God may humble me before you and I may have to mourn over many of those who sinned before* (2 Cor 12:21).  
+But this seems to apply to things that are not of themselves evil. In things that are of themselves evil, however, man must not be left to follow his own mind. But that a person discriminates between days seems to be evil of itself according to the first explanation. For it says in Galatians: *you observe days and months and seasons and years! I fear that I have labored over you in vain* (Gal 4:10). And he is speaking there about those who claimed that days must be observed according to the ceremonies of the law.  
 
-**1183**. Then when he says, ***but now I shall go***, he tells why he must postpone his visit.  
+The answer is that the Apostle is speaking here in regard to that time in which it was lawful for Jews converted to the faith to observe the practices of the law. But in regard to the second explanation it seems to be illicit for him to say: ***and another judges every day***. For there are some days on which it is unlawful to fast. For Augustine says in his *Letter to Casulanus*: *whoever thinks that a fast should be decreed on the Lord’s day would not be a small scandal to the Church, and rightfully so. For on those days about which the Church or Sacred Scripture has decreed nothing definite, the customs of the people of God and the decrees of the major authorities must be considered the law*. And in the *Decretals* it is written (Decretal 30): *if on account of a public penance received from a priest a presbyter were to fast without any other need on the Lord’s day, let him be anathema*.  
 
-In regard to this he does three things: first, he gives the reason, saying: ***but now I shall go***, i.e., I am not coming to you at once, because ***now I shall go to Jerusalem to minister to the saints***.  
+But one should understand that the Apostle is speaking here about those abstinences that can be licitly undertaken on any day without clashing with the common custom, or with the customs established by those in authority.  
 
-In this regard what is written in Acts 4:34 et seq. should be noted, namely, that the Jews converted to the faith at the very beginning sold their possessions and lived in common from the revenue which, when it was exhausted and a great famine was imminent (Acts 11:27), the disciples, i.e., Christians, from different parts of the world, according to the amount each had, proposed to send help to the brethren residing in Judea. This they did, sending it to the elders by the hands of Barnabas and Paul.  
+**1099**. Then when he says, ***he who regards the day***, he proves his proposition, namely, that each one stands or falls before his own master. And he does this in three ways.  
 
-Therefore, the alms which the faithful brought to Jerusalem he calls ministering to the saints: *when I arrive, I will send those whom you accredit by letter to carry your gift to Jerusalem. If it seems advisable that I should go also, they will accompany me* (1 Cor 16:3).  
+First, he proves it by appealing to the act of believers;  
 
-**1184**. Second, he explains what he had said about the ministry to the saints, saying: ***for it has pleased them of Macedonia and Achaia***, i.e., the faithful from both regions converted by him, ***to make a contribution***, i.e., to collect something, ***for the poor*** of Christ, i.e., for the use of the poor who are *among the saints: give to the godly man, but do not help the sinner* (Sir 12:4), ***who are in Jerusalem*** living in poverty: *it is superfluous for me to write to you about the suffering of the saints. For I know about your readiness, of which I boast about you to the people of Macedonia* (2 Cor 9:1).  
+second, by their intention, at ***for none of us lives***;  
 
-**1185**. Third, he assigns the reasons, the first of which is good pleasure; hence he says: ***for it has pleased them***: *each must do as he has made up his mind, not reluctantly or under compulsion* (2 Cor 9:7).  
+third, by their condition, at ***for whether we live, or whether we die***.  
 
-The second cause is debt; hence he adds: ***render therefore to all men their dues*** (Rom 13:7). He assigns the reason for the debt, saying: ***for if the gentiles have been made partakers of their spiritual things***, i.e., of the Jews, namely, the blessings of divine knowledge and of the promises and of grace, as he says above: ***to whom belongs the adoption of sons and the glory*** (Rom 9:4) and: ***made partaker of the root and of the fatness of the olive tree*** (Rom 11:17). They were also made partakers of their spiritual blessings, because the Jews had sent them preachers. ***They ought also in carnal things to minister to them***: *in dividing by lot, give and take* (Sir 14:15); *take a psalm*, i.e., spiritual things, *and give the timbrel*, i.e., temporal things (Ps 81:2).  
+**1100**. First, therefore, he proves how each of the faithful stands or falls before his master, because in everything he does according to his conscience, he gives thanks to God. Hence he says: ***he who regards the day*** by abstaining one day and refraining from it on another day, ***regards it unto the Lord***, i.e., he discriminates between foods out of reverence for God, just as we ourselves distinguish between the vigils of feasts when we fast, and the feast days when we break the fast out of reverence for God: *why is any day better than another and light better than light* (Sir 33:7).  
 
-From this is taken the argument that expenses are owed not only to those who preach but also to those who send preachers.  
+Then he speaks with respect to those who esteem all days alike. Some of these ceased from fasting every day, as Matthew says that Christ’s disciples did not fast (Matt 9:14). Hence he says: ***and he who eats***, namely, every day, ***eats in honor of the Lord***, i.e., to the glory of God; which is proved by the fact that ***he gives thanks to God***, namely, for the food he eats: *some enjoin abstinence from foods which God created to be received with thanksgiving* (1 Tim 4:3); *the poor shall eat and be filled* (Ps 22:26).  
 
-**1186**. Then when he says, ***when, therefore***, he mentions the place from which he will come to them, saying: ***when, therefore, I shall have accomplished this***, namely, ministering to the saints, ***and consigned to them this fruit***, i.e., the alms of the gentiles, which is a fruit of their conversion: *Israel is an abundant vine that yields its fruit* (Hos 10:1); ***I shall come by you into Spain***.  
+Finally in regard to those who look on days in such a way that they abstain every day, he says: ***and he who eats not***, i.e., abstains every day, ***to the Lord***, i.e., unto the honor of the Lord, ***he eats not***. This is clear, because ***he gives thanks to God***, who gave him the will and virtue to abstain: *give thanks in all circumstances* (1 Thess 5:18).  
 
-But the Apostle seems to be saying something false here; for there is no record of his ever being in Spain. For he had been arrested in Jerusalem and taken to Rome in chains, as it says in Acts 28, where he was killed along with Peter.  
+But what the Apostle says here about those who abstain every day or cease abstaining should be understood with respect to that time when this was not contrary to the decrees of major authorities or to the common customs of the people of God.  
 
-Some, therefore, say that as it says in Acts: *and when we come to Rome, Paul was allowed to stay by himself with the soldier that guarded him* (Acts 28:16), and later it says that he remained for two whole years in his dwelling; during that time, they say, he went to Spain.  
+**1101**. Then when he says, ***for none of us lives to himself***, he proves the same thing from the intention of believers.  
 
-But because this is not certain, it can be said better that the Apostle did not say something false, because he intended to do what he said. Consequently, his words must be understood as suggesting his intention and not a future event about which he was not certain. Hence he was not able to predict this except under the condition which James mentions: *instead you ought to say, ‘if the Lord wills’ and ‘if we shall live, we shall do this or that,’* (Jas 4:15). And so the Apostle excuses himself in 2 Corinthians for not visiting them, as he had promised: *was I vacillating when I wanted to do this? Do I make my plans like a worldly man, ready to say ‘yes’ and ‘no’ at once?* (2 Cor 1:17). And so, since he failed to do from a just cause what he had promised, he declares himself immune from levity, carnality, and falseness.  
+First, he rejects an inordinate intention, saying: I am correct in saying that everyone stands or falls before his master, for ***none of us lives to himself*** , in his natural or in his supernatural life, about which it says in Hebrews: *my just man lives by faith* (Heb 2:4). ***To himself***, i.e., for himself, because that would be to enjoy himself: *not seeking what is useful for me* (1 Cor 10:33); *not to us, O Lord, not to us give the glory* (Ps 114:9); or ***to himself***, i.e., according to his own rule, as those who say: *let our might be our law of right* (Wis 2:11); or ***to himself***, i.e., according to his own judgment: *I do not even judge myself* (1 Cor 4:3).  
 
-And this is how Pope Gelasius resolves the question, as can be found in the *Decretals*: *blessed Paul therefore should not be thought to deceive—God forbid!—or to show himself an adversary because, although he had promised to go to Spain, he did not fulfill that promise, being occupied by divine providence with more important matters. As far as his own will was concerned, he said in truth that he wanted to do it. But as regards the secrets of God’s plan—which as a man he could not know, even though he was filled with the Spirit of God—he did not in fact do it, being prevented by the heavenly plan*. For even though he had the prophetic spirit, not all things are revealed to the prophets, as is clear in 2 Kings, where Elijah says, *her soul is in bitterness, and the Lord has concealed it from me, and has not told it to me* (2 Kgs 4:27).  
+***And none dies to himself***, namely, a bodily death or a spiritual death by sinning, or even a spiritual death wherein one dies to his vices, as in baptism, as it says above: ***he who has died is freed from sin*** (Rom 6:7). For ***to himself***, i.e., to his own judgment or on account of himself or to his own example; but to the example of Christ, someone dies to vices: ***the death he died to sin, he died once*** (Rom 6:10); and later: ***so you also must consider yourselves dead to sin*** (Rom 6:11).  
 
-**1187**. Then when he says, ***but I know***, he foretells the fruit of his visit, saying: ***but I know***, namely, from my confidence in God’s grace, ***that when I come to you, I shall come in the abundance of the blessing of Christ***, i.e., Christ will give his blessing more abundantly to you in my coming, about which it says in a psalm: *they shall go from strength to strength* (Ps 84:7), and which Laban said to Jacob: *I have learned that God blessed me because of you* (Gen 32:7).  
+**1102**. Second, he describes the right intention of believers, saying: ***if we live*** with our bodily life***, we live unto the Lord***, i.e., to the glory of the Lord; ***and if we die*** a bodily death, ***we die unto the Lord***, i.e., to the honor of the Lord: *Christ will be magnified in my body whether through death or through life* (Phil 1:20).  
 
-**1188**. Then when he says, ***I beseech you, therefore***, he asks them for the favor of their prayers:  
+Or it is understood such that he says ***we live*** and ***we die*** about a spiritual life and death; it ought to be explained that he says ***unto the Lord***, i.e., in the judgment of the Lord *who was appointed by God to be the judge of the living and the dead* (Acts 10:42).  
 
-first, he seeks their prayers;  
+**1103**. Then when he says, ***therefore, whether we live***, he clarifies his proposition by considering the condition of believers.  
 
-second, he prays for them, at ***now the God of peace***.  
+First, he concludes from the foregoing the condition of the faithful, namely, that they are not their own but someone else’s. For those who are their own are free men; they live to themselves and die to themselves.  
 
-**1189**. In regard to the first he does three things: first, he urges them to pray for him for three reasons.  
+Therefore, because it has been stated that the faithful do not live or die to themselves but to the Lord, he concludes: ***therefore, whether we live or whether we die, we are the Lord’s***, servants, as it were, of him who has power over life and death: *you were bought with a price; do not become slaves of men* (1 Cor 7:23); *you were bought with a great price* (1 Cor 6:20); *we are yours, O David, and with you, O son of Jesse!* (1 Chr 12:18).  
 
-First, from divine charity when he says: ***I beseech you, therefore, brethren***: *for love’s sake I prefer to appeal to you* (Phlm 1:9).  
+**1104**. Second, he assigns the cause of this condition, saying: ***for to this end Christ died and rose again***, i.e., by his death and resurrection he obtained the right ***to be Lord of the living***, because he rose to begin a new and perpetual life, ***and of the dead***, because by dying he destroyed our death: *he died for all that those who live might live no longer for themselves, but for him who for their sake died and arose* (2 Cor 5:15).  
 
-Second, from their reverence for Christ, of whom he was a minister, saying: ***through our Lord Jesus Christ***, in whom we are all one as stated above (Rom 12:5).  
+Thus, therefore, by all the foregoing the Apostle has proved that each one stands or falls before his master, namely, by the fact that believers give thanks to God and that they live and die to the Lord and that in life and in death we are the Lord’s.  
 
-Third, from the gift of the Holy Spirit, which was handed over to his ministry; hence he adds: through the charity of the Holy Spirit, which the Holy Spirit pours forth in our hearts, as was stated above (Rom 5:5).  
+**1105**. Then when he says, ***but you, why do you judge***, he presents the third reason, which is based on the future judgment.  
 
-**1190**. Second, he asks the help of their prayers, saying: ***that you help me in your prayers for me to God***, namely, poured out for me: *a brother helped by a brother is like a strong city* (Prov 18:19).  
+In regard to this he does three things: first, he suggests that a judgment at present is unnecessary, saying: ***but you, why do you judge***, i.e., of what use or need is your judgment, ***your brother***, rashly judging hidden matters not committed to your judgment? ***Or you***, who are judged, ***why do you despise your brother***, regarding as nothing the fact that you are judged by him? *Why does each one despise his brother?* (Mic 2:10).  
 
-But as the Gloss says, *the Apostle does not say this because he has less merit than others inferior to him, but he follows due order*. First, that prayer be said by the Church for its ruler, as he says in 1 Timothy: *first of all, I urge that supplications, prayers, intercessions, and thanksgivings be made for all men, for kings and all who are in high position* (1 Tim 2:1). Second, because many of the least, when they are assembled together, obtain more merit. Therefore, it is impossible that the prayers of many be ineffective: *if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven* (Matt 18:19). Third, that when many pray, many thanksgivings are heard, as it says in 2 Corinthians: *you also must help us by prayer, so that many will give thanks on our behalf for the blessing granted* (2 Cor 1:11).  
+**1106**. Second, he foretells the future judgment of Christ: As if to say: I am correct in stating why you pass judgment, because you should not fear that anyone will remain unjudged. ***For we shall all stand before the tribunal of Christ***. The tribunal of Christ is so called on account of his judiciary power, as it says in Matthew: *when the Son of man comes in his glory and all the angels with him, then he will sit on the glorious throne* (Matt 25:20).  
 
-**1191**. Third, he mentions things he wishes to be obtained by him, the first of which pertains to the enemies he had in Judea; hence he says: ***that I may be delivered from the unbelievers that are in Judea***, who particularly attacked and hated Paul, because he confidently preached the end of the legal observances: *they have been told about you that you teach that Moses should be forsaken* (Acts 21:21). The second pertains to those into whose ministry he went. And this is what he adds: ***and that my service***, i.e., the alms I minister to them, ***may be acceptable to the saints who are in Jerusalem***, i.e., that from this they may be induced to give thanks to God and to pray for the gentiles from whom they receive. The third pertains to those to whom he was writing: hence he adds: ***so that I may come to you with joy, and this by God’s will***, against which he wanted to do nothing: ***making request, if by any means now at length I may have a prosperous journey, by the will of God, to come unto you*** (Rom 1:10), ***and may be refreshed with you***, i.e., that from your presence I may receive refreshment from my tribulations.  
+He says that ***we shall all stand***, as if to be judged, both good and evil in regard to reward or punishment: *we must all appear before the judgment seat of Christ, so that each one may receive good or evil according to what he has done in the body* (2 Cor 5:10).  
 
-**1192**. Then when he says, ***now the God of peace***, he shows that he is praying for them, saying: ***now the God***, i.e., the giver ***of peace, be with you all***, by the fact that you are at peace with one another: *agree with one another and the God of peace will be with you* (2 Cor 13:11). He adds, ***amen***, i.e., let it be so: *let the people say: amen* (Ps 106:48).
+But as to the proceedings, not all will stand to be judged, but some will sit as judges: *you will also sit on twelve thrones, judging the twelve tribes of Israel* (Matt 19:28).  
+
+**1107**. Third, when he says, ***for it is written***, he proves what he had said:  
+
+first, he appeals to an authority;  
+
+second, he draws the conclusion, at ***therefore every one of us***.  
+
+**1108**. First, therefore, he says: I have stated that all of us will stand before the tribunal of Christ. This is clear from the testimony of Sacred Scripture: ***for it is written***: ***as I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God*** (Isa 45:23).  
+
+Our text has this: *I have sworn by myself that to me every knee shall bow and every tongue shall swear*.  
+
+**1109**. Three things are stated in these words: first, the oath sometimes used by God to show that what is said is as solid as the unchangeableness of God’s plan and not changeable as things foretold according to lower causes, as prophecies that threaten. Hence it says in a psalm: *the Lord has sworn and will not change his mind* (Ps 110:4). But men, as the Apostle says in Hebrews, *swear by someone greater than themselves* (Heb 6:16). But because God has none greater than himself on which the strength of his truth depends, he swears by himself.  
+
+Furthermore, God is life itself and the source of life, as it says in Deuteronomy: *he is your life and the length of your days* (Deut 30:20); *with you is the fountain of life* (Ps 36:9). Therefore, the formula of the Lord’s oath is, ***as I live***. As if to say: I swear by the life I uniquely live.  
+
+**1110**. Second, the coming subjection of the creature to God is foretold, when it is said: ***every knee shall bow to me***, i.e., to Christ. In this is designated the complete subjection of the rational creature to Christ. For men are wont to signify subjection by bending the knee. Hence it says in Philippians: *at the name of Jesus every knee shall bend in heaven and on the earth and under the earth* (Phil 2:11).  
+
+**1111**. Third, he foretells the confession of faith by which all will confess the glory of Christ. Hence he continues: ***and every tongue shall confess to God***, i.e., will confess that Christ is God, as it says in Philippians: *every tongue shall confess that Jesus Christ is Lord, to the glory of God the Father* (Phil 2:11).  
+
+***Every tongue*** can be understood as the expression of the knowledge of men or of angels, as it says in 1 Corinthians: *if I speak in the tongues of men and of angels* (1 Cor 13:1).  
+
+This is fulfilled now in this life, not as to each man but as to the classes of each man. From each class of men some are not subjected to Christ and confess him by faith, but in the future judgment all and each will be subjected to him: the good voluntarily and the evil unwillingly. Hence, it says in Hebrews: *now in subjecting everything to him, he left nothing outside his control* (Heb 2:8).  
+
+**1112**. Then when he says, ***therefore every one of us***, he draws the conclusion from the foregoing.  
+
+First, the conclusion intended from what he had just said, saying: ***therefore***, from the fact that every knee will bend before Christ, ***every one of us shall render an account to God for himself***, i.e., before the tribunal of Christ: *on the day of judgment every man shall render an account for every careless word he uttered* (Matt 12:36); *the kingdom of heaven may be compared to a king who wished to settle accounts with his servants* (Matt 18:23).  
+
+**1113**. But it seems that not everyone will give an account of himself, but one for someone else: *obey your leaders and submit to them. For they are keeping watch over your souls, as men who will have to give an account* (Heb 13:17).  
+
+The answer is that in the very fact that prelates will render an account for others, they will render an account for their own actions, which they should have performed for their subjects. For if they have done what their duties demanded, they will not be held accountable, if their subjects perished. But they would be held accountable, if they neglected to do what their office required. Hence it says in Ezekiel: *if I say to the wicked, ‘you shall surely die,’ and you give him no warning, nor speak to warn the wicked from his wicked way, in order to save his life, that wicked man shall die in his iniquity, but his blood I shall require at your hand. But if you warn the wicked and he does not turn from his wickedness, he shall die in his iniquity, but you will have saved your life* (Ezek 3:18ff.).  
+
+**1114**. Second, he draws the conclusion chiefly intended from the entire preceding part, saying: ***let us not therefore judge one another any more***, i.e., with a rash judgment, which is included in the reason given above: *do not pronounce judgment before the time* (1 Cor 4:5).  
+
+Lecture 2  
+
+***Mercy towards the weak***
+
+***^14:13^ But judge this rather, that you put not a stumbling block or a scandal in your brother’s way. [n. 1115]***
+
+> ^14:14^ I know, and am confident in the Lord Jesus, that nothing is common of itself: but to him who esteems any thing to be common, to him it is common. [n. 1117]
+
+> ^14:15^ For if, because of food, your brother be grieved, you no longer walk according to charity. Destroy not him with your food, for whom Christ died. [n. 1122]
+
+> ^14:16^ Let not then our good be evil spoken of. [n. 1126]
+
+> ^14:17^ For the kingdom of God is not food and drink: but justice and peace and joy in the Holy Spirit. [n. 1127]
+
+> ^14:18^ For he who in this serves Christ pleases God and is approved of men. [n. 1129]
+
+> ^14:19^ Therefore, let us follow after the things that are of peace and keep the things that are of edification, one towards another. [n. 1130]
+
+> ^14:20^ Destroy not the work of God for food. [n. 1131]
+
+> **1115**. After forbidding human judgments, the Apostle now forbids putting stumbling blocks before one’s neighbor.
+
+First, he presents his proposition;  
+
+second, he clarifies it, at ***for if, because of food***.  
+
+In regard to the first he does three things.  
+
+**1116**. First, he teaches that stumbling blocks must be avoided, saying: I have said that you should not judge one another, but everyone ought to judge his own actions, lest they be a scandal unto others. And this is what he says: ***but judge this rather, that you put not a stumbling block or a scandal in your brother’s way***. A scandal, as Jerome says in his commentary on Matthew, means a hindrance or injury which we can call a ‘striking of the foot.’ Hence a scandal is an illegal word or deed presenting the occasion of ruin to someone after the manner of a stone against which one strikes his foot and falls.  
+
+A scandal is more serious than a hindrance, for the latter can be anything which merely retards forward movement; but a scandal, i.e., a striking, seems to exist when someone is disposed for a fall. Therefore, we should not place a hindrance before our brother by doing anything that will draw him from the path of justice: *take the hindrance out of my people’s path* (Isa 57:14). Nor should we place a scandal before a brother by doing something that might incline him to sin: *woe to the man by whom scandal comes* (Matt 18:7).  
+
+**1117**. Second, he teaches that what was considered a stumbling block was of its very nature and in itself lawful.  
+
+In regard to this it should be noted that, as was stated above, there were among the Romans some Jews converted to Christ, who distinguished among foods according to the law; but others, having a perfect faith, used all foods without distinction, which of itself was lawful. Hence he says: ***I know and am confident in the Lord Jesus, that nothing is common of itself***.  
+
+On this point it should be known, as Jerome says in his *Commentary on Matthew*, that the Jewish people, boasting that they are God’s portion, call unclean the food which all men use, e.g., the flesh of swine, hares, and food of that sort. Furthermore, the nations which used such foods were not God’s portion; consequently, such food was unclean.  
+
+The words ***nothing is common*** amount to the same thing as saying *nothing is unclean*.  
+
+The Apostle says that nothing is unclean, because he knows that it is so according to the nature of things, as he says in 1 Timothy: *everything created by God is good and nothing is to be rejected, if it is received with thanksgiving* (1 Tim 4:4). Second, he says that he is persuaded in Christ Jesus that in itself nothing is unclean, namely, because foods of their very nature never were unclean, but they were avoided for a time as unclean in keeping with a commandment of the law as a figure. But Christ removed this by fulfilling all figures. Therefore, the Apostle, relying on his confidence in the Lord Jesus, asserts that ***nothing is common*** or unclean of itself: *what God has cleansed, you must not call common* (Acts 10:15).  
+
+**1118**. Third, he shows how this could be unlawful accidentally, inasmuch as it is against the conscience of the eater. Hence he says: It has been stated that ***nothing is common***; but it must be understood that if one has an erroneous conscience and thinks that some food is unclean, then ***for him it is common*** and so it is unlawful for him, as if the food were really unclean: *to the pure all things are pure, but to the corrupt and unbelieving nothing is pure; their minds and consciences are corrupted* (Titus 1:15).  
+
+**1119**. So it is clear that something licit in itself becomes illicit for one who does it against his conscience, even though his conscience is erroneous. It is reasonable that this be so, for acts are judged according to the will of the performer. But the will is moved by the thing apprehended. Hence the will tends toward what the apprehensive power represents to it, and it is according to this that the action is qualified or specified. Therefore, if a person’s reason judges that something is sinful and the will is drawn to it as something to be done, it is clear that the person has a will to commit a sin. For this reason his external action, which is informed from the will, is a sin. For the same reason, if one thinks that something venially sinful is a mortal sin, if he does it while his conscience is in that state, it is clear that he has chosen to sin mortally; consequently, his action is a mortal sin on account of his choice.  
+
+But if someone afterwards has an erroneous conscience through which he believes that something lawful he did was a sin, or something venial was mortal, it is not on that account a sin or mortal, because the will and the action are not informed by a succeeding apprehension but by the one preceding the will and the action.  
+
+**1120**. There is no doubt about what we have said, but there can be doubt whether if someone has an erroneous conscience whereby he believes that something which is a mortal sin is necessary for salvation; for example, if he thinks that he is sinning mortally, unless he steals or fornicates, should such a conscience bind him, so that if he acted against it, he would sin mortally.  
+
+It would seem that he would not be bound. First, because God’s law, which forbids stealing and fornication, bind him more strongly than conscience.  
+
+Second, because this position would put him in a perplexed state, for he would sin by fornicating and by not fornicating.  
+
+The answer is that an erroneous conscience binds, even in matters evil in themselves. For conscience, as has been said, binds to such an extent that from the fact that one acts against his conscience, it follows that he has the will to sin. Therefore, if someone believes that not to fornicate is a sin and chooses not to fornicate, he chooses to sin mortally; and so he sins mortally. This also applies to what the Apostle says here. For it is clear that distinguishing among foods as though necessary for salvation was unlawful, because even before the spreading of the Gospel, it was not lawful for the converted Jews to observe the practices of the law by putting their hope in them, as though they were necessary for salvation, as Augustine said above. Yet the Apostle says here that if a person’s conscience compels him to distinguish between foods, i.e., to regard some food as unclean, and he does not distinguish among them, i.e., by abstaining from them, he sins as though he were eating unclean food. And so an erroneous conscience obliges, even in matters that are *per se* illicit.  
+
+The answer to the first objection about the law of God is that the binding force of even an erroneous conscience and that of the law of God are the same. For conscience does not dictate something to be done or avoided, unless it believes that it is against or in accordance with the law of God. For the law is applied to our actions only by means of our conscience.  
+
+The answer to the second objection is that nothing forbids a person to be perplexed in certain circumstances, although no one is perplexed absolutely. For example, a fornicating priest sins mortally whether he celebrates Mass or does not celebrate, when he is obliged by his office. Yet absolutely speaking, he is not perplexed, because he can confess and then celebrate. Similarly, someone can get rid of an erroneous conscience and abstain from sin.  
+
+**1121**. There is still another difficulty.  
+
+For one is not said to place a stumbling block by doing a good work, even though someone takes the good work as a stumbling block, as Matthew says that the Pharisees took the words of Jesus as a stumbling block (Matt 15:12). But not to discriminate among foods is a good work; therefore, it should not be avoided just because someone with an erroneous conscience makes a stumbling block of it. For according to this, Catholics would have to abstain from meat and marriage to prevent heretics from being offended according to their erroneous conscience.  
+
+The answer is that someone can place a stumbling block before another not only by doing something evil but also by doing something which has the appearance of evil: *abstain from all appearances of evil* (1 Thess 5:22). Now something is said to have the appearance of evil in two ways: first, according to the opinion of those cut off from the Church; second, according to the opinion of those still tolerated by the Church. But those weak in faith, considering that the practices of the law should be observed, were still tolerated by the Church before the spread of the Gospel. Therefore, foods forbidden by the law were not to be eaten, if they were a stumbling block. Heretics, however, are not tolerated by the Church; therefore, this reasoning does not apply to them.  
+
+**1122**. Then when he says, ***for if, because of food***, he clarifies what he had said:  
+
+first, that scandals must not be placed before a brother;  
+
+second, how something is common, at ***all things indeed are clean***.  
+
+**1123**. In regard to the first he presents four arguments, the first of which is taken on the part of charity, saying: ***for if your brother be grieved*** by the fact that he thinks you are sinning ***because of food*** which you eat, which he considers unclean, ***you no longer walk according to charity***, according to which a person loves his neighbor as himself. So you should avoid saddening him and not prefer food to your brother’s peace of mind: *love does not seek its own* (1 Cor 13:5).  
+
+**1124**. Then when he says, ***destroy not him with your food***, he presents the second argument taken on the part of Christ’s death.  
+
+For he seems to put little value on Christ’s death who voids its fruit for the sake of food. Hence he says: ***with your food***, of which you eat all without distinction, ***destroy not him***, i.e., be a stumbling block ***for whom***, i.e., for whose salvation, ***Christ died***: *Christ died for sins once for all, the just for the unjust* (1 Pet 3:18).  
+
+He says that the victim of the stumbling block suffers ruin, because it involves him in sin. For the victim is one who makes a stumbling block the occasion of ruin: *so by your knowledge this weak man is destroyed, the brother for whom Christ died* (1 Cor 8:11).  
+
+**1125**. Then when he says, ***let not then***, he presents the third reason, which is taken on the part of the gifts of spiritual grace.  
+
+First, he shows what impropriety follows against such gifts from the fact that we place a stumbling block;  
+
+second, he clarifies what he had said, at ***for the kingdom of God***;  
+
+third, he draws a conclusion, at ***therefore, let us follow after the things that are of peace***.  
+
+**1126**. In regard to the first it should be noted that because some ate all foods without distinction in the early Church and thus set an obstacle before the weak, this impropriety followed, namely, that the weak blasphemed the faith of Christ, asserting that it fostered greediness in regard to food, contrary to the commandment of the law. Therefore, the Apostle says: Although the Lord Jesus declared that nothing is unclean, ***we let not then our good***, i.e., the faith and grace of Christ, though which you have obtained freedom from the ceremonies of the law, ***be evil spoken of*** by the weak who declare that it caters to man’s gluttony: *they blaspheme that honorable name by which you are called* (Jas 2:7); concerning this good it says in a psalm: *for me it is good to be near God* (Ps 73:6).  
+
+**1127**. Then when he says, ***for the kingdom***, he explains what he had said, namely, in what our good consists.  
+
+First, he shows in what it does not consist, saying: ***for the kingdom of God is not food and drink***. Here the kingdom of God means that through which God reigns in us and through which we arrive at his kingdom. Matthew says of this: *your kingdom come* (Matt 6:10) and Micah: *the Lord will reign over them in Mount Zion* (Mic 4:7). We are joined to God and subjected to him through our intellect and affections, as it says in John: *God is spirit, and those who worship him must worship in spirit and truth* (John 4:24). This is why the kingdom of God is considered mainly in things interior to man and not exterior. Hence Luke says: *the kingdom of God is within you* (Luke 17:21).  
+
+But things which are exterior and pertain to the body pertain to the kingdom of God to the extent that through them the interior affections are ordered or disordered in regard to those things in which the kingdom of God mainly consists. Hence, since food and drink pertain to the body, they do not of themselves pertain to the kingdom of God, but only inasmuch as we use them or abstain from them. Hence it says in 1 Corinthians: *food will not commend us to God. We are no worse off if we do not eat, and no better off if we do* (1 Cor 8:8).  
+
+Yet the use of or abstinence from food and drink pertains to the kingdom of God, insofar as a man’s affections are ordered or disordered in regard to them. Hence Augustine says in *Questions on the Gospel*, and is provided here in the Gloss: *wisdom is justified in her children who understand that justice does not consist in eating or in abstaining, but in tolerating need with equanimity and in temperance not destroying itself by abundance and by unsuitable ways of eating. It makes no difference*, as is said in the Gloss *how, what, or how much one takes, provided he does it according to the habits of the men among whom he lives and for the needs of his person and health; but with how much power and severity of mind he suffers the lack of these, either when he should or of necessity must be deprived of them*.  
+
+**1128**. Second, he shows in what our good consists, namely, in the kingdom of God, saying: ***justice and peace and joy in the Holy Spirit***. Here ***justice*** refers to external works, whereby a man renders to each person what is his due and the intention of doing such works, as it says in Matthew: *seek first the kingdom of God and his justice* (Matt 6:33). ***Peace*** refers to the effect of justice. For peace is particularly disturbed, when one man does not give to another what he owes him. Hence it says in Isaiah: *peace is a work of justice* (Isa 32:17). ***Joy*** must be referred to the manner in which the works of justice are to be accomplished; for as the Philosopher says in book one of the *Ethics*, *a man is not just who does not take joy in acts of justice*. Hence a psalm says: *serve the Lord with gladness* (Ps 100:2).  
+
+The cause of this joy is expressed when he says: ***in the Holy Spirit***. For it is by the Holy Spirit that the love of God is poured into us, as was said above (Rom 5:5). ***For joy in the Holy Spirit*** is what charity produces; for example, when one rejoices in the good of God and neighbor. Hence it says in 1 Corinthians: *charity does not rejoice at wrong, but rejoices in the right* (1 Cor 13:6), and in Galatians: *the fruit of the Spirit is love, joy, peace* (Gal 5:22).  
+
+The three things mentioned here are possessed imperfectly in this life, but perfectly when the saints will possess the kingdom God prepared for them, as it says in Matthew (Matt 25:34). In that kingdom perfect justice will exist without any sin: *all your people are righteous* (Isa 60:21). There will be perfect peace without any disquiet or fear: *my people will abide in a peaceful habitation* (Isa 32:18). There will be joy there: *they shall obtain joy and gladness, and sorrow and sighing shall flee away* (Isa 35:1).  
+
+**1129**. Then he proves what he had said, namely, that the kingdom of God consists in these things. For the man who seems to belong to the kingdom of God is one who is pleasing to God and approved by holy men. But this happens to the man in whom are found justice, peace, and joy. Therefore, the kingdom of God consists in them. He says, therefore: *it has been stated that the kingdom of God is justice, peace, and joy in the Holy Spirit*; ***for he who in this serves Christ***, who is the king of this kingdom: *he has transferred us into the kingdom of his beloved Son* (Col 1:13), so that one who lives in justice, joy, and peace ***pleases God***, who is the founder of this kingdom: *there was one who pleased God and was loved by him* (Wis 4:10) ***and is approved by men***, i.e., approved by the members of this kingdom: *who has been tested by it and found perfect* (Sir 31:10).  
+
+**1130**. Then when he says, ***therefore***, he infers the intended admonition. Inasmuch as the kingdom of God consists in justice, peace, and spiritual joy, ***therefore***, in order to arrive at the kingdom of God, ***let us follow after*** the path of peace, i.e., strive to accomplish the things through which we conserve the peace of Christians: *strive for peace and holiness* (Heb 12:14). ***Let us keep the things that are of edification, one towards another***, i.e., things by which we upbuild one another, i.e., by which we preserve what is good and are stimulated to become better: *strive to excel in building up the Church* (1 Cor 14:12). Which indeed will happen if we have lived in justice and spiritual joy.  
+
+**1131**. Then when he says, ***destroy not the work of God for food***, he presents the fourth argument, which is taken from our reverence for God’s works, to which we owe this reverence in the sense that what God does we should not destroy for some bodily convenience: And this is what he says: ***for food***, which is used by the body, ***destroy not the work of God***. This, of course, does not mean just any work of God. For all the things which serve as man’s food are God’s works, as the produce of the earth and the flesh of animals, which have been granted to man for food, as it says in Genesis (Gen 1:29; 9:3). It means the work of grace which he works in us in a special way: *God is at work in you, both to will and to work for his good pleasure* (Phil 2:13). Therefore, we should not for the sake of food destroy this work of God in our neighbor, as they seemed to do who disturbed and placed stumbling blocks before the brethren by eating all foods without distinction.  
+
+Lecture 3  
+
+***Clean and unclean food***
+
+***^14:20^ All things indeed are clean: but it is evil for that man who eats with offense. [n. 1132]***
+
+> ^14:21^ It is good not to eat flesh and not to drink wine: nor any thing whereby your brother is offended or scandalized or made weak. [n. 1134]
+
+> ^14:22^ Do you have faith? Have it to yourself before God. Blessed is he who condemns not himself in that which he allows. [n. 1136]
+
+> ^14:23^ But he who discerns, if he eats, is condemned; because he does not act from faith. For all that is not of faith is sin. [n. 1139]
+
+> **1132**. After presenting a reason to show that we should not set a stumbling block before our neighbor by eating all foods indiscriminately, the Apostle now shows how certain foods can be clean and unclean. In regard to this he does two things.
+
+First, he states which things are clean of their very nature, saying: ***all things indeed***, which can pertain to man’s food ***are clean***, namely, of its very nature, because of its very nature it does not have the power to defile a man’s soul, as it says in Matthew: *not what goes into the mouth defiles a man* (Matt 15:11); and in 1 Timothy: *everything created by God is good* (1 Tim 4:4). But certain things were declared unclean under the law not of their nature but by reason of what they signified, as is clear in Leviticus 11:2 et seq. But Christ even removed this uncleanness by fulfilling the figures of the old law. Hence it was said to Peter: *what God has cleansed, you must not call common*, i.e., unclean (Acts 10:15).  
+
+Second, when he says, ***but it is evil for that man***, he shows how some food can become unclean for a man, namely, it stains his soul to eat it; and this in two ways:  
+
+first, when a person by eating all food indiscriminately puts a stumbling block before his neighbor;  
+
+second, when he eats food contrary to his conscience, at ***blessed is he who condemns not***.  
+
+**1133**. In regard to the first he does three things: first, he shows what is evil in taking food, saying: Although all things are by their nature clean, but *it is evil for that man who eats* a certain food *with offense*, i.e., with confusion and scandal to neighbor: *woe to the world for stumbling blocks* (Matt 18:7).  
+
+**1134**. Second, he shows what is good in eating foods of this sort, saying: ***it is good not to eat flesh and not to drink wine***, the first of which seems to be the principal food and the second the principal drink.  
+
+He says that it is good to abstain from these either to tame the desires of the flesh, as it says in Ephesians: *do not get drunk with wine, for in that is debauchery* (Eph 5:18), or even to make a man more apt for contemplating spiritual things: *I have thought to deprive myself of wine, that I might give my mind to wisdom* (Eccl 2:3).  
+
+But this is not what the Apostle intends to say here, but that it is good not to use these, if they are a stumbling block to the brethren. This is apparent from what he says: ***nor any thing whereby your brother is offended***. What I say, I say not only about wine and meat, namely, that it is good not to use them, but I say it of any other food; ***your brother is offended***, i.e., disturbed about you, as if you were acting unlawfully. By this his peace is disturbed ***or scandalized***, i.e., is tempted to fall into sin; wherefore, his justice is injured ***or made weak***, i.e., begins at least to wonder whether what is done is lawful, so that his spiritual joy is lessened. Hence the Apostle says: *if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother* (1 Cor 8:13).  
+
+**1135**. But since it is lawful to use these foods, if one must abstain from using them for fear of putting a stumbling block before his neighbor, then by the same token it seems that one should abstain from all lawful things which are not necessary for salvation, as justice, peace, and spiritual joy are necessary. So it seems that it is not lawful for a man to demand his due for fear of putting a stumbling block before his neighbor.  
+
+The answer is that if the stumbling block proceeds from the weakness or ignorance of those scandalized on account of it, then to avoid this scandal a man should abstain from lawful things, if they are not necessary for salvation. For this is scandal of little ones, which the Lord commands us to avoid: *see that you do not despise one of these little ones* (Matt 18:10). But if scandal of this sort arises from the malice of those scandalized, such scandal is Pharisaical and the Lord taught that it should be ignored. Hence, to avoid scandal of this sort, it is not necessary to abstain from lawful things.  
+
+But yet in regard to scandal of little ones, it should be noted that to avoid it, a person is bound to postpone the use of lawful things, until this scandal can be removed by explaining one’s conduct. But if the scandal still remains after such an explanation, then it would seem to proceed not from ignorance or from weakness but from malice, so that it will now be Pharisaical scandal.  
+
+**1136**. Third, he rejects an excuse. For someone might say: although my neighbor may be scandalized at my eating all foods indiscriminately, yet to profess my faith, which tells me that it is lawful, I will use food indiscriminately.  
+
+But the Apostle rejects this reasoning, saying: ***do you***, who would use all foods indiscriminately, ***have faith***, through which it is clear that it is lawful to use these foods. This faith is good and praiseworthy, *have it* secretly *before God*, whom such faith pleases: *God is well pleased with faith and meekness* (Sir 18:14). As if to say: it is not fitting to manifest your faith by an outward work, when this becomes a stumbling block to your neighbor.  
+
+**1137**. But this seems to be contradicted by something he said above: ***man believes with his heart and so is justified; and he confesses with his mouth and so is saved*** (Rom 10:10). Therefore, it does not seem to be enough to keep the faith in your heart between yourself and God, but it should be manifested by confessing it before one’s neighbor.  
+
+The answer is that among the matters of faith some have not been perfectly manifested by the Church, as in the early Church it had not been perfectly declared to men that Jewish converts were not bound to observe the practices of the law, and as in the time of Augustine the Church had not yet declared that the soul was not transferred from the parent. Hence, in cases of this kind it is enough for a man to keep his faith between himself and God. Nor should he manifest his faith, if it scandalizes his neighbor, except perhaps among those who have to decide about the faith.  
+
+But certain things of faith have already been determined by the Church. In such matters it is not enough to keep one’s faith between oneself and God, but one should confess it before his neighbor, no matter what scandal might arise, because doctrinal truth must not be set aside on account of scandal, just as Christ did not set aside the truth of his teaching just because the Pharisees were scandalized, as it says in Matthew 15:12 et seq.  
+
+It should also be noted that although in such matters a person should manifest his faith by oral confession, he is not required to manifest it by performing the outward work. Thus, if someone hold by faith that the use of marriage is licit, he is not required as a manifestation of his faith to use. And so it is also not required of those who have correct faith, that they manifest their faith by the use of foods. For they could manifest it by word.  
+
+**1138**. Then when he says, ***blessed is he who condemns not***, he shows how the use of foods becomes unclean for certain persons from the fact that it is against their conscience.  
+
+In regard to this he does three things: first, he shows what is good in this matter, in order, namely, that a person not have remorse of conscience from something he does not do. Hence, he says: ***blessed is he who condemns not himself***, i.e., whose conscience neither chides nor condemns him ***in that which he allows*** to be done.  
+
+This, of course, supposes that he approves with right faith that which is to be done. But if he uses a false opinion in approving something to be done, say if he deems it a service to God to kill Christ’s disciples, as it says in John, he is not excused just because he does not judge himself in this matter (John 16:2). Indeed, he would be happier if his conscience were to rebuke him on this point, because he would thereby have been restrained more from sin. But we should understand that the Apostle is speaking here of lawful things. For it pertains to man’s glory that his conscience not rebuke him: *our glory is this, the testimony of our conscience* (1 Cor 1:12); *my heart does not reproach me for any of my days* (Job 27:6).  
+
+**1139**. Second, he shows what is evil in this matter, namely, that one acts against his conscience. Hence he says: ***but he who discerns***, i.e., has the false opinion that he must discriminate among foods, ***if he eats***, namely, food which he regards as unlawful, ***is condemned***, because so far as in him lies, he has the will to do what is unlawful; and so, *because he sinned, he is self-condemned* (Titus 3:11).  
+
+**1140**. Third, he assigns the cause of what he had said, saying: ***because he does not act from faith***; therefore, he is condemned.  
+
+Here faith can be taken in two ways: in one way of faith as a virtue; in another way, so that conscience is called faith. These two meanings differ only as particular and universal. For what we hold by faith universally, for example, that the use of foods is lawful or unlawful, conscience applies to a deed performed or to be performed.  
+
+It is said, therefore, that he who eats and distinguishes is condemned, because this is not from faith but against faith, i.e., against a truth of faith and against the conscience of the eater: *without faith it is impossible to please God* (Heb 11:6). That this is a sufficient reason for condemnation is shown when he says: ***whatever does not proceed from faith is sin***. From this it seems that, as a Gloss says, *the entire life of unbelievers is sin*, just as the entire life of believers is meritorious, inasmuch as it is directed to the glory of God, as it says in 1 Corinthians: *whether you eat or drink, or whatever you do, do all to the glory of God* (1 Cor 10:31).  
+
+**1141**. But it should be noted that the believer’s relation to good differs from the unbeliever’s relation to evil. For there is nothing of condemnation in a person who has living faith, as was said above (Rom 8:1). But in the unbeliever along with his unbelief is the good of his nature. Therefore, when an unbeliever does something good from the dictate of reason and does not refer it to an evil end, he does not sin. However, his deed is not meritorious, because it was not enlivened by grace. This is what a Gloss says: *nothing is good without the supreme good*, i.e., no good is meritorious without God’s grace, and *where knowledge of eternal life and unchangeable truth is lacking*, which knowledge comes by faith, *virtue in the best behavior is false*, inasmuch as it is not referred to the end of eternal happiness. But when an unbeliever does something from the fact that he is an unbeliever, it is clear that he sins. Hence when a Gloss says: *every deed which is not from faith is a sin*, it must be understood in the following way: Everything against faith or against conscience is a sin, and if it seems of its nature to be good, as when a pagan in honor of his gods preserves virginity or gives an alms, he sins by this very fact: *to the corrupt and unbelieving nothing is pure; their very minds and consciences are corrupted* (Titus 1:15).

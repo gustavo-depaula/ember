@@ -1,165 +1,177 @@
-# Chapter 24
+# Chapter 22
 
-> ^24:2^ Et erit sicut populus sic sacerdos, et sicut servus sic dominus ejus, sicut ancilla sic domina ejus, sicut emens sic ille qui vendit, sicut fœnerator sic is qui mutuum accipit, sicut qui repetit sic qui debet.
+> ^22:2^ clamoris plena, urbs frequens, civitas exsultans? Interfecti tui non interfecti gladio nec mortui tui in bello.
 
-> ^24:3^ Dissipatione dissipabitur terra et direptione prædabitur, Dominus enim locutus est verbum hoc.
+> ^22:3^ Cuncti principes tui fugerunt simul dureque ligati sunt; omnes qui inventi sunt vincti sunt pariter, procul fugerunt.
 
-> ^24:4^ Luxit et defluxit terra et infirmata est; defluxit orbis, infirmata est altitudo populi terræ,
+> ^22:4^ Propterea dixi: recedite a me, amare flebo; nolite incumbere ut consolemini me super vastitate filiæ populi mei.
 
-> ^24:5^ et terra interfecta est ab habitatoribus suis. Quia transgressi sunt leges, mutaverunt jus, dissipaverunt fœdus sempiternum,
+> ^22:5^ Dies enim interfectionis et conculcationis et fletuum a Domino Deo exercituum in valle visionis, scrutans murum et magnificus super montem.
 
-> ^24:6^ propter hoc maledictio vorabit terram et peccabunt habitatores ejus; ideoque insanient cultores ejus et relinquentur homines pauci.
+> ^22:6^ Et Ælam sumpsit pharetram et currum hominis equitis, et parietem nudavit clypeus.
 
-> ^24:7^ Luxit vindemia, infirmata est vitis, ingemuerunt omnes qui lætabantur corde;
+> ^22:7^ Et erunt electæ valles tuæ plenæ quadrigarum et equites ponent sedes suas in porta.
 
-> ^24:8^ cessavit gaudium tympanorum, quievit sonitus lætantium, conticuit dulcedo citharæ;
+> ^22:8^ Et revelabitur operimentum Judæ, et videbis in die illa armamentarium domus saltus,
 
-> ^24:9^ cum cantico non bibent vinum. Amara erit potio bibentibus illam;
+> ^22:9^ et scissuras civitatis David videbitis, quia multiplicatæ sunt. Et congregastis aquas piscinæ inferioris,
 
-> ^24:10^ attrita est civitas vanitatis, clausa est omnis domus nullo introeunte;
+> ^22:10^ et domos Jerusalem numerastis, et destruxistis domos ad muniendum murum.
 
-> ^24:11^ clamor erit super vino in plateis. Deserta est omnia lætitia, translatum est gaudium terræ.
+> ^22:11^ Et lacum fecistis inter duos muros ad aquam piscinæ veteris, et non suspexistis ad eum qui fecerat eam, et operatorem ejus de longe non vidistis.
 
-> ^24:12^ Relicta est in urbe solitudo, et calamitas opprimet portas,
+> ^22:12^ Et vocabit Dominus Deus exercituum in die illa ad fletum et ad planctum ad calvitium et ad cingulum sacci.
 
-> ^24:13^ quia hæc erunt in medio terræ, in medio populorum. Quomodo si paucæ olivæ quæ remanserunt excutiantur ex olea, et racemi cum fuerit finita vindemia.
+> ^22:13^ Et ecce gaudium et lætitia, occidere vitulos et jugulare arietes, comedere carnes et bibere vinum. Comedamus et bibamus, cras enim moriemur.
 
-> ^24:14^ Hi levabunt vocem suam atque laudabunt, cum glorificatus fuerit Dominus, hinnient de mari.
+> ^22:14^ Et revelata est in auribus meis Domini exercituum: si dimittetur iniquitas hæc vobis donec moriamini, dicit Dominus exercituum.
 
-> ^24:15^ Propter hoc in doctrinis glorificate Dominum, in insulis maris nomen Domini Dei Israel.
+> ^22:15^ Hæc dicit Dominus Deus exercituum: vade, ingredere ad eum qui habitat in tabernaculo, ad Sobnam præpositum templi, et dices ei:
 
-> ^24:16^ A finibus terræ laudes audivimus, gloriam iusti. Et dixi: secretum meum mihi, secretum meum mihi. Væ mihi! Prævaricantes prævaricati sunt et prævaricatione transgressorum prævaricati sunt.
+> ^22:16^ Quid tu hic, aut quasi quis hic? Quia excidisti tibi hic sepulchrum, excidisti in excelso memoriale diligenter, in petra tabernaculum tibi.
 
-> ^24:17^ Formido et fovea et laqueus super te qui habitator es terræ.
+> ^22:17^ Ecce Dominus asportari te faciet sicut asportatur gallus gallinaceus, et quasi amictum sic sublevabit te.
 
-> ^24:18^ Et erit, qui fugerit a facie formidinis cadet in foveam, et qui se explicaverit de fovea tenebitur laqueo, quia cataractæ de excelsis apertæ sunt et concutientur fundamenta terræ.
+> ^22:18^ Coronas coronabit te tribulatione, quasi pilam mittet te in terram latam et spatiosam. Ibi morieris, et ibi erit currus gloriæ tuæ ignominia domus Domini tui.
 
-> ^24:19^ Confractione confringetur terra, contritione conteretur terra, commotione commovebitur terra,
+> ^22:19^ Et expellam te de statione tua, et de ministerio tuo deponam te.
 
-> ^24:20^ agitatione agitabitur terra sicut ebrius, et auferetur quasi tabernaculum unius noctis, et gravabit eam iniquitas sua et corruet et non adjiciet ut resurgat.
+> ^22:20^ Et erit in die illa, vocabo servum meum Eliacim filium Helciæ,
 
-> ^24:21^ Et erit, in die illa visitabit Dominus super militiam cæli in excelso et super reges terræ qui sunt super terram.
+> ^22:21^ et induam illum tunica tua et cingulo tuo confortabo eum, et potestatem tuam dabo in manu ejus. Et erit quasi pater habitantibus Jerusalem et domui Juda.
 
-> ^24:22^ Et congregabuntur in congregationem unius fascis in lacum et claudentur ibi in carcere, et post multos dies visitabuntur.
+> ^22:22^ Et dabo clavem domus David super humerum ejus, et aperiet et non erit qui claudat, et claudet et non erit qui aperiat.
 
-> ^24:23^ Et erubescet luna et confundetur sol, cum regnaverit Dominus exercituum in monte Sion et in Jerusalem et in conspectu senum suorum fuerit glorificatus.
+> ^22:23^ Et figam illum paxillum in loco fidelium, et erit in solium gloriæ domui patris tui.
 
-> **565**. ***Ecce Dominus***. In parte ista comminatur destructionem totius terrae, vel quae facta est in singulis regnis et diversis partibus, vel quae futura est in die judicii secundum quod supra XIV 26 dictum est ***hoc est consilium quod cogitavi***; quamvis quidam hoc exponant de terra Judeorum, vel de terra Babylonis, vel de terra Idumaeorum. Dividitur autem in duas:
+> ^22:24^ Et suspendam super eum omnem gloriam domus patris ejus; vasorum diversa genera, omne vas parvulum, a vasis craterarum usque ad omne vas musicorum.
 
-primo comminatur contra terrae habitatores,  
+> ^22:25^ In die illa, dicit Dominus exercituum, auferetur paxillus qui fixus fuerat in loco fideli, et frangetur et cadet et peribit quod pependerat in eo, quia Dominus locutus est.
 
-in secunda contra populorum gubernatores: ***et erit in die***.  
+> **526**. ***Onus vallis***. Hic comminatur contra illos qui populo Dei jungebantur praelationis jure, et ipsum tamen rebus spoliabant.
 
-Circa primum tria ponit:  
+Et primo quantum ad illos ad quos pertinebat praelatio in temporalibus,  
 
-primo destructionem hominum,  
+secundo contra illos ad quos pertinebat in spiritualibus: ***haec dicit Dominus***.  
 
-secundo subtractionem gaudiorum, ibi ***luxit vindemia***,  
+**527**. Praelatio autem in temporalibus pertinebat ad reges, et ideo comminatur in prima parte contra Jerusalem quae erat sedes regni; et circa hoc duo facit.  
 
-tertio multitudinem periculorum: ***praevaricantes***.  
+Primo ponitur inscriptio: ***vallis***, id est Jerusalem, non propter situm loci, cum sit in monte, sed propter vilitatem, quia ad ipsam sicut ad vallem confluebant sordes undique, dum vicinarum gentium actum sequeretur, Ez. V 5 *haec est Jerusalem; in medio gentium posui eam*; vel dicitur vallis propter infimam partem civitatis quae a Sobna tradita fuit Senacherib. ***Visionis***, propter sanctitatem templi: nam in ipso visiones prophetis fiebant a Domino; vel propter eminentiam loci, quia a remotis videri poterat; vel propter nomen quod loco illi imposuit Abraham, sicut dicitur Gen. XXII 14 *appellavitque nomen loci illius, In monte Dominus videbit*.  
 
-**566**. Circa primum tria.  
+**528**. Secundo ponitur ipsa comminatio. Et circa hoc tria facit:  
 
-Primo comminatur destructionem: ***nudabit***, evacuando habitatoribus; ***dissipabit***, privando cultoribus; ***affliget***, diversis poenis, ***faciem***, id est habitantes in superficie; ***disperget***, in diversa dividendo per captivitatem, Joelis I 7 *nudans spoliavi te*.  
+primo arguit culpam,  
 
-**567**. Secundo destructionis universalitatem quantum ad punitos, adaequans differentes dignitate: ***sicut populus***, conditione: ***sicut servus***, rerum possessione: ***sicut emens***, Job III 19 *parvus et magnus ibi sunt, et servus liber a domino suo*. Quantum ad diversitatem poenarum: ***dissipatione***, ponens rerum amissionem quantum ad immobilia: ***dissipabitur***, quantum ad mobilia: ***praedabitur***, Jer. XII 11 *desolatione desolata est omnis terra*. Quantum ad potentiae deiectionem: ***luxit et defluxit***, praeteritum pro futuro, id est defluet lugens pro infirmitate; et hoc est: ***infirmata est***, ut hoc dictum sit quantum ad populares; sed quantum ad potentes: ***defluxit orbis***, id est rectores orbis, supra XIII 11 ***visitabo super orbis mala***. Ponit etiam hominum interfectionem: ***et terra***, Ps. *interfecta est terra*.  
+secundo comminatur poenam: ***interfectique tui***,  
 
-**568**. Tertio ostendit poenae aequitatem: ***quia transgressi sunt***, et hoc per comparationem ad culpam; unde duo facit.  
+tertio ostendit in ipsa poena obstinationis pertinaciam: ***et congregastis***.  
 
-Primo ponit culpam: ***leges***, scriptas vel naturales; ***jus***, consuetudinis; ***foedus***, amicitiae, ***sempiternum***, quia ex similitudine speciei causatum, Oseae VIII 1 *transgressi sunt foedus meum, et legem meam praevaricati sunt*, Soph. III 4 *polluerunt sanctuarium meum, injuste egerunt contra legem*.  
+Circa primum duo facit.  
 
-**569**. Secundo comminatur poenam propter hoc quadruplicem:  
+Primo arguit peccatum duplex:  
 
-primo divinae maledictionis: ***maledictio***, Jer. XXIII 10 *a facie maledictionis luxit terra*;  
+idolatriae: ***quidnam tibi, ascendisti in tecta***, ad sacrificandum idolis, ***et tu***, quae speciali actu sancti privilegii gaudebas, Oseae IV 15 *si fornicaris, Israel, non delinquat saltem Juda*;  
 
-secundo divinae desertionis: ***peccabunt***, quasi Domino eos derelinquente, Ro. I 26 *propterea tradidit eos Deus in passiones ignominiae*, Apoc. ult. *qui in sordibus est sordescat adhuc*;  
+et peccatum rixae: ***clamoris plena***, supra V 12 ***expectavi ut faceret uvas, et fecit labruscas***.  
 
-tertio infatuationis: ***ideoque insanient***, Ps. *conversi sunt* in vanitates;  
+Secundo ad aggravandum peccatum ponitur Dei beneficium duplex, scilicet  
 
-quarto diminutionis: ***et derelinquentur***, Deut. XXVIII 62 *remanebitis pauci numero*.  
+multitudinis hominum: ***urbs frequens***, Thren. I 2 *quomodo sedet sola civitas plena populo?*;  
 
-**570**. ***Luxit vindemia***. Hic comminatur subtractionem gaudiorum quantum ad malos;  
+et plenitudinis gaudiorum: ***civitas exultans***, quondam tempore Salomonis prae nimia prosperitate, Ps. *fundatur exultatione universae terrae*.  
 
-et secundo <ponit> gaudia bonorum: ***quomodo si paucae***.  
+**529**. ***Interfecti***. Hic ponit poenam.  
 
-Circa primum tria.  
+Et primo comminatur hominum destructionem quantum ad obsessos qui mortui sunt fame: ***non interfecti gladio***, sed fame et siti, Thren. IV 9 *melius fuit interfectis gladio quam fame*; quantum ad fugitivos, principes scilicet qui comprehensi sunt et ***ligati***, sicut legitur Jer. ult.: ***cuncti principes***, Thren. I 6 *facti sunt principes velut arietes non invenientes pascua*; quantum ad comprehensos in civitate, qui similiter captivati sunt: ***omnes qui inventi sunt; procul***, in longinquam terram in captivitatem ducti, Deut. XXVIII 49 *deducet Dominus in gentem longinquam*.  
 
-Primo ponit cessationem laetitiae quae ex tribus erat:  
+**530**. Secundo ponit prophetae inconsolabilem compassionem: ***recedite***, vos prophetae consolantes, ***nolite incumbere*** more consolantium, Jer. IX 1 *quis dabit capiti meo aquam et oculis meis fontem lacrymarum, ut possim flere interfectos populi mei?*  
 
-vel in fertilitate rerum: ***luxit vindemia*** deficiens, id est causa luctus fuit, supra XVI 10 ***in vineis non exultabit neque jubilabit***;  
+**531**. Tertio ponit poenae modum et ordinem: ***dies interfectionis***, et circa hoc tria ponit.  
 
-vel in exercitio ludorum: ***cessabit gaudium***, Apoc. VIII *vox cytharaedorum cytharizantium in cytharis suis*;  
+Primo Dei indignationem: ***dies interfectionis*** imminet; ***scrutans***, faciens scrutari ab hostibus; ***magnificus***, faciens hostes magnificos: in montibus enim et muris confidebant, Soph. I 12 *in tempore illo scrutabitur Jerusalem in lucernis et visitabo super viros defixos in faecibus suis*.  
 
-vel in deliciis conviviorum: ***cum cantico non bibent***; supra V 12 ***cythara et Lyra in conviviis vestris***.  
+**532**. Secundo ponit hostium superationem: ***et Aelam***, civitas Persidis ex qua venerunt pugnatores cum Nabuchodonosor, qui monarchiam Orientis tenebat; ***clypeus***, portatus contra Jerusalem, ***nudavit parietem*** ad quam suspensus erat ad ornatum domus, Jer. XLVI 3 *praeparate scutum et clypeum*; vel aliter: ***clypeus***, potentia Chaldaei, ***nudavit parietem*** templi auro quo vestiebatur.  
 
-**571**. Secundo ponit recompensationem tristitiae: ***amara***, quia in conviviis tristitiam habebunt, contra delicias conviviorum, Amos VII *convertam festivitates vestras in luctum; **attrita***, contra vanitatem ludorum, Ps. *universa vanitas*, Eccl. I 2 *vanitas vanitatum, et omnia vanitas; **civitas***, Babylonis, quaelibet anima; ***clamor*** conquerentium de defectu vini, contra fertilitatem, Amos V 17 *in omnibus vineis erit planctus*.  
+**533**. Tertio ponit damni illationem quantum ad quatuor.  
 
-**572**. Tertio concludit commutationem: ***deserta***, commutatur in tristitiam, Lucae VI 25 *vae vobis qui ridetis, quia flebitis*, Prov. XIV 13 *risus dolore miscebitur*.  
+Primo quantum ad possessionum vastationem: ***erunt electae; quadrigarum*** Babylonis, Jer. XLIX 4 *quid gloriaris in vallibus? Defluxit vallis tua, filia delicata*.  
 
-**573**. ***Quomodo***. Hic ponit gaudia bonorum.  
+Secundo quantum ad civitatum captionem: ***equites in porta***, ne quis effugiat, Jer. XXXIX 3 *ingressi sunt omnes principes Babylonis et sederunt in porta media*.  
 
-Et primo praedicit laudem futurorum, quorum praedicit salutem: ***quomodo si paucae***; pauci salvabuntur respectu aliorum, supra XVII 6 ***relinquetur in ea sicut excussio oleae, duarum aut trium olivarum***. Et ponit ipsorum laudem: ***hi levabunt; hinnient*** sicut equi, ad significandam magnam laetitiam, infra LII 8 ***vox speculatorum tuorum: levaverunt vocem, simul laudabunt***.  
+Tertio quantum ad sanctorum profanationem: ***et revelabitur***, nudabitur, ***operimentum***, id est sancta prius operta, quae nulli nisi sacerdoti licebat videre, Thren. I 8 *viderunt gentes ignominiam tuam*.  
 
-**574**. Secundo inducit laudem praesentibus: ***propter hoc***.  
+Quarto quantum ad armamentarii destructionem: ***videbis armamentarium***, id est ***domus saltus***, in quo arma recondebantur, eversum; de cujus aedificio III Reg. VII; ***civitatis David*** fortissimae, vel ipsa Jerusalem cum forti muro in pluribus locis, Cant. *turris David aedificata est cum propugnaculis*.  
 
-Et primo ponit praeceptum: ***in doctrinis***, id est docendo alios; alia translatio: ***laudationibus***, Eccli. XLIII 32 *glorificantes Deum quantumcumque poteritis*.  
+**534**. ***Et congregastis aquas***. Hic ponit obstinationis pertinaciam.  
 
-Secundo designat praecepti explementum: ***a finibus terrae**; **iusti***, id est Christi, infra LXII 11 ***ecce Dominus auditum faciet in extremis terrae***.  
+Et primo arguit obstinationis culpam,  
 
-Tertio implentium praemium: ***et dixi: secretum***, de praemiis eorum, I Cor. II 9 *oculus non vidit, nec auris audivit, etiam in cor hominis non ascendit quae praeparavit Deus diligentibus se; **mihi***, soli. ***Vae mihi***, quia non possum aliis enarrare, II Cor. XII 4 *audivi arcana verba quae non licet homini loqui*. De poenis damnatorum: ***vae mihi***, quantas poenas video; et sic tenet se cum parte sequenti.  
+secundo proponit contra eos divinam sententiam: ***et revelata est***.  
 
-**575**. ***Praevaricantes***. Hic comminatur multitudinem periculorum, et circa hoc duo facit.  
+Arguitur autem eorum pertinacia quantum ad duo.  
 
-Primo arguit diversitatem peccatorum: ***praevaricantes*** omittendo, ***transgressi*** committendo, Ps. *praevaricantes reputavi omnes peccatores terrae*.  
+Primo quantum ad divinum auxilium quod non invocabant, de suis viribus et ingeniis confidentes: ***congregastis***, in unum locum intra civitatem per occultos meatus, ***aquas piscinae inferioris***, quae habebat aquas de terra fluentes, quae tamen ab hostibus prohiberi poterant; ***numerastis***, ut numero et mensura dispensaretur aqua; ***destruxistis*** domos quae erant juxta murum, ut non impedirent defensores; ***lacum***, piscinae inferioris, ***fecistis*** fluere ***inter duos muros***, quibus cingebatur civitas, et ***aquam*** scilicet instaurastis; ***eum***, scilicet Deum, ***eam***, aquam, Ps. *Deum non invocaverunt*.  
 
-Secundo comminatur multitudinem periculorum.  
+**535**. Secundo quantum ad divinum consilium quod contemnebant: ***et vocabit***. Et circa hoc tria ponit.  
 
-Et primo ponit hanc multitudinem: ***formido***. Loquitur ad similitudinem eorum qui prae timore insequentes fugiunt, supra VIII 15 ***cadent et irretientur***, Ier. III *vocem terroris*.  
+Primo ipsum consilium: ***ad fletum***, oculorum; ***ad planctum***, manuum; ***ad calvitium***, secundum morem antiquorum qui in tristitia opera haec faciebant, Joelis II 12 *convertimini ad me in toto corde vestro, in jejunio, fletu et planctu*.  
 
-**576**. Secundo evadendi impossibilitatem: ***et erit qui fugerit***, quasi dicat: decidet in Scyllam cupiens vitare Charibdim, Joelis I 4 *residuum erucae comedit bruchus*. Et assignat causam: quia et de caelo et de terra veniet eis tribulatio, et hoc est ***cataractae***, id est occulti meatus per quos aqua transit, Gen. VII 11 *cataractae caeli apertae sunt*.  
+Secundo ponit consilii contemptum: ***et ecce gaudium***, supra VI ***cythara et lyra in conviviis vestris***.  
 
-**577**. Tertio ostendit reparationis impossibilitatem sub triplici similitudine, scilicet  
+Tertio contemnendi animum: ***comedamus***, I Cor. XV 32, Sap. II 5 *umbrae enim transitus est tempus nostrum*.  
 
-rei divisae quae non integratur: ***confractione***, quantum ad partes magnas, ***contritione***, quantum ad parvas, Amos IX 8 *ecce oculi Domini*;  
+**536**. ***Et revelata***. Hic ponitur sententia. Et possunt legi ex persona Domini: haec blasphemia vestra ***revelata***, id est ego audivi; ***si dimittetur***, quasi dicat: non credatis supra II 9 ***ne ergo dimittas***; vel ex persona prophetae: haec vox Domini est ***revelata***. Et haec omnia quae dicta sunt pertinent ad captivitatem per Nabuchodonosor imperantem facta.  
 
-et per similitudinem rei commotae et quae non stabilitur: ***commovebitur***, de loco ad locum, ***agitabitur***, quasi tremens in proprio loco ***sicut ebrius***, supra XIX 14 ***errare fecerunt***;  
+**537**. ***Haec dicit Dominus***. Hic ponitur comminatio contra illos ad quos pertinebat praelatio in spiritualibus,  
 
-et per similitudinem tentorii viatoris quod in eodem loco non firmiter figitur: ***et quasi tabernaculum***, infra XXXVIII 12 ***generatio mea ablata est et convoluta est a me quasi tabernacula pastorum***. Et assignat causam: ***et gravabit***, quasi pondus grave, ut non resurgat, Eccli. XXII 17 *super plumbum* etc., Zach. *iniquitas sedet super talentum* etc. Ps. *iniquitates meae sicut onus grave gravatae sunt super me*.  
+et primo contra sacerdotem qui tunc erat,  
 
-**578**. ***Et erit***. Hic contra populorum gubernatores; et circa hoc tria ponit.  
+secundo contra totum sacerdotalem ordinem: ***in die illa dicit Dominus***.  
 
-Primo ponit eorum poenam: ***in die illa***, judicii; ***militiam***, daemones; ***et super*** eosdem ***reges***, Jo. XII 31 *nunc princeps hujus mundi ejicietur foras*; vel etiam malos reges: ***et congregabuntur*** simul in infernum, Matth. XXV 41 *qui paratus est diabolo et angelis suis; **fascis***, Matth. XIII 30 *alligate ea, fasciculos ad comburendum*, ut sint similes in poena qui fuerunt similes in culpa, Apoc. XIX 19 *vidi bestiam* etc. Vel ***in die illa***, scilicet destructionis singulorum regnorum; ***militiam***, idola scilicet solis et lunae et aliarum stellarum, IV Reg. XXI 3 *adoravit omnem militiam caeli; **et congregabuntur***, per destructionem, infra XXXIV 4 ***tabescet omnis***.  
+Circa primum duo facit:  
 
-**579**. Secundo determinat poenae mensuram quantum ad tempus: ***et post multos dies visitabuntur***, quia post quantumlibet tempus tormentis punientur in aeternum, Matth. XXV 41 *ite maledicti in ignem aeternum*; vel in die judicii, ut statim ad infernum peracto judicio redeant; vel, secundum <secundam> expositionem: consolabuntur, quia post tempestatem, omnibus aliquam tranquillitatem facit, Tob. III 22.  
+primo praedicit illius depositionem qui civitatem terrore concussus tradidit Senacherib, id est inferiorem partem;  
 
-**580**. Tertio punientis gloriam,  
+secundo alterius substitutionem: ***et erit in die illa***.  
 
-et primo judicis: ***et erubescet***, id est splendor ejus nihil reputabitur comparatione splendoris corporis Christi, Joelis II 31 *sol convertetur in tenebras, et luna in sanguinem, antequam veniat dies Domini magnus et terribilis*; vel cultores solis et lunae.  
+**538**. Circa primum tria facit.  
 
-Secundo assessorum: ***cum regnaverit; senum***, supra III 14 ***Dominus ad judicandum veniet cum senatoribus*** etc.  
+Primo describit personam ex officio: ***qui habitat in tabernaculo***; sacerdotis erat excubare in tabernaculo, ut habetur Num. I 53 ***praepositum***, summum super decem.  
 
-**581**. Nota super illo verbo ***amara potio***, quod potio peccati est amara:  
+**539**. Secundo arguit culpam triplicem: indignae habitationis: ***quid tu hic*** facis in domo mea, indignus tali habitatione, Jer. XI 15 *quid est quod dilectus meus in domo mea fecit scelera multa?*; de se superbae praesumptionis: ***aut quasi quis hic*** aestimas te ac si esses alicujus valoris, cum nihil sis, Zach. XI 17 *O pastor et idolum*; curiosi sepulcri aedificationis: ***excidisti***, hic in Jerusalem juxta templum, ***memoriale***, id est epitaphium, ***in excelso***, id est in supremo situ sepulcri; vel, ad litteram, in alto sepulcrum suum collocaverat ad memoriam suam, sicut habetur I Mach. XIII.  
 
-primo propter conscientiae remorsum, Prov. V 4 *novissima illius amara sunt*;  
+**540**. Tertio comminatur poenam: ***ecce Dominus***; triplicem.  
 
-secundo propter mortis metum, Eccli. XLI 1 *O mors, quam amara est memoria tua*;  
+Primo captivationis: ***sicut asportatur***, ligatus et sine labore; ***gallinaceus***, qui pullos ad modum gallinae nutrit, castratus existens, qui capones dicuntur; ***et quasi amictum***, leviter super humerum levatus, Jer. XX 6 *tu Phassur, et omnes habitatores domus tuae, ibitis in captivitatem et in Babylonem venies, et ibi morieris, ibique sepelieris tu et omnes amici tui*.  
 
-tertio propter divinae dulcedinis defectum, Jer. II 19 *scito et vide quia malum et amarum est reliquisse te Dominum Deum tuum*;  
+Secundo confusionis: ***coronans***, id est loco coronae qua utebaris cultu pontificali habebis tribulationem; ***quasi pilam***, quae non invenit altam stationem; ***currus gloriae tuae***, qua ferebaris gloriosus, in confusionem tuam versus; ***et ignominia domus Domini***, id est gloria quam habuisti in domo Domini vertetur tibi in ignominiam, Oseae IV 7 *gloriam eorum in ignominiam commutabo*.  
 
-quarto propter poenitentiae planctum, infra XXXVIII 15 ***recogitabo tibi in amaritudine animae meae***.  
+Tertio poenam depositionis: ***et expellam***, III Reg. II 27 *ejecit ergo Salomon Abiathar ut non esset sacerdos Domini*.  
 
-**582**. Item nota super illo ***secretum***, quod Dei magnalia sunt secreta:  
+**541**. ***Et erit***. Hic ponit alterius substitutionem, et circa hoc tria ponit.  
 
-primo propter eorum magnitudinem, Matth. XIX 11 *non omnes capiunt verbum hoc*, Jo. III 12 *si terrena dixi vobis et non creditis, quomodo si dixero vobis caelestia credetis?*;  
+Electionem: ***invocabo*** unum de viginti quatuor, ut legitur I Paral. XXV, I Reg. II 35 *suscitabo mihi sacerdotem fidelem qui juxta cor meum sit*.  
 
-secundo propter eorum dignitatem, Matth. XIII 11 *vobis datum est nosse mysterium regni Dei*, ceteris autem in parabolis;  
+Secundo ipsius consecrationem: ***et induam eum***, quia cum vestibus pontificalibus consecrabatur, sicut patet Levi. XVIII de vestibus istis, et Exo. XXVIII.  
 
-tertio propter aliorum idoneitatem, Matth. VII 6 *nolite sanctum dare canibus*.  
+Tertio confert jurisdictionem: ***et potestatem***.  
 
-**583**. Item nota super illo verbo ***et erit in die illa, visitabit***, quod est visitatio Domini multiplex:  
+**542**. Et primo quantum ad potestatem quam habebat in populo, ponens potestatem: ***et potestatem***, scilicet ***dabo***, Ps. *fiant dies ejus pauci, et episcopatum ejus accipiat alter; **et erit quasi pater***, Jer. III 15 *dabo vobis pastores juxta cor meum, et pascent vos scientia et doctrina*.  
 
-prima condemnationis, Jer. VIII 12 *in tempore visitationis*;  
+**543**. Secundo quantum ad potestatem quam habebat ad templum: ***et clavem***, quae aurea erat, ***domus David***, id est templi, ad quod aedificandum David impensas praeparavit, sicut patet I Paral. in fine, ***super humerum***, id est suam gubernationem, vel quia ea utebatur quasi quodam ornamento; ***aperiet***, quia sibi licitum erat intrare semel per annum in sancta sanctorum, ut dicitur Hebr. IX.  
 
-secunda correptionis, Ps. *visitabo in virga iniquitates eorum*;  
+**544**. Tertio quantum ad potestatem quam habebat supra totum ordinem ministrantium: ***et figam illum paxillum***, diminutivum de palo: sicut enim super palum aliquem suspenduntur diversa vasa, ita ad curam ipsius pertinebant diversa officia quae habent usum diversorum vasorum in ministeriis domus Domini; ***in loco fidelium***, scilicet templo. De hac potestate dicitur Num. II et XXIV.  
 
-tertia consolationis, Lucae I 78 *visitavit nos oriens ex alto*.
+**545**. ***In die illa***. Hic contra sacerdotium totum, quod destructum est tempore Sedeciae captivante Nabuchodonosor; quae enim dicta sunt de Sobna pertinent ad tempus Senacherib. Et vocatur hic paxillus ipsum sacerdotium quod cessavit tempore captivitatis, Oseae III 4 *dies multos sedebunt filii Israel sine rege et sine principe et sine sacrificio et sine altari et sine ephod et sine therapim*.  
+
+**546**. Nota super illo verbo ***qui habitat in tabernaculo***, quod est multiplex tabernaculum:  
+
+primum carnalis concupiscentiae, quod est porcorum, Hebr. ult. *habemus altare de quo edere non habent qui tabernaculo deserviunt*;  
+
+secundum est temporalis et naturalis vitae, quod est hominum, II Petri I 14 *certus sum enim quod velox est depositio tabernaculi mei*;  
+
+tertium est militantis Ecclesiae, quod est pugnantium, supra III ***tabernaculum erit in umbraculum diei ab aestu***;  
+
+quartum est contemplativae sapientiae, quod est quiescentium, Ps. *introibimus in tabernaculum ejus*;  
+
+quintum est visionis aeternae vel caelestis patriae, quod est omnium beatorum, infra XXXIII 20 ***oculi tui videbunt Jerusalem civitatem opulentam, tabernaculum quod nunquam transferri poterit***.

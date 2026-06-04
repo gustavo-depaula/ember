@@ -1,73 +1,195 @@
-# Chapter 35
+# Chapter 33
 
-> ^35:2^ Germinans germinabit et exsultabit lætabunda et laudans. Gloria Libani data est ei, decor Carmeli et Saron. Ipsi videbunt gloriam Domini et decorem Dei nostri.
+> ^33:2^ Domine miserere nostri, te enim exspectavimus; esto brachium nostrum in mane et salus nostra in tempore tribulationis.
 
-> ^35:3^ Confortate manus dissolutas et genua debilia roborate.
+> ^33:3^ A voce angeli fugerunt populi, ab exaltatione tua dispersæ sunt gentes.
 
-> ^35:4^ Dicite: pusillanimis confortamini et nolite timere. Ecce Deus vester ultionem adducet retributionis, Deus ipse veniet et salvabit vos.
+> ^33:4^ Et congregabuntur spolia vestra sicut colligitur bruchus, velut cum fossæ plenæ fuerint de eo.
 
-> ^35:5^ Tunc aperientur oculi cæcorum et aures surdorum patebunt;
+> ^33:5^ Magnificatus est Dominus, quoniam habitavit in excelso, implevit Sion judicio et justitia.
 
-> ^35:6^ tunc saliet sicut cervus claudus et aperta erit lingua mutorum. Quia scissæ sunt in deserto aquæ et torrentes in solitudine
+> ^33:6^ Et erit fides in temporibus tuis; divitiæ salutis sapientia et scientia; timor Domini ipse thesaurus ejus.
 
-> ^35:7^ et quæ erat arida erit in stagnum et sitiens in fontes aquarum. In cubilibus in quibus dracones prius habitabant orietur viror calami et junci.
+> ^33:7^ Ecce videntes clamabunt foris, angeli pacis amare flebunt.
 
-> ^35:8^ Et erit ibi semita et via, et via sancta vocabitur; non transibit per eam pollutus. Et hæc erit nobis directa via ita ut stulti non errent per eam.
+> ^33:8^ Dissipatæ sunt viæ, cessavit transiens per semitam, irritum factum est pactum, projecit civitates, non reputavit homines.
 
-> ^35:9^ Non erit ibi leo, et mala bestia non ascendet per eam nec invenietur ibi; et ambulabunt qui liberati fuerint,
+> ^33:9^ Luxit et elanguit terra, confusus est Libanus et obsorduit, et factus est Saron sicut desertum, et concussa est Basan et Carmelus.
 
-> ^35:10^ et redempti a Domino convertentur et venient in Sion cum laude. Et lætitia sempiterna super caput eorum, gaudium et lætitiam obtinebunt, et fugiet dolor et gemitus.
+> ^33:10^ Nunc consurgam, dicit Dominus, nunc exaltabor, nunc sublevabor.
 
-> **744**. ***Laetabitur deserta*** etc. In parte ista ponit effectum prosperitatis consequentis in Judaeis ex destructione hostium. Et dividitur in duas:
+> ^33:11^ Concipietis ardorem, parietis stipulam; spiritus vester ut ignis vorabit vos.
 
-in prima ponitur promissio consolans,  
+> ^33:12^ Et erunt populi quasi de incendio cinis: spinæ congregatæ igni comburentur.
 
-in secunda exhortatio confortans: ***confortate manus*** etc.  
+> ^33:13^ Audite qui longe estis quæ fecerim, et cognoscite vicini fortitudinem meam.
 
-**745**. Circa primum tria.  
+> ^33:14^ Conterriti sunt in Sion peccatores, possedit tremor hypocritas. Quis poterit habitare de vobis cum igne devorante? Quis habitabit ex vobis cum ardoribus sempiternis?
 
-Primo <ponit> hominum jucunditatem, quam comparat prato florenti, quod etiam ridens dicitur, quod quidem habet pulchritudinem in flore: unde dicit ***deserta***, id est terra Judaeorum quae prius vastantibus Assyriis erat hujusmodi, metonimice id est ipsi homines, ***quasi lilium***, quod est pulcherrimus flos et diu durat, Eccli. xxxix *florete flores* etc.; habet etiam pulchritudinem in germine unde dicit ***germinans*** etc., Prov. xi *justi quasi virens* etc., sicut enim germen ex flore, ita exterior jucunditas ex cordis laetitia.  
+> ^33:15^ Qui ambulat in justitiis et loquitur veritates, qui projicit avaritiam ex calumnia et excutit manus suas ab omni munere, qui obturat aures suas ne audiat sanguinem et claudit oculos suos ne videat malum.
 
-Secundo promittit terrae fertilitatem: ***gloria Libani*** etc., id est fertilitas diversarum rerum, quae est gloria horum locorum, erit in terra promissionis, Oseae ult. *erit quasi oliva* etc.  
+> ^33:16^ Iste in excelsis habitabit, munimenta saxorum sublimitas ejus; panis ei datus est, aquæ ejus fideles sunt.
 
-Tertio, utriusque propinquitatem: ***ipsi***met, <id est> non differetur ad tempora filiorum, supra xxxiii ***regem in decore suo*** etc.  
+> ^33:17^ Regem in decore suo videbunt et oculi ejus cernent terram de longe.
 
-**746**. ***Confortate***. Hic ponitur exhortatio confortans, et circa hoc tria.  
+> ^33:18^ Cor tuum meditabitur timorem. Ubi est litteratus? Ubi legis verba ponderans? Ubi doctor parvulorum?
 
-Et primo ponitur officii ad exhortandum injunctio: ***confortate manus***, in quo debilitas ad operandum, ***genua trementia***, in quo debilitas ad sustinendum, Hebr. xii *remissas manus* etc.  
+> ^33:19^ Populum impudentem non videbis, populum alti sermonis, ita ut non possis intelligere disertitudinem linguæ ejus in quo nulla est sapientia.
 
-Secundo ponitur ipsa confortatio: ***dicite pusillanimes*** etc., Lucae xii *nolite timere, pusillus* etc.  
+> ^33:20^ Respice Sion civitatem solemnitatis nostræ; oculi tui videbunt Jerusalem habitationem opulentam, tabernaculum quod nequaquam transferri poterit, nec auferentur clavi ejus in sempiternum, et omnes funiculi ejus non rumpentur,
 
-Tertio assignatur confortationis ratio,  
+> ^33:21^ quia solummodo ibi magnificus Dominus Deus noster; locus fluviorum rivi latissimi et patentes. Non transibit per eum navis remigum, neque trieris magna transgredietur eum.
 
-et primo quantum ad remotionem malorum, liberando ab hostibus: ***ecce Deus vester***, Deut. xxxii *sanguinem servorum* etc.; et sanando a languoribus: ***tunc aperientur***. Et sunt metaphoricae locutiones, si referantur ad tempus post destructionem Assyriorum, ut intelligantur spirituales defectus ut supra; vel ad litteram, si referantur ad Christi adventum in carnem, sicut dicitur <Mt> xi *caeci vident* etc.  
+> ^33:22^ Dominus enim judex noster, Dominus legifer noster, Dominus rex noster, ipse salvabit nos.
 
-Secundo, quantum ad collationem bonorum, quatuor.  
+> ^33:23^ Laxati sunt funiculi tui sed non prævalebunt; sic erit malus tuus ut dilatare signum non queas. Tunc dividentur spolia prædarum multarum; claudi diripient rapinam.
 
-**747**. Primo, quantum ad abundantiam aquarum: ***quia scissae sunt***, metaphorice aquae pro consolationibus; vel quia multum pluet ut sit magna fertilitas, Ps. *posuit desertum in stagna* etc.  
+> ^33:24^ Nec dicet vicinus: elangui. Populus qui habitat in ea auferetur ab eo iniquitas.
 
-Secundo, pulchritudinem camporum: ***in cubilibus***, id est terra quae prius erat deserta, ut haec animalia inhabitarent, erit culta; ***viror calami et iunci***, quae in locis virentibus orientur, Job xl *sub umbra dormit* etc.  
+> **715**. ***Vae qui praedaris***. In parte ista incipit praedicere hostium destructionem;
 
-Tertio, quantum ad restaurationem viarum, ponens viae sanctitatem: ***et erit ibi***, in terra Juda, ***semita*** ducens ad templum; ***pollutus***, gentilis sicut ante, vel mystice de Ecclesia militante vel triumphante, Apoc. xxprimo *non ingredietur in eam* etc. Ponit etiam rectitudinem: ***et haec erit***; ***stulti***, id est quantumcumque simplices, ***non errent***, propter multitudinem transeuntium, Jer. xxxj *adducam eos per torrentes* etc.; ponit etiam viae securitatem: ***non erit ibi*** etc., supra xi ***non nocebunt et non occident*** etc.; et ponit viarum frequentationem: ***et redempti*** etc., a praecedentibus periculis, Baruch v *ecce veniunt filii tui* etc.  
+et primo destructionem,  
 
-Quarto promittit eis laetitiam cordium: ***laetitia sempiterna***, supra xxv ***auferet lacrymam*** etc.; ostenditur etiam condicio laetitiae sanctorum in patria, quia ***sempiterna***, quia plena: ***obtinebunt***, quia pura: ***fugiet dolor***, Apoc. xx *absterget Deus omnem lacrymam* etc.  
+secundo destructionis effectum, XXXV cap. ***laetabitur***.  
 
-**748**. Sancti comparantur liliis  
+Prima in duas:  
 
-propter stipitis altitudinem, ex quo constantia in adversis, Cant. ii *sicut lilium inter spinas* etc.;  
+in prima praedicit destructionem hostium principalium, scilicet Assyriorum,  
 
-propter odoris suavitatem, ex quo bona fama, Eccli. xxxix *florete flores quasi lilium* etc.;  
+in secunda aliorum eis auxiliantium, XXXIV cap. ***accedite***.  
 
-propter humoris virorem, ex quo virtus mentis, Eccli. l *quasi lilia in transitu aquae*;  
+Circa primum duo:  
 
-propter connexionem, ex quo sanctorum caritas, Cant. vii *venter tuus quasi* etc.  
+primo praedicit destructionem Assyriorum,  
 
-**749**. Haec lilia Christus  
+in secunda ingratorum Judaeorum: ***laxati sunt***.  
 
-vestit quantum ad virtutum dona, Mt. vi *considerate lilia agri* etc.;  
+Circa primum duo:  
 
-colligit ad aeterna praemia, Cant. vi *dilectus meus descendit in hortum* etc.;  
+primo praedicit Assyriorum destructionem,  
 
-in eis requiescit per complacentiam, Cant. ii *dilectus meus mihi* etc.;  
+secundo invitat omnes ad tanti facti considerationem: ***audite***.  
 
-et ideo ipse lilium, Cant. ii *ego flos campi* etc.
+Circa primum duo facit:  
+
+primo praedicit poenam quam a Deo percepit,  
+
+secundo quam aliis ipse intulit: ***ecce videntes***.  
+
+**716**. Circa primum tria facit.  
+
+Primo comminatur Assyriis destructionem, ponens quaestionem: ***nonne***, et responsionem: ***cum consummaveris***; ***fatigatus***, quasi dicat: taedio affectus de multis victoriis, Matth. VII 2 *in qua mensura mensi fueritis, remetietur vobis*, Apoc. XIII 10 *qui in gladio occiderit*, gladio ferietur.  
+
+**717**. Secundo in persona populi petit a Deo comminationis confirmationem: ***Domine miserere***, Eccli. XXXVI 7 *glorifica manum et extende brachium*, Ps. *da nobis, Domine, auxilium de tribulatione*.  
+
+**718**. Tertio ponit petitionis impletionem,  
+
+primo ponens destructionem Assyriorum quantum ad exercitus dispersionem: ***a voce angeli***, multos interficientis, ***populi***, Assyrii qui residui fuerunt, supra XXXI 9 ***et pavebunt principes ejus fugientes***; quantum ad spoliorum direptionem: ***et congregabuntur***, a Judaeis, ***vestra***, o Assyrii, supra X ***laetabuntur coram te sicut qui laetantur capta praeda***.  
+
+Secundo destructionis fructum, scilicet Dei gloriam: ***magnificatus***, Ps. *magnificata est usque ad nubes veritas tua*; et hominum gratiam in rectitudine actus: ***implevit***, scilicet Dominus, ***judicio***, quae executio justitiae, ***fides***, quae est fundamentum justitiae, supra I 27 ***Sion in judicio***, Oseae II 20 *sponsabo te mihi in justitia et fide*. Quantum ad perfectionem intellectus: ***divitiae salutis sapientia***, in divinis, ***scientia***, in humanis, Prov. III 15 *pretiosior est sapientia*. Quantum ad ordinationem affectus: ***timor***, Eccli. I 27 *timor Domini delet peccatum*.  
+
+**719**. Nota super illo verbo ***divitiae salutis***, quod nos habemus divitias  
+
+primo in Deo, Col. I *in ipso sunt omnes thesauri sapientiae et scientiae Dei absconditi*;  
+
+secundo in seipso, Prov. *pretiosior est sapientia*;  
+
+tertio in sanctorum collegio, supra XIII 12 ***pretiosior erit vir auro***.  
+
+**720**. ***Ecce videntes clamabunt***. Hic ponit poenam quam aliis intulit.  
+
+Et primo describit poenam ab ipso inflictam quantum ad perturbationem hominum: ***videntes*** exercitus magnitudinem; ***foris***, qui habitant in suburbanis, ***angeli pacis***, legati Ezechiae ad Rapsacen, infra XXXVI, Jer. VIII 19 *ecce vox clamoris filiae populi mei de terra longinqua*; quantum ad solitudinem viarum: ***dissipatae***, Thren. I 4 *viae Sion lugent, eo quod non est qui veniat ad solemnitatem*; quantum ad infrictionem pactorum: ***irritum factum est pactum***, scilicet quo Senacherib Ezechiam assecuraverat, et ideo ***projecit***, quasi contemnens eorum amicitiam, ***non reputavit***, prae superbia cordis sui, Job XXXIX 24 *absorbet terram, nec reputat tubae sonare clangorem*; quantum ad destructionem regionum: ***luxit et elanguit***. Et ponit praecipue fertiles regiones; supra XXIV 4, 7 idem.  
+
+**721**. Secundo ponit divinam resistentiam conatibus ejus: ***nunc consurgam***. Et circa hoc tria ponit.  
+
+Ex parte Dei resistentis propositum: ***nunc***, scilicet post tanta mala quae fecit, ***consurgam*** contra ipsum, Ps. *propter miseriam inopum et gemitum pauperum nunc exurgam, dicit Dominus*.  
+
+Secundo ponit frustratum Assyriorum consilium: ***concipietis***, id est cogitabitis alios ardere; ***parietis stipulam***, id est hoc sequetur quod vos comburemini; ***spiritus vester***, id est indignatio, ***vorabit***, scilicet carnem sub corio, Ps. *lacum aperuit et effodit eum, et incidit in foveam quam fecit*.  
+
+Tertio ponit resistentiae sive poenae modum: ***et erunt populi, cinis***, quia ad litteram corpora eorum sunt in cineres redacta; ***spinae***, id est Assyrii, quia alios lacerabant, Mal. ult. *calcabitis impios, cum fuerit cinis sub planta pedum eorum*.  
+
+**722**. ***Audite***. Hic invitat ad tanti facti considerationem,  
+
+et primo ad considerandum liberantis divinae potentiae magnitudinem;  
+
+secundo ad considerandum liberatorum idoneitatem, qui scilicet sint idonei ut taliter a Domino liberentur, ibi ***quis ex vobis***;  
+
+tertio ad considerandum liberatae civitatis dignitatem: ***respice Sion***.  
+
+Circa primum duo.  
+
+Primo invitat ad considerationem suae potentiae: ***audite***, infra XLIX 1 ***audite insulae et attendite populi de longe***.  
+
+Secundo ostendit potentiae signum: ***contriti sunt peccatores***, Assyrii scilicet, supra XXIX ***conteram eos*** etc.  
+
+**723**. ***Quis poterit***. Hic invitat ad considerandum idoneitatem ejus qui habitat cum Deo, ut ab ipso semper protegatur illaesus.  
+
+Et primo inquirit idoneum,  
+
+secundo excludit indignum: ***ubi est litteratus***.  
+
+Circa primum tria facit.  
+
+Primo ponit quaestionem; ***cum igne devorante***, Deo scilicet, ut ab ipso non devoretur sicut Assyrii, Deut. IV 24 *Deus, Deus tuus ignis consumens est*.  
+
+**724**. Secundo ostendit idoneitatem, removens tria ad quae Judaei proni erant, scilicet avaritiam quantum ad injuste ablata: ***ex calumnia***, et quantum ad illiberaliter accepta: ***et excutit***; secundo quantum ad crudelitatem in homicidiis: ***qui obturat***; tertio quantum ad luxuriam: ***et claudit oculos***.  
+
+***Iste in excelsis***, scilicet cum Deo, Ps. *quis habitabit in tabernaculo* etc.  
+
+**725**. Tertio ostendit huius habitationis utilitatem quantum ad quatuor.  
+
+Et primo quantum ad altitudinem securam, quod tamen est contra consuetudinem altitudinis: ***munimenta***, Job XXXIX 28 *in petris manet*.  
+
+Secundo quantum ad satietatem plenam: ***panis***, Gen. ult. *Aser panis pinguis*.  
+
+Tertio quantum ad Dei visionem: ***regem***, id est Deum, Cant. III 11 *egredimini filiae Sion et videte regem*.  
+
+Quarto quantum ad affectionem sanctam, scilicet contemptum terrenorum: ***oculi ejus, de longe***, quasi longe sub se, in dignatione scilicet; et quantum ad divinam subjectionem: ***cor tuum, timorem*** filialem, Eccli. I 12 *timor Domini delectabit cor*. Et possunt haec exponi quantum ad eos qui habitant cum Deo in praesenti Ecclesia, vel etiam in triumphante. Vel aliter: ***terram***, scilicet viventium, Ps. *credo videre bona Domini in terra viventium; **de longe***, quasi longe supra dignitatem naturae vel idoneitatem multorum, nunc in spe, in futuro in re; et sic se tenet cum tertia.  
+
+**726**. Nota super illo verbo ***spiritus vester ut ignis***, quod Deus dicitur ignis:  
+
+primo purgans, Matth. III 11 *baptizabit vos Spiritu sancto et igne*;  
+
+secundo inflammans, Lucae XII 49 *ignem veni mittere in terram*;  
+
+tertio condemnans, Deut. XXXII 22 *ignis succensus est in furore meo, et ardebit usque ad inferni novissima*.  
+
+**727**. Item super illo verbo ***iste in excelsis habitabit***, nota quod sancti habitant cum Deo:  
+
+primo per puritatem actionis, Ps. *oculi mei ad fideles terrae, ut sedeant mecum*; s  
+
+ecundo per inhaesionem amoris, Jo. XIV 23 *si quis diligit me, sermonem meum servabit*;  
+
+tertio per eminentiam contemplationis, Phil. IV *nostra conversatio in caelis est*;  
+
+quarto per gloriam fruitionis, Ps. *beati qui habitant in domo tua, Domine*.  
+
+**728**. ***Ubi est litteratus?*** Hic excludit indignum quantum ad illos qui praecipue digni videbantur.  
+
+Et primo eminentes in sapientia: ***ubi est litteratus***, eruditus in philosophia; ***legis verba***, eruditus in divina; ***doctor***, instruens alios in erudimentis utriusque, I Cor. I 20 *ubi sapiens, ubi scriba*, ubi doctus?  
+
+Secundo eminentes in eloquentia sed non sapientia: ***populum alti sermonis***, Jer. V 15 *ecce ego adducam super vos gentem cujus ignorabis linguam*.  
+
+**729**. ***Respice***. Hic inducit ad considerandum liberatae civitatis dignitatem.  
+
+Et primo quantum ad copiam bonorum, ponens quatuor quae sunt in caelesti vel militanti Ecclesia, scilicet  
+
+cordium laetitiam: ***civitatem solemnitatis***, supra XXX 29 ***sicut vox sanctificatae solemnitatis et laetitia cordis***.  
+
+Rerum opulentiam: ***oculi tui videbunt***, supra XXXII 18 ***sedebit populus meus in pulchritudine pacis, in tabernaculis fiduciae, in requie opulenta***.  
+
+Immobilitatis gratiam: ***tabernaculum**; **clavi***, loquitur secundum similitudinem tabernaculi, quod affigitur clavis et funibus qui dissolvuntur quando transferri debet, Dan. VII 14 *potestas ejus potestas aeterna, quae non auferetur*; et hujus assignat rationem: ***quia solummodo Dominus***, qui valet transferre et alii non poterunt, Ps. *magnus Dominus et laudabilis nimis*.  
+
+Aquarum abundantiam: ***locus fluviorum***, id est divinarum monitionum; ***rivi***, diversi modi participationum, Ps. *fluminis impetus laetificat civitatem Dei*.  
+
+Hoc tamen Judaei totum fabulose referunt ad auream Jerusalem.  
+
+**730**. Secundo quantum ad immunitatem malorum: ***non transivit***, praeteritum pro futuro; ***remigum***, quorumlibet hostium, qui quandoque consueverant per mare terram promissionis infestare; ***trieris***, navis habens tres ordines remorum. Et assignat causam: ***Dominus enim judex***, judicans ab adversariis, Zach. IX 9 *ecce rex tuus venit tibi mansuetus*.  
+
+**731**. ***Laxati***. Hic praedicit ingratorum Judaeorum destructionem post a Romanis factam, et ponit tria.  
+
+Primo impotentiam ad resistendum: ***laxati***, id est praeparati, ***funiculi***, ut te contra Romanos defendas. Loquitur secundum similitudinem navis quae paratur ad eundum. ***Malus***, arbor navis, scilicet templum, in quo pretiosa vasa et vela fuisse noscitur, Thren. I 14 *dedit me Dominus in manu de qua non potero fugere*.  
+
+**732**. Secundo direptionem spoliorum ab hostibus: ***tunc dividentur***, a Romanis; ***claudi***, quasi dicat: nullus erit sic impotens inter eos quin praedam vestram diripiat, Joelis III 10 *infirmus dicat quia ego fortis sum*.  
+
+**733**. Tertio remissionem peccatorum hostibus: ***populus***, scilicet Romanus, justificatus comparatione malitiae Judaeorum, Ez. XVI 51 *justificasti*. Vel loquitur contra Idumaeos, qui non poterunt praevalere contra Judaeos, sed magis ab ipsis spoliabuntur tempore Machabaeorum; et populo Judaeorum remittetur iniquitas, infra XL 2 ***completa est malitia ejus***.

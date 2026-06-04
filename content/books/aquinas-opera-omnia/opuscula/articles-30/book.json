@@ -31,21 +31,14 @@
   ],
   "toc": [
     {
-      "id": "30articuli-01",
-      "title": {
-        "en-US": "30Articuli",
-        "la": "30Articuli"
-      }
-    },
-    {
-      "id": "30articuli-prooemium",
+      "id": "30articuli-c01",
       "title": {
         "en-US": "Prooemium",
         "la": "Prooemium"
       }
     },
     {
-      "id": "30articuli-solutio",
+      "id": "30articuli-c02",
       "title": {
         "en-US": "Solutio",
         "la": "Solutio"

@@ -1,165 +1,177 @@
-# Chapter 24
+# Chapter 22
 
-> ^24:2^ And it shall be as with the people, so with the priest: and as with the servant so with his master: as with the handmaid, so with her mistress: as with the buyer, so with the seller: as with the lender, so with the borrower: as with him that calls for his money, so with him that owes.
+> ^22:2^ Full of clamor, a populous city, a joyous city: your slain are not slain by the sword, nor dead in battle.
 
-> ^24:3^ With desolation shall the earth be laid waste, and it shall be utterly spoiled: for the Lord has spoken this word.
+> ^22:3^ All the princes are fled together, and are bound hard: all that were found, are bound together, they are fled far off.
 
-> ^24:4^ The earth mourned, and faded away, and is weakened: the world faded away, the height of the people of the earth is weakened.
+> ^22:4^ Therefore have I said: depart from me, I will weep bitterly: labor not to comfort me, for the devastation of the daughter of my people.
 
-> ^24:5^ And the earth is killed*Interfecta*. Vg.: *infecta*. DR: “infected.” by the inhabitants thereof: because they have transgressed the laws, they have changed the ordinance, they have broken the everlasting covenant.
+> ^22:5^ For it is a day of slaughter and of treading down, and of weeping to the Lord the God of hosts in the valley of vision, searching the wall, and magnificent upon the mountain.
 
-> ^24:6^ Therefore shall a curse devour the earth, and the inhabitants thereof shall sin: and therefore they that dwell therein shall be mad, and few men shall be left.
+> ^22:6^ And Elam took the quiver, the chariot of the horseman, and the shield laid bare*Nudavit*. DR: “was taken down from.” the wall.
 
-> ^24:7^ The vintage has mourned, the vine has languished away, all the merry have sighed.
+> ^22:7^ And your choice valleys shall be full of chariots, and the horsemen shall place themselves in the gate.
 
-> ^24:8^ The mirth of timbrels has ceased, the noise of them that rejoice is ended, the melody of the harp is silent.
+> ^22:8^ And the covering of Judah shall be discovered, and you shall see in that day the armory of the house of the forest.
 
-> ^24:9^ They shall not drink wine with a song: the drink shall be bitter to them that drink it.
+> ^22:9^ And you shall see the breaches of the city of David, that they are many: and you have gathered together the waters of the lower pool,
 
-> ^24:10^ The city of vanity is broken down, every house is shut up, no man comes in.
+> ^22:10^ And have numbered the houses of Jerusalem, and broken down houses to fortify the wall.
 
-> ^24:11^ There shall be a crying for wine in the streets: all mirth is forsaken: the joy of the earth is gone away.
+> ^22:11^ And you made a lake*Lacum*. DR: “ditch.” between the two walls for the water of the old pool: and you have not looked up to the maker thereof, nor regarded him even at a distance, that wrought it long ago.
 
-> ^24:12^ Desolation is left in the city, and calamity shall oppress the gates.
+> ^22:12^ And the Lord, the God of hosts, in that day shall call to weeping, and to beating,*Planctum*. DR: “mourning.” to baldness, and to girding with sackcloth:
 
-> ^24:13^ For it shall be thus in the midst of the earth, in the midst of the people, as if a few olives, that remain, should be shaken out of the olive tree: or grapes, when the vintage is ended.
+> ^22:13^ And behold joy and gladness, killing calves, and slaying rams, eating flesh, and drinking wine: let us eat and drink; for tomorrow we shall die.
 
-> ^24:14^ These shall lift up their voice, and shall give praise: when the Lord shall be glorified, they shall whinny*Hinnient*. DR: “make a joyful noise.” from the sea.
+> ^22:14^ And the voice of the Lord of hosts was revealed in my ears: surely this iniquity shall not be forgiven you till you die, says the Lord God of hosts.
 
-> ^24:15^ Therefore glorify the Lord in instruction: the name of the Lord God of Israel in the islands of the sea.
+> ^22:15^ Thus says the Lord God of hosts: go, get you in to him that dwells in the tabernacle, to Sobna who is over the temple: and you shall say to him:
 
-> ^24:16^ From the ends of the earth we have heard praises, the glory of the just one. And I said: my secret to myself, my secret to myself, woe is me: the prevaricators have prevaricated, and with the prevarication of transgressors they have prevaricated.
+> ^22:16^ What do you here, or as if you were somebody here? For you have hewed you out a sepulcher here, you have hewed out a monument carefully in a high place, a dwelling for yourself in a rock.
 
-> ^24:17^ Fear, and the pit, and the snare are upon you, O you inhabitant of the earth.
+> ^22:17^ Behold the Lord will cause you to be carried away, as a cock is carried away, and he will lift you up as a garment.
 
-> ^24:18^ And it shall come to pass, that he that shall flee from the noise of the fear, shall fall into the pit: and he that shall rid himself out of the pit, shall be taken in the snare: for the flood-gates from on high are opened, and the foundations of the earth shall be shaken.
+> ^22:18^ He will crown you with a crown of tribulation, he will toss you like a ball into a large and spacious country: there shall you die, and there shall the chariot of your glory be, the shame of the house of your Lord.
 
-> ^24:19^ With breaking shall the earth be broken, with crushing shall the earth be crushed, with trembling shall the earth be moved.
+> ^22:19^ And I will drive you out from your station, and depose you from your ministry.
 
-> ^24:20^ With shaking shall the earth be shaken as a drunken man, and shall be removed as the tent of one night: and the iniquity thereof shall be heavy upon it, and it shall fall, and not rise again.
+> ^22:20^ And it shall come to pass in that day, that I will call my servant Eliacim the son of Helcias,
 
-> ^24:21^ And it shall come to pass, that in that day the Lord shall visit upon the host of heaven on high, and upon the kings of the earth, on the earth.
+> ^22:21^ And I will clothe him with your robe, and will strengthen him with your girdle, and will give your power into his hand: and he shall be as a father to the inhabitants of Jerusalem, and to the house of Judah.
 
-> ^24:22^ And they shall be gathered together as in the gathering of one bundle into the pit, and they shall be shut up there in prison: and after many days they shall be visited.
+> ^22:22^ And I will lay the key of the house of David upon his shoulder: and he shall open, and none shall shut: and he shall shut, and none shall open.
 
-> ^24:23^ And the moon shall blush, and the sun shall be ashamed, when the Lord of hosts shall reign in mount Zion, and in Jerusalem, and shall be glorified in the sight of his ancients.
+> ^22:23^ And I will fasten him as a peg in the place of the faithful,*Loco fidelium*. Vg.: *loco fideli*. DR: “in a sure place.” and he shall be for a throne of glory to the house of his father.
 
-> **565**. ***Behold the Lord***. In this part, he threatens the destruction of the entire earth, either that which was carried out in particular kingdoms and different regions, or that which is to come in the day of judgment, according to what is said above, ***this is the counsel, that I have purposed upon all the earth*** (Isa 14:26); however, some explain this as pertaining to the land of the Jews, or the land of Babylon, or the land of the Idumeans. And it is divided into two parts:
+> ^22:24^ And they shall hang upon him all the glory of his father’s house, diverse kinds of vessels, every little vessel, from the vessels of cups even to every instrument of music.
 
-in the first, he threatens against the inhabitants of the land;  
+> ^22:25^ In that day, says the Lord of hosts, shall the peg be removed, that was fastened in the sure place: and it shall be broken and shall fall: and that which hung thereon, shall perish, because the Lord has spoken it.
 
-in the second, against the rulers of the peoples: ***and it shall come to pass, that in that day*** (Isa 24:21).  
+> **526**. ***The burden of the valley***. Here he threatens against those who were joined to the people of God by right of authority and yet were plundering their goods.
 
-Concerning the first, he sets out three things:  
+And first, as to those to whom pertained authority in temporal affairs;  
 
-first, the destruction of men;  
+second, against those to whom pertained authority in spiritual affairs: ***thus says the Lord*** (Isa 22:15).  
 
-second, the removal of joys, where it says: ***the vintage has mourned*** (Isa 24:7);  
+**527**. Now, authority in temporal affairs pertains to kings, and therefore in the first part he threatens against Jerusalem, which was the seat of the kingdom; and concerning this, he does two things.  
 
-third, a multitude of dangers: ***the prevaricators*** (Isa 24:16).  
+First, the inscription is set out: ***the valley***, that is, Jerusalem, not because of the site of the place, which was on a mountain, but because of its baseness, for filth from every direction flowed together to it as to a valley, while they followed the act of the neighboring nations: *this is Jerusalem, I have set her in the midst of the nations* (Ezek 5:5); or it is called a valley because of the lowest part of the city, which was handed over to Sennacherib by Sobna. ***Vision***, because of the holiness of the temple: for in the temple visions came to the prophets from the Lord; or because of the prominence of the place, for it could be seen from distant places; or because of the name which Abraham gave to the place, as it says in Genesis 22:14: *and he called the name of that place, the Lord sees*.  
 
-**566**. Concerning the first, he does three things.  
+**528**. Second, the threat itself is set out. And concerning this, he does three things:  
 
-First, he threatens destruction: ***the Lord shall strip it***, purging it of inhabitants; ***lay waste***, depriving it of those who cultivate it; ***afflict***, with various punishments, ***the face***, that is, inhabitants on its surface; ***scatter abroad***, dividing them into various parts by captivity: *I have stripped you*Nudans spoliavi te*. Vg.: *nudans spoliavit eam*. DR: “he hath stripped it bare.” bare* (Joel 1:7).  
+first, he denounces the fault;  
 
-**567**. Second, the universality of destruction as to those punished, making equal those who differ in rank: ***as with the people*, *so with the priest***; in condition: ***as with the servant so with his master***; in possession of things: ***as with the buyer, so with the seller***: *the small and great are there, and the servant is free from his master* (Job 3:19). As to the diversity of punishments: ***with desolation***, setting out the loss as to immovable things: ***the earth shall be laid waste***; as to movable things: ***it shall be spoiled***: *with desolation is all the land made desolate* (Jer 12:11). As to the downfall of power, ***the earth mourned, and faded away***, using the past tense for the future, that is, it shall fade away, mourning for its weakness; and this is: ***is weakened***, that this may be said as to the common people; but as to the powerful, ***the world***, that is, leaders of the world, ***faded away***, above: ***I will visit the evils of the world*** (Isa 13:11). And he sets out the killing of men: ***and the earth is killed***: *the land was killed**Interfecta*. Vg.: *infecta*. DR: “polluted.” (Ps 105[106]:38).  
+second, he threatens punishment: ***your slain*** (Isa 22:2);  
 
-**568**. Third, he shows the equity of the punishment: ***because they have transgressed***, and he does this by comparing it to their fault; hence he does two things.  
+third, he shows the pertinacity of their obstinacy in this punishment: ***and you have gathered*** (Isa 22:9).  
 
-First, he sets out their fault: ***they have transgressed the laws***, written or natural; ***the ordinance***, of custom; ***the covenant***, of friendship, ***everlasting***, because it is caused by likeness of kind: *they have transgressed my covenant, and have violated my law* (Hos 8:1); *they have polluted the sanctuary, they have acted unjustly against the law* (Zeph 3:4).  
+Concerning the first, he does two things.  
 
-**569**. Second, he threatens a fourfold punishment because of this fault:  
+First, he denounces a twofold sin:  
 
-first, a divine curse: ***a curse***: *the land has mourned by reason of cursing* (Jer 23:10);  
+of idolatry: ***what ails you also, that you too***, who rejoiced in the special act of holy privilege, ***art gone up to the housetops***, to sacrifice to idols: *if you play the harlot, O Israel, at least let not Judah offend* (Hos 4:15).  
 
-second, divine desertion: ***they shall sin***, as if the Lord has abandoned them: *for this cause, God delivered them up to shameful affections* (Rom 1:26); *he that is filthy, let him be filthy still* (Rev 22:11);  
+And the sin of strife: ***full of clamor***, above: ***I looked that it should bring forth grapes, and it brought forth wild grapes*** (Isa 5:2).  
 
-third, they shall be made foolish: ***therefore they shall be mad***: *they were turned aside into vanities* (Ps 77[78]:57);  
+Second, to add to the weight of their sin, the twofold benefit of God is set out, namely,  
 
-fourth, reduction in numbers: ***few men shall be left***: *you shall remain few in number* (Deut 28:62).  
+the multitude of men: ***a populous city***: *how doth the city sit solitary that was full of people* (Lam 1:1);  
 
-**570**. ***The vintage has mourned***. Here he threatens the removal of joys as to the wicked;  
+and the fullness of joys: ***a joyous city***, formerly, in the time of Solomon because of its great prosperity: *with the joy of the whole earth is mount Zion founded* (Ps 47:3[48:2]).  
 
-and second, he sets out the joys of the good: ***as if a few olives*** (Isa 24:13).  
+**529**. ***Your slain***. Here he sets out the punishment.  
 
-Concerning the first, he does three things.  
+And first, he threatens the destruction of men as to the besieged who died by hunger: ***your slain are not slain by the sword***, but by hunger and thirst: *it was better with them that were slain by the sword, than with them that died with hunger* (Lam 4:9). As to fugitives, namely the princes who were taken and ***bound***, as it says in Jeremiah 52; ***all the princes***: *her princes are become like rams that find no pastures* (Lam 1:6); as to those taken in the city, who were similarly captured: ***all that were found, they are fled far off***, led into captivity to a far off land: *the Lord will bring you to a far off nation* (Deut 28:49).*Deducet Dominus in gentem longinquam*. Vg.: a*dducet Dominus super te gentem de longinquo*. DR: “the Lord will bring upon thee a nation from afar.”  
 
-First, he sets out the ending of joy which came from three things:  
+**530**. Second, he sets out the inconsolable compassion of the prophet: ***depart***, you who console the prophet, ***labor not***, in the manner of those who console: *who will give water to my head, and a fountain of tears to my eyes that I may weep for the slain of my people* (Jer 9:1).  
 
-either in the fertility of things, ***the vintage has mourned***, failing, that is, it was the cause of mourning, above: ***there shall be no rejoicing nor shouting in the vineyards*** (Isa 16:10).  
+**531**. Third, he sets out the manner and order of punishment: ***a day of slaughter***, and concerning this, he sets out three things.  
 
-Or in the playing of games: ***the mirth of timbrels has ceased***: *the voice of harpers, harping on their harps* (Rev 14:2).  
+First, the indignation of God: ***a day of slaughter*** is imminent; ***searching***, making it to be searched by the enemy; ***magnificent***, making the enemy magnificent: for they trusted in mountains and walls: *at that time, I will search Jerusalem with lamps, and will visit upon the men that are settled on their lees* (Zeph 1:12).  
 
-Or in the pleasures of feasts: ***they shall not drink wine with a song***, above: ***the harp, and the lyre, and, the timbrel and the pipe, and wine are in your feasts*** (Isa 5:12).  
+**532**. Second, he sets out the conquest by their enemies, ***and Elam***, a Persian city, from which came warriors with Nabuchodonosor, who held the monarchy of the East; ***the shield***, carried against Jerusalem, ***laid bare the wall***, on which it was hung to adorn the house: *prepare the shield and buckler* (Jer 46:3); or otherwise: ***the shield***, the power of Chaldea, ***laid bare the wall*** of the temple of the gold with which it was covered.  
 
-**571**. Second, he sets out the recompense of sadness: ***the drink shall be bitter***, for in their feasts, they will have sadness, against the pleasures of feasts: *I will turn your feasts into mourning* (Amos 8:10). ***The city of vanity is broken down***, against the vanity of games, *all things are vanity* (Ps 38:6[39:5]); *vanity of vanities, and all is vanity* (Eccl 1:2); ***the city***, of Babylon, any soul. ***There shall be a crying***, of those lamenting over the lack of wine, against fertility: *in all vineyards there shall be wailing* (Amos 5:17).  
+**533**. Third, he sets out the infliction of damage as to four things.  
 
-**572**. Third, he concludes the exchange: ***all mirth is forsaken***, exchanged for sadness: *woe to you that laugh: for you shall weep* (Luke 6:25); *laughter shall be mingled with sorrow* (Prov 14:13).  
+First, as to the destruction of their properties: ***your choice valleys shall be full of chariots*** of Babylon: *why glory in the valleys? Your valley has flowed away, O delicate daughter* (Jer 49:4).  
 
-**573**. ***As if***. Here he places the joys of the good.  
+Second, as to the taking of their cities: ***the horsemen shall place themselves in the gate***, lest anyone escape: *all the princes of Babylon came in, and sat in the middle gate* (Jer 39:3).  
 
-And first, he foretells the praise of those to come, whose salvation he foretells: ***as if a few***; few will be saved, in relation to the others, above: ***the fruit thereof that shall be left upon it, shall be as the shaking of the olive tree, two or three berries in the top of a bough*** (Isa 17:6). And he places their praise: ***these shall give praise*; *they shall whinny***, like horses to signify their great joy, below: ***the voice of your watchmen: they have lifted up their voice, they shall praise together*** (Isa 52:8).  
+Third, as to the profanation of holy things: ***and the covering***, that is, the holy things formerly hidden, which no one but the priest was allowed to see, ***of Judah shall be discovered***, that is, laid bare: *the gentiles have seen your shame* (Lam 1:8).*Viderunt gentes ignominiam tuam*. Vg.: *viderunt ignominiam ejus*. DR: “they have seen her shame.”  
 
-**574**. Second, he introduces praise in the present: ***therefore***.  
+Fourth, as to the destruction of their armory: ***you shall see in that day the armory***, that is, ***the house of the forest***, in which arms were hidden, overthrown; concerning this building, see 1 Kings 7. ***The city of David***, most strongly, or Jerusalem itself with a strong wall in many places: *the tower of David, which is built with bulwarks* (Song 4:3).  
 
-And first, he places the precept, ***glorify the Lord in instruction***, that is, in teaching others; another translation has: ***in praises***: *glorify the Lord as much as ever you can, for he will yet far exceed* (Sir 43:32[30]).  
+**534**. ***And you have gathered together the waters***. Here he sets out the pertinacity of their obstinacy.  
 
-Second, he designates the fulfillment of the precept: ***from the ends of the earth we have heard praises, the glory of the just one***, that is, Christ, below: ***behold the Lord has made it to be heard in the ends of the earth*** (Isa 62:11).  
+And first, he denounces the sin of obstinacy;  
 
-Third, the reward of those who fulfill it: ***and I said: my secret***, of their reward: *eye has not seen, nor ear heard: neither has it entered into the heart of man, what things God has prepared for them that love him* (1 Cor 2:9); ***to myself***, alone. ***Woe is me***, for I cannot tell of it to others: *I heard secret words which it is not granted to man to utter* (2 Cor 12:4). Of the punishments of the damned: ***woe is me***, such great punishments I see; and thus this belongs with the following part.  
+second, he sets out the divine sentence against them: ***and the voice of the Lord of hosts was revealed*** (Isa 22:14).  
 
-**575**. ***The prevaricators***. Here he threatens a multitude of dangers, and concerning this, he does two things.  
+Their pertinacity is denounced as to two things.  
 
-First, he denounces the diversity of their sins: ***prevaricators***, by omission, ***transgressors***, by commission, *I have accounted all the sinners of the earth prevaricators* (Ps 118[119]:119).  
+First, as to divine help, which they did not invoke, trusting in their own men and clever devices: ***you have gathered together***, in one place within the city, through a hidden channel, ***the waters of the lower pool***, which had waters flowing from the earth that nevertheless could be hindered by enemies. ***And have numbered the houses of Jerusalem***, that water may be dispensed by number and measure; ***and have broken down*** houses which were next to the wall, so that they wouldn’t impede the defenders. ***And you made a lake***, of the lower pool, to flow ***between the two walls***, which encircled the city, and ***the water***, namely, you have restored; ***nor regarded him***, namely, God, ***that wrought it***, the water: *they have not called upon God**Deum*. Vg.: *Dominum*. DR: “the Lord.” (Ps 13:5[14:4]).  
 
-Second, he threatens a multitude of dangers.  
+**535**. Second, as to divine counsel, which they held in contempt: ***and he shall call***. And concerning this, he sets out three things.  
 
-And first, he sets out this multitude: ***fear***. He speaks in likeness to those who flee pursuers because of fear, above: ***they shall fall, and shall be broken in pieces*** (Isa 8:15); *a voice of terror* (Jer 30:5).  
+First, the counsel itself: ***to weeping***, of the eyes; ***to beating***, of the hands; ***to baldness***, according to the custom of the ancients, who did these things in sadness: *be converted to me with all your heart, in fasting, and in weeping, and beating**Planctum*. DR: “mourning.” (Joel 2:12).  
 
-**576**. Second, the impossibility of escaping: ***and it shall come to pass, that he that shall flee from the noise of the fear, shall fall into the pit***: as if to say, he will decide upon Scylla, wanting to avoid Charybdis: *that which the palmerworm has left, the bruchus has eaten* (Joel 1:4). And he assigns the cause: for tribulation will come to them from both heaven and from earth, and this is ***the flood-gates***, that is, hidden channels through which water flows: *the floodgates of heaven were opened* (Gen 7:11).  
+Second, he sets out their contempt for this counsel: ***and behold joy***, above: ***the harp, and the lyre are in your feasts*** (Isa 5:12).  
 
-**577**. Third, he shows the impossibility of reparation under a threefold similitude, namely,  
+Third, the intention to hold it in contempt: ***let us eat and drink***, 1 Corinthians 15:32, Wisdom 2:5: *our time is as the passing of a shadow*.  
 
-of divided things, which are not restored: ***breaking***, as to division into large parts, ***crushing***, as to division into small parts: *behold the eyes of the Lord God are upon the sinful kingdom, and I will crush*Conteram*. DR: “destroy.” it from the face of the earth* (Amos 9:8);  
+**536**. ***And the voice of the Lord of hosts was revealed***. Here the sentence is set out. And it may be read as in the person of the Lord: this blasphemy of yours ***was revealed in my ears***, that is, I heard it; ***surely this iniquity shall not be forgiven***, as if to say: should you not believe, above: ***therefore forgive them not*** (Isa 2:9); or it may be read in the person of the prophet: this voice of the Lord ***was revealed in my ears***. And all these things that have been said pertain to the captivity carried out at the command of Nabuchodonosor.  
 
-and through the similitude of shaken things, which are not made stable: ***with trembling shall the earth be moved***, from place to place, ***shaken***, as if trembling in its own place, ***as a drunken man***, above: ***they have caused Egypt to err in all its works, as a drunken man staggers and vomits*** (Isa 19:14);  
+**537**. ***Thus says the Lord God of hosts***. Here the threat against those to whom pertained authority in spiritual affairs is set out,  
 
-and through the similitude of a traveler’s tent, which is not fixed firmly in the same place: ***as the tent***, below: ***my generation is at an end, and it is rolled away from me, as a shepherd’s tent*** (Isa 38:12). And he assigns the cause: ***and the iniquity thereof shall be heavy upon it***, like a heavy weight, so that it does not rise again: *what is heavier than lead?* (Sir 22:7[14]); *sin sits on a talent* (Zech 5:7); *my iniquities are as a heavy burden are become heavy upon me* (Ps 37:5[38:4]).  
+and first, against the priest at that time;  
 
-**578**. ***And it shall come to pass***. Here he threatens against the rulers of the people; and concerning this he sets out three things.  
+second, against the entire priestly order: ***in that day, says the Lord of hosts*** (Isa 22:25).  
 
-First, he sets out their punishment: ***in that day***, of judgment; ***the Lord shall visit upon the host of heaven on high***, that is, the demons, ***and upon the kings of the earth***, these same demons: *now shall the prince of this world be cast out* (John 12:31); or also the wicked kings: ***and they shall be gathered together***, at the same time in hell: *which was prepared for the devil and his angels* (Matt 25:41); ***as in the gathering of one bundle***: *bind it into bundles to burn* (Matt 13:30), that they may be alike in punishment who were alike in sin: *I saw the beast and the kings of the earth and their armies, gathered together* (Rev 19:19). Or, ***in that day***, namely, the day of the destruction of particular kingdoms; ***the host of heaven on high***, the idols, namely, of the sun and moon and the other stars: *he adored all the host of heaven* (2 Kgs 21:3); ***and they shall be gathered together***, through destruction, below: ***all the host of the heavens shall pine away*** (Isa 34:4).  
+Concerning the first, he does two things:  
 
-**579**. Second, he designates the measure of the punishment as to time: ***and after many days they shall be visited***, for after however much time of torment, they shall be punished in eternity: *go, you cursed, into everlasting fire* (Matt 25:41); or in the day of judgment, that, when the judgment has been executed, they might return to hell immediately; or, according to another interpretation: they shall be consoled, for after the storm, he makes a calm for all (Tob 3:22).  
+first, he foretells the deposition of him who, shaken by fear, handed the city over to Sennacherib, that is, the lower part of the city;  
 
-**580**. Third, the glory of him who punishes,  
+second, the substitution of another: ***and it shall come to pass in that day*** (Isa 22:20).  
 
-and first, of the judge: ***and the moon shall blush***, that is, its splendor shall be thought nothing in comparison to the splendor of the body of Christ: *the sun shall be turned into darkness, and the moon into blood: before the great and dreadful day of the Lord doth come* (Joel 2:31); or, the worshippers of the sun and moon.  
+**538**. Concerning the first, he does three things.  
 
-Second, of the judge’s assessors: ***when the Lord of hosts shall reign . . . and shall be glorified in the sight of his ancients***, above: ***the Lord will enter into judgment with the senatorsSenatoribus*. Vg.: *senibus*. DR: “ancients.” (Isa 3:14).  
+First, he describes the person from his office: ***him that dwells in the tabernacle***; for it belonged to the priests to keep watch in the tabernacle, as it says in Numbers 1:53; ***who is over***, the highest over ten.  
 
-**581**. Note on the words, ***the drink shall be bitter*** (Isa 24:9), that the drink of sin is bitter:  
+**539**. Second, he denounces a threefold sin: of unworthy dwelling: ***what dost you here***, in my house, unworthy of such a dwelling: *what is the meaning that my beloved has wrought much wickedness in my house?* (Jer 11:15); of proud presumption concerning himself: ***or as if you wert somebody here***, you think of yourself as if you were of some value, when you are nothing: *O shepherd, and idol* (Zech 11:17); of building an elaborate tomb: ***you have hewed out***, here in Jerusalem next to the temple, ***a monument***, that is, an epitaph, ***in a high place***, that is, in the highest place of the tomb; or literally, he had set up his tomb in a high place as his monument, as in 1 Maccabees 13:25–30.  
 
-first, because of the remorse of conscience: *her end is bitter* (Prov 5:4);  
+**540**. Third, he threatens a threefold punishment: ***behold the Lord***.  
 
-second, because of the fear of death: *O death, how bitter is the remembrance of you* (Sir 41:1);  
+First, of subjugation: ***as a cock***, which raises chicks like a hen, being castrated, called a capon, ***is carried away***, bound, and without struggle; ***and he will lift you up and as a garment***, easily lifted over the shoulder: *you Phassur, and all that dwell in your house, shall go into captivity, and you shall go to Babylon, and there you shall die, and there you shall be buried, you and all your friends* (Jer 20:6).  
 
-third, because of the lack of divine sweetness: *know you, and see that it is an evil and a bitter thing for you, to have left the Lord your God* (Jer 2:19);  
+Second, of confusion: ***he will crown you with a crown of tribulation***, that is, in place of the crown which you used in pontifical worship, you will have tribulation; ***like a ball***, which finds no high station; ***the chariot of your glory***, which bore you gloriously, is turned into your confusion; ***the shame of the house of your Lord***, that is, the glory which you had in the house of the Lord, is turned for you into ignominy: *I will change their glory into shame* (Hos 4:7).  
 
-fourth, because of the mourning of penance, below: ***I will recount to you all my years in the bitterness of my soul*** (Isa 38:15).  
+Third, the punishment of deposition, ***and I will drive you out from your station***: *so Solomon cast out Abiathar from being the priest of the Lord* (1 Kgs 2:27).  
 
-**582**. Note on the word, ***secret*** (Isa 24:16), that the mighty works of God are secret:  
+**541**. ***And it shall come to pass in that day***. Here he sets out the substitution of another, and concerning this he sets out three things.  
 
-first, because of their greatness: *all men take not this word* (Matt 19:11); *if I have spoken to you earthly things, and you believe not: how will you believe, if I shall speak to you heavenly things?* (John 3:12);  
+His election: ***I will call***, one of the twenty-four mentioned in 1 Chronicles 25; *I will raise me up a faithful priest, who shall do according to my heart* (1 Sam 2:35).  
 
-second, because of their dignity: *to you it is given to know the mysteries of the kingdom of heaven* (Matt 13:11), but to others, in parables;  
+Second, his consecration: ***and I will clothe him***, for they were consecrated with pontifical garments, as is evident from Leviticus 18,Better, Leviticus 21:10. concerning these garments, and Exodus 28.  
 
-third, because of the unsuitableness of others: *give not that which is holy to dogs* (Matt 7:6).  
+Third, he confers jurisdiction on him: ***and I will give your power into his hand***.  
 
-**583**. Note on the words, ***and it shall come to pass, that in that day the Lord shall visit*** (Isa 24:21), that the visitation of the Lord is manifold:  
+**542**. And first, as to the power which he had among the people, he sets out power: ***and your power***, namely, ***I will give***: *may his days be few: and his bishopric let another take* (Ps 108[109]:8); ***and he shall be as a father***: *I will give you pastors according to my own heart, and they shall feed you with knowledge and doctrine* (Jer 3:15).  
 
-first, of condemnation: *in the time of their visitation they shall fall* (Jer 8:12);  
+**543**. Second, as to the power which he had regarding the temple: ***and I will lay the key***, which was of gold, ***of the house of David***, that is, of the temple, for the building of which David prepared the materials, as is evident from 1 Chronicles 29, ***upon his shoulder***, that is, his government, or because the key was used as a kind of adornment; ***he shall open***, for it was allowed to him to enter into the holy of holies once per year, as it says in Hebrews 9:7.  
 
-second, of correction: *I will visit their iniquities with a rod* (Ps 88:33[89:32]);  
+**544**. Third, as to the power which he had over the whole order of ministers: ***and I will fasten him as a peg***, the diminutive form of *palum* (stake): for as various vessels are hung on a certain stake, so various offices, which had use of various vessels in the ministries of the house of the Lord, pertained to his care; ***in the place of the faithful***, namely, the temple. Concerning this power, see Numbers 2 and 24.  
 
-third, of consolation: *the Orient from on high has visited us* (Luke 1:78).
+**545**. ***In that day***. Here he sets out the threat against the whole priesthood, which was destroyed in the time of Sedecias, when Nabuchodonosor took them captive; for what was said above of Sobna pertains to the time of Sennacherib. And here the priesthood itself, which ceased in the time of captivity, is called a peg: *the children of Israel shall sit many days without king, and without prince, and without sacrifice, and without altar, and without ephod, and without theraphim* (Hos 3:4).  
+
+**546**. Note on the words, ***him that dwells in the tabernacle*** (Isa 22:15), that the tabernacle is manifold:  
+
+first, of carnal concupiscence, which belongs to swine: *we have an altar whereof they have no power to eat who serve the tabernacle* (Heb 13:10);  
+
+second, of temporal and natural life, which belongs to men: *for I am assured that the laying away of this my tabernacle is at hand* (2 Pet 1:14);  
+
+third, of the Church militant, which belongs to warriors, above: ***there shall be a tabernacle for a shade in the daytime from the heat*** (Isa 4:6);  
+
+fourth, of contemplative wisdom, which belongs to those who rest: *we will go into his tabernacle: we will adore in the place where his feet stood* (Ps 131[132]:7);  
+
+fifth, of eternal vision or our heavenly homeland, which belongs to all the blessed, below: ***your eyes shall see Jerusalem, a rich habitation, a tabernacle that cannot be removed*** (Isa 33:20).

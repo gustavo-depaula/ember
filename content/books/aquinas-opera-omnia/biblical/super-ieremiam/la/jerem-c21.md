@@ -1,67 +1,85 @@
-# C. 21 - Threat against the kings
+# C. 19 - Analogy of the broken pot
 
-***^21:1^ Verbum quod factum est ad Jeremiam a Domino, quando misit ad eum rex Sedecias Phassur filium Melchiae, et Sophoniam filium Maasiae sacerdotem, dicens:***
+***^19:1^ Haec dicit Dominus: vade, et accipe lagunculam figuli testeam a senioribus populi, et a senioribus sacerdotum,***
 
-> ^21:2^ interroga et ora pro nobis Dominum, quia Nabuchodonosor rex Babylonis praeliatur adversum nos: si forte faciat Dominus nobiscum secundum omnia mirabilia sua, et recedat a nobis.
+> ^19:2^ et egredere ad vallem filii Ennon, quae est juxta introitum portae fictilis; et praedicabis ibi verba quae ego loquar ad te,
 
-> ^21:3^ Et dixit Jeremias ad eos: sic dicetis Sedeciae:
+> ^19:3^ et dices: audite verbum Domini, reges Juda, et habitatores Jerusalem. Haec dicit Dominus exercituum Deus Israel: ecce ego inducam afflictionem super locum istum, ita ut omnis qui audierit illam, tinniant aures ejus,
 
-> ^21:4^ haec dicit Dominus Deus Israel: ecce ego convertam vasa belli quae in manibus vestris sunt, et quibus vos pugnatis adversum regem Babylonis et Chaldaeos qui obsident in circuitu murorum, et congregabo ea in medio civitatis hujus;
+> ^19:4^ eo quod dereliquerint me, et alienum fecerint locum istum: et libaverunt in eo diis alienis, quos nescierunt ipsi, et patres eorum, et reges Juda: et repleverunt locum istum sanguine innocentum,
 
-> ^21:5^ et debellabo ego vos in manu extenta, et in brachio forti, et in furore, in indignatione, et in ira grandi,
+> ^19:5^ et aedificaverunt excelsa Baalim ad comburendos filios suos igni in holocaustum Baalim: quae non praecepi, nec locutus sum, nec ascenderunt in cor meum.
 
-> ^21:6a^ et percutiam habitatores civitatis hujus.
+> ^19:6^ Propterea ecce dies veniunt, dicit Dominus, et non vocabitur amplius locus iste Tophet, et vallis filii Ennon, sed vallis occisionis.
 
-> **113**. Hic ponitur comminatio contra reges, qui obtinent summum gradum in potestate saeculari:
+> ^19:7^ Et dissipabo consilium Juda et Jerusalem in loco isto, et subvertam eos gladio in conspectu inimicorum suorum, et in manu quaerentium animas eorum; et dabo cadavera eorum escam volatilibus caeli,
 
-et primo secundum quod reges puniuntur per poenam populi;  
+> ^19:8^ et ponam civitatem hanc in stuporem, et in sibilum. Omnis qui praeterierit per eam obstupescet, et sibilabit super universa plaga ejus.
 
-secundo secundum quod puniuntur in propria persona, 22 cap.: ***haec dicit Dominus*** etc.  
+> ^19:9^ Et cibabo eos carnibus filiorum suorum, et carnibus filiarum suarum; et unusquisque carnem amici sui comedet in obsidione, et in angustia in qua concludent eos inimici eorum, et qui quaerunt animas eorum.
+
+> **107**. Hic comminatur consummatam poenam:
+
+et primo designat praedicationis locum: ***ad vallem filiorum Annon, quae est juxta introitum portae fictilis***, ubi figuli habitabant; ***et praedicabis ibi verba quae ego loquor ad te***. Ezech. 3: *audies de ore meo verbum, et annuntiabis eis ex me*.  
+
+Secundo ponit praedicationis verbum:  
+
+et primo in loco a Deo praefinito;  
+
+secundo in templo, ibi, ***venit autem Jeremias de Tophet***.  
 
 Circa primum duo.  
 
-Primo ponitur regis interrogatio vel petitio: ***interroga***; quasi dicat, quaere divinum responsum, ***et ora pro nobis***. Hic Phassur non est idem qui supra, qui ex alio patre natus. Isa. 37: *dies tribulationis et correctionis, et blasphemiae dies haec: quia venerunt filii usque ad partum, et virtus non est pariendi*. Et infra (ibid.): *leva ergo orationem pro reliquiis quae repertae sunt*.  
+Primo praedicit eam verbo;  
 
-Secundo ponitur prophetae responsio: ***et dixit Jeremias***.  
+secundo praesignat eam facto ibi, ***et conteres lagunculam***.  
 
-Et primo comminatur poenam quantum ad tempus ante civitatis captionem, contra tria in quibus confidebant: scilicet in armorum munitione: ***ecce convertam***; quasi dicat: arma quae contra hostes assumpsistis, in vosipsos convertentur, quia contra vos invicem pugnabitis. Psalm. 7: *convertetur dolor ejus in caput ejus, et in verticem ipsius iniquitas ejus descendet*. Vel ***convertentur***, quasi sine fructu. Confidebant etiam in murorum fortitudine; contra quod dicit: ***et Chaldaeos, qui obsident in circuitu murorum***; quasi dicat, non impedientibus muris. Thren. 4: *non crediderunt reges terrae, et universi habitatores orbis, quoniam ingrederetur hostis, et inimicus per portas Jerusalem*.  
+Circa primum  
 
-Confidebant etiam in divina protectione; contra quod dicit: ***et debellabo ego vos in manu extenta***, idest potentia mea ad vindictam parata, ***forti***, cui resisti non potest, ***furore***, quantum ad pessimos, ***indignatione***, quantum ad minus peccantes, ***in ira grandi***, contra mediocres.  
+primo comminatur poenam in generali, petens audientiam: ***dices, audite***. Ps. 2: *et nunc reges intelligite, erudimini qui judicatis terram*. Praedicens poenam: ***haec dicit Dominus . . . tinnient***, quasi ex commotione cordis prae stupore, sicut ex commotione magni soni. 1 Reg. 3: *ecce ego faciam verbum in Israel, quod quicumque audierit, tinnient ambae aures ejus*. 4 Reg. 21: *ecce ego inducam mala super Jerusalem, et Judam, ut quicumque audierit, tinniant ambae aures ejus*.  
+
+Et assignans causam, culpam populi: ***eo quod dereliquerunt me***. Isa. 1: *dereliquerunt Dominum, blasphemaverunt Sanctum Israel, abalienati sunt retrorsum*. Et culpam regis quantum ad simplex homicidium: ***et reges Juda***. 4 Reg. 21: *sanguinem innoxium fudit Manasses multum nimis, donec impleretur Jerusalem usque ad os*.  
+
+Et quantum ad homicidium junctum sacrilegio. ***Et aedificaverunt excelsa Baalim***. Ps. 105: *effuderunt sanguinem innocentem, sanguinem filiorum suorum, et filiarum suarum, quas sacrificaverunt sculptilibus Chanaam*.  
+
+Secundo ponit poenam in speciali:  
+
+et primo quantum ad mala, quae passi sunt in urbis captione, ponens interfectionem hominum: ***propterea ecce dies venient***; ubi designat occisorum multitudinem, ***et non vocabitur amplius locus iste Tophet***. Supra 7 idem.  
+
+Consilii dissipationem: ***et dissipabo consilium Juda***, quod debellare Nabuchodonosor cogitaverat, ***in loco isto***, quia ibi occisi sunt: Job 5: *apprehendit sapientes in astutia sua, et consilium pravorum dissipat*. Et occisionis speciem: ***et subvertam eos gladio***. Ezech. 21: *hic est gladius occisionis magnae, qui obstupescere eos fecit, et corde tabescere, et multiplicat ruinas*. Et ponens abjectionem cadaverum: ***et dabo cadavera eorum escam volatilibus caeli***. Ps. 78: *posuerunt mortalia servorum tuorum escas volatilibus caeli, carnes sanctorum tuorum bestiis terrae*.  
+
+Et ponens destructionem urbium: ***et ponam civitatem hanc in stuporem***. Supra 18, idem.  
+
+Secundo poenam quam passi sunt in obsidione: ***et cibabo eos carnibus filiorum suorum***. Deute. 28: *comedes fructum uteri tui, et carnes filiorum tuorum, et filiarum tuarum, quas dederit tibi Dominus Deus tuus, in angustia, et vastitate, qua opprimet te hostis tuus*. Thren. 4: *manus mulierum misericordium coxerunt filios suos, facti sunt cibus earum in contritione filiae populi mei*.  
 
 Lectio 2  
 
-***^21:6b^ Homines et bestiae pestilentia magna morientur.***
+***^19:10^ Et conteres lagunculam in oculis virorum qui ibunt tecum,***
 
-> ^21:7^ Et post hoc ait Dominus: dabo Sedeciam regem Juda, et servos ejus, et populum ejus, et qui derelicti sunt in civitate hac a peste et gladio et fame, in manu Nabuchodonosor regis Babylonis, et in manu inimicorum eorum, et in manu quaerentium animam eorum: et percutiet eos in ore gladii, et non flectetur, neque parcet, neque miserebitur.
+> ^19:11^ et dices ad eos. Haec dicit Dominus exercituum: sic conteram populum istum, et civitatem istam, sicut conteritur vas figuli quod non potest ultra instaurari. Et in Tophet sepelientur, eo quod non sit alius locus ad sepeliendum.
 
-> ^21:8^ Et ad populum hunc dices: haec dicit Dominus Deus: ecce ego do coram vobis viam vitae, et viam mortis.
+> ^19:12^ Sic faciam loco huic, ait Dominus, et habitatoribus ejus; et ponam civitatem istam sicut Tophet.
 
-> ^21:9^ Qui habitaverit in urbe hac, morietur gladio et fame peste; qui autem egressus fuerit, et transfugerit ad Chaldaeos, qui obsident vos, vivet, et erit ei anima sua quasi spolium.
+> ^19:13^ Et erunt domus Jerusalem, et domus regum Juda, sicut locus Tophet, immundae; omnes domus in quarum domatibus sacrificaverunt omni militiae caeli, et libaverunt libamina diis alienis.
 
-> ^21:10^ Posui enim faciem meam super civitatem hanc in malum, et non in bonum, ait Dominus. In manu regis Babylonis dabitur, et exuret eam igni.
+> **108**. Hic designat praedictam poenam facto:
 
-> ^21:11^ Et domui regis Juda: audite verbum Domini,
+et primo ponit factum: ***conteres lagunculam***. Isa. 10: *ecce dominator Dominus exercituum confringet lagunculam in terrore, et excelsi statura succidentur, et sublimes humiliabuntur*.  
 
-> ^21:12^ domus David. Haec dicit Dominus: judicate mane judicium, et eruite vi oppressum de manu calumniantis, ne forte egrediatur ut ignis indignatio mea, et succendatur, et non sit qui extinguat propter malitiam studiorum vestrorum.
+Secundo facti significatum: ***et dices ad eos***.  
 
-> ^21:13^ Ecce ego ad te habitatricem vallis solidae atque campestris, ait Dominus; qui dicitis: quis percutiet nos, et quis ingredietur domos nostras?
+Primo quantum ad populi occisionem: ***sic conteram***. Isa. 30: *comminuetur sicut conteritur lagena figuli, contritione pervalida*.  
 
-> ^21:14^ Et visitabo super vos juxta fructum studiorum vestrorum, dicit Dominus, et succendam ignem in saltu ejus, et devorabit omnia in circuitu ejus.
+Secundo quantum ad sepulturae locum: ***et in Tophet sepelientur***, propter occisorum multitudinem. Supra 7, idem.  
 
-> **114**. Hic tangit modum impugnationis. Ezech. 20: *in manu valida, et in brachio extento, et in furore effuso regnabo super vos, et adducam vos in desertum populorum, et judicabor vobiscum ibi, facie ad faciem*.
+Tertio quantum ad urbis destructionem, ***sic faciam***, sicut Tophet, immundam, et sine domibus.  
 
-Et quantum ad tempus post urbis captionem: ***et post hoc***, comminans poenam, ***dabo Sedeciam***. Thren. 1: *dedit me Dominus in manu de qua non potero fugere*. Et excludit misericordiam: ***et non flectetur***, precibus, vel muneribus, ***neque parcet***, propter pristinam amicitiam, ***neque miserebitur***, ex compassione miseriae. Proverb. 6: *zelus et furor viri non parcet in die vindictae, nec acquiescet cujusque precibus, nec suscipiet pro redemptione dona plurima*. Et hoc quia pactum non servavit. Ezech. 17: *qui dissolvit pactum, numquid effugiet?*  
+***In quarum domatibus***, idest in summitatibus domorum, quae planae erant, et in eis idola colebant. Isa. 22: *ascendisti et tu omnis in tecta clamoris plena, urbs frequens, civitas exultans*.  
 
-Secundo proponit eis salutis viam quantum ad populum: ***et ad populum hunc dices***. Et primo dat eis eligendi libertatem: ***ecce ego do coram vobis viam vitae, et viam mortis***. Eccl. 15: *ante hominem vita et mors, bonum et malum: quod placuerit ei, dabitur illi*.  
+Lectio 3  
 
-Ponit disjunctionem: ***qui habitaverit in urbe hac morietur** . . . **qui autem egressus fuerit** . . . **vivet***. Isa. 51: *egredimini de medio ejus, populus meus, ut salvet unusquisque animam suam ab ira furoris Domini*.  
+***^19:14^ Venit autem Jeremias de Tophet, quo miserat eum Dominus ad prophetandum, et stetit in atrio domus Domini, et dixit ad omnem populum:***
 
-Et assignat rationem: ***posui enim faciem meam super civitatem hanc***. Supra 1: ***ollam succensam ego video***.  
+> ^19:15^ haec dicit Dominus exercituum, Deus Israel: ecce ego inducam super civitatem hanc, et super omnes urbes ejus, universa mala quae locutus sum adversum eam: quoniam induraverunt cervicem suam, ut non audirent sermones meos.
 
-Et ad regem: ***et domui regis Juda***, scilicet dices, ponens consilium: ***judicate mane***. Psal. 81: *eripite pauperem, et egenum de manu peccatoris liberate*.  
-
-Et ponit imminens periculum: ***ne forte egrediatur ut ignis indignatio mea***. Deut. 32: *ignis succensus est in furore meo, et ardebit usque ad inferni novissima*.  
-
-Tertio excludit falsam fiduciam, ponens confidentiae causam: ***ecce ego ad te***, idest arcem Jerusalem, ***habitatricem vallis solidae, atque campestris***: erat enim Jerusalem in latere montis versus vallem Arnon: ergo pars erat in valle. Vel dicitur despective, sicut Isa. 22: *onus vallis visionis* etc. Et etiam ex monte habebat soliditatem, fortitudinem et firmitatem; et ex fructiferis vallibus habebat fertilitatem. Et superbam audaciam: ***qui dicitis; quis percutiet nos?*** Abdias 2: *qui dicis in corde tuo: quis detrahet me in terram?*  
-
-Et comminatur poenam: ***et visitabo, et succendam ignem in saltu***, infructuosum populum, Joelis 1: *ignis comedit speciosa deserti, et flamma succendit omnia ligna regionis*.
+> **109**. Postquam dixerat praedicta in valle Tophet ad populum, revertitur ad templum, ut annuntiaret ea populo qui ipsum sequi noluit. Et planum est. Act. 7: *dura cervice, et incircumcisis cordibus, et auribus, vos semper Spiritui Sancto restitistis; sicut et patres vestris, ita et vos*.

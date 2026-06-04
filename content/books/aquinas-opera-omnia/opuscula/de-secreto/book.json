@@ -31,56 +31,49 @@
   ],
   "toc": [
     {
-      "id": "desecreto-01",
-      "title": {
-        "en-US": "DeSecreto",
-        "la": "DeSecreto"
-      }
-    },
-    {
-      "id": "desecreto-prooemium",
+      "id": "desecreto-c01",
       "title": {
         "en-US": "Prooemium",
         "la": "Prooemium"
       }
     },
     {
-      "id": "desecreto-q1",
+      "id": "desecreto-c02",
       "title": {
         "en-US": "Quaestio 1",
         "la": "Quaestio 1"
       }
     },
     {
-      "id": "desecreto-q2",
+      "id": "desecreto-c03",
       "title": {
         "en-US": "Quaestio 2",
         "la": "Quaestio 2"
       }
     },
     {
-      "id": "desecreto-q3",
+      "id": "desecreto-c04",
       "title": {
         "en-US": "Quaestio 3",
         "la": "Quaestio 3"
       }
     },
     {
-      "id": "desecreto-q4",
+      "id": "desecreto-c05",
       "title": {
         "en-US": "Quaestio 4",
         "la": "Quaestio 4"
       }
     },
     {
-      "id": "desecreto-q5",
+      "id": "desecreto-c06",
       "title": {
         "en-US": "Quaestio 5",
         "la": "Quaestio 5"
       }
     },
     {
-      "id": "desecreto-q6",
+      "id": "desecreto-c07",
       "title": {
         "en-US": "Quaestio 6",
         "la": "Quaestio 6"

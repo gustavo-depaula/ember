@@ -1,395 +1,391 @@
-# C. 14 - Avoidance of Scandal
+# C. 13 - Obedience and Love
 
 ***Lectio 1***
 
-***Dominus solus iudex est***
+***Obedientia virtutis hierarchiae***
 
-***^14:1^ Infirmum autem in fide assumite, non in disceptationibus cogitationum. [n. 1081]***
+***^13:1^ Omnis anima potestatibus sublimioribus subdita sit: non est enim potestas nisi a Deo: quae autem sunt, a Deo ordinatae sunt. [n. 1016]***
 
-> ^14:2^ Alius enim credit se manducare omnia: qui autem infirmus est, olus manducet. [n. 1083]
+> ^13:2^ Itaque qui resistit potestati, Dei ordinationi resistit. Qui autem resistunt, ipsi sibi damnationem acquirunt: [n. 1025]
 
-> ^14:3^ Is qui manducat, non manducantem non spernat: et qui non manducat, manducantem non judicet: Deus enim illum assumpsit. [n. 1089]
+> ^13:3^ nam principes non sunt timori boni operis, sed mali. Vis autem non timere potestatem? Bonum fac: et habebis laudem ex illa: [n. 1029]
 
-> ^14:4^ Tu quis es, qui judicas alienum servum? [n. 1092] Domino suo stat, aut cadit: stabit autem: potens est enim Deus statuere illum. [n. 1094]
+> ^13:4^ Dei enim minister est tibi in bonum. Si autem malum feceris, time: non enim sine causa gladium portat. Dei enim minister est: vindex in iram ei qui malum agit. [n. 1034]
 
-> ^14:5^ Nam alius judicat diem inter diem: alius autem judicat omnem diem: unusquisque in suo sensu abundet. [n. 1097]
+> ^13:5^ Ideo necessitate subditi estote non solum propter iram, sed etiam propter conscientiam. [n. 1036]
 
-> ^14:6^ Qui sapit diem, Domino sapit, et qui manducat, Domino manducat: gratias enim agit Deo. Et qui non manducat, Domino non manducat, et gratias agit Deo. [n. 1099]
+> ^13:6^ Ideo enim et tributa praestatis: ministri enim Dei sunt, in hoc ipsum servientes. [n. 1037]
 
-> ^14:7^ Nemo enim nostrum sibi vivit, et nemo sibi moritur. [n. 1101]
+> ^13:7^ Reddite ergo omnibus debita: cui tribulatum, tributum: cui vectigal, vectigal: cui timorem, timorem: cui honorem, honorem. [n. 1042]
 
-> ^14:8^ Sive enim vivemus, Domino vivimus: sive morimur, Domino morimur. Sive ergo vivimus, sive morimur, Domini sumus. [n. 1103]
+> **1016**. Postquam Apostolus ostendit qualiter se debeat homo exhibere Deo, utendo donis gratiae eius hic ostendit quomodo debeat se exhibere proximo:
 
-> ^14:9^ In hoc enim Christus mortuus est, et resurrexit: ut et mortuorum et vivorum dominetur. [n. 1104]
+et primo quantum ad superiores;  
 
-> ^14:10^ Tu autem quid judicas fratrem tuum? aut tu quare spernis fratrem tuum? omnes enim stabimus ante tribunal Christi. [n. 1105]
-
-> ^14:11^ Scriptum est enim: *Vivo ego, dicit Dominus, quoniam mihi flectetur omne genu: et omnis lingua confitebitur Deo*. [n. 1106]
-
-> ^14:12^ Itaque unusquisque nostrum pro se rationem reddet Deo. [n. 1112]
-
-> ^14:13^ Non ergo amplius invicem judicemus. [n. 1114]
-
-> **1081**. Postquam Apostolus ostendit quomodo aliquis debeat perfectus fieri, hic ostendit quomodo perfecti debeant se habere ad imperfectos.
-
-Et primo ostendit quod non debeant eos scandalizare vel iudicare;  
-
-secundo ostendit quod debent eos sustentare, cap. XV ibi ***debemus autem nos firmiores***, et cetera.  
+secundo quantum ad omnes, ibi ***nemini quicquam debeatis***, et cetera.  
 
 Circa primum duo facit.  
 
-Primo prohibet inordinata iudicia;  
+Primo inducit homines ad subiectionem quam debent superioribus;  
 
-secundo prohibet infirmorum scandala, ibi ***sed hoc iudicate magis***, et cetera.  
+secundo ad exhibendum subiectionis signum, ibi ***ideo et tributa praestatis***, et cetera.  
 
 Circa primum tria facit.  
 
-Primo proponit admonitionem;  
+Primo proponit documentum;  
 
-secundo exponit eam, ibi ***alius enim*** etc.;  
+secundo rationem assignat, ibi ***non enim est potestas***, etc.;  
 
-tertio rationem assignat, ibi ***Deus enim illum*** et cetera.  
+tertio infert conclusionem intentam, ibi ***ideoque***, et cetera.  
 
-**1082**. Circa primum considerandum est quod in primitiva Ecclesia aliqui ex Iudaeis conversi ad Christum, credebant legalia cum Evangelio esse servanda, ut patet Act. XV, 1 s. Et hos Apostolus vocat infirmos in fide Christi, quasi nondum perfecte credentes quod fides Christi sufficiat ad salutem. Perfectos autem vel firmos in fide vocat eos qui fidem Christi sine legalibus credebant esse servandam. De utrisque tamen erant aliqui Romae inter fideles Christi.  
+**1017**. Circa primum considerandum est quod quidam fideles in primitiva Ecclesia dicebant terrenis potestatibus se subiici non debere propter libertatem, quam consecuti erant a Christo, secundum illud Io. VIII, v. 36: *si Filius vos liberaverit, vere liberi eritis*. Sed libertas per Christum concessa, est libertas spiritus qua liberamur a peccato et morte, sicut supra VIII, 2 dictum est: *lex Spiritus in Christo Iesu liberavit me a lege peccati et mortis*. Caro autem adhuc remanet servituti obnoxia, sicut supra dictum est. Et ideo tunc nulli subiectioni homo, per Christum liberatus, erit obnoxius, nec spirituali scilicet, nec carnali. Unde dicitur I Cor. XV, 24: *Cum tradiderit Christus regnum Deo Patri, et evacuaverit omnem principatum et potestatem*.  
 
-Alloquitur ergo Apostolus perfectos in fide, dicens: dictum est quod sic debetis induere Dominum Iesum Christum, ***assumite autem***, id est affectu caritatis vobis coniungite ad supportandum, ***infirmum in fide***, sicut expositum est, de quo potest intelligi illud Sap. c. IX, 5: *infirmus homo et exigui temporis, et minor ad intellectum iudicii et legum*. Infra XV, 7: ***suscipite invicem, sicut et Christus suscepit vos***. Eccli. XXIX, 12: *propter mandatum assume pauperem*. Et hoc ***non in disceptationibus cogitationum***, id est non disceptando propter hoc quod unus contra alium cogitat, dum scilicet illi qui legalia servabant, iudicabant tamquam transgressores eos qui non servabant. Et illi qui non servabant, contemnebant tamquam errantes et ignorantes qui servabant. Supra II, 15: ***cogitationum invicem accusantium aut defendentium***, et cetera.  
+Interim autem dum corruptibilem carnem gerimus, oportet nos dominis carnalibus subiacere. Unde dicitur Eph. VI, 5: *servi, obedite dominis carnalibus*. Et hoc est etiam quod hic Apostolus dicit ***omnis anima potestatibus sublimioribus subdita sit***.  
 
-**1083**. Deinde, cum dicit ***alius enim***, etc., exponit quod dixerat.  
+Potestates autem sublimiores hic dicuntur homines in potestatibus constituti, quibus secundum iustitiae ordinem subiici debemus. I Petr. II, 23: *subditi estote omni humanae creaturae propter Deum, sive regi quasi praecellenti, sive ducibus, tamquam ab eo missis*, et cetera.  
 
-Et primo ostendit qui sunt infirmi in fide;  
+**1018**. Dicit autem indefinite ***potestatibus sublimioribus***, ut ratione sublimitatis officii eis subiiciamur, etiam si sint mali. Unde I Petr. II, 18 subditur: *subiecti estote non tantum bonis et modestis, sed etiam dyscolis*.  
 
-secundo ostendit qualiter sint disceptationes cogitationum vitandae, ibi ***is qui manducat***, et cetera.  
+**1019**. Quod autem dicitur ***omnis anima***, per synecdochen intelligitur omnis homo, sicut et Gen. XVII, 14: *delebitur anima illa de populo suo*.  
 
-**1084**. Circa primum considerandum est quod inter caeteras legales observantias una erat discretio ciborum propter aliquos cibos in lege prohibitos, ut patet Lev. XI, 2 ss.; et hac quidem observantia quotidie erat utendum vel non utendum. Et ideo de hoc mentionem fecit specialiter Apostolus, dicens ***alius enim***, inter vos, qui scilicet est perfectus in fide, ***credit se*** posse licite ***manducare omnia***, eo quod non reputat se astrictum ad legales observantias. Matth. XV, 11: *quod intrat in os non coinquinat hominem*. I Tim. IV, 4: *omnis creatura Dei bona est, et nihil reiiciendum, quod cum gratiarum actione accipitur*, et cetera.  
+Utitur autem hoc modo loquendi, quia subiectionem superioribus debemus ex animo, id est ex pura voluntate, secundum illud Eph. c. VI, 6 s.: *non ad oculum servientes, quasi hominibus placentes, sed ex animo cum bona voluntate*.  
 
-**1085**. In veteri autem lege prohibebantur aliqui cibi, non quia naturaliter essent immundi. Sicut enim in verbis hoc nomen ‘stultus’ significat aliquod malum, quamvis hoc nomen sit bonum, ita in rebus quoddam animal bonum est secundum naturam, sed significatione est malum, sicut porcus, qui significat immunditiam. Et ideo prohibitus est antiquis esus illarum carnium, ut significaretur in eorum vitatione vitatio immunditiae. Tota enim illius veteris populi vita figuralis erat, ut Augustinus dicit in libro contra Faustum. Veniente autem Christo qui est veritas, cessaverunt figurae.  
+**1020**. Deinde cum dicit ***non est enim potestas***, etc., ponit rationem admonitionis praemissae.  
 
-**1086**. Subdit autem quantum ad infirmum ***qui autem infirmus est, olus manducet***, quasi dicat: illis cibis utatur quibus non occurrit aliquod immundum in lege prohibitum. In singulis enim generibus animalium, puta terrestribus, volatilibus et aquaticis, quaedam genera erant concessa et quaedam prohibita; sed in herbis et arboribus nihil erat prohibitum, ut patet Levit. XI, t.  
+Primo quidem ex parte honesti;  
 
-Et huius potest esse ratio duplex. Una est quia terrae nascentia fuerunt a principio concessa homini ad edendum, secundum illud Gen. I, 29: *ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quae habent in semetipsis sementem generis sui, ut sint vobis in escam*. Sed post diluvium primo legitur homini concessus carnium esus. Unde dicitur Gen. IX, 3: *quasi olera virentia tradidi vobis omnia*, scilicet animalium genera.  
+secundo ex parte necessarii, ibi ***qui autem resistunt***, et cetera.  
 
-Alia ratio est, quia primam prohibitionem de abstinendo a quibusdam terrae nascentibus homo in Paradiso transgressus fuerat, ut patet Gen. III, T.; et propter hoc non erat ei similis prohibitio iteranda.  
+Circa primum duo facit.  
 
-**1087**. Sed cum legalia cessaverunt in Christi passione, videtur quod inconvenienter Apostolus infirmis in fide permittat quod a cibis prohibitis in lege abstineant, quod nunc in Christianis non sustinetur ab Ecclesia.  
+Primo praemittit duo principia;  
 
-Sed distinguendum est triplex tempus, secundum Augustinum, quantum ad legalia. Quorum primum est tempus ante passionem Christi, in quo legalia suum robur obtinebant quasi adhuc viventia. Secundum autem tempus est post passionem Christi ante divulgationem Evangelii, in quo quidem tempore legalia mortua erant, quia nullus ad ea tenebatur, nec observata aliquid conferebant alicui, nondum tamen erant mortifera, quia sine peccato poterant Iudaei ad Christum conversi legalia observare: et pro illo tempore loquitur hic Apostolus. Tertium autem tempus est post divulgationem Evangelii, in quo legalia non solum sunt mortua sed mortifera, ut quisquis ea observet, peccet mortaliter.  
+secundo ex eis concludit, ibi ***itaque qui resistit***, et cetera.  
 
-**1088**. Exponitur autem et aliter in Glossa, ut dicatur infirmus qui est ad lapsus vitiorum carnalium pronus, et huic consulendum est quod comedat olus, id est, tenues et aridos cibos qui non sunt fomentum vitiorum, et abstineat ab illis quibus excitatur libido. Sed alius qui est fortior credit se absque periculo posse omnia manducare. Et haec differentia apparet inter discipulos Christi qui non ieiunabant, tamquam confortati praesentia Christi et discipulos Ioannis Baptistae qui ieiunabant. Unde et poenitentiam agentes a quibusdam cibis abstinent non propter eorum immunditiam, sed ad libidinem refrenandam.  
+**1021**. Primo enim praemittit originem potestatis, dicens ***non est enim potestas nisi a Deo***.  
 
-**1089**. Deinde, cum dicit ***is qui manducat***, etc., exponit quomodo sunt vitandae disceptationes cogitationum.  
+Quicquid enim communiter de Deo et creaturis dicitur, a Deo in creaturas derivatur, sicut patet de sapientia, Eccli. I, 1: *omnis sapientia a Domino Deo est*. Potestas autem de Deo et de hominibus dicitur. Iob c. XXXVI, 5: *Deus potestates non abiicit, cum ipse sit potens*. Unde consequens est, quod omnis humana potestas sit a Deo. Dan. c. IV, 14: *dominabitur excelsus in regno hominum, et cuicumque voluerit, dabit illud*. Io. XIX, 11: *non haberes potestatem adversum me ullam, nisi tibi datum esset desuper*.  
 
-Et primo quantum ad perfectos, dicens ***is qui manducat***, scilicet cum secura conscientia omnia vel etiam sine periculo libidinis, ***non spernat non manducantem***, scilicet indifferenter omnia, tamquam infirmum in fide, vel quasi pronum ad vitia. Is. XXXIII, v. 1: *vae qui spernis, nonne et ipse sperneris?* Lc. X, 16: *qui vos spernit, me spernit*.  
+**1022**. Sed contra hoc esse videtur, quod dicitur Osee VIII, 4: *ipsi regnaverunt, et non ex me: principes extiterunt, et non cognovi*.  
 
-Secundo loquitur quantum ad infirmos, dicens ***et qui non manducat***, scilicet indifferenter omnia, vel quia est infirmus in fide, de quo loquitur Apostolus, vel etiam quia pronus est ad libidinem, ***non iudicet manducantem***, scilicet indifferenter omnia, quasi transgressorem legis, vel quasi in libidinem praecipitem. Matth. VII, 1: *nolite iudicare, et non iudicabimini*. Supra II, 1: ***inexcusabilis es, o homo omnis qui iudicas***.  
+Ad hoc dicendum est, quod regia potestas, vel cuiuscumque alterius dignitatis potest considerari quantum ad tria. Uno quidem modo quantum ad ipsam potestatem, et sic est a Deo, *per quem reges regnant*, ut dicitur Prov. VIII, 15.  
 
-**1090**. Deinde cum dicit ***Deus enim illum assumpsit***, etc., assignat tres rationes propter quas debemus a falso iudicio abstinere.  
+Alio modo potest considerari quantum ad modum adipiscendi potestatem, et sic quandoque potestas est a Deo: quando scilicet aliquis ordinate potestatem adipiscitur, secundum illud Hebr. V, 4: *nemo sibi honorem assumit, sed qui vocatur a Deo tamquam Aaron*. Quandoque vero non est a Deo sed ex perverso hominis appetitu, qui per ambitionem, vel quocumque alio illicito modo potestatem adipiscitur. Amos VI, 14: *numquid non in fortitudine nostra assumpsimus nobis cornua?*  
 
-Secunda ponitur, ibi ***suo domino***, etc.;  
+Tertio modo potest considerari quantum ad usum ipsius: et sic quandoque est a Deo, puta cum aliquis secundum praecepta divinae iustitiae utitur concessa sibi potestate, secundum illud Prov. VIII, 15: *per me reges regnant*, et cetera. Quandoque autem non est a Deo, puta cum aliqui potestate sibi data utuntur contra divinam iustitiam, secundum illud Ps. II, 2: *astiterunt reges terrae, et principes convenerunt in unum adversus Dominum*, et cetera.  
 
-tertia, ibi ***tu autem qui iudicas***, et cetera.  
+**1023**. Dubitatur etiam de potestate peccandi, utrum sit a Deo.  
 
-Prima ratio sumitur ex auctoritate iudicantis.  
+Ad quod dicendum est quod ipsa potentia qua peccatur, a Deo est. Eadem enim potentia est qua peccatur et qua recte agitur: sed quod in bonum ordinetur, a Deo est; quod autem ordinetur ad peccandum, est ex defectu creaturae, inquantum est ex nihilo.  
 
-Unde primo ostendit hanc caritatem Deo competere;  
+**1024**. Secundo ponit, quod ***ea quae sunt, a Deo ordinata sunt***, cuius ratio est quia Deus omnia per suam sapientiam fecit, secundum illud Ps. CIII, 24: *omnia in sapientia fecisti*. Est autem proprium sapientiae ordinate omnia disponere. Sap. VIII, 1: *attingit a fine usque ad finem fortiter, et disponit omnia suaviter*. Et ideo oportet effectus divinos ordinatos esse. Iob XXXVIII, 33: *numquid nosti ordinem caeli, et pones rationem eius in terra?*  
 
-secundo concludit quod iudicium ad homines non pertinet, ibi ***tu quis es***, et cetera.  
+Duplicem autem ordinem Deus in suis effectibus instituit: unum quidem quo omnia ordinantur in ipsum, Prov. XVI, 4: *universa propter semetipsum operatus est Deus*, alium vero quo effectus divini ordinantur ad invicem, sicut dicitur Deut. IV, 19 de sole et luna et stellis, quod fecit ea *in ministerium cunctis gentibus*.  
 
-**1091**. Dicit ergo primo: recte dictum est quod qui non manducat manducantem non iudicet, ***Deus enim assumpsit illum***, scilicet in servum a se iudicandum. Zac. XI, 7: *assumpsi mihi duas virgas*, id est duos populos. Ps. XVII, 17: *assumpsit me de aquis multis*.  
+**1025**. Deinde cum dicit ***itaque qui resistit***, etc., ex duabus praemissis concludit propositum.  
 
-Ille autem qui assumitur ad superioris iudicium, non debet ab inferiori iudicari.  
+Si enim potestas principum, inquantum talis est, a Deo est, et nihil est a Deo sine ordine, consequens est, quod etiam ordo, quo inferiores potestatibus superioribus subiiciuntur, sit a Deo. ***Itaque qui*** contra hunc ordinem ***resistit potestati, Dei ordinationi resistit***. I Reg. VIII, 7: *non te abiecerunt, sed me, ne regnem super eos*. Lc. X, 16: *qui vos spernit, me spernit*.  
 
-**1092**. Et ideo concludit ***tu quis es***, id est, cuius auctoritatis vel virtutis es, ***qui iudicas alienum servum?*** Id est proximum tuum, qui est servus Dei? Requiritur enim in iudicante auctoritas, secundum illud Ex. II, v. 14: *quis constituit te principem et iudicem super nos?* Et, Lc. XII, 14: *quis me constituit iudicem aut divisorem super vos?*  
+Resistere autem divinae ordinationi contrariatur honestati virtutis. Unde contra virtutem agit quicumque potestati resistit, in eo quod pertinet ad ordinem suae potestatis.  
 
-**1093**. Sed ex hac ratione sequi videtur hominis iudicium de alio homine esse illicitum.  
+**1026**. Deinde cum dicit ***qui autem resistunt***, etc., ostendit huiusmodi subiectionem non solum esse honestam, sed necessariam.  
 
-Sed dicendum est quod intantum hominis iudicium licitum est, inquantum agitur auctoritate concessa divinitus. Unde dicitur Deut. c. I, 16: *audite illos, et quod iustum est iudicate*, et postea sequitur *quia Dei est iudicium*, id est auctoritate divina agitur. Si quis vero velit sibi usurpare iudicium super ea quae non sunt ei divinitus concessa ad iudicandum, est iudicium temerarium, sicut si quis iudex delegatus a Papa vellet in iudicando transgredi mandati fines. Deus autem soli sibi reservavit iudicare occulta, quae praecipue sunt cogitationes cordium et futura. Et ideo si quis de his iudicare praesumpserit, est temerarium iudicium. Unde Augustinus dicit in libro *de Sermone Domini in monte*: *in his duobus temerarium est iudicium, cum videlicet incertum sit quo animo quid factum sit; vel incertum qualis futurus sit qui nunc vel bonus vel malus apparet*.  
+Et primo proponit quod intendit;  
 
-**1094**. Deinde cum dicit ***suo domino stat, aut cadit***, etc., ponit secundam rationem, quae quidem sumitur ex fine meriti vel demeriti.  
+secundo probat propositum, ibi ***nam principes***, et cetera.  
 
-Posset aliquis dicere quod licet homo non habeat iudiciariam auctoritatem, tamen intromittere se debet iudicio alterius propter damnum vel fructum qui inde provenit; sed Apostolus ostendit hoc ad Deum magis quam ad homines pertinere. Et sic etiam propter hoc debemus Deo proximorum iudicia relinquere, nisi inquantum vice ipsius fungimur in iudicando per auctoritatem nobis commissam:  
+**1027**. Dicit ergo primo: dictum est, quod ***qui resistit potestati, Dei ordinationi resistit***, quod quidem secundum se est vitandum, tamquam contrarium virtuti. Multi tamen sunt, qui amorem virtutis non habentes, ea quae sunt contraria virtuti non detestantur. Unde tales cogendi sunt ad vitationem malorum per poenas, et quantum ad hoc subdit ***qui autem resistunt***, scilicet divinae ordinationi, ***sibi damnationem acquirunt***, contra potestatis ordinem agendo.  
 
-circa hoc tria facit.  
+Quod quidem potest intelligi, uno modo, de damnatione aeterna, quam merentur qui potestatibus subiici nolunt in eo quod debent. In cuius exemplum Dathan et Abiron, qui Moysi et Aaron restiterunt, sunt a terra absorpti, ut habetur Num. XVI, 20 ss.  
 
-Primo proponit quod intendit;  
+Alio modo potest intelligi de damnatione poenae, quae per ipsos principes infertur. Prov. XX, 2: *sicut rugitus leonis, ita et terror regis: qui provocant eum, peccant in animam suam*.  
 
-secundo exemplificat, ibi ***nam alius iudicat***, etc.;  
+**1028**. Sed contra hoc videtur esse quod apostoli et martyres principibus et potestatibus restiterunt et ex hoc non damnationem a Deo sed praemium acquisiverunt.  
 
-tertio probat propositum, ibi ***qui sapit diem***, et cetera.  
+Sed dicendum est quod Apostolus hic loquitur de eo qui resistit potestati inferiori, secundum quod est a Deo ordinata. Habet autem hoc divina ordinatio ut potestati inferiori non obediatur contra superiorem, sicut etiam in rebus humanis ut proconsuli non obediatur contra imperatorem, nec balivo contra regem. Et omnis potestas humana sub potestate Dei ordinatur et nulli potestati humanae est contra Deum obediendum, secundum illud Act. V, 29: *oportet obedire magis Deo quam hominibus*.  
 
-**1095**. Circa primum duo proponit. Primo quod quidquid circa hominem accidit, ad Deum pertinet, cum dicit ***suo domino stat***, scilicet recte agendo Ps. CXXI, 2: *stantes erant pedes nostri in atriis tuis, Ierusalem; aut cadit*, scilicet peccando Amos V, 1: *domus Israel cecidit, et non adiiciet ut resurgat*.  
+**1029**. Deinde cum dicit ***nam principes***, etc., assignat rationem eius quod dixerat.  
 
-Ponit autem sub disiunctione ***stat aut cadit***, propter incertitudinem, quia multi videntur cadere qui stant, et e converso, secundum illud Eccle. VIII, 10: *vidi impios sepultos, qui cum adhuc viverent, in loco sancto erant, et laudabantur in civitate quasi iustorum operum*. Loquitur autem hic Apostolus secundum similitudinem hominis servi, ad cuius dominum pertinet omne quod circa servum agitur.  
+Et primo proponit rationem;  
 
-Nec intelligendum est quod Deo aliquid proficiat vel noceat, si homo stet aut cadat. Dicitur enim Iob XXXV, 6: *si peccaveris, quid ei nocebis? Porro si iuste egeris, quid ei donabis?* Sed quantum ad homines, id quod iuste agimus, ad gloriam Dei spectat. Matth. V, 16: *ut videant opera vestra bona, et glorificent Patrem vestrum qui in caelis est*. Quod autem cadimus peccando, est hominibus occasio blasphemandi Deum. Supra II, v. 24: ***nomen Dei propter vos blasphematur inter gentes***.  
+secundo ex ratione posita quoddam utile documentum trahit, ibi ***vis autem non timere potestatem***, et cetera.  
 
-Vel quod dicit ***suo domino stat, aut cadit***, exponendum est in iudicio domini sui. I Cor. c. IV, 4: *qui iudicat me, Dominus est*.  
+Tertio huius documenti necessitatem assignat, ibi ***si autem malefeceris***, et cetera.  
 
-**1096**. Secundo ostendit quod hominis statum iudicare ad Deum pertinet, dicens ***stabit autem***. Quasi dicat: et si aliquis nunc cadat per peccatum, tamen potest esse quod iterum stabit. Et hoc omnino implebitur, si est praedestinatus. Ps. XL, 9: *Numquid qui dormit non adiiciet ut resurgat?* Mich. VII, 8: *Ne laeteris, inimica mea, quia cecidi, resurgam*.  
+**1030**. Dicit ergo primo: dictum est quod ***qui resistunt potestati, sibi damnationem acquirunt***, ***nam principes***, qui hic potestates dicuntur, ***non sunt timori***, id est in timorem, ***boni operis***, id est propter bonum opus, ***sed mali***, id est propter malum.  
 
-Et propter hoc si videmus aliquem manifeste cadentem, non debemus eum despicere, temerarie iudicando de eo quod numquam resurget, sed magis debemus praesumere quod iterum stabit, non ex consideratione conditionis humanae, sed considerando virtutem divinam. Unde cum dicit ***potens est Deus statuere illum***, propter eius bonitatem praesumere debemus, quod iterum statuet eum, Ez. III, 24: *ingressus est in me spiritus, et statuit me supra pedes meos*, sicut et supra dictum est: ***si non permanserint in incredulitate, inserentur; potens enim est Deus iterum inserere illos***.  
+Quod quidem videtur esse intelligendum secundum causam instituendi principes. Ad hoc enim sunt instituendi principes, ut illi qui amore virtutis non provocantur ad vitandum malum et faciendum bonum, cogantur ad hoc timore poenae. Prov. XX, 8: *rex qui sedet in solio iudicii, dissipat omne malum intuitu suo*. Et secundum hoc dicitur quod *principes non sunt timori boni operis sed mali*, quantum ad id quod principi ex officio competit, sicut et Is. XXXII, 8 dicitur: *princeps ea quae sunt digna principe cogitabit*.  
 
-**1097**. Deinde, cum dicit ***nam alius iudicat***, etc., exemplificat quod dictum est. Et, primo, proponit diversitatem humanae sententiae, dicens: ideo dico quod ***suo domino stat, aut cadit . . . nam alius iudicat inter diem et diem***, id est iudicat inter unum diem et alium, ut scilicet uno die abstineat et non alio. Quod quidem videtur pertinere ad infirmum in fide, qui reputat adhuc legalia esse observanda. Dicitur enim Lev. c. XXIII, 27: *decimo die mensis septimi dies expiationum erit, affligetisque animas vestras in eo*. Et Iudith VIII, 6 dicitur quod Iudith ieiunabat omnibus diebus vitae suae praeter sabbata et Neomenias et festa domus Israel.  
+Potest autem hoc referri etiam ad malos principes, qui non sunt timori boni operis sed mali: quia et si interdum iniuste persequuntur bene operantes, non tamen illi qui bene operantur, causam habent timendi, quia hoc ipsum, si patienter sustinent, in eorum bonum cedit, secundum illud I Petr. III, 14: *si quid patimini propter iustitiam, beati: timorem autem eorum ne timueritis, ut non conturbemini*.  
 
-***Alius autem iudicat omnem diem*** indifferenter esse observandum quantum ad caeremonialia legis, quae iam cessaverunt. Unde hoc videtur pertinere ad eum qui est perfectus in fide. Ps. CXLIV, 2: *per singulos dies benedicam tibi*.  
+Ex hoc autem quod hic dicitur, assignari potest ratio quare qui potestati resistunt, sibi damnationem acquirant: sive intelligatur de damnatione punitionis, qua principes rebelles puniunt, sive de damnatione qua homines puniuntur a Deo. Si enim principes sunt timori mali operis, consequens est quod si aliquis potestati resistat, male operetur; et ita ipse homo, male agendo, est sibi causa punitionis temporalis et aeternae.  
 
-Potest hoc etiam referri ad abstinentias quae fiunt causa cohibendae libidinis, quibus omni die aliqui vacant, puta qui perpetuo a carnibus vel vino abstinent vel ieiunant, quidam autem interpositis diebus abstinent et ab abstinentia cessant, secundum illud Eccle. c. III, 1: *omnia tempus habent*.  
+**1031**. Deinde cum dicit ***vis autem non timere***, etc., ex eo quod dixerat quoddam utile documentum tradit, scilicet vitandi timorem principum.  
 
-**1098**. Secundo ostendit haec omnia posse ad Dei gloriam pertinere, dicens ***unusquisque in sensu suo abundet***, id est suo sensui dimittatur. Abundare enim in sensu suo est sensum suum sequi. Eccli. XV, 14: *Deus ab initio constituit hominem, et reliquit illum in manu consilii sui*. Vel ***in sensu suo***, id est secundum sensum suum studeat abundare ad gloriam Dei, secundum illud I Cor. XIV, 12: *ad aedificationem Ecclesiae quaerite ut abundetis*.  
+Et primo insinuat sua interrogatione hoc esse desiderabile, dicens ***vis non timere potestatem?*** Quasi dicat: hoc debet homini esse placitum. Prov. XX, 2: *sicut rugitus leonis, ita et terror regis*.  
 
-Sed hoc videtur locum habere in his quae non sunt secundum se mala. In his autem quae sunt secundum se mala, non est homo suo sensui relinquendus. Quod autem aliquis iudicet diem inter et diem, videtur esse secundum se malum, secundum primam expositionem. Dicitur enim Gal. IV, 10 s.: *dies observatis, et menses, et tempora, et annos, timeo ne sine causa laboraverim in vobis*. Et loquitur ibi ad litteram de his qui dixerunt dies observandos secundum caeremonias legis.  
+**1032**. Secundo docet medium ad hoc perveniendi, dicens ***bonum fac***; quia, ut dicitur Prov. XVI, 13: *voluntas regum, labia iusta*; et in Ps. c, 6: *ambulans in via immaculata, hic mihi ministrabat*.  
 
-Sed dicendum, quod Apostolus hic loquitur secundum tempus illud in quo, Iudaeis ad fidem conversis, licitum erat legalia observare, ut dictum est. Sed quantum ad secundam expositionem videtur esse illicitum, quod dicit: ***alius iudicat omnem diem***. Sunt enim quidam dies in quibus non est licitum ieiunare. Dicit enim Augustinus in *Epistola ad Casulanum*: *quisquis diem Dominicum ieiunio decernendum esse putarit, non parvo scandalo esset Ecclesiae, nec immerito. Illis enim diebus quibus nihil certi statuit Ecclesia vel Scriptura divina, mos populi Dei et instituta maiorum, pro lege tenenda sunt*. Et in *Decretis* dicitur D. 30: *si quis presbyter propter publicam poenitentiam a sacerdote acceptam absque alia necessitate die Dominica pro quadam religione ieiunaverit, sicut Manichaei, anathema sit*.  
+**1033**. Tertio ostendit huius effectum, dicens: et si benefeceris, non solum timorem vitabis, sed etiam ***habebis laudem ex illa***, scilicet potestate; quod planum est si accipiatur secundum finem, ad quem institutae sunt potestates. Ad hoc enim institutae sunt ut non solum a malis timore poenarum retrahant sed etiam ut ad bonum per praemia alliciant, secundum illud I Petr. II, 14: *sive ducibus tamquam ab eo missis ad vindictam malorum, laudem vero bonorum*. Verificatur hoc etiam de malis principibus, quorum iniustam persecutionem, dum boni patienter sustinent, laudantur. Iac. V, 11: *ecce beatificamus eos qui sustinuerunt*.  
 
-Sed intelligendum est quod hic Apostolus loquitur quantum ad illas abstinentias, quae quolibet die licite fieri possunt absque dissonantia communis consuetudinis, vel eorum quae sunt a maioribus instituta.  
+**1034**. Quarto rationem assignat, dicens ***Dei enim minister est tibi in bonum***. Quod quidem manifeste patet, quantum ad debitum ordinem principum. Sunt enim sub regimine Dei, quasi supremi principis, tamquam ministri ordinati. Sap. VI, 3: *cum essetis ministri regis illius*, et cetera. Ad idem autem tendit minister et dominus. Eccli. X, 2: *secundum iudicem populi, sic et ministri eius*. Et ideo sicut Deus operatur in bonum his qui bonum agunt, ita et principes si recte ministerium suum impleant.  
 
-**1099**. Deinde, cum dicit ***qui sapit diem***, etc., probat propositum, quod scilicet unusquisque suo domino stet aut cadat: et hoc tripliciter.  
+Sed et mali principes ministri Dei sunt, secundum ordinationem Dei ad inferendas poenas, licet hoc sit praeter intentum eorum; secundum illud Is. X, 5: *assur virga furoris mei, et baculus ipse in manu mea est. Ipse autem non sic arbitrabitur*. Et Ier. XXV, 9: *assumam universam cognationem Aquilonis, et Nabuchodonosor regem Babylonis servum meum, et adducam eos super terram istam, et super habitatores eius*, et cetera. Et quia tales mali principes, interdum, Deo permittente, bonos affligunt, quod in bonum eorum cedit, secundum illud supra VIII, 28: ***diligentibus Deum***, et cetera.  
 
-Primo per actum fidelium;  
+**1035**. Deinde cum dicit ***si autem male***, etc., ostendit necessitatem praemissi documenti.  
 
-secundo per intentionem eorum, ibi ***nemo enim nostrum***, etc.;  
+Dictum est enim quod benefaciendo non timebis potestatem, ***si autem malefeceris, time***: quia causam timoris habes. Prov. c. X, 29: *pavor his qui operantur malum*. Sap. XVII, 10: *cum sit timida nequitia, data est in omnium condemnationem*.  
 
-tertio per eorum conditionem, ibi ***sive ergo vivimus, sive morimur***, et cetera.  
+Secundo assignat rationem dicens ***non enim sine causa gladium portat***. Loquitur autem secundum consuetudinem principum, qui quasi insignia suae potestatis deferebant instrumenta puniendi, puta fasces virgarum ad verberandum, et secures vel gladios ad occidendum. Iob XIX, 29: *fugite a facie gladii, quoniam ultor iniquitatum est gladius*.  
 
-**1100**. Probat ergo primo quomodo unusquisque fidelium suo domino stat aut cadit, per hoc quod de omnibus quae fecit secundum suam conscientiam gratias agit Deo. Unde dicit ***qui sapit diem***, ut scilicet uno die abstineat et alio die ab abstinentia cesset, ***Domino sapit***, id est ad reverentiam Dei cibos discernit, sicut etiam nos discernimus vigilias festorum in quibus ieiunamus, a diebus festis quibus ieiunium solvimus propter reverentiam Dei. Eccli. XXXIII, 7: *quare dies diem superat, et iterum lux lucem*.  
+Tertio rationem exponit dicens ***portat***, inquam, ***gladium, quia est minister Dei, vindex***, id est vindictam exercens, ***in iram***, id est, ad exequendam iram Dei, id est iustum iudicium eius, ***ei qui malum agit***, id est, contra malefactorem. Ez. XVII, 37 ss.: *ecce ego congregabo omnes amatores tuos, et iudicabo te in iudiciis adulterorum, et dabo te in manus eorum*, et cetera. Prov. XVI, 12: *abominabiles regi qui impie agunt, quoniam iustitia firmatur solium*.  
 
-Deinde loquitur quantum ad illos qui iudicant omnem diem, quorum quidam omni die a ieiunio cessabant, sicut dicitur Matth. c. IX, 14 quod discipuli Christi non ieiunabant. Unde dicit ***et qui manducat***, scilicet omni die, ***Domino manducat***, id est ad gloriam Domini, quod per hoc patet, ***gratias enim agit Deo***, scilicet de cibo assumpto. I Tim. IV, 3: *abstinere a cibis quos Deus creavit ad percipiendum cum gratiarum actione fidelibus*. Ps. XXI, 27: *edent pauperes et saturabuntur*, et cetera.  
+Ex quo patet quod non solum est licitum sed etiam meritorium principibus, qui zelo iustitiae vindictam exercent in malos. Unde dicitur Ez. XXIX, 19 s.: *erit merces exercitui illius, et operi quo servivit mihi adversus eam*.  
 
-Ulterius quantum ad eum qui sic iudicat omnem diem, ut scilicet omni die abstineat, subdit ***et qui non manducat***, id est abstinet omni die, ***Domino***, id est, ad honorem Domini, ***non manducat***. Et hoc patet per hoc quod ***gratias agit Deo*** qui sibi dedit voluntatem, et virtutem abstinendi. I Thess. ult.: *in omnibus gratias agite*.  
+**1036**. Deinde cum dicit ***ideoque necessitate***, etc., infert conclusionem principaliter intentam, dicens: ***ideoque***, propter praedictas rationes, ***subditi estote*** principibus ex necessitate, quia scilicet hoc est ex necessitate salutis, vel subditi estote voluntarie necessitati, quae vobis imminet potentia principum, ut faciatis de necessitate virtutem; ***non solum propter iram***, id est vindictam vitandam, quod pertinet ad secundam rationem, ***sed etiam propter conscientiam*** bonam conservandam, quod pertinet ad primam rationem, quia ***qui potestati resistit Dei ordinationi resistit***. Tit. III, 1: *admone illos principibus et potestatibus subditos esse*.  
 
-Sed quod hic dicit Apostolus de his qui omni die vel abstinebant vel ab abstinentia cessabant, debet intelligi quantum ad illud tempus in quo hoc non erat contrarium statutis maiorum, nec communi consuetudini populi Dei.  
+**1037**. Deinde cum dicit ***ideo enim et tributa praestatis***, etc. inducit homines ad exhibendum suis superioribus signum subiectionis.  
 
-**1101**. Deinde cum dicit ***nemo enim nostrum sibi vivit***, etc., probat idem ex intentione fidelium.  
+Et primo ponit signum subiectionis;  
 
-Et, primo, excludit inordinatam intentionem, dicens: recte dico quod unusquisque domino suo stat aut cadit, ***nemo nostrum sibi vivit*** vel naturali vita vel spirituali, de qua dicitur Hab. II, 4: *iustus autem meus ex fide vivit*. ***Sibi***, id est propter seipsum, quia hoc esset frui seipso. I Cor. X, 33: *non quaerens quod mihi utile est*. Ps. CXIII, 9: *non nobis, Domine, non nobis*, etc.; vel ***sibi***, id est, secundum suam regulam, sicut qui dicunt Sap. II, 11: *sit fortitudo nostra lex iniustitiae*; vel ***sibi***, id est suo iudicio, I Cor. c. IV, 3: *sed neque meipsum iudico*.  
+secundo inducit ad eius exhibitionem, ibi ***reddite ergo***, et cetera.  
 
-***Et nemo moritur***, scilicet morte corporali vel morte spirituali peccando, vel etiam morte spirituali qua quis moritur vitiis, puta in baptismo, secundum illud supra VI, 7: ***qui mortuus est iustificatus est a peccato***; vel ***sibi***, id est suo iudicio, vel propter seipsum aut suo exemplo; sed exemplo Christi moritur aliquis a vitiis. Rom. VI, 10: ***quod enim mortuus est peccato, mortuus est semel***; et infra: ***ita et vos existimate vos mortuos esse peccato***.  
+**1038**. Circa primum duo facit. Primo ponit subiectionis signum, dicens ***ideo enim***, scilicet quia debetis esse subiecti, ***et tributa praestatis***, id est, praestare debetis, in signum scilicet subiectionis. Et ideo conquerendo dicitur Thren. I, 1: *princeps provinciarum facta est sub tributo*. Dicuntur autem tributa, eo quod subditi dominis ea tribuunt.  
 
-**1102**. Secundo ostendit qualis sit recta intentio fidelium, dicens ***sive enim vivimus***, vita corporali, ***Domino vivimus***, id est ad gloriam Domini; ***sive morimur***, morte corporali, ***Domino morimur***, id est ad honorem Domini. Phil. I, 20: *magnificabitur Christus in corpore meo sive per mortem sive per vitam*.  
+**1039**. Secundo assignat rationem, dicens ***ministri enim Dei sunt, in hoc ipsum***, id est, pro ipso, scilicet tributa recipiendo, ***servientes***, scilicet Deo, et populo.  
 
-Vel sic exponatur quod dicit ***vivimus*** et ***morimur*** de vita et morte spirituali, exponendum est quod dicit ***Domino***, id est iudicio Domini *qui constitutus est a Deo iudex vivorum et mortuorum*, ut dicitur Act. X, 42.  
+Quasi dicat: unusquisque de suo ministerio vivere debet, secundum illud I Cor. IX, v. 7: *quis, pascit gregem et de lacte eius non edit?* Et ideo cum principes nostri suo regimine Deo ministrent, a populo debent tributa suscipere, quasi stipendia sui ministerii, non autem ita quod hoc debeant sibi computare pro praemio. Proprium enim praemium principis est laus et honor, ut Philosophus dicit in V *Ethic*. Et cum hoc non sufficit, tyrannus fit. Sed hoc non est intelligendum de laude humana solum vel honore, quia tale praemium esset vanum, sed de laude et honore divino, qui principibus bene gubernantibus exhibetur. Sap. VI, 22: *O reges populi, diligite sapientiam, ut in perpetuum regnetis*.  
 
-**1103**. Deinde cum dicit ***sive ergo vivimus***, etc., ostendit propositum ex conditione fidelium.  
+Huiusmodi autem tributa recipiunt ad sustentationem, laborant autem principes ad omnium pacem. Unde dicitur I Tim. II, 1 s.: *obsecro primum omnium fieri obsecrationes pro regibus, et omnibus qui in sublimitate sunt constituti, ut quietam ac tranquillam vitam agamus*. Baruch I, 11 s.: *orate pro vita Nabuchodonosor regis Babylonis, ut vivamus sub umbra eius*.  
 
-Et, primo, concludit ex praemissis conditionem fidelium, scilicet quod non sunt sui, sed alterius. Illi enim qui sui sunt, sicut liberi homines, sibi vivunt et sibi moriuntur.  
+**1040**. Ab hoc tamen debito liberi sunt clerici ex privilegio principum, quod quidem aequitatem naturalem habet. Unde etiam apud gentiles liberi erant a tributis illi qui vacabant rebus divinis. Legitur enim Gen. XLVII, v. 20–22, quod Ioseph subiecit Pharaoni totam terram Aegypti *praeter terram sacerdotum, quae a rege tradita fuerat eis, quibus et statuta cibaria ex horreis publicis praebebantur*. Et infra dicitur quod in universa terra Aegypti, quinta pars solvitur absque terra sacerdotali, quae libera erat ab hac conditione.  
 
-Quia ergo dictum est quod fideles non sibi vivunt aut moriuntur sed Domino, concludit sic ***sive ergo vivimus, sive morimur, Domini sumus***, quasi servi eius qui habet potestatem vitae et mortis. I Cor. VII, 23: *pretio empti estis, nolite fieri servi*. I Cor. VI, 20: *empti enim estis pretio magno*. I Par. XII, 18: *tui sumus, o David, et tecum, fili Isai*.  
+Hoc autem ideo aequum est, quia sicut reges sollicitudinem habent de bono publico in bonis temporalibus, ita ministri Dei in spiritualibus, et sic per hoc quod Deo in spiritualibus ministrant, recompensant regi quod pro eorum pace laborat.  
 
-**1104**. Secundo assignat causam huius conditionis, dicens ***in hoc enim Christus mortuus est, et resurrexit***, id est hoc adeptus est sua morte et resurrectione, ***ut vivorum dominaretur***, quia resurrexit, vitam novam et perpetuam inchoando, ***et mortuorum***, quia mortem nostram moriendo destruxit. II Cor. c. V, 15: *pro quibus mortuus est Christus, ut qui vivunt, iam non sibi vivant, sed ei qui pro eis mortuus est, et resurrexit*.  
+**1041**. Sed attendendum est: cum tributa dicat regibus esse debita quasi laboris stipendium, dupliciter peccare possunt principes accipiendo tributa.  
 
-Sic igitur per omnia praedicta Apostolus probavit, quod unusquisque domino suo stat aut cadit, per hoc scilicet quod fideles gratias agunt Deo, et quod Domino vivunt et moriuntur, et quod Domini sunt et in morte et in vita.  
+Primo quidem si utilitatem populi non procurent sed solum ad diripiendum eorum bona intendant. Unde dicitur Ez. XXXIV, 3: *lac comedebatis et lanis operiebamini, et quod crassum erat, occidebatis, gregem autem meum non pascebatis*.  
 
-**1105**. Deinde cum dicit ***tu autem quid iudicas***, etc., ponit tertiam rationem quae sumitur ex futuro iudicio.  
+Alio modo ex eo quod violenter diripiunt supra statutam legem, quae est quasi quoddam pactum inter regem et populum, et supra populi facultatem. Unde dicitur Mich. III, 1: *audite principes Iacob, et duces domus Israel*. Et postea subdit: *qui violenter tollitis pelles eorum desuper eis, et carnes eorum desuper ossibus eorum*.  
 
-Et circa hoc tria facit. Primo proponit superfluitatem praesentis iudicii, dicens ***tu autem quid iudicas?*** Id est qua utilitate vel necessitate iudicas, ***fratrem tuum***, temere de occultis, quae tuo iudicio non sunt commissa? ***Aut tu***, alius qui iudicaris, ***quare spernis fratrem tuum***, pro nullo reputans ab eo iudicari? Mal. II, 10: *quare despicit unusquisque fratrem suum?*  
+**1042**. Deinde cum dicit ***reddite ergo***, etc., monet ad reddendum praedictum subiectionis signum.  
 
-**1106**. Secundo praenuntiat futurum Christi iudicium, quasi dicat: recte dico cur iudicas, quia non debes timere quod absque iudicio remaneat, ***omnes enim stabimus ante tribunal Christi***. Dicitur enim tribunal Christi eius iudiciaria potestas, sicut et Matth. c. XXV, 21 dicitur: *cum venerit Filius hominis in maiestate sua, tunc sedebit super sedem maiestatis suae*.  
+Et primo quidem in generali, dicens: ex quo tributum debetur principibus, tamquam Dei ministris, ***reddite ergo omnibus debita***. Ex quo patet quod ex necessitate iustitiae tenentur subditi sua iura principibus exhibere. Matth. XVIII, 24: *oblatus est regi unus qui debebat decem millia talenta*. Et Matth. XXII, v. 21: *reddite quae sunt Caesaris, Caesari*, et cetera.  
 
-Dicit autem ***omnes stabimus***, quasi iudicandi, tam boni quam mali, quantum ad remunerationem vel punitionem. II Cor. V, v. 10: *omnes nos manifestari oportet ante tribunal Christi, ut referat unusquisque propria corporis prout gessit, sive bonum sive malum*.  
+**1043**. Secundo specificat, et, primo, ea quae sunt exteriora, dicens ***cui tributum***, scilicet debetis, reddite ***tributum***, quia scilicet principi tribuitur pro generali regimine, quo patriam in pace et quiete gubernat. Gen. c. XLIX, 15: *vidit requiem quod esset bona, factusque est tributis serviens*. ***Cui vectigal***, scilicet debetis, reddite ***vectigal***, quod scilicet redditur principi in aliquibus certis locis de mercimoniis, quae deferuntur pro reparatione viarum et custodia. Vel vectigal dicitur, quod datur principi, quando per patriam devehitur, sicut sunt procurationes et alia huiusmodi.  
 
-Sed quantum ad discussionem non omnes stabunt ut iudicandi, sed quidam consedebunt, ut iudices. Matth. XIX, 28: *sedebitis super sedes, iudicantes duodecim tribus Israel*.  
+Secundo ponit ea quae sunt interius exhibenda. Est autem considerandum quod principi debetur et timor et honor: timor quidem, inquantum est dominus, sua potestate malos coercens a malis. Mal. I, 6: *si ego Dominus, ubi est timor meus?* Et ideo dicit ***cui timorem***, scilicet debetis, reddite ***timorem***. Prov. XXIV, 21: *Deum time, fili mi*. Inquantum autem quasi pater providet bonis quae sunt in laudem eorum, debetur illi honor. Mal. I, 6: *si ego pater, ubi honor meus?* Et ideo subdit, ***cui honorem***, scilicet debetis, reddite ***honorem***. I Petr. II, 17: *regem honorificate*. Sed contra est quod dicitur Lev. XIX, 15: *non honores vultum potentis*.  
 
-**1107**. Tertio, ibi ***scriptum est enim***, etc., probat quod dixerat.  
-
-Et primo inducit auctoritatem;  
-
-secundo infert conclusionem, ibi ***itaque unusquisque***, et cetera.  
-
-**1108**. Dicit ergo primo: dictum est quod omnes stabimus ante tribunal Christi, et hoc patet per auctoritatem Sacrae Scripturae. ***Scriptum est enim***, Is. XLV, 23, ***vivo ego, dicit Dominus: quoniam mihi flectetur omne genu, et omnis lingua confitebitur Deo***.  
-
-Littera nostra sic habet: *in memetipso iuravi, quia mihi curvabitur omne genu et iurabit omnis lingua*.  
-
-**1109**. Tria autem in his verbis ponuntur. Primo quidem iuramentum, quod interdum in verbis Dei ponitur ad ostendendum id, quod dicitur, firmum esse immutabilitate divini consilii, non autem esse mutabile sicut ea quae praenuntiantur secundum causas inferiores, ut prophetia comminationis. Unde dicitur in Ps. CIX, 4: *iuravit Dominus, et non poenitebit eum. Homines autem*, ut Apostolus dicit Hebr. VI, 16: *per maiorem sui iurant*. Quia vero Deus non habet maiorem in quo maior firmitas consistat veritatis, per seipsum iurat.  
-
-Ipse autem est ipsa vita et fons vitae, secundum illud Deut. XXX, 20: *ipse est enim vita tua, et longitudo dierum tuorum*, etc., Ps. XXXV, 10: *apud te est fons vitae*, etc.; et ideo forma iuramenti Domini est ***vivo ego***, quasi dicat: iuro per vitam qua ego singulariter vivo.  
-
-**1110**. Secundo praenuntiatur subiectio communis creaturae ad Christum, cum dicitur ***quoniam mihi***, scilicet Christo, ***flectetur omne genu***. In quo designatur perfecta subiectio rationalis creaturae ad Christum. Solent enim homines in signum subiectionis maioribus flectere genua. Unde Phil. II, 10 dicitur: *in nomine Iesu omne genu flectatur caelestium, terrestrium et infernorum*.  
-
-**1111**. Tertio praenuntiat fidei confessionem qua omnes gloriam Christi confitebuntur. Unde sequitur ***et omnis lingua confitebitur Deo***, id est confitebitur Christum esse Dominum, secundum illud Phil. II, 11: *omnis lingua confiteatur, quia Dominus noster Iesus Christus in gloria est Dei Patris*.  
-
-***Omnis*** enim ***lingua*** intelligi potest expressio cognitionis sive hominum, sive angelorum, secundum illud I Cor. XIII, 1: *si linguis hominum loquar et angelorum*, et cetera.  
-
-Hoc autem impletur nunc in hac vita, non quantum ad singulos homines sed quantum ad genera singulorum. De quolibet enim genere hominum nunc aliqui Christo subiiciuntur et ei confitentur per fidem, sed in futuro iudicio omnes et singuli ei subiicientur: boni quidem voluntarie, mali autem inviti. Unde dicitur Hebr. II, 8: *in eo quod ei omnia subiecit, nihil dimisit non subiectum ei: nunc autem necdum videmus omnia subiecta ei*.  
-
-**1112**. Deinde, cum dicit ***itaque unusquisque***, etc., infert conclusionem ex dictis.  
-
-Et primo conclusionem intentam ex eo quod immediate dixerat, dicens ***itaque***, ex quo Christo flectitur omne genu, ***unusquisque nostrum per se reddet rationem Deo***, scilicet ante tribunal Christi. Matth. XII, v. 36: *de omni verbo otioso quod locuti fuerint homines, reddent Deo rationem in die iudicii*. Et XVIII, 23: *assimilatum est regnum caelorum homini regi qui voluit rationem ponere cum servis suis*.  
-
-**1113**. Sed videtur quod non quilibet per se rationem reddet, sed unus pro alio. Hebr. ult.: *obedite praepositis vestris et subiacete eis. Ipsi enim pervigilant quasi rationem reddituri pro animabus vestris*.  
-
-Sed dicendum quod in hoc ipso quod praelati pro aliis rationem reddent, reddent rationem pro suis actibus quos circa subditos agere debuerunt. Si enim fecerunt quod competebat eorum officio, non eis imputabitur si subditi pereant. Imputaretur autem eis si negligerent facere quod eorum officium requirebat. Unde dicitur Ezech. III, 18 s.: *si dicente me ad impium, morte morieris, non annuntiaveris ei, ipse in iniquitate sua morietur, sanguinem autem eius de manu tua requiram. Si autem tu annuntiaveris impio, et ille non fuerit conversus, ipse quidem in iniquitate sua morietur, tu autem animam tuam liberasti*.  
-
-**1114**. Secundo infert conclusionem principaliter intentam in tota praecedenti parte, dicens ***non ergo amplius invicem iudicemus***, scilicet temerario iudicio, quod includitur rationibus supradictis. I Cor. IV, 5: *nolite ante tempus iudicare*, et cetera.  
+Sed hoc est intelligendum quantum ad hoc ut pro eo a iustitia non declines. Unde subditur: *iuste iudica proximo tuo*.  
 
 Lectio 2  
 
-***Misericordia ad infirmos***
+***Plenitudo legis est dilectio***
 
-***^14:13^ sed hoc judicate magis, ne ponatis offendiculum fratri, vel scandalum. [n. 1115]***
+***^13:8^ Nemini quidquam debeatis, nisi ut invicem diligatis: qui enim diligit proximum, legem implevit. [n. 1044]***
 
-> ^14:14^ Scio, et confido in Domino Jesu, quia nihil commune per ipsum, nisi ei qui existimat quid commune esset, illi commune est. [n. 1117]
+> ^13:9^ Nam: Non adultabis: non occides: non furaberis: non falsum testimonium dices: non concupisces: et si quod est aliud mandatum, in hoc verbo instauratur: diliges proximum tuum sicut teipsum. [n. 1050]
 
-> ^14:15^ Si enim propter cibum frater tuus contristatur, jam non secundum caritatem ambulas. Noli cibo tuo illum perdere, pro quo Christus mortuus est. [n. 1122]
+> ^13:10^ Dilectio proximi malum non operatur. Plenitudo ergo legis est dilectio. [n. 1058]
 
-> ^14:16^ Non ergo blasphemetur bonum nostrum. [n. 1126]
+> **1044**. Supra Apostolus ostendit qualiter debeant fideles ad superiores iustitiam observare, hic ostendit quid debeant omnibus communiter exhibere.
 
-> ^14:17^ Non est enim regnum Dei esca et potus: sed justitia, et pax, et gaudium in Spiritu Sancto: [n. 1127]
+Et circa hoc duo facit.  
 
-> ^14:18^ qui enim in hoc servit Christo, placet Deo, et probatus est hominibus. [n. 1129]
+Primo ponit quod intendit;  
 
-> ^14:19^ Itaque quae pacis sunt, sectemur: et quae aedificationis sunt, in invicem custodiamus. [n. 1130]
+secundo reddit rationem, ibi ***qui enim diligit***, et cetera.  
 
-> ^14:20^ Noli propter escam destruere opus. Dei [n. 1131]
+**1045**. Dicit ergo primo: dictum est reddite omnibus debita, non quidem particulariter, sed integraliter, et hoc est quod subdit ***nemini quidquam debeatis***. Quasi dicat: ita plene omnibus omnia debita persolvatis, ut nihil remaneat, quod solvere debeatis.  
 
-> **1115**. Postquam Apostolus prohibuit humana iudicia, hic prohibet scandalum proximorum, et circa hoc duo facit.
+Et hoc quidem propter duo. Primo quia in ipsa mora reddendi peccatum committitur, dum homo iniuste detinet rem alienam. Unde dicitur Lev. XIX, 13: *non morabitur opus mercenarii tui apud te usque mane*. Et eadem est ratio de aliis debitis.  
+
+Secundo quia quamdiu aliquis debet, est quodammodo servus et, cui debet, obligatur. Prov. XXII, 7: *qui accipit mutuum, servus est foenerantis*.  
+
+**1046**. Sunt tamen quaedam debita, a quibus homo numquam potest se absolvere. Et hoc contingit dupliciter. Uno quidem modo propter excellentiam beneficii, cui aequivalens recompensari non potest: sicut Philosophus dicit de honore qui exhibetur Deo vel parentibus, secundum illud Ps. CXV, 12: *quid retribuam Domino pro omnibus quae retribuit mihi?* Alio modo propter causam debendi, quae semper manet; vel etiam propter hoc quod illud quod redditur, numquam exhauritur sed semper in reddendo crescit.  
+
+**1047**. Et propter has causas debitum dilectionis fraternae ita solvitur, quod semper debetur.  
+
+Primo quidem quia dilectionem proximo debemus propter Deum, cui sufficienter recompensare non possumus. Dicitur enim I Io. IV, 21: *hoc mandatum habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*. Secundo quia causa dilectionis semper manet, quae est similitudo naturae et gratiae. Eccli. XIII, 19: *omne animal diligit sibi simile, sic et omnis homo proximum sibi*. Tertio quia caritas in diligendo non deficit sed proficit. Phil. I, 9: *hoc oro, ut caritas vestra magis ac magis abundet*.  
+
+Ideo dicit ***nisi ut invicem diligatis***, quia scilicet dilectionis debitum ita semel redditur, ut tamen semper maneat sub debito praecepti. Io. XV, 12: *hoc est praeceptum meum, ut diligatis invicem*.  
+
+**1048**. Deinde cum dicit ***qui enim diligit***, etc., assignat causam eius quod dixerat, debito dilectionis nos numquam absolvi, quia scilicet in dilectione tota legis impletio consistit.  
+
+Unde circa hoc tria facit.  
 
 Primo proponit quod intendit;  
 
-secundo manifestat propositum, ibi ***si enim propter cibum***, et cetera.  
+secundo manifestat propositum, ibi ***nam non adulterabis***, etc.;  
 
-Circa primum proponit tria.  
+tertio infert conclusionem intentam, ibi ***plenitudo ergo legis***, et cetera.  
 
-**1116**. Primo enim docet scandala esse vitanda, dicens: dixi quod non iudicetis invicem sed unusquisque de suis actibus iudicare debet, ne sint in scandalum aliorum. Et hoc est quod dicit ***sed hoc iudicate magis ne ponatis fratribus offendiculum, vel scandalum***. Scandalum autem, sicut dicit Hier. super Matthaeum, notat offendiculum vel ruinam, quam impactionem pedis possumus dicere. Unde scandalum est factum vel dictum minus rectum, praebens alicui occasionem ruinae, ad similitudinem lapidis ad quem in via positum homo impingit, et cadit.  
+**1049**. Dicit ergo primo: ideo dictum est quod non intendamus nos expedire a debito dilectionis, sicut ab aliis debitis, ***qui enim diligit proximum, legem implevit***, id est tota impletio legis ex proximi dilectione dependet.  
 
-Maius autem aliquid videtur esse scandalum quam offendiculum. Nam offendiculum potest esse quicquid retinet seu retardat motum procedentis: scandalum autem, id est, impactio, videtur esse cum aliquis disponitur ad casum. Non ergo debemus fratri ponere offendiculum ut aliquid faciamus, unde impediatur proximus a via iustitiae. Is. LVI, 14: *auferte offendiculum de via populi mei*. Neque etiam debemus fratri ponere scandalum, aliquid faciendo, unde ipse inclinetur ad peccatum. Matth. XVIII, 7: *vae homini illi per quem scandalum venit*.  
+Sed hoc non videtur verum. Dicitur enim I Tim. I, 5: quod *finis praecepti caritas est*. Unumquodque enim perficitur cum ad finem pervenit: et ideo tota legis perfectio in caritate consistit. Sed caritas duos habet actus, scilicet dilectionem Dei et dilectionem proximi; unde et Dominus dixit Matth. XXII, v. 40 quod tota lex et prophetae pendet in duobus mandatis caritatis: quorum unum est de dilectione Dei, aliud de dilectione proximi. Non ergo videtur quod qui proximum diligit, impleat totam legem.  
 
-**1117**. Secundo docet id ex quo scandalum putabatur esse, secundum suam naturam, sive secundum se licitum.  
+Sed dicendum est quod illa dilectio proximi ad caritatem pertinet, et legem implet, qua proximus diligitur propter Deum; et ita in dilectione proximi includitur dilectio Dei, sicut causa includitur in effectu. Dicitur enim I Io. IV, 21: *et hoc mandatum habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*. Et, e converso, dilectio proximi includitur in dilectione Dei, sicut effectus in causa; unde ibidem dicitur: *si quis dixerit quoniam diligo Deum, et fratrem suum odit, mendax est*.  
 
-Circa quod sciendum est quod, sicut supra dictum est, apud Romanos erant quidam ex Iudaeis ad fidem Christi conversi, qui cibos secundum legem discernebant; alii vero habentes fidem perfectam indifferenter omnibus cibis utebantur, quod quidem secundum se licitum erat. Unde dicit ***scio et confido in Domino Iesu, quia nihil est commune per ipsum***.  
+Et inde est quod in Sacra Scriptura quandoque fit mentio solum de dilectione Dei, quasi sufficiat ad salutem, secundum illud Deut. X, 12: *et nunc, Israel, audi, quid Dominus Deus tuus petit a te, nisi ut timeas Dominum Deum tuum, et ambules in viis eius, et diligas eum*. Quandoque autem fit mentio solum de dilectione proximi. Io. XV, v. 12: *haec vobis mando, ut diligatis invicem*.  
 
-Circa quod notandum est, sicut dicit Hier. *Super Matth*., quod populus Iudaeorum partem Dei se esse iactans, communes cibos vocat quibus omnes utuntur homines, verbi gratia suillam carnem, lepores et huiusmodi; et caeterae gentes, quae talibus utebantur cibis, non erant de parte Dei, ideo talis cibus immundus appellatur.  
+**1050**. Deinde cum dicit ***nam non adulterabis***, etc., probat propositum.  
 
-Quod ergo dicit ***nihil commune*** est, idem est ac si diceret: *nihil immundum est*.  
+Primo quidem per inductionem;  
 
-Et hoc quidem Apostolus, primum, dicit se scire, quia ita est secundum rerum naturam, secundum illud I Tim. IV, 4: *omnis creatura Dei bona, et nihil reiiciendum quod cum gratiarum actione percipitur*. Secundo dicit se confidere in Christo Iesu, quia per seipsum nihil est commune, quia scilicet cibi secundum suam naturam nunquam fuerunt immundi, vitabantur tamen aliquo tempore ut immundi, secundum legis praeceptum propter figuram, sed hoc Christus removit implendo omnes figuras. Et ideo Apostolus per fiduciam quam habet in Domino Iesu, asserit ***nihil*** esse ***commune*** vel immundum per ipsum, id est, ipso hoc faciente. Act. X, v. 15: *quod Deus purificavit, tu ne commune dixeris*.  
+secundo vero per medium syllogismi, ibi ***dilectio proximi***, et cetera.  
 
-**1118**. Tertio ostendit quomodo hoc posset esse per accidens illicitum, inquantum scilicet est contra conscientiam manducantis. Unde dicit: dictum est quod ***nihil*** est ***commune***, sed hoc intelligendum est ***nisi ei qui***, erronea conscientia, ***aestimat quid***, id est aliquid ciborum, ***commune esse***, id est immundum, ***illi commune est***, id est ita est illicitum sibi, ac si esset secundum se immundum. Tit. I, 15: *omnia munda mundis, coinquinatis autem et infidelibus nihil mundum est, sed inquinata est eorum mens, et conscientia*.  
+**1051**. Circa primum, more inducentium, enumerat quaedam praecepta, quae dilectionem proximi implent. Et quia praecepta tria primae tabulae immediatius ordinantur ad dilectionem Dei, non facit mentionem hic de eis, quamvis et ipsa impleantur in dilectione proximi, prout dilectio Dei includitur in dilectione proximi. Enumerat autem mandata secundae tabulae, praetermittit tamen praeceptum affirmativum tantum quod est de honore parentum, in quo etiam intelligitur, ut omnibus reddamus quae debemus.  
 
-**1119**. Et sic apparet quod aliquid, quod est secundum se licitum, efficitur illicitum ei qui id contra suam conscientiam agit, licet conscientia sua sit erronea, quod rationabiliter accidit. Nam actus iudicantur secundum voluntatem agentium, voluntas autem movetur a re apprehensa. Unde in id voluntas tendit quod ei vis apprehensiva repraesentat, et secundum hoc qualificatur, vel specificatur actio. Si igitur ratio alicuius iudicet aliquid esse peccatum et voluntas feratur in id faciendum, manifestum est quod homo habet voluntatem faciendi peccatum; et ita actio eius exterior, quae informatur ex voluntate, est peccatum. Et eadem ratione si aliquis aestimet id quod est veniale peccatum, esse mortale peccatum, si hac conscientia durante illud faciat, manifestum est quod elegit peccare mortaliter, et ita actio eius propter suam electionem est peccatum mortale.  
+**1052**. Enumerat autem praecepta negativa, per quae aliquis prohibetur malum proximis inferre. Et hoc duplici ratione.  
 
-Si tamen aliquis post factum habeat conscientiam erroneam, per quam credat id quod est licitum a se factum fuisse peccatum, vel quod est veniale fuisse mortale, non propter hoc efficitur id quod est prius, vel peccatum, vel mortale, quia voluntas et actio non informantur ex apprehensione sequenti, sed ex praecedenti.  
+Primo quidem, quia praecepta negativa sunt magis universalia, et quantum ad tempora et quantum ad personas. Quantum ad tempora quidem, quia praecepta negativa obligant semper et ad semper. Nullo enim tempore est furandum et adulterandum. Praecepta autem affirmativa obligant quidem semper, sed non ad semper, sed pro loco et tempore; non enim tenetur homo, ut omni tempore honoret parentes, sed pro loco et tempore. Quantum ad personas autem, quia nulli hominum est nocendum, non autem sufficientes sumus, ut unus homo possit omnibus hominibus servire.  
 
-**1120**. Haec autem quae dicta sunt dubitationem non habent, sed dubium potest esse, utrum si aliquis habeat erroneam conscientiam ut credat esse necessarium ad salutem quod est peccatum mortale, puta si aliquis aestimet se peccare mortaliter nisi furetur vel fornicetur, utrum talis conscientia eum liget, ita scilicet si contra conscientiam agat, mortaliter peccet.  
+Secundo quia magis manifestum est quod per dilectionem proximi implentur praecepta negativa quam affirmativa. Qui enim diligit aliquem, magis abstinet a nocumento illius, quam ei beneficia impendat, a quo quandoque homo impeditur per impotentiam.  
 
-Et videtur quod non. Primo quidem quia lex Dei quae prohibet fornicationem et furtum, fortius ligat, quam conscientia.  
+**1053**. Tripliciter autem aliquis nocumentum proximo inferre potest. Uno modo, facto; alio modo, verbo; tertio, desiderio.  
 
-Secundo quia hoc posito esset perplexus, peccaret enim et fornicando et non fornicando.  
+Facto quidem tripliciter. Uno modo quantum ad personam ipsius proximi, et hoc prohibetur cum dicitur ***non occides***. In quo etiam intelligitur prohiberi omnis iniuria in personam proximi illata. I Io. III, 15: *omnis homicida non habet vitam aeternam in seipso*.  
 
-Sed dicendum est quod etiam in per se malis conscientia erronea ligat. In tantum enim conscientia ligat, ut dictum est, inquantum ex hoc quod aliquis contra conscientiam agit, sequitur quod habeat voluntatem peccandi; et ita si aliquis credat non fornicari esse peccatum mortale, dum eligit non fornicari, eligit peccare mortaliter, et ita mortaliter peccat. Et ad hoc etiam facit quod hic dicit Apostolus. Manifestum est enim quod discernere cibos quasi necessarium ad salutem erat illicitum, quia nec Iudaeis conversis etiam ante divulgationem Evangelii licebat servare legalia, spem ponendo in eis, quasi essent necessaria ad salutem, ut Augustinus dicit. Et tamen Apostolus hic dicit quod si quis habens conscientiam cogentem discernere cibos, quod est aestimare aliquid esse commune, et non discernit eos, scilicet abstinendo ab eis, peccat ac si manducaret immundum. Et ita etiam in per se illicitis conscientia erronea ligat.  
+Secundo quantum ad personam coniunctam, scilicet uxorem, et hoc prohibetur cum dicitur ***non adulterabis***. In quo etiam intelligitur prohiberi fornicatio et omnis illicitus usus genitalium membrorum. Hebr. ult.: *fornicatores et adulteros iudicabit Deus*.  
 
-Nec obstat quod primo obiicitur de lege Dei, quia idem est ligamen conscientiae etiam erroneae et legis Dei. Non enim conscientia dictat aliquid esse faciendum vel vitandum, nisi quia credit hoc esse contra vel secundum legem Dei. Non enim lex nostris actibus applicatur, nisi mediante conscientia nostra.  
+Tertio quantum ad res exteriores, quod prohibetur, cum dicitur ***non furaberis***. In quo etiam prohibetur omnis iniusta subtractio rei alienae, sive per vim, sive per dolum. Zach. V, 3: *omnis fur, sicut ibi scriptum est, iudicabitur*.  
 
-Similiter etiam nec obstat quod secundo obiicitur. Nihil enim prohibet aliquem esse perplexum aliquo supposito, licet nullus sit perplexus simpliciter, sicut sacerdos fornicarius, sive celebret Missam, sive non celebret quando debet ex officio, peccat mortaliter; non tamen est perplexus simpliciter, quia potest peccatum dimittere et celebrare. Et similiter potest aliquis conscientiam erroneam dimittere, et a peccato abstinere.  
+**1054**. Nocumentum autem, quod quis proximo infert verbo, prohibetur, cum dicitur ***non falsum testimonium dices***. Quod non solum prohibetur in iudicio sed etiam extra iudicium, sive per modum detractionis, sive per modum contumeliae. Prov. XIX, 5: *testis falsus non erit impunitus, et qui mendacia loquitur, non effugiet*.  
 
-**1121**. Est autem adhuc alia dubitatio.  
+Nocumentum autem quod quis infert proximo, solo desiderio, prohibetur cum dicitur ***non concupisces*** rem proximi tui. Ubi etiam intelligitur prohiberi concupiscentia uxoris; supra VII, 7: ***nam concupiscentiam nesciebam***, scilicet esse peccatum, ***nisi lex diceret: non concupisces***.  
 
-Non enim dicitur scandalizare qui facit opus rectum, licet etiam ex eo aliquis sumat materiam scandali, legitur enim Matth. XV, v. 12 quod Pharisaei audito verbo Christi, scandalizati sunt. Sed non discernere cibos est opus rectum: ergo non est dimittendum propter scandalum eius qui perversam conscientiam habet errans in fide. Nam secundum hoc Catholici deberent abstinere a carnibus et matrimonio, ne inde haeretici scandalizarentur secundum erroneam conscientiam.  
+**1055**. Ponuntur autem haec mandata Ex. XX, 17 ss. Enumeratis autem pluribus praeceptis, colligit omnia alia in communi dicens ***et si quod est aliud mandatum***, affirmativum vel negativum, vel ad Deum, vel ad proximum pertinens, per modum supra dictum, ***instauratur***, id est perficitur et impletur, ***in hoc verbo: diliges proximum tuum sicut teipsum***. Quod quidem ponitur Lev. c. XIX, 18; ubi nos habemus: *diliges amicum tuum sicut teipsum*.  
 
-Sed dicendum est quod aliquis scandalizare alium potest, non solum faciendo aliquod malum, sed etiam aliquid faciendo quod habet speciem mali, secundum illud I Thess. c. ult.: *ab omni specie mali abstinete vos*. Dicitur autem aliquid habere speciem mali dupliciter. Primo videlicet secundum opinionem eorum qui sunt ab Ecclesia praecisi; secundo, secundum opinionem eorum qui adhuc ab Ecclesia tolerantur. Infirmi autem in fide, aestimantes legalia esse observanda, adhuc tolerabantur ab Ecclesia ante Evangelii divulgationem. Et ideo non erat comedendum cum eorum scandalo de cibis in lege prohibitis. Haeretici autem non tolerantur ab Ecclesia, et ideo de eis non est similis ratio.  
+**1056**. Quod autem dicit ***proximum tuum***, referendum est ad omnem hominem et etiam ad sanctos angelos, ut Augustinus probat in I *de Doctrina Christiana*. Nomine enim proximi intelligitur quicumque facit alicui misericordiam, secundum illud Lc. X, 36: *quis tibi videtur illi proximus fuisse, qui incidit in latrones? Et ille dixit: qui fecit misericordiam*, et cetera. Et quia proximus est proximo proximus, consequens est quod etiam ille, qui ab aliquo misericordiam recipit, proximus ei dicatur. Sancti autem angeli nobis misericordiam impendunt, et nos omnibus hominibus misericordiam debemus impendere et ab eis, cum necesse fuerit, recipere. Unde patet quod et sancti angeli et omnes homines proximi nobis dicuntur, quia beatitudinem, ad quam nos tendimus, vel iam habent, vel ad eam nobiscum tendunt.  
 
-**1122**. Deinde cum dicit ***si enim propter cibum***, etc., manifestat quod dixerat.  
+Ex quo patet quod daemones non sunt secundum hanc rationem proximi nobis, nec sub hoc praecepto eorum dilectio nobis iniungitur, quia sunt totaliter a dilectione Dei exclusi et non sunt computandi in numero proximorum, sed in numero hostium.  
 
-Et primo primum, scilicet quod non sit ponendum scandalum fratribus;  
+**1057**. Quod autem dicit ***sicut teipsum***, non est referendum ad aequalitatem dilectionis, ut scilicet aliquis teneatur diligere proximum aequaliter sibi: hoc enim esset contra ordinem caritatis, quo quilibet plus tenetur suam, quam aliorum salutem curare. Cant. II, 4: *ordinavit in me caritatem*. Sed est referendum ad similitudinem dilectionis, ut scilicet similiter diligamus proximum sicut nosipsos.  
 
-secundo, secundum et tertium, quomodo scilicet sit aliquid commune, ibi ***omnia quidem munda sunt***, et cetera.  
+Et hoc tripliciter. Primo quidem quantum ad finem dilectionis, ut scilicet nos et proximum diligamus propter Deum. Secundo quantum ad formam dilectionis, ut scilicet sicut aliquis seipsum diligit, quasi sibi volens bonum, ita aliquis proximum diligat, quasi ei bona volens. Qui autem diligit proximum ad hoc solum ut eius utilitate vel dilectione potiatur, non vult bonum proximo, sed ex proximo vult sibi bonum. Quo quidem modo homo amare dicitur res irrationales, puta vinum vel aquam, ut scilicet eis utatur. Tertio quantum ad effectum dilectionis, ut scilicet aliquis necessitati proximi subveniat, sicut sibi, et quod nihil illicitum, propter amorem proximi, committat sicut nec propter suum amorem.  
 
-**1123**. Circa primum ponit quatuor rationes quarum prima sumitur ex parte caritatis, dicens ***si enim frater tuus contristatur***, de hoc quod reputat te peccare, ***propter cibum*** quem tu comedis, quem ipse reputat immundum, ***iam non secundum caritatem ambulas***, secundum quam aliquis proximum suum diligit sicut seipsum. Et ita vitat eius contristationem et non praefert cibum quieti fratris, quia, ut dicitur I Cor. c. XIII, 5: *caritas non quaerit quae sua sunt*.  
+**1058**. Deinde, cum dicit ***dilectio proximi***, etc., manifestat propositum medio syllogismi per hunc modum: qui diligit proximum, nullum malum operatur ad ipsum. Sed ad hoc tendit omne legis praeceptum, ut abstineatur a malo. Qui ergo diligit proximum, legem implevit. Quod autem dilectio proximi malum non operetur, habetur I Cor. XIII, 4: *caritas non agit perperam*, et cetera.  
 
-**1124**. Secundam rationem ponit, ibi ***noli cibo tuo***, etc., quae sumitur ex parte mortis Christi.  
+Quocumque autem modo accipiatur hic malum, vel pro malo transgressionis, vel etiam omissionis, poterit hoc referri non solum ad praecepta negativa sed etiam ad affirmativa. Inquantum vero dilectio proximi includit dilectionem Dei, intelligitur quod dilectio proximi excludit malum, non solum quod est contra proximum, sed etiam quod est contra Deum. Et sic includuntur etiam praecepta tabulae primae.  
 
-Videtur enim parum appretiare mortem Christi, qui pro cibo fructum eius evacuare non recusat. Unde dicit ***noli cibo tuo***, quem tu scilicet indifferenter comedis non discernendo cibos, ***illum perdere***, id est scandalizare, ***pro quo***, id est pro cuius salute, ***Christus mortuus est***. I Petr. III, 18: *Christus semel mortuus est pro peccatis nostris, iustus pro iniustis*.  
-
-Dicit autem illum perdi qui scandalizatur, quia scandalum passivum sine peccato scandalizati esse non potest. Ille enim scandalizatur qui occasionem sumit ruinae. I Cor. c. VIII, 11: *peribit infirmus in tua conscientia frater, pro quo Christus mortuus est*.  
-
-**1125**. Tertiam rationem ponit, ibi ***non ergo blasphemetur***, et cetera. Quae sumitur ex donis spiritualis gratiae.  
-
-Et primo ostendit inconveniens quod sequitur contra huiusmodi dona ex eo quod alios scandalizamus;  
-
-secundo manifestat quod dixerat, ibi ***non enim***, etc.;  
-
-tertio infert conclusionem intentam, ibi ***itaque quae pacis sunt sectemur***, et cetera.  
-
-**1126**. Circa primum considerandum est, quod ex hoc quod aliqui indifferenter cibis utebantur in primitiva Ecclesia cum scandalo infirmorum, hoc inconveniens sequebatur, quod infirmi fidem Christi blasphemabant, dicentes eam voracitatem ciborum inducere contra legis mandatum. Et ideo Apostolus dicit: ex quo per Dominum Iesum factum est quod nihil est commune, ***non ergo bonum nostrum***, id est fides vel gratia Christi, per quam libertatem a caeremoniis consecuti estis, ***blasphemetur*** ab infirmis dicentibus eam gulae hominum indulgere. Iac. c. II, 7: *ipsi blasphemant nomen bonum quod invocatum est super vos*; de hoc bono dicitur in Ps. LXXII, 28: *mihi adhaerere Deo, bonum est*.  
-
-**1127**. Deinde cum dicit ***non enim***, etc., manifestat quod dixerat, scilicet in quo bonum nostrum consistat.  
-
-Et primo ostendit in quo non consistat, dicens ***non enim est regnum Dei esca et potus***. Regnum autem Dei dicitur hic id per quod Deus regnat in nobis et per quod ad regnum ipsius pervenimus; de quo dicitur Matth. VI, 10: *adveniat regnum tuum*; et Mich. IV, 7: *regnabit Dominus super omnes in monte Sion*. Deo autem coniungimur et subdimur per interiorem intellectum, et affectum, ut dicitur Io. IV, 24: *Spiritus est Deus, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Et inde est quod regnum Dei principaliter consideratur secundum interiora hominis, non secundum exteriora. Unde dicitur Lc. XVII, 21: *regnum Dei intra vos est*.  
-
-Ea vero quae sunt exteriora ad corpus pertinentia, intantum ad regnum Dei pertinent, inquantum per ea ordinatur, vel deordinatur interior affectus, secundum ea in quibus principaliter consistit regnum Dei. Et ideo cum esca et potus ad corpus pertineant, ipsa secundum se non pertinent ad regnum Dei, nisi secundum quod eis utimur, vel ab eis abstinemus. Unde dicitur I Cor. VIII, 8: *esca autem nos non commendat Deo. Neque enim si non manducaverimus, deficiemus, neque si manducaverimus, abundabimus*.  
-
-Pertinet tamen usus, vel abstinentia escae et potus ad regnum Dei, inquantum affectus hominis circa hoc ordinatur, vel deordinatur. Unde Augustinus dicit in libro *de Quaestionibus Evangelii*, et habetur hic in Glossa: *iustificatur sapientia a filiis suis qui intelligunt non in abstinendo, nec in manducando esse iustitiam, sed in aequanimitate tolerandi inopiam, et in temperantia non se corrumpendi per abundantiam atque importunitatem sumendi. Non enim interest quomodo*, ut in Glossa dicitur, *quid alimentorum, vel quantum quis accipiat, dummodo id faciat pro congruentia hominum cum quibus vivit, et personae suae et pro valetudinis suae necessitate; sed quanta facultate et severitate animi careat his, vel cum oportet vel cum necesse est his carere*.  
-
-**1128**. Secundo ostendit in quo consistat bonum nostrum, quod regnum Dei vocat, dicens ***sed regnum Dei est iustitia, et pax, et gaudium in Spiritu Sancto***. Ut ***iustitia*** referatur ad exteriora opera, quibus homo unicuique reddit quod suum est et ad voluntatem huiusmodi opera faciendi, ut dicitur Matth. VI, 33: *primum quaerite regnum Dei et iustitiam eius*. ***Pax*** autem referatur ad effectum iustitiae. Per hoc enim pax maxime perturbatur, quod unus homo non exhibet alteri quod ei debet. Unde dicitur Is. c. XXXII, 17: *opus iustitiae pax*. ***Gaudium*** autem referendum est ad modum quo sunt iustitiae opera perficienda; ut enim dicit Philosophus in I *Ethic*.: *non est iustus qui non gaudet iusta operatione*. Unde et in Ps. XCIX, v. 2 dicitur: *servite Domino in laetitia*.  
-
-Causam autem huius gaudii exprimit dicens ***in Spiritu Sancto***. Est enim Spiritus Sanctus quo caritas Dei diffunditur in nobis, ut dicitur supra V, 6. Illud enim est ***gaudium in Spiritu Sancto***, quod caritas parit, puta cum aliquis gaudet de bonis Dei et proximorum. Unde I Cor. XIII, 6 dicitur, quod *caritas non gaudet super iniquitate, congaudet autem veritati*. Et Gal. V, 22 dicitur: *fructus autem spiritus est caritas, gaudium, pax*.  
-
-Haec autem tria quae hic tanguntur, imperfecte quidem in hac vita habentur, perfecte autem quando sancti possidebunt regnum Dei sibi paratum, ut dicitur Matth. XXV, 34. Ibi erit perfecta iustitia absque omni peccato. Is. LX, 21: *populus tuus omnes iusti*. Ibi erit pax absque omni perturbatione timoris. Is. c. XXXII, 18: *sedebit populus meus in pulchritudine pacis, in tabernaculis fiduciae*. Ibi erit gaudium. Is. XXXV, 10: *gaudium et laetitiam obtinebunt, et fugiet dolor et gemitus*.  
-
-**1129**. Tertio probat quod dixerat, scilicet quod in his regnum Dei consistit. Ille enim homo videtur ad regnum Dei pertinere, qui placet Deo et a sanctis hominibus approbatur; sed hoc illi contingit in quo invenitur iustitia, pax et gaudium: ergo in his est regnum Dei. Dicit ergo: dictum est quod *regnum Dei est iustitia, pax et gaudium in Spiritu Sancto*, ***qui ergo in hoc servit Christo***, qui est rex huius regni, secundum illud Col. I, 13: *transtulit nos in regnum Filii dilectionis suae*, ut scilicet vivat in iustitia, pace et spirituali gaudio, ***placet Deo***, qui est huius regni auctor, Sap. IV, 10: *placens Deo factus dilectus* ***et probatus est hominibus***, id est ab eis approbatur, qui sunt huius regni participes. Eccli. XXXI, 10: *qui probatus est in illo, et perfectus inventus est*.  
-
-**1130**. Deinde cum dicit ***itaque***, etc., infert admonitionem intentam, dicens: ex quo regnum Dei consistit in iustitia, pace et spirituali gaudio, ***itaque***, ut ad regnum Dei pervenire possimus, ***sectemur*** ea quae pacis sunt, id est ea studeamus adimplere per quae Christianorum pacem conservemus, Hebr. XII, v. 14: *pacem sequimini et sanctimoniam*, et cetera. ***Custodiamus invicem ea quae sunt aedificationis***, id est ea per quae invicem nos aedificemus, id est bonum conservemus, et in melius provocemur. I Cor. XIV, 12: *ad aedificationem Ecclesiae quaerite ut abundetis*. Quod quidem fiet si in iustitia et spirituali gaudio vixerimus.  
-
-**1131**. Quartam rationem ponit, ibi ***noli propter escam***, et cetera. Quae sumitur ex reverentia divinorum operum, quibus hoc reverentiae debemus, ut ea quae Deus operatur non debeamus destruere propter aliquod commodum corporale. Et hoc est quod dicit ***noli propter escam***, quae ad corporis utilitatem pertinet, ***destruere opus Dei***. Quod quidem non intelligitur de quocumque Dei opere. Nam omnia quae in cibum hominis veniunt, Dei opera sunt, sicut terrae nascentia et animalium carnes, quae sunt hominibus in cibum a Deo concessa, ut patet Gen. c. I, 29 et IX, 3. Sed intelligitur de opere gratiae, quod in nobis ipsis specialiter operatur. Phil. II, 13: *Deus enim est qui operatur in nobis velle et perficere pro bona voluntate*. Hoc igitur opus Dei non debemus in proximo destruere propter escam nostram, sicut facere videbantur illi qui, turbatione et scandalo proximorum, indifferentibus utebantur.  
+**1059**. Ultimo autem infert conclusionem principaliter intentam, dicens ***plenitudo ergo legis est dilectio***, id est, per dilectionem lex impletur et perficitur. Eccli. XXIV, 16: *in plenitudine sanctorum detentio mea*. Col. c. III, 14: *caritatem habete, quod est vinculum perfectionis*.  
 
 Lectio 3  
 
-***Esca munda et immunda***
+***Exhortatio indui Dominum Jesum Christum***
 
-***^14:20^ Omnia quidem sunt munda: sed malum est homini, qui per offendiculum manducat. [n. 1132]***
+***^13:11^ Et hoc scientes tempus: quia hora est jam nos de somno surgere. Nunc enim propior est nostra salus, quam cum credidimus. [n. 1060]***
 
-> ^14:21^ Bonum est non manducare carnem, et non bibere vinum, neque in quo frater tuus offenditur, aut scandalizatur, aut infirmatur. [n. 1134]
+> ^13:12^ Nox praecessit, dies autem appropinquavit. [n. 1066] Abjiciamus ergo opera tenebrarum, et induamur arma lucis. [n. 1070]
 
-> ^14:22^ Tu fidem habes? penes temetipsum habe coram Deo. Beatus qui non judicat semetipsum in eo quod probat. [n. 1136]
+> ^13:13^ Sicut in die honeste ambulemus: [n. 1073] non in comessationibus, et ebrietatibus, non in cubilibus, et impudicitiis, non in contentione, et aemulatione: [n. 1074]
 
-> ^14:23^ Qui autem discernit, si manducaverit, damnatus est: quia non ex fide. Omne autem, quod non est ex fide, peccatum est. [n. 1139]
+> ^13:14^ sed induimini Dominum Jesum Christum, et carnis curam ne feceritis in desideriis. [n. 1079]
 
-> **1132**. Postquam Apostolus posuit rationem ad ostendendum, quod non debemus cum scandalo proximorum indifferenter sumere omnia, hic ostendit qualiter aliqui cibi possunt esse mundi et immundi. Et circa hoc duo facit.
+> **1060**. Postquam Apostolus ostendit quomodo homo debet se Deo exhibere pium, convenienter eius donis utendo, et proximo iuste ei debita reddendo, hic ostendit quomodo in seipso debeat honestatem conservare.
 
-Primo proponit quae sunt munda ex sua natura, dicens ***omnia quidem***, quae scilicet ad escam hominis pertinere possunt, ***munda sunt***, scilicet ex sui natura, quia ex sui natura non habent quod animam hominis inquinent, secundum illud Matth. XV, 11: *non enim omne quod intrat in os inquinat hominem*. I Tim. IV, 4: *omnis creatura Dei bona*. Dicebantur autem in lege quaedam immunda, non natura, sed significatione, ut patet Lev. XI, 2 ss. Sed et hanc immunditiam Christus removit, implendo veteris legis figuras. Unde dictum est Petro, Act. X, 15: *quod Deus purificavit, tu ne commune dixeris*, id est immundum.  
+Et circa hoc duo facit.  
 
-Secundo, ibi ***sed malum est homini***, etc., ostendit qualiter aliquis cibus homini possit fieri immundus, ut scilicet ex eius esu secundum animam inquinetur, quod quidem ostendit fieri dupliciter.  
+Primo proponit temporis congruitatem;  
 
-Primo ex eo quod aliquis cibum quemcumque cum scandalo proximorum manducat;  
+secundo exhortatur ad honestatem operum, ibi ***abiiciamus ergo***, et cetera.  
 
-secundo ex eo quod contra conscientiam manducat, ibi ***beatus qui non iudicat***, et cetera.  
+Circa primum tria facit.  
 
-**1133**. Circa primum tria facit. Primo ostendit quid circa esum ciborum sit malum, dicens: licet omnia ex sui natura sint munda, sed tamen ***malum est homini qui manducat***, quemcumque cibum, ***per offendiculum***, id est, cum confusione et scandalo proximorum. Matth. XVIII, 7: *vae homini illi per quem scandalum venit*.  
+Primo ponit temporis congruitatem;  
 
-**1134**. Secundo ostendit quid circa huiusmodi usum ciborum sit bonum, dicens ***bonum est non manducare carnem et non bibere vinum***; quorum primum praecipuum esse videtur inter cibos, secundum inter potus.  
+secundo assignat rationem, ibi ***nunc enim propior est***, etc.;  
 
-Et ab his quidem abstinere ponit bonum esse, vel propter carnis concupiscentiam edomandam, secundum illud Eph. V, 18: *nolite inebriari vino in quo est luxuria*; vel etiam ut homo reddatur habilior ad spiritualia contemplanda, secundum illud Eccle. II, 3: *cogitavi a vino abstrahere carnem meam, ut animum meum transferrem ad sapientiam*.  
+tertio adhibet similitudinem, ibi ***nox praecessit***, et cetera.  
 
-Sed hoc non intendit hic Apostolus dicere, sed quod bonum est his non uti cum scandalo proximorum, quod quidem apparet ex hoc quod subditur ***neque in quo frater tuus offenditur***, et cetera. Quod dico, non solum dico de vino et carnibus quod bonum est eis non uti, sed quocumque alio cibo; ***frater tuus offenditur***, id est turbatur contra te, quasi illicite agentem, per quod pax eius perturbatur, ***aut scandalizatur***, id est, ad casum peccati provocatur, propter quod laeditur eius iustitia, ***aut infirmatur***, id est saltem in dubitationem venit, utrum hoc quod agitur sit licitum, per quod eius spirituale gaudium diminuitur. Unde et ipse Apostolus dicit I Cor. VIII, 13: *si esca scandalizat fratrem meum, non manducabo carnem in aeternum, ne fratrem meum scandalizem*.  
+**1061**. Dicit ergo primo: dictum est quae debetis observare et hoc, non solum propter ea quae dicta sunt, sed etiam ***scientes hoc tempus***, id est per hoc quod debetis considerare huius temporis conditionem, quia ut dicitur Eccle. VIII, 6: *omni negotio tempus est et opportunitas*. Ier. VIII, 7: *milvus in caelo cognovit tempus suum, turtur, et hirundo, et ciconia custodierunt tempus adventus sui, populus autem meus*, et cetera.  
 
-**1135**. Sed cum licitum sit his cibis uti, si est ab his abstinendum propter hoc quod vitetur scandalum proximorum, videtur pari ratione quod ab omnibus licitis quae non sunt necessaria ad salutem, sicut sunt necessaria iustitia, pax et spirituale gaudium, sit propter proximorum scandalum abstinendum. Et ita videtur quod homini non liceat sua repetere cum scandalo proximi.  
+**1062**. Ad quid autem congruum sit hoc tempus ostendit, subdens ***quia hora est iam nos de somno surgere***. Quod quidem intelligendum est non de somno naturae, qui quandoque dicitur mors, secundum illud I Thess. IV, 12: *nolumus vos ignorare de dormientibus*, quandoque autem est quies animalium virtutum, secundum illud Io. XI, v. 12: *si dormit, salvus erit*. Nec enim intelligendum est de somno gratiae, qui quandoque dicitur quies aeternae gloriae, secundum illud Ps. IV, 9: *in pace in idipsum*, etc., quandoque autem est quies contemplationis etiam in hac vita. Cant. V, 2: *ego dormio, et cor meum vigilat*. Sed intelligitur de somno culpae, secundum illud Eph. V, 14: *exurge, qui dormis, et exurge a mortuis*, etc., vel etiam negligentiae, secundum illud Prov. c. VI, 9: *usquequo, piger, dormies?*  
 
-Sed dicendum est quod si scandalum ex infirmitate vel ex ignorantia proveniat eorum qui propter hoc scandalizantur, ad vitandum hoc scandalum, debet homo a licitis abstinere, si non sunt necessaria ad salutem. Hoc enim est scandalum pusillorum, quod Dominus vitari iubet, Matth. XVIII, 10: *videte ne contemnatis unum ex his pusillis*. Si vero huiusmodi scandalum ex malitia proveniat eorum qui scandalizantur, tale scandalum est quasi Pharisaeorum, quod Dominus, Matth. c. XV, 12 ss., docuit esse contemnendum. Unde ad vitandum huiusmodi scandalum non oportet a licitis abstinere.  
+Tempus ergo est surgendi a somno culpae per poenitentiam Ps. CXXVI, 2: *surgite, postquam sederitis*, etc., a somno vero negligentiae per sollicitudinem bene operandi Is. XXI, 5: *surgite, principes, accipite clypeum*. Eccli. XXXII, 15: *hora surgendi non te tristet*.  
 
-Sed tamen circa scandalum pusillorum attendendum est, quod propter illud vitandum tenetur homo usum licitorum differre, quousque reddita ratione hoc scandalum amoveri possit. Si vero ratione reddita, adhuc scandalum maneat, iam non videtur ex ignorantia vel ex infirmitate procedere sed ex malitia: et sic iam pertinebit ad scandalum Pharisaeorum.  
+**1063**. Deinde, cum dicit ***nunc enim***, etc., assignat rationem eius quod dixerat, dicens ***nunc enim propior est salus nostra, quam cum credidimus***. Quod quidem secundum intentionem Apostoli intelligitur de salute vitae aeternae, de qua dicitur Is. LI, 8: *salus autem mea in sempiternum erit*.  
 
-**1136**. Tertio excludit quamdam excusationem. Posset enim aliquis dicere: licet proximus scandalizetur de hoc quod indifferenter ego cibis utor, tamen ad ostensionem meae fidei, per quam certum est hoc mihi licere, volo indifferenter cibis uti.  
+Ad hanc autem salutem homo ordinatur, primo quidem, per fidem. Mc. ult.: *qui crediderit et baptizatus fuerit, salvus erit*. Sed semper magis ac magis homo accedit ad eam per bona opera et caritatis augmentum. Unde dicitur Iac. IV, 8: *appropinquate Deo, et appropinquabit vobis*.  
 
-Sed hanc rationem excludens Apostolus dicit ***tu***, qui scilicet indifferenter cibis uteris, ***fidem habes***, rectam apud temetipsum, per quam constat licitum esse his cibis uti. Bona quidem et laudabilis est fides ista, sed ***habe*** eam in occulto, ***coram Deo***, cui talis fides placet, Eccli. I, 34 s.: *beneplacitum est Deo fides et mansuetudo*. Quasi dicat: non oportet quod fidem istam manifestes per operis executionem, ubi hoc fit cum scandalo proximorum.  
+Hoc est ergo quod Apostolus dicit: ideo ***hora est iam nos de somno surgere, nunc enim***, quando scilicet per opera bona et per caritatis augmentum profecimus, ***propior***, id est propinquior, ***est***, scilicet nobis, ***nostra salus***, scilicet vitae aeternae de qua dicitur Is. LI, 8: *salus autem mea in sempiternum erit*; ***quam cum credidimus***, id est quam cum a principio fidem accepimus.  
 
-**1137**. Sed contra videtur esse quod dicitur supra X, 10: ***corde creditur ad iustitiam, ore autem confessio fit ad salutem***. Non ergo videtur quod sufficiat corde solum coram Deo fidem habere, sed oportet huiusmodi fidem proximo manifestare, confitendo.  
+**1064**. Et potest hic intelligi duplex propinquitas.  
 
-Dicendum est autem quod eorum quae sunt fidei, quaedam sunt quae non sunt perfecte per Ecclesiam manifestata, sicut in primitiva Ecclesia nondum erat perfecte declaratum apud homines quod illi qui erant ex Iudaeis conversi non tenerentur legalia observare, et sicut tempore Augustini nondum erat per Ecclesiam declaratum quod anima non esset ex traduce. Unde in huiusmodi sufficit homini quod fidem habeat coram Deo, nec oportet quod fidem suam propalet cum scandalo proximorum, nisi forte apud eos qui habent de fide determinare.  
+Una quidem secundum tempus, qua viri sancti, in operibus iustitiae proficientes, magis appropinquant ad terminum vitae huius, in quo mercedem accipiunt.  
 
-Quaedam vero sunt ad fidem pertinentia iam per Ecclesiam determinata, et in talibus non sufficit fidem habere coram Deo, sed oportet quod coram proximo fidem quis confiteatur, quantumcumque ex hoc aliquis scandalizetur, quia veritas doctrinae non est dimittenda propter scandalum, sicut nec Christus veritatem suae doctrinae propter scandalum Pharisaeorum dimisit, ut habetur Matth. c. XV, 12 ss.  
+Alia vero est propinquitas dispositionis vel praeparationis, quia per augmentum caritatis et operationem iustitiae homo praeparatur ad illam salutem. Matth. XXV, 10: *quae paratae erant, intraverunt cum eo ad nuptias*.  
 
-Sciendum etiam quod licet circa talia oporteat quod homo fidem suam manifestet confessione verborum, non tamen oportet quod eam manifestet executione operis, sicut si aliquis tenet fide uti matrimonio esse licitum, non requiritur ab eo quod matrimonio utatur ad fidei suae manifestationem. Et sic etiam non requirebatur ab eis, qui rectam fidem habebant, quod fidem suam usu ciborum manifestarent. Poterant enim manifestare verbotenus confitendo.  
+**1065**. Sed secundum quod Ecclesia haec verba adventus tempore legit, videntur haec verba esse referenda ad salutem quam Christus fecit in suo primo adventu, ut intelligamus Apostolum loquentem quasi ex persona omnium fidelium qui fuerunt ab initio mundi. Appropinquante enim iam tempore incarnationis Christi, quo vaticinia prophetarum crebrescebant, quod tempus repraesentat Ecclesia, poterit dici: ***nunc propior est nostra salus*** scilicet Christus, ***quam cum credidimus***, id est cum homines a principio credere coeperunt Christi adventum futurum. Is. LVI, 1: *iuxta est salus mea, ut veniat, et iustitia mea, ut reveletur*.  
 
-**1138**. Deinde cum dicit ***beatus qui non iudicat***, etc., ostendit quomodo ciborum usus efficitur aliquibus immundus, ex eo quod est contra conscientiam.  
+Posset etiam assumi ad tempus misericordiae, quo quis incipit velle a praeteritis peccatis discedere. Tunc enim magis appropinquat suae saluti, quam a principio, dum haberet fidem informem. Iac. IV, 7 s.; *resistite diabolo, et fugiet a vobis; appropinquate Deo, et appropinquabit vobis*, et cetera.  
 
-Et circa hoc tria facit. Primo ostendit quid circa hoc sit bonum, ut scilicet de eo quod homo non facit non habeat conscientiam remordentem. Unde dicit ***beatus qui non iudicat semetipsum***, id est cuius conscientia eum non reprehendit vel condemnat, ***in eo quod probat***, id est approbat esse faciendum.  
+**1066**. Deinde, cum dicit ***nox praecessit, dies autem appropinquavit***, etc., ponit ad propositum similitudinem. Quod quidem secundum intentionem Apostoli sic videtur esse intelligendum ut totum tempus vitae praesentis nocti comparetur propter ignorantiae tenebras, quibus praesens vita gravatur. Iob XXXI, 1: *omnes quippe involvimur tenebris*, et cetera. Et de hac nocte dicitur Is. XXVI, v. 9: *anima mea desideravit te in nocte*.  
 
-Sed hoc est intelligendum, si recta fide approbet esse aliquid faciendum. Si autem falsa opinione approbat aliquid esse faciendum, puta si arbitratur obsequium se praestare Deo, de eo quod discipulos Christi interficit, ut dicitur Io. XVI, 2, non excusatur ex eo quod circa hoc non iudicat semetipsum; imo beatior esset si circa hoc eum conscientia reprehenderet, inquantum per hoc a peccato magis prohiberetur. Sed in his quae sunt licita, est intelligendum quod hic Apostolus dicit. Hoc enim ad gloriam hominis pertinet quod eum sua conscientia non reprehendat. II Cor. I, 12: *gloria nostra haec est, testimonium conscientiae nostrae*. Iob XXVII, 6: *neque enim reprehendit me cor meum in omni vita mea*.  
+Diei autem comparatur status futurae beatitudinis propter claritatem Dei, qua sancti illustrantur. Is. LX, 19: *non erit tibi amplius sol ad lucendum per diem, nec splendor lunae illuminabit te, sed erit tibi Dominus in lucem sempiternam*. Ad quem diem refertur quod dicitur in Ps. CXVII, 24: *haec dies, quam fecit Dominus, exultemus et laetemur in ea*.  
 
-**1139**. Secundo ostendit quid circa hoc sit malum, ut scilicet contra conscientiam agat. Unde dicit ***qui autem discernit***, id est, qui habet opinionem falsam quod oportuit cibos discernere, ***si manducaverit***, scilicet cibos quos reputat esse illicitos, ***damnatus est***, ex hoc quod quantum in ipso est, habet voluntatem faciendi quod est illicitum, et sic *delinquit proprio iudicio condemnatus*, ut dicitur Tit. III, 11.  
+**1067**. Alio modo potest intelligi quod status culpae nocti comparetur propter tenebras culpae, de quibus dicitur in Ps. LXXXI, v. 5: *nescierunt, neque intellexerunt, in tenebris ambulant*. Et de hac nocte dicitur Sap. c. XVII, 20: *solis autem illis superposita erat gravis nox, imago tenebrarum, quae superventurae erant illis*.  
 
-**1140**. Tertio assignat causam eius quod dixerat dicens ***quia non ex fide***; ideo scilicet condemnatus est.  
+Dies autem dicitur status gratiae propter lumen spiritualis intelligentiae, quod iusti habent sed impiis deest. Ps. XCVI, 11: *lux orta est iusto*. Sap. V, 6: *sol intelligentiae non est ortus nobis*.  
 
-Potest autem hic fides dupliciter accipi: uno modo de fide quae est virtus, alio modo secundum quod fides dicitur conscientia. Et hae duae acceptiones non differunt nisi secundum differentiam particularis et universalis. Id enim quod universaliter fide tenemus, puta usum ciborum esse licitum vel illicitum, conscientia applicat ad opus quod est factum vel faciendum.  
+**1068**. Tertio modo potest intelligi quod comparetur nocti tempus praecedens Christi incarnationem, quia nondum erat manifestata, sed sub quadam caligine. II Petr. I, v. 19: *habetis propheticum sermonem, cui benefacitis attendentes quasi lucernae lucenti in caliginoso loco*. Et de hac nocte dicitur Is. XXI, 11: *custos, quid de nocte?* Unde, sicut in nocte apparent umbrae ita etiam illo tempore eminebant legalia, *quae sunt umbra futurorum*, ut dicitur Col. II, 17.  
 
-Dicitur ergo, ideo eum qui manducat et discernit, esse condemnatum, quia hoc non est ex fide, imo est contra fidem, id est contra veritatem fidei et contra conscientiam facientis. Hebr. XI, 6: *sine fide impossibile est placere Deo*. Et quod haec sit sufficiens causa condemnationis, ostendit subdens ***omne autem quod non est ex fide peccatum est***. Ex quo videtur quod, sicut dicitur in Glossa *omnis vita infidelium peccatum sit*, sicut omnis vita fidelium est meritoria, inquantum ad Dei gloriam ordinatur, secundum illud I Cor. c. X, 31: *sive manducatis, sive bibitis, sive aliquid aliud facitis, omnia in gloriam Dei facite*.  
+Tempus autem ab incarnatione Christi comparatur diei propter potentiam spiritualis solis in mundo, de quo dicitur Mal. ult.: *vobis timentibus nomen meum orietur sol iustitiae*. Unde et ipse Dominus dicit Io. IX, 4: *me oportet operari opera eius qui misit me, donec dies est*. Et postea subdit: *quamdiu in mundo sum, lux sum mundi*.  
 
-**1141**. Sed dicendum est quod aliter se habet fidelis ad bonum, et infidelis ad malum. Nam in homine qui habet fidem formatam nihil est damnationis, ut supra VIII, 1 dictum est. Sed in homine infideli cum infidelitate est bonum naturae. Et ideo cum aliquis infidelis ex dictamine rationis aliquod bonum facit, non referendo ad malum finem, non peccat. Non tamen opus eius est meritorium, quia non est gratia informatum. Et hoc est quod in Glossa dicitur: *nihil bonum est sine summo bono*, id est, nullum bonum meritorium est sine gratia Dei, et *ubi deest agnitio vitae aeternae et incommutabilis veritatis*, quae scilicet est per fidem, *falsa virtus est in optimis moribus*, inquantum scilicet non refertur ad finem beatitudinis aeternae. Cum vero homo infidelis aliquid agit ex eo quod infidelis est, manifestum est quod peccat. Unde in Glossa cum dicitur: *opus omne quod non est ex fide, peccatum est*, sic est intelligendum: omne quod est contra fidem vel contra conscientiam, peccatum est, et si ex genere suo bonum esse videatur, puta si Paganus ad honorem suorum deorum virginitatem servet, vel eleemosynam det, hoc ipso peccat. Tit. I, 15: *coinquinatis et infidelibus nihil mundum est, sed inquinatae sunt eorum et mens, et conscientia*.
+**1069**. Quod ergo dicitur ***nox praecessit***, indifferenter accipi potest pro qualibet praedictarum trium noctium. Iam enim praecesserat eos quibus scribebat, et magna pars temporis huius vitae, et, quod verius est, praecesserat nox culpae; praecesserat etiam tempus legis, quod fuit ante Christum.  
+
+Quod autem subdit ***dies autem appropinquavit***, videtur secundum intentionem Apostoli referendum esse ad diem futurae gloriae, qui licet nondum advenisset fidelibus Christi quibus scribebat, tamen in propinquo erat eis.  
+
+Secundum praedicta posset etiam intelligi tempus gratiae Christi, quod etsi iam advenerit secundum temporum cursum, appropinquare tamen nobis dicitur per fidem et devotionem, sicut et Phil. IV, 5 dicitur: *Dominus prope est*, et in Ps. CXLIV, 18: *prope est Dominus omnibus invocantibus eum*.  
+
+Potest etiam hoc congruere his qui de peccatis poenitere incipiunt, quibus dies gratiae appropinquat.  
+
+**1070**. Deinde, cum dicit ***abiiciamus***, etc., concludit exhortationem de honestate vitae.  
+
+Et primo ponit exhortationem;  
+
+secundo exponit eam, ibi ***non in comessationibus***, et cetera.  
+
+Circa honestatem vitae tria tangit.  
+
+**1071**. Primo quidem remotionem vitiorum concludens ex praemissis: si ***nox praecessit***, ut dictum est, ***abiiciamus opera tenebrarum***, quia, ut dicitur Eccle. VIII, 6, *omni negotio tempus est et opportunitas*. Unde, recedente nocte, cessare debent opera noctis.  
+
+Dicuntur autem opera tenebrarum opera peccatorum: primo quidem, quia in seipsis privata sunt lumine rationis, quo illustrari debent humana opera, Eccle. II, 14: *sapientis oculi in capite eius, stultus in tenebris ambulat*, secundo, quia in tenebris aguntur, Iob XXIV, v. 15: *oculus adulteri observat caliginem*, tertio, quia per ea homo ad tenebras ducitur, secundum illud Matth. XXII, 13: *mittite eum in tenebras exteriores*.  
+
+**1072**. Secundo inducit ad assumendas virtutes, quasi dicat: ex quo dies appropinquavit, assumentes ea quae congruunt diei, ***induamur arma lucis***, id est virtutes, quae et arma dicuntur, inquantum nos muniunt. Eph. ult.: *induite vos armaturam Dei, ut possitis stare adversus insidias diaboli*.  
+
+Et dicuntur lucis arma, tum quia lumine rationis decorantur et perficiuntur, unde dicitur Prov. IV, 18: *iustorum semita quasi lux splendens procedit*, tum quia lucis examen requirunt, Io. III, 21: *qui facit veritatem, venit ad lucem*, tum quia per opera virtutum alii illuminantur, Matth. V, 16: *sic luceat lux vestra coram hominibus*, et cetera.  
+
+**1073**. Tertio exhortatur ad usum virtutum et profectum, cum dicit ***sicut in die honeste ambulemus***. Haec enim duo videntur diei congruere. Primo quidem honestas. Nam in die unusquisque seipsum studet componere, ut coram aliis honestus appareat. In nocte autem non sic. Unde dicitur I Thess. c. V, 7: *qui dormiunt, nocte dormiunt: et qui ebrii sunt, nocte ebrii sunt: nos autem qui diei sumus, sobrii simus*. Unde I Cor. c. XIV, 40 dicitur: *omnia honeste et secundum ordinem fiant in vobis*.  
+
+Secundo homo in die ambulat, non in nocte. Unde dicitur Io. XI, 10: *qui ambulat in nocte offendit*. Et ideo, quia dies est, oportet quod ambulemus, id est de bono in melius procedamus. Unde dicitur Io. XII, 35: *ambulate, dum lucem habetis*.  
+
+**1074**. Deinde, cum dicit ***non in comessationibus***, etc., exponit quod dixerat.  
+
+Et, primo, exponit quomodo sunt abiicienda opera tenebrarum, quae sunt opera peccatorum, de quibus quaedam enumerat. Primo ponens ea quae pertinent ad corruptionem concupiscibilis, cuius corruptio est intemperantia, quae est circa delectationes tactus et circa cibos. Unde, primo, excludit intemperantiam ciborum, cum dicit ***non in comessationibus***. Dicuntur comessationes superfluae et nimis accuratae comestiones. Prov. c. XXIII, 20: *noli esse in conviviis peccatorum, nec in comessationibus eorum qui carnes ad vescendum conferunt*. Quod quidem potest esse peccatum mortale ex hoc quod secundum legem pro hac culpa aliquis damnatur ad mortem. Dicitur enim de filio protervo Deut. XXI, 22: *comessationibus vacat, et luxuriae atque conviviis; lapidibus eum obruet populus*, et cetera.  
+
+Dicitur autem aliquis vacare comessationibus atque conviviis, non quidem si comedat magnifice secundum statum suae dignitatis, sicut dicitur, Esther II, 18, quod Assuerus iussit praeparari convivium magnificum propter coniunctionem Esther, iuxta magnificentiam principalem; sed quando aliquis hoc facit praeter decentiam sui status, et praecipue si ad hoc principalis eius cura existat, sicut illi de quibus dicitur infra ult.: ***huiusmodi Christo Domino non serviunt, sed suo ventri***; et Phil. III, 9: *quorum Deus venter est*.  
+
+**1075**. Secundo excludit intemperantiam circa potum, cum subdit ***et ebrietatibus***, quae pertinent ad superfluitatem potus extra mensuram rationis hominem ponentis. Eccli. XXXI, 35: *vinum in iucunditate creatum, et non in ebrietate*.  
+
+Et est considerandum quod ebrietas ex suo genere est peccatum mortale, cum scilicet homo ex proposito inebriatur, quia videtur praeferre delectationem vini integritati rationis. Unde dicitur Is. V, 22: *vae qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Si vero aliquis inebrietur praeter intentionem, non ex proposito, puta quia ignorat virtutem vini, vel quia non aestimat se tanto potu inebriandum, non est peccatum mortale, quia non per se inebriatur sed per accidens, id est praeter intentionem, quod quidem non potest contingere in his, qui frequenter inebriantur. Et ideo dicit Augustinus in sermone de Purgatorio, quod ebrietas est peccatum mortale, si assidua fuerit. Unde signanter hic Apostolus in plurali numero dicit: ***non in comessationibus et ebrietatibus***.  
+
+**1076**. Tertio excludit intemperantiam circa corporalem quietem, cum dicit ***non in cubilibus*** id est non in superflua dormitione, quam convenienter post comessationem et ebrietatem prohibet, quia sequitur ex illis. Et potest esse in hoc peccatum mortale, quando propter quietem corporalem et somnum omittit homo quae facere debet et inclinatur ad aliqua mala facienda. Mich. II, 1: *vae qui cogitatis inutile, et operamini malum in cubilibus vestris*.  
+
+Potest etiam quod dicit ***non in cubilibusvestris***, referri ad apparatum luxuriae. Unde dicitur in persona meretricis Prov. VII, 17: *aspersi cubile meum myrrha*, et cetera. Gen. XLIX, v. 4: *ascendisti cubile patris tui*.  
+
+**1077**. Et ideo convenienter, quarto, excludit intemperantiam circa venerea, cum subdit ***et impudicitiis***, id est quibuscumque venereis actibus, qui dicuntur impudici, quia non cavent id quod est maxime pudore vel confusione dignum: tum quia omnes delectationes tactus, gulae et luxuriae sunt communes nobis et brutis. Unde qui eis inordinate insistit, brutalis efficitur. Ps. XXXI, 9: *nolite fieri sicut equus et mulus, quibus non est intellectus*, et cetera. Tum etiam quia specialiter in actibus venereis ratio hominis totaliter absorbetur a delectatione, ut non possit homo tunc aliquid intelligere, sicut Aristoteles dicit in libro *Ethicorum*. Unde et Osee IV, 11 dicitur: *fornicatio, et ebrietas, et vinum auferunt cor*. Apoc. IX, 21: *non egerunt poenitentiam super immunditia et fornicatione et impudicitia, quam gesserunt*.  
+
+**1078**. Deinde excludit ea quae pertinent ad corruptionem irascibilis, cum dicit ***non in contentione***. Quae quidem, ut Ambrosius dicit, est impugnatio veritatis cum confidentia clamoris. Potest autem intelligi quod per hoc prohibetur omnis rixa, non solum verborum, sed et factorum, quae ut plurimum a verbis incipit. Prov. XX, 3: *honor est homini qui separat se a contentionibus*.  
+
+Solet autem contentio ex invidia generari, et ideo subdit ***et aemulatione***. Unde Iac. III, v. 16 dicitur: *ubi zelus et contentio, ibi inconstantia et omne opus pravum*.  
+
+**1079**. Secundo exponit quomodo debeamus induere arma lucis, dicens ***sed induimini Dominum Iesum Christum***, in quo scilicet abundantissime fuerunt omnes virtutes, secundum illud Is. IV, 1: *apprehendent septem mulieres virum unum*.  
+
+Induimus autem Iesum Christum, primo quidem, per sacramenti susceptionem. Gal. c. III, 27: *quicumque in Christo baptizati estis, Christum induistis*.  
+
+Secundo, per imitationem. Col. III, 9: *expoliantes vos veterem hominem cum actibus suis, et induentes novum*, et cetera. Et Eph. IV, 24: *induite novum hominem, qui secundum Deum creatus est in iustitia*, et cetera. Dicitur autem induere Christum qui Christum imitatur, quia, sicut homo continetur vestimento et sub eius colore videtur, ita in eo, qui Christum imitatur, opera Christi apparent. Per hoc ergo induimur arma lucis, quando induimur Christum.  
+
+**1080**. Tertio exponit quod dixerat ***sicut in die honeste ambulemus***, per hoc quod subdit ***et carnis curam ne feceritis in desideriis***. In hoc enim pulchritudo honestatis consistit ut homo non carnem spiritui sed spiritum praeferat carni. Supra VIII, 12: ***debitores sumus non carni, ut secundum carnem vivamus***.  
+
+Sed notandum quod non dicit simpliciter ***carnis curam ne feceritis***, quia quilibet tenetur ut carnis curam gerat ad sustentandam naturam, secundum illud Eph. V, 29: *nemo umquam carnem suam odio habuit, sed nutrit et fovet*, et cetera. Sed addit ***in desideriis***, ut scilicet inordinata carnis desideria, id est concupiscentias, non sequamur. Unde dicitur Gal. V, 16: *Spiritu ambulate, et desideria carnis non perficietis*.

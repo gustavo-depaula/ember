@@ -1,155 +1,163 @@
-# C. 22 - Threats against Judah’s rulers
+# C. 20 - Pashhur persecutes Jeremiah
 
-***^22:1^ Haec dicit Dominus: descende in domum regis Juda, et loqueris ibi verbum hoc,***
+***^20:1^ Et audivit Phassur filius Emmer sacerdos, qui constitutus erat princeps in domo Domini, Jeremiam prophetantem sermones istos.***
 
-> ^22:2^ et dices: audi verbum Domini, rex Juda, qui sedes super solium David, tu, et servi tui, et populus tuus, qui ingredimini per portas istas.
+> ^20:2^ Et percussit Phassur Jeremiam prophetam, et misit eum in nervum, quod erat in porta Benjamin superiori in domo Domini.
 
-> ^22:3^ Haec dicit Dominus: facite judicium, et justitiam, et liberate vi oppressum de manu calumniatoris; et advenam, et pupillum, et viduam nolite contristare, neque opprimatis inique, et sanguinem innocentem ne effundatis in loco isto.
+> ^20:3^ Cumque illuxisset in crastinum, eduxit Phassur Jeremiam de nervo, et dixit ad eum Jeremias: non Phassur vocavit Dominus nomen tuum, sed Pavorem undique:
 
-> ^22:4^ Si enim facientes feceritis verbum istud, ingredientur per portas domus hujus reges sedentes de genere David super thronum ejus, et ascendentes currus, et equos, ipsi, et servi, et populus eorum.
+> ^20:4^ quia haec dicit Dominus: ecce ego dabo te in pavorem, te, et omnes amicos tuos, et corruent gladio inimicorum suorum; et oculi tui videbunt. Et omnem Judam dabo in manu regis Babylonis, et traducet eos in Babylonem, et percutiet eos gladio.
 
-> ^22:5^ Quod si non audieritis verba haec, in memetipso juravi, dicit Dominus, quia in solitudinem erit domus haec.
+> ^20:5^ Et dabo universam substantiam civitatis hujus, et omnem laborem ejus, omneque pretium, et cunctos thesauros regum Juda dabo in manu inimicorum eorum; et diripient eos, et tollent, et ducent in Babylonem.
 
-> ^22:6^ Quia haec dicit Dominus super domum regis Juda: Galaad, tu mihi caput Libani: si non posuero te solitudinem, urbes inhabitabiles.
+> ^20:6^ Tu autem Phassur, et omnes habitatores domus tuae, ibitis in captivitatem, et in Babylonem venies, et ibi morieris, ibique sepelieris tu, et omnes amici tui, quibus prophetasti mendacium.
 
-> ^22:7^ Et sanctificabo super te interficientem virum, et arma ejus; et succident electas cedros tuas, et praecipitabunt in ignem,
+> **110**. Finita comminatione contra populum, incipit comminatio contra principes.
 
-> ^22:8^ et pertransibunt gentes multae per civitatem hanc, et dicet unusquisque proximo suo: quare fecit Dominus sic civitati huic grandi?
+Et primo ponitur comminatio prophetae contra principes;  
 
-> ^22:9^ Et respondebunt: eo quod dereliquerint pactum Domini Dei sui, et adoraverint deos alienos, et servierint eis.
-
-> ^22:10^ Nolite flere mortuum, neque lugeatis super eum fletu. Plangite eum qui egreditur; quia non revertetur ultra, nec videbit terram nativitatis suae.
-
-> ^22:11^ Quia haec dicit Dominus ad Sellum filium Josiae regem Juda qui regnavit pro Josia patre suo, qui egressus est de loco isto: non revertetur huc amplius,
-
-> ^22:12^ sed in loco ad quem transtuli eum ibi morietur, et terram istam non videbit amplius.
-
-> **115**. Hic ponitur comminatio contra reges secundum quod in persona propria puniuntur: et circa hoc tria facit.
-
-Primo enim ponitur annuntiandi praeceptum, et designat praedicationis locum, ***descende***: quia templum ubi propheta stabat ad orandum, in eminentiori situm erat. Act. 10: *descende, et vade cum eis nihil dubitans, quia ego misi illos*.  
-
-Secundo dat salutis consilium, petens auditum, ***audite***. Psal. 2: *et nunc reges intelligite, erudimini qui judicatis terram*.  
-
-Proponens consilium ut faciat bonum, servans justitiam: ***haec dicit Dominus; facite judicium***, executionem justitiae: quod proprie regis, et judicis est. Sap. 1: *diligite justitiam qui judicatis terram*. Et impediendo calumniam: ***et liberate vi oppressum***. Psal. 81: *eripite pauperem, et egenum de manu peccatoris liberate*. Et ut vitet malum quantum ad injustam ablationem rerum: ***et advenam, et pupillum, et viduam nolite contristare***. Exod. 22: *advenam non contristabis; neque affliges eum*. Et quantum ad occisionem innocentium: ***et sanguinem innocentem ne effundatis***. Exod. 23: *insontem et justum non occides, quia adversor impium*.  
-
-Et ponit consilii fructum, proponens praemium servantibus: ***si enim facientes feceritis verbum istud, ingredientur per portas domus hujus reges de genere David***. Supra 17, idem.  
-
-Et poenam contemnentibus: ***quod si non audieritis verba haec, in memetipso juravi***, quia majorem non habeo. Hebr. 6: *Abrahae namque promittens Deus, quoniam neminem habuit per quem juraret majorem, juravit per semetipsum. **In solitudinem***. Isa. 1: *desolabitur sicut in vastitate hostili. **Domus***, regia, vel templum.  
-
-Tertio praedicit imminens periculum:  
-
-et primo in regiam urbem, tangens gloriam: ***quia haec dicit Dominus super domum***, scilicet Jerusalem: ***tu mihi caput***; idest, tu fuisti mihi caput in toto regno, sicut Galaad caput in planitie quae est in summitate Libani, ubi Laban invenit Jacob, Gen. 31. Psal. 86: *diligit Dominus portas Sion super omnia tabernacula Jacob*. Praedicit futuram poenam, ponens poenae inflictionem quantum ad desolationem urbium: ***si non posuero***, quasi dicat, non credatur mihi, ***urbes***, tibi subditas. Joel. 2: *quasi hortus voluptatis terra coram eo, et post eum solitudo deserti*.  
-
-Et quantum ad occisionem hominum, ponens interficientem: ***et sanctificabo***; quasi dicat: ad meum praeceptum implendum deputabo. Simile Isa. 13: *ego mandavi sanctificatis meis, et vocabo fortes meos in ira mea*, etc. Et interfectionem: ***et succident cedros***, idest majores de populo, ut servetur metaphora. Zach. 11: *aperi Libane portas, et comedet ignis cedros tuas: ulula abies, quia cecidit cedrus, quoniam magnifici vastati sunt*.  
-
-Ponens etiam poenae inflictae stuporem: ***et pertransibunt gentes***: ubi ponit interrogationem stupentium: ***quare fecit Dominus sic civitati huic?***  
-
-et responsionem audientium: ***et respondebunt***. Deut. 29: *et dicent omnes gentes: quare sic fecit Dominus terrae huic? Quae est ira furoris ejus immensa? Et respondebunt: quia dereliquerunt pactum Domini quod pepigit cum patribus eorum*, etc.  
-
-Secundo ponitur comminatio contra regiam stirpem:  
-
-et primo contra Joakim filium Josiae, ibi, ***quia haec dicit Dominus***,  
-
-secundo contra Joatham filium Josiae, ibi, ***vae qui aedificat domum suam in injustitia***;  
-
-tertio contra Jeconiam filium Joakim, ibi, ***vivo ego, dicit Dominus***. Et de his habetur 4 Reg. 24.  
+secundo conspiratio principum contra prophetam, infra 26 cap: ***in principio regni Joakim filii Josiae regis Juda***.  
 
 Circa primum duo.  
 
-Primo ponitur comminatio; ubi interdicit luctum pro Josia occiso: ***nolite flere mortuum***, scilicet Josiam. Eccl. 22: *modicum plora super mortuum, quoniam requievit*. Et indicit planctum pro Joatham a Pharaone captivato; ***plangite eum***. Job 20: *oculus qui eum viderat non videbit, neque ultra intuebitur eum locus suus*. Fletus autem dicitur cum emissione lacrymarum; luctus addit quamdam solemnitatem; sed planctus adhuc addit conquestionem per verba.  
+Primo comminatur contra principes Judaici populi;  
 
-Secundo ponitur comminationis confirmatio per sententiam divinam: ***quia haec dicit Dominus ad Sellum***, Joakim, quia omnes filii Josiae dicti sunt Sellum, idest consummatio, eo quod in ipsis regnum finitum sit. Isa. 22: *quasi pilam mittet te Dominus in terram latam, et spatiosam*. Et secundum hoc tota prophetia istius capituli facta est temporibus Joakim; et dicit captivitatem Joatham quasi praeteritam, et praedicit aliorum captivitatem quasi futuram. Sed Hieronymus vult quod istud quod dictum est, exponatur de Sedecia, et quod hucusque prophetia facta sit temporibus Sedeciae a principio 2 capitis, et deinceps super Joakim.  
+secundo contra illos, et alios, infra 25 cap: ***verbum quod factum est ad Jeremiam a Domino***.The Sixto-Clementine Vulgate omits *a Domino*.  
+
+Prima in duas.  
+
+In prima comminatur contra principes in summo dignitatis gradu constitutos;  
+
+in secunda contra omnes comminatur, infra 23 cap: ***vae pastoribus qui dispergunt, et dilacerant gregem***.  
+
+Circa primum duo.  
+
+Primo comminatur contra summum in dignitate spirituali, scilicet contra summum sacerdotem;  
+
+secundo contra summum in dignitate temporali, scilicet contra regem, infra 21 cap: ***verbum quod factum est ad Jeremiam a Domino***.  
+
+Circa primum duo.  
+
+Primo ponitur comminatio contra summum sacerdotem;  
+
+secundo propter pericula quae ex hoc prophetae imminebant, ponitur ipsius conquestio, ibi, ***seduxisti me, Domine***.  
+
+Circa primum duo.  
+
+Primo ponitur comminationis occasio ex prophetae persecutione: ubi ponitur persecutionis ratio: ***prophetantem sermones istos***, contra civitatem: hoc enim erat officium summi sacerdotis, ut scilicet falso prophetantes corriperet. Infra 29: ***dedit te Dominus sacerdotem pro Jojade sacerdote, ut sis dux in domo Domini super omnem virum arreptitium, et prophetantem, ut mittas eum in nervum, et in carcerem***, etc.  
+
+Prophetae persecutio: ***et percussit . . . et misit eum in nervum***, in carcerem, genus tormenti ad detinendum captivos, ***Beniamin***, quae ducebat in tribum Beniamin; erat enim civitas sita in confinio duarum tribuum. ***Superiori***, quia forte plures erant portae ducentes in terram illam, ***in domo Domini***: unde in illa porta exercebatur judicium de prophetis, et de ministris templi, et ibi claudebantur in carcere. Thren. 3: *circumaedificavit adversum me ut non egrediar, aggravavit compedem meum*.  
+
+Et prophetae liberatio: ***cumque illuxisset in crastinum, eduxit Phassur Jeremiam de nervo***. Act. 4: *factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribae in Jerusalem*. Psalm. 67: *qui educit vinctos in fortitudine*.  
+
+Secundo ponitur comminatio:  
+
+et primo ponitur poenae designatio ex immutatione nominis: ***et dixit ad eum***: loquitur ad modum hominis timidi, qui undique circumspicit. Prov. 10: *pavor his qui operantur malum*.  
+
+Secundo ponitur poenae comminatio: ***quia haec dicit Dominus***:  
+
+et primo quantum ad ipsius amicos: ***te, et omnes amicos***. Ps. 77: *sacerdotes eorum in gladio ceciderunt*.  
+
+Secundo quantum ad subditos, ponens captivitatem hominum: ***et omnem Judam***. Thren. 1: *migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem*.  
+
+Et direptionem bonorum: ***et dabo universam substantiam civitatis hujus***. Isa. 39: *auferentur omnia quae in domo tua sunt, et quae thesaurizaverunt patres tui usque ad diem hanc, in Babylonem. Non relinquetur quicquam, dicit Dominus*.  
+
+Tertio quantum ad ipsius domesticos: ***tu autem Phassur, et omnes habitatores domus tuae, ibitis in captivitatem . . . et omnes amici tui quibus prophetasti mendacium***; promittens prospera. Isa. 22: *quasi pilam mittet te Dominus in terram latam et spatiosam. Ibi morieris*, etc. Amos 7: *filii tui, et filiae tuae in gladio cadent, et humus tua funiculo metietur; et tu in terra polluta morieris, et Israel captivus migrabit de terra sua*.  
 
 Lectio 2  
 
-***^22:13^ Vae qui aedificat domum suam in injustitia, et coenacula sua non in judicio. Amicum suum opprimet frustra, et mercedem ejus non reddet ei.***
+***^20:7^ Seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti. Factus sum in derisum tota die, omnes subsannant me:***
 
-> ^22:14^ Qui dicit: aedificabo mihi domum latam et coenacula spatiosa; qui aperit sibi fenestras, et facit laquearia cedrina, pingitque sinopide.
+> ^20:8^ quia jam olim loquor vociferans iniquitatem, et vastitatem clamito. Et factus est mihi sermo Domini in opprobrium, et in derisum tota die.
 
-> ^22:15^ Numquid regnabis, quoniam confers te cedro? Pater tuus numquid non comedit, et bibit, et fecit judicium, et justitiam, tunc cum bene erat ei?
+> ^20:9^ Et dixi: non recordabor ejus, neque loquar ultra in nomine illius: et factus est in corde meo quasi ignis aestuans, claususque in ossibus meis, et defeci, ferre non sustinens.
 
-> ^22:16^ Judicavit causam pauperis, et egeni in bonum suum. Numquid non ideo quia cognovit me? dicit Dominus.
+> ^20:10^ Audivi enim contumelias multorum, et terrorem in circuitu: persequimini, et persequamur eum: ab omnibus viris qui erant pacifici mei, et custodientes latus meum: si quo modo decipiatur, et praevaleamus adversus eum, et consequamur ultionem ex eo.
 
-> ^22:17^ Tui vero oculi, et cor ad avaritiam, et ad sanguinem innocentem fundendum, et ad calumniam et ad cursum mali operis.
+> ^20:11^ Dominus autem mecum est tamquam bellator fortis: idcirco qui persequuntur me, cadent et infirmi erunt, et confundentur vehementer: quia non intellexerunt opprobrium sempiternum, quod numquam delebitur.
 
-> ^22:18^ Propterea haec dicit Dominus ad Joakim filium, Josiae, regem Juda: non plangent eum: vae frater, et vae soror; non concrepabunt ei: vae domine, et vae inclyte.
+> ^20:12^ Et tu Domine exercituum probator justi, qui vides renes et cor, videam, quaeso, ultionem meam ex eis: tibi enim revelavi causam meam.
 
-> ^22:19^ Sepultura asini sepelietur, putrefactus, et projectus extra portas Jerusalem.
+> ^20:13^ Cantate Domino, laudate Dominum, quia liberavit animam pauperis de manu malorum.
 
-> ^22:20^ Ascende Libanum, et clama, et in Basan da vocem tuam, et clama ad transeuntes: quia contriti sunt omnes amatores tui.
+> **111**. Hic ponitur prophetae conquestio:
 
-> ^22:21^ Locutus sum ad te in abundantia tua, et dixisti, non audiam. Haec est via tua ab adolescentia tua, quia non audisti vocem meam.
+et primo plangit injunctum officium,  
 
-> ^22:22^ Omnes pastores tuos pascet ventus, et amatores tui in captivitatem ibunt. Et tunc confunderis, et erubesces ab omni malitia tua,
-
-> ^22:23^ quae sedes in Libano, et nidificas in cedris. Quomodo congemuisti cum venissent tibi dolores, quasi dolores parturientis?
-
-> **116**. Hic ponitur comminatio contra Joakim.
-
-Et primo arguit culpam injustae aedificationis, ponens injustum aedificium: ***vae*** ei ***qui aedificat***, scilicet Joakim filio Josiae, ***coenacula***, cameras, et proprie illas ad quas ascenditur scalis vel gradibus, a coenando dictas. Eccli. 21: *qui aedificat domum suam impensis alienis, quasi qui colligit lapides suos in hyeme. **Amicum suum opprimet frustra***, petens scilicet auxilium ad aedificandum. Levitic. 19: *non remaneat merces mercenarii tui apud te usque mane*.  
-
-Ponens etiam aedificii ornatum: ***qui dicit: aedificabo mihi domum latam . . . laquearia***, quae cameris elevatis in solarium observatione succedunt, ***synopide***, colore rubeo dicto a Synope civitate Persarum.  
-
-Secundo excludit falsam fiduciam, qua promittebat sibi prosperitatem, quam pater suus Josias habuerat ponens stultam comparationem: ***numquid regnabis, quoniam confers te cedro?*** patri tuo. Psal. 36: *vidi impium superexaltatum et elevatum sicut cedros Libani*. Et ostendit eorum discretionem, proponens patris justitiam: ***pater tuus comedit***; et tamen propter abundantiam non deseruit justitiam; et ideo prospere sibi successit. Job 29: *cumque sederem quasi rex, circumstante; eram tamen maerentium consolator*.  
-
-Et proponens filii injustitiam: ***tu vero oculi***, quantum ad cognitionem, ***et cor***, quantum ad affectionem cordis, ***ad avaritiam***, quantum ad injustam rerum ablationem, ***calumniam***, falsam criminis impositionem, ut tali occasione opprimeret, ***ad cursum mali***, quasi dicat. Quod corde conceperas, opere explebas. Genes. 6: *cuncta cogitatio humani cordis intenta est ad malum omni tempore*.  
-
-Tertio comminatur poenam ***propter hoc dicit Dominus***.  
-
-Et primo quantum ad ipsum regem, privatione planctus: ***non plangent***, consanguinei, ***non concrepabunt***, simul concordantes subditi. Supra 16: ***non plangentur, et non sepelientur: in sterquilinium super faciem terrae erunt***.  
-
-Et privatione sepulturae: ***sepultura asini sepeliuntur***: quia projectus bestiis devorandus. Isa. 14: *omnes reges gentium, universi dormierunt in gloria, vir in domo sua; tu autem projectus es de sepulcro tuo, quasi stirps inutilis, pollutus, et obvolutus cum his qui interfecti sunt gladio, et descenderunt ad fundamenta laci*.  
-
-De illo autem Joakim diversa in diversis inveniuntur 4 enim Reg. 24, dicitur, quod *immisit Dominus latrunculos vicinarum gentium contra ipsum, qui interfecerunt ipsum; et dormivit cum patribus suis*. 2 vero Paral. 36, dicitur, quod ascendit contra eum rex Babyloniae, et duxit eum in Babyloniam quasi captivum. Josephus autem dicit, quod cum ingressus esset civitatem Nabuchodonosor, vel Nabuzardam, fregit pactum, et interfecit multos juvenes, cum quibus et Joakim. Hic autem dicitur, quod fuit insepultus. Et ideo ad concordiam omnium horum sciendum est, quod iste Joakim substitutus fuit a Pharaone Joatham fratri suo, et regnavit post cum rege Aegypti. Tandem VIII anno regni ejus, venit Nabuchodonosor contra eum, et tradidit se sibi. Et factus est ei tributarius duobus annis. In decimo autem anno rebellavit. Unde Nabuchodonosor venit contra eum, et captivum ducebat in Babyloniam: cui in via confoederatus est, et reversus est in Jerusalem. Sed Nabuzardam, congregatis latrunculis vicinarum gentium, intravit Jerusalem, et frangens pactum, interfecit eum: quo sepulto in sepulcris regiis a populo terrae, Nabuzardam indignatus fecit eum effodi, et projici bestiis devorandum.  
-
-Secundo contra principes ipsius ponens eorum contritionem: ***ascende Libanum***, montem templi, ***in Basan***, quae subjacet monti Jerusalem. Isa. 40: *super montem excelsum ascende tu qui evangelizas Sion. **Amatores***, principes et defensores.  
-
-Ponens etiam hujus rationem ex inobedientia: ***locutus sum ad te in abundantia tua***, idest quando bonis a me traditis abundabas. Supra 6: ***audite vocem tubae**. **Et dixerunt, non audiemus***. Et ex antiqua consuetudine: ***haec est via***, scilicet inobedientia, ***ab adolescentia***, scilicet a tempore quo egressa est de Aegypto. Isa. 48: *transgressorem ex ventre vocavi te*. Supra 2: ***a saeculo confregisti jugum meum, rupisti vincula mea, et dixisti: non serviam***.  
-
-Et ponit contritionis modum et ordinem: ***omnes pastores tuos***, idest principes, ***pascet ventus***, dispersionis in captivitatem, ***amatores***, Aegyptii. Oseae 12: *Ephraim pascit ventum, et sequitur aestum*.  
-
-Tertio comminatur contra ipsam civitatem regalem, confusionem: ***et tunc confunderis . . . quae sedes in Libano***, in quo designatur superbia. Roman. 6: *quem ergo fructum habuistis tunc in illis in quibus nunc erubescitis?* Et dolorem. ***Quomodo congemuisti cum venissent tibi dolores, quasi dolores parturientis?*** praeteritum pro futuro. Psal. 47: *ibi dolores ut parturientis*.  
-
-Lectio 3  
-
-***^22:24^ Vivo ego, dicit Dominus, quia si fuerit Jechonias filius Joakim regis Juda annulus in manu dextera mea, inde evellam eum.***
-
-> ^22:25^ Et dabo te in manu quaerentium animam tuam, et in manu quorum tu formidas faciem, et in manu Nabuchodonosor regis Babylonis, et in manu Chaldaeorum.
-
-> ^22:26^ Et mittam te, et matrem tuam quae genuit te, in terram alienam in qua nati non estis, ibique moriemini:
-
-> ^22:27^ et in terram ad quam ipsi levant animam suam ut revertantur illuc, non revertentur.
-
-> ^22:28^ Numquid vas fictile, atque contritum vir iste Jechonias? Numquid vas absque omni voluptate? Quare abjecti sunt ipsi, et semen ejus, et projecti in terram quam ignoraverunt?
-
-> **117**. Hic ponitur comminatio contra Jechoniam:
-
-et primo comminatur captivitatem:  
-
-secundo sterilitatem, ibi, ***terra, terra, terra***.  
+secundo nativitatis ortum.  
 
 Circa primum duo.  
 
-Primo ponitur captivitatis comminatio quia comminatur dignitatis amissionem, et divini auxili destitutionem: ***si fuerit Jechonias filius Joakim regis Juda annulus in manu***: quantumcumque in loco murato ut, quamvis rex populi mei; ***evellam***, privando ipsum dignitate sua, et auxilio meo. Apocalyp. 2: *amovebo candelabrum tuum de loco suo, nisi poenitentiam egeris*.  
+Primo plangit injunctum officium propter consecutam irrisionem;  
 
-Comminatur etiam hostium servitutem: ***et dabo te***. Thren. 1: *dedit me Dominus in manu de qua non potero effugere*.  
+secundo propter persecutionem, ibi, ***audivi enim contumelias multorum***.  
 
-Comminatur etiam captivitatem: ***et mittam***. Baruch 3: *quid est, Israel, quod in terra inimicorum es? Inveterasti in terra aliena*.  
+Circa primum tria.  
 
-Secundo ponitur comminationis admiratio: ***numquid vas fictile, atque contritum vir iste Jechonias?*** quasi, nullam soliditatem virtutis, vel potentiae habens, ***voluptate***, quia Dominus in ipso non delectatur. Eccli. 21: *cor fatui quasi vas confractum et omnem sapientiam non tenebit*.  
+Primo quasi conquerendo notificat injunctionis modum, ***seduxisti***; idest occasionem deceptionis ex verbis tuis accepi: credebam enim me prophetaturum contra gentes, et non contra Judaeos a quibus persecutionem patior. Non autem vult imponere crimen deceptionis in Deum, quia blasphemaret. ***Invaluisti***, imponens officium mihi renitenti, ut supra 1. Et hoc praecipue quia fructum praedicationis suae non vidit. Isa. 49: *in vacuum laboravi, sine causa et vane fortitudinem meam consumpsi*.  
 
-Lectio 4  
+Secundo proponit praedicationis eventum, ponens irrisionem: ***factus sum in derisum . . . omnes subsannant*** rugatione nasi, irrisionem propalantes. Thren. 3: *factus sum in derisum omni populo meo, canticum eorum tota die*.  
 
-***^22:29^ Terra, terra, terra, audi sermonem Domini.***
+Et assignat rationem, ponens praedicationis verbum, quo arguebat aperte culpas, et comminabatur poenas: ***quia jam olim loquor vociferans iniquitatem, et vastitatem***, quae tamen nondum venit. Isa. 16: *his qui laetantur super murum cocti lateris, loquimini plagas suas*. Et consequens opprobrium: ***et factus est mihi sermo Domini in opprobrium***, idest opprobrii causa. Act. 26: *Festus Paulo dixit: multae litterae ad insaniam te deduxerunt*.  
 
-> ^22:30^ Haec dicit Dominus: scribe virum istum sterilem, virum qui in diebus suis non prosperabitur: nec enim erit de semine ejus vir qui sedeat super solium David, et potestatem habeat ultra in Juda.
+Tertio resignat injunctum officium: ***et dixi***.  
 
-> **118**. Hic comminatur sterilitatem, quae nec tenebit fructum praesentis prosperitatis: ***terra, terra, terra***, quasi dicat: ex quo homines non audiunt, saltem insensibilia obediant. Vel est methonimia, continens pro contento. Et dicit ad majorem expressionem; vel propter tres partes terrae. Deut. 32: *audiat terra verba oris mei*.
+Et primo abjicit officium, ***non recordabor***, idest, non cogitabo ulterius loqui ad populum, nolebat enim margaritas ante porcos spargere. Matth. 7: *nolite sanctum dare canibus*.  
 
-***Scribe***, quasi sententiam, quae scripto traditur, ut in memoria conservetur. Supra 17: ***peccatum Juda scriptum est stylo ferreo in ungue adamantino***. ***Sterilem***, quia mente non concipiet ea quae sibi forent utilia. ***Non prosperabitur***, in operibus suis. Erit etiam sterilis, quantum ad fructum successionis in dignitate regali. ***Nec enim erit vir***, qui sit purus homo: Christus enim de semine ejus fuit; sed fuit Deus et homo, Matth. 1. Nec illo regnandi modo rex fuit, sed regnat aeternaliter ad dexteram Dei Patris. ***Potestatem habeat***, quasi regiam. Quia Zorobabel nepos ejus. Rex populi non fuit. Infra 36: ***non erit ex eo qui sedeat super solium David*** etc.  
+Secundo officium abjectum resumit: ***et factus est quasi ignis***; quanto enim magis quis exterius a verbis abstinet, magis intus fervorem amoris sentit. Ps. 38: *concaluit cor meum intra me, et in meditatione mea exardescet ignis. **In ossibus***, in intimis mentis, ***defeci***, a proposito, ***ferre non sustinens***, interius incendium, ***audivi enim contumelias multorum***.  
+
+Hic conqueritur de officio assumpto, ex eo quod persecutiones sustinebat.  
+
+Et primo ponitur adversariorum persecutio:  
+
+et primo ponit persequentium multitudinem, ***multorum***, quibus resisti non potest. ***Persequimini***; in quo notatur ipsorum conjuratio. Ponit etiam familiaritatem: ***ab omnibus viris qui erant pacifici mei***; in quo notatur imminens periculum Abdias: *omnes viri foederis tui illuserunt tibi, invaluerunt contra te viri pacis tuae*.  
+
+Secundo ponitur prophetae confortatio, ponens divinum auxilium: ***Dominus autem mecum***, ad defendendum. Isa. 50: *Dominus Deus auxiliator meus, et ideo non sum confusus*. Et ipsius officium: et ***idcirco cadent***, quia persequuntur. Isa. 40: *deficient pueri, et laborabunt, et juvenes infirmitate cadent. **Confundentur***, quia opprobria dixerunt, ***quia non intellexerunt***, idest intelligere noluerunt, ***opprobrium***, aeternae damnationis, vel futurae captivitatis. Psal. 39: *confundantur, et revereantur qui quaerunt animam meam ut auferant eam*.  
+
+Tertio ponitur petitio: ubi captat benevolentiam, commendans justitiam, ***probator***, idest approbator vel inquisitor et discussor: scientiam, ***qui videt renes***, quantum ad affectiones, ***et corda***, quantum ad cogitationes. Supra 17: ***ego Dominus scrutans cor, et probans renes, qui do unicuique juxta viam suam***, etc. Petit vindictam: ***videam, quaeso, ultionem meam ex eis***: assignat causam: ***tibi enim revelavi***, non hoc ignoranti, sed totam causam meam in te ponens. Supra 11: ***tibi enim revelavi causam meam***.  
+
+Quarto ponitur gratiarum actio, ***cantate Domino***. Psal. 71: *quia liberavit pauperem a potente, pauperem cui non erat adjutor*.  
+
+Lectio 3  
+
+***^20:14^ Maledicta dies in qua natus sum; dies in qua peperit me mater mea, non sit benedicta.***
+
+> ^20:15^ Maledictus vir qui annuntiavit patri meo, dicens: natus est tibi puer masculus, et quasi gaudio laetificavit eum.
+
+> ^20:16^ Sit homo ille ut sunt civitates quae subvertit Dominus, et non poenituit eum. Audiat clamorem mane, et ululatum in tempore meridiano:
+
+> ^20:17^ qui non me interfecit a vulva, ut fieret mihi mater mea sepulchrum, et vulva ejus conceptus aeternus.
+
+> ^20:18^ Quare de vulva egressus sum, ut viderem laborem, et dolorem, et consumerentur in confusione dies mei?
+
+> **112**. Hic plangit nativitatis suae ortum.
+
+Sed objicitur contra hoc quod hic dicitur. Sanctorum enim est gloriari in tribulationibus, ut dicitur ad Rom. 5, ergo videtur quod Jeremias non debuerit pro tribulationibus in maledictionem prorumpere.  
+
+Praeterea dies creatura Dei est; maledicere autem creaturae Dei, est peccatum: ergo etc.  
+
+Praeterea dies transitorium quid est, et huic poenam maledictionis aptare stultum est: ergo etc.  
+
+Praeterea nullus debet innocenti maledicere; sed ille homo in hoc quod Jeremiam non interfecit, innocens fuit: ergo peccavit ipsi maledicendo.  
+
+Ad primum dicendum, quod tribulationes in se consideratae malae sunt inquantum contrariantur naturae bonae, ut dicit Augustinus; et sic eas abhorrere naturali odio, peccatum non est. Si tamen propter eas ratio a sua rectitudine deduceretur, hoc esset peccatum. Consideratae autem secundum quod promovent in bonum, sic sancti in ipsis gloriantur, sicut infirmus in sectione per quam sanatur.  
+
+Ad secundum dicendum, et ad tertium, quod diei in sua natura consideratae non maledicit, quia hoc esset stultum et peccatum, sed inquantum mala est, prout scilicet aliquid mali in ipsa accidit; sicut e contra dies festus agitur propter aliquod bonum quod die illo accidit: et hoc significat, illa maledictio, Gregorius tamen respiciens ad naturam ipsius diei dicit, quod ad litteram non potest intelligi.  
+
+Et similiter dicendum ad ultimum, quod non maledicit illis hominibus nisi inquantum relationem habent ad suum actum. Unde per hoc dat intelligere horrorem suum, hyperbolice loquens, et taedium vitae suae propter angustias quas patiebatur.  
+
+Circa hoc ergo duo facit.  
+
+Primo ponit maledictionem contra nativitatis tempus: ***maledicta dies***. Job 3: *pereat dies in qua dictum est: conceptus est homo*.  
+
+Contra nativitatis nuntium: ***maledictus vir qui annuntiavit patri meo, dicens: natus est tibi puer masculus et quasi gaudio laetificavit eum***. Gen. 21: *gaudium fecit mihi Dominus, et quicumque audierit, corridebit mihi*.  
+
+Et explicat maledictionis modum: ***sit homo ille ut sunt civitates quas subvertit Dominus***. Isa. 25: *posuisti civitatem in tumultum, urbem fortem in ruinam*.  
+
+Et contra vitae ministrum, qui scilicet vitam conservavit: ***audiat clamorem***, scilicet mortis, ***ut fieret mihi mater mea sepulcrum***, quasi non computatus esset inter homines, ***conceptus aeternus***, qui scilicet numquam ad debitum partum pervenisset. Job 3: *quare non in vulva mortuus sum, egressus ex utero non statim perii*.  
+
+Secundo ponitur maledictionis ratio: ***quare de vulva egressus sum?*** Supra 15: ***vae mihi, mater mea, quare genuisti me virum rixae, virum discordiae, in universa terra?*** 1 Mach. 2: *vae mihi, ut quid natus sum videre contritionem populi mei, et contritionem civitatis sanctae, et sedere illic cum datur in manibus inimicorum?*  
 
 Collationes  
 
-***Nota super illud, ***nolite flere super mortuum***, quod non multum plorandum est super mortuum propter planctus inutilitatem. Eccli. 38: *ne dederis in tristitia cor tuum, sed repelle eam a te*. Propter mortis communitatem. 2 Reg. 14: *omnes morimur, et quasi aquae dilabimur in terram, quae non revertuntur*. Propter culpae immunitatem. Sapien. 4: *raptus est ne malitia mutaret intellectum illius, aut ne fictio deciperet animam illius*. Propter laboris quietem. Apocalyp. 14: *amodo jam dicit spiritus ut requiescant a laboribus suis*. Propter gloriae consecutionem. 2 Corinth. 5: *scimus enim, quod si terrestris domus nostra hujus habitationis dissolvatur, quod aedificationem ex Deo habemus, domum non manu factam, sed aeternam in caelis*.***
-
-Item super illud, ***omnes pastores tuos pascet ventus***, nota, quod pastores Ecclesiae quandoque pascit ventus elationis. Isa. 57: *omnes eos auferet ventus, tollet aura*. Ventus nimiae expectationis. Eccli. 34: *quasi qui apprehendit umbram, et persequitur ventum, sic et qui attendit ad visa mendacia*. Ventus captivitatis. Ezech. 5: *tertiam partem disperges in ventum, et gladium nudabis post eos*. Et futurae damnationis. Supra 18: ***sicut ventus urens dispergam eos coram inimico; dorsum et non faciem ostendam eis in die perditionis eorum***.
+***Nota super illo verbo, ***seduxisti me, Domine, et seductus sum; fortior me fuisti, et invaluisti***, quia Dominus seducit trahendo persuasionibus. 2 Cor. ult.: *cum essem astutus, dolo vos cepi*. Alliciendo consolationibus. Apocal. 10: *cum devorassem eam, amaricatus est venter meus*. Confortando promissionibus. Supra 4: ***ergo ne decepisti populum istum, et Jerusalem, dicens: pax erit vobis? Et ecce pervenit gladius usque ad animam***. Invalescit autem Dominus corrigendo. Isa. 8: *in forti manu sua erudivit me, ne irem in via populi hujus*. A noxiis retrahendo. Oseae 2: *sepiam viam tuam spinis, et sepiam eam maceria*. Amore alligando. Oseae 11: *in funiculis Adam traham eos, in vinculis caritatis*.***

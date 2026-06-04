@@ -31,49 +31,42 @@
   ],
   "toc": [
     {
-      "id": "6articulis-01",
-      "title": {
-        "en-US": "6Articulis",
-        "la": "6Articulis"
-      }
-    },
-    {
-      "id": "6articulis-prologue",
+      "id": "6articulis-c01",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
       }
     },
     {
-      "id": "6articulis-aa13",
+      "id": "6articulis-c02",
       "title": {
         "en-US": "Articles 1-3",
         "la": "Articles 1-3"
       }
     },
     {
-      "id": "6articulis-a4",
+      "id": "6articulis-c03",
       "title": {
         "en-US": "Article 4",
         "la": "Article 4"
       }
     },
     {
-      "id": "6articulis-a5",
+      "id": "6articulis-c04",
       "title": {
         "en-US": "Article 5",
         "la": "Article 5"
       }
     },
     {
-      "id": "6articulis-a6",
+      "id": "6articulis-c05",
       "title": {
         "en-US": "Article 6",
         "la": "Article 6"
       }
     },
     {
-      "id": "6articulis-epilogue",
+      "id": "6articulis-c06",
       "title": {
         "en-US": "Epilogue",
         "la": "Epilogue"

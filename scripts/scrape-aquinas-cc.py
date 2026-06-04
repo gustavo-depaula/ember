@@ -852,11 +852,31 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
 
         style_chars, outline_dict = fetch_structure(wid)
         root = parse_outline(outline_dict)
-        # Take the second-level nodes (root.children) as chapters/lecturas. The
-        # root itself wraps the whole work; its children are the units.
-        chapters = root.children
-        if not chapters:
+        # Take the second-level nodes (root.children) as chapters/lecturas.
+        # Skip leading children with empty title that represent the work-level
+        # intro / section nodes (e.g. Tabula has a virtual i=0 node before the
+        # actual chapter list). A chapter is a child with non-empty title OR
+        # with a ref distinct from the work-level ref.
+        all_children = root.children
+        if not all_children:
             chapters = [root]
+        else:
+            work_ref = all_children[0].ref if all_children else ""
+            chapters = []
+            for child in all_children:
+                # Drop leading virtual nodes — those with empty title AND
+                # either the work's bare ref or a section-marker ref like
+                # `<work>.S1`. The first real chapter has a title or a
+                # ref distinct from this pattern.
+                empty_virtual = (
+                    not child.title.strip()
+                    and (child.ref == work_ref or re.fullmatch(rf"{re.escape(work_ref)}\.S\d+", child.ref or ""))
+                )
+                if empty_virtual and not chapters:
+                    continue
+                chapters.append(child)
+            if not chapters:
+                chapters = all_children
 
         la_rows = fetch_cells(did_la, rows)
         en_rows = fetch_cells(did_en, rows) if has_english else [(rid, "") for rid, _ in la_rows]
@@ -874,26 +894,22 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
                 "children": [],
             }
 
-        # Disambiguate slugs: if multiple chapters share the same ref (as in
-        # `Orationes`, `Hymns`, sermon-bundle works), append the title (if
-        # present) or a fall-back index.
-        ref_counts: dict[str, int] = {}
+        # Use a sequential c01..cNN suffix for every chapter, prefixed by the
+        # work's short ref so multi-part works can disambiguate by part.
+        # This keeps file naming uniform (no mix of `tabula-c1` + `tabula-c02`)
+        # and sortable. The TOC label retains the descriptive title.
+        # We compute a stable work-level prefix: the segment before the first
+        # `.` in any ref, or "ch" if all refs are empty.
+        work_prefix = ""
         for c in chapters:
-            ref_counts[c.ref] = ref_counts.get(c.ref, 0) + 1
-        ref_seen: dict[str, int] = {}
+            if c.ref:
+                work_prefix = slug(c.ref.split(".")[0])
+                break
+        if not work_prefix:
+            work_prefix = "ch"
         for i, chap in enumerate(chapters):
             end = positions[i + 1]
-            base_slug = slug(chap.ref or f"ch{i+1}")
-            if ref_counts.get(chap.ref, 0) > 1:
-                title_slug = slug(chap.title) if chap.title else ""
-                if title_slug:
-                    cid_base = f"{base_slug}-{title_slug}"[:80]
-                else:
-                    seen = ref_seen.get(chap.ref, 0) + 1
-                    ref_seen[chap.ref] = seen
-                    cid_base = f"{base_slug}-{seen:02d}"
-            else:
-                cid_base = base_slug
+            cid_base = f"{work_prefix}-c{i+1:02d}"
             if part_group:
                 cid = f"p{idx + 1}-{cid_base}"
             else:

@@ -1,141 +1,93 @@
-# Chapter 17
+# Chapter 15
 
-> ^17:2^ The cities of Aroer shall be left for flocks, and they shall rest there, and there shall be none to make them afraid.
+> ^15:2^ The house is gone up, and Dibon to the high places to mourn over Nabo, and over Medaba, Moab has howled: on all their heads shall be baldness, and every beard shall be shaven.
 
-> ^17:3^ And aid shall cease from Ephraim, and the kingdom from Damascus: and the remnant of Syria shall be as the glory of the children of Israel: says the Lord of hosts.
+> ^15:3^ In their streets they are girded with sackcloth: on the tops of their houses, and in their streets every howling shall come down weeping.*Omnis ululatus descendit in fletum*. DR: “all shall howl and come down weeping.”
 
-> ^17:4^ And it shall come to pass in that day, that the glory of Jacob shall be made thin, and the fatness of his flesh shall grow lean.
+> ^15:4^ Hesebon shall cry, and Eleale, their voice is heard even to Jasa. For this shall the well appointed men of Moab howl, his soul shall howl to itself.
 
-> ^17:5^ And it shall be as when one gathers in the harvest that which remains, and his arm shall pick outDR: “gather.” the ears of corn: and it shall be as he that seeks ears in the vale of Raphaim.
+> ^15:5^ My heart shall cry to Moab, the bars thereof shall flee unto Segor a heifer of three years old: for by the ascent of Luith they shall go up weeping: and in the way of Oronaim they shall lift up a cry of contrition.*Contritionis*. DR: “destruction.”
 
-> ^17:6^ And the fruit thereof that shall be left upon it, shall be as one cluster of grapes, and as the shaking of the olive,*Olea*. DR: “olive tree.” two or three berries in the top of a bough, or four or five upon the top of the tree, says the Lord the God of Israel.
+> ^15:6^ For the waters of Nemrim shall be desolate, for the grass is withered away, the spring is faded, all the greenness is perished.
 
-> ^17:7^ In that day man shall bow down himself to his Maker, and his eyes shall look to the Holy One of Israel.
+> ^15:7^ According to the greatness of their work, is their visitation also: they shall lead them to the torrent of the willows.
 
-> ^17:8^ And he shall not look to the altars which his hands made; and he shall not have respect to the things that his fingers wrought, such as groves and temples.
+> ^15:8^ For the cry is gone round about the border of Moab: the howling thereof unto Gallim, and unto the well of Elim the cry thereof.
 
-> ^17:9^ In that day his strong cities shall be forsaken, as the ploughs, and the corn that were left before the face of the children of Israel, and you shall be desolate.
+> ^15:9^ For the waters of Dibon are filled with blood: for I will bring more upon Dibon: the lion upon them that shall flee of Moab, and upon the remnant of the land.
 
-> ^17:10^ Because you have forgotten God your savior, and have not remembered your strong helper: therefore shall you plant unfaithful*Infidelem*. Vg.: *fidelem*. DR: “good.” plants, and shall sow strange seed.
+> **432**. ***The burden of Moab***. In this part, he threatens against the Moabites—who were descended from Moab, the firstborn of Lot (Gen 19:37)—because they rejoiced in the destruction of the sons of Israel by the Assyrians and Chaldeans, by whom nevertheless they themselves were destroyed, although afterwards. And this is divided into two parts:
 
-> ^17:11^ In the day of your planting shall be the wild grape, and in the morning your seed shall flourish: the harvest is taken away in the day of inheritance, and shall grieve you much.
+in the first, he threatens their destruction;  
 
-> ^17:12^ Woe to the multitude of many people, like the multitude of the roaring sea: and the tumult of crowds, like the noise of many waters.
+in the second, he sets out the condition of their destruction: ***send forth the lamb*** (ch. 16).  
 
-> ^17:13^ Nations shall make a noise like the noise of waters overflowing. But he shall rebuke him, and he shall flee far off: and he shall be carried away as the dust of the mountains before the wind, and as a whirlwind before a tempest.
+The first of these is divided into two:  
 
-> ^17:14^ In the time of the evening, behold there shall be a whirling:*Turbatio*. DR: “trouble.” the morning shall come, and he shall not be: this is the portion of them that have wasted us, and the lot of them that spoiled us.
+in the first, he threatens destruction by the Assyrians;  
 
-> **460**. ***The burden of Damascus***. Here he begins to threaten against those who prepared an occasion of sin for the people of God when, through trust in their help, they cared not to trust in God. And this is divided into two parts:
-
-in the first, he threatens against the Syrians, who brought help to the people of the ten tribes;  
-
-in the second, against the Egyptians, who did so to the two tribes: ***woe to the land*** (ch. 18).  
+in the second, by the Babylonians: ***they shall lead them to the torrent*** (Isa 15:7).  
 
 The first of these is divided into three:  
 
-in the first, he threatens the destruction of the Syrians who promise help;  
+in the first, he indicates, from their sorrow, the magnitude of the punishment;  
 
-in the second, the destruction of the ten tribes who trust in that promised help: ***and it shall come to pass in that day*** (Isa 17:4);  
+in the second, the manner and order of the punishment: ***the bars thereof*** (Isa 15:5);  
 
-in the third, the destruction of the Assyrians who destroy both of them: ***woe to the multitude*** (Isa 17:12).  
+in the third, the reckoning of the magnitude of the punishment: ***according to the greatness of their work*** (Isa 15:7).  
 
-**461**. Concerning the first, he does two things:  
+**433**. He shows the magnitude of their sorrow as to three things,  
 
-in the first, he threatens destruction;  
+namely, through the silence of stupor;  
 
-in the second, he describes the effect of the destruction: ***and aid shall cease*** (Isa 17:3).  
+through the tears of sorrow: ***the house is gone up*** (Isa 15:2);  
 
-He threatens destruction, first, as to the royal city: ***Damascus shall cease to be a city***, from the pillaging of its people; ***and shall be as a ruinous heap of stones***, from the destruction of its walls: *Zion shall be as a field* (Mic 3:12).  
+through the compassion of enemies: ***my heart shall cry to Moab*** (Isa 15:5).  
 
-Second, as to the neighboring region: ***of Aroer***, that is, of that region of Syria, in which there are many cities; or ***Aroer***, which is Hebrew for “tamarisk,” as if to say: as places where tamarisks abound are barren and abandoned to pasturage for sheep, so will the cities of Syria be; ***there shall be none to make them afraid***, for, because of their solitude, there will not even be thieves there; or because they will not be useful for other fruit, as flocks are frightened by vineyards and farmland, below: ***nettles shall grow up in its houses*** (Isa 34:13).  
+Stupor occurs from the privation of the things in which someone trusts. Now they trusted in the royal city from which they hoped to receive help, and in their fortifications: and therefore, he says: ***the burden of Moab***, that is, this is the vision of the burden of Moab, that is, the province of the Moabites; ***it is silent***, from its stupor, ***because Ar***, the royal city, ***is laid waste in the night***, literally, because of grave tribulation; ***and because the wall***, of fortification, ***is laid waste in the night***, ***Moab is silent***: *if thieves had gone in* (Obad 1:5).  
 
-**462**. ***And aid shall cease***. Here the effect of the destruction is set out,  
+**434**. ***The house is gone up***. Here he shows the magnitude of their punishment from the magnitude of their weeping, and he sets out three things.  
 
-and first, the effect on the ten tribes: ***from Ephraim***;  
+First, he foretells their weeping, both as to those who weep: ***the house***, namely, the royal house, ***and Dibon***, a certain noble city; and as to the place: ***is gone up to mourn***, that is, to weep, ***to the high places***, in which they offered sacrifices to idols, that they might seek help in their mourning; and as to the matter: ***Moab***, the entire province, ***has howled over Nabo and over Medaba***, certain cities which had been destroyed: *make you mourning as for an only son* (Joel 2).Cf. Jeremiah 6:26; perhaps St. Thomas was referring to Joel 2:1: “howl on my holy mountain.”  
 
-second, the effect as to the royal city: ***and the kingdom from Damascus*** shall cease, and it will no longer be the head of the kingdom;  
+**435**. Second, he describes the manner of their mourning, according to the custom of the ancients, who grew their beard and hair in time of joy and cut them in time of sadness, as it says in Job 1:20: *having shaven his head, he fell down upon the ground*. ***On all their heads shall be baldness***, above: ***and instead of curled hair, baldness*** (Isa 3:24).  
 
-third, as to the entire region: ***and the remnant of Syria shall be as the glory of the children of Israel***, ironically: that is, they will be ignominious like the children of Israel, above: ***the Lord shall put down his hand, and the helper shall fall*** (Isa 31:3).  
+**436**. Third, he excludes any limit to their weeping, both as to diversity of place: for ***every***, that is, in every manner, ***howling***, shall be, ***on the tops of their houses***, which had level places for sitting, ***and in their streets shall come down weeping***, from the high places to which they had ascended weeping, so that there was weeping in the mountains and in the valleys. ***Hesebon shall cry***, weeping, ***and Eleale***, which were cities that were, indeed, in the land of the kingdom of Moab; ***their voice is heard even to Jasa***, which is another city of Moab. And as to the diversity of those who weep: ***for this***, evil, ***shall the well appointed men***, namely, well appointed for fighting, not just old men, and together with others but also ***to itself***, when it stands alone; ***his soul***, for mourning proceeds from the innermost of the heart: *upon all the housetops of Moab, and in the streets thereof general mourning* (Jer 48:3).  
 
-**463**. ***And it shall come to pass in that day***. Here he threatens the destruction of the ten tribes, who trust in the help of the Syrians,  
+**437**. Note on the words, ***the wall is destroyed in the night*** (Isa 15:1), that night has darkness,  
 
-and first, as to the oppression of their people;  
+and first, the darkness of the original stain: *let the day perish wherein I was born, and the night in which it was said: a man child is conceived* (Job 3:3);  
 
-second, as to the destruction of their cities: ***in that day his strong cities*** (Isa 17:9);  
+second, the darkness of actual sin: *they that sleep, sleep in the night* (1 Thess 5:7);  
 
-third, as to the barrenness of their fields: ***therefore shall you plant*** (Isa 17:10).  
+third, the darkness of the ignorance of the unbeliever: *the night is passed, and the day is at hand* (Rom 13:12).  
 
-Concerning the first, he does two things:  
+**438**. Second, night has dread:  
 
-first, he threatens punishment;  
+first, the dread of oppressing despair: *a tempest shall oppress him in the night* (Job 27:20);  
 
-second, he shows the fruit of the punishment: ***in that day man shall bow down*** (Isa 17:7).  
+second, the dread of present affliction: *her lamp shall not be put out in the night* (Prov 31:18);  
 
-He threatens punishment on their people  
+third, the dread of eternal damnation: *they themselves being fettered with the bonds of darkness, and a long night . . . were pleasing to the eternal providence**Perpetuae providentiae placuerunt*. Vg.: *fugitivi perpetuae providentiae jacuerunt*. DR: “lay there exiled from the eternal providence.” (Wis 17:2).  
 
-first, against their vainglory: ***the glory of Jacob shall be made thin***, that is, it will be brought to little, and reduced as if to nothing, when that which they gloried in is destroyed.  
+**439**. Third, night has the quiet of contemplation,  
 
-Second, against the opulence of their riches: ***and the fatness of his flesh***, that is, the riches with which they delicately nourished their flesh, above: ***the sovereign Lord shall send, shall break the earthen vessel with terror, and the tall of stature shall be cut down, and the lofty shall be humbled*** (Isa 10:16, 33).  
+in which is first the desire of fervent love, below: ***my soul has desired you in the night*** (Isa 26:9);  
 
-Third, against the abundance of the people, he threatens scarcity of people, which he describes under a threefold metaphor, as the blessing of Jacob consisted in the abundance of three things: *abundance of corn and wine and oil*Vg. omits “and oil.” (Gen 27:28).  
+second, the sacrifice of confession of sin: *I rose at midnight to confess**Ad confitendum*. DR: “give praise.” *to you* (Ps 118[119]:62);  
 
-**464**. As to the first, he sets out scarcity of ears of corn after the harvest, which are gathered by the harvester himself, and thus, the scarcity of the remnant of the ten tribes, ***shall be*** as when someone ***gathers in the harvest that which remains*** from the first reaping, ***and***, from those gathered, ***his arm shall pick out the ears of corn***, that is, collect them. And this one who gathers was Ezechias, who called together the remnant of the ten tribes, as is written in 2 Chronicles 30. Or also those which are gathered by someone poor, like it says in Ruth 2:3: *I will go into the field to glean the ears of corn*; and as to this, he says: ***it shall be as he that seeks ears in the vale of Raphaim***, a certain valley which is very fertile.  
+third, the silence of divine consolation: *for while all things were in quiet silence, and the night was in the midst of her course, your Almighty word came leaping down from heaven from your royal throne* (Wis 18:14–15).  
 
-**465**. Against abundance of wine, he sets out scarcity of grapes after the grape harvest: ***and the fruit thereof that shall be left upon it, shall be as one cluster of grapes***: *woe is me, for I am become as one that gleans in autumn the grapes of the vintage* (Mic 7:1). Against abundance of oil, he sets out scarcity of olives after the shaking of ***the olive***. The olive,*Olea*. as Papias says, is the fruit of the olive tree;*Olivarum*. but here, according to the explanation of the Gloss, it seems to be used to mean the tree itself on whose top remains a small amount of fruit which the harvesters are not able to reach; concerning this scarcity, see Deuteronomy 28:62: *you shall remain few in number*.  
+**440**. ***My heart***. Here he shows the magnitude of their punishment from the compassion of their enemies, for the prophet himself suffers with them; ***to Moab***, that is, for the affliction of Moab: *I will watch over you**Super te evigilabo*. Vg.: *Super Moab ejulabo*. DR: “I will lament over Moab.” (Jer 48:31).  
 
-**466**. Note on the words, ***and the fatness of his flesh*** (Isa 17:4), that riches are called fatness,  
+***The bars***. Here he describes the manner and order of their punishment, and he sets out three things.  
 
-first, because of their barrenness: *the deceitfulness of riches chokes up the word, and he becomes fruitless* (Matt 13:22);  
+First, the destruction of their land, ***the bars***, that is, the strength or the borders, ***thereof***, of Moab, are deserted, ***unto Segar***, one of the five cities that was destroyed, Genesis 10,Rather, Genesis 14:2 and 19:22. which was in the land of Moab, ***a heifer***, because of lust, ***of three years old***, when animals are in their vigor and ardor; or *of three years old*, because it fell by the third tremor of the earthquake, after Lot had left: *Egypt is like a fair and beautiful heifer* (Jer 46:20).  
 
-second, because of their inconstancy: *charge the rich of this world not to be high-minded nor to trust in the uncertainty of riches* (1 Tim 6:17);  
+Second, the captivity of their men: ***for by the ascent of Luith***, a certain slope, or a certain village, from which they were led captive, ***they shall go up***, to Moab, led captive. ***And in the way of Oronaim***, a certain city of Moab, through which they crossed, ***they shall lift up a cry of contrition***: *the soldier is led away captive* (Nah 2:7).  
 
-third, because of their uselessness: *behold this was the iniquity of Sodom* (Ezek 16:49); *riches kept to the hurt of the owner* (Eccl 5:12).  
+Third, the barrenness of their fields, ***for the waters***, that is, the land of Moab will be so barren it will be like the territory around the town of ***Nemrim***, which is by the sea, because its waters are salty and bitter; not indeed because of the waters, but by the judgment of God, ***the grass***, already arisen, ***is withered away*; *the spring***, as to what was sprouting; ***the greenness***, of trees already arisen: *he has turned rivers into a desert**Desertum*. DR: “wilderness.” (Ps 106[107]:33).  
 
-**467**. ***In that day***. Here he sets out the fruit of the punishment: ***man***, any who fled from the ten tribes to Ezechias, ***shall bow down himself to his Maker***, giving the due service of worship; ***his eyes shall look to the Holy One of Israel***, expecting some help; ***temples** (delubra)*, temples in which there were fonts, as though for washing, below: ***in that day a man shall cast away his idols of silver*** (Isa 31:7).  
+**442**. ***According to the greatness***. Here the reckoning of the magnitude of their punishment is set out: ***their work***, of sin; ***their visitation***, vengeance: *according to the measure of the sin shall the measure also of the stripes be* (Deut 25:2).  
 
-**468**. ***In that day***. Here he threatens the desolation of their cities,  
-
-and first, he threatens the desolation itself: ***as the ploughs***. This touches on what is found in Joshua 6 and 7, how the Amorrhites fled at the coming of the sons of Israel, leaving behind everything in the fields, above: ***your land is desolate, your cities are burnt with fire*** (Isa 1:7).  
-
-Second, the reason for the desolation is set out: ***and you shall be desolate because you have forgotten God your savior***: *you have forsaken the God that begot you, and have forgotten the Lord that created you* (Deut 32:18).  
-
-**469**. ***Therefore shall you plant***. Here he threatens barrenness of fruit, and concerning this, he does three things.  
-
-First, he shows the useless labor of cultivation, as to their vineyards: ***unfaithful plants***, for they will not return fruit according to your labor, or ***faithful***, ironically, as if to say: because of the evil which you have done, will your plants be faithful? As to their fields: ***strange seed***, which another will gather, above: ***ten jugera of vineyard shall yield one little measure*** (Isa 5:10).  
-
-Second, as to the ruin of the fruit: ***in the day of your planting***, that is, when you ought to have taken up the fruit from your planting, and this as to the vineyards; as to the fields, ***in the morning your seed shall flourish***, that is, it will be beautiful at first, that you may mourn more, or because it will flower before the proper season and be useless: *the inheritance gotten hastily in the beginning, in the end shall be without a blessing* (Prov 20:21). ***The harvest is taken away***, by enemies, ***in the day of inheritance***, when it ought to be put away in the barn, like the fruit of their inheritance: *they have sown wheat, and reaped thorns* (Jer 12:13).  
-
-Third, he threatens sorrow for the loss: ***it shall grieve you***,*Dolebit*. who sowed; or ***you shall grieve***.*Dolebis tu*.  
-
-**470**. ***Woe to the multitude***. Here he threatens the destruction of the Assyrians, and concerning this he sets out three things.  
-
-And first, he describes the multitude of the army as to the noise of their marching, ***woe to the multitude of people***, coming with Sennacherib; as to the tumult of their speaking, ***the tumult***, which is confused speech, especially of a multitude. As to the shout of their fighting, ***nations shall make a noise***, in battle, above: ***behold the Lord will bring upon them the waters of the river strong and many*** (Isa 8:7); *their voice shall roar like the sea* (Jer 6:23); *many waters, many peoples* (Rev 17).  
-
-**471**. Second, he threatens destruction.  
-
-Concerning which he first sets out the destruction itself: ***but he shall rebuke him***, killing his army by an angel, ***and he shall flee far off***, to his own land with only a few men, as it says above (Isa 10:18); *you have rebuked the Gentiles* (Ps 9:6[5]).  
-
-Second, a similitude is set out corresponding to the condition of the destruction, for he was proud: ***he shall be carried away as the dust***: *like the dust* (Ps 1:4), which is driven ***before the wind***; and corresponding to the time: ***as a whirlwind before a tempest***, for by night his army was slain, which he calls a tempest, whose precursor is a whirling of dust by winds, which are the cause of rain: *in the night an angel came, and slew the army of the Assyrians* (2 Kgs 19:35).  
-
-Third, the completion of the destruction is set out: ***and he shall not be***, for he himself was killed: *you are brought to nothing* (Ezek 28:19).  
-
-Fourth, the reason for the destruction is set out: ***this is the portion of them that have wasted us***, our possessions, ***and the lot of them that spoiled***, our moveable goods: *fire and brimstone, and storms of winds, shall be the portion of their cup* (Ps 10:7[11:6]).  
-
-**472**. Note on the words, ***his eyes shall look to the Holy One of Israel*** (Isa 17:7), that our eyes ought to be inclined to the Lord,  
-
-first, through the adherence of faith, below: ***your eyes shall see your teacher*** (Isa 30:20);  
-
-second, because of the expectation of hope: *the eyes of all hope in you, O Lord* (Ps 144[145]:15);  
-
-third, because of the contemplation of love: *from thence she contemplates*Contemplabitur*. DR: “looketh for.” the prey, and her eyes behold afar off* (Job 39:29);  
-
-fourth, because of the enjoyment of glory: *blessed are your eyes* (Matt 13:16).  
-
-**473**. Note on the words, ***unfaithful plants*** (Isa 17:10), that these are  
-
-first, the avaricious: *he that loves riches shall reap no fruit from them* (Eccl 5:9);  
-
-second, the lustful: *what fruit had you then in those things of which you are now ashamed?* (Rom 6:21);  
-
-third, the proud: *what has pride profited us?* (Wis 5:8).
+**443**. ***They shall lead them to the torrent***. Here he threatens destruction by the Babylonians, where some were held captive, and as to this he says: the Chaldeans ***shall lead them***, Moab, ***to the torrent***, the Euphrates, beside Babylon, ***of the willows***, which thrive by the river: *upon the rivers of Babylon, there we sat and wept* (Ps 136[137]:1). Some of them were killed, and as to this he says: ***for the cry is gone round about***, of those who weep, or of the Chaldean warriors. ***For the waters of Dibon***, the name of a city, in which they practiced their lusts because of the pleasantness of the place: *the Moabites ran into the waters of Dibon* (2 Kngs 3).Cf. 2 Kings 3:20–27. Some remained, afflicted by various persecutions: ***for I will bring more***, punishments, ***upon Dibon***, to which the Jews had fled, ***upon them that shall flee of Moab***, from the Assyrians; ***and upon the remnant of the land***, whom the Assyrians sent away; ***the lion***: literally, beasts that were killing them, or a raging enemy, namely the Chaldeans, above: ***for all this his indignation is not turned away*** (Isa 9:12).

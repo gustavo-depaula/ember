@@ -31,238 +31,231 @@
   ],
   "toc": [
     {
-      "id": "libcaus-01",
-      "title": {
-        "en-US": "LibCaus",
-        "la": "LibCaus"
-      }
-    },
-    {
-      "id": "libcaus-prologue",
+      "id": "libcaus-c01",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
       }
     },
     {
-      "id": "libcaus-l1",
+      "id": "libcaus-c02",
       "title": {
         "en-US": "Proposition 1",
         "la": "Proposition 1"
       }
     },
     {
-      "id": "libcaus-l2",
+      "id": "libcaus-c03",
       "title": {
         "en-US": "Proposition 2",
         "la": "Proposition 2"
       }
     },
     {
-      "id": "libcaus-l3",
+      "id": "libcaus-c04",
       "title": {
         "en-US": "Proposition 3",
         "la": "Proposition 3"
       }
     },
     {
-      "id": "libcaus-l4",
+      "id": "libcaus-c05",
       "title": {
         "en-US": "Proposition 4",
         "la": "Proposition 4"
       }
     },
     {
-      "id": "libcaus-l5",
+      "id": "libcaus-c06",
       "title": {
         "en-US": "Proposition 5",
         "la": "Proposition 5"
       }
     },
     {
-      "id": "libcaus-l6",
+      "id": "libcaus-c07",
       "title": {
         "en-US": "Proposition 6",
         "la": "Proposition 6"
       }
     },
     {
-      "id": "libcaus-l7",
+      "id": "libcaus-c08",
       "title": {
         "en-US": "Proposition 7",
         "la": "Proposition 7"
       }
     },
     {
-      "id": "libcaus-l8",
+      "id": "libcaus-c09",
       "title": {
         "en-US": "Proposition 8",
         "la": "Proposition 8"
       }
     },
     {
-      "id": "libcaus-l9",
+      "id": "libcaus-c10",
       "title": {
         "en-US": "Proposition 9",
         "la": "Proposition 9"
       }
     },
     {
-      "id": "libcaus-l10",
+      "id": "libcaus-c11",
       "title": {
         "en-US": "Proposition 10",
         "la": "Proposition 10"
       }
     },
     {
-      "id": "libcaus-l11",
+      "id": "libcaus-c12",
       "title": {
         "en-US": "Proposition 11",
         "la": "Proposition 11"
       }
     },
     {
-      "id": "libcaus-l12",
+      "id": "libcaus-c13",
       "title": {
         "en-US": "Proposition 12",
         "la": "Proposition 12"
       }
     },
     {
-      "id": "libcaus-l13",
+      "id": "libcaus-c14",
       "title": {
         "en-US": "Proposition 13",
         "la": "Proposition 13"
       }
     },
     {
-      "id": "libcaus-l14",
+      "id": "libcaus-c15",
       "title": {
         "en-US": "Proposition 14",
         "la": "Proposition 14"
       }
     },
     {
-      "id": "libcaus-l15",
+      "id": "libcaus-c16",
       "title": {
         "en-US": "Proposition 15",
         "la": "Proposition 15"
       }
     },
     {
-      "id": "libcaus-proposition-16",
+      "id": "libcaus-c17",
       "title": {
         "en-US": "Proposition 16",
         "la": "Proposition 16"
       }
     },
     {
-      "id": "libcaus-l17",
+      "id": "libcaus-c18",
       "title": {
         "en-US": "Proposition 17",
         "la": "Proposition 17"
       }
     },
     {
-      "id": "libcaus-l18",
+      "id": "libcaus-c19",
       "title": {
         "en-US": "Proposition 18",
         "la": "Proposition 18"
       }
     },
     {
-      "id": "libcaus-l19",
+      "id": "libcaus-c20",
       "title": {
         "en-US": "Proposition 19",
         "la": "Proposition 19"
       }
     },
     {
-      "id": "libcaus-l20",
+      "id": "libcaus-c21",
       "title": {
         "en-US": "Proposition 20",
         "la": "Proposition 20"
       }
     },
     {
-      "id": "libcaus-l21",
+      "id": "libcaus-c22",
       "title": {
         "en-US": "Proposition 21",
         "la": "Proposition 21"
       }
     },
     {
-      "id": "libcaus-l22",
+      "id": "libcaus-c23",
       "title": {
         "en-US": "Proposition 22",
         "la": "Proposition 22"
       }
     },
     {
-      "id": "libcaus-l23",
+      "id": "libcaus-c24",
       "title": {
         "en-US": "Proposition 23",
         "la": "Proposition 23"
       }
     },
     {
-      "id": "libcaus-l24",
+      "id": "libcaus-c25",
       "title": {
         "en-US": "Proposition 24",
         "la": "Proposition 24"
       }
     },
     {
-      "id": "libcaus-l25",
+      "id": "libcaus-c26",
       "title": {
         "en-US": "Proposition 25",
         "la": "Proposition 25"
       }
     },
     {
-      "id": "libcaus-l26",
+      "id": "libcaus-c27",
       "title": {
         "en-US": "Proposition 26",
         "la": "Proposition 26"
       }
     },
     {
-      "id": "libcaus-l27",
+      "id": "libcaus-c28",
       "title": {
         "en-US": "Proposition 27",
         "la": "Proposition 27"
       }
     },
     {
-      "id": "libcaus-l28",
+      "id": "libcaus-c29",
       "title": {
         "en-US": "Proposition 28",
         "la": "Proposition 28"
       }
     },
     {
-      "id": "libcaus-l29",
+      "id": "libcaus-c30",
       "title": {
         "en-US": "Proposition 29",
         "la": "Proposition 29"
       }
     },
     {
-      "id": "libcaus-l30",
+      "id": "libcaus-c31",
       "title": {
         "en-US": "Proposition 30",
         "la": "Proposition 30"
       }
     },
     {
-      "id": "libcaus-l31",
+      "id": "libcaus-c32",
       "title": {
         "en-US": "Proposition 31",
         "la": "Proposition 31"
       }
     },
     {
-      "id": "libcaus-l32",
+      "id": "libcaus-c33",
       "title": {
         "en-US": "Proposition 32",
         "la": "Proposition 32"

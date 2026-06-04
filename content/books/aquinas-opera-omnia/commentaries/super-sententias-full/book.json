@@ -38,154 +38,147 @@
       },
       "children": [
         {
-          "id": "p1-sent-i",
-          "title": {
-            "en-US": "Sent.I",
-            "la": "Sent.I"
-          }
-        },
-        {
-          "id": "p1-sent-i-pr",
+          "id": "p1-sent-c01",
           "title": {
             "en-US": "Prologue",
             "la": "Prologue"
           }
         },
         {
-          "id": "p1-sent-i-d1",
+          "id": "p1-sent-c02",
           "title": {
             "en-US": "D. 1 - Enjoyment and use",
             "la": "D. 1 - Enjoyment and use"
           }
         },
         {
-          "id": "p1-sent-i-d2",
+          "id": "p1-sent-c03",
           "title": {
             "en-US": "D. 2 - Unity of the divine essence",
             "la": "D. 2 - Unity of the divine essence"
           }
         },
         {
-          "id": "p1-sent-i-d3",
+          "id": "p1-sent-c04",
           "title": {
             "en-US": "D. 3 - Knowledge of the Creator through the created",
             "la": "D. 3 - Knowledge of the Creator through the created"
           }
         },
         {
-          "id": "p1-sent-i-d4",
+          "id": "p1-sent-c05",
           "title": {
             "en-US": "D. 4 - Divine generation and divine predication",
             "la": "D. 4 - Divine generation and divine predication"
           }
         },
         {
-          "id": "p1-sent-i-d5",
+          "id": "p1-sent-c06",
           "title": {
             "en-US": "D. 5 - Divine generation and divine essence",
             "la": "D. 5 - Divine generation and divine essence"
           }
         },
         {
-          "id": "p1-sent-i-d6",
+          "id": "p1-sent-c07",
           "title": {
             "en-US": "D. 6 - The Principle of the Son’s generation",
             "la": "D. 6 - The Principle of the Son’s generation"
           }
         },
         {
-          "id": "p1-sent-i-d7",
+          "id": "p1-sent-c08",
           "title": {
             "en-US": "D. 7 - The commonness of the power of generation",
             "la": "D. 7 - The commonness of the power of generation"
           }
         },
         {
-          "id": "p1-sent-i-d8",
+          "id": "p1-sent-c09",
           "title": {
             "en-US": "D. 8 - The divine essence",
             "la": "D. 8 - The divine essence"
           }
         },
         {
-          "id": "p1-sent-i-d9",
+          "id": "p1-sent-c10",
           "title": {
             "en-US": "D. 9 - Generation of the Son",
             "la": "D. 9 - Generation of the Son"
           }
         },
         {
-          "id": "p1-sent-i-d10",
+          "id": "p1-sent-c11",
           "title": {
             "en-US": "D. 10 - Procession of the Holy Spirit",
             "la": "D. 10 - Procession of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d11",
+          "id": "p1-sent-c12",
           "title": {
             "en-US": "D. 11 - Procession of the Holy Spirit from the Father and the Son",
             "la": "D. 11 - Procession of the Holy Spirit from the Father and the Son"
           }
         },
         {
-          "id": "p1-sent-i-d12",
+          "id": "p1-sent-c13",
           "title": {
             "en-US": "D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit",
             "la": "D. 12 - Order between the Father and the Son as regards the procession of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d13",
+          "id": "p1-sent-c14",
           "title": {
             "en-US": "D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son",
             "la": "D. 13 - Procession of the Holy Spirit in comparison to the generation of the Son"
           }
         },
         {
-          "id": "p1-sent-i-d14",
+          "id": "p1-sent-c15",
           "title": {
             "en-US": "D. 14 - Temporal procession of the Holy Spirit",
             "la": "D. 14 - Temporal procession of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d15",
+          "id": "p1-sent-c16",
           "title": {
             "en-US": "D. 15 - Sending of the Holy Spirit",
             "la": "D. 15 - Sending of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d16",
+          "id": "p1-sent-c17",
           "title": {
             "en-US": "D. 16 - Visible sending of the Holy Spirit",
             "la": "D. 16 - Visible sending of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d17",
+          "id": "p1-sent-c18",
           "title": {
             "en-US": "D. 17 - Invisible Sending of the Holy Spirit",
             "la": "D. 17 - Invisible Sending of the Holy Spirit"
           }
         },
         {
-          "id": "p1-sent-i-d18",
+          "id": "p1-sent-c19",
           "title": {
             "en-US": "D. 18 - The Holy Spirit as gift",
             "la": "D. 18 - The Holy Spirit as gift"
           }
         },
         {
-          "id": "p1-sent-i-d19",
+          "id": "p1-sent-c20",
           "title": {
             "en-US": "D. 19 - Equality of the divine persons",
             "la": "D. 19 - Equality of the divine persons"
           }
         },
         {
-          "id": "p1-sent-i-d20",
+          "id": "p1-sent-c21",
           "title": {
             "en-US": "D. 20 - Equality of the divine persons in power",
             "la": "D. 20 - Equality of the divine persons in power"
@@ -201,203 +194,196 @@
       },
       "children": [
         {
-          "id": "p2-sent-i",
-          "title": {
-            "en-US": "Sent.I",
-            "la": "Sent.I"
-          }
-        },
-        {
-          "id": "p2-sent-i-d21",
+          "id": "p2-sent-c01",
           "title": {
             "en-US": "D. 21 - Exclusive diction in the divine",
             "la": "D. 21 - Exclusive diction in the divine"
           }
         },
         {
-          "id": "p2-sent-i-d22",
+          "id": "p2-sent-c02",
           "title": {
             "en-US": "D. 22 - Division of the divine names",
             "la": "D. 22 - Division of the divine names"
           }
         },
         {
-          "id": "p2-sent-i-d23",
+          "id": "p2-sent-c03",
           "title": {
             "en-US": "D. 23 - The name “person”",
             "la": "D. 23 - The name “person”"
           }
         },
         {
-          "id": "p2-sent-i-d24",
+          "id": "p2-sent-c04",
           "title": {
             "en-US": "D. 24 - Names signifying unity and plurality in the divine",
             "la": "D. 24 - Names signifying unity and plurality in the divine"
           }
         },
         {
-          "id": "p2-sent-i-d25",
+          "id": "p2-sent-c05",
           "title": {
             "en-US": "D. 25 - The name “person” when signified in the plural",
             "la": "D. 25 - The name “person” when signified in the plural"
           }
         },
         {
-          "id": "p2-sent-i-d26",
+          "id": "p2-sent-c06",
           "title": {
             "en-US": "D. 26 - The personal properties of the divine persons",
             "la": "D. 26 - The personal properties of the divine persons"
           }
         },
         {
-          "id": "p2-sent-i-d27",
+          "id": "p2-sent-c07",
           "title": {
             "en-US": "D. 27 - The properties in connection with the names of the divine persons",
             "la": "D. 27 - The properties in connection with the names of the divine persons"
           }
         },
         {
-          "id": "p2-sent-i-d28",
+          "id": "p2-sent-c08",
           "title": {
             "en-US": "D. 28 - Non-personal properties of the divine persons",
             "la": "D. 28 - Non-personal properties of the divine persons"
           }
         },
         {
-          "id": "p2-sent-i-d29",
+          "id": "p2-sent-c09",
           "title": {
             "en-US": "D. 29 - The name “principle”",
             "la": "D. 29 - The name “principle”"
           }
         },
         {
-          "id": "p2-sent-i-d30",
+          "id": "p2-sent-c10",
           "title": {
             "en-US": "D. 30 - Things said of God from time",
             "la": "D. 30 - Things said of God from time"
           }
         },
         {
-          "id": "p2-sent-i-d31",
+          "id": "p2-sent-c11",
           "title": {
             "en-US": "D. 31 - Appropriations of the divine persons",
             "la": "D. 31 - Appropriations of the divine persons"
           }
         },
         {
-          "id": "p2-sent-i-d32",
+          "id": "p2-sent-c12",
           "title": {
             "en-US": "D. 32 - Comparison of the divine persons according to things proper or appropriated",
             "la": "D. 32 - Comparison of the divine persons according to things proper or appropriated"
           }
         },
         {
-          "id": "p2-sent-i-d33",
+          "id": "p2-sent-c13",
           "title": {
             "en-US": "D. 33 - How the properties are compared to the essence and the person",
             "la": "D. 33 - How the properties are compared to the essence and the person"
           }
         },
         {
-          "id": "p2-sent-i-d34",
+          "id": "p2-sent-c14",
           "title": {
             "en-US": "D. 34 - Comparison of the essence to the person",
             "la": "D. 34 - Comparison of the essence to the person"
           }
         },
         {
-          "id": "p2-sent-i-d35",
+          "id": "p2-sent-c15",
           "title": {
             "en-US": "D. 35 - Divine knowledge",
             "la": "D. 35 - Divine knowledge"
           }
         },
         {
-          "id": "p2-sent-i-d36",
+          "id": "p2-sent-c16",
           "title": {
             "en-US": "D. 36 - The realities that God knows",
             "la": "D. 36 - The realities that God knows"
           }
         },
         {
-          "id": "p2-sent-i-d37",
+          "id": "p2-sent-c17",
           "title": {
             "en-US": "D. 37 - How God is in realities",
             "la": "D. 37 - How God is in realities"
           }
         },
         {
-          "id": "p2-sent-i-d38",
+          "id": "p2-sent-c18",
           "title": {
             "en-US": "D. 38 - Whether divine knowledge is the cause of what is known",
             "la": "D. 38 - Whether divine knowledge is the cause of what is known"
           }
         },
         {
-          "id": "p2-sent-i-d39",
+          "id": "p2-sent-c19",
           "title": {
             "en-US": "D. 39 - How divine knowledge is the cause of what is known",
             "la": "D. 39 - How divine knowledge is the cause of what is known"
           }
         },
         {
-          "id": "p2-sent-i-d40",
+          "id": "p2-sent-c20",
           "title": {
             "en-US": "D. 40 - Predestination",
             "la": "D. 40 - Predestination"
           }
         },
         {
-          "id": "p2-sent-i-d41",
+          "id": "p2-sent-c21",
           "title": {
             "en-US": "D. 41 - Causality of predestination",
             "la": "D. 41 - Causality of predestination"
           }
         },
         {
-          "id": "p2-sent-i-d42",
+          "id": "p2-sent-c22",
           "title": {
             "en-US": "D. 42 - The Power of God",
             "la": "D. 42 - The Power of God"
           }
         },
         {
-          "id": "p2-sent-i-d43",
+          "id": "p2-sent-c23",
           "title": {
             "en-US": "D. 43 - Whether the power of God is limited to realities that occur",
             "la": "D. 43 - Whether the power of God is limited to realities that occur"
           }
         },
         {
-          "id": "p2-sent-i-d44",
+          "id": "p2-sent-c24",
           "title": {
             "en-US": "D. 44 - Whether the power of God is limited to the quality of things",
             "la": "D. 44 - Whether the power of God is limited to the quality of things"
           }
         },
         {
-          "id": "p2-sent-i-d45",
+          "id": "p2-sent-c25",
           "title": {
             "en-US": "D. 45 - The Will of God",
             "la": "D. 45 - The Will of God"
           }
         },
         {
-          "id": "p2-sent-i-d46",
+          "id": "p2-sent-c26",
           "title": {
             "en-US": "D. 46 - Certain things that seem to show the inefficacy of the divine will",
             "la": "D. 46 - Certain things that seem to show the inefficacy of the divine will"
           }
         },
         {
-          "id": "p2-sent-i-d47",
+          "id": "p2-sent-c27",
           "title": {
             "en-US": "D. 47 - Efficacy of the will of God",
             "la": "D. 47 - Efficacy of the will of God"
           }
         },
         {
-          "id": "p2-sent-i-d48",
+          "id": "p2-sent-c28",
           "title": {
             "en-US": "D. 48 - Conformity of our will to the will of God",
             "la": "D. 48 - Conformity of our will to the will of God"
@@ -413,154 +399,147 @@
       },
       "children": [
         {
-          "id": "p3-sent-ii",
-          "title": {
-            "en-US": "Sent.II",
-            "la": "Sent.II"
-          }
-        },
-        {
-          "id": "p3-sent-ii-pr",
+          "id": "p3-sent-c01",
           "title": {
             "en-US": "Prologue",
             "la": "Prologue"
           }
         },
         {
-          "id": "p3-sent-ii-d1",
+          "id": "p3-sent-c02",
           "title": {
             "en-US": "D. 1 - The procession of created things",
             "la": "D. 1 - The procession of created things"
           }
         },
         {
-          "id": "p3-sent-ii-d2",
+          "id": "p3-sent-c03",
           "title": {
             "en-US": "D. 2 - Purely spiritual creation",
             "la": "D. 2 - Purely spiritual creation"
           }
         },
         {
-          "id": "p3-sent-ii-d3",
+          "id": "p3-sent-c04",
           "title": {
             "en-US": "D. 3 - Condition of the angels at their creation",
             "la": "D. 3 - Condition of the angels at their creation"
           }
         },
         {
-          "id": "p3-sent-ii-d4",
+          "id": "p3-sent-c05",
           "title": {
             "en-US": "D. 4 - Condition of the angels with regard to glory and wretchedness",
             "la": "D. 4 - Condition of the angels with regard to glory and wretchedness"
           }
         },
         {
-          "id": "p3-sent-ii-d5",
+          "id": "p3-sent-c06",
           "title": {
             "en-US": "D. 5 - Conversion and fall of the angels",
             "la": "D. 5 - Conversion and fall of the angels"
           }
         },
         {
-          "id": "p3-sent-ii-d6",
+          "id": "p3-sent-c07",
           "title": {
             "en-US": "D. 6 - Effects of the fall of the angels with regard to their nature",
             "la": "D. 6 - Effects of the fall of the angels with regard to their nature"
           }
         },
         {
-          "id": "p3-sent-ii-d7",
+          "id": "p3-sent-c08",
           "title": {
             "en-US": "D. 7 - Power of the angels",
             "la": "D. 7 - Power of the angels"
           }
         },
         {
-          "id": "p3-sent-ii-d8",
+          "id": "p3-sent-c09",
           "title": {
             "en-US": "D. 8 - Angels and the assumption of bodies",
             "la": "D. 8 - Angels and the assumption of bodies"
           }
         },
         {
-          "id": "p3-sent-ii-d9",
+          "id": "p3-sent-c10",
           "title": {
             "en-US": "D. 9 - Distinctions among the orders of the good angels",
             "la": "D. 9 - Distinctions among the orders of the good angels"
           }
         },
         {
-          "id": "p3-sent-ii-d10",
+          "id": "p3-sent-c11",
           "title": {
             "en-US": "D. 10 - Angelic acts that follow on the distinct orders",
             "la": "D. 10 - Angelic acts that follow on the distinct orders"
           }
         },
         {
-          "id": "p3-sent-ii-d11",
+          "id": "p3-sent-c12",
           "title": {
             "en-US": "D. 11 - Angelic guardianship",
             "la": "D. 11 - Angelic guardianship"
           }
         },
         {
-          "id": "p3-sent-ii-d12",
+          "id": "p3-sent-c13",
           "title": {
             "en-US": "D. 12 - Purely bodily creation",
             "la": "D. 12 - Purely bodily creation"
           }
         },
         {
-          "id": "p3-sent-ii-d13",
+          "id": "p3-sent-c14",
           "title": {
             "en-US": "D. 13 - Work of distinction of the first day",
             "la": "D. 13 - Work of distinction of the first day"
           }
         },
         {
-          "id": "p3-sent-ii-d14",
+          "id": "p3-sent-c15",
           "title": {
             "en-US": "D. 14 - Work of distinction of the second and third days",
             "la": "D. 14 - Work of distinction of the second and third days"
           }
         },
         {
-          "id": "p3-sent-ii-d15",
+          "id": "p3-sent-c16",
           "title": {
             "en-US": "D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest",
             "la": "D. 15 - Work of adornment of the fourth, fifth, and sixth days, and the seventh day’s rest"
           }
         },
         {
-          "id": "p3-sent-ii-d16",
+          "id": "p3-sent-c17",
           "title": {
             "en-US": "D. 16 - Creation of man in God’s image and likeness",
             "la": "D. 16 - Creation of man in God’s image and likeness"
           }
         },
         {
-          "id": "p3-sent-ii-d17",
+          "id": "p3-sent-c18",
           "title": {
             "en-US": "D. 17 - Creation of man in regard to the constitution of his parts",
             "la": "D. 17 - Creation of man in regard to the constitution of his parts"
           }
         },
         {
-          "id": "p3-sent-ii-d18",
+          "id": "p3-sent-c19",
           "title": {
             "en-US": "D. 18 - Creation of woman",
             "la": "D. 18 - Creation of woman"
           }
         },
         {
-          "id": "p3-sent-ii-d19",
+          "id": "p3-sent-c20",
           "title": {
             "en-US": "D. 19 - Immortality in the original state of man",
             "la": "D. 19 - Immortality in the original state of man"
           }
         },
         {
-          "id": "p3-sent-ii-d20",
+          "id": "p3-sent-c21",
           "title": {
             "en-US": "D. 20 - Generation of children in the original state of man",
             "la": "D. 20 - Generation of children in the original state of man"
@@ -576,175 +555,168 @@
       },
       "children": [
         {
-          "id": "p4-sent-ii",
-          "title": {
-            "en-US": "Sent.II",
-            "la": "Sent.II"
-          }
-        },
-        {
-          "id": "p4-sent-ii-d21",
+          "id": "p4-sent-c01",
           "title": {
             "en-US": "D. 21 - Temptation of our first parents",
             "la": "D. 21 - Temptation of our first parents"
           }
         },
         {
-          "id": "p4-sent-ii-d22",
+          "id": "p4-sent-c02",
           "title": {
             "en-US": "D. 22 - First sin of man",
             "la": "D. 22 - First sin of man"
           }
         },
         {
-          "id": "p4-sent-ii-d23",
+          "id": "p4-sent-c03",
           "title": {
             "en-US": "D. 23 - Divine permission of the first sin",
             "la": "D. 23 - Divine permission of the first sin"
           }
         },
         {
-          "id": "p4-sent-ii-d24",
+          "id": "p4-sent-c04",
           "title": {
             "en-US": "D. 24 - Natural power of man in his original state",
             "la": "D. 24 - Natural power of man in his original state"
           }
         },
         {
-          "id": "p4-sent-ii-d25",
+          "id": "p4-sent-c05",
           "title": {
             "en-US": "D. 25 - Conditions of free decision",
             "la": "D. 25 - Conditions of free decision"
           }
         },
         {
-          "id": "p4-sent-ii-d26",
+          "id": "p4-sent-c06",
           "title": {
             "en-US": "D. 26 - Grace",
             "la": "D. 26 - Grace"
           }
         },
         {
-          "id": "p4-sent-ii-d27",
+          "id": "p4-sent-c07",
           "title": {
             "en-US": "D. 27 - Virtue",
             "la": "D. 27 - Virtue"
           }
         },
         {
-          "id": "p4-sent-ii-d28",
+          "id": "p4-sent-c08",
           "title": {
             "en-US": "D. 28 - Errors about grace",
             "la": "D. 28 - Errors about grace"
           }
         },
         {
-          "id": "p4-sent-ii-d29",
+          "id": "p4-sent-c09",
           "title": {
             "en-US": "D. 29 - Grace in the original state of man",
             "la": "D. 29 - Grace in the original state of man"
           }
         },
         {
-          "id": "p4-sent-ii-d30",
+          "id": "p4-sent-c10",
           "title": {
             "en-US": "D. 30 - Original sin",
             "la": "D. 30 - Original sin"
           }
         },
         {
-          "id": "p4-sent-ii-d31",
+          "id": "p4-sent-c11",
           "title": {
             "en-US": "D. 31 - Principle of original sin",
             "la": "D. 31 - Principle of original sin"
           }
         },
         {
-          "id": "p4-sent-ii-d32",
+          "id": "p4-sent-c12",
           "title": {
             "en-US": "D. 32 - Remission of original sin",
             "la": "D. 32 - Remission of original sin"
           }
         },
         {
-          "id": "p4-sent-ii-d33",
+          "id": "p4-sent-c13",
           "title": {
             "en-US": "D. 33 - Number of original sin",
             "la": "D. 33 - Number of original sin"
           }
         },
         {
-          "id": "p4-sent-ii-d34",
+          "id": "p4-sent-c14",
           "title": {
             "en-US": "D. 34 - Actual sin as regards the account of evil",
             "la": "D. 34 - Actual sin as regards the account of evil"
           }
         },
         {
-          "id": "p4-sent-ii-d35",
+          "id": "p4-sent-c15",
           "title": {
             "en-US": "D. 35 - Evil of fault",
             "la": "D. 35 - Evil of fault"
           }
         },
         {
-          "id": "p4-sent-ii-d36",
+          "id": "p4-sent-c16",
           "title": {
             "en-US": "D. 36 - Sin and punishment",
             "la": "D. 36 - Sin and punishment"
           }
         },
         {
-          "id": "p4-sent-ii-d37",
+          "id": "p4-sent-c17",
           "title": {
             "en-US": "D. 37 - Cause of sin and punishment",
             "la": "D. 37 - Cause of sin and punishment"
           }
         },
         {
-          "id": "p4-sent-ii-d38",
+          "id": "p4-sent-c18",
           "title": {
             "en-US": "D. 38 - The act of the will",
             "la": "D. 38 - The act of the will"
           }
         },
         {
-          "id": "p4-sent-ii-d39",
+          "id": "p4-sent-c19",
           "title": {
             "en-US": "D. 39 - How sin can be in the will",
             "la": "D. 39 - How sin can be in the will"
           }
         },
         {
-          "id": "p4-sent-ii-d40",
+          "id": "p4-sent-c20",
           "title": {
             "en-US": "D. 40 - How external acts are good or evil",
             "la": "D. 40 - How external acts are good or evil"
           }
         },
         {
-          "id": "p4-sent-ii-d41",
+          "id": "p4-sent-c21",
           "title": {
             "en-US": "D. 41 - The act of sin in comparison to the intention and the will",
             "la": "D. 41 - The act of sin in comparison to the intention and the will"
           }
         },
         {
-          "id": "p4-sent-ii-d42",
+          "id": "p4-sent-c22",
           "title": {
             "en-US": "D. 42 - Parts and modes of sin",
             "la": "D. 42 - Parts and modes of sin"
           }
         },
         {
-          "id": "p4-sent-ii-d43",
+          "id": "p4-sent-c23",
           "title": {
             "en-US": "D. 43 - The sin against the Holy Spirit",
             "la": "D. 43 - The sin against the Holy Spirit"
           }
         },
         {
-          "id": "p4-sent-ii-d44",
+          "id": "p4-sent-c24",
           "title": {
             "en-US": "D. 44 - The power to sin",
             "la": "D. 44 - The power to sin"
@@ -760,168 +732,161 @@
       },
       "children": [
         {
-          "id": "p5-sent-iii",
-          "title": {
-            "en-US": "Sent.III",
-            "la": "Sent.III"
-          }
-        },
-        {
-          "id": "p5-sent-iii-pr",
+          "id": "p5-sent-c01",
           "title": {
             "en-US": "Prologue",
             "la": "Prologue"
           }
         },
         {
-          "id": "p5-sent-iii-d1",
+          "id": "p5-sent-c02",
           "title": {
             "en-US": "D. 1 - The Incarnation",
             "la": "D. 1 - The Incarnation"
           }
         },
         {
-          "id": "p5-sent-iii-d2",
+          "id": "p5-sent-c03",
           "title": {
             "en-US": "D. 2 - The nature assumed in the Incarnation",
             "la": "D. 2 - The nature assumed in the Incarnation"
           }
         },
         {
-          "id": "p5-sent-iii-d3",
+          "id": "p5-sent-c04",
           "title": {
             "en-US": "D. 3 - How the human nature was assumed",
             "la": "D. 3 - How the human nature was assumed"
           }
         },
         {
-          "id": "p5-sent-iii-d4",
+          "id": "p5-sent-c05",
           "title": {
             "en-US": "D. 4 - Agencies in the conception of Christ",
             "la": "D. 4 - Agencies in the conception of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d5",
+          "id": "p5-sent-c06",
           "title": {
             "en-US": "D. 5 - The union in the Incarnation",
             "la": "D. 5 - The union in the Incarnation"
           }
         },
         {
-          "id": "p5-sent-iii-d6",
+          "id": "p5-sent-c07",
           "title": {
             "en-US": "D. 6 - The mode of union",
             "la": "D. 6 - The mode of union"
           }
         },
         {
-          "id": "p5-sent-iii-d7",
+          "id": "p5-sent-c08",
           "title": {
             "en-US": "D. 7 - Interpretation of expressions signifying the union",
             "la": "D. 7 - Interpretation of expressions signifying the union"
           }
         },
         {
-          "id": "p5-sent-iii-d8",
+          "id": "p5-sent-c09",
           "title": {
             "en-US": "D. 8 - What belongs to the divine nature on account of the union",
             "la": "D. 8 - What belongs to the divine nature on account of the union"
           }
         },
         {
-          "id": "p5-sent-iii-d9",
+          "id": "p5-sent-c10",
           "title": {
             "en-US": "D. 9 - What belongs to the human nature on account of the union",
             "la": "D. 9 - What belongs to the human nature on account of the union"
           }
         },
         {
-          "id": "p5-sent-iii-d10",
+          "id": "p5-sent-c11",
           "title": {
             "en-US": "D. 10 - What belongs to the divine person on account of the union",
             "la": "D. 10 - What belongs to the divine person on account of the union"
           }
         },
         {
-          "id": "p5-sent-iii-d11",
+          "id": "p5-sent-c12",
           "title": {
             "en-US": "D. 11 - Christ as a creature",
             "la": "D. 11 - Christ as a creature"
           }
         },
         {
-          "id": "p5-sent-iii-d12",
+          "id": "p5-sent-c13",
           "title": {
             "en-US": "D. 12 - Defects of Christ's human nature as created",
             "la": "D. 12 - Defects of Christ's human nature as created"
           }
         },
         {
-          "id": "p5-sent-iii-d13",
+          "id": "p5-sent-c14",
           "title": {
             "en-US": "D. 13 - Perfections of human nature of Christ",
             "la": "D. 13 - Perfections of human nature of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d14",
+          "id": "p5-sent-c15",
           "title": {
             "en-US": "D. 14 - Human knowledge and power of Christ",
             "la": "D. 14 - Human knowledge and power of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d15",
+          "id": "p5-sent-c16",
           "title": {
             "en-US": "D. 15 - Defects assumed with human nature of Christ",
             "la": "D. 15 - Defects assumed with human nature of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d16",
+          "id": "p5-sent-c17",
           "title": {
             "en-US": "D. 16 - Necessity of Christ's suffering and death",
             "la": "D. 16 - Necessity of Christ's suffering and death"
           }
         },
         {
-          "id": "p5-sent-iii-d17",
+          "id": "p5-sent-c18",
           "title": {
             "en-US": "D. 17 - The will of Christ",
             "la": "D. 17 - The will of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d18",
+          "id": "p5-sent-c19",
           "title": {
             "en-US": "D. 18 - Christ's merit as ordered to the good",
             "la": "D. 18 - Christ's merit as ordered to the good"
           }
         },
         {
-          "id": "p5-sent-iii-d19",
+          "id": "p5-sent-c20",
           "title": {
             "en-US": "D. 19 - Christ's merit as ordered to taking away evil",
             "la": "D. 19 - Christ's merit as ordered to taking away evil"
           }
         },
         {
-          "id": "p5-sent-iii-d20",
+          "id": "p5-sent-c21",
           "title": {
             "en-US": "D. 20 - Causes of the Passion",
             "la": "D. 20 - Causes of the Passion"
           }
         },
         {
-          "id": "p5-sent-iii-d21",
+          "id": "p5-sent-c22",
           "title": {
             "en-US": "D. 21 - Death and resurrection of Christ",
             "la": "D. 21 - Death and resurrection of Christ"
           }
         },
         {
-          "id": "p5-sent-iii-d22",
+          "id": "p5-sent-c23",
           "title": {
             "en-US": "D. 22 - What follows from the death of Christ",
             "la": "D. 22 - What follows from the death of Christ"
@@ -937,126 +902,126 @@
       },
       "children": [
         {
-          "id": "p6-sent-iii",
+          "id": "p6-sent-c01",
           "title": {
             "en-US": "D. 23 - The virtues and faith",
             "la": "D. 23 - The virtues and faith"
           }
         },
         {
-          "id": "p6-sent-iii-d24",
+          "id": "p6-sent-c02",
           "title": {
             "en-US": "D. 24 - Object of faith",
             "la": "D. 24 - Object of faith"
           }
         },
         {
-          "id": "p6-sent-iii-d25",
+          "id": "p6-sent-c03",
           "title": {
             "en-US": "D. 25 - Articles of faith",
             "la": "D. 25 - Articles of faith"
           }
         },
         {
-          "id": "p6-sent-iii-d26",
+          "id": "p6-sent-c04",
           "title": {
             "en-US": "D. 26 - Hope",
             "la": "D. 26 - Hope"
           }
         },
         {
-          "id": "p6-sent-iii-d27",
+          "id": "p6-sent-c05",
           "title": {
             "en-US": "D. 27 - Charity",
             "la": "D. 27 - Charity"
           }
         },
         {
-          "id": "p6-sent-iii-d28",
+          "id": "p6-sent-c06",
           "title": {
             "en-US": "D. 28 - The command to love one's neighbor",
             "la": "D. 28 - The command to love one's neighbor"
           }
         },
         {
-          "id": "p6-sent-iii-d29",
+          "id": "p6-sent-c07",
           "title": {
             "en-US": "D. 29 - Order of charity",
             "la": "D. 29 - Order of charity"
           }
         },
         {
-          "id": "p6-sent-iii-d30",
+          "id": "p6-sent-c08",
           "title": {
             "en-US": "D. 30 - Order of charity as regards merit",
             "la": "D. 30 - Order of charity as regards merit"
           }
         },
         {
-          "id": "p6-sent-iii-d31",
+          "id": "p6-sent-c09",
           "title": {
             "en-US": "D. 31 - Duration of charity",
             "la": "D. 31 - Duration of charity"
           }
         },
         {
-          "id": "p6-sent-iii-d32",
+          "id": "p6-sent-c10",
           "title": {
             "en-US": "D. 32 - God's charity for us",
             "la": "D. 32 - God's charity for us"
           }
         },
         {
-          "id": "p6-sent-iii-d33",
+          "id": "p6-sent-c11",
           "title": {
             "en-US": "D. 33 - Cardinal virtues",
             "la": "D. 33 - Cardinal virtues"
           }
         },
         {
-          "id": "p6-sent-iii-d34",
+          "id": "p6-sent-c12",
           "title": {
             "en-US": "D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety",
             "la": "D. 34 - Gifts of the Holy Spirit: fear, fortitude, and piety"
           }
         },
         {
-          "id": "p6-sent-iii-d35",
+          "id": "p6-sent-c13",
           "title": {
             "en-US": "D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel",
             "la": "D. 35 - Gifts of the Holy Spirit: wisdom, understanding, knowledge, and counsel"
           }
         },
         {
-          "id": "p6-sent-iii-d36",
+          "id": "p6-sent-c14",
           "title": {
             "en-US": "D. 36 - Interconnection of the virtues",
             "la": "D. 36 - Interconnection of the virtues"
           }
         },
         {
-          "id": "p6-sent-iii-d37",
+          "id": "p6-sent-c15",
           "title": {
             "en-US": "D. 37 - Precepts of the law",
             "la": "D. 37 - Precepts of the law"
           }
         },
         {
-          "id": "p6-sent-iii-d38",
+          "id": "p6-sent-c16",
           "title": {
             "en-US": "D. 38 - Lying",
             "la": "D. 38 - Lying"
           }
         },
         {
-          "id": "p6-sent-iii-d39",
+          "id": "p6-sent-c17",
           "title": {
             "en-US": "D. 39 - Perjury and oaths",
             "la": "D. 39 - Perjury and oaths"
           }
         },
         {
-          "id": "p6-sent-iii-d40",
+          "id": "p6-sent-c18",
           "title": {
             "en-US": "D. 40 - The last two precepts",
             "la": "D. 40 - The last two precepts"
@@ -1072,105 +1037,98 @@
       },
       "children": [
         {
-          "id": "p7-sent-iv",
-          "title": {
-            "en-US": "Sent.IV",
-            "la": "Sent.IV"
-          }
-        },
-        {
-          "id": "p7-sent-iv-pr",
+          "id": "p7-sent-c01",
           "title": {
             "en-US": "Prologue",
             "la": "Prologue"
           }
         },
         {
-          "id": "p7-sent-iv-d1",
+          "id": "p7-sent-c02",
           "title": {
             "en-US": "D. 1 - Sacraments in general",
             "la": "D. 1 - Sacraments in general"
           }
         },
         {
-          "id": "p7-sent-iv-d2",
+          "id": "p7-sent-c03",
           "title": {
             "en-US": "D. 2 - Sacraments of the New Law",
             "la": "D. 2 - Sacraments of the New Law"
           }
         },
         {
-          "id": "p7-sent-iv-d3",
+          "id": "p7-sent-c04",
           "title": {
             "en-US": "D. 3 - Baptism in itself",
             "la": "D. 3 - Baptism in itself"
           }
         },
         {
-          "id": "p7-sent-iv-d4",
+          "id": "p7-sent-c05",
           "title": {
             "en-US": "D. 4 - The effects of baptism",
             "la": "D. 4 - The effects of baptism"
           }
         },
         {
-          "id": "p7-sent-iv-d5",
+          "id": "p7-sent-c06",
           "title": {
             "en-US": "D. 5 - The cause of baptism",
             "la": "D. 5 - The cause of baptism"
           }
         },
         {
-          "id": "p7-sent-iv-d6",
+          "id": "p7-sent-c07",
           "title": {
             "en-US": "D. 6 - Conditions for baptism",
             "la": "D. 6 - Conditions for baptism"
           }
         },
         {
-          "id": "p7-sent-iv-d7",
+          "id": "p7-sent-c08",
           "title": {
             "en-US": "D. 7 - Confirmation",
             "la": "D. 7 - Confirmation"
           }
         },
         {
-          "id": "p7-sent-iv-d8",
+          "id": "p7-sent-c09",
           "title": {
             "en-US": "D. 8 - The sacrament of the Eucharist",
             "la": "D. 8 - The sacrament of the Eucharist"
           }
         },
         {
-          "id": "p7-sent-iv-d9",
+          "id": "p7-sent-c10",
           "title": {
             "en-US": "D. 9 - Reception of the Eucharist",
             "la": "D. 9 - Reception of the Eucharist"
           }
         },
         {
-          "id": "p7-sent-iv-d10",
+          "id": "p7-sent-c11",
           "title": {
             "en-US": "D. 10 - The body of Christ in the Eucharist",
             "la": "D. 10 - The body of Christ in the Eucharist"
           }
         },
         {
-          "id": "p7-sent-iv-d11",
+          "id": "p7-sent-c12",
           "title": {
             "en-US": "D. 11 - Sacrament-and-reality in the Eucharist",
             "la": "D. 11 - Sacrament-and-reality in the Eucharist"
           }
         },
         {
-          "id": "p7-sent-iv-d12",
+          "id": "p7-sent-c13",
           "title": {
             "en-US": "D. 12 - Appearance and effects of the Eucharist",
             "la": "D. 12 - Appearance and effects of the Eucharist"
           }
         },
         {
-          "id": "p7-sent-iv-d13",
+          "id": "p7-sent-c14",
           "title": {
             "en-US": "D. 13 - Minister of the Eucharist",
             "la": "D. 13 - Minister of the Eucharist"
@@ -1186,91 +1144,84 @@
       },
       "children": [
         {
-          "id": "p8-sent-iv",
-          "title": {
-            "en-US": "Sent.IV",
-            "la": "Sent.IV"
-          }
-        },
-        {
-          "id": "p8-sent-iv-d14",
+          "id": "p8-sent-c01",
           "title": {
             "en-US": "D. 14 - Definition of penance",
             "la": "D. 14 - Definition of penance"
           }
         },
         {
-          "id": "p8-sent-iv-d15",
+          "id": "p8-sent-c02",
           "title": {
             "en-US": "D. 15 - Requirements for penance",
             "la": "D. 15 - Requirements for penance"
           }
         },
         {
-          "id": "p8-sent-iv-d16",
+          "id": "p8-sent-c03",
           "title": {
             "en-US": "D. 16 - Parts of penance",
             "la": "D. 16 - Parts of penance"
           }
         },
         {
-          "id": "p8-sent-iv-d17",
+          "id": "p8-sent-c04",
           "title": {
             "en-US": "D. 17 - Comparing the parts of penance",
             "la": "D. 17 - Comparing the parts of penance"
           }
         },
         {
-          "id": "p8-sent-iv-d18",
+          "id": "p8-sent-c05",
           "title": {
             "en-US": "D. 18 - Power of the keys",
             "la": "D. 18 - Power of the keys"
           }
         },
         {
-          "id": "p8-sent-iv-d19",
+          "id": "p8-sent-c06",
           "title": {
             "en-US": "D. 19 - Use of the keys",
             "la": "D. 19 - Use of the keys"
           }
         },
         {
-          "id": "p8-sent-iv-d20",
+          "id": "p8-sent-c07",
           "title": {
             "en-US": "D. 20 - Temporal aspects of penance",
             "la": "D. 20 - Temporal aspects of penance"
           }
         },
         {
-          "id": "p8-sent-iv-d21",
+          "id": "p8-sent-c08",
           "title": {
             "en-US": "D. 21 - On purgatory and confession",
             "la": "D. 21 - On purgatory and confession"
           }
         },
         {
-          "id": "p8-sent-iv-d22",
+          "id": "p8-sent-c09",
           "title": {
             "en-US": "D. 22 - On the effect of penance",
             "la": "D. 22 - On the effect of penance"
           }
         },
         {
-          "id": "p8-sent-iv-d23",
+          "id": "p8-sent-c10",
           "title": {
             "en-US": "D. 23 - On extreme unction",
             "la": "D. 23 - On extreme unction"
           }
         },
         {
-          "id": "p8-sent-iv-d24",
+          "id": "p8-sent-c11",
           "title": {
             "en-US": "D. 24 - Sacrament of holy orders",
             "la": "D. 24 - Sacrament of holy orders"
           }
         },
         {
-          "id": "p8-sent-iv-d25",
+          "id": "p8-sent-c12",
           "title": {
             "en-US": "D. 25 - Conferral of holy orders",
             "la": "D. 25 - Conferral of holy orders"
@@ -1286,126 +1237,119 @@
       },
       "children": [
         {
-          "id": "p9-sent-iv",
-          "title": {
-            "en-US": "Sent.IV",
-            "la": "Sent.IV"
-          }
-        },
-        {
-          "id": "p9-sent-iv-d26",
+          "id": "p9-sent-c01",
           "title": {
             "en-US": "D. 26 - On matrimony",
             "la": "D. 26 - On matrimony"
           }
         },
         {
-          "id": "p9-sent-iv-d27",
+          "id": "p9-sent-c02",
           "title": {
             "en-US": "D. 27 - On the cause of marriage",
             "la": "D. 27 - On the cause of marriage"
           }
         },
         {
-          "id": "p9-sent-iv-d28",
+          "id": "p9-sent-c03",
           "title": {
             "en-US": "D. 28 - On marital consent",
             "la": "D. 28 - On marital consent"
           }
         },
         {
-          "id": "p9-sent-iv-d29",
+          "id": "p9-sent-c04",
           "title": {
             "en-US": "D. 29 - On the impediment of compulsion",
             "la": "D. 29 - On the impediment of compulsion"
           }
         },
         {
-          "id": "p9-sent-iv-d30",
+          "id": "p9-sent-c05",
           "title": {
             "en-US": "D. 30 - On the impediment of error",
             "la": "D. 30 - On the impediment of error"
           }
         },
         {
-          "id": "p9-sent-iv-d31",
+          "id": "p9-sent-c06",
           "title": {
             "en-US": "D. 31 - On the goods of marriage and the marital act",
             "la": "D. 31 - On the goods of marriage and the marital act"
           }
         },
         {
-          "id": "p9-sent-iv-d32",
+          "id": "p9-sent-c07",
           "title": {
             "en-US": "D. 32 - The marital debt",
             "la": "D. 32 - The marital debt"
           }
         },
         {
-          "id": "p9-sent-iv-d33",
+          "id": "p9-sent-c08",
           "title": {
             "en-US": "D. 33 - On the development of marriage",
             "la": "D. 33 - On the development of marriage"
           }
         },
         {
-          "id": "p9-sent-iv-d34",
+          "id": "p9-sent-c09",
           "title": {
             "en-US": "D. 34 - On personal impediments",
             "la": "D. 34 - On personal impediments"
           }
         },
         {
-          "id": "p9-sent-iv-d35",
+          "id": "p9-sent-c10",
           "title": {
             "en-US": "D. 35 - On fornication",
             "la": "D. 35 - On fornication"
           }
         },
         {
-          "id": "p9-sent-iv-d36",
+          "id": "p9-sent-c11",
           "title": {
             "en-US": "D. 36 - The impediment of slavery",
             "la": "D. 36 - The impediment of slavery"
           }
         },
         {
-          "id": "p9-sent-iv-d37",
+          "id": "p9-sent-c12",
           "title": {
             "en-US": "D. 37 - On holy orders and uxoricide",
             "la": "D. 37 - On holy orders and uxoricide"
           }
         },
         {
-          "id": "p9-sent-iv-d38",
+          "id": "p9-sent-c13",
           "title": {
             "en-US": "D. 38 - On religious vows",
             "la": "D. 38 - On religious vows"
           }
         },
         {
-          "id": "p9-sent-iv-d39",
+          "id": "p9-sent-c14",
           "title": {
             "en-US": "D. 39 - On mixed marriages",
             "la": "D. 39 - On mixed marriages"
           }
         },
         {
-          "id": "p9-sent-iv-d40",
+          "id": "p9-sent-c15",
           "title": {
             "en-US": "D. 40 - On consanguinity",
             "la": "D. 40 - On consanguinity"
           }
         },
         {
-          "id": "p9-sent-iv-d41",
+          "id": "p9-sent-c16",
           "title": {
             "en-US": "D. 41 - On affinity",
             "la": "D. 41 - On affinity"
           }
         },
         {
-          "id": "p9-sent-iv-d42",
+          "id": "p9-sent-c17",
           "title": {
             "en-US": "D. 42 - On the impediment of a spiritual relationship",
             "la": "D. 42 - On the impediment of a spiritual relationship"
@@ -1421,63 +1365,56 @@
       },
       "children": [
         {
-          "id": "p10-sent-iv",
-          "title": {
-            "en-US": "Sent.IV",
-            "la": "Sent.IV"
-          }
-        },
-        {
-          "id": "p10-sent-iv-d43",
+          "id": "p10-sent-c01",
           "title": {
             "en-US": "D. 43 - The resurrection of the body",
             "la": "D. 43 - The resurrection of the body"
           }
         },
         {
-          "id": "p10-sent-iv-d44",
+          "id": "p10-sent-c02",
           "title": {
             "en-US": "D. 44 - Those who will rise",
             "la": "D. 44 - Those who will rise"
           }
         },
         {
-          "id": "p10-sent-iv-d45",
+          "id": "p10-sent-c03",
           "title": {
             "en-US": "D. 45 - Before the general judgment",
             "la": "D. 45 - Before the general judgment"
           }
         },
         {
-          "id": "p10-sent-iv-d46",
+          "id": "p10-sent-c04",
           "title": {
             "en-US": "D. 46 - Divine justice and mercy",
             "la": "D. 46 - Divine justice and mercy"
           }
         },
         {
-          "id": "p10-sent-iv-d47",
+          "id": "p10-sent-c05",
           "title": {
             "en-US": "D. 47 - The general judgment",
             "la": "D. 47 - The general judgment"
           }
         },
         {
-          "id": "p10-sent-iv-d48",
+          "id": "p10-sent-c06",
           "title": {
             "en-US": "D. 48 - The second coming",
             "la": "D. 48 - The second coming"
           }
         },
         {
-          "id": "p10-sent-iv-d49",
+          "id": "p10-sent-c07",
           "title": {
             "en-US": "D. 49 - The rewards of the blessed",
             "la": "D. 49 - The rewards of the blessed"
           }
         },
         {
-          "id": "p10-sent-iv-d50",
+          "id": "p10-sent-c08",
           "title": {
             "en-US": "D. 50 - Separated souls and the damned",
             "la": "D. 50 - Separated souls and the damned"

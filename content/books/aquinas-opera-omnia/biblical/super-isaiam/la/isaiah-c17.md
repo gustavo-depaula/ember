@@ -1,141 +1,93 @@
-# Chapter 17
+# Chapter 15
 
-> ^17:2^ Derelictæ civitates Aroer gregibus erunt et requiescent ibi, et non erit qui exterreat.
+> ^15:2^ Ascendit domus et Dibon ad excelsa in planctum, super Nabo et super Medaba Moab ululavit. In cunctis capitibus ejus calvitium, et omnis barba radetur.
 
-> ^17:3^ Et cessabit adjutorium ab Ephraim, et regnum a Damasco, et reliquiæ Syriæ sicut gloria filiorum Israel erunt, dicit Dominus exercituum.
+> ^15:3^ In triviis ejus accincti sunt sacco, super tecta ejus et in plateis ejus omnis ululatus descendit in fletum.
 
-> ^17:4^ Et erit in die illa, attenuabitur gloria Jacob, et pinguedo carnis ejus marcescet.
+> ^15:4^ Clamabit Hesebon et Eleale, usque Jasa audita est vox eorum. Super hoc expediti Moab ululabunt, anima ejus ululabit sibi.
 
-> ^17:5^ Et erit sicut congregans in messe quod restiterit, et brachium ejus spicas leget; et erit sicut quærens spicas in valle Raphaim.
+> ^15:5^ Cor meum ad Moab clamabit. Vectes ejus usque ad Segor vitulam conternantem; per ascensum enim Luith flens ascendet, et in via Oronaim clamorem contritionis levabunt;
 
-> ^17:6^ Et relinquetur in eo sicut racemus et sicut excussio oleæ duarum aut trium olivarum in summitate rami, sive quatuor aut quinque in cacuminibus ejus fructus ejus, dicit Dominus Deus Israel.
+> ^15:6^ aquæ enim Nemrim desertæ erunt, quia aruit herba, defecit germen, viror omnis interiit.
 
-> ^17:7^ In die illa inclinabitur homo ad factorem suum, et oculi ejus ad Sanctum Israel respicient;
+> ^15:7^ Secundum magnitudinem operis et visitatio eorum. Ad torrentem salicum ducent eos.
 
-> ^17:8^ et non inclinabitur ad altaria quæ fecerunt manus ejus et quæ operati sunt digiti ejus; non respiciet lucos et delubra.
+> ^15:8^ Quoniam circumiit clamor terminum Moab, usque ad Gallim ululatus ejus, et usque ad puteum Elim clamor ejus,
 
-> ^17:9^ In die illa erunt civitates fortitudinis ejus derelictæ sicut aratra et segetes, quæ derelictæ sunt a facie filiorum Israel; et eris deserta,
+> ^15:9^ quia aquæ Dibon repletæ sunt sanguine. Ponam enim super Dibon additamenta, his qui fugerint de Moab leonem et reliquiis terræ.
 
-> ^17:10^ quia oblitus es Dei salvatoris tui et fortis adjutoris tui non es recordata. Propterea plantabis plantationem infidelem et germen alienum seminabis;
+> **432**. ***Onus Moab***. In parte ista comminatur contra Moabitas,—qui descenderunt a Moab primogenito Loth, Gen. XIX 37—, propter hoc quod gavisi sunt de destructione filiorum Israel ab Assyriis et Chaldaeis, a quibus tamen ipsi sunt destructi, quamvis post. Et dividitur in partes duas:
 
-> ^17:11^ in die plantationis tuæ labrusca, et mane semen tuum florebit; ablata est messis in die hæreditatis; et dolebit graviter.
+in prima comminatur destructionem,  
 
-> ^17:12^ Væ multitudini populorum multorum ut multitudo maris sonantis et tumultus turbarum sicut sonitus aquarum multarum.
+in secunda destructionis conditionem: ***emitte***, cap. XVI.  
 
-> ^17:13^ Sonabunt populi sicut sonitus aquarum inundantium. Et increpabit eum et fugiet procul; et rapietur sicut pulvis montium a facie venti et sicut turbo coram tempestate.
+Prima in duas:  
 
-> ^17:14^ In tempore vesperi et ecce turbatio; in matutino et non subsistet. Hæc est pars eorum qui vastaverunt nos et sors diripientium nos.
+in prima comminatur destructionem per Assyrios,  
 
-> **460**. ***Onus Damasci***. Hic incipit comminari contra illos qui praeparabant populo Dei occasionem peccandi, dum per confidentiam auxilii ipsorum de Deo confidere non curabant. Et dividitur in duas:
-
-in prima contra Syros qui populo decem tribuum auxilium conferebant;  
-
-in secunda contra Aegyptios qui duabus tribubus, cap. XVIII ***vae terrae***.  
+in secunda per Babylonios: ***ad torrentem***.  
 
 Prima in tres:  
 
-in prima comminatur destructionem Syrorum auxilium promittentium;  
+in prima designat ex dolore poenae magnitudinem;  
 
-in secunda decem tribuum in praemisso auxilio confidentium: ***et erit in die illa***;  
+in secunda poenae modum et ordinem: ***vectes***;  
 
-in tertia Assyriorum utrosque destruentium: ***vae multitudini***.  
+in tertia magnitudinis rationem: ***secundum magnitudinem***.  
 
-**461**. Circa primum duo:  
+**433**. Magnitudinem autem doloris ostendit quantum ad tria:  
 
-primo comminatur destructionem;  
+scilicet per stuporis silentium,  
 
-in secunda describit destructionis effectum: ***et cessabit***.  
+per doloris fletum: ***ascendit***,  
 
-Destructionem autem comminatur primo quantum ad regiam civitatem: ***desinet esse civitas***, per depopulationem hominum; ***erit sicut***, per destructionem murorum, Mich. III 12 *Sion erit quasi ager*.  
+per compassionem hostium: ***cor meum***.  
 
-Secundo quantum ad adjacentem regionem: ***Aroer***, id est illius regionis Syriae in qua multae civitates sunt; vel ***Aroer***, myrica, quasi: sicut loca in quibus abundant myricae sterilia sunt et derelicta in pastum gregum, ita civitates Syriae; ***non erit qui exterreat***, quia propter solitudinem etiam latrones non erunt ibi; vel quia non erunt ad alium fructum utiles, sicut exterrentur greges a vineis et locis cultis, infra XXXIV 13 ***orientur in domibus eorum urticae***.  
+Stupor autem contingit ex privatione eorum in quibus aliquis confidit. Confidebant autem in regia civitate a qua sperabant auxilium, et in munitionibus: et ideo dicit ***onus Moab***, id est haec est visio de onere Moab, id est provincia Moabitarum; ***conticuit*** prae stupore ***quia Ar***, civitas regia, ***vastata est nocte***, ad litteram, vel propter gravem tribulationem; ***et quia nocte vastatus est murus*** munitionum, ***Moab conticuit***, Abd. *si fures intrassent*.  
 
-**462**. ***Et cessabit***. Hic ponitur effectus destructionis,  
+**434**. ***Ascendit***. Hic ostendit magnitudinem poenae ex magnitudine fletus: et tria ponit.  
 
-et primo in decem tribubus: ***ab Ephraim***;  
+Primo praedicit fletum, et quantum ad flentes: ***domus***, scilicet regia, ***et Dibon***, nobilis quaedam civitas; et quantum ad locum: ***ascendit***; ***in planctum***, id est ad flendum, ***ad excelsa***, in quibus idolis immolabant, ut plangendo auxilium quaererent; et quantum ad materiam: ***Moab***, tota provincia, ***ululabit super Nabo et super Medaba***, quaedam civitates quae destructae fuerant, Ioelis II *luctum unigeniti fac tibi*.  
 
-secundo quantum ad regiam civitatem: ***et regnum a Damasco*** cessabit et non erit ulterius caput regni;  
+**435**. Secundo describit plangendi modum, secundum morem antiquorum, qui nutrientes tempore laetitiae barbam et comam, tempore tristitiae deponebant, sicut habetur Job II *tonso capite corruit in terram: **in cunctis capitibus***, supra III 24 ***et erit pro crispanti crine calvitium***.  
 
-tertio quantum ad totam regionem: ***et reliquiae Syriae***, ironice, id est erunt ignominiosi sicut filii Israel, infra XXX 3 ***Dominus inclinabit manum suam, et corruet auxiliator***.  
+**436**. Tertio excludit fletus terminum, et quantum ad diversitatem locorum: quia ***omnis***, id est omnibus modis, ***ululatus*** erit ***super tecta ejus***, quae plana habebant ad sedendum, ***et in plateis ejus descendet in fletu***, ab excelsis in quae flens ascenderat, ut in montibus et vallibus fletus sit. ***Esebon clamavit***, flens, ***et Eleale***, quae sunt civitates, quinimo terrae regni Moab. ***Vox eorum audita est usque Jasa***, quae est alia civitas ejus. Et quantum ad diversitatem flentium: ***super hoc***, malum, ***expediti***, scilicet ad pugnandum; non tantum senes, et etiam simul cum aliis, sed etiam ***sibi***, quando stat solitarius, ***anima***, quia planctus procedit ex intimis cordis. Jer. 48: *super omne tectum Moab et in plateis ejus omnis planctus*.  
 
-**463**. ***Et erit in die illa***. Hic comminatur destructionem decem tribuum in eorum auxilio confidentium,  
+**437**. Nota super illo verbo ***nocte vastatus est murus***, quod nox habet obscuritatem,  
 
-et primo quantum ad oppressionem hominum;  
+et primo originalis maculae, Job III 3 *pereat dies in qua natus sum et nox in qua dictum est: conceptus est homo*;  
 
-secundo quantum ad desolationem civitatum: ***in die illa civitates***;  
+secundo actualis culpae, I Thess. V 7 *qui dormiunt nocte dormiunt*;  
 
-tertio quantum ad sterilitatem agrorum: ***propterea plantabis***.  
+tertio infidelis ignorantiae, Ro. XIII 12 *nox praecessit, dies autem appropinquavit*.  
 
-Circa primum duo facit:  
+**438**. Secundo nox habet horrorem:  
 
-primo comminatur poenam,  
+primo opprimentis desperationis, Job XXVII 20 *nocte opprimet eum tempestas*;  
 
-secundo ostendit poenae fructum: ***in die illa inclinabitur***.  
+secundo praesentis afflictionis, Prov. ult. *non extinguetur in nocte lucerna ejus*;  
 
-Comminatur autem poenam in hominibus,  
+tertio aeternae damnationis, Sap. XVII 2 *vinculis tenebrarum et longae noctis compediti perpetuae providentiae placuerunt*.  
 
-primo contra elationis gloriam: ***attenuabitur***, id est ad modicum et quasi ad nihilum redigetur ***gloria***, destructis his in quibus gloriabantur.  
+**439**. Tertio nox habet quietem contemplationis,  
 
-Secundo contra divitiarum opulentiam: ***et pinguedo***, id est divitiae quibus carnem deliciose nutriebant, supra X 16, 33 ***mittet dominator Dominus, confringet lagunculam in terrore***.  
+in qua primo est ferventis amoris desiderium, infra XXVII ***anima mea desideravit te in nocte***;  
 
-Tertio contra populi abundantiam comminatur hominum paucitatem, quam describit sub triplici metaphora, secundum quod in tribus abundantia Jacob benedictio fuit, Gen. XXVII 28 *abundantiam frumenti, vini et olei*.  
+secundo debitae confessionis sacrificium, Ps. *media nocte surgebam ad confitendum tibi*;  
 
-**464**. Quantum ad primum ponit paucitatem spicarum post messionem, quae vel congregantur ab ipso messore, et sic ***et erit*** paucitas reliquiarum decem tribuum, sicut quando aliquis est ***congregans in messe quod restiterit*** a prima messione, ***et brachium ejus*** de congregatis ***spicas leget***, id est colliget. Et iste congregans fuit Ezechias, qui convocavit reliquias decem tribuum, sicut legitur II Paral. XXXI. Vel etiam quae congregantur ab aliquo paupere, sicut dixit Ruth II 2 *vadam in agrum colligere spicas*; et quantum ad hoc dicit ***sicut quaerens spicas in valle Raphaim***, quaedam vallis fertilissima.  
+tertio divinae consolationis silentium, Sap. XVIII 14 *cum enim quietum silentium contineret omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus Domine exiliens de caelo a regalibus sedibus venit*.  
 
-**465**. Contra abundantiam vini ponit paucitatem uvarum post vindemiationem: ***et relinquetur***, Mich. VII 1 *vae mihi, quia factus sum sicut qui colligit in autumno racemos vindemiae*. Contra abundantiam olei ponit paucitatem olivarum post excussionem ***oleae***. Olea, ut dicit Papias, est fructus olivarum; sed hic, secundum expositionem Glossae, videtur poni pro ipsa arbore, in cuius cacumine remanent aliqui pauci fructus ad quos colligans non potuit attingere; de ista paucitate, Deut. XXVIII 62 *remanebitis pauci numero*.  
+**440**. ***Cor meum***. Hic ostendit magnitudinem poenae ex compassione hostium, quia ipse propheta condolebat: ***ad Moab***, id est pro afflictione Moab, Jer. XLVIII 31 *super te evigilabo*.  
 
-**466**. Nota super illo verbo ***et pinguedo carnis***, quod divitiae dicuntur pinguedo,  
+**441**. ***Vectes***. Hic describit poenae modum et ordinem; et ponit tria.  
 
-primo propter sterilitatem, Matth. XIII 22 *fallacia divitiarum*;  
+Primo terrae vastationem: ***vectes***, id est fortitudo vel termini, ***ejus***, Moab, deserti sunt ***usque ad Segor***, una de quinque urbibus destructis, Gen. X, quae erat in terris Moab, ***vitulam***, propter luxuriam, ***conternantem***, id est trium annorum, quando sunt animalia in suo robore et fortitudine; vel ***conternantem***, quia tertia concussione terraemotus corruit, recedente Loth, Jer. XLVI 20 *vitula elegans atque famosa Aegyptus*.  
 
-secundo propter ventositatem, I Tim. ult. *divitibus hujus saeculi praecipe non sublime sapere, nec sperare in vento divitiarum*;  
+Secundo hominum captivitatem: ***per ascensum enim Luith***, quidam clivus, vel quidam vicus unde ducebantur captivi, ***ascendet*** Moab captivus ductus. ***Et in via Oronaim***, cujusdam civitatis de Moab, per quam transibant, ***levabunt clamorem contritionis***, Nahum II 7 *miles captivus ductus est*.  
 
-tertio propter inutilitatem, Ez. XVI 49 *haec fuit iniquitas Sodomiae* etc., Eccl. V 12 *divitiae conservatae in malum domini sui*.  
+Tertio agrorum sterilitatem: ***aquae enim***, id est terra Moab ita erit sterilis sicut locus juxta oppidum ***Nemrim***, quod est juxta mare, propter aquas salsas et amaras; non quidem propter aquas, sed Dei judicio, ***herba*** jam nata ***aruit**; **germen***, quantum ad ea quae erant in pullulatione; ***viror***, arborum jam natarum, Ps. *posuit flumina in desertum*.  
 
-**467**. ***In die illa***. Hic ponit poenae fructum: ***inclinabitur***, exhibendo debitum servitutis cultum, ***homo***, de decem tribubus quicumque fuerit ad Ezechiam; ***respicient***, expectando aliquod auxilium; ***delubra***, templa in quibus erant fontes quasi ad abluendum, infra XXXI 7 ***in die illa*** etc.  
+**442**. ***Secundum magnitudinem***. Hic ponitur ratio magnitudinis poenae: ***operis***, peccati; ***visitatio***, ultio, Deut. XXV 2 *pro mensura peccati erit et plagarum modus*.  
 
-**468**. ***In die illa***. Hic comminatur desolationes civitatum,  
-
-et primo comminatur ipsam desolationem: ***sicut aratra***. Tangitur id quod habetur Iosuae VI et VII, quod ad adventum filiorum Israel Amorrhaei fugerunt, relinquentes omnia in agris, supra I 7 ***terra vestra deserta, civitates vestrae succensae igni***.  
-
-Secundo ponit desolationis rationem: ***et eris deserta***, Deut. XXXII 18 *Deum qui te genuit dereliquisti, et oblitus es Domini creatoris tui*.  
-
-**469**. ***Propterea plantabis***. Hic comminatur sterilitatem fructuum, et circa hoc tria facit.  
-
-Primo ostendit cultus inutilem laborem, quantum ad vineas: ***plantationem infidelem***, quia non reddet fructum secundum laborem; vel ***fidelem*** ironice, quasi dicat: an propter mala quae fecisti erit plantatio tua fidelis? Quantum ad agros: ***germen alienum***, quod alii colligent, supra V 10 ***decem jugera vinearum facient lagunculam unam***.  
-
-Secundo quantum ad fructus perditionem: ***in die plantationis tuae***, id est quando de plantatione fructum sumere debebas, et hoc quantum ad vineas; quantum ad agros: ***mane semen tuum florebit***, id est primo pulchrum erit, ut magis doleas, vel quia ante tempus florebit et inutile erit, Prov. XX 21 *hereditas ad quam festinatur in principio, in novissimo benedictione carebit. **Ablata est***, ab hostibus, ***in die hereditatis***, quando in horreo debuit recondi quasi fructus hereditatis, Jer. XII 13 *seminaverunt triticum, et messuerunt spinas*.  
-
-Tertio comminatur pro amissione dolorem: ***dolebit*** qui seminavit; vel ***dolebis*** tu.  
-
-**470**. ***Vae multitudini***. Hic comminatur Assyriorum destructionem, et circa hoc tria ponit.  
-
-Et primo describit exercitus multitudinem quantum ad strepitum incedentium: ***vae multitudini populorum*** venientium cum Senacherib; quantum ad tumultum colloquentium: ***tumultus***, qui est locutio confusa praecipue multorum; quantum ad clamorem pugnantium: ***sonabunt populi***, in pugna, supra VIII 7 ***ecce adducet Dominus super eos aquas fluminis fortes et multas***, Jer. VI 23 *vox ejus quasi mare sonabit*, Apoc. XVII 15 *aquae multae, populi multi*.  
-
-**471**. Secundo comminatur destructionem.  
-
-Circa quam primo ponitur ipsa destructio: ***et increpabit***, occidendo exercitum per angelum, ***et fugiet procul***, in terram suam cum paucis, ut supra X 18 habetur, Ps. *increpasti gentes*.  
-
-Secundo ponitur similitudo respondens conditioni, quia superbus erat: ***rapietur sicut pulvis***, Ps. *tamquam pulvis*, quae projicitur *a facie venti*; et respondens tempori: ***sicut turbo***, quia de nocte fuit percussus exercitus ejus, quem vocat tempestatem, cujus praeambulum in pulvere est turbo ex ventis qui sunt causa pluviae, IV Reg. XIX 35 *in nocte illa venit angelus et percussit exercitum*.  
-
-Tertio ponitur destructionis consummatio: ***et non subsistet***, quia ipsemet interfectus fuit, Ez. XXIV *nihil factus es*.  
-
-Quarto ponitur destructionis ratio: ***haec est pars eorum qui vastaverunt nos***, possessiones, ***et diripientium***, res mobiles, Ps. *ignis, sulphur, et spiritus procellarum pars calicis eorum*.  
-
-**472**. Nota super illo verbo ***et oculi ejus ad Sanctum Israel***, quod oculi debent inclinari ad Deum,  
-
-primo per fidei adhaesionem, infra XXX 20 ***oculi tui videbunt praeceptorem tuum***;  
-
-secundo propter spei expectationem, Ps. *oculi omnium in te sperant, Domine*;  
-
-tertio propter amoris contemplationem, Job XXXIX 29 *inde contemplabitur escam et de longe oculi ejus respiciunt*;  
-
-quarto propter gloriae fruitionem, Matth. XIII 16 *beati oculi*.  
-
-**473**. Nota super illo verbo ***plantatio infidelis***, quod est  
-
-primo avari, Eccl. V 9 *qui amat divitias fructum non capiet ex eis*;  
-
-secundo luxuriosi, Ro. VI 21 *quem fructum habuistis tunc in quibus nunc erubescitis?*;  
-
-tertio superbi, Sap. V 8 *quid nobis profuit superbia nostra?*
+**443**. ***Ad torrentem***. Hic comminatur destructionem per Babylonios. In qua quidam fuerunt captivati, et quantum ad hoc dicit: Chaldaei ***ducent eum***, Moab, ***ad torrentem***, Euphratem juxta Babyloniam, ***salicum***, qui juxta fluvium crescunt, Ps. *super flumina Babylonis illic sedimus et flevimus*. Quidam fuerunt interfecti, et quantum ad hoc dicit: ***quoniam circuit clamor***, flentium, vel pugnantium Chaldaeorum, ***quia aquae Dibon***, nomen civitatis, in quibus propter amoenitatem locorum suas luxurias exercebant, IV Reg. III *incurrerunt Moabitae aquas Dibon*. Quidam residui fuerunt, diversis persecutionibus afflicti: ***ponam, Dibon***, ad quam Judaei confugerant, haec ***additamenta*** poenarum, ***his qui fugerint de Moab***, ab Assyriis; ***et reliquiis terrae***, quos dimiserunt Assyrii; ***leonem***, ad litteram bestias eos interficientes, vel hostem saevientem, scilicet Chaldaeum, supra IX 12 ***in omnibus his non est aversus furor meus***.

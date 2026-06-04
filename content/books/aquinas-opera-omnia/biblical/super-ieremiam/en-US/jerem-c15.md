@@ -1,183 +1,159 @@
-# C. 15 - Jeremiah’s prayer continued
+# C. 13 - Allegory of the girdle
 
 ***Lecture 1***
 
-***God rejects Jeremiah’s prayer***
+***Jeremiah’s girdle***
 
-***^15:1^ And the Lord said to me: even if Moses and Samuel stood before me, my soul would not be for this people. Drive them out from before my face, and let them depart.***
+***^13:1^ Thus says the Lord to me: go and acquire for yourself a linen girdle, and put it upon your loins, and you shall not put it in water.***
 
-> ^15:2^ But if they should say to you, ‘Where shall we go?’ you shall say to them: thus says the Lord: those who are for death, to death, and those who are for the sword, to the sword, and those who are for famine, to famine, and those who are for captivity, to captivity.
+> ^13:2^ And I acquired a girdle according to the word of the Lord, and I put it upon my loins.
 
-> ^15:3^ And I will visit upon them four kinds, says the Lord: the sword to slay, and dogs to tear, and the birds of heaven and the beasts of the earth to devour and destroy.
+> ^13:3^ And the word of the Lord came to me a second time, saying:
 
-> ^15:4^ And I shall give them in burning anger to all the kingdoms of the earth, because of Manasseh, the son of Hezekiah, the king of Judah, and because of all that he did in Jerusalem.
+> ^13:4^ take the girdle which you have acquired, which is around your loins, and rising, go to the Euphrates and hide it there in the cleft of the rock.
 
-> **92**. Here is given the final and decisive rejection of the prophet’s prayer for the people.
+> ^13:5^ And I went and hid it in the Euphrates, as the Lord had commanded me.
 
-First, the rejection of the prayer is set forth;  
+> ^13:6^ And it happened after many days that the Lord said to me: arise, go to the Euphrates, and take from there the girdle, which I commanded you to hide there.
 
-second is shown the stubbornness of the people, which is the cause of this: ***the sin of Judah is written with an iron pen, and a nail of diamond*** (Jer 17:1).  
+> ^13:7^ And I went to the Euphrates, and I dug and took the girdle from the place where I had hidden it; and behold, the girdle was corrupted, such that it was fit for no purpose.
 
-Concerning the first, there are two points.  
+> **86**. Here, he shows the dignity of the people from their connection to God.
 
-First, he forbids the prophet to pray for the people;  
+And it is divided into two parts.  
 
-second, he commands that he shun their society as one who excommunicates: ***and the word of the Lord came to me, saying*** (Jer 16:1).  
+In the first, he gives an analogy;  
 
-Concerning the first, there are two points.  
-
-First is given the rejection of the prayer of the prophet praying for the people;  
-
-second, as though despairing of the wellbeing of the people, he pours forth a prayer for himself, at ***woe to me, O my mother!*** (Jer 15:10).  
-
-Concerning the first, there are two points.  
-
-First, the prayer is rejected;  
-
-and second, the reason for its rejection is given: ***who shall have mercy upon you, Jerusalem?*** (Jer 15:5).  
-
-Concerning the first, there are two points.  
-
-First, the rejection of the prayer is considered: ***even if Moses and Samuel stood***—who were efficacious in prayer, because they were solicitous for the people and prayed for their enemies. Regarding Moses, this is mentioned in Exodus 22; and regarding Samuel, in 1 Samuel 12.  
-
-***My soul***, the affections; it is as though he were saying, “It is not for any failure on the part of the one praying that the prayer is not heard, but because of the failings of the people for whom prayer is made.” *And if these three men, Noah, Daniel, and Job, shall be in their midst, they shall deliver their own souls by their justice* (Ezek 14:14). As it says below in the same place: *even if these three men shall be in their midst, they shall deliver neither sons nor daughters, but they themselves alone shall be delivered* (Ezek 14:18).  
-
-Second, the rejection of the nation, for which he was praying, is considered:  
-
-and first, with regard to the end from which the rejection begins: ***drive them out***, show that they have been cast out, ***from before my face***, that they may not see me, and be defended by my presence. *Behold, you drive me out this day from the face of the earth, and I shall be hidden from your face* (Gen 4:14).  
-
-Second, with regard to the end to which the rejection is directed, he gives the fourfold danger: ***but if they should say to you, ‘Where shall we go?’ you shall say to them . . . those who are for death, to death***, by pestilence; it is as though he were saying, “These diverse persons shall be subject to these sundry punishments.” *A third part of you shall die by plague, and be consumed by famine in the midst of you, and a third part of you shall fall by the sword around you, and a third part I shall scatter to every wind, and I shall draw my sword after them* (Ezek 5:12).  
-
-And he excludes the remedy of consolation—of burial for the dead: ***and I will visit upon them four kinds***, already mentioned, namely death, sword, famine, and captivity. And I will add ***dogs*** in addition to this. ***And the dead of this people shall be as food for the birds of the air and the beasts of the earth, and there shall be none to drive them away*** (Jer 7:33).  
-
-And of mercy with regard to the captives: ***and I shall give them in burning anger***, that is, in the burning anger of hatred, ***because of Manasseh***, who did many evil things (2 Kgs 21:2–9). Whence in the same place it says: *nevertheless, the Lord has not turned from the wrath of his great anger, by which his wrath was stirred up against Judah, because of the offences by which Manasseh provoked him* (2 Kgs 23:26). But the people are punished for the sins of the king, because at that time an evil man was permitted to rule because of the sins of the people. *Who made a hypocrite to rule because of the sins of the people* (Job 34:30), further, because the people imitated the sins of the king. *As is the ruler of a city, so are they who dwell in it* (Wis 10:2). *The prince who willingly hears the words of a deceitful man has all his ministers wicked* (Prov 29:12).  
-
-Lecture 2  
-
-***Cause of Israel’s rejection***
-
-***^15:5^ Who shall have mercy upon you, Jerusalem, or who shall grieve for you, or who shall go to seek your peace?***
-
-> ^15:6^ You have left me, says the Lord; you have gone away backwards; and I shall stretch out my hand upon you, and I will slay you. I am weary of entreating you.
-
-> ^15:7^ And I shall scatter them with a winnowing-fork in the gates of the land. I have slain and I have destroyed my people, yet they have not turned back from their ways.
-
-> ^15:8^ Their widows are multiplied to me more than the sand of the sea; I have brought upon them against the mother of the young man a spoiler at midday; I have sent fear upon their cities suddenly.
-
-> ^15:9^ The one who bore seven sons is made weak; her soul fails; the sun has set upon her when it was still day; she is put to shame, and has blushed. And those who remain of them I will give to the sword in the sight of their enemies, says the Lord.
-
-> **93**. Here, he gives the reason for their rejection.
-
-First, a question of wonderment is set forth: and first, the mercy of the judge is excluded: ***who shall have mercy upon you?*** Second, the satisfaction of some compassionate person: ***or who shall grieve for you?*** Third, the prayer of some mediator: ***or who shall go to seek your peace?***, which God has withheld, because you continue in so many sins. *Call his name ‘Without Mercy’ because I shall not continue to have mercy on the house of Israel, but I shall forget them utterly* (Hos 1:6).  
-
-Second, he gives the reason for their rejection:  
-
-and first, from their ingratitude, he speaks of their guilt: ***you have left me***. *They have abandoned the Lord, they have blasphemed the Holy One of Israel, they have turned away backwards* (Isa 1:4). And the punishment: ***and I shall stretch out my hand upon you***. *For all these things his anger is turned not back; but his hand is yet outstretched* (Isa 9:12).  
-
-Second, from their stubbornness:  
-
-first, because they have not been turned back by his entreaties, he speaks of their guilt: ***I am weary of entreating you***; it is as though he were saying, “I have implored you so often to turn back”; or, “I would have labored, if it had been possible.” *You have made me to serve in your sins; you have wearied me with your iniquities* (Isa 43:23).  
-
-And the punishment: ***and I shall scatter them with a winnowing-fork***, by the army of the Chaldeans, as straw from the threshing floor, ***in the gates of the land***, that is, to the ends of the earth: for a gate is the outermost part of a house or city. *Whose winnowing-fork is in his hand, and he shall cleanse his threshing floor, and gather his wheat and his barley into his barn, but the straw shall he burn with unquenchable flame* (Luke 3:17).  
-
-Second, because they are not corrected by chastisements:  
-
-first, he speaks of their hardness, and of their chastisement in general: ***I have slain, and I have destroyed***, by leading them captive. ***In vain have I struck your children; they have not received correction*** (Jer 2:30).  
-
-And in particular, with regard to the women, who are more wretched and doleful at the loss of their husbands: ***their widows are multiplied to me more than the sand of the sea***, hyperbolically—it is as though he were saying, “They were innumerable.” *Upon her orphans, and her widows he shall not have mercy* (Isa 9:17). And at the loss of an only-begotten son: ***I have brought upon them a spoiler***, a slayer of the son, ***at midday***, in which one sees the power of the enemies, who do not fight from ambuscades, but openly; ***suddenly***, from which is shown their powerlessness to resist, because they have not taken heed. *Her destruction shall come suddenly, when it is not expected* (Isa 30:13).  
-
-And also with regard to the death of many sons at the same time, he speaks of the death of a child: ***is made weak***, deprived of her sons, who are the strength of a mother. *Until the barren mother bears many sons, and she who has many is made weak* (1 Sam 2:5). And the sadness of the mother: ***her soul fails***, because of the shock. ***The sun***, of joy, ***has set upon her***, because of the grief of her sorrow, which darkens the heart; ***she is put to shame***, within; ***she has blushed***, without, lacking that in which she once gloried. *The sun will set at midday, and I shall make the land to grow dark in the day of light* (Amos 8:9).  
-
-Second, he threatens punishment: ***and those who remain***, after the above-mentioned chastisements. *The Lord shall make you to fall before your enemies, and you shall go out one way against them, and flee seven ways from them, and you shall be scattered through all the kingdoms of the earth* (Deut 28:25).  
-
-Lecture 3  
-
-***Jeremiah prays for himself***
-
-***^15:10^ Woe to me, O my mother! Why did you give birth to me, a man of contention, a man of discord in the whole land? I have not lent on usury, nor has anyone lent to me on usury; all curse me.***
-
-> ^15:11^ The Lord says: it shall surely be well with your remnant, and I shall surely help you in the time of affliction, and in the time of trouble against the enemy.
-
-> ^15:12^ Shall iron be allied with the iron of the north, and with bronze?
-
-> ^15:13^ I shall give your riches and your treasures freely for spoil for all your sins and in all your borders.
-
-> ^15:14^ And I will bring your enemies from a land you know not, for a fire is kindled in my wrath; and it shall burn upon you.
-
-> **94**. Here, the prophet prays for himself, as though despairing of the people.
-
-First, he gives his own lament, and then sets forth the discord of the enemy: ***woe to me***, that is, this hangs over me because I was born. ***Of contention***, that is, because of whom there is contention, because I foretell unfavorable and evil things; ***of discord***, because some attack me, and others defend me. This was also fulfilled in Christ. *Why have you brought me forth from the womb? If only I had perished, that no eye might see me* (Job 10:18). He excludes the cause of the discord, which most often is wont to arise from contracts. ***I have not lent on usury***. ***All curse***. *They curse him, and you bless. Let those who rise against me be put to shame, but your servant shall rejoice* (Ps 108:28).  
-
-Second, he speaks of the consolation of the Lord: ***the Lord says***.  
-
-First, with regard to his own safety in the advancement of himself and his relatives in goods: ***with your remnant***, that is, with those who cleave to you—for he did not have any children, as is shown below (Jer 16:2); ***it shall surely be well***, that is, they will be well. This is aposiopesis,The figure of speech in which a sentence is deliberately and suddenly broken off. so one must supply: “I am not believed.” And with regard to deliverance from evils: ***I shall surely help***—I am prepared to help. *Blessed be the God, and Father of our Lord Jesus Christ, the father of mercies, and the God of all consolation, who consoles us in all our tribulation* (2 Cor 1:3–4).  
-
-Second, with regard to the affliction of the enemy, he threatens an implacable enemy.  
-
-First, he excludes a concord with the enemy, because they wished to unite with the prophet: ***shall***, the people of Judah, who are the ***iron***, because of their hardness, ***and bronze***, because of want of endurance, ***be allied with the iron of the north***, that is, with the Chaldeans? It is as though he were saying, “No.” ***Bronze and iron, all have been corrupted. The bellows have failed; the lead is consumed in fire*** (Jer 6:28–29). Alternatively, you are the iron, preaching hard things to them, who are iron and bronze, and you cannot be allied with them. *Do not wonder if the world hates you; know that they hated me before you* (John 15:18).  
-
-Second, he excludes confidence in an alliance, whether by gifts: ***I shall give your riches and your treasures freely for spoil***; it is as though he were saying, “Nothing shall help you,” ***in all***, that is, for all. *Take the silver, take the gold, and there is no end of riches from every goodly vessel* (Nah 2:9).  
-
-Or whether by entreaty: ***and I will bring***; it is as though he were saying, “You shall not be able to ask them, because they will not understand.” *He will raise a signal to the distant nations, and whistle to him from the ends of the earth* (Isa 5:26).  
-
-Third, he gives the reason: ***for a fire is kindled***. *A fire is kindled in my wrath, and it shall burn to the very depths of hell, and devour the earth with its bud, and burn the foundations of the mountains* (Deut 32:22).  
-
-Lecture 4  
-
-***Jeremiah’s petition***
-
-***^15:15^ You know, O Lord; remember me, and visit me, and defend me from those that persecute me. Do not take me away in your forbearance; know that I have borne reproach for your sake.***
-
-> ^15:16^ Your words were found, and I ate them; and your word has become the joy and gladness of my heart, for your name is called upon me, O Lord God of hosts.
-
-> ^15:17^ I have not sat in the council of jesters, and I have gloried because of the presence of your hand; I sat alone, for you have filled me with threats.
-
-> ^15:18^ Why has my sorrow become continual, and why has my incurable wound refused to be healed? It has become to me as the falsehood of treacherous waters.
-
-> **95**. Here the petition of the prophet is given:
-
-first, his own prayer;  
-
-second, the response of the Lord, at ***because of this the Lord spoke these things*** (Jer 15:19).  
+in the second, the application of the analogy, at ***and the word of the Lord came to me*** (Jer 13:8).  
 
 Concerning the first point, there are three things.  
 
-First, he sets down the comfort of divine consolation: ***you know***, what I suffer and what I have done. ***Remember***, by the effect of mercy. *Remember my poverty and my transgression, wormwood and bile* (Lam 3:19). He seeks comfort: ***and visit me***, with consolation. *Your consolation has kept my spirit* (Job 10:12). He excludes deferral: ***do not take me away in your forbearance***. *For the most high repays with patience* (Wis 5:4).  
+First, the reception of the people into divine familiarity is signified when he speaks of the Lord’s command: ***go***—more exactly, go to the place where such things are sold—because God himself had first come to the people. *Not as though we had loved God, but because he first loved us* (1 John 4:10).  
 
-Second, he mentions his merit, setting forth the reproach which he has endured patiently for God, and he speaks of the injustice done him: ***know***, show that you know by effect; ***for your sake***, while I obeyed your commands and announced hard things to the people. *For your sake I have borne reproach, shame has covered my face* (Ps 68:8).  
+***Acquire***, from me, so that you may possess it with proper right, as a proprietor his inheritance. *Moreover, my inheritance is Israel* (Isa 19:25). ***For yourself***, for your own use, as the people for the glory of God. *I have formed this people for myself; they will tell forth my praise* (Isa 43:21). ***A girdle***, which cleaves to the loins, in which resides the concupiscence of love; in like manner the people are received into the divine love. *With the cords of Adam I will draw them, with the cords of love* (Hos 11:4). ***Linen***, which is taken from the earth unwrought and beautified by human labor; in like manner, the people are beautified by divine labor.*Cultu divino* could mean either “by God’s labor” or “by man’s service to God.” *But passing by you, I saw you trampled in your own blood* (Ezek 16:6).  
 
-And of his experience of spiritual joy: ***your words were found***, finished, as it were, ***and I ate***, delighted in them. *How sweet are your words to my throat; they are sweeter than honey to my mouth* (Ps 118:03). He also gives the reason: ***for your name is called upon me***, when I am called a prophet of the Lord. ***Your name is called upon us*** (Jer 14:9).  
+***And you shall not put it in water***. *Gird your loins like a man; I will inquire of you, answer me. Where were you when I laid the foundations of the earth?* (Job 38:3).  
 
-He also sets forth the society which he prudently avoided, mentioning his solitude: ***I have not sat in the council of jesters***, much less of the wicked, lest I should lay aside my heaviness of heart and be free of your commands. *I have never associated myself with jesters, nor made myself a companion of those who walk in levity* (Tob 3:17). He speaks of his interior exaltation: ***and I have gloried because of the presence of your*** correcting ***hand***. *Gladly will I glory in my infirmities* (2 Cor 12:9). Alternatively, the hand of him who consoles with spiritual gifts. He also gives the reason for his solitude: ***I sat alone, for you have filled me with threats***; it is as though he were saying, “I have been weighed down by so many bitter things, that I have had no time to play.” *He has filled me with bitterness* (Lam 3:15).  
+And because divine things are mystically expressed through the deeds of the prophet, and not only through his words—for this reason, it is said, *I have been represented in the hands of the prophets* (Hos 12:10)—he gives further the fulfillment of the command: ***I acquired***, by which is noted the prophet’s obedience. *Noah was a just man, and perfect in his generations; he walked with God* (Gen 6:9).  
 
-Third, he wonders at the sting of the pain inflicted, and speaks of the pain: ***why has my sorrow become continual?*** It is as though he were saying, “How is it that this trouble has not receded after such prayers and so many merits?” Below: ***your breach is incurable, your wound very grievous*** (Jer 30:12). According to the Jews, he speaks in the person of Jerusalem. He adjoins the consolation: ***it has become to me as the falsehood of treacherous waters***; it is as though he were saying, “Nevertheless, in this I will be consoled, because distress of this kind will pass swiftly, as treacherous waters which are gathered together from the rains.” *The waters have entered unto my soul* (Ps 68:1). Alternatively, he says this because of the fraud of his adversaries.  
+Second, the rejection of the people is signified: ***and the word of the Lord came to me a second time, saying***:  
 
-Lecture 5  
+***take***—from yourself; in the same manner I will cast the people away from me: ***go to the Euphrates***—by which is signified the power of the Assyrians and Chaldeans, through whom the people were led captive. *The Lord will bring upon them the waters of the river, many and mighty, the king of the Assyrians, and all his glory. And it will rise above all its channels, and overflow all its banks, and will go as a flood through Judah, and passing by, it shall come to the neck* (Isa 8:7–8). ***Hide***—like the people, hidden by the waters, as it were: ***he swallowed me; like a dragon he filled his belly with my tender meats, and he has cast me out*** (Jer 51:34)—***in the cleft***, lest it flow away with the water, by which is signified that there would be a future remnant of the people, and that they would not entirely perish. ***But I will not make an end*** (Jer 4:27).  
 
-***God’s promise to Jeremiah***
+Third, the restoration of the people is signified:  
 
-***^5:19^ Because of this the Lord spoke these things: if you will turn, I will turn you, and you will stand before my face; and if you will separate what is precious from what is base, you shall be as my mouth, and they shall be turned to you, and you shall not be turned to them.***
+when the restoration itself is first signified—***and it happened after many days***—to signify that they will be many years in captivity. ***When seventy years shall be fulfilled in Babylon, I shall visit you, and stir up my good word upon you, and lead you back to this place*** (Jer 29:10). ***Take from there***—in just this manner I will bring the people back. *I shall certainly take you from among the nations, and I will gather you from every land, and lead you to your land* (Ezek 36:24).  
 
-> ^5:20^ And I shall make you as a strong brazen wall before this people; and they shall wage war against you, and they shall not prevail, because I am with you to save you, and I will rescue you, says the Lord.
+Second is signified the character of the people: ***and behold, the girdle was corrupted***—in the same way, the power and beauty of the people had been consumed. *Shall it be useful for any work? Even when it was whole it was not fit for work, how much more when fire has consumed it, and burned it. Shall any work be done with it?* (Ezek 15:5).  
 
-> ^5:21^ And I will free you from the hand of wicked men, and I will redeem you from the hand of the mighty.
+Lecture 2  
 
-> **96**. Here is set down the response of the Lord who heard him.
+***The allegory’s application***
 
-First, he promises advancement in beatitude, with regard to uprightness of life: ***if you will turn***, others to me from their sins, ***I will turn you***, from your difficulties; ***you will stand***, by your uprightness of life, or pre-eminence in contemplation. *As the Lord lives, in whose sight I stand* (1 Kgs 17:1). *He who makes the sinner to turn from the error of his way will free his soul from death, and will cover a multitude of sins* (Jas 5:20). And with regard to the authority of his prediction: ***and if you will separate what is precious from what is base***, by distinguishing good works from bad; ***my mouth***, because I will speak through you. *For it is not you who speak, but the Spirit of your Father who speaks in you* (Matt 10:20).  
+***^13:8^ And the word of the Lord came to me, saying:***
 
-Second, with regard to deliverance from evil:  
+> ^13:9^ thus says the Lord: thus shall I make the pride of Judah to rot, and the great pride of Jerusalem.
 
-first, from the evils of guilt: ***they shall be turned to you***; it is as though he were saying, “They will imitate you, and not you them.” *I beseech you, be imitators of me, as I am of Christ* (1 Cor 4:16).  
+> ^13:10^ This wicked people, who refuse to hear my words, and walk in the depravityHeb. שְׁרִירוּת: *stubbornness*. of their own hearts, and have gone after strange gods, that they might serve them and worship them: and they shall be like this girdle, which is fit for no purpose.
 
-Second, from the evils of punishment:  
+> ^13:11^ For as a girdle cleaves to the loins of a man, so have I closely fitted the whole house of Israel and the whole house of Judah to myself, says the Lord, that they should be to me a people, in name, and praise and glory; but they did not hear.
 
-first, he promises fortitude: ***and I shall make you as a strong brazen wall before this people***. Above: ***I have surely set you today as a fortified city, and as an iron pillar, and as a brazen wall over all the land, for the kings of Judah and her princes, for her priests and for the people of the land. And they shall wage war with you, but will not prevail, for I am with you says the Lord*** (Jer 1:18–19).  
+> ^13:12^ You shall speak, therefore, this word to them: thus says the Lord God of Israel: every small jar shall be filled with wine. And they will say to you, ‘Do we not know that every small jar shall be filled with wine?’
 
-Second, he promises protection: ***and they shall wage war***. *For if I should walk in the midst of the shadow of death, I will not fear evil things, because you are with me* (Ps 23:4).  
+> ^13:13^ And you shall say to them: thus says the Lord: behold, I shall fill all the inhabitants of this land, and the kings from the line of David, who sit upon his throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness.
 
-Third, he promises liberation: ***and I will free***. *Do not fear, for I have redeemed you; I have called you by your name* (Isa 43:1).  
+> ^13:14^ And I will scatter them, a man from his brother, both fathers and sons alike, says the Lord.Heb. וְנִפַּצְתִּים֩ אִ֨ישׁ אֶל־אָחִ֜יו וְהָאָבֹ֧ות וְהַבָּנִ֛ים יַחְדָּ֖ו נְאֻם־יְהוָ֑ה: *and I will dash a man against his brother, and the fathers and their sons together, says the Lord*. I shall not spare, and I will not yield, nor will I have mercy, that I should not scatter them.Heb. מֵהַשְׁחִיתָֽם: *destroy them*.
+
+> ^13:15^ Hear, and perceive with your ears; do not be lifted up, for the Lord has spoken.
+
+> ^13:16^ Give glory to the Lord our God before it grows dark,Heb. בְּטֶ֣רֶם יַחְשִׁ֔ךְ: *before he brings darkness*. and before you strike your feet against the dark mountains; you shall await the light, and he shall turn it into the shadow of death and into darkness.
+
+> ^13:17^ But if you will not hear this, your soul shall weep in secret for your pride. Weeping, it shall surely weep, and my eye shall stream tears, for the flock of the Lord has been taken captive.
+
+> ^13:18^ Say to the king and to the queen:Heb. וְלַגְּבִירָ֖ה: *and to the queen mother*. humble yourselves; sit on the earth, for the crown of your glory has come down from your head.
+
+> ^13:19^ The cities of the south are shut up, and there is none who may open them. All Judah is taken away captive, with an entire captivity.
+
+> ^13:20^ Lift your eyes and see, you who comeHeb. הַבָּאִ֖ים: *those who come*. from the north: where is the flock that was given to you, your beautiful cattle?
+
+> ^13:21^ What will you say when he visits you? For you have taught them against yourself, and instructed them against your own head. Will pain not take hold of you, as a woman in labor?
+
+> ^13:22^ And if you say in your heart, ‘Why have these things come to me?’ For the multitude of your iniquities has your nakedness been revealed, and the soles of your feet are defiled.
+
+> ^13:23^ Can the Ethiopian change his skin, or the leopard his spots, and will you be able to do well when you have learned evil?
+
+> ^13:24^ And I will scatter them like chaff which is caught by the wind in the desert.
+
+> ^13:25^ This is your lot, your portion and measure from me, says the Lord, because you have forgotten me, and have trusted in a lie.
+
+> ^13:26^ Therefore, I have also bared your leg against your face, and your shame has become apparent.
+
+> ^13:27^ Your adultery, and your neighing, the wickedness of your fornication; I saw your abominations upon the hills of the field. Woe to you, Jerusalem! Will you not be made clean after me; how long yet?Heb. לֹא תִטְהֲרִי אַחֲרֵי מָתַי עֹד. Jerome construed *acharei*, “after,” as *acharai*, “after me.”
+
+> **87**. Here, he gives the application of the allegory, and concerning this, he makes two points.
+
+First, he applies the allegory to the punishment: ***thus shall I make to rot***, that all their vigor and beauty should pass away. *The beasts shall rot in their own dung* (Joel 1:17).  
+
+And with regard to the cause of the punishment: disobedience—***this wicked people***. *The Lord said to Moses: speak to the sons of Israel: you are a stiff-necked people* (Exod 33:5). ***And they shall be like this girdle***. *He shall be broken small, as a clay jar is broken with a mighty destruction* (Isa 30:14).  
+
+And with regard to the grace of divine familiarity: ***for as a girdle cleaves to the loins of a man, so have I closely fitted the whole house of Israel . . . to myself***. *Behold, the heavens belong to the Lord your God, and the heaven of heavens, the earth, and all that is in it; yet he was closely joined to your fathers, and loved them, and has chosen their seed after them; that is you, from among all the nations, as has been proven this day* (Deut 10:14–15).  
+
+Second, he attends particularly to the order of the punishment: ***you shall speak, therefore***. And concerning this are two things.  
+
+First, he shows the imminent danger, and he gives an example: ***every small jar***, that is, any one of the people, ***shall be filled with wine***, of tribulation. *You shall thresh the mountains and break them small, and take them up like dust* (Isa 41:15). He shows their contempt for the example: ***and they will say***. *For who does not know the things which you know* (Job 12:3).  
+
+And he gives an explanation thereof: ***and you shall say to them***.  
+
+With regard to the blindness of their heart: ***drunkenness***, as not knowing what they are doing. *Waver to and fro, and stagger, be drunk, and not from wine* (Isa 29:9).  
+
+And with regard to the captivity: ***and I will scatter them***, lest they be consoled by one another. *Consolation is hidden from my eyes, because he shall make a separation between brothers* (Hos 13:14–15).  
+
+With regard to the severity of the sentence: ***I shall not spare, and I will not yield***, to moving them, as it were, because they are stubborn; alternatively, to proving them incontestably guilty, because they are manifestly wicked. *The jealousy, and fury of a husband will not spare in the day of vengeance, nor will he yield to the prayers of any man, nor accept very many gifts for satisfaction* (Prov 6:34–35).  
+
+Second, he gives them useful counsel for escaping, namely, that they should humble themselves: ***hear***.  
+
+First, he speaks to the whole people when he advises them to avoid the fault of pride: ***do not be lifted up***, by pride. ***The Lord has spoken***, this counsel or the punishments which I have predicted: *do not raise your horn on high, or speak wickedness against God* (Ps 74:5) and against the commandment of God, because these things are the beginnings of all sin.  
+
+***Give glory to the Lord our God***. *Ascribe greatness to our God. The works of God are perfect, and all his ways judgment* (Deut 32:3–4). Taking up once more the imminent danger of blindness of the heart, ***before it grows dark***, that is, before tribulations overtake you, in which you will not know what to do. *Walk while you have the light, that the darkness may not overtake you* (John 12:35). Of the captivity: ***before you strike***, while being led into captivity, ***against the dark mountains***, of Babylon, so called because of their height, or from the lack of visibility, or from the multitude of vapors.This is likely a reference to the Zagros mountains located to the east of Babylon. *Raise the standard upon the dark mountain, shout* (Isa 13:2). And of the severity of the sentence: ***you shall await the light***, that is, divine consolation, and you will not have it. ***We waited for peace, and there was no good; a time of healing, and behold, fear*** (Jer 8:15).  
+
+And when he marks out the punishment for their contempt of this counsel, he speaks of the prophet’s compassion: ***but if you will not hear this, your soul shall weep in secret*** so that the victors may not be offended. *Withdraw from me, I will weep bitterly. Do not try to comfort me for the destruction of the daughter of my people* (Isa 22:4). *Do not lament, or weep, but languish in your iniquities* (Ezek 24:23). And the reason for his compassion: ***weeping, it shall surely weep, and my eye shall stream tears, for the flock of the Lord has been taken captive***. Below: ***my people have been a lost flock; their shepherds led them astray, and have made them wander in the mountains*** (Jer 50:6).  
+
+Second, he gives the same counsel to the king, inviting him to humility: ***say to the king***, Jekoniah, ***and to the queen***, his mother—because he gave himself over to Nebuchadnezzar with his mother (2 Kgs 24:12–15)—***sit on the earth***, as a sign of humility. *Come down, sit in the dust, O virgin daughter of Babylon, sit on the ground* (Isa 47:1). And he gives the reason from the loss of the kingdom: ***for the crown . . . has come down from your head***. *The crown has fallen from our head* (Lam 5:16).  
+
+As a result of the siege of the cities: ***the cities of the south***, because the lot of Judah was towards the south (Josh 15:1–12), ***who may open***, breaking the siege, namely, the Egyptian siege. And, as a consequence of the captivity of the people, ***is taken away***. *Judah has gone away because of her affliction, and the greatness of her bondage; she has dwelt among the nations, but has found no rest* (Lam 1:3).  
+
+Third, he gives the same counsel to the royal city:  
+
+first, he urges them to humility;  
+
+second, he wonders at their stubbornness, at ***woe to you, Jerusalem*** (Jer 13:27).  
+
+He urges them to humility for four reasons.  
+
+First, the power of the enemy, when he sets forth the power of the enemy: ***lift***, by way of consideration; ***you who come from the north***, against the strong. ***Behold, a people are coming from the land of the north, and a great nation shall arise from the ends of the earth*** (Jer 6:22). And he excludes confidence in their subjects: ***where is the flock***, the multitude of people who were subject to you? It is as though he were saying, “The royal and priestly city will not be able to help you.” *Behold, I, even I am against the shepherds. I will require my flock from their hand, and I will make them to cease, that they may no longer pasture my flock, nor will the shepherds pasture themselves; and I will free my flock from their mouth, and they will be prey for them no more* (Ezek 34:10).  
+
+And when he gives the reason why it is being delivered into the hands of the enemy, he takes away their excuse: ***what will you say*** to excuse yourself? *If he wished to contend with him, he would not be able to answer him* (Job 9:3). And he gives the reason: ***for you have taught***—while calling them to come to your aid, you made them know your works. ***Moreover you have taught malice to be your ways*** (Jer 2:33). Alternatively, he touches on Hezekiah’s showing of the treasury to the messengers of the king of Babylon (Isa 39:2).  
+
+Second, by the infliction of pain, he threatens pain: ***will pain not take hold of you?*** Above: ***for I heard the voice as of a woman giving birth, the pains as of a woman in labor*** (Jer 4:31).  
+
+He gives the reason as arising from the multitude of their sins: ***and if you say in your heart, ‘Why have these things come to me?’*** as a punishment. ***Your nakedness***,*Verecundiora*, a euphemism for genitalia. the most shameful sins; ***the soles***, the affections. *Because of your great wickedness, and your endless iniquities* (Job 22:5). Alternatively, he is here speaking of the fact that they were led into captivity on foot, and that while crossing rivers they had to uncover their shameful members, and bare feet; and, therefore, their soles were soiled with mud and dust. *Uncover your shame, bare your shoulders, unveil your legs, cross the rivers, and your ignominy will be revealed, and your shame seen* (Isa 47:2).  
+
+And from the stubbornness of their sins: ***can the Ethiopian change***; it is as though he were saying, “You are able to change with difficulty”; ***the Ethiopian***, because of the natural staining of sin; ***the leopard***, because of their deceitfulness, or the diversity of their sins; ***when you have learned***, by use. *It is a proverb: a young man according to his way, and when he is old, he will not depart from it* (Prov 22:6).Heb. חֲנֹ֣ךְ לַ֭נַּעַר עַל־פִּ֣י דַרְכֹּ֑ו גַּ֥ם כִּֽי־יַ֝זְקִ֗ין לֹֽא־יָס֥וּר מִמֶּֽנָּה: *train up a child in the way he should go, and when he is old he will not depart from it*.  
+
+Third, he urges them to humility by reason of the future captivity, when he threatens the dispersion of captivity: ***and I will scatter***. *My God, make them like a wheel, and like chaff before the face of the wind* (Ps 82:13). *Scatter them in your strength* (Ps 58:11).  
+
+And he gives the reason: ***this is your lot***—what is due to you because of your sins—***in a lie***. *In measure for measure when she has been cast down, he will judge her* (Isa 27:8).  
+
+Fourth, by reason of the revelation of their sins.  
+
+First, he speaks of the threat: ***I also have bared***, the shame of your sins, ***against your face***, that you might recognize yourself. ***And your shame has become apparent***, even to others. *I will bare your ignominy before them, and they will see all your shame* (Ezek 16:37).  
+
+And then he gives the cause: ***I saw your abominations upon the hills of the field***; it is as though he were saying, “Because you have publicly sinned, you will be publicly punished.” ***On every high hill, and under every leafy tree you have lain as a harlot*** (Jer 2:20).  
+
+Finally, he wonders at their obstinacy: ***woe to you***. ***How long yet after me***, are you coming, or do you boast that you walk after me? *Sons of men, how long will your hearts be heavy, why do you love vanity, and you seek after a lie?* (Ps 4:2).  
 
 Collations  
 
-***It is to be noted that the saints ***glory*** (Jer 15:17) in the good of virtue. In the suffering of tribulations: *not only so, however, but we also glory in tribulations* (Rom 5:3); in the fellowship of their neighbors: *I have much confidence in you, and much of which to glory because of you* (2 Cor 7:4); in the purity of their conscience: *for our glory is this, the witness of our conscience* (2 Cor 1:12). The saints also glory in God, in the divine love shown by the passion: *may I not glory but in the cross of our Lord Jesus Christ* (Gal 6:14); in divine knowledge: ***let him who glories, glory in this, that he understands, and knows me*** (Jer 9:24); in divine imitation: *it is a great glory to follow the Lord; for length of days will be received from him* (Sir 23:38).***
+***Note that mystically sometimes ***wine*** (Jer 13:12) is good, and sometimes bad. For there is the good wine of the wisdom of contemplation: *drink the wine which I have mixed for you* (Prov 9:5). Of divine love: *I will give you a drink of spiced wine, and the juice of my pomegranates* (Song 8:2). Of compunction: *you have given us to drink of the wine of compunction* (Ps 59:3). There is the bad wine of fraudulent deception: *their wine is the bile of dragons, the incurable venom of asps* (Deut 32:33). Of carnal delight: *all nations have drunk from the wine of the wrath of her fornication, and the kings of the earth have fornicated with her* (Rev 18:3). Of divine indignation: *if anyone shall have worshiped the beast, and his image, and received his mark on his forehead, or on his hand, he shall drink of the wine of the wrath of God, which is mixed with pure wine in the cup of his wrath* (Rev 14:10).***
+
+It is also to be noted that the Holy Spirit is called ***south*** (Jer 13:19) because of his heat: *are your clothes not hot, when the south wind has blown through them* (Job 37:17); because of his splendor: *God will come from the south,Teman, a region in southern Edom. and the holy one from mount Paran. He has covered the heavens with his glory* (Hab 3:3); because of the height of his flight: *does not the hawk grow feathers through your wisdom, stretching his wings to the south* (Job 39:26); because of the multiplication of the rains: *turn, O Lord, our captivity, as the torrent in the southNegev, a desert region in the south of Israel.* (Ps 125:4); because of the fruiting of trees: *come, south wind, blow upon my garden, and its fragrances will spread abroad* (Song 4:16).

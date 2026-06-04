@@ -1,121 +1,79 @@
-# C. 37 - Jeremiah falsely suspected
+# C. 35 - The Rechabites’ commandment
 
-***^37:1^ Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda.***
+***^35:1^ Verbum quod factum est ad Jeremiam a Domino in diebus Joakim filii Josiae regis Juda, dicens:***
 
-> ^37:2^ Et non obedivit ipse, et servi ejus, et populus terrae verbis Domini quae locutus est in manu Jeremiae prophetae.
+> ^35:2^ vade ad domum Rechabitarum, et loquere eis, et introduces eos in domum Domini in unam exedram thesaurorum, et dabis eis bibere vinum.
 
-> ^37:3^ Et misit rex Sedecias Juchal filium Selemiae, et Sophoniam filium Maasiae sacerdotem ad Jeremiam prophetam, dicens: ora pro nobis Dominum Deum nostrum.
+> ^35:3^ Et assumpsi Jezoniam filium Jeremiae filii Habsaniae, et fratres ejus, et omnes filios ejus, et universam domum Rechabitarum,
 
-> ^37:4^ Jeremias autem libere ambulabat in medio populi : non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Aegypto: et audientes Chaldaei qui obsidebant Jerusalem, hujuscemodi nuntium, recesserunt ab Jerusalem.
+> ^35:4^ et introduxi eos in domum Domini ad gazophylacium filiorum Hanan filii Jegedeliae hominis Dei, quod erat juxta gazophylacium principum super thesaurum Maasiae filii Sellum, qui erat custos vestibuli.
 
-> **196**. Hic ostenditur contradictio ex prophetae persecutione:
+> ^35:5^ Et posui coram filiis domus Rechabitarum scyphos plenos vino, et calices, et dixi ad eos: bibite vinum.
 
-et primo ponitur persecutio ipsius propter falsam suspicionem;  
+> ^35:6^ Qui responderunt: non bibemus vinum, quia Jonadab filius Rechab pater noster praecepit nobis, dicens: non bibetis vinum vos, et filii vestri usque in sempiternum:
 
-secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***.Here, the Parma edition reads *Mahan*, in place of *Mathan*.  
+> ^35:7^ et domum non aedificabitis, et sementem non seretis, et vineas non plantabitis, nec habebitis; sed in tabernaculis habitabitis cunctis diebus vestris, ut vivatis diebus multis super faciem terrae, in qua vos peregrinamini.
 
-Circa primum tria.  
+> ^35:8^ Obedivimus ergo voci Jonadab filii Rechab patris nostri in omnibus quae praecepit nobis, ita ut non biberemus vinum cunctis diebus nostris, nos, et mulieres nostrae, filii, et filiae nostrae;
 
-Primo ponit suspicionis occasionem;  
+> ^35:9^ et non aedificaremus domos ad habitandum et vineam et agrum et sementem non habuimus;
 
-secundo ponit suspicionem, ibi, ***cumque pervenisset ad portam Beniamin***;  
+> ^35:10^ sed habitavimus in tabernaculis, et obedientes fuimus juxta omnia quae praecepit nobis Jonadab pater noster.
 
-tertio persecutionem, ibi, ***et apprehendit Jeremiam prophetam***.  
+> ^35:11^ Cum autem ascendisset Nabuchodonosor rex Babylonis ad terram nostram, diximus: venite, et ingrediamur Jerusalem a facie exercitus Chaldaeorum, et a facie exercitus Syriae, et mansimus in Jerusalem.
 
-Circa primum duo.  
+> **187**. Hic convincit eos de transgressione, exemplo quorumdam obedientium.
 
-Primo ponitur occasio sumpta ex prophetae verbo;  
+Et primo ponitur obedientiae experimentum;  
 
-secundo occasio sumpta ex ipsius facto, ibi: ***cumque pervenisset*** etc.  
-
-Circa primum duo.  
-
-Primo ponitur consultatio;  
-
-secundo ponitur prophetae displicens illis responsio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
+secundo ponitur inobedientium condemnatio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
 Circa primum tria.  
 
-Primo describit consultantium conditionem: ***quem constituit regem Nabuchodonosor***: 1 Reg. 24.  
+Primo ponitur experiendi jussio a Domino ad prophetam: ***vade ad domum Rechabitarum***, qui dediti erant studio Scripturae, et ideo a vino abstinebant, de quibus 1 Paral. 2: *cognationes scribarum habitantium in Jabes, canentes atque resonantes, et in tabernaculis commorantes. Hi sunt Cinaei qui venerunt de Calore patris domus Rechab. **Exedram***, quasi cameram extra principalem aedem. ***Dabis***, probans eorum obedientiam. Supra 6: ***probatorem dedi te in populo meo robustum, et scies, et probabis vias eorum***.  
 
-***Et non obedivit***, ut tributum regi Babylonis solveret, et a peccatis cessaret. Matth. 22: *reddite quae sunt Caesaris Caesari, et quae sunt Dei, Deo. **Servi***, familiares, ***populus***. Eccli. 10: *secundum judicem populi, sic et ministri ejus, et qualis rector est civitatis, tales et inhabitantes in ea*.  
+***Et assumpsi . . . et introduxi eos in domum Domini ad gazophylacium***, in quo divitiae templi conservabantur. ***Gaza***, divitiae, ***phylaxa***, conservatio in Graeco dicitur. ***Maasiae***, qui tempore David hoc ministerium acceperat: 1 Paralip. 24: ***vestibuli***, atrii. Quia enim domus ante cameram principum, ubi vestes custodiuntur, vestibulum dicitur, inolevit usus ut omne atrium, vestibulum dicatur.  
 
-Secundo ponitur consultatio: ***et misit rex . . . dicens: ora pro nobis***, ut indicet nobis quid agere debeamus ut ab hostibus liberemur. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*.  
+***Calices***, ad aquam. ***Bibite vinum***, ut experimentum sumat mysteriorum. Proverb. 9: *comedite panem meum, et bibite vinum quod miscui vobis*.  
 
-Tertio ponitur consultantis ratio: fiduciam enim sumpserant ex prophetae libertate, quem nondum afflixerant: ***Jeremias autem ambulabat in medio populi***: et ex obsidionis solutione: ***igitur exercitus Pharaonis egressus est de Aegypto***: exiverat enim rex Aegypti ut liberaret Judaeos. Quo devicto tamen exercitus rediit. Isa. 36: *ecce confidis super baculum arundineum confractum istum: super Aegyptum*, etc.  
+Tertio ponitur obedientiae protestatio, ***qui responderunt***.  
+
+Et primo inducitur paterna jussio de non bibendo vino, ***non bibetis***. Eccl. 2: *cogitavi a vino abstrahere carnem meam, ut animum meum transferrem ad sapientiam*.  
+
+Et de paupertate, ne solicitudine temporalium, sapientiae studium intermitterent. ***Et domum non aedificabitis***. 2 Corinth. 6: *tamquam nihil habentes et omnia possidentes*.  
+
+Secundo ponitur adimpletio: ***obedivimus ergo***. Prov. 3: *fili mi ne obliviscaris legis meae, et praecepta mea cor tuum custodiat*.  
+
+***In tabernaculis***. Sapient. 11: *in locis desertis fecerunt casas*.  
+
+Tertio excusatur necessaria transgressio: ***cum autem ascendisset Nabuchodonosor*** etc.  
 
 Lectio 2  
 
-***^37:5^ Et factum est verbum Domini ad Jeremiam prophetam, dicens:***
+***^35:12^ Et factum est verbum Domini ad Jeremiam, dicens:***
 
-> ^37:6^ haec dicit Dominus Deus Israel: sic dicetis regi Juda, qui misit vos ad me interrogandum: ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Aegyptum,
+> ^35:13^ haec dicit Dominus exercituum Deus Israel: vade, et dic viris Juda et habitatoribus Jerusalem: numquid non recipietis disciplinam ut obediatis verbis meis? dicit Dominus.
 
-> ^37:7^ et redient Chaldaei, et bellabunt contra civitatem hanc, et capient eam, et succendent eam igni.
+> ^35:14^ Praevaluerunt sermones Jonadab filii Rechab quos praecepit filiis suis ut non biberent vinum; et non biberunt usque ad diem hanc, quia obedierunt praecepto patris sui. Ego autem locutus sum ad vos de mane consurgens, et loquens; et non obedistis mihi.
 
-> ^37:8^ Haec dicit Dominus: nolite decipere animas vestras, dicentes: euntes abibunt, et recedent a nobis Chaldaei; quia non abibunt.
+> ^35:15^ Misique ad vos omnes servos meos prophetas, consurgens diluculo, mittensque, et dicens: convertimini unusquisque a via sua pessima, et bona facite studia vestra, et nolite sequi deos alienos, neque colatis eos, et habitabitis in terra quam dedi vobis, et patribus vestris. Et non inclinastis aurem vestram, neque audistis me.
 
-> ^37:9^ Sed et si percusseritis omnem exercitum Chaldaeorum, qui praeliantur, adversum vos, et derelicti fuerint ex eis aliqui vulnerati; singuli de tentorio suo consurgent, et incendent civitatem hanc igni.
+> ^35:16^ Firmaverunt igitur filii Jonadab filii Rechab praeceptum patris sui quod praeceperat eis; populus autem iste non obedivit mihi.
 
-> **197**. Hic ponitur prophetae responsio.
+> ^35:17^ Idcirco haec dicit Dominus exercituum Deus Israel: ecce ego adducam super Judam, et super omnes habitatores Jerusalem universam afflictionem, quam locutus sum adversum illos: eo quod locutus sum ad illos, et non audierunt; vocavi illos, et non responderunt mihi.
 
-Et primo excludit Aegyptiorum auxilium: ***ecce exercitus Pharaonis***. Isa. 30: *Aegyptus frustra et vane auxiliabitur*.  
+> ^35:18^ Domui autem Rechabitarum dixit Jeremias: haec dicit Dominus exercituum Deus Israel: pro eo quod obedistis praecepto Jonadab patris vestri, et custodistis omnia mandata ejus, et fecistis universa quae praecepit vobis:
 
-Secundo praedicit Chaldaeorum reditum: ***et redient Chaldaei***.  
+> ^35:19^ propterea haec dicit Dominus exercituum Deus Israel: non deficiet vir de stirpe Jonadab filii Rechab stans in conspectu meo cunctis diebus.
 
-***Nolite decipere***, falsa spe. Thren. 1: *vocavi amicos meos, et ipsi deceperunt me*.  
+> **188**. Hic ponitur inobedientium condemnatio.
 
-Tertio excludit impedimentum: ***sed si percusseritis***. Deut. 32: *quomodo persequebatur unus mille, et duo fugabant decem millia? Nonne ideo quia Dominus Deus tuus vendidit eos et Dominus conclusit illos?*  
+Et primo comparantur diversa merita; ubi ponitur inobedientiae admiratio: ***numquid non recipietis disciplinam?*** etiam flagellis, et exemplis. Supra 2: ***frustra percussi filios vestros; disciplinam non susceperunt***.  
 
-Lectio 3  
+Ponitur etiam admirationis ratio, ***praevaluerunt***; quasi dicat: majorem efficaciam habuerunt sermones patris carnalis quam patris spiritualis. Hebr. 12: *patres quidem carnis nostrae eruditores habuimus, et reverebamur eos; num multo magis obtemperabimus patri spirituum, et vivemus?* Et comparationis probatio: quia illis obedientibus hi non obedierunt: ***ego autem locutus sum ad vos***. Supra 7: ***locutus sum ad vos mane consurgens et loquens, et non audistis; vocavi vos, et non respondistis mihi***.  
 
-***^37:10^ Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem propter exercitum Pharaonis,***
+Secundo promittuntur diversa praemia.  
 
-> ^37:11^ egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium.
+Et primo promittit inobedientibus poenam: ***idcirco haec dicit Dominus***. Proverb. 1: *quia vocavi et renuistis; extendi manum meam, et non fuit qui aspiceret; despexistis omne consilium meum, et increpationes meas neglexistis; ego quoque in interitu vestro ridebo, et subsannabo, cum vobis id quod timebatis advenerit* etc.  
 
-> **198**. Hic ponit occasionem sumptam ex facto: ***et divideret ibi possessionem***, quam emerat: idest distingueret ab aliis agris: vel distribueret aliis, ut ipse sine solicitudine remaneret. 2 Corinth. 6: *tamquam nihil habentes, et omnia possidentes*.
-
-Lectio 4  
-
-***^37:12a^ Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae.***
-
-> **199**. Hic ponitur falsa suspicio. Psalm. 26: *insurrexerunt in me testes iniqui, et mentita est iniquitas sibi*.
-
-Lectio 5  
-
-***^37:12b^ Et apprehendit Jeremiam prophetam, dicens: ad Chaldaeos profugis?***
-
-> ^37:13^ Et respondit Jeremias: falsum est, non fugio ad Chaldaeos. Et non audivit eum, sed comprehendit Jerias Jeremiam, et adduxit eum ad principes.
-
-> ^37:14^ Quamobrem irati principes contra Jeremiam, caesum eum miserunt in carcerem qui erat in domo Jonathan scribae: ipse enim praepositus erat super carcerem.
-
-> ^37:15^ Itaque ingressus est Jeremias in domum laci, et in ergastulum et sedit ibi Jeremias diebus multis.
-
-> ^37:16^ Mittens autem Sedecias rex tulit eum, et interrogavit eum in domo sua abscondite, et dixit: putasne est sermo a Domino? Et dixit Jeremias: est; et ait: in manus regis Babylonis traderis.
-
-> ^37:17^ Et dixit Jeremias, ad regem Sedeciam: quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris?
-
-> ^37:18^ Ubi sunt prophetae vestri, qui prophetabant vobis, et dicebant: non veniet rex Babylonis super vos; et super terram hanc?
-
-> ^37:19^ Nunc ergo audi, obsecro, domine mi rex: valeat deprecatio mea in conspectu tuo, et ne me remittas in domum Jonathan scribae, ne moriar ibi.
-
-> ^37:20^ Praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate. Et mansit Jeremias in vestibulo carceris.
-
-> **200**. Hic ponitur persecutio in tribus.
-
-In captione. Thren. 3: *venatione ceperunt*.  
-
-In flagellatione, ***caesum***. Simile Act. 8: Hebr. 11: *ludibria, et verbera experti*.  
-
-Et in carceratione: ***itaque ingressus est Jeremias in domum laci***. Psal. 87: *aestimatus sum cum descendentibus in lacum. **Ergastulum***, et est proprie carcer in quo damnatur quis ad aliquod opus.  
-
-Secundo ponitur liberatio, ***mittens***; et circa hoc tria.  
-
-Primo ponitur liberationis occasio, ponens regis interrogationem: ***putasne est sermo a Domino?*** scilicet praenuntians futura, tibi revelatus. Isa. 8: *numquid non populus a Deo suo requirit visionem pro vivis ac mortuis?* Et ponit responsionem: ***et dixit Jeremias***. 3 Reg. 14: *ego autem missus sum ad te durus nuntius*.  
-
-Secundo ponitur liberationis petitio: ***et dixit Jeremias ad regem***: ubi monstrat injustam poenam; ***quid peccavi?*** Job 6: *non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit*.  
-
-Excusat impositam culpam: ***ubi sunt prophetae vestri?*** quasi dicat: patet eorum falsitas, et mea veritas. Jam enim exercitus Chaldaeorum reversus erat, quem illi reversurum negaverant. Supra 28: ***propheta, qui vaticinatus est pacem, cum venerit verbum ejus, tunc scietur propheta quem misit Dominus in veritate***.  
-
-Et petit misericordiam: ***nunc ergo audi, obsecro***. Proverb. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*. Eccli. 6: *verbum dulce multiplicat amicos, et mitigat inimicos; et lingua eucharis in bono homine abundabit*.  
-
-Tertio ponitur petitionis impetratio: ***praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento***, quod addi noluit, ***vestibulo***, idest atrio.
+Secundo obedientibus misericordiam: ***domui autem Rechabitarum dixit Jeremias***. 1 Reg. 15: *melior est obedientia quam victimae, et auscultare quam offerre adipem arietum*.

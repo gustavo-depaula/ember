@@ -1,109 +1,85 @@
-# Chapter 64
+# Chapter 62
 
-> ^64:2^ sicut exustio ignis tabescerent, aquæ arderent igni, ut notum fieret nomen tuum inimicis tuis; a facie tua gentes turbarentur.
+> ^62:2^ Et videbunt gentes justum tuum et cuncti reges inclytum tuum, et vocabitur tibi nomen novum quod os Domini nominavit;
 
-> ^64:3^ Cum feceris mirabilia, non sustinebimus. Descendisti, et a facie tua montes defluxerunt.
+> ^62:3^ et eris corona gloriæ in manu Domini et diadema regni in manu Dei tui.
 
-> ^64:4^ A sæculo non audierunt neque auribus perceperunt; oculus non vidit, Deus, absque te quæ præparasti exspectantibus te;
+> ^62:4^ Non vocaberis ultra derelicta, et terra tua non vocabitur amplius desolata, sed vocaberis voluntas mea in ea et terra tua inhabitata, quia complacuit Domino in te, et terra tua inhabitabitur.
 
-> ^64:5^ occurristi lætanti et facienti justitiam, in viis tuis recordabuntur tui. Ecce tu iratus es, et peccavimus; in ipsis fuimus semper, et salvabimur.
+> ^62:5^ Habitabit enim juvenis cum virgine, et habitabunt in te filii tui, et gaudebit sponsus super sponsam, gaudebit super te Deus tuus.
 
-> ^64:6^ Et facti sumus ut immundus omnes nos, quasi pannus menstruatæ universæ justitiæ nostræ. Et cecidimus quasi folium universi, et iniquitates nostræ quasi ventus abstulerunt nos.
+> ^62:6^ Super muros tuos Jerusalem constitui custodes; tota die et tota nocte perpetuo non tacebunt. Qui reminiscimini Domini ne taceatis
 
-> ^64:7^ Non est qui invocet nomen tuum, qui consurgat et teneat te. Abscondisti faciem tuam a nobis et allisisti nos in manu iniquitatis nostræ.
+> ^62:7^ et ne detis silentium ei, donec stabiliat et donec ponat Jerusalem laudem in terra.
 
-> ^64:8^ Et nunc Domine pater noster es tu, nos vero lutum; et fictor noster, et opera manuum tuarum omnes nos.
+> ^62:8^ Juravit Dominus in dextera sua et in brachio fortitudinis suæ: si dedero triticum tuum ultra cibum inimicis tuis, et si biberint filii alieni vinum tuum in quo laborasti.
 
-> ^64:9^ Ne irascaris Domine satis et ne ultra memineris iniquitatis nostræ; ecce Domine respice, populus tuus omnes nos.
+> ^62:9^ Quia qui congregabunt illud comedent et laudabunt Dominum, et qui comportant illud bibent in atriis sanctis meis.
 
-> ^64:10^ Civitas sancti tui facta est deserta, Sion deserta facta est, Jerusalem desolata.
+> ^62:10^ Transite, transite per portas, præparate viam populo, planum facite iter et eligite lapides; et elevate signum ad populos,
 
-> ^64:11^ Domus sanctificationis nostræ et gloriæ nostræ, ubi laudaverunt te patres nostri, facta est in exustionem ignis, et omnia desiderabilia nostra versa sunt in ruinas.
+> ^62:11^ ecce Dominus auditum fecit in extremis terræ; dicite filiæ Sion: ecce salvator tuus venit, ecce merces ejus cum eo et opus illius coram illo.
 
-> ^64:12^ Numquid super his continebis te Domine, tacebis et affliges nos vehementer?
+> ^62:12^ Et vocabunt eos populus sanctus, redempti a Domino; tu autem vocaberis civitas quæsita et non derelicta.
 
-> **1113**. ***Utinam dirumperes***. Hic porrigit petitionem.
+> **1086**. ***Propter Syon***. Hic promittit populo gloriae honorem.
 
-Et primo petit judicis praesentiam;  
+Et primo ponitur prophetae petitio;  
 
-secundo petit misericordiam: ***ecce tu iratus***.  
+secundo Domini promissio: ***juravit Dominus***.  
 
-Circa primum duo.  
+Circa primum duo:  
 
-Primo ponit petitionem;  
+primo ipse petit;  
 
-secundo petitionis impletionem: ***descendisti***.  
+secundo alios ad petendum inducit: ***qui reminiscimini***.  
 
-Circa primum duo.  
+**1087**. Circa primum duo.  
 
-Primo petit judicis adventum: ***dirumperes***. Figurative loquitur quasi super caelos habitanti; vel: exinanires temet ipsum, despiciens majestatem, et carnem assumeres, Ps. *inclina caelos tuos et descende*.  
+Primo ipse petit ad hoc salvatoris ortum: ***propter Sion***, scilicet utilitatem vel amorem, ***non tacebo*** a precibus apud Deum; ***salvator***, Cyrus; ***ut splendor***, in gloria regni. Mystice: ***non tacebo*** a praedicatione Christi propter contradictionem; ***Sion***, regis; ***Jerusalem***, sacerdotum; ***salvator***, Christus, Dan. X 6 *facies ejus ut species*.  
 
-**1114**. Secundo ponit adventus effectum  
+**1088**. Secundo ostendit adventus fructum.  
 
-in creaturis insensibilibus, scilicet in montibus: ***a facie tua montes***, quasi dicat: non sustinentes praesentiam tuam, si tibi placeret; vel ***montes***, potentes et superbi, supra XXXIV 3 ***tabescent montes*** in fortitudine sua; in aquis: ***aquae arderent***, quia totus igneus es, si velles, Sap. XVI 19 *quodam tempore aqua super virtutem ignis exardebat*; vel per ***aquas***, populi, Apoc. XVI *aquae multae, populi multi*.  
+Primo quantum ad civitatis gloriam, promittens ipsam gloriam in tribus.  
 
-Secundo effectum in hominibus,  
+In dignitate regis: ***et videbunt***, admirantes et venerantes, ***justum***, Christum vel Cyrum, Ps. *viderunt omnes termini terrae salutare Dei nostri*.  
 
-et primo in gentibus: ***a facie tua***, Ps. *turbabuntur gentes*; *a facie tua*, ad litteram commovebuntur; vel referendum ad conversionem gentium post Christi adventum.  
+In novitate nominis: ***et vocabitur***, more antiquorum qui ex novis eventibus nova nomina imponebant, et hoc nomen postea exprimet. Mystice, Ecclesia, quae prius Synagoga, Apoc. II 17 *dabo illi calculum*.  
 
-Secundo in Judaeis: ***cum feceris, non sustinebimus***, id est nos qui consueti sumus videre et audire, prae stupore, sicut territi fuerunt Exo. XX 18, unde Hebr. XII 19 *excusaverunt se* etc.; vel ***non sustinebimus*** adventum credentes, etiam visis miraculis.  
+In munimine divinae protectionis: ***et eris corona gloriae***, quia gloriabitur in te Deus tuus sicut rex in corona regni, ***in manu***, id est in protectione sua, Sap. V 17 *accipiens regnum speciei*. Mystice: Ecclesia, quasi corona Dei Filius a Patre coronatur.  
 
-**1115**. ***Descendisti***. Hic ponit petitionis impletionem.  
+Et excludit ignominiam, in quo etiam nomen novum exprimit: ***non vocaberis***, Ez. XXXVI 13 *pro eo quod dicunt de vobis* etc.  
 
-Et primo quantum ad adventum: ***descendisti***, ad judicandum nos: praeteritum pro futuro; vel in uterum Virginis. Vel melius, secundum litteralem sensum, ponit effectus probationem, quasi dicat: si modo descenderes, haec contingerent quae etiam contigerunt quando descendisti ut liberares populum tuum de Aegypto, Exo. IV, Ps. *inclinavit caelos et descendit, et caligo sub pedibus ejus*.  
+**1089**. Secundo quantum ad habitantium laetitiam, et quantum ad pueros: ***habitabit juvenis***, et quantum ad viros perfectos: ***et habitabunt***, et quantum ad conjugatos: ***et gaudebit***, Ier. XXXIII 10 *adhuc audietur in loco* etc. Mystice: ***juvenis cum virgine***, caste sicut Maria cum Joseph; ***sponsus***, Christus; ***sponsam***, Ecclesiam.  
 
-**1116**. Secundo quantum ad effectum.  
+**1090**. Tertio quantum ad aedificiorum diligentem custodiam, quae exprimitur II Esdrae IV 17 *una manu* aedificabant et alia pugnabant: ***super muros non tacebunt***. Loquitur secundum similitudinem vigilum qui custodiunt civitatem; vel per metaphoram designat diligentiam principum qui populum gubernaverunt, vel praedicatores in Ecclesia, Apoc. IV 8 *requiem non habebant clamantia: sanctus, sanctus*.  
 
-Primo in miraculis: ***a facie tua montes***, scopuli Arnon, Num. XXI 14–15, Ps. *montes exultaverunt*; mystice: Judaei, vel daemones.  
+**1091**. ***Qui reminiscimini***. Hic alios ad similem petitionem inducit: ***ne taceatis*** ab oratione; ***ei***, Deo, I Thess. VI *semper gaudete, sine intermissione orate*.  
 
-Secundo in beneficiis,  
+**1092**. ***Juravit***. Hic Dominus promittit implere petitionem.  
 
-et primo ponit beneficiorum magnitudinem: ***a saeculo non audierunt***, quia nunquam similia visa vel audita qualia Deus Judaeis fecit, et sanctis in gloria faciet, I Cor. II 9 *oculus non vidit nec auris audivit et in cor hominis non ascendit quae praeparavit Deus diligentibus se*.  
+Et primo quantum ad hostium propulsionem: ***si dedero***, supple *non credatis mihi*, Prov. XXVIII 19 *qui operatur terram* et non comedit fructum ex ea.  
 
-Secundo quantum ad benefaciendi promptitudinem: ***occurristi laetanti*** in auxilium, dum adhuc erat in petendo vel veniendo ad te; ***laetanti*** in te, Sap. VI 17 *dignos se sapientia*. Mystice: Simeoni, Lucae II.  
+Secundo quantum ad captivorum liberationem, quantum ad praeparationem viae: ***transite***, vos nuntii Cyri et Darii; ***lapides***, impedimenta, Jer. L 26 *tollite de via lapides*; vel vos, custodes murorum: praedicatores. Quantum ad concessionem laetitiae: ***elevate signum***, edictum Cyri ut omnes redirent, vel ***signum*** crucis, supra XI 12 ***levabit signum in nationibus***. Et quantum ad retributionem justitiae: ***dicite filiae***, plebi Judaeorum; ***salvator***, Deus vel Cyrus; ***merces***, ut vobis bona et hostibus mala reddantur. Mystice de adventu Christi ad judicium, supra XL 9–10 idem.  
 
-**1117**. ***Ecce tu iratus***. Hic ponit misericordiam.  
+Tertio, ibi ***et vocabunt***, ponit liberatorum honorem qui in magna fama sanctitatis habebantur, propter beneficia eis praestita, supra I 26 ***post hoc vocaberis***. Mystice, de Ecclesia et populo christiano.  
 
-Et primo ostendit petendi necessitatem,  
+**1093**. Nota super illo verbo ***propter Sion non tacebo***, quod sancti non tacent  
 
-secundo porrigit petitionem: ***et nunc Domine***.  
+primo propter accensum desiderium, Jer. XX 9 *et factum est in corde meo verbum Domini quasi ignis aestuans*;  
 
-Circa primum duo.  
+secundo propter evidens verum, Act. V *non enim possumus quae vidimus*;  
 
-Primo ostendit necessitatem ex eminentia mali quantum ad culpam, tum ex malorum perpetratione: ***ecce tu iratus, et peccavimus***: praeposterus ordo, ideo iratus quia peccavimus, ***et*** tamen ***salvabimur*** tua misericordia, supra LIX 12 ***scelera nostra***;  
+tertio propter injunctum officium, I Cor. IX 16 *necessitas mihi incumbit, vae enim mihi est si non evangelizavero*;  
 
-et quantum ad bonorum imperfectionem: ***et facti sumus**; **universae justitiae***, quia aliis peccatis involuti, Job IX 30 *si lotus fuero quasi aquis nivis*.  
+quarto propter expectatum praemium, Gal. ult. *bonum enim facientes non deficiamus: tempore enim suo metemus non deficientes*.  
 
-Et quantum ad poenam: ***et cecidimus***, interfecti, vel a statu dignitatis; ***abstulerunt*** a terra nostra, Job XIII 25 *contra folium quod a vento rapitur, ostendis potentiam tuam*.  
+**1094**. Item super illo verbo ***donec egrediatur ut splendor***, quod Christus splendet  
 
-**1118**. Secundo ostendit necessitatem quantum ad defectum auxilii.  
+primo Patris imagine, Hebr. I 3 *cum sit splendor gloriae et figura substantiae ejus*;  
 
-Et primo humani: ***non est qui invocet et teneat te***, precibus, Cant. III 4 *teneo eum, nec dimittam*;  
+secundo sanctorum lumine, Ps. *in splendoribus sanctorum ante luciferum genui te*;  
 
-secundo divini: ***abscondisti faciem tuam*** misericordiae tuae, ***in manu***, id est in opere, juxta illud *mors et vita in manu*, Prov. XVIII 21, Deut. XXXII 20 *abscondam faciem meam ab eis*.  
+tertio gloriae plenitudine, Matth. XVII 2 *resplenduit facies ejus sicut sol*;  
 
-**1119**. ***Et nunc Domine***. Hic ponit misericordiam. Et circa hoc duo facit.  
-
-Primo petit misericordiam, assignans rationem: ***pater noster es tu***, Jer. XVIII 6 *sicut lutum in manu figuli, sic nos in manu Dei*, Job X 9 *memento quaeso quod sicut lutum feceris me*. Et porrigit petitionem: ***ne irascaris satis***, id est nimis, vel secundum quod merita nostra exigunt, Ps. *ne memineris iniquitatum nostrarum antiquarum, cito anticipent nos misericordiae tuae*.  
-
-Secundo proponit miseriam: ***ecce*** ***Domine***, ***omnes nos*** sumus; ***sancti***, id est sanctuarii, templi scilicet Jerusalem, Thren. I 10 *manum suam misit hostis ad omnia desiderabilia*. Et miratur patientiam: ***numquid super***, Habacuc I 13 *quare respicis super iniquitates nostras?*  
-
-**1120**. Nota super illo verbo ***quae praeparasti diligentibus te***, quod Deus praeparat sanctis  
-
-primo locum aeternae quietis, Jo. XIV 2 *si quo minus dixissem vobis quia vado parare vobis locum*; s  
-
-ecundo regnum aeternae dignitatis, Matth. XXV 34 *venite benedicti Patris mei, percipite regnum quod vobis paratum est ab origine mundi*;  
-
-tertio mensam divinae refectionis, Ps. *parasti in conspectu meo mensam*;  
-
-quarto lucernam aeterni luminis, Ps. *paravi lucernam christo meo*.  
-
-**1121**. Item nota super illo ***quasi pannus menstruatae universae justitiae***, quod opus justitiae immundatur inquinamento  
-
-primo mortalis maculae, Eccli. XLVII 22 *dedisti maculam in gloria tua*;  
-
-secundo commissae negligentiae, Jer. XLVIII 10 *maledictus homo qui facit opus Domini negligenter*;  
-
-tertio intentionis perversae, Matth. VI 22 *si oculus tuus* fuerit simplex;  
-
-quarto insurgentis superbiae, supra LVII 13 ***omnes eos auferet ventus***.
+quarto doctrinae rectitudine, supra LX 3 ***ambulabunt gentes in lumine tuo et reges in splendore ortus tui***.

@@ -31,49 +31,42 @@
   ],
   "toc": [
     {
-      "id": "deheb-01",
-      "title": {
-        "en-US": "DeHeb",
-        "la": "DeHeb"
-      }
-    },
-    {
-      "id": "deheb-prologue",
+      "id": "deheb-c01",
       "title": {
         "en-US": "Prologue",
         "la": "Prologue"
       }
     },
     {
-      "id": "deheb-l1",
+      "id": "deheb-c02",
       "title": {
         "en-US": "L. 1 - Boethius' Preface",
         "la": "L. 1 - Boethius' Preface"
       }
     },
     {
-      "id": "deheb-l2",
+      "id": "deheb-c03",
       "title": {
         "en-US": "L. 2 - Commentary on the Rules",
         "la": "L. 2 - Commentary on the Rules"
       }
     },
     {
-      "id": "deheb-l3",
+      "id": "deheb-c04",
       "title": {
         "en-US": "L. 3 - Commentary on the Problem",
         "la": "L. 3 - Commentary on the Problem"
       }
     },
     {
-      "id": "deheb-l4",
+      "id": "deheb-c05",
       "title": {
         "en-US": "L. 4 - Commentary on the Solution",
         "la": "L. 4 - Commentary on the Solution"
       }
     },
     {
-      "id": "deheb-l5",
+      "id": "deheb-c06",
       "title": {
         "en-US": "L. 5 - Commentary on the Objections and Replies",
         "la": "L. 5 - Commentary on the Objections and Replies"

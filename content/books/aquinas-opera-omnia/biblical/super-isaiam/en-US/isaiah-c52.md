@@ -1,119 +1,137 @@
-# Chapter 52
+# Chapter 50
 
-> ^52:2^ Shake yourself from the dust, arise, sit up, O Jerusalem: loose the bonds from off your neck, O captive daughter of Zion.
+> ^50:2^ Because I came, and there was not a man: I called, and there was none that would hear. Is my hand shortened and become little, that I cannot redeem? Or is there no strength in me to deliver? Behold at my rebuke I will make the sea a desert, I will turn the rivers into dry land: the fishes shall rot for want of water, and shall die for thirst.
 
-> ^52:3^ For thus says the Lord: you were sold gratis, and you shall be redeemed, without money.
+> ^50:3^ I will clothe the heavens with darkness, and will make sackcloth their covering.
 
-> ^52:4^ For thus says the Lord God: my people went down into Egypt in*In*. DR: “at.” the beginning to be a colonist*Ut colonus esset*. DR: “to sojourn.” there: and the Assyrian has oppressed them without any cause at all.
+> ^50:4^ The Lord has given me a learned tongue, that I should know how to uphold by word him that is weary: he wakens in the morning, in the morning he wakens my ear, that I may hear him as a master.
 
-> ^52:5^ And now what is this to me,*Quid mihi est hic*. DR: “have I here.” says the Lord: for my people is taken away gratis. They that rule over them treat them unjustly, says the Lord, and my name is continually blasphemed all the day long.
+> ^50:5^ The Lord God has opened my ear, and I do not contradict:*Contradico*. DR: “resist.” I have not gone back.
 
-> ^52:6^ Therefore my people shall know my name in that day: for I myself that spoke, behold I am here.
+> ^50:6^ I have given my body to the strikers, and my cheeks to them that plucked them: I have not turned away my face from them that rebuked me, and spit upon me.
 
-> ^52:7^ How beautiful upon the mountains are the feet of him that brings good tidings, and that preaches peace: of him that shows forth good, that preaches salvation, that says to Zion: your God shall reign!
+> ^50:7^ The Lord God is my helper, therefore am I not confounded: therefore have I set my face as a most hard rock, and I know that I shall not be confounded.
 
-> ^52:8^ The voice of your watchmen: they have lifted up their voice, they shall praise together: for they shall see eye to eye when the Lord shall convert Zion.
+> ^50:8^ He is near that justifies me, who will contend with me? Let us stand together. Who is my adversary? Let him come near to me.
 
-> ^52:9^ Rejoice, and give praise together, O you deserts of Jerusalem: for the Lord has comforted his people: he has redeemed Jerusalem.
+> ^50:9^ Behold the Lord God is my helper: who is he that shall condemn me? Lo, they shall all be destroyed as a garment, the moth shall eat them up.
 
-> ^52:10^ The Lord has prepared his holy arm in the sight of all the Gentiles: and all the ends of the earth shall see the salvation of our God.
+> ^50:10^ Who is there among you that fears the Lord, that hears the voice of his servant, that has walked in darkness, and has no light? Let him hope in the name of the Lord, and lean upon his God.
 
-> ^52:11^ Depart, depart, go out from thence, touch no unclean thing: go out of the midst of her, be clean, you that carry the vessels of the Lord.
+> ^50:11^ Behold all you that kindle a fire, girded*Accincti*. DR: “encompassed.” with flames, walk in the light of your fire, and in the flames which you have kindled: this is done to you by my hand, you shall sleep in sorrows.
 
-> ^52:12^ For you shall not go out in a tumult, neither shall you make haste by flight: for the Lord will go before you, and the God of Israel will gather you together.
+> **909**. ***Thus says the Lord: what is this***. Here he begins to remove the impediments to their liberation.
 
-> ^52:13^ Behold my servant shall understand, he shall be exalted, and lifted up,*Elevabitur*. DR: “extolled.” and shall be exceeding high.
+And first, he removes the impediments;  
 
-> ^52:14^ As many have been astonished at you, so shall his visage be inglorious among men, and his form among the sons of men.
+second, he applies the remedies: ***who has believed our report*** (ch. 53).  
 
-> ^52:15^ He shall sprinkle many nations, kings shall shut their mouth at him: for they to whom it was not told of him, have seen: and they that heard not, have beheld.
+Concerning the first, he removes three impediments:  
 
-> **940**. ***Arise, arise***. Here he excludes the third impediment to their liberation, which could be doubted from their poverty of goods, promising them gratuitous liberation. And this is divided into two parts:
+first, the lack of divine benefits;  
 
-for first, he foretells the liberation of the Jews from the Babylonians;  
+second, the dejection of persons: ***give ear to me, you that follow*** (ch. 51);  
 
-second, the liberation of the gentiles from their sins: ***behold my servant shall understand*** (Isa 52:13).  
-
-Concerning the first, he does two things:  
-
-first, he foretells the liberation;  
-
-second, the order of liberation: ***the Lord has prepared*** (Isa 52:10).  
+third, poverty of goods: ***arise, arise*** (ch. 52).  
 
 Concerning the first, he does three things:  
 
-first, he promises gratuitous liberation;  
+first, he excludes the impediment;  
 
-second, he assigns the cause of liberation: ***for thus says the Lord God*** (Isa 52:4);  
+second, he gives himself as an example: ***the Lord has given*** (Isa 50:4);  
 
-third, he proclaims joy to the liberated: ***how beautiful*** (Isa 52:7).  
+third, he deduces salutary counsel: ***who is there among you that fears the Lord*** (Isa 50:10).  
 
-**941**. Liberation is promised to them in three ways.  
+Concerning the first, he does two things:  
 
-First, from the oppression of their enemies as to the goods which they regained: ***arise***, from the weakness through which you were not able to resist your enemies, and therefore, he says: ***put on your strength***, like arms of war, ***O Zion***, on which was the stronghold for the defense of the city; ***arise***, from the misery which you incurred, when your enemies despoiled you, and therefore he says: ***put on the garments of your glory***. The glory of a city is the crowds of its citizens, the beauty of its streets, the riches of its goods: *put off, O Jerusalem, the garment of your mourning, and affliction: and put on the beauty, and honor of that everlasting glory which you have from God* (Bar 5:1). And as to the enemies which they escaped: ***for henceforth shall no more pass through you***, as ravagers and rulers, ***the uncircumcised***, as to gentile enemies, ***and unclean***, as to traitors from their own people, above: ***it shall be called the holy way*** (Isa 35:8); *there shall not enter into it any thing defiled* (Rev 21:27).  
+first, he excludes the lack of divine benefits on the part of the divine will;  
 
-**942**. Second, he promises liberation from the baseness of her inhabitants, for some of the poor of the land were left behind, as it says in 2 Kings 25:12 and Jeremiah 52:16; ***shake yourself from the dust***, of baseness, ***arise***, resisting your adversaries, and then next, ***sit***, at rest: *he raises up the needy from the dust* (1 Sam 2:8).  
+second, on the part of the divine power: ***is my hand shortened*** (Isa 50:2).  
 
-**943**. Third, he promises liberation from detention by her captors, foretelling the benefit of liberation: ***loose the bonds***, that is, come forth from captivity: *I have broken the chains of your necks* (Lev 26:13). And he shows the manner of liberation: ***for thus says the Lord: you were sold gratis***, as if to say: those who took you captive furnished no benefits to you; ***and you shall be redeemed***, from captivity to Babylon by Cyrus, above: ***he shall let go my captives*** (Isa 45:13); *you have sold your people for no price* (Ps 43:13[44:12]).  
+**910**. Concerning the first, he does three things.  
 
-**944**. ***For thus says the Lord***. Here he assigns two causes of their liberation, namely, the calumny of the people and the blasphemy of God.  
+First, he excludes the lack of divine will, as though of his own accord God did not wish to benefit them, excluding a twofold manner of alienation, namely, the manner of alienating a wife, which occurred through a bill of divorce, as is said in Deuteronomy 24:1, which indeed was permitted to them because of the hardness of their hearts (Matt 19:8). ***What is this bill of the divorce of your mother?***  
 
-And first, he alleges calumny: ***my people went down into Egypt in the beginning***, in their fathers (Gen 46–47); ***to be a colonist there***, and therefore the Egyptians had some right to oppress them from the benefits bestowed on them; ***and the Assyrian***, under which the Chaldeans are also included, ***has oppressed them without any cause at all***, not furnishing them any benefits. If, therefore, the Assyrian drives away their liberation, ***what is this to me***, that is, what hinders me that I should not now free Jerusalem?  
+But, on the contrary, Jeremiah 3:8 says, *because Israel had played the harlot, I had put her away*.  
 
-**945**. Second, he pronounces the sentence: ***for my people is taken away***, from their own land; ***they that rule over them***, who have usurped dominion to themselves, namely, the Chaldeans; ***and***, because, ***my name is continually blasphemed***, as though I could not free my people: *I will sanctify my great name, which was profaned among the Gentiles* (Ezek 36:23). ***Therefore my people shall know my name in that day***, of liberation, ***for I myself that spoke***, promising, ***I am here***, to fulfill my promise: *afterwards he was seen upon earth, and conversed with men* (Bar 3:38); *God, who, at sundry times and in diverse manners, spoke in times past to the fathers by the prophets, last of all, in these days, has spoken to us by his Son* (Heb 1:1–2) if this is explained mystically of the coming of Christ.  
+And to this is to be said that the Lord, considered in himself, did not repudiate them, but rather they, through their sins, put God away. He also excludes the manner of alienating a possession: ***or who is my creditor, to whom I sold you***, as if to say: if I should sell you, who are my inheritance (Isa 19:25), to him, what should I repay, not having anything else? Thus it is clear, because I did not alienate you from my dominion, that I am ready to benefit you of my own accord.  
 
-**946**. ***How beautiful***. Here he proclaims joy to the liberated.  
+**911**. Second, he shows the sin of human will: ***behold you are sold for your iniquities***: *but I am a carnal man, sold under sin* (Rom 7:14).  
 
-And first, he describes their joy as to the reception of messengers, who, coming from Chaldea, announced it to them: ***beautiful***, for it was beautiful and pleasant to the people to hear them announcing such things; ***upon the mountains***, so that many would hear them; ***that preaches***, publicly, ***peace***, restored by Cyrus, ***good***, of promised assistance, ***salvation***, from captivity; ***your God shall reign***, as though from then on, God alone will reign in you because you will worship him in the restored temple: *behold upon the mountains the feet of him that brings good tidings* (Nah 1:15).  
+Third, he sets out the argument: ***because I came***, through inspiration, ***I called***, through the prophets: *I called, and you refused* (Prov 1:24).  
 
-**947**. Second, he describes their joy as to the inspection of their watchmen who saw them returning from there, setting out the voice of exultation, ***the voice***, of joy will resound: *with one accord lifted up their voice to God* (Acts 4:24); and the reason for their joy: ***for they shall see eye to eye***, as if to say, they shall see the captives coming with their own eyes, above: ***your eyes shall see Jerusalem*** (Isa 30:20).  
+**912**. ***Is my hand shortened?*** Here he excludes lack on the part of divine power, first excluding lack of power: ***shortened***, that I cannot subject them to me even from afar; ***little***, against the powerful, below: ***behold the hand of the Lord is not shortened*** (Isa 59:1).  
 
-Third, as to the arrival of the captives: ***rejoice***, above: ***the land that was desolate shall be glad, and the wilderness shall rejoice*** (Isa 35:1).  
+Second, he sets out a sign of divine power: ***behold***,  
 
-**948**. Note on the words, ***put on the garments*** (Isa 52:1), that the saints have garments of virtues in which they glory: and these are,  
+first, in the waters: ***at my rebuke***, that is, my command, ***I will make the sea a desert***, if I wish, as I did when Israel came forth from Egypt (Exod 14:15–31); ***I will turn the rivers into dry land***, like the Arnon (Num 21:13–20) and the Jordan (Josh 4); ***the fishes shall rot***, as in Exodus 7:16–21, when the waters were turned into blood: *he rebuked the Red Sea and it was dried up* (Ps 105[106]:9).  
 
-first, for protection, below: ***the Lord has clothed me with the garments of salvation: and with the robe of justice he has covered me*** (Isa 61:10);  
+Second, he shows signs of his power in the heavens: ***I will clothe the*** aerialCf. *ST* I.68.4, resp. ***heavens with darkness***, as in Egypt (Exod 10:21); *who covers the heaven with clouds* (Ps 146[147]:8).  
 
-second, for keeping warm: *she shall not fear for her house in the cold of snow: for all her domestics are clothed with double garments* (Prov 31:21);  
+**913**. ***The Lord has given me***. Here he gives himself as an example.  
 
-third, for ornament: *that you may be clothed in white garments* (Rev 3:18).  
+And first, as to the grace of the benefit he received, both as to eloquence: ***a learned tongue, that I should know how to uphold***, with encouragements: *your words have confirmed them that were staggering* (Job 4:4); and as to wisdom: ***he wakens my ear***, to listen, ***in the morning***, from the beginning of my preaching, or from the beginning of his life, or because he was then alone to pray: *I will meditate on you in the morning* (Ps 62:7[63:6]). ***The Lord God has opened my ear***, to understand: *I will hear what the Lord God will speak in me* (Ps 84:9[85:8]); *one is your master, Christ* (Matt 23:10).  
 
-**949**. These garments ought to be,  
+**914**. Second, he gives himself as an example as to obedience, setting out his perfect obedience: ***and I do not resist***, but I receive and accept his inspiration; ***I have not gone back***, from my good intention, above: ***woe to him that gainsays his maker*** (Isa 45:9). He also sets out the constancy of his obedience, that he did not abandon his obedience for any danger: ***I have given my body***, that is, I exposed myself that I should suffer such things; or perhaps he literally suffered these things, but in Christ this was completely fulfilled (Matthew 26 and 27): *I have given my dear soul into the hand of enemies* (Jer 12:7).  
 
-first, white in honesty of work: *at all times let your garments be white* (Eccl 9:8);  
+**915**. Third, he gives himself as example as to the trust which he had in God,  
 
-second, clean in rectitude of intention, above: ***every garment mingled with blood, shall be burnt*** (Isa 9:5);  
+first, setting out his ready defense: ***the Lord God is my helper***: *the Lord is with me as a strong warrior* (Jer 20:11);  
 
-third, fragrant through the spreading of reputation: *the smell of your garments, as the smell of frankincense* (Song 4:11).  
+second, the security of his trust: and ***I set my face as a most hard rock***, that I might be moved by neither fear nor shame: *I have made your face like an adamant and like flint* (Ezek 3:9);  
 
-**950**. Also on the words, ***loose the bonds*** (Isa 52:2), note that there are bonds from which God loosens:  
+third, he assigns the reason for this security from the power of the one who helps him: ***he is near that justifies me***, namely, God. ***Who will contend with me***, with words; ***let us stand together***: *set me beside you, O Lord, and let any man’s hand fight against me* (Job 17:3); ***who is my adversary***, with deeds. ***Who is he that shall condemn me***, with false judgments: *God is he that justifies: who is he that shall condemn?* (Rom 8:33–34);  
 
-first, of worldly solicitude: *who has sent out the wild ass free, and who has loosed his bonds?* (Job 39:5);  
+again, he assigns the reason for this security from the weakness of those who attack him: ***lo, they shall all be destroyed as a garment***, with old age, in which is signified natural defect, ***the moth***, in which is signified the violent man: *who am to be consumed as rottenness, and as a garment that is moth-eaten* (Job 13:28); as if to say: from all these things, just as I, after the benefits I received, obey God and trust in him, so should you also.  
 
-second, of carnal love: *I have found a woman more bitter than death, and her bonds**Et vincula eius*. Vg.: *quae laquaeus venatorum est*. DR: “who is the hunter’s snare.” (Eccl 7:27);  
+**916**. ***Who is there among you?*** Here he deduces salutary counsel from his own example.  
 
-third, of perverse action: *he brought them out of darkness, and the shadow of death; and broke their bonds in sunder* (Ps 106[107]:14);  
+And first, he sets out the counsel;  
 
-fourth, of vicious custom, above: ***woe to you that draw iniquity to iniquity***,*Ad iniquitatem*. Vg.: *in funiculis vanitatis*. DR: “with cords of vanity.” ***and sin as the rope of a cart*** (Isa 5:18).  
+second, he sets out their contempt of this counsel: ***behold all you*** (Isa 50:11).  
 
-**951**. There are also bonds from which God does not loosen:  
+Now, he gives counsel that they should trust in God, and thus he does three things.  
 
-first, of love: *I drew them with the cords of love**In funiculis caritatis traxi eos*. Vg.: *in funiculis Adam traham eos, in vinculis caritatis*. DR: “I will draw them with the cords of Adam, with the bands of love.” (Hos 11:4);  
+First, he seeks after the fittingness of trust, which is from fear and obedience: ***that fears the Lord, that hears the voice of his servant***, Isaiah, or any other servant: *who is the man that fears the Lord?* (Ps 24[25]:12);  
 
-second, of divine law: *of old time you have broken my yoke* (Jer 2:20);  
+second, he shows the necessity of trust: ***that has walked in darkness***, of error, or adversity: *he who walks in the night, stumbles* (John 11:10);  
 
-third, of divine instruction: *bow down your shoulder, and bear her, and be not grieved with her bands* (Sir 6:26[25]).  
+third, he sets out the counsel itself: ***let him hope in the name of the Lord***, above: ***the remnant of Israel*** (Isa 10:20).  
 
-**952**. ***The Lord has prepared***. Here he describes the order of liberation.  
+**917**. ***Behold all you***. Here he sets out their contempt of this counsel, setting out three things.  
 
-And first, he sets out the manifest help of God: ***his holy arm***, namely, his power, which all were able to perceive in this deed: *all the ends of the earth have seen the salvation of our God* (Ps 97[98]:3).  
+First, their fault: ***you that kindle***, by your sins, ***a fire***, meriting it for yourselves, ***girded***, as though bound by your sins, or ready for sin, above: ***and your strength shall be as the ashes of tow*** (Isa 1:31);  
 
-Second, he enjoins the captives to flee: ***depart***, namely, from Babylonia; ***touch no unclean thing***, do not live among these unclean people: *go out from her, my people* (Rev 18:4).  
+second, he sets out the punishment: ***walk in the light of your fire***, as if to say: receive your punishment: *the sinner has been caught in the works of his own hands* (Ps 9:17[16]);  
 
-Third, he shows the manner of their flight, as to purity: ***be clean***, you priests; as to security: ***for you shall not go out in a tumult***, namely, of war, as you did from Egypt: *he brought forth his people* (Ps 104[105]:43); as to their leader: ***for the Lord will go before you***, as a leader, ***and the God of Israel will gather you together***, as a shepherd: *for I will take you from among the Gentiles, and will gather you together out of all the countries, and will bring you into your own land* (Ezek 36:24).  
+third, he sets out the power of the one who punishes: ***by my hand***, namely, by the power of God; ***you shall sleep***, in the sleep of death.  
 
-**953**. ***Behold my servant shall understand***. Here he foretells the liberation of the gentiles from slavery to sin, carried out by the Son of God.  
+**918**. Note on the words, ***you are sold for your iniquities*** (Isa 50:1), that man sells many things for sins:  
 
-And first, he describes the liberator as to eminence of grace: ***my servant shall understand***, as to the fullness of wisdom; ***servant***, Christ, according to the human nature he assumed: *taking the form of a servant* (Phil 2:7); *a wise servant is acceptable to the king* (Prov 14:35); and: *he that understands shall possess governments* (Prov 1:5). ***He shall be exalted***, as to the operation of his powers: *be you exalted, O Lord, in your own strength* (Ps 20:14[21:13]); ***and lifted up***, as to his ascension: *for your magnificence is elevated above the heavens* (Ps 8:2[1]); *he that descended is the same also that ascended* (Eph 4:10); ***and shall be exceeding high***, sitting at the right hand of the Father, above: ***the bud of the Lord shall be in magnificence and glory, and the fruit of the earth shall be high*** (Isa 4:2). And as to the ignominy of his passion: for ***as many have been astonished at you***, by your example, miracles and teachings: *and all the multitudes were amazed* (Matt 12:23) at his teaching and the miracles which he did, ***so shall his visage be inglorious***, in suffering, ***and his form***, his appearance or beauty: *I am a worm, and no man: the reproach of men, and the outcast of the people* (Ps 21:7[22:6]).  
+first, the virtue of his soul: *they have given all their precious things for vile things**Vili*. Vg.: *cibo*. DR: “food.” (Lam 1:11);  
 
-**954**. Second, he foretells liberation as to the remission of sins: ***he shall sprinkle***, with the sprinkling of his blood (1 Pet 1:2), and the water of baptism: *having our hearts sprinkled from an evil conscience and our bodies washed with clean water* (Heb 10:22); as to the veneration of him: ***kings shall shut their mouth at him***, silent, to listen, not presuming to discuss his secrets: *the princes ceased to speak* (Job 29:9); and as to the knowledge of truth: ***for they to whom***, namely, the gentiles, ***it was not told of him***, by the prophets, ***have seen***, in their hearts, ***and they that heard not***, him preaching in person, below: ***behold me, to nations that did not know me and that did not call upon my name*** (Isa 65:1).*Ad gentes quae nesciebant me et quae non invocabant nomen meum*. Vg.: *ad gentem quae non invocabat nomen meum*. DR: “to a nation that did not call upon my name.”
+second, his heavenly inheritance: *the Lord be merciful to me, and not let me sell**Vendam*. Vg.: *dem*. DR: “give.” *the inheritance of my fathers* (1 Kgs 21:3);  
+
+third, the liberty of his soul: *there is not a more wicked thing than to love money* (Sir 10:10);  
+
+fourth, the honor of divine love: *the Lord loves the children of Israel* (Hos 3:1).  
+
+**919**. Also, on the words, ***and I do not contradict*** (Isa 50:5), note that they contradict God,  
+
+who, first, are unfaithful to divine truth: *in nowise contradict**Contradicas*. DR: “speak against.” *the truth* (Eccl 4:30);  
+
+second, those who are impatient with divine correction: *who contradict**Contradicit*. Vg.: *restitit*. DR: “ hath resisted.” *him, and has had peace?* (Job 9:4);  
+
+third, those who are impenitent toward the divine goodness, above: ***they shall be as nothing, and the men shall perish that contradictContradicunt*. DR: “strive against.” ***thee*** (Isa 41:11);  
+
+fourth, those who are disobedient toward divine authority: *your people are as they that contradict the priest* (Hos 4:4).  
+
+**920**. Note also on the words, ***you shall sleep in sorrows*** (Isa 50:11), that sinners are sorrowful in death:  
+
+first, because of the loss of bodily things: *the rich man when he shall sleep shall take away nothing with him* (Job 27:19);  
+
+second, because of the contradiction of their conscience: *repenting, and groaning for anguish of spirit* (Wis 5:3);  
+
+third, because of the despair of future glory: *the crown is fallen from our head: woe to us, because we have sinned* (Lam 5:16);  
+
+fourth, because of the fear of punishment: *there were pains as of a woman in labor* (Ps 47:7–8[48:6–7]).

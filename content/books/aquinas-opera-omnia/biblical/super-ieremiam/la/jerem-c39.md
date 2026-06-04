@@ -1,91 +1,121 @@
-# C. 39 - The capture of Jerusalem
+# C. 37 - Jeremiah falsely suspected
 
-***^39:1^ Anno nono Sedeciae regis Juda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus ejus, ad Jerusalem, et obsidebant eam.***
+***^37:1^ Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem constituit regem Nabuchodonosor rex Babylonis in terra Juda.***
 
-> ^39:2^ Undecimo autem anno Sedeciae, mense quarto, quinta mensis, aperta est civitas,
+> ^37:2^ Et non obedivit ipse, et servi ejus, et populus terrae verbis Domini quae locutus est in manu Jeremiae prophetae.
 
-> ^39:3^ et ingressi sunt omnes principes regis Babylonis, et sederunt in porta media: Neregel, Sereser, Semegarnabu, Sarsachim, Rabsares, Neregel, Sereser, Rebmag, et omnes reliqui principes regis Babylonis.
+> ^37:3^ Et misit rex Sedecias Juchal filium Selemiae, et Sophoniam filium Maasiae sacerdotem ad Jeremiam prophetam, dicens: ora pro nobis Dominum Deum nostrum.
 
-> ^39:4^ Cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores; fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros, et egressi sunt ad viam deserti.
+> ^37:4^ Jeremias autem libere ambulabat in medio populi : non enim miserant eum in custodiam carceris. Igitur exercitus Pharaonis egressus est de Aegypto: et audientes Chaldaei qui obsidebant Jerusalem, hujuscemodi nuntium, recesserunt ab Jerusalem.
 
-> ^39:5^ Persecutus est autem eos exercitus Chaldaeorum et comprehenderunt Sedeciam in campo solitudinis Jerichontinae, et captum adduxerunt ad Nabuchodonosor regem Babylonis in Reblatha, quae est in terra Emath: et locutus est ad eum judicia.
+> **196**. Hic ostenditur contradictio ex prophetae persecutione:
 
-> ^39:6^ Et occidit rex Babylonis filios Sedeciae in Reblatha in oculis ejus, et omnes nobiles Juda occidit rex Babylonis.
+et primo ponitur persecutio ipsius propter falsam suspicionem;  
 
-> ^39:7^ Oculos quoque Sedeciae eruit, et vinxit eum compedibus, ut duceretur in Babylonem.
-
-> ^39:8^ Domum quoque regis, et domum vulgi succenderunt Chaldaei igni et murum Jerusalem subverterunt.
-
-> ^39:9^ Et reliquias populi qui remanserant in civitate, et profugas qui transfugerant ad eum, et superfluos vulgi qui remanserant, transtulit Nabuzardan magister militum in Babylonem.
-
-> **204**. Hic ponitur instructio reliquiarum populi, post ipsius populi captivitatem. Et dividitur in tres partes.
-
-In prima ponitur captivatio;  
-
-in secunda reliquiarum conservatio, cap. 40: ***sermo qui factus est ad Jeremiam a Domino***;  
-
-tertio reliquiarum instructio, cap. 42: ***et accesserunt omnes principes bellatorum***.  
-
-Circa primum duo.  
-
-Primo ponitur populi captivatio;  
-
-secundo quorumdam liberatio, ibi, ***et de plebe pauperum qui nihil penitus habebant***.  
+secundo propter veram praedicationem, cap. 38: ***audivit autem Saphatias filius Mathan***.Here, the Parma edition reads *Mahan*, in place of *Mathan*.  
 
 Circa primum tria.  
 
-Primo ponit obsidionem, ***et obsidebant***. Isa. 29: *circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidionem tuam*.  
+Primo ponit suspicionis occasionem;  
 
-Secundo ponit captionem urbis: ***undecimo anno, mense quarto***, scilicet Julio. Tamen combusta est mense quinto, septima die mensis: sicut habetur 2 Reg. ult.: *quinta mensis*. Contra 2 Reg. ult. dicitur, quod nona mensis. Et potuit esse quod quinta die coeperunt homines fugere prae fame; et nona, civitas aperta est, custodibus ablatis. Et quia primo ceperunt antemurale; et tunc habebant urbem quasi captam; et postea ceperunt urbem:  
+secundo ponit suspicionem, ibi, ***cumque pervenisset ad portam Beniamin***;  
 
-unde sequitur: ***sederunt in porta media***, idest in medio duorum murorum; vel quae erat inter duas portas ex eadem parte civitatis. Supra 1: ***ponet unusquisque solium suum in introitu portarum Jerusalem, et super muros ejus in circuitu, et super universas urbes Juda***.  
+tertio persecutionem, ibi, ***et apprehendit Jeremiam prophetam***.  
 
-Ponit etiam captionem regis designans fugam: ***cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores, fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros***, qui conjungebantur muro civitatis juxta domum regis, et cingebant hortum regium, inter quos erat et via, et porta secundum aequidistantiam ab utroque. Thren. 1: *facti sunt principes ejus velut arietes non invenientes pascua, abierunt absque fortitudine ante faciem subsequentis*.  
+Circa primum duo.  
 
-Et subjungit captionem: ***persecutus est autem eos exercitus Chaldaeorum***. Thren. 4: *velociores fuerunt persecutores nostri aquilis caeli*.  
+Primo ponitur occasio sumpta ex prophetae verbo;  
 
-Tertio ponit captorum condemnationem:  
+secundo occasio sumpta ex ipsius facto, ibi: ***cumque pervenisset*** etc.  
 
-et primo regis, et principum, in occisionem, ***et captum***, regem, ***adduxerunt ad Nabuchodonosor***, scilicet in sententiae pronuntiationem: ***et locutus est ad eum judicia***. Ezech. 10: *judicabo te judiciis adulterarum, et effundentium sanguinem*.  
+Circa primum duo.  
 
-Et executionem sententiae principum, ***et occidit***. Sap. 6: *potentes potenter tormenta patientur*.  
+Primo ponitur consultatio;  
 
-Et oculorum caecitatem: ***oculos quoque Sedeciae eruit . . . ut duceretur in Babylonem***. 4 Reg. 25, idem.  
+secundo ponitur prophetae displicens illis responsio, ibi, ***et factum est verbum Domini ad Jeremiam***.  
 
-Secundo condemnationem urbis in destructionem: ***domum quoque regis, et domum vulgi succenderunt Chaldaei igni***. Thren. 2: *praecipitavit omnia moenia ejus dissipavit munitiones ejus*.  
+Circa primum tria.  
 
-Tertio condemnationem plebis in transmigrationem: ***et reliquias populi transtulit Nabuzardan magister militum in Babylonem***. Baruch. 4: *delicati mei ambulaverunt vias asperas: ducti sunt enim ut grex directus ab inimicis*.  
+Primo describit consultantium conditionem: ***quem constituit regem Nabuchodonosor***: 1 Reg. 24.  
+
+***Et non obedivit***, ut tributum regi Babylonis solveret, et a peccatis cessaret. Matth. 22: *reddite quae sunt Caesaris Caesari, et quae sunt Dei, Deo. **Servi***, familiares, ***populus***. Eccli. 10: *secundum judicem populi, sic et ministri ejus, et qualis rector est civitatis, tales et inhabitantes in ea*.  
+
+Secundo ponitur consultatio: ***et misit rex . . . dicens: ora pro nobis***, ut indicet nobis quid agere debeamus ut ab hostibus liberemur. Isa. 37: *leva ergo orationem pro reliquiis quae repertae sunt*.  
+
+Tertio ponitur consultantis ratio: fiduciam enim sumpserant ex prophetae libertate, quem nondum afflixerant: ***Jeremias autem ambulabat in medio populi***: et ex obsidionis solutione: ***igitur exercitus Pharaonis egressus est de Aegypto***: exiverat enim rex Aegypti ut liberaret Judaeos. Quo devicto tamen exercitus rediit. Isa. 36: *ecce confidis super baculum arundineum confractum istum: super Aegyptum*, etc.  
 
 Lectio 2  
 
-***^39:10^ Et de plebe pauperum qui nihil penitus habebant dimisit Nabuzardan magister militae in terra Juda, et dedit eis vineas, et cisternas in die illa.***
+***^37:5^ Et factum est verbum Domini ad Jeremiam prophetam, dicens:***
 
-> ^39:11^ Praeceperat autem Nabuchodonosor rex Babylonis de Jeremia, Nabuzardan magistro militum, dicens:
+> ^37:6^ haec dicit Dominus Deus Israel: sic dicetis regi Juda, qui misit vos ad me interrogandum: ecce exercitus Pharaonis, qui egressus est vobis in auxilium, revertetur in terram suam in Aegyptum,
 
-> ^39:12^ tolle illum, et pone super eum oculos tuos, nihilque ei mali facias: sed ut voluerit sic facies ei.
+> ^37:7^ et redient Chaldaei, et bellabunt contra civitatem hanc, et capient eam, et succendent eam igni.
 
-> ^39:13^ Misit ergo Nabuzardan princeps militiae, et Nabusezban, et Rabsares, et Neregel, et Sereser, et Rebmag, et omnes optimates regis Babylonis,
+> ^37:8^ Haec dicit Dominus: nolite decipere animas vestras, dicentes: euntes abibunt, et recedent a nobis Chaldaei; quia non abibunt.
 
-> ^39:14^ miserunt, et tulerunt Jeremiam de vestibulo carceris, et tradiderunt eum Godoliae filio Ahicam filii Saphan ut intraret in domum, et habitaret in populo.
+> ^37:9^ Sed et si percusseritis omnem exercitum Chaldaeorum, qui praeliantur, adversum vos, et derelicti fuerint ex eis aliqui vulnerati; singuli de tentorio suo consurgent, et incendent civitatem hanc igni.
 
-> ^39:15^ Ad Jeremiam autem factus fuerat sermo Domini, cum clausus esset in vestibulo carceris, dicens:
+> **197**. Hic ponitur prophetae responsio.
 
-> ^39:16^ vade, et dic Abdemelech Aethiopi, dicens: haec dicit Dominus exercituum Deus Israel: ecce ego inducam sermones meos super civitatem hanc in malum, et non in bonum: et erunt in conspectu tuo in die illa.
+Et primo excludit Aegyptiorum auxilium: ***ecce exercitus Pharaonis***. Isa. 30: *Aegyptus frustra et vane auxiliabitur*.  
 
-> ^39:17^ Et liberabo te in die illa, ait Dominus: et non traderis in manus virorum quos tu formidas,
+Secundo praedicit Chaldaeorum reditum: ***et redient Chaldaei***.  
 
-> ^39:18^ sed eruens liberabo te; et gladio non cades, sed erit tibi anima tua in salutem, quia in me habuisti fiduciam, ait Dominus.
+***Nolite decipere***, falsa spe. Thren. 1: *vocavi amicos meos, et ipsi deceperunt me*.  
 
-> **205**. Hic ponit quorumdam liberationem.
+Tertio excludit impedimentum: ***sed si percusseritis***. Deut. 32: *quomodo persequebatur unus mille, et duo fugabant decem millia? Nonne ideo quia Dominus Deus tuus vendidit eos et Dominus conclusit illos?*  
 
-Primo ***pauperum qui nihil penitus habebant . . . et dedit eis vineas, et cisternas***, quia terra penuriam in aquis patitur. Supra 5: ***verumtamen in diebus illis, ait Dominus, non faciam vos in consummationem***.  
+Lectio 3  
 
-Secundo liberationem justorum.  
+***^37:10^ Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem propter exercitum Pharaonis,***
 
-Primo prophetae, ponens jussionem: ***praeceperat***, et executionem: ***misit ergo in domum***, suam. Proverb. 11: *justus de angustia liberatus est et tradetur impius pro eo*. Ibid. 10: *quod timet impius, veniet super eum, desiderium suum justis dabitur*. Et cap. 16: *cum placuerint Domino viae hominis, etiam inimicos ejus convertet ad pacem*.  
+> ^37:11^ egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et divideret ibi possessionem in conspectu civium.
 
-Secundo liberationem eunuchi: ***ad Jeremiam autem factus fuerat sermo Domini***.  
+> **198**. Hic ponit occasionem sumptam ex facto: ***et divideret ibi possessionem***, quam emerat: idest distingueret ab aliis agris: vel distribueret aliis, ut ipse sine solicitudine remaneret. 2 Corinth. 6: *tamquam nihil habentes, et omnia possidentes*.
 
-Et primo promittit liberationem ab hostium dominio: ***et non traderis***. Sap. 10: *custodivit illum ab inimicis, et a seductoribus tutavit illum*.  
+Lectio 4  
 
-Secundo ab occisionis gladio: ***et gladio non cades***. Psal. 90: *cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit*. Supra 17: ***benedictus vir qui confidit in Domino, et erit Dominus fiducia ejus***. Eccl. 2: *crede Deo, et recuperabit te, et dirige viam tuam, et spera in illum*.
+***^37:12a^ Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices, nomine Jerias filius Selemiae filii Hananiae.***
+
+> **199**. Hic ponitur falsa suspicio. Psalm. 26: *insurrexerunt in me testes iniqui, et mentita est iniquitas sibi*.
+
+Lectio 5  
+
+***^37:12b^ Et apprehendit Jeremiam prophetam, dicens: ad Chaldaeos profugis?***
+
+> ^37:13^ Et respondit Jeremias: falsum est, non fugio ad Chaldaeos. Et non audivit eum, sed comprehendit Jerias Jeremiam, et adduxit eum ad principes.
+
+> ^37:14^ Quamobrem irati principes contra Jeremiam, caesum eum miserunt in carcerem qui erat in domo Jonathan scribae: ipse enim praepositus erat super carcerem.
+
+> ^37:15^ Itaque ingressus est Jeremias in domum laci, et in ergastulum et sedit ibi Jeremias diebus multis.
+
+> ^37:16^ Mittens autem Sedecias rex tulit eum, et interrogavit eum in domo sua abscondite, et dixit: putasne est sermo a Domino? Et dixit Jeremias: est; et ait: in manus regis Babylonis traderis.
+
+> ^37:17^ Et dixit Jeremias, ad regem Sedeciam: quid peccavi tibi, et servis tuis, et populo tuo, quia misisti me in domum carceris?
+
+> ^37:18^ Ubi sunt prophetae vestri, qui prophetabant vobis, et dicebant: non veniet rex Babylonis super vos; et super terram hanc?
+
+> ^37:19^ Nunc ergo audi, obsecro, domine mi rex: valeat deprecatio mea in conspectu tuo, et ne me remittas in domum Jonathan scribae, ne moriar ibi.
+
+> ^37:20^ Praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento, donec consumerentur omnes panes de civitate. Et mansit Jeremias in vestibulo carceris.
+
+> **200**. Hic ponitur persecutio in tribus.
+
+In captione. Thren. 3: *venatione ceperunt*.  
+
+In flagellatione, ***caesum***. Simile Act. 8: Hebr. 11: *ludibria, et verbera experti*.  
+
+Et in carceratione: ***itaque ingressus est Jeremias in domum laci***. Psal. 87: *aestimatus sum cum descendentibus in lacum. **Ergastulum***, et est proprie carcer in quo damnatur quis ad aliquod opus.  
+
+Secundo ponitur liberatio, ***mittens***; et circa hoc tria.  
+
+Primo ponitur liberationis occasio, ponens regis interrogationem: ***putasne est sermo a Domino?*** scilicet praenuntians futura, tibi revelatus. Isa. 8: *numquid non populus a Deo suo requirit visionem pro vivis ac mortuis?* Et ponit responsionem: ***et dixit Jeremias***. 3 Reg. 14: *ego autem missus sum ad te durus nuntius*.  
+
+Secundo ponitur liberationis petitio: ***et dixit Jeremias ad regem***: ubi monstrat injustam poenam; ***quid peccavi?*** Job 6: *non invenietis in lingua mea iniquitatem, nec in faucibus meis stultitia personabit*.  
+
+Excusat impositam culpam: ***ubi sunt prophetae vestri?*** quasi dicat: patet eorum falsitas, et mea veritas. Jam enim exercitus Chaldaeorum reversus erat, quem illi reversurum negaverant. Supra 28: ***propheta, qui vaticinatus est pacem, cum venerit verbum ejus, tunc scietur propheta quem misit Dominus in veritate***.  
+
+Et petit misericordiam: ***nunc ergo audi, obsecro***. Proverb. 15: *responsio mollis frangit iram, sermo durus suscitat furorem*. Eccli. 6: *verbum dulce multiplicat amicos, et mitigat inimicos; et lingua eucharis in bono homine abundabit*.  
+
+Tertio ponitur petitionis impetratio: ***praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo carceris, et daretur ei torta panis quotidie, excepto pulmento***, quod addi noluit, ***vestibulo***, idest atrio.

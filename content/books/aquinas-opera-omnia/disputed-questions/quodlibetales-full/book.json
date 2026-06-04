@@ -38,35 +38,21 @@
       },
       "children": [
         {
-          "id": "p1-qi-01",
-          "title": {
-            "en-US": "QI",
-            "la": "QI"
-          }
-        },
-        {
-          "id": "p1-qi-s1",
-          "title": {
-            "en-US": "QI.S1",
-            "la": "QI.S1"
-          }
-        },
-        {
-          "id": "p1-qi-on-god",
+          "id": "p1-qi-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p1-qi-on-angels",
+          "id": "p1-qi-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p1-qi-on-man",
+          "id": "p1-qi-c03",
           "title": {
             "en-US": "On Man",
             "la": "On Man"
@@ -82,35 +68,21 @@
       },
       "children": [
         {
-          "id": "p2-qii-01",
-          "title": {
-            "en-US": "QII",
-            "la": "QII"
-          }
-        },
-        {
-          "id": "p2-qii-s1",
-          "title": {
-            "en-US": "QII.S1",
-            "la": "QII.S1"
-          }
-        },
-        {
-          "id": "p2-qii-on-christ",
+          "id": "p2-qii-c01",
           "title": {
             "en-US": "On Christ",
             "la": "On Christ"
           }
         },
         {
-          "id": "p2-qii-on-angels",
+          "id": "p2-qii-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p2-qii-on-man",
+          "id": "p2-qii-c03",
           "title": {
             "en-US": "On Man",
             "la": "On Man"
@@ -126,42 +98,28 @@
       },
       "children": [
         {
-          "id": "p3-qiii-01",
-          "title": {
-            "en-US": "QIII",
-            "la": "QIII"
-          }
-        },
-        {
-          "id": "p3-qiii-s1",
-          "title": {
-            "en-US": "QIII.S1",
-            "la": "QIII.S1"
-          }
-        },
-        {
-          "id": "p3-qiii-on-god",
+          "id": "p3-qiii-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p3-qiii-on-angels",
+          "id": "p3-qiii-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p3-qiii-on-men",
+          "id": "p3-qiii-c03",
           "title": {
             "en-US": "On Men",
             "la": "On Men"
           }
         },
         {
-          "id": "p3-qiii-on-a-purely-bodily-creature",
+          "id": "p3-qiii-c04",
           "title": {
             "en-US": "On a Purely Bodily Creature",
             "la": "On a Purely Bodily Creature"
@@ -177,28 +135,14 @@
       },
       "children": [
         {
-          "id": "p4-qiv-01",
-          "title": {
-            "en-US": "QIV",
-            "la": "QIV"
-          }
-        },
-        {
-          "id": "p4-qiv-s1",
-          "title": {
-            "en-US": "QIV.S1",
-            "la": "QIV.S1"
-          }
-        },
-        {
-          "id": "p4-qiv-on-divine-things",
+          "id": "p4-qiv-c01",
           "title": {
             "en-US": "On Divine Things",
             "la": "On Divine Things"
           }
         },
         {
-          "id": "p4-qiv-on-human-things",
+          "id": "p4-qiv-c02",
           "title": {
             "en-US": "On Human Things",
             "la": "On Human Things"
@@ -214,35 +158,21 @@
       },
       "children": [
         {
-          "id": "p5-qv-01",
-          "title": {
-            "en-US": "QV",
-            "la": "QV"
-          }
-        },
-        {
-          "id": "p5-qv-s1",
-          "title": {
-            "en-US": "QV.S1",
-            "la": "QV.S1"
-          }
-        },
-        {
-          "id": "p5-qv-on-god",
+          "id": "p5-qv-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p5-qv-on-angels",
+          "id": "p5-qv-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p5-qv-on-men",
+          "id": "p5-qv-c03",
           "title": {
             "en-US": "On Men",
             "la": "On Men"
@@ -258,42 +188,28 @@
       },
       "children": [
         {
-          "id": "p6-qvi-01",
-          "title": {
-            "en-US": "QVI",
-            "la": "QVI"
-          }
-        },
-        {
-          "id": "p6-qvi-s1",
-          "title": {
-            "en-US": "QVI.S1",
-            "la": "QVI.S1"
-          }
-        },
-        {
-          "id": "p6-qvi-on-god",
+          "id": "p6-qvi-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p6-qvi-on-angels",
+          "id": "p6-qvi-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p6-qvi-on-man",
+          "id": "p6-qvi-c03",
           "title": {
             "en-US": "On Man",
             "la": "On Man"
           }
         },
         {
-          "id": "p6-qvi-on-a-purely-bodily-creature",
+          "id": "p6-qvi-c04",
           "title": {
             "en-US": "On a Purely Bodily Creature",
             "la": "On a Purely Bodily Creature"
@@ -309,49 +225,35 @@
       },
       "children": [
         {
-          "id": "p7-qvii-01",
-          "title": {
-            "en-US": "QVII",
-            "la": "QVII"
-          }
-        },
-        {
-          "id": "p7-qvii-s1",
-          "title": {
-            "en-US": "QVII.S1",
-            "la": "QVII.S1"
-          }
-        },
-        {
-          "id": "p7-qvii-about-spiritual-substances",
+          "id": "p7-qvii-c01",
           "title": {
             "en-US": "About Spiritual Substances",
             "la": "About Spiritual Substances"
           }
         },
         {
-          "id": "p7-qvii-on-the-sacrament-of-the-altar",
+          "id": "p7-qvii-c02",
           "title": {
             "en-US": "On the Sacrament of the Altar",
             "la": "On the Sacrament of the Altar"
           }
         },
         {
-          "id": "p7-qvii-on-the-bodies-of-the-damned",
+          "id": "p7-qvii-c03",
           "title": {
             "en-US": "On the Bodies of the Damned",
             "la": "On the Bodies of the Damned"
           }
         },
         {
-          "id": "p7-qvii-on-sacred-scripture",
+          "id": "p7-qvii-c04",
           "title": {
             "en-US": "On Sacred Scripture",
             "la": "On Sacred Scripture"
           }
         },
         {
-          "id": "p7-qvii-on-manual-work",
+          "id": "p7-qvii-c05",
           "title": {
             "en-US": "On Manual Work",
             "la": "On Manual Work"
@@ -367,35 +269,21 @@
       },
       "children": [
         {
-          "id": "p8-qviii-01",
-          "title": {
-            "en-US": "QVIII",
-            "la": "QVIII"
-          }
-        },
-        {
-          "id": "p8-qviii-s1",
-          "title": {
-            "en-US": "QVIII.S1",
-            "la": "QVIII.S1"
-          }
-        },
-        {
-          "id": "p8-qviii-on-things-pertaining-to-nature",
+          "id": "p8-qviii-c01",
           "title": {
             "en-US": "On Things Pertaining to Nature",
             "la": "On Things Pertaining to Nature"
           }
         },
         {
-          "id": "p8-qviii-on-things-pertaining-to-grace-and-fault",
+          "id": "p8-qviii-c02",
           "title": {
             "en-US": "On Things Pertaining to Grace and Fault",
             "la": "On Things Pertaining to Grace and Fault"
           }
         },
         {
-          "id": "p8-qviii-on-things-pertaining-to-punishment-and-glory",
+          "id": "p8-qviii-c03",
           "title": {
             "en-US": "On Things Pertaining to Punishment and Glory",
             "la": "On Things Pertaining to Punishment and Glory"
@@ -411,28 +299,14 @@
       },
       "children": [
         {
-          "id": "p9-qix-01",
-          "title": {
-            "en-US": "QIX",
-            "la": "QIX"
-          }
-        },
-        {
-          "id": "p9-qix-s1",
-          "title": {
-            "en-US": "QIX.S1",
-            "la": "QIX.S1"
-          }
-        },
-        {
-          "id": "p9-qix-on-christ",
+          "id": "p9-qix-c01",
           "title": {
             "en-US": "On Christ",
             "la": "On Christ"
           }
         },
         {
-          "id": "p9-qix-on-the-members-of-christ",
+          "id": "p9-qix-c02",
           "title": {
             "en-US": "On the Members of Christ",
             "la": "On the Members of Christ"
@@ -448,35 +322,21 @@
       },
       "children": [
         {
-          "id": "p10-qx-01",
-          "title": {
-            "en-US": "QX",
-            "la": "QX"
-          }
-        },
-        {
-          "id": "p10-qx-s1",
-          "title": {
-            "en-US": "QX.S1",
-            "la": "QX.S1"
-          }
-        },
-        {
-          "id": "p10-qx-on-god",
+          "id": "p10-qx-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p10-qx-on-an-angel",
+          "id": "p10-qx-c02",
           "title": {
             "en-US": "On an Angel",
             "la": "On an Angel"
           }
         },
         {
-          "id": "p10-qx-on-the-soul",
+          "id": "p10-qx-c03",
           "title": {
             "en-US": "On the Soul",
             "la": "On the Soul"
@@ -492,35 +352,21 @@
       },
       "children": [
         {
-          "id": "p11-qxi-01",
-          "title": {
-            "en-US": "QXI",
-            "la": "QXI"
-          }
-        },
-        {
-          "id": "p11-qxi-s1",
-          "title": {
-            "en-US": "QXI.S1",
-            "la": "QXI.S1"
-          }
-        },
-        {
-          "id": "p11-qxi-on-god",
+          "id": "p11-qxi-c01",
           "title": {
             "en-US": "On God",
             "la": "On God"
           }
         },
         {
-          "id": "p11-qxi-on-angels",
+          "id": "p11-qxi-c02",
           "title": {
             "en-US": "On Angels",
             "la": "On Angels"
           }
         },
         {
-          "id": "p11-qxi-on-man",
+          "id": "p11-qxi-c03",
           "title": {
             "en-US": "On Man",
             "la": "On Man"
@@ -536,28 +382,14 @@
       },
       "children": [
         {
-          "id": "p12-qxii-01",
-          "title": {
-            "en-US": "QXII",
-            "la": "QXII"
-          }
-        },
-        {
-          "id": "p12-qxii-s1",
-          "title": {
-            "en-US": "QXII.S1",
-            "la": "QXII.S1"
-          }
-        },
-        {
-          "id": "p12-qxii-on-things-above-man",
+          "id": "p12-qxii-c01",
           "title": {
             "en-US": "On Things above Man",
             "la": "On Things above Man"
           }
         },
         {
-          "id": "p12-qxii-on-human-things",
+          "id": "p12-qxii-c02",
           "title": {
             "en-US": "On Human Things",
             "la": "On Human Things"

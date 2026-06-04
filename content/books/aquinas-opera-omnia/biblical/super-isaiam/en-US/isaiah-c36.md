@@ -1,111 +1,113 @@
-# Chapter 36
+# Chapter 34
 
-> ^36:2^ And the king of the Assyrians sent Rabsaces from Lachis to Jerusalem, to king Ezechias with a great army, and he stood by the conduit of the upper pool in the way of the fuller’s field.
+> ^34:2^ For the indignation of the Lord is upon all nations, and his fury upon all their armies: he has killed them, and delivered them to slaughter.
 
-> ^36:3^ And there went out to him Eliacim the son of Helcias, who was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder.
+> ^34:3^ Their slain shall be cast forth, and out of their carcasses shall rise a stink: the mountains shall be melted with their blood.
 
-> ^36:4^ And Rabsaces said to them: tell Ezechias: thus says the great king, the king of the Assyrians: what is this confidence wherein you trust?
+> ^34:4^ And all the host of the heavens shall pine away, and the heavens shall be folded together as a book: and all their host shall fall down as the leaf falls from the vine, and from the fig tree.
 
-> ^36:5^ Or with what counsel or strength dost you prepare for war? On whom dost you trust, that you are revolted from me?
+> ^34:5^ For my sword is inebriated in heaven: behold it shall come down upon Idumea, and upon the people of my slaughter unto judgment.
 
-> ^36:6^ Lo, you trust upon this broken staff of a reed, upon Egypt: upon which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him.
+> ^34:6^ The sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams full of marrow: for there is a victim of the Lord in Bosra and a great slaughter in the land of Edom.
 
-> ^36:7^ But if you will answer me: we trust in the Lord our God: is it not he whose high places and altars Ezechias has taken away, and has said to Judah and Jerusalem: you shall worship before this altar?
+> ^34:7^ And the unicorns shall go down with them, and the bulls with the mighty: their land shall be soaked with blood, and their ground with the fat of fat ones.
 
-> ^36:8^ And now deliver yourself up to my lord the king of the Assyrians, and I will give you two thousand horses, and you will not be able on your part to find riders for them.
+> ^34:8^ For it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Zion.
 
-> ^36:9^ And how will you stand against the face of the judge of one place, of the least of my master’s servants? But if you trust in Egypt, in chariots and in horsemen:
+> ^34:9^ And the streams thereof shall be turned into pitch, and the ground thereof into brimstone: and the land thereof shall become burning pitch.
 
-> ^36:10^ and am I now come up without the Lord against this land to destroy it? The Lord said to me: go up against this land, and destroy it.
+> ^34:10^ Night and day it shall not be quenched, the smoke thereof shall go up for ever: from generation to generation it shall lie waste, none shall pass through it for ever and ever.
 
-> ^36:11^ And Eliacim, and Sobna, and Joahe said to Rabsaces: speak to your servants in the Syrian tongue: for we understand it: speak not to us in the Jews’ language in the hearing of the people, that are upon the wall.
+> ^34:11^ The bittern and hedgehog shall possess it: and the ibis and the raven shall dwell in it: and a line shall be stretched out upon it, to bring it to nothing, and a plummet, unto desolation.
 
-> ^36:12^ And Rabsaces said to them: has my master sent me to your master and to you, to speak all these words; and not rather to the men that sit on the wall; that they may eat their own dung, and drink the urine of their feetVg.: *urinam pedum*. DR: “urine.” with you?
+> ^34:12^ The nobles thereof shall not be there: they shall call rather upon the king, and all the princes thereof shall be nothing.
 
-> ^36:13^ Then Rabsaces stood, and cried out with a loud voice in the Jews’ language, and said: hear the words of the great king, the king of the Assyrians.
+> ^34:13^ And thorns and nettles shall grow up in its houses, and the thistle in the fortresses thereof: and it shall be the habitation of dragons, and the pasture of ostriches.
 
-> ^36:14^ Thus says the king: let not Ezechias deceive you, for he shall not be able to deliver you.
+> ^34:14^ And demons and onocentaurs*Onocentauris*. DR: “monsters.” shall meet, and the hairy ones shall cry out one to another, there has the lamia lain down, and found rest for herself.
 
-> ^36:15^ And let not Ezechias make you trust in the Lord, saying: the Lord will surely deliver us, and this city shall not be given into the hands of the king of the Assyrians.
+> ^34:15^ There has the hedgehog had its hole, and brought up its young ones, and has dug round about, and cherished them in the shadow thereof: thither are the kites gathered together one to another.
 
-> ^36:16^ Do not hearken to Ezechias: for thus said the king of the Assyrians: make a blessing with me,*Facite mecum benedictionem*. DR: “do with me that which is for your advantage.” and come out to me, and eat every one of his vine, and every one of his fig tree, and drink every one the water of his cistern,
+> ^34:16^ Search diligently in the book of the Lord, and read: not one of them was wanting, one has not sought for the other: for that which proceeds out of my mouth, he has commanded, and his spirit it has gathered them.
 
-> ^36:17^ till I come and take you away to a land, like to your own, a land of corn and of wine, a land of bread and vineyards.
+> ^34:17^ And he has cast the lot for them, and his hand has divided it to them by line: they shall possess it for ever, from generation to generation they shall dwell therein.
 
-> ^36:18^ Neither let Ezechias trouble you, saying: the Lord will deliver us. Have any of the gods of the nations delivered their land out of the hand of the king of the Assyrians?
+> **734**. ***Come near, you Gentiles***. In this part, he threatens those who were assistants to the Assyrians,
 
-> ^36:19^ Where is the god of Emath and of Arphad? Where is the god of Sepharvaim? Have they delivered Samaria out of my hand?
+and first, he threatens all of them together;  
 
-> ^36:20^ Who is there among all the gods of these lands, that has delivered his country out of my hand, that the Lord may deliver Jerusalem out of my hand?
-
-> ^36:21^ And they held their peace, and answered him not a word. For the king had commanded, saying: answer him not.
-
-> ^36:22^ And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in to Ezechias with their garments rent, and told him the words of Rabsaces.
-
-> **750**. ***And it came to pass in the fourteenth year***. Here he recounts, in the manner of a history, the destruction of the Assyrians.
-
-And first, he sets out the deeds of the history;  
-
-second, certain things occasioned by the history: ***in those days Ezechias was sick even to death*** (ch. 38).  
-
-The first of these is divided into two parts:  
-
-first, the fault which Assyria committed against the Jews is set out;  
-
-second, the punishment which they sustained from God, where it says, ***and the angel of the Lord went out*** (Isa 37:36).  
-
-Now, Assyria offended Israel in three ways:  
-
-first, by wars;  
-
-second, by messengers: ***and the king of the Assyrians sent Rabsaces*** (Isa 36:2);  
-
-third, by letters, where it says: ***and he heard say about Tharaca*** (Isa 37:9).  
-
-***Against all***: *he shall laugh at every strong hold* (Hab 1:10).  
-
-**751**. ***And the king of the Assyrians sent Rabsaces***. Here he shows how Assyria offended the Jews by threatening them through messengers.  
-
-And first, the meeting of the messengers is set out;  
-
-second, their discussion: ***and Rabsaces said to them*** (Isa 36:4);  
-
-third, their departure from each other: ***and Eliacim went in*** (Isa 36:22).  
+second, he threatens the Idumeans in particular, where it says, ***behold it shall come down upon Idumea*** (Isa 34:5).  
 
 Concerning the first, he does two things.  
 
-First, the messenger of the Assyrians is described: ***Rabsaces***, whom some say was the son of Isaiah, others a Samaritan; ***by the conduit***, about which, see above (Isa 7:3).  
+First, he stirs up attention, setting out the order of attention, so that those approaching might come near, those nearby might hear, and those who hear might listen, below: ***give ear, you islands, and hearken, you people from afar*** (Isa 49:1). And he sets out the universality of those called together: ***let the earth hear*; *and the world***, as to those of middle rank, using the container to signify what it contains; ***the fullness***, as to the great; ***every thing that comes forth of it***, as to the lowly: he shows that he is prepared to announce to all, not that all are able to hear: *the earth is the Lord’s and the fullness thereof* (Ps 23[24]:1).  
 
-Second, the messengers of the Jews are described: ***and there went out to him Eliacim***, who succeeded Sobna, who handed over the lower part of the city to the Assyrians, as above (Isa 22:15–25); ***Sobna***, not the one mentioned above; ***the recorder***, the secretary of the king, who committed deeds to writing for the king to remember—hence he is called *recorder* (*commentor*) from *comminiscor*.From *con* (= with) + *memini* (= remember).  
+**735**. Second, he sets out the threatening: ***for the indignation***, as to three things.  
 
-**752**. ***And Rabsaces said to them***. Here the discussion of the messengers is set out. And concerning this, he sets out two things:  
+First, as to the destruction of their people, setting out the indignation of the judge, namely, God: ***the indignation of the Lord***, above: ***this is the hand that is stretched out upon all nations*** (Isa 14:26); above: ***to destroy the nations unto nothing*** (Isa 30:28); the killing of men: ***he has killed them***, by his authority, ***he delivered them***, as if to say, he delivered them to others to be killed, as to executors: *behold I will deliver the men, every one into his neighbor’s hand* (Zech 11:6). And the throwing out of their corpses: ***their slain shall be cast forth***, without burial: *his stench shall ascend* (Joel 2:20).  
 
-first, the preamble of Rabsaces to the Jewish messengers;  
+Second, as to the end of their tyrants: ***the mountains***, that is, the tyrants, ***shall be melted with their blood***, that is, because of the fault of shedding blood, below: ***the mountains would melt away at your presence*** (Isa 64:1).  
 
-second, to the others, where it says, ***then Rabsaces stood*** (Isa 36:13).  
+Third, as to the destruction of their idols; and concerning this he does three things.  
 
-Concerning the first, he does three things.  
+**736**. And first, he shows that the help of idols will cease in wars: ***and all the host of the heavens***, namely, of the air, that is, the demons; or, literally, the spirits, which, according to the opinion of the gentiles, governed the stars, ***shall pine away***, above: ***the idols of Egypt shall be moved*** (Isa 19:1); and in counsels, namely, inasmuch as they divined from the stars; ***and the heavens shall be folded together***, that is: just as no one can read what is in a closed book, so they will not be able to foresee in the heavens the evils coming to them: *the heaven departed as a book folded up* (Rev 6:14).  
 
-First, the address of Rabsaces himself is set out, in which he intends to establish the weakness of Ezechias’s ability to resist, by excluding defense from the Egyptians: ***lo you trust upon this broken staff of a reed***, said mockingly, because there are many reeds in Egypt; he speaks the truth when he says that the Egyptians were like such reeds: *you have been a staff of a reed* (Ezek 29:6); but it is false that Ezechias trusted in them. And by excluding divine help: ***but if you will answer me: we trust in the Lord our God: is it not he whose high places and altars Ezechias has taken away?***; what Ezechias did for religion, Rabsaces perverts into sacrilege: *beware lest you offer your holocausts in every place that you shall see* (Deut 12:13). And by excluding their own strength: ***and now deliver yourself up***, as if to say: you have neither horses nor horsemen, that you might resist the armies of one prince, above: ***he has rejected the cities*** (Isa 33:8). He also establishes the power of Sennacherib to fight from divine command: ***but if you trust***, above: ***I will give him a charge against the people of my wrath*** (Isa 10:6).  
+Second, he shows that worship of idols will cease: ***and all their host shall fall down***, or the ease with which these prophecies will be fulfilled: *the stars from heaven fell upon the earth* (Rev 6:13).  
 
-Second, the response of the others is set out: ***and Eliacim, and Sobna, and Joahe said to Rabsaces*. *In the hearing of the people***, lest they be troubled, knowing what is said: *in the blessing*Benedictione*. Vg.: *bonis*. of the just, the city shall rejoice* (Prov 11:10).  
+Third, he shows the effect of both: ***for my sword***, that is, my vengeance, ***is inebriated in heaven***, that is, I have carried out vengeance on the demons abundantly: *I will make my arrows drunk with blood, and my sword shall devour flesh* (Deut 32:42).  
 
-Third, Rabsaces’s mockery of their response is set out: ***and Rabsaces said to them*; *urine of their feet***, which flowed at their feet: *they that were brought up in scarlet have embraced the dung* (Lam 4:5).  
+**737**. ***Behold it shall come down upon Idumea***. Here he threatens the Idumeans in particular, who came with the enemies against Jerusalem, as it says in Obadiah 1:11: *when strangers carried away his army captive*. And concerning this, he does three things:  
 
-**753**. ***Then Rabsaces stood, and cried out with a loud voice in the Jews’ language***. Here his address to the people is set out.  
+first, he threatens the slaughter of their men;  
 
-And first, his foolish words are set out, in which he frightens them with threats: ***he shall not be able to deliver you***: *who is this, that says the children of Israel can resist king Nabuchodonosor?* (Jdt 5:27). He allures them with promises: ***thus said the king*; *a blessing***, that is, a pact, which will be turned to your blessing, or: bless me as your lord. ***Till I come***, from Egypt, ***to a land***, namely, of the Medes: *God give you of the dew of heaven, and of the fatness of the earth, abundance of corn and wine* (Gen 27:28). And he provokes them by examples: ***neither let Ezechias trouble you***: *he shall be lifted up, and shall magnify himself* (Dan 11:36).  
+second, the destruction of their land: ***and the streams thereof shall be turned into pitch*** (Isa 34:9);  
 
-Second, he sets out the silence of the people who heard him: *he that deceives*Decipit*. Vg.: *despicit*. DR: “despiseth.” his friend, is mean of heart: but the wise man will hold his peace* (Prov 11:12); *answer not a fool according to his folly* (Prov 26:4); ***for the king had commanded, saying: answer him not***, lest he multiply words of blasphemy or deceive the people.  
+third, he sets out the confirmation of both of these threats, where it says, ***search*Respicite*. Vg.: *requirite*. diligently in the book of the Lord*** (Isa 34:16).  
 
-**754**. ***And Eliacim the son of Helcias, that was over the house, and Sobna the scribe, and Joahe the son of Asaph the recorder, went in***. Here the departure of the messengers from each other is set out.  
+**738**. Concerning the first, he does three things.  
 
-And first, the return of the Jews to Ezechias;  
+First, he describes the fairness of the punishment: ***behold it shall come down upon Idumea***, to crush them; ***the people of my slaughter***, deserving to be slaughtered by me: *I have brought the destruction of Esau upon him* (Jer 49:8).  
 
-second, the return of Rabsaces to Sennacherib, where it says, ***and Rabsaces returned*** (Isa 37:8).  
+Second, he describes the killing as to those of middle rank, setting out the diversity of those killed: ***the sword of the Lord is filled with blood, it is made thick with the blood of lambs and buck goats, with the blood of rams***, through all of which are to be understood the various ranks of those killed: *this is the sword of a great slaughter* (Ezek 21:14); and the magnitude of the killing: ***there is a victim of the Lord in Bosra and a great slaughter in the land of Edom***, that is, many animals are killed, as in a banquet of a great king: *I slay for you a great victim* (Ezek 39:17). And as to the great, setting out their killing: ***and the unicorns***, a fierce animal the size of a cat, with one horn, and thus it signifies the powerful and monarchs, ***shall go down***, into death, above: ***their strong ones, and their high and glorious ones shall go down into it*** (Isa 5:14); and the magnitude of the killing, ***their land shall be soaked with blood***: *the land was killed*Interfecta*. Vg.: *infecta*. DR: “polluted.” with blood* (Ps 105[106]:38).  
 
-Concerning the first, he does two things:  
+Third, he sets out the reason of the punishment: ***for it is the day of the vengeance of the Lord, the year of recompenses of the judgment of Zion***, namely, that Zion be vindicated against the Idumeans, below: ***the day of vengeance is in my heart, the year of my redemption is come*** (Isa 63:4); but, according to the Gloss: ***the judgment of Zion***, that is, against Zion; hence it explains everything that follows as concerning the destruction of Jerusalem by the Romans.  
 
-first, the return of the messengers and their renunciation of the blasphemy of Rabsaces is set out;  
+**739**. ***And the streams thereof shall be turned into pitch***. Here he sets out the threat as to the destruction of the land. And concerning this he does three things:  
 
-second, the prayer of Ezechias is set out: ***and it came to pass, when king Ezechias had heard it, that he rent his garments*** (Isa 37:1), because of the blasphemy he heard, because this was the custom of the Jews, as is seen in Matthew 26:65.
+first, he foretells the destruction;  
+
+second, the desolation of the destroyed land: ***it shall lie waste*** (Isa 34:10);  
+
+third, the horror of its desolation: ***and it shall be the habitation of dragons*** (Isa 34:13).  
+
+Concerning the first, he sets out two things:  
+
+first, the destruction: ***shall be turned into***, that is, the whole land shall be so burned up by their enemies, as if the water were pitch and the land brimstone: *fire and brimstone, and storms of winds* (Ps 10:7[11:6]).  
+
+Second, he places the duration of the punishment: ***it shall not be quenched***, that is, the effect of this fire will remain forever; ***smoke***, the sign and memory of preceding fire: *her smoke ascends for ever and ever* (Rev 19:3); and this is to be understood as being while the cause of the threat remains, namely, sin: for thus all prophecies of this sort are to be explained conditionally inasmuch as the Lord himself explains himself: *I will suddenly speak against a nation . . . If that nation against which I have spoken, shall repent of their evil, I also will repent of the evil that I have thought* (Jer 18:7–8).  
+
+**740**. ***It shall lie waste for ever and ever***. Here he sets out the desolation of the land,  
+
+and first, he foretells the desolation itself as to inhabitants: ***it shall lie waste***: *he has made me desolate* (Lam 1:13); as to travelers, ***none shall pass through it***: *no man shall abide there, nor son of man inhabit it* (Jer 49:33). As to the free habitation of beasts: ***the bittern***, which is the same as the pelican, ***shall possess it***, as if without fear, ***and the ibis***, a bird hostile to snakes:Cf. Herodotus 2.76; Pliny the Elder, *N.H*. 10.40; Isidore, *Etymologies* 12.7.33. “ibex, ibicis” is a four-footed beast; “ibis, ibidis” is a bird, and the ibis is envious: *the highest of them is the house of the heron . . . the rock is a refuge for the irchins* (Ps 103[104]:17–18).  
+
+Second, he sets out the fairness of the desolation,  
+
+and first, the judgment of fairness: ***and a line shall be stretched upon it***, the measure of the punishment against the measure of their fault, ***a plummet***, the rule of the stone-cutter, above: ***in measure against measure*** (Isa 27:8);  
+
+second, he sets out the manner of judgment: ***the nobles thereof***, in whom they boasted: *I will take away out of the midst of you your proud boasters* (Zeph 3:11). ***And thorns and nettles shall grow up in its houses***, which they built so carefully, ***and the thistle***,*Palliurus*. a kind of plant with many thorns, which sticks to cloaks,*Pallia*. having broad leaves: *nettles shall inherit their beloved silver, the bur shall be in their tabernacles* (Hos 9:6), so that *as much as she has glorified herself and lived in delicacies, so much torment shall she have* (Rev 18:7).  
+
+**741**. ***And it shall be the habitation of dragons***. Here he shows the horror of the desolation from the monsters which dwelt there: ***demons***, monsters of demons, which appear most in deserts; ***onocentaur***, which is half ass and half ox, or this is the illusion of a demon rather than a natural animal; ***the hairy ones***, an ape, or a wild man, or a demon incubus; ***lamia***, having the feet of a horse and the other members of a woman; cried out ***one to another***, above: ***wild beasts shall rest there*** (Isa 13:21).  
+
+**742**. ***Search***. Here he confirms all that was said by the authority of divine inspiration: ***search***, you who are to come, ***in the book of the Lord***, that is, in this book, which I learned from the Lord; ***not one of them was wanting***, that is, all the monsters I have named will be there; ***one has not sought for the other***, that is, the male for the female; ***his spirit it has gathered them***, namely, the monsters, male and female. ***And he has cast the lot for them***, distributing to each suitable places to stay: *heaven and earth shall pass away: but my words shall not pass away* (Luke 21:33). Or, if this is explained as concerning Judea, these various monsters are understood to be the various errors of the gentiles, who were placed there as colonists by the Romans.  
+
+**743**. Man comes near to God (see Isa 34:1),  
+
+through the reception of grace: *we have access through him* (Rom 5:2);  
+
+through the contemplation of divine wisdom: *come to God and be enlightened* (Ps 33:6[35:5]);  
+
+through the ministry of obedience: *the sons of Sadoc, who among the sons of Levi, come near to the Lord, to minister to him* (Ezek 40:6);  
+
+through the expectation of firm confidence: *come to her as one that ploughs, and sows* (Sir 6:19);  
+
+through the spirit of concord: *you have**Habetis*. Vg.: *habemus* DR: “we have.” *access in one Spirit to the Father* (Eph 2:18).

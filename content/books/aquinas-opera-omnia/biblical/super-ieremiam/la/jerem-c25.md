@@ -1,207 +1,271 @@
-# C. 25 - Threat against princes of all nations
+# C. 23 - Condemnation of false prophets
 
-***^25:1^ Verbum quod factum est ad Jeremiam de omni populo Juda in anno quarto Joakim filii Josiae regis Juda, ipse est annus primus Nabuchodonosor regis Babylonis.***
+***^23:1^ Vae pastoribus qui dispergunt et dilacerant gregem pascuae meae, dicit Dominus.***
 
-> ^25:2^ Et locutus est Jeremias propheta ad omnem populum Juda, et ad universos habitatores Jerusalem, dicens:
+> ^23:2a^ Ideo haec dicit Dominus Deus Israel ad pastores, qui pascunt populum meum: vos dispersistis gregem meum, et ejecistis eos, et non visitastis eos.
 
-> ^25:3^ a tertio decimo anno Josiae filii Ammon regis Juda usque ad diem hanc; ipse est tertius et vigesimus annus; factum est verbum Domini ad me, et locutus sum ad vos de nocte consurgens, et loquens; et non audistis.
+> **119**. Hic ponitur comminatio contra omnes principes in generali:
 
-> ^25:4^ Et misit Dominus ad vos omnes servos suos prophetas, consurgens diluculo, mittensque; et non audistis, neque inclinastis aures vestras, ut audiretis
+et primo ponitur comminatio contra malos principes;  
 
-> ^25:5^ cum diceret: revertimini unusquisque a via sua mala, et a pessimis cogitationibus vestris; et habitabitis in terra quam dedit Dominus vobis, et patribus vestris, a saeculo et usque in saeculum.
+secundo ponitur discretio bonorum a malis, ibi, ***ostendit mihi Dominus***, cap. 24.  
 
-> ^25:6^ Et nolite ire post deos alienos, ut serviatis eis, adoretisque eos, neque me ad iracundiam provocetis in operibus manuum vestrarum; et non affligam vos.
+Prima dividitur in duas.  
 
-> ^25:7^ Et non audistis me, dicit Dominus, ut me ad iracundiam provocaretis in operibus manuum vestrarum, in malum vestrum.
+Primo ponitur comminatio contra praeminentes in populo ex auctoritate regiminis, scilicet praelatos;  
 
-> **129**. Hic ponitur comminatio universalis contra omnium gentium principes: et dividitur in duas partes.
-
-In prima ponitur comminatio;  
-
-in secunda comminationis revelatio, ibi, ***quia sic dicit Dominus***, etc.  
+secundo contra praeeminentes in populo ex privilegio divinae revelationis, scilicet prophetas, ibi, ***ad prophetas: contritum est cor meum in medio mei***.  
 
 Circa primum duo.  
 
-Primo ponit prophetiae titulum: ***verbum quod factum est ad Jeremiam***, ex quo colligitur, quod prophetia praecedentem visionem tempore praecedit.  
+Primo arguit culpam;  
 
-Secundo ponitur comminationis prophetia, ibi, ***a tertio decimo anno Josiae***.  
+secundo comminatur poenam, ibi, ***ecce ego visitabo***.  
 
-Et primo assignat comminationis causam;  
+Circa primum duo.  
 
-secundo comminatur poenam, ibi, ***propterea haec dicit dominus exercituum***.  
+Primo ponitur populi dispersio: ***dispergunt***, expellendo de terra sua, ***dilacerant***, occidendo, vel spoliando; vel propter tyrannidem quam in eos exercebant; vel quia fuerunt occasio ut populus haec ab hostibus pateretur, dum in peccatis viventes, populum a peccatis non retrahebant. Infra 50: ***grex perditus factus est populus meus, pastores eorum seduxerunt eos, feceruntque vagari in montibus***.  
 
-Causam autem assignat ex inobedientia, propter quam ipsi aliis gentibus in poena connumerati sunt: quam aggravat ex tribus.  
-
-Primo ex parte ipsius prophetae praedicantis, quia in praedicatione continuus: ***a tertio decimo anno Josiae***, a quo usque ad finem vitae, et regni sui, cum regnaverit 31 annis sunt 18 anni, quibus additis quatuor anni Joakim, et tribus mensibus quibus regnavit Joathan, invenitur annus praedicationis Jeremiae quo haec gesta sunt, 23. ***De nocte consurgens***, ad modum ejus qui solicitus est ad explendum quodlibet opus. Prover. 6: *discurre, festina, suscita amicum tuum*, et cetera.  
-
-Secundo ex parte ipsius mittentis, qui ex multitudine nuntiorum invenitur solicitus: ***et misit dominus*** supra 7: ***misi ad vos omnes servos meos prophetas per diem, consurgens diluculo, et mittens: et non audierunt me***; et cetera. Ad designandam autem divinam solicitudinem, nominat ***diluculum***, nominat et ***noctem***, quia Deus luxit in tenebris. Hae sunt illae tenebrae, de quibus Joan. 3, dicitur quod Nicodemus venit ad Jesum nocte; et cetera.  
-
-Ex parte admonitionis, quae honesta est in se, utilis quantum ad promissam veniam.  
-
-Unde primo inducit poenam de malis praeteritis, ponens praeceptum: ***revertimini unusquisque a via sua mala***. Isa. 55: *derelinquat impius viam suam, et vir iniquus cogitationes suas, et revertatur ad dominum, et miserebitur eis, et ad Deum nostrum; quoniam multus est ad ignoscendum*. Et promissum: ***et habitabitis in terra***. Isa. 1: *si volueritis, et audieritis me, bona terrae comedetis*.  
-
-Secundo indicit cautelam pro malis futuris, ponens praeceptum: ***nolite ire post deos alienos***, quantum ad idolatriam, ***neque me ad iracundiam provocetis***, quantum ad peccata moris. Exod. 20: *non habebis deos alienos coram me* et cetera.  
-
-Et praecepti contemptum: ***et non audistis***. Deut. 32: *ipsi me provocaverunt in eo qui non erat Deus, et irritaverunt in vanitatibus suis*.  
+Secundo ponitur pastorum increpatio. ***Ideo haec dicit Dominus: ejecistis***, occasionaliter, vel propter tyrannidem. Ezech. 34: *cornibus vestris ventilabatis omnia infirma pecora: donec dispergerentur foras*.  
 
 Lectio 2  
 
-***^25:8^ Propterea haec dicit Dominus exercituum: pro eo quod non audistis verba mea,***
+***^23:2b^ Ecce ego visitabo super vos malitiam studiorum vestrorum, ait Dominus.***
 
-> ^25:9^ ecce ego mittam, et assumam universas cognationes aquilonis, ait Dominus, et Nabuchodonosor regem Babylonis servum meum, et adducam eos super terram istam, et super habitatores ejus, et super omnes nationes quae in circuitu illius sunt; et interficiam eos, et ponam eos in stuporem, et in sibilum et in solitudines sempiternas.
+> ^23:3^ Et ego congregabo reliquias gregis mei de omnibus terris, ad quas ejecero eos illuc, et convertam eos ad rura sua; et crescent, et multiplicabuntur.
 
-> ^25:10^ Perdamque ex eis vocem gaudii, et vocem laetitiae, vocem sponsi, et vocem sponsae, vocem molae, et lumen lucernae.
+> ^23:4^ Et suscitabo super eos pastores, et pascent eos. Non formidabunt ultra, et non pavebunt, et nullus quaeretur ex numero, dicit Dominus.
 
-> ^25:11^ Et erit universa terra ejus in solitudinem, et in stuporem; et servient omnes gentes istae regi Babylonis septuaginta annis.
+> ^23:5^ Ecce dies veniunt dicit Dominus; et suscitabo David germen justum, et regnabit rex, et sapiens erit, et faciet judicium et justitiam in terra.
 
-> ^25:12^ Cumque impleti fuerint septuaginta anni, visitabo super regem Babylonis, et super gentem illam, dicit Dominus, iniquitatem eorum, et super terram Chaldaeorum, et ponam illam in solitudines sempiternas.
+> ^23:6^ In diebus illis salvabitur Juda, et Israel habitabit confidenter. Et hoc est nomen quod vocabunt eum, Dominus justus noster.
 
-> ^25:13^ Et adducam super terram illam omnia verba mea quae locutus sum contra eam, omne quod scriptum est in libro isto, quaecumque prophetavit Jeremias adversum omnes gentes:
+> **120**. Hic comminatur poenam:
 
-> ^25:14^ quia servierunt eis cum essent gentes multae, et reges magni. Et reddam eis secundum opera eorum, et secundum facta manuum suarum.
+et primo ponitur contra pastores comminatio: ***visitabo***. Supra 21: ***visitabo super vos juxta fructum studiorum vestrorum***.  
 
-> **130**. Hic comminatur poenam:
+Secundo ponitur consolatio dispersi gregis, ***ego congregabo***: ubi primo ponit congregationem. Ezech. 34: *educam eas de populis, et congregabo eas de terris*, etc. Et status prosperitatem, ***et crescent***. Genes. 1: *crescite, et multiplicamini, et replete terram*.  
 
-et primo quam Babyloni inflixerunt, describens hostem: ***ecce ego mittam, et assumam . . . servum***, inquantum ministerium divinae voluntatis exercebat. Supra 6: ***ecce populos venit de terra aquilonis, gens magna consurgit a finibus terrae***. Et describens poenam imminentem quantum ad interfectionem hominum: ***et interficiam eos, et ponam eos in stuporem, et in sibilum, et in solitudines sempiternas***. Et quod nunquam reparentur, sed quasi ad similitudinem sempiternarum solitudinum redigantur. Supra 19: ***ponam urbem hanc in stuporem, et in sibilum. Omnis qui praeterierit per eam obstupescet, et sibilabit super universa plaga ejus***.  
+Secundo promittit eis praelatorum emendationem:  
 
-Et quantum ad cessationem humanorum officiorum in gaudiis, ***perdamque***, et in vitae commodis, ***vocem molae***. Supra 16: ***auferam de loco isto in oculis vestris, et in diebus vestris, vocem gaudii, et vocem laetitiae, vocem sponsi, et vocem sponsae***.  
+et primo promittit eis solicitos principes, ponens pastorum solicitudinem: ***et suscitabo***, quando jam in nihilum decideritis, ***pastores***, Esdram, et alios secundum quosdam. Sed melius apostolos. Supra 3: ***dabo vobis pastores juxta cor meum, et pascent vos scientia et doctrina***. Et solicitudinis utilitatem, scilicet securitatem: ***non formidabunt***, quantum ad signa timoris exterius, ***et non pavebunt***, interius, ***et nullus quaeretur ex numero***, quasi dicat: nullus de numero Ecclesiae timebit, vel deficiet ex negligentia apostolorum.  
 
-Et describens etiam poenam duriorem: ***et servient septuaginta annis***: tantum enim regnum Chaldaeorum duravit. Isa. 57: *non in perpetuum irascar, quia spiritus a facie mea egredietur*, etc.  
+Vel refertur ad numerum praedestinatorum. Joan. 17: *nemo ex eis periit nisi filius perditionis*. Ista tamen securitas non perficitur in vita ista, sed perficietur quando *perfecta caritas foras mittet timorem*: 1 Joan. 4, consummabitur autem in futuro.  
 
-Secundo ponit poenam quam Chaldaei sustinuerunt: ***cumque impleti fuerint septuaginta anni***.  
+Secundo promittit eis optimum regem, ostendens temporis congruitatem: ***ecce***, propter certitudinem, ***dies***, gratiae. 2 Corinth. 6: *ecce nunc tempus acceptabile, ecce nunc dies salutis*.  
 
-Et primo ponit comminationem, ***visitabo***. Apoc. 13: *qui in captivitatem duxerit, in captivitatem ibit, et qui gladio occiderit, oportet eum gladio occidi*.  
+Venientis regis conditionem quantum ad nobilitatem generis: ***et suscitabo David germen justum***. Infra 33: ***germinare faciam David germen justitiae, et faciet judicium, et justitiam in terra***. Quantum ad auctoritatem dignitatis: ***et regnabit rex***, non solum super Judaeos, sed etiam super omnes reges. Luc. 1: *et regnabit in domo Jacob in aeternum*. Dan. 7: *cujus regnum, regnum sempiternum est, et omnes reges servient ei, et obedient*. Quantum ad sapientiam cordis: ***et sapiens erit***, immo ipsa sapientia. Corinth. 1: *Christum Dei virtutem, et Dei sapientiam*. Et quantum ad executionem juris: ***et faciet judicium***, in primo adventu contra diabolum, qui dicebatur princeps mundi: Joan. 12: *nunc judicium est mundi, nunc princeps mundi hujus ejicietur foras*, scilicet in tenebras exteriores; in secundo vero contra omnes, puniendo per generalem sententiam. Joan. 5: *Pater non judicat quemquam, sed omne judicium dedit Filio*.  
 
-Secundo comminationis certitudinem: ***et adducam omnia quae locutus sum contra eam***. Isa. 13, 21, 46 et 47: ***prophetavit Jeremias***: infra 50 et 51:  
-
-***quia servierunt***; tamen ipsi in superbiam abusi sunt Dei beneficio.  
-
-Tertio ostendit poenae aequitatem: ***et reddam eis***. Psalm. 27: *secundum opera manuum eorum tribue illis, redde retributionem eorum ipsis, quoniam non intellexerunt opera Domini; et in opera manuum eorum destrues illos, et non aedificabis eos*.  
+***Et justitiam***, quam docuit servandam. Matth. 5: *nisi abundaverit justitia vestra plusquam scribarum et pharisaeorum, non intrabitis in regnum caelorum*. Et ad implendum auxilium gratiae: unde ponit adventus utilitatem, quantum ad salutem a poenalitate: ***in diebus illis salvabitur***: in primo adventu particulariter; in secundo adventu universaliter, quando omnis Israel salvus fiet: Rom. 11. Isa. 10: *si fuerit numerus filiorum Israel quasi arena maris, reliquiae convertentur ex eo*. Et quantum ad securitatem: ***et Israel habitabit confidenter***. Et hoc exponendum est ut supra. Isa. 32 *sedebit populus meus in pulchritudine pacis, in tabernaculis justitiae, et in requie opulenta. **Juda*** dicit, quantum ad duas tribus; ***Israel***, quantum ad decem, ad significandum quod in fide Christi concordes erunt. Oseae 1: *et ponent sibimet caput unum*, etc.  
 
 Lectio 3  
 
-***^25:15^ Quia sic dicit Dominus exercituum Deus Israel: sume calicem vini furoris hujus de manu mea, et propinabis de illo cunctis gentibus ad quas ego mittam te:***
+***^23:7^ Propter hoc ecce dies veniunt, dicit Dominus, et non dicent ultra: vivit Domnus, qui eduxit filios Israel de terra Aegypti;***
 
-> ^25:16^ et bibent, et turbabuntur, et insanient a facie gladii, quem ego mittam inter eos.
+> ^23:8^ sed, vivit Dominus, qui eduxit, et adduxit semen domus Israel de terra aquilonis, et de cunctis terris ad quas ejeceram eos illuc, et habitabunt in terra sua.
 
-> ^25:17^ Et accepi calicem de manu Domini, et propinavi cunctis gentibus ad quas misit me Dominus,
-
-> ^25:18^ Jerusalem, et civitatibus Juda, et regibus ejus, et principibus ejus, ut darem eos in solitudinem, et in stuporem, et in sibilum, et in maledictionem, sicut est dies ista.
-
-> ^25:19^ Pharaoni regi Aegypti, et servis ejus, et principibus ejus, et omni populo ejus,
-
-> ^25:20^ et universis generaliter cunctis regibus terrae Ausitidis, et cunctis regibus terrae Philisthiim, et Ascaloni, et Gazae, et Accaron, et reliquiis Azoti,
-
-> ^25:21^ et Idumaeae, et Moab et filiis Ammon,
-
-> ^25:22^ et cunctis regibus Tyri, et universis regibus Sidonis, et regibus terrae insularum qui sunt trans mare,
-
-> ^25:23^ et Dedan, et Thema, et Buz, et universis qui attonsi sunt in comam,
-
-> ^25:24^ et cunctis regibus Arabiae, et cunctis regibus occidentis qui habitant in deserto,
-
-> ^25:25^ et cunctis regibus Zambri, et cunctis regibus Elam, et cunctis regibus Medorum,
-
-> ^25:26^ cunctis quoque regibus aquilonis de prope, et de longe, unicuique contra fratrem suum, et in omnibus regnis terrae quae super faciem ejus sunt. Et rex Sesach bibet post eos.
-
-> **131**. Hic ponitur praedictae comminationis revelatio sub imaginaria visione:
-
-et primo ponit visionem;  
-
-secundo exponit, ibi, ***et tu prophetabis ad eos omnia verba haec***.  
-
-Circa primum duo.  
-
-Primo mittit eum ad propinandum;  
-
-secundo invitantur illi quibus propinabatur ad bibendum, ibi, ***et dices ad eos***.  
-
-Circa primum duo.  
-
-Primo Dominus porrigit poculum secundum quod sibi videbatur visione imaginaria: ***sume calicem vini***. Videbatur sibi quod Dominus extensa manu calicem sibi porrigeret. Per ***vinum*** signatur divina indignatio per ***calicem*** potestas tyrannorum, per quos haec indignatio in gentes diffundenda erat. ***Propinabis***, non quasi poenam infligens, sed quasi denuntians. Psal. 74: *calix in manu Domini vini meri plenus mixto*. Infra 51: ***calix aureus Babylon in manu Domini, inebrians omnem terram; de vino ejus biberunt gentes, et ideo commotae sunt***.  
-
-Secundo ponit potationis effectum: ***et bibent***, sustinendo afflictionem, ***turbabuntur***, interius timore, et dolore, ***insanient***, exterius, adinvicem pugnando more ebrii. Isa. 24: *amara erit potio bibentibus illam*.  
-
-Tertio propheta exequitur injunctum officium, ***et accepi***.  
-
-Et primo propinat Judaeis, ***Jerusalem***. Ezech. 9: *a sanctuario meo incipite*. 1 Petr. 4: *tempus est ut judicium incipiat a domo Dei*.  
-
-Secundo amicis adventitiis, incipiens ab Aegyptiis, de quibus confidebant: ***Pharaoni . . . Ausitidis***, quae alio nomine dicitur terra Hus, in confinio Idumaeae et Arabiae: ***et reliquiis***, hoc dicit pro Geth, quae est quinta civitas Philisthinorum: ***et omnibus regnis***. Isa. 14: *hoc est consilium quod cogitavi super omnem terram, et haec est manus extenta super universas gentes*.  
-
-Tertio ipsis Babylonis: ***et rex Sesach***, idest Babyloniae, quae Hebraice dicitur Babel. Unde ad occultandum nomen, transposuit vocales, et immutavit consonantes in eis conjunctas, secundum consuetudinem Haebraeorum, qui docent pueros primam litteram cum ultima retrogradiendo dicere, et secundam cum penultima, et sic deinceps. Unde pro duplici *beth*, quae est secunda littera apud Hebraeos posuit *sin*, bis, quae est penultima: et pro *lamed*, posuit *caph*, quae ei, secundum primam computationem, conjungitur. 1 Corinth. 15: *novissime inimica destruetur mors*.  
+> **121**. Hic ostendit beneficii magnitudinem ex hoc quod ob hoc beneficium oblivioni tradetur pristinum beneficium: et potest referri ad liberationem factam per Cyrum; vel melius ad liberationem factam per Christum. Isa. 43: *ne memineritis priorum, et antiqua ne intueamini*.
 
 Lectio 4  
 
-***^25:27^ Et dices ad eos: haec dicit Dominus exercituum Deus Israel: bibite, et inebriamini, et vomite, et cadite, neque surgatis a facie gladii quem ego mittam inter vos.***
+***^23:9^ Ad prophetas: contritum est cor meum in medio mei, contremuerunt omnia ossa mea. Factus sum quasi vir ebrius, et quasi homo madidus a vino, a facie Domini, et a facie verborum sanctorum ejus:***
 
-> ^25:28^ Cumque noluerint accipere calicem de manu tua ut bibant, dices ad eos: haec dicit Dominus exercituum: bibentes bibetis:
+> ^23:10^ quia adulteriis repleta est terra, quia a facie maledictionis luxit terra, arefacta sunt arva deserti: factus est cursus eorum malus, et fortitudo eorum dissimilis.
 
-> ^25:29^ quia ecce in civitate in qua invocatum est nomen meum, ego incipiam affligere; et vos quasi innocentes, et immunes eritis? Non eritis immunes. Gladium enim ego voco super omnes habitatores terrae, dicit Dominus exercituum.
+> **122**. Hic ponitur comminatio contra prophetas, sicut titulus ipse declarat:
 
-> **132**. Hic invitatur ad bibendum: et circa hoc tria.
+et primo ponitur comminatio contra prophetas;  
 
-Primo ponitur invitatio: ***bibite***: sustinendo poenas, ***inebriamini***, prae abundantia, quasi amittentes rationis usum, ut nesciatis quid faciatis, ***vomite***, divitias amittite, ***cadite***, in mortem et captivitatem. Et loquitur ad similitudinem ebrii. Job 20: *divitias quas devoravit evomet, et de ventre illius extrahet eas Deus*: Isai. 29: *obstupescite et admiramini, fluctuate et vacillate; inebriamini, et non a vino, movemini, et non ab ebrietate*, etc.  
-
-Secundo ponitur coactio: ***cumque noluerint . . . bibentes bibetis***, idest velitis, nolitis. Apoc. 14: *si quis adoraverit bestiam, et imaginem ejus, et acceperit characterem in fronte sua, aut in manu sua; hic bibet de vino irae Dei, quod mixtum est mero in calice irae ipsius*.  
-
-Tertio assignatur coactionis ratio,  
-
-primo ex exemplo: ***quia ecce in civitate***, scilicet Jerusalem. 1 Petr. 4: *si autem primum a nobis, quis finis eorum qui non credunt Dei Evangelio?* Infra 49: ***ecce quibus non erat judicium, ut biberent calicem, bibentes bibent; et tu quasi innocens relinqueris? Non eris innocens, sed bibens bibes***.  
-
-Secundo ex Domini edicto. ***Gladium***, qui est idem quod potio. Ezech. 21: *ejiciam gladium meum de vagina sua, et occidam in te justum et impium*.  
-
-Lectio 5  
-
-***^25:30^ Et tu prophetabis ad eos omnia verba haec, et dices ad illos: Dominus de excelso rugiet, et de habitaculo sancto suo dabit vocem suam. Rugiens rugiet super decorem suum. Celeuma quasi calcantium concinetur adversus omnes habitatores terrae.***
-
-> ^25:31^ Pervenit sonitus usque ad extrema terrae, quia judicium Domino cum gentibus: judicatur ipse cum omni carne. Impios tradidi gladio, dicit Dominus.
-
-> ^25:32^ Haec dicit Dominus exercituum: ecce afflictio egredietur de gente in gentem, et turbo magnus egredietur a summitatibus terrae,
-
-> ^25:33^ et erunt interfecti Domini in die illa a summo terrae usque ad summum ejus. Non plangentur, et non colligentur, neque sepelientur: in sterquilinium super faciem terrae jacebunt.
-
-> **133**. Hic ponitur expositio visionis:
-
-et primo contra gentes,  
-
-secundo contra gentium principes, ibi, ***ululate pastores***.  
+secundo contra prophetarum visiones, ibi, ***si igitur interrogaverit te populus iste*** etc.  
 
 Circa primum duo.  
 
-Primo ponit comminationem, ponens divinam indignationem: ***Dominus de excelso***, idest de altitudine sui judicii, ***rugiet***, terribiliter quasi leo iratus. Amos 3: *leo rugiet: quis non timebit?* Poenae universalitatem: ***super decorem***, idest templum; quasi dicat: incipiet a templo, et procedet ira ipsius in omnem terram. ***Celeuma quasi calcantium***: cantus vindemiatorum, per quem signatur gaudium victorum in depopulatione terrarum; qui significantur per calcatores, quia effundunt sanguinem humanum, sicut illi sanguinem uvae. Unde Isa. 63: *torcular calcavi solus, et de gentibus non est vir mecum. Calcavi eos in furore meo, et conculcavi eos in ira mea: et aspersus est sanguis eorum super vestimenta mea, et omnia indumenta mea inquinavi*. Infra 48: ***nequaquam calcator uvae solitum celeuma cantabit***.  
+Primo ponit prophetarum deceptionem;  
 
-Et ponit poenae aequitatem, ponens judicium: ***judicium Domini cum gentibus***. Mich. 6: *judicium Domini cum populo suo, et cum Israel dijudicabitur*. Et judicii modum: ***impios tradidi***. Isa. 1: *quia si me ad iracundiam provocaveritis, gladius devorabit vos, quia os Domini locutum est*.  
+secundo ponit deceptionum diversitatem, ibi, ***haec dicit Dominus*** etc.  
 
-Secundo ponit poenae processum, et ordinem: ***haec dicit Dominus***.  
+Circa primum duo.  
 
-Et primo ponit poenae processum: ***ecce egredietur***; quia una gens aliam impugnabit, et ipsa ab alia impugnabitur, et sic deinceps; ***a summitatibus***, a maxime potentibus, sicut Chaldaeis, Graecis etc. Eccli. 10: *regnum a gente in gentem transfertur propter injustitias et injurias, et contumelias, ac diversos dolos*. Infra 30: ***ecce turbo Domini furor egrediens, procella ruens in capite impiorum conquiescet***.  
+Primo ponit effectum deceptionis in populo;  
 
-Secundo ponit tribulationis effectum, quia privabuntur vita: ***et erunt interfecti Domini***, idest a Domino. Supra 12: ***gladius Domini devorabit ab extremo terrae usque ad extremum ejus***. Et carebunt sepultura: ***non plangentur, neque colligentur, neque sepelientur***. Supra 16, idem.  
+secundo ponit decipientium prophetarum peccatum, ibi, ***propheta namque, et sacerdos polluti sunt***.  
+
+Circa primum duo.  
+
+Primo ponitur prophetae compassio super futura contritione, quam designat per contritionem cordis: ***contritum est cor meum***; per tremorem corporis: ***contremuerunt omnia ossa mea***; sicut solet turbatis accidere; per impedimentum cognitionis: ***factum sum quasi vir ebrius*** qui non habet usum rationis: et hoc ex magnitudine stuporis, ***madidus a vino***, qui habet quidem rationis usum, sed impeditum propter multam potationem, ***a facie Domini***, a praesentia revelationis ipsius, qui mihi se iratum contra Judaeos dicit, ***verborum sanctorum ejus***, quibus mihi culpam ipsorum notificavit, et poenam praedixit. Psalm. 21: *dispersa sunt omnia ossa mea, factum est cor meum tamquam cera liquescens in medio ventris mei*. Isa. 29: *obstupescite et admiramini, fluctuate, et vacillate, inebriamini, et non a vino, movemini, et non in ebrietate* etc.  
+
+Secundo ponitur populi dissipatio:  
+
+et primo quantum ad culpae magnitudinem: ***quia adulteriis***, idolatria scilicet, et aliis peccatis, ***repleta est terra***, Judaeorum. Isa. 2: *repleta est terra ejus idolis* etc.  
+
+Secundo quantum ad poenae inflictionem: quia ***a facie maledictionis***, scilicet divinae, ***luxit***, sterilis facta. Isa. 24: *luxit, et defluxit terra, et infirmata est* etc.  
+
+Tertio inquantum ad obstinationem: ***factus est cursus eorum malus***, quia ad malum parati sunt pro peccatis. Proverb. 1: *pedes eorum ad malum currunt. **Dissimilis***, fortitudini sanctorum patrum, qui in servitio Dei seipsos exercebant. Prov. 15: *cor stultorum dissimile erit*.  
+
+Lectio 5  
+
+***^23:11^ Propheta namque, et sacerdos polluti sunt, et in domo mea inveni malum eorum, ait Dominus.***
+
+> ^23:12^ Idcirco via eorum eris quasi lubricum in tenebris, impellentur enim, et corruent in ea. Afferam enim super eos mala, annum visitationis eorum, ait Dominus.
+
+> ^23:13^ Et in prophetis Samariae vidi fatuitatem, et prophetabant in Baal, et decipiebant populum meum Israel.
+
+> ^23:14^ Et in prophetis Jerusalem vidi similitudinem adulterantium, et iter mendacii. Et confortaverunt manus pessimorum, ut non converteretur unusquisque a malitia sua. Facti sunt mihi omnes ut Sodoma, et habitatores ejus quasi Gomorrha.
+
+> ^23:15^ Propterea haec dicit Dominus exercituum ad prophetas: ecce ego cibabo eos absinthio, et potabo eos felle. A prophetis enim Jerusalem egressa est pollutio super omnem terram.
+
+> **123**. Hic ponitur malitia prophetarum quasi causa malitia populi:
+
+et primo in generali ponens culpam: ***polluti sunt***, diversis criminibus, ***in domo mea***, scilicet templo, vel populo. Supra 11: ***quid est quod dilectus meus in domo mea fecit scelera multa?***  
+
+Et subjungens poenam: ***idcirco via eorum erit quasi lubricum***; idest, corruent in peccatis suis sicut in tali via. Psalm. 34: *fient viae illorum sicut tenebra et lubricum*. Et exponens ipsam: ***quia afferam mala***, poenae. Supra 11: ***inducam super viros Anathoth annum visitationis eorum***.  
+
+Secundo in speciali:  
+
+et primo ponit culpam quantum ad prophetas decem tribuum: ***et in prophetis Samariae vidi fatuitatem***, quia in excelsis idola colebant, sicut illi quos occidit Elias, 3 Reg. 18. Isa. 9: *propheta docens mendacium, ipse est cauda*.  
+
+Et prophetarum duarum tribuum: ***et in prophetis Jerusalem vidi similitudinem***: quia indirecte populum ad idolatriam provocabant, cum mendaciter prospera idolatris promittebant. Ezech. 13: *violabant me ad populum meum propter pugillum hordei, et fragmen panis, ut interficerent animas quae non moriuntur, et vivificarent animas quae non vivunt*.  
+
+Secundo ponit iram divinam: ***facti sunt mihi omnes ut Sodoma***, scilicet prophetae: in tanta abominatione eos habeo ***et habitatores ejus***, scilicet Jerusalem. Isa. 1: *audite verbum Domini principes Sodomorum, percipite auribus legem Dei vestri populus Gomorrhae*.  
+
+Tertio comminatur poenam: ***propterea haec dicit Dominus: ecce ego cibabo eos absinthio***. Supra 9: ***ecce ego cibabo populum istum absinthio et potum dabo eis aquam fellis***. Et assignat causam quare specialiter prophetis comminatur: ***a prophetis enim Jerusalem egressa est pollutio super omnem terram***. Dan. 13: *egressa est iniquitas de Babylone a senioribus judicibus, qui videbantur regere populum*.  
 
 Lectio 6  
 
-***^25:34^ Ululate pastores, et clamate, et aspergite vos cinere optimates gregis: quia completi sunt dies vestri ut interficiamini: et dissipationes vestrae, et cadetis quasi vasa pretiosa.***
+***^23:16^ Haec dicit Dominus exercituum: nolite audire verba prophetarum qui prophetant vobis, et decipiunt vos. Visionem cordis sui loquuntur, non de ore Domini.***
 
-> ^25:35^ Et peribit fuga a pastoribus, et salvatio ab optimatibus gregis.
+> ^23:17^ Dicunt his qui blasphemant me: locutus est Dominus: pax erit vobis: et omnibus qui ambulant in pravitate cordis sui dixerunt: non veniet super vos malum.
 
-> ^25:36^ Vox clamoris pastorum, et ululatus optimatum gregis: quia vastavit Dominus pascua eorum,
+> ^23:18^ Quis enim affuit in consilio Domini, et vidit, et audivit sermonem ejus? Quis consideravit verbum illius, et audivit?
 
-> ^25:37^ et conticuerunt arva pacis a facie irae furoris Domini.
+> ^23:19^ Ecce turbo dominicae indignationis egredietur, et tempestas erumpens super caput impiorum veniet.
 
-> ^25:38^ Dereliquit quasi leo tabernaculum suum: facta est terra eorum in desolationem a facie irae columbae, et a facie irae furoris Domini.
+> ^23:20^ Non revertetur furor Domini usque dum faciat, et usque dum compleat cogitationem cordis sui. In novissimis diebus intelligetis consilium ejus.
 
-> **134**. Hic comminatur contra principes gentium;
+> ^23:21^ Non mittebam prophetas, et ipsi currebant; non loquebar ad eos, et ipsi prophetabant.
 
-et primo quantum ad personas, praesignans poenam, ***ululate***, quasi non valentes dolorem verbis exprimere, sed elevatione vocis. Isa. 34: *gladius Domini repletus est sanguine, incrassatus est adipe de sanguine agnorum et hircorum, et de sanguine medullatorum arietum*, etc. ***Optimates***, qui sunt divites et principes in populo.  
+> ^23:22^ Si stetissent in consilio meo, et nota fecissent verba mea populo meo, avertissem utique eos a via sua mala, et a cogitationibus suis pessimis.
 
-Et excludit salutis viam: ***et peribit fuga***. Thren. 1: *abjerunt absque fortitudine ante faciem subsequentis*.  
+> **124**. Hic ponit diversos modos deceptionis:
 
-Secundo quantum ad subjectas terras, ***vox clamoris***.  
+et primo exponit ipsos;  
 
-Et primo ponit per similitudinem devastationem urbium: ***quia vastavit Dominus pascua eorum***, idest civitates et villas, servans metaphoram gregis,  
+secundo summatim eos colligit, ibi, ***propterea ecce ego ad prophetas***.  
 
-***conticuerunt***; quasi dicat: in nihilum redacti sunt, ut de eis sermo non fiat, ***arva pacis***, quae tempore pacis praeclara erant. Joel 1: *ignis comedit speciosa deserti, et flamma succendit omnia ligna regionis*.  
+Circa primum duo.  
 
-Et quantum ad destructionem templi: ***dereliquit umbraculum***, templum scilicet Deus, ***quasi leo***, quo custodiente nullus audebat accedere. Supra 12: ***reliqui domum meam***.  
+Primo ponit modum decipiendi per verba ficta, quando scilicet nihil videbant, sed fingebant se visionem a Domino accepisse;  
 
-Secundo ponit expositionem: ***quia facta est terra eorum in desolationem a facie irae columbae***, scilicet Dei, qui sine commotione punit. Vel Jerusalem, quae pro amissione Dei irascitur. Vel Nabuchodonosor, propter superbiae stultitiam. Oseae 7: *Ephraim quasi columba seducta non habens cor*. Vel quia habebat columbam in arvis. Vel quia sicut mansuetus praeceptum Domini executus est. Vel per antiphrasim, quia crudelis erat.
+secundo ponit modum decipiendi per somnia vana, dum somniis phantasticis quasi divinis revelationibus adhaerebant, ibi, ***putas ne Deus e vicino ego sum?***  
+
+Circa primum tria.  
+
+Primo ponitur prohibitio ad populum, ne tales pseudoprophetas audiant, eis obediendo et credendo: ***nolite audire***. Deuter. 13: *si surrexerit in medio tui propheta, aut qui somnium vidisse se dicat, et praedixerit signum atque portentum, et evenerit quod locutus est, et dixerit tibi: eamus, et sequamur deos alienos quos ignoras, et serviamus eis; non audies verba prophetae illius, aut somniatoris* etc.  
+
+Secundo inducitur pro causa prophetarum deceptio quantum ad praesumptam auctoritatem, qui se nuntios Dei mentiebantur: ***visionem cordis sui loquuntur***. Ezech. 13: *vae prophetis insipientibus, qui sequuntur spiritum suum, et nihil vident* etc.  
+
+Quantum ad falsam promissionem: ***dicunt his qui blasphemant***. Supra 6: ***curabant contritionem filiae populi mei, cum ignominia dicentes: pax, pax, et non erat pax***.  
+
+Et quantum ad erroneam probationem: ***quis enim affuit?*** Quia enim Isa. 40, dicitur: *quis consiliarius ejus fuit?* volebant debilitare comminationes prophetarum, ne eis crederetur, quasi divina consilia ignorantibus: perverse intelligentes, quia per verbum illud non excluditur cognitio divini consilii per revelationem, sed per humani ingenii comprehensionem, ***et vidit***, quasi praesens, ***consideravi***, quasi absens. Matth. 22: *erratis nescientes Scripturas*.  
+
+Secundo ostendit eorum falsitatem:  
+
+et primo quantum ad falsam promissionem, ponens poenam: ***ecce turbo***, dispergens captivatos ***tempestas*** gravis afflictionis, ***super caput impiorum***, quibus pacem promittebant: unde constat eos non esse bonos prophetas. Deuter. 18: *quod in nomine Domini propheta ille praedixerit, et non evenerit, hoc Dominus non est locutus*. Psal. 96: *ignis ante ipsum praecedet et inflammabit in circuitu inimicos ejus*.  
+
+Et excludit misericordiam: ***non revertentur***. Isa. 55: *sic erit verbum quod egredietur de ore meo: non revertetur ad me vacuum, sed faciet quaecumque volui, et prosperabitur in his ad quae misi illud*. Et inducit poenae effectum: ***in novissimis***, quando poenas sustinueritis, ***intelligetis*** per experimentum. Psalm. 9: *cognoscetur Dominus judicia faciens*.  
+
+Secundo quantum ad praesumptam auctoritatem: ***non mittebam***. Supra 14: ***non misi eos, et non praecepi eis, neque locutus sum ad eos***.  
+
+Tertio quantum ad falsam probationem: ***si stetissent in consilio meo***, sicut veri prophetae, ***avertissem***, populum, vel ipsos prophetas. Supra 15: ***si converteris, convertam te***.  
+
+Lectio 7  
+
+***^23:23^ Putasne Deus e vicino ego sum, dicit Dominus, et non Deus de longe?***
+
+> ^23:24^ Si occultabitur vir in absconditis, et ego non videbo eum? dicit Dominus. Numquid non caelum et terram ego impleo? dicit Dominus.
+
+> ^23:25^ Audivi quae dixerunt prophetae prophetantes in nomine meo mendacium, atque dicentes: somniavi, somniavi.
+
+> ^23:26^ Usquequo istud est in corde prophetarum vaticinantium mendacium, et prophetantium seductiones cordis sui?
+
+> ^23:27^ Qui volunt facere ut obliviscatur populus meus nominis mei, propter somnia eorum, quae narrat unusquisque ad proximum suum; sicut obliti sunt patres eorum nominis mei propter Baal.
+
+> ^23:28^ Propheta qui habet somnium, narret somnium, et qui habet sermonem meum, loquatur sermonem meum vere. Quid paleis ad triticum? dicit Dominus.
+
+> ^23:29^ Numquid non verba mea sunt quasi ignis, dicit Dominus, et quasi malleus conterens petram?
+
+> **125**. Hic ponit alium modum deceptionis per somnia: et circa hoc tria.
+
+Primo inducit probans divinum testimonium, ostendens testem idoneum, quia habet scientiam remotorum: ***e vicino***, ut tantum quae in caelis sunt cognoscam, ubi sedes mea dicitur; vel etiam bona, et non mala quae a me longinqua sunt. Sap. 8: *attingit a fine usque ad finem fortiter, et disponit omnia suaviter*.  
+
+Et quia habet scientiam occultorum: ***et si occultabitur vir in absconditis***, cogitationum vel locorum. Eccl. 16: *non dicas: a Deo abscondar, et ex summo quis mei memorabitur?* Et probat utrumque: ***numquid non caelum et terram***, et ita non est a mea cognitione remotum, ***impleo?*** quasi interius penetrans; et ita non est mihi occultum. Isa. ult.: *caelum mihi sedes est, terra autem scabellum pedum meorum*.  
+
+***Audivi***. Eccl. 34: *vana spes et mendacium viro insensato, et somnia extollunt imprudentes*.  
+
+Secundo increpat deceptionis vitium quantum ad culpae continuitatem: ***usquequo istud?*** Psal. 4: *filii hominum usquequo gravi corde, ut quid diligitis vanitatem, et quaeritis mendacium?*  
+
+Et quantum ad intentionem operis vel operantis: ***qui volunt facere ut obliviscatur populus meus nominis mei***. Ezech. 23: *violabant me ad populum meum propter pugillum hordei, et fragmen panis, ut interficerent animas quae non moriuntur, et vivificarent animas quae non vivunt, mentientes populo meo*, etc.  
+
+Tertio inducit verae doctrinae praecepta: ***propheta qui habet somnium narret***; quasi dicat, quicumque gradus prophetalis visionis. Rom. 12: *unicuique sicut Deus divisit mensuram fidei*. Et ponit rationem: ***quid paleis ad triticum?*** quasi dicat: verba mea sunt triticum ad reficiendum. Supra 14: ***inventi sunt sermones tui, et comedi eos; et factum est mihi verbum tuum in gaudium et laetitiam cordis mei***. Psal. 118: *quam dulcia faucibus meis eloquia tua, super mel ori meo*.  
+
+Et ***ignis***, ad accendendum. Psal. 118: *ignitum eloquium tuum vehementer*. Et iterum 104: *eloquium Domini inflammavit eum. **Malleus***, ad emolliendum dura corda. Oseae 6: *propter hoc dolavi in prophetis, et occidi eos in verbis oris mei*. Et ideo non sunt miscenda spinis. 2 Cor. 6: *quae societas luci ad tenebras; aut quae conventio Christi ad Belial!*  
+
+Lectio 8  
+
+***^23:30^ Propterea ecce ego ad prophetas, ait Dominus, qui furantur verba mea unusquisque a proximo suo.***
+
+> ^23:31^ Ecce ego ad prophetas, ait Dominus, qui assumunt linguas suas, et aiunt: dicit Dominus.
+
+> ^23:32^ Ecce ego ad prophetas somniantes mendacium: dicit Dominus qui narraverunt ea, et seduxerunt populum meum in mendacio suo, et in miraculis suis; cum ego non misissem eos, nec mandassem eis, qui nihil profuerunt populo huic, dicit Dominus.
+
+> **126**. Hic recolligit tres modos deceptionis.
+
+Et primus est ex Scripturae depravatione: ***qui furantur verba mea***, quasi ad alium sensum quam prophetae veri voluerint. Joan. 10: *qui non intrat per ostium in ovile ovium, ille fur est et latro*.  
+
+Secundus est ex verborum fictione: ***ad prophetas***, idest contra eos, ***qui assumunt linguas suas***, fingentes verba. Supra 9: ***docuerunt linguas suas loqui mendacium, ut inique agerent laboraverunt***.  
+
+Tertius est ex somniorum adhaesione: ***ecce ego ad prophetas somniantes mendacium . . . in miraculis***, ampullosis verbis. Isa. 56: *videntes vana, dormientes, et amantes somnia*.  
+
+Lectio 9  
+
+***^23:33^ Si igitur interrogaverit te populus iste, vel propheta, aut sacerdos dicens: quod est onus Domini? dices ad eos: vos estis onus. Projiciam quippe vos, dicit Dominus.***
+
+> ^23:34^ Et propheta, et sacerdos, et populus qui dicit, onus Domini; visitabo super virum illum, et super domum ejus.
+
+> ^23:35^ Haec dicetis unusquisque ad proximum, et ad fratrem suum: quid respondit Dominus, et quid locutus est Dominus?
+
+> ^23:36^ Et onus Domini ultra non memorabitur, quia onus erit unicuique sermo suus. Et pervertistis verba Dei viventis, Domini exercituum, Dei nostri.
+
+> ^23:37^ Haec dices ad prophetam: quid respondit tibi Dominus et quid locutus est Dominus?
+
+> ^23:38^ Si autem onus Domini dixeritis; propter hoc haec dicit Dominus: quia dixistis sermonem istum, onus Domini, et misi ad vos dicens: nolite dicere, onus Domini:
+
+> ^23:39^ propterea ecce ego tollam vos portans, et derelinquam vos, et civitatem quam dedi vobis, et patribus vestris, a facie mea,
+
+> ^23:40^ et dabo vos in opprobrium sempiternum, et in ignominiam aeternam, quae numquam oblivione delebitur.
+
+> **127**. Hic comminatur contra prophetarum irrisiones; sicut enim Isaiae temporibus irridebant: *manda, remanda, expecta, reexpecta*, etc. Isa. 28, ita modo verbum quod Isaias adinvenerat quasi ad designandum poenae gravitatem, scilicet ***onus Domini***, irridebant.
+
+Unde circa hoc tria facit.  
+
+Primo increpat irridentem populum, comminans poenam quantum ad interrogantes: ***si interrogaverit***, irrisorie, ***dices ad eos: vos estis onus***, *ut per quae quis peccat per haec et torqueatur*. Sapient. 11. Isa. 1: *facta sunt mihi molesta, laboravi sustinens*, etc.  
+
+Et quantum ad colloquentes: ***et propheta***. Ps. 88: *visitabo in virga iniquitates illorum, et in verberibus peccata eorum*.  
+
+Secundo prohibet irrisiones verborum:  
+
+et primo ponitur praeceptum, in quo ostenditur modus loquendi: ***haec dicetis***.  
+
+Et prohibetur irrisio: ***quia onus Domini . . . onus erit***, idest pro verbis suis gravi poenae obligatur. Matth. 12: *ex verbis tuis justificaberis, et ex verbis tuis condemnaberis*. Et assignatur irrisionis ratio, ***et pervertistis***; quasi dicat: ideo prohibeo, quia in derisum pervertistis.  
+
+Et concludit: ***haec dices***. Ezech. 33: *audiunt sermones tuos, et non faciunt eos, quia in canticum oris sui vertunt illos*.  
+
+Tertio comminatur poenam:  
+
+et primo poenam captivitatis: ***ecce ego tollam vos***: loquitur ad similitudinem ejus qui grave pondus in altum tollit, ut fortius cadere faciat. Apocal. 18: *sustulit unus angelus fortis lapidem quasi molarem magnum, et misit in mare dicens: hoc impetu mittetur Babylon civitas illa magna, et ultra non invenietur*.  
+
+Secundo poenam confusionis: ***et dabo vos in opprobrium***: et potest referri ad poenam succensionis; vel ad ignominiam qua in captivitate delati sunt. Et ignominia dicitur peccatum, vel opprobrium non dignum nominari. Supra 20: ***confundentur vehementer, quia non intellexerunt opprobrium sempiternum, quod nunquam delebitur***.  
+
+Collationes  
+
+***Nota super illud, ***ecce dies veniunt*** etc., quod tempus gratiae dicitur dies propter luminis apparitionem. Rom. 13: *nox praecessit, dies autem appropinquavit: abjiciamus ergo opera tenebrarum, et induamur arma lucis*. Propter solis calorem. 2 Reg. 11: *cras erit vobis salus*. Propter itineris securitatem. Joan. 11: *si quis ambulaverit in die, non offendit, quia lucem hujus mundi videt; si autem ambulaverit in nocte, offendit, quia lux non est in eo*. Propter vigilantiam et sobrietatem. 1 Thess. 5: *qui enim dormiunt, nocte dormiunt, et qui ebrii sunt, nocte ebrii sunt*.***

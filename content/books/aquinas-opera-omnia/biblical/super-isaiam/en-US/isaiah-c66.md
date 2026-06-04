@@ -1,161 +1,109 @@
-# Chapter 66
+# Chapter 64
 
-> ^66:2^ My hand made all these things, and all these things were made, says the Lord. But to whom shall I have respect, but to him that is poor and little, and of a contrite spirit, and that trembles at my words?
+> ^64:2^ They would melt as at the burning of fire, the waters would burn with fire, that your name might be made known to your enemies: that the nations might tremble at your presence.
 
-> ^66:3^ He that sacrifices an ox, is as if he slew a man: he that kills a sheep in sacrifice, as if he should brain a dog: he that offers an oblation, as if he should offer swine’s blood; he that remembers incense, as if he should bless an idol. All these things have they chosen in their ways, and their soul is delighted in their abominations.
+> ^64:3^ When you shall do wonderful things, we shall not bear them: you didst come down, and at your presence the mountains melted away.
 
-> ^66:4^ Wherefore I also will choose their mockeries, and will bring upon them the things they feared: because I called, and there was none that would answer; I have spoken, and they heard not; and they have done evil in my eyes, and have chosen the things that displease me.
+> ^64:4^ From the beginning of the world they have not heard, nor perceived with the ears: the eye has not seen, O God, besides you, what things you have prepared for them that wait for you.
 
-> ^66:5^ Hear the word of the Lord, you that tremble at his word: your brethren that hate you, and cast you out for my name’s sake, have said: let the Lord be glorified, and we shall see in your joy: but they shall be confounded.
+> ^64:5^ You have met him that rejoices, and doth justice: in your ways they shall remember you: behold you are angry, and we have sinned: in them we have been always, and we shall be saved.
 
-> ^66:6^ A voice of the people from the city, a voice from the temple, the voice of the Lord that renders recompense to his enemies.
+> ^64:6^ And we are all become as one unclean, and all our justices as the rag of a menstruous woman: and we have all fallen as a leaf, and our iniquities, like the wind, have taken us away.
 
-> ^66:7^ Before she was in labor, she brought forth; before her time came to be delivered, she brought forth a man child.
+> ^64:7^ There is none that calls upon your name: that rises up, and takes hold of you: you have hid your face from us, and have crushed us in the hand of our iniquity.
 
-> ^66:8^ Who has ever heard such a thing? And who has seen the like to this? Shall the earth bring forth in one day? Or shall a nation be brought forth at once, because Zion has been in labor, and has brought forth her children?
+> ^64:8^ And now, O Lord, you are our father, and we are clay: and you are our maker, and we all are the works of your hands.
 
-> ^66:9^ Shall not I that make others to bring forth children, myself bring forth, says the Lord? Shall I, that give generation to others, be barren, says the Lord your God?
+> ^64:9^ Be not angry enough,*Ne irascaris, Domine, satis*. DR: “be not very angry, O Lord.” O Lord, and remember no longer our iniquity: behold, see we are all your people.
 
-> ^66:10^ Rejoice with Jerusalem, and be glad with her, all you that love her: rejoice for joy with her, all you that mourn for her.
+> ^64:10^ The city of your sanctuary is become a desert, Zion is made a desert, Jerusalem is desolate.
 
-> ^66:11^ That you may suck, and be filled with the breasts of her consolations: that you may milk out, and flow with delights, from the abundance of her glory.
+> ^64:11^ The house of our holiness, and of our glory, where our fathers praised you, is burnt with fire, and all our lovely things are turned into ruins.
 
-> ^66:12^ For thus says the Lord: behold I will bring upon her as it were a river of peace, and as an overflowing torrent the glory of the Gentiles, which you shall suck; you shall be carried at the breasts, and upon the knees they shall caress you.
+> ^64:12^ Wilt you refrain yourself, O Lord, upon these things, will you hold your peace, and afflict us vehemently?
 
-> ^66:13^ As one whom the mother caresses, so will I comfort you, and you shall be comforted in Jerusalem.
+> **1113**. ***O that you wouldst rend***. Here he offers a petition.
 
-> ^66:14^ You shall see and your heart shall rejoice, and your bones shall flourish like an herb, and the hand of the Lord shall be known to his servants, and he shall be angry with his enemies.
+And first, he asks for the presence of the judge;  
 
-> ^66:15^ For behold the Lord will come with fire, and his chariots are like a whirlwind, to render his wrath in indignation, and his rebuke with flames of fire.
+second, he asks for mercy: ***behold you are angry*** (Isa 64:5).  
 
-> ^66:16^ For the Lord shall judge by fire, and by his sword unto all flesh, and the slain of the Lord shall be many.
+Concerning the first, he does two things.  
 
-> ^66:17^ They that were sanctified, thought themselves clean in the gardens behind one woman*Post unam*. Vg.: *post januam*. DR: “behind the gate.” within, they that did eat swine’s flesh, and the abomination, and the mouse: they shall be consumed together, says the Lord.
+First, he sets out the petition;  
 
-> ^66:18^ But I know their works, and their thoughts: I come that I may gather them together with all nations and tongues: and they shall come and shall see my glory.
+second, the fulfillment of the petition: ***you didst come down*** (Isa 64:3).  
 
-> ^66:19^ And I will set a sign among them, and I will send of them that shall be saved, to the Gentiles into the sea, into Africa, and Lydia them that draw the bow: into Italy, and Greece, to the islands afar off, to them that have not heard of me, and have not seen my glory. And they shall declare my glory to the Gentiles:
+Concerning the first of these, he does two things.  
 
-> ^66:20^ And they shall bring all your brethren out of all nations for a gift to the Lord, upon horses, and in chariots, and in litters, and on mules, and in coaches, to my holy mountain Jerusalem, says the Lord, as if the children of Israel should bring an offering in a clean vessel into the house of the Lord.
+First, he asks for the coming of the judge: ***O that you wouldst rend the heavens***. He speaks figuratively, as though to one living above the heavens; or: that you would empty yourself, putting aside your majesty, and would assume flesh: *bow down your heavens and descend* (Ps 143[144]:5).  
 
-> ^66:21^ And I will take of them to be priests, and Levites, says the Lord.
+**1114**. Second, he sets out the effect of the coming of the judge  
 
-> ^66:22^ For as the new heavens, and the new earth, which I will make to stand before me, says the Lord: so shall your seed stand, and your name.
+[first,] in insensible creatures, namely in the mountains: ***the mountains would melt away at your presence***, as if to say: they would not endure your presence, if it pleased you; or ***the mountains***, the powerful and the proud, above: ***the mountains shall be melted*** (Isa 34:3) with their strength. In the waters: ***the waters would burn with fire***, because you are all fiery, if you should wish: *at another time the fire, above its own power, burnt in the midst of water* (Wis 16:19); or, by ***the waters*** are signified peoples: *the many waters are many peoples* (Rev 17:15).  
 
-> ^66:23^ And there shall be month after month, and sabbath after sabbath: and all flesh shall come to adore before my face, says the Lord.
+Second, the effect on men,  
 
-> ^66:24^ And they shall go out, and see the carcasses of the men that have transgressed against me: their worm shall not die, and their fire shall not be quenched: and they shall be a satisfying*Usque ad satietatem*. DR: “loathsome.” sight to all flesh.
+and first, on the gentiles: ***that the nations might tremble at your presence***: *the Gentiles shall be troubled* (Ps 64:8–9[65:7–8]); literally, they will be shaken; or this refers to the conversion of the gentiles after the coming of Christ.  
 
-> **1136**. ***Thus says the Lord***. Here he determines the manner of execution of the sentence.
+Second, the effect on the Jews: ***when you shall do wonderful things, we shall not bear***, that is, we, who are accustomed to see and hear, because of our stupor, as they were terrified in Exodus 20:18, thus: *they that had excused themselves* (Heb 12:19); or ***we shall not bear*** his coming, even having seen his miracles.  
 
-And first, in particular, as to the Jews;  
+**1115**. ***You didst come down***. Here he sets out the fulfillment of the petition.  
 
-second, universally, as to all: ***but I know their works, and their thoughts*** (Isa 66:18).  
+And first, as to his coming: ***you didst come down***, to judge us: using the past tense for the future; or, into the womb of the virgin. Or better, according to the literal sense, he sets out the proof of the effect, as if to say: if you should come down now, the same things would happen, which happened when you came down to free your people from Egypt (Exod 4); *he bowed the heavens, and came down, and darkness was under his feet* (Ps 17:10[18:9]).  
 
-The first is divided into two parts:  
+**1116**. Second, as to the effect.  
 
-in the first, he excludes false confidence;  
+First, in wonders: ***at your presence the mountains***, the rocks of Arnon, ***melted away***, Numbers 21:14–15; *the mountains skipped* (Ps 113[114]:4); mystically: the Jews, or the demons.  
 
-second, he sets out and determines the sentence that has been given as to the manner of execution: ***hear the word of the Lord*** (Isa 66:5).  
+Second, in benefits,  
 
-**1137**. Concerning the first, he does two things.  
+and first, he sets out the greatness of his benefits: ***from the beginning of the world they have not heard***, for never has anything been seen or heard, like what God did for the Jews, and will do for the saints in glory: *eye has not seen, nor ear heard: neither has it entered into the heart of man, what things God has prepared for them that love him* (1 Cor 2:9).  
 
-First, he excludes false trust in the sanctity of the temple, showing that the temple is not the location of God:  
+Second, as to the promptness of his benefitting them: ***you have met him that rejoices***, to help him, while he was still petitioning or coming to you; ***him that rejoices***, in you: *wisdom goes about seeking such as are worthy of her* (Wis 6:17). Mystically: Simeon (Luke 2).  
 
-both from the greatness of God, who fills all things, whose ***throne*** is said to be ***heaven***, because it participates greatly in his goodness, as a seat holds the greater part of the one seated; ***the earth my footstool***, because the earth participates least in his goodness, as the outer part of the seated person reaches to the footstool; or, by ***heaven***, he indicates the saints, by ***earth***, the earthly: *if heaven, and the heavens of heavens, cannot contain you, how much less this house which I have built?* (1 Kgs 8:27); *do not I fill heaven and earth?* (Jer 23:24); *God dwells not in temples made with hands* (Acts 17:24).  
+**1117**. ***Behold you are angry***. Here he sets out mercy.  
 
-And from his rest, for each thing rests in the place which is its own; however, God does not rest in anything, but all things rest in him, as they are made by him: ***and what is this place of my rest***, above: ***lift up your eyes on high, and see who has created these things*** (Isa 40:26). And he gives a useful remedy: ***but to whom shall I have respect, but to him that is poor and little***, that is, the humble man, who reckons himself to be little, as to the present, ***and of a contrite spirit***, concerning his past sins, ***and that trembles***, as to his intention of doing future things: *the eyes of the Lord are towards them that fear him* (Sir 15:20[19]).  
+And first, he shows the need of the petitioner;  
 
-**1138**. Second, he excludes the confidence that they took from their rites of sacrifice.  
+second, he offers the petition: ***and now, O Lord*** (Isa 64:8).  
 
-And first, he sets out their rejection: ***he that sacrifices an ox, is as if he slew a man***, as if to say: their sacrifices are so abominable, as if they were doing something against the law, because they were offering them to idols; ***as if he should bless***, praise and venerate, ***an idol***, above: ***offer sacrifice no more in vain*** (Isa 1:13).  
+Concerning the first, he does two things.  
 
-Second, he shows the reason for their rejection,  
+First, he shows his need from the eminence of evil, as to their fault; then from the committing of evils: ***behold you are angry, and we have sinned***: the order is reversed: for this reason you are angry, because we have sinned, ***and***, nevertheless, ***we shall be saved***, by your mercy, above: ***our wicked doings are with us*** (Isa 59:12).  
 
-first, setting out their fault: ***all these things have they chosen***, namely, their sacrifices, walking ***in their*** wicked ***ways***: *who are glad when they have done evil, and rejoice in the most wicked things* (Prov 2:14);  
+And as to the imperfection of their good deeds: ***and we are all become as one unclean, and all our justices***, because they are wrapped up in other sins: *if I be washed, as it were, with snow waters, and my hands shall shine ever clean, yet you shall plunge me in filth, and my garments shall abhor me* (Job 9:30–31).  
 
-second, he threatens punishment: ***wherefore I also will choose their mockeries***: *he shall scorn the scorners* (Prov 3:34); *the fear which I feared, has come upon me: and that which I was afraid of, has befallen me* (Job 3:25).  
+And as to their punishment: ***and we have all fallen***, killed, or from our state of worthiness; ***and our iniquities, like the wind, have taken us away***, from our land: *against a leaf, that is carried away with the wind, you show your power* (Job 13:25).  
 
-Third, he denounces the hardness of sinners: ***because I called***: *I called, and you refused* (Prov 1:24).  
+**1118**. Second, he shows the need of the petitioner as to lack of help.  
 
-**1139**. ***Hear the word of the Lord***. Here he describes the manner of execution of the sentence.  
+And first, lack of human help: ***there is none that calls upon and takes hold of you***, with prayers: *I held him: and I will not let him go* (Song 3:4);  
 
-And first, as to the rewards of the good;  
+second, lack of divine help: ***you have hid your face***, of your mercy, ***and have crushed us in the hand***, that is, the work, ***of our iniquity***; according to what it says in Proverbs 18:21: *I will hide my face from them* (Deut 32:20).  
 
-second, as to the punishments of the wicked: ***and the hand of the Lord shall be known*** (Isa 66:14).  
+**1119**. ***And now, O Lord***. Here he sets out mercy. And concerning this, he does two things.  
 
-The first of these is divided into two.  
+First, he asks for mercy, assigning the reason: ***you are our father***: *as clay is in the hand of the potter, so are we**Nos*. Vg.: *vos*. *in the hand of God**Manu Dei*. Vg.: *manu mea*. (Jer 18:6); *remember, I beseech you, that you have made me as the clay* (Job 10:9). And he offers the petition: ***be not angry enough***, that is, exceedingly, or according to what our merits demand: *remember not our former iniquities: let your mercies speedily prevent us* (Ps 78[79]:8).  
 
-First, he stirs up attention: ***hear the word of the Lord, you that tremble***, from reverence for his words: *you that fear the Lord, believe him* (Sir 2:8);  
+Second, he sets out their misery: ***behold***, Lord, ***see we*** are ***all***. ***The city of your sanctuary*** (*sancti*), that is, the sanctuary of the temple, namely, Jerusalem: *the enemy has put out his hand to all her desirable things* (Lam 1:10). And he wonders at his patience: ***will you refrain yourself, O Lord, upon these things?** Why look you upon our iniquities?**Iniquitates nostras*. Vg.: *iniqua agentes*. DR: “them that do unjust things.” (Hab 1:13).  
 
-second, he describes the promise.  
+**1120**. Note on the words, ***what things you have prepared for them that loveDiligentibus*. Vg.: *exspectantibus*. DR: “wait for.” ***thee*** (Isa 64:4), that God prepares for the saints,  
 
-And first, as to vengeance on the mockers, setting out their mockery: ***your brethren have said: let the Lord be glorified***, as if to say: let the glory of the Lord, which you await, appear, as if to say: he will never appear, above: ***they shall come with speed swiftly, and there is none that shall faint, nor labor among them*** (Isa 5:26–27); and he foretells their confusion: ***but they shall be confounded***, in this manner, because ***a voice of the people***, fearing, ***the voice of the Lord***, as to the tumult of their enemies: *the voice of the day of the Lord is bitter* (Zeph 1:14).  
+first, a place of eternal rest: *if not, I would have told you: because I go to prepare a place for you* (John 14:2);  
 
-**1140**. Second, he describes the promise as to abundance of goods.  
+second, a kingdom of eternal dignity: *come, you blessed of my Father, possess you the kingdom prepared for you from the foundation of the world* (Matt 25:34);  
 
-And first, as to the reuniting of the people, setting out the promise, ***before she was in labor, she brought forth***; that is, the children of Jerusalem will be gathered to her suddenly and at the same time, just as if a woman brought forth a child suddenly, without first being in labor, above: ***the children are come to the birth*** (Isa 37:3). Mystically, this is interpreted as concerning the labor of the Blessed Virgin, and the labor of the Church in the conversion of the faithful, and the labor of eternal begetting.  
+third, a table of divine refreshment: *you have prepared a table before me* (Ps 22[23]:5);  
 
-And he introduces the wondering question: ***who has ever heard such a thing***, above: ***who has begotten these?*** (Isa 49:21). And he sets out the response in the person of the Lord: ***shall not I that make others to bring forth children, myself bring forth***, gathering the Jews, or the converted faithful; or the Son, from eternity. Similar to this is Psalm 93[94]:9: *he that planted the ear, shall he not hear? Or he that formed the eye, doth he not consider?* And these arguments hold, if that which belongs to the perfection of creatures is attributed [to God], removing all that which belongs to imperfection.  
+fourth, a lamp of eternal light: *I have prepared a lamp for my anointed* (Ps 131[132]:17).  
 
-**1141**. Second, he promises immense comfort to the gathered Jews.  
+**1121**. Note also on the words, ***all our justices as the rag of a menstruous woman*** (Isa 64:4), that a work of justice is defiled by filth,  
 
-And first, he invites others to congratulation: ***rejoice with Jerusalem, and be glad with*In*. her***, as in the object of joy, setting out the condition of congratulation as to affection: ***all you that love her***: *eat, O friends, and drink, and be inebriated, my dearly beloved* (Song 5:1); as to the sign of affection: ***all you that mourn for her***: *blessed are they that mourn: for they shall be comforted* (Matt 5:5). And the fruit of congratulation as to participation in her gladness or peace: ***that you may suck***: *your breasts are better than wine* (Song 1:1); as to participation in her glory, ***that you may milk out***, as though extracting milk: *then shall you abound in delights in the Almighty* (Job 22:6).  
+first, of mortal stain: *you have stained your glory* (Sir 47:22[20]);  
 
-**1142**. Second, he promises an abundant gathering of peace: ***for thus says the Lord: behold I will bring upon her***, so that an overflowing is called, as a river descending with great force comes and does not overflow; and of glory: ***and as an overflowing torrent***, above: ***your peace had been as a river*** (Isa 48:18).  
+second, of negligence committed: *cursed be he that doth the work of the Lord negligently**Negligenter*. Vg.: *fraudulenter*. DR: “deceitfully.” (Jer 48:10);  
 
-**1143**. Third, he promises full reception of comfort.  
+third, of perverse intention: *if your eye scandalize you* (Matt 5:29);  
 
-First, as to the administration of the gentiles: ***which you shall suck***, that is, ***the glory of the Gentiles***, for the kings of the gentiles themselves will comfort and sustain you; thus follows: ***at the breasts***. Mystically: this is said of the Apostles, who delighted in the glory of the gentiles who were swiftly converted, and who carried them as at the breast with caressing admonitions, above: ***you shall suck the milk of the Gentiles*** (Isa 60:16).  
-
-Second, as to divine protection: ***as one whom the mother caresses***: *you have forgotten the consolation* (Heb 12:5).  
-
-Third, as to the enjoyment of goods, ***you shall see*** good things given to you by God; ***bones***, you who in adversity were like dry bones: *you dry bones, hear the word of the Lord* (Ezek 37:4). Or ***you shall see*** the divine essence: *the light is sweet, and it is delightful for the eyes to see the sun* (Eccl 11:7); ***and your bones shall flourish like an herb***, in the resurrection.  
-
-**1144**. ***And the hand of the Lord shall be known***. Here he promises punishment to the wicked.  
-
-And first, he threatens punishment, setting out the indignation of the judge: ***the hand***, afflicting the impious, in ***his servants***; or, ***the hand***, of comfort, in ***his servants***, by its effect, above: ***there is no indignation in me*** (Isa 27:4). And he sets out the magnitude of the punishment: ***for behold the Lord will come with fire***, by which the city is to be burned, or by which the world is to be purified; ***and his chariots***, the army of the Chaldeans, in which God comes, as it were, or the angels, who will come with him for judgment: *a fire shall go before him* (Ps 96[97]:3); *they shall fall by the sword of God* (Amos 9:10). And he sets out the multitude of those who are punished: ***the slain of the Lord shall be many***, above: ***for there is a victim of the Lord in Bosra and a great slaughter in the land of Edom*** (Isa 34:6).  
-
-**1145**. Second, he reproaches their fault: ***they that were sanctified***, thinking to cleanse themselves of uncleanness by the waters, or even by the sacrifices of idols, ***in the gardens***, in which they worshipped idols, or occupied themselves with pleasure; ***behind one woman***, copulating with women in the manner of beasts, or ***behind the gate***, in other manuscripts; ***the mouse***, the dormouse, contrary to the law (Lev 11:29), above: ***that eat swine’s flesh, and profane broth*** (Isa 65:4).  
-
-**1146**. ***But I***. Here he describes the manner of separation as to everyone together.  
-
-And first, he decrees universal judgment: ***I know their works, and their thoughts***, as though judging them for both; ***I come***, in the day of judgment, or the various kingdoms of your enemies destroying also the wicked among you; *they shall come*, into Jerusalem after your return, either to judgment, or to faith: *behold, I will raise them up out of the place wherein you have sold them* (Joel 3:7).  
-
-**1147**. Second, he sets out the summons to judgment: ***and I will set a sign***, the edict of Cyrus, ***among them***, that is, the Jews who were with Zorobabel and the other leaders; ***to the Gentiles***, to the nations whom the Jews had been dispersed; ***Lydia them that draw the bow***, for they are good archers; ***my glory***, which will appear in your liberation, above: ***he shall set up a sign***DR: “standard.” ***unto the nations*** (Isa 11:12). Or he sets the ***sign*** of the cross on the apostles, so that they might convert all nations to God, as though prepared for judgment.  
-
-**1148**. Third, he sets out the preparation of those to be judged.  
-
-And first, as to the good;  
-
-second, as to the wicked: ***and they shall go out, and see*** (Isa 66:22).  
-
-The first of these is divided into two parts.  
-
-First, as to the Jews, he sets out their honorable return: ***and they shall bring all your brethren out upon horses***, by which are signified the reinforcements they reverently received from the gentiles: *the Lord will bring them to you* (Bar 5:6); or by which are signified the various conditions of those who are converted to the faith, as the Gloss explains.  
-
-Second, the exaltation of their return,  
-
-first, as to their worthiness: ***and I will take of them to be priests***, which was literally fulfilled in the Jews, and also in the apostles, above: ***you shall be called the priests of the Lord: to you it shall be said: you ministers of our God*** (Isa 61:6);  
-
-second, as to the preservation of their seed: ***for as the new heavens***, as above, ***so shall your seed stand*** (Isa 65:17), forever: *if these ordinances shall fail before me, says the Lord: then also the seed of Israel shall fail* (Jer 31:36); or the saints will stand eternally renewed as heaven and earth;  
-
-third, as to the duration of their glory: ***and there shall be month after month***, as if to say, month will follow month and feast will follow feast in your prosperity, above: ***year is added to year: the solemnities are at an end*** (Isa 29:1).  
-
-Mystically: the Church after the end, spiritual rest after carnal rest.  
-
-**1149**. Second, as to the gentiles, ***and all flesh shall come***, for from the various nations they came to Jerusalem to adore the Lord: *all the nations shall come and adore before you, O Lord* (Ps 85[86]:9); or in the day of judgment.  
-
-**1150**. ***And they shall go out***. Here he sets out the following judgment as to the wicked.  
-
-And first, the manifestation of the punishment: ***and they shall go out***, coming to Jerusalem, ***and see***, in the ancient sepulchers, and in the fields, the bones of their dead fathers, above: ***their slain shall be cast forth, and out of their carcasses shall rise a stink*** (Isa 34:3); or the saints will see the damned falling into damnation.  
-
-Second, he sets out the duration of the punishment: ***their worm***, of conscience, by which they will be tortured even when they are dead, ***and their fire***, of hell: *he will give fire, and worms into their flesh* (Jdt 16:21[17]).  
-
-Third, the delight from the punishments, as to those who see it: ***and they shall be a satisfying sight to all flesh***, that is, to the saints: *the just shall rejoice when he shall see the revenge* (Ps 57:11[58:10]).  
-
-From which punishments may he liberate us, who grants us to begin and to finish.  
-
-**1151**. And thus ends the teaching and literal exposition on Isaiah according to Brother Thomas Aquinas, which Brother Jacob of Asti of the province of Lombardy, then a student in the *studium generale* of Naples, transcribed into legible script with completed citation of authorities. He also arranged the collations over the readings in particular places; and he did this for the use of the brothers of our Order and so that a copy might be had. Praise, therefore, be to him who grants us to begin and makes us to finish. Amen.  
-
-**1152**. Here ends the treatise on the literal meaning of Isaiah of Brother Thomas Aquinas of the Order of Preachers with completed citation of authorities. Thanks be to God.
+fourth, of rising pride, above: ***the wind shall carry them all off*** (Isa 57:13).

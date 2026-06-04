@@ -1,93 +1,91 @@
-# C. 41 - Ishmael’s treachery
+# C. 39 - The capture of Jerusalem
 
-***^41:1^ Et factum est in mense septimo, venit Ismahel filius Nathaniae filii Elisama de semine regali, et optimates regis, et decem viri cum eo ad Godoliam filium Ahicam in Masphath, et comederunt ibi panes simul in Masphath.***
+***^39:1^ Anno nono Sedeciae regis Juda, mense decimo, venit Nabuchodonosor rex Babylonis, et omnis exercitus ejus, ad Jerusalem, et obsidebant eam.***
 
-> ^41:2^ Surrexit autem Ismahel filius Nathaniae, et decem viri qui cum eo erant, et percusserunt Godoliam filium Ahicam filii Saphan gladio, et interfecerunt eum quem praefecerat rex Babylonis terrae.
+> ^39:2^ Undecimo autem anno Sedeciae, mense quarto, quinta mensis, aperta est civitas,
 
-> ^41:3^ Omnes quoque Judaeos qui erant cum Godolia in Masphath, et Chaldaeos qui reperti sunt ibi, et viros bellatores percussit Ismahel.
+> ^39:3^ et ingressi sunt omnes principes regis Babylonis, et sederunt in porta media: Neregel, Sereser, Semegarnabu, Sarsachim, Rabsares, Neregel, Sereser, Rebmag, et omnes reliqui principes regis Babylonis.
 
-> **209**. Hic ponitur congregati populi disturbatio per nequitiam Ismahelis:
+> ^39:4^ Cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores; fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros, et egressi sunt ad viam deserti.
 
-et primo ponitur quorumdam fraudulenta occisio;  
+> ^39:5^ Persecutus est autem eos exercitus Chaldaeorum et comprehenderunt Sedeciam in campo solitudinis Jerichontinae, et captum adduxerunt ad Nabuchodonosor regem Babylonis in Reblatha, quae est in terra Emath: et locutus est ad eum judicia.
 
-secundo cadaverum intumulatio, ibi, ***lacus autem in quem projecerat Ismahel omnia cadavera virorum . . . ipse est quem fecit rex Asa***;  
+> ^39:6^ Et occidit rex Babylonis filios Sedeciae in Reblatha in oculis ejus, et omnes nobiles Juda occidit rex Babylonis.
 
-tertio aliorum violenta captivatio, ibi, ***et captivos duxit***.  
+> ^39:7^ Oculos quoque Sedeciae eruit, et vinxit eum compedibus, ut duceretur in Babylonem.
+
+> ^39:8^ Domum quoque regis, et domum vulgi succenderunt Chaldaei igni et murum Jerusalem subverterunt.
+
+> ^39:9^ Et reliquias populi qui remanserant in civitate, et profugas qui transfugerant ad eum, et superfluos vulgi qui remanserant, transtulit Nabuzardan magister militum in Babylonem.
+
+> **204**. Hic ponitur instructio reliquiarum populi, post ipsius populi captivitatem. Et dividitur in tres partes.
+
+In prima ponitur captivatio;  
+
+in secunda reliquiarum conservatio, cap. 40: ***sermo qui factus est ad Jeremiam a Domino***;  
+
+tertio reliquiarum instructio, cap. 42: ***et accesserunt omnes principes bellatorum***.  
 
 Circa primum duo.  
 
-Primo ponitur occisio ducis et familiarium;  
+Primo ponitur populi captivatio;  
 
-secundo occisio quorumdam peregrinorum, ibi, ***secundo autem die*** etc.  
+secundo quorumdam liberatio, ibi, ***et de plebe pauperum qui nihil penitus habebant***.  
 
 Circa primum tria.  
 
-Primo ponit simulatae pacis dolum: ***de semine regali***, propter quod invidia movebatur adversus eum quem videbat Judaeis praepositum, se a regno excluso. Eccli. 6: *est amicus socius mensae, et non permanebit in die necessitatis*.  
+Primo ponit obsidionem, ***et obsidebant***. Isa. 29: *circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te aggerem, et munimenta ponam in obsidionem tuam*.  
 
-Secundo ponit patratum ducis homicidium: ***surrexerunt***, de mensa, ***decem viri, et percusserunt***, aliis nihil tale suspicantibus. 2 Reg. 3: *nequaquam ut mori solent ignavi mortuus es Abner*.  
+Secundo ponit captionem urbis: ***undecimo anno, mense quarto***, scilicet Julio. Tamen combusta est mense quinto, septima die mensis: sicut habetur 2 Reg. ult.: *quinta mensis*. Contra 2 Reg. ult. dicitur, quod nona mensis. Et potuit esse quod quinta die coeperunt homines fugere prae fame; et nona, civitas aperta est, custodibus ablatis. Et quia primo ceperunt antemurale; et tunc habebant urbem quasi captam; et postea ceperunt urbem:  
 
-Tertio ponit occisionem familiarium: ***omnes quoque Judaeos qui erant cum Godolia . . . percussit***. Eccli. 10: *ab una scintilla augetur ignis, et ab uno doloso augetur sanguis*.  
+unde sequitur: ***sederunt in porta media***, idest in medio duorum murorum; vel quae erat inter duas portas ex eadem parte civitatis. Supra 1: ***ponet unusquisque solium suum in introitu portarum Jerusalem, et super muros ejus in circuitu, et super universas urbes Juda***.  
+
+Ponit etiam captionem regis designans fugam: ***cumque vidisset eos Sedecias rex Juda, et omnes viri bellatores, fugerunt, et egressi sunt nocte de civitate per viam horti regis, et per portam quae erat inter duos muros***, qui conjungebantur muro civitatis juxta domum regis, et cingebant hortum regium, inter quos erat et via, et porta secundum aequidistantiam ab utroque. Thren. 1: *facti sunt principes ejus velut arietes non invenientes pascua, abierunt absque fortitudine ante faciem subsequentis*.  
+
+Et subjungit captionem: ***persecutus est autem eos exercitus Chaldaeorum***. Thren. 4: *velociores fuerunt persecutores nostri aquilis caeli*.  
+
+Tertio ponit captorum condemnationem:  
+
+et primo regis, et principum, in occisionem, ***et captum***, regem, ***adduxerunt ad Nabuchodonosor***, scilicet in sententiae pronuntiationem: ***et locutus est ad eum judicia***. Ezech. 10: *judicabo te judiciis adulterarum, et effundentium sanguinem*.  
+
+Et executionem sententiae principum, ***et occidit***. Sap. 6: *potentes potenter tormenta patientur*.  
+
+Et oculorum caecitatem: ***oculos quoque Sedeciae eruit . . . ut duceretur in Babylonem***. 4 Reg. 25, idem.  
+
+Secundo condemnationem urbis in destructionem: ***domum quoque regis, et domum vulgi succenderunt Chaldaei igni***. Thren. 2: *praecipitavit omnia moenia ejus dissipavit munitiones ejus*.  
+
+Tertio condemnationem plebis in transmigrationem: ***et reliquias populi transtulit Nabuzardan magister militum in Babylonem***. Baruch. 4: *delicati mei ambulaverunt vias asperas: ducti sunt enim ut grex directus ab inimicis*.  
 
 Lectio 2  
 
-***^41:4^ Secundo autem die postquam occiderat Godoliam, nullo adhuc sciente,***
+***^39:10^ Et de plebe pauperum qui nihil penitus habebant dimisit Nabuzardan magister militae in terra Juda, et dedit eis vineas, et cisternas in die illa.***
 
-> ^41:5^ venerunt viri de Sichem, et de Silo, et de Samaria octoginta viri rasi barba, et scissis vestibus, et squallentes, et munera, et thus habebant in manu ut offerrent in domo Domini.
+> ^39:11^ Praeceperat autem Nabuchodonosor rex Babylonis de Jeremia, Nabuzardan magistro militum, dicens:
 
-> ^41:6^ Egressus ergo Ismahel filius Nathaniae in occursum eorum de Masphath, incedens, et plorans ibat. Cum autem occurrisset eis, dixit ad eos: venite ad Godoliam filium Ahicam.
+> ^39:12^ tolle illum, et pone super eum oculos tuos, nihilque ei mali facias: sed ut voluerit sic facies ei.
 
-> ^41:7^ Qui cum venissent ad medium civitatis, interfecit eos Ismahel filius Nathaniae circa medium laci, ipse, et viri qui erant cum eo.
+> ^39:13^ Misit ergo Nabuzardan princeps militiae, et Nabusezban, et Rabsares, et Neregel, et Sereser, et Rebmag, et omnes optimates regis Babylonis,
 
-> ^41:8^ Decem autem viri reperti sunt inter eos, qui dixerunt ad Ismahel: noli occidere nos, quia habemus thesauros in agro, frumenti, et olei, et mellis. Et cessavit, et non interfecit eos cum fratribus suis.
+> ^39:14^ miserunt, et tulerunt Jeremiam de vestibulo carceris, et tradiderunt eum Godoliae filio Ahicam filii Saphan ut intraret in domum, et habitaret in populo.
 
-> **210**. Hic ponit occisionem peregrinorum:
+> ^39:15^ Ad Jeremiam autem factus fuerat sermo Domini, cum clausus esset in vestibulo carceris, dicens:
 
-et primo describit eorum conditionem quantum ad luctum, ***rasi barba***, Thren. 1: *sacerdotes ejus gementes*. Baruch 4: *adduxit mihi Deus luctum magnum*, etc. Et quantum ad votum: ***munera***, habebant, ***thus***, quod in omni oblatione offerebatur. Levit. 2: ***in domo Domini***, idest in loco templi. Isa. 19: *colent eum in hostiis, et muneribus, et vota vovebunt Domino, et solvent*.  
+> ^39:16^ vade, et dic Abdemelech Aethiopi, dicens: haec dicit Dominus exercituum Deus Israel: ecce ego inducam sermones meos super civitatem hanc in malum, et non in bonum: et erunt in conspectu tuo in die illa.
 
-Secundo ponit occisionem, praemittens dolum in tristitiae simulatione: ***egressus et plorans***, Eccli. 12: *et si humiliatus vadat curvus, abjice animum tuum, et custodi te ab illo*. Et in fraudulento consilio: ***cum autem occurrisset***. Prover. 26: *lingua fallax non amat veritatem, et os lubricum operatur ruinas*.  
+> ^39:17^ Et liberabo te in die illa, ait Dominus: et non traderis in manus virorum quos tu formidas,
 
-Et subjungit homicidium: ***qui cum venissent ad medium civitatis, interfecit eos Ismahel***. Thren. 3: *lapsa est in lacum vita mea, posuerunt lapidem super me*. Oseae 4: *sanguis sanguinem tetigit*.  
+> ^39:18^ sed eruens liberabo te; et gladio non cades, sed erit tibi anima tua in salutem, quia in me habuisti fiduciam, ait Dominus.
 
-Tertio ponit quorumdam liberationem, propter promissionem divitiarum quas se habere dicebant: ***decem autem viri***, Prov. 13: *redemptio animae viri divitiae multae: qui autem pauper est, increpationem non sustinet*.  
+> **205**. Hic ponit quorumdam liberationem.
 
-Lectio 3  
+Primo ***pauperum qui nihil penitus habebant . . . et dedit eis vineas, et cisternas***, quia terra penuriam in aquis patitur. Supra 5: ***verumtamen in diebus illis, ait Dominus, non faciam vos in consummationem***.  
 
-***^41:9^ Lacus autem in quem projecerat Ismahel omnia cadavera virorum quos percussit propter Godoliam, ipse est quem fecit rex Asa propter Baasa regem Israel: ipsum replevit Ismahel filius Nathaniae occisis.***
+Secundo liberationem justorum.  
 
-> **211**. Hic ponit cadaverum intumulationem, ***Asa rex***. 3 Reg. 16: dicitur, quod Asa fecit construi Gabaa Beniamin in Masphat, de his quae praeparaverat Baasa ad aedificandum contra ipsum Rama: et forte fecit in munitionem loci cisternam aliquam. Psal. 87: *aestimatus sum cum descendentibus in lacum, factus sum sine adiutorio inter mortuos liber*.
+Primo prophetae, ponens jussionem: ***praeceperat***, et executionem: ***misit ergo in domum***, suam. Proverb. 11: *justus de angustia liberatus est et tradetur impius pro eo*. Ibid. 10: *quod timet impius, veniet super eum, desiderium suum justis dabitur*. Et cap. 16: *cum placuerint Domino viae hominis, etiam inimicos ejus convertet ad pacem*.  
 
-Lectio 4  
+Secundo liberationem eunuchi: ***ad Jeremiam autem factus fuerat sermo Domini***.  
 
-***^41:10^ Et captivas duxit Ismahel omnes reliquias populi qui erant in Masphath, filias regis, et universum populum qui remanserat in Masphath, quos commendaverat Nabuzardan, princeps militiae Godoliae filio Ahicam. Et cepit eos Ismahel filius Nathaniae, et abiit ut transiret ad filios Ammon.***
+Et primo promittit liberationem ab hostium dominio: ***et non traderis***. Sap. 10: *custodivit illum ab inimicis, et a seductoribus tutavit illum*.  
 
-> ^41:11^ Audivit autem Johanan filius Caree, et omnes principes bellatorum, qui erant cum eo, omne malum quod fecerat Ismahel filius Nathaniae:
-
-> ^41:12^ et assumptis universis viris profecti sunt ut bellarent adversum Ismahel filium Nathaniae; et invenerunt eum ad aquas multas, quae sunt in Gabaon.
-
-> ^41:13^ Cumque vidisset omnis populus qui erat cum Ismahel, Johanan filium Caree, et universos principes bellatorum, qui erant cum eo, laetati sunt.
-
-> ^41:14^ Et reversus est omnis populus, quem ceperat Ismahel, in Masphath, reversusque abiit ad Johanan filium Caree.
-
-> ^41:15^ Ismahel autem filius Nathaniae fugit cum octo viris a facie Johanan, et abiit ad filios Ammon.
-
-> ^41:16^ Tulit ergo Johanan filius Caree, et omnes principes bellatorum qui erant cum eo, universas reliquias vulgi, quas reduxerat ab Ismahel filio Nathaniae de Masphath, postquam percussit Godoliam filium Ahicam: fortes viros ad praelium, et mulieres, et pueros, et eunuchos, quos reduxerat de Gabaon,
-
-> ^41:17^ et abierunt, et sederunt peregrinantes in Chamaam, quae est juxta Bethlehem, ut pergerent, et introirent Aegyptum
-
-> ^41:18^ a facie Chaldaeorum. Timebant enim eos, quia percusserat Ismahel filius Nathaniae Godoliam filium Ahicam, quem praeposuerat rex Babylonis in terra Juda.
-
-> **212**. Hic ponit captivationem.
-
-Et primo ponitur remanentium captivatio, ***reliquias***, quia quosdam interfecerat qui erant de Godoliae familia. Isa. 5: *dilatavit infernus animam suam, et aperuit os suum absque ullo termino*.  
-
-Secundo ponitur liberatio, praemittens liberantium praeparationem, ***audivit***, Prov. 24: *erue eos qui ducuntur ad mortem, et qui traduntur ad interitum liberare ne cesses*.  
-
-Et subjungit captivorum liberationem: ***cumque vidisset omnis populus qui erat cum Ismahel, Johanan . . . laetati sunt***. Proverb. 11: *in bonis justorum exaltabitur civitas, et in perditione impiorum erit laudatio*.  
-
-Et subdit captivantis evasionem: ***Ismahel autem fugit cum octo***, duobus interfectis. Isa. 33: *vae qui praedaris, nonne et ipse praedaberis?*  
-
-Tertio ponit eorum timorem: et circa hoc duo.  
-
-Primo ponit timoris signum, scilicet propositum fugiendi: ***tulit ergo Johanan***. Prov. 28: *fugit impius, nemine persequente*.  
-
-Secundo ponit timoris incitativum: ***timebant enim eos***. Sap. 17: *semper enim praesumit saeva, perturbata conscientia*. Job 15: *cum pax sit, ille semper insidias suspicatur*.
+Secundo ab occisionis gladio: ***et gladio non cades***. Psal. 90: *cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit*. Supra 17: ***benedictus vir qui confidit in Domino, et erit Dominus fiducia ejus***. Eccl. 2: *crede Deo, et recuperabit te, et dirige viam tuam, et spera in illum*.

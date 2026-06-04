@@ -1,119 +1,137 @@
-# Chapter 52
+# Chapter 50
 
-> ^52:2^ Excutere de pulvere, consurge, sede, Jerusalem; solve vincula colli tui, captiva filia Sion.
+> ^50:2^ Quia veni, et non erat vir; vocavi, et non erat qui audiret. Numquid abbreviata et parvula facta est manus mea ut non possim redimere, aut non est in me virtus ad liberandum? Ecce in increpatione mea desertum faciam mare, ponam flumina in siccum; computrescent pisces sine aqua et morientur in siti.
 
-> ^52:3^ Quia hæc dicit Dominus: gratis venundati estis et sine argento redimemini.
+> ^50:3^ Induam cælos tenebris et saccum ponam operimentum eorum.
 
-> ^52:4^ Quia hæc dicit Dominus Deus: in Ægyptum descendit populus meus in principio ut colonus esset ibi, et Assur absque ulla causa calumniatus est eum.
+> ^50:4^ Dominus dedit mihi linguam eruditam ut sciam sustentare eum qui lassus est verbo. Erigit mane, mane erigit mihi aurem ut audiam quasi magistrum;
 
-> ^52:5^ Et nunc quid mihi est hic, dicit Dominus, quoniam ablatus est populus meus gratis. Dominatores ejus inique agunt, dicit Dominus, et jugiter tota die nomen meum blasphematur.
+> ^50:5^ Dominus Deus aperuit mihi aurem. Ego autem non contradico, retrorsum non abii.
 
-> ^52:6^ Propter hoc sciet populus meus nomen meum in die illa, quia ego ipse qui loquebar ecce adsum.
+> ^50:6^ Corpus meum dedi percutientibus et genas meas vellentibus; faciem meam non averti ab increpantibus et conspuentibus in me.
 
-> ^52:7^ Quam pulchri super montes pedes annuntiantis et prædicantis pacem, annuntiantis bonum, prædicantis salutem, dicentis Sion: regnabit Deus tuus.
+> ^50:7^ Dominus Deus auxiliator meus: ideo non sum confusus. Ideo posui faciem meam ut petram durissimam, et scio quoniam non confundar.
 
-> ^52:8^ Vox speculatorum tuorum; levaverunt vocem, simul laudabunt, quia oculo ad oculum videbunt cum converterit Dominus Sion.
+> ^50:8^ Juxta est qui justificat me, quis contradicet mihi? Stemus simul, quis est adversarius meus? Accedat ad me.
 
-> ^52:9^ Gaudete et laudate simul deserta Jerusalem, quia consolatus est Dominus populum suum, redemit Jerusalem.
+> ^50:9^ Ecce Dominus Deus auxiliator meus, quis ergo est qui condemnet me? Ecce omnes quasi vestimentum conterentur, tinea comedet eos.
 
-> ^52:10^ Paravit Dominus brachium sanctum suum in oculis omnium gentium, et videbunt omnes fines terræ salutare Dei nostri.
+> ^50:10^ Quis ex vobis timens Dominum, audiens vocem servi sui? Qui ambulavit in tenebris, et non est lumen ei, speret in nomine Domini et innitatur super Deum suum.
 
-> ^52:11^ Recedite, recedite, exite inde, pollutum nolite tangere, exite de medio ejus; mundamini qui fertis vasa Domini.
+> ^50:11^ Ecce omnes vos accendentes ignem et accincti flammis, ambulate in lumine ignis vestri et in flammis quas succendistis vobis. De manu mea factum est hoc vobis, in doloribus dormietis.
 
-> ^52:12^ Quoniam non in tumultu exibitis nec in fuga properabitis; præcedet enim vos Dominus et congregabit vos Deus Israel.
+> **909**. ***Haec dicit Dominus: quis est hic*** etc. Hic incipit removere impedimenta liberationis.
 
-> ^52:13^ Ecce intelliget servus meus, exaltabitur et elevabitur et sublimis erit valde;
+Et primo removet impedimenta,  
 
-> ^52:14^ sicut obstupuerunt super te multi, sic inglorius erit inter viros aspectus ejus et forma ejus inter filios hominum.
+secundo apponit remedia, liii cap.: ***quis credidit auditui*** etc.  
 
-> ^52:15^ Iste asperget gentes multas, super ipsum continebunt reges os suum, quia quibus non est narratum de eo viderunt et qui non audierunt contemplati sunt.
+Circa primum removet tria impedimenta:  
 
-> **940**. ***Consurge, consurge***. Hic excludit tertium impedimentum liberationis, quod poterat dubitari ex inopia rerum, promittens eis gratuitam liberationem. Et dividitur in duas partes:
+primo defectum divinorum beneficiorum;  
 
-primo enim praedicit liberationem Judaeorum a Babyloniis,  
+secundo abjectionem personarum, lprimo cap.: ***audite me qui sequimini*** etc.;  
 
-secundo liberationem gentium a peccatis: ***ecce intelliget***.  
-
-Circa primum duo:  
-
-primo praedicit liberationem,  
-
-secundo liberationis ordinem: ***parabit Dominus***.  
+tertio inopiam rerum, lii cap. ***consurge, consurge*** etc.  
 
 Circa primum tria:  
 
-primo promittit liberationem gratuitam;  
+primo excludit impedimentum;  
 
-secundo assignat liberationis causam: ***quia haec dicit Dominus Deus***;  
+secundo ponit seipsum in exemplum: ***Dominus dedit mihi*** etc.;  
 
-tertio indicit liberatis laetitiam: ***quam pulchri***.  
+tertio concludit salubre consilium: ***quis ex vobis timens*** etc.  
 
-**941**. Promittitur autem eis liberatio tribus modis.  
+Circa primum duo:  
 
-Primo ab oppressione hostium, quantum ad bona quae recuperaverunt: ***consurge***, a debilitate qua hostibus resistere non poteras, et ideo dicit: ***induere fortitudine*** sicut armis militaribus, ***Sion***, in qua erat arx ad defensionem civitatis; ***consurge*** a miseria quam incurristi spoliantibus hostibus, et ideo dicit: ***induere vestimentis gloriae tuae***. Gloria civitatis est frequentia civium, pulchritudo viarum, opulentia rerum, Baruch V 1 *exue te, Jerusalem, stola luctus et vexationis tuae, et indue te decorem et honorem ejus quae a Deo est tibi in sempiternam gloriam*. Et quantum ad hostes quos evaserunt: ***quia non adjiciet ut pertranseat***, quasi vastans vel dominans, ***incircumcisus***, quantum ad hostes gentiles, ***immundus***, quantum ad proditores ex eodem populo, supra XXXV 8 ***via sancta vocabitur*** etc., Apoc. XX *non intrabit in eam aliquid coinquinatum*.  
+primo excludit defectum divinorum beneficiorum ex parte divinae voluntatis,  
 
-**942**. Secundo promittit liberationem a vilitate inhabitantium, quia derelicti sunt de pauperibus terrae, sicut dicitur IV Reg. ult. et Jer. ult.; ***excutere de pulvere*** vilitatis, ***consurge***, resistens adversariis tuis, et tunc deinde ***sede***, quieta, I Reg. II 8 *suscitans de pulvere egenum*.  
+secundo ex parte divinae potestatis: ***numquid abbreviata*** etc.  
 
-**943**. Tertio promittit liberationem a detentione captivorum, praedicens liberationis beneficium: ***solve vincula***, id est exi de captivitate, Levi. XXV *confregi catenas tuas*. Et ostendit liberationis modum: ***quia haec dicit Dominus: gratis venumdati estis***, quasi dicat: nulla beneficia vobis praestiterant qui vos captivaverunt; ***redimemini***, a captivitate Babylonis per Cyrum, supra XLV 13 ***captivitatem meam dimittet*** etc., Ps. *vendidisti populum tuum sine pretio*.  
+**910**. Circa primum tria.  
 
-**944**. ***Quia haec dicit***. Hic assignat liberationis duas causas, scilicet calumniam populi et blasphemiam Dei.  
+Primo excludit divinae voluntatis defectum, quasi non vellet ex seipso Deus benefacere, excludens duplicem modum alienationis, scilicet modum alienandi uxorem qui erat per libellum repudii, sicut dicitur Deut. xxiv,—quod quidem eis permissum est ad duritiam cordis ipsorum, Matth. xix—: ***quis est hic*** etc.  
 
-Et primo allegat calumniam: ***in Aegyptum, in principio***, in patribus, Gen. XLVI et XLVII; ***ut colonus***, et ita aliquod jus habebant opprimendi eos ex beneficiis impensis; ***et Assur***, sub quibus etiam Chaldaei includuntur, ***absque ulla causa***, nulla beneficia eis praestans. Si ergo liberationem abegit, ***quid mihi est?***, id est quid impedit quod modo non liberem Jerusalem?  
+Sed contra, Jer. iii *pro eo quod moechata esset* etc.  
 
-**945**. Secundo sententiam pronuntiat: ***quia ablatus est***, de terra sua; ***dominatores***, qui sibi dominium usurpaverunt, scilicet Chaldaei; ***et*** quoniam ***jugiter blasphematur***, quasi non possim populum meum liberare, Ez. XXXVI *sanctificabo nomen meum magnum quod pollutum est inter gentes; **propter hoc in die illa*** liberationis, ***qui loquebar*** promittens, ***adsum*** ad explendum, Baruch III 38 *post haec in terris visus est et cum hominibus conversatus est*, Hebr. I 1–2 *multifarie multisque modis olim Deus loquens patribus in prophetis, novissime diebus istis locutus est nobis in Filio*, si exponatur mystice de adventu Christi.  
+Et dicendum quod Dominus quantum est in se non repudiavit eos, sed ipsi per peccata sua Deum dimiserunt. Excludit etiam modum alienandi possessionem: ***aut quis est creditor*** etc., quasi: vos qui estis mea hereditas, supra xix, ei vendiderim non habens aliud quid solvam? Unde patet quod ex quo non alienavi vos a meo dominio, quod paratus sum benefacere quantum ex me est.  
 
-**946**. ***Quam pulchri***. Hic indicit liberatis laetitiam.  
+**911**. Secundo ostendit humanae voluntatis peccatum: ***ecce enim in iniquitatibus***, Ro. VII 14 *ego enim homo carnalis sum, venumdatus sub peccato*.  
 
-Et primo describit laetitiam quantum ad receptionem nuntiorum qui venientes de Chaldaea eam nuntiaverunt: ***pulchri***, quia pulchrum et delectabile erat populo talia annuntiantes audire; ***super montem***, ut multi audiant; ***praedicantis*** publice ***pacem*** a Cyro restitutam, ***bonum*** subsidii promissi, ***salutem*** a captivitate; ***regnabit***, quasi ultra tantum Deus in te regnabit quia ipsum coles in templo reparato, Nahum II *ecce super montes* etc.  
+Tertio ponit argumentum: ***quia veni***, per inspirationem, ***vocavi***, per prophetas, Prov. I 24 *vocavi, et renuistis*.  
 
-**947**. Secundo describit laetitiam quantum ad inspectionem speculatorum, qui inde redeuntes videbant, ponens exultationis vocem: ***vox*** laetitiae resonabit, Act. IV 24 *unanimiter elevaverunt vocem ad Deum*; et laetitiae rationem: ***quia oculo***, quasi oculis suis videbunt captivos venientes, supra XXXIII 20 ***oculi tui videbunt Jerusalem***.  
+**912**. ***Numquid abbreviata?*** Hic excludit defectum ex parte divinae potestatis, excludens primo potestatis defectum: ***abbreviata***, ut etiam longinquos non subjicere mihi possim; ***parvula***, contra potestates, infra LIX 1 ***ecce non est abbreviata manus Domini***.  
 
-Tertio quantum ad perventionem captivorum: ***gaudete***, supra XXXV 1 ***laetabitur deserta et exultabit solitudo***.  
+Secundo ponit divinae potentiae signum: ***ecce***,  
 
-**948**. Nota super illo verbo ***induere vestimentis***, quod sancti habent vestimenta virtutum de quibus gloriantur: et ista  
+primo in aquis: ***in increpatione***, id est jussione, ***faciam***, si volo, sicut feci in exitu Israel de Aegypto, Exo. XIV 15–31; ***ponam flumina***, sicut Arnon, Num. XXI 13–20, et Jordanem, Jos. IV; ***computrescent***, sicut Exo. VII 16–21, quando aquae versae sunt in sanguinem, Ps. *increpuit mare Rubrum et exsiccatum est*.  
 
-primo sunt ad protegendum, infra LXI 10 ***induit me Dominus vestimentis salutis et indumento justitiae circumdedit me***; s  
+Secundo ostendit signa potentiae suae in caelis: ***induam caelos***, aereos, ***tenebris***, sicut in Aegypto, Exo. X 21, Ps. *qui operit caelum nubibus*.  
 
-ecundo ad calefaciendum, Prov. ult. *non timebit domui suae a frigoribus nivis, omnes enim domestici ejus vestiti duplicibus*;  
+**913**. ***Dominus dedit***. Hic ponit se ipsum in exemplum.  
 
-tertio ad ornandum, Apoc. *vestimentis albis*.  
+Et primo quantum ad beneficii percepti gratiam, tum quantum ad eloquentiam: ***linguam eruditam; sustentare***, confortationibus, Job IV 4 *vacillantes confirmaverunt*; tum etiam quantum ad sapientiam: ***erigit***, ad attendendum, ***mane***, a principio praedicationis meae, vel a principio aetatis, vel quia tunc solitus erat orare, Ps. *in matutinis meditabor in te; **aperuit***, ad intelligendum, Ps. *audiam quid loquatur in me Dominus Deus*, Matth. XXIII 10 *magister vester unus est, Christus*.  
 
-**949**. Haec vestimenta  
+**914**. Secundo ponit se ipsum in exemplum quantum ad obedientiam, ponens perfectam oboedientiam: ***ego autem non contradico***, sed recipio et accepto ipsius inspirationem, ***retrorsum non abii*** a bono proposito, supra XLV 9 ***vae qui contradicit factori suo***. Ponit etiam obediendi constantiam, quia obedientiam pro nullo periculo dimisit: ***corpus meum dedi***, id est exposui me ut talia paterer; vel forte ad litteram haec passus est, sed in Christo plene impletum, Matth. XXVI et XXVII, Jer. XII 7 *dedi dilectam animam meam in manus inimicorum*.  
 
-primo debent esse candida in honestate operis, Eccl. IX 8 *omni tempore vestimenta tua sint candida*;  
+**915**. Tertio ponit se ipsum in exemplum quantum ad fiduciam quam in Deo habebat,  
 
-secundo munda in rectitudine intentionis, supra X ***vestimentum mixtum sanguine erit in combustione***;  
+primo ponens paratam defensionem: ***Dominus Deus auxiliator***, Jer. XX 11 *Dominus mecum est tamquam bellator fortis*;  
 
-tertio odorifera per famae divulgationem, Cant. IV 11 *odor vestimentorum tuorum sicut odor thuris*.  
+secundo fiduciae securitatem: et ***posui***, ut timore vel rubore non moverer, Ez. III 9 *ut adamantem et silicem dedi te*;  
 
-**950**. Item super illo ***solve vincula***, nota quod sunt vincula a quibus solvit Deus:  
+tertio assignat securitatis rationem ex potestate adjuvantis: ***juxta est qui justificat***, scilicet Deus, ***quis contradicet?***, verbis; ***stemus simul***, Job XVIII *pone me Domine juxta te, et cujusvis manus pugnet contra me, **adversarius***, factis; ***condemnet***, falsis judiciis, Ro. VIII 33 *Deus qui justificat, quis est qui condemnet?*;  
 
-primo mundanae solicitudinis, Job XXXIX 5 *quis dimisit onagrum liberum et vincula ejus quis solvit?*;  
+iterum ex infirmitate impugnantis: ***ecce omnes quasi vestimentum conterentur*** vetustate, in quo naturalis defectus, ***tinea***, in quo violentus, Job XIII *qui quasi putredo consumendus sum et quasi vestimentum quod comeditur a tinea*; ac si diceret: ex omnibus his sicut ego post accepta beneficia Deo obedio et in ipso confido, ita et vos.  
 
-secundo carnalis amoris, Eccl. VII 27 *inveni amariorem morte mulierem, et vincula ejus* etc.;  
+**916**. ***Quis ex vobis?*** Hic concludit ex exemplo suo salubre consilium.  
 
-tertio perversae actionis, Ps. *eduxit eos de tenebris et umbra mortis, et vincula eorum disrupit*;  
+Et primo ponit consilium,  
 
-quarto pravae consuetudinis, supra V 18 ***vae qui trahitis iniquitatem ad iniquitatem, et quasi vinculum plaustri peccatum***.  
+secundo ponit consilii contemptum: ***ecce omnes vos***.  
 
-**951**. Item sunt vincula a quibus Deus non solvit:  
+Consilium autem dat ut in Deo confidant: unde tria facit.  
 
-primo caritatis, Oseae XI *in funiculis caritatis traxi eos*;  
+Primo requirit confidentium idoneitatem quae est ex timore et obedientia: ***servi***, Isaiae, vel cujuscumque alterius, Ps. *quis est homo qui timet Dominum?*;  
 
-secundo divinae legis, Jer. II 20 *a saeculo confregisti jugum*;  
+secundo ostendit confidentiae necessitatem: ***qui ambulavit in tenebris***, erroris vel adversitatis, Jo. XI *qui ambulat in nocte, offendit*;  
 
-tertio divinae instructionis, Eccli. VI 26 *subjice humerum tuum et porta illam et ne accidieris vinculis ejus*.  
+tertio ponit ipsum consilium: ***speret in nomine***, supra X 20 ***residuum Israel*** etc.  
 
-**952**. ***Parabit Dominus***. Hic exequitur liberationis ordinem.  
+**917**. ***Ecce omnes***. Hic ponit consilii contemptum, ponens tria.  
 
-Et primo ponit manifestum Dei auxilium: ***brachium***, scilicet virtutem suam quam omnes in hoc facto advertere potuerunt, Ps. *viderunt omnes fines terrae salutare Dei nostri*.  
+Primo culpam: ***accendentes***, peccatis vestris, ***ignem***, vobis merentes, ***accincti***, quasi ligati in peccatis vestris, vel expediti ad peccandum, supra I 31 ***erit fortitudo vestra ut favilla stupae***;  
 
-Secundo indicit captivis egressum: ***recedite***, scilicet de Babylonia; ***pollutum***, nolite inter eos pollutos conversari, Apoc. XVIII 4 *exite de illa, populus meus*.  
+secundo ponit poenam: ***ambulate***, quasi dicat: recipite poenam, Ps. *in laboribus manuum suarum comprehensus est peccator*;  
 
-Tertio docet egrediendi modum quantum ad puritatem: ***mundamini***, sacerdotes; quantum ad securitatem: ***non in tumultu exibitis***, scilicet belli, sicut de Aegypto, Ps. *eduxit populum suum*; quantum ad ductorem: ***praecedit***, quasi dux, ***et congregabit***, quasi pastor, Ez. XXXVI 24 *tollam quippe vos de gentibus et congregabo vos de universis terris, et reducam vos in terram vestram*.  
+tertio ponit punientis potentiam: ***de manu***, scilicet potentiae Dei; ***dormietis***, somno mortis.  
 
-**953**. ***Ecce intelliget***. Hic praedicit liberationem gentium a servitute peccati per Filium Dei factam.  
+**918**. Nota super illo verbo ***in iniquitatibus venditi estis***, quod homo pro peccato vendit multa:  
 
-Et primo describit liberatorem quantum ad gratiae eminentiam: ***intelliget***, quantum ad sapientiae plenitudinem; ***servus***, secundum naturam assumptam, Christus, Phil. II 7 *formam servi accipiens*, Prov. XIV 35 *acceptus est* etc., et I 5 *intelligens gubernacula* etc.; ***exaltabitur***, quantum ad virtutum operationem, Ps. *exaltare, Domine, in virtute tua; **elevabitur***, quantum ad ascensionem, Ps. *quoniam elevata est magnificentia tua super caelos*, Eph. IV 10 *qui descendit, ipse est et qui ascendit; **et sublimis***, sedens ad dexteram Patris, supra IV 2 ***erit germen Domini in magnificentia et gloria, et fructus terrae sublimis***; et quantum ad passionis ignominiam: ***sicut*** enim ***obstupuerunt***, exemplis, miraculis et doctrinis, Matth. XII 23 *stupebant omnes turbae* super doctrina ejus et miraculis quae faciebat*, **inglorius***, in passione, ***et forma***, species sive decor, Ps. *ego sum vermis et non homo, opprobrium hominum et abjectio plebis*.  
+primo animi virtutem, Thren. I 11 *dederunt pretiosa quaeque pro vili*;  
 
-**954**. Secundo praedicit liberationem quantum ad peccatorum remissionem: ***iste asperget***, aspersione sanguinis, I Petri I 2, et aqua baptismi, Hebr. X 22 *aspersi corda* etc.; quantum ad ipsius venerationem: ***super ipsum***, tacentes ad auscultandum, non praesumentes ad secreta ipsius tractandum, Job XXIX 9 *principes cessabant loqui*; et quantum ad veritatis cognitionem: ***quia quibus***, scilicet gentibus, ***non erat***, per prophetas, ***videbunt***, corde, ***audierunt*** ipsum personaliter praedicantem, infra LXV 1 ***ecce ego ad gentes quae nesciebant me et quae non invocabant nomen meum***.
+secundo caelestem hereditatem, III Reg. XXI 3 *propitius sit mihi Dominus ne vendam hereditatem patrum meorum*;  
+
+tertio animae libertatem, Eccli. X 10 *nihil est iniquius quam amare pecuniam*;  
+
+quarto divini amoris honorem, Oseae II *diligit Dominus*.  
+
+**919**. Item super illo verbo ***ego autem non contradico***, nota quod Deo contradicunt  
+
+primo infideles divinae veritati, Eccli. I *ne contradicas verbo veritatis*;  
+
+secundo impatientes divinae correptioni, Job XI 10 *quis contradicit ei*;  
+
+tertio impoenitentes divinae bonitati, supra XLIX ***et erunt quasi non sint***;  
+
+quarto inoboedientes divinae auctoritati, Oseae X *populus tuus*.  
+
+**920**. Item super illo verbo ***in doloribus dormietis***, quod peccatores dolent in morte:  
+
+primo propter corporalium amissionem, Job XXVII 19 *dives cum dormierit, nihil secum afferet*;  
+
+secundo propter conscientiae contradictionem, Sap. V 3 *poenitentiam agentes et prae angustia spiritus gementes*;  
+
+tertio propter futurae gloriae desperationem, Thren. ult. *cecidit corona capitis nostri: vae nobis quia peccavimus*;  
+
+quarto propter poenae timorem, Ps. *ibi dolores ut parturientis* etc.

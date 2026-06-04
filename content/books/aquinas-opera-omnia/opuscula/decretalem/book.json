@@ -31,28 +31,14 @@
   ],
   "toc": [
     {
-      "id": "decretalem",
-      "title": {
-        "en-US": "Decretalem",
-        "la": "Decretalem"
-      }
-    },
-    {
-      "id": "decretalem-s1",
-      "title": {
-        "en-US": "Decretalem.S1",
-        "la": "Decretalem.S1"
-      }
-    },
-    {
-      "id": "decretalem-i",
+      "id": "decretalem-c01",
       "title": {
         "en-US": "I - On the Trinity and the Catholic Faith",
         "la": "I - On the Trinity and the Catholic Faith"
       }
     },
     {
-      "id": "decretalem-ii",
+      "id": "decretalem-c02",
       "title": {
         "en-US": "II - On the Error of Joachim",
         "la": "II - On the Error of Joachim"

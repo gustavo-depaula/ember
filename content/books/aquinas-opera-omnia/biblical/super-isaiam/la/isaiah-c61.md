@@ -1,95 +1,143 @@
-# Chapter 61
+# Chapter 59
 
-> ^61:2^ ut prædicarem annum placabilem Domino et diem ultionis Deo nostro, ut consolarer omnes lugentes,
+> ^59:2^ Sed iniquitates vestræ diviserunt inter vos et Deum vestrum, et peccata vestra absconderunt faciem ejus a vobis ne exaudiret.
 
-> ^61:3^ ut ponerem consolationem lugentibus Sion et darem eis coronam pro cinere, oleum gaudii pro luctu, pallium laudis pro spiritu mœroris. Et vocabuntur in ea fortes justitiæ plantatio Domini ad glorificandum;
+> ^59:3^ Manus enim vestræ pollutæ sunt sanguine et digiti vestri iniquitate; labia vestra locuta sunt mendacium et lingua vestra iniquitatem fatur.
 
-> ^61:4^ et ædificabunt deserta a sæculo et ruinas antiquas erigent, et instaurabunt civitates desertas et dissipatas in generationem et generationem;
+> ^59:4^ Non est qui invocet justitiam neque est qui judicet vere, sed confidunt in nihili et loquuntur vanitates; conceperunt laborem et pepererunt iniquitatem.
 
-> ^61:5^ et stabunt alieni et pascent pecora vestra, et filii peregrinorum agricolæ et vinitores vestri erunt.
+> ^59:5^ Ova aspidum ruperunt, et telas araneæ texuerunt. Qui comederit de ovis eorum morietur, et quod confotum est erumpet in regulum.
 
-> ^61:6^ Vos autem sacerdotes Domini vocabimini, ministri Dei nostri, dicetur vobis. Fortitudinem gentium comedetis et in gloria earum superbietis.
+> ^59:6^ Telæ eorum non erunt in vestimentum, neque operientur operibus suis. Opera eorum opera inutilia, et opus iniquitatis in manibus eorum;
 
-> ^61:7^ Pro confusione duplici vestra et rubore laudabunt partem eorum; propter hoc in terra sua duplicia possidebunt. Lætitia sempiterna erit eis.
+> ^59:7^ pedes eorum ad malum currunt et festinant ut effundant sanguinem innocentem; cogitationes eorum cogitationes inutiles. Vastitas et contritio in viis eorum;
 
-> ^61:8^ Quia ego Dominus diligens judicium et odio habens rapinam in holocaustum, et dabo opus eorum in veritate et fœdus perpetuum feriam eis.
+> ^59:8^ viam pacis nescierunt, et non est judicium in gressibus eorum; semitæ eorum incurvatæ sunt eis, omnis qui calcat in eis ignorat pacem.
 
-> ^61:9^ Et scietur in gentibus semen eorum et germen eorum in medio populorum; omnes qui viderint eos cognoscent illos quia isti sunt semen cui benedixit Dominus.
+> ^59:9^ Propter hoc elongatum est a nobis judicium, et non apprehendet nos justitia. Exspectavimus lucem, et ecce tenebræ; splendorem, et in tenebris ambulavimus,
 
-> ^61:10^ Gaudens gaudebo in Domino, et exsultabit anima mea in Deo meo, quia induit me vestimentis salutis et indumento justitiæ circumdedit me quasi sponsum decoratum corona et quasi sponsam ornatam monilibus suis.
+> ^59:10^ palpavimus sicut cæci parietem et quasi absque oculis attrectavimus, impegimus meridie quasi in tenebris, in caliginosis quasi mortui.
 
-> ^61:11^ Sicut enim terra profert germen suum et sicut hortus semen suum germinat, sic Dominus Deus germinabit justitiam et laudem coram universis gentibus.
+> ^59:11^ Rugiemus quasi ursi omnes et quasi columbæ meditantes gememus; exspectavimus judicium, et non est; salutem, et elongata est a nobis.
 
-> **1073**. ***Spiritus Domini super***. Hic promittit populo jucunditatem. Et dividitur in duas partes:
+> ^59:12^ Multiplicatæ sunt enim iniquitates nostræ coram te, et peccata nostra responderunt nobis, quia scelera nostra nobiscum, et iniquitates nostras cognovimus,
 
-in prima gaudium promittit;  
+> ^59:13^ peccare et mentiri contra Dominum, et aversi sumus ne iremus post tergum Dei nostri ut loqueremur calumniam et transgressionem; concepimus et locuti sumus de corde verba mendacii.
 
-in secunda populus promissionem suscipit et gratias agit, ibi ***gaudens gaudebo in Domino***.  
+> ^59:14^ Et conversum est retrorsum judicium, et justitia longe stetit, quia corruit in platea veritas, et æquitas non potuit ingredi;
+
+> ^59:15^ et facta est veritas in oblivionem, et qui recessit a malo prædæ patuit. Et vidit Dominus et malum apparuit in oculis ejus, quia non est judicium;
+
+> ^59:16^ et vidit Deus quia non est vir, et aporiatus est quia non est qui occurrat. Et salvavit sibi brachium suum, et justitia ejus ipsa confirmavit eum;
+
+> ^59:17^ indutus est justitia ut lorica, et galea salutis in capite ejus; indutus est vestimentis ultionis et opertus est quasi pallio zeli
+
+> ^59:18^ sicut ad vindictam quasi ad retributionem indignationis hostibus suis et vicissitudinem inimicis suis. Insulis vicem reddet;
+
+> ^59:19^ et timebunt qui ab occidente nomen Domini et qui ab ortu solis gloriam ejus. Cum venerit quasi fluvius violentus quem spiritus Domini cogit,
+
+> ^59:20^ et venerit Sion redemptor, et eis qui redeunt ab iniquitate in Jacob, dicit Dominus.
+
+> ^59:21^ Hoc fœdus meum cum eis, dicit Dominus: spiritus meus qui est in te et verba mea quæ posui in ore tuo non recedent de ore tuo et de ore seminis tui, dicit Dominus, amodo et usque in sempiternum.
+
+> **1036**. ***Ecce non est abbreviata***. Hic ponit praeparationem ad salutem percipiendam ex parte ipsius Salvantis.
+
+Et primo ponit salutis necessitatem;  
+
+secundo praeparationem: ***et vidit Dominus***.  
 
 Circa primum duo:  
 
-primo officium ad annuntiandum gaudium accipit;  
+primo in persona Domini necessitatem salutis ostendit, miseriam populi ostendens;  
 
-secundo gaudii rationem seu materiam praedicit: ***et vocabuntur***.  
+in secunda respondet populus miseriam suam recognoscens: ***propter hoc elongatum***.  
 
-**1074**. Circa primum duo.  
+Circa primum duo facit:  
 
-Primo tangitur prophetiae donum: ***spiritus Domini super me***, Isaiam; ***unxerit***, replens munere prophetiae, II Petri I *non enim voluntate humana allata est aliquando prophetia, sed Spiritu Sancto inspirati loquuntur sancti Dei homines*. Vel de Christo, de quo supra XI 2 ***requiescet super eum spiritus Domini***, et in Ps. *unxit te Deus, Deus tuus oleo exultationis prae consortibus tuis*, Lucae IV 21 *haec scriptura hodie*.  
+primo ostendit miseriae causam,  
 
-**1075**. Secundo tangitur prophetae vel Christi actus, qui est duplex:  
+secundo ipsam miseriam: ***vastitas et contritio***.  
 
-bonis praedicere praemia: ***ad annuntiandum***, Jac. I 21 *in mansuetudine suscipite insitum verbum quod potest salvare animas vestras*;  
+**1037**. Circa primum duo.  
 
-et miseris conferre remedia, quantum ad illos qui sunt pusillanimitate dejecti: ***ut mederer***, consolando, vel peccata remittendo si de Christo, Ps. *qui sanat contritos corde, et alligat contritiones eorum*; et quantum ad illos qui erant captivitate detenti, quibus annuntiat liberationis beneficium: ***et praedicarem captivis***, ad litteram, vel sub diabolo et propriis erroribus, supra XLIX 9 ***ut diceres his qui vincti sunt: exite***; et liberationis tempus: ***et praedicarem annum placabilem***, quantum ad liberationem Judaeorum, ***ultionis*** quantum ad Chaldaeos; vel tempus gratiae, in quo de diabolo ultionem accepit ejus potestatem reprimens, Jo. XII 31 *nunc judicium est mundi, nunc princeps mundi hujus ejicietur foras*, Ps. *benedices coronae* et Ps. *quoniam venit tempus*.  
+Primo excludit causam falsam, vel ex defectu virtutis Dei, vel ex defectu cognitionis ipsius quia praeceps non audiret: ***neque aggravata***, supra LVI ***numquid abbreviata***.  
 
-**1076**. Et quantum ad eos qui sunt tristitia absorpti, quibus annuntiat gaudium: ***ut consolarer omnes***, generaliter, ***ut ponerem***, specialiter, Eccli. XLVIII 27 *spiritu magno vidit ultima*; et gaudii signum, dum signa tristitiae vertuntur in signa laetitiae, et hoc est: ***et darem eis***, supra XXVIII 5 ***in die illa erit Dominus corona gloriae***.  
+Secundo astruit causam veram, scilicet ipsorum culpam, primo tangens ipsam in generali: ***sed iniquitates***, quantum ad majora, ***diviserunt***, quasi murus vel nubes sint posita, ***peccata***, quantum ad communia, Deut. XXXII 20 *ait: abscondam faciem meam ab eis*.  
 
-**1077**. ***Et vocabuntur***. Hic praedicit gaudii materiam.  
+Secundo prosequitur in speciali: ***manus enim vestrae***. Et tangit specialiter peccata in proximum: peccata enim in Deum tetigerat supra LVII 3–11, et peccata in se ipsum supra LVI 11–12.  
 
-Et primo quantum ad aedificiorum reparationem, ponens reaedificantium conditionem: ***vocabuntur in ea***, scilicet Jerusalem, praecepto et permissione Cyri, ***fortes justitiae***, ad faciendum justitiam constantes, non commoti comminationibus adversariorum; vel apostoli, Eccli. XXXIX 17 *quasi rosa plantata*. Et aedificiorum reparationem: ***et aedificabunt***, praedicti viri, vel apostoli, supra LVIII 12 ***et aedificabuntur in te deserta saeculorum***.  
+**1038**. Tangit autem primo injustitiam per quam alios opprimebant, quantum ad operationem: ***manus vestrae, sanguine*** innocentum quos occidistis; ***digiti***, quantum ad minores injustitias, vel quantum ad diligentiam operationis, supra I 15 ***manus enim vestrae sanguine plenae sunt***; quantum ad locutionem: ***labia vestra locuta; iniquitatem***, ut addatur iniustitiae deformitas supra deformitatem mendacii, Job VI 30 *non invenietis in lingua mea iniquitatem*; et quantum ad justitiae omissionem: ***non est qui judicet***, quantum ad praelatos quorum est judicare, Jer. V 1 *quaerite in plateis ejus an invenietis virum facientem judicium*.  
 
-**1078**. Secundo quantum ad possessionum conservationem: ***et stabunt alieni***. Hoc ad litteram potuit impleri ut aliqui advenae in his vilibus servitiis occuparentur, sicut de Gabaonitis, Oseae IX *vivant et in usus*; vel mystice: gentiles praedicatores, ***pecora***: simplices Ecclesiae, et custodiunt et excolunt ipsam Ecclesiam meritis et doctrinis.  
+**1039**. Secundo tangit astutiam per quam decipiebant.  
 
-**1079**. Nota super illo verbo ***unxerit me***, quod Christum ungit Deus Pater,  
+Et primo tangit ipsam in quantum per astutiam intendebant sui promotionem: ***sed confidunt in nihili***, in vanis consiliis vel in idolis, ***et loquuntur***, vanitatem cordis verbis exprimentes, Amos V *qui confiditis in nihili*; et inquantum per ipsam intendebant aliorum oppressionem: ***conceperunt laborem***, id est ita laborare excogitaverunt vias nocendi, vel aliis laborem inducendum; ***pepererunt*** in expletione operis, Ps. *concepit dolorem et peperit iniquitatem*.  
 
-primo oleo sacerdotalis dignitatis quasi sacerdotem ad sacrificia offerendum, Eccli. XLV 18 *unxit eum oleo sancto*;  
+**1040**. Secundo adaptat quamdam metaphoram.  
 
-secundo regalis potestatis quasi regem ad gubernandum, II Reg. XII 7 *ego te unxi regem* et principem populi mei;  
+Et primo ponit ipsam quantum ad ipsam astutiam, et quantum ad aliorum depressionem: ***ova aspidum***, id est consilia venenosa, ***ruperunt*** in publico, opera scilicet perducentes, Deut. XXXII 33 *fel draconum vinum eorum et venenum aspidum insanabile*; et quantum ad suam promotionem: ***et telas***, id est cogitationes inutiles, ad sui promotionem, Oseae VIII 6 *quoniam in aranearum tela erit vitulus Samariae*. Ponit iterum metaphoram quantum ad effectum astutiae, quantum ad primum: ***qui comederit***, consentiens factis, ***de ovis***, consiliis, ***confotum***, diu praeparatum solicite, ***in regulum***, quasi a longinquis etiam interficiet quodammodo volantem, supra XIV 29 ***de radice colubri***; et quantum ad secundum: ***telae eorum***, id est sicut telae aranearum non valent ad vestimentum ita eorum consilia ad nihil valent eis nisi promoveantur, supra XIX 9 ***confundantur qui operantur linum plectentes et texentes qui operantur subtilia***.  
 
-tertio immensae fortitudinis quasi pugilem ad pugnandum, II Reg. I 19, 21 *quomodo abjectus est clypeus fortium, clypeus Saul et Jonathae, quasi non sit unctus oleo?*;  
+**1041**. Secundo exponit.  
 
-quarto eminentis jucunditatis quasi liberalem ad miserendum, Ps. *jucundus homo qui miseretur et commodat*, Ps. *unxit te Deus, Deus tuus, oleo laetitiae prae consortibus tuis*.  
+Et primo quantum ad operationem: ***opera eorum inutilia*** quantum ad unam partem, ***opus iniquitatis*** quantum ad aliam, supra LVII 12 ***opera eorum non proderunt eis***.  
 
-**1080**. Item Christum ungit servus devotus:  
+Secundo quantum ad cogitationes: ***pedes eorum***, id est affectiones, quantum ad unam partem, Prov. I 16 *pedes eorum ad malum currunt*; ***cogitationes*** quantum ad aliam, Mich. II 1 *vae qui cogitatis inutile*.  
 
-primo lacrymis compunctionis, Matth. VI 17 *unge caput tuum et faciem tuam lava*;  
+**1042**. ***Vastitas***. Hic ostendit eis eorum miseriam.  
 
-secundo unguento devotionis, Lucae VII 46 *haec autem unguento unxit pedes meos*;  
+Et primo ponit miseriae magnitudinem: ***vastitas***, quantum ad damnum rerum, ***et contritio*** quantum ad damnum personarum, *i**n viis eorum***, id est pro viis malis suis ab hostibus imminet eis.  
 
-tertio oleo purae intentionis, Eccl. IX 8 *omni tempore sint vestimenta tua candida, et oleum de capite tuo non deficiat*;  
+Secundo miseriae aequitatem, ut scilicet talia patiantur qualia aliis faciunt: ***viam pacis***, qua alios in pace ponerent; ***non est judicium*** rectum, et ideo ***semitae eorum***, id est ea quae cogitaverunt, ***incurvatae***, id est curvae eis factae sunt quia quod aliis praeparabant ipsi patientur; ***omnis qui calcat*** prosequendo ***ignorat*** scientia experimenti, Ps. *contritio et infelicitas in viis eorum*.  
 
-quarto oleo laudis et gratiarum actionis, Gen. XXIX *surgens Jacob mane sumpsit lapidem et erexit in titulum fundensque oleum desuper* etc.  
+**1043**. ***Propter hoc elongatum est***. Hic populus confitetur.  
 
-**1081**. ***Vos autem sacerdotes***. Hic praedicit materiam gaudii quantum ad hominum gloriam. Et circa hoc tria facit.  
+Et primo confitetur miseriam quantum ad hostium opprimentium injustitiam: ***elongatum est judicium***, quia Deus non judicat nos de nostris adversariis: contrarium supra XLVI 13 ***prope feci justitiam meam***; quantum ad tribulationum angustiam, sub metaphora tenebrarum ponens ipsam tribulationis obscuritatem: ***expectavimus lucem***, divinam consolationem; ***tenebrae***, tribulationis, supra VI ***aspiciemus in terram***; et consiliorum difficultatem: ***palpavimus***, quasi nescientes quid facere, supra XLII 19 ***quis caecus nisi servus meus?***; et periculorum laesionem: ***impegimus meridie***, in his in quibus erat clara via ad evadendum, ***in caliginosis***, id est in dubiis, Job V 14 *per diem incurrent tenebras*.  
 
-Primo ostendit gloriae perfectionem, quia gloriosi in spiritualibus: ***sacerdotes***, quasi vitam sanctam sacerdotio dignam ducentes, sicut II Reg. VIII 18 de filiis David, Sap. V 5 *quomodo computati sunt inter filios Dei, et inter sanctos sors illorum est*; gloriosi etiam in temporalibus: ***fortitudinem***, id est reficiemini, sustentabimini fortitudine Persarum et Medorum; ***superbietis***, exaltabimini, supra LX 5 ***quando conversa fuerit ad te multitudo maris, fortitudo gentium venerit tibi***. Mystice: apostoli sacerdotes, quasi gentium magistri, et fortitudine martyrum delectati.  
+**1044**. Confitentur etiam miseriam quantum ad cordis tristitiam: ***rugiemus quasi ursi***, propter crudelitatem, ***quasi columbae***, propter lasciviam, Nahum II 7 *gementes ut columbae*; et quantum ad salutis absentiam: ***expectavimus judicium***, pro nobis, Ier. VIII 15 *expectabimus pacem*.  
 
-**1082**. Et assignat perfectionis rationem: ***pro confusione***, quasi: ex defectu spiritualium et temporalium confusionem habuistis; ***laudabunt***, vicini videntes, ***partem***, recompensationem duplicium bonorum a Deo eis factam, Zach. IX 12 *hodie quoque annuntians, duplicia reddam tibi*. Mystice: Ecclesia praemia in bonis animae et corporis recipit pro duplici confusione de gentium et Judaeorum infidelitate.  
+**1045**. Secundo confitetur culpam.  
 
-**1083**. Secundo tangit gloriae durationem: ***laetitia sempiterna***. Verum est quamdiu in justitia permanserint, sicut exponitur Jer. XVIII 7–10, supra XXXV 10 ***laetitia sempiterna super capita eorum, gaudium et laetitiam obtinebunt***.  
+Et primo culpae manifestationem quantum ad Deum: ***multiplicatae***; ***coram te***, in evidentia tua, Hebr. IV 13 *omnia nuda et aperta sunt oculis ejus*; et quantum ad ipsum populum: ***et peccata nostra responderunt*** in poenis, ***nobiscum***, quia non satisfecimus nec correximus, supra III 9 ***agnitio vultus eorum***.  
 
-Et assignat rationem: ***quia ego Dominus***. Et est sensus: per hoc quod Dominus diligit justitiam, dabit vobis ut sitis justi, ut sic placeat sibi et faciet vobiscum pactum sempiternae laetitiae; ***odio***, Eccli. XXXIV 24 *qui offert sacrificium ex substantia pauperis, quasi qui victimat filium suum in conspectu patris sui; **foedus perpetuum***, Jer. XXXI 31 *et feriam domui Israel et domui Juda foedus novum*.  
+Secundo peccatorem diversitatem, contra Deum: ***peccare*** opere, ***mentiri*** locutione, ***aversi*** omissione; et contra proximum locutione: ***ut loqueremur calumniam*** contra proximum; et contra legem: ***transgressionem***, Matth. XV 19 *de corde exeunt cogitationes malae*. Et quantum ad operationem: ***conversum judicium*** Dei ad salvandum nos; ***in platea***, in publico injustitias faciebant; ***qui recessit***, non enim solum faciebant mala, sed nolentes facere depraedabantur, Oseae IV 1 *non est misericordia*, Sap. II 12 *circumveniamus justum, quoniam contrarius est operibus nostris*.  
 
-**1084**. Tertio gloriae divulgationem: ***et scietur***. Quod est referendum vel ad Judaeos qui fuerunt famosi de cultu religionis, vel ad semen spirituale apostolorum, Eccli. XLIV 13 *usque in aeternum*.  
+**1046**. ***Et vidit Dominus***. Hic ponit salutis praeparationem ex parte Salvantis.  
 
-**1085**. ***Gaudens gaudebo***. Hic populus promissionem suscipit et gratias agit. Et circa hoc duo.  
+Et primo ponit praeparationis divinae modum, loquens de Deo secundum humanum modum. Ponens ipsius compassionem: ***et vidit Dominus***, oculo misericordiae, ***judicium***, alicujus salvantis; ***vir*** salvans Judaeos, ***aporiatus***, contristatus vel angustiatus, Ez. XXII 30 *et quaesivi de his virum*. Ponens etiam armorum assumptionem: ***et salvabit sibi brachium***, id est virtus, ut nihil contra patiatur, vel populum ad cultum suum, ***justitia confirmabit***, ut ultionem constanter exequatur; ***indutus est justitia***: sicut enim miles confirmatur armis, ita opus suum confirmatur justitia et proposito salvandi, Ps. *salvavit sibi brachium*, Sap. V 19 *induet pro thorace justitiam*. Ponens etiam vindictae executionem: ***insulis***, diversis gentibus, ***vicem***, pro malis quae Judaeis fecerunt, Dan. VI 26 *timeant et paveant omnes Deum Danielis*.  
 
-Primo exprimit in persona populi vel Ecclesiae cordis gaudium: ***gaudens***, Habacuc III 18 *ego autem in Domino gaudebo et exultabo in Deo Jesu meo*.  
+**1047**. Secundo ponit salvationis vel ultionis ministrum: ***cum venerit quasi fluvius*** propter magnitudinem virtutis et fortitudinis, vel Christus minister, Ps. *fluminis impetus laetificat civitatem Dei*.  
 
-Secundo confitetur divinum beneficium,  
+Tertio firmitatis pactum: ***hoc foedus meum: spiritus***, prophetiae; ***seminis tui***, quantum ad alios prophetas et apostolos in quibus ejus spiritus quasi hereditas per successionem seminis vadens, Joelis II 28 *effundam de spiritu meo super omnem carnem, et prophetabunt filii vestri et filiae vestrae*.  
 
-et primo sub similitudine vestimentorum inquantum divina beneficia protegunt a miseriis: ***quia induit me <vestimentis> salutis***, supra LII 1 ***induere vestimentis*** jucunditatis tuae.  
+**1048**. Nota super illo verbo ***iniquitates vestrae diviserunt inter vos et Deum***, quod peccatum dividit  
 
-Secundo sub similitudine ornamentorum inquantum ornant: ***quasi sponsum***. Mystice, quantum ad perfectos in Ecclesia, vicem Christi agentes; ***sponsam***, quantum ad imperfectos, Baruch V 2 *circumdabo te diploide*.  
+primo a proximo per dissensionem, Lucae XI 17 *omne regnum in seipsum divisum desolabitur*;  
 
-Tertio sub similitudine germinum quantum ad fructum: ***sicut enim terra***, supra <XXXV 2> ***germinans germinabit***.
+secundo a seipso per contrariam affectionem, Oseae X 2 *divisum est cor eorum, nunc interibunt*;  
+
+tertio a Deo per aversionem, Jer. II 13 *me dereliquerunt fontem aquae vivae et foderunt sibi cisternas dissipatas*;  
+
+quarto a regno per exheredationem, Lucae XII 46 *dividet eum* etc.;  
+
+quinto a sanctorum collegio per dissimilitudinem, supra LVI 3 ***separatione dividet me Dominus a populo suo***.  
+
+**1049**. Item nota super illo ***semitae eorum incurvatae***, quod est curvitas  
+
+primo culpae, supra LI 23 ***incurvare ut transeamus***;  
+
+secundo miseriae, Ps. *miser factus sum ego et incurvatus sum*;  
+
+tertio tristitiae, Baruch II 18 *anima quae tristis est super magnitudine mali et incedit curva*;  
+
+quarto fraudulentiae, Eccli. XII 11 *si humiliatus vadat curvus, adjice animum tuum et custodi te ab illo*;  
+
+quinto justitiae, Job IX 13 *Deus cuius irae nemo resistere potest, sub quo curvantur qui portant orbem*.  
+
+**1050**. Item nota super illo ***quasi fluvius violentus***, quod Christus est fluvius violentus:  
+
+primo propter aquarum multitudinem, Ps. *flumen Dei repletum est aquis*;  
+
+secundo propter amoris fervorem, Dan. VII 10 *fluvius igneus rapidusque egrediebatur a facie ejus*;  
+
+tertio propter cursus velocitatem, Ps. *fluminis impetus laetificat civitatem Dei*;  
+
+quarto propter originis altitudinem, Apoc. XXI *ostendit mihi fluvium altum* etc.

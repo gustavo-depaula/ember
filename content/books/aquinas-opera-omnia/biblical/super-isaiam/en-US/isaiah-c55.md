@@ -1,99 +1,165 @@
-# Chapter 55
+# Chapter 53
 
-> ^55:1^ All you that thirst, come to the waters: and you that have no money make haste, buy, and eat: come, buy wine and milk without money, and without any price.
+> ^53:2^ And he shall rise*Ascendet*. DR: “grow.” up as a tender plant before him, and as a root out of a thirsty ground: there is no form*Species*. DR: “beauty.” in him, nor comeliness: and we have seen him, and there was no sightliness, that we should be desirous of him:
 
-> ^55:2^ Why do you spend money for that which is not bread, and your labor for that which doth not satisfy you? Hearken diligently to me, and eat that which is good, and your soul shall be delighted in fatness.
+> ^53:3^ Despised, and the most abject of men, a man of sorrows, and acquainted with infirmity: and his look was as it were hidden and despised, whereupon we esteemed him not.
 
-> ^55:3^ Incline your ear and come to me: hear and your soul shall live, and I will make an everlasting covenant with you, the faithful mercies of David.
+> ^53:4^ Truly*Vere*. DR: “surely.” he has borne our infirmities and carried our sorrows: and we have thought him as it were a leper, and as one struck by God and afflicted.
 
-> ^55:4^ Behold I have given him for a witness to the people, for a leader and a master to the Gentiles.
+> ^53:5^ But he was wounded for our iniquities, he was bruised for our sins: the chastisement of our peace was upon him, and by his bruises we are healed.
 
-> ^55:5^ Behold you shall call nations,*Gentes*. Vg.: *gentem*. DR: “a nation.” which you knew not: and the nations that knew not you shall run to you, because of the Lord your God, and for the Holy One of Israel, for he has glorified you.
+> ^53:6^ All we like sheep have gone astray, every one has turned aside into his own way: and the Lord has laid on him the iniquity of us all.
 
-> ^55:6^ Seek the Lord, while he may be found: call upon him, while he is near.
+> ^53:7^ He was offered because it was his own will, and he opened not his mouth: he shall be led as a sheep to the slaughter, and shall be dumb as a lamb before his shearer, and he shall not open his mouth.
 
-> ^55:7^ Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he will have mercy on him, and to our God: for he is bountiful to forgive.
+> ^53:8^ He was taken away from distress, and from judgment: who shall declare his generation? Because he is cut off out of the land of the living: for the wickedness of my people have I struck him.
 
-> ^55:8^ For my thoughts are not your thoughts: nor your ways my ways, says the Lord.
+> ^53:9^ And he shall give the ungodly for his burial, and the rich for his death: because he has done no iniquity, neither was there deceit in his mouth.
 
-> ^55:9^ For as the heavens are exalted above the earth, so are my ways exalted above your ways, and my thoughts above your thoughts.
+> ^53:10^ And the Lord was pleased to bruise him in infirmity: if he shall lay down his life for sin, he shall see a long-lived seed, and the will of the Lord shall be directedDR: “prosperous.” in his hand.
 
-> ^55:10^ And as the rain and the snow come down from heaven, and return no more thither, but soak the earth, and water it, and make it to spring, and give seed to the sower, and bread to the eater:
+> ^53:11^ Because his soul has labored, he shall see and be filled: by his knowledge shall this my just servant justify many, and he shall bear their iniquities.
 
-> ^55:11^ so shall my word be, which shall go forth from my mouth: it shall not return to me void, but it shall do whatsoever I please, and shall prosper in the things for which I sent it.
+> ^53:12^ Therefore will I distribute to him very many, and he shall divide the spoils of the strong, because he has delivered his soul unto death, and was reputed with the wicked: and he has borne the sins of many, and has prayed for the transgressors.
 
-> ^55:12^ For you shall go out with joy, and be led forth with peace: the mountains and the hills shall sing praise before you, and all the trees of the country shall clap their hands.
+> **955**. ***Who has believed***. Here he begins to set out the remedies against the aforesaid impediments.
 
-> ^55:13^ Instead of the shrub, shall come up the fir tree, and instead of the nettle, shall come up the myrtle tree: and the Lord shall be named for an everlasting sign, that shall not be taken away.
+And first, against their sin, he promises the passion of Christ;  
 
-> **988**. ***This is the inheritance***. Here he adds the third remedy, promising abundance of goods against their former scarcity. And it is divided into two parts:
+second, against their lowering, he promises exaltation: ***give praise, O you barren*** (ch. 54);  
 
-in the first, he sets out the promise;  
+third, against their poverty, he promises free enjoyment of goods: ***all you that thirst*** (ch. 55).  
 
-in the second, he shows the firmness of the promise: ***and as the rain and the snow come down*** (Isa 55:10).  
+Concerning the first, he does two things.  
 
-Concerning the first, he does three things.  
+First, he shows the height of the mystery, for the report of it is not easily believed: ***who has believed our report***, of these things about Christ which we have heard from you: *we have heard a rumor* (Obad 1:1); *O Lord, I have heard your hearing, and was afraid* (Hab 3:2); nor is it easily seen: ***and to whom is the arm of the Lord***, that is, the Son of God, the power of God, ***revealed***: *and have you an arm like God?* (Job 40:4).  
 
-First, he shows the condition of those to whom it is promised: ***this is the inheritance***, that is, these things which follow are owed to the servants of the Lord, who are sons to him, as by right of inheritance; ***and their justice***, as a just reward: *my inheritance* (Ps 15[16]:6).  
+**956**. Second, he describes the order of the deed.  
 
-**989**. Second, he sets out the promise, promising future abundance in necessities: ***all you that thirst***, that is, you among the Jews, who were thirsty because of your poverty, ***buy***, without price, ***eat***, bread and other necessities: *if any man thirst, let him come to me and drink . . . and out of his belly shall flow rivers of living water* (John 7:37–38); and in delights: ***come, buy***, as if to say, take as if you were buying, or ***without money***, that is, less than a just price, ***wine and milk***: *I have drunk my wine with my milk* (Song 5:1). And he recalls their former poverty, ***why do you spend money for that which is not bread?*** As if to say: why thus far have you been spending money and from it have not been able to eat bread? *You have sowed much, and brought in little* (Hag 1:6). These things, however, are explained mystically of the water of divine wisdom, which is given freely to the thirsty, according to the Gloss.  
+And first, he sets out a similitude as to his exaltation: ***and he shall rise up***, in being born from the womb of his mother, in rising from the dead, in ascending from the earth into heaven, and into the faith of the gentiles; ***as a tender plant***, which increases in height and is multiplied in width, above: ***and there shall come forth a rod out of the root of Jesse, and a flower shall rise up out of his root*** (Isa 11:1). And as to his humanity: ***and as a root out of a thirsty ground***, that is, out of ground without moisture, which seems unbecoming because of its dryness; thus he also arose from his mother without the moisture of man: *I am the root and stock of David* (Rev 22:16).  
 
-**990**. Third, he enjoins preparation to obtain this promise: ***hearken diligently to me***;  
+**957**. Second, he sets out the explanation of the similitude: ***there is no***;  
 
-and first, he rouses their attention;  
+and first, as to his humiliation;  
 
-second, he sets out the exhortation: ***seek the Lord*** (Isa 55:6).  
+second, as to his exaltation: ***he was taken away from distress*** (Isa 53:8).  
 
-He rouses their attention by a threefold promise.  
+Concerning the first, he does two things:  
 
-First, he promises to those who listen abundant enjoyment of goods: ***eat***, that is, I will restore you with various goods, if you will hear me; ***in fatness***, as to abundance, above: ***if you be willing, and will hearken to me, you shall eat the good things of the land*** (Isa 1:19); *and I will fill the soul of the priests with fatness* (Jer 31:14).  
+first, he describes the humility of Christ;  
 
-Second, he promises escape from death: ***incline your ear***: *my soul shall live* (Ps 118[119]:175); and also: *your justifications I will never forget: for by them you have given me life* (Ps 118[119]:93).  
+second, his meekness in humiliation: ***he was offered*** (Isa 53:7).  
 
-Third, he promises power.  
+Concerning the first, he does three things:  
 
-And first, he sets out a similitude: ***and I will make an everlasting covenant, the faithful mercies of David***, that is, as I made true promises to David that his seed would remain forever, so I will also do with you.  
+first, he describes the office of his humility;  
 
-Second, he explains this similitude, showing what he did for David: ***behold I have given him for a witness to the people***: *a people which I knew not, has served me: at the hearing of the ear they have obeyed me* (Ps 17:45[18:44]). And what may be done for them: ***behold you shall call nations***, to fulfill your command, not by your own power, but ***because of the Lord***, above: ***and they shall adore for the sake of the Lord your God, who has chosen you*** (Isa 49:7).*Propter Dominum Deum tuum qui elegit te*. Vg.: *propter Dominum, quia fidelis est, et Sanctum Israel qui elegit te*. DR: “for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who hath chosen thee.”  
+second, the contempt of him in humiliation: ***and his look was as it were hidden*** (Isa 53:3);  
 
-**991**. ***Seek the Lord***. Here he enjoins upon them preparation to obtain the promise.  
+third, the fruit of his humiliation: ***but he was wounded*** (Isa 53:5).  
 
-And first, he gives the divine counsel of seeking: ***seek the Lord, while he may be found***, before adversity or death comes: *seek the lord* (Ps 104[105]:4); *they shall rise in the morning, and shall not find me* (Prov 1:28).  
+**958**. Concerning the first, he does two things.  
 
-Second, he teaches the manner of seeking: ***let the wicked***, sinning against God, ***forsake his way*, *and the unjust man***, sinning against his neighbor, above: ***take away the evil of your devices from my eyes*** (Isa 1:16).  
+First, his humility is shown as to the hiding of his majesty: ***there is no form in him***, as to abundance of interior goods; ***nor comeliness***, as to abundance of exterior goods: for form properly concerns beauty as to symmetry of members, but comeliness concerns beauty as to harmony of color and other surrounding things. Indeed, he had form, for *you are beautiful in form**Speciosus forma*. DR: “beautiful.” *above the sons of men* (Ps 44:3[45:2]); but it lay hidden because of the infirmity he assumed; he had comeliness, for *strength and beauty are his clothing* (Prov 31:25), but it lay hidden because of the poverty he observed; thus Song of Songs 2:14: *let your voice sound in my ears: for your voice is sweet, and your face comely*. And therefore, we who were then unbelieving and afterward were converted, in whose person he speaks, ***have seen him***, bodily, ***and there was no*** magnificent ***sightliness***, according to what is said that, *the form of Priam is worthy of rule*.Porphyry, *Isagoge*.  
 
-Third, he sets out the fruit of returning, namely, mercy: ***and let him return to the Lord, and he will have mercy on him*; *for he is bountiful***, that is, of manifold mercy, ***to forgive***: *turn to the Lord your God: for he is gracious and merciful* (Joel 2:13–14).  
+**959**. Second, his humility is shown as to the exposing of his infirmity: ***that we should be desirous of him***, expecting with desire that he should come as a great redeemer: *behold the desired of all nations shall come* (Hag 2:8). Both great in dignity, against which, we saw him ***despised***, inglorious, ***and the most abject of men***, because he suffered the most shameful kind of death: *let us condemn him to a most shameful death* (Wis 2:20); *I am the most foolish of men* (Prov 30:20). And great in prosperity, against which, we found him ***a man of sorrows***, as though poor and full of sorrows: *O all you that pass by the way, attend, and see if there be any sorrow like to my sorrow* (Lam 1:12). Great also in power, against which, we found him ***acquainted with infirmity***, through experience: *for although he was crucified through weakness, yet he lives by the power of God* (2 Cor 15:4).  
 
-Fourth, he excludes the obstacle to mercy: ***for my thoughts are not your thoughts***, as if to say: you are wicked,*Impii*. I am loving;*Pius*. you think of vengeance, I think of mercy: *is it my ways that are**Viae meae non sunt*. Vg.: *via mea non est*. DR: “my way that is.” *not right, and are not rather your ways perverse?* (Ezek 18:25).  
+**960**. ***And his look was as it were hidden***. Here he shows the contempt of him in his humiliation.  
 
-**992**. ***And as the rain and the snow***. Here he shows the firmness of the promise:  
+And first, as to his majesty hidden in the removal of honor: ***as it were hidden***, his majesty hidden under the infirmity of flesh; ***whereupon we esteemed him not***, not devoting to him the honor that was due him, above: ***verily you are a hidden God*** (Isa 45:15).  
 
-And first, he sets out the efficacy of the divine word: ***it shall not return to me void***, that is, without fruit: *an obscure speech shall not go for naught* (Wis 1:11); *he will come to us as the early and the latter rain to the earth* (Hos 6:3).  
+Second, as to his exposed infirmity, he sets out the sign of his infirmity: ***truly***, as true man, ***he has borne***, suffered, ***our infirmities***, infirmities, such as hunger and thirst, ***and carried our sorrows***, of sense, in suffering and sadness; or, ***our infirmities***, our sins, he has taken from us; or in our place, he has suffered punishments: *he bore our sins in his body upon the tree* (1 Pet 2:24). And he sets out the contempt: ***and we have thought him as it were a leper***, unclean and a sinner, and therefore, ***struck by God***, for his sins, as to the punishments he suffered, ***and afflicted***, as to the ignominies he endured: *for your manifold wickedness and your infinite iniquities* (Job 22:5); *they abhor me* (Job 30:10).  
 
-Second, he sets out restraint as to their joyful release from Babylon, ***for you shall go out with joy***: *he brought forth his people with joy, and his chosen with gladness* (Ps 104[105]:43); as to the congratulations of others: ***the mountains and the hills***, the powerful and the common people, praising God in you; or this is hyperbole: your land congratulating your return. As to the multiplied restoration of goods: ***instead of the shrub, shall come up the fir tree***, that is, your former goods are few in comparison to what you will have: *the glory of this last house shall be more than of the first* (Hag 2:10[9]), above: ***I will plant in the wilderness the cedar*** (Isa 41:19). ***The shrub*** (*saliuncula*) from *saliendo* (“jumping”), which is called “hare thistle.”  
+**961**. Note on the words, ***to whom is the arm of the Lord revealed?*** (Isa 53:1), that Christ is an arm:  
 
-Third, he sets out the glory of God following from this: ***and the Lord shall be named***, everywhere and forever glorious for your liberation, ***for an everlasting sign***, to which they will flee as a sign of salvation, above: ***behold I will lift up my sign***DR: “standard.” ***to the people*** (Isa 49:22).  
+first, for scourging demons: *with the arm of your strength you have scattered your enemies* (Ps 88:11[89:10]);  
 
-**993**. Note on the words, ***all you that thirst, come to the waters*** (Isa 55:1), that divine doctrine is first called water:  
+second, for supporting the weak, above: ***he shall take up the lambs with his arm*** (Isa 40:11);  
 
-and this is first because it heals the sick: *she shall give him the water of wisdom to drink* (Sir 15:3);  
+third, for defending the faithful: *with his holy arm he will defend them* (Wis 5:17).  
 
-second, because it cleanses the filthy: *I will pour upon you clean water, and you shall be cleansed from all your filthiness* (Ezek 36:25);  
+**962**. Also on the words, ***tender plant*** (Isa 53:2),*Virgultum*. that Christ is a rod:*Virga*.  
 
-third, because it satisfies the thirsty: *if anyone shall drink of the water that I will give, he shall not thirst for ever* (John 4:13).  
+first, for striking: *a star shall rise out of Jacob and a rod**Virga*. DR: “sceptre.” *shall spring up from Israel: and shall strike the chiefs of Moab* (Num 24:17);  
 
-**994**. Second, it is called wine:  
+second, for supporting: *your rod and your staff, they have comforted me* (Ps 22[23]:4);  
 
-and this is first because it stings in argument, above: ***your wine is mingled with water*** (Isa 1:22);  
+third, for setting right: *the rod**Virga*. DR: “sceptre.” *of thine uprightness* (Ps 44:7[45:6]).  
 
-second, because it inflames in exhortation: *the word of the Lord inflamed him* (Ps 104[105]:19);  
+**963**. Also on the words, ***root out of a thirsty ground***, that Christ is a root,  
 
-third, because it inebriates in consolation, below: ***that you may be inebriatedInebriabimini*. Vg.: *repleamini*. DR: “filled.” ***with the breasts of her consolations*** (Isa 66:11).  
+first, because he is hidden: *to whom has the root of wisdom been revealed?* (Sir 1:6);  
 
-**995**. Third, it is called milk:  
+second, because he supplies nourishment: *he shall be as a tree that spreads out its roots towards moisture* (Jer 17:8);  
 
-and this is first because of its beauty: *Nephthali, a hart let loose, and giving words of beauty* (Gen 49:21);  
+third, because he supports the entire tree: *you bear not the root* (Rom 11:18).  
 
-second, because of its sweetness: *let your voice sound in my ears: for your voice is sweet* (Song 2:14);  
+**964**. ***But he was wounded***. Here he sets out the fruit of his humiliation or of his passion.  
 
-third, because of the ease with which it is taken: *as newborn babes, desire milk* (1 Pet 2:2).
+And first, he assigns the moving reason: ***but he was***, not as we thought, but ***wounded***, by thorns, nails, and lance, ***for our iniquities***, taking them away, ***he was bruised***, by scourges and blows. Or ***he was wounded***, as to where the previous verse says: ***he was struck***; ***he was bruised***, as to where it says: ***afflicted***: *the breath of our mouth, Christ the Lord, is taken in our sins* (Lam 4:20).  
+
+**965**. Second, he shows the consequent usefulness in the reconciliation of peace: ***the chastisement of our peace***, that is, he endured the chastisement of correction for us, and through this peace we have access to God: *for if, when we were enemies, we were reconciled to God by the death of his Son* (Rom 5:10); and in the restoration of broken health: ***by his bruises***, which he had from the scourges, ***we are healed***: *by whose stripes you were healed* (1 Pet 2:24); *who forgives all your iniquities: who heals all your diseases* (Ps 102[103]:3).  
+
+**966**. Third, he shows the imminent necessity on our part, for all are sick, and thus all need a physician, and no one else can offer a sufficient remedy: *for there is no distinction of Jew and Greek*,Cf. Romans 10:12. *for all have sinned and do need* (Rom 3:22–23) penance; ***all we like sheep have gone astray***: *for you were as sheep without a shepherd* (1 Pet 2:25).Cf. Matthew 9:36.  
+
+**967**. ***He was offered***. Here he shows his meekness in suffering.  
+
+And first, he sets out the meekness itself,  
+
+and first, as to his voluntary offering of himself: ***he was offered***, to God the Father as a victim for us, ***because it was his own will***: *I will freely sacrifice to you* (Ps 53:8[54:6]);  
+
+second, as to his patient suffering: ***and he opened not his mouth***, as if contradicting and contending; also before Herod he responded nothing (Luke 23:9): *from the mouth of the Most High* (Lam 3:38).  
+
+Second, he sets out a similitude: ***as a sheep to the slaughter***, because he was slaughtered without resistance, ***and as a lamb***, because he suffered injury without contradiction: *I was as a meek lamb, that is carried to be a victim* (Jer 11:19).  
+
+**968**. Note on the words, ***the most abject of men*** (Isa 53:3), that Christ was the most abject:  
+
+first, because of the bitterness of his sorrow: *O all you that pass by the way, attend, and see if there be any sorrow like to my sorrow* (Lam 1:12);  
+
+second, because of the shamefulness of his death: *let us condemn him to a most shameful death* (Wis 2:20);  
+
+third, because of the greatness of the charge imposed upon him: *I am the most foolish of men, and the wisdom of men is not with me* (Prov 30:2).  
+
+**969**. Note also on the words, ***a man of sorrows*** (Isa 53:3), that Christ was full of sorrows:  
+
+first, because of the necessity of disease, above: ***from the sole of the foot unto the top of the head, there is no soundness therein*** (Isa 1:6);  
+
+second, because of his pouring out of graces: *and of his fullness we all have received: and grace for grace* (John 1:16);  
+
+third, because of our obligation: *for to this end Christ died* (2 Cor 5).Cf. Romans 14:9, but St. Thomas rightly looked to 2 Corinthians 5:21.  
+
+**970**. ***He was taken away from distress***. The humility of his passion having been set out, here he begins to set out the glory of his exaltation, which is the reward of his passion, as it says in Philippians 2:9: *for which cause, God also has exalted him*.  
+
+And first, as to his escape from dangers;  
+
+second, as to vengeance against his enemies: ***and he shall give the ungodly*** (Isa 53:9);  
+
+third, as to the justification of men: ***if he shall lay down*** (Isa 53:10);  
+
+fourth, as to his victory over the rebellious: ***therefore will I distribute to him*** (Isa 53:12).  
+
+**971**. Concerning the first, he does two things.  
+
+First, he sets out the reward: ***he was taken away***, in the resurrection, ***from*** the ***distress***, of his passion, ***and from*** the unjust ***judgment***, by which he was judged by others: *the just is delivered out of distress* (Prov 11:8).  
+
+Second, he sets out his merit, setting out the worthiness of the sufferer, so that the merit of the passion is measured from the condition of the person: ***his generation***, his eternal generation which was from a father without a mother, or his generation in time, which was from a mother without a father, ***who shall declare***, as if to say: no one by natural reason, though somewhat by divine inspiration: *who saw**Vidit*. Vg.: *videbit*. DR: “shall see.” *him, and shall declare him?* (Sir 43:35). And he sets out the suffering inflicted on him: ***because he is cut off***, through death by the Jews, ***out of the land of the living***, out of this life: *come, let us put wood on his bread, and cut him off from the land of the living* (Jer 11:19). And he sets out the acceptance of this suffering on the part of God the Father: ***for the wickedness of my people have I struck him***, that is, allowed him to be struck: *Christ also died once for our sins* (1 Pet 3:18).  
+
+**972**. ***And he shall give the ungodly***. Here he sets out the second, namely, his vindication against his persecutors.  
+
+And first, he sets out their reward: ***and he shall give the ungodly***, the Jews into the hands of the Romans, ***for his burial***, because they had him guarded in the tomb: *the wicked is delivered up for the just* (Prov 21:18).  
+
+Second, he sets out his merit as to the innocence of his life: ***because he has done no iniquity***, as to sins of deed, ***neither was there deceit in his mouth***, as to sins of word: *who did no sin, neither was guile found in his mouth* (1 Pet 2:22). And as to the obedience of his death: ***and the Lord***, the Father, ***was pleased***, and he was obedient to the Father unto death: *becoming obedient unto death* (Phil 2:8); *the weakness of God is stronger than men* (1 Cor 1:25).  
+
+**973**. ***If he shall lay down***. Here he sets out the third, namely that, through him, the justification of men was completed.  
+
+And first, he sets out the reward for the sorrow of his death: ***if he shall lay down his life***, of his own will: *I lay down my life* (John 10:17), ***he shall see a long-lived seed***, until the end of the world, sons for him reborn out of the power of his death: *unless the grain of wheat falling into the ground die, itself remains alone. But if it die it brings forth much fruit* (John 12:24–25); ***and the will of the Lord shall be directed***, fulfilled, ***in his hand***, in his work: *this is the will of God, your sanctification* (1 Thess 4:3). And the reward for the labor of his teaching: ***because his soul has labored***, in preaching and discoursing, ***he shall see***, the gentiles converted to him, ***and be filled***, as though having what he intended: *I have meat to eat which you know not* (John 4:32).  
+
+**974**. Second, he sets out his merit as to the exercise of preaching: ***by his knowledge***, that is, his teaching: *justified freely**Gratis*. Vg. omits. Cf. Romans 3:24. *by faith* (Rom 5:1); *Lord, to whom shall we go? You have the words of eternal life* (John 6:69); and as to the torment of death: ***he shall bear their iniquities***, that is, the punishments for their iniquities, above: ***I have made you, and I will bear*** (Isa 46:4).  
+
+**975**. ***Therefore will I distribute***. Here he sets out the fourth, namely his victory over his enemies.  
+
+And first, he sets out the subjection of the enemies: ***therefore will I distribute to him***, as if to say: I will give him his part, ***very many***, who will believe in him; ***and the spoils of the strong***, that is, those held captive by demons, ***he shall divide***, among his disciples, setting different disciples over different nations: *he shall carry off the treasure of every desirable vessel* (Hos 13:15); *the king of powers is of the beloved, of the beloved; and the beauty of the house shall divide spoils* (Ps 67:13[68:12]).  
+
+Second, he sets out the reason for their subjection as to his death: ***because he has delivered his soul unto death***; and as to the kind of death he endured: ***and was reputed with the wicked***: *and there were crucified with him two malefactors* (Luke 23:32);Cf. Matthew 27:38. *I am counted among them that go down to the pit* (Ps 87:5[88:4]).  
+
+Third, the salvation of those made subject to him: for he does not subject them to himself like a tyrant to abuse them, but to save them: ***and he has borne***, taken away, ***the sins of many***, efficaciously, although sufficiently of all, ***and has*** prayed*Oravit*. Vg.: *rogavit*. ***for the transgressors***: *Father, forgive them, for they know not what they do* (Luke 23:34).

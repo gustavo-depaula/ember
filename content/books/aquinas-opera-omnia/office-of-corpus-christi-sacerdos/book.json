@@ -31,98 +31,84 @@
   ],
   "toc": [
     {
-      "id": "corpuschri-01",
-      "title": {
-        "en-US": "CorpusChri",
-        "la": "CorpusChri"
-      }
-    },
-    {
-      "id": "corpuschri-s1",
-      "title": {
-        "en-US": "CorpusChri.S1",
-        "la": "CorpusChri.S1"
-      }
-    },
-    {
-      "id": "corpuschri-first-vespers",
+      "id": "corpuschri-c01",
       "title": {
         "en-US": "First Vespers",
         "la": "First Vespers"
       }
     },
     {
-      "id": "corpuschri-compline",
+      "id": "corpuschri-c02",
       "title": {
         "en-US": "Compline",
         "la": "Compline"
       }
     },
     {
-      "id": "corpuschri-matins",
+      "id": "corpuschri-c03",
       "title": {
         "en-US": "Matins",
         "la": "Matins"
       }
     },
     {
-      "id": "corpuschri-lauds",
+      "id": "corpuschri-c04",
       "title": {
         "en-US": "Lauds",
         "la": "Lauds"
       }
     },
     {
-      "id": "corpuschri-prime",
+      "id": "corpuschri-c05",
       "title": {
         "en-US": "Prime",
         "la": "Prime"
       }
     },
     {
-      "id": "corpuschri-terce",
+      "id": "corpuschri-c06",
       "title": {
         "en-US": "Terce",
         "la": "Terce"
       }
     },
     {
-      "id": "corpuschri-sext",
+      "id": "corpuschri-c07",
       "title": {
         "en-US": "Sext",
         "la": "Sext"
       }
     },
     {
-      "id": "corpuschri-none",
+      "id": "corpuschri-c08",
       "title": {
         "en-US": "None",
         "la": "None"
       }
     },
     {
-      "id": "corpuschri-second-vespers",
+      "id": "corpuschri-c09",
       "title": {
         "en-US": "Second Vespers",
         "la": "Second Vespers"
       }
     },
     {
-      "id": "corpuschri-compline",
+      "id": "corpuschri-c10",
       "title": {
         "en-US": "Compline",
         "la": "Compline"
       }
     },
     {
-      "id": "corpuschri-within-the-octave",
+      "id": "corpuschri-c11",
       "title": {
         "en-US": "Within the Octave",
         "la": "Within the Octave"
       }
     },
     {
-      "id": "corpuschri-holy-mass",
+      "id": "corpuschri-c12",
       "title": {
         "en-US": "Holy Mass",
         "la": "Holy Mass"

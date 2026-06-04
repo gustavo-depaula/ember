@@ -1,133 +1,85 @@
-# C. 37 - Jeremiah falsely suspected
+# C. 35 - The Rechabites’ commandment
 
 ***Lecture 1***
 
-***The king asks for prayers***
+***The Rechabites’ fidelity***
 
-***^37:1^ And king Zedekiah, the son of Josiah, reigned in the stead of Jekoniah, the son of Jehoiakim, whom Nebuchadnezzar, the king of Babylon, had established as king in the land of Judah.***
+***^35:1^ The word which came to Jeremiah from the Lord in the days of Jehoiakim, the son of Josiah, the king of Judah, saying:***
 
-> ^37:2^ And he and his servants and the people of the land did not obey the words of the Lord, which he spoke by the hand of Jeremiah the prophet.
+> ^35:2^ go to the house of the Rechabites, and speak to them, and bring them into the house of the Lord, into one of the treasure chambers, and you shall give them wine to drink.
 
-> ^37:3^ And king Zedekiah sent Jehucal, the son of Shelemiah, and Zephaniah, the son of Maasiah the priest, to Jeremiah the prophet, saying, ‘Pray for us to the Lord our God.’
+> ^35:3^ And I took Jaazaniah, the son of Jeremiah, the son of Habazzinaiah, and his brothers, and all his sons, and the whole house of the Rechabites,
 
-> ^37:4^ Now Jeremiah was freely walking in the midst of the people, for they had not put him into the keeping of the prison. Therefore, the army of pharaoh went forth from Egypt, and when the Chaldeans who were besieging Jerusalem heard the report of it, they withdrew from Jerusalem.
+> ^35:4^ and I brought them into the house of the Lord to the treasury of the sons of Hanan, the son of Igdaliah, the man of God, which was near the treasury of the princes, above the treasure of Maaseiah, the son of Shallum, who was the keeper of the vestibule.Heb. שֹׁמֵ֥ר הַסַּֽף: *keeper of the door*.
 
-> **196**. Here is shown the counter-response, from the persecution of the prophet.
+> ^35:5^ And I set goblets and cups full of wine before the sons of the house of the Rechabites, and I said to them, ‘Drink wine.’
 
-First is given the persecution itself because of false suspicion;  
+> ^35:6^ But they responded, ‘We shall not drink wine, because Jonadab, the son of Rechab, our father, commanded us, saying, ‘You shall not drink wine, you and your children, forever.
 
-second, because of a true prediction, ***and Shephatiah, the son of Mathan, heard*** (Jer 38:1).  
+> ^35:7^ And you shall not build a house, nor sow seed, neither shall you plant vineyards, nor have them; but you shall dwell in tents all your days, that you may live many days upon the face of the earth in which you sojourn.’
 
-Concerning the former, there are three points.  
+> ^35:8^ We have obeyed, therefore, the voice of Jonadab, the son of Rechab, our father, in everything which he commanded us, that we should not drink wine all our days, we and our wives, our sons, and our daughters,
 
-First, he gives the occasion for the suspicion;  
+> ^35:9^ and that we should not build houses to dwell therein; and we have not had vineyard, field, or seed.
 
-second, he gives the suspicion, at ***and when he had arrived at the gate of Benjamin*** (Jer 37:12);  
+> ^35:10^ But we have dwelt in tents, and were obedient to all which Jonadab our father commanded us.
 
-third, the persecution, at ***and they seized Jeremiah the prophet*** (Jer 37:12).  
+> ^35:11^ But when Nebuchadnezzar king of Babylon came up to our land, we said, ‘Come, and let us enter into Jerusalem from the face of the army of the Chaldeans, and from the face of the army of Syria.’ And we have dwelt in Jerusalem.
 
-Concerning the former, there are two points.  
+> **187**. Here, he convicts them of their transgression by the example of certain obedient men.
 
-First is given the occasion, arising from the word of the prophet;  
+First is given the trial of their obedience;  
 
-second, the occasion that arose from the deed itself, at ***and when he had arrived*** (Jer 37:12).  
-
-Concerning the former, there are two points.  
-
-First, the consultation is given;  
-
-second, the prophet’s displeasing response to them, at ***and the word of the Lord came to Jeremiah*** (Jer 37:5).  
+second is given the condemnation of disobedience, at ***and the word of the Lord came to Jeremiah*** (Jer 35:12).  
 
 Concerning the former, there are three points.  
 
-First, he describes the character of those who were consulting: ***whom Nebuchadnezzar had established as king***, as we also read in 2 Kgs 24.*He appointed Mattaniah his uncle in his stead; and he changed his name to Zedekiah* (2 Kgs 24:17).  
+First, the command to test them is given by the Lord to the prophet: ***go to the house of the Rechabites***, who were given to the study of Scripture and therefore abstained from wine, concerning whom we read: *the family of scribes dwelling in Jabez, singing and making melody, who dwell in tents. These are the Kennites, who came of Calor, father of the house of Rechab* (1 Chron 2:55).A more literal translation of this verse from the Hebrew might be rendered as follows: *and the families of scribes that dwelled at Jabez: the Tirathites, the Shimeathites, the Sucathites. These are the Kennites who came from Hammath, the father of the house of Rechab*. ***Chamber***—something like a room outside the main building. ***You shall give***, proving their obedience. Above: ***I have set you as an assayer over my people; and you shall know, and prove their way*** (Jer 6:27).  
 
-***And he did not obey***, that he should dissolve the tribute to the king of Babylon and cease from sinning. *Render unto Caesar the things that are Caesar’s, and to God the things that are God’s* (Matt 22:21). ***Servants***, domestic servants; ***the people***: *as the judge of the people, so his servant, and as the ruler of a city, so the inhabitants thereof* (Sir 10:2).  
+***And I took and brought them into the house of the Lord to the treasury*** (*gazophylacium*), in which the riches of the temple were kept; in Greek, ***Gaza*** means “riches,” and ***phylaxa*** means “keeping.” ***Maaseiah***, who received this ministry in the time of David (1 Chron 24:3–18); ***of the vestibule***, the atrium. Because the house in front of the principle chamber, where clothing (*vestes*) is kept, is called the vestibule, it became the custom to call every atrium a vestibule.  
 
-Second, the consultation is given: ***and king Zedekiah sent . . . saying, ‘Pray for us,’*** that he may indicate to us what we should do to be freed from the enemy. *Raise up, therefore, a prayer for the remnant which is left* (Isa 37:4).  
+***Cups***, for water. ***Drink wine***, that he might make a trial of the mysteries.The private rites and practices of the Rechabites. *Eat my bread, and drink the wine which I have mixed for you* (Prov 9:5).  
 
-Third, the reason for the consultation, for they drew confidence from the prophet’s liberty, whom they had not yet afflicted: ***now Jeremiah was walking in the midst of the people***, and from the breaking of the siege: ***therefore, the army of pharaoh went forth from Egypt***, for the king of Egypt had gone forth to free the Jews. However, having been completely overwhelmed, the army returned. *Behold, you trust in this broken staff of reed: in Egypt* (Isa 36:6).  
+Third, their declaration of obedience is given: ***but they responded***.  
+
+First is mentioned the paternal command of not drinking wine: ***you shall not drink***. *I thought to draw my flesh from wine, that I might turn my mind to wisdom* (Eccl 2:3).  
+
+And of poverty, lest by concern for temporal things, they should interrupt the study of wisdom. ***And you shall not build a house***. *As possessing nothing, and having all things* (2 Cor 6:10).  
+
+Second is mentioned their fulfilment: ***we have obeyed, therefore***. *My son do not forget my law, and let your heart keep my commandments* (Prov 3:1).  
+
+***In tents***. *They pitched their tents in deserted places* (Wis 11:2).  
+
+Third, the necessary transgression is excused: ***but when Nebuchadnezzar came up***.  
 
 Lecture 2  
 
-***The Chaldeans’ imminent victory***
+***Comparison to Rechabites***
 
-***^37:5^ And the word of the Lord came to Jeremiah, the prophet, saying:***
+***^35:12^ And the word of the Lord came to Jeremiah, saying:***
 
-> ^37:6^ thus says the Lord God of Israel: thus shall you say to the king of Judah, who sent you to me to inquire: behold the army of pharaoh, who has come forth to help you, shall return to its own land, to Egypt.
+> ^35:13^ thus says the Lord of hosts, the God of Israel: go and speak to the men of Judah, and to the inhabitants of Jerusalem: will you not accept correction that you may obey my words? says the Lord.
 
-> ^37:7^ And the Chaldeans shall come again, and they shall make war against this city, and they shall take it, and burn it with fire.
+> ^35:14^ The words of Jonadab, the son of Rechab, which he commanded his sons, that they should not drink wine, have prevailed, and they do not drink unto this day, because they obey the command of their father; but I have spoken unto you, arising early and speaking, and you have not obeyed me.
 
-> ^37:8^ Thus says the Lord: do not deceive your souls, saying, ‘They shall surely go away and depart from us,’ for they shall not go away.
+> ^35:15^ I have sent all my servants the prophets unto you, rising early and sending them, saying: let each one turn from his wicked way, and make your doings good; and do not follow after strange gods, neither worship them, and you shall dwell in the land which I gave to you and to your fathers. And you did not incline your ear, neither did you hearken unto me.
 
-> ^37:9^ But even if you shall strike the whole army of the Chaldeans, who fight against you, and there were left of them only certain wounded men, they would rise each one from his tent, and burn this city with fire.
+> ^35:16^ Therefore, the sons of Rechab have performed the commandment of their father, which he commanded them. But this people has not obeyed me.
 
-> **197**. Here, the response of the prophet is given.
+> ^35:17^ Therefore, thus says the Lord of hosts, the God of Israel: behold, I shall bring upon Judah and upon all the inhabitants of Jerusalem all the evil which I have spoken against them, because I have spoken unto them, and they did not listen; I have called them, and they have not answered me.
 
-First, he excludes the help of Egypt: ***behold the army of pharaoh***. *For Egypt shall help in vain, and to no purpose* (Isa 30:7).  
+> ^35:18^ But to the house of the Rechabites Jeremiah said: thus says the Lord of hosts, the God of Israel: because you have obeyed the commandment of Jonadab your father, and have kept all his commandments, and have done all that he commanded you,
 
-Second, he predicts the return of the Chaldeans: ***and the Chaldeans shall come again***.  
+> ^35:19^ therefore, thus says the Lord of hosts, the God of Israel: there shall not want a man of the line of Jonadab, the son of Rechab, to stand before me all days.
 
-***Do not deceive***, with false hope. *I have called my friends, and they have deceived me* (Lam 1:19).  
+> **188**. Here, the condemnation of their disobedience is given.
 
-Third, he excludes hindrance: ***even if you shall strike***. *How did one pursue a thousand, and two put ten thousand to flight? Was it not, therefore, because the Lord your God sold them, and the Lord shut them up?* (Deut 32:30).  
+First, diverse merits are compared, when his astonishment at their disobedience is spoken of: ***will you not accept correction***, even by scourgings and examples? Above: ***in vain have I struck your children; they have not received correction*** (Jer 2:30).  
 
-Lecture 3  
+The reason for his astonishment is also given: ***the words have prevailed***; it is as though he were saying, “The words of a carnal father have had greater efficacy than the words of a spiritual father.” *We indeed have had fathers of our flesh for instructors, and we reverenced them; shall we not much more obey the Father of spirits and live?* (Heb 12:9). And the proof of the comparison—for while the former obeyed, the latter did not obey: ***but I have spoken unto you***. Above: ***I have spoken to you rising early and speaking, but you did not listen; I called you, and you did not respond*** (Jer 7:13).  
 
-***Jeremiah goes to divide his property***
+Second, various rewards are promised.  
 
-***^37:10^ Therefore, when the army of the Chaldeans departed from Jerusalem because of the army of pharaoh,***
+First, he promises punishment to those who disobey: ***therefore, thus says the Lord***. *For I called and you refused; I stretched out my hand and no man regarded; you have despised all my counsel, and would have none of my reproofs; I also shall laugh at your destruction, and mock when what you fear comes* (Prov 1:24–26).  
 
-> ^37:11^ Jeremiah went out from Jerusalem that he should go to the land of Benjamin, and there divide his property in the sight of the people.
-
-> **198**. Here, he speaks of the occasion arising from his action: ***and there divide his property***, which he had purchased—that is, to mark it out from the other fields, or to distribute it to others, that he might remain free of care. *As having nothing, and possessing all things* (2 Cor 6:10).
-
-Lecture 4  
-
-***Guards await Jeremiah***
-
-***^37:12a^ And when he had arrived to the gate of Benjamin, there were guards there by turns, by the name of Jeriah, the son of Shelemiah, the son of Hananiah.***
-
-> **199**. Here, the false suspicion is given. *False witnesses have risen up against me, and iniquity has lied to itself* (Ps 26:12).
-
-Lecture 5  
-
-***Jeremiah cast into prison***
-
-***^37:12b^ And they seized Jeremiah the prophet, saying, ‘Are you are fleeing to the Chaldeans?’***
-
-> ^37:13^ And Jeremiah answered, ‘It is false. I am not fleeing to the Chaldeans.’ And they did not listen to him, but Jeriah seized Jeremiah, and brought him to the princes.
-
-> ^37:14^ For this reason, the princes were angry with Jeremiah, and struck him and cast him into the prison which was in the house of Jonathan the scribe, for he was set over the prison.
-
-> ^37:15^ And so Jeremiah entered the house of the pit, and the workhouse; and Jeremiah sat there for many days.
-
-> ^37:16^ Then Zedekiah the king, sending for him, took him and inquired of him secretly in his own house, ‘Do you think that there is a word from the Lord?’ And Jeremiah said, ‘There is.’ And he said, ‘You shall be given over into the hand of the king of Babylon.’
-
-> ^37:17^ And Jeremiah said to king Zedekiah, ‘How have I sinned against you, and your servants, and your people, that you have put me in this house of bondage?
-
-> ^37:18^ Where are your prophets, who prophesied to you, and said, ‘The king of Babylon shall not come upon you, and upon this land?’
-
-> ^37:19^ Now, therefore, hear, I beseech you, my lord the king. Let my prayer prevail in your sight, and do not send me back to the house of Jonathan the scribe, lest I die there.’
-
-> ^37:20^ Therefore, king Zedekiah commanded that Jeremiah should be handed over to the courtyard of the prison, and that he should be given loaves of bread every day, without condiment,Heb. מִחוּץ הָאֹפִים: *from the street of the bakers*. until all the bread of the city should be consumed. And Jeremiah remained in the vestibule of the prison.
-
-> **200**. Here, the persecution is spoken of in three ways.
-
-In his capture. *They have chased and taken* (Lam 3:52).  
-
-In his flagellation: ***the princes struck him*** (Jer 37:14). Likewise Acts 8. *They suffered mockeries, and stripes* (Heb 11:36).  
-
-And in his imprisonment: ***and so Jeremiah entered the house of the pit***. *I am reckoned with those that go down into the pit* (Ps 87:5). ***The workhouse***—this is also properly a prison in which someone is condemned to some type of labor.  
-
-Second, his liberation is spoken of: ***sending***. Concerning this, there are three points.  
-
-First, the occasion of his liberation is given: ***do you think that there is a word from the Lord?***, which predicts the future, that has been revealed to you. *Should not the people seek a vision of their God for the living and the dead?* (Isa 8:19). And he gives the response: ***and Jeremiah said***. *But I have been sent to you as a bearer of hard news* (1 Kgs 14:6).  
-
-Second, the request for liberty is given: ***and Jeremiah said to the king***. Here, he shows his unjust punishment: ***how have I sinned?*** *You shall not find iniquity in my tongue, nor shall foolishness go forth from my mouth* (Job 6:30).  
-
-He clears himself of the guilt with which he has been charged: ***where are your prophets?*** It is as though he were saying, “Their falsehood and my truthfulness are now made manifest.” For the army of the Chaldeans had already returned, which they had denied would come back. Above: ***the prophet who foretold peace, when his word came to pass, he was known as a prophet whom the Lord had sent in truth*** (Jer 28:9).  
-
-And he asks for mercy: ***now, therefore, hear, I beseech you***. *A soft answer breaks wrath, but a hard word stirs up fury* (Prov 15:1). *A sweet word multiplies friends, and softens enemies; and a gracious tongue shall abound in a good man* (Sir 6:5).  
-
-Third, the obtaining of the request is mentioned: ***therefore, king Zedekiah commanded that Jeremiah should be handed over to the courtyard of the prison, and that he should be given loaves of bread every day, without condiment***, which he did not wish to be added; ***in the vestibule***, that is, in the courtyard.
+Second, mercy for those who obey: ***but to the house of the Rechabites Jeremiah said***. *Obedience is better than sacrifices, and to hearken is better than to offer the fat of rams* (1 Sam 15:22).

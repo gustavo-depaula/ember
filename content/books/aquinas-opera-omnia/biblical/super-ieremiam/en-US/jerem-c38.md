@@ -1,145 +1,185 @@
-# C. 38 - Jeremiah persecuted by the princes
+# C. 36 - Jeremiah’s book
 
 ***Lecture 1***
 
-***Jeremiah thrown into a pit***
+***Jeremiah writes a book***
 
-***^38:1^ And Shephatiah, the son of Mathan, and Gedaliah, the son of Pashhur, and Jucal, the son of Milchiah, heard the words which Jeremiah spoke to the entire people, saying:***
+***^36:1^ And it came to pass in the fourth year of Jehoiakim, the son of Josiah, king of Judah, that this word from the Lord came to Jeremiah, saying:***
 
-> ^38:2^ thus says the Lord: whosoever shall remain in this city shall die by the sword, and by famine, and by pestilence. But whoever shall flee to the Chaldeans shall live, and his soul shall be safe and live.
+> ^36:2^ take the scroll of the book, and write in it all the words which I have spoken to you against Israel, and Judah, and against all the nations, from the day when I spoke to you, from the days of Josiah until this day.
 
-> ^38:3^ Thus says the Lord: this city shall surely be handed over into the hand of the army of the king of Babylon, and he shall take it.
+> ^36:3^ For perhaps when the house of Judah hears all the evil which I think to do to them, each one will return from his own wicked way, and I will forgive their iniquity, and their sin.
 
-> ^38:4^ And the princes said to the king, ‘We ask that this man be killed, for he intentionally weakens the hands of the men of war who remain in this city, and the hands of all the people, speaking to them according to these words. For this man surely does not seek peace for this people, but evil.’
+> ^36:4^ Jeremiah, therefore, called Baruch, the son of Neriah, and Baruch wrote, from the mouth of Jeremiah, all the words which the Lord had spoken unto him in the scroll of the book.
 
-> ^38:5^ And king Zedekiah said, ‘Behold, he is in your hands, for it is not permitted for the king to deny you anything.’
+> **189**. Here, the description of the writing is given first;
 
-> ^38:6^ Therefore, they took Jeremiah and cast him into the pit of Milchiah, the son of Amelech,As noted above, Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” Milchiah is another of the king’s sons. which was in the courtyard of the king. And they lowered Jeremiah down with ropes into the pit, in which there was no water, but mud. And so Jeremiah went down into the mud.
+second, the destruction of the writing, at ***now the king was sitting in the winter-house*** (Jer 36:22);  
 
-> ^38:7^ Now Ebed-Melech the Ethiopian, a eunuch man who was in the house of the king, heard that they had put Jeremiah into the pit. Moreover, the king was sitting in the gate of Benjamin.
+third, its restoration, at ***and the word of the Lord came to Jeremiah*** (Jer 36:27).  
 
-> ^38:8^ And Ebed-Melech went forth from the house of the king, and spoke to the king, saying:
+Concerning the former, there are three points.  
 
-> ^38:9^ ‘My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, casting him into a pit, that he should die there of hunger; for there is no longer any bread in the city.’
+First, he gives the command to write: ***take the scroll***. *Write the vision and make it plain upon tablets, that he who reads it may run over it* (Hab 2:2).  
 
-> ^38:10^ And so, the king commanded Ebed-Melech the Ethiopian, saying, ‘Take with you hence thirty men, and raise Jeremiah from the pit, before he die.’
+Second, he gives the fruit of the writing: ***for perhaps when the house of Judah***. *If the wicked man repents from all his sins which he has done, and shall keep all my commandments, and execute judgment and justice, he shall surely live, and not die* (Ezek 33:19).  
 
-> ^38:11^ Therefore, taking with him thirty men, Ebed-Melech entered the house of the king which was beneath the treasury, and took from there old rags, and old things, which had rotted, and let them down to Jeremiah by ropes.
-
-> ^38:12^ And Ebed-Melech the Ethiopian said to Jeremiah, ‘Put these old rags and these torn and rotten things under your arms, and upon the ropes.’ Therefore, Jeremiah did so.
-
-> ^38:13^ And they drew Jeremiah out with ropes, and brought him forth from the pit: but Jeremiah remained in the vestibule of the prison.
-
-> **201**. In this section is shown the persecution of the prophet because of his true prediction, and it is divided into three parts.
-
-First, he gives the prediction: ***Jeremiah spoke***.  
-
-Even though he was in prison, nevertheless, many would come to him, and through them he threatened death to those who remained: ***whosoever shall remain in this city shall die***. And he promises safety to those who flee: ***but whoever shall flee . . . shall live***.  
-
-The taking of the city: ***this city shall surely be handed over***. He also mentioned these three things above in chapter 21 (Jer 21:7). For this reason, it seems to continue, according to the historical order, from that point.  
-
-Second, he speaks of the persecution when he speaks of the wicked petition of the princes, for they seek his death: ***and the princes said***. *Let us lie in wait the just man, for he is contrary to our works* (Wis 2:12). They accuse his preaching: ***for he intentionally weakens the hands of the men***, which is contrary to the prophetic duty. *Strengthen the feeble hands, and confirm the week knees* (Isa 35:3). And they pervert his intention: ***for this man surely does not seek peace***. *Am I therefore become your enemy, because I tell you the truth?* (Gal 4:16). But Jeremiah did not wish to destroy the will to resist, but he said those things for the well-being and safety of the people by the command of the Lord.  
-
-He also speaks of the foolish compliance of the king: ***and king Zedekiah said***. For this reason, he is not excused, even though he sinned less. *Therefore, he who handed me over to you has the greater sin* (John 19:11).  
-
-He also speaks of the careful execution of the plan: ***therefore, they took Jeremiah and cast him into the pit***, a cistern without water. *They have put me in the lower pit, in the darkness, and in the shadow of death* (Ps 87:7). He speaks of the prophet’s being let down: ***and so Jeremiah went down into the mud***. *I am stuck fast in the deep mud, there is no sure footing* (Ps 87:3).  
-
-Third, the liberation is mentioned. Here, he makes two points.  
-
-First, that he is freed from prison;  
-
-second, that he is freed from the fear of death, at ***and king Zedekiah sent and took Jeremiah unto him*** (Jer 38:14).  
-
-Concerning the former, there are four points.  
-
-First, he describes the petitioner, ***Ebed-Melech***, which signifies “servant of the king,” which he calls him because of his humility. *Paul a servant of Jesus Christ* (Rom 1:1). ***Ethiopian***, because of his mortification of the flesh. *Ethiopia shall stretch out her hand to God* (Ps 67:32). *I am black, but beautiful* (Song 1:4). ***A man***, because of the strength of his spirit; ***eunuch***, because of his chastity. *There are eunuchs who have castrated themselves because of the kingdom of heaven* (Matt 19:12). ***Who was in the house of the king***. *Our conversation is in the heavens* (Phil 3:20). *The eunuch who has not worked iniquity with his hands, nor thought wickedness against God, to him shall be given the choice gift of faith, and a most acceptable lot in the temple of God* (Wis 3:14).  
-
-Second, he speaks of the petition when he designates the place of the petition: ***moreover, the king was sitting in the gate of Benjamin***, which certainly led to the tribe of Benjamin.  
-
-And he gives the petition: ***and Ebed-Melech went forth from the house of the king, and spoke to the king . . . for there is no longer any bread in the city***; it is as though he were saying, “From the time when he was imprisoned, bread has failed.” Or it was not necessary for him to be imprisoned, since we are all besieged and in want. *Those things by which a man sins are the same also by which he is tormented* (Wis 11:17).  
-
-Third, the obtaining of the request is mentioned: ***and so, the king commanded***.  
-
-Fourth, the execution of the command is spoken of: ***therefore, taking with him thirty men, Ebed-Melech entered the house of the king . . . and took from there old rags, and old things, which had rotted***, because of the hardships they had endured. *Remember those who are set over you, who have spoken the word of God to you, whose faith follow, considering the end of their conversation* (Heb 13:7). Or, literally, because they are softer. ***By ropes***, of the commandments of God. *A three-ply rope is broken with difficulty* (Eccl 4:12).  
-
-***In the vestibule of the prison***, that is, in the atrium. For the room before the chamber of the king is called a vestibule, where garments are kept; for this reason, every atrium is called a vestibule.  
+Third, the minister of the writing: ***Jeremiah, therefore, called Baruch***. *Write what you see in a book, and send it to the seven churches which are in Asia* (Rev 1:11).  
 
 Lecture 2  
 
-***Secret prophecy to the king***
+***The scroll read in the temple***
 
-***^38:14^ And king Zedekiah sent and took Jeremiah the prophet unto him to the third gate which was in the house of the Lord. And the king said to Jeremiah, ‘I shall ask you a thing, do not hide anything from me.’***
+***^36:5^ And Jeremiah commanded Baruch, saying: I am imprisoned, and cannot enter the house of the Lord.***
 
-> ^38:15^ But Jeremiah said to Zedekiah, ‘If I tell you, will you not kill me? And if I give you counsel you will not listen to me.’
+> ^36:6^ Therefore, you shall go, and read from the scroll in which you have written the words of the Lord from my mouth, while the people listen in the house of the Lord, on the fast day; and also you shall read to them in the hearing of all Judah, that come out of their cities.
 
-> ^38:16^ Therefore, king Zedekiah swore secretly to Jeremiah, saying, ‘As the Lord lives, who made this soul within us, I will not kill you, and I will not give you over into the hands of these men who seek your soul.’
+> ^36:7^ It may be that they present their petition before the Lord,Heb. אוּלַ֞י תִּפֹּ֤ל תְּחִנָּתָם֙ לִפְנֵ֣י יְהוָ֔ה: *perhaps their plea will fall before the Lord*. and each one turn from his own wicked way; for it is a great fury and indignation which the Lord has spoken against this people.
 
-> ^38:17^ And Jeremiah said to Zedekiah, ‘Thus says the Lord of hosts, the God of Israel: if you shall indeed go forth to the princes of the king of Babylon, your soul shall live, and this city shall not be burned with fire, and you and your house shall be saved.
+> ^36:8^ And Baruch, the son of Neriah, did according to all which Jeremiah commanded him when he read the words of the Lord from the scroll in the house of the Lord.
 
-> ^38:18^ But if you will not go forth to the princes of the kings of Babylon, this city shall be given over into the hands of the Chaldeans, and they shall burn it with fire. And you shall not escape out of their hand.’
+> ^36:9^ Now it came to pass in the fifth year of Jehoiakim, the son of Josiah, king of Israel, in the ninth month, that they proclaimed a fast in the sight of the Lord for all the people in Jerusalem, and for the whole multitude which had come from the cities of Judah.
 
-> ^38:19^ And king Zedekiah said to Jeremiah, ‘I am afraid of the Jews, who have fled over to the Chaldeans, lest I be given over into their hands and they mock me.’
+> ^36:10^ And Baruch read the words of Jeremiah from the scroll in the house of the Lord, in the treasury of Gemariah, the son of Shaphan the scribe,Gemariah is the brother of Ahicam, who had protected Jeremiah from death (Jer 26:24). in the upper vestibule, in the opening of the new gate of the house of the Lord, in the hearing of all the people.
 
-> ^38:20^ But Jeremiah responded, and said to him: ‘They shall not hand you over. Hear, I beseech you, the word of the Lord which I speak to you, and it shall be well with you, and your soul shall live.
+> **190**. Here, the declaration is first given to the people;
 
-> ^38:21^ But if you are unwilling to go forth, this is the word which the Lord has shown me:
+second, to the princes, at ***and when Micaiah had heard*** (Jer 36:11);  
 
-> ^38:22^ behold, all the women who have remained in the house of the king of Judah shall be led out to the princes of the king of Judah, and they shall say, ‘Your men of peace have deceived you, and prevailed against you. They have plunged your feet into mud and into a slippery place, and they have withdrawn from you.’
+third, to the king, at ***therefore, when they had heard all the words*** (Jer 36:16).  
 
-> ^38:23^ And all your wives and your sons shall be led out to the Chaldeans, and you shall not escape out of their hands, but shall be caught in the hand of the king of Babylon, and he shall burn this city with fire.’
+Concerning the former, first, the command to announce is given: ***I am imprisoned***. *Labor like a good soldier of Christ Jesus* (2 Tim 2:3). *That more of the brothers in the Lord, trusting in my chains, may dare more abundantly to speak the word of God without fear* (Phil 1:14).  
 
-> ^38:24^ Therefore, Zedekiah said unto Jeremiah, ‘Let no one know these words, and you shall not die.
+Second is given the manner of announcing with regard to place: ***in the house of the Lord***, which is a place of devotion. *My house shall be called a house of prayer for all peoples, says the Lord God* (Isa 56:7). With regard to the time: ***on the fast day***, which is a time of contrition. *Is this not rather the fast that I have chosen? To loose the bonds of wickedness, to undo the bundles which oppress, to let those who are broken go free, and to break every burden. To break your bread to those who are hungry and needy, and to bring the homeless into your house. When you see one who is naked, to cover him, and to despise not your own flesh* (Isa 58:6–7). With regard to the listeners: ***while the people listen***. With regard to those who have come to the city: ***and also in the hearing of all Judah, that come out of their cities***.  
 
-> ^38:25^ But if the princes hear that I have spoken with you, and they come to you, and say to you, ‘Tell us what you said to the king; do not hide it from us, and we shall not kill you; and what the king said to you.’
+Third, he gives the fruit of the declaration when he speaks of its usefulness: ***it may be that they present their petition before the Lord***, that is, it may be accepted. And their subsequent holiness: ***and each one turn from his own wicked way; for it is a great fury and indignation***. *The great wrath of the Lord is kindled against us, because our fathers hearkened not to the words of this book, to do all that was written to us* (2 Kgs 22:13).  
 
-> ^38:26^ You shall say to them that I presented my petitions before the king, that he should not order me to be taken back to the house of Jonathan, lest I should die there.’
+Fourth, the fulfillment of the commandment is given, with regard to action: ***and Baruch did***. *Obey those who are set over you, and be subject to them* (Heb 13:17).  
 
-> ^38:27^ Therefore, all the princes came to Jeremiah, and they asked him, and he spoke to them according to all the words which the king had commanded him; and they ceased from him, for they had heard nothing.
+With regard to time: ***now it came to pass in the fifth year of Jehoiakim***. *Sanctify the congregation, assemble the elders, gather the young, and those who suck at the breast* (Joel 2:15).  
 
-> **202**. Here, he is freed from the fear of death, his safety having been granted to him by the king.
-
-First, the agreement for his safety is spoken of;  
-
-second, the keeping of the agreement, at ***but Jeremiah remained in the vestibule of the prison*** (Jer 38:28).  
-
-Concerning the former, there are two points.  
-
-First, their reciprocal requests are mentioned. For the king seeks a divine response or counsel: ***I shall ask***. *I adjure you again and again that you do not tell me anything in the name of the Lord except that which is true* (1 Kgs 22:16).  
-
-And the prophet seeks a promise of safety: ***but Jeremiah said to Zedekiah***. *If I tell you, you will not believe me* (Luke 22:67). For it could be read as a question or a remission.  
-
-Second, their mutual resolution is given.  
-
-For the king first makes a promise of safety: ***therefore, king Zedekiah swore . . . I will not kill you***, lest evil befall me. *I the Lord have called you in justice, and I have taken your hand, and saved you* (Isa 42:6).  
-
-Second, the prophet gives a counsel of salvation. And concerning this, he makes four points.  
-
-First, the salutary exhortation of the prophet is mentioned: ***and Jeremiah said***. And the option is given to the king of choosing good or evil. *Life and death are before a man, and whichever he pleases, shall be given to him* (Sir 15:18).  
-
-Second, the excuse of the king is given: ***and the king said . . . I am afraid of the Jews***, whose goods he had destroyed because they had fled to the Chaldeans. Above: ***each one guards himself from his neighbor, and has no confidence in any brother; because every brother shall surely supplant, and every friend shall walk deceitfully*** (Jer 9:4).  
-
-Third, the exclusion of his response is given: ***Jeremiah responded***, by which he excludes fear, if he should listen to his advice: ***they shall not hand you over***. *If you are willing, and will listen to me, you shall eat the good things of the earth* (Isa 1:19).  
-
-He gives a threat, if he should disdain to listen: ***but if you are unwilling***.  
-
-But he threatens the contempt of the women: ***behold, all the women shall say***. For by insults they reproach the foolish counsel of their friends: ***your men have deceived***, as much as it was in their power, ***and prevailed***, because you believed them; ***your men of peace***, who promised peace to you. *O my people, those who call you blessed, deceive you, and destroy the way of your steps* (Isa 3:12). The resultant harm: ***they have plunged your feet into the mud***, of sin; ***into a slippery place***, of punishment. *Let their ways be dark and slippery* (Ps 34:5). And their departure: ***they have withdrawn from you***. *There is a friend for his own time, and he shall not remain in the day of tribulation* (Sir 6:9).  
-
-He also threatens the capture of his family: ***and all your wives***. *They shall take of your sons who shall come forth from you, whom you shall beget, and they shall be eunuchs in the palace of the king of Babylon* (Isa 39:7). And of his own person: ***and you shall not escape***. *There was none in the day of the Lord’s fury who escaped and was left* (Lam 2:22). He also threatens the capture of the city: ***and he shall burn this city with fire***. *I shall kindle a fire in the wall of Rabbah, and it shall devour the houses thereof* (Amos 1:14).  
-
-Fourth, the king asks that the counsel which he has given should be kept secret: ***therefore, Zedekiah said unto Jeremiah***.  
-
-Concerning this, he makes three points.  
-
-First, he asks that the counsel should be kept secret: ***let no one know***. *It is good to hide the secret of the king, but it is honorable to reveal and confess the works of God* (Tob 12:7).  
-
-Second, he teaches him the manner in which it is to be kept secret: ***but if the princes hear***, that he may keep silent as to the truth and not speak a falsehood. *He who governs his lips is most prudent* (Prov 10:19).  
-
-Third, the fulfillment of the petition is mentioned: ***therefore, all the princes came to Jeremiah***. *He who walks deceitfully reveals hidden things; but he who is a friend conceals what is committed to him by a friend* (Prov 11:13).  
+With regard to place: ***and Baruch read . . . in the opening of the new gate***, which Joash had made (2 Chron 27:3). ***In the upper vestibule***, that is, in the upper part of the courtyard, in which the priests would offer sacrifice. *They read in the scroll of the Lord their God four times in the day, and four times in the night* (Neh 9:3).  
 
 Lecture 3  
 
-***Jeremiah remains in prison***
+***Baruch reads to the princes***
 
-***^38:28^ But Jeremiah remained in the vestibule of the prison until the day when Jerusalem was captured. And it came to pass that Jerusalem was captured.***
+***^36:11^ And when Micaiah, the son of Gemariah, the son of Shaphan, had heard all the words of the Lord from the book,***
 
-> **203**. Here, the fulfillment of his request is mentioned: ***in the vestibule***. He was not put in the pit, in keeping with his request.
+> ^36:12^ he went down to the house of the king, to the treasury of the scribe, and behold, all the princes were seated there: Elishamah the scribe, and Delaiah, the son of Shemaiah, and Elnathan, the son of Achbor, and Gemariah, the son of Shaphan, and Zedekiah, the son of Hananiah, and all the princes.
+
+> ^36:13^ And Micaiah related to them all the words which he had heard, while Baruch was reading from the scroll in the hearing of the people.
+
+> ^36:14^ All the princes, therefore, sent Jehudi, the son of Nathaniah, the son of Shelemiah, the son of Cushi, to Baruch, saying, ‘Take the scroll, from which you read in the hearing of the people, in your hand, and come.’ Therefore, Baruch, the son of Neriah, took the scroll in his hand, and came to them.
+
+> ^36:15^ And they said to him, ‘Sit, and read these things in our ears.’ And Baruch read in their ears.
+
+> ^36:16a^ Therefore, when they had heard all the words, they turned in fear each one to his neighbor,
+
+> **191**. Here, the declaration to the princes is given.
+
+First, concerning the writing of the prophecy and the making known of its meaning to the princes: ***and Micaiah related to them***. *Let him who hears say: come* (Rev 22:17).  
+
+Second, the petition for the writing: ***all the princes, therefore, sent . . . to Baruch, saying, ‘Take the scroll, from which you read in the hearing of the people, in your hand’***—mystically, in operation. *Whatsoever your hand is able to do, do it with earnestness; for neither work, nor reason, nor wisdom, nor knowledge shall be in the underworld, to which you are hastening* (Eccl 9:10). The bringing: ***therefore, Baruch took***.  
+
+Third is given the recitation of the writing: ***and they said to him, ‘Sit, and read these things in our ears.’*** *For I have not shunned to declare the whole plan of God to you* (Acts 20:27).  
+
+And the effect of the reading: ***therefore, when they had heard all the words, they turned in fear***. Above: ***are not my words like fire, says the Lord, and like a hammer breaking down the rock?*** (Jer 23:29).  
+
+Lecture 4  
+
+***The scroll read to the king***
+
+***^36:16b^ and they said to Baruch, ‘We must tell the king all these words.’***
+
+> ^36:17^ And they inquired of him, saying, ‘Tell us, how did you write all these words from his mouth?’
+
+> ^36:18^ And Baruch said to them, ‘He spoke with his mouth as though reading to me all these words, and I wrote them in the scroll with ink.’
+
+> ^36:19^ And the princes said to Baruch, ‘Go and hide yourself, and Jeremiah, and let no man know where you are.’
+
+> ^36:20^ And they went in unto the king in the courtyard; but they had deposited the scroll in the treasury of Elishamah the scribe, and they told all the words in the hearing of the king.
+
+> ^36:21^ And the king sent Jehudi that he might take the scroll, who, taking it from the treasury of Elishamah the scribe, read it in the hearing of the king, and of all the princes who stood around the king.
+
+> **192**. Here, the declaration to the king is given.
+
+First, he speaks of the preparation of the declaration, for they set forth the proposal to declare: ***we must tell***, because he is able to correct the sins of the people. *The king who sits upon the throne of judgment scatters every evil thing with his gaze* (Prov 20:8).  
+
+They examine the manner in which the book was written; for this reason, a question is first posed: ***and they inquired of him, saying, ‘Tell us, how did you write all these words from his mouth?’*** so that from the manner they might know whether the writing had been produced by the Spirit of God. *Do not believe every spirit, but test the spirits, whether they be of God; for many false prophets have gone out into the world* (1 John 4:1).  
+
+And the response is given: ***and Baruch said to them, ‘He spoke with his mouth as though reading,’*** without hesitation or premeditation. *Do not consider how, or what you are to say, for it will be given to you in that hour what you are to say; for it is not you who speak, but the Spirit of your Father who speaks in you* (Matt 10:19). Above: ***behold I have given my words in your mouth*** (Jer 1:9).  
+
+And the advice to hide is given: ***hide***, fearing the obstinacy and cruelty of the king. *Has it not been told to you my lord what I did, when Jezebel killed the prophets of the Lord, that I hid of the prophets of the Lord a hundred men, by fifties in caves, and fed them with bread and water? And now you say, ‘Go and say to your lord, “Elijah is here,”*’ *that he may kill me?* (1 Kgs 18:13–14).  
+
+Second, the declaration is given: ***and they went in**. To you, therefore, O kings, that you should learn wisdom, lest you perish* (Wis 6:10).  
+
+Third, the recitation of the text is given: ***and the king sent Jehudi***; *and when I sat as a king with his army round about, I was nonetheless a comforter of those who mourn* (Job 29:25).  
+
+Lecture 5  
+
+***The king burns the book***
+
+***^36:22^ Now the king was sitting in the winter-house, in the ninth month, and there was set before him a brazier filled with coals.***
+
+> ^36:23^ And when Jehudi had read three or four columns, he cut it with the knife of a scribe, and cast it into the fire which was upon the brazier, until the whole scroll should be consumed by the fire that was on the brazier.
+
+> ^36:24^ And the king and all his servants, who had heard all these words, were not afraid, neither did they rend their garments.
+
+> ^36:25^ Moreover, Elnathan, and Delaiah, and Gemariah had urged the king, that he should not burn the book, but he did not listen to them.
+
+> **193**. Here is given the destruction of the text, and concerning this, there are two points.
+
+First is given the destruction of the text;  
+
+second, the persecution of the authors, at ***and the king commanded Jerachmiel*** (Jer 36:26).  
+
+Concerning the former, there are three points.  
+
+First is given the disposition for destruction: ***in the winter-house, there was set before him a brazier filled with coals***, for because of his luxurious habits, he had special houses for winter and summer. *I shall strike the winter house with the summer house, and the ivory houses shall perish, and many houses shall be destroyed* (Amos 3:15).  
+
+Second, the destruction is given: ***and when Jehudi had read three columns***, small pages; ***with the knife***, with which a quill is prepared. *Take the way from me, turn the path from me, let the Holy One of Israel cease from before us* (Isa 30:11).  
+
+And so they did what they ought not to have done, and omitted also to do what they ought. ***And the king and all his servants were not afraid***, after the example of Josiah. *When the king had heard the words of the book of the Law, he rent his garments* (2 Kgs 22:11).  
+
+Third, the objection of the princes is mentioned: ***moreover, Elnathan, and Delaiah, and Gemariah had urged the king***. Something similar is found in 2 Samuel 24:4, *but the word of the king prevailed over the words of Joab, and his princes*.  
+
+Lecture 6  
+
+***Baruch and Jeremiah persecuted***
+
+***^36:26^ And the king commanded Jerachmiel, the son of Amelech,Amelech is not a proper name, but a Latinization of the Hebrew word, *hamelech*, “the king.” and Saraiah, the son of Azriel, and Shelemiah, the son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet; but the Lord had hidden them.***
+
+> **194**. Here, the persecution of the authors is given:
+
+first, the wicked command: ***to seize***;  
+
+second, the help of God: ***but the Lord had hidden them*** and made it so they could not be found. *The Lord has kept all their bones, that not one of them should be broken* (Ps 33:21).  
+
+Lecture 7  
+
+***Jeremiah rewrites the book***
+
+***^36:27^ And the word of the Lord came to Jeremiah the prophet, after the king had burned the scroll and the words which Baruch had written by the mouth of Jeremiah, saying:***
+
+> ^36:28^ take again another scroll, and write in it all the former words which were in the first scroll, which Jehoiakim king of Judah burnt.
+
+> ^36:29^ And you shall say to Jehoiakim king of Judah: thus says the Lord: you have burned this scroll, saying: why have you written in it, saying: the king of Babylon shall come swiftly, and lay waste this land, and make man and beast to cease from it?
+
+> ^36:30^ Therefore, thus says the Lord against Jehoiakim the king of Judah: there shall be no one left of him who may sit upon the throne of David, and has power any more in Judah, and his body will be cast out to the heat by day, and the cold by night.
+
+> ^36:31^ And I shall visit his iniquities against him, and against his seed, and against all his servants; and I shall bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah all the evil which I spoke unto them, and they did not listen.
+
+> ^36:32^ And Jeremiah took another scroll, and gave it to Baruch, the son of Neriah the scribe, who wrote in it by the mouth of Jeremiah all the words of the book which Jehoiakim the king of Judah had burned with fire; and many more words were added than there had been before.
+
+> **195**. Here, the restoration of the text is described.
+
+First, the command to restore it is given: ***take again***. Above: ***they shall wage war with you, but will not prevail, for I am with you says the Lord, to deliver you*** (Jer 1:19).  
+
+Second, he threatens death to the one who destroyed it, at ***and you shall say to Jehoiakim king of Judah***. For this reason, he rebukes him for his sin: ***you have burned***. *Destruction shall come suddenly upon the man that with a stiff neck despises him who reproves him, and soundness shall not follow* (Prov 29:1).  
+
+And he threatens a punishment: ***therefore, thus says the Lord***; the end of the royal succession: ***there shall be no one left of him who may sit upon the throne of David, and has power any more in Judah***. And the discarding of his body: ***and his body will be cast out***—the burial of an ass. *But you have been cast forth from your tomb, like a useless branch, polluted, and wrapped up among those who were slain with the sword, and have gone down to the bottom of the pit, like a rotten corpse* (Isa 14:19).  
+
+The destruction of his subjects with regard to those of his house: ***I shall visit his iniquities against him, and against his seed***. *I shall visit their iniquities with the rod, and with stripes their sins* (Ps 88:33). And with regard the others: ***I shall bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah all the evil***. *I am the Lord, and there is no other; I make light and create darkness, I make peace and create evil. I the Lord make all these things* (Isa 45:7).  
+
+Third, he gives the fulfilling of the commandment: ***and Jeremiah took another scroll***. *Wisdom conquers evil* (Wis 7:30).

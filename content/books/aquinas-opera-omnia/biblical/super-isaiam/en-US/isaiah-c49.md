@@ -1,155 +1,65 @@
-# Chapter 49
+# Chapter 47
 
-> ^49:2^ And he has made my mouth like a sharp sword: in the shadow of his hand he has protected me, and has made me as a chosen arrow: in his quiver he has hidden me.
+> ^47:2^ Take a millstone and grind meal: uncover your shame, strip your shoulder, make bare your legs, pass over the rivers.
 
-> ^49:3^ And he said to me: you are my servant Israel, for in you will I glory.
+> ^47:3^ Your nakedness shall be discovered, and your shame shall be seen: I will take vengeance, and no man shall resist me.
 
-> ^49:4^ And I said: I have labored in vain, I have spent my strength without cause and in vain: therefore my judgment is with the Lord, and my work with my God.
+> ^47:4^ Our redeemer, the Lord of hosts is his name, the Holy One of Israel.
 
-> ^49:5^ And now says the Lord, that formed me from the womb to be his servant, that I may bring back Jacob unto him, and Israel will not be gathered together: and I am glorified in the eyes of the Lord, and my God is made my strength.
+> ^47:5^ Sit you silent, and get you into darkness, O daughter of the Chaldeans: for you shall no more be called the lady of kingdoms.
 
-> ^49:6^ And he said: it is a small thing that you should be my servant to raise up the tribes of Jacob, and to convert the dregs of Israel. Behold, I have given you to be the light of the Gentiles, that you mayst be my salvation even to the farthest part of the earth.
+> ^47:6^ I was angry with my people, I have polluted my inheritance, and have given them into your hand: you have shown no mercy to them: upon the ancient you have laid your yoke exceeding heavy.
 
-> ^49:7^ Thus says the Lord the redeemer of Israel, his Holy One, to the soul that is despised, to the nation that is abhorred, to the servant of rulers: kings shall see, and princes shall rise up, and adore for the Lord’s sake, because he is faithful, and for the Holy One of Israel, who has chosen you.
+> ^47:7^ And you have said: I shall be a lady for ever: you have not laid these things to your heart, neither have you remembered your latter end.
 
-> ^49:8^ Thus says the Lord: in an acceptable time I have heard you, and in the day of salvation I have helped you: and I have preserved you, and given you to be a covenant of the people, that you might raise up the earth, and possess the inheritances that were destroyed:
+> ^47:8^ And now hear these things, you that are delicate, and dwell confidently, that say in your heart: I am, and there is none else besides me: I shall not sit as a widow, and I shall not know barrenness.
 
-> ^49:9^ that you might say to them that are bound: come forth: and to them that are in darkness: show yourselves. They shall feed in the ways, and their pastures shall be in every plain.
+> ^47:9^ These two things shall come upon you suddenly in one day, barrenness and widowhood. All things are come upon you, because of the multitude of your sorceries, and for the great hardness of your enchanters.
 
-> ^49:10^ They shall not hunger, nor thirst, neither shall the heat nor the sun strike them: for he that is merciful to them, shall rule them,*Reget*. DR: “be their shepherd.” and at the fountains of waters he shall give them drink.
+> ^47:10^ And you have trusted in your wickedness, and have said: there is none that sees me. Your wisdom, and, your knowledge, this has deceived you. And you have said in your heart: I am, and besides me there is no other.
 
-> ^49:11^ And I will make all my mountains a way, and my paths shall be exalted.
+> ^47:11^ Evil shall come upon you, and you shall not know the rising thereof: and calamity shall fall violently upon you, which you canst not keep off: misery shall come upon you suddenly, which you shall not know.
 
-> ^49:12^ Behold these shall come from afar, and behold these from the north and from the sea, and these from the south country.
+> ^47:12^ Stand now with your enchanters, and with the multitude of your sorceries, in which you have labored from your youth, if so be it may profit you any thing, or if you mayst become stronger.
 
-> ^49:13^ Give praise, O you heavens, and rejoice, O earth, you mountains, give praise with jubilation: because the Lord has comforted his people, and will have mercy on his poor ones.
+> ^47:13^ You have failed in the multitude of your counsels: let now the astrologers stand and save you, they that gazed at the stars, and counted the months, that from them they might tell the things that shall come to you.
 
-> ^49:14^ And Zion said: the Lord has forsaken me, and the Lord has forgotten me.
+> ^47:14^ Behold they are as stubble, fire has burnt them, they shall not deliver themselves from the power of the flames: there are no coals wherewith they may be warmed, nor fire, that they may sit thereat.
 
-> ^49:15^ Can a woman forget her infant, so as not to have pity on the son of her womb? And if she should forget, yet will not I forget you.
+> ^47:15^ Such are all the things become to you, in which you have labored: your merchants from your youth, every one has erred in his own way, there is none that can save you.
 
-> ^49:16^ Behold, I have graven you in my hands: your walls are always before my eyes.
+> **878**. ***Come down, sit***. Here he foretells the degradation of the kingdom of Babylon. And concerning this, he does three things:
 
-> ^49:17^ Your builders are come: they that destroy you and make you waste shall go out of you.
+first, he threatens the punishment of degradation;  
 
-> ^49:18^ Lift up your eyes round about, and see all these are gathered together, they are come to you: I live, says the Lord, you shall be clothed with all these as with an ornament, and as a bride you shall put them about you.
+second, he shows their fault: ***I was angry*** (Isa 47:6);  
 
-> ^49:19^ For your deserts, and your desolate places, and the land of your destruction shall now be too narrow by reason of the inhabitants, and they that swallowed you up shall be chased far away.
+third, he removes their confidence of escape: ***let now the astrologers*** (Isa 47:13).  
 
-> ^49:20^ The children of your barrenness shall still say in your ears: the place is too strait for me, make me room to dwell in.
+**879**. Concerning the first, he does three things.  
 
-> ^49:21^ And you shall say in your heart: who has begotten these? I was barren and brought not forth, led away, and captive: and who has brought up these? I was destitute and alone: and these, where were they?
+First, he foretells their degradation as to the glory which they lost: ***come down***, from the height of your power, ***sit in the dust***, as though vile and abject; ***virgin***, because never before laid waste, or because of the tenderness of her delicacy; ***throne***, her royal dignity; ***delicate***, as queens are accustomed to be: *for tenderness she was not able to bear up her own body* (Esth 15:6); as if to say: you shall no longer be a queen: *he has put down the mighty from their seat and has exalted the humble* (Luke 1:52), above: ***the Lord of hosts has designed it, to pull down the pride of all glory*** (Isa 23:9).  
 
-> ^49:22^ Thus says the Lord God: behold I will lift up my hand to the Gentiles, and will set up my sign*Signum*. DR: “standard.” to the people. And they shall bring your sons in their arms, and carry your daughters upon their shoulders.
+Second, as to the ignominy which they incurred: ***take a millstone***, which was the work of servant girls, as if to say: you shall be a servant girl; or it signifies sexual intercourse, as in Judges 16:21 of Samson; ***uncover your shame***, that is, your shameful members, either to the lust of your enemies or for crossing rivers on foot: *I will change their glory into shame* (Hos 4:7). And he shows the author of this ignominy: ***I will take vengeance***, however powerful you may be; ***our redeemer***, the voice of the people liberated from servitude to Babylon, above: ***the LordDominus*. Vg.: *Deus vester*. DR: “your God.” ***will bring the revenge*** (Isa 35:4).  
 
-> ^49:23^ And kings shall be your nursing fathers, and queens your nurses: they shall worship you with their face toward the earth, and they shall lick up the dust of your feet. And you shall know that I am the Lord, for they shall not be confounded that wait for him.
+Third, as to the shame of confusion: ***sit you silent***, as one who is ashamed does not dare to speak or appear before men: *the wicked shall be silent in darkness* (1 Sam 2:9).  
 
-> ^49:24^ Shall the prey be taken from the strong? Or can that which was taken by the mighty, be delivered?
+**880**. ***I was angry***. Here he set out their fault, which is the cause of such a punishment. And he sets out three faults.  
 
-> ^49:25^ For thus says the Lord: yea verily, even the captivity shall be taken away from the strong: and that which was taken by the mighty, shall be delivered. But I will judge those that have judged you, and your children I will save.
+First, the cruelty of their rule toward the Jews, setting out the power granted them: ***I was angry with my people***, because of their sins, wishing to punish them; ***I have polluted***, allowed to be polluted by you, ***my inheritance***, the people of Israel, above: ***Israel is my inheritance*** (Isa 19:25); *I have forsaken my house, I have left my inheritance* (Jer 12:7); and he sets out their abuse of this power: ***you have shown no mercy to them*: *upon the ancient***, who should be given mercy even by enemies: *they did not respect the persons of the ancients* (Lam 5:12).  
 
-> ^49:26^ And I will feed your enemies with their own flesh: and they shall be made drunk with their own blood, as with new wine: and all flesh shall know, that I am the Lord that save you, and your Redeemer the Mighty One of Jacob.
+**881**. Second, their pride of heart: ***and you have said***, setting out their proud thinking: ***I shall be a lady for ever***: *she says in her heart: I sit a queen* (Rev 18:7); he also sets out the foolishness of the proud, that they did not consider things to come: ***you have not laid these things***, which will come upon you: *in the day of good things be not unmindful of evils* (Sir 11:27[25]); *in all your works remember your last end* (Sir 7:40[36]). And he sets out the frustration of their hope: ***and now hear*; *I shall not sit as a widow***, through the deprivation of my kingdom; ***barrenness***, that is, the loss of the people who were born in me. ***Suddenly***, unexpectedly, above: ***the destruction thereof shall come on a sudden, when it is not looked for*** (Isa 30:13): *give them, O Lord, a womb without children* (Hos 9:14).  
 
-> **896**. ***Give ear, you islands***. In this part, he describes more particularly the order of liberation. And concerning this, he does two things:
+**882**. Third, the multitude of their sorceries: ***all things***. And he sets out three things.  
 
-first, the people confess the benefits they received;  
+First, the sorceries by which they increased: ***the multitude of your sorceries***, for they abounded in arts of this kind there: *let there not be among you anyone who consults diviners* (Deut 18:11).  
 
-second, they receive the promise of future benefits, where it says, ***and I said: I have labored in vain*** (Isa 49:4).  
+Second, the error they fell into because of these things, namely, they thought they had immunity from punishment because these things denied divine providence: ***and you have trusted***, that you might safely sin; ***there is none***, no God, ***that sees me*** sinning, that he might punish me: *the eye of the adulterer observes darkness, saying: no eye shall see me* (Job 24:15); and they thought their power was eternal because their diviners promised this: ***your wisdom***, as to those who occupied themselves with divine things; ***your knowledge***, as to those who occupied themselves with human things: *every man is become a fool for knowledge* (Jer 10:14).  
 
-Concerning the first, they confess four benefits.  
+Third, he sets out the punishment they merited because of this: ***evil shall come upon you, and you shall not know the rising thereof***, he says this in the manner of astrologers, who teach that we should consider the rising of kingdoms according to the rising of the planets: *when they shall say: peace and security; then shall sudden destruction come upon them* (1 Thess 5:3).  
 
-First, the privilege of divine election; and this continues why the prophet had enjoined above upon the people that they should declare (Isa 48:20); thus, immediately the voice of the people is added, declaring and saying: ***give ear*; *the Lord has called me from the womb***, choosing me in my fathers: *from my mother’s womb you are my God* (Ps 21:11–12[22:10–11]).  
+**883**. ***Stand now with your enchanters***. Here he excludes their trust in escape; and concerning this, he does two things.  
 
-Second, the efficacy of their prayer: ***and he has made my mouth***, my prayer, *like a sharp sword*, penetrating unto the ears of God and the heart of his mercy: *and the sword of the Spirit* (Eph 6:17).  
+First, he excludes hope from the wise, excluding their help, as to sorcerers: ***stand now with your enchanters*; *from your youth***, from when they were created, they were full of magical arts, above: ***and when they shall say to you: seek of pythons, and of diviners*** (Isa 8:19). And as to astrologers: ***let now the astrologers stand*** against their enemies, if they could, for they abounded in these arts, too: *be not afraid of the signs of heaven, which the heathens fear* (Jer 10:2). And he threatens the wise with burning: ***behold they are as stubble***, the wise among you; ***there are no coals wherewith they may be warmed***, but by which the whole city may be burned, or because the city was burned in wintertime, so that they were punished by cold and fire at the same time; or ***the coal*** of divine wisdom ***is not*** in you: *the congregation of sinners is like tow heaped together, and the end of them is a flame of fire* (Sir 21:10[9]).  
 
-Third, the help of divine protection: ***in the shadow of his hand***, that is, under the protection of his power; ***as*** an archer hides ***a chosen arrow***, to preserve it: *protect me under the shadow of your wings* (Ps 16[17]:8); *he has hidden me in his tabernacle* (Ps 26[27]:5).  
-
-Fourth, the glory of divine service: ***and he said to me: in you will I glory***, through the wonders shown in you, I will appear glorious, above: ***every one that calls upon my name, I have created him for my glory*** (Isa 43:7).  
-
-**897**. According to others, this is the voice of Cyrus, whose name was foretold by Isaiah before he was born, above (Isa 45:1); whose threatening words were like a sword; and who was protected lest his grandfather kill him,Herodotus 1.108–113. and was preserved like a chosen arrow for the appointed time; and to whom it was declared that the people of Israel was the servant of God. It is otherwise explained of Christ, whose name was foretold by the angel; whose word of preaching is a sword penetrating hearts; who was protected from the weakness of the flesh by the power of his divinity; and who was chosen among all to complete the salvation of the human race; and he is called “Israel,” because he was born from the people of Israel according to the flesh.  
-
-**898**. ***And I said***. Here the Lord promises future benefits.  
-
-And first, he promises exaltation to the prophet Isaiah;  
-
-second, he promises liberation to the people: ***thus says the Lord the redeemer*** (Isa 49:7).  
-
-Concerning the first, he does two things.  
-
-First is set out the claim of the prophet who puts forth his labor in preaching, even though, due to the fault of those who heard it, it bore no fruit, and he concludes: ***therefore my judgment***, for myself, ***is with the Lord***, before him, ***and my work with my God***, as though pleasing to him: *the founder has melted in vain* (Jer 6:29).  
-
-Second, he sets out the response of God: ***and now says the Lord***.  
-
-And first, the acceptance of the prophet’s claim is signified: ***that formed me from the womb to be his servant, that I may bring back Jacob unto him***, as if to say: who chose me from my mother’s womb for this, that I may bring back his people to him; ***and***, yet, ***Israel will not be*** wholly ***gathered together***, to him through my preaching, ***and***, yet, ***I am glorified***: *the Lord God is my strength* (Hab 3:19);  
-
-second, the response itself is set out: ***and he said: it is a small thing***, as if to say: I will honor your ministry so much that not only among the Jews, but among all the gentiles my salvation will be declared by you: *is he the God of the Jews only? Is he not also of the Gentiles?* (Rom 3:29).  
-
-**899**. This is also clearly explained of Christ, who by preaching and the consumption of death bore little fruit among the Jews but illuminated and saved the gentiles. Similarly, it is also explained of Cyrus, although this is more tortured, who through his benefits in intention called the Lord’s people back to the worship of God, and yet did not carry it out, and to whom dominion was given by God over many nations.  
-
-**900**. ***Thus says the Lord the redeemer***. Here he promises liberation. And concerning this he does two things:  
-
-first, he promises liberation;  
-
-second, he excludes their doubt: ***and Zion said*** (Isa 49:14).  
-
-Concerning the first, he does three things.  
-
-First, he sets out the things preceding the liberation, namely, the veneration of the Jews, which was the cause of their liberation; and he recalls their original dishonor: ***despised***, because of the foolishness of the people; ***abhorred***, because of the singularity of their worship; ***servant***, because of their subjection to various nations, above: ***I will send you to a nation rent*** (Isa 18:2); and he sets out the veneration itself: ***kings shall see*** my wonders which I will show for you, ***and adore***, as, literally, Nabuchodonosor did (Dan 2:46), and Cyrus and his other princes honored Esdras.Cf. Ezra 7:12ff.  
-
-**901**. Another preamble to their liberation is the exaltation of the liberating king, namely, Cyrus: ***in an acceptable time***, and he does not determine the time of his exaltation: ***acceptable***,*Placito*. when it pleased*Placuit*. me to save my people, ***I have heard you***, exalting you into kingship, according to your desire; and the fruit of his exaltation: ***I have preserved you***; ***to be a covenant*** fulfilled ***of my people***. ***Show yourselves***, that is, be illuminated. Or of Christ, who was despised in his passion and was judged like a servant, below: ***we have seen him . . . despised*** (Isa 53:2–3), but afterwards he was literally adored by kings: *all kings of the earth shall adore him* (Ps 71[72]:11); ***in an acceptable time***, namely, the time of grace: *behold, now is the acceptable time: behold, now is the day of salvation* (2 Cor 6:2).  
-
-**902**. Second, he sets out the things that will follow the liberation, promising abundance of good things to the liberated people: ***they shall feed in the ways***, that is, they shall enjoy consolations so abundantly like sheep in pasture, when it is even found in the way beyond what is usual: *they shall rest on the green grass* (Ezek 34:14). As to the absence of evils, both of privation: ***they shall not hunger***, etc., and of inflicted harm: ***neither shall the heat***, of tribulation, ***nor the sun***, tyrants that make tribulation: *the sun shall not burn you by day* (Ps 120[121]:6); and he assigns the cause of both: ***for he that is merciful to them, shall rule them***; ***at the fountains of waters***, of consolations, ***he shall give them drink***: *the Lord rules me: and I shall want nothing. He has set me in a place of pasture* (Ps 22:1–2[23:1–3]).  
-
-**903**. Third, he promises liberation itself, setting out the preparation of the ways: ***and I will make all my mountains a way***, that is, princes will help you to return, above: ***every valley shall be exalted, and every mountain and hill shall be made low*** (Isa 40:4). And he sets out the return of the captives: ***behold these shall come from afar***, from the east, ***and from the sea***, the west: *I will bring them from the north* (Jer 31:8). And he sets out the thanksgiving: ***give praise, O you heavens***: *let the heavens and the earth praise him* (Ps 68:35[69:34]).  
-
-**904**. ***And Zion said***. Here he excludes their doubt.  
-
-And first, that which arose from divine indignation;  
-
-second, that which arose from their dejection: ***and you shall say in your heart*** (Isa 49:21);  
-
-third, that which arose from the power of their enemies, where it says, ***shall the prey be taken from the strong?*** (Isa 49:24).  
-
-Concerning the first, he does three things:  
-
-first, he sets out their doubt, ***the Lord has forsaken me***, without help, and therefore I cannot hope for liberation: *I am left alone* (Bar 4:19);  
-
-second, he excludes this doubt through the similitude of a mother: ***can a woman forget her infant***: *surely Ephraim is an honorable son to me* (Jer 31:20);  
-
-third, he adds the promise of the restoration of the city.  
-
-**905**. And first, as to the rebuilding of its walls, he sets out the divine intention: ***behold, I have graven you in my hands***, as if to say: I hold you so in memory as one writes or makes some sign in his hand so that he may remember something; ***your walls are always before my eyes***, as if to say: already I see the rebuilding of your walls: *in his hands he hides* (Job 36:32); *a thousand years before your eyes**Ante oculos*. DR: “in thy sight.” (Ps 89[90]:4). And the manner of its fulfillment: ***your builders are come***, that is, the rebuilders, namely, Zorobabel and Jesus and others already before my eyes; ***they that destroy you***, the Chaldeans: *the hands of Zorobabel have laid the foundations of this house* (Zech 4:9).  
-
-**906**. Second, as to the inhabitation of men, and concerning this, he does three things.  
-
-First, he sets out the uniting of the citizens: ***lift up your eyes round about, and see all these are gathered together***: *look about you, O Jerusalem* (Bar 4:36).  
-
-Second, the reinhabitation of the city, showing that it will be inhabited: ***I live***, he says in the manner of an oath, ***you shall be clothed with all these as with an ornament***, as a bride with her garments, so shall the city be adorned by her citizens, below: ***he has clothed me with the garments of salvation*** (Isa 61:10). And he shows that it will be filled with inhabitants: ***for your deserts***, as to inhabitants, ***and your desolate places***, as to those who cultivate the land, ***and the land of your destruction***, as to the walls that were destroyed: *Jerusalem shall be inhabited without walls* (Zech 2:4); and he shows that it will be emptied of enemies: ***they that swallowed you up shall be chased far away***.  
-
-Third, he foretells the multitude of its inhabitants: ***the children of your barrenness***, that is, those who were born when they believed you were barren, emptied of inhabitants, below: ***enlarge the place of your tent*** (Isa 54:2).  
-
-**907**. ***And you shall say in your heart***. Here he excludes the second doubt.  
-
-And first, he sets out their astonishment: ***and you shall say***, because of astonishment, ***I was barren***, because there were no men in me, who might beget children, ***I was destitute***, of divine help, below: ***who has ever heard such a thing?*** (Isa 66:8).  
-
-Second, he excludes this doubt, setting out the manner of the multitude of inhabitants: ***thus says the Lord***, as to four things:  
-
-first, as to their divine inspiration: ***behold I will lift up my hand***, as though beckoning, ***and will set up my sign to the people***, above: ***he shall set up a signSignum*. DR: “standard.” ***unto the nations*** (Isa 11:12);  
-
-second, as to their honorable restoration: ***and they shall bring your sons in their arms***, in which is signified the help which they had from the gentiles. ***And kings shall be your nursing fathers***, providing for you in necessities: *the Lord will bring them to you exalted with honor as children of the kingdom* (Bar 5:6);  
-
-third, as to the exaltation of the liberated people: ***they shall worship you with their face toward the earth***, especially in the time of the Maccabees, below: ***they shall come bowing down to you*** (Isa 60:14);  
-
-fourth, he assigns the reason for this: ***and you shall know that I am the Lord***: *in you, O Lord, I have hoped, let me never be put to confusion* (Ps 70[71]:1).  
-
-**908**. ***Shall the prey be taken from the strong?*** Here he excludes the third doubt.  
-
-And first, he sets out the doubt itself: ***from the strong***, Nabuchodonosor: *or how can any one enter into the house of the strong* (Matt 12:29).  
-
-Second, he excludes this doubt: ***for thus says the Lord***,  
-
-first, setting out the benefit of liberation: ***even the captivity***, namely of the Jews: *I broke the jaws of the wicked man* (Job 29:17);  
-
-second, the manner of liberation, setting out the destruction of their enemies: ***but I will judge those***, namely, the Chaldeans, ***that have judged you***, unjustly: *I will cut off all that have afflicted you* (Zeph 3:19). And he sets out the determination of their punishment: ***and I will feed your enemies with their own flesh***, either because of dissension, as above: ***every one shall eat the flesh of his own arm*** (Isa 9:20), or because of the multitude of the dead, when the mouth of one fell upon the blood of another, as if he wished to drink it, or because of famine.  
-
-Third, he sets out the fruit of liberation: ***and all flesh shall know***, above: ***all flesh shall see the salvation of our God*** (Isa 40:5).Cf. 52:20.
+Second, he excludes hope from their merchants: ***merchants***, in which they also abounded; or wise men (*magi*), who sold them lies for truth, above: ***every one shall be amazed at his neighbor, their countenances shall be as faces burnt*** (Isa 13:8).

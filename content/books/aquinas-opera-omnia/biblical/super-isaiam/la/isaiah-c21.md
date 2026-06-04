@@ -1,155 +1,179 @@
-# Chapter 21
+# Chapter 19
 
-> ^21:2^ Visio dura nuntiata est mihi: qui incredulus est infideliter agit, et qui depopulator est vastat. Ascende Ælam, obside Medaba; omnem gemitum ejus cessare feci.
+> ^19:2^ Et concurrere faciam Ægyptios adversus Ægyptios, et pugnabit vir contra fratrem suum, et vir contra amicum suum, civitas adversus civitatem, regnum adversus regnum.
 
-> ^21:3^ Propterea repleti sunt lumbi mei dolore, angustia possedit me sicut angustia parturientis; corrui cum audirem, turbatus sum cum viderem.
+> ^19:3^ Et dirumpetur spiritus Ægypti in visceribus ejus, et consilium ejus præcipitabo, et interrogabunt simulacra sua et divinos suos et pythones suos et ariolos.
 
-> ^21:4^ Emarcuit cor meum, tenebræ stupefecerunt me. Babylon dilecta mea posita est mihi in miraculum.
+> ^19:4^ Et tradam Ægyptum in manum dominorum crudelium, et rex fortis dominabitur eorum, ait Dominus Deus exercituum.
 
-> ^21:5^ Pone mensam, contemplare in specula comedentes et bibentes, surgite principes, arripite clypeum.
+> ^19:5^ Et arescet aqua de mari et fluvius desolabitur atque siccabitur;
 
-> ^21:6^ Hæc enim dixit mihi Dominus: vade et pone speculatorem, et quodcumque viderit annuntiet.
+> ^19:6^ et deficient flumina, attenuabuntur et siccabuntur rivi aggerum; calamus et juncus marcescet.
 
-> ^21:7^ Et vidit currum duorum equitum, ascensorem asini et ascensorem cameli; et contemplatus est diligenter multo intuitu.
+> ^19:7^ Nudabitur alveus rivi a fonte suo, et omnis sementis irrigua siccabitur, arescet et non erit.
 
-> ^21:8^ Et clamavit leo: super speculam Domini ego sum stans jugiter per diem et super custodiam meam ego sum stans totis noctibus.
+> ^19:8^ Et mœrebunt piscatores, et lugebunt omnes mittentes in flumen hamum, et expandentes rete super faciem aquarum emarcescent.
 
-> ^21:9^ Ecce iste venit ascensor vir bigæ equitum; et respondit et dixit: cecidit, cecidit Babylon, et omnia sculptilia deorum ejus contrita sunt in terram.
+> ^19:9^ Confundentur qui operabantur linum, pectentes et texentes subtilia.
 
-> ^21:10^ Tritura mea et filii areæ meæ, quæ audivi a Domino exercituum Deo Israel, annuntiavi vobis.
+> ^19:10^ Et erunt irrigua ejus flaccentia, omnes qui faciebant lacunas ad capiendos pisces.
 
-> ^21:11^ Onus Duma. Ad me clamat ex Seir: custos quid de nocte, custos quid de nocte?
+> ^19:11^ Stulti principes Taneos, sapientes consiliarii Pharaonis dederunt consilium insipiens. Quomodo dicetis Pharaoni: filius sapientium ego, filius regum antiquorum?
 
-> ^21:12^ Dixit custos: venit mane et nox; si quæritis quærite, convertimini et venite.
+> ^19:12^ Ubi sunt nunc sapientes tui? Annuntient tibi et indicent quid cogitaverit Dominus exercituum super Ægyptum.
 
-> ^21:13^ Onus in Arabia. In saltu ad vesperam dormietis in semitis Dodanim.
+> ^19:13^ Stulti facti sunt principes Taneos, emarcuerunt principes Mempheos. Deceperunt Ægyptum, angulum populorum ejus;
 
-> ^21:14^ Occurrentes sitienti ferte aquam, qui habitatis terram austri; cum panibus occurrite fugienti.
+> ^19:14^ Dominus miscuit in medio ejus spiritum vertiginis; et errare fecerunt Ægyptum in omni opere suo sicut errat ebrius et vomens.
 
-> ^21:15^ A facie enim gladiorum fugerunt, a facie gladii imminentis, a facie arcus extenti, a facie gravis prælii.
+> ^19:15^ Et non erit Ægypto opus quod faciat caput et caudam, incurvantem et refrenantem.
 
-> ^21:16^ Quoniam hæc dicit Dominus ad me: adhuc in uno anno quasi in anno mercenarii et auferetur omnis gloria Cedar.
+> ^19:16^ In die illa erit Ægyptus quasi mulieres, et stupebunt et timebunt a facie commotionis manus Domini exercituum quam ipse movebit super eam.
 
-> ^21:17^ Et reliquiæ numeri sagittariorum fortium de filiis Cedar imminuentur. Dominus enim Deus locutus est.
+> ^19:17^ Et erit terra Juda Ægypto in pavorem: omnis qui illius fuerit recordatus pavebit a facie consilii Domini exercituum, quod ipse cogitavit super eam.
 
-> **507**. ***Onus deserti maris***. Hic comminatur contra hostes qui gravabant eos per rerum subtractionem, qui tamen erant eis aliquo foedere juncti. Et dividitur in tres partes.
+> ^19:18^ In die illa erunt quinque civitates in terra Ægypti loquentes lingua Chanaan et jurantes per Dominum exercituum, civitas solis vocabitur una.
 
-Primo contra illos qui erant eis juncti amicitiae foedere;  
+> ^19:19^ In die illa erit altare Domini in medio terræ Ægypti, et titulus Domini juxta terminum ejus.
 
-in secunda contra illos qui erant juncti praelationis jure, cap. XXII ***onus*** etc.;  
+> ^19:20^ Et erit in signum et testimonium Domino exercituum in terra Ægypti; clamabunt enim ad Dominum a facie tribulationis, et mittet eis salvatorem et propugnatorem qui liberet eos.
 
-in tertia contra illos qui erant eis juncti negotiationis societate, XXIII cap. ***onus Tyri***.  
+> ^19:21^ Et cognoscetur Dominus ab Ægypto, et cognoscent Ægyptii Dominum in die illa, et colent eum in hostiis et in muneribus et vota vovebunt Domino et solvent.
 
-Prima in duas.  
+> ^19:22^ Et percutiet Dominus Ægyptum plaga et sanabit eam; et revertentur Ægyptii ad Dominum et placabitur eis et sanabit eos.
 
-In prima contra amicos extraneos, scilicet Babylonios, qui erant amici, et rebus tandem spoliaverunt, sicut patet infra XXXIX;  
+> ^19:23^ In die illa erit via de Ægypto in Assyrios; et intrabit Assyrius Ægyptum et Ægyptius in Assyrios, et servient Ægyptii Assur.
 
-in secunda contra amicos cognatos: ***onus Duma***.  
+> ^19:24^ In die illa erit Israel tertius Ægyptio et Assyrio; benedictio in medio terræ,
 
-**508**. Circa primum duo facit.  
+> ^19:25^ cui benedixit Dominus exercituum dicens: benedictus populus meus Ægypti, et opus manuum mearum Assyrio; hæreditas autem mea Israel.
 
-Primo ponitur titulus: ***onus maris***, id est Babylonis, propter sonitum multitudinis populorum, ut supra XVII 12; ***deserti***, quia in solitudinem redigetur, Jer. LI 36 *desertum faciet Dominus mare ejus*; immittit contra eos comminationem ut modum addat.  
+> **485**. ***Onus Aegypti***. In parte ista comminatur destructionem Aegyptiorum, prosequens modum et ordinem. Et dividitur in partes tres:
 
-Secundo ponitur ipsa prophetia,  
+in primo describitur poenae praeparatio;  
 
-et primo ponitur visio comminationis,  
+in secunda ipsa destructio: ***et tradam Aegyptum***;  
 
-secundo modus accipiendae visionis: ***haec enim dixit***.  
+in tertia utilitatis consecutio, ibi ***in die illa erunt quinque civitates***.  
 
-**509**. Circa primum quatuor designat.  
+Praeparatio autem poenae describitur quantum ad quatuor.  
 
-Primo tribulationis gravitatem, ponens similitudinem: ***sicut turbines***, vox Babylonis, ***ab Africo, de deserto***, quod erat ad meridiem, ita ***venit*** contra me vastitas ***de terra***, scilicet Perside, ***horribili*** mihi, Nahum I 3 *Dominus in tempestate et turbine viae ejus. **Visio dura***, in persona Babylonis, Jo. VI 61 *durus est hic sermo*.  
+Primo quantum ad dispositionem hostium: ***ascendet***, inspirando, ***super nubem***, ex qua tempestas, ***levem***, propter agilitatem et promptitudinem, Ps. *nubes et caligo in circuitu ejus*.  
 
-**510**. Secundo designat vastatorem.  
+**486**. Secundo quantum ad stuporem gubernantium deorum: ***et movebuntur***, quia confracti sunt ab Assyriis, vel quia dare responsum non potuerunt, vel quia nec eodem die apparuerunt, Ez. VI 4 *confringentur* etc.; hominum, ***cor Aegypti***, id est rex et principes, ex quibus totus vigor Aegypti, supra I 5 ***omne caput languidum, et omne cor moerens***.  
 
-Et primo quantum ad ducis conditionem: in infidelitate. Cyrus, ***qui incredulus***, id est infidelis domino suo Balthassar, rebellans et Babylonem obsidens, confidens de ipsius effeminatione, ***infideliter agit***, id est aget, videns non posse civitatem capi vi, fraude pacem faciens et jurans omagium regi Babylonis; a quo invitatus ad convivium,—de quo Daniel V—, interfecit eum et cepit civitatem, inductis militibus per foramen muri unde fluvius intrabat, aqua ipsius in multas partes divisa. In crudelitate: ***qui depopulator***, unde in poenam crudelitatis suffocatus est in sanguine, et dictum est sibi: sanguinem sitisti, sanguinem bibe; Habacuc II 4 *ecce qui incredulus est, non erit recta anima ejus in semet ipso*.  
+**487**. Tertio quantum ad dissensionem resistentium—quantum ad exteriorem contrectationem—: ***et concurrere***, quantum ad extraneos: ***Aegyptios***; quantum ad consanguineos: ***pugnabit vir***; quantum ad notos et amicos: ***et vir contra amicum suum***; quantum ad diversos populos: ***civitas***. Ponit voluntatum diversitatem: ***dirumpetur***, id est dividetur, ***spiritus***, id est voluntas, ***in visceribus ejus***, id est incolis terrae, Matth. XII 25 *omne regnum in se ipsum divisum desolabitur*.  
 
-Secundo quantum ad exitus regionem: ***ascende Aelam***, civitas Persidis et provincia; ***Medaba***, civitas in Media, ***obside*** Babylonem: vox Domini, Jer. LI *ascendite contra eam omnes gentes*.  
+**488**. Quarto quantum ad errorem consiliantium hominum: ***et consilium***, Job V 13 *apprehendit sapientes in astutia eorum et consilium pravorum dissipat*; et daemonum: ***et interrogabunt*** frustra, supra VIII 19 ***et cum dixerint ad vos: quaerite a pythonibus et a divinis qui stridunt in incantationibus suis*** etc.  
 
-Tertio hostis potestatem: ***omnem gemitum ejus***, id est Babylonis, ut nec etiam plangere audeat, supra X 14 ***non fuit qui moveret pennam et aperiret os et ganniret***; vel quia suos gemere faciat.  
+**489**. Nota super illo verbo ***super nubem***, quod est multiplex nubes:  
 
-**511**. Tertio designat ipsius prophetae compassionem, quam designat quantum ad corpus, ad quod redundant affectiones mentis, et hoc quantum ad doloris sensum: ***propterea repleti sunt lumbi mei dolore***, id est ita doleo sicut qui patitur dolorem in renibus, Ps. *ibi dolores ut parturientis*; et quantum ad casum: ***corrui***; et quantum ad turbatum vultum: ***turbatus***, Ps. *turbatus sum et non sum locutus*, Ps *turbatus sum in exercitatione mea*.  
+prima assumptae carnis, Job XXXVIII 4, 9 *ubi eras cum ponerem nubem vestimentum ejus et caligine illud quasi pannis infantiae obvolverem?*;  
 
-Secundo quantum ad affectum: ***emarcuit cor meum***, id est affectus tristitia, Jer. IV 19 *ventrem meum doleo*.  
+secunda est virginalis ventris, III Reg. XVIII 44 *ecce nubecula parva ascendebat de mari*;  
 
-Tertio quantum ad intellectum stupentem: ***tenebrae***, id est turbationes praevisae, ac si essem in tenebris, Jer. L 13 *omnis qui transibit per Babylonem stupebit, et silebit super universis plagis ejus. **Babylon dilecta***, tunc temporis, quamvis postea inimica; ***in miraculum***, id est in admirationem, Apoc. XVII 6 *admiratus sum cum vidissem illam admiratione magna*.  
+tertia est devotae mentis, Ps. *magnificentia ejus et virtus ejus in nubibus*;  
 
-**512**. Quarto designat destructionis modum et conditionem, dicens: O Babylon, ***pone mensam***, invitando Cyrum et Darium ad convivium, ***contemplare***, id est vide, ***in specula***, id est in scriptura manus scribentis ***Mane***, clara luce Domini; ***principes***, scilicet: O Cyre, o Dari, ***comedentes et bibentes*** cum eo, ***surgite***, confortati visione, ***arripite clypeum*** et interficite eum, XLVI 3 *praeparate scutum et clypeum*.  
+quarta judiciariae sedis, Ps. *nubes et caligo in circuitu ejus, justitia et judicium praeparatio sedis ejus*.  
 
-**513**. Vel aliter, verba Domini: O propheta, ***pone mensam***, id est ponendam praedica, ***in specula***, id est in spiritu prophetiae, etc. ut supra. Vel verba Cyri: ***pone mensam***, vos Persae, accurrite, date equis annonam ut sitis parati; tu speculator, ***contemplare*** quid fiat in tractatu; vos ***principes*** mei, ***comedentes***. Et hoc stat etiam si non sustineatur quod Cyrus et Darius fuerint in convivio, ut quidam dicunt, sustinentes festum fieri in civitate et deliciis vacare; vel propter festum discumbebant, vel propter treugas, vel propter victoriam semel habitam, vel propter adjutorium quod receperat de nocte aggressi sunt civitatem.  
+**490**. Item nota quod  
 
-**514**. Nota super illo verbo ***contemplare in specula***, quod debet homo in speculo mentis contemplari  
+de prima nube procedit pluvia sacramentalis vel sanctificationis, Jo. XIX 34 *de latere Domini continuo exivit sanguis et aqua*;  
 
-primo peccata quae commisit, ut doleat, Jer. XXXI 21 *statue tibi speculam, pone tibi amaritudines, dirige cor tuum in viam rectam*;  
+de secunda procedit cibus consolationis, Sap. XIX 7 *nubes castra obumbrabat, et ex aqua quae ante erat terra apparuit arida*, et infra *videntes tua mirabilia et monstra: tamquam enim equi depaverunt escam*;  
 
-secundo supplicia quae meruit, ut timeat, Mich. VII 4 *dies speculationis, visitatio tua venit*;  
+de tertia procedit coruscatio praedicationis, Job XXXVII 11 *frumentum desiderant nubes, nubes spargunt lumen suum*;  
 
-tertio beneficia quae Deus contulit, ut gratias agat, infra LII 8 ***vox speculatorum tuorum, levaverunt vocem, simul laudabunt; quia oculo ad oculum videbunt cum converterit Dominus Sion***;  
+de quarta procedit tempestas damnationis, Num. V *ecce quasi nubes*, Ps. *virtus ejus in nubibus*.  
 
-quarto mandata quae praecepit, ut impleat, Oseae X *speculator Ephraim*;  
+**491**. Item nota super illo verbo ***nubem levem***,  
 
-quinto praemia quae promisit, ut comprehendat, II Petri I 16–17 *speculatores facti illius magnitudinis: accipiens enim a Deo Patre gloriam et honorem*.  
+quod prima dicitur levis propter eminentiae dignitatem, Dan. VII 13 *ecce in nubibus similis filio hominis veniebat*;  
 
-**515**. ***Haec enim dixit***. Hic ponit modum acceptionis hujus visionis, et circa hoc quatuor facit.  
+secunda dicitur levis propter virginitatis puritatem, Apoc. XIV 14 *et ecce nubem candidam, et super nubem sedentem similem filio hominis*;  
 
-Primo ponitur divina iussio: ***pone speculatorem***, te ipsum, vel discipulum tuum,—quem Hebraei Habacuc dicunt fuisse—; ***viderit***, spiritu prophetali, vel corporaliter, Ez. III 17 *fili hominis, speculatorem posui te domui Israel*.  
+tertia dicitur levis propter obedientiae velocitatem, infra LX 8 ***qui sunt isti qui ut nubes volant?***;  
 
-**516**. Secundo ponitur visio,  
+quarta dicitur levis propter executionis facilitatem, Eccli. XLIII 16 *in magnitudine sua posuit nubes et confracti sunt lapides grandinis*.  
 
-et primo ponit rem visam: ***et vidit currum duorum equitum***, qui a duobus equis consuevit trahi, exercitum duorum regnorum significantem; ***ascensorem***, scilicet curruum, ***asini***, regni Persarum, quod prius ignobile, ***cameli***, Medorum, quod semper altum: quasi haec duo animalia loco duorum equorum currui adjungentem.  
+**492**. ***Et tradam Aegyptum***. Hic prosequitur ipsam destructionem;  
 
-Secundo videntis diligentiam: ***et contemplatus est***, Ez. XL 4 *pone cor tuum in omnibus quae ego ostendo tibi*.  
+et primo quantum ad populi servitutem;  
 
-**517**. Tertio ponitur denuntiatio: ***et clamavit leo***, secundum virtutem animi, qui prius speculator per eminentiam contemplationis.  
+secundo quantum ad terrae desolationem: ***et arescet***;  
 
-Et primo denuntiat suam diligentiam: ***super speculam Domini***, Habacuc II 1 *super custodiam meam stabo*;  
+tertio quantum ad sapientum stuporem: ***stulti principes***.  
 
-secundo denuntiat rem visam: ***ecce venit***, ut supra;  
+***Dominorum***: Assyriorum, Chaldaeorum, Romanorum, Deut. XVIII *servies inimico tuo*.  
 
-tertio Babylonis poenam: ***cecidit***, Jer. L 24 *capta es et nesciebas*.  
+Destructionem autem terrae designat per siccitatem aquarum in quibus Aegyptus ornata et dives est; vel quia ira Dei praevenit ut aquae siccarentur et animalia morerentur; vel loquitur hyperbolice, quasi dicat: tanta erit tribulatio quod videbitur etiam aquas siccare.  
 
-**518**. Quarto ponitur prophetae ad populum denuntiatio: ***tritura mea***, verba prophetae, vel Christi, quia Jerusalem triturata multis tribulationibus; ***filia areae***, id est templi quod situm est in area Ornam, II Reg. ult., Ier. XLII 4 *omne verbum quodcumque* etc.  
+**493**. Ponit ergo tria.  
 
-**519**. ***Onus Duma***. Hic comminatur contra amicos et cognatos.  
+Primo siccitatis modum: ***arescet***, id est minuetur, ***fluvius***, Nilus, ***flumina***, alia, Ez. XXX 12 *faciam alveos fluminum aridos*.  
 
-Et primo contra Idumaeos, qui de progenie Esau fratris Jacob, Gen. XXV, qui quandoque amici, sicut IV Reg. III 9, Ez. XXXV 12 *audivi universa opprobria quae locutus es de montibus Israel*;  
+Secundo ponit siccitatis signum: ***calamus et juncus***, quae nutriuntur in aquis, infra XXXV 7 ***orietur viror calami et junci***.  
 
-secundo contra Arabes, qui de genere Ismaelis qui fuit filius Abraham, Gen. XVI, ibi ***onus in Arabia***.  
+Tertio ponit siccitatis damnum: ***nudabitur***;  
 
-Circa primum duo facit.  
+primo agriculturae, ***a fonte***, id est a principio, vel hoc ad finem, Ps. *posuit flumina in desertum, et exitum aquarum in sitim*;  
 
-Primo ponitur inscriptio: ***onus Duma***, id est Idumaeae;  
+secundo piscatorum: ***moerebunt piscatores***, Ez. XXIX 5 *projiciam te in desertum, et omnes pisces fluminis tui*;  
 
-secundo comminatio, circa quam tria.  
+tertio diversorum artificum: ***confundentur qui operantur linum***, quod nascitur in locis humidis, ***flaccentia***, id est arentia, ***lacunas***, vivaria.  
 
-Primo ponitur eorum oratio: et sunt verba Dei haec Idumaeis: ***ex Seir clamat ad me***, liberatis Judaeis post septuaginta annos captivitatis: ***custos***, qui custodis populum Israel, quasi eis dormientibus, ***quid de nocte?***, id est quare nos non liberas de nocte captivitatis sicut et eos? Et ostendunt magnum desiderium liberationis, et in intentione verborum et decantatione, Ps. *ecce non dormitabit neque dormiet qui custodit Israel*.  
+**494**. ***Stulti principes***. Hic ponit hominum stuporem,  
 
-**520**. Secundo ponitur petitionis refutatio: ***et dixit custos***, scilicet Deus, ***venit mane***, liberationis tempus Judaeis, ***et nox*** captivitatis adhuc Idumaeis manet, Sap. XVII 20 *solis autem illis superposita erat gravis nox*.  
+et primo quantum ad errorem in consiliis,  
 
-**521**. Tertio adhibet remedium: ***si quaeritis*** me, ***quaerite*** toto corde, relinquendo idola; vel sicut in tribulatione, et in prosperitate, infra LV 6 ***quaerite Dominum dum inveniri potest***; Joelis II 12 *convertimini ad me in toto corde vestro*.  
+secundo quantum ad timorem in bellis, ibi ***in die illa***.  
 
-**522**. Nota supra illo verbo ***custos***, quod homo debet se custodire per diem prosperitatis a divitiis:  
+Circa primum tria.  
 
-primo ne eas eligat, considerando earum vilitatem, Phil. III 7 *quae mihi fuerunt lucra, haec arbitratus sum detrimenta*;  
+Primo irridet sapientum stultitiam quantum ad deliberationem: ***stulti principes***, id est philosophi, ***Thaneos***, ubi vigebat studium, Jer. LI 17 *stultus factus est omnis homo*; quantum ad consilii promulgationem: ***sapientes***; quantum ad sui commendationem: ***quomodo dicetis Pharaoni?***, id est quomodo poteritis dicere, quando putabit vos male consuluisse, hoc quod unusquisque vestrum solebat dicere ad sui commendationem, ut ejus consilio credatur; ***filius sapientium***, quasi dicat: hereditate sapientiam possideo; vel discipulus ***regum***, qui antiquitus philosophi erant, Job XV 10 *et senes et antiqui sunt in nobis multo vetustiores quam patres tui*.  
 
-secundo ne in eis confidat, considerando earum vanitatem, Eccl. II 11 *vidi in omnibus vanitatem*;  
+**495**. Secundo irridet regis confidentiam: ***ubi nunc***,  
 
-tertio ne de eis superbiat, considerando earum imminentem adversitatem, Eccli. XI 27 *in die bonorum ne immemor sis malorum*.  
+et primo quaestionem, infra XLVII 13 ***stent et salvent te***,  
 
-**523**. Item debet se custodire in nocte adversitatis, ne frangatur:  
+secundo responsionem: ***stulti emarcuerunt***, id est defecerunt: ut supra.  
 
-primo considerando percutientis affectum, Prov. III 11 *disciplinam, fili mi, ne abjicias, ne deficias cum ab eo corriperis*;  
+**496**. Tertio irridet populi decepti ignaviam: ***deceperunt***. Hic tria facit.  
 
-secundo considerando percussi Christi exemplum, Hebr. XII 3 *recogitate eum qui talem sustinuit a peccatoribus adversum semet ipsum contradictionem*;  
+Primo ponit sapientum deceptionem: ***deceperunt angulum***, id est regnum, in quo multi conjunguntur sicut parietes in angulo, infra XLVII 10 ***sapientia tua et scientia tua decepit te***.  
 
-tertio considerando percussionis fructum, II Cor. IV 17 *id enim quod in praesenti est, momentaneum et leve tribulationis nostrae, supra modum in sublimitate aeternum gloriae pondus operatur in nobis*.  
+Secundo Dei permissionem: ***Dominus miscuit***, saepe dicitur metaphorice, ***spiritum vertiginis***, id est erroris, ad modum ejus qui patitur vertiginem, III Reg. ult. *dedit Dominus spiritum mendacii in ore omnium prophetarum tuorum*.  
 
-**524**. ***Onus in Arabia***. Hic contra Arabes.  
+Tertio ipsius populi errorem: ***et errare**. **Caput***, videlicet neque quoad principium; ***caudam***, neque quoad finem; ***incurvantem***, quoad senem; ***refrenantem***, quoad juvenem, qui refrenatione indiget, vel lascivientem, II Tim. III 13 *mali autem homines et seductores proficient in pejus*.  
 
-Et primo innuit destructionis causam: quia filiis Israel fugientibus panem porrigentes, aquam subtrahebant. Unde ponit Judaeorum fugam: O vos, Judaei, ***in saltu*** Arabiae, ***Dodanim***, nomen loci, Ps. *erraverunt in solitudine in inaquoso, viam civitatis* etc. Hortatur ad misericordiam: ***occurrentes***, vos Arabes; ***terram austri***, id est meridie, infra LVIII 7 ***frange esurienti panem tuum***. Et ponit misericordiae causam: ***a facie enim***, ut moveantur ad misericordiam, Jer. IV 29 *a voce equitis et mittentis sagittam fugit omnis civitas*.  
+**497**. ***In illa die***. Hic comminatur timorem robustorum.  
 
-**525**. Secundo, quia hoc facere noluerunt, comminatur poenam: ***quoniam haec dicit Dominus***.  
+Et primo ponit timorem: ***quasi mulieres***; infirmi et imbecilles, Jer. LI 30 *devoratum est robur eorum, et facti sunt quasi mulieres*;  
 
-Et primo per Assyrios, a quibus praelatio vastationis Judaeorum et ipsa vastitas: ***quasi in anno mercenarii***, qui sibi videtur brevis spe mercedis; s  
+secundo rationem: ***erit terra Juda***, scilicet memoria malorum quae fecerunt eis avertentes eos a cultu Dei, pro quo scient iram Dei se incurrisse, 1 Mach. VI 12 *nunc reminiscor malorum quae feci in Jerusalem*.  
 
-ecundo per Chaldaeos: ***reliquiae***, ab Assyriis derelictae, ***imminuentur*** a Chaldaeis; ***Cedar***, filii Ismaelis; ***sagittariorum***, sequentes artem patris sui, Gen. XXI 20, dicitur de Ismaele quod factus est vir sagittarius.
+**498**. ***In die illa***. Hic ponitur consecutio, vel consolatio, scilicet eorum conversio.  
+
+Et primo conversionis signum triplex;  
+
+quorum primum est juramentum: ***jurantes***, infra LXV 16 ***qui iurat*** etc., ***jurabit in Deo amen quia oblivioni traditae sunt angustiae priores***; ***civitas solis***, Heliopolis, ***linguam Chananaeam***, quae confinis est linguae Judaeorum, ut in lingua etiam conveniant cum populo Dei; in his enim translati sunt a Nabuchodonosor quidam Syri qui linguam propriam tenuerunt.  
+
+**499**. Secundum signum est sacrum aedificium: ***altare Domini***; ***et titulus***, quia multos deos colebant, sicut dicitur Act. XVII. Hoc dicunt quidam impletum tempore Machabaeorum, quando multis Judaeis fugientibus in Aegyptum, Onias volens implere hanc prophetiam, contra praeceptum legis aedificavit altare. Quod est contra Deut. 12 *non aedificabis mihi altare*; de quo arguitur Dan. XI 14 *filii quoque praevaricatorum populi tui extollentur ut impleant visionem, et corruent*; unde patet quod non est iste intellectus, sed de altari aedificando ad cultum christianum.  
+
+**500**. Tertium signum est quia invocant Dei auxilium: ***clamabunt; salvatorem***, Jesum, Ps. *clamavit ad me*.  
+
+**501**. Secundo ponit conversionis modum.  
+
+Et primo quantum ad fidei susceptionem: ***et cognoscetur***, Jer. XXXI 34 *omnes cognoscent me a minimo usque ad maximum, ait Dominus*;  
+
+secundo quantum ad sacrificiorum et votorum oblationem: ***et colent***, Mal. I 11 *in omni loco offertur nomini meo oblatio munda*;  
+
+tertio quantum ad peccatorum remissionem: ***et percutiet***, primo per multas poenas, ***et sanabit*** a peccato, Job V 18 *ipse vulnerat et medetur, percutit et manus ejus sanabunt*.  
+
+**502**. Tertio ponit conversionis triplicem effectum, scilicet  
+
+pacem: ***in die illa erit via***, quod ante non poterat esse propter diversa regna, quae nato Domino juncta sunt sub Romanis; ***servient***, in mercimoniis, sibi invicem; vel quia milites Syri erant in legionibus Romanorum ad custodiam Aegypti, supra I ***non levabit gens contra gentem gladium***.  
+
+Secundo promittit secundum effectum, fidei veritatem: ***in die illa; tertius***, simul et aequaliter Romanis serviens, et in unitate fidei, Jo. X 16 *fiet unum ovile et unus pastor*, Ro. X 12 *non est distinctio Judaei et Graeci*.  
+
+Tertio ponit tertium effectum, scilicet benedictionem divinam: ***erit***, scilicet Israel, ***benedictio***, quia per apostolos totus mundus benedictionem Dei percepit; ***hereditas***, quia ibi natus et mysteria salutis nostrae explevit, Ps. *benedixit domui Israel*.

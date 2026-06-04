@@ -1,99 +1,165 @@
-# Chapter 55
+# Chapter 53
 
-> ^55:1^ Omnes sitientes venite ad aquas, et qui non habetis argentum properate, emite et comedite; venite, emite absque argento et absque ulla commutatione vinum et lac.
+> ^53:2^ Et ascendet sicut virgultum coram eo et sicut radix de terra sitienti. Et non est species ei neque decor; et vidimus eum, et non erat aspectus. Et desideravimus eum
 
-> ^55:2^ Quare appenditis argentum non in panibus et laborem vestrum non in saturitate? Audite audientes me et comedite bonum, et delectabitur in crassitudine anima vestra.
+> ^53:3^ despectum et novissimum virorum, virum dolorum et scientem infirmitatem; et quasi absconditus vultus ejus et despectus: unde nec reputavimus eum.
 
-> ^55:3^ Inclinate aurem vestram et venite ad me, audite et vivet anima vestra. Et feriam vobiscum pactum sempiternum, misericordias David fideles.
+> ^53:4^ Vere languores nostros ipse tulit et dolores nostros ipse portavit; et nos reputavimus eum quasi leprosum et percussum a Deo et humiliatum.
 
-> ^55:4^ Ecce testem populis dedi eum, ducem ac præceptorem gentibus.
+> ^53:5^ Ipse autem vulneratus est propter iniquitates nostras, attritus est propter scelera nostra; disciplina pacis nostræ super eum, et livore ejus sanati sumus.
 
-> ^55:5^ Ecce gentes quam nesciebas vocabis, et gentes quæ te non cognoverunt ad te current, propter Dominum Deum tuum et Sanctum Israel, quia glorificavit te.
+> ^53:6^ Omnes nos quasi oves erravimus, unusquisque in viam suam declinavit, et Dominus posuit in eo iniquitatem omnium nostrum.
 
-> ^55:6^ Quærite Dominum dum inveniri potest, invocate eum dum prope est.
+> ^53:7^ Oblatus est quia ipse voluit, et non aperuit os suum. Sicut ovis ad occisionem ducetur, et quasi agnus coram tondente se obmutescet, et non aperiet os suum.
 
-> ^55:7^ Derelinquat impius viam suam, et vir iniquus cogitationes suas; et revertatur ad Dominum et miserebitur ejus et ad Deum nostrum quoniam multus est ad ignoscendum.
+> ^53:8^ De angustia et de judicio sublatus est. Generationem ejus quis enarrabit? Quia abscissus est de terra viventium. Propter scelus populi mei percussi eum.
 
-> ^55:8^ Non enim cogitationes meæ cogitationes vestræ neque viæ vestræ viæ meæ, dicit Dominus.
+> ^53:9^ Et dabit impios pro sepultura et divites pro morte sua, eo quod iniquitatem non fecerit neque dolus fuerit in ore ejus;
 
-> ^55:9^ Quia sicut exaltantur cæli a terra, sic exaltatæ sunt viæ meæ a viis vestris et cogitationes meæ a cogitationibus vestris.
+> ^53:10^ et Dominus voluit conterere eum in infirmitate. Si posuerit pro peccato animam suam, videbit semen longævum et voluntas Domini in manu ejus dirigetur;
 
-> ^55:10^ Et quomodo descendit imber et nix de cælo et illuc ultra non revertitur, sed inebriat terram et infundit eam et germinare eam facit et dat semen serenti et panem comedenti,
+> ^53:11^ pro eo quod laboravit anima ejus, videbit et saturabitur: in scientia sua justificabit ipse justus servus meus multos et iniquitates eorum ipse portabit.
 
-> ^55:11^ sic erit verbum meum quod egredietur de ore meo: non revertetur ad me vacuum sed faciet quæcumque volui et prosperabitur in his ad quæ misi illud.
+> ^53:12^ Ideo dispertiam ei plurimos, et fortium dividet spolia, pro eo quod tradidit in mortem animam suam, et cum sceleratis reputatus est. Et ipse peccatum multorum tulit et pro transgressoribus rogavit.
 
-> ^55:12^ Quia in lætitia egrediemini et in pace deducemini. Montes et colles cantabunt coram vobis laudem, et omnia ligna regionis plaudent manu.
+> **955**. ***Quis credidit?*** Hic incipit ponere remedia contra dicta impedimenta.
 
-> ^55:13^ Pro saliunca ascendet abies, et pro urtica crescet myrtus. Et erit Dominus nominatus in signum æternum quod non auferetur.
+Et primo contra peccatum promittit Christi passionem;  
 
-> **988**. ***Haec est hereditas***. Hic adhibet tertium remedium, promittens rerum abundantiam contra pristinam penuriam. Et dividitur in duas partes:
+secundo contra depressionem promittit exaltationem, cap. LIV ***lauda sterilis***;  
 
-in prima ponit promissionem,  
+tertio contra paupertatem promittit gratuitam rerum fruitionem: ***omnes sitientes***.  
 
-in secunda ostendit promissionis firmitatem: ***et quomodo descendit***.  
+Circa primum duo.  
 
-Circa primum tria facit.  
+Primo ostendit altitudinem mysterii, quia nec auditui facile creditur: ***auditui***, de his quae de Christo a te audivimus, <Abd. 1> ***auditum audivimus*** etc., Habacuc II *Domine audivi auditionem tuam, et timui*; nec facile videtur: ***et brachium***, id est Filius Dei, Dei virtus, Job XXXIX *si habes brachium sicut Deus*.  
 
-Primo ostendit eorum quibus promittitur conditionem: ***haec est hereditas***, id est haec quae sequuntur debentur servis Domini, qui ei filii sunt quasi hereditario jure; ***et justitia***, quasi justa merces, Ps. *hereditas mea*.  
+**956**. Secundo prosequitur ordinem facti.  
 
-**989**. Secundo proponit promissionem, promittens futuram copiam in necessariis: ***omnes sitientes***, id est vos ex Judaeis qui prius prae inopia sitientes eratis, ***emite***, sine pretio, ***comedite*** panem et alia necessaria, Jo. VII 37–38 *si quis sitit, veniat ad me et bibat, et de ventre ejus fluent aquae vivae*; et in deliciis: ***venite, emite***, quasi: ac si emeretis accipite, vel ***absque argento***, id est minus quam justo pretio, Cant. V 1 *bibi vinum meum cum lacte meo*. Et commemorans pristinam inopiam: ***quare appenditis?***, quasi dicat: quare hactenus argentum dabatis et panem inde emere non poteratis?, Aggaei I 6 *seminastis multum et intulistis parum*. Haec autem mystice exponuntur de aqua divinae sapientiae quae gratis sitientibus datur, secundum Glossam.  
+Et primo proponens similitudinem quantum ad ipsius exaltationem: ***et ascendet***, ex ventre matris nascendo, ex morte resurgendo, de mundo in caelum ascendendo, et in fidem gentium; ***sicut virgultum***, quod in altum crescit et in latum multiplicatur, supra XI 1 ***egredietur virga de radice Jesse et flos de radice ejus ascendet***. Et quantum ad ipsius humanitatem: ***et sicut radix de terra sitienti***, id est de terra sine humore, quae prae siccitate indecora videtur, sic etiam ipse ortus est de matre absque virili humore, Apoc. ult. *ego sum radix David*.  
 
-**990**. Tertio indicit praeparationem ad consequendum dictum promissionem: ***audite audientes***;  
+**957**. Secundo ponit similitudinis expositionem: ***non est***;  
 
-et primo excitat attentionem,  
+et primo quantum ad humiliationem,  
 
-secundo ponit exhortationem: ***quaerite Dominum***.  
+secundo quantum ad exaltationem: ***de angustia***.  
 
-Excitat autem attentionem triplici promissione.  
+Circa primum duo:  
 
-Primo promittens attendentibus bonorum copiosam fruitionem: ***comedite***, id est reficiam vos diversis bonis si me audiatis; ***in crassitudine***, quantum ad copiam, supra I 19 ***si volueritis et audieritis me, bona terrae comedetis***, Ier. XXXI 14 *animam sacerdotum*.  
+primo describit Christi humilitatem,  
 
-Secundo promittens mortis evasionem: ***inclinate***, Ps. *vivet anima mea*, iterum Ps. *in aeternum non obliviscar justificationes tuas, quia in ipsis vivificasti me*.  
+secundo humiliati mansuetudinem: ***oblatus est***.  
 
-Tertio promittens potestatem;  
+Circa primum tria:  
 
-et primo ponit similitudinem: ***et feriam***, id est sicut David veras promissiones feci ut in sempiternum semen suum permaneret, sic et vobiscum faciam.  
+primo describit humilitatis officium;  
 
-Secundo explicat ipsam, ostendens quid David fecerit: ***ecce testem***, Ps. *populus quem non cognovi servivit mihi, in auditu auris obedivit mihi*; et quid eis facturus sit: ***ecce gentes vocabis*** ad praeceptum tuum implendum, non tuis viribus sed ***propter Dominum***, supra XLIX 7 ***adorabunt propter Dominum Deum tuum qui elegit te***.  
+secundo humiliati contemptum: ***et quasi absconditus***;  
 
-**991**. ***Quaerite Dominum***. Hic indicit eis praeparationem ad consequendam dictam promissionem.  
+tertio humiliationis fructum: ***ipse autem vulneratus***.  
 
-Et primo dat quaerendi divinum consilium: ***quaerite Dominum dum inveniri potest***, antequam adversitas vel mors veniat, Ps. *quaerite Dominum* etc., Prov. I 28 *mane consurgent* etc.  
+**958**. Circa primum duo.  
 
-Secundo docet quaerendi modum: ***derelinquat impius***, peccans in Deum; ***iniquus***, peccans in proximum, supra I 16 ***auferte malum cogitationum vestrarum ab oculis meis***.  
+Primo ostenditur ejus humilitas quantum ad absconsionem majestatis: ***non est ei species***, quantum ad affluentiam interiorum bonorum, ***neque decor***, quantum ad affluentiam exteriorum: species enim proprie respicit pulchritudinem quantum ad commensurationem membrorum, sed decor quantum ad convenientiam coloris et aliorum circumadjacentium. Habebat siquidem speciem, quia *speciosus forma prae filiis hominum*, sed latebat propter infirmitatem assumptam; habebat decorem, quia *fortitudo et decor indumentum ejus*, Prov. ult., sed latebat propter paupertatem servatam: unde Cant. II 14 *sonet vox tua in auribus meis*. Et ideo nos qui tunc increduli et postea conversi, in quorum persona loquitur, ***vidimus eum***, corporaliter, ***et non erat aspectus***, magnificus, secundum quod dicitur quod species Priami digna est imperio.  
 
-Tertio ponit reversionis fructum, scilicet misericordiam: ***et revertatur***; ***quoniam multus***, id est multiplicis misericordiae, ***ad ignoscendum***, Joelis II 13 *convertimini ad Dominum Deum vestrum*.  
+**959**. Secundo ostenditur ejus humilitas quantum ad ostensionem infirmitatis: ***et desideravimus eum***, cum desiderio expectantes quasi magnum redemptorem, Aggaei II 8 *ecce veniet desideratus cunctis gentibus*, et in dignitate; contra quod vidimus eum ***despectum***, inglorium, ***novissimum virorum***, propter turpissimum genus mortis, Sap. II 20 *morte turpissima condemnemus eum*, Prov. XXX 2 *stultissimus sum virorum*. Magnum etiam in prosperitate; contra quod invenimus eum ***virum dolorum***, quasi miserum, doloribus plenum, Thren. I 12 *O vos omnes qui transitis per viam, attendite et videte si est dolor sicut dolor meus*. Magnum etiam in potestate; contra quod invenimus eum ***scientem infirmitatem*** per experimentum, II Cor. ult. *nam si crucifixus est ex infirmitate, sed vivit virtute Dei*.  
 
-Quarto excludit misericordiae impedimentum: ***non enim cogitationes***, quasi: vos impii, ego pius, vos ultionem cogitatis, ego misericordiam, Ez. XVIII 25 *numquid viae meae non sunt aequae, domus Israel, et non magis viae vestrae pravae sunt?*  
+**960**. ***Et quasi absconditus***. Hic ostendit humiliati contemptum.  
 
-**992**. ***Et quomodo***. Hic ostendit promissionis firmitatem.  
+Et primo quantum ad majestatem absconsam in subtractione honoris: ***quasi absconditus***, latens majestas sub infirmitate carnis, ***unde nec reputavimus***, debitum honorem non impendendo, supra XLV 15 ***vere tu es Deus absconditus***.  
 
-Et primo ostendit divini verbi efficaciam: ***ad me vacuum***, id est sine fructu, Sap. I 11 *sermo obscurus*, Oseae VI 3 *veniet quasi imber temporaneus et serotinus*.  
+Secundo quantum ad infirmitatem ostensam, ponens infirmitatis signum: ***vere***, sicut verus homo, ***languores***, infirmitates sicut famem, sitim, ***tulit***, sustinuit, ***dolores*** sensibiles in passione et tristitiam; vel ***languores***, peccata abstulit a nobis; vel loco nostri poenas sustinuit, I Petri II 24 *peccata nostra pertulit super lignum*. Ponens etiam contemptum: ***et nos reputavimus quasi leprosum***, immundum et peccatorem, et ideo ***percussum a Deo*** pro peccatis suis, quantum ad poenas, ***et humiliatum***, quantum ad ignominias, Job XXII 5 *propter malitiam tuam plurimam, et infinitas iniquitates tuas*, et XXXIX *abominantur* etc.  
 
-Secundo ponit continentiam quantum ad laetam remissionem de Babylone: ***quia in laetitia***, Ps. *eduxit populum suum cum exultatione et electos suos in laetitia*; quantum ad aliorum congratulationem: ***montes et colles***, potentes et populares, laudantes in vobis Dominum; vel est hyperbole: terra vestra vestrae reversioni congratulans; quantum ad bonorum multiplicatam restitutionem: ***pro saliuncula***, id est priora pauca erant respectu futurorum, Aggaei II 10 *erit gloria domus hujus novissimae plus quam primae*, supra XLI 19 ***dabo in solitudine***. Saliunca a saliendo dicta, quae cardus leporinus dicitur.  
+**961**. Nota super illo verbo ***et brachium Domini cui revelatum est?***, quod Christus est brachium:  
 
-Tertio ponit consequentem Dei gloriam: ***et erit Dominus nominatus*** undique et semper gloriosus pro liberatione vestra, ***in signum aeternum***, ad quem confugient sicut ad signum salutis, supra XLIX 22 ***ecce ego levabo ad gentes signum meum***.  
+primo ad flagellandum daemones, Ps. *in brachio virtutis tuae dispersisti inimicos tuos*;  
 
-**993**. Nota super illo verbo ***omnes sitientes venite ad aquas***, quod divina doctrina primo dicitur aqua:  
+secundo ad supportandum debiles, supra XL 11 ***in brachio suo levabit agnos***;  
 
-et hoc <primo> quia infirmos sanat, Eccli. XV 3 *aqua sapientiae salutaris potavit eum*; s  
+tertio ad defendendum fideles, Sap. V 17 *dextera sua reget eos*.  
 
-ecundo quia inquinatos mundificat, Ez. XXXVI 25 *effundam super vos aquam mundam et mundabimini ab omnibus inquinamentis vestris*;  
+**962**. Item super illo ***virgultum***, quod Christus est virga:  
 
-tertio quia sitientes satiat, Jo. IV 13 *si quis biberit ex aqua quam ego dabo ei, non sitiet in aeternum*.  
+primo ad percutiendum, Num. XXIII *orietur stella ex Jacob et consurget virga de Israel*;  
 
-**994**. Secundo dicitur vinum:  
+secundo ad sustentandum, Ps. *virga tua et baculus tuus, ipsa me consolata sunt*;  
 
-et hoc quia primo pungit arguendo supra I 22 ***vinum tuum mixtum est aqua***;  
+tertio ad dirigendum, Ps. *virga directionis tuae*.  
 
-secundo quia incendit exhortando, Ps. *eloquium Domini inflammavit eum*;  
+**963**. Item super illo ***radix de terra***, quod Christus est radix  
 
-tertio quia inebriat consolando, infra ult. ***inebriamini ab uberibus consolationis vestrae***.  
+primo propter absconsionem, Eccli. I 6 *radix sapientiae cui revelata est?*;  
 
-**995**. Tertio dicitur lac:  
+secundo propter nutrimenti ministrationem, Jer. XVII 8 *erit tamquam lignum quod ad humorem mittit radices*;  
 
-et hoc primo propter pulchritudinem, Gen. ult. *Nephtalim cervus emissus dans eloquia pulchritudinis*;  
+tertio propter totius arboris sustentationem, Ro. XI 18 *non tu radicem portas*.  
 
-secundo propter dulcedinem, Cant. II 14 *sonet vox tua in auribus meis, vox enim tua dulcis*;  
+**964**. ***Ipse autem vulneratus***. Hic ponit humiliationis sive passionis fructum.  
 
-tertio propter sumendi facilitatem, I Petri I *quasi modo geniti infantes lac concupiscite*.
+Et primo assignat rationem moventem: ***ipse autem***, non sicut putavimus, sed ***vulneratus*** spinis, clavis, lancea, ***propter iniquitates nostras*** tollendas, ***attritus*** flagellis et alapis. Vel ***vulneratus*** quantum ad id quod dicit: ***percussum**; **attritus*** quantum ad id quod dicit: ***humiliatum***, Thren. IV 20 *spiritus oris nostri Christus Dominus*.  
+
+**965**. Secundo ostendit utilitatem consequentem in reconciliatione pacis: ***disciplina pacis***, id est ipse pro nobis disciplinam correptionis sustinuit, per quam pacem habemus accessum ad Deum, Ro. V 10 *si enim cum inimici essemus, reconciliati sumus Deo per mortem Filii ejus*; et in restitutione perditae sanitatis: ***livore***, quem ex virgis habuit, I Petri II 24 *cujus livore sanati estis*, Ps. *qui propitiatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates tuas*.  
+
+**966**. Tertio ostendit necessitatem imminentem ex parte nostra, quia omnes infirmi: unde omnes medico indigent, et nullus alius sufficiens remedium praebere poterat, Ro. III 22 *non enim est distinctio Judaei et Graeci: omnes enim peccaverunt et egent* paenitentia*; **omnes nos quasi oves***, I Petri II 25 *eratis aliquando sicut oves non habentes pastorem*.  
+
+**967**. ***Oblatus est***. Hic ostendit patientis mansuetudinem.  
+
+Et primo proponit ipsam mansuetudinem,  
+
+et primo quantum ad voluntariam sui oblationem: ***oblatus est*** Deo Patri pro nobis hostia, Ps. *voluntarie sacrificabo tibi*;  
+
+secundo quantum ad patientem passionem: ***et non aperuit os suum***, quasi contradicens et contendens; etiam coram Herode nihil respondit, Lucae XXII, Thren. IV *ex ore Altissimi* etc.  
+
+Secundo ponit similitudinem: ***sicut ovis ad occisionem***, quia sine resistentia occisus, ***et quasi agnus***, sine contradictione injuriam passus, Jer. XII *ego quasi agnus qui portatur ad victimam*.  
+
+**968**. Nota super illo verbo ***novissimum***, quod Christus fuit novissimus:  
+
+primo propter doloris acerbitatem, Thren. III *O vos omnes qui transitis per viam, attendite et videte si est dolor sicut dolor meus*;  
+
+secundo propter mortis turpitudinem, Sap. II 20 *morte turpissima condemnemus eum*;  
+
+tertio propter impositi criminis magnitudinem, Prov. XXX 2 *stultissimus sum virorum, et sapientia hominum non est mecum*.  
+
+**969**. Item super illo ***virum dolorum***, quod Christus fuit plenus doloribus:  
+
+primo propter morbi necessitatem, supra I 6 ***a planta pedis usque ad verticem non est in eo sanitas***;  
+
+secundo propter gratiarum effusionem, Jo. I 16 *de plenitudine ejus omnes accepimus gratiam*;  
+
+tertio propter nostram obligationem, II Cor. V *in hoc Christus mortuus est* etc.  
+
+**970**. ***De angustia***. Posita humilitate passionis, hic incipit ponere exaltationis gloriam, quae est passionis praemium, sicut dicitur Phil. II 9 *propter quod Deus exaltavit illum*.  
+
+Et primo quantum ad evasionem periculorum;  
+
+secundo quantum ad ultionem hostium: ***et dabit impios***;  
+
+tertio quantum ad justificationem hominum: ***si posuerit***;  
+
+quarto quantum ad victoriam rebellium: ***ideo dispertiam***.  
+
+**971**. Circa primum duo.  
+
+Primo ponit praemium: ***de angustia***, passionis, ***de judicio*** injusto quo ab aliis judicatus est, ***sublatus est***, in resurrectione, Prov. XI 8 *justus de angustia liberatus est*.  
+
+Secundo ponit meritum, ponens patientis dignitatem, ut ex conditione personae meritum passionis pensetur: ***generationem***, aeternam qua de patre sine matre, vel temporalem qua de matre sine patre, ***quis?***, quasi: nullus, naturali ratione, etsi aliqualiter inspiratione divina, Eccli. XLIII 35 *quis vidit eum et enarrabit?* Ponens etiam illatam passionem: ***quia abscisus est***, per mortem a Judaeis, ***de terra viventium***, de hac vita, Jer. XII *venite, mittamus lignum in pane ejus, et eradamus eum de terra viventium*. Ponens etiam ex parte Dei Patris passionis acceptationem: ***propter scelus, percussi***, percuti permisi, I Petri III 18 *christus semel pro peccatis nostris* etc.  
+
+**972**. ***Et dabit impios***. Hic ponit secundum, scilicet vindictam persequentium.  
+
+Et primo ponit praemium: ***et dabit impios***, Judaeos, in manus Romanorum, ***pro sepultura***, quia ipsum in sepulcro custodiri fecerunt, Prov. XXI 18 *pro iusto dabitur* etc.  
+
+Secundo ponit meritum quantum ad vitae innocentiam: ***eo quod iniquitatem non fecit***, quantum ad peccatum operis, ***in ore***, quantum ad peccatum oris, I Petri II 22 *qui peccatum non fecit, nec inventus est dolus in ore ejus*. Et quantum ad mortis obedientiam: ***et Dominus***, Pater, ***voluit***, et ipse obediens fuit Patri usque ad mortem, Phil. II 8 *factus obediens usque ad mortem*, I Cor. I 25 *quod infirmum est Dei, fortius est hominibus*.  
+
+**973**. ***Si posuerit***. Hic ponit tertium, scilicet quod per ipsum completa est hominum justificatio.  
+
+Et primo ponit praemium contra mortis dolorem: ***si posuerit***, propria voluntate, Jo. X 17 *ego pono animam meam, **videbit semen longaevum***, usque ad finem mundi filios sibi regenerari ex virtute mortis ejus, Jo. XII 24 *nisi granum frumenti cadens in terra mortuum fuerit, ipsum solum manet, si autem mortuum fuerit, multum fructum affert; **et voluntas dirigetur***, implebitur, ***in manu***, in opere ejus, I Thess. IV 3 *haec est voluntas Dei, sanctificatio vestra*. Et contra doctrinae laborem: ***pro eo quod laboravit***, praedicando et discurrendo, ***videbit*** gentes ad se conversas, ***et saturabitur***, quasi habens quod intendit, Jo. IV 32 *cibum habeo manducare quem vos nescitis*.  
+
+**974**. Secundo ponit meritum quantum ad exercitium praedicationis: ***in scientia***, id est doctrina, Ro. V 1 *justificati gratis ex fide*, Jo. VI 69 *Domine, ad quem ibimus? Verba vitae aeternae habes*; et quantum ad tormentum mortis: ***iniquitates***, id est poenas pro iniquitatibus, supra XLV ***ego feci, ego feram***.  
+
+**975**. ***Ideo dispertiam***. Hic ponit quartum, scilicet victoriam de hostibus.  
+
+Et primo ponit hostium subjectionem: ***ideo dispertiam***, quasi: partem suam ei dabo, ***plurimos***, qui credent in ipsum; ***et spolia fortium***, id est captivatos a daemonibus, ***dividet*** discipulis suis, diversos diversis gentibus praeponens, Oseae XIII 15 *ipse diripiet thesaurum omnis vasis desiderabilis*, Ps. *rex virtutum dilecti dilecti, et speciei domus dividere spolia*.  
+
+Secundo ponit subjectionis rationem quantum ad mortem: ***pro eo quod tradidit***, et quantum ad genus mortis: ***et cum sceleratis***, Lucae XXIII *et crucifixi sunt cum eo duo nequam*, Ps. *aestimatus sum cum descendentibus in lacum*.  
+
+Tertio subjectorum salvationem: non enim quasi tyrannus sibi subdidit ad vexandum, sed ad salvandum: ***et ipse peccatum multorum***, efficienter, quamvis omnium sufficienter, ***tulit***, abstulit, **et pro transgressoribus** oravit, Lucae XXIII 34 *Pater, ignosce illis, quia nesciunt quid faciunt*.

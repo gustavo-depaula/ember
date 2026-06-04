@@ -1,197 +1,179 @@
-# Chapter 45
+# Chapter 43
 
-> ^45:2^ Ego ante te ibo et gloriosos terræ humiliabo; portas æreas conteram et vectes ferreos confringam.
+> ^43:2^ Cum transieris per aquas tecum ero et flumina non operient te, cum ambulaveris in igne non combureris et flamma non ardebit in te;
 
-> ^45:3^ Et dabo tibi thesauros absconditos et arcana secretorum, ut scias quia ego Dominus qui voco nomen tuum Deus Israel,
+> ^43:3^ quia ego Dominus Deus tuus, Sanctus Israel, salvator tuus. Dedi propitiationem tuam Ægyptum, Æthopiam et Saba pro te.
 
-> ^45:4^ propter servum meum Jacob et Israel electum meum, et vocavi te in nomine tuo, assimilavi te et non cognovisti me.
+> ^43:4^ Ex quo honorabilis factus es in oculis meis et gloriosus; ego dilexi te, et dabo homines pro te et populos pro anima tua.
 
-> ^45:5^ Ego Dominus, et non est amplius, extra me non est deus; accinxi te, et non cognovisti me;
+> ^43:5^ Noli timere, quoniam ego tecum sum; ab oriente adducam semen tuum et ab occidente congregabo te.
 
-> ^45:6^ ut sciant hi qui ab ortu solis et qui ab occidente, quoniam absque me non est deus. Ego Dominus, et non est alter deus,
+> ^43:6^ Dicam aquiloni: da, et austro: noli prohibere; affer filios meos de longinquo et filias meas ab extremis terræ.
 
-> ^45:7^ formans lucem et creans tenebras, faciens pacem et creans malum: ego Dominus faciens omnia hæc.
+> ^43:7^ Et omnem qui invocat nomen meum in gloriam meam creavi eum, formavi eum et feci eum.
 
-> ^45:8^ Rorate cæli desuper et nubes pluant justum, aperiatur terra et germinet salvatorem, et justitia oriatur simul: ego Dominus creavi eum.
+> ^43:8^ Educ foras populum cæcum et oculos habentem, surdum et aures ei sunt.
 
-> ^45:9^ Væ qui contradicit fictori suo, testa de samiis terræ! Numquid dicit lutum figulo suo: quid facis, et opus tuum absque manibus est?
+> ^43:9^ Omnes gentes congregatæ sunt simul et collectæ sunt tribus. Quis in vobis annuntiet istud et quæ prima sunt audire vos faciet? Dent testes eorum et justificentur et audiant et dicant. Vere
 
-> ^45:10^ Væ qui dicit patri: quid generas? Et mulieri: quid parturis?
+> ^43:10^ vos testes mei, dicit Dominus, et servus meus quem elegi, ut sciatis et credatis mihi et intelligatis quia ego ipse sum; ante me non est formatus Deus et post me non erit.
 
-> ^45:11^ Hæc dicit Dominus Sanctus Israel, plastes ejus: ventura interrogate me super filios meos et super opera manuum mearum mandate mihi.
+> ^43:11^ Ego sum, ego sum Dominus, et non est absque me salvator.
 
-> ^45:12^ Ego feci terram et hominem super eam creavi ego, manus meæ extenderunt cælos, et omni militiæ eorum mandavi.
+> ^43:12^ Ego annuntiavi et salvavi, auditum feci, et non fuit in vobis alienus. Vos testes mei, dicit Dominus, et ego Deus;
 
-> ^45:13^ Ego suscitavi eum ad justitiam et omnes vias ejus dirigam. Ipse ædificabit civitatem meam et captivitatem meam dimittet, non in pretio neque in muneribus, dicit Dominus exercituum.
+> ^43:13^ et ab initio ego ipse, et non est qui de manu mea eruat; operabor, et quis avertet illud?
 
-> ^45:14^ Hæc dicit Dominus Deus: labor Ægypti et negotiatio Æthiopiæ et Sabaim viri sublimes ad te transibunt et tui erunt; post te ambulabunt, vincti manicis pergent et te adorabunt teque deprecabuntur. Tantum in te est Deus et non est absque te deus;
+> ^43:14^ Hæc dicit Dominus redemptor vester Sanctus Israel: propter vos emisi in Babylonem et detraxi vectes universos et Chaldæos in navibus suis gloriantes.
 
-> ^45:15^ vere tu es Deus absconditus, Deus Israel salvator.
+> ^43:15^ Ego Dominus Sanctus vester, creans Israel, rex vester.
 
-> ^45:16^ Confusi sunt et erubuerunt omnes simul, abierunt in confusionem fabricatores errorum.
+> ^43:16^ Hæc dicit Dominus, qui dedit in mari viam et in aquis torrentibus semitam,
 
-> ^45:17^ Israel salvatus est in Domino salute æterna; non confundemini et non erubescetis usque in sæculum sæculi.
+> ^43:17^ qui eduxit quadrigam et equum, agmen et robustum; simul obdormierunt nec resurgent, contriti sunt quasi linum et extincti sunt.
 
-> ^45:18^ Quia hæc dicit Dominus creans cælos, ipse est Deus formans terram et faciens eam, ipse plastes ejus. Non in vanum creavit eam, sed ut habitetur formavit eam: ego Dominus, et non est alius.
+> ^43:18^ Ne memineritis priorum et antiqua ne intueamini.
 
-> ^45:19^ Non in abscondito locutus sum, in loco terræ tenebroso. Non dixi semini Jacob: frustra quærite me: ego Dominus loquens justitiam, annuntians recta.
+> ^43:19^ Ecce ego facio nova, et nunc orientur: utique cognoscetis ea. Ponam in deserto viam et in invio flumina.
 
-> ^45:20^ Congregamini et venite et accedite simul qui salvati estis ex gentibus: nescierunt qui levant lignum signum sculpturæ suæ et rogant deum non salvantem;
+> ^43:20^ Glorificabit me bestia agri, dracones et struthiones, quia dedi in deserto aquas et flumina in invio, ut darem potum populo meo, electo meo.
 
-> ^45:21^ annuntiate et venite et consiliamini simul. Quis auditum fecit hoc ab initio, ex tunc prædixit illud? Numquid non ego Dominus, et non est ultra deus absque me? Deus justus et salvans non est præter me.
+> ^43:21^ Populum istum formavi mihi, laudem meam narrabit.
 
-> ^45:22^ Convertimini ad me, et salvi eritis, omnes fines terræ, quia ego Dominus, et non est alius.
+> ^43:22^ Non me invocasti Jacob, nec laborasti in me Israel.
 
-> ^45:23^ In memet ipso juravi; egredietur de ore meo justitiæ verbum et non revertetur,
+> ^43:23^ Non obtulisti mihi arietem holocausti tui et victimis tuis non glorificasti me. Non te servire feci in oblatione nec laborem tibi præbui in thure.
 
-> ^45:24^ quia mihi curvabitur omne genu, et jurabit omnis lingua.
+> ^43:24^ Non emisti mihi argento calamum, et adipe victimarum tuarum non inebriasti me. Verumtamen servire me fecisti in peccatis tuis, præbuisti mihi laborem in iniquitatibus tuis.
 
-> ^45:25^ Ergo in Domino dicet: meæ sunt justitiæ et imperium; ad eum venient et confundentur omnes qui repugnant ei.
+> ^43:25^ Ego sum, ego sum ipse qui deleo iniquitates tuas propter me et peccatorum tuorum non recordabor.
 
-> ^45:26^ In Domino justificabitur et laudabitur omne semen Israel.
+> ^43:26^ Reduc me in memoriam, et judicemur simul; narra si quid habes ut justificeris.
 
-> **857**. ***Haec dicit Dominus christo meo*** etc. Postquam confortavit eos ad firmam expectationem divinorum promissorum, in parte ista incipit prosequi divinas promissiones ad eorum consolationem. Et dividitur in duas:
+> ^43:27^ Pater tuus primus peccavit, et interpretes tui prævaricati sunt in me,
 
-in prima promittit liberationem a malis,  
+> ^43:28^ et contaminavi principes sanctos, dedi ad internecionem Jacob et Israel in blasphemiam.
 
-in secunda promittit salvationem in bonis, lvj cap. ***haec dicit Dominus: custodite judicium*** etc.  
+> **830**. ***Et nunc haec dicit Dominus*** etc. Hic ostendit eis divinam dilectionem per remedia quae eis inter angustias concessit. Et dividitur in partes tres:
 
-Prima in duas:  
+in prima promittit futura remedia ad ostendendam dilectionem,  
 
-in prima promittit eis liberationis beneficium,  
+in secunda commemorat praeterita beneficia ad confirmandam promissionem: ***haec dicit Dominus qui dedit*** etc.,  
 
-in secunda excludit omne liberationis impedimentum, l cap. ***haec dicit Dominus: quis est hic libellus*** etc.  
+in tertia excludit merita ad tollendam praesumptionem: ***non me invocasti*** etc.  
 
-Prima dividitur in tres:  
+Circa primum tria facit:  
 
-in prima praesignat eis liberatorem;  
+primo ostendit ad eos divinae dilectionis privilegium,  
 
-in secunda praedicit captivantium et detinentium destructionem, xlvj ***confractus est Bel*** etc.;  
+secundo ex promissis remediis excludit divinae potestatis consortium: ***omnes gentes congregatae sunt*** etc.,  
 
-in tertia promittit Judaeorum liberationem xlviii cap. ***audite hoc domus*** etc.  
+in tertia ponit dilectionis signum: ***haec dicit Dominus redemptor*** etc.  
 
-Prima in duas:  
+**831**. Circa primum promittit eis tria remedia.  
 
-in prima praenuntiat liberatorem,  
+Primo in poenis sustentationem, excludens timorem ex divina praesentia: ***creans te***, quantum ad substantiae principia, Deut. xxxii *ipse est pater tuus* etc., ***formans***, quantum ad formam quam dedit, Gen. primo *formavit Dominus* etc., ***redimens*** a malis, Oseae xiii *de manu mortis* etc., ***et vocavi*** ad gratiam, Oseae primo *vocabo non plebem meam* etc.; ponit promissionem: ***cum transieris per aquas***, Aegyptios, ***flumina***, Chaldaei, ***igne***, Graeci, ***flamma***, Romani: non enim ex toto sunt consumpti, Ps. *transivimus per ignem* etc. Et assignat hujus rationem: ***quia ego Dominus*** etc., supra xii ***nam et ipse Deus salvator*** etc.  
 
-in secunda ostendit consequentem utilitatem: ***haec dicit Dominus Sanctus Israel*** etc.  
+**832**. Secundo promittit poenarum commutationem, ut scilicet alios loco ipsius puniat; et ponit commutationem: ***dedi propitiationem***, id est ut propitier tibi, quasi poenis eorum qui te ad peccandum sui auxilii spe provocabant: ***Saba***, civitas Aethiopiae, Prov. xi *justus de angustia* etc.; et assignat rationem, scilicet ipsam Dei dilectionem: ***ex quo honorabilis***, id est feci et reputavi te honorabilem, ***pro te***, pro liberatione tua, Jer. xxxprimo *si filius honorabilis mihi* etc.  
 
-Prima in tres:  
+**833**. Tertio promittit eis a tribulationibus omnimodam liberationem; et circa hoc tria: primo promittit liberationis beneficium: ***noli timere; ab oriente***, quia undique dispersi erant, supra xi ***congregabit profugos*** etc., Jer. xxxprimo *ecce ego adducam eos* etc.;  
 
-in prima praedicit liberatoris potestatem,  
+secundo ponit liberationis meritum: ***et omnem qui invocat*** adducam ***in gloriam meam***, ut glorificet me et in ipso gloriosus appaream, Joelis secundo *omnis quicumque invocaverit* etc.;  
 
-in secunda describit ipsius nativitatem: ***rorate caeli*** etc.,  
+tertio promulgat liberationis praeceptum: ***educ***, o Cyre, ***foras***, extra terram captivitatis, ***populum***, scilicet Judaeorum, Jer. v *audi popule stulte etc*.  
 
-in tertia refellit incredulorum contradictionem, ibi ***vae qui contradicit*** etc.  
+**834**. ***Omnes gentes***. Hic excludit divinitatis consortium.  
 
-**858**. Circa primum duo.  
+Et primo ostendit aliorum deorum falsitatem per modum judicii, ponens gentium ad idolatriam consensum: ***congregatae sunt*** in unum errorem, Ps. *omnes declinaverunt* etc., petens divinitatis signum: ***quis ex vobis***, id est quis deorum vestrorum; vel loquitur ad idola et petit testimonium: ***dent testes, et justificentur***, id est juste dicantur dii, et testes ***audiant*** ab eis futura, ***et dicant*** pro vobis testimonium, supra xlprimo ***non est annuntians neque praedicens*** etc.  
 
-Primo ponit potentiae fastigium ad quod exaltatus fuit, contra tria quae solent evadere manus regis.  
+Secundo ostendit suae divinitatis veritatem,  
 
-Vel propter multitudinem, et quantum ad hoc dicit: ***christo***, id est regi, non propter unctionem sed propter regiam dignitatem, quia apud eos reges inungebantur; ***apprehendi dexteram***, quasi auxiliator operum ipsius, ***gentes*** diversas etc., Deut. xxviii *dabit Dominus inimicos* etc.  
+et primo quantum ad scientiam,  
 
-Vel propter fortitudinem, et quantum ad hoc dicit: ***ego ante te ibo***, parans victoriae tuae locum, immittendo terrorem tuum in adversariis, ***gloriosos***, potentes supra alios sicut Babylonios, ***portas aereas***, potentissimas civitates, Ps. *qui contrivit portas aereas* etc.  
+secundo quantum ad potentiam: ***vos testes*** etc.  
 
-Vel propter absconsionem, et quantum ad hoc dicit: ***et dabo tibi thesauros*** diversorum regum, quorum civitates cepit, Job xii *revelat profunda de tenebris* etc.  
+**835**. Circa primum duo.  
 
-**859**. Secundo ponit huius beneficii fructum.  
+Primo dat testimonium, assignans homines in testimonium: ***vere vos testes*** etc., ***servus***, populus Jacob, vel Christus, Ac. primo *eritis mihi testes* etc.; ponens cognoscendi modum: ***ut sciatis***, quantum ad ea quae per naturales rationes de Deo sciri possunt, ***et credatis***, quantum ad ea quae supra rationem sunt, et sic ***intelligatis***, quia ***nisi credideritis non intelligetis***, supra viii secundum aliam litteram; ponens etiam testium dictum quod ipse sit solus Deus: ***quia ego*** solus ***sum*** Deus, ***formator***, vel formatus, scilicet idolum, Deut. xxxii *videte quod ego sim solus* etc., et quod sit solus Dominus: ***ego sum***, singulariter, ***ego sum*** excellenter etc., Ac. iv *salus non est in aliquo alio* etc.  
 
-Et primo in ipso,  
+Secundo dat divinitatis signum: ***ego annuntiavi*** etc., ***non fuit*** a quo scire possetis, Ps. *Israel si me audieris* etc.  
 
-secundo in aliis: ***ut sciant hi qui ab ortu*** etc.  
+**836**. ***Vos testes*** etc. Hic ostendit veritatem divinitatis quantum ad potentiam.  
 
-Circa primum duo.  
+Et primo dat testimonium: ***vos testes*** etc., Jo. viv *ego principium* etc.;  
 
-Primo ponit potestatis fructum a Deo requisitum in Cyro, scilicet suae cognitionis: ***ut scias quia ego*** etc., Ro. iv *qui vocat ea quae non sunt* etc., et populi liberationis: ***propter servum meum*** etc., ut scilicet liberes eum de captivitate, Esther iii *quis novit an idcirco ad regnum* etc.  
+secundo dat potentiae signum in puniendo: ***et non est qui de manu***, ut Deut. xxxii, Job x, et in operando: ***operabor*** etc., supra xiv ***Dominus exercituum decrevit*** etc.  
 
-Secundo ostendit istud beneficium ex parte ipsius Cyri ex parte esse frustratum: ***et vocavi***, praedicendo nomen tuum, ***assimilavi*** in hoc aliis sanctis viris, quorum nomina prius a Domino praedicta sunt; ***non cognovisti me*** esse tantum Deum verum, permanens in idolatria; ***accinxi***, fortitudine etc., Prov. primo *vocavi et renuistis* etc.  
+**837**. ***Haec dicit Dominus*** etc. Hic ponit dilectionis signum, quia pro eis Babylonios in navibus gloriantes propter multitudinem aquarum destruxit: ***emisi***, scilicet iram, Jer. lprimo *cogitavit Dominus et fecit* etc.  
 
-**860**. ***Ut sciant***. Hic ostendit fructum in aliis.  
+**838**. ***Haec dicit Dominus qui dedit*** etc. Hic commemorat praeterita beneficia ad confirmandam spem de futuris. Et circa hoc duo facit.  
 
-Et primo ostendit quod in aliis quaerit suae cognitionis fructum: ***qui ab ortu***, id est habitantes per totum mundum, quod completum fuit in hoc quod Cyrus epistolis suis laudem Dei scripsit ubique; vel quia omnes Deum collaudaverunt videntes Judaeorum liberationem, Ps. *sciant quoniam nomen tibi* etc.  
+Primo commemorat praeterita beneficia quando egressi sunt de Aegypto, in eorum gubernatione: ***in mari*** rubro, Exo. xiv, ***in aquis torrentibus***, in Arnon, Numeri xxprimo, in Jordane, Josue iii; et quantum ad hostium destructionem: ***qui eduxit quadrigam***, currus Pharaonis etc., Exo. xv *electi principes ejus* etc.; ***quasi linum***, in momento succisum.  
 
-Secundo proponit suae deitatis argumentum, quo cognosci potest in hoc quod potest affligere et liberare: ***ego Dominus*** etc.; ***lucem***, diem vel consolationem; ***malum***, poenae, Amos iii *si est malum in civitate* etc., Eccli. xlii *omnia fecit Deus duplicia* etc.  
+**839**. Secundo promittit futura multo majora; et circa hoc tria facit.  
 
-**861**. ***Rorate***. Hic describit nativitatem Cyri sub metaphora fructus arboris, ad cujus generationem requiritur humor terrae et pluvia et ros de caelo; ita in nativitate Cyri concurrit divina misericordia, intendens populum suum per eum liberare, et inferior natura quae significatur. Unde tria facit:  
+Primo ostendit futurorum beneficiorum magnitudinem ex priorum comparatione: ***ne memineris***, quasi: non sunt digna ut in memoria habeantur comparatione futurorum, Phil. iii *ea quidem quae retro sunt obliviscens* etc.; ex eorum novitate: ***ecce facio nova***, inaudita, Apoc. xxj *ecce nova facio omnia*, et ex eorum determinatione: ***ponam in deserto***, id est in terra Judaeorum quae prius deserta, ***viam*** euntium ad festivitates, ***flumina*** consolationis, Ps. *posuit desertum in stagna* etc. Et si exponantur haec ad litteram de liberatione de captivitate Babilonis, dicuntur majora quam liberatio de Aegypto, non propter majora miracula, sed quia reges de quorum potestate liberavit potentiores Pharaone fuerunt, vel quia de loco magis distanti venerunt; si autem referantur ad liberationem factam per Christum, constat quod nihil ita admirabile praecesserat in saeculis praeteritis.  
 
-describit ortum: ***rorate***;  
+Secundo ostendit beneficiorum utilitatem in gentibus: ***et glorificabit, bestia agri***, id est gentilis bestialiter vivens, conversi ad Christum, vel videntes quomodo Judaeos libero, Ps. *bestiae et universa pecora* etc.; et in Judaeis: ***ut darem potum*** doctrinae et consolationis, Deut. vii *te elegit Dominus* etc.  
 
-nativitatis fructum: ***et justitia oriatur***;  
+Tertio assignat rationem: ***populum istum, mihi***, in laudem meam, Prov. xvj *universa propter seipsum* etc.  
 
-et primum nativitatis principium: ***ego Dominus*** etc.  
+**840**. ***Non me invocasti***. Hic excludit merita Judaeorum ad consequenda tanta beneficia. Et circa hoc tria:  
 
-***Pluant justum***, neutraliter vel masculine. Vel per caelum et nubes: prophetae et alii justi, qui ipsum praenuntiando et lacrymis a Deo poscendo, quodammodo ipsum pluerunt, Ps. *descendet sicut pluvia* etc.  
+primo excludit meritum,  
 
-**862**. ***Vae qui contradicit***. Hic excludit infidelium contradictionem.  
+secundo dat responsioni locum: ***reduc me*** etc.,  
 
-Et primo sub metaphora artificis lutum fingentis, quia sicut lutum non contradicit figulo, ita nec Judaei deberent Deo contradicere, non credentes aliquem posse consurgere qui Babylonios superaret; ***de samiis***, vasis fictilibus, quia hujusmodi ars in Samos civitate inventa est; ***absque manibus***, quasi: absque recta operatione manus, vel sicut lagenae manus habent, supra xxix ***quasi si lutum contra figulum*** etc., Ro. ix *numquid dicet figmentum* etc.  
-
-Secundo sub metaphora patris generantis: ***vae qui dicit***, quasi: ego sum pater procreans Cyrum, et sicut mater concipiens ipsum in proposito, et ideo non debetis in hoc mihi contradicere, sicut nec matri generanti, infra ***numquid ego qui alios parere*** etc.;  
-
-vel loquitur contra illos divinos qui ex ortu Cyri multa pronuntiabant mala futura, dicentes: melius esset si non nasceretur; vel contra illos de Judaeis qui dicebant: ad quid generamus filios ut in captivitatem nascantur?  
-
-**863**. ***Haec dicit Dominus*** etc. Hic ponit liberatoris utilitatem.  
-
-Et primo quantum ad liberationem Judaeorum,  
-
-secundo quantum ad conversionem gentium: ***quia haec dicit Dominus*** etc.  
+tertio removet quemdam respondendi modum: ***pater tuus*** etc.  
 
 Circa primum tria.  
 
-Primo ostendit suam ad praedicendum futura auctoritatem: ***ejus***, scilicet Cyri, ***plastes***, factor, ***super filios***, Judaeos liberandos, vel alios quoscumque volo nascituros, et non idola, supra viii ***numquid non populus*** etc. Sed Glossa legit ironice.  
+Primo excludit meritum: ***non me invocasti***; et haec omnia dicuntur quia non toto corde haec Deo offerebant, sed partim Deo partim idolis, vel quia Deo nihil conferebant, vel quia spe temporalis retributionis faciebant, vel quia post adventum Christi accepta non fuerunt, Mal. iii *quis est in vobis qui claudat ostia* etc., Ps. *numquid manducabo* etc.  
 
-**864**. Secundo praedicit liberationem, ostendens suam potestatem, qui promittit: ***ego feci**; **militiae eorum***, scilicet caelorum, ***mandavi***, praefigendo cuilibet suum officium et naturam, supra xl ***qui educit in numero militiam eorum*** etc.; et exequentis directionem: ***ego suscitavi***, ad dignitatem, ***eum***, Cyrum, praeteritum pro futuro, ***ad justitiam*** faciendam de Chaldaeis, Prov. iii *in omnibus viis tuis cogita* etc.; et promittit liberationem: ***ipse***, scilicet Cyrus, ***aedificabit***, promittens et dans expensas ad aedificium, infra lii ***gratis venumdati estis*** etc.  
+Secundo ostendit ipsorum reatum: ***verumtamen servire***, quasi: servilem me ostendistis, dum me offendentes non puniebam, supra primo ***facta sunt mihi molesta*** etc.; loquitur more humano.  
 
-**865**. Tertio ibi ***haec dicit Dominus*** etc., promittit liberatorum exaltationem quantum ad tria.  
+Tertio ostendit datum gratis beneficium: ***ego sum*** etc., Ps. *propter nomen tuum propitiaberis* etc., Ez. xxxvj *non propter vos ego faciam* etc.  
 
-Primo quantum ad alienorum adhaesionem, ponens adhaesionem: ***labor Aegypti***, divitiae ipsorum, et ipsi quantum ad multos qui eos secuti fuerunt, Zach. viii *apprehendent decem homines* etc.; vel loquitur de his qui Christo adhaeserunt; ***labor*** in idolis cessabit, ***negotiatio***, terrena; et adhaerentium subjectionem: ***post te ambulabunt***, tibi subjecti, ***vincti manicis***, id est vinculis manuum, quasi: ita humiliati coram te sicut hi qui taliter ligati sunt; vel vinculis praeceptorum Christi, infra lx ***venient curvi ad te*** etc.; et ponens etiam veritatis confessionem: ***tantum in te***, scilicet hoc dicentes, ***absconditus***, non visibilis sicut dii nostri, ***salvator***, non imbecillis, Ps. *posuit tenebras latibulum suum* etc.  
+**841**. ***Reduc me*** etc. Hic dat responsioni locum: ***reduc***, quasi: recogita quae tibi fecerim, ***narra si quid habes*** ad te excusandum vel me incusandum, ***ut justificeris***, id est ut judiceris justus, Iob xxxiii *si habes quid loquaris* etc.  
 
-Secundo ostendit eorum exaltationem quantum ad hostium confusionem: ***confusi sunt*** etc., Mich. ult. *videbunt gentes* etc.  
+**842**. ***Pater tuus***. Hic removet quamdam viam respondendi. Possent enim allegare patrum innocentiam; sed contra haec dicit: ***pater***, Adam, Gen. iii, Abraham petens signum de promissione Dei quasi dubitans, Gen. xv; ***interpretes***, Moyses et Aaron ad aquas contradictionis, Numeri xxj; ***contaminavi***, id est contaminari permisi, ad ***internecionem***, quia omnes in deserto mortui sunt excepto Caleb et Josue, Ps. *peccavimus cum patribus nostris* etc.  
 
-Tertio quantum ad Judaeorum perpetuam salutem: ***Israel salvatus, usque in saeculum***, nisi peccaverit, vel de spirituali Israel, Soph. iii *rex Israel Dominus* etc.  
+**843**. Dominus liberat sanctos ab igne  
 
-**866**. ***Quia haec dicit Dominus***. Hic ponit aliam utilitatem quantum ad conversionem gentium. Et circa hoc tria facit.  
+carnalis temptationis, Iob xxxprimo *ignis est usque ad consumptionem* etc.,  
 
-Primo inducit quinque rationes inducentes ad conversionem,  
+temporalis tribulationis, Ps. *igne me examinasti*,  
 
-quarum prima sumitur ex rerum creatione: ***ipse Deus formans*** etc., Ps. *qui fecit caelum et terram* etc.;  
+aeternae damnationis, Mt. xxv *ite maledicti*,  
 
-secunda ex hominum dilectione, quia dedit eis terram in habitaculum: ***non in vanum*** etc., Ps. *caelum caeli Domino* etc.;  
+divinae indignationis, Deut. xxxii *ignis succensus est* etc.;  
 
-tertia ex veritatis praedicatae manifestatione: ***non in abscondito***, quasi ea quae naturalis ratio dictat facienda, vel de praedicatione fidei christianae, Jo. xviii *ego palam locutus* etc.;  
+in quo uruntur  
 
-quarta ex praeceptorum utilitate: ***non dixi semini*** etc., Ps. *in custodiendis illis* etc.;  
+lascivientes, prima Cor. vii *melius est nubere* etc.,  
 
-quinta ex praeceptorum aequitate: ***ego Dominus*** etc., infra liii ***ego qui loquor justitiam*** etc.  
+impatientes, supra xiii ***facies combustae*** etc.,  
 
-**867**. Secundo ibi ***congregamini***, injungit Judaeis gentium vocationem, commemorans eorum salutem. ***Congregamini***, quasi ad audiendum praeceptum meum, ***qui salvati***, liberati ex captivitate gentium, infra ult. ***mittam ex eis qui salvati*** etc.; ponens etiam vocandi necessitatem, errorem scilicet gentium: ***nescierunt qui levant***, Baruch ult. *videbitis in Babylonia deos* etc.  
+impaenitentes, Ps. *flamma combussit peccatores*, s  
 
-Injungens suae laudis annuntiationem: ***annuntiate***, in quo injungit officium, ***consiliamini*** qualiter debeatis alios convertere, Ps. *annuntiate inter gentes* etc*.; **quis auditum***, in quo docet eos suae divinitatis argumentum ad alios convertendum, scilicet ex praecognitione futurorum. Et ponit rationem et conclusionem, ibi ***numquid non***, ergo etc., Eccli. xlii *annuntians quae praeterierunt* etc.  
+uperbientes, ibid. *montium fundamenta* etc.  
 
-**868**. Tertio invitat gentes ad conversionem.  
+**844**. Liberat etiam ab aquis  
 
-Et primo ponitur invitatio: ***convertimini*** etc., Zach. primo *convertimini ad me* etc.  
+voluptatis, Prov. ix *aquae furtivae* etc., in quibus suffocantur per luxuriam;  
 
-Secundo praedicit conversionem eorum, ponens signum adorationis: ***in memet ipso***, quia non habeo majorem per quem jurem, Hebr. vi; ***non revertetur*** sine effectu, infra lv ***sic erit verbum*** etc., ***curvabitur*** a christianis, qui est modus adorandi Redemptorem, secundum Damascenum, Phil. ii *in nomine Jesu* etc.; ponens etiam signum jurationis: ***et jurabit***, quia unusquisque jurat in deo suo, Ps. *laudabuntur omnes qui jurant* etc.; ponens etiam signum verae confessionis: ***ergo in Domino***, id est in persona Domini; ***meae***, scilicet Dei, Apoc. primo *ipsi gloria et imperium*; vel ***meae***, scilicet Ecclesiae, ***justitiae***, legis Judaeorum figurae.  
+cupiditatis, Exo. xv *submersi sunt quasi plumbum* etc., in quibus per avaritiam;  
 
-Tertio praedicit incredulorum confusionem: ***ad eum venient*** quasi judicandi, qui non venient quasi credentes, in die judicii.  
+adversitatis, Ps. *intraverunt aquae usque ad animam* etc., in quibus per impatientiam;  
 
-Quarto credentium salutem: ***in Domino justificabitur omne semen***, non solum secundum carnem, sed secundum fidem, Ps. *qui insurgunt in me confundantur* etc.  
+mundanae potestatis, Apoc. xvii *aquae super quas sedet* etc., in quibus per superbiam.  
 
-**869**. Mystice: ***rorate***, de Christi nativitate. In quo tria: nativitatis principium, nascentis ortum et nativitatis fructum. Principium triplex.  
+**845**. Reduc Deum in memoria quantum ad  
 
-Primum caelum rorans, quasi principium effectivum, scilicet operatio trium personarum, propter quod pluraliter ***caeli***: Pater Filium mittendo, Gal. iv *quando venit plenitudo* etc., Filius carnem assumendo, Phil. secundo *humiliavit semet ipsum* etc., Spiritus Sanctus conceptionem faciendo, Mt. primo *quod enim in ea natum est* etc.  
+mirabilia quae fecit ad venerandum, Ps. *mementote mirabilium ejus* etc.;  
 
-Secundum principium est nubes pluens, quod est principium praeparativum, in quo accipitur annuntiantis angeli officium, Job xxxvii *nubes spargunt* etc., Lucae primo; prophetarum vaticinium, Ps. *tenebrosa aqua* etc., Ro. primo *ante promiserat per prophetas* etc.; justorum desiderium, Ps. *ponis nubem ascensum*, Mal. iii *statim veniet* etc.  
+beneficia quae dedit ad regratiandum, Eccli. ult. *memoratus sum misericordiae* etc.;  
 
-Tertium principium est terra germinans, quod est susceptivum, scilicet Beata Virgo, de quo in Ps. *terra nostra dabit* etc.; cujus ***aperiatur*** affectus ad inveniendum gratiae privilegium, Lucae primo *ne timeas Maria* etc., Prov. ult. *multae filiae congregaverunt* etc., intellectus ad credendum angeli verbum, Lucae primo *beata quae credidisti* etc., uterus ad concipiendum Dei Filium: *ecce concipies in utero* etc., Lucae primo.  
+tormenta quae sustinuit ad compatiendum, Thren. iii *recordare paupertatis* etc.;  
 
-**870**. Sed ortus comparatur rori, pluviae et germini, quia Christus est ros ad refrigerandum, supra xviii ***sicut nubes roris*** etc., pluvia ad fecundandum, Ps. *descendet sicut pluvia* etc., infra lv ***quomodo imber et nix*** etc., germen ad fructificandum, Jer. xxiii *suscitabo David* etc.  
-
-**871**. Fructus est justitia quae cum illo oritur, triplex:  
-
-quam opere implevit, Mt. iii *sic decet nos* etc.;  
-
-quam sermone docuit, infra lxiii ***ego qui loquor*** etc.;  
-
-quam in munere dedit, prima Cor. primo *factus est nobis sapientia et sanctificatio et justitia* etc.
+praecepta quae dedit ad observandum, Ps. *ut memores sint* etc.

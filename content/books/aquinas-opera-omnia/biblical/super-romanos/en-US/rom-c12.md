@@ -1,443 +1,564 @@
-# C. 12 - The New Life in Christ
+# C. 11 - Salvation of Both Jews and Gentiles
 
 ***Lecture 1***
 
-***Life according to grace***
+***God’s election of a Jewish remnant***
 
-***^12:1^ I beseech you therefore, brethren, by the mercy of God, that you present your bodies a living sacrifice, holy, pleasing unto God, your reasonable service. [n. 953]***
+***^11:1^ I say then: has God cast away his people? God forbid! For I also am an Israelite of the seed of Abraham, of the tribe of Benjamin. [n. 859]***
 
-> ^12:2^ And be not conformed to this world, but be reformed in the newness of your sense, that you may perceive what is the good and the acceptable and the perfect will of God. [n. 965]
+> ^11:2^ God has not cast away his people which he foreknew. Do you not know what the Scripture says of Elias, how he calls on God against Israel? [n. 862]
 
-> ^12:3^ For I say, by the grace that is given me, to all that are among you, not to be more wise than is fitting to be wise, but to be wise unto sobriety and according as God has divided to each one the measure of faith. [n. 968]
+> ^11:3^ Lord, *they have slain your prophets, they have dug down your altars. And I am left alone: and they seek my life*. [n. 867]
 
-> **953**. Having shown the need for virtues and the origin of grace, here the Apostle teaches how grace should be used, a subject pertaining to moral instruction.
+> ^11:4^ But what does the divine answer say to him? *I have left* me *seven thousand men that have not bowed their knees to Baal*. [n. 870]
 
-And he does two things in this regard.  
+> ^11:5^ Even so then, at this present time also, there is a remnant saved according to the election of grace. [n. 871]
 
-First, he sets out a general moral teaching;  
+> ^11:6^ And if by grace, it is not now by works: otherwise grace is no more grace.
 
-Second, he descends to more particular questions related to the recipients of his letter, at ***and I myself also*** (Rom 15:14).  
+> ^11:7^ What then? That which Israel sought, he has not obtained: but the election has obtained it. And the rest have been blinded. [n. 872]
 
-And regarding the first, he does two things.  
+> ^11:8^ As it is written: *God has given them the spirit of insensibility; eyes that they should not see and ears that they should not hear, until this present day*. [n. 873]
 
-First, he teaches how one should use grace to be a perfect man;  
+> ^11:9^ And David says: *let their table be made a snare and a trap and a stumbling block and a recompense unto them*. [n. 876]
 
-Second, how the perfect man should sustain the imperfect, at ***now him that is weak*** (Rom 14:1).  
+> ^11:10^ *Let their eyes be darkened, that they may not see: and bow down their back always*. [n. 877]
 
-Concerning the first, he does three things.  
+> **859**. After showing that the fall of the Jews is deplorable, though not entirely excusable, the Apostle now shows that it is not universal.
 
-First, he offers instruction about that perfection of life relating to the sanctity by which a man serves God;  
+First, he raises a question;  
 
-second, relating to just dealings with one’s neighbor, at ***let every soul*** (Rom 13:1);  
+second, he answers it, at ***God forbid***;  
 
-third, relating to that purity a man must preserve within himself, at ***and that, knowing the season*** (Rom 13:11).  
+third, he draws a conclusion, at ***what then***.  
 
-Regarding the first, he does two things.  
+**860**. First, therefore, he says: ***I say then: has God*** entirely ***cast away his people?*** i.e., the Jews, because he calls them unbelieving and contrary. Even the Psalmist asks: *O God, why dost you cast us forever?* (Ps 74:1); *the Lord has scorned his altar* (Lam 2:7).  
 
-First, he admonishes that a man should present himself holy to God;  
+**861**. Then when he says, ***God forbid***, he answers the question and shows that God has not totally rejected the Jewish people. And this is what he says: ***God forbid*** that the Jewish people be rejected in their entirety. He proves this, first of all, with respect to himself, saying: ***for I also***, living in the faith of Christ, ***am an Israelite*** by race: *are they Israelites? So am I* (2 Cor 11:22).  
 
-second, he teaches how one should use the gifts of God’s grace that make one holy, at ***for I say, by the grace***.  
+And because there were among the people of Israel some proselytes not descended in the flesh from the patriarchs, he says that this is not so of him, adding: ***of the seed of Abraham***: *are they descendants of Abraham? So am I* (2 Cor 11:23).  
 
-Regarding the first, he does two things.  
+Furthermore, among the Jewish people the tribes were distinguished according to the sons of Jacob, some of whom were sons of slaves and some of wives. Joseph and Benjamin were sons of Rachel, Jacob’s fondest wife. Hence he shows his eminence among the Jewish people, saying: ***of the tribe of Benjamin***: *of the people of Israel, of the tribe of Benjamin* (Phil 3:5). Hence, some apply to Paul what is in Genesis: *Benjamin is a ravenous wolf, in the morning devouring the prey, and at evening dividing the spoil* (Gen 49:27).  
 
-First, he teaches how one should present oneself to God as regards the body;  
+**862**. Second, when he says: ***God has not cast away***, he shows that his people has not been rejected by God in regard to many chosen ones.  
 
-Second, as regards the soul, at ***and be not conformed***.  
+First, he states his proposition;  
 
-**954**. Regarding the first, he does two things.  
+second, he recalls a similar situation, saying ***do you not know***;  
 
-First, he leads them to heed what he has taught, and this in two ways. First, on his own account, when he says, ***I beseech you therefore, brethren***, as though to say: God’s judgments were described as beyond all comprehension, and his ways as beyond all investigation, and so ***I beseech you, brethren***, that you heed what you have been taught.  
+third, he adapts it, at ***even so then, at this present time***.  
 
-**955**. Now he resorts to beseeching them for three reasons.  
+**863**. First, therefore, he says: not only have I not been rejected, but ***God has not cast away his people which he foreknew***, i.e., the predestined ones. ***For whom he foreknew, he also predestined*** (Rom 8:29). *For the Lord will not reject his people* (Ps 94:14). The Apostle applies this to the predestined.  
 
-First, to show his humility: *with supplication speaks the poor man* (Prov 28:23), namely, the one who puts no trust in his own wealth, and on this account attempts to compel men to good deeds not by what belongs to him but by what belongs to God. For to beseech is to call on sacred things as witnesses.  
+**864**. Then when he says, ***do you not know***, he recalls a similar situation which occurred during the time of Elijah, when all the people seemed to have turned from the worship of the one God.  
 
-Second, to move his readers more by asking than by fear, by commanding as one in authority: *accordingly, though I am bold enough in Christ to command you to do what is required, yet for love’s sake I prefer to appeal to you* (Phlm 1:8ff.); *you who are spiritual, instruct such a one in a spirit of gentleness* (Gal 6:1).  
+First, he presents Elijah’s plea;  
 
-Third, out of reverence for the Romans, to whom he wrote: *do not rebuke an older man but exhort him as you would a father* (1 Tim 5:1).  
+second, the Lord’s reply, at ***but what does the divine answer say***.  
 
-**956**. Next he leads them to heeding on God’s account when he says, ***by the mercy of God***, that mercy by which you are saved: *according to his mercy he saved us* (Titus 3:5). And so when we consider God’s mercy we should do what we have been taught: *should you not have had mercy on your fellow servant, as I had mercy on you?* (Matt 18:33).  
+**865**. First, therefore, he says: ***do you not know what the Scripture says of Elias***, i.e., in 1 Kings (1 Kgs 19:10). Or, ***of Elias***, i.e., in the book written about Elijah.  
 
-Or it could mean ***by the mercy of God***, i.e., in virtue of the apostolic authority mercifully entrusted to me: *I give my opinion as one who by the Lord’s mercy is trustworthy* (1 Cor 7:25).  
+For the entire book of Kings was written mainly to make known the sayings and deeds of the prophets. That is why it is counted among the prophetic books, as Jerome says. ***How he***, namely Elijah himself, ***calls on God against Israel***.  
 
-**957**. Second, he gives the admonition when he says: ***that you present your bodies***.  
+**866**. The word of Samuel seems to be contrary to this when he says: *far from me be this sin against the Lord, that I should cease to pray for you* (1 Sam 12:23). Much less, then, should one intervene against the people.  
 
-Here it should be noted that, as Augustine says in the tenth book of *The City of God*, a visible sacrifice offered outwardly to God is a sign of an invisible sacrifice, whereby one offers himself and all he possesses for God’s service.  
+But it should be noted that prophets intervene against the people in three ways: in one way by conforming their wills to the divine will revealed to them, as it says in a psalm: *the just will rejoice when he sees the vengeance* (Ps 58:10). In another way by intervening against the kingdom of sin, in order that men’s sins but not men be destroyed. In a third way that the intervention or prayer be construed as a denunciation, as in Jeremiah: *let them that persecute me be confounded* (Jer 17:18), i.e., they will be confounded.  
 
-**958**. Now man possesses three goods.  
+**867**. In this intervention Isaiah alleges two things against them.  
 
-First, he has the soul, which is presented to God by humble devotion and contrition: *the sacrifice acceptable to God is a contrite spirit* (Ps 51:17).  
+First, the impiety they committed against the worship of God. In one way, by persecuting his ministers, to which he refers when he says: ***Lord, they have slain your prophets***: *has it not been told my Lord what I did when Jezebel killed the prophets of the Lord?* (1 Kgs 18:13); *which of the prophets did not your fathers persecute?* (Acts 7:52). In another way, they committed impiety against God’s holy places, as it says: *they set the sanctuary on fire* (Ps 74:7). In regard to this he says: ***they have dug down your altars***.  
 
-Second, a man has external goods, which he presents to God by giving alms: *do not neglect to do good and to share what you have, for such sacrifices are pleasing to God* (Heb 13:16).  
+**868**. Here it should be noted what the Lord commanded, saying: *you shall seek the place which the Lord your God will choose out of all your tribes to put his name and make his habitation there; thither you shall go, and thither you shall bring your burnt offerings and sacrifices* (Deut 12:5). However, before the temple was built, the people were allowed to build altars in various places for divine worship; but because this became illegal after the temple had been built, the pious king Hezekiah destroyed all such altars. And that is what it says in 2 Kings: *is it not he whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem: you shall worship before this altar in Jerusalem?* (2 Kgs 18:22). Therefore, what Hezekiah did in a spirit of piety, Achab and Jezebel did in a spirit of impiety in their desire to root out the worship of God entirely.  
 
-Third, a man has the good which is his own body. In regard to this he says: ***present***, i.e., to God, ***your bodies***, as a spiritual sacrifice. Now an animal offered to God was called a sacrifice, either because it was offered for victory over enemies or for protection from enemies or because it was offered in the entrance of the Tabernacle.  
+**869**. Third, he alleges against them the impiety they intended to do, saying: ***and I am left alone***, namely, to worship the one God, because the rest did not show very clearly that they were God’s worshippers. For it says of him: *and Elijah the prophet stood up, as a fire, and his word burnt like a torch* (Sir 48:1). ***And they seek my life***, namely that they might carry him away. For Jezebel had sent word to Elijah, saying: *so may the gods do to me, if I do not make your life as the life of one of them* (1 Kgs 19:2), namely of the prophets of Baal whom Elijah had killed.  
 
-**959**. A person can present his body to God as a sacrifice in three ways.  
+**870**. Then when he says ***but what does***, he gives the divine reply, saying: ***but what does the divine answer say to him***, i.e., to Elijah. It is this: ***I have left me***, i.e., for my worship by not permitting them to fall into sin, ***seven thousand men*** (this definite number is put in place of the uncertain number, because seven and thousand are perfect numbers), ***that have not bowed their knees to Baal***, i.e., who have not abandoned the worship of God: *all who call on my name, whom I created for my glory* (Isa 43:17).  
 
-First, when he exposes his body to suffering and death for God’s sake, as it is said of Christ: *he gave himself up for us, a fragrant offering and sacrifice to God* (Eph 5:2); and as the Apostle says of himself: *even if I am to be poured as a libation upon the sacrificial offering of your faith, I rejoice* (Phil 2:17).  
+**871**. Then when he says, ***even so then***, he adapts all this to the present situation.  
 
-Second, when he weakens his body by fasts and watchings in the service of God: *I pummel my body and subdue it* (1 Cor 9:27).  
+First, he sets out the adaptation, saying: ***even so then, at this present time also***, in which a multitude of people seems to have gone astray, ***there is a remnant saved according to the election of God’s grace***, i.e., according to the gratuitous choice of God: *you have not chosen me, but I have chosen you* (John 15:16).  
 
-Third, when he uses his body to perform acts of justice and of divine worship: ***yield your members to serve justice unto sanctification*** (Rom 6:19).  
+Second, he draws the conclusion from this: ***and if by grace*** they have been saved, ***it is not now by works***: *he saved us, not because of deeds done by us in justice, but in virtue of his own mercy* (Titus 3:5).  
 
-**960**. Moreover, one should recall that the offering sacrificed to God had four features.  
+Third, that this conclusion follows from the premises is shown when he says: ***otherwise***, i.e., if grace is in virtue of works, ***grace is no more grace***, which is so called because it is freely given: ***being justified freely by his grace*** (Rom 3:24).  
 
-First, the thing offered was to be sound and unimpaired; hence Malachi: *cursed be the cheat who has a male in his flock and vows it, and yet sacrifices to the Lord what is blemished* (Mal 1:14). And this is why he says ***living***, i.e., that the offering we make to God of our body be living by faith formed by love: *the life I now live in the flesh I live by faith in the Son of God* (Gal 2:20).  
+**872**. Then when he says, ***what then***, he draws the conclusion he intended.  
 
-Note here that a natural sacrificial offering previously alive was killed and immolated to show that death as yet ruled the human race so long as sin reigned, as was said above (Rom 5:12ff.). But this spiritual sacrificial offering is always alive and increasing in vigor, in accord with John: *I came that they may have life and have it abundantly* (John 10:10), because sin has now been removed through Christ; unless we say that the sacrificial offering of our body is something alive to God through the justice of faith but is dead to the desires of the flesh: *mortify therefore your members which are upon the earth* (Col 3:5).  
+And first he sets it out, saying ***what then shall we say*** follows from what has been said? This, namely, that ***Israel***, as far as the greater part of its people was concerned, ***has not obtained that which it sought***, namely, justice. This is the way one must interpret what was said above: ***but Israel, by following after the law of justice, is not come unto the law of justice*** (Rom 9:31). *You shall seek me, and shall not find me* (John 7:34).  
 
-**961**. Second, the sacrificial offering presented to God was sanctified in its very immolation. Hence it is written: *every man of your race who, having an uncleanness, approaches these things that are consecrated, and that the children of Israel offer to the Lord, shall perish before the Lord* (Lev 22:3). Therefore, he adds ***holy***, made so by the devotion with which we bind our bodies to the service of God: *consecrate yourselves, therefore, and be holy, because I the Lord your God am holy* (Lev 20:7). Now holiness in the proper sense bespeaks a relation to God, insofar as one does what is just before God.  
+Nevertheless, ***the election***, i.e., the elect of the Jews, ***has obtained it***: *he chose us in him, that we should be holy* (Eph 1:4). But ***the rest***, i.e., the remainder of the people, ***have been blinded*** because of their malice: *their own malice blinded them* (Wis 1:22).  
 
-**962**. Third, when the sacrifice was consummated, it was described as a sacrifice pleasing and acceptable to God: *the priest shall burn the whole on the altar as a burnt offering, an offering by fire, a pleasing odor to the Lord* (Lev 1:9). Hence, he says: ***pleasing to God***, by reason of a right intention: *that I may be pleasing to God in the light of the living* (Ps 56:13).  
+**873**. Then when he says, ***as it is written***, he clarifies the first part of the conclusion:  
 
-**963**. Fourth, in the preparation of the sacrifice, salt was added: *you shall season all your offerings with salt* (Lev 2:13); *every victim shall be salted with salt* (Mark 9:49). Now salt signifies a wise discretion; hence he says: *conduct yourselves wisely toward outsiders. Let your speech always be gracious, seasoned with salt* (Col 4:5).  
+first, on the authority of Isaiah;  
 
-Hence, he continues: ***your reasonable service***, i.e., be discreet in presenting your bodies to God as a sacrifice whether by martyrdom or abstinence or any other just work, because *all things should be done decently and in order* (1 Cor 14:40); *the king’s honor loves judgment* (Ps 99:4).  
+second, of David, at ***and David says***.  
 
-**964**. The just man is related one way to internal acts, by which he serves God, and another way to external acts. For a man’s good and his justice consist mainly in the internal acts, by which he believes, hopes, and loves. Hence it says in Luke, *the kingdom of God is within you* (Luke 17:21). For it does not consist principally of exterior works, as is said below, ***the kingdom of God is not food and drink*** (Rom 14:17). Hence, internal acts stand as an end sought for its own sake, whereas external acts, in which our bodies are presented to God, stand as means to the end.  
+**874**. In regard to the first it should be noted that the Apostle bases himself on two passages from Isaiah. For it says in Isaiah: *the Lord has poured out upon you a spirit of deep sleep* (Isa 29:10). In regard to this he says: ***God has given them the spirit of compunction***, which has to do with a perversity of emotion.  
 
-No limit is set on something sought as an end; rather, the greater it is the better it is. But on what is sought as a means to an end, a limit is set in accord with its proportion to that end. Thus, a doctor seeks as much health as possible, but he does not give as much medicine as he can; rather, he limits it to the amount required for restoring health. Similarly, a person should set no limit on his faith, hope, and love; rather, the more he believes and hopes and loves, the better he is. Hence it is stated in Deuteronomy: *you shall love the Lord your God with all your heart* (Deut 6:4).  
+For compunction implies a puncturing of the heart or sorrow. Hence there is good compunction by which one grieves over his own sins, as it says in a psalm: *you have made us drunk with the wine of compunction* (Ps 60:3). There is also evil compunction, i.e., the compunction of envy, by which one grieves over the goods of another.  
 
-But in external acts a discreet limit is imposed by the requirements of love. Hence Jerome says: *does not rational man lose his dignity, if he chooses to fast and watch at the expense of his bodily health or incur the marks of madness or sadness from singing the Psalms and office?*  
+Therefore God gave them this spirit of compunction, i.e., envy, not by instilling malice but by withdrawing grace, as was said above: ***I will provoke you to jealousy by that which is not a nation*** (Rom 10:19).  
 
-**965**. Then when he says, ***be not conformed*** and so on, he explains how one should present himself to God as regards the soul.  
+**875**. Likewise it says in Isaiah: *make the heart of this people fat, and their eyes heavy, and shut their eyes; lest they see with their eyes and hear with their ears* (Isa 6:10). And in regard to this he designates their weakened power of knowing, when he adds ***eyes that they should not see*** the miracles which Christ performed in their presence, and ***ears that they should not hear*** fruitfully the teachings of Christ and the apostles: *you that see many things, will you not observe them? You that have ears open, will you not hear?* (Isa 42:20).  
 
-And first he forbids conformity to the age, when he says ***be not conformed to this age***, i.e., to things that pass with time.  
+To this the Apostle adds on his own: ***until this present day***, because they will see and hear at the end of the world, when the hearts of the children will be converted to the hearts of their fathers, as it says in Malachi 4:5.  
 
-For the present age is the measure of things that slide past in time. And a person is conformed to temporal things when he clings to them with love: *they became detestable, like the things they loved* (Hos 9:10); *religion clean and undefiled before God and the Father, is this . . . to keep oneself unspotted from this world* (Jas 1:27). The one who imitates worldly lifestyles is also conformed to this age: *I testify in the Lord, that henceforward you walk not as also the gentiles walk in the vanity of their mind* (Eph 4:17).  
+**876**. Then when he says, ***and David says***, he presents the authority of David on the same point.  
 
-**966**. Second, he tells them to reform their minds inwardly, when he says: ***but be reformed in the newness of your sense***.  
+First, he touches on the things which occasioned the fall of the Jews, saying ***let their table***, i.e., the malice with which sinners are nourished: *though wickedness is sweet in his mouth, though he hides it under his tongue* (Job 20:12). This table is before them, when they sin from malice aforethought and it becomes ***a snare***, i.e., a temptation to sin: *he who comes out of the pit shall be caught in the snare*: (Isa 24:18), ***and a trap***, when they succumb to the pleasure of the temptation: *they shall be trapped and taken* (Isa 8:15), ***and a stumbling block***, when they fall from one sin into another: *much peace to those who love your law, and it is not a stumbling block to them* (Ps 119:165), ***and a retribution unto them***, namely, when they will be punished for their sins. Or because the very fact that God permits them so to fall is itself a retribution for their sins: *render to the proud their deserts* (Ps 94:2).  
 
-Man’s sense is here called his reason, because with the senses man forms judgments about what is to be done. When man was created, this sense was sound and vigorous: *he filled their hearts with sense, and showed them good and evil* (Sir 17:7); but by sin it was corrupted and, as it were, grown old: *you have grown old in a foreign land* (Bar 3:10). As a consequence, it lost its beauty and charm: *from the daughter of Zion has departed all her charm* (Lam 1:6).  
+Or the ***table*** is the Sacred Scripture put before the Jews: *she has set forth her table* (Prov 9:2). It becomes ***a snare***, when something ambiguous occurs; ***a trap***, when it is not correctly understood; ***a stumbling block***, when it falls into obstinate error; and ***a retribution***, as explained above.  
 
-Therefore, the Apostle tells us to be reformed, i.e., to take up again that beauty and elegance which the mind once had. This is accomplished by the grace of the Holy Spirit. If a person does not share in this grace, he should desire to do so, and if he does share in it, he should desire to progress in it: *be renewed in the spirit of your minds* (Eph 4:23); *your youth shall be renewed like the eagle’s* (Ps 103:5).  
-
-Or, interpreting in another way, ***be renewed*** in your outward actions ***in the newness of your sense***, i.e., in the newness of grace, which you have received in your mind.  
-
-**967**. Third, he gives a reason for this admonition when he says: ***that you may perceive***.  
-
-Here it should be noted that just as a person with a diseased palate misjudges the taste of foods and sometimes recoils from the tasty but approves the disgusting, whereas a person with a healthy palate judges tastes correctly; so a person whose affections are corrupted by conformity to worldly things misjudges the good, whereas a person whose affections are upright and sound, his sense having been renewed by grace, judges the good correctly.  
-
-That is why he said: ***be not conformed to this world, but be reformed in the newness of your sense***, ***that you may perceive***—i.e., know by experience: *taste and see that the Lord is sweet* (Ps 34:8)—***what is the will of God***, by which he wills that you be saved: *this is the will of God, your sanctification* (1 Thess 4:3). That will is ***good***, i.e., he wills that we will the honorable good and by his precepts leads us to it: *I will show you, O man, what is good, and what God requires of you* (Mic 6:8). ***And acceptable***, inasmuch as what God wills that we will is pleasant to a well-disposed person: *the precepts of the Lord are right, rejoicing the heart* (Ps 19:8). Indeed, what God wills is not only useful for attaining our end but also ***perfect***, uniting us, as it were, with the end: *you must be perfect as your heavenly Father is perfect* (Matt 5:48); *walk before me and be perfect* (Gen 17:1).  
-
-God’s will is experienced as good, acceptable, and perfect by those who are not conformed to this age, but are reformed in the newness of their sense. On the other hand, those who continue in their oldness, being conformed to this age, judge that God’s will is not good but burdensome and unprofitable: *wisdom seems very harsh to the uninstructed* (Sir 6:20).  
-
-**968**. Then when he says, ***for I say, by the grace that is given me***, he teaches how God’s gifts should be used.  
-
-First, he teaches this in regard to gifts that are not common to all, such as the graces freely given;  
-
-second, in regard to the gift of charity, which is common to all, at ***let love be without dissimulation*** (Rom 12:9).  
-
-In regard to the first he does two things.  
-
-First, he teaches in general how one ought to use graces freely given;  
-
-second, he follows this up in the parts, at ***having gifts*** (Rom 12:6).  
-
-Concerning the first, he does two things.  
-
-First he sets out the instruction;  
-
-second, he gives the reason for it, there at ***for as in one body*** (Rom 12:4).  
-
-**969**. In regard to the first he does three things.  
-
-First, he warns against excess, saying: I have encouraged you to be renewed by the newness of your sense, but you should do this in moderation, ***for I say***, i.e., I command, ***by the grace*** of the apostleship and the apostolic authority ***given to me***: *when they perceived the grace that was given to me among the gentiles* (Gal 2:9); *to me, the least of all the saints, this grace was given* (Eph 3:8). ***To all that are among you***, because it is profitable to every one: *I wish that all were as I myself am* (1 Cor 7:7).  
-
-This, I say, I command: ***not to be more wise than is fitting to be wise***, i.e., no one should presume, relying on his own sense or wisdom beyond his limitations: *be not wiser than is necessary* (Eccl 7:16); *I have not walked among great things, nor among marvels above me* (Ps 131:1).  
-
-**970**. Second, he exhorts them to a middle course, saying ***but be wise unto sobriety***, i.e., I direct you to be wise commensurate with the grace given to you. For sobriety implies a measure. And although the word taken in its proper sense has to do with drinking wine, it can be used in regard to any matter in which a person should observe a due measure: *training us to live sober, upright, and godly lives in this world* (Titus 2:12).  
-
-**971**. Third, he teaches how the middle course should be gauged when he says: ***and this***, I say, ***as God has divided***, i.e., distributed, ***to each one the measure of faith***, i.e., the measure of his gifts, which are given for the building up of the faith: *to each is given the manifestation of the Spirit for the common good* (1 Cor 12:7).  
-
-For God does not give such gifts the same to all, but distributes different ones to different persons: *there are varieties of gifts* (1 Cor 12:4). Nor does he give them equally to all, but to each according to a definite measure: *grace was given to each of us according to the measure of Christ’s gift* (Eph 4:7). That is why the Apostle, thinking with sober judgment according to this measure, said: *we will not boast beyond measure, but will keep to the measure of the rule by which God has measured out to us* (2 Cor 10:13). To Christ alone has the Spirit been given without measure (John 3:34).  
-
-God gives not only the graces freely given according to a measure, but even that faith which works through love. Hence the apostles said to Christ: *Lord, increase our faith* (Luke 17:15).  
+**877**. Second, he mentions the weakening of their power to understand when he says: ***let their eyes be darkened, that they may not see***, which is said more as a prediction than as a desire: *having their understanding darkened* (Eph 4:18). And he mentions the effect when he says, ***and their backs***, i.e., free choice, which carries something for good or for evil, ***bow down always***, i.e., bend from eternal things to temporal things, from the path of justice to iniquity: *bow down, that we may pass over* (Isa 51:23).  
 
 Lecture 2  
 
-***Members of the body of Christ***
+***The Jews’ offense is for the salvation of the gentiles***
 
-***^12:4^ For as in one body we have many members, but all the members have not the same act: [n. 972]***
+***^11:11^ I say then: have they so stumbled, that they should fall? God forbid! But by their offense salvation is come to the gentiles, that they may be emulous of them. [n. 878]***
 
-> ^12:5^ So we, being many, are one body in Christ; and every one members one of another: [n. 974]
+> ^11:12^ Now if the offense of them be the riches of the world and the diminution of them the riches of the gentiles, how much more the fullness of them? [n. 883]
 
-> ^12:6^ And having different gifts, according to the grace that is given us, either prophecy, to be used according to the rule of faith; [n. 976]
+> ^11:13^ For I say to you, gentiles: as long indeed as I am the apostle of the gentiles, I will honor my ministry, [n. 885]
 
-> ^12:7^ Or ministry, in ministering; or he who teaches, in doctrine; [n. 977]
+> ^11:14^ If, by any means, I may provoke to emulation them who are my flesh and may save some of them. [n. 888]
 
-> ^12:8^ He who exhorts, in exhorting; he who contributes, in simplicity; he who rules, in carefulness; he who does acts of mercy, in cheerfulness. [n. 981]
+> ^11:15^ For if the loss of them be the reconciliation of the world, what shall the receiving of them be, but life from the dead? [n. 890]
 
-> ^12:9^ Let love be without dissimulation. Hating evil, cleaving to good, [n. 983]
+> ^11:16^ For if the firstfruit be holy, so is the lump also: and if the root be holy, so are the branches. [n. 891]
 
-> ^12:10^ Loving one another with the charity of brotherhood; with honor anticipating one another; [n. 985]
+> **878**. After showing that the fall of the Jews is not universal, the Apostle now begins to show that their fall was neither useless nor irreparable.
 
-> ^12:11^ In carefulness, not slothful; in spirit, fervent; serving the Lord; [n. 987]
+In regard to this he does two things:  
 
-> ^12:12^ Rejoicing in hope; patient in tribulation; constant in prayer; [n. 990]
+first, he shows that the fall of the Jews is useful and reparable;  
 
-> ^12:13^ Communicating to the necessities of the saints; pursuing hospitality. [n. 993]
+second, he disputes the gentiles’ boasting against the Jews, at ***and if some of the branches*** (Rom 11:17).  
 
-> **972**. After this admonition the Apostle assigns a reason based on the mystical body’s likeness to a natural body. First, he touches on three things in a natural body; first, its unity when he says: ***for as in one body***; second, the multiplicity of members when he says: ***we have many members***; for the human body is an organism consisting of various members; third, the variety of functions when he says: ***all the members do not have the same act***. For the variety of members would serve no purpose unless they were ordered to different functions.
+In regard to the first he does two things:  
 
-**973**. Then he likens these three aspects to the mystical body of Christ, which is the Church: *he made him the head over all things for the Church, which is his body* (Eph 1:22).  
+first, he asks a question;  
 
-Concerning which he touches on three things.  
+second, he answers it, at ***God forbid***.  
 
-First, he touches on the number of members, i.e., of believers when he says: ***so we, being many***: *a man once gave a great banquet and invited many* (Luke 14:16); *many are the children of the desolate* (Isa 54:1).  
+**879**. First, therefore, he says: it has been stated and proved that except for the chosen, the rest of the Jews have been blinded. So the question arises: ***have they so stumbled, that they should fall?***  
 
-For although they are few compared to the unfruitful multitude of the damned, according to Matthew, *narrow is the way that leads to life, and few there are who find it* (Matt 7:14), yet absolutely speaking, they are many: *after this he looked, and behold, a great multitude which no man could number* (Rev 7:9).  
+This can be interpreted in two ways: the first way is this: has God permitted them to stumble only ***that they should fall***, i.e., not for any benefit that might follow but merely willing their fall? This, of course, would be contrary to God’s goodness which, as Augustine says, is so great that it would not permit any evil to occur except for some good, which he draws out of the evil. Hence it says in Job: *he shall break in pieces many and innumerable, and shall make others to stand in their stead* (Job 34:24); and in Revelation: *hold fast what you have, so that no one may seize your crown* (Rev 3:11), namely, because God permits some to fall in order that their fall be the occasion of salvation for others.  
 
-**974**. Second, he touches on the unity of the mystical body when he says ***we are one body***: *that he might reconcile us both to God in one body through the cross* (Eph 2:16).  
+Another interpretation is this: ***have they so stumbled, that they should fall***, i.e., that they should remain fallen forever? *Will he not rise again from where he lies?* (Ps 41:8).  
 
-This mystical body has a spiritual unity through which we are united to one another and to God by faith and love: *there is one body and one spirit* (Eph 4:4). And because the Spirit of unity flows into us from Christ—***anyone who does not have the Spirit of Christ does not belong to him*** (Rom 8:9)—he adds ***in Christ***, who unites us to one another and to God by his Spirit whom he gives us: *that they may be one even as we are one* (John 18:22).  
+**880**. Then when he says, ***God forbid***, he answers the question:  
 
-**975**. Third, he touches on the variety of functions, which is rooted in the common utility, when he says: ***and every one members one of another***.  
+first, according to the first interpretation, showing that the fall of the Jews was useful;  
 
-For any given member has its own function and power. Therefore, inasmuch as the function and power of one member aids another, it is said to be the other’s member; thus, the foot is called the eye’s member, inasmuch as it carries the eye, and the eye is called the foot’s member, inasmuch as it directs the foot: *the eye cannot say to the hand: I have no need of you* (1 Cor 12:21).  
+second, he resolves the question according to the second interpretation, showing that the Jews’ situation is reparable, at ***now if the offense of them***.  
 
-So, too, in the mystical body one who has received the gift of prophecy needs the one who has received the gift of healing, and so on for all the others. Hence, as long as each believer uses the grace given him to help another, he becomes the other’s member: *bear one another’s burdens* (Gal 6:2); *as each has received a gift, employ it for one another* (1 Pet 4:10).  
+**881**. First, therefore, he says: ***God forbid*** that they fell to no use; ***but*** rather, ***by their***, namely, the Jews’, ***offense, salvation is come to the gentiles***. Hence the Lord himself says: *salvation is from the Jews* (John 4:22).  
 
-**976**. Then when he says, ***having gifts***, he explains in more detail the previous general admonition to use grace in a sober and moderate way. First, he sets out the variety of graces: ***we are***, I say, ***members one of another***, not on account of the same grace, but by ***having different gifts***; and this is not due to differing merits but ***according to the grace given to us***: *each has his own special gift from God, one of one kind and another of another* (1 Cor 7:7); *he called his servants and gave to each his goods, and to one he gave five talents, to another two, and to another only one* (Matt 25:14).  
+This can be understood in three ways. In the first way, that ***by their offense***, which they committed in killing Christ, the salvation of the gentiles was obtained through the redemption of Christ’s blood: *you know that you were ransomed not with perishable things, such as silver or gold, but with the precious blood of the Lamb* (1 Pet 1:18).  
 
-**977**. Second, he touches on the use of different graces, and first with respect to knowledge of divine things, saying: ***if prophecy***, the one among us who has it should use it ***according to the rule of faith***.  
+In the second way, it can be understood of the trespass by which they rejected the teaching of the apostles, with the result that the apostles preached to the gentiles, as it says in Acts: *it was necessary that the word of God should be spoken first to you. Since you thrust it from you, we turn to the gentiles* (Acts 13:46).  
 
-**978**. ***Prophecy*** is a kind of apparition arising from the divine revelation of things far remote. Hence it is said in 1 Samuel: *he who is now called a prophet was formerly called a seer* (1 Sam 9:9). Among matters far remote from our knowledge some are remote of their very nature, as future contingents, which are not knowable, because their causes are indeterminate; but divine matters are remote from our knowledge not of their very nature, for they are knowable in the highest degree, because *God is light and there is no darkness in him* (1 John 1:5), but on account of the weakness of our intellect, which is related to matters most evident as the eye of an owl to sunlight. And because something is said to be thus and so in a truer sense, when it is thus and so on its own account rather than on account of something else, future contingents are in a truer sense said to be far from our knowledge. For this reason they are the proper concern of prophecy: *surely the Lord God does nothing without revealing his secret to his servants the prophets* (Amos 3:7). But prophecy in a general sense includes the revelation of any secret things.  
+In a third way it can be understood as meaning that on account of their impenitence they have been scattered among all the nations. As a result Christ and the Church had from the books of the Jews testimony to the Christian faith helpful in converting the gentiles, who might have suspected that the prophecies concerning Christ, which the preachers of the faith brought forward, were fabricated, if they had not been proven by the testimony of the Jews; hence it says in a psalm: *let me look in triumph on my enemies*, i.e., the Jews; *slay them not, lest my people forget, make them totter by your power* (Ps 59:10).  
 
-This gift of prophecy existed not only in the Old Testament but in the New as well: *I will pour out my spirit on all flesh: your sons and daughters shall prophesy* (Joel 2:28). In the New Testament those who explained prophetic statements were also called prophets, because Sacred Scripture is explained in the same spirit as it is written: *I shall pour out teaching like prophecy* (Sir 24:46).  
+**882**. There follows ***so that they may be emulous of them***.  
 
-**979**. The gift of prophecy, as all the other charismatic graces, is ordained to the building up of faith: *to each is given the manifestation of the Spirit for the common good* (1 Cor 12:7); *It was declared*, i.e., the doctrine of faith, *by the Lord, while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit* (Heb 2:30). Consequently, prophecy should be used ***according to the rule of faith***, i.e., not in vain but in order that faith be strengthened, not opposed, by it: *if a prophet arises among you and says ‘let us go after other gods,’ you shall not listen to the words of that prophet* (Deut 13:1), because he is not prophesying in proportion to the faith.  
+And because he does not say who or whom, and since there are two kinds of emulousness, namely that of indignation and that of imitation, this phrase can be explained in four ways.  
 
-**980**. In regard to administering the sacraments he adds: ***or ministry, in ministering***, i.e., if one has received the grace or office of the ministry, such as the bishop or priest who are called God’s ministers—*you shall be called the priests of the Lord, the ministers of our God* (Isa 56:6)—let him perform his office diligently ***in ministering***: *fulfill your ministry* (2 Tim 4:5).  
+The first way is this. ***That the gentiles may be emulous of them***, namely the Jews, such that they imitate them in the worship of the one God: *you were at one time without Christ, alien to the way of life of Israel*, and later he adds, *but now you, who were once far off, have been drawn near in the blood of Christ* (Eph 2:12); *you have become imitators of the churches of God* (1 Thess 2:14), which are in Judea.  
 
-**981**. Second, he touches on matters pertinent to human affairs in which one person can help another: first, with respect to knowledge both speculative and practical.  
+Or it can be interpreted this way. The gentiles are emulous of the Jews, i.e., they are indignant against them on account of their unbelief: *I beheld the transgressors and I pined away, because they do not keep your words* (Ps 118:158).  
 
-With respect to speculative knowledge he says: ***or he who teaches***, i.e., who has the office or grace of teaching, let him use it ***in teaching***, i.e., teach diligently and faithfully: *behold, you have taught man* (Job 4:3); *go, therefore, and teach all nations* (Matt 28:19).  
+Third, it can be understood in this way. The Jews are emulous, i.e., imitate the gentiles when everywhere, and now some of them particularly, they are converted to the faith, imitating the faith of the gentiles; and in the end all Israel will be saved when the fullness of the gentiles have entered. Thus will be fulfilled what is said in Deuteronomy: *he will be the head and you will be the tail* (Deut 28:44).  
 
-With respect to practical knowledge he says: ***he who exhorts***, i.e., has the office and grace of exhorting, let him use it ***in exhorting***: *our appeal does not spring from error or uncleanness, nor is it made with guile* (1 Thess 2:3); *declare these things; exhort with all authority* (Titus 2:15).  
+Fourth, it can be interpreted this way. The Jews are emulous of the gentiles, i.e., are disturbed out of envy towards them when they see their glory passing over to them: *I will provoke you by that which is not a people* (Deut 22:21).  
 
-**982**. Then he mentions those that pertain to external works in which a person sometimes helps another by giving a gift. In this regard he says, ***he who contributes***, i.e., has the power and grace to contribute, should do this ***in simplicity***, namely, with no evil ulterior motive, such as enticing men to evil with gifts, and with no intention of obtaining a great deal more from the small amount given: *a stupid man’s gift will bring you no advantage, his eyes look for seven times as much in return. He gives little and reviles much* (Sir 20:14); *the simplicity of the just shall guide them* (Prov 11:3).  
+**883**. Then when he says, ***now if the offense of them***, he answers the question as interpreted in the second way and shows that the fall of the Jews is reparable. He does this in three ways:  
 
-Sometimes one helps another, because he has charge of him. In regard to this he says: ***he who rules***, i.e., has been entrusted with the office of prelate, should use that office ***in carefulness***: *obey your leaders and submit to them; for they are keeping watch over your souls, as men who will have to give an account* (Heb 13:17); *my anxiety for all the churches* (2 Cor 11:28).  
+first, from its usefulness;  
 
-Again, sometimes one helps another by easing his misery. In regard to this he says: ***he who does acts of mercy***, i.e., has the means and a merciful heart, should do this ***in cheerfulness***, as doing it gladly: *not reluctantly or under compulsion, for God loves a cheerful giver* (2 Cor 9:7); *in every gift make your countenance cheerful* (Sir 35:11).  
+second, from the Apostle’s intention, at ***for I say to you***;  
 
-**983**. Then when he says, ***let love be without dissimulation***, he shows how to use a gift which is common to all, namely, charity.  
+third, from the condition of that people, at ***for if the firstfruit be holy***.  
 
-First, he states what pertains to charity in general;  
+**884**. In regard to the first he presents the following reason: a good is more powerful than an evil in producing usefulness, but the evil which befell the Jews produced something very useful for the gentiles, therefore, their good will produce greater usefulness for the world. What he is saying is this: it has been said that by their trespass the salvation of the gentiles was achieved. ***Now if the offense of them***, i.e., the Jews’, ***be the riches of the world***, i.e., for the gentiles, because the trespass of the Jews resulted in spiritual riches for the gentiles, about which it is said: *riches of salvation, wisdom and knowledge* (Isa 33:6), which refers to their guilt. ***And the diminution of them***, by which they fell from the lofty glory they had, pertains to their punishment. *For we are diminished more than any nation and are brought low in all the earth this day for our sins* (Dan 3:37). They were, however, an occasion of ***the riches of the gentiles***, as was said. Or ***the diminution of them***, i.e., some of the least and most humble of the Jews, namely the apostles, enriched the nations spiritually, about which 1 Corinthians says: *God chose the weak things of the world, that he might confound the strong* (1 Cor 1:27). ***How much more*** will ***the fullness of them***, i.e., their spiritual abundance or their multitude converted to God, result in riches for the gentiles? *My abode is in the full assembly of saints* (Sir 24:16).  
 
-second, charity toward special classes of persons, at ***communicating to the necessities of the saints***.  
+And so, if for the benefit of the whole world God permitted the Jews to do wrong and be diminished, much more will he repair their disaster for the benefit of the whole world.  
 
-With respect to the first he does three things:  
+**885**. Then when he says, ***for I say to you, gentiles***, he shows the same things by revealing the purpose of his ministry, which he first states;  
 
-first, he describes the qualities of charity as it exists in the one possessing it;  
+second, he assigns the reason, at ***for if the loss***.  
 
-second, the qualities of charity toward one’s neighbor, at ***loving one another with the charity of brotherhood***.  
+**886**. In regard to the first it should be noted that whereas the previous parts of the epistle were directed to all the believers in Rome, whether from the Jews or from the gentiles, he is now directing his words to the converted gentiles.  
 
-third, toward God, at ***in carefulness, not slothful***.  
+**887**. He says, therefore: I have stated that their fullness will mean riches for the world. As testimony to this ***I say to you, gentiles***, i.e., gentiles converted to the faith: *I said, ‘behold me’ to a nation that did not call upon my name* (Isa 65:1). This, I repeat, I say to you: ***as long indeed as I am the apostle of the gentiles***, the special care of whom has fallen to me on account of the office entrusted to me: *they gave to me and to Barnabas the right hands of fellowship: that we should go unto the gentiles, and they unto the circumcision* (Gal 2:9); *for this was I appointed a preacher and apostle, a teacher of the gentiles in faith and truth* (1 Tim 2:7); ***I will honor my ministry***, not with things that pertain to worldly honor: but first by adorning it with good morals: *as servants of God we commend ourselves in every way in much patience*. (2 Cor 6:4). Second, by performing extra works to which he was not bound: *what is my reward then? That preaching the Gospel, I may deliver the Gospel without charge, that I abuse not my power in the Gospel* (1 Cor 9:18). Third, by increasing his solicitude for the salvation of all: *besides those things which are without: my daily instance, the solicitude for all the churches* (2 Cor 11:28).  
 
-**984**. In regard to the qualities of charity he teaches three things.  
+**888**. Hence he adds: ***if, by any means, I may provoke to emulation them who are my flesh***, i.e., the Jews, ***who are my kinsmen according to the flesh*** (Rom 9:3): *do not despise your own flesh* (Isa 58:7). And that they may emulate by good emulation, as is said in 1 Corinthians: *emulate the better gifts* (1 Cor 12:31). And in this way I ***may save some of them***, namely, of the Jews: *not seeking my own advantage but that of many, that they may be saved* (1 Cor 10:33).  
 
-First, that charity should be true. Hence he says: ***let love be without dissimulation***, so that it consist not in word or outward appearance but in a genuine affection of heart and in efficacious works: *let us not love in word or speech, but in deed and in truth* (1 John 3:18); *nothing can compare to a faithful friend* (Sir 6:15).  
+**889**. But this seems contrary to what he says in 2 Corinthians: *but we will not boast beyond limit, but will keep to the limits God apportioned us, to reach even to you* (2 Cor 10:13). But he had not accepted the limit of his service, which was to the gentiles. Therefore, he should not have concerned himself about the Jews.  
 
-Second, he teaches that love should be pure when he says: ***hating evil***. Love is pure when a person does not consent to his friend in evil, but so loves him that he hates his vices: *it does not rejoice at wrong, but rejoices in the truth* (1 Cor 13:6); *I hate the impious* (Ps 119:113).  
+Some say that the Jews living in Judea did not pertain to his apostolate, but to that of Peter, James, and John (Gal 2:7). But the Jews living among the gentiles pertained to his apostolate and he worked for their salvation.  
 
-Third, he teaches that love should be honorable when he says: ***cleaving to good***, so that one adheres to another because of his virtuous goodness: *always emulate the good in his goodness* (Gal 4:18). This is fair love, about which it is said: *I am the mother of fair love* (Sir 24:24).  
+But this seems contrary to his statement here. For if those Jews were the limit of his apostolate, he would not be magnifying his service.  
 
-**985**. Then when he says, ***loving one another with the charity of brotherhood***, he shows how charity should be shown to one’s neighbor.  
+Therefore, it must be said that preaching to the gentiles was committed to him in such a way that he was bound to it by necessity, as he says: *woe to me if I do not preach the Gospel. For necessity is laid upon me* (1 Cor 9:16); but he was not forbidden to preach to the Jews, even though he was not bound to do so. Consequently, by working for their salvation he magnified his service. But he would not have done this, if he thought their fall irreparable.  
 
-And first as regards interior affection, when he says ***loving one another with the charity of brotherhood*** i.e., so that through charity we not only love the brethren but even love the very charity by which we love them and are loved by them. For if we regard charity as such a great treasure, we will not allow it to be dissolved so easily: *let brotherly love continue* (Heb 13:1); *if a man offered for love all the wealth of his house, it would be utterly scorned* (Song 8:7).  
+Hence the Apostle’s very zeal for the conversion of the Jews was the sign he adduced for stating that the fall of the Jews was reparable.  
 
-**986**. Second, with respect to its outward effect when he says: ***with honor anticipating one another***. Three things are designated here.  
+**890**. Then when he says, ***for if***, he assigns the reason for his interest, namely, that the conversion of the Jews would contribute to the salvation of the gentiles. Hence he says, ***for if the loss of them***, i.e., their unbelief and disobedience, as a slave is said to be lost when he flees from the care and obedience of his master: *my people have been a lost flock* (Jer 50:6). If, I say, the loss of the Jews occasions the ***reconciliation of the world***, inasmuch as we have been reconciled to God through the death of Christ, ***what shall the receiving of them be, but life from the dead?*** I.e., that the Jews will be accepted again by God, as it says in Zechariah: *I took unto me two rods* (Zech 11:17). What, I say, will such an acceptance mean but that it will make the gentiles rise to life?  
 
-First, that a person should hold the neighbor in reverence. This pertains to the very notion of honor, for no one can truly love a person he despises: *in humility, count others better than yourselves* (Phil 2:3). This is realized when one considers his own shortcomings and the good qualities of his neighbor. Under the heading of honor are included not only honor but the provision of necessities, for when it is commanded in Exodus: *honor your father and your mother* (Exod 20:12), the provision of necessities is commanded. This is clear from the fact that our Lord in Matthew rebuked the Pharisees for violating this precept by hindering children from helping their parents (Matt 5:3ff.).  
+For gentiles are the believers who will grow lukewarm: *because wickedness is multiplied, most men’s love will grow cold* (Matt 24:12), or will fall away entirely, being deceived by the Antichrist. These will be restored to their primitive fervor after the conversion of the Jews. And as the gentiles were reconciled after their enmity, the Jews having fallen away, so after the conversion of the Jews, the end of the world being then imminent, there will be a general resurrection, through which men will return from the dead to immortal life.  
 
-Second, it designates that the effect of love should be shown mutually, i.e., a person should desire not only to receive benefits but also to grant them: *let not your hand be stretched out to receive and clenched when it is time to give* (Sir 4:31); *in dividing by lot, give and take* (Sir 14:15). He refers to this when he says: ***one another***.  
+**891**. Then when he says, ***for if the firstfruit***, he proves the same thing by considering the status of the Jewish race.  
 
-Third, he designates that the effect of love should be prompt and swift, when he says: ***anticipating***, so that one should anticipate a friend in doing favors: *every friend declares his friendship* (Sir 37:1).  
+This he does in two ways.  
 
-**987**. Then when he says, ***in carefulness***, he shows the qualities surrounding charity’s love of God.  
+First, on the part of the apostles, when he says: ***if the firstfruit be holy, so is the lump also***.  
 
-First, he starts with reason’s attentiveness when he says: ***in carefulness, not slothful***, when it is a question of worshiping God: *he has shown you, O man, what is good; and what does the Lord require of you*, and he continues: *but to walk carefully with your God?* (Mic 6:8); *do your best to present yourself to God as one approved* (2 Tim 2:15).  
+That is called the representative portion which is taken from the whole lump of dough, as if for approval. The apostles chosen by God from the Jewish people are the representative sample taken from the whole lump. If, therefore, the apostles are holy, the consequence is that the Jewish people are holy. *You are a holy nation, God’s own people* (1 Pet 2:9).  
 
-**988**. Second, the affections when he says: ***be fervent in the spirit***, namely, in loving God.  
+**892**. Second, he proves the same thing on the part of the patriarchs, who are compared to the Jews as root to branches; hence it says in Isaiah: *there shall come forth a rod from the root of Jesse* (Isa 11:1). If, therefore, the patriarchs, who are the root, are holy, then the Jews, who grew from them as branches, are also holy. *And his root shall shoot forth as that of Libanus, and his branches shall spread* (Hos 14:6).  
 
-Being fervent comes from an abundance of heat; hence it is called fervor of spirit, because the whole person is fervent toward God on account of the abundance of his love: *Apollos, being fervent in spirit, spoke and taught concerning Jesus* (Acts 18:25); *do not quench the Spirit* (1 Thess 5:19).  
+**893**. But this seems to conflict with what is said in Exodus: *if a man is righteous, he shall surely live* (Exod 18:9). Therefore, it does not follow that if the root is holy, so also the branches. There he also adds that *if the son seeing the sins of his father will have been afraid and will not have done the same, he shall not die, but will live life*; whence it seems not to follow that if the representative portion is holy, so is the whole lump.  
 
-**989**. Third, the outward homage when he says: ***serving the Lord***, namely, with the worship of latria, which is paid to God alone: *the Lord your God shall you adore and him alone shall you serve* (Deut 6:13); *serve the Lord with fear* (Ps 2:11).  
+The answer is that the Apostle is not speaking here of actual holiness, for he does not mean to say that unbelieving Jews are holy; but of potential holiness. For if their ancestors and descendants are holy, nothing prevents them from being called back to holiness themselves.  
 
-Or according to another text, *serving the time*, namely that we should perform our service of God at the fitting time: *there is a time and an opportunity for every affair* (Eccl 8:6).  
-
-**990**. Fourth, the reward of serving when he says: ***rejoicing in hope***, namely of a reward which is the enjoyment of God: *I, the Lord, am your reward exceedingly great* (Gen 15:2); ***we rejoice in our hope of sharing the glory of sons of God*** (Rom 5:2). But hope rejoices a man by reason of its certainty, but it afflicts him by reason of its delay: *hope deferred makes the heart sick* (Prov 13:12).  
-
-**991**. Fifth, the difficulty a person endures in the service of God when he says: ***in tribulation***, which you endure for God, ***patient***: ***tribulation produces patience*** (Rom 5:3).  
-
-**992**. Sixth, in the light of all the foregoing he says: ***constant in prayer***, in which is indicated continuance in prayer: *we ought always to pray and not lose heart* (Luke 18:1); *pray constantly* (1 Thess 5:17).  
-
-For by prayer carefulness is aroused in us and fervor kindled, we are stimulated to serve God, the joy of hope is increased, and we win help in tribulation: *in my distress I called on the Lord and he answered me* (Hos 120:1).  
-
-**993**. Then when he says, ***communicating to the necessities of the saints***, he discusses charity with regard to certain particular persons.  
-
-First, as regards the needy;  
-
-second, as regards enemies, at ***bless those who persecute you*** (Rom 12:14).  
-
-**994**. Concerning the first he does two things.  
-
-First, he urges in general that the benefits of charity be afforded to the needy, when he says: ***communicating to the necessities of the saints***. Three things should be noted here: first, that alms be given out of charity to the poor and needy: *let him labor, doing honest work with his hands, so that he may be able to give to others in need* (Eph 4:28).  
-
-Second, that upright and saintly persons should be helped before others; hence he says: ***to the necessities of the saints***: *give to the good man; refuse the sinner* (Sir 12:4). This does not mean that sinners should not be helped in their needs, but that they should not be helped so as to nourish sin. Yet it is more useful to help the just, because such an alms is fruitful not only for the giver but also from the prayers of the recipient: *make friends for yourselves by means of unrighteous mammon, so that when it fails they may receive you into the eternal habitations* (Luke 16:19), namely, by their prayers.  
-
-**995**. Then he urges them to be hospitable when he says: ***pursuing hospitality***, because the other works of mercy are included in this one. For a host offers not only his home as a shelter, but provides for other needs as well: *do not neglect to show hospitality to strangers* (Heb 13:12); *practice hospitality ungrudgingly to one another* (1 Pet 4:9).  
+Or one might answer that those who imitate the patriarchs are a special type of branch, as it says in John: *if you were Abraham’s children, you would do what Abraham did* (John 8:39).  
 
 Lecture 3  
 
-***Charity toward one’s enemies***
+***Prohibition of boasting against the Jews***
 
-***^12:14^ Bless those who persecute you: bless, and curse not. [n. 996]***
+***^11:17^ And if some of the branches be broken and you, being a wild olive, are ingrafted in them and are made partaker of the root and of the fatness of the olive tree: [n. 894]***
 
-> ^12:15^ Rejoice with those who rejoice, weep with those who weep: [n. 1003]
+> ^11:18^ Boast not against the branches. But if you boast, you do not bear the root: but the root bears you. [n. 897]
 
-> ^12:16^ Being of one mind one towards another: not minding high things, but consenting to the humble. Do not be prudent among you yourselves: [n. 1005]
+> ^11:19^ You will say then: the branches were broken off that I might be grafted in. [n. 898]
 
-> ^12:17^ To no man rendering evil for evil: providing good things, not only in the sight of God but also in the sight of all men. [n. 1007]
+> ^11:20^ Well: because of unbelief they were broken off. But you stand by faith. Be not highminded, but be afraid. [n. 900]
 
-> ^12:18^ If it be possible, as much as is in you, have peace with all men: [n. 1010]
+> ^11:21^ For if God has not spared the natural branches, fear lest perhaps also he does not spare you. [n. 902]
 
-> ^12:19^ Revenge not yourselves, my dearly beloved, but give place unto wrath. [n. 1011] For it is written: *vengeance is mine, I will repay*, saith the Lord. [n. 1013]
+> ^11:22^ See then the goodness and the severity of God: towards them indeed that are fallen, the severity; but towards you, the goodness of God, [n. 903] if you abide in goodness. Otherwise you also shall be cut off. [n. 906]
 
-> ^12:20^ But if the enemy be hungry, feed him: if he is thirsty, give him drink: for, doing this, you will heap coals of fire upon his head.
+> ^11:23^ And they also, if they do not abide still in unbelief, shall be grafted in: for God is able to graft them in again. [n. 908]
 
-> ^12:21^ Be not be overcome by evil, but overcome evil by good. [n. 1015]
+> ^11:24^ For if you were cut out of the wild olive tree, which is natural to you, and, contrary to nature, were grafted into the good olive tree, how much more shall they that are the natural branches be grafted into their own olive tree? [n. 910]
 
-> **996**. Above, the Apostle showed that charity should be practiced toward the needy; now he shows how it should be practiced even toward enemies:
+> **894**. After showing that the fall of the Jews was useful and reparable, the Apostle now forbids the gentiles to boast against the Jews.
 
-first, he gives the admonition;  
+In regard to this he does two things:  
 
-second, he proves what he said, at ***for it is written***.  
+first, he shows that the converted gentiles must not boast against the Jews;  
 
-With respect to the first it should be noted that three things pertain to charity: first, benevolence, which consists in willing good to another and not willing evil; second, concord, which consists in friends willing the same thing and rejecting the same thing; third, beneficence, which consists in doing good and causing no injury to the one loved.  
+second, he answers an objection from the gentiles, at ***you will say then***.  
 
-First, therefore, he touches on matters pertaining to benevolence;  
+In regard to the first he does two things:  
 
-second, to concord, at ***rejoice with those who rejoice***;  
+first, he forbids the gentiles to boast against the Jews;  
 
-third, to beneficence, at ***to no man rendering evil for evil***.  
+second, he gives the reason for this prohibition, at ***but if you boast***.  
 
-**997**. In regard to the first he does two things.  
+**895**. There seemed to be two things that might tempt the gentiles to boast against the Jews.  
 
-First, he urges that benevolence be broad enough to include enemies when he says: ***bless those who persecute you***.  
+First, the defection of the Jews. Hence he says: we have stated that if the root is holy, so too the branches. ***And if some of the branches***, i.e., some of the Jews but not all, ***be broken***, i.e., separated from the faith of their fathers who are compared as the root, ***do not boast***: *the flame will dry up his shoots* (Job 15:30); *the branches not being perfect shall be broken* (Wis 4:5).  
 
-Here it should be noted that to bless is to say something good. This can happen in three ways: first, by asserting a good, as when one person praises another’s good points: *the lips of many shall bless him that is liberal of his bread; and the testimony of his truth is faithful* (Sir 31:28).  
+The second ground for boasting was their own promotion. But the lower the state from which one has been promoted, the more he is inclined to vain boasting, as it says in Proverbs: *by three things the earth is disturbed, and the fourth it cannot bear: by a slave when he reigns* (Prov 30:21). Hence he reminds them of the low state from which they were raised, saying: ***and you***, O gentile, when you were a gentile, ***being a wild olive***, i.e., a tree bearing no fruit: *he shall be like tamaric in the desert* (Jer 17:6); *every tree that does not bear fruit is cut down and thrown into the fire* (Matt 3:10).  
 
-Second, by commanding: to bless in this way belongs to God by whose command something good comes to creatures, or it belongs to his ministers who invoke the Lord’s name upon the people: *thus shall you bless the sons of Israel and say to them: the Lord bless you and guard you. The Lord show his face to you and have mercy on you. The Lord turn his countenance toward you and give you peace* (Num 6:22–26); *they shall invoke my name upon the people of Israel and I will bless them* (Num 6:27).  
+**896**. Then he describes their promotion.  
 
-Third, one blesses by desiring: *nor did they who passed by say: the blessing of the Lord be upon you* (Hos 129:8). To bless in this way is to will someone’s good and, as it were, to pray for his good. This is the way it is taken here.  
+First, that they have been raised to the dignity of that race; hence, he says: ***are ingrafted in them***, i.e., in their place: *he shall break in pieces many and innumerable, and shall make others to stand in their stead* (Job 34:24).  
 
-**998**. Hence, this directive, to ***bless those who persecute you***, shows that we must have good will even toward enemies and persecutors by desiring their welfare and praying for them: *love your enemies and pray for those who persecute you* (Matt 5:44).  
+Second, that they have been made associates of the patriarchs, whom he had compared to the root; hence he says: ***and are made partaker of the root***, i.e., united to the patriarchs and prophets: *many will come from the east and west, and sit at the table with Abraham, Isaac, and Jacob in the kingdom of heaven* (Matt 8:11).  
 
-This directive can be interpreted in one way as a precept and in another as a counsel. For we are commanded to love our enemies in such a way as not to exclude them from our general love of neighbor and from the prayer one makes for all believers. We are also obliged to show the effect of this love of one’s enemies in particular cases of critical need. Hence it says in Exodus: *if you meet your enemy’s ox or ass going astray, rescue it* (Exod 23:4).  
+Third, that they share the glory of the apostles when he says: ***and are made partaker of the fatness of the olive tree***. The Jewish race is called the olive tree on account of the rich spiritual fruit they bore: *the Lord called you once a plentiful olive tree, fruitful and beautiful* (Jer 11:16); *I am like a green olive tree in the house of God* (Ps 52:8). But just as the roots of this olive tree are the patriarchs and prophets, so its richness is the abundance of the Holy Spirit’s grace, which the apostles had more than all the others, as a Gloss says. Whence the olive tree was led to say: *can I leave my fatness . . . to come to be promoted among the trees?* (Judg 9:9); *let my soul be filled as with marrow and fatness* (Ps 62:6). This, therefore, is the way the gentiles have been promoted to a partnership with that people, namely, with the patriarchs, apostles, and prophets: *you are fellow citizens with the saints and members of the household of God, built upon the foundation of the apostles and prophets* (Eph 2:19).  
 
-But for anyone to give his enemies the benefit of his help beyond cases of manifest need or to say special prayers and indicate a feeling of love in a special way pertains to the perfection of the counsels, because it shows that a person’s love of God is so advanced that it triumphs over all human hatred. However, one who repents and seeks forgiveness should no longer be reckoned an enemy or persecutor; hence, there should be no difficulty in showing him marks of charity: *forgive your neighbor if he has hurt you: and then your sins shall be forgiven when you pray* (Sir 28:2).  
+And although these may seem to be reasons for boasting, ***do not boast against the branches***, i.e., against the Jews: *your boasting is not good* (1 Cor 5:1).  
 
-**999**. Second, he teaches that good-will should be pure, i.e., not mixed with its opposite. Hence he says: ***bless, and curse not***, i.e., so bless that in no way do you curse. This is against those who bless with their mouth and curse in their heart: *they speak words of peace to their neighbor, but have evil in their hearts* (Ps 27:3). It is also against those who sometimes bless and sometimes curse, or bless some and curse others: *from the same mouth come blessing and cursing. My brethren, this ought not to be so* (Jas 2:10); *do not return reviling for reviling* (1 Pet 3:9).  
+**897**. Then when he says, ***but if you boast***, he gives the reason for his admonition, saying: ***but if*** in spite of this admonition ***you boast*** by insulting the Jews, who stand upright or have been cut off, you should consider as a check to your boasting that ***you do not bear the root: but the root bears you***, i.e., Judea did not receive salvation from the gentiles, but just the reverse: *salvation is from the Jews* (John 4:22). Hence, Abraham was promised that all the nations of the earth would be blessed in him (Gen 22:18).  
 
-**1000**. But the fact that many curses are found in Sacred Scripture seems to be against this. For Deuteronomy says: *cursed be he that does not abide in the words of this law and does not fulfill them in work* (Deut 27:26).  
+**898**. Then when he says, ***you will say then***, he excludes an objection from the gentiles:  
 
-The answer is that to curse is to say something evil. As with blessing, this can happen in three ways, namely, by asserting, by commanding, and by desiring; and in each of these ways something good can be done and something evil.  
+first, he presents the objection;  
 
-For something materially evil can be called evil in any of these ways. If it is called evil but has a good aspect, this is blessing rather than cursing and is not illicit. For a thing is judged more according to its form than its matter. But if someone says evil under the aspect of evil, he is speaking evil formally; hence it is altogether illicit.  
+second, he excludes it from a consideration of divine justice, at ***well***;  
 
-Both of these cases occur when someone makes known an evil by asserting it.  
+third, he urges them to diligently consider God’s judgments, at ***see then the goodness***.  
 
-For sometimes a person asserts that something is evil, in order to make known a necessary truth. Hence, he asserts evil under the aspect of a necessary truth, which is something good; hence it is licit. This is the way Job is said to have cursed his day, when he asserted the evil of the present life (Job 3:1), just as the Apostle did in Ephesians: *making the most of the time, because the days are evil* (Eph 5:17).  
+**899**. First, therefore, he says: therefore, O gentile, who boasts against the Jews, you might say: ***the branches were broken off that I might be grafted in***, i.e., God permitted the Jews to fall from faith, so that I might enter into faith.  
 
-But sometimes a person asserts someone’s evil under the aspect of evil, namely, to detract from his good name; and this is illicit. For it is stated in 1 Corinthians: *the evil-tongued shall not possess God’s kingdom* (1 Cor 6:10).  
+But no one accepts the loss of one thing save for something more precious and more desired, just as a physician allows a foot to remain sore in order to heal the eye. Thus, it would seem that the gentile nations are more valuable and acceptable to God than Judea. Hence it says in Malachi: *I have no pleasure in you, says the Lord of hosts, and I will not accept an offering from your hands. For from the rising of the sun to its setting my name is great among the nations* (Mal 1:10), and in Isaiah: *it is too light a thing that you should be my servant to raise up the tribes of Jacob; I will give you as a light to the nations* (Isa 49:6).  
 
-**1001**. Similarly, when one says something evil by commanding, it can happen that he says something materially evil but under a good aspect. For example, it is licit for a person in authority to command that someone undergo the evil of punishment, when it is just. In this way violators of the law are cursed, i.e., justly subjected to punishment.  
+**900**. Then when he says, ***well***, he excludes the objection.  
 
-But when someone commands another’s evil unjustly, for example from hatred and revenge, such a curse is illicit: *he that curses his father or mother shall die the death* (Exod 21:17).  
+First, he assigns the reason why the Jews fell away and the gentiles were promoted, saying: ***well***, i.e., it is good that God permitted branches to be broken off, so that you might be grafted in, but consider the cause of the breaking off of the branches. It is ***because of unbelief***, i.e., because they refused to believe in Christ, ***they were broken off***: *for you are among unbelievers and destroyers* (Ezek 2:6); *if I speak the truth, why do you not believe me?* (John 8:46). ***But you***, O gentile, ***stand by faith***, i.e., by believing in Christ, through whom you have obtained grace: *for in faith you stand* (2 Cor 1:23); *I preached to you the Gospel, in which you stand, by which you are saved* (1 Cor 15:1).  
 
-**1002**. It is the same with regard to saying something evil by desiring. For if the evil is desired under the aspect of good, for example, that through adversity a person may make spiritual progress, it is licit: *I have seen a fool with a firm root: and at once I cursed his beauty* (Job 5:3).  
+**901**. Second, he gives an admonition, saying: ***be not highminded***, i.e., do not presume on yourself beyond yourself: ***not minding high things, but consenting to the humble*** (Rom 12:16); *Lord, my heart is not exalted: nor are my eyes lofty* (Ps 130:1); ***but fear***, lest you too be broken off because of unbelief: *blessed is the man that is always fearful: but he that is hardened in mind, will fall into evil* (Prov 28:14); *the fear of the Lord drives out sin* (Sir 1:27).  
 
-But if this is done from hatred and revenge, it is altogether illicit: *the Philistine cursed David by his gods* (1 Sam 17:43).  
+**902**. The reason for this admonition is given when he says: ***for if God has not spared the natural branches***, i.e., the Jews, who descended by natural origin from the patriarchs, but allowed them to be broken off, ***fear lest perhaps also he does not spare you***, i.e., lest he permit you to be broken off because of unbelief: *the jealously and rage of the husband will not spare on the day of revenge* (Prov 6:34); *I will not spare and I will not pardon; nor will I have mercy, but to destroy them* (Jer 13:14).  
 
-**1003**. Then when he says: ***to rejoice with those who rejoice***, he teaches about concord:  
+This, therefore, is the Apostle’s answer; that when someone sees that he has obtained grace and another has fallen, he should not boast against the fallen but rather fear for himself, because pride is the cause of falling headlong and fear is the cause of carefulness and being kept safe.  
 
-first, he sets out nature of concord;  
+**903**. Then when he says, ***see then the goodness and the severity of God***, he invites them to a close scrutiny of divine judgments:  
 
-second, the obstacles to it, at ***not minding high things***.  
+first, he invites them to consider;  
 
-**1004**. Concord can be considered in two ways.  
+second, he instructs them as though unable to consider by themselves, at ***for I would not have you ignorant*** (Rom 11:25);  
 
-In one way, as regards the effect it produces in reacting to good and evil. In regard to good it makes one rejoice in the good of others; hence he says: ***rejoice with those who rejoice***: *I am glad and rejoice with you all* (Phil 2:17). But this refers to rejoicing with one who rejoices in the good. For there are some who take joy in evil: *some are glad when they have done evil, and rejoice in things most wicked* (Prov 2:17). In such cases one must not rejoice with others, for in 1 Corinthians it is said of charity that *it does not rejoice over wickedness but rejoices in the truth* (1 Cor 13:6).  
+third, as though he himself were not perfectly capable of this investigation, he exclaims in admiration of God’s wisdom, at ***O the depth of the riches*** (Rom 11:33).  
 
-In regard to evil the effect of concord is that it makes one grieve over another’s evil. Hence, he says: ***weep with those who weep***: *I wept for him who was afflicted* (Job 30:25); *comfort them that weep, and walk with them that mourn* (Sir 7:38).  
+**904**. In regard to the first he does three things: first, he shows what should be considered, saying: ***see then***, i.e., give careful consideration to, ***the goodness of God***, having mercy: *how good, O Israel, is God to the upright of heart* (Ps 72:1); ***or do you despise the riches of his goodness?*** (Rom 2:4). ***And his severity*** in punishing: *O Lord, you God of vengeance* (Ps 94:1); *the Lord is a jealous God and avenging* (Nah 1:2).  
 
-For the compassion of a commiserating friend itself brings consolation in two ways: first, because it is convincing proof of friendship: *in a man’s adversity his friend is known* (Sir 12:9), and that itself is a joy, namely, to know that one has a true friend. Second, because the condolence of a friend implies that he is offering to carry the burden which causes the sorrow, and it is easier when a burden is carried by two than by one person alone.  
+For the first consideration begets hope; the second begets fear, so that despair and presumption are avoided.  
 
-**1005**. Second, concord consists in unity of opinion. In regard to this he says: ***being of one mind one towards another***, i.e., agree on the same matters: *that all of you agree and that there be no dissensions among you* (1 Cor 1:10); *complete my joy by being of the same mind* (Phil 2:2).  
+**905**. Second, he indicates the ones affected by each of these two qualities, saying: ***towards them indeed that are fallen***, i.e., the Jews, ***the severity***: *the Lord has destroyed without mercy all the habitations of Jacob* (Lam 2:2); ***but towards you***, the engrafted gentile, ***the goodness***: *you have dealt kindly with your servant, O Lord* (Ps 119:65).  
 
-Yet it should be noted that there are two kinds of opinion: one pertains to the intellect’s judgment about speculative matters, such as are considered in geometry and astronomy. Disagreement here does not militate against friendship or love, because love exists in the will, whereas judgments about these matters do not arise from the will but from the necessity of reason.  
+**906**. Third, he shows how the foregoing points should be considered, since the situation is not immutable but could change in the future.  
 
-The other opinion pertains to reason’s judgment about actions. Disagreement in these is contrary to love, because such dissension involves contrariety of will. And because faith is not only speculative but also practical inasmuch as it functions through love, as is stated in Galatians, dissent from correct faith is contrary to love (Gal 5:6).  
+**907**. First, he shows this with respect to the gentiles, saying: ***towards you***, I say, ***goodness, if you abide in goodness***: *remain in my love* (John 15:9). ***Otherwise***, if you do not strive to persevere through fear and humility, ***you also shall be cut off***: *every tree that does not bear good fruit is cut down* (Matt 3:10).  
 
-**1006**. Then when he says, ***not minding high things***, he removes the two obstacles to concord.  
+**908**. Second, he shows the same with respect to the Jews. First, he states the fact: ***and they also***, namely, the Jews, ***if they do not abide still in unbelief, shall be grafted in***, i.e., restored to their former status: *you have prostituted yourself to many lovers. Nevertheless, return to me, says the Lord* (Jer 3:1).  
 
-The first is pride, which inclines one to pursue his own excellence inordinately and to refuse subjection, at the same time desiring to subject someone else and impede his excellence. From this follows discord: *among the proud there are always quarrels* (Prov 13:10). Hence to remove this obstacle he says: ***not minding high things***, so that you seek inordinately your own excellence: ***be not highminded, but be afraid*** (Rom 11:20). ***But consenting to the humble***, i.e., accept humble things, i.e., when it is fitting, do not refuse what seems to be lowly: *I prefer to be one of no account in the house of my God* (Ps 83:11); *humble yourselves under the mighty hand of God* (1 Pet 5:6).  
+**909**. Then he proves what he has said: first, from God’s power, saying: ***for God is able to graft them in again***; therefore, their salvation is not to be despaired of: *behold, the Lord’s hand is not shortened, that it cannot save* (Isa 59:1).  
 
-The second obstacle to concord is over-confidence in one’s wisdom or one’s prudence, so that the opinion of others is not believed. To remove this he says: ***do not be prudent among you yourselves***, so that you judge as prudent only what seems so according to you: *woe to you that are wise in your own eyes and prudent in your own conceits* (Isa 5:21); ***lest you be wise to you yourselves*** (Rom 11:25).  
+**910**. Second, by arguing from the lesser, saying: ***for if you***, O gentile, ***were cut out of the wild olive tree***, i.e., from gentileness, which by nature was not fruit-bearing, not as God made nature, but because it was spoiled by sin: *they were a wicked generation, and their malice natural* (Wis 12:10); *we were by nature children of wrath* (Eph 2:3); ***and were grafted into the good olive tree***, i.e., into the faith of the Jews, ***contrary to nature***, i.e., against the common course of nature. For it is not the custom to graft the branch of a bad tree onto a good tree, but vice versa.  
 
-**1007**. Then when he says, ***to no man rendering evil for evil***, he teaches what pertains to beneficence by excluding its contrary:  
+But what God does is not against nature; it is natural in the fullest sense. For we call that natural which is caused by an agent to which the patient is naturally subject, even if it is not in keeping with the specific nature of the patient; for just as the ebb and flow of the sea is natural, because it is produced by the motion of the moon, to which the water is naturally subject, although it is not natural to the nature of water: so, too, since every creature is naturally subject to God, whatever God does in creatures is natural in the full sense, although it is not natural to the proper and particular nature of the thing in which it is done, say when a blind man has sight restored or a dead man is revived.  
 
-first, he teaches not to do evil to another for revenge;  
+**911**. If, I say, this was contrary to nature, ***how much more shall they that are the natural branches***, i.e., which by natural origin pertain to the Jewish nation, ***be grafted into their own olive tree***, i.e., be brought back to the greatness of their nation: *he will turn the hearts of fathers to their children, and the hearts of children to their fathers* (Mal 4:6).  
 
-second, he teaches not to do evil for the sake of defense, at ***revenge not yourselves***.  
+Lecture 4  
 
-**1008**. In regard to the first he does three things: first, he forbids revenge when he says: ***to no man rendering evil for evil***: *if I have returned evil for evil* (Ps 7:5); *do not repay evil with evil* (1 Pet 3:9).  
+***Man’s unbelief is for the sake of divine mercy***
 
-But this must be understood in a formal sense, as was said above of evil. For we are forbidden to return evil for evil when it is inspired by hatred or envy, so that we take pleasure in another’s evil. But if in return for the evil of guilt which someone commits, a judge pronounces an evil of punishment in a just way to compensate for malice, he does, indeed, return evil materially, but formally and in itself he returns a good. Hence, when a judge hangs a criminal for murder, he does not return evil for evil but good for evil. This is the way the Apostle handed over to Satan the man guilty of incest, *for the destruction of the flesh, that his spirit may be saved* (1 Cor 5:5).  
+***^11:25^ For I would not have you ignorant, brethren, of this mystery (lest you should be wise to you yourselves) that blindness in part has happened in Israel, until the fullness of the gentiles should come in. [n. 912]***
 
-**1009**. Second, he shows that even good things must be provided for our neighbor, saying: ***providing***, i.e., you should be, ***good things, not only in the sight of God***, so that you take care to satisfy your consciences before God, ***but also in the sight of all men***, so that you do things pleasing to men: *give no offense to Jews or to Greeks, or to the church of God, just as I try to please all men in everything I do* (1 Cor 11:32). *Providing good things not only before God, but also before men* (2 Cor 8:21).  
+> ^11:26^ And so all Israel should be saved, as it is written: *there shall come out of Zion, he who shall deliver and shall turn away ungodliness from Jacob*. [n. 917]
 
-But this can be done properly and improperly. For if it is done for human approval, it is not proper conduct: *beware of practicing your piety before men in order to be seen by them* (Matt 6:1). But it is proper, when it is done for the glory of God: *let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven* (Matt 5:16).  
+> ^11:27^ *And this is to them my covenant: when I shall take away their sins*. [n. 920]
 
-**1010**. Third, he gives the reason for this advice. For we should refrain from returning evil and should provide good things in the sight of all, in order that we might be at peace with men; therefore, he adds: ***have peace with all men***. *Follow peace with all men* (Heb 12:14).  
+> ^11:28^ As concerning the Gospel, indeed, they are enemies for your sake: but as touching the election, they are most dear for the sake of the fathers. [n. 921]
 
-But he qualifies this when he says: ***if possible***. For sometimes other people’s malice prevents us from having peace with them, namely, because no peace is possible with them unless we consent to their malice. Such peace, of course, is illicit: *I came not to send peace but the sword* (Matt 10:34).  
+> ^11:29^ For the gifts and the calling of God are without repentance. [n. 924]
 
-Another qualifier is added when he says: ***as much as is in you***, i.e., even if they act against peace, we should do all in our power to preserve peace with them: *I am for peace; but when I speak, they are for war* (Ps 120:7). And elsewhere: *seek after peace and pursue it* (Ps 33:15).  
+> ^11:30^ For as you also in times past did not believe God, but now have obtained mercy, through their unbelief: [n. 930]
 
-**1011**. Then when he says, ***revenge not yourselves***, he shows that we should not do evil to our neighbor in vengeance.  
+> ^11:31^ So these also now have not believed, for your mercy, that they also may obtain mercy.
 
-First, he presents the teaching: ***revenge not yourselves, dearly beloved***, but as is said of Christ: *I gave my back to the smiters, and my cheeks to those who pulled out the beard* (Isa 50:6) and *like a sheep that before its shearers is dumb, so he opened not his mouth* (Isa 53:7). Hence, the Lord himself commanded: *if anyone strikes you on the right cheek, turn to him the other also* (Matt 5:39).  
+> ^11:32^ For God has concluded all in unbelief, that he may have mercy on all. [n. 932]
 
-But, as Augustine says, the things done by holy men in the New Testament are valid examples for understanding the commands given in Scripture. For the Lord himself, when he was struck on the cheek, did not say: *here is the other cheek*, but *if I have spoken ill, give testimony of the evil; but if well, why do you strike me*. This shows that one must be prepared in the heart to offer the other cheek. For the Lord was prepared not only to offer the other cheek for man’s salvation but his whole body to be crucified. And as Augustine says to Marcellinus, this commandment is rightly kept when it is believed that it will be profitable to him on whose account it is kept, to work in him correction and concord, even if another outcome follows. Thus, the precepts of patience are always to be held fast in preparation in the heart, and benevolence itself must always be completed in the will, lest evil be rendered for evil. These and many other things must be done in order to correct even the unwilling with a certain kind severity.  
+> **912**. After leading the gentiles to a knowledge of the divine judgments, in which God’s goodness and severity were manifested, the Apostle, acting as though they are still unable to consider these things, explains how they seem to him.
 
-**1012**. Second, he assigns the reason when he says: ***but give place unto wrath***, i.e., to divine judgment. As if to say: entrust yourself to God who can defend and vindicate you by his judgment, as it says in 1 Peter: *cast all your anxieties on him, for he cares about you* (1 Pet 5:7).  
+First, he presents the fact;  
 
-But this applies to cases in which no opportunity is left to us to do otherwise according to justice. But because, as it says in Deuteronomy: *judgment is the Lord’s* (Deut 1:17), when someone authorized by a judge seeks vengeance in order to repress malice and not because of hatred, or on the authority of his superior procures his own defense, he is understood to leave matters to the wrath of God, since magistrates are God’s ministers. Hence even Paul obtained a bodyguard against the plots of the Jews (Acts 23:12ff.).  
+second, he proves it, at ***as it is written***;  
 
-**1013**. Then when he says, ***as it is written***, he proves what he had said:  
+third, he gives the reason, at ***for as you also***.  
 
-first, by an authority;  
+**913**. In regard to the first he does three things.  
 
-second, by reason, at ***do not be overcome by evil***.  
+First, he states his intention, saying: I have urged you to consider the kindness and severity of God, ***for I would not have you ignorant, brethren, of this mystery***, for you cannot grasp all mysteries. Hence, this is a prerogative of the perfect to whom the Lord says: *to you it has been given to understand the mystery of God’s kingdom* (Luke 8:9); *I will not hide from you the mysteries of God* (Wis 6:24). But ignorance of this mystery would be very damaging to us: *but if any man know not, he shall not be known* (1 Cor 14:38).  
 
-**1014**. In regard to the first he does two things: first, he proves what he said about revenge being forbidden, saying: ***give place unto wrath***, i.e., to divine judgment, ***for it is written: vengeance is mine***, and ***I will repay, saith the Lord*** (Deut 32:35).  
+**914**. Second, he discloses the reason for his intention: ***lest you should be wise in your own conceits***, i.e., that you not presume on your own understanding to condemn others and prefer yourself to them: ***be not wise in your own conceits*** (Rom 12:16); *woe to those who are wise in their own eyes, and shrewd in their own sight* (Isa 5:21).  
 
-Our text has this: *vengeance is mine, and I will repay in due time*; *God the Lord of vengeance* (Ps 93:1); *the Lord is a jealous God, an avenger* (Nah 1:2).  
+**915**. Third, he states what he intended.  
 
-Second, he proves what he said about kindness to one’s enemies by an appeal to authority.  
+First, with respect to the fall of particular Jews, when he says: ***that blindness in part has happened in Israel***, not universally but upon a part: *blind the heart of this people* (Isa 6:10).  
 
-First, he presents the scriptural teaching that we help enemies who are in danger of death, because this binds by a necessity of precept, as stated earlier. And this is what it says: ***if your enemy is hungry, feed him; if he is thirsty, give him drink***: *do good to those who hate you* (Matt 5:44).  
+Second, he predicts the end of this blindness, saying: ***until the fullness of the gentiles should come in*** to the faith, i.e., not only some gentile nations as were then converted; but either in all or the greater part the Church would be established: *the earth is the Lord’s and all its fullness* (Ps 24:1).  
 
-Second, he assigns the reason, saying: ***for, doing this, you will heap coals of fire upon his head***. This can be given a sinister interpretation, so that the sense would be: if you do good to him, your good will turn out evil for him, because from it he will incur eternal fire by his ingratitude. But this sense is opposed to charity, against which a person would be acting, if he helped someone, so that the help would turn out evilly for him.  
+The gentiles converted to the faith are said to come in, as though from the exterior and visible things they venerated into spiritual things and the divine will: *come into his presence with singing* (Ps 100:2).  
 
-Therefore, it must be given a good sense, namely, ***doing this***, i.e., helping them in time of need, ***coals of fire***, i.e., the love of charity, of which Song of Songs says, *the lamps thereof are as lamps of fire and flame*; *you shall heap* (Song 8:6), i.e., gather together, ***upon his head***, i.e., on ***his*** mind. For, as Augustine says: *there is no greater incitement to love than to be the first to love. For the man is exceedingly hard who, though unwilling to bestow love, refuses to return love*.  
+**916**. It should be noted that the word ***until*** can signify the cause of the blindness of the Jews. For God permitted them to be blinded, in order that the full number of the gentiles come in.  
 
-**1015**. Then when he says, ***do not be overcome by evil***, he proves what he had said by reason.  
+It can also designate the termination, i.e., that the blindness of the Jews will last up to the time when the full number of the gentiles will come to the faith. With this agrees his next statement, namely, ***and then***, i.e., when the full number of the gentiles has come in, ***all Israel should be saved***, not some, as now, but universally all: *I will save them by the Lord their God* (Hos 1:7); *he will again have compassion upon us* (Mic 7:19).  
 
-For it is natural to man that he wish to overcome his adversary and not be overcome by him. But that is overcome by another which is drawn to that other, as water is overcome by fire, when it is drawn to the heat of fire. Therefore, if a good man, on account of the evil done him by another, is drawn to do evil in return, the good man is overcome by the evil. If, on the other hand, on account of a favor which the good man does for his persecutor, he draws the latter to his love, the good man overcomes the evil.  
+**917**. Then when he says, ***as it is written***, he proves what he had said about the future salvation of the Jews:  
 
-He says, therefore, ***do not be overcome by the evil*** of the one who persecutes you, so as to persecute him, ***but with*** your ***good overcome*** his ***evil***, so as to draw him from evil by doing good to him: *this is the victory which overcomes the world, our faith* (1 John 5:4); *they shall turn to you, but you shall not turn to them* (Jer 15:19).
+first, he proves this with an authority;  
+
+second, with a reason, at ***as concerning the Gospel***.  
+
+**918**. First, therefore, he says: I say that ***all Israel should be saved, as it is written***, where our text says: *a redeemer will come from Zion and this will be my covenant with them that return to Jacob says the Lord* (Isa 59:20). But the Apostle uses the Septuagint and touches on three things.  
+
+First, the coming of a Savior, when he says: ***there shall come he that shall deliver***, namely, God in human flesh to save us, ***out of Zion***, i.e., from the Jewish people who are signified by Zion, the citadel of Jerusalem, a city in Judea. Hence it says in Zechariah: *rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem! Lo, our king comes to you* (Zech 9:9), and in John: *salvation is from the Jews* (John 4:22).  
+
+Or he says that he comes from Zion, not because he was born there, but because his doctrine went from there into the whole world, inasmuch as the apostles received the Holy Spirit in the cenacle in Zion: *out of Zion shall go forth the law* (Isa 2:3).  
+
+**919**. Second, he touches on salvation by Christ offered to the Jews, saying: ***he who shall deliver and shall turn away ungodliness from Jacob***. This could refer to deliverance from punishment: *he will snatch my soul from death* (Ps 115:8). ***He shall turn away ungodliness from Jacob*** could refer to deliverance from guilt: *O that deliverance for Israel would come from Zion* (Ps 53:6).  
+
+Or both could refer to liberation from guilt, but he says ***he who shall deliver***, because of the few, who now are converted with great difficulty and with, so to speak, a certain violence: *as if a shepherd should get out of the lion’s mouth two legs, or the tip of the ear, so shall the children of Israel be taken out* (Amos 3:12). But he says ***he shall turn away ungodliness from Jacob*** to show the ease with which the Jews will be converted at the end of the world: *who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance?* (Mic 7:18).  
+
+**920**. Third, he shows the manner of salvation when he says: ***and this is to them my covenant***, a new one from me, ***when I shall take away their sins***. For the old covenant did not remove sins, because *it is impossible that the blood of bulls and goats should take away sins* (Heb 10:4). Therefore, because the Old Testament was imperfect, a New Testament is promised to them: *I will make a new covenant with the house of Israel and the house of Judah* (Jer 31:31) and it will have the power to remit sin through the blood of Christ: *this is my blood of the new covenant, which is poured out for many for the forgiveness of sins* (Matt 26:28); *he will cast all our sins into the depths of the sea* (Mic 7:19).  
+
+**921**. Then when he says, ***as concerning the Gospel***, he proves his statement with a reason:  
+
+first, he presents the proof;  
+
+second, he removes an objection, at ***for the gifts and the calling***.  
+
+**922**. First, therefore, he says that their sins will be taken away and that after they have sins, they are enemies of Christ. ***As concerning the Gospel, indeed***, which they resist, ***they are enemies for your sake***, i.e., it has turned out to your benefit. Hence, it says in Luke: *as for those enemies of mine, who did not want me to reign over them, bring them here and slay them before me* (Luke 19:27); and in John: *but now they have seen and hated both me and my Father* (John 15:24).  
+
+Or ***as concerning the Gospel*** means their enmity has helped the Gospel, which has been spread everywhere by reason of such enmity: *in the word of truth of the Gospel, which has come to you, as indeed in the whole world it is bearing fruit and growing* (Col 1:5).  
+
+**923**. But ***they are most dear*** to God ***for the sake of the forefathers***, and this ***as touching the election***, because he chose their descendants on account of their forefathers’ grace: *the Lord loved your fathers and chose their descendants after them* (Deut 10:15).  
+
+This does not mean that the merits established by the fathers were the cause of the eternal election of the descendants, but that God from all eternity chose the fathers and the sons in such a way that the children would obtain salvation on account of the fathers; not as though the merits of the fathers were sufficient for the salvation of the sons, but through an outpouring of divine grace and mercy, the sons would be saved on account of the promises made to the fathers.  
+
+Or it can mean ***as touching the election***, i.e., as regards those elected from that people, salvation was obtained. For if they are dear to God, it is reasonable that they be saved by God: *the eye has not seen, O God, besides you, what things you have prepared for them that wait for you* (Isa 64:4).  
+
+**924**. Then when he says, ***for the gifts and the calling***, he excludes an objection.  
+
+For someone might claim that even though the Jews were formerly beloved on account of their forefathers, nevertheless the hostility they exert against the Gospel prevents them from being saved in the future. But the Apostle asserts that this is false, saying: ***for the gifts and calling of God are without repentance***. As if to say: that God gives something to certain ones or calls certain ones is ***without repentance***, because God does not change his mind: *the triumpher in Israel will not spare, and will not be moved to repentance* (1 Sam 15:29); *the Lord has sworn and will not change his mind* (Ps 110:4).  
+
+**925**. However, this seems false, for the Lord says: *it repents me that I made man* (Gen 6:7) and *if that nation against which I have spoken shall repent of their evil, I also will repent of the evil that I thought to do to them* (Jer 18:8).  
+
+The answer is that just as God is said to grow angry, not because the emotion of anger is in him but because he is related to the effect of punishments after the manner of an angry man, so he is said to repent, not because the change involved in repentance is in him but because he changes what he had done after the manner of one who repents.  
+
+**926**. Nevertheless, it does seem that God’s gifts are not without repentance, because they are frequently lost, as in Matthew: *take the talent from him and give it to him that has ten talents* (Matt 25:28). Furthermore, God’s call seems to be changed sometimes, since it is written: *many are called but few are chosen* (Matt 22:14).  
+
+But it should be noted that ***gift*** is taken here for a promise made according to God’s foreknowledge or predestination, and ***calling*** is taken for election. Because both are so certain, whatever God promises is as good as given and whomever he elects is somehow already called. Such temporal gifts and callings are not voided by a change in God, as though he repented of them, but by a change in man who casts them off: *take heed lest anyone be wanting in the grace of God* (Heb 12:15).  
+
+**927**. This passage can also be taken to mean that God’s gifts which are bestowed in baptism, and the calling by which the baptized person is called, exist without the repentance of the baptized person. Furthermore, it was introduced to counteract any despair about the future salvation of the Jews, since they do not seem to repent of their sin.  
+
+But against this interpretation are the words of Peter: *repent and be baptized every one of you* (Acts 2:38).  
+
+This can be answered by recalling that repentance is of two kinds: interior and exterior. Interior repentance consists in the heart’s contrition by which one is sorry for past sins. Such repentance is required of the baptized, because, as Augustine says: *no one who is arbiter of his own will can begin the new life, unless he repents of the old life; otherwise, he would approach dissembling*.  
+
+But exterior repentance consists in making satisfaction outwardly, and this is not required of the baptized person, because by baptismal grace man is freed not only of guilt but of all penalty, in virtue of the passion of Christ who satisfied for the sins of all: ***all we who are baptized in Christ Jesus are baptized in his death*** (Rom 6:3); *by the washing of regeneration and renewal in the Holy Spirit which he poured out upon us richly* (Titus 3:5).  
+
+**928**. But since the keys of the Church and all the other sacraments work by the power of Christ’s passion, it seems that by the same reasoning all the other sacraments should liberate man from guilt and from all punishment.  
+
+But the answer is that Christ’s passion works in baptism in the manner of a generation, which requires that a man die completely to his former life to receive a new life. And because the debt of punishment belongs to the oldness of the former life, it is taken away in baptism. But in the other sacraments Christ’s passion works in the manner of a cleansing, as in the sacrament of penance. But a cleansing does not require that right away every remnant of weakness be taken away. And the same argument applies to the other sacraments.  
+
+**929**. But since the confession of sins is relevant for exterior repentance, one could ask whether confession of sins is required at baptism. And it seems that it is, because Matthew says that men were baptized by John, *confessing their sins* (Matt 3:6).  
+
+But the answer is that John’s baptism was a baptism of repentance, namely because by receiving that baptism they declared that they would undertake penance for their sins, and so it was fitting that they should confess so that penance could be meted out to them in accord with the nature of their sins. But Christ’s baptism is a baptism for the remission of all sins, such that the baptized person no longer owes any satisfaction for his past sins, and for this reason there is no need for vocal confession. The reason confession is necessary in the sacrament of penance is so that the priest can, by the power of the keys, fittingly loose or bind the penitent.  
+
+**930**. Then when he says, ***for as you also***, he gives the reason for the future salvation of the Jews after their unbelief.  
+
+First, he shows a similarity between the salvation of both people;  
+
+second, the cause of this similarity, at ***for God has concluded***.  
+
+**931**. First, therefore, he says: so I say that Israel will be saved, although they are now enemies. ***For as you also***, gentiles, ***in times past did not believe God***: *you were once without God in the world* (Eph 2:12); ***but now have obtained mercy***: ***the gentiles are to glorify God for his mercy*** (Rom 15:9); *I will have mercy on him who was without mercy* (Hos 2:23). And this was ***through their unbelief***, which was the occasion of your salvation, as was said above.  
+
+***So these also***, i.e., the Jews, ***now***, i.e., in the time of grace, ***have not believed***, namely, in Christ: *why do you not believe in me?* (John 8:46). And this is what he adds: ***for your mercy***, i.e., in Christ’s grace, by which you have obtained mercy: *you have saved us according to your mercy* (Titus 3:5). Or they ***have not believed*** so that they might enter into your mercy. Or they ***have not believed***, which turned out to be the occasion of the mercy shown to you, ***that they also*** at some time ***may obtain mercy***: *the Lord will have compassion on Jacob* (Isa 14:1).  
+
+**932**. Then, when he says ***for God has concluded***, he assigns the reason for this similarity, namely that God has willed to have mercy on all. And this is what he adds, ***for God has concluded***, i.e., permitted to be concluded, ***all***, i.e., every race of men, both Jews and gentiles, ***in unbelief***, as in a certain bond of error: *all were fettered with the bonds of darkness* (Wis 17:2). ***That he may have mercy on all***, i.e., that he may have mercy on every race of men: *but you have mercy upon all* (Wis 17:24). This does not extend to the demons in accord with the error of Origen, nor even to all men individually, but to every race of men. For the distribution is made according to races of individuals and not according to individuals of races. But God wills all to be saved by his mercy, so that they might be humbled by this and ascribe their salvation not to themselves but to God: *destruction is your own, O Israel: your help is only in me* (Hos 13:9); ***that every mouth may be stopped, and all the world may be made subject to God*** (Rom 3:19).  
+
+Lecture 5  
+
+***The incomprehensible wisdom of God***
+
+***^11:33^ O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! [n. 933]***
+
+> ^11:34^ For who has known the mind of the Lord? Or who has been his counsellor? [n. 938]
+
+> ^11:35^ Or who has first given to him, and recompense shall be made him? [n. 940]
+
+> ^11:36^ For from him, and through him, and in him, are all things: to him be glory for ever. Amen. [n. 942]
+
+> **933**. Above the Apostle endeavored to assign a reason for the divine judgments, by which gentiles and Jews obtain mercy after unbelief; now he recognizes his inadequacy for such an investigation and exclaims his admiration of the divine excellence.
+
+First, he extols the divine excellence;  
+
+second, he proves what he says, at ***for who has known***.  
+
+In regard to the first he does two things:  
+
+first, he extols the divine wisdom in itself;  
+
+second, in relation to us, at ***how incomprehensible***.  
+
+**934**. He extols the excellence of divine knowledge: first, as to its depth, saying: ***O the depth***: *it is a great depth. Who shall find it out?* (Eccl 7:25); *a glorious throne set on high from the beginning* (Jer 17:12).  
+
+This depth is considered in regard to three things: first, in regard to the thing known, inasmuch as God knows himself perfectly: *I dwell in the highest places* (Sir 24:7); second, in regard to the manner of knowing, inasmuch as he knows all things through himself: *the Lord looked down from his holy height, from heaven the Lord looked at the earth* (Ps 102:19); third, in regard to the certainty of his knowledge: *the eyes of the Lord are far brighter than the sun* (Sir 23:28).  
+
+**935**. Second, he extols the excellence of divine knowledge in regard to its fullness when he says: ***of the riches***. *Abundance of salvation, wisdom, and knowledge* (Isa 33:6).  
+
+This fullness is regarded in three ways: in one way as to the number of things known, because he knows all things: *Lord, you know all things* (John 21:17); *in him are hid all the treasures of wisdom and knowledge* (Col 2:3); in another way in regard to ease of knowing, because he intuits all things without search and difficulty: *all things are open and laid bare to his eyes* (Heb 4:13). Third, in regard to the abundance of his knowledge, because he gives it generously to everyone: *if anyone lacks wisdom, let him ask God who gives to all men generously* (Jas 1:5).  
+
+**936**. Third, he extols the divine excellence in regard to its perfection when he says, ***of the wisdom and of the knowledge of God***. For he has wisdom about divine things: *with him is strength and wisdom* (Job 12:16), and knowledge about created things: *who knows all things knows her* (Bar 3:32).  
+
+**937**. Then when he says, ***how incomprehensible***, he shows the excellence of divine wisdom as compared to our understanding.  
+
+And first in regard to wisdom, whose function is to judge and put things in order, he says: ***how incomprehensible are his judgments***, because man cannot comprehend the reason of God’s judgments, since they are hidden in his wisdom: *your judgments are like the great deep* (Ps 36:6); *perhaps you will comprehend the steps of God, and will find out the Almighty perfectly?* (Job 11:7).  
+
+Second, in regard to knowledge, through which he is at work in things; hence he adds: ***and how unsearchable***, i.e., not completely searchable by men, ***his ways***, i.e., his procedures, by which he works in creatures. Even though the creatures are known by man, the ways in which God works in them cannot be comprehended by man: *your way was through the sea, your paths through the great waters; yet their footprints were unseen* (Ps 77:19); *where is the way to the dwelling of light* (Job 38:19).  
+
+**938**. Then when he says, ***for who***, he proves what he had said by appealing to two authorities, one of which is in Isaiah: *for who has helped the spirit of the Lord, or who has been his counselor?* (Isa 40:13). And in place of this he says: ***for who has known the mind of the Lord? Or who has been his counselor?*** The other authority is from Job: *who has given me before that I should repay him?* (Job 41:2). And in place of this he says: ***or who has first given to him, and recompense shall be made him?***  
+
+In these words and those that follow them the Apostle does three things.  
+
+**939**. First, he shows the excellence of divine wisdom as compared to our understanding, saying: ***how incomprehensible are his judgments, and how unsearchable his ways! For who has known the mind of the Lord***, namely, through which he judges and acts. As if to say: no one, unless God reveals it: *who shall know your thought, except you give wisdom, and send your Holy Spirit from above* (Wis 9:17) and *the things of God no one knows but the Spirit of God. But to us God has revealed them through his Spirit* (1 Cor 2:10).  
+
+**940**. Second, he shows the excellence of divine wisdom according as it has height in itself, and indeed is that height which is the supreme principle. Two points pertain to this:  
+
+first, that it does not proceed from something else;  
+
+second, that other things proceed from it, at ***for from him***.  
+
+**941**. That God’s wisdom does not depend on a higher source is shown in two ways.  
+
+First, by the fact that it is not instructed by someone else’s teaching. Hence, he says: ***or who has been his counselor?*** As if to say: no one. For counsel is needed by one who does not fully know how something is to be done, and this does not apply to God: *to whom have you given counsel? Perhaps to him that has no wisdom* (Job 26:3). *Who has stood in the counsel of the Lord?* (Jer 23:18).  
+
+Second, by the fact that it is not helped by another’s gift. Hence he adds: ***or who has first given to him, and recompense shall be made him***, as one giving first? As if to say: no one. For man can give God only what he has received from God: *all this abundance comes from your hand and is all your own* (1 Chr 29:16); *if you do justly, what shall you give him, or what shall he receive of your hand?* (Job 35:7).  
+
+**942**. Then when he says, ***for from him***, he shows God’s depth, inasmuch as in him are all things.  
+
+First, he shows his causality;  
+
+second, his dignity, at ***to him be glory***;  
+
+third, his perpetuity, at ***for ever***.  
+
+**943**. First, therefore, he says: it is right to say that no one first gave to him, because ***from him, and through him, and in him, are all things***. Thus nothing can be unless received from God.  
+
+To designate God’s causality he uses three prepositions, namely, ***from***, ***through***, and ***in***.  
+
+But the preposition *from* denotes a principle of change; and this is in three ways. In one way the acting or moving principle; in another way the matter; in a third way the opposite contrary, which is the point of departure of the change.  
+
+For we say that the knife came to be *from* the knife maker, *from* the steel, and *from* the unshaped matter. But the universe of creatures was not made from preexisting matter, because even their matter is an effect of God. Accordingly, created things are not said to be from something but from its opposite, which is nothing; because they were nothing, before they were created to exist: *we are born of nothing* (Wis 2:2). But all things are from God as from their first maker: *all things are from God* (1 Cor 11:12).  
+
+**944**. It should be noted that another Latin word for *from* is *de*, which seems to suggest the same relationships; however, *de* always designates a consubstantial cause. For we say that the knife is from the iron, but not from the maker. Therefore, because the Son proceeds from the Father as consubstantial with him, we say that the Son is *from* the Father. But creatures do not proceed from God as consubstantial with him; hence, they are not said to be *from* him but *out from* him.  
+
+**945**. The preposition *through* designates the cause of an action; but because an action lies between the maker and the things he makes, there are two ways in which the preposition *through* can designate the cause of an action.  
+
+In one way according as the action comes from its performer, as something which is its own cause of acting is said to act through itself. In one way this is the form, as we say that fire acts through heat. In another way it is a higher agent, as we say that man begets man through the power of the sun or rather of God.  
+
+So, therefore, all things are said to be through him in two ways: In one way as through the first agent, by whose power all things act: *through me kings reign* (Prov 8:15). In another way, inasmuch as his wisdom, which is his essence, is the form through which God makes all things: *the Lord through wisdom founded the earth* (Prov 3:19).  
+
+**946**. In another way the preposition *through* designates the cause of an action, not as it comes from the performer but as terminated in its products, as we say that the artisan makes a knife through a hammer: not that the hammer works with the artisan in the way described above, but because the knife comes to be from the activity of the artisan by means of the hammer. Therefore, it is said that this preposition, *through*, designates authority directly, as when we say that the king acts through his bailiff—which pertains to what is now being said. But sometimes in a causal sense, as when we say that the bailiff acts through the king—which pertains to the preceding mode.  
+
+In this mode about which we are now speaking, all things are said to have been made by the Father through the Son, as in John: *all things were made through him* (John 1:3), not that the Father has from the Son the power to make things, but rather that the Son accepts the power of making things from the Father, a power not instrumental but principal, not of a lower order but equal, not diverse but the same: *whatever the Father does, that the Son does likewise* (John 5:19).  
+
+Hence, although all things were made by the Father through the Son, the Son is not an instrument or minister of the Father.  
+
+**947**. The preposition *in* also designates a causal relationship in three ways: in one way it designates matter, as we say that the soul is in the body or a form in matter. This is not the way in which things are said to be in God, because he is not the material cause of things.  
+
+In another way it designates a relationship of efficient cause, in whose power it lies to dispose of its effects. In this sense all things are said to be in him, inasmuch as all things lie under his power and arrangement: *in his hand are all the ends of the earth* (Ps 95:4); *in him we live and move and have our being* (Acts 17:28).  
+
+In a third way it designates a relationship of final cause, in that the entire good of a thing and its preservation consists in its own optimum. In this sense all things are said to be in God as in the goodness preserving them. *All things hold together in him* (Col 1:17).  
+
+**948**. When he says, ***all things***, it is to be taken absolutely for all things which have true being. Sins do not have true being, but insofar as they are sins they lack some being, due to the fact that evil is nothing else than a deprivation of good.  
+
+Therefore, when he says, ***from him, and through him, and in him are all things***, this does not include sin, because, according to Augustine, *sin is nothing and man accomplishes nothing when he sins*. Yet, whatever entity is present in sin, it is from God.  
+
+**949**. Therefore, according to the foregoing, all things are ***from him***, i.e., God as from the first operating power. All things are ***through***  
+ ***him***, inasmuch as he makes all things through his wisdom. All things are ***in him*** as in their preserving goodness.  
+
+Now these three things, namely, power, wisdom, and goodness are common to the three persons. Hence, the statement that ***from him, and through him, and in him*** can be applied to each of the three persons. Nevertheless, the power, which involves the notion of principle, is appropriated to the Father, who is the principle of the entire Godhead; wisdom to the Son, who proceeds as Word, which is nothing else than wisdom begotten; goodness is appropriated to the Holy Spirit, who proceeds as love, whose object is goodness.  
+
+Therefore, by appropriation we can say: ***from him***, namely, from the Father, ***through him***, namely, through the Son, ***in him***, namely, in the Holy Spirit, are all things.  
+
+**950**. Then when he says, ***to him be honor and glory for ever***, he shows God’s dignity, which consists in the two things previously mentioned. For from the fact that ***all things are from him and through him and in him***, honor and reverence and subjection are owed him by every creature: *if I am a father, where is my honor?* (Mal 1:6). But from the fact that he has not received either counsel or gifts from anyone, glory is owed him; just as on the contrary it is said of man: *if then you received it, why do you boast as though it were not a gift?* (1 Cor 4:7). And because this is proper to God, it is said: *I am the Lord; my glory I give to no other* (Isa 42:8).  
+
+**951**. Finally, he mentions his eternity when he says: ***forever***, because his glory does not pass as does man’s glory, of which it is said: *all his glory is like the flower of the field* (Isa 40:6). But God’s glory lasts for all ages, i.e., through all the ages succeeding all ages, inasmuch as the duration of any given thing is called an age.  
+
+Or ***for ever*** refers to the durations of incorruptible things, which contain the ages of corruptible things. This applies especially to God’s eternity, which can be spoken of as a plurality because of the multitude and diversity of things contained in it, even though it is one and simple in itself. The meaning would then be *unto the ages that contain the ages*: *your reign is a reign of all ages* (Ps 144:13).  
+
+**952**. He adds: ***amen***, as confirmation. As if to say: truly it is so. This is the meaning in the gospels when it says: *amen, I say to you*. Sometimes, however, it means: may it come to pass.  
+
+Thus in Jerome’s Psalter it says: *all the people will say: amen, amen*, where our text has *may it come to pass! May it come to pass!*

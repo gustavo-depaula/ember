@@ -31,70 +31,56 @@
   ],
   "toc": [
     {
-      "id": "officesas-01",
-      "title": {
-        "en-US": "OfficeSAS",
-        "la": "OfficeSAS"
-      }
-    },
-    {
-      "id": "officesas-s1",
-      "title": {
-        "en-US": "OfficeSAS.S1",
-        "la": "OfficeSAS.S1"
-      }
-    },
-    {
-      "id": "officesas-first-vespers",
+      "id": "officesas-c01",
       "title": {
         "en-US": "First Vespers",
         "la": "First Vespers"
       }
     },
     {
-      "id": "officesas-matins",
+      "id": "officesas-c02",
       "title": {
         "en-US": "Matins",
         "la": "Matins"
       }
     },
     {
-      "id": "officesas-lauds",
+      "id": "officesas-c03",
       "title": {
         "en-US": "Lauds",
         "la": "Lauds"
       }
     },
     {
-      "id": "officesas-prime",
+      "id": "officesas-c04",
       "title": {
         "en-US": "Prime",
         "la": "Prime"
       }
     },
     {
-      "id": "officesas-terce",
+      "id": "officesas-c05",
       "title": {
         "en-US": "Terce",
         "la": "Terce"
       }
     },
     {
-      "id": "officesas-sext",
+      "id": "officesas-c06",
       "title": {
         "en-US": "Sext",
         "la": "Sext"
       }
     },
     {
-      "id": "officesas-none",
+      "id": "officesas-c07",
       "title": {
         "en-US": "None",
         "la": "None"
       }
     },
     {
-      "id": "officesas-second-vespers",
+      "id": "officesas-c08",
       "title": {
         "en-US": "Second Vespers",
         "la": "Second Vespers"

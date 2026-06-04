@@ -1,221 +1,291 @@
-# C. 25 - Threat against princes of all nations
+# C. 23 - Condemnation of false prophets
 
 ***Lecture 1***
 
-***Obstinate deafness***
+***Woe to evil shepherds***
 
-***^25:1^ The word which came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim, the son of Josiah, king of Judah (that is, the first year of Nebuchadnezzar, king of Babylon).***
+***^23:1^ Woe to the shepherds who scatter and tear in piecesHeb. וּמְפִצִ֛ים: *and scatter*. the flock of my pasture! says the Lord.***
 
-> ^25:2^ And Jeremiah the prophet spoke to the entire people of Judah, and to all the inhabitants of Jerusalem, saying:
+> ^23:2a^ Therefore, thus says the Lord, God of Israel to the shepherds who shepherd my people: you have scattered my flock and have driven them away, and have not visited them.
 
-> ^25:3^ from the thirteenth year of Josiah, son of Amon, king of Judah, until this day, the twenty-third year, the word of the Lord has come to me, and I have spoken to you, rising at night, and speaking to you, and you have not listened.
+> **119**. Here, he speaks of the threat against all the princes in general:
 
-> ^25:4^ And the Lord sent to you all his servants the prophets, rising early, and sending them; and you have not listened, neither have you inclined your ear that you might hear,
+first, the threat against the wicked princes;  
 
-> ^25:5^ when he said: return each one from his evil way, and from your wicked thoughts, and you shall dwell in the land which the Lord gave to you and to your fathers, from generation to generation.
+second, the separation of the good from the bad, at ***the Lord showed me*** (Jer 24:1).  
 
-> ^25:6^ And do not go after strange gods to serve them, and to worship them; neither provoke me to anger by the works of your hands, and I shall not afflict you.
+The first is divided into two parts.  
 
-> ^25:7^ And you did not listen to me, says the Lord, to provoke me to anger by the works of your hands, in your wickedness.
+First, he speaks of the threat against the preeminent among the people according to their authority in governing—namely, the rulers;  
 
-> **129**. Here, he gives the universal threat against the princes of all the nations, and it is divided into two parts.
-
-In the first, he speaks of the threat;  
-
-in the second, the revelation of the threat, at ***for thus says the Lord*** (Jer 25:15).  
+second, against the preeminent among the people according to the privilege of divine revelation—namely, the prophets—at, ***concerning the prophets: my heart is broken within me*** (Jer 23:9).  
 
 Concerning the first, there are two points.  
 
-First, he gives the title of the prophecy: ***the word which came to Jeremiah***, from which it is gathered that the prophecy comes before the preceding vision with regard to time.  
+First, he makes clear their fault;  
 
-Second, the prophecy of the threat, at ***from the thirteenth year of Josiah*** (Jer 25:3).  
+second, he threatens punishment, at ***behold, I shall visit upon you*** (Jer 23:2b).  
 
-First, the cause of the threatening;  
+Concerning the first, there are two points.  
 
-second, he threatens a punishment, at ***therefore, thus says the Lord of hosts*** (Jer 25:8).  
+First, the dispersion of the people: ***the shepherds who scatter***, by driving them from their land; ***and tear in pieces***, by killing or despoiling; or because of the tyranny they exercise over them; or because they were the occasion that the people should suffer these things from the enemy: while they were living in their sins, they did not call the people back from sin. As it says below: ***my people have been a lost flock; their shepherds led them astray, and have made them wander in the mountains*** (Jer 50:6).  
 
-But he attributes the cause from disobedience, for which reason they are numbered together with the other nations in punishment. Their disobedience is made worse in three ways.  
-
-First, from the perspective of the preaching prophet himself, because he was steadfast in his preaching: ***from the thirteenth year of Josiah***, from which point to the end of his life and reign, are eighteen years, since he reigned thirty-one years. To these are added the four years of Jehoiakim, and the three months which Jotham [Jehoahaz] reigned. It is found to be the twenty-third year of Jeremiah’s preaching from the time these things were done. ***Rising at night***, after the manner of one who is solicitous to finish some task. *Run, make haste, rouse your friend* (Prov 6:3).  
-
-Second, from the perspective of the one who sends, who, from the number of messengers, is known to be solicitous: ***and the Lord sent***. As it says above: ***I sent all my servants the prophets to you daily, rising early and sending them: but they did not listen to me*** (Jer 7:25–26). Now, to designate clearly the divine solicitude, he uses the word ***early***, and also the word ***night***, for God shines in the darkness. This is that darkness concerning which it is said in John 3, that Nicodemus came to Jesus at night; etc.  
-
-Third, from the perspective of the warning, which is honorable in itself and useful with regard to the promised favor.  
-
-From here, he first sets forth the punishment for their past evils when he gives the command: ***return each one from his evil way***. *Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he shall have mercy upon him, and to our God, for he is bountiful to forgive* (Isa 55:7). And the promise: ***and you shall dwell in the land***. *If you are willing, and will listen to me, you shall eat the good things of the land* (Isa 1:19).  
-
-Second, he cautions them against future evils when he gives the command: ***do not go after strange gods***, with regard to idolatry; ***neither provoke me to anger***, with regard to sins of morality. *You shall not have other gods before me* (Exod 20:3).  
-
-And their contempt for the command: ***and you did not listen***. *They provoked me by that which was no god, and they incited me with their vanities* (Deut 32:16).  
+Second, the rebuke of the shepherds: ***therefore, thus says the Lord: you have driven them away***, as occasions arise; or because of tyranny. *With your horns you toss all the weak cattle until they are scattered abroad* (Ezek 34:21).  
 
 Lecture 2  
 
-***Babylonian captivity***
+***Promise of salvation***
 
-***^25:8^ Therefore, thus says the Lord of hosts: because you did not listen to my words,***
+***^23:2b^ Behold, I shall visit upon you the wickedness of your deeds, says the Lord.***
 
-> ^25:9^ behold, I shall send, and take all the families of the north, says the Lord, and Nebuchadnezzar, king of Babylon, my servant, and bring them upon this land, and upon its inhabitants, and upon all the nations which are round about it; and I shall slay them, and I shall make them an astonishment and a hissing, and eternal desolations.
+> ^23:3^ And I shall gather the remnants of my flock from all the lands to which I have driven them; and I shall bring them back to their own fields,Heb. נְוֵהֶ֖ן: *sheepfolds*. and they shall increase, and be multiplied.
 
-> ^25:10^ And I shall destroy from out of them the voice of joy and the voice of gladness, the voice of the groom and the voice of the bride, the sound of the millstone and the light of the lamp.
+> ^23:4^ And I shall raise up shepherds over them, and they shall pasture them, and they shall not fear anymore, neither shall they be afraid, and none shall be lacking of their number, says the Lord.
 
-> ^25:11^ And this whole land shall be a desolation and an astonishment; and all the nations shall serve this king of Babylon for seventy years.
+> ^23:5^ Behold, the days are coming, says the Lord, when I shall raise up from David a righteous shoot, and he shall reign as king, and will be wise, and he will execute judgment and righteousness in the land.
 
-> ^25:12^ And when the seventy years shall be accomplished, I shall visit upon the king of Babylon and upon that people, says the Lord, their iniquity, and upon the land of the Chaldeans, and I shall make it an eternal desolation.
+> ^23:6^ In those days Judah will be saved, and Israel shall dwell confidently; and this is the name which they shall call him: the Lord our just one.Heb. יְהוָה צִדְקֵנוּ: *the Lord our righteousness*.
 
-> ^25:13^ And I shall bring upon that land all my words which I have spoken against it, everything that is written in this book, and whatsoever Jeremiah has prophesied against all nations.
+> **120**. Here he threatens punishment.
 
-> ^25:14^ Because they served them when they were many nations and great kings; and I shall repay them according to their deeds and according to the work of their hands.
+First, he mentions the threat against the shepherds: ***I shall visit***. As it says above: ***I shall visit upon you according to the fruit of your doings*** (Jer 21:14).  
 
-> **130**. Here, he threatens punishment:
+Second, he mentions the consolation of the scattered flock: ***I shall gather***, where first, he speaks of gathering. *I shall lead them out from the peoples, and gather them from the lands* (Ezek 34:13). And the prosperity of their state: ***and I shall bring them back to their own fields, and they shall increase, and be multiplied***. *Increase and multiply, and fill the earth* (Gen 1:22).  
 
-first, that which the Babylonians inflicted when he describes the enemy: ***behold, I shall send, and take . . . my servant***, inasmuch as he exercised a service of the divine will. As it says above: ***behold, a people are coming from the land of the north, and a great nation shall arise from the ends of the earth*** (Jer 6:22). And he describes the imminent punishment with regard to the slaughter of men: ***and I shall slay them, and I shall make them an astonishment and a hissing, and eternal desolations***. Because they shall never be restored, but shall be reduced, as it were, to the likeness of an eternal desolation. As it says above: ***I shall make this city an astonishment and a hissing; all who pass by her will be astonished, and will hiss because of all her plagues*** (Jer 19:8).  
+Second, he promises them an improvement of their rulers.  
 
-And with regard to the cessation of human duties in joyful occasions: ***and I shall destroy***; and in the conveniences of life: ***the sound of the millstone***, as above: ***I will take from this place, in your eyes, and in your days, the voice of joy, and the voice of gladness, the voice of the bridegroom and the voice of the bride*** (Jer 16:9).  
+First, he promises them solicitous princes when he speaks of the solicitude of their shepherds: ***and I shall raise up***, when you have already fallen into nothingness, ***shepherds***, Ezra and others according to some. But better, the apostles. As it says above: ***I will give you shepherds after my own heart, and they will feed you with knowledge and understanding*** (Jer 3:15). And the usefulness of solicitude, namely, security: ***and they shall not fear***, with regard to the signs of fear externally, ***neither shall they be afraid***, internally, ***and none shall be lacking of their number***; it is as though he were saying, “None from the number of the Church shall fear or fail because of the negligence of the apostles.”  
 
-And when he describes even harsher punishment: ***and all the nations shall serve for seventy years***, for the kingdom of the Chaldeans lasted this long. *I shall not be angry forever, because a spirit shall go forth from my face* (Isa 57:16).  
+Alternatively, it refers to the number of the predestined. *None of them is lost, except the son of perdition* (John 17:12). This security, however, is not brought to completion in this life, but will be brought to completion when *perfect charity casts out fear* (1 John 4:18). It will be accomplished in the future.  
 
-Second, he gives the punishment which the Chaldeans endured: ***and when the seventy years shall be accomplished***.  
+Second, he promises them a most excellent king, showing the fittingness of the time: ***behold***, because of the certainty, ***the days*** of grace. *Behold, now is the acceptable time; behold, now is the day of salvation* (2 Cor 6:2).  
 
-First, he gives the threat: ***I shall visit***. *He that shall lead into captivity shall go into captivity; he that shall kill by the sword must be killed by the sword* (Rev 13:10).  
+He shows the nature of the king who is to come, with regard to the nobility of his line: ***I shall raise up from David a righteous shoot***. As it says below: ***I will make to spring forth for David the shoot of justice, and he shall execute judgment and justice in the earth*** (Jer 33:15). With regard to the authority of his dignity: ***and he shall reign as king***, not only over the Jews, but also over all kings. *And he shall rule over the house of Jacob forever* (Luke 1:33). *Whose kingdom is an everlasting kingdom, and all kings shall serve, and obey him* (Dan 7:27). With regard to the wisdom of the heart: ***and he will be wise***—indeed, wisdom itself. *Christ the power of God, and the wisdom of God* (1 Cor 1:24). And with regard to the execution of justice: ***and he will execute judgment***, in his first coming, against the devil, who was called the prince of the world: *now is the judgment of the world, now is the prince of this world cast out* (John 12:31), into the outer darkness; and in his second coming, against all, by punishing them by a general sentence. *The Father does not judge anyone, but has given all judgment to the Son* (John 5:22).  
 
-Second, the certainty of the threat: ***and I shall bring upon that land all I have spoken against it***: Isaiah 13, 21, 46, and 47. ***Jeremiah prophesied***: 50 and 51 below.  
-
-***Because they served***; nevertheless, in their pride they abused the kindness of God.  
-
-Third, he shows the equity of the punishment: ***and I shall repay them***. *Give them according to the work of their hands, render to them their reward, for they have not understood the works of the Lord; and with the works of their hands destroy them, and do not build them up* (Ps 27:4–5).  
+***And righteousness***, which he taught was to be observed: *unless your righteousness surpasses that of the scribes and pharisees you shall not enter into the kingdom of the heavens* (Matt 5:20); and which was for completing the assistance of grace. For this reason, he speaks of the usefulness of his coming, with regard to salvation from punishment: ***in those days Judah will be saved***—in his first coming particularly, and in his second coming universally, when all Israel shall be saved (Rom 11:26). *If the number of the children of Israel were as the sand of the sea, a remnant of them shall be converted* (Isa 10:22). And with regard to security: ***and Israel shall dwell confidently***. And this is to be expounded as above. *My people shall dwell in the beauty of peace, in the tabernacles of justice, and in abundant rest* (Isa 32:18). He says, ***Judah***, with regard to the two tribes; ***Israel***, with regard to the ten, to signify that in the faith of Christ they shall be at peace. *And they shall appoint for themselves one head* (Hos 1:11).  
 
 Lecture 3  
 
-***The cup of the wine of fury***
+***Joy after liberation***
 
-***^25:15^ For thus says the Lord of hosts, the God of Israel: take the cup of the wine of this fury from my hand, and you shall give it, to drink thereof, to all the nations to which I shall send you.***
+***^23:7^ Because of this, behold, the days are coming says the Lord, when they shall no longer say, ‘As the Lord lives, who brought the children of Israel out of Egypt’;***
 
-> ^25:16^ And they shall drink and be troubled and driven mad before the sword which I shall send among them.
+> ^23:8^ but, ‘As the Lord lives, who brought the seed of the house of Israel out of the land of the north, and from all the lands to which I shall scatter them.’ And they shall dwell in their own land.
 
-> ^25:17^ And I took the cup from the hand of the Lord, and gave it to all the nations to which the Lord sent me,
-
-> ^25:18^ to Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, that I should make them a desolation, and an astonishment, and a hissing, and a curse, as it is this day,
-
-> ^25:19^ to Pharaoh, king of Egypt, and to his servants, and to his princes, and to all his people;
-
-> ^25:20^ and to everyone generally, and to all the kings of the land of Ausitis; to all the kings of the land of the Philistines, and to Ashkelon, and to Gaza, and to Ekron, and to the remnant of Ashdod;
-
-> ^25:21^ and to Edom, and Moab, and the sons of Ammon;
-
-> ^25:22^ and to all the kings of Tyre, and to all the kings of Sidon, to the kings of the land of the islands, which are across the sea;
-
-> ^25:23^ and to Dedan, and Thema, and Buz, and to all who are of shaved heads;
-
-> ^25:24^ and to all the kings of Arabia, and to all the kings of the west, who dwell in the desert;
-
-> ^25:25^ and to all the kings of Zimri, and to all the kings of Elam, and to all the kings of the Medes;
-
-> ^25:26^ and to all the kings of the north, from near, and from far, to each one against his brother; and to all the kingdoms of the earth which are upon the face thereof; and king Sheshach shall drink after them.
-
-> **131**. Here, revelation of the predicted threat is made through a vision of images.
-
-First, he gives the vision.  
-
-Second, he expounds it, at ***and you shall prophecy to them all these words*** (Jer 25:30).  
-
-Concerning the first, there are two points.  
-
-First, he sends him to offer them the drink;  
-
-second, they, to whom he offered, are invited to drink, at ***and you shall say to them*** (Jer 25:27).  
-
-Concerning the first, there are two points.  
-
-First, the Lord stretches out the cup, according to what appeared to him in a vision of images: ***take the cup of wine***. It seemed to him that the Lord offered him the cup with an outstretched hand. By the ***wine*** is signified the divine indignation; by the ***cup***, the power of the tyrants, through whom this indignation was to be poured out upon the nations. ***You shall give it, to drink thereof***, not as though inflicting a punishment, but as though denouncing them. *In the hand of the Lord there is a cup of strong wine, and full of mixture* (Ps 74:9). As below: ***Babylon has been a golden cup in the hand of the Lord, making the whole earth drunk; all nations have drunk of her wine, therefore have they staggered*** (Jer 51:7).  
-
-Second, he speaks of the effect of the drinking: ***and they shall drink***, by enduring affliction; ***and be troubled***, with an inner fear and suffering; ***and driven mad***, outwardly, fighting with one another after the manner of drunk men. *And bitter shall be the drink to those who drink it* (Isa 24:9).  
-
-Third, the prophet carries out the duty enjoined upon him: ***and I took***.  
-
-First, he gives the drink to the Jews: ***to Jerusalem***. *Begin from my sanctuary* (Ezek 9:6). *It is time that judgment should begin from the house of God* (1 Pet 4:17).  
-
-Second, to friends coming from abroad, beginning with the Egyptians, in whom they had trusted: ***to pharaoh . . . of Ausitis*** (Jer 25:19–20), which by another name is called the land of Uz, in the boundaries of Edom and Arabia; ***and the remnant*** (Jer 25:20)—he says this regarding Gath, which is the fifth city of the Philistines; ***and to all the kingdoms*** (Jer 25:26). *This is the counsel which I have devised concerning the whole earth, and this is the hand stretched forth upon all nations* (Isa 14:26).  
-
-Third, to the Babylonians themselves: ***and king Sheshach***, that is, of Babylonia, which in Hebrew is called Babel. For this reason, in order to hide the name, he transposed the vowels, and changed the consonants joined to them, according to the custom of the Hebrews, who teach their children to say the first letter with the last, going backwards, and the second with the penultimate, and so on. For this reason, for a double *beth*, which is the second letter among the Hebrews, he put a *shin*, twice, which is the penultimate letter. And for the *lamed*, he put a *kaf*, which is joined to it according to the first reckoning. *The last enemy who will be destroyed is death* (1 Cor 15:26).The substitution procedure described here is called the Atbash cipher. Cf. Jeremiah 51:41, where Shishak and Babylon are equated. This cipher occurs here and in Jeremiah 51:4, where *leb kamai* is code for Chaldea.  
+> **121**. Here, he shows the magnitude of the kindness from the fact that because of this kindness, God’s former kindness shall be forgotten; it is possible for one to refer this to the liberation wrought by Cyrus, but better would be to refer it to the liberation won by Christ. *You shall not remember the former things, nor look upon the things of old* (Isa 43:18).
 
 Lecture 4  
 
-***Drink and be drunk***
+***Threat against the prophets***
 
-***^25:27^ And you shall say to them: thus says the Lord of hosts, the God of Israel: drink, and be drunken, and vomit, and fall, and do not rise from before the sword which I shall send among you.***
+***^23:9^ Concerning the prophets: my heart is broken within me; all my bones are shaken; I have become like a drunk man, and like a man sodden with wine, from the face of the Lord, and from the face of his holy words.***
 
-> ^25:28^ And when they will not receive the cup from your hand to drink, you shall say to them: thus says the Lord of hosts: you shall surely drink:
+> ^23:10^ For the land is filled with adulterers; for the earth mourned because of the curse, the pastures of the wilderness are dried up: and their course has become evil, and their strength unequal.
 
-> ^25:29^ For behold, in the city wherein my name is invoked I shall begin to afflict, and shall you be as though innocent and exempt? You shall not be exempt, for I call the sword upon all the inhabitants of the earth, says the Lord of hosts.
+> **122**. Here, he speaks of the threat against the prophets, as the title itself declares:
 
-> **132**. Here, they are invited to drink; and concerning this, there are three points.
+first, the threat against the prophets;  
 
-First, the invitation is given: ***drink***, by enduring punishments; ***be drunken***, because of abundance, as though losing the use of reason, so that you do not know what you do; ***vomit***, lose your riches; ***fall***, into death and captivity. And he is speaking using a metaphor of a drunk man. *The riches which he devoured he shall vomit out, and from his stomach God shall draw them* (Job 20:15). *Be astonished and wonder, waver and stagger, be drunk and not from wine, be moved and not from drunkenness* (Isa 29:9).  
-
-Second, the coercion is given: ***and when they will not . . . you shall surely drink***, that is, willing or unwilling. *If anyone worship the beast and his image, and receive his mark on his forehead or on his hand, he shall drink of the wine of the wrath of God, which is mixed with pure wine in the cup of his wrath* (Rev 14:9–10).  
-
-Third, the reason for the coercion is assigned:  
-
-first, by an example: ***for behold, in the city***, Jerusalem. *And if at first with us, what shall be the end of them that believe not the Gospel of God?* (1 Pet 4:17). As it says below: ***behold, they, whose judgment was not to drink of the cup, shall certainly drink; and shall you be left as though innocent? You shall not be innocent, but you shall surely drink*** (Jer 49:12).  
-
-Second, from the decree of the Lord. ***The sword***, which is the same as the drink. *I shall draw my sword from its sheath, and shall slay in your midst the just and the wicked* (Ezek 21:3).  
-
-Lecture 5  
-
-***The roaring of the Lord***
-
-***^25:30^ And you shall prophesy to them all these words, and you shall say to them: the Lord shall roar from on high, and from his holy habitation he shall give forth his voice; he shall surely roar upon the place of his beauty; and the shout*Celeuma* or *celeusma*: originally, a command or call given by the chief oarsman, which gave the time to the rowers. of those that tread grapes shall be given out against all the inhabitants of the earth.***
-
-> ^25:31^ The sound shall reach to the ends of the earth, for the Lord enters into judgment with the nations; he enters into judgment with all flesh. The wicked I have given over to the sword, says the Lord.
-
-> ^25:32^ Thus says the Lord of hosts: behold, affliction shall go forth from nation to nation, and a great whirlwind shall go forth from the heights of the earth.
-
-> ^25:33^ And there shall be slain of the Lord on that day, from the heights of the earth to the depths thereof; and they shall not be mourned, and they shall not be gathered together, neither shall they be buried; they shall lie as dung upon the face of the earth.
-
-> **133**. Here, he gives the exposition of the vision:
-
-first, against the nations;  
-
-second, against the princes of the nations, at ***wail, O shepherds*** (Jer 25:34).  
+second, the threat against the visions of the prophets, at ***therefore, if this people shall ask you*** (Jer 23:33).  
 
 Concerning the first, there are two points.  
 
-First, the threatening, when he speaks of the divine indignation: ***the Lord from on high***, that is, from the height of his justice; ***he shall roar***, terribly, like an angry lion. *The lion shall roar; who shall not fear?* (Amos 3:8). The universality of the punishment: ***upon the place of his beauty***, that is, the temple; it is as though he were saying, “His wrath shall begin from the temple, and it shall proceed to the whole earth.” ***And the shout of those that tread grapes***, the song of the vintners, by which is signified the joy of the victors in the pillaging of the lands, which are signified by the treaders of grapes, because they shed the blood of men, as the former spill the blood of grapes. For this reason, it is written in Isaiah 63:3, *I have trampled the wine press alone, and from the nations, there was no man with me. I have trampled them in my fury, and tread upon them in my wrath; and their blood is sprinkled on my vesture, and I have soiled all my garments*. As it says below: ***in vain will the treader of the grape sing his accustomed song*** (Jer 48:33).  
+First, he speaks of the deception of the prophets;  
 
-And he sets forth the equity of the punishment when he speaks of the judgment: ***the Lord enters into judgment with the nations***. *The judgment of the Lord with his people and with Israel shall be determined* (Mic 6:2). And the manner of judgment: ***the wicked I have given over***. *Because if you should provoke me to anger, the sword shall devour you, because the mouth of the Lord has spoken it* (Isa 1:20).  
+second, of the variety of their deceptions, at ***thus says the Lord*** (Jer 23:16).  
 
-Second, he outlines the progression of the punishment and its order: ***thus says the Lord***.  
+Concerning the first, there are two points.  
 
-First, he gives the progression: ***behold, affliction shall go forth***, because one nation shall attack another, and it will itself be attacked by another, and so on; ***from the heights***, from the most powerful, such as the Chaldeans, the Greeks, etc. *The kingdom is transferred from nation to nation because of injustices and wrongs, injuries, and diverse deceits* (Sir 10:8). As it says below: ***behold, the whirlwind of the Lord, his fury going forth, a rushing storm; it shall rest upon the head of the wicked*** (Jer 30:23).  
+First, the effect of the deception on the people;  
 
-Second, he gives the effect of the tribulation, because they shall be deprived of life: ***and there shall be slain of the Lord***, that is, by the Lord. As it says above: ***the sword of the Lord shall devour from one end of the earth to the other*** (Jer 12:12). And they shall lack burial: ***and they shall not be mourned, and they shall not be gathered together, neither shall they be buried***. The same is said above (Jer 16:4).  
+second, the sin of the deceiving prophets, at ***for the prophet and the priest are defiled*** (Jer 23:11).  
+
+Concerning the first, there are two points.  
+
+First, the compassion of the prophet concerning the future destruction, which he reveals by the breaking of his heart: ***my heart is broken***;The words here translated as “destruction” and “breaking” share the same root verb, *contrero*, which can signify “to grind,” “to break,” “to crumble,” “to destroy,” etc. by the trembling of his body: ***all my bones are shaken***, as regularly happens to those who are troubled; by the hindering of his thinking: ***I have become like a drunk man***, who does not have the use of his reason; and this, because of the magnitude of his shock: ***like a man sodden with wine***, who certainly has the use of his reason, but it is impeded by much drinking; ***from the face of the Lord***, from the presence of his revelation, which tells me he is angry with the Jews; ***his holy words***, by which he informed me of their guilt, and predicted punishment. *All my bones are scattered, my heart within me has become as melting wax in the midst of my bowels* (Ps 21:15). *Be astonished and wonder, waver and stagger, be drunk and not from wine, be moved and not from drunkenness* (Isa 29:9).  
+
+Second, he speaks of the dissipation of the people:  
+
+first, with regard to the magnitude of their sin: ***for with adulterers***, namely, with idolatry and other sins, ***the land*** of the Jews ***is filled***. *His land is filled with idols* (Isa 2:8).  
+
+Second, with regard to the infliction of the punishment: ***because of the curse***, of God, ***the earth mourned***, was made barren. *The land mourned, and faded away, and was made weak* (Isa 24:4).  
+
+Third, regarding their obstinacy: ***and their course has become evil***, because they are prepared for evil on account of their sins. *Their feet run to evil* (Prov 1:16). ***Unequal***, to the strength of their holy fathers, who would exercise themselves in the service of God. *The heart of the fool shall be unequal* (Prov 15:7).  
+
+Lecture 5  
+
+***Defilement of the prophets***
+
+***^23:11^ For the prophet and the priest are defiled, and I find their evil in my house, says the Lord.***
+
+> ^23:12^ Therefore, their way shall be as a slippery place in the darkness; they shall be thrust out, and fall in it; for I shall bring evil upon them, the year of their visitation, says the Lord.
+
+> ^23:13^ And in the prophets of Samaria I have seen foolishness; they prophesied by Baal, and they deceived my people Israel.
+
+> ^23:14^ And in the prophets of Jerusalem I have seen the likeness of adulterers,Jerome’s Hebrew text appears to differ here from the Masoretic, in that it has a *tav* in place of the final *heh* of *sha’arurah*, שַעֲרוּרָת נָאֹוף. This slight variation, possibly a scribal error, effectively joins the two words, by putting *sha’arurah* in the construct state, making the phrase mean, *the horrible thing of committing adultery*. Such a reading is rendered impossible in the Masoretic text by the placement of the disjunctive accent, *revia*, over *sha’arurah*. a way of lies, and they have strengthened the hands of the wicked, so that each one might not be turned from his wickedness; they have all become to me like Sodom, and their inhabitants like Gomorrah.
+
+> ^23:15^ Therefore, thus says the Lord of hosts to the prophets: behold, I will feed them with wormwood, and make them drink gall; for defilement has come forth from the prophets of Jerusalem upon all the land.
+
+> **123**. Here, he notes the wickedness of the prophets as the cause of the wickedness of the people:
+
+first, in general, when he speaks of their guilt: ***the prophet and the priest are defiled***, by various crimes, ***in my house***, the temple, or the people. As it says above: ***why is it that my beloved has done much wickedness in my house?** (*Jer 11:15).  
+
+And when he adds the punishment: ***therefore, their way shall be as a slippery place***, that is, they will fall in their sins as on a road of this sort. *Let their paths become dark and slippery* (Ps 34:6). And when he expounds it: ***for I shall bring evil***, punishments. As it says above: ***I will bring this evil upon the men of Anathoth, the year of their visitation*** (Jer 11:23).  
+
+Second, in particular:  
+
+first, he speaks of their guilt with regard to the prophets of the ten tribes: ***and in the prophets of Samaria I have seen foolishness***, because they would worship their idols on the high places, like those whom Elijah slew (1 Kgs 18). *The prophet that teaches falsehood is himself the tail* (Isa 9:15).  
+
+And of the prophets of the two tribes: ***and in the prophets of Jerusalem I have seen the likeness***, because they indirectly incited the people to idolatry when they deceitfully promised prosperity to idolaters. *They have violated me to my people for a handful of barley, and a fragment of bread, that they might kill souls which do not die, and give life to souls which do not live* (Ezek 13:19).  
+
+Second, he speaks of the divine wrath: ***they have all become to me like Sodom***—namely, the prophets: I hold them in such abhorrence—***and their inhabitants***, of Jerusalem. *Hear the word of the Lord, you princes of Sodom; perceive with your ears the law of your God, O people of Gomorrah* (Isa 1:10).  
+
+Third, he threatens punishment: ***therefore, thus says the Lord: behold, I will feed them with wormwood, and make them drink gall***. As it says above: ***behold, I will feed them with wormwood and give them water of gall to drink*** (Jer 9:15). And he gives the reason why he threatens the prophets particularly: ***for defilement has come forth from the prophets of Jerusalem upon all the land***. *Iniquity came from Babylon, from the elder judges who seemed to rule the people* (Dan 13:5).  
 
 Lecture 6  
 
-***Wailing of the shepherds***
+***Falsity of the prophets***
 
-***^25:34^ Wail, O shepherds, and cry, and sprinkle yourself with ashes, you nobles of the flock; for your days are accomplished of your slaughter and your dispersion; and you shall fall like precious vessels.***
+***^23:16^ Thus says the Lord of hosts: do not listen to the words of the prophets, who prophecy to you, and deceive you; they speak the vision of their own heart, and not by the mouth of the Lord.***
 
-> ^25:35^ And flight shall perish from the shepherds, and salvation from the nobles of the flock.
+> ^23:17^ They say to those who blaspheme me, the Lord has spoken: ‘You shall have peace,’ and to everyone who walks in the perversity of his own heart they say, ‘No evil shall come upon you.’
 
-> ^25:36^ The voice of the cry of the shepherds and the wailing of the nobles of the flock, for the Lord has laid waste their pastures.
+> ^23:18^ For who was present in the counsel of the Lord, and saw, and heard his speech? Who considered his word, and listened?
 
-> ^25:37^ And the pastures of peace were silent from before the wrath of the fury of the Lord.
+> ^23:19^ Behold, the whirlwind of the Lord’s indignation shall go forth, and a storm breaking forth upon the head of the wicked shall come.
 
-> ^25:38^ He has forsaken his covert as a lion, for their land has become a desolation from before the face of the wrath of the dove,The Latin, *columba*, is likely a mistranslation of הַיּוֺנָה, *oppressor*; there is a homonym that means “dove,” but such a reading seems improbable. and from before the face of the fury of the Lord.
+> ^23:20^ The fury of the Lord shall not turn back until it shall do and accomplish the thought of his heart; you shall understand his counsel at the end of days.Heb. בְּאַחֲרִית הַיָּמִים: *in the end of days*, a common phrase among the prophets denoting the eschatological end of history or the time of messianic fulfillment.
 
-> **134**. Here, he threatens the princes and the nations.
+> ^23:21^ I did not send prophets, yet they ran; I did not speak to them, yet they prophesied.
 
-First, with regard to persons, when he foretells the punishment: ***wail***, as though unable to express their grief with words, but only by the raising of the voice. *The sword of the Lord is full of blood; it is thickened with fat, with the blood of lambs and goats, and with the blood of well-fattened rams* (Isa 34:6). ***You nobles***, who are rich, and the princes of the people.  
+> ^23:22^ If they had stood in my counsel, and had made note of my words to my people,In this verse, Jerome seems to mistake the subject and the meaning of וְיַשְׁמִ֤עוּ: *they would have caused [my people] to hear*. God is not here speaking of what he would have done, but rather, he is speaking of what the prophets would have done, had they heard his words. I should have certainly turned them from their evil ways, and from their wicked thoughts.
 
-He excludes a way of safety: ***and flight shall perish***. *They have gone away without strength before the face of the pursuer* (Lam 1:6).  
+> **124**. Here, he speaks of the diverse modes of deception.
 
-Second, with regard to the subject lands: ***the voice of the cry***.  
+First, he exposes them.  
 
-First, by way of a metaphor, he speaks of the destruction of the cities: ***for the Lord has laid waste their pastures***, that is, the cities and villas; he is maintaining the metaphor of the flock;  
+Second, he gathers them summarily, at ***therefore, behold, I am against the prophets*** (Jer 23:30).  
 
-***the pastures of peace were silent***; it is as though he were saying, “They are reduced to nothing, so that no mention should be made of them”; ***the pastures of peace***, which in times of peace were splendid. *Fire has devoured the fair places of the desert, and flames have burned up all the trees of the countryside* (Joel 1:19).  
+Concerning the first, there are two points.  
 
-And with regard to the destruction of the temple: ***he has forsaken his covert***, that is, God has forsaken his temple, ***as a lion***, which no one hears approaching when he lies in wait. As it says above: ***I have left my house*** (Jer 12:7).  
+First, he speaks of their mode of deception through false words, namely, when they had seen nothing but pretended that they had received a vision from the Lord;  
 
-Second, he gives the exposition: ***for their land has become a desolation from before the face of the wrath of the dove***, namely, of God, who punishes without agitation; or of Jerusalem, which has grown angry because of the loss of God; or of Nebuchadnezzar, because of the folly of his pride: *Ephraim like a dove was led astray, having no heart* (Hos 7:11); or because there are doves in pastures; or because, like one grown gentle, he has fulfilled the command of the Lord. Or, by antiphrasis,Antiphrasis is the figure of speech whereby the word used is intended to signify the opposite of its usual meaning. because he was cruel.
+second, he speaks of their mode of deception through vain dreams, when they presented fantastical dreams as divine revelations, at ***do you think that I am a God near at hand?*** (Jer 23:23).  
+
+Concerning the first, there are three points.  
+
+First, the prohibition to the people, lest they should listen to such false prophets, by obeying and believing in them: ***do not listen***. *If there should arise in your midst a prophet, or one who says he has seen a dream, and if he should predict a sign and a portent, and what he has said should come to pass, and he say to you, ‘Come let us go, and follow strange gods, whom you do not know, and let us serve them,’ do not listen to the words of that prophet, or dreamer* (Deut 13:1–3).  
+
+Second, the deception in the case of the prophets who falsely said that they were messengers of God is exposed: ***they speak the vision of their own heart***. *Woe to the foolish prophets, who follow their own spirit, and see nothing* (Ezek 13:3).  
+
+With regard to the false promise: ***they say to those who blaspheme***. As it says above: ***and they would heal the bruise of the daughter of my people with shame, saying, ‘Peace, peace!’ And there was no peace*** (Jer 6:14).  
+
+And with regard to their erroneous proof: ***for who was present?*** Because it is said: *who was his counselor?* (Isa 40:13). They wished to weaken the warnings of the prophets, as though they were ignorant of the divine counsels, lest they should be believed; they wrongly understood, because by that verse it is not knowledge of divine counsel by revelation that is excluded, but knowledge comprehended by the human intellect, ***and saw***, as though present, ***considered***, as though absent. *You err not knowing the Scriptures* (Matt 22:29).  
+
+Next, he shows their falseness:  
+
+first, with regard to their false promise, when he speaks of their punishment: ***behold, the whirlwind***, scattering the captives; ***a storm***, of grave affliction, ***upon the head of the wicked***, to whom they were promising peace, from which it is clear that they were not good prophets. *If that prophet shall predict in the name of the Lord, and it does not come to pass, the Lord has not spoken this* (Deut 18:22). *A fire goes before him, burning his enemies round about* (Ps 96:3).  
+
+And he excludes mercy: ***the fury shall not turn back***. *So shall be the word which goes forth from my mouth, it shall not return to me empty, but it shall do whatsoever I desired, and it shall prosper in those things for which I have sent it* (Isa 55:11). And he sets forth the effect of the punishment: ***at the end of days***, when you have endured the punishments, ***you shall understand***, by experience. *The Lord shall be known when he carries out judgment* (Ps 9:17).  
+
+Second, with regard to their presumed authority: ***I did not send***. As it says above: ***I have not sent them, and I have not commanded them, neither have I spoken to them*** (Jer 14:14).  
+
+Third, with regard to their false proof: ***if they had stood in my counsel***, as true prophets, ***I should have certainly turned***, the people, or the prophets themselves. As it says above: ***if you will turn, I will turn you*** (Jer 15:19).  
+
+Lecture 7  
+
+***False prophetic dreams***
+
+***^23:23^ Do you think that I am a God near at hand, says the Lord, and not a God afar off?***
+
+> ^23:24^ If a man shall be hidden in secret places, shall I not see him? says the Lord. Do I not fill heaven and earth? says the Lord.
+
+> ^23:25^ I have heard what the prophets have said, prophesying falsehood in my name, and saying, ‘I have dreamed, I have dreamed.’
+
+> ^23:26^ How long shall this be in the heart of the prophets who prophesy a lie, and of those who prophesy the deceits of their own heart?
+
+> ^23:27^ Who wish to make this people forget my name because of their dreams, which they tell each one to his neighbor, as their fathers forgot my name because of Baal.
+
+> ^23:28^ Let the prophet who has a dream tell the dream, and let him who has my word speak my word truthfully. What has the straw to do with the wheat? says the Lord.
+
+> ^23:29^ Are not my words like fire, says the Lord, and like a hammer breaking down the rock?
+
+> **125**. Here, he speaks of the other mode of deception, namely, through dreams. Concerning this, there are three points.
+
+First, he begins by proving the divine testimony, and showing that he is an appropriate witness, because he has knowledge of remote things: ***near at hand***, so that I should at least know what things are in the heavens, where my seat is said to be; or even the good things, and not the bad which are far from me. *She reaches from one end to the other mightily, and disposes all things sweetly* (Wis 8:1).  
+
+And because he has knowledge of hidden things: ***if a man shall be hidden in secret places***, of thought, or of location. *You shall not say, ‘I shall be hidden from God, and from on high who shall remember me?’* (Sir 16:16). And he proves both: ***heaven and earth***, and thus, they are not remote from my understanding, ***do I not fill?*** As though penetrating them interiorly, and so they are not hidden from me. *Heaven is my seat, and the earth my footstool* (Isa 66:1).  
+
+***I have heard***. *Vain hope and a lie to the senseless man, and dreams raise up the imprudent* (Sir 34:1).  
+
+Second, he reproves the vice of deception with regard to the continuation of the fault: ***how long shall this be?*** *O sons of men, how long shall your hearts be heavy; why do you love vanity, and seek for a lie?* (Ps 4:3).  
+
+And with regard to the intention of the work or of the worker: ***who wish to make this people forget my name***. *They have dishonored me before my people for a handful of barley, and a fragment of bread, that they might kill souls which do not die, and give life to souls which do not live, lying to my people* (Ezek 13:19).  
+
+Third, he sets forth the precepts of true doctrine: ***let the prophet who has a dream***; it is as though he were saying, “whatever level of prophetic vision.” *To each one as God has divided the measure of faith* (Rom 12:3). And he gives the reason: ***what has the straw to do with the wheat?*** It is as though he were saying, “My words are wheat to restore your strength.” Above: ***your words were found, and I ate them; and your word has become the joy and gladness of my heart*** (Jer 15:16). *How sweet to my throat are your words, more than honey to my mouth* (Ps 118:103).  
+
+And ***fire***, to kindle. *Your word is kindled greatly* (Ps 118:140).Heb. צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד: *your word is purified greatly*. Apparently, the verb, צָרַף (*tsaraf*), *to refine, purify*, is here mistaken for a similar sounding verb, שָׂרָף (*saraf*), *to burn*. And again: *the word of the Lord inflamed him* (Ps 104:19).The same confusion as above also occurs in this verse. ***A hammer***, for softening hard hearts. *For this reason, I have hewed them by the prophets, and slain them by the words of my mouth* (Hos 6:5). And therefore, they are not to be mixed with thorns. *What fellowship has light with darkness, or the congregation of Christ with Belial* (2 Cor 6:15).Heb. בְלִיַּעַל: lit. *without worth*. Later understood as a personification of evil, the devil.  
+
+Lecture 8  
+
+***The Lord against the prophets***
+
+***^23:30^ Therefore, behold, thus says the Lord: I am against the prophets, who steal my words, each one from his neighbor.***
+
+> ^23:31^ Behold, I am against the prophets, says the Lord, who take up their tongues and say, ‘The Lord says.’
+
+> ^23:32^ Behold, I am against the prophets who dream a lie, says the Lord, who tell them, and seduce my people with their lie and with their wonders,Heb. בְּשִׁקְרֵיהֶ֖ם וּבְפַחֲזוּתָ֑ם: *by their falsehoods and by their recklessness*. when I have not sent them, neither have I commanded them, who have profited this people nothing, says the Lord.
+
+> **126**. Here, he recollects the three modes of deception.
+
+First, from a depraved use of the Scripture: ***who steal my words***, as though to another sense than the prophets truly intended. *He who does not enter through the gate in the sheepfold is a thief and a robber* (John 10:1).  
+
+The second is from the falsehood of words: ***against the prophets***, that is, against those ***who take up their tongues***, inventing words. As it says above: ***they have taught their tongue to speak lies; they have labored to do iniquity*** (Jer 9:5).  
+
+The third is from the use of dreams: ***behold, I am against the prophets who dream a lie . . . with their wonders***, with inflated discourse. *Who see vain things, sleeping, and loving dreams* (Isa 56:10).  
+
+Lecture 9  
+
+***The burden of the Lord***
+
+***^23:33^ Therefore, if this people shall ask you, or a prophet, or a priest, saying, ‘What is the burdenJerome seems to have confused the word, מַשָּׂא, *oracle, revelation*, for a homonym meaning *burden*. of the Lord?’ you shall say to them, ‘You are the burden. I shall certainly cast you forth, says the Lord.’***
+
+> ^23:34^ And the prophet, and the priest, and the people who say, ‘the burden of the Lord,’ I shall visit it upon that man, and upon his house.
+
+> ^23:35^ These things you will say each one to his neighbor, and to his brother, ‘What has the Lord answered?’ And, ‘What has the Lord said?’
+
+> ^23:36^ And the burden of the Lord shall be remembered no more, because each man’s own word will be his burden, and you have corrupted the words of the living God, the Lord of hosts, our God.
+
+> ^23:37^ Thus you shall say to the prophet, ‘What has the Lord answered you?’ and, ‘What has the Lord said?’
+
+> ^23:38^ But if you say, ‘the burden of the Lord,’ because of this, thus says the Lord: because you have said this word, ‘the burden of the Lord,’ and I have sent to you saying, ‘Do not say, “the burden of the Lord,”’
+
+> ^23:39^ therefore, behold, I shall take you away carrying you, and I shall leave you, and the city which I gave to you and to your fathers, from before my face.
+
+> ^23:40^ And I shall make you an everlasting reproach, and a perpetual shame, which shall never be forgotten.
+
+> **127**. Here, he makes a threat against the mockery of the prophets, for just as in the times of Isaiah, they ridiculed him: *command, command again, expect, expect again* (Isa 28:10); in this way they mocked the word that Isaiah had devised to designate the gravity of the punishment, as it were, namely, ***the burden of the Lord***.
+
+For this reason, he makes three points concerning this.  
+
+First, he reproves the people who mock him when he threatens a punishment with regard to those who ask him: ***if this people shall ask***, mockingly, ***you shall say to them, ‘You are the burden.’*** *That those things by which a man sins are the same also by which he is tormented* (Wis 11:17). *They have become bothersome to me, I am weary of bearing them* (Isa 1:14).  
+
+And with regard to those who speak together: ***and the prophet***. *I shall visit their iniquities with the rod, and their sins with stripes* (Ps 88:32).  
+
+Second, he forbids the derision of his words.  
+
+First is given the command, by which is shown the manner of speaking: ***these things you will say***.  
+
+And derision is forbidden: ***and the burden of the Lord . . . man’s own word will be a burden***, that is, for their words they will be made liable to serious punishment. *By your words will you be justified, and by your words you will be condemned* (Matt 12:37). And he gives the reason for the derision: ***and you have corrupted***; it is as though he were saying, “Because you have twisted it into an object of ridicule.”  
+
+And he concludes: ***thus you shall say***. *They hear your words, and they do not do them, because they turn them into a song of their mouth* (Ezek 33:31).  
+
+Third, he threatens punishment:  
+
+first, the punishment of captivity: ***behold, I shall take you***; he is speaking after the manner of one who carries a heavy weight up to a high place, that he might make it fall the more forcefully. *A mighty angel took up a stone, like a great mill-stone, and cast it into the sea, saying: by this blow shall Babylon be cast down, and no longer be found* (Rev 18:21).  
+
+Second, the punishment of shame: ***and I shall make you a reproach***; this may refer to the punishment of burning or to the shame with which they were carried away into captivity. And the reproach is called sin, or the reproach is not worthy to be named. As it says above: ***they shall be greatly ashamed, for they have not understood the eternal reproach, which shall never be blotted out*** (Jer 20:11).  
+
+Collations  
+
+***A note on the verse: ***behold, the days are coming*** (Jer 23:5, 7) The time of grace is called “day” because of the appearance of light: *the night is far spent, the day drawn close; let us therefore cast off the works of darkness, and put on the armor of light* (Rom 13:12); because of the heat of the sun: *tomorrowI.e., when the sun becomes hot. there shall be salvation for you* (1 Sam 11:9); because of the security of the journey: *if anyone walks in the day, he shall not stumble, because he sees the light of this world; but if he should walk at night, he stumbles, because the light is not in him* (John 11:9–10); because of vigilance and sobriety: *for those who sleep, sleep at night, and those who are drunk, are drunk at night* (1 Thess 5:7).***
