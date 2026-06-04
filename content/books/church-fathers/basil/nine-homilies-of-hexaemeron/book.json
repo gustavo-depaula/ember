@@ -1,0 +1,75 @@
+{
+  "id": "basil-nine-homilies-of-hexaemeron",
+  "name": {
+    "en-US": "Nine Homilies of Hexaemeron"
+  },
+  "author": {
+    "en-US": "Basil the Great"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3201.htm",
+      "description": "Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Homily I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Homily II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Homily III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Homily IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Homily V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Homily VI"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Homily VII"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Homily VIII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Homily IX"
+      }
+    }
+  ]
+}

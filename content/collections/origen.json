@@ -1,0 +1,71 @@
+{
+  "id": "collection/origen",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "Origen of Alexandria"
+  },
+  "description": {
+    "en-US": "Catechist, exegete, and martyr-by-confession (c. 185–c. 253). The most prolific and controversial of the Alexandrian Fathers — his commentaries on Scripture set the agenda for Christian exegesis."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "origen"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Catechist, exegete, and martyr-by-confession (c. 185–c. 253). The most prolific and controversial of the Alexandrian Fathers — his commentaries on Scripture set the agenda for Christian exegesis."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "8 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/origen-africanus-to-origen"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-against-celsus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-commentary-on-the-gospel-of-john"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-commentary-on-the-gospel-of-matthew"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-de-principiis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-letter-of-origen-to-gregory"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-origen-to-africanus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/origen-origen-to-gregory"
+        }
+      ]
+    }
+  ]
+}

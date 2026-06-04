@@ -1,0 +1,119 @@
+{
+  "id": "collection/athanasius",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Athanasius of Alexandria"
+  },
+  "description": {
+    "en-US": "Patriarch of Alexandria (c. 296–373). Defender of Nicene orthodoxy *contra mundum* — \"against the world\" — through five exiles under four emperors."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "athanasius"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Patriarch of Alexandria (c. 296–373). Defender of Nicene orthodoxy *contra mundum* — \"against the world\" — through five exiles under four emperors."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "20 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/athanasius-ad-afros-epistola-synodica"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-ad-episcopus-aegypti-et-libyae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-against-the-heathen"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-apologia-ad-constantium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-apologia-contra-arianos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-apologia-de-fuga"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-circular-letter"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-de-decretis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-de-sententia-dionysii"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-de-synodis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-deposition-of-arius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-four-discourses-against-the-arians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-historia-acephala"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-historia-arianorum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-incarnation-of-the-word"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-letters"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-luke-10"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-statement-of-faith"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-tomus-ad-antiochenos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/athanasius-vita-s-antoni"
+        }
+      ]
+    }
+  ]
+}

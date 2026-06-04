@@ -1,0 +1,231 @@
+{
+  "id": "collection/augustine-of-hippo",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Augustine of Hippo"
+  },
+  "description": {
+    "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "augustine"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "48 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-confessions"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-acts-or-disputation-against-fortunatus-the-manichaean"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-against-the-epistle-of-manichaeus-called-fundamental"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-against-two-letters-of-the-pelagians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-answer-to-letters-of-petilian-bishop-of-cirta"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-baptism-against-the-donatists"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-care-to-be-had-for-the-dead"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-catechising-of-the-uninstructed"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-christian-doctrine"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-city-of-god"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-concerning-faith-of-things-not-seen"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-concerning-the-nature-of-good-against-the-manichaeans"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-consentius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-continence"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-creed"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-enarrations-or-expositions-on-the-psalms"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-enchiridion"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-faith-and-the-creed"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-good-of-marriage"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-good-of-widowhood"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-grace-and-free-will"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-grace-of-christ-and-on-original-sin"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-harmony-of-the-gospels"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-holy-trinity"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-holy-virginity"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-homilies-on-the-first-epistle-of-john"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-letters"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-lying"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-man-s-perfection-in-righteousness"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-marriage-and-concupiscence"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-merits-and-remission-of-sin-and-infant-baptism"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-morals-of-the-catholic-church"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-morals-of-the-manichaeans"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-nature-and-grace"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-our-lord-s-sermon-on-the-mount"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-patience"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-predestination-of-the-saints-gift-of-perseverance"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-proceedings-of-pelagius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-profit-of-believing"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-rebuke-and-grace"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-reply-to-faustus-the-manichaean"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-sermons-on-selected-lessons-of-the-new-testament"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-soliloquies"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-soul-and-its-origin"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-spirit-and-the-letter"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-tractates-on-the-gospel-of-john"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-two-souls-against-the-manichaeans"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-work-of-monks"
+        }
+      ]
+    }
+  ]
+}

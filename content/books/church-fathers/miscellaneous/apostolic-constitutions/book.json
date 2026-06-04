@@ -1,0 +1,69 @@
+{
+  "id": "miscellaneous-apostolic-constitutions",
+  "name": {
+    "en-US": "Apostolic Constitutions (c. 400)"
+  },
+  "author": {
+    "en-US": "Miscellaneous"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0715.htm",
+      "description": "Translated by James Donaldson. From Ante-Nicene Fathers, Vol. 7, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book VI"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book VII"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Book VIII"
+      }
+    }
+  ]
+}

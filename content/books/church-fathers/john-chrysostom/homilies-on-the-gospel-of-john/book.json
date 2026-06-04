@@ -1,0 +1,549 @@
+{
+  "id": "john-chrysostom-homilies-on-the-gospel-of-john",
+  "name": {
+    "en-US": "Homilies on the Gospel of John"
+  },
+  "author": {
+    "en-US": "John Chrysostom"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2401.htm",
+      "description": "Translated by Charles Marriott. From Nicene and Post-Nicene Fathers, First Series, Vol. 14, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Homily 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Homily 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Homily 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Homily 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Homily 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Homily 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Homily 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Homily 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Homily 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Homily 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Homily 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Homily 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Homily 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Homily 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Homily 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Homily 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Homily 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Homily 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Homily 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Homily 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Homily 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Homily 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Homily 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Homily 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Homily 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Homily 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Homily 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Homily 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Homily 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Homily 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Homily 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Homily 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Homily 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Homily 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Homily 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Homily 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Homily 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Homily 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Homily 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Homily 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Homily 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Homily 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Homily 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Homily 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Homily 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Homily 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Homily 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Homily 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Homily 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Homily 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Homily 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Homily 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Homily 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Homily 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Homily 55"
+      }
+    },
+    {
+      "id": "ch056",
+      "title": {
+        "en-US": "Homily 56"
+      }
+    },
+    {
+      "id": "ch057",
+      "title": {
+        "en-US": "Homily 57"
+      }
+    },
+    {
+      "id": "ch058",
+      "title": {
+        "en-US": "Homily 58"
+      }
+    },
+    {
+      "id": "ch059",
+      "title": {
+        "en-US": "Homily 59"
+      }
+    },
+    {
+      "id": "ch060",
+      "title": {
+        "en-US": "Homily 60"
+      }
+    },
+    {
+      "id": "ch061",
+      "title": {
+        "en-US": "Homily 61"
+      }
+    },
+    {
+      "id": "ch062",
+      "title": {
+        "en-US": "Homily 62"
+      }
+    },
+    {
+      "id": "ch063",
+      "title": {
+        "en-US": "Homily 63"
+      }
+    },
+    {
+      "id": "ch064",
+      "title": {
+        "en-US": "Homily 64"
+      }
+    },
+    {
+      "id": "ch065",
+      "title": {
+        "en-US": "Homily 65"
+      }
+    },
+    {
+      "id": "ch066",
+      "title": {
+        "en-US": "Homily 66"
+      }
+    },
+    {
+      "id": "ch067",
+      "title": {
+        "en-US": "Homily 67"
+      }
+    },
+    {
+      "id": "ch068",
+      "title": {
+        "en-US": "Homily 68"
+      }
+    },
+    {
+      "id": "ch069",
+      "title": {
+        "en-US": "Homily 69"
+      }
+    },
+    {
+      "id": "ch070",
+      "title": {
+        "en-US": "Homily 70"
+      }
+    },
+    {
+      "id": "ch071",
+      "title": {
+        "en-US": "Homily 71"
+      }
+    },
+    {
+      "id": "ch072",
+      "title": {
+        "en-US": "Homily 72"
+      }
+    },
+    {
+      "id": "ch073",
+      "title": {
+        "en-US": "Homily 73"
+      }
+    },
+    {
+      "id": "ch074",
+      "title": {
+        "en-US": "Homily 74"
+      }
+    },
+    {
+      "id": "ch075",
+      "title": {
+        "en-US": "Homily 75"
+      }
+    },
+    {
+      "id": "ch076",
+      "title": {
+        "en-US": "Homily 76"
+      }
+    },
+    {
+      "id": "ch077",
+      "title": {
+        "en-US": "Homily 77"
+      }
+    },
+    {
+      "id": "ch078",
+      "title": {
+        "en-US": "Homily 78"
+      }
+    },
+    {
+      "id": "ch079",
+      "title": {
+        "en-US": "Homily 79"
+      }
+    },
+    {
+      "id": "ch080",
+      "title": {
+        "en-US": "Homily 80"
+      }
+    },
+    {
+      "id": "ch081",
+      "title": {
+        "en-US": "Homily 81"
+      }
+    },
+    {
+      "id": "ch082",
+      "title": {
+        "en-US": "Homily 82"
+      }
+    },
+    {
+      "id": "ch083",
+      "title": {
+        "en-US": "Homily 83"
+      }
+    },
+    {
+      "id": "ch084",
+      "title": {
+        "en-US": "Homily 84"
+      }
+    },
+    {
+      "id": "ch085",
+      "title": {
+        "en-US": "Homily 85"
+      }
+    },
+    {
+      "id": "ch086",
+      "title": {
+        "en-US": "Homily 86"
+      }
+    },
+    {
+      "id": "ch087",
+      "title": {
+        "en-US": "Homily 87"
+      }
+    },
+    {
+      "id": "ch088",
+      "title": {
+        "en-US": "Homily 88"
+      }
+    }
+  ]
+}

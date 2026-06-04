@@ -1,0 +1,27 @@
+{
+  "id": "minucius-felix-octavius",
+  "name": {
+    "en-US": "Octavius"
+  },
+  "author": {
+    "en-US": "Minucius Felix"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0410.htm",
+      "description": "Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Octavius"
+      }
+    }
+  ]
+}

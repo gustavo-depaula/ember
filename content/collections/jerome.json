@@ -1,0 +1,91 @@
+{
+  "id": "collection/jerome",
+  "version": "1.0.0",
+  "name": {
+    "en-US": "St. Jerome"
+  },
+  "description": {
+    "en-US": "Hieronymus (c. 347–420). Scholar, monk, and translator of the Vulgate. His letters and biblical prefaces shaped Western Scripture-scholarship for a thousand years."
+  },
+  "icon": "book",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "church-fathers",
+    "patristics",
+    "jerome"
+  ],
+  "prologue": {
+    "body": {
+      "en-US": "Hieronymus (c. 347–420). Scholar, monk, and translator of the Vulgate. His letters and biblical prefaces shaped Western Scripture-scholarship for a thousand years."
+    }
+  },
+  "sections": [
+    {
+      "id": "works",
+      "title": {
+        "en-US": "Works"
+      },
+      "description": {
+        "body": {
+          "en-US": "13 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+        }
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/jerome-against-jovinianus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-against-the-pelagians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-against-vigilantius"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-apology-for-himself-against-the-books-of-rufinus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-de-viris-illustribus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-dialogue-against-the-luciferians"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-letters"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-life-of-malchus-the-captive-monk"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-life-of-paulus-the-first-hermit"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-life-of-s-hilarion"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-pammachius-against-john-of-jerusalem"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-perpetual-virginity-of-blessed-mary"
+        },
+        {
+          "kind": "item",
+          "ref": "book/jerome-prefaces"
+        }
+      ]
+    }
+  ]
+}

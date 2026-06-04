@@ -1,0 +1,27 @@
+{
+  "id": "tertullian-his-wife",
+  "name": {
+    "en-US": "To His Wife"
+  },
+  "author": {
+    "en-US": "Tertullian"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0404.htm",
+      "description": "Translated by S. Thelwall. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "To His Wife"
+      }
+    }
+  ]
+}

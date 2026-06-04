@@ -1,0 +1,69 @@
+{
+  "id": "hippolytus-refutation-of-all-heresies",
+  "name": {
+    "en-US": "The Refutation of All Heresies"
+  },
+  "author": {
+    "en-US": "Hippolytus"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0501.htm",
+      "description": "Translated by J.H. MacMahon. From Ante-Nicene Fathers, Vol. 5, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1886. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "BOOK 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "BOOK 4"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "BOOK 5"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "BOOK 6"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "BOOK 7"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "BOOK 8"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "BOOK 9"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "BOOK 10"
+      }
+    }
+  ]
+}

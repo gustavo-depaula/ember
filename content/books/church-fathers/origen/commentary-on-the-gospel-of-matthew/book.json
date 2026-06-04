@@ -1,0 +1,63 @@
+{
+  "id": "origen-commentary-on-the-gospel-of-matthew",
+  "name": {
+    "en-US": "Commentary on the Gospel of Matthew"
+  },
+  "author": {
+    "en-US": "Origen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1016.htm",
+      "description": "Translated by John Patrick. From Ante-Nicene Fathers, Vol. 9, Edited by Allan Menzies, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Book I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Book II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Book X"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Book XI"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Book XII"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Book XIII"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Book XIV"
+      }
+    }
+  ]
+}

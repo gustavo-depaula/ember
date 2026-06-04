@@ -1,0 +1,45 @@
+{
+  "id": "athanasius-four-discourses-against-the-arians",
+  "name": {
+    "en-US": "Four Discourses Against the Arians"
+  },
+  "author": {
+    "en-US": "Athanasius"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2816.htm",
+      "description": "Translated by John Henry Newman and Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1892. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Discourse I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Discourse II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Discourse III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Discourse IV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gregory-nyssa-funeral-oration-on-meletius",
+  "name": {
+    "en-US": "Funeral Oration on Meletius"
+  },
+  "author": {
+    "en-US": "Gregory of Nyssa"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2909.htm",
+      "description": "Translated by William Moore and Henry Austin Wilson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 5, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1893. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Funeral Oration on Meletius"
+      }
+    }
+  ]
+}

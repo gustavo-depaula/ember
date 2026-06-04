@@ -1,0 +1,27 @@
+{
+  "id": "basil-de-spiritu-sancto",
+  "name": {
+    "en-US": "De Spiritu Sancto"
+  },
+  "author": {
+    "en-US": "Basil the Great"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3203.htm",
+      "description": "Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1895. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "De Spiritu Sancto"
+      }
+    }
+  ]
+}

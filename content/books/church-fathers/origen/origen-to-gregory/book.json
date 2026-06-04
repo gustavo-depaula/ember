@@ -1,0 +1,27 @@
+{
+  "id": "origen-origen-to-gregory",
+  "name": {
+    "en-US": "Origen to Gregory"
+  },
+  "author": {
+    "en-US": "Origen"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/0415.htm",
+      "description": "Translated by Frederick Crombie. From Ante-Nicene Fathers, Vol. 4, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Origen to Gregory"
+      }
+    }
+  ]
+}

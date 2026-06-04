@@ -1,0 +1,27 @@
+{
+  "id": "eusebius-oration-in-praise-of-constantine",
+  "name": {
+    "en-US": "Oration in Praise of Constantine"
+  },
+  "author": {
+    "en-US": "Eusebius of Caesarea (c. 265-c. 340)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/2504.htm",
+      "description": "Translated by Ernest Cushing Richardson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 1, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1890. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Oration in Praise of Constantine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "miscellaneous-passion-of-the-scillitan-martyrs",
+  "name": {
+    "en-US": "The Passion of the Scillitan Martyrs (c. 180)"
+  },
+  "author": {
+    "en-US": "Miscellaneous"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1013.htm",
+      "description": "Translated by J. Armitage Robinson. From Ante-Nicene Fathers, Vol. 9, Edited by Allan Menzies, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "The Passion of the Scillitan Martyrs (c. 180)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ephraim-faith",
+  "name": {
+    "en-US": "On the Faith (\"The Pearl\")"
+  },
+  "author": {
+    "en-US": "Ephraim the Syrian (306-373)"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/3705.htm",
+      "description": "Translated by J.B. Morris. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13, Edited by Philip Schaff and Henry Wace, Buffalo, NY: Christian Literature Publishing Co 1898. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "On the Faith (\"The Pearl\")"
+      }
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "tatian-diatessaron",
+  "name": {
+    "en-US": "The Diatessaron"
+  },
+  "author": {
+    "en-US": "Tatian"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1002.htm",
+      "description": "Translated by Hope W. Hogg. From Ante-Nicene Fathers, Vol. 9, Edited by Allan Menzies, Buffalo, NY: Christian Literature Publishing Co 1896. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Section 1"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "en-US": "Section 2"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "en-US": "Section 3"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "en-US": "Section 4"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "en-US": "Section 5"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "en-US": "Section 6"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "en-US": "Section 7"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "en-US": "Section 8"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "en-US": "Section 9"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "en-US": "Section 10"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "en-US": "Section 11"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "en-US": "Section 12"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "en-US": "Section 13"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "en-US": "Section 14"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "en-US": "Section 15"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "en-US": "Section 16"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "en-US": "Section 17"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "en-US": "Section 18"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "en-US": "Section 19"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "en-US": "Section 20"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "en-US": "Section 21"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "en-US": "Section 22"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "en-US": "Section 23"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "en-US": "Section 24"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "en-US": "Section 25"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "en-US": "Section 26"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "en-US": "Section 27"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "en-US": "Section 28"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "en-US": "Section 29"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "en-US": "Section 30"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "en-US": "Section 31"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "en-US": "Section 32"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "en-US": "Section 33"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "en-US": "Section 34"
+      }
+    },
+    {
+      "id": "ch035",
+      "title": {
+        "en-US": "Section 35"
+      }
+    },
+    {
+      "id": "ch036",
+      "title": {
+        "en-US": "Section 36"
+      }
+    },
+    {
+      "id": "ch037",
+      "title": {
+        "en-US": "Section 37"
+      }
+    },
+    {
+      "id": "ch038",
+      "title": {
+        "en-US": "Section 38"
+      }
+    },
+    {
+      "id": "ch039",
+      "title": {
+        "en-US": "Section 39"
+      }
+    },
+    {
+      "id": "ch040",
+      "title": {
+        "en-US": "Section 40"
+      }
+    },
+    {
+      "id": "ch041",
+      "title": {
+        "en-US": "Section 41"
+      }
+    },
+    {
+      "id": "ch042",
+      "title": {
+        "en-US": "Section 42"
+      }
+    },
+    {
+      "id": "ch043",
+      "title": {
+        "en-US": "Section 43"
+      }
+    },
+    {
+      "id": "ch044",
+      "title": {
+        "en-US": "Section 44"
+      }
+    },
+    {
+      "id": "ch045",
+      "title": {
+        "en-US": "Section 45"
+      }
+    },
+    {
+      "id": "ch046",
+      "title": {
+        "en-US": "Section 46"
+      }
+    },
+    {
+      "id": "ch047",
+      "title": {
+        "en-US": "Section 47"
+      }
+    },
+    {
+      "id": "ch048",
+      "title": {
+        "en-US": "Section 48"
+      }
+    },
+    {
+      "id": "ch049",
+      "title": {
+        "en-US": "Section 49"
+      }
+    },
+    {
+      "id": "ch050",
+      "title": {
+        "en-US": "Section 50"
+      }
+    },
+    {
+      "id": "ch051",
+      "title": {
+        "en-US": "Section 51"
+      }
+    },
+    {
+      "id": "ch052",
+      "title": {
+        "en-US": "Section 52"
+      }
+    },
+    {
+      "id": "ch053",
+      "title": {
+        "en-US": "Section 53"
+      }
+    },
+    {
+      "id": "ch054",
+      "title": {
+        "en-US": "Section 54"
+      }
+    },
+    {
+      "id": "ch055",
+      "title": {
+        "en-US": "Section 55"
+      }
+    }
+  ]
+}

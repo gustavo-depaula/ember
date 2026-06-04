@@ -1,0 +1,27 @@
+{
+  "id": "john-chrysostom-homily-concerning-lowliness-of-mind",
+  "name": {
+    "en-US": "Homily Concerning \"Lowliness of Mind\""
+  },
+  "author": {
+    "en-US": "John Chrysostom"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.newadvent.org/fathers/1907.htm",
+      "description": "Translated by R. Blackburn. From Nicene and Post-Nicene Fathers, First Series, Vol. 9, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "en-US": "Homily Concerning \"Lowliness of Mind\""
+      }
+    }
+  ]
+}

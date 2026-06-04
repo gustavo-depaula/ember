@@ -20,12 +20,15 @@ import type {
   BookEntry,
   ChapterManifest,
   CollectionItem,
+  CollectionItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
+
+import { collectionHref } from './navigation'
 
 export function isReadingRef(ref: string): boolean {
   const entry = getEntry(ref)
@@ -83,6 +86,16 @@ export function CollectionTile({
     const body = getRememberedManifest<ChapterManifest>(entry.hash)
     title = title ?? body?.title ?? entry.title ?? entry.name ?? { 'en-US': id }
     href = { pathname: '/browse/chapters/[chapterId]', params: { chapterId: id } }
+  } else if (entry?.kind === 'collection') {
+    // Collection→collection refs let a curated collection point at another —
+    // e.g. "The Fathers of the Church" featuring "St. Thomas Aquinas" as a
+    // jewel tile. The tile uses the linked collection's own name + art and
+    // navigates into that collection's screen. If no art is registered, the
+    // collection's icon stands in as a small kicker.
+    const body = getRememberedManifest<CollectionItemManifest>(entry.hash)
+    title = title ?? body?.name ?? entry.name ?? { 'en-US': id }
+    href = collectionHref(item.ref)
+    if (!image) icon = body?.icon ?? entry.icon ?? 'book'
   } else {
     const body = getRememberedManifest<PracticeManifest>(entry?.hash ?? '')
     title = title ?? body?.name ?? entry?.name ?? { 'en-US': id }
