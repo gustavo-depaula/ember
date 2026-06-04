@@ -1346,8 +1346,14 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
             title_la_clean = _clean_chapter_title(chap.title_la, "la") or title_en_clean
 
             if pauline_ch is not None and pauline_ch > 0 and pauline_lec > 0:
-                md_en = _pauline_chapter_md(pauline_ch, pauline_lec, title_en_clean, chap.body_en, "en-US")
-                md_la = _pauline_chapter_md(pauline_ch, pauline_lec, title_la_clean, chap.body_la, "la")
+                md_en = _pauline_chapter_md(
+                    pauline_ch, pauline_lec, title_en_clean, chap.body_en, "en-US",
+                    spec.chapter_label_en, spec.chapter_label_la,
+                )
+                md_la = _pauline_chapter_md(
+                    pauline_ch, pauline_lec, title_la_clean, chap.body_la, "la",
+                    spec.chapter_label_en, spec.chapter_label_la,
+                )
             elif pauline_ch is not None and pauline_ch == 0:
                 md_en = f"# Prologue\n\n{chap.body_en.strip()}\n"
                 md_la = f"# Prologus\n\n{chap.body_la.strip()}\n"
@@ -1411,11 +1417,28 @@ def build_linear_work(spec: LinearWorkSpec, sub_path: str | None = None) -> dict
     return {"book": spec.book_id, "chapters": total}
 
 
-def _pauline_chapter_md(chap: int, lec: int, title: str, body: str, lang: str) -> str:
-    if lang == "en-US":
-        heading = f"# Chapter {chap}, Lecture {lec}"
+def _pauline_chapter_md(
+    chap: int, lec: int, title: str, body: str, lang: str,
+    label_en: str = "Chapter", label_la: str = "Caput",
+) -> str:
+    """Render a chapter+sub-unit heading. For biblical commentaries the
+    natural labels are Chapter/Lecture; for Boethius's De Trinitate they're
+    Question/Article. The spec's chapter_label_en/la are used as the upper
+    label and the lower label is derived (Lecture vs Article)."""
+    upper_en, upper_la = label_en, label_la
+    if label_en.lower() == "article":
+        outer_en, outer_la = "Question", "Quaestio"
+        inner_en, inner_la = "Article", "Articulus"
+    elif label_en.lower() in ("section", "lecture", "lesson", "lectio"):
+        outer_en, outer_la = "Chapter", "Caput"
+        inner_en, inner_la = "Lecture", "Lectio"
     else:
-        heading = f"# Caput {chap}, Lectio {lec}"
+        outer_en, outer_la = "Chapter", "Caput"
+        inner_en, inner_la = "Lecture", "Lectio"
+    if lang == "en-US":
+        heading = f"# {outer_en} {chap}, {inner_en} {lec}"
+    else:
+        heading = f"# {outer_la} {chap}, {inner_la} {lec}"
     if title:
         heading += f" — {title}"
     return f"{heading}\n\n{body.strip()}\n"
@@ -2447,8 +2470,9 @@ LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
             description_la="Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum.",
             translator_note_en="English translation by Armand Maurer (PIMS, Toronto, 1953). Translation status: may be under copyright in the United States until 2048; mirrored via the Geremia/AquinasOperaOmnia GitHub repository.",
             source_files=["BoethiusDeTr.htm"],
-            chapter_label_en="Question",
-            chapter_label_la="Quaestio",
+            chapter_label_en="Article",
+            chapter_label_la="Articulus",
+            pauline_anchors=True,
         ),
         "commentaries/boethius-de-trinitate",
     ),
