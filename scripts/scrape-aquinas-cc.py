@@ -454,6 +454,32 @@ WORKS_CC: dict[str, WorkSpec] = {
         en_translator_note="English translation by Daniel Gilhooly. Mirrored from aquinas.cc.",
         parts=[{"wid": 45, "did_la": 161, "did_en": 852, "label_en": "Hic est Liber", "label_la": "Hic est Liber", "rows": 111}],
     ),
+    # ------ Quodlibetales — full bilingual (12 Quodlibets) ------
+    "quodlibetales-cc": WorkSpec(
+        slug="quodlibetales-cc",
+        sub_path="disputed-questions/quodlibetales-full",
+        book_id="aquinas-quodlibetales-cc",
+        name_en="Quodlibetal Questions (Full Bilingual)",
+        name_la="Quaestiones Quodlibetales (Bilinguis Plena)",
+        composed="1268–1272",
+        description_en="The twelve sets of *quodlibeta* (open-topic disputations) conducted by Aquinas at Paris and Naples during Advent and Lent. Full bilingual edition from aquinas.cc (Aquinas Institute), superseding the partial Geremia import.",
+        description_la="Duodecim quodlibeta — disputationes Thomae Parisienses et Neapolitanae apud Adventum et Quadragesimam habitae. Editio bilinguis plena ex aquinas.cc (Institutum Aquinatis).",
+        en_translator_note="English translations: Sandra Edwards for Q I–II (PIMS, 1983); various translators for III–XII, edited by the Aquinas Institute. Mirrored from aquinas.cc.",
+        parts=[
+            {"wid": 32, "did_la": 862, "did_en": 913, "label_en": "Quodlibet I",   "label_la": "Quodlibet I",   "rows": 337},
+            {"wid": 33, "did_la": 863, "did_en": 131, "label_en": "Quodlibet II",  "label_la": "Quodlibet II",  "rows": 278},
+            {"wid": 34, "did_la": 864, "did_en": 135, "label_en": "Quodlibet III", "label_la": "Quodlibet III", "rows": 462},
+            {"wid": 35, "did_la": 865, "did_en": 138, "label_en": "Quodlibet IV",  "label_la": "Quodlibet IV",  "rows": 431},
+            {"wid": 36, "did_la": 866, "did_en": 141, "label_en": "Quodlibet V",   "label_la": "Quodlibet V",   "rows": 367},
+            {"wid": 37, "did_la": 867, "did_en": 861, "label_en": "Quodlibet VI",  "label_la": "Quodlibet VI",  "rows": 257},
+            {"wid": 38, "did_la": 868, "did_en": 888, "label_en": "Quodlibet VII", "label_la": "Quodlibet VII", "rows": 348},
+            {"wid": 39, "did_la": 869, "did_en": 894, "label_en": "Quodlibet VIII","label_la": "Quodlibet VIII","rows": 321},
+            {"wid": 40, "did_la": 870, "did_en": 903, "label_en": "Quodlibet IX",  "label_la": "Quodlibet IX",  "rows": 309},
+            {"wid": 41, "did_la": 871, "did_en": 908, "label_en": "Quodlibet X",   "label_la": "Quodlibet X",   "rows": 278},
+            {"wid": 42, "did_la": 872, "did_en": 909, "label_en": "Quodlibet XI",  "label_la": "Quodlibet XI",  "rows": 223},
+            {"wid": 43, "did_la": 873, "did_en": 855, "label_en": "Quodlibet XII", "label_la": "Quodlibet XII", "rows": 426},
+        ],
+    ),
     # ------ Sentences (full bilingual on aquinas.cc; Geremia has fragments) ------
     "super-sententias-cc": WorkSpec(
         slug="super-sententias-cc",
