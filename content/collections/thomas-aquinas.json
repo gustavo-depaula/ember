@@ -1,0 +1,352 @@
+{
+	"id": "collection/thomas-aquinas",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "St. Thomas Aquinas",
+		"pt-BR": "São Tomás de Aquino",
+		"la": "Sanctus Thomas Aquinas"
+	},
+	"description": {
+		"en-US": "The works and devotions of the Angelic Doctor — Dominican friar, theologian of the Summa, hymnist of Corpus Christi, and patron of students.",
+		"pt-BR": "As obras e devoções do Doutor Angélico — frade dominicano, teólogo da Suma, hinógrafo de Corpus Christi e padroeiro dos estudantes.",
+		"la": "Opera et devotiones Doctoris Angelici — fratris Dominicani, theologi Summae, hymnographi Corporis Christi, patroni studentium."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US",
+		"pt-BR",
+		"la"
+	],
+	"tags": [
+		"aquinas",
+		"thomas",
+		"dominican",
+		"doctor-of-the-church",
+		"eucharistic",
+		"study",
+		"scholastic"
+	],
+	"prologue": {
+		"body": {
+			"en-US": "St. Thomas Aquinas (1225–1274) was a Dominican friar, Doctor of the Church, and the greatest of the scholastic theologians. His *Summa Theologiae* is the most influential synthesis of Catholic doctrine ever written, and at the request of Pope Urban IV he composed the Office of Corpus Christi — *Adoro Te Devote*, *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Lauda Sion* — hymns the Church has prayed for more than seven hundred years. He died on his way to the Council of Lyons, having said of his own work, after a mystical vision, *mihi videtur ut palea* — \"it seems to me as straw, compared to what I have seen.\"",
+			"pt-BR": "Santo Tomás de Aquino (1225–1274) foi frade dominicano, Doutor da Igreja e o maior dos teólogos escolásticos. Sua *Suma Teológica* é a mais influente síntese da doutrina católica já escrita, e a pedido do Papa Urbano IV compôs o Ofício de Corpus Christi — *Adoro Te Devote*, *Pange Lingua*, *Sacris Solemniis*, *Verbum Supernum*, *Lauda Sion* — hinos que a Igreja reza há mais de setecentos anos. Morreu a caminho do Concílio de Lyon, tendo dito de sua própria obra, depois de uma visão mística, *mihi videtur ut palea* — \"parece-me palha, comparado ao que eu vi.\""
+		}
+	},
+	"sections": [
+		{
+			"id": "prayers",
+			"title": {
+				"en-US": "Prayers of St. Thomas",
+				"pt-BR": "Orações de Santo Tomás"
+			},
+			"description": {
+				"body": {
+					"en-US": "His prayers before and after study, his Communion prayers, the daily prayer for the ordering of his life, and the Eucharistic hymn most associated with his own private devotion.",
+					"pt-BR": "Suas orações antes e depois do estudo, as orações de comunhão, a oração diária para ordenar a vida e o hino eucarístico mais ligado à sua devoção pessoal."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/prayers-st-thomas-aquinas"
+				}
+			]
+		},
+		{
+			"id": "eucharistic-hymns",
+			"title": {
+				"en-US": "Eucharistic Hymns",
+				"pt-BR": "Hinos Eucarísticos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The hymns Aquinas composed for the Office and Mass of Corpus Christi (1264) at the request of Pope Urban IV — still sung throughout the Latin Church.",
+					"pt-BR": "Os hinos que Tomás compôs para o Ofício e a Missa de Corpus Christi (1264) a pedido do Papa Urbano IV — ainda hoje cantados em toda a Igreja Latina."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/tantum-ergo",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-salutaris-hostia",
+					"seeAlso": [
+						"collection/eucharistic"
+					]
+				}
+			]
+		},
+		{
+			"id": "catechesis",
+			"title": {
+				"en-US": "Catechetical Instructions",
+				"pt-BR": "Instruções Catequéticas"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's last preached work — his Lenten sermons at Naples in 1273 on the Creed, the Ten Commandments, the Our Father, and the Hail Mary. Plain, pastoral, addressed to ordinary people.",
+					"pt-BR": "A última obra pregada por Tomás — seus sermões quaresmais em Nápoles em 1273 sobre o Credo, os Dez Mandamentos, o Pai-Nosso e a Ave-Maria. Simples, pastorais, dirigidos ao povo comum."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-catechetical-instructions"
+				}
+			]
+		},
+		{
+			"id": "summa-and-major-works",
+			"title": {
+				"en-US": "Summa and Major Works",
+				"pt-BR": "Suma e Obras Maiores"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas's great theological syntheses. The *Summa contra Gentiles* (1259–1265) is his apologetic Summa — God and creatures argued from reason; the *Summa Theologiae*, his unfinished masterwork, set the architecture of Catholic theology for centuries.",
+					"pt-BR": "As grandes sínteses teológicas de Tomás. A *Suma contra os Gentios* (1259–1265) é sua Suma apologética — Deus e as criaturas argumentados a partir da razão; a *Suma Teológica*, sua obra-prima inacabada, fixou a arquitetura da teologia católica por séculos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "book/aquinas-summa-contra-gentiles"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Summa Theologiae (selections)",
+						"pt-BR": "Suma Teológica (seleções)"
+					},
+					"notes": {
+						"en-US": "The Treatise on the Theological Virtues, the Treatise on the Eucharist (III, qq.73–83), and the Treatise on Prayer (II-II, q.83) are the natural ascetical entry points for lay readers.",
+						"pt-BR": "O Tratado das Virtudes Teologais, o Tratado da Eucaristia (III, qq.73–83) e o Tratado da Oração (II-II, q.83) são as portas de entrada ascéticas naturais para leigos."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Compendium of Theology",
+						"pt-BR": "Compêndio de Teologia"
+					},
+					"notes": {
+						"en-US": "Aquinas's short systematic theology, organized around faith, hope, and charity. Unfinished.",
+						"pt-BR": "Teologia sistemática breve de Tomás, organizada em torno da fé, esperança e caridade. Inacabada."
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "commentary",
+			"title": {
+				"en-US": "Scripture & Patristic Commentary",
+				"pt-BR": "Comentários Bíblicos e Patrísticos"
+			},
+			"description": {
+				"body": {
+					"en-US": "Aquinas the *Magister in Sacra Pagina* — Master of the Sacred Page. His Scripture commentaries were the heart of his daily teaching at Paris and Naples.",
+					"pt-BR": "Tomás como *Magister in Sacra Pagina* — Mestre da Página Sagrada. Seus comentários bíblicos foram o coração de seu ensino diário em Paris e Nápoles."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Catena Aurea on the Four Gospels",
+						"pt-BR": "Catena Aurea sobre os Quatro Evangelhos"
+					},
+					"notes": {
+						"en-US": "Aquinas's verse-by-verse gloss on the Gospels, weaving the Greek and Latin Fathers into a single continuous reading. Commissioned by Pope Urban IV.",
+						"pt-BR": "Glosa versículo a versículo de Tomás sobre os Evangelhos, tecendo os Padres gregos e latinos numa leitura contínua. Encomendada pelo Papa Urbano IV."
+					},
+					"proposedKind": "book",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Commentary on the Gospel of John",
+						"pt-BR": "Comentário ao Evangelho de São João"
+					},
+					"notes": {
+						"en-US": "Considered by many his finest Scripture commentary.",
+						"pt-BR": "Considerado por muitos seu melhor comentário bíblico."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Commentary on the Letters of St. Paul",
+						"pt-BR": "Comentário às Cartas de São Paulo"
+					},
+					"notes": {
+						"en-US": "Especially Romans, 1 Corinthians, and Hebrews — the Pauline epistles most central to his theology of grace and Eucharist.",
+						"pt-BR": "Especialmente Romanos, 1 Coríntios e Hebreus — as epístolas paulinas mais centrais à sua teologia da graça e da Eucaristia."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Commentary on the Psalms",
+						"pt-BR": "Comentário aos Salmos"
+					},
+					"notes": {
+						"en-US": "Incomplete — Aquinas reached only Psalm 54 before his death.",
+						"pt-BR": "Incompleto — Tomás alcançou somente o Salmo 54 antes de morrer."
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "office-of-corpus-christi",
+			"title": {
+				"en-US": "The Office of Corpus Christi",
+				"pt-BR": "O Ofício de Corpus Christi"
+			},
+			"description": {
+				"body": {
+					"en-US": "The full propers Aquinas composed in 1264 for the new feast — the Mass *Cibavit*, the Office hymns (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*), and the sequence *Lauda Sion Salvatorem*.",
+					"pt-BR": "Os próprios completos que Tomás compôs em 1264 para a nova festa — a Missa *Cibavit*, os hinos do Ofício (*Sacris Solemniis*, *Verbum Supernum*, *Pange Lingua*) e a sequência *Lauda Sion Salvatorem*."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Sacris Solemniis (full hymn) — contains Panis Angelicus",
+						"pt-BR": "Sacris Solemniis (hino completo) — contém Panis Angelicus"
+					},
+					"notes": {
+						"en-US": "The Matins hymn. Stanzas 6–7 are the famous *Panis Angelicus* (already in the Prayers of St. Thomas).",
+						"pt-BR": "O hino das Matinas. As estrofes 6–7 são o famoso *Panis Angelicus* (já nas Orações de Santo Tomás)."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Verbum Supernum Prodiens (full hymn) — contains O Salutaris Hostia",
+						"pt-BR": "Verbum Supernum Prodiens (hino completo) — contém O Salutaris Hostia"
+					},
+					"notes": {
+						"en-US": "The Lauds hymn. Stanzas 5–6 are *O Salutaris Hostia*.",
+						"pt-BR": "O hino das Laudes. As estrofes 5–6 são o *O Salutaris Hostia*."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Lauda Sion Salvatorem (Sequence)",
+						"pt-BR": "Lauda Sion Salvatorem (Sequência)"
+					},
+					"notes": {
+						"en-US": "The sequence for the Mass of Corpus Christi — the longest of Aquinas's hymns and the most explicit doctrinal statement on the Eucharist set in verse.",
+						"pt-BR": "A sequência da Missa de Corpus Christi — o mais longo dos hinos de Tomás e a mais explícita declaração doutrinal sobre a Eucaristia posta em verso."
+					},
+					"proposedKind": "practice"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Mass of Corpus Christi — proper texts",
+						"pt-BR": "Missa de Corpus Christi — textos próprios"
+					},
+					"notes": {
+						"en-US": "The Mass *Cibavit* (Introit, Collect, Gradual, Alleluia, Sequence, Offertory, Communion) composed by Aquinas.",
+						"pt-BR": "A Missa *Cibavit* (Intróito, Coleta, Gradual, Aleluia, Sequência, Ofertório, Comunhão) composta por Tomás."
+					},
+					"proposedKind": "book"
+				}
+			]
+		},
+		{
+			"id": "biography-and-spirituality",
+			"title": {
+				"en-US": "Life and Spirituality",
+				"pt-BR": "Vida e Espiritualidade"
+			},
+			"blocks": [
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Life of St. Thomas Aquinas",
+						"pt-BR": "Vida de Santo Tomás de Aquino"
+					},
+					"notes": {
+						"en-US": "Born at Roccasecca; Monte Cassino oblate; Dominican against his family; pupil of Albert the Great; Paris and Naples; mystical experience of December 6, 1273 (\"all I have written is straw\"); death at Fossanova en route to Lyons (Mar 7, 1274); canonized 1323; Doctor of the Church 1567. Source from William of Tocco's *Ystoria sancti Thomae* (c. 1323), the contemporary canonization-process life.",
+						"pt-BR": "Nascido em Roccasecca; oblato em Monte Cassino; dominicano contra a família; aluno de Alberto Magno; Paris e Nápoles; experiência mística de 6 dez 1273 (\"tudo o que escrevi é palha\"); morte em Fossanova a caminho de Lyon (7 mar 1274); canonizado em 1323; Doutor da Igreja em 1567. Fonte na *Ystoria sancti Thomae* de Guilherme de Tocco (c. 1323), vida contemporânea do processo de canonização."
+					},
+					"proposedKind": "chapter",
+					"priority": "high"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "G. K. Chesterton — *St. Thomas Aquinas: The Dumb Ox*",
+						"pt-BR": "G. K. Chesterton — *Santo Tomás de Aquino: O Boi Mudo*"
+					},
+					"notes": {
+						"en-US": "Chesterton's 1933 short biography — praised by Étienne Gilson as the best book ever written on Aquinas. PD in some jurisdictions; check rights before sourcing.",
+						"pt-BR": "Breve biografia de Chesterton de 1933 — elogiada por Étienne Gilson como o melhor livro já escrito sobre Tomás. Domínio público em algumas jurisdições; verificar direitos antes de incorporar."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "*Aeterni Patris* (Leo XIII, 1879)",
+						"pt-BR": "*Aeterni Patris* (Leão XIII, 1879)"
+					},
+					"notes": {
+						"en-US": "The encyclical restoring Christian philosophy according to St. Thomas — the charter of the modern Thomistic revival.",
+						"pt-BR": "A encíclica que restaura a filosofia cristã segundo Santo Tomás — a carta magna do revival tomista moderno."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "*Studiorum Ducem* (Pius XI, 1923)",
+						"pt-BR": "*Studiorum Ducem* (Pio XI, 1923)"
+					},
+					"notes": {
+						"en-US": "Pius XI's encyclical on the sixth centenary of Aquinas's canonization — also the encyclical that promulgated the *Ante Studium* prayer.",
+						"pt-BR": "Encíclica de Pio XI no sexto centenário da canonização de Tomás — também a encíclica que divulgou a oração *Ante Studium*."
+					},
+					"proposedKind": "book"
+				},
+				{
+					"kind": "todo",
+					"title": {
+						"en-US": "Feast of St. Thomas Aquinas (Jan 28) — proper texts",
+						"pt-BR": "Festa de Santo Tomás de Aquino (28 jan) — textos próprios"
+					},
+					"notes": {
+						"en-US": "Collect, readings, and Office hymns for his feast in the Roman Calendar.",
+						"pt-BR": "Coleta, leituras e hinos do Ofício para sua festa no Calendário Romano."
+					},
+					"proposedKind": "practice"
+				}
+			]
+		}
+	]
+}
